@@ -1,0 +1,21 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Organisering och utveckling,,,,
+Processgrupp:,Övergripande organisering,,,,
+Process:,Organisera verksamheten,,,,
+Processnummer:,1.3.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Genomföra
+behovsanalys",Behovsanalys,Diarium,Digitalt,Bevaras,
+Utreda,"Risk- och
+sårbarhetsanalys",Diarium,Digitalt,Bevaras,"Kan ingå i utredningen. Kan skapas/upprättas i
+Stratsys, men ska bevars i diarium."
+,Utredning,Diarium,Digitalt,Bevaras,"Avser även utredningar som upprättas av externa
+konsulter."
+,Organisationsschema,Diarium,Digitalt,Bevaras,Kan ingå i utredningen.
+Besluta,Beslut från styrgrupp,Diarium,Digitalt,Bevaras,Om styrgrupp förekommer.
+,"Beslut från
+verksamhetens
+ledning",Diarium,Digitalt,Bevaras,"Beslut av fullmäktige eller nämnd, se process
+1.1.1.1 Hantera fullmäktige eller 1.1.2.1 Hantera
+nämndprocess."
+Följa upp,Uppföljning,Diarium,Digitalt,Bevaras,

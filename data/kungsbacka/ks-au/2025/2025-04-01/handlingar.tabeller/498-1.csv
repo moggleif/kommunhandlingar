@@ -1,0 +1,33 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,PA,,,,
+Process:,Beräkna och betala ut lön,,,,
+Processnummer:,2.3.6.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Beräkna lön,Persondata,Personec,Digitalt,Bevaras,"Persondata ur Personec, anställningsmatrikel,
+personuppgifter."
+,Arbetstidsschema,Artvise,Digitalt,2 år,
+,Månads och timrapporter,Artvise,Digitalt,7 år,
+,Utlandstraktamente,Personec,Digitalt,Bevaras,"Kopia i Artvise. Eventuella kvitton sparas på
+papper och gallras efter 7 år."
+,Lärarlyftsansökan,Artvise,Digitalt,7 år,
+,"Ansökan om omvandling av
+semesterdagar",Artvise,Digitalt,7 år,Till kontantersättning eller timmar.
+,"Ansökan, byte
+semesterdagstillägg mot
+ökad ledighet",Artvise,Digitalt,7 år,Kallas även semesterväxling.
+,"Sjukledighet, sjukförsäkran
+för timavlönad personal",Artvise,Digitalt,7 år,
+,Bil-avtal,Artvise,Digitalt,Bevaras,
+,"Anmälan av ändring i
+kodsträng",Artvise,Digitalt,2 år,
+,Anmälan av ändring i lön,Artvise,Digitalt,7 år,
+,"Ansökan och
+överenskommelse om
+löneväxling",Artvise,Digitalt,7 år,"Själva ansökan om löneväxling görs direkt av
+medarbetaren till försäkringsbolaget. En kopia
+skickas till Lönecenter."
+Beräkna lön,Begäran om intyg,Artvise,Digitalt,2 år,"Exempelvis anställningsbevis eller
+inkomstuppgift."
+,Intyg,Samarbetsrum,Digitalt,2 år,"Exempelvis anställningsbevis eller
+inkomstuppgift."

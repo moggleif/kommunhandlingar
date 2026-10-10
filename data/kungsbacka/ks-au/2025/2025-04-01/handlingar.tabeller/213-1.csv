@@ -1,0 +1,38 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,IT-plattform och drift,,,,
+Process:,Hantera Serverdrift och backup,,,,
+Processnummer:,2.2.3.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera drift av IT-
+infrastruktur","Logg kopplade till
+den gemensamma
+infrastrukturen","Digitalt Centers
+egna system och
+servrar",Digitalt,"Volymstyrd
+gallring",
+"Hantera elektroniska
+spår lokalt på dator","Temporary Internet
+Files",C:,Digitalt,"Volymstyrd
+gallring","Kopior av webbsidor som lagras i syfte att
+åstadkomma snabbare åtkomst. Uppsatt enligt
+Microsoft security baseline."
+,"Cookies/Formulärdata
+/Lösenord",C:,Digitalt,Se anm.,"Filer som webbplatser sparar lokalt på datorn för att
+spara personliga inställningar. Volymstyrd gallring,
+eller manuellt av användaren. Uppsatt enligt
+Microsoft security baseline."
+,Session Cookie,C:,Digitalt,Se anm.,"Tillfälliga elektroniska spår som sparas för att
+underlätta internetanvändning eller kommunikation.
+Lagras tills utgångsdatum uppnåtts. Forcerad
+manuell gallring kan genomföras när som helst av
+användaren. Uppsatt enligt Microsoft security
+baseline."
+,Windowslogg,C:,Digitalt,"Volymstyrd
+gallring","Operativsystemets händelseloggar som sparas
+lokalt på datorn."
+,"Eventloggar ifrån
+samtliga servrar",Log360,Digitalt,31 dagar,Används för säkerhetsövervakning
+,"Profilinformation,
+Remote Desktop","Central lagring på
+filserver",Digitalt,Vid inaktualitet,

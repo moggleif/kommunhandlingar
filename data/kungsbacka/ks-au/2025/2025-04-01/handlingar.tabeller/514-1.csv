@@ -1,0 +1,33 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Ekonomi,,,,
+Processgrupp:,Redovisning,,,,
+Process:,Hantera leverantörsfakturor,,,,
+Processnummer:,2.4.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera
+leverantörsfakturor",Leverantörsfakturor,Se anm.,Se anm.,Se anm.,"Digitala leverantörsfakturor: Hanteras i Visma
+proceedo, gallras efter 7 år.
+Analoga leverantörsfakturor: gallras efter 3 år.
+Inkomna pappersfakturor datumstämplas och
+skickas till skanningsleverantören för skanning och
+arkivering genom Visma Proceedo.
+Ett fåtal underlag kan ej skickas till
+scanningsföretaget och måste därmed hanteras med
+manuell registrering i Proceedo. Dessa arkiveras i
+närarkiv hos SE Inköp."
+,"Leverantörsreskontrajourn
+al",Se anmärkning,Digital,Bevara,Samarbetsrum Alla Ekonomi\Revision
+,"Räntefakturor, krav och
+inkasso","Närarkiv SE
+Inköp",Papper,7 år,"Inkomna krav på papper som inte skannas, manuell
+hantering och registrering direkt i ekonomisystemet
+Raindance."
+,"Fakturafiler från Proceedo
+till Raindance",Se anm.,Digitalt,2 år,"P:\DFiles\Proceedo\Arkiv
+Avser A, B och C-filer"
+,Kvitton,Se anm.,Papper,Se anm.,"Originalkvitton som är underlag för ej specificerade
+fakturor och där kvittot har scannats in till fakturan i
+Proceedo arkiveras på respektive enhet och får
+gallras efter 3 år
+Originalkvitton som är underlag för ej specificerade
+fakturor arkiveras på respektive enhet, samt med"

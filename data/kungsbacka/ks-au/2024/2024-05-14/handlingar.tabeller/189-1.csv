@@ -1,0 +1,16 @@
+Parametrar,Enhet,Utbyggnadskoncept,,,
+,,CAS,MBR,AGS,
+,,,,AGS-del,AS-del
+Slamavskiljning,,,,,
+Antal mellansedimenteringsbassänger,st.,2,-,-,2
+Volym mellansedimentering,m3,11 880,-,-,5 945
+Yta mellansedimentering,m²,2640,-,-,1 320
+Djup mellansedimenteringsbassäng,m,"4,5",-,-,"4,5"
+SVI,ml/g,150,-,-,150
+"Hydraulisk ytbelastning Q
+dim",m/h,"0,35",-,-,"0,56"
+"Hydraulisk ytbelastning Q
+max",m/h,"0,76",-,-,"0,82"
+Antar membranlinjer,st.,-,6,-,-
+"Flux Q 5 linjer i drift
+max,",L/(m2∙h),-,"36,8",-,-

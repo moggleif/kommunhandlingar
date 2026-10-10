@@ -1,0 +1,38 @@
+"Klimatbalans
+(ton CO per år)
+2e","AGS
++
+Rötning","AGS
++
+Rötning
++
+Pyrolys","AGS
++
+Pyrolys","AGS
++
+Alt. 0","AGS
++
+Alt. 0+
+(Rötning)"
+Emissioner:,,,,,
+"Direkta emissioner från företagsägda bilar, reservkraft och
+värme",16,16,16,16,16
+"Direkta emissioner av N O
+2",2 010,2 010,1 720,1 720,2 010
+"Direkta emissioner av CH
+4",700,700,470,470,690
+"Direkta emissioner av CO från respiration av kolkälla
+2",0,0,0,0,0
+"El-, värmeanvändning",2 140,2 390,2 360,1 980,2 060
+"Indirekta emissioner från företagsägda bilar och
+reservkraft",11,11,11,11,11
+Indirekta utsläpp från produktion av kemikalier,200,200,210,2 360,300
+"Inköpta transporter, av logistikbolag",14,3,4,37,100
+Emissioner från restprodukter,360,190,220,540,360
+Totala emissioner,5 450,5 520,5 010,7 130,5 540
+Potentiell klimatnytta:,,,,,
+"Potentiell klimatnytta från el, värme och bränslen",-1 480,-1 480,-110,-37,-1 350
+Potentiell klimatnytta från Avloppsslam,-1 630,-340,-470,-2 660,-1 640
+Total potentiell klimatnytta,-3 110,-1 820,-580,-2 700,-2 990
+Klimatbalans (Klimatpåverkan + Klimatnytta),2 340,3 700,4 430,4 430,2 550
+Utvärdering (poäng),"5,0","3,2","2,6","2,6","4,6"

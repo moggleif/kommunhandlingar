@@ -1,0 +1,14 @@
+"Antal invånare i
+en zon",Minsta antal mätstationer,"Minsta antal mätstationer vid
+tillämpning av 50 procents rabatt vid
+kompletterande övervakning"
+<250 000,1,1
+<500 000,2,1
+<1 000 000,2,1
+<1 500 000,3,2
+<2 000 000,4,2
+<2 750 000,5,3
+<3 750 000,6,3
+≥3 750 000,"En ytterligare station per 2
+miljoner invånare","En ytterligare station per 4 miljoner
+invånare"

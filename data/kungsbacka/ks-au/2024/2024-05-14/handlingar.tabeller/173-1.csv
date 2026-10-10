@@ -1,0 +1,8 @@
+Utvärderingskriterium,Mätmodell,Värderingstyp,Viktning
+Energi,Energibalans,Kvantitativ,12 %
+Klimat,Klimatberäkning för driftsfas,Kvantitativ,18 %
+Ekonomi,LCC (livscykelkostnad),Kvantitativ,18 %
+Redundans/flexibilitet,Antal linjer och processkonfiguration,Kvalitativt,24 %
+Drift/arbetsmiljö,Bedömning av skillnader mellan processlösningarna,Kvalitativt,24 %
+Innovation,"Innovationsgrad, utifrån hur nyskapande
+processlösningen med tillhörande tekniker är.",Kvalitativt,6 %

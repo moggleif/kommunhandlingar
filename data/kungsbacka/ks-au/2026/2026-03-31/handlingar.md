@@ -1,0 +1,16489 @@
+---
+kommun: kungsbacka
+organ: ks-au
+datum: 2026-03-31
+lopnr: null
+typ: handlingar
+namn: null
+kallnyckel: sitevision:18.7607344a19d24be2a5e1ffb6
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e1ffb6/1774531066019/Kommunstyrelsens%20arbetsutskott%20handlingar%202026-03-31.pdf
+sha256: 4403e9224b26a4d2b9af1415f0889948e3b4950704e0b59df7f8d6fc5ff1ecdb
+bytes: 19233767
+sidor: 386
+hamtad: 2026-10-10T11:53:57+00:00
+konverterad: 2026-10-10T11:57:49+00:00
+pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+kvalitet: delvis
+fel: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad]
+tal_obekraftade: [24, 25, 26, 27, 42, 43, 44, 45, 46, 48, 82, 106, 107, 209, 210, 221, 277, 278, 288, 289, 298, 299, 300, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 377, 378, 383, 384, 385, 386]
+figurer: [33, 69, 70, 84, 90, 103, 132, 212, 214, 216, 218, 219, 220, 222, 223, 224, 226, 227, 228, 230, 231, 232, 233, 234, 236, 237, 238, 240, 241, 242, 243, 244, 245, 246, 248, 249, 250, 251, 252, 254, 255, 256, 258, 260, 262, 263, 264, 266, 268, 269, 270, 272, 273, 274, 275, 276, 279, 280, 281, 282, 283, 284, 285, 286, 290, 292, 293, 294, 295, 296, 302, 304, 306, 308, 310, 312, 315, 379, 381, 382]
+tolkade: []
+---
+
+<!-- sida 1 -->
+
+KALLELSE/UNDERRÄTTELSE
+
+Upprättad
+2026-03-24
+
+Kommunstyrelsens  arbetsutskott
+
+Sammanträde Tisdagen den 31 mars 2026 kl. 08:30
+Kungsbackarummet, Storgatan 37
+
+Therese Tanner                                               Kungsbacka kommun
+Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
+Direkt 0300-834235
+therese.tanner@kungsbacka.se                                    Besöksadress
+Stadshuset
+www.kungsbacka.se
+
+[Tabell 1-1](handlingar.tabeller/1-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+|  | Val av justerare |  | Emanuel Forsell |
+| 1. | Ombudgeteringar och<br>resultatfonder 2025 | KS-2026-00133 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ökar resultatfonderna med en<br>total summa av 88 162 000 kronor till totalt<br>595 561 000 kronor.<br>Kommunfullmäktige utökar nämndernas driftramar<br>genom att ombudgetera 19 617 000 kronor avseende<br>kvarvarande engångskostnader i lokalplan.<br>Finansiering sker från kommunfullmäktiges anslag<br>för oförutsedda medel med 10 000 000 kronor samt<br>6 000 000 kronor från kommunstyrelsens anslag för<br>oförutsedda medel samt 3 617 000 kronor från<br>Kommunstyrelsens arbetsutskotts anslag för<br>oförutsedda medel.<br>Kommunfullmäktige godkänner ombudgetering samt<br>omplanering av investeringar och exploateringar från<br>2025 till år 2026 med 159 501 000 kronor med en<br>total investerings- och exploateringsvolym på<br>1 631 548 000 kronor för 2026.<br>Kommunfullmäktige godkänner ombudgetering av<br>investeringar från 2025 och till år 2027 med<br>70 622 000 kronor.<br>Investeringsvolymen finansieras inom ramen för<br>kommunfullmäktiges beslut med begränsningen om<br>att den totala låneskulden inte överstiger<br>totalbeloppet om 1 400,0 miljoner kronor år 2026,<br>(Kommunbudget 2026, antagen av<br>kommunfullmäktige 2025-06-16, § 114). |
+
+<!-- sida 2 -->
+
+KUNGSBACKA  KOMMUN
+
+2(5)
+
+[Tabell 2-1](handlingar.tabeller/2-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 2. | Omfördelning av statsbidrag<br>2025 avseende stöd till<br>kommuner i omställningen till<br>en långsiktigt hållbar, mer<br>förebyggande och<br>kunskapsbaserad socialtjänst | KS-2026-00220 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar statsbidraget 2025 för<br>omställning till nya socialtjänstlagen med<br>6 067 396 kronor till nämnden för Individ &<br>Familjeomsorg, 1 534 698 kronor till nämnden Vård<br>& Omsorg och 545 785 kronor till Gymnasium &<br>Arbetsmarknad. |
+| 3. | Svar på Göteborgsregionens<br>remiss av samrådsunderlag<br>inför budget 2027 | KS-2026-00207 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen har inget att erinra mot<br>samrådsunderlag inför budget 2027 för<br>Göteborgsregionens kommunalförbund. |
+| 4. | Begäran om medel för trygg<br>uppväxt - Teknik | KS-2026-00159 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>1 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Teknik. |
+| 5. | Förslag om avveckling av<br>Kapten Menns fond | KS-2025-00912 | Förslag till beslut i kommunstyrelsen<br>Kommunfullmäktige beslutar att avveckla stiftelsen<br>Kapten Menns fond och använda dess tillgångar.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att genomföra avvecklingen. |
+| 6. | Antagande av policy och<br>riktlinjer för<br>inköpsverksamheten i<br>Kungsbacka kommun | KS-2026-00163 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Policy för inköp,<br>Riktlinjer för inköp och Riktlinjer för<br>direktupphandling, daterade 2026-02-06.<br>Policy för inköp och Riktlinjer för inköp, antagna av<br>kommunfullfullmäktige 2021-03-09 § 30, samt<br>Riktlinjer för direktupphandling, antagen av<br>kommunfullmäktige 2022-10-18 § 160, upphör<br>samtidigt att gälla. |
+| 7. | Svar på länsstyrelsen i Hallands<br>remiss av regional<br>handlingsplan för elektrifiering | KS-2025-00944 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-04,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
+| 8. | Svar på Varbergs kommuns<br>remiss av fördjupad<br>översiktsplan för Väröbacka | KS-2026-00149 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-02,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
+
+[Tabell 3-1](handlingar.tabeller/3-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 9. | Förlängning av principavtal och<br>markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | KS-2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
+| 10. | Godkännande av förslag till<br>exploateringsavtal och<br>överenskommelse om<br>fastighetsreglering avseende<br>detaljplan för verksamheter och<br>bostäder inom Åsa<br>5:156 och 5:14 m.fl. i Åsa | KS-2026-00064 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter och bostäder<br>inom Åsa 5:156 och Åsa 5:14 m.fl., mellan<br>kommunen å ena sidan och West Sörvik AB samt<br>Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat<br>av bolagen 2026-02-27.<br>Kommunstyrelsen godkänner överenskommelse om<br>fastighetsreglering mellan kommunen och<br>Sörviksvägen 7 Åsa AB undertecknat av bolaget<br>2026-02-27, genom vilken mark för<br>parkeringsändamål ska överföras från kommunens<br>fastighet till bolagets fastighet, mot en ersättning på<br>529 000 kronor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 11. | Begäran om planbesked för del<br>av Kolla 5:2 | KS-2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
+
+[Tabell 4-1](handlingar.tabeller/4-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 12. | Avstämning och information<br>om startplan<br>09:15-10:00<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Thure Sandén (BNAU)<br>Heinrich Kaufmann (BNAU)<br>Lars Eriksson (BNAU)<br>Daniel Hognert (BNAU)<br>Stefan Vilumsons (BNAU) | KS-2026-00018 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Information om<br>Samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhands-<br>besked inom utvecklingsort<br>10:15-10:45<br>Stina Wikström<br>Ida Lennartsson | KS-2026-00043 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information markförläggning av<br>kraftledning Klovsten-Gräskärr<br>– Ellevio<br>10:50-11:20<br>Lena Melvinsdotter<br>Johan Gerremo | KS-2019-00488 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 15. | Avstämning kring utredning av<br>premie till jägare för fällda<br>vildsvin<br>11:25-11:45<br>Mårten Västerdal<br>Anders Lund | KS-2025-00881 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(5)
+
+Lisa Andersson                    Therese Tanner
+ordförande                        sekreterare
+
+[Tabell 5-1](handlingar.tabeller/5-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 16. | Information om status i projekt<br>Naturum<br>11:45-12:00<br>Maria Rosenberg<br>Julia Tryggvadottir Tollesson | KS-2025-00714 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 17. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+
+<!-- sida 6 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-02-16
+Diarienummer
+KS-2026-00133
+
+Ombudgeteringar och resultatfonder 2025
+
+Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige ökar resultatfonderna med en total summa av 88 162 000 kronor till totalt
+595 561 000 kronor.
+
+Kommunfullmäktige utökar nämndernas driftramar genom att ombudgetera 19 617 000 kronor
+avseende kvarvarande engångskostnader i lokalplan. Finansiering sker från kommunfullmäktiges
+anslag för oförutsedda medel med 10 000 000 kronor samt 6 000 000 kronor från kommunstyrelsens
+anslag för oförutsedda medel samt 3 617 000 kronor från Kommunstyrelsens arbetsutskotts anslag för
+oförutsedda medel.
+
+Kommunfullmäktige godkänner ombudgetering samt omplanering av investeringar och exploateringar
+från 2025 till år 2026 med 159 501 000 kronor med en total investerings- och exploateringsvolym på
+1 631 548 000 kronor för 2026.
+Kommunfullmäktige godkänner ombudgetering av investeringar från 2025 och till år 2027 med
+70 622 000 kronor.
+
+Investeringsvolymen finansieras inom ramen för kommunfullmäktiges beslut med begränsningen om
+att den totala låneskulden inte överstiger totalbeloppet om 1 400,0 miljoner kronor år 2026,
+(Kommunbudget 2026, antagen av kommunfullmäktige 2025-06-16, § 114).
+
+Sammanfattning av ärendet
+
+I samband med genomgång av bokslutet för 2025 har det framställts önskemål från nämnder och
+kommunstyrelsen om att överskott i driftbudgeten och investeringsbudgeten ska få disponeras 2026–
+2027 eller tillföras till resultatfonden.
+Beslut om hur resultatfonderna ska justeras utifrån nämndernas resultat och de gällande reglerna för
+resultatfonder fattas i samband med bokslutet. Reglerna för hur resultatfonder ska hanteras är beslutade
+i kommunbudgeten.
+
+Resultatfonderna uppgår efter förändring till 595 561 000 kronor.
+
+1 (10)
+Kommunledningskontoret                                    Kungsbacka kommun
+434 81 Kungsbacka
+Ing-Britt Blomberg
+0300-834678                                                  Besöksadress
+Specialist ekonomi                                       Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 7 -->
+
+KUNGSBACKA  KOMMUN
+2 (10)
+
+Förslaget innebär en utökning av nämndernas driftramar genom att ombudgetera 19 617 000 kronor
+avseende kvarvarande engångskostnader i lokalplan.
+Av totala investerings- och exploateringsvolymen 1 631 548 kronor 2026 består 1 472 047 kronor av
+beslutad kommunbudget 2026 samt av ombudgeteringar från 2025 och omplaneringar för 2026 med
+sammantaget 159 501 000 kronor.
+
+Beslutsunderlag
+Kommunledningskontorets tjänsteskrivelse, 2026-02-16
+Bilaga tjänsteskrivelse ombudget investeringar 2025
+
+Bilaga summering ombudget drift och resultatfond 2025
+
+Beslutet skickas till
+
+Samtliga nämnder, kommunstyrelsens förvaltning: Styrning & Ekonomi
+
+Beskrivning av ärendet
+Varje år i samband med bokslutet beslutar kommunfullmäktige om hur resultatfonderna ska justeras
+
+utifrån nämndernas resultat och gällande regler för resultatfonder. Reglerna för hur resultatfonder ska
+hanteras är beslutade i kommunbudgeten. Utöver detta fattas det även beslut om ombudgeteringar för
+drift och investeringar.
+
+Resultatfonder
+Resultatfonderna är inte några egna fonder utan en öronmärkning av det egna kapitalet. Vid uttag ur
+fonderna påverkas resultatet det år som uttaget görs. Resultatfondering är ett sätt att ta med sig ett
+över- eller underskott för att främja en god ekonomistyrning. Nämnder och kommunstyrelse kan föra
+
+med sitt resultat jämfört mot budget enligt fastställda regler i kommunens ekonomistyrningsprinciper.
+För den avgiftsfinansierade verksamheten finns särskilda regler och de ingår inte i uppställningen.
+Enligt beslutat regelverk får varje nämnds resultatfond högst uppgå till 10 procent av
+bruttoomslutningen. Kommunfullmäktige kan dock besluta om undantag om särskilda skäl föreligger.
+Efter årets beredning har Gymnasium & Arbetsmarknad och Service nått taket för resultatfondens
+
+storlek.
+
+<!-- sida 8 -->
+
+KUNGSBACKA  KOMMUN
+3 (10)
+
+Nämndernas redovisade ombudgeteringar och resultatfonder
+Nämnd/Styrelse          Noteringar
+Individ & Familjeomsorg Nämnden redovisar ett underskott om 9 095 000 kronor.
+Nämnden föreslår att underskottet finansieras av nämndens
+resultatfond. Nämnden fortsätter att arbeta för en hållbar
+socialtjänst med ekonomi i balans. Den negativa
+budgetavvikelsen är ett resultat av ökade volymer och ökat
+behov inom flertalet av nämndens verksamheter. Främst avser
+underskottet volymökningar med påföljande kostnadsökningar
+inom verksamhetsområdet Myndighet, stöd och behandling.
+Kommunstyrelsens förvaltning föreslår att nämndens begäran
+
+beviljas, vilket innebär att resultatfonden minskar med -9 095
+000 kronor.
+
+Förskola & Grundskola   Nämnden redovisar ett överskott om 19 408 000 kronor.
+Nämnden föreslår att hela överskottet förs över till nämndens
+resultatfond. Överskottet beror till stor del på lägre kostnader
+inom den centrala organisationen. Detta gäller främst kostnader
+för lokalhyror, lokalvård, skolmåltider,
+kompetensutvecklingsprojekt, skolskjutskostnader och system.
+En prioritet har varit att arbeta med lokaleffektivitet för att
+minska kostnaderna då flera lokaler och paviljonger har
+avvecklats under året. Nämnden har konsekvent arbetat med
+åtgärdsplaner under året för att nå en budget i balans som ska
+möta ett lägre barn- och elevantal.
+Kommunstyrelsens förvaltning föreslår att nämndens begäran
+beviljas förutom 361 000 kronor som avser internränta som
+återredovisas och resterande överskott på 19 047 000 kronor
+förs till nämndens resultatfond.
+
+Gymnasium & Arbetsmarknad Gymnasium & Arbetsmarknad redovisar ett överskott om 1 800
+000 kronor. Nämnden föreslår att 300 000 kronor överförs till
+resultatfonden och de resterande 1 500 000 kronor föreslås att
+återredovisas då nämnden når taket för resultatfondens tillåtna
+storlek.
+Gymnasieverksamheten och vuxenutbildningen redovisar
+underskott på grund av minskat antal elever samt att nödvändiga
+anpassningar inte har kunnat genomföras under året. Ett
+underskott redovisas även för svenska för invandrare, SFI.
+Övriga verksamheter visar ett positivt resultat. Inom
+etableringsverksamheten beror överskottet på lägre kostnader
+
+<!-- sida 9 -->
+
+KUNGSBACKA  KOMMUN
+4 (10)
+
+för köp av externa platser. Nämnden ser också lägre kostnader
+för ekonomiskt bistånd som fortsatt ligger på en låg nivå.
+Kommunstyrelsens förvaltning föreslår att nämndens begäran
+beviljas då resultatfonden kommer ligga inom resultatfondens
+tillåtna storlek. Vilket innebär att resultatfonden ökar med 300
+000 kronor.
+
+Vård & Omsorg           Vård & Omsorg redovisar ett överskott om 26 072 000 kronor.
+Nämnden föreslår att hela överskottet förs till resultatfonden.
+Den huvudsakliga förklaringen till överskottet är att nämnden
+har avsatt pengar för att öppna Signeshus vård- och
+omsorgsboende under 2026 efter avslutad renovering och för att
+täcka oförutsedda händelser. Förvaltningen har de senaste åren
+arbetat med effektiviseringar för att bibehålla en budget i balans
+och därigenom skapa utrymme för att kunna möta förändringar i
+samhället med bland annat ökad andel äldre och kompetensbrist.
+
+Kommunstyrelsens förvaltning föreslår att överskott för
+internräntan på 435 000 kronor återredovisas och att resterande
+del om 25 637 000 kronor förs till nämndens resultatfond.
+
+Byggnadsnämnden         Byggnadsnämnden redovisar ett överskott om 1 702 000 kronor.
+Det beror framför allt på lägre ärendeinflöde inom bygglov samt
+lägre bemanning inom flera områden. Nämnden föreslår att
+7 000 kronor avseende internränta återredovisas samt att
+resterande överskott om 1 695 000 kronor förs till
+resultatfonden. Beloppet inkluderar överskott för projektbudget
+kartutveckling på 4 000 kronor
+
+Kommunstyrelsens förvaltning föreslår att 7 000 avseende
+internräntan återredovisas samt att nämndens begäran om att
+överföra 1 695 000 kronor till resultatfonden godkänns.
+
+Miljö & Hälsoskydd      Nämnden redovisar ett överskott om 108 000 kronor. Jämfört
+med budget har nämnden en positiv budgetavvikelse där det i
+första hand är kostnaderna för arvoden som varit något lägre än
+budgeterat för året. Då nämnden inte har någon resultatfond
+
+eller projekt som kan ombudgeteras föreslår nämnden att hela
+överskottet återredovisas.
+Kommunstyrelsens förvaltning föreslår att nämndens begäran
+beviljas och att hela överskottet återredovisas.
+
+<!-- sida 10 -->
+
+KUNGSBACKA  KOMMUN
+5 (10)
+
+Kultur & Fritid         Nämnden redovisar ett överskott om 1 494 000 kronor.
+Förklaringar är vakanser inom personalen samt framflyttade och
+pausade investeringsprojekt som bidragit till överskottet inom
+driften genom lägre avskrivningar och internränta. Nämnden
+föreslår att nämndens överskott om 653 000 kronor avseende
+bland annat internränta samt tilläggsanslag för civil beredskap
+återredovisas. Nämnden föreslår vidare att 640 000 kronor
+avseende tilläggsanslag för stärkt brottsförebyggande
+verksamhet ombudgeteras till 2026 då tjänsten som samordnare
+varit vakant under del av året. Nämnden föreslår att resterande
+överskott om 201 000 kronor förs till nämndens resultatfond.
+Kommunstyrelsens förvaltning föreslår att 1 293 000 kronor
+återredovisas, resterande 201 000 kronor förs till resultatfonden.
+
+Teknik skatt            Nämnden för Teknik redovisar ett överskott om 5 977 000
+kronor. Överskottet beror främst på lägre kapitalkostnader på
+grund av att man flyttat fram exploateringsprojekt. Det är
+framför allt exploateringen för Gjutaren och Liljan som bidrar
+till en positiv avvikelse. Personalkostnaderna har även varit
+lägre på grund av vakanser i verksamheten. Nämnden föreslår
+att hela överskottet förs över till nämndens resultatfond.
+
+Kommunstyrelsens förvaltning föreslår att överskottet om
+460 000 kronor förs över till nämndens resultatfond. Resterande
+del om 5 517 000 kronor återredovisas då det avser
+kapitalkostnader för under året ej genomförda investerings och
+exploateringsprojekt. Beloppet ingår i budgetramen för 2026.
+
+Service                 Nämnden visar ett totalt överskott om 78 875 000 kronor.
+Av det totala överskottet redovisar Service fastighet ett
+
+överskott om 62 431 000 kronor. En stor del av överskottet
+beror på att uppstartade lokalplansprojekt inte har nått upp till
+avsatt budget under 2025. Detsamma gäller för de budgetmedel
+som avsatts för utrangeringar av anläggningar och
+förseningsvite som kommunen har fått. Nämnden föreslår att
+Service fastigheter avvikelse för pågående projekt i lokalplanen
+och engångsdriftkostnader på 48 847 000 kronor ombudgeteras
+samt att återredovisa 7 333 000 kronor för bland annat
+internränta, och förseningsvite. Efter ombudgetering och
+återredovisning har Service fastighet en avvikelse på 6 251 000
+kronor som nämnden föreslår ska föras till resultatfonden.
+
+<!-- sida 11 -->
+
+KUNGSBACKA  KOMMUN
+6 (10)
+
+Service övrig verksamhet redovisar ett överskott på totalt
+16 444 000 kronor. Service övriga verksamheter är inom HR
+och personalförsörjning, utveckling, kommunikation och
+kundstöd, lokalvård, måltider, digitalt center och inköp som
+redovisar ett överskott.
+Av Service övrig verksamhet föreslår nämnden att återredovisa
+1 194 000 kronor för internränta och att resterande överskott på
+15 250 000 kronor förs till resultatfonden.
+
+Sammantaget föreslår nämnden att ombudgetera totalt
+48 847 000 kronor, att återredovisa 8 527 000 kronor samt att
+föra 21 501 000 kronor till resultatfonden.
+
+Kommunstyrelsens förvaltning föreslår att av nämndens
+budgetavvikelse återredovisa 10 601 000 kronor, att
+ombudgetera 18 357 000 kronor och att föra 49 917 000 till
+resultatfonden.
+
+Kommunstyrelsen         Redovisar ett överskott om 16 523 000 kronor. Det beror främst
+på att delar av kommunens satsningar på IT och digitalisering
+tar tid att genomföra, ofördelade resurser i projektportföljen,
+lägre driftkostnader inom lokalplanering, högre intäkter inom
+samhällsbyggnadsområdet samt relativt hög nivå av
+personalvakanser under året.
+Kommunstyrelsens förvaltning föreslår att hela överskottet
+återredovisas.
+
+Kommunstyrelsens lokalplan redovisar ett överskott om
+165 000 000 kronor. Överskottet avser centralt budgeterade
+Finansförvaltning övrigt hyresmedel och avskrivningar samt engångskostnader för nya
+lokaler i lokalplanen. Det beror på att flera investeringar har
+flyttats fram i tiden eller pausats vilket ger lägre driftkostnader
+för 2025.
+Kommunstyrelsens förvaltning föreslår att allt från lokalplanen
+återredovisas förutom 1 260 000 kronor som ombudgeteras till
+2026 för kommande engångskostnader i lokalplanen.
+
+<!-- sida 12 -->
+
+KUNGSBACKA  KOMMUN
+7 (10)
+
+Resultatfonder
+
+Nämnd/Styrelse Belopp i UB 2025 Bokslut Nämndens Förslag Förslag IB 2026
+tusentals kronor         2025     begäran
+
+Arbetsmarknad
+
+Nämndernas inlämnade förslag innebär en ökning av resultatfonderna med 66 059 000 kronor. Efter
+genomgång föreslås ökningen bli 88 162 000 kronor. Nämndernas ingående resultatfonder 2025 uppgår
+till 507 399 000 kronor. Efter förslag till resultathantering uppgår nämndernas totala resultatfonder
+2026 till 595 561 000 kronor.
+
+Ombudgetering till driftbudget 2026
+I samband med bokslutet för 2025 finns pågående projekt som fortsätter 2026. Möjlighet finns att
+omfördela dessa från anslaget för oförutsett, som finns avsatt med olika belopp hos kommunstyrelsen
+och kommunfullmäktige.
+
+Belopp i tusentals Nämndernas Förslag till
+kronor               begäran kommunfullmäktige
+
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
+| --- | --- | --- | --- | --- | --- |
+| Kommunstyrelsen | 0 | 16 523 | 0 | 0 | 0 |
+| Kommunrevision | 0 | 294 | 0 | 0 | 0 |
+| Valnämnden | 0 | 41 | 0 | 0 | 0 |
+| Gymnasium & | 77 300 | 1 800 | 300 | 300 | 77 600 |
+
+[Tabell 12-2](handlingar.tabeller/12-2.csv)
+
+| Kultur & Fritid | 29 615 | 1 494 | 201 | 201 | 29 816 |
+| --- | --- | --- | --- | --- | --- |
+| Förskola & Grundskola | 125 705 | 19 408 | 19 408 | 19 047 | 144 752 |
+| Teknik Skatt | 4 528 | 5 977 | 5 977 | 460 | 4 988 |
+| Miljö & Hälsoskydd | 0 | 108 | 0 | 0 | 0 |
+| Byggnadsnämnden | 5 481 | 1 702 | 1 695 | 1 695 | 7 176 |
+| Individ & Familjeomsorg | 18 921 | -9 095 | -9 095 | -9 095 | 9 826 |
+| Vård & Omsorg | 127 658 | 26 072 | 26 072 | 25 637 | 153 295 |
+| Service | 31 580 | 16 444 | 15 250 | 15 250 | 46 830 |
+| Service Fastigheter | 75 345 | 62 431 | 6 251 | 34 667 | 110 012 |
+| Finans | 11 266 | 200 239 | 0 | 0 | 11 266 |
+| Totalt | 507 399 | 343 645 | 66 059 | 88 162 | 595 561 |
+
+[Tabell 12-3](handlingar.tabeller/12-3.csv)
+
+| Service | 48 847 | 18 357 |
+| --- | --- | --- |
+| Kultur & Fritid | 640 | 0 |
+| KS lokalplan | 1 260 | 1 260 |
+| Summa | 50 747 | 19 617 |
+
+<!-- sida 13 -->
+
+KUNGSBACKA  KOMMUN
+8 (10)
+
+Service föreslår en ombudgetering om 48 847 000 kronor avseende pågående lokalprojekt som avser
+bland annat Projekt som Arenan, Signes hus, restvärden, rivning och sanering Klovsten, Kv. Liljan,
+reservkraft Vård och omsorgsboenden, engångsdrift Toråsskolan och Kungsbacka ridklubb.
+Kommunstyrelsens förvaltning föreslår en ombudgetering om 18 357 000 kronor avseende ej avropade
+engångskostnader i lokalplanen. Detta avser bland annat Arenan, reservkraft till vård- och
+omsorgsboende, rivning Kv. Liljan, Signes hus. Resterande begäran läggs till nämndens resultatfond.
+
+Nämnden för Kultur & Fritid föreslår att 640 000 kronor avseende tilläggsanslag för stärkt
+brottsförebyggande verksamhet ombudgeteras till 2026 då tjänsten som samordnare varit vakant under
+del av året.
+Kommunstyrelsens förvaltning föreslår att det inte ombudgeteras då det är ett engångsanslag under
+2025.
+
+Kommunstyrelsens förvaltning föreslår att allt från lokalplanen återredovisas förutom 1 260 000 kronor
+som ombudgeteras till 2026 för kommande engångskostnader i lokalplanen.
+
+Ombudgetering och omplanering av investeringar och exploateringar till 2026 och 2027
+Från nämnderna har begäran om ombudgetering och omplanering av investeringar inkommit på
+sammanlagt 311 703 000 kronor för pågående och pausade projekt. Förslaget omfattar 315 703 000
+kronor till år 2026 och –4 000 000 kronor till år 2027.
+Kommunstyrelsens förvaltning föreslår att totalt 230 123 000 kronor kan ombudgeteras, varav 159 501
+000 kronor till år 2026 och 70 622 000 kronor till år 2027. Löpande investeringar ombudgeteras inte.
+Den kommande planeringsperioden har kommunen en fortsatt hög budgeterad investeringsnivå. I
+samband med kommande Kommunbudget 2027 görs en planering där vi ser över investeringsbehoven
+kopplad till en mer dämpad befolkningstillväxt. Översynen avser både byggnationer i nya lokaler och i
+övriga investeringar såsom i ny infrastruktur. Vi kan se en förskjutning från nybyggnation till
+reinvesteringar i befintliga lokaler och infrastruktur såväl i den skattefinansierade som i den
+avgiftsfinansierade verksamheten.
+
+Löpande investeringar
+Önskad ombudgetering från nämnderna till år 2026 är totalt 4 500 000 kronor där hela summan avser
+nämnden för Service. Kommunstyrelsens förvaltning förslår att önskemålet på 3 500 000 kronor
+avseende köldmedia omklassificeras till övriga investeringar och 1 000 000 avslås då löpande
+investeringar inte ombudgeteras med hänvisning till kommunens ekonomistyrprinciper.
+
+Övriga och reinvesteringar
+Önskad ombudgetering och omplanering för övriga investeringar uppgår för nämnderna till
+sammanlagt 100 146 000 kronor år 2026. Ombudgeteringarna avser bland annat reinvestering av
+
+tekniska lösningar hos nämnden för Vård & Omsorg. Service Fastighet har bland annat inredning till
+Signehus vård- och omsorgsboende, Stockalids förskola, Naturum, Klockaregårdens förskola och
+Vallda boende med särskild service. Nämnden för Teknik har bland annat investeringar inom
+exploateringsområden i gator, vägar och allmän platsmark som allmän platsmark för Må Park, Skår
+12:1, Duvehed samt gator inom kvarteret Gjutaren och Liljan. Kultur & Fritid har bland annat
+konstgräsplan och dränering för Arenaprojektet samt för sorteringsrobot inom biblioteksverksamheten
+
+<!-- sida 14 -->
+
+KUNGSBACKA  KOMMUN
+9 (10)
+
+och ombudget avseende Tingbergsvallen där nämnden önskar flytta budgetmedel från år 2027 till år
+2026 på 4 000 000 kronor.
+Kommunstyrelsens förvaltning föreslår att 103 646 000 kronor för pågående investeringar inom Vård
+& Omsorg, Service, Teknik och Kultur & Fritid ombudgeteras till år 2026.
+
+Lokalinvesteringar
+I samband med bokslutet för 2025 finns pågående investeringsprojekt i lokalplanen som fortsätter
+under 2026. Nämnden för Service föreslår ombudgetering av pågående lokalprojekt med 208 251 000
+kronor 2026. Dessa består främst av bland annat Arenan och Räddningstjänsten Klovsten. Nämnden för
+Kultur & Fritid önskar ombudgetering av konstnärlig gestaltning i lokaler med 852 000 kronor för år
+2026. Inom lokalplansbudget ingår centralt kvarstående medel om 1 300 000 kronor som avser
+Naturum Fjärås Bräcka och tillfälliga medel som avser centralförråd grundutrustning hjälpmedel.
+Total önskad ombudgetering och omplanering för lokaler till år 2026 är därmed 210 403 000 kronor.
+
+Kommunstyrelsens förvaltning föreslår att projekten som återredovisas om totalt -80 079 000 kronor är
+Frillesås rid och körklubb, Iseråsskolan, Räddningstjänsten Klovsten, myndighetskrav Elof Lindälv
+samt myndighetskrav Kullaviksskolan samt att -37 000 000 kronor som avser Arenan och Alekärret
+stall och gödselplatta flyttas fram och ombudgeteras till 2027. Total är det därmed -117 580 000 kronor
+som justeras jämfört med nämndernas förslag.
+
+Kommunstyrelsens förvaltning föreslår att 92 823 000 kronor ombudgeteras till 2026 bestående av
+projekten Arenan, konstnärlig gestaltning i lokaler, Naturum Fjärås Bräcka, tillfälliga medel som avser
+centralförråd grundutrustning hjälpmedel samt mindre pågående lokalprojekt. Arenan och Alekärret
+stall och gödselplatta ombudgeteras till 2027 med totalt 37 000 000 kronor.
+
+Avgiftsfinansierad verksamhet
+Önskad ombudgetering från nämnden Teknik till år 2026 är totalt 38 123 000 kronor, varav 501 000
+kronor avser Kungsbacka bredbandsnät och 37 622 000 kronor avser VA framtidens reningsverk.
+Ombudgeteringarna för 2026 avser framtidens reningsverk Hammargård och utbyggnad av nätet för
+landsbygd.
+
+Kommunstyrelsens förvaltning föreslår att 501 000 kronor ombudgeteras till 2026 och att 37 622 000
+kronor ombudgeteras till 2027.
+
+Exploateringar
+
+Omplanering av exploateringsverksamheten visar en förändrad budget med netto -37 469 000 kronor år
+2026. Den största avvikelsen i jämförelse med årsbudgeten 2026 beror på tidsförskjutning i
+genomförandet i projekten Hedeleden, Klovsten, Tölö ängar syd, Frillesås Rya och Björkris etapp 2.
+Kommunstyrelsens förvaltning föreslår en förändrad budget med netto -37 469 000 kronor år 2026.
+
+<!-- sida 15 -->
+
+KUNGSBACKA  KOMMUN
+10 (10)
+
+Belopp i tusentals kronor
+Förslag
+Förslag ny
+ny
+budget
+Förändring budget
+Nämndernas Nämndernas
+gentemot
+Budget 2026 förslag till förslag till
+nämndernas
+ombudget 2026 ombudget 2027
+förslag 2026 2026 2027
+Löpande årliga investeringar 68 855 4 500           - 4 500 68 855
+Övriga och reinvesteringar 156 600 100 146 -4000    3 500 260 246 -4 000
+Lokaler              199 580   210 403             -117 580 292 403 37 000
+Avgiftsfinansierad
+verksamhet           918 650    38 123             - 3 7 622 919 151 37 622
+Delsumma  1 343 685  353 172    -4 000  - 156 202 1 540 655 70 622
+Exploateringsinvesteringar
+och omsättningstillgångar 128 362 -37 469                 90 893
+SUMMA    1 472 047  315 703    -4 000   -156 202 1 631 548 70 622
+*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
+Rickard Vidlund               Anders Johansson
+
+Kommundirektör                Biträdande kommundirektör
+
+<!-- sida 16 -->
+
+Sammanställning total
+
+Belopp i Tkr
+Förslag
+Budget 2026 N f ä ö m rs n la d g e r t n il a l s N f ä ö m rs n la d g e r t n il a l s F g ö e r n ä t n e d m r o in t g F g ö e r n ä t n e d m r o in t g Fö b r u s d la g g e t n y fö b rä u n d d g r e i t n g
+nämndernas nämndernas
+ombudget 2026 ombudget 2027
+förslag 2026 förslag 2027 2026 2027
+Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
+Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
+Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
+Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Exploateringsinvesteringar och
+omsättningstillgångar 128 362 - 37 469 -    -         90 893  -
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+Ombudget förslag:          2026    2027 2026-2027
+Totalt förslag från nämnderna 315 703 -4 000 311 703
+Förslag till kommunfullmäktige 159 501 70 622 230 123
+Förändring gentemot nämndernas förslag -156 202 74 622 -81 580
+
+<!-- sida 17 -->
+
+Sammanställning total
+
+Belopp i Tkr
+Förslag
+Budget 2026 N f ä ö m rs n la d g e r t n il a l s N f ä ö m rs n la d g e r t n il a l s F g ö e r n ä t n e d m r o in t g F g ö e r n ä t n e d m r o in t g Fö b r u s d la g g e t n y f n ö y r ä b n u d d r g i e n t g
+nämndernas nämndernas
+ombudget 2026 ombudget 2027
+förslag 2026 förslag 2027 2026 2027
+Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
+Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
+Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
+Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Exploateringsinvesteringar och
+omsättningstillgångar 128 362 - 37 469                90 893  -
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+Ombudget förslag:          2025    2026 2025-2026
+Totalt förslag från nämnderna 315 703 -4 000 311 703
+Förslag till kommunfullmäktige 159 501 70 622 230 123
+Förändring gentemot nämndernas förslag -156 202 74 622 -81 580
+
+<!-- sida 18 -->
+
+Löpande investeringar
+
+Belopp i Tkr
+
+Nämndernas Nämndernas Förändring
+förslag till förslag till gentemot
+Budget ombudget ombudget nämndernas
+2026    2026     2027   förslag 2026
+
+FG     Förskola & Grundskola  15 000
+K&F    Kultur & Fritid        3 900
+
+GA     Gymnasium & Arbetsmarknad 7 150
+IF     Individ och Familjeomsorg 2 500
+MB     Bygg & Miljö            255
+SE     Service                24 400   4 500             -4 500
+VO     Vård & Omsorg          6 000
+
+TE-skatt Teknik Skatt         9 650
+SUMMA                  68 855   4 500       0     -4 500
+
+Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
+
+<!-- sida 19 -->
+
+Förändring
+gentemot Summa ny  Förslag
+nämndernas budget förändring ny
+förslag 2027 2026 budget 2027
+
+```osaker-tabell
+     15 000       0
+      3 900       0
+
+      7 150       0
+      2 500       0
+       255        0
+     24 400       0
+      6 000       0
+
+      9 650       0
+0    68 855       0
+```
+
+<!-- sida 20 -->
+
+Övriga investeringar
+
+Belopp i Tkr
+
+Nämndernas
+förslag till
+Budget   ombudget
+2026       2026
+Teknik - Skatt expl
+TE-skatt/expl 4125 Må Park allmän plats               14 972
+TE-skatt/expl 4141 Björkris 2 Gata/Park SBK             592
+TE-skatt/expl 4142 Aranäs 3 Infrastruktur gata mm      1 674
+TE-skatt/expl 4143 Tingberget allm platsmark           1 739
+TE-skatt/expl 4144 Skår 12:1 expl gata,cirk,park       3 930
+TE-skatt/expl 4147 Markförbättring Anneberg centr       -39
+
+TE-skatt/expl 4149 Valand utbyggnad gator tek          -284
+TE-skatt/expl 4153 Björkris 2b allmän plats först       256
+TE-skatt/expl 4154 Förstärkningsåtgärder Kba ham        481
+TE-skatt/expl 4155 Bolsheden 1:2 gata                  -146
+TE-skatt/expl 4172 Gjutaren/Liljan gata               21 170
+TE-skatt/expl 4175 Stockalid 1:4 Gata/Park              -10
+TE-skatt/expl 4179 Kolla 2 Gata/Park inv               1 580
+TE-skatt/expl 4189 Tölö ängar 3 6:4 Gata/Park inv      -153
+TE-skatt/expl 4190 Tölö äng syd Gata/Park inv           -39
+
+TE-skatt/expl 4192 Duvehed Gata/Park inv               2 622
+TE-skatt/expl 4198 Kolla Park v-omr Gata/Park inv       174
+TE-skatt/expl 5109 Varla 6:17 Gata/Park inv             281
+TE-skatt  5112 Arena Inlag Gata/Park inv                 -4
+TE-skatt/expl 6546 Livsmedelsverket invest. TE         -335
+Enligt KF budgetram 2026         71 850
+Summa Teknik - Skatt expl        71 850     48 461
+
+SE Fastigheter typ 3
+SEFA      4919 Naturum arb.miljö inred 142              250
+SEFA      4927 Arenan löpnr 131 inred                    -3
+SEFA      4940 Ombygg Stadshus B inventarier             -9
+SEFA      4946 Signes hus vård- och oms inven         14 029
+SEFA      8945 Högarydsvägens gruppbostad inr           162
+SEFA      8968 Klockaregårdens fsk inredning            237
+SEFA      8983 Stockalids förskola inredning           1 484
+SE        Köldmedia
+
+Enligt KF budgetram 2026 inkl Service 7 000
+Summa SE Fastigheter typ 3        7 000     16 150
+
+Vård & Omsorg
+VO        3862 Tekniska lösningar                     15 787
+Enligt KF budgetram 2026          2 600
+Summa VO                          2 600     15 787
+
+Bygg & Miljö
+
+Enligt KF budgetram 2026 inkl Service 2 650
+
+<!-- sida 21 -->
+
+Övriga investeringar
+
+Belopp i Tkr
+
+Nämndernas
+förslag till
+Budget   ombudget
+2026       2026
+Summa BM                          2 650
+
+Kultur & Fritid
+KF budgetram 2026                12 000     19 748
+Summa Kultur & Fritid            12 000     19 748
+
+KS Finans
+KF budgetram 2026                60 500
+
+Summa KS Finans                  60 500
+
+SUMMA                            156 600   100 146
+
+<!-- sida 22 -->
+
+Förändring Förändring
+Nämndernas  gentemot  gentemot  Summa   Förslag
+förslag till nämndernas nämndernas ny budget förändring ny
+ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
+
+14 972
+592
+1 674
+1 739
+3 930
+-39
+-284
+
+256
+481
+-146
+21 170
+-10
+1 580
+-153
+-39
+2 622
+
+174
+281
+-4
+-335
+71 850
+0         0         0  120 311        0
+
+250
+-3
+-9
+14 029
+162
+237
+1 484
+3 500             3 500
+7 000
+
+0      3 500        0   26 650        0
+
+15 787
+2 600
+0         0         0   18 387        0
+
+<!-- sida 23 -->
+
+Förändring Förändring
+Nämndernas  gentemot  gentemot  Summa   Förslag
+förslag till nämndernas nämndernas ny budget förändring ny
+ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
+2 650
+
+-4 000                     31 748    -4 000
+-4 000       0         0   31 748    -4 000
+
+60 500
+
+60 500
+
+-4 000    3 500        0  260 246    -4 000
+
+<!-- sida 24 -->
+
+Avgiftsfinansierad verksamhet
+
+Belopp i Tkr
+Nämndernas | Nämndernas |
+förslag till förslag till
+Budget ombudget ombudget
+2026 2026 2027
+Vatten & avlopp expl
+TE-VA/expl 7528 FAR, Framtidens reningsverk 37 622
+Enligt KF budgetram 2025 831 650
+Summa Vatten och Avlopp inkl expl 831 650 37 622 ol
+
+<!-- sida 25 -->
+
+Avgiftsfinansierad verksamhet
+
+Belopp i Tkr
+Nämndernas | Nämndernas |
+förslag till förslag till
+Budget ombudget ombudget
+2026 2026 2027
+Kungsbacka bredband
+TE-Br 8514 Kungsbacka Landsbygg 501
+Enligt KF budgetram 2025 22 ond)
+Summa bredband 22 000 501 ol
+Avfall & Återvinning
+Enligt KF budgetram 2025 65 000
+Summa Avfall & Återvinning 65 o0ol ol ol
+SUMMA 918 650] 38 123 ol
+
+<!-- sida 26 -->
+
+Förändring Förändring Summa
+
+gentemot gentemot Ny
+nämndernas nämndernas budget
+
+Förslag
+
+förändring ny
+
+förslag 2026 förslag 2027 2026 budget 2027
+-37 622 37 622 0 37 622
+
+831 650 0
+
+-37 622 37 622] 831 650 37 622
+
+<!-- sida 27 -->
+
+"Förändring | Förändring | Summa
+gentemot gentemot Ny Förslag
+
+nämndernas nämndernas budget Iförändring ny
+
+förslag 2026 förslag 2027 2026 budget 2027
+
+501 0
+
+22 000 0
+
+of oj 22501 0
+65 00]
+
+ol ol 65000 0
+
+-37 622 37 622] 919191 37 622
+
+<!-- sida 28 -->
+
+Lokaler
+Belopp i Tkr
+Lokaltyp            Budget N ämndernas
+2026   förslag till
+ombudget
+2026
+KS Finans
+8931 Lokalplansbudget pågående projekt
+Löpnr 142 Naturum                            1 000
+Löpnr 820 Grundutrustning hjälpmedel          300
+Enligt KF budgetram 2026 lokalplan 90 640
+Summa KS Finans                    90 640    1 300
+
+Kultur & Fritid
+3768 Konst 1% endast budget                   100
+3791 Konst Skårbyskolan                       345
+3794 Konst Trollsländan fsk 2024              165
+3795 Konst Stockalid fsk                      101
+3796 Konst Högarydsvägen gruppboend           141
+Enligt KF budgetram 2026            3 140
+Summa Kultur & Fritid              3 140      852
+
+SE Fastigheter
+4900 Frillesås rid- o körkl 138             19 806
+4907 Iseråsskolan ny o omb bygg 335         35 372
+4910 Gräskärr förskola                        -789
+4918 Naturum arb. miljö bygg 142             4 524
+4920 Äpplegårdens fsk bygg 207               -3 482
+4926 Arenan löpnr 131 bygg                  115 124
+4930 Toalettbygg Vallda Sandö bygg           2 231
+4931 Toalettbygg Hanhals bad bygg             596
+
+4932 Klovsten Räddningstjänst bygg          20 422
+4937 Liljans skola och idrottssal            -2 737
+4939 Ombyggnad Stadshuset hus B              -1 298
+4941 Åsaberg BmSS                            -2 441
+4943 Ölmevallaskolan                         -1 448
+4945 Signes hus vård- och omsorgsbo           369
+4948 Åsa förskola anp utemiljö bygg            -23
+4953 Anp Klinnekärr försko bygg1506          1 979
+4954 Anpassad Grundskola bygg                  -4
+6950 Verksamhetsförändringar FG               720
+
+8944 Högarydsvägens gruppbostad               300
+8951 Myndig.krav pav Elof L                  3 462
+8954 Myn krav pav gaKullaviksskolan          1 017
+8961 Skårbyskolan                             100
+8978 Stockalids förskola                      165
+8979 Anneberg bygg vob bmss fsk              -1 464
+461P Toråsskolan nybyggnation SEFA           4 659
+461Q Alekärret Stall & Gödselplatta          7 377
+461S Överordnat styrsytem SEFA Inv           3 714
+Enligt KF budgetram 2026          105 800
+
+<!-- sida 29 -->
+
+Summa SE Fastigheter              105 800   208 251
+
+SUMMA                             199 580   210 403
+
+<!-- sida 30 -->
+
+Nämndernas Förändring Förändring Summa Förslag
+förslag till gentemot gentemot Ny budget förändring ny
+ombudget nämndernas nämndernas 2026 budget 2027
+2027   förslag 2026 förslag 2027
+
+1 000
+300
+90 640
+0         0        0   91 940       0
+
+100
+345
+165
+101
+141
+3 140
+
+```osaker-tabell
+0         0        0    3 992       0
+
+      -19 806              0        0
+      -35 372              0        0
+                         -789       0
+                        4 524       0
+                       -3 482       0
+      -30 124   30 000 85 000    30 000
+                        2 231       0
+                         596        0
+      -20 422              0        0
+
+                       -2 737       0
+                       -1 298       0
+                       -2 441       0
+                       -1 448       0
+                         369        0
+                         -23        0
+                        1 979       0
+                          -4        0
+                         720        0
+
+                         300        0
+       -3 462              0        0
+       -1 017              0        0
+                         100        0
+                         165        0
+                       -1 464       0
+                        4 659       0
+       -7 377   7 000      0     7 000
+                        3 714       0
+                      105 800       0
+```
+
+<!-- sida 31 -->
+
+0    -117 580   37 000 196 471   37 000
+
+0    -117 580   37 000 292 403   37 000
+
+<!-- sida 32 -->
+
+Exploateringar
+OMPLANERING
+Belopp i Tkr
+Budget   Förslag till Summa Ny
+2026 omplanering 2026 budget 2026
+
+```osaker-tabell
+Inkomster         0           0            0
+Utgifter      128 362      -37 469     90 893
+              128 362      -37 469     90 893
+```
+
+<!-- sida 33 -->
+
+Kungsbacka Kommun
+Summering nämnderna
+Driftsredovisning - begäran om resultatdisponering 2025
+
+NÄMND/STYRELSE Driftredovisning/ Bokslut 2025 Orsak samt nämndens begäran om resultatdisponering till bokslut o budgetavvikelse
+Projektnamn
+Underskott     Överskott  Summering - nämndens förslag till beslut Kommunstyrelsens förvaltning, förslag till beslut
+Årsbudget Utfall Avvikelse Ombudgeteras Förs till Typ 1 - ej Typ 2 - versamhet Typ 3 - egna Typ 4 - Pågående ej Summa till Summa att Summa att Kontrollsumma mot Summa till resultatfond Summa att Summa att återredovisa
+resultatfond utförverksamhet till annan nämnd effektiviseringar avslutade projekt resultatfond ombudgetera återredovisa bokslutsavvikelse. BÖR ombudgetera
+återredovisas återredovisas till resultatfond Ombudgeteras SLUTA MED "0" I
+SUMMAN
+Skattefinansierade verksamheter: B C D E=D-C F G H   I   J    K   L=G+J M=F+K N=H+I O=F+G+H+I+J+K-E L=G+J M=F+K N=H+I
+
+```osaker-tabell
+10 Kommunfullmäktige     -4 887 -4 680 207 0  0   207   0   0    0    0   0   207    0     0      0    207
+11 Kommunstyrelse       -292 298 -275 775 16 523 0 0 16 523 0 0  0    0   0  16 523  0     0      0   16 523
+15 Kommunrevisionen      -3 591 -3 297 294 0  0   294   0   0    0    0   0   294    0     0      0    294
+19 Valnämnd              -389 -348  41   0    0   41    0   0    0    0   0    41    0     0      0     41
+20 Gymnasium- & Arbetsmarknad -646 196 -644 396 1 800 0 0 1 500 0 300 0 300 0 1 500  0     300    0    1 500
+30 Kultur & Fritid      -296 319 -294 826 1 494 0 0 653 0  201  640  201  640 653    0     201    0    1 293
+40 Förskola och grundskola -2 313 093 -2 293 685 19 408 0 0 0 0 19 408 0 19 408 0 0  0    19 047  0    361
+50 Teknisk verksamhet -skatt -265 926 -259 949 5 977 0 0 0 0 5 977 0 5 977 0   0     0     460    0    5 517
+71 Miljöskyddsnämnden    -1 044 -936 108 0    0   108   0   0    0    0   0   108    0     0      0    108
+73 Bygg & Miljöförvaltningen -40 383 -38 681 1 702 0 0 7 0 1 695 0  1 695 0    7     0    1 695   0     7
+81 Individ & Familjeomsorg -827 108 -836 203 -9 095 0 -9 095 0 0 0 0 -9 095 0  0     0    -9 095  0     0
+85 Vård & Omsorg       -1 211 817 -1 185 745 26 072 0 0 0 0 26 072 0 26 072 0  0     0    25 637  0    435
+```
+
+Summa skattefinansierat -5 903 051 -5 838 521 64 531 0 -9 095 19 333 0 53 653 640 44 558 640 19 333 0 38 245 0 26 286
+Affärsdrivande verksamheter (*fakt. utfall):                                         0
+60 Serviceverksamhet-budgetavvikelse -55 976 -39 532 16 444 0 0 1 194 0 15 250 0 15 250 0 1 194 0 15 250 0 1 194
+
+```osaker-tabell
+63 Service Fastighet    -62 578 -147 62 431 0 0  7 333  0  6 251 48 847 6 251 48 847 7 333 0 34 667 18 357 9 407
+Teknisk verksamhet -VA*   0    0    0    0    0    0    0   0    0    0   0    0     0     0      0     0
+   "  - Avfall återvinning.* 0 0    0    0    0    0    0   0    0    0   0    0     0     0      0     0
+   "  - Bredband*         0    0    0    0    0    0    0   0    0    0   0    0     0     0      0     0
+```
+
+Summa affärsdrivande    -118 554 -39 679 78 875 0 0 8 527 0 21 501 48 847 21 501 48 847 8 527 0 49 917 18 357 10 601
+
+```osaker-tabell
+91 Finans Exploatering   -5 968 47 498 53 466 0 0 53 466 0  0    0    0   0  53 466  0     0      0   53 466
+95 Finans Verksamhet    -108 158 44 378 152 536 0 0 151 276 0 0 1 260 0  1 260 151 276 0   0    1 260 151 276
+96 Finans Skatt         6 387 559 6 439 044 -51 485 0 0 -51 485 0 0 0 0   0  -51 485 0     0      0   -51 485
+97 Finans räntenetto    -42 613 3 109 45 722 0 0 45 722 0   0    0    0   0  45 722  0     0      0   45 722
+```
+
+Summa Finans            6 230 820 6 534 029 200 239 0 0 198 979 0 0 1 260 0 1 260 198 979 0 0   1 260 198 979
+Totalt nämnden          209 215 655 830 343 645 0 -9 095 226 839 0 75 154 50 747 66 059 50 747 226 839 0 88 162 19 617 235 866
+Förslag till beslut Summa KF KS KSAU                           343 645       343 645                  343 645
+Finansieras inom OF 19 617 10 000 6 000 3 617
+
+<!-- sida 34 -->
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Nämnd/Styrelse (Tkr) | UB 2025 | Bokslut 2025 | Nämndens<br>begäran | Förslag | Förslag IB 2026 |
+| --- | --- | --- | --- | --- | --- |
+| 10 Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
+| 11 Kommunstyrelsen | 0 | 16 523 | 0 | 0 | 0 |
+| 15 Kommunrevision | 0 | 294 | 0 | 0 | 0 |
+| 19 Valnämnden | 0 | 41 | 0 | 0 | 0 |
+| 20 Gymnasium & Arbetsmarknad | 77 300 | 1 800 | 300 | 300 | 77 600 |
+| 30 Kultur & Fritid | 29 615 | 1 494 | 201 | 201 | 29 816 |
+| 40 Förskola & Grundskola | 125 705 | 19 408 | 19 408 | 19 047 | 144 752 |
+| 50 Teknik Skatt | 4 528 | 5 977 | 5 977 | 460 | 4 988 |
+| 71 Miljö och hälsoskydd | 0 | 108 | 0 | 0 | 0 |
+| 73 Byggnadsnämnden | 5 481 | 1 702 | 1 695 | 1 695 | 7 176 |
+| 81 Individ & Familjeomsorg | 18 921 | -9 095 | -9 095 | -9 095 | 9 826 |
+| 85 Vård & omsorg | 127 658 | 26 072 | 26 072 | 25 637 | 153 295 |
+| 60 Service | 31 580 | 16 444 | 15 250 | 15 250 | 46 830 |
+| 63 SE Fastigheter | 75 345 | 62 431 | 6 251 | 34 667 | 110 012 |
+| Finans | 11 266 | 200 239 | 0 | 0 | 11 266 |
+| Totalt | 507 399 | 343 645 | 66 059 | 88 162 | 595 561 |
+|  |  |  |  |  |  |
+| Nämnd/Styrelse (Tkr) | Bruttoomslutning<br>budget innevarande år | Maximalt Eget<br>Kapital 2026 |  |  |  |
+| Skattefinansierade verksamheter: |  |  |  |  |  |
+| 10 Kommunfullmäktige | ej res.fond |  |  |  |  |
+| 11 Kommunstyrelsen | ej res.fond |  |  |  |  |
+| 15 Kommunrevision | ej res.fond |  |  |  |  |
+| 19 Valnämnden | ej res.fond |  |  |  |  |
+| 20 Gymnasium & Arbetsmarknad | 776 480 | 77 648 |  |  |  |
+| 30 Kultur & Fritid | 343 988 | 34 399 |  |  |  |
+| 40 Förskola & Grundskola | 2 596 048 | 259 605 |  |  |  |
+| 50 Teknik Skatt | 354 273 | 35 427 |  |  |  |
+| 71 Miljö och hälsoskydd | ej res.fond |  |  |  |  |
+| 73 Byggnadsnämnden | 96 696 | 9 670 |  |  |  |
+| 81 Individ & Familjeomsorg | 880 370 | 88 037 |  |  |  |
+| 85 Vård & omsorg | 1 382 336 | 138 234 |  |  |  |
+| Summa skattefinansierat | 6 430 191 | 643 019 |  |  |  |
+| Affärsdrivande verksamheter (fakt. utfall): |  |  |  |  |  |
+| 60 Service | 594 662 | 59 466 |  |  |  |
+| 63 SE Fastigheter | 973 755 | 97 376 |  |  |  |
+| Summa affärsdrivande | 1 568 417 | 156 842 |  |  |  |
+| 53 Avfall och återvinning |  |  |  |  |  |
+| Finansförvaltning övrigt | 156 739 | 15 674 |  |  |  |
+|  |  |  |  |  |  |
+| Totalt | 8 155 347 | 815 535 |  |  |  |
+
+<!-- sida 35 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-13
+Diarienummer
+KS-2026-00220
+
+Omfördelning av statsbidrag 2025 avseende stöd till kommuner i omställningen till en
+långsiktigt hållbar, mer förebyggande och kunskapsbaserad socialtjänst
+
+Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige fördelar statsbidraget 2025 för omställning till nya socialtjänstlagen med
+6 067 396 kronor till nämnden för Individ & Familjeomsorg, 1 534 698 kronor till nämnden Vård &
+Omsorg och 545 785 kronor till Gymnasium & Arbetsmarknad.
+
+Sammanfattning av ärendet
+
+Kungsbacka kommun tog under 2025 år emot 8 147 879 kronor i statsbidrag för omställningen till en
+långsiktigt hållbar, mer förebyggande och kunskapsbaserad socialtjänst i enlighet med nya
+socialtjänstlagen. I Kungsbacka fördelar kommunfullmäktige de generella statsbidragen i samband
+med ramtilldelningen, medan nämnderna hanterar riktade statsbidrag. Eftersom det inte är tydligt i
+kommunens ekonomistyrprinciper hur fördelningen ska göras i de fall riktade statsbidrag berör flera
+nämnder fattar kommunfullmäktige beslut om fördelningen.
+
+Vid utvärderingen av 2025 års genomförda insatser framkom att kommunen som helhet har använt
+medlen i enlighet med bidragets syfte, men att en justering av fördelningen mellan nämnderna behöver
+göras jämfört med tidigare fullmäktigebeslut.
+
+Beslutsunderlag
+
+Kommunledningskontorets tjänsteskrivelse, 2026-03-13
+Kommunfullmäktige, 2025-05-06, § 96
+
+Beslutet skickas till
+
+Nämnden för Gymnasium & Arbetsmarknad, nämnden för Individ & Familjeomsorg, nämnden för
+Vård & Omsorg, samt kommunstyrelsens förvaltning: Styrning & Ekonomi
+
+Beskrivning av ärendet
+
+Kungsbacka kommun tog under 2025 emot 8 147 879 kronor i statsbidrag för omställningen till en
+långsiktigt hållbar, mer förebyggande och kunskapsbaserad socialtjänst i enlighet med nya
+1 (2)
+Kungsbacka kommun
+434 81 Kungsbacka
+Christina Hermansson
+Besöksadress
+Ekonomichef                                              Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 36 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+socialtjänstlagen. I Kungsbacka fördelar kommunfullmäktige de generella statsbidragen i samband
+med ramtilldelningen, medan nämnderna hanterar riktade statsbidrag.
+Statsbidraget för nya socialtjänstlagen är ett riktat statsbidrag med krav på uppföljning och
+återrapportering av medel som inte används. Eftersom det inte är tydligt i kommunens
+ekonomistyrprinciper hur fördelningen ska göras i de fall riktade statsbidrag berör flera nämnder, fattar
+kommunfullmäktige beslut om fördelning i detta fall.
+
+Vid utvärderingen av 2025 års genomförda insatser framkom att kommunen som helhet har använt
+medlen i enlighet med bidragets syfte, men att en justering av fördelningen mellan nämnderna behöver
+göras jämfört med tidigare fullmäktigebeslut.
+
+Rickard Vidlund                    Anders Johansson
+Kommundirektör                     Biträdande kommundirektör
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Nämnd | Fördelning i<br>kronor enligt<br>KF 2025-05-06<br>§ 96 | Utfall 2025 i<br>kronor<br>(genomförda<br>insatser) | Förslag till ny<br>fördelning |
+| --- | --- | --- | --- |
+| Individ &<br>Familjeomsorg | 4 647 879 | 6 067 396 | 6 067 396 |
+| Vård & Omsorg | 2 800 000 | 1 534 698 | 1 534 698 |
+| Gymnasium &<br>Arbetsmarknad | 700 000 | 545 785 | 545 785 |
+| Summa | 8 147 879 | 8 147 879 | 8 147 879 |
+
+<!-- sida 37 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunfullmäktige
+Datum
+2025-05-06
+
+§ 96                       Dnr KS-2025-00205
+Fördelning av statsbidrag 2025 avseende stöd till kommuner i
+omställningen till en långsiktigt hållbar, mer förebyggande och
+kunskapsbaserad socialtjänst
+
+Beslut
+Kommunfullmäktige fördelar Kungsbacka kommuns andel av statsbidraget 2025 för
+ny socialtjänstlag på totalt 8 147 879 kronor med 4 647 879 kronor till nämnden för
+Individ & Familjeomsorg, 2 800 000 kronor till nämnden för Vård & Omsorg och
+700 000 kronor till nämnden för Gymnasium & Arbetsmarknad.
+
+Sammanfattning av ärendet
+Regeringen har lämnat ett uppdrag till Socialstyrelsen att betala ut statsbidrag på
+1,2 miljarder kronor till kommunerna under 2025 för att stödja kommunerna i
+
+omställningen till en långsiktigt hållbar, mer förebyggande och kunskapsbaserad
+socialtjänst. Åren 2026 till 2028 uppgår statsbidraget till 2,2 miljarder kronor.
+Kungsbacka kommun kommer under 2025 att kunna ta del av 8 147 879 kronor av
+dessa medel.
+
+Medlen ska stödja kommunerna att ställa om till en långsiktigt hållbar, förebyggande
+och kunskapsbaserad socialtjänst i enlighet med nya socialtjänstlagen. I Kungsbacka
+fördelar kommunfullmäktige de generella statsbidragen i samband med
+ramtilldelningen samtidigt som det är nämnderna som hanterar riktade statsbidrag.
+Eftersom det inte är tydligt i kommunens ekonomistyrprinciper hur fördelningen ska
+göras i de fall riktade statsbidrag berör flera nämnder bör kommunfullmäktige fatta
+beslut om fördelningen.
+
+Beslutsunderlag
+Kommunstyrelsen 2025-04-22, § 101
+Kommunstyrelsens arbetsutskott 2025-04-08, § 113
+Kommunledningskontorets tjänsteskrivelse, 2025-03-12
+Regeringens uppdrag till Socialstyrelsen att betala ut statsbidrag till en mer
+
+förebyggande och kunskapsbaserad socialtjänst, 2025-01-23, S2025/00122 (delvis)
+Uppdrag till Socialstyrelsen att betala ut statsbidrag till en mer förebyggande och
+kunskapsbaserad socialtjänst
+
+Beslutsgång
+
+Ordförande Thure Sandén (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förslag, och att kommunfullmäktige bifaller det.
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: FF956FD5F22A40BAEAA517A895435F09FAE48B4341
+Transaktionsidentitet: B1EF21B3E56437F26D327D76A8C6BA1B1902A382FD
+Transaktionsidentitet: 9962EA38DDF0AD250ED89045208CBFA58B4D66A42F
+
+<!-- sida 38 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunfullmäktige
+Datum
+2025-05-06
+
+Beslutet skickas till
+Nämnderna för Individ & Familjeomsorg, Vård & Omsorg, Gymnasium &
+Arbetsmarknad; Kommunstyrelsens förvaltning: Styrning & Ekonomi
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: FF956FD5F22A40BAEAA517A895435F09FAE48B4341
+Transaktionsidentitet: B1EF21B3E56437F26D327D76A8C6BA1B1902A382FD
+Transaktionsidentitet: 9962EA38DDF0AD250ED89045208CBFA58B4D66A42F
+
+<!-- sida 39 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-12
+Diarienummer
+KS-2026-00207
+
+Yttrande över samrådsunderlag inför budget för Göteborgsregionen 2027
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen har inget att erinra mot samrådsunderlag inför budget 2027 för Göteborgsregionens
+kommunalförbund.
+
+Sammanfattning av ärendet
+
+Enligt Göteborgsregionens kommunalförbunds (GR) förbundsordning ska förbundsstyrelsen bereda
+medlemskommunerna tillfälle att yttra sig över ett samrådsunderlag om budgeten för nästkommande
+år. Nivån på årsavgiften föreslås vara oförändrad till 2027 och uppgår då till 72,62 kronor per
+invånare. För Kungsbacka kommun innebär det en preliminär avgift på 6 269 000 kronor under 2027.
+Årsavgiften är preliminär och kommer justeras när de definitiva befolkningsuppgifterna per
+2025-12- 31 är publicerade. Avgiften ryms inom kommunstyrelsens budgetram.
+
+Avseende frågan om inspel till uppdrag som skulle kunna rymmas inom ramen för Utvecklingsplan för
+Göteborgsregionen 2050, har Kungsbacka kommun inga sådana i dagsläget.
+
+Beslutsunderlag
+
+Kommunledningskontorets tjänsteskrivelse, 2026-03-12
+(Göteborgsregionen) (Beslut, § 8) Rambudget 2027 – Samrådsunderlag, 2026-02-27
+(Göteborgsregionen) Samrådsunderlag inför rambudget 2027
+
+Beslutet skickas till
+
+Göteborgsregionens kommunalförbund
+
+Rickard Vidlund                    Anders Johansson
+
+Kommundirektör                     Biträdande kommundirektör
+
+1 (1)
+Kungsbacka kommun
+434 81 Kungsbacka
+Christina Hermansson
+Besöksadress
+Ekonomichef                                              Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 40 -->
+
+Sida
+SAMMANTRÄDESPROTOKOLL      1(2)
+Sammanträdesdatum
+2026-02-27
+Förbundsstyrelsen
+
+§ 8                        Dnr GRFS-2026-00028
+
+Rambudget     för Göteborgsregionen      2027;
+samrådsunderlag
+
+Förbundsstyrelsens beslut
+Samrådsunderlaget översänds till medlemskommunerna för inhämtande av
+synpunkter och förslag. Kommunens svar ska vara GR tillhanda senast den
+21 april 2026.
+Sammanfattning av ärendet
+
+Enligt förbundsordningen ska förbundsstyrelsen bereda
+medlemskommunerna tillfälle att yttra sig över ett samrådsunderlag
+avseende budget för näst-kommande år. Inför år 2027 har förslag till
+samrådsunderlag inför beslut kring rambudget tagits fram.
+Under våren 2026 slutförs arbetet med att ta fram Utvecklingsplan för
+Göteborgsregionen 2050 (tidigare benämnd RUPS). Som nämnts i
+dialogerna inför och även vid själva Rådslaget i augusti 2024, innehåller
+denna utvecklingsplan långsiktiga strategier men att det inte är ett hinder
+för snabbstartade eller mer akuta uppdrag som ändå ryms inom ramen för
+utvecklingsplanen att starta direkt.
+Göteborgsregionen vill nu särskilt uppmana kommuner att i sina svar påtala
+den typen av uppdrag som de ser behov av.
+
+I övrigt utgår förslaget till rambudget för GR från relevanta styrdokument.
+Exempel på dessa är förbundsordningen, Agenda 2023, regional
+utvecklings-strategi (RUS) inom Västra Götalandsregionen med flera.
+Föreliggande budgetförslag för år 2027 är underfinansierad och med att ett
+negativt resultat om 2 700 tkr budgeteras för år 2027. Förslaget innefattar
+även att årsavgiftens uppräkning fortsätter att följa invånarantalet i
+respektive kommun på samma sätt som idag, och i enlighet med den från år
+2022 beslutade reduktionen av densamma till 72,64 kr/invånare.
+Årsavgiften för år 2027 i föreliggande förslag är preliminär och grundar sig
+på befolkningstalen publicerade av SCB per 2025-11-01 och kommer att
+justeras när de definitiva befolkningsuppgifterna per 2025-12-31 är
+publicerade.
+Medlemskommunernas synpunkter ska vara GR tillhanda senast 21 april
+2026. Beslut fattas i förbundsstyrelsen 29 maj och därefter i
+förbundsfullmäktige den 16 juni.
+Beslutsunderlag
+
+Förslag till samrådsunderlag rambudget 2027
+Plan- och detaljbudget 2026
+
+Justerandes signatur                Utdragsbestyrkande
+
+<!-- sida 41 -->
+
+Sida
+SAMMANTRÄDESPROTOKOLL      2(2)
+Sammanträdesdatum
+2026-02-27
+Förbundsstyrelsen
+
+Förslag på sammanträdet
+Jörgen Fogelklou (SD) och Stefan Jägnert (SD) föreslår en ändring
+innebärande att Urban Future stryks från Transfereringar.
+
+Peter Arvidsson (-) och Martin Wannholt (D) ställer sig bakom Jörgen
+Fogelklous (SD) och Stefan Jägnerts (SD) förslag.
+Ordförande föreslår avslag på Jörgen Fogelklous (SD) och Stefan Jägnerts
+(SD) förslag på ändring och föreslår bifall till förvaltningens förslag.
+Beslutsgång
+
+Ordförande frågar om Jörgen Fogelklous (SD) och Stefan Jägnerts (SD)
+förslag ska avslås eller bifallas och finner att det avslås.
+Ordförande frågar sedan om förvaltningens förslag ska bifallas och finner att
+så sker.
+Protokollsanteckning
+
+Jörgen Fogelklou (SD och Stefan Jägnert (SD) reserverar sig till förmån för
+eget förslag.
+
+Skickas till
+
+Medlemskommunerna
+
+Justerandes signatur                Utdragsbestyrkande
+
+<!-- sida 42 -->
+
+GÖTEBORGS
+| REGIONEN
+
+Rambudget 2027
+
+<!-- sida 43 -->
+
+Rambudget 2027
+
+Ekonomi
+Budgetöversikt 2026-2028
+
+Enligt SCB:s befolkningsstatistik per den 1/11 2025 uppgick antalet invånare i Göteborgsregionen
+till 1093 706 vilket är en ökning med 6101 invånare jämfört med 31/12 2024. Den definitiva årsav-
+giften för 2027 kommer baseras på befolkningstal per 31/12 2025 och angivna årsavgifter för åren
+2027-2028 i detta underlag ska därför ses som preliminära.
+
+Årsavgiften beräknas utgöra cirka 16 procent av GR:s beräknade samlade intäkter 2027. Reste-
+rande del av GR:s intäkter (84 96) består av flera olika finansieringskällor såsom staten, EU, Västra
+Goötalandsregionen, medlemskommunerna genom samverkansavtal, samt övriga organisationer.
+
+Detaljbudget 2026, rambudget 2027 samt plan 2028
+
+GR:s rambudget för kommande året beslutas i juni av förbundsfullmäktige efter att samrådsunder-
+laget beretts. Då strategisk inriktning avvecklats har även plan för år 2028 lagts till för att förlänga
+planeringshorisonten. Den grundar sig på GR-interna bedömningar om framtida utveckling.
+
+GR arbetar därefter under hösten fram detaljbudget för det kommande året och i december månad
+fastställer sedan förbundsfullmäktige GR:s detaljbudget inför kommande verksamhetsår. Resultat-
+budgeten är en sammanställning över de kostnader och intäkter GR räknar med under respektive
+verksamhetsår. Efter många år med höga ränteintäkter och starka resultat har nu räntorna återgått
+till mer normala nivåer vilket innebär kraftigt minskande ränteintäkter för GR jämfört med tidigare
+år. Förbundsfullmäktige har beslutat om en underfinansierad detaljbudget för verksamhetsåret 2026
+på 5 000 tkr, med hänvisning till synnerliga skäl. I samma plan finns angivet att även budgeten för år
+2027 planeras att underfinansieras. Detta beslutar förbundsfullmäktige om i december 2026 i sam-
+band med att detaljbudgeten för år 2027 beslutas. GR har beslutat att nyttja eget kapital för tre olika
+insatser under de kommande två åren 2026-2027:
+
+1. Avsluta arbetet med framtagandet av GR:s regionala utvecklingsplan för storstadsregionen
+(RUPS) vidare i planeringen mot år 2050. Denna handling planerar vi att förbundsfullmäktige
+ska kunna fatta beslut om under kvartal 1-2026.
+
+2. Inom ramen för RUPS-arbetet påbörjas omgående ett arbete kring infrastruktur och kollektiv-
+trafik vilket är en avgörande faktor för Göteborgsregionens tillväxt.
+
+3. Kommunalförbundet slutför dessutom arbetet med att införa e-arkiv.
+
+Läs mer om dessa insatser i GR:s plan- och detaljbudget för år 2026 som bifogas detta ärende.
+Efter år 2027 planerar GR att återigen redovisa positiva resultat för verksamhetsåret 2028 och
+framåt. GR:s verksamhet anpassas alltid efter erhållen finansiering. För att skapa stabilitet i verk-
+samheten behöver GR ha positiva resultat över tid och på GR finns en solid grund att stå på.
+
+Resultatbudgeten nedan visar budgeterade intäkter, budgeterade kostnader samt budgeterat resul-
+tat för fastställd detaljbudget för 2026, rambudget för 2027 samt plan 2028.
+
+Resultatbudget; detalj 2026, ram 2027 och plan 2028 GR (tkr).
+
+Resultatbudget GR IL AM
+Detalj 2026 Ram 2027 Plan 2028
+Verksamhetens Intäkter 471 494 485 638 500 208
+varav årsavgifter avsedda för GR:s verksamhet 51 694 52 102 52 575
+varav årsavgifter transfererade till andra regionala organisationer 27 310 27 345 27 380
+Verksamhetens kostnader -476 367 -486 646 -498 198
+Avskrivningar -4 322 -4 092 -4 110
+Verksamhetens nettokostnader 9195 -5 100 -2 100
+Skatteintäkter/Generella statsbidrag och utjämning : - -
+Verksamhetens resultat 9195 -5 100 -2 100
+Finansiella intäkter 4195 2400 2 600
+Finansiella kostnader - = -
+Resultat efter finanslella poster -5 000 -2700 500
+Extraordinära poster - - :
+Årets resultat -5 000 -2700 500
+
+<!-- sida 44 -->
+
+Rambudget 2027
+
+Balansbudget och nyckeltal
+
+GR använder sig av nyckeltalen Soliditet och Kassalikviditet för att säkerställa den finansiella ställ-
+ningen på kort och lång sikt.
+
+Soliditet definieras här som eget kapital i förhållande till balansomslutningen. Soliditeten anger
+den finansiella ställningen på lång sikt, det vill säga vilken beredskap som finns för att möta oförut-
+sedda händelser, till exempel framtida resultatförsämringar.
+
+Kassalikviditet definieras här som förhållandet mellan omsättningstillgångar (exklusive varulager)
+och kortfristiga skulder. Kassalikviditeten visar vilken beredskap som finns för att klara de löpande
+betalningarna.
+
+Medlemskommunernas årsavgifter
+
+Från och med år 2003 låg GR:s årsavgift länge fast på 68,11 kronor per invånare. En teknisk justering
+av årsavgiften genomfördes år 2010 med 4 kronor när FoU i Väst inkorporerades som en ordinarie
+verksamhet inom GR. Dessa 4 kronor hade fram tills dess fakturerats vid sidan av årsavgiften. Unge-
+fär samtidigt beslutade förbundsstyrelsen om ett höjt bidrag till Västkuststiftelsen med 2 kronor per
+invånare. Sammanlagt uppgick då avgiften för år 2010 till 74,11 kronor per invånare.
+
+Inför budget 2018 höjdes årsavgiften med 1,41 kr per invånare till 75,52 kronor per invånare till
+följd av nya uppdrag som GR anförtrotts i form av samordningsansvar kring kommunernas gemen-
+samma agerande i hälso- och sjukvårdsfrågor på delregional nivå samt för beredningsansvaret för det
+delregionala kollektivtrafikrådet (DKR).
+
+Förbundsfullmäktige beslutade inför verksamhetsåret 2022 om en reduktion av årsavgiften med
+2,88 kr till 72,64 kr per invånare. Föreslagen nivå på årsavgift för år 2027 blir oförändrad, dvs. 72,64
+kr per invånare. Hur den föreslagna totala årsavgiften fördelar sig per medlemskommun framgår
+av tabellen nedan till höger. Invånarantalet som använts vid framtagandet av den totala årsavgiften
+utgår från en försiktig uppräkning för år 2027 men framfor allt för år 2028 till följd av minskande
+befolkningsökning.
+
+Årsavgiftens fördelning per k 2026,
+Balansbudget; detalj 2026, ram 2027 och plan 2028 (tkr). samt preliminär årsavgift 2027-2028 (tkr).
+Balansbudget f j "TER ESR
+Detalj Ram Plan
+
+Kommun 2026) 2027] 2028
+TILLGÅNGAR 2026-12-31 | 2027-12-31 | 2028-12-31
+A. Anläggningstillgångar 27 925 23630 19 520 Ale 2366 | 23270] 2385
+I. Immateriella anläggningstillgångar 8686 4649 612 Alingsås 3103] 3112] 3131
+II. Materiella anläggningstillgångar 509 251 178 Göteborg 44 239 | 44 560 | 44 846
+Ill: Finansiella anläggningstillgångar 18 730 18730 18 730
+
+Härryda 2905] 2903] 2922
+B. Bidrag till infrastruktur - | - - Kungsbacka | 6231| 6269] 6309
+C. Omsättningstillgångar 388 974 394 963 406 812 Kungälv 3655| 3672] 3695
+I. Förråd mm 28793 29 657 30 546 FR 3165) 3176] 3197
+II. Fordringar 29 902 82 299 84 768
+Il. Kortfristiga placeringar = 4 LillaEdet 1049 pts) 105
+IV. Kassa & Bank 280 279 283 007 291 498 Mölndal 5188| 5228] 5261
+S:A TILLGÅNGAR 416 899 228 593 Cirka Partille 2983] 2993] 3012
+EGET KAPITAL, AVSÄTTNINGAR & SKULDER Stenungsund | 2023) 2022] 2035
+A. Eget kapital 62 386 59 686 60 186 Tjörn 1169 1164 1171
+Årets resultat -5 000 -2 200 500 SE
+
+E Öckerö 928 931 937
+
+II. Resultatutjämningsreserv - - -
+lll. Övrigt eget kapital 67 386 62 386 59 686 Summa 29004 | 79447 | 79955
+B. Avsättningar - I = I -
+C. Skulder 354 513 358 907 366 146
+I. Långfristiga skulder - - -
+II. Kortfristiga skulder 354 513 358 907 366 146
+S:A EGET KAPITAL, AVSÄTTNINGAR 416 899 418 593 426332
+& SKULDER
+Soliditet 15,08 14,32x 14,18
+Likviditet (kassalikv) 109,72 110,0x 111,18
+
+<!-- sida 45 -->
+
+Rambudget 2027
+
+GR transfererar till följande organisationer
+
+Transfereringarna fastställs årligen av förbundsstyrelsen i detaljbudgetprocessen. Transfereringarna
+till Västkuststiftelsen och till VästKom är rörliga och varierar utifrån antalet kommuninvånare. Den
+totala årsavgiften till GR för 2027 beräknas att uppgå till 79 447 tkr. Av den sammanlagda årsavgiften
+beräknas sedan nästan 34 procent eller 25 kronor per kommuninvånare att transfereras vidare till
+andra regionala organisationer.
+
+Business Region Göteborg (BRG) är ett aktiebolag som är helägt av Göteborg Stad. Uppdraget är att
+bidra till hög sysselsättning, investeringar och ett diversifierat näringsliv i GR:s medlemskommuner.
+Samarbetet med BRG är reglerat i samverkansavtal där bolaget arbetar med näringslivsutveckling i
+ett regionalt perspektiv tillsammans med GR:s medlemskommuner.
+
+Göteborg & Co är ett aktiebolag helägt av Göteborgs Stad. Uppdraget är att Göteborg & Co ska vara en,
+iinternationell jämförelse, ledande samverkansplattform för destinationsutveckling. Besöksnäringen
+är en av de största och snabbast växande basnäringarna i Sverige. Samarbetet mellan Göteborg & Co
+och GR regleras i ett ramavtal för samverkan.
+
+Urban Futures är ett internationellt forsknings- och kunskapscentrum som arbetar med hållbar stads-
+utveckling. Alla projekt som genomförs drivs tillsammans av praktiker och forskare. GR är en av åtta
+partnerorganisationer.
+
+Västsvenska kommunalförbundens samorganisation (Västkom) är en sammanslutning av de fyra
+kommunalförbunden i Västra Götaland. Uppdraget är att företräda och samordna kommunernas
+intressen på en regional nivå.
+
+Västkuststiftelsen är en stiftelse med huvudmännen Västra Götalandsregionen, Region Halland och
+GR. Uppdraget är att bevara och vårda den västsvenska naturen och stimulera friluftslivet.
+
+Transfereringar 2026 och förslag 2027-2028 (tkr)
+
+Transfereringar
+
+Organisation Detalj 2026 Ram 2027 Plan 2028
+BRG 20000 20000 20000
+Göteborg & Co 1100 1100 1100
+Urban Futures 400 400 400
+Västkom 2003 2016 2028
+Västkuststiftelsen 3807 3829 3 852
+Totalt 27 310 27 345 27 380
+
+<!-- sida 46 -->
+
+Göteborgsregionen (GR) består av 13 kommuner som har
+valt att jobba tillsammans. Vi driver utvecklingsprojekt,
+har myndighetsuppdrag, forskar, ordnar utbildningar och
+är storstadsregionens röst i Västsverige, bland mycket
+annat. I våra nätverk träffas politiker och tjänstepersoner
+för att utbyta erfarenheter, bolla idéer och besluta om
+gemensamma satsningar. Allt för att regionens
+
+en miljon invånare ska få ett så bra liv som möjligt.
+
+GÖTEBORGS www.goteborgsregionen.se
+REGIONEN
+
+<!-- sida 47 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-06
+Diarienummer
+KS-2026-00159
+
+Begäran om medel för trygg uppväxt - Belysning för att förstärka trygghetskänslan
+(Teknik)
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen bifaller begäran och omfördelar 1 000 000 kronor från centrala finansverksamheten
+för 2026 till nämnden för Teknik.
+
+Sammanfattning av ärendet
+
+Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
+uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
+2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
+2030.
+Nämnden för Teknik har den 23 februari kommit in med en begäran om att få ta del av 1 000 000
+
+kronor av dessa medel för att sätta upp belysning för att förstärka trygghetskänslan på flera platser i
+kommunen. Detta baseras på kommunens och polisens gemensamma lägesbild från januari 2026, som
+lyfter att känslan av trygghet bland annat påverkas av om det är ljust, rent och snyggt på en plats.
+Nämnden menar att det är ett positivt signalvärde till de unga att deras bostadsområde eller skolväg
+visas omsorg.
+Nämndernas ansökningar för 2026 uppgår sammanlagt till 10 000 000 kronor.
+
+Beslutsunderlag
+Kommunledningskontorets tjänsteskrivelse, 2026-03-06
+Nämnden för Teknik 2026-02-18, § 21
+
+Initiativärende från L, M, C och KD, 2026-02-18
+
+Beslutet skickas till
+
+Nämnden för Teknik, kommunledningskontoret: Styrning & Ekonomi
+
+1 (2)
+Kungsbacka kommun
+434 81 Kungsbacka
+Christina Hermansson
+Besöksadress
+Ekonomichef                                              Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 48 -->
+
+KUNGSBACKA KOMMUN
+
+22)
+Beskrivning av ärendet
+Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027-2028 för trygg
+uppväxt. Nämndernas ansökningar avseende 2026 uppgår sammanlagt till 10 000 000 kronor.
+Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
+Individ & Främja trygg uppväxt och 2 000 000 2 000 000
+Familjeomsorg motverka kriminalitet — fyra
+satsningar
+Gymnasium & Skolcoacher i samverkan 2 000 000 2 000 000
+Arbetsmarknad
+Kultur & Fritid Fritidsaktiviteter där unga 3 000 000 3 000 000
+får social tillhörighet och
+skyddande strukturer,
+motverka normbrytande
+beteende, samt minska
+utanförskapet genom
+meningsfull sysselsättning
+Förskola & Grundskola | Stärka och utveckla öppen 2 000 000 2 000 000
+förskola
+Teknik Belysning för att förstärka 1000 000
+trygghetskänslan på flera
+platser i kommunen
+SUMMA 10 000 000 9 000 000
+
+Kommunstyrelsens förvaltning har i sin beredning inte värderat nämndernas ansökan om medel i
+förhållande till varandra. De förslag till beslut som förvaltningen lämnar bygger enbart på principen
+om när de kommit in.
+
+Rickard Vidlund Anders Johansson
+
+Kommundirektör Biträdande kommundirektör
+
+<!-- sida 49 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Nämnden för Teknik
+Datum
+2026-02-18
+
+§ 21                       Dnr TE-2026-00122
+Initiativärende angående Medel för att främja en trygg uppväxt -
+Liberalerna, Moderaterna, Centerpartiet och Kristdemokraterna
+
+Beslut
+Nämnden för Teknik ansöker om totalt 1 miljon kronor ur anslaget Trygg Uppväxt,
+tillägnat extra trygghetsåtgärder för barn och unga i kommunen.
+
+Sammanfattning av ärendet
+Liberalerna, Moderaterna, Centerpartiet och Kristdemokraterna har genom
+ledamöterna Monica Neptun (L), Erik Lindqvist (M) och Anders Eriksson (C) väckt
+ett initiativ angående medel för att främja en trygg uppväxt.
+
+Initiativet lyder:
+”Kommunfullmäktige har beslutat avsätta 10 miljoner för att via extra insatser skapa
+
+en trygg uppväxt för barn och unga.
+Nämnden för Tekniks arbete kan i flera delar påverka barns upplevelse av trygghet
+under sin uppväxt. Några områden är t ex säkra cykelvägar, belysta stråk eller
+attraktiva mötesplatser där unga känner sig trygga. Vi arbetar med detta kontinuerligt
+med befintlig budget.
+
+Lokala brottsförebyggande rådet har under senare tid arbetat enligt delvis ny struktur
+och med nya metoder. Kommunens och Polisens gemensamma lägesbild från januari
+2026 och bedömningen av behov framåt kan vara en bra källa för att identifiera
+sådana prioriterade och nytillkommna åtgärder som lämpligen genomförs samlat av
+flera samtidigt. Åtgärderna har också av många berörda intressenter bedömts ge
+effekt på känslan av trygghet. Effekten uppkommer av att det är ljust, rent, snyggt
+och kanske också mer befolkat av just de anledningarna. Det är ett positivt
+signalvärde till de unga att deras bostadsområde eller skolväg visas omsorg. Lokala
+brottsförebyggande rådet har på senare tid identifierat dels ett antal geografiska
+områden dels några situationer där särskilda insatser behöver göras av flera aktörer
+
+tillsammans.
+Vi tänker att teknik kan utifrån trygghetsbelysning förstärka trygghetskänslan på
+flera platser i kommunen Vi föreslår nämnden att hos kommunstyrelsen hemställa
+om att få ta del av 1 milj kr ur anslaget Trygg Uppväxt för att kunna göra satsningar i
+enlighet med denna skrivelse.”
+
+Kungsbacka 18/2 2026
+Monica Neptun, (L)
+
+Erik Lindqvist (M)
+Anders Eriksson (C)
+Ola Hansson (KD)
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 41C810030398F485F2FD1FA03BFCF3A06136135AE3
+Transaktionsidentitet: 63EA4AEBCAC0234E95CDA2B547235C6666247E3815
+
+<!-- sida 50 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Nämnden för Teknik
+Datum
+2026-02-18
+
+Beslutsunderlag
+Initiativärende från Liberalerna, Moderaterna, Centerpartiet och Kristdemokraterna –
+2026-02-18
+
+Förslag till beslut på sammanträdet
+Ordföranden (L) yrkar på bifall av initiativet.
+
+Beslutsgång
+Ordföranden (L) finner att det finns ett förslag till beslut, det vill säga sitt eget
+yrkande, och att nämnden för Teknik bifaller det.
+
+Beslutet skickas till
+Kommunstyrelsen
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 41C810030398F485F2FD1FA03BFCF3A06136135AE3
+Transaktionsidentitet: 63EA4AEBCAC0234E95CDA2B547235C6666247E3815
+
+<!-- sida 51 -->
+
+Initiativärende från Liberalerna Moderaterna Centerpartiet Krisdemokraterna
+
+Medel för att främja en trygg uppväxt
+
+Kommunfullmäktige har beslutat avsätta 10 miljoner för att via extra insatser
+skapa en trygg uppväxt för barn och unga
+
+Nämnden för Tekniks arbete kan i flera delar påverka barns upplevelse av
+trygghet under sin uppväxt. Några områden är t ex säkra cykelvägar, belysta stråk
+eller attraktiva mötesplatser där unga känner sig trygga. Vi arbetar med detta
+kontinuerligt med befintlig budget.
+
+Lokala brottsförebyggande rådet har under senare tid arbetat enligt delvis ny
+struktur och med nya metoder. Kommunens och Polisens gemensamma lägesbild
+från januari 2026 och bedömningen av behov framåt kan vara en bra källa för att
+identifiera sådana prioriterade och nytillkommna åtgärder som lämpligen
+genomförs samlat av flera samtidigt. Åtgärderna har också av många berörda
+intressenter bedömts ge effekt på känslan av trygghet. Effekten uppkommer av
+
+att det är ljust, rent, snyggt och kanske också mer befolkat av just de
+anledningarna. Det är ett positivt signalvärde till de unga att deras
+bostadsområde eller skolväg visas omsorg.
+Lokala brottsförebyggande rådet har på senare tid identifierat dels ett antal
+geografiska områden dels några situationer där särskilda insatser behöver göras
+av flera aktörer tillsammans.
+
+Vi tänker att teknik kan utifrån trygghetsbelysning förstärka trygghetskänslan på
+flera platser i kommunen
+Vi föreslår nämnden att hos kommunstyrelsen hemställa om att få ta del av 1 milj
+kr ur anslaget Trygg Uppväxt för att kunna göra satsningar i enlighet med denna
+skrivelse.
+Kungsbacka 18/2 2026
+
+Monica Neptun. L
+
+Erik Lindqvist M
+
+Anders Eriksson C
+
+Ola
+
+<!-- sida 52 -->
+
+<!-- sida 53 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-06
+Diarienummer
+KS-2025-00912
+
+Avveckling av stiftelsen Kapten Menns fond
+
+Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige beslutar att avveckla stiftelsen Kapten Menns fond och använda dess tillgångar.
+Kommunfullmäktige ger kommunstyrelsen i uppdrag att genomföra avvecklingen.
+
+Sammanfattning av ärendet
+Kungsbacka kommun förvaltar 16 donationsstiftelser. Det är den eller de som en gång lade grunden för
+stiftelsen som bestämmer ändamålen, vilka som kan söka bidrag från stiftelsen och vilka kriterier som
+ska uppfyllas. Pengarna ägs av stiftelserna och kommunen sköter endast förvaltningen av kapitalet.
+Stiftelsen Kapten Menns fond har inte delat ut bidrag sedan 2010 på grund av att fonden riktar sig till
+en snäv målgrupp. Kommunen kan i egenskap av förvaltare besluta om att förbruka tillgångarna om
+kriterierna för detta är uppfyllda enligt Stiftelselagen.
+
+Beslutsunderlag
+Kommunledningskontorets tjänsteskrivelse, 2026-03-06
+
+Nämnden för Gymnasium & Arbetsmarknad, 2025-11-20, § 137
+
+Beslutet skickas till
+
+Nämnden för Gymnasium & Arbetsmarknad, kommunledningskontoret: Styrning & Ekonomi
+
+Beskrivning av ärendet
+Kungsbacka kommun förvaltar 16 stiftelser. En del av dem kan privatpersoner söka pengar från. Andra
+
+har en kommitté som tar in förslag och nomineringar på mottagare som uppfyller de kriterier som
+anges i stadgarna. Det är den eller de som en gång lade grunden för stiftelsen som bestämmer
+ändamålen, vilka som kan söka och vilka kriterier som ska uppfyllas. Pengarna ägs av stiftelserna och
+Kungsbacka kommun sköter endast förvaltningen av kapitalet. Kommunen får aldrig röra kapitalet
+utan endast göra utdelningar från avkastningen. Kommunen får heller inte ändra i, lägga till eller ta
+bort villkor som finns i respektive stiftelses stadgar. Det ekonomiska ansvaret för donationsstiftelserna
+
+1 (3)
+Kungsbacka kommun
+434 81 Kungsbacka
+Christina Hermansson
+Besöksadress
+Ekonomichef                                              Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 54 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+finns hos finansverksamheten på kommunledningskontoret. Förvaltningarna administrerar ansökningar
+och tar fram utdelningsförslag.
+Kommunen har under 2025 gjort en översyn av de stiftelser som inte delat ut medel de senaste åren. I
+de fall där medlen av olika anledningar inte kan delas ut, har kommunen undersökt om det finns fall då
+stiftelsen kan lösas upp med stöd av Stiftelselagen 6 kapitel, 5 §. Kommunen kan i egenskap av
+förvaltare, besluta om att förbruka stiftelsens tillgångar för ändamålet om följande kriterier är
+uppfyllda:
+
+1. stiftelsen bildades för mer än 20 år sedan
+2. stiftelsen inte har kunnat främja sitt ändamål under de senaste fem åren,
+
+3. värdet av tillgångarna, värderade med tillämpning av 3 kap. 4 §, vid utgången av de tre
+senaste räkenskapsåren har understigit ett gränsbelopp som motsvarar tio gånger det då
+gällande prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, samt
+
+4. stiftelsen saknar skulder.
+Gällande stiftelsen Kapten Menns fond så har stiftelsen inte delat ut bidrag sedan 2010 och uppfyller
+även övriga tre kriterier enligt Stiftelselagen 6 kapitlet, 5 §. Fonden har inte delat ut medel trots att det
+funnits löpande avkastning som överstiger förvaltningskostnaderna och att det funnits fritt eget kapital
+
+att dela ut. Anledningen är att fonden riktar sig till en snäv målgrupp.
+Den årliga räntan ska uteslutande användas till understöd åt någon av fattiga föräldrar inom
+detta samhälle (Kungsbacka) född yngling som efter att med vitsord om sedlighet, flit och
+utmärkta anlag för mekaniska yrken genomgått härvarande skola önskar att vid fullständig
+teknisk läroanstalt förvärfva ökade kunskaper. Detta understöd får, med förutsättning af
+oförändradt godt uppförande, åtnjutas under tre, högst fyra år av samma person.
+
+Förvaltningen för Gymnasium & Arbetsmarknad administrerar ansökningarna om bidrag ur Kapten
+Menns fond och nämnden för Gymnasium & Arbetsmarknad beslutar vem som får ta emot bidrag ur
+stiftelsen. Nämnden för Gymnasium & Arbetsmarknad rekommenderar nu att fonden avvecklas och att
+kommunen ansöker om tillstånd hos Länsstyrelsen att förbruka tillgångarna till ett liknande ändamål,
+förslagsvis ett stipendium för Teknikcollege som finns på flera av gymnasieprogrammen i Kungsbacka
+kommun.
+
+Kommunstyrelsens förvaltning gör bedömningen att Kungsbacka kommun kan besluta enligt
+Stiftelselagen 6 kapitel, 5 § och ansöka om att stiftelsen avvecklas och därefter att förbruka stiftelsens
+tillgångar för det av nämnden för Gymnasium & Arbetsmarknad föreslagna ändamålet. Tillgångarna
+uppgick till 87 126 kronor vid årsskiftet 2025-12-31. Firmatecknare för stiftelsen lämnar in ansökan
+till Länsstyrelsen.
+
+<!-- sida 55 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Rickard Vidlund                    Anders Johansson
+Kommundirektör                     Biträdande kommundirektör
+
+<!-- sida 56 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Nämnden för Gymnasium & Arbetsmarknad
+Datum
+2025-11-20
+
+§ 137                      Dnr GA-2025-00158
+Kapten Menns Fond
+
+Beslut
+Nämnden för Gymnasium & Arbetsmarknad föreslår till Kommunfullmäktige att ge
+förvaltningen för Gymnasium & Arbetsmarknad i uppdrag att ansöka om avveckling
+av stiftelsen Kapten Menns fond hos Länsstyrelsen.
+
+Sammanfattning av ärendet
+Stiftelsen kapten Menns fond betalas ut till studerande och behövande ungdomar i
+Kungsbacka. Pengarna betalas ut som ett bidrag till en behövande ungdom i
+Kungsbacka, född av fattiga föräldrar som fått rekommendationer inom tekniska
+(mekaniska) yrken och avser att studera vidare inom detta område. Stiftelsen har
+
+dock under flera års tid inte kunnat främja sina ändamål och inga ansökningar har
+inkommit sedan 2011. Kriterierna ses som ett stort hinder och en tydlig anledning till
+att inga individer har sökt och tagit dela av pengarna.
+
+Förvaltningen har tillsammans med Länsstyrelsen undersökt olika tillvägagångssätt
+och kommit fram till att en avveckling av stiftelsen är att föredra eftersom pengarna
+då kan användas till ett annat viktigt och relevant ändamål.
+
+Förvaltningen föreslår därför att nämnden rekommenderar Kommunfullmäktige att
+ge förvaltningen i uppdrag att avveckla stiftelsen och därefter upprätta ett stipendium
+där pengarna går till ett liknande och viktigt ändamål. Förvaltningen föreslår ett
+stipendium för Teknikcollege som finns på flera av gymnasieprogrammen i
+Kungsbacka. För att möjliggöra detta krävs beslut i nämnden och senare i
+Kommunfullmäktige.
+
+Beslutsunderlag
+Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-10-23
+
+Beslutsgång
+Ordförande Axel Storckenfeldt (M) finner att det finns ett förslag till beslut,
+nämligen förvaltningens förslag och frågar om nämnden för Gymnasium &
+Arbetsmarknad kan bifalla det och finner att nämnden gör det.
+
+Beslutet skickas till
+Kommunfullmäktige
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
+
+<!-- sida 57 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-04
+Diarienummer
+KS-2026-00163
+
+Antagande av policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun
+
+Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige antar Policy för inköp, Riktlinjer för inköp och Riktlinjer för direktupphandling,
+daterade 2026-02-06.
+Policy för inköp och Riktlinjer för inköp, antagna av kommunfullfullmäktige 2021-03-09 § 30, samt
+Riktlinjer för direktupphandling, antagen av kommunfullmäktige 2022-10-18 § 160, upphör samtidigt
+att gälla.
+
+Sammanfattning av ärendet
+Nämnden för Service har sett över kommunens styrdokument inom inköpsområdet och tagit fram en
+uppdaterad policy och en riktlinje för inköp samt en riktlinje för direktupphandling.
+
+2021 gjordes ett större arbete med de styrande dokumenten för Inköp i syfte att få in ett mer strategiskt
+förhållningssätt i styrningen av kommunens inköp. Sedan dess har utvecklingen i samhället och en
+större medvetenhet och kunskap kopplat till välfärdsbrottslighet gjort att nämnden för Service har sett
+ett behov av att se över de styrande dokumenten.
+
+De förändringar som nämnden vill göra har också sin bakgrund i kommunrevisionens granskning av
+interna kontroller kopplade till risken för oegentligheter i upphandling och avtalsuppföljning.
+Översynen har resulterat i reviderade riktlinjer för inköp och direktupphandling samt mindre
+uppdatering i Policy för inköp. Uppdateringen i policyn syftar till att förtydliga innehållet och
+säkerställa ett enhetligt och konsekvent språk i förhållande till riktlinjerna, utan att förändra
+
+policyinnehållets inriktning eller ambitionsnivå.
+De reviderade riktlinjerna innebär bland annat förtydliganden kring ansvarsfördelning, riskanalys,
+leverantörskontroller och avtalsuppföljning, i enlighet med kommunrevisionens rekommendationer.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-03-04
+Nämnden för Service, 2026-02-19, § 19
+Förvaltningen för Services tjänsteskrivelse, 2026-02-06
+
+1 (4)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+Andrea Egerlundh
+0300-834272                                                   Besöksadress
+Utredare                                                 Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 58 -->
+
+KUNGSBACKA  KOMMUN
+2 (4)
+
+Policy för inköp, 2026-02-06
+Riktlinjer för inköp, 2026-02-06
+Riktlinjer för direktupphandling, 2026-02-06
+Policy för inköp, antagen av kommunfullmäktige 2021-03-09, § 30
+Riktlinjer för inköp, antagen av kommunfullmäktige 2021-03-09, § 30
+Riktlinjer för direktupphandling, antagen av kommunfullmäktige, 2022-10-18, § 160
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Beskrivning av ärendet
+
+Nämnden för Service har enligt reglemente ansvar för att tillhandahålla och utveckla efterfrågade
+tjänster rörande inköp såsom upphandling och e-handel.
+För att styra arbetet har kommunfullmäktige antagit en policy för inköp samt riktlinjer för inköp i stort
+
+respektive direktupphandling. År 2021 gjordes ett större arbete med de styrande dokumenten rörande
+inköpsområdet i syfte att få in ett mer strategiskt förhållningssätt i styrningen av kommunens inköp.
+Sedan dess har utvecklingen i samhället och en större medvetenhet och kunskap kopplat till
+välfärdsbrottslighet gjort att nämnden för Service ser ett behov av att se över de styrande dokumenten.
+De förändringar som nämnden vill göra har också sin bakgrund i kommunrevisionens granskning av
+interna kontroller kopplade till risken för oegentligheter i upphandling och avtalsuppföljning.
+
+Policyn har endast uppdaterats marginellt, medan såväl Riktlinjer för Inköp som Riktlinjer för
+direktupphandling är alltför omarbetade för att det ska vara möjligt att på ett pedagogiskt sätt redovisa
+förändringarna i ett dokument med markerade ändringar.
+
+Riktlinjerna och också fått en inledning där dokumentets syfte och koppling till kommunens
+inköpspolicy tydliggörs. Syftet är att riktlinjerna ska säkerställa att kommunens inköp genomförs
+affärsmässigt, hållbart och ansvarsfullt.
+
+Förändringar i Policy för inköp
+Policyn har en ny inledande mening som lyder: Kungsbacka kommuns Policy för inköp är gemensamt
+dokument som omfattar alla inköp i kommunen och innebär att:
+
+Därefter följer de övergripande principer eller förhållningssätt som ska vägleda verksamheten.
+- I första punkten föreslås en mindre språklig justering som innebär att medverka till att ändras till
+bidrar till att.
+
+- I sista punkten föreslås ett tillägg som innebär att långsiktiga affärsrelationer ändras till
+långsiktiga och sunda affärsrelationer.
+
+<!-- sida 59 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
+
+Förändringar i Riktlinjer för inköp
+Riktlinjer för inköp, har främst förtydligats och omstrukturerats. Bland annat har ansvar, arbetssätt och
+principer för kommunens inköpsarbete förtydligats. Riktlinjen har också kompletterats med utvecklade
+delar rörande hållbarhet samt nya delar om riskhantering och uppföljning. Förslaget till ny riktlinje
+tydliggör också vikten av en mer strukturerad inköpsplanering, där verksamheternas planering av
+inköpsbehov sker med god framförhållning och samordning med kommunens samlade
+inköpsverksamhet.
+
+Ansvarsfördelningen mellan inköpsverksamheten på Service och berörda nämnder och förvaltningar
+har förtydligats på så sätt att dokumentet anger:
+-  inköpsverksamhetens samordnande ansvar
+
+-  nämndernas ansvar för planering, behovsanalys och uppföljning
+-  chefers ansvar för att avtal efterlevs
+
+-  medarbetares ansvar att använda gällande avtal
+
+Vidare har skrivningarna om arbete med hållbarhet i inköp utvecklats genom att ekonomiska,
+ekologiska och sociala aspekter tydligare lyfts fram som principer i inköpsprocessen.
+Riktlinjen innehåller också en mer utvecklad beskrivning av inköpsprocessens olika nivåer samt krav
+på planering, behovsanalys och uppföljning av avtal samt nya skrivningar om leverantörskontroller
+och uppföljning i syfte att stärka arbetet mot oegentligheter och välfärdsbrott.
+
+Inom dessa områden tydliggörs bland annat:
+- att det är krav på dokumenterad riskanalys inför varje upphandling,
+
+- hur riskanalysen ska vara styrande för kravställning, kontroller och uppföljning,
+- att det ska genomföras systematiska leverantörskontroller i alla inköp för att motverka
+
+oegentligheter och välfärdsbrott,
+- att det är ett krav att planera och dokumentera avtalsuppföljning utifrån avtalets risk och betydelse.
+
+Förändringar i Riktlinjer för direktupphandling
+De föreslagna förändringarna i Riktlinjer för direktupphandling innebär framför allt en tydligare
+struktur, men även ett kompletterade avsnitt om ansvar och uppföljning samt ett tydligare fokus på
+hållbarhet och kontroll.
+
+Bland annat tydliggörs att respektive nämnd ansvarar för inköp, att verksamheterna ansvarar för att
+direktupphandlingar genomförs korrekt samt att avtal som ingås ska följas upp av ansvarig nämnd.
+
+Riktlinjen förtydligar även att direktupphandlingar ska genomföras i enlighet med
+upphandlingslagstiftningen, kommunens policy och riktlinjer samt fastställda rutiner.
+
+<!-- sida 60 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+Kraven på dokumentation har också utvecklats och strukturerats i ett eget avsnitt om dokumentation
+och spårbarhet. Där framgår bland annat att dokumentation ska möjliggöra uppföljning av kommunens
+överväganden och beslut.
+Den nu gällande versionen innehåller liknande principer, men i mer kortfattad form.
+
+Förändringarna i riktlinjen består också i att det tillkommer ett avsnitt om hållbarhet och
+affärsmässighet där det framgår att även mindre inköp ska bidra till hållbar utveckling, goda
+arbetsvillkor samt att verksamheten ska arbeta för att motverka välfärdsbrottslighet även vid
+direktupphandlingar. Detta perspektiv framgår inte lika tydligt i nu gällande riktlinje.
+
+I den uppdaterade riktlinjen framgår också att verksamheterna ansvarar för uppföljning av
+direktupphandlade avtal samt att avvikelser från riktlinjerna ska dokumenteras och rapporteras i
+nämndens interna kontroll.
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning, liksom övriga förvaltningar genom sina respektive ekonomiledare har
+varit delaktiga i nämnden för Services arbete med att ta fram de föreslagna styrande dokumenten för
+Inköp. Kommunstyrelsens förvaltning ser positivt på de förändringar som föreslås och instämmer i
+nämndens bedömning att de ändringar som har gjorts i de styrande dokumenten sammantaget kommer
+bidra till en tydligare, mer enhetlig och rättssäker inköpsprocess i Kungsbacka kommun.
+
+Rickard Vidlund          Anders Johansson
+Kommundirektör           Biträdande kommundirektör
+
+<!-- sida 61 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Nämnden för Service
+Datum
+2026-02-19
+
+§ 19                       Dnr SE-2026-00034
+Policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun
+
+Beslut
+Nämnden för Service antar Policy för inköp, daterad 2026-02-06 samt Riktlinjer för
+inköp och Riktlinjer för direktupphandling, daterade 2026-02-06, och översänder
+dem till Kommunfullmäktige för fastställande.
+
+Policy för inköp och Riktlinjer för inköp, antagna av Kommunfullfullmäktige 2021-
+03-09 § 30, samt Riktlinjer för direktupphandling, antagen av Kommunfullmäktige
+2022-10-18 § 160, upphör samtidigt att gälla.
+
+Sammanfattning av ärendet
+
+Mot bakgrund av kommunrevisionens Granskning av interna kontroller kopplade till
+risken för oegentligheter i upphandling och avtalsuppföljning. SE-2024-00242, har
+förvaltningen för Service sett över kommunens styrdokument inom inköpsområdet.
+
+Översynen har resulterat i reviderade riktlinjer för inköp och direktupphandling samt
+mindre uppdatering i Policy för inköp. Den mindre uppdateringen i policyn syftar till
+att förtydliga innehållet och säkerställa ett enhetligt och konsekvent språk i
+förhållande till riktlinjerna, utan att förändra policyinnehållets inriktning eller
+ambitionsnivå.
+Riktlinjerna för inköp och direktupphandling har uppdaterats i syfte att möta
+
+kommunrevisionens rekommendationer och stärka den interna kontrollen. I de
+reviderade riktlinjerna tydliggörs bland annat,
+•  krav på dokumenterad riskanalys inför varje upphandling,
+
+•  hur riskanalysen ska vara styrande för kravställning, kontroller och
+uppföljning,
+•  ansvarsfördelning mellan Inköpsverksamheten på Service och berörda
+nämnder och förvaltningar,
+
+•  systematiska leverantörskontroller för att motverka oegentligheter och
+värlfärdsbrott,
+
+•  krav på planerad och dokumenterad avtalsuppföljning utifrån avtalets risk och
+betydelse.
+De reviderade styrdokumenten bedöms sammantaget bidra till en tydligare, mer
+enhetlig och rättssäker inköpsprocess i Kungsbacka kommun.
+
+Beslutsunderlag
+Förvaltningen för Services tjänsteskrivelse, 2026-02-06
+Policy för inköp, daterad 2026-02-06
+Riktlinjer för inköp, daterad 2026-02-06
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 402EC8BE9B5C89E2368E0014A206F01514C5C6BBFA
+Transaktionsidentitet: 76F458A069E833091A08ACB374B559C0114ED569E1
+
+<!-- sida 62 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Nämnden för Service
+Datum
+2026-02-19
+
+Riktlinjer för direktupphandling, daterad 2026-02-06
+
+Beslutsgång
+
+Ordförande Fredrik Hansson (C) finner att det finns ett förslag till beslut, det vill
+säga förvaltningen för Service förslag, och att nämnden för Service bifaller det.
+
+Beslutet skickas till
+
+Kommunstyrelsen
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 402EC8BE9B5C89E2368E0014A206F01514C5C6BBFA
+Transaktionsidentitet: 76F458A069E833091A08ACB374B559C0114ED569E1
+
+<!-- sida 63 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-02-06
+Diarienummer
+SE-2026-00034
+
+Förvaltningen för Service tjänsteskrivelse - Policy och riktlinjer för
+inköpsverksamheten i Kungsbacka kommun
+
+Förslag till beslut i nämnden för Service
+Nämnden för Service antar Policy för inköp, daterad 2026-02-06 samt Riktlinjer för inköp och
+Riktlinjer för direktupphandling, daterade 2026-02-06, och översänder dem till Kommunfullmäktige
+för fastställande.
+
+Policy för inköp och Riktlinjer för inköp, antagna av Kommunfullfullmäktige 2021-03-09 § 30, samt
+Riktlinjer för direktupphandling, antagen av Kommunfullmäktige 2022-10-18 § 160, upphör samtidigt
+
+att gälla.
+
+Sammanfattning av ärendet
+
+Mot bakgrund av kommunrevisionens Granskning av interna kontroller kopplade till risken för
+oegentligheter i upphandling och avtalsuppföljning. SE-2024-00242, har förvaltningen för Service sett
+över kommunens styrdokument inom inköpsområdet.
+Översynen har resulterat i reviderade riktlinjer för inköp och direktupphandling samt mindre
+uppdatering i Policy för inköp. Den mindre uppdateringen i policyn syftar till att förtydliga innehållet
+och säkerställa ett enhetligt och konsekvent språk i förhållande till riktlinjerna, utan att förändra
+policyinnehållets inriktning eller ambitionsnivå.
+
+De reviderade riktlinjerna innebär bland annat förtydliganden kring ansvarsfördelning, riskanalys,
+leverantörskontroller och avtalsuppföljning, i enlighet med kommunrevisionens rekommendationer.
+
+Beslutsunderlag
+Förvaltningen för Services tjänsteskrivelse, 2026-02-06
+Policy för inköp, daterad 2026-02-06
+Riktlinjer för inköp, daterad 2026-02-06
+Riktlinjer för direktupphandling, daterad 2026-02-06
+
+Beslutet skickas till
+Kommunstyrelsen
+
+1 (2)
+Förvaltningen för Service                                 Kungsbacka kommun
+434 81 Kungsbacka
+Namita Magnusson
+0300 83 46 58                                                 Besöksadress
+Nämndsekreterare                                         Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 64 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Beskrivning av ärendet
+Kommunrevisionen i Kungsbacka kommun har granskat nämnden för Services arbete med interna
+kontroller kopplade till risken för oegentligheter i upphandling och avtalsuppföljning. Granskningen,
+genomförd av Ernst & Young (EY), visar bland annat att ansvarsfördelningen mellan nämnder och
+förvaltningar behöver tydliggöras samt att arbetet med riskanalys, leverantörskontroller och
+systematisk avtalsuppföljning kan stärkas ytterligare.
+
+Med anledning av granskningen har förvaltningen för Service genomfört en samlad översyn av Policy
+för inköp samt tillhörande riktlinjer. I samband med översynen har Policyn för inköp justerats i
+begränsad omfattning. Justeringarna är av språklig karaktär och har genomförts för att öka tydlighet,
+läsbarhet och överensstämmelse med de reviderade riktlinjerna.
+
+Riktlinjerna för inköp och direktupphandling har uppdaterats i syfte att möta kommunrevisionens
+rekommendationer och stärka den interna kontrollen. I de reviderade riktlinjerna tydliggörs bland
+annat:
+•  krav på dokumenterad riskanalys inför varje upphandling,
+
+•  hur riskanalysen ska vara styrande för kravställning, kontroller och uppföljning,
+•  ansvarsfördelning mellan Inköpsverksamheten på Service och berörda nämnder och
+
+förvaltningar,
+•  systematiska leverantörskontroller för att motverka oegentligheter och värlfärdsbrott,
+
+•  krav på planerad och dokumenterad avtalsuppföljning utifrån avtalets risk och betydelse.
+De reviderade styrdokumenten bedöms sammantaget bidra till en tydligare, mer enhetlig och rättssäker
+inköpsprocess i Kungsbacka kommun.
+
+Julia Tryggvadottir Tollesson      Camilla Pålsson
+
+Förvaltningschef Service           Verksamhetschef Inköp
+
+<!-- sida 65 -->
+
+Policy         för     inköp
+
+Dokumentegenskaper: Policy för inköp
+Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
+
+Giltig från:    [Klicka eller tryck här för att ange datum]
+Datum:          2026-02-06
+Ansvarig förvaltning: Förvaltningen för Service
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kungsbacka kommun, 434 81 Kungsbacka
+www.kungsbacka.se
+
+Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+
+<!-- sida 66 -->
+
+Kungsbacka kommuns Policy för inköp är gemensamt dokument som omfattar alla inköp i
+kommunen och innebär att:
+
+• Kungsbacka kommuns inköpsprocess ska ha ett strategiskt förhållningssätt som
+
+stärker och stödjer välfärdsuppdraget samt bidrar till att Kungsbacka kommun växer
+och utvecklas till ett ekonomiskt, ekologiskt och socialt hållbart samhälle till nytta för
+kommunens invånare.
+
+• Ett Kungsbacka ska vara ett principiellt och normerande förhållningssätt i
+inköpsprocessen i alla kommunens verksamheter. Ett Kungsbacka är ett
+organisatoriskt värde som ska skapa trygghet i affärsrelationerna samt ge mervärden
+för kommunen som helhet och för de vi är till för.
+
+• Kungsbacka kommuns inköp ska grundas på affärsmässighet, en aktiv och sund
+konkurrens, främja etiska hänsyn samt söka innovativa lösningar på nuvarande och
+förväntade utmaningar.
+
+• Det ska vara enkelt och tryggt att göra affärer med Kungsbacka kommun så att
+långsiktiga och sunda affärsrelationer byggs till ömsesidig nytta.
+
+Kungsbacka kommun               Policy för inköp                2 (2)
+
+<!-- sida 67 -->
+
+Riktlinjer            för    inköp
+
+Dokumentegenskaper: Riktlinjer för inköp
+Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
+
+Giltig från:    [Klicka eller tryck här för att ange datum]
+Datum:          2026-02-06
+Ansvarig förvaltning: Förvaltningen för Service
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kungsbacka kommun, 434 81 Kungsbacka
+www.kungsbacka.se
+
+Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+
+<!-- sida 68 -->
+
+Dessa riktlinjer ger vägledning för inköpsprocessen och är en fördjupning av innehållet i
+dokumentet Policy för inköp.
+
+Inledning
+
+Riktlinjer för inköp är ett av flera styrdokument som kompletterar och konkretiserar kommunens
+Policy för inköp. Den ska tillämpas på alla inköp i Kungsbacka kommuns samtliga verksamheter.
+
+Riktlinjerna syftar till att säkerställa att Kungsbacka kommuns offentliga affärer, det vill säga alla
+inköp och upphandlingar, genomförs på ett affärsmässigt, hållbart och ansvarsfullt sätt.
+
+Grundläggande    utgångspunkter
+
+Vision och övergripande mål
+
+De inköp som kommunen gör ska vara hållbara, affärsmässiga och rättssäkra.
+
+Inköpsprocessens värden och principer
+
+Inköp är en process i flera steg. Den genomförs med stöd av lagar och föreskrifter,
+professionsetiska regler samt Kungsbacka kommuns organisatoriska värden.
+Tillsammans utgör de inköpsprocessens grund.
+
+Dessa normer har olika dignitet. Om två normer eller principer krockar, ska den med lägre
+dignitet ge vika för den med högre dignitet.
+
+Om regler eller principer står i konflikt med varandra gäller följande ordning i dignitet:
+
+1. Lagar och andra författningar.
+
+2. Etiska principer och fackmässighet.
+
+3. Kommunens organisatoriska värden.
+
+Kungsbacka kommun              Riktlinjer för inköp            2 (10)
+
+<!-- sida 69 -->
+
+Det ska vara enkelt och tryggt att göra affärer med Kungsbacka kommun.
+Kommunen ska uppfattas som en seriös och pålitlig upphandlande myndighet.
+
+Bild: Kungsbacka kommuns Inköpsprocess
+
+Kungsbacka kommun              Riktlinjer för inköp            3 (10)
+
+<!-- sida 70 -->
+
+Övergripande ansvarsfördelning
+
+Kungsbacka kommuns inköpsverksamhet bygger på tydlig ansvarsfördelning och samverkan.
+Inköpsverksamheten på Service har det kommungemensamma ansvaret för att samordna, leda
+och genomföra upphandlingar för kommunens räkning. Funktionen säkerställer att
+
+inköpsprocessen bedrivs lagenligt och affärsmässigt samt fastställer de processer, mallar och
+metoder som ska användas.
+Varje nämnd och förvaltning ansvarar för att planera och budgetera för sina inköpsbehov,
+beskriva krav samt följa dessa riktlinjer och beslutade rutiner. De ska alltid samverka med
+Inköpsverksamheten på Service vid upphandlingar samt vid förändringar av befintliga avtal.
+Varje nämnd är även ansvarig för uppföljningen av avtalen.
+
+Kommunens anställda är skyldiga att ha tillräcklig kunskap om rutiner för inköp samt känna till
+och använda gällande avtal. Varje chef ansvarar för att ingångna avtal efterlevs och att inköp
+görs enligt kommunens riktlinjer och rutiner för upphandling och inköp.
+
+Verksamheterna på respektive beställande förvaltning ansvarar för att alla inköp och
+direktupphandlingar sker i enlighet med kommunens policy, riktlinjer och gällande lagstiftning.
+
+För varje avtal ska det vara tydligt vilken funktion som ansvarar för att avtalsuppföljning
+genomförs och att eventuella avvikelser hanteras.
+
+Hållbarhet i inköp
+
+Kommunens inköp ska bidra till en långsiktig hållbar utveckling. Arbetet utgår från tre
+dimensioner av hållbarhet; ekonomisk, ekologisk och social.
+Varje inköp ska behovsprövas så att onödiga inköp minimeras. Användningstiden för produkter
+och material ska förlängas så långt det är möjligt för att minska produktionsfasens miljöpåverkan
+och förbrukningen av resurser. I första hand ska verksamheten tillgodose ett behov med
+befintliga resurser, i andra hand genom inköp av begagnat. I vissa fall kan tjänster ersätta ett
+
+inköp av en produkt och vara att föredra ur miljösynpunkt. I sista hand ska behovet tillgodoses
+genom nyinköp. Som hjälp för att illustrera dessa principer har kommunen tagit fram
+konsumtionstrappan, som ska beaktas vid inköp.
+
+Bild: konsumtionstrappan
+
+Kungsbacka kommun              Riktlinjer för inköp            4 (10)
+
+<!-- sida 71 -->
+
+Ekonomisk hållbarhet
+Ekonomisk hållbarhet innebär att använda och vårda resurser så att kommunen kan skapa
+långsiktiga värden. Det innebär bland annat att:
+
+•  Behov, inte önskemål, ska styra inköpen.
+
+•  Inköpsbeslut ska rymmas inom tilldelad budget.
+•  De kvantitativa och kvalitativa mått kommunfullmäktige angivit uppnås.
+
+•  Avtal ska utformas med livscykelperspektiv – högre startkostnad kan motiveras av lägre
+driftskostnader.
+•  Verksamheter har ansvar för kvalitet och ekonomi även när externa utförare anlitas.
+
+Ekologisk hållbarhet
+
+Alla inköp ska bidra till minskad miljö- och klimatpåverkan. Verksamheterna ska, när det är
+tillämpligt:
+
+•  Välja varor och tjänster som uppfyller hållbarhetskrav.
+•  I möjligaste mån kräva tredjepartscertifierade miljö- eller hållbarhetsmärkningar.
+
+•  Sträva efter förnyelsebara resurser, giftfria kretslopp och minimal klimatpåverkan.
+
+Social hållbarhet
+
+Kommunens upphandlingar ska främja socialt ansvar och jämlika villkor. Det innebär bland annat
+att:
+
+•  Upphandlingar ska främja goda arbetsvillkor, jämställdhet och likabehandling.
+•  Krav på särskilda arbetsrättsliga villkor ska ställas vid risk för oskäliga villkor.
+
+Sociala mervärden som arbetsträning, arbetsintegration eller hälsobefrämjande insatser ska
+värderas högt.
+
+Ett Kungsbacka
+
+Ett Kungsbacka är kommunens gemensamma förhållningssätt och innebär att:
+•  Hela kommunens bästa alltid vägs in – inte enbart den egna verksamhetens.
+
+•  Vid behov av expertkunskap från kommunens specialister inom exempelvis kravställning,
+kvalitetssäkring av avtal och uppföljning av avtal, ska dessa i möjligaste mån göras
+tillgängliga oavsett organisatorisk placering.
+•  En kommungemensam syn på affären skapar förtroende och trygghet gentemot
+
+marknaden.
+
+Kungsbacka kommun              Riktlinjer för inköp            5 (10)
+
+<!-- sida 72 -->
+
+Affärsmässighet   och konkurrens
+
+Kommunens inköp ska präglas av affärsmässighet, samt en öppen och sund konkurrens.
+Det innebär att:
+
+•  Alla leverantörer ska ges lika möjligheter att delta.
+•  Krav ska vara proportionerliga, sakliga och tydliga.
+
+•  Små och stora företag samt olika associationsformer ska kunna delta på lika villkor.
+•  Upphandlingsprocessen ska vara förutsägbar och enkel att förstå.
+
+•  Kommunen ska säkerställa allmänhetens rätt till insyn även när verksamhet bedrivs av
+extern utförare.
+
+•  Avtalsuppföljning ska säkerställa kvalitet och effektivitet över tid.
+
+Om något avtal inte är affärsmässigt bra för kommunen, ska det konkurrensutsättas på nytt för att
+säkerställa bästa möjliga villkor.
+
+Inköpsprocess   och nivåer  av inköp
+
+Inköpsverksamheten bedrivs på tre nivåer:
+
+•  Strategisk nivå - beslut om övergripande inriktning, samordning och resursanvändning.
+•  Taktisk nivå - planering, kravställning och upphandlingsgenomförande.
+
+•  Operativ nivå - beställning, leveranskontroll och uppföljning.
+Oavsett nivå ska inköpsarbetet genomsyras av affärsmässighet, kontroll, transparens och
+hållbarhet. Planering med framförhållning är avgörande för att uppnå kostnadseffektiva och
+hållbara affärer.
+
+Planering och beslut om inköp
+
+Inköpsbeslut är i grunden försörjningsstrategiska beslut. Verksamheterna ska planera sina inköp i
+god tid och samordna planeringen med Inköpsverksamheten på Service.
+
+Inköpsplaneringen ska inkludera:
+
+•  behovsanalys,
+•  bedömning av olika driftsformer (egen regi, upphandling, samverkan),
+
+•  marknadsanalys och dialog med näringslivet,
+
+•  hållbarhets- och riskanalys.
+Behovsanalysen ska omfatta hela avtalets livscykel och väga in drifts- och underhållskostnader
+över tid.
+
+Ett försörjningsstrategiskt beslut innebär bland annat vägval, till exempel verksamhet i egen regi,
+upphandling eller annan driftform för att säkerställa kommunens behov av varor och tjänster.
+
+Kungsbacka kommun              Riktlinjer för inköp            6 (10)
+
+<!-- sida 73 -->
+
+Försörjningsstrategi innebär också en planering av allt det som behövs för att verksamheten ska
+kunna leverera på sitt uppdrag.
+
+Verksamheterna ska:
+
+•  Årligen planera för sina inköpsbehov enligt inköpsprocessen. Verksamheternas
+inköpsplaner sammanställs till en aktuell inköpsbehovslista för Kungsbacka kommun.
+•  Överväga hur stor andel egen regi som krävs för att uppnå rätt effekter utifrån
+
+verksamhetens uppdrag och mål. I övervägandet behöver man identifiera vilka eventuella
+risker som uppstår i samband med att externa utförare används.
+•  Analysera vilka mervärden kommunen vill åstadkomma tillsammans med en affärspartner,
+med hänsyn till vad verksamheterna vill uppnå.
+
+•  Söka förutsättningar för ett ökat samarbete med näringslivet eller ett ökat partnerskap
+med idéburna organisationer i syfte att tillsammans hitta innovativa lösningar på
+nuvarande och förväntade utmaningar.
+
+Kravställning, utvärdering och uppföljning
+
+Ett ansvarsfullt inköpsarbete kräver att lika mycket fokus läggs på kravställning och uppföljning
+som på själva upphandlingen.
+
+Verksamheterna ska kravställa utifrån:
+•  Behov och målbild.
+
+•  De organisatoriska värden som identifierats som påverkansfaktorer vid kravställning,
+såsom hållbarhetsmålen och förhållningsprincipen Ett Kungsbacka.
+
+•  Offentlighetsprincipen, där rätten till allmän insyn ska säkerställas, såväl i egen regi som
+när extern utförare anlitas.
+•  Minst samma kvalitetsnivå på utförande och drift hos extern utförare som om kommunen
+hade drivit verksamheten i egen regi.
+
+Kraven ska ta hänsyn till:
+
+•  Behov av komplettering av kompetens, baserad på vetenskap och beprövad erfarenhet
+eller annan, dokumenterad och evidensbaserad kunskap.
+•  Kraven ska stå rimlig proportion till det som upphandlas.
+
+•  Behov av innovationer, genom att upphandlingar genomförs med tidig dialog i syfte att
+identifiera innovativa och hållbara lösningar på såväl nuvarande som förväntade
+utmaningar.
+
+Varje upphandling ska innehålla en plan för avtalsuppföljning, som tas fram tillsammans med
+berörda verksamheter. Avtalsuppföljningen ska genomföras i en omfattning som står i proportion
+till avtalets risk och betydelse för verksamheten, samt dokumenteras på ett sådant sätt att
+efterlevnad kan följas upp och vid behov ligga till grund för åtgärder.
+
+Kungsbacka kommun              Riktlinjer för inköp            7 (10)
+
+<!-- sida 74 -->
+
+Uppföljningen ska säkerställa att:
+
+•  kontraktsvillkor och leveranser uppfylls,
+•  miljö- och sociala krav efterlevs,
+
+•  risker för oegentligheter och välfärdsbrott upptäcks i tid,
+•  avvikelser dokumenteras och åtgärdas.
+
+Avvikelser som framkommer vid avtalsuppföljning ska dokumenteras och framföras till leverantör.
+
+Riskanalys i upphandlingsprocessen
+Varje upphandling ska föregås av en riskanalys för att identifiera och hantera risker kopplade till
+oegentligheter, välfärdsbrott eller andra brister som kan påverka affären.
+
+Riskanalysen ska:
+
+•  Genomföras innan upphandlingen annonseras.
+•  Dokumenteras i upphandlingsverktyget.
+
+•  Ligga till grund för val av krav, kontroller och uppföljningsinsatser.
+
+Det innebär att riskanalysen ska vara styrande för hur upphandlingen och avtalet utformas, följs
+upp och kontrolleras under hela avtalsperioden.
+
+Inköpsverksamheten på Service har ett gemensamt ansvar tillsammans med berörda
+förvaltningar i avtalsgrupp för att riskanalys genomförs och dokumenteras.
+
+Kontroll och uppföljning av riskavtal
+
+Verksamheterna ska ha god kontroll över avtal och leverantörer som kan anses vara av hög risk,
+särskilt sådana där kommunens beroende av leverantören är starkt kopplat till leverans av
+välfärdstjänster.
+
+För dessa avtal gäller att verksamheten ska:
+
+•  Dokumentera hur avtalet har ingåtts och på vilka grunder.
+•  Säkerställa att uppföljning sker kontinuerligt och att leveransen motsvarar avtalade villkor.
+
+Uppföljning av privata utförare som regleras i särskild ordning omfattas inte av dessa riktlinjer.
+
+Samverkan   och  användning   av inköpscentraler
+
+Kungsbacka kommun kan när det är ändamålsenligt och affärsmässigt fördelaktigt, använda
+ramavtal och upphandlingar som tillhandahålls av inköpscentraler.
+
+Verksamheten behöver bedöma om ett externt ramavtal uppfyller de krav och behov som
+
+Kungsbacka kommun              Riktlinjer för inköp            8 (10)
+
+<!-- sida 75 -->
+
+verksamheten har. Inköpsverksamheten är behjälpliga i att bedöma kommersiella risker med
+avtalet.
+Bedömningen ska grundas på:
+
+•  Avtalsinnehåll, pris och kvalitet.
+
+•  Miljö- och hållbarhetskrav.
+•  Lokala behov och strategiska mål (såsom säkerhetskrav, IT-krav, organisatoriska
+
+förutsättningar).
+Kommunen kan även delta i eller initiera samordnade upphandlingar tillsammans med andra
+kommuner och offentliga aktörer när det bidrar till effektivitet och nytta för Kungsbackas
+verksamheter.
+
+Kontaktpersoner   för inköp
+
+Varje förvaltning ska utse en kontaktperson för inköpsfrågor, så kallad FKI (Förvaltningarnas
+kontaktperson för inköp). Kontaktpersonen samordnar inköpsplanering för sin förvaltning och
+säkerställer att förvaltningen följer kommunens gemensamma rutiner för inköp.
+
+Särskilda områden   i inköpsarbetet
+
+Kungsbacka kommun har en väl etablerad och digitaliserad inköpsprocess som omfattar e-
+handel, elektroniska beställningar och avtalsuppföljning.
+
+Kommunen ska:
+
+•  Säkerställa att e-handelssystemet används på ett enhetligt sätt i hela organisationen.
+•  Använda data som en strategisk resurs i uppföljning, analys och styrning.
+
+•  Agera transparent och rättssäkert genom digital dokumentation av beslut och
+leverantörskontroller.
+•  Använda digitala verktyg för att mäta samhällsnytta, hållbarhet och effektivitet i de
+
+offentliga affärerna.
+
+Kontroller för att motverka välfärdsbrottslighet och  oseriösa
+leverantörer/avtalsparter
+
+Kommunen ska aktivt förebygga och motverka välfärdsbrottslighet i sina inköp och
+upphandlingar.
+
+Detta innebär att:
+
+•  Kravställning, urval och uppföljning ska utformas för att motverka bedrägeri, svartarbete,
+skatteundandragande och missbruk av välfärdssystem.
+•  Leverantörskontroller ska genomföras systematiskt i alla inköp.
+
+•  Endast leverantörer som uppfyller krav på registrering, redovisning och god affärsetik får
+anlitas.
+
+Kungsbacka kommun              Riktlinjer för inköp            9 (10)
+
+<!-- sida 76 -->
+
+•  Avtal kan hävas om leverantör visar tecken på oegentligheter eller inte uppfyller seriösa
+villkor.
+Särskilda förfaranden
+
+Utmaningsrätt
+Kungsbacka kommun tillämpar utmaningsrätt, vilket innebär att ett företag kan begära att en
+kommunal verksamhet ska konkurrensutsättas genom upphandling. Sådana initiativ ska hanteras
+enligt gällande konkurrenspolicy.
+
+Verksamheterna ska därför:
+
+•  Planera vilka resurser i form av varor och tjänster som krävs för att leverera sitt uppdrag.
+•  Planera för olika alternativa driftsformer.
+
+•  Ta ställning till de initiativ till alternativa driftsformer som uppkommer i verksamheten.
+•  Söka förutsättningar för ett ökat samarbete med näringslivet och partnerskap med
+
+idéburna organisationer, i syfte att tillsammans hitta innovativa lösningar på nuvarande
+och förväntade utmaningar.
+
+Idéburna offentliga partnerskap (IOP)
+
+Kommunen kan ingå idéburna offentliga partnerskap när samarbetet sker med en idéburen
+organisation i syfte att uppnå gemensamma samhällsnyttiga mål.
+
+IOP omfattas inte av upphandlingslagstiftningen men ska hanteras enligt gällande vägledning
+(SOU 2019:56).
+Avtal om IOP ska alltid beslutas och dokumenteras enligt särskild ordning.
+
+Avsteg vid extraordinära händelser
+
+Vid extraordinära händelser – såsom force majeure eller andra händelser utanför kommunens
+kontroll – får avsteg från dessa riktlinjer göras om det är nödvändigt, i enlighet med gällande
+lagstiftning, för att säkerställa verksamhetens fortlevnad eller samhällsviktig funktion. Sådana
+avsteg ska stämmas av med Inköpsverksamheten på Service.
+
+Avvikelser och rapportering
+
+Upptäckta avvikelser från dessa riktlinjer eller från gällande avtal ska omedelbart dokumenteras
+och rapporteras till ansvarig chef och till Inköpsverksamheten på Service.
+
+Avvikelser ska redovisas inom ramen för nämndens årliga uppföljning av intern kontroll.
+
+Uppföljning
+
+Efterlevnaden av dessa riktlinjer ska följas upp inom ramen för nämndernas arbete med intern
+kontroll och användas som underlag för förbättring av inköps- och uppföljningsarbetet.
+Respektive nämnd är ansvarig för att uppföljning sker.
+
+Kungsbacka kommun              Riktlinjer för inköp            10 (10)
+
+<!-- sida 77 -->
+
+Riktlinjer            för
+
+direktupphandling
+
+Dokumentegenskaper: Riktlinjer för direktupphandling
+Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
+
+Giltig från:    [Klicka eller tryck här för att ange datum]
+Datum:          2026-02-06
+Ansvarig förvaltning: Förvaltningen för Service
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kungsbacka kommun, 434 81 Kungsbacka
+www.kungsbacka.se
+
+Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+
+<!-- sida 78 -->
+
+Syfte och tillämpning
+
+Dessa riktlinjer kompletterar upphandlingslagstiftningen samt kommunens Policy för inköp och
+Riktlinjer för inköp.
+
+Riktlinjerna ska tillämpas vid all direktupphandling inom Kungsbacka kommun.
+
+Kungsbacka kommun är en upphandlande myndighet. Avtal som ingås genom direktupphandling
+är kommunens avtal, oavsett vilken verksamhet som genomför inköpet.
+
+Vad är direktupphandling
+
+Direktupphandling är en upphandling utan krav på annonsering som får användas när:
+•  kommunen saknar gällande avtal på området, och
+
+•  när värdet på det som ska upphandlas inte överstiger gällande direktupphandlingsgräns
+enligt upphandlingslagstiftningen.
+Direktupphandling används ofta vid inköp som inte är av återkommande karaktär och som är
+specifika för verksamhetens behov.
+
+Beloppsgränser   och  värdeberäkning
+
+Vid bedömning av om direktupphandling är tillåten ska värdet beräknas genom att:
+
+•  hela avtalets löptid räknas med
+•  samtliga optioner och förlängningsklausuler inkluderas
+
+•  alla köp av varor eller tjänster av samma slag inom kommunen räknas samman
+
+Om en upphandling delas upp i flera avtal ska värdet av samtliga delavtal räknas samman.
+
+En upphandling får inte delas upp i flera mindre upphandlingar i syfte att understiga
+direktupphandlingsgränsen. Om det sammanlagda värdet överstiger gränsen ska upphandling
+genomföras enligt annonserat förfarande.
+
+Verksamheten ska därför försäkra sig om att motsvarande inköp inte sker eller har skett inom
+andra delar av kommunen.
+
+Ansvar  vid direktupphandling
+
+Det är respektive nämnd som beslutar om inköp i enlighet med gällande delegationsordning.
+Verksamheterna handlägger direktupphandlingar som understiger direktupphandlingsgränsen.
+
+Verksamheten ansvarar för att:
+
+•  direktupphandlingar genomförs i enlighet med lag, policy och riktlinjer,
+•  inköpsbeslut ryms inom tilldelad budget,
+
+•  avtal som ingås följs upp.
+
+Kungsbacka kommun           Riktlinjer för direktupphandling    2 (3)
+
+<!-- sida 79 -->
+
+Inköpsverksamheten på Service ger stöd vid behov, exempelvis när inköpet:
+
+•  kräver avtalsskrivning,
+•  rör sekretess,
+
+•  avser välfärdstjänster eller bedöms innebära förhöjd risk.
+
+Dokumentation   och  spårbarhet
+
+Direktupphandlingar ska dokumenteras i den omfattning som krävs för att kommunens
+överväganden och beslut ska kunna följas i efterhand.
+•  Direktupphandlingar under 100 000 kronor omfattas inte av dokumentationsplikt enligt
+
+upphandlingslagstiftningen. Dessa inköp ska ändå genomföras i enlighet med
+Kungsbacka kommuns rutiner för direktupphandling.
+•  Direktupphandlingar över 100 000 kronor ska alltid dokumenteras. Dokumentationen ska
+visa kommunens överväganden inför inköpsbeslutet samt annat som är av betydelse,
+såsom val av leverantör och genomförda kontroller.
+
+•  Vid upphandling av koncessioner enligt lagen om upphandling av koncessioner
+(LUK) ska dokumentation alltid ske, eftersom någon nedre beloppsgräns inte finns.
+All dokumentation ska bevaras enligt kommunens informationshanteringsplan, detta är respektive
+
+nämnds ansvar.
+
+Beslut och  ansvar
+
+Det är nämnden som beslutar om inköp. Det framgår av respektive nämnds
+delegeringsförteckning, attestordning eller motsvarande dokument om och vilken
+befattningshavare som får besluta om inköp och till vilka belopp.
+Verksamheternas informationshanteringsplaner ska innehålla hur bevarande av denna typ av
+handlingar ska ske.
+
+Den inköpande nämnden ansvarar fullt ut för uppföljning av avtal som har skett genom
+direktupphandling.
+
+Hållbarhet och  affärsmässighet
+
+Direktupphandlingar ska bidra till Kungsbacka kommuns mål om en hållbar och ansvarsfull
+inköpskultur.
+
+Även små inköp påverkar ekonomin, miljön och samhället. Därför ska verksamheterna:
+•  välja produkter och leverantörer som uppfyller kommunens hållbarhetskrav,
+
+•  främja goda arbetsvillkor och sociala värden,
+•  motverka välfärdsbrottslighet genom kontroller och seriösa leverantörsval.
+
+Kontroll, uppföljning och  avvikelser
+
+Verksamheterna ansvarar för att följa upp avtal som direktupphandlats. Avvikelser från riktlinjerna
+ska dokumenteras och rapporteras i nämndens interna kontroll.
+
+Kungsbacka kommun           Riktlinjer för direktupphandling    3 (3)
+
+<!-- sida 80 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-04
+Diarienummer
+KS-2025-00944
+
+Svar på Länsstyrelsen i Hallands läns remiss av regional handlingsplan för
+elektrifiering i Hallands län
+
+Förslag till beslut i Kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-03-04, och översänder det som sitt svar till
+Länsstyrelsen i Hallands län.
+
+Sammanfattning av ärendet
+Regeringen har gett länsstyrelserna i uppdrag att revidera regionala energi- och klimatstrategier samt ta
+fram regionala handlingsplaner för elektrifiering. Syftet är att stärka planeringen för den
+energiomställning som krävs för att nå klimatmålen och möta ett kraftigt ökat elbehov i Sverige, där
+elanvändningen bedöms kunna fördubblas fram till år 2045.
+
+Länsstyrelsen i Halland antog en ny regional energi- och klimatstrategi i juni 2025. Den regionala
+handlingsplanen för elektrifiering utgör en fördjupning av strategins arbete för ett effektivt och
+fossilfritt energisystem och syftar till att skapa förutsättningar för en ökad elektrifiering av bland annat
+transportsektorn och näringslivet.
+
+I Halland uppgår elanvändningen idag till cirka 4,4 TWh per år. Prognoser visar att elanvändningen
+kan öka till mellan 5,0 och 7,4 TWh till år 2050.
+I arbetet med handlingsplanen har ett flertal utmaningar identifierats, bland annat osäkerhet kring
+framtida elbehov, behov av investeringar i ny elproduktion och begränsningar i elnätets kapacitet.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-03-04
+Yttrande, 2026-03-04
+
+Regional handlingsplan för elektrifiering
+
+Beslutet skickas till
+
+Länsstyrelsen i Hallands län, Göteborgsregionen
+
+1 (2)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+Mårten Västerdal
+Besöksadress
+Samhällsplanerare                                        Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 81 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Beskrivning av ärendet
+Handlingsplanen för elektrifiering redovisar regionala utmaningar för elektrifiering och ett antal
+åtgärder för att möta dessa. Handlingsplanen innehåller åtgärder som innebär att ny elproduktion, ny
+elanvändning och laddinfrastruktur ska främjas. Den lyfter också utveckling av kommunal
+energiplanering samt vidareutveckling av arbetet med nätutvecklingsplaner och tillhörande
+samrådsprocesser. Därutöver omfattar den åtgärder kopplade till samverkan.
+
+Kommunstyrelsens förvaltnings bedömning
+
+Kommunstyrelsens förvaltning anser att flera av åtgärderna i handlingsplanen är alltför övergripande
+och i för liten utsträckning beskriver konkreta insatser för att möta de identifierade regionala
+utmaningarna. Exempelvis lyfts kompetensförsörjning och brister i regionnätskapaciteten som viktiga
+utmaningar utan att följas av tydliga specifika åtgärder.
+Handlingsplanen anger att ny elproduktion, ny elanvändning och laddinfrastruktur ska främjas och
+pekar ut kommunerna som en aktör i detta arbete. Kommunstyrelsens förvaltning anser dock att det
+bör tydliggöras vad som konkret förväntas av kommunerna, eftersom begreppet ”främja” framstår som
+
+alltför ospecifikt i en handlingsplan.
+I avsnittet om aktörsspecifika processer lyfts behovet av att utveckla kommunal energiplanering och
+arbetet med nätutvecklingsplaner. Eftersom båda dessa områden redan regleras i lag bedömer
+kommunstyrelsens förvaltning att det i stället vore mer relevant att tydliggöra Länsstyrelsens och
+Region Hallands roller i dessa processer.
+
+Kommunstyrelsens förvaltning betonar även vikten av samsyn mellan regionala aktörer kring
+prioriteringen av norra Halland i energi- och elektrifieringsinvesteringar, mot bakgrund av
+Kungsbackas koppling till Göteborgsregionens arbetsmarknad och dess stora energibehov. Slutligen
+saknar förvaltningen ett tydligt perspektiv på energilagring i handlingsplanen, exempelvis åtgärder för
+att stärka kommunernas kompetens kring batterilagring.
+
+Rickard Vidlund               Lovisa Eld
+
+Kommundirektör                Samhällsbyggnadschef
+
+<!-- sida 82 -->
+
+YTTRANDE
+Kommunstyrelsen
+
+Till Datum
+Länsstyrelsen i Hallands län 2026-03-04
+
+iari Diarienummer Kungsbacka
+Ert diarienummer
+
+7959-2025 KS-2025-00944
+
+Yttrande över Länsstyrelsen i Hallands remiss: Regional handlingsplan för
+elektrifiering
+
+Sammanfattande inställning
+
+Kungsbacka kommun anser att handlingsplanens åtgärder inte är tillräckligt konkret formulerade för
+att möta de identifierade utmaningarna och ge berörda aktörer stöd i sitt arbete. Det finns därför en risk
+att handlingsplanen blir verkningslös. Vidare anser kommunen att regionala myndigheter behöver ha
+en samsyn när det gäller att skapa förutsättningar för näringslivsutvecklingen i hela Västsverige men
+att detta perspektiv saknas i handlingsplanen.
+
+Kommunens inställning i detalj
+
+Kungsbacka kommuns allmänna åsikt är att handlingsplanens åtgärder ofta är allt för övergripande
+beskrivna och inte i tillräcklig utsträckning fokuserar på konkret handling inriktade på att möta de
+regionala utmaningar som identifierats. Exempelvis beskrivs kompetensbehovet som en utmaning utan
+att någon åtgärd för att attrahera eller bygga kompetens presenteras. Ett annat exempel är utmaningen
+med brister i regionnätskapaciteten som inte heller adresseras direkt, trots att detta är en nyckelfråga
+och därmed borde kunna föranleda en eller flera specifika åtgärder.
+
+Under avsnittet Aktörsspecifika processer lyfter handlingsplanen behovet av att utveckla den
+kommunala energiplaneringen. Eftersom energiplanering är ett lagkrav och eftersom det finns statliga
+vägledningar för kommunal energiplanering bedömer Kungsbacka kommun att denna punkt är
+överflödig i handlingsplanen — de åtgärder/förflyttningar som kommunerna enligt vägledningen ska ta
+fram innebär i sig en utveckling av kommunens arbete med energifrågor. Möjligen kan Länsstyrelsen
+beskriva sin roll i processen, vad som förväntas av Region Halland och elnätsbolagen och vilka
+aktiviteter som kan stödja kommunernas implementering av energiplanerna.
+
+Under avsnittet Aktörsspecifika processer uttrycks även behovet av att utveckla arbetet med
+nätutvecklingsplaner. Det behov som Kungsbacka kommun framför allt ser är att säkerställa att
+elnätsbolagen tidigt i processen har underlag av hög kvalitet och tar hänsyn till kommunernas
+strategiska prioriteringar och de regionala perspektiven. Det bör tydliggöras vilken roll Länsstyrelsen
+och Region Halland kommer att ha i denna process. Nätbolagen behöver i sin tur arbeta med att
+tillgängliggöra så mycket information som möjligt om elsystemet så att kommunerna har god kunskap
+om förutsättningarna för den fysiska planeringen.
+
+1
+Kommunstyrelsen 2) Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 83 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+En viktig fråga för Kungsbacka kommun är att det finns samsyn mellan regionala aktörer när det gäller
+
+prioritering av norra Halland för energi- och elektrifieringsinvesteringar för att säkerställa
+förutsättningarna för Göteborgsregionens arbetsmarknad som Kungsbacka kommun är en del av och
+där energi- och elbehovet har bedömts vara betydligt större än i Halland och Kungsbacka kommun i
+sig. Frågor som rör energi- och infrastrukturfrågor är viktiga inte bara för Halland utan i ett
+sammanhållet västsvenskt investerings- och näringslivsperspektiv. Göteborgsregionen är en
+tillväxtmotor för hela Västsverige samtidigt som Halland, inte minst genom kärnkraften, är en stor och
+viktig elproducent. Länsstyrelsen har i uppdrag att verka för tillväxt och detta bör tydligare prägla
+handlingsplanen.
+
+Slutligen anser Kungsbacka kommun att energilagringsperspektivet saknas i handlingsplanen. Att
+stärka kommunernas kompetens när det gäller möjligheter och hinder för batterilagringsanläggningar
+hade till exempel kunnat vara en åtgärd i handlingsplanen.
+
+Kungsbacka kommun
+
+<!-- sida 84 -->
+
+Regional               handlingsplan
+
+för     elektrifiering
+
+Hallands      län:   remissversion
+
+<!-- sida 85 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Titel:    Regional handlingsplan för elektrifiering – Hallands län: remissversion
+Författare: Patrik Ekheimer
+ISSN:
+
+ISRN:
+Rapportnummer: 2026:XX
+Diarienummer: 7959-2025
+
+Utgivningsår: 2025
+Omslagsbild: Mostphotos
+
+<!-- sida 86 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Förord
+
+En ökad och ändamålsenlig elektrifiering är en central åtgärd för att möjliggöra klimatom-
+ställning, stärkt näringslivsutveckling samt en tryggare och mer robust energiförsörjning.
+Regeringen har också uttalat att Sverige behöver planera för att möta ett dubblerat elbehov
+
+till 2045.
+
+Halland har en viktig roll som möjliggörare för Sveriges elektrifiering, vilket bland annat
+påtalas i Energi- och klimatstrategi för Hallands län. Inte minst handlar det om att
+producera fossilfri el från sol, vind, vatten, kärnkraft och kraftvärme. Biogas och fjärrvärme
+är andra områden där Halland ligger långt framme. De är också exempel på energibärare
+som kan bidra till att avlasta elsystemet.
+
+Scenarierna för Hallands elanvändning 2050 varierar mellan 5,0 och 7,4 terawattimmar,
+
+vilket kan jämföras med dagens användning som uppgår till cirka 4,4 terawattimmar per år.
+Det stora spannet visar att det finns behov av en noggrann energiplanering som möjliggör
+att elproduktion, elnät, batterier och andra stödsystem byggs ut i en takt som i sin tur
+möjliggör en storskalig elektrifiering av såväl industrisektorn som transportsektorn.
+
+Utöver en osäkerhet i prognoser och scenarier försvåras arbetet med energiplanering av
+det osäkra omvärldsläget. Detta märks bland annat i geopolitik, klimatförändringar,
+lågkonjunktur och olika typer av säkerhetshot. Dialog och samverkan är viktiga verktyg för
+
+att möta hot och för att rusta Halland för kritiska situationer. Samtidigt ska vi vara ödmjuka
+och inse att planerna kommer behöva justeras. Denna handlingsplan är inte en färdig
+lösning, den ska snarare ses som ett första steg i att utveckla den lokala och regionala
+energiplaneringen i Halland.
+
+3
+
+<!-- sida 87 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+4
+
+<!-- sida 88 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Innehållsförteckning
+
+FÖRORD .......................................................................................................................... 3
+
+BAKGRUND ..................................................................................................................... 6
+Uppdrag och syfte ..................................................................................................................... 6
+Metod .......................................................................................................................................... 6
+Planens relation till andra regionala dokument ................................................................... 7
+
+REGIONALA UTMANINGAR ............................................................................................ 8
+
+ÅTGÄRDER ..................................................................................................................... 12
+Samverkan ............................................................................................................................... 12
+Stärk regional dialog genom EnergiNav Halland ................................................................ 12
+Öka utbytet av kunskap och erfarenheter ........................................................................... 13
+Verka för finansiering av regionala energiplaneringsprojekt ............................................ 13
+Främja ny elproduktion och ny elanvändning ..................................................................... 13
+
+Främja utbyggnad av laddinfrastruktur ............................................................................... 14
+Kommunvisa dialoger om energiplanering ......................................................................... 14
+Aktörsspecifika processer ....................................................................................................... 15
+Fortsätt arbetet med regional fysisk planering ................................................................... 15
+Utveckla den kommunala energiplaneringen ..................................................................... 15
+Utveckla arbetet med nätutvecklingsplaner ........................................................................ 16
+Uppföljning, kunskapsunderlag och kommunikation ........................................................ 17
+Uppdatera Energi- och klimatläget i Halland....................................................................... 17
+Uppdatera Energisituationen i Halland ................................................................................ 17
+Följ upp Regional handlingsplan för elektrifiering .............................................................. 18
+Ta fram regionala underlag som stödjer energiplanering ................................................. 18
+Ta fram en regional fjärrvärmeanalys .................................................................................. 18
+Genomför kunskapshöjande åtgärder för ökad energiberedskap ................................... 19
+
+5
+
+<!-- sida 89 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Bakgrund
+
+Uppdrag   och syfte
+Regeringen har gett länsstyrelserna i uppdrag att dels revidera de regionala energi-
+och klimatstrategierna utifrån de nya energipolitiska målen, dels ta fram regionala
+handlingsplaner för elektrifiering. Länsstyrelsen i Halland antog en ny regional energi-
+
+och klimatstrategi den 18 juni 2025.1 Denna regionala handlingsplan för elektrifiering
+kan därför ses som en fördjupning av ett av den regionala energi- och klimatstrategins
+fyra fokusområden – ett effektivt och fossilfritt energisystem.
+I handlingsplanen föreslås 15 åtgärder som möter de tio regionala utmaningar som
+
+ursprungligen redovisades i Energisituationen i Halland – regionala förutsättningar för
+en storskalig elektrifiering och som bidrar till att möjliggöra en storskalig elektrifiering
+i Halland. Fokus på åtgärderna ligger på lokal och regional energiplanering. Handlings-
+planen anger därmed inte vilka konkreta investeringar som behöver göras.
+Till varje åtgärd pekas minst en aktör ut som är ansvarig eller koordinerande, och i
+
+regel nämns även minst en aktör som är medverkande eller stödjande. Länsstyrelsen
+och Region Halland står som ansvariga eller koordinerande aktörer för flertalet av
+åtgärderna, men planen innefattar även aktörsspecifika åtgärder där Region Halland,
+kommuner och elnätsbolag har ett lagstadgat ansvar för att bidra till lokal och regional
+energiplanering. Skälet till att dessa åtgärder lyfts in i handlingsplanen är att
+processerna är centrala i den lokala och regionala energiplaneringen. Processerna
+bidrar dessutom i en bredare samhällsplanering, vilket möjliggör integration och
+växelverkan mellan energiplanering och exempelvis fysisk planering.
+
+Metod
+
+Handlingsplanen bygger tills stor del på slutsatser och erfarenheter från arbetet med
+den regionala samverkansplattformen EnergiNav Halland2 och utifrån framtagandet av
+kunskapsunderlaget Energisituationen i Halland, vilket togs fram tillsammans med
+Region Halland och publicerades i oktober 2025.3 Arbetet med handlingsplanen bygger
+även på de erfarenheter som drogs vid framtagande och remisshantering av den
+regionala energi- och klimatstrategin.
+
+Länsstyrelsen i Halland är ansvarig utgivare för handlingsplanen. Dialog om åtgärderna
+har bland annat förts inom EnergiNav Halland. Handlingsplanen kommer även att
+förankras genom ett remissförfarande, där utpekade och berörda aktörer ges möjlig-
+het att påverka handlingsplanens innehåll. Remisshanteringen syftar även till att
+validera slutsatser och huruvida föreslagna åtgärder är lämpliga och om de kan
+förbättras eller kompletteras.
+
+1 Länsstyrelsen i Halland, Energi- och klimatstrategi för Hallands län (2025).
+2 www.regionhalland.se/energinav.
+3 Länsstyrelsen i Halland & Region Halland, Energisituationen i Halland - regionala förutsättningar för
+storskalig elektrifiering (2025).
+
+6
+
+<!-- sida 90 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Planens  relation till andra regionala  dokument
+
+Länsstyrelsen i Halland och Region Halland har initierat den regionala samverkans–
+plattformen EnergiNav Halland. Denna ska främja en ändamålsenlig utveckling av det
+halländska energisystemet och bidra till och accelerera arbetet med energi-
+omställningen, stärkt näringslivsutveckling och ett robust energisystem i Halland.
+
+Rapporten Energisituationen i Halland togs fram inom EnergiNav Halland. Den är ett
+kunskapsunderlag som ger en regional lägesbild och fungerar dels som ett
+diskussionsunderlag för att stärka energisamverkan i Halland, dels som ett centralt
+underlag till denna handlingsplan.
+
+Länsstyrelsen i Halland och Region Halland tar även årligen fram rapporten Energi-
+och klimatläget i Halland.4 Fokus i rapporten ligger på redovisning av aktuell energi-
+och klimatstatistik. Rapporten fungerar även som en uppföljning av Energi- och
+klimatstrategi för Hallands län.
+
+Såväl denna handlingsplan som Energisituationen i Halland är tänkta att fungera som
+underlag för lokala och regionala aktörers arbete med energiplanering. När det gäller
+lokal energiplanering har kommunerna en central roll. Enligt lagen om kommunal
+energiplanering ska varje kommun ha en aktuell plan för tillförsel, distribution och
+användning av energi i kommunen.5 Energimyndigheten har tagit fram en vägledning
+för kommunal energiplanering och flera av länets kommuner avser att ta fram eller
+revidera sina energiplaner i närtid.6
+
+Andra exempel på lokala och regionala aktörer som arbetar med energiplanering är
+elnätsbolag och Region Halland. Elnätsbolagen tog fram sina första nätutvecklings-
+planer under 2024 och dessa ska uppdateras under 2026.7 Region Halland har sedan
+2023 arbetat med framtagande av en regional fysisk plan, vilken inkluderar energi. Den
+färdiga planen ska beslutas av regionfullmäktige under 2026.8
+
+Figur 1. Regionala strategier och rapporter som utgör stöd för lokal och regional energiplanering
+
+4 Energi- och klimatläget i Halland 2025 | Länsstyrelsen Halland.
+5 Lag (1977:439) om kommunal energiplanering | Sveriges riksdag.
+6 Vägledning för kommunal energiplanering - Energimyndigheten.
+7 Nätutvecklingsplaner - Energimarknadsinspektionen.
+8 Regional fysisk planering i Halland | Region Halland.
+
+7
+
+<!-- sida 91 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Regionala         utmaningar
+
+I Energisituationen i Halland identifierades tio regionala utmaningar. Flertalet av dessa
+är även relevanta för övriga delar av landet. Oaktat det så behöver dessa utmaningar
+diskuteras och hanteras i Halland.
+
+1. Osäkerhet i tidsplaner och framtida elbehov
+2. Det saknas investeringsbeslut för ny elproduktion
+3. Transportsektorn ställer om – stort behov av laddinfrastruktur
+4. Det finns ett stort behov av en mer flexibel elanvändning
+5. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
+6. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är
+stor
+
+7. Robusthet måste säkerställas för att hantera en hög andel väderberoende
+produktion och kunna möta antagonistiska och väderrelaterade störningar
+8. Det behövs kompetens för att realisera energiomställningen
+9. Lokal och regional energiplanering kräver resurser och samordning
+10. Det saknas en bred acceptans för energiomställningens nödvändighet
+
+1. Osäkerhet i tidsplaner och framtida elbehov
+I dagsläget är det omöjligt att bedöma hur mycket el som kommer behövas 2050.
+Mellan 2012 och 2023 minskade den årliga elanvändningen i Halland från 5,3 TWh till
+4,4 TWh. De tre scenarier som presenterades i Energisituationen i Halland pekar
+entydigt på att elanvändningen kommer att öka – frågan är bara hur mycket? I scen-
+ariot lokal miljöhänsyn blir elanvändningen 5,0 TWh 2050, i scenariot beslutad policy
+6,2 TWh och i scenariot internationell tillväxt 7,4 TWh. Det som framför allt skiljer
+scenarierna åt är vilken betydelse datacenter får i framtidens Halland. Merparten av
+den ökade elanvändningen förväntas ske mellan 2030 och 2045.9 För att möjliggöra
+detta krävs åtgärder redan de närmaste åren.
+
+2. Det saknas investeringsbeslut för ny elproduktion
+Av Energisituationen i Halland framgår att det finns planer och stor potential för
+utbyggnad av flera kraftslag i Halland. Samtidigt kan det konstateras att det i princip
+saknas konkreta investeringsbeslut som möjliggör ny elproduktion i länet. Detta kan
+sannolikt förklaras av marknadsosäkerheter kring lönsamhet, framtida priser och
+framtida styrmedel, men också av en osäkerhet kring hur stor efterfrågan blir fram-
+gent. Denna situation är problematisk. Dels då det redan råder produktionsunderskott
+
+i elområde 3 och 4. Dels då det i regel tar mycket längre tid att etablera ny elproduk-
+tion än ny elkonsumtion.
+
+9 Länsstyrelsen i Halland & Region Halland, Energisituationen i Halland - regionala förutsättningar för
+storskalig elektrifiering (2025), s. 12–14.
+
+8
+
+<!-- sida 92 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+3. Transportsektorn ställer om – stort behov av laddinfrastruktur
+Gemensamt för de tre regionala scenarier som redovisats är att alla pekar på en
+kraftigt ökad elanvändning i den halländska transportsektorn och att denna ökning i
+huvudsak förväntas ske mellan 2025 och 2040. Att transportsektorn står i fokus i länets
+energiomställning kan förklaras av att länet har ett transportintensivt näringsliv samt
+att den fossila energianvändningen sedan flera år är låg i den halländska industrin.
+
+Det är också transportsektorn som står för tre fjärdedelar av den fossila energianvänd-
+ningen i länet. I praktiken innebär detta att det finns ett stort långsiktigt behov av
+laddinfrastruktur för både lätta och tunga fordon. Här ska noteras att laddning i
+normalfallet kommer att ske vid bostäder, arbetsplatser och vid godsterminaler. Denna
+laddning behöver dock kompletteras med publik laddning.
+
+4. Det finns ett stort behov av en mer flexibel elanvändning
+Eftersom elsystemet kräver att det alltid råder balans mellan produktion och använd-
+ning är det av stor vikt att öka flexibiliteten i systemet. Detta kan handla om att anpas-
+sa användning och produktion av el eller olika typer av energilager. Flexibilitet kan
+även främjas genom styrmedel såsom effektavgifter och villkorade avtal. I takt med att
+en allt större andel av elproduktionen blivit väderberoende, har behovet av flexibilitet
+ökat.
+
+I framtiden förväntas en relativt stor del av Hallands elanvändningen ske inom trans-
+portsektorn. Därav finns det en stor potential att styra en betydande del av länets
+elanvändning genom lastbalansering, så kallad smart laddning. På så sätt kan en större
+del av laddningen genomföras nattetid, vilket dämpar elanvändningen under kritiska
+
+tider samtidigt som ett mer effektivt utnyttjande av nätkapaciteten möjliggörs.
+Dubbelriktad laddning, vehicle-to-grid, skulle också kunna bidra till ökad flexibilitet.
+Detta eftersom fordonens batteri då kan användas som stabiliserande resurser i
+elsystemet eller i en enskild fastighet. Även fastigheter, och då främst dess uppvärm-
+ning, har potential att bidra med ökad efterfrågeflexibilitet redan på kort sikt.
+
+Vid framtagandet av Energisituationen i Halland noterades dock att de lokala elnäts-
+bolagen i flera fall bedömt att det inte finns något behov av flexibilitetstjänster,
+alternativt att de angett behovet i ett väldigt brett spann såsom 0–50 MW. Detta kan
+möjligen tolkas som att det finns en stark tilltro till att producenter och konsumenter
+
+självmant kommer att göra de anpassningar som behövs.
+
+9
+
+<!-- sida 93 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+5. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
+Analyser av elnätsbolagens nätutvecklingsplaner pekar på vissa brister i det halländska
+elnätet. Framför allt handlar det om flaskhalsar i regionnätet i södra Halland. Detta gör
+att större anläggningar som solcellsparker inte kan anslutas till regionnätet i närtid
+och att lokalnätsägarna behöver villkora anslutningar större än 43 kilowatt. Kända
+begränsningar kommer att byggas bort successivt under de kommande 5–10 åren.
+Bristande nätkapacitet kan även medföra att etablering eller utbyggnad av ny
+elanvändning kan fördröjas eller förhindras, vilket får negativa konsekvenser för
+näringslivet.
+
+I sammanhanget är det dock viktigt att påtala att elsystemet har en mycket hög
+leveranssäkerhet. Exempelvis var medelavbrottstiden i de svenska lokalnäten cirka 63
+minuter år 2023. Detta motsvarade en tillgänglighet på 99,988 procent. Energi-
+marknadsinspektionens statistik visar också att ingen av de halländska kommunerna
+
+hade en medelavbrottstid som översteg två timmar. Enligt ellagen får elavbrott inte
+överstiga 24 timmar och en kund ska ha rätt till avbrottsersättning vid
+sammanhängande avbrott på minst 12 timmar.10
+6. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är stor
+Bostäder och fastigheter som värms med fjärrvärme bidrar till att elnätet avlastas.
+
+Fjärrvärme möjliggör också tillvaratagande av restvärme samt elproduktion i kraft-
+värmeanläggningar. Kraftvärmeproducenter kan dessutom bidra med flexibilitet, då de
+till viss del kan anpassa fördelningen mellan kraft och värme utifrån aktuell efterfråg-
+an. För närvarande råder dock stor osäkerhet kring kraft- och fjärrvärmens framtida
+förutsättningar. Detta beror bland annat på utfasningen av utsläppsrätter, kraftigt
+ökad konkurrens om biomassa och minskat värmebehov i nybyggda fastigheter.
+
+7. Robusthet måste säkerställas för att hantera en hög andel väderberoende
+produktion och kunna möta antagonistiska och väderrelaterade störningar
+I Energisituationen i Halland berördes frågor som rör energiberedskap endast över-
+siktligt. Det är dock tydligt att elsystemets robusthet måste säkerställas utifrån flera
+olika perspektiv. För det första måste systemet kunna hantera en hög andel väder-
+beroende elproduktion, för det andra måste det finnas beredskap för att kunna möta
+antagonistiska hot och för det tredje måste det finnas en beredskap för att kunna
+hantera väderrelaterade störningar. En ökad underhållsskuld och andra åldersrela-
+terade störningar ställer också krav på åtgärder för att bidra till en stärkt robusthet.
+
+10 Energimarknadsinspektionen, Leveranssäkerhet i Sveriges elnät 2023 – Statistik och analys av
+elavbrott (2024).
+
+10
+
+<!-- sida 94 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+8. Det behövs kompetens för att realisera energiomställningen
+Energiomställningen kräver stora personella resurser i hela energibranschen. Detta
+berör ett stort antal yrkeskategorier, däribland installatörer, servicepersonal, kon-
+struktörer, projektledare, ingenjörer, analytiker och samhällsplanerare. Halland har
+dock goda förutsättningar för att utbilda flera av dessa yrkeskategorier. Redan i dag
+finns mycket energirelaterad kunskap i länet. Detta gäller inte minst kärnkraft, då
+Halland tillhör ett av tre kärnkraftslän. Samtidigt har Campus Varberg flera utbild-
+ningar som rör förnybar energi och vid Högskolan i Halmstad bedrivs utbildningar till
+bland annat elektroingenjör och ingenjör i hållbar energi. Högskolan i Halmstad är
+
+även en av de ledande forskningsnoderna i Sverige kring fjärrvärme och biogas. En
+stark energisektor bidrar dessutom till arbetstillfällen under såväl etablerings- som
+driftsfas.
+9. Lokal och regional energiplanering kräver resurser och samordning
+
+Elnätsbolag, kommuner, Region Halland och Länsstyrelsen i Halland har uppdrag kring
+lokal eller regional energiplanering. Alla dessa uppdrag kräver resurser i form av kun-
+skapsuppbyggnad och analysarbete. Om detta samordnas och görs på ett transparent
+sätt finns goda möjligheter att skapa synergieffekter, undvika dubbelarbete och
+påskynda processer. I förlängningen medför detta ökad kunskap och fördjupade och
+förfinade analyser samt en förbättrad samplanering mellan kommunal, regional och
+statlig nivå. I de aktiviteter som hittills genomförts inom EnergiNav Halland är det
+också tydligt att det finns ett behov av fördjupad dialog och av att tydliggöra olika
+aktörers roll i energiomställningen.
+
+10. Det saknas en bred acceptans för energiomställningens nödvändighet
+De nationella energi- och klimatmålen har beslutats av riksdagen och är därmed
+demokratiskt förankrade. Samtidigt finns det ofta ett lokalt motstånd mot enskilda
+projekt, då det finns risk eller oro för störningar och inskränkningar. Detta gäller såväl
+elledningar som elproduktion från alla olika kraftslag. Självfallet ska projekt prövas
+enligt gällande lagstiftning och det behöver finnas utrymme för överprövning.
+Samtidigt är det önskvärt med en bredare acceptans och en ökad förståelse för
+energiomställningens betydelse. Detta då energiomställning dels är en förutsättning
+för klimatomställningen och därmed mänsklighetens långsiktiga överlevnad, dels en
+
+möjliggörare för fortsatt välstånd. Samtidigt behöver omställningen göras på ett
+sådant sätt att människor inte hamnar i kläm eller i energifattigdom.
+
+11
+
+<!-- sida 95 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Åtgärder
+
+Samverkan
+Stärk regional dialog genom EnergiNav Halland
+EnergiNav Halland genomförde sitt första fysiska möte i januari 2025 och har därefter
+haft ett fysiskt höstmöte och två digitala möten under 2025. Planen är att genomföra
+
+ett fysiskt och ett digitalt möte varje termin. Utöver det genomförs även webbinarier,
+utbildningar och olika typer av dialoger inom ramen för EnergiNav Halland. De
+aktiviteter som genomförs inom EnergiNav Halland bidrar till en fördjupad dialog om
+utmaningar, behov och åtgärder. I förlängningen kan denna dialog bidra till en bredare
+samsyn kring framtida investeringsbehov och kring scenarier för framtida effektbehov
+samt en stärkt förmåga att kommunicera kring detta.
+
+Ett av målen för EnergiNav Halland är att plattformen ska bidra till en utvecklad
+energiplanering på lokal och regional nivå. Därav är det önskvärt att kommuner,
+region, länsstyrelse och elnätsbolag deltar aktivt och att plattformen därigenom kan bli
+en viktig resurs för att växla upp arbetet med regional och lokal fysisk planering,
+framtagande av handlingsplaner, nätutvecklingsplaner etcetera.
+
+Koordinerande aktörer: Länsstyrelsen i Halland och Region Halland
+Medverkande aktörer: Kommuner, elnätsbolag, Högskolan i Halmstad, övriga
+energibolag, Svenska kraftnät, Energimyndigheten och representanter från näringslivet.
+
+ENERGINAV HALLAND
+Åren 2020–2022 drev Region Halland projekt MarkEn. En viktig slutsats från projektet var att
+samverkan är centralt för att hantera en alltmer komplex strategisk samhällsplanering och
+att aktörer som har rådighet och mandat över olika delfrågor behöver mötas i dialog, bland
+annat för att åstadkomma en förbättrad samplanering mellan kommunal, regional och
+statlig nivå. Detta inte minst med tanke på att Halland har en växande befolkning och då det
+finns ett stort intresse för att etablera verksamheter i länet.
+
+Under 2024 initierade Region Halland och Länsstyrelsen i Halland den regionala sam-
+verkansplattformen EnergiNav Halland. Denna plattform ska bidra till en regelbunden och
+stärkt dialog mellan aktörer som har väsentlig betydelse för det halländska energisystemets
+utveckling. Den primära målgruppen utgörs av kommuner, region, länsstyrelse och elnäts-
+bolag. Kommunerna är en nyckelaktör, då energifrågorna berör flera av kommunernas
+verksamhetsområden, såsom samhällsplanering, näringslivsutveckling, beredskap och
+hållbar utveckling. Andra exempel på aktörer som har väsentlig betydelse för energi-
+systemets utveckling är Högskolan i Halmstad och näringslivet.
+Länsstyrelsen i Halland och Region Halland har sökt och fått projektmedel från Energi-
+myndigheten för att initiera EnergiNav Halland. Projekt inom energiplanering -
+Energimyndigheten.
+
+12
+
+<!-- sida 96 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Öka utbytet av kunskap och erfarenheter
+EnergiNav Halland är en viktig plattform för regional dialog, men också en central
+kunskapsnod kring energifrågor i allmänhet och energiplanering i synnerhet. Ett ökat
+utbyte av kunskap och erfarenheter mellan länets aktörer kommer bidra till höjd
+kompetens kring energifrågor och energiplanering såväl hos tjänstepersoner och
+politiker i kommuner och region, som hos myndigheter, energiföretag och näringsliv.
+
+Flertalet av åtgärderna i denna handlingsplan handlar om framtagande av ny kunskap
+eller sammanställning av olika typer av kunskapsunderlag. Denna kunskap måste dock
+kommuniceras och spridas till berörda aktörer. EnergiNav Hallands projektgrupp avser
+därför att fortsätta att genomföra fysiska och digitala möten, dialoger, utbildnings-
+insatser samt att ge ut månadsvisa nyhetsbrev. De senare är även ett viktigt forum för
+att sprida information om utlysningar och nya nationella styrmedel.
+
+Koordinerande aktörer: Länsstyrelsen i Halland och Region Halland
+
+Medverkande aktörer: Kommuner, elnätsbolag och energibolag, Högskolan i Halmstad,
+Svenska kraftnät, Energimyndigheten och representanter från näringslivet.
+
+Verka för finansiering av regionala energiplaneringsprojekt
+EnergiNav Hallands projektfinansiering från Energimyndigheten möjliggör dels fysiska
+möten, dels att länsstyrelse och region kan växla upp sina insatser när det gäller dia-
+loger, framtagande av rapporter och kommunikation. För att arbetet med EnergiNav
+Halland ska kunna fortsätta bedrivas med samma höga ambitionsnivå efter 2026 krävs
+således någon form av långsiktig finansiering.
+
+Det vore även önskvärt med andra regionala energiplaneringsprojekt. Vid EnergiNav
+Hallands höstmöte 2025 påtalades exempelvis behovet av projekt kring elektrifiering
+av tunga transporter längs E6. Det har även framförts önskemål om projekt kring
+främjande av solenergi och laddinfrastruktur på byggnader och hårdgjorda ytor längs
+de halländska vägarna.
+
+Ansvariga aktörer: Länsstyrelsen i Halland, Region Halland och Energimyndigheten.
+
+Främja ny elproduktion och ny elanvändning
+
+Scenarierna visar på ökad elanvändning i Halland och i omgivande län. Redan i dag
+finns en kraftig obalans mellan produktion och användning i elområde 3 och 4.
+Samtidigt är efterfrågan på el inte tillräckligt hög för att stimulera nyinvesteringar i
+elproduktion. Scenarierna pekar också på en ökad elanvändning under 2030-talets
+inledning. Då eventuell ny kärnkraft inte kan förväntas vara i drift förrän tidigast i
+mitten av 2030-talet, måste satsningar även göras på förnybar elproduktion redan på
+kort och medellång sikt. Sol- och vindkraft har god potential i Halland. Samtidigt finns
+ett stort behov av generationsväxling av den landbaserade vindkraften i länet.
+
+Koordinerande aktörer: Kommuner, Länsstyrelsen i Halland, Region Halland och
+energibolag.
+Medverkande aktörer: Elproducenter.
+
+13
+
+<!-- sida 97 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Främja utbyggnad av laddinfrastruktur
+Då transporter står för tre fjärdedelar av den fossila energianvändningen i länet är det
+av stor vikt att möjliggöra en elektrifiering av transportsektorn. Merparten av ladd-
+ningen kommer sannolikt att ske icke-publikt vid bostäder, arbetsplatser och godster-
+minaler. Men det krävs även kompletterande publik laddning. Hittills har utbyggnaden
+av publik laddning för lätta fordon i Halland i huvudsak varit marknadsdriven.
+
+Exempelvis har laddstationerna för lätta fordon längs E6 i Halland uppförts helt utan
+statligt investeringsstöd.
+
+För ägare till småhus och fritidshus är installation av laddboxar i regel en relativt enkel
+åtgärd. Boende i hyresrätter, bostadsrätter och samfälligheter har inte alltid tillgång till
+laddning nära sin bostad och de har heller inte alltid möjlighet att begära att ladd-
+utrustning ska installeras. För fastighetsbolag, bostadsrättsföreningar och samfällig-
+heter kan installations- och driftskostnaderna för laddutrustning dessutom upplevas
+
+som höga, samtidigt som det finns en osäkerhet kring när efterfrågan kommer att
+uppstå och hur stora de framtida intäkterna blir.
+
+Offentliga aktörer bör främja etablering av laddinfrastruktur som möjliggör tillgång till
+publik eller icke-publik laddning för boende och besökare. Detta inkluderar bland
+annat laddning vid flerbostadshus och publik laddning utanför centralorter och längs
+mindre trafikerade vägar.
+
+Koordinerande aktörer: Länsstyrelsen i Halland, Region Halland, kommuner och
+
+fastighetsbolag.
+Medverkande aktörer: Laddoperatörer, elnätsbolag och näringsliv.
+
+Kommunvisa dialoger om energiplanering
+För att möta det ökade elektrifieringsbehovet behövs en växelverkan mellan fysisk
+planering, energiplanering och elnätsutbyggnad. Ett av EnergiNav Hallands viktigaste
+
+syften är att stärka dialogen mellan aktörer i länet för en ändamålsenlig energi-
+planering. Därav avser Länsstyrelsen i Halland och Region Halland att genomföra
+kommunvisa dialoger om energiplanering.
+Koordinerande aktörer: Länsstyrelsen i Halland och Region Halland
+
+Medverkande aktörer: Kommuner, lokala och regionala elnätsbolag samt Svenska
+kraftnät.
+
+14
+
+<!-- sida 98 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Aktörsspecifika  processer
+
+Fortsätt arbetet med regional fysisk planering
+Halland är ett av tre län där det sker regional fysisk planering.11 Beslut om antagande av
+Hallands första regionala fysiska plan ska tas i regionfullmäktige i juni 2026. Planen
+kommer sedan att aktualitetsprövas av regionfullmäktige en gång per mandatperiod.
+
+Ett av avsnitten i granskningsversionen av den regionala fysiska planen handlar om att
+stärka och utveckla elnätskapaciteten och energisystemet.12 Här påtalas bland annat
+
+att vi behöver energieffektivisera, öka produktionen av fossilfri el och att säkerställa
+att elnäten har tillräcklig kapacitet för att hantera den ökade belastningen. Vidare
+anges tre inriktningar som handlar om en mer effektiv och flexibel energianvändning,
+att verka för investeringar i transmissionsnätet och regionnäten samt att främja
+fossilfri elproduktion såväl på kort och medellång sikt, som på lång sikt.
+
+Ansvarig aktör: Region Halland
+
+Stödjande aktörer: Länsstyrelsen i Halland, kommuner och elnätsbolag
+
+Utveckla den kommunala energiplaneringen
+Enligt lagen om kommunal energiplanering ska varje kommun ha en aktuell plan för
+tillförsel, distribution och användning av energi i kommunen.13 Energiplanering är ett
+verktyg för kommunerna att strategiskt påverka och vara med och leda utvecklingen
+inom energiomställningen. Genom en aktiv och framåtblickande energiplanering kan
+kommunerna ta vara på de möjligheter som elektrifieringen ger, exempelvis i form av
+
+ökad konkurrenskraft hos näringslivet och tryggade arbetstillfällen.
+Energimyndigheten har tagit fram en vägledning för kommunal energiplanering och
+flera av länets kommuner avser att ta fram eller revidera sina energiplaner i närtid.14
+Den kommunala energiplaneringen bör bedrivas nära och integrerat med övrig
+kommunal samhällsplanering, såsom fysisk planering. Exempelvis behöver många av de
+
+behov som påtalas i en kommunal energiplan hanteras i översiktsplan och detaljplaner.
+Ansvariga aktörer: Kommunerna
+
+Stödjande aktörer: Länsstyrelsen i Halland, Region Halland och elnätsbolag
+
+11 Regional fysisk planering | Region Halland.
+12 Region Halland, Regional fysisk plan Halland 2050: granskningsversion (2025), s. 29.
+13 Lag (1977:439) om kommunal energiplanering | Sveriges riksdag.
+14 Vägledning för kommunal energiplanering - Energimyndigheten.
+
+15
+
+<!-- sida 99 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Utveckla arbetet med nätutvecklingsplaner
+Enligt ellagen ska elnätsföretagen vartannat år ta fram nätutvecklingsplaner som bland
+annat ska beskriva hur deras elnät ska utvecklas under den kommande tioårsperiod-
+en.15 Elnätsbolagen tog fram sina första nätutvecklingsplaner under 2024 och dessa ska
+uppdateras under 2026. Nätutvecklingsplaner ska även bidra till att skapa transparens
+kring de flexibilitetstjänster som behövs på medellång och lång sikt samt ange planer-
+
+ade investeringar under de kommande 5–10 åren, med särskild tonvikt på den huvud-
+sakliga distributionsinfrastruktur som krävs för att ansluta ny produktionskapacitet
+och ny elanvändning, inklusive laddstationer för elfordon. De offentliga samråden är
+en viktig del i processen med framtagande av nätutvecklingsplaner. Här har
+kommuner, länsstyrelse och region en viktig roll att bidra med relevant information.
+
+Ansvariga aktörer: Lokala och regionala elnätsbolag
+
+Stödjande aktörer: Kommuner, Länsstyrelsen i Halland och Region Halland
+
+15 Nätutvecklingsplaner - Energimarknadsinspektionen.
+
+16
+
+<!-- sida 100 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Uppföljning,  kunskapsunderlag     och
+
+kommunikation
+
+Uppdatera Energi- och klimatläget i Halland
+Sedan 2014 har Länsstyrelsen i Halland och Region Halland regelbundet tagit fram
+regionala uppföljningar av aktuell energi- och klimatstatistik. Sedan 2022 görs upp-
+följningen av Energi- och klimatläget i Halland årligen. Rapporten ger en aktuell
+sammanställning av relevant statistik på såväl regional som lokal nivå. Rapporten
+
+fungerar även som en uppföljning av den regionala energi- och klimatstrategin.
+
+En av de centrala och mest efterfrågade delarna i Energi- och klimatläget i Halland var
+de energibalanser, så kallade Sankey-diagram som presenterades på läns- och
+kommunnivå. I dessa redovisades både energitillförsel och energianvändning. Då det
+framkommit att metoden för framtagande av dessa inte är förenlig med lagen om den
+officiella statistiken kan detaljerade energibalanser för närvarande varken tas fram
+eller publiceras.16 Detta då uppgifter i den officiella statistiken inte får sammanföras
+med andra uppgifter i syfte att utröna enskilds identitet (§ 6). Länsstyrelsen anser
+
+därför att tillgängligheten för kommunal och regional energistatistik behöver
+förbättras. Från Länsstyrelsens sida förs dialog om detta med Statistikmyndigheten
+SCB och Energimyndigheten.
+
+Ansvarig aktör: Länsstyrelsen i Halland och Region Halland
+
+Stödjande aktörer: Statistikmyndigheten SCB och Energimyndigheten
+
+Uppdatera Energisituationen i Halland
+Redan vid etableringen av EnergiNav Halland, blev det tydligt att det finns ett stort
+behov av en gemensam lägesbild och ett kunskapsunderlag kring situationen och
+framtida behov i länet. Energisituationen i Halland togs därför fram för att svara mot
+de önskemålen. All form av energiplanering underlättas av aktuella prognoser och
+relevanta scenarier. Därav är det önskvärt att regionala scenarier över länets framtida
+
+elanvändning uppdateras vart annat år. Det vore även önskvärt att de långsiktiga
+scenarierna kompletteras med mer säkra och kortsiktiga prognoser, även på regional
+nivå. Likaså är regionala effektprognoser önskvärda.
+
+Ansvariga aktörer: Länsstyrelsen i Halland och Region Halland
+
+Stödjande aktör: Energimyndigheten
+
+16 Lag (2001:99) om den officiella statistiken | Sveriges riksdag.
+
+17
+
+<!-- sida 101 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Följ upp Regional handlingsplan för elektrifiering
+Då denna handlingsplan innefattar ett relativt stort antal åtgärder är det viktigt att
+dessa följs upp. Det är också önskvärt att nya åtgärder kan tillfogas till handlingsplanen
+när sådana identifieras. En enklare form av uppföljning kan göras årligen i Energi- och
+klimatläget i Halland. Länsstyrelsens preliminära bedömning är dock att handlings-
+planen bör genomgå en något mer genomgripande uppdatering vart annat år.
+
+Ansvarig aktör: Länsstyrelsen i Halland
+Stödjande aktör: Region Halland
+
+Ta fram regionala underlag som stödjer energiplanering
+
+Inom ramen för arbetet med EnergiNav Halland identifieras lokala och regionala behov
+successivt. Från Länsstyrelsens och Region Hallands sida finns en uttalad vilja att
+kunna möta behov och önskemål som identifieras under möten och i dialoger. Därav
+avser EnergiNav Hallands projektgrupp att arbeta med framtagande av olika plane-
+rings- och kunskapsunderlag. Det kan exempelvis röra sig om planeringsunderlag
+kring utbyggnad av publik eller icke-publik laddinfrastruktur för lätta eller tunga
+fordon, kartor över lämpliga platser för höga effektuttag, kunskapsunderlag kring
+flexibel och effektiv energianvändning. Planeringsunderlag kring lämpliga platser för
+utbyggnad av ny elproduktion är också önskvärt. I ett sådant arbete är det väsentligt
+att Försvarsmakten involveras på ett tidigt stadium.
+
+Ansvariga aktörer: Länsstyrelsen i Halland och Region Halland
+
+Stödjande aktörer: Lokala och regionala energibolag, kommuner, laddoperatörer,
+Försvarsmakten, Energimyndigheten och Svenska kraftnät.
+
+Ta fram en regional fjärrvärmeanalys
+Fjärrvärmen har stor potential att avlasta elnätet och bidra till ökad stabilitet i
+energisystemet. Fjärrvärme möjliggör dessutom tillvaratagande av restvärme samt
+elproduktion i kraftvärmeanläggningar. Som tidigare nämnts råder stor osäkerhet
+kring kraft- och fjärrvärmens framtida förutsättningar. Länsstyrelsen avser därför att
+ta fram en regional fjärrvärmeanalys, vilken dels ska redovisa aktuella utbyggnads-
+
+planer, dels redovisa och diskutera hur de lokala fjärrvärmeaktörerna kan agera för att
+hantera osäkerhetsfaktorer. Analysen ska även kunna användas för att visa på behov av
+nya styrmedel. I samband med framtagandet kommer det att inrättas en referensgrupp
+med deltagare från lokala fjärrvärmebolag.
+
+Ansvarig aktör: Länsstyrelsen i Halland
+
+Stödjande aktörer: Lokala energibolag och Högskolan i Halmstad
+
+18
+
+<!-- sida 102 -->
+
+REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
+
+Genomför kunskapshöjande åtgärder för ökad energiberedskap
+De senaste årens utveckling har tydliggjort att det finns ett stort behov av att arbeta
+mer aktivt med frågor som rör energiberedskap. Energiberedskap är också en central
+del i lokal och regional energiplanering. Bland annat handlar det om att energisystemet
+ska ha en förmåga att hantera en hög andel väderberoende elproduktion, att ha
+beredskap för att kunna möta antagonistiska hot och väderrelaterade störningar.
+
+Ansvariga aktörer: Länsstyrelsen i Halland och Region Halland
+Stödjande aktörer: Energimyndigheten, Svenska kraftnät, Myndigheten för
+samhällsskydd och beredskap, kommuner och energibolag.
+
+19
+
+<!-- sida 103 -->
+
+www.lansstyrelsen.se/halland
+
+<!-- sida 104 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-02
+Diarienummer
+KS-2026-00149
+
+Svar på Varbergs kommuns remiss av fördjupad översiktsplan för Väröbacka
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-03-02, och översänder det som sitt svar till Varbergs
+
+kommun.
+
+Sammanfattning av ärendet
+
+Kungsbacka kommun har fått möjlighet att yttra sig över granskningshandlingarna för fördjupad
+översiktsplan för Väröbacka, upprättad av Varbergs kommun.
+Planförslaget har varit ute på samråd och har därefter reviderats inför granskning. Kungsbacka
+kommun lämnade yttrande i samrådsskedet. De huvudsakliga ändringar som Varbergs kommun
+redovisar inför granskning avser bland annat justerad beskrivning av framtida korsningsåtgärd,
+borttaget verksamhetsområde i söder, beslutat läge för kommunal service, borttagna särskilt utpekade
+lägen för vård, justerat grönstråk samt minskat område för exploatering på jordbruksmark.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-03-02
+
+Yttrande, 2026-03-02
+Granskningshandling för fördjupad översiktsplan för Väröbacka
+
+Beslutet skickas till
+
+Varbergs kommun
+
+Beskrivning av ärendet
+
+Varbergs kommun har ställt ut förslag till fördjupad översiktsplan för Väröbacka för granskning.
+Enligt granskningsunderlaget har planförslaget reviderats efter samrådet.
+De huvudsakliga ändringar som Varbergs kommun redovisar inför granskning avser bland annat
+justerad beskrivning av framtida korsningsåtgärd, borttaget verksamhetsområde i söder, beslutat läge
+för kommunal service, borttagna särskilt utpekade lägen för vård, justerat grönstråk samt minskat
+område för exploatering på jordbruksmark.
+
+1 (2)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+Raquel Sandblad
+0300-834072                                                   Besöksadress
+Samhällsplanerare                                        Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 105 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning är fortsatt positiv till förslaget av fördjupad översiktsplan för
+Väröbacka. Den framtida tågstationen och utvecklingen i Väröbacka bedöms vara positiv för Hallands
+tillväxt och för en stärkt regional infrastruktur.
+
+Rickard Vidlund                    Lovisa Eld
+
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 106 -->
+
+YTTRANDE
+Kommunstyrelsen
+Till Datum
+Varbergs kommun 2026-03-02
+Diarienummer Kungsbacka
+KS-2026-00149
+
+Ert diarienummer
+
+Dnr: KS 2019/0299
+
+Yttrande över Varbergs kommun remiss: Granskning av fördjupad översiktsplan för
+Väröbacka
+
+Kommunens inställning i detalj
+Kungsbacka kommun är fortsatt positiv till förslaget.
+
+Den planerade utvecklingen av Väröbacka, med den nya stationen som utgångspunkt, bedöms stärka
+förutsättningarna för en långsiktigt hållbar utveckling i området. Satsningar som stärker infrastrukturen
+längs Västkustbanan är viktiga för Hallands utveckling och för ett fortsatt gott samarbete i regionen.
+
+Det noteras att planförslaget har reviderats inför granskning. De redovisade ändringarna föranleder
+dock ingen ändrad inställning.
+
+I övrigt finns ingen erinran mot förslaget.
+
+Kungsbacka kommun
+
+1 (1)
+
+Nämndens namn Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+
+Stadshuset, Storgatan 37
+
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 107 -->
+
+Samrådsredogörelse
+
+Fördjupad översiktsplan för Väröbacka
+
+Diarienummer: KS 2019/0299
+Datum: December 2025 VARBERGS
+Dokumentansvarig avdelning: Samhällsutvecklingskontoret KOMMUN
+
+<!-- sida 108 -->
+
+Innehållsförteckning
+
+Om samrådet ....................................................................................................... 4
+Inledning ................................................................................................................. 4
+Hur samrådet har bedrivits ..................................................................................... 4
+Sändlista ................................................................................................................. 5
+Sammanfattning ..................................................................................................... 6
+Länsstyrelsens synpunkter med kommentarer .............................................. 9
+Inledning .................................................................................................................. 9
+Samlad bedömning ................................................................................................ 9
+Länsstyrelsens synpunkter gällande ingripandegrunder enligt 11 kap. 10 § PBL 10
+Länsstyrelsens rådgivande synpunkter – övriga allmänna intressen ................... 14
+Övriga statliga och regionala organ ............................................................... 22
+Trafikverket ........................................................................................................... 22
+Svenska kraftnät ................................................................................................... 31
+Swedavia .............................................................................................................. 32
+MSB ...................................................................................................................... 32
+Region Halland ..................................................................................................... 37
+Luftfartsverket ....................................................................................................... 41
+
+Kommunala nämnder och bolag ..................................................................... 42
+Byggnadsnämnden .............................................................................................. 42
+Förskole- och grundskolenämnden ...................................................................... 45
+Hamn- och gatunämnden ..................................................................................... 49
+Kultur- och fritidsnämnden ................................................................................... 53
+Miljö- och hälsoskyddsnämnden .......................................................................... 55
+Socialnämnden ..................................................................................................... 60
+Vatten & Miljö i Väst AB ....................................................................................... 60
+Räddningstjänsten Väst ....................................................................................... 61
+Varberg Energi AB ............................................................................................... 64
+Ellevio ................................................................................................................... 64
+Privatpersoner .................................................................................................. 66
+Privatperson 1 (KS 2023/0644-1) ......................................................................... 66
+Privatperson 2 (KS 2023/0644-2) ......................................................................... 66
+Privatperson 3 (KS 2023/0644-4) ......................................................................... 66
+Privatperson 4 (KS 2023/0644-5) ......................................................................... 67
+Privatperson 5 (KS 2023/0644-6) ......................................................................... 67
+Privatperson 6 (KS 2023/0644-7) ......................................................................... 67
+Privatperson 7 (KS 2023/0644-8) ......................................................................... 68
+Privatperson 8 (KS 2023/0644-10) ....................................................................... 68
+Privatperson 9 (KS 2023/0644-13) ....................................................................... 69
+Privatperson 10 (KS 2023/0644-14) ..................................................................... 69
+Privatperson 11 (KS 2023/0644-15) ..................................................................... 69
+Privatperson 12 (KS 2023/0644-16) ..................................................................... 69
+Privatperson 13 (KS 2023/0644-20) ..................................................................... 70
+Privatperson 14 (KS 2023/0644-23) ..................................................................... 70
+Privatperson 15 (KS 2023/0644-24) ..................................................................... 71
+Privatperson 16 (KS 2023/0644-28) ..................................................................... 71
+Privatperson 17 (KS 2023/0644-33) ..................................................................... 72
+Privatperson 18 (KS 2023/0644-39) ..................................................................... 72
+Privatperson 19 (KS 2023/0644-40) ..................................................................... 73
+Privatperson 20 (KS 2023/0644-41) ..................................................................... 74
+Privatperson 21 (KS 2023/0644-43) ..................................................................... 74
+
+2                                 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 109 -->
+
+Privatperson 22 (KS 2023/0644-44) ..................................................................... 75
+Privatperson 23 (KS 2023/0644-46) ..................................................................... 75
+Privatperson 24 (KS 2023/0644-48) ..................................................................... 75
+Privatperson 25 (KS 2023/0644-49) ..................................................................... 76
+Privatperson 26 (KS 2023/0644-50) ..................................................................... 77
+Privatperson 27 (KS 2023/0644-51) ..................................................................... 78
+Privatperson 28 (KS 2023/0644-52) ..................................................................... 79
+Privatperson 29 (KS 2023/0644-53) ..................................................................... 79
+Privatperson 30 (KS 2023/0644-54) ..................................................................... 79
+Privatperson 31 (KS 2023/0644-55) ..................................................................... 80
+Privatperson 32 (KS 2023/0644-59) ..................................................................... 86
+Privatperson 33 (KS 2023/0644-60) ..................................................................... 86
+Privatperson 34 (KS 2023/0644-66) ..................................................................... 86
+Övriga ................................................................................................................ 88
+Centern i Väröbacka ............................................................................................. 88
+Elever från årskurs 7, Väröbackaskolan ............................................................... 89
+Kulturmiljö Halland ............................................................................................... 90
+Kungsbacka kommun ........................................................................................... 91
+Lantbrukarnas riksförbund, LRF Varberg ............................................................. 91
+Mek Hub AB ......................................................................................................... 93
+Naturskyddsföreningen i Varberg ......................................................................... 94
+Sjöströms fastigheter ............................................................................................ 94
+Stora Ävabäckens markavvattningsföretag .......................................................... 96
+Svenska kyrkan, Göteborgs stift ........................................................................... 97
+Södra Skogsägarna .............................................................................................. 98
+Värö-Stråvallavisionen ......................................................................................... 99
+Väröbacka GIF ................................................................................................... 100
+Åkraberg, Sunnvära och Backa markavvattnings-företag ................................... 100
+Aktionsgruppen för Pendeltågstation i Väröbacka ............................................. 101
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            3
+
+<!-- sida 110 -->
+
+Om   samrådet
+
+Inledning
+
+Förslag till ny fördjupad översiktsplan för Väröbacka (FÖP Väröbacka) har varit på
+samråd under vintern 2023/2024. Samrådet är en viktig del i processen med att ta
+fram en fördjupad översiktsplan, där kommunen har möjlighet att inhämta kunskap
+och synpunkter på planförslaget. Målet är att slutligen kunna få fram ett så bra
+beslutsförslag som möjligt. Samrådet ger också möjlighet till insyn i och påverkan på
+processen.
+Enligt 3 kap. 8 § plan- och bygglagen ska planförslaget samrådas med länsstyrelsen,
+regionen och berörda kommuner. Kommunens invånare, berörda myndigheter,
+intresseorganisationer och övriga som har ett intresse av förslaget ska också kunna
+delta i samrådet.
+
+Enligt 3 kap. 11 § plan- och bygglagen ska kommunen redovisa resultatet av
+samrådet i en samrådsredogörelse som också ska innehålla de förslag som
+framförda synpunkter har gett anledning till. Samrådsredogörelsen ska finnas
+tillsammans med planförslaget inför nästa steg i processen (granskning).
+
+Denna samrådsredogörelse innehåller samtliga inkomna yttranden, sorterade
+utifrån vilken typ av instans eller aktör som har yttrandet sig. I denna handling har
+vissa yttranden förkortats för läsbarhetens skull och namn från privatpersoner har
+raderats. Yttrandet från länsstyrelsen redovisas dock i sin helhet.
+
+Samtliga yttranden har bemötts, och i de fall där yttrandet har föranlett en ändring i
+planförslaget så framgår detta. Här nedan görs en övergripande sammanfattning av
+inkomna yttranden samt över genomförda ändringar inför granskningsskedet.
+
+Hur samrådet har bedrivits
+
+Samråd om förslag till ny FÖP Väröbacka pågick under perioden 27 november 2023
+till 31 mars 2024.
+Under samrådsperioden fanns förslaget tillgängligt digitalt på kommunens
+webbplats, www.varberg.se/varovaxer samt som utskrivna handlingar i Värö kyrka
+och på Kulturhuset Komedianten.
+
+I ett inledande skede av samrådsperioden hölls vid två olika tillfällen allmänna
+samrådsmöten i Värö församlingshem. Utöver detta hölls även ett möte för särskilt
+berörda fastighetsägare. På dessa möten deltog tjänstepersoner med olika
+kompetens för att kunna beskriva planförslaget och svara på frågor. Utöver detta
+deltog de politiker som tagit beslut om samrådet samt även politiker från övriga
+berörda nämnder och bolag.
+
+Synpunkter kunde lämnas skriftligen under hela samrådsperioden. Detta gjordes
+antingen på samrådsmötena, i Värö kyrka, via brev eller e-post. Totalt inkom 67
+yttranden, fördelat enligt följande:
+
+-  Länsstyrelsen (1)
+-  Övriga statliga och regionala organ (6)
+-  Kommunala nämnder och bolag (10)
+-  Privatpersoner (34)
+-  Övriga (16)
+
+4                                 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 111 -->
+
+Sändlista
+Samrådhandlingar skickades ut till följande remissinstanser:
+
+Statliga och regionala organ
+
+-  Länsstyrelsen i Hallands län
+-  Trafikverket
+-  Region Halland
+-  Hallandstrafiken
+-  Kulturmiljö Halland
+
+Kommunala nämnder och bolag
+-  Byggnadsnämnden
+-  Förskole- och grundskolenämnden
+-  Utbildnings- och arbetsmarknadsnämnden
+-  Hamn- och gatunämnden
+-  Kultur- och fritidsnämnden
+-  Miljö- och hälsoskyddsnämnden
+-  Servicenämnden
+-  Socialnämnden
+-  Räddningstjänsten Väst
+-  Varberg Energi AB (VEAB)
+-  Varberg Energi AB Fjärrvärme
+-  Vatten & Miljö i Väst AB (VIVAB)
+-  Varbergs Fastighets AB (VFAB)
+-  Varbergs Bostads AB (VBAB)
+-  Lantmäterimyndigheten
+
+Teknisk infrastruktur
+-  Varbergsortens Elkraft
+-  Ellevio
+-  Vattenfall
+
+Föreningar och intresseorganisationer
+-  Limabacka vägförening
+-  Väröbacka vägförening
+-  Dikningsföretag
+-  Hyresgästföreningen region Västra Sverige
+-  Naturskyddsföreningen Varberg
+-  Värö Stråvalla hembygdsförening
+-  Värö/Stråvalla-visionen
+-  Buas framtid
+-  Veddigevisionen
+-  Fastighetsägarna
+-  Lantbrukarnas Riksförbund (LRF)
+-  Aktionsgruppen för pendeltågstation i Väröbacka (APV)
+
+Grannkommuner
+-  Kungsbacka kommun
+
+Övrigt
+-  Telia Sonera Skanova Access AB
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            5
+
+<!-- sida 112 -->
+
+-  Postnord
+-  Swedavia AB
+-  Värö Stråvalla församling
+-  Södra Skogsägarna i Värö
+-  Ringhals
+-  Derome
+
+Sammanfattning
+
+Synpunkter på planförslaget
+Under samrådet inkom yttranden från en rad olika aktörer, däribland myndigheter,
+kommunala nämnder och bolag, intresseorganisationer, privatpersoner samt övriga.
+Ungefär hälften av yttrandena lämnades in av privatpersoner.
+Många av yttrandena berörde flera olika ämnesområden. Det ämnesområde som
+väckte störst engagemang var infrastruktur. Många synpunkter berörde önskemål
+om utbyggnad av gång- och cykelbanor samt om åtgärder för att säkerställa
+trafiksäkerhet och god framkomlighet i samband med framtida trafiklösningar inom
+planområdet.
+
+När det gäller vattenfrågor handlade majoriteten av yttrandena om
+dagvattenhanteringen och hur planen förhåller sig till framtida höjda havsnivåer.
+
+De yttranden som berörde kommunal service gällde främst de föreslagna
+lokaliseringarna för en ny skola.
+
+Exempel på synpunkter
+Av de 34 yttranden som inkom från privatpersoner förekommer både positiva och
+negativa synpunkter på den fördjupade översiktsplanen.
+
+Exempel på positiva synpunkter från privatpersoner är:
+
+• Bra med ett levande centrum och en ny entré till samhället.
+• Bra med en rondell i stället för nuvarande trafikplats.
+• Bra med nya grönstråk och gångstråk samt att de befintliga
+grönområdena bevaras.
+• Bra med nya korsningen över järnvägen som hjälper till att binda ihop
+Limabacka och Väröbacka.
+
+Exempel på negativa synpunkter från privatpersoner är:
+• Fel att bygga på värdefull jordbruksmark, speciellt området som är
+utpekat som verksamhetsområde.
+• Redan idag hög belastning på befintliga vattendrag, dagvattenfrågan
+måste lösas innan ny bebyggelse.
+• Planerat verksamhetsområde kommer innebära ljusstörningar och
+
+negativt påverka den biologiska mångfalden.
+• Planerad bebyggelse kommer öka trafikmängden i området, vilket
+innebär större olycksrisk, speciellt med tanke på att här körs många
+tunga transporter.
+
+6                                 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 113 -->
+
+Synpunkter från Länsstyrelsen
+Länsstyrelsen anser att planförslaget har en klar huvudstrategi med tydlig
+utvecklingsinriktning. De tycker också att kommunen på ett föredömligt sätt lagt
+stor vikt vid områdets kulturmiljö och hur den kan integreras i den framtida
+utvecklingen.
+
+Länsstyrelsen påpekar, bland annat, att kommunen behöver klargöra frågor
+kopplade till människors hälsa och säkerhet, framför allt när det gäller farligt gods
+och nybyggnation på åkermark som drabbas av höga havsnivåer och översvämning.
+Eftersom järnvägen och E6 är starka barriärer som kan förstärkas av ny byggnation
+vill länsstyrelsen att kommunen beskriver hur man planerar att hantera frågan och
+vilka åtgärder som är lämpliga för att minska barriäreffekten.
+
+Synpunkter från Trafikverket
+Trafikverket anser bland annat att kommunen bör göra fler trafikstudier, inte bara
+på alternativet att omvandla trafikplatsen till en rondell, utan även med bibehållen
+planskildhet.
+
+Trafikverket anser också att förslaget innebär skada på framkomligheten på väg 845
+och del av väg 850 (Industrivägen och Varbergsvägen), vilket är viktigt med tanke
+på dess funktion som omledningsväg för E6.
+
+Ändringar inför granskning
+
+Utifrån de synpunkter som inkommit under samrådet har planförslaget bearbetats
+och reviderats inför granskningsskedet. Nedan presenteras en sammanfattning av
+några av de mest betydande förändringarna som genomförts.
+Ändrad beskrivning av cirkulationsplats
+
+Inför granskningsskedet har beskrivningen av den föreslagna korsningsåtgärden
+KÅ1 justerats. Korsningsåtgärden beskrivs nu mer öppen och på längre sikt. Vilken
+åtgärd som anses lämplig utreds vidare i detalj i ett senare planeringsskede.
+Borttaget verksamhetsområde i söder
+
+Delar av det område som pekades ut för verksamhetsmark i södra Väröbacka har
+tagits bort med hänsyn till påverkan på den brukningsvärda jordbruksmarken,
+landskapsbild, kulturmiljö, dagvattenhantering och höjda havsnivåer.
+Markanvändningen bedöms dessutom vara olämplig utifrån trafiksituationen då det
+kommer krävas åtgärder i trafiksystemet för att säkerställa framkomlighet och
+trafiksäkerhet.
+Beslutat läge för kommunal service
+
+Skolalternativen som presenterades i samrådsförslaget har utvärderats, framför allt
+utifrån ett barnperspektiv och med hänsyn till genomförandefrågor. Område S3
+(numera KS2) bedöms sammantaget vara det mest gynnsamma läget utifrån dessa
+aspekter. Området har också utökats för att kunna ge plats åt mer kommunal
+service, vilket möjliggör samordning av förskola och skola inom samma område.
+Detta ger också möjlighet till en flexibel markanvändning eftersom behov av
+kommunal service kan variera över tid.
+
+Borttagna lägen för vård i plankartan
+De områden som tidigare pekades ut för Vårdboende har utgått eftersom en sådan
+användning bedöms vara förenlig med Funktionsblandad bebyggelse.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            7
+
+<!-- sida 114 -->
+
+Ändrad sträckning och tidsperspektiv för övergripande
+grönstråk
+Delar av det grönstråk som gick norr om Varbergsvägen, längs med Backa by, har nu
+ändrats och föreslås som utveckling på lång sikt. Grönstråkets huvudsakliga
+funktion är att säkerställa ett respektavstånd mellan Backa by och ny bebyggelse.
+Eftersom delar av bebyggelsen norr om Backa by (B8) föreslås på lång sikt, är
+bedömningen att grönstråket också bör göra det. För att sammankoppla
+grönstrukturen leds spridningskorridoren ner till centrumområdet och vidare till
+naturområdet i öster.
+
+Minskat område för exploatering av jordbruksmark i öst
+I granskningsskedet föreslås att delar av marken norr om Backa by, som tidigare
+pekades ut för bebyggelse, istället kvarstår som jordbruksmark. Beslutet grundar sig
+i en vilja att bevara värdefull jordbruksmark, skydda landskapsbilden och värna
+infarten till orten från öster. Utöver dessa aspekter bedöms området vara
+svåråtkomligt från väg 850, där tunga transporter redan idag skapar trafikmässiga
+utmaningar.
+
+Övrigt
+Utöver dessa ändringar har det även gjorts mindre revideringar av planförslaget
+inför granskningsskedet. Dessa revideringar innefattar främst förtydliganden i
+plantexten, uppdateringar av kartunderlaget avseende utveckling på kort och lång
+sikt, samt mindre anpassningar i planens struktur för att bättre bemöta inkomna
+synpunkter och säkerställa en tydligare koppling till övriga planeringsförutsätt-
+ningar. Utöver detta har ändringar av namn gjorts i markanvändningskartan för
+ökad tydlighet.
+
+8                                 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 115 -->
+
+Länsstyrelsens     synpunkter    med
+
+kommentarer
+
+Inledning
+Varbergs kommun har ställt ut fördjupad översiktsplan för Väröbacka på samråd.
+
+Länsstyrelsen ska enligt 3 kap. 10§ PBL vid samråd om översiktsplan särskilt:
+
+•  ta till vara och samordna statens intressen,
+•  ge råd i fråga om sådana allmänna intressen enligt 2 kap. PBL som hänsyn
+bör tas till vid beslut om mark- och vattenanvändningen,
+•  verka för att riksintressen tillgodoses - 3 och 4 kap. miljöbalken (1998:808)
+
+(MB), att miljökvalitetsnormer (MKN) enligt 5 kap. MB följs och att
+redovisningen av områden för landsbygdsutveckling i strandnära lägen är
+förenlig med 7 kap. MB,
+•  verka för att mellankommunala frågor samordnas på lämpligt sätt samt
+•  verka för att bebyggelse och byggnadsverk inte blir olämpliga med hänsyn
+till människors hälsa eller säkerhet eller risken för olyckor, översvämning
+eller erosion.
+
+I rollen att ta tillvara och samordna statens intressen har Länsstyrelsen inhämtat
+synpunkter på förslaget till översiktsplan från berörda myndigheter. Yttranden över
+planförslaget har inkommit från Sjöfartsverket, Strålsäkerhetsmyndigheten, Statens
+geotekniska institut, Myndigheten för samhällsskydd och beredskap, Post- och
+telestyrelsen samt Trafikverket.
+Kopior av yttrandena överlämnas till kommunen för kännedom.
+
+Statliga verk som avstår från att yttra sig är; Försvarsmakten, Havs- och
+vattenmyndigheten, Sveriges geologiska undersökning, Statens fastighetsverk,
+Svenska kraftnät AB, Skogsstyrelsen m.m.
+
+Samlad bedömning
+Länsstyrelsen välkomnar att kommunen tagit fram ett förslag till ny fördjupad
+översiktsplan. Översiktsplanen har en tydlig disposition som gör den lättillgänglig.
+Översiktsplanen har en klar huvudstrategi som innebär att kommunen ska utvecklas
+genom ett centrumstråk med utgångpunkt från tågstationen. På samma gång som
+översiktsplanen har en tydlig utvecklingsinriktning återstår en del överväganden.
+Tydliga ställningstaganden är viktiga för att översiktsplanen ska ge goda
+förutsättningar för efterföljande planering och prövning.
+
+För att kommunen ska få största nytta av översiktsplanen som en överenskommelse
+mellan stat och kommun behöver kommunen utveckla motiveringarna till
+bedömningarna att riksintressena tillgodoses i översiktsplanen. Påverkan på och
+konsekvenserna för riksintressena behöver framgå bättre av översiktsplanen.
+Utifrån nu kända förutsättningar kan Länsstyrelsen inte utesluta att föreslagen
+mark- och vattenanvändning motverkar att riksintressen tillgodoses. För de
+områden där kommunen inte föreslår någon ändrad markanvändning bedömer
+Länsstyrelsen liksom kommunen att riksintressena är tillgodosedda.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            9
+
+<!-- sida 116 -->
+
+Förutsatt att kommunen redogör för hur slutsatserna runt miljökvalitetsnormer för
+lufts tagits fram bedömer Länsstyrelsen att föreslagen mark- och vattenanvändning
+medverkar till att MKN enligt 5 kap. MB följs.
+Utifrån nu kända förutsättningar kan Länsstyrelsen inte utesluta att det som
+föreslås i planen kommer att medföra sådan negativ påverkan avseende människors
+hälsa och säkerhet eller risken för olyckor, översvämning och erosion att det i ett
+senare planeringsskede kan ge Länsstyrelsen anledning att ingripa enligt 11 kap.
+PBL. Det beror på att flera frågeställningar kräver fortsatt arbete för att klarläggas.
+Kommunen är medveten om detta och har i översiktsplanen identifierat behov av
+fortsatt arbete.
+
+Länsstyrelsen bedömer att frågor som berör mark- och vattenområden och som
+angår angränsande kommuner samordnas på ett lämpligt sätt.
+
+Länsstyrelsens synpunkter gällande
+ingripandegrunder enligt 11 kap. 10 § PBL
+
+Riksintressen
+Totalförsvaret (3 kap. 9 § MB)
+Varbergs kommun berörs inte av några öppet redovisade riksintressen eller
+områden av betydelse för totalförsvarets militära del, men det kan finnas åtgärder
+som innebär påverkan på riksintressen för totalförsvarets militära del som omfattas
+av sekretess. Alla ärenden avseende höga objekt behöver skickas på remiss till
+Försvarsmakten för att säkerställa att ingen skada sker på riksintressen som
+omfattas sekretess. Det bör framgå av en generell text i översiktsplanen.
+
+Samråd bör även ske med myndigheten för samhällsskydd och beredskap (MSB) i
+dessa ärenden. Länsstyrelsen bifogar MSB yttrande från 2024-01-26 dnr 2023-
+16268 i sin helhet.
+
+Länsstyrelsen vill vidare lyfta fram vikten av en fungerande livsmedelsförsörjning,
+såväl under kris som under höjd beredskap. Livsmedelsförsörjningen är en viktig del
+i att skapa ett robust samhälle. Med detta i åtanke bör användning av åkermark till
+annat än odling minimeras så långt det är möjligt.
+Natura 2000-området Båtafjorden (4 kap. 8 § MB)
+
+Den fördjupade översiktsplanen för Väröbacka ligger nära Natura 2000-området
+Båtafjorden och kan komma att medföra risk för påtaglig skada på området. Det kan
+även förekomma kumulativa effekter från andra detaljplaner och planprogram.
+Prövning enligt Natura 2000-lagstiftningen kan komma att bli aktuell i kommande
+detaljplaner.
+
+Exempel ur bevarandeplanen för Båtafjorden: Vad påverkar Natura 2000-området
+negativt?
+
+•  All typ av exploatering, byggnation, anläggande, grävning, schaktning mm
+som kan skada naturtyper.
+•  Dikning, rensning, andra åtgärder som påverkar hydrologin
+•  Ändrad markanvändning på omgivande mark
+•  Höga träd, byggnader, belysningsstolpar i och utanför öppna ytorna
+•  Störning orsakade av exempelvis hundar och rörligt friluftsliv
+
+10                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 117 -->
+
+•  Exempelvis kan bostädernas utformning utgöra en påverkan av Natura
+2000-området och de utpekade fågelarterna.
+Kommunen skriver "i planen finns grönstråk/rörelsestråk som tillgängliggör
+strandområdet mer än idag." Det framgår inte vilket/vilka grönstråk/rörelsestråk
+det skulle vara och hur de är utformade. Vidare beskriver kommunen att ett för högt
+besökstryck kan utgöra en störning på fågellivet och öka slitage på strandängarna.
+Länsstyrelsen saknar ställningstagande i tillhörande miljökonsekvensbeskrivning
+hur denna besöksökning kan påverka naturvärdena samt om det planeras åtgärder
+för att minska det höga besökstrycket.
+
+Den kumulativa effekten på Natura 2000-området innefattar inte bara FÖP
+Väröbacka men andra detaljplaner och planprogram. De kumulativa effekterna kan
+beröra olika delar som naturvärden, dagvattenhantering och miljökvalitetsnormer.
+Länsstyrelsen saknar ett resonemang om kumulativa effekter från detaljplaner och
+planprogram tillsammans med projektområdet FÖP Väröbacka.
+
+Ett ökat antal bostadshus kommer innebära en ökning av antalet invånare, samt
+troligen öka antalet sommarbesökare via planerade korttidsboenden. Ingen siffra
+har hittats om förväntad förändring i invånarantal och turism. Länsstyrelsen skulle
+vilja se att dessa uppgifter finns med, vilket också tydliggör omfattningen på det
+ökade besökstrycket på närliggande naturområden.
+
+Riksintresse högexploaterad kust (4 kap. 2 och 4 §§ MB)
+Länsstyrelsen bedömer att föreslagen bebyggelse ligger inom en befintlig tätort i
+enlighet med 4 kap 1 § MB.
+
+Friluftsliv (3 kap. 6 § MB)
+Länsstyrelsen bedömer att förslaget inte påtagligt skadar riksintresse för
+friluftslivet.
+
+Kommunikationer (3 kap. 8 § MB)
+Järnväg
+Länsstyrelsen anser att planförslaget inte motverkar riksintresse för västkustbanan.
+
+Väg
+Länsstyrelsen bedömer inte förslaget påverka riksintresse för vägar negativt.
+
+För övriga frågor om väg och trafik hänvisar Länsstyrelsen till Trafikverkets
+yttrande från 2024-03-04 dnr TRV 2023/125384.
+
+Miljökvalitetsnormer (5 kap. 1 § MB)
+Buller
+
+Länsstyrelsen bedömer att det som föreslås medverkar till att MKN enligt 5 kap. MB
+följs, såtillvida kommunen följer den utredning och åtgärder som bifogats
+planhandlingarna.
+Vatten
+
+Länsstyrelsen bedömer att det som föreslås medverkar till att MKN enligt 5 kap. MB
+följs.
+Luft
+
+Länsstyrelsen anser att det saknas ett tydligt resonemang om MKN luft. Kommunen
+gör bedömningen att MKN inte kommer påverkas, ställningstagandet redovisar
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            11
+
+<!-- sida 118 -->
+
+däremot inte hur eller vad bedömningen bygger på. Huruvida planförslaget bedöms
+medverka till att MKN enligt 5 kap. MB följs går inte att avgöra.
+Länsstyrelsen anser att kommunen behöver tydliggöra sin motivering eller ta fram
+nödvändiga utredningar som förtydligar ställningstagandet.
+
+Fisk- och musselvatten
+Länsstyrelsen bedömer att det som föreslås medverkar till att MKN enligt 5 kap. MB
+följs.
+
+Strandskydd (7 kap. 13 § MB)
+
+Det råder utvidgat strandskydd 300 m vid kusten vilket berör den södra delen av
+planförslaget. Området som berörs är markerat som fortsatt areell näring, likaså för
+området i sydöst som omfattas av Viskans strandskydd.
+Ett vattendrag löper norrifrån parallellt med järnvägsspåret och mynnar i Viskan
+söderut. För de byggnader eller anläggningar som ska uppföras inom 100 m
+strandskydd från det vattendraget kommer strandskyddet behöva upphävas.
+
+Mellankommunala frågor (3 kap. 5 § 6p. PBL)
+Länsstyrelsen bedömer att den i planen föreslagna mark- och vattenanvändning
+som berör andra kommuner samordnas på lämpligt sätt.
+
+Hälsa och säkerhet eller risk för olyckor, översvämning eller
+erosion (2 kap. 5 § PBL)
+Utifrån nu kända förutsättningar kan Länsstyrelsen inte utesluta att det som
+föreslås i planen medför sådana problem avseende människors hälsa och säkerhet
+eller risken för olyckor, översvämning och erosion att det i ett senare
+planeringsskede kan ge Länsstyrelsen anledning att ingripa enligt 11 kap. PBL. Det
+gäller framför allt frågan om farligt gods och nybyggnad vid områden som drabbas
+vid höga havsnivåer och översvämning.
+
+Farligt gods
+I samband med den fördjupade översiktsplanen har kommunen tagit fram en
+riskanalys. Riskanalysen omfattar även vägar som inte är rekommenderade farligt
+godsleder, men där kommunen antar att det ändå går en viss mängd farligt
+godstransporter. Länsstyrelsen anser att denna ansats är mycket bra och att det är
+ett bra förhållningssätt till farligt godstransporter. I riskanalysen saknas dock
+bedömning eller beräkning av samhällsrisken. För att kunna göra en bedömning av
+risken behövs både samhällsrisk och individrisk. I riskanalysen görs vissa
+resonemang kring samhällsrisken och det beskrivs att det finns indikationer på att
+samhällsrisken är låg. Riskanalysen behöver dock kompletteras med tydligare
+resonemang kring samhällsrisken, antingen genom kvantitativa eller välgrundade
+kvalitativa resonemang. På motsvarande sätt behöver den kumulativa risken från
+farligt gods beaktas. Det finns områden inom den fördjupade översiktsplanen som
+berörs av fler än en väg eller järnväg där farligt gods transporteras. Det behövs
+tydligare resonemang kring detta, antingen genom kvantitativa eller välgrundade
+kvalitativa resonemang.
+
+I riskanalysen rekommenderas att bebyggelse kopplat till vård och skola inte
+placeras i direkt anslutning till riskkällor. I det nuvarande förslaget finns utpekade
+förslag till nybyggnation i område VÅ 1, VÅ 2, S4 samt S7 i anslutning till vägar där
+det transporteras farligt gods. Ur ett rent riskperspektiv är det bättre att placera
+
+12                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 119 -->
+
+användningsområden där människor vistats utanför påverkansområde från farligt
+godsleder. Användningsområden såsom skola och förskola samt vård och omsorg
+har ofta människor som är känsligare vid olyckor och har svårare att utrymma på
+egen hand. Det finns också fall där exempelvis vårdinrättningar inte kan eller ska
+utrymmas. Olika byggnader och olika användningsområden kan även vara olika lätt
+att genomföra skyddsåtgärder för. Ur ett riskperspektiv är det generellt alltid bättre
+att använda sig av ett längre avstånd till riskkällan, exempelvis en väg med farligt
+gods, än att använda skyddsåtgärder.
+Kommunen behöver väga riskperspektivet mot andra perspektiv som finns och den
+totala samhällsnyttan för att avgöra lämplig placering av områden för vård och
+omsorg samt skola och förskola. Kommunen bör i detta även väga in de
+rekommendationer som ges i riskanalysen.
+
+Översvämning, stigande hav, höga flöden och skyfall
+Planförslaget innebär en tillkommande bebyggelse inom ett område där risk för
+översvämning finns. Marken är inte säkerställd utifrån samrådshandlingarna.
+
+Enligt 3 kap 5 § p. 4 PBL ska kommunernas syn på risken för skador på den byggda
+miljön till följd av översvämning, ras, skred och erosion som är klimatrelaterade
+framgå av översiktsplanen liksom hur sådana risker kan minska eller upphöra.
+
+Kommunen har i planen redogjort för översvämningsrisken som finns i området till
+följd av stigande havsnivåer och redogjort för en lägsta grundläggningsnivå. Det
+framgår dock att flertalet redan befintliga bostadskvarter och vägar ligger inom
+utpekade riskområden.
+
+Det bör framgå vilken påverkan på tillgänglighet en extremhändelse medför för
+räddningstjänst eller evakueringsmöjligheter från Värö. Om åtgärder krävs för att
+risken ska minska eller upphöra bör detta säkerställas i planen.
+Området utpekat för industriområde markerat V2, V3 och V4 i planen ligger på
+jordbruksmark som i MKB nämns fungera som uppsamling/magasinering av större
+regnmängder. Dessa bedöms påverkas av översvämning. Om dessa ytor hårdgörs
+behöver kommunen redogöra för påverkan på närliggande fastigheter. Det nämns
+att nedanströms liggande jordbruksmarker kan bli obrukbara, vilket Länsstyrelsen
+anser negativt ur flera perspektiv.
+
+Kommunen nämner dessutom att i sina ställningstaganden för klimatpåverkan och
+klimatanpassning att;
+
+"Inom områden med befintlig bebyggelse som ligger i riskområden för höga
+havsnivåer och skyfall kan utredningar behöva göras. Antagna detaljplaner kan
+behöva omprövas eller upphävas med anledning av framtida klimateffekter. Med
+ett riskområde menas landområden under +3,12 meter samt lågpunkter,
+instängda områden och flödesvägar som påverkas av skyfall."
+
+Förslaget att befintliga detaljplaner upphävs eller omprövas ger lite skydd åt
+befintliga fastigheter. Det gäller främst vid en fråga om förändrad markanvändning,
+något som inte finns redovisat i befintlig FÖP. Om kommunen behöver göra
+åtgärder för att risken för befintliga fastigheter ska minska eller upphöra bör detta
+redovisas i planen.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            13
+
+<!-- sida 120 -->
+
+Ringhals
+Området för den fördjupade översiktsplanen ingår delvis i den inre
+beredskapszonen kring Ringhals. Länsstyrelsen och kommunen behöver fortsätta
+bevaka dessa frågor.
+
+Länsstyrelsens rådgivande synpunkter – övriga
+
+allmänna intressen
+
+God bebyggd miljö – Kulturmiljöer
+
+Det är positivt att kommunen arbetat med en integrerad landskapskaraktärsanalys,
+ILKA, för att ta ett helhetsgrepp om landskapet med syfte att kunna utforma en
+bättre anpassad översiktsplan. Tillsammans utgör analysen och den omfattande och
+välarbetade kulturmiljöutredningen en bra grund för avvägningar.
+Enligt 3 kap 2 § PBL ska kommunen i en översiktsplan redogöra för hur den byggda
+miljön ska användas, utvecklas och bevaras. För att uppfylla planeringsinriktningen
+att växa med respekt för historien och platsen särdrag föreslår kommunen fyra
+strategier: planera för en god balans mellan gammalt och nytt, bevara och förstärka
+viktiga siktlinjer, utkikspunkter, platser och stråk i landskapet, ta inspiration från
+historien och bygga vidare på ortens struktur och identitet/karaktär samt att
+landskapets känslighet och tålighet ska vara utgångspunkt för placering och
+utformning av ny bebyggelse.
+
+Det finns även flera ställningstaganden kring arkitektur, kulturmiljö och
+landskapsbild som är positiva. Det hade varit positivt om kommunen redogjorde
+tydligare för exempel på hur detta ska ske, och för vilken strategi som finns kring att
+säkerställa bevarandet av kulturhistoriskt värdefull bebyggelse och andra
+kulturmiljövärden både inom och utanför detaljplan i det fortsatta arbetet,
+exempelvis genom skydd i detaljplan och områdesbestämmelser. Att förse
+kulturhistoriskt värdefull bebyggelse med relevant skydd är en viktig del i arbetet för
+att nå miljömålet God bebyggd miljö. Även bebyggelse och bebyggelseområden som
+inte finns omnämnd i bebyggelseinventeringen kan ha kulturhistoriska värden och
+karaktärsdrag som är värdefulla att bevara och utveckla. Kommunen bör ha med sig
+detta i det fortsatta arbetet.
+
+I kulturmiljöutredningen och landskapskaraktäranalysen lyfts den tydligt
+avgränsade kyrkbyn med kyrkans synliga läge i det öppna jordbrukslandskapet fram
+som ett av de viktigast karaktärsdragen i området. På grund av detta är vissa av de
+utpekade områdena mindre lämpliga att bebygga med sammanhängande bebyggelse
+eftersom detta riskerar att påverka det öppna landskapet mot Värö kyrkby. Detta
+kan också påverka hur bebyggelsen kan utformas i områdena. Exempelvis kan här
+nämnas område B8, B7, B5 och BA2.
+Backa by är med sin ålderdomliga struktur med gårdar på rad och åkerstruktur från
+laga skiftet en annan värdefull del i området. I den fördjupade översiktsplanen
+hamnar byn mitt i den prioriterade tätortsutvecklingen och längs centrumstråket
+nära det planerade stationsläget. Mellan byn och Varbergsvägen planeras för
+sammanhängande bebyggelse i upp till fyra våningar. I kulturmiljöutredningen
+konstateras att det är av vikt att landskapet hålls öppet på båda sidor om byn på
+åsen för att dess struktur ska fortsätta vara synlig samt att grusvägarnas struktur,
+fastighetsindelningar och siktlinjer från landsvägen till kyrkbyn i mellanrummen
+mellan bebyggelsen bibehålls. Det är därför av stor vikt hur bebyggelsen i
+närområdet planeras för att karaktären hos Backa by ska bevaras och fortsätta vara
+
+14                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 121 -->
+
+en identitetsskapande del på orten. Exempelvis bör siktlinjer och byggnadshöjder
+knyta an mot landskapet.
+Kulturmiljöer bör ses som en resurs vid planering av grönområden och
+promenadstråk med mera. Att arbeta in befintliga kulturmiljöer i gröna strukturer
+ger unika inslag och tillför en historisk dimension i miljön. Det kan röra sig om både
+fornlämningsmiljöer, enskilda objekt, kulturhistoriskt värdefulla byggnader och
+bebyggelseområden. Då fornlämningsmiljöer ofta även utgör refuger för hotade
+arter i landskapet bör även dessa beaktas i planering av grön infrastruktur.
+
+Fornlämningar
+Inom det område som är aktuellt för den fördjupade översiktsplanen (FÖP) finns
+kända fornlämningar från ett stort tidsdjup. Området har i perioder underkastats en
+del byggnation, exempelvis området kring Väröbruk samt byggnation av järnväg,
+där arkeologiska utredningar och undersökningar har utförts. Ett stort antal av
+dessa undersökningar är dock utförda under 60- till 80-talet, vilket gör att
+resultaten av utredningarna kan vara svåra att använda som beslutsunderlag idag.
+Den arkeologiska vetenskapen har utvecklats mycket sedan dessa utredningar
+/undersökningar utfördes, och därför kan några av de ytor som utreddes under 60-
+till 80-talet åter vara aktuella för arkeologisk utredning med en modern arkeologi
+inför en exploatering. Ett tidigt samråd med Länsstyrelsen om behovet av
+arkeologiska insatser inför en exploatering är därför alltid behövligt. Även ännu ej
+påträffade fornlämningar är skyddade i lag. Därför kan Länsstyrelsen ställa krav på
+arkeologisk utredning enligt 2 kap 11 § KML på ytor där Länsstyrelsen bedömer att
+risk finns för under mark dolda fornlämningar.
+
+Den övervägande delen av de arkeologiska insatser som gjorts inom det aktuella
+området har utförts sydväst om Limbacka inom förhållandevis kustnära områden.
+Här har framför allt mindre boplatser från bronsålder undersökts, men ett flertal
+stenåldersboplatser har också påträffats och i varierande grad undersökts. Det kan
+tilläggas att det i området finns en överlagringsproblematik där boplatser från
+tidigmesolitikum (ca 10 000 - 8 000 BC) vid höjning av havet överlagrats av
+postglacial sand eller lera och sådana boplatser kan ligga långt under
+matjordslagren. Ett exempel på en överlagrad boplats är L1996:1221 strax norr om
+Värö bruk där fyndförande lager från äldre stenålder ligger under ca 0,15 meter
+postglacial sand vilken i sin tur överlagras av matjord. Vid arkeologiska
+undersökningar och utredningar i området ska överlagringsproblematiken beaktas.
+Under senare perioder än äldre stenålder har stora delar av aktuellt område legat
+under havsnivån. Först mot slutet av bronsåldern har havet dragit sig tillbaka så
+pass mycket att nuvarande Limbacka och delar av Väröbacka blivit torrlagda.
+Området utgör då en mycket bra boplatsmiljö för människor vid den tiden. Att
+området varit bebott under bronsåldern vittnar de bronsåldersgravar i form av
+högar och stensättningar som är belägna utmed höjdstråk öster om tätorterna. Här
+framskymtar ett rikt förhistoriskt landskap där flera av gravmonumenten har
+platsnamn idag såsom MåLös Hunnahög, Grönehög samt Jättehögen (sistnämnda
+del av ett stort gravfält där förmodligen även järnåldersgravar är representerade).
+
+I höjd med det planerade stationsområdet finns ett beslut avseende en arkeologisk
+utredning enligt 2 kap 11 § KML där Varbergs kommun är beställare. Området
+kommer sannolikt att utredas under våren 2024 under förutsättning att Varbergs
+kommun beställer uppdraget av utsett arkeologiskt företag. Den västra delen av
+stationsområdet har delvis underkastats arkeologiska utredningar under 60- och
+70-talet men dessa utredningar håller ej modern standard och kan därför ej tjäna
+som beslutsunderlag för Länsstyrelsen idag. Norr om stationsområdet, direkt söder
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            15
+
+<!-- sida 122 -->
+
+om Väröbacka, har två fornlämningar inför nybyggnation av järnväg underkastades
+arkeologiska undersökningar. Dessa boplatser är L1996:124 samt L1996:123. De
+båda fornlämningarna underkastades arkeologisk undersökning 1994 men de
+undersöktes ej i sin helhet utan ligger till stora delar kvar vid sidan av
+järnvägsrälsen. Då dessa fornlämningar ligger inom ytor som i FÖP:en är utpekade
+som Centrumstråk samt som Prioriterad tätortsutveckling finns risk för att
+ytterligare arkeologiska undersökningar är aktuella vid eventuell exploatering av
+dessa områden.
+I FÖP:en, samt i den till FÖP:en bifogade Kulturmiljöutredningen och den
+Integrerade Landskapsanalysen, läggs på ett föredömligt vis stor vikt vid områdets
+kulturmiljö och hur den kan integreras i områdets utveckling. Detta vittnar om en
+stor medvetenhet hos Varbergs kommun på områdets kulturhistoriska värden.
+
+God bebyggd miljö – Hållbar samhällsplanering
+
+Dagvatten och Miljökvalitetsnormer
+Föroreningsberäkningarna för dagvatten ser ut att förbättra rådande situation från
+dagsläget, då samtliga ämnen minskar i framtida situationer med reningsåtgärder.
+
+I VA-utredningen under 3.6.3 (Dagvatten) står det "Dagvatten som kommer till det
+allmänna ledningsnätet avleds idag till Stora Även som är ett Natura 2000-område."
+Delar av Stora Även är inkluderat i Båtafjorden som är ett Natura 2000-område,
+vilket bör förtydligas.
+
+Jordbruksmark
+Länsstyrelsen konstaterar att lokaliseringsutredningen som tagits fram 2023-08-28
+fastställer att jordbruksmarken är brukningsvärd, att ny markanvändning utgör ett
+väsentligt samhällsintresse samt att alternativa lokaliseringar har prövats. Därmed
+bedömer Länsstyrelsen att frågan om jordbruksmark är utredd utifrån 3 kap 4 § MB
+och bör fungera bra som underlag inför kommande detaljplanering.
+
+Det södra stationsläget anses av utredningen vara det bästa alternativet sett till 3
+kap 4 § MB, motiverat utifrån grunden om bostadsförsörjningsbehovet och
+arbetsplatser nära varandra. Redan 2021 tog kommunen fram en
+lokaliseringsutredning som ansåg att det södra läget var mest fördelaktigt på grund
+av bland annat att alternativet innebär minst påverkan på värdefull jordbruksmark.
+Något Länsstyrelsen anser positivt då en fungerande livsmedelsförsörjning är viktig
+såväl under kris som under höjd beredskap. Livsmedelsförsörjningen är en viktig del
+i att skapa ett robust samhälle. Med detta i åtanke bör användning av åkermark till
+annat än odling minimeras så långt det är möjligt.
+
+God bebyggd miljö – Natur och grönområden
+
+Grön infrastruktur
+Järnvägen och E6:an utgör idag en påtaglig barriär för konnektiviteten mellan havet
+och inlandet. Även rörelser och biologisk mångfald i mindre skala påverkas.
+Utvecklingen av byggnation i anslutning kan förstärka denna barriär. Planen bör
+beskriva hur man planerar hantera frågan och om det planeras vidtas åtgärder för
+att minska effekten.
+
+Naturvärden
+Många arter har hittats i projektområdet som är skyddade enligt
+artskyddsförordningen, vilket naturvärdesinventeringarna visar. Riktade
+
+16                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 123 -->
+
+artinventeringar och artutredningar kommer behövas i detaljplanenivå. Exempelvis
+de bostäder som planeras (B10 och B17) ligger nära ett område med bl a hasselmus
+och större vattensalamander. Länsstyrelsen bedömer att bostäderna kan påverka
+dessa arter och kan komma att kräva dispens från artskyddsförordningen.
+Det norra NVI-området i sydvästra hörnet planeras bostäder (B13, B15, B19, B16)
+även besöksanläggningen BA3 ligger i ett område som ligger på eller i närheten av
+en yta som identifierats som påtaglig naturvärdesklass. Ytan har också fått högst
+poäng för ekosystemtjänster. Kommunen bör ta hänsyn till dessa naturvärden vid
+planering av detaljplaner och planprogram framåt.
+
+God bebyggd miljö – Hälsa och säkerhet
+
+Farliga verksamheter
+I en översiktsplan ska kommunen redovisa grunddragen av den avsedda mark- och
+vattenanvändningen. Av planen ska det även framgå hur kommunen anser att den
+byggda miljön ska användas, utvecklas och bevaras (PBL 3:3). Kommunen kan då
+redovisa i stora drag var det är lämpligt och olämpligt att placera miljöstörande
+verksamhet, däribland Sevesoverksamheter. Kommunen bör därför förtydliga om
+något av utpekade industriområden avser användas för Sevesoverksamhet.
+
+Kommunens     kommentarer
+
+Varbergs kommun uppskattar att Länsstyrelsen ser positivt på den
+samhällsutveckling som föreslås i stationsnära läge i Väröbacka, och kommer
+arbeta för att förtydliga hur planen avser att värna riksintressen, hälsa och
+säkerhet samt minimera risken för olyckor, översvämning och erosion.
+
+Riksintressen
+Kommunen noterar att Länsstyrelsen delar bedömningen att förslaget inte har
+någon påtaglig negativ påverkan på riksintresse för högexploaterad kust,
+friluftsliv eller kommunikationer.
+
+Totalförsvaret
+Kommunen är medveten om att totalförsvaret har sekretessbelagda riksintressen
+som planeringen därmed har svårt att förhålla sig till. I Väröbacka föreslås inte i
+nuläget några höga byggnader (20 meter eller högre), men samtliga sådana
+objekt remitteras genom länsstyrelsen till berörda myndigheter i senare
+planeringsskede om så skulle bli aktuellt.
+
+Avseende livsmedelsförsörjning och byggnation på jordbruksmark så har FÖP:en
+tagit fram en lokaliseringsutredning som noggrant går igenom de lagstyrda
+frågorna om brukningsvärd jordbruksmark, väsentligt samhällsintresse och
+alternativa placeringar. Sammantaget görs bedömningen att den mark som
+ianspråktas är motiverad, och att en samhällsutveckling i området är viktigt för
+en hållbar utveckling och ett samhällsekonomiskt perspektiv sett till investering i
+stationsläget. Samtidigt skyddar FÖP:en även stora jordbruksmarkarealer som
+areell näring och odlingsbygd i syfte att värna ekologiskt känsliga samt rationella
+och produktiva jordbruksarealer. Efter revidering av förslag till FÖP kommer
+några tidigare föreslagna utbyggnadsområden för verksamhets- och
+bostadsändamål skyddas som areell näring.
+Natura 2000-området Båtafjorden
+
+Kommunen anser att det är möjligt att utforma tillkommande bebyggelse, diken
+och belysning på ett sätt som respekterar Natura 2000-området. Exakta lösningar
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            17
+
+<!-- sida 124 -->
+
+för detta kommer definieras i senare planeringsskeden, och prövas om så bedöms
+nödvändigt.
+FÖP:en redogör för en potentiell utbyggnadstakt fram till 2050 och därefter, samt
+hur dessa förhåller sig till kommunens riktlinjer för bostadsförsörjningen. Att
+skapa grönstråk eller tillgängliggöra natur i området mer än idag bedömer vi
+enbart är positivt för områdets utveckling, även om det i vissa delar kan behöva
+styras mer än på andra platser. Det kan göras med skötselprogram eller
+naturreservat m.m. som följer av senare planerings- eller genomförandeskeden. I
+områdesbeskrivningarna för de naturområden som angränsar till Natura 2000-
+området förtydligas att dessa inte kommer utvecklas som parker utan även
+fortsättningsvis utgöras av natur och odlingsmark. Med hänsyn till det låglänta
+läget kommer även exploatering i de till Båtafjorden närmsta verksamhets- och
+idrottsområdena att tas bort från FÖP-förslaget. Sammantaget bedöms inte
+FÖP:en föranleda ett ökat besökstryck på Natura 2000-området eller
+markområden närmas intill. Hantering av dagvatten från tillkommande
+hårdgjorda ytor kommer utredas och hanteras i kommande detaljplaneskede då
+detta är en viktig fråga för såväl Natura 2000-området som för
+dikningsföretagen.
+
+Den samlade exploatering på väröhalvön kan leda till kumulativa effekter för
+påverkan på Natura 2000-området Båtafjorden. Med tillräckliga ytor och
+tekniska lösningar för dagvattenhantering kan påverkan på miljökvalitetsnormer
+och Natura 2000-området undvikas. Krav vid nyexploateringar kan dessutom
+förbättra rening och fördröjning jämfört med dagens situation.
+
+Miljökvalitetsnormer
+Kommunen noterar att länsstyrelsen delar bedömningen att miljökvalitetsnormer
+(MKN) för buller, vatten samt fisk- och musselvatten hålls. Kommunen noterar
+vidare att Länsstyrelsen saknar en beskrivning av bakgrunden till bedömningen
+av att MKN för luft inte påverkas. Motivet till bedömningen att MKN luft inte
+behöver beräknas specifikt för planområdet är att en genomgång av utredningar
+om luftkvalité i centrala delar av Varberg med stora trafikvolymer, upprepade
+gånger visat att luftkvalitén inte överstiger gränsvärden för MKN luft. Eftersom
+trafikbelastningen i Väröbacka är mycket lägre, samtidigt som bebyggelsen inte är
+lika sluten, bedöms det inte finnas anledning att misstänka att det föreligger risk
+för MKN luft i Väröbacka. Ett förtydligat resonemang kring detta kommer tillföras
+MKB för granskningsförslaget av FÖP.
+
+Strandskydd
+I de områden som FÖP:en tillåter planläggning för bostadsändamål inom
+strandskyddat område är kommunen medveten om att detta kräver att
+länsstyrelsen beviljar en dispens från strandskyddet. Frågan avser en väldigt
+begränsad del av planområdet.
+
+Hälsa säkerhet eller risken för olyckor, översvämning eller
+erosion
+
+Farligt gods
+Risk i relation till farligt gods är en viktig fråga för FÖP:en. Kommunen har
+försökt att, som Länsstyrelsen noterat, hantera farligt gods på ett övergripande
+sätt i området och inte enbart utifrån utpekade primärleder för farligt gods.
+Länsstyrelsen efterfrågar fördjupade kvantitativa eller kvalitativa bedömningar
+avseende planförslagets samhällsrisk utifrån de transporter av farligt gods som
+färdas genom området. Länsstyrelsen anser även att en analys av kumulativa
+
+18                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 125 -->
+
+effekter från farligt gods på fler än en väg eller järnväg intill varandra behöver
+tillkomma för att kunna bedöma risken för människors hälsa och säkerhet eller
+risken för olyckor, översvämning och erosion. Enligt den riskutredning som tagits
+fram inom ramen för översiktsplanen görs bedömningen att samhällsrisken bör
+vara låg. Det är en slutsats som dras utifrån beräknad individrisk, vilken är direkt
+kopplad till uppskattade transporterade mängder och en översiktlig bedömning av
+bebyggelsen. Fördjupade riskanalyser och beräkningar av samhällsrisken kommer
+att göras i samband detaljplaneskedet då en mer detaljerad information om
+bebyggelsen finns framme.
+Avseende kumulativa risker från farligt gods på flera vägar och/eller järnväg så
+gör riskutredningen bedömningen att Västkustbanan med bred marginal är den
+dimensionerande riskkällan för området när det gäller transporter av farligt gods,
+eftersom beräkningar av individrisken för samtliga vägar visar på låga
+risknivåer. Det transporteras mer än en faktor 10 fler transporter på
+Västkustbanan jämfört med den mest trafikerade vägen, vilket innebär att
+risknivåerna och skyddsåtgärderna är helt beroende av risknivån från
+Västkustbanan. Behov av fördjupade analyser avseende kumulativa risker
+fastställs och genomförs vid behov i senare planeringsskeden.
+
+Avseende lokalisering av samhällsservice i relation till infrastruktur i Väröbacka
+föreligger ett flertal avvägningar i givna lokaliseringar. Närhet och tillgänglighet
+är centrala begrepp i arbetet med att underlätta för hållbara livsstilsval och fysisk
+aktivitet, vilka ligger till grund för Väröbackas strukturskiss och
+markanvändningskarta. De lägen för vårdboenden som fanns utpekade i
+samrådsförslaget, ett mellan Västkustbanan och Varbergsvägen och det andra
+utmed Syllingevägen, har strukits ur förslaget. Behovet av ett nytt vårdboende i
+Väröbacka är ännu okänt och bedömningen är att vårdboende inryms inom
+mångfunktionell bebyggelse vilket gör planen mer flexibel och realistisk. Skola (i
+samrådet tre alternativa placeringar) och förskola (tidigare intill
+Väröbackaskolan) förläggs i ett gemensamt läge nordost om Väröbacka centrum.
+Området får markanvändningen kommunal service vilket möjliggör flera olika
+användningar. Platsen är skyddad mot buller och risk samtidigt som den ligger
+centralt på orten, inom 1000 meter från stationen och kommunen har rådighet
+över marken.
+
+Översvämning, stigande hav, höga flöden och skyfall
+Vid en extremhändelse med höga havsnivåer, dvs. en högvattenhändelse, finns det
+risk att befintliga underfarter under järnvägen översvämmas, vilket kan påverka
+framkomligheten för räddningstjänst samt evakueringsvägar från Värö. När
+område B13 byggs ut så förbättras framkomligheten avsevärt då även de
+nordvästra delarna av planområdet får tillgång till broförbindelsen vid
+Industrivägen. Vägen kommer att höjdsättas för att klara höga vatten. Ny gång-
+och cykelförbindelse i förlängningen av Gamla Buavägen kommer även den öka
+tillgängligheten, även om samordnad eller kollektiv förbindelse från den högre
+belägna östra sidan behöver ordnas för transport från Väröbacka. Däremot finns
+utsatta delar av det statliga vägnätet utmed såväl Buavägen som Backavägen och
+i synnerhet Videbergsvägen i Bua. Dessa vägsträckor är synnerligen viktiga att
+analysera i relation till evakueringsvägar från Ringhals.
+
+Planförslaget har justerats så att inga nya områden för känslig markanvändning
+föreslås under den av kommunen definierade lägstanivån för grundläggning om
++3,12 meter över havet. Däremot finns förslag på tillkommande verksamhetsmark
+inom låglänta områden, men även dessa områden har reducerats i omfattning.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            19
+
+<!-- sida 126 -->
+
+Kvarvarande område omfattas huvudsakligen av redan pågående detaljplanering,
+vilken blir skyldig att hantera och säkra en säker markanvändning.
+Inom befintlig privat bebyggelse har den enskilda fastighetsägaren ett
+långtgående ansvar för att hantera extrema väderhändelser inom den egna
+fastigheten. Däremot kommer tillkommande bebyggelseområdena och ökade
+hårdgjorda ytor att behöva kompenseras genom ökad dimensionering i
+dagvattennätet och/eller ytor avsedda för fördröjning och infiltration av
+skyfallsvatten. Detta beskrivs i avsnittet ”Energi och teknisk försörjning” under
+Ställningstaganden och hänsyn, där det förutsätts att lågpunkter som hårdgörs
+kommer att hanteras i detaljplaneskede, primärt genom åtgärder avseende nya
+fördröjnings- eller magasineringsytor.
+
+Planen har förtydligats i avsnittet ”Klimatpåverkan och klimatanpassning” med
+att eventuella åtgärder för att skydda befintlig bebyggelse inom riskområden
+behöver hanteras i en långsiktig plan, vilken kommunen arbetar med parallellt
+med den fördjupade översiktsplanen.
+
+Ringhals
+Kommunen kommer fortsätta att delta i och bidra till arbetet med
+beredskapsplanering för utrymning av Ringhals.
+
+God bebyggd miljö – kulturmiljö
+Kommunen uppskattar att länsstyrelsen ser den integrerade
+landskapskaraktärsanalysen (ILKA:n) och kulturmiljöutredningar som goda
+underlag för planläggningen. Avseende vilka skydd utpekade byggnader och
+miljöer ska ha framöver har kommunen valt att definiera det i kommande
+detaljplaneskede, för att på ett bättre sätt möta fastighetsägare och deras behov
+avseende fortsatt jordbruksverksamhet eller omvandling till bostadshus, då det
+inverkar på typ av skydd.
+
+Kommunen kommer förtydliga kopplingen mellan enskilda utbyggnadsområden
+och de siktlinjer som FÖP:en har identifierat som primära att värna över tid.
+Siktlinjerna värnas genom att inte tillåta bebyggelsens fotavtryck att ligga inom
+detta område, medan friyta på tomtmark kan vara aktuellt i det visuella stråket.
+Det stationsnära läget innebär att argumenten för att etablera bebyggelse mellan
+Varbergsvägen och Backa by bedöms vara starka utifrån ett
+hållbarhetsperspektiv. Avseende bebyggelsestruktur är denna även avhäng
+hantering av bullerutbredning genom att sluta bebyggelse. Ett flertal gröna
+kulturmiljöer lyfts fram och uppmärksammas i planförslaget.
+
+Kommunen är införstådd med att länsstyrelsen kan komma att ställa krav på att
+arkeologisk utredning behöver tas fram i samband med kommande
+detaljplanläggning, och kommer införa potentiella fornlämningsområden som ett
+kompletterande skikt i FÖP:en.
+
+God bebyggd miljö – grön infrastruktur och naturvärden
+De stora intrastrukturstråken innebär en tydlig barriäreffekt för såväl människor
+som djur. De grönstråk som föreslås i planförslaget kommer innebära
+förbättringar i detta hänseende, där särskilt längsgående trädplantering innebär
+en höjd krontäckning, förbättrade förutsättningar för fågellivet samt att det idag i
+stor utsträckning monofunktionella jordbrukslandskapet kompletteras med nya
+ekosystem. Fördjupad analys och hantering av ekosystemtjänster och naturvärden
+görs i detaljplanen.
+
+20                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 127 -->
+
+God bebyggd miljö – farliga verksamheter
+Det har aldrig varit aktuellt att anlägga nya Sevesoanläggningar i området, och
+bedömningen är att nya verksamheter inte får ha negativ inverkan på
+stationssamhällets attraktivitet för bostadsändamål och rekreation.
+Planhandlingarna kompletteras med kartskikt över befintliga Sevesoanläggningar
+i närområdet samt text om att Sevesoanläggningar inte är lämpliga inom
+planområdet.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            21
+
+<!-- sida 128 -->
+
+Övriga  statliga  och  regionala   organ
+
+Trafikverket
+
+Tidigare samråd
+Sedan år 2015 har Trafikverket diskuterat etablering av en ny järnvägsstation vid
+Väröbacka längs Västkustbanan. Som del av tidigt samråd har Trafikverket tagit
+fram en funktionsutredning (FU) (TRV 2018/70013 och TRV 2020/86444) och AKJ
+för att fastställa krav kring en framtid järnvägsetablering samt utreda möjligheter
+inom området. (TRV 2020/86441)
+
+År 2021 avslutade Trafikverket ÅVS väg 850 Bua – Veddige och väg 845 i
+Väröbacka. Syftet med åtgärdsvalsstudien var att visa vilka befintliga brister väg 850
+och väg 845 har och vilken trafikutveckling vägarna klarar, detta för att klargöra och
+förtydliga vilka åtgärder kommunen behöver utreda och ansvara för utifrån
+kommunens planerade exploatering på Väröhalvön. De föreslagna åtgärderna är
+främst ett stort antal steg 1-2- åtgärder som rekommenderas på kort sikt. Det är t ex
+trafiksäkerhetskameror (ATK), bättre skyltning och tydligare trafikledning. Ett
+förslag till ombyggnad av trafikplats Limabacka rekommenderas på lång sikt.
+Det var noterat att vid Trafikplats Limabacka ”kapaciteten på lång sikt behöver
+utredas, särskilt med tanke på kommunens planerade exploatering”(s.32). ÅVS:n
+utredde olika scenario som visar att föreslagen exploatering i Väröbacka kan skapa
+köbildning och överbelastning vid Trafikplats Sunvära (E6/850). (TRV
+2020/36183)
+
+Infrastruktur
+Västkustbanan är utpekad som riksintresse i enlighet med § 3:8 Miljöbalken och
+primärstråk för farligt gods. Västkustbanan är av internationell betydelse och ingår i
+det utpekade Trans European Transport Network, TEN-T nätet. Banan ingår även i
+det utpekade strategiska godsnätet.
+
+Vägar 845 och 850 är inte utpekad som riksintresse i enlighet med § 3:8
+Miljöbalken, men är utpekat som primär väg för farligt gods samt ingår i det
+funktionellt prioriterat vägnät. Vid planering av bostäder eller verksamheter som
+innebär ökad trafik på en funktionellt prioriterad väg är det extra viktigt att se till att
+tillgängligheten utmed vägen inte påverkas negativt, exempelvis vid nya och
+befintliga anslutningar till funktionellt prioriterad väg.
+
+Väg 845 och väg 850 öster om väg 845 är utpekade som omledningsvägar för väg
+E6/20 och ingår i vägnätet för utrymning av Ringhals.
+
+Strax norr om korsning med väg 850 har väg 845 har en skyltad hastighet på 80
+km/tim och trafikmätning från 2016 visar 4877 fordon per dygn, varav 320 lastbilar.
+Strax öster om korsning med väg 845 har väg 850 har en skyltad hastighet på 80
+km/tim och trafikmätning från 2016 visar 2359 fordon per dygn, varav 377 lastbilar.
+
+Trafikverkets generella synpunkter
+
+Hållbart resande
+Det är väldigt positiv att det står att ”hållbara transportsätt ska prioriteras” som en
+första prioritet (s.44).
+
+22                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 129 -->
+
+För att nå de nationella målen kring hållbara transporter och minskad
+klimatpåverkan är det angeläget att ta hänsyn till bebyggelsestrukturens påverkan
+på transportbehovet och val av transportsätt. Ett transportsnålt samhälle ger många
+fördelar och trafiken bör av flera skäl minska. Transportsnålhet och
+energieffektivitet bör prägla all samhällsplanering. Det övergripande målet är att
+säkerställa en samhällsekonomiskt effektiv och långsiktigt hållbar
+transportförsörjning för medborgare och näringsliv i hela landet.
+Järnvägens stationsetablering
+
+Trafikverket anser att, under förutsättningen att restidskvoten längs Västkustbanan
+inte försämras, det är positiv att etablera en ny järnvägsstation för att underlätta
+kollektiv-trafikresor inom kommunen.
+Trafikverket noterar att Region Halland har tagit fram fem kriterier för etablering av
+nya stationer i Trafikförsörjningsprogram 2020-2024:
+
+•  Kriterie 1: Restiden med tåg får inte öka mellan befintliga stationer i
+snabbtågs- och Öresundstågssystemet.
+•  Kriterie 2: Nettoresandet på aktuell bana ska öka, dvs man ska vinna fler
+resenärer än man förlorar. Även framtida utveckling ska beaktas.
+•  Kriterie 3: Tågtrafikens kostnadseffektivitet ska beaktas och
+kostnadstäckningsgraden ska vara minst 30%.
+•  Kriterie 4: Infrastrukturens kostnadseffektivitet ska beaktas, dvs
+investeringskostnaden i kapacitetsförstärkt järnväg och stationer
+ska vägas mot resandetillskottet.
+•  Kriterie 5: Region Halland och berörd kommun ska tillsammans ta
+fram en avsiktsförklaring där kommunen förbinder sig till att
+utveckla orten genom ökad attraktivitet och en aktiv kommunal
+planering för att säkerställa och bygga upp ytterligare
+resandeunderlag.
+
+FÖP:n är ett bra underlag för att uppfylla kriterier 5 för att bygga upp
+resandeunderlaget. Kommunen måste vara medveten om alla fem kriterier bör
+uppnås.
+Passager över Västkustbanan
+
+Trafikverket välkomnar kommunens ambition att anlägga ”en ny planskild passage
+av järnvägen som görs snabb och gen, trygg och attraktiv för fotgängare och
+cyklister.” (s.43).
+Planerade resecentrum
+
+Trafikverket välkomnar att ”resecentrum utvecklas med ny tågstation och tillhörande
+funktioner som stationshus, kommersiell service, kollektivtrafikhållplatser och
+pendelparkering.” (s.46).
+
+Trafikflöde
+Det är svårt att verifiera vissa antaganden gällande trafikgenerering och -fördelning
+till och från planerade exploateringsområden i det här tidiga skedet (FÖP).
+Redovisad maxtimme som har använts i beräkningsprogrammet återspeglar inte
+verkligheten. Flera scenarier behöver studeras med hjälp av b la
+känslighetsanalyser.
+Capcal programversion 4.6 som har använt har inte beaktat den femte anslutningen
+till stationen. Programmet lämpar sig inte i sådana tidiga skeden heller eftersom
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            23
+
+<!-- sida 130 -->
+
+timtrafikmängd är svårt att bedöma. Programmet har svårt att beräkna cirkulationer
+med mer än anslutningar (ben) med tillfredande resultat. Samma problem har
+programmet att beräkna kapacitet när GC-passager ligger i plan vilket verkar vara
+fallet på skissförslaget, två gånger över väg 850 och 845 och en gång över infarten
+till stationen.
+Med tanke på exploatering nordöst om förslagen cirkulationsplats kommer
+anslutning till det exploateringsområdet att hamna inom cirka 100 m från östra
+benet på väg 850. Detta medför att effekt av denna anslutning på
+cirkulationsplatsens kapacitet också behöver studeras. Programmet kan inte göra
+det eftersom det klarar en korsning i taget.
+
+Nu finns programversion 4.8 och en ny version är på väg och det är viktigt att alltid
+använda den senaste versionen eftersom programmet inte är färdigt utvecklat och
+dess brister korrigeras hela tiden med förhoppning att resultat kan bli mer pålitliga
+någon gång.
+
+Trafikutredningen har mer fokuserat på en cirkulationsplats. Den borde ha beaktat
+andra alternativ eller en kombination av dessa alternativ. Man kunde exempelvis ta
+tillvara den befintliga planskildhet som redan finns och ombygga befintliga
+korsningar på väg 850 (på ömse sidor av väg 845) till korsningstyper med bättre
+kapacitet. Härvid kan också cirkulationsplatser vara en option att analysera.
+
+Funktionen av väg 845 genom tätorten
+Väg 845 är en omledningsväg av väg E6/20 och därför kommer en försämring av
+framkomlighet och trafiksäkerhet att vara en indirekt skada på ett utpekat
+riksintresse för kommunikationer. Kommunen måste därför säkerställa att
+kapaciteten längs väg 845 och delar av väg 850 klarar framtidens trafikflöde med
+god marginal.
+
+Trafikverket noterar att kommunen har för ambitionen att ”Varbergsvägen går från
+att vara en landsväg till att bli en mer stadsmässig gata till karaktären och
+fungerar som plats för sociala möten, aktiviteter, kommersiell och offentlig
+service.” Funktionen av väg 845 kvarstår och är inte lämpad för att bli en stadsgata
+och Verket välkomna att kommunen anser detta ”Mål och krav kopplade till
+Varbergsvägens roll som omledningsväg för E6:an ska bibehållas”(s.44).
+Trafikverket strävar efter att begränsa antalet anslutningar till allmänna vägar.
+Enskilda fastigheter bör om möjligt dela på samma utfart. Restriktivitet råder mot
+nya anslutningar längs statliga vägar.
+
+Föreslagna vägåtgärder
+Trafikverket noterar att kommunen har pekat ut ett antal korsningsåtgärder längs
+statliga vägar. Fortsatt samråd krävs för samtliga utpekade korsningsåtgärder med
+underlag som visar alternativ av olika förslag och hur de kan påverkar
+framkomlighet, vägens kapacitet samt trafiksäkerheten för alla trafikanter.
+
+Trafikverket vill framhålla att åtgärder som påkallas på det allmänna transportnätet
+som en konsekvens av kommunal planering, ska utredas, projekteras och finansieras
+av kommunen i samråd med Trafikverket som beslutar i frågorna.
+
+Ringhals kärnkraftverk
+Transporter är en av flera samhällsviktiga verksamheter som behöver fungera även i
+allvarlig kris. Trafikverket är en beredskapsmyndighet vilket innebär att
+myndigheten har särskild betydelse för samhällets krisberedskap och totalförsvar.
+
+24                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 131 -->
+
+Vid allvarlig kris tillkommer uppgifter som att samordna infrastruktur. Det ställer
+bland annat krav på vår förmåga och att samverka andra samhällsaktörer som till
+exempel myndigheter, branschorganisationer och näringsliv.
+Närmast Ringhals kärnkraftverket finns en inre beredskapszon som sträcker sig
+ungefär 5 kilometer ut från kärnkraftverket. Vid en händelse krävs det att invånare
+och verksamma lämnar området och specialister tar sig ut till Ringhals. Trafikverkets
+uppgift blir bland annat att hantera, leda och styra och ge trafikinformation vid
+utrymning.
+
+Trafikverket är medveten att kommunen planerar att exploatera inom denna
+beredskapszon och det ställer krav på att utbyggnaden måste ta hänsyn till
+Länsstyrelsens utrymningsplan vid händelse. Vid en ökad befolkning ökar som
+planförslaget medger kommer behovet att utrymma ökar. Etablering av en
+järnvägsstation kommer att skapa en viss kapacitet dock en stor del av evakuering
+kommer att ske längs statliga vägar.
+
+Det statliga vägnätet inom den inre beredskapszonen bör utvecklas i motsvarande
+takt som utbyggnaden av Bua samhälle och järnvägsstationen i Väröbacka. Detta i
+syfte att skapa robusthet och möjliggöra skyndsam utrymning med hänsyn tagen till
+befolkningsökningen. Kommunen har ett ansvar att vidmakthålla befintliga
+kapacitet i väganläggningen samt att planera det nya samhället på ett sätt som
+gynnar utrymning.
+
+Trafikverket i Väst driver just nu en arbetsgrupp som ska uppdatera Trafikverkets
+ingångsvärden till Länsstyrelsens Delplan Utrymning. Det är inte en utredning i sig,
+utan mer en kontrollfunktion mot gällande plan. Trafikverket kommer dock föreslå
+åtgärder för att just möjliggöra skyndsam utrymning. Dom åtgärderna kommer
+behöva tas om hand om på något sätt lite längre fram.
+GC vägar
+
+Trafikverket välkomnar kommunens ambition med att ”kompletterande gång- och
+cykelvägar” inom planområdet samt till Värö järnvägsstation.
+
+Kattegattleden
+Kattegattleden är en 390 kilometer cykelled som sträcker sig längs kusten från
+Helsingborg till Göteborg som passera genom planområdet. Kommunen måste
+säkerställa att exploatering inte försämra framkomlighet och trafiksäkerhet längs
+Kattegattleden.
+
+Stationens utformning
+Det är positivt att kommunen planerar för alla trafikanter vid den föreslagen
+järnvägsstationen.
+
+Problemet med parkering nära järnvägen är att det finns risk att bilarna skadas i
+lacken exempelvis av partiklar från inbromsande tåg. Det finns även risk för fallande
+last, snö och is från passerande tåg. Banverket anser därför att parkeringsplatser
+bör anläggas minst 15 meter från järnvägen (spårmitt på närmaste spår). Ett längre
+avstånd eller någon form av skydd kan behövas vid högtrafikerade banor och om
+tågen bromsar in vid den aktuella platsen. Körytan inom parkeringsområdet kan
+anläggas 9 meter från spårmitt.
+För uppförande av parkeringshus och parkeringsdäck gäller generellt ett avstånd av
+minst 30 meter från järnvägen. Mindre garage och carportar kan anläggas närmare
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            25
+
+<!-- sida 132 -->
+
+järnvägen, ett avstånd om minst 15 meter rekommenderas dock för att klara
+uppförande samt framtida underhåll.
+Bullerstörning
+
+Vid nybyggnad är det exploatören eller fastighetsägaren som ansvarar för att de av
+riksdagen fastställda riktvärdena enligt förordning (2015:216) om trafikbuller vid
+bostadsbyggnader inte överskrids. Man bör beakta bullerstörning inom 350 meter
+från bullerkällan (väg och järnväg).
+Enligt Trafikverkets krav för Buller och vibrationer vid planering av bebyggelse
+
+(TDOK 2017:0686) som gäller från 2018-02-01 har skolgården och vårdenheter
+särskilda krav:
+
+Det är positiv att kommunen anser att ”byggnation av bostäder inom utbyggnads-
+områden som angränsar till järnvägen förutsätter uppförande av bullerskärm eller
+vall samt byggnation med tyst sida enligt trafikbullerförordningens riktvärden.
+Lösningar studeras i senare planskede”(s.55).
+
+Vibrationer
+Vid byggnation i närheten av stora trafikled, 350 meter ifrån både väg och järnväg, är
+det viktigt att tillse att riktvärden för vibrationer inte överstigs. I utrymmen där
+människor stadigvarande vistas ska 0,4 mm/s vägd RMS inte överstigas enligt
+Trafikverket och Boverket (TDOK 2014:1021).
+
+Geoteknik
+Trafikverket förutsätter att det i det fortsatta plan- och projekteringsarbetet
+säkerställs att den tillkommande bebyggelsen inte medför sättningar,
+stabilitetsförändringar eller liknande som kan komma att påverka
+järnvägsanläggningen samt statliga vägar.
+
+Dagvattenhantering
+Trafikverket är medveten att med förändringar i klimaten krävs det ökat hantering
+av dagvatten vid statliga anläggningar. Kommunen måste se till att dagvatten inte
+påverkar väg- och järnvägsområdets dike på något sätt. Statliga diken är endast till
+för transportinfrastrukturens avvattning och Trafikverket tar inte emot vatten från
+andra verksamheter.
+
+Riskhantering
+Enligt Länsstyrelsens policy skall risker från farligt gods beaktas för nyetableringar
+inom 150 m från primärstråk för farligt gods. Trafikverket anser att
+
+26                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 133 -->
+
+Räddningstjänstens eventuella synpunkter på lokalisering och utformning ska
+inhämtas och beaktas.
+Klimatanpassning
+
+Att ett förändrat klimat är med i planförslaget är riktigt positiv. Trafikverket ser
+fram emot att fortsätta samråd om hur samhällsplaneringen kan bidra med att
+minska effekter inom planområdet.
+
+Alternativa användningar
+Kommunikationsstråket
+Det är positivt att ”stråken utformas och prioriteras för hållbara transporter”.
+
+Lägen för ny skola
+Trafikverket anser att läge S3 är mer lämplig än läge S4. Väg 853 har lägre
+trafikbelastning än väg 845 vilket påverkar möjligheten att arbeta med såväl buller
+som trafiksäkerhet.
+
+S6 har några av samma fördelar av S3 men är bredvid en större trafikflöde men en
+större antal av tunga fordon.
+
+Läge C4 kan visa sig vara lämplig för skolområdet men är i ett buller- och
+vibrationsutsatt läge bredvid en trafikerad väg som kommer kräva åtgärder för att
+säkerställa skolbarns säkerhet.
+
+S5 var mål för en ny förskola för minst 160 barn som var ut på granskning år 2022
+och antog år 2023. Trafikverket hade synpunkter om trafikutredningen och
+bullerstörning men hade inget annat att erinra mot planförslaget. (TRV
+2022/77992)
+För att säkerställa att trafiksäkerlösningar för alla oskyddade trafikanter måste
+kommunen leverera GC förbindelser från hela skolans upptagningsområde.
+
+Lägen för nytt särskilt boende (SÄBO)
+Med läge VÅ1 bredvid Västkustbanan är det större risk för buller- och
+vibrationstörning samt risk från farligt gods längs Västkustbanan än läge VÅ2.
+
+Utpekade områden
+Bostadsområden - B1, B3, B9, B11, B13, B15, B16, B17, B18 och
+B21
+Fastigheterna är i ett buller- och vibrationsutsatt lägen. Bebyggelsen behöver klara
+bullerförordningar (SFS 2015:216). Vid nybyggnad är det exploatören eller
+fastighetsägaren som ansvarar för att de av riksdagen fastställda riktvärdena enligt
+förordning (2015:216) om trafikbuller vid bostadsbyggnader inte överskrids.
+
+Trafikverket strävar efter att begränsa antalet anslutningar till allmänna vägar.
+Restriktivitet råder mot nya anslutningar längs statliga vägar.
+
+Centrumverksamhet – C1, C2, C3, C5, C6, C7, C8 och C9
+Fastigheterna är i ett buller- och vibrationsutsatt läge.
+
+För områdena C5, C6, C7 och C9 skulle det värdefull att planera för verksamheter
+som gynna resor med kollektivtrafik och tar del av de strategiska möjligheter som
+lokalisering kring stationen kan erbjuda.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            27
+
+<!-- sida 134 -->
+
+Vårdboende – VÅ1 och VÅ2
+Fastigheterna är i ett buller- och vibrationsutsatt lägen.
+
+Verksamheter – V2, V3 och V4
+Det är positivt att lokalisera verksamheter kring den befintligt industrispår som
+ansluter utmed Västkustbanan och vidare till Varbergs hamn och övrigt i Sverige.
+
+Korsningsåtgärd
+Trafikverket noterar att kommunen har pekat ut sju korsningsåtgärder. Fortsatt
+samråd krävs för samtliga utpekade korsningsåtgärder med underlag som visar
+alternativ av olika förslag och hur de kan påverkar framkomlighet, vägens kapacitet
+samt trafiksäkerheten för alla trafikanter.
+
+Resecentrum
+Det är oerhört positivt att kommunen anser att ”platsen uppmuntrar till gång-,
+cykel- och kollektivtrafikresor [och] Tågstationen och dess funktioner integreras
+med centrumbebyggelsen runt omkring.”
+
+Gång och cykelåtgärder
+Att anlägga sex nya gång och cykelvägar inom Väröbacka kommer att vara värdefull
+för att nå kommunens ambition med planen att hållbara transportsätt ska
+prioriteras.
+
+Nya passager längs Västkustbanan kommer att minska barriäreffekten inom
+samhället.
+
+Väg - VÄ1, VÄ2 och VÄ3
+För VÄ1, VÄ2 och VÄ3 är väg 845 en omledningsväg för väg E6/20 och måste behålla
+framkomlighet och trafiksäkerhet.
+
+Trafikverket välkomnar VÄ19 som kan fungera som parallellvägen till väg 845. Med
+etablering av VÄ21 ska körytan anläggas minst 9 meter från spårmitt.
+Kommunen bör överväga att samlokalisera VÄ24, VÄ25 VÄ28, VÄ30, VÄ37 och
+VÄ44 med befintliga väganslutningar. Restriktivitet råder mot nya anslutningar
+längs statliga vägar.
+
+För att anlägga VÄ37 och VÄ37 krävs en vägåtgärd som klara VGU krav.
+
+Övrigt
+
+Trafikverket noterar att planförslaget stämmer med gällande översiktsplanen för
+Varbergs kommun.
+
+Kommunens kommentarer
+Kommunen ser positivt på att Trafikverket delar kommunens strävan mot en
+bebyggelsestruktur som verkar för ett transportsnålt samhälle och därmed ger
+förutsättningar för en minskad klimatpåverkan. Kommunen och Trafikverket
+arbetar tillsammans med utvecklingen av en ny station i Väröbacka, vilken kan
+accelerera omställningen till kollektivt resande även utanför stadsområdet. Vi ser
+stationssamhället i Väröbacka som en viktig pusselbit i att nå Region Hallands
+samtliga mål för etablering av nya stationer, förutom det om restid för snabbtåg
+som behöver säkras genom tidtabellsutformning, vilket ligger utanför kommunens
+rådighet. Att Trafikverket uppmanar kommunen att följa Region Hallands direktiv
+
+28                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 135 -->
+
+för ny station förutsätter i sig en förtätning och samhällsutveckling som stöttar
+resandeunderlaget vid stationen. Det ställer krav på att Trafikverket och
+kommunen gemensamt hittar bra lösningar för hållbar samhällsutveckling med
+hållbara trafikslag i förgrunden, även om det innebär utmaningar avseende
+trafikalstring, korsningspunkter mellan olika transportslag m.m.
+Stationssamhällets utveckling, tillsammans med anslutningar till angränsande
+orter, skapar goda förutsättningar för att öka attraktiviteten, nettoresandet på
+järnvägen och kommer därmed bidra till en mer samhällsekonomisk uppsida för
+infrastrukturinvesteringen.
+Trafikutredning
+
+Trafikutredningen för FÖP Väröbacka kommer att uppdateras i och med att det
+gjorts förändringar i planförslaget. Trafikprognosen, som är framtagen med hjälp
+av Trafikverkets trafikalstringsverktyg, visar att utbyggnaden av Väröbacka fram
+till år 2050 innebär en kraftig ökning av trafikrörelser i samhället. Samtidigt finns
+stora osäkerheter kring beräkningsmodellens utfall över tid, där planens strävan
+är att öka andelen hållbara transporter mer än vad modellen ger utrymme för.
+Den mest belastade korsningen i området är den mellan väg 845 och 850.
+Åtgärder i korsningen kommer att behöva göras för att skapa ett stationsnära
+samhälle med god framkomlighet och säkra passager för alla trafikanter, även de
+oskyddade. I samrådsförslaget föreslogs en cirkulationsplats i KÅ1. I
+granskningshandlingarna beskriver KÅ1 i stället att åtgärder kommer att behövas
+enligt ovan, men att exakta lösningar får studeras mer detaljerat i framtida
+planeringsskeden. I det fortsatta arbetet med utvecklingen av Väröbacka behöver
+kommunen och Trafikverket tillsammans komma överens om gemensamma
+ramar och scenarier för den fortsatta planeringen, så att båda parter strävar mot
+samma mål.
+
+Funktionellt prioriterad väg
+Varbergsvägen utgör funktionellt prioriterad väg för dagliga personresor samt
+för kollektivtrafik. Att framkomligheten kommer att stärkas avseende framför allt
+kollektivtrafiken, men även avseende dagliga personresor, i generell bemärkelse
+är tydligt då detta är kärnan för hela planförslaget. Däremot vill kommunen
+betona att Varbergsvägen inte är primärled för farligt gods, utan enbart
+omledningsväg för primärled utmed E6:an. Detta är en viktig distinktion av
+central betydelse för planeringen av Väröbacka. Den riskutredning som tagits
+fram för planförslaget har beräknat risken utifrån just denna omledningsfunktion,
+utifrån ett beräknat intervall som Varbergsvägen kan bli aktuell som
+omledningsväg för E6. Syllingevägen och del av Industrivägen utgör funktionellt
+prioriterad väg för godstransporter, och trafikeras även av en högre andel farligt
+godstransporter trots att det inte är primärled för farligt gods. Detta är något
+planförslaget tar hänsyn till. Det är svårt att hitta krav och riktlinjer runt
+hantering av omledningsvägar för riksintressen. Kommunen vill gärna ta del av
+dokumentation runt detta så vi kan förhålla oss till krav och riktlinjer i vår
+planering.
+
+Varbergsvägen
+Varbergsvägen ska enligt planförslaget få en ny karaktär, men framkomligheten
+för såväl tunga fordon som traktorer ska bibehållas. För att upprätthålla
+bibehållen framkomlighet och trafiksäkerhet för Varbergsvägen, i enlighet med
+vägens funktion som omledningsväg för E6, finns följande krav:
+
+•  Två lastbilar ska kunna mötas
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            29
+
+<!-- sida 136 -->
+
+•  Ytterligare korsningar och/eller passager ska undvikas.
+För planförslaget innebär detta sammanfattningsvis att vägen ska gestaltas,
+programmeras och hastighetsregleras för ett lugnare körsätt än idag, men
+kommer likt idag att klara av tillfälligt större trafikvolymer. Dagens vägbredder
+behålls och separerade gång- och cykelvägar förespråkas. Kommunen vill också
+vara tydlig med att dagens antal korsningspunkter kommer vara viktiga att värna
+för att skapa framkomlighet och närhet i framtidens Väröbacka. Grundprincipen
+är att enskilda anslutningar ska minimeras men att nya anslutningar är en
+naturlig del av utvecklingen av en ort. De anslutningar som byggs längs väg 845
+kommer detaljstuderas i samband med detaljplanering och ska vara trafiksäkra.
+Där det förekommer höga trafikflöden ska fyrvägskorsningar undvikas. Exakt hur
+korsningar och passager utformas behöver studeras vidare i den efterföljande
+detaljplaneringen längs Varbergsvägen, i nära dialog med Trafikverket.
+
+Korsningsåtgärder
+
+FÖP:en pekar ut ett flertal potentiella väg- och korsningsåtgärder. Kommunen
+kommer samråda kommande mer detaljerade förslag för stationsområdet
+tillsammans med Trafikverket i kommande planskeden. Kommunen noterar att
+Trafikverket har synpunkter på avstånd mellan Västkustbanan och intilliggande
+funktioner och infrastruktur. Dessa frågor hanteras i kommande planskeden.
+Avseende föreslagna korsningsåtgärder så är dessa väldigt olika i karaktär och
+process, där ett flertal kan komma att bli aktuella först på lång sikt. Där
+korsningsåtgärder föreslås utmed statlig väl kommer förslag att utvecklas
+tillsammans med Trafikverket.
+Beredskap
+
+Omvärldsläget och klimatkrisen utgör grund för att beredskap och planering för
+krissituationer blivit alltmer aktuellt. Kommunen ser att planförslaget i sig har
+positiv inverkan på evakueringsvägar lokalt då de nordvästra delarna idag har
+begränsade utrymningsmöjligheter vid höga vatten, något som föreslagen
+infrastruktur (genom exempelvis VÄ19) kan förbättra. Utöver detta är kommunen
+väl medvetna om det ansvar som åligger länsstyrelsen, och där Trafikverket och
+kommunen medverkar med evakueringsplan vid olycka vid Ringhals. Kommunen
+bistår länsstyrelsen och Trafikverket med underlag och analys kopplad till
+beredskapsplaneringen samt för kommunens räkning avseende aktuellt
+planförslag. En utmaning som identifierats på Väröhalvön är höjdsättningen på
+vägen som i synnerhet vid Bua ligger lågt och därmed är känslig för höga
+havsnivåer och kraftiga skyfall. Samarbetet mellan länsstyrelsen, Trafikverket och
+kommunen är viktigt för att säkra framkomlighet, ansvarsområden och
+krisberedskap, och leds av länsstyrelsen.
+Kattegattleden
+
+Andelen separat gång- och cykelbana ska enligt planförslaget öka markant i
+Väröbacka jämfört med idag. Utmed vägsträckan Åsklostervägen–Varbergsvägen
+finns idag separat gång- och cykelbana söder om den tunnel i vilken
+Kattegattledan passerar under järnvägen i södra planområdet idag.
+Huvudinriktningen i planförslaget är att ny separat gång- och cykelbana ska
+etableras även utmed resterande sträcka av Åsklostervägen upp till stationen.
+Tidplan och finansiering för detta är dock inte satt. Till dess att Trafikverket väljer
+att stänga tunneln finns ingenting i planförslaget som förhindrar Kattegattleden
+att bibehålla sin befintliga dragning. Om tunneln stänger kan leden behöva gå i
+blandtrafik upp till Industrivägen, fram till dess att lösning för ny separat gång-
+och cykelbana funnits mellan kommunen och Trafikverket då 845:an ingår i
+
+30                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 137 -->
+
+statligt vägnät. Ny anslutning intill stationen skulle innebära en stärkt
+tillgänglighet för turism med tåg och cykel.
+Stationsområdet
+
+Kommunen kommer i fortsatt planering följa de krav och riktlinjer som finns av
+placering av byggnader och anläggningar i närhet av en järnvägsanläggning.
+
+Buller och störning
+Att verka för en samlad bebyggelse i stationsnära läge som ger goda
+förutsättningar för hållbart resande, innebär inte sällan att bebyggelse uppförs i
+bullerutsatta lägen. Modern byggteknik möjliggör för stor bullerdämpning mellan
+utemiljön och inomhusmiljön, samtidigt som bebyggelsestrukturen i sig kan
+optimeras för att begränsa bullerutredningen i lokalsamhället. Det sistnämnda
+motiverar att planförslaget delvis möjliggör för byggnation i mer bullerutsatta
+lägen, för att samhället som helhet ska kunna byggas stationsnära utan att vara
+för bullerutsatt. Kommunen kommer följa bullerförordningens riktvärden och
+arbeta med tyst sida.
+Kommunen kommer i fortsatt planering även självklart följa de krav och riktlinjer
+som finns gällande risk med geoteknik och dagvatten.
+
+Samhällsservice
+
+Kommunen har valt att gå vidare med skolalternativ S3. I granskningshandlingen
+kommer område S3 att utökas så att både förskola och skola kan etableras i
+samma läge. Markanvändningen kommer att ändras från ”skola” till ”kommunal
+service” och därmed kunna inrymma olika typer av verksamheter för kommunala
+servicebehov. Platsen blir således lämplig för såväl förskola, skola och vårdboende.
+Alternativa lägen för skola som föreslogs i samrådshandlingen (S4 och S6) samt
+läget för förskola i norr (S2) tas bort från förslaget.
+Samtliga platser för vårdboende (VÅ1 och VÅ2) som fanns utpekade i
+samrådshandlingen har tagits bort.
+
+Säker skolväg
+Gällande elevers väg till skolan är det kommunens mål att så många som möjligt
+ska kunna ta sig själva till skolan på trafiksäkra vägar. Kommunen har ett
+långtgående ansvar att tillse att elever kommer säkert till skolan men i vissa fall
+innebär detta erbjudande om skolskjuts. Det är inte kommunens ansvar att
+tillhandahålla en trafiksäker väg till skolan men om det inte finns en sådan ska
+kommunen tillgodose skolskjuts. Då kommunen inte är väghållare för vägarna
+runt Väröbacka behövs en dialog med väghållarna, däribland Trafikverket för att
+se till att barn och vuxna kan ta sig säkert mellan hemmet och kommunal- och
+samhällsservice, rekreation och kollektivtrafik.
+
+Svenska kraftnät
+Svenska kraftnät har tagit del av handlingarna för rubricerat ärende och har inga
+synpunkter på planförslaget. I dagsläget har vi inga anläggningar eller planerade
+anläggningar inom planområdet.
+
+Svenska kraftnäts anläggningsobjekt finns att hämta via Geodataportalen,
+www.geodata.se. som WMS eller som en shape-fil. Informationen innehåller den
+geografiska positionen för Svenska kraftnäts ledningar, stolpar, stationer och
+stationsområden. Utöver den geografiska positionen finns uppgifter om
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            31
+
+<!-- sida 138 -->
+
+förläggningssätt (luftledning, kabel etc.) och spänningsnivå för våra ledningar. Vid
+produktion av kartor där Svenska kraftnäts geografiska anläggningsinformation
+används ska följande copyrighttext framgå: ”©Affärsverket svenska kraftnät”.
+För övergripande information rörande Svenska kraftnäts framtida planer för
+transmissionsnätet för el hänvisar vi till Nätutvecklingsplan 2024-2033.
+Dokumentet finns publicerat på vår webbplats: www.svk.se
+
+Detta yttrande har beslutats av samhällsplanerare Yvonne Johansson. I ärendets
+handläggning har kraftsystemspecialist Ann-Helen Ejdervik och projektledare
+Ferruccio Vuinovich deltagit.
+
+Handlingen har signerats digitalt och har därför ingen underskrift.
+
+Kommunens kommentarer
+Kommunen tackar för att Svenska kraftnät tagit del av förslag till översiktsplan
+och noterar att ni inte har någon erinran mot förslaget.
+
+Swedavia
+Förslaget till fördjupad översiktsplan bedöms inte innebära någon negativ påverkan
+på Göteborg Landvetter Airport eller riksintresseområdet enligt 3 kap. 8 §
+Miljöbalken.
+
+Swedavia har därmed inget att erinra.
+
+Kommunens kommentarer
+Kommunen tackar för att Swedavia har tagit del av förslag till fördjupad
+översiktsplan och noterar att man inte har någon erinran mot förslaget.
+
+MSB
+Myndigheten för samhällsskydd och beredskap (MSB) lyfter här några aspekter som
+kan vara av intresse att beakta i länsstyrelsens yttrande till Varberg kommun.
+
+Riskhantering
+Kommunen bör i översiktsplanen redovisa en samlad bild över risker i sin kommun
+som ett allmänt intresse enligt 2 kap PBL. I detta ingår exempelvis naturolyckor,
+transportvägar för farligt gods och större anläggningar som kan orsaka tekniska
+olyckor, bl.a. så kallade 2:4 anläggningar enligt lag om skydd mot olyckor och
+Sevesoanläggningar.
+
+I 3 kap PBL förtydligas att av översiktsplanen ska framgå kommunens syn på risken
+för klimatrelaterade skador på den byggda miljön som kan följa av översvämning,
+ras, skred och erosion, samt hur sådana risker kan minska eller upphöra. I
+översiktsplanen bör kommunen redovisa hur man avser att hantera dessa olika
+risker, det vill säga om riskerna kan accepteras eller om man avser vidta
+förebyggande eller andra riskreducerande åtgärder.
+
+Ett strategiskt ställningstagande i översiktsplanen ger långsiktighet i kommunens
+riskhantering och riskvärdering och utgör ett bra stöd för att hantera riskfrågor i
+kommande detaljplaner, bygglov och övriga tillståndsärenden.
+
+32                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 139 -->
+
+Krisberedskap
+Kommunerna, länsstyrelserna och MSB arbetar tillsammans för att öka samhällets
+krisberedskap på lokal nivå.
+
+Samtliga statliga myndigheter, kommuner och regioner ska göra en risk- och
+sårbarhetsanalys (RSA). För kommuner finns skyldigheten reglerad i lagen
+(2006:544) om kommuners och regioners åtgärder inför och vid extraordinära
+händelser i fredstid och höjd beredskap. Regionala och kommunala risk- och
+sårbarhetsanalyser ska ha tagits fram under 2019 och kan vara ett viktigt underlag i
+arbetet med översiktsplaneringen.
+Arbetet med att stärka samhällets funktionalitet och samhällsviktig verksamhet
+lägger grunden för samhällets försörjningsberedskap. Det är förmågan att
+upprätthålla kontinuitet och funktionalitet vid störningar, kriser och krig.
+Identifiering av samhällsviktiga verksamheter kan användas som underlag för att
+arbete med säkerhetsfrågor i fysiskplanering.
+
+I oktober 2020 tog MSB tillsammans med andra aktörer fram en förenklad och
+tydligare definition av samhällsviktig verksamhet. Den uppdaterade definitionen
+lyder:
+
+"Med samhällsviktig verksamhet avses verksamhet, tjänst eller infrastruktur som
+upprätthåller eller säkerställer samhällsfunktioner som är nödvändiga för
+samhällets grundläggande behov, värden eller säkerhet."
+
+Läs mer om samhällsviktiga verksamheter på
+https://www.msb.se/samhallsviktigverksamhet
+
+Kärnenergiberedskap
+På ett avstånd om cirka 4 km från Väröbacka ligger Ringhals Kärnkraftverk. Planen
+uppmärksammar att Ringhals kärnkraftverk omfattas av riksintresse för
+energiproduktion enligt 3 kap. 8 § miljöbalken (s.101). Området ska utnyttjas för
+befintlig verksamhet och möjlighet ska även ges för en utbyggnad av vindkraftverk
+utmed havet. Ringhals kärnkraftverk omgärdas av en inre och en yttre
+beredskapszon som är fastställd av länsstyrelsen (s.59).
+Beredskapsplanering för hantering av en kärnteknisk olycka lyfts som en särskild
+fråga i riskutredningen för FÖP Väröbacka som kommunen har tagit fram.
+
+För den andra, större olycka på Ringhals, ska Ringhals arbeta aktivt för att
+motverka risken och Länsstyrelsen ansvarar för att de berörda i planområdet
+exempelvis ska kunna evakuera. Inga riktlinjer eller krav för tillkommande boende
+inom beredskapszoner för kärnkraftverk finns utan det medför endast fler
+personer som Länsstyrelsen behöver ansvara för vid olycka. Därför måste
+Länsstyrelsen ta ställning till vad som är ett lämpligt antal att tillföra inom den
+yttre och inre beredskapszonen.
+
+Planen hänvisar till att beredskapsplanering för Ringhals kraftverk kommer behöver
+anpassas till det ökade antalet människor som kommer att befinna sig inom
+området till följd av genomförandet av översiktsplanen. (s.59)
+
+Länsstyrelsen ska enligt Förordningen om skydd och olyckor (FSO 4 kap 21 §)
+upprätta ett program för räddningstjänst rörande kärnteknisk olycka och sanering.
+Länsstyrelsen ansvarar även för varning, information och råd till allmänheten samt
+åtgärder för skydd av människor, djur och miljö. Kommunen är skyldiga att delta i
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            33
+
+<!-- sida 140 -->
+
+planeringen av räddningstjänsten vid utsläpp av radioaktiva ämnen från
+kärntekniska anläggningar och att medverka vid övningar i sådan räddningstjänst.
+(LSO 6 kap 9 §). MSB utövar tillsyn av länsstyrelsernas planer och program för
+räddningstjänst och stöttar länsstyrelserna i deras ansvar med de åtgärder som
+behöver vidtas för att skydda allmänheten.
+Vid eventuella frågor om beredskapsplanering är Länsstyrelsen Halland välkommen
+att kontakta MSB.
+
+Totalförsvarets civila delar
+Totalförsvarets civila intressen och samhällets robusthet är viktiga frågor att belysa i
+översiktsplaner utifrån plan- och bygglagens allmänna hänsynsregler (2 kap. 2 §
+PBL).
+
+Genom att tidigt beakta totalförsvarets civila intressen i den fysiska planeringen kan
+det minska behovet av särskild beredskapsplanering. Det kan till exempel handla
+om hur olika samhällsfunktioner placeras i relation till varandra, att beakta viktig
+infrastruktur, planera för hur människor kan förflyttas och sätta sig i säkerhet samt
+hur byggnader och anläggningar konstrueras. Det är också viktigt att i den fysiska
+planeringen säkerställa att de viktiga samhällsfunktionerna kan fortgå och inte
+komma att hotas av till exempel förändringar i närområdet.
+
+Kommunen och länsstyrelsen är ansvarig för totalförsvarets civila del på lokal och
+regional nivå. Länsstyrelsen har ett ansvar att ge kommunen stöd i bedömning av
+vilka mark- och vattenområden som är av intresse för totalförsvarets civila del på
+regional nivå och som är viktiga att beakta i den översiktliga planeringen. Detta
+genom att bland annat bevaka att risk- och sårbarhetshänsyn tas i samhälls-
+planeringen och identifiera samhällsviktig verksamhet inom sitt geografiska
+områdesansvar.
+
+MSB har tagit fram en vägledning för totalförsvarets intressen i
+samhällsplaneringen. Vägledningen riktar sig till samhällsplanerare och
+beredskapssamordnare med målet att stärka kunskapen om beredskapsfrågorna
+inom samhällsplaneringen genom tydligare och bättre processer för detta.
+Läs mer på msb.se om hur totalförsvarets civila intressen kan beaktas i
+samhällsplaneringen: https://www.msb.se/sv/amnesomraden/skydd-mot-olyckor-
+och- farliga-amnen/samhallsplanering/totalforsvarets-intressen-i-
+samhallsplanering/
+
+Områden av riksintresse för totalförsvarets anläggningar
+MSB har mandat att identifiera områden som är av riksintresse på grund av att de
+behövs för totalförsvarets anläggningar, den civila delen, enligt
+hushållningsförordningen och miljöbalken. MSB arbetar kontinuerligt med att
+identifiera mark- och vattenområden som kan vara av riksintresse (3 kap. 9 § andra
+stycket MB).
+
+MSB har skickat ut en remiss med förslag till områden av riksintresse för
+totalförsvarets anläggningar, den civila delen, (TfC 0004-0024). Förslaget omfattar
+samtliga ledningar och stationer i transmissionsnätet för el samt ledningarna i
+distributionsnätet för el mellan fastlandet och Gotland med tillhörande stationer.
+Förslaget har tagits fram tillsammans med beredskapsmyndigheten Affärsverket
+svenska kraftnät och är på remiss mellan 11 januari och 12 april 2024.
+
+34                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 141 -->
+
+Information om MSB:s arbete med områden av riksintresse finns på MSB:s
+webbsida: https://www.msb.se/sv/amnesomraden/skydd-mot-olyckor-och-farliga-
+amnen/samhallsplanering/riksintressen/
+Skyddsrum
+
+Kommunens tillgång till befintliga skyddsrum är en fråga som bör belysas i
+översiktsplanen. Skyddsrummen kan påverkas av ianspråktagande av mark i
+närheten. En karta över landets skyddsrum finns på
+https://gisapp.msb.se/apps/kartportal/enkel- karta skyddsrum/
+
+Utbredningsskikt för kustöversvämning
+Utmed hela Sveriges kust finns utbredningsskikt som visar översvämningsytor vid
+olika vattenstånd, vilket är användbart för att se översvämningsområden vid olika
+vattenstånd. Utbredningsskikt finns framtagna med 0,5 meters intervall, för
+vattenstånd mellan 1,0 – 5,0 meter (höjdsystem RH2000). Underlaget presenteras i
+MSB:s kartvisningstjänst Översvämningsportalen.
+Översvämningsportalen (länk till karttjänsten på MSB:s webbplats)
+
+Översiktliga stabilitetskarteringar
+
+MSB har i uppdrag att inom bebyggda områden översiktligt kartlägga landets
+kommuner med avseende på stabilitet. För Varberg kommun finns under 1995 en
+kartering gjord. Karteringen kan laddas ner via följande länk:
+https://www.msb.se/sv/verktyg--tjanster/stabilitetskartering-finkorniga-jordarter/
+
+Mer information om ras och skredkarteringarna finns på en myndighetsgemensam
+sida http://gis.swedgeo.se/rasskrederosion/
+
+Värmekartering
+MSB har tagit fram en värmekartering över Sverige. Värmekarteringen ger ett
+övergripande planeringsunderlag för att identifiera var höga temperaturer är vanliga
+inom ett län eller kommun. Planeringsunderlaget kan vara till hjälp för att analysera
+och utreda var klimatanpassningsåtgärder kan behöva genomföras, för att skydda
+mot höga temperaturer där behovet är som störst.
+
+Karttjänsten nås via www.msb.se/naturolyckor
+
+Vägledningar för arbete med naturolyckor
+MSB har tagit fram tre vägledningar för att kommuner ska kunna komplettera
+nationellt underlag med egna karteringar och kunskapsunderlag:
+
+•  Metod för skyfallskartering av tätorter, MSB2260 (2023)
+https://rib.msb.se/filer/pdf/30510.pdf
+•  Vägledning för skyfallskartering Tips för genomförande och exempel på
+användning, MSB1121 (2017)
+https://rib.msb.se/filer/pdf/28389.pdf
+•  Vägledning för översvämningskartering av vattendrag, MSB 631 (2014)
+https://rib.msb.se/filer/pdf/27432.pdf
+
+För alla naturrelaterade händelser bör kommunen redovisa hur den förväntade
+klimatförändringen påverkar sannolikhet för eller konsekvenser av extrema
+naturhändelser. I detta fall kan det också vara av intresse att belysa hur kommunen
+kan drabbas av storm, stora skogsbränder, värmebölja och andra typer av
+naturhändelser som inte alltid kan ges en geografisk placering.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            35
+
+<!-- sida 142 -->
+
+Läs mer om naturolyckor på www.msb.se och den myndighetsgemensamma sidan
+www.klimatanpassning.se.
+Vägledning om samhällsplanering och Sevesoanläggningar
+
+MSB har tagit fram en vägledning som beskriver hur storskalig kemikaliehantering
+och dess risker kan hanteras vid etablering av de storskaliga kemikaliehanterande
+verksamheterna och exploatering i nära anslutning till dessa. I vägledningen förslås
+bl.a. att ett riskhanteringsavstånd kring storskaliga kemikaliehanterande
+anläggningar bör finnas som ett planeringsunderlag för kommunens översiktsplan.
+Vägledningen beskriver hur ett sådant kan tas fram.
+Samhällsplanering och riskhantering i anslutning till storskalig kemikaliehantering,
+MSB1053 (2017) https://www.msb.se/sv/publikationer/samhallsplanering-och-
+riskhantering-i-anslutning- till-storskalig-kemikaliehantering/
+
+Kommunala handlingsprogram
+Varje kommun är skyldig att ha ett handlingsprogram för förebyggande verksamhet
+och räddningstjänst enligt Lagen (2003:778) om skydd mot olyckor. Kommunens
+kommunala handlingsprogram och övriga arbete enligt lag om skydd mot olyckor
+kan vara ett viktigt underlag i arbetet med översiktsplaneringen.
+
+Förändringar i lagen trädde i kraft 1 januari 2021 och nya föreskrifter om
+kommunala handlingsprogram har antagits. Läs mer på:
+https://www.msb.se/sv/amnesomraden/skydd-mot-olyckor-och-farliga-
+amnen/raddningstjanst-och-raddningsinsatser/forandringar-i-lagen-om-skydd-
+mot- olyckor-lsony-sida/foreskrifter-om-handlingsprogram/
+
+Vindkraft och höga byggnadsverk
+MSB har i uppdrag av regeringen att införa, förvalta och utveckla
+radiokommunikationssystemet RAKEL för skydd och säkerhet. För att vindkraftverk
+eller andra höga installationer inte ska bli ett hinder för
+radiokommunikationssystemet bör placeringen av exempelvis vindkraftverk på
+landsbygden och höga byggnader i tätorter ske i samråd med MSB:s verksamhet för
+Rakel och ledningssystem. Detta gäller konstruktioner högre än 20 meter utanför
+sammanhållen bebyggelse och högre än 45 meter inom sammanhållen bebyggelse.
+
+I samband med samråd om förslag till placering av områden för vindkraft eller inför
+andra beslut rörande vindkraftverk och höga byggnadsverk bör samråd ske med
+MSB. Bifoga i samband med samrådet koordinater för vindkraftverkens placeringar
+för analyser av signalstråken.
+
+Miljöbedömning
+Risken för allvarliga olyckor, inklusive sådana som orsakas av klimatförändringar,
+ska beaktas i miljöbedömningsprocessen. Miljöbedömningsförordningen förtydligar
+att för planer och program ska riskerna för människors hälsa eller för miljön till följd
+av allvarliga olyckor beaktas vid en undersökning och bedömning av betydande
+miljöpåverkan (5 §).
+
+En strategisk miljöbedömning ska dessutom ta hänsyn till andra relevanta planer
+och program.
+
+Av särskild relevans för riskfrågor är bland annat:
+•  Regionala och kommunala risk-och sårbarhetsanalyser
+•  Klimat- och sårbarhetsanalyser och handlingsplaner
+
+36                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 143 -->
+
+•  Kommunens handlingsprogram enligt LSO
+•  Riskhanteringsplaner enligt förordning (2009:956) om översvämningsrisker
+
+En miljöbedömning bör beakta samtliga risker som rör allvarliga olyckor och
+människors hälsa eller miljön.
+
+Kommunens kommentarer
+Kommunen har tagit del av Myndigheten för samhällsskydd och beredskaps
+(MSB) yttrande för FÖP Väröbacka och noterar förslag på förbättringar samt tips
+om underlag att ta del av.
+
+Planeringsunderlag
+Planförslaget kommer att kompletteras med ett samlat kartunderlag avseende
+risker kopplade till översvämning, ras, skred, erosion, skyfall, transportvägar för
+farligt gods och Sevesoanläggningar och en text angående säkerhet och beredskap.
+För samlade risker, se avsnittet ”Miljö, hälsa, risk och säkerhet – Samlade risker”.
+
+Kommunen bedömer att det finns tillräcklig vägledning och ställningstaganden i
+avsnittet ”Klimatpåverkan och klimatanpassning” angående hantering av
+klimatrelaterade risker. Texten har dessutom kompletterats ytterligare till
+granskningsskedet, bland annat med ställningstaganden kring hantering av
+befintlig bebyggelse.
+Beredskap
+
+Den kommunala risk- och sårbarhetsanalysen har tillsammans med andra
+underlag utgjort grund för utformningen av FÖP Väröbacka. Kommunen har en
+kontinuerlig dialog med såväl länsstyrelsen i Halland som Trafikverket avseende
+det program för räddningstjänst rörande kärnteknisk olycka och sanering som
+länsstyrelsen ansvarar för att ta fram och där kommunen gärna bidrar med
+underlag och analys för att underlätta i arbetet.
+Väröbacka har begränsad tillgång till skyddsrum. Det har inte tillskapats nya
+skyddsrum sedan 2002 i Sverige och kommunen inväntar direktiv från pågående
+statlig utredning innan beslut kommer fattas om potentiell nyetablering framgent.
+Kommunen noterar att MSB utifrån sitt ansvar för RAKEL är mån om att ta del av
+information om byggnadsverk som är 20 meter eller högre. I Väröbacka föreslås
+inte i nuläget några höga byggnader, men samtliga sådana objekt remitteras
+genom länsstyrelsen till berörda myndigheter i senare planeringsskede om så
+skulle bli aktuellt.
+
+Region Halland
+Region Halland tackar för möjligheten att yttra sig över den fördjupade
+översiktsplanen. Yttrandet är avstämt mot aktuella förvaltningar, inklusive
+Hallandstrafiken.
+
+En ny station bedöms kunna medföra lokal nytta genom att göra norra delen av
+Varbergs kommun mer attraktivt och öka möjligheterna för exploatering. En ny
+station i Värö och utvecklingen av bostäder i norra delen av Varbergs kommun
+medför även regional nytta för Göteborgs arbetsmarknadsregion. Stationen
+möjliggör hållbar pendling till flera viktiga målpunkter i Göteborgsområdet.
+Stationens närhet till stora arbetsgivare som Södras anläggning i Värö och Ringhals
+kärnkraftverk erbjuder också nya möjligheter för hållbar arbetspendling till
+befintliga arbetsplatser på Väröhalvön. En förutsättning för att skapa livsmiljöer och
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            37
+
+<!-- sida 144 -->
+
+arbetspendling som är både hållbara och attraktiva är möjligheten att kunna göra de
+korta resorna inom orten men också mellan orterna omkring Väröhalvön. Därför
+bör kollektivtrafik-, cykel- och gångstråk prioriteras.
+Kollektivtrafik
+
+För att kollektivtrafiken ska framstå som attraktiv behöver den prioriteras högt i
+planeringen av Väröbacka. Stråket är utpekat som ett starkt stråk i
+Trafikförsörjningsprogrammet (2021-2025). Åtgärder för att prioritera
+kollektivtrafiken kan vara att minska restid genom att skapa god framkomlighet för
+kollektivtrafiken. Om reseunderlaget finns kan det även handla om fler avgångar för
+viktig linjetrafik. Region Halland och Hallandstrafiken önskar ha fortsatt god dialog
+för att skapa goda förutsättningar för resor med kollektivtrafik.
+Region Halland önskar se att transportkapitlen i den fördjupade översiktsplanen
+hade visat mer av de större upptagningsområdena. Pendlingssambanden mellan
+Väröbacka och Bua, Kärradal, Tångaberg samt Veddige är alla viktiga för
+planeringen av infrastruktur. Resor med både buss och cykel bedöms i flera fall vara
+fullt konkurrenskraftiga om rätt förutsättningar finns för att ta sig till stationen.
+
+Infrastruktur
+Den planerade cirkulationsplatsen norr om järnvägsstationen bedöms ur
+kollektivtrafiksynpunkt som ett bra inslag. Lösningen, tillsammans med andra
+åtgärder på väg 845, är nödvändig för god framkomlighet med bussar. Region
+Halland ställer sig frågande till hur hänsyn tas till godstrafiken med tunga
+transporter. De utgör stora flöden och innebär en trafikfara för de mjuka
+trafikanterna. Utreder eller planerar kommunen för planskildhet eller säkra
+passager i form av cykelportar för dessa trafikanter? Dels är regionen även
+intresserade av att veta hur det lokala näringslivet ställer sig till trafiklösningen. Hur
+kan deras verksamhet påverkas av den planerade cirkulationsplatsen?
+
+Söder om stationen planeras en korsningsåtgärd för att utgöra den södra entrén till
+stationsområdet. Den exakta utformningen för platsen utreds fortfarande och
+Region Halland önskar att utformningen inte bara samråds med Trafikverket utan
+att Hallandstrafiken fortsatt bjuds in. Detta kan förtydligas genom att skriva in
+Hallandstrafiken som aktör under "Hänsyn" för korsningsåtgärden. Bussarna måste
+kunna genomföra vänstersväng mot stationsområdet på ett enkelt och trafiksäkert
+sätt.
+
+Region Halland vill poängtera Kattegattledens utformning och vikten av att
+framkomligheten för denna prioriteras när orten växer. För en bra helhetsupplevelse
+måste cyklister och gående kunna ta sig genom planområdet och det vore positivt
+om leden naturligt kopplas till stationen. Orientering, skyltning och trafiksäkerhet är
+viktiga faktorer i utformning.
+
+De grönstråk som planeras bedömer Region Halland som övervägande positiva. Att
+de ska bryta barriärer i stadsrummet och kantas av gång- och cykelbanor innebär
+attraktiva och gena vägar genom samhället och kan leda till att fler väljer att resa
+hållbart. Att grönstråken kopplar samman värdefulla naturmiljöer är och mycket
+positivt men det är samtidigt viktigt att stråken inte innebär förhöjd trafikfara
+genom att människor eller djur går över spårområdet. Utformningen av stråken, och
+framför allt spårpassagerna är intressanta och Region Halland följer utformningen
+av dessa framåt.
+Likaså vill Region Halland belysa utformningen av centrumstråket. Valet att anlägga
+gång- och cykelbanor längs med väg 845 och centrumstråket anser regionen vara
+
+38                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 145 -->
+
+mycket positivt men precis som kommunen påpekar behöver hänsyn tas till att
+vägen är omledningsväg för E6. Vägen har även en betydelsefull funktion vid
+händelse av kris och behov av utrymning från Väröhalvön med hänsyn till Ringhals.
+Det är viktigt att vägen fortsatt klarar av ett tillfälligt högt trafikflöde. Hög
+omställningsförmåga och flexibilitet i gaturummet bör prioriteras i
+planering/projektering/utformning av vägen. Även här önskar Hallandstrafiken
+hållas informerad om de åtgärder som samråds med Trafikverket.
+Bebyggd miljö
+
+"Utbyggnad av samtliga utbyggnadsområden i planförslaget skulle generera en
+betydligt större mängd bostäder fram till 2050 än vad som bedöms vara lämplig
+utifrån uppskattat bostadsbehov och efterfrågan. Vissa utbyggnadsområden har
+därför föreslagits utvecklas på lång sikt. Med lång sikt i detta sammanhang avses
+efter år 2050."
+Varbergs kommun nämner att planförslaget möjliggör för en etappvis utbyggnad
+med cirka 2000 nya bostäder fram till år 2050 och ytterligare 1000 nya bostäder på
+längre sikt. Anledningen till den etappvisa utbyggnaden beskrivs vara att det
+uppskattade bostadsbehovet och efterfrågan inte bedöms vara tillräckligt högt.
+Region Halland är intresserade av att veta vad kommunen grundar detta antagande
+i och om det finns underlag eller analyser som visar på efterfrågan och bostadsbehov
+i Väröbacka. Väröbackas tillväxt är nödvändig för att på ett ekonomiskt gångbart
+sätt kunna trafikera järnvägssträckan mot Göteborg.
+
+Varbergs kommun har efterfrågat ställningstagande från Region Halland sett till det
+långsiktiga behovet av vård och offentlig service i Väröbacka med omnejd. Det
+regionen kan yttra sig om i nuläget är att det är positivt om Varbergs kommun är
+tydliga i markanvändningskartan med vilka verksamheter som får bedrivas i
+Väröbacka. Vård nämns inte specifikt under kapitlet "Bebyggelse och offentlig
+service" men regionen tolkar markanvändningskartan som att vårdverksamhet
+tillåts i samtliga delar som benämns "Mångfunktionell bebyggelse, Centrum" och
+"Mångfunktionell bebyggelse, Bostad". Finns det delar av centrum som kommunen
+prioriterar högre för offentlig service? Det kan exempelvis vara i lägen med god
+tillgänglighet och där det finns större möjlighet till samverkan mellan andra
+verksamheter. Finns det tilläggsvis möjlighet att ha vårdverksamhet utöver
+vårdboende i de rosa ytorna i planområdet avsatta för vårdboende? Regionen har i
+nuläget ingen plan för etablering av vårdverksamhet i Väröbacka men den
+kommunala viljan bör vara tydlig vid det tillfälle en vårdvalsaktör vill etablera sig
+där i framtiden.
+
+Placeringen av nya förskolor kan, i sin roll som arbetsplats, med fördel placeras i
+kollektivtrafikstråken. Det skulle även underlätta vardagsresorna för familjer som
+inte vill eller kan resa med bil.
+
+Skolans läge i norra Väröbacka har diskuterats tidigare utifrån trafiksäkerhet, både
+utifrån kollektivtrafik samt gång- och cykel. De gröna stråken skapar goda
+möjligheter för barn och unga att säkert ta sig till och från skolan till fots eller med
+cykel. Hållplatsen "Väröbacka skola" längs Varbergsvägen är tillgänglighetsanpassad
+och har möjlighet för resenärer att parkera cyklar. Ytterligare trafikåtgärder skulle
+kunna genomföras för att förbättra säkerheten för barn som passar vägen från
+hållplatsen till skolan.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            39
+
+<!-- sida 146 -->
+
+Kommunens kommentarer
+Kommunen tackar för att regionen yttrar sig på planförslaget och samordnar
+aktuella förvaltningar. Det är positivt att regionen delar kommunens syn på att
+planförslaget är av nytta på såväl lokal som regional skala och att förtätning och
+hållbara transporter genom gång-, cykel- och kollektivtrafiknäten är centrala
+frågor för utvecklingen av orten och regionen.
+
+Planförslaget verkar för att skapa effektiva bytespunkter och ge rum för en hållbar
+mobilitet med möjlighet till byten mellan en lång rad färdsätt. Kommunen ser
+positivt på att Hallandstrafiken är måna om att skapa hög turtäthet och effektiv
+linjedragning i såväl lokal som regional skala och ser fram emot en kontinuerlig
+dialog. Stationsområdet studeras och utformas för att etablera effektiva
+kopplingar i samtliga väderstreck och transportslag. I nuläget studeras dessa
+frågor tillsammans med Hallandstrafiken inom ramen för projektet ”Värö
+station”. Även andra åtgärder, som kommunen bedömer får stora konsekvenser
+för kollektivtrafiken, samråds generellt med Hallandstrafiken.
+Korsningsåtgärden mellan Industrivägen och Varbergsvägen (KÅ1) föreslås som
+en åtgärd på lång sikt. Åtgärden syftar främst till att stärka sambandet mellan
+södra och norra delarna av Väröbacka, bland annat genom att minska
+nivåskillnader, möjliggöra för mjuka trafikanter och skapa ett mer inkluderande
+trafikrum. Detaljer kring utformning, trafiksäkerhet och kapacitet utreds i senare
+skede.
+
+Kattegattledens dragning läggs in som kartlager i planhandlingen och stråkets
+anslutning till stationsområdet är prioriterat om förändringar av befintlig
+dragning behöver göras.
+
+Varbergsvägen är ett viktigt stråk såväl lokalt som regionalt och det finns många
+aktörer som är måna om dess utformning och gör anspråk på dess funktion.
+Vägens utformning och uttryck kommer att förändras, men vägbredd och antal
+anslutningsvägar kommer i stort att bestå för att framkomligheten även
+fortsättningsvis ska vara god, om än i lägre hastighet.
+
+Väröbackas utveckling är en del av kommunens totala bostadsutveckling. Ytterst
+har kommunen genom den kommunövergripande översiktsplanen och riktlinjer
+för bostadsförsörjningen gjort en prognos för var, när och hur olika delar av
+kommunen kommer att byggas ut. Att växa väldigt kraftigt i en kommundel är
+ofta kostsamt då det förutsätter väldigt stora investeringar i infrastruktur och
+samhällsservice. Det är inte heller rimligt att tro att efterfrågan eller tillväxt
+kommer vara ensidigt riktad till en av kommunens tätorter. Inriktningen i FÖP:en
+tar således hänsyn till ett flertal parametrar och data avseende tillväxttakt och
+offentlig service i föreslagna utbyggnadsområden. Däremot har kommunen valt
+att inte helt lyfta bort de utbyggnadsområden som redovisas ”på lång sikt”
+eftersom det inte går att på förhand helt prognostisera efterfrågan och
+utbyggnadstakt. Att markera dessa som ”på lång sikt” har däremot bedömts vara
+viktigt då det inte skulle gynna en hållbar samhällsutveckling om dessa områden
+blir först att byggas ut i området, då det kan leda till att i onödan fragmentera
+jordbruksmark, skapa en utspridd bebyggelsestruktur m.m.
+Angående frågan om var i orten det är mest lämpligt med en framtida lokalisering
+av vårdverksamhet så kan kommunen informera om följande:
+
+•  Namnsättningen för markanvändningen ”Centrum” har ändrats till
+”Funktionsblandad bebyggelse”. Anledningen till detta är att begreppet
+
+40                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 147 -->
+
+centrum kan misstolkas och ge felaktiga förväntningar angående
+bebyggelse, utformning och innehåll och föra tankarna till en bebyggelse
+som återfinns i mer centrala stadsmiljöer. Funktionsblandad bebyggelse
+ger förhoppningsvis en mer realistisk bild av utvecklingen, där en större
+blandning av bebyggelsen föreslås än exempelvis inom rena bostads- eller
+verksamhetsområden.
+•  Lokalisering av vårdverksamhet föreslås i första hand ske inom områden
+med ”funktionsblandad bebyggelse”. Eftersom stråket utmed
+Varbergsvägen, där denna markanvändning föreslås, är förhållandevis
+långt så rekommenderas att offentlig och kommersiell service i första
+hand lokaliseras till det nya stationsområdet eller till befintligt centrum i
+Väröbacka. Detta har förtydligats i planhandlingarna.
+
+Luftfartsverket
+
+LFV vill i egenskap av sakägare för CNS-utrustning att översiktsplanen kompletteras
+med:
+Alla byggnadsobjekt oavsett typ som master, torn, pyloner, vindkraftverk, skyltar,
+konstverk, byggnader etc. som är högre än 20 meter över mark eller vattenyta ska
+remitteras till LFV. Detta gäller oavsett position på svenskt territorium.
+
+I övrigt inget att erinra mot översiktsplanen.
+
+Kommunens kommentarer
+Kommunen tackar för att Luftfartsverket tagit del av förslag till översiktsplan och
+noterar att Luftfartsverket i likhet med Försvarsmakten och Myndigheten för
+samhällsskydd och beredskap vill bli remitterad ärenden avseende objekt eller
+byggnader som är 20 meter eller högre. I Väröbacka föreslås inte i nuläget några
+höga byggnader (20 meter eller högre), men samtliga sådana objekt remitteras
+genom länsstyrelsen till berörda myndigheter i senare planeringsskede om så
+skulle bli aktuellt.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            41
+
+<!-- sida 148 -->
+
+Kommunala      nämnder    och  bolag
+
+Byggnadsnämnden
+
+Byggnadsnämnden har översänt förvaltningens tjänsteutlåtande som sitt eget
+yttrande, med följande tillägg enligt ordförandens förslag:
+”Byggnadsnämnden tycker nuvarande utformning av FÖP Väröbacka är allt för
+detaljerad. En allt för detaljerad FÖP kan bli svårhanterad över tid då olika
+bedömningar kan ändras och bedömas på ett annat sätt. Flera ställningstaganden
+som är gjorda bör göras i ett senare skede i planprocessen.”
+
+Tillägget har lagts till under rubriken övrigt.
+
+Övergripande
+Väröbacka har med en ny tågstation goda förutsättningar att fungera som ett nav
+mellan orten, omkringliggande samhällen och stora arbetsplatser. Väröbacka och
+Limabacka består idag av spridda strukturer. Att sammanfoga befintliga värden i
+norra delarna med den önskade utvecklingen i söder är en planeringsutmaning.
+Därav vikten av att i den översiktliga planeringen peka ut riktningen och att följa
+den i fortsatt planering. Genom en välgrundad översiktlig planering har
+efterföljande planering goda förutsättningar att lyckas.
+
+Den fördjupade översiktsplanen är enligt Stadsbyggnadskontoret tydlig, välavvägd
+och skulle kunna vara är ett bra underlag för fortsatt planering genom detaljplan.
+Stadsbyggnadskontoret önskar skicka med några synpunkter som hade ökat
+tydligheten och ställningstagandena ytterligare. Detta främst för att underlätta för
+fortsatt planering och för att den översiktliga planeringen ska få avsedd verkan.
+
+Stadsbyggnadskontoret är mån om att den läsare som läser utvalda delar av den
+fördjupade översiktsplanen snabbt hittar den information som är relevant att föra
+vidare i fortsatt planering. I texten anges planeringsinriktningar, strategier,
+utvecklingsinriktningar, och ställningstaganden. Stadsbyggnadskontoret önskar att
+skillnaden och statusen för dessa tydliggörs. Detta kan till exempel göras genom
+förtydliganden eller genom att vissa delar tonas ner för att ge tyngd åt det konkreta
+resultatet, ställningstagandena.
+För att säkerställa att utbyggnaden sker i den avsedda ordningen önskar
+Stadsbyggnadskontoret tydligare skrivningar om utbyggnadsordningen inom det
+som pekats ut i en första etapp fram till år 2050.
+
+Markanvändning
+Inom de föreslagna områdena för bostäder och landsbygd anges att även skola,
+handel, kontor, drivmedel, verksamheter och vård med mera kan vara förenliga i
+detaljplan. Användningarna anges i den digitala plattformen under rubriken
+”Användningar i detaljplan som är förenliga med användningar i översiktsplanen”.
+Stadsbyggnadskontoret anser att denna redovisning riskerar att underbygga de
+övriga ställningstaganden om markanvändning som gjorts i den fördjupade
+översiktsplanen. Det är också angeläget att styra placeringen av dessa funktioner för
+att berörda ska förstå avsikten med utvecklingen av Väröbacka.
+
+Handel
+Stadsbyggnadskontoret vill understryka vikten av att koncentrera handel och
+centrumändamål till centrumstråket. Planeringen av centrumstråket riskerar annars
+
+42                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 149 -->
+
+att urholkas. Utspridd handel kan till exempel leda till ökade transporter och att
+kollektivtrafiken inte får önskad effekt.
+Vid framtagande av detaljplan kan handel etableras som en del i markanvändningen
+centrum, verksamheter och industri. Renodlad handel kan även planläggas som
+detaljhandel. För att inte motverka en effektiv konkurrens är huvudregeln enligt
+Boverket att handel inte får begränsas genom regleringar i detaljplan. Vid behov får
+dock partihandel, det vill säga handel som inte riktar sig till enskilda, och
+detaljhandel skiljas åt. Boverket anger att kommunen behöver utreda vad som krävs
+för att skapa en totalt sett ändamålsenlig handelsstruktur. Detta kan enligt Boverket
+göras i samband med översiktsplaneringen eller i en särskild handelsutredning för
+en del av kommunens yta. Skrivningarna för markanvändningen bostäder riskerar
+att göra denna fråga mer otydlig då handel anges som användning som är förenlig
+inom områden för bostäder.
+
+Jordbruksmark
+Stadsbyggnadskontoret anser att det är viktigt att lokaliseringsutredningen
+avseende jordbruksmark håller för fortsatt planering. Detta för att inte behöva
+argumentera och utreda frågan i alla kommande detaljplaner.
+
+Alternativredovisningen i lokaliseringsutredningen är gjord utifrån jämförelsen med
+andra stationslägen. Stadsbyggnadskontoret efterfråga ett tydligare resonemang om
+ytorna och alternativredovisningen även inom planområdet. Skrivningen
+"Lokaliseringsprövningen anser att planerad markanvändning skulle vara
+motiverad enligt MB 3 kapitel 4 § även i andra lägen inom planområdet." stödjer
+inte den värdering som gjorts inom planområdet. Argumenten, värderingen och
+alternativen inom planområdet skulle behöva förtydligas.
+
+Strategisk miljöbedömning
+Stadsbyggnadskontoret noterar att den framtagna konsekvensbedömningen över
+planförslaget är en miljökonsekvensbeskrivning. Stadsbyggnadskontoret hade sett
+det som positivt om en bedömning av planförslaget innehöll samtliga tre
+hållbarhetsaspekterna; ekologisk – social- och ekonomisk hållbarhet.
+
+Klimatanpassning
+Stadsbyggnadskontoret är undrande till om det finns behov av följduppdrag för att
+hantera klimatanpassningsfrågan. Då detaljplaner ofta har en begränsad
+avgränsning kan det vara svårt att ta det helhetsgrepp som klimatanpassningsfrågan
+kräver. Den översiktliga planeringen är därmed ett passande skede att utreda
+klimatanpassningsfrågor, för att sedan säkra genomförandet i detaljplan.
+
+Den digitala plattformen
+Den digitala plattformen är enligt Stadsbyggnadskontoret tydlig, lättanvänd och är
+ett bra föredöme för fortsatt planering.
+
+Stadsbyggnadskontoret tycker det vore önskvärt om de platser som specifikt nämns
+i texten, oavsett ämnesområde, kunde kopplas i kartan. Detta görs i stor
+utsträckning på ett tydligt sätt. Några platser och namn saknas dock i kopplingen till
+kartan vilket hade underlättat för läsbarheten och för de som saknar
+lokalkännedom. Backa by nämns till exempel i texten om kulturmiljö.
+
+Stadsbyggnadskontoret saknar under kartskiktet ”Övriga värden” en del av de
+planeringsunderlag som legat till grund för planens ställningstaganden. Detta gäller
+exempelvis ”Viktiga siktlinjer” som pekas ut på karta i Integrerad
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            43
+
+<!-- sida 150 -->
+
+landskapskaraktärsanalys (ILKA), samt ”Riktlinjer för fortsatt planering” från
+Kulturmiljöutredningen.
+Övrigt
+
+Stadsbyggnadskontoret önskar förtydliga att upplåtelseformer inte kan regleras i
+detaljplan varför andra former av regleringar och styrmedel krävs för genomförande
+av specifika upplåtelseformer.
+Byggnadsnämnden tycker nuvarande utformning av FÖP Väröbacka är allt för
+detaljerad. En allt för detaljerad FÖP kan bli svårhanterad över tid då olika
+bedömningar kan ändras och bedömas på ett annat sätt. Flera ställningstaganden
+som är gjorda bör göras i ett senare skede i planprocessen.
+
+Kommunens kommentarer
+
+Samhällsutvecklingskontoret håller med byggnadsnämnden om att det är viktigt
+att planen är lättläst och att det tydligt framgår hur ställningstaganden,
+inriktningar och strategier förhåller sig till varandra. För att underlätta läsningen
+har planhandlingarna därför justerats så att:
+•  ”Övergripande strategier” som hör till de politiskt antagna
+
+planeringsinriktningarna flyttas upp till avsnittet Utgångspunkter -
+planeringsinriktningar. Planeringsinriktningar med tillhörande exempel
+på strategier ska ses som initiala utgångspunkter till planeringen.
+Ett förtydligande av utvecklingsinriktning och ställningstaganden:
+
+•  Utvecklingsinriktningen ska ses som ett övergripande koncept över
+planens markanvändning.
+
+•  Ställningstaganden anger mer konkret hur planens syfte och mål ska
+förverkligas.
+
+Avsnittet ”Genomförande – En etappvis utbyggnad” har kompletterats med
+tydligare skrivningar kring förslag till utbyggnadsordning.
+Avsnittet ”Användningar i detaljplan som är förenliga med användningen i
+översiktsplanen” som finns för respektive objekt i markanvändningskartan finns
+med för att kommunen har valt att så långt som möjligt följa rekommenderad ÖP-
+modell från Boverket. Kontoret håller med byggnadsnämnden om att det finns
+utmaningar kring detta och att det riskerar att underbygga övriga
+ställningstaganden gällande markanvändningen. Avsnittet har därför plockats
+bort från samtliga objekt i plankartan.
+
+I samrådshandlingen pekades områden i anslutning till Varbergsvägen ut som
+”centrum”. Till granskningshandlingen har markanvändningen för dessa områden
+ändrats till ”funktionsblandad bebyggelse”. Inom områden med funktionsblandad
+bebyggelse möjliggörs för en blandning av bostäder, handel och service. För att
+främja en koncentration av service till vissa delar av stråket föreslås att handel
+och service i första hand utvecklas i anslutning till befintligt centrum i Väröbacka
+samt till det nya stationsområdet. Detta har förtydligats i planhandlingarna.
+
+Samhällsutvecklingskontoret anser att lokaliseringsutredningen avseende
+jordbruksmark på ett tillräckligt bra sätt analyserar och motiverar planförslaget
+och ianspråktagande av jordbruksmark för stationsnära bebyggelseutveckling.
+Enligt yttrande från länsstyrelsen så bedöms frågan om jordbruksmark vara
+
+44                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 151 -->
+
+utredd utifrån 3 kap 4 § MB samt att den bör fungera bra som underlag inför
+kommande detaljplanering.
+Kontoret noterar byggnadsnämndens önskemål om att bedömningen av
+planförslaget med fördel hade omfattat samtliga hållbarhetsaspekter; ekologisk,
+social och ekonomisk hållbarhet. Planförslagets utformning verkar för en
+långsiktigt hållbar samhällsutveckling, men i projektet har det inte prioriterats att
+ta fram en hållbarhetsbedömning. Inför granskningsskedet har kontoret däremot
+kompletterat underlaget till planen med en barnkonsekvensanalys (BKA) för de
+olika skollokaliseringarna. Analysen har bidragit till en ökad förståelse för
+barnperspektivet i planeringen, vilket får betydelse för den sociala hållbarheten av
+planförslaget. Underlaget har, tillsammans med övriga betydande
+planeringsförutsättningar, legat till grund för det slutliga förslaget till
+skollokalisering.
+
+Den VA-utredning som tagits fram i samband med planförslaget bedöms vara
+tillräcklig på en övergripande nivå avseende hantering av skyfall och
+konsekvenser av ett stigande hav. Kommunen har ett pågående
+kommunövergripande arbete med en klimatanpassningsplan. Detta underlag
+bedöms, tillsammans med planförslaget och VA-utredningen, kunna ge tillräcklig
+vägledning för efterföljande detaljplanering avseende klimatanpassningsfrågor.
+
+Inledningsavsnittet i planhandlingen har kompletterats med en karta över orts-
+och vägnamn i syfte att öka lokalkännedomen och läsbarheten.
+
+Kartan har kompletterats med ett kartlager som visar prioriterade siktlinjer och
+kulturhistoriskt värdefulla bebyggelseområden.
+Samhällsutvecklingskontoret noterar byggnadsnämndens synpunkt om att planen
+är alltför detaljerad och att den därmed riskerar att bli svårhanterlig över tid.
+Kontoret bedömer att man har följt den beställning av uppdraget som gavs av
+kommunstyrelsen 25 juni 2019 Ks § 148, det vill säga att planen ska göras på en så
+detaljerad nivå att det går att gå direkt på detaljplanering och att planprogram
+kan undvikas.
+
+Förskole- och grundskolenämnden
+Förskole- och grundskolenämnden har tillstyrkt förslag till fördjupad översiktsplan
+för Väröbacka samt har översänt förvaltningens tjänsteutlåtande som sitt eget
+yttrande.
+
+Allmänt
+Förskole- och grundskolenämnden ser positivt på den fördjupade översiktsplanen
+för Väröbacka, Varbergs kommun.
+
+Förvaltningen bedömer att den fördjupade översiktsplanens innehåll kommer
+påverka förskole- och grundskolenämnden verksamheter.
+
+I området för den fördjupade översiktsplanen för Väröbacka bedriver förskole- och
+grundskolenämnden verksamhet i en skola och två förskolor. Det finns även
+fristående barnomsorg i området.
+
+Limabacka och Stråvalla förskolor är idag fullbelagda och vid en utblick mot år 2038
+prognostiseras ett behov av ytterligare cirka 150 förskoleplatser. Limabacka
+förskolas tekniska livslängd är slut och en ny förskola planeras vara färdig år 2025.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            45
+
+<!-- sida 152 -->
+
+När den nya förskolan är färdig ökar kapaciteten i området med 90 platser.
+Underskottet år 2038 minskar då till drygt 60 platser.
+I Väröbackaskolan går elever i årskurs F-9 och från årskurs 7 ansluter elever från
+Buaskolan. Väröbackaskolan planeras byggas ut till en kapacitet för 650 elever och
+utbyggnaden beräknas vara klar år 2026. Efter utbyggnaden beräknas
+Väröbackaskolan klara kapaciteten för hela prognosperioden fram till år 2038.
+
+Förskole- och grundskolenämnden ser utifrån utbyggnadsplanerna att det är viktigt
+att tillgodose behovet av platser i förskola och grundskola i området och att det
+ligger i fas med utbyggnad av bostäder. Det är även viktigt ur planeringssynpunkt
+för förskole- och grundskolenämnden att det finns anvisade tomter för förskola och
+skola inplanerade i kommande detaljplaner. Den fördjupade översiktsplanen anger
+lämpliga områden för förskola och grundskola på sju olika platser.
+
+Vidare anser förskole- och grundskoleförvaltningen att det är viktigt att
+infrastrukturen i form av säkra gång- och cykelmöjligheter till våra verksamheter
+tillgodoses i takt med utbyggnaden.
+
+Förskolor
+Område S2, yta för ny förskola.
+Området utgörs idag av brukad jordbruksmark i anslutning till Värö skolväg.
+Området ligger strax söder om befintligt skolområde för Väröbackaskolan.
+
+Vid en ungefärlig uppmätning i Varbergskartan är området cirka 23 000
+kvadratmeter vilket är väl tilltaget för en förskoletomt. Varbergs kommun bygger
+förskolor för upp till 160 barn vilket kräver mellan 10 000-12 000 kvadratmeter
+varav 6400 kvadratmeter friyta för barnen plus byggnader och angöring.
+Placeringen i anslutning till befintlig grundskola är fördelaktigt då det underlättar
+för vårdnadshavare att lämna barn i olika åldrar på samma ställe.
+
+Område S5, yta för ny förskola.
+Området utgörs idag av brukad jordbruksmark mellan Gamla Buavägen och
+Kristens väg intill befintliga Limabacka samhälle. Söder om området finns ett litet
+skogsområde.
+Det pågår ett arbete med detaljplan för Limabacka förskola på denna plats,
+förskolan skall ha kapacitet för 160 barn och planeras vara färdig år 2025.
+
+Område S7, yta för ny förskola.
+Området utgörs idag av jordbruksmark, beläget öster om Varbergsvägen i södra
+delarna av Väröbacka. Norr om platsen ligger ett tiotal villor i en samlad bebyggelse
+i brynzonen vid N1. Genom området går en mindre väg som leder vidare mot några
+få bostadshus i söder. I området finns även vegetation, stenmurar och diken som
+markerar de gamla tegarna.
+
+Vid en ungefärlig uppmätning i Varbergskartan är området knappt 10 000
+kvadratmeter. Genom området går en väg, som verkar vara enda angöringen för ett
+antal småhus söder om området. Områdets storlek medger bara en förskola för 80-
+120 barn och placeringen alldeles intill Varbergsvägen kan medföra trafiksäkerhets-
+och bullerproblematik.
+
+Förslagsvis används område S7 som en reservyta för en förskola i planområdet.
+Område S4 bör utökas med ca 10 000 kvadratmeter för att i samband med ny
+
+46                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 153 -->
+
+grundskola även göra plats för en förskola. Det skulle innebära samma fördelar vid
+hämtning och lämning som i område S1 och S2.
+
+Grundskolor
+Område S1, Befintliga Väröbackaskolan
+Området utgörs idag av befintligt skolområde med skolbyggnad, idrottshall och
+skolgård. Området är beläget i de norra delarna av Väröbacka samhälle, i direkt
+anslutning till det vidsträckta odlingslandskapet.
+
+Efter att pågående utbyggnad av Väröbackaskolan är färdig så kommer friytan per
+elev i direkt anslutning till skolan vara betydligt mindre än de rekommenderade 30
+kvadratmeter per elev. I förslaget tillkommer en yta till utemiljön som vid en
+ungefärlig uppmätning i Varbergskartan är cirka 5000 kvadratmeter. Sammanlagt
+innebär detta endast 24 kvadratmeter per elev. I arbetet med den fördjupade
+översiktsplanen föreslås att lägga till ytterligare yta i direkt anslutning till
+Väröbackaskolans utemiljö så att Boverkets rekommendation på 30 kvadratmeter
+per elev uppfylls.
+Område S3, ett av tre möjliga lägen för ny grundskola
+Området utgörs idag av jordbruksmark öster om Vallavägen och i nära anslutning
+till befintlig bebyggelse i dagens Väröbacka samhälle. I området finns eventuellt
+både diken och stenmurar. Vid en ungefärlig uppmätning i Varbergskartan är
+området cirka 24 000 kvadratmeter.
+
+Fördelar:
+•  Lämplig placering med hänsyn till trafiksäkerhet och bullerproblematik
+utan att behöva angöra genom befintligt eller kommande bostadsområde.
+•  Nära nytt centrumstråk vilket främjar hållbart resande
+
+Utmaningar:
+
+•  Begränsad yta. En grundskola för 750 elever rekommenderas en friyta på
+cirka 22 500 kvadratmeter exklusive ytor för byggnader och angöring.
+•  Belägen nära befintliga Väröbackaskolan vilket kan ge svårigheter att skapa
+logiska upptagningsområden.
+Placeringen av område S3 utifrån trafik och närhet till nytt centrumstråk är
+tilltalande förutom ovan nämnda synpunkter.
+
+Område S4, ett av tre möjliga lägen för ny grundskola
+Området utgörs idag av brukad jordbruksmark mellan Varbergsvägen och befintliga
+gårdar i Backa by. Mitt i området ligger ett dike och en stenmur. Vid en ungefärlig
+uppmätning i Varbergskartan är området cirka 35 000 kvadratmeter.
+
+Fördelar:
+•  Tillräckligt stor yta. En grundskola för 750 elever rekommenderas en friyta
+på cirka 22 500 kvadratmeter exklusive ytor för byggnader och angöring.
+•  Belägen nära nytt centrumstråk vilket främjar hållbart resande.
+•  Ligger tillräckligt långt från befintliga Väröbackaskolan för att kunna skapa
+logiska upptagningsområden.
+
+Utmaningar:
+
+•  Områdets form, väldigt långsmal med långsida mot Varbergsvägen.
+•  Trafiksäkerhet och buller kommer bli nyckelfrågor.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            47
+
+<!-- sida 154 -->
+
+•  Säker angöring från Varbergsvägen.
+Område S4 är det mest tilltalande alternativet av de tre föreslagna områdena för ny
+grundskola, dock föreslås område S4 utökas med cirka 10 000 kvadratmeter för att
+ge plats åt ytterligare en förskola med kapacitet för 160 barn. Placeringen i
+anslutning till befintlig grundskola är fördelaktigt då det underlättar för
+vårdnadshavare att lämna barn i olika åldrar på samma ställe. Område S7 skulle
+kunna vara ett reservområde ifall ytterligare behov av förskola uppstår i framtiden.
+
+Område S6, ett av tre möjliga lägen för ny grundskola
+Området utgörs idag av en aktiv idrottsplats för fotboll, inklusive parkering och
+klubbstuga. Platsen är belägen i södra delen av Limabacka samhälle och söder om
+området ligger Industrivägen. Vid en ungefärlig uppmätning i Varbergskartan är
+området cirka 45 000 kvadratmeter.
+
+Fördelar:
+•  Tillräckligt stor yta. En grundskola för 750 elever rekommenderas en friyta
+på cirka 22 500 kvadratmeter exklusive ytor för byggnader och angöring
+samt en förskola med kapacitet för 160 barn.
+•  Nära nytt resecentrum vilket främjar hållbart resande.
+•  Tillräckligt långt från befintliga Väröbackaskolan för att kunna skapa
+logiska upptagningsområden.
+•  Fördelaktigt i förhållande till Bua och ny exploatering som planeras där.
+
+Utmaningar:
+
+•  Industrivägen söder om området trafikeras av väldigt mycket tung trafik till
+och från Södra skogsägarnas industriområde.
+•  Söder om Industrivägen, tvärs över gatan från området planeras ett större
+industriområde med ”störande verksamheter”.
+•  Trafiksäkerhet och buller kommer bli nyckelfrågor.
+•  På området ligger en gammal avfallsdeponi från 1950- och 60-talen.
+
+Detta område är det minst tilltalande av de föreslagna alternativen trots att
+storleken skulle kunna ge plats för både ny grundskola och förskola.
+Det är framför allt den mycket tungt trafikerade Industrivägen och det nya
+industriområdet för ”störande verksamhet” som planeras rakt över vägen från
+område S6 som är oroande. Även deponin från 1950- och 60-talen är ett
+orosmoment.
+
+Övrigt
+
+Det är även viktigt att kommunens övriga nämnder och förvaltningar ger sin syn på
+de olika områdena för förskola och skola (S1-S7) utifrån sina expertkunskaper om
+förorenad mark, trafiksäkerhet och buller från Varbergsvägen och Industrivägen
+samt framtida industriområden med störande och eventuellt miljöfarliga
+verksamheter.
+
+Kommunens kommentarer
+Samhällsutvecklingskontoret tar tacksamt emot förvaltningens synpunkter på
+föreslagna ytor för förskolor, skolor och vårdboenden i samrådshandlingen. Inspel
+kring lokalisering och ytbehov kring respektive har beaktats och, tillsammans med
+övriga synpunkter och planeringsförutsättningar, legat till grund för vissa
+revideringar.
+
+48                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 155 -->
+
+Till granskningshandlingen har följande förändringar gjorts för utpekade S-
+områden:
+•  Område S3 (numera KS2) har utökats för att kunna ge utrymme för
+både förskola och skola. Markanvändningen har ändrats från ”skola” till
+”kommunal service” i syfte att kunna möjliggöra för olika typer av
+verksamheter för kommunala servicebehov. Platsen blir således lämplig
+för såväl förskola, skola som för vårdboenden av olika slag. Kommunen
+har rådighet över marken.
+
+•  Område S2 har utgått, då det kommunala servicebehovet som bedömdes
+behövas på platsen istället kan inrymmas i område KS2.
+
+•  Område S4 och S6 har utgått.
+
+•  Område S7 har flyttats längre österut för att undvika störningar i form av
+buller från väg 845. Ett läge närmre till befintligt naturområde (N1) och
+framtida föreslaget parkområde (P8) bedöms dessutom vara mer
+fördelaktigt utifrån ett barnperspektiv. Hänsyn har tagits till befintligt
+ställverk och kraftledningar i området så att förskolan hamnar utanför
+angivna riskavstånd. Ytan är tillräckligt stor för att inrymma en fullstor
+förskoleenhet.
+
+•  Område S1 och S5 har oförändrat geografisk utbredning men har, precis
+som övriga S-områden, ändrats från ”skola” till ”kommunal service” i
+syfte att kunna möjliggöra för olika typer av verksamheter för
+kommunala servicebehov.
+
+Hamn- och gatunämnden
+
+Hamn- och gatunämnden har tillstyrkt samrådshandlingen gällande fördjupad
+översiktsplan för Väröbacka till de delar som är av FÖP-karaktär eftersom
+samrådshandlingen innehåller allt för detaljerad text för att kunna vara hanterbart
+över tid. Detaljerna föreslås hanteras med fördel i andra dokument som kan behöva
+ändras mer frekvent över tid.
+
+Övervägande
+Det är bra och tydliga kopplingar mellan kommunens övergripande mål och
+strategier samt FÖP:ens mål och inriktningar. Det vore dock bra om dessa
+ytterligare kan förtydligas i kartans beskrivande texter i syfte att motivera och
+förklara planförslaget.
+
+Trafik
+Den stora utbyggnaden med samhälle och järnvägsstation kommer generera ny
+trafik inom och utanför planområdet vilket gör att behovet är stort att bygga om och
+förbättra i trafiksystemet för samtliga trafikslag.
+
+För att skapa en omfördelning av trafikslagen där biltrafiken idag utgör den
+dominerande parten behövs en stationsnära planering med en tyngdpunkt av
+befolkningsökningen styrd till stationens närhet kombinerat med kraftigt utbyggt
+kollektivtrafik och förbättringar i gång- och cykelvägnätet. Med den stora
+trafikmängd som kan genereras av utbyggnaden är det viktigt att samhället
+utformas så att aktiv mobilitet gynnas vilket är viktigt ur ett folkhälsoperspektiv.
+Gatorna måste utformas på ett trafiksäkert sätt som upplevs tryggt att färdas på och
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            49
+
+<!-- sida 156 -->
+
+över. Samtidigt som trafiksäkerheten på gatorna måste prioriteras högt behöver
+framkomligheten på det övergripande vägnätet vara god, då det är prioriterat ur ett
+statligt perspektiv.
+Den största insatsen i vägnätet är att bygga om trafikplats Limabacka till en
+cirkulationsplats för att öka trafiksäkerheten i korsningen, främst för oskyddade
+trafikanter men också för motorfordon. Med en cirkulationsplats fås också en tydlig
+entré till samhället och åtgärden är mer yteffektiv än dagens trafikplats.
+Förvaltningen ser positivt på denna åtgärd.
+
+Väg 845 föreslås få en ny karaktär som centrumstråk som binder ihop samhället. Då
+flödet ökar på vägen behöver det säkerställas att detta blir en trygg och säker miljö
+där gaturummet anpassas avseende hastighet, upplevelsevärden, separata gång- och
+cykelbanor samt säkra passager.
+
+Väghållarskapet i området föreslås bli kommunalt på gång- och cykelvägar och
+lokalvägnätet och fortsatt statligt för det övergripande vägnätet. Detta gör att det
+kan bli svårt att genomföra föreslagna åtgärder eftersom kommunen idag saknar
+mandat. Det är därför viktigt att tillsammans med Trafikverket skriva en
+avsiktsförklaring över föreslagna förändringar inom FÖP-området. Utan acceptans
+från Trafikverkets faller stora delar av FÖP- förslaget.
+
+Förutsättning för ett hållbart samhälle är att det finns attraktiv kollektivtrafik både
+för de starkaste pendlingsströmmarna och för resor som sker på fritiden. En ny
+station på Västkustbanan i Väröbacka är därför en förutsättning för en hållbar
+samhällsplanering i området. Attraktiva och trygga stationsområden är en
+förutsättning för att fler ska välja att åka kollektivt. Goda möjligheter för
+kollektivtrafik, både restidsmässigt och trafiksäkerhetsmässigt och att kunna gå och
+cykla enkelt och tryggt är en nyckel för att de lokala resorna ska ske med dessa
+trafikslag.
+Befintliga busshållplatser inom FÖP-området behöver tillgänglighetsanpassas och
+standarden behöver höjas med väderskydd, cykelparkering och eventuellt
+realtidsinformation. Det är också viktigt att se till att resenärerna kan ta sig hela
+vägen mellan bostad och hållplatsen säkert. Placering av hållplatserna inom FÖP-
+området bör redovisas i förslaget eftersom den nya samhällsomvandlingen kan
+kräva nya lösningar.
+
+Gestaltningen av de större vägarna är viktigt för att skapa stadsmässighet och
+lugnare trafikmiljö vilket bland annat minskar buller och barriäreffekter. Extra
+viktigt är området i sydöst där det idag är en begränsad tillgänglighet till övriga
+samhället och som omringas av stora barriärer. Förvaltningen anser att det vore bra
+om FÖP-förslaget redovisade principer för gestaltning av allmän plats eftersom det
+blir ett viktigt underlag i kommande detaljplanearbete.
+
+En passage över järnvägen föreslås i förlängningen av Gamla Buavägen. Denna
+förbindelse är viktig för att överbrygga barriären och skapa ett mer finmaskigt gång-
+och cykelnät. I FÖP-förslaget planeras bebyggelse på båda sidor av Västkustbanan
+vilket resulterar i att fler passagemöjligheter skulle behövas för att binda ihop
+samhället.
+
+Placering av skola
+Placeringen av skolan är en betydande fråga gällande färdmedelsval och en så
+central placering som möjligt är att föredra eftersom fler barn på orten då får nära
+till skolan och fritidsaktiviteter. Det måste dock även finnas trygg och säker
+
+50                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 157 -->
+
+infrastruktur för att barnen ska få förutsättningar att ta sig dit på egen hand både till
+skolan och på fritiden.
+Förvaltningen har analyserat de föreslagna placeringarna av skola där vi förutsatt
+utbyggd infrastruktur enligt FÖP-förslaget:
+
+S1, dagens placering: Ligger i utkanten av samhället i norr. Redan idag finns det
+ett utbyggt gång- och cykelnät kopplat till skolan och en busshållplats i nära
+anslutning. Skolan ligger en bit från väg 845.
+
+S3, längs med väg 853: Har en central placering i direkt anslutning till dagens
+centrum. Busshållplats finns i nära anslutning. Skolan ligger en bit från väg 845.
+
+S4, längs med väg 845: Har en central placering i orten längs med
+centrumstråket. Potentiellt kan en busshållplats placeras direkt utanför. Buller och
+säkerhet på grund av närheten till väg 845 kan bli en utmaning.
+S6, längs väg 850: Ligger i utkanten av samhället i syd väst. Redan idag finns det
+ett utbyggt gång- och cykelnät kopplat till skolan.
+
+Trafiksäkerhetsmässigt är bron över Västkustbanan på väg 850 en stor utmaning då
+gång- och cykelvägen här är 2,5 meter bred och det går mycket tunga fordon på
+vägen. Närmsta busshållplats ligger idag en bit ifrån och behöver komma närmre
+om skolan placeras här. Buller och säkerhet på grund av närheten till väg 850,
+industrispår och verksamheter kan bli en utmaning.
+
+Väg 845 och västkustbanan kommer i alla förslag ligga mellan skolan och bostäder
+vilket är en utmaning men trygga och säkra passager måste finnas för att trygga
+barnens skolväg.
+
+I fråga om placering av skola förordar förvaltningen i första hand S4 följt av S3. I
+fråga om placering av särskilt boende anser vi att båda placeringarna har likvärdiga
+för- och nackdelar.
+
+Grönstruktur
+Planförslaget visar på en god tillgång och kvalitet av både park och naturmark. Två
+genomgående grönstråk knyter samman framtidens Väröbacka och Limabacka. De
+binder samman större områden av natur, skog och parker och knyter också ihop
+ortens olika delar och vidare ut i det omgivande odlingslandskapet. I de större
+genomgående grönstråken föreslås en kombination av anlagda parker och
+naturmark som även kan nyttjas för dagvattenfördröjning och tillfällig
+översvämning i samband med skyfall vilka ger förutsättningar för en
+klimatanpassning av planområdet.
+Föreslagna parker blir integrerade i den omgivande bostadsbebyggelsen vilket
+skapar förutsättningar för trygghet och att parkerna blir välanvända och fungerar
+som mötesplatser. Stråken och de gröna platserna blir viktiga, dels för gång- och
+cykeltrafiken, dels för sociala möten samt för hantering av ekosystemtjänster såsom
+dagvatten och biologisk mångfald.
+
+I området C3 finns risk för att barriäreffekten från västkustbanan och väg 845
+innebär att området kommer få en sämre tillgång på park och naturmark i
+närområdet. I det kommande detaljplanearbetet är det viktigt att se till att även
+detta bostadsområde får förutsättningar för rekreation, grönska och sociala
+mötesplatser, både inom kvartersmark och allmän platsmark. Det är även viktigt att
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            51
+
+<!-- sida 158 -->
+
+säkerställa trafiksäkra passager över väg 845 för att säkerställa barns möjlighet att
+självständigt ta sig till närliggande park och naturområden.
+Landskapsbild
+
+Väröbacka och Limabacka är idag samhällen i ett utpräglat odlingslandskap. En
+utveckling enligt planförslaget kommer att innebära en påverkan på
+landskapsbilden och vyer över landskapet. För boende och verksamma inom och
+intill planområdet kommer närmiljön att förändras när jordbruksmark och delar av
+befintliga grönstrukturer tas i anspråk för exploatering. Vid fortsatt planering är det
+väldigt viktigt att tillkommande byggnaders storlek och placering anpassas till
+angränsande gårds- och bostadsbebyggelse för att begränsa den visuella samt
+upplevda påverkan på omgivningen.
+Föreslagna utbyggnadsområden ligger i ett öppet och flackt odlingslandskap vilket
+gör det extra viktigt att ta hänsyn och bevara viktiga siktlinjer i landskapet. Siktlinjer
+mot kyrkan och dess bebyggelse i odlingslandskapet har identifierats som en viktig
+karaktär och det är därför positivt att ingen ny bebyggelse tillåts i direkt anslutning
+till dessa strukturer.
+
+Från väg 845 är det viktigt att siktlinje mot kyrkan bevaras. Föreslagen bebyggelse
+framför Backa by (B20) och i område B7 behöver utformas på ett sätt så att inte
+siktlinjen till kyrkan försvinner. I planförslaget föreslås att område B7 bebyggs med
+villor och radhus i upp till tre våningar vilket kan vara en risk för bevarandet av
+siktlinjen mot kyrkan.
+
+Väröbacka har historisk utvecklats längs med de gamla vägsträckningar vilket den
+föreslagna planen bygger vidare på. För läsbarheten av landskapet är det positivt att
+ny bebyggelse placeras i anslutning till de befintliga vägarna – en
+bebyggelseutveckling som binder samman orterna längs vägarna i nord-sydlig
+riktning är att föredra framför en öst-västlig.
+
+Föreslaget bostadsområde B8 är ett exempel på hur orten föreslås utvecklas i östlig
+riktning vilket påverkar läsbarheten av landskapet på Väröhalvön på ett negativt
+sätt. Bostadsområdet riskerar att upplevas som en enklav i ut större
+odlingslandskapet utan några naturliga landskapselement som gränser. I det
+fortsatta arbete är det viktigt att säkerställa goda förutsättningar för vegetation och
+särskilt stora träd som kan bädda in nya utbyggnadsområden och skapar en mjuk
+övergång till det befintliga odlingslandskapet.
+Hamn- och gatuförvaltningen är mycket positiv till att FÖP-förslaget föreslår en väl
+utvecklad grön-blå-svart infrastruktur där hållbara transportsätt ska prioriteras och
+grönområden utvecklas.
+
+Kommunens kommentarer
+
+Samhällsutvecklingskontoret noterar hamn- och gatunämndens synpunkt om att
+planen är alltför detaljerad och att den därmed riskerar att bli svårhanterlig över
+tid. Kontoret bedömer att man har följt den beställning av uppdraget som gavs av
+kommunstyrelsen 25 juni 2019 Ks § 148, det vill säga att planen ska göras på en så
+detaljerad nivå att det går att gå direkt på detaljplanering och att planprogram
+kan undvikas.
+Synpunkt kring förtydligande av övergripande mål i beskrivande texter noteras.
+Beskrivningen av hur planens övergripande mål formar markanvändningen i
+Väröbacka definieras i avsnittet ”Ställningstaganden och hänsyn”.
+
+52                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 159 -->
+
+Kontoret noterar nämndens förslag till att skriva en avsiktsförklaring med
+Trafikverket angående framtida vägförändringar inom FÖP-området, och tar
+med sig detta i det fortsatta arbetet.
+Planhandlingarna har inte kompletterats med kartlager över strategiskt viktiga
+hållplatslägen för bussar, då detta inte bedöms vara relevant på FÖP-nivå samt
+utanför kommunens rådighet.
+
+Planhandlingarna har kompletterats med en illustration över viljeinriktningen för
+Varbergsvägens framtida karaktär. Illustrationen ska fungera som vägledning för
+framtida utformning av bebyggelsen i anslutning till gaturummet samt för
+gaturummet som allmän plats. Mer detaljerade gestaltningsprinciper tas fram i
+senare planeringsskeden.
+
+Kopplingar över och under järnvägen är viktiga för samhällets utveckling. Att
+bygga nya kopplingar är komplicerat och kostsamt. I planförslaget föreslås en ny
+bro över järnvägen (GC4) samt en ny väg (VÄ19) som förbinder befintlig tunnel
+vid Lidenvägen med befintlig bro vid Industrivägen. Utöver detta kommer det att
+anläggas en ny gångförbindelse över spåren i samband med stationsområdet.
+Sammantaget möjliggör FÖP:en för sex olika passager över/under järnvägen.
+Istället för att föreslå ytterligare kopplingar bör dessa åtgärdas med hänsyn till
+trygghet och säkerhet.
+
+Samhällsutvecklingskontoret tar tacksamt emot synpunkter på de olika
+skollokaliseringarna. Inför granskningsskedet har kontoret kompletterat
+underlaget till planen med en barnkonsekvensanalys (BKA) för de olika lägena.
+Analysen har bidragit till en ökad förståelse för barnperspektivet i planeringen,
+och har, tillsammans med övriga betydande planeringsförutsättningar, legat till
+grund för det slutliga förslaget till skollokalisering. Till granskningshandlingen
+har slutligen alternativ S3 (numera KS2) valts för utveckling av kommunal
+service.
+Samhällsutvecklingskontoret noterar synpunkterna om brist på närhet till
+kvalitativ park- och naturmark för område C3, samt vikten av att säkerställa
+trygga och trafiksäkra passager över väg 845 för barns möjlighet att självständigt
+ta sig till närliggande park- och naturområden. Planförslaget har justerats så att
+grönstråket som benämns GS5 utökas till att även omfatta befintlig närliggande
+skogsdunge. På så vis säkerställs gröna kvaliteter inom området. Utöver detta
+kommer det att bli viktigt att tillskapa nya gröna gårdsmiljöer inom framtida
+bebyggelsekvarter inom området. Detta har tydliggjorts i objektsbeskrivningen för
+C3 (nuvarande FB3).
+
+Kartan har kompletterats med siktlinjer över de stråk som bedöms vara viktigast
+att bevara mellan Varbergsvägen och kyrkan. Dessutom har område B8 minskat i
+omfattning till granskningshandlingen. Kontoret bedömer att detta, i kombination
+med övrig vägledning inom respektive objektsbeskrivning, kan bidra till en god
+bebyggelseutveckling och att vägledningen i planhandlingen är tillräckligt bra för
+efterföljande planering så att negativ påverkan på landskapsbild och intilliggande
+kulturmiljöer kan undvikas.
+
+Kultur- och fritidsnämnden
+Kultur- och fritidsnämnden har översänt förvaltningens tjänsteutlåtande som sitt
+eget yttrande.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            53
+
+<!-- sida 160 -->
+
+Följande ställningstaganden för kultur och fritid finns angivna i
+samrådshandlingen:
+•  Lokaler för olika aktiviteter ska integreras i bebyggelsen.
+•  Samhällsstrukturen ska ge plats för offentliga rum som kan användas för
+olika typer av aktiviteter, både på gator, på torg och i grönstrukturen.
+
+•  Skolans område ska bli en offentlig mötesplats med möjlighet för en
+variation av aktiviteter både under och efter skoltid.
+•  Lokaler ska placeras lättillgängligt i gatunätet med närhet till
+centrumstråket och resecentrum.
+•  Idrottsrörelsen ska ges plats i samhället, det gäller både spontanidrott och
+den som finns i föreningslivets verksamheter.
+
+Övervägande
+I Väröbacka finns ett rikt föreningsliv med idrott, hembygds- och
+bygdegårdsföreningar. I takt med att befolkningen ökar i samhället kommer behovet
+av idrottsytor att öka för både inne och utomhusidrott. Utveckling av dessa bör ske
+där barn och ungdomar vistas och samnyttjande av skolans utemiljöer och lokaler är
+naturligt. Det förutsätter yta i närheten av grundskolan som planeras även för
+uteidrott.
+Samhällsstrukturen ska ge plats för offentliga rum som kan användas för konst,
+kultur och aktiviteter, både på gator, torg och i grönstrukturen. Offentlig konst är en
+viktig del av den gestaltade livsmiljön när samhället utvecklas. Det skapar
+mervärden, bidrar till ökad livskvalitet och till ett mer hållbart samhälle
+
+Angränsande till området finns en av kultur- och fritidsnämndens
+idrottsanläggningar för bandy och friluftsaktiviteter. Anläggningen Sjöaremossen
+och angränsande grönområde med exempelvis Borrås skåra är ett av Varbergs
+friluftsområden som på sikt kan utvecklas till ett nav för rekreation och
+friluftsaktiviteter. I denna FÖP är det viktigt att tänka in tillgängligheten även till
+detta område när kollektivtrafik och cykelbanor planeras.
+
+Den kulturmiljöutredning som gjorts inom ramen för FÖP-arbetet har enbart
+fokuserat på kyrkbyn och Backa by, den södra delen med gårdarna på rad. Även
+Väröbackas gästgiveri (Värö-Backa 31:7) ligger inom planområdet och har blivit
+värderad till klass B i bebyggelseinventeringen. Det innebär att bebyggelsen är
+mycket kulturhistoriskt värdefull och har både identitetsvärde och
+samhällshistoriskt värde. I de dialoger som genomförts framkom dessutom att
+Väröbackas gästgiveri är en viktig identitetsskapande byggnad för ortsborna. Utifrån
+detta bör ett ställningstagande kring Väröbacka gästgiveri göras i förslaget.
+
+För att få en förutsägbarhet i det kommunala erbjudandet på olika orter skulle det
+underlätta med en övergripande definition av vilken kommunal service som bör
+finnas i exempelvis serviceorter. En sådan definition skulle exempelvis kunna
+inkluderas i den kommande översiktsplanen och därmed även följa med i
+fördjupade översiktsplaner.
+
+Jämlikhetsbedömning
+Fokuset på bostäder är en av de största förutsättningarna för att alla människor ska
+ha möjlighet att leva och bo i Väröbacka. Varierade boendeformer och blandade
+storlekar på bostäder möjliggör ett mer inkluderande samhälle då framför allt
+socioekonomi och funktion inte kommer att ha så stor betydelse. Även närheten till
+
+54                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 161 -->
+
+olika delar av samhällsservice och arbete är av stor vikt för människor som av olika
+anledningar inte kör bil.
+I förslaget benämns kön, socioekonomi, ålder och funktionsnedsättning, men det
+talas mer implicit om övriga diskrimineringsgrunder såsom etnicitet, religion,
+sexuell läggning eller könsöverskridande identitet eller uttryck. Dock tar planen
+ändå upp mål kopplat till ett jämlikt och inkluderande samhälle, framför allt när det
+handlar om mötesplatser som ska ha flera funktionsmöjligheter och vara offentliga,
+bokningsbara eller spontana.
+
+Ekonomi och verksamhet
+Det är troligt att behovet av kultur- och fritidsnämndens verksamheter, så som en
+mötesplats med exempelvis bibliotek samt aktiviteter för ungdomar och seniorer,
+kommer att öka i området vid en tillväxt av den här storleken. En etablering av
+nämndens verksamheter i Väröbacka behöver resurssättas, kostnadsberäknas och
+sättas i relation till andra ekonomiska åtaganden nämnden svarar för, innan ett
+eventuellt genomförande kan beslutas.
+
+Kommunens kommentarer
+
+Samhällsutvecklingskontoret instämmer i att det finns behov av tillräcklig yta för
+utemiljö, inom eller i anslutning till utpekade platser för kommunal service. Ytorna
+för skolor i plankartan är väl tilltagna för att klara gällande riktlinjer för
+utomhusmiljö. Planförslaget har dessutom konstruerats på ett sådant sätt att
+parker, natur och grönstråk i olika storlekar ska finnas inom gångavstånd från
+bostäder, skolor och arbetsplatser.
+Sjöaremossens idrottsanläggning ligger förhållandevis långt utanför
+planområdet. Vägarna i planförslaget, som ansluter mot nordost, föreslås kunna
+inrymma alla trafikslag och därmed möjliggöra för gång- och cykelvägar mot
+Sjöaremossens idrottsanläggning. Planering av kollektivtrafik mellan Väröbacka
+och Sjöaremossen sker i dialog med Hallandstrafiken på Region Halland.
+
+I objektsbeskrivningen för området där Gästgiveriet ligger (område B3)
+uppmärksammas att hänsyn ska tas till befintliga kulturvärden i området, så som
+Gästgiveriet. Bland kartlagren (Riksintressen och andra värden – Övriga värden)
+finns Gästgiveriet utpekat som Klass B-byggnad i Bebyggelseinventeringen.
+Objektsbeskrivningen har kompletterats med en beskrivande text om Gästgiveriet
+och dess kulturmiljövärden under rubriken ”Beskrivning”. Även kapitlet
+”Arkitektur, kulturmiljö och landskapsbild” har kompletterats med
+ställningstagande om Gästgiveriet.
+
+I arbetet med en ny kommunövergripande översiktsplan utvecklas resonemanget
+kring kommunens olika orter samt vad som kan förväntas i form av service.
+
+Miljö- och hälsoskyddsnämnden
+
+Miljö- och hälsoskyddsnämnden har översänt förvaltningens tjänsteutlåtande som
+sitt eget yttrande.
+
+Yttrande
+Samrådshandingen för den fördjupade översiktsplanen (FÖP) för Väröbacka är väl
+genomarbetat. Vissa frågor behöver dock utvecklas till nästa planeringsskede.
+Synpunkterna nedan berör i första hand frågor kopplat till miljö- och
+hälsoskyddsförvaltningens grunduppdrag.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            55
+
+<!-- sida 162 -->
+
+Buller
+Miljö- och hälsoskyddsförvaltningen (MHF) instämmer i huvudsak med FÖP:ens
+ställningstaganden för buller och vibrationer. Däremot ska en olägenhetsbedömning
+och en prövning av markens lämplighet utifrån bulleraspekten alltid göras oavsett
+sträcka från en större väg eller järnväg.
+
+En bullerutredning har tagits fram till FÖP:en och i utredningen framgår det att
+fiktiva byggnader har placerats ut för att testa vilken ljudnivå det blir med olika
+former. Den ekvivalenta ljudnivån uppgår till 71 dBA och den maximala ljudnivån
+uppgår till 91 dBA för bostäder närmast spår. I bullerutredning framgår dock att
+utredning av industribuller eller vibrationer från väg och järnväg har inte gjorts.
+Detta innebär att bullernivåerna kan bli högre och det är därför viktigt att bullret
+utreds vidare i varje framtagande av en detaljplan i framtiden.
+Vidare behöver FÖP:en också ta hänsyn till nuvarande och kommande industrier.
+Naturvårdsverket har tagit fram en vägledning om industri- och annat
+verksamhetsbuller där det framgår riktvärden för ljudnivåer utomhus vid ny
+bostadsbebyggelse och vid befintliga bostäder samt skolor, förskolor och
+vårdlokaler. Naturvårdsverket har likaså tagit fram en vägledning om buller från
+väg- och spårtrafik på skolgårdar som behöver tillämpas vid kommande
+planläggning. MHF vill även upplysa om att infrastrukturpropositionens 1996/97:53
+riktvärden gäller vid befintliga bostäder samt vid väsentlig ombyggnad av
+trafikinfrastrukturen. En ny tågstation räknas som en väsentlig ombyggnad enligt
+praxis. Dessa riktvärden är strängare än Förordning 2015:216 om trafikbuller vid
+bostadsbyggnader.
+
+Förorenad mark
+Planförslaget bidrar till att fler förorenade områden kommer att behöva
+efterbehandlas eller undersökas ytterligare. Konsekvensens bedöms därför bli
+positiv avseende förorenad mark.
+
+Marken intill järnvägsspåret bör även undersökas då det finns en risk att den är
+förorenad. Järnvägsspår kan generellt bidra med diffus föroreningsspridning till sin
+närhet. Föroreningar kopplat till järnväg är PAH, dioxin, fenol och diverse metaller
+som härstammar från impregneringen av slipers. Bekämpningsmedel kan även ha
+använts på banvallarna för att hålla vegetationen borta. MHF anser att utredningar
+kan göras i samband med detaljplanearbetet längre fram men det bör belysas redan
+nu i detta skede.
+
+Delar av område S6, där en skola föreslås byggas består av en gammal deponi som
+kan innehålla hushålls- och trädgårdsavfall samt slaktavfall. Detta måste tas i
+beaktning och hur en sådan bebyggelse ska hanteras behöver tas i noga
+övervägande. Vid nedbrytning av organiskt material i anaeroba miljöer uppstår
+deponigas, en gasblandning som består av 50 % metangas och 50 % koldioxid. Vid
+byggnation på gamla deponier finns det risk för att gasen kan ledas via ledningar
+eller ledningsgravar till slutna utrymmen där en explosion eller kvävning kan
+komma att uppstå.
+
+SGI skriver att ”Man bör undvika att exploatera gamla deponier. Om det trots allt
+måste göras bör organiskt material i förekommande fall grävas bort. Gasbildning
+och gastransport i ledningar och ledningsgravar måste beaktas så att
+explosionsrisk inte uppkommer”.
+I områdena V3, B9, B14 och B19 finns det verksamheter där miljöfarlig verksamhet
+enligt miljöprövningsförordningen pågår eller har pågått där samtliga är riskklass 3
+
+56                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 163 -->
+
+enligt EBH listan (Efterbehandlingslista för potentiellt förorenade områden). Vid
+byggnation intill eller på dessa marker så kan det bli aktuellt med saneringsåtgärder.
+Radon
+
+FÖP:en behöver förtydligas med att i Väröbacka förekommer områden med
+uppmätta markradongashalter. SGU utförde en flygmätning 2011 över området där
+resultatet visar att förhöjda markradongashalter finns.
+
+Skolor/förskolor
+I planförslaget framgår att om Väröbacka byggs ut enligt planförslaget fram till 2050
+behövs två nya förskolor (8 avdelningar) och en ny grundskola (årskurs F-9). Detta
+förutsätter dock att även befintliga skolor i Bua och Väröbacka byggs ut. I
+samrådsförslaget till FÖP Väröbacka finns därför två förslag på lokaliseringar av ny
+förskola samt tre alternativa lokaliseringar för en ny grundskola. Endast ett av
+föreslagna lägen för ny skola behövs och kommer att finnas med i planen som
+slutligen antas.
+MHF har följande synpunkter gällande de förslagna plasterna för ny förskola
+respektive skola. Gällande S1 och S5 väljer MHF att inte lämna synpunkter då S1 är
+en befintlig skola och för S5 yttrande sig miljö- och hälsoskyddsnämnden i
+framtagandet av detaljplanen för förskolan.
+
+I planförslaget nämns inte storleken på områdena samt förväntad tillgång på friyta.
+MHF anser att information och kommunens ställningstagande kring friyta bör
+finnas med i FÖP:en. Detta då det är viktigt för barnens hälsa och välbefinnande att
+de har möjlighet till regelbunden daglig utevistelse i tillräcklig omfattning samt en
+bra miljö för att förebygga risken för olägenheter för människors hälsa. Forskning
+visar att den totala storleken på friytan helst ska överstiga 3000 m2. På en gård som
+är mindre, oavsett antal barn, kan en barngrupp få svårt att utveckla lek och socialt
+samspel på ett sätt som tillgodoser deras behov. Enligt Boverkets
+rekommendationer är det lämpligt att varje barn har en friyta om 40 m2 per barn i
+förskolan och 30 m2 per barn i grundskolan.
+
+Vidare har Boverket skrivit att friytan bör kännetecknas av varierande terräng – och
+vegetationsförhållanden, goda sol- och skuggförhållanden, god luftkvalitet samt god
+ljudkvalitet. Vid placering och anordnande av friytan bör särskilt beaktas friytans
+tillgänglighet, säkerhet och förutsättningarna för att bedriva ändamålsenlig
+verksamhet. MHF har noterat att alla föreslagna platser förutom S6 består idag av
+jordbruksmark, området där S6 är utgörs idag av en idrottsplats. Då dessa platser
+saknar tillgång till växtligheter så som stora träd och varierad terräng ställer detta
+stora krav på kommande arbete vid projektering av de nya förskole- respektive
+skolverksamheter för att säkerställa en god friyta för barnen.
+
+Förslag - S2 (förskola)
+Området bedöms som ett bra förslag för en framtida förskola. Området ligger dock
+inom ett förhöjt markradonområde (3,0–3,5 ppm och 3,5–4,0 ppm) enligt
+kommunens GIS-skikt. Radongashalten bör kontrolleras djupare innan byggnation
+påbörjas för att utreda om förskolan behöver byggas radonsäker eller ej.
+
+Förslag - S3 (skola)
+Enligt MHF:s uppfattning bedöms området utifrån nämndens tillsynsområde vara
+det mest lämpliga område för en ny framtida skola. Området ligger dock inom visa
+delar på ett förhöjt markradonområde (2,5–3,0 ppm) enligt kommunens GIS-skikt.
+Radongashalten bör kontrolleras djupare innan byggnation påbörjas för att utreda
+om förskolan behöver byggas radonsäker eller ej.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            57
+
+<!-- sida 164 -->
+
+Förslag - S4 (skola)
+Den föreslagna platsen anses mindre lämplig för skola ur bullersynpunkt på grund
+av närheten till trafiken på Varbergsvägen och järnvägen. Enligt bullerberäkningen
+som har tagits fram ligger delar av området över 50 dBA. Om området bebyggs
+kommer eventuellt bullerreducerande åtgärder att krävas alternativ att
+skolbyggnaden används som bullerreducerande.
+Naturvårdsverket vägledning om buller från väg- och spårtrafik på skolgårdar
+behöver tillämpas.
+
+Delar av utpekat område kommer vara väldigt blöta vid skyfall då det finns utpekade
+lågpunkter inom området enligt kommunens GIS. Detta innebär att stora delar av
+förskolans utegård blir begränsad och den kommer ej vara tillgänglig för barnen.
+Rekommendationen kring tillräcklig stor friyta per barn kommer därmed att vara
+svår att uppnå.
+
+Med anledning av ovanstående anser MHF att man inte bör gå vidare med detta
+område för skolverksamhet i planprocessen då det finns bättre alternativ utpekade.
+
+Förslag – S6 (skola)
+Den föreslagna platsen anses mindre lämplig för skola ur bullersynpunkt på grund
+av närheten till trafiken på vikresvägen och järnvägen samt Södra Cells verksamhet
+(industri samt timmerlagringen). Enligt bullerberäkningen som har tagits fram
+ligger delar av området över 50 dBA. I bullerutredningen som har tagit fram har
+man dock inte utrett buller från industri eller vibrationer från väg och järnväg. Detta
+innebär att bullernivåerna kommer bli högre. Om området bebyggs kommer
+eventuellt bullerreducerande åtgärder att krävas. Naturvårdsverket vägledning om
+buller från väg- och spårtrafik på skolgårdar och deras vägledning om industri- och
+annat verksamhetsbuller behöver tillämpas.
+
+Inom området finns även en gammal deponi (riskklass 3) vilken behöver utredas
+och eventuellt saneras innan byggnation.
+Förebyggande arbete kring suicid i den fysiska miljön samt tillsyn på farligt gods
+ligger inte inom MHF:s myndighetsområde men förvaltningen ställer sig
+tveksamma om det är lämpligt att placera en skola så nära en järnväg som föreslaget
+område ligger. Området ligger dessutom inom Ringhals inre beredskapszon.
+
+Med anledning av ovanstående anser MHF att man inte bör gå vidare med detta
+område för skolverksamhet i planprocessen då det finns bättre alternativ utpekade.
+
+Förslag – S7 (förskola)
+Den föreslagna platsen anses mindre lämplig för förskola ur bullersynpunkt på
+grund av närheten till trafiken på Varbergsvägen och järnvägen. Enligt
+bullerberäkningen som har tagits fram ligger nästintill hela det utpekade området
+inom 60 dBA. Om området bebyggs krävs bullerreducerande åtgärder.
+Naturvårdsverket vägledning om buller från väg- och spårtrafik på skolgårdar
+behöver tillämpas.
+
+Stora delar av utpekat området kommer vara väldigt blöta vid skyfall då det finns
+utpekade lågpunkter inom området enligt kommunens GIS. Detta innebär att stora
+delar av förskolans utegård blir begränsad och den kommer ej vara tillgänglig för
+barnen. Rekommendationen kring tillräcklig stor friyta per barn kommer därmed
+att vara svår att uppnå.
+
+58                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 165 -->
+
+Förebyggande arbete kring suicid i den fysiska miljön samt tillsyn på farligt gods
+ligger inte inom MHF:s myndighetsområde men förvaltningens ställer sig
+tveksamma om det är lämpligt att placera en förskola så nära en järnväg som
+föreslaget område ligger.
+MHF anser att det är önskvärt att kommunen undersöker vidare om det finns en
+annan placering för en förskola.
+
+Vattenförhållanden
+VA-utredningen visar på att föroreningsbelastningen ökar jämfört med befintlig
+situation och att rening är därför nödvändig för att inte påverka
+vattenförekomsterna negativt. MHF anser såsom VA-utredningen samt
+miljökonsekvensbeskrivning (MKB) beskriver att det behövs en väl planerad
+hantering av dagvatten och skyfall. VA- utredningen ger en vägledning för hur
+dagvattenhantering, skyfall och översvämningar ska hanteras i fortsatt planarbete.
+
+VA-utredningen beskriver att det är ett relativt stort fördröjningskrav som råder
+ifrån områdena och dagvattenhantering vars yta blir tämligen stort. Ytor kan
+behövas reserveras i den framtida planeringen så att de kan användas för
+dagvattenhantering. Det är viktigt att dagvattenhanteringen utreds vidare i varje
+delområde. I områden där det finns kända/potentiella föroreningar i mark så kan
+val av dagvattenmetod påverka var och hur dagvattnet ska hanteras och vart dessa
+åtgärder ska placeras för att inte sprida föroreningarna vidare.
+
+Det finns idag inga fördröjnings- eller reningsanläggningar inom planområdet och
+MHF anser att även befintligt område ska tas i beaktande gällande
+dagvattenhanteringen vid framtida exploatering. Enligt VA-utredningen finns det
+också ett behov av att utreda Trafikverkets vägar och järnväg vad gäller dagvattnets
+avledning.
+
+Det finns flera lågpunkter inom och utanför planområdet där vatten kan ansamlas
+vid skyfall. MHF anser att dessa ska beaktas vid framtida exploatering för att inte
+påverka befintlig bebyggelse negativt.
+
+Miljöfarliga verksamheter, skyddsavstånd
+Då planförslaget innebär att en större mängd människor verkar och bor inom ett
+område med ett flertal riskkällor behöver skyddsavstånd beaktas.
+Rekommenderade skyddsavstånden och risker behöver utredas och följas upp under
+planeringen. Såsom tillhörande MBK beskriver kan det finnas behov av fördjupade
+riskutredningar i senare skede och det kan finnas scenarier där flera risker
+samverkar. Kumulativa effekter från buller, vibrationer, havsnivåhöjning, skyfall etc.
+kan påverka skyddsavstånden.
+
+Industrimark där det planeras massupplagg med trä och virke beräknas påverkas av
+framtida höjda havsnivåer. Ska denna mark höjdsättas ytterligare för att undvika
+översvämningsrisker så ska detta med i utredningar som görs för den planen då det
+kan innebära förändringar avseende buller, ljusstörningar, dagvattenhantering etc.
+
+Kommunens kommentarer
+
+Samhällsutvecklingskontoret är medveten om att flera föreslagna
+utbyggnadsområden ligger i bullerutsatta lägen och att såväl trafik- som
+industribuller kommer att behöva studeras vidare i kommande planeringsskeden.
+Modern byggteknik möjliggör för stor bullerdämpning mellan utemiljön och
+inomhusmiljön, samtidigt som bebyggelsestrukturen i sig kan optimeras för att
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            59
+
+<!-- sida 166 -->
+
+begränsa bullerutredningen i lokalsamhället. Det sistnämnda motiverar att
+planförslaget delvis möjliggör för byggnation i mer bullerutsatta lägen, för att
+samhället som helhet ska kunna byggas stationsnära utan att vara för
+bullerutsatt. Kommunen kommer följa bullerförordningens riktvärden samt
+Naturvårdsverkets vägledning om industri- och annat verksamhetsbuller, och
+arbeta med tyst sida.
+Samhällsutvecklingskontoret noterar synpunkter om att utredningar av förorenad
+mark kommer behöva göras i efterföljande skeden samt att detta bör beskrivas i
+den fördjupade översiktsplanen. Planen kompletteras med skrivning om att även
+risk för förorenad mark kan förekomma intill järnvägen i avsnittet ”Miljö, hälsa,
+risk och säkerhet – Förorenad mark”.
+
+Samhällsutvecklingskontoret tar till sig angående kunskapen om risk för
+förorenad mark på område S6, där det tidigare har legat en deponi. Aspekten att
+området ej rekommenderas för exploatering, alternativt kommer behöva saneras
+innan förändrad markanvändning, vägs in i den slutliga utvärderingen av
+skollokaliseringar. Förvaltningen noterar även informationen om att det i område
+V3, B9, B14 och B19 pågår eller har pågått miljöfarlig verksamhet, samt att det vid
+exploatering kan bli aktuellt med saneringsåtgärder.
+
+Avsnittet ”Miljö, hälsa, risk och säkerhet” har kompletterats med text om att det i
+Väröbacka förekommer områden med uppmätta markradongashalter. Dessa
+områden finns även redovisade i ett kartskikt under ”Riksintressen och andra
+värden – Särskild hänsyn”.
+
+Planhandlingarna kompletteras med rekommendationer kring friytor för
+förskolor och skolor. Detta görs både i avsnittet ”Bebyggelse och offentlig service”
+samt i respektive objektsbeskrivning för ”Kommunal service”.
+Samhällsutvecklingskontoret tar till sig om synpunkter kring svårigheter att få till
+goda friytor, framför allt med hänsyn till växtlighet och varierad terräng, på
+områden som idag utgörs av jordbruksmark.
+Samhällsutvecklingskontoret tar till sig av nämndens synpunkter på de olika
+skollokaliseringarna och tar med sig detta i den slutliga utvärderingen av lägena.
+Synpunkterna berör bland annat förutsättningar och risker för buller och
+vibrationer, översvämning, radonhalter och suicid.
+
+Samhällsutvecklingskontoret noterar nämndens kommentarer avseende hantering
+av dagvatten, skyfall och övriga typer av översvämningar samt instämmer i
+vikten av att mer detaljerade VA-utredningar behöver göras i det fortsatta arbetet.
+
+Socialnämnden
+Socialnämnden har tillstyrkt förslag till fördjupad översiktsplan för Väröbacka samt
+översänt förvaltningens tjänsteutlåtande som sitt eget yttrande.
+
+Socialnämnden har i övrigt inga synpunkter på förslaget.
+
+Kommunens kommentarer
+Synpunkten noteras.
+
+Vatten & Miljö i Väst AB
+Vivab har tagit del av samrådshandlingarna och har följande synpunkter:
+
+60                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 167 -->
+
+Vivab är positiva till planeringsunderlag, fördjupad översiktsplan för Väröbacka,
+vilket ger en grund för framtida planering av vatten, spillvatten och dagvatten samt
+avfall i området.
+Vid planering för Vivabs anläggning så är det viktigt att tillräckliga ytor finns och att
+dessa anpassas till framtida planering. Även planeringsförutsättningar som
+geoteknik, miljö, hydrologi, havsnivå m.m. är förutsättningar som ska beaktas.
+
+Inom Vivab pågår arbete med att bättre nyttja potentialen i avloppsflödet, vilket
+skulle kunna innefatta annan typ av teknik så som cirkulära system inom vatten,
+spillvatten och dagvatten, vilket beskrivs i VA-utredningen.
+
+Vivab skulle vilja göra följande justeringar i texten under:
+Ställningstagande och hänsyn/Energi och teknisk försörjning/Ställningstaganden
+
+•  Väröbacka eftersträvar ett så cirkulärt dagvattensystem som möjligt, som
+inte nämnvärt kommer påverka tillflöde eller kvalitet vid recipient.
+ersätts med, Väröbacka omfattas av lokalt omhändertagande av dagvatten,
+och ska eftersträva att fördröja och rena dagvattnet så nära källan som
+möjligt och med effektiva dagvattenlösningar för att minimera påverkan på
+recipient. Vivab ska arbeta för att möjliggöra återanvändning av dagvatten
+till tex bevattning, tekniskvatten, mm.
+•  Spillvatten ska skiljas från dagvatten innan transport till reningsverk.
+ersätts med, Vivab ska inom Väröbacka möjliggöra för att kunna införa
+cirkulära system för spillvatten.
+•  VA-utredningen bör länkas in under avsnittet.
+
+Kommunens kommentarer
+Planhandlingarna justeras utifrån Vivabs förslag på textändringar. VA-
+utredningen länkas in under avsnittet ”Energi och teknisk försörjning”.
+
+Räddningstjänsten Väst
+Räddningstjänsten Väst har tagit del av samrådshandlingarna och har följande
+synpunkter:
+
+Klimatpåverkan – framkomlighet
+Det råder konsensus i världen om att havsnivåerna kommer att öka. Frågan är bara
+när och i vilken omfattning. Att man tar höjd för att vattennivåer kan höjas redan nu
+ser vi positivt på.
+
+Vi vill dock flagga för vikten av att vägar som finns i området säkras för
+översvämningar. Räddningstjänst, ambulans och polis skall kunna ta sig fram på
+vägarna oavsett händelser och väderförhållanden. Vägarna 847, 848 och 850 skall
+vid en olyckshändelse kunna hantera både utrymmande boende samt
+räddningspersonal som skall till Ringhals anläggningen.
+
+Brandvattenförsörjning – sprinkler
+Det är viktigt att redan från början bygga ett vattenledningsnät som både klarar
+färskvattenleverans och uttag från brandpost så att inga tryckförluster eller
+föroreningssituationer uppstår vid en eventuell släckinsats i området.
+
+Användandet av sprinkler vid bostadsbyggande och kanske då i första hand
+flerfamiljshus, kommer med stor sannolikhet att öka i Sverige. Det finns andra
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            61
+
+<!-- sida 168 -->
+
+alternativ för att säkra de boendes möjlighet till utrymning men sprinkler kommer
+att bli en ny möjlighet från och med årsskiftet 2024/2025 då Boverket beräknas
+komma med nya byggregler.
+Bostadshöjder – utrymning med hjälp av räddningstjänsten
+
+Vid de förtätningar som förekommer i Varberg och då i första hand Varbergs stad så
+vill byggarna få plats med så många lägenheter som möjligt på så liten yta som
+möjligt. Detta innebär att man bygger på höjden och det är stor sannolikhet att
+önskemål om det även kommer att ställas i Väröbacka.
+Boverkets byggregler medger att räddningstjänstens bärbara stege kan användas om
+det vertikala avståndet mellan mark och ett fönsters underkant eller balkongräckets
+överkant inte överstiger 11 meter.
+
+Alla fastigheter som byggs högre än så måste ha alternativa utrymningsmöjligheter
+enligt gällande och kommande byggregler från Boverket. (nuvarande och
+kommande byggregler 2025 har samma begränsningar vad det gäller
+räddningstjänstens utrustning.)
+
+Västkustbanan och Varbergsvägen (gamla E6) – trafik och farligt
+gods
+På Västkustbanan transporteras stora mängder gods och en del av det gods är så
+kallat farligt gods. I förslaget till fördjupad översiktsplan finns ett antal tomter
+upptagna som alternativ för byggnation av skola och vårdboende. En del av dessa
+tomter är lokaliserade nära Västkustbanan vilket ställer krav på skyddsåtgärder för
+byggnaderna och de som befinner sig där i.
+
+Vi rekommenderar att man placerar skola och vårdboende 150 meter från
+Västkustbanan vilket gör att man inte behöver vidtaga åtgärder för att säkra
+personer eller fastigheter. Desto närmare man bygger järnvägen ju fler åtgärder
+krävs för att säkerställa liv och hälsa.
+
+Vid planering och framtagande av detaljplaner i anslutning till transportleder för
+farligt gods ska risker inom ett 150 meter brett riskhanteringsområde alltid
+utredas och avvägas. (Varbergs kommun, 2010)
+
+Varbergsvägen (gamla E6) fungerar som omledningsväg när och om trafiken på
+motorvägen E6/E20 behöver ledas om. Det här innebär att även transporter av
+farligt gods kommer ske den vägen.
+Med sänkt hastighet på Varbergsvägen till exempelvis 40 km/h genom samhället
+minskas riskerna för svåra följder av en olycka med fordon som transporterar farligt
+gods. En hastighetssänkning ökar även säkerheten generellt på vägen genom
+Väröbacka.
+
+För att en evakuering av Ringhalsområdet skall fungera så smärtfritt som möjligt
+gäller det att inga flaskhalsar finns i vägsystemen. Räddningspersonal skall kunna
+sig in samtidigt som personer evakuerar. Vid paniksituationer kan logiskt tänkande
+och sunt förnuft åsidosättas, vilket kan leda till att köer ej respekteras. Kan man då
+redan från början bygga vägar så att ett konstant flöde kan fås i ett så stort område
+som möjligt är det att förorda.
+
+62                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 169 -->
+
+Beredskapszoner – närheten av Ringhals
+Aktuellt planområde ligger inom den inre beredskapszonen (5 km, Väröhalvön) för
+kärnkraftverket Ringhals. Den inre beredskapszonen ska evakueras inom 4 timmar
+vid ett eventuellt haveri på Ringhals.
+
+Kommunen behöver planera för denna evakuering och har dessutom krav på sig att
+vara behjälplig för evakuering av svårrörliga grupper. Generellt inom både den inre
+och yttre beredskapszonen är att säkerställa skyndsam varning, förbereda för
+inomhusvistelse och planera för evakuering.
+Ju fler personer som planläggs inom den inre beredskapszonen desto högre krav
+ställs på kommunens förmåga att kunna hantera både evakuering och
+inomhusvistelse vid ett eventuellt haveri på Ringhals.
+
+I en fördjupad översiktsplan för norra kusten, Varbergs kommun (2017), anges
+antalet nya bostäder till ca 2800 för området Väröbacka – Limabacka. Boende i
+området var 2020, 863 personer.
+
+Kommunens kommentarer
+Samhällsutvecklingskontoret noterar vikten av att vissa vägar, särskilt väg 847,
+848 och 850, behöver säkras från översvämningar och att de utgör viktiga vägar
+för evakuering av Väröhalvön, vilket också framgår av objektsbeskrivningarna för
+respektive väg.
+
+Samhällsutvecklingskontoret noterar vikten av att planera för ett
+vattenledningsnät med tillräcklig kapacitet för att klara både färskvattenleverans
+och uttag från brandpost så att inga tryckförluster eller föroreningssituationer
+uppstår vid släckinsatser inom området.
+
+Synpunkter om byggnadshöjder noteras. Mer detaljerade lösningar för
+alternativa utrymningsmöjligheter blir en fråga för efterföljande planering.
+
+Utpekade platser för vård och skola i anslutning till Västkustbanan har tagits bort.
+De platser som i granskningshandlingen pekas ut för kommunal service ligger mer
+än 150 meter från Västkustbanan.
+Kommunen är medveten om att delar av planområdet ligger inom den inre
+beredskapszonen för Ringhals och att boende och verksamma inom området
+skyndsamt behöver kunna evakueras. Att planera och möjliggöra för en skyndsam
+evakuering behöver göras tillsammans med länsstyrelsen och Trafikverket, där
+varje part har olika roller och ansvar. Kommunen vill vara så behjälplig som
+möjligt i ett sådant arbete. I planförslaget finns en ny koppling väster om
+järnvägen, benämnd VÄ19 i plankartan, vilken kopplar samman befintligt vägnät
+i nordvästra Väröbacka med vägnätet i Limabacka. Den nya kopplingen innebär
+fler utrymningsmöjligheter från Väröhalvön, vilket bidrar till ökad robusthet i
+vägsystemet. Kopplingen ligger dessutom väster om befintliga viadukter, som vid
+kraftiga regn och höga havsnivåer riskerar att översvämmas, vilket minskar
+sårbarheten vid utrymning eller vid extrema väderförhållanden. Utöver VÄ19
+finns även en ny gång- och cykelförbindelse, GS6, presenterad i den fördjupade
+översiktsplanen, vilket ytterligare förbättrar förutsättningarna för utrymning
+från den inre beredskapszonen. Även den nya tågstationen kan möjliggöra för en
+mer skyndsam utrymning av Väröhalvön som helhet.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            63
+
+<!-- sida 170 -->
+
+Varberg Energi AB
+Varberg Energi AB har tagit del av samrådshandlingarna och har inga synpunkter på
+förslaget.
+
+Kommunens kommentarer
+
+Synpunkten noteras.
+
+Ellevio
+
+Ellevio har tagit del av samrådshandlingarna och har följande synpunkter:
+Ellevio har områdeskoncession för lokalnätet inom hela planområdet och har även
+ett flertal regionnätsanläggningar som berörs av planförslaget. Vattenfall
+Eldistribution har regionnätsanläggningar i de västra delarna av planområdet.
+
+Kommunens utbyggnadsplaner i Väröbacka är kända för oss och vi har därför
+arbetat med att stäkra kapaciteten i lokalnätet i syfte att möjliggöra nya
+anslutningar. Vi bedömer att det finns kapacitet att ansluta nya bostäder och
+verksamheter i enlighet med planen till det befintliga elnätet under förutsättning att
+det inte rör sig om energiintensiva verksamheter. Skulle det bli aktuellt med
+energiintensiva verksamheter är det viktigt att exploatören i god tid initierar en
+kontakt med oss eftersom en större effektanslutning kan kräva en lång
+utbyggnadsprocess för elnätet.
+
+Det är viktigt att befintligt elnät beaktas i vidare planläggning och att elnätet ges
+möjlighet att utvecklas. Trots att det finns kapacitet i elnätet kommer utrymmen för
+att anlägga nya ledningar och nya nätstationer krävas. Kommunen bör alltid inleda
+en tidig dialog med oss nätägare inför varje nytt planärende i syfte att ha dialog om
+elnätet både vad gäller beaktande av befintligt nät och även för utbyggnad av nytt
+nät inom planområdet.
+
+Det är viktigt att våra regionnätsanläggningar skyddas och säkras genom att det
+hålls goda avstånd till dem. De regionnätsanläggningar som finns inom aktuell
+översiktsplan är 130 kV-anläggningar vilka hör till gruppen ”direktjordade
+anläggningar”. Det är viktigt att i varje enskilt fall göra en riskanalys och beakta
+risker kopplat till och från våra regionnätsanläggningar.
+I den allmänna vägledningen har ni skrivit att inom 100 meter från kraftledningar
+och ställverk behöver exponering av strålning på individer särskilt utredas. Vi vill
+upplysa om att det inte enbart är strålning som är en risk från och för kraftledningen
+utan även andra elsäkerhetsrelaterade risker, det bör förtydligas i
+planbeskrivningen. Vi anser att planläggning inom 100 meter från en
+regionnätsanläggning bör föranledas av en dialog med oss. Dialogens syfte är att
+utreda behov av skyddsavstånd mellan planerad markanvändning och elanläggning,
+dialogen bör hållas så tidigt som möjligt.
+
+Områden där det särskilt behöver utredas risker för och från
+regionnätsanläggningarna är inom V2, ev. V3 beroende på vilket avstånd det är till
+kraftledningen, V4, R1, O1, B14, B17, P8, BA4, B10 och O4. I den geografiska
+vägledningen står det med om hänsyn till regionnätsanläggningarna men inte för
+alla områden, vägledningen bör uppdateras så att hänsyn till
+regionnätsanläggningarna finnas med i alla de nämna områdena.
+
+64                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 171 -->
+
+För lokalnätet har vi ett viktigt kabelstråk som löper genom områdena BA4, P8, B14,
+ev. S7, R1, V4 och V3. Inom de angiva områdena måste kabelstråken beaktas
+eftersom stråket är viktigt för en stor del av elförsörjningen i Väröbacka, både
+befintligt nät och för kapaciteten för kommande anslutningar.
+
+Kommunens kommentarer
+Planhandlingarna kompletteras med text i avsnittet ”Miljö hälsa risk och säkerhet,
+Strålsäkerhet”, samt i berörda objektsbeskrivningar, om att hänsyn vid
+kraftledningar och elanläggningar avser både elektromagnetisk strålning och
+andra elsäkerhetsrelaterade risker. Handlingarna kompletteras även med text om
+att tidig dialog behöver hållas med berörd elnätsägare för planläggning inom
+riskavstånd till regionnätsanläggningarna.
+
+Kommunen noterar att kabelstråket som löper genom eller intill områdena BA4,
+P8, B14, ev. S7, R1, V4 och V3 utgör ett viktigt stråk för elförsörjningen i
+Väröbacka.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            65
+
+<!-- sida 172 -->
+
+Privatpersoner
+
+Privatperson 1 (KS 2023/0644-1)
+
+Personen tycker förslaget är fint och argumenterar för en gen bil- och cykelväg
+mellan Väröbacka centrum och Buavägen.
+
+Kommunens kommentarer
+Synpunkten noteras. I planförslaget finns förslag på flera olika kopplingar mellan
+centrala Väröbacka och Buavägen, vilka möjliggör för resor med samtliga
+transportslag.
+
+Privatperson 2 (KS 2023/0644-2)
+
+Personen undrar om planen är förenlig med riksintresse för Norra Hallands
+kustland. Personen är orolig över markens bärighet, erosionsrisk och
+grundvattensänkning eftersom jorden utgörs av lera och silt. Personen påpekar
+brister i nuvarande dagvattenavrinning från Ättehögarna.
+
+Personen är orolig över anläggningskostnader för nya bostäder och vad det innebär
+för bostadsmarknaden och föreslår därför att endast ett fåtal nya bostäder ska
+uppföras, i så fall åt Veddigehållet.
+
+Kommunens kommentarer
+Hela kustområdet i Hallands län omfattas av riksintresse för rörligt friluftsliv och
+högexploaterad kust (4 kap 2 och 4 §§ Miljöbalken). Inom riksintresseområdet ska
+turismens och friluftslivets intressen särskilt beaktas vid bedömningen av
+möjligheten att exploatera eller vid andra ingrepp i miljön. Fritidsbebyggelse får
+komma till stånd endast i form av kompletteringar till befintlig bebyggelse.
+Bestämmelserna utgör inte hinder för utvecklingen av befintliga tätorter eller av
+det lokala näringslivet. Det utgör inte heller hinder för utförandet av
+anläggningar som behövs för totalförsvaret. Kommunen bedömer att
+planförslaget för Väröbacka bidrar till en sammanhållen utveckling av befintlig
+tätort och det lokala näringslivet och att planeringen därför är i linje med de
+allmänna rekommendationerna för riksintresseområdet.
+
+Kommunen är medveten om de markförutsättningar som finns inom området. En
+övergripande geoteknisk utredning har gjorts, där områden som ligger i
+riskområden för ras, skred och erosion har uppmärksammats. Dessa redovisas i
+kartan och har tagits hänsyn till i planeringen. Även förutsättningar för
+dagvattenhantering samt risker för översvämning vid stigande havsnivåer,
+högvattenhändelser och skyfall har beaktats vid framtagandet av planförslaget.
+Vad gäller anläggningskostnader för nya bostäder så ska den fördjupade
+översiktsplanen i första hand ses som en viljeriktning för den framtida mark- och
+vattenanvändningen i Väröbacka. Om och när respektive område byggs ut är helt
+upp till berörd fastighetsägare att ta initiativ till.
+
+Privatperson 3 (KS 2023/0644-4)
+Personen föreslår att gårdarna inom planområdet ska ha ett öppet landskap runtom
+för att bevara jordbruksbygdens karaktär.
+
+66                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 173 -->
+
+Kommunens kommentarer
+Som underlag för framtagandet av planförslaget har en kulturmiljöutredning
+tagits fram. I denna framkommer att området kring Backa by är av stort
+kulturmiljövärde och att dess struktur ska fortsätta vara synligt och läsbar i
+landskapet. I planförslaget anges därför att viktiga siktlinjer ska bevaras, både
+mellan Varbergsvägen och Backa by, samt mellan Backa by och kyrkan. Ett
+bredare grönstråk nordost om Backa by föreslås dessutom hållas öppet genom
+bete eller bruk, i syfte att skapa ett respektavstånd mellan gårdsbebyggelsen i
+Backa by och nya föreslagna bostadsområden mot nordost.
+
+Privatperson 4 (KS 2023/0644-5)
+Personen önskar gång- och cykelväg mellan Backa 86 och nya stationen och undrar
+vad som kommer byggas vid gamla E6.
+
+Kommunens kommentarer
+I planförslaget föreslås flera olika anslutningar till och från det nya
+stationsområdet. Beroende på varifrån man kommer så kan olika anslutningar
+användas. Från Backa 86 nås stationsområdet lättast genom den nya korsningen i
+söder (KÅ4). Varbergsvägen föreslås utvecklas med gång- och cykelvägar för att
+säkerställa att stationsområdet blir tillgängligt för gång- och cykeltrafikanter.
+
+Förslag till bebyggelseutveckling kan utläsas genom mark- och
+vattenanvändningskartan för den fördjupade översiktsplanen. Längs olika delar
+av Varbergsvägen (gamla E6:an) föreslås olika typer av markanvändning. Mellan
+det nya stationsområdet och befintligt centrum i Väröbacka föreslås i huvudsak en
+tät och funktionsblandad bebyggelse, med plats för tät bostadsbebyggelse med
+inslag av service. Längs vissa övriga delar av vägen föreslås en lägre
+bostadsbebyggelse, medan övriga delar föreslås vara oförändrade. Det
+övergripande syftet med att föreslå utveckling av ny bebyggelse utmed gamla
+E6:an är att skapa en sammanhängande ortsstruktur som underlättar för
+hållbara transporter och som främjar sociala möten.
+
+Privatperson 5 (KS 2023/0644-6)
+Personen framför att det i dagsläget är farligt att cykla längs gamla E6 och önskar
+därför en cykelbana.
+
+Kommunens kommentarer
+I planförslaget föreslås vägen utformas för alla trafikslag (gång-, cykel- och
+motortrafik). Vägen ingår i Väröbackas centrumstråk och stationsområde och
+planeras få en mer tätortsmässig karaktär med handel, service och andra
+målpunkter som ska vara lätta att nå för gående och cyklister.
+
+Privatperson 6 (KS 2023/0644-7)
+Personen uppskattar tågstationens placering, bevarande av befintliga
+naturområden, föreslaget grönstråk mellan Limabacka och Väröbacka samt
+korsningsåtgärden för att binda ihop Limabacka och Väröbacka.
+
+Personen föreslår att det utvecklas en badplats i Lahall, motionsslinga och
+rekreationsområde vid parkområdet i Limabacka, att aktivitetsytor vid Värö IP
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            67
+
+<!-- sida 174 -->
+
+bevaras samt att det utvecklas ett nav för idrotts- och föreningslivet, förslagsvis vid
+Väröbackaskolan.
+
+Kommunens kommentarer
+Kuststräckan vid Lahall ligger utanför planområdet, varför förslag på nya
+badplatser inte finns med i planförslaget. Däremot har man i planarbetet sett
+behov av att tillskapa kopplingar mellan samhället och kustområdet vid Lahall. Ett
+grönstråk föreslås därför, både som spridningskorridor för växter och djur, men
+också för gång- och cykeltrafikanter till planområdets södra delar.
+
+Både parkområdet (område P5) samt naturområdet (område N2) vid Limabacka
+finns utpekade för att kunna skapa förutsättningar för utveckling av platser för
+natur och rekreation, både för människor, växter och djur. Exakt vad de kommer
+att innehålla för värden och funktioner får studeras vidare i den efterföljande
+planeringen.
+Området för Väröbacka idrottsplats har efter samrådet bedömts som olämpligt för
+utveckling av skolverksamhet. Området föreslås istället bevaras som plats för
+idrottsanläggningar och markanvändningen kommer att anges som
+”besöksanläggning” (BA5).
+
+I anslutning till Väröbackaskolan finns mark utpekad för utveckling av
+besöksanläggning (område BA2). Platsen har en stark koppling till skolan och
+ortens föreningsliv, vilket skapar social samvaro och identitet. På platsen finns
+utrymme för föreningslokaler och en rad olika idrottsaktiviteter. Här byggs en
+konstgräsplan.
+
+Privatperson 7 (KS 2023/0644-8)
+Personen efterfrågar och ger egna förslag till ett varumärke eller värdeord som enar
+Väröbacka.
+
+Kommunens kommentarer
+Synpunkten noteras.
+
+Privatperson 8 (KS 2023/0644-10)
+Personerna tycker att alternativ sex för placering av skola är olämpligt på grund av
+trafik och störande verksamheter. Personerna tycker att ytan fortsatt ska användas
+som fotbollsplaner.
+
+Kommunens kommentarer
+
+Kommunen tar tacksamt emot synpunkter på de olika skollokaliseringarna. Inför
+granskningsskedet har kontoret kompletterat underlaget till planen med en
+barnkonsekvensanalys (BKA) samt utvärderat de olika lägena utifrån ett
+genomförandeperspektiv. Utifrån detta har kontoret bedömt att alternativ S6
+(området vid idrottsplatsen i Limabacka) inte är lämpligt som skolfastighet, utan
+området kommer istället att föreslås få markanvändning ”besöksanläggning”,
+vilken är förenlig med den verksamhet som bedrivs där idag.
+
+68                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 175 -->
+
+Privatperson 9 (KS 2023/0644-13)
+Personerna tycker att alternativ sex för placering av skola är olämpligt på grund av
+trafik och störande verksamheter. Personerna tycker att ytan fortsatt ska användas
+som fotbollsplaner.
+
+Kommunens kommentarer
+
+Se svar till privatperson 8.
+
+Privatperson 10 (KS 2023/0644-14)
+
+Personen påminner om att jordbruksmaskiner och omledd trafik från E6 måste få
+plats på genomfartsvägen. Personen undrar även om skyddsrum finns med i
+planeringen.
+
+Kommunens kommentarer
+Varbergsvägen föreslås i planen få en viktig roll som sammanlänkande
+centrumstråk. Det innebär bland annat att det föreslås bebyggelse med såväl
+bostäder som service i anslutning till stråket samt att gaturummet får en mer
+tätortsmässig karaktär, med gång- och cykelvägar, trädplanteringar med mera.
+Eftersom vägen är klassad som omledningsväg för E6:an så kommer det fortsatt
+vara viktigt att framkomligheten och trafiksäkerheten kan bibehållas.
+
+I Väröbackaskolan finns ett befintligt skyddsrum. Planering av nya skyddsrum är
+inte en fråga som hanteras i arbetet med den fördjupade översiktsplanen.
+
+Privatperson 11 (KS 2023/0644-15)
+
+Personerna tycker att alternativ sex för placering av skola är olämpligt på grund av
+trafik och störande verksamheter. Det är viktigt att elever kan erbjudas en lugn och
+hälsosam miljö, och man frågar sig därför om bullernivån har studerats samt om
+den ligger inom rekommenderade värden. Personerna tycker att ytan fortsatt ska
+användas som fotbollsplaner.
+
+Kommunens kommentarer
+Angående lämpligheten för skolverksamhet på område S6, se svar till privatperson
+8.
+
+Som underlag till planförslaget har en bullerutredning tagits fram. Utredningen
+visar att nästan hela område S6 ligger inom godkända riktvärden för buller på
+skolgårdar. Om det hade varit så att kommunen gick vidare med planering av
+område S6 för skolverksamhet hade bullersituationen behövt studeras vidare i det
+fortsatta arbetet, och lösningar för placering och gestaltning av byggnader samt
+uppförande av bullerskydd hade behövt säkerställas.
+
+Privatperson 12 (KS 2023/0644-16)
+
+Personerna tycker att alternativ sex för placering av skola är olämpligt på grund av
+trafik och störande verksamheter. Det är viktigt att elever kan erbjudas en lugn och
+hälsosam miljö, vilket kan bli svårt att lösa inom område S6. Personerna tycker att
+ytan fortsatt ska användas som fotbollsplaner.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            69
+
+<!-- sida 176 -->
+
+Kommunens kommentarer
+Se svar till privatperson 8 och 11.
+
+Privatperson 13 (KS 2023/0644-20)
+Personen tycker att planen innehåller flera positiva aspekter: sammankopplade
+promenadstråk, grönytor mellan centrum och skola, promenadstråk vid
+konstgräsplanen och vägen mellan Väröbacka och Limabacka. Personen föreslår att
+bostäder i nära anslutning till planerade bostadsområden ska få ansluta till
+kommunalt VA vid tomtgräns, att promenadstråk utrustas med belysning, att
+fotbollsplanerna bevaras istället för att bebyggas med en skola, att bostäder nära
+skolan byggs tidigt, att fler cykelbanor anläggs inne i samhället samt för stråken
+Väröbacka–Ringahalls, Väröbacka–Stråvalla och Väröbacka–Värö kyrka. Personen
+önskar att Vallavägen utrustas med belysning mellan Väröbacka och Värö kyrka.
+
+Kommunens kommentarer
+Vid planläggning av nya områden utreder kommunen om behov finns för
+kringliggande bebyggelse att ansluta till kommunalt VA.
+
+Mer detaljerad utformning och gestaltning av gång- och cykelvägar samt
+rekreativa promenadstråk i parker och naturområden, bland annat gällande
+belysning, får studeras i den fortsatta planeringen.
+
+Angående lämpligheten för skolverksamhet på område S6, se svar till privatperson
+8.
+
+Vilka områden som byggs ut när beror till stor del på den som har rådighet över
+marken. Kommunen kan ta en aktiv roll i utvecklingen av Väröbacka genom att
+tidigt initiera projekt på kommunal mark. På markområden med privata
+markägare är det markägaren själv som behöver ta initiativ
+till om och när marken ska bebyggas.
+Enligt planförslaget är det önskvärt att samtliga vägar ska kunna trafikeras av
+alla transportslag. Vägarna och gatorna behöver därför utformas på ett sätt så att
+detta blir tryggt och säkert för samtliga trafikanter. Dock saknar kommunen
+rådighet över de vägar och gator som inte har kommunalt huvudmannaskap. Att
+gång- och cykelvägar ska kunna bli verklighet i olika delar av samhället beror
+därför på en mängd olika faktorer. Vissa utbyggnader kan göras i samband med
+olika exploateringsprojekt, medan andra åtgärder kan behöva finansieras och
+genomföras med stöd av regional infrastrukturplanering. Exakt hur vägarna och
+gatorna utformas på sikt, exempelvis gällande belysning, behöver studeras i den
+fortsatta planeringen.
+
+Privatperson 14 (KS 2023/0644-23)
+Personerna är missnöjda över föreslagen markanvändning störande verksamheter
+vid V3 eftersom det påverkar det ekonomiska värdet på deras egen fastighet och
+kulturmiljövärdet på Backa kvarn. Personerna föreslår att störande verksamheter
+placeras söder som Lahalls oljekraftverk istället för på jordbruksmark.
+
+Kommunens kommentarer
+
+Föreslagna områden för verksamhetsmark i de södra delarna av planområdet har
+justerats till granskningshandlingen. Område V2 ligger kvar som tidigare då det
+bedöms utgöra en naturlig länk mellan Södras verksamhetsmark, som ligger
+
+70                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 177 -->
+
+utanför planområdet, och område V3. Område V3 har justerats till att i stort
+överensstämma med plangränsen för pågående detaljplan för virkesupplag.
+Område V4 har tagits bort till granskningshandlingen och föreslås istället pekas ut
+som jordbruksmark (areell näring). Förändringar i utbredning av
+verksamhetsområdena innebär att mindre jordbruksmark än tidigare tas i
+anspråk för bebyggelse. Kommunens bedömning är att föreslagen
+markanvändning möjliggör för en god balans mellan utveckling av attraktiva
+boendemiljöer och ett växande näringsliv.
+
+Privatperson 15 (KS 2023/0644-24)
+
+Personerna vill att markanvändningen på deras fastighet, Värö-Backa 30:1, ska var
+oförändrad och att jordbruksmarken vid GS4 och B7 bevaras. Fastigheten har
+funnits i familjen under flera generationer och marken har brukats under lång tid, i
+kombination med djurhållning. Man ser sin fastighet som viktig för familjen och vill
+möjliggöra för att den kan finnas kvar för framtida generationer, såväl för
+bostadsändamål som för jordbruk och djurhållning. På 70-talet köpte kommunen
+upp mark som tillhörde Värö-Backa 30:1 och som personerna idag arrenderar av
+kommunen.
+Personerna vill även poängtera vikten av att beakta de kulturmiljövärden som finns
+för gårdarna i Backa by.
+
+Kommunens kommentarer
+
+Den fördjupade översiktsplanen för Väröbacka anger kommunens övergripande
+viljeinriktning för den framtida mark- och vattenanvändningen. Med
+viljeinriktning menas att det är uttryck för kommunens intentioner, och inte ett
+beslut om att föreslagna områden och åtgärder ska genomföras.
+Om, när och hur olika utbyggnadsområden byggs ut, grönområden anläggs och
+åtgärder inom infrastrukturen vidtas beror till stor del av den aktör som har
+rådighet över marken eller frågan. På markområden med privata markägare har
+kommunen ingen rådighet över utbyggnaden. Kommunen visar, genom den
+fördjupade översiktsplanen, om marken inom planområdet är lämplig för
+utveckling av ny bebyggelse eller inte. Det är dock markägaren själv som behöver
+ta initiativ till om och när marken ska bebyggas.
+Föreslagen markanvändning för Värö-Backa 30:1 har ändrats från ”skola” till
+”funktionsblandad bebyggelse” till granskningshandlingen.
+
+Privatperson 16 (KS 2023/0644-28)
+Personen lyfter flera brister med väg VÄ18, bland annat risken för olyckor, att
+fordon fastnar och att kapaciteten är för låg för att hantera de trafikflöden som
+tillkommer vid anläggande av väg VÄ37. Personen påpekar en lågpunkt vid väg
+VÄ37 där vatten ansamlas vid skyfall och att viltstråk påverkas av föreslagen
+markanvändning. Personen tycker att skogen mellan Svennesgård, Dalas och
+Solklinten ska bevaras i sin helhet – inte naggas i kanten – eftersom den har ett stort
+värde för rekreation och djurliv i Väröbacka. Personen påpekar att grönstråket GS4
+går genom flera gärdesgårdar och att grönstråket försvårar det betet som pågår idag.
+
+Kommunens kommentarer
+
+VÄ18 har idag funktionen som en lokalgata och är inte utformad för att hantera
+större mängder genomfartstrafik. Vid eventuell framtida utveckling av bostäder i
+anslutning till vägen kan åtgärder avseende trafiksäkerhet, trygghet och
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            71
+
+<!-- sida 178 -->
+
+framkomlighet behöva vidtas. Detsamma gäller hantering av översvämning vid
+skyfall, det vill säga att i samband med exploatering och utveckling av nya
+områden kommer lösningar för klimatanpassning att behöva studeras och
+åtgärder behöva vidtas. Detta studeras mer i detalj i den fortsatta planeringen.
+Kommunen instämmer i att skogsområdet N1 är viktigt att bevara i sin helhet då
+det fyller en viktig funktion som större, sammanhängande natur- och
+rekreationsområde i Väröbacka. Till granskningshandlingen har område B10 och
+BA4 tagits bort, vilket innebär att område N1 påverkas i mindre omfattning.
+
+Kommunen vill förtydliga att det främsta syftet med grönstråket GS4 är att skapa
+ett respektavstånd mellan den gamla gårdsbebyggelsen i Backa by och den nya
+föreslagna bostadsbebyggelsen i område B7 och B8. Utöver detta bedöms stråket
+fylla en viktig funktion för gång- och cykelkoppling i orten samt för hantering av
+dagvatten, skyfall och andra typer av ekosystemtjänster.
+
+Privatperson 17 (KS 2023/0644-33)
+Personen föreslår flera ytor som pekas ut för markanvändning naturområde och
+jordbruk istället används för industri, näringsliv och service. Personen föreslår att
+Varbergsvägen dras om västerut, i direkt anslutning öster om järnvägen. Personen
+föreslår att markanvändningen vid B9 och B12 ska vara oförändrad och att ytan
+strax väster om B9 ska användas som tillfälligt korttidsboende.
+
+Kommunens kommentarer
+Planförslaget har utarbetats utifrån de övergripande ambitionerna att skapa ett
+tätt och sammanhållet samhälle, som i första hand växer utifrån stationen och den
+befintliga bebyggelsen. Vid utpekande av ny bebyggelse på obebyggd mark, som
+idag består av natur eller jordbruksmark, har en samlad bedömning gjorts
+angående vad marken är lämplig för. Hänsyn har tagits till bland annat natur-
+och kulturvärden, översvämningsrisker, geoteknik, risk- och bullerförutsättningar,
+med mera. Ytor som i yttrandet föreslås för industri, näringsliv och service har av
+olika anledningar ej bedömts vara lämpliga för bebyggelseutveckling.
+
+Även omförläggning av Varbergsvägen i ett annat läge har studerats under
+arbetets gång, men har av flera olika anledningar valts bort. De positiva
+aspekterna med att leda om tung trafik och persontransporter till ett samlat stråk
+utmed järnvägen bedöms väga mindre än bland annat ekonomiska aspekter för
+byggande av ny infrastruktur, i kombination med intrång på befintliga
+fastigheter.
+
+Område B9 har justerats så att fastigheten med en befintlig verksamhet väster om
+VÄ19 anges som verksamhetsmark istället för utveckling av bostäder på lång sikt.
+De östra delarna av område B9 föreslås fortsatt vara lämpligt för omvandling till
+bostadsbebyggelse på lång sikt. Detsamma gäller för område B12.
+
+Privatperson 18 (KS 2023/0644-39)
+
+Personen argumenterar för jordbruksmarkens bevarande och efterfrågar ett
+tydligare resonemang om jordbrukets utveckling inom planområdet. Personen
+påtalar höga brukningsvärden av jordbruksmarken vid V4. Personen lyfter flera
+argument för att markanvändningen vid B12 ska vara oförändrat, bland annat
+geoteknik, närliggande djurhållning, avrinning och Svennesgårdens ekonomi.
+
+72                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 179 -->
+
+Personen påpekar att bostäder vid B12 och B8 kan stå i konflikt med djurhållning
+vid Svennesgården. Personen är positivt inställd till ett markbyte av BA3.
+Personen påpekar att planerad markanvändning vid VÅ2 inte är lämplig på grund av
+risk och buller. Personen föreslår att KÅ1 ska utformas så att buller minimeras men
+att tillräcklig plats ges till jordbruksmaskiner. Som delägare i flera vattenföretag
+framhåller personen vikten av att vatten leds och tas om hand på ett bra sätt, utan
+påverkan på befintliga vattendrag eller kulvertar. Kulverten vid föreslaget
+resecentrum är till exempel en känslig punkt och framtida dagvattenhantering vid
+stationen måste bevakas noga.
+
+Personen efterfrågar en plan för att bevara och återskapa åkermark. Första
+alternativet borde vara att undvika ny bebyggelse på jordbruksmark och istället
+planera för bebyggelse på icke produktiv mark eller på mark med berggrund.
+
+Kommunens kommentarer
+När Väröbacka växer är det i stort sett ofrånkomligt att inte ta jordbruksmark i
+anspråk. Kommunens ambition har hela tiden varit att växa på ett sätt som blir
+bäst utifrån ett helhetsperspektiv och där så lite brukningsvärd jordbruksmark
+som möjligt tas i anspråk. Vilken mark som slutligen har pekats ut för utveckling
+av ny bebyggelse har varit en avvägning mellan flera olika intressen och hänsyn,
+som bland annat natur- och kulturvärden, översvämningsrisker, geoteknik, risk-
+och bullerförutsättningar, samt möjligheter att få till en tät och sammanhållen
+bebyggelse. Kommunen är tydlig i markanvändningskartan med vilken mark som
+är lämplig för bebyggelse (t.ex. ”Funktionsblandad bebyggelse”, ”Bostäder”,
+”Kommunal service” och ”Verksamheter”) samt vilken mark som ska bevaras för
+jordbrukets intressen (”Jordbruk” och ”Odlingsbygd”). I framtagen
+lokaliseringsutredning fördjupas resonemanget om ianspråktagande av
+jordbruksmark i Väröbacka, där kopplingar även görs till utredningar av
+tågstationens lokalisering på Västkustbanan samt till kommunens övriga
+strategier för bebyggelseutveckling. Detta, i kombination med resonemang och
+strategier kring utbyggnadsordning, bedöms utgöra en plan för bevarande av
+jordbruksmarken inom planområdet.
+
+Område V4 har tagits bort till granskningshandlingen och föreslås istället pekas ut
+som jordbruksmark (areell näring). Område B12 ligger kvar som tidigare, men är
+som sagt en föreslagen markanvändning på lång sikt och där markägaren alltid
+kommer att ha full rådighet över hur marken ska användas. Djurhållningens
+påverkan på område B8 och B12 behöver studeras och hanteras vid framtida
+detaljplaneläggning.
+
+Område BA3 i samrådshandlingen har utgått, då tidigare förslag på
+skollokalisering vid Väröbacka IP inte längre är aktuellt. Även område VÅ2 har
+utgått och ersatts av markanvändning ”Bostäder”. Synpunkter kring utformning
+av KÅ1 noteras.
+
+Hantering av vatten, som exempelvis fördröjning av dagvatten, hantering av
+skyfall samt risk för påverkan på dikningsföretag, har studerats övergripande i en
+VA-utredning. Mer detaljerade studier och förslag på åtgärder görs i senare
+planeringsskede.
+
+Privatperson 19 (KS 2023/0644-40)
+
+Personen tycker att föreslagen markanvändning vid V2, V3 och V4 är olämplig
+eftersom det sänker bostadsområdets attraktivitet, är störande med ljus, buller och
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            73
+
+<!-- sida 180 -->
+
+vibrationer, påverkar vattenföretag negativt och tar god jordbruksmark i anspråk.
+Markanvändningen går stick i stäv med att marknadsföra tågstationen som en grön
+satsning.
+Personen frågar sig slutligen för vem ska Väröbacka växa? Är det för Södra eller för
+de som bor och lever här?
+
+Kommunens kommentarer
+
+Område V3 och V4 har justerats till granskningshandlingen, se svar till
+privatperson 14. Kommunens bedömning är att föreslagen markanvändning
+möjliggör för en god balans mellan utveckling av attraktiva boendemiljöer och ett
+växande näringsliv.
+Som svar på varför Väröbacka ska växa så anser kommunen att en utveckling av
+Väröbacka är ett bra sätt för att ta ansvar för den stora infrastruktursatsning som
+görs i samband med utbyggnaden av Värö station. Med en tydlig
+utvecklingsstrategi för hur samhället kan utvecklas i en tät och sammanhållen
+struktur i stationsnära lägen ges förutsättningar för ett nära och transportsnålt
+samhälle, samt god hushållning av gjorda investeringar och befintliga resurser.
+Kommunen är väl medveten om att den föreslagna utvecklingen innebär en stor
+omvandling av befintligt jordbrukssamhälle och dess karaktär. Planen innehåller
+därför vägledning för hur ny bebyggelse på bästa sätt kan samspela med
+befintliga värden så att påverkan på viktiga karaktärsdrag och strukturer kan
+minimeras. Det gäller bland annat förslag på höjder på bebyggelse, vilka siktlinjer
+som är viktiga att bevara och vilka gatustrukturen som bör byggas vidare på.
+Ambitionen är att planen på ett bra sätt möjliggör för god balans mellan
+utveckling av attraktiva boendemiljöer och ett växande näringsliv.
+
+Privatperson 20 (KS 2023/0644-41)
+Personen är positiv till bland annat en ny rondell och större blandning av
+bostadstypologier. Bra att kommunen kan tänka sig flerbostadshus så att mindre
+jordbruksmark behöver tas i anspråk för nya bostäder. Personen poängterar att
+föreslagen utveckling kommer bli en omställning för orten, men ser överlag positivt
+på en sådan förändring.
+
+Kommunens kommentarer
+
+Synpunkterna noteras.
+
+Privatperson 21 (KS 2023/0644-43)
+
+Personen tycker att gång- och cykelstråket GC1 och markanvändning vid B8 är
+olämpligt eftersom det avgränsar fastigheter och försämrar möjligheten att bedriva
+jordbruk. Personen föreslår istället att önskad gång- och cykelbanan med
+”naturstråkskaraktär” skulle kunna anläggas i anslutning till befintlig bilväg mellan
+Väröbackaskolan och naturområdet i söder. Med ett gemensamt transportstråk
+skulle jordbrukskaraktären i området kunna behållas utan att de verksamheter som
+bedrivs där begränsas, samtidigt som det möjliggör för människor att röra sig
+enklare i området än vad de kan idag.
+
+Kommunens kommentarer
+Cykelbana (GC1) och grönstråk (GS4) har justerats till granskningshandlingen.
+Dessa viker nu av söderut i höjd med VÄ22 och föreslås inte längre gå över
+
+74                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 181 -->
+
+jordbruksmarken vid B8. Även område B8 och område GS4 har justerats så att B8
+numera utgör ett mindre område och GS4 föreslås som utveckling på lång sikt.
+Med ovan nämnda justeringar skapas bättre förutsättningar för ett långsiktigt
+bedrivande av jordbruk i dessa delar av planområdet. Att en utveckling av
+bostäder och grönstråk föreslås på lång sikt ska ses som en långsiktig
+viljeriktning, och som endast kan bli verklighet först när berörda fastighetsägare
+är intresserade av en sådan.
+
+Privatperson 22 (KS 2023/0644-44)
+
+Personen tycker att högproduktiv jordbruksmark inte ska bebyggas med industri –
+bland annat eftersom den behövs för matproduktion – och att industribyggnader
+inte ska ligga direkt vid stationen eftersom det är en viktig entré till orten. Personen
+avråder således starkt till att tillåta virkesupplag inom område V3. Personen föreslår
+överlag att ny bebyggelse ska koncentreras till skogsmark eller åkermark med låg
+produktivitet.
+
+Kommunens kommentarer
+Område V3 och V4 har justerats till granskningshandlingen, se svar till
+privatperson 14. Kommunens bedömning är att föreslagen markanvändning
+möjliggör för en god balans mellan utveckling av attraktiva boendemiljöer och ett
+växande näringsliv.
+
+Privatperson 23 (KS 2023/0644-46)
+
+Personen önskar att del av deras fastighet, Värö-Backa 15:2, ska föreslås för
+användningen bostäder istället för natur och areella näringar eftersom de har planer
+på att bygga hus i framtiden. Personen föreslår därför att B8 sträcker sig längre norr
+ut och öster ut. Fastigheten 15:2 berör även område B10 i planområdets sydöstra
+del. Personen vill att B10 utökas och sträcker sig längre åt nordväst. Personen är
+positiv till försäljning eller markbyten på delar av sin fastighet som pekas ut för
+utveckling.
+
+Kommunens kommentarer
+Område B8 har samma utbredning på fastigheten Värö-Backa 15:2 i
+granskningshandlingen som i samrådshandlingen. Vid avgränsningen av området
+har hänsyn framför allt tagits till påverkan på landskapsbild och brukningsvärd
+jordbruksmark, samt till hur området ansluter till omkringliggande
+bebyggelseområden.
+
+Område B10 har justerats till granskningshandlingen och den del som omfattar
+fastigheten Värö-Backa 15:2 ingår numera i område B14. Området föreslås för
+bebyggelseutveckling, framför allt för bostäder, vilket är i enlighet med inkomna
+synpunkter från privatperson 23.
+
+Privatperson 24 (KS 2023/0644-48)
+
+Personen varnar för konsekvenserna av att omvandla Varbergsvägen till en
+stadsgata, specifikt att det riskerar att leda till köbildning längs vägen och vid
+rondellen. Personen tycker att Vallavägen lämpar sig bättre för en omvandling till
+stadsgata. Vidare är personen oroad över dagvattenhanteringen inom planområdet
+eftersom grundvattennivåerna är höga och att recipienten är överbelastad.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            75
+
+<!-- sida 182 -->
+
+Personen reflekterar kring Väröbackas (Värö-Backas) etymologi. Personen vill
+uppmärksamma kommunen om att det inte finns något samhälle som heter
+Väröbacka. Byn som den fördjupade översiktsplanen omfattar avser Backa, som är
+en del av Värö. Förslagsvis skulle orten kunna heta Värö-Backa.
+
+Kommunens kommentarer
+Anledningen till att Varbergsvägen och inte Vallavägen föreslås att omvandlas till
+”centrumstråk” är för att en förtätning och förändrad karaktär av Varbergsvägen
+bedöms kunna bidra till ett mer sammanhängande samhälle och förstärkt
+koppling mellan befintligt centrum och det nya stationsområdet. Förhoppningen
+är att stråket blir så attraktivt att gå, cykla och vistas längs att det främjar de
+hållbara transporterna och bidrar till ett mer levande samhälle. Eftersom vägen
+är klassad som omledningsväg för E6:an så kommer det fortsatt vara viktigt att
+framkomligheten och trafiksäkerheten kan bibehållas. Detta behöver beaktas vid
+den mer detaljerade utformningen av stråket.
+
+I samband med framtida exploateringar kommer nya detaljplaner tas fram, inom
+vilka dagvattenutredningar behöver göras. Varje enskild exploatering kommer att
+behöva lösa en god dagvattenhantering. I den övergripande VA-utredning som
+tagits fram i samband med den fördjupade översiktsplanen har
+dagvattenhanteringen för en utveckling av Väröbacka studerats på en
+övergripande nivå. Utredningen flaggar för vilken typ av lösningar samt deras
+omfattning som kan bli aktuella i olika delar av orten. Även utpekade grönstråk,
+parker och naturområden kommer att spela en viktig roll för hantering av vatten
+framöver.
+Angående ortsnamn så är detta inte en fråga för den fördjupade översiktsplanen.
+Synpunkten noteras.
+
+Privatperson 25 (KS 2023/0644-49)
+Personen föreslår förändringar i utvecklingsinriktningen och
+utvecklingsinriktningskartan. Bland annat föreslås att tyngdpunkten för bostäder
+förläggs öster om Varbergsvägen, att järnvägen omgärdas av industri och
+naturområde med hänvisning till buller, att Väröbacka och Limabacka kopplas ihop
+med ett grönstråk samt att bebyggelse orienteras bort från tågspåren och stora
+vägar. Personen rekommenderar även att den planskilda trafikplatsen bevaras.
+Vägarna är redan idag hårt belastade och dessutom förekommer det stora mängder
+tunga transporter. Istället för att bygga om trafikplatsen till en rondell skulle
+trafikplatsen kunna vidareutvecklas och bli mer trafiksäker.
+
+Kommunens kommentarer
+
+Kommunen tar tacksamt emot synpunkter på planförslaget. Vilka områden som
+pekas ut för bebyggelseutveckling eller annan typ av markanvändning är en
+avvägning mellan flera olika intressen. Att det samlade planförslaget ser ut som
+det gör beror dels på kommunens mål och ambitioner för hur samhället ska
+utvecklas, dels på vilka fysiska förutsättningar som finns på de olika platserna.
+Hänsyn till landskapsbild, kulturmiljövärden och brukningsvärd jordbruksmark
+är de främsta anledningarna till att samhället inte föreslås breda ut sig på
+markerna mellan Varbergsvägen och österut mot kyrkbyn. Ambitioner om att
+Väröbacka och Limabacka ska växa samman och att orten ska upplevas som ett
+tätt och sammanhållet samhälle, har varit starka utgångspunkter i planeringen.
+Erforderlig hänsyn behöver tas till närheten till järnvägen och Varbergsvägen,
+utifrån risk- och säkerhetsaspekter.
+
+76                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 183 -->
+
+Exakt hur trafikplatsen kan komma att utvecklas i framtiden kommer inte att
+beskrivas i granskningshandlingen, utan detta hålls öppet inför framtiden. En
+långsiktig viljeriktning är att trafikplatsen omvandlas till en mer tätortsmässig
+och välkomnande entré till orten. Men när och på vilket sätt den kan komma att
+förändras kan bero på flera olika faktorer och får studeras vidare i kommande
+planeringsskeden. Detta har förtydligats i planhandlingarna.
+
+Privatperson 26 (KS 2023/0644-50)
+
+Personen påminner om att dagvatten måste tas om hand och utredas i samband
+med byggnation. Personens fastighet berörs av föreslagen markanvändning och
+tycker att åkermarken vid V2, V3 och V4 ska bevaras istället för att användas för
+verksamheter. Åkermarkens produktivitet är lägre vid S7, P8, BA4, B10 och
+områdena lämpar sig bättre för bostäder. Personen tycker att en park vid P8 är
+överflödig med tanke på närheten till skogsområdet Långås. Personen är generellt
+skeptiskt parkområden och grönstråk eftersom anläggning och drift kostar pengar
+jämfört med naturområden som kan fylla samma funktion men vara mer
+kostnadseffektivt. Personen föreslår att prioritera upprustning av gamla byavägen
+som går längs Backa by och vidare söderut längs byn. Beträffande trafik påminner
+personen om att vägar måste dimensioneras för att klara omledning från E6 och
+utrymning från Ringhals samt att utfarter till väg 850 och 845 måste vara
+trafiksäkra.
+
+Kommunens kommentarer
+I samband med framtida exploateringar kommer nya detaljplaner tas fram, inom
+vilka dagvattenutredningar behöver göras. Varje enskild exploatering kommer att
+behöva lösa en god dagvattenhantering.
+
+Område V3 och V4 har justerats till granskningshandlingen, se svar till
+privatperson 14. Kommunens bedömning är att föreslagen markanvändning
+möjliggör för en god balans mellan utveckling av attraktiva boendemiljöer och ett
+växande näringsliv.
+Förslag på platser för parker och större natur- och rekreationsområden har
+grundats på följande övergripande ambitioner:
+
+•  Närparker ska finnas inom gångavstånd från bostad, skola eller
+arbetsplats. Parkerna kan exempelvis fungera som en plats för vila,
+bollspel och naturlek och utgör en viktig upptäckarmiljö för yngre barn.
+•  Tätortsparker ska finnas inom gång- och cykelavstånd från bostad,
+skola eller arbetsplats. Parkerna kan exempelvis rymma en lekplats, ytor
+för spontanidrott och blommande planteringar och utgör en viktig
+mötesplats i området.
+•  Större rekreationsområden ska finnas inom cykelavstånd från
+bostad, skola eller arbetsplats. Ett rekreationsområde är ett större
+sammanhängande naturområde som ger möjlighet till ro, tystnad och
+naturupplevelser (exempelvis skogar, kust- och strandområden och
+hagmarker).
+
+Område S7 har flyttats längre österut till granskningshandlingen för att undvika
+eventuell bullerproblematik vid planering av förskola. Område B10 har justerats
+till granskningshandlingen så att endast området norr om VÄ37 ingår.
+Anledningen till detta är att området sydöst om VÄ18 ligger för nära befintligt
+ställverk och angränsande kraftledningar och därför inte bedöms lämpligt för
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            77
+
+<!-- sida 184 -->
+
+samlad bebyggelseutveckling. Den kvarvarande delen av område B10 har
+införlivats i område B14.
+Oavsett vad som planeras och genomförs i anslutning till Varbergsvägen så är det
+viktigt att vägen även fortsättningsvis kan fungera som omledningsväg för E6:an,
+med bibehållen framkomlighet och trafiksäkerhet.
+
+Privatperson 27 (KS 2023/0644-51)
+Personen argumenterar för att jordbruksmarken bevaras, i synnerhet den
+jordbruksmark som föreslås för verksamheter. Personen poängterar att matjorden
+och åkermarken är en ändlig resurs. Personen önskar också ett förtydligande
+rörande antalet hektar åkermark som pekas ut för potentiell bebyggelse och om det
+skett utredningar kring lokalisering av industriverksamhet utanför Väröbacka
+samhälle. Personen påminner om att vägar måste utformas för att rymma
+jordbruksmaskiner och att farthinder riskerar att helt hindra jordbruksmaskinernas
+framkomlighet. Personen påpekar att omhändertagande av dagvatten är viktigt för
+att inte ytterligare belasta markavvattningsföretag och försämra förutsättningar för
+jordbruket i låglänta områden. Dialog med berörda markavvattningsföretag behöver
+hållas.
+
+Kommunens kommentarer
+
+När Väröbacka växer är det i stort sett oundvikligt att ta jordbruksmark i
+anspråk. Enligt miljöbalken (MB) 3 kapitel 4 § anges att brukningsvärd
+jordbruksmark är av nationell betydelse och ”får tas i anspråk för bebyggelse eller
+anläggningar endast om det behövs för att tillgodose väsentliga samhällsintressen
+och detta behov inte kan tillgodoses på ett från allmän synpunkt tillfredsställande
+sätt genom att annan mark tas i anspråk.” Till planförslaget har en
+lokaliseringsutredning tagits fram i syfte att studera jordbruksmarkens
+brukningsvärde, analysera om planförslaget innebär ett väsentligt
+samhällsintresse samt att redogöra för alternativa lokaliseringar. Inom ramen för
+lokaliseringsutredningen görs bedömningen att det är väl motiverat att
+kommunen går vidare med planläggning av ett tågstopp med intilliggande
+tätortsutveckling i Väröbacka. Stationsläget i samhällets södra delar bedöms vara
+välgrundat och därmed det bästa lokaliseringsalternativet sett till MB 3 kapitel 4
+§. Motiveringen innebär att det föreligger ett väsentligt samhällsintresse för
+planerad markanvändning i Väröbacka, som på ett tillfredsställande sätt inte kan
+tillgodoses utanför FÖP-områdets avgränsning.
+I den uppdaterade miljökonsekvensbeskrivningen för granskningshandlingen har
+en sammanställning av antalet hektar åkermark som pekas ut för
+bebyggelseutveckling gjorts.
+
+Kommunen instämmer i vikten av att utformning av vägar och gator behöver ske
+på ett sådant sätt att framkomlighet för berörda fordon kan upprätthållas.
+
+I samband med framtida exploateringar kommer nya detaljplaner tas fram, inom
+vilka dagvattenutredningar behöver göras. Varje enskild exploatering kommer att
+behöva lösa en god dagvattenhantering utan påverkan på
+markavvattningsföretagen.
+
+78                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 185 -->
+
+Privatperson 28 (KS 2023/0644-52)
+Personen tycker att V1 och GS1 ska vara oförändrad markanvändning med
+hänvisning till jordbruksmarkens höga produktivitet och rådande grundvattennivå.
+Personen påpekar att Ävabäcken är överbelastad som recipient för dagvatten.
+Personen önskar att jordbruksmaskiners framkomlighet längs väg 845 säkras.
+
+Kommunens kommentarer
+
+Kommunen tackar för synpunkter om V1 och GS1. Planförslaget har justerats i
+dessa delar av planområdet, framför allt med hänsyn till risk för översvämning till
+höjd av höga havsnivåer. I granskningshandlingen omfattar område V1 endast
+redan befintlig planlagd mark för verksamheter. Markanvändningen för GS1 har
+ändrats till areell näring – jordbruk.
+Oavsett vad som planeras och genomförs i anslutning till Varbergsvägen så är det
+viktigt att vägen även fortsättningsvis kan fungera som omledningsväg för E6:an,
+med bibehållen framkomlighet och trafiksäkerhet.
+
+Privatperson 29 (KS 2023/0644-53)
+Personen påminner om översvämningsrisken vid hela Väröhalvön, i synnerhet
+Ävabäcken. Väröhalvön består till största del av en torrlagd havsvik.
+
+Kommunens kommentarer
+
+Synpunkten noteras. Vid utformning av planförslaget har hänsyn tagits till
+översvämningsrisker till följd av ett förändrat klimat, såsom stigande havsnivåer
+och extrem nederbörd. En övergripande VA-utredning har tagits fram i syfte att
+studera hur planområdet påverkas på en övergripande nivå samt vilka åtgärder
+som kan behöva vidtas för hantering av vatten. I samband med framtida
+exploateringar kommer nya detaljplaner tas fram, inom vilka
+dagvattenutredningar behöver göras. Varje enskild exploatering kommer att
+behöva lösa en god dagvattenhantering.
+
+Privatperson 30 (KS 2023/0644-54)
+
+Personen tycker att förslaget är bra och att kommunens medarbetare överlag har
+gjort ett mycket bra jobb, men personen har också några synpunkter. Personen
+tycker att befintliga skolor först och främst ska byggas ut innan nya skolor byggs,
+men om en skola byggs är S6 bästa läget. Personen tycker att markanvändningen vid
+S3 lämpar sig bättre för ett torg, en park eller för publika byggnader – exempelvis
+bibliotek eller kultur och att S4 istället kan användas för centrumbebyggelse.
+Personen uppskattar den fredade zonen runt kyrkan och grönstråket GS3 som
+möjliggör för en säker gång- och cykelväg för skolelever till och från skolan.
+Personen undrar om vitsen med att i markanvändningskartan skilja på kort och lång
+sikt. Slutligen anser personen att den nya stationen borde döpas till ”Köpenhamn
+norra” då Halland är en del av ”Greater Copenhagen”.
+
+Kommunens kommentarer
+Kommunen tar tacksamt emot synpunkter på de olika skollokaliseringarna. Inför
+granskningsskedet har kontoret kompletterat underlaget till planen med en
+barnkonsekvensanalys för de olika lägena. Analysen har bidragit till en ökad
+förståelse för barnperspektivet i planeringen, och har, tillsammans med övriga
+betydande planeringsförutsättningar, legat till grund för det slutliga förslaget till
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            79
+
+<!-- sida 186 -->
+
+skollokalisering. Till granskningshandlingen har slutligen alternativ S3 valts för
+utveckling av kommunal service. Kontoret instämmer i synpunkten om att
+befintliga skolor i första hand bör nyttjas mer effektivt och att det är viktigt att ny
+kommunal service växer i takt med den nya bostadsbebyggelsen.
+Anledningen till att vissa ytor har pekats ut för utveckling på lång sikt är att
+kommunen bedömer att de på sikt skulle kunna bidra till en bra helhetsstruktur för
+orten och att man därmed är positiv till en förändrad markanvändning på
+platsen. Kommunen vill dock förtydliga att detta är en utveckling som föreslås på
+lång sikt, det vill säga efter år 2050. I första hand föreslås således att utveckling
+prioriteras inom övriga utbyggnadsområden. På vissa platser där utveckling
+föreslås på ”lång sikt” finns det idag befintlig bebyggelse eller en pågående
+verksamhet. Avsikten är att den pågående verksamheten ska kunna fortsätta, men
+att eventuella förändringar ska ske i enlighet med den långsiktiga
+viljeinriktningen.
+
+Privatperson 31 (KS 2023/0644-55)
+Personen är orolig över planens påverkan på biologisk mångfald, betesmarker,
+åkermark, matförsörjning, arbetstillfällen, klimatförändringar, global uppvärmning
+och förutsättningar för vilt. Personen tycker att ingen ny bebyggelse ska tillkomma
+öster om järnvägen utan att jordbruksmarken ska bevaras i sin helhet.
+
+Personen tycker att beskrivningen av naturområden i Väröbacka är felaktig eftersom
+hela Väröbacka utgör ett naturområde. Personen ifrågasätter om planförfattarna har
+varit i Väröbacka.
+
+Personen ifrågasätter bedömningen att konsekvenserna för kulturmiljö blir små
+eller måttligt negativa och är orolig över konsekvenserna för kulturmiljön. Personen
+upplever bristfällig dialog och hänsyn till boende i Väröbacka. Personen föredrar att
+Väröbacka bevaras som landsbygd i stället för att kompletteras med ny bebyggelse.
+
+Personen argumenterar för bevarande av jordbruksmarken, bland annat för att den
+behövs för livsmedelsförsörjning, att det finns andra alternativ och att
+gårdsstrukturen ska bevaras. Personen tycker att planen innebär fragmentering av
+jordbruksmark vilken missgynnar produktionsvärdet och försvårar möjligheterna
+att bedriva jordbruk över huvud taget.
+Personen föredrar naturlig naturmark över parker och betesmark eftersom det
+binder kol. Personen tycker att Väröbacka har fina kvaliteter idag, bland annat
+tillgängliga åkervägar och spännande djurliv. Personen är orolig för att djurlivet ska
+försvinna om orten byggs ut, specifikt att rådjur, hare, kanin, fasan, hackspett och
+fladdermus påverkas. Personen är i synnerhet oroligt över planens påverkan på
+hackspett och fladdermus, dess habitat och födosöksområde. Personen hävdar att
+planen går stick i stäv med EU:s direktiv att återskapa naturmark och
+Naturvårdsverkets strategi för biologisk mångfald.
+
+Personen är orolig över hur havsnivåhöjningar och torka påverkar
+livsmedelsförsörjningen och livsmedelspriser. Personen föreslår en organisk
+utveckling i Limabacka, Bua och Veddige men att åkermarken öster om järnvägen
+bevaras. Personen tycker att planens ytanspråk är för stort.
+
+Personen tycker att planens beskrivning om gårdsbutiker är orealistisk eftersom
+förutsättningar för gårdar försämras.
+
+80                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 187 -->
+
+Personen är orolig över att planen ska innebära större risk för trafikolyckor där
+Varbergsvägen är särskilt utsatt. Personen tycker att ingen bebyggelse bör
+tillkomma längs Varbergsvägen och järnvägen eftersom de trafikeras av transporter
+med farligt gods. Personen lyfter exempel på olyckor med farligt gods och andra
+trafikolyckor i närområdet. Personen tror att tillkommande trafik, avgaser och
+buller på Varbergsvägen inte är förenligt med bebyggelse och att det innebär risker
+för människors hälsa. Personen tycker att ålderdomshem, vårdcentral, skola,
+förskola och bostäder inte ska placeras bredvid järnvägen med hänvisning till bland
+annat transport av farligt gods, vibrationer och buller.
+Personen undrar var det kostar att flytta kablar i Varbergsvägen vid en omvandling
+av vägen.
+
+Personen är orolig över hur tillkommande bebyggelse försämrar förutsättningar för
+kvällssol eller siktlinjer i allmänhet.
+
+Personen är orolig över hur högt grundvatten, dagvatten och skyfall ska hanteras
+inom planområdet men också vattenbrist i förhållande till betande djur. Personen
+påpekar att området runt Vallavägen är känsligt vid stora regnmängder.
+
+Personen tycker att det är en dålig idé att bygga bostäder i Väröbacka eftersom
+många kommer behöva resa till Göteborg eller Varberg för arbete vilket är slöseri på
+resurser och tid. Personen tror att tåget till Göteborg kommer ta dubbelt så lång tid
+som att åka bil.
+
+Kommunens kommentarer
+Kommunen välkomnar synpunkter på planförslaget. De områden som föreslås för
+bebyggelseutveckling eller annan markanvändning är resultatet av en noggrant
+avvägd process som tar hänsyn till olika intressen. Det nuvarande planförslaget
+är ett resultat av kommunens mål och ambitioner för samhällsutvecklingen, samt
+de fysiska förutsättningarna på de aktuella platserna. Hänsyn till landskapsbild,
+kulturmiljövärden och brukningsbar jordbruksmark är de viktigaste
+anledningarna till att bebyggelse inte föreslås breda ut sig i större omfattning på
+markerna mellan Varbergsvägen och österut mot kyrkbyn. Ambitioner om att
+Väröbacka och Limabacka ska växa samman och att orten ska upplevas som ett
+tätt och sammanhållet samhälle, där hållbara lokala transporter främjas, har
+varit viktiga utgångspunkter i planeringen.
+
+Utvecklingen av Väröbacka behöver också ses ur ett övergripande perspektiv i
+kommunen. En etablering av en ny tågstation i Värö har funnits med i kommunens
+planering under lång tid och bedöms vara viktigt för att öka den regionala
+tillgängligheten och för möjligheterna att kunna uppnå en hållbar
+samhällsutveckling i stort. Att möjliggöra för en omfattande samhällsutveckling i
+Väröbacka, med ett stort antal nya bostäder, verksamheter och service i
+stationsnära lägen, är en tydlig utvecklingsstrategi. En utveckling som stärker
+befintliga orter skapar bland annat förutsättningar för ökat befolkningsunderlag,
+förbättrad service, minskat transportbehov och goda livsmiljöer. Att även kunna
+satsa och bygga vidare på befintlig infrastruktur innebär att kommunala
+investeringar kan nyttjas mer effektivt. Samtidigt är kommunen medveten om att
+vissa områden, strukturer och funktioner påverkas på olika sätt i takt med att
+samhällen växer. Brukningsbar jordbruksmark och annan värdefull naturmark
+kan behöva tas i anspråk. Den samlade bedömningen är dock att en utveckling där
+man satsar på att stärka, förtäta och utveckla kommunens befintliga orter,
+däribland Väröbacka, är den utvecklingsstrategi som är bäst för Varbergs ur ett
+helhetsperspektiv. Ambitionen med planförslaget för Väröbacka är dock att den
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            81
+
+<!-- sida 188 -->
+
+föreslagna samhällsutvecklingen så långt som möjligt ska kunna anpassas och ta
+hänsyn till ortens värden och kvaliteter så att dessa kan bevaras och att negativ
+påverkan kan minimeras.
+Till granskningshandlingen har vissa ändringar gjorts för områdena mellan
+Backa by och kyrkbyn. Område B8 har minskat i omfattning och i byggnadshöjd
+för att undvika alltför stor påverkan på det öppna jordbrukslandskapet. Området
+föreslås även fortsättningsvis utvecklas på längre sikt, och samhället förespråkas i
+första hand att växa på andra föreslagna bostadsytor. Även anslutningen från
+Syllingevägen till området (VÄ28) har tagits bort. Område B8 föreslås i stället att
+trafikeras via VÄ22 eller i ett nytt vägsystem genom område B7. Utöver detta
+föreslås även grönstråket mellan Backa by och område B8, numera benämnt som
+område GS4, att utvecklas på lång sikt. Det huvudsakliga syftet med grönstråket
+är att utgöra ett respektavstånd mellan gårdsbebyggelsen i Backa by och den nya,
+framtida bostadsbebyggelsen i B8. Stråket syftar till att synliggöra de
+kulturhistoriska värdena och sammanhangen i Backa by. Till
+granskningshandlingen har grönstråkets funktion som rörelsestråk för människor
+tagits bort och i stället föreslås det nya GS4 att helt och hållet utgöra ett grönt
+släpp mellan befintlig och ny, framtida bebyggelse.
+
+Delaktighet och dialog
+Utöver den lagstadgade samrådsprocessen, som är ett sätt att stärka
+delaktigheten i förslaget, har det tidigt i processen samlats in tankar kring
+Väröbackas utveckling genom en digital enkät och ”gåturer”. Gåturerna utfördes
+vid två olika tillfällen den 10 oktober 2020 och gav värdefullt och kompletterande
+material kring Väröbackas utveckling, om hur orten används och upplevs samt
+vad olika platser betyder för olika grupper. Utöver detta innebar det också en
+möjlighet till insyn och delaktighet i processen. Den digitala enkäten var
+ytterligare ett sätt att tidigt samla in värdefulla tankar och lokal kunskap om
+orten.
+
+Säkra livsmedelsberedskapen
+Kommunen instämmer i att omvärldsläget har förändrats de senaste åren. Detta
+ställer nya krav på samhällssystemen och betonar vikten av att trygga en resilient
+livsmedelsförsörjning. Frågan om beredskap (och civilt försvar) är känd för
+kommunen och hanteras på olika sätt i olika delar. Det är även viktigt att notera
+att översiktsplanen anger en långsiktig viljeriktning för markanvändningen, men
+att markägaren har fortsatt rätt till nuvarande användning och således full
+rådighet över om och när utveckling ska ske. Utmaningen när Väröbacka växer
+är att föreslå en utveckling av ett sedan länge etablerat jordbrukssamhälle och
+samtidigt dra nytta av det stationsnära läget. Ambitionen har varit att så långt
+som möjligt undvika en onödig fragmentering av jordbrukslandskapet. Av den
+anledningen har flera av utbyggnadsområdena som ligger i samhällets
+ytterkanter och i mötet med det öppna jordbrukslandskapet, föreslagits att
+utvecklas på lång sikt. Detta bedöms, tillsammans med övriga
+utbyggnadsstrateger som presenteras i planhandlingarna, kunna utgöra stöd för
+en ansvarsfull utbyggnadsordning av samhället.
+
+Planhandlingarna har kompletterats i avsnittet ”Miljö, hälsa, risk och säkerhet”
+om säkerhet och beredskap.
+
+Samhällsplaneringen har många perspektiv och intressen att balansera.
+Lagstiftningen är tydlig med att definiera jordbruks- och skogsmark som
+nationella intressen, där jordbruksmark enbart får ianspråktas om det föreligger
+
+82                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 189 -->
+
+ett väsentligt samhällsintresse som inte på ett från samhällets synpunkt
+tillfredsställande sätt kan tillgodoses på annan mark. Därav har kommunen tagit
+fram en lokaliseringsutredning som undersöker dessa faktorer som definieras av
+Miljöbalkens 3 kap. 4 §. Där fastställs bland annat att stationsläget, med tanke på
+både dess förhållande till det befintliga samhället och dess minimala påverkan på
+jordbruket, är fördelaktigt. I det nu stationsnära området finns redan industri som
+fragmenterar jordbruket och pågående detaljplanearbete som vidare ianspråktar
+marken. I norr är jordbruksarealerna större och det finns bättre förutsättningar
+för att bibehålla sammanhängande jordbruksarealer.
+Slutsatsen är att den nya stationen utgör ett väsentligt samhällsintresse och att
+etablering av bostäder och arbetsplatser i nära anslutning till stationen skapar
+förutsättningar för en samhällsutveckling med minskad klimatpåverkan. Därav
+görs bedömningen att den mark som ianspråktas är motiverad, och att en
+samhällsutveckling i området är viktigt för en hållbar utveckling. Genom att peka
+ut bestämda jordbruksmarksområden skyddar samtidigt FÖP:en stora
+jordbruksmarkarealer som areell näring och odlingsbygd. På så sätt värnas
+ekologiskt känsliga samt rationella och produktiva jordbruksarealer. Kommunen
+har dessutom reviderat verksamhetsmarken i söder, vilket minskar
+ianspråktagandet av brukningsbar jordbruksmark.
+
+Kulturvärden
+Som underlag för framtagandet av planförslaget har en kulturmiljöutredning
+tagits fram. I denna framkommer att området kring Backa by är av stort
+kulturmiljövärde och att dess struktur ska fortsätta vara avläsbar i landskapet.
+Hanteringen av Backa by är således utmanande då den ligger väldigt
+stationsnära, samtidigt som en del av förslaget är att inte bebygga ett större
+område runt radbebyggelsen. Det stationsnära läget innebär att argumenten för
+att etablera bebyggelse mellan Varbergsvägen och Backa by bedöms vara starka
+utifrån ett hållbarhetsperspektiv. I syfte att skapa ett respektavstånd mellan
+gårdsbebyggelsen i Backa by och nya föreslagna bostadsområden, föreslår
+planförslaget att ett bredare grönstråk nordost om Backa by hålls öppet genom
+bete eller bruk.
+
+Planförslaget värnar även de värdeelement som kulturmiljöutredningarna
+framhållit avseende diken, stengärdesgårdar och betesmarker samt den visuella
+kontakten mellan Värö kyrka och Backa by. Dessutom lyfts ett flertal gröna
+kulturmiljöer fram och uppmärksammas i planförslaget. Det anges att viktiga
+siktlinjer ska bevaras, både mellan Varbergsvägen och Backa by, samt mellan
+Backa by och kyrkan. Planförslaget har reviderats gällande områdena mellan
+Backa by och Värö kyrka, för att minimera påverkan på landskapsbild och
+kulturvärden, se utvecklat svar i kommunens kommentar till Hamn- och
+gatunämnden.
+
+Skrivningen om gårdsbutiker ämnar beskriva möjligheten för fastighetsägarna att
+tillskapa publika funktioner såsom exempelvis gårdsbutiker eller serveringar, om
+möjlighet och intresse finns. Skrivningen ska ses som ett exempel på verksamhet
+som kan vara förenlig med föreslagen markanvändning, men ska inte ses som ett
+krav.
+
+Parker
+I ett tidigt skede av planarbetet genomfördes en naturvärdesinventering och en
+ekosystemkartläggning, vilka har bidragit till utformningen av planförslaget.
+Kartläggningen visar att det finns områden med höga ekosystemtjänstvärden som
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            83
+
+<!-- sida 190 -->
+
+sticker ut som mångfunktionella i ett annars mer monofunktionellt
+jordbrukslandskap. Dessa områden har identifierats som viktiga för Väröbackas
+biologiska mångfald och bevaras därför inom ramen för förslaget. Genom att
+planera för en sammanhängande grönstruktur förstärks och tillskapas
+ekosystemtjänster i det framtida stationssamhället. Befintliga naturområden
+knyts samman och bildar gröna stråk med parker, trädplanterade gator och
+spridningskorridorer för växter och djur.
+De redovisade förslagen på platser för parker och större natur- och
+rekreationsområden har grundats på kommunens övergripande ambitioner för
+parker och natur:
+
+•  Närparker ska finnas inom 300 meters promenad från bostad, skola
+eller arbetsplats och vara minst 0,5 hektar stora.
+•  Tätortsparker ska finnas inom 750 meters promenad från bostad, skola
+eller arbetsplats och vara minst 2 hektar stora.
+•  Större rekreationsområden ska finnas inom 1 kilometers promenad
+från bostad, skola eller arbetsplats och vara minst 20 hektar stora
+
+Exakt vad de framtida parkerna kommer att innehålla för värden och funktioner
+behöver studeras vidare i efterföljande planeringsskeden.
+
+Kommunen ser EU Nature Restoration Law som ett viktigt initiativ för
+genomförandet av den gröna omställningen på lokal, nationell och internationell
+nivå. För att hushålla med mark- och vattenresurser, skydda naturområden och
+ekosystemtjänster samt minska växthusgasutsläppen och därmed begränsa den
+globala uppvärmningen till 1,5°C, behöver kommunen främja hållbara resor och
+undvika en gles och utspridd samhällsstruktur. Detta åstadkoms inom
+planförslaget genom att möjliggöra för en ny tågstation och tät bebyggelse i ett
+stationsnära läge. Genom att kombinera detta med strategier för grönstrukturen
+genom alléer längs gator, planteringar på gårdar och offentliga platser samt en
+spridd bostadsnära stadsodling stödjs den ekologiska och sociala funktionen i
+stråken samt skogsområdena.
+
+Kommunen delar uppfattningen att arter såsom hackspett och fladdermus har ett
+högt bevarandevärde och ska värnas under utvecklingen av Väröbacka.
+Naturvärdesinventeringen och ekosystemtjänstkartläggningen har tydligt
+identifierat och värderat viktiga naturmiljöer för biologisk mångfald utifrån
+biotoper och arter. Med stöd av dessa bedömningar föreslås åtgärder för att
+bevara och utveckla gröna stråk och grönytor genom området, med målet att
+säkerställa naturvärden i största möjliga utsträckning. I samband med väg 845
+pekas det också ut områden i behov av ytterligare förstärkning av naturvärden.
+Hänsyn har tagits till detta genom ett planerat grönstråk, som får en central roll
+för både ortens dagvattenhantering och ekosystemtjänster. När det gäller arterna
+hackspett och fladdermus kan en mer detaljerad bedömning bli aktuell i
+efterföljande planeringsskeden, bland annat vid detaljplaneläggning. Det kan
+exempelvis omfatta kompletterande inventeringar, anpassning av belysning samt
+bevarande av viktiga strukturer och gröna stråk inom området.
+Trafik och övrig infrastruktur
+
+Trafikutredningen för FÖP Väröbacka har uppdaterats i och med att det gjorts
+förändringar i planförslaget. Trafikprognosen, som är framtagen med hjälp av
+Trafikverkets trafikalstringsverktyg, visar att utbyggnaden av Väröbacka fram
+till år 2050 innebär en kraftig ökning av trafikrörelser i samhället. Samtidigt finns
+
+84                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 191 -->
+
+stora osäkerheter kring beräkningsmodellens utfall över tid, där planens strävan
+är att öka andelen hållbara transporter mer än vad modellen ger utrymme för.
+Samhällsutveckling som stöttar resandeunderlaget vid stationen ställer krav på
+Trafikverket och kommunen att gemensamt hitta bra lösningar för hållbar
+samhällsutveckling med hållbara trafikslag i förgrunden, även om det innebär
+utmaningar avseende bland annat trafikalstring, korsningspunkter mellan olika
+transportslag. Stationssamhällets utveckling tillsammans med anslutningar till
+angränsande orter skapar goda förutsättningar för att öka attraktiviteten,
+nettoresandet och kommer därmed bidra till en mer samhällsekonomisk uppsida
+för infrastrukturinvesteringen.
+
+Kostnader för eventuella kabelomläggningar finns inte framtagna, utan om och
+när detta blir aktuellt behöver studeras tillsammans med övriga åtgärder i
+efterföljande planeringsskeden.
+
+Risk för olyckor med farligt gods
+Risk i relation till farligt gods är en viktig fråga för FÖP Väröbacka. Kommunen
+ämnar hantera farligt gods på ett övergripande plan i området och inte enbart
+utifrån utpekade primärleder för farligt gods. I enlighet med den riskutredning
+som tagits fram inom ramen för översiktsplanen görs bedömningen att
+samhällsrisken bör vara låg. Den slutsatsen dras utifrån beräknad individrisk,
+vilken är direkt kopplad till uppskattade transporterade mängder och en
+översiktlig bedömning av bebyggelsen. Fördjupade riskanalyser och beräkningar
+av samhällsrisken görs vidare i samband med detaljplaneskedet då en mer
+detaljerad information om bebyggelsen tas fram.
+
+Angående kommentaren om att funktioner som vård, förskola och skola inte bör
+planeras i nära anslutning till leder med farligt gods så har planförslaget
+reviderats till granskningshandlingen så att utpekade platser för vårdboenden och
+skola utmed bland annat Varbergsvägen och väg 859 har tagits bort.
+
+Buller
+Att verka för en samlad bebyggelse i stationsnära läge som ger goda
+förutsättningar för hållbart resande, innebär inte sällan att bebyggelse uppförs i
+bullerutsatta lägen. Genom modern byggteknik går det att möjliggöra för stor
+bullerdämpning mellan utemiljön och inomhusmiljön, samtidigt som
+bebyggelsestrukturen i sig kan optimeras för att begränsa bullerutredningen i
+lokalsamhället. Detta motiverar att planförslaget delvis tillåter byggnation med
+mindre känslig användning i mer bullerutsatta områden, för att hela samhället
+ska kunna byggas nära stationen utan att utsättas för hög bullernivå. Kommunen
+kommer att följa riktvärdena i bullerförordningen och arbeta med tyst sida.
+
+Vattenhantering
+Kommunen är medveten om de markförutsättningar som råder inom området för
+planförslaget. En övergripande geoteknisk utredning har gjorts, där områden som
+ligger i riskområden för ras, skred och erosion har uppmärksammats. Dessa
+redovisas i kartan och har tagits hänsyn till i planeringen. Vid utformning av
+planförslaget har även hänsyn tagits till översvämningsrisker till följd av ett
+förändrat klimat, såsom stigande havsnivåer och extrem nederbörd. En
+övergripande VA-utredning har tagits fram i syfte att studera hur planområdet
+påverkas på en övergripande nivå samt vilka åtgärder som kan behöva vidtas för
+hantering av vatten. I samband med framtida exploateringar kommer nya
+detaljplaner tas fram, inom vilka dagvattenutredningar behöver göras.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            85
+
+<!-- sida 192 -->
+
+I syfte att förtydliga vattenhantering kommer planförslaget att kompletteras med
+ett samlat kartunderlag avseende risker kopplade till översvämning, ras, skred,
+erosion, skyfall, transportvägar för farligt gods och sevesoanläggningar, se
+avsnittet ”Miljö, hälsa, risk och säkerhet – Samlade risker”. Många av underlagen
+finns redan presenterade i FÖP:en men inte som ett samlat tematiskt
+kartunderlag. Även formulering kring syn på klimatrelaterade risker förtydligas.
+Kommunen vill förtydliga att planläggning av nya områden får inte påverka
+grundvattenbalansen och att tillgång till dricksvatten måste säkerställas. Detta
+hanteras i respektive detaljplan och är ingen fråga för den fördjupade
+översiktsplanen. Även frågan om stigande matpriser ligger utanför den
+översiktliga planeringen.
+
+Privatperson 32 (KS 2023/0644-59)
+Personen påminner om att det behövs bostäder som är anpassade för människor
+över 55 år.
+
+Kommunens kommentarer
+
+Synpunkten noteras. Inom områden som pekas ut för ”bostäder” i planförslaget
+möjliggörs det för olika typer av bostäder. Här skulle det således vara möjligt att
+exempelvis bygga bostäder som är särskilt anpassade för människor över 55 år.
+Det är upp till respektive markägare om det finns intresse att exploatera sin mark,
+och vidare vilken upplåtelseform som därefter ska eftersträvas.
+
+Privatperson 33 (KS 2023/0644-60)
+
+Personen föreslår att nya bostäder också kan komma till vid Lingome, Stavder och
+söder om Porskärsmossen för att undvika jordbruksmark inom planområdet. I så
+fall behöver riksintresse för energiproduktion justeras i dialog med Länsstyrelsen
+vilket kan vara lämpligt av lite olika anledningar.
+
+Kommunens kommentarer
+Inriktningen att koncentrera den framtida bebyggelsen till kommunens
+serviceorter eller övriga befintliga samhällen är en övergripande
+utvecklingsinriktning. Att skapa förutsättningar för en samlad bebyggelse i
+anslutning till befintliga samhällen möjliggör för en hållbar utveckling och god
+samhällsekonomi, med bättre underlag för verksamheter, service, kommunal
+infrastruktur och kollektivtrafik. Samtidigt skyddas värdefull jordbruksmark och
+natur- och kulturmiljöer.
+
+Synpunkten om att diskutera avgränsningen av riksintresset för energiproduktion
+med länsstyrelsen noteras.
+
+Privatperson 34 (KS 2023/0644-66)
+
+Personen har synpunkter på att området som berör fastigheten Värö-Backa 15:17 är
+utpekad som naturmark (N4) och inte bostadsbebyggelse. Personen vill att
+markanvändningen för fastigheten ändras så att det möjliggörs för framtida
+utveckling av villor, radhus och flerbostadshus.
+
+86                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 193 -->
+
+Kommunens kommentarer
+De områden som föreslås för bebyggelseutveckling eller annan markanvändning i
+planförslaget är resultatet av en noggrant avvägd process som tar hänsyn till
+olika intressen. Det nuvarande planförslaget är ett resultat av kommunens mål
+och ambitioner för samhällsutvecklingen, samt de fysiska förutsättningarna på de
+aktuella platserna. Hänsyn till landskapsbild, kulturmiljövärden och brukningsbar
+jordbruksmark är de viktigaste anledningarna till att bebyggelse inte föreslås
+breda ut sig på markerna mellan Varbergsvägen och österut mot kyrkbyn.
+Ambitioner om att Väröbacka och Limabacka ska växa samman och att orten ska
+upplevas som ett tätt och sammanhållet samhälle, där hållbara lokala transporter
+främjas, har varit starka utgångspunkter i planeringen. Av dessa anledningar har
+området kring N4 bedömts ligga förhållandevis långt från befintligt samhälle och
+har därför inte ansetts vara lämpligt för utpekande av en tät och sammanhållen
+bebyggelse. Att område N4 har föreslagits bevaras som naturmark grundar sig
+bland annat i den naturvärdesutredning som genomförts samt i genomförd
+ekosystemtjänstanalys. Området utgör också ett större fornlämningsområde med
+ett stort antal gravar från brons- och järnåldern. Området saknar dessutom en
+utbyggd vägstruktur, vilket skulle krävas i samband med exploatering.
+Sammantaget bedömer kommunen att området inte är lämpligt för exploatering,
+då utbyggnad av bebyggelse och infrastruktur skulle få negativ påverkan på
+befintliga natur- och kulturmiljöer. Kommunen föreslår fortsatt att fastigheten
+Värö-Backa 15:17 ska omfattas av markanvändning ”Natur”, då fastigheten utgör
+en del av det värdefulla natur- och kulturområdet ”Jättahögen”.
+
+Översiktsplanen hanterar de övergripande strukturerna för sammanhängande
+bebyggelse och principer för utbyggnad. Generellt sätt hänvisas frågor gällande
+enstaka markbostäder utanför detaljplanelagt område till kommunens
+bygglovsavdelning.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            87
+
+<!-- sida 194 -->
+
+Övriga
+
+Centern i Väröbacka
+
+Centern i Väröbacka tycker att stationen är positiv för Väröbacka. De påminner om
+att dagvatten måste tas omhand lokalt, utan påverkan på Stora och Lilla Även. De
+vill undvika bebyggelse på högproduktiv jordbruksmark, och är därför starkt
+negativa till område V1–4. De påminner om att ytorna närmast järnvägen är
+bullerutsatta och att bebyggelse inte får ligga för nära järnvägen. Centern föredrar
+att vissa föreslagna naturytor blir mindre till fördel för bostäder och bevarande av
+jordbruksmark, det gäller exempelvis N2. De tycker att naturliga grönområden är att
+föredra över anlagd parkmark men att lekplatser ska finnas tillgängligt i anslutning
+till bostäder.
+Centern anser att ett nytt vårdboende bör placeras i anslutning till befintligt boende
+vid Limagården (C8), där kommunen har rådighet över mark och där det finns
+tillgängliga fastigheter av olika slag. De tycker att befintliga och nya skolor och
+förskolor i möjligaste mån ska samlokaliseras för att minska transportbehovet.
+Därför förordas att området för befintlig skola i Väröbacka utökas för att ge plats till
+ökat behov av kommunal service. Vidare tycker Centern att trafiksäkerheten längs
+cykelvägar och genom centrum är prioriterad, i synnerhet i korsning med väg 845.
+Barn måste kunna ta sig till skola och idrottsområde, vilket sker bäst med säkra
+cykelvägar. Vid förslag till sträckningar av grönstråk bör man undersöka
+möjligheterna att använda redan etablerade vägar. Man betonar även vikten av väg
+845 som genomfart och dess funktion som omledningsväg för E6. Trafiksäkerheten
+måste tas stor hänsyn till vid etablering av centrumstråket. Avslutningsvis vill man
+lyfta vikten av att möjliggöra för parkeringar nära de nya stationsperrongerna samt
+ökad säkerhet vid in- och utfarter längs väg 845 och väg 850.
+
+Kommunens kommentarer
+
+En övergripande VA-utredning har tagits fram i syfte att studera hur planområdet
+påverkas på en övergripande nivå samt vilka åtgärder som kan behöv vidtas för
+hantering av vatten. I samband med framtida exploateringar kommer nya
+detaljplaner tas fram, inom vilka dagvattenutredningar behöver göras. Varje
+enskild exploatering kommer att behöva lösa en god dagvattenhantering, utan
+negativ påverkan på Stora och Lilla Även.
+Område V3 och V4 har justerats till granskningshandlingen, se svar till
+privatperson 14.
+
+Kommunen är medvetet om att områdena närmast järnvägen är hårt utsatta av
+buller. Trots detta har man bedömt det som värdefullt att kunna få till en samlad
+bebyggelse i stationsnära lägen och som dessutom möjliggör för orten att fysiskt
+växa samman. En övergripande bullerutredning har tagits fram, vilken visar att
+bullerdämpande åtgärder kommer att krävas inom områdena närmast järnvägen
+för att kunna klara gällande riktvärden. Modern byggteknik möjliggör dessutom
+för stor bullerdämpning mellan utemiljön och inomhusmiljön, samtidigt som
+bebyggelsestrukturen i sig kan optimeras för att begränsa bullerutredningen i
+lokalsamhället. Det sistnämnda motiverar att planförslaget delvis möjliggör för
+byggnation med mindre känslig användning i mer bullerutsatta lägen, för att
+samhället som helhet ska kunna byggas stationsnära utan att vara för
+bullerutsatt. Kommunen kommer följa bullerförordningens riktvärden och arbeta
+med tyst sida.
+
+88                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 195 -->
+
+I planförslaget föreslås att område N2 och P5 bevaras och utvecklas som natur-
+eller parkmark. Såväl genomförd naturvärdesinventering som
+ekosystemtjänstanalys lyfter naturområdenas värden utifrån flera olika
+perspektiv, varför kontoret bedömt dem som lämpliga att bevara samt viktiga att
+freda från exploatering av ny bebyggelse. Angående naturliga grönytor framför
+mer programmerade parker och lekplatser så har planförslaget utformats utifrån
+kommunens vägledning kring närhet till olika typer av grönområden.
+Synpunkt kring lokalisering av vårdboende noteras. Till granskningshandlingen
+har särskilt utpekade områden för vård tagits bort. Kommunen bedömer att, även
+om befintligt område för skola i Väröbacka utökas, inte kommer att räcka för att
+täcka det samlade skolbehovet i orten på lång sikt. Till granskningshandlingen har
+område S3 därför utökats till att omfatta hela den kommunalägda fastigheten och
+markanvändningen har ändrats från ”skola” till ”kommunal service” i syfte att
+kunna möjliggöra för olika typer av verksamheter för kommunala servicebehov.
+Platsen blir således lämplig för såväl förskola, skola som för vårdboenden av olika
+slag.
+
+Kommunen instämmer i vikten av att det ska finnas trafiksäkra gång- och
+cykelvägar som sammanbinder olika funktioner och platser i orten och att
+befintliga vägar och stråk ska nyttjas så långt som möjligt. Bedömningen är att
+planförslaget är utformat utifrån ett sådant tankesätt. Kommunen instämmer
+även i att väg 845 fortsatt ska fungera som omledningsväg för E6 och med
+bibehållen trafiksäkerhet och framkomlighet.
+
+Synpunkter kring lokalisering av parkeringar inom stationsområdet samt ökad
+trafiksäkerhet säkerhet vid in- och utfarter längs väg 845 och väg 850 noteras.
+
+Elever från årskurs 7, Väröbackaskolan
+
+Eleverna från årskurs 7 i Väröbackaskolan tycker det är jättebra att det planeras för
+en tågstation i Väröbacka och vill att det vid denna ska finnas väderskydd,
+cykelparkeringar, toaletter och en kiosk för att stationen ska fungera bra. De vill att
+nya byggnader uppgår till maximalt fyra våningar för att bevara den mysiga känslan
+i Väröbacka. Det är viktigt att det nya som byggs passar in och blir fint. De tycker att
+det är bra att Väröbacka och Limabacka byggs ihop och att fler kan flytta hit
+eftersom det kan leda till ökad service. På så vis kan fler få nära till mer. De tycker
+det är viktigt att den nya skolan ligger nära busshållplatser, affärer och
+naturområden. Det hade varit bra om den hamnade i Limabacka, men helst inte på
+idrottsplatsen. Det bästa förslaget är vid Varbergsvägen (S4). Eleverna vill bevara
+skogsområden och utveckla skogen med till exempel en multiplan, soffor och konst.
+När samhället växer behövs mer grönt så att det blir mysigt, och gröna områden är
+särskilt viktiga nära skolor, förskolor och äldreboenden. De anser att det är viktigt
+att enkelt kunna ta sig runt som gående och cyklist och önskar därför fler gång- och
+cykelvägar samt att dessa utrustas med belysning. Även busstrafiken behöver
+förbättras med fler turer och linjer. I öster saknas busslinjer helt.
+
+Kommunens kommentarer
+Kommunen vill tacka för elevernas yttrande och deras konstruktiva förslag.
+Planprocessen har flera olika skeden, där en översiktsplan (som detta är) är det
+första planskedet. Efter översiktsplanen utformas detaljplaner, vilka hanterar
+mindre områden men mer i detalj. Om den fördjupade översiktsplanen berättar
+var stationen ska ligga och vilka funktioner den ska innehålla, bearbetas
+stationsområdets utformning och mer specifika angivelser för vad som ska ligga
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            89
+
+<!-- sida 196 -->
+
+var i detaljplan för ”Tågstation i Värö”. Läs gärna mer om den på kommunens
+hemsida och kom med era synpunkter i kommande samråd. Utformning av
+parkering för cykel, väderskydd och bytesmöjligheter mellan buss och tåg är
+samtliga viktiga frågor för detaljplanen att lösa. I Väröbacka planeras även för ett
+stationshus i vilket toalett, kiosk och affärer förhoppningsvis kommer finnas.
+Kommunen kan dock inte bestämma vad som ska öppna på en plats (förutom
+förskola, skola och äldreboende), men gör det möjligt för att saker ska kunna
+byggas.
+Planförslaget anger idag att bebyggelse som mest får uppföras i 4 våningar.
+Planförslaget har utformats så att Limabacka och Väröbacka på sikt ska kunna
+växa ihop till ett samhälle och ger rum även för handel och service i de centrala
+delarna av orten. Att fler på sikt kan bo och arbeta i Väröbacka är en bra
+förutsättning för att handel och service ska kunna öppna i samhället. Affärer,
+matställen, café, fritidsgård och skolbibliotek kan vara aktuellt för orten. I nuläget
+finns inga planer på att bygga simhall eller större bibliotek.
+
+I samrådsförslaget till översiktsplan för Väröbacka fanns 3 alternativa
+placeringar av ny skola. Efter samrådet har olika underlag kommit fram som
+gjort att läget på idrottsplatsen inte längre bedöms vara aktuellt. Inte heller
+placering utmed Varbergsvägen är nu aktuellt, framför allt utifrån buller, risk och
+alternativanvändning (att det är värdefullt att bygga något annat på en så central
+plats, då skolan inte kommer byggas på lång tid än). Kommunen har slutligen valt
+att till granskningen föreslå område S3 som plats för ny skola. Området har
+utökats till att omfatta hela den kommunala fastigheten och markanvändningen
+har ändrats från ”skola” till ”kommunal service” i syfte att kunna möjliggöra för
+olika typer av verksamheter för kommunala servicebehov. Platsen blir således
+lämplig för såväl förskola, skola som för vårdboenden av olika slag.
+
+De skogspartier som finns i Väröbacka och Limabacka kommer till största del att
+bibehållas. De kommer dessutom att förenas genom grönstråk genom orten. I
+planförslaget finns även förslag om ett flertal parker. Utbyggnad av planförslaget
+beror på huruvida de privata markägare som äger marken i samhället vill bygga
+på sin mark. I samband med utbyggnad av samhällets olika delar så kommer
+kommunen att uppföra vägar och etablera parker mm. Gång- och cykelbron över
+järnvägen är en sådan del av planförslaget som kommunen bygger ut. Den är
+viktig för att barn och unga ska kunna röra sig på ett tryggt och säkert sätt.
+
+I och med att det blir en ny tågstation i Väröbacka kommer det även bli viktigt
+med fler bussturer som går till stationen så att människor som bor och arbetar i
+norra Varberg kan använda sig av tågstationen. Utformning av nya linjer och
+tidtabeller för dessa bestäms av Region Halland och Hallandstrafiken.
+
+Kulturmiljö Halland
+
+Kulturmiljö Halland ser positivt på att befintligt kulturmiljöunderlag och
+konsekvensanalyser för området har lyfts in i arbetet med den fördjupade
+översiktsplanen samt att de synpunkter som lyfts fram under framtagande av
+planförslaget har bemötts. Dock har man fortfarande följande synpunkter:
+Kulturmiljö Halland påpekar att den fördjupade översiktsplanen riskerar att
+medföra skada på landskapets och kulturmiljöernas kulturhistoriska värden, främst
+i Backa by. Exploateringsgraden påverkar upplevelsen, läsbarheten och siktlinjerna
+runt Backa by. Detta är värden som ger landskapet och bymiljön dess karaktär och
+historiska förankring. Betydelsen av lagaskifteslandskapet, med de långsmala
+
+90                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 197 -->
+
+åkrarna runt Backa by, är ett karaktärsdrag som bör bevaras. Bedömningen är att
+tillkommande bebyggelse om båda sidor av Backa by, på mark som idag utgör ett
+öppet landskap, påverkar den befintliga kulturmiljön och dess kulturhistoriska
+värden märkbart negativt.
+Kulturmiljö Halland påtalar en motstående formulering i samrådshandlingen och
+markanvändningskartan om planerad bebyggelse är tänkt på södra, eller båda sidor
+om Backa by.
+
+Kommunens kommentarer
+
+Kommunen är tacksam för de underlag som Kulturmiljö Halland tagit fram som
+del av underlagen för planförslaget, och vilka i stor utsträckning format plankarta
+och objektsbeskrivningar. Hanteringen av Backa by är utmanande då den ligger
+väldigt stationsnära, samtidigt som en del av föreslagen hantering har varit att
+inte bebygga ett stort område runt radbebyggelsen. Planförslaget värnar de
+värdeelement som kulturmiljöutredningarna framhållit avseende diken,
+stengärdesgårdar och betesmarker samt den visuella kontakten mellan Värö
+kyrka och Backa by. Kartskikten för visuella samband kommer förtydligas i
+planförslaget. Radbebyggelsen ingår i ett eget markanvändningsområde där
+bebyggelsestruktur och gårdsmiljöer ska värnas utifrån sina stora
+kulturmiljövärden. Till granskningshandlingen har hela området för Backa by
+slagits samman till ett gemensamt markområde för ökad tydlighet i kartan.
+Utöver detta har område B8 minskat i omfattning och byggnadshöjder, framför
+allt för att minimera påverkan på landskapsbild och kulturmiljö.
+
+Kungsbacka  kommun
+
+Kungsbacka kommun är positiva till planförslaget främst avseende etableringen av
+en ny tågstation som stärker tillväxten och hållbar utveckling i regionen. Kommun
+vill verk för ett gott samarbete i Halland och effektiv infrastruktur.
+
+Kommunens kommentarer
+Kommunen är glad att ta del av Kungsbacka kommuns positiva yttrande på
+planförslaget och delar synen på att fler tågstationer i regionen är gynnsamt för
+Hallands omställning mot mer effektiv infrastruktur, vilket ger förutsättningar för
+tillväxt och hållbar utveckling.
+
+Lantbrukarnas riksförbund, LRF Varberg
+
+Lantbrukarnas Riksförbund, LRF Varberg lyfter flera argument för att planen
+äventyrar Sveriges självförsörjningsgrad, energi- och livsmedelsproduktion – i
+synnerhet med en orolig omvärld. De reflekterar över att arbetet med den
+fördjupade översiktsplanen påbörjades i en tid innan då det inte fanns samma fokus
+på beredskap och behovet av att säkra energi- och livsmedelsproduktionen, vilket
+kan vara en förklaring till att kommunen inte på allvar tagit hänsyn till bevarandet
+av jordbruksmarken samt även en orsak till att skogen främst har beskrivits som ett
+rekreationsområde. LRF vill också påminna om att det sedan 2017 finns det en av
+riksdagen antagen livsmedelsstrategi, vars mål är att livsmedelsproduktionen ska
+öka.
+
+LRF är emot exploatering av högproduktiv jordbruksmark och tycker det är
+anmärkningsvärt att kommunen föreslår exploatering av så stora delar
+jordbruksmark och undrar vidare hur stor yta av jordbruksmark som totalt föreslås
+att tas ur bruk. LRF ställer sig frågande till formuleringen att annan jordbruksmark i
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            91
+
+<!-- sida 198 -->
+
+kommunen sparas, eftersom den nya översiktsplanen inte är påbörjad. LRF delar
+inte bilden av exploateringen utgör ett väsentligt samhällsintresse utan tycker
+snarare att livsmedelsproduktionen utgör ett väsentligt samhällsintresse.
+LRF påpekar att skogsområdet N1 inte ska benämnas som ett rekreationsområde
+eftersom marken är privat och används för skogsbruk. Man anser inte att det är
+kommunens rådighet att styra över hur skogen skall brukas och texten för området
+bör därför ändras så att fortsatt skogsbruk möjliggörs i enlighet med gällande
+lagstiftning. De tycker också att viss spridd bebyggelse ska tillåtas inom de ytor som
+föreslås som areell näring, detta för att tillåta generationsväxling inom
+jordbruksfastigheterna.
+
+Beträffande infrastruktur måste hänsyn tas till jordbruksmaskiner och dess
+framkomlighet. När det gäller satsningar som rör cykelvägar, vägar och
+ledningsdragningar med mera vill man erbjuda LRF’s kommungrupp som en resurs
+då dess medlemmar besitter god lokalkännedom och kan stötta i samverkan med
+lokalsamhället. LRF framhåller även vikten av dagvattenhantering och att de inte
+vill se någon ytterligare belastning för markavvattningsföretag utan att dagvatten
+hanteras inom planområdet.
+
+Kommunens kommentarer
+Kommunen har tagit del av LRF i Varbergs yttrande och delar bilden av att
+omvärldsläget förändrats under senare år, vilket ställer krav på samhällets
+system. Kommunen tackar även för möjligheten att i framtiden samråda olika
+frågor med föreningens medlemmar.
+
+Kommunen är mån om att värna jordbruks- och skogsmark och har därför tagit
+fram kunskapsunderlag om jordbruksmarken generellt och lokaliseringsutredning
+om planförslaget specifikt. Lokaliseringsutredningen har under samrådet funnits
+tillgänglig under avsnittet ”Konsekvenser” i det digitala planförslaget.
+Samrådsförslaget finns fortfarande tillgängligt på kommunens webbplats, som
+pdf-dokument. I den uppdaterade miljökonsekvensbeskrivningen för
+granskningshandlingen har en sammanställning av antalet hektar åkermark som
+pekas ut för bebyggelseutveckling gjorts (se sid 95 i miljökonsekvenseskrivningen).
+
+Samhällsplaneringen har många perspektiv att balansera. Lagstiftningen är
+tydlig med att definiera jordbruks- och skogsmark som nationella intressen, där
+jordbruksmark enbart får ianspråktas om det föreligger ett väsentligt
+samhällsintresse som inte på ett från samhällets synpunkt tillfredsställande sätt
+kan tillgodoses på annan mark. Därav har kommunen tagit fram en
+lokaliseringsutredning som undersöker dessa faktorer som definieras av
+Miljöbalkens 3 kap. 4 §. Slutsatsen är att den nya stationen utgör ett väsentligt
+samhällsintresse och att det är angeläget att bygga i nära anslutning till stationen
+för att skapa förutsättningar för en samhällsutveckling med minskad
+klimatpåverkan. Att etablera bostäder och arbetsplatser nära stationen innebär
+även att investeringen i stationen får större samhällsekonomisk nytta.
+Stationsläget fastställs däremot av såväl relation till befintligt samhälle som var
+den får minst påverkan på jordbruksmaken. I det nu stationsnära området finns
+redan industri som fragmenterar jordbruket, och pågående detaljplanearbete som
+vidare ianspråktar marken. I norr är jordbruksarealerna större och det finns
+bättre förutsättningar för att bibehålla sammanhängande jordbruksarealer.
+Kommunen kommer däremot att revidera verksamhetsmarken i söder, bland
+annat i syfte att minska ianspråktagandet av jordbruksmark. Frågan om
+beredskap och civilt försvar är känd för kommunen, och hanteras på olika sätt i
+
+92                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 199 -->
+
+olika delar. Planen har kompletterats med information och vägledning gällande
+säkerhet och beredskap, se avsnittet ”Miljö, hälsa, risk och säkerhet”. Viktigt att
+notera är även att översiktsplanen anger en långsiktig viljeriktning för
+markanvändningen, men att markägaren har fortsatt rätt till nuvarande
+användning.
+Frågan om dagvattenhantering är viktig, och ställs på sin spets allt eftersom
+klimatet förändras. Hantering av dagvatten kommer att regleras i samband med
+detaljplanläggning av kommande utbyggnadsetapper av planområdet. Förslaget
+innebär även förändringar av väginfrastruktur, men framkomlighet för tunga
+fordon och lantbruksmaskiner ska bibehållas.
+
+Den nya stationen innebär stora möjligheter att etablera hållbara
+samhällsstrukturer och resvanor i en del av kommunen med flera stora
+arbetsgivare och efterfrågan av bostadsbyggnation. Genom en yteffektiv
+exploatering i stationsnära läge bedöms påverkan på jordbruksmark totalt sett att
+minimeras. Arbete med kommunövergripande översiktsplan pågår och kommer
+vidare visa på kommunen strategi avseende jordbruksmarken.
+
+Kommunen är medveten om att område N1 utgör ett viktigt område för skogsbruk,
+men anser också att naturområdet som helhet fyller en viktig funktion som
+tätortsnära naturområde. Objektsbeskrivningen för område N1 har kompletterats
+med text om skogens betydelse för skogsbruket.
+
+Angående synpunkt om att spridd bebyggelse ska kunna tillåtas inom de ytor som
+föreslås som areell näring så anser kommunen även fortsättningsvis att
+markanvändningen ”areell näring”, med förhållandevis restriktiv hållning till ny
+bebyggelse, utgör ett viktigt skydd för att just undvika spridd bebyggelse på
+jordbruksmark som kan leda till onödig fragmentering. Dock tillåter
+markanvändningen ny bebyggelse om den utgör en del av den areella näringens
+funktion. För markanvändningen ”Landsbygd – Odlingsbygd”, vilken ligger i
+anslutning till områden med ”areell näring”, finns däremot inte samma restriktion
+kring ny tillkommande bebyggelse.
+
+Mek Hub AB
+
+MekHub AB tycker att markanvändningen ska vara oförändrad på deras fastighet
+Värö-Backa 9:35. De påpekar också att planhandlingen har en felaktig beskrivning
+av ytan B9 där deras fastighet och verksamheten inte nämns. De tycker att
+jordbruksmarken vid B9 ska bevaras för att säkra inhemsk matproduktion och
+Sveriges självförsörjningsgrad. Bolaget upplever bristfällig dialog om planen från
+kommunens sida. Bolaget vill att planen ändras så att de fortsatt kan bedriva och
+utveckla sin verksamhet.
+
+Kommunens kommentarer
+Kommunen beklagar att MekHub AB inte anser att kommunen i tillräcklig
+omfattning samrått förslaget till översiktsplan för Väröbacka. Kommunen anser
+att det enskilda besök som kommuntjänstepersoner genomförde i MekHubs lokaler
+i planområdet utgjorde ett sådant tillfälle. Däremot är det beklagligt att texten
+avseende nuvarande markanvändning blivit fel. Detta har justerats till
+granskningshandlingen. Markägarens önskemål om inriktning för
+markanvändning på fastigheten noteras av kommunen och i granskningsförslag
+till översiktsplan har markanvändningen för området ändrats från ”Bostäder,
+lång sikt” till ”Verksamheter”.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            93
+
+<!-- sida 200 -->
+
+Naturskyddsföreningen i Varberg
+Naturskyddsföreningen i Varberg påpekar vikten av att i god tid planera för ett
+samhälle där man kan leva utan bil, och efterfrågar därför en hållbar infrastruktur
+med genomtänkt planering av bland annat busshållplatser och cykel- och
+gångbanor. De önskar en sammanhängande grönstruktur – att träd, vegetation
+utmed vattendrag, gärdesgårdar och stenrösen bevaras. De tycker att kommunen
+ska hantera invasiva arter redan idag. Föreningen önskar ett tydligare resonemang
+om planens lydelse “en medveten bebyggelsetäthet i Väröbacka kan i
+förlängningen bidra till att mängden byggnation på jordbruksmark i andra delar
+av kommunen blir mindre”. De tycker att skogsdungen vid ytan N2 ska bevaras som
+natur i sin helhet och inte naggas i kanten eftersom det finns stora naturvärden. De
+tycker att Korpakullen, som ligger precis utanför planområdet i väster, ska bevaras
+som natur eftersom den har betydelse för landskapsbilden i Väröbacka.
+
+Kommunens kommentarer
+Planförslaget utgår från sju planeringsinriktningar där växa från stationen och
+det nära samhället är två. Det handlar om att man i Väröbacka ska kunna bo och
+ha nära till allt som behövs i vardagen. Gång- och cykeltrafik ska främjas och vara
+särskilt god till och från stationen. Barn och ungdomar ska kunna gå och cykla
+säkert och tryggt till skola och fritidsaktiviteter. Det ska vara möjligt att leva här
+utan tillgång till egen bil, vilket genomsyrar strukturer för gång-, cykel och
+kollektivtrafik m.m.
+
+Förslaget värnar natur- och kulturvärden så som strukturer av gärdsgårdar,
+äldre väg- och fastighetsindelning mm. Jordbrukslandskapet är ofta ett relativt
+monofunktionellt landskap, vilket genom förslag om nya grönstråk kommer
+kompletteras med nya träd där så behövs.
+
+Grundprincipen är att kommunen genom att bygga relativt tätt i Varberg stad,
+dess stadsnära orter och serviceorter kan ta mindre mark i anspråk i
+jordbrukslandskapet eller skogsbygden än om en spridd bebyggelse med stora
+tomter skulle medges. Därmed ges utrymme för jordbruks- och skogsnäring att
+fortsätta driva ett rationellt bruk.
+
+N2 är till skillnad från P5 utpekad som naturområde och inte park.
+Tillgängligheten avses att stärkas men inga större åtgärder avses att genomföras i
+området.
+
+Korpakullen regleras inte av aktuellt planförslag, däremot finns mer information
+och vägledning för området i Varbergs kommunövergripande översiktsplan,
+vilken är ute på granskning under vintern 2026.
+
+Sjöströms fastigheter
+
+Sjöströms fastigheter äger fastigheten Värö-Backa 11:10 där de sedan tidigare har
+meddelats positivt planbesked för byggnation av bostäder. FÖP:en pekar nu ut delar
+av fastigheten för park och natur vilket står i konflikt med bolagets tankar om att
+bygga bostäder. Bolaget har god förståelse för det helhetsförslag som presenteras i
+den fördjupade översiktsplanen men vill samtidigt uttrycka sin besvikelse över att
+inte hela fastigheten möjliggörs för bebyggelse. Bolaget anser att förutsättningarna
+har ändrats markant sedan de meddelats positivt planbesked och uppskattar att den
+fördjupade översiktsplanen endast medger att ca 20% av den ursprungliga
+fastigheten nu pekas ut för bebyggelse. De ställer sig också frågande till varför
+kommunen vill bevara ett, enligt deras ögon, värdelöst naturområde för att istället
+
+94                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 201 -->
+
+föreslå byggnation på brukningsvärd jordbruksmark. Utifrån marknadsläget i
+Väröbacka, i kombination med de krav och regelverk som finns för planläggning och
+byggnation, bedömer bolaget att det i nuläget inte är ekonomiskt möjligt att bidra
+med exploatering på sin fastighet. För att det överhuvudtaget ska vara aktuellt vill
+man att föreslaget utbyggnadsområde i FÖP:en utvidgas ca 5500 kvadratmeter
+västerut.
+Sjöströms fastigheter föreslår slutligen tre alternativ för att utvecklingen i Värö inte
+ska hamna i en låsning.
+
+1. Markbyte mot annan fastighet som är detaljplanelagd för bostäder eller
+verksamheter inom Varbergs kommun. På så sätt förfogar kommunen över
+hela fastigheten och kan utforma park- och naturområdet på bästa sätt.
+Detta alternativ föredrar Sjöströms fastigheter själva.
+2. Justering av markanvändningskartan där delar av N2 istället pekas ut för
+bostäder. Sjöströms fastigheter bedömer att flerfamiljshus på 7–8 våningar
+krävs för att exploateringen ska bli lönsam. En hög exploatering bedöms
+också kunna bidra till en god hushållning av mark och mindre påverkan på
+jordbruksmark. Högre hus bedöms också passa bra intill befintliga träd.
+3. Tillåt även serviceboende, skola och förskola inom markytan som
+överlappar med deras fastighet eftersom tillgången till naturområdet skulle
+utgöra en kvalitet för serviceboende, skola eller förskola.
+
+Kommunens kommentarer
+Kommunen delar inte fastighetsägarens syn på att förutsättningarna för
+byggnation på deras fastighet har ändrats markant. Den mark som pekades ut
+som ny föreslagen bostadsbebyggelse i den fördjupade översiktsplanen för Norra
+kustenområdet (antagen av kommunfullmäktige 2017) har samma geografiska
+avgränsning som den mark som pekas ut för bostäder (del av B19) i
+samrådsförslaget till ny fördjupad översiktsplan för Väröbacka. Det som skiljer sig
+åt mellan de olika planerna är den övriga delen av fastigheten Värö-Backa 11:10,
+som nu har fått markanvändningen ”park” i de östra delarna och ”natur” i de
+västra delarna”, i den tidigare planen angavs som ”oförändrad markanvändning”.
+Att delar av området nu pekas ut som ”park” är resultatet av en mer detaljerad
+översiktsplanering än vad som bedrivits tidigare. Dock har ingen förändring skett
+i bedömningen av vilken mark som anses vara lämplig för ny bebyggelse. År 2019
+beslutade byggnadsnämnden att ge positivt planbesked för fastigheten Värö-
+Backa 11:10. Kommunen vill förtydliga att ett positivt planbesked innebär att
+byggnadsnämnden har för avsikt att genom detaljplan pröva lämpligheten av
+exploatering inom området, men att det inte är någon garanti för att platsen
+kommer utformas enligt planansökan eller att den kommer att antas och vinna
+laga kraft.
+
+Kommunen delar inte heller fastighetsägarens syn på naturområdets värden och
+resonemang avseende avvägning kring bebyggelse på jordbruksmark. Inom
+ramen för arbetet med den fördjupade översiktsplanen har en
+naturvärdesinventering gjorts som visar att delar av naturområdet hyser
+naturvärden av klass 3 och 4. Utöver detta har en analys av ekosystemtjänster
+tagits fram som visar att naturområdet som helhet hyser flera olika
+ekosystemtjänster. Området utgör därför ett viktigt naturområde i orten redan
+idag, som dessutom bedöms bli ännu viktigare i takt med att samhället växer.
+
+En fördjupad översiktsplan hanterar generellt inte frågor om markbyten eller
+andra typer av genomförandefrågor som vanligtvis hanteras i samband med
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            95
+
+<!-- sida 202 -->
+
+detaljplanearbete. I kommande detaljplanearbete för fastigheten kommer
+utredningar visa på avgränsningar och genomförandemöjligheter och en separat
+dialog kommer att föras med kommunens mark- och exploateringsavdelning
+kopplat till exploateringsavtal.
+
+Stora Ävabäckens markavvattningsföretag
+
+Stora Ävabäckens markavvattningsföretag har inkommit med ett yttrande i syfte att
+dels informera kommunen om sin verksamhet, dels lämna synpunkter på förslaget
+till ny fördjupad översiktsplan.
+De befintliga ledningssystemen från Vivab och Trafikverket saknar idag fördröjning,
+vilket leder till att vatten snabbt leds till kanalen. Detta gör att båtnadsområdet
+fungerar som en buffert tills utflödet överstiger inflödet. Att planlägga nya områden
+inom Stora Ävabäckens nederbördsområde är därför olämpligt tills befintliga
+ledningssystem strypts och fördröjts. Fördröjningsanläggningar är idag standard vid
+ny exploatering, både för att reglera flöden och rena dagvatten.
+
+De nuvarande dagvattensystemen inom FÖP bedöms som oacceptabla, och Vivab
+måste ta fram en åtgärdsplan för att fördröja befintliga anslutningspunkter innan
+vidare exploatering kan ske. Underlaget i FÖP avseende dagvattenhantering behöver
+uppdateras för att tydliggöra att Vivab ansvarar för att genomföra nödvändiga
+fördröjningsåtgärder. FÖP:en bör dessutom kompletteras med en karta över Stora
+Ävabäckens båtnadsområde. Inom båtnadsområdet är möjligheten till infiltration
+begränsad, och bebyggelse bedöms som olämplig på grund av översvämningsrisk.
+
+Stora Ävabäckens markavvattningsföretag har flertalet synpunkter på
+textrevideringar i avsnitten ”Natur, parker och vatten”, ”Klimatpåverkan och
+klimatanpassning” samt ”Energi och teknisk försörjning”, främst med hänsyn till
+dagvattenfrågor och risk för påverkan på båtnadsområdet. Underhåll och
+förvaltning av diknings- och markavvattningsföretag behöver säkerställas, där Vivab
+förväntas delta i finansieringen. Fördröjningsanläggningar ska lokaliseras nära
+nedslagsytorna, men inte inom båtnadsområdet. Områden för fördröjning av
+dagvatten ska markeras i FÖP, och särskilda platser reserveras för dessa ändamål.
+Vidare ska begrepp och formuleringar justeras för att säkerställa att
+dimensionerande flöden styr utformningen av dagvattenlösningar.
+
+Slutligen ska områden med kända översvämningsrisker, särskilt inom Stora
+Ävabäckens båtnadsområde, tydligt identifieras och reserveras i kartmaterialet för
+att förhindra olämplig exploatering. Nedan listas konkreta synpunkter inom olika
+FÖP-områden:
+•  V1 – Området ligger i sin helhet inom markavvattningsföretaget Stora
+Ävabäckens båtnadsområde och är i sin helhet direkt beroende av Stora
+Ävabäckens funktion. Vid höga nederbördsmängder och högt
+havsvattenstånd är det väl känt att området stundtals översvämmas.
+Området är ej lämpligt att använda för fördröjningssystem.
+
+•  GS1 – Stora delar av området ligger inom Stora Ävabäckens
+båtnadsområde och är i sin helhet direkt beroende av Stora Ävabäckens
+funktion. Vid höga nederbördsmängder och högt havsvattenstånd är det väl
+känt att området stundtals översvämmas. Området är ej lämpligt att
+använda för fördröjningssystem. Befintlig dagvattenledning, vilken
+
+96                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 203 -->
+
+avvattnar större delen av Väröbacka tätort löper genom området.
+Fördröjningsanläggning för denna ledning anläggs utanför området.
+
+•  B9 – Områdets södra delar ligger delvis inom Stora Ävabäckens
+båtnadsområde och området är i sin helhet direkt beroende av Stora
+Ävabäckens funktion. Vid höga nederbördsmängder och högt
+havsvattenstånd är det väl känt att området stundtals översvämmas.
+Området är ej lämpligt att använda för fördröjningssystem
+
+•  BA3 – Det bör inom området reserveras plats för fördröjningsanläggning
+för den befintliga dagvattenledning som avleder vatten från stora delar av
+Limabacka. Anläggningen bör utformas för att hantera ett 100 års regn. För
+området bör det finnas liknande skrivningar som för område N8.
+
+Kommunens kommentarer
+Kommunen är väl medveten om att det i planförslaget finns utpekade
+bebyggelseområden inom Stora Ävabäckens båtnadsområde. Det gäller framför
+allt område V1, B9, GS1 och BA3. Till granskningshandlingen har dessa områden
+justerats i utbredning, alternativt tagits bort. Område V1 har justerats till att
+endast omfatta befintlig mark för verksamheter samt för återstående redan
+detaljplanelagd mark för verksamheter. Område B9 har utökats söderut för att
+kunna inrymma en buffertzon till framtida nya bostäder i område B13. Område
+GS1 och område BA3 har tagits bort och föreslås fortsättningsvis utgöra
+jordbruksmark.
+
+För all ny samlad exploatering kommer detaljplaner att tas fram. I samband med
+dessa görs mer detaljerade VA-utredningar för att studera hur
+dagvattenhanteringen ska kunna ske. Utredning av lägsta golvhöjd men även
+utformning och nivåer i dagvattenanläggningar kommer att studeras för att
+kunna lösa dagvattenhantering, kraftiga nederbördsmängder och
+högvattenhändelser. Varje ny exploatering kommer att behöva hantera sitt
+dagvatten, bland annat genom att planlägga för tillräckliga ytor för fördröjning.
+Hänsyn behöver också tas till omkringliggande befintlig bebyggelse och befintliga
+dagvattensystem. Samtliga utbyggnadsområden i plankartan tar höjd för att
+kunna inrymma tillräckligt stora ytor för dagvattenhantering.
+Kommunen noterar synpunkter kring förslag på textändringar i FÖP:en. Det är
+viktigt att beskrivningar och texter i planen är korrekta, men det behöver
+samtidigt ske en avvägning avseende detaljeringsnivå. Kommunen bedömer att de
+beskrivningar och ställningstaganden som finns gällande dagvatten i FÖP:en är
+korrekta och tillräckliga på den här planeringsnivån. Vissa tillägg av text har dock
+gjorts i avsnittet ”Energi och teknisk försörjning, Dagvatten” samt i tillhörande
+ställningstaganden.
+
+Svenska kyrkan, Göteborgs stift
+Göteborgs stifts prästlönetillgångar (PLT) ser positivt på den utveckling som sker i
+Väröbacka, bland annat kring beslut om planering av ny tågstation. Man vill
+samtidigt betona de utmaningar som finns i närheten av stationsområdet, framför
+allt med anledning av närhet till befintliga industrier och hårt belastad infrastruktur.
+Istället för att koncentrera ny bebyggelse i anslutning till stationsområdet
+rekommenderar PLT kommunen att studera möjligheter att utveckla området kring
+befintlig skola i Väröbacka.
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            97
+
+<!-- sida 204 -->
+
+PLT äger fastigheten 2:1 och önskar att markanvändningen inom fastigheten
+justeras från areell näring till bostäder. Kyrkan har tidigare ansökt om planbesked
+med negativt utfall men önskar utveckla marken till bostäder enligt bifogade
+ritningar. De framhåller att området runt skolan har höga boendekvaliteter och
+tillgång till service.
+
+Kommunens kommentarer
+Kommunen noterar att Svenska kyrkan, Göteborgs stift, har två förslag till nya
+områden för bostadsbyggnation i norra Väröbacka. Kommunen tackar för
+underlagen men ser bekymmer med dess geografiska lägen. Läget norr om
+Väröbackaskolan ligger utmanande inom strandskyddat område utmed
+Prästabäcken, vars strandkant har stora naturvärden. Även området norr om
+Torna gård är utmanande då det till del ligger inom strandskyddat område och i
+övrigt skulle utgöra blickfång för det vidsträckta odlingslandskapet i norr, där
+planförslaget fastställt att den historiska kringbyggda Torna gård utgör en
+lämplig gräns för ortens utbredning i syfte att inte i större omfattning påverka
+landskapsbilden norrifrån. I ortens norra del är även siktlinjer mot Värö kyrka,
+vilken definierats som ett viktigt landmärke för orten, en angelägen fråga enligt
+underlag avseende kulturvärden.
+
+Bebyggelsens placering syftar även till att bygga samman Väröbacka med
+Limabacka och förtäta kring stationen, för att skapa goda förutsättningar för
+hållbar mobilitet.
+Båda områden ligger i den smala remsa som förbinder jordbruksarealer i östra
+och i västra Väröbacka. Sammanhängande jordbruksarealer bedöms vara en
+viktig fråga för ett över tid hållbart brukande av jordbruksmarken.
+
+Sammantaget bedöms inget av de utpekade områdena utgöra lämpliga områden
+för tillkommande bostadsbebyggelse.
+
+Södra Skogsägarna
+Södra skogsägarna påpekar risker med att förlägga en skola vid S6, nära tung
+verksamhetstrafik och industrispår. De framhåller också att konflikt kan uppstå
+mellan tätortsutveckling öster om nya stationen samt önskad utveckling av
+verksamheten vid V2–4. Södra önskar att vara delaktig i detaljprojektering av KÅ1
+och andra åtgärder längs vägen VÄ35 eftersom deras verksamhet genererar mycket
+transporter. Utformningen av eventuella rondeller och övriga korsningsåtgärder
+behöver vara anpassade för att möjliggöra att både befintliga och framtida
+transporter kan ske på ett säkert och hållbart sätt och utan konflikt med andra
+intressenter. Vidare önskar Södra att gång- och cykelvägar som ansluter till den nya
+stationen anpassas mot befintliga gång- och cykelvägar till Södras verksamheter så
+att personalen säkert ska kunna nyttja den nya stationen.
+
+Kommunens kommentarer
+Kommunen kommer inte gå vidare med det förslag till skollokalisering som i
+samrådet låg utmed väg 850. Att förtäta intill den nya stationen är av stor vikt för
+att skapa samhällsekonomi i stationen och bidra till Region Hallands resandekrav
+och omställningen till hållbart resande mer generellt. Däremot kommer
+omfattningen av verksamhetsmark begränsas sett gentemot samrådsförslaget,
+bland annat med hänsyn till påverkan på jordbruksmark, landskapsbild,
+trafikangöring och förutsättningar att hantera översvämningar till följd av
+stigande hav, skyfall och högvattenhändelser.
+
+98                                Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 205 -->
+
+Ny cirkulation bedöms i nuläget inte vara aktuell förrän på mycket lång sikt, vilket
+innebär att formerna för den dialogen får definieras i senare skede. Kommunen
+ser över anslutningar från samtliga riktningar inför utformningen av den nya
+stationen, där Södra är en stor arbetsgivare. Hållbar mobilitet, där cykelpendling
+till och från stationen är en viktig del, har hög prioritet i stationsplanen. Mer
+information kommer i samband med detaljplanen och järnvägsplanen för
+stationen.
+
+Värö-Stråvallavisionen
+
+Värö-Stråvallavisionen påpekar att det behövs ett torg vid det nya centrumet, vilket
+har påtalats genom dialogaktiviteter genom åren. Hellre en tydlig
+samlingspunkt/torg än ett långdraget stråk längs Varbergsvägen. De ser positivt på
+att binda ihop Väröbacka och Limabacka med en ny väg, på grönstråkens funktion
+för ekologi och rörelse. Föreningen tycker att industrimark ska planeras på behörigt
+avstånd från bostäder så att de inte riskerar att störa de boende eller sänka värden
+på fastigheter. Beträffande placering av skola ser man läget utmed Vallavägen som
+logistiskt utmanande. Förskola förordas vid befintlig skola, vid stationen eller i
+centrumstråket. Bra om skola/förskola kan undvikas vid befintlig fotbollsplan, men
+kan istället hamna bredvid. Viktigt att skola/förskola hamnar bredvid grönområden
+för att möjliggöra för aktiviteter utanför området. Föreningen undrar om föreslagen
+yta för vård, tandvård och äldreboende är tillräckligt stor för att kunna rymma alla
+funktioner. Vidare påpekar de att det är viktigt med cykelvägar på längre avstånd,
+som till exempel Stråvalla, Veddige, Skällåkra och Lingome för att underlätta för
+hållbara transporter samt att befintliga grönområden bevaras.
+
+Kommunens kommentarer
+Kommunen avser att skapa torgbildningar och stationsparker primärt i
+anslutning till stationsfunktionerna i Limabacka, vid den södra plattformen samt i
+Väröbacka centrum. Det är också här tillkommande handel och serviceutbud
+primärt etableras. ”Centrumstråket” ska ses som ett offentligt rum som samlar
+merparten av resande mellan ortens södra och norra delar. Här ska gaturummet
+skapa en känsla av sammanhang och signalera att trafikrytmen är lägre än på
+Varbergsvägen utanför tätorten. Detta är även ett stråk som gör det attraktivt att
+gå, cykla och åka kollektivt. Den väg som förbinder Furets väg med Lidenvägen
+avses att byggas ut innan 2035, vilket är en tidig etapp i stationssamhällets
+utbyggnad. Att koppla samman orten avser såväl vägar som grönstråk, där
+exempelvis grönstråk mellan Limabacka och Väröbackaskolan är avgörande för
+att skapa säkra skolvägar.
+
+Föreslagna områden för verksamhetsmark i de södra delarna av planområdet har
+justerats till granskningshandlingen, se kommunens svar till privatperson 14.
+Exakt läge för vårdboende kommer inte fastställas i planförslaget, då den typ av
+vårdboende som kan vara aktuellt i Väröbacka kan inrymmas inom
+användningarna ”Funktionsblandad bebyggelse” eller ”Bostäder”. Folktandvård
+och vårdcentral har aldrig varit aktuella i planförslaget, men även den sortens
+användning kommer kunna inrymmas inom ”Funktionsblandad bebyggelse” om
+regionen eller någon privat aktör väljer att etablera sig i området.
+
+Cykelinfrastruktur är kostsam att bygga ut och processerna är ofta långa. I
+nuläget utreds förutsättningarna för att bygga cykelbana mellan den nya
+stationen och Veddige. FÖP kommer inte definiera kommande
+cykelinfrastrukturstråk utanför planområdet. Området kommer, fullt utbyggt ha
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            99
+
+<!-- sida 206 -->
+
+tillgång till flera närparker, naturparker och naturområden som i olika grad
+kommer bli mer tillgängliga, belysta och i närparkerna med planteringar mm.
+Däremot kommer viss naturmark ianspråktas för bebyggelse, även om det är
+relativt lite. Nya grönstråk ska skapa spridningskorridorer och rekreationsstråk
+som stärker intrycket av grönska i orten.
+
+Väröbacka GIF
+
+Väröbacka GIF äger fastigheten Värö-Backa 5:22 och driver idrottsplatsen Värö IP i
+Limabacka. Platsen är en viktig mötesplats med fotbollsplaner, en modern
+klubblokal, omklädningsrum, förråd, samt en angränsande utedansbana.
+Anläggningen används för idrott, rekreation och evenemang för föreningar, skolor
+och företag och är centralt belägen nära befintliga och framtida bostadsområden.
+Föreningen anser att idrottsplatsen ska bevaras för framtida generationer och
+motsätter sig att området används för skolbyggnation. Trafiksituationen på
+Virkesvägen/Väröbruksvägen, som redan belastas av tung trafik till och från Värö
+Bruk och Bua, gör platsen olämplig för en skola.
+
+Kommunens kommentarer
+
+Kommunen har i granskningsförslaget till fördjupad översiktsplan valt att inte gå
+vidare med alternativet för skolplacering vid Väröbacka GIF.
+
+Åkraberg, Sunnvära och Backa markavvattnings-
+
+företag
+Åkraberg, Sunnvära och Backa markavvattningsföretag vill uppmärksamma
+kommunen om att den södra delen av planområdet avvattnas till deras
+markavvattningsföretag, där bäckarna är dimensionerade för maximalt 1 l/ha och
+sekund. Tidigare skulder, bland annat från Trafikverket, har lett till översvämningar
+vid kraftigt regn. Bara under det gångna året har flera dagars ihållande regn
+överstigit nivåer motsvarande ett 100-årsregn. Markavvattningsföretaget anser
+därför att det krävs fördröjningsdammar som kan hantera den här typen av flöden
+utan att vatten bräddas över i båtnadsområdet.
+
+Område V4 ligger delvis inom båtnadsområdet och anses olämpligt för exploatering.
+Slutligen ifrågasätts kommunens fortsatta planläggning av bördig åkermark, med
+hänvisning till gällande miljölagstiftning (3 kap 4 § Miljöbalken).
+
+Kommunens kommentarer
+Planeringsförutsättningar vid framtida exploatering, som exempelvis
+markavvattningsföretagens flödesbegränsningar, finns angivna i VA-utredningen
+till FÖP:en. Dessa utgör således utgångspunkter för såväl den översiktliga som för
+den detaljerade planeringen. När nya detaljplaner tas fram behöver mer
+detaljerade VA-utredningar göras med studier av lägsta golvhöjd men även
+utformning och nivåer i dagvattenanläggningar kommer att studeras för att
+kunna lösa dagvattenhantering, kraftiga nederbördsmängder och
+högvattenhändelser. Varje ny exploatering kommer att behöva hantera sitt
+dagvatten, bland annat genom att planlägga för tillräckliga ytor för fördröjning.
+Hänsyn behöver också tas till omkringliggande befintlig bebyggelse och befintliga
+dagvattensystem. Samtliga utbyggnadsområden i plankartan tar höjd för att
+kunna inrymma tillräckligt stora ytor för dagvattenhantering. Vid planläggning
+
+100                               Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 207 -->
+
+intill Trafikverkets anläggningar behöver man ta höjd för det samlade behovet av
+dagvattenhantering.
+Föreslagna områden för verksamhetsmark i de södra delarna av planområdet har
+justerats till granskningshandlingen. Område V3 har reducerats till att bara
+omfatta pågående planområde för timmerupplag och område V4 har tagits bort
+och föreslås fortsatt utgöra jordbruksmark. Förändringar i utbredning av
+verksamhetsområdena innebär att mindre jordbruksmark än tidigare tas i
+anspråk för bebyggelse.
+
+Avseende förslag till byggnation på jordbruksmark så har det, inom ramen för
+FÖP-arbetet, tagits fram en lokaliseringsutredning som noggrant går igenom de
+lagstyrda frågorna om brukningsvärd jordbruksmark, väsentligt samhällsintresse
+och alternativa placeringar. Sammantaget görs bedömningen att den mark som
+ianspråktas är motiverad, och att en samhällsutveckling i området är viktigt för
+en hållbar utveckling och ett samhällsekonomiskt perspektiv sett till investering i
+stationsläget. Samtidigt skyddar FÖP:en även stora jordbruksmarkarealer som
+areell näring och odlingsbygd i syfte att värna ekologiskt känsliga samt rationella
+och produktiva jordbruksarealer. Efter revidering av förslag till FÖP kommer
+några tidigare föreslagna utbyggnadsområden för verksamhets- och
+bostadsändamål att tas bort och istället skyddas som areell näring.
+
+Aktionsgruppen för Pendeltågstation i Väröbacka
+Aktionsgruppen för pendeltågstation i Väröbacka (APV) efterfrågar en tydlig strategi
+och tidplan för kommunens genomförande av den fördjupade översiktsplanen. De
+påpekar att byggandet av Varbergstunneln kompenserar för tidsåtgången för ett
+stopp i Väröbacka och därmed inte påverkar tidtabellen. APV ifrågasätter därför
+Trafikverkets bedömning att Väröbacka station är beroende av Västlänkens
+byggnation, det vill säga att Västlänken behöver komma till stånd innan Väröbacka
+station kan byggas för att inte påverka tidtabellen. Aktionsgruppens analyser visar
+också att ett förbigångspår vid Lekarekulle inte krävs för att trafikera en ny
+pendeltågstation i Väröbacka. Förbigångsspåret i Lekarekulle bör snarare ses som
+en del av framtida infrastrukturåtgärder kopplade till Fehmarn Bält-förbindelsens
+öppning 2029.
+
+Föreningen föreslår hur parkeringsplatser ska placeras vid den nya stationen och
+framhåller vikten av att det är nära mellan parkeringen och perronger samt att
+tågstationen uppfattas som rationell. De påpekar att utformningen av rondellen
+(KÅ1) är viktig och tror att kommunens förslag inte har tillräcklig kapacitet. De
+förfärar att föreslagen utformning får liknande problem som i Lassabacka
+cirkulationsplats och föreslår istället en utformning likt rondellen vid Spillepengen i
+Malmö samt flera detaljerade förbättringsåtgärder för KÅ1 som ska gynna
+anläggningskostnader och kapacitet. Föreningen föreslår att tågstationen
+samfinansieras, förslagsvis med EU:s finansieringsprogram, Infra Sweden,
+Naturvårdsverken, Klimatklivet eller Nordiska investeringsbanken.
+
+Föreningen påtalar vikten av att prioritera planering av vägar och broar samt att
+arbetet sker i samverkan mellan berörda parter. Hänsyn behöver även tas till tunga
+transporter och behov av eventuell utrymning. Föreningen anser även att
+utbyggnadstakten av bostäder i Väröbacka behöver snabbas på samt öka i
+omfattning per år. Föreningen hävdar vidare att kommunen behöver ställa tydligare
+krav på Ringhals angående planerad utbyggnad av kärnkraft och på Väröhalvön,
+respektive vindkraft i Kattegatt, eftersom detta får påverkan på behov av utbyggd
+infrastruktur och bostadsbestånd. Ett tips är att kommunen bör passa på att bygga
+
+Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            101
+
+<!-- sida 208 -->
+
+ut i lågkonjunktur för att minska kostnader. Föreningen hoppas och tror att
+tågstationen kan öppnas för trafik under 2026.
+Slutligen önskar APV en utredning om behovet av jordbruksmark kontra
+verksamhetsmark. En lämplig placering av verksamhetsmark kan istället vara väster
+om gaskraftverket. De tycker också att det är viktigt med tillgången till bad- och
+båtplatser, varför detta bör utredas.
+
+Kommunens kommentarer
+
+Kommunen noterar Aktionsgrupp för Pendeltågstation Väröbackas synpunkter.
+Frågor som handlar om utformning av stationsområdet och dess funktioner
+hanteras av Varbergs kommun tillsammans med Trafikverket med hjälp av
+Region Halland och Hallandstrafiken m.fl. Tidtabellsfrågor och andra frågor
+kring banans dragning hanteras inte av kommunen och kommer inte att
+kommenteras här.
+Angående genomförandet av stationen så arbetar kommunen aktivt och
+prioriterat med utvecklingen av Väröbacka, både med den fördjupade
+översiktsplanen, samt med detaljplan och järnvägsplan kopplade till stationens
+utbyggnad och relationen dem emellan. Målet är fortsatt driftsättning av
+stationen till 2030. I planeringen av placering av olika funktioner finns flera
+perspektiv att ta hänsyn till, där hållbar mobilitet och enkla byten mellan tåg,
+cykel, buss och bil alla formar förslaget. Exakta lägen för parkeringar kommer
+hanteras inom kommande detaljplan.
+
+Den cirkulation som föreslås i planförslaget kommer att byggas först på lång sikt,
+varför fler detaljer kring utformning inte kommer att utredas i nuläget.
+
+Kommunen tar tacksamt emot förslag på möjligheter till extern finansiering.
+Frågan arbetas med kontinuerligt inom kommunorganisationen.
+
+Planförslaget anger utbyggnad av 2000 bostäder fram till 2050 utifrån ett
+uppskattat marknadsdjup om 80 bostäder per år. Därtill finns utrymme för
+ytterligare 1000 bostäder inom planens utbyggnadsområden. Kommunen
+bedömer i dagsläget att detta är en rimlig utbyggnadstakt för Väröbacka utifrån
+flera olika perspektiv.
+Parallellt med planeringen av Väröbacka pågår planerings- och
+tillståndsprocesser för utveckling av såväl vindkraft som kärnkraft på och utanför
+Väröhalvön. Kommunen följer och deltar på olika sätt i nämnda processer och
+kommer vid behov att anpassa FÖP:en ifall det skulle uppstå förändrade
+planeringsförutsättningar.
+
+Omfattningen av verksamhetsmark har reducerats i granskningsförslaget till
+fördjupad översiktsplan till förmån för bibehållna jordbruksmarksarealer.
+Avseende rekreation föreslås en omfattande grönstruktur att bevaras och
+etableras i orten. Ett stråk sträcker sig mot havet med möjlighet till bad. Frågor
+som rör markanvändning utanför planområdet hanteras primärt av den
+kommunövergripande översiktsplanen.
+
+102                               Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
+
+<!-- sida 209 -->
+
+VARBERGS
+KOMMUN
+
+Telefon: Varberg direkt: 0340-880 00. E-post: varbergdirektQvarberg.se. Webbplats: varberg.se
+Postadress: Varbergs kommun, 432 80 Varberg. Besöksadress: Varberg direkt, Norra Vallgatan 14
+
+<!-- sida 210 -->
+
+Miljökonsekvensbeskrivning,
+granskningshandling
+
+Fördjupad översiktsplan Väröbacka, Varbergs kommun
+
+<!-- sida 211 -->
+
+OM RAPPORTEN:
+Titel: Miljökonsekvensbeskrivning, granskningshandling – Fördjupad översiktsplan Väröbacka, Varbergs
+kommun
+Version/datum: 2025-06-24
+
+Foton i rapporten: © Calluna AB där inget annat anges
+Omslag: Flygbild över del av planområdet. Foto: Varbergs kommun
+
+OM UPPDRAGET:
+
+På uppdrag av: Varbergs kommun
+Uppdragsgivarens kontaktperson: Frida Eriksson
+Utfört av: Calluna AB (organisationsnummer: 556575-0675)
+Adress huvudkontor: Linköpings slott, 582 28 Linköping
+Hemsida: www.calluna.se
+Telefon (växel): +46 13-12 25 75
+Projektledare: Anna K Eriksson (Calluna AB)
+Rapportförfattare: Anna K Eriksson, Amanda Andersson
+Kartproduktion: Calluna AB och Varbergs kommun
+
+Kvalitetssäkring: Anna Sandström
+Callunas interna projektkod: AKE0017b
+
+2
+
+<!-- sida 212 -->
+
+3
+Innehåll
+Icke teknisk sammanfattning                                 5
+1 Inledning                                                 9
+1.1 Bakgrund .............................................................................................................................................. 9
+2 Metod och bedömningsgrunder                              11
+2.1 strategisk miljöbedömning .................................................................................................................. 11
+2.2 Kunskapsunderlag .............................................................................................................................. 12
+2.3 Metod för bedömning .......................................................................................................................... 12
+3 Avgränsningar                                            12
+3.1 Nivåavgränsning ................................................................................................................................. 13
+3.2 Geografisk avgränsning ...................................................................................................................... 13
+3.3 Tidsmässig avgränsning ..................................................................................................................... 13
+3.4 Tematisk avgränsning ........................................................................................................................ 13
+3.5 Avgränsning av miljömål ..................................................................................................................... 14
+4 Planförslag och alternativredovisning                    16
+4.1 Huvudalternativ: Planförslaget ............................................................................................................ 16
+4.2 Nollalternativ ....................................................................................................................................... 19
+4.3 Avfärdade alternativ ............................................................................................................................ 21
+5 Planområdets förutsättningar                             22
+5.1 Regional planering.............................................................................................................................. 22
+5.2 Kommunal planering ........................................................................................................................... 23
+5.3 Regionala och kommunala ställningstaganden .................................................................................. 25
+5.4 Riksintressen och områdesskydd ....................................................................................................... 26
+5.5 Miljökvalitetsnormer för yt- och grundvatten ....................................................................................... 29
+6 Miljöbedömning                                           30
+6.1 Landskapsbild .................................................................................................................................... 30
+6.2 Kulturmiljö ........................................................................................................................................... 37
+6.3 Naturmiljö och biologisk mångfald ...................................................................................................... 48
+6.4 Friluftsliv och rekreation ...................................................................................................................... 59
+6.5 Vattenförhållanden ............................................................................................................................. 62
+6.6 Markförhållanden/Ras och skred, potentiellt förorenad mark ............................................................. 72
+6.7 Hälsa och risker/Miljöfarliga verksamheter och transporter ................................................................ 75
+6.8 Hälsa och risker/buller ........................................................................................................................ 79
+6.9 Klimatanpassning ............................................................................................................................... 82
+6.10 Klimatpåverkan ................................................................................................................................... 87
+7 Påverkan på miljömål och annan miljöhänsyn               88
+7.1 Miljöbalken ......................................................................................................................................... 88
+7.2 Relevanta miljömål ............................................................................................................................. 89
+7.3 Påverkan på miljökvalitetsnormer ....................................................................................................... 91
+7.4 Samlad bedömning av övriga lagstadgade skydd .............................................................................. 92
+7.5 Hushållning med Mark- och vattenresurser ........................................................................................ 94
+7.6 Ekosystemtjänster .............................................................................................................................. 96
+7.7 Uppföljning av planen ......................................................................................................................... 97
+8 Bedömning av Kumulativa effekter                         98
+9 Samlad bedömning av miljöpåverkan                        99
+
+<!-- sida 213 -->
+
+Referenser                                                103
+Bilagor
+
+Bilaga 1 Konsekvensutlåtande Kulturmiljö
+
+Bilaga 2 Naturvärdesinventering, NVI Nygård, Värö-Backa 8:4, MiNa natur AB 2019.
+
+Bilaga 3 Naturvärdesinventering (NVI) - Vid Väröbacka, Varbergs kommun, Calluna AB 2020.
+
+Bilaga 4 Naturvärdesinventering (NVI) - Vid södra delen av FÖP Väröbacka, Varbergs kommun, Calluna AB 2023.
+
+Bilaga 5 VA-utredning inför fördjupad översiktsplan i Väröbacka, Varbergs kommun. Ramboll Sweden
+AB, 2023.
+
+Bilaga 6 Översiktlig geoteknisk utredning för fördjupad översiktsplan för Väröbacka/Limabacka, Sweco
+Civil AB & Halmstad Geoteknik, 2023.
+Bilaga 7 Riskutredning FÖP Väröbacka, Norconsult AB, 2023.
+
+Bilaga 8 Trafikbullerutredning Väröbacka, Efterklang, 2023.
+
+Bilaga 9 Lokaliseringsutredning, jordbruksmark - FÖP Väröbacka, Radar, 2023.
+
+Bilaga 10 Ekosystemtjänstanalys, Calluna, 2022.
+
+4
+
+<!-- sida 214 -->
+
+5
+Icke teknisk sammanfattning
+Varbergs kommun planerar, tillsammans med Trafikverket och Region Halland, för en ny
+tågstation i Värö som ligger mellan Varberg och Kungsbacka, se Figur 1. Ett nytt stopp på
+Västkustbanan skapas och en ökad regional tillgänglighet och förändrade förutsättningar för
+utveckling i kommunens norra delar. Det möjliggör för en stor och omfattande
+samhällsutveckling i Väröbacka och omkringliggande orter, med nya bostäder, arbetsplatser
+och service i stationsnära lägen.
+Den fördjupade översiktsplanen för norra kusten som antogs 2017 (Varbergs kommun,
+2017), omfattar hela kuststräckan från Tångaberg i söder till Varbergs kommungräns i norr.
+När planen togs fram fanns Värö station inte med i den statliga infrastrukturplaneringen.
+Därför behövs en fördjupad översiktsplan över Väröbacka som ska komplettera den gällande
+planen och ge en mer detaljerad vägledning för samhällets utveckling. Den nya planen ska
+också omfatta det nya stationsläget.
+Vid undersökningen enligt 6 kap miljöbalken (MB) har miljöaspekterna landskapsbild,
+kulturmiljö, naturmiljö och biologisk mångfald, vattenförhållanden, markförhållanden
+kopplade till ras och skred och potentiell förorenad mark, friluftsliv och rekreation, hälsa- och
+risker/strålning, Seveso, transporter och farligt gods, hälsa och risker/ buller,
+klimatanpassning och klimatpåverkan bedömts riskera få betydande miljöpåverkan, vilket
+utgör motiv för upprättande av denna miljökonsekvensbeskrivning.
+Miljökonsekvensbeskrivningen ska enligt 6 kap 11 § MB redovisa, beskriva och bedöma
+rimliga alternativ till planförslaget.
+De alternativ som kommer att bedömas i denna MKB är planförslaget och ett så kallat
+nollalternativ. Nollalternativet utgörs av FÖP Norra kusten (Varbergs kommun, 2017) med
+efterföljande beslut.
+Förslaget till program är idag inte helt förenligt med översiktsplanen antagen 2010 (Varbergs
+kommun, 2010-06-15). En ny översiktsplan håller på att tas fram och planeras att antas
+senast under hösten 2026. Inom området för FÖP Väröbacka finns i dagsläget 14 gällande
+detaljplaner.
+NLaenddasnk faöpljsebr ieldn kort sammanfattning av studerade miljöaspekter:
+Väröbacka och Limabacka ligger mitt på slätten vilket gör att en utbyggnad av station och nya
+bostäder i Väröbacka kommer att förändra upplevelsen av landskapet. Utblickarna mot Värö
+kyrka, gårdarna i Backa by och mot Bua är viktiga för upplevelsen av landskapet och ger
+lSaanmdmskaanpteatg deet sbse kdaörmask tkäorn. sDeek vgeanmselarn vaä gaavr pnlaa,n sftöernsmlaguerta rb loi cshto breat-e msmåtatrlikgetr n keogmatmivear f ötirl l stor del
+laatnt dbsekvaaprsabsi lfdör att upplevelsen av det äldre jordbrukslandskapet ska finnas kvar.
+Kulturmiljö en.
+Exploateringen i planområdet kan till viss del förenas med kulturmiljövärdena men del inslag
+påverkar dock de kulturhistoriska karaktärsdragen. Kyrkbyn bevaras enligt planförslaget
+men siktlinjen/vyn mot kyrkan kommer att påverkas även om det genom god planering går
+att bevara några av utblickarna mot kyrkan från väg 845 genom den nya bebyggelsen.
+Gårdsmiljön vid Backa by komSmamerm aattn ptaågveetr kbaesd önmegsa ktoivnts aevk vpelnasnefrönras laavg eptl agnefnöormsla agtet td peån
+hkuislttourrimskilajö lnä sbblai rsmheåt-emn åi tltalnigdts nkeagpaetti vföar.sämras genom att bebyggelsen tar odlingsmarken
+söder om gårdarna i anspråk.
+
+<!-- sida 215 -->
+
+Naturmiljö
+
+Det finns närliggande naturområden med höga-mycket höga naturvärden. Den marken som
+planeras för bebyggelse undviker helt områden med höga naturvärden vilket är positivt
+liksom att planeringen har höga ambitioner att säkra och utveckla grön och blå infrastruktur.
+Dock minskar de öppna jordbrukslandskapen och en utbyggnad leder till ökade störningar
+med mer trafik, buller, besök i grönområden, ljusföroreningar vilket även kommer medföra
+negativa effekter. Det kommer att behövas ytterligare inventeringar osmchå e-mn åbtetdliögma nneingga taivv ah ur
+kskoyndsedkavdeen aserrte frö rp nåvaeturkrmasi lij öfl eorcah adve nk obmiomloganisdkea dmeåtanlgjpfalaldneenrna. Sammantaget bedöms
+planförslaget med anpassningar och skyddsåtgärder kunna medföra
+Friluftsliv                          .
+
+Hela kommunen har sommartid ett högt besökstryck. Särskild hänsyn behöver därför tas till
+en hållbar utveckling av friluftslivet samt aktiviteter och anläggningar kopplade till detta.
+Frågor att beakta är slitage på känsliga naturområden, värna befintliga friluftsområden och
+förstärka gång- och cykelstråk. Infrastrukturen bör utformas så att de inte utgör barriärer för
+friluftslivet. Enligt planförslaget bevaras och förstärks skogsområden och grönytor och detta
+är positivt inte bara för natur utan också för rekreation, friluftslivp oocshit imvaä nknonisskeokrvse nhsäelsr ap. å
+Tomätroårdtsentsä vraä rndaetnu rfö bri dfrrialurf mtsleivd oflcehr are ekkroesaytisotenm. tjänster och har visat sig ha en positiv effekt på
+människors hälsa. Planförslaget bedöms sammantaget kunna ge
+Vattenförhållanden
+
+Hur planförslaget påverkar vattenförekomsterna är beroende av skyddsåtgärder för
+dagvattenhantering, markanvändning, farligt gods, översvämningar, erosion etc.
+VA-utredningen visar på att föroreningsbelastningen ökar jämfört med befintlig situation och
+att rening är därför nödvändig för att inte påverka vattenförekomsterna negativt. En väl
+planerad hantering av dagvatten och skyfall i kombination med en minskad
+näringsbelastning från jordbruksmark bidrar tilluppfyllandet av MKN. Tydlig vägledning för
+hur dagvattenhantering, skyfall och översvämningar ska hanteras i planläggningen bör ges
+och yta avsättas i planen. Planförslaget bedöms kunna bidra till att miljökvalitetsnormerna
+ipnonseithivåall sk ooncshe aktvte vnasettre fnökrv vaaltitteetnemni fljöör.b ättras i vattenförekomsterna på sikt. Detta bidrar till
+att nå miljömålen för vatten. Planförslaget bedöms kunna ge förutsättningar för att ge
+Markförhållanden/ras
+
+Planförslaget bidrar till att fler förorenade områden kommer att behöva efterbehandlas eller
+undersökas ytterligare. Konsekvensens bedöms därför bli positiv avseende förorenad mark.
+En generell bedömning är att det ej förekommer områden som kan komma att kräva
+omfattande åtgärder med avseende på stabilitetsproblem med undantag med området som
+angränsar mot Viskan.
+
+Om det i kkoonmsemkvaenndsee nd efötarl mjpalarnkemri oljcöh s oemxp nloeautterrailn. g ar utförs geotekniska och hydrogeologiska
+undersökningar för att utreda risken för ras och skred i så att lämpliga åtgärder kan vidtas
+bHeädlsöam osc h risker/buller
+
+Planområdet kommer att påverkas av buller från framför allt järnväg och större lokala vägar,
+Varbergsvägen och Industrivägen. I beräkningarna finns också motorvägarna E6 och E20
+men de är inte de dominerande källorna till buller från väg. Då järnvägens buller påverkar ett
+stort område ställs en del krav på utformningen av Väröbacka. Eventuella förändringar i
+järnvägstrafiken som utbyggnad av spår kan kräva bulleråtgärder för befintliga bostäder.
+Med noggrann planering av utformning avn oemutrråadl ekto gnösresk vi ebnusl lfeörru btruelldenr.i ngen (Efterklang ,
+2023) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
+innehålls. Planförslaget bedöms därför ha
+
+6
+
+<!-- sida 216 -->
+
+7
+Klimatanpassning
+Planområdet riskerar att vid skyfall drabbas av översvämningar i de lågpunkter och lågstråk
+som finns i och i områdets närhet. Stora delar av planområdet kommer också påverkas av
+höjda havsnivåer vilket gör problematiken mer komplex. Planförslaget bedöms ha en
+genomtänkt höjdsättning och markanvändning och det finns förutsättningar att minimera
+risken översvämningar. De kumulativa effekterna av havsnivåhöjningen och extremregn bör
+utredas. Klimatförändringarna kan också påverka risken för ras och skred.
+Planförslaget till granskning har minskat ianspråktagandet av jordbruksmark i södra delen av
+planområdet vilket är positivt för skyfallshanteringen och för effekterna av en
+havsnivåhöjning.
+Det finns goda
+fIö prluatnsfäötrtsnlianggeatr f ifnörn sa tetn p mlaendervientgeennh ei tV oäcröhb eanc kstar aktaeng si kker iknlgim haatnatnepriansgsa atv o hcahv gsen pivoåshitöivjnai ngen
+kbolannsdek avnennaset rg. enom placering av verksamheter, bebyggelse och höjdsättning.
+Klimatpåverkan
+Att bygga och underhålla transportinfrastruktur är ett energiintensivt arbete som generar
+växthusgasutsläpp. Planförslaget syftar även till en förväntad samhällsutveckling som
+innebär att ny bebyggelse byggs vilket även det generar växthusgasutsläpp. Samtidigt
+innebär en etablering av den nya stationen att människor ges möjligheten att resa med tåg
+direkt från Väröbacka. Det här kommer begränsa antalet resor som görs med bil och därmed
+även de växthusPglaasnuftösrlsälpapg esto bme ddöem gse bniedrraar .t iGll eantot mm iantstk vai dbtilab åetrgoäernddeert äprå dlåent gm söikjlti gvti laktett kan
+bbiedgrraä ntislla p does ivtiävxat hkuosngsaeskuvetsnlsäeprp f ösro mkli umpaptsptååvre vrikda nb.yggnation och underhåll av järnväg, vägar
+och byggnader.
+Jordbruksmark
+Enligt 3 kap 4 § miljöbalken är jordbruksnäringen av nationell betydelse. Inom föreslaget
+planområde finns jordbruksmark som kommunen vill ta ur bruk till annan markanvändning.
+Det södra alternativet anses vara det bästa alternativet sett till 3 kap 4 § MB, motiverat
+utifrån grunden om bostadsförsörjningsbehovet och arbetsplatser nära varandra.
+Exploateringen av jordbruksmark bedöms bidra med värden som sammantaget bidrar till en
+långsiktigt hållbar utveckling. Motiveringen innebär att dLeotk faölriseelirginggesrp ertöt vvnäisnegnetnli ggöt r
+sbaemdöhmälnlsiningterne sastet pfölarn pelraande rmaadr mkaanrvkäanndvnäinndgn siknugl lie V väarröab macoktaiv, seoramd ienntleig ptå 3 e ktta pti l4lf r§e MdsBs täävlelann id e
+asäntdtr kaa lnä gtiellng iondoomse psl auntaonmförår dFeÖt.P-områdets avgränsning.
+Kumulativa effekter
+Kumulativa effekter kan uppstå genom exploatering i bl.a. Bua som kan ge konsekvenser för
+naturmiljö, upplevelsen av landskapet och friluftslivet. Det kan också ge en ökad belastning
+på vattenmiljöerna och en samordning av hanteringen av dagvatten, skyfall och en höjning av
+havsnivån behöver ske. FÖP Väröbacka har vägt in de kumulativa effekterna och ger
+möjligheter till en förbättrad samordnad dagvatten- och skyfallshantering. Planförslaget till
+granskning har minskat ianspråktagandet av jordbruksmark i södra delen av planområdet
+vilket är positivt för den kumulativa effekten av skyfall och en havsnivåhöjning. Detta ger en
+bättre möjlighet till klimatanpassning.
+Både FÖP Väröbacka och planerna för Bua bygger på en förtätning av befintlig bebyggelsen
+och i strukturer som redan finns idag. Stationen i Väröbacka kommer ge positiva kumulativa
+effekter på kringliggande områden även utanför planområdet och ger förbättrade
+pendlingsmöjligheter och en bättre servicefunktion.
+
+<!-- sida 217 -->
+
+Påverkan på miljömål
+
+Av elva utvärderande nationella miljömål bedöms ett rikt jordbrukslandskap och ett rikt växt
+och djurliv motverkas. Planförslaget bedöms kunna medverka till att uppnå sju av miljömålen
+och för två miljömål är planförslaget neutralt. Nollalternativet motverkar ett rikt växt och
+dRjiukrsliinvt,r mesesdevne rokcahr stiklyl fdedma dmei oljömmråådl eonc h är neutralt för resten.
+
+I fortsatt planering är det påverkan på Natura 2000-området Båtafjorden (SE0510176) och
+riksintresset Klosterfjorden-Getterön (Riks-ID 13009) som behöver beaktas. Här finns det
+viss risk att påverkan från ökad störning och minskade öppna jordbruksmarker av betydelse
+för fågellivets samt klimateffekter kan medföra betydande miljöpåverkan. Kumulativa
+effekter från samhällsplaneringen i bl.a. Bua bör beaktas. Behovet av en tillståndsprövning
+fSölru tksoamtsm ande detaljplaner kan i detta skede inte uteslutas.
+
+Planförslaget har en positiv påverkan på flera miljömål men med en stor exploatering av
+jordbrukslandskap är det svårt att kunna bidra positivt till de nationella miljömålen som rör
+jordbruksmark, naturmiljö och klimatpåverkan.
+FÖP Väröbacka bedöms vara ett bättre underlag för kommande planering än nu gällande FÖP
+norra kusten som är nollalternativ. Med de inarbetade anpassningarna och föreslagna
+åtgärderna bedöms FÖP Väröbacka bättre kunna bidra till ett hållbarare samhälle.
+
+8
+
+<!-- sida 218 -->
+
+9
+1    Inledning
+1.1  BAKGRUND
+Varbergs kommun planerar, tillsammans med Trafikverket och Region Halland, för en ny
+tågstation i Värö som ligger mellan Varberg och Kungsbacka, se Figur 1. Ett nytt stopp på
+Västkustbanan skapas som medför en ökad regional tillgänglighet och förändrade
+förutsättningar för utveckling i kommunens norra delar. Det möjliggör för en stor och
+omfattande samhällsutveckling i Väröbacka och omkringliggande orter, med nya bostäder,
+arbetsplatser och service i stationsnära lägen.
+Den fördjupade översiktsplanen för Väröbacka kommer att bli ett viktigt strategiskt
+dokument som under lång tid ska styra samhällsutvecklingen i området mot långsiktiga och
+hållbara mål samt vara vägledande för konkreta beslut om byggande och olika
+tillståndsärenden.
+Utvecklingen av Väröbacka har hög prioritet inom kommunen, då det skapar förutsättningar
+för kommunen att växa på ett hållbart sätt. Vid utveckling av en ny tågstation och den
+omfattande samhällsutveckling av Väröbacka som bedöms kunna följas av detta, finns det
+goda förutsättningar för och höga ambitioner om att forma ett modernt och hållbart
+stationssamhälle som präglas av nytänkande lösningar, framför allt med fokus på hållbar
+mobilitet.
+Den fördjupade översiktsplanen ska ge en bild av hur samhället som helhet ska utvecklas och
+lägga grunden för den långsiktiga utvecklingen av mark- och vattenanvändningen. Den nya
+planen ska komplettera gällande plan för norra kusten och ge en mer detaljerad vägledning
+för Väröbackas utveckling och även omfatta det nya stationsläget.
+I gällande fördjupad översiktsplan för området, FÖP Norra kusten (Varbergs kommun, 2017),
+anges ett stationsläge centralt i Väröbacka, och föreslagen samhällsutveckling har till stor del
+anpassats utifrån detta. Under senare år har det visat sig att föreslaget stationsläge inte går
+att genomföra, med anledning av kurvan på järnvägen. Efter en tids utredningsarbete har
+kommunen därför, i samråd med Trafikverket och Regionen, beslutat att Värö station i stället
+ska planeras till de södra delarna av Väröbacka. I mars 2021 tecknade Trafikverket, Region
+Halland och Varbergs kommun en avsiktsförklaring som innebär att parterna är överens om
+att genomföra projektet med station och stationsområde tillsammans samt att Varbergs
+kommun kommer att finansiera projektet. Den nu gällande fördjupade översiktsplanen Norra
+kusten justeras i delar genom denna plan.
+Intentionen är att den nya stationen ska tas i bruk och trafikeras snarast efter att
+Varbergstunneln, Västlänken och förbigångsspår Lekarekulle är färdigställda, vilket förväntas
+ske omkring år 2030. Den nya stationen blir navet för en hållbar samhällsutveckling i
+kommunens norra delar.
+Framtagande av nya detaljplaner och utbyggnad enligt FÖP Väröbacka kommer att ske i olika
+etapper och planeras att pågå under ett flertal år.
+
+<!-- sida 219 -->
+
+Figur 1. Översiktskarta med föreslaget planområde för fördjupad översiktsplan (FÖP) Väröbacka.
+
+FÖP Väröbacka ska ses som en viljeinriktning som visar hur kommunen planerar för att
+samhället ska växa med en tågstation, nya bostäder, verksamheter och service samt platser
+för lek och möten.
+
+Planen ska ge en bild av hur samhället som helhet ska utvecklas. Det handlar till exempel om
+bebyggelse, vägar, och hur försörjningen av vatten och avlopp ska se ut, men också om
+platser för service, natur och rekreation.
+Samråd om förslag till ny FÖP Väröbacka pågick under perioden 27 november 2023 till 31
+mars 2024.
+
+10
+
+<!-- sida 220 -->
+
+11
+Planen har därefter bearbetats med utgångpunkt från inkomna synpunkter inför granskning.
+Nästa steg i processen är att ställa ut planförslaget för granskning. Granskningen är planerad
+till efter sommaren 2025. Målet är att ha en fastställd plan under kvartal 2 2026.
+2    Metod  och bedömningsgrunder
+2.1  STRATEGISK MILJÖBEDÖMNING
+Enligt 6 kap 3 § MB ska kommunen göra en strategisk miljöbedömning när en detaljplan eller
+en fördjupade översiktsplanen om genomförandet av planen, eller ändringen kan antas
+medföra betydande miljöpåverkan. I Figur 2 visas processen för strategisk miljöbedömning.
+Varbergs kommun gör den sammanvägda bedömningen att den fördjupade översiktsplanen
+medför en sådan betydande miljöpåverkan som avses i 6 kap 3 § MB.
+En undersökning har genomförts för att identifiera de miljöaspekter som skulle kunna ge en
+betydande miljöpåverkan. Ett avgränsningssamråd har också hållits med länsstyrelsen under
+december 2022 – januari 2023 för att få deras yttrande om miljökonsekvensbeskrivningens
+avgränsning.
+Syftet med att bedöma miljökonsekvenserna av en plan är att möjliggöra en integrering av
+miljöaspekter i planen, så att en hållbar utveckling främjas. Miljöbedömningen ska således
+fungera som stöd för, och ge underlag till, arbetet med att hitta en lämplig utformning av
+planen. Den ska främja ökad miljöhänsyn och göra det möjligt att redan i planarbetet väga
+miljökonsekvenser mot andra samhällsintressen.
+Figur 2. Figuren visar den den process som en strategisk miljöbedömning innebär och hur plan och
+miljöbedömning hakar i varandra för att främja hållbar utveckling. Bild: Naturvårdsverket.
+
+<!-- sida 221 -->
+
+2.2 . KUNSKAPSUNDERLAG
+
+De kunskapsunderlag som tagits fram i samband med planens framtagande och som ligger till
+grund för de miljöbedömningar som görs i denna MKB refereras till under respektive
+miljöaspekt.
+
+2.3 METOD FÖR BEDÖMNING
+
+För att göra en miljöbedömning strukturerat och så objektivt som möjligt har nedanstående
+miljökonsekvensskala.
+
+Påverkan är det fysiska ingrepp som genomförandet av den fördjupade översiktsplanen
+medför. Effekten definieras som den störning i miljön som uppstår av den fördjupade
+översiktsplanens fysiska påverkan, och den kan vara positiv eller negativ. Den negativa
+effekten kan vara betydande, måttlig eller liten. Om ingen effekt uppstår blir det inga
+konsekvenser.
+
+I första hand används de kriterier som finns i 5 $ i miljöbedömningsförordningen som ska
+användas i undersökningen för att identifiera omständigheter som talar för eller emot en
+betydande miljöpåverkan.
+
+Bedömningen av miljökonsekvenser sker genom att väga samman effekten av påverkan med
+de olika miljöaspekternas värde i en matris, se Tabell 1.
+
+Bedömning av värde sker utifrån objektiva värdegrunder som är specifika för respektive
+miljöaspekt. Värdeskalan är indelad i högt, måttligt eller lågt värde.
+
+Tabell 1. Miljökonsekvensskala. Bedömningen utgår ifrån intressets värde och effektens omfattning.
+
+Intressets värde Effekt, ingreppets/störningens omfattning
+Stor negativ effekt | Måttlig negativ Liten negativ Neutral effekt | Positiv effekt
+effekt
+Högt värde Måttlig negativ Neutral Positiv
+
+konsekvens konsekvens konsekvens
+
+Måttligt värde Liten negativ Neutral Positiv
+konsekvens konsekvens konsekvens konsekvens
+
+Lågt värde Liten negativ Liten negativ Neutral Positiv
+konsekvens konsekvens konsekvens konsekvens
+
+Konsekvenserna av alternativen bedöms och redovisas i text för respektive miljöaspekt. I
+slutet av MKB:n ges en sammanfattande bedömning av konsekvenserna enligt skalan ovan.
+Som stöd för bedömningen av miljökonsekvenserna används relevanta miljömål,
+miljökvalitetsnormer, riktvärden och direkta lagkrav såsom områdesskydd och skyddade
+arter.
+
+3 Avgränsningar
+
+Avgränsningen är baserad på kunskap om vilka betydande värden som finns inom
+planområdet gällande natur- och kulturmiljöer, samt vilka hälso- och säkerhetsaspekter som
+kan påverkas av planeringen. Avgränsning MKB motiveras under Avsnitt 4 Miljöbedömning.
+
+12
+
+<!-- sida 222 -->
+
+13
+3.1  NIVÅAVGRÄNSNING
+Nivåavgränsningen styrs av i vilket skede planeringen befinner sig i. En viktig fråga i
+nivåavgränsningen är bland annat hur den fördjupade översiktsplanen förhåller sig till andra
+relevanta planer och program, till exempel Varbergs översiktsplan, fördjupade
+översiktsplaner och kommande detaljplaner. Med tanke på att den fördjupade
+översiktsplanen som ska miljöbedömmas omfattar ett mycket stort område och är på en
+övergripande strukturell nivå har det bedömts lämpligt att i MKB:n fokusera på de
+övergripande miljökonsekvenser som planförslaget ger upphov till. Frågor som är
+systemövergripande och som inte kan hanteras i ett detaljplaneskede samt frågor där det
+finns strategiska vägval ges mer fokus i detta skede medan andra, mer lokala konsekvenser
+behöver fördjupas i kommande detaljplaner. Nivån för beskrivning av miljöförhållanden och
+bedömning av påverkan varierar även mellan olika miljöaspekter beroende på hur rådande
+kunskapsläge ser ut. Där mer kunskapsunderlag och utredningar tagits fram är
+beskrivningarna och bedömningarna mer djupgående.
+3.2  GEOGRAFISK AVGRÄNSNING
+Den rumsliga avgränsningen av MKB:n utgörs av planområdet. För vissa miljöaspekter har
+dock den rumsliga avgränsningen utvidgats för att ta hänsyn till ett relevant influensområde.
+3.3  TIDSMÄSSIG AVGRÄNSNING
+MKB:n avser att beskriva miljöeffekter som kan uppstå vid ett genomförande av den
+fördjupade översiktsplanen och efterföljande detaljplaner som möjliggör att kvartersmark
+och allmänna platser blir fullt utbyggda.
+Mål-år för den fördjupade översiktsplanen är år 2050. Horisontår för bedömning av
+miljöeffekter föreslås därför till år 2050 då effekter och konsekvenser kan ha förväntats slå
+igenom.
+I verkligheten pågår omvandlingen av området successivt och förutsättningarna kan ändras.
+Antagandet har gjorts för att på ett tydligt sätt kunna jämföra planförslaget och
+nollalternativet vid en tidpunkt då området är helt utbyggt. De vägtrafiksimuleringar som
+ligger till grund för bland annat beräkning av trafikflöden och vägbuller avser år 2050 och
+2040. Utredningen vad gäller vattenberäkningar och övrigt buller använder även den år 2050
+och 2040 som horisontår. Av praktiska skäl likställs dessa med horisontår 2050.
+Miljöpåverkan som kan uppstå under byggtiden hanteras inte i aktuell MKB.
+3.4  TEMATISK AVGRÄNSNING
+Varbergs kommun gjorde inför samrådsskedet en undersökning om betydande
+miljöpåverkan för den fördjupade översiktsplanen. Undersökningen identifierade att det
+finns risk för betydande miljöpåverkan och att en strategisk miljöbedömning behövde göras
+för att ge bra förutsättningar och kunskap inför detaljplaneringen. Kommunen har därför
+bedömt att genomförandet av den fördjupade översiktsplanen innebär en betydande
+miljöpåverkan.
+Ett möte mellan länsstyrelsen och kommunen genomfördes den 21 december 2022 med
+syftet att diskutera kommunens förslag till avgränsning av MKB:n. Ett skriftligt
+samrådsunderlag för avgränsningssamråd skickades till länsstyrelsen 5 januari 2023.
+Bedömningen är att följande frågor blir viktiga att studera i samband med den strategiska
+miljöbedömningen för FÖP Väröbacka:
+•  Landskapsbild
+•  Kulturmiljö
+
+<!-- sida 223 -->
+
+•  Naturmiljö och biologisk mångfald
+
+•  Friluftsliv och rekreation
+Hälsa
+•  Transporter
+•      och risker – miljöfarliga verksamheter
+•  Markförhållanden
+
+•  Vattenförhållanden
+•  Hälsa och risker - Klimatanpassning
+
+•  Hushållning med naturresurser – jordbruksmark
+3.5  AVGRÄNSNING AV MILJÖMÅL
+
+FN:s Globala miljömål
+
+Agenda 2030 och de 17 globala målen togs fram av ledare för hela världen och beslutades år
+2015 av Förenta nationerna (FN) Figur 3. Målen ska hjälpa oss till en social, ekonomisk och
+ekologisk hållbar utveckling. Agenda 2030 är ingen lag, utan ett dokument som länderna
+frivilligt har skrivit under. Ansvaret för att nå målen till år 2030 ligger på regeringar i alla FN-
+länder.
+
+Figur 3. FNs Globala mål. Illustration: (globalamalen.se, u.å.).
+
+FÖP Väröbacka berör framför allt mål 11 med dess delmål, Hållbara städer och samhällen.
+Planen berör även mål 13, 14 och 15.
+Nationella miljökvalitetsmål
+
+Riksdagen har antagit 16 nationella miljökvalitetsmål Figur 4 som beskriver de egenskaper
+som vår natur- och kulturmiljö måste ha för att samhällsutvecklingen ska vara ekologiskt
+hållbar (sverigesmiljomal.se, u.å.).
+
+14
+
+<!-- sida 224 -->
+
+15
+Figur 4. Sveriges 16 miljömål. Illustration: sverigesmiljomal.se (u.å.).
+De nationella miljömål som främst kan påverkas i den fördjupade översiktsplanen Väröbacka
+
+bedöms vara:
+
+Begränsad klimatpåverkan
+
+Frisk luft
+
+Giftfri miljö
+
+Ingen övergödning
+
+Levande sjöar och vattendrag
+
+Grundvatten av god kvalitet
+
+Hav i balans samt levande kust och skärgård
+
+Myllrande våtmarker
+
+Ett rikt odlingslandskap
+
+God bebyggd miljö
+Ett rikt växt- och djurliv
+Kommunala miljömål
+År 2014 antog Varbergs kommun ”Hållbarhetsmål 2017–2025 – Inriktningar för
+hållbarhetsarbetet i Varbergs kommun” (Varbergs kommun, 2014). De innebär i korthet att:
+”Tillsammans ska vi skapa ett uthålligt samhälle och göra Varberg till ett föredöme och
+inspirationskälla i hållbarhetsarbetet. Varbergs kommun ska ge förutsättningar för alla att
+Varberg visar vägen
+agera hållbart och ansvarsfullt genom att göra det lätt att göra rätt.”
+Varbergs hållbarhetsarbete ska genomsyras av ambitionen att och
+fokuseras inom följande områden:
+
+<!-- sida 225 -->
+
+Livskraftiga ekosystem
+
+”Naturen med sin fantastiska mångfald och myller av liv ska värnas för sitt egenvärde och för
+människans skull. Varberg ska lång-siktigt bevara och stärka de lokala ekosystemen och
+vHeårlklbaa frö rre estutr hsåalnlbvaärntd nnyinttgja nde av ekosystemtjänster globalt.”
+
+”I Varberg ska vi leva resurssnålt och sträva efter slutna kretslopp. Resursanvändning ska ske
+mVäeldm måeinndstea smamöjhliäglal em iljöpåverkan i ett livscykelperspektiv.”
+
+”I Varberg ska ges förutsättningar för människor att må bra. Vi tar ett gemensamt ansvar för
+att vår välfärd och samhällsutveckling inte sker på bekostnad av andra människor eller
+miljön.”
+4    Planförslag och  alternativredovisning
+
+De alternativ som huvudsakligen kommer att bedömas är Nollalternativet och Planförslaget
+som beskrivs i kapitel 4.1 och 4.2. Miljökonsekvensbeskrivningen ska enligt 6 kap 11 § MB
+redovisa, beskriva och bedöma rimliga alternativ till planförslaget. I detta fall bedöms
+nollalternativet vara att planering fortskrider enligt de nu fastställda planer som finns inom
+planområdet samt efterföljande beslut om nytt stationsläge.
+4.1  HUVUDALTERNATIV: PLANFÖRSLAGET
+Utvecklingsinriktning
+
+Varberg växer, och prognoser visar på en fortsatt positiv befolkningsutveckling under lång tid
+framöver. Med tiden blir Varberg dessutom en alltmer integrerad del i den starkt växande
+Göteborgsregionen, och en viktig del av både kommunens och regionens tillväxt bedöms
+komma att ske i stråket Varberg-Göteborg.
+De nordvästra delarna av Varbergs kommun är ett av de mest expansiva i hela Hallands län,
+med stor utvecklingspotential för verksamhetsutveckling och tillkomst av nya bostäder. Här
+ligger två av Hallands största industrianläggningar i form av Ringhals kärnkraftverk och
+Södra, vilka är viktiga arbetsgivare som kan bidra till nya företagsetableringar på Väröhalvön.
+
+Den redan idag goda infrastrukturen i området, tillsammans med kommande satsningar på
+Västkustbanan, gynnar utvecklingen i regionen och bäddar för en positiv utveckling i den här
+delen av kommunen.
+Kommunen har tillsammans med Trafikverket och Region Halland en gemensam
+avsiktsförklaring om att planera och genomföra Värö station. Intentionen är att den nya
+stationen ska kunna tas i bruk och trafikeras snarast efter att Varbergstunneln, Västlänken
+och förbigångsspår Lekarekulle är färdigställda. Detta är en förutsättning för att ett nytt
+regionalt tågsystem ska kunna införas (det s.k. Hallandståget) med ett nytt stopp i Värö.
+
+Med en ny tågstation i Värö skapas möjligheter för samhället att växa hållbart, med ett stort
+antal stationsnära bostäder och verksamheter som blir attraktiva för arbetspendling på
+Västkustbanan.
+Den nya stationen längs med Västkustbanan bidrar till en förtätning av regionen eftersom
+tillgängligheten i stråket mellan Varberg och Göteborg förbättras. Den nya stationen är viktig,
+dels för den lokala utvecklingen i nordvästra kommunen och dels för den regionala
+utvecklingen.
+Värö station blir en station för stora delar av nordvästra kommunen. Stationsområdet blir ett
+nav i utvecklingen. Nära stationen finns tätare bebyggelse där så är möjligt. En långsiktig
+ambition är att bebyggelsen i Väröbacka och Limabacka växer samman.
+
+16
+
+<!-- sida 226 -->
+
+17
+Väröbacka stationssamhälle ska växa fram med stationen som utgångspunkt och på sikt
+skapa en sammanhängande struktur som binder samman Väröbacka och Limabacka
+samhälle.
+Väröbacka stationssamhälle ska växa successivt i anslutning till befintlig infrastruktur och
+särskild fokus på att skapa ett centrumstråk längs Varbergsvägen mellan stationen och
+befintligt centrum i Väröbacka samhälle. Varbergsvägen planeras som det framtida
+samhällets primära centrumgata med både handel, kontor och kommunal service.
+Varbergsvägen går då från att vara en landsväg till att bli en mer stadsmässig gata till
+karaktären.
+Områdets olika kulturmiljöer visas hänsyn genom att både skydda och utveckla miljöerna.
+Platsens karaktär som odlingsbygd är påtaglig i ett utbyggt Väröbacka. Jordbruksmarken
+omsluter stationsorten och karaktärsfulla delar som kyrkan och gårdarna i Backa by, norr om
+SVtaärlblneirnggssvtäaggeann, dskean bi lpi lfaonrftösarsttla sgyentl:i ga delar i det öppna landskapet.
+
+Väröbacka växer inifrån och ut, med utgångspunkt från centrumstråket och den
+
+befintliga infrastrukturen.
+
+Bostäder och offentlig service växer fram i takt.
+
+Hög täthet av lokaler och bostäder inom centrumstråket.
+Hög täthet av lokaler och bostäder kring huvudgator, resecentrum, cykelinfrastruktur
+
+och målpunkter.
+Offentlig service planeras i huvudsak med närhet till befintlig och framtida
+
+bostadsbebyggelse.
+Varierad täthet i bostadsområden med bostäder av olika typer och upplåtelseformer i
+
+syfte att möta behovet från en mångfald av invånare.
+Bebyggelsestrukturen och bebyggelsen planeras för att fungera för flera olika
+
+ändamål utifrån ett föränderligt behov över tid.
+
+Bebyggelseutveckling ska ske med hänsyn till landskapet, historien och kulturen.
+Bebyggelsen planeras i en sammanhängande struktur som skapar tydliga gaturum
+
+och platser.
+Utbyggnaden av bebyggelseområden ska ske med beaktande av behovet av
+
+grönstrukturen så att den utvecklas och bekostas i takt med bebyggelseutvecklingen.
+Skolor, förskolor, särskilda boenden etc. ska tydligt kopplas till grönstrukturen i syfte
+
+att utnyttja grönstrukturen för närrekreation och för trygga och säkra skolvägar.
+Mobilitetsbyggnader planeras i närheten av naturliga bytespunkter, så som
+stationsområdet och busshållplatser.
+
+<!-- sida 227 -->
+
+Mark- och vattenanvändning
+
+All yta inom planområdet omfattas av en specifik mark- eller vattenanvändning Figur 5.
+Användningen uttrycker kommunens långsiktiga viljeriktning för området och anger den
+huvudsakliga markanvändningen. I vissa fall innebär mark- och vattenanvändningskartan en
+förändring av befintlig markanvändning.
+
+Figur 5. Föreslagen markanvändningskarta FÖP Väröbacka till granskning.
+
+Justeringar efter samråd
+
+Efter genomfört samråd har flera justeringar gjorts till granskningshandlingen.
+Miljökonsekvensbeskrivningen är uppdaterad utifrån dessa. De justeringar som är gjorda
+sammanfattas i nedanstående punkter. (För att se alla förändringar hänvisas till
+•
+planbeskrivningen och föreslagen plankarta.)
+•
+Stationsområdets utbredning har justerats utifrån nyare skisser.
+Förutsättningarna för att bygga om trafikplatsen (KÅ1) har förändrats. En
+genomförandestudie som gjorts tillsammans med Trafikverket visar att en sådan
+byggnation riskerar att försena tidplanen för stationen. Eftersom målet att få färdigt
+Värö station till 2030 är högt prioriterat får därför en ombyggnad av trafikplatsen
+eventuellt genomföras längre fram i tiden. Detta får konsekvenser för möjligheterna
+att utveckla kvarteren i direkt anslutning till trafikplatsen. Område för
+centrumutveckling (C7) tas därför bort och övergår till område för bostadsbebyggelse
+•
+(B14).
+•
+Justeringar av vägar och väganslutningar utifrån nya skisser på stationsområdet.
+I samrådshandlingen pekades tre alternativa lägen ut för skola (S3, S4 och S6). I
+granskningshandlingen har kommunen valt alternativet S3. Skolalternativen har
+utvärderats, framför allt utifrån barnperspektiv och genomförandefrågor. Område S3
+(omdöpt till kommunal service, KS2) bedöms sammantaget vara det läge som är bäst
+18
+
+<!-- sida 228 -->
+
+19
+utifrån dessa aspekter. Det har också bedömts fördelaktigt att utöka området för att
+kunna ge plats åt mer kommunal service som dessutom kan ligga samlat. Det ger en
+bra flexibilitet i planen eftersom behov av kommunal service kan variera över tid.
+•
+Området KS2 har ökats i storlek (S3+S2) för att inrymma både skola och förskola.
+Område S6 och BA3 som i samrådsförslaget pekades ut som skola och fotbollsplaner
+ingår i granskningsförslaget i område för areell näring. Syftet med området under
+samrådet var att ge plats åt de fotbollsplaner som skulle behöva flyttas om område S6
+valdes för skola. Nu när S6 inte längre är aktuellt för skola behöver ingen ny mark
+pekas ut för fotbollsplaner. Ändringen innebär att mindre jordbruksmark behöver tas
+•
+i anspråk.
+Verksamhetsområdet (V1) i nordväst har minskats ned till att omfatta endast befintlig
+verksamhetsfastighet samt redan planlagd verksamhetsmark. Området ligger under
+angivna "planeringsnivåer" vid högvattenhändelser. Området är mycket
+problematiskt utifrån ett översvämningsperspektiv och för hantering av dagvatten.
+Ingen ny bebyggelse inom befintligt markavvattningsföretags båtnadsområde
+•
+planläggs.
+Planerat bostadsområde (B8) öster om Backa by, norr om väg 850, har till
+granskningshandlingen minskats ned till hälften. Det bedöms minska negativ
+påverkan på landskapsbilden och ge en bättre entré till orten österifrån. Området är
+dessutom svårt att angöra från väg 850, där man kommer i konflikt med tunga
+•
+transporter.
+Utpekat området för verksamheter i södra delen av planområdet har gjorts mindre.
+(V4 har tagits bort helt och V3 minskats). Detta har gjorts med hänsyn till påverkan
+på brukningsvärd jordbruksmark, landskapsbild (attraktiva boendemiljöer),
+kulturmiljö samt förutsättningar för dagvattenhantering och hänsyn till
+planeringsnivåer för högvattenhändelser. Markanvändningen bedöms dessutom vara
+olämplig utifrån trafiksituationen då det kommer krävas åtgärder i trafiksystemet för
+att säkerställa framkomlighet och trafiksäkerhet. På marken pågår ett rationellt
+jordbruk, vilket fortsatta bedöms vara den mest lämpliga markanvändningen.
+V3 har anpassats till fastighetsgräns samt avgränsning till pågående detaljplan för
+•
+timmerupplaget.
+Område utpekat för skola (S7), sydost om stationsläget, har flyttats längre österut för
+att minska bullerpåverkan från Varbergsvägen. Användningsområdet har justerats till
+•
+kommunal service för att ge större flexibilitet och döpts om till KS4.
+Område utpekat som parkområde (P4) i samrådshandlingen utgår. Område N5 och
+övriga omkringliggande grönstråk och parker bedöms utgöra ett tillräckligt utbud av
+tätortsnära grönområden i samhället. Backa by var i samrådsförslaget uppdelat i B20
+och B11 med parkområdet emellan. Den sammanhängande äldre gårdsbebyggelsen
+har nu slagits ihop till ett och samma område för ökad tydlighet. (B11).
+4.2  NOLLALTERNATIV
+Beskrivning av alternativ och konsekvensbedömning
+MKB:n ska enligt miljöbalken innehålla en beskrivning av miljöförhållandena och miljöns
+sannolika utveckling om planförslaget inte genomförs. Detta kallas nollalternativet.
+Nollalternativet utgår från en sannolik utveckling fram till år 2050, om genomförandet av
+FÖP Väröbacka uteblir.
+
+<!-- sida 229 -->
+
+Nollalternativet utgår från den fördjupade översiktsplanen för Norra kusten från 2017 med
+efterföljande beslut. FÖP Norra kusten har stöd i gällande översiktsplan och möjliggör för
+cirka 2800 nya bostäder i Väröbacka och stora ytor för verksamhetsutveckling i huvudsak
+söder om samhället.
+
+Efter FÖP Norra kusten har gemensamma avtal och avsiktsförklaringar gjort om att planera
+för och genomföra Värö station. Det tidigare planerade stationsläget drygt 1,5 kilometer norr
+om nu beslutat stationsläge var inte byggbart. Beslut om att flytta det söderut togs 2021 (KF
+14 december), se Figur 6.
+Beslutet om flytt av stationen innebär att centrumbebyggelse i nollalternativet inte är
+anpassat till det nya stationsläget. Det gör det troligt att FÖP Norra kusten inte kommer
+kunna fungera som vägledning för Väröbackas utveckling utan det är troligt att större
+avvikelser kommer att ske då centrum och bostadsutveckling är starkt kopplat till
+stationsläget. I förlängningen innebär det att effekter på miljö och hälsa blir mindre
+förutsägbara och att konsekvenser kan uppstå som skulle kunna ha undvikits.
+
+Syftet med planeringen av fördjupade översiktsplanen för Väröbacka som nu pågår är att
+ersätta FÖP Norra kusten i detta område och kunna fånga upp miljö- och hälsoaspekter med
+en helhetssyn på området.
+Värden som kommunen vill värna och utveckla får inte samma skydd i FÖP norra kusten som
+i nu föreslagen plan, exempelvis saknas områden avsatta för natur och park.
+
+Konsekvenserna för nollalternativet bedöms kunna bli stora då FÖP norra kusten inte är
+anpassad för det nya stationsläget och konsekvenserna blir mindre förutsägbara.
+
+20
+
+<!-- sida 230 -->
+
+21
+Figur 6. Illustration av nollalternativet baserat på FÖP Norra kusten och efterföljande beslut avseende
+stationsläget (kommunfullmäktige ) 2021-12-14. Källa: Varbergs kommun
+4.3  AVFÄRDADE ALTERNATIV
+Samrådsförslaget är omarbetat enligt kapitel 4.1 och den då föreslagna
+markanvändningskartan, Figur 7, är därför avfärdad.
+
+<!-- sida 231 -->
+
+Figur 7. Tidigare föreslagen markanvändning i samrådsförslaget, nu avfärdat alternativ.
+
+5    Planområdets   förutsättningar
+
+5.1  REGIONAL PLANERING
+
+Regional utvecklingsstrategi (RUS)
+
+Regional utvecklingsstrategi (RUS) för Halland (Region Halland, 2021) är en övergripande
+och långsiktig plan där det beskrivs hur regionen vill främja ett hållbart utvecklande av
+regionen med fokus på Agenda 2030 och de 17 globala hållbarhetsmålen.
+Fem övergripande principer har tagits fram som ska vara ett stöd på vägen till visionen om
+Halland som den bästa livsplatsen 2035:
+
+1. Tillämpa ett helhetsorienterat arbetssätt
+2. Ingen ska lämnas utanför samhällsutvecklingen
+3. Anpassa ekonomiska resurser efter olika behov och långsiktig nytta
+4. Bruka utan att förbruka eller missbruka ekologiska resurser
+5. Samverka för genomförandekraft
+Inget av Hallands miljömål har en positiv trend. För odlingslandskapet är den fortsatta
+exploateringen av åkermark ett problem. En stor utmaning i Halland är liksom tidigare
+transportsektorn. Klimatgasutsläppen behöver minska betydligt snabbare och det behöver
+utvecklas styrmedel som möjliggör en snabb utfasning av fossila bränslen, ett effektivare
+transportsystem och klimatsmart konsumtion. (RUS, 2022).
+
+För tillfället finns inget aktuellt åtgärdsprogram. Dock flera regionala strategier och program
+som tillsammans leder mot miljömålen, exempelvis den regionala energi- och klimatstrategin
+med flera.
+
+22
+
+<!-- sida 232 -->
+
+23
+Energi- och klimatstrategi
+Den gällande energi- och klimatstrategin i Hallands län antogs år 2019 (Länsstyrelsen
+Hallands län, 2019) och nämner deras ambition att uppnå de fastställda energi- och
+klimatpolitiska målen. I strategin lyfts fyra energi- och klimatutmaningar: fossilfria och
+effektiva transporter, resurseffektiva och fossilfria energisystem, klimatsmart jord- och
+skogsbruk samt hållbar konsumtion och produktion.
+Trafikförsörjningsprogram
+Region Halland har tagit fram ett trafikförsörjningsprogram för Hallands län som sträcker sig
+till år 2025 (Region Halland, 2020). Kollektivtrafiken i Halland ska bidra till hög attraktivitet
+och en hållbar samhällsutveckling. Resandet med kollektivtrafik ska öka och vara attraktivt.
+Strategin för den allmänna kollektivtrafiken i Halland är att koncentrera resurser till stråk
+där förutsättningar för ökat resande är goda. Huvudsyfte med regionala resor är att tillgodose
+resbehovet för arbets- och studiependling samt annat vardagsresande. I Tillväxtstrategin
+understryks vikten av Västkustbanans betydelse för Hallands utveckling. I detta
+Trafikförsörjningsprogram tydliggörs banans betydelse för arbets- och studiependling men
+också för Hallands utveckling i stort.
+Klimatanpassning
+Länsstyrelsen i Hallands län tog år 2014 fram en regional handlingsplan för klimatanpassning
+på uppdrag av regeringen. Syftet med handlingsplanen är att vara en vägledning för arbetet
+med klimatanpassning i länet, lokalt och regionalt.
+Under 2024 antogs en ny regional handlingsplan för klimatanpassning (Länsstyrelsen i
+Halland, 2024) tagits fram, i enlighet med förordningen (2018:1428) om myndigheters
+klimatanpassningsarbete. Denna handlingsplan bygger på rapporten klimat- och
+sårbarhetsanalys (KSA) för Hallands län (Länsstyrelsen Hallands län, 2022), som analyserar
+hur Halland påverkas av klimatförändringar idag och i framtiden. I KSA:n identifierades fyra
+klimatutmaningar, som bedöms utgöra störst risk för Halland: höga temperaturer och torka,
+översvämningar, biologiska och ekologiska effekter samt skadegörare, sjukdomar och
+invasiva främmande arter.
+5.2  KOMMUNAL  PLANERING
+Översiktsplan
+Den gällande översiktsplanen är från 2010 (Varbergs kommun, 2010-06-15) och ger
+vägledning för kommunens utveckling fram till 2030. Kommunfullmäktige beslutade 2018-
+01-16 om aktualiteten för Varbergs kommun s översiktsplan. Beslutet innebar att den
+kommuntäckande översiktsplanen är aktuell, men att vissa fördjupade översiktsplaner inte
+är aktuella och därför inte ska fortsätta gälla. Översiktsplanen håller på att omarbetas och
+den nya planeras att antas i kommunfullmäktige, preliminärt hösten 2026.
+Enligt kommunens uppskattning kommer Varberg växa till cirka 90 000 invånare år 2050.
+För att Varberg ska växa hållbart krävs god planering. Det behövs en ny översiktsplan, som
+anger hur vi i framtiden bör använda våra mark- och vattenområden. Sedan den nuvarande
+planen antogs 2010 har det skett förändringar i lagar och i befolkningens sammansättning
+utifrån olika faktorer. Miljöförändringar, större infrastrukturprojekt och teknisk utveckling
+inom många områden gör också att det behövs en ny översiktsplan.
+Väröbacka är en av kommunens serviceorter. I närheten av samhället, som består av de två
+tätbebyggda områdena Limabacka och Väröbacka, ligger ett par av Hallands största privata
+arbetsplatser. Intentionen i nya ÖP är att Väröbacka ska utvecklas med en tågstation, olika
+
+<!-- sida 233 -->
+
+typer av bostäder, verksamheter och service. Nya trafiklösningar, grönområden, lekplatser
+och mötesplatser kommer också att behövas.
+Fördjupad översiktsplan
+
+Föreslaget planområde för fördjupad översiktsplan Väröbacka är idag en del av FÖP Norra
+kusten (Varbergs kommun, 2017).
+
+Det nya stationsläget i Väröbacka stämmer inte överens med nu gällande FÖP Norra kusten,
+varför kommunen har beslutat att ta fram en ny FÖP för Väröbacka. Den nya FÖP:en ska
+ersätta FÖP Norra kusten för det aktuella området, och avsikten är att den ska ges en sådan
+detaljeringsnivå att planprogram inte ska fordras vid efterföljande planering. Detta gäller
+framför allt för de utvecklingsetapper som ligger närmast i tid.
+Detaljplaner
+
+Det finns 14 gällande detaljplaner inom planområdet. Dessa ligger i huvudsak i linje med
+förslaget på fördjupad översiktsplan för Väröbacka.
+Pågående eller kommande planering i omgivningen
+
+Följande pågående planering bedöms kunna medföra kumulativa effekter i samverkan med
+FÖP Väröbacka.
+
+Figur 8. Visar aktiva planer i närhetan av Väröbacka. Källa: Varbergs kommun.
+
+Planprogram för Bua (startskede)
+
+Bua står inför en omfattande utveckling eftersom det finns ett stort intresse av att utveckla
+och bygga nya bostäder. Fler bostäder innebär också att service och infrastruktur behöver
+utvecklas.
+Byggnadsnämnden beslutade den 22 september 2022 att ge stadsbyggnadskontoret i
+uppdrag att ta fram en fördjupade översiktsplan för Bua. Nu pågår arbete med att ta fram en
+samrådshandling. Parallellt med den fördjupade översiktsplanen arbetar kommunen med tre
+detaljplaner i Bua. Den fördjupade översiktsplanen kommer bland annat att studera
+förutsättningarna för utveckling av Bua centrum med ett kompletterande utbud av service
+och bostäder, och en utveckling av offentliga platser och gröna miljöer. En viktig
+
+24
+
+<!-- sida 234 -->
+
+25
+utgångspunkt är att ge förutsättningar för en utveckling av ett centrum som stödjer den
+växande orten.
+Utöver detta kommer den fördjupade översiktsplanen också att studera förutsättningarna för
+utveckling av Bua hamn som både levande fiskeverksamhet och attraktivt turistmål.
+I samband med framtagandet av den fördjupade översiktsplanen pågår också arbete med tre
+•  DP Bostadsområde i Bua Hultet (framtagande samrådshandling)
+detaljplaner:
+Byggnadsnämnden beslutade den 25 oktober 2018 att ge planavdelningen i uppdrag
+att ta fram en detaljplan. Marken är idag obebyggd och används som j o rdbruksmark.
+Ytan är ca 6 hektar. Området ligger inom det som utpekats som utvecklingsområde
+•  Nya flerbostadshus i Bua (samråd 8 juni 2023 – 1 september 2023)
+för Bua serviceort i den fördjupade översiktsplanen för norra kusten.
+Genom detaljplanen möjliggörs nybyggnation av flerbostadshus i två till tre våningar
+för att ersätta befintlig bebyggelse inom del av fastigheten Bua 1:49. Det fullt
+utbyggda planförslaget möjliggör för ca 180 bostäder inom planområdet.
+Inom detaljplanen föreslås även en närpark för allmänheten, som idag saknas i
+området, samt ett utökat gång-, cykel- och bilvägnät. Fastighet Bua 1:47 planläggs
+•  DP Nya bostäder och centrumändamål i Bua hamn (granskning)
+som bostad.
+Planområdet ligger vid hamnen i Bua i anslutning till Båtafjorden. Planförslaget
+möjliggör bebyggelse av blandad karaktär i Bua hamnområde. Planen syftar också till
+att utveckla del av naturmarken som idag finns inom planområdet till ett parkområde
+DP Utökmade db lyegkgprläattts p oåc hB uanad srtara yntdo r( sföarm rreåkdr)e ation.
+Planområdet omfattar fritidshusområdet Bua strand, söder om Bua samhälle. Planförslaget
+var på samråd under perioden 11 maj 2017 – 28 september 2017. Planarbetet har efter det
+pausats i avvaktan på kommunala ställningstaganden.
+5.3  REGIONALA OCH KOMMUNALA  STÄLLNINGSTAGANDEN
+Varbergs kommun och regionen har utarbetat ett flertal styrdokument som ska beaktas i
+planering och genomförande. Dessa beskrivs under respektive miljöaspekt där de beaktats.
+I ”Planeringsinriktningar för utveckling av Väröbacka” (Varbergs kommun, 2021) anges
+•
+nedanstående styrdokument av särskild vikt för projektet:
+Varbergs vision – Västkustens kreativa mittpunkt (Antaget av kommunfullmäktige
+•
+2011)
+Hållbarhetsmål 2017-2025 – inriktningar för hållbarhetsarbetet i Varbergs kommun
+•
+(Antaget av kommunfullmäktige 2016)
+•
+Mål och inriktning 2020-2023 (Antaget av kommunfullmäktige 2019)
+Simma, lek och svärma – grönstrategi för aktiviteter, upplevelser och biologisk
+•
+mångfald i Varbergs kommuns utemiljö (Antaget av kommunfullmäktige 2013)
+•
+Trafikstrategi 2030 (Antaget av kommunfullmäktige 2015)
+Fördjupad översiktsplan för Norra kusten, Varbergs kommun (Antaget av
+•
+kommunfullmäktige 2017)
+Regional handlingsplan för klimatanpassning 2024-2028
+
+<!-- sida 235 -->
+
+5.4  RIKSINTRESSEN OCH OMRÅDESSKYDD
+
+Riksintressen enligt miljöbalkens kapitel 3
+
+I miljöbalkens tredje kapitel finns ett antal grundläggande bestämmelser för hushållning med
+mark- och vattenområden av betydelse för vissa allmänna intressen. Dessa områden ska så
+lRåinkgstin stormes smeönj lfiögrt snkaytudrdvaåsr dm 3o tk åatpg ä6r §d eMr Bso m kan påtagligt skada de utpekade intressena.
+Klosterfjorden -Getterön (Riks-ID 13009)
+
+Mångformigt kustavsnitt, ändmoräner, klapperstensfält, grundbottnar, strandängar, ljunghed,
+fågelliv av internationellt intresse.
+Riksintressets läge visas och påverkan på riksintresset beskrivs i kapitel 6.3 Naturmiljö och
+bRiioklsoingitsrkes mseå nfögfra flrdil.u ftsliv 3 kap 6 § MB
+Viskan (FN06)
+
+Viskan är ett av länets bättre vattendrag för sportfiske. Här fångas lax och öring men också
+gädda, abborre och vitfisk. Vattendrag kantas ofta av spår efter gångna tiders
+markanvändning. Längs det aktuella området av Viskan är dessa högst varierande och det
+finns spår efter såväl förhistoriska lämningar som historiska försvars- och klosterlämningar.
+
+BReiksskirnitvrneisnsge onc ehn elivgetn 3t ukealpl p8å §v emrkilajönb baelkseknri vs i kapitel 6.4 Friluftsliv och rekreation.
+Västkustbanan
+
+Genom planområdet går Västkustbanan som går mellan Lund och Göteborg. Sträckan ingår i
+järnvägsstråket Malmö-Oslo. Järnvägen trafikeras av godstrafik och persontåg. Järnvägen
+E6 Trelleborg hamn-Göteborg-Svinesund/E20 Öresundsbron -Malmö-Göteborg-Örebro-
+förbinder även andra riksintressen.
+Stockholm
+
+I direkt anslutning i öster går E6/E20. E6 och E20 har gemensam sträckning Malmö-
+Göteborg. De utgör del av det prioriterade vägnätet för godstransporter och långväga
+personresor. De är också en rekommenderade färdvägar för farligt gods. De binder ihop
+andra vägar av riksintresse.
+Riksintressena bedöms inte påverkas negativt av planen. En ny station på sträckan gör att fler
+enklare kan nyttja tågförbindelserna för pendling.
+Riksintressen enligt miljöbalkens kapitel 4
+
+I miljöbalkens fjärde kapitel har riksdagen pekat ut ett antal geografiska områden som i sin
+helhet är av riksintresse Figur . Områdena, som i de flesta fall är stora, har pekats ut med
+hänsyn till de stora natur- och kulturvärden som finns i dem. Av miljöbalkens fjärde kapitel
+följer också att Natura 2000-områden är av riksintresse Figur 7. Dessa områden har, till
+skillnad från övriga riksintresseområden enligt kapitlet, inte pekats ut direkt i lagen utan
+fRöirktseicnktrneasss ie s härösgkeilxdp oloradtneirnagd eknulsigt to bcehs träömrlimgte flsrielur fit 7sl ikva, p4. 2ka7p §. m4 oilcjöhb 2a l§k eMnB.
+Kustområdet
+
+Hela planområdet ligger inom riksintresset Kustområdet. Riksintresset avser Övriga kust-
+och skärgårdsområden som har stora bevarandevärden. Etablering av miljöstörande
+anläggningar får ske på platser där liknande verksamhet redan finns.
+
+26
+
+<!-- sida 236 -->
+
+27
+Kustområdet i Hallands län omfattas av bestämmelserna enligt 4 kap. 2 och 4 §§ MB och är av
+riksintresse för rörligt friluftslivet och högexploaterad kust. Här ska turismens och friluftslivets,
+främst det rörliga friluftslivets, intressen särskilt beaktas vid bedömningen av tillåtligheten av
+exploateringsföretag eller andra ingrepp i miljön. Bestämmelserna utgör inget hinder för
+utvecklingen av befintliga tätorter, utveckling av det lokala näringslivet eller utförande av
+aRnikläsgingntriensgsaer sNoamtu breah 2ö0v0s0 f öFrå tgoetaldlfiörerskvtiavreett .S PA, 4 kap. 8 § miljöbalken
+Till varje Natura 2000-område hör en bevarandeplan. En verksamhet eller åtgärd får inte
+medföra en störning som på ett betydande sätt kan påverka utpekade arter eller habitat i
+området.
+Tillstånd krävs för att bedriva verksamheter och vidta åtgärder som på ett betydande sätt kan
+påverka Natura 2000-områden och arter i sådana områden som har förtecknats med stöd av
+Båtafjorden (SE0510176)
+7 kap 27 § miljöbalken.
+I västra delen av planområdet ligger Natura 2000-området Båtafjorden. Skyddsarter: blå
+kärrhök, brun kärrhök, brushane, grönbena, ljungpipare, myrspov, skärfläcka, smalnäbbad
+simsnäppa, småtärna, stenfalk, sydlig kärrsnäppa.
+Natura 2000-området Båtafjorden och planens påverkan på detta beskrivs mer utförligt i
+kapitel 6.3.
+
+<!-- sida 237 -->
+
+Figur 9. Kartan visar lägena för riksintresset för naturvård Klosterfjorden-Getterön, Natura 2000-området
+Båtafjorden samt riksintresse för friluftsliv Viskan.
+
+Skyddade områden enligt miljöbalken kapitel 7
+
+Strandskydd
+
+Ett generellt strandskydd gäller för land- och vattenområdet inom 100 meter på land och i
+vatten från strandlinjen enligt 7 kapitlet miljöbalken 13–18 §§. Syftet med strandskyddet är
+att trygga förutsättningarna för allmänhetens friluftsliv och att bevara goda livsvillkor för
+djur och växter.
+I Varberg, längs med havskusten, är strandskyddet på många ställen utvidgat till 300 meter
+på land och i havet till 6 meters djup men högst 300 meter. Inom områden av riksintresse
+
+28
+
+<!-- sida 238 -->
+
+29
+enligt 3 kap 6 § MB för naturvård och friluftsliv är strandskyddet utvidgat till 300 meter från
+strandlinjen.
+Strandskydd omfattar land- och vattenområden vid alla sjöar och vattendrag samt längs hela
+Bkuiosttoepns iknyodmd 100 meter från strandlinjen vid normalt medelvattenstånd.
+Biotopskyddsområde används för små mark- och vattenområden, så kallade biotoper som är
+skyddade enligt 7 kap. 11 § miljöbalken. Det är områden som på grund av sina särskilda
+egenskaper är värdefulla livsmiljöer för hotade djur eller växtarter. Biotoperna är också
+viktiga för vanligare arter, samt för omväxling i landskapet
+Vid de naturvärdesinventeringar som utförts i området ( (Calluna AB, 2020), (Calluna AB,
+2023), (MiNA natur AB, 2021)) har ett flertal generella biotopskydd identifierats. Se Bilaga 2-
+4. De utgörs av främst av stenmurar, diken i odlingslandskapet och odlingsrösen. Det kan
+finnas fler generella biotopskydd i de områden som inte inventerats och de kommer att
+identifieras och hanteras i kommande detaljplaner och bygglov.
+De objekt som omfattas av generellt biotopskydd är skyddade enligt 7 kapitlet miljöbalken
+och om någon av dessa påverkas kommer dispens att behövas. Detta kommer hanteras i
+senare skede.
+Markavvattningsförbud miljöbalken kapitel 11
+Markavvattning innebär att man genomför åtgärder som permanent ändrar markens
+vattenförhållanden.
+Om syftet är att permanent ändra markens lämplighet för ett ändamål, som till exempel för
+bebyggelse eller odling räknas det som markavvattning. För att få utföra markavvattning
+behövs alltid tillstånd från länsstyrelsen.
+I stora delar av södra och mellersta Sverige är det markavvattningsförbud och detta omfattar
+även programområdet. Dispens från markavvattningsförbudet bedöms inte behövas. Detta
+kommer att studeras mer i detalj i kommande detaljplaner och bygglov.
+Fornlämningar kulturmiljölagen kapitel 2
+Fornlämningar beskrivs övergripande i kapitel 6.2 och hanteras i kommande detaljplaner
+eller bygglov.
+5.5  MILJÖKVALITETSNORMER FÖR YT- OCH GRUNDVATTEN
+Miljökvalitetsnormer för yt- och grundvatten
+Alla större vattenområden i Sverige är klassade enligt EU:s ramdirektiv för vatten (Direktiv
+2000/60/EG). Syftet med vattendirektivet är att främja en hållbar vattenanvändning och att
+förbättra statusen på vattenmiljön. Huvudregeln är att alla vattenförekomster ska nå god
+ekologisk och kemisk status till ett bestämt årtal och att statusen inte får försämras.
+Miljökvalitetsnormer och klassificering av ekologisk och kemisk status för alla
+vattenförekomster presenteras i VISS (Vatteninformationssystem Sverige).
+Enligt miljöbedömningsförordningen SFS 2017:966 ska risk för överskridna
+miljökvalitetsnormer undersökas i MKB.
+Vattenmyndigheternas åtgärdsprogram slår fast att kommunerna ska genomföra sin
+översikts- och detaljplanering samt prövning enligt plan- och bygglagen, så att den bidrar till
+att miljökvalitetsnormerna för vatten ska kunna följas. Vattenmyndigheterna har särskilda
+åtgärdsprogram för prioriterade områden och ämnen.
+
+<!-- sida 239 -->
+
+De vattenförekomster med miljökvalitetsnormer som berörs och hur de skulle kunna
+påverkas av planen beskrivs i kapitel 6.5.
+Miljökvalitetsnormer för utomhusluft
+
+För utomhusluft finns miljökvalitetsnormer för vissa ämnen som medför risk för miljön och
+människors hälsa. Normerna regleras i förordning (2001:527) om miljökvalitetsnormer för
+utomhusluft och omfattar kvävedioxid, kväveoxider, svaveldioxid, kolmonoxid, bly, bensen,
+partiklar (PM10) och ozon. Generellt i Sverige finns det risk för haltnivåer som överstiger
+miljömålens preciseringar för marknära ozon, partiklar och bensen (Naturvårdsverket,
+2020).
+Miljökvalitetsnormer för omgivningsbuller
+
+Miljökvalitetsnormen för omgivningsbuller utgör en planeringsfråga som behandlas på
+strategisk nivå genom åtgärdsprogram. Kommuner med färre än 100 000 invånare omfattas
+inte av bullernormen.
+Varberg omfattas inte av kravet på åtgärdsprogram för buller.
+6    Miljöbedömning
+
+6.1  LANDSKAPSBILD
+
+Förutsättningar
+
+Övergripande landskapsbeskrivning
+
+Väröhalvöns topografi kan beskrivas som en övergång mellan det öppna slättlandskapet i
+söder och det kuperade sprickdalslandskapet i norra Halland. Kustdelen på Väröhalvön är
+kuperad med många utsiktspunkter över landskapet. Mellan de många bergshöjderna längs
+med kusten ligger de tre fjordarna Vendelsö-, Båta- och Klosterfjorden. Kustdelen är här
+mycket långgrund och vidsträckt vilket särskilt vid Båtafjorden skapar förutsättningar för ett
+unikt djur- och växtliv. Väröhalvön rymmer flera olika naturtyper, från kustens
+klippområden, våtmarker och strandängar, till betesmarker med gamla ädellövträd och lång
+hävdkontinuitet. Jordbruksmarken är dominerande i den centrala och östra delen av halvön,
+med insprängda mindre betesmarks- och skogsområden. Innanför den kuperade kustdelen
+breder det öppna slättlandskapet ut sig, ett landskap som är uppodlat och präglat av det
+rationella jordbruket (Varbergs kommun, 2022).
+Flera av dessa områden ingår i kommunens naturvårdsprogram eller är utpekade i andra
+underlag.
+
+Väröbackas bebyggelse präglas idag av en spridd landsbygdskaraktär där skola, förskola,
+handel och verksamheter är knutna till de större vägarna. En något mer sammanhållen
+bebyggelse återfinns kring skolan, i Väröbacka samhälle och i Limabacka samhälle, med en
+blandning av småhus och kommunal service.
+Ortsstrukturen ligger i ett utpräglat odlingslandskap med utskiftade gårdar och kyrkan som
+tronar upp i nordost. Det omkringliggande landskapet består i huvudsak av jordbruksmark
+med tillhörande gårdsbebyggelse. Väster om järnvägen ligger de stora industriella
+anläggningarna Ringhals kärnkraftverk och Södra Skogsägarna i Värö.
+
+Planområdet utgörs huvudsakligen av ett brukat slättbygdsområde med de större tätorterna
+Väröbacka och Limabacka. Genom landskapet rinner vattendragen Viskan och Stora Även i
+öst-västlig riktning som mynnas ut i grunda fjordar omgivna av betade strandängar. Ett par
+skogsområden finns men landskapet domineras av ett flackt jordbrukslandskap.
+
+30
+
+<!-- sida 240 -->
+
+31
+Landskapets struktur
+Landskapet på Väröhalvön har sedan isavsmältningen för ca 13 000 år sedan formats av såväl
+naturliga som kulturella processer. Ett tydligt exempel på detta samspel är människans
+odlande av det bördiga slättlandskapet.
+Större delen av utredningsområdet har i perioder legat under havsnivån, då havet i perioder
+har stigit. Berggrunden på Väröhalvön utgörs av urberg som är en del av sydvästra Sveriges
+gnejsområde, både grå och rödaktig gnejs förekommer inom området. Väröhalvön
+genomkorsas av ett stråk av skiffrig gnejs som på sina håll bildar så kallade cuestalandskap
+(banker av skiffrig gnejs som bildar sänkor och höjder om vartannat). I de västra och östra
+delarna dominerar berg eller berg med tunt jordtäcke medan ler och silt dominerar i det
+centrala slättlandskapet.
+Väröbacka-Limabacka med omland utgör ett typiskt odlingslandskap där landskapets form
+och struktur till stor del formats av jordbrukets förutsättningar. Särskilt tydlig är denna
+princip i bebyggelsestrukturen där gårdar och samhällen ofta ligger på sandig, genomsläpplig
+mark som inte varit särskilt intressant att bruka, medan det bara finns enstaka gårdar på de
+bördiga slätterna där det finns en stor andel lera och därmed bättre odlingsförutsättningar.
+Samhället Väröbacka präglas dock av bebyggelse längs vägarna, på leriga, bördiga marker.
+Väröhalvön har en varierande topografi. Det öppna slättlandskapet, i kombination med
+relativt få sammanhängande skogsområden och kuperad terräng vid kusten och inåt landet,
+gLearn dfösrkuatpsäetttsn kinagraakr tfäörr, vkaäcnksrliag uhtesti kotcshp upnoktetenrt iöavl er landskapet (Varbergs kommun, 2022).
+I arbetet med en integrerad landskapskaraktärsanalys av Varbergs kommun (Varbergs
+kommun, 2022) identifierades 5 olika karaktärsområden i planområdet, se Figur 10.
+
+<!-- sida 241 -->
+
+Figur 10. Kartan visar områdets fem karaktärsområden. (Varbergs kommun, 2022)
+
+Väröbacka samhälle             nyckelkaraktärerna
+
+I              (se 7a i Figur 10) beskrivs   vara att bebyggelse är
+belägen längs vägar, både grupper av hus och enstaka gårdar, bebyggelsen har en brokig
+karaktär och gästis är en bebyggelsemiljö med en lång och intressant historia. I områdets
+norra del ligger Torna gård, en äldre gårdsmiljö som är känslig mot förändring. I stora delar
+av samhället finns utblickar mot omgivande landskap vilket gör att upplevelsen av samhället
+Känsliga miljöer
+är att man snarare är på landet snarare än i en tätort. Se Figur 11 och 12.
+som har pekats ut i samhället Väröbacka är Torna gård, en gammal
+gårdsmiljö som är känslig för förändringar. Historisk har bebyggelsens utveckling skett längs
+med Varbergsvägen (väg 845). Det är därför viktigt att bebyggelsen även i framtiden vänder
+sig mot vägen. När samhället växer finns risken att de grönområden som finns i samhället
+utsätts för allt högre slitage, det är därför viktigt att även grönstrukturen utökas när ny
+bebyggelse tillkommer.
+
+32
+
+<!-- sida 242 -->
+
+33
+Figur 11 och Figur 12. Värdshuset i Väröbacka "Gästis" och Torna gård som är en äldre gårdsmiljö (Varbergs
+kommun, 2022).
+brutna jordbrukslandskap Väröbacka           karaktärer
+I det                         (7b i Figur ) finns flera olika .
+Nyckelkaraktärer är i den södra delen gårdarna belägna vid en höjdrygg. Landskapet längs
+vägen 845. Utblicken över båtafjorden i områdets norra del, samt det skogsdungar som
+Känsliga miljöer
+bryter sikten i söder. Se Figur och 14.
+i det brutna jordbrukslandskapet är gårdarna som ligger längs höjdryggen,
+utblicken över landskapet i den nordvästra delen. Skogsdungar och en alsumpskog norr om
+väg 845.
+Figur 13 och Figur 14. Vy mot Båtafjorden och det flacka odlings landskapet samt det kuperade område vid
+väg 845. (Varbergs kommun, 2022).
+Jordbrukslandskap väster om Väröbacka      karaktär
+(se 7c i Figur ) har en av ett
+brukslandskap med stora sammanhängande åkrar med stora utblickar, vid Båtafjorden är
+bruket mindre intensivt. Här finns ett Natura 2000-område som består av betesmarker. I
+området finns två vattendrag Stora och Lilla även. Det finns en begränsad möjlighet att röra
+sig genom området då stigar och vägar är få. Genom området går två större vägar,
+nordsydliga väg 845 och väg 848, Ringhalsvägen. Det finns också ett minder antal grusvägar
+som leder in till områdets gårdar, gårdarna är skiftade och ligger ensamt spridda. Trängen i
+området är flack med en uppstickande bergsknalle i nordväst som avgränsning. Se Figur 15
+Känsliga miljöer
+och 16.
+i området är jordbruksmarken mellan Väröbacka och Limabacka. Ny
+bebyggelse här kan begränsa utblicken över slättlandskapet och Båtafjorden. Området är
+även känsligt för ökad avrinning från dagvatten, samt med störningar på Natura 2000-
+området.
+
+<!-- sida 243 -->
+
+Figur 15 och Figur 16. Vy över det öppna slättlandskapet väster om Väröbacka samt vy över det flacka
+odlingslandskapet mot Berget i nordväst. (Varbergs kommun, 2022)
+
+Jordbrukslandskap öster om Väröbacka         karaktär
+
+(7d i Figur ) har en öppen men upplevs
+som ett småskaligt jordbrukslandskap, speciellt öster om Väröbacka. Landskapet avgränsas
+av åsar i både söder och öster. Kulturlandskapet är väl synligt i landskapet med utskiftade
+gårdar, betesmarker, tydliga ägogränser som bryts av vegetationsridåer och små biotoper.
+Sydost om Värö kyrka är området rikt på fornlämningar, här finns bland annat en jättehög
+och ett gravfält. Från flera håll i landskapet är Värö kyrka synlig och därför ett viktigt
+Känsliga miljöer
+landmärke i området. Se Figur 17 och 18.
+i jordbrukslandskapet öster om Väröbacka är odlingslandskapet till öster
+som ger utblickar över landskapet. Generellt är området känsligt mot bebyggelse som tar stor
+yta i anspråk och påverkar landskapets öppenhet. De enskilda gårdarna i odlingslandskapet
+är en viktig karaktär och är känsliga för ny bebyggelse nära inpå. Värö kyrkby är känsligt mot
+bebyggelse för nära inpå bystrukturen. Siktlinjer mot kyrkan bör från fler håll värnas.
+
+Figur 17 och Figur 18. Vegetationsridå/ägogräns i landskapet och en ständigt närvarande vy mot kyrkan samt
+vy över jordbrukslandskapet öster om Väröbacka/L imabacka, från höjden Mållösa Hunnahög. (Varberg s
+kommun, 2022)
+
+Värö kyrkby        Karaktär
+
+(7e i Figur 10). , Värö kyrka syns från många olika riktningar och är ett
+tydligt landmärke i bygden. Kyrkbyn är en sammanhållen bystruktur dominerad av kyrka,
+prästgård och kyrkogård, miljön är lummig med en allé av äldre träd. Byn upplevs som
+känslig
+enhetlig. Se Figur 17 och 18.
+Värö kyrkby är för bebyggelse för nära inpå bystrukturen och det är viktigt att
+kyrkbyn uppfattas som en avgränsad enhet ute i odlingslandskapet. Kyrkan är ett landmärke
+viktigt att värna från flera olika riktningar. Även de lummiga grönområdena runt kyrkbyn är
+viktiga att bevara.
+
+34
+
+<!-- sida 244 -->
+
+35
+Figur 19 och Figur 20. Värö kyrka samt gårdar på höjdrygg söder om Väröbacka, sett från nordost (Varbergs
+kommun, 2022)
+Mosaiklandskap Limabacka                           karaktär
+I                   (7f i Figur ) har bebyggelsen en spridd och lantlig ,
+tomter avgränsas av stenmurar och trädrader. Grupper av bebyggelse finns längs gamla Bua
+vägen. I området finns sammanhängande skogsmiljöer Norrmans skog/Backa gårds skog
+samt flera olika vegetationskaraktärer med åkrar, betesmark, och skogsdungar. Se Figur 19
+känsligt
+och 20.
+Mosaiklandskapet är för ny storskalig bebyggelse; eventuell ny bebyggelse bör efter
+områdets lantliga karaktär. Norrmans skog och Backa gårds skog är känslig för exploatering
+och avverkning, exploatering här skulle negativt påverka både natur- och rekreationsvärden.
+Betesmarker i området är känsliga mot igenväxning och dess värden beroende av fortsatt
+hävd från betesdjur. Jordbruksmarken i området är känslig för exploatering.
+Figur 21 och Figur 22. Upptrampad stig i Limabackaskogen samt lantlig karaktär med grusvägar och stora
+tomter omgärdade av trädrad och stenmurar. (V arbergs kommun, 2022)
+Samhället Limabacka       karaktären
+(7g i Figur ) har av en varierad bebyggelse, med hus från
+flera olika tidsåldrar (årsringar), en stor del av samhällets bebyggelse består av
+småhus/villor från 1960–1970 talet med uppväxta trädgårdar men här finns även bebyggelse
+från tidigt och sent 1900-tal. Bebyggelsen är generellt låg. I Området finns två byggnader som
+påvisar områdets historia, Limabacka kvarn och gamla kommunhuset. Genom området går
+Känsliga miljöer
+den gamla Bua vägen som berättar om hur byns utbredning såg ut förr. Se Figur 21 och 22.
+i samhället Limabacka är att bebyggelsen är småskalig. Förtätning med högre
+bebyggelse riskerar att dominera stadsbilden. Vid vidare utveckling av samhället är det
+viktigt att småskaligheten bevaras och att trygghetskänslan bibehålls. Längs väg 850 finns en
+känslighet för en utökning av tung trafik. Skogarna runt Limabacka är känsliga för
+exploatering.
+
+<!-- sida 245 -->
+
+Figur 23 och Figur 24. Gamla skolan/kommunhuset till vänster och paviljongförskolan till höger, bakom träden.
+I bilden till höger villakvarter i Limabacka. (Varbergs kom mun, 2022).
+
+Påverkan och konsekvens
+
+Väröbacka och Limabacka ligger mitt på slätten vilket gör att exploateringar i samhällena
+kommer att synas på längre håll. En utbyggnad av station och nya bostäder i Väröbacka
+innebär att landskapskaraktären i området kommer att förändras.
+
+Värö kyrka är ett viktigt landmärke för området. Siktlinjer mot kyrkan kommer att påverkas
+av planen genom den bebyggelse som planeras öster om väg 845 mot kyrkan. Genom att
+bevara siktlinjer upp mot kyrkan kan konsekvenser på landskapsbilden mildras.
+Nordväst om väg 845 ligger gårdarna i Backa by vid en höjdrygg. Gårdarna är en viktig
+karaktär för området, här påverkas landskapsbilden när de södra delarna av landskapet mot
+stationen bebyggs, för att mildra påverkan på miljön kommer marken norr om gårdarna
+bevaras som ett grönstråk. För att mildra påverkan bevaras gamla vägar, stenmurar och
+betesmarker.
+En viktig siktlinje är den från väg 845 är väster ut mot Bua. Här är det viktigt att sikten över
+jordbrukslandskapet förblir öppen.
+
+Efter samrådet har planförslaget arbetats om och området (V4) (utpekat området för
+verksamheter) har tagits bort. Att området tagits bort är positivt för landskapsbilden då
+utblicken mot sydväst bevaras och fortsätter att vara öppen jordbruksmark.
+Att marken fortsätter vara öppen är positivt både för att bibehålla landskapets karaktär, för
+att skapa attraktiva boendemiljöer, för utblick mot sydväst från stationsområdet samt för att
+Sammantaget bedöms konsekvenserna av planförslaget bli stora- måttliga för landskapsbild
+värna kulturmiljön.
+.
+Förslag på åtgärder
+•
+
+Genom att bevara siktlinjer mot kyrkan (öster ut från väg 850) kan påverkan på
+•
+landskapsbilden mildras.
+I kommande detaljplaner kan byggnadernas karaktärer specificeras för att passa in i
+•
+jordbrukslandskapet.
+Att värna och bevara de äldre landskapselementen som stenmurar, åkergränser,
+diken, betesmarker alléer och vägar i kommande planering kan mildra
+•
+konsekvenserna på landskapsbilden.
+Planförslaget har inför gran skning förtydligats avseende kopplingen mellan enskilda
+utbyggnadsområden och de sik tlinjer som FÖP:en har identifierat som primära att
+värna över tid i plankartan.
+36
+
+<!-- sida 246 -->
+
+37
+6.2  KULTURMILJÖ
+Förutsättningar
+Planområdet utgörs av ett öppet äldre odlingslandskap med gårdar omgivna av åker- och
+betesmarker som ofta bryts upp av såväl stenmurar, diken och odlingsrösen som mindre
+skogbevuxna höjdområden. Planområdet hyser höga kulturvärden kopplade till
+kDueltt uhrislatonrdisskkaap laent,d bsekbaypgegte lsen och fornlämningar.
+På Väröhalvön finns tre större orter: Bua, Väröbacka och Limabacka. Väröbacka och
+Limabacka bildar gemensamt en serviceort men är sinsemellan olika. Förr var Väröbacka ett
+givet centrum på halvön, med sitt läge vid den nordsydliga kustvägen och senare järnvägen.
+Sedan 1970-talet, då Värö bruk och Ringhals etablerades på halvön, förvandlades Bua från ett
+mindre fiskeläge till centralort med nya bostäder, skola och samhällsservice. Landskapet är
+typiskt för norra Hallands kustlandskap med skogbeklädda bergshöjder som påverkats och
+formats under den senaste istiden, de lägre partierna med dalgångar utgörs av åkermark.
+Historiskt har Värö varit en fördelaktig plats för tidig bosättning med både sötvattens
+utloppet och skärgårdslandskapet. Från bronsåldern (1700 f.Kr.) bör området ha blivit
+lämpat för jordbruk. (Stiftelsen Hallands Länsmuseer, 2022)
+I områ det syns tre huvudspår för traktens utveckling:
+1. Jordbruket började förändras i samband med laga skiftet på 1800-talet och
+resulterade i ett storskaligt jordbrukslandskap under 1900-talet. I och med
+rationaliseringen har naturens egna processer till viss del anpassats till människans
+behov.
+2. Bilismen och infrastrukturens utveckling har kraftigt omformat landskapet under
+1900-talets senare del, exempelvis genom motorvägsutbyggnad och järnvägens
+utbyggnad till dubbelspår.
+3. Industrialiseringen i området har sedan slutet av 1960-talet präglat områdets
+bebyggelseutveckling och landskapsbilden i området.
+Nummer 2 och 3 samspelar eftersom bebyggelsens utveckling och utbyggnad av vägar och
+gator hänger tätt samman. I Limabacka ser man särskilt hur den ökade trafiken resulterat i
+att nya vägar dragits utanför samhället. Det är också tydligt att landskapet under slutet av
+1900-talet har förändrats i en snabbare takt än tidigare. Områdets utveckling har lett till att
+Väröbacka och Limabacka, från att ha legat längs samma landsväg, blivit avskilda från
+vKaurlatunrdmrail.j ö program 2014
+Kulturmiljöprogrammet från år 2014 lyfter inte fram någon miljö inom planområdet som
+kulturhistoriskt värdefull. I ett äldre kulturmiljöprogram från 1992 lyfts miljön runt kyrkbyn
+och slätten ned mot gårdarna på rad i Backa by. Värdena bedömdes vara kopplade till
+kyrkbyn med 1800-tals kyrkan, prästgård och tillhörande bebyggelse, gravfältet Jättahögen
+oKcuhlt guårhrdisstboerbisykgtg veälsrde efrfuålnla m biyttgegnn aavd e1r8 00-talet.
+I inventeringen över kulturhistoriskt värdefull bebyggelse i Varbergs kommun (2009) har
+flera byggnader inom de aktuella miljöerna pekats ut. Dessa byggnader är av kulturhistoriskt
+värde och omfattas av plan- och bygglagens krav på varsamhet och förbud mot förvanskning
+oavsett om de är utpekade sedan tidigare eller ej (PBL kap 8 §§ 13,17).
+I kyrkbyn är följande byggnader utpekade i inventeringen:
+
+<!-- sida 247 -->
+
+•
+•
+Kyrkan, skyddad genom kulturmiljölagen.
+•  Församlingshemmet, Värö 2:3, f.d. skola, klass C, identitetsvärde, miljöskapande och
+samhällshistoriskt värde.
+•
+F.d. klockarlönebostället, Värö 2:15, byggnadshistoriskt och miljöskapande värde.
+Värö prästgård, Värö 2:16, prästgård, uppförd 1846, även mindre boningshus samt
+uthus, klass B arkitektoniskt, arkitekturhistoriskt, samhällshistoriskt och pedagogiskt
+•
+värde samt identitetsvärde.
+Prästlönebostället, Värö 2:17, Bostadshus och ekonomibyggnad, klass C, autenticitet,
+äkthet, byggnadshistoriskt och miljöskapande värde.
+•
+Bland gårdarna på höjdryggen är följande byggnader utpekade i inventeringen:
+Liden, Värö-Backa 12:2, tidigare kringbyggd gård med manbyggnad från 1830-talet
+som nu är riven, klass C byggnadshistoriskt, miljöskapande värde samt
+•
+identitetsvärde.
+Värö-Backa 17:12, manbyggnad från 1875, klass C, byggnadshistoriskt och
+Skyddadmei lmjöisljköaepra enndleig vt äkrudletu. rmiljölagen
+
+Kyrkan och kyrkogården skyddas av kulturmiljölagen, 4 kap. Lagen säger bland annat att
+kyrkobyggnader, kyrkotomter och begravningsplatser skall vårdas och underhållas så att
+deras kulturhistoriska värde inte minskas och att deras utseende och karaktär inte förvan-
+skas. De får inte på något väsentligt sätt ändras utan tillstånd av länsstyrelsen. Detta gäller
+även inslag av byggnader som inte är kyrkobyggnader, t.ex. murar, portaler, andra fasta
+anordningar och vegetation på kyrkotomt och begravningsplats.
+Fornlämningar skyddas genom kulturmiljölagen, 2 kap. Genom denna lag är det förbjudet att
+ta bort, gräva ut, täcka över eller genom bebyggelse, plantering eller på annat sätt ändra eller
+skada en fornlämning. Om en fornlämning påträffas under grävning eller annat arbete, ska
+arbetet omedelbart avbrytas och Länsstyrelsen kontaktas. Om fornlämningar kommer att
+påverkas av planen ska en ansökan om tillstånd skickas till Länsstyrelsen.
+
+Inom utredningsområdet finns ett stort antal fornlämningar som utgörs av boplatser,
+gravlämningar (högar, stensättningar, rösen, gravfält samt begravningsplats etc.),
+hällristningar, områden med fossil odlingsmark och fyndplatser, se Figur 25–28.
+
+38
+
+<!-- sida 248 -->
+
+39
+Figur 25. Delområde 1 med potentiella fornlämningsytor. Skala 1:6000. (Stiftelsen Hallands Länsmuseer, 2022)
+
+<!-- sida 249 -->
+
+Figur 26. Delområde 2, norra halvan, med potentiella fornlämningsytor. Skala 1:6000. (Stiftelsen Hallands
+Länsmuseer, 2022)
+
+40
+
+<!-- sida 250 -->
+
+41
+Figur 27. Delområde 2, södra halvan, med potentiella fornlämningsytor. Skala 1:6000. (Stiftelsen Hallands
+Länsmuseer, 2022)
+
+<!-- sida 251 -->
+
+Figur 28. Delområde 3 med potentiella fornlämningsytor. Skala 1:5000. (Stiftelsen Hallands Länsmuseer,
+2022)
+
+42
+
+<!-- sida 252 -->
+
+43
+Kulturmiljöernas känslighet
+Vid både kyrkbyn och runt gårdarna har miljöerna en viss känslighet för förändring om de
+viktigaste karaktärsdragen ska kunna bevaras. Framför allt är de öppna landskapen som
+omger miljöerna mycket viktiga visuellt. Vid Backa by finns det dessutom potentiella
+fornlämningsytor på båda sidor av höjdryggen, vilket förstärks av bebyggelseindikerande
+toftnamn ute i åkerpartierna i äldre kartor. Vid kyrkbyn finns potentiella fornlämningsytor i
+söder och sydost i anslutning till stigen mot Jättahögen, och handelsträdgården.
+Kyrkan är ett viktigt landmärke i trakten. Tornet sticker upp över bebyggelse och växtlighet,
+synlig från nästan alla väderstreck ibland från flera kilometers håll. Särskilt från väster är
+kyrkan väl synlig med sin vita färg som framträder tydligt då det inte finns bebyggelse eller
+v äxtlighet som skymmer framför Figur 29. Detta är ett karaktärsdrag som bör hanteras
+varsamt.
+Figur 29. Värö kyrkas vita torn är väl synligt vida omkring, här från Lingome i väster (Stiftelsen Hallands
+Länsmuseer, 2022).
+Miljöerna präglas av flera olika tidsskikt framför allt vad gäller bebyggelsen. De kan därför
+tåla en viss förtätning om det görs med enstaka nya inslag med en småskalig och agrar prägel.
+En möjlighet är också att se vad som kan rymmas inom befintlig bebyggelse.
+Lagaskifteslandskapet med långsmala åkrar är dock ett viktigt karaktärsdrag som bör
+bKeuvltaurrahsi,s ftroarmisfkö rlä aslblta ir Bheatc ki ala bnyd.s kapet idag
+De områden som kulturmiljöutredningen (Stiftelsen Hallands Länsmuseer, 2022) behandlar
+är upptagna som värdefulla i de äldre kommuntäckande kulturmiljöprogrammet från 1992. I
+det nyare programmet från 2014 finns de inte med. Bebyggelsen i kyrkbyn och i Backa by
+präglas idag, som så många andra jordbruksmiljöer, av mellankrigstiden och efterkrigstidens
+mer funktionalistiska bebyggelse som visar på jordbrukets modernisering och nya behov.
+Landskapet visar på laga skiftets omarrondering av mark till stora öppna åkergärden. Dessa
+
+<!-- sida 253 -->
+
+moderna lantbruksmiljöer har traditionellt sett inte värderats högt ur kulturmiljösynpunkt
+och är därför utsatta för förändringar.
+Kyrkbyn var tidigare sockencentrum och är fortfarande tydligt avläsbar som en
+bebyggelsegrupp avgränsad från omgivningen och med en äldre prägel. Den är fortfarande
+ett centrum i en jordbruksbygd, men av ett annat slag än tätorten Väröbacka. Trots
+förändringar har byn en förankring i historien sedan medeltiden framför allt genom
+kyrkobyggnaden, kyrkogård, prästgård och skola (nuv. församlingshem) samt vägkorsningen,
+men av betydelse är också förekomsten av småskalig bebyggelse av agrar karaktär.
+
+Även Backa by är tydlig i sin karaktär med förankring i historien då den till sin struktur och
+gårdarnas placering är ovanligt välbevarad. De har legat på samma plats i flera hundra år och
+kanske ännu längre. Odlingslandskapet på båda sidor av åsen har troligen varit brukad och
+obebyggd lika länge. Fornlämningar och toftnamn på äldre kartor tyder dock på att det
+förekommit forntida verksamhet i det idag odlade landskapet. Det finns därför ett mycket
+stort kulturhistoriskt värde i denna struktur. Här finns de redan utpekade, kulturhistoriskt
+värdefulla gårdarna med äldre bebyggelse i en i det närmaste kringbyggd struktur. Det kan
+dock finnas annan bebyggelse på övriga gårdar som är av kulturhistoriskt intresse; såväl
+äldre hus som välbevarade exempel från tiden kring 1950.
+Ur ett mer lokalt perspektiv är kyrkbyn och gårdarna längs höjdryggen i Backa by några av de
+viktigaste sammanhållna kulturmiljöerna i Väröbacka som ger orten en tydlig förankring i
+historien. Då de ligger så centralt i bygden är de också miljöer som många möter. (Stiftelsen
+Hallands Länsmuseer, 2022)
+Påverkan och konsekvens
+
+En särskild fördjupad konsekvensanalys (Kulturmiljö Halland 2023) har genomförts som
+bygger på en kulturhistorisk utredning för FÖP Väröbacka utförd av (Kulturmiljö Halland
+2022), Bilaga 1. Förslagen på markanvändning och utvecklingsstrategin bedöms så här långt
+till viss del förenas med kulturmiljövärdena. En del inslag strider dock mot de kul-
+turhistoriska karaktärsdrag och riktlinjer som lyfts i kulturmiljöutredningen. Strategin för
+FÖP Väröbacka och den kommande detaljplaneringen behöver förtydligas och kompletteras
+för att visa hur den tänkta utvecklingen ska kunna ske med mindre påverkan på och med
+hLöangrdes kgarapde ta v anpassning till kulturmiljön.
+
+Bebyggelse på båda sidor av Backa by tar bort det öppna landskapet som gör att byn
+framträder i landskapet. Det är ett av de viktigaste karaktärsdragen, av hög ålder, vilket
+medför en negativ konsekvens för de kulturhistoriska värdena.
+Lagaskifteslandskapet med långsmala åkrar på båda sidor av höjdryggen där byn ligger, är ett
+mycket tydligt karaktärsdrag med ett betydande kulturhistoriskt värde. Strukturen kan dock
+fångas upp i den nya bebyggelsen genom placering av byggnader, låta gränser och vägar vara
+synliga i landskapet, ta till vara siktlinjer och liknande. Konsekvensen för kulturmiljön beror
+därför på hur ny bebyggelse kommer utformas och placeras.
+
+Här finns dessutom potentiella fornlämningsytor på båda sidor av höjdryggen, vilka kommer
+att påverkas om marken bebyggs. Eventuella fornlämningar kommer då att tas bort, men det
+innebär också ett uppbyggande av kunskap.
+Viktiga siktlinjer från Varbergsvägen mot Backa by och kyrkbyn, riskerar att döljas. Detta kan
+dock styras genom rekommendationer och riktlinjer för ny bebyggelses utformning och
+pVläagcaerr,i nmgu. r ar och andra karaktärsskapande inslag
+
+Norr om gårdarna föreslås ett grönstråk, gång- och cykelbana. En gång- och cykelbana
+föreslås även genom Backa by upp mot kyrkbyn. Detta kan vara en god möjlighet att markera
+bybebyggelsens särställning i förhållande till ny bebyggelse. Väg- och grönstråken kan
+
+44
+
+<!-- sida 254 -->
+
+45
+förstärka samhörigheten och strukturen inom Backa by och återknyta de nordvästra och
+sydöstra delarna vilket idag inte är så tydligt. Gång- och cykelvägen genom Backa by mot
+kyrkbyn kan förstärka samhörigheten med kyrkbyn, både visuellt och funktionellt.
+Historiskt sett verkar det inte ha funnits någon väg mellan gårdarna. Strukturen med smala
+(grus)vägar mellan gårdarna och Varbergsvägen tycks ha långa anor bakåt i tiden. Några av
+vägarna finns med på markanvändningskartan vilket är positivt. Då detta är ett så viktigt och
+speciellt karaktärsdrag bör alla vägar finnas kvar. De kan utgöra en del av en framtida struk-
+tur för att knyta an till historien och det tydliga lagaskifteslandskapet.
+Flera av vägarna, fastighetsgränserna och gårdstomterna är kantade av stenmurar, vilket
+också är viktiga karaktärsdrag som bör bevaras. I dagsläget omfattas de av biotopskydd då de
+gränsar till jordbruksmark. Att stenmurarna bevaras är därför viktigt av flera orsaker än rent
+kulturhistoriska.
+Karakteristiskt för bymiljön är också att gårdarna omges av trädgårdar och lövträdsdungar,
+Bvielkbeytg bgöerls keunn na fångas upp i planläggning i och i grönstråken.
+Byns gårdsbebyggelse ligger i ett stråk som i huvudsak markeras bostadsbebyggelse. Detta
+skulle kunna innebära att gårdarna kan ligga kvar, men inte användas som jordsbruksgårdar.
+Detta kan få en negativ konsekvens för möjligheten att bevara befintlig bebyggelse och dess
+karaktär. Det bör även finnas möjlighet till att bedriva verksamheter anpassade till miljön och
+bebyggelsens karaktär. Förutsättningen för att de kulturhistoriska värdena ska kunna
+bevaras är att bebyggelsen kan bevara sin gårdskaraktär såsom äldre hus från olika tider,
+stenmurar, husens placering och utformning med åtskillnad av bostadshus och
+ekonomibyggnader, även om de skulle få ny användning.
+Svennesgård m.fl. i det sydöstra delen av byn hamnar inom område för areell näring och kan
+fortsätta drivas som jordbruksgård av något slag, vilket är positivt.
+Gården Värö-Backa 17:12 hamnar inom centrumstråket, vilket möjliggör att byggnaderna kan
+användas på olika sätt. Konsekvensen för kulturmiljön avgörs om gårdsbebyggelsen får
+någon typ av långsiktigt skydd i form av skydds- och varsamhetsbestämmelser i detaljplan.
+•  Konsekvensen för kulturmiljöns karaktär beror också på hur ny bostadsbebyggelse
+skulle kunna utformas, både inom byn och i eventuella nya områden nordost om byn
+beträffande placering, bevarande av äldre vägsträckningar, stenmurar, gränser och
+siktlinjer.
+•  Bymiljön präglas av flera olika tidsskikt framför allt vad gäller bebyggelsen. Den kan
+därför tåla en viss förtätning och förnyelse om det görs med enstaka nya inslag med
+en småskalig och agrar prägel. En möjlighet är också att se vad som kan rymmas inom
+Utvecklibnegfsinintlriigkatn biyngggenna der och hur de kan användas.
+Områdets olika kulturmiljöer visas hänsyn genom att både skydda och utveckla
+Fmoirljmöeurlneari. nPglaetns ei nust vkeacrkalkintägrs sstormat oedgilnin, gbsebtyrgädff aänr dpeå tkaugltliugr mi eitltjö uetrbnyag,g sto Vmä rdöebna scekra .u t idag, är
+oJotryddblirgu;k ”smarken omsluter stationsorten och karaktärsfulla delar som kyrkan och gårdarna i
+Backa by, norr om Varbergsvägen, är synliga delar i det öppna landskapet.
+” Det är mer av en
+beskrivande text och det framgår inte om detta är något som ska bevaras eller eftersträvas.
+Stadsmässighet längs Varbergsvägen är svårt att förena med inriktningen av platsens
+karaktär. Det beror förstås på vad som läggs i ordet stadsmässig och konsekvensen för
+kulturmiljövärdena är beroende av detta. Om den nya bebyggelsen och skapandet av ett
+centrum längs Varbergsvägen ska bygga vidare på Väröbackas karaktär och läge i
+landsbygden bör förebilden inte vara en karaktär av en större stad utan snarare av äldre
+tätort/by/samhälle, se vidare under riktlinjer för fortsatt planering.
+
+<!-- sida 255 -->
+
+Samlad bedömning
+
+Exploateringen i planområdet kan till viss del förenas med kulturmiljövärdena. En del inslag
+påverkar dock de kulturhistoriska karaktärsdrag och riktlinjer som lyfts i
+kulturmiljöutredningen.
+Ur lokalt perspektiv är kyrkbyn och gårdarna vid Backa by särskilt värdefulla kulturmiljöer
+att bevara. Kyrkbyn bevaras enligt planförslaget men siktlinjerna mot kyrkan kommer att
+minska.
+
+Gårdsmiljön vid Backa by kommer att påverkas negativt av planförslaget genom att den
+historiska läsbarheten i landskapet försämras genom att bebyggelsen tar odlingsmarken
+söder om gårdarna i anspråk. Själva husen bevaras men gårdsmiljöerna förlorar delvis sitt
+sammanhang och den historiska läsbarheten i landskapet försämras. Marken bakom
+Värdena bedöms som små-måttliga och effekterna kan bli måttliga-stora. Konsekvenserna
+gårdarna bevaras som ett grönstråk vilket är positivt för miljön.
+påverkas av vilken hänsyn och anpassning som görs i fortsatt planering. Det är av stor vikt att
+ta hänsyn till kulturhistoriska värden och strukturer. Sammantaget bedöms konsekvenserna av
+planförslaget på kulturmiljön bli måttliga.
+Förslag på åtgärder
+
+I konsekvensutlåtandet av Kulturmiljö Halland 2023 (Kulturmiljö Halland, 2023), beskrivs att
+det ut kulturmiljösynpunkt hade varit bäst att inte bebygga marken runt Backa by. Om beslut
+ända tas att bebygga marken bör strävan vara att fånga upp och bygga vidare på
+karaktärsdrag som finns. Strukturen av gårdsmiljöerna längs höjdryggen bör vara avläsbar
+även i fortsättningen. Nedanstående punkter är förslag på åtgärder som ges i det
+konsekvensutlåtande som är gjord av Kulturmiljö Halland (Kulturmiljö Halland, 2023).
+Varbergs kommun har arbetat in flera av dessa punkter i samrådsförslaget och kommer
+forts•ä tta att arbeta vidare med några av dem under den fortsatta planeringen.
+
+Någon typ av zon, exempelvis grönområde och/ eller väg, bör finnas även längs byns
+sydvästra sida mot Varbergsvägen för att byns särställning ska framträda. Detta gäller
+framför allt i byns nordvästra delar, se Figur 28.
+
+Figur 30. Den blå rektangeln markerar den mest känsliga och landskapsmässigt och visuellt mest
+avläsbara delen av byn och dess struktur. (Kulturmiljö Halland, 2023)
+
+46
+
+<!-- sida 256 -->
+
+47
+•
+Vägarna mellan Varbergsvägen och de olika gårdslägena bör bevaras, företrädesvis
+•  med grusbeläggning och bevarade stenmurar där sådana finns.
+Stenmurarna i området, såväl de längs vägar, fastighetsgränser som runt gårdarna
+•  bör så långt det är möjligt bevaras och få ett skydd i framtida planläggning.
+•  Lövträdsdungar bör så långt det är möjligt bevaras och ingå i ortens grönstruktur.
+Placering av ny bebyggelse bör ta hänsyn till äldre fastighetsgränser vilka, så långt det
+•  är möjligt, bör vara synliga i landskapet.
+Placering av ny bebyggelse bör ta hänsyn till viktiga siktlinjer mellan Varbergsvägen
+•  och kyrkan.
+Markanvändning inom Backa by bör möjliggöra gårdsbebyggelsen fortsatta
+bevarande och användning. Befintliga byggnader bör kunna användas till såväl
+•  bostäder som verksamheter.
+Gårdsbebyggelsen bör även i fortsättningen omges av trädgårdar, det vill säga med
+tomtstorlek som möjliggör trädgård. Detta bör även gälla vid tillskapande av ny
+•  bebyggelse inom bystråket.
+Bestämmelser bör begränsa hårdgörande av marken inom byn för att bevara den
+äldre, lantliga karaktären. Detta är också något som skulle kunna fångas upp i den nya
+•  bebyggelsen.
+Ny bebyggelse inom byn är möjlig i begränsad omfattning. Den kan utformas som
+tillägg inom befintliga gårdsmiljöer eller i nya lägen med hänsyn till siktlinjer. Ny
+bebyggelse bör ha en traditionell utformning. Lämpliga utformningsbestämmelser
+bör arbetas fram för ny bebyggelse i och med framtida detaljplaner. Det är olämpligt
+•  med högre bebyggelse i området mellan Backa by och kyrkbyn.
+Ur kulturmiljösynpunkt är det lämpligast att låta tätorten växa först längs
+•  Varbergsvägen och i andra delar och sista hand ta område B7 och B8 i bruk.
+Strävan bör vara att befintlig gårdsbebyggelse ska bevaras, användas och vid
+förändringar i huvudsak bevara sin karaktär. Beskrivande text i FÖP bör tydliggöra
+•  detta och tas med i framtida detaljplaner.
+Kulturhistoriskt värdefull bebyggelse bör få ett skydd i detaljplan. Detta gäller
+framför allt går den Liden, Värö-Backa 12:2 och Värö-Backa 17:12. Vid planläggning
+bör det dock utredas om fler byggnader på andra gårdar kan komma i fråga för skydd-
+•  och varsamhetsbestämmelser.
+Utvecklingsstrategi och text i FÖP bör förtydligas vad gäller inriktningen för
+kulturmiljön. Bevarandeintentioner bör förtydligas – var och vad som ska bevaras och
+hur kulturmiljön ska kunna utvecklas. Ur kulturmiljösynpunkt är det att föredra att
+befintlig bebyggelse, struktur och karaktärsdrag ska vara utgångspunkten och skapa
+•  ramar för utveckling.
+Begreppet "stadsmässigt" bör förtydligas. Om bebyggelsen ska bygga vidare på
+Väröbackas karaktär och läge i landsbygden bör förebilden vara mer karaktär av
+äldre tätort/by/samhälle. Något tätare bebyggelse kan passa bra och skapa mer av en
+centrumkänsla. Husen bör dock fort farande vara uppdelad i mindre enheter och inte
+skapa en sluten kvarterstruktur. Husen bör vara olika, vara fristående från varandra
+och vara i ungefär 1–3 våningar. I lägen längre norrut, bortom Backa by, kan troligen
+enstaka högre hus vara möjliga (Kulturmiljö Halland, 2023).
+
+<!-- sida 257 -->
+
+•
+Till granskningshandlingen har kommunen ett kompletterande kartskikt med
+•  potentiella fornlämningsområden.
+
+Till granskningshandling har även kopplingen förtydligats mellan enskilda
+utbyggnadsområden och de siktlinjer som identifierats som primära att värna över
+tid.
+6.3  NATURMILJÖ OCH BIOLOGISK MÅNGFALD
+
+Förutsättningar
+
+Naturen i landskapet – den gröna infrastrukturen
+
+Det finns en första version av framtagen för Handlingsplan för grön infrastruktur
+(Länsstyrelsen Hallands län, 2018).
+Väröhalvön rymmer flera olika naturtyper, från kustens klippområden, våtmarker och
+strandängar, till betesmarker med gamla ädellövträd och lång hävdkontinuitet.
+Jordbruksmarken är dominerande i den centrala och östra delen av halvön, med insprängda
+mindre betesmarks- och skogsområden.
+
+Området kring Väröbacka och Limabacka domineras av ett aktivt brukat odlingslandskap
+med inslag av vattendrag, skogspartier, betade strandängar och betesmarker. Dessa är
+påverkade av omgivande landskap och på många platser saknas fungerande
+spridningssamband.
+Planområdet hyser höga naturvärden kopplade till strandängarna, jordbrukslandskapet, de
+mindre skogsområdena, vattendragen och närheten till kusten. Nedan beskrivs naturtyperna
+Strandängar
+kort och dess förutsättningar och hot för bevarande av biologisk mångfald.
+har ofta ett mycket ett rikt fågelliv. De flacka breda trädlösa markerna lockar
+under häckningstiden till sig mänger av vadare, änder och gäss. De har ofta sina bon på
+strandängarna och födosöker i gräset eller i grunda vattensamlingar. Under flyttningen är
+områdena rastplatser för många arter som fyller på energiförråden inför den fortsatta
+flyttningen. För att strandängarna skall var fågelrika krävs att gräsmarkerna ska ha låg
+vegetationshöjd och det ska inte finnas träd eller buskar. Detta uppnås ofta om markerna
+betas av tillräckligt antal nötkreatur. Spridda vattensamlingar och svagt sluttande stränder
+utan vegetationsbarriärer höjer värdet på området. Viktigt är förstås att fåglarna inte störs
+under häckningen eller när de rastar. Tofsvipor och strandskator kan födosöka på
+närliggande åkrar där daggmask är huvudfödan.
+De häckande fåglarna på strandängarna har kartlagts åtminstone sedan 1970 och sedan år
+2002 har Länsstyrelsen ett uppföljningsprogram på de 25 viktigaste områdena. Detta
+program visar att vadarna, utom skärfläcka, minskat mycket kraftigt på strandängarna i norra
+Halland och mellan år 2002 och 2017 har bestånden mer än halverats.
+Sedan 1970 har fyra vadararter försvunnit som häckfåglar: roskarl, brushane och 2018 var
+det första året som inte kärrsnäppa och rödspov häckade i Halland. Läget för de häckande
+vadarna är alltså kritiskt. Orsakerna är inte helt klarlagda, men igenväxning, mänsklig
+störning och förhöjd predation är faktorer som orsakar minskning. (Länsstyrelsen Hallands
+Sjöar och vattendrag
+län, 2018).
+med sina strandmiljöer skapar livsmiljö och spridningskorridorer för
+Odlingslandskapet
+både vatten- och landlevande arter.
+hyser småbiotoper som är viktiga livsmiljöer för odlingslandskapets
+arter såsom solitära träd, småvatten, betade åkerholmar eller anlagda kulturspår som alléer,
+stenmurar, odlingsrösen, öppna diken och märgelhålor. Dessa småbiotoper ger
+förutsättningar för biologisk mångfald och fungerar många gånger som spridningskorridorer
+för många arter. De upprätthåller viktiga ekosystemtjänster såsom pollinering av grödor,
+48
+
+<!-- sida 258 -->
+
+49
+biologisk bekämpning av växtskadegörare och som nedbrytare av dött organiskt material.
+Det kan indirekt bidra till bättre skörd och lägre behov av växtskyddsmedel.
+Hallands län är rikt på lämningar efter äldre tiders jordbruk men sedan mitten av
+nittonhundratalet har jordbrukslandskapet gått från att vara mer variationsrikt till ett
+landskap med större sammanslagna åkerfält utan småbiotoper och det har utarmat den
+bNiaotluogrlisigkaa gmråänsgmfaalrdkeenr.
+är ett samlingsbegrepp för naturbetesmarker och slåtterängar. De
+naturliga gräsmarkerna är de viktigaste komponenterna för biologisk mångfald i
+odlingslandskapet. Naturbetesmark är gräsmark som betas av tamdjur och som inte tillförs
+extra gödsel eller bekämpningsmedel. Den kan vara helt öppen eller delvis bevuxen med träd
+och buskar. Den ska inte ha varit gödslad eller plöjd i sen tid.
+En möjlig potential för arter knutna till odlingslandskapets miljöer är nya typer av hävdade
+biotoper såsom vägkanter, golfbanor, gräsmarker i stadsmiljö och ledningsgator.
+En stor utmaning för den gröna infrastrukturen och den biologiska mångfalden är
+människans fragmentering av landskapet genom ny bebyggelse, vägar och järnvägar. Detta
+beror inte bara på att mark tas i anspråk och det blir en ändrad markanvändning utan också
+av den barriäreffekt detta också ofta får. En ändrad bullerbild och rörelsestörning kan få
+konsekvenser som ibland kan vara svåra att förutspå. I ekosystem finns det ofta
+komplicerade samband, där vissa arter eller naturtypers minskning eller ökning påverkar en
+rSakdy dadnaddra n aarttuerr .
+Riksintresse Klosterfjorden-Getterön
+Planområdet ligger i delar inom riksintresse för naturvård, Kuststräckan Klosterfjorden –
+Getterön (Riks-ID 13009).
+Riksintresset har stora geovetenskapliga värden, bland annat genom det system av
+ändmoräner som präglar Balgöfjordens morfologi. Balgöfjorden är även av marinbiologiskt
+intresse. I området finns ett väl bevarat och varierat, öppet kulturlandskap av stort värde.
+Representativa naturbetesmarker utgörs av havsstrandäng, ljunghed, buskrik utmark, annan
+öppen utmark, öppen hagmark och annan träd- och buskbärande hage. Här återfinns delvis
+art- och individrika växtsamhällen med hävdgynnade arter. Havsstrandängarna är även
+värdefulla rast- häcknings- och vinterlokaler för vadare och sjöfågel. Lokalerna är Getterön,
+Fyrstrandsfjorden, Balgö-Grässkär, Årnäsudden, Klosterfjorden och Båtafjorden. Getterön är
+även ett internationellt utpekat värdefullt våtmarksområde, sk Ramsarområde.
+•
+Huvudkriterier för riksintresset:
+•
+Framstående exempel på kustlandskap som särskilt väl visar landskapets utveckling
+•
+Hotade eller sårbara biotoper och arter
+Mycket rikt växt- och djurliv
+Området hyser ett öppet, betespräglat kustlandskap och vegetationen är mycket varierad. De
+representativa naturbetesmarkerna utgörs av havsstrandäng, ljunghed, buskrik utmark,
+annan öppen utmark, öppen hagmark och annan träd- och buskbärande hage och har
+vegetationstyper som sandrished, saltgrässtrandäng, ljunghed, rödvenhed, hällmarkstorräng,
+fårsvingeltorräng, tuvtåteläng, staggäng och salttågstrandäng. Här återfinns delvis art- och
+individrika växtsamhällen med hävdgynnade arter som revigt saltgräs, salttåg, blåsklöver,
+trift, gulkämpar, käringtand, granspira, klockljung, kattfot, jungfrulin, backtimjan, stagg och
+ljung.
+Vid Båtafjorden övergår havsstrandängarna inåt land i vidsträckta översvämningsmarker
+utmed Stora Även. Fågellivet är synnerligen rikt i området och Getteröns fågelreservat har
+utpekats som ett internationellt värdefullt våtmarksområde av högsta skyddsvärde, ett så
+
+<!-- sida 259 -->
+
+kallat Ramsar-område. Reservatets betydelse understryks av att området ligger längst i
+sydväst i en serie fågelrika sankmarksområden i landet (t ex Tåkern och Hornborgasjön) och
+utnyttjandet blir därför mycket intensivt, särskilt under höststräcket. Stora ansamlingar av
+vadare och änder, bl a tusentals krickor, bläsänder och gräsänder, utnyttjar Getterön som
+rastlokal under vår och höst. Även antalet häckande arter är stort.
+
+Andra särskilt värdefulla rast- och häckningsplatser för vadare och änder i området är
+strandängarna i de inre delarna av Båtafjorden och Klosterfjorden samt på Balgö.
+Strandängarna vid Getterön och Båtafjorden har tätheter av häckande vadare som troligen
+saknar motsvarighet i landet. Exempel på arter som häckar i området är småtärna, skärfläcka,
+brushane, rödspov, kärrsnäppa och snatterand. Arter som regelbundet uppehåller sig i
+området under skilda tider på året är t ex havsörn, pilgrimsfalk, fiskgjuse, berglärka,
+jorduggla och salskrake.
+Getteröns fågelreservat är av internationellt intresse som rastlokal för sjöfågel och vadare.
+Strandängarna vid Getterön, de inre delarna av Klosterfjorden och Båtafjorden samt på Balgö
+tillhör sammantaget landets främsta häckningsplatser för vadare. Fågellivet är även i övrigt
+Riksintresse - Natura 2000 Båtafjorden
+rikt och ett flertal hotade arter förekommer.
+
+Del av rSitkosrian tÄrveesnset Klosterfjorden-Getterön är också ett Natura 2000-området, Båtafjorden,
+se Figur 7. Området är cirka 255 ha stort och består av en flack strandäng längs Båtafjorden
+där ån     rinner samt det grunda havsområdet som ligger utanför. Ängarna med den
+mosaikartade strukturen har en unik häckfågelfauna och området är en av Hallands
+fågelrikaste lokaler.
+
+Enligt bevarandeplanen för området är syftet att bevara eller återställa ett gynnsamt tillstånd
+för de arter som utgjort grund för utpekandet av området. De ansvarsarter som är utpekade
+och som ska bevaras i området är:
+•  Brun kärrhök, Circus aeruginosus
+•  Blå kärrhök, Circus cyaneus
+•  Stenfalk, Falco columbarius
+•  Pilgrimsfalk, Falco peregrinus
+•  Skärfläcka, Recurvirostra avosetta
+•  Ljungpipare, Pluvialis apricaria
+•  Brushane, Philomachus pugnax
+•  Myrspov, Limosa lapponica
+•  Grönbena, Tringa glareola
+•  Smalnäbbad simsnäppa, Phalaropus lobatus
+•  Småtärna, Sternula albifrons
+Natu•rvåSrdydsplirgo kgärrarmsn äppa, Calidris alpina schinzii
+
+Varbergs kommun har ett naturvårdsprogram och tre utpekade värdefulla naturområden
+finns inom eller delvis inom planområdet, Båtafjorden, Klosterfjorden och Värö-Sunnvära.
+Båtafjorden (304,2 ha)
+Två av dem är kopplade till delar av riksintressena Båtafjorden och Getterön-Klosterfjorden.
+Områdets sydöstra hörn ligger inom planområdet och utgörs av Båtafjordens inre delar som
+domineras av havsstrandängar med inslag av öppen hedmark.
+
+Området är som beskrivits ovan under rubrik Natura 2000 Båtafjorden en av de högst
+värderade fågellokalerna i norra Halland och bara några få områden med liknande täthet och
+mängden häckande vadarfåglar finns i hela landet.
+Enligt naturvårdsprogrammet förekommer viss störning på fågellivet under sommarhalvåret
+i och med bad och vindsurfing i det inre av fjorden. Förutsättningarna för fågellivet skulle
+kunna förbättras ytterligare genom återskapande av grunda vattensamlingar i de sankare,
+
+50
+
+<!-- sida 260 -->
+
+51
+yttre delarna av havsstrandängen och för fåglar och groddjur i något högre liggande delar,
+främst med hänsyn till möjligheten att återintroducera stinkpadda. Såväl trädvegetation i
+omgivningarna som uppstickande stolpar och likande inom området bör uppmärksammas
+och om möjligt reduceras för att öka tryggheten för vadarfåglarna.
+Fågelskydd med beträdnadsförbud under häckningstid bör enligt naturvårdsprogrammet
+övervägas.
+Utöver häckningsperioden har området också ett rikt fågelliv under vår- och höststrecket då
+stora mängder flyttfågel går ner för att rasta i fjorden och på strandängarna.
+Området ligger inom riksintresse för naturvård Klosterfjorden-Getterön och Natura 2000
+Båtafjorden.
+Klosterfjorden (653,5 ha)
+Klosterfjorden består av artrika och delvis välbetade naturbetesmarker i en variationsrik
+helhetsmiljö av högsta klass. Värdefull landskapsbild i de norra delarna som till stor del ligger
+inom planområdet.
+Havsstrandängarna och naturbetesmarkerna i de inre delarna av Klosterfjorden hyser ett rikt
+fågelliv och annan mångfald. Flertalet av naturbetesmarkerna hävdas ännu väl, men flera har
+också börjat växa igen. Enligt naturvårdsprogrammet är det av högsta vikt att anslutande
+odlingsmarker norr om området och upp mot Väröbacka bibehålls öppna och brukade. Likaså
+bör beteshävd och/eller röjningar återupptas på många marker i både norr och söder, som
+nu börjat hotas av igenväxning.
+Längst in i fjorden ligger en ca 30 hektar stor havsstrandäng med brackvattenpåverkade
+fuktängar. Det finaste inslaget i floran är den rikliga förekomsten av darrgräs och mer
+sparsamma inslag av hästsvans och smultronklöver. På ön i Viskan växer strandstarr.
+Vid en häckfågelinventering 1990 noterades häckande tofsvipa, rödbena och strandskata och
+också ett mindre antal häckningar av kärrsnäppa och rödspov. Utökningen av västkustbanan
+har minskat arealen lämplig häckningsmark men trots detta uppges skärfläcka, strandskata,
+större strandpipare, mindre strandpipare, tofsvipa och enkelbeckasin som sannolikt
+häckande vadare. Bland intressanta häckfåglar anges i övrigt knölsvan, årta, brun kärrhök,
+gulärla, steglits och gråsiska. Havsörn och pilgrimsfalk ses regelbundet i området vintertid.
+Huvuddelen av området ligger inom riksintresseområde för naturvården Klosterfjorden-
+Värö – Sunnvära (156,5 ha)
+Getterön och till viss del riksintresse för friluftsliv.
+Öppet småkuperat odlingslandskap med ändmoräner mellan Sunnvära och Värö-Backa.
+Området ligger i de centrala delarna av ett större ändmoränstråk ligger tydligt utsträckta i ett
+vackert kuperat odlingslandskap. Området har en komplicerad och intressant geologi.
+Kopplade till den geologiska och kulturhistoriska bakgrunden finns höga naturvärden i
+gräsmarker och lövträdsdungar.
+Uppe på åsen vid Jättahögen och på en mindre ås i söder finns små partier med en välbevarad
+och artrik gräsmarksflora. Vid 1800-talet var hävden slåtter med bete efter skörden. Idag
+betas markerna vid Jättahögen av får, i övrigt osäkert. Floran är örtrik med mycket ängsvädd,
+gullris, ljung och liten blåklocka. På Jättahögen, liksom på åsen söder om denna växer
+backsippa, brudbröd (Ängs- och betesinventeringen 2004). På västsidan av åsen går en
+gammal hålväg med blomsterrika vägkanter.
+Norrut från gravfältet fortsätter den gamla vägen upp mot Värö kyrka. Här växer ett
+halvdussin gamla vidkroniga ekar. Direkt väster om vägen ligger en ca 5 ha stor och yngre
+ek/alskog, resterna av kyrkans gamla kohage.
+Vaktel och sommargylling har noterats i området under häckningstid. Området är för övrigt
+dåligt känt ornitologiskt.
+
+<!-- sida 261 -->
+
+Nyckelbiotoper och inventerade ängs- och hagmarker
+
+I planområdet finns flera områden upptagna i Jordbruksverkets ängs- och
+hagmarksinventering samt en av Skogsstyrelsen utpekad nyckelbiotop, en alsumpskog
+(VNä6rd7e7f7u-l1la9 n9a5t)u. r miljöer
+
+Det har inom planområdet utförts två naturvärdesinventeringar enligt SIS-standard under
+åren 2020-2023. Dessa naturvärdesinventeringar bifogas i sin helhet i Bilaga 2-4.
+
+Skalan för naturvärdesklassningen följer den standardiserade metoden för
+naturvärdesinventering (SS 199000: 2014), med fyra naturvärdesklasser för klassificering av
+värdefulla naturmiljöer.
+Vid dessa naturinventeringar har naturvärdesobjekt/naturvärdesbiotoper som utgör
+områden med ett naturvärde avgränsats och dessa visas i Figur 29 och Figur 30.
+Beskrivningarna av respektive objekt finns i sin helhet beskrivna i respektive
+inventeringsrapport i Bilaga 2-4.
+
+52
+
+<!-- sida 262 -->
+
+53
+Figur 31. NVI norra delen av planområdet (Calluna AB, 2020).
+
+<!-- sida 263 -->
+
+Figur 32. NVI sydöstra delen av planområdet (Calluna AB, 2023)
+
+Vid naturvärdesinventeringen som utfördes i södra delen av planområdet på fastigheten
+Värö-Backa 8:14 (MiNA natur AB, 2021) pekades inga ytor av särskilt naturvärde ut. Detta
+område präglas av åkermark med stenmurar i ägogränserna. Några diken och en mindre
+tSrkäydddduandgee afirntenrs här men ingen av dessa bedömdes utgöra naturvärdesobjekt.
+
+Inga riktade artutredningar har ännu gjorts i samband med planens framtagande. Det finns
+sannolikt ett behov av det lite längre fram i planeringsprocessen för flera artgrupper i delar
+av området.
+
+54
+
+<!-- sida 264 -->
+
+55
+•
+Det har i naturvärdesinventeringarna noterats ett flertal skyddade arter:
+Vid inventeringen 2020 identifierades fridlysta arter i norra delen av planområdet
+bl.a. hasselmus, backsippa, mattlummer och 42 fågelarter (skyddade enligt 4 §
+•
+artskyddsförordningen) (Calluna AB, 2020).
+I södra området finns enligt naturvärdesinventering 2021 MiNA natur (2021) en
+notering om att det inte kan uteslutas att sånglärka och ängspiplärka kan häcka i
+området. Groddjur har aktivt eftersökts i de våtmarksmiljöer som finns i
+invnteringsområdet men inga fynd av groddjurlek (romklumpar) hittades här. Längs
+stenmurar och i buskskiktet har det också eftersökts så kallade sommarbon av den
+fridlysta hasselmusen som har kända fynd på Väröhalvön. Inga fynd av sådana
+•
+sommarbon kunde hittas då i detta område.
+Vid inventeringen i sydöstra delen av planområdet noterades 13 fridlysta arter och i
+utsök från SLU Artdatabankens databaser återfanns ytterligare. De fridlysta
+prioriterade fågelarterna: brun glada, flodsångare, gråsparv, grönfink, gulsparv,
+jorduggla, skogsduva, sångsvan, sävsparv, röd glada, brun kärrhök, berguv, entita,
+grönsångare, spillkråka, stare, svartvit flugsnappare, tofsvipa, törnskata och
+ärtsångare. I detta område har också hasselmus, mindre vattensalamander och vanlig
+snok noterats.
+Väröhalvön utgör en viktig del av hasselmusens utbredningsområde i Varbergs kommun. På
+Väröhalvön finns två kärnområden, Lahall i söder och Gloppe i norr.
+Det finns ett flertal prioriterade fågelarter förknippade med jordbrukslandskapet, förutom de
+ovan nämnda, noterade bl.a. kornknarr, kornsparv, rapphöna, vaktel och buskskvätta.
+Det finns ett flertal arter av rovfåglar som både skulle kunna häcka men även födosöka i
+området bl.a. havsörn, bivrå, brun och blå kärrhök. Berguv finns också i norra delen av
+Varbergs kommun.
+Det finns också som tidigare beskrivits ett mycket rikt fågelliv som är kopplade till
+strandängarna. Några av de arterna använder också jordbruksmarken som födosöksområde
+tidigt på säsongen.
+Enligt 4 § 4 punkten artskyddsförordningen, är det förbjudet att skada eller förstöra de
+skyddade arternas fortplantningsområden eller viloplatser. Förbudet för fåglar aktualiseras
+vid åtgärder som avsiktligen stör fåglar under deras häcknings- och uppfödningsperioder,
+och störningar som har betydelse för att bibehålla eller återupprätta populationen på en
+tillfredsställande nivå.
+
+<!-- sida 265 -->
+
+REKOMMENDATION GÄLLANDE PRIORITERING AV FÅGELARTER
+Alla vilt förekommande fågelarter är skyddade enligt 4 § artskyddsförordningen. När syftet med en
+åtgärd är annat än att fånga eller döda fåglar kan utredningen begränsas i det enskilda fallet och en
+bedömning göras för fågelarter där en tillfredställande nivå̊ för populationen riskerar att inte kunna
+upprätthållas. Kriterier för sådana fågelarter är:
+• Arter markerade med B i artskyddsförordningens bilaga 1 (betyder att de är upptagna i bilaga
+1 till EU:s fågeldirektiv)
+• Rödlistade arter
+• Arter vars populationer har minskat med 50% sedan 1980
+(Naturvårdsverket & Skogsstyrelsen, 2022)
+IDENTIFIERA FÅGELARTER MED MINSKANDE TREND – CALLUNAS METOD
+För att identifiera vilka arter vars populationer har minskat med 50% eller mer sedan 1980 använder
+Calluna den lista på fåglar som Sverige i den s.k. Artikel 12 rapporteringen för fågeldirektivet, har
+rapporterat till EU. Rapportering av fågeldirektivet görs vart sjätte år. Den senaste rapporteringen
+skedde 31 juli 2019 och där gjordes en trenduträkning för perioden 1980–2018. SLU Artdatabanken
+sammanställer rapporteringen av artikel 12 tillsammans med Lunds universitet på uppdrag av
+Naturvårdsverket (SLU Artdatabanken Artikel 12-rapportering fågeldirektivet 2018, in prep). Eionet är
+hemsidan där all data som Sverige rapporterade 2019 enligt fågeldirektivet finns publicerad.
+
+Påverkan och konsekvens
+
+Naturen och biologiska mångfalden
+
+I FÖP Väröbacka finns en viljeinriktning att det ska finnas gröna platser och stråk som binder
+samman ortens olika delar och leder ut till det omgivande landskapet. Genomtänkta,
+användbara och tillräckligt stora gröna ytor och stråk samt siktlinjer i landskapet är en viktig
+del i planen. Den sammanhängande grönstrukturen är tänkt att bidra till områdets identitet
+och ekosystemtjänster utvecklas tillsammans med grönområden som kan inrymma många
+olika funktioner. Det är dock viktigt att utreda hur de olika artgrupperna använder
+landskapet och hur de gröna sambanden utformas bäst och med tydliga ekologiska mål.
+
+Nya bostadsnära parker och natur i anslutning till nya bostadskvarter och befintlig
+bebyggelse, nya alléer längs huvudgator och nya gröna stråk exempelvis söderut mot havet
+planeras och sådana initiativ stärker den gröna infrastrukturen.
+En ändrad markanvändning kan påverka den biologiska mångfalden både positivt och
+negativt. I jordbrukslandskapet kan ett alltför ensidigt brukande minska antalet småbiotoper
+i landskapet och användandet av bekämpningsmedel kan påverka bland annat pollinerarna
+negativt. Många livsmiljöer och arter i jordbrukslandskapet är också beroende av jordbrukets
+störningar såsom betesmarker och slåtterängar och dessa kan riskera att växa igen vid
+ändrad markanvändning. Många arter är knutna till de öppna jordbrukslandskapen med
+bryn, åkerholmar, stenmurar och de småvatten som finns här. Det öppna landskapet nyttjas
+som jaktmark och viloplats för flera fågelarter men även andra artgrupper kan vara beroende
+av de öppna markerna.
+
+Enligt planen ska befintliga tätortsnära skogar inom orten och i närområdet utvecklas och om
+detta görs på ett sätt som stärker den biologiska mångfalden t.ex. genom att använda
+hyggesfritt skogsbruk och stärka kantzonerna med bryn mot det öppna landskapet är det
+positivt för den biologiska mångfalden.
+Gestaltad och öppen dagvattenhantering stärker också det den grön-blå infrastrukturen om
+dammar, diken och annat öppet vatten designas för den biologiska mångfalden.
+Inom planområdet finns flera områden och värdeelement som kan vara intressanta ur ett
+artskyddsperspektiv. Det finns i området sådana strukturer eller kvaliteter att de sannolikt
+nyttjas regelbundet som fortplantningsområde och/eller viloplats för skyddade arter enligt 4
+
+56
+
+<!-- sida 266 -->
+
+57
+a § 4 punkten och/eller som livsmiljö för fågelarter prioriterade av Naturvårdsverket (se
+faktaruta ovan).
+Det finns flera så kallade prioriterade fågelarter som skulle kunna påverkas negativt av att
+jordbruksmark tas i anspråk. Både arter kopplade till jordbruksmarken och dess bryn och
+småbiotoper bl.a. kornknarr, kornsparv, rapphöna, vaktel och buskskvätta. Jordbruksmarken
+används också som rastplats eller som födosöksområde för många arter. Både havsörn och
+berguv finns i norra delen av Varbergs kommun.
+Hasselmus finns inom planområdet och påverkan på arten och dess livsmiljöer behöver
+utredas.
+Fler människor och en ökad rörelse riskerar att öka slitaget och störning i naturområdena.
+Besökstrycket behöver eventuellt styras upp i de mest känsliga naturområdena, exempelvis
+vid strandängarna med dess rika fågelliv.
+Det finns närliggande naturområden med höga-mycket höga naturvärden. Den marken som
+planeras för bebyggelse undviker helt områden med höga naturvärden vilket är positivt
+liksom att planeringen har höga ambitioner att säkra och utveckla grön och blå infrastruktur.
+Dock minskar de öppna jordbrukslandskapen och en utbyggnad leder till ökade störningar
+med mer trafik, sbmuåll-emr,å btetlsiögka in gergöantiovma rkåodnesnek, lvjeunssföerr oförer nniantguarrm viilljköe otc ähv deenn k boimolmogeirsk ma edföra
+nmeågnagtifvaald eefnfekter. Sammantaget bedöms planförslaget med anpassningar och skyddsåtgärder
+kunna medföra
+.
+Hur enskilda arter påverkas av planförslaget är svåra att förutspå i detta tidiga skede
+Påverkan är till stor del beroende av den hänsyn och de skyddsåtgärder som kan tas vid
+exploateringarna. Riktade artinventeringar och artskyddsutredningar kommer sannolikt att
+bReikhsöivnatrse is dseetna lfjöprl annaetsukrveådredt.
+Natura 2000 – Båtafjorden
+En exploatering i närheten av Båtafjorden, längs ån Stora Även och omgivande öppna
+jordbrukslandskap skulle kunna påverka riksintresset negativt. Stora Även rinner genom
+planområdets norra del och fortsätter vidare in genom Natura 2000-området Båtafjorden. Ån
+är en vikt ig del av områdets naturvärde och är av betydelse för fågelfaunan då flera arter
+söker föda i och vid åns närområde bl.a. troligen pilgrimsfalk, stenfalk, blå kärrhök och brun
+kärrhök.
+Om betesmarker och viktiga element såsom trädridåer, vattendrag och stenmurar i åkermark
+sparas och exploateringsgraden inte blir allt för stor minskar påverkan. Det är också av stor
+vikt att vattenkvaliteten inte försämras och hanteringen av dagvatten och skyfall utreds noga
+i aktuella detaljplaner och samordnas inom avrinningsområdet för att säkerställa detta. VA-
+utredningen visar att det är möjligt att bygga ut området och samtidigt inte påverka
+miljökvalitetsnormerna negativt (Ramboll Sweden AB, 2023).
+För att kunna bedöma påverkan på skyddsarterna i Natura 2000-området behövs en studie
+över hur åkermarken som ska exploateras används av de olika fågelarterna och hur en
+störning från exploateringen skulle kunna påverka. Kumulativa effekter från
+havsnivåhöjningen behöver också beaktas. Prövning enligt Natura-2000-lagstiftning kan
+komma att bli aktuell i kommande detaljplaner.
+•
+Exempel ur bevarandeplanen som skulle kunna påverka Natura 2000-området negativt:
+•  All typ av exploatering, byggnation, anläggande, grävning, schaktning m.m. som kan
+•  skada naturtyper.
+•  Dikning, rensning, andra åtgärder som kan påverka hydrologin.
+Ändrad markanvändning på omgivande mark.
+Höga träd, byggnader, belysningsstolpar i och utanför öppna ytorna.
+
+<!-- sida 267 -->
+
+•
+•
+Störning orsakade av exempelvis hundar och rörligt friluftsliv.
+Exempelvis kan bostädernas utformning utgöra en påverkan av Natura 2000-området
+och de utpekade fågelarterna.
+Att skapa grönstråk eller tillgängliggöra natur i området mer än idag bedöms som positivt för
+områdets utveckling, även om det i vissa delar kan behöva styras mer än på andra platser.
+Det kan göras med skötselprogram eller naturreservat m.m. som följer av senare planerings-
+eller genomförandeskeden.
+Områdesbeskrivningarna för de naturområden som angränsar till Natura 2000-området har
+justerats från grönstråk till jordbruk i planförslaget till granskning. Det har på så sätt
+förtydligats att dessa inte kommer utvecklas som parkliknande grönstråk utan även
+fortsättningsvis utgöras av natur och odlingsmark. Med hänsyn till det låglänta läget har
+exploateringen i de till Båtafjorden närmsta verksamhets- och idrottsområdena tagits bort
+från planförslaget. Planförslaget bedöms inte öka besökstrycket på Natura 2000-området
+Kellloesrt emrfajrokrodmenr-åGdeettne rnöänr mast intill då inga besökare leds in i riktning mot området.
+
+Förutsättningar för bevarande är att områdets karaktär av oexploaterat skärgårdslandskap
+bibehålles och vattnets kvalitet hålles god. Områdets värde kan påverkas negativt av t ex
+avloppsutsläpp, muddring, tippning, undervattenssprängning, fiskodling, algodling, båthamn,
+vindkraftverk eller annan anläggning, bebyggelseexploatering, friluftsliv i känsliga delar.
+Fortsatt jordbruk med åkerbruk, naturvårdsinriktad betesdrift och skötsel av
+landskapselement. Restaurering av igenvuxna naturbetesmarker. Områdets värden kan
+påverkas negativt av exempelvis minskad eller upphörd jordbruks/betesdrift,
+skogsplantering av jordbruksmark, energiskogsodling, igenväxning, spridning av gifter eller
+gödselmedel, nydikning, täkt, luftledningar, vägdragningar.
+
+Ingen exploatering planeras inom riksintresset men det skulle kunna påverkas negativt av en
+befolkningsökning och på grund av ett ökat besökstryck. I planen finns
+grönstråk/rörelsestråk, söder om Backa gård mot Lahall och Hultakullen, som tillgängliggör
+strandområdet. Detta är självklart positivt för friluftslivet och rekreation men ett för högt
+besökstryck kan utgöra en störning på fågellivet och ett ökat slitage på strandängarna med
+dess mångfald. Om besökstrycket kan styras ifrån de känsligaste områdena och speciellt då
+under häckningssäsong skulle det vara positivt för riksintresset.
+Vid en ökad fragmentering av jordbrukslandskapet finns också en risk att betet upphör och
+att strandängarna på sikt växer igen. Detta skulle kunna motverkas genom att planlägga
+dessa delar som natur och upprätta naturskötselavtal med markägarna.
+
+Den höjda vattennivån som förväntas på grund av klimatförändringarna gör att
+strandängarna successivt kommer att flyttas upp mot land. Planen behöver tillse att det finns
+tillräckligt utrymme för detta i södra delen av planområdet.
+Förslag på åtgärder
+•
+Om möjlig upprätta skötselavtal med markägare för att säkra skötsel och fortsatt
+•
+hävd av strandängarna.
+Utreda hur häckande och rastande fåglar påverkas av ianspråktagandet av
+jordbruksmark. Eventuell fågelinventering i de jordbruksområden som planeras att
+•
+exploateras.
+Utreda hur strandängarna och de fåglar som utgör skyddsarterna i Natura 2000
+Båtafjorden skulle kunna påverkas av planen och då speciellt av den utbyggnad som
+sker närmast det skyddade området. Klimatförändringar och den höjda havsnivån
+behöver beaktas.
+
+58
+
+<!-- sida 268 -->
+
+59
+•
+Identifiera de grönstrukturer som är viktiga spridnings- och rörelsekorridorer för
+•
+hasselmus.
+Identifiera de skyddade arter som skulle kunna påverkas av planen och utarbeta
+•
+skyddsåtgärder för dessa.
+Anpassa den gestaltade dagvattenhanteringen så den gynnar den biologiska
+•
+mångfalden.
+Planera belysning så den inte utgör störning eller barriär för bland annat
+•
+fladdermöss, fåglar och insekter.
+Undvika att exploatera områden med hålträd, stenmurar, stenrösen etc. som ofta
+•
+utgör habitat för skyddade arter.
+Vid anläggande av parker och allmänna grönområden bör växtligheten anpassas till
+•
+omgivande naturmark för att stärka de gröna sambanden.
+Vid fortsatt planering samt inför grävning och masshantering säkerställ att invasiva
+arter inte sprids och bekämpa befintliga bestånd av sådana arter i vatten och på land.
+6.4  FRILUFTSLIV OCH REKREATION
+Förutsättningar
+Målet för den nationella friluftslivspolitiken är att stödja alla människors möjligheter och
+förutsättningar att vistas ute i naturen och utöva friluftsliv där allemansrätten är en grund för
+friluftslivet. Alla människor ska ha möjlighet att få naturupplevelser, välbefinnande, social
+gemenskap och ökad kunskap om natur och miljö. Det övergripande målet för det nationella
+folkhälsoarbetet är att skapa förutsättningar för en jämlik och jämställd hälsa för hela
+befolkningen. Särskilt angeläget är det att hälsan förbättras för grupper som är mest utsatta
+för ohälsa och sjukdom. Fokus har flyttats från faktorer som orsakar sjukdom till faktorer
+som främjar och bestämmer hälsa och välbefinnande. Nationella miljö- och naturvårdsmål är
+också relevanta för det lokala friluftslivsarbetet. Det övergripande målet är att åstadkomma
+en långsiktigt hållbar utveckling – miljömässigt, ekonomiskt och socialt. Resurshushållning
+och hänsyn till vad naturen och människan tål är grundstenar i arbetet, och många av målen
+har stor relevans för friluftslivsarbetet.
+Varbergs kommun har flera planer och program med koppling till friluftslivet. I ”Grönstrategi
+för aktiviteter, upplevelser och biologisk mångfald i Varbergs kommun” har Varbergs
+kommun (2013) formulerat fem delstrategier för att ta vara på den potential och alla de
+•  Vatten
+möjligheter som landskapet, bebyggelsen och natur- och kulturmiljöerna erbjuder.
+- i Grönstrategin för vatten beskrivs att kusten ska vara tillgänglig för alla
+samt strandliv och badkulturen ska utvecklas. Kommunen vill i sin planering se vatten
+som en tillgång och göra det möjligt att röra sig längs vattendrag och utveckla
+•  Förtäta med grönt
+biologiska värden både under ytan och på stranden.
+- kommunen beskriver att de genom förtätning vill utveckla nya
+grönytor med upplevelser och aktiviteter samt biologiska värden. Dom vill planera för
+nya mötespunkter, platser och områden samt utnyttja befintliga ekosystemtjänster
+och skydda grönområden med höga natur- och rekreationsvärden. Mark som förloras
+•  Variationsrikt landskap
+vid byggnation ska ersättas.
+- kommunen vill bevara och utveckla ett variationsrikt
+landskap, med olika landskapstyper, karaktärer och biotoper. Kommunen vill
+utveckla utflyktsområden men samtidigt göra plats för hotade arter och biotoper
+samt anpassa naturvård efter behov.
+
+<!-- sida 269 -->
+
+•  Till fots och till rörelse
+- kommunen vill göra utemiljöer mer tillgängliga. De vill
+skapa lekfulla miljöer och arbeta minska barriärer av infrastruktur så att mer natur
+•  Du kan du får du vågar
+tillgängliggörs.
+- Kommunen vill ge invånare möjlighet att vara med och
+påverka sin omgivning. Man vill arbeta med att göra utemiljöer mer välkomnande
+blanda aktiviteter för olika målgrupper. Kommunen vill experimentera med att skapa
+tillfällig arkitektur samt ge rum för konst och moderna traditioner i den offentliga
+utemiljön. En ambition är också att skapa plats för skolan utomhus så att skolor och
+förskolor har bättre möjligheter till utomhuspedagogik.
+
+Hela planområdet omfattas av riksintresse för rörligt friluftsliv enligt 4 kap 2 § MB. Kusten
+har tillskrivits sina höga friluftslivsvärden för möjligheterna till bad, båtsport, fritidsfiske,
+promenader, ornitologiska studier eller andra naturupplevelser. Denna del av kusten består
+huvudsakligen av öppna vindpinade hällmarksljunghedar och betade strandängar. Den
+relativt sparsamma bebyggelsen är koncentrerad till mindre tätorter. Naturreservat är
+populära besöksmål. I angränsning till planområdet ligger Natura 2000-områden Båtafjorden
+(Länsstyrelsen Halland 2014).
+Kusten är tillgänglig med vägar och för båtliv finns en gästhamn vid Bua. Längs delar av
+kusten går cykelleden Ginstleden på 200km. Vid kusten finns flera badplatser bland annat vid
+Bua Lahall och Sanddamm (Länsstyrelsen Halland 2014).
+
+Väröhalvöns varierande topografi med sitt öppna slättlandskap ger förutsättningar för flera
+vackra utsiktspunkter. För boende i Limabacka och Väröbacka finns närhet till både skogen,
+havet, utflyktsmål och städer. Men för att kunna ta sig till skogen och havet behövs bil
+(Varbergs kommun, 2022).
+Mellan Väröbacka och Limabacka saknas idag bra förbindelser och det är omständligt att i
+nuläget röra sig mellan orterna, på grund av att järnvägen ligger som en barriär mellan
+byarna. Många av invånarna efterfrågar därför bättre möjlighet att på ett tryggt och säkert
+sätt kunna färdas mellan orterna, som fotgängare och cyklist. Det finns i planområdet stor
+potential att utveckla nya gång-, cykel- och rekreationsstråk i orterna och ut till olika
+grönområdena och havet.
+I området finns två sammanhängande skogsmiljöer, Norrmans skog och Backa gårds skog.
+Öster om Limabacka finns Munkadammsskogen, ett skogsområde med skötta slingor även
+Jättahögen är även ett populärt utflyktsmål, se Figur 33 och Figur 34 . För längre promenader
+är det vanligt att man vandrar ut till havet eller mot strandängarna vid Ringhals, bort mot
+Värö kyrka och runt Skolvägen samt Långås skogsområde mot motorvägen (Varbergs
+kommun, 2022).
+
+Figur 33 och 34. Upptrampad stig genom Limabacka skogen samt Båles röse. (Varbergs kommun, 2022)
+
+60
+
+<!-- sida 270 -->
+
+61
+Väster om Väröbacka rinner Lilla och Stora Även. Lilla Även mynnar i Stora Även strax innan
+utloppet i Båtafjorden. Söder om planområdet mynnar Viskan ut i Klosterfjorden. Viskan är
+ett av länets främsta vattendrag för sportfiske. Här fångas bland annat lax och öring.
+Viskan är av riksintresse för friluftsliv enligt 3 kap 6 § MB. Vattendraget har tillskrivits sitt
+värde för dess möjligheter till vattenanknutna friluftsaktiviteter (Länsstyrelsen Halland
+2014).
+Påverkan och konsekvens
+Hela kommunen är attraktiv för sommarboende och turism med högt besökstryck särskilt
+sommartid. Särskild hänsyn behöver därför tas till en hållbar utveckling av friluftslivet samt
+aktiviteter och anläggningar kopplade till detta. Frågor att beakta är slitage på känsliga
+naturområden, värna de friluftsområden som finns idag samt förstärka de gång- och
+cykelstråk som finns till och från dessa ifrån bl.a. Väröbacka och Limabacka.
+Infrastrukturen med en tung trafik samt de nya vägarna till nya stationen och de nya bostads-
+och verksamhetsområdena bör utformas så att de inte utgör barriärer för friluftslivet.
+Enligt planförslaget bevaras flera olika skogsområden och grönytor som park och naturmark
+bland annat Limabackaskogen och Munkadammsskogen. Detta är positivt för områdets
+värden för rekreation och friluftsliv. Tätortsnära natur bidrar med flera ekosystemtjänster
+och har visat sig ha en positiv effekt på människors hälsa. Att grönstråk, naturmark och
+parker planeras in bidrar även positivt till flera av de globala miljömålen (se avsnitt om
+miljömål).
+I planområdet finns flera vackra vyer. Att lyfta platser med utblickar över landskapet genom
+tillgängliggörande med anslutning till grönstråk och sittplatser kan ytterligare stärka
+områdets värde för friluftsliv och rekreation.
+Sedan samrådet har ett nytt grönstråk (GS13) tillkommit, vilket går genom område B13.
+Syftet med det kompletterande stråket är att binda samman grönstrukturen i samhället för
+att människor ska kunna röra sig genom området. I Backa by har ett parkområde utgått, och
+kommunen bedömer att de övriga omkringliggande grönstråk och parker kan utgöra ett
+tillräckligt utbud av tätortsnära grönområden i samhället.
+Genom de grönstråk som presenteras i planförslaget bidrar planförslaget till ökade
+möjligheter för rekreation och friluftsliv i närområdet. I dagsläget finns det begränsade
+möjligheter för gång och cykeltrafikanter att avskilt från biltrafik kunna röra sig till hav,
+grönområden och arbetsplatser, många tar i dagsläget bilen för att åka till arbete, skog eller
+hav.
+Planförslaget bedöms ha positiva konsekvenser för riksintresset för friluftsliv, Viskan, då
+positiva konsekvenser på områdets värden för friluftsliv
+planen tillgängliggör strandområdena på ett bättre sätt än tidigare.
+och rekreation.
+Planförslaget bedöms sammantaget ha
+Förslag på åtgärder
+•
+Tillgängliggör platser med vackra utblickar över landskapet med anslutningar till
+grönstråk och med sittplatser.
+
+<!-- sida 271 -->
+
+6.5  VATTENFÖRHÅLLANDEN
+
+Förutsättningar
+
+Anslutning till kommunalt dricks- och spillvatten är en förutsättning för utbyggnad av nya
+bostadsområden i Väröbacka och Limabacka och därför har en översiktlig VA-utredning
+utförts av Ramboll Sweden AB (2023) på uppdrag av Varbergs kommun och Vivab, Bilaga 5.
+
+Riktvärden för föroreningshalter i dagvatten har tagits fram av Varberg- och Falkenbergs
+kommuner.
+En policy för vatDteang voacthte anvalonpvips nminegda srt fröart eFgailekre fnöbre ergns l åonchgs Vikatribge hrgålsl bkaorm dmaugvnaetrt enhantering
+har upprättats gemensamt för Varbergs kommun och Falkenbergs kommun och finns
+sammanställd i                                     (Falkenbergs
+och Varbergs kommuner, 2017). Strategin har antagits av kommunfullmäktige i båda
+kommunerna. VA-policyn anger strategiska vägval och prioriteringsgrunder för kommunens
+VVaAt-taernbfeötree,k boåmdes tienro omc ho cmhi uljötokmva kliotemtsmnuonrmalet rv erksamhetsområde.
+
+EU har sedan år 2000 ett gemensamt regelverk för att bevara och förbättra vattenmiljön i yt-
+och grundvatten i medlemsländerna. Enligt det så kallade ramdirektivet för vatten
+(2000/60/EG) får en försämring av yt- och grundvattendrag inte ske. I Sverige regleras
+kvalitetskraven på vatten genom de så kallade miljökvalitetsnormerna (MKN). Dessa är
+fastställda i enlighet med EU:s ramdirektiv för vatten genom vattenförvaltningsförordningen
+och med stöd av Havs- och vattenmyndighetens föreskrifter. Vattenmyndigheten som är en
+del av Länsstyrelserna fastställer miljökvalitetsnormer och åtgärdsplaner för
+vattenförekomsterna i Sverige. Miljökvalitetsnormerna ska sedan användas av bland annat
+kommunerna som verktyg i arbetet med prövning, tillsyn och planläggning.
+Miljökvalitetsnormerna anger den kvalitet en vattenförekomst ska nå vid ett visst år och
+generellt gäller huvudregeln att alla vattendrag på sikt ska nå god ekologisk status eller
+potential samt god kemisk status. Ingen vattenförekomsts status får försämras. Den
+ekologiska statusen graderas i en femgradig skala med statusklasserna hög, god, måttlig,
+otillfredsställande och dålig status. Kemisk ytvattenstatus klassificeras som god eller ej.
+
+En ny detaljplan, exploatering, ombyggnation eller förändrad markanvändning ska inte bidra
+till att öka föroreningsbelastningen på berörd recipient jämfört med dagsläget. Detta
+eftersom möjligheten att uppfylla recipientens miljökvalitetsnormer (MKN) inte får
+försämras.
+Dagvatten inom planområdet avleds till i norra delen till Stora Även, ett mindre område i
+sydöstra delarna till Viskan och det sydvästra området till Klosterfjorden innan de samtliga
+Stora Även
+rinner ut i Hallands kustvatten. Se Figur 35.
+har måttlig ekologisk status och uppnår god kemisk status med undantag för
+bromfenyleter, kvicksilver och kvicksilverföreningar. Kvalitetskrav är god ekologisk status till
+Viskan
+2033.
+har god ekologisk status och uppnår god kemisk status med undantag för
+Klosterfjorden
+bromfenyleter, kvicksilver och kvicksilverföreningar.
+har måttlig ekologisk status och uppnår ej god kemisk status. Kvalitetskrav
+är god ekologisk status till 2027 och god kemisk ytvattenstatus med tidsfrist för tributyltenn
+N m Hallands
+till 2027. Undantag för bromfenyleter, kvicksilver och kvicksilverföreningar.
+kustvatten har måttlig ekologisk status och uppnår ej god kemisk status.
+Kvalitetskrav är god ekologisk status till 2027 och god kemisk ytvattenstatus med tidsfrist för
+tributyltenn till 2027. Undantag för bromfenyleter, kvicksilver och kvicksilverföreningar.
+
+62
+
+<!-- sida 272 -->
+
+63
+Figur 35. Vattenförekomster med miljökvalitetsnormer. (Ramboll Sweden AB, 2023)
+Avrinningsområden avgränsas av topografin som skapar vattendelare gentemot andra
+avrinningsområden. De avrinningsområden som berör planområdet visas i Figur 36. All
+nederbörd som faller inom dessa avrinningsområden rinner via ytlig avrinning ut mot havet
+eller Viskan.
+Med dagvattenledningar kan vatten ledas till andra recipienter i så kallade tekniska
+avrinningsområden. Inom planområdet finns dagvattenledningar främst inom
+Avrinningsområde 1 men de allmänna ledningarna avvattnar även ett område strax söder om
+Industrivägen inom Avrinningsområde 4. Det tekniska avrinningsområdet sträcker sig därför
+förbi Industrivägen och leder vatten till Stora Även.
+
+<!-- sida 273 -->
+
+.
+
+Figur 36. Avrinningsområden som berörs av planförslaget. (Ramboll Sweden AB, 2023)
+
+Dagvatten
+
+Stora delar av planområdet är åkermark som avvattnas via öppna diken. Vatten ifrån dessa
+diken ansluter antingen till allmänt ledningsnät, till markavvattningsföretag eller går direkt
+till recipient. Allmänna dagvattenledningar finns främst i Limabacka men även i delar av
+Väröbacka. Dagvatten som kommer till det allmänna ledningsnätet avleds idag till Stora Även.
+Delar av Stora Även är inkluderat i Båtafjorden som är ett Natura 2000-område. Det finns
+idag inga fördröjnings- eller reningsanläggningar inom planområdet.
+Det finns enligt VA-utredningen ett behov av att utreda Trafikverkets vägar och järnväg vad
+gäller dagvattnets avledning.
+Inom planområdet varierar topografin och markytan med högre nivåer i nordöstra delarna
+och mer låglänta områden i de södra och västra. Högsta marknivån ligger på ca + 40 och
+lägsta på ca +1 vid ån Stora Även. Figur 37 visar översiktligt topografin i området med några
+markerade markhöjder (Ramboll Sweden AB, 2023).
+
+64
+
+<!-- sida 274 -->
+
+65
+Figur 37. Topografi, punkter visar markens höjd över havet. Svartmarkering visar planområdets gränser
+(Ramboll Sweden AB, 2023)
+Planområdet består av tämligen blandad geologi med mycket lera i de norra delarna, strax
+söder om det hittas i stället sand blandat med sandig morän. I de östra delarna påträffas
+urberg medan de sydvästra i stället består av lera och svämsediment (sand/silt/lera).
+Svämsediment finns främst nära Viskan men också längs delar av Stora Även. Marken vid
+industriområdet med pappersbruket har fyllts ut med fyllnadsjordar.
+Genomsläppligheten varierar inom planområdet. Generellt är den låg i de områden som
+sammanfaller med lerig geologi, medel där det är berg och hög i områden med sand. (Ramboll
+Sweden AB, 2023)
+VA-utredningen (Ramboll Sweden AB, 2023) redovisar möjliga förslag för hantering av
+dagvattnet så att miljökvalitetsnormerna (MKN) kan innehållas. Se Bilaga 5.
+Avledning och fördröjning av dagvatten förslås hanteras i huvudstråk som exempelvis kan
+utgöras av dike, svackdiken eller kanal som ansluts till en samlad fördröjning i form av
+överdämningsytor eller dagvattendammar. I centrumområdet föreslås avledning till
+skelettjord eller växtbäddar för rening, vidare till fördröjning i rörmagasin.
+Stora delar av planområdet består av genomsläppliga ytor såsom natur- och åkermark och
+mycket av nederbörden kan infilteras i marken naturligt. För att inte påverka MKN negativt
+behövs åtgärder för att rena och fördröja dagvattnet från de hårdgjorda ytorna som vägar,
+parkeringar och övriga asfalterade ytor samt byggnadstak.
+
+<!-- sida 275 -->
+
+Dagvattnet kan ses som en resurs där magasinering och fördröjning i så stor mån som möjligt
+integreras i grönstrukturen och kan anpassas till att bidra till den biologiska mångfalden och
+ekosystemtjänster.
+
+Planområde har delats upp i delområden enligt de avrinningsområden som täcker ytor med
+ny planerad exploatering, se Figur 38. Mark inom planområdet som ej är tänkt att exploateras
+har hållits utanför denna uppdelning då där inte krävs några nya åtgärder. Föreslagen
+dagvattenhantering syftar till att dagvatten hanteras inom varje delområde. Därtill behöver
+dagvattenhanteringen beakta tillrinning ifrån omkringliggande naturmark vars rinnvägar går
+via planområdet. Ofta är det mer lämpligt att fördröja tillrinning från naturmark uppströms
+hårt exploaterade områden, vilket även stämmer överens med målsättningen om att behålla
+naturlig grundvattenbildning.
+
+Figur 38. Planområde är uppdelat i delområden enligt avrinningsområden som täcker de ytor med ny planerad
+exploatering. Mark inom planområdet som ej är tänkt att exploateras hålls utanför denna uppdelning. Därtill
+inkluderas avrinningsområden från mark utanför planområdet men som har tillrinning in till det.
+
+Skyfallskartering
+P110 Avledning av dag-,
+drän- och spillvatten
+Enligt branschstandard och Svenskt Vatten AB:s (2019) pub likation
+bör det försäkras vid ny exp loatering att inga skador uppstår vidskyfall
+med minst en återkomsttid på 100-år. Vid skyfall antas alladagvatten.l edningar och magasin
+gå fulla och vatten avrinne r endast ytligt. För attbedöma översvämningsrelaterade risker vid
+skyfall har en lågpu nktskartering utförts (Ramboll Sweden AB, 2023) Syftet är att identifiera
+kritiska punkt er i form avlågpunkter och större avrinn i ngsstråk. Dagvatten ska kunna ta sig
+ytligt från områdeti händelse av kraftig nederbörd och fullt ledningssystem utan att utgöra
+risk för skadaav byggnader eller för människans hälsa.
+
+66
+
+<!-- sida 276 -->
+
+67
+Scenariot är baserat på en generell rinntid och varaktighet inom varje delområde på 20 min.
+Ett regn med 100-års återkomsttid har regnintensiteten 323 l/s, ha och med klimatfaktor
+1,25 representeras det i denna analys av 86 mm nederbörd.
+Figur 39. Skyfallskartering i Scalgo Live, svart linje markerar planområdets gröns. Blåa ytor illustrerar
+vattenfyllda lågpunkter. Applicerad nederbördsmängd är 86mm (2023-01-12). Källa: Ramboll Sweden AB
+(2023).
+Det finns flera lågpunkter inom och utanför planområdet där vatten kan ansamlas vid skyfall,
+se Figur 39. Vid område 1 finns ett flertal lågpunkter som idag håller vatten borta ifrån
+bebyggelsen i Väröbacka. Vid ytterligare exploatering av detta område och en ökande
+hårdgjordhetsgrad behöver dessa beaktas för att inte påverka befintlig bebyggelse negativt.
+Vid område 2 finns flera större lågpunkter med kapacitet för magasinering av stor mängd
+vatten samt ett större rinnstråk. Vid arbete med utformningen av stationsområdet bör
+hänsyn tas till detta.
+Vid område 3 kan stora mängder vatten magasineras på den jordbruksmark som finns i
+område som nu planeras för industri och verksamheter. Byggs dessa lågpunkter bort bör det
+noga ses till att det området nedströms inte påverkas negativt. Finns risk annars att flödet i
+Stora Även påverkas och att åkermark blir obrukbar då för stora vattenmängder förskjuts dit.
+Områdena föreslås hantera dagvatten i diken, biofilter och dammar innan det avleds till
+markavvattningsföretagen och recipienten, se Figur 40. Industrimark har ofta högre andel
+föroreningar vilka behöver renas ifrån dagvattnet. Vilka föroreningar som uppstår beror på
+vilken typ av industri och bör utredas vidare i ett senare skede för att optimera
+dagvattenreningen utifrån detta.
+
+<!-- sida 277 -->
+
+€< — Flödesriktning — Ytavrinning
+
+mr Dike/Svackdike
+Fördröjning 6000m?
+Ytanspråk 11000m?
+
+4 Fördröjning och rening - Damm
+Fördröjning 1090m?
+Ytanspråk 2300m?
+
+Överdämninsgyta
+Fördröjning 6800m?
+Ytanspråk 6800m?
+
+CO Underjordiska magasin
+Fördröjning 3800m?
+Ytanspråk — m?
+
+Totalt fördröjning: 17680
+
+Totalt ytaspråk: 7,44
+
+Figur 40. Markerat område visar delområde M och N. Ytlig avrinning visas med pilar i bild. Därtill ett
+schematiskt förslag på hur dagvattnet kan hanteras i delområdet. (Ramboll Sweden AB, 2023)
+
+Då hög hårdgörandegrad har antagits vid beräkningarna för detta område har
+fördröjningsmagasinen blivit väldigt stora och kräver mycket plats. Underjordiska magasin
+har därför föreslagits i VA-utredningen. För en mer rimlig andel yta som används till
+dagvatten bör hårdgörandet av detta område begränsas. Det finns en stor lågpunkt inom
+delområde N som har stor kapacitet till magasinering av vatten och dess nytta för
+skyfallshantering bör analyseras noga innan man väljer att bebygga detta område.
+
+Delområde M och N är även utsatta för höga havsnivåer då det inte ligger högt över
+havsnivån. Marken kan enligt vidare interna utredningar anses lämplig för bebyggelse för
+planeringsnivåer på +3,12 m (Frida Eriksson, 2025). Högre havsnivåer än så riskerar att
+svämma över området, se Figur 41. Område M och N ligger under +3,12, så är egentligen inte
+lämpliga för byggnation. Det kommer att krävas mer detaljerade utredningar och
+förmodligen olika typer av åtgärder för att marken ska kunna bebyggas på ett bra sätt. Detta
+kommer att utredas i efterföljande detaljplanearbete.
+
+68
+
+<!-- sida 278 -->
+
+Figur 41. Blåa områden visar havsnivån vid +2.8 m i havet. Detta motsvarar planeringsnivå för år 2100.
+(Ramboll Sweden AB, 2023)
+
+Markavvattningsföretag
+
+Det finns flera markavvattningsföretag inom planområdet och dessa är viktiga att ta hänsyn till då
+ny bebyggelse planeras se Figur 42. Då dikning- och markavvattningsföretagens syfte har
+varit att torrlägga mark är det viktigt att inte förstöra dess funktion. Höjdsättningen av mark
+är därmed viktig för att upprätthålla funktionen. Vidare ska inte flödet till dessa ökas och inte
+heller får någon begräsning av företagens kapacitet ske. När ett markavvattningsföretag kan
+påverkas av en detaljplan ska detta belysas på ett tidigt skede i planprocessen och
+markavvattningsföretaget ska ha möjlighet att yttra sig
+
+Ska ett företag upplösas i samband med exploateringen är det en juridisk process som drivs
+mellan kommun och markavvattningsföretagets delägare. Likväl, förändras
+markanvändningen från jordbruk till mer urbant försvinner det ursprungliga syftet med
+avvattningsföretagen. Dock måste det säkerställas att inte jordbruksmark uppströms eller
+nedströms exploateringen fortfarande är beroende av företaget.
+
+69
+
+<!-- sida 279 -->
+
+Figur 42. Dikningsföretag inom planområdet. Källa: Ramboll Sweden AB (2023).
+
+Påverkan och konsekvens
+
+Hur planförslaget påverkar vattenförekomsterna är beroende av skyddsåtgärder för
+dagvattenhantering, markanvändning, farligt gods, översvämningar, erosion etc.
+VA-utredningen visar på att föroreningsbelastningen ökar jämfört med befintlig situation och
+att rening är nödvändig för att inte påverka vattenförekomsterna negativt. Föreslagen
+dagvattenhantering med rening i växtbäddar, diken och dammar är enligt VA-utredningen
+tillräcklig för att inte försämra möjligheten att uppnå miljökvalitetsnormen för recipienterna
+Stora Även, Viskan och Klosterfjorden (Ramboll Sweden AB, 2023). Beräkningar som styrker
+detta redovisas i VA-utredningen i Bilaga 5.
+
+Om det i planförslaget förtydligas hur stor mark som behövs för rening och fördröjning inom
+respektive delområde och rekommendationerna som ges i VA-utredningen implementeras i
+kommande detaljplaner och nyetableringar bedöms miljökonsekvensen kunna bli positiv för
+ytvatten.
+
+70
+
+<!-- sida 280 -->
+
+71
+Planområdet riskerar att vid skyfall drabbas av översvämningar i de lågpunkter och lågstråk
+som finns i och i områdets närhet. Stora delar av planområdet kommer också påverkas av
+höjda havsnivåer vilket gör problematiken mer komplex.
+Planförslaget har till granskning justerats för att bättre möta behovet av omhändertagandet
+av vatten vid skyfall och en förhöjning av havsnivån. I södra delen av planområdet har
+verksamhetsområde V4 tagits bort och V3 har minskats ned.
+I föreslagen plan ges samhällsviktig verksamhet en högre säkerhetsnivå och planeras så att
+funktionen kan upprätthållas även vid en översvämning. Planförslaget bedöms ha en
+genomtänkt höjdsättning och markanvändning och det finns förutsättningar att minimera
+risken för översvämningar.
+En väl planerad hantering av dagvatten och skyfall i kombination med en minskad
+näringsbelastning från jordbruksmark bidrar till att MKN innehålls.
+Detta behöver också studeras ihop med kumulativa effekten av en havsnivåhöjning och gärna
+ett ytterligare extremregn enligt riktlinjerna från MSB (Myndigheten för samhällsskydd och
+beredskap, 2012). Tydlig vägledning för hur dagvattenhantering, skyfall och översvämningar
+ska hanteras i planläggningen bör ges.
+Planförslaget bedöms kunna bidra till att miljökvalitetsnormepronsait iinvna ekhoånlslse kovcehn asettr för
+vvaatttteennmkvialjlöit. eten förbättras i vattenförekomsterna på sikt. Detta bidrar till att nå miljömålen
+för vatten. Planförslaget bedöms ge förutsättningar för att ge
+Förslag på åtgärder
+•
+Ett relativt stort fördröjningskrav ifrån markavvattningsföretagen gör att ytanspråket
+för dagvattenhantering blir tämligen stort. Ytor kan behöva reserveras i planeringen
+så att de kan användas för dagvattenhantering. Exempelvis kan 5–7% av ytan inom de
+•
+olika delavrinningsområdena avsättas för dagvattenhantering.
+Alla typer av åtgärder för dagvatten kräver underhållsarbete för att bibehålla
+funktionen. Uteblir detta minskar både de renande och fördröjande egenskaperna.
+•
+Ansvar för drift- och underhållsarbete bör därför arbetas in i framtida detaljplaner.
+I framtida planarbete och detaljplanering kan placeringen av olika dagvattenåtgärder
+anpassas efter hur fastighetsbildningen bestäms samt vad som lämpas bäst för just
+•
+den platsspecifika situationen.
+Genom att lägga grund för ett hållbart och cirkulärt VA-system skapas förutsättningar
+till återföring, återanvändning och cirkulation. Dagens avlopp blir morgondagens
+resurs. Reningsverken blir i stället resursverk som producerar bland annat biogas,
+näringsämnen och värme. Dessutom en ny sorts vattenresurs med olika former av
+vattenkvaliteter anpassade efter olika behov och användningsområden. Även dessa
+•
+möjligheter bör vara med i framtida planeringsarbete.
+Gällande höjda havsnivåer och lämplig höjdsättning av området är det viktigt att
+kommunen landar i ställningstagande gällande tidshorisont för klimatanpassningen
+samt vad som ska skyddas (d.v.s. annat än nybyggnation i området) samt
+säkerhetsmarginal till dessa nivåer för olika typer av bebyggelse och
+•
+markanvändning.
+Föreslagen dagvattenhantering är baserad på presenterade förutsättningar och
+rekommenderas därmed att uppdateras i takt med att planeringen av planområdet
+•
+når en högre detaljgrad.
+Vid exploatering bör alltid ett säkerställande av att grundvattennivån inte påverkas
+ske. Detta för att en förändring i grundvattennivån kan utgöra risk för sättningar i
+
+<!-- sida 281 -->
+
+befintlig bebyggelse och infrastruktur. Det skulle också kunna eventuellt påverka
+•
+enskilda brunnar och annan vattenförsörjning.
+I vidare detaljplanering av området bör hydrogeologiska undersökningar göras som
+kan visa mer exakt hur grundvattenytan kommer påverkas av exploatering och
+•
+klimatförändringar så att lämpliga åtgärder kan vidtas.
+För minskad risk av spridning av föroreningar i mark till grundvatten ska
+dagvattenåtgärder som innebär infiltration inte anläggas i områden som är potentiellt
+förorenade utan att sanering görs eller det säkerställs att infiltrering av dagvatten
+inte kan bidra till ökad andel föroreningar i grundvattnet.
+6.6  MARKFÖRHÅLLANDEN/RAS  OCH SKRED, POTENTIELLT FÖRORENAD  MARK
+
+Förutsättningar
+
+En översiktlig utredning av de geologiska och geotekniska förutsättningarna i Väröbacka och
+Limabacka har gjorts (Sweco Civil AB & Halmstad Geoteknik, 2023), Bilaga 6. Syftet med
+utredningen var att översiktligt redovisa grundläggningsförutsättningar och
+sättningsförhållanden samt ge en samlad bedömning av de geotekniska säkerhetsfrågorna
+såsom ras, skred, erosion, bergras/blocknedfall och geotekniska frågeställningar kopplade till
+översvämning. Utredningen syftade även till att identifiera områden där det krävs detaljerade
+geotekniska undersökningar inför detaljplaneläggning eller bygglovgivning samt de områden
+sGoemot aevk ngiesoktae kfönriusktsaä stktnäiln ägra srä rskilt komplicerade.
+
+Limabacka och Väröbacka ligger i ett låglänt kustnära område inom ett större bergsområde
+som består av högre bergsmassiv med lokala bergsklackar som omges av sedimentfyllda
+dalgångar, se Figur 43. Området ligger under högsta kustlinjen. (Sweco Civil AB & Halmstad
+Geoteknik, 2023)
+
+Figur 43. SGUs jordartskarta med aktuella område för geoteknisk utredning är utmärkt. (Sweco Civil AB &
+Halmstad Geoteknik, 2023)
+
+72
+
+<!-- sida 282 -->
+
+73
+I norra delen av området förekommer främst postglacial finlera, glacial lera och gyttjelera. I
+anslutning till vattendragen förekommer svämsediment av silt och lera. I den mellersta delen
+varierar jordlagerförhållandena inom relativt korta avstånd. Området karakteriseras av att
+marken utgörs av moränryggar med sandig morän som angränsas närmast av postglacial
+sand och grus. Fläckvis förekommer områden med lera inom sanden. Inom områden med
+postglacial sand kan det förväntas förekomma lera mot djupet medan den postglaciala grusen
+oftast underlagras av morän. I sydöstra delen förekommer områden med berg i dagen.
+Inom de angränsande bergsområdena förekommer sänkor med postglaciala sediment (sand
+och grus), morän och torv samt dalgångar med sand, lera och silt.
+Inom utredningsområdena förekommer varierande markförhållanden med olika geotekniska
+förhållanden och problemställningar.
+Inom området har det gjorts en översiktlig bedömning över rådande stabilitetsförhållandena
+och där områden identifierats inom vilka det finns risk för ras, skred och erosion. Risk för
+jordskred är generellt kopplade till områden med lösare finkorniga jordar och där marken
+sluttar mer än 1:10. Dessa områden är begränsade inom aktuellt utredningsområde och
+förekommer främst i anslutning till vattendrag och västkustbanan.
+Inom utredningsområdet har det glöjosmrtas rekn översiktlig bedömning över sättningsförhållanden
+och där områden identifierats inom vilka det förekommer lösa och sättningsbenägna jordar.
+Dessa utgörs av jord klassad som . Jordlagren representeras av gyttjelera, kärrtorv,
+postglacial lera, glacial lera, svämsediment samt postglacial sand.
+DPoe tseäntttineilnltg fsöfröorrheånlaladn mdeanr ks om råder redovisas i Bilaga 6.
+Utsläpp av miljöfarliga ämnen från industrier och förorenade områden längs med
+Hallandskusten utgör ett stort påverkanstryck mot den marina miljön.
+Det finns fyra förorenade områden med riskklass 3 enligt MIFO; två verkstadsindustrier,
+avfallsdeponi (ej farligt avfall) samt betning av säd. Ett område med en bilvårdsanläggning är
+delvis sanerad till nivå mindre känslig markanvändning,
+Det finns ytterligare verksamheter med potentiellt förorenad mark som ännu inte har
+riskklassats; 2 verkstadsindustri, sågverk, bilvårdsanläggning, betong och cementindustri,
+mellanlagring och sorteringsstation avfall samt en skjutbana.
+Strax utanför planområdet finns flera områden med potentiellt förorenad mark bland annat
+en verksamhet för träimpregnering i nordost, och i sydväst vid pappersbruket (massa- och
+pappersindustri, industrideponi, sågverk samt en förbränningsanläggning, se Figur 44.
+
+<!-- sida 283 -->
+
+Figur 44. Inom planområdet finns områden med potentiellt förorenad mark. (Ramboll Sweden AB, 2023)
+
+Påverkan och konsekvens
+
+En generell bedömning är att det ej förekommer områden som kan komma att kräva
+omfattande åtgärder med avseende på stabilitetsproblem med undantag med området som
+angränsar mot Viskan. (Sweco Civil AB & Halmstad Geoteknik, 2023).
+Planförslaget föreslår ingen exploatering längs Viskan.
+
+Ny markanvändning planeras vid potentiellt förorenade områden. En tydlig lagstiftning finns
+samt riktvärden för olika typer av markanvändning. Där en risk finns för påverkan från
+förorenad mark kommer miljötekniska markundersökningar att behövas vid upprättande av
+detaljplan eller vid bygglov. Planförslaget bidrar till att fler områden kommer att behöva
+efterbehandlas eller undersökas ytterligare. Konsekvensens bedöms därför bli positiv
+avseende förorenad mark.
+Vid exploatering finns alltid risk för att sänka grundvattenytan. Detta i sin tur kan utgöra risk
+för sättningar vilket skulle kunna påverka befintlig bebyggelse och infrastruktur i området.
+En sänkning av grundvattennivån skulle även kunna påverka boende i området som är
+utanför VA-huvudmannens verksamhetsområde och till exempel kunna påverka enskilda
+brunnar. Klimatförändringarna bidrar troligen till en höjd grundvattennivå i kustnära
+områden i takt med att havsnivån höjs. De naturliga skiftningarna i grundvattennivåer över
+årstider antas också förändras.
+
+74
+
+<!-- sida 284 -->
+
+75
+Om det i kkoonmsemkvaenndsee nd efötarl mjpalarnkemri oljcöh s oemxp nloeautterrailn. gar utförs geotekniska och hydrogeologiska
+undersökningar för att utreda risken för ras och skred i så att lämpliga åtgärder kan vidtas
+bedöms
+Föreslagna åtgärder
+•
+Inga infiltrationsanläggningar för dagvatten bör sammanfalla med förorenad mark
+•
+utan att saneringsåtgärder först vidtas.
+Förorenad mark hanteras inom respektive detaljplan alternativt bygglov. Det finns
+riktvärden för förorenad mark som ska uppfyllas och eventuellt kommer marken att
+•
+behöva efterbehandlas på flera platser.
+Stabilitets- och sättningsförhållanden bör utredas mer i detalj i senare skede inför
+•
+detaljplaneläggning och byggnation.
+Kumulativa effekter av skyfall, vibrationer och byggarbeten kan påverka ras och
+skredrisken och bör hanteras och följas upp i detaljplaner och bygglov.
+6.7  HÄLSA OCH RISKER/MILJÖFARLIGA VERKSAMHETER OCH TRANSPORTER
+Förutsättningar
+Inom och i anslutning till planområdet finns vägar och järnväg med transporter av farligt
+gods samt ett flertal miljöfarliga verksamheter. På ett avstånd om cirka 4 km från Väröbacka
+ligger dessutom Ringhals kärnkraftverk, med samtliga anslutande transportvägar
+passerandes genom planområdet.
+I samband med framtagandet av planförslaget har en riskutredning utförts av Norconsult på
+uppdrag av Varbergs kommun (Norconsult AB, 2023), Bilaga 7.
+Målet med riskutredningen var att bedöma den förändrade markanvändningens lämplighet
+samt bedöma behovet av riskreducerande åtgärder i samband med den nya bebyggelsen.
+RTrisaknustproerdtnerin gen ska även verka som stöd inom vidare arbete inom planprocessen.
+Öster om planområdet ligger E6 som är en primär transportled av farligt gods. Inom
+planområdet går även Varbergsvägen (väg 845) och Industrivägen (väg 850) som korsas
+ungefär i mitten av planområdet. Från Varbergsvägen svänger även Backavägen (väg 848) av
+mot Ringhals. Varken väg 845, 850 eller 848 är utpekade transportleder för farligt gods.
+Däremot är väg 845 tillsammans med östra delen av väg 850 utpekade som omledningsväg
+ifrån E6, vilket innebär att vid händelser eller påverkan på E6:an kan transporter av farligt
+gods gå på vägarna. I övrigt antas samtliga vägar endast vara leveransvägar till
+verksamheterna i och runt om området. Dessa transporter har därför utretts utifrån underlag
+ifrån verksamheterna.
+Farligt gods transporteras även på järnväg och genom hela planområdet sträcker sig
+Västkustbanan.
+Länsstyrelsen i Hallands län (2011) har tagit fram riktlinjer för samhällsplanering utmed väg-
+och järnvägstransportleder för farligt gods i sin rapport ”Riskanalys av transport av farligt
+gods i Hallands län”. Dessa riktlinjer anger lämpliga avstånd för byggnation utmed väg E6,
+Västkustbanan och lokalt utpekade farligt godsleder. Syftet med denna utformning är inte
+enbart att se till att dagens risker är acceptabla, utan även att garantera att området kring
+transportleder för farligt gods är utformat så att framtida ökningar av transporterade
+mängder inte omedelbart leder till oacceptabla risker.
+,
+I dessa riktlinjer anges rekommenderade basavstånd för utformning av området kring
+Västkustbanan se Figur 45 och Tabell 2 (Norconsult AB, 2023)
+
+<!-- sida 285 -->
+
+Figur 45. Rekommenderade basavstånd för utformning av området kring Västkustbanan. (Norconsult AB,
+2023)
+
+Tabell 2. Redovisning av Basavstånd/reducerat avstånd för respektive typbebyggelse. Avstånd räknas från
+närmaste räls. (Norconsult AB, 2023).
+
+Tillämpas de rekommenderade basavstånden erfordras ingen riskanalys om följande baskrav
+•
+beaktas:
+•
+Motverka spridning av vätska in mot området.
+•
+Sidoområdet fritt från oeftergivliga och spetsiga föremål.
+Beakta möjligheten att reducera konsekvenser av ett gasutsläpp genom att luftintag
+Miljöfarlpiglaac verearks shaömgth oectehr p å motsatta sidan av leden.
+
+Runt om planområdet finns flera verksamheter som är klassade som miljöfarliga; Ringhals,
+Södras verksamhet samt Svenska Kraftnäts reservkraftsanläggning Lahall. Utöver dessa finns
+även två drivmedelsstationer inom eller i anslutning till planområdet. Dels en din-X
+drivmedelsstation i norra delen av planområdet, dels Södras drivmedelsdepå. Se placering av
+verksamheterna nedan i Figur 46.
+
+76
+
+<!-- sida 286 -->
+
+77
+Figur 46. Kartvy över identifierade miljöfarliga verksamheter inom eller i närområde till planområdet. (Norconsult AB, 2023)
+Påverkan och konsekvens
+I planförslaget föreslås byggnation i nära anslutning till vägar och järnväg med transporter av
+farligt gods samt ett flertal miljöfarliga verksamheter.
+Resultatet av riskutredningen visar att riskbilden med avseende på transporter av farligt
+gods på väg är på acceptabla nivåer för samtliga vägar. Det medför att inga ytterligare krav på
+åtgärder har identifierats med avseende på transporter av farligt gods. Dock identifieras ett
+behov av att även utreda risker utifrån andra perspektiv såsom buller och trafik då det
+fortsatt är mycket tung trafik i området som kan påverka behov av åtgärder eller
+skyddsavstånd till vägarna.
+Vidare föreslås att markanvändning såsom omsorgsboende och skolor inte bör planeras i
+direkt anslutning till riskkällorna.
+Enligt den riskutredning (Norconsult AB, 2023) som tagits fram inom ramen för
+översiktsplanen görs bedömningen att samhällsrisken bör vara låg. Det är en slutsats som
+dras utifrån beräknad individrisk, vilken är direkt kopplad till uppskattade transporterade
+mängder och en översiktlig bedömning av bebyggelsen.
+Avseende kumulativa risker från farligt gods på flera vägar och/eller järnväg så gör
+riskutredningen bedömningen att Västkustbanan med bred marginal är den
+dimensionerande riskkällan för området när det gäller transporter av farligt gods, eftersom
+beräkningar av individrisken för samtliga vägar visar på låga risknivåer. Det transporteras
+mer än en faktor 10 fler transporter på Västkustbanan jämfört med den mest trafikerade
+vägen, vilket innebär att risknivåerna och skyddsåtgärderna är helt beroende av risknivån
+från Västkustbanan. Behov av fördjupade analyser avseende kumulativa risker fastställs och
+genomförs vid behov i senare planeringsskeden.
+För Västkustbanan och Industrispåret bör Länsstyrelsen i Hallands vägledning följas där
+avståndet beror på markanvändning samt vilka åtgärder som planeras. Det innebär att
+
+<!-- sida 287 -->
+
+antingen planeras planområdet markanvändning utifrån riktlinjerna eller så införs de
+åtgärder som riktlinjen föreslås för markanvändningen.
+•
+Avstånd som kan vara acceptabla om ytterligare skyddsåtgärder införs:
+•
+Industri 20–50 meter
+•
+Kontor 20–50 meter
+•
+Småhus 50–80 meter
+Tätort 30–80 meter
+Vid utredning av de miljöfarliga verksamheterna framkom att inga risker för dominoeffekter
+identifierats utifrån de säkerhetsavstånd som riktlinjer rekommenderar. De risker som
+identifierats som kan påverka planområdet är läckage av kemikalier till miljön i omgivningen
+ifrån Lahall och Södra Cell eller större tekniskt fel på Ringhals. För det förstnämnda ansvarar
+verksamheterna för att säkerställa att olycka inte uppstår och enligt allmänna informationen
+för Seveso III verksamheterna anses riskerna små. För den andra, större olycka på Ringhals,
+ska Ringhals arbeta aktivt för att motverka risken och Länsstyrelsen ansvarar för att de
+berörda i planområdet exempelvis ska kunna evakuera. Inga riktlinjer eller krav för
+tillkommande boende inom beredskapszoner för kärnkraftverk finns utan det medför endast
+fler personer som Länsstyrelsen behöver ansvara för vid olycka. Rekommenderade
+skyddsavstånd mellan bostadsområden och övriga verksamheter:
+•  Drivmedelsstationer 100 meter utan skyddsåtgärder, 25 meter med skyddsåtgärder
+•  Lahalls Reservkraftverk 200 meter
+
+•  Södra cell 500 meter
+Övrig bebyggelse såsom verksamheter kan placeras närmare då dessa inte bedöms vara lika
+känsliga för störningar såsom buller och ljus. Dessa bör dock ha ventilation riktad bort ifrån
+Södras verksamhet.
+Planförslaget innebär att en större mängd människor vernkeaurt roaclh k boonrs einkvoemn se ftöt ro rmisrkåde med
+ett flertal riskkällor. Om de rekommenderade skyddsavstånden följs och riskerna utreds och
+följs upp under planeringen bedöms planförslaget ha en .
+
+Det kan finnas behov av fördjupade riskutredningar i senare skede och det kan finnas
+scenarier där flera risker samverkar. Kumulativa effekter från buller, vibrationer,
+havsnivåhöjning, skyfall etc. kan påverka skyddsavstånden.
+Förslag på åtgärder
+
+•
+Det kan finnas behov av fördjupad utredning i senare skede.
+För att få en komplett bild av risknivån i området kan en gemensam samhällsrisk
+•
+beräknas för samtliga vägar där det transporteras farligt gods.
+Om avsteg görs från Länsstyrelsens i Hallands läns vägledning i senare skeden
+•
+behöver en fördjupad riskutredning för järnvägen genomföras.
+Utredning av risker utifrån andra perspektiv såsom buller och trafik då det fortsatt är
+mycket tung trafik i området som kan påverka behov av åtgärder eller skyddsavstånd
+•
+till vägarna.
+Fördjupade riskanalyser och beräkningar av samhällsrisken kommer att behövas i
+samband detaljplaneskedet då en mer detaljerad information om bebyggelsen finns
+framme.
+
+78
+
+<!-- sida 288 -->
+
+6.8 HÄLSA OCH RISKER/BULLER
+
+Förutsättningar
+
+Varbergs kommun med färre invånare än 100 000 invånare omfattas inte av krav på
+åtgärdsprogram för omgivningsbuller.
+
+Kommunen har dock genom FÖP ansvar för att begränsa buller utifrån MB:s hänsynsregler.
+
+Omgivningsbuller är den vanligaste och mest märkbara miljöstörningen i vårt samhälle. Trots
+insatser för att minska exponeringen utgör buller ett växande problem ofta kopplat till en
+ökad urbanisering och tillväxt av transportsektorn. Den främsta källan till omgivningsbuller
+är trafik, det vill säga buller från vägar, järnvägar och flyg. Även ljud från grannar,
+byggarbetsplatser och industrier kan upplevas som störande.
+
+Faktorer som påverkar ljudnivån längs en väg är bland annat typen av fordon, däck,
+hastighet, trafikmängd och beläggning. Förhållandena påverkas också av avståndet mellan
+vägen och mottagaren, markförhållanden, topografi samt bullerreducerande åtgärder. För
+inomhusnivån har byggnadens fasadisolering och fönstertyp stor betydelse.
+
+När människan utsätts för buller är den vanligaste reaktionen en känsla av obehag. Buller kan
+även orsaka stressreaktioner, trötthet, irritation, blodtrycksförändringar, sömnstörningar
+och försämrad kognitiv förmåga. Ett flertal studier talar för ett starkt samband mellan
+sömnstörningar och trafikbuller med en negativ hälsopåverkan som effekt.
+
+Riktvärden buller finns för bostäder, skolor, vårdinrättningar m. m. och dessa kommer
+hanteras i detaljplaneskede eller vid ansökan av bygglov.
+Bedömningsgrunder
+
+Riktvärden nybyggnation av bostäder
+
+I förordningen om trafikbuller vid bostadsbyggnader (SFS 2015:216 med ändring SFS
+2017:359) definieras riktvärden för buller utomhus för spårtrafik, vägar och flygplatser vid
+bostadsbyggnader, se Tabell 3.
+
+Tabell 3 Riktvärden för trafikbuller som inte bör överskridas vid nybyggnation av bostäder.
+
+Ekvivalent ljudnivå, Maximal ljudnivå
+
+Ljudnivå utomhus vid fasad 60! -
+(frifältsvärde)
+
+Ljudnivå utomhus vid uteplats i 50 70?
+anslutning till bostad
+
+1) För bostäder om högst 35 m? är riktvärdet vid fasad 65 dBA.
+2) Värdet får överskridas 5 gånger per timme mellan kl. 06 och 22, dock aldrig med mer än 10 dBA.
+
+I de fall då värdet 60 dBA vid fasad ändå överskrids bör minst hälften av en bostads
+bostadsrum vara vända mot en sida där ekvivalent ljudnivån och maximal ljudnivå vid
+fasaden ej överskrider 55 dBA respektive 70 dBA mellan kl. 22.00 och 06.00.
+
+Riktvärden befintliga bostäder
+
+Riktvärden för buller från väg- och spårtrafik utomhus vid befintliga bostäder specificeras i
+infrastrukturpropositionen 1996/97:53 och anknytande dokument framtagna av centrala
+myndigheter. För att säkra god miljökvalitet utanför befintliga bostäder bör i normalfallet
+följande ljudnivåer underskridas, se Tabell 4.
+
+79
+
+<!-- sida 289 -->
+
+Tabell 4 Riktvärden för buller från väg- och spårtrafik utomhus vid befintliga bostäder.
+
+Bostads fasad Bostads uteplats Bostads uteplats
+(Leqasn) (Leqzsn) (Lmax)
+
+Vid väg S5 dBA >55 dBA? 70 dBA!
+
+Vid spår 60 dBA 55 dBA 70 dBA!
+
+1) Tidsvägning Fast. Får överskridas max 5 gånger per genomsnittlig maxtimme dag och kväll (mellan kl. 06 och 22).
+2) Propositionen har inte någon angivelse för ekvivalent nivå för buller från vägtrafik vid uteplats.
+
+Riktvärden parker och grönområden
+
+För parker och grönområden finns det inga fastställda rekommendationer eller riktlinjer som
+anger vad som utgör en god ljudmiljö men det finns en handbok där det framgår vilka
+ljudnivåer som man kan sikta mot för att säkra kvaliteten i parker och grönområden. För
+stadsparker utgör 50 dBA en god ljudmiljö men nivåer upp till 55 dBA kan anses
+tillfredställande. För mer utpräglade tätortsnära rekreationsområden är 45 dBA en god
+ljudmiljö. Något att sträva efter är principen 50-50, vilket innebär att minst 50940 av parkens
+yta har en ljudnivå som underskrider 50 dBA (Stockholms stad, 2022).
+
+Påverkan och konsekvens
+
+En trafikbullerutredning har utförts av Efterklang (2023), Bilaga 8. Utredningen avser
+beräkningar för prognosår 2040. Planområdet kommer att påverkas av buller från framför
+allt järnväg och större lokala vägar, se Figur 47. Järnvägen som går igenom Väröbacka
+kommer att vara den dominerade bullerkällan. Gällande buller från väg är det främst
+Varbergsvägen och Industrivägen som kommer att bidra till buller. I beräkningarna finns
+också motorvägarna E6 och E20 men de är inte de dominerande källorna till buller från väg.
+
+Figur 47. LAeq, 24h ljudutbredning från vägar och spår på 1,5 m höjd. (Efterklang , 2023)
+
+Ljudnivån är mellan 70-75 dBA vid fasad nära järnvägen och fasadnivåer är mellan 65-71
+dBA. Nära lokala vägar är ljudnivån mellan 65-75 dBA fasad mot vägen får nivåer mellan 60-
+66 dBA.
+
+80
+
+<!-- sida 290 -->
+
+81
+Nära järnvägen finns risk att ekvivalent ljudnivå överstiger 60 och 65 dBA vilket betyder att
+samtliga lägenheter nära spår behöver vara genomgående. Det kommer också krav på
+maximal ljudnivå på bullerdämpad sida som kan vara gränsfall att klara om man är mycket
+nära spår. Samma med uteplatser. Ljudnivåer vid fasad är högst nära järnvägen, se Figur 48.
+Området med högst ljudutbredning är mellan järnvägen och Varbergsvägen.
+Figur 48. Prov ljudnivåer vid fasad. (Efterklang , 2023)
+Då järnvägens maximala och ekvivalent ljudnivåer påverkar ett stort område ställs en del
+krav på utformningen av Väröbacka. Med noggrann planernienugt raavl uktofonrsemknvienngs afövr o bmulrlåedr.et görs
+i bullerutredningen bedömningen att det ändå finns goda förutsättningar för att riktlinjerna
+för trafikbuller innehålls. Planförslaget bedöms därför ha
+Eventuella förändringar i järnvägstrafiken som utbyggnad av spår kan kräva bulleråtgärder
+för befintliga bostäder. Det finns fördelar med att samordna de åtgärderna med planerad
+exploatering så att bullret från tåg dämpas i hela området och inte endast vid bullerberörda
+befintliga bostäder. Det måste då ske i samarbete med Trafikverket och kommunen.
+Förslag på åtgärder
+•
+Reducera ljudutbredningen på bullerutsatta platser genom att bygga
+bullerskyddsskärmar. I utredningen har det beräknats hur ljudutbredningen
+förändras om skärmar med en höjd på antingen 2, 3 eller 4 m byggs (Efterklang ,
+•
+2023).
+Reducera ljudutbredningen genom att anpassa utformningen av bostadshus. Hur
+ljudutbredningen blir med olika utformningar har undersökts i bullerutredningen
+(Efterklang , 2023). Om bostäder planeras att byggas i anslutning till järnvägen
+behöver kvarter utformas så att en tyst sida möjliggörs.
+
+<!-- sida 291 -->
+
+•
+Bullerberäkningar kommer att behöva utföras i detaljplaneskede och vid bygglov för
+•
+att säkerställa att riktlinjerna följs.
+Inom 20–30 m från järnvägen finns risk för vibrationsstörningar. Vibrationer bör
+kontrollmätas för att avgöra vilka åtgärder som krävs för att klara 0,4 mm/s i
+vibrationshastighet i bostäder och kontor.
+6.9  KLIMATANPASSNING
+
+Förutsättningar
+
+Klimatförändringar i vattenmiljöer
+
+De pågående och framtida klimatförändringarna påverkar vattenmiljöerna. Det kan medföra
+varmare vatten, förändrade nederbördsmönster, förändrad tillgång till och kvalitet på vatten,
+ökad risk för översvämningar, ras och skred, ökad transport av näringsämnen och miljögifter
+och ökad havsnivå. Ett varmare klimat kan också gynna spridningen av främmande invasiva
+arter, öka brunifieringen av vattendrag och sjöar samt förändra vattenflöden i vattendragen.
+Klimatförändringarna kan även påverka infrastruktur och ekosystemstjänster kopplade till
+vattenmiljöer. Höjda havsnivåer kan i sig orsaka stora problem med översvämningar och
+erosion, som påverkar grundvattnet och – tillsammans med ökad nederbörd – även
+vattendragen. Detta gör att risken för översvämningar kan öka även i områden som inte
+ligger i direkt anknytning till kusten. Dräneringssystemen inom skogs- och jordbruket samt
+dagvattensystemen kan med dagens utformning inte hantera extrema skyfall med ökade
+mängd och intensitet i enskilda nederbördstillfällen. Tillsammans med stor mängd
+hårdgjorda ytor i främst tätorter, gör detta att vattnet snabbt rinner ut i större vattendrag
+utan fördröjning och förvärrar problemen med översvämningar samt skador på vattendraget
+kopplat till t.ex. övergödning och miljögifter (Ramboll Sweden AB, 2023).
+Igenväxning av vattenmiljöer till följd av ökad tillväxt med ökad näringstillförsel, varmare
+vatten och minskade flöden under växtsäsongen kan bidra till minskade vattenarealer och
+uttorkning av grunda våtmarker. Många arter som lever i sötvatten och i havet har förskjutit
+sina geografiska utbredningsområden, säsongsbundna aktiviteter, migrationsmönster, antal
+och samspel med andra arter som ett svar till klimatförändringarna. När arter inte längre kan
+anpassa sig till klimatförändringar riskeras betydande ekosystemförändringar,
+aHrötjudtar ohtanvinsgnaivrå oecrh förlust av biologisk mångfald. (Ramboll Sweden AB, 2023)
+
+Det finns en problematik med höjda havsnivåer i de mest låglänta delarna av planområdet. En
+genomtänkt höjdsättning och markanvändning vid exploatering är därför mycket viktig för
+att undvika problem med översvämningar. I VA-utredningen (Ramboll Sweden AB, 2023)
+studerades översvämningsrisker vid framtida havsnivåer. Utredningen bygger på Boverkets
+tillsynsvägledning för naturolyckor. Enligt den ska den planerade bebyggelsen ha en livslängd
+på minst 100 år vilket innebär att den ska säkerställas för minst år 2130. Även de åtgärder
+som vidtas behöver planeras utifrån byggnadernas livslängd samt vara säkra utifrån ett
+stabilitetsperspektiv, både inom och utanför planområdet.
+
+Enligt länsstyrelsen i Halland bör framtida planering av bebyggelse anpassas till en havsnivå
+med klimateffekt. I detta fall innebär det att studerad havsnivå ligger på +3,5 meter för
+framtida bebyggelse. Medelvattennivån kan enligt SMHI (2022) vid RCP8.5 på +1,01 meter år
+2100, +1,44m år 2130 och +1,72m vid år 2150 i Varberg. Detta i kombination med nivån för
+högsta beräknade havsvattenstånd för Ringhals som SMHI (2018) beräknade till 1,81 meter
+resulterar i ungefärliga nivåerna på+2,8m år 2100, +3,3 m 2130 samt +3,5m år 2150. I Figur
+49 och Figur 50 illustreras vilka delar av planområdet som påverkas vid två olika
+högvattenhändelser.
+
+82
+
+<!-- sida 292 -->
+
+83
+Figur 49. Vattennivå i havet på +2.5 Planområdet markerat med rödlinje. (Scalgo 2022)
+Figur 50. Vattennivå i havet på +3.5 Planområdet markerat med rödlinje. (Scalgo 2022)
+Höga havsnivåer påverkar inte bara områden närmast kusten utan även lågt liggande
+områden i anslutning till Stora Även och Viskan, se Figur 45 och 46.
+
+<!-- sida 293 -->
+
+Området närmast kusten eller områden utsatta för höjda havsnivåer kan delas in i olika zoner
+beroende på vilken säkerhetsmarginal de har till förväntad högsta havsnivå. Baserat på det
+kan olika typer av bebyggelse anses vara lämpliga beroende på hur känsliga de är, se Tabell 5.
+Exempelvis zon 4 utan säkerhetsmarginal till framtida havsnivå är det lämpligt med
+naturmark, jordbruk medan i zon 1 som har säkerhetsmarginal på 1m kan även
+Tabell 5 Planeringsnivåer för ny bebyggelse nära kuster för riskreducering översvämning
+samhällsviktiga byggnader planeras utan vidare åtgärder.
+(Stigande vatten - västra Götaland) (Ramboll Sweden AB, 2023)
+
+Exempelvis bostäder kan vara lämpligt i Zon 2 om sannolikhetsreducering och
+konskevenslindring görs. Samhällsviktiga byggnader och anläggningar ska dock alltid
+undvikas i alla zoner utom säkerhetszon 1.
+Majoriteten av planområdet där det planeras ny byggelse påverkas inte av höjda havsnivåer
+enligt denna analys men ett par områden gör det. I Figur 51 nedan visas grönmarkerade
+områden som sådana med 1m marginal till höjda havsnivåer på 3.5m. Detta är sådana
+områden som är lämplig för all typ av bebyggelse utan konsekvenslindring. Röda områden
+visar markhöjder på ≤+3.5m, vilka alltså inte bör bebyggas utan vidare åtgärder.
+
+84
+
+<!-- sida 294 -->
+
+85
+Figur 51. Zoner lämpliga för olika slags bebyggelse, för livslängd 100 år, dvs en havsnivåhöjning till +3,5.
+Svart linje markerar planområdesgräns. Kulörta linjer markerar områden planerade för olika typer av
+bebyggelse enligt strukturskiss i VA-utredningen. Källa: Ramboll Sweden AB (2023).
+Skyfall
+HVäarnmteeröaasr u nder kapitel 6.5.
+I stadsmiljö får klimatförändringarna en förstärkt effekt då den byggda miljöns fysiska
+struktur och byggnadsmaterial lagrar värme på dagen och sedan avger värme på natten. Det
+här kallas för den urbana värmeöeffekten och den gör att temperaturen i städer ibland kan
+skilja sig upp till tio grader Celsius från temperaturen på landsbygd. Effekten innebär
+negativa konsekvenser för människors hälsa och svaga grupper får särskilt svårt att
+återhämta sig på grund av den. Det är därför viktigt att urbana miljöer planeras och utformas
+på ett sådant sätt så att de negativa konsekvenserna av klimatförändringarna reduceras.
+(Boverket, u.å.)
+Varbergs kommun har gjort en kartläggning av värmeöar baserat på temperaturmätningar år
+2018, se Figur 52.
+
+<!-- sida 295 -->
+
+Figur 52. Karta som visar värmeöar i Varbergs kommun. Illustration: Varbergs kommun.
+
+Påverkan och konsekvens
+
+De områden som påverkas av höga havsnivåer ligger främst utanför de områden som
+planeras för ny bebyggelse. De är huvudsakligen den befintliga jordbruksmarken och
+naturområden som kan komma att drabbas enligt denna analys från Scalgo Live. Fem olika
+områden har pekats ut som större riskområden.
+1. Befintlig järnvägsräls söderut från nya stationsområdet och vidare över Viskan ligger
+under planeringsnivån för höjda havsnivåer.
+
+2. Industrimark där det planeras massupplagg med trä och virke beräknas påverkas av
+framtida höjda havsnivåer.
+3. Industriområde i nordvästra delen beräknas bli utsatt område för översvämningar.
+Ska området bebyggas behöver åtgärder göras alternativt anpassa höjdsättning av
+mark här.
+
+4. Västra delarna av de planerade bostadsområdena vid punkt 5 a) och b) beräknas
+kunna få översvämningsproblematik. Marken bör antingen anpassas genom lämplig
+höjdsättning, alternativt ej bebyggas med bostäder inom rödmarkerade områden i
+figuren. Marken kan istället användas för mindre typ av känslig bebyggelse, såsom en
+idrottsanläggning a) eller utökning av parkområde b) (se Figur 51).
+
+86
+
+<!-- sida 296 -->
+
+87
+Enligt planförslagets ställningstaganden kan en anpassning mot höjda havsnivåer behöva ske
+stegvis då takten på nivåhöjningen är svår att förutspå.
+Framtida riskreducering/konsekvenslindring kan behöva göras med hjälp av tekniska
+lösningar (högvattenskydd, specifika typer av byggnader).
+Enligt ställningstaganden i planen är budskapet att för helårsboende ska det säkerställas att
+byggnaden ej tar skada och el etc. fungerar även vid en översvämning. Det ska även gå att ta
+sig till och från dessa fastigheter på ett säkert sätt.
+Enligt VA-utredningen är det viktigt att kommunen landar i ställningstagande gällande
+tidshorisont för klimatanpassningen samt vad som ska skyddas, d.v.s. annat än nybyggnation
+i området. Om även befintligheter ska skyddas erfordras ett storskaligt skydd som påverkar
+höjdsättning för ny bebyggelse.
+Ytterligare en konsekvens av höjda havsnivåer kan bli höjda grundvattennivåer då
+grundvattenytan ofta fluktuerar i relation med havsnivån i kustnära områden. Vidare
+geoteknisk utredning bör undersöka detta. (Ramboll Sweden AB, 2023).
+I planförslaget finns en medvetenhet och en strategi kring hantering av havsnivåhöjningen
+bland annat genom placering av verksamheter, bebyggelse och höjdsättning. I avsnittet om
+vattenförhållanden lyfts även behov av att avsätta mark i lågpunkter för omhändertagande av
+dagvatten. Det finns goda förutsättningar för att planeringen i Väröbacka kan ske
+klimatanpassat och ge positiva konsekvenser.
+Planförslaget har till granskning justerats för att skapa ännu bättre förutsättningar för
+klimatanpassning. Inga nya områden för känslig markanvändning föreslås under den av
+kommunen definierade lägstanivån för grundläggning om +3,12 meter över havet. Det finns i
+planförslaget kvar förslag på tillkommande verksamhetsmark inom låglänta områden, men
+även dessa områden har reducerats i omfattning.
+Förslag på åtgärder
+•
+Gällande höjda havsnivåer och lämplig höjdsättning av området är det viktigt att
+kommunen landar i ställningstagande gällande tidshorisont för klimatanpassningen
+samt vad som ska skyddas (d.v.s. annat än nybyggnation i området) samt
+säkerhetsmarginal till dessa nivåer för olika typer av bebyggelse och
+•
+markanvändning.
+Behov av klimatanpassningar för höjd havsnivå, stormar, översvämningar,
+extremvärme etcetera behöver utredas i kommande detaljplaner och bygglov.
+6.10 KLIMATPÅVERKAN
+Förutsättningar
+Tillväxt förutsätter utveckling av bebyggelse, infrastruktur och verksamheter vilket har en
+global klimatpåverkan. Kommunal vilja finns att minska klimatpåverkande faktorer och FÖP
+ska stödja dessa frågor. Miljöaspekterna resurshushållning, energieffektivisering kopplat till
+lokalisering bör hanteras övergripande i MKB:n.
+Varberg har ambitionen att utveckla ett långsiktigt hållbart transportsystem genom att
+planera för hållbara transportslag såsom gång, cykel och kollektivtrafik.
+Erosion och strandmigration kommer att påverka stränderna i de södra och mellersta
+delarna av Hallandskusten. Högre havsnivåer hotar uppskattningsvis 70–80 procent av
+Hallands strandängar med hävdberoende biologiskt kulturarv, då de på sikt kommer att
+hamna permanent under vatten (Länsstyrelserna i Västra Götaland och Halland samt
+Västarvet, 2016). Strandängarna skapades tidigare i historien genom jordbrukets dåvarande
+
+<!-- sida 297 -->
+
+markanvändning. Idag saknar de ekonomisk betydelse och hävdas bland annat med
+jordbrukspolitikens miljöersättningar. I takt med att havsnivåerna stiger kan nya
+strandängar återskapas inåt land om markerna sköts på ett sätt som skapar gynnsamma
+förhållanden för spridning av de hävdberoende arterna. En förutsättning för detta är att
+bebyggelse och infrastruktur inte bildar barriärer som hindrar spridningen, så kallad coastal
+squeeze.
+Konsekvenser planförslaget
+
+Att bygga och underhålla transportinfrastruktur är ett energiintensivt arbete som generar
+växthusgasutsläpp och därmed har en påverkan på klimatet (Naturvårdsverket, u.å.). Utöver
+utbyggnad av transportinfrastruktur syftar planförslaget till en förväntad samhällsutveckling
+som innebär att ny bebyggelse förs upp i anslutning till den nya tågstationen vilket även det
+generar växthusgasutsläpp.
+
+Samtidigt innebär en etablering av den nya stationen att människor ges möjligheten att resa
+med tåg direkt från Väröbacka. Inrikes transporter står för en betydande del av Sveriges
+växthusgasutsläpp och för att begränsa transportsektorns klimatpåverkan krävs det att
+samhället ställer om till mer hållbara transportslag (Naturvårdsverket, u.å.). Bland olika
+transportslag är tåg ett av de miljövänligaste alternativen då de till stor del drivs av förnybar
+energi samtidigt som de är energisnåla (Transportstyrelsen, 2021). Den nya tågstationen
+innebär att mer hållbara transportslag gynnas i samhällsplaneringen och ett förverkligande
+av planförslaget kan på sikt förväntas leda till reducerade växthusutsläpp. Det är också
+planerat för att resenärer ska kunna ta sig till och från tågstationen genom att gå, cykla eller
+åka kollektivt. Det här kommer begränsa antalet resor som görs med bil och därmed även de
+växthusgasutsläpp som de generar.
+Genom att vidta åtgärder är det möjligt att begränsa de växthusgasutsläpp som uppstår vid
+byggnation och underhåll av järnväg, vägar och byggnader. Exempelvis går det att välja
+byggmaterial med lägre klimatpåverkan såsom trä, betong med bra klimatprestanda eller
+återbrukat material. Att installera mer effektiva uppvärmningssystem och använda sig av mer
+miljövänliga byggmetoder och konstruktionslösningar är andra exempel som kan begränsa
+Planförslaget bedöms bidra till att minska bilberoendet på lång sikt vilket kan bidra till positiva
+utsläppen av växthusgaser.
+konsekvenser för klimatpåverkan.
+7    Påverkan  på miljömål  och annan  miljöhänsyn
+
+7.1  MILJÖBALKEN
+
+Miljöbalken ska tillämpas så att:
+•  människors hälsa och miljön skyddas mot skador och olägenheter
+
+•  värdefulla natur- och kulturmiljöer skyddas och vårdas
+
+•  den biologiska mångfalden bevaras
+
+•  en långsiktigt god hushållning med mark, vatten och fysisk miljö i övrigt tryggas
+
+•  återanvändning och återvinning samt hushållning främjas så att kretslopp uppnås
+
+88
+
+<!-- sida 298 -->
+
+Allmänna hänsynsregler
+
+I miljöbalkens 2 kapitel redovisas de allmänna hänsynsregler som är grundläggande för
+prövningen om tillåtlighet, tillstånd, godkännande och dispens: bevisbörderegeln,
+kunskapskravet, försiktighetsprincipen, produktvalsprincipen, hushållnings- och
+kretsloppsprincipen, lokaliseringsprincipen, skälighetsregeln och skadeansvaret.
+Planarbetet kommer att bedrivas så att miljöbalkens allmänna hänsynsregler uppfylls.
+
+Hänsynsreglerna bedöms uppfyllas genom att en integrerad miljöbedömning och ska
+påverka planens utformning så att den negativa miljöpåverkan blir så liten som möjligt
+
+Åtgärder för att minimera de negativa konsekvenserna har föreslagits under respektive
+
+miljöaspekt. I flertalet fall kommer dessa förslag att hanteras och arbetas in i kommande
+detaljplaner.
+
+7.2. RELEVANTA MILJÖMÅL
+
+Miljöbedömningen ska ha utgångspunkt i kommunens hållbarhetsmål samt i aktuella och
+relevanta hållbarhets- och miljökvalitetsmål på global, nationell, regional nivå.
+
+Nedan görs en kort samlad bedömning om de olika alternativen bidrar till måluppfyllelse
+av de nationella miljömålen.
+
+Miljömålen utvärderas med hjälp av den regionala preciseringen av delmålen och
+sammanfattas med tabell 6 nedan.
+
+JA Ja, förslaget bedöms bidra till att uppnå målet.
+— Förslaget varken bidrar eller försämrar möjligheterna att uppnå målet.
+Ny Nej, förslaget bedöms inte bidra till att uppnå målet.
+
+Tabell 6. Samlad bedömning om hur de olika alternativen bidrar till måluppfyllelse av de nationella miljömålen.
+Jämförelse nollalternativ, samrådsförslag och planförslag till godkännandehandling (huvudalternativ).
+
+Mål Noll- Samrådsförslag | Motivering
+alternativ FOP Väröbacka
+
+Begränsad För nollalternativet bedöms påverkan på målet vara
+
+É neutral. Planerad bebyggelse är inte anpassad till nya
+klimatverkan ===> [om stationsläget vilket kan bidra till behov av biltransporter till
+stationen. I övrigt som planförslaget.
+
+I arbetet med den fördjupade översiktsplanen har hänsyn
+tagits till förväntade förhöjda havsnivåer och 100 års-regn.
+Planen möjliggör för ett nytt stationsläge vilket bidrar till att
+fler kan pendla med tåg. Planen möjliggör även att nya
+gång- och cykelstråk byggs ut. Genom ovanstående bidrar
+planförslaget positivt till måluppfyllelsen. Ny exploatering
+har alltid en stor klimatpåverkan, framför allt under
+byggnadsskedet, måluppfyllelsen bedöms därför
+sammantaget bli neutral för miljömålet begränsad
+klimatpåverkan.
+
+För nollalternativet bedöms påverkan på målet vara
+
+Frisk luft => JA neutral.
+
+Planförslaget möjliggör ett nytt stationsläge för tåg i
+Väröbacka vilket underlättar arbetspendling med tåg till
+och från orten. Om fler väljer tåg i stället för bil bidrar
+
+<!-- sida 299 -->
+
+planförslaget till minskade utsläpp från vägtrafik, som är
+en stor källa till luftföroreningar, framför allt i tätorter.
+Genom planförslaget utökas gång- och cykelvägar i
+området vilket också är positiv för måluppfyllelsen om fler
+kan välja att gå och cykla i stället för att ta bilen i området.
+
+Giftfri miljö
+
+Lika bedömning nollaltemativ och planförslag.
+
+I planområdet finns fyra konstaterade förorenade områden
+med riskklass 3. Eventuellt finns förorenad mark vid
+ytterligare verksamheter, 2 verkstadsindustri, sågverk,
+bilvårdsanläggning, betong och cementindustri,
+mellanlagring och sorteringsstation avfall samt en
+skjutbana.
+
+Vid exploatering hanteras förorenad mark i detaljplan
+alternativt bygglov så att riktvärden uppnås.
+Efterbehandling av förorenad mark för att kunna bygga
+behövs på flera platser vilket minskar föroreningarna i
+området.
+
+Ingen övergödning
+
+Lika bedömning nollaltemativ och planförslag.
+
+I kommande detaljplaner för både nollalternativ kommer
+MKN vatten att behöva hanteras. Bedömningen av
+påverkan på måluppfyllnad blir därför lika. I planförslaget
+har det tagits ett mer helhetsgrepp för hanteringen av
+dagvatten vilket är positivt.
+
+Om jordbruksmark tas i anspråk minskar besprutningen
+och övergödningen vilket kan påverka vattenmiljön.
+
+Levande sjöar och
+vattendrag
+
+Lika bedömning nollaltemativ och planförslag.
+
+En väl planerad dagvatten- och avloppshantering kommer
+bidra till uppfyllelse av målet.
+
+Grundvatten av
+god kvalitet
+
+Lika bedömning nollaltemativ och planförslag.
+
+Andelen hårdgjord mark ökar vilket minskar
+grundvattenbildningen lokalt. Risk för förorening vid ökad
+trafik och farliga transporter. I planen kommer områden för
+fördröjning av dagvatten anläggas vilket gynnar bildningen
+av grundvatten och rening som till viss del kan
+kompensera.
+
+Områden med markföroreningar kommer att
+efterbehandlas vilket minskar risken för spridning av
+miljöföroreningar till grundvattnet.
+
+Om jordbruksmark tas i anspråk minskar besprutningen
+och övergödningen vilket kan gynna kvaliteten på
+grundvattnet.
+
+Hav i balans samt
+levande kust och
+skärgård
+
+Lika bedömning nollaltemativ och planförslag.
+
+En väl planerad dagvatten- och avloppshantering kommer
+bidra till uppfyllelse av målet.
+
+Myllrande
+våtmarker
+
+VY
+
+I nollalternativet finns inga områden för natur planlagda.
+
+I planförslaget kommer befintliga dammar att planläggas
+som natur. Flera dagvattendammar kommer att anläggas
+och flera av dem ska utformas också för att gynna den
+biologiska mångfalden där det är möjligt.
+
+Ett rikt
+odlingslandskap
+
+Nollalternativet innebär att FÖP norra kusten genomförs
+och att ytor av jordbruksmark tas i anspråk vilket bedöms
+vara negativt för måluppfyllelsen.
+
+Planförslaget innebär att odlingsbar jordbruksmark tas i
+anspråk för en utveckling av samhället. En
+lokaliseringsutredning har gjorts där det alternativ som nu
+presenteras är det som tar minst jordbruksmark i anspråk.
+Planförslaget innebär en utveckling med infrastruktur,
+bostäder, verksamheter och skolverksamheter som utgör
+ett väsentligt samhällsintresse. Planförslaget bidrar
+måttligt negativt till måluppfyllelsen.
+
+90
+
+<!-- sida 300 -->
+
+on Planförslaget möjliggör för en sammanhållen utveckling av
+God bebyggd miljö | JA samhället med ett nytt stationsläge, nya bostäder,
+
+kontorsplatser, skola, serviceboenden, parker, fler gång-
+och cykelvägar samt nya centrala mötesplatser och
+aktivitetsytor. Nya gång och cykelstråk gynnar
+upplevelsevärden och ökar trygghetskänslan. Ny
+bebyggelse mellan Väröbacka och Limabacka ökar
+förbindelsen och tillgängligheten och samhörigheten
+mellan samhällena. Vid utformning av bostäder och
+arbetsplatser i nära anslutning till väg och jämväg är det
+viktigt att de utformas med hänsyn till buller för att skapa
+en god bebyggd miljö.
+
+I nollalternativet är ingen natur planlagd.
+
+. W I planförslaget är ställningstagandet att de ekologiska
+sambanden ska stärkas. I planförslaget bevaras de flesta
+naturområdena, parker och grönstruktur för att gynna den
+Ett rikt växt- och gröna infrastrukturen planeras vilket är positivt. Mark tas i
+djurliv anspråk och bebyggs när planen förverkligas vilket medför
+att det även medför en negativ påverkan på naturvärden.
+Påverkan på skyddade arter bedöms i senare skede,
+kompletterade artutredningar kommer sannolikt att
+behövas.
+
+Regionala och kommunala miljökvalitetsmål
+
+I Halland finns inget regionalt åtgärdsprogram för miljömålen, men det finns flera
+regionala strategier och program som tillsammans leder mot miljömålen, exempelvis
+den regionala energi- och klimatstrategin (Länsstyrelsen Hallands län, 2019).
+Framöver planerar Länsstyrelsen att ta fram ett regionalt åtgärdsprogram för
+miljömålen med en samlad bild över de strategiska uppdrag och befintligt arbete som
+pågår i länet kopplat till miljömålen och den miljömässiga delen av Agenda 2030.
+
+För Varbergs kommun finns lokala hållbarhetsmål för perioden 2017-2025 (Varbergs
+kommun, 2014). Följande mål har kommunen valt att rikta in sig på och arbeta mer fokuserat
+med:
+
+e  Livskraftiga ekosystem - Naturen med sin fantastiska mångfald och myller av liv ska
+värnas för sitt egenvärde och för människans skull. Varberg ska långsiktigt bevara och
+stärka de lokala ekosystemen och verka för ett hållbart nyttjande av
+ekosystemtjänster globalt.
+
+« - Hållbar resursanvändning - I Varberg ska vi leva resurssnålt och sträva efter slutna
+kretslopp. Resursanvändning ska ske med minsta möjliga miljöpåverkan i ett
+livscykelperspektiv.
+
+« -Välmående samhälle - I Varberg ska ges förutsättningar för människor att må bra. Vi
+tar ett gemensamt ansvar för att vår välfärd och samhällsutveckling inte sker på
+bekostnad av andra människor eller miljön.
+
+7.3 - PÅVERKAN PÅ MILJÖKVALITETSNORMER
+
+Miljökvalitetsnormer är bindande nationella föreskrifter om lägsta godtagbara miljökvalitet.
+Normer finns beslutade för såväl ytvatten, grundvatten som luft och avser olika kemiska,
+fysiska och biologiska parametrar. Kommuner och myndigheter är ansvariga för att
+miljökvalitetsnormer följs och att, inom sina respektive ansvarsområden, vidta de åtgärder
+som behöver göras enligt fastställda åtgärdsprogram.
+
+Prövning av ny bebyggelse gentemot MKN sker i detaljplaneskedet. En detaljplan får inte
+antas om dess genomförande skulle medverka till att en miljökvalitetsnorm inte följs
+(Naturvårdsverket, 2019). I kapitlet för vatten, kapitel 6.5, görs en bedömning om MKN
+
+91
+
+<!-- sida 301 -->
+
+kommer innehållas och om risk föreligger att MKN inte uppfylls och vad som bör lyftas i
+detaljplaneskedet.
+
+Varbergs kommun omfattas ej av miljökvalitetsnormerna för buller.
+Miljökvalitetsnormerna för luft bedöms ej överskridas. Enligt kommunens genomgång av
+utredningar om luftkvalité i de centrala delarna av Varberg med stora trafikvolymer,
+upprepade gånger visat att luftkvalitén inte överstiger gränsvärden för MKN luft. Eftersom
+trafikbelastningen i Väröbacka är mycket lägre, samtidigt som bebyggelsen inte är lika sluten,
+bedöms det inte finnas anledning att misstänka att det föreligger risk för MKN luft i
+Väröbacka.
+7.4  SAMLAD BEDÖMNING  AV ÖVRIGA LAGSTADGADE SKYDD
+
+Riksintressen
+
+Riksintressen för naturvård 3 kap 6 § MB
+Klosterfjorden -Getterön (Riks-ID 13009)
+
+Ingen exploatering planeras inom riksintresset men det skulle kunna påverkas negativt av en
+befolkningsökning och på grund av ett ökat besökstryck. I planen finns
+grönstråk/rörelsestråk, söder om Backa gård mot Lahall och Hultakullen, som tillgängliggör
+strandområdet mer än idag. Detta är självklart positivt för friluftslivet och rekreation men ett
+för högt besökstryck kan utgöra en störning på fågellivet och ett ökat slitage på
+strandängarna med dess mångfald. Om besökstrycket kan styras ifrån de känsligaste
+områdena och speciellt då under häckningssäsong skulle det vara positivt för riksintresset.
+
+Vid en ökad fragmentering av jordbrukslandskapet finns också en risk att betet upphör och
+att strandängarna på sikt växer igen. Detta skulle kunna motverkas genom att planlägga
+dessa delar som natur och upprätta naturskötselavtal med markägarna.
+Den höjda vattennivån som förväntas på grund av klimatförändringarna gör att
+strandängarna successivt kommer att flyttas upp mot land. Planen behöver tillse att det finns
+tRililkrsäicnktrliegsts uet rfyömr fmrileu ffötsrl idve 3tt kaa ip s ö6d §r aM dBe len av planområdet.
+Viskan (FN06)
+
+Planförslaget bedöms ha positiva konsekvenser för riksintresset för friluftsliv, Viskan, då
+pRliaknseinnt rteilslgsäenng elinglgigötr 3s tkraapn d8o §m mråildjöebnaal pkeån e tt bättre sätt än tidigare.
+Västkustbanan och E6 Trelleborg hamn-Göteborg-Svinesund/E20 Öresundsbron -Malmö-
+Göteborg-Örebro-Stockholm
+
+Riksintressena bedöms inte påverkas negativt av planen. En ny station på sträckan gör att fler
+eRnikkslainrter eksasne n hyöttgjae xtåpgloföartebrinadd eklusesrt noac fhö rrö prelingdt lfirnilgu. f tsliv, 4 kap. 4 och 2 § MB
+Kustområdet
+
+Hela planområdet ligger inom riksintresset Kustområdet. Riksintresset avser Övriga kust-
+och skärgårdsområden som har stora bevarandevärden. Etablering av miljöstörande
+anläggningar får ske på platser där liknande verksamhet redan finns.
+Kustområdet i Hallands län omfattas av bestämmelserna enligt 4 kap. 2 och 4 §§ MB och är av
+riksintresse för rörligt friluftslivet och högexploaterad kust. Här ska turismens och friluftslivets,
+främst det rörliga friluftslivets, intressen särskilt beaktas vid bedömningen av tillåtligheten av
+exploateringsföretag eller andra ingrepp i miljön. Bestämmelserna bedöms inte utgöra hinder för
+utvecklingen av befintliga tätorter och utveckling av det lokala näringslivet.
+
+92
+
+<!-- sida 302 -->
+
+93
+Riksintresse Natura 2000 Fågeldirektivet SPA, 4 kap. 8 § miljöbalken
+Båtafjorden (SE0510176)
+Ingen exploatering kommer att ske inom riksintressena för naturvård inklusive Natura 2000-
+området Båtafjorden men en exploatering i närheten av Båtafjorden, längs ån Stora Även och
+omgivande öppna jordbrukslandskap skulle kunna påverka riksintresset negativt. Stora Även
+rinner genom planområdets norra del och fortsätter vidare in genom Natura 2000-området
+Båtafjorden. Ån är en viktig del av områdets naturvärde och är av betydelse för fågelfaunan
+då flera arter söker föda i och vid åns närområde bl.a. troligen pilgrimsfalk, stenfalk, blå
+kärrhök och brun kärrhök.
+Om betesmarker och viktiga element såsom trädridåer, vattendrag och stenmurar i åkermark
+sparas och exploateringsgraden inte blir allt för stor minskar påverkan. Det är också av stor
+vikt att vattenkvaliteten inte försämras och hanteringen av dagvatten och skyfall utreds noga
+i aktuella detaljplaner och samordnas inom avrinningsområdet för att säkerställa detta. VA-
+utredningen visar att det är möjligt att bygga ut området och samtidigt inte påverka
+miljökvalitetsnormerna negativt (Ramboll Sweden AB, 2023).
+För att kunna bedöma påverkan på skyddsarterna i Natura 2000-området behövs en studie
+över hur åkermarken som ska exploateras används av de olika fågelarterna och hur en
+störning från exploateringen skulle kunna påverka.
+Kumulativa effekter från havsnivåhöjningen behöver också beaktas.
+För att säkerställa att dessa områden bevaras och sköts så att riksintressena syften
+upprätthålls bör tillräcklig intilliggande mark planläggas som natur och strandskyddet
+behållas. Skötseln av strandängarna bör säkerställas genom naturvårdsavtal med
+markägarna.
+För att säkerställa att dessa områden även i framtiden kan hålla dessa höga värden bör inte
+exploatering ske så nära att en framtida förflyttning av strandängarna upp mot land, på grund
+av havsnivåhöjningarna, hindras.
+Planförslaget till granskning har i de naturområden som angränsar till Natura 2000-området
+justerats från grönstråk till jordbruk. Det har på så sätt förtydligats att dessa inte kommer
+utvecklas som parkliknande grönstråk utan även fortsättningsvis utgöras av natur och
+odlingsmark. Med hänsyn till det låglänta läget har exploateringen i de till Båtafjorden
+närmsta verksamhets- och idrottsområdena tagits bort från planförslaget. Planförslaget
+bedöms inte öka besökstrycket på Natura 2000-området eller markområden närmast intill då
+inga besökare leds in i riktning mot området.
+Det kan inte uteslutas att en prövning enligt Natura-2000-lagstiftning kan komma att bli
+aktuell i kommande detaljplaner.
+Skyddade områden enligt miljöbalken kapitel 7
+Strandskydd
+Det råder utvidgat strandskydd 300 m vid kusten vilket berör den södra delen av
+planförslaget. Området som berörs är fortsatt areell näring, likaså för området i sydöst som
+omfattas av Viskans strandskydd.
+Ett vattendrag löper norrifrån parallellt med järnvägsspåret och mynnar i Viskan söderut. I
+de väldigt begränsade områden som FÖP:en tillåter planläggning för bostadsändamål inom
+strandskyddat område kommer strandskyddet att behöva upphävas.
+Anordnande av ett socialt grönt stråk för rörelse/vistelse inom strandskyddsområdet kan
+eventuellt kräva strandskyddsdispens.
+Behov av strandskyddsdispens eller upphävande av strandskydd genom detaljplan kommer
+att hanteras i senare skede.
+
+<!-- sida 303 -->
+
+Biotopskydd
+
+De objekt som omfattas av generellt biotopskydd är skyddade enligt 7 kapitlet miljöbalken
+och om någon av dessa påverkas kommer dispens att behövas. Detta kommer hanteras i
+senare skede.
+Markavvattningsförbud miljöbalken kapitel 11
+
+Dispens från markavvattningsförbudet bedöms inte behövas. Detta kommer att studeras mer
+i detalj i kommande detaljplaner och bygglov.
+Fornlämningar kulturmiljölagen kapitel 2
+
+Fornlämningar hanteras i kommande detaljplaner eller bygglov. Eventuellt kan arkeologiska
+utredningar behövas i samband med kommande detaljplanläggning och kommunen kommer
+därför att införa potentiella fornlämningsområden som ett kompletterande skikt i FÖP:en.
+Skyddade arter
+Eventuellt kan artskyddsdispens krävas om skyddade växter eller djur eller i vissa fall
+deras livsmiljöer påverkas. Riktade artinventeringar och artskyddsutredningar kan behövas
+i detaljplaneskede alternativt vid bygglov.
+
+7.5  HUSHÅLLNING MED MARK- OCH VATTENRESURSER
+
+Förutsättningar
+
+Enligt 3 kap 4 § miljöbalken är jordbruksnäringen av nationell betydelse. Brukningsvärd
+jordbruksmark får tas i anspråk för bebyggelse eller anläggningar endast om det behövs för
+att tillgodose väsentliga samhällsintressen och detta behov inte kan tillgodoses på ett från
+allmän synpunkt tillfredsställande sätt genom att annan mark tas i anspråk. 2 kap 2 § PBL
+fastställer att planläggning och prövningen i ärenden om lov eller förhandsbe sked enligt
+denna lag ska syfta till att mark- och vattenområden används för det eller de ändamål som
+områdena är mest lämpade för med hänsyn till beskaffenhet, läge och behov.
+
+Inom föreslaget planområde finns jordbruksmark som kommunen vill ta ur bruk till annan
+markanvändning. En lokaliseringsutredning har därför utförts av Radar Arkitekter på
+uppdrag av Varbergs kommun, (Radar, 2023), Bilaga 9.
+Varberg har, i samband med framtagandet av en ny kommunövergripande översiktsplan,
+tagit fram en analys av värden för jordbruksmarken i kommunen. Analysen utgår från såväl
+markbundna faktorer, alltså de platsbundna förutsättningarna för jordbruksmarken att vara
+brukningsvärd, samt den aktuella markanvändningen som inbegriper faktorer som beskriver
+dagens brukningsvärde. Resultaten redovisas för sex delområden, där Väröbacka ingår i
+Spricklandskapet.
+
+I en jämförelse mellan områdena framgår att Slättbygden har störst andel jordbruksmark (60
+%) och högst värden på både markbundna värden och aktuell markanvändning. Störst
+åkermarksareal har mellanbygden med omkring 25 000 ha.
+Spricklandskapet är ett av fyra områden med mest åkermarkareal, där samtliga har mellan 20
+000 och 25 000 ha åkermark. De två övriga utgörs av areamässigt väldigt små områden
+utmed kommunens kustremsa. För Spricklandskapet utgör åkermarken 30 % av den totala
+arean. Avseende resultaten för området hamnar det på plats tre av sex både för de
+markbundna värdena och den aktuella markanvändningen. Alla värden är att betrakta som
+goda, och förutsättningarna för att bedriva jordbruk är goda i kommunen men de bästa
+förhållandena ligger inte i Spricklandskapet.
+
+94
+
+<!-- sida 304 -->
+
+95
+Jordbruksmark räknas generellt som brukningsvärd förutsatt att den brukats för
+jordbruksändamål historiskt sett. I planområdet utgörs 60% av marken jordbruksmark enligt
+Jordbruksverket. Merparten av marken utgörs av åkermark, med inslag av betesmark, i
+varierande storlek. Även om markerna delas upp av vägar, diken, skogspartier och byggnader
+så består området i stora drag av sammanhängande jordbruksmarker med god arrondering.
+Inom planområdet finns ett knappt tiotal aktiva djurhållningsplatser och en handfull
+identifierade objekt i ängs- och hagmarksinventeringen.
+Jordbruksmarken inom FÖP Väröbacka bedöms vara brukningsvärd. Därmed behöver
+Varbergs kommun visa att den jordbruksmark som tas i anspråk för bebyggelse eller
+anläggning utgör ett väsentligt samhällsintresse.
+Vad som är ett väsentligt samhällsintresse är inte helt definierat men utgår från de fyra
+
+områdena:
+
+Bostadsförsörjningsbehovet
+
+lokalisering av bostäder och arbetsplatser nära varandra,
+
+att skapa väl fungerande och lämpliga tekniska försörjningssystem
+att säkerhetsställa viktiga rekreationsintressen.
+•
+För Väröbacka finns framför allt två grunder för det väsentliga samhällsintresset.
+Stationssamhällets utbyggnad en viktig pusselbit för att tillskapa bostäder till en
+växande befolkning. I och med etablering av en ny station i Väröbacka förbättras
+förutsättningarna för kommunikationer i området avsevärt samt möjligheterna att
+•
+resa hållbart.
+Utvecklingen är en viktig del i tillskapandet av bostäder och arbetsplatser nära
+varandra. I anslutning till planområdet ligger Ringhals kärnkraftverk samt Södra Cell
+vilka båda är företag som växer och expanderar.
+Sammantaget bedöms förslagen markanvändning utgöra ett väsentligt samhällsintresse.
+Intresset motiveras både utifrån grunden om bostadsförsörjningsbehovet och av grunden om
+att lokalisera bostäder och arbetsplatser nära varandra. Exploateringen av jordbruksmark
+bedöms bidra med värden som sammantaget bidrar till en långsiktigt hållbar utveckling.
+Fyra lokaliseringsalternativ har varit aktuella inom den översiktliga planeringen sedan 1990-
+talet. Samtliga blev utredda av Trafikverket i deras funktionsutredning 2018. Utredningen
+resulterade i att två alternativ blev avfärdade på grund av de omfattande ombyggnationer
+dessa förutsatte. De alternativ som kvarstod var norra 1 och södra 1. År 2021 tog kommunen
+fram en lokaliseringsutredning som ansåg att det södra läget var mest fördelaktigt på grund
+av bland annat att alternativet innebär minst påverkan på värdefull jordbruksmark.
+Det södra stationsområdet utgörs av en betydlig lägre andel jordbruksmark än det norra
+alternativet, 51% jämfört med 83%. Värden kopplade till jordbruksmarken anses på
+övergripande plan vara sämre både utifrån den gamla 10-gradiga klassningen från
+Lantbruksstyrelsen och enligt en ny analys av markbundna faktorer och aktuell
+markanvändning som pågående översiktsplan tagit fram. Däremot påverkar det södra
+stationsområdet fler produktionsplatser med djurhållning.
+Efter samrådet har FÖP:en arbetats om och inför granskning har två ytor som berör
+jordbruksmark justerats (BA3 ersätter S6 i samrådsversionen, V4 området har utgått och
+ingår numera i område AN4, areellnäring). Dessa ändringar gör så att mer brukningsvärd
+jordbruksmark bevaras. Att mindre jordbruksmark tas i anspråk är positivt ur ett
+livsmedelsförsörjningsperspektiv.
+I samrådsförslaget togs cirka 184 ha jordbruksmark i anspråk. Då ovanstående justeringar
+gjorts i planförslaget minskar ianspråktagandet av jordbruksmark med cirka 45 ha. Cirka 139
+ha jordbruksmark kommer att tas i anspråk i granskningsförslaget.
+
+<!-- sida 305 -->
+
+Att mer jordbruksmark bevaras bidrar till trygg och långsiktigt hållbar livsmedelsförsörjning
+en viktig samhällsfunktion, särskilt vid kris eller höjd beredskap. Inom området Väröbacka
+finns brukningsvärd jordbruksmark som, utifrån ett livsmedelsförsörjnings- och
+beredskapsperspektiv, bör värnas.
+
+I den fysiska planeringen är det därför av stor vikt att prioritera bevarandet av åkermark för
+odling, i enlighet med såväl nationella miljömål som kommunala riktlinjer för hållbar
+markanvändning. Åkermarken i området utgör dessutom en viktig klimatanpassningsresurs.
+I takt med stigande havsnivåer kan den fungera som en naturlig buffertzon mellan havet och
+befintlig bebyggelse. Dessutom kan lägre liggande jordbruksområden på sikt utvecklas till
+nya strandängar, vilket delvis kan kompensera för förlusten av befintliga strandmiljöer och
+bidra till att bevara den biologiska mångfalden i kustzonen även för framtida generationer.
+Ur kulturmiljösynpunkt har jordbrukslandskapet i Väröbacka också ett högt värde, då det
+speglar den historiska markanvändning och bidrar till den öppna landskapsbilden som är
+karaktäristisk för området. Att bevara mer jordbruksmark bidrar därför inte bara till
+livsmedelstrygghet och klimatanpassning, utan också till att stärka kulturmiljön och
+landskapsidentiteten.
+Sammantagen bedömning
+
+Markanvändningen i planförslaget bedöms utgöra ett väsentligt samhällsintresse. Det södra
+alternativet anses vara det bästa alternativet sett till 3 kap 4 § MB, motiverat utifrån grunden
+om bostadsförsörjningsbehovet och arbetsplatser nära varandra. Exploateringen av
+jordbruksmark bedöms bidra med värden som sammantaget bidrar till en långsiktigt hållbar
+utveckling. Motiveringen innebär att det föreligger ett väsentligt samhällsintresse för
+planerad markanvändning i Väröbacka, som inte på ett tillfredsställande sätt kan tillgodoses
+utanför FÖP-områdets avgränsning. Lokaliseringsprövningen anser att planerad
+markanvändning skulle vara motiverad enligt 3 kap 4 § MB även i andra lägen inom
+planområdet.
+Lokaliseringsutredningen bifogas miljökonsekvensbeskrivning i Bilaga 9.
+7.6  EKOSYSTEMTJÄNSTER
+
+Ekosystemtjänster (EST) är alla produkter och tjänster som naturens ekosystem ger oss
+människor. Hur vi använder mark och vatten, planerar och bygger är centralt för naturens
+förmåga att fortsätta leverera EST, samt för att leverera nya EST. Det finns flera
+internationella och nationella mål som lyfter betydelsen av EST i fysisk planering.
+
+I samband med framtagande av planförslaget har en Ekosystemtjänst kartläggning utförts
+(Calluna AB, år?; Calluna AB, år?; Calluna AB, år?; Calluna AB, år?). Denna bifogas i sin helhet i
+Bilaga 10.
+Ekosystemtjänsterna är uppdelade i fyra grupper: försörjande, reglerande, kulturella och
+stödjande ekosystemtjänster. Ett urval av ekosystemtjänster i dessa grupper har utvärderats
+mer i detalj i rapporten. I Figur 53 redovisas hotspots för ekosystemtjänster i planområdet.
+Dessa utgörs i sammanhanget av områden med högt sammanlagt värde för
+ekosystemtjänster. Ju större värde för ekosystemtjänster desto mörkare nyans. Värdekärnor
+för ekosystemtjänster kan benämnas som multi- eller mångfunktionella ytor. Ekosystemen i
+en värdekärna levererar flera ekosystemtjänster och är därför mångfunktionella ur ett
+ekosystemtjänstperspektiv. Det betyder inte att mångfunktionella områden nödvändigtvis är
+viktigare än andra. Hur viktigt ett område och en ekosystemtjänst är relaterar också till vilket
+behov av ekosystemtjänsten som finns på platsen. Värdekärnorna för ekosystemtjänster
+sammanfaller i hög grad med områden som har klassade naturvärden, se kapitel 6.3.
+
+96
+
+<!-- sida 306 -->
+
+97
+Figur 53. Ekosystemtjänster i planområdet. Ju mörkare område desto högre värde för ekosystemtjänster. (Calluna, 2022)
+7.7  UPPFÖLJNING AV PLANEN
+Planen följs upp i detaljplane- och bygglovsprocesser för samtliga aspekter. Vid behov
+rekommenderas att kontrollprogram tas fram för de aspekterna med risk för betydande
+miljöpåverkan vid respektive kommande detaljplaner.
+Miljöövervakning av vattenkvalitet sker inom ramen för recipientkontroll av vatten.
+Recipientkontrollen samordnas av respektive vattenvårdsförbund som bedriver
+miljöövervakning inom avrinningsområdena.
+
+<!-- sida 307 -->
+
+8    Bedömning   av Kumulativa   effekter
+
+Enligt Miljöbedömningsförordning (2017:966) 11 § och 13 § ska kumulativa effekter utredas,
+beskrivas och bedömas.
+Kumulativa effekter uppstår när flera olika effekter samverkar med varandra. Det kan handla
+om att olika typer av effekter från en och samma verksamhet samverkar eller att effekter från
+olika verksamheter samverkar.
+
+De kumulativa effekterna kan ge upphov till en förstärkning av påverkan alternativt en
+motverkan av påverkan. Det kan också bildas en synergieffekt där kombinationen av
+effekterna blir större än summan av de enskilda.
+Det finns flera pågående projekt som kan ge kumulativa effekter på landskapsbilden
+exempelvis det nya planprogrammet för Bua, se kapitel 5.2. Pågående eller kommande
+planering i omgivningen.
+
+Bua står för en omfattande utveckling och parallellt med den fördjupade översiktsplanen
+pågår arbete med tre detaljplaner. Dessa beskrivs i kapitel 5.2.De nya planförslagen skulle
+kunna ge kumulativa effekter på bl.a. upplevelsen av landskapet, hushållning av
+Knautluturrrmesiuljörs oerc h(j ourpdpbleruveklssmenar akv) , ltarnadfiskk, aripsekte r, biologisk mångfald och vattenmiljöer.
+
+En successiv bebyggelseutveckling längs kusten kan ge upphov till kumulativa effekter på
+landskapsbilden. Hänsyn till detta har tagits vid planeringen av både Bua och Väröbacka då
+den nya bebyggelsen som planeras är till stor del en förtätning av befintlig bebyggelse eller
+en utveckling intill redan befintliga strukturer.
+
+I Väröbacka har exploateringen i planområdet till viss del förenats med kultur- och
+landskapsvärden genom anpassningar efter viktiga siktlinjer och kulturmiljöer, med syfte att
+bevara dessa värden. En förändrad landskapsbild kan dock ge negativ påverkan på
+besöksnäringen och friluftslivet.
+Ny infrastruktur, i form av nya vägar och luftledningar, kan också ge negativ påverkan på
+uNpaptulermveilljsöenn oacvh la dnedns kbaiopleotg. iska mångfalden
+
+De nya planerna ger möjligheter till positiva effekt på den gröna infrastrukturen om dess
+gröna strukturer samplaneras. Om detta inte görs riskerar den biologiska mångfalden att
+påverkas negativt.
+Naturmiljön kan också påverkas både positivt eller negativt beroende på hur vattenmiljöerna,
+skyfallshantering och dagvatten hanteras. Om fördröjningsdammar designas och planeras på
+platser så att den biologiska mångfalden gynnas förutom att vattenkvaliteten förbättras så
+kan det få en stor positiv effekt både för specifika arter men även sekundära effekter som
+koldioxidfälla, minskad värmeutstrålning, en positiv effekt på upplevelsen av landskapet och
+friluftslivet.
+
+Planförslaget tillsammans med de andra aktiva planerna, bedöms kunna bidra till indirekta
+störningar. Genom att fler människor med ökad rörelse riskerar att öka slitaget och störning i
+naturområdena. Besökstrycket behöver därför styras ifrån de mest känsliga naturområdena,
+exempelvis vid strandängarna vid Bua med dess rika fågelliv.
+Om en samordning sker mellan de olika planerna och rekreation styrs bort från de mest
+känsliga områdena kan påverkan till och med minskas jämfört med idag.
+
+Strandängarna och intilliggande jordbruksmark kommer söderifrån att påverkas av
+havsnivåhöjningarna och markområden för strandängar kan behöva avsättas inom
+planområdet för att kompensera för de som i ett framtidsscenario kommer att ligga under
+
+98
+
+<!-- sida 308 -->
+
+99
+vatten. Jordbruksmarken påverkas även norrifrån av nytt verksamhetsområde. Denna
+Vkuamtteunla tiva effekt kan påverka bl.a. födosöksområden för fågel.
+Dagvattenhantering och klimatanpassning i form av hantering av skyfall är en viktig fråga att
+studera ur ett större perspektiv för att optimera lösningar och minimera påverkan på
+miljökvalitetsnormerna. Både Bua och Väröbacka ligger till stor del inom samma
+avrinningsområde och hanteringen av vatten bör studeras utifrån den sammanlagda effekten
+och gemensamma behovet av fördröjning. Vattnet följer inte givna plangränser.
+Det finns tillräckliga ytor och möjliga tekniska lösningar för att hantera dagvatten utan
+negativ påverkan på miljökvalitetsnormer och med det i förlängningen påverkan på Natura
+2000-området. Det finns genom de krav som ställs på nyexploatering möjlighet till att
+förbättra situationen för rening och fördröjning vilket är till nytta för Natura 2000-området.
+Hänsyn till genomförbarheten av exploateringarna har bedömts utifrån en översiktlig
+dagvattenutredning för respektive område och möjligheten att hantera dagvatten är en
+grundläggande förutsättning för att ett område ska ses som lämpligt att föreslås för
+eRxispkloear tering.
+Avseende kumulativa risker från farligt gods på flera vägar och/eller järnväg så gör
+riskutredningen bedömningen att Västkustbanan med bred marginal är den
+dimensionerande riskkällan för området när det gäller transporter av farligt gods, eftersom
+beräkningar av individrisken för samtliga vägar visar på låga risknivåer. Det transporteras
+mer än en faktor 10 fler transporter på Västkustbanan jämfört med den mest trafikerade
+vägen, vilket innebär att risknivåerna och skyddsåtgärderna är helt beroende av risknivån
+från Västkustbanan. Behov av fördjupade analyser avseende kumulativa risker fastställs och
+genomförs vid behov i senare planeringsskeden.
+Planförslaget innebär att en större mängd människor vernkeaurt roaclh k boonrs einkvoemn se ftöt ro rmisrkåde med
+ett flertal riskkällor. Om de rekommenderade skyddsavstånden följs och riskerna utreds och
+följs upp under planeringen bedöms planförslaget ha en .
+Det kan finnas behov av fördjupade riskutredningar i senare skede och det kan finnas
+scenarier där flera risker samverkar. Kumulativa effekter från buller, vibrationer,
+hKalivmsantipvååhveörjnkainng , skyfall etc. kan påverka skyddsavstånden.
+Utveckling i närområdet kan också ge samordningsvinster i form av bättre transporter vilket
+i sin tur kan minska klimatpåverkan på sikt. Den nya stationen i Väröbacka kommer att
+minska behovet av att pendla med bil också från Bua och övriga kringliggande områden. För
+klimatpåverkan bidrar planförslaget till en positiv kumulativ effekt.
+9    Samlad  bedömning    av miljöpåverkan
+Landskapsbild
+Väröbacka och Limabacka ligger mitt på slätten vilket gör att en utbyggnad av station och nya
+bostäder i Väröbacka kommer att förändra upplevelsen av landskapet. Utblickarna mot Värö
+kyrka, gårdarna i Backa by och mot Bua är viktiga för upplevelsen av landskapet och ger
+Slaanmdmskaanpteatg deet sbse kdaörmask tkäorn. sDeek vgeanmselarn vaä gaavr pnlaa,n sftöernsmlaguerta rb loi cshto breat-e msmåtatrlikgear fköor mlamndesrk tailpl ssbtioldr del
+att bevaras för att upplevelsen av det äldre jordbrukslandskapet ska finnas kvar.
+Kulturmiljö                                               en.
+Exploateringen i planområdet kan till viss del förenas med kulturmiljövärdena men en del
+inslag påverkar dock de kulturhistoriska karaktärsdragen. Kyrkbyn bevaras enligt
+planförslaget men siktlinjen/vyn mot kyrkan kommer att påverkas även om det genom god
+
+<!-- sida 309 -->
+
+planering går att bevara några av utblickarna mot kyrkan från väg 845 genom den nya
+bebyggelsen.
+
+Gårdsmiljön vid Backa by komSmamerm aattn ptaågveetr kbaesd önmegsa ktoivnts aevk vpelnasnefrönras laavg eptl agnefnöormsla agtet td peån
+hkuislttourrimskilajö lnä sbblai rsmheåt-emn åi tltalnigdts nkeagpaetti vföar.sämras genom att bebyggelsen tar odlingsmarken
+söder om gårdarna i anspråk.
+Naturmiljö
+
+Det finns närliggande naturområden med höga-mycket höga naturvärden. Den marken som
+planeras för bebyggelse undviker helt områden med höga naturvärden vilket är positivt
+liksom att planeringen har höga ambitioner att säkra och utveckla grön och blå infrastruktur.
+Dock minskar de öppna jordbrukslandskapen och en utbyggnad leder till ökade störningar
+med mer trafik, sbmuåll-emr,å btetlsiögka in gergöantiovma rkåodnesnek, lvjeunssföerr oförer nniantguarrm viilljköe otc ähv deenn k boimolmogeirsk ma edföra
+nmeågnagtifvaald eefnfekter. Sammantaget bedöms planförslaget med anpassningar och skyddsåtgärder
+kunna medföra
+Friluftsliv .
+
+Hela kommunen har sommartid ett högt besökstryck. Särskild hänsyn behöver därför tas till
+en hållbar utveckling av friluftslivet samt aktiviteter och anläggningar kopplade till detta.
+Frågor att beakta är slitage på känsliga naturområden, värna befintliga friluftsområden och
+förstärka de gång- och cykelstråk. Infrastrukturen bör utformas så att de inte utgör barriärer
+för friluftslivet. Enligt planförslaget bevaras och förstärks skogsområden och grönytor och
+detta är positivt inte bara för natur utan också för rekreation, frilupfotssiltiivv ao ckho mnsäenkvneisnksoerr sp håä lsa.
+Tomätroårdtsentsä vraä rndaetnu rfö bri dfrrialurf mtsleivd oflcehr are ekkroesaytisotenm. tjänster och har visat sig ha en positiv effekt på
+människors hälsa. Planförslaget bedöms sammantaget kunna ge
+Vattenförhållanden
+
+Hur planförslaget påverkar vattenförekomsterna är beroende av skyddsåtgärder för
+dagvattenhantering, markanvändning, farligt gods, översvämningar, erosion etc.
+
+VA-utredningen visar på att föroreningsbelastningen ökar jämfört med befintlig situation och
+att rening därför är nödvändig för att inte påverka vattenförekomsterna negativt. En väl
+planerad hantering av dagvatten och skyfall i kombination med en minskad
+näringsbelastning från jordbruksmark bidrar till att MKN innehålls. Tydlig vägledning för hur
+dagvattenhantering, skyfall och översvämningar ska hanteras i planläggningen bör ges och
+yta avsättas i planen. Planförslaget bedöms kunna bidra till att miljökvalitetsnormerna
+ipnonseithivåall sk ooncshe aktvte vnasettre fnökrv vaaltitteetnemni fljöör.b ättras i vattenförekomsterna på sikt. Detta bidrar till
+att nå miljömålen för vatten. Planförslaget bedöms kunna ge förutsättningar för att ge
+Markförhållanden/ras
+
+Planförslaget bidrar till att fler förorenade områden kommer att behöva efterbehandlas eller
+undersökas ytterligare. Konsekvensen bedöms därför bli positiv avseende förorenad mark.
+
+En generell bedömning är att det ej förekommer områden som kan komma att kräva
+omfattande åtgärder med avseende på stabilitetsproblem med undantag för området som
+angränsar mot Viskan.
+Om det i kkoonmsemkvaenndsee nd efötarl mjpalarnkemri oljcöh s oemxp nloeautterrailn. g ar utförs geotekniska och hydrogeologiska
+undersökningar för att utreda risken för ras och skred i så att lämpliga åtgärder kan vidtas
+bHeädlsöam osc h risker/buller
+
+Planområdet kommer att påverkas av buller från framför allt järnväg och större lokala vägar,
+Varbergsvägen och Industrivägen. I beräkningarna finns också motorvägarna E6 och E20
+
+100
+
+<!-- sida 310 -->
+
+101
+men de är inte de dominerande källorna till buller från väg. Då järnvägens buller påverkar ett
+stort område ställs en del krav på utformningen av Väröbacka. Eventuella förändringar i
+järnvägstrafiken som utbyggnad av spår kan kräva bulleråtgärder för befintliga bostäder.
+Med noggrann planering och utformning anve oumtrraåld keotn gsöekrsv ei nbsu flölerr buutrlleedr.n ingen (Efterklang ,
+2023) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
+iKnlnimehaåtallnsp. Palsasnnfiönrgs laget bedöms därför ha
+Planområdet riskerar att vid skyfall drabbas av översvämningar i de lågpunkter och lågstråk
+som finns i och i områdets närhet. Stora delar av planområdet kommer också påverkas av
+höjda havsnivåer vilket gör problematiken mer komplex. Planförslaget bedöms ha en
+genomtänkt höjdsättning och markanvändning och det finns förutsättningar att minimera
+risken översvämningar. De kumulativa effekterna av havsnivåhöjningen och extremregn bör
+utredas. Klimatförändringarna kan också påverka risken för ras och skred.
+Det finns goda
+Ifö prluatnsfäötrtsnlianggeatr f ifnörn sa tetn p mlaendervientgeennh ei tV oäcröhb eanc kstar aktaeng si kker iknlgim haatnatnepriansgsa atv o hcahv gsen pivoåshitöivjnai ngen
+bkolannsdek avnennaset rg. enom placering av verksamheter, bebyggelse och höjdsättning.
+Klimatpåverkan
+Att bygga och underhålla transportinfrastruktur är ett energiintensivt arbete som generar
+växthusgasutsläpp. Planförslaget syftar även till en förväntad samhällsutveckling som
+innebär att ny bebyggelse byggs vilket även det generar växthusgasutsläpp. Samtidigt
+innebär en etablering av den nya stationen att människor ges möjligheten att resa med tåg
+direkt från Väröbacka. Det här kommer begränsa antalet resor som görs med bil och därmed
+även de växthusPglaasnuftösrlsälpapg esto bme ddöem gse bniedrraar .t iGll eantot mm iantstk vai dbtilab åetrgoäernddeert äprå dlåent gm söikjlti gvti laktett kan
+bbiedgrraä ntislla p does ivtiävxat hkuosngsaeskuvetsnlsäeprp f ösro mkli umpaptsptååvre vrikda nb.yggnation och underhåll av järnväg, vägar
+och byggnader.
+Jordbruksmark
+Enligt 3 kap 4 § miljöbalken är jordbruksnäringen av nationell betydelse. Inom föreslaget
+planområde finns jordbruksmark som kommunen vill ta ur bruk till annan markanvändning.
+Det södra alternativet anses vara det bästa alternativet sett till 3 kap 4 § MB, motiverat
+utifrån grunden om bostadsförsörjningsbehovet och arbetsplatser nära varandra.
+Exploateringen av jordbruksmark bedöms bidra med värden som sammantaget bidrar till en
+långsiktigt hållbar utveckling. Motiveringen innebär att dLeotk faölriseelirginggesrp ertöt vvnäisnegnetnli ggöt r
+sbaemdöhmälnlsiningterne sastet pfölarn pelraande rmaadr mkaanrvkäanndvnäinndgn siknugl lie V väarröab macoktaiv, seoramd ienntleig ptå 3 e ktta pti l4lf r§e MdsBs täävlelann id e
+asäntdtr kaa lnä gtiellng iondoomse psl auntaonmförår dFeÖt.P-områdets avgränsning.
+Kumulativa effekter
+Kumulativa effekter kan uppstå genom exploatering i bl.a. Bua som kan ge konsekvenser för
+naturmiljö, upplevelsen av landskapet och friluftslivet. Det kan också ge en ökad belastning
+på vattenmiljöerna och en samordning av hanteringen av dagvatten, skyfall och en höjning av
+havsnivån behöver ske. FÖP Väröbacka har vägt in de kumulativa effekterna och ger
+möjligheter till en förbättrad samordnad dagvatten- och skyfallshantering. Planförslaget till
+granskning har minskat ianspråktagandet av jordbruksmark i södra delen av planområdet
+vilket är positivt för den kumulativa effekten av skyfall och en havsnivåhöjning. Detta ger en
+bättre möjlighet till klimatanpassning.
+Både FÖP Väröbacka och planerna för Bua bygger på en förtätning av befintlig bebyggelsen
+och i strukturer som redan finns idag. Stationen i Väröbacka kommer ge positiva kumulativa
+
+<!-- sida 311 -->
+
+effekter på kringliggande områden även utanför planområdet och ger förbättrade
+pPeånvderliknagns mpåö jmligilhjöemteårl och en bättre servicefunktion.
+
+Av elva utvärderande nationella miljömål bedöms ett rikt jordbrukslandskap och ett rikt växt
+och djurliv motverkas. Planförslaget bedöms kunna medverka till att uppnå sju av miljömålen
+och för två miljömål är planförslaget neutralt. Nollalternativet motverkar ett rikt växt och
+Rdjiukrsliinvt,r mesesdevne rokcahr stiklyl fdedma dmei oljömmråådl eonc h är neutralt för resten.
+
+I fortsatt planering är det påverkan på Natura 2000-området Båtafjorden (SE0510176) och
+riksintresset Klosterfjorden-Getterön (Riks-ID 13009) som behöver beaktas. Här finns det
+viss risk att påverkan från ökad störning och minskade öppna jordbruksmarker av betydelse
+för fågellivets samt klimateffekter kan medföra betydande miljöpåverkan. Det bedöms vara
+möjligt att genomföra FÖP Väröbacka utan att det medför otillåten påverkan på riksintressen
+oScluht sskaytsd dade områden.
+
+Planförslaget har en positiv påverkan på flera miljömål men med en stor exploatering av
+jordbrukslandskap är det svårt att kunna bidra positivt till de nationella miljömålen som rör
+jordbruksmark, naturmiljö och klimatpåverkan.
+FÖP Väröbacka bedöms vara ett bättre underlag för kommande planering än nu gällande FÖP
+norra kusten som är nollalternativ. Med de inarbetade anpassningarna och föreslagna
+åtgärderna bedöms FÖP Väröbacka bättre kunna bidra till ett hållbarare samhälle.
+
+102
+
+<!-- sida 312 -->
+
+103
+Referenser
+Bättre plats för arbete.
+Ekosystemtjänster i den byggda miljön.
+Boverket . (1995).
+Typer av ekosystemtjänster
+Boverket. (2021).                Boverket.
+Boverket. (2022).         . Hämtat från
+https://www.boverket.se/sv/samhallsplanering/sa-planeras-
+Grönska och vatten reglerar tempreaturer vid värmeböljor
+sverige/planeringsfragor/ekosystemtjanster/olika-typer-av-ekosystemtjanster/
+Boverket. (u.å.).                          . Hämtat från
+https://www.boverket.se/sv/PBL-
+Naturvärdesinventering (NVI) - Vid Väröbacka, Varbergs kommun 2020.
+kunskapsbanken/teman/ekosystemtjanster/naturen/betydelse/reglerar/ den 10 07 2023
+Naturvärdesinventering (NVI) - Vid södra delen av FÖP Väröbacka, Varbergs
+Calluna AB. (2020).
+kommun 2023.
+Calluna AB. (2023).
+Ekosystemtjänstkartläggning Väröbacka.
+Trafikbullerutredning Väröbacka .
+Calluna AB. (år?).
+Dagvattenanvisningar för Falkenbergs och Varbergs
+Efterklang . (2023).
+kommuner.
+Falkenbergs och Varbergs kommuner. (2017).
+Frida Eriksson, V. k. (den 12 06 2025). Muntlig uppgift om intern vidare utredning. (A. K. Eriksson,
+Intervjuare)
+Konsekvensutlåtande 2023 - Uppföljning av rapport Kulturmiljö Halland
+globalamalen.se. (u.å.). Hämtat från https://www.globalamalen.se/
+2022:77.
+Kulturmiljö Halland. (2023).
+Riskanalys av transport av farligt gods i Hallands län.
+Länsstyrelsen Hallands län. (2011).                 Hämtat från
+Grön infrastruktur - Regional handlingsplan för Hallands län,
+https://www.lansstyrelsen.se/publikation?entry=_2011_19&context=24
+version 1.
+Länsstyrelsen Hallands län. (2018).
+Hämtat från
+Energi- och klimatstrategi för Hallands län.
+https://www.lansstyrelsen.se/publikation?entry=N_2018__1&context=24
+Länsstyrelsen Hallands län. (2019).           Hämtat från
+Klimat- och sårbarhetsanalys för Hallands län.
+https://www.lansstyrelsen.se/publikation?entry=N_2019_22&context=24
+Regional handlingsplan för klimatanpassning 2024-2028.
+Länsstyrelsen Hallands län. (2022).
+Riskhänsyn vid ny bebyggelse intill vägar och järnvägar med
+Länsstyrelsen i Halland. (2024).
+transporter av farligt gods samt bensinstationer.
+Länsstyrelsen Stockholms län. (2000).
+Hämtat från
+Kartor och underlag för planeringsarbete
+https://www.lansstyrelsen.se/publikation?entry=_2000__11&context=39
+Länsstyrelsen Västra Götaland. (den 15 12 2021).     . Hämtat
+från Länsstyrelsen Västra Götaland: https://www.lansstyrelsen.se/vastra-
+gotaland/samhalle/planering-och-byggande/gron-infrastruktur/kartor-och-underlag-for-
+Naturvärdesinventering, NVI Nygård, Värö-Backa 8:4.
+planeringsarbete.html
+Olycksrisker och MKB - Att integrera risk- och
+MiNA natur AB. (2021).
+säkerhetsfrågor i MKB-processen.
+Myndigheten för samhällsskydd och beredskap. (2012).
+Värdebeskrivning FAB12 Rösjön-Vallentunasjön-Rönninge by .
+Frågor och svar om grön infrastruktur
+Naturvårdsverket. (2017).                          Stockholm.
+Naturvårdsverket. (den 15 12 2021b).         . Hämtat från
+naturvårdsverket.se: https://www.naturvardsverket.se/amnesomraden/mark-och-
+Klimatet och transporterna
+vattenanvandning/gron-infrastruktur/fragor-och-svar-om-gron-infrastruktur/
+Naturvårdsverket. (u.å.).     . Hämtat från
+https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/omraden/klimatet-
+och-transporterna/ den 13 07 2023
+
+<!-- sida 313 -->
+
+Miljökonsekvensbeskrivning till detaljplan för fastigheterna Bua 4:94, 10:97, 10:108
+samt del av Bua 10:248.
+Norconsult. (2021).
+Riskutredning FÖP Väröbacka.
+Lokaliseringsutredning, jordbruksmark - FÖP Väröbacka.
+Norconsult AB. (2023).
+VA-utredning inför fördjupad översiktsplan i Väröbacka, Varbergs kommun.
+Radar. (2023).
+Trafikförsörjningsprogram 2021-2025.
+Ramboll Sweden AB. (2023).
+Region Halland. (2020).              Hämtat från
+https://www.regionhalland.se/app/uploads/2021/02/Regionalt-
+Regional utvecklingsstrategi för Halland, Halland-Bästa livsplatsen 2035.
+Trafikfo%CC%88rso%CC%88rjningsprogram-2021-2025.pdf
+Regional årlig uppföljning Hallands län.
+Region Halland. (2021).
+RUS. (2022).                   Hämtat från https://www.rus.se/wp-
+Rapport Kulturmiljö Halland 2022:77, Väröbacka
+content/uploads/Halland2022-1.pdf
+Kulturmiljöutredning inför FÖP, Hallands län, Värö socken.
+Stiftelsen Hallands Länsmuseer. (2022).
+Stiftelsen Hallands Länsmuseer,
+God miljö i parker och grönområden - En handbok.
+Kulturmiljö Halland.
+Hållbar dag- och dränvattenhantering – råd vid planering och utförande.
+Stockholms stad. (2022).
+Avledning av dag-, drän- och spillvatten.
+Svenskt Vatten AB . (2011).
+Svenskt Vatten AB. (2019).
+Översiktlig geoteknisk utredning för fördjupad
+sverigesmiljomal.se. (u.å.). Hämtat från https://www.sverigesmiljomal.se/
+översiktsplan för Väröbacka/Limabacka.
+Sweco Civil AB & Halmstad Geoteknik. (2023).
+Järnväg: Miljö och hälsa
+Transportstyrelsen. (2021).   . Hämtat från
+Översiktsplan för Varbergs kommun.
+https://www.transportstyrelsen.se/sv/jarnvag/Miljo-och-halsa---jarnvag/ den 13 07 2023
+Grönstrategi för aktiviteter, upplevelser och biologisk mångfald i Varbergs
+Varbergs kommun. (2010-06-15).
+kommun.
+Varbergs kommun. (2013).
+Hållbarhetsmål 2017-2025: Inriktningar för hållbarhetsarbetet i Varbergs
+kommun.
+Varbergs kommun. (2014).
+Fördjupad översiktsplan (FÖP) för Norra kusten.
+Planeringsinriktningar för utveckling av Väröbacka.
+Varbergs kommun. (2017).
+Integrerad landskapskaraktärsanalys Väröbacka/Limabacka.
+Varbergs kommun. (2021).
+Varbergs kommun. (2022).
+
+104
+
+<!-- sida 314 -->
+
+<!-- sida 315 -->
+
+Hemsida: www.calluna.se • E-post: info@calluna.se • Telefon växel: 013-12 25 75
+Huvudkontor: Calluna AB, Linköpings slott, 582 28 Linköping
+
+<!-- sida 316 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-02-19
+Diarienummer
+KS-2019-00257
+
+Förlängning av principavtal och markanvisning med Doxa Anneberg AB, detaljplan för
+utveckling av Annebergs centrum
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen godkänner begäran från Doxa Anneberg AB, innebärande att gällande principavtal
+och markanvisning avseende ny detaljplan för Annebergs centrum, förlängs med två år till 26 maj
+2028, på i övrigt oförändrade avtalsvillkor.
+
+Sammanfattning av ärendet
+
+Ett arbete pågår med att ta fram en detaljplan för utveckling av Annebergs centrum. Planområdet
+omfattar bland annat delar av kommunens fastigheter Alafors 2:16 och 3:3. Marken har efter utförd
+markanvisningstävling 2017 anvisats till Serneke Sverige AB som avser att bygga bostäder på
+fastigheterna.
+
+Vid en förlängning 2023 har partsbyte skett. SeBal Holding Väst Andelsägare 2 AB trätt in som
+avtalspart och då förbundit sig att överta samtliga rättigheter och skyldigheter som följer av
+principavtal och markanvisning. Bolagets firma har ändrats till Doxa Anneberg AB.
+Kommunstyrelsen godkände ursprungligen ett principavtal med markanvisning med Serneke Sverige
+AB den 26 maj 2020. Avtalet ersatte tidigare markanvisningsavtal mellan parterna och reglerar
+samarbetet mellan Serneke och kommunen i det fortsatta detaljplanearbetet för utveckling av
+Annebergs centrum. Kommunstyrelsen godkände en förlängning av markanvisningen och
+
+principavtalet med två år, den 26 april 2022 samt ytterligare en förlängning med två år den 28
+november 2023.
+Detaljplanen för området har varit ute på samråd under hösten 2020 och granskning under våren 2024.
+Inför antagande av detaljplanen behöver bland annat geoteknik, vibrationer och trafiklösning utredas
+ytterligare. Arbetet pågår och det påverkar projektets tidplan negativt. Därmed uppkommer det ett
+behov av att på nytt förlänga principavtalet och markanvisningen, som annars upphör den 26 maj
+2026. Doxa Anneberg AB har nu begärt en förlängning och har angivit att de önskar 2 år.
+
+Beslutsunderlag
+Samhällsbyggnadskontorets tjänsteskrivelse, 2026-02-19
+
+1 (2)
+Kungsbacka kommun                                         Kungsbacka kommun
+434 81 Kungsbacka
+Susanne Calming
+0300-834033                                                   Besöksadress
+Specialist mark och exploatering                         Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 317 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Begäran om förlängning av markanvisning och principavtal, Doxa, 2026-01-22
+Kommunstyrelsen, 2023-11-28, § 253
+Kommunstyrelsen, 2022-04-26, § 90
+Principavtal mellan Kungsbacka kommun och Serneke Sverige AB, undertecknat 2020-05-28
+Kommunstyrelsen, 2020-05-26, § 116
+
+Beslutet skickas till
+
+Doxa Anneberg AB
+
+Rickard Vidlund                    Lovisa Eld
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 318 -->
+
+Från:      Anders Torslid
+Till:      Susanne Calming
+Ärende:    Annebergs Centrum
+Datum:     den 22 januari 2026 09:19:45
+Bilagor:   Outlook-A picture .png
+
+Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar
+eller öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är
+säkert.
+
+Hej Susanne,
+
+Vi önskar förlänga vår markanvisning och principavtal som löper ut 2026-05-26 med 2
+
+år, till 2028-05-26.
+
+Med vänliga hälsningar
+
+ANDERS TORSLID
+
++46 (0) 704936699
+
+Karlavagnstorget 2, 417 50, Göteborg
+
+Följ oss: doxaprojektutveckling.se | Facebook | LinkedIn | Instagram
+
+<!-- sida 319 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsen
+Datum
+2023-11-28
+
+§ 253                      Dnr KS-2019-00257
+Förlängning av markanvisning och principavtal med Serneke Sverige
+AB samt byte av avtalspart, detaljplan för Annebergs centrum
+
+Beslut
+Kommunstyrelsen godkänner begäran från Serneke Sverige AB, innebärande att
+gällande markanvisning och principavtal avseende del av fastigheterna Alafors 2:16
+och 3:3 i Annebergs centrum, förlängs med 2 år till den 26 maj 2026, på i övrigt
+oförändrade avtalsvillkor.
+
+Kommunstyrelsen godkänner begäran från Serneke Sverige AB, innebärande att
+SeBal Holding Väst Andelsägare 2 AB, träder in som ny part i markanvisning och
+principavtal avseende del av fastigheterna Alafors 2:16 och 3:3 i Annebergs centrum,
+på oförändrade avtalsvillkor.
+
+Sammanfattning av ärendet
+Ett arbete pågår med att ta fram en detaljplan för utveckling av Annebergs centrum.
+Planområdet omfattar bland annat delar av kommunens fastigheter Alafors 2:16 och
+3:3. Marken har efter utförd markanvisningstävling 2017 anvisats till Serneke
+Sverige AB som avser att bygga bostäder på fastigheterna.
+
+Kommunstyrelsen godkände ett principavtal tecknat med Serneke Sverige AB den 26
+maj 2020. Avtalet ersatte tidigare markanvisningsavtal mellan parterna och reglerar
+samarbetet mellan Serneke och kommunen i det fortsatta detaljplanearbetet för
+utveckling av Annebergs centrum. Kommunstyrelsen godkände en förlängning av
+markanvisningen och principavtalet med två år, den 26 april 2022.
+
+Detaljplanen för området har varit ute på samråd under hösten 2020. Inför
+granskningen av detaljplanen har det utförts flera utredningar vad avser geoteknik,
+stabilitet och naturvärden i anslutning till Kungsbackaån, för att bedöma vilket
+område som är lämpligt att bebygga. Utredningarna har resulterat i att
+bebyggelseområdet har minskat, varför nya skisser måste tas fram.
+
+Utredningarna påverkar projektets tidplan och därmed uppkommer det ett behov av
+att på nytt förlänga principavtalet och markanvisningen, som annars upphör den 26
+maj 2024. Serneke har nu begärt en förlängning och har angivit att de önskar 2 år.
+Kommunstyrelsens förvaltning bedömer att 2 år är lämpligt, med i övrigt
+oförändrade avtalsvillkor.
+Investmentbolaget Doxa har förvärvat Serneke Group AB och det pågår ett arbete
+med att se över bolagsstrukturen inom koncernen. Serneke Sverige AB har i samband
+
+med detta begärt att få genomföra partsbyte i markanvisning och principavtal, på så
+vis att SeBal Holding Väst Andelsägare 2 AB träder in som ny avtalspart. Bolaget,
+som är ett helägt bolag i samma koncern som Serneke Sverige AB har genom
+partbytesavtal förbundit sig att överta samtliga rättigheter och skyldigheter som följer
+av principavtalet.
+
+Expedierat/bestyrkt
+
+<!-- sida 320 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsen
+Datum
+2023-11-28
+
+Beslutsunderlag
+Kommunstyrelsens arbetsutskott 2023-11-14, § 302
+Samhällsbyggnadskontorets tjänsteskrivelse, 2023-10-19
+Partbytesavtal om övertagande av principavtal för Anneberg Centrum, 2023-10-18
+
+Begäran om ny förlängning av markanvisning och principavtal från Serneke Sverige
+AB samt begäran om byte av avtalspart, 2023-09-13
+Kommunstyrelsens beslut om förlängning av markanvisning och principavtal, 2022-
+04-26, §90
+Principavtal mellan Kungsbacka kommun och Serneke Sverige AB, undertecknat
+2020-05-28
+
+Beslutsgång
+
+Ordförande Lisa Andersson (M) konstaterar att det finns ett förslag till beslut, det vill
+säga kommunstyrelsens arbetsutskotts förslag. Ordföranden (M) prövar förslaget och
+finner att kommunstyrelsen bifaller det.
+
+Beslutet skickas till
+Serneke Sverige AB och SeBal Holding Väst Andelsägare 2 AB
+
+Expedierat/bestyrkt
+
+<!-- sida 321 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsen
+Datum
+2022-04-26
+
+§ 90                       Dnr 2019-00257
+Förlängning av markanvisning och principavtal med Serneke Sverige
+AB, detaljplan för Annebergs centrum
+
+Beslut
+Kommunstyrelsen godkänner begäran från Serneke Sverige AB, innebärande att
+gällande markanvisning och principavtal avseende del av fastigheterna Alafors 2:16
+och 3:3 i Annebergs centrum, förlängs med 2 år till den 26 maj 2024, på i övrigt
+oförändrade avtalsvillkor.
+
+Sammanfattning av ärendet
+Ett arbete pågår med att ta fram en detaljplan för utveckling av Annebergs centrum.
+Planområdet omfattar bland annat delar av kommunens fastigheter Alafors 2:16 och
+3:3. Marken har efter utförd markanvisningstävling 2017 anvisats till Serneke
+
+Sverige AB som avser att bygga bostäder på fastigheterna.
+Kommunstyrelsen godkände ett principavtal tecknat med Serneke Sverige AB den 26
+maj 2020. Avtalet ersätter tidigare markanvisningsavtal mellan parterna och reglerar
+samarbetet mellan Serneke och kommunen i det fortsatta detaljplanearbetet för
+utveckling av Annebergs centrum. Avtalet innebär även en förlängning av
+markanvisningen med två år, till den 26 maj 2022.
+
+Detaljplanen för området har varit ute på samråd under hösten 2020. Under
+planarbetets gång har förutsättningarna för projektets genomförande förtydligats.
+Bland annat är det fastställt att stabilitetshöjande förstärkningsåtgärder i kombination
+med åtgärder för att minska skredrisken vid Kungsbackaån måste utföras innan
+planförslaget kan genomföras. Inför granskningen av detaljplanen utförs därför fler
+utredningar för att bedöma vilka åtgärder som är rimliga och vilket område som är
+lämpligt att bebygga.
+
+De fördjupade utredningarna påverkar projektets tidplan och därmed uppkommer det
+ett behov av att på nytt förlänga principavtalet och markanvisningen, som annars
+upphör den 26 maj 2022. Serneke har nu begärt en förlängning. Bedömningen är att
+det är lämpligt att förlänga principavtalet och markanvisningen med 2 år, på i övrigt
+oförändrade avtalsvillkor.
+
+Beslutsunderlag
+Kommunstyrelsens arbetsutskott 2022-04-05, § 135
+Samhällsbyggnadskontorets tjänsteskrivelse, 2022-03-09
+Begäran om förlängning av principavtal från Serneke Sverige AB, 2021-12-03
+Principavtal mellan Kungsbacka kommun och Serneke Sverige AB, undertecknat
+
+2020-05-28
+
+Justerare                         Expedierat/bestyrkt
+
+<!-- sida 322 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsen
+Datum
+2022-04-26
+
+Beslutsgång
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
+
+Beslutet skickas till
+Serneke Sverige AB
+
+Justerare                         Expedierat/bestyrkt
+
+<!-- sida 323 -->
+
+1/10
+
+PRINCIPAVTAL
+
+Detaljplan för Annebergs centrum
+Markanvisning, del av Alafors 2:16 och Alafors 3:3
+
+Parter:
+
+a)
+b)
+
+1.4
+
+1.5
+
+Kungsbacka kommun (212000-1256), nedan kallad Kommunen
+Serneke Sverige AB, (556621-6908), nedan kallat Bolaget
+
+Kommunen och Bolaget kallas gemensamt nedan Parterna.
+
+BAKGRUND OCH FÖRUTSÄTTNINGAR
+Uppdrag, politiska beslut m.m.
+
+Kommunstyrelsen godkände planprogram för utveckling av Annebergs centrum
+2016-02-23 $28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
+detaljplan för utbyggnad av Annebergs centrum, Detaljplanen, i enlighet med
+godkänt planprogram daterat juni 2015.
+
+Kommunen genomförde ett anbudsförfarande för att utse en exploatör för
+bostäder och centrumändamål i Annebergs centrum, Kommunstyrelsen
+beslutade 2017-12-19 om att anta ett anbud från Bolaget.
+
+Kommunstyrelsen godkände 2018-04-24 markanvisningsavtal för Annebergs
+centrum tecknat med Bolaget. Markanvisningsavtalet innebär att Bolaget, under
+en tid av 2 år från och med det datum det är undertecknat av båda parter, 2018-
+05-28, har ensamrätt att förhandla med Kommunen om förvärv av marken samt
+övriga villkor avseende exploateringen.
+
+För att förlänga markanvisningen för Bolaget behöver ett principavtal, Avtalet,
+tecknas mellan Parterna och godkännas av kommunstyrelsen. Avtalet syftar
+även till att klargöra villkor och reglera samarbetet mellan Parterna under
+planarbetet, då planområdet har utökats med kommunens fastighet Alafors 3:3 i
+norr och SW fastigheters fastigheter Alafors 2:49 och Skärby 22:5 i söder.
+
+Det utökade planområdet och nuvarande planförslag medger ca 400 bostäder i
+blandad bebyggelse och upplåtelseform (varav ca 300 inom projektområdet), ett
+vård- och omsorgsboende med ca 80 lägenheter och en förskola för ca 120 barn i
+samma byggnad, ett BMSS boende med ca 12 lägenheter och lokaler för
+verksamheter, Parterna är medvetna om att antalet bostäder kan komma att bli
+såväl lägre som högre beroende på Detaljplanens slutgiltiga utformning. Inom
+allmän plats med kommunalt huvudmannaskap och inom markområdena för
+kommunal service (vård- och omsorgsboende, förskola och BMSS boende) ska
+kommunen kvarstå som ägare.
+
+Detaljplanearbetet ska utgå från planprogram för Annebergs centrum
+(2004/P038) och Bolagets anbudsförslag, se bilaga C.
+
+<!-- sida 324 -->
+
+2.1
+
+Did
+
+3.1
+
+[Se
+Ne
+
+4.1
+
+5.1
+
+5.2
+
+2/10
+
+Planområde och Projektområde
+
+Hela det område som är föremål för genomförandet av Detaljplanen är
+ungefärligt markerat med röd linje på bilaga A, Planområdet.
+
+Det område inom vilket Bolaget ska utveckla Projektet är ungefärligt markerat
+med blå linje på bilaga A, Projektområdet. Projektområdet kan komma att
+förändras utifrån vad som framkommer under planarbetet, avtalsförhandlingar
+och genomförbarhet.
+
+Inom projektområdet planeras vård- och omsorgsboende, förskola och BMSS
+boende som kommunen ska fortsätta äga och det exakta projektområdet kommer
+att definieras i kommande genomförandeavtal och överlåtelseavtal.
+
+Fastigheter och ägare
+
+Projektområdet omfattar fastigheterna del av Alafors 2:16 och del av Alafors
+3:3, se bilaga A, och utgör tillsammans Fastigheten.
+
+Alafors 2:16 och Alafors 3:3 ägs av Kommunen.
+Planförhållanden
+
+Projektområdet omfattas till största del av planprogram för Annebergs centrum, i
+övrigt finns inga andra gällande program eller detaljplaner inom Projektområdet.
+
+PLANARBETE OCH KOSTNADSFÖRDELNING
+Syfte, innehåll och förutsättningar
+
+Syftet med Detaljplanen är att skapa förutsättningar för ett område med blandad
+upplåtelseform och ett lokalt centrum för mötesplatser såväl som bostäder i
+Anneberg. Området innehåller bostäder, centrumfunktioner och kommunal
+service, samt ett rekreationsområde med gång- och cykelbana längs med ån.
+
+Avtalet tecknas för att reglera de övergripande förutsättningar och principer som
+ska gälla vid upprättande och genomförande av Detaljplanen, såsom utbyggnad
+av allmän plats, ansvars- och kostnadsfördelningar, åtaganden mm. Avtalet
+kommer att ersättas av ett genomförandeavtal, som ska undertecknas av båda
+parter och godkännas av behörig politisk instans innan Detaljplanen kan antas.
+Genomförandeavtalet ska närmare klargöra Parternas ansvar för utförande och
+finansiering av utbyggnad av kvartersmark och allmän platsmark inom
+planområdet. Inom Detaljplanen kommer det att vara delat huvudmannaskap.
+där kommunalt huvudmannaskap råder för allmän plats park/natur längs med
+Kungsbackaån. Enskilt huvudmannaskap kommer att gälla för allmän plats gata.
+
+Parterna är vidare överens om att följande grundläggande villkor ska gälla för
+projektet:
+
+a) Bolaget har erlagt en markanvisningsavgift om I miljon kr som ska avräknas
+mot köpeskillingen. lien
+
+Sign
+
+<!-- sida 325 -->
+
+6.1
+
+6,2
+
+6.3
+
+3/10
+
+b) Projektområdet ska byggas ut etappvis i 3 etapper och där etapp 1 ska
+omfatta området med centrumfunktioner.
+
+c) Kvartersmarken ska bebyggas med bostäder, ca 300 st, med en total BTA om
+ca 20 000 kym, Centrumdelen ska innehålla ytor för handel om ca 690 kvm
+BTA. Parterna är medvetna om att den totala BTA kan komma att bli såväl
+lägre som högre beroende på detaljplanens slutgiltiga utformning.
+
+d) Byggnadernas höjd ska variera mellan 2-5 våningar, byggnadshöjd prövas
+slutligt i detaljplanen.
+
+e) Minst 1/3 av de tillskapade bostäderna ska upplåtas med hyresrätt och av de
+bostäder som upplåts med hyresrätt ska minst 50 74 förmedlas via
+kommunens bostadskö.
+
+f) Parkering för bil och cykel ska anordnas i enlighet med framtaget PM för
+parkering för Detaljplanen, se bilaga D.
+
+g) Området ska utformas med god hållbarhet, såväl social samt miljömässig,
+tex, uppställningsplatser med laddstolpar för laddning av el-fordon.
+
+h) Området ska utformas med god tillgänglighet. Personer med olika
+funktionshinder ska lätt kunna orientera sig samt enkelt, självständigt och
+utan fara ta sig fram till och inom områdena. Markbeläggning. belysning,
+väghållning och skyltning ska underlätta framkomligheten,
+
+i) Kommunen kvarstår som ägare för kvartersmarken för vård- och
+omsorgsboendet, förskolan och BMSS (bostäder med särskild service)
+boendet, samt allmän plats med kommunalt huvudmannaskap inom
+planområdet.
+
+Parterna kommer tillsammans att ta fram planhandlingar för det aktuella området
+i samarbete med SW fastigheter, Avtalet reglerar samarbetet mellan Parterna
+under planarbetet fram till dess att ett genomförandeavtal avseende Detaljplanen
+kan tecknas.
+
+Prövning av planförslag
+
+Kommunen upprättar förslag till ny detaljplan och svarar för den formella
+handläggningen fram till ett godkännande i byggnadsnämnden och ett slutligt
+antagande i kommunfullmäktige. Parterna ska under planarbetet kontinuerligt
+behandla frågor kring Detaljplanen och således tillsammans verka för att
+Detaljplanen tas fram, antas och slutligen vinner laga kraft.
+
+Detaljplanen är en av ett antal utvalda detaljplaner inom kommunen som är
+prioriterade och det påbörjade detaljplanearbetet behöver fortskrida enligt utsatt
+tidplan, vilket båda parter är överens om. Planarbetet ska vidare bedrivas på ett
+optimalt sätt, vilket förutsätter att både Kommunen och Bolaget levererar
+material till Detaljplanen inom överenskomna tider.
+
+Detaljplanen ska genomgå prövning både politiskt och enligt gällande
+lagstiftning och myndighetsbeslut. Kommunen kan således inte garantera att
+Detaljplanen antas och slutligen vinner laga kraft.
+
+Sign
+
+<!-- sida 326 -->
+
+7.1
+
+12
+
+FÅR
+
+8.1
+
+8.2
+
+8.4
+
+4/10
+
+Utredningar
+
+För framtagandet av Detaljplanen bedöms följande utredningar nödvändiga för
+Projektområdet:
+
+a) Arkitektskisser och solstudier
+b) Gestaltningsprogram
+
+c) Bullerutredning
+
+d) Geoteknisk utredning
+
+e) Dagvattenutredning
+
+fy) SKA (social konsekvensanalys)
+g) Trafikutredning
+
+h) Naturvärdesinventering
+
+i) MEB
+
+j) Eventuella andra, för Detaljplanens genomförande, nödvändiga utredningar
+
+För Alafors 2:16 och Alafors 3:3 beställer Bolaget utredningarna a-d och
+Kommunen beställer utredningarna e-j.
+
+Tillkommande och kompletterande utredningar beställs i dialog mellan
+Kommunen och Bolaget och utförandet ska ske i enlighet med anvisningar från
+Samhällsbyggnadskontoret i syfte att uppfylla de krav som ställs i det formella
+planarbetet,
+
+Ersättning för nedlagda kostnader för detaljplan och utredningar
+
+Bolaget ska erlägga planavgift till Kommunen för att täcka Kommunens
+nedlagda arbete (inklusive ev, plankonsult) samt de utredningar som behövs för
+framtagandet av Detaljplanen, med undantag av vad som nämns i pkt 8.3 och
+8.4. Ett separat planköstnadsavtal har tecknats mellan parterna, se upprättat
+plankostnadsavtal bilaga C.
+
+Bolaget och SW fastigheter kommer att dela lika (50/50) på resterande
+plankostnader för framtagandet av Detaljplanen, från och med 2019-12-09 då
+principavtal tecknades mellan kommunen och SW fastigheter. Tidigare
+upparbetade kostnader under planarbetet betalas av Bolaget enligt tidigare avtal.
+
+Geoteknik
+
+Kommunen ska stå kostnaden för eventuella ytterligare geotekniska utredningar
+för Alafors 2:16 och Alafors 3:3 från och med undertecknandet av detta Avtal.
+
+Arkeologi
+
+En arkeologisk undersökning har gjorts inom Alafors 2:16 och inom Alafors 3:3
+och undersökningarna visar på att planområdet inte är i behov av några
+ytterligare undersökningar. Skulle planarbetet visa att fornlämningarna inom
+Alafors 2:16 och Alafors 3:3 behöver utredas vidare ska kommunen stå denna
+kostnaden.
+
+Sign
+
+<!-- sida 327 -->
+
+9,2
+
+9.3
+
+9.4
+
+9.5
+
+SA0
+
+ÖVERLÅTELSE AV MARK
+
+Marköverlåtelse och ersättning
+
+Bolaget ska utan särskild ersättning upplåta de servitut eller ledningsrätter som
+erfordras för kommunala och allmännyttiga ledningar, teknikhus, mm.
+
+Förutsättningar för överlåtelsen av kvartersmark och allmän plats med enskilt
+huvudmannaskap inom Projektområdet ska regleras i kommande
+genomförandeavtal och överlåtelseavtal. Kommunen och Bolaget ska vidare
+innan genomförandeavtal tecknas enas om på vilket sätt överlåtelsen av mark
+samt fastighetsbildning ska ske.
+
+Överlåtelsen av Fastigheten till Bolaget sker i befintligt skick, med undantag av
+vad som nämns nedan i pkt 9.4, vilket innebär att Bolaget på egen bekostnad
+svarar för markberedning inom Projektområdet, Projektområdet överlåts
+obebyggt till Bolaget.
+
+Markföroreningar
+
+Ansvaret för att utföra och bekosta avhjälpandet av eventuella markföroreningar
+ska fördelas mellan Bolaget och kommunen enligt följande:
+
+a) För lätt förorenad mark, det vill säga med halter lägre än Naturvårdsverket
+generella riktvärden för mindre känslig markanvändning (MKM), ska Bolaget
+utföra och bekosta all utredning, miljökontroll, hantering av förorenade
+massor.
+
+b) För förorenad mark med halter högre än MKM ska Bolaget utföra och
+bekosta all utredning, miljökontroll, hantering av förorenade massor,
+inklusive transport till av Kommunen upphandlad mottagningsanläggning och
+övriga avhjälpandeåtgärder. Kommunen betalar mottaggningsavgiften för
+dessa massor. Bolaget ska dock stå för den del av mottagningsavgiften som
+motsvarar avgiften för massor med halter lägre än MKM.
+
+Markpris
+
+Köpeskillingen ska grundas på BTA enligt bygglov vid överlåtelsen, dock minst
+90 24 av den totala BTA i Detaljplanen, Parterna är överens om nedanstående
+byggrättspriser:
+
+a) bostadsrätt: 5000 kr/kyvm BTA
+b) hyresrätt: 2000 kr/kvm BTA
+ec) handel/centrumverksamhet: 2000 kr/kvm BTA
+
+BTA som utgör grund för köpeskillingen omfattar all BTA ovan mark, vilket
+inkluderar teknik- och övriga komplementutrymmen (som inte är placerade i
+fristående komplementbyggnader). BTA för fristående komplementbyggnader
+(miljöhus, carport etc) eller för inglasade balkonger utgör inte grund för
+köpeskillingen.
+
+Överlåtelsen av Fastigheten är planerad att ske i tre etapper. Etappindelning och
+tidsplan ska fastställas i kommande genomförandeavtal och överlåtelseavtal. Oi
+Sign
+
+<!-- sida 328 -->
+
+10.
+
+10.1
+
+10.2
+
+11.
+
+11.1
+
+II.
+
+ba
+
+12.
+
+I2:]
+
+12.2
+
+6/10
+
+Bolaget inte tillträder etapperna enligt överenskommen tidsplan är Parterna
+överens om att ovanstående priser ska räknas upp med index, KPI, från det datum
+då Bolaget skulle ha tillträtt den aktuella etappen.
+
+Byggrättspriserna ovan är satta med beaktande av Bolagets skyldighet att erlägga
+exploateringsbidrag och bekostande av åtgärder på angränsande allmänna och
+enskilda vägar, enligt pkt.12.2 nedan.
+
+Tillträde och betalning
+
+Projektområdet avses att delas in i tre fastigheter och överlåtas etappvis till
+Bolaget. Tillträde till fastigheterna sker när Detaljplanen och godkänt
+genomförandeavtal och överlåtelseavtal vunnit laga kraft, fastighetsbildning
+genomförts och bygglov för respektive etapp beslutats och vunnit laga kraft.
+
+Köpeskillingen för respektive fastighet ska erläggas vid tillträdet. Tider för
+tillträde och betalning ska närmare preciseras i kommande genomförandeayvtal
+och överlåtelseavtal.
+
+EXPLOATERING
+Genomförandeavtal
+
+Parterna har som målsättning att följa upp Avtalet genom att teckna ett
+genomförandeavtal och överlåtelseavtal, som slutligen reglerar genomförandet
+av Detaljplanen, innan Detaljplanen antas av kommunfullmäktige.
+
+Parterna är överens om att principerna i Avtalet även ska gälla i kommande
+genomförandeavtal. Genomförandeavtalet ska bland annat reglera:
+
+a) Marköverlåtelser, tillträde och ersättning avseende kvartersmarken inom
+Projektområdet.
+
+b) Utbyggnad av allmän plats och kvartersmark — ansvar, kostnader, mm,
+
+c) Bolagets ansvar och kostnader för parkeringsbehoy inom Projektområdet, enligt
+framtaget PM för parkering, se bilaga D.
+
+d) Gestaltningskrav på byggnader, kvartersmark och allmän platsmark.
+
+e) Bostäder som ska upplåtas med hyresrätt och förmedlas via kommunens bostadskö.
+
+Parterna ska vidare kontinuerligt behandla frågor kring Detaljplanen och
+genomförandeavtal och överlåtelseavtal på gemensamma projekt- och
+styrgruppsmöten under planarbetet.
+
+Utbyggnad av allmän plats inom Planområdet
+
+Kommunalt huvudmannaskap
+
+Utgångspunkten är att Kommunen ansvarar för all projektering, upphandling och
+iordningställande av erforderliga anläggningar inom allmän platsmark med
+kommunalt huvudmannaskap inom Planområdet.
+
+Utgångspunkten för finansieringen av utbyggnaden av allmän plats med
+kommunalt huvudmannaskap inom Planområdet är att Kommunen svarar för
+erforderliga kostnader och att Bolaget betalar en ersättning som delvis bekostar
+
+Sigt
+
+<!-- sida 329 -->
+
+12.4
+
+12.6
+
+13,
+
+13.1
+
+13.2
+
+14.
+
+14.1
+
+7/10
+
+utbyggnaden. Bolaget ska därför, utöver byggrättspriserna i pkt 9,5, erlägga ett
+exploateringsbidrag till Kommunen om 400 kr/kym BTA (bostadsrätt och
+hyresrätt) samt 200 kr/kvm BTA (handel/centrumverksamhet) i Detaljplanen (se
+definition BTA pkt 9.5). Exploateringsbidraget ska erläggas i samband med
+överlåtelse av respektive etapp.
+
+Bolaget ska utöver erläggande av exploateringsbidrag bekosta åtgärder på
+angränsande allmänna (Älvsåkersvägen och Norra Annebergsvägen) och
+enskilda vägar (Storåvägen). Kostnaden för åtgärder för Älvsåkersvägen ska
+delas mellan Bolaget och SW fastigheter. Kostnadsfördelning ska preciseras i
+kommande genomförandeavtal,
+
+Enskilt huvudmannaskap
+
+Utgångspunkten är att Bolaget ansvarar för all projektering, upphandling och
+iordningställande av erforderliga anläggningar inom allmän platsmark med
+enskilt huvudmannaskap inom Projektområdet.
+
+Utgångspunkten för finansieringen av utbyggnaden av anläggningar inom
+allmän plats med enskilt huvudmannaskap inom Projektområdet är att Bolaget
+
+svarar för erforderliga kostnader.
+
+Oförutsedda åtgärder
+
+Skulle det under planarbetet uppkomma kray från Trafikverket eller
+Länsstyrelsen på extraordinära och oförutsedda åtgärder och som är direkt
+hänförliga till Bolagets genomförande av Projektet, ska kostnaden och
+genomförandet av dessa åtgärder diskuteras mellan Parterna och hanteras i
+kommande genomförandeavtal.
+
+Utbyggnad av kvartersmark inom Projektområdet
+
+Förutsatt att Bolaget förvärvar Fastigheten svarar Bolaget för alla kostnader som
+hör till utvecklingen av kvartersmarken inom det slutliga Projektområdet.
+Ansvaret omfattar samtliga anläggningar inom kvartersmark såsom bostäder,
+verksamhetslokaler, miljöhus/förråd, gemensamma gårdar, parkering för bil och
+cykel mm. Bolaget avser att uppföra byggnationen inom kvartersmarken
+etappvis. Bolaget svarar vidare, i egenskap av ägare till Fastigheten, för de
+kostnader som hör samman med koppling av Projektområdets kvartersmark till
+allmän plats samt allmänna och enskilda vägar.
+
+Parkering
+
+Bolaget ansvarar för anläggande av samtliga parkeringsplatser inom
+Projektområdet och svarar för alla kostnader. Det totala antalet parkeringsplatser
+har kunnat minskas med samutnyttjande i enlighet med framtaget PM för
+
+parkering, se bilaga D.
+Gestaltning
+
+Parterna är ense om att anläggningar och byggnader både inom allmän plats och
+kvartersmark ska hålla en hög nivå och att genomförandet av denna ska säker-
+
+ställas i kommande genomförandeavtal.
+Si
+
+<!-- sida 330 -->
+
+15;
+
+15.1
+
+16.
+
+16.1
+
+17.
+
+17.1
+
+17.2
+
+18.
+
+18.1
+
+18.2
+
+8/10
+
+Gestaltningsnivåer, kvalitetsnivåer och referensobjekt ska slås fast i Detalj-
+planen. Ett gestaltningsprogram för allmän platsmark och kvartersmark ska tas
+fram där parterna har enats om gestaltnings- och kvalitetsnivåer och som grundar
+sig i det anbudsförslag, se bilaga B, som utgjorde underlag för markanvisningen:.
+
+Va-anslutningsavgift m.m.
+
+VA-ledningar och dagvattenhantering inom allmän plats med kommunalt
+huvudmannaskap byggs ut och bekostas av VA-kollektivet. Bolaget betalar full
+anslutningsavgift för vatten, spillvatten och dagvatten till VA-kollektivet, enligt
+vid debileringstillfället gällande taxa,
+
+Dagvattenanläggningar (fördröjningsmagasin mm) inom Projektområdet byggs
+ut och bekostas av Bolaget.
+
+Hållbart resande
+
+Bolaget är medvetna om att Kommunen strävar efter ett hållbart resande inom
+kommunen. Ett hållbart resande kan uppmuntras genom till exempel grön
+resplan, införande av bilpool och god tillgång till cykelparkeringar. Kommunen
+har tagit fram ett PM för parkering för Annebergs centrum, se bilaga D, där
+närheten till Annebergs pendelstation motiverar ett lägre p-tal och ett
+samutnyttjande av parkeringsplatserna möjliggör för ett minskat totalt antal
+parkeringsplatser inom Planområdet
+
+Behov av bostäder med särskild service, förskola, vård- och
+omsorgsboende, m.m.
+
+Inom Planområdet planeras det för ett nytt vård- och omsorgsboende med ca 80
+lägenheter, samt en förskola för ca 120 barn i samma byggnad. Vidare ska det
+planeras för ett nytt BMSS (bostäder med särskild service) boende med ca 12
+lägenheter.
+
+Kommunen avser att uppföra och äga vård- och omsorgsboende, förskola och
+BMSS-boende.
+
+ÖVRIGA BESTÄMMELSER
+
+Avtalstid
+
+Avtalet löper från och med dagen för kommunstyrelsens godkännande till den
+dag då giltigt genomförandeavtal och överlåtelseavtal föreligger, dock längst två
+år från avtalet börjar gälla, Avtalstiden. Avtalet upphör då att gälla om inte
+Parterna överenskommer om annat, se pkt 19.2.
+
+Förlängning av detta avtal kan medges om:
+a) förseningen beror på att Detaljplanen överklagas eller överprövas av högre
+instans
+
+b) Kommunens handläggning av olika skäl fördröjer planprocessen
+c) Bolaget anger sakliga skäl för att få förlängning av avtalet
+
+Sig
+
+<!-- sida 331 -->
+
+19.
+
+19.1
+
+20.
+
+20.1
+
+20.2
+
+9/10
+
+Bolaget ska senast tre månader före avtalets upphörande begära om förlängning
+av avtalet. Har förlängning inte begärts har Kommunen rätt att markanvisa
+området till annan intressent.
+
+Om detta avtal förlängs kan köpeskillingen komma att justeras vid tecknande av
+slutgiltigt överlåtelseavtal,
+
+Vid en märkbar prisskillnad på marknaden ska en värdering utföras av
+auktoriserad fastighetsvärderare, anlitad av kommunen.
+
+Markanvisning
+
+Bolaget erhåller, i samband med att Avtalet godkänns av kommunstyrelsen, en
+markanvisning avseende marken i Projektområdet. Det innebär att Bolaget under
+Avtalstiden har ensamrätt att så länge det gäller Projektet, så som det definieras i
+pkt 1.5, tillsammans med Kommunen utveckla Projektområdet samt att
+förhandla om övriga villkor avseende förvärvet av Fastigheten samt
+exploateringen och dess genomförande, i syfte att teckna ett till Detaljplanen
+hörande genomförandeavtal inklusive därtill hörande överlåtelseavtal avseende
+Fastigheten.
+
+Avbrutet planarbete - upphörande ay avtal och kostnader
+
+Om formella hinder skulle uppstå emot att Detaljplanen slutligen vinner laga
+kraft, se pkt 6.3, ska samarbetet avbrytas och Avtalet upphöra att gälla. Detta
+gäller även om Bolaget erhållit markanvisning i enlighet med pkt 19. Parterna
+svarar i detta fall för sina respektive nedlagda kostnader enligt Avtalet, utan
+ersättningsanspråk på motparten, med undantag för erlagd markanvisningsavgift
+som Bolaget har rätt att återfå.
+
+Om Bolaget och Kommunen inte kommer överens om formerna och villkoren
+för överlåtelsen av marken äger Kommunen rätt att återta markanvisningen utan
+något rätt till ersättning för Bolaget eller återbetalning av
+markanvisningsavgiften. Detsamma gäller om Bolaget väljer att avstå från att
+utnyttja markanvisningen eller uppenbart inte avser eller förmår att genomföra
+projektet i den takt eller på det sätt som avses.
+
+Överlåtelse av avtal och fastigheter
+
+Bolaget äger ej rätt att, utan kommunstyrelsens skriftliga medgivande, överlåta
+Avtalet på annan. Bolaget ska i god tid innan avsedd överlåtelse begära sådant
+medgivande.
+
+Vid överlåtelse till helägt bolag inom samma koncern som Bolaget tillhör, ska
+medgivande enligt ovan lämnas om inte särskilda skäl föreligger emot ett sådant
+
+medgivande,
+
+Sigr
+
+<!-- sida 332 -->
+
+10/10
+
+22. Avtalets giltighet
+
+22.1 — Avtalet är giltigt endast under förutsättning att det senast 2020-06-30 godkänns
+av kommunstyrelsen i Kungsbacka kommun genom beslut som vinner laga
+kraft.
+
+222 — Avtalet ersätter tidigare tecknat markanvisningsavtal (201 8-05-28) i sin helhet.
+23. — Tvist
+
+23.1 — Tvist i anledning av Avtalet ska avgöras enligt svensk rätt av den tingsrätt vars
+domsaga Kommunen tillhör.
+
+Avtalet är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
+
+, AN rg - pr -
+Kungsbacka 2020-00)" C Kungsbacka 2020-25
+för Kungsbacka kommun Hå nok vi
+
+HansEorsberg Fredatt Hanna oern
+Kommunstyrelsens ordf. Ola Serneke
+
+alin Aronsson
+Kommundirektör
+
+Patrik Lindström
+
+Namnförtydligande
+
+Bevittnas:
+
+Förteckning över bilagor:
+g
+
+A: Karta — Planområde och Projektområde
+B: Anbudsförslag
+
+C: Plankostnadsavtal
+
+D; PM Parkering Annebergs centrum
+
+Sign
+
+<!-- sida 333 -->
+
+<!-- sida 334 -->
+
+<!-- sida 335 -->
+
+<!-- sida 336 -->
+
+<!-- sida 337 -->
+
+<!-- sida 338 -->
+
+<!-- sida 339 -->
+
+<!-- sida 340 -->
+
+<!-- sida 341 -->
+
+<!-- sida 342 -->
+
+uniForm KUB100 v 1,1, 2012-05-20
+
+KUNGSBACKA KOMMUN
+Samhällsbyggnadskontoret
+
+Planavdelningen
+434 81 KUNGSBACKA
+
+PLANKOSTNADSAVTAL — DETALJPLAN
+
+Avtalet gäller detaljplan för Annebergs Centrum, Alafors 2:16 m fl i Älvsåker,
+
+Iungsbacka kommun,
+Är upprättat mellan Serneke Projektstyrning AB nedan kallad Beställaren och
+
+Kungsbacka kommun, Samhällsbyggnadskontoret, planavdelning, nedan kallad
+Planavdelningen.
+
+Detaljplaneprocessen utgår ifrån beslut i Byggnadsnämndens arbetsutskott
+2016-12-20 $ 551.
+
+Följande utförs av Planavdelningen i samråd med Beställaren
+
+1. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
+genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
+informationsmaterial för samråd och granskning,
+
+2. Grundkarta och fastighetsförteckning.
+
+3, Skisser och utredningar som fordras vid framtagande av detaljplan.
+
+4. Granskningsutlåtande efter granskning
+
+5. Material beställt av planavdelningen och som fordras vid samråd, granskning
+och antagande.
+
+6. Övriga arbetsuppgifter som uppkommer i samband med samråd,
+underrättelse/granskning, antagande och arkivering,
+
+7. Kostnaderna för utfört arbete från 2016-12-20 enligt punlt 1-6 faltureras
+Beställaren,
+
+8. Vid planarbetets påbörjande startfaktureras 2574 (tjugofem) av en uppskattad
+plankostnad exklusive utredningar, enligt punkt 1-6.
+
+Sumina startfalktura avräknas vid faktureringstillfälle två. Falturering enligt
+punkt 7 kommer att ske löpande men föregås av meddelande och
+specifikation brevledes eller via epost.
+
+9, Timdebitering sker enligt plantaxa beslutad av kommunfullmäktige,
+
+Kungsbacka
+I (2)
+
+Datum
+
+2018-05-28
+PL/2004:38
+[89078
+
+<!-- sida 343 -->
+
+KUNGSBACKA KOMMUN
+
+10. Detaljplanen administreras av Planavdelningen fram till och med antagande 2 (2)
+
+och arkivering.
+
+11. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
+lagakraftvunnen detaljplan.
+
+12, Ayvbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
+visning av berörd personal, samt för eventuellt utförda utredningar,
+
+Beställare:
+
+Serneke Projektstyrning AB
+Organisationsnummer 556841-2331
+Box 3194
+
+400 10 GÖTEBORG
+
+Alternativ fakturaadress;
+
+falktuca Jerry (CEe.NE AS
+
+Filt bry?
+
+Underskrift Firmatecknare
+
+Pairik Lindström
+
+FrdddedördA vanns RA ARR RR KA
+
+Namnförtlydligande Namnförtydligande
+
+För Kungsbacka kommun, Samhällsbyggnadskontoret, planayvdelningen
+
+fran sesf sr RK KK KR
+
+, Verksamhetschef planavdelningen
+
+Jenny Ols
+
+it
+
+)
+Detta avtalhar upprättats i två exemplar varav parterna tagit var sitt,
+
+Samhällsbyggnadskontoret Kungsbacka kommun
+Stadshuset, Storgatan 37
+
+Besöksadress
+Stadshuset, Storgatan 37
+
+Telefon 0300-83 40 00
+
+samhallsbyggnadskomtoretalungsbacka.se
+
+infofakungsbacka.se
+www.kungsbacka,se
+
+<!-- sida 344 -->
+
+PM parkering Anneberg centrum
+
+Teknik
+
+Version 1.1
+
+Sara Johansson
+
+Trafikingenjör
+
+Kungsbacka
+
+<!-- sida 345 -->
+
+O& Utges av Kungsbacka kommun
+mars 2020
+
+<!-- sida 346 -->
+
+<!-- sida 347 -->
+
+PM parkering Anneberg centrum Kungsbacka kommun
+
+1 - Bakgrund och syfte
+
+Detaljplaneläggning för Annebergs centrum pågår och området planeras för cirka
+400 bostäder, ett vård- och omsorgsboende för 80 boende, ett gruppboende med 12
+lägenheter och en förskola för 120 barn. Planen innefattar även cirka 1500 kvm
+
+verksamhetslokaler
+Serneke är exploatör för delen norr om Älvsåkersvägen och Stejla är exploatör för
+den södra delen.
+
+kill ( a ES;
+HAM | 7
+
+Annebergs 7/ SN KG
+gård oa Förekola
+Z | 444-D | 3
+
+Figur 1 Kartbild med detaljplaneområdet markerat i rosa
+
+<!-- sida 348 -->
+
+PM parkering Anneberg centrum Kungsbacka kommun
+
+2  Parkeringstal
+
+I markanvisningsavtalet finns ett generellt p-tal på 1,2 bilplatser/lägenhet men nu när
+planeringen kommit längre och lägenhetsfördelning är framtagen så justeras p-talet
+enligt nedan.
+
+2.1.1 Bilparkering
+P-tal för bostäder (inklusive besöksparkering)
+
+Radhus 2,0 bilplatser/lägenhet
+Fyrbohus = 1.2 bilplatser/lägenhet
+3-4 rok 1,2 bilplatser/lägenhet
+
+1-2 rok 0,9 bilplatser/lägenhet
+
+P-tal för verksamheter
+
+Gruppboende 0,5 bilplatser/lägenhet
+
+Vård- och omsorgsboende 7 bilplatser/ 1000 kvm BTA
+Förskola 120 barn 30 bilplatser
+
+Verksamhet 40 bilplatser/1000 kvm BTA
+
+2.1.2 Cykelparkering
+P-tal för bostäder
+
+Plats i cykelförråd I per invånare
+Plats vid entré boende 0,5 cykelplatser/lägenhet
+
+Plats vid entré besök 0.5 cykelplatser/lägenhet
+
+P-tal för verksamheter
+
+Vård- och omsorg 20 cykelplatser
+Förskola 10 cykelplatser
+Verksamhet beroende på typ av verksamhet, riktvärde 10 cykelplatser
+
+<!-- sida 349 -->
+
+PM parkering Anneberg centrum
+
+2.1.3 Parkeringsbehov bil
+Detaljplanen innefattar ett större område norr om Älvsåkersvägen där Serneke är
+exploatör och ett mindre område söder om Alvsåkersvägen där Stejla är exploatör.
+Parkeringsbehovet för dessa områden räknas för sig och inget samnyttjande sker
+mellan dem för att minska trafik över Alvsåkersvägen.
+
+Kungsbacka kommun
+
+Med den lägenhetsfördelning som har angetts från exploatören i skiss daterad 20-02-
+10 innebär det att antalet bilparkeringar som krävs för respektive område är enligt
+
+tabellerna nedan:
+
+SERNEKE Antal bostäder Parkeringsplatser
+Radhus 15 30
+3-4 rok 104 125
+1-2 rok 188 169
+Gruppboende 12 6
+Vårdboende 80 54
+Förskola 120 barn 30
+Verksamhet 500 kvm 20
+Totalt 307 434
+Stejla Antal bostäder Parkeringsplatser
+3-4 rok 30 36
+1-2 rok 78 70
+Verksamhet 747 kvm 30
+Totalt 108 136
+
+2.1.4 Samnyttjande
+Eftersom olika verksamheter har olika parkeringsbehov (beläggningsgrad) över
+dygnet så kan bruttobehovet justeras ner något när samnyttjande tas i beaktning.
+Samnyttjandet innebär att alla parkeringsplatser är fria för alla i området (undantaget
+boendeparkering för radhusen som sker på egen tomt).
+Beläggningstal enligt tabellen nedan har använts i beräkningarna
+
+Beläggningsgrad | Vardag 10-16 | Fredag 16-19 |Lördag 10-13 | Natt
+Boende 5594 604 60246) 1004
+Besök till
+
+boende 307 704 40946 5094
+Verksamhet 4024 804 804 [0k
+Förskola 804 1024 0926 [0)A]
+Vårdboende 9024 604 604 2049
+Besökare 40946 604 5024 5094
+
+<!-- sida 350 -->
+
+PM parkering Anneberg centrum Kungsbacka kommun
+
+Bruttobehovet inom den norra delen är ca 410 parkeringsplatser (exkluderat
+boendeparkering för radhusen som sker på egen tomt och därför ej kan samnyttjas)
+men genom att samnyttja parkeringarna mellan olika verksamheter så kan antalet
+parkeringsplatser minskas.
+
+Nattetid är dimensionerande tidpunkt för antalet parkeringsplatser och då finns det
+behov av 310 bilplatser för bostäderna och 13 bilplatser för de kommunala
+verksamheterna., totalt ca 320 bilplatser (siffrorna inkluderar en marginal på 10746
+för att inte räkna med maximalt samutnyttjande). Genom att räkna med samnyttjände
+kän alltså antalet parkeringsplatser minskas från 410 till 320 st.
+
+För den södra delen av Annebergs centrum är bruttobehovet 136 platser som genom
+samnyttjande kan minskas till ca 110 bilplatser (siffrorna inkluderar en marginal på
+1024 för att inte räkna med maximalt samutnyttjande).
+
+2.1.5 Parkeringsbehov cykel
+
+Det ska finnas I cykelplats/boende under tak, helst i förråd, samt en
+cykelplats/lägenhet i direkt anslutning till bostadsentréerna inklusive
+besöksparkering. Vid alla platser bör det finnas möjlighet att låsa fast cykeln i ramen.
+Cykelplatser för exempelvis lasteyklar bör också tillhandahållas då denna typ av
+fordon blir mer vanligt och kan vara ett komplement till bilen för kortare resor.
+
+Med det antal bostäder som har angetts i skiss från exploatörerna daterad 2020-02-10
+så innebär det att det behövs ca 520 cykelplatser i förråd och 290 cykelplatser i
+anslutning till bostädernas entréer för Sernekes bostäder.
+
+För Stejlas lägenheter behövs det ca 180 cykelplatser i förråd och ca 110
+eykelplatser i anslutning till bostädernas entréer.
+
+För att beräkna antalet eykelplatser i förråd har en genomsnittlig befolkning per
+lägenhet från SCB använts:
+
+https://Awww.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/inkomster-
+och-inkomstfordelning/hushallens-boende/pong/statistiknyhet/hushallens-boende/
+
+<!-- sida 351 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
+Kommunstyrelsen Datum
+
+2020-05-26
+
+$ 116 Dnr 2017-00207
+
+Markanvisning i Annebergs centrum för del av Alafors 2:16 och Alafors
+3:3
+
+Beslut
+
+Kommunstyrelsen godkänner principavtal, undertecknat av Serneke Sverige AB, 4
+maj 2020, samt markanvisning avseende del av Alafors 2:16 och Alafors 3:3.
+
+Kommunstyrelsens ordförande samt kommundirektören, eller deras respektive
+ersättare, utses att för kommunens räkning underteckna avtalet.
+
+Sammanfattning av ärendet
+
+Kommunstyrelsen godkände markanvisningsavtal tecknat med Serneke
+Projektstyrning AB den 24 april 2018. Avtalet innebar bland annat att Serneke
+Projektstyrning AB tilldelades en markanvisning för framtagande av detaljplan för
+fastigheten Alafors 2:16 i enlighet med framtaget planprogram för Annebergs
+centrum.
+
+Markanvisningsavtalet har en giltighetstid på två år från och med den 28 maj 2018,
+då båda parter undertecknat avtalet och behöver nu förlängas för att fortsätta gälla.
+Markanvisningen avsåg ett förslag på 12 297 kvadratmeter bruttoarea (sammanlagd
+yta av alla våningsplan) för bostads- och centrumändamål och en köpeskilling om
+52 035 000 kronor samt exploateringsbidrag om 400 kronor per kvadratmeter
+bruttoarea.
+
+Principavtalet ersätter tidigare tecknat markanvisningsavtal i sin helhet och reglerar
+samarbetet mellan Serneke Sverige AB och kommunen i det fortsatta
+detaljplanearbetet för utveckling av Annebergs centrum, samt markanvisning
+avseende del av Alafors 2:16 och Alafors 3:3.
+
+Beslutsunderlag
+
+Kommunstyrelsens arbetsutskott 2020-05-12, $ 144
+
+Samhällsbyggnadskontorets tjänsteskrivelse, 2020-04-09
+
+Principavtal med Serneke Sverige AB för detaljplan för utveckling av Annebergs
+centrum och markanvisning avseende del av Alafors 2:16 och Alafors 3:3,
+2020-05-04
+
+Beslutsgång
+
+Ordförande Fredrik Hansson (C) finner att det finns ett förslag till beslut, det vill
+säga kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
+
+Beslutet skickas till
+
+Serneke Sverige AB
+
+Justerare
+
+Expedierat/bestyrkt
+
+<!-- sida 352 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunstyrelsen
+Datum
+2020-05-26
+
+§ 116                      Dnr 2017-00207
+Markanvisning i Annebergs centrum för del av Alafors 2:16 och Alafors
+3:3
+
+Beslut
+Kommunstyrelsen godkänner principavtal, undertecknat av Serneke Sverige AB, 4
+maj 2020, samt markanvisning avseende del av Alafors 2:16 och Alafors 3:3.
+
+Kommunstyrelsens ordförande samt kommundirektören, eller deras respektive
+ersättare, utses att för kommunens räkning underteckna avtalet.
+
+Sammanfattning av ärendet
+
+Kommunstyrelsen godkände markanvisningsavtal tecknat med Serneke
+Projektstyrning AB den 24 april 2018. Avtalet innebar bland annat att Serneke
+Projektstyrning AB tilldelades en markanvisning för framtagande av detaljplan för
+fastigheten Alafors 2:16 i enlighet med framtaget planprogram för Annebergs
+centrum.
+
+Markanvisningsavtalet har en giltighetstid på två år från och med den 28 maj 2018,
+då båda parter undertecknat avtalet och behöver nu förlängas för att fortsätta gälla.
+Markanvisningen avsåg ett förslag på 12 297 kvadratmeter bruttoarea (sammanlagd
+yta av alla våningsplan) för bostads- och centrumändamål och en köpeskilling om
+52 035 000 kronor samt exploateringsbidrag om 400 kronor per kvadratmeter
+bruttoarea.
+
+Principavtalet ersätter tidigare tecknat markanvisningsavtal i sin helhet och reglerar
+samarbetet mellan Serneke Sverige AB och kommunen i det fortsatta
+detaljplanearbetet för utveckling av Annebergs centrum, samt markanvisning
+avseende del av Alafors 2:16 och Alafors 3:3.
+
+Beslutsunderlag
+
+Kommunstyrelsens arbetsutskott 2020-05-12, § 144
+Samhällsbyggnadskontorets tjänsteskrivelse, 2020-04-09
+Principavtal med Serneke Sverige AB för detaljplan för utveckling av Annebergs
+centrum och markanvisning avseende del av Alafors 2:16 och Alafors 3:3,
+2020-05-04
+
+Beslutsgång
+Ordförande Fredrik Hansson (C) finner att det finns ett förslag till beslut, det vill
+säga kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
+
+Beslutet skickas till
+Serneke Sverige AB
+
+Justerare                         Expedierat/bestyrkt
+
+<!-- sida 353 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-02-27
+Diarienummer
+KS-2026-00064
+
+Godkännande av exploateringsavtal och överenskommelse om fastighetsreglering
+avseende detaljplan för verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl. i
+Åsa
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen godkänner exploateringsavtal avseende detaljplan för verksamheter och bostäder
+inom Åsa 5:156 och Åsa 5:14 m.fl., mellan kommunen å ena sidan och West Sörvik AB samt
+Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat av bolagen 2026-02-27.
+
+Kommunstyrelsen godkänner överenskommelse om fastighetsreglering mellan kommunen och
+Sörviksvägen 7 Åsa AB undertecknat av bolaget 2026-02-27, genom vilken mark för
+parkeringsändamål ska överföras från kommunens fastighet till bolagets fastighet, mot en ersättning på
+529 000 kronor.
+
+Kommunstyrelsens ordförande och kommundirektören, eller deras respektive ersättare, utses att för
+kommunens räkning underteckna avtalen samt övriga nödvändiga handlingar för avtalens
+genomförande.
+
+Sammanfattning av ärendet
+
+Samhällsbyggnadskontoret har upprättat ett förslag till detaljplan för verksamheter och bostäder inom
+Åsa 5:156 m.fl. i Åsa. Detaljplanen, som är en del av planläggningen av ”Åsa restaurangstråk”, var ute
+på granskning i februari 2026 och planeras att antas under andra kvartalet 2026.
+Syftet med detaljplanen är att skapa förutsättningar för uppförande av bostäder, verksamhetslokaler
+och parkeringsplatser inom planområdet. Planen gör det möjligt att uppföra cirka 25-30 bostäder i
+flerbostadshus samt byggnation av ett småhus. I en del av bottenvåningen på flerbostadshusen ska det
+
+finnas lokaler för centrumändamål, till exempel restaurang, butik eller kontor.
+Detaljplanen har enskilt huvudmannaskap för allmän plats. I detaljplanen är befintlig parallellväg till
+Varbergsvägen utlagd som gata. När detaljplanen genomförs får vägen en ordnad förvaltning, genom
+att den avses tas in i Åsa samfällighetsförenings ansvar.
+
+Innan byggnadsnämnden kan anta detaljplanen krävs ett exploateringsavtal där genomförandet av
+detaljplanen säkerställs. Exploateringsavtalet reglerar bland annat samordningsfrågor samt fördelning
+av ansvar för utförande och kostnader. Genom avtalet förbinder sig West Sörvik AB och Sörviksvägen
+7 Åsa AB gemensamt, att bland annat att utföra och bekosta nödvändiga förbättringsåtgärder på
+1 (2)
+Samhällsbyggnadskontoret                                  Kungsbacka kommun
+434 81 Kungsbacka
+Susanne Calming
+Besöksadress
+Specialist mark och exploatering
+Stadshuset, Storgatan 37
+susanne.calming@kungsbacka.se
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 354 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Sörviksvägen, i anslutning till planområdet. Bolagen har även tecknat ett avtal angående åtgärderna,
+
+med Åsa samfällighetsförening, som äger och förvaltar Sörviksvägen
+West Sörvik AB och Sörviksvägen 7 Åsa AB äger all mark inom planområdet, förutom ett mindre
+område vid parallellvägen som kommunen äger. Marken ska användas till parkering. En
+överenskommelse om fastighetsreglering har träffats mellan kommunen och Sörviksvägen 7 Åsa AB
+genom vilken kommunen överlåter marken mot en ersättning på 529 000 kronor. Ersättningen grundar
+sig på en värdering framtagen av auktoriserad värderingskonsult.
+
+Beslutsunderlag
+Samhällsbyggnadskontorets tjänsteskrivelse, 2026-02-27
+Exploateringsavtal undertecknat av West Sörvik AB och Sörviksvägen 7 Åsa AB, 2026-02-27
+Överenskommelse om fastighetsreglering, undertecknad av Sörviksvägen 7 Åsa AB, 2026-02-27
+
+Beslutet skickas till
+West Sörvik AB, Sörviksvägen 7 Åsa AB
+
+Rickard Vidlund                    Lovisa Eld
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 355 -->
+
+1(11)
+
+EXPLOATERINGSAVTAL
+
+Detaljplan för verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl. i Åsa
+
+Parter:
+
+a) Kungsbacka kommun (212000-12356), nedan kallad Kommunen
+b) West Sörvik AB (559389-6979), ägare av Åsa 5:14
+C) Sörviksvägen 7 Åsa AB (556999-6837), ägare av Åsa 5:156
+
+Bolagen benämnda b) och c) kallas gemensamt Exploatören
+Kommunen och Exploatören kallas gemensamt Parterna
+
+ÅA. BAKGRUND OCH FÖRUTSÄTTNINGAR
+1. Uppdrag, politiska beslut m.m.
+
+1.1 Byggnadsnämnden uppdrog 2016-01-14 åt samhällsbyggnadskontoret att upprätta
+detaljplan för verksamheter och bostäder inom Åsa 5:155 m.fl. Ett förslag till
+detaljplan var utställt för samråd under december 2023. Efter samrådet delades
+detaljplanen upp i två separata planer, varav nu aktuell plan, detaljplan för
+verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl, Detaljplanen, var ute på
+förnyat samråd under februari 2025. Granskning av Detaljplanen genomfördes under
+februari 2026.
+
+2. Exploateringsområde
+
+2.1 — Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
+med blå linje på karta, bilaga ÅA, Exploateringsområdet.
+Exploateringsområdet utgörs av:
+
+a) Detaljplanens planområde, Planområdet.
+
+b) Område för ny gångväg vid Sörviksvägen, med en säker passage över vägen,
+mellan bostäderna på Åsa 5:156 och parkeringen på Åsa 5:14.
+
+ec) Område för förlängning av befintlig trottoar utmed Sörviksvögens östra sida.
+3. Syfte, innehåll och förutsättningar
+
+3.1 Exploateringsområdet omfattar ett område som har enskilt huvudmannaskap för
+allmän plats, viket innebär att Exploatören har det fulla ansvaret för Detaljplanens
+
+Sign.
+
+<!-- sida 356 -->
+
+Ir2
+
+33
+
+4.1
+
+51
+
+J:2
+
+6.1
+
+Zl
+
+1.2
+
+2(11)
+
+genomförande. Kommunen har intresse av att planen blir genomförd och Parterna är
+överens om hur genomförandet ska gå till.
+
+Syftet med Exploateringsavtalet, Avtalet, är att tydliggöra Exploatörens ansvar för
+genomförandet av exploateringen inom Planområdet och åtgärderna inom
+Exploateringsområdet.
+
+Detaljplanen syftar till att skapa förutsättningar för uppförande av bostäder,
+verksamhetslokaler och parkeringsplatser. Exploatören kommer inom
+Exploateringsområdet uppföra 25-30 lägenheter i flerbostadshus som avses upplåtas
+med bostadsrätt. Detaljplanen möjliggör även byggnation av ett småhus.
+
+Planförhållanden
+Området är inte tidigare planlagt.
+Fastigheter och ägare
+
+Exploateringsområdet omfattar exploatörens fastigheter Åsa 5:14 och 5:156,
+Fastigheterna samt delar av Kommunens fastigheter Åsa 4:118 och Åsa 5:150, som
+
+påverkas av Detaljplanens genomförande.
+
+Gemensamhetsanläggningen Åsa ga:8 (gator, grönområden m.m.) ligger också inom
+Exploateringsområdet och påverkas av detaljplanens genomförande.
+
+ÖVERLÅTELSE AV MARK M.M.
+Fastighetsreglering
+
+Exploatören förvärvar kvartersmark
+
+Den del av Kommunens fastighet Åsa 5:150 som är enligt Detaljplanen utgör
+kvartersmark för bostads-/centrumändamål (BC) ska genom fastighetsreglering
+överföras till Exploatörens fastighet Åsa 5:156. Området är ungefärligt markerat med
+
+blå begränsningslinje plankartan, bilaga B.
+
+Upprättande och tecknande av överenskommelse om fastighetsreglering ska ske innan
+Detaljplanen antas.
+
+Gemensamhetsanläggningar
+
+Gatorna i den här delen av Åsa samhälle ingår i gemensamhetsanläggningen Åsa ga:8
+som förvaltas av Åsa samfällighetsförening. I denna detaljplan planläggs befintlig
+parallellväg till Varbergsvägen, som allmän plats med enskilt huvudmannaskap
+(GATA). Angränsande gång- och cykelväg sköts av Kommunen.
+
+Parallellvägen ligger idag på Kommunens och Exploatörens mark, utanför planlagt
+område och saknar ordnad förvaltning. Det finns inget kommunalt behov av att
+använda eller förvalta vägen. Den ska därför överlämnas till berörda fastighetsägare,
+genom en gemensamhetsanläggning/samfällighetsförening. Kommunen och
+Exploatören förbinder sig att upplåta utrymme och väganläggning utan krav på
+ersättning.
+
+Sign.
+
+<!-- sida 357 -->
+
+1.3
+
+17.4
+
+3
+
+8.1
+
+8.2
+
+9.1
+
+2
+
+10.
+
+10.1
+
+10.2
+
+3(11)
+
+Det är lämpligt att vägen införlivas i Åsa ga:8 genom omprövning av
+anläggningsbeslutet. Alternativet är att det bildas en separat gemensamhetsanläggning
+för parallellvägen, där i så fall fastigheterna Åsa 5:155, 5:156 och 5:163 ska delta.
+
+En gemensamhetsanläggning kan bildas för anläggningar inom kvartersmark som ska
+nyttjas gemensamt av bostadsfastigheterna inom planområdet, t.ex infarten till småhus
+och parkering vid Åsa 5:14.
+
+Exploatörens fastighet Åsa 5:156 är delägare i Åsa ga:8, men andelstalet måste ändras
+eftersom Detaljplanen medför en högre exploatering och därmed ökad användning av
+gemensamhetsanläggningen. Fastighet som avstyckas från Åsa 5:14 måste inträda som
+delägare i Åsa ga:8 för att få rätt att använda föreningens vägar och grönområden.
+Ändring av andelstal samt inträde kan ske genom överenskommelse med
+samfällighetsföreningen eller genom lantmäteriförrättning.
+
+Ledningsrätt och servitut
+
+Ledningsrätt
+
+Inga befintliga ledningsrätter påverkas av Detaljplanen. Inga nya ledningsrätter
+behöver bildas vid genomförandet av planen.
+
+Servitut
+
+Den nya småhusfastigheten som avstyckas från Åsa 5:14 behöver ett servitut avseende
+rätt att anlägga VA-ledningar över parkeringsytan till kommunala förbindelsepunkter
+vid Sörviksvägen. Småhusfastigheten behöver även ett servitut för utfart över Åsa 5:14
+till Sörviksvägen, om inte en gemensamhetsanläggning bildas för detta ändamål.
+
+Servituten kan bildas i samband med avstyckning av fastigheten eller genom avtal.
+Lantmäteriförrättning
+
+Exploatören ansvarar för ansökan och bekostar fastighetsbildningsåtgärder inom sin
+kvartersmark, såsom till exempel avstyckning, fastighetsreglering, bildande av
+gemensamhetsanläggning samt ev. fastighetsbestämning av osäkra gränser.
+
+Exploatören förbinder sig att ansöka om anläggningsförrättning för omprövning av
+Åsa ga:8, i syfte att införliva parallellvägen till Varbergsvägen (GATA) i
+gemensamhetsanläggningen, se punkt 7.1-7.3. Lantmäteriet bestämmer hur
+förrättningskostnaderna ska fördelas mellan berörda fastigheter utmed vägen.
+
+EXPLOATERING
+Byggnader och anläggningar inom kvartersmark
+
+Exploatören ansvarar för utförande av byggnader och anläggningar inom kvartersmark
+för bostad-, centrum- och parkeringsändamål.
+
+Exploatören ansvarar för rivning av byggnader och andra anläggningar som finns
+inom fastigheterna Åsa 5:14 och 5:156 idag och som inte kan vara kvar vid
+genomförande av detaljplanen.
+
+Sign.
+
+<!-- sida 358 -->
+
+10.3
+
+10.4
+
+10.5
+
+4(11)
+
+Anslutning mot allmän plats och befintliga gator m.m.
+
+Exploatören ansvarar för att anläggningarna inom kvartersmark ansluts till befintliga
+allmänna gator, annan allmän plats eller enskilda vägar, på ett tillfredsställande sätt.
+
+För att säkerställa att anpassning av höjdsättningen sker förbinder sig Exploatören att
+göra regelbundna avstämningar med Åsa samfällighetsförening under projekterings-
+och utbyggnadsskedet.
+
+Exploatören förbinder sig att skaffa berörda samfällighetsföreningars/väghållares
+tillstånd till åtgärder som berör deras anläggningar.
+
+VA-anläggningar
+
+Planområdet ingår i kommunalt verksamhetsområde för vatten, spillvatten och
+dagvatten, ledningsnät för dessa ändamål är utbyggt i Sörviksvägen. Berörda
+fastigheter är anslutna till kommunens ledningar.
+
+Kapaciteten på allmänt ledningsnät för dricksvatten medger uttag av brandvatten
+motsvarande tabell 3.3 i Svenskt Vattens publikation P114. Kapacitet om 20 liter per
+sekund finns i brandposter på Stenviksvägen respektive Karlsviksvägen/
+Varbergsvägen och kapacitet om 10 liter per sekund finns i brandpost på
+Sörviksvägen. Lägsta normala vattentryck i förbindelsepunkt motsvarar + 50 meter. I
+de fall högre vattentryck önskas får detta anordnas och betalas av Exploatören
+alternativt respektive blivande fastighetsägare.
+
+Om Exploatören avser att installera sprinkleranläggning ska detta anordnas och
+bekostas av Exploatören i enlighet med Kungsbacka kommuns dokument ”Riktlinjer
+för sprinkleranläggningar”, daterad 2023-03-29.
+
+Avloppsnätet inom kvartersmark ska utformas som duplikatsystem med skilda
+ledningar för dag- och dräneringsvatten respektive spillvatten. Dag-, drän- och
+spillvatteninstallation inom kvartersmarken ska utformas med hänsyn till
+uppdämningsnivån i det allmänna avloppsnätet. Lägsta höjd på färdigt golv ska, för att
+anslutning med självfall ska tillåtas, vara minst 0,3 meter över marknivå i
+förbindelsepunkt.
+
+Parkering
+
+Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekosta
+parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
+fastigheternas parkeringsbehov (bostäder och verksamhetslokaler). Exploatören
+förbinder sig att följa fastställd parkeringsnorm för området, som redovisas i
+Detaljplanens planbeskrivning. Parkeringslösningen för varje fastighets behov ska
+redovisas vid ansökan om bygglov.
+
+För planerad bebyggelse gäller att parkeringsplatser för bil ska uppgå i 1,2 stycken per
+bostad i flerfamiljshus respektive 2,0 stycken per bostad i småbostadshus.
+Kvartersmarken ska även ge utrymme för cykelparkering i enlighet med kommunens
+
+parkeringsstrategi.
+
+Sign.
+
+<!-- sida 359 -->
+
+10.6
+
+11.
+
+I12
+
+11.3
+
+11.4
+
+12.
+
+12.1
+
+12.2
+
+5(11)
+
+Exploatören ansvarar för att ordna en långsiktig förvaltning av
+parkeringsanläggningarna.
+
+Tillgänglig utemiljö
+
+Exploatören förbinder sig att utforma området så att god tillgänglighet uppnås.
+Personer med olika funktionshinder ska lätt kunna orientera sig samt enkelt,
+självständigt och utan fara ta sig fram till och inom områdena. Markbeläggning,
+belysning, väghållning och skyltning ska underlätta framkomligheten.
+
+Dagvatten
+
+Exploatören är förbinder sig vidta nödvändiga åtgärder för avledande av vatten från
+den egna kvartersmarken så att inte skada uppstår på grannfastigheterna. Exploatören
+ska även bekosta eventuella nödvändiga anordningar för avledande av grund- och
+ytvatten från angränsande markområden (allmän plats och icke planlagd mark).
+Kommunen ansvarar inte för skada förorsakad av sådan eventuell vattenavrinning,
+under förutsättning att Kommunen inte efter överlåtelsen vidtagit sådana åtgärder på
+angränsande markområden, att väsentligt ökade olägenheter i fråga om vattnets
+avrinning uppstått för Exploatören.
+
+Exploatören förbinder sig att fördröja dagvattnet inom den egna kvartersmarken, enligt
+Kungsbacka kommuns krav. Fördröjning av dagvatten ska göras inom den egna
+fastigheten beroende på hur stor andel som är hårdgjord. För fastigheter som har
+hårdgjord yta större än 1000 m? ska fördröjningsåtgärder inom fastigheten vidtas.
+Fördröjningsanläggning med en effektiv volym av 1 m? per 100 m? hårdgjord yta ska
+anläggas och bekostas av Exploatören. Max tillåtet utflöde är 3,5 1/s. Magasinet får
+förses med bräddfunktion vid fullt magasin.
+
+För att minska föroreningsbelastningen till recipient är det viktigt att dagvatten från
+parkeringsanläggningen vid Åsa 5:14 renas innan det leds vidare till Kommunens
+dagvattenledning. För att VA-huvudmannen ska kunna medge anslutning till den
+allmänna VA-anläggningen är detta ett krav enligt ABVA (Allmänna bestämmelser
+för användande av Kungsbackas allmänna vatten- och avloppsanläggning), som
+Exploatören förbinder sig att följa.
+
+Kontroll av fördröjningsåtgärderna sker vid den anslutningskontroll som utförs av
+Kommunen genom Teknik (rörnät) i samband med att dagvattenledningar från
+kvartersmark ansluts till kommunal dagvattenledning.
+
+Byggplatsåtgärder, framkomlighet, etableringsytor m.m.
+
+Exploatören ansvarar för att informera allmänheten i närområdet om sitt byggprojekt
+genom att till exempel sätta upp skyltar med information om vad som byggs, vem som
+bygger och när utbyggnaden beräknas vara klar.
+
+Exploatören har inte rätt att utan tillstånd nyttja Kommunens mark för upplag,
+arbetsvägar, uppställning eller annat ändamål. Exploatören har inte heller rätt att utan
+tillstånd ta bort eller förändra kommunala anordningar. Exploatören ska ta särskild
+hänsyn till omgivande naturmark så att inte träd eller annan vegetation skadas under
+
+byggtiden.
+
+Sign.
+
+<!-- sida 360 -->
+
+1253
+
+12.4
+
+12.5
+
+12.6
+
+[2.7
+
+13.
+
+13.1
+
+13.2
+
+13.3
+
+6(11)
+
+Om Exploatören önskar nyttja Kommunens mark för ovan angivna ändamål och
+tillstånd till detta kan medges ska avtal upprättas. För nyttjandet utgår avgift.
+Eventuellt avtal kommer bland annat reglera återställande, ersättningar och
+upplåtelsetid. Vid eventuellt behov ska Exploatören därför meddela Kommunen i god
+tid vilka eventuella etableringsytor, utöver Fastigheterna som behövs för projektets
+genomförande.
+
+Om nyttjandet avser upplåten allmän plats eller annan offentlig plats ska
+bestämmelserna om upplåtelse av offentlig plats tillämpas. Tillstånd ska sökas hos
+polisen och avgift utgår enligt särskild taxa. Tillståndsfrågan hanteras i detta fall av
+kommunens förvaltning för teknik, Teknik.
+
+Om nyttjandet avser övrig mark ska arrendeavtal upprättas. För nyttjandet utgår i
+sådant fall marknadsmässig arrendeavgift. Tillståndsfrågan hanteras i detta fall av
+kommunens samhällsbyggnadskontor.
+
+Trafiken på angränsande gator, gång-och cykelvägar och gångvägar samt till
+angränsande befintlig bebyggelse ska kunna ske på ett tillfredsställande sätt under
+byggnadstiden. Tillfällig omledning av trafik på enskilda vägar och gc-vägar ska
+godkännas av Åsa samfällighetsförening.
+
+Exploatören är ersättningsskyldigt gentemot Kommunen för skador på Kommunens
+egendom som har sin grund i Exploatörens arbeten eller verksamhet enligt detta avtal.
+För det fall Kommunen gentemot tredje man görs ansvarig för inträffade skador
+orsakad av Exploatören, ska Exploatören hålla Kommunen skadeslös. Eventuella
+ersättnings- och skadeståndsanspråk från tredje man till följd av Bolagets arbeten och
+verksamhet enligt detta avtal, exempelvis till följd av tillfällig omledning av trafik
+eller andra provisorier, ska i första hand hanteras av Exploatören. Kommuen ska
+därför som utgångspunkt kunna hänvisa skadelidande tredje man till att ställa sådana
+krav mot Exploatören. För det fall ersättnings- eller skadeståndsanspråk riktas direkt
+mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
+eller avtalar om eventuell ersättning till tredje man. Exploatören ansvar inkluderar
+ansvar för skador som orsakas av entreprenör eller annan som Exploatören anlitar.
+
+Besiktning och återställande
+
+Före byggstart ska Exploatören kalla Kommunen, genom Teknik (va och bredband)
+till förbesiktning i syfte att tillsammans med Kommunen göra en okulärbesiktning
+med fotodokumentation av berörda befintliga kommunala anläggningar och mark. En
+avstämning ska vidare ske med Teknik angående eventuell filmning av befintliga
+ledningar. Eventuell filmning utförs och bekostas av Exploatören som delger resultatet
+till Teknik.
+
+Delbesiktning av kommunala anläggningar ska genomföras efter varje utfört
+delmoment, exempelvis pålning, rivning och sprängning, om Teknik anser att det
+behövs.
+
+Exploatören ansvarar för skador som Exploatören förorsakar på Kommunens
+befintliga anläggningar, inom eller utanför Exploateringsområdet och som
+förbesiktats, under tiden husbyggnads- och anläggningsarbeten pågår på kvartersmark.
+När dessa arbeten avslutats ska Exploatören kalla Kommunen till efterbesiktning
+
+Sign.
+
+<!-- sida 361 -->
+
+13.4
+
+13:35
+
+14.
+
+14.1
+
+15.
+IS
+
+152
+
+EN,3
+
+16.
+
+16.1
+
+17;
+[7
+
+7(11)
+
+Eventuella skador på Kommunens mark eller anläggningar inom och utanför
+Exploateringsområdet, som konstateras vid efterbesiktningen, ska skyndsamt åtgärdas
+av Exploatören på dennes bekostnad i den mån skadan uppkommit till direkt följd av
+Exploatörens eller dennes entreprenörers verksamhet inom Planområdet.
+
+Akuta skador på Kommunens mark eller anläggningar utanför Exploateringsområdet
+ska ersättas av Exploatören i den mån skadan uppkommit till direkt följd av
+Exploatörens eller dennes entreprenörers verksamhet inom Planområdet. Kommunen
+svarar, efter samråd med Exploatören, för återställandet på Exploatörens bekostnad
+och Kommunen fakturerar Exploatören efter utfört arbete.
+
+Anläggningar utanför Planområdet som Exploatören ansvarar för
+
+Exploatören förbinder sig att utföra och bekosta projektering, upphandling och
+iordningställande av följande förbättringsåtgärder vid Sörviksvägen. Åtgärderna är
+nödvändiga för Detaljplanens genomförande;
+
+e Förlängning av befintlig trottoar utmed Sörviksvägens östra sida, se bilaga C.
+
+oe Ny gångväg mellan Åsa 5:156 och 5:14, utmed Sörviksvägens nordvästra sida
+samt passage över Sörviksvägen, se bilaga C.
+
+Åtgärderna ska godkännas av och utföras i samförstånd med Åsa
+samfällighetsförening som ska förvalta anläggningarna. Exploatören och
+samfällighetsföreningen har tecknat ett separat avtal angående åtgärderna.
+
+Vatten- och avloppsanläggningar
+
+Kommunala ledningar för vatten, spillvatten och dagvatten är utbyggda i
+Sörviksvägen. Fastigheterna är anslutna till Kommunens ledningar. Om serviser med
+större kapacitet krävs för anslutning av ny bostads- och centrumbyggnad på Åsa 5:156
+ansöker Exploatören om detta hos Teknik och erlägger avgift enligt gällande VA-taxa.
+
+För ny småhusfastighet som kan avstyckas från Åsa 5:14, gäller att Kommunen bygger
+ut serviser med förbindelsepunkter för kommunalt vatten- och avlopp vid
+Sörviksvägen. Exploatören ansvarar för att anlägga, bekosta och förvalta privata
+ledningar från förbindelsepunkten till småhusfastigheten.
+
+Inför byggnation ska Exploatören kontakta kommunens tekniska förvaltning för
+information om de tekniska förutsättningarna avseende VA-anslutning.
+
+Anläggningsavgifter för vatten och avlopp
+
+Exploatören ska erlägga VA-anläggningsavgift till Kommunen enligt vid varje
+betalningstillfälle för kommunen gällande VA-taxa.
+
+Övriga ledningar
+
+Anslutningsavgifter för el, tele och opto betalas av Exploatören.
+
+Sign.
+
+<!-- sida 362 -->
+
+18.
+
+18.1
+
+19:
+
+19.1
+
+20.
+
+20.1
+
+20.2
+
+21.
+21.1
+
+pe
+
+22.1
+
+8(11)
+
+Flytt av ledningar, provisoriska ledningar
+
+Exploatören förbinder sig att bekosta samtliga ledningsflyttar och provisoriska
+ledningsdragningar som krävs till följd av utbyggnaden av bostäder,
+verksamhetslokaler, parkeringar och andra anläggningar inom Exploateringsområdet.
+
+Geoteknik
+
+Exploatören ansvarar för och bekostar de tillkommande geotekniska utredningar och
+stabilitetsutredningar som krävs för byggnader och anläggningars grundläggning och
+uppförande samt för de grundförstärkningsåtgärder som erfordras för sin byggnation
+inom kvartersmark och allmän plats inom Exploateringsområdet.
+
+Förorenad mark
+
+Exploatören ansvarar för och bekostar eventuella kompletterande provtagningar och
+miljötekniska markmiljöundersökningar samt har kostnadsansvaret för sanering av
+eventuella markföroreningar inom sin kvartersmark. Exploatören ansvarar för anmälan
+till berörd tillsynsmyndighet.
+
+Skulle nya provtagningar visa att den mark för bostadsändamål, centrumändamål. som
+överförs från Kommuens fastighet till Exploatörens fastighet enligt punkt 6.1 ovan, är
+förorenad med halter som överskrider aktuella riktvärden för känslig markanvändning
+(KM) och det är uppenbart att föroreningen tillkommit före Exploatörens tillträde till
+marken, svarar Kommunen för merkostnaden för den marksanering och eventuellt
+annat avhjälpande som tillsynsmyndighet beslutar om, som överstiger 100 000 kronor.
+Merkostnaden motsvarar den kostnad som Exploatören drabbas av utöver hantering av
+schaktmassor med halter som underskrider riktvärdena för känslig markanvändning
+(KM) och som ändå krävs för projektets genomförande. I merkostnaden ingår inte
+ersättning för eventuell utebliven affärsvinst,
+
+För den händelse förorenade massor med halter som överskrider riktvärdena för
+känslig markanvändning (KM) påträffas ska Exploatören, efter anmälan till
+tillsynsmyndigheten, snarast kalla Kommunen genom samhällsbyggnadskontotret till
+en avstämning och därefter få skriftligt klartecken innan eventuella åtgärder vidtas.
+Exploatören ska skriftligen meddela Samhällsbyggnadskontoret innan åtgärderna
+påbörjas. Vidare ska Exploatören skriftligen ställa ersättningsanspråk till
+samhällsbyggnadskontoret senast 3 månader, efter det att åtgärderna slutförts, annars
+är möjligheten till ersättning förverkad.
+
+Arkeologi
+
+Inga kända fornlämningar finns inom Exploateringsområdet. Om arkeologiskt fynd
+påträffas i samband med utbyggnad av kvartersmark ansvarar Exploatören för anmälan
+till berörd tillsynsmyndighet samt bekostar de åtgärder som tillsynsmyndigheten kan
+kräva.
+
+Dispenser och tillstånd
+
+Exploatören ansvarar för och bekostar erforderliga tillstånd och dispenser som krävs
+för Detaljplanens genomförande. Exploatören ansvarar för att utföra och bekosta de
+eventuella kompensationsåtgärder som tillsynsmyndigheten kan kräva.
+
+Sign.
+
+<!-- sida 363 -->
+
+23.
+
+231
+
+24.
+
+24.1
+
+24.2
+
+24.3
+
+25.
+25.1
+
+9(11)
+
+ÖVRIGA BESTÄMMELSER
+Risktagande
+
+Om hinder, oavsett vilket, skulle uppstå mot att Detaljplanen kan antas samt vinner
+laga kraft ska vardera part svara för sina respektive nedlagda kostnader och således
+inte ställa ersättningsanspråk på motparten. Exploatören ska dock alltid ersätta
+Kommunen för nedlagda plankostnader, vilket regleras i ett separat Plankostnadsavtal.
+
+Överlåtelse av avtal och fastigheter
+
+Avtalet får inte utan Kommunens skriftliga medgivande överlåtas på annan.
+Exploatören ska i god tid innan avsedd överlåtelse begära sådant medgivande.
+Kommunens medgivande förutsätter att ny part övertar de skyldigheter som gäller för
+Exploatören enligt Avtalet.
+
+Till begäran om överlåtelse av Avtalet ska bifogas ett avtal mellan Exploatören och ny
+part, där den nya parten åtar sig att överta samtliga skyldigheter samt dokumentation
+som styrker partens ekonomiska och organisatoriska förmåga att leva upp till
+skyldigheterna.
+
+Vid överlåtelse till helägt bolag inom samma koncern som Exploatören tillhör, ska
+medgivande enligt ovan lämnas om inte särskilda skäl föreligger emot ett sådant
+medgivande.
+
+Exploatören är skyldig att skriftligen meddela Kommunen vid eventuell överlåtelse av
+Fastigheten samt vem som förvärvar Fastigheten och den nya ägarens tillträdesdag.
+
+Vid överlåtelse av mark inom Planområdet ska den nya ägaren i normalfallet inträda
+som part i Avtalet. I samband med överlåtelsen ska Exploatören därför alltid föra en
+diskussion med Kommunen angående partsförhållandena i Avtalet.
+
+Exploatören är vidare skyldig att skriftligen meddela Kommunen vid eventuell
+överlåtelse av bolaget som äger fastighet inom Planområdet eller vid överlåtelse av
+merparten av aktierna i bolaget.
+
+Avtalets giltighet
+Förutsättingar för Avtalets giltighet är att villkoren nedan är uppfyllda
+
+e Kommunstyrelsen i Kungsbacka kommun godkänner Avtalet genom beslut som
+vinner laga kraft
+
+e Kommunstyrelsen i Kungsbacka kommun godkänner överenskommelse om
+fastighetreglering enligt punkt 6.1, genom beslut som vinner laga kraft
+
+e Byggnadsnämnden i Kungsbacka kommun antar Detaljplanen genom beslut som
+vinner laga kraft
+
+Sign.
+
+<!-- sida 364 -->
+
+10(11)
+
+26. — Tidsplan
+
+26.1 - Exploatören ska informera Kommunen om huvudtidplan för exploateringen. Om
+avvikelse sker/riskerar att ske mot huvudtidplanen ska övriga parter inomformeras
+utan fördröjning.
+
+27. Tvist
+
+27.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
+detta avtal ska avgöras av allmän domstol.
+
+Detta avtal är upprättat i tre likalydande exemplar varav Parterna tagit ett vardera.
+
+Åsa 2026 - OJ- LF
+för West Sörvik AB
+
+Namnteckning
+
+— | ra
+F ä B Pivå Hol föra By; IE b(
+
+Namnförtydligande - Namn förtydligande
+
+Namnteckning
+
+Åsa 2026-06)" ZT
+För Sörviksvägen 7 Åsa AB
+
+Namnteckning
+
+Namnteckning
+
+A |
+Fo 1 - 4 få ad (
+Jä k 0) (MA TICOnNn (den 7' al fo
+
+Namnförtydligande sd Namnförtydligande
+Kungsbacka 2026 -
+
+för Kungsbacka kommun
+
+Lisa Andersson Rickard Vidlund
+Kommunstyrelsens ordförande Kommundirektör
+
+Sign.
+
+<!-- sida 365 -->
+
+Bilagor:
+
+Bilaga A — Exploateringsområdet
+
+Bilaga B- Plankarta, mark som ska överföras
+Bilaga C — Atgärder på Sörviksvägen
+
+Avtalet är giltigt utifrån punkt 25 när samtliga beslut enligt nedan har vunnit laga kraft,
+
+Beslut om godkännade av exploateringsavtal vann laga kraft:
+Beslut om godkännande av överenskommelse om fastighetsreglering vann laga kraft:
+
+Beslut om antagande av detaljplanen vann laga kraft:
+
+11011)
+
+Sion.
+
+<!-- sida 366 -->
+
+Bilaga A
+
+Exploateringsområde
+
+<!-- sida 367 -->
+
+Bilaga B
+
+Fastighetsreglering
+
+Mark som ska överföras från Åsa 5:150 till Åsa 5:155 - blå linje
+
+<!-- sida 368 -->
+
+Bilaga C
+
+Anläggningar utanför planområdet
+
+Exploatören ansvarar för att utföra följande anläggningar utanför planområdet:
+
+""- Förlängning av trottoar
+"> vid Sörviksvägen
+
+<!-- sida 369 -->
+
+ÖVERENSKOMMELSE OM FASTIGHETSREGLERING
+
+Detaljplan för verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl. i Åsa
+
+Parter
+
+a)
+
+b)
+
+1.1
+
+1.2
+
+2.1
+
+Del
+
+3.1
+
+Kungsbacka kommun (212000-1256), såsom ägare till fastigheten Kungsbacka
+Åsa 5:150, nedan kallad Kommunen
+
+Sörviksvägen 7 Åsa AB (556999-6837), ägare av Åsa 5:156, nedan kallad
+Fastighetsägaren
+
+Kommunen och Fastighetsägaren kallas gemensamt Parterna
+
+Bakgrund och syfte
+
+Denna överenskommelse är ett led i genomförandet av detaljplanen för
+verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl. i Åsa. Detaljplanen
+var ute på granskning i februari 2026 och planeras att antas under våren 2026.
+
+Syftet med överenskommelsen är att möjliggöra överföring av kvartersmark från
+Kommunens fastighet till Fastighetsägarens fastighet.
+
+Parterna har utöver denna överenskommelse också undertecknat ett
+exploateringsavtal, som bland annat reglerar Parternas ansvar för utförande och
+
+kostnader i samband med genomförandet av Detaljplanen.
+
+Fastighetsreglering
+
+Fastighetsreglering ska genomföras så att ett område om ca 124 m? av
+Kommunens fastighet Åsa 5:150 överförs till Fastighetsägarens fastighet Åsa
+5:156. Området ska användas för bostads- och centrumändamål och är markerat
+med blå kantlinje på bilaga A.
+
+Området är inte belastat av inskrivningar, inteckningar eller andra belastningar.
+Fastighetsägaren är medveten om och accepterar att det ligger el- och
+bredbandskablar inom området, men att de saknar formell rättighet.
+
+Jämkning av gränser
+Parterna accepterar att utan ytterligare ersättning finna sig i sådana mindre
+
+jämkningar beträffande gränser, areal, särskilda rättigheter och dylikt, som inte
+strider mot vad som varit avsett vid tillkomsten av denna överenskommelse och
+
+1(4)
+
+<!-- sida 370 -->
+
+4.1
+
+|
+
+Ne
+
+6.1
+
+8.1
+
+som vid lantmäteriförrättningen bedöms erforderliga för att åstadkomma en
+ändamålsenlig fastighetsindelning.
+
+Tillträde
+
+Tillträde till det aktuella markområdet sker när fastighetsbildningsbeslut enligt
+punkt 6 vunnit laga kraft.
+
+Ersättning
+
+Fastighetsägaren betalar FEMHUNDRATJUGONIOTUSEN (529 000)
+KRONOR i ersättning till Kommunen för den mark som överförs till fastigheten
+Åsa 5:156. Ersättningen betalas senast 30 dagar efter det att
+fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
+
+Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
+inbetalningen med ansvar 9904 och Åsa 5:156. Om betalning sker därefter
+betalas ränta enligt 6 $ räntelagen från sista betalningsdag tills betalning sker.
+
+Lantmäteriförrättning
+
+Kommunen ska ansöka om lantmäteriförrättning för genomförandet av denna
+överenskommelse. Fastighetsägaren biträder härmed ansökan.
+Förrättningskostnaderna skall betalas av Fastighetsägaren, inklusive en extra
+aktkopia som ska tillsändas Kommunen.
+
+Övrigt
+
+Fastighetsägaren är skyldig att skriftligen meddela Kommunen vid eventuell
+överlåtelse av Åsa 5:156. Fastighetsägaren förbinder sig vidare att vid eventuell
+överlåtelse underrätta köparen om denna överenskommelses innehåll och i
+
+överlåtelsehandlingen förbinda köparen att överta åtagande och skyldigheter
+gentemot Kommunen enligt denna överenskommelse.
+
+Avtalets giltighet
+Detta avtal förutsätter för sin giltighet att:
+
+- Kommunstyrelsen godkänner denna överenskommelse, genom beslut som
+vinner laga kraft
+
+- Byggnadsnämnden antar detaljplanen för verksamheter och bostäder inom
+Åsa 5:156 och 5:14 m.fl. i Åsa, genom beslut som vinner laga kraft
+
+Parterna har inte träffat någon överenskommelse eller åtagit sig någon
+förpliktelse utöver vad som ovan angetts.
+
+2(4)
+
+<!-- sida 371 -->
+
+Detta avtal är upprättat i tre likalydande exemplar varav parterna tagit ett vardera samt
+ett som bifogas ansökan om lantmäteriförrättning.
+
+Datum 2026 - Datum 2026 - 22 -Z 7
+För Kungsbacka kommun Sörviksvägen 7 Åsa AB
+
+Åsa 5:150 Åsa 5:156
+
+Lisa Andersson Ma £s Geng 35 ry
+
+Kommunstyrelsens ordförande
+
+Rickard Vidlund | John Brolin
+Kommundirektör
+
+3(4)
+
+<!-- sida 372 -->
+
+Bilaga A
+
+Område med blå markering ska överföras från Åsa 5:150 till Åsa 5:156
+
+4(4)
+
+<!-- sida 373 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-04
+Diarienummer
+KS-2026-00097
+
+Planbesked för del av Kolla 5:2
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen lämnar besked att kommunen avser att inleda en detaljplanläggning för att pröva
+lämpligheten av handel och verksamheter inom del av Kolla 5:2, i Kungsbacka.
+
+Kommunstyrelsen ger kommundirektören i uppdrag att ta fram en projektbeställning för upprättande
+av detaljplan för handel och verksamheter inom del av Kolla 5:2, i Kungsbacka.
+
+Beslutsmotivering
+
+En utveckling med handel och verksamheter inom del av Kolla 5:2 är i överensstämmelse med
+kommunens översiktsplan. En utveckling och exploatering inom del av Kolla 5:2 bidrar dock till ökad
+trafik vilket påverkar Onsalamotet och korsningen Onsalavägen – Inlagsleden. Därför bör en
+planläggning av området avvakta initiering och genomförande av en ombyggnation av Onsalamotet
+inklusive åtgärder för ökad framkomlighet i anslutande trafiksystem samt för ökad säkerhet för
+oskyddade trafikanter.
+
+I en kommande planläggning måste hänsyn också tas till behovet av att anlägga en barriär som skydd
+mot höga havsnivåer, vilket kan komma att påverka planområdets geografiska utbredning.
+
+Sammanfattning av ärendet
+
+Kynningsrud Fastighet AB har den 23 januari 2026 begärt planbesked för att genom en ny detaljplan
+möjliggöra för handel och verksamheter inom del av fastigheten Kolla 5:2. Kynningsrud Fastighet AB
+har fullmakt från lagfarna ägare till fastigheten, att begära planbesked.
+I begäran lyfts särskilt platsens strategiska läge med god tillgänglighet till det övergripande vägnätet
+
+vilket skapar goda förutsättningar för etablering av verksamheter med behov av god logistik och
+kundtillgänglighet.
+Området som begäran avser är cirka 6 hektar och utgörs av åkermark. Området angörs i dag från
+cirkulationen vid Onsalavägen – Inlagsleden, via Kollavarvsvägen.
+
+Området ligger i närheten av E6 och i anslutning till Onsalamotet som är den trafikplats i Halland som
+är näst mest trafikerad. Kommunen har i samförstånd med Trafikverket låtit genomföra en utredning
+
+1 (4)
+Kungsbacka kommun
+434 81 Kungsbacka
+Stina Wikström
+0300-834024                                                   Besöksadress
+Planarkitekt                                             Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 374 -->
+
+KUNGSBACKA  KOMMUN
+2 (4)
+
+av Onsalamotet i syfte att se hur tillkommande exploateringar i kommunen påverkar trafikplatsen.
+Resultatet från åtgärdsvalstudien presenterades i en rapport i juni 2025.
+Enligt kommunens översiktsplan ingår det aktuella området i utvecklingsorten för Kungsbacka stad.
+Enligt översiktsplanen för Kungsbacka stad som antogs 2026 är det aktuella området lämpligt för
+näringsliv och service. De södra delarna av området ligger inom utredningsområde för ett yttre
+översvämningsskydd mot höga havsnivåer.
+
+Beslutsunderlag
+Samhällsbyggnadskontorets tjänsteskrivelse, 2026-03-04
+Orienteringskarta, 2026-03-04
+Orienteringskarta, översiktsplan, 2026-03-04
+
+Begäran om planbesked, 2026-01-23
+
+Beslutet skickas till
+
+Sökanden, lagfarna ägare till Kolla 5:2
+
+Beskrivning av ärendet
+
+Begäran om planbesked
+Kynningsrud Fastighet AB har den 23 januari 2026 begärt planbesked för att genom en ny detaljplan
+möjliggöra för handel och verksamheter inom del av fastigheten Kolla 5:2. Kynningsrud Fastighet AB
+har fullmakt från lagfarna ägare till fastigheten, att begära planbesked.
+
+I begäran lyfts särskilt platsens strategiska läge med god tillgänglighet till det övergripande vägnätet
+vilket skapar goda förutsättningar för etablering av verksamheter med behov av god logistik och
+kundtillgänglighet.
+
+Beskrivning av platsen
+Området som begäran avser är cirka 6 hektar och utgörs av åkermark. Området angörs i dag från
+cirkulationen vid Onsalavägen – Inlagsleden, via Kollavarvsvägen.
+
+Platsen är en del av den södra entrén till Kungsbacka stad och en exploatering inom området ställer
+därför höga krav på gestaltning och utformning.
+
+Kommunens översiktsplan
+Enligt kommunens översiktsplan ingår det aktuella området i utvecklingsorten för Kungsbacka stad.
+Enligt översiktsplanen för Kungsbacka stad som antogs den 3 mars 2026 är det aktuella området
+lämpligt för den typ av näringsliv och service som kräver mycket utrymme och transporter. I närhet till
+E6 kan företag växa och dra nytta av den befintliga infrastrukturen och det goda skyltläget. Här kan
+ytkrävande, trafikalstrande eller störande verksamheter ligga. I vissa fall kan olycksrisk vara ett skäl att
+
+<!-- sida 375 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
+
+hålla god distans till bostäder. På så sätt säkrar vi näringslivets utvecklingsmöjligheter, utan att
+påverka övrig bebyggelse negativt.
+Delar av området ligger inom utredningsområde för ett yttre översvämningsskydd mot höga
+havsnivåer.
+
+Riksintressen
+Onsalamotet berörs av riksintresse E6/E20 som förvaltas av Trafikverket. E6/E20 är en del av ett
+
+stomnät, ett funktionellt prioriterat vägnät för godstransporter, långväga och dagliga personresor samt
+kollektivtrafik. Vidare är E6/E20 rekommenderad färdväg för farligt gods samt en väg som
+rekommenderas binda samman anläggningar av riksintresse.
+En planering och exploatering inom Kolla 5:2 berör riksintresset E6/E20 eftersom både person- och
+godstrafik till och från området kan förväntas belasta både vägen och motet.
+
+Trafik
+Området ligger intill E6 och i anslutning till Onsalamotet som är den trafikplats i Halland som är näst
+
+mest trafikerad. Onsalamotet är en viktig länk i Västkuststråket och det trafiksystem som kopplar
+samman Kungsbacka och Onsala tätorter med E6 vilket framför allt fyller en viktig funktion i
+pendlingsstråket Kungsbacka–Göteborg. Motet hanterar också trafiken från Onsala till Kungsbacka.
+En planering och exploatering inom del av Kolla 5:2 berör E6 och Onsalamotet eftersom både person-
+och godstrafik till och från området kan förväntas belasta både vägen och motet.
+Onsalamotets nuvarande utformning har brister i både kapacitet och trafiksäkerhet. Trafikverket
+publicerade 2021 en åtgärdsvalstudie (ÅVS) för stråket Varberg – Göteborg där E6/E20 och
+
+Onsalamotet omfattades. För att hantera bristerna föreslog ÅVS Varberg – Göteborg ett antal åtgärder
+i Onsalamotet. Bland annat förslogs att de två korsningarna där ramperna ansluter till E6/E20 ersätts
+med cirkulationsplatser för att åtgärda den bristande kapaciteten och trafiksäkerheten. Vidare
+bedömdes kollektivtrafikkörfält längs Onsalavägen behövas för att prioritera kollektivtrafikens
+framkomlighet samt att gång- och cykelbanan lyfts ut på en ny separat bro parallellt med vägbron.
+Kommunen har i samförstånd med Trafikverket låtit genomföra en kompletterande utredning av
+Onsalamotet specifikt, i syfte att se hur tillkommande exploateringar i kommunen påverkar
+
+trafikplatsen. Resultatet från åtgärdsvalstudien presenterades i en rapport i juni 2025. I rapporten
+förkastas tidigare föreslagen ombyggnad av korsningar till cirkulationsplatser på grund av att denna
+lösning inte ger den kapacitet som behövs. I stället föreslås signalreglerade korsningar som ger högre
+kapacitet, men eventuellt en något lägre trafiksäkerhet. Med signalreglerade korsningar kan trafiken
+dock styras bättre och det är möjligt att kontrollera var köerna uppstår i vägnätet. På så vis kan köer
+undvikas på ramperna i större utsträckning, vilket i stället ökar trafiksäkerheten.
+I rapporten presenteras ett föreslag på åtgärder för utbyggnad av Onsalamotet. Föreslagna åtgärder
+
+utgår ifrån kapacitetsbehov som på kort och mellanlång sikt är kopplade till utbyggnaden av områdena
+Gräskärr och Kolla. Bland annat föreslås en ny gång- och cykelbro för att ge plats åt ytterligare ett
+
+<!-- sida 376 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+körfält på befintlig bro. En exploatering i närheten av Onsalamotet förutsätter också att cirkulationen
+vid korsningen Onsalavägen – Inlagsleden byggs om till en signalreglerad korsning och att den södra
+rampen, avfarten från E6 i södergående riktning, breddas till två körfält. Utöver detta föreslås åtgärder
+som ökar framkomligheten för kollektivtrafiken.
+Idag saknas förutsättningar för oskyddade trafikanter att passera över Inlagsleden på ett trafiksäkert
+sätt. En utveckling och exploatering inom del av Kolla 5:2 ger sannolikt nya målpunkter som ska
+kunna nås även av gående och cyklister. En kommande detaljplan behöver säkerställa en lösning för
+
+gående och cyklister att på ett trafiksäkert sätt kunna passera Inlagsleden.
+Teknisk försörjning
+
+Dricksvatten- och spillvattenledningar finns längs Kollavarvsvägen. Lämpliga anslutningspunkter
+behöver dock utredas.
+Området avvattnas idag mot sydost till Kungsbackaån. Om området exploateras och tas in i
+verksamhetsområde för dagvatten behöver det säkerställas att dagvatten kan avledas. Ytor för
+
+fördröjning och rening behöver ordnas på allmän plats inom planområdet.
+Hälsa och säkerhet
+
+Inom området finns lågpunkter som vid större regnmängder ansamlar vatten. Hur skyfall tas om hand
+inom området måste utredas vidare.
+Kungsbacka stad behöver skyddas mot höga havsnivåer. Kommunfullmäktige har den 10 maj 2022
+antagit en klimatstrategi som även omfattar ett inriktningsbeslut om att skydda staden mot den globala
+havsnivåhöjningen genom att anlägga ett yttre översvämningsskydd. De södra delarna av området
+
+ligger inom utredningsområde för ett yttre översvämningsskydd mot höga havsnivåer.
+
+Kommunstyrelsens förvaltnings bedömning
+Det är kommunens vilja att möjliggöra för en utveckling inom del av Kolla 5:2 i enlighet med
+kommunens översiktsplan. En utveckling och exploatering inom delar av Kolla 5:2 bidrar dock till
+ökad trafik vilket påverkar Onsalamotet och korsningen Onsalavägen – Inlagsleden. Därför bör en
+planläggning av området avvakta initiering och genomförande av en ombyggnation av Onsalamotet
+inklusive åtgärder för ökad framkomlighet i anslutande trafiksystem samt åtgärder för ökad säkerhet
+för oskyddade trafikanter.
+
+I en kommande planläggning måste hänsyn också tas till behovet av att anlägga en barriär som skydd
+mot höga havsnivåer, vilket kan komma att påverka planområdets geografiska utbredning.
+
+Rickard Vidlund                    Lovisa Eld
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 377 -->
+
+<!-- sida 378 -->
+
+| A Begäran om planbesked för del av Kolla 5:2 i Kungsbacka. y j a
+N | Kolla 5:2 ligger inom utvecklingsort för Kungsbacka stad enligt kommunens > gare
+översiktsplan.
+2026-03-04 FER
+
+Å .
+Lygnersvider
+
+å. 1:150 000 (vid A4 stående)
+17,5 km
+
+<!-- sida 379 -->
+
+Begära     planbesked
+
+Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | 2026-01-23 10:59
+
+1. Kontaktuppgifter
+
+Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
+
+Är du som skickar begäran privatperson eller representerar du ett företag?
+
+Representant för företag
+
+Dina kontaktuppgifter
+
+Förnamn                           Efternamn
+PER OLOF                          ANDERSSON MOSTRÖM
+
+E-postadress                      Mobiltelefon
+
+per.andersson@kynningsrud.se
+
+Notifieringar
+E-post
+
+Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+
+Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 1 av 4
+
+<!-- sida 380 -->
+
+Kontaktuppgifter företag
+
+Företag                           Organisationsnummer
+Kynningsrud Fastighet AB          559283-2496
+
+Utdelningsadress                  Postnummer
+Hälle-Lider 2B                    45931
+
+Postort                           Telefon
+Ljungskile                        0706330045
+
+E-postadress                      Eventuell fakturareferens
+-                                 -
+
+Företagets kontaktperson
+
+Förnamn                           Efternamn
+Per                               Andersson Moström
+
+Telefon                           E-postadress
+-                                 -
+
+2. Fastighet
+
+För vilken eller vilka fastigheter begär du planbesked?
+
+Fastighetsbeteckning               Fastighetens adress
+
+Kolla 5:2
+
+Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+
+Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 2 av 4
+
+<!-- sida 381 -->
+
+Markera fastigheten eller fastigheterna du begär planbesked för
+
+Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera fastigheten eller
+fastigheterna på denna kartan.
+
+Fastighetsbeteckning: KUNGSBACKA KOLLA 5:2
+Beskriv kortfattat varför du begär planbesked
+
+Du kan också välja att ladda upp en separat beskrivning som en bilaga på nästa sida i e-tjänsten.
+
+Ansöker om planbesked för del av Kolla 5:2 enligt ansökan för att utveckla Kungsbacka
+
+Vad beskriver bäst din begäran?
+
+Handel
+Industri/verksamhet/lager
+
+3. Bilagor
+
+Vill du bifoga en situationskarta?
+
+Ja
+
+Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+
+Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 3 av 4
+
+<!-- sida 382 -->
+
+Situationskarta
+
+Skiss.pdf (2,42 MB)
+
+Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
+
+Bifogar du en beskrivning om varför du begär planbesked?
+
+Ja
+
+Beskrivning
+
+Ansökan.pdf (583 KB)
+Medgivande.pdf (399 KB)
+
+Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
+
+Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+
+Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 4 av 4
+
+<!-- sida 383 -->
+
+SKALA 1:2000
+
+0 1020 50 100
+METER
+
+Ärendenummer: £256690 | Datum: 2026-01-23 10:59
+
+ff —- — — — — — — i— —-
+
+UT
+ANNINDENDENDNEN
+
+| KERINANNENENDN
+
+4 KENINNINENNNNNN
+
+i
+!
+
+Fb
+
+Ex byggnad
+8200 m2
+
+KOLLA
+
+28 700 m2 byggbar mark
+(4,5 m från fastighetsgräns)
+
+5:2
+1
+4
+
+FHK 2021-12-16
+Kolla 5:2
+
+Werner Arkitekter AB
+
+UPPDRAGNR 21-68
+Kolla 5:2
+SKALA 1:2000 i A3
+
+Bilaga 1 sida 1 av 1
+
+<!-- sida 384 -->
+
+Planansökan — Detaljplan för del av Kolla 5:2, Kungsbacka kommun
+
+Kynningsrud Fastighet ansöker härmed om planbesked för upprättande av detaljplan för del
+av fastigheten Kolla 5:2 i Kungsbacka kommun, för att utveckla området för verksamheter
+och handel i enlighet med Kungsbacka kommuns översiktsplan.
+
+Det aktuella planområdet är beläget i ett område som i kommunens översiktsplan är utpekat
+för utveckling av verksamheter och handel. Den föreslagna markanvändningen för
+verksamheter och handel bedöms vara förenlig med översiktsplanens övergripande
+inriktning avseende markanvändning, struktur och utvecklingsstrategi. Områdets strategiska
+läge med god tillgänglighet till det övergripande vägnätet skapar goda förutsättningar för
+etablering av verksamheter med behov av god logistik och kundtillgänglighet.
+
+Med vänliga hälsningar
+
+Per Andersson Mö öm
+Ljungskile 2026-01-23
+
+Bilagor
+
+Skiss
+Medgivande
+
+Ärendenummer: £256690 | Datum: 2026-01-23 10:59
+
+<!-- sida 385 -->
+
+Medgivande om ansökan om planbesked för del av fastigheten Kolla 5:2 i Kungsbacka
+kommun
+
+Undertecknad markägare, ger härmed vårt tillstånd till Kynningsrud Fastighet AB att ansöka om
+planbesked för del av fastigheten enligt Bilaga 1
+
+För Kolla 5:2, Kungsbacka kommun
+
+Ort och datum:
+
+Sven Erlandsson Berit Erlandsson
+
+Fastighetsägare Fastighetsägare
+
+Ärendenummer: £256690 | Datum: 2026-01-23 10:59
+
+<!-- sida 386 -->

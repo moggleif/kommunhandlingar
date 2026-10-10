@@ -1,0 +1,25 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Styrning,,,,
+Processgrupp:,Hantera styrning,,,,
+Process:,Hantera mål och resursplanering,,,,
+Processnummer:,1.2.1.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Planera,Kommunbudget,Diarium,Digitalt,Bevaras,Beslutas av fullmäktige.
+,Nämndbudget,Diarium,Digitalt,Bevaras,Beslutas av nämnd.
+,Förvaltningsbudget,Diarium,Digitalt,Bevaras,Beslutas av förvaltningschef.
+,Genomförandeplan,Diarium,Digitalt,Bevaras,"Avser förvaltningsövergripande
+genomförandeplaner."
+,Tjänsteskrivelse,Diarium,Digitalt,Bevaras,"Avser tjänsteskrivelser som upprättas när budget
+m.m. går upp till fullmäktige eller nämnd."
+,Överenskommelse,Diarium,Digitalt,Vid inaktualitet,
+Följa upp,Delårsrapport,Diarium,Digitalt,Bevaras,
+,"Uppföljning och
+prognos (april)",Diarium,Digitalt,Bevaras,
+,Årsredovisning,Diarium,Digitalt,Bevaras,"Årsredovisningen består av förvaltningsberättelse,
+resultaträkning, balansräkning, kassaflödesrapport
+och sammanställd redovisning som omfattar även
+kommunal verksamhet som bedrivs genom annan
+juridisk person."
+"Hantera
+befolkningsprognos",Statistikunderlag,Samarbetsrum,Digitalt,5 år,Inkommer från SCB (Propak och TYCO-pak)
+,Befolkningsprognos,Diarium,Digitalt,Bevaras,
