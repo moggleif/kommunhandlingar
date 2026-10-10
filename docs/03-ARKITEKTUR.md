@@ -19,7 +19,8 @@ kommuner/<kommun>.toml
 2. hämta och konvertera, ett dokument i taget
              jämför med front matter →  hoppa över, eller:
              artig HTTP-klient        →  PDF i en temporär fil utanför repot
-             konvertering             →  .md + tabeller som .csv, PDF:en raderas
+             konvertering             →  .md + tabeller som .csv, personuppgifter
+                                         maskade, PDF:en raderas
         │
         ▼
 3. indexera                            →  index över alla dokument och versioner
@@ -140,6 +141,8 @@ Datakontrollerna, i körningen och i CI
   som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
 - Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
   står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
+- Ingen text eller tabell har personuppgifter som maskningen skulle ta
+  bort, enligt [Personuppgifter](#personuppgifter).
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/`.

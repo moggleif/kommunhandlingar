@@ -153,6 +153,13 @@ organet tas från sidan, datumet ur filnamnet eller rubriken, och när de
 avviker gäller en rättelse i kommunfilen, belagd med datumet i kallelsen
 eller protokollet.
 
+**Personnummer i publicerade handlingar.** Fjorton ärenden 2024–2026 har
+fullständiga personnummer, ibland med hemadress: stipendiater,
+fastighetsägare, anställda, firmatecknare och styrelser i
+registreringsbevis. De står som `avvikelse`-issues
+([#68](https://github.com/moggleif/kommunhandlingar/issues/68)–[#81](https://github.com/moggleif/kommunhandlingar/issues/81)),
+och poolen maskar dem (ADR-0022).
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
