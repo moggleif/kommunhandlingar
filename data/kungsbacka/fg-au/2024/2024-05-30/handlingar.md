@@ -39,7 +39,7 @@ Lunch: Björkrisskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -422,7 +422,7 @@ Stefan Jägnert / SD Kungsbacka
 
 <!-- sida 13 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 6 mars 2024 13:09
 Till:           Individ & Familjeomsorg; Förskola Grundskola; Gymnasium & Arbetsmarknad;
 Vård & Omsorg; Bygg & Miljö bygglov admin; Miljö & Hälsoskydd admin
@@ -470,7 +470,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -1207,7 +1207,7 @@ Som personuppgiftsansvarig ska man utse ett Dataskyddsombud (DSO). Dennes uppgif
 bevaka verksamhetens följsamhet mot dataskyddsförordningen, vara kontakt gentemot
 Integritetsskyddsmyndigheten och på olika sätt ge råd i frågor som rör dess dataskyddsarbete.
 DSO fungerar också som kontakt gentemot de registrerade vid klagomål. I Kungsbacka nås
-DSO på dataskyddskontakt@kungsbacka.se
+DSO på (e-post borttagen)
 För det operativa dataskyddsarbetet i verksamheten ska det för varje förvaltning i Kungsbacka
 finnas en dataskyddskontakt. Dataskyddskontakten har som uppgift att samordna
 
@@ -1375,7 +1375,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)

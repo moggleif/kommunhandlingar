@@ -76,8 +76,8 @@ problem anser nämnden bör kunna åtgärdas genom föreslagna ändringar gälla
 införande av tillståndsplikt för bedrivande av detaljhandel samt att Läkemedelsverket
 ska besluta om tillstånd. Nämnden är följaktligen positiv till införande av
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -192,7 +192,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 5 -->
@@ -2144,11 +2144,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 
 Gäller från:    2024-03-05
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 51 -->
 

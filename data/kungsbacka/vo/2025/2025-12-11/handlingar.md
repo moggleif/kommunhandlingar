@@ -128,7 +128,7 @@ blocktider              inom         hemtjänsten
 
 VO   2025-00378,      KS   2025-00563
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -1257,7 +1257,7 @@ Förnamn                           Efternamn
 Annika                            Bonnér
 
 E-postadress                      Mobiltelefon
-annika.bonner@kungsbacka.se       0729957044
+(e-post borttagen)       (mobilnummer borttaget)
 
 Notifieringar
 E-post
@@ -1272,8 +1272,8 @@ Ange kontaktuppgifter till den eller de nominerade
 
 Rebecca Karbratt, Johanna Aspefors, Helena Månsson, Camilla Wall
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Annika Bonnér | Datum: 2025-10-09 09:29 Sida 1 av 2
 
@@ -1294,8 +1294,8 @@ insatserna ska vara hållbara.
 När jag som kollega hör hur de resonerar kring sitt uppdrag och att de vill lyfta kollegorna ute på
 fältet, blir jag både inspirerad och imponerad! Rätt personer på rätt plats.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Annika Bonnér | Datum: 2025-10-09 09:29 Sida 2 av 2
 
@@ -1315,7 +1315,7 @@ Förnamn                           Efternamn
 Emma                              Persson
 
 E-postadress                      Mobiltelefon
-emma.persson@kungsbacka.se        -
+(e-post borttagen)        -
 
 Notifieringar
 E-post
@@ -1328,10 +1328,10 @@ Det digitala teamet som arbetar med att genomföra digitala besök i hemtjänste
 
 Ange kontaktuppgifter till den eller de nominerade
 
-Maria.timonen@kungsbacka.se
+(e-post borttagen)
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Emma Persson | Datum: 2025-10-09 09:44 Sida 1 av 2
 
@@ -1347,8 +1347,8 @@ stor trygghet och välbefinnande. De digitala teamet arbetar tvärprofessionellt
 personal vid behov och samverkar med alla hemtjänst grupper i vår kommun för att Greta och
 Tage ska få en god vård och omsorg med hög kvalité.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Emma Persson | Datum: 2025-10-09 09:44 Sida 2 av 2
 
@@ -1368,7 +1368,7 @@ Förnamn                           Efternamn
 Jasmine                           Machiani
 
 E-postadress                      Mobiltelefon
-jasmine.machiani@kungsbacka.se    0739851220
+(e-post borttagen)    (mobilnummer borttaget)
 
 Notifieringar
 E-post
@@ -1379,8 +1379,8 @@ Vem eller vilka vill du nominera till Leva livet-priset?
 
 HSV IF/LSS gruppen
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Jasmine Machiani | Datum: 2025-10-10 14:05 Sida 1 av 3
 
@@ -1432,8 +1432,8 @@ Carina Markström
 
 Lina Johansson
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Jasmine Machiani | Datum: 2025-10-10 14:05 Sida 2 av 3
 
@@ -1461,8 +1461,8 @@ Med sin glada energi, sina kreativa initiativ och sin förmåga att göra arbets
 där man trivs och växer, är HSV IF/LSS-gruppen ett föredöme. De lever verkligen livet
 tillsammans.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Jasmine Machiani | Datum: 2025-10-10 14:05 Sida 3 av 3
 
@@ -1482,7 +1482,7 @@ Förnamn                           Efternamn
 Jovita                            Cedergren
 
 E-postadress                      Mobiltelefon
-jovita.cedergren@kungsbacka.se    0734237574
+(e-post borttagen)    (mobilnummer borttaget)
 
 Notifieringar
 E-post
@@ -1497,8 +1497,8 @@ Ange kontaktuppgifter till den eller de nominerade
 
 Pernilla, Siv, Ywona,Zega, Josefin, Annelie, Mia
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Jovita Cedergren | Datum: 2025-10-10 19:55 Sida 1 av 2
 
@@ -1511,8 +1511,8 @@ Personalen på vårat jobb är en fantastisk grupp som arbetar tillsammans. vi v
 medarbetare och alla känner sig sedda och välkomna hit till åsa. Avdelning B är en stabil grupp
 och ser till att medarbetare, anhöriga och boende mår bra.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Jovita Cedergren | Datum: 2025-10-10 19:55 Sida 2 av 2
 
@@ -1532,7 +1532,7 @@ Förnamn                           Efternamn
 Lotta                             Fagerell
 
 E-postadress                      Mobiltelefon
-lotta.fagerell@kungsbacka.se      -
+(e-post borttagen)      -
 
 Notifieringar
 E-post
@@ -1549,8 +1549,8 @@ Susanne Winberg, Maria Carlbom - Linden
 
 Lotta Andersson, Linda Wåhlander, Maria Mellberg - Källarbacken
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Lotta Fagerell | Datum: 2025-10-16 08:40 Sida 1 av 2
 
@@ -1576,8 +1576,8 @@ verksamheten. De är förebilder i att se människan bakom diagnosen och att ska
 
 varje deltagare får leva livet på sitt sätt.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Lotta Fagerell | Datum: 2025-10-16 08:40 Sida 2 av 2
 
@@ -1597,7 +1597,7 @@ Förnamn                           Efternamn
 Ellinor Violetta Gabriella        Lindqvist
 
 E-postadress                      Mobiltelefon
-lindqvist.gabriella@outlook.com   0704568715
+(e-post borttagen)   (mobilnummer borttaget)
 
 Notifieringar
 E-post
@@ -1610,10 +1610,10 @@ Kullaviks Hemtjänst
 
 Ange kontaktuppgifter till den eller de nominerade
 
-Malin Blom, enhetschef malin.blom@kungsbacka.se
+Malin Blom, enhetschef (e-post borttagen)
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Ellinor Violetta Gabriella Lindqvist | Datum: 2025-10-30 08:42 Sida 1 av 2
 
@@ -1636,8 +1636,8 @@ jobb, hon är en riktig stöttepelare.
 
 Vår grupp är verkligen en stigande stjärna, vilket är underbart!
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Inskickat av: Ellinor Violetta Gabriella Lindqvist | Datum: 2025-10-30 08:42 Sida 2 av 2
 
@@ -3489,7 +3489,7 @@ Beslutad av: Nämnden för Vård & Omsorg, 2025-12-11, §
 
 Gäller från: 2025-12-11
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 

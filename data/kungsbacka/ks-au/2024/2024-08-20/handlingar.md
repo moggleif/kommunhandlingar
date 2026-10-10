@@ -38,7 +38,7 @@ Varbergs kommun
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1543,7 +1543,7 @@ alkohol och lustgas.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2112,8 +2112,8 @@ till konsumenter (styckförpackning) ska innehålla minst 20 portioner,
 •  den högsta tillåtna nikotinhalten för snus ska bestämmas till 12 mg per gram,
 •  ett förbud mot langning ska införas,
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 {name:”MH-2024-2866 ORDFÖRANDEBESLUT”, destination:”einbox: ”,
 subject:”Beslut från Miljö & Hälsoskydd”, template:”mall-1”}
 
@@ -2290,7 +2290,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   gymnasiumocharbetsmarknad@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -2346,7 +2346,7 @@ använda dem.
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2398,7 +2398,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   gymnasiumocharbetsmarknad@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -2453,7 +2453,7 @@ mindre om tobak och nikotin kostar mer.2
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2994,7 +2994,7 @@ inte minst vad gäller barn och ungas ökade användning av lustgas som berusnin
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

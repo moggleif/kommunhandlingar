@@ -39,7 +39,7 @@ Plats: Tingbergsskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 
@@ -76,7 +76,7 @@ KUNGSBACKA  KOMMUN
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 8. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ekolek<br>Kl 15:15-15:20<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00096 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Nordgårdsvägen 103, 429 34<br>Kullavik. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
-| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>Skäddegarnsvägen 31, 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
+| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>(adress borttagen), 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
 | 10. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:55<br>Frida Byrsten, verksamhetschef | FG-2024-00634 | Nämnden för Förskola & Grundskola godkänner<br>en tillfällig utökning av barnantal till 102 barn på<br>Kullaviks Montessoriskola ekonomiska förening,<br>Bångsbovägen 13, Kullavik. Fram till dess att<br>ansökan kan prövas i sin helhet men som längst<br>till 30 september 2025.<br>Prövning om godkännande av permanent<br>utökning görs efter att förvaltningen har fattat<br>beslut i ägar- och ledningsprövningen. |
 | 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025<br>Kl 15:55-16:05<br>Frida Byrsten, verksamhetschef | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 

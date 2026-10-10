@@ -3940,7 +3940,7 @@ Diarienummer
 1480-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för seniorbostäder   inom
 
@@ -3985,7 +3985,7 @@ säkerhet samt risk för olyckor, översvämning eller erosion, ska lösas
 
 på ett tillfredsställande sätt i enlighet med vad som anges nedan. I
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 91 -->
@@ -4178,7 +4178,7 @@ föreslås att antas.
 Samhällsbyggnadskontoret                                Kungsbacka kommun
 434 81 Kungsbacka
 Stina (cid:58)ikström
-stina.wikstrom@kungsbacka.se                                Besöksadress
+(e-post borttagen)                                Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4310,7 +4310,7 @@ Diarienummer
 8440-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för bostäder  inom  Vallda
 
@@ -4354,7 +4354,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer, med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 102 -->
@@ -4794,7 +4794,7 @@ Diarienummer
 4671-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för bostäder  vid Björkbacken   i
 
@@ -4839,7 +4839,7 @@ Detaljplanens syfte är att möjliggöra för totalt två enbostadshus
 
 inom fastigheterna samt säkerställa områden för allmän plats, natur.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 113 -->
@@ -4931,8 +4931,8 @@ Detaljplan     för  bostäder     inom   Vallda
 
 17:17  och   17:223    i Vallda
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 117 -->
 
@@ -4951,9 +4951,9 @@ Påbörjad 2024-02-26
 
 Upprättad 2026-09-08
 
-Handläggare: Stina Wikström, planarkitekt, stina.wikstrom@kungsbacka.se
+Handläggare: Stina Wikström, planarkitekt, (e-post borttagen)
 
-Handläggare: Fredrik Johansson, markingenjör, fredrik.johansson2@kungsbacka.se
+Handläggare: Fredrik Johansson, markingenjör, (e-post borttagen)
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -5802,8 +5802,8 @@ Detaljplan    för  handel    inom    Varla   2:412  m.fl.  i
 
 Kungsbacka
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 140 -->
 
@@ -5853,9 +5853,9 @@ Diarienummer: BN-2022-00029
 Påbörjad 2022-09-05
 
 Upprättad 2026-09-08
-Handläggare: Björn Vikström, planarkitekt, bjorn.vikstrom@kungsbacka.se
+Handläggare: Björn Vikström, planarkitekt, (e-post borttagen)
 
-Handläggare: Fortesa Bytyqi, exploateringsingenjör, fortesa.bytyqi@kungsbacka.se
+Handläggare: Fortesa Bytyqi, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -7554,7 +7554,7 @@ positivt förhandsbesked eller ett nytt, mer begränsat lokaliseringsbesked. Fö
 
 från varandra och kan enligt Boverket genomföras tillsammans eller var för sig.
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 182 -->
 

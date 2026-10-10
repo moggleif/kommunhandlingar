@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -2997,7 +2997,7 @@ d)
 
 Kungsbacka kommun (212000-1256), nedan kallad Kommunen
 
-Lennart Larsson (19460422-5518) såsom ägare till fastigheten Lerberg 3:9,
+Lennart Larsson ((personnummer borttaget)) såsom ägare till fastigheten Lerberg 3:9,
 nedan kallad Fastighetsägare
 
 Damoj 11 AB (559328-2303) såsom ägare till fastigheten Lerberg 3:11, nedan
@@ -5014,7 +5014,7 @@ Kungsbacka       kommun
 
 Version till Ksau 2025-10-07
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 121 -->
 

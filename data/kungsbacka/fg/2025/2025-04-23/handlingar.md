@@ -39,7 +39,7 @@ Plats: Kommunfullmäktigesalen
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -65,7 +65,7 @@ KUNGSBACKA  KOMMUN
 | 6. | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun<br>Kl 17:30-17:40<br>Stigert/Lars | FG-2024-00843 | Kommunfullmäktige beslutar att Lära för livet-<br>priset inom nämnden för Förskola & Grundskola<br>uppgår i priset för årets medarbetare utifrån de<br>argument som presenteras i yttrandet. |
 | 7. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ekolek | FG-2025-00096 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Nordgårdsvägen 103, 429 34<br>Kullavik. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 8. | Ansökan från<br>Skattkammarlandet, gällande<br>tillfällig utökning av barnantal | FG-2025-00046 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Föräldrakooperativet<br>Skattkammarlandets ekonomiska förening,<br>Frillesås mellanväg 10 i Frillesås, om permanent<br>utökning till totalt 25 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från Föräldrakooperativet<br>Skattkammarlandets ekonomiska förening,<br>Frillesås mellanväg 10 i Frillesås, om tillfällig<br>utökning av barnantal på förskolan till totalt 27<br>barn till och med augusti 2025. |
-| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>Skäddegarnsvägen 31, 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
+| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>(adress borttagen), 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
 | 10. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 
 <!-- sida 3 -->
@@ -130,7 +130,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -384,7 +384,7 @@ Förvaltningschef                   Personalchef
 FG HR & Kommunikation                                     Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-0729953381                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Personalchef förvaltning                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1780,7 +1780,7 @@ verksamhetsförändring – Ek o lek barnomsorg AB
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan angående förändring av verksamhet från Ek
 
-o lek barnomsorg AB med en ny dagbarnvårdare på Nordgårdsvägen 103, 429 34 Kullavik.
+o lek barnomsorg AB med en ny dagbarnvårdare på (adress borttagen), 429 34 Kullavik.
 Godkännandet omfattar 6 barn. Har verksamheten inte startat inom två år behöver den enskilde ansöka
 om nytt godkännande.
 
@@ -1808,7 +1808,7 @@ Beslutet skickas till
 
 Ek o lek barnsomsorg AB
 
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 1 (3)
 FG Myndighet & Stöd                                       Kungsbacka kommun
@@ -1890,7 +1890,7 @@ anledning av verksamhetsförändring - Ekolek
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan angående förändring av
 verksamhet från Ek o lek barnomsorg AB med en ny dagbarnvårdare på
-Nordgårdsvägen 103, 429 34 Kullavik. Godkännandet omfattar 6 barn. Har
+(adress borttagen), 429 34 Kullavik. Godkännandet omfattar 6 barn. Har
 verksamheten inte startat inom två år behöver den enskilde ansöka om nytt
 godkännande.
 
@@ -2121,7 +2121,7 @@ förening gällande permanent utökning av barnantal
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Personalkooperativet Måsens förskola i
-ur och skur ekonomiska förening, Skäddegarnsvägen 31, 43492 Vallda, om permanent utökning till
+ur och skur ekonomiska förening, (adress borttagen), 43492 Vallda, om permanent utökning till
 totalt 21 barn.
 
 Sammanfattning av ärendet
@@ -2368,7 +2368,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 70 -->
 

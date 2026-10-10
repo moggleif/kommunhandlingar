@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -65,7 +65,7 @@ ordförande                        sekreterare
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 7. | Ansökande om godkännande<br>av fristående pedagogisk<br>omsorg med anledning av<br>verksamhetsförändring –<br>Ekolek | FG-2024-00147 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ekolek barnomsorg AB med en ny dagbarnvårdare<br>på Majsvägen 57, 439 71 FJÄRÅS. Godkännandet<br>omfattar 6 barn. Har verksamheten inte startat<br>inom två år behöver den enskilde ansöka om nytt<br>godkännande. |
+| 7. | Ansökande om godkännande<br>av fristående pedagogisk<br>omsorg med anledning av<br>verksamhetsförändring –<br>Ekolek | FG-2024-00147 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ekolek barnomsorg AB med en ny dagbarnvårdare<br>på (adress borttagen), 439 71 FJÄRÅS. Godkännandet<br>omfattar 6 barn. Har verksamheten inte startat<br>inom två år behöver den enskilde ansöka om nytt<br>godkännande. |
 | 8. | Delegeringsbeslut antagna av<br>nämnden 2024 | FG-2024-00059 | Redovisning av beslut som fattats av förvaltningen<br>på delegation för nämnden noteras till protokollet. |
 | 9. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:15-16:35<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit del<br>av informationen och antecknar informationen i<br>protokollet. |
 |  | Paus 16:35-16:55 |  |  |
@@ -115,7 +115,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -563,7 +563,7 @@ Delegationsbeslut, 2017-12-18
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 1 (2)
 «AnvEnhet»                                                Kungsbacka kommun
@@ -624,7 +624,7 @@ Delegationsbeslut, 2017-12-18
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 Beskrivning av ärendet
 
@@ -878,7 +878,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 25 -->
 

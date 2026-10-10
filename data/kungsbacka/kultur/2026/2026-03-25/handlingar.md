@@ -37,7 +37,7 @@ Sammanträde Onsdagen den 25 mars 2026 kl. 17:00
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -283,8 +283,8 @@ föreningar
 Gäller för:     Föreningsservice
 Ansvarig förvaltning: Kultur & Fritid
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -837,8 +837,8 @@ Rutiner för uthyrning av klubbhus, kanslier och föreningslokaler
 om lokaler som förvaltningen har i sitt bestånd. Vid annat fall upprättas avtal
 med annan aktör, vanligtvis Fastighet på förvaltningen för Service.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 23 -->
 
@@ -1592,11 +1592,11 @@ Beslutad av:    Nämnden för Kultur & Fritid, 2026-03-25, KFT 2026-00063
 Giltig från:    2026-03-27
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 48 -->
 
@@ -1760,7 +1760,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
@@ -2012,7 +2012,7 @@ Med mästerskap eller större framgång räknas:
 
 Med vinst som avser innevarande år
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 62 -->
 
@@ -2036,7 +2036,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -2133,7 +2133,7 @@ plats, datum.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -2148,7 +2148,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2250,7 +2250,7 @@ nomineringsperioden.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 69 -->
 
@@ -2265,7 +2265,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, KS Dnr 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2366,7 +2366,7 @@ Prissumman förväntas användas till vidareutveckling inom pristagarens område
 
 Priset finansieras och delas ut på uppdrag av nämnden för Kultur & Fritid.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 72 -->
 
@@ -2375,7 +2375,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2673,7 +2673,7 @@ Beredning och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni 
 Övriga villkor
 Stipendiet utgår med 10 000 kronor och utdelas i samband med att den ideella ledaren uppmärksammas.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -2682,7 +2682,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2776,7 +2776,7 @@ innehålla:
 • Telefonnummer och/eller e-postadress
 • CV med uppgifter om insatser och erfarenheter inom idrotten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 84 -->
 
@@ -2800,7 +2800,7 @@ Beslutad av: Kommunfullmäktige 7 september 2021 § 115, Dnr KS 2021-
 Gäller från: 7 september 2021
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -3572,7 +3572,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3812 Intern service |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3812 Intern service |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3812 Intern service |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
@@ -3586,7 +3586,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | lena.engberg | Beslut/Godkännare | 2019-01-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
-| 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
@@ -3607,7 +3607,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
@@ -3622,7 +3622,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3831 Kungsbacka Teater |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3831 Kungsbacka Teater |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
@@ -3638,7 +3638,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3832 Konsthall |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3832 Konsthall |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3832 Konsthall |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
@@ -3653,7 +3653,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3833 Offentlig konst |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3833 Offentlig konst |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3833 Offentlig konst |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
@@ -3668,7 +3668,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3834 Film |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3834 Film |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3834 Film |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3834 Film |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
@@ -3683,7 +3683,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 
@@ -3704,7 +3704,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3836 Kulturmiljövård |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3836 Kulturmiljövård |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
@@ -3718,7 +3718,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3837 Evenemang |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2023-01-03 |  |
-| 3837 Evenemang |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3837 Evenemang |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2023-10-01 |  |
@@ -3734,7 +3734,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2023-10-01 |  |
-| 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2023-10-01 |  |
@@ -3749,7 +3749,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3840 Destinationsutveckling |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3840 Destinationsutveckling |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
@@ -3764,7 +3764,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3841 Naturum |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3841 Naturum |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3841 Naturum |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
@@ -3779,7 +3779,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3842 Äskhult |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
-| 3842 Äskhult |  |  |  |  |  |  |  | malin.lonegren-mikulic@kungsbacka.se | Ersättare för beslut | 2023-10-01 |  |
+| 3842 Äskhult |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 
 <!-- sida 101 -->
 
@@ -4101,7 +4101,7 @@ av annan utsedd person.
 
 Beslutad av: Ekonomichef 2015-04-01
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 <!-- sida 110 -->
 

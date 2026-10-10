@@ -74,8 +74,8 @@ undantagsbestämmelsen tas fram av ansvarig myndighet. I detta fall är det
 Naturvårdsverket i samråd med andra berörda myndigheter som förslås för
 framtagande av en sådan vägledning.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -313,7 +313,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 7 -->
@@ -571,7 +571,7 @@ I förvaltningens förslag finns inga ställningstaganden i detalj från nämnde
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -589,11 +589,11 @@ Skapat av: Katarina Öryd
 Beslutad av:   Byggnadsnämnden
 Gäller från:   2024-04-18
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 15 -->
 

@@ -39,7 +39,7 @@ Varlaskolan, Måseskär
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -64,7 +64,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 5. | Remiss av SOU 2026:37<br>Förutsättningar för en likvärdig<br>och språkutvecklande förskola<br>Kl 16:10-16:25<br>Anna Sörensen,<br>utvecklingsledare | FG-2026-00458 | Kungsbacka kommun tillstyrker utredningens<br>ambition att stärka likvärdigheten i förskolan och<br>förbättra barns förutsättningar att utveckla goda<br>kunskaper i svenska. Kommunen delar<br>bedömningen att förskolan har en central<br>betydelse för barns lärande, språkutveckling och<br>framtida utbildningsmöjligheter. Kommunen<br>tillstyrker därför i huvudsak utredningens<br>inriktning och flertalet av de förslag som lämnas.<br>Kungsbacka kommun bedömer att flera av<br>förslagen innebär betydande organisatoriska och<br>ekonomiska konsekvenser för huvudmännen. För<br>att reformerna ska kunna genomföras på ett<br>rättssäkert, likvärdigt och långsiktigt hållbart sätt<br>krävs större tydlighet kring ansvarsfördelning,<br>finansiering och implementering. Kommunen<br>anser att reformer som medför ökade kostnader<br>för kommunerna ska finansieras fullt ut i enlighet<br>med den kommunala finansieringsprincipen.<br>Nämnden förklarar paragrafen omedelbart<br>justerad. |
 |  | Paus 16:25-16:45 |  |  |
-| 6. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>Runebergs gata 78, 437 42 Kungsbacka om<br>permanent utökning från 51 till totalt 53 barn. |
+| 6. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>(adress borttagen), 437 42 Kungsbacka om<br>permanent utökning från 51 till totalt 53 barn. |
 | 7. | Ändring av dag för<br>nämndsammanträde i januari<br>2027 | FG-2026-00473 | Nämnden för Förskola & Grundskola beslutar att<br>flytta januarisammanträdet till den 20 januari. |
 | 8. | Utbildning HLR förskola | FG-2026-00500 | Arbetsutskottet föreslår att nämnden för Förskola<br>& Grundskola bifaller initiativet. |
 
@@ -2076,11 +2076,11 @@ Beslutad av:    Nämnden för Förskola och grundskola, § xx 2026-09-xx
 Gäller från:    2026-09-30
 
 Ansvarig förvaltning: Förvaltningen för Förskola och Grundskola
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 47 -->
 
@@ -2290,7 +2290,7 @@ personalresurser och därmed ökade kostnader. De ekonomiska konsekvenserna beh�
 1 (3)
 "[Skriv nämndens namn]"                                   Kungsbacka kommun
 434 81 Kungsbacka
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2380,37 +2380,37 @@ Kungsbacka kommun
 
 www.kungsbacka.se
 
-Från: Lena Garpenlöv \<lena.garpenlov@regeringskansliet.se> För U S
+Från: Lena Garpenlöv \<(e-post borttagen)> För U S
 Skickat: den 20 juli 2026 10:00
-Till: info@almegautbildning.se; info@aneby.se; arbetsmiljoverket \<arbetsmiljoverket@av.se>;
-kommunstyrelsen@arvidsjaur.se; info \<info@barnombudsmannen.se>; bergs.kommun@berg.se;
-bollnas@bollnas.se; kommun@borgholm.se; do \<do@do.se>; info@fagersta.se; kommun@filipstad.se;
-info \<info@folkhalsomyndigheten.se>; info@funktionsratt.se; info@foraldraalliansen.nu;
-registrator@gagnef.se; stadsledningskontoret@stadshuset.goteborg.se; kommun@hagfors.se;
-kommun@hallsberg.se; kommunen@haparanda.se; kommun@harnosand.se; registrator
-\<registrator@hv.se>; info@ideburenskola.se; ifau \<ifau@ifau.uu.se>; registrator
-\<registrator@mrinstitutet.se>; imy \<imy@imy.se>; registrator@jamstalldhetsmyndigheten.se;
-kommun@karlsborg.se; kommun@kiruna.se; knivsta@knivsta.se; Kommun \<kommun@kungsbacka.se>;
-kommun@laxa.se; registrator@lnu.se; info@ljungby.se; kommunstyrelsen@malmo.se;
-registrator@mau.se; registrator \<registrator@miun.se>; kommun@munkfors.se; info \<info@mfd.se>;
-registrator@nacka.se; kontaktcenter@norrtalje.se; kommun@nykoping.se; ks@olofstrom.se;
-regelradet@regelradet.se; justitieombudsmannen@jo.se; kommun@robertsfors.se; sameskolstyrelsen
-\<sameskolstyrelsen@sameskolstyrelsen.se>; info \<info@skolfi.se>; overklagandenamnden
-\<overklagandenamnden@overklagandenamnden.se>; socialstyrelsen
-\<socialstyrelsen@socialstyrelsen.se>; spsm \<spsm@spsm.se>; skolinspektionen
-\<skolinspektionen@skolinspektionen.se>; registrator \<registrator@skolverket.se>;
-kommunstyrelsen@stockholm.se; registrator \<registrator@su.se>; forbundet@kommunal.se;
-registrator@skr.se; remiss@sverigeslarare.se; info@sverigesskolledare.se; info@sefif.se;
+Till: (e-post borttagen); (e-post borttagen); arbetsmiljoverket \<(e-post borttagen)>;
+(e-post borttagen); info \<(e-post borttagen)>; (e-post borttagen);
+(e-post borttagen); (e-post borttagen); do \<(e-post borttagen)>; (e-post borttagen); (e-post borttagen);
+info \<(e-post borttagen)>; (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); registrator
+\<(e-post borttagen)>; (e-post borttagen); ifau \<(e-post borttagen)>; registrator
+\<(e-post borttagen)>; imy \<(e-post borttagen)>; (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); Kommun \<(e-post borttagen)>;
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); registrator \<(e-post borttagen)>; (e-post borttagen); info \<(e-post borttagen)>;
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); sameskolstyrelsen
+\<(e-post borttagen)>; info \<(e-post borttagen)>; overklagandenamnden
+\<(e-post borttagen)>; socialstyrelsen
+\<(e-post borttagen)>; spsm \<(e-post borttagen)>; skolinspektionen
+\<(e-post borttagen)>; registrator \<(e-post borttagen)>;
+(e-post borttagen); registrator \<(e-post borttagen)>; (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
 
 <!-- sida 55 -->
 
-torsby.kommun@torsby.se; tranaskommun@tranas.se; vasterviks.kommun@vastervik.se; U Registrator
-\<u.registrator@regeringskansliet.se>
-Kopia: regeringskansliet@multiplysolutions.se
+(e-post borttagen); (e-post borttagen); (e-post borttagen); U Registrator
+\<(e-post borttagen)>
+Kopia: (e-post borttagen)
 Ämne: Remiss av SOU 2026:37 Förutsättningar för en likvärdig och språkutvecklande förskola - Svar 2/11
 2026
 
-Du får inte ofta e-post från u.s@regeringskansliet.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -2491,8 +2491,8 @@ Remissinstanser
 62\. Västerviks kommun
 
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 2 november 2026. Svaren bör
-lämnas per e-post till u.remissvar@regeringskansliet.se och med kopia till
-u.s.remissvar@regeringskansliet.se. Ange diarienummer U2026/01238 och remissinstansens namn i
+lämnas per e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer U2026/01238 och remissinstansens namn i
 ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex. Word), den andra i ett
@@ -2527,7 +2527,7 @@ Gruppchef, Ämnesråd
 
 Kopia till
 
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 <!-- sida 58 -->
 
@@ -2575,7 +2575,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Drottninggatan 16
-Webb: www.regeringen.se     E-post: u.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 59 -->
 
@@ -2657,9 +2657,9 @@ Webb: www.regeringen.se     E-post: u.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den
 2 november 2026. Svaren bör lämnas per e-post till
-u.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-u.s.remissvar@regeringskansliet.se. Ange diarienummer U2026/01238 och
+(e-post borttagen). Ange diarienummer U2026/01238 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -2707,7 +2707,7 @@ Gruppchef, Ämnesråd
 
 Kopia till
 
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 4 (4)
 
@@ -24215,7 +24215,7 @@ permanent utökning av barnantal på Örtagårdens förskola
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Örtagårdens kooperativa förskola
-ekonomisk förening gällande ansökan om utökning på Örtagårdens förskola, Lars Runebergs gata 78,
+ekonomisk förening gällande ansökan om utökning på Örtagårdens förskola, Lars (adress borttagen),
 437 42 Kungsbacka om permanent utökning till totalt 53 barn.
 
 Sammanfattning av ärendet
@@ -24259,7 +24259,7 @@ KUNGSBACKA  KOMMUN
 Beskrivning av ärendet
 
 Huvudman för Örtagårdens kooperativa förskola ekonomisk förening har ansökt om permanent
-utökning av tidigare beviljad omfattning om 51 barn på Örtagårdens förskola, Lars Runebergs gata 78,
+utökning av tidigare beviljad omfattning om 51 barn på Örtagårdens förskola, Lars (adress borttagen),
 437 42 Kungsbacka.
 
 De har ett beslut från 2025-06-11 som omfattar 51 barn. I sin ansökan önskar huvudmannen nu utöka
@@ -24339,8 +24339,8 @@ Jag vill fylla i företagsuppgifter manuellt.
 Namn på den enhet som tillsynen gäller
 Örtagårdens Kooperativa Förskola
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 1 av 3
 
@@ -24391,8 +24391,8 @@ Antal årsarbetande efter
 1        4          6         3
 utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 2 av 3
 
@@ -24428,8 +24428,8 @@ uto\&#776;kat antal barn.pdf (513 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 3 av 3
 
@@ -24498,7 +24498,7 @@ gällande permanent utökning av barnantal
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Örtagårdens
 kooperativa förskola ekonomisk förening om permanent utökning av barnantalet vid
-Örtagårdens förskola, Lars Runebergs gata 78, 437 42 Kungsbacka, från 51 till totalt
+Örtagårdens förskola, Lars (adress borttagen), 437 42 Kungsbacka, från 51 till totalt
 53 barn.
 
 Sammanfattning av ärendet
@@ -24797,7 +24797,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 580 -->
 

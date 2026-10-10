@@ -529,11 +529,11 @@ Beslutad av:    Kommunfullmäktige 2026-03-03 § 29
 Gäller från:    2026-03-03
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -1512,8 +1512,8 @@ PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
 
 <!-- sida 35 -->
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 36 -->
 
@@ -1570,9 +1570,9 @@ Påbörjad 2020-04-20
 Upprättad 2025-01-22, reviderad 2026-01-27
 Handläggare:
 
-Johanna Vinterhav, planarkitekt, johanna.vinterhav@kungsbacka.se
+Johanna Vinterhav, planarkitekt, (e-post borttagen)
 
-Susanne Calming, exploateringsingenjör, susanne.calming@kungsbacka.se
+Susanne Calming, exploateringsingenjör, (e-post borttagen)
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -5974,7 +5974,7 @@ nybyggnation av villor och radhus placeras postlådan i en lådsamling vid
 infarten till området. I flerfamiljshus ska man ta emot sin post i en fastighetsbox i anslutning till
 entrén. Färdvägen till postanordningen ska vara öppen och farbar året runt för valt fordon, samt ges
 möjlighet att vända.
-Kontakta PostNord i god tid på utdelningsforbattringar@postnord.com för
+Kontakta PostNord i god tid på (e-post borttagen) för
 dialog gällande godkännande av postmottagning i samband med nybyggnation
 
 <!-- sida 142 -->
@@ -6006,7 +6006,7 @@ Diarienummer
 844-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för bostäder  och
 
@@ -6051,7 +6051,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 144 -->
@@ -6081,7 +6081,7 @@ Diarienummer
 844-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för bostäder  och
 
@@ -6126,7 +6126,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 146 -->
@@ -7110,7 +7110,7 @@ Datum            Diarienummer
 2025-02-21       871-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för bostäder  och
 
@@ -7155,7 +7155,7 @@ Utveckling och omvandling av en del av det så kallade
 
 restaurangstråket i Åsa samt en närliggande fastighet.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 168 -->

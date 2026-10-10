@@ -37,8 +37,8 @@ Kungsbackarummet, Storgatan 37
 
 Zhale Rashid                                                 Kungsbacka kommun
 434 81 Kungsbacka
-Direkt 0728899682
-zhale.rashid@kungsbacka.se                                      Besöksadress
+Direkt (mobilnummer borttaget)
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

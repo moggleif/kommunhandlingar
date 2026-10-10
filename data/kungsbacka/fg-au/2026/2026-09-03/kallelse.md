@@ -39,7 +39,7 @@ Sammanträde torsdagen den 3 september 2026 kl. 13:00
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -63,7 +63,7 @@ KUNGSBACKA  KOMMUN
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 5. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>Runebergs gata 78, 437 42 Kungsbacka om<br>permanent utökning till totalt 53 barn. |
+| 5. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>(adress borttagen), 437 42 Kungsbacka om<br>permanent utökning till totalt 53 barn. |
 | 6. | Ändring av dag för<br>nämndsammanträde i januari<br>2027 | FG-2026-00473 | Nämnden för Förskola & Grundskola beslutar att<br>flytta januarisammanträdet till den 20 januari. |
 | 7. | Ansökan om placering av barn i<br>förskola<br>Kl 14:55-15:15<br>Frida Byrsten, verksamhetschef | FG-2026-00452 | Ansökan om placering på Särö förskola för<br>eleverna avslås. |
 | 8. | Riktlinje för profilklasser<br>Kl 15:15-15:35<br>Frida Byrsten, verksamhetschef<br>Margaretha Ljungqvist, utredare | FG-2026-00468 | Nämnden för Förskola och Grundskola antar<br>Riktlinje för profilklasser, 2026-08-20. |

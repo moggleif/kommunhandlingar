@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -86,11 +86,11 @@ Förskola & Grundskola                                        Kungsbacka kommun
 Vanja Winroth                                                 434 81 Kungsbacka
 Direkt 0300-83 42 47
 Besöksadress
-vanja.winroth@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 62-20-3102
 ,0.2v
@@ -388,7 +388,7 @@ psykiska    hälsa   med    fysisk  aktivitet.
 
 \-  Underlag ansökan ”Samverkan för ökad rörelse” 2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -890,7 +890,7 @@ Redovisning                   av     tillsyn        2023
 
 samt        planerad              tillsyn        2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 29 -->
 
@@ -1411,7 +1411,7 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 42 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 4 oktober 2023 11:19
 Till:           Förskola Grundskola; Gymnasium & Arbetsmarknad
 Ämne:           Beredning av motion - Projekt med elevresor till Förintelsens minnesplatser
@@ -1453,7 +1453,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 43 -->
 
@@ -3582,7 +3582,7 @@ eller sexuella trakasserier på sätt som avses i diskrimineringslagen (2008:567
 För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade med en skolenhet eller förskoleenhet gäller första och andra
 styckena för den personal som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 98 -->
 

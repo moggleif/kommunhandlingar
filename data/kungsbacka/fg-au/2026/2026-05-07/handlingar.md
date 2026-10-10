@@ -185,7 +185,7 @@ Frida Byrsten, verksamhetschef
 9\. | Ansökan från Särö pastorat FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner
 gällande permanent utökning av ansökan från Särö pastorat gällande ansökan om
 barnantal på förskolan utökning på förskolan Prästkragen, Östra
-Prästkragen Särövägen 339, 429 44 Särö om permanent
+Prästkragen (adress borttagen), 429 44 Särö om permanent
 
 utökning till totalt 20 barn.
 
@@ -4976,7 +4976,7 @@ Prästkragen
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Särö pastorat gällande ansökan om
-utökning på förskolan Prästkragen, Östra Särövägen 339, 429 44 Särö om permanent utökning till
+utökning på förskolan Prästkragen, Östra (adress borttagen), 429 44 Särö om permanent utökning till
 totalt 20 barn.
 
 Sammanfattning av ärendet
@@ -5026,7 +5026,7 @@ KUNGSBACKA KOMMUN
 Beskrivning av ärendet
 
 Huvudman för Särö pastorat har ansökt om permanent utökning av tidigare beviljad omfattning
-gällande 16 till 20 barn på förskolan Prästkragen, Östra Särövägen 339, 429 44 Särö.
+gällande 16 till 20 barn på förskolan Prästkragen, Östra (adress borttagen), 429 44 Särö.
 
 De har ett beslut gällande ansökan om bidrag för förskoleverksamhet som omfattar 15—16 barn. I sin
 ansökan önskar huvudmannen nu utöka verksamheten med ytterligare fyra barn till totalt 20 barn.
@@ -5108,7 +5108,7 @@ Jag vill fylla i företagsuppgifter manuellt.
 Namn på den enhet som tillsynen gäller
 Förskolan Prästkragen
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4269022 | Inskickat av: ANNA EVA KRISTINA CLINGSTON | Datum: 2026-03-18 11:59 Sida 1av3
@@ -5159,7 +5159,7 @@ Antal årsarbetande efter 1 3 1 0
 
 utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4269022 | Inskickat av: ANNA EVA KRISTINA CLINGSTON | Datum: 2026-03-18 11:59 Sida2 av3
@@ -5195,7 +5195,7 @@ Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4269022 | Inskickat av: ANNA EVA KRISTINA CLINGSTON | Datum: 2026-03-18 11:59 Sida 3 av3
@@ -5345,7 +5345,7 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4273146 | Inskickat av: GUSTAF RÖNNEKLEV | Datum: 2026-04-16 13:23 Sida 1 av3
@@ -5392,7 +5392,7 @@ Ange godkänt antal platser idag Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 184 600
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4273146 | Inskickat av: GUSTAF RÖNNEKLEV | Datum: 2026-04-16 13:23 Sida 2 av 3
@@ -5437,7 +5437,7 @@ HH: Analys av barnkonsevensanalys för 22 barn.docx (327 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4273146 | Inskickat av: GUSTAF RÖNNEKLEV | Datum: 2026-04-16 13:23 Sida 3 av 3

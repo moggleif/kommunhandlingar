@@ -931,8 +931,8 @@ Detaljplanen upprättas med standardförfarande i enlighet med plan- och
 bygglagen 2010:900.
 Handläggare
 
-Maria Malone, Planarkitekt 0300-83 40 41, maria.malone@kungsbacka.se
-Foresa Bytyqi, Exploateringsingenjör 0300-83 42 28, fortesa.bytyqi@kungsbacka.se
+Maria Malone, Planarkitekt 0300-83 40 41, (e-post borttagen)
+Foresa Bytyqi, Exploateringsingenjör 0300-83 42 28, (e-post borttagen)
 Handlingar:
 • Planbeskrivning, denna handling
 • Plankarta med planbestämmelser
@@ -3183,7 +3183,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 78 -->
@@ -4816,7 +4816,7 @@ Datum            Diarienummer
 2023-05-04       2298-2023
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Förslag till detaljplan för bostäder med mera i Tölö ängar
 syd i Kungsbacka  kommun
@@ -4861,7 +4861,7 @@ cirkulationsplats är samtliga modellerade ämnen (mängder och halter)
 under riktvärden i dagvattenanvisningar för Falkenbergs och Varbergs
 kommuner”. I tabell 20 på sidan 52 anges dock att kadmium överskrider
 
-Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 107 -->
@@ -5120,7 +5120,7 @@ Josefine Carlsson som föredragande.
 
 Kopia till:
 
-SGI, sgi@sgi.se
+SGI, (e-post borttagen)
 
 <!-- sida 112 -->
 
@@ -5130,7 +5130,7 @@ Datum            Diarienummer
 2023-05-04       2298-2023
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Förslag till detaljplan för bostäder med mera i Tölö ängar
 syd i Kungsbacka  kommun
@@ -5175,7 +5175,7 @@ cirkulationsplats är samtliga modellerade ämnen (mängder och halter)
 under riktvärden i dagvattenanvisningar för Falkenbergs och Varbergs
 kommuner”. I tabell 20 på sidan 52 anges dock att kadmium överskrider
 
-Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 113 -->
@@ -5434,4 +5434,4 @@ Josefine Carlsson som föredragande.
 
 Kopia till:
 
-SGI, sgi@sgi.se
+SGI, (e-post borttagen)

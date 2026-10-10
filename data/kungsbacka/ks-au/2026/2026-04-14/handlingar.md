@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                           Kungsbacka kommun
 Kommunstyrelsens förvaltning                              434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -7520,7 +7520,7 @@ FÖRVALTNINGSRÄTTENS AVGÖRANDE
 Förvaltningsrätten avslår överklagandet.
 Avgörandet är elektroniskt undertecknat
 Besöksadress   Öppettider Postadress     E-post
-Sten Sturegatan 14 måndag–fredag Box 53197 forvaltningsrattenigoteborg@dom.se
+Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 08:00–16:00 400 15 Göteborg
 Telefon                                  Webbplats
 031 - 732 70 00                          www.forvaltningsrattenigoteborg.domstol.se
@@ -7833,7 +7833,7 @@ FÖRVALTNINGSRÄTTEN
 I GÖTEBORG
 Kungsbacka kommun
 INKOM: 2025-08-06
-info@kungsbacka.se
+(e-post borttagen)
 MÅLNR: 9454-25
 AKTBIL: 3
 Upphävande    av lokal ordningsföreskrift
@@ -7875,7 +7875,7 @@ Det är förbjudet att på offentlig plats, i tätorterna Kungsbacka stad,
 Vallda, Kullavik/Särö, Onsala, Anneberg, Fjärås/Hjälm, Åsa och
 Frillesås, använda lustgas i berusningssyfte.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 Page 1 of 15
@@ -8141,9 +8141,9 @@ skrifter.
 
 Kopia
 
-(cid:3) Polismyndigheten, registrator.vast@polisen.se
+(cid:3) Polismyndigheten, (e-post borttagen)
 
-(cid:3) Patrik Johansson, patrik.johansson2@kungsbacka.se
+(cid:3) Patrik Johansson, (e-post borttagen)
 
 Bilaga
 Bilaga 6 till Kungsbacka kommuns ordningsföreskrifter (upphävs
@@ -8165,7 +8165,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -8202,7 +8202,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 Behöver ni veta mer?
 
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 5072-2025.
 
 Page 7 of 15

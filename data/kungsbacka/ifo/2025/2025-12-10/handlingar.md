@@ -66,7 +66,7 @@ samt att dessa genomförs
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -139,7 +139,7 @@ med köpta platser har lyfts in i den riskanalys som ligger till grund för näm
 
 1 (3)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
-individochfamiljeomsorg@kungsbacka.se                      434 81 Kungsbacka
+(e-post borttagen)                      434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -259,7 +259,7 @@ sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
 
-kommunrevision@kungsbacka.se senast den 28 november 2025.
+(e-post borttagen) senast den 28 november 2025.
 
 För revisorerna i Kungsbacka kommun
 
@@ -335,7 +335,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 7 -->
@@ -1265,7 +1265,7 @@ Beslutsunderlag
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-11-25
 
 Beslutet skickas till
-Samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Märta Lycken                       Kamilla Julin
 
@@ -1284,8 +1284,8 @@ www.kungsbacka.se
 
 Välkommen          med     dina    synpunkter!
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 30 -->
 
@@ -1342,7 +1342,7 @@ Beslutsunderlag
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-12-02
 
 Beslutet skickas till
-Samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 1 (2)
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
@@ -1376,7 +1376,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 22 december 2025 vill vi ha d
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -1651,11 +1651,11 @@ Kontaktuppgifter              Här finns planförslaget!
 
 Kontakta gärna:                www.kungsbacka.se/
 Maria Malone, planarkitekt     aktuellaprojekt
-maria.malone@kungsbacka.se     (Alla planhandlingar
+(e-post borttagen)     (Alla planhandlingar
 0300 83 40 41                  inklusive utredningar)
 Scanna QR-koden
 Fortesa Bytyqi, exploateringsingenjör Stadshoucseht slä esn mtrée,r på
-fortesa.bytyqi@kungsbacka.se   Kungpsrboajcekkate ts websida!
+(e-post borttagen)   Kungpsrboajcekkate ts websida!
 0300 83 42 28                  (Planhandlingar)
 
 2 (2)
@@ -2979,7 +2979,7 @@ Tt Förvaltningschef                Enhetschef Kansli & stöd
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3662,7 +3662,7 @@ om  de politiska mål som ligger till grund för vår verksamhet.
 Kontaktuppgifter:
 
 Märta Lycken                   Kamilla Julin                 Karin Nielsen
-märta.lycken@kungsbacka.se     kamilla.julin@kungsbacka.se   karin.nielsen@kungsbacka.se
+(e-post borttagen)     (e-post borttagen)   (e-post borttagen)
 0300-83 74 59                  0300-83 75 45
 0300-83 51 63
 
@@ -3710,7 +3710,7 @@ Tf Förvaltningschef                Enhetschef Kansli & stöd
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

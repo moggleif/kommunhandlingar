@@ -444,7 +444,7 @@ KartbEarbEtning:
 Erica Folkesson
 
 inFOrmatiOn Om KaraKtär KungsbacKa
-kan fås via plan.bygg@kungsbacka.se
+kan fås via (e-post borttagen)
 
 trycK:
 
@@ -5439,7 +5439,7 @@ kan förvalta och utveckla dessa när staden växer och förändras. !
 !
 !
 ! !      Kungsbacka kommun • Plan & Bygg • 434 81 Kungsbacka • 0300-83 40 00
-! !               plan.bygg@kungsbacka.se • www.kungsbacka.se ! ! ! !
+! !               (e-post borttagen) • www.kungsbacka.se ! ! ! !
 ! !
 ! 84 ! !
 ! !

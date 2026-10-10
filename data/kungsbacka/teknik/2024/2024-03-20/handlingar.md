@@ -73,7 +73,7 @@ investeringskostnaden högre.
 434 81 Kungsbacka
 Joakim Ekberg
 «AnvTelnr»                                                    Besöksadress
-joakim.ekberg@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 0300-83 50 24                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -428,10 +428,10 @@ Beslutad av:   Kommunfullmäktige …., KS ….      www.kungsbacka.se
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -1543,7 +1543,7 @@ Gäller från:    2024-03-05
 Ansvarig enhet: Kund & Kommunikation
 Uppdaterad:     2024-03-01
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 54 -->
 
@@ -2013,7 +2013,7 @@ och
 Kungsbacka kommun, genom nämnden för Teknik, nedan benämnd Kungsbacka
 
 Organisationsnummer: 212000–1256
-Storgatan 37, 434 32 Kungsbacka
+(adress borttagen), 434 32 Kungsbacka
 
 2\. Bakgrund, mål och syfte
 

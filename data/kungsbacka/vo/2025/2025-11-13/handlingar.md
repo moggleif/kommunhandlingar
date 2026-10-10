@@ -103,11 +103,11 @@ Beslutad av:    Nämnden för Vård & Omsorg
 Gäller från:    2025-11-13
 
 Ansvarig förvaltning: Vård och Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -541,7 +541,7 @@ Förvaltningschef                   Biträdande Förvaltningschef
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Bitr Förvaltningschef                                    Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1891,7 +1891,7 @@ Missiv Förlängning av Överenskommelse om Trygg och effektiv utskrivning från
 sjukvård i Halland 2025, 2025-10-20
 
 Beslutet skickas till
-Regionstyrelsen, regionen@regionhalland.se
+Regionstyrelsen, (e-post borttagen)
 
 Arian Faily                   Ann-Helen Svensson
 
@@ -1911,9 +1911,9 @@ www.kungsbacka.se
 1 (2)
 
 Regionkontoret                        Missiv
-Södra vägen 9
+(adress borttagen)
 302 38 Halmstad                       Datum     Diarienummer
-regionen@regionhalland.se             2025-10-17 RS240957
+(e-post borttagen)             2025-10-17 RS240957
 
 Förlängning  av överenskommelse     trygg och  effektiv
 
@@ -1931,7 +1931,7 @@ parter och skickas här ut för liktydande beslut hos samtliga huvudmän.
 Region Halland ämnar ta beslut om förlängning på Regionfullmäktiges sammanträde
 den 3 december 2025.
 
-Efter att beslut tagits i er kommun, expediera beslutet till regionen@regionhalland.se
+Efter att beslut tagits i er kommun, expediera beslutet till (e-post borttagen)
 
 Bilagor
 
@@ -2840,11 +2840,11 @@ Beslutad av:    Nämnden för Vård & Omsorg, 2025-11-13, §
 Gäller från:    2025-11-13
 
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 75 -->
 

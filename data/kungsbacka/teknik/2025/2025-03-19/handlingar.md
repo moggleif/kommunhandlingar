@@ -1053,7 +1053,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 35 -->
 
@@ -1218,8 +1218,8 @@ E-post: li.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 10 maj 2025. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.spn@regeringskansliet.se. Ange diarienummer LI2025/00306 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2025/00306 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -1266,7 +1266,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -23054,7 +23054,7 @@ Avgift för områdessamverkan - och andra åtgärder för trygghet i byggd milj�
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Helen Svenstam
-0730613860                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Landskapsarkitekt                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

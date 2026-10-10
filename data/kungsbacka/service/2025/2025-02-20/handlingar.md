@@ -4045,7 +4045,7 @@ Datum
 2024-12-09
 
 Nämnden för Service
-service@kungsbacka.se
+(e-post borttagen)
 
 Dataskyddsombudets         rapport
 
@@ -4076,7 +4076,7 @@ I separat bilaga (A) till denna rapport framgår bedömningen för de punkter d�
 förslag till åtgärd. På de punkter där det inte framkommit avvikelse, följer i förekommande fall en
 kommentar.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 82 -->
 
@@ -4171,7 +4171,7 @@ Datum
 2024-12-09
 
 Nämnden för Service
-service@kungsbacka.se
+(e-post borttagen)
 
 Bilaga  A: Bedömningar
 
@@ -4205,7 +4205,7 @@ behandling av personuppgifter och om det fria flödet av sådana uppgifter och o
 dataskyddsförordning/GDPR).
 3 Inbegripet aktiv behörighetstilldelning, tillräcklig identitetskontroll samt regelbunden kontroll av åtkomst.
 4 Artikel 25.2, 32.1 (b)
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
@@ -5044,7 +5044,7 @@ handhavandefel och dels att synpunkten kom in till en annan förvaltning först 
 fick den. Om en synpunkt kommer in anonymt kan vi inte besvara den, men vi lägger alltid in ett svar i ärendet
 så att det kan följas upp vid behov.
 Utöver siffrorna i tabellen så har 11 synpunkter kommit till Service registrator via kommunens mejl
-info@kungsbacka.se och service@kungsbacka.se. Dessa hanteras som övriga synpunkter och diarieförs i
+(e-post borttagen) och (e-post borttagen). Dessa hanteras som övriga synpunkter och diarieförs i
 kommunens diarium. Av dessa har fem gått till Måltider, fyra till Fastigheter och två till Lokalförsörjning.
 
 Frågor och felanmälningar kommer in via e-tjänsten på Kungsbacka.se "Felanmäla eller ställa en fråga till
@@ -5427,7 +5427,7 @@ föra beslutade åtgärder med anledning av de rekommendationer som redovi-
 sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
-kommunrevision@kungsbacka.se senast den 13 mars.
+(e-post borttagen) senast den 13 mars.
 
 För revisorerna i Kungsbacka kommun
 
@@ -5502,7 +5502,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 117 -->

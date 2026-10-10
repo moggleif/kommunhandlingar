@@ -40,7 +40,7 @@ Paus 18.20-18.40
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -910,7 +910,7 @@ tjänstministern och inte minst Arbetsförmedlingens
 IT-skandal samt mycket mer.
 Trevlig läsning!’
 Björn       Elmqvist
-bjorn@werket.nu | 070-888 26 01
+(e-post borttagen) | (mobilnummer borttaget)
 2
 
 <!-- sida 26 -->

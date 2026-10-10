@@ -76,8 +76,8 @@ på miljöområdet ställer ökade krav på att administrativa sanktioner ska ku
 anpassas efter omständigheterna i det enskilda fallet, exempelvis överträdelsens
 allvar, varaktighet och konsekvenser samt den ansvariges ekonomiska förhållanden.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -211,8 +211,8 @@ omständigheterna i det enskilda fallet är begränsat. Bakgrunden till den för
 reformen är bland annat att nya EU-rättsakter på miljöområdet ställer mer
 långtgående krav på att administrativa sanktioner ska kunna anpassas efter
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 5 -->
 
@@ -379,8 +379,8 @@ delar av industriutsläppsdirektivet har genomförts i svensk rätt. Promemorian
 innehåller därför ett antal kompletteringar och förtydliganden av den svenska
 regleringen.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -521,8 +521,8 @@ bedömningar är korrekta.
 Promemorian innehåller också förändringar av tillsynsregleringen. bland annat
 föreslås tydligare krav på när icke-rutinmässig tillsyn ska genomföras och vad den
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -893,11 +893,11 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2026-XX-XX, diarienummer
 Giltig från:    2026-XX-XX
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 20 -->
 
@@ -1097,7 +1097,7 @@ Kungsbacka kommun   Delegering av beslutanderätt Nämnden för Miljö & Hälsos
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
@@ -1860,7 +1860,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd 2025-06-05 § 79
 Gäller från:    2025-06-05
 Ansvarig förvaltning: Bygg-och miljöförvaltningen
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 

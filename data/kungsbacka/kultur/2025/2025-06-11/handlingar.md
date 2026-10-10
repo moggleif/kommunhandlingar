@@ -37,7 +37,7 @@ Sammanträde Onsdagen den 11 juni 2025 kl. 17 på Lerkils IF.
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -235,7 +235,7 @@ Förvaltningschef
 1 (1)
 Förvaltningen för Kultur & Fritid                         Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -290,7 +290,7 @@ med strandpromenad. Fastighetsägaren bad också om att få tillstånd för att 
 
 Stina Wikström                                               Kungsbacka kommun
 Samhällsbyggnadskontoret                                      434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se                           Besöksadress
+(e-post borttagen)                           Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1585,7 +1585,7 @@ Samhällsbyggnadskontoret                                  Kungsbacka kommun
 434 81 Kungsbacka
 Stina Wikström
 Planarkitekt                                                  Besöksadress
-stina.wikstrom@kungsbacka.se                             Stadshuset, Storgatan 37
+(e-post borttagen)                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -2215,7 +2215,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 17 juni 2025 vill vi ha dina
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -2389,7 +2389,7 @@ under samråd eller granskning.
 Kontaktuppgifter
 Stina Wikström, planarkitekt Anna Wibling, exploateringsingenjör
 2 (2)
-stina.wikstrom@kungsbacka.se anna.wibling@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 
 <!-- sida 52 -->
 
@@ -2494,7 +2494,7 @@ Kungsbacka kommun
 1 (2)
 Nämnden för Kultur & Fritid                               Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3566,7 +3566,7 @@ DNKS240478
 
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 79 -->

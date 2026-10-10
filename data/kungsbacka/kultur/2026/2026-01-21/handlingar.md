@@ -552,9 +552,9 @@ Rev 2023-11-29
 Rev. 2024-12-05
 2025-11-24
 Initiativtagare
-NSamn och enheto fia Rosén, verksamhetschef Es-postadress ofia.rosen@kungsbacka.se A0rbetstelefon 300-83 81 35
+NSamn och enheto fia Rosén, verksamhetschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 81 35
 Kontaktperson för behovsbeskrivningen
-NSamn och enhet usan Pour, bibliotekschef Es-postadress usan.pour@kungsbacka.se A0rbetstelefon 300-83 41 94
+NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -605,7 +605,7 @@ bestånd/medier för de som väntar och längtar men inte kan ta sig till biblio
 B
 Ekonomi
 U
-K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i nfo@kungsbacka.se
+K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 
 <!-- sida 16 -->
@@ -652,10 +652,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén              sofia.rosen@kungsbacka.se  0300-83 81 35
+Sofia Rosén              (e-post borttagen)  0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall            peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall            (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR  BEHÖVER NÅGOT  GÖRAS?
 
@@ -719,7 +719,7 @@ p te a r r a k en ti v m it e e r t : i n G k e l s u t d a e lt r n a i n n d g
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -816,10 +816,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén, Vch Kultur & demokrati sofia.rosen@kungsbacka.se 0300-83 81 35
+Sofia Rosén, Vch Kultur & demokrati (e-post borttagen) 0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall, Ec Kultur & besöksmål peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall, Ec Kultur & besöksmål (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -861,7 +861,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -937,10 +937,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck KFT       Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck KFT       (e-post borttagen) 0300 – 834662
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck           (e-post borttagen) 0300 – 834662
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Kultur & Fritid byter årligen ut konstgräsmattor på våra konstgräsplaner.
@@ -1005,7 +1005,7 @@ e r kronor år 2027, Bukärrs IP.
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1044,7 +1044,7 @@ Kultur & Fritid
 
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
-Jessica wibeck                   jessica.wibeck@kungsbacka.se 0300-83 46 62
+Jessica wibeck                   (e-post borttagen) 0300-83 46 62
 
 VARFÖR  BEHÖVER NÅGOT  GÖRAS?
 Med den expansion som Kungsbacka kommun står inför de närmaste åren så ställer det krav på att
@@ -1160,10 +1160,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Vår äldre friidrottsanläggning som byggdes 1936 har idag utmaningar när det gäller säkerhet
@@ -1680,7 +1680,7 @@ andra statliga åtaganden.
 1 (2)
 "[Skriv nämndens namn]"                                   Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 020-751 751
 www.kungsbacka.se
@@ -253,7 +253,7 @@ risken för oklar ansvarsfördelning och tolkningskonflikter när flera olika kr
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -715,7 +715,7 @@ prövningskedjan.
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -927,7 +927,7 @@ betydande miljöpåverkan, inte hanteras effektivt utan kommunens direkta insyn 
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1600,7 +1600,7 @@ kommunerna att omhänderta kvotflyktingar och behöver därmed längre förbered
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1682,7 +1682,7 @@ det gäller att planera för bostad och skolgång. Det behöver finnas en längr
 1 (2)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2015,7 +2015,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4052,7 +4052,7 @@ närhet till Åsa station i Kungsbacka kommun.
 
 <!-- sida 95 -->
 
-Telefon: Varberg direkt: 0340-880 00. E-post: varbergdirekt@varberg.se. Webbplats: varberg.se
+Telefon: Varberg direkt: 0340-880 00. E-post: (e-post borttagen). Webbplats: varberg.se
 
 Planbes P k o riv s n ta in d g r e | V s a s r : b V er a g r s b k e o r m gs m u k n o mmun, 432 80 Varberg. Besöksadress: Varberg direkt, Norra Vallgatan 14 47
 
@@ -4263,7 +4263,7 @@ Skala: 1:1 000 (vid A4 stående)
 <!-- sida 101 -->
 
 Förvaltningen för Service
-Storgatan 37
+(adress borttagen)
 434 81 Kungsbacka                                 Datum: 2025-04-11
 
 Beslut  om   förhandsbesked       för ändrad   användning     av
@@ -4308,7 +4308,7 @@ utan erinran återanvänds till denna ansökan.
 Ansökan gäller förhandsbesked för ändrad användning av flerbostadshus till tvåbostadshus.
 Fastigheten omfattas inte av detaljplan eller områdesbestämmelser.
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 102 -->
 
@@ -4374,7 +4374,7 @@ tid skickar Byggnadsnämnden den vidare till Länsstyrelsen i Hallands län, som
 vilket beslut som överklagas, varför du anser att beslutet är felaktigt och hur du vill att det ska
 ändras. Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska du bifoga dem. Skicka gärna
-överklagandet per e-post till info@kungsbacka.se.
+överklagandet per e-post till (e-post borttagen).
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post. Då behöver du
 lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka kommun, Bygg- och
@@ -4420,10 +4420,10 @@ Med vänlig hälsning
 Emelie Arnell
 
 Direkt +46300837959
-emelie.arnell@kungsbacka.se
+(e-post borttagen)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 11-40-5202
 –
 497000-5202
@@ -4443,7 +4443,7 @@ Kungsbacka kommun
 1 (2)
 Datum                                Bygglovsavdelningen
 2024-06-20
-byggochmiljo.bygglovadmin@kungsbacka.se
+(e-post borttagen)
 Diarienummer
 2024/2997-2
 Ärendetyp
@@ -4473,11 +4473,11 @@ Miljö- och hälsoskyddsinspektör
 
 Bygg- och miljöförvaltningen                            Kungsbacka kommun
 Sofie Lindblom                                           434 81 Kungsbacka
-sofie.lindblom@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 11-40-5202
 –
@@ -4509,12 +4509,12 @@ Avfallshandläggare
 Teknik
 
 Svar skickas till Bygg- och miljöförvaltningen
-byggochmiljo.bygglovadmin@kungsbacka.se
+(e-post borttagen)
 
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4549,8 +4549,8 @@ BN 2025-000562 - sista datum för att lämna synpunkter är 2025-04-10
 
 2\. Handlingar
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #197847 | Inskickat av: | Datum: 2025-04-06 10:03 Sida 1 av 2
 11-40-5202
@@ -4599,8 +4599,8 @@ två bostäder för verksamhetsklass Vk3A har jag inga synpunkter eller invändn
 formuleringar i ansökan kan tolkas som att befintlig byggnad ska ersättas och/eller nya
 byggnader ska uppföras på fastigheten, därav detta förtydligande.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #197847 | Inskickat av: | Datum: 2025-04-06 10:03 Sida 2 av 2
 
@@ -4629,7 +4629,7 @@ Skala: 1:400 (vid A4 stående)
 <!-- sida 112 -->
 
 Förvaltningen för Service
-Storgatan 37
+(adress borttagen)
 434 81 Kungsbacka                                 Datum: 2025-04-23
 
 Beslut  om   strandskyddsdispens        för ändrad
@@ -4674,7 +4674,7 @@ För att utföra ett planerat arbete som beviljats strandskyddsdispens ska man h
 
 vattenägarens tillstånd. Prövningen av strandskyddsdispens görs endast mot allmänna
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 113 -->
 
@@ -4814,7 +4814,7 @@ tid skickar Byggnadsnämnden den vidare till Länsstyrelsen i Hallands län, som
 vilket beslut som överklagas, varför du anser att beslutet är felaktigt och hur du vill att det ska
 ändras. Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska du bifoga dem. Skicka gärna
-överklagandet per e-post till info@kungsbacka.se.
+överklagandet per e-post till (e-post borttagen).
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post. Då behöver du
 lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka kommun, Bygg- och
@@ -4843,7 +4843,7 @@ Bilaga – Tomtavgränsning
 Flygfotografi över fastigheten, daterat 2023-04-01. Marken innan för staket är ianspråktagen.
 Staketet är markerat med en pilar i bilden ovan.
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 32-40-5202
 –
 758000-5202
@@ -6376,7 +6376,7 @@ Datum            Diarienummer
 2025-02-26       1641-2025
 
 Kungsbacka kommun
-ulrika.pettersson2@kungsbacka.se
+(e-post borttagen)
 
 Delbeslut  med  villkor för utbetalning  av medel   för
 
@@ -6417,7 +6417,7 @@ handläggare.
 Länsstyrelsen vill påminna om att kommunen behöver besluta om
 att den tar på sig huvudmannaskapet i aktuellt skede.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 159 -->
@@ -6517,7 +6517,7 @@ namnunderskrifter.
 
 Kopia till
 
-info@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 161 -->
 
@@ -6573,7 +6573,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 162 -->

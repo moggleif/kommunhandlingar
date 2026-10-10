@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -288,8 +288,8 @@ Nämnden för Förskola och Grundskola anser att det överklagade beslutet om at
 avslå initiativärendet har tillkommit på lagligt sätt och inte strider mot någon lag eller
 annan författning.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -334,7 +334,7 @@ lämna in handlingar digitalt.
 
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
-gärna vid frågor – ni når oss via e-post forvaltningsrattenigoteborg@dom.se eller per telefon
+gärna vid frågor – ni når oss via e-post (e-post borttagen) eller per telefon
 031-732 70 00.
 
 Linda Blackedal
@@ -349,7 +349,7 @@ Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. 
 5
 0 4    Besöksadress    Öppettider  Postadress     E-post
 0
-1      Sten Sturegatan 14 måndag–fredag Box 53197 forvaltningsrattenigoteborg@dom.se
+1      Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 d
 I                      08:00–16:00 400 15 Göteborg
 k.     Telefon                                    Webbplats
@@ -791,7 +791,7 @@ Kontakta oss
 Kontaktformulär SKR
 Sveriges Kommuner och Regioner Kontakta SKR
 SKR är en medlems- och arbetsgivarorganisation för landets alla Adress och övrig kontaktinformation
-k st o y m re m ls u e n b e e r s o tå c r h a r v e f g ö io rt n r e o r e . n V d i e ä v r a e ld n a p f o r l å it n is k k o t m st m yrd un o e r r g a o n ch is a re ti g o i n o n o e c r h . vår 08-45277000000 info@skr.se
+k st o y m re m ls u e n b e e r s o tå c r h a r v e f g ö io rt n r e o r e . n V d i e ä v r a e ld n a p f o r l å it n is k k o t m st m yrd un o e r r g a o n ch is a re ti g o i n o n o e c r h . vår 08-45277000000 (e-post borttagen)
 Evenemang Rapporter och skrifter Cirkulär Handlingar och beslut
 Press Statistik Lärande exempel Bloggar
 Om SKR   Kommuner och regioner Hjälp
@@ -1977,7 +1977,7 @@ Kontakta oss
 Kontaktformulär SKR
 Sveriges Kommuner och Regioner Kontakta SKR
 SKR är en medlems- och arbetsgivarorganisation för landets alla Adress och övrig kontaktinformation
-kommuner och regioner. Vi är en politiskt styrd organisation och vår 08-45277000000 info@skr.se
+kommuner och regioner. Vi är en politiskt styrd organisation och vår 08-45277000000 (e-post borttagen)
 styrelse består av förtroendevalda från kommuner och regioner.
 Evenemang  Rapporter och skrifter Cirkulär Handlingar och beslut
 Press      Statistik  Lärande exempel Bloggar
@@ -2619,15 +2619,15 @@ Personal som elever och föräldrar kan vända sig till
 Elever och föräldrar kan alltid vända sig till klassens mentor vid frågor och funderingar, annars
 finns:
 
-Rektor Kristofer Skogholm, F-3 0300- 835585 kristofer.skogholm@kungsbacka.se
-Rektor Camilla Lindgren, 4-6 0300-835552   camilla.lindgren@kungsbacka.se
+Rektor Kristofer Skogholm, F-3 0300- 835585 (e-post borttagen)
+Rektor Camilla Lindgren, 4-6 0300-835552   (e-post borttagen)
 
-Kurator                0300-835562          linda.skantorp@kungsbacka.se
+Kurator                0300-835562          (e-post borttagen)
 (ansvarig trygghetsteam)
 
-Skolsköterska Pia Backström Rignell 0300-835560 pia.backstrom@kungsbacka.se
+Skolsköterska Pia Backström Rignell 0300-835560 (e-post borttagen)
 
-Skolpsykolog Maria Larsson 0300-835742      maria.larsson@kungsback.se
+Skolpsykolog Maria Larsson 0300-835742      (e-post borttagen)
 
 13
 
@@ -2694,7 +2694,7 @@ Minskning av PREST i åk 1 och åk 2
 
 Kungsbacka kommun
 Serviceområde Personal
-Stadshuset, Storgatan 37
+Stadshuset, (adress borttagen)
 434 81 Kungsbacka
 
 <!-- sida 58 -->
@@ -3063,11 +3063,11 @@ Beslutad av:    Nämnden för Förskola & grundskola, 2024-08- 21 § x
 Gäller från:    2024-08-28
 Ansvarig förvaltning: Förvaltningen för Förskola & Grundskola
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 71 -->
 
@@ -3612,11 +3612,11 @@ Beslutad av:    Nämnden för Förskola & Grundskola § xx, 2024-08-21
 Gäller från:    2024-08-28
 
 Ansvarig förvaltning: Förvaltningen för Förskola & Grundskola
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -4537,7 +4537,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
@@ -4834,7 +4834,7 @@ Utvecklingsledare
 
 Direkt 0300-834159
 
-Mobil 0705 094409
+Mobil (mobilnummer borttaget)
 margareta.trygg-
 gustafson(Qkungsbacka.se
 
@@ -4941,7 +4941,7 @@ Datum
 2024-05-13
 Avdelning Stab och Konferens
 Therese Tanner,                     Diarienummer
-therese.tanner@goteborgsregionen.se GRFS-2024-00102
+(e-post borttagen) GRFS-2024-00102
 Förbundsstyrelsen
 
 Upphävande     av  beslut  om  skolkort  för
@@ -5060,28 +5060,28 @@ Utvecklingsledare
 Kungsbacka kommun
 Gymnasium och Arbetsmarknad
 0300-83 41 66
-karin.moglebust@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Kommun \<kommun@kungsbacka.se>
+Från: Kommun \<(e-post borttagen)>
 Skickat: den 30 maj 2024 10:00
-Till: Gymnasium & Arbetsmarknad \<gymnasiumocharbetsmarknad@kungsbacka.se>
+Till: Gymnasium & Arbetsmarknad \<(e-post borttagen)>
 Ämne: VB: Expediering av förbundsstyrelsens beslut- Upphävande av beslut om skolkort för elever vid
 Svenska Balettskolan boende i Göteborgsregionens kommuner
 
-Från: therese.tanner@goteborgsregionen.se \<therese.tanner@goteborgsregionen.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 30 maj 2024 08:56
-Till: kommun@ale.se; Kommun@Harryda.se; Kommun \<kommun@kungsbacka.se>; kommun@lerum.se;
-kommun@ockero.se; kommun@stenungsund.se; kommun@tjorn.se; kommunen@lillaedet.se;
-kommunstyrelsen@alingsas.se; kundcenter@partille.se; stad@molndal.se; registrator@kungalv.se;
-stadsledningskontoret@stadshuset.goteborg.se
+Till: (e-post borttagen); (e-post borttagen); Kommun \<(e-post borttagen)>; (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen)
 Ämne: Expediering av förbundsstyrelsens beslut- Upphävande av beslut om skolkort för elever vid
 Svenska Balettskolan boende i Göteborgsregionens kommuner
 
-Du får inte e-post ofta från therese.tanner@goteborgsregionen.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 

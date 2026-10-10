@@ -148,7 +148,7 @@ hantera mer administration. Detta är dock genomförbart med befintliga resurser
 1 (2)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -204,7 +204,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 6 -->
@@ -10637,7 +10637,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
-E-post: kn.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 212 -->
 
@@ -10799,9 +10799,9 @@ E-post: kn.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet
 senast den 14 februari 2025. Svaren bör lämnas per e-post till
-kn.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-sigrid.persson@regeringskansliet.se. Ange diarienummer KN2024/01891
+(e-post borttagen). Ange diarienummer KN2024/01891
 och remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.

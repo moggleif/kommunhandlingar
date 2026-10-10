@@ -38,7 +38,7 @@ Gåsevadholm, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -2394,7 +2394,7 @@ utrymme och plats för olika konstuttryck. Att skapa omsorgsfullt gestaltade boe
 1 (2)
 Nämnden för Kultur & Fritid                               Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2497,11 +2497,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 71 -->
 
@@ -3494,7 +3494,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 96 -->
 
@@ -7517,17 +7517,17 @@ Denna del består av underlagsmaterial som utgör basen för bostadsförsörjnin
 presenteras en statistisk analys, en redovisning av hur relevanta styrdokument har
 beaktats, en hållbarhetsbedömning samt redovisning av invånardialog.
 
-Svar önskas senast den 14 december 2024 till samhallsbyggnadskontoret@kungsbacka.se
+Svar önskas senast den 14 december 2024 till (e-post borttagen)
 
 Vi frågor kontakta oss gärna:
 Planarkitekt:
-Raquel Sandblad, 0300-83 40 72, raquel.sandblad@kungsbacka.se eller
+Raquel Sandblad, 0300-83 40 72, (e-post borttagen) eller
 
 Specialist Hållbarhet:
-Margit de Boer, 0300-83 42 63, margit.de.boer@kungsbacka.se
+Margit de Boer, 0300-83 42 63, (e-post borttagen)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 200 -->
 
@@ -10284,7 +10284,7 @@ Förvaltningschef
 
 Kultur & Fritid
 
-karl.persson@kungsbacka.se
+(e-post borttagen)
 
 0300-83   48 05
 
@@ -10921,7 +10921,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   kulturochfritid@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -10977,7 +10977,7 @@ att personer döms för handlingar med svag koppling till huvudbrottet. Detta ka
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

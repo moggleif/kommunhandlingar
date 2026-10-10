@@ -38,7 +38,7 @@ Kungsbacka Badhus
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -614,7 +614,7 @@ kulturarvet som besöksanledning och identitetsskapande bör lyftas tydligare.
 1 (3)
 Nämnden för Kultur & Fritid                               Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2441,7 +2441,7 @@ o  RF-SISU Halland.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 64 -->
@@ -3060,7 +3060,7 @@ där de behövs mest och bidrar till att målen i kulturstrategin förverkligas.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 84 -->
@@ -3078,7 +3078,7 @@ regionhalland.se
 
 <!-- sida 85 -->
 
-Från:                  kommun@kungsbacka.se
+Från:                  (e-post borttagen)
 Skickat:               den 17 april 2024 16:12
 Till:                  Kultur & Fritid
 Kopia:                 Erik Norinder
@@ -3120,7 +3120,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 86 -->
 

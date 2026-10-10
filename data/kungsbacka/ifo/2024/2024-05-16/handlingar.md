@@ -5079,7 +5079,7 @@ Nu kan du lämna synpunkter på detaljplan för utveckling av Annebergs centrum.
 Senast 30 april 2024 vill vi ha dina synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -5270,12 +5270,12 @@ Kontakta gärna:                www.kungsbacka.se/
 aktuellaprojekt
 Maria Malone, planarkitekt
 (Alla planhandlingar
-maria.malone@kungsbacka.se
+(e-post borttagen)
 inklusive utredningar)
 0300 83 40 41                     Scanna QR-koden
 Stadshusoectsh e nlätrsé , m er på
 Susanne Calming, specialist exploatering Kungpsbraocjkeak tets websida!
-susanne.calming@kungsbacka.se
+(e-post borttagen)
 (Planhandlingar)
 0300 83 40 33
 2 (2)
@@ -5354,11 +5354,11 @@ Skriftliga synpunkter skickas till:
 Planavdelningen
 Samhällsbyggnadskontoret
 434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 Upplysningar om detaljplanen lämnas av:
-Maria Malone, Planarkitekt 0300-83 40 41, maria.malone@kungsbacka.se
+Maria Malone, Planarkitekt 0300-83 40 41, (e-post borttagen)
 
-Susanne Calming, Specialist exploatering 0300-83 40 33, susanne.calming@kungsbacka.se
+Susanne Calming, Specialist exploatering 0300-83 40 33, (e-post borttagen)
 Handlingar:
 • Planbeskrivning, denna handling
 • Plankarta med planbestämmelser
@@ -7936,7 +7936,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 178 -->
@@ -8161,7 +8161,7 @@ finansiering av stöd för en kunskapsbaserad socialtjänst och kommunal hälso-
 
 Beslutet skickas till
 Efter samordning av besluten i socialnämnderna IF, VO och GA skickas besluten till SKR
-registrator@skr.se med hänvisning till ärendenummer SKR2024/00089
+(e-post borttagen) med hänvisning till ärendenummer SKR2024/00089
 
 Beskrivning av ärendet
 Socialtjänsten och den kommunala hälso- och sjukvården står inför komplexa utmaningar. Att
@@ -8257,7 +8257,7 @@ Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i rel
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
 2024\.
-Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
+Skicka kommunens ställningstagande till (e-post borttagen) med hänvisning till
 
 ärendenummer SKR2024/00089.
 
@@ -8267,7 +8267,7 @@ utmaningar. Att samarbeta nationellt är ett sätt att möta dessa utmaningar. A
 nationellt samla stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -8365,7 +8365,7 @@ oktober och november
 • Information på ”Aktuellt i socialtjänsten” 31 oktober.
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -8766,7 +8766,7 @@ Sedan hösten 2020 pågår ett arbete för att möjliggöra automatiserad
 informationsförsörjning till de fem nationella kvalitetsregistren. Under
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -8966,7 +8966,7 @@ omgärda personen.
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -9078,7 +9078,7 @@ Förvaltningschef                   Biträdande förvaltningschef
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

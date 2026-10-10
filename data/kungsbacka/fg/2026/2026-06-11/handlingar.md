@@ -39,7 +39,7 @@ Kungsbackarummet, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -166,7 +166,7 @@ Förskola    &  Grundskola
 
 2026-05-22
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -692,7 +692,7 @@ fö r h u v u d m ä n n e n .
 4.3 Statsbidrag för stärkt kunskapsutveckling 2026 – insatser Förskola &
 Grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
@@ -1210,7 +1210,7 @@ och       Gällingeområdet
 
 2026-05-21
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -1538,7 +1538,7 @@ förskoleklass                   och
 
 grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 38 -->
 
@@ -1969,7 +1969,7 @@ förskoleklass                   och
 
 grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 49 -->
 
@@ -2859,7 +2859,7 @@ Ciceron      Skola/förskola  Område                 Nuläge
 2026-00357   Åsaskolan       Kränkningar            Pågår
 2026-00358   Åsa Gårdsskola  Byte av skola          Pågår
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 72 -->
 
@@ -2889,7 +2889,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 73 -->
 

@@ -41,7 +41,7 @@ Lunch: Furulidsskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -128,7 +128,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -312,7 +312,7 @@ www.kungsbacka.se
 Beslut
 
 Kungsbacka kommun                                2024-02-21
-info@kungsbacka.se                                   1 (5)
+(e-post borttagen)                                   1 (5)
 Dnr-SI 2023:8428
 
 Formulär  för huvudmannens    redovisning
@@ -495,7 +495,7 @@ resultatet (6 veckor)
 Beslut
 
 KUNGSBACKA KOMMUN                                 2024-02-21
-kommun@kungsbacka.se
+(e-post borttagen)
 1 (15)
 Dnr- SI 2023:8428
 
@@ -583,7 +583,7 @@ Huvudmannen ska senast den 23 september 2024 redovisa till Skolinspektionen
 vilka förbättringsåtgärder som vidtagits utifrån de identifierade utvecklings-
 områdena.
 
-Redovisningen skickas via e-post, till dokument.goteborg@skolinspektionen.se eller
+Redovisningen skickas via e-post, till (e-post borttagen) eller
 per post till, Skolinspektionen, Box 2320, 402 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr SI 2023:8428) i de
 handlingar som sänds in.
@@ -1947,7 +1947,7 @@ verksamhetsförändring – Ek o lek
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan angående förändring av verksamhet från Ek
 
-o lek barnomsorg AB med en ny dagbarnvårdare på Majsvägen 57, 439 71 FJÄRÅS. Godkännandet
+o lek barnomsorg AB med en ny dagbarnvårdare på (adress borttagen), 439 71 FJÄRÅS. Godkännandet
 omfattar 6 barn. Har verksamheten inte startat inom två år behöver den enskilde ansöka om nytt
 godkännande.
 
@@ -1973,7 +1973,7 @@ Delegationsbeslut, 2017-12-18
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 Beskrivning av ärendet
 
@@ -2576,7 +2576,7 @@ Arbetsutskottet för Förskola och Grundskola yrkar avslag på överklagan.
 Ordförande Nämnden för Förskola & Grundskola
 Emanuel Forsell
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 64 -->
 
@@ -2767,7 +2767,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)

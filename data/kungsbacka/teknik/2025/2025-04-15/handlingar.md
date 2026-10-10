@@ -238,7 +238,7 @@ ut varför dessa krav införs. Detta för att få en djupare förståelse från 
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -485,7 +485,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 11 -->
@@ -1698,10 +1698,10 @@ tertialets leverans i form av kvalité samt inom Serviceresor.
 
 Caroline Andersson
 
-Caroline.andersson@hlt.se
+(e-post borttagen)
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
-Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafiken@hlt.se
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: (e-post borttagen)
 
 <!-- sida 39 -->
 
@@ -1961,10 +1961,10 @@ tertialets leverans i form av kvalité samt inom Serviceresor.
 
 Caroline Andersson
 
-Caroline.andersson@hlt.se
+(e-post borttagen)
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
-Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafiken@hlt.se
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: (e-post borttagen)
 
 <!-- sida 51 -->
 

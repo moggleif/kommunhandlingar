@@ -93,7 +93,7 @@ Datum             Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
-Jonas Wallsten, Mätningsenheten BM jonas.wallsten@kungsbacka.se 0300-834859
+Jonas Wallsten, Mätningsenheten BM (e-post borttagen) 0300-834859
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress                Arbetstelefon
 Samma som ovan
@@ -163,7 +163,7 @@ n
 r dningsbehov.
 U K  Ekonomi
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04  www.kungsbacka.se
 

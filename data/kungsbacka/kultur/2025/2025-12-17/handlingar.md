@@ -121,9 +121,9 @@ Resultaten har viktats efter kön och ålder utifrån aktuell befolkningsstatist
 kommunens befolkning så representativt som möjligt.
 Kontaktpersoner Indikator
 Klara Bové
-Klara.bove@indikator.org
+(e-post borttagen)
 Simon Nygren Greus
-simon.nygren.greus@indikator.org
+(e-post borttagen)
 
 <!-- sida 5 -->
 
@@ -654,10 +654,10 @@ Har   ni frågor   om    undersökningen?
 
 Kontakta gärna oss:
 Klara Bové
-Klara.bove@indikator.org
+(e-post borttagen)
 
 Simon Nygren Greus
-simon.nygren.greus@indikator.org
+(e-post borttagen)
 
 Läs mer om oss på Indikator:
 www.indikator.org
@@ -788,7 +788,7 @@ detaljplan        för   bostäder         inom      Lerberg
 
 2024-05-15
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 31 -->
 
@@ -1677,10 +1677,10 @@ Påbörjad 2023-12-04
 
 Upprättad 2025-09-16
 
-Handläggare: Sofia Wiman, planarkitekt, sofia.wiman@kungsbacka.se, 0300 83 49 24
+Handläggare: Sofia Wiman, planarkitekt, (e-post borttagen), 0300 83 49 24
 
-Handläggare: Fortesa Bytyqi, exploateringsingenjör, fortesa.bytyqi@kungsbacka.se, 0300 83
-42 28 och Mikaela Ropel, exploateringsingenjör, mikaela.ropel@kungsbacka.se, 0300-83 40
+Handläggare: Fortesa Bytyqi, exploateringsingenjör, (e-post borttagen), 0300 83
+42 28 och Mikaela Ropel, exploateringsingenjör, (e-post borttagen), 0300-83 40
 
 34
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
@@ -3952,8 +3952,8 @@ Samrådshandling                                            55 (55)
 
 Välkommen          med     dina    synpunkter!
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 104 -->
 
@@ -4052,8 +4052,8 @@ Detaljplanen upprättas med standardförfarande i enlighet med plan- och
 bygglagen 2010:900.
 Handläggare
 
-Maria Malone, Planarkitekt 0300-83 40 41, maria.malone@kungsbacka.se
-Foresa Bytyqi, Exploateringsingenjör 0300-83 42 28, fortesa.bytyqi@kungsbacka.se
+Maria Malone, Planarkitekt 0300-83 40 41, (e-post borttagen)
+Foresa Bytyqi, Exploateringsingenjör 0300-83 42 28, (e-post borttagen)
 Handlingar:
 • Planbeskrivning, denna handling
 • Plankarta med planbestämmelser
@@ -6304,7 +6304,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 158 -->
@@ -6360,16 +6360,16 @@ Kungsbacka stad
 Upprättad 2023-01-17
 
 Projektgrupp för SKA
-Maria Malone, Planarkitekt, maria.malone@kungsbacka.se
+Maria Malone, Planarkitekt, (e-post borttagen)
 
-Ann-Karin Ljungman, planarkitekt, ann-karin.ljungman@kungsbacka.se
-Cecilia Ljungkvist-Holm, folkhälsoutvecklare, cecilia.ljungkvist-holm@kungsbacka.se
+Ann-Karin Ljungman, planarkitekt, (e-post borttagen)
+Cecilia Ljungkvist-Holm, folkhälsoutvecklare, (e-post borttagen)
 
-Lis Hellström, trygghetssamordnare, lis.hellstrom@kungsbacka.se
-Andrea Palmberg trafikingenjör, andrea.palmberg@kungsbacka.se
+Lis Hellström, trygghetssamordnare, (e-post borttagen)
+Andrea Palmberg trafikingenjör, (e-post borttagen)
 
-Julia Emqvist trafikplanerare, julia.emqvist@kungsbacka.se
-Helen Svenstam, landskapsarktiekt, helen.svenstam@kungsbacka.se
+Julia Emqvist trafikplanerare, (e-post borttagen)
+Helen Svenstam, landskapsarktiekt, (e-post borttagen)
 Christian B Anderson, utvecklingsledare individ & familjeomsorg, christian.b.andersson@
 kungsbacka.se
 
@@ -6891,7 +6891,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 14 SKA rapport                                             SKA rapport 15
 
@@ -6909,7 +6909,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 22 december 2025 vill vi ha d
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -7184,11 +7184,11 @@ Kontaktuppgifter              Här finns planförslaget!
 
 Kontakta gärna:                www.kungsbacka.se/
 Maria Malone, planarkitekt     aktuellaprojekt
-maria.malone@kungsbacka.se     (Alla planhandlingar
+(e-post borttagen)     (Alla planhandlingar
 0300 83 40 41                  inklusive utredningar)
 Scanna QR-koden
 Fortesa Bytyqi, exploateringsingenjör Stadshoucseht slä esn mtrée,r på
-fortesa.bytyqi@kungsbacka.se   Kungpsrboajcekkate ts websida!
+(e-post borttagen)   Kungpsrboajcekkate ts websida!
 0300 83 42 28                  (Planhandlingar)
 
 2 (2)
@@ -7295,7 +7295,7 @@ kriterium, där bedömningarna måste göras rättssäkert och individuellt.
 1 (2)
 Nämnden för Kultur & Fritid                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -44284,7 +44284,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 928 -->
 
@@ -44437,8 +44437,8 @@ våld mot barn)
 
 Remissvaren ska ha kommit in till Socialdepartementet
 senast den 19 januari 2026. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
-s.sof@regeringskansliet.se. Ange diarienummer S2025/02039 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer S2025/02039 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -44480,7 +44480,7 @@ Departementsråd
 
 Kopia till
 
-Åtta45, e-postadress: regeringskansliet@atta45.se
+Åtta45, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -44908,9 +44908,9 @@ Rev 2023-11-29
 Rev. 2024-12-05
 2025-11-24
 Initiativtagare
-NSamn och enheto fia Rosén, verksamhetschef Es-postadress ofia.rosen@kungsbacka.se A0rbetstelefon 300-83 81 35
+NSamn och enheto fia Rosén, verksamhetschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 81 35
 Kontaktperson för behovsbeskrivningen
-NSamn och enhet usan Pour, bibliotekschef Es-postadress usan.pour@kungsbacka.se A0rbetstelefon 300-83 41 94
+NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -44961,7 +44961,7 @@ bestånd/medier för de som väntar och längtar men inte kan ta sig till biblio
 B
 Ekonomi
 U
-K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i nfo@kungsbacka.se
+K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 
 <!-- sida 944 -->
@@ -45008,10 +45008,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén              sofia.rosen@kungsbacka.se  0300-83 81 35
+Sofia Rosén              (e-post borttagen)  0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall            peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall            (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR  BEHÖVER NÅGOT  GÖRAS?
 
@@ -45075,7 +45075,7 @@ p te a r r a k en ti v m it e e r t : i n G k e l s u t d a e lt r n a i n n d g
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -45172,10 +45172,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén, Vch Kultur & demokrati sofia.rosen@kungsbacka.se 0300-83 81 35
+Sofia Rosén, Vch Kultur & demokrati (e-post borttagen) 0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall, Ec Kultur & besöksmål peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall, Ec Kultur & besöksmål (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -45217,7 +45217,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -45292,11 +45292,11 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Maria K Andrén           maria.k.andren@kungsbacka.se 070-2021914/0300 83 80
+Maria K Andrén           (e-post borttagen) (mobilnummer borttaget)/0300 83 80
 99
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Wendela Sanne Öhrnell    Wendela.sanne-ohrnell@kungsbacka.se 0300 83 82 57
+Wendela Sanne Öhrnell    (e-post borttagen) 0300 83 82 57
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
 Kultur & Fritids Målbild för 2030 säger:
@@ -45334,7 +45334,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -45392,10 +45392,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck KFT       Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck KFT       (e-post borttagen) 0300 – 834662
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck           (e-post borttagen) 0300 – 834662
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Kultur & Fritid byter årligen ut konstgräsmattor på våra konstgräsplaner.
@@ -45460,7 +45460,7 @@ e r kronor år 2027, Bukärrs IP.
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -45498,7 +45498,7 @@ Kultur & Fritid
 
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
-Jessica wibeck                   jessica.wibeck@kungsbacka.se 0300-83 46 62
+Jessica wibeck                   (e-post borttagen) 0300-83 46 62
 
 VARFÖR  BEHÖVER NÅGOT  GÖRAS?
 Med den expansion som Kungsbacka kommun står inför de närmaste åren så ställer det krav på att
@@ -45587,10 +45587,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Vår äldre friidrottsanläggning som byggdes 1936 har idag utmaningar när det gäller säkerhet

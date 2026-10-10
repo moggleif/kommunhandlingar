@@ -39,7 +39,7 @@ Resursskolan Ängen
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -152,7 +152,7 @@ Förskola    &  Grundskola
 
 2026-05-22
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -678,7 +678,7 @@ fö r h u v u d m ä n n e n .
 4.3 Statsbidrag för stärkt kunskapsutveckling 2026 – insatser Förskola &
 Grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
@@ -1098,7 +1098,7 @@ och       Gällingeområdet
 
 2026-05-21
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -1480,7 +1480,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)

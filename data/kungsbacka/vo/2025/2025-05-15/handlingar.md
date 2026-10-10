@@ -447,7 +447,7 @@ Ansökan om pengar ur Stiftelsen Kungsbacka kommuns socialfond, 2025-02-28
 
 Beslutet skickas till
 
-Kommunstyrelsens förvaltning: Styrning & Ekonomi (donationsstiftelser@kungsbacka.se)
+Kommunstyrelsens förvaltning: Styrning & Ekonomi ((e-post borttagen))
 Sökanden
 
 Beskrivning av ärendet
@@ -536,7 +536,7 @@ KUNGSBACKA  KOMMUN
 Ansökan om pengar ur Erik Hjälmlövs Stiftelse, 2025-02-03
 
 Beslutet skickas till
-Kommunstyrelsens förvaltning: Styrning & Ekonomi (donationsstiftelser@kungsbacka.se)
+Kommunstyrelsens förvaltning: Styrning & Ekonomi ((e-post borttagen))
 Sökanden
 
 Beskrivning av ärendet
@@ -1439,7 +1439,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 Lena Knutsson                                              434 81 Kungsbacka
 0300-834724
 Besöksadress
-lena.knutsson@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1583,7 +1583,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 Lena Knutsson                                              434 81 Kungsbacka
 0300-834724
 Besöksadress
-lena.knutsson@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1727,7 +1727,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 Lena Knutsson                                              434 81 Kungsbacka
 0300-834724
 Besöksadress
-lena.knutsson@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1871,7 +1871,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 Lena Knutsson                                              434 81 Kungsbacka
 0300-834724
 Besöksadress
-lena.knutsson@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1973,11 +1973,11 @@ Dokumentegenskaper: Titel: Policy för invånardialog
 Beslutad av:    Kommunfullmäktige i protokoll KF § 119/14
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 43 -->
 
@@ -2015,11 +2015,11 @@ Dokumentegenskaper: Titel: Policy för invånardialog
 Beslutad av:    Kommunfullmäktige i protokoll KF § 119/14
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 45 -->
 
@@ -2057,11 +2057,11 @@ Dokumentegenskaper: Titel: Policy för invånardialog
 Beslutad av:    Kommunfullmäktige i protokoll KF § 119/14
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 47 -->
 
@@ -2099,11 +2099,11 @@ Dokumentegenskaper: Titel: Policy för invånardialog
 Beslutad av:    Kommunfullmäktige i protokoll KF § 119/14
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 49 -->
 
@@ -2549,11 +2549,11 @@ Beslutad av:    Nämnden för Vård & Omsorg
 Gäller från:    2025-05-15
 
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 61 -->
 
@@ -8509,20 +8509,20 @@ interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpu
 
 Från:           Samhällsbyggnadskontoret
 Skickat:        den 4 mars 2025 11:53
-Till:           Länsstyrelsen i Hallands län; Registrator; trafikverket@trafikverket.se; SGI;
-Räddningstjänsten Raddningstjansten; GR; kansli@kulturmiljohalland.se;
-regionen@regionhalland.se; registrator.vast@polisen.se;
-remisser@swedavia.se; vasttrafik@vasttrafik.se; hallandstrafiken@hlt.se;
-Havs- och vattenmyndigheten; bo.kolqvist@arkeologerna.com;
+Till:           Länsstyrelsen i Hallands län; Registrator; (e-post borttagen); SGI;
+Räddningstjänsten Raddningstjansten; GR; (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+Havs- och vattenmyndigheten; (e-post borttagen);
 Stadsledningskontoret | Stadsledningskontoret; Kontakt Mölndals stad;
-varbergdirekt@varberg.se; Kontaktcenter; Lisa Andersson; Bygg & Miljö
+(e-post borttagen); Kontaktcenter; Lisa Andersson; Bygg & Miljö
 bygglov admin; Bygg & Miljö Geodata; Miljö & Hälsoskydd admin; Kultur &
 Fritid; Teknik; Service; Förskola Grundskola; Gymnasium & Arbetsmarknad;
-Vård & Omsorg; Individ & Familjeomsorg; samhallsbyggnad@ellevio.se;
-PBL@eon.se; Skanova-Remisser-Goteborg /Telia Sverige AB /Göteborg;
-Telenor-cableplanning@telenor.se; jonas.quist@statkraft.com; Åfeldt Patrik;
-skanova-remisser-goteborg@skanova.se; utdelningsforbattringar; Bo
-Eriksson; fastighetsagare@tele2.com; kabelanvisning@ip-only.se; Emanuel
+Vård & Omsorg; Individ & Familjeomsorg; (e-post borttagen);
+(e-post borttagen); Skanova-Remisser-Goteborg /Telia Sverige AB /Göteborg;
+(e-post borttagen); (e-post borttagen); Åfeldt Patrik;
+(e-post borttagen); utdelningsforbattringar; Bo
+Eriksson; (e-post borttagen); (e-post borttagen); Emanuel
 Forsell; Annika Hedman; Monica Neptun; Fredrik Kollberg; Lars Eriksson;
 Patrik Jervne Henestam; Maria Losman; Stefan Jägnert; Roger Larsson; Clas
 Rosander; Christer Perfjell
@@ -12870,7 +12870,7 @@ Datum            Diarienummer
 2024-06-10       2063-2024
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande     enligt 3 kap 10 § plan och
 
@@ -12915,7 +12915,7 @@ I rollen att ta tillvara och samordna statens intressen har
 Länsstyrelsen inhämtat synpunkter på förslaget till översiktsplan
 från berörda myndigheter. Yttranden över planförslaget har
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 319 -->
@@ -13953,11 +13953,11 @@ Trafikverket, daterat 2024-05-20, dnr TRV 2024/28056
 SGI, daterat 2024-05-06, dnr 4.3.1-2403-0400
 
 Kopia till:
-SGI: sgi@sgi.se
-Trafikverket: trafikverket@trafikverket.se
-Luftfartsverket: lfv@lfv.se
+SGI: (e-post borttagen)
+Trafikverket: (e-post borttagen)
+Luftfartsverket: (e-post borttagen)
 
-Myndigheten för samhällsskydd och beredskap: registrator@msb.se
+Myndigheten för samhällsskydd och beredskap: (e-post borttagen)
 
 Så här hanterar Länsstyrelsen personuppgifter
 
@@ -14177,7 +14177,7 @@ Projekt          utbildningsteam
 
 Delresultat    av  mätning    effekthemtagning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 365 -->
 

@@ -7860,7 +7860,7 @@ BBiillaaggaa 44 -- LLaabboorraattoorriieepprroottookkoollll Sida 1 av 1
 | Sammanställning av<br>LABORATORIEUNDERSÖKNING STÖRD PROVTAGNING |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Uppdragsnamn:<br>Uppdragsnummer:<br>Beställare:<br>Provtagningsdatum:<br>Fält-ansvarig:<br>Lab-datum:<br>Lab-ansvarig: |  |  | Arendalsleden<br>351958<br>Kungsbacka Kommun<br>2025-09-16<br>ME<br>2025-09-25<br>Peter Hedborg |  |  |  |  |  |  |  |
-|  |  |  |  | ÅF Infrastructure AB Besöksadress<br>P.O. Box 1551 Grafiska vägen 2<br>SE-401 51 Göteborg 412 63 Göteborg<br>Tel. Vxl: +46 10 505 00 00 geolabb@afry.com |  |  |  |  |  |  |
+|  |  |  |  | ÅF Infrastructure AB Besöksadress<br>P.O. Box 1551 Grafiska vägen 2<br>SE-401 51 Göteborg 412 63 Göteborg<br>Tel. Vxl: +46 10 505 00 00 (e-post borttagen) |  |  |  |  |  |  |
 | Punkt<br>(vy) | Djup |  | Klassificering av jordart enligt SS-EN ISO 14688-1 |  | W %<br>N | W %<br>L | Org.<br>Halt % | Tjälfarl. | Mtrl-typ | Anmärkningar |
 |  | Från | Till |  |  |  |  |  |  |  |  |
 | 25TY01<br>25TY02<br>1,5<br>25TY03<br>1,5<br>25TY04<br>1,5 | 0,0<br>0,0<br>0,0<br>0,0 | 1,5<br>2,0<br>3,0<br>1,7<br>2,5<br>3,0<br>1,5<br>2,3<br>3,0<br>4,0<br>1,9<br>3,1<br>4,0 | brun FYLLNING grus sand<br>grå melerad LERA torrskorpekaraktär<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå rostfläckig LERA torrskorpekaraktär<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå FYLLNING lera lecakulor<br>grå rostfläckig TORRSKORPELERA<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå brun FYLLNING leca kulor grus sand inslag av lera<br>grönaktigt grå siltig lerig GYTTJA |  | 4<br>60<br>129<br>3<br>54<br>117<br>4<br>67<br>39<br>104<br>3<br>33<br>89 | 170<br>74<br>139<br>130<br>111 |  | 3<br>3<br>3<br>3<br>3<br>3<br>4 | 4B<br>6A<br>4B<br>6A<br>4B<br>6A<br>6A |  |
@@ -11656,9 +11656,9 @@ Arbetsmiljöplanens  överlämnande
 | --- | --- |
 | Arendalsleden fyra körfält | - |
 | BYGGHERRE; FÖRETAGSNAMN,<br>ORG.NR. | BYGGHERRENS REPRESENTANT:<br>NAMN, TELEFONNUMMER OCH E-POSTADRESS |
-| Kungsbacka kommun, 212000-1256 | Julia Emqvist, 0300-835046,<br>julia.emqvist@kungsbacka.se |
+| Kungsbacka kommun, 212000-1256 | Julia Emqvist, 0300-835046,<br>(e-post borttagen) |
 | JURIDISK BAS-P;<br>FÖRETAGSNAMN, ORG.NR. | HANDLÄGGANDE BAS-P:<br>NAMN, TELEFONNUMMER OCH E-POSTADRESS |
-| Tyréns Sverige AB, 556194-7986 | Linn Gustafsson, 0703-865090,<br>linn.gustafsson@tyrens.se |
+| Tyréns Sverige AB, 556194-7986 | Linn Gustafsson, (mobilnummer borttaget),<br>(e-post borttagen) |
 | JURIDISK BAS-U;<br>FÖRETAGSNAMN, ORG.NR. | HANDLÄGGANDE BAS-U:<br>NAMN, TELEFONNUMMER OCH E-POSTADRESS |
 |  |  |
 | ARBETSMILJÖPLANENS GILTIGHETSTID |  |
@@ -11927,14 +11927,14 @@ Namn                            Telefon
 
 | Kontaktperson | Teknik | Företag | Telefon samt e-post |
 | --- | --- | --- | --- |
-| Ida Joelsson | Trafikplanering | Tyréns Sverige AB | 0730-889786,<br>ida.joelsson@tyrens.se |
-| Charlotte Berglund | Trafikteknik | Tyréns Sverige AB | 0734-122609,<br>charlotte.berglund2@tyrens.se |
-| Eric Bengtsson | Vägteknik | Tyréns Sverige AB | 0702-802262,<br>eric.bengtsson@tyrens.se |
-| Linda Oscarsson | Dagvatten | Tyréns Sverige AB | 0722-079548,<br>linda.oscarsson@tyrens.se |
-| Ulrika Wendt | Bro | Tyréns Sverige AB | 0703-367442,<br>ulrika.wendt@tyrens.se |
-| Hilda Dahlin Joklint | Geoteknik | Tyréns Sverige AB | 0730-829360,hilda.dahlin-<br>joklint@tyrens.se |
-| Julia Gomér Torp | Miljö | Tyréns Sverige AB | 0701-872725,<br>julia.gomertorp@tyrens.se |
-| Henry Larsson | Landskap | Tyréns Sverige AB | 0767-744517,<br>henry.larsson@tyrens.se |
+| Ida Joelsson | Trafikplanering | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Charlotte Berglund | Trafikteknik | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Eric Bengtsson | Vägteknik | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Linda Oscarsson | Dagvatten | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Ulrika Wendt | Bro | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Hilda Dahlin Joklint | Geoteknik | Tyréns Sverige AB | (mobilnummer borttaget),hilda.dahlin-<br>(e-post borttagen) |
+| Julia Gomér Torp | Miljö | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
+| Henry Larsson | Landskap | Tyréns Sverige AB | (mobilnummer borttaget),<br>(e-post borttagen) |
 
 [Tabell 334-2](handlingar.tabeller/334-2.csv)
 
@@ -14349,8 +14349,8 @@ Vilken/vilka grupper av barn är berörda?
 Prövningen gäller alla barn som bor eller vistas i närhet av Arendalsleden eller nyttjar området
 Arendalsleden som transportsträcka.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 1 av 6
 
@@ -14359,7 +14359,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 Fyll i dina kontaktuppgifter
 
 För- och efternamn                E-postadress
-Sarah Lowry                       sarah.lowry@kungsbacka.se
+Sarah Lowry                       (e-post borttagen)
 
 Telefon                           Organisation
 
@@ -14380,7 +14380,7 @@ Kontaktuppgifter övriga
 
 För- och efternamn                E-postadress
 
-Julia Emqvist                     Julia.Emqvist@kungsbacka.se
+Julia Emqvist                     (e-post borttagen)
 
 Telefon                           Organisation
 \-                                 -
@@ -14394,8 +14394,8 @@ Nämnden för Teknik
 
 Kommunfullmäktige
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 2 av 6
 
@@ -14414,8 +14414,8 @@ Se SKA-analys för detaljer kring uppföljning.
 
 2\. Kartläggning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 3 av 6
 
@@ -14471,8 +14471,8 @@ Tillgänglighet och användbarhet (8 kap. PBL)
 Den byggda miljön ska vara användbar för alla. Det inkluderar barn och unga som gång- och
 cykeltrafikanter.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 4 av 6
 
@@ -14514,8 +14514,8 @@ vardag för att ta sig till skolan eller fritidsaktiviteter. Tillgängliga och t
 barns möjlighet till självständighet och delaktighet i samhället, samtidigt som det bidrar till en
 mer hållbar vardagsrörlighet i hela området.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 5 av 6
 
@@ -14539,8 +14539,8 @@ upplevda känsla av säkerhet kring ovan nämnda korsningspunkt.
 \- För att motverka osäker korsning längs över Arendalsleden föreslås staket mellan körfälten.
 Detta agerar en tillräcklig barriär för att motverka olyckor längs med sträckan.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | Datum: 2025-09-23 15:56 Sida 6 av 6
 
@@ -14591,7 +14591,7 @@ att ta sig över då det är otydligt med den oreglerade passagen som finns där
 Området närmast Arendalsleden besöks av människor från många olika grupper i
 samhället. Arendalsleden och dess närområde är dock inte en plats där man vistas
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 416 -->
 
@@ -19416,7 +19416,7 @@ Projektledare
 Helena  Bang, Trafikingenjör, Kungsbacka kommun
 
 Kontaktuppgifter
-Mejl: helena.bang@kungsbacka.se,  Tel: 0300-83 39 52
+Mejl: (e-post borttagen),  Tel: 0300-83 39 52
 Förvaltningen för Teknik, 2025
 
 <!-- sida 570 -->
@@ -19517,7 +19517,7 @@ Förvaltningschef                   Verksamhetschef
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Frida Moberg
-0700833878                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Projektledare                                            Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -19673,7 +19673,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 

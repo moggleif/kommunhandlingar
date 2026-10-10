@@ -38,7 +38,7 @@ Paus 18.30-18.45
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -206,7 +206,7 @@ dataskyddsarbete                          2025
 
 Gymnasium       &  Arbetsmarknad
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -2110,7 +2110,7 @@ Arbetsmarknad      2026-08-27
 
 <!-- sida 66 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 67 -->
 
@@ -2120,7 +2120,7 @@ Skapad av:     Förvaltningen för Gymnasium & Arbetsmarknad
 Gäller från:   2026-08-27
 Ansvarig förvaltning: Förvaltningen för Gymnasium & Arbetsmarknad
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -2328,7 +2328,7 @@ Kung sbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 72-1](handlingar.tabeller/72-1.csv)
 
@@ -4388,7 +4388,7 @@ Huvudman
 Dnr SI 2026:3297
 Sveriges Ridgymnasium AB              Sida 1 (4)
 org.nr 556681-4504
-pernilla.haverstal@ridgymnasium.nu
+(e-post borttagen)
 
 Ärendet
 
@@ -4529,7 +4529,7 @@ Bilaga:   Överklagande       av  beslut
 Skolinspektionens beslut om återkallelse får överklagas hos allmän
 förvaltningsdomstol. Överklagandet ställs till Förvaltningsrätten i
 Stockholm, men skicka det till Skolinspektionen via e-post
-skolinspektionen@skolinspektionen.se eller post Box 230 69, 104 35
+(e-post borttagen) eller post Box 230 69, 104 35
 Stockholm.
 
 Ange följande i överklagandet:

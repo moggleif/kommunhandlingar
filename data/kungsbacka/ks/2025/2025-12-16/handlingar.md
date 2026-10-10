@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37,Stadshuset
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
@@ -928,10 +928,10 @@ PLAN- OCH BYGGJURIDIK AB
 <!-- sida 23 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-11-11 07:20:07
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -944,7 +944,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 24 -->
 
@@ -1279,10 +1279,10 @@ E-post:
 <!-- sida 33 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-11-05 08:59:00
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -1318,7 +1318,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 34 -->
 
@@ -1761,11 +1761,11 @@ Ett överklagande som kommit in i rätt tid skickas vidare till kammarrätten om
 <!-- sida 45 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-10-29 16:50:24
 Till:
-Kopia:    lisa.andersson@kungsbacka.se
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Kopia:    (e-post borttagen)
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -1778,7 +1778,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 46 -->
 
@@ -2188,10 +2188,10 @@ byggande/provning lov fb/bygglov inom dp/planenlighet/olagliga-planbestammelser/
 <!-- sida 57 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-10-27 15:07:09
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -2214,7 +2214,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 58 -->
 
@@ -2358,10 +2358,10 @@ Mail:
 <!-- sida 62 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-10-23 16:01:05
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej, vi har mottagit ditt mail den 22 oktober 2025. Jag får hänvisa till vårt besked igår. Enligt 2§ FL tillämpas inte paragraferna
@@ -2375,7 +2375,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 63 -->
 
@@ -2487,19 +2487,19 @@ E-post:
 <!-- sida 65 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-10-22 09:44:26
 Till:
-Kopia:    lisa.andersson@kungsbacka.se; berit.bergstrom@kungsbacka.se; lars.eriksson@kungsbacka.se;
-emanuel.forsell@kungsbacka.se; hravn.forsne@kungsbacka.se; maria.gathendahl@kungsbacka.se;
-annika.hedman@kungsbacka.se; patrik.jervne.henestam@kungsbacka.se; stefan.jagnert@kungsbacka.se;
-fredrik.kollberg@kungsbacka.se; erik.lindqvist@kungsbacka.se; maria.losman@kungsbacka.se;
-ann-louise.lundqvist@kungsbacka.se; monica.neptun@kungsbacka.se; niclas.nilsson@kungsbacka.se;
-marianne.pleijel@kungsbacka.se; max.ramstrom@kungsbacka.se; thure.sanden@kungsbacka.se;
-henrik.schroder@kungsbacka.se; ermin.skoric@kungsbacka.se; axel.storkenfeldt@kungsbacka.se;
-magdalena.sundqvist@kungsbacka.se; elisabeth.svensson@kungsbacka.se; johan.tollinsson@kungsbacka.se;
-stefan.vilumson@kungsbacka.se; marie.wadstrom@kungsbacka.se; shabnam.zamani@kungsbacka.se
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Kopia:    (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen)
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -2516,7 +2516,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 66 -->
 
@@ -3422,10 +3422,10 @@ Lennartsson
 <!-- sida 80 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-10-02 11:41:01
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se
+Hemlig:   (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer: KS 2025-00287.pdf
 Hej
@@ -3447,7 +3447,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 81 -->
 
@@ -3951,21 +3951,21 @@ Bilaga: Illusionen av parkmark – Folder med rättsanalys
 <!-- sida 95 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-09-03 08:06:05
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
-Gällande din fråga om vem som svarar från kommun@kungsbacka.se, så är det normalt den person som anges som
+Gällande din fråga om vem som svarar från (e-post borttagen), så är det normalt den person som anges som
 handläggare som svarat och som då angetts i svaret.
-En del av de svar du fått kommun@kungsbacka.se är information om hur handläggningen kommer att ske samt hänvisningar
+En del av de svar du fått (e-post borttagen) är information om hur handläggningen kommer att ske samt hänvisningar
 till tidigare svar. Det har skickats av registrator på uppdrag av handläggaren, efter avstämning med handläggare, kansli
 och/eller kommunjurist. Under semesterperiod så har frågor besvarats i handläggarnas ärenden av de administrativa
 funktioner som är i tjänst tillsammans med annan personal i tjänst som har kännedom om ärendet eller kan sätta sig in i
 frågan. Det har i ditt fall huvudsakligen varit semesterersättaren för kommunens registrator som skickat mejlen från
-kommun@kungsbacka.se. Det har varierat vem som under denna tid hjälpt till med svaren, bl a tillförordnade
+(e-post borttagen). Det har varierat vem som under denna tid hjälpt till med svaren, bl a tillförordnade
 samhällsbyggnadschefer, kommunjurist, administrativ personal hos samhällsbyggnadskontoret och arkivarier hos
 Kommunstyrelsens förvaltning och Bygg & Miljö. De senare för att få fram de äldre handlingar som du efterfrågade.
 Jag noterar att jag av förbiseende inte undertecknat med mitt namn det mail som du fått 2025-08-21. Det är alltså jag, Ida
@@ -3976,7 +3976,7 @@ Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
 0300 – 83 44 47
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 96 -->
 
@@ -5648,10 +5648,10 @@ mo ee
 <!-- sida 151 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-08-21 16:41:42
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer: LM akt \&#197;sa stationssamh\&#228;lle.pdf, l\&#228;nsstyrelsen arkiv - \&#214;22.pdf
 Hej,
@@ -5910,7 +5910,7 @@ Tel.
 
 <!-- sida 157 -->
 
-20 maj 2025 kl. 17:01 skrev kommun@kungsbacka.se:
+20 maj 2025 kl. 17:01 skrev (e-post borttagen):
 
 Vi har tagit emot ditt mejl 19 maj 2025. Det har registrerats under samma
 diarienummer KS-2025-00287 som dina frågor den 30 mars, 14 april och 25 april.
@@ -5934,7 +5934,7 @@ Kommunstyrelsens förvaltning
 
 434 81 Kungsbacka
 
-kommun@kungsbacka.se
+(e-post borttagen)
 
 cc Bygg- och miljöförvaltningen
 
@@ -6076,14 +6076,14 @@ I övrigt hänvisas (cid:415)ll de svar som lämnats i mejl 11 april, 23 april o
 Kommunstyrelsens förvaltning
 434 81 Kungsbacka
 
-kommun@kungsbacka.se
+(e-post borttagen)
 
 cc Bygg- och miljöförvaltningen
 
 <!-- sida 162 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-07-14 11:47:46
 Till:
 Ämne:     Svar på mejl 2025-07-09 och 2025-07-10, KS-2025-00287
@@ -6102,7 +6102,7 @@ Lennartsson handläggare. Kommunstyrelsen består av 15 ledamöter med 15 ersät
 https://kungsbacka.tromanpublik.se/organisation/abe25987-e889-4eca-96c5-a97e83e549b8
 Kommunstyrelsens förvaltning
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 163 -->
 
@@ -6201,7 +6201,7 @@ Tel.
 
 <!-- sida 165 -->
 
-20 maj 2025 kl. 17:01 skrev kommun@kungsbacka.se:
+20 maj 2025 kl. 17:01 skrev (e-post borttagen):
 
 Vi har tagit emot ditt mejl 19 maj 2025. Det har registrerats under samma
 diarienummer KS-2025-00287 som dina frågor den 30 mars, 14 april och 25 april.
@@ -6225,7 +6225,7 @@ Kommunstyrelsens förvaltning
 
 434 81 Kungsbacka
 
-kommun@kungsbacka.se
+(e-post borttagen)
 
 cc Bygg- och miljöförvaltningen
 
@@ -6367,18 +6367,18 @@ I övrigt hänvisas (cid:415)ll de svar som lämnats i mejl 11 april, 23 april o
 Kommunstyrelsens förvaltning
 434 81 Kungsbacka
 
-kommun@kungsbacka.se
+(e-post borttagen)
 
 cc Bygg- och miljöförvaltningen
 
 <!-- sida 170 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-05-20 17:01:51
 Till:
-Kopia:    byggnadsforvaltningen@kungsbacka.se
-Hemlig:   anna.rehnberg@kungsbacka.se; ida.lennartsson@kungsbacka.se
+Kopia:    (e-post borttagen)
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     Ang. KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Vi har tagit emot ditt mejl 19 maj 2025. Det har registrerats under samma diarienummer KS-2025-00287 som dina frågor den
@@ -6393,7 +6393,7 @@ sammanträde. Kommunstyrelsens arbetsutskott ska i mellantiden behandla ärendet
 I övrigt hänvisas till de svar som lämnats i mejl 11 april, 23 april och 5 maj.
 Kommunstyrelsens förvaltning
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 cc Bygg- och miljöförvaltningen
 
 <!-- sida 171 -->
@@ -7557,10 +7557,10 @@ Fastighetsägare
 <!-- sida 200 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-11-21 07:17:05
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 Bifogade filer:
 Hej,
@@ -7571,7 +7571,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 201 -->
 
@@ -8389,10 +8389,10 @@ Te. NN
 <!-- sida 220 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-12-04 07:21:30
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se
+Hemlig:   (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Bifogade filer:
 Hej,
@@ -8403,38 +8403,38 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 221 -->
 
 Från:
 Skickat: den 5 december 2025 13:53
-Till: Thure Sandén \<thure.sanden@kungsbacka.se>; Heinrich Kaufmann
-\<heinrich.kaufmann@kungsbacka.se>; Daniel Hognert \<daniel.hognert@kungsbacka.se>; Dick
-Andersson \<dick.andersson@kungsbacka.se>; Marianne Wallengren
-\<marianne.wallengren@kungsbacka.se>; Lars Eriksson \<lars.eriksson@kungsbacka.se>; Britt
-Tönnberg \<britt.tonnberg@kungsbacka.se>; Stefan Vilumsons
-\<stefan.vilumsons@kungsbacka.se>; Fredrik Kollberg \<fredrik.kollberg@kungsbacka.se>;
+Till: Thure Sandén \<(e-post borttagen)>; Heinrich Kaufmann
+\<(e-post borttagen)>; Daniel Hognert \<(e-post borttagen)>; Dick
+Andersson \<(e-post borttagen)>; Marianne Wallengren
+\<(e-post borttagen)>; Lars Eriksson \<(e-post borttagen)>; Britt
+Tönnberg \<(e-post borttagen)>; Stefan Vilumsons
+\<(e-post borttagen)>; Fredrik Kollberg \<(e-post borttagen)>;
 
-Mårten Carlquist \<marten.carlquist@kungsbacka.se>; Anders Bergstedt
-\<anders.bergstedt@kungsbacka.se>; Kent Wallin \<kent.wallin@kungsbacka.se>; Richard
-Hansson \<richard.hansson@kungsbacka.se>; Gunnar Riksén \<gunnar.riksen@kungsbacka.se>;
-Bo Johansson \<bo.johansson@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; Fredrik Hansson \<fredrik.hansson@kungsbacka.se>;
-Magdalena Sundqvist \<magdalena.sundqvist@kungsbacka.se>; Rickard Vidlund
-\<rickard.vidlund@kungsbacka.se>; Anders Johansson \<anders.johansson@kungsbacka.se>;
-Katarina Öryd \<katarina.oryd@kungsbacka.se>; Bygg & Miljö bygglov admin
-\<byggochmiljo.bygglovadmin@kungsbacka.se>; Miljö & Hälsoskydd admin
+Mårten Carlquist \<(e-post borttagen)>; Anders Bergstedt
+\<(e-post borttagen)>; Kent Wallin \<(e-post borttagen)>; Richard
+Hansson \<(e-post borttagen)>; Gunnar Riksén \<(e-post borttagen)>;
+Bo Johansson \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; Fredrik Hansson \<(e-post borttagen)>;
+Magdalena Sundqvist \<(e-post borttagen)>; Rickard Vidlund
+\<(e-post borttagen)>; Anders Johansson \<(e-post borttagen)>;
+Katarina Öryd \<(e-post borttagen)>; Bygg & Miljö bygglov admin
+\<(e-post borttagen)>; Miljö & Hälsoskydd admin
 
-\<miljoochhalsoskydd.admin@kungsbacka.se>; Carina Rasmussen
-\<carina.rasmussen@kungsbacka.se>; Veronica Löfqvist \<veronica.lofqvist@kungsbacka.se>;
-Niclas Nilsson \<niclas.nilsson@kungsbacka.se>; Peter Wesley \<peter.wesley@kungsbacka.se>;
-Ulrika Granfors \<ulrika.granfors@kungsbacka.se>; Info \<info@kungsbacka.se>; Kommun
-\<kommun@kungsbacka.se>; Ida Lennartsson \<ida.lennartsson@kungsbacka.se>; Lovisa Eld
-\<lovisa.eld@kungsbacka.se>; Anna Rehnberg \<anna.rehnberg@kungsbacka.se>; Kasra
-Hassirian \<kasra.hassirian@kungsbacka.se>; Lotta Gradén \<lotta.graden@kungsbacka.se>
-Kopia: Kommunrevision \<kommunrevision@kungsbacka.se>; Birgitta Litsegård
-\<birgitta.litsegard@kungsbacka.se>; Hans-Åke Fryklund \<hans-ake.fryklund@kungsbacka.se>;
+\<(e-post borttagen)>; Carina Rasmussen
+\<(e-post borttagen)>; Veronica Löfqvist \<(e-post borttagen)>;
+Niclas Nilsson \<(e-post borttagen)>; Peter Wesley \<(e-post borttagen)>;
+Ulrika Granfors \<(e-post borttagen)>; Info \<(e-post borttagen)>; Kommun
+\<(e-post borttagen)>; Ida Lennartsson \<(e-post borttagen)>; Lovisa Eld
+\<(e-post borttagen)>; Anna Rehnberg \<(e-post borttagen)>; Kasra
+Hassirian \<(e-post borttagen)>; Lotta Gradén \<(e-post borttagen)>
+Kopia: Kommunrevision \<(e-post borttagen)>; Birgitta Litsegård
+\<(e-post borttagen)>; Hans-Åke Fryklund \<(e-post borttagen)>;
 
 Ämne: FORMELLT BREV TILL THURE SANDÉN – ”Här tillämpar vi endast Plan- och Bygglagen”
 
@@ -8719,8 +8719,8 @@ Jag hoppas att du väljer att agera efter lagen – och efter samvetet.
 
 Från:
 Skickat: den 8 december 2025 11:20
-Till: Info \<info@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>; Ida Lennartsson
-\<ida.lennartsson@kungsbacka.se>; Lovisa Eld \<lovisa.eld@kungsbacka.se>
+Till: Info \<(e-post borttagen)>; Kommun \<(e-post borttagen)>; Ida Lennartsson
+\<(e-post borttagen)>; Lovisa Eld \<(e-post borttagen)>
 Ämne: Re: FÖRTYDLIGANDE - Re: Begäran om allmänna handlingar rörande lagprövning enligt
 RF 11:14 samt kommunens interna normprövningsrutiner
 
@@ -8743,10 +8743,10 @@ Om så inte är fallet ber jag om att bli delgiven dessa skyndsamt.
 <!-- sida 231 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-12-04 07:21:30
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se
+Hemlig:   (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Bifogade filer:
 Hej,
@@ -8757,7 +8757,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 232 -->
 
@@ -9003,8 +9003,8 @@ Ett överklagande som kommit in i rätt tid skickas vidare till kammarrätten om
 Från:
 Ämne: Begäran om lagstödsbesked – tillämpning av planbestämmelse om parkmark i detaljplan Ö22
 Datum: 18 november 2025 13:00
-Till: Kungsbacka Kommun info@kungsbacka.se, Kommun kommun@kungsbacka.se
-Kopia: Ida Lennartsson ida.lennartsson@kungsbacka.se, kommunrevision@kungsbacka.se
+Till: Kungsbacka Kommun (e-post borttagen), Kommun (e-post borttagen)
+Kopia: Ida Lennartsson (e-post borttagen), (e-post borttagen)
 Till:
 Kungsbacka kommun
 Kommunstyrelsens förvaltning
@@ -9334,7 +9334,7 @@ Tack för ett tydligt och korrekt besked i enlighet med gällande rätt.
 Från:
 Ämne: Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
 Datum: 9 maj 2025 13:35
-Till: Kungsbacka Kommun info@kungsbacka.se
+Till: Kungsbacka Kommun (e-post borttagen)
 Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
 
 Jag,       , fastighetsägare till , begär härmed att Kungsbacka kommun omedelbart förklarar
@@ -9440,14 +9440,14 @@ Ingen står över lagen – och att följa lagarna är grunden för ett rättvis
 
 Från:
 Skickat: den 3 december 2025 17:16
-Till: registrator.kansli@polisen.se
-Kopia: Ida Lennartsson \<ida.lennartsson@kungsbacka.se>; lovise.eld@kungsbacka.se; Anna
-Rehnberg \<anna.rehnberg@kungsbacka.se>; Rickard Vidlund
-\<rickard.vidlund@kungsbacka.se>; Kommunrevision \<kommunrevision@kungsbacka.se>;
-Redaktion KBP \<redaktion@kungsbackaposten.se>; Redaktionen Norra Halland
-\<Redaktion@norrahalland.se>; redaktionen@hn.se; redaktion@gp.se; Info
+Till: (e-post borttagen)
+Kopia: Ida Lennartsson \<(e-post borttagen)>; (e-post borttagen); Anna
+Rehnberg \<(e-post borttagen)>; Rickard Vidlund
+\<(e-post borttagen)>; Kommunrevision \<(e-post borttagen)>;
+Redaktion KBP \<(e-post borttagen)>; Redaktionen Norra Halland
+\<(e-post borttagen)>; (e-post borttagen); (e-post borttagen); Info
 
-\<info@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>
+\<(e-post borttagen)>; Kommun \<(e-post borttagen)>
 Ämne: Skadegörelse på privat fastighet samt kommunal medverkan genom vilseledande eller
 uppviglande offentliga uttalanden.
 
@@ -9669,7 +9669,7 @@ https://norrahalland.se/nyheter/braaket-vid-vita-sand-har-gjort-en-annan-bedomni
 Från:
 Ämne: Begäran om redovisning av lagstöd för fastighetens klassificering som parkmark
 Datum: 30 mars 2025 22:20
-Till: Kungsbacka Kommun info@kungsbacka.se
+Till: Kungsbacka Kommun (e-post borttagen)
 Dold kopia:
 Begäran om redovisning av lagstöd för fastighetens klassificering som parkmark
 
@@ -9702,10 +9702,10 @@ kommunen att kontakta mig om ni önskar ha ett samtal.
 
 Från:
 Skickat: den 1 december 2025 16:20
-Till: Kommun \<kommun@kungsbacka.se>
-Kopia: Redaktion KBP \<redaktion@kungsbackaposten.se>; Redaktionen Norra Halland
-\<Redaktion@norrahalland.se>; redaktionen@hn.se; redaktion@gp.se; Tobias Sandblom
-Kungsbacka Posten \<tobias.sandblom@kungsbackaposten.se>
+Till: Kommun \<(e-post borttagen)>
+Kopia: Redaktion KBP \<(e-post borttagen)>; Redaktionen Norra Halland
+\<(e-post borttagen)>; (e-post borttagen); (e-post borttagen); Tobias Sandblom
+Kungsbacka Posten \<(e-post borttagen)>
 Ämne: Egenanmälan av informationsskyltar – prövning av kommunens påstående om ”allmän
 plats”
 
@@ -9835,7 +9835,7 @@ https://norrahalland.se/nyheter/braaket-vid-vita-sand-har-gjort-en-annan-bedomni
 
 <!-- sida 272 -->
 
-Från: kommun@kungsbacka.se
+Från: (e-post borttagen)
 Ämne: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Datum: 27 oktober 2025 15:07
 Till:
@@ -9866,7 +9866,7 @@ Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
 
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 273 -->
 
@@ -10001,7 +10001,7 @@ Ett överklagande som kommit in i rätt tid skickas vidare till kammarrätten om
 
 Från:
 Skickat: den 1 december 2025 00:18
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Tillägg: Begäran om skriftligt förtydligande av motstridiga uppgifter från kommunen
 gällande min fastighets rättsliga status - Diarienummer: KS-2025-00287
 
@@ -10025,7 +10025,7 @@ DELEGERINGSBESLUT
 
 Från:
 Skickat: den 1 december 2025 00:07
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Begäran om skriftligt förtydligande av motstridiga uppgifter från kommunen gällande min
 fastighets rättsliga status - Diarienummer: KS-2025-00287
 
@@ -10169,8 +10169,8 @@ mig innan något beslut tas i ärendet som utlovats under hästen 2025.
 
 Från: Lovisa Eld
 Skickat: den 1 december 2025 11:32
-Till: '                            >; Info \<info@kungsbacka.se>; Kommun
-\<kommun@kungsbacka.se>; Ida Lennartsson \<ida.lennartsson@kungsbacka.se>
+Till: '                            >; Info \<(e-post borttagen)>; Kommun
+\<(e-post borttagen)>; Ida Lennartsson \<(e-post borttagen)>
 Ämne: Sv: FÖRTYDLIGANDE - Re: Begäran om allmänna handlingar rörande lagprövning enligt
 RF 11:14 samt kommunens interna normprövningsrutiner
 
@@ -10194,8 +10194,8 @@ Samhällsbyggnadskontoret
 
 Från:
 Skickat: den 30 november 2025 05:04
-Till: Info \<info@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>; Ida Lennartsson
-\<ida.lennartsson@kungsbacka.se>; Lovisa Eld \<lovisa.eld@kungsbacka.se>
+Till: Info \<(e-post borttagen)>; Kommun \<(e-post borttagen)>; Ida Lennartsson
+\<(e-post borttagen)>; Lovisa Eld \<(e-post borttagen)>
 Ämne: Re: FÖRTYDLIGANDE - Re: Begäran om allmänna handlingar rörande lagprövning enligt
 RF 11:14 samt kommunens interna normprövningsrutiner
 
@@ -10218,11 +10218,11 @@ Samhällsbyggnadskontoret att inkomma med sitt svar skyndsamt.
 
 <!-- sida 283 -->
 
-Från: Lovisa Eld \<lovisa.eld@kungsbacka.se>
+Från: Lovisa Eld \<(e-post borttagen)>
 Skickat: den 1 december 2025 11:28
 Till:
-Kopia: Kommun \<kommun@kungsbacka.se>; Kommunrevision
-\<kommunrevision@kungsbacka.se>
+Kopia: Kommun \<(e-post borttagen)>; Kommunrevision
+\<(e-post borttagen)>
 Ämne: Sv: Begäran om omedelbart svar och rättelse: Kommunens påstående om ”allmän plats”
 saknar redovisat lagstöd
 
@@ -10246,9 +10246,9 @@ Samhällsbyggnadskontoret
 
 Från:
 Skickat: den 28 november 2025 16:18
-Till: Lovisa Eld \<lovisa.eld@kungsbacka.se>
-Kopia: Kommun \<kommun@kungsbacka.se>; Kommunrevision
-\<kommunrevision@kungsbacka.se>
+Till: Lovisa Eld \<(e-post borttagen)>
+Kopia: Kommun \<(e-post borttagen)>; Kommunrevision
+\<(e-post borttagen)>
 Ämne: Begäran om omedelbart svar och rättelse: Kommunens påstående om ”allmän plats”
 saknar redovisat lagstöd
 
@@ -10319,10 +10319,10 @@ kommunen.ea3d2608-726e-47da-9802-3cd2ed6ac6fa
 <!-- sida 287 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-12-01 08:47:06
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Bifogade filer:
 Hej,
@@ -10335,15 +10335,15 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 288 -->
 
 Från:
 Skickat: den 28 november 2025 11:24
-Till: Ida Lennartsson \<ida.lennartsson@kungsbacka.se>
-Kopia: Info \<info@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>; Kommunrevision
-\<kommunrevision@kungsbacka.se>
+Till: Ida Lennartsson \<(e-post borttagen)>
+Kopia: Info \<(e-post borttagen)>; Kommun \<(e-post borttagen)>; Kommunrevision
+\<(e-post borttagen)>
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar
@@ -10397,10 +10397,10 @@ obesvarad efter ett offentligt uttalande som direkt berör min rättsställning.
 
 <!-- sida 290 -->
 
-Från: Fredrik Hansson \<fredrik.hansson@kungsbacka.se>
+Från: Fredrik Hansson \<(e-post borttagen)>
 Skickat: den 28 november 2025 06:26
 Till:
-Kopia: Kristian Egstedt \<kristian.egstedt@kungsbacka.se>
+Kopia: Kristian Egstedt \<(e-post borttagen)>
 Ämne: Sv: Avsaknad av lagstöd för kommunens uttalanden rörande min fastighet
 
 Hej
@@ -10417,17 +10417,17 @@ Kommunalråd
 
 0300-83 46 56
 
-070-885 96 82
+(mobilnummer borttaget)
 Kungsbacka kommun
 
-fredrik.hansson@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 
 Från:
 Skickat: den 27 november 2025 11:09
 
-Till: Fredrik Hansson \<fredrik.hansson@kungsbacka.se>
+Till: Fredrik Hansson \<(e-post borttagen)>
 Ämne: Avsaknad av lagstöd för kommunens uttalanden rörande min fastighet
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar
@@ -10493,10 +10493,10 @@ Med vänlig hälsning
 <!-- sida 293 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-11-28 07:09:01
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se
+Hemlig:   (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Bifogade filer:
 Hej,
@@ -10507,17 +10507,17 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 294 -->
 
 Från:
 Skickat: den 26 november 2025 19:44
-Till: Ida Lennartsson \<ida.lennartsson@kungsbacka.se>
-Kopia: Kommunrevision \<kommunrevision@kungsbacka.se>; Kungsbacka Posten - Tobias
-Sandblom \<tobias.sandblom@kungsbackaposten.se>; Redaktion KBP
-\<redaktion@kungsbackaposten.se>; Redaktionen Norra Halland
-\<redaktionen@norrahalland.se>
+Till: Ida Lennartsson \<(e-post borttagen)>
+Kopia: Kommunrevision \<(e-post borttagen)>; Kungsbacka Posten - Tobias
+Sandblom \<(e-post borttagen)>; Redaktion KBP
+\<(e-post borttagen)>; Redaktionen Norra Halland
+\<(e-post borttagen)>
 Ämne: ”Om          skulle spärra av allmän plats på något sätt, så blir det en
 
 tillsynsfråga.” - Kungsbacka posten 2025-11-25
@@ -10617,10 +10617,10 @@ kommunen.ea3d2608-726e-47da-9802-3cd2ed6ac6fa
 <!-- sida 297 -->
 
 Kanal:    Epost
-Från:     kommun@kungsbacka.se
+Från:     (e-post borttagen)
 Skickat:  2025-11-21 07:17:05
 Till:
-Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
+Hemlig:   (e-post borttagen); (e-post borttagen)
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse,
 Bifogade filer:
 Hej,
@@ -10631,7 +10631,7 @@ Ida Lennartsson
 Verksamhetschef Planavdelningen
 Samhällsbyggnadskontoret
 Kommunstyrelsens förvaltning
-Ida.lennartsson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 298 -->
 
@@ -11763,11 +11763,11 @@ Beslutad av:    Kommunfullmäktige 14 december 2023 § 196, KS 2023-00333
 Gäller från:    2024-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen / Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 328 -->
 
@@ -13221,8 +13221,8 @@ Representant för företag
 
 Dina kontaktuppgifter
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #223823 | Inskickat av: | Datum: 2025-08-12 08:56 Sida 1 av 4
 
@@ -13240,8 +13240,8 @@ Fastighetsbeteckning               Fastighetens adress
 
 KUNGSBACKA ISERÅS 22:1              Råövägen / Gathes väg
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #223823 | Inskickat av: | Datum: 2025-08-12 08:56 Sida 2 av 4
 
@@ -13273,8 +13273,8 @@ Bostäder
 
 3\. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #223823 | Inskickat av: | Datum: 2025-08-12 08:56 Sida 3 av 4
 
@@ -13294,8 +13294,8 @@ Fullmakt Roland Börjesson.pdf (285 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #223823 | Inskickat av: | Datum: 2025-08-12 08:56 Sida 4 av 4
 
@@ -16082,7 +16082,7 @@ utifrån årlig rutin. Tidpunkten för genomförande är första halvåret 2026 
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -16670,7 +16670,7 @@ föra beslutade åtgärder med anledning av de rekommendationer som redovi-
 sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
-kommunrevision@kungsbacka.se senast den 17 december 2025.
+(e-post borttagen) senast den 17 december 2025.
 
 För revisorerna i Kungsbacka kommun
 
@@ -16745,7 +16745,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 448 -->
@@ -16928,7 +16928,7 @@ och förmåga att identifiera och bedöma incidenter.
 1 (5)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -17689,7 +17689,7 @@ kommunikationer
 Beställningsadress:
 Norstedts Juridik, 106 47 Stockholm
 Telefon: 08-657 95 00
-E-post: order@forlagssytem.se
+E-post: (e-post borttagen)
 Webbadress: www.nj.se/offentligapublikationer
 Beställningsnummer:
 
@@ -19048,7 +19048,7 @@ kommunikationer
 Beställningsadress:
 Norstedts Juridik, 106 47 Stockholm
 Telefon: 08-657 95 00
-E-post: order@forlagssytem.se
+E-post: (e-post borttagen)
 Webbadress: www.nj.se/offentligapublikationer
 Beställningsnummer:
 
@@ -21323,7 +21323,7 @@ storstadsregionerna och därmed möta framtida behov med hög systemeffektivitet
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -21522,7 +21522,7 @@ systemet. Göteborg utgör kärnan i det regionala kollektivtrafiksystemet, där
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -21792,7 +21792,7 @@ systemet. Göteborg utgör kärnan i det regionala kollektivtrafiksystemet där 
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -25455,7 +25455,7 @@ RS230670
 
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 634 -->
@@ -25499,7 +25499,7 @@ mål är att resandet med kollektivtrafiken ska öka och vara attraktivt. Till m
 mätbara delmål formulerats som omfattar kollektivtrafikens marknadsandel,
 självfinansieringsgrad, tillgänglighetsanpassning, social inkludering och klimat och miljö.
 
-Adress: Region Halland, Box 517, 301 80 Halmstad E-post: regionen@regionhalland.se
+Adress: Region Halland, Box 517, 301 80 Halmstad E-post: (e-post borttagen)
 Besöksadress: Södra vägen 9           Webb: regionhalland.se
 Telefon: 035-13 48 00                 Org. Nr: 232100–015
 
@@ -25544,7 +25544,7 @@ regionfullmäktige i juni 2026.
 Praktisk information
 Vi vill ha era synpunkter senast den 14 januari 2026.
 
-Remissvaren lämnas per e-post till regionen@regionhalland.se. Ange diarienummer
+Remissvaren lämnas per e-post till (e-post borttagen). Ange diarienummer
 RS230670 och remissinstansens namn i ämnesraden på e-postmeddelandet och döp
 bifogat dokument till ”Remissvar TFP RS230670 remissinstans".
 
@@ -25557,7 +25557,7 @@ trafik/kollektivtrafik
 3 (4)
 
 Vid eventuella frågor kontakta Ludvig Simonsson på:
-Ludvig.Simonsson@regionhalland.se
+(e-post borttagen)
 
 Remissinstanser
 1\. Falkenbergs kommun
@@ -25883,7 +25883,7 @@ inflytande över prioriteringar och användning av medel (artikel 21).
 1 (2)
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -26120,7 +26120,7 @@ stödmottagarna bara bytt en administrativ börda mot en annan.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -26306,7 +26306,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

@@ -1242,11 +1242,11 @@ Beslutad av:    Nämnden för Service, 2026-05-12, Dnr: SE-2026-00178
 Giltig från:    2026-05-12
 
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -1404,7 +1404,7 @@ Kungsbacka kommun      Delegering av beslutanderätt – nämnden för Service 4
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 31-1](handlingar.tabeller/31-1.csv)
 
@@ -1604,11 +1604,11 @@ Beslutad av:    Nämnden för Service, 2025-05-15 § 47, Dnr: SE-2025-00111
 
 Giltig från:    2025-05-15
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 45 -->
 
@@ -1780,7 +1780,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 4 (1
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 

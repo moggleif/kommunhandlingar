@@ -115,9 +115,9 @@ Kungsbacka kommun
 1 (1)
 Datum                              Bygglovsavdelningen
 2025-06-19
-byggochmiljo.bygglovadmin@kungsbacka.se
+(e-post borttagen)
 Diarienummer
-2025/2591-2                        anneli.ahlstrom@kungsbacka.se
+2025/2591-2                        (e-post borttagen)
 Ärendetyp
 1.1.7.1HANTERA REMISS
 
@@ -153,11 +153,11 @@ förekommer grövre ekar på de planerade avstyckningarna.
 
 Bygg- och miljöförvaltningen                            Kungsbacka kommun
 Mats Holstein                                            434 81 Kungsbacka
-mats.holstein@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 5 -->
@@ -210,7 +210,7 @@ en trafikregel som motsvarar den faktiska vägutformningen, trafikintensiteten o
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -298,7 +298,7 @@ under längre tid.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -417,7 +417,7 @@ Verksamhetschef                    Trafikingenjör
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -488,7 +488,7 @@ trafikövervakare infördes ett tillfälligt parkeringsförbud på de problemati
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

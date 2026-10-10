@@ -360,7 +360,7 @@ av Skolverkets regionala planerings- och dimensioneringsuppdrag.
 
 Nämnden för Gymnasium & Arbetsmarknad 1 (2)
 Kungsbacka kommun
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -1928,7 +1928,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -1945,9 +1945,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -3033,7 +3033,7 @@ Kungsbacka kommun
 
 Nämnden för Gymnasium & Arbetsmarknad 1 (1)
 Kungsbacka kommun
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -3573,7 +3573,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -3590,9 +3590,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -4526,7 +4526,7 @@ Kungsbacka kommun
 1 (1)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5484,7 +5484,7 @@ Göteborgsregionen        (GR)
 
 GRvux,    Vuxenutbildningssamverkan
 
-Epost:    marie.egerstad@goteborgsregionen.se
+Epost:    (e-post borttagen)
 
 Telefon:     031-335   52  58
 
@@ -5553,7 +5553,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -5570,9 +5570,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -6118,7 +6118,7 @@ Initiator
 
 Precisely e-signering (Pe)
 Precisely Esign
-esign@precisely.se
+(e-post borttagen)
 
 1/2
 
@@ -6142,7 +6142,7 @@ Signatories
 
 Anders Johansson (AJ)               Johan Löfvenholm (JL)
 Kungsbacka Kommun                   Lindholmen Science Park AB
-anders.johansson@kungsbacka.se      johan.lofvenholm@lindholmen.se
+(e-post borttagen)      (e-post borttagen)
 
 The name returned by Swedish BankID was "Ted Anders The name returned by Swedish BankID was "JOHAN
 Johansson"                          LÖFVENHOLM"
@@ -8239,7 +8239,7 @@ Reserverad finansiering (kr):     300 000
 Total planerad finansiering (kr): 3 000 000
 
 Vinnova – Sveriges innovationsmyndighet
-Mäster Samuelsgatan 56, 101 58 Stockholm // Tel: 08 473 30 00 // vinnova.se
+Mäster (adress borttagen), 101 58 Stockholm // Tel: 08 473 30 00 // vinnova.se
 
 Fakturaadress: Vinnova, FE 34, 838 73 Frösön
 Leveransadress: Klara Norra Kyrkogata 14 Page 1 of 10
@@ -8378,7 +8378,7 @@ har även Erik Borälv och Anna Bjurström deltagit, den sistnämnda som föredr
 
 Beslutet kan inte överklagas.
 
-Frågor besvaras av ansvarig handläggare Anna Bjurström, anna.bjurstrom@vinnova.se
+Frågor besvaras av ansvarig handläggare Anna Bjurström, (e-post borttagen)
 Verket för innovationssystem, Vinnova
 
 Page 4 of 10
@@ -8809,9 +8809,9 @@ Document ID 09222115557570685979 Attachment 6
 | Kungsbacka kommun, Kommunstyrelsens<br>förvaltning, 434 81 Kungsbacka | Lindholmspiren 3-5, Göteborg |
 | --- | --- |
 | Kontaktperson för administration av detta<br>personuppgiftsbiträdesavtal | Kontaktperson för administration av detta<br>personuppgiftsbiträdesavtal |
-| Namn: Eva Holmberg<br>E-post: eva.holmberg2@kungsbacka.se<br>Tfn: 0300-83 41 74 | Namn: Tilde Skånvik<br>E-post: tilde.skanvik@lindholmen.se<br>Tfn: 070 308 87 90 |
+| Namn: Eva Holmberg<br>E-post: (e-post borttagen)<br>Tfn: 0300-83 41 74 | Namn: Tilde Skånvik<br>E-post: (e-post borttagen)<br>Tfn: (mobilnummer borttaget) |
 | Kontaktperson för parternas samarbete om<br>dataskydd | Kontaktpersoner för parternas samarbete om<br>dataskydd |
-| Namn: Eva Holmberg<br>E-post: eva.holmberg2@kungsbacka.se<br>Tfn: 0300-83 41 74 | Namn: Tilde Skånvik<br>E-post: tilde.skanvik@lindholmen.se<br>Tfn: 070 308 87 90 |
+| Namn: Eva Holmberg<br>E-post: (e-post borttagen)<br>Tfn: 0300-83 41 74 | Namn: Tilde Skånvik<br>E-post: (e-post borttagen)<br>Tfn: (mobilnummer borttaget) |
 
 <!-- sida 213 -->
 
@@ -9350,17 +9350,17 @@ Oderland
 
 Adress och kontaktuppgifter
 Oderland Webbhotell AB,
-Kungsgatan 56,
+(adress borttagen),
 411 08 Göteborg
-Email support@oderland.se
+Email (e-post borttagen)
 
 Document ID 09222115557570685979 Attachment 8
 
 [Tabell 223-1](handlingar.tabeller/223-1.csv)
 
-| Adress och kontaktuppgifter | AI Iron AB,<br>Fabriksgatan 4,<br>531 60 Lidköping<br>Email support@airon.ai |
+| Adress och kontaktuppgifter | AI Iron AB,<br>(adress borttagen),<br>531 60 Lidköping<br>Email (e-post borttagen) |
 | --- | --- |
-| Lokalisering av Personuppgifter<br>(adress, land) | AI Iron AB,<br>Fabriksgatan 4,<br>531 60 Lidköping<br>Sverige |
+| Lokalisering av Personuppgifter<br>(adress, land) | AI Iron AB,<br>(adress borttagen),<br>531 60 Lidköping<br>Sverige |
 | Typer av Personuppgifter som<br>Behandlas av Underbiträdet | De personuppgifter som AI Irons infrastruktur faciliterar<br>beskrivs i Underbilaga 2 c - Specifikation av behandlingar och<br>personuppgifter |
 | Ändamål med Underbiträdets<br>Behandling | Underbiträdet bistår med teknisk infrastruktur som består av<br>GPU- servrar, som är avgörande för prototypen SVEA. |
 | Behandlingstid | Underleverantörens behandling av personuppgifter pågår så<br>länge Svea används. Detta innebär att Underbiträdet kommer<br>att ha tillgång till och behandla uppgifter som behövs för drift<br>och underhåll av den tekniska infrastrukturen under hela den<br>period som Svea används. |
@@ -9374,7 +9374,7 @@ Document ID 09222115557570685979 Attachment 8
 
 [Tabell 224-1](handlingar.tabeller/224-1.csv)
 
-| Lokalisering av Personuppgifter<br>(adress, land) | Oderland Webbhotell AB,<br>Kungsgatan 56,<br>411 08 Göteborg<br>Sverige |
+| Lokalisering av Personuppgifter<br>(adress, land) | Oderland Webbhotell AB,<br>(adress borttagen),<br>411 08 Göteborg<br>Sverige |
 | --- | --- |
 | Typer av Personuppgifter som<br>Behandlas av Underbiträdet | Kontaktuppgifter i form av namn och e-postadresser som<br>ingår i e-postmeddelanden. |
 | Ändamål med Underbiträdets<br>Behandling | Underbiträdet (Oderland) tillhandahåller e-posttjänster och<br>serverinfrastruktur (SMTP) för att möjliggöra utskick av e-post<br>från systemet. |
@@ -9457,7 +9457,7 @@ En gemensam digital assistent för offentlig sektor – Etapp 3
 
 3.1 Datacenter
 
-●  Plats: AI Iron AB, Fabriksgatan 4, 531 60 Lidköping, Sverige.
+●  Plats: AI Iron AB, (adress borttagen), 531 60 Lidköping, Sverige.
 ●  Skalskydd:
 ○  Fysisk säkerhet: Larm, kameraövervakning, kort- och kodlås.
 ○  Säkerhetszoner med behörighetskontroll.
@@ -12343,7 +12343,7 @@ Handlingsplan
 
 Kungsbacka       kommun      2025
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 294 -->
 
@@ -13580,7 +13580,7 @@ Samtliga nämnder
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13747,7 +13747,7 @@ k s
 0
 4
 a s
-K                                                      gymnasie.vuxenutbildning@kungsbacka.se
+K                                                      (e-post borttagen)
 m
 roF                                                               www.kungsbacka.se
 inu
@@ -13900,11 +13900,11 @@ Beslutad av:    Kommunfullmäktige 2026-03-03 § 29
 Gäller från:    2026-03-03
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 322 -->
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -869,7 +869,7 @@ där de behövs mest och bidrar till att målen i kulturstrategin förverkligas.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 29 -->
@@ -2626,7 +2626,7 @@ o  RF-SISU Halland.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 71 -->
@@ -2644,7 +2644,7 @@ regionhalland.se
 
 <!-- sida 72 -->
 
-Från:                  kommun@kungsbacka.se
+Från:                  (e-post borttagen)
 Skickat:               den 17 april 2024 16:12
 Till:                  Kultur & Fritid
 Kopia:                 Erik Norinder
@@ -2686,7 +2686,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 73 -->
 
@@ -2756,7 +2756,7 @@ FoU i Väst
 har myndighetsuppdrag, forskar, ordnar utbildningar och
 Box 5073, 402 22 Göteborg
 är storstadsregionens röst i Västsverige, bland mycket
-gr@goteborgsregionen.se
+(e-post borttagen)
 annat. I våra nätverk träffas politiker och tjänstepersoner
 www.goteborgsregionen.se
 för att utbyta erfarenheter, bolla idéer och besluta om

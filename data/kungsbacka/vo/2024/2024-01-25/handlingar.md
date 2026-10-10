@@ -82,7 +82,7 @@ Beslutad av: Nämnden för Vård & Omsorg, 2024-01-25, §
 
 Gäller från: 2024-01-25
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se

@@ -2690,7 +2690,7 @@ genomförda?
 •  Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra
 beslutade åtgärder med anledning av de rekommendationer som redovisas i rapporten?
 
-Svaret på ovanstående frågor önskas elektroniskt till kommunrevision@kungsbacka.se.
+Svaret på ovanstående frågor önskas elektroniskt till (e-post borttagen).
 För revisorerna i Kungsbacka kommun
 
 Birgitta Litsegård
@@ -4116,15 +4116,15 @@ Intervjuer
 
 <!-- sida 105 -->
 
-Från: Karin Knutsson \<Karin.Knutsson@se.ey.com>
+Från: Karin Knutsson \<(e-post borttagen)>
 Skickat: Tuesday, September 5, 2023 4:27:36 PM
-Till: Malin Aronsson \<malin.aronsson@kungsbacka.se>; Ivan Stipic \<ivan.stipic@kungsbacka.se>;
-Arian Faily \<arian.faily@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>; Lotta Gradén
-\<lotta.graden@kungsbacka.se>
-Kopia: Birgitta Litsegård \<birgitta.litsegard@kungsbacka.se>; Christine Lindeberg
-\<christine.lindeberg@kungsbacka.se>; Stefan Friberg \<stefan.friberg@kungsbacka.se>; Mikaela
-Gretzer \<Mikaela.Gretzer@se.ey.com>; Linnéa Johansson \<Linnea.Johansson@se.ey.com>; Anders
-Johansson \<anders.johansson@kungsbacka.se>
+Till: Malin Aronsson \<(e-post borttagen)>; Ivan Stipic \<(e-post borttagen)>;
+Arian Faily \<(e-post borttagen)>; Kommun \<(e-post borttagen)>; Lotta Gradén
+\<(e-post borttagen)>
+Kopia: Birgitta Litsegård \<(e-post borttagen)>; Christine Lindeberg
+\<(e-post borttagen)>; Stefan Friberg \<(e-post borttagen)>; Mikaela
+Gretzer \<(e-post borttagen)>; Linnéa Johansson \<(e-post borttagen)>; Anders
+Johansson \<(e-post borttagen)>
 Ämne: Revisionens granskning av kompetensförsörjning
 
 Hej,
@@ -4159,8 +4159,8 @@ Certifierad kommunal yrkesrevisor | Konsult | Senior Manager
 Offentlig verksamhet
 
 Ernst & Young AB
-Parkgatan 49, 411 38 Göteborg, Sweden
-Mobile: +46 738 - 56 50 66 | Direct: +46 31 - 63 63 16 | karin.knutsson@se.ey.com
+(adress borttagen), 411 38 Göteborg, Sweden
+Mobile: +46 738 - 56 50 66 | Direct: +46 31 - 63 63 16 | (e-post borttagen)
 Website: http://www.ey.com
 
 At EY we work flexibly, so while it may suit me to email you now, I do not expect a response if it is outside your
@@ -4490,10 +4490,10 @@ Vi ber er att numrera dokumentationen som skickas till oss i enlighet med katego
 för att underlätta hanteringen.
 
 Vi önskar ta emot dokumentationen senast den 29 september 2023. Dokumentationen
-skickas till linnea.johansson@se.ey.com.
+skickas till (e-post borttagen).
 
 Har ni några frågor kring ovan dokumentbegäran är ni varmt välkomna att kontakta Linnéa
-Johansson på linnea.johansson@se.ey.com, eller 072-1842429.
+Johansson på (e-post borttagen), eller (mobilnummer borttaget).
 
 3
 
@@ -4804,7 +4804,7 @@ Datum         Vårt diarienummer Sid
 Kungsbacka kommun
 
 Enheten för region väst
-Kristina Leander, 010-730 90 00 kommun@kungsbacka.se
+Kristina Leander, 010-730 90 00 (e-post borttagen)
 
 Delgivning
 
@@ -4846,7 +4846,7 @@ komma att drabbas av ohälsa eller olycksfall.
 
 Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
-E-post: arbetsmiljoverket@av.se • Webbplats: av.se
+E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
 mörtsgnE
 acinoM
@@ -5103,14 +5103,14 @@ Kopia till
 
 Vi har skickat en kopia av detta brev till:
 Sabaeta Bajramovic, skyddsombud Kommunal,
-sabaeta.bajramovic@kungsbacka.se
-Jonas Sjöberg, skyddsombud Kommunal, jonas.sjoberg@kungsbacka.se
-Lena Berg, skyddsombud, Kommunal, lena.berg@kungsbacka.se
-Anna Norberg, enhetschef, anna.norberg@kungsbacka.se
-Lovisa Almquist, enhetschef, lovisa.almquist@kungsbacka.se
-Katie Svensson, enhetschef, katie.svensson@kungsbacka.se
-Mikael Delin, verksamhetschef, mikael.delin@kungsbacka.se
-Ann Helene Svensson, verksamhetschef, ann-helen.svensson@kungsbacka.se
+(e-post borttagen)
+Jonas Sjöberg, skyddsombud Kommunal, (e-post borttagen)
+Lena Berg, skyddsombud, Kommunal, (e-post borttagen)
+Anna Norberg, enhetschef, (e-post borttagen)
+Lovisa Almquist, enhetschef, (e-post borttagen)
+Katie Svensson, enhetschef, (e-post borttagen)
+Mikael Delin, verksamhetschef, (e-post borttagen)
+Ann Helene Svensson, verksamhetschef, (e-post borttagen)
 
 mörtsgnE
 
@@ -5172,7 +5172,7 @@ Datum         Vårt diarienummer Sid
 Kungsbacka Kommun
 Enheten för region väst
 Kristina Leander, 010-730 90 00
-Christel Magnusson, 010-730 90 00 kommun@kungsbacka.se
+Christel Magnusson, 010-730 90 00 (e-post borttagen)
 
 Möjlighet att lämna synpunkter före beslut
 
@@ -5211,7 +5211,7 @@ och tidpunkterna för när kraven ska vara uppfyllda.
 
 Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
-E-post: arbetsmiljoverket@av.se • Webbplats: av.se
+E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
 mörtsgnE
 acinoM
@@ -5492,15 +5492,15 @@ Datum         Vårt diarienummer Sid
 
 Kopia till
 Sabaeta Bajramovic, skyddsombud Kommunal,
-sabaeta.bajramovic@kungsbacka.se
-Jonas Sjöberg, skyddsombud Kommunal, jonas.sjoberg@kungsbacka.se
-Lena Berg, skyddsombud, Kommunal, lena.berg@kungsbacka.se
-Anna Norberg, enhetschef, anna.norberg@kungsbacka.se
+(e-post borttagen)
+Jonas Sjöberg, skyddsombud Kommunal, (e-post borttagen)
+Lena Berg, skyddsombud, Kommunal, (e-post borttagen)
+Anna Norberg, enhetschef, (e-post borttagen)
 
-Lovisa Almquist, enhetschef, lovisa.almquist@kungsbacka.se
-Katie Svensson, enhetschef, katie.svensson@kungsbacka.se
-Mikael Delin, verksamhetschef, mikael.delin@kungsbacka.se
-Ann Helene Svensson, verksamhetschef, ann-helen.svensson@kungsbacka.se
+Lovisa Almquist, enhetschef, (e-post borttagen)
+Katie Svensson, enhetschef, (e-post borttagen)
+Mikael Delin, verksamhetschef, (e-post borttagen)
+Ann Helene Svensson, verksamhetschef, (e-post borttagen)
 
 mörtsgnE
 
@@ -5804,7 +5804,7 @@ BESLUT
 2023-09-19  Dnr 3.5.1-01782/2023 1(3)
 
 Kungsbacka kommun
-Stadshuset Storgatan 37
+Stadshuset (adress borttagen)
 434 81 KUNGSBACKA
 
 Vårdgivare och huvudman
@@ -5841,7 +5841,7 @@ Med anledning av IVO:s bedömning begär IVO med stöd av 7 kap. 20 §
 patientsäkerhetslagen (2010:659), PSL, att nämnden redovisar:
 
 Inspektionen för vård och omsorg Telefon +46 (0)10-788 50 00 Org nr 202100-6537
-registrator@ivo.se
+(e-post borttagen)
 0
 b
 .1
@@ -7009,7 +7009,7 @@ Vård        och       omsorg
 
 2023
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 173 -->
 
@@ -8612,7 +8612,7 @@ dataskydd            årsberättelse             2023
 
 Diarienummer        VO-2023-00213
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 209 -->
 
@@ -8880,7 +8880,7 @@ Säkerhetsberättelse                     helår     2023
 
 Diarienummer        VO-2023-00211
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 217 -->
 
@@ -10067,7 +10067,7 @@ och fastighetsjour.
 Kontaktuppgifter till Tjänsteman i Beredskap
 \- Personsökare: 0746-20 03 36
 \- Rakel: 579 28 03
-\- E-post: krisledning@kungsbacka.se
+\- E-post: (e-post borttagen)
 
 10.2 Andra förvaltningar
 
@@ -10338,7 +10338,7 @@ Beslutad av: Förvaltningen för Vård & Omsorg, 2023-02-07
 Gäller från: 2023-02-07
 
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt: Kungsbacka direkt 0300-83 40 00 http://info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00 http://(e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka http://kungsbacka.se
 

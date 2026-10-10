@@ -64,7 +64,7 @@ Lantmäteriets ortnamnsfunktion
 Förvaltningen för Teknik, Kungsbacka kommun
 Brorström Hill AB
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -114,7 +114,7 @@ Dnr BN 2026-000626 – Ankom 2026-07-06
 Kungsbacka kommun
 Bygg- och miljöförvaltningen
 Geodataenheten
-byggochmiljo.geodata@kungsbacka.se
+(e-post borttagen)
 
 DATUM 2026-07-06
 DIARIENUMMER LM2026/088157
@@ -3149,7 +3149,7 @@ användningen Allmänt ändamål och detta ändras inte.
 1 (8)
 Byggnadsnämnden                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3486,7 +3486,7 @@ Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. 
 8
 3      Besöksadress    Öppettider  Postadress     E-post
 8
-8 6    Birger Jarls Torg 16 måndag–fredag Box 2290 svea.avd6@dom.se
+8 6    Birger Jarls Torg 16 måndag–fredag Box 2290 (e-post borttagen)
 3
 2                      08:00–16:30 103 17 Stockholm
 d
@@ -3957,7 +3957,7 @@ PARTER
 
 Klagande
 1\. Bengt Andersson
-Borgmästaregatan 20
+(adress borttagen)
 434 32 Kungsbacka
 
 2\. Birgitta Andersson
@@ -3965,11 +3965,11 @@ Samma adress som 1
 
 3\. Anders Dahl
 
-Borgmästaregatan 22
+(adress borttagen)
 434 32 Kungsbacka
 
 4\. Mikael Bredman
-Borgmästaregatan 24
+(adress borttagen)
 434 32 Kungsbacka
 
 5\. Johanna Tjellander
@@ -3977,7 +3977,7 @@ Samma adress som 4
 
 Ombud för 1 – 5: Emil Thäter
 Enkla Juridik Sverige AB
-Gyllenborgsgatan 4
+(adress borttagen)
 112 43 Stockholm
 
 Motpart
@@ -3995,7 +3995,7 @@ Avgörandet är elektroniskt undertecknat
 5    Besöksadress    Öppettider  Postadress      E-post
 1
 8
-6    Birger Jarls Torg 16 måndag–fredag Box 2290 svea.avd6@dom.se
+6    Birger Jarls Torg 16 måndag–fredag Box 2290 (e-post borttagen)
 3
 2                    08:00–16:30 103 17 Stockholm
 d    Telefon                                     Webbplats
@@ -4037,19 +4037,19 @@ Mark- och miljödomstolen     Meddelad i Vänersborg  P 540-26
 PARTER
 
 Klagande
-1\. Bengt Andersson, Borgmästaregatan 20, 434 32 Kungsbacka
+1\. Bengt Andersson, (adress borttagen), 434 32 Kungsbacka
 
-2\. Birgitta Andersson, Borgmästaregatan 20, 434 32 Kungsbacka
+2\. Birgitta Andersson, (adress borttagen), 434 32 Kungsbacka
 
-3\. Mikael Bredman, Borgmästaregatan 24, 434 32 Kungsbacka
+3\. Mikael Bredman, (adress borttagen), 434 32 Kungsbacka
 
-4\. Johanna Tjellander, Borgmästaregatan 24, 434 32 Kungsbacka
+4\. Johanna Tjellander, (adress borttagen), 434 32 Kungsbacka
 
-5\. Anders Dahl, Borgmästaregatan 22, 434 32 Kungsbacka
+5\. Anders Dahl, (adress borttagen), 434 32 Kungsbacka
 
-6\. Ann-Christin Höij, Björkgatan 3, 434 32 Kungsbacka
+6\. Ann-Christin Höij, (adress borttagen), 434 32 Kungsbacka
 
-7\. Per-Arnold Höij, Björkgatan 3, 434 32 Kungsbacka
+7\. Per-Arnold Höij, (adress borttagen), 434 32 Kungsbacka
 
 Motpart
 Kungsbacka kommun
@@ -4078,7 +4078,7 @@ Avgörandet är elektroniskt undertecknat
 9
 6 1 Besöksadress   Öppettider   Postadress     E-post
 2
-5   Hamngatan 6    måndag–fredag Box 1070      mmd.vanersborg@dom.se
+5   Hamngatan 6    måndag–fredag Box 1070      (e-post borttagen)
 7
 d                  08:00–16:00  462 28 Vänersborg
 I   Telefon                                    Webbplats
@@ -4974,7 +4974,7 @@ Projektnamn
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -5230,7 +5230,7 @@ Ny    idrottshall           i Onsala
 
 Upprättad 2026-05-27
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 116 -->
 
@@ -5793,8 +5793,8 @@ bostäder     inom    Släps-Högås       1:25  m
 
 fl. i Kullavik
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 134 -->
 
@@ -5817,9 +5817,9 @@ Diarienummer: BN 2025-00046
 Påbörjad 2025-01-31
 
 Upprättad 2026-08-18
-Handläggare: Stina Wikström, planarkitekt, stina.wikstrom@kungsbacka.se
+Handläggare: Stina Wikström, planarkitekt, (e-post borttagen)
 
-Handläggare: Björn Vikström, planarkitekt, bjorn.vikstrom@kungsbacka.se
+Handläggare: Björn Vikström, planarkitekt, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -6838,7 +6838,7 @@ Diarienummer
 4051-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för (S53) bostäder  inom
 
@@ -6884,7 +6884,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer, med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 158 -->
@@ -7173,7 +7173,7 @@ Diarienummer
 2373-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  ändring  av detaljplan  för S53 inom
 
@@ -7218,7 +7218,7 @@ Att utöka byggrätten och skapa mer ändamålsenliga bestämmelser
 för bebyggelsen inom planområdet S53 med anledning av
 kommunalt vatten och spillvatten har byggts ut.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 166 -->
@@ -7448,11 +7448,11 @@ Upprättad 2026-08-18
 Diarienummer BN 2022–00024
 
 Handläggare
-Björn Vikström, Planarkitekt, bjorn.vikstrom@kungsbacka.se
+Björn Vikström, Planarkitekt, (e-post borttagen)
 
-Stina Wikström, Planarkitekt, stina.wikstrom@kungsbacka.se
+Stina Wikström, Planarkitekt, (e-post borttagen)
 
-Petter Martinsson, Exploateringsingenjör, petter.martinsson@kungsbacka.se
+Petter Martinsson, Exploateringsingenjör, (e-post borttagen)
 Planhandlingar
 
 •  Planbeskrivning (denna handling), 2026-08-18
@@ -8789,7 +8789,7 @@ Datum            Diarienummer
 2022-10-17       6845-2022
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Förslag till ändring av huvudmannaskap för del av
 detaljplan ÖP85, Ö54  och Ö22 i Åsa i Kungsbacka
@@ -8835,7 +8835,7 @@ en detaljplan för ett geografiskt område och det går därför inte att göra
 med den ursprungliga planen. Det innebär att ändringar görs i den
 ursprungliga planen vid en ändring av detaljplan. När ändringen har
 
-Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 205 -->
@@ -9095,7 +9095,7 @@ Datum            Diarienummer
 2022-12-15       8375-2022
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Förslag till detaljplan för ändring av huvudmannaskapet
 inom del av detaljplan Ö54, Öp 85 och Ö22  i Åsa i
@@ -9139,7 +9139,7 @@ Det bör anges i planbeskrivningen att åtgärder som kan skada
 naturmiljön i ett biotopskyddat område kräver dispens, vilket söks hos
 Länsstyrelsen och kan medges om det finns särskilda skäl.
 
-Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 H almstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 212 -->
@@ -9167,7 +9167,7 @@ Diarienummer
 2393-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för Ändring  av
 
@@ -9211,7 +9211,7 @@ Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 214 -->
@@ -9404,8 +9404,8 @@ Detaljplan     för  del  av  Gottskärsvägen
 
 inom    Skällared     s:5 m   fl i Onsala
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 220 -->
 
@@ -9427,9 +9427,9 @@ BN 2026-00027
 Påbörjad 2025-11-27
 Upprättad 2026-08-18
 
-Handläggare: Björn Vikström, planarkitekt, bjorn.vikstrom@kungsbacka.se
+Handläggare: Björn Vikström, planarkitekt, (e-post borttagen)
 
-Handläggare: Petter Martinsson, exploateringsingenjör, petter.martinsson@kungsbacka.se
+Handläggare: Petter Martinsson, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -10662,7 +10662,7 @@ Diarienummer
 4057-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för del av Gottskärsvägen
 
@@ -10703,7 +10703,7 @@ Detaljplanens överensstämmelse    med
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 249 -->
@@ -10946,7 +10946,7 @@ Diarienummer
 2377-2026
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för del av Gottskärsvägen
 
@@ -10992,7 +10992,7 @@ Att ge kommunen rådighet över del av Gottskärsvägen. Detaljplanen
 medför att huvudmannaskapet ändras för allmän plats från enskilt
 till kommunalt inom berörda delar av Gottskärsvägen.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 256 -->

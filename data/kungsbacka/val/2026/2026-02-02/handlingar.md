@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -126,7 +126,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 5 -->
@@ -1563,9 +1563,9 @@ Skickat:               den 4 december 2025 09:23
 Till:                  Valnämnden
 Ämne:                  VB: Inbjudan till regionala valkonferenser 2026
 
-Från: SKR Evenemang \<evenemang@skr.se>
+Från: SKR Evenemang \<(e-post borttagen)>
 Skickat: den 4 december 2025 09:02
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Inbjudan till regionala valkonferenser 2026
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1643,13 +1643,13 @@ Sveriges Kommuner och Regioner
 
 Vid frågor, kontakta SKR:s kontaktcenter:
 
-info@skr.se 08-452 70 00
+(e-post borttagen) 08-452 70 00
 
 Läs mer om hur vi behandlar personuppgifter
 
 <!-- sida 45 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 4 december 2025 08:58
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens sammanfattade nyheter v. 49
@@ -1693,7 +1693,7 @@ Valmyndigheten
 
 <!-- sida 46 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 22 januari 2026 11:27
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v_4
@@ -1733,12 +1733,12 @@ Valmyndigheten
 
 <!-- sida 47 -->
 
-Från:                  Myndigheten för delaktighet \<info@mfd.se>
+Från:                  Myndigheten för delaktighet \<(e-post borttagen)>
 Skickat:               den 20 januari 2026 11:43
 Till:                  Valnämnden
 Ämne:                  Tillgängliga val – stöd för kommunernas valarbete
 
-Du får inte ofta e-post från info@mfd.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -1794,253 +1794,253 @@ Vid frågor om vägledningen eller något annat som berör tillgänglighet för 
 funktionsnedsättning, kontakta Valmyndigheten.
 
 Myndigheten för delaktighet               Besök oss på
-Rosterigränd 12, 117 61 Stockholm         www.mfd.se
+(adress borttagen), 117 61 Stockholm         www.mfd.se
 Box: 47082, 100 74 Stockholm              Facebook
 Växel: 08-600 84 00                       LinkedIn
-info@mfd.se                               Instagram
+(e-post borttagen)                               Instagram
 
 <!-- sida 49 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 12 januari 2026 15:21
-Till:                  valnamnd@olofstrom.se; val@karlskrona.se; val@ronneby.se;
-val@karlshamn.se; valnamnden@solvesborg.se;
-valnamnd@svalov.se; valnamnden@svalov.se;
-valnamnden@staffanstorp.se; valnamnd@burlov.se;
-val@vellinge.se; lars.olin@vellinge.se; val@ostragoinge.se;
-michael.werner@orkelljunga.se; carita.gustafsson@orkelljunga.se;
-info@bjuv.se; susan.elmlund@bjuv.se; valnamnden@kavlinge.se;
-val@lomma.se; kristina.larsen@svedala.se;
-registrator.vn@svedala.se; kansli@skurup.se; valnamnd@sjobo.se;
-kommunen@horby.se; helena.sjoholm@hoor.se;
-kommun@tomelilla.se; Olof.hammar@tomelilla.se;
-valnamnden@bromolla.se; kommun@osby.se;
-valnamnden@perstorp.se; val@klippan.se;
-cecilia.christensen@klippan.se; val@arjeplog.se;
-kommunkansliet@avesta.se; valnamnden@boras.se;
-olof.nilsson@bastad.se; valnamnden@falun.se;
-annika.jansson@filipstad.se; valnamnd@finspang.se;
-valnamnden@flen.se; val@gnesta.se; alexander.helsing@grums.se;
-valnamnd@hallsberg.se; valnamnden@helsingborg.se; val@hjo.se;
-val@huddinge.se; val@hultsfred.se; val@harryda.se;
-gunilla.liljekvist@hassleholm.se; valnamnden@hassleholm.se;
-helena.sjoholm@hoor.se; valnamnd@karlskoga.se; val@kil.se;
-valkansli@knivsta.se; linn.carlsson@kristinehamn.se;
-peter.eskebrink@kristinehamn.se; val@krokom.se;
-val@kungsor.se; kommun@laxa.se; valnamnden@laxa.se;
+Till:                  (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
 
-valnamnd@lekeberg.se; valnamndenskansli@linkoping.se;
-anders.andersson@ljusnarsberg.se; sofia.ristrom@lulea.se;
-valnamnden@lycksele.se; hanna.karlsson@mala.se;
-val@mariestad.se; carl-henrik.ronge@molndal.se;
-valnamnden@molndal.se; kristiina.pousar@norberg.se;
-valnamnd@norberg.se; maria.syd@nordmaling.se;
-Bernhard.neuman@nybro.se; Emma.Faste@nybro.se;
-val@nykvarn.se; bert.runesson@savsjo.se; valnamnd@orsa.se;
-valnamnden@orust.se; kommun@osby.se; sandra.ahlbin@sala.se;
-val@skinnskatteberg.se; valnamnd@storfors.se; vn@storuman.se;
-kommun@stromsund.se; valnamnden@sundbyberg.se;
-catrin.hjalmarsson@sunne.se; val@soderhamn.se;
-valnamnd@soderkoping.se; val@sodertalje.se;
-valnamnden@solvesborg.se; valnamnd@timra.se; val@tjorn.se;
-Jorgen.flink@trelleborg.se; Val@Trelleborg.se;
-Trelleborgs.Kommun@Trelleborg.se;
-Daniel.Vagland@Trelleborg.se; lisa.cervin2@trelleborg.se;
-valnamnden@upplands-bro.se; lotta.vestin@uppsala.se;
-fredrik.zethraeus@uppsala.se; linn.einarsson@vetlanda.se;
-anna.bjorkman@vilhelmina.se; valnamnden@vimmerby.se;
-Vindelns.kommun@vindeln.se; Christine.Tidasen@vaxjo.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
 <!-- sida 50 -->
 
-valet@ystad.se; kommun@atvidaberg.se; kansli@alvsbyn.se;
-michael.werner@orkelljunga.se; carita.gustafsson@orkelljunga.se;
-kersti.ingemarsson@osthammar.se; valnamnden@osthammar.se;
-val@ostragoinge.se; valnamnd@overtornea.se; Ann-
-Charlott.Ahlm@skara.se; sonja.persson@soderhamn.se;
-Valnamnden@kristianstad.se; henrik.andersson@bastad.se;
-sara.sedin@bracke.se; val@ockero.se; gunnel.lundberg@timra.se;
-kommunledning@klippan.se;
-kommunstyrelseforvaltningen@astorp.se;
-Merih.ozbalci@astorp.se; olof.nilsson@bastad.se;
-valnamnden@malmo.se; gunnar.jonsson@lund.se;
-valnamnden@lund.se; valnamnden@landskrona.se;
-valnamnden@helsingborg.se; kommunen@hoganas.se;
-valnamnden@eslov.se; valet@ystad.se; Jorgen.flink@trelleborg.se;
-valnamnden@kristianstad.se; valnamnden@simrishamn.se;
-val@engelholm.se; gunilla.liljekvist@hassleholm.se;
-valnamnden@hassleholm.se; kommunen@hylte.se;
-val@halmstad.se; valnamnden@laholm.se;
-valnamnden@falkenberg.se; val@varberg.se; Valnämnden;
-val@harryda.se; val@stenungsund.se; val@tjorn.se;
-val@partille.se; valnamnden@orust.se; val@sotenas.se;
-val@munkedal.se; sofia.reimbert@tanum.se; val@dalsed.se;
-fargelanda.kommun@fargelanda.se; valnamnd@ale.se;
-valnamnd@lerum.se; kommunen@vargarda.se;
-kommunen@bollebygd.se; alexandra.gingfelt@bollebygd.se;
-katarina.tulliavonsydow@bollebygd.se; valnamnd@grastorp.se;
-val@essunga.se; karlsborg.kommun@karlsborg.se;
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); Ann-
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); Valnämnden;
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
-valnamnd@gullspang.se; anna.carlsson@tranemo.se;
-kommun@tranemo.se; veronica.ronnemo@tranemo.se;
-Anne.steine@tranemo.se; Kajsa.montan@tranemo.se;
-kommun@tranemo.se; val@bengtsfors.se;
-wilhelm.bodmark@mellerud.se; maria.olegard@lillaedet.se;
-val@lillaedet.se; ks@mark.se; valnamnd@svenljunga.se;
-herrljunga.kommun@herrljunga.se;
-charlotte.backstrom.utbult@ockero.se; kommun@ockero.se;
-val@vara.se; val@gotene.se; kommun@tibro.se; val@toreboda.se;
-valnamnden@valkansliet.goteborg.se; carl-
-henrik.ronge@molndal.se; valnamnden@molndal.se;
-val@kungalv.se; mari-louise.dunert@lysekil.se; val@uddevalla.se;
-49nyman@telia.com; ulrika.haugland@stromstad.se;
-val@vanersborg.se; per.gertow@trollhattan.se;
-Kristina.zanhar@alingsas.se; kommunstyrelsen@alingsas.se;
-valnamnden@boras.se; valnamnd@ulricehamn.se; val@amal.se;
-val@mariestad.se; valnamnden@lidkoping.se; valnamnd@skara.se;
-val@skovde.se; val@hjo.se; valnamnd@tidaholm.se;
-tidaholms.kommun@tidaholm.se; kommunen@falkoping.se;
-val@kil.se; kommun@eda.se; valn@torsby.se;
-valnamnd@storfors.se; val@hammaro.se; kommun@munkfors.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); carl-
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
 
 <!-- sida 51 -->
 
-valnamnd@forshaga.se; lina.bryske-morin@grums.se;
-martin.hector@grums.se; louise.eklundkarlsson@grums.se;
-Maria.Kumm@grums.se; agnetavarmskog@gmail.com;
-Val@arjang.se; catrin.hjalmarsson@sunne.se; val@karlstad.se;
-linn.carlsson@kristinehamn.se; peter.eskebrink@kristinehamn.se;
-annika.jansson@filipstad.se; kommun@hagfors.se;
-arvika.kommun@arvika.se; mia.nilsson@arvika.se;
-Gustav.Weingartshofer@saffle.se;
-anders.andersson@ljusnarsberg.se; ann-britt.lindahl@laxa.se;
-uk.fintling@telia.com; valnamnd@lekeberg.se; kommun@laxa.se;
-valnamnden@laxa.se; valnamnd@hallsberg.se;
-kommun@degerfors.se; val@degerfors.se; kommun@hellefors.se;
-valnamnden@orebro.se; kommun@kumla.se;
-valnamnden@askersund.se; valnamnd@karlskoga.se;
-nora.kommun@nora.se; kommun@lindesberg.se;
-erika.johansson@lindesberg.se; anna.nilsson@lindesberg.se;
-pontus.andersson@lindesberg.se; val@skinnskatteberg.se;
-val@kungsor.se; valnamnd@hallstahammar.se;
-kristiina.pousar@norberg.se; valnamnd@norberg.se;
-kommunen@surahammar.se; valnamnden@vasteras.se;
-Armine.Kanakanian@sala.se; kommun.info@sala.se;
-val@fagersta.se; val@koping.se; val@arboga.se; val@alvdalen.se;
-kommun@alvdalen.se; sofia.eriksson@alvdalen.se;
-val@vansbro.se; val@malung-salen.se; mats.gustafsson@malung-
-salen.se; bln@du.se; val@gagnef.se; val@leksand.se;
-val@rattvik.se; valnamnd@orsa.se; karin.olsson@alvdalen.se;
-ulla.look-larsson@alvdalen.se; mona.hyttsten@smedjebacken.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); mats.gustafsson@malung-
+salen.se; (e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
-val@mora.se; valnamnden@falun.se; send@brunokaufmann.email;
-valnamnden@borlange.se;
-margareta.jakobsson@kommun.sater.se; val@hedemora.se;
-kommunkansliet@avesta.se; val@ludvika.se; kommun@ockelbo.se;
-valnamnd@ovanaker.se; hakanwbg@gmail.com;
-kommun@nordanstig.se; annc.sundberg@hofors.se;
-hofors.kommun@hofors.se; valkansli@ljusdal.se;
-valnamnden@gavle.se; gunilla.gillstrom@sandviken.se;
-valinfo@sandviken.se; val@soderhamn.se; val@bollnas.se;
-annika.forslin@hudiksvall.se; val@hudiksvall.se;
-valnamnden@ange.se; valnamnd@timra.se; val@harnosand.se;
-ingela.lindqvist@sundsvall.se; sundsvalls.kommun@sundsvall.se;
-karin.sjolund@kramfors.se; valnamnden@solleftea.se;
-anna.thors@ornskoldsvik.se; linda.blomstrom@ornskoldsvik.se;
-anneli.von.wachenfeldt@ornskoldsvik.se;
-mattias.oberg@ornskoldsvik.se;
-sofia.johansson.hannsberger@ornskoldsvik.se;
-ragunda.kommun@ragunda.se; camilla.samuelsson@bracke.se;
-malin.johansson@bracke.se; val@krokom.se;
-kommun@stromsund.se; val@are.se; bergs.kommun@berg.se;
-valnamnden@herjedalen.se; valnamnd@ostersund.se;
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
 <!-- sida 52 -->
 
-maria.syd@nordmaling.se; val@bjurholm.se;
-kommunen@bjurholm.se; Vindelns.kommun@vindeln.se;
-val@robertsfors.se; harrieth.lindberg@robertsfors.se;
-valnamnd@norsjo.se; hanna.karlsson@mala.se; vn@storuman.se;
-val@sorsele.se; magdalena.eliasson@dorotea.se;
-asa.nilsson@dorotea.se; val@vannas.se;
-susanna.siljetun@vannas.se; ulrika.osterstrom@vilhelmina.se;
-administrativa@asele.se; val@umea.se; valnamnden@lycksele.se;
-val@skelleftea.se; valnamnd@arvidsjaur.se; kommun@arjeplog.se;
-val@jokkmokk.se; val@overkalix.se; valnamnd@kalix.se;
-valnamnd@overtornea.se; val@pajala.se; kommun@pajala.se;
-valnamnden@gallivare.se; sandra.vistrom@alvsbyn.se;
-inger.faltros.lundgren@lulea.se; val@lulea.se;
-Margareta.Johansson@pitea.se; kommun@pitea.se; jan-
-olov.backlund@boden.se; anna.m.nilsson@boden.se;
-carina.hallnor@boden.se; valnamnd@boden.se;
-kommun@haparanda.se; valnamnd@kiruna.se;
-val@upplandsvasby.se; val@vallentuna.se; val@osteraker.se;
-valnamnden@varmdo.se; valnamnden@jarfalla.se;
-valadministration@ekero.se; val@huddinge.se; val@botkyrka.se;
-ksf@salem.se; val@haninge.se; val@tyreso.se;
-valnamnden@upplands-bro.se; val@nykvarn.se; kc@taby.se;
-rolf.lundgren@danderyd.se; valnamnden@danderyd.se;
-val@sollentuna.se; oskar.eklund@sollentuna.se;
-eva.debels@stockholm.se; valnamnden@stockholm.se;
-val@sodertalje.se; valnamnden@nacka.se;
-valnamnden@sundbyberg.se; val@solna.se; val@lidingo.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); jan-
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
 
-valkansliet@vaxholm.se; valadministration@norrtalje.se;
-Laila.lindroth@norrtalje.se; val@sigtuna.se;
-valnamnden@nynashamn.se; kommunstyrelsen@habo.se;
-kommun@alvkarleby.se; valkansli@knivsta.se;
-Karin.eljansbo@heby.se; val@heby.se; val@tierp.se;
-annette.oqvist@uppsala.se; valnamnden@uppsala.se;
-valnamnd@enkoping.se; kersti.ingemarsson@osthammar.se;
-valnamnden@osthammar.se; asa.tingstrom@uppsala.se;
-kommunstyrelsen@vingaker.se; josefin.frank@vingaker.se;
-val@gnesta.se; valnamnden@nykoping.se; val@oxelosund.se;
-valnamnden@flen.se; marie.SandstromKoski@katrineholm.se;
-val@eskilstuna.se; andreas.lindbom@eskilstuna.se;
-sabine.jensen@eskilstuna.se; sara.jecic@eskilstuna.se;
-malin.akerblom@strangnas.se; val@strangnas.se; val@trosa.se;
-dan.larson@politik.trosa.se; monica.kastensson@ydre.se;
-helena.eklof@ydre.se; kinda@kinda.se; valkansliet@boxholm.se;
-kommun@atvidaberg.se; valnamnd@finspang.se;
-val@valdemarsvik.se; valnamndenskansli@linkoping.se;
-valnamnden@norrkoping.se; valnamnd@soderkoping.se;
-valnamnd@motala.se; vadstena.kommun@vadstena.se;
-martin.berry@vadstena.se; mjolbykommun@mjolby.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
 <!-- sida 53 -->
 
-magdalena.lindberg@odeshog.se; kommun@odeshog.se;
-hanna.andersson@varnamo.se; christian.bagan@gnosjo.se;
-valnamnden@aneby.se; Lena.Arnoldsson@mullsjo.se;
-joel.westergren@mullsjo.se; val@habokommun.se;
-valnamnd@gislaved.se; kommunstyrelsen@vaggeryd.se;
-valnamnd@jonkoping.se; kommunstyrelsen@nassjo.se;
-hanna.andersson@varnamo.se; marta.k.blomberg@varnamo.se;
-bert.runesson@savsjo.se; rachel.cameron-strickland@vetlanda.se;
-julia.bergenblad@vetlanda.se; caroline.andersson2@vetlanda.se;
-christina.liljeras@vetlanda.se; arne.larsson@vetlanda.se;
-val@vetlanda.se; hanna.pansell-edvardsson@eksjo.se;
-helena.lundborg@eksjo.se; kurre.carlson.po@tranas.se;
-kansli@tranas.se; eva.klahr@tranas.se; vn@uppvidinge.se;
-val@lessebo.se; kommunen@tingsryd.se; val@alvesta.se;
-vn@almhult.se; marie.larsson@markaryd.se;
-valnamnden@markaryd.se; valnamnden@vaxjo.se;
-valnamnden@ljungby.se; valnamnd@hogsby.se; info@torsas.se;
-kommun@morbylanga.se; val@hultsfred.se;
-kommun@monsteras.se; valkansli@emmaboda.se;
-Chatrine.Schander-Ljungquist@politiker.emmaboda.se;
-Shahram.Behrouz@emmaboda.se;
-maria.henningsson@emmaboda.se;
-anneli.karlsson2@emmaboda.se; valkansli@kalmar.se;
-ann.gustafsson@kalmar.se; klara.asp@kalmar.se;
-Bernhard.neuman@nybro.se; Emma.Faste@nybro.se;
-kommunstyrelsen@oskarshamn.se; valnamnden@vastervik.se;
-vasterviks.kommun@vastervik.se; valnamnden@vimmerby.se;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen);
+(e-post borttagen);
+(e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
 
-kennertgeorgsson@hotmail.com; kommun@borgholm.se;
-valnamnd@gotland.se; marit.rabock@bracke.se;
-ingela.blomqvist@bracke.se; Bjorn.Kullander@skr.se;
-Martin.Lidhamn@skr.se; Brev: Val Press; Brev: Val Webmaster;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); Brev: Val Press; Brev: Val Webmaster;
 Brev: Val Lst; Brev: Val Nyheter Valcentralen; Intern: Juristteamet
 Valmyndigheten
 Ämne:                  Valmyndighetens nyhetsbrev v_3
@@ -2057,7 +2057,7 @@ Moderniserad förtidsröstning, 14 januari
 Sändningen kommer som vanligt att spelas in och ligga kvar, utan chatt, i 14 dagar på samma länk.
 
 Och så ett förtydligande; när vi säger att ni ska kontakta Valmyndigheten via ”ingång till kommun” är det
-denna mailadress vi syftar till, dvs valadm@val.se. Varmt välkomna att höra av er!
+denna mailadress vi syftar till, dvs (e-post borttagen). Varmt välkomna att höra av er!
 
 <!-- sida 54 -->
 

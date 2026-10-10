@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -320,7 +320,7 @@ och     utveckling          av   näringslivet           i
 
 Kungsbacka
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -912,7 +912,7 @@ jämförelse                 av    fem        modeller
 
 2025-04-23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 25 -->
 
@@ -1564,7 +1564,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Mårten Västerdal       Patrik Johansson
 Samhällsplanerare      Kommunsekreterare                      Besöksadress
 Stadshuset, Storgatan 37
-marten.vasterdal@kungsbacka.se patrik.johansson2@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -1640,7 +1640,7 @@ omhändertagande
 
 2026-05-29
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 42 -->
 
@@ -2141,7 +2141,7 @@ April 2026
 Patrik Johansson
 Kommunsekreterare
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -3203,15 +3203,15 @@ LägSt.......:
 HÖGST = msec: rå
 
 STYRELSELEDAMOT, ORDFÖRANDE
-770322-3953 Engelbrektsson,
+(personnummer borttaget) Engelbrektsson,
 443 32 LERUM
 
 STYRELSELEDAMÖTER
-780623-6647 Barkarmo,
+(personnummer borttaget) Barkarmo,
 413 15 GÖTEBORG
 
 STYRELSESUPPLEANTER
-820821-4703 Johannesson,
+(personnummer borttaget) Johannesson,
 413 07 GÖTEBORG
 
 REVISOR (ER)
@@ -3232,14 +3232,14 @@ Elisabeth, Eldaregatan 2 C Lgh 1001,
 
 Kastellgatan 19 B Lgh 1302,
 
-556029-6740 Öhrlings PricewaterhouseCoopers AB, Torsgatan 21,
+556029-6740 Öhrlings PricewaterhouseCoopers AB, (adress borttagen),
 
 113 97 STOCKHOLM
 Representeras av:
 
 D1a- 13890016
 
-830617-0716
+(personnummer borttaget)
 
 <!-- sida 74 -->
 
@@ -3258,7 +3258,7 @@ Dokumentet skapat Sida
 2026-05-04 13:09 2 (2)
 
 HUVUDANSVARIG REVISOR
-830617-0716 Belogorcev, Konstantin, PwC, 405 32 GÖTEBORG
+(personnummer borttaget) Belogorcev, Konstantin, PwC, 405 32 GÖTEBORG
 
 Firmateckning
 
@@ -4427,7 +4427,7 @@ Projektnamn
 Projektbeställning för Åsa 3:339
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se 0300 83 77 83
+Lovisa Eld                       (e-post borttagen) 0300 83 77 83
 
 Status
 Beställningen är                 Datum
@@ -6061,10 +6061,10 @@ Upprättad 2026-05-13
 
 Handläggare:
 
-Stina Wikström, planarkitekt, stina.wikstrom@kungsbacka.se
-Emma Johansson, planarkitekt, emma.johansson@kungsbacka.se
+Stina Wikström, planarkitekt, (e-post borttagen)
+Emma Johansson, planarkitekt, (e-post borttagen)
 
-Susanne Calming, exploateringsingenjör, susanne.calming@kungsbacka.se
+Susanne Calming, exploateringsingenjör, (e-post borttagen)
 
 Tidplan  Samråd            kvartal tre 2026
 
@@ -8476,7 +8476,7 @@ Ny    idrottshall           i Onsala
 
 Upprättad 2026-05-27
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 214 -->
 
@@ -9227,8 +9227,8 @@ E-postadress                      Mobiltelefon
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #269118 | Inskickat av: | Datum: 2026-03-18 15:24 Sida 1 av 4
 
@@ -9243,7 +9243,7 @@ Utdelningsadress                  Postnummer
 Datavägen 14A                     436 32
 
 Postort                           Telefon
-Askim                             0722181020
+Askim                             (mobilnummer borttaget)
 
 E-postadress                      Eventuell fakturareferens
 \-                                 -
@@ -9262,8 +9262,8 @@ Fastighetsbeteckning                 Fastighetens adress
 
 Kungsbacka Bröndome 1:3               Kärrabergsvägen 85
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #269118 | Inskickat av: | Datum: 2026-03-18 15:24 Sida 2 av 4
 
@@ -9289,8 +9289,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #269118 | Inskickat av: | Datum: 2026-03-18 15:24 Sida 3 av 4
 
@@ -9303,8 +9303,8 @@ Fullmakt ansökan om planbesked.pdf (581 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #269118 | Inskickat av: JULIA MAGNUSSON | Datum: 2026-03-18 15:24 Sida 4 av 4
 
@@ -10328,8 +10328,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #267191 | Inskickat av: | Datum: 2026-03-11 16:26 Sida 1 av 3
 
@@ -10376,15 +10376,15 @@ Ansökan om planbesked 20260311.docx (21 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #267191 | Inskickat av: | Datum: 2026-03-11 16:26 Sida 2 av 3
 
 <!-- sida 297 -->
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #267191 | Inskickat av: | Datum: 2026-03-11 16:26 Sida 3 av 3
 
@@ -10669,7 +10669,7 @@ Länsstyrelsen i Hallands län
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -10786,7 +10786,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10819,7 +10819,7 @@ Med stöd av 7 kap. 7 § första stycket miljöbalken, upphäver Länsstyrelsen 
 om förordnande om landskapsbildskydd enligt 19 § naturvårdslagen daterat den 7
 augusti 1972 (dnr. 11.126-2259-71) för den del av det landskapsbildsskyddade området
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 
 www.lansstyrelsen.se/halland/personuppgifter
 
@@ -11978,12 +11978,12 @@ samt skötselplan.
 
 Förslaget översänds för eventuella synpunkter som ska vara inkomna senast
 den 26 juni 2026. Yttrandet skickas till Länsstyrelsen, 301 86 Halmstad eller till
-halland@lansstyrelsen.se. Ange ärendets diarienummer,
+(e-post borttagen). Ange ärendets diarienummer,
 511-6648-2011, i ditt yttrande.
 
 Om du har frågor eller vill ha ytterligare information om ärendet är du
 välkommen att kontakta Sanna Persson
-(010 - 224 34 73, sanna.persson@lansstyrelsen.se).
+(010 - 224 34 73, (e-post borttagen)).
 
 Henrik Martinsson
 naturvårdsdirektör
@@ -11993,7 +11993,7 @@ naturvårdshandläggare
 Detta beslut har godkänts digitalt och saknar därför namnunderskrifter.
 
 Postadress    Besöksadress E-post         Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 349 -->
 
@@ -12001,49 +12001,49 @@ REMISS                   2 (2)
 2026-04-27    Dnr 511-6648-2011
 
 Sändlista
-Kungsbacka kommun, kommun@kungsbacka.se
+Kungsbacka kommun, (e-post borttagen)
 
-Skogsstyrelsen, registrator@skogsstyrelsen.se
-Lantmäteriet, registrator@lm.se
+Skogsstyrelsen, (e-post borttagen)
+Lantmäteriet, (e-post borttagen)
 
-Lantbrukarnas riksförbund, LRF Halland, halland@lrf.se
-Mellersta Götalands jordägareförening, skog@jordagarna.se
+Lantbrukarnas riksförbund, LRF Halland, (e-post borttagen)
+Mellersta Götalands jordägareförening, (e-post borttagen)
 Hallands botaniska förening, ordförande Börje Wernersson,
-borje.wernersson@gmail.com
+(e-post borttagen)
 
 Hallands naturskyddsförening, ordförande Anders Tullander,
-anders@tullander.se
-Naturskyddsföreningen Kungsbacka, kungsbacka@naturskyddsforeningen.se
+(e-post borttagen)
+Naturskyddsföreningen Kungsbacka, (e-post borttagen)
 
-Jägareförbundet Halland, halland@jagareforbundet.se
-Sveriges geologiska undersökning, SGU, sgu@sgu.se
+Jägareförbundet Halland, (e-post borttagen)
+Sveriges geologiska undersökning, SGU, (e-post borttagen)
 
-Ellevio, RES.Elleviofysiskplanering@ellevio.se
+Ellevio, (e-post borttagen)
 Lars Tommy Eliasson & Berit Ingeborg Halvordsson, Peder Skrivares väg
 18A lgh 1102, 432 44 Varberg
-Sara & John Swartling Hogsten, Murkelvägen 208, 184 34 Åkersberga
+Sara & John Swartling Hogsten, (adress borttagen), 184 34 Åkersberga
 
-Jan Sigvardsson, Drängseredsvägen 46, 448 35 Floda
-Gudrun Andersson, Boatorpsvägen 80, 439 63 Frillesås
-Malou Johansson, Skrotta Glamsjövägen 309, 439 64 Frillesås
+Jan Sigvardsson, (adress borttagen), 448 35 Floda
+Gudrun Andersson, (adress borttagen), 439 63 Frillesås
+Malou Johansson, Skrotta (adress borttagen), 439 64 Frillesås
 
-Irene Christensen & Andreas Fritiofsson, Flögetvägen 20, 439 64 Frillesås
-Lena Sidestam, Ängsäters gränd 3 lgh 1403, 436 57 Hovås
+Irene Christensen & Andreas Fritiofsson, (adress borttagen), 439 64 Frillesås
+Lena Sidestam, (adress borttagen), 436 57 Hovås
 
-Monika & Lars Svensson, Tärneskärsgatan 32, 421 57 Västra Frölunda
-Pia Andersson, Flögetvägen 14, 439 64 Frillesås
-Marie & Bo Johansson, Sikelgatan 8 lgh 1102, 414 81 Göteborg
+Monika & Lars Svensson, (adress borttagen), 421 57 Västra Frölunda
+Pia Andersson, (adress borttagen), 439 64 Frillesås
+Marie & Bo Johansson, (adress borttagen), 414 81 Göteborg
 
-Hans & Carina Johansson, Johan Oscars väg 8, 439 62 Frillesås
+Hans & Carina Johansson, Johan (adress borttagen), 439 62 Frillesås
 Fastigheten Frillesås 4:10 AB, Box 9252, 400 96 Göteborg
-Erik Linder & Marita Börjesson, Fringshultsvägen 8, 439 63 Frillesås
+Erik Linder & Marita Börjesson, (adress borttagen), 439 63 Frillesås
 
-Antoinette Johansson, Trutvägen 2, 432 66 Veddige
-Martin Johansson, Fringshultsvägen 152, 439 63 Frillesås
-Victorssons Fastigheter AB, Almedalsvägen 182, 439 63 Frillesås
+Antoinette Johansson, (adress borttagen), 432 66 Veddige
+Martin Johansson, (adress borttagen), 439 63 Frillesås
+Victorssons Fastigheter AB, (adress borttagen), 439 63 Frillesås
 
 Postadress    Besöksadress E-post         Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 350 -->
 
@@ -12234,7 +12234,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12970,7 +12970,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -15763,7 +15763,7 @@ en sådan förbindelse en naturlig och prioriterad åtgärd.
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -19058,7 +19058,7 @@ kommun. Kommunen förutsätter därför former för tidig samverkan mellan kommu
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -23260,7 +23260,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
 Stadshuset, Storgatan 37
-Patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 

@@ -41,7 +41,7 @@ ordförande                        sekreterare
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -152,7 +152,7 @@ Nämnden har inga invändningar mot de förslagna formuleringarna.
 1 (1)
 Valnämnden                                                Kungsbacka kommun
 434 81 Kungsbacka
-valnamnden@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -206,7 +206,7 @@ statsvetenskapliga institutionen)
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 6 -->
 
@@ -271,8 +271,8 @@ institutionen)
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 22
 
 augusti 2024. Svaren bör lämnas per e-post till
-ju.remissvar@regeringskansliet.se och med kopia till
-benny.lindholm.narlinge@regeringskansliet.se. Ange diarienummer
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer
 Ju2024/00970 och remissinstansens namn i ämnesraden på e-
 
 postmeddelandet.
@@ -1286,13 +1286,13 @@ Utestängning Hela fastigheten stängs. Utlyses av ansvarig.
 
 <!-- sida 31 -->
 
-Från:           Max Andersson \<max.andersson@val.se>
+Från:           Max Andersson \<(e-post borttagen)>
 Skickat:        den 29 maj 2024 14:18
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 22
 Bifogade filer: Checklista säkerhet EUvalet 20240521.pdf
 
-Du får inte e-post ofta från max.andersson@val.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -1377,12 +1377,12 @@ LÄNSSTYRELSEN I HALLANDS LÄN
 
 Anslås på kommunernas anslagstavlor senast den 8 juni 2024.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 34 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 21 maj 2024 16:28
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 21 (1)
@@ -1446,7 +1446,7 @@ www.val.se
 
 <!-- sida 36 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 15 maj 2024 13:45
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 20

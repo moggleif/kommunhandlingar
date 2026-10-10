@@ -38,7 +38,7 @@ Särö Kullavik IF, Idrottsgången 2
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -207,7 +207,7 @@ vissa fall även exploatering och kriminalitet, vilket gör frågan angelägen a
 1 (3)
 "[Skriv nämndens namn]"                                   Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7603,7 +7603,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den
 10 december.
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-223
-14 59 eller via e-post jonas.melinder@lansstyrelsen.se.
+14 59 eller via e-post (e-post borttagen).
 Vänlig hälsning, Jonas Melinder
 Bilagor: Enkät i pdf-format.
 
@@ -7637,7 +7637,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den 10 dec
 
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-2231459 eller via e-post
-Jonas.Melinder@lansstyrelsen.se.
+(e-post borttagen).
 Det går även bra att ringa till Länsstyrelsens växel. Telefonnummer finns längst ner på första sidan.
 
 Vänlig hälsning, Jonas Melinder
@@ -8871,7 +8871,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 219 -->
 
@@ -8991,8 +8991,8 @@ för mänskliga rättigheter och humanitär rätt)
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 3
 november 2025. Svaren bör lämnas per e-post till
 
-ju.remissvar@regeringskansliet.se och med kopia till
-ju.L4@regeringskansliet.se. Ange diarienummer Ju2025/01510 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer Ju2025/01510 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -9034,7 +9034,7 @@ Kansliråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -9395,9 +9395,9 @@ Diarienummer BN 2023-00211
 Påbörjad 2023-11-08
 
 Upprättad 2025-06-09
-Handläggare: Emma Johansson, planarkitekt, emma.johansson@kungsbacka.se
+Handläggare: Emma Johansson, planarkitekt, (e-post borttagen)
 
-Handläggare: Petter Martinsson, exploateringsingenjör, petter.martinsson@kungsbacka.se
+Handläggare: Petter Martinsson, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -11202,8 +11202,8 @@ Informationsträff:
 Torsdag 11 september klockan 16:00 – 18:00 finns tjänstepersoner på plats
 vid planområde vid Bukärrsvägen för att svara på frågor.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 274 -->
 
@@ -11216,7 +11216,7 @@ ha dina synpunkter.
 Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
@@ -11339,8 +11339,8 @@ Detaljplan    för  bostäder     inom    Kungsbacka
 
 6:8  i Kungsbacka
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 278 -->
 
@@ -11391,9 +11391,9 @@ Diarienummer BN 2023-00038
 Påbörjad 2023-02-27
 Upprättad 2025-05-20
 
-Handläggare: Maria Brink, planarkitekt, maria.brink@kungsbacka.se
+Handläggare: Maria Brink, planarkitekt, (e-post borttagen)
 
-Handläggare: Fortesa Bytyqi, exploateringsingenjör, fortesa.bytyqi@kungsbacka.se
+Handläggare: Fortesa Bytyqi, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -13064,7 +13064,7 @@ Förvaltningschef
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Malin Fjellström
-0703834534                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Controller Förvaltning                                   Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

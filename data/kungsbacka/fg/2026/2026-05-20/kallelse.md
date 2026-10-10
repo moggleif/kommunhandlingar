@@ -39,7 +39,7 @@ Kungsbackarummet, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -83,7 +83,7 @@ ordförande                        sekreterare
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 10. | Revidering av regler för<br>skolskjuts<br>Kl 18:35-18:55<br>Frida Byrsten, verksamhetschef | FG-2026-00260 | Nämndens regler för skolskjuts aktualitetsprövas<br>årligen. I samband med årets översyn har<br>förvaltningen bland annat följt upp tidigare<br>genomförda förändringar. |
-| 11. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>Särövägen 339, 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
+| 11. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>(adress borttagen), 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
 | 12. | Ansökan från<br>Förskolekooperativet<br>Myrstacken i Åsa Ekonomisk<br>förening gällande permanent<br>utökning av barnantal på<br>förskolan Myrstacken | FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Förskolekooperativet Myrstacken i<br>Åsa Ekonomisk förening gällande ansökan om<br>utökning på förskolan Myrstacken, Kumlabacken<br>9, 439 53 Åsa om permanent utökning till totalt<br>22 barn. |
 | 13. | Delegeringsbeslut antagna av<br>nämnden 2026 | FG-2026-00018 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 | 14. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:55- 19:15<br>Stigert Pettersson,<br>förvaltningschef<br>Gustav Sjöström, ekonomichef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

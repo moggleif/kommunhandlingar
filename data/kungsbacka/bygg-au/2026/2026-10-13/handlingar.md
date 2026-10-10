@@ -89,7 +89,7 @@ Detaljplan för bostäder inom fastigheten Ölmanäs 6:80 i Åsa
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -622,9 +622,9 @@ bygglagen 2010:900.
 
 Handläggare
 
-Sofia Wiman, Planarkitekt, sofia.wiman@kungsbacka.se
+Sofia Wiman, Planarkitekt, (e-post borttagen)
 0300-83 49 24
-Lena Melvinsdotter, Exploateringsingenjör, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, Exploateringsingenjör, (e-post borttagen)
 
 0300-83 42 68
 
@@ -3433,7 +3433,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 84 -->
@@ -3447,7 +3447,7 @@ Diarienummer
 9323-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Antagen   detaljplan för blandad   stadsbebyggelse
 
@@ -3493,7 +3493,7 @@ kompletterande geotekniskt underlag. Länsstyrelsen har remitterat
 ett yttrande. Kommunen har fått ta del av SGI:s yttrande och getts
 möjlighet att yttra sig inför länsstyrelsens beslut.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 86 -->
@@ -3645,7 +3645,7 @@ Yttrande från SGI daterat 2026-02-04, Aktbilaga 5.1
 
 Kopia till:
 
-SGI, sgi@sgi.se
+SGI, (e-post borttagen)
 
 <!-- sida 89 -->
 
@@ -3661,7 +3661,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -3691,7 +3691,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 
 Behöver ni veta mer?
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 9323-2025.
 
 <!-- sida 90 -->
@@ -4490,7 +4490,7 @@ Väg & Bana
 Team Geoteknik
 
 Elham Sokhango               Katarina Engerberg
-Elham.sokhango@norconsult.com Katarina.engerberg@norconsult.com
+(e-post borttagen) (e-post borttagen)
 
 | Sida 22 av 22
 

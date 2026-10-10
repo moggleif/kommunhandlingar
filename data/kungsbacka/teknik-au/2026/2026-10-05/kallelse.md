@@ -37,7 +37,7 @@ Onsalarummet, Storgatan 37
 
 Simon Nissen                                                 Kungsbacka kommun
 Teknik Stöd & Styrning                                        434 81 Kungsbacka
-simon.nissen@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -202,7 +202,7 @@ Kungsbacka       kommun
 
 Version till kommunstyrelsens arbetsutskott 2026–05–19
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -868,7 +868,7 @@ Bilaga:
 Budgetunderlaget 2027 plan 2028 - 2029
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
-Storgöteborg  031-335 26 00 raddningstjansten@rsgbg.se Box 5204 Åvägen 2 5853-4009
+Storgöteborg  031-335 26 00 (e-post borttagen) Box 5204 Åvägen 2 5853-4009
 Telefax:   Hemsida:        402 24 GÖTEBORG Org. nr
 031-335 27 71 www.rsgbg.se             222000-0752
 
@@ -1862,7 +1862,7 @@ MISSIV
 Ekonomienheten                   Utfärdat     2026-03-19
 Marie Karlsson                   Diarienummer 2025/541
 Ekonomichef
-marie.karlsson@rsgbg.se          Medlemskommunerna
+(e-post borttagen)          Medlemskommunerna
 031-335 2885
 
 Budgetunderlag för verksamhetsåret 2027 och
@@ -1888,7 +1888,7 @@ Beslut om budget fattas i förbundsstyrelsen den 9 september och i förbundsfull
 29 september.
 
 Kontaktperson i ärendet är:
-Marie Karlsson, Ekonomichef, marie.karlsson@rsgbg.se, tel 031-335 2885
+Marie Karlsson, Ekonomichef, (e-post borttagen), tel 031-335 2885
 
 Robert Karlsson
 Förbundsdirektör
@@ -1896,16 +1896,16 @@ Förbundsdirektör
 <!-- sida 45 -->
 
 Sändlista:
-Göteborgs stad - stadsledningskontoret@stadshuset.goteborg.se
-Härryda kommun - kommun@harryda.se
-Kungsbacka kommun - kommun@kungsbacka.se
-Lerums kommun - kommun@lerum.se
-Lilla Edets kommun – kommunen@lillaedet.se
+Göteborgs stad - (e-post borttagen)
+Härryda kommun - (e-post borttagen)
+Kungsbacka kommun - (e-post borttagen)
+Lerums kommun - (e-post borttagen)
+Lilla Edets kommun – (e-post borttagen)
 
-Mölndals stad - stad@molndal.se
-Partille kommun - kundcenter@partille.se
-Stenungsunds kommun – kommun@stenungsund.se
-Tjörns kommun – tjorns.kundcenter@tjorn.se
+Mölndals stad - (e-post borttagen)
+Partille kommun - (e-post borttagen)
+Stenungsunds kommun – (e-post borttagen)
+Tjörns kommun – (e-post borttagen)
 
 2(2)
 
@@ -1917,7 +1917,7 @@ OBragn.k Ngirr o2 252805030--04700592
 Verksamhetsstöd              Utfärdat      2026-02-16
 Marie Karlsson               Presidiet     2026-02-27
 Ekonomichef                  Förbundsstyrelse 2026-03-11
-marie.karlsson@rsgbg.se      Förbundsfullmäktige 2026-03-31
+(e-post borttagen)      Förbundsfullmäktige 2026-03-31
 Diarienummer  2025/541
 
 Remiss  underlag   till budget 2027   plan 2028-

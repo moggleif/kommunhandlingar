@@ -252,7 +252,7 @@ www.kungsbacka.se
 
 <!-- sida 9 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 19 juni 2025 10:49
 Till:                  Brev: Val ValAdm
 Ämne:                  Information från Valmyndigheten
@@ -313,7 +313,7 @@ www.val.se
 
 <!-- sida 11 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 21 maj 2025 11:43
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.21
@@ -350,9 +350,9 @@ Skickat:        den 27 augusti 2025 14:26
 
 Prioritet:      Hög
 
-Från: Göran Newberg \<goran.newberg@med.se>
+Från: Göran Newberg \<(e-post borttagen)>
 Skickat: den 26 augusti 2025 12:05
-Kopia: Göran Newberg \<goran.newberg@med.se>
+Kopia: Göran Newberg \<(e-post borttagen)>
 Ämne: Hemställan till valnämnden om samdistribution av valsedlar
 Prioritet: Hög
 
@@ -379,4 +379,4 @@ Tack på förhand.
 MED bästa hälsningar
 Göran Newberg
 Medborgerlig Samling
-0708-353171
+(mobilnummer borttaget)

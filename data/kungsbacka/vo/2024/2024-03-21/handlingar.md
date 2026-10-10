@@ -54,7 +54,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -1181,7 +1181,7 @@ Under året har ingen fråga från någon registrerad kommit till mig om förval
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
 2 Detta kan i sammanhanget likställas med känsliga personuppgifter inom vårdområdet.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -1316,11 +1316,11 @@ Beslutad av:    Nämnden för Vård & Omsorg
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 30 -->
 
@@ -1630,11 +1630,11 @@ Beslutad av:    Nämnden för Vård & Omsorg
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Vård & Omsorg
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 37 -->
 
@@ -1782,7 +1782,7 @@ Besöksadress
 Borgmästaregatan 5 A
 Telefon 0300-83 40 00
 Fax 0300-154 63
-vard.omsorg@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 41 -->
@@ -2051,7 +2051,7 @@ SPF:s Samrådsgrupp
 Kungsbacka kommun
 Ingemar Nordieng
 
-070-594 23 53
+(mobilnummer borttaget)
 ingemar.nordieng(AMgmail.com
 
 Till Vård & Omsorgsnämnden i Kungsbacka kommun
@@ -2187,11 +2187,11 @@ Beslutad av:    Nämnden för Vård & Omsorg, Dnr VO-2023-00265, 2024-03-21
 Gäller från:    2024-03-21
 
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -3171,7 +3171,7 @@ Beslutad av: Nämnden för Vård & Omsorg, 2024-03-21, §
 
 Gäller från: 2024-03-21
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 

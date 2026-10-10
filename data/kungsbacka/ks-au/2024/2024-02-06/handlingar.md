@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1333,11 +1333,11 @@ Beslutad av:   Kommunstyrelsen 23 januari 2024 § XX, Dnr KS 2023-00461, försla
 01-16
 Giltigt från:  2024-xx-xx
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 34 -->
 
@@ -1939,7 +1939,7 @@ Taxa      för   laddning          vid    Kungsbacka
 
 kommuns             publika        laddstolpar
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 57 -->
 
@@ -2010,7 +2010,7 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 Ansvarig förvaltning: [Klicka och skriv]
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2109,7 +2109,7 @@ Förvaltningen för tekniks tjänsteskrivelse, 2023-11-22
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4057,7 +4057,7 @@ aktörer.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4140,7 +4140,7 @@ Anna Hamrin
 Besöksadress
 Controller
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -5978,7 +5978,7 @@ prövar det överklagade beslutet. Om överklagan kommer in för sent avvisas de
 
 telefonnummer och gärna e-postadress, samt underteckna överklagan. Om det finns handlingar som
 stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning   av ärendet
 Ansökan registrerades 2023-03-29.

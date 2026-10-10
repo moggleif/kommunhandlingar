@@ -3353,11 +3353,11 @@ Beslutad av:    Nämnden för Vård & Omsorg, 2025-XX-XX § XX
 Gäller från:    202X-XX-XX
 
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -4498,7 +4498,7 @@ Utvecklingsledare     Kompetensförsörjning
 
 Förvaltningen    för  Vård  &  Omsorg
 
-hanna.vestklev@kungsbacka.se
+(e-post borttagen)
 
 0300-83     51 84
 
@@ -4685,7 +4685,7 @@ Besöksadress
 Borgmästaregatan 5 A
 Telefon 0300-83 40 00
 Fax 0300-154 63
-Vard.omsorg@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 115 -->
@@ -5146,7 +5146,7 @@ Borgmästaregatan 5 A
 Telefon 0300-83 40 00
 Fax 0300-154 63
 m
-roF                                                            vard.omsorg@kungsbacka.se
+roF                                                            (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 [Tabell 124-1](handlingar.tabeller/124-1.csv)
@@ -5498,7 +5498,7 @@ Besöksadress
 Borgmästaregatan 5 A
 Telefon 0300-83 40 00
 Fax 0300-154 63
-Vard.omsorg@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 131 -->

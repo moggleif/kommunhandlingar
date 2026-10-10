@@ -39,7 +39,7 @@ Andrea Egerlundh                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37
-andrea.egerlundh@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -206,7 +206,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -275,8 +275,8 @@ arbetet med planrevideringen.
 Formalia
 För skriftliga inspel gäller följande:
 
-• Inspel mailas till anna.gustafsson@goteborgsregionen.se med kopia till
-diarium@goteborgsregionen.se
+• Inspel mailas till (e-post borttagen) med kopia till
+(e-post borttagen)
 • Inspel ska inkomma till GR senast 2024-09-13.
 
 • Markera tydligt att ärendet tillhör GR:s diarienummer FS2023–00311.
@@ -285,7 +285,7 @@ Frågor
 
 Vid eventuella frågor är ni välkomna att kontakta Björn Sundén
 (bjorn.sunden@goteborgsregionen) och/eller Anna Gustafsson
-(anna.gustafsson@goteborgsregionen.se).
+((e-post borttagen)).
 
 Med vänliga hälsningar
 
@@ -395,7 +395,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -476,7 +476,7 @@ Nämnden har inga invändningar mot de förslagna formuleringarna.
 1 (1)
 Valnämnden                                                Kungsbacka kommun
 434 81 Kungsbacka
-valnamnden@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -696,7 +696,7 @@ påverka den demokratiska processen.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -813,7 +813,7 @@ Förslag till ändrade havsplaner för Bottniska viken, Östersjön och Västerh
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -949,7 +949,7 @@ med bevarandet av våra historiska och kulturella värden.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1036,7 +1036,7 @@ Klimat- och näringslivsdepartementet
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1121,7 +1121,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6365,7 +6365,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -6382,10 +6382,10 @@ Kommundirektör                     Biträdande kommundirektör
 
 @vrakat.se>
 Skickat:den 9 juni 2024 10:09
-Till:Kommun \<kommun@kungsbacka.se>
+Till:Kommun \<(e-post borttagen)>
 Ämne:Sponsring Vrakat
 
-Du får inte e-post ofta från gosta.fransehn@vrakat.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning:Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller öppna
 bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -6660,11 +6660,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 143 -->
 

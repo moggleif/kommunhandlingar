@@ -39,7 +39,7 @@ Plats: Lektionssal i huvudbyggnaden Tingbergsskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -3211,7 +3211,7 @@ Tjänsteskrivelse Kvalitet & Utveckling, 2025-10-20
 FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
 Frida Byrsten
-070-265 59 66                                                 Besöksadress
+(mobilnummer borttaget)                                                 Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3734,7 +3734,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 95-1](handlingar.tabeller/95-1.csv)

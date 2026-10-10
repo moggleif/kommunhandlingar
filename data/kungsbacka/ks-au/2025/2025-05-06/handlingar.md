@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -959,7 +959,7 @@ Datum            Diarienummer
 
 Delgivning Samhällsbyggnadskontoret, planavdelningen,
 Kungsbacka kommun -
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Antagen   detaljplan för Varla 3:22  m.fl., Kungsbacka
 
@@ -1000,7 +1000,7 @@ vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
 3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 25 -->
@@ -1093,9 +1093,9 @@ Cecilia Engström medverkat.
 
 Kopia till:
 
-SGI – sgi@sgi.se
+SGI – (e-post borttagen)
 
-Lantmäterimyndigheten – registrator@lm.se
+Lantmäterimyndigheten – (e-post borttagen)
 
 Bilagor
 1\. Överklagandehänvisning regeringen
@@ -1117,7 +1117,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -1146,7 +1146,7 @@ Ombudet bör också bifoga en fullmakt.
 Behöver ni veta mer?
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
 
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 7483-2023.
 
 <!-- sida 28 -->
@@ -1979,9 +1979,9 @@ Tillgängligt belopp för utdelning år 2025 är 68 539 kronor
 Styrelsen för Arvid och Hildur Anderssons donationsfond föreslår kommunstyrelsen följande
 stipendiater våren 2025:
 
-Hanna Clingston 20050615-7809 10 000 kronor
-Lovisa Klein 19970423-4260 15 000 kronor
-Simon Hansson 20060404-0055 10 000 kronor
+Hanna Clingston (personnummer borttaget) 10 000 kronor
+Lovisa Klein (personnummer borttaget) 15 000 kronor
+Simon Hansson (personnummer borttaget) 10 000 kronor
 
 Axel Storckenfeldt
 Ordförande
@@ -6764,7 +6764,7 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 EKSTA BOSTADS AB
 Box 10 400, 434 24 Kungsbacka
 Tel 0300-356 00
-info@eksta.se
+(e-post borttagen)
 
 68
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -7688,7 +7688,7 @@ Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 
 <!-- sida 138 -->
 
-Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka info@tempohus.se
+Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka (e-post borttagen)
 
 Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 

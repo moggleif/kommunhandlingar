@@ -39,7 +39,7 @@ Paus 18:15-18:30
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -228,11 +228,11 @@ Beslutad av:    Nämnden för Gymnasium & Arbetsmarknad 2024-10-23
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Förvaltningen för Gymnasium & Arbetsmarknad
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -1106,7 +1106,7 @@ Halland. Initiativet fattas beslut om i den kommunövergripande GNVO gruppen som
 av representanter från olika förvaltningar i Kungsbacka kommun.
 Uppfylls kriterierna skickas mallen in till gruppens samordnare Maria Ädel
 
-(maria.adel@kungsbacka.se) för fortsatt hantering i GNVO gruppen.
+((e-post borttagen)) för fortsatt hantering i GNVO gruppen.
 
 Initiativets namn             Ungas behov av förvaltningsövergripande
 samverkan med utgångspunkt i
@@ -1122,7 +1122,7 @@ Kontaktperson för detta initiativ/förbättringsförslag är
 | Namn och titel | Cecilia Fossan Biträdande Gymnasiechef (GA)<br>Märta Lycken Utvecklingschef (IF) |
 | --- | --- |
 | Förvaltning och enhet | GA och IF |
-| Kontaktuppgifter: mejl och<br>telefonnummer | Cecilia.fossan@kungsbacka.se<br>Märta.lycken@kungsbacka.se |
+| Kontaktuppgifter: mejl och<br>telefonnummer | (e-post borttagen)<br>(e-post borttagen) |
 
 <!-- sida 32 -->
 
@@ -1870,7 +1870,7 @@ Namn och enhet           E-postadress               Arbetstelefon
 Cindia Escalante Mattsson
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-834260
+Erika Erngard            (e-post borttagen) 0300-834260
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Aranäsgymnasiet;
@@ -1938,7 +1938,7 @@ sv årt att vara flexibel utifrån att det även samsas med Engelska Skolan. Ut�
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2256,10 +2256,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Cindia Escalante Mattsson Cindia.escalante-mattson@kungsbacka.se
+Cindia Escalante Mattsson (e-post borttagen)
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-834260
+Erika Erngard            (e-post borttagen) 0300-834260
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Elof Lindälvs gymnasium;
@@ -2302,7 +2302,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2605,10 +2605,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Karin Zetterman          Karin.zetterman@kungsbacka.se
+Karin Zetterman          (e-post borttagen)
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-834260
+Erika Erngard            (e-post borttagen) 0300-834260
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Kompetenscentrum består av sex enheter:
@@ -2654,7 +2654,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -3006,10 +3006,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Cindia Escalante Mattsson cindia.escalante-mattsson@kungsbacka.se 0300-83 35 13
+Cindia Escalante Mattsson (e-post borttagen) 0300-83 35 13
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Fordon-och transportprogrammet finns beläget på Elof Lindälvs gymnasium, men har även verksamhet
@@ -3042,7 +3042,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -3256,7 +3256,7 @@ nérmeS
 ©
 Facelift                                Lindälv
 Koncept,             Utemiljö.           2024-08-22
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 
 <!-- sida 87 -->
 
@@ -3414,7 +3414,7 @@ nérmeS
 ©
 Facelift                                Lindälv
 Konceptskiss.                  2024-08-28
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 
 <!-- sida 93 -->
 
@@ -5564,7 +5564,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 47 04
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 151 -->
@@ -7706,7 +7706,7 @@ Datum 2024-10-03
 Dnr SI 2024:493
 Huvudman
 Sida 1 (19)
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Beslut
 
@@ -7797,7 +7797,7 @@ vilka förbättringsåtgärder som vidtagits utifrån det identifierade
 utvecklingsområdet och resultat av dessa åtgärder. Som stöd för
 redovisningen bör bifogad mall användas.
 Redovisningen skickas via e-post, till
-dokument.goteborg@skolinspektionen.se eller per post till
+(e-post borttagen) eller per post till
 Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr SI 2024:493) i de
 handlingar som sänds in.
@@ -8489,7 +8489,7 @@ Beslut
 Datum 2024-10-11
 KUNGSBACKA KOMMUN                           Dnr SI 2023:8431
 Sida 1 (6)
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Uppföljningsbeslut
 

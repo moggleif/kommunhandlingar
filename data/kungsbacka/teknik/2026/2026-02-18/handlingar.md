@@ -3791,7 +3791,7 @@ samråd, vilket påverkar genomförandetid och ordningsföljd.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4074,7 +4074,7 @@ Diarienummer
 TE-2025-01040
 
 •  All valaffischering ska anmälas in till kommunens epost
-teknik.valaffischering@kungsbacka.se med på vilken numrerad yta enligt översiktskarta man
+(e-post borttagen) med på vilken numrerad yta enligt översiktskarta man
 som parti ämnar nyttja för sina valaffischer.
 
 •  För ytor som är markerade med privat fastighetsägare krävs tillstånd från aktuell
@@ -5283,7 +5283,7 @@ för ett par år sedan såg över förutsättningarna för just den här applika
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5541,7 +5541,7 @@ antalet hundar (2015 ca 79 144 personer och 2025 ca 86 000 personer).
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5740,7 +5740,7 @@ och från omkringliggande mindre fastigheter som idag avleds till diket. För av
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5854,7 +5854,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -5883,9 +5883,9 @@ beslutet att anta detaljplanen skulle upphävas.
 Detaljplaneprocessen återupptas under 2025 från granskningsskedet.
 
 Handläggare
-Johanna Vinterhav, planarkitekt johanna.vinterhav@kungsbacka.se
+Johanna Vinterhav, planarkitekt (e-post borttagen)
 
-Fortesa Bytyqi, exploateringsingenjör fortesa.bytyqi@kungsbacka.se
+Fortesa Bytyqi, exploateringsingenjör (e-post borttagen)
 
 Handlingar:
 • Planbeskrivning, denna handling
@@ -8237,7 +8237,7 @@ Anläggningslagen (1973:1149).
 
 Samhällsbyggnadskontoret
 Kungsbacka kommun0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se www.kungsbacka.se/aktuellaprojekt
+(e-post borttagen) www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 219 -->
 
@@ -11358,7 +11358,7 @@ dina synpunkter.
 Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt. Du kan även svara via e-post:
-samhallsbyggnadskontoret@kungsbacka.se eller via post:
+(e-post borttagen) eller via post:
 Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka.
 
 Kom ihåg att ange ditt namn, adress och fastighetsbeteckning.
@@ -11368,8 +11368,8 @@ tycker om förslaget.
 
 På sida 2 finns mer information om planprocessen.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 293 -->
 
@@ -11654,7 +11654,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 302 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 303 -->
 
@@ -11703,7 +11703,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 304 -->
 

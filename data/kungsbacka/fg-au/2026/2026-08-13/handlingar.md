@@ -37,7 +37,7 @@ Lokal: Lagan, Vägmästaren
 
 Lars Sundbom                                                 Kungsbacka kommun
 434 81 Kungsbacka
-Lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stationsgatan 9
 020-751 751
@@ -829,7 +829,7 @@ Datum 2025-02-06
 Huvudman                             Dnr SI 2025:5873
 Sida 1 (19)
 KUNGSBACKA KOMMUN
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Beslut
 
@@ -912,7 +912,7 @@ Huvudmannen ska senast den 4 september 2026 redovisa till
 Skolinspektionen vilka förbättringsåtgärder som vidtagits utifrån de
 identifierade utvecklingsområdena.
 Redovisningen skickas via e-post, till
-dokument.goteborg@skolinspektionen.se. Hänvisa till Skolinspektionens
+(e-post borttagen). Hänvisa till Skolinspektionens
 diarienummer för granskningen (dnr SI 2025:5873 i de handlingar som
 sänds in.
 
@@ -1659,7 +1659,7 @@ likvärdig  skola
 
 Förskola    &  Grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 46 -->
 
@@ -2585,7 +2585,7 @@ föra beslutade åtgärder med anledning av de rekommendationer som redovi-
 sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
-kommunrevision@kungsbacka.se senast den 20 augusti 2026.
+(e-post borttagen) senast den 20 augusti 2026.
 
 För revisorerna i Kungsbacka kommun
 
@@ -2660,7 +2660,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 69 -->
@@ -2812,7 +2812,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
@@ -2938,7 +2938,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
@@ -3000,7 +3000,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 80-1](handlingar.tabeller/80-1.csv)
@@ -3069,7 +3069,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 83-1](handlingar.tabeller/83-1.csv)

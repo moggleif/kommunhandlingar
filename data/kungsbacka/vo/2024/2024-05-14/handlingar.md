@@ -298,7 +298,7 @@ Hälsofrämjande              och    förbyggande
 Strategisk plan för förebyggande & hälsofrämjande arbete på förvaltningen
 för Vård & Omsorg
 
-Kungsbacka kommun, Vård & Omsorg| 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun, Vård & Omsorg| 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -1143,7 +1143,7 @@ finansiering av stöd för en kunskapsbaserad socialtjänst och kommunal hälso-
 
 Beslutet skickas till
 Efter samordning av besluten i socialnämnderna IF, VO och GA skickas besluten till SKR
-registrator@skr.se med hänvisning till ärendenummer SKR2024/00089
+(e-post borttagen) med hänvisning till ärendenummer SKR2024/00089
 
 1 (2)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
@@ -1243,7 +1243,7 @@ Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i rel
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
 2024\.
-Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
+Skicka kommunens ställningstagande till (e-post borttagen) med hänvisning till
 
 ärendenummer SKR2024/00089.
 
@@ -1253,7 +1253,7 @@ utmaningar. Att samarbeta nationellt är ett sätt att möta dessa utmaningar. A
 nationellt samla stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -1351,7 +1351,7 @@ oktober och november
 • Information på ”Aktuellt i socialtjänsten” 31 oktober.
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -1752,7 +1752,7 @@ Sedan hösten 2020 pågår ett arbete för att möjliggöra automatiserad
 informationsförsörjning till de fem nationella kvalitetsregistren. Under
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -1966,7 +1966,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
-Kommunstyrelsens förvaltning: Styrning & Ekonomi (donationsstiftelser@kungsbacka.se)
+Kommunstyrelsens förvaltning: Styrning & Ekonomi ((e-post borttagen))
 Sökanden
 
 Beskrivning av ärendet
@@ -2394,7 +2394,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   vardochomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

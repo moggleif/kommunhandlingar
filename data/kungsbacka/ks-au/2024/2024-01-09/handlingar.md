@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -170,7 +170,7 @@ Kommundirektör                     Biträdande kommundirektör
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1475,11 +1475,11 @@ Beslutad av:   Kommunstyrelsen xx nnnnnn 2024 § XXX, Dnr KS 2023-00461, Försla
 12-18
 Giltigt från:  2024-xx-xx
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 40 -->
 
@@ -1957,11 +1957,11 @@ Beslutad av:   Kommunstyrelsen 26 september 2023 § 198, Dnr KS 2023-00461
 Giltigt från:  2023-09-26
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 60 -->
 
@@ -5832,11 +5832,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 162 -->
 
@@ -6128,7 +6128,7 @@ Säkerhets-        och   beredskapspolicy
 
 Kungsbacka    kommun
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 170 -->
 
@@ -6175,7 +6175,7 @@ och rapportera risker och problem samt följa riktlinjer och övriga bestämmels
 Beslutad av: Kommunfullmäktige 10 december 2019, § 189, KS/2019:706
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 
 Säkerhets- och be redskapspolicy Sida 2 av 2
@@ -6219,7 +6219,7 @@ Syftet med civilt försvar är att inför och under höjd beredskap värna civil
 viktigaste samhällsfunktionerna samt bidra till Försvarsmaktens förmåga att möta ett väpnat angrepp.
 Kommunens arbete med civilt försvar bygger på krisberedskapen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 172 -->
 
@@ -6314,7 +6314,7 @@ verksamhet under höjd beredskap. Arbetet kommer genomföras enligt överenskomm
 Beslutad av: Kommunfullmäktige 10 december 2019, § 190, KS/2019:683
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -7931,11 +7931,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 212 -->
 
@@ -8053,7 +8053,7 @@ När förhållandena medger det ska krisledningsnämnden besluta att de uppgifte
 andra nämnder ska återgå till ordinarie nämnd. Även kommunstyrelsen och kommunfullmäktige får besluta
 att krisledningsnämndens verksamhet ska upphöra.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 215 -->
 
@@ -8075,7 +8075,7 @@ Vid övning och utbildning ges också ersättarna möjlighet att delta.
 Beslutad av: Kommunfullmäktige 10 december 2019, § 188, KS/2019:707
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -9081,7 +9081,7 @@ säkerhetsincidenter till samtliga medarbetare.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9215,7 +9215,7 @@ Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Anna Hamrin
 Controller                                                    Besöksadress
-anna.hamrin@kungsbacka.se                                Stadshuset, Storgatan 37
+(e-post borttagen)                                Stadshuset, Storgatan 37
 0300-83 50 55
 Telefon 0300-83 40 00
 www.kungsbacka.se

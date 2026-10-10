@@ -309,11 +309,11 @@ Beslutad av:    Byggnadsnämnden, 2026-03-19 § XX, BN-2026-00026
 Giltig från:    2026-03-19
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -526,7 +526,7 @@ Kungsbacka kommun      Delegering av beslutanderätt Byggnadsnämnden 6 (31)
 2.1 Allmänt
 0B
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
@@ -945,11 +945,11 @@ Beslutad av:   Byggnadsnämnden, 2026-03-19 § XX, BN-2026-00026
 Giltig från:   2026-03-19
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 39 -->
 
@@ -1045,7 +1045,7 @@ Kungsbacka kommun    Kompletterande delegeringsförteckning Byggnadsnämnden 3 (
 
 2.1 Verksamhet
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 41-1](handlingar.tabeller/41-1.csv)
 
@@ -1148,11 +1148,11 @@ Beslutad av:    Byggnadsnämnden 2024-10-17 § 222
 Gäller från:    2024-10-22
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 1 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 1 av 28
 
 <!-- sida 48 -->
 
@@ -1178,7 +1178,7 @@ Vid förfall för övriga delegater ............................................
 8  Namnlista över delegater                          28
 ```
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 2 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 2 av 28
 
 <!-- sida 49 -->
 
@@ -1231,7 +1231,7 @@ Delegaten får inte besluta i ärenden där de är jävig. I sådana fall inträ
 
 3
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 3 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 3 av 28
 
 <!-- sida 50 -->
 
@@ -1284,7 +1284,7 @@ förvaltningen.
 
 4
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 4 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 4 av 28
 
 <!-- sida 51 -->
 
@@ -1321,7 +1321,7 @@ medfinansieringskrav.
 
 5
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 5 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 5 av 28
 
 <!-- sida 52 -->
 
@@ -1353,7 +1353,7 @@ nackdel, kan vänta till dess att ordinarie delegat återkommit.
 
 6
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 6 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 6 av 28
 
 <!-- sida 53 -->
 
@@ -1391,7 +1391,7 @@ PBL      Plan- och bygglag (SFS 2010:900)
 
 7
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 7 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 7 av 28
 
 <!-- sida 54 -->
 
@@ -1399,7 +1399,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 8
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 8 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 8 av 28
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
 
@@ -1420,7 +1420,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 9
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 9 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 9 av 28
 
 [Tabell 55-1](handlingar.tabeller/55-1.csv)
 
@@ -1442,7 +1442,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 10
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 10 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 10 av 28
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
@@ -1462,7 +1462,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 11
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 11 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 11 av 28
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
@@ -1485,7 +1485,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 12
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 12 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 12 av 28
 
 [Tabell 58-1](handlingar.tabeller/58-1.csv)
 
@@ -1506,7 +1506,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 13
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 13 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 13 av 28
 
 [Tabell 59-1](handlingar.tabeller/59-1.csv)
 
@@ -1528,7 +1528,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 14
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 14 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 14 av 28
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
 
@@ -1552,7 +1552,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 15
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 15 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 15 av 28
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)
 
@@ -1571,7 +1571,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 16
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 16 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 16 av 28
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
 
@@ -1591,7 +1591,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 17
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 17 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 17 av 28
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
@@ -1614,7 +1614,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 18
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 18 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 18 av 28
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
@@ -1638,7 +1638,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 19
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 19 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 19 av 28
 
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
@@ -1660,7 +1660,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 20
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 20 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 20 av 28
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
@@ -1685,7 +1685,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 21
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 21 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 21 av 28
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
@@ -1703,7 +1703,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 22
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 22 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 22 av 28
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
 
@@ -1722,7 +1722,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 23
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 23 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 23 av 28
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
 
@@ -1741,7 +1741,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 24
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 24 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 24 av 28
 
 [Tabell 70-1](handlingar.tabeller/70-1.csv)
 
@@ -1761,7 +1761,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 25
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 25 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 25 av 28
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
 
@@ -1783,7 +1783,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 26
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 26 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 26 av 28
 
 [Tabell 72-1](handlingar.tabeller/72-1.csv)
 
@@ -1804,7 +1804,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sid
 
 27
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 27 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 27 av 28
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
@@ -1820,7 +1820,7 @@ Namnlista    över  delegater
 
 28
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se Sida 28 av 28
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se Sida 28 av 28
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
 
@@ -1880,7 +1880,7 @@ Initiativ från Marianne Wallengren (M) m.fl 2023-12-14
 Kungsbacka kommun
 434 81 Kungsbacka
 Linda Bergström
-0734696299                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Planarkitekt                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

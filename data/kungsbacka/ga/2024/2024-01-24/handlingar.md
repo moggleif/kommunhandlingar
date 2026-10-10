@@ -38,7 +38,7 @@ Paus 18.10-18.30
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -3207,7 +3207,7 @@ Titel                                                       Titel
 
 Förvaltning                                                 Förvaltning
 
-fornamn.efternamn@kungsbacka.se                             fornamn.efternamn@kungsbacka.se
+(e-post borttagen)                             (e-post borttagen)
 
 0300-83     XX XX                                           0300-83    XX  XX
 
@@ -5690,7 +5690,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 153 -->
 
@@ -6976,9 +6976,9 @@ för perioden 240101-241231.
 § 7      Val av Firmatecknare för perioden 240101-241231
 
 Ordförande, vice ordförande och förbundschef utses som firmatecknare var för sig.
-Linda Biltmark, 760825-4848
-Helene Andersson, 590818-4608
-Samuel Grahn, 690617-2512
+Linda Biltmark, (personnummer borttaget)
+Helene Andersson, (personnummer borttaget)
+Samuel Grahn, (personnummer borttaget)
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/b1436cd7-c740-46d7-8a6d-9beda5a2b215 www.vismasign.com
@@ -7184,7 +7184,7 @@ Använda rättigheter
 Under året har jag noterat en (1) begäran om registerutdrag.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 185 -->
 

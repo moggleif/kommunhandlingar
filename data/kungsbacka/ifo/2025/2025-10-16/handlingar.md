@@ -549,7 +549,7 @@ Namn och enhet           E-postadress               Arbetstelefon
 
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Matti Ekensten           matti.ekensten@kungsbacka.se
+Matti Ekensten           (e-post borttagen)
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I dagsläget har vi ett barnboende som är fullbelagt och vi ser att behovet av platser ökar.
@@ -584,7 +584,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -686,7 +686,7 @@ Samrådsutskick detaljplan för idrottsändamål inom Skårby 3:4 i Kungsbacka 2
 
 Beslutet skickas till
 
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Märta Lycken                       Kamilla Julin
 
@@ -714,7 +714,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 21 oktober 2025 vill vi ha di
 punkter. Kom ihåg att ange ditt namn, adress och fastighetsbeteckning.
 
 Lämna dina synpunkter via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
-via e-post till: samhallsbyggnadskontoret@kungsbacka.se
+via e-post till: (e-post borttagen)
 
 e
 
@@ -798,12 +798,12 @@ Kontaktuppgifter              Mer information!
 Kontakta gärna:               www.kungsbacka.se/aktuellaprojekt
 (Alla planhandlingar inklusive utredningar)
 Maria Brink, planarkitekt
-maria.brink@kungsbacka.se
+(e-post borttagen)
 Stadshusets entré,
 KungsbSaccakna na QR-koden
 (Läsex planhandlingar)
 Fortesa Bytyqi, exploateringsingengör och läs mer på
-fortesa.bytyqi@kungsbacka.se     projektets websida!
+(e-post borttagen)     projektets websida!
 Scanna QR-koden
 och läs mer på
 projektets webbsida!
@@ -923,7 +923,7 @@ utgångspunkt för nämndens arbete med verksamhetsplanering. I nämndbudgeten i
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2164,7 +2164,7 @@ Kungsbacka kommun
 Julia Wilholm
 434 81 Kungsbacka
 0300-834276
-julia.wilholm@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

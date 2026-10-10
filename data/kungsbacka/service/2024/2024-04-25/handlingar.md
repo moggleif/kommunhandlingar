@@ -296,7 +296,7 @@ information som ser ut att variera i innehåll.
 1 (2)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -317,9 +317,9 @@ av en orimlig odokumenterad kravnivå.
 
 <!-- sida 8 -->
 
-Från:             kommun@kungsbacka.se
+Från:             (e-post borttagen)
 Skickat:          den 8 mars 2024 09:22
-Till:             Service; info@eksta.se
+Till:             Service; (e-post borttagen)
 Ämne:             Begäran om yttrande - Förslag till införande av gränsvärden för
 klimatdeklarationer av byggnader (KS 2024-00201)
 Bifogade filer:   (Landsbygds- och infrastrukturdepartementet) Följebrev.pdf; (Boverket)
@@ -360,7 +360,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 9 -->
 
@@ -418,7 +418,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 11 -->
 
@@ -679,8 +679,8 @@ FSBS
 Remissvaren ska ha kommit in till Landsbygds- och
 
 infrastrukturdepartementet senast den 31 maj 2024. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.bb@regeringskansliet.se. Ange diarienummer LI2023/02459 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2023/02459 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 6 (8)
@@ -12465,7 +12465,7 @@ rnd
 :dllätstsaF
 
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
-E-post: registraturen@boverket.se | Webbplats: www.boverket.se
+E-post: (e-post borttagen) | Webbplats: www.boverket.se
 
 <!-- sida 249 -->
 

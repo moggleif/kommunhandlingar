@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -285,7 +285,7 @@ Periodens resultat        -265,7      -292,3       -275,3       17,0
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -499,7 +499,7 @@ Kungsbacka       kommun
 
 Version till kommunstyrelsens arbetsutskott 2025–05–20
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -1316,7 +1316,7 @@ Plan   2027–2028
 
 Version till kommunstyrelsen
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 36 -->
 
@@ -4940,7 +4940,7 @@ kräver det, förlägga arbetspass om upp till 24 timmar.
 434 81 Kungsbacka
 Julia Wilholm
 0300-834276                                                   Besöksadress
-julia.wilholm@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -5733,7 +5733,7 @@ Protokoll från MBL-förhandling 2025-03-17
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5953,7 +5953,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 434 81 Kungsbacka
 Julia Wilholm
 0300-834276                                                   Besöksadress
-julia.wilholm@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -6714,9 +6714,9 @@ Tillgängligt belopp för utdelning år 2025 är 68 539 kronor
 Styrelsen för Arvid och Hildur Anderssons donationsfond föreslår kommunstyrelsen följande
 stipendiater våren 2025:
 
-Hanna Clingston 20050615-7809 10 000 kronor
-Lovisa Klein 19970423-4260 15 000 kronor
-Simon Hansson 20060404-0055 10 000 kronor
+Hanna Clingston (personnummer borttaget) 10 000 kronor
+Lovisa Klein (personnummer borttaget) 15 000 kronor
+Simon Hansson (personnummer borttaget) 10 000 kronor
 
 Axel Storckenfeldt
 Ordförande
@@ -7843,7 +7843,7 @@ Datum            Diarienummer
 
 Delgivning Samhällsbyggnadskontoret, planavdelningen,
 Kungsbacka kommun -
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Antagen   detaljplan för Varla 3:22  m.fl., Kungsbacka
 
@@ -7884,7 +7884,7 @@ vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
 3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 185 -->
@@ -7977,9 +7977,9 @@ Cecilia Engström medverkat.
 
 Kopia till:
 
-SGI – sgi@sgi.se
+SGI – (e-post borttagen)
 
-Lantmäterimyndigheten – registrator@lm.se
+Lantmäterimyndigheten – (e-post borttagen)
 
 Bilagor
 1\. Överklagandehänvisning regeringen
@@ -8001,7 +8001,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -8030,7 +8030,7 @@ Ombudet bör också bifoga en fullmakt.
 Behöver ni veta mer?
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
 
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 7483-2023.
 
 <!-- sida 188 -->
@@ -8186,7 +8186,7 @@ Räddningstjänstens budgetprocess
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -8218,7 +8218,7 @@ MISSIV
 Ekonomienheten                   Utfärdat     2025-03-18
 Marie Karlsson                   Diarienummer 2024/799
 Ekonomichef
-marie.karlsson@rsgbg.se          Medlemskommunerna
+(e-post borttagen)          Medlemskommunerna
 031-335 2885
 
 Budgetunderlag för verksamhetsåret 2026 och
@@ -8240,7 +8240,7 @@ Beslut om budget fattas i förbundsstyrelsen den 10 september och i förbundsful
 den 23 september.
 
 Kontaktperson i ärendet är:
-Marie Karlsson, Ekonomichef, marie.karlsson@rsgbg.se, tel 031-335 2885
+Marie Karlsson, Ekonomichef, (e-post borttagen), tel 031-335 2885
 
 På förbundsstyrelsens vägnar
 Lars Klevensparr
@@ -8255,16 +8255,16 @@ Räddningstjänstförbundet Storgöteborg
 <!-- sida 194 -->
 
 Sändlista:
-Göteborgs stad - stadsledningskontoret@stadshuset.goteborg.se
+Göteborgs stad - (e-post borttagen)
 
-Härryda kommun - kommun@harryda.se
-Kungsbacka kommun - kommun@kungsbacka.se
-Lerums kommun - kommun@lerum.se
-Lilla Edets kommun – kommunen@lillaedet.se
-Mölndals stad - kontakt@molndal.se
-Partille kommun - kundcenter@partille.se
-Stenungsunds kommun – kommun@stenungsund.se
-Tjörns kommun – tjorns.kundcenter@tjorn.se
+Härryda kommun - (e-post borttagen)
+Kungsbacka kommun - (e-post borttagen)
+Lerums kommun - (e-post borttagen)
+Lilla Edets kommun – (e-post borttagen)
+Mölndals stad - (e-post borttagen)
+Partille kommun - (e-post borttagen)
+Stenungsunds kommun – (e-post borttagen)
+Tjörns kommun – (e-post borttagen)
 
 2(2)
 
@@ -8316,7 +8316,7 @@ Tjänsteutlåtande
 OBarng.k Ngrir 2o2 52805030--40070592 Verksamhetsstöd Utfärdat 2025-02-24
 Marie Karlsson               Presidiet     2025-02-28
 Ekonomichef                  Förbundsstyrelse 2025-03-12
-marie.karlsson@rsgbg.se      Förbundsfullmäktige Välj datum här
+(e-post borttagen)      Förbundsfullmäktige Välj datum här
 Diarienummer  2024/799
 
 Underlag för budget 2026 och plan 2027-2028 för
@@ -9348,7 +9348,7 @@ beräkningar.
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Ewa Ahlberg
-0730304442                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklare IT                                            Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -9626,7 +9626,7 @@ information om enskilda kan delas mellan myndigheter anser kommunen vara för l�
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -15433,7 +15433,7 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 EKSTA BOSTADS AB
 Box 10 400, 434 24 Kungsbacka
 Tel 0300-356 00
-info@eksta.se
+(e-post borttagen)
 
 68
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -15458,7 +15458,7 @@ Initierare
 Karin Gustavsson (KG)
 Eksta Bostads AB
 Org. nr 556497-8293
-karin@eksta.se
+(e-post borttagen)
 
 Signerare
 
@@ -16380,7 +16380,7 @@ Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 
 <!-- sida 374 -->
 
-Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka info@tempohus.se
+Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka (e-post borttagen)
 
 Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 
@@ -16404,7 +16404,7 @@ Initierare
 Karin Gustavsson (KG)
 Eksta Bostads AB
 Org. nr 556497-8293
-karin@eksta.se
+(e-post borttagen)
 
 Signerare
 
@@ -17741,11 +17741,11 @@ Beslutad av:   Kommunfullmäktige, 2025-06-16 § XX
 Gäller från:   2025-07-01
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 407 -->
 
@@ -17981,11 +17981,11 @@ Beslutad av:   Nämnden för Miljö & Hälsoskydd, 2025-05-08 § XX
 Gäller från:   [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 413 -->
 
@@ -18214,7 +18214,7 @@ läkemedel      och  lag  om    tobaksfria
 
 nikotinprodukter
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 419 -->
 
@@ -18412,7 +18412,7 @@ Beslutad av: Kommunfullmäktige 14 juni 2023 § 76, Dnr KS 2023-00205
 Gäller från: 1 juli 2023
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -19361,7 +19361,7 @@ Motionärerna menar att användningen av lustgas i berusningssyfte har ökat kra
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -19762,11 +19762,11 @@ Beslutad av:    Kommunfullmäktige 4 februari 2020 § 8, Länsstyrelsens beslut 
 Förvaltningsrättens dom 10 februari 2021, Dnr KS/2019:828
 Gäller från:    2021-12-28
 Ansvarig förvaltning: Nämnden för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 453 -->
 
@@ -20963,11 +20963,11 @@ Jenny Sjöström
 
 Kommunpolis
 
-Tel: +46702-308901
-jenny.sjostrom@polisen.se
+Tel: (mobilnummer borttaget)
+(e-post borttagen)
 
 Postadress         Besöksadress   Telefon   Webbplats E-post
-Polismyndigheten   Ernst Fontells Plats 114 14 polisen.se registrator.vast@polisen.se
+Polismyndigheten   Ernst Fontells Plats 114 14 polisen.se (e-post borttagen)
 Polisregion Väst   Göteborg
 405 90 Göteborg
 
@@ -21247,7 +21247,7 @@ att behålla ordning och skapa tryggare miljöer för alla.
 1 (5)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -21573,7 +21573,7 @@ Datum              Diarienummer
 2024-08-20         4027–2024
 
 Socialdepartementet
-s.remissvar@regeringskansliet.se
+(e-post borttagen)
 
 Yttrande  över remiss  SOU  2024:23  En trygg
 
@@ -21620,7 +21620,7 @@ kriminaliseringen av langning.
 •  Förslaget gällande att Länsstyrelsen ska utöva tillsyn över
 Polismyndighetens tillsyn över förvaringsförbudet bör avslås.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 504 -->
@@ -22160,4 +22160,4 @@ namnunderskrift.
 
 Kopia till
 
-s.hc@regeringskansliet.se.
+(e-post borttagen).

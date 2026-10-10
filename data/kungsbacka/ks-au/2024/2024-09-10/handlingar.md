@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -827,7 +827,7 @@ Daterad 2024-05-15
 
 Denna taxa är beslutad med stöd av 2 kap. 5 § kommunallagen (2017:725)
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 27 -->
 
@@ -879,7 +879,7 @@ Gäller från: Öppning av det nya cykelgaraget (beräknas till hösten 2024)
 samt 2025-01-01 för befintliga anläggningar
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1372,11 +1372,11 @@ Beslutad av:   Kommunfullmäktige 2024-XX-XX § XXX, KS-2024-XXXXX
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 42 -->
 
@@ -2422,11 +2422,11 @@ Beslutad av:   Kommunfullmäktige 2024-XX-XX § XXX, KS-2024-XXXXX
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -3377,7 +3377,7 @@ Kommunledningskontorets tjänsteskrivelse, 2024-08-13
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3739,7 +3739,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3886,14 +3886,14 @@ Göteborgsregionen har inte tidigare hanterat en förstärkt satsning inom
 åtgärdsområdet trimning och effektivisering i stråk och välkomnar därför
 eventuella synpunkter på process och resultat av arbetet.
 Skriftliga synpunkter ska ha inkommit till Göteborgsregionen senast 23
-september 2024. Synpunkter skickas till cecilia.kvist@goteborgsregionen.se
-med diarium@goteborgsregionen.se på kopia. Ange diarienummer FS2024-
+september 2024. Synpunkter skickas till (e-post borttagen)
+med (e-post borttagen) på kopia. Ange diarienummer FS2024-
 00061\.
 
 Frågor
 
 Vid eventuella frågor är ni välkomna att kontakta Anna Gustafsson
-(anna.gustafsson@goteborgsregionen.se).
+((e-post borttagen)).
 
 Avrop förstärkta satsningar trimning och effektivisering i stråk 4 (4)
 
@@ -6769,7 +6769,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Ulrica Furby                                               434 81 Kungsbacka
 tel 0300-83 78 78
 Besöksadress
-ulrica.furby@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7651,7 +7651,7 @@ KÖPEAVTAL
 Duvehed
 Säljare: Kungsbacka kommun (212000-1256), nedan kallad Kommunen, ägare till
 fastigheten Duvehed 2:53
-Köpare: Letf Miljö AB (559134-9716), Fjärås Industiväg 35, 439 74 Fjärås, nedan kallat
+Köpare: Letf Miljö AB (559134-9716), Fjärås (adress borttagen), 439 74 Fjärås, nedan kallat
 Köparen
 
 Kommunen och Köparen kallas nedan gemensamt för Parterna.
@@ -8227,7 +8227,7 @@ Org.nummer: 559134-9716
 Firma: LETF Miljö AB
 Adress: c/o LETF AB
 
-Fjärås Industriväg 35
+Fjärås (adress borttagen)
 439 74 FJÄRÅS
 
 Säte: Västra Götalands län, Mölndal kommun
@@ -8423,7 +8423,7 @@ Projektnamn
 Detaljplan för bostäder i Vallda-Backa 1:6
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -9032,8 +9032,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #130408 | Inskickat av: Datum: 2024-04-23 10:20 Sida 1 av 4
 
@@ -9063,8 +9063,8 @@ Fastighetsbeteckning               Fastighetens adress
 
 Kungsbacka 5:3                     Kungsbacka
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #130408 | Inskickat av: | Datum: 2024-04-23 10:20 Sida 2 av 4
 
@@ -9095,8 +9095,8 @@ Bostäder
 
 3\. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #130408 | Inskickat av: | Datum: 2024-04-23 10:20 Sida 3 av 4
 
@@ -9124,8 +9124,8 @@ Kungsbacka_5_3-6.pdf (77 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #130408 | Inskickat av: | Datum: 2024-04-23 10:20 Sida 4 av 4
 
@@ -9767,12 +9767,12 @@ Sven Erik Bergström
 Stadshuset, Storgatan 37
 Specialist Hållbarhet
 Samhällsbyggnadskontoret                                 Telefon 0300-83 40 00
-sven-erik.bergstrom@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 Anna Rehnberg
 Kommunjurist
 Kommunledningskontoret
-anna.rehnberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 240 -->
 
@@ -11100,7 +11100,7 @@ Förstudie
 
 2023|12|22
 
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 3202
 nossnåM
 &
@@ -13889,7 +13889,7 @@ Förstudie             2.0
 
 2024/06/19
 
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 4202
 nossnåM
 &
@@ -16430,7 +16430,7 @@ för flera mindre företag. Denna aktör ska erbjuda möjligheter till konferens
 bidrar till en flexibilitet för evenemang i arenan då många eventarrangörer
 efterfrågar konferensmöjligheter/extralokaler vid genomförande av event.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 340 -->
 
@@ -17353,7 +17353,7 @@ radmedskick.
 
 Friends          Arena                                                    Basfakta
 
-Adress                RåstaStrandväg 1, 169 56 Solna
+Adress                (adress borttagen), 169 56 Solna
 Stockholm
 Fastighetsbeteckning  NATIONALARENAN 1
 Ägare                 Fabege och Svenska Fotbollsförbundet
@@ -17470,7 +17470,7 @@ Källa: Newsec
 
 Kristinehamn                  Arena                                       Basfakta
 
-Adress                Arenavägen 3, 681 54 Kristinehamn
+Adress                (adress borttagen), 681 54 Kristinehamn
 Kristinehamn
 Fastighetsbeteckning  SKÖLDPADDAN 15
 Ägare                 Kunskapsporten
@@ -17505,7 +17505,7 @@ Källa: Newsec
 
 Partille        Arena                                                     Basfakta
 
-Adress                Gamla Kronvägen 2, 433 33 Partille
+Adress                Gamla (adress borttagen), 433 33 Partille
 Partille
 Fastighetsbeteckning  PARTILLE 11:11
 Ägare                 Partille kommun
@@ -17544,7 +17544,7 @@ Källa: Newsec
 
 Husqvarna               Garden          (HV71)                            Basfakta
 
-Adress                Elmiavägen 18, 554 54 Jönköping
+Adress                (adress borttagen), 554 54 Jönköping
 Jönköping
 Fastighetsbeteckning  ÅNGAN 1
 Ägare                 HV71 Fastighets AB

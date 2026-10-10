@@ -38,7 +38,7 @@ Plats: Skårbyskolan, Haramossevägen 5 Kungsbacka
 Namita Magnusson                                             Kungsbacka kommun
 Förvaltningen för Service                                     434 81 Kungsbacka
 Direkt 0300 83 46 58
-namita.magnusson@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

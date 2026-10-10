@@ -1394,11 +1394,11 @@ Beslutad av:    Nämnden för Individ & Familjeomsorg, 2026-03-19, IF-2025-00297
 Giltig från:    2026-04-01
 
 Ansvarig förvaltning: Förvaltningen för Individ & Familjeomsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 29 -->
 
@@ -1657,7 +1657,7 @@ Delegeringsförteckning
 
 2.2 Dataskydd
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 

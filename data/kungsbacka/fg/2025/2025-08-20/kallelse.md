@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -66,6 +66,6 @@ ordförande                        sekreterare
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 6. | Ansökan från<br>personalkooperativet Hagen<br>ekonomisk förening, gällande<br>permanent utökning av<br>barnantal | FG-2025-00300 | Nämnden för Förskola & Grundskola<br>godkänner ansökan från Personalkooperativet<br>Hagen Ekonomisk förening, Mariedalsvägen 2,<br>439 30 Onsala, om permanent utökning till<br>totalt 54 barn. |
+| 6. | Ansökan från<br>personalkooperativet Hagen<br>ekonomisk förening, gällande<br>permanent utökning av<br>barnantal | FG-2025-00300 | Nämnden för Förskola & Grundskola<br>godkänner ansökan från Personalkooperativet<br>Hagen Ekonomisk förening, (adress borttagen),<br>439 30 Onsala, om permanent utökning till<br>totalt 54 barn. |
 | 7. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden<br>noteras till protokollet. |
 | 8. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:45-17:00<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -132,7 +132,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -417,16 +417,16 @@ Avregistrera dig
 
 <!-- sida 16 -->
 
-Från:           Johanna Haraldsson \<johanna@emajsi.se>
+Från:           Johanna Haraldsson \<(e-post borttagen)>
 Skickat:        den 20 september 2024 22:04
 Till:           Emma Nilsson; Tommy Korsell; Kristofer Skogholm; Christina Hermansson;
 Stigert Pettersson; Malin de Verdier; Förskola Grundskola; Emanuel Forsell;
 Elin Hysén; Paul Blomdahl; Per Stenberg; Sofia Hansen; Peter Lundin; Evelyn
 Orest; Helen Thylin; Anna-Karin Granberg; Johan Tolinsson;
-mia.sandvall@kungsbacka.se; Anette Stockhaus; Lisa Andersson;
-susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se;
-Casper.sewerin@svt.se; Anton Johansson;
-Julia.sandstenvikberg@norrahalland.se
+(e-post borttagen); Anette Stockhaus; Lisa Andersson;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); Anton Johansson;
+(e-post borttagen)
 Ämne:           Re: Uppföljning under hösten och till vem på kommunen
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -440,25 +440,25 @@ Känns era beslut bra?
 
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Skickat: Sunday, September 15, 2024 8:48:02 PM
-Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
-Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
-\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
-\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
-\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
+Till: Emma Nilsson \<(e-post borttagen)>; Tommy Korsell \<(e-post borttagen)>;
+Kristofer Skogholm \<(e-post borttagen)>; Christina Hermansson
+\<(e-post borttagen)>; Stigert Pettersson \<(e-post borttagen)>;
+Malin de Verdier \<(e-post borttagen)>; Förskola Grundskola
+\<(e-post borttagen)>; Emanuel Forsell \<(e-post borttagen)>; Elin Hysén
+\<(e-post borttagen)>; Paul Blomdahl \<(e-post borttagen)>; Per Stenberg
+\<(e-post borttagen)>; Sofia Hansen \<(e-post borttagen)>; Peter Lundin
+\<(e-post borttagen)>; Evelyn Orest \<(e-post borttagen)>; Helen Thylin
 
-\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
-Johansson \<anton.johansson.1@svt.se>; Julia.sandstenvikberg@norrahalland.se
-\<Julia.sandstenvikberg@norrahalland.se>
+\<(e-post borttagen)>; Anna-Karin Granberg \<(e-post borttagen)>; Johan
+Tolinsson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; Anette Stockhaus \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen) \<(e-post borttagen)>; Anton
+Johansson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej!
@@ -474,9 +474,9 @@ Hur sker ert systematiska kvalitetsarbete på kommunen som ni talar och vitt och
 ni nu yttrat er kring vår överklagan till Förvaltningsrätten? Varför lades också punkt 7 till i nämndens
 möte enligt mitt tidigare mail? Insåg ni plötsligt att det var viktigt?
 
-@Anton Johansson @Julia.sandstenvikberg@norrahalland.se
-@mia.sandblom@kungsbackaposten.se
-@Casper.sewerin@svt.se
+@Anton Johansson @(e-post borttagen)
+@(e-post borttagen)
+@(e-post borttagen)
 
 Tacksam om ni följer upp detta då vi ej får några svar och lärarna hade ingen aning hur samarbete och
 uppföljning sker mellan skola och kommun om/när det kommer fram negativa effekter av besparingar
@@ -486,57 +486,57 @@ besparingar ger för effekter.
 Tack!
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Skickat: Tuesday, September 10, 2024 10:14:40 AM
-Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
-Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
+Till: Emma Nilsson \<(e-post borttagen)>; Tommy Korsell \<(e-post borttagen)>;
+Kristofer Skogholm \<(e-post borttagen)>; Christina Hermansson
+\<(e-post borttagen)>; Stigert Pettersson \<(e-post borttagen)>;
+Malin de Verdier \<(e-post borttagen)>; Förskola Grundskola
+\<(e-post borttagen)>; Emanuel Forsell \<(e-post borttagen)>; Elin Hysén
 
-\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
-\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
-\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
-\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
-Johansson \<anton.johansson.1@svt.se>
+\<(e-post borttagen)>; Paul Blomdahl \<(e-post borttagen)>; Per Stenberg
+\<(e-post borttagen)>; Sofia Hansen \<(e-post borttagen)>; Peter Lundin
+\<(e-post borttagen)>; Evelyn Orest \<(e-post borttagen)>; Helen Thylin
+\<(e-post borttagen)>; Anna-Karin Granberg \<(e-post borttagen)>; Johan
+Tolinsson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; Anette Stockhaus \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen) \<(e-post borttagen)>; Anton
+Johansson \<(e-post borttagen)>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej på er!
 
 Jag inväntar fortfarande på svar nedan. Vem ansvarar för informationsöverförandet?
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Datum: onsdag, 28 augusti 2024 19:39
 
-Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>, Tommy Korsell
-\<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
-\<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
+Till: Emma Nilsson \<(e-post borttagen)>, Tommy Korsell
+\<(e-post borttagen)>, Kristofer Skogholm
+\<(e-post borttagen)>, Christina Hermansson
 
 <!-- sida 18 -->
 
-\<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
-\<stigert.pettersson@kungsbacka.se>, Malin de Verdier
-\<malin.deverdier@kungsbacka.se>, Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
-\<emanuel.forsell@kungsbacka.se>, Elin Hysén \<elin.hysen@kungsbacka.se>, Paul
-Blomdahl \<paul.blomdahl@kungsbacka.se>, Per Stenberg
-\<per.stenberg@kungsbacka.se>, Sofia Hansen \<sofia.hansen@kungsbacka.se>, Peter
+\<(e-post borttagen)>, Stigert Pettersson
+\<(e-post borttagen)>, Malin de Verdier
+\<(e-post borttagen)>, Förskola Grundskola
+\<(e-post borttagen)>, Emanuel Forsell
+\<(e-post borttagen)>, Elin Hysén \<(e-post borttagen)>, Paul
+Blomdahl \<(e-post borttagen)>, Per Stenberg
+\<(e-post borttagen)>, Sofia Hansen \<(e-post borttagen)>, Peter
 
-Lundin \<peter.lundin@kungsbacka.se>, Evelyn Orest \<evelyn.orest@kungsbacka.se>,
-Helen Thylin \<helen.thylin@kungsbacka.se>, Anna-Karin Granberg \<anna-
-karin.granberg@kungsbacka.se>, Johan Tolinsson \<johan.tolinsson@kungsbacka.se>,
-mia.sandvall@kungsbacka.se \<mia.sandvall@kungsbacka.se>, Anette Stockhaus
-\<anette.stockhaus@kungsbacka.se>, Lisa Andersson \<lisa.andersson@kungsbacka.se>,
-susanna.andersson@kungsbacka.se \<susanna.andersson@kungsbacka.se>,
-mia.sandblom@kungsbackaposten.se \<mia.sandblom@kungsbackaposten.se>,
-Casper.sewerin@svt.se \<Casper.sewerin@svt.se>, Anton Johansson
+Lundin \<(e-post borttagen)>, Evelyn Orest \<(e-post borttagen)>,
+Helen Thylin \<(e-post borttagen)>, Anna-Karin Granberg \<anna-
+(e-post borttagen)>, Johan Tolinsson \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>, Anette Stockhaus
+\<(e-post borttagen)>, Lisa Andersson \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>, Anton Johansson
 
-\<anton.johansson.1@svt.se>
+\<(e-post borttagen)>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej Emma!
@@ -558,26 +558,26 @@ Mvh Johanna
 
 Skickat från Outlook för iOS
 
-Från: Emma Nilsson \<emma.nilsson2@kungsbacka.se>
+Från: Emma Nilsson \<(e-post borttagen)>
 Skickat: Wednesday, August 28, 2024 8:43:41 AM
-Till: Johanna Haraldsson \<johanna@emajsi.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
-Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
-\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
-\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
+Till: Johanna Haraldsson \<(e-post borttagen)>; Tommy Korsell \<(e-post borttagen)>;
+Kristofer Skogholm \<(e-post borttagen)>; Christina Hermansson
+\<(e-post borttagen)>; Stigert Pettersson \<(e-post borttagen)>;
+Malin de Verdier \<(e-post borttagen)>; Förskola Grundskola
+\<(e-post borttagen)>; Emanuel Forsell \<(e-post borttagen)>; Elin Hysén
+\<(e-post borttagen)>; Paul Blomdahl \<(e-post borttagen)>; Per Stenberg
+\<(e-post borttagen)>; Sofia Hansen \<(e-post borttagen)>; Peter Lundin
 
 <!-- sida 19 -->
 
-\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
-\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
-Johansson \<anton.johansson.1@svt.se>
+\<(e-post borttagen)>; Evelyn Orest \<(e-post borttagen)>; Helen Thylin
+\<(e-post borttagen)>; Anna-Karin Granberg \<(e-post borttagen)>; Johan
+Tolinsson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; Anette Stockhaus \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen) \<(e-post borttagen)>; Anton
+Johansson \<(e-post borttagen)>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej Johanna!
@@ -601,30 +601,30 @@ Rektor, Presseskolan F-3
 Kungsbacka kommun
 Förvaltningen för Förskola och Grundskola
 0300 – 83 55 85
-emma.nilsson2@kungsbacka.se
+(e-post borttagen)
 http://www.kungsbacka.se/Grundskolor/Presseskolan
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Skickat: den 27 augusti 2024 13:51
-Till: Tommy Korsell \<tommy.korsell@kungsbacka.se>; Kristofer Skogholm
-\<kristofer.skogholm@kungsbacka.se>; Christina Hermansson \<christina.hermansson2@kungsbacka.se>;
-Stigert Pettersson \<stigert.pettersson@kungsbacka.se>; Malin de Verdier
-\<malin.deverdier@kungsbacka.se>; Förskola Grundskola \<forskola.grundskola@kungsbacka.se>;
-Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén \<elin.hysen@kungsbacka.se>; Paul
+Till: Tommy Korsell \<(e-post borttagen)>; Kristofer Skogholm
+\<(e-post borttagen)>; Christina Hermansson \<(e-post borttagen)>;
+Stigert Pettersson \<(e-post borttagen)>; Malin de Verdier
+\<(e-post borttagen)>; Förskola Grundskola \<(e-post borttagen)>;
+Emanuel Forsell \<(e-post borttagen)>; Elin Hysén \<(e-post borttagen)>; Paul
 
 <!-- sida 20 -->
 
-Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg \<per.stenberg@kungsbacka.se>; Sofia Hansen
-\<sofia.hansen@kungsbacka.se>; Peter Lundin \<peter.lundin@kungsbacka.se>; Evelyn Orest
-\<evelyn.orest@kungsbacka.se>; Helen Thylin \<helen.thylin@kungsbacka.se>; Anna-Karin Granberg
-\<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson \<johan.tolinsson@kungsbacka.se>;
-mia.sandvall@kungsbacka.se; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Emma Nilsson
-\<emma.nilsson2@kungsbacka.se>; Lisa Andersson \<lisa.andersson@kungsbacka.se>;
-susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se; Casper.sewerin@svt.se;
-Anton Johansson \<anton.johansson.1@svt.se>
+Blomdahl \<(e-post borttagen)>; Per Stenberg \<(e-post borttagen)>; Sofia Hansen
+\<(e-post borttagen)>; Peter Lundin \<(e-post borttagen)>; Evelyn Orest
+\<(e-post borttagen)>; Helen Thylin \<(e-post borttagen)>; Anna-Karin Granberg
+\<(e-post borttagen)>; Johan Tolinsson \<(e-post borttagen)>;
+(e-post borttagen); Anette Stockhaus \<(e-post borttagen)>; Emma Nilsson
+\<(e-post borttagen)>; Lisa Andersson \<(e-post borttagen)>;
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+Anton Johansson \<(e-post borttagen)>
 Ämne: Uppföljning under hösten och till vem på kommunen
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -693,16 +693,16 @@ Från: Johanna Haraldsson
 
 <!-- sida 23 -->
 
-\<johanna@emajsi.se>
+\<(e-post borttagen)>
 Skickat:        den 15 september 2024 20:48
 Till:           Emma Nilsson; Tommy Korsell; Kristofer Skogholm; Christina Hermansson;
 Stigert Pettersson; Malin de Verdier; Förskola Grundskola; Emanuel Forsell;
 Elin Hysén; Paul Blomdahl; Per Stenberg; Sofia Hansen; Peter Lundin; Evelyn
 Orest; Helen Thylin; Anna-Karin Granberg; Johan Tolinsson;
-mia.sandvall@kungsbacka.se; Anette Stockhaus; Lisa Andersson;
-susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se;
-Casper.sewerin@svt.se; Anton Johansson;
-Julia.sandstenvikberg@norrahalland.se
+(e-post borttagen); Anette Stockhaus; Lisa Andersson;
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); Anton Johansson;
+(e-post borttagen)
 Ämne:           Re: Uppföljning under hösten och till vem på kommunen
 Bifogade filer: original-4D0B87B8-DB9F-4D0C-AC8A-76B12F818EA7.jpeg
 
@@ -719,9 +719,9 @@ Hur sker ert systematiska kvalitetsarbete på kommunen som ni talar och vitt och
 ni nu yttrat er kring vår överklagan till Förvaltningsrätten? Varför lades också punkt 7 till i nämndens
 möte enligt mitt tidigare mail? Insåg ni plötsligt att det var viktigt?
 
-@Anton Johansson @Julia.sandstenvikberg@norrahalland.se
-@mia.sandblom@kungsbackaposten.se
-@Casper.sewerin@svt.se
+@Anton Johansson @(e-post borttagen)
+@(e-post borttagen)
+@(e-post borttagen)
 
 Tacksam om ni följer upp detta då vi ej får några svar och lärarna hade ingen aning hur samarbete och
 uppföljning sker mellan skola och kommun om/när det kommer fram negativa effekter av besparingar
@@ -732,56 +732,56 @@ besparingar ger för effekter.
 Tack!
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Skickat: Tuesday, September 10, 2024 10:14:40 AM
-Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
-Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
-\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
-\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
+Till: Emma Nilsson \<(e-post borttagen)>; Tommy Korsell \<(e-post borttagen)>;
+Kristofer Skogholm \<(e-post borttagen)>; Christina Hermansson
+\<(e-post borttagen)>; Stigert Pettersson \<(e-post borttagen)>;
+Malin de Verdier \<(e-post borttagen)>; Förskola Grundskola
+\<(e-post borttagen)>; Emanuel Forsell \<(e-post borttagen)>; Elin Hysén
+\<(e-post borttagen)>; Paul Blomdahl \<(e-post borttagen)>; Per Stenberg
+\<(e-post borttagen)>; Sofia Hansen \<(e-post borttagen)>; Peter Lundin
 
 <!-- sida 24 -->
 
-\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
-\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
-Johansson \<anton.johansson.1@svt.se>
+\<(e-post borttagen)>; Evelyn Orest \<(e-post borttagen)>; Helen Thylin
+\<(e-post borttagen)>; Anna-Karin Granberg \<(e-post borttagen)>; Johan
+Tolinsson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; Anette Stockhaus \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen) \<(e-post borttagen)>; Anton
+Johansson \<(e-post borttagen)>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej på er!
 
 Jag inväntar fortfarande på svar nedan. Vem ansvarar för informationsöverförandet?
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 
 Datum: onsdag, 28 augusti 2024 19:39
-Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>, Tommy Korsell
-\<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
-\<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
-\<stigert.pettersson@kungsbacka.se>, Malin de Verdier
-\<malin.deverdier@kungsbacka.se>, Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
+Till: Emma Nilsson \<(e-post borttagen)>, Tommy Korsell
+\<(e-post borttagen)>, Kristofer Skogholm
+\<(e-post borttagen)>, Christina Hermansson
+\<(e-post borttagen)>, Stigert Pettersson
+\<(e-post borttagen)>, Malin de Verdier
+\<(e-post borttagen)>, Förskola Grundskola
+\<(e-post borttagen)>, Emanuel Forsell
 
-\<emanuel.forsell@kungsbacka.se>, Elin Hysén \<elin.hysen@kungsbacka.se>, Paul
-Blomdahl \<paul.blomdahl@kungsbacka.se>, Per Stenberg
-\<per.stenberg@kungsbacka.se>, Sofia Hansen \<sofia.hansen@kungsbacka.se>, Peter
-Lundin \<peter.lundin@kungsbacka.se>, Evelyn Orest \<evelyn.orest@kungsbacka.se>,
-Helen Thylin \<helen.thylin@kungsbacka.se>, Anna-Karin Granberg \<anna-
-karin.granberg@kungsbacka.se>, Johan Tolinsson \<johan.tolinsson@kungsbacka.se>,
-mia.sandvall@kungsbacka.se \<mia.sandvall@kungsbacka.se>, Anette Stockhaus
-\<anette.stockhaus@kungsbacka.se>, Lisa Andersson \<lisa.andersson@kungsbacka.se>,
+\<(e-post borttagen)>, Elin Hysén \<(e-post borttagen)>, Paul
+Blomdahl \<(e-post borttagen)>, Per Stenberg
+\<(e-post borttagen)>, Sofia Hansen \<(e-post borttagen)>, Peter
+Lundin \<(e-post borttagen)>, Evelyn Orest \<(e-post borttagen)>,
+Helen Thylin \<(e-post borttagen)>, Anna-Karin Granberg \<anna-
+(e-post borttagen)>, Johan Tolinsson \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>, Anette Stockhaus
+\<(e-post borttagen)>, Lisa Andersson \<(e-post borttagen)>,
 
-susanna.andersson@kungsbacka.se \<susanna.andersson@kungsbacka.se>,
-mia.sandblom@kungsbackaposten.se \<mia.sandblom@kungsbackaposten.se>,
-Casper.sewerin@svt.se \<Casper.sewerin@svt.se>, Anton Johansson
-\<anton.johansson.1@svt.se>
+(e-post borttagen) \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>,
+(e-post borttagen) \<(e-post borttagen)>, Anton Johansson
+\<(e-post borttagen)>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej Emma!
@@ -805,24 +805,24 @@ Mvh Johanna
 
 Skickat från Outlook för iOS
 
-Från: Emma Nilsson \<emma.nilsson2@kungsbacka.se>
+Från: Emma Nilsson \<(e-post borttagen)>
 Skickat: Wednesday, August 28, 2024 8:43:41 AM
-Till: Johanna Haraldsson \<johanna@emajsi.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
-Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
-\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
-\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
-\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
-\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
-\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
-\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+Till: Johanna Haraldsson \<(e-post borttagen)>; Tommy Korsell \<(e-post borttagen)>;
+Kristofer Skogholm \<(e-post borttagen)>; Christina Hermansson
+\<(e-post borttagen)>; Stigert Pettersson \<(e-post borttagen)>;
+Malin de Verdier \<(e-post borttagen)>; Förskola Grundskola
+\<(e-post borttagen)>; Emanuel Forsell \<(e-post borttagen)>; Elin Hysén
+\<(e-post borttagen)>; Paul Blomdahl \<(e-post borttagen)>; Per Stenberg
+\<(e-post borttagen)>; Sofia Hansen \<(e-post borttagen)>; Peter Lundin
+\<(e-post borttagen)>; Evelyn Orest \<(e-post borttagen)>; Helen Thylin
+\<(e-post borttagen)>; Anna-Karin Granberg \<(e-post borttagen)>; Johan
+Tolinsson \<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; Anette Stockhaus \<(e-post borttagen)>; Lisa Andersson
+\<(e-post borttagen)>; (e-post borttagen)
 
-\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
-Johansson \<anton.johansson.1@svt.se>
+\<(e-post borttagen)>; (e-post borttagen)
+\<(e-post borttagen)>; (e-post borttagen) \<(e-post borttagen)>; Anton
+Johansson \<(e-post borttagen)>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej Johanna!
@@ -848,28 +848,28 @@ Rektor, Presseskolan F-3
 Kungsbacka kommun
 Förvaltningen för Förskola och Grundskola
 0300 – 83 55 85
-emma.nilsson2@kungsbacka.se
+(e-post borttagen)
 http://www.kungsbacka.se/Grundskolor/Presseskolan
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Johanna Haraldsson \<johanna@emajsi.se>
+Från: Johanna Haraldsson \<(e-post borttagen)>
 Skickat: den 27 augusti 2024 13:51
-Till: Tommy Korsell \<tommy.korsell@kungsbacka.se>; Kristofer Skogholm
-\<kristofer.skogholm@kungsbacka.se>; Christina Hermansson \<christina.hermansson2@kungsbacka.se>;
-Stigert Pettersson \<stigert.pettersson@kungsbacka.se>; Malin de Verdier
-\<malin.deverdier@kungsbacka.se>; Förskola Grundskola \<forskola.grundskola@kungsbacka.se>;
-Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén \<elin.hysen@kungsbacka.se>; Paul
-Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg \<per.stenberg@kungsbacka.se>; Sofia Hansen
-\<sofia.hansen@kungsbacka.se>; Peter Lundin \<peter.lundin@kungsbacka.se>; Evelyn Orest
+Till: Tommy Korsell \<(e-post borttagen)>; Kristofer Skogholm
+\<(e-post borttagen)>; Christina Hermansson \<(e-post borttagen)>;
+Stigert Pettersson \<(e-post borttagen)>; Malin de Verdier
+\<(e-post borttagen)>; Förskola Grundskola \<(e-post borttagen)>;
+Emanuel Forsell \<(e-post borttagen)>; Elin Hysén \<(e-post borttagen)>; Paul
+Blomdahl \<(e-post borttagen)>; Per Stenberg \<(e-post borttagen)>; Sofia Hansen
+\<(e-post borttagen)>; Peter Lundin \<(e-post borttagen)>; Evelyn Orest
 
-\<evelyn.orest@kungsbacka.se>; Helen Thylin \<helen.thylin@kungsbacka.se>; Anna-Karin Granberg
-\<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson \<johan.tolinsson@kungsbacka.se>;
-mia.sandvall@kungsbacka.se; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Emma Nilsson
-\<emma.nilsson2@kungsbacka.se>; Lisa Andersson \<lisa.andersson@kungsbacka.se>;
-susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se; Casper.sewerin@svt.se;
-Anton Johansson \<anton.johansson.1@svt.se>
+\<(e-post borttagen)>; Helen Thylin \<(e-post borttagen)>; Anna-Karin Granberg
+\<(e-post borttagen)>; Johan Tolinsson \<(e-post borttagen)>;
+(e-post borttagen); Anette Stockhaus \<(e-post borttagen)>; Emma Nilsson
+\<(e-post borttagen)>; Lisa Andersson \<(e-post borttagen)>;
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+Anton Johansson \<(e-post borttagen)>
 Ämne: Uppföljning under hösten och till vem på kommunen
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1136,7 +1136,7 @@ Utvecklare                                                  Leg. Lärare   Idrot
 
 Förvaltning   FG                                            Förvaltning   FG
 
-pauline.brink@kungsbacka.se                                 maria.grantham@kungsbacka.se
+(e-post borttagen)                                 (e-post borttagen)
 
 0300-83     48 92                                           0300-83    68  01
 
@@ -3476,14 +3476,14 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)
 0300-835743
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
@@ -3527,7 +3527,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -3619,14 +3619,14 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Förvaltningen för förskola och grundskola arbetar för närvarande med att inventera kapaciteten i
@@ -3669,7 +3669,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -3758,14 +3758,14 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 En skolenhet med ändamålsenliga möjligheter utifrån det specifika behovet saknas idag. Inom önskat
@@ -3805,7 +3805,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -3868,14 +3868,14 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
-Anna Antoni              anna.antoni@kungsbacka.se  0300-835743
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
+Anna Antoni              (e-post borttagen)  0300-835743
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I Kungsbackas nordvästra del finns idag sju förskolor fördelat på Kullavik, Malevik och Särö.
@@ -3913,7 +3913,7 @@ Kungsbacka kommun
 U    Förskola och grundskola
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -4189,7 +4189,7 @@ Utvecklingsledare     strategisk   lokalförsörjning
 
 Förvaltning   för  förskola   och  grundskola
 
-anna.antoni@kungsbacka.se
+(e-post borttagen)
 
 0300-83     57 43
 
@@ -4203,7 +4203,7 @@ Utvecklingsledare     strategisk   lokalförsörjning         Utvecklingsledare 
 
 Förvaltning   för  förskola   och  grundskola               Förvaltning   för förskola   och  grundskola
 
-anna.flinck@kungsbacka.se                                   helen.stenum@kungsbacka.se
+(e-post borttagen)                                   (e-post borttagen)
 
 0300-83     53 87                                           0300-83    36  47
 
@@ -4639,7 +4639,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 146 -->
 
@@ -4870,7 +4870,7 @@ Rast                    143
 
 Från:      Johan Tolinsson
 Till:      Lars Sundbom
-Kopia:     Emanuel Forsell; Stigert Pettersson; Helene Thylin; munteanu.sena@hotmail.com; Anette Stockhaus
+Kopia:     Emanuel Forsell; Stigert Pettersson; Helene Thylin; (e-post borttagen); Anette Stockhaus
 Ärende:    Frågor till nämnden 16/11
 Datum:     den 2 oktober 2024 17:05:14
 Hej!

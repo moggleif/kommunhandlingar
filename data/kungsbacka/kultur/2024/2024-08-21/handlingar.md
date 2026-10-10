@@ -37,7 +37,7 @@ Sammanträde onsdagen den 21 augusti 2024 kl. 08:30 – 17:00 Ågrenska
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -226,7 +226,7 @@ material.
 
 3\. Avgiftsbelopp/taxetabell
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 6-1](handlingar.tabeller/6-1.csv)
 
@@ -290,7 +290,7 @@ Biblioteken i Kungs backa, taxa 2025 Sida 2 av 3
 Gäller från: 2025-01-01
 Ansvarig förvaltning:
 Kultur & Fritid
-info@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 
 Kungsbacka kommun
@@ -321,7 +321,7 @@ självkostnadsprincipen.
 3\. Mervärdesskatt
 För avgifter som omfattar uthyrning av personal gäller 25 % moms.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -385,7 +385,7 @@ Kontakt:
 Kungsbacka direkt
 0300-83 40 00
 
-info@kungsbacka.se
+(e-post borttagen)
 
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -416,7 +416,7 @@ kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teate
 
 3\. Avgiftsbelopp/taxetabeller
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
@@ -479,7 +479,7 @@ Beslutad av: Nämnden för Kultur & Fritid, 2024-08-21
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -525,7 +525,7 @@ taxa, men principen om avgiftsnivåer motsvarande marknadsnivå ska tillämpas �
 Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (1994:200). För hyra av personal gäller 25 %
 moms.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -602,7 +602,7 @@ Kontakt:
 
 Kungsbacka direkt
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 Kungsbacka kommun
 434 81 Kungsbacka
 kungsbacka.se
@@ -628,7 +628,7 @@ Innehåll
 8\. Övergångsbestämmelse ........................................................................................................................ 4
 9\. Ikraftträdande....................................................................................................................................... 5
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 19 -->
 
@@ -749,7 +749,7 @@ Kontakt:
 
 Kungsbacka direkt
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 Kungsbacka kommun
 434 81 Kungsbacka
 kungsbacka.se

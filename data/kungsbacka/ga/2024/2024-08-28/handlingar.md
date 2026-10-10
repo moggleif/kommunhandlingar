@@ -39,7 +39,7 @@ Paus 18:15-18:30
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -6850,7 +6850,7 @@ Kungsbacka       kommun
 
 Version till kommunfullmäktige 2024-06-13
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 166 -->
 
@@ -10282,7 +10282,7 @@ ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats
 
 Kungsbacka kommun
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 kungsbacka.se
 
 <!-- sida 242 -->
@@ -10456,7 +10456,7 @@ Beslut
 Datum 2024-06-24
 Huvudman                             Dnr 2024:2418
 Kungsbacka kommun                    Sida 1 (5)
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 
 Ärendet
 
@@ -10707,7 +10707,7 @@ Hur genomförs granskningen?
 Inför granskningen önskar vi ta del av viss information. I bilaga 1 framgår
 vilken information vi önskar ta del av.
 Dokumenten skickas in av huvudmannen senast den 15 augusti 2024 till
-dokument.goteborg@skolinspektionen.se eller till Skolinspektionen, Box
+(e-post borttagen) eller till Skolinspektionen, Box
 2320, 403 15 Göteborg. Ange Skolinspektionens diarienummer för
 granskningen (SI 2024:493) i allt material som sänds in.
 
@@ -10735,7 +10735,7 @@ eventuella utvecklingsinsatser behövs.
 
 Om du har frågor
 Vid frågor om granskningen är ni välkomna att kontakta oss. Använd gärna
-dokument.goteborg@skolinspektionen.se för frågor så kan ni få svar även
+(e-post borttagen) för frågor så kan ni få svar även
 under semestertider. Observera att svar dock kan dröja lite längre än
 vanligt under sommaren.
 
@@ -10779,7 +10779,7 @@ huvudmannen.
 Senast den 15 augusti 2024 ska informationen ha inkommit
 Skolinspektionen. Hänvisa till Skolinspektionens diarienummer
 SI 2024:493 i de handlingar som sänds in. Skicka svaret till
-dokument.goteborg@skolinspektionen.se eller per post till
+(e-post borttagen) eller per post till
 Skolinspektionen, Box 2320, 403 15 Göteborg.
 Vid frågor går det bra att skicka dessa till mejladressen ovan.
 
@@ -10950,13 +10950,13 @@ Till:             Förskola Grundskola; Gymnasium & Arbetsmarknad
 Ämne:             VB: Skolinspektionens dag 29 november – Inbjudan till rektor, huvudman,
 chef skol- och utbildningsförvaltning, utvecklingsansvarig, skolpolitiker
 
-Från: Skolinspektionen \<skolinspektionensdag@herromar.se>
+Från: Skolinspektionen \<(e-post borttagen)>
 Skickat: den 24 juni 2024 13:04
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Skolinspektionens dag 29 november – Inbjudan till rektor, huvudman, chef skol- och
 utbildningsförvaltning, utvecklingsansvarig, skolpolitiker
 
-Du får inte e-post ofta från skolinspektionensdag@herromar.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
 

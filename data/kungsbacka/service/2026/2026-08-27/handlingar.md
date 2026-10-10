@@ -175,7 +175,7 @@ a. 2 PA
 
 På sida 2 finns mer information om planprocessen.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 » infoMkungsbacka.se +» kungsbacka.se
 
 <!-- sida 5 -->
@@ -323,7 +323,7 @@ Förvaltningschef Service                Verksamhetschef Lokalförsörjning
 1 (1)
 Nämnden för Service                                       Kungsbacka kommun
 434 81 Kungsbacka
-Service@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -338,8 +338,8 @@ inom Frillesås-Rya 3:77 m.fl. i Frillesås.
 
 Aktuella projekt | Kungsbacka kommun
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 10 -->
 

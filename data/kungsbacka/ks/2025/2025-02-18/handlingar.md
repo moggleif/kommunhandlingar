@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37, Stadshuset
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
@@ -230,7 +230,7 @@ Tillförordnad kommundirektör       Ekonomichef
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -14817,7 +14817,7 @@ Datum            Diarienummer
 2024-06-10       2063-2024
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande     enligt 3 kap 10 § plan och
 
@@ -14862,7 +14862,7 @@ I rollen att ta tillvara och samordna statens intressen har
 Länsstyrelsen inhämtat synpunkter på förslaget till översiktsplan
 från berörda myndigheter. Yttranden över planförslaget har
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 414 -->
@@ -15900,11 +15900,11 @@ Trafikverket, daterat 2024-05-20, dnr TRV 2024/28056
 SGI, daterat 2024-05-06, dnr 4.3.1-2403-0400
 
 Kopia till:
-SGI: sgi@sgi.se
-Trafikverket: trafikverket@trafikverket.se
-Luftfartsverket: lfv@lfv.se
+SGI: (e-post borttagen)
+Trafikverket: (e-post borttagen)
+Luftfartsverket: (e-post borttagen)
 
-Myndigheten för samhällsskydd och beredskap: registrator@msb.se
+Myndigheten för samhällsskydd och beredskap: (e-post borttagen)
 
 Så här hanterar Länsstyrelsen personuppgifter
 
@@ -15912,10 +15912,10 @@ Information om hur vi hanterar dessa finns på www.lansstyrelsen.se/dataskydd.
 
 <!-- sida 435 -->
 
-Från:          "Karin Bergdahl" \<karin.bergdahl@sgi.se>
+Från:          "Karin Bergdahl" \<(e-post borttagen)>
 Skickat:       Mon, 6 May 2024 13:40:50 +0100
-Till:          "N-RB-Plan" \<plan.halland@lansstyrelsen.se>
-Cc:            "'Kungsbacka kommun'" \<samhallsbyggnadskontoret@kungsbacka.se>
+Till:          "N-RB-Plan" \<(e-post borttagen)>
+Cc:            "'Kungsbacka kommun'" \<(e-post borttagen)>
 Ämne:          SGI Yttrande FÖP Kungsbacka LST dnr 2063-2024
 Bilagor:       Yttrande FÖP Kungsbacka.pdf
 
@@ -15927,10 +15927,10 @@ Karin Bergdahl
 Geolog, Fil. Mag
 Statens geotekniska institut, SGI
 Avd. Georisker och geodata
-Hugo Grauers gata 5 B
+Hugo (adress borttagen)
 412 96 GÖTEBORG
 Telefon: +46 31 7496581
-Mobil: +46 709730184
+Mobil: (mobilnummer borttaget)
 
 SGI - Säkert och hållbart att bo och färdas
 
@@ -16074,10 +16074,10 @@ Besöksadress: Olaus Magnus väg 35 E-post: sgiQMsgi.se Org.nr: 202100-0712
 
 <!-- sida 439 -->
 
-Från:          "Gibson Kester" \<Kester.Gibson@msb.se>
+Från:          "Gibson Kester" \<(e-post borttagen)>
 Skickat:       Wed, 8 May 2024 14:50:29 +0100
-Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>
-Cc:            "Salomonsson Jennie" \<jennie.salomonsson@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<(e-post borttagen)>
+Cc:            "Salomonsson Jennie" \<(e-post borttagen)>
 Ämne:          Sv: Begäran om yttrande över samråd om fördjupning av översiktsplan för
 Kungsbacka stad, 2063-2024
 Bilagor:       2024-04746 FÖP Kungsbacka stad.pdf
@@ -16102,7 +16102,7 @@ Enheten för arbete med naturolyckor och klimatanpassning
 651 81 Karlstad
 Tel växel 0771-240 240
 Tel direkt 010-240 5396
-E-post kester.gibson@msb.se
+E-post (e-post borttagen)
 www.msb.se
 
 <!-- sida 440 -->
@@ -16114,10 +16114,10 @@ Ert datum     Er referens
 2024-0311     2063-2024
 
 Enheten för arbete med naturolyckor och Länsstyrelsen Hallands län
-klimatanpassning              halland@lansstyrelsen.se
+klimatanpassning              (e-post borttagen)
 Kester Gibson
 010-240 5396
-Kester.gibson@msb.se
+(e-post borttagen)
 
 Förslag till fördjupad översiktsplan för Kungsbacka kommun
 
@@ -16162,7 +16162,7 @@ under år 2023 och är ett viktigt underlag i arbetet med riskhantering och
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-051 -08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -16222,7 +16222,7 @@ amnen/naturolyckor-och-klimat/oversvamning/oversvamningsdirektivet/
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -16284,7 +16284,7 @@ https://rib.msb.se/filer/pdf/27432.pdf
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -16347,7 +16347,7 @@ i samråd med MSB:s verksamhet för Rakel och ledningssystem. Detta gäller
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -16408,7 +16408,7 @@ framtagande av översiktsplan.
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -16445,18 +16445,18 @@ Dronsfield deltagit.
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
 
 <!-- sida 446 -->
 
-Från:          "elizabeth.devlin@trafikverket.se" \<elizabeth.devlin@trafikverket.se>
+Från:          "(e-post borttagen)" \<(e-post borttagen)>
 Skickat:       Mon, 20 May 2024 11:15:12 +0100
-Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>;
-"samhallsbyggnadskontoret@kungsbacka.se" \<samhallsbyggnadskontoret@kungsbacka.se>
-Cc:            "Karlberg Andreas K" \<andreas.k.karlberg@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<(e-post borttagen)>;
+"(e-post borttagen)" \<(e-post borttagen)>
+Cc:            "Karlberg Andreas K" \<(e-post borttagen)>
 Ämne:          TRV 2024/28056 Trafikverkets synpunkter angående fördjupad översiktsplan för
 Kungsbacka stad 2050 i Kungsbacka kommun
 Bilagor:       TRV 2024-28056 Smr ytt v3.pdf
@@ -16472,7 +16472,7 @@ Med vänlig hälsning
 Liz Devlin
 Samhällsplanerare
 
-elizabeth.devlin@trafikverket.se
+(e-post borttagen)
 Direkt: 010-124 27 39
 
 Trafikverket Region Väst
@@ -16490,11 +16490,11 @@ Ert ärendenummer                   Sidor
 1(5)
 
 Kungsbacka Kommun                  Kopia till:
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Länsstyrelsen Hallands län
 Samhällsbyggnadsenheten
-halland@lansstyrelsen.se
+(e-post borttagen)
 
 Trafikverkets synpunkter   angående  fördjupad  översiktsplan  för
 
@@ -16559,8 +16559,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 448 -->
 
@@ -16639,8 +16639,8 @@ T
 maxlängd kö (90-percentil) som är inte nå krav i VGU.
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 449 -->
 
@@ -16716,8 +16716,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 450 -->
 
@@ -16795,8 +16795,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 451 -->
 
@@ -16860,8 +16860,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 452 -->
 
@@ -16876,7 +16876,7 @@ Fördjupad översiktsplan för Kungsbacka stad, (FÖP staden)
 Beställare
 
 Namn och roll                 E-postadress
-Emma Kjernald                 emma.kjernald@kungsbacka.se
+Emma Kjernald                 (e-post borttagen)
 
 Status
 
@@ -17319,7 +17319,7 @@ Tillförordnad kommundirektör       Administrativ chef
 
 <!-- sida 462 -->
 
-Från:Kansli Tolkförmedlingväst \<kansli@tolkformedlingvast.se>
+Från:Kansli Tolkförmedlingväst \<(e-post borttagen)>
 Skickat:den 7 oktober 202415:15
 Till:
 Ämne:Kommunalförbundet öppnar upp för nya medlemmar
@@ -17335,8 +17335,8 @@ Ansökan om medlemskap ska vara Tolkförmedling Väst tillhanda senast 11
 mars 2025. För mer information se bifogade dokument och
 www.tolkformedlingvast.se.
 Vid eventuella frågor kontakta oss gärna på
-kansli@tolkformedlingvast.se eller ring förbundssekreterare Emma Davidsson
-på telefon 0720-830510.
+(e-post borttagen) eller ring förbundssekreterare Emma Davidsson
+på telefon (mobilnummer borttaget).
 
 Med vänlig hälsning
 
@@ -17345,8 +17345,8 @@ Förbundssekreterare
 
 Tolkförmedling Väst
 
-E-post: kansli@tolkformedlingvast.se
-Telefon: 010-211 73 79 | Mobil: 0720-83 05 10
+E-post: (e-post borttagen)
+Telefon: 010-211 73 79 | Mobil: (mobilnummer borttaget)
 
 Postadress: Box 113 05, 404 27 Göteborg
 Besöksadress: Johan på Gårdas gata 5A, Göteborg
@@ -17396,7 +17396,7 @@ För ansökan om medlemskap krävs ett fullmäktigebeslut samt en ifylld ansökn
 Ansökan ska vara Tolkförmedling Väst tillhanda senast 11 mars 2025.
 
 För mer information gå in på www.tolkformedlingvast.se eller kontakta oss gärna på
-kansli@tolkformedlingvast.se eller ring förbundssekreterare Emma Davidsson på 0720-830510.
+(e-post borttagen) eller ring förbundssekreterare Emma Davidsson på (mobilnummer borttaget).
 
 1 (1)
 
@@ -17793,11 +17793,11 @@ Beslutad av:   Kommunstyrelsen 2024-06-18 § 165-166, KS 2024-00327, förslag 20
 Giltigt från:  2024-06-18
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 474 -->
 
@@ -18469,7 +18469,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -19142,8 +19142,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: | Datum: 2024-11-11 14:20 Sida 1 av 4
 
@@ -19183,8 +19183,8 @@ BÄCKEN 1:33              Linnekullevägen 28A-28B, 43932 Onsala
 
 BÄCKEN 1:34              Linnekullevägen 30A-30B, 43932 Onsala
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: | Datum: 2024-11-11 14:20 Sida 2 av 4
 
@@ -19214,8 +19214,8 @@ Vill du bifoga en situationskarta?
 
 Nej, jag har markerat i kartan i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: | Datum: 2024-11-11 14:20 Sida 3 av 4
 
@@ -19225,8 +19225,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: | Datum: 2024-11-11 14:20 Sida 4 av 4
 
@@ -19599,7 +19599,7 @@ ekonomisk kompensation från statens sida. Den kumulativa effekten är svår att
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -19717,7 +19717,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 532 -->
@@ -20097,7 +20097,7 @@ hantera mer administration. Detta är dock genomförbart med befintliga resurser
 1 (2)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -20377,7 +20377,7 @@ ledstjärna.
 1 (4)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -23983,7 +23983,7 @@ ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats
 
 Kungsbacka kommun
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 kungsbacka.se
 
 <!-- sida 626 -->
@@ -24464,11 +24464,11 @@ Beslutad av:    Bereds
 Gäller från:    Bereds
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 639 -->
 

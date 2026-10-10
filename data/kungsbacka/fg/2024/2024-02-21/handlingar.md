@@ -39,7 +39,7 @@ Stadshuset Gåsevadholm, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -3327,7 +3327,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 75 -->
 
@@ -3962,7 +3962,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § xx
 Gäller från: 2024-xx-xx
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -3975,7 +3975,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 100 -->
 
@@ -4616,7 +4616,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § xx
 Gäller från: 2024-xx-xx
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -4869,7 +4869,7 @@ eller sexuella trakasserier på sätt som avses i diskrimineringslagen (2008:567
 För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade med en skolenhet eller förskoleenhet gäller första och andra
 styckena för den personal som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 132 -->
 

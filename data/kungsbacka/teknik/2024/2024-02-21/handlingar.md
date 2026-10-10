@@ -31,7 +31,7 @@ Teknik    2023
 
 GDPR
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -3921,7 +3921,7 @@ Dessa är Avfall och Återvinning, Vatten och Avlopp och Kungsbacka bredbandsnä
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4322,7 +4322,7 @@ sjunker till 4,3 miljoner kronor
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5026,11 +5026,11 @@ Beslutad av:    Nämnden för Teknik, 2022-11-16 §85
 Gäller från:    2023-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 119 -->
 
@@ -6175,7 +6175,7 @@ Verksamhetschef Trafik & Utemiljö
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6232,7 +6232,7 @@ godtagbar bullernivå.
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6479,7 +6479,7 @@ Mina samlade iakttagelser gällande nämnden för Teknik under 2023 ger mig inge
 lämna särskilda råd.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 163 -->
 
@@ -6512,7 +6512,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 164 -->
 

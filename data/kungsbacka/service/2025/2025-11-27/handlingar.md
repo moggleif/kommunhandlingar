@@ -136,7 +136,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 21 oktober 2025 vill vi ha di
 punkter. Kom ihåg att ange ditt namn, adress och fastighetsbeteckning.
 
 Lämna dina synpunkter via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
-via e-post till: samhallsbyggnadskontoret@kungsbacka.se
+via e-post till: (e-post borttagen)
 
 e
 
@@ -220,12 +220,12 @@ Kontaktuppgifter              Mer information!
 Kontakta gärna:               www.kungsbacka.se/aktuellaprojekt
 (Alla planhandlingar inklusive utredningar)
 Maria Brink, planarkitekt
-maria.brink@kungsbacka.se
+(e-post borttagen)
 Stadshusets entré,
 KungsbSaccakna na QR-koden
 (Läsex planhandlingar)
 Fortesa Bytyqi, exploateringsingengör och läs mer på
-fortesa.bytyqi@kungsbacka.se     projektets websida!
+(e-post borttagen)     projektets websida!
 Scanna QR-koden
 och läs mer på
 projektets webbsida!
@@ -322,8 +322,8 @@ Välkommen          med     dina    synpunkter!
 
 Ändring    av  detaljplan    för Tingbergsskolan
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 9 -->
 

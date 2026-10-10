@@ -1125,9 +1125,9 @@ Nämndens för Gymnasium & Arbetsmarknad
 Till                                                  Datum
 Landsbygds- och infrastrukturdepartementet       2024-03-11
 
-li.remissvar@regeringskansliet.se                 Diarienummer
+(e-post borttagen)                 Diarienummer
 GA-2024-00028
-kopia till: li.bb@regeringskansliet.se
+kopia till: (e-post borttagen)
 Ert diarienummer
 LI2024/00083
 
@@ -1158,7 +1158,7 @@ Kungsbacka kommun
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4318,7 +4318,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 93 -->
 
@@ -4450,8 +4450,8 @@ E-post: li.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 15 april 2024. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.bb@regeringskansliet.se. Ange diarienummer LI2024/00083 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2024/00083 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -6812,7 +6812,7 @@ såväl kvinnor som män
 Beslut
 
 KUNGSBACKA KOMMUN                                 2024-03-01
-kommun@kungsbacka.se
+(e-post borttagen)
 1 (18)
 Dnr SI 2023:8431
 
@@ -6915,7 +6915,7 @@ Huvudmannen ska senast den 27 september 2024 redovisa till Skolinspektionen
 vilka förbättringsåtgärder som vidtagits utifrån de identifierade
 utvecklingsområdena.
 
-Redovisningen skickas via e-post, till dokument.goteborg@skolinspektionen.se, eller
+Redovisningen skickas via e-post, till (e-post borttagen), eller
 per post till, Skolinspektionen, Box 2320, 402 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr 2023:8431) i de handlingar
 
@@ -7573,7 +7573,7 @@ respektive uppdrag aktuell procentsats av 973 805 kronor (årsarvodet för övri
 kommunalråd):
 
 Kungsbacka kommun 434 81 Kungsbacka | Besöksadress Vägmästaren, Syréngatan 1
-Telefon 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Telefon 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 171-1](handlingar.tabeller/171-1.csv)
 
@@ -7672,11 +7672,11 @@ Beslutad av:    Kommunfullmäktige 6 februari 2024 § 8, KS 2023-00709
 Gäller från:    2024-02-06
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 175 -->
 
@@ -7847,11 +7847,11 @@ Beslutad av:    Kommunfullmäktige 6 februari 2024 § 10, KS-2023-00807
 Gäller från:    2024-02-06
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 180 -->
 
@@ -8148,11 +8148,11 @@ Beslutad av:    Kommunfullmäktige 6 februari 2024 § 11, KS-2023-00664
 Gäller från:    2024-02-06
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 188 -->
 

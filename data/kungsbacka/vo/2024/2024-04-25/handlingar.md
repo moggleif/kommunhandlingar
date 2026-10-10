@@ -104,7 +104,7 @@ Rapport,                            mars                 2024
 <!-- sida 4 -->
 
 Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Uppföljning av äldres digitala inköp av färdigrätter och matvaror
@@ -113,7 +113,7 @@ Skapat av:                    Point AB
 
 Författare:                   Markus Lagerqvist
 
-E-post:                       markus@point.nu
+E-post:                       (e-post borttagen)
 Dokumentdatum:                2024-03-27
 
 Version:                      Version 1
@@ -124,12 +124,12 @@ Kontaktperson:                Annakarin Svennebjer
 Ekonomi- och kvalitetschef,
 
 Vård & Omsorg
-E-post:                       annakarin.svennebjer@kungsbacka.se
+E-post:                       (e-post borttagen)
 
 <!-- sida 5 -->
 
 Bakgrund                                                                                                  Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Nämnden för Vård & omsorg beslutade 2020 att införa digitala inköp av dagligvaror
@@ -163,7 +163,7 @@ med 2023 års undersökning görs där det är möjligt.
 <!-- sida 6 -->
 
 Datainsamling          och    metod                                                                       Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Urval
@@ -209,7 +209,7 @@ Intervjuerna genomfördes under februari–mars 2024.
 <!-- sida 7 -->
 
 Bakgrundsdata                                                                                             Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 [Tabell 7-1](handlingar.tabeller/7-1.csv)
@@ -255,7 +255,7 @@ Point
 <!-- sida 9 -->
 
 Sammanfattning                                                                                            Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Av de 66 brukare som ställde som deltog var det 38 procent som idag inte utnyttjar Ett klagomål många har på tjänsten är att det saknas varor i beställningssortimentet
@@ -302,7 +302,7 @@ Point
 <!-- sida 11 -->
 
 Antalet     färdigrätter       möter      kundernas                                                       Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 behov
 
@@ -341,7 +341,7 @@ OBS! Skala 2024 – ja/nej, skala 2023 – nöjd, varken eller, inte nöjd.
 <!-- sida 12 -->
 
 Utbudet       av  färdigrätter       tillfredsställer                                                     Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 de   flesta    brukare
 
@@ -384,7 +384,7 @@ Skala 2024 – ja/nej, skala 2023 – nöjd, varken eller, inte nöjd.
 <!-- sida 13 -->
 
 De   flesta    tar  del   av  hela   utbudet                                                              Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 av   färdiga     maträtter
 
@@ -413,7 +413,7 @@ OBS! Skala 2024 – ja/ibland/nej
 <!-- sida 14 -->
 
 Mycket       viktigt   med     delaktighet                                                                Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Hela 87 procent av brukarna uppger att de är med och väljer vilka färdiga maträtter
@@ -447,7 +447,7 @@ färdiga maträtter?
 <!-- sida 15 -->
 
 Hemtjänsten          gör   oftast    beställningen                                                        Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Liksom 2023 är det oftast hemtjänsten som hjälper till och gör beställningen åt
@@ -473,7 +473,7 @@ OBS! 2023 inkluderas anhörig i alternativet ”själv eller med hjälp av anhö
 <!-- sida 16 -->
 
 Många       känner     sig  inte   trygga     att                                                         Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 själva    beställa
 
@@ -515,7 +515,7 @@ sådant,                        jag          vill        ha          den        
 <!-- sida 18 -->
 
 Berättande         svar:   Varför     är  man    inte                                                     Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 trygg    att   beställa     själv
 
@@ -545,7 +545,7 @@ hjälpen.                                                      ‒ För synens s
 <!-- sida 19 -->
 
 Berättande         svar:   Vad    skulle   krävas     för                                                 Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 att   börja   beställa     själv
 
@@ -581,7 +581,7 @@ digitala men jag hade gärna velat göra det.
 <!-- sida 20 -->
 
 Berättande         svar:   Fördelar                                                                       Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 De allra flesta brukare ser fördelar med de digitala beställningarna, endast 10
@@ -622,7 +622,7 @@ bära                och             får          det            hemkört.”
 <!-- sida 22 -->
 
 Berättande         svar:   Fördelar      med     att  inte                                                Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 behöva       gå  till en  butik    för  att  handla
 
@@ -658,7 +658,7 @@ acceptera att man inte kan handla.
 <!-- sida 23 -->
 
 Berättande         svar:   Fördelar      med     att  inte                                                Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 behöva       gå  till en  butik    för  att  handla
 
@@ -702,7 +702,7 @@ vill äta, mer fisk och frukt.
 <!-- sida 24 -->
 
 Nackdel       att  inte   kunna     se  och                                                               Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 känna      på  varorna
 
@@ -748,7 +748,7 @@ varorna,                          se         på          hållbarheten.”
 <!-- sida 26 -->
 
 Berättande         svar:   Nackdelar        med    att                                                    Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 beställa     digitalt
 
@@ -788,7 +788,7 @@ hållbarheten.
 <!-- sida 27 -->
 
 Berättande         svar:   Nackdelar        med    att                                                    Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 beställa     digitalt
 
@@ -828,7 +828,7 @@ själv. Men jag är ändå nöjd och tacksam för hjälpen, men god är maten in
 <!-- sida 28 -->
 
 Övriga     synpunkter         och   önskemål                                                              Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 Brukarna fick i slutet av intervjun gavs tillfälle att framföra andra synpunkter
@@ -860,7 +860,7 @@ affärer.”
 <!-- sida 30 -->
 
 Berättande         svar:   Övriga     synpunkter                                                          Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 eller   önskemål
 
@@ -902,7 +902,7 @@ nästan varje leverans.
 <!-- sida 31 -->
 
 Point
-E         hello@point.nu
+E         (e-post borttagen)
 W         point.nu
 
 <!-- sida 32 -->

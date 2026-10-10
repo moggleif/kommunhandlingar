@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
-patrik.johansson2@kungsbacka.se                                  Storgatan 37
+(e-post borttagen)                                  Storgatan 37
 Stadshuset
 www.kungsbacka.se
 

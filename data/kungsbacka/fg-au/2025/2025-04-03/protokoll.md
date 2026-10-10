@@ -457,7 +457,7 @@ anledning av verksamhetsförändring - Ekolek
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan angående förändring av
 verksamhet från Ek o lek barnomsorg AB med en ny dagbarnvårdare på
-Nordgårdsvägen 103, 429 34 Kullavik. Godkännandet omfattar 6 barn. Har
+(adress borttagen), 429 34 Kullavik. Godkännandet omfattar 6 barn. Har
 verksamheten inte startat inom två år behöver den enskilde ansöka om nytt
 godkännande.
 
@@ -705,6 +705,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting

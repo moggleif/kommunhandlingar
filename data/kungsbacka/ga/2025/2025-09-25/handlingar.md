@@ -39,7 +39,7 @@ Paus 18.20-18.35
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -2411,7 +2411,7 @@ Beslutad av: Nämnden för Gymnasium & Arbetsmarknad 2025-09-25
 
 Gäller från: 2025-10-01
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 64 -->
 
@@ -4752,7 +4752,7 @@ xx
 Gäller från: xx
 
 Ansvarig förvaltning: Gymnasium & Arbetsmarknad
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
@@ -4928,7 +4928,7 @@ ICA påfart, där vi tillsammans ska ge möjlighet för två invånare att jobba
 under sommaren. I Kungsbacka gick dessa platser till två KAA ungdomar vilka matchades
 väl.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 112 -->
 
@@ -7219,7 +7219,7 @@ Arbetsförmedlingen i Stockholm och mycket mer.
 Trevlig läsning!
 Björn       Elmqvist
 
-bjorn@werket.nu | 070-888 26 01
+(e-post borttagen) | (mobilnummer borttaget)
 
 2
 

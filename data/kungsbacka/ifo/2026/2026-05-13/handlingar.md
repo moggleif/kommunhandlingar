@@ -219,7 +219,7 @@ rättssäkerheten för både barn och vårdnadshavare i hela LVU-processen.
 
 1 (3)
 Nämnden för Individ & familjeomsorg                       Kungsbacka kommun
-individochfamiljeomosrg@kungsbacka.se                      434 81 Kungsbacka
+(e-post borttagen)                      434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -22469,7 +22469,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 511 -->
 
@@ -22607,8 +22607,8 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 10
 augusti 2026. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
-s.sof@regeringskansliet.se. Ange diarienummer S2026/00236 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer S2026/00236 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -22656,7 +22656,7 @@ Departementsråd
 
 Kopia till
 
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -22757,7 +22757,7 @@ Ordförande               Förvaltningschef
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -22769,7 +22769,7 @@ www.kungsbacka.se
 
 Rättsavdelningen                  Enligt sändlista
 Cecilia Östergren
-cecilia.ostergren@socialstyrelsen.se
+(e-post borttagen)
 
 Remiss av förslag till föreskrifter och allmänna råd som
 avser bostad med särskild service enligt LSS
@@ -22788,11 +22788,11 @@ Socialstyrelsen senast den 10 juni 2026.
 Vi är tacksamma för yttranden per e-post i wordformat för att underlätta vårt
 arbete med att sammanställa svaren. Remissvar skickas till
 
-socialstyrelsen@socialstyrelsen.se.
+(e-post borttagen).
 
 Vänligen ange diarienumret 4.1.10777/2026 i remissvaret och ämnesraden.
 
-SOCIALSTYRELSEN Telefon 075-247 30 00 socialstyrelsen@socialstyrelsen.se
+SOCIALSTYRELSEN Telefon 075-247 30 00 (e-post borttagen)
 106 30 Stockholm Fax 075-247 32 52 www.socialstyrelsen.se
 
 <!-- sida 519 -->
@@ -22803,11 +22803,11 @@ Kontaktpersoner:
 
 Bostad med särskild service för barn eller ungdomar:
 Cecilia Östergren
-cecilia.ostergren@socialstyrelsen.se
+(e-post borttagen)
 
 Bostad med särskild service för vuxna:
 Monica Panagio
-monica.panagio@socialstyrelsen.se
+(e-post borttagen)
 
 Med vänlig hälsning
 
@@ -23351,7 +23351,7 @@ HSLF-FS
 HSLF-FS kan laddas ned eller beställas via
 Socialstyrelsens publikationsservice
 webb: www.socialstyrelsen.se/publikationer
-e-post: publikationsservice@socialstyrelsen.se
+e-post: (e-post borttagen)
 Ljungbergs Tryckeri i Klippan AB
 
 12
@@ -26864,7 +26864,7 @@ Monica Panagio
 HSLF-FS kan laddas ned eller beställas via
 Socialstyrelsens publikationsservice
 webb: www.socialstyrelsen.se/publikationer
-e-post: publikationsservice@socialstyrelsen.se
+e-post: (e-post borttagen)
 Ljungbergs Tryckeri i Klippan AB
 10
 

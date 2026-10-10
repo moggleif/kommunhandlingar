@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -133,7 +133,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -455,7 +455,7 @@ god tid som möjligt.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -643,7 +643,7 @@ Kungsbacka kommun
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -868,7 +868,7 @@ betrakta narkotikapolitiken som en del av en bredare samhällsstruktur.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -968,7 +968,7 @@ samt Samsjuklighetsutredningens reformförslag, Från delar till helhet.
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1078,7 +1078,7 @@ förvaltning av ANDTS-förebyggande metoder välkomnas särskilt.
 1 (4)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1401,7 +1401,7 @@ databas och att skapa ramverk för framåtsyftande planering. Det är avgörande
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1473,7 +1473,7 @@ Boverket förespråkar en lägesbestämd planering. Redan på kommunal nivå är
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1701,7 +1701,7 @@ promemorian av vilka skäl ändringen föreslås.
 1 (2)
 Kommnstyrelsen                                            Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1744,9 +1744,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
@@ -1788,7 +1788,7 @@ Kungsbacka kommun
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1904,9 +1904,9 @@ Nämndens för Gymnasium & Arbetsmarknad
 Till                                                  Datum
 Landsbygds- och infrastrukturdepartementet       2024-03-11
 
-li.remissvar@regeringskansliet.se                 Diarienummer
+(e-post borttagen)                 Diarienummer
 GA-2024-00028
-kopia till: li.bb@regeringskansliet.se
+kopia till: (e-post borttagen)
 Ert diarienummer
 LI2024/00083
 
@@ -1937,7 +1937,7 @@ Kungsbacka kommun
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2734,7 +2734,7 @@ psykiska    hälsa   med    fysisk  aktivitet.
 
 \-  Underlag ansökan ”Samverkan för ökad rörelse” 2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 68 -->
 

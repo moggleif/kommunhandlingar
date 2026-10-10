@@ -445,7 +445,7 @@ Verksamhetschef                    Trafikingenjör
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Hesham Miab
-0733-535788                                                   Besöksadress
+(mobilnummer borttaget)                                                   Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

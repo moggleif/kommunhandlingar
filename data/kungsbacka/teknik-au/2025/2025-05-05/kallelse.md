@@ -41,7 +41,7 @@ ordförande                        sekreterare
 Simon Nissen                                                 Kungsbacka kommun
 Teknik Stöd & Styrning                                        434 81 Kungsbacka
 Direkt
-simon.nissen@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

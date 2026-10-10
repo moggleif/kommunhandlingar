@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -4104,11 +4104,11 @@ Beslutad av:    Kommunstyrelsen 2025-XX-XX § X
 Gäller från:    2025-XX-XX
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -4336,11 +4336,11 @@ Beslutad av:    Kommunfullmäktige 2024-04-09 § 59, Kommunstyrelsen 2024-03-19 
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 96 -->
 
@@ -4599,7 +4599,7 @@ Samtliga nämnder
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4871,11 +4871,11 @@ Beslutad av:    Kommunfullmäktige 12 dec 2025 § xxx, KS 2025-xx
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 109 -->
 
@@ -5089,11 +5089,11 @@ Beslutad av:    Kommunfullmäktige d mån 2025 § xxx, KS 2025-xx
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 115 -->
 
@@ -5451,11 +5451,11 @@ Beslutad av:    Kommunfullmäktige 8 oktober 2019 § 142 Dnr KS 2019-00377
 
 Gäller från:    2019-10-08
 Ansvarig förvaltning: Kommunstyrelsens förvaltning, samhällsbyggnadskontoret
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 124 -->
 
@@ -5604,7 +5604,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Peter Gustavsson
 Specialist trafikplanering                                    Besöksadress
 Stadshuset, Storgatan 37
-peter.gustavsson@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -7736,7 +7736,7 @@ port                       ringar
 Lund | Göteborg | Stockholm | Luleå
 
 Trivector Traffic · Vävaregatan 21 · 226 36 Lund
-tel 010-456 56 00 · info@trivector.se
+tel 010-456 56 00 · (e-post borttagen)
 
 <!-- sida 179 -->
 
@@ -7760,7 +7760,7 @@ Lund, augusti 2025.
 Lund | Göteborg | Stockholm | Luleå
 
 Trivector Traffic · Vävaregatan 21 · 226 36 Lund
-tel 010-456 56 00 · info@trivector.se
+tel 010-456 56 00 · (e-post borttagen)
 
 <!-- sida 180 -->
 
@@ -7809,7 +7809,7 @@ ter, negativa landskapseffekter.
 Lund | Göteborg | Stockholm | Luleå
 
 Trivector Traffic · Vävaregatan 21 · 226 36 Lund
-tel 010-456 56 00 · info@trivector.se
+tel 010-456 56 00 · (e-post borttagen)
 
 <!-- sida 181 -->
 
@@ -12964,8 +12964,8 @@ E.ON fastslår att det är av yttersta vikt att ett nära samarbete etableras ti
 
 E.ON i den fortlöpande detaljplansprocessen för att kunna komma fram till en möjlig lösning.
 Ledningssamordning och panering gällande E.Ons anläggningar kontaktas Alfred Johansson E.ON
-Energidistribution AB, tfn 0722-169365 e-post alfred.johansson@eon.se. Alfred är tillbaka från sin
-semester den 15/8 om kontakt önskas innan dess går det bra att maila PBL@eon.se
+Energidistribution AB, tfn (mobilnummer borttaget) e-post (e-post borttagen). Alfred är tillbaka från sin
+semester den 15/8 om kontakt önskas innan dess går det bra att maila (e-post borttagen)
 
 EON Noterar att det i planbeskrivningen/Fastighetsrättsliga konsekvenser under stycket ledningsrätt
 och ansökan om lantmäteriförrättning framgår att respektive ledningsägare för allmänna ledningar
@@ -15546,10 +15546,10 @@ bygglagen 2010:900.
 
 Handläggare
 
-Sofia Wiman, Planarkitekt, sofia.wiman@kungsbacka.se
+Sofia Wiman, Planarkitekt, (e-post borttagen)
 0300-83 49 24
 
-Lena Melvinsdotter, Exploateringsingenjör, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, Exploateringsingenjör, (e-post borttagen)
 0300-83 42 68
 
 Handlingar:
@@ -18397,7 +18397,7 @@ Diarienummer
 3526-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för blandad
 
@@ -18434,7 +18434,7 @@ Varbergsvägen. Detaljplanens syfte är att skapa en tillgänglig
 stadsdel för alla trafikslag där fotgängare, cyklister och
 kollektivtrafik är prioriterade
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 427 -->
@@ -21568,8 +21568,8 @@ E-postadress                      Mobiltelefon
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #217446 | Inskickat av: KRISTIAN HALLIN | Datum: 2025-07-03 10:58 Sida 1 av 4
 
@@ -21604,8 +21604,8 @@ Fastighetsbeteckning               Fastighetens adress
 
 Kungsbacka Välås 3:75
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #217446 | Inskickat av: KRISTIAN HALLIN | Datum: 2025-07-03 10:58 Sida 2 av 4
 
@@ -21636,8 +21636,8 @@ Vill du bifoga en situationskarta?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #217446 | Inskickat av: KRISTIAN HALLIN | Datum: 2025-07-03 10:58 Sida 3 av 4
 
@@ -21660,8 +21660,8 @@ A40.0-001.pdf (545 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #217446 | Inskickat av: KRISTIAN HALLIN | Datum: 2025-07-03 10:58 Sida 4 av 4
 
@@ -22837,10 +22837,10 @@ Dokumentegenskaper: Titel: Vatten och avlopp Taxa 2026
 Beslutad av:    Kommunfullmäktige 2026-XX-XX § XXX, KS-2026-XXXXX
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 521 -->
 
@@ -23571,10 +23571,10 @@ Dokumentegenskaper: Titel: Vatten och avlopp Taxa 2026
 Beslutad av:    Kommunfullmäktige 2026-XX-XX § XXX, KS-2026-XXXXX
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 536 -->
 

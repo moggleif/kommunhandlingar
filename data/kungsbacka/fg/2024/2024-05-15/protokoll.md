@@ -256,7 +256,7 @@ vill säga liggande förslag och att nämnden för Förskola & Grundskola bifall
 
 Beslutet skickas till
 Föräldrakooperativet Kottar och Barr
-Gamla Älvsåkersvägen 39, 434 96 Kungsbacka
+Gamla (adress borttagen), 434 96 Kungsbacka
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 28E0E4DED7EF2F5FE8DF1FB8BA8D7AACDCE7F6F8D3
@@ -305,7 +305,7 @@ vill säga liggande förslag och nämnden för Förskola & Grundskola bifaller d
 Beslutet skickas till
 
 Förskolekooperativet Myrstacken
-Kumlabacken 9, 439 53 Åsa
+(adress borttagen), 439 53 Åsa
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 28E0E4DED7EF2F5FE8DF1FB8BA8D7AACDCE7F6F8D3
@@ -355,7 +355,7 @@ vill säga liggande förslag och att nämnden för Förskola & Grundskola bifall
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9, 439 53 Åsa
+(adress borttagen), 439 53 Åsa
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 28E0E4DED7EF2F5FE8DF1FB8BA8D7AACDCE7F6F8D3
@@ -646,6 +646,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting

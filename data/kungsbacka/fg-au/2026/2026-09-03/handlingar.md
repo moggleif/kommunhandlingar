@@ -39,7 +39,7 @@ Sammanträde torsdagen den 3 september 2026 kl. 13:00
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -63,7 +63,7 @@ KUNGSBACKA  KOMMUN
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 5. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>Runebergs gata 78, 437 42 Kungsbacka om<br>permanent utökning till totalt 53 barn. |
+| 5. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>(adress borttagen), 437 42 Kungsbacka om<br>permanent utökning till totalt 53 barn. |
 | 6. | Ändring av dag för<br>nämndsammanträde i januari<br>2027 | FG-2026-00473 | Nämnden för Förskola & Grundskola beslutar att<br>flytta januarisammanträdet till den 20 januari. |
 | 7. | Ansökan om placering av barn i<br>förskola<br>Kl 14:55-15:15<br>Frida Byrsten, verksamhetschef | FG-2026-00452 | Ansökan om placering på Särö förskola för<br>eleverna avslås. |
 | 8. | Riktlinje för profilklasser<br>Kl 15:15-15:35<br>Frida Byrsten, verksamhetschef<br>Margaretha Ljungqvist, utredare | FG-2026-00468 | Nämnden för Förskola och Grundskola antar<br>Riktlinje för profilklasser, 2026-08-20. |
@@ -141,7 +141,7 @@ permanent utökning av barnantal på Örtagårdens förskola
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Örtagårdens kooperativa förskola
-ekonomisk förening gällande ansökan om utökning på Örtagårdens förskola, Lars Runebergs gata 78,
+ekonomisk förening gällande ansökan om utökning på Örtagårdens förskola, Lars (adress borttagen),
 437 42 Kungsbacka om permanent utökning till totalt 53 barn.
 
 Sammanfattning av ärendet
@@ -185,7 +185,7 @@ KUNGSBACKA  KOMMUN
 Beskrivning av ärendet
 
 Huvudman för Örtagårdens kooperativa förskola ekonomisk förening har ansökt om permanent
-utökning av tidigare beviljad omfattning om 51 barn på Örtagårdens förskola, Lars Runebergs gata 78,
+utökning av tidigare beviljad omfattning om 51 barn på Örtagårdens förskola, Lars (adress borttagen),
 437 42 Kungsbacka.
 
 De har ett beslut från 2025-06-11 som omfattar 51 barn. I sin ansökan önskar huvudmannen nu utöka
@@ -265,8 +265,8 @@ Jag vill fylla i företagsuppgifter manuellt.
 Namn på den enhet som tillsynen gäller
 Örtagårdens Kooperativa Förskola
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 1 av 3
 
@@ -317,8 +317,8 @@ Antal årsarbetande efter
 1        4          6         3
 utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 2 av 3
 
@@ -354,8 +354,8 @@ uto\&#776;kat antal barn.pdf (513 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | Datum: 2026-04-15 12:53 Sida 3 av 3
 
@@ -534,11 +534,11 @@ Beslutad av:    Nämnden för Förskola och grundskola, § xx 2026-09-xx
 Gäller från:    2026-09-30
 
 Ansvarig förvaltning: Förvaltningen för Förskola och Grundskola
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 16 -->
 
@@ -672,7 +672,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)

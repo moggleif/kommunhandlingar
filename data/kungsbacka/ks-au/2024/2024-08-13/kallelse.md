@@ -39,7 +39,7 @@ Andrea Egerlundh                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37
-andrea.egerlundh@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 

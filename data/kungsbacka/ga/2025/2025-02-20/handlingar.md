@@ -40,7 +40,7 @@ Paus 18.25-18.40
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -5328,7 +5328,7 @@ Ledamot Kommunfullmäktige
 
 Dnr: 10859-2024 Nr: 1 IK: 2. Begränsad
 
-Från:             Renée Ljung \<reneeljung@hotmail.com>
+Från:             Renée Ljung \<(e-post borttagen)>
 Skickat:          den 2 december 2024 07:33
 Till:             Justitieombudsmannen
 Ämne:             Ny JO anmälan
@@ -5352,10 +5352,10 @@ Ort:
 Kungsbacka
 
 Telefon / mobil (dagtid):
-0707 182707
+(mobilnummer borttaget)
 
 E-postadress:
-reneeljung@hotmail.com
+(e-post borttagen)
 
 Jag har, efter beslut från Skatteverket, skyddade personuppgifter:
 Nej
@@ -5413,7 +5413,7 @@ Handlingsplan
 
 Kungsbacka       kommun      2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -6389,7 +6389,7 @@ intresse för att delta. Passa på att delta nu, eftersom det kan vara sista
 chansen att delta i den här formen.
 
 Vid frågor, eller anmälan av ny samordnare:
-samordnare@skolverket.se
+(e-post borttagen)
 
 Ulrika Dahl och Camilla Holmberg
 Undervisningsråd på Skolverket
@@ -6423,7 +6423,7 @@ i rapporten.
 1 Nämnden för Förskola & Grundskola, Gymnasium & Arbetsmarknad, Service, Individ & Familjeomsorg, Vård & Omsorg, Kultur
 & Fritid, Miljö & Hälsoskydd, Teknik, Byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 147 -->
 

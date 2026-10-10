@@ -31,7 +31,7 @@ Teknik    2024
 
 GDPR
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -204,7 +204,7 @@ Uppföljning     av  egenkontroll      av  dataskyddet      på   Teknik   genom
 
 december      2023    till januari  2024
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -267,7 +267,7 @@ Datum
 2024-12-09
 
 Nämnden för Teknik
-teknik@kungsbacka.se
+(e-post borttagen)
 
 Dataskyddsombudets         rapport
 
@@ -298,7 +298,7 @@ I separat bilaga (A) till denna rapport framgår bedömningen för de punkter d�
 förslag till åtgärd. På de punkter där det inte framkommit avvikelse, följer i förekommande fall en
 kommentar.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 13 -->
 
@@ -402,7 +402,7 @@ Datum
 2024-12-09
 
 Nämnden för Teknik
-teknik@kungsbacka.se
+(e-post borttagen)
 
 Bilaga  A: Bedömningar
 
@@ -437,7 +437,7 @@ behandling av personuppgifter och om det fria flödet av sådana uppgifter och o
 dataskyddsförordning/GDPR).
 3 Inbegripet aktiv behörighetstilldelning, tillräcklig identitetskontroll samt regelbunden kontroll av åtkomst
 4 Artikel 25.2, 32.1 (b)
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
@@ -3604,11 +3604,11 @@ Beslutad av:    Nämnden för Teknik, 2025-01-22
 Gäller från:    2025-02-01
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 101 -->
 
@@ -3715,7 +3715,7 @@ kommunalt avlopp utgår ingen ersättning för onyttig anläggning, enlighet med
 Lag (2006:412) om allmänna vattentjänster.
 
 Är ni intresserade av att ansluta er, ta kontakt med kommunen via
-teknik.vaansokningar@kungsbacka.se för att presentera er intention. Inhämta
+(e-post borttagen) för att presentera er intention. Inhämta
 
 information om kommunens utbyggnadsplan för vatten och avlopp, för att se om
 ert område återfinns bland de områden som är aktuella för kommunalt VA de
@@ -4002,11 +4002,11 @@ Beslutad av:    Nämnden för Teknik 18 oktober 2023
 Gäller från:    2023-10-18
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 111 -->
 
@@ -4479,11 +4479,11 @@ Beslutad av:   Kommunfullmäktige 2024-XX-XX § XXX, KS-2024-XXXXX
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 123 -->
 
@@ -5245,7 +5245,7 @@ uppdraget på ett effektivt sätt. En kommentar är att undantaget från FNI bli
 1 (2)
 Nämnden för Teknik                                        Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -16884,7 +16884,7 @@ till minst 55 viktprocent till 2025, minst 60 Regeringskansliet senast den 14 fe
 viktprocent till 2030 och minst 65 viktprocent till
 Anmälan: Anmäl deltagande senast den 6
 2035\.
-december till kn.cks@regeringskansliet.se. Det
+december till (e-post borttagen). Det
 Den 8 juni 2023 beslutade EU-kommissionen att finns begränsat antal platser, varför endast en
 utfärda en varning till Sverige för att det finns risk deltagare per remissinstans kan delta.
 att målet om materialåtervinning av kommunalt
@@ -16958,7 +16958,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -16987,7 +16987,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 379 -->
@@ -27420,7 +27420,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
-E-post: kn.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 585 -->
 
@@ -27582,9 +27582,9 @@ E-post: kn.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet
 senast den 14 februari 2025. Svaren bör lämnas per e-post till
-kn.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-sigrid.persson@regeringskansliet.se. Ange diarienummer KN2024/01891
+(e-post borttagen). Ange diarienummer KN2024/01891
 och remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -27730,7 +27730,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

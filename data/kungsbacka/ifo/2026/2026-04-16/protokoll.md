@@ -1067,6 +1067,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   individochfamiljeomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday

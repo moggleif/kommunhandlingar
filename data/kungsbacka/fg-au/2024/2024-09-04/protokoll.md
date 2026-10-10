@@ -389,7 +389,7 @@ vill säga liggande förslag och att arbetsutskottet bifaller det.
 
 Beslutet skickas till
 
-Ekolek barnsomsorg AB Gamla Riksvägen 81C, 428 38 Kållered
+Ekolek barnsomsorg AB Gamla (adress borttagen), 428 38 Kållered
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 11041BB80AB61D6D220024B463D38C2BACBFBB34F9
@@ -438,7 +438,7 @@ vill säga liggande förslag och att arbetsutskottet bifaller det.
 
 Beslutet skickas till
 
-Ekolek barnsomsorg AB Gamla Riksvägen 81C, 428 38 Kållered
+Ekolek barnsomsorg AB Gamla (adress borttagen), 428 38 Kållered
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 11041BB80AB61D6D220024B463D38C2BACBFBB34F9
@@ -695,6 +695,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting

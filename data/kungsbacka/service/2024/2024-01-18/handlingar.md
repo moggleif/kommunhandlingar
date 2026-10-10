@@ -1085,7 +1085,7 @@ entreprenörer eller material som skulle kunna minska genomförandegraden.
 Tabellerna i slutet av det här dokumentet återger mer i detalj de olika
 investeringsnivåerna för respektive år.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 27 -->
 
@@ -1343,7 +1343,7 @@ begärd investeringsvolym. Ökningen i investeringsvolym kan hanteras med
 nuvarande organisation. Tabellerna i slutet av det här dokumentet återger mer i
 detalj de olika investeringsnivåerna för respektive år och verksamhet.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 32 -->
 

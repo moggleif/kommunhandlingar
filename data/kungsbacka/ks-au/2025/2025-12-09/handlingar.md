@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -8951,7 +8951,7 @@ RS230670
 
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 185 -->
@@ -9041,7 +9041,7 @@ regionfullmäktige i juni 2026.
 Praktisk information
 Vi vill ha era synpunkter senast den 14 januari 2026.
 
-Remissvaren lämnas per e-post till regionen@regionhalland.se. Ange diarienummer
+Remissvaren lämnas per e-post till (e-post borttagen). Ange diarienummer
 RS230670 och remissinstansens namn i ämnesraden på e-postmeddelandet och döp
 bifogat dokument till ”Remissvar TFP RS230670 remissinstans".
 
@@ -9054,7 +9054,7 @@ trafik/kollektivtrafik
 3 (4)
 
 Vid eventuella frågor kontakta Ludvig Simonsson på:
-Ludvig.Simonsson@regionhalland.se
+(e-post borttagen)
 
 Remissinstanser
 1\. Falkenbergs kommun
@@ -10713,13 +10713,13 @@ MICHAEL                           PALM
 
 E-postadress                      Mobiltelefon
 
-michael.palm@terramater.bio
+(e-post borttagen)
 
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: MICHAEL PALM | Datum: 2025-08-14 16:17 Sida 1 av 4
 
@@ -10737,7 +10737,7 @@ Postort                           Telefon
 Lund
 
 E-postadress                      Eventuell fakturareferens
-michael.palm@terramater.bio       -
+(e-post borttagen)       -
 
 Företagets kontaktperson
 
@@ -10745,7 +10745,7 @@ Förnamn                           Efternamn
 Michael                           Palm
 
 Telefon                           E-postadress
-michael.palm@terramater.bio
+(e-post borttagen)
 
 2\. Fastighet
 
@@ -10755,8 +10755,8 @@ Fastighetsbeteckning Fastighetens adress
 
 Kungsbacka Össlöv 2:3 Rolfsåkers Gård, Gåsevadholm, 43497, Kungsbacka
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: MICHAEL PALM | Datum: 2025-08-14 16:17 Sida 2 av 4
 
@@ -10788,8 +10788,8 @@ Industri/verksamhet/lager
 
 3\. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: MICHAEL PALM | Datum: 2025-08-14 16:17 Sida 3 av 4
 
@@ -10809,8 +10809,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: MICHAEL PALM | Datum: 2025-08-14 16:17 Sida 4 av 4
 
@@ -10843,7 +10843,7 @@ KONSULT
 
 Terra Mater Investment Management AB
 Genetor Raffinaderiet
-Fabriksgatan 2
+(adress borttagen)
 222 35 Lund
 Tel: +
 Org nr: 555694-1119
@@ -10854,12 +10854,12 @@ KONTAKTPERSONER
 Terra Mater Investment Management AB
 Michael Palm
 Tel:
-E-post: michael.palm@terramater.bio
+E-post: (e-post borttagen)
 
 Koberg Förvaltning AB
 Carl Silfverschiöld
 Tel:
-E-post: carl.silfverschiold@koberg.se
+E-post: (e-post borttagen)
 
 Omslagsbilder: Exempellayout på en biogasanläggning, samt ekonomibyggnaderna på Rolfsåker.
 
@@ -10909,7 +10909,7 @@ INNEHÅLL
 1 - ADMINISTRATIVA UPPGIFTER
 
 Sökande Terra Mater Biogas 1 AB, Genetor Raffinaderiet,
-Fabriksgatan 2, 222 35 Lund
+(adress borttagen), 222 35 Lund
 Organisationsnummer 559522-6811
 
 Kommun och län

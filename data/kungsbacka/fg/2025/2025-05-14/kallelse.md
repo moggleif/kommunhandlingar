@@ -39,7 +39,7 @@ Plats: Stadshuset Gåsevadholm
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 
@@ -132,8 +132,8 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 |  |  |  | Åsa Gårdsskolan blir en F-3 skola och delar av<br>Åsa Gårsskolan ställs om till förskola.<br>Årskurs 4-6 på Åsa Gårdsskolan flyttas till<br>Åsaskolan hösten 2025 och att Åsaskolans<br>upptagningsområde ändras till att även omfatta<br>Åsa Gårdsskolans upptagningsområde avseende<br>årskurs 4–6.<br>Nämnden ger förvaltningen i uppdrag att utreda<br>hur en långsiktig skolorganisation inom såväl<br>förskola som skola kan utformas utifrån minskat<br>behov av utbildningsplatser i Onsalaområdet. |
 | 8. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal | FG-2024-00634 | Nämnden för Förskola & Grundskola avslår<br>ansökan från Kullaviks Montessoriskola<br>ekonomisk förening om permanent utökning av<br>barnantal på förskolan till totalt 104 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>att Kullaviks Montessoriskola ekonomisk<br>förening bedriver verksamhet med barnantal på<br>förskolan, Bångsbovägen 13, med upp till 96<br>barn.<br>Nämnden godkänner en tillfällig utökning till<br>102 barn fram till och med juli 2026 |
-| 9. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda Kyrkbyväg 8, 434 90 Vallda,<br>om permanent utökning till totalt 24 barn |
-| 10. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal | FG-2025-00237 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, Landstormsvägen 34, 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
+| 9. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn |
+| 10. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal | FG-2025-00237 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
 | 11. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 
 <!-- sida 5 -->

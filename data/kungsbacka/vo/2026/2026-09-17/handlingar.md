@@ -5005,7 +5005,7 @@ Utredningen har gjort bedömning att de förslagna lagändringarna är möjliga 
 
 Nämnden för Vård & Omsorg        1 (5)
 Kungsbacka kommun
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -5210,7 +5210,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 110 -->
 
@@ -5409,7 +5409,7 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 Remissvaren ska ha kommit in till Socialdepartementet senast
 
 den 30 oktober 2026. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och s.sl@regeringskansliet.se. Ange
+(e-post borttagen) och (e-post borttagen). Ange
 diarienummer S2026/01367 och remissinstansens namn i ämnesraden på e-
 postmeddelandet.
 
@@ -5451,7 +5451,7 @@ Departementsråd
 
 Kopia till
 
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -28516,7 +28516,7 @@ Region Halland avser fastställa avtalet för egen del vid regionfullmäktiges s
 21 oktober 2026.
 
 Efter att beslut tagits i er kommun, vänligen expediera beslutet till:
-regionen@regionhalland.se
+(e-post borttagen)
 
 Bifogade handlingar:
 Beslutsförslag, revidering av samverkansavtal för gemensam Patientnämnd Halland
@@ -28527,8 +28527,8 @@ Med vänliga hälsningar
 Krister Björkegren            Henrik Lundahl
 Regiondirektör                Kanslichef
 
-Adress: Region Halland, Box 517, 301 80 Halmstad E-post: regionen@regionhalland.se
-Besöksadress: Södra vägen 9 301 80 Halmstad Org. nr: 232100-0115
+Adress: Region Halland, Box 517, 301 80 Halmstad E-post: (e-post borttagen)
+Besöksadress: (adress borttagen) 301 80 Halmstad Org. nr: 232100-0115
 Telefon: 035-13 48 00
 
 <!-- sida 649 -->
@@ -28791,7 +28791,7 @@ Presentation Överenskommelse, 2026-06-17
 
 Beslutet skickas till
 
-Regionstyrelsen, regionen@regionhalland.se
+Regionstyrelsen, (e-post borttagen)
 
 1 (2)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
@@ -29045,9 +29045,9 @@ undertecknas av behöriga företrädare för parterna.
 1 (2)
 
 Regionkontoret                        Missiv
-Södra vägen 9
+(adress borttagen)
 302 38 Halmstad                       Datum     Diarienummer
-regionen@regionhalland.se             2026-06-16 RS240957
+(e-post borttagen)             2026-06-16 RS240957
 
 Överenskommelse     om  samverkan   vid utskrivning från
 sluten hälso- och sjukvård  i Halland 2027
@@ -29071,7 +29071,7 @@ utskrivning från sluten hälso- och sjukvård i Halland 2025.
 Region Halland ämnar ta beslut om överenskommelsen på Regionfullmäktiges
 sammanträde den 21 oktober 2026.
 
-Efter att beslut tagits i er kommun, expediera beslutet till regionen@regionhalland.se
+Efter att beslut tagits i er kommun, expediera beslutet till (e-post borttagen)
 
 Bilagor
 
@@ -30576,7 +30576,7 @@ Senast reviderad: 2026-06-24
 Gäller för: Vård & Omsorg
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 » infoMkungsbacka.se » kungsbacka.se
 
 <!-- sida 690 -->
@@ -30666,7 +30666,7 @@ DN ve K Renoverat,
 ungsbacka ombyggt
 2026
 Särö Västra 2020 Eksta AB Egenregi
-Särövägen 39,
+(adress borttagen),
 429 42 Särö
 Vickan Lyckholms väg 2008 Aranäs Vardaga
 21, 439 30
@@ -30800,7 +30800,7 @@ renoverat
 Kullavik - Kyviksvägen 2, 1992 Eksta Egenregi
 Kyvikshus 429 31 Kullavik.
 Särö Västra 2020 Eksta Egenregi
-Särövägen 39,
+(adress borttagen),
 429 42 Särö
 Kungsbacka Haramossevägen | 2022 Eksta Egenregi
 centrum Björkris 2, 434 95
@@ -30976,7 +30976,7 @@ Korttids/växelvård.
 Utbildningslokal Avtalstid Senast Förlängningstid | Kommentar
 uppsägning
 
-Signes väg 7, 434 32 Nytt hyreskontrakt
+(adress borttagen), 434 32 Nytt hyreskontrakt
 Kungsbacka Signeshus,
 uppdateras i
 systemet vid

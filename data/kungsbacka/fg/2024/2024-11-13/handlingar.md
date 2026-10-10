@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -135,7 +135,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -811,7 +811,7 @@ samverkan mellan arbetsgivare och fackliga förbund.
 FG HR & Kommunikation                                     Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-0729953381                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Personalchef förvaltning                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1344,8 +1344,8 @@ därefter medvetet arbeta med extra anpassningar och särskilt stöd.
 förebyggande arbetet mot kränkningar.
 •  Fortsatt högt tempo i arbetet med innovation och omställning.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 48 -->
 
@@ -2880,7 +2880,7 @@ verksamhetsformer på sin enhet utifrån förutsättningar och behov.
 
 Ramfördelning 2025
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -3952,8 +3952,8 @@ Permanent
 
 2\. Utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 1 av 4
 
@@ -3979,8 +3979,8 @@ Från vilket datum gäller utökningen
 Datum
 2024-12-02
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 2 av 4
 
@@ -4025,8 +4025,8 @@ Efter utökning med 3 personer, 2 barn och en personal är totalt behov 567 l/s 
 
 tillgängliga flödet.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 3 av 4
 
@@ -4077,8 +4077,8 @@ CCE_000140(1)[3237].pdf (1,23 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 4 av 4
 
@@ -4414,7 +4414,7 @@ ME I
 Åntdk fet CL |
 
 Anette Söderberg ; Hanna Plymouth Helen Andersson-Palm
-Kaprifolvägen 6 Sunnevägen 25 Klockstigen 20
+Kaprifolvägen 6 Sunnevägen 25 (adress borttagen)
 429 42 Särö 429 42 Särö 429 32 Kullavik
 
 031 —- 93 66 22 031 —- 93 66 94 031 —- 93 07 46
@@ -4574,7 +4574,7 @@ Särö den 4 mars 1999
 Mud dé baden
 
 Anette Söderberg . Helen Andersson-Palm
-Kaprifolvägen 6 ” Sunnevägen 25 Klockstigen 20
+Kaprifolvägen 6 ” Sunnevägen 25 (adress borttagen)
 429 42 Särö 429 42 Särö 429 32 Kullavik
 
 031-93 66 22 031 - 93 66 94 031-93 07 46
@@ -4622,7 +4622,7 @@ IREfereNS Mlissssseserrrrererrrrsrrrrserarner erna FunkiS A
 Plats för stämpel — AA
 Fastigheten
 IFastighetsbeteckning/Byggnadsnummer Byggnadens adress IPostnr Ort
-Nötegång 1:126 / » Västra Särövägen 33 429 42 Särö
+Nötegång 1:126 / » Västra (adress borttagen) 429 42 Särö
 IByggnadsägare Postadress - a Postnr Ort
 Eksta Bostads AB ' Box 10400 1434 24 Kungsbacka
 IFaktureringsadress Postadress Postnr Ort
@@ -6027,7 +6027,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 168 -->
 

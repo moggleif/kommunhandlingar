@@ -3820,7 +3820,7 @@ Kvalitetsberättelse                         delår
 
 Vård   &  omsorg
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -4378,7 +4378,7 @@ Omsorg          delår     2024
 
 Diarienummer        VO-2024-00330
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 96 -->
 
@@ -4628,7 +4628,7 @@ dataskydd            delårsberättelse                2024
 
 Diarienummer        VO-2024-00329
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 103 -->
 
@@ -5599,18 +5599,18 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 4
 | Vård- och omsorgsboende | Adress verksamhetslokal |
 | --- | --- |
 | Bedagården vård- och omsorgsboende | Manetvägen 2–8, 439 37 Onsala |
-| Björkris vård- och omsorgsboende | Haramossevägen 2, 434 95 Kungsbacka |
-| Blåvingevägen vård- och omsorgsboende | Blåvingevägen 33, 434 90 Vallda |
-| Ekhaga vård- och omsorgsboende | Mariedalsvägen 3, 439 30 Onsala |
-| Kolla vård- och omsorgsboende | Askvägen 25, 434 31 Kungsbacka |
-| Löftagården vård- och omsorgsboende | Frillesåsvägen 6, 439 62 Frillesås |
-| Måhaga vård- och omsorgsboende | Måhagavägen 11, 439 71 Fjärås |
-| Sandlyckan vård- och omsorgsboende | Sandlyckans väg 40, 429 32 Kullavik |
-| Signeshus vård- och omsorgsboende | Signes väg 7, 434 32 Kungsbacka |
-| Smedjans korttidsenhet | Tölövägen 25, 434 40 Kungsbacka |
-| Särö vård- och omsorgsboende | Västra Särövägen 39, 429 42 Särö |
-| Vickan vård- och omsorgsboende | Lyckholms väg 21, 439 30 Onsala |
-| Åsa vård- och omsorgsboende | Pölagårdsvägen 25, 439 54 Åsa |
+| Björkris vård- och omsorgsboende | (adress borttagen), 434 95 Kungsbacka |
+| Blåvingevägen vård- och omsorgsboende | (adress borttagen), 434 90 Vallda |
+| Ekhaga vård- och omsorgsboende | (adress borttagen), 439 30 Onsala |
+| Kolla vård- och omsorgsboende | (adress borttagen), 434 31 Kungsbacka |
+| Löftagården vård- och omsorgsboende | (adress borttagen), 439 62 Frillesås |
+| Måhaga vård- och omsorgsboende | (adress borttagen), 439 71 Fjärås |
+| Sandlyckan vård- och omsorgsboende | (adress borttagen), 429 32 Kullavik |
+| Signeshus vård- och omsorgsboende | (adress borttagen), 434 32 Kungsbacka |
+| Smedjans korttidsenhet | (adress borttagen), 434 40 Kungsbacka |
+| Särö vård- och omsorgsboende | Västra (adress borttagen), 429 42 Särö |
+| Vickan vård- och omsorgsboende | (adress borttagen), 439 30 Onsala |
+| Åsa vård- och omsorgsboende | (adress borttagen), 439 54 Åsa |
 
 <!-- sida 129 -->
 
@@ -5680,16 +5680,16 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 7
 
 | Hemtjänst arbetsområde | Adress verksamhetslokal |
 | --- | --- |
-| Åsa/Frillesås | Ölmanäs Ringvägen 625, 439 53 Åsa |
+| Åsa/Frillesås | Ölmanäs (adress borttagen), 439 53 Åsa |
 | Fjärås | Måhagavägen 11, (Måhaga) 439 71 Fjärås |
 | Vallda | Andreasväg 2 (Vallda Backa), 434 90 Vallda |
 | Onsala | Manetvägen 8 (Bedagården), 439 37 Onsala |
 | Kullavik/Särö | Kyviksvägen 2 (Kyvikshus), 429 31 Kullavik |
-| Öster/Gullregnet | Östra Vallgatan 24, 434 41 Kungsbacka |
+| Öster/Gullregnet | Östra (adress borttagen), 434 41 Kungsbacka |
 | City/Varla | Sjöállen 9F, 434 31 Kungsbacka |
-| Hede/Älvsåker | Kommunvägen 46, 434 40 Kungsbacka |
+| Hede/Älvsåker | (adress borttagen), 434 40 Kungsbacka |
 | Nattpatrullen, Lås & Larm, Serviceteamet,<br>Administratörer, Fixare, Leveransteam | Omsorgens hus, korridor 1B, Kraftvägen 2, 434<br>37 Kungsbacka |
-| Demensteamet | Gnejsvägen 51, 434 51 Kungsbacka |
+| Demensteamet | (adress borttagen), 434 51 Kungsbacka |
 
 [Tabell 131-2](handlingar.tabeller/131-2.csv)
 
@@ -5721,13 +5721,13 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 8
 
 | Hemsjukvård arbetsområde | Adress verksamhetslokal |
 | --- | --- |
-| Åsa/Frillesås | Ölmanäs Ringväg 625, 439 53 Åsa |
+| Åsa/Frillesås | Ölmanäs (adress borttagen), 439 53 Åsa |
 | Kungsbacka centrum | Signes väg 7, Signeshus 434 32 Kungsbacka |
 | Kungsbacka centrum | Tölövägen 25, Smedjan korttidsboende,<br>434 40 Kungsbacka. |
 | Fjärås | Måhagavägen 11, Måhaga, 439 71 Fjärås |
 | Kullavik | Kyviksvägen 2 |
 | Onsala | Mariedalsvägen 3, Ekhaga, 439 30 Onsala |
-| Kompetenscentrum utbildningslokal | Södra Torggatan 16, 334 30 Kungsbacka |
+| Kompetenscentrum utbildningslokal | Södra (adress borttagen), 334 30 Kungsbacka |
 
 [Tabell 132-2](handlingar.tabeller/132-2.csv)
 
@@ -5755,9 +5755,9 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 9
 
 | Dagomsorg/ anhörigstöd<br>verksamhetslokal | Adress verksamhetslokal | Avtalstid |
 | --- | --- | --- |
-| Korallen - Åsa våbo<br>(inriktning somatik, 8 platser) | Pölagårdsvägen 25, 439 54 Åsa | Avtal som Åsa våbo |
-| Källarbacken - Måhaga våbo<br>(inriktning demens, 8 platser) | Måhagavägen 11, 439 71 Fjärås | Avtal som Måhaga våbo |
-| Linden - Måhaga våbo<br>(inriktning demens, 8 platser) | Måhagavägen 11, 439 71 Fjärås | Avtal som Måhaga våbo |
+| Korallen - Åsa våbo<br>(inriktning somatik, 8 platser) | (adress borttagen), 439 54 Åsa | Avtal som Åsa våbo |
+| Källarbacken - Måhaga våbo<br>(inriktning demens, 8 platser) | (adress borttagen), 439 71 Fjärås | Avtal som Måhaga våbo |
+| Linden - Måhaga våbo<br>(inriktning demens, 8 platser) | (adress borttagen), 439 71 Fjärås | Avtal som Måhaga våbo |
 | Solliden – Sandlyckan våbo<br>(inriktning demens, 7–8 platser) | Sandlyckansväg 40, 429 32<br>Kullavik | Avtal som Sandlyckan<br>våbo |
 | Näckrosen – Signeshus våbo<br>(inriktning somatik, 8 platser) | Signes väg 7, 434 32<br>Kungsbacka | Verksamheten vilande<br>under period där<br>Signeshus renoveras |
 | Anhörigstöd | Västergatan 23, 434 30<br>Kungsbacka | 2025-09-30<br>Senast datum uppsägning<br>hyreskontrakt:<br>2024-12-31<br>Förlängning: 3 år |
@@ -9090,7 +9090,7 @@ arbete med att utöka den strukturerade delen av dokumentationen i kommunerna ko
 1 (2)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -22656,7 +22656,7 @@ utredaren
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 520 -->
 

@@ -71,7 +71,7 @@ Förvaltningschef              Biträdande förvaltningschef
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklingsledare                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3025,7 +3025,7 @@ utgångspunkt för nämndens arbete med verksamhetsplanering. I nämndbudgeten i
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklingsledare                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3271,7 +3271,7 @@ kunskapsbaserad utveckling av kommunens socialtjänst.
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3338,7 +3338,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 78 -->
 
@@ -3433,9 +3433,9 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 4
 november 2024. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-s.sof@regeringskansliet.se. Ange diarienummer S2024/01282 och
+(e-post borttagen). Ange diarienummer S2024/01282 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -3481,7 +3481,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 4 (4)
 
@@ -17010,7 +17010,7 @@ utredaren
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 400 -->
 
@@ -17523,7 +17523,7 @@ Förvaltningschef                   Biträdande Förvaltningschef
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

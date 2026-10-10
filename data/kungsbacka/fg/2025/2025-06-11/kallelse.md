@@ -39,7 +39,7 @@ Plats: Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -84,6 +84,6 @@ ordförande                        sekreterare
 | 9. | Vårdnadshavareenkät<br>Kl 17:50-18:00<br>Magnus Fogelblad,<br>verksamhetscontroller |  | Nämnden för Förskola och Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 10. | Beslut om närvaro<br>Kompetensutvecklingsdag 16<br>september | FG-2025-00311 | Nämnden för Förskola & Grundskola beslutar<br>om deltagande för ledamöter och ersättare i<br>nämnden vid Kompetensutvecklingsdag den 16.e<br>september. |
 | 11. | Årsrapport dataskyddsarbete<br>2024-2025 | FG-2025-00320 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen i<br>protokollet. |
-| 12. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars Runebergs gata 78,<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
+| 12. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars (adress borttagen),<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
 | 13. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 | 14. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:00-18:30<br>Maria Eriksson, biträdande<br>förvaltningschef<br>Ullrika Vildbaek,<br>utvecklingsledare | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -252,11 +252,11 @@ Beslutad av:    Kommunfullmäktige
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Förvaltningen för Gymnasium & Arbetsmarknad
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -601,7 +601,7 @@ Körkortsutbildningen bedrivs utanför skoltid. Körlektioner förläggs inte p�
 lektionstid. Ledighetsansökan enligt gällande rutin lämnas in för de delar som
 sker dagtid riskettan, risktvåan (halkbanan), teoriprov och körprov.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 20 -->
 
@@ -3373,7 +3373,7 @@ Lisa Gustafsson
 Besöksadress
 0300 835414
 Stadshuset, Storgatan 37
-lisa.gustafsson@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -3646,7 +3646,7 @@ den kommungemensamma ledningsgruppen (KLG) samt varje nämnds förvaltningsledni
 Beslutad av: Kommunfullmäktige
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -3766,7 +3766,7 @@ Medarbetarna ska känna sig trygga med att påtala brister och rapportera incide
 leder till att åtgärder som förbättrar säkerheten kan vidtas. Alla medarbetare ska få rätt
 förutsättningar för att engagera sig och handla på ett informationssäkert sätt i det dagliga arbetet.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 101 -->
 
@@ -3982,7 +3982,7 @@ Riktlinjer för infor mationssäkerhet Sida 5 av 6
 Beslutad av: Kommunfullmäktige
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -7088,7 +7088,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan kom 2022-05-23
@@ -7797,7 +7797,7 @@ Adress
 
 Adress
 
-Månstensvägen 10
+(adress borttagen)
 434 52 Kungsbacka
 
 Läge, karta
@@ -9328,7 +9328,7 @@ Jemmett Björkris AB, vid nästa möjliga beslutsmöte i mars/april 2024.
 Med vänliga hälsningar
 
 VD Jemmett AB samt styrelseledamot/firmatecknare Jemmett Björkris AB
-070-242 65 01
+(mobilnummer borttaget)
 
 carlos.andersson(QWjemmett.se
 
@@ -9560,7 +9560,7 @@ Detaljplan för bostäder inom Skörvalla 1:116, Särö
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld. samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld. samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 Status
 Beställningen är                 Datum
 Färdigställd                   2024-03-18
@@ -9963,7 +9963,7 @@ Projekt småplaner – startpaket 4
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -10551,8 +10551,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108394 | Inskickat av: | Datum: 2023-12-22 14:54 Sida 1 av 3
 
@@ -10601,8 +10601,8 @@ Detta kommer att bli ett fantastiskt boende mellan Åsa centrum och havet.
 
 God jul önskar
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108394 | Inskickat av: | Datum: 2023-12-22 14:54 Sida 2 av 3
 
@@ -10627,8 +10627,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108394 | Inskickat av: | Datum: 2023-12-22 14:54 Sida 3 av 3
 
@@ -10712,7 +10712,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Jessica Blume
 Platsutvecklare                                               Besöksadress
-jessica.blume@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -10835,11 +10835,11 @@ Dokumentegenskaper: Titel: Lokala ordningsföreskrifter för torghandel
 Beslutad av:    Kommunfullmäktige 2016-06-16 § 106
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 262 -->
 
@@ -11328,11 +11328,11 @@ Dokumentegenskaper: Titel: Lokala ordningsföreskrifter för torghandel
 Beslutad av:    Kommunfullmäktige 2016-06-16 § 106
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 275 -->
 

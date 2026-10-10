@@ -1118,7 +1118,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2025-XX-XX § X
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -4577,8 +4577,8 @@ lokala föreskrifter till skydd för människors hälsa och miljön. Dessa före
 kompletterar miljöbalkens regler och används som ett verktyg för att förebygga och
 motverka olägenheter för människors hälsa och miljö i Kungsbacka kommun.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 104 -->
 
@@ -4897,12 +4897,12 @@ Dokumentegenskaper: Titel: Lokala avfallsföreskrifter
 Beslutad av:        Kommunfullmäktige 6 februari 2024 § 13, KS-2022-00687
 Gäller från:        2024-02-06
 Ansvarig förvaltning: Teknik
-Kontakt:            Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:            Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 119 -->
 
@@ -6111,7 +6111,7 @@ Beslutad av: Kommunfullmäktige 6 februari 2024 § 13, KS-2022-00687
 Gäller från: 2024-02-06
 Ansvarig förvaltning: Teknik
 
-Kontakt:Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 Kungsbacka kommun             Lokala avfallsföreskrifter       34 (34)

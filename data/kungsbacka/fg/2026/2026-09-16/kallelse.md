@@ -39,7 +39,7 @@ Varlaskolan, Måseskär
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -64,7 +64,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 5. | Remiss av SOU 2026:37<br>Förutsättningar för en likvärdig<br>och språkutvecklande förskola<br>Kl 16:10-16:25<br>Anna Sörensen,<br>utvecklingsledare | FG-2026-00458 | Kungsbacka kommun tillstyrker utredningens<br>ambition att stärka likvärdigheten i förskolan och<br>förbättra barns förutsättningar att utveckla goda<br>kunskaper i svenska. Kommunen delar<br>bedömningen att förskolan har en central<br>betydelse för barns lärande, språkutveckling och<br>framtida utbildningsmöjligheter. Kommunen<br>tillstyrker därför i huvudsak utredningens<br>inriktning och flertalet av de förslag som lämnas.<br>Kungsbacka kommun bedömer att flera av<br>förslagen innebär betydande organisatoriska och<br>ekonomiska konsekvenser för huvudmännen. För<br>att reformerna ska kunna genomföras på ett<br>rättssäkert, likvärdigt och långsiktigt hållbart sätt<br>krävs större tydlighet kring ansvarsfördelning,<br>finansiering och implementering. Kommunen<br>anser att reformer som medför ökade kostnader<br>för kommunerna ska finansieras fullt ut i enlighet<br>med den kommunala finansieringsprincipen.<br>Nämnden förklarar paragrafen omedelbart<br>justerad. |
 |  | Paus 16:25-16:45 |  |  |
-| 6. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>Runebergs gata 78, 437 42 Kungsbacka om<br>permanent utökning från 51 till totalt 53 barn. |
+| 6. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2026-00455 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening gällande ansökan om<br>utökning på Örtagårdens förskola, Lars<br>(adress borttagen), 437 42 Kungsbacka om<br>permanent utökning från 51 till totalt 53 barn. |
 | 7. | Ändring av dag för<br>nämndsammanträde i januari<br>2027 | FG-2026-00473 | Nämnden för Förskola & Grundskola beslutar att<br>flytta januarisammanträdet till den 20 januari. |
 | 8. | Utbildning HLR förskola | FG-2026-00500 | Arbetsutskottet föreslår att nämnden för Förskola<br>& Grundskola bifaller initiativet. |
 

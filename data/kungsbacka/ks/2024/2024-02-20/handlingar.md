@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Patrik Johansson                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Kommunsekreterare
-patrik.johansson2@kungsbacka.se                                  Storgatan 37
+(e-post borttagen)                                  Storgatan 37
 Stadshuset
 www.kungsbacka.se
 
@@ -1361,7 +1361,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Eva Böhnke
 Kommunledningssekreterare                                     Besöksadress
-eva.bohnke@kungsbacka.se                                 Stadshuset, Storgatan 37
+(e-post borttagen)                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -1687,7 +1687,7 @@ psykisk            ohälsa
 
 Redovisning      2023
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 44 -->
 
@@ -2281,11 +2281,11 @@ Beslutad av:   Kommunstyrelsen 23 januari 2024 § XX, Dnr KS 2023-00461, försla
 01-16
 Giltigt från:  2024-xx-xx
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -2811,7 +2811,7 @@ Nämnden för Teknik
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3466,7 +3466,7 @@ Ledamot i
 
 Kommunfullmäktige
 
-Kungsbacka Socialdemokratiska Arbetarekommun, Verkstadsgatan 14, 43442 Kungsbacka Tel: 073 811 98 00
+Kungsbacka Socialdemokratiska Arbetarekommun, (adress borttagen), 43442 Kungsbacka Tel: (mobilnummer borttaget)
 kbasoc.nu
 
 <!-- sida 99 -->
@@ -3827,8 +3827,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100986 | Inskickat av: | Datum: 2023-10-30 20:13 Sida 1 av 3
 
@@ -3866,8 +3866,8 @@ Förnamn   Efternamn    Telefon      E-postadress
 
 2\. Fastighet
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100986 | Inskickat av: Datum: 2023-10-30 20:13 Sida 2 av 3
 
@@ -3919,8 +3919,8 @@ BRW283A4D2DC23E_000745.pdf (78 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100986 | Inskickat av: | Datum: 2023-10-30 20:13 Sida 3 av 3
 
@@ -4169,8 +4169,8 @@ Telefon                           E-postadress
 
 Notifieringar
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #97619 | Inskickat av: | Datum: 2023-10-06 10:37 Sida 1 av 3
 
@@ -4199,8 +4199,8 @@ fastigheten eller fastigheterna på denna kartan.
 
 Fastighetsbeteckning: KUNGSBACKA LYNGÅS 3:8
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #97619 | Inskickat av: | Datum: 2023-10-06 10:37 Sida 2 av 3
 
@@ -4235,8 +4235,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #97619 | Inskickat av: | Datum: 2023-10-06 10:37 Sida 3 av 3
 
@@ -4397,7 +4397,7 @@ prövar det överklagade beslutet. Om överklagan kommer in för sent avvisas de
 
 telefonnummer och gärna e-postadress, samt underteckna överklagan. Om det finns handlingar som
 stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning   av ärendet
 Ansökan registrerades 2023-03-29.
@@ -4688,8 +4688,8 @@ Telefon                           E-postadress
 
 Notifieringar
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100724 | Inskickat av: | Datum: 2023-10-28 18:27 Sida 1 av 3
 
@@ -4718,8 +4718,8 @@ fastigheten eller fastigheterna på denna kartan.
 
 Fastighetsbeteckning: KUNGSBACKA KLÄPPA 1:4
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100724 | Inskickat av: | Datum: 2023-10-28 18:27 Sida 2 av 3
 
@@ -4757,8 +4757,8 @@ Ansökan om planbesked Kläppa 1.4, 2023.10.28.pdf (6,64 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #100724 | Inskickat av: | Datum: 2023-10-28 18:27 Sida 3 av 3
 
@@ -5313,7 +5313,7 @@ Hälsoskydd
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Anders Lund
-anders.lund@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5506,7 +5506,7 @@ gäller, eller som fastställs, för Ålgårda kraftverk.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5595,7 +5595,7 @@ Kungsbacka kommun
 1 (2)                                  Mark- och miljdomstolen vid
 Datum                                  Vänersborgs Tingsrätt
 2023-08-18
-mmd.vanersborg@dom.se
+(e-post borttagen)
 Diarienummer
 MH-2023-2834-3
 Ärendetyp
@@ -5635,11 +5635,11 @@ möjlighet att lämna synpunkter vid kommande prövning framöver och att Mark- 
 
 Bygg- och miljöförvaltningen                            Kungsbacka kommun
 Bibbi Skruf                                              434 81 Kungsbacka
-bibbi.skruf@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 163 -->
@@ -5661,7 +5661,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2022-10-21
 MÅLNR: M 3423-22
 AKTBIL: 5
@@ -5700,7 +5700,7 @@ Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 165 -->
 
@@ -6270,7 +6270,7 @@ Organisationsnummer:       212000-1256
 
 Kontaktperson:             Åsa Vester
 
-E-mail kontaktperson:      asa.vester@kungsbacka.se
+E-mail kontaktperson:      (e-post borttagen)
 
 Konsult:                   SWECO AB, Göteborg
 
@@ -7476,7 +7476,7 @@ Rådman
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -7529,7 +7529,7 @@ omlöpet helt öppen.
 Dok.Id 391699
 Postadress     Besöksadress Telefon       Telefax      Expeditionstid
 Box 1070       Hamngatan 6  0521-27 02 00 0521-27 02 80 måndag – fredag
-462 28 Vänersborg           E-post: mmd.vanersborg@dom.se 08:00–16:00
+462 28 Vänersborg           E-post: (e-post borttagen) 08:00–16:00
 www.vanersborgstingsratt.domstol.se
 
 <!-- sida 214 -->
@@ -7814,7 +7814,7 @@ fiskväg i huvudsaklig överensstämmelse med ingivit förslag,
 Dok.Id 201921
 Postadress     Besöksadress Telefon       Telefax      Expeditionstid
 Box 1070       Hamngatan 6  0521-27 02 00 0521-27 02 30 måndag – fredag
-462 28 Vänersborg           E-post: mmd.vanersborg@dom.se 09:00-16:00
+462 28 Vänersborg           E-post: (e-post borttagen) 09:00-16:00
 
 <!-- sida 219 -->
 
@@ -9733,7 +9733,7 @@ YTTRANDE
 Kommunstyrelsen
 
 Till                                                  Datum
-andreas@sea2source.se                            2022-05-27
+(e-post borttagen)                            2022-05-27
 Diarienummer
 KS 2022-00389
 
@@ -9776,7 +9776,7 @@ naturligt också lägre.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10765,7 +10765,7 @@ Forsnacken AB, 556806-0924, c/o Heineman, Box 95044, 541 05 SKÖVDE
 Ombud
 Advokaten Pia Bosdotter Olson, Advokataktiebolaget Nordic Law, Skeppsbron 5, 211 20
 
-MALMÖ, 0705-755015, pbo(Qnordiclaw.se
+MALMÖ, (mobilnummer borttaget), pbo(Qnordiclaw.se
 
 Saken
 Omprövning av vattenverksamhet på fastigheterna Ålgårda 1:2 och Sundstorp 7:2, båda i
@@ -11622,7 +11622,7 @@ mål M 182-18
 
 Mark- och miljödomstolen vidV ÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-12-04
 MÅLNR: M 3423-22
 AKTBIL: 30
@@ -11668,7 +11668,7 @@ Företagscenter, 517 91 Bollebygd.
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 293 -->
 
@@ -11729,7 +11729,7 @@ Båda fiskvägarna föreslås fästas i befintlig dammkonstruktion. Eventuellt k
 
 Bollebygd Hultet 2:13
 
-Bollebygd Hultet 2:13 ägs av Agneta Torstensson, Önderedsvägen 5, 518 42 Sjömarken.
+Bollebygd Hultet 2:13 ägs av Agneta Torstensson, (adress borttagen), 518 42 Sjömarken.
 
 Fastigheten är belägen invid brofästet vid Viaredssjöns utlopp, och kommer enbart att
 beröras av ålyngelledaren och därmed sammanhängande anordningar och
@@ -11847,8 +11847,8 @@ bestå av en ränna i rostfritt stål som invändigt kläs med lämpligt ålsubs
 
 Mark Grimmered 1:3
 
-Mark Grimmered 1:3 ägs av Stig Gustav Johansson, Grimmeredsvägen 81, 439 72 Fjärås
-och Rune Ingvar Johansson, Klasgården, Grimmeredsvägen 79, 439 72 Fjärås.
+Mark Grimmered 1:3 ägs av Stig Gustav Johansson, (adress borttagen), 439 72 Fjärås
+och Rune Ingvar Johansson, Klasgården, (adress borttagen), 439 72 Fjärås.
 
 Bedömning av frågan om ersättning
 
@@ -12291,7 +12291,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-09-25
 MÅLNR: M 3423-22
 AKTBIL: 27
@@ -12335,7 +12335,7 @@ förhållanden inte uppgår till två sek-kbm. Det går inte att magasinera så 
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 \#38596.1
 
@@ -12929,7 +12929,7 @@ domstolens kommande huvudförhandling. Domstolen får avvisa senare framställda
 yrkanden om de inte har föranletts av iakttagelser vid syn eller av andra omständigheter som
 förekommit under huvudförhandlingen.
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
-Vänersborg eller via e-post mmd.vanersborg@dom.se. Ange fullständiga kontaktuppgifter
+Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3423-22.
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Göteborgs-
@@ -12937,7 +12937,7 @@ Posten, Norra Halland och Kungsbacka -Posten.
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -12988,7 +12988,7 @@ Hälsoskydd
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Anders Lund
-anders.lund@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13155,7 +13155,7 @@ kommunala och regionala dricksvattenförsörjningen.
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -13231,14 +13231,14 @@ Målet gäller: ansökan om omprövning av vattenverksamhet i Tolaredsån vid G�
 kraftverk samt Stora Öresjöns regleringsdammar på fastigheterna Bobygd 2:11 m fl i
 Marks kommun (prövningsgrupp Rolfsån 106_1)
 De bifogade handlingarna skickas till er för kännedom.
-Kontakta oss gärna per e-post mmd.vanersborg@dom.se eller telefon om ni har frågor.
+Kontakta oss gärna per e-post (e-post borttagen) eller telefon om ni har frågor.
 Valentina Juric
 Telefon 0521- 27 03 06
 Bifogade handlingar: aktbilaga 24-26 (mål M 3430-22)
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -13252,7 +13252,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-12-14
 MÅLNR: M 3430-22
 AKTBIL: 24
@@ -13293,7 +13293,7 @@ exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, beh�
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 333 -->
 
@@ -13368,24 +13368,24 @@ Dokumenttitel: Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
 
 Beställare: Rejlers
 eDNA Solutions AB
-Kärrbogata 22
+(adress borttagen)
 441 96 Alingsås, SE
-Tel: +46 702 11 52 91
+Tel: (mobilnummer borttaget)
 
 www.ednasolutions.se
-Epost: post@ednasolutions.se
+Epost: (e-post borttagen)
 WaterCircle Göteborg AB
-Kärrbogata 22
+(adress borttagen)
 441 96 Alingsås, SE
-Tel: +46 706 50 39 53
+Tel: (mobilnummer borttaget)
 Hemsida: WaterCircle
 
-Epost: info@watercircle.info
+Epost: (e-post borttagen)
 
-Författare: Eivind Stensrud (eivind@ednasolutions.se), Alexander Eiler (alex@ednasolutons.se), Annica
+Författare: Eivind Stensrud ((e-post borttagen)), Alexander Eiler ((e-post borttagen)), Annica
 
-Karlson (annica@watercircle.info)
-Provtagare: Annica Karlson (annica@watercircle.info), Eivind Stensrud (eivind@ednasolutions.se) och Anja
+Karlson ((e-post borttagen))
+Provtagare: Annica Karlson ((e-post borttagen)), Eivind Stensrud ((e-post borttagen)) och Anja
 
 Lindfors
 Foto omslag: Vattenprov från flera djup hämtades upp med Ruttnerhämtare, Viaredssjön. Foto, Annica
@@ -13938,16 +13938,16 @@ Biolog med inriktning på fisk- och vattenvård
 Ankomstdatum 2023-12-20
 Diarienummer MH-2023-4570
 
-Från:  Kommun\<kommun@kungsbacka.se>
+Från:  Kommun\<(e-post borttagen)>
 Skickat: 2023-12-2016:28
-Till:  Miljö & Hälsoskyddadmin \<miljoochhalsoskydd.admin@kungsbacka.se>
+Till:  Miljö & Hälsoskyddadmin \<(e-post borttagen)>
 
 Ämne:  VB: Brev från Vänersborgstingsrätt i M3430-22
 Bilagor: VänersborgsTRM3430-22Aktbil 28.pdf
 
-Från:Vänersborgstingsrätt\<vanersborgs.tingsratt@dom.se>
+Från:Vänersborgstingsrätt\<(e-post borttagen)>
 Skickat:den20december202310:56
-Till:Kommun\<kommun@kungsbacka.se>
+Till:Kommun\<(e-post borttagen)>
 Ämne:BrevfrånVänersborgstingsrättiM3430-22
 
 Bifogatdettae-postmeddelandefinnsdokumentmedviktiginformationfrånendomstolellerennämnd
@@ -14034,7 +14034,7 @@ inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen f
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
-Vänersborg eller via e-post mmd.vanersborg@dom.se. Ange fullständiga kontaktuppgifter
+Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
@@ -14042,7 +14042,7 @@ och Göteborgs-Posten.
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -14054,7 +14054,7 @@ Diarienummer MH-2023-4570
 
 Mark- och miljödomstolen vidV ÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-12-04
 MÅLNR: M 3430-22
 AKTBIL: 19
@@ -14100,7 +14100,7 @@ Företagscenter, 517 91 Bollebygd.
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 354 -->
 
@@ -14167,7 +14167,7 @@ Diarienummer MH-2023-4570
 
 Bollebygd Hultet 2:13
 
-Bollebygd Hultet 2:13 ägs av Agneta Torstensson, Önderedsvägen 5, 518 42 Sjömarken.
+Bollebygd Hultet 2:13 ägs av Agneta Torstensson, (adress borttagen), 518 42 Sjömarken.
 
 Fastigheten är belägen invid brofästet vid Viaredssjöns utlopp, och kommer enbart att
 beröras av ålyngelledaren och därmed sammanhängande anordningar och
@@ -14291,8 +14291,8 @@ bestå av en ränna i rostfritt stål som invändigt kläs med lämpligt ålsubs
 
 Mark Grimmered 1:3
 
-Mark Grimmered 1:3 ägs av Stig Gustav Johansson, Grimmeredsvägen 81, 439 72 Fjärås
-och Rune Ingvar Johansson, Klasgården, Grimmeredsvägen 79, 439 72 Fjärås.
+Mark Grimmered 1:3 ägs av Stig Gustav Johansson, (adress borttagen), 439 72 Fjärås
+och Rune Ingvar Johansson, Klasgården, (adress borttagen), 439 72 Fjärås.
 
 Bedömning av frågan om ersättning
 
@@ -14762,7 +14762,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-09-22
 MÅLNR: M 3430-22
 AKTBIL: 16
@@ -14804,7 +14804,7 @@ yttrande enligt 22 kap 13 § miljöbalken.
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 369 -->
 
@@ -16381,7 +16381,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2022-10-21
 MÅLNR: M 3430-22
 AKTBIL: 5
@@ -16420,7 +16420,7 @@ Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 400 -->
 
@@ -16990,7 +16990,7 @@ Organisationsnummer:       212000-1256
 
 Kontaktperson:             Åsa Vester
 
-E-mail kontaktperson:      asa.vester@kungsbacka.se
+E-mail kontaktperson:      (e-post borttagen)
 
 Konsult:                   SWECO AB, Göteborg
 
@@ -18171,7 +18171,7 @@ Sökande
 Ombud
 Advokaten Pia Bosdotter Olson, Advokataktiebolaget Nordic Law, Skeppsbron 5, 211 20
 
-MALMÖ, 0705-755015, pbo(Qnordiclaw.se
+MALMÖ, (mobilnummer borttaget), pbo(Qnordiclaw.se
 
 Saken
 
@@ -18563,11 +18563,11 @@ i.
 
 Fastigheten Mark Grimmered 1:3 ägs av
 
-Stig Gustav Johansson Grimmeredsvägen 81
+Stig Gustav Johansson (adress borttagen)
 439 72 Fjärås
 
 Rune Ingvar Johansson = Klasgården
-Grimmeredsvägen 79
+(adress borttagen)
 439 72 Fjärås
 
 Orientering, nuvarande förhållanden m m
@@ -20566,10 +20566,10 @@ Inga andra fastigheter anses bli berörda då vattenförhållandena inte väntas
 befintlig verksamhet.
 
 Fastighet        Ägare              Adress
-Mark Grimmered 1:3 Stig Gustav Johansson Grimmeredsvägen 81
+Mark Grimmered 1:3 Stig Gustav Johansson (adress borttagen)
 439 72 Fjärås
 Rune Ingvar Johansson Klasgården
-Grimmeredsvägen 79
+(adress borttagen)
 439 72 Fjärås
 
 KOSTNADER
@@ -20629,7 +20629,7 @@ Datum: 2022-06-10
 
 Bilaga: T1    Sida: 1/1
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 499 -->
 
@@ -20648,7 +20648,7 @@ Datum: 2022-05-29
 
 Bilaga: T2    Sida: 1/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 Ö v e r sm i k te
 d
 G ör
@@ -20707,7 +20707,7 @@ Datum: 2022-04-22
 DG +105,91
 Bilaga: T2    Sida: 2/5
 SG +104,01
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 501 -->
 
@@ -20735,7 +20735,7 @@ Utskov 1 fri bredd 0,8m Tröskel +86,40
 Utskov 2 fri bredd 1,12 m Tröskel 86,49                     Datum: 2022-05-29
 Bilaga: T2    Sida: 3/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 502 -->
 
@@ -20761,7 +20761,7 @@ Konstruktör: ME Granskad av: AB
 Datum: 2022-05-29
 Bilaga: T2    Sida: 4/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 503 -->
 
@@ -20797,7 +20797,7 @@ Datum: 2022-05-29
 
 Bilaga: T2    Sida: 5/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 504 -->
 
@@ -21017,7 +21017,7 @@ Datum: 2022-05-29
 
 Bilaga: T8    Sida: 1/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 Ö v e r sm i k te
 d
 G ör
@@ -21092,7 +21092,7 @@ DG +105,91
 Datum: 2022-04-22
 Bilaga: T8    Sida: 2/5
 SG +104,01
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 511 -->
 
@@ -21122,7 +21122,7 @@ Konstruktör: ME Granskad av: AB
 Datum: 2022-05-29
 Bilaga: T8    Sida: 4/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 512 -->
 
@@ -21156,7 +21156,7 @@ Utskov 1 fri bredd 0,8m Tröskel +86,40
 Utskov 2 fri bredd 1,12 m Tröskel 86,49                     Datum: 2022-05-29
 Bilaga: T8    Sida: 3/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 513 -->
 
@@ -21197,7 +21197,7 @@ Datum: 2022-05-29
 
 Bilaga: T8    Sida: 5/5
 
-www.sea2source.se Ehns gata 9, 51156 Kinna
+www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 514 -->
 
@@ -24336,7 +24336,7 @@ inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen f
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
-Vänersborg eller via e-post mmd.vanersborg@dom.se. Ange fullständiga kontaktuppgifter
+Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
@@ -24344,7 +24344,7 @@ och Göteborgs-Posten.
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -24359,9 +24359,9 @@ Diarienummer MH-2023-4570
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-Från:  Kommun\<kommun@kungsbacka.se>
+Från:  Kommun\<(e-post borttagen)>
 Skickat: 2023-12-1115:31
-Till:  Miljö & Hälsoskyddadmin \<miljoochhalsoskydd.admin@kungsbacka.se>
+Till:  Miljö & Hälsoskyddadmin \<(e-post borttagen)>
 
 Ämne:  VB: M3460-22
 
@@ -24378,15 +24378,15 @@ Registrator
 Kungsbackakommun
 Kommunstyrelsensförvaltning
 0300-834319
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
-Från:valentina.juric@dom.se.s\<valentina.juric@dom.se>
+Från:(e-post borttagen)\<(e-post borttagen)>
 Skickat:den7december202315:38
-Till:Kommun\<kommun@kungsbacka.se>
+Till:Kommun\<(e-post borttagen)>
 Ämne:M3460-22
 Känslighet:Konfidentiellt
 
-Dufårintee-postoftafrånvalentina.juric@dom.se.Sevarfördethärärviktigt.
+(e-post borttagen).
 
 Skyddat meddelande / Encrypted message
 
@@ -24426,9 +24426,9 @@ Thisnotificationcannotberepliedto.
 
 <!-- sida 771 -->
 
-Från:  marina.bjornbecker@kungsbacka.se
+Från:  (e-post borttagen)
 Skickat: 2023-12-2115:20
-Till:  byggochmiljo.mh1@kungsbacka.se
+Till:  (e-post borttagen)
 
 Ämne:  Registrerad handling i ditt ärende: MH-2023-4570
 
@@ -24461,14 +24461,14 @@ Målet gäller: ansökan om omprövning av vattenverksamhet i Tolaredsån vid G�
 kraftverk samt Stora Öresjöns regleringsdammar på fastigheterna Bobygd 2:11 m fl i
 Marks kommun (prövningsgrupp Rolfsån 106_1)
 De bifogade handlingarna skickas till er för kännedom.
-Kontakta oss gärna per e-post mmd.vanersborg@dom.se eller telefon om ni har frågor.
+Kontakta oss gärna per e-post (e-post borttagen) eller telefon om ni har frågor.
 Valentina Juric
 Telefon 0521- 27 03 06
 Bifogade handlingar: aktbilaga 24-26 (mål M 3430-22)
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -24479,7 +24479,7 @@ Mark- och miljödomstolen vid
 VÄNERSBORGS TINGSRÄTT
 Vänersborgs tingsrätt
 R4
-mmd.vanersborg@dom.se
+(e-post borttagen)
 INKOM: 2023-12-14
 MÅLNR: M 3430-22
 AKTBIL: 24
@@ -24520,7 +24520,7 @@ exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, beh�
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
-e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
+e-mail (e-post borttagen) • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
 <!-- sida 774 -->
 
@@ -24586,24 +24586,24 @@ Dokumenttitel: Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
 
 Beställare: Rejlers
 eDNA Solutions AB
-Kärrbogata 22
+(adress borttagen)
 441 96 Alingsås, SE
-Tel: +46 702 11 52 91
+Tel: (mobilnummer borttaget)
 
 www.ednasolutions.se
-Epost: post@ednasolutions.se
+Epost: (e-post borttagen)
 WaterCircle Göteborg AB
-Kärrbogata 22
+(adress borttagen)
 441 96 Alingsås, SE
-Tel: +46 706 50 39 53
+Tel: (mobilnummer borttaget)
 Hemsida: WaterCircle
 
-Epost: info@watercircle.info
+Epost: (e-post borttagen)
 
-Författare: Eivind Stensrud (eivind@ednasolutions.se), Alexander Eiler (alex@ednasolutons.se), Annica
+Författare: Eivind Stensrud ((e-post borttagen)), Alexander Eiler ((e-post borttagen)), Annica
 
-Karlson (annica@watercircle.info)
-Provtagare: Annica Karlson (annica@watercircle.info), Eivind Stensrud (eivind@ednasolutions.se) och Anja
+Karlson ((e-post borttagen))
+Provtagare: Annica Karlson ((e-post borttagen)), Eivind Stensrud ((e-post borttagen)) och Anja
 
 Lindfors
 Foto omslag: Vattenprov från flera djup hämtades upp med Ruttnerhämtare, Viaredssjön. Foto, Annica
@@ -25136,7 +25136,7 @@ inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen f
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
-Vänersborg eller via e-post mmd.vanersborg@dom.se. Ange fullständiga kontaktuppgifter
+Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
@@ -25144,7 +25144,7 @@ och Göteborgs-Posten.
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Hamngatan 6     måndag–fredag Box 1070     mmd.vanersborg@dom.se
+Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
@@ -25409,7 +25409,7 @@ aktörer.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -25604,7 +25604,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -25781,11 +25781,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 808 -->
 
@@ -25912,7 +25912,7 @@ utbetalas inget stöd för nästkommande år.
 Beslutad av: Kommunfullmäktige i protokoll KF § 214/14
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 <!-- sida 811 -->
 
@@ -26015,7 +26015,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -27368,7 +27368,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -28605,11 +28605,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 870 -->
 
@@ -29399,7 +29399,7 @@ Riktlinjer         för   hantering          av
 
 personuppgifter
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 886 -->
 
@@ -29664,7 +29664,7 @@ Kommunfullmäktige 9 november 2021 § 142, KS 2021-00691
 Gäller från: 9 november 2021
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -29679,7 +29679,7 @@ biträdesförhållanden                     inom
 
 Kungsbacka              kommun
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 892 -->
 
@@ -29950,7 +29950,7 @@ Kommunfullmäktige 9 november 2021 § 142, KS 2021-00691
 Gäller från: 9 november 2021
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -30483,7 +30483,7 @@ Taxa      för   laddning          vid    Kungsbacka
 
 kommuns             publika        laddstolpar
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 909 -->
 
@@ -30554,7 +30554,7 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 Ansvarig förvaltning: [Klicka och skriv]
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -30652,7 +30652,7 @@ Förvaltningen för tekniks tjänsteskrivelse, 2023-11-22
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -30823,7 +30823,7 @@ Anna Hamrin
 Besöksadress
 Controller
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 

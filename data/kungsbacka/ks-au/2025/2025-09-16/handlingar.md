@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1723,7 +1723,7 @@ Biträdande verksamhetschef
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2385,7 +2385,7 @@ Kommundirektör                          Samhällsbyggnadschef
 KKUUNNGGSSBBAACCKKAA            TTEENNNNIISSKKLLUUBBBB
 
 Ansökan om förlängning av arrende, Staren 11.       29/1 2025
-Borgmästaregatan 12, 434 32 Kungsbacka
+(adress borttagen), 434 32 Kungsbacka
 
 Ansökan om förlängning av arrende
 
@@ -2400,7 +2400,7 @@ banorna vi har idag.
 
 Kungsbacka TK
 
-Lindälvs gata 15, 434 32 Kungsbacka  0300-774 76  bg 554-3749 info@ktk.nu  www.ktk.nu
+(adress borttagen), 434 32 Kungsbacka  0300-774 76  bg 554-3749 (e-post borttagen)  www.ktk.nu
 
 <!-- sida 59 -->
 

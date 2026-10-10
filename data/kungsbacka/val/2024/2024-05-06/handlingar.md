@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -381,7 +381,7 @@ Sida
 
 <!-- sida 12 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 24 april 2024 16:08
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 17
@@ -420,7 +420,7 @@ www.val.se
 
 <!-- sida 13 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 17 april 2024 15:38
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 16
@@ -533,8 +533,8 @@ SVERIGES TELEVISION
 Mikael Pettersson
 
 Projektledare SVT
-micke.pettersson@svt.se
-0708847309
+(e-post borttagen)
+(mobilnummer borttaget)
 
 <!-- sida 16 -->
 
@@ -778,17 +778,17 @@ Till:                 Val nämnden
 Bifogade filer:        Projektplan Kungsbacka -Grundläggande granskning 2024.för
 utskick.pdf
 
-Från: Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
+Från: Fanny Nilsson \<(e-post borttagen)>
 Skickat: den 4 april 202413:15
-Till: Bygg & Miljö bygglov admin \<byggochmiljo.bygglovadmin@kungsbacka.se>; Individ & Familjeomsorg
-\<individochfamiljeomsorg@kungsbacka.se>; Kultur & Fritid \<kulturochfritid@kungsbacka.se>; Miljö &
-Hälsoskydd admin \<miljoochhalsoskydd.admin@kungsbacka.se>; Service \<service@kungsbacka.se>;
+Till: Bygg & Miljö bygglov admin \<(e-post borttagen)>; Individ & Familjeomsorg
+\<(e-post borttagen)>; Kultur & Fritid \<(e-post borttagen)>; Miljö &
+Hälsoskydd admin \<(e-post borttagen)>; Service \<(e-post borttagen)>;
 
-Teknik \<teknik@kungsbacka.se>; Sofia Jonsson \<sofia.jonsson@kungsbacka.se>
-Kopia: Elin Forså \<Elin.Forsa@se.ey.com>
+Teknik \<(e-post borttagen)>; Sofia Jonsson \<(e-post borttagen)>
+Kopia: Elin Forså \<(e-post borttagen)>
 Ämne: Revisionens grundläggande granskning 2024
 
-Sorne people who received this rnessa<:)e don't often <:Jet ernail from fanny.nilsson@se.ey.com. Learn why this is
+Sorne people who received this rnessa<:)e don't often <:Jet ernail from (e-post borttagen). Learn why this is
 irnportant
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -812,7 +812,7 @@ Fanny Nilsson I Verksamhetsrevisor I Offentlig sektor
 Ernst & Young AB
 EV
 Parkgatan 49, 401 82, Göteborg, Sweden
-Office: +46767056411 I Fanny.Nilsson@se.ey.com
+Office: (mobilnummer borttaget) I (e-post borttagen)
 Website: http://www.ey.com/se
 
 <!-- sida 22 -->
@@ -874,7 +874,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 24 -->
@@ -887,18 +887,18 @@ Bifogade filer:       Grundläggande granskning 2023_Kungsback_slutlig.pdf; Föl
 grundläggande granskning 2023 BN,FG,GA,IF,TE,
 MH,SE,VO,K&F,VL.pdf
 
-Från: Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
+Från: Fanny Nilsson \<(e-post borttagen)>
 Skickat: den 3 april 2024 07:50
-Till: Kultur & Fritid \<kulturochfritid@kungsbacka.se>; Bygg & Miljö bygglov admin
-\<byggochmiljo.bygglovadmin@kungsbacka.se>; Förskola Grundskola
+Till: Kultur & Fritid \<(e-post borttagen)>; Bygg & Miljö bygglov admin
+\<(e-post borttagen)>; Förskola Grundskola
 
-\<forskola.grundskola@kungsbacka.se>; Gymnasium & Arbetsmarknad
-\<gymnasiumocharbetsmarknad@kungsbacka.se>; Individ & Familjeomsorg
-\<individochfamiljeomsorg@kungsbacka.se>; Teknik \<teknik@kungsbacka.se>; Miljö & Hälsoskydd admin
-\<miljoochhalsoskydd.admin@kungsbacka.se>; Service \<service@kungsbacka.se>; Vård & Omsorg
-\<vardochomsorg@kungsbacka.se>; Sofia Jonsson \<sofia.jonsson@kungsbacka.se>
-Kopia: Lotta Graden \<lotta.graden@kungsbacka.se>; Kommunrevision
-\<kommunrevision@kungsbacka.se>; Patrik Johansson \<patrik.johansson2@kungsbacka.se>
+\<(e-post borttagen)>; Gymnasium & Arbetsmarknad
+\<(e-post borttagen)>; Individ & Familjeomsorg
+\<(e-post borttagen)>; Teknik \<(e-post borttagen)>; Miljö & Hälsoskydd admin
+\<(e-post borttagen)>; Service \<(e-post borttagen)>; Vård & Omsorg
+\<(e-post borttagen)>; Sofia Jonsson \<(e-post borttagen)>
+Kopia: Lotta Graden \<(e-post borttagen)>; Kommunrevision
+\<(e-post borttagen)>; Patrik Johansson \<(e-post borttagen)>
 Ämne: Grundläggande granskning 2023 -slutlig
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -920,7 +920,7 @@ Fanny Nilsson I Verksamhetsrevisor I Offentlig sektor
 Ernst & Young AB
 EV
 Parkgatan 49, 401 82, Göteborg, Sweden
-Office: +46767056411 I Fannv�Nilsson@se�ev�com
+Office: (mobilnummer borttaget) I Fannv�Nilsson@se�ev�com
 Website: http://www�ev�com/se
 
 The information contained in this communication is intended solely for the use of the individual or entity
@@ -1685,7 +1685,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 44 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:              den 3 april 2024 16:14
 Till:                  Brev: Val ValAdm
 Ämne:                 Val myndighetens nyhetsutskick v. 14
@@ -1740,7 +1740,7 @@ www.val.se
 
 <!-- sida 46 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 27 mars 2024 16:31
 Till:           Brev: Val ValAdm
 Ämne:           Nyhetsutskick v. 13
@@ -1843,7 +1843,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 48 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 20 mars 2024 15:36
 Till:           Brev: Val ValAdm
 Ämne:           VB: Nyhetsutskick v. 12
@@ -1864,9 +1864,9 @@ Telefon: 010-575 70 14
 
 www.val.se
 
-Från: Brev: Val ValAdm \<valadm@val.se>
+Från: Brev: Val ValAdm \<(e-post borttagen)>
 Skickat: den 20 mars 2024 15:17
-Till: Brev: Val ValAdm \<valadm@val.se>
+Till: Brev: Val ValAdm \<(e-post borttagen)>
 Ämne: Nyhetsutskick v. 12
 
 Hej,
@@ -1962,7 +1962,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 51 -->
 
-Från:                 Brev: Val ValAdm \<valadm@val.se>
+Från:                 Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:              den 13 mars 2024 15:25
 Till:                 Brev: Val ValAdm
 Ämne:                  Nyhetsutskick v. 11
@@ -2010,7 +2010,7 @@ www.val.se
 
 <!-- sida 52 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:              den 28 februari 2024 14:33
 Till:                  Brev: Val ValAdm
 Ämne:                  Nyhetsutskick v.9
@@ -2055,7 +2055,7 @@ Till:                 Val nämnden
 Ämne:                 VB: [Information från SKR] Tillfällig avvikelse från dygnsvila under
 EU-valet
 
-Från: Sveriges Kommuner och Regioner \<utskick@skr.se>
+Från: Sveriges Kommuner och Regioner \<(e-post borttagen)>
 Skickat: den 22 februari 2024 08:20
 Ämne: [Information från SKR] Tillfällig avvikelse från dygnsvila under EU-valet
 
@@ -2075,10 +2075,10 @@ Vänliga hälsningar,
 
 Sveriges Kommuner och Regioner
 
-Hornsgatan 20
+(adress borttagen)
 118 82 Stockholm
 08-452 00 00
-info@skr.se
+(e-post borttagen)
 www.skr.se
 
 <!-- sida 54 -->
@@ -2129,7 +2129,7 @@ rådet.
 3\. Valaffischer får inte ges sådan utformning att de kan
 förväxlas med vägmärken eller trafikanordningar.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 Page 1 of 3
 
@@ -2162,18 +2162,18 @@ skrifter.
 
 Kopia
 
-Trafikverket Region Väst: trafikverket@trafikveret.se
-Polismyndigheten Region Väst: registrator.vast@polisen.se
-Kungsbacka kommun: info@kungsbacka.se
-Varbergs kommun: hgn@varberg.se
+Trafikverket Region Väst: (e-post borttagen)
+Polismyndigheten Region Väst: (e-post borttagen)
+Kungsbacka kommun: (e-post borttagen)
+Varbergs kommun: (e-post borttagen)
 
-Falkenbergs kommun: kontaktcenter@falkenberg.se
-Halmstad kommun: direkt@halmstad.se
-Laholms kommun: kommun@laholm.se
-Hylte kommun: kommunen@hylte.se
-Naturvårdsverket: kundtjanst@naturvardsverket.se
+Falkenbergs kommun: (e-post borttagen)
+Halmstad kommun: (e-post borttagen)
+Laholms kommun: (e-post borttagen)
+Hylte kommun: (e-post borttagen)
+Naturvårdsverket: (e-post borttagen)
 
-Lantmäteriet: kundcenter@lm.se
+Lantmäteriet: (e-post borttagen)
 
 Sändlista
 
@@ -2185,21 +2185,21 @@ Page 2 of 3
 
 Sändlista
 
-1\. Arbetarpartiet-Socialdemokraterna: info.halland@socialdemokratarna.se
-2\. Centerpartiet: halland@centarpartiet.se
-3\. Kristdemokraterna: halland@kristdemokraterna.se
-4\. Liberalerna: vastsverige@liberalerna.se
+1\. Arbetarpartiet-Socialdemokraterna: (e-post borttagen)
+2\. Centerpartiet: (e-post borttagen)
+3\. Kristdemokraterna: (e-post borttagen)
+4\. Liberalerna: (e-post borttagen)
 
-5\. Miljöpartiet de gröna: info@mp.se
-6\. Moderaterna: halland@moderaterna.se
-7\. Sverigedemokraterna: info@sd.se
-8\. Vänsterpartiet: halland@vansterpartiet.se
+5\. Miljöpartiet de gröna: (e-post borttagen)
+6\. Moderaterna: (e-post borttagen)
+7\. Sverigedemokraterna: (e-post borttagen)
+8\. Vänsterpartiet: (e-post borttagen)
 
 Page 3 of 3
 
 <!-- sida 57 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:              den 16 februari 2024 13:13
 Till:                  Brev: Val ValAdm
 Ämne:                  Valsedelssystemet ska utvärderas!
@@ -2229,7 +2229,7 @@ www.val.se
 
 <!-- sida 58 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 6 februari 2024 14:16
 Till:           Brev: Val ValAdm
 Ämne:           Nyhetsbrev från Valmyndigheten -nu i nytt format!

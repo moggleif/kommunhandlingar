@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -506,7 +506,7 @@ Ange antal barn per personal Öppettider
 
 Adress där verksamheten ska bedrivas ange adress, postnummer, ort
 
-Ivarsgårdsgatan 30, 434 35 Kungsbacka
+(adress borttagen), 434 35 Kungsbacka
 
 Kungsbacka kommun
 
@@ -553,7 +553,7 @@ Namn Personnummer
 Maja Keszei 6509224868
 
 Adress Postnummer Postadress
-Lilla Toftavägen 3A 42931 Kullavik
+Lilla (adress borttagen) 42931 Kullavik
 Telefonnummer, inklusive riktnummer Mobiltelefon
 
 0708921292 0702006026
@@ -643,16 +643,16 @@ Ange sökandes ledningskrets
 Ange samtliga personer som ingår i sökandes ledningskrets
 
 Namn Personnummer Befattning hos huvudman
-Hanna Sjöstedt 19770421-1924 ordförande
-Christina Barac Holgersson | 19761014-4847 ledamot
+Hanna Sjöstedt (personnummer borttaget) ordförande
+Christina Barac Holgersson | (personnummer borttaget) ledamot
 
-Angelika Glimmerhav 19780703-4868 ledamot
+Angelika Glimmerhav (personnummer borttaget) ledamot
 
-EvaThulin 19810815-0163 Ledamot
+EvaThulin (personnummer borttaget) Ledamot
 
-Johanna Hagberg Larsson | 790729-3307 Supleant
+Johanna Hagberg Larsson | (personnummer borttaget) Supleant
 
-Andreas Holgersson 830622-4638 ledamot
+Andreas Holgersson (personnummer borttaget) ledamot
 
 Ägare med väsentligt inflytande
 
@@ -1606,7 +1606,7 @@ Utredning    och  förslag
 
 Furulidsskolan, Vallda.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 33 -->
 
@@ -3102,7 +3102,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3242,7 +3242,7 @@ elevombudet (BEO) och fyra inkommit från Diskrimineringsombudsmannen
 (DO). Därtill ingår ett ärende som inkommit från Skolinspektionen (SI) och ett
 som inkommit från Lärarnas ansvarsnämnd (LAN).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 72 -->
 
@@ -3569,7 +3569,7 @@ synpunkter om sin skolsituation i våra utredningar. Vi skulle därför vilja
 vLäertaar onma tnilil ådtee rbkeorpöprdlaat evlåervte brnesal uhta tri ållt eelrekvoeprpnlaa to bche sil suåte fta ltli lpl åsi nvial keelet vseätrt. .
 
 Skriftligen redovisa till Skolinspektionen via mail på följande adress;
-dokument.goteborg@skolinspektionen.se Märk redovisningen med aktuellt
+(e-post borttagen) Märk redovisningen med aktuellt
 diarienummer.
 RUetvketockrnli nbgeshoömverår dsee: t ill att lära rna samverkar och använder sig av olika
 metoder för att säkerställa likvärdiga bedömningar och omdömen samt att
@@ -3702,7 +3702,7 @@ Datum 2025-10-28
 Huvudman                             Dnr SI 2025:5874
 Sida 1 (14)
 KUNGSBACKA KOMMUN
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Beslut
 
@@ -3770,7 +3770,7 @@ Huvudmannen ska senast den 30 april 2026 redovisa till
 Skolinspektionen vilka förbättringsåtgärder som vidtagits utifrån de
 identifierade utvecklingsområdena.
 Redovisningen skickas via e-post, till
-dokument.goteborg@skolinspektionen.se , eller per post till,
+(e-post borttagen) , eller per post till,
 Skolinspektionen, Box 2320, 405 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr 2025:5874) i de
 handlingar som sänds in.
@@ -4288,7 +4288,7 @@ Ja eleverna har fått ta del av resultatet. Respektive lärare har återkopplat
 delar av resultatet i respektive klass.
 
 Skriftligen redovisa till Skolinspektionen via mail på följande adress;
-dokument.goteborg@skolinspektionen.se Märk redovisningen med aktuellt
+(e-post borttagen) Märk redovisningen med aktuellt
 diarienummer.
 Utvecklingsområde 1: Rektor behöver se till att lärarna samverkar och
 använder sig av olika metoder för att säkerställa likvärdiga bedömningar i
@@ -4364,7 +4364,7 @@ Datum 2025-10-23
 Huvudman                             Dnr SI 2025:5872
 Sida 1 (15)
 KUNGSBACKA KOMMUN
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Beslut
 
@@ -4435,7 +4435,7 @@ Huvudmannen ska senast den 30 april 2026 redovisa till
 Skolinspektionen vilka förbättringsåtgärder som vidtagits utifrån de
 identifierade utvecklingsområdena.
 Redovisningen skickas via e-post, till
-dokument.goteborg@skolinspektionen.se, eller per post till,
+(e-post borttagen), eller per post till,
 Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr SI 2025:5872) i
 de handlingar som sänds in.
@@ -5065,7 +5065,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 Pågående anmälningsärenden hos Skolinspektionen och Barn-
 1 (3)

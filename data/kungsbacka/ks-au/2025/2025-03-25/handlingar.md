@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -194,7 +194,7 @@ Beslutad av: Kommunfullmäktige 2024-12-12 § 165, KS-2024-00300
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -1740,7 +1740,7 @@ Beslutad av: Kommunfullmäktige 2024-12-12 § 165, KS-2024-00300
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -3183,11 +3183,11 @@ Beslutad av:   Kommunfullmäktige 2024-XX-XX § XXX, KS-2024-XXXXX
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 77 -->
 
@@ -4036,7 +4036,7 @@ Motion från Maj-Britt Rane Andersson (S) och Ermin Škorić (S) om att genomfö
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -6086,7 +6086,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan som kom in 2023-05-25 innebär nylokalisering av ett enbostadshus inom
@@ -6559,7 +6559,7 @@ Cntralen 3
 
 Kungsbacka kommun (212000-1256), nedan kallad Kommunen
 
-Brf Centralen 3 i Kungsbacka (769610-9177), Storgatan 4A 434 30 Kungsbacka, ägare av
+Brf Centralen 3 i Kungsbacka (769610-9177), (adress borttagen) 434 30 Kungsbacka, ägare av
 fastigheterna Centralen 3, nedan kallad Fastighetsägaren
 
 Kommunen och Fastighetsägaren kallas gemensamt nedan Parterna
@@ -6974,11 +6974,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 168 -->
 
@@ -7583,7 +7583,7 @@ Underlag        till bostadsförsörjningsplan
 
 för   Kungsbacka            kommun          2025–2029
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 184 -->
 

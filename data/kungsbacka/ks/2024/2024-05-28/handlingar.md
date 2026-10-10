@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -3903,7 +3903,7 @@ Plan  2026–2027
 
 Version till kommunstyrelsen, daterad 2024-05-10
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -6961,7 +6961,7 @@ Kommunledningskontoret Styrning & Ekonomi
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7219,7 +7219,7 @@ Kungsbacka       kommun
 
 Version till ksau 2024-05-15
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 162 -->
 
@@ -7855,7 +7855,7 @@ Kungsbacka kommun                                         Kungsbacka kommun
 Anna Hamrin
 Controller                                                    Besöksadress
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -9278,12 +9278,12 @@ Till:             Samhällsbyggnadskontoret
 Ämne:             VB: Seniorboende Södra Ebbagården
 Bifogade filer:   Södra Ebbagården Seniorboende_presentation 20240129.pdf
 
-Från: kent@ebbagarden.com \<kent@ebbagarden.com>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 30 januari 2024 16:46
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Seniorboende Södra Ebbagården
 
-Du får inte e-post ofta från kent@ebbagarden.com. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -9311,13 +9311,13 @@ av många i Onsala.
 
 Med vänlig hälsning
 Kent Ahlqvist
-Mobil : +46705 10 04 84
+Mobil : (mobilnummer borttaget)
 
 Södra Ebbagården
 
 <!-- sida 201 -->
 
-Onsalavägen 845
+(adress borttagen)
 439 33 ONSALA
 
 <!-- sida 202 -->
@@ -9771,7 +9771,7 @@ Projektnamn
 Detaljplan för bostäder inom Lerberg 16:40, Lerberg 3:9 och Lerberg 3:11
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se
+Lovisa Eld                       (e-post borttagen)
 
 Status
 Beställningen är                 Datum
@@ -10292,7 +10292,7 @@ Projektnamn
 Detaljplan för skola inom Åsa 5:246 i Åsa
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se
+Lovisa Eld                       (e-post borttagen)
 
 Status
 Beställningen är                 Datum
@@ -10545,7 +10545,7 @@ Lokaliseringsutredning                                  ny     skola         i  
 
 Upprättad 2021-06-29
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 234 -->
 
@@ -11274,11 +11274,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning, Samhällsbyggnadskontoret
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 255 -->
 
@@ -12960,7 +12960,7 @@ för 2024. Ökningen beror på det kraftigt ökade priset för porto.
 Verksamheten skickar mindre post än innan, men den post som skickas är
 
 Postadress: Besöksadress:      Telefon: Fax:     E-post:
-Mölndals Stad Stadshuset, Knarrhögsgatan 5 031-315 18 80 031-315 18 89 Ofs@molndal.se
+Mölndals Stad Stadshuset, Knarrhögsgatan 5 031-315 18 80 031-315 18 89 (e-post borttagen)
 431 82 MÖLNDAL www.molndal.se/overformyndare
 
 <!-- sida 298 -->
@@ -13254,7 +13254,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -14619,7 +14619,7 @@ Medlemskommunernas beslut sammanvägs i framtagandet av handlingen Förslag till
 Budget 2025 plan 2026-2027.
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
-Storgöteborg   031-335 26 00 raddningstjansten@rsgbg.se Box 5204 Åvägen 2 5853-4009
+Storgöteborg   031-335 26 00 (e-post borttagen) Box 5204 Åvägen 2 5853-4009
 Telefax:   Hemsida:        402 24 GÖTEBORG Org. nr
 031-335 27 71 www.rsgbg.se            222000-0752
 
@@ -14825,7 +14825,7 @@ samverkan i dessa frågor hanteras.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -18628,7 +18628,7 @@ samt Kungsbacka kommun) på följande sidor. Efter kommunöversikterna så följ
 detaljerade bilder med utsatta gränser.
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
-Storgöteborg  031-335 26 00 raddningstjansten@rsgbg.se Box 5204 Åvägen 2 5853-4009
+Storgöteborg  031-335 26 00 (e-post borttagen) Box 5204 Åvägen 2 5853-4009
 Telefax:   Hemsida:        402 24 GÖTEBORG Org. nr
 031-335 27 71 www.rsgbg.se            222000-0752
 
@@ -18961,7 +18961,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -19730,7 +19730,7 @@ bland annat genomgå en lokaliseringsprövning enligt 2 kap. miljöbalken. Därm
 1 (4)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -19972,7 +19972,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 461 -->
@@ -20546,7 +20546,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -20586,9 +20586,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
@@ -20786,7 +20786,7 @@ information som ser ut att variera i innehåll.
 1 (2)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -20853,7 +20853,7 @@ rnd
 :dllätstsaF
 
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
-E-post: registraturen@boverket.se | Webbplats: www.boverket.se
+E-post: (e-post borttagen) | Webbplats: www.boverket.se
 
 <!-- sida 483 -->
 
@@ -29127,7 +29127,7 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 EKSTA BOSTADS AB
 Box 10 400, 434 24 Kungsbacka
 Tel 0300-356 00
-info@eksta.se
+(e-post borttagen)
 
 68
 Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -30199,7 +30199,7 @@ Transaktion 09222115557513205880 Signerat CK, HS, PW, AL
 
 <!-- sida 657 -->
 
-Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka info@tempohus.se
+Tempohus Kungsbacka AB Box 10 160 434 22 Kungsbacka (e-post borttagen)
 
 Transaktion 09222115557513205880 Signerat CK, HS, PW, AL
 
@@ -30351,11 +30351,11 @@ Beslutad av:    Kommunfullmäktige xx nnnnnn 2024 § XX, KS 2024-0058 – Försl
 03
 Gäller från:    2024-xx-xx
 Ansvarig förvaltning: Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 662 -->
 
@@ -30634,11 +30634,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 670 -->
 
@@ -32488,10 +32488,10 @@ Beslutad av:   Kommunfullmäktige …., KS ….      www.kungsbacka.se
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 732 -->
 
@@ -32880,11 +32880,11 @@ Beslutad av:    Kommunfullmäktige 2023-11-07 § 170, KS-2023-00301
 Gäller från:    2024-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 741 -->
 
@@ -33491,7 +33491,7 @@ marker, till exempel Eksta och Tjolöholm.
 1 (4)
 Samhällsbyggnadskontoret                                  Kungsbacka kommun
 Mårten Västerdal                                           434 81 Kungsbacka
-marten.vasterdal@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Samhällsplanerare
 Stadshuset, Storgatan 37
@@ -33633,9 +33633,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 

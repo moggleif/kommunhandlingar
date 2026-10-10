@@ -846,7 +846,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 914CD734BC8275D2D480457D2C67A05059F17E60DF
@@ -1269,7 +1269,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -1494,7 +1494,7 @@ sent kommer den att avvisas.
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -1940,7 +1940,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
 Kungsbacka kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på
@@ -2554,7 +2554,7 @@ I överklagan ska du ange
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -2780,7 +2780,7 @@ sent kommer den att avvisas.
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
 
@@ -3088,7 +3088,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3395,7 +3395,7 @@ Datum
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3682,7 +3682,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
 Kungsbacka kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på
@@ -3994,7 +3994,7 @@ Datum
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -4266,7 +4266,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -4499,7 +4499,7 @@ sent kommer den att avvisas.
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen

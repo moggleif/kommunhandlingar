@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -78,7 +78,7 @@ KUNGSBACKA  KOMMUN
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 10. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>Kumlabacken 7, 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
+| 10. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 11. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 12. | Beredning av motion - Avskaffa<br>religiöst motiverad specialkost i<br>förskola och skola (KS-2025-<br>00457)<br>Kl 14:25-15:05<br>Tove Bender, utredare | FG-2025-00499 | Nämnden för Förskola & Grundskola avslår<br>motionen med hänvisning till att det skulle strida<br>mot diskrimineringslagen att besluta om att<br>avskaffa religiöst motiverad specialkost i<br>Förskola & Grundskola. |
 |  | Paus 15:05-15:15 |  |  |

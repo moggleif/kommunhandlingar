@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -161,7 +161,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -814,7 +814,7 @@ FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2955,7 +2955,7 @@ Förvaltningschef                   Personalchef
 FG HR & Kommunikation                                     Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-0729953381                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Personalchef förvaltning                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3631,7 +3631,7 @@ Datum             Diarienummer
 2024-09-26        ATN-2024-00061
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom  förskola,
@@ -5716,7 +5716,7 @@ igenom och faktagranska materialet/ tjänsteanteckning och även lämna de synpu
 ni eventuellt har till oss.
 
 Skolinspektionen. Telefon: vx 08-586 080 00, www.skolinspektionen.se,
-skolinspektionen@skolinspektionen.se
+(e-post borttagen)
 
 [Tabell 189-1](handlingar.tabeller/189-1.csv)
 
@@ -5765,13 +5765,13 @@ Med vänlig hälsning,
 
 Fredrik Nellemo
 
-fredrik.nellemo@skolinspektionen.se
+(e-post borttagen)
 
 Mer information om våra olika inspektionsformer och tips inför, under och efter
 inspektion hittar du på: Inspektion – steg för steg (skolinspektionen.se)
 
 Skolinspektionen. Telefon: vx 08-586 080 00, www.skolinspektionen.se,
-skolinspektionen@skolinspektionen.se
+(e-post borttagen)
 
 <!-- sida 191 -->
 
@@ -7665,7 +7665,7 @@ Beslut
 
 KUNGSBACKA KOMMUN                                 2024-06-25
 
-kommun@kungsbacka.se                                 1 (23)
+(e-post borttagen)                                 1 (23)
 Dnr- SI 2023:8426
 
 Beslut
@@ -7758,7 +7758,7 @@ Uppföljning
 Huvudmannen ska senast den 10 januari 2025 redovisa till Skolinspektionen vilka
 förbättringsåtgärder som vidtagits utifrån de identifierade utvecklingsområdena.
 
-Redogörelsen skickas via e-post, till dokument.goteborg@skolinspektionen.se, eller
+Redogörelsen skickas via e-post, till (e-post borttagen), eller
 
 per post till, Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr– SI 2023:9267) i de
@@ -8703,7 +8703,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 272-1](handlingar.tabeller/272-1.csv)

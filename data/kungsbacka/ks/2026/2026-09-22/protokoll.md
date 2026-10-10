@@ -1411,7 +1411,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   kommun@kungsbacka.se
+E-post:   (e-post borttagen)
 Hemsida:  www.kungsbacka.se
 
 © twoday

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1996,7 +1996,7 @@ Kungsbacka kommun                                         Kungsbacka kommun
 Anna Hamrin
 Controller                                                    Besöksadress
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -3253,7 +3253,7 @@ för 2024. Ökningen beror på det kraftigt ökade priset för porto.
 Verksamheten skickar mindre post än innan, men den post som skickas är
 
 Postadress: Besöksadress:      Telefon: Fax:     E-post:
-Mölndals Stad Stadshuset, Knarrhögsgatan 5 031-315 18 80 031-315 18 89 Ofs@molndal.se
+Mölndals Stad Stadshuset, Knarrhögsgatan 5 031-315 18 80 031-315 18 89 (e-post borttagen)
 431 82 MÖLNDAL www.molndal.se/overformyndare
 
 <!-- sida 61 -->
@@ -3439,11 +3439,11 @@ Beslutad av:    Kommunfullmäktige xx nnnnnn 2024 § XX, KS 2024-0058 – Försl
 03
 Gäller från:    2024-xx-xx
 Ansvarig förvaltning: Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 66 -->
 
@@ -3612,7 +3612,7 @@ marker, till exempel Eksta och Tjolöholm.
 1 (4)
 Samhällsbyggnadskontoret                                  Kungsbacka kommun
 Mårten Västerdal                                           434 81 Kungsbacka
-marten.vasterdal@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Samhällsplanerare
 Stadshuset, Storgatan 37
@@ -3754,9 +3754,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
