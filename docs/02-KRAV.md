@@ -456,3 +456,36 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** ett `ej-hamtad` från en levande källa
 - **När** arkivets kopia av samma källnyckel inte heller går att hämta
 - **Så** lämnas dokumentets `.md` orörd.
+
+## K17 — Poolens dokument går att läsa på webbplatsen
+
+- **Givet** ett organ i kommunfilen
+- **När** webbplatsen byggs
+- **Så** har organet en sida som listar dess sammanträden per år, med det
+  nyaste först, och varje sammanträdes dokument med typ och kvalitet.
+  Statussidan länkar till organets sida.
+- **Givet** ett sammanträde med en lucka (K7)
+- **När** webbplatsen byggs
+- **Så** står det som saknas vid sammanträdet på organets sida.
+- **Givet** ett dokument i poolen
+- **När** webbplatsen byggs
+- **Så** har det en sida som visar härkomsten ur front matter, med källan
+  som länk och en länk till `.md` i repot, och sedan texten sida för sida.
+- **Givet** en sida i dokumentet
+- **När** dokumentets sida visas
+- **Så** har den en egen rubrik med sin kvalitet, och en sida i
+  `tal_obekraftade` märks i text vid rubriken.
+- **Givet** en säker tabell
+- **När** dokumentets sida visas
+- **Så** står den som tabell med en länk till sin CSV, och CSV:n går att
+  hämta från webbplatsen.
+- **Givet** en osäker tabell
+- **När** dokumentets sida visas
+- **Så** står den med uppställningen kvar, märkt i text som osäker.
+- **Givet** ett dokument som inte gick att hämta (`ej-hamtad`)
+- **När** webbplatsen byggs
+- **Så** har det en sida och en rad på organets sida som visar felet och
+  källan, så att det inte döljs (K6).
+- **Givet** text ur poolen som ser ut som HTML
+- **När** webbplatsen byggs
+- **Så** visas den som text och blir aldrig markup.
