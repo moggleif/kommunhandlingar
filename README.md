@@ -8,8 +8,9 @@ tabeller dessutom till CSV, så att det går att bygga analyser ovanpå.
 Kungsbacka först. Ingenting i koden ska veta vilken kommun det gäller – det
 står i en konfigurationsfil per kommun.
 
-Vad poolen innehåller just nu, och vilka sammanträden som saknar kallelse
-och handlingar eller protokoll, syns på webbplatsen:
+Vad poolen innehåller just nu, vilka sammanträden som saknar kallelse
+och handlingar eller protokoll, och varje dokument med sina tabeller, går
+att läsa på webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 
 ## Hur det fungerar

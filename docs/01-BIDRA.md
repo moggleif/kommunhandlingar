@@ -18,8 +18,9 @@ pip install -e ".[utveckling]"
 ```
 
 `pip install -e .` gör paketet i `src/kommunhandlingar/` importerbart, så
-att testerna når det. `[utveckling]` tar med ruff, pip-audit och
-markdown-it-py, som testerna renderar Markdown med, i de versioner som
+att testerna når det, och drar in markdown-it-py, som webbplatsen och
+testerna renderar Markdown med. `[utveckling]` tar med ruff och
+pip-audit, i de versioner som
 står i `pyproject.toml`, samma som CI installerar; ruffs förhandsregler
 kan ändras mellan versioner. Med
 [uv](https://docs.astral.sh/uv/) går samma ruff att köra utan
@@ -53,7 +54,8 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, ADR-0012):
+webbläsaren (K14, K18, ADR-0012, ADR-0023). Med hela poolen tar det ett
+par minuter:
 
 ```sh
 python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar

@@ -12,6 +12,7 @@ from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
 from kommunhandlingar.webbplats import luckavsnitt, rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
+from kommunhandlingar.webbplats.mall import Mall
 
 FIXTURER = Path(__file__).parent / "fixtures"
 REPO = "https://github.com/exempel/kommunhandlingar"
@@ -23,18 +24,40 @@ organ: {organ}
 datum: {datum}
 lopnr: {lopnr}
 typ: {typ}
-namn: null
+namn: {namn}
+kallnyckel: sitevision:18.abc
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: {url}
+sha256: 3f9a
+bytes: 1000
+sidor: 2
+hamtad: 2026-10-06T13:40:12+00:00
+konverterad: 2026-10-06T13:40:31+00:00
+pipeline: kommunhandlingar 0.4.0
 kvalitet: {kvalitet}
-fel: null
+fel: {fel}
+kvalitet_per_sida: {per_sida}
 tal_obekraftade: {tal}
+figurer: null
+tolkade: null
 ---
 
-# Text
-"""
+{text}"""
+TEXT = "<!-- sida 1 -->\n\nText\n\n<!-- sida 2 -->\n\nMer text\n"
 
 
 def dokument(organ="fsn", datum="2024-05-02", typ="protokoll", **andra) -> str:
-    falt = {"lopnr": "null", "kvalitet": "full", "tal": "[]"} | andra
+    falt = {
+        "lopnr": "null",
+        "namn": "null",
+        "url": "https://exempelby.se/protokoll.pdf",
+        "kvalitet": "full",
+        "fel": "null",
+        "per_sida": "[ok, ok]",
+        "tal": "[]",
+        "text": TEXT,
+    } | andra
     return DOKUMENT.format(organ=organ, datum=datum, typ=typ, **falt)
 
 
@@ -92,7 +115,7 @@ class TestSidor(unittest.TestCase):
     def statussida(self, *texter: str) -> str:
         kommun = exempelby()
         dok = [frontmatter.las(text) for text in texter]
-        mall = sidor.Mall([kommun], REPO, TID)
+        mall = Mall([kommun], REPO, TID)
         return sidor.statussida(mall, kommun, dok)
 
     def test_organ_utan_dokument_star_med(self):
@@ -112,7 +135,7 @@ class TestSidor(unittest.TestCase):
         self.assertEqual(html.count("inget hämtat än"), 4)
 
     def test_meny_sidfot_och_tid_pa_varje_sida(self):
-        mall = sidor.Mall([exempelby()], REPO, TID)
+        mall = Mall([exempelby()], REPO, TID)
         for html in (sidor.startsida(mall), self.statussida()):
             self.assertIn('href="index.html"', html)
             self.assertIn('href="exempelby.html"', html)
