@@ -200,7 +200,7 @@ src/kommunhandlingar/
   datakontroll*.py datakontrollerna av allt under data/ (K11)
   tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
-  webbplats/       statussidorna och startsidan för GitHub Pages
+  webbplats/       startsidan, statussidorna, organens och dokumentens sidor
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
@@ -883,14 +883,18 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 ## Webbplatsen
 
 Hur och varför står i
-[ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md).
+[ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md)
+och, för dokumenten,
+[ADR-0022](decisions/0022-dokumenten-pa-webbplatsen-med-markdown-it-py.md).
 Webbplatsen är statisk HTML som byggs av
 `python -m kommunhandlingar.webbplats <utkatalog> <repoadress>` och
 publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid varje
 push till `main` och för hand. Inget av det som byggs checkas in.
 
-- **Sidorna:** en startsida och en statussida per kommunfil i `kommuner/`,
-  `<kommun>.html`. Varje sida har samma meny – startsidan och kommunerna
+- **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
+  (`<kommun>.html`), en sida per organ i kommunfilen
+  (`<kommun>/<organ>.html`) och en sida per dokument i poolen, på samma
+  sökväg som under `data/` med `.html` i stället för `.md`. Varje sida har samma meny – startsidan och kommunerna
   i bokstavsordning efter id – och en sidfot som länkar till repot och
   säger när sidan byggdes.
 - **Statussidan** räknar ur front matter i varje `.md` under
@@ -906,10 +910,32 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   K7 (`webbplats/luckor.py`). Dokumenttabellen har en kolumn med antalet
   luckor, och under tabellerna står varje organ med luckor: dess källor
   ur kommunfilen och mötenas datum med det som saknas
-  (`webbplats/luckavsnitt.py`).
-- **Statisk och utan beroenden:** bara standardbiblioteket, ingen
-  JavaScript och inga externa resurser. All text går genom
-  `html.escape`. Ingen information bärs av färg.
+  (`webbplats/luckavsnitt.py`). Statussidan länkar varje organ till dess
+  sida.
+- **Organets sida** (K17, `webbplats/organsida.py`) listar sammanträdena
+  per år, nyast först, och vid två samma dag det med högst löpnummer
+  först. Vid varje sammanträde står dess dokument i ordningen ur
+  `kandidat.TYPORDNING`, med kvalitet, `fel` och antal sidor med
+  obekräftade tal, och sedan luckorna (K7) vid sammanträdet.
+- **Dokumentets sida** (K17, `webbplats/dokumentsida.py`) visar
+  härkomsten ur front matter, med källan och `.md` i repot som länkar
+  och sidorna med obekräftade tal som länkar till sidorna. Texten delas
+  vid `<!-- sida N -->` och renderas sida för sida
+  (`webbplats/text.py`), under en rubrik med ankaret `sida-N`, sidans
+  kvalitet ur `kvalitet_per_sida` och, för en sida i `tal_obekraftade`,
+  meningen "Talen på sidan är obekräftade." Ett kodblock
+  `osaker-tabell` får en rad före som säger att tabellen är osäker.
+  Styckena visas med `white-space: pre-wrap`, så att raderna ur PDF:en
+  står kvar. Ett dokument utan sidor, som `ej-hamtad`, får meningen
+  "Dokumentet har ingen text."
+- **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
+  att länkarna i texten till CSV:erna fungerar.
+- **Statisk:** ingen JavaScript och inga externa resurser. Texten i
+  dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
+  och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
+  blir markup. All annan text går genom `html.escape`, och bara källor
+  som börjar med `http://` eller `https://` blir länkar. Ingen
+  information bärs av färg.
 - **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas
   (se [Körning och incheckning](#körning-och-incheckning)).
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
