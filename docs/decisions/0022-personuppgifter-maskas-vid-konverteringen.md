@@ -62,7 +62,7 @@ att pröva mot hela poolen. Reglerna står i
 * **Vad inte:** namn, fasta telefonnummer, postnummer och ort,
   organisationsnummer och fastighetsbeteckningar.
 * **Poolen** maskas en gång med samma regel utan att PDF:erna hämtas
-  (`python -m kommunhandlingar.maskning data`). `pipeline` rörs inte, så
+  (`python -m kommunhandlingar.maska_poolen data`). `pipeline` rörs inte, så
   omkonverteringen ([ADR-0019](0019-omkonvertering-efter-poolens-version.md))
   ser fortfarande vilka dokument som lästs av en äldre version.
   Maskningen tål att köras flera gånger, så samma kommando används för en

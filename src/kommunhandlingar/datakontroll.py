@@ -1,10 +1,11 @@
-"""Krav: K11 och K15 i docs/02-KRAV.md, ADR-0006 och ADR-0017.
+"""Krav: K11, K15 och K17 i docs/02-KRAV.md, ADR-0006, ADR-0017 och ADR-0022.
 Test: tests/test_datakontroll.py.
 
 `python -m kommunhandlingar.datakontroll <data>` prövar varje fil under
 `data/` mot schemat i docs/03-ARKITEKTUR.md: front matter, sökvägen,
-tabellkatalogerna och att inga temporära filer finns kvar. Varje fel
-skrivs ut, och kommandot avslutas med fel om något hittades.
+tabellkatalogerna, att inga temporära filer finns kvar och att inga
+personuppgifter står omaskade. Varje fel skrivs ut, och kommandot avslutas
+med fel om något hittades.
 """
 
 import re
@@ -15,6 +16,7 @@ from kommunhandlingar import datakontroll_tolkning, frontmatter
 from kommunhandlingar.datakontroll_tabeller import tabellfel
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
+from kommunhandlingar.maska_poolen import maskad_fil
 
 ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
 ALLTID += ("tidigare_kallnycklar", "hamtad", "pipeline", "kvalitet")
@@ -34,10 +36,17 @@ def fel_i(data: Path) -> list[str]:
 
 def filfel(data: Path, fil: Path) -> list[str]:
     if fil.suffix == ".md" and fil.parent != data:
-        return dokumentfel(fil.relative_to(data), fil.read_text(encoding="utf-8"))
+        text = fil.read_text(encoding="utf-8")
+        return dokumentfel(fil.relative_to(data), text) + personuppgiftsfel(fil)
     if fil.parent.suffix == ".tabeller":
-        return tabellfel(fil)
+        return tabellfel(fil) or personuppgiftsfel(fil)
     return ["oväntad fil, till exempel kvar efter en avbruten körning"]
+
+
+def personuppgiftsfel(fil: Path) -> list[str]:
+    if maskad_fil(fil) is None:
+        return []
+    return ["personuppgifter som ska maskas (python -m kommunhandlingar.maska_poolen)"]
 
 
 def dokumentfel(relativ: Path, text: str) -> list[str]:

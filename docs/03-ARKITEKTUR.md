@@ -784,7 +784,7 @@ parentes; resten av raden står kvar.
 - **Escapad text.** Mönstren tål `\` före `_` i en e-postadress och `<br>`
   mellan gatuadress och postnummer i en tabellcell, så att samma regel
   gäller text som redan escapats (ADR-0021).
-- **Poolen** maskas med `python -m kommunhandlingar.maskning data`, som
+- **Poolen** maskas med `python -m kommunhandlingar.maska_poolen data`, som
   skriver om varje `.md` och CSV där något maskas, utan att hämta PDF:en.
   `pipeline` rörs inte. En andra körning ändrar ingenting.
 - **Datakontrollen** faller på en fil där maskningen skulle ändra något.

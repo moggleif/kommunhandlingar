@@ -1,17 +1,19 @@
-"""Krav: K5, K6 och K15 i docs/02-KRAV.md, ADR-0005, ADR-0016 och ADR-0017.
-Test: tests/test_konvertering.py.
+"""Krav: K5, K6, K15 och K17 i docs/02-KRAV.md, ADR-0005, ADR-0016,
+ADR-0017 och ADR-0022. Test: tests/test_konvertering.py, tests/test_maskning.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
-tom prövas för figurer.
+tom prövas för figurer. Personuppgifterna maskas i text och celler innan
+sidan lämnas vidare.
 """
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering.personuppgifter import maska
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 
@@ -32,8 +34,13 @@ def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
         case "tom":
             return Sida("tom", False)
         case "ocr":
-            return ocr_sida(rendering, figurer.har_figur(sida, []))
-    return textsida(sida)
+            return maskad(ocr_sida(rendering, figurer.har_figur(sida, [])))
+    return maskad(textsida(sida))
+
+
+def maskad(sida: Sida) -> Sida:
+    tabeller_ = [[[maska(c) for c in rad] for rad in t] for t in sida.tabeller]
+    return replace(sida, text=maska(sida.text), tabeller=tabeller_)
 
 
 def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
