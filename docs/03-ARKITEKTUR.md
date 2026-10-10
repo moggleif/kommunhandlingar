@@ -593,7 +593,8 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   utanför tabellerna med linjer, enligt
   [Tabeller utan lodräta linjer](#tabeller-utan-lodräta-linjer).
 - Båda sorterna skrivs som CSV enligt [Tabeller](#tabeller), numrerade
-  tillsammans efter läget på sidan.
+  tillsammans efter läget på sidan, och slås ihop med fortsättningen på
+  nästa sida enligt [Tabeller över flera sidor](#tabeller-över-flera-sidor).
 - **En osäker tabell** är minst tre talrader på sidan, var som helst
   utanför de säkra tabellerna. Raderna tas ur sidans text med bevarad
   uppställning, och fält skiljs åt av två eller fler mellanslag. En
