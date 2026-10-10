@@ -487,4 +487,3 @@ Vilka mönster som räknas står i
   maskats
 - **När** datakontrollen körs (K11)
 - **Så** faller den och anger filen, så att uppgiften inte når `main`.
-
