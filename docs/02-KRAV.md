@@ -520,3 +520,33 @@ Vilka mönster som räknas står i
 - **Givet** text ur poolen som ser ut som HTML
 - **När** webbplatsen byggs
 - **Så** visas den som text och blir aldrig markup.
+
+## K19 — En tabell som fortsätter på nästa sida blir en tabell
+
+Issue: [#62](https://github.com/moggleif/kommunhandlingar/issues/62).
+Vad som räknas som en fortsättning står i
+[Tabeller över flera sidor](03-ARKITEKTUR.md#tabeller-över-flera-sidor).
+
+- **Givet** en säker tabell sist på en sida som fortsätter först på nästa
+  sida, med samma kolumner och bara sidhuvud, sidfot eller sidnummer
+  emellan
+- **När** dokumentet konverteras
+- **Så** blir delarna en CSV, vars namn anger första och sista sidan, och
+  tabellen står en gång i Markdown-texten, efter första sidans text.
+- **Givet** en fortsättning vars första rad är exakt lika med tabellens
+  första rad
+- **När** delarna slås ihop
+- **Så** står raden bara en gång, överst.
+- **Givet** en rad som brutits vid sidslutet, så att en del står på
+  vardera sidan
+- **När** delarna slås ihop
+- **Så** står delarna kvar som två rader; inga celler slås ihop.
+- **Givet** två tabeller på varsin sida med löptext, en rubrik eller en
+  fotnot emellan, med olika antal kolumner eller olika bredd, eller där
+  någon av sidorna är lästa med OCR
+- **När** dokumentet konverteras
+- **Så** förblir de två tabeller, som förut.
+- **Givet** en tabell som slagits ihop
+- **När** datakontrollen körs (K11)
+- **Så** prövas att varje sida i spannet finns och är läst ur textlagret,
+  och att ingen annan tabell börjar inne i spannet.

@@ -207,7 +207,7 @@ src/kommunhandlingar/
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
-data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.tolkad.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
@@ -500,6 +500,7 @@ källnyckeln och försöket
 Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
 dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md),
 för tabellerna i [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md)
+och [ADR-0024](decisions/0024-tabeller-over-flera-sidor-slas-ihop.md)
 och för figurerna i [ADR-0017](decisions/0017-figurer-marks-och-tolkas-i-efterhand.md).
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
@@ -717,6 +718,30 @@ raden saknar värde. En rubrikrad har sin etikett i första cellen.
 Cellerna är fältens ord med ett mellanslag emellan, som de står i
 textlagret; inget tal görs om.
 
+### Tabeller över flera sidor
+
+Varför står i
+[ADR-0024](decisions/0024-tabeller-over-flera-sidor-slas-ihop.md). En
+säker tabell, med eller utan lodräta linjer, som är den sista på en sida
+fortsätter i den första säkra tabellen på nästa sida när allt detta
+gäller:
+
+1. **Textlagret:** båda sidorna är lästa ur textlagret.
+2. **Kolumnerna:** båda har lika många kolumner, och deras vänster- och
+   högerkant skiljer sig högst 3 punkter.
+3. **Ingenting emellan:** varje textrad under tabellen på den första
+   sidan och ovanför tabellen på den andra är sidhuvud, sidfot eller
+   sidnummer. En sådan rad har ingen bokstav (`8`, `2 (4)`), eller står
+   också på grannsidan när siffrorna inte räknas (`KUNGSBACKA KOMMUN
+   3(4)` och `KUNGSBACKA KOMMUN 2(4)`).
+
+Tabellerna slås ihop sida för sida, så att en tabell kan gå över många
+sidor. Fortsättningens första rad tas bort när den är exakt lika med
+tabellens första rad, en upprepad rubrik. Inga celler slås ihop: en rad
+som brutits vid sidslutet står kvar som två rader. Maskningen av
+personuppgifter görs på varje sida innan tabellerna slås ihop, och
+sammanslagningen ändrar ingen cell.
+
 ### Markdown-texten
 
 Hur och varför står i
@@ -751,7 +776,8 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
 - **En säker tabell**, med eller utan lodräta linjer, står inte i sidans
   text. Den står efter texten, i
   sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
-  följd av tabellen i Markdown. Där är första raden tabellhuvud, eftersom
+  följd av tabellen i Markdown. En tabell över flera sidor står efter
+  första sidans text (`[Tabell 9-12-1](<namn>.tabeller/9-12-1.csv)`). Där är första raden tabellhuvud, eftersom
   Markdown kräver ett. Cellerna escapas som texten utom i radens början;
   `|` skrivs `\|` och en radbrytning `<br>`.
 - **En sida utan text** (`tom`, `ej-konverterad`) har bara sin kommentar.
@@ -836,7 +862,11 @@ tabeller har ingen tabellkatalog.
 - **Filnamnet** är `<sida>-<nr>.csv`, utan inledande nollor: sidnumret
   från 1, och tabellens nummer på sidan från 1, uppifrån och ned och vid
   samma höjd från vänster till höger. `3-2.csv` är den andra tabellen på
-  sidan 3. En tabell som tolkats ur ett diagram heter
+  sidan 3. En tabell som fortsätter på följande sidor
+  ([Tabeller över flera sidor](#tabeller-över-flera-sidor)) heter
+  `<sida>-<sista sida>-<nr>.csv`, där sidan och numret är där tabellen
+  börjar: `9-12-1.csv` börjar som första tabell på sidan 9 och slutar på
+  sidan 12. Numren på en sida räknar bara de tabeller som börjar där. En tabell som tolkats ur ett diagram heter
   `<sida>-<nr>.tolkad.csv` och numreras för sig
   ([Tolkade figurer](#tolkade-figurer)).
 - **Härkomsten** är front matter i tabellkatalogens `.md`. Tabellerna
@@ -852,7 +882,8 @@ tabeller har ingen tabellkatalog.
   första rad och tolkas inte som rubrik.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
-  eller `tabell-osaker`. För en tolkad CSV prövar den i stället att
+  eller `tabell-osaker`. För en tabell över flera sidor gäller det varje
+  sida i spannet, och ingen annan tabell får börja inne i spannet. För en tolkad CSV prövar den i stället att
   sidan står i `tolkade` och att talen står i sidans text
   ([Tolkade figurer](#tolkade-figurer)).
 
