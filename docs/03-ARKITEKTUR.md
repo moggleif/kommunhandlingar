@@ -774,7 +774,7 @@ parentes; resten av raden står kvar.
 | Uppgift      | Känns igen som                                                       | Markör                       |
 | ------------ | -------------------------------------------------------------------- | ---------------------------- |
 | Personnummer | `ÅÅMMDD-NNNN`, `ÅÅMMDD+NNNN`, `ÅÅÅÅMMDD-NNNN` eller `ÅÅÅÅMMDDNNNN` med århundradet 19 eller 20, där månaden och dagen finns (dag 61–91 för samordningsnummer) och kontrollsiffran stämmer | `(personnummer borttaget)` |
-| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av tal, också direkt efter `.` eller `,` | `(mobilnummer borttaget)` |
+| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av korta talgrupper, också direkt efter `.` eller `,` och bredvid ett annat nummer | `(mobilnummer borttaget)` |
 | E-postadress | något`@`domän`.`toppdomän                                              | `(e-post borttagen)`         |
 | Gatuadress   | ett gatunamn som slutar på väg, gata, gränd, stig, backe, torg, allé, led, lid eller plats (i grundform eller bestämd form, också som eget ord: `Exempels väg`), med nummer och ibland lägenhetsnummer, följt av postnummer och ort på samma eller nästa rad | `(adress borttagen)`         |
 
@@ -782,7 +782,9 @@ parentes; resten av raden står kvar.
   med tio siffror känns inte igen, eftersom samma form finns bland
   beloppen; ett mobilnummer omgivet av fler talgrupper är en del av en
   tabell, inte ett nummer.
-- **Postnummer och ort** står kvar efter en maskad gatuadress.
+- **Postnummer och ort** står kvar efter en maskad gatuadress. Ett ord
+  med samma efterled följt av tal som liknar gatunummer och postnummer
+  (`Parkeringsplats 2 345 67 Totalt`) maskas också.
 - **Namn och fasta telefonnummer** maskas inte.
 - **Escapad text.** Mönstren tål `\` före `_` i en e-postadress och `<br>`
   mellan gatuadress och postnummer i en tabellcell, så att samma regel

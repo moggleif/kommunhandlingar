@@ -67,14 +67,18 @@ class Mobilnummer(unittest.TestCase):
         self.assertEqual(maska("Tel.0701234567"), f"Tel.{MOBIL}")
         self.assertEqual(maska("Sökanden,070-123 45 67"), f"Sökanden,{MOBIL}")
 
+    def test_tva_nummer_bredvid_varandra(self):
+        self.assertEqual(maska("0701234567 0707654321"), f"{MOBIL} {MOBIL}")
+
     def test_fasta_nummer_star_kvar(self):
         for text in ("0300-83 40 00", "031-335 50 00", "020-81 91 00"):
             with self.subTest(text):
                 self.assertEqual(maska(text), text)
 
     def test_talgrupper_i_en_tabell_star_kvar(self):
-        rad = "3 668 072 271 3 591 291 691"
-        self.assertEqual(maska(rad), rad)
+        for rad in ("3 668 072 271 3 591 291 691", "lägenheter 1407 072 1214 865"):
+            with self.subTest(rad):
+                self.assertEqual(maska(rad), rad)
 
 
 class Epost(unittest.TestCase):
@@ -85,7 +89,7 @@ class Epost(unittest.TestCase):
         )
 
     def test_escapad_som_markdown(self):
-        self.assertEqual(maska(r"\<anna\_b@exempel.se>"), rf"\<{EPOST}>")
+        self.assertEqual(maska(r"\<sokanden\_b@exempel.se>"), rf"\<{EPOST}>")
 
 
 class Gatuadress(unittest.TestCase):

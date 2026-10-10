@@ -556,7 +556,7 @@ Adress Postnummer Postadress
 Lilla (adress borttagen) 42931 Kullavik
 Telefonnummer, inklusive riktnummer Mobiltelefon
 
-0708921292 0702006026
+(mobilnummer borttaget) (mobilnummer borttaget)
 
 E-postadress
 maja.keszei(Mmontenova.se

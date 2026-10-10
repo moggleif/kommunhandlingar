@@ -14,10 +14,11 @@ import re
 PERSONNUMMER = re.compile(
     r"(?<![\w-])(?:(?:19|20)(\d{6})-?|(\d{6})[-+])(\d{4})(?![\w-])"
 )
-# Inte mitt i en följd av talgrupper, som i en tabell med belopp.
+# Inte mitt i en följd av korta talgrupper, som i en tabell med belopp; ett
+# annat nummer bredvid hindrar inte.
 MOBILNUMMER = re.compile(
-    r"(?<![\w+-])(?<!\d[,.])(?<!\d )(?:\+46 ?|0)7[02369](?:[- ]?\d){7}"
-    r"(?![\w-])(?! \d)"
+    r"(?<![\w+-])(?<!\d[,.])(?<!\b\d )(?<!\b\d\d )(?<!\b\d{3} )(?<!\b\d{4} )"
+    r"(?:\+46 ?|0)7[02369](?:[- ]?\d){7}(?![\w-])(?! \d{1,4}\b)"
 )
 EPOST = re.compile(r"(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
 # Efterleden är en fast lista, så att "platser" eller "vägar" följt av tal

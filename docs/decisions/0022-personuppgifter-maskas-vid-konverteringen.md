@@ -95,7 +95,7 @@ att pröva mot hela poolen. Reglerna står i
 
 ### Confirmation
 
-* `tests/test_maskning.py` och `tests/test_maska_poolen.py` prövar varje mönster med påhittade exempel där
+* `tests/test_maskning.py` prövar varje mönster med påhittade exempel där
   facit går att räkna för hand: giltiga och ogiltiga personnummer, belopp,
   diarienummer, datumintervall och organisationsnummer som ska stå kvar,
   mobilnummer mitt i en talrad, escapad e-post och adresser i en
@@ -175,10 +175,13 @@ att pröva mot hela poolen. Reglerna står i
    omskriven CSV med originalet och därför larmade på en giltig CSV i en
    annan form, att påhittade förnamn stod i testerna, att gatumönstret
    kunde ta ett tal i en tabellrad, att mobilnummer direkt efter punkt
-   eller kommatecken missades, och att datakontrollen drog in hela
-   konverteringen. Allt rättades i samma pull request: cellerna jämförs,
-   testerna använder roller, gatunamnets efterled är en fast lista, och regeln ligger i en
-   egen modul. Poolen maskades om från `main` med de rättade mönstren,
-   med samma resultat.
+   eller kommatecken eller bredvid ett annat nummer missades, och att
+   datakontrollen drog in hela konverteringen. Allt utom ett rättades i
+   samma pull request: cellerna jämförs, testerna använder roller,
+   gatunamnets efterled är en fast lista, och regeln ligger i en egen
+   modul. Kvar står att en rad som `Parkeringsplats 2 345 67 Totalt` läses
+   som en adress. Att kräva ett kommatecken före postnumret tog bort det,
+   men lämnade åtta riktiga adresser i poolen omaskade; en sådan tabellrad
+   fanns inte. Poolen maskades om från `main` med de rättade mönstren.
 9. **Omprövas** när poolen paketeras för AI (#56), om namn eller fler
    slags uppgifter behöver bort.
