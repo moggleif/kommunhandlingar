@@ -54,7 +54,7 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, K17, ADR-0012, ADR-0023). Med hela poolen tar det ett
+webbläsaren (K14, K18, ADR-0012, ADR-0023). Med hela poolen tar det ett
 par minuter:
 
 ```sh

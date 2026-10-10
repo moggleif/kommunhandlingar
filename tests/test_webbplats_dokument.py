@@ -1,4 +1,4 @@
-"""Krav: K17 i docs/02-KRAV.md, ADR-0023. Kod: src/kommunhandlingar/webbplats/."""
+"""Krav: K18 i docs/02-KRAV.md, ADR-0023. Kod: src/kommunhandlingar/webbplats/."""
 
 import shutil
 import tempfile

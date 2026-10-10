@@ -1,4 +1,4 @@
-"""Krav: K17 i docs/02-KRAV.md, ADR-0021 och ADR-0023.
+"""Krav: K18 i docs/02-KRAV.md, ADR-0021 och ADR-0023.
 Test: tests/test_webbplats_dokument.py.
 """
 

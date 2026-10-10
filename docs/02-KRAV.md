@@ -457,7 +457,7 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** arkivets kopia av samma källnyckel inte heller går att hämta
 - **Så** lämnas dokumentets `.md` orörd.
 
-## K17 — Poolens dokument går att läsa på webbplatsen
+## K18 — Poolens dokument går att läsa på webbplatsen
 
 - **Givet** ett organ i kommunfilen
 - **När** webbplatsen byggs

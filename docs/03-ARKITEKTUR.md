@@ -913,14 +913,14 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   ur kommunfilen och mötenas datum med det som saknas
   (`webbplats/luckavsnitt.py`). Statussidan länkar varje organ till dess
   sida.
-- **Organets sida** (K17, `webbplats/organsida.py`) listar sammanträdena
+- **Organets sida** (K18, `webbplats/organsida.py`) listar sammanträdena
   per år, nyast först, och vid två samma dag det med högst löpnummer
   först. Vid varje sammanträde står dess dokument i ordningen ur
   `kandidat.TYPORDNING`, det utan namn före de namngivna, med kvalitet
   och antal sidor med obekräftade tal, och för ett dokument med `fel`
   felet och en länk till källan. Sist står luckorna (K7) vid
   sammanträdet.
-- **Dokumentets sida** (K17, `webbplats/dokumentsida.py`) visar hela
+- **Dokumentets sida** (K18, `webbplats/dokumentsida.py`) visar hela
   front matter med fältens namn, i schemats ordning, med källan och
   `.md` i repot som länkar och sidorna i `tal_obekraftade` som länkar
   till sidorna. Texten delas

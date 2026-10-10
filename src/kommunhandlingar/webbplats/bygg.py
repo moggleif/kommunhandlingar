@@ -1,4 +1,4 @@
-"""Krav: K14 och K17 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
+"""Krav: K14 och K18 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
 tests/test_webbplats_dokument.py.
 """
 
