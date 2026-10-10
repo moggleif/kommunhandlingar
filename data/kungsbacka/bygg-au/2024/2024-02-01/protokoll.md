@@ -325,16 +325,16 @@ Sammanfattning av ärendet
 Bygg- och miljöförvaltningen har upprättat årsredovisning för 2023. I
 årsredovisningen ingår årlig uppföljning av det systematiska arbetsmiljöarbetet samt
 hållbarhetsbokslut. I sin helhet innehåller årsredovisningen:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat oss
 
-* Uppföljning av mål och direktiv
-* Uppföljning av verksamhetsmått
+\* Uppföljning av mål och direktiv
+\* Uppföljning av verksamhetsmått
 
-* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
+\* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
 
-* Uppföljning av ekonomi
-* Hållbarhetsbokslut
+\* Uppföljning av ekonomi
+\* Hållbarhetsbokslut
 
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023, +1,9
 miljoner kronor.
@@ -382,12 +382,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023 på
 1 870 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
+\* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
 
 kronor ombudgeteras till 2024.
-* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2024-01-24
@@ -554,7 +554,7 @@ planområdet samt digitalisera gällande detaljplan. Syftet med detaljplaneändr
 ansvar. Planområdet ligger i Fjärås station, i närheten av västkustbanan och E6:an.
 Fastigheter inom planområdet ägs i huvudsak av Kungsbacka kommun.
 Planförslaget har varit utställt för granskning under tiden 9 november – 1 december
-2023. Under granskningstiden inkom sju skrivelser. Inkomna synpunkter berör i
+2023\. Under granskningstiden inkom sju skrivelser. Inkomna synpunkter berör i
 huvudsak mindre justeringar. Se vidare i granskningsutlåtandet.
 
 Samtliga
@@ -606,7 +606,7 @@ godkänts den 27 mars 2018. I planprogrammet redovisas att fastigheten Särö 1:
 kan styckas av för att möjliggöra 1-2 fastigheter för bostadsändamål.
 
 Planförslaget har varit utställt för granskning under tiden 26 oktober – 17 november
-2023. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2023\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak påverkan på Särö utsiktsväg, påverkan vid genomförande samt påverkan
 på intilliggande hotellverksamhet. Se vidare i granskningsutlåtandet.
 Planområdet ligger på Särön intill Säröhus och är i dagsläget planlagd för
@@ -1437,7 +1437,7 @@ Datum
 KYVIK 10:1 - Förhandsbesked för nybyggnad av ett enbostadshus
 
 Ärendet utgår vid byggnadsnämndens arbetsutskott sammanträde den 1 februari
-2024.
+2024\.
 
 Expedierat/bestyrkt
 
@@ -1672,10 +1672,10 @@ avsedda platsen.
 
 9 kap 31 § Bygglov ska ges för en åtgärd utanför ett område med detaljplan, om
 åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2550,7 +2550,7 @@ som ej får bebyggas.
 Avvikelse från detaljplan
 
 Ansökan avviker från gällande detaljplan då
--  del av komplementbyggnaden, närmare bestämt 42,2 m2 motsvarande 89
+\-  del av komplementbyggnaden, närmare bestämt 42,2 m2 motsvarande 89
 procent av byggnadsarean, är placerad på mark som enligt detaljplan inte får
 bebyggas.
 
@@ -2983,7 +2983,7 @@ Genomförandetiden är 15 år och slutar 2029-07-04.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--        plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
+\-        plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
 användningen gym på en bruttoarea om 1 264 kvm. Avvikelsen utgör 27 % av den
 totala bruttoarean.
 
@@ -3529,7 +3529,7 @@ Sammanfattning av ärendet
 Ansökan registrerades 2023-02-06 och kompletterades 2023-04-12. Beslut om
 förlängd handläggningstid togs 2023-06-20. Nytt förslag inkom 2023-08-29 inom
 den förlängda handläggningstiden. Nytt komplett förslag inkom återigen 2023-10-
-16. Byggnadsnämndens arbetsutskott beslutade 2023-10-26 att fortsätta
+16\. Byggnadsnämndens arbetsutskott beslutade 2023-10-26 att fortsätta
 handläggningen med att höra grannar och skicka remisser. Trafikverket meddelade
 2023-11-13 att bullerutredning krävs, varpå det meddelades sökande. Trafikverket
 har 2023-12-15 ändrat sitt yttrande på sätt att de inte längre anser att det behövs en
@@ -3587,10 +3587,10 @@ Lagstiftning
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3,
 6, 7, 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har
 
 prövats i områdesbestämmelser. Lag (2014:900).
@@ -4294,7 +4294,7 @@ avvikelsen är liten.
 
 Föreslagen åtgärd avviker från detaljplanens bestämmelser beträffande att det finns
 en komplementbyggnad på fastigheten som beviljades 1990-05-29, Tjm § 6272 &
-6302. Denna komplementbyggnad utgör en avvikelse mot detaljplanen då den har en
+6302\. Denna komplementbyggnad utgör en avvikelse mot detaljplanen då den har en
 byggnadsarea om 53 m2. Detaljplanen tillåter enbart att komplementbyggnad i form
 av garage eller förråd uppförs och sådan byggnad får ha en byggnadsarea om max 50
 m2. Vidare anger detaljplanen att endast en huvudbyggnad och ett
@@ -4485,20 +4485,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften,
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen,
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området,
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området,
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området, eller
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Sökande har i ansökan angett som särskilt skäl till varför en dispens ska ges att
 området behöver tas i anspråk för att utvidga en pågående verksamhet som inte kan
 utvidgas utanför området.
@@ -4724,7 +4724,7 @@ strandskyddsdispens får enligt 16 kap. 2 § miljöbalken förenas med villkor.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
 Expedierat/bestyrkt
@@ -4736,18 +4736,18 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-02-01
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett

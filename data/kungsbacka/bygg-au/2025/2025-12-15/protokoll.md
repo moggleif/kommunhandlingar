@@ -394,7 +394,7 @@ Byggnadsnämnden beslutade den 15 maj 2025, med stöd av delegering, att
 genomföra granskning.
 
 Planförslaget har varit utställt för granskning under tiden 20 maj 2025 till den 10 juni
-2025. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
+2025\. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
 berör i huvudsak höjd och placering på föreslagen bebyggelse, anslutningar till
 området, påverkan på djur och natur, hantering av geoteknik, dagvatten och skyfall.
 För mer information om synpunkternas innehåll, se vidare i granskningsutlåtandet.
@@ -948,10 +948,10 @@ Datum
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2415,7 +2415,7 @@ oro över den planerade etableringen av ett HVB-hem på denna fastighet. Fastigh
 användningen är under behandling. Vi vill formellt motsätta oss denna ändring och
 den planerade verksamheten i sin helhet.
 
-1. Felaktig användning av jordbruksfastighet
+1\. Felaktig användning av jordbruksfastighet
 
 Bräcke gård är enligt lantmäteriets uppgifter klassad som jordbruksfastighet. Den har
 nu förvärvats via Kronofogden av ett bolag kopplat till en pizzeria, vilket väcker
@@ -2423,7 +2423,7 @@ frågor om ändamålet med köpet och om det är förenligt med regelverk kring
 jordbruksegendomar att inrätta ett HVB-hem på sådan mark. En ändring av
 klassificering från jordbruk till annan användning kräver särskild prövning, vilket vi
 motsätter oss.
-2. Avsaknad av stall och faciliteter för djurhållning
+2\. Avsaknad av stall och faciliteter för djurhållning
 
 Enligt uppgifter i planeringen ska verksamheten omfatta hållning av 23 ponnyer och
 getter. Vi vill tydligt påpeka att det idag inte finns något stall eller annan lämplig
@@ -2443,7 +2443,7 @@ Datum
 
 ombyggnationer, vilket inte är redovisat i ansökan. Detta gör planen både orealistisk
 och potentiellt olaglig.
-3. Trafiksäkerhet på grusvägen
+3\. Trafiksäkerhet på grusvägen
 
 Den grusväg som leder till Bräcke gård är smal och saknar vägbelysning. Vi vill
 särskilt påpeka att en del av vägen är privatägd av oss, vilket innebär att en ökad
@@ -2452,7 +2452,7 @@ anpassad för högre trafikvolymer, utryckningsfordon eller regelbundna transpor
 till och från ett HVB-hem. Det medför en ökad olycksrisk och skapar oro bland oss
 som bor längs vägen, särskilt med tanke på barn, husdjur och lantbruksmaskiner.
 
-4. Risker med ytterligare HVB-hem i området
+4\. Risker med ytterligare HVB-hem i området
 Inom cirka 12 km från Bräcke gård finns redan ett HVB-hem, där det vid flera
 tillfällen förekommit allvarliga incidenter. Vid åtminstone två tillfällen har polis och
 
@@ -2460,7 +2460,7 @@ räddningstjänst larmats då en ung man försökt ta sitt liv genom att hoppa f
 viadukten. Den typen av händelser skapar stor otrygghet i närområdet. Det är
 olämpligt att placera ytterligare ett HVB-hem i så nära anslutning, särskilt när det
 redan finns tecken på överbelastning och bristande trygghet i området.
-5. Risk för värdeminskning av närliggande fastigheter
+5\. Risk för värdeminskning av närliggande fastigheter
 
 En HVB-verksamhet på Bräcke gård innebär även en påtaglig risk för
 värdeminskning av de angränsande fastigheterna. Vi är flera fastighetsägare i direkt
@@ -2478,17 +2478,17 @@ uttrycka att vi inte hade flyttat hit om vi känt till att ett HVB-hem skulle et
 som närmaste granne.
 
 Sammanfattning av våra invändningar
-- Bräcke gård är en jordbruksfastighet, och vi motsätter oss en ändring av
+\- Bräcke gård är en jordbruksfastighet, och vi motsätter oss en ändring av
 klassificeringen.
 
-- Det finns ingen infrastruktur för den planerade djurhållningen, vilket gör planen
+\- Det finns ingen infrastruktur för den planerade djurhållningen, vilket gör planen
 orimlig och i strid med djurskyddsregler.
-- Den ökade trafiken på vår grusväg innebär risker för boende och djur.
+\- Den ökade trafiken på vår grusväg innebär risker för boende och djur.
 
-- Det finns redan problem kopplade till befintligt HVB-hem i närheten, och
+\- Det finns redan problem kopplade till befintligt HVB-hem i närheten, och
 ytterligare ett skulle öka otryggheten.
 
-- Verksamheten riskerar att leda till värdeminskning av våra fastigheter och bryter
+\- Verksamheten riskerar att leda till värdeminskning av våra fastigheter och bryter
 mot det lugn och trygghet vi sökte när vi bosatte oss här.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 44A8AAD68937FC74F3BCE04DF376510DFCBF0A3045
@@ -3317,9 +3317,9 @@ Rivningslov för komplementbyggnaden
 Enligt plan- och bygglagen 9 kap 34 § (PBL, SFS 2010:900) ska rivningslov ges för
 en åtgärd som avser en byggnad eller byggnadsdel som inte
 
-1. omfattas av rivningsförbud i detaljplan eller områdesbestämmelser, eller
+1\. omfattas av rivningsförbud i detaljplan eller områdesbestämmelser, eller
 
-2. bör bevaras på grund av byggnadens eller bebyggelsens historiska,
+2\. bör bevaras på grund av byggnadens eller bebyggelsens historiska,
 kulturhistoriska, miljömässiga eller konstnärliga värde.
 Byggnaden som ska rivas bedöms inte ha kulturhistoriskt värde och rivningen strider
 inte mot detaljplan. Rivningslov ska därför beviljas.
@@ -3894,27 +3894,27 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-12-15
 
-1. Åtgärderna ska i huvudsak utföras i enlighet med ansökan och bifogade kartor, se
+1\. Åtgärderna ska i huvudsak utföras i enlighet med ansökan och bifogade kartor, se
 bilaga 2-4.
-2. Åtgärderna ska utföras på sådant sätt att skador på omkringliggande mark- och
+2\. Åtgärderna ska utföras på sådant sätt att skador på omkringliggande mark- och
 vattenområden samt växt- och djurlivet minimeras.
 
-3. Eventuella massor som tillförs området ska vara fria från föroreningar samt fröer
+3\. Eventuella massor som tillförs området ska vara fria från föroreningar samt fröer
 och växtdelar.
 
-4. Eventuella överskottsmassor eller stenar får inte läggas upp inom reservatet utan
+4\. Eventuella överskottsmassor eller stenar får inte läggas upp inom reservatet utan
 ska fraktas bort efter avslutat arbete. 5. Eventuella skador som uppstår på
 intilliggande mark eller vegetation ska återställas efter samråd med Länsstyrelsen
 och markägaren. Beslut Datum 2024-03- 13 Diarienummer 4609-2023 Dnr BN
 2024-000117 – Ankom 2024-03-13 Länsstyrelsen Hallands län Beslut 2024-03-13 2
 (10) 4609-2023
 
-6. Om det uppstår tveksamheter om villkoren i samband med åtgärdens utförande ska
+6\. Om det uppstår tveksamheter om villkoren i samband med åtgärdens utförande ska
 Länsstyrelsen kontaktas.
-7. Den som utför åtgärderna, om annan än sökanden, ska informeras om detta beslut
+7\. Den som utför åtgärderna, om annan än sökanden, ska informeras om detta beslut
 och meddelade villkor. Detta beslut ska medföras när dispensen nyttjas.
 
-8. Sökanden ska skriftligen underrätta Länsstyrelsen senast en månad efter att
+8\. Sökanden ska skriftligen underrätta Länsstyrelsen senast en månad efter att
 åtgärderna har slutförts. Ange diarienummer 4609-2023.
 
 Kommunicering

@@ -1814,7 +1814,7 @@ Magdalena Sundqvist (S) yrkar i första hand att ärendet ska återremitteras s�
 nya riktlinjerna och reglerna för förmåner för förtroendevalda når upp till följande
 kriterier:
 
-1. Att fastställa principen att kommunalrådens arvode ska utgå ifrån
+1\. Att fastställa principen att kommunalrådens arvode ska utgå ifrån
 riksdagsledamöternas nivå, för att säkerställa en rimlig, oberoende och rättvis
 arvodering. Till exempel har Kommunstyrelsens ordförande i Halmstad
 110 % av ett riksdagsledamotsarvode och andra kommunalråd 100 %.
@@ -1834,18 +1834,18 @@ Datum
 
 förtroendevalda som har arvodering och förmåner. Förslaget innebär en
 sänkning av dagens nivå.
-2. Att ersättningar till ordföranden och vice ordföranden i nämnder samt övriga
+2\. Att ersättningar till ordföranden och vice ordföranden i nämnder samt övriga
 ledamöter och ersättares arvode utgår från kommunalrådens arvode.
 (Lämna förslag till Kommunfullmäktige om en ny arvodesmodell baserad på
 
 denna princip, med ett förslag som kan träda i kraft från nästa mandatperiods
 början.)
-3. Att begränsa arvoden för förtroendevalda med årsarvode om 100 % så att de
+3\. Att begränsa arvoden för förtroendevalda med årsarvode om 100 % så att de
 ej har rätt till ytterligare mötesarvoden från kommunen för annat uppdrag
 (inklusive uppdrag som styrelseledamot eller suppleant i kommunens helägda
 aktiebolag eller stiftelse).
 
-4. Att justera relationen mellan sammanträdesarvode och schablon för förlorad
+4\. Att justera relationen mellan sammanträdesarvode och schablon för förlorad
 arbetsförtjänst så att förhållandet mellan sammanträdesarvode och schablon
 ändras så att fler kan ansöka om extra ersättning för förlorad arbetsförtjänst.
 Riktmärke för schablon kan till exempel motsvara medelinkomst per månad i
@@ -2074,7 +2074,7 @@ Fredrik Hansson (C) yrkar bifall till Lisa Anderssons (M) yrkande.
 Stefan Jägnert (SD) yrkar på följande ändringar i översiktsplanen för Kungsbacka
 
 stad:
-1. I riktlinje 22 på sidan 32 ersätts följande stycke:
+1\. I riktlinje 22 på sidan 32 ersätts följande stycke:
 Nära våra stationer i blandstaden bygger vi tätast och med övervägande del
 flerbostadshus. I stationsnära bostadsområden bygger vi stor andel
 
@@ -2088,7 +2088,7 @@ utbyggnad som ska anpassas till platsens karaktär, befintlig höjd och
 bebyggelsestruktur, där blandning av småhus, radhus och lägre
 flerbostadshus kan prövas där det passar.
 
-2. I riktlinje 35 på sidan 32 ersätts följande stycke:
+2\. I riktlinje 35 på sidan 32 ersätts följande stycke:
 Enstaka byggnader som höjer sig över stadslandskapet tillåts inom blandstad
 
 med
@@ -2107,10 +2107,10 @@ Kommunstyrelsen
 Datum
 2026-02-17
 
-3. På sidan 59 stryks exploateringsinriktningen för Forsgården genom att
+3\. På sidan 59 stryks exploateringsinriktningen för Forsgården genom att
 Forsgården tas bort ur “Utredningsområden för bostäder” och tillhörande
 markering i kartunderlag.
-4. På sidan 12 ersätts följande stycke:
+4\. På sidan 12 ersätts följande stycke:
 
 Vi planerar staden yteffektivt och med helhetssyn. Det innebär bland annat
 att vi förtätar staden mest runt våra stationer, så att jordbruksmark kan
@@ -2130,7 +2130,7 @@ kommunikationer, stärker vi stadens attraktionskraft för både unga och
 familjer. Samtidigt tar vi till vara de ekologiska och sociala värden som
 naturen ger, och säkerställer att grönstruktur och rekreationsmiljöer
 utvecklas på ett sätt som gynnar stadens invånare.
-5. På sidan 13 ersätts följande stycke:
+5\. På sidan 13 ersätts följande stycke:
 
 Att bygga tät blandstad i stationsnära lägen ger oss en stad med ökad
 livskvalitet och samtidigt minskade kostnader för infrastruktur. Varje yta ska
@@ -2146,7 +2146,7 @@ kapacitet i trafik, VA och samhällsservice. Varje yta ska användas på ett sä
 
 som stärker stadens attraktivitet och service utan att försämra boendemiljö,
 stadsbild eller trygghet.
-6. På sidan 4 ersätts följande stycke:
+6\. På sidan 4 ersätts följande stycke:
 
 Här skapar vi fler bostäder, mer näringsliv och service i blandade och
 yteffektiva miljöer
@@ -2171,11 +2171,11 @@ Susanne Andersson (SD) yrkar bifall till Stefan Jägnerts (SD) yrkande.
 Magdalena Sundqvist (S) yrkar på följande ändringar i översiktsplanen för
 Kungsbacka stad:
 
-1. Sidan 8: Ha kvar referensen till kommunens omvärldsanalys och lokala
+1\. Sidan 8: Ha kvar referensen till kommunens omvärldsanalys och lokala
 utmaningar som beskrivs i kommunens hållbarhetsbokslut i enlighet med
 handling från 2024-12-18.
 
-2. Sidan 9: Texten om Demografi ska återställas till ursprungliga formuleringar
+2\. Sidan 9: Texten om Demografi ska återställas till ursprungliga formuleringar
 enligt version från 2024-12-18:
 Vi riskerar en förskjutning i demografin med en hög andel äldre och en låg
 andel yngre i arbetsför ålder. Idag flyttar många unga från kommunen, vilket
@@ -2192,11 +2192,11 @@ Stadens attraktionskraft är en viktig förutsättning för kommunens långsikti
 ekonomi och tillväxt. Vi behöver fortsätta utveckla staden till en stad med mer
 
 liv och rörelse, serviceutbud, arbetstillfällen och besöksmål.
-3. På sidan 18 under rubriken ”Hela stadens utveckling” ska punkten ”Vi ska
+3\. På sidan 18 under rubriken ”Hela stadens utveckling” ska punkten ”Vi ska
 planera och utforma staden utifrån ett jämlikhetsperspektiv” enligt version
 från 2024-12-18, föras tillbaka i punktlistan.
 
-4. På sidan 19 ska stycket ”Vi ska planera och utforma staden utifrån ett
+4\. På sidan 19 ska stycket ”Vi ska planera och utforma staden utifrån ett
 jämlikhetsperspektiv” föras tillbaka enligt version från 2024-12-18:
 Vi ska planera och utforma staden utifrån ett jämlikhetsperspektiv.
 
@@ -2211,7 +2211,7 @@ användbarhet av den fysiska miljön. Det är viktigt i ett samhälle med många
 
 involvera målgrupperna i både utformning av nya miljöer och
 förbättringsåtgärder.
-5. På sidan 20 under rubriken ”Vi ska verka för att det finns mötesplatser i alla
+5\. På sidan 20 under rubriken ”Vi ska verka för att det finns mötesplatser i alla
 delar av staden som erbjuder varierade funktioner”, ska följande text
 återföras:
 
@@ -2230,13 +2230,13 @@ Därför bör en målgruppsanalys göras vid utformning av mötesplatser. Det
 kan handla om att analysera behovet hos personer med funktionsnedsättning,
 personer med olika bakgrund, barn, unga, unga vuxna och äldre samt utifrån
 perspektiv om kön och könsidentitet.
-6. På sidan 21 under rubriken ”Vi frigör ytor till bebyggelse och grönområden
+6\. På sidan 21 under rubriken ”Vi frigör ytor till bebyggelse och grönområden
 
 genom att samla parkering i anläggningar, ska följande text återföras
 Vi kan också minska biltrafikmängden och utsläppen i centrala och
 stationsnära lägen.
 
-7. På sidan 21 ska rubriken gällande gestaltning och skötsel av utemiljöer ändras
+7\. På sidan 21 ska rubriken gällande gestaltning och skötsel av utemiljöer ändras
 till ursprunget: ”Gestaltning och skötsel av utemiljöer ska tillföra sociala
 värden, skapa livsmiljöer för djur och växtliv och binda mycket kol i mark
 och vegetation”. Under samma rubrik ska följande stycke som strukits
@@ -2247,11 +2247,11 @@ växa och ha en stor andel vedartad vegetation och död ved, Vid nyplantering
 av träd ska i första hand inhemska trädslag väljas. I skötselavtal med andra
 parter än kommunen ska det anges hur sociala värden och naturvärden ska
 främjas genom skötseln.
-8. Sidan 32, skrivs första punkten om till ursprunglig formulering (24-12-18)
+8\. Sidan 32, skrivs första punkten om till ursprunglig formulering (24-12-18)
 samt under rubriken ”Stadsbebyggelse, riktlinjer och motivering” skrivs
 
 samma formulering om till ursprungligt förslag, gällande höjd och karaktär.
-9. På sidan 34 under rubriken ”Vi verkar för hållbara och efterfrågade
+9\. På sidan 34 under rubriken ”Vi verkar för hållbara och efterfrågade
 bostadstyper både när vi skapar nya bostadsområden och när vi utvecklar
 befintlig stadsmiljö.” ska följande text byta ut befintlig text under rubriken:
 
@@ -2262,7 +2262,7 @@ fler flerbostadshus byggas, flertalet av dem bör ligga centralt och nära
 stationen. I de yttre lägena av staden kan vi komplettera staden med
 enfamiljshus blandat med småskaliga flerfamiljshus med lägenheter.
 
-10. På sidan 47 där behov av kapacitetsökning och kollektivtrafik behandlas ska
+10\. På sidan 47 där behov av kapacitetsökning och kollektivtrafik behandlas ska
 det stycke som handlar om ”Busskörfält” in i planen:
 Genom att bygga busskörfält i Kungsbacka stad möjliggör vi för
 Hallandstrafiken att förbättra kollektivtrafiken i de starka och mycket starka
@@ -2287,12 +2287,12 @@ Datum
 
 vägnätet. Bussprioritering kan bidra till att öka resenärernas nöjdhet, minska
 restiden och bränsleförbrukningen, samt reducera utsläppen av växthusgaser.
-11. På sidan 107 under rubriken ”Samlade bedömningar”, ska tabellen om
+11\. På sidan 107 under rubriken ”Samlade bedömningar”, ska tabellen om
 utmaningar i planen, delutmaningar och bedömning om utmaningen kan
 hanteras av fysisk planering i staden, återföras så som den ser ut i handlingen
 
 daterad 2024-12-18.
-12. Gällande de globala målen som hanteras mellan sidan 121 och 130 yrkar vi
+12\. Gällande de globala målen som hanteras mellan sidan 121 och 130 yrkar vi
 följande ändringar:
 
 − Mål 1Ingen fattigdom – den text som användes i versionen från 2024-12-
@@ -2318,7 +2318,7 @@ samhälle när det gäller att minska klimatutsläppen” återförs till texten
 
 − Mål 16 Fredliga och inkluderande samhällen - den text som användes i
 versionen från 2024-12-18 ersätter den föreslagna texten.
-13. På sidan 131 under ”Artikel 2 – Barns rätt till likvärdiga villkor och förbud
+13\. På sidan 131 under ”Artikel 2 – Barns rätt till likvärdiga villkor och förbud
 mot diskriminering återförs texterna
 
 Planen skapar långsiktiga förutsättningar för barn från olika

@@ -249,10 +249,10 @@ Intern kontrollplan 2026
 
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp
 granskas tas till plan för granskning 2026. Det är riskerna:
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 
 Jämfört med 2025 har antalet risker till plan minskat från fyra till tre.För samtliga risker som tas med i
@@ -476,7 +476,7 @@ risk ej tas till plan
 Personal       Risk att                        3. Kännbar Risken hanteras
 förvaltningen                (uppfattas som inom ramen för
 saknar personal              besvärande för verksamhets-
-2. Mindre vanligt
+2\. Mindre vanligt
 med                               berörda planering och
 rätt/tillräcklig             intressenter och kompetens-
 kompetens                      kommunen) försörjning.
@@ -561,10 +561,10 @@ Intern kontrollplan 2026
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp tas
 till plan för granskning 2026. Det är riskerna:
 
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 Självskattning för 2026 planeras att genomföras under våren 2026. Självskattningen genomförs i
 förvaltningens ledningsgrupp.
@@ -739,7 +739,7 @@ miljöförvaltningen har haft
 goda resultat vid tidigare
 granskningar därför tas
 denna risk inte till plan
-2026.
+2026\.
 Ingår under paraplyt
 välfärdsbrottslighet 2026
 Nej Omhändertas inom ramen
@@ -898,7 +898,7 @@ uppföljning och
 systemförvaltning. Rutiner
 finns och fungerar, inte
 prioriterat för granskning
-2026.
+2026\.
 Nej Risken hanteras inom
 ramen för ordinarie budget
 och uppföljningsarbete.
@@ -1808,16 +1808,16 @@ oktober 2025.
 Beskrivning av ärendet
 
 Bygg- och miljöförvaltningens tidplan redovisas enligt nedan;
-1. Justera riskklassningsmodellen för att beakta service och mätdata
+1\. Justera riskklassningsmodellen för att beakta service och mätdata
 
 Arbetet med att bygga upp riskklassningsmodellen ska påbörjas under hösten 2025 och vara
 klart under 2026.
 
 Ny riskklassning sker sedan vid löpande under tillsyn.
-2. Effektivisera tillsynen
+2\. Effektivisera tillsynen
 
 Gemensam tillsynsprocess för miljöbalken ska arbetas fram under hösten 2025 och våren 2026.
-3. Verka för standardiserade protokoll
+3\. Verka för standardiserade protokoll
 
 Kungsbacka ansöker om att vara deltagare i projekt Water Wise med fokus på att ta fram
 gemensamma driftsövervakningsparametrar i samarbete med branschen. Ansökan är skickad in
@@ -1837,7 +1837,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-4. Fördjupa samverkan med serviceföretagen
+4\. Fördjupa samverkan med serviceföretagen
 
 Påbörjas under hösten 2025 genom informationsmöten med serviceföretag samt erbjuda
 medverkan på tillsyn. Arbetet fortsätter under 2026.

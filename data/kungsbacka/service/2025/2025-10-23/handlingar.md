@@ -230,7 +230,7 @@ Del  1 Riktlinjer Koncept    utbildningslokaler
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-1.   Inledning
+1\.   Inledning
 
 1.1  Bakgrund
 Detta koncept är framtaget för att få fram kravställningar och principiella
@@ -313,7 +313,7 @@ konceptgruppen är ansvariga för att detta sker.
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-2.   Övergripande     målsättningar
+2\.   Övergripande     målsättningar
 
 2.1  Ledord utbildningslokaler
 Gestaltningen av förskolans och grundskolans fysiska miljö påverkar barns och
@@ -494,7 +494,7 @@ Del  2 Koncept    utbildningslokaler
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-3.   Omvärldsbevakning
+3\.   Omvärldsbevakning
 
 3.1  Planering och byggprocess
 Till grund för behovet av nya utbildningslokaler ligger ett kontinuerligt arbete med
@@ -689,7 +689,7 @@ de vuxnas egna erfarenheter, minnen och uppväxtmiljöer.
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-4.   Dimensionering      och  utformning    av
+4\.   Dimensionering      och  utformning    av
 
 utbildningslokaler
 
@@ -1195,7 +1195,7 @@ ska därför göras övernattningsbara i samtliga klassrum.
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-5.   Rum
+5\.   Rum
 
 5.1  Förskola
 Förskolebyggnaden delas in i olika hemvister. Varje hemvist har en liknande
@@ -1460,7 +1460,7 @@ Kök och matsal behandlas i koncept kök och matsal.
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-6.   Referenser    och  faktakällor
+6\.   Referenser    och  faktakällor
 
 Boverket. (2015). Gör plats för barn och unga! En vägledning för planering,
 utformning och förvaltning av skolans och förskolans utemiljö. Karlskrona:
@@ -1555,7 +1555,7 @@ Strategi för försörjning av utbildningsplatser, Kungsbacka kommun, december 2
 
 Koncept utbildningslokaler                  Kungsbacka kommun
 
-7.   Bilagor
+7\.   Bilagor
 
 Bilaga 1. Lokalförteckning – Skola
 Bilaga 2. Lokalförteckning – Förskola
@@ -1811,7 +1811,7 @@ KÖK
 Mottagningskök
 Tillagningskök
 
-Sittplatser i matsal*
+Sittplatser i matsal\*
 
 Mall                                           Förstudie
 
@@ -2494,7 +2494,7 @@ X
 
 | 1.63 | Angöring |
 | --- | --- |
-| 1.64 | Utemiljö* |
+| 1.64 | Utemiljö\* |
 | 1.65 | Parkering |
 | 1.66 | Parkering |
 
@@ -2897,7 +2897,7 @@ Hemvist - entré
 1.3 WC                     1     2     1,7   3,4  WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      4     6     24
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -2981,9 +2981,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
+| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
 <!-- sida 87 -->
 
@@ -3151,7 +3151,7 @@ Hemvist - entré
 1.3 WC                     1     9     1,7   15,3 WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      6     6     36
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -3235,9 +3235,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
+| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
 <!-- sida 99 -->
 
@@ -3405,7 +3405,7 @@ Hemvist - entré
 1.3 WC                     1     9     1,7   15,3 WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      5     6     30
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -3489,9 +3489,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
+| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
 <!-- sida 111 -->
 
@@ -3716,7 +3716,7 @@ www.kungsbacka.se
 
 <!-- sida 121 -->
 
-12)
+12\)
 
 Välkommen med synpunkter! Kungsbacka
 
@@ -5367,10 +5367,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 10
 
@@ -5397,11 +5397,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 11
 
@@ -5429,8 +5429,8 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 12
@@ -5467,8 +5467,8 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
@@ -5476,12 +5476,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 13
 

@@ -325,7 +325,7 @@ Med detta som bakgrund vill Socialdemokraterna:
 e att Kommunfullmäktige ger berörda nämnder i uppdrag att undersöka möjligheter att
 
 etablera högre utbildningar i Kungsbacka i samverkan med lämplig högskola och/eller
-- yuniversis tft DD )
+\- yuniversis tft DD )
 
 FP ÅA
 CA
@@ -513,17 +513,17 @@ Beskrivning av ärendet
 
 Förslag till godkända skäl:
 
-1) En av vårdnadshavarna bor i Kungsbacka kommun
-2) Eleven har sjukvård, annan långvarig viktig sjukvårdskontakt eller liknande i Kungsbacka
+1\) En av vårdnadshavarna bor i Kungsbacka kommun
+2\) Eleven har sjukvård, annan långvarig viktig sjukvårdskontakt eller liknande i Kungsbacka
 
-3) Elever från Frillesåsskolan vars restid ökar med 30 min enkel resväg
-4) Eleven bor i en annan kommun men går/har gått i Kungsbackas kommunala grundskola
+3\) Elever från Frillesåsskolan vars restid ökar med 30 min enkel resväg
+4\) Eleven bor i en annan kommun men går/har gått i Kungsbackas kommunala grundskola
 
-5) Medicinskt eller psykosocialt skäl tex att eleven har ångest och vill byta miljö
+5\) Medicinskt eller psykosocialt skäl tex att eleven har ångest och vill byta miljö
 
 Förslag till icke godtagbara skäl:
 
-1) Rent generellt så gäller att intresse inte är ett särskilt skäl, t ex ett idrottsintresse eller ”jag
+1\) Rent generellt så gäller att intresse inte är ett särskilt skäl, t ex ett idrottsintresse eller ”jag
 tycker skolan är mysig”. Däremot så har överklagandenämnden sagt att idrott på högsta elitnivå
 kan vara ett särskilt skäl, det fallet kom ganska nyligen, innan har alla idrottsskäl avslagits.
 Skälet – ”ni har en profil jag gillar” – ska avslås.
@@ -6530,7 +6530,7 @@ Beslut
 Regionstyrelsen beslutar att
 
 •  förlänga Regional strategi och modell Hälsa och migration i Halland 2024–
-2025.
+2025\.
 
 Ärendet
 2022–05-11 antog Regionstyrelsen en Regional strategi och modell Hälsa och
@@ -6566,7 +6566,7 @@ Förslag till beslut
 Regionstyrelsens hälso-och sjukvårdsutskott föreslår regionstyrelsen att
 
 •  förlänga Regional strategi och modell Hälsa och migration i Halland 2024–
-2025.
+2025\.
 
 Beslutsunderlag
 •  §81 RS HSU Beslut angående förlängning av Regional strategi och modell
@@ -6767,18 +6767,18 @@ Modell
 Modellen utgår från tre steg som tillsammans formar ett arbetssätt som kan användas
 i det strategiskt långsiktiga arbetet med hälsa och migration i Halland.
 
-1. Identifiera - Vad vill vi åstadkomma? Här ligger fokus på den
+1\. Identifiera - Vad vill vi åstadkomma? Här ligger fokus på den
 process/verksamhet där problemet uppstår. Formulera problemet, mål och
 syfte. Utforska och analysera - Möjliga orsaker till problemet? Hur vet vi att
 en förändring är en förbättring? Mäta, analysera och bestäm rotorsaker.
-2. Förbättringar genom att förnya och förstärka - vilka förändringar kan leda
+2\. Förbättringar genom att förnya och förstärka - vilka förändringar kan leda
 till förbättring? Fas för Idéer, förslag till lösningar Genom att grundligt gå
 igenom organisationens nuvarande situation och vad som behöver förbättras,
 
 samt att få möjligheten att testa dessa förslag på förbättringar i en trygg miljö,
 kommer det att bidra till en bättre möjlighet för att uppnå uppsatta mål i
 verksamheter samt tillgodose behoven.
-3. Gemensamt lärande genom att anpassa och rikta insatserna.
+3\. Gemensamt lärande genom att anpassa och rikta insatserna.
 Sammanfattning och reflektion över genomfört arbete och lärdomar.
 Erfarenhetsutbyte och goda exempel mellan verksamheter i Halland.
 Lösningar integreras i verksamheterna och riktade insatser erbjuds där behov
@@ -6817,7 +6817,7 @@ Hälsa hos personer som är utrikesfödda-skillnader i hälsa utifrån födelsel
 Folkhälsomyndigheten, 2019.
 
 Hälso-och sjukvård och tandvård till asylsökande och nyanlända, Socialstyrelsen
-2016.
+2016\.
 
 Hälso-och sjukvårdstrategi, Halland 2017–2025
 
@@ -6826,7 +6826,7 @@ Kraftsamling psykisk hälsa, Sveriges Kommuner och Regioner, Länk
 Regional utvecklingsstrategi 2035
 
 Strategi Hälsa- Tillsammans-Varje dag lite bättre, Sveriges kommuner och Landsting,
-2018.
+2018\.
 
 Sveriges Kommuner och Regioner, förbättringsarbete
 Patient- och brukarmedverkan. Positionspapper – För ökad kvalitet och effektivitet i
@@ -6909,7 +6909,7 @@ miljoner kronor under året och det innebär att låneskulden ökar till 1,3 mil
 
 Resultat, prognos
 
-1) Förändrat livslängdsantagande pensioner 2) Ökad avsättning deponi 3) Årets resultat exklusive jämförelsestörande poster
+1\) Förändrat livslängdsantagande pensioner 2) Ökad avsättning deponi 3) Årets resultat exklusive jämförelsestörande poster
 
 Prognosen är att årets resultat blir 149 miljoner kronor. Det är knappt 80 miljoner kronor lägre än
 resultatet förra året. Efter att vi tar bort jämförelsestörande poster får vi ett så kallat strukturellt
@@ -7181,7 +7181,7 @@ Kungsbacka kommun         Apriluppföljning 2024                 8
 
 8  Driftredovisning
 
-1) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
+1\) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
 statsbidrag samt finansiella poster ingår inte i beloppen.
 
 Nämndernas prognos + 8 miljoner kronor
@@ -7647,12 +7647,12 @@ Humana assistans AB
 Byggnadsnämnd  Förskola & Grundskola
 Vård & Omsorg
 Nämnd för hemsjukvård Gottskärs hemtjänst AB
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel*** Olivia Hemtjänst AB
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\* Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
 6 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 186 -->
@@ -7829,7 +7829,7 @@ Borgensåtagande, 2 892 3 059 3 283 3 412 3 502 3 493 3 484 3 484 3 484 3 484 3 
 miljoner
 Borgensåtagande, kronor 35 274 36 702 38 900 40 174 41 049 40 710 40 676 40 427 39 982 39 793 39 489
 per invånare
-* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 <!-- sida 189 -->
 
@@ -8272,15 +8272,15 @@ Antal färdigställda bostäder       430    363     319         Öka
 
 Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn * 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn * 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- * 88 % * Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
 hetssyn (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % * 88 % Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
-*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
+\*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
 
 Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
@@ -8301,27 +8301,27 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2021   2022   2023 Målsättning 2025
-Kommunens verksamheters elförbrukning, total (kWh) * * *      Minska
+Kommunens verksamheters elförbrukning, total (kWh) \* \* \*      Minska
 
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) 2,48 * * Minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) 2,48 \* \* Minska
 Fossiloberoende personbilar, andel av totalt antal bilar i det geogra- 17,0 21,2 24,1 Öka
 fiska området (%)
 Fossiloberoende personbilar i kommunorganisationen, andel (%) 93,3 94,6 96,2 Öka
-Slutanvändning av energi inom det geografiska området, MWh/invå- 17 15 * Minska
+Slutanvändning av energi inom det geografiska området, MWh/invå- 17 15 \* Minska
 nare
-Matens klimatpåverkan från de offentliga måltiderna ska minska * * * Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska \* \* \* Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, inklusive hormonstö- * * * Minska
+Antal kemiska produkter med utfasningsämnen, inklusive hormonstö- \* \* \* Minska
 rande ämnen på SIN-listan ska minska i kommunens verksamheter.
 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till * * * Minska
-2030. Startvärde 100, målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska minska med 40 % per hel- 72,1 84,5 * Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till \* \* \* Minska
+2030\. Startvärde 100, målvärde 2030 är 70.
+Avfall från kommunens verksamheter ska minska med 40 % per hel- 72,1 84,5 \* Minska
 tidsanställd. Startvärde 100, målvärde 2030 är 60.
-Ekologisk status i Kungsbackafjorden (VISS) *   *      *       Öka
-Skyddad natur totalt, andel (Kolada)   7,4 %  7,4 %    *       Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % * Öka
-Andelen återbrukade möbler               *      *      *       Öka
+Ekologisk status i Kungsbackafjorden (VISS) \*   \*      \*       Öka
+Skyddad natur totalt, andel (Kolada)   7,4 %  7,4 %    \*       Öka
+Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % \* Öka
+Andelen återbrukade möbler               \*      \*      \*       Öka
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 88% Åk 4: 85% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: Åk 8: Åk 8:
 77%    72%    79%
@@ -8332,7 +8332,7 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 93%
 92%    93%    92%
 Åk 1 gy: Åk 1 gy: Åk 1 gy:
 88%    85%    86%
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 20 Kommunbudget 2025 och plan 2026–2027
 
@@ -8356,12 +8356,12 @@ viktig del av företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 *        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % * Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % *           Öka
-Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 * Öka
+Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
+Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 Kommunen ska vara en
 möjliggörare för företag-
@@ -8412,9 +8412,9 @@ Indikator                              2021   2022   2023 Målsättning 2025
 Hållbart medarbetarengagemang, ett index för medarbetarnas sam- 78 78 76 Öka
 lade uppfattning om områdena motivation, ledarskap och styrning,
 skala 1–100 enligt Medarbetarenkäten
-Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 103 114 * Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 103 114 \* Öka
 utifrån nio nyckeltal med skala 1–20
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 Kommunbudget 2025 och plan 2026–2027 23
 
@@ -8623,19 +8623,19 @@ en sammantagen process som vi kan beskriva med fyra
 Ekonomiskt ansvar
 byggstenar:
 Kommunfullmäktige tilldelar nämnder och styrelser en
-1. En robust organisation
+1\. En robust organisation
 nettoram för driften. Inom ramen ska nämnderna ta ett
 självständigt ansvar för sin ekonomi. Nämnderna måste Omfattar exempelvis organisationsstruktur, reglementen,
 själva upprätta rutiner för budgetuppföljning och intern rutiner, verksamhetssystem, kvalitetskontroller, avtal,
 kontroll. Vid befarat underskott ska förvaltningschefen information, kommunikation och kultur.
 utarbeta förslag till åtgärder och presentera dessa för
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 nämnden. Nämnden är skyldig att fatta beslut om åtgärder
 för att inte överskrida ramen. Om nämnden trots detta Ett reflekterande och framåtsyftande förhållningssätt.
 inte anser sig klara sig inom tilldelad ram ska nämnden Omvärldsanalys och faktainsamling inom och utom den
 omedelbart rapportera till kommunstyrelsen. Nämnden egna organisationen.
 är skyldig att göra uppföljning med så täta intervaller
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 som krävs för att ha en god kontroll. Efter 30 april och 31
 augusti rapporterar nämnden sin uppföljning och prognos Utgår från riskanalysen och prioriterar och planerar
 till kommunstyrelsen som i sin tur gör en uppföljning uppföljande kontroller.
@@ -8647,10 +8647,10 @@ fullmäktige. Detsamma gäller årsbokslutet efter den 31
 
 EKONOMISTYRPRINCIPER
 
-4. Uppföljning
+4\. Uppföljning
 Vi följer upp och analyserar den interna kontrollen. 1. Nämnden har inte utfört planerad verksamhet.
 Resultatet återkopplar man till ansvarig nämnd. Nämnden ska normalt återredovisa överskottet.
-2. Man har överfört verksamhet till annan nämnd eller
+2\. Man har överfört verksamhet till annan nämnd eller
 Nämndernas ansvar
 styrelse. Normalt gör man ramjustering av budgeten under
 I Kungsbacka arbetar varje nämnd i en årlig process för verksamhetsåret. I undantagsfall kan man återredovisa
@@ -9035,13 +9035,13 @@ Nettokostnadsavvikelse
 visar resultat under noll
 -1,3
 -2,5-2,1-2,3 -2,6                   på lägre kostnadsläge på
-- 5,0                                                grund av lägre ambi-
+\- 5,0                                                grund av lägre ambi-
 -5,1
 -6,4   -6,1                  tionsnivå och/eller hög
-- 10,0                           -9,4                effektivitet.
-- 15,0
+\- 10,0                           -9,4                effektivitet.
+\- 15,0
 -14,7
-- 20,0
+\- 20,0
 Förskola inkl. öppen Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
 förskola öppen             Familjeomsorg
 fritidsverksamhet
@@ -9149,9 +9149,9 @@ Finansförvaltning, inklusive pensioner 13 000  12 477 59 232  51 264
 Semesterlöneskuld                                      6 000   6 000
 Oförutsett, OF                                        20 000  20 000
 
-- Varav KF-OF                                          10 000 10 000
-- Varav KS-OF                                          6 000   6 000
-- Varav KSAU-OF                                        4 000   4 000
+\- Varav KF-OF                                          10 000 10 000
+\- Varav KS-OF                                          6 000   6 000
+\- Varav KSAU-OF                                        4 000   4 000
 Kalkylerade kapitalkostnader                          -172 715 -200 402
 Nya lokalhyror och avskrivningar              -58 075 178 481 153 655
 Summa ekonomisk ramar 2025-2026 166 205 21 759 38 000 0 6 119 845 6 253 000
@@ -9519,18 +9519,18 @@ Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lok
 hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
 lokaler över tiden".                principen i fallande ordning:
 
-1. L okalbehov som inte är lagstyrd verksamhet
+1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
 och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
 höjningar i befintliga lokaler har lägst
 på befolkningsprognoser och lokalprognoser. Det är prioritet.
 kommunens lokalstyrgrupp som sammanställer behoven
-2. Lokalbehov på grund av ny exploatering har
+2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
 medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3. L okalbehov som beror på strukturomvand-
+3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
 lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
@@ -9558,11 +9558,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
 innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
 enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
+1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
+2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
 kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
-3. Bygga om eller till befintliga lokaler
-4. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
 • Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
 ”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
 utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
@@ -10218,7 +10218,7 @@ färdigställde kommunen utbyggnaden av infrastrukturen i
 Kommunstyrelsen godkände ett planprogram för sydöstra området och de första företagen etablerade sig. För tillfället
 centrum i januari 2020 och programmet består av fyra har fyra företag etablerat sig och tre företag förbereder
 etapper. Detaljplan för etapp 1 och 2 har påbörjats under byggstart. Under 2024 och 2025 kommer den återstående
-2021. Etapp 1 kommer att innehålla mellan 500–700 marken om totalt cirka 7,5 hektar att säljas, vilket blir cirka
+2021\. Etapp 1 kommer att innehålla mellan 500–700 marken om totalt cirka 7,5 hektar att säljas, vilket blir cirka
 bostäder samt förskola och beräknas kunna antas i början sex tomter.
 av 2025. Den största delen av etapp 1 ägs av en Balder.
 Klovsten
@@ -10275,7 +10275,7 @@ Kommunbudget 2025 och plan 2026–2027 61
 <!-- sida 241 -->
 
 Kungsbacka kommunfullmäktige beslutade i juni 2024 om kommunbudgeten för
-2025. Det här dokumentet innehåller våra övergripande mål med fokusområden
+2025\. Det här dokumentet innehåller våra övergripande mål med fokusområden
 och direktiv, resultat­ och finansieringsbudget och de ekonomiska ramar som våra
 nämnder har att förhålla sig till, en omvärldsanalys, riktlinjer för god
 ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats.
@@ -10461,7 +10461,7 @@ gymnasiumocharbetsmarknad@kungsbacka.se
 Ärendet
 
 Tillsyn av gymnasieskolan Aranäsgymnasiet enhet 4 i Kungsbacka kommun.
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 
@@ -10825,7 +10825,7 @@ grundläggande och gymnasial nivå.
 
 Frågor om verksamheten
 
-1. Ange antal elever respektive kursdeltagare i utbildning som ni är
+1\. Ange antal elever respektive kursdeltagare i utbildning som ni är
 
 huvudman för.
 Ange det totala antalet elever respektive kursdeltagare oavsett vilka
@@ -10833,7 +10833,7 @@ kurser de studerar inom den utbildning som ni är huvudman för och
 oavsett om utbildningen bedrivs i egen regi eller på entreprenad. Notera
 vilket datum uppgifterna hämtats.
 
-2. Beskriv vilka personer som har i uppdrag att ge individuell
+2\. Beskriv vilka personer som har i uppdrag att ge individuell
 studie- och yrkesvägledning till elever inom komvux på
 grundläggande och gymnasial nivå under hösten 2024.
 
@@ -10859,7 +10859,7 @@ www.skolinspektionen.se
 
 <!-- sida 256 -->
 
-3. Beskriv hur studie- och yrkesvägledningen hos er är organiserad.
+3\. Beskriv hur studie- och yrkesvägledningen hos er är organiserad.
 Beskriv hur studie- och yrkesvägledningen har organiserats hos er,
 exempelvis om den finns organiserad centralt inom kommunen eller
 lokalt hos olika verksamheter, om uppgifterna utförs i egen regi eller på
@@ -10871,7 +10871,7 @@ arbetsbeskrivning, kan dessa bifogas ert svar.
 
 Svar:
 
-4. Vilka möjligheter finns till studie- och yrkesvägledning för elever?
+4\. Vilka möjligheter finns till studie- och yrkesvägledning för elever?
 Beskriv hur eleverna kan få tillgång till studie- och yrkesvägledning hos
 er, exempelvis när det är möjligt, hur vägledningen kan ges och vad den
 kan innehålla. Inkludera i svaret om det finns möjlighet till studie- och
@@ -10879,14 +10879,14 @@ yrkesvägledning på plats och/eller på distans via digitala kanaler.
 
 Svar:
 
-5. Hur styr och leder huvudman och rektor/rektorer studie- och
+5\. Hur styr och leder huvudman och rektor/rektorer studie- och
 yrkesvägledningen?
 Om det finns redan upprättade dokument med exempelvis målsättningar
 och planer/planering kan dessa bifogas ert svar.
 
 Svar:
 
-6. Beskriv hur ni tar reda på vilka behov av studie- och
+6\. Beskriv hur ni tar reda på vilka behov av studie- och
 yrkesvägledning det finns inom komvux i er kommun.
 
 Om det finns redan upprättade dokument med exempelvis kartläggning
@@ -10894,7 +10894,7 @@ av elevers behov av studie- och yrkesvägledning i er kommun och
 analyser av detta kan dessa bifogas ert svar.
 Svar:
 
-7. Beskriv hur ni följer upp den individuella studie- och
+7\. Beskriv hur ni följer upp den individuella studie- och
 
 yrkesvägledningen.
 Om det finns redan upprättade dokument med någon uppföljning av
@@ -10909,7 +10909,7 @@ www.skolinspektionen.se
 
 Svar:
 
-8. Beskriv om ni har genomfört några insatser för att höja
+8\. Beskriv om ni har genomfört några insatser för att höja
 kompetensen hos de som arbetar med att ge individuell studie-
 och yrkesvägledning under senaste året.
 
@@ -10918,12 +10918,12 @@ personer som arbetar med den individuella studie- och
 yrkesvägledningen ska ha aktuell och relevant kompetens.
 Svar:
 
-9. Hur informeras elever om möjligheten till studie- och
+9\. Hur informeras elever om möjligheten till studie- och
 
 yrkesvägledning?
 Svar:
 
-10. Ange vilken/vilka rektorer som har ansvar för studie- och
+10\. Ange vilken/vilka rektorer som har ansvar för studie- och
 yrkesvägledning hos er.
 
 Ange namn och specificera vilket ansvar rektorn har kopplat till studie-
@@ -10950,9 +10950,9 @@ Till:             Förskola Grundskola; Gymnasium & Arbetsmarknad
 Ämne:             VB: Skolinspektionens dag 29 november – Inbjudan till rektor, huvudman,
 chef skol- och utbildningsförvaltning, utvecklingsansvarig, skolpolitiker
 
-Från: Skolinspektionen <skolinspektionensdag@herromar.se>
+Från: Skolinspektionen \<skolinspektionensdag@herromar.se>
 Skickat: den 24 juni 2024 13:04
-Till: Kommun <kommun@kungsbacka.se>
+Till: Kommun \<kommun@kungsbacka.se>
 Ämne: Skolinspektionens dag 29 november – Inbjudan till rektor, huvudman, chef skol- och
 utbildningsförvaltning, utvecklingsansvarig, skolpolitiker
 

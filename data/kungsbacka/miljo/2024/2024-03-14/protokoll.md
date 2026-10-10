@@ -547,7 +547,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Byggnadsnämnden beslutade att godkänna uppföljningsrapport för intern kontroll
-2023.
+2023\.
 
 Enligt kommunallagen och det gemensamma reglementet för nämnderna liksom
 kommunens Ekonomistyrprinciper ansvarar nämnderna för att den interna kontrollen

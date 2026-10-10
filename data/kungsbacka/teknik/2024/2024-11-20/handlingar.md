@@ -502,10 +502,10 @@ ska bygga på rimlig avgiftshöjning inom våra avgiftsfinansierade områden.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 13
 
@@ -537,11 +537,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 14
 
@@ -604,8 +604,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.3.1 Vi agerar möjliggörare för invånare och företagare
@@ -619,8 +619,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 16
 
@@ -652,12 +652,12 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 5.5.1 Vi arbetar både målstyrande och målsökande och ökar takten i vårt innovationsarbete
 
@@ -857,15 +857,15 @@ Teknik behöver arbeta med alla delar av Sveriges kommuner och regioners nio kom
 för att uppfattas som en relevant arbetsgivare.
 SKR:s nio kompetensförsörjningsstrategier:
 
-1. rekrytera och attrahera bredare
-2. synliggöra lön, villkor och förmåner
-3. stärka chefers förutsättningar att leda
-4. främja medarbetares utveckling och möjlighet till omställning
-5. använde kompetensen rätt
-6. utnyttja teknikens möjligheter
-7. arbeta med friskfaktorer
-8. underlätta för fler att arbeta mer och längre
-9. värna arbetstiden
+1\. rekrytera och attrahera bredare
+2\. synliggöra lön, villkor och förmåner
+3\. stärka chefers förutsättningar att leda
+4\. främja medarbetares utveckling och möjlighet till omställning
+5\. använde kompetensen rätt
+6\. utnyttja teknikens möjligheter
+7\. arbeta med friskfaktorer
+8\. underlätta för fler att arbeta mer och längre
+9\. värna arbetstiden
 Under 2025 behöver förvaltningen ha särskilt fokus på chefers förutsättningar att leda, att använda kompetens
 rätt och främja medarbetares utveckling och möjlighet till omställning för att kunna nyttja teknikens
 möjligheter.
@@ -1715,7 +1715,7 @@ genomlysa våra verksamheter genom processkartläggning för att säkerställa a
 effektfullt som möjligt.
 
 Några styrdokument, policys, lagar och förordningar som kan påverka arbetet med internkontrollen
-2025. Med ökad omställning för att möta framtida behov i välfärden krävs att förvaltningens tjänstemän
+2025\. Med ökad omställning för att möta framtida behov i välfärden krävs att förvaltningens tjänstemän
 vågar utmana och testa sig fram samtidigt som nedan behöver tas i beaktning:
 NIS 2-direktivet: syftar till att uppnå en hög gemensam nivå av cybersäkerhet inom EU. Det ställer tydligare
 krav på riskanalyser och säkerhetsåtgärder jämfört med det tidigare NIS-direktivet. Förvaltningen för Teknik
@@ -2049,7 +2049,7 @@ Initiativärende    angående      – Prioritering    av
 skötselytor
 
 Förslag till beslut i Nämnden för Teknik:
-1. Förvaltningen får i uppdrag att omgående prioritera underhållet av våra skötselytor i
+1\. Förvaltningen får i uppdrag att omgående prioritera underhållet av våra skötselytor i
 de mest besökta delarna av Kungsbacka innerstad, samt att under den tidiga hösten
 2024 återkomma med ett klassificeringssystem som syftar till att förenkla
 prioriteringen av underhåll av våra skötselytor i hela kommunen.
@@ -2627,7 +2627,7 @@ besiktningsavgifter.
 Har man en komplementbyggnad (till exempel attefallshus) med indraget VA
 betalar man ytterligare en bostadsenhetsavgift.
 
---------------------------------------------
+\--------------------------------------------
 
 1 Lag (2006:412) om allmänna vattentjänster
 
@@ -2801,7 +2801,7 @@ perioden.
 
 VA-utbyggnadsplanen finns tillgänglig på vår hemsida, www.kungsbacka.se.
 
---------------------------------------------
+\--------------------------------------------
 
 2 VA-utbyggnadsplan 2022–2032. Beslutad av kommunfullmäktige 8 september 2020 (§90, KS 2018-00689)
 
@@ -3026,7 +3026,7 @@ på befintligt ledningsnät.
 För en förening debiteras en bostadsenhetsavgift per ingående fastighet, men
 föreningen delar gemensamt på servis-, etablerings- och besiktningsavgifter.
 
---------------------------------------------
+\--------------------------------------------
 
 1 Lag (2006:412) om allmänna vattentjänster
 
@@ -3203,7 +3203,7 @@ perioden.
 
 VA-utbyggnadsplanen finns tillgänglig på vår hemsida, www.kungsbacka.se.
 
---------------------------------------------
+\--------------------------------------------
 
 2 VA-utbyggnadsplan 2022–2032. Beslutad av kommunfullmäktige 8 september 2020 (§90, KS 2018-00689)
 
@@ -3441,7 +3441,7 @@ föreningen delar gemensamt på servis-, etablerings- och besiktningsavgifter. O
 förbindelsepunkts avgift
 
 Kungsbacka kommun Riktlinjer för anslutning utanför kommunalt verksamhetsområde för V 5 (10)
---------------------------------------------
+\--------------------------------------------
 
 1 Lag (2006:412) om allmänna vattentjänster
 
@@ -3620,7 +3620,7 @@ perioden.
 
 VA-utbyggnadsplanen finns tillgänglig på vår hemsida, www.kungsbacka.se.
 
---------------------------------------------
+\--------------------------------------------
 
 2 VA-utbyggnadsplan 2022–2032. Beslutad av kommunfullmäktige 8 september 2020 (§90, KS 2018-00689)
 

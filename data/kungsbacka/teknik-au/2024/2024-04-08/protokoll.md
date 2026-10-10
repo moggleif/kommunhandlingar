@@ -145,14 +145,14 @@ Området har inget kommunalt VA-nät utan utgörs av enskilda avlopp och
 dricksvattenbrunnar.
 
 Förväntad nytta av projektet:
-* Möjliggöra anslutning till kommunalt VA för cirka 160 fastigheter.
+\* Möjliggöra anslutning till kommunalt VA för cirka 160 fastigheter.
 
-* VA-utbyggnad minskar övergödning och gynnar vattenkvaliteten i hav, sjöar,
+\* VA-utbyggnad minskar övergödning och gynnar vattenkvaliteten i hav, sjöar,
 vattendrag och grundvatten.
 
-* VA-utbyggnad bidrar till minskade hälsorisker och rättvisare förutsättningar för
+\* VA-utbyggnad bidrar till minskade hälsorisker och rättvisare förutsättningar för
 VA-anslutning.
-* VA-utbyggnad medför ökad tillgång till kommunalt VA och möjliggör framtida
+\* VA-utbyggnad medför ökad tillgång till kommunalt VA och möjliggör framtida
 bebyggelse med anslutning till kommunalt VA.
 
 Finansiering sker genom investeringsbudget för VA. Kungsbacka kommun ansvarar
@@ -209,18 +209,18 @@ Sammanfattning av ärendet
 Upphandlingen avser utbyggnad av de anläggningar inom allmän plats som
 kommunen ansvarar för enligt detaljplanen. I detta ingår:
 
-* Ca 570 m gång- och cykelväg
-* Ca 22 000 m2 park
+\* Ca 570 m gång- och cykelväg
+\* Ca 22 000 m2 park
 
-* Ca 300 m erosionsskydd längs med Hovmanneån.
+\* Ca 300 m erosionsskydd längs med Hovmanneån.
 
 Förväntad nytta av projektet:
-* Oskyddade trafikanter kan ta sig fram i en trafiksäker miljö. Gång- och cykelvägen
+\* Oskyddade trafikanter kan ta sig fram i en trafiksäker miljö. Gång- och cykelvägen
 
 utgör en del av det planerade GC-nätet mellan Fjärås och Kungsbacka.
-* Parken ger utökade möjligheter till rekreation för boende i närområdet.
+\* Parken ger utökade möjligheter till rekreation för boende i närområdet.
 
-* Erosionsskyddet längs med Hovmanneån åtgärdar erosionsproblematiken i den
+\* Erosionsskyddet längs med Hovmanneån åtgärdar erosionsproblematiken i den
 aktuella delen av planområdet.
 
 Finansiering sker genom exploateringsbidrag från exploatören Derome.
@@ -288,8 +288,8 @@ Sammanfattning av ärendet
 
 Nämnden för Tekniks arbetsutskott informeras om:
 
--  Skräpplockardagen som förvaltningen för Teknik anordnar den 17 april
--  Den Tekniska nämnden i Mölndals Stad har sagt upp intentionsavtalet om
+\-  Skräpplockardagen som förvaltningen för Teknik anordnar den 17 april
+\-  Den Tekniska nämnden i Mölndals Stad har sagt upp intentionsavtalet om
 gemensam ÅVC med Kungsbacka kommun
 
 Beslutsgång

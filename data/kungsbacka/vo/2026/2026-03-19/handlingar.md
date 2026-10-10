@@ -43,11 +43,11 @@ inrättandet av en avdelning för unga med kognitiv svikt på Signeshus, är ful
 Sammanfattning av ärendet
 
 Nämnden för Vård & Omsorg gav den 22 februari 2024 förvaltningschefen i uppdrag att:
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan avdelning
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan avdelning
 på Signes Hus
 
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
 donationer.
 
 Förvaltningen genomförde en utredning och återkopplade resultatet till nämnden den 24 oktober 2024.
@@ -372,7 +372,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -1035,17 +1035,17 @@ Klart
 
 Klart
 
-- Instruktion rapportering
+\- Instruktion rapportering
 
-- Två kassor
+\- Två kassor
 
-- Hallandsövergripande
+\- Hallandsövergripande
 Gemensam plan
 
 Klart, beslutad 260225
 
 Klart
-- Berör endast VO
+\- Berör endast VO
 
 Behov av vidare arbete 2026
 
@@ -1062,7 +1062,7 @@ initiativtagaren, inkl
 summa   beviljade
 
 ekonomiska  medel.
-- Ev önskan om
+\- Ev önskan om
 
 komplettering
 
@@ -1394,7 +1394,7 @@ Förvaltningen Kultur & Fritid
 Förvaltningen för Kultur & Fritid har fortsatt att arbeta främjande och förebyggande med
 
 fokus på invånares psykiska och fysiska hälsa. Bland de viktigaste insatserna finns
-#Tryggdigitaluppväxt, Sommarkulturskolan, Mötesplats Idrott och Mötesplats Kultur samt
+\#Tryggdigitaluppväxt, Sommarkulturskolan, Mötesplats Idrott och Mötesplats Kultur samt
 friskvårds- och aktivitetsinsatser.
 Förvaltningen har samverkat med ett stort antal samhällsaktörer – bland annat Region
 Halland, föreningar, civilsamhälle, bostadsbolag och näringsliv – vilket har möjliggjort lokala
@@ -1826,11 +1826,11 @@ Kungsbacka kommun, God och Nära vård, 2025                13(17)
 1.6 Inkomna initiativ 2025
 
 För att få beviljat medel till initiativ ska fyra kriterier uppfyllas:
-1. Initiativet ska involvera minst två olika parter
+1\. Initiativet ska involvera minst två olika parter
 
 •  Ex: professioner eller enheter inom en förvaltning, flera förvaltningar,
 civilsamhället, näringsliv, region, annan kommun
-2. Koppling till minst en målgrupp i den Hallandsgemensamma färdplanen:
+2\. Koppling till minst en målgrupp i den Hallandsgemensamma färdplanen:
 
 •  Personer i behov av hemsjukvård,
 
@@ -1841,10 +1841,10 @@ civilsamhället, näringsliv, region, annan kommun
 •  Övriga med ökad risk för ohälsa (kroniska sjukdomar, psykisk ohälsa,
 socioekonomiska bekymmer)
 
-3. Koppling till minst en parameter i målbilden Omtanke Halland:
+3\. Koppling till minst en parameter i målbilden Omtanke Halland:
 •  Personcentrerad, sammanhållen, nära, hälsofrämjande, gemensam, trygg, enkel
 
-4. Initiativet ska vara godkänt av samtliga involverade förvaltningschefer
+4\. Initiativet ska vara godkänt av samtliga involverade förvaltningschefer
 
 Initiativen bereds och beslutas i God och Nära vård och Omsorgs-gruppen i samråd med
 ekonomichef på Vård & Omsorg.
@@ -2077,7 +2077,7 @@ zZ
 :<
 FF
 (00)
->
+\>
 O
 (00)
 I
@@ -2262,8 +2262,8 @@ Under perioden 1 februari till 28 februari 2026 har följande skrivelser inkommi
 
 & Omsorg.
 Diarienummer VO-2025–00273. (Diskrimineringsombudsmannen) Beslut 2026-02-06.
-- DO bedömer att Kungsbacka kommun inte har brutit mot förbudet mot diskriminering
-- DO bedömer att Kungsbacka kommunhar uppfyllt sin skyldighet att utreda trakasserier och
+\- DO bedömer att Kungsbacka kommun inte har brutit mot förbudet mot diskriminering
+\- DO bedömer att Kungsbacka kommunhar uppfyllt sin skyldighet att utreda trakasserier och
 genomföra åtgärder.
 
 Diarienummer VO-2026–00052. (Socialstyrelsen) Enkät: Öppna jämförelser i socialtjänsten och

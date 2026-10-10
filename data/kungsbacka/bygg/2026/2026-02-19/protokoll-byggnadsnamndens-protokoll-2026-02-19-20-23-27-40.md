@@ -47,7 +47,7 @@ Fredrik Kollberg (KD)
 Mårten Carlquist (M) Katarina Öryd, förvaltningschef
 Anders Bergstedt (M) Hanna Ståhl, verksamhetschef
 Kenth Wallin (SD) Kasra Hassirian, förvaltningsjurist
-Richard Hansson (C) $$ 20-30
+Richard Hansson (C) \$\$ 20-30
 Gunnar Riksén (KD) Peter Sebestyén, enhetschef
 Bo Johansson (MP) Karl Boström, enhetschef
 Thinh Bui-Ljungqvist, senior
@@ -55,22 +55,22 @@ bygglovshandläggare
 André Nilsson, senior
 bygglovshandläggare
 Christina Nordberg, controller
-$$ 24-26
+\$\$ 24-26
 
-Johanna Gille, HR-specialist $ 24
+Johanna Gille, HR-specialist \$ 24
 Veronica Löfqvist, dataskyddskontakt
 88 20-23
 
 Gustav Bernhardsson, kommunikatör
 Ida Lennartsson, verksamhetschef
-Emma Johansson, planarkitekt $ 28
+Emma Johansson, planarkitekt \$ 28
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering — Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer $$ 20-23, 27-40
+Sekreterare Sofie Axelsson Paragrafer \$\$ 20-23, 27-40
 
-$$ 24-26 omedelbart
+\$\$ 24-26 omedelbart
 justerade, se separat
 protokoll
 

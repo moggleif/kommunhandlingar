@@ -141,10 +141,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 4 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................4
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................4
 
 Engagerad ledning och tydlig styrning .............................................................................................4
 Övergripande mål och strategier .................................................................................................4
@@ -156,7 +156,7 @@ Informationssäkerhet ..........................................................
 En god säkerhetskultur....................................................................................................................7
 
 Adekvat kunskap och kompetens ....................................................................................................8
-4. AGERA FÖR SÄKER VÅRD .............................................................................................................9
+4\. AGERA FÖR SÄKER VÅRD .............................................................................................................9
 
 Öka kunskap om inträffade vårdskador ......................................................................................... 10
 Har vården varit säker ............................................................................................................... 10
@@ -191,7 +191,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 5 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -200,7 +200,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 Det finns en god vilja att rapportera inträffade händelser vilket stöds av mätning av
 patientsäkerhetskulturen i förvaltningen för Vård & Omsorg, VO. Utredning av händelserna
 har visat att merparten av händelserna i VO inte berodde på någon brist i verksamheten och
@@ -240,7 +240,7 @@ under 2025.
 
 <!-- sida 6 -->
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 Engagerad ledning och tydlig styrning
 
 En grundläggande förutsättning för en säker vård är en
@@ -406,16 +406,16 @@ HSLF-FS 2016:40, 7 kap. 1 §
 Patientsäkerhetsberättelsen ska, utöver vad som anges patientsäkerhetslagen innehålla
 
 uppgifter enligt nedan.
-1. Uppföljningar av informationssäkerheten som är av större betydelse
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
 
-2. Riskanalyser som har gjorts.
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
@@ -483,7 +483,7 @@ patientsäkerhet.
 VO har genomfört utbildningar i hjärt-lungräddning för att öka kompetensen hos
 medarbetarna inom området. Utbildning kommer att genomföras vartannat år från och med
 
-2024.
+2024\.
 För att öka kompetensen hos medarbetarna har VO gjort en satsning via äldreomsorgslyftet
 där medarbetare kan utbilda sig till vårdbiträde eller undersköterska.
 
@@ -544,7 +544,7 @@ IF har identifierat att verksamheten behöver göra den enskilde mer aktiv och d
 
 utprovningen av hjälpmedel.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -563,12 +563,12 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
 
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
-5. Öka riskmedvetenhet och beredskap
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
+5\. Öka riskmedvetenhet och beredskap
 
 Öka kunskap om inträffade vårdskador
 SOSFS 2011:9 7 kap. 2 § sista stycket, HSLF-FS 2017:40 3 kap. 1 §, PSL 2010:659 3 kap. 3 §
@@ -925,7 +925,7 @@ sjuksköterskorna.
 
 Ordinerade hälso- och sjukvårdsinsatser
 Totalt har knappt 3.2 miljoner insatser delegerats/instruerats i VO under perioden 231101–
-241031. Motsvarande siffra för IF är knappt 400 000.
+241031\. Motsvarande siffra för IF är knappt 400 000.
 
 Antalet insatser ser ut att öka med 5–10% per år.
 
@@ -1458,36 +1458,36 @@ för trygghet i byggd miljö
 
 Remissinstanser
 
-1. Arjeplogs kommun
+1\. Arjeplogs kommun
 
-2. Avesta kommun
-3. Balder
+2\. Avesta kommun
+3\. Balder
 
-4. BID Gamlestaden
-5. BID Malmö
+4\. BID Gamlestaden
+5\. BID Malmö
 
-6. Borås kommun
+6\. Borås kommun
 
-7. Bostads AB Mimer
-8. Bostadsbolaget i Göteborg
+7\. Bostads AB Mimer
+8\. Bostadsbolaget i Göteborg
 
-9. Bostadsrätterna
+9\. Bostadsrätterna
 
-10. Botkyrkabyggen
-11. Boverket
+10\. Botkyrkabyggen
+11\. Boverket
 
-12. Brottsförebyggande rådet
-13. Centrum för AMP
+12\. Brottsförebyggande rådet
+13\. Centrum för AMP
 
-14. Chalmers tekniska högskola AB
+14\. Chalmers tekniska högskola AB
 
-15. City i samverkan
-16. Einar Matsson AB
+15\. City i samverkan
+16\. Einar Matsson AB
 
-17. Ekobrottsmyndigheten
+17\. Ekobrottsmyndigheten
 
-18. Eskilstuna kommun
-19. Familjebostäder AB
+18\. Eskilstuna kommun
+19\. Familjebostäder AB
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
@@ -1495,160 +1495,160 @@ E-post: li.registrator@regeringskansliet.se
 
 <!-- sida 32 -->
 
-20. Fastighetsägarföreningen Gottsunda Valsätra
+20\. Fastighetsägarföreningen Gottsunda Valsätra
 
-21. Fastighetsägarna
-22. Fastighetsägarna Järva
+21\. Fastighetsägarna
+22\. Fastighetsägarna Järva
 
-23. Fastighetsägarnas småbolagsråd
-24. Flens kommun
+23\. Fastighetsägarnas småbolagsråd
+24\. Flens kommun
 
-25. Folkets Hus- och Parker
+25\. Folkets Hus- och Parker
 
-26. Forskningsrådet för miljö, areella näringar och samhällsbyggande
-27. Föreningen Platssamverkan Gränby Kvarngärdet
+26\. Forskningsrådet för miljö, areella näringar och samhällsbyggande
+27\. Föreningen Platssamverkan Gränby Kvarngärdet
 
-28. Förvaltningsrätten i Falun
+28\. Förvaltningsrätten i Falun
 
-29. Förvaltningsrätten i Malmö
-30. Förvaltningsrätten i Växjö
+29\. Förvaltningsrätten i Malmö
+30\. Förvaltningsrätten i Växjö
 
-31. Gotlands kommun
+31\. Gotlands kommun
 
-32. Gällivare kommun
-33. Göteborgs kommun
+32\. Gällivare kommun
+33\. Göteborgs kommun
 
-34. Göteborgslokaler
-35. Göteborgs universitet
+34\. Göteborgslokaler
+35\. Göteborgs universitet
 
-36. Handelns forskningsinstitut
+36\. Handelns forskningsinstitut
 
-37. Heimstaden
-38. Helsingborgs kommun
+37\. Heimstaden
+38\. Helsingborgs kommun
 
-39. Hyresgästföreningen
+39\. Hyresgästföreningen
 
-40. Hyres- och arrendenämnden i Stockholm
-41. Härjedalens kommun
+40\. Hyres- och arrendenämnden i Stockholm
+41\. Härjedalens kommun
 
-42. Ica Fastigheter AB
-43. IQ Samhällsbyggnad
+42\. Ica Fastigheter AB
+43\. IQ Samhällsbyggnad
 
-44. Jernhusen
+44\. Jernhusen
 
-45. Jokkmokks kommun
-46. Karlstads kommun
+45\. Jokkmokks kommun
+46\. Karlstads kommun
 
-47. Kiruna kommun
+47\. Kiruna kommun
 
-48. Kungl. Tekniska högskolan
-49. Kungsbacka kommun
+48\. Kungl. Tekniska högskolan
+49\. Kungsbacka kommun
 
 2 (6)
 
 <!-- sida 33 -->
 
-50. Landskrona kommun
+50\. Landskrona kommun
 
-51. Lunds universitet
-52. Länsstyrelsen i Blekinge län
+51\. Lunds universitet
+52\. Länsstyrelsen i Blekinge län
 
-53. Länsstyrelsen i Jämtlands län
-54. Länsstyrelsen i Jönköpings län
+53\. Länsstyrelsen i Jämtlands län
+54\. Länsstyrelsen i Jönköpings län
 
-55. Länsstyrelsen i Norrbottens län
+55\. Länsstyrelsen i Norrbottens län
 
-56. Länsstyrelsen i Skåne län
-57. Länsstyrelsen i Stockholms län
+56\. Länsstyrelsen i Skåne län
+57\. Länsstyrelsen i Stockholms län
 
-58. Länsstyrelsen i Uppsala län
+58\. Länsstyrelsen i Uppsala län
 
-59. Länsstyrelsen i Västmanlands län
-60. Malmö kommun
+59\. Länsstyrelsen i Västmanlands län
+60\. Malmö kommun
 
-61. Malmö universitet
+61\. Malmö universitet
 
-62. Malung-Sälens kommun
-63. MKB Fastighets AB
+62\. Malung-Sälens kommun
+63\. MKB Fastighets AB
 
-64. Mora kommun
-65. Myndigheten för ungdoms- och civilsamhällesfrågor
+64\. Mora kommun
+65\. Myndigheten för ungdoms- och civilsamhällesfrågor
 
-66. Norrköpings kommun
+66\. Norrköpings kommun
 
-67. Näringslivets regelnämnd
-68. Oskarshamns kommun
+67\. Näringslivets regelnämnd
+68\. Oskarshamns kommun
 
-69. Polismyndigheten
+69\. Polismyndigheten
 
-70. Regelrådet
-71. Region Blekinge
+70\. Regelrådet
+71\. Region Blekinge
 
-72. Region Dalarna
-73. Region Skåne
+72\. Region Dalarna
+73\. Region Skåne
 
-74. Region Stockholm
+74\. Region Stockholm
 
-75. Region Västerbotten
-76. Sandvikens kommun
+75\. Region Västerbotten
+76\. Sandvikens kommun
 
-77. Småföretagarna
+77\. Småföretagarna
 
-78. Socialstyrelsen
-79. Sorsele kommun
+78\. Socialstyrelsen
+79\. Sorsele kommun
 
 3 (6)
 
 <!-- sida 34 -->
 
-80. Stadsmissionen
+80\. Stadsmissionen
 
-81. Staffanstorps kommun
-82. Stiftelsen Tryggare Sverige
+81\. Staffanstorps kommun
+82\. Stiftelsen Tryggare Sverige
 
-83. Stockholms kommun
-84. Strängnäs kommun
+83\. Stockholms kommun
+84\. Strängnäs kommun
 
-85. Svea hovrätt
+85\. Svea hovrätt
 
-86. Svenska bostäder
-87. Svenska stadskärnor
+86\. Svenska bostäder
+87\. Svenska stadskärnor
 
-88. Svensk Försäkring
+88\. Svensk Försäkring
 
-89. Svensk Handel
-90. Svenskt Näringsliv
+89\. Svensk Handel
+90\. Svenskt Näringsliv
 
-91. Sveriges Allmännytta
+91\. Sveriges Allmännytta
 
-92. Sveriges Kommuner och Regioner
-93. Sveriges Lantbruksuniversitet
+92\. Sveriges Kommuner och Regioner
+93\. Sveriges Lantbruksuniversitet
 
-94. Sveriges Riksidrottsförbund
-95. Umeå kommun
+94\. Sveriges Riksidrottsförbund
+95\. Umeå kommun
 
-96. Unibail Rodamco Westfield
+96\. Unibail Rodamco Westfield
 
-97. Uppsalahem
-98. Uppsala kommun
+97\. Uppsalahem
+98\. Uppsala kommun
 
-99. Uppsala universitet
+99\. Uppsala universitet
 
-100. Vasakronan
-101. Vetenskapsrådet
+100\. Vasakronan
+101\. Vetenskapsrådet
 
-102. Viktoriahem
-103. Vimmerby kommun
+102\. Viktoriahem
+103\. Vimmerby kommun
 
-104. Visita
+104\. Visita
 
-105. Wallenstam
-106. Åklagarmyndigheten
+105\. Wallenstam
+106\. Åklagarmyndigheten
 
-107. Åmåls kommun
+107\. Åmåls kommun
 
-108. Åre kommun
-109. Östersunds tingsrätt
+108\. Åre kommun
+109\. Östersunds tingsrätt
 
 4 (6)
 
@@ -3149,11 +3149,11 @@ till den kommun där området är beläget.
 
 4 § Ansökan om införande av avgift för områdessamverkan ska
 innehålla följande
-1. geografisk avgränsning enligt 5 §,
-2. verksamhetsplan enligt 6 §,
-3. budget enligt 7 §,
-4. andelstal för fastighetsägarna enligt 8 §, och
-5. organisation enligt 9 §.
+1\. geografisk avgränsning enligt 5 §,
+2\. verksamhetsplan enligt 6 §,
+3\. budget enligt 7 §,
+4\. andelstal för fastighetsägarna enligt 8 §, och
+5\. organisation enligt 9 §.
 Utöver ovanstående ska ansökan innehålla en sammanställning
 
 över områdets fastighetsägare samt en kartläggning av andra i området
@@ -3230,18 +3230,18 @@ för att kommunen ska behandla ansökan är att förslaget har fått till-
 räckligt stöd i den omröstning som ska genomföras enligt 10 §.
 Vid beslut om införande av avgift för områdessamverkan ska
 kommunen särskilt bedöma om
-1. samverkansområdets geografiska avgränsning är samman-
+1\. samverkansområdets geografiska avgränsning är samman-
 hängande och rimlig i förhållande till verksamhetens mål, genom-
 förande och effektivitet,
-2. verksamhetsplanen är genomförbar och bidrar till ett lång-
+2\. verksamhetsplanen är genomförbar och bidrar till ett lång-
 siktigt förbättringsarbete, enligt syftet i 1 kap 2 §, som kommer hela
 samverkansområdet till nytta,
-3. budgeten ger en rättvisande bild av verksamhetsplanens kost-
+3\. budgeten ger en rättvisande bild av verksamhetsplanens kost-
 nader,
-4. kriterierna för beräkning av andelstal ger en skälig fördelning
+4\. kriterierna för beräkning av andelstal ger en skälig fördelning
 av inflytande och kostnader samt att avgiften för varje enskild med-
 lem inte är oskälig, och
-5. att samråd skett med relevanta aktörer på ett ändamålsenligt
+5\. att samråd skett med relevanta aktörer på ett ändamålsenligt
 sätt och att de synpunkter som inkommit vid samrådet beaktats.
 
 Om kommunen bedömer att någon av ovanstående punkter inte
@@ -3313,13 +3313,13 @@ till stadgarnas bestämmelser om tid för kallelse. Om styrelsen inte
 gör det, ska länsstyrelsen kalla till stämma på ansökan av en medlem.
 
 16 § Årsstämman ska besluta om
-1. verksamhetsplan för det kommande verksamhetsåret,
-2. budget för det kommande verksamhetsåret,
-3. avgiftsuttag för kommande verksamhetsåret,
-4. verksamhetsberättelse och årsredovisning för föregående verk-
+1\. verksamhetsplan för det kommande verksamhetsåret,
+2\. budget för det kommande verksamhetsåret,
+3\. avgiftsuttag för kommande verksamhetsåret,
+4\. verksamhetsberättelse och årsredovisning för föregående verk-
 samhetsår,
-5. revisionsberättelse för föregående verksamhetsår, och
-6. styrelse för det kommande verksamhetsåret.
+5\. revisionsberättelse för föregående verksamhetsår, och
+6\. styrelse för det kommande verksamhetsåret.
 Vid beslut om avgiftsuttag enligt punkt 3 får avgiften för en enskild
 medlem inte vara oskälig.
 Föreningen ska skicka in årsmötesprotokoll till kommunen senast
@@ -3414,9 +3414,9 @@ Beslut om att införa avgift för områdessamverkan
 3 § Kommunen får ta beslut om att införa en avgift för områdes-
 samverkan för alla fastighetsägare inom samverkansområdet om det
 föreligger behov som identifierats utifrån
-1. lägesbilden enligt 4 § i lagen (2023:196) om kommuners ansvar
+1\. lägesbilden enligt 4 § i lagen (2023:196) om kommuners ansvar
 för brottsförebyggande arbete, eller
-2. annan information av betydelse för syftet i 1 kap 2 §.
+2\. annan information av betydelse för syftet i 1 kap 2 §.
 
 4 § Beslut om att införa en avgift för områdessamverkan enligt 3 §
 får tas först när kommunen uttömt möjligheterna att uppnå samma
@@ -3430,10 +3430,10 @@ anleder.
 
 5 § Kommunens underlag till förslag om att införa en avgift för
 områdessamverkan, som samrådet enligt 4 § avser, ska innehålla
-1. geografisk avgränsning,
-2. verksamhetsplan,
-3. budget inklusive avgiftsuttag,
-4. plan för det långsiktiga förbättringsarbetet för de kommande
+1\. geografisk avgränsning,
+2\. verksamhetsplan,
+3\. budget inklusive avgiftsuttag,
+4\. plan för det långsiktiga förbättringsarbetet för de kommande
 fem verksamhetsåren inklusive preliminär kostnadsberäkning,
 
 44
@@ -3442,11 +3442,11 @@ fem verksamhetsåren inklusive preliminär kostnadsberäkning,
 
 SOU 2025:5                               Författningsförslag
 
-5. andelstal för fastighetsägarna och kriterierna för dessa,
-6. organisation,
+5\. andelstal för fastighetsägarna och kriterierna för dessa,
+6\. organisation,
 
-7. sammanställning över områdets fastighetsägare, och
-8. kartläggning av andra i området relevanta aktörer.
+7\. sammanställning över områdets fastighetsägare, och
+8\. kartläggning av andra i området relevanta aktörer.
 
 6 § Avgiftsuttag fördelas utifrån andelstal. Kommunens andelstal
 ska vara 51 procent. Andelstal hos fastighetsägarna ska syfta till att ge
@@ -3505,13 +3505,13 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 2 § Regeringen eller den kommun som regeringen bestämmer får
 meddela föreskrifter om
-1. särskilda krav på geografisk avgränsning,
-2. om att vissa fastigheter ska exkluderas från att betala avgift för
+1\. särskilda krav på geografisk avgränsning,
+2\. om att vissa fastigheter ska exkluderas från att betala avgift för
 
 områdessamverkan,
-3. formerna för samråd enligt 2 kap 4 § och 3 kap 4 §,
-4. formerna för omröstning enligt 2 kap 10 §, och
-5. avgifter för administration som uppstår vid tillämpningen av
+3\. formerna för samråd enligt 2 kap 4 § och 3 kap 4 §,
+4\. formerna för omröstning enligt 2 kap 10 §, och
+5\. avgifter för administration som uppstår vid tillämpningen av
 2 kap.
 
 Denna lag träder i kraft den 1 juni 2026.
@@ -4585,7 +4585,7 @@ ledningarna till att unga rekryteras. Lägesbilden visar även att ut-
 vecklingen av problemnivåerna i de i någon grad utsatta områdena
 uppvisar en relativt hög grad av stabilitet genom åren. År 2023
 hade det totala antalet utsatta områden minskat från 61 till 59 sedan
-2021. Det var fyra nya områden som tillkommit och sex områden
+2021\. Det var fyra nya områden som tillkommit och sex områden
 som inte längre bedömdes som utsatta.34
 Polisens lista har genererat effekter även utanför polisens arbete.
 Polisens lista får stor uppmärksamhet i media och i politiken. Det
@@ -5164,7 +5164,7 @@ helt eller delvis delegera tillsynsuppgifter till en annan kommun.6
 3 I budgetpropositionen för 2022 tillfördes kommunerna 109 miljoner kronor för denna
 uppgift. Från och med 2024 beräknas kommunerna ersättas med 219 miljoner kronor.
 Regeringen har i budgetpropositionen för 2023 förstärkt Brå med 42 miljoner kronor fr.o.m.
-2023. Vidare har regeringen i budgetpropositionen för 2022 förstärkt länsstyrelserna med
+2023\. Vidare har regeringen i budgetpropositionen för 2022 förstärkt länsstyrelserna med
 11 miljoner kronor 2023och fr.o.m. 2024 beräknas de tillföras 21 miljoner kronor. Därutöver
 har regeringen i budgetpropositionen för 2022 också avsatt medel som kommunerna ska
 kunna söka för vissa brottsförebyggande åtgärder. Det är 26 miljoner kronor 2023 och
@@ -6850,10 +6850,10 @@ brottsförebyggande arbetet och därför är engagerade i förebyggande
 
 6 Brå, Samverkan i lokalt brottsförebyggande arbete 2020, uppl. 3
 https://bra.se/download/18.7d27ebd916ea64de5306c174/1600934264560/2020_Samverkan_i
-_lokalt_brottsforebyggande_arbete.pdf.
+\_lokalt_brottsforebyggande_arbete.pdf.
 7 Brå, Tillsammans med näringslivet,
 https://bra.se/download/18.161d181f17db3c8d91d1780/1648471554354/2022_Tillsammans
-_med_naringslivet.pdf.
+\_med_naringslivet.pdf.
 123
 
 <!-- sida 160 -->
@@ -8088,10 +8088,10 @@ gångspunkt har varit dialog med de boende för att bygga upp en
 lägesbild och önskemål om förändringar. Fem utgångspunkter i
 samhällsplaneringen som är ett resultat av det evidensbaserade
 arbetet och dialogen med de boende är:
-1. Underlätta social interaktion genom att ta bort hinder/barriärer
+1\. Underlätta social interaktion genom att ta bort hinder/barriärer
 och stärka flöden och stråk mellan olika områden.
 
-2. Satsa på attraktiva grön/rekreationsområden.
+2\. Satsa på attraktiva grön/rekreationsområden.
 
 17 Möte med representanter för Kulturhuset Klossen i samband med utredningens studiebesök
 i Umeå, samt Studiefrämjandet, Cirkeln, Kulturhuset Klossen,
@@ -8103,10 +8103,10 @@ hämtad den 15 november 2024.
 
 SOU 2025:5                   Kartläggning av områdessamverkan i Sverige
 
-3. Tillse behovet av trygghet.
+3\. Tillse behovet av trygghet.
 
-4. Förbättra ryktet hos eftersatta stadsdelar.
-5. Skapa balans mellan sammanbindande och överbryggande
+4\. Förbättra ryktet hos eftersatta stadsdelar.
+5\. Skapa balans mellan sammanbindande och överbryggande
 sociala kapital.
 
 Staden har även en enklare form av EST-arbete som fokuserar på
@@ -8658,10 +8658,10 @@ störst också är de fem problem som respondenterna anser kan lösas
 med områdessamverkan. Kopplat till detta ombads respondenterna
 att rangordna fördelarna med områdessamverkan och resultatet blev
 följande:
-1. Trygghet.
+1\. Trygghet.
 
-2. Trivsel/gemenskap.
-3. Minskad brottslighet.
+2\. Trivsel/gemenskap.
+3\. Minskad brottslighet.
 
 Denna rangordning skiljer sig i huvudsak inte mellan olika grupper
 av respondenter.
@@ -8899,7 +8899,7 @@ dessa är narkotikahandel, nedskräpning och berusade och drog-
 påverkade personer utomhus. Dessa typer av ordningsstörningar
 har ökat under undersökningsperioden även om den sistnämnda
 kategorin upplevdes som ett mindre problem 2021 jämfört med
-2015. Narkotikahandel är den kategori som ökat mest, från som
+2015\. Narkotikahandel är den kategori som ökat mest, från som
 lägst elva procent 2008 till 33 procent 2021.
 En genomgång av brottsstatistiken mellan 2000 och 2015 visar,
 i likhet med de boendes upplevelse, att egendomsbrotten minskat
@@ -17441,11 +17441,11 @@ Författningskommentar                      SOU 2025:5
 
 4 § Ansökan om införande av avgift för områdessamverkan ska innehålla
 följande
-1. geografisk avgränsning enligt 5 §,
-2. verksamhetsplan enligt 6 §,
-3. budget enligt 7 §,
-4. andelstal för fastighetsägarna enligt 8 §, och
-5. organisation enligt 9 §.
+1\. geografisk avgränsning enligt 5 §,
+2\. verksamhetsplan enligt 6 §,
+3\. budget enligt 7 §,
+4\. andelstal för fastighetsägarna enligt 8 §, och
+5\. organisation enligt 9 §.
 Utöver ovanstående ska ansökan innehålla en sammanställning över
 områdets fastighetsägare samt en kartläggning av andra i området rele-
 vanta aktörer. Om det finns särskilda skäl får enskilda fastighetsägare
@@ -17723,16 +17723,16 @@ särskilt bedöma om
 
 Författningskommentar                      SOU 2025:5
 
-1. samverkansområdets geografiska avgränsning är sammanhängande
+1\. samverkansområdets geografiska avgränsning är sammanhängande
 och rimlig i förhållande till verksamhetens mål, genomförande och effektivitet,
-2. verksamhetsplanen är genomförbar och bidrar till ett långsiktigt för-
+2\. verksamhetsplanen är genomförbar och bidrar till ett långsiktigt för-
 bättringsarbete, enligt syftet i 1 kap 2 §, som kommer hela samverkans-
 området till nytta,
-3. budgeten ger en rättvisande bild av verksamhetsplanens kostnader,
-4. kriterierna för beräkning av andelstal ger en skälig fördelning av in-
+3\. budgeten ger en rättvisande bild av verksamhetsplanens kostnader,
+4\. kriterierna för beräkning av andelstal ger en skälig fördelning av in-
 flytande och kostnader samt att avgiften för varje enskild medlem inte är
 oskälig och
-5. att samråd skett med relevanta aktörer på ett ändamålsenligt sätt och
+5\. att samråd skett med relevanta aktörer på ett ändamålsenligt sätt och
 att de synpunkter som inkommit vid samrådet beaktats.
 Om kommunen bedömer att någon av ovanstående punkter inte är
 uppfyllda ska kommunen avslå ansökan. Kommunen får även lägga annan
@@ -17950,8 +17950,8 @@ till en korrekt begärd extra föreningsstämma kan Länsstyrelsen på
 ansökan från en medlem kalla till sådan stämma.
 
 16 § Årsstämman ska besluta om
-1. verksamhetsplan för det kommande verksamhetsåret,
-2. budget för det kommande verksamhetsåret,
+1\. verksamhetsplan för det kommande verksamhetsåret,
+2\. budget för det kommande verksamhetsåret,
 
 370
 
@@ -17959,11 +17959,11 @@ ansökan från en medlem kalla till sådan stämma.
 
 SOU 2025:5                             Författningskommentar
 
-3. avgiftsuttag för kommande verksamhetsåret,
-4. verksamhetsberättelse och årsredovisning för föregående verksam-
+3\. avgiftsuttag för kommande verksamhetsåret,
+4\. verksamhetsberättelse och årsredovisning för föregående verksam-
 hetsår,
-5. revisionsberättelse för föregående verksamhetsår, och
-6. styrelse för det kommande verksamhetsåret.
+5\. revisionsberättelse för föregående verksamhetsår, och
+6\. styrelse för det kommande verksamhetsåret.
 
 Vid beslut om avgiftsuttag enligt punkt 3 får avgiften för en enskild med-
 lem inte vara oskälig.
@@ -18238,9 +18238,9 @@ Beslut om att införa avgift för områdessamverkan
 3 § Kommunen får ta beslut om att införa en avgift för områdessamverkan
 för alla fastighetsägare inom samverkansområdet om det föreligger behov
 som identifierats utifrån
-1. lägesbilden enligt 4 § i lagen (2023:196) om kommuners ansvar för
+1\. lägesbilden enligt 4 § i lagen (2023:196) om kommuners ansvar för
 brottsförebyggande arbete, eller
-2. annan information av betydelse för syftet i 1 kap 2 §.
+2\. annan information av betydelse för syftet i 1 kap 2 §.
 Bestämmelsen reglerar under vilka förutsättningar som kommunen
 får införa en kommunal avgift för områdessamverkan. Förutsätt-
 
@@ -18312,12 +18312,12 @@ och hur och när den som vill lägga fram synpunkter kan göra detta.
 
 5 § Kommunens underlag till förslag om att införa en avgift för områdes-
 samverkan, som samrådet enligt 4 § avser, ska innehålla
-1. geografisk avgränsning,
-2. verksamhetsplan,
-3. budget inklusive avgiftsuttag,
-4. plan för det långsiktiga förbättringsarbetet för de kommande fem verk-
+1\. geografisk avgränsning,
+2\. verksamhetsplan,
+3\. budget inklusive avgiftsuttag,
+4\. plan för det långsiktiga förbättringsarbetet för de kommande fem verk-
 samhetsåren inklusive preliminär kostnadsberäkning,
-5. andelstal för fastighetsägarna och kriterierna för dessa,
+5\. andelstal för fastighetsägarna och kriterierna för dessa,
 
 378
 
@@ -18325,9 +18325,9 @@ samhetsåren inklusive preliminär kostnadsberäkning,
 
 SOU 2025:5                             Författningskommentar
 
-6. organisation,
-7. sammanställning över områdets fastighetsägare, och
-8. kartläggning av andra i området relevanta aktörer.
+6\. organisation,
+7\. sammanställning över områdets fastighetsägare, och
+8\. kartläggning av andra i området relevanta aktörer.
 
 Paragrafen reglerar vilket underlag kommunen ska ta fram för att
 kunna ta beslut om att införa en kommunal avgift för områdes-
@@ -18564,12 +18564,12 @@ eningar att beslut av föreningens stämma överklagas till allmän
 domstol.
 2 § Regeringen eller den kommun som regeringen bestämmer får med-
 dela föreskrifter om
-1. särskilda krav på geografisk avgränsning,
-2. om att vissa fastigheter ska exkluderas från att betala avgift för om-
+1\. särskilda krav på geografisk avgränsning,
+2\. om att vissa fastigheter ska exkluderas från att betala avgift för om-
 rådessamverkan,
-3. formerna för samråd enligt 2 kap 4 § och 3 kap 4 §,
-4. formerna för omröstning enligt 2 kap 10 §, och
-5. avgifter för administration som uppstår vid tillämpningen av 2 kap.
+3\. formerna för samråd enligt 2 kap 4 § och 3 kap 4 §,
+4\. formerna för omröstning enligt 2 kap 10 §, och
+5\. avgifter för administration som uppstår vid tillämpningen av 2 kap.
 Paragrafen reglerar bemyndiganden till regeringen eller till kom-
 mun som regeringen bestämmer att meddela vissa föreskrifter.
 Vad avser krav på geografisk avgränsning ges möjlighet att ställa
@@ -18859,7 +18859,7 @@ Ahlzén K., Miljonprogrammet, 2024,
 Komm2024/00479/LI 2023:05–3.
 Barnafrid – nationellt centrum för kunskap om våld mot barn
 https://liu.se/forskning/barnafrid, hämtad den 2 december
-2024.
+2024\.
 Bretzer, Gamlestaden 2021 – En medborgarundersökning i
 Gamlestaden, Göteborg, Förvaltningshögskolans rapporter
 nummer 165.
@@ -19056,7 +19056,7 @@ Wikström P-O H., När brott blir ett acceptabelt handlingsalternativ,
 
 https://stockholmshandelskammare.se/wp-
 content/uploads/2023/04/230410nar_brott_blir_ett_acceptabel
-_handlingsalternativ_lasversion.pdf, hämtad 15 november 2024.
+\_handlingsalternativ_lasversion.pdf, hämtad 15 november 2024.
 Åhman, K, Egendomsskyddet, Iustus förlag, 2000.
 Åhman, K, Äganderätten i konflikt med andra skyddsvärda rättig-
 heter eller intressen, I: Åhman, k (red), Äganderätten – dess
@@ -19513,20 +19513,20 @@ I rapporten kartlägger vi litteraturen kring tvingande lagstiftning kring
 Business Improvement Districts (BID) i relevanta och med Sverige
 jämförbara länder i Europa, närmare bestämt Storbritannien, Irland,
 Tyskland, Holland samt Spanien. Fokus ligger på tre huvudsakliga frågor:
-1. I vilken utsträckning och för vilka aktörer är platssamverkan frivillig
+1\. I vilken utsträckning och för vilka aktörer är platssamverkan frivillig
 respektive tvingande? Vi finner att tvånget praktiskt taget alltid tar formen
 av en skatt eller avgift som åläggs antingen fastighetsägare, näringsidkare,
 eller båda. Medan det vanligaste i den amerikanska modellen är att
 fastighetsägare betalar är det i Europa synnerligen vanligt att
 näringsidkarna är med och betalar, eller till och med är de enda som betalar.
-2. Hur inträder en obligatorisk samverkan (dvs. är det någon annan som
+2\. Hur inträder en obligatorisk samverkan (dvs. är det någon annan som
 initierar det eller sker det per automatik)? Vi konstaterar att upprättandet
 av europeiska BIDs brukar ta formen av en tvåstegsprocess. I det första
 steget kan vissa aktörer initiera en omröstning om huruvida en ett specifikt
 BID-förslag ska införas. Därefter genomförs en omröstning för att godkänna
 BIDen, men trösklarna som måste nås för att utfallet ska bli positivt varierar
 mellan olika länder.
-3. Vad innebär ett eventuellt tvång för de ingående aktörerna, hur
+3\. Vad innebär ett eventuellt tvång för de ingående aktörerna, hur
 finansieras obligatorisk samverkan, och hur säkerställer man i så fall att
 reglerna efterlevs? Vi finner att tvånget i första hand helt enkelt innebär att
 de relevanta privata aktörerna måste betala en extra avgift eller skatt, vilken
@@ -20621,26 +20621,26 @@ Appendix
 Tabell 1. Länder med nationell eller regional BID-lagstiftning.
 Land           År
 
-1. Kanada        1970
-2. USA           1974
+1\. Kanada        1970
+2\. USA           1974
 
-3. Nya Zeeland   1981
-4. Sydafrika     1997
+3\. Nya Zeeland   1981
+4\. Sydafrika     1997
 
-5. England       2003
-6. Wales         2003
+5\. England       2003
+6\. Wales         2003
 
-7. Tyskland      2005
-8. Skottland     2006
+7\. Tyskland      2005
+8\. Skottland     2006
 
-9. Nordirland    2013/2014
-10. Holland      2009/2015
+9\. Nordirland    2013/2014
+10\. Holland      2009/2015
 
-11. Chile        2014
-12. Japan        2018
+11\. Chile        2014
+12\. Japan        2018
 
-13. Albanien     2020
-14. Spanien      2020/2023
+13\. Albanien     2020
+14\. Spanien      2020/2023
 
 2 7
 
@@ -20716,13 +20716,13 @@ områdessamverkan likt BID kan leda till en minskad brottslighet och ökad trygg
 SOU 2025:5                                    Bilaga 3
 
 Innehållsförteckning
-1. Inledning ..................................................................................................................... 5
+1\. Inledning ..................................................................................................................... 5
 1.1 Definitioner ............................................................................................................ 6
 1.1.1 Områdessamverkan och samverkansområde ................................................. 6
 1.1.2 Brottslighet och ordningsstörningar .............................................................. 6
 1.1.3 (O)trygghet och säkerhet ................................................................................ 7
 1.1.4 Brottsförebyggande respektive trygghetsskapande arbete ............................ 8
-2. Områdessamverkans påverkan på brottslighet, säkerhet och (o)trygghet................ 9
+2\. Områdessamverkans påverkan på brottslighet, säkerhet och (o)trygghet................ 9
 2.1 Vad är ett BID? ...................................................................................................... 9
 2.2 Vilka delar av brottslighet, säkerhet och (o)trygghet kan en områdessamverkan
 påverka? .................................................................................................................... 10
@@ -20738,7 +20738,7 @@ påverka? ......................................................................
 och BIDs specifikt ..................................................................................................... 18
 2.6 Sammanfattning: Områdessamverkans påverkan på trygghet, säkerhet och
 brottslighet .................................................................................................................19
-3. Områdessamverkan och kostnadseffektivitet i relation till trygghet, säkerhet och
+3\. Områdessamverkan och kostnadseffektivitet i relation till trygghet, säkerhet och
 brottslighet ..................................................................................................................... 21
 3.1 Brottslighetens kostnader .................................................................................... 21
 3.2 Kostnadseffektivitet av brottsförebyggande åtgärder generellt och BIDs
@@ -20757,15 +20757,15 @@ kostnadseffektiva ..............................................................
 
 Bilaga 3                                    SOU 2025:5
 
-4. Negativa och/eller oförutsedda konsekvenser av områdessamverkan i relation till
+4\. Negativa och/eller oförutsedda konsekvenser av områdessamverkan i relation till
 trygghet, säkerhet och brottslighet ............................................................................... 26
 4.1 Spatial omfördelning av brott och ordningsstörningar ...................................... 26
 4.1.1 Omfördelning respektive spridningseffekter av BIDs .................................. 27
 4.2 Demokratiska processer, gentrifiering och BIDs ............................................... 28
 4.3 Reflektion kring andra oförutsedda/negativa konsekvenser ............................. 29
 4.4 Sammanfattning: Konsekvenser av områdessamverkan ................................... 30
-5. Slutsatser ................................................................................................................... 32
-6. Referenser ................................................................................................................. 35
+5\. Slutsatser ................................................................................................................... 32
+6\. Referenser ................................................................................................................. 35
 
 4
 
@@ -20775,18 +20775,18 @@ trygghet, säkerhet och brottslighet ...........................................
 
 SOU 2025:5                                    Bilaga 3
 
-1. Inledning
+1\. Inledning
 Denna rapport är skriven på uppdrag av statens offentliga utredning ”Åtgärder för stärkt
 trygghet i offentlig miljö” (Li2023:05). Syftet med rapporten är att utifrån internationell
 forskning och mot bakgrund i erfarenheter från följeforskning av Fastighetsägare BID
 Sofielunds arbete i Malmö, besvara ett antal frågeställningar kopplat till trygghet, säkerhet
 och brottslighet från ett kriminologiskt perspektiv. Uppdraget består av följande tre
 frågeställningar:
-1. I vilka delar och i vilken utsträckning kan områdessamverkan ha en påverkan på
+1\. I vilka delar och i vilken utsträckning kan områdessamverkan ha en påverkan på
 trygghet, säkerhet och brottslighet?
-2. I vilken utsträckning är områdessamverkan kostnadseffektivt i relation till trygghet,
+2\. I vilken utsträckning är områdessamverkan kostnadseffektivt i relation till trygghet,
 säkerhet och brottslighet?
-3. Vilka negativa och/eller oförutsedda konsekvenser kan en områdessamverkan ha i
+3\. Vilka negativa och/eller oförutsedda konsekvenser kan en områdessamverkan ha i
 relation till trygghet, säkerhet och brottslighet?
 Rapporten är disponerad i fem övergripande kapitel där det första i huvudsak behandlar
 definitioner av ett par för rapporten centrala begrepp.
@@ -20948,7 +20948,7 @@ brottslighet.
 
 SOU 2025:5                                    Bilaga 3
 
-2. Områdessamverkans påverkan på
+2\. Områdessamverkans påverkan på
 brottslighet, säkerhet och (o)trygghet
 
 Denna del av rapporten behandlar uppdragets första frågeställning som å ena sidan kretsar
@@ -21015,11 +21015,11 @@ mottot ”rent och tryggt” (eng. clean and safe; se Hoyt, 2005). Tanken är at
 rent och snyggt även är tryggt och säkert. Mot denna bakgrund visar en genomgång av
 litteraturen att BIDs ofta finansierar åtgärder kopplat till tre huvudsakliga områden (se
 Kronkvist & Ivert, 2020):
-1. Åtgärder/förbättringar i den fysiska miljön (t.ex. belysning, planteringar,
+1\. Åtgärder/förbättringar i den fysiska miljön (t.ex. belysning, planteringar,
 gatumöblemang, m.m.).
-2. Utökad renhållning av offentliga miljöer (utökad städning, gemensam klottersanering,
+2\. Utökad renhållning av offentliga miljöer (utökad städning, gemensam klottersanering,
 m.m.).
-3. Ökad säkerhet (skalskydd, väktarrondering, kamerabevakning, m.m.).3
+3\. Ökad säkerhet (skalskydd, väktarrondering, kamerabevakning, m.m.).3
 Både mottot ”rent och tryggt” samt de återkommande åtgärder som genomförs inom ramen
 för BIDs brukar ofta kopplas till Wilson och Kellings (1982) teori om broken windows. Denna
 teoretiska ansats brukar i sin tur användas för att förklara varför vissa (bostads)områden har
@@ -21306,7 +21306,7 @@ för specifika personer i sina bostadsområden antingen legat på en stabil niv�
 med ökat något, i andra delar av Malmö. Alltså en trend som inte går att skönja i
 Sofielundsområdena. I praktiken innebär detta att andelen som uppger otrygghet i relation till
 5 Undersökningen har inte genomförts på årlig eller regelbunden basis utan 2001, 2003, 2005, 2008, 2015 och
-2021.
+2021\.
 16
 
 450
@@ -21470,7 +21470,7 @@ work to reduce crime would contribute to the field of public safety research”.
 
 SOU 2025:5                                    Bilaga 3
 
-3. Områdessamverkan och
+3\. Områdessamverkan och
 kostnadseffektivitet i relation till trygghet,
 säkerhet och brottslighet
 
@@ -21486,9 +21486,9 @@ kunna genomföra kostnadsnyttoanalyser för att på så sätt kunna avgöra huru
 fortsätta finansieras eller inte.
 Generellt sett kan sägas att brottslighetens kostnader kan delas upp i tre breda kategorier (se
 Brottsförebyggande rådet, 2017).
-1. Kostnader som gärningspersoner åsamkar offer, anhöriga och lokalsamhället.
-2. Kostnader som samhället lägger på förebyggande och kontroll av brottslighet.
-3. Kostnader för samhället då gärningspersoner inte ägnar sig åt ”legitima aktiviteter”.
+1\. Kostnader som gärningspersoner åsamkar offer, anhöriga och lokalsamhället.
+2\. Kostnader som samhället lägger på förebyggande och kontroll av brottslighet.
+3\. Kostnader för samhället då gärningspersoner inte ägnar sig åt ”legitima aktiviteter”.
 Vanligtvis fokuserar kostnadsnyttoanalyser på det förstnämnda, nämligen den ekonomiska
 skada gärningspersoner åsamkar offer, anhöriga och/eller (lokal)samhället i stort. Dessa
 kostnader delas i sin tur vanligtvis in två breda kategorier, nämligen materiella (eng. tangible)
@@ -21695,7 +21695,7 @@ ett högt kostnads-nyttoförhållande (Welsh m.fl. 2015, s. 480).
 
 Bilaga 3                                    SOU 2025:5
 
-4. Negativa och/eller oförutsedda
+4\. Negativa och/eller oförutsedda
 konsekvenser av områdessamverkan i
 relation till trygghet, säkerhet och
 
@@ -21949,7 +21949,7 @@ uppnå eventuellt långsiktiga resultat.
 
 Bilaga 3                                    SOU 2025:5
 
-5. Slutsatser
+5\. Slutsatser
 Syftet med denna rapport har varit att utifrån internationell forskning och mot bakgrund i
 erfarenheter från följeforskning av Fastighetsägare BID Sofielunds arbete i Malmö, besvara
 tre frågeställningar från ett kriminologiskt perspektiv. I denna avslutande del ges ett antal
@@ -22077,7 +22077,7 @@ grunder motivera huruvida en åtgärd bör fortsätta, förändras eller rent av
 
 SOU 2025:5                                    Bilaga 3
 
-6. Referenser
+6\. Referenser
 Brå (2016). Kriminella nätverk och grupperingar. Polisers bild av maktstrukturer och
 marknader. Rapport 2016:12. Stockholm: Brottsförebyggande rådet.
 Brottsförebyggande rådet (2017). Kostnader för brott: En litteraturöversikt över metoder,
@@ -22089,10 +22089,10 @@ Bursik, R. J. Jr, & Grasmick, H. G. (1993). Neighborhoods and Crime: The Dimensi
 Effective Community Control. Lanham, MD: Lexington Books.
 Brooks, L. (2008). Volunteering to be Taxed: Business Improvement Districts and the Extra-
 Governmental Provision of Public Safety. Journal of Public Economics, 92(1–2): 388–
-406.
+406\.
 Clutter, J. E., Henderson, S., & Haberman, C. P. (2019). The impact of business improvement
 district proximity on street block robbery counts. Crime & Delinquency, 65(8), 1050-
-1075.
+1075\.
 Cook, P. J., & MacDonald, J. (2011). Public safety through private action: an economic
 assessment of BIDS. The Economic Journal, 121(552), 445-462.
 Daunfeldt, S. O., Mihaescu, O., & Rudholm, N. (2024). Effects of business improvement
@@ -22199,7 +22199,7 @@ Trygghetskommissionens förslag på hur säkerhet och trygghet ska kunna öka i
 människors vardag. Okänd förlagsort.
 Valli, C., & Hammami, F. (2021). Introducing business improvement districts (BIDs) in
 Sweden: A social justice appraisal. European Urban and Regional Studies, 28(2), 155-
-172.
+172\.
 Valli, C., Olesen, K., & Parker, P. (2024). Solutions in search of a problem: Opening policy
 windows for Business Improvement Districts in the Nordic countries. Environment and
 Planning C: Politics and Space, 23996544241226807.
@@ -22258,12 +22258,12 @@ Bilaga 4                                    SOU 2025:5
 
 Innehållsförteckning
 
-1. Inledning.................................................................................................3
+1\. Inledning.................................................................................................3
 1.1. BAKGRUND.....................................................................................................................................3
 1.2. GOVERNOS UPPDRAG..................................................................................................................3
 1.3. GENOMFÖRANDE, SVARSFREKVENS MED MERA........................................................................3
 1.4. DISPOSITION....................................................................................................................................4
-2. Enkätens resultat....................................................................................5
+2\. Enkätens resultat....................................................................................5
 2.1. VILKA ÄR RESPONDENTERNA?......................................................................................................5
 2.2. UPPLEVELSE AV OTRYGGHET.........................................................................................................7
 2.3. ALLMÄN SYN PÅ PLATSSAMVERKAN...........................................................................................11
@@ -22279,7 +22279,7 @@ Enkätundersökningom platssamverkan, Sammanställningoch analys av resultat 2(2
 
 SOU 2025:5                                    Bilaga 4
 
-1.   Inledning
+1\.   Inledning
 
 1.1. Bakgrund
 Utredningen om åtgärder för stärkt trygghet i den byggda miljön (Li2023:05)har enligt
@@ -22353,7 +22353,7 @@ Enkätundersökningom platssamverkan, Sammanställningoch analys av resultat 4(2
 
 SOU 2025:5                                    Bilaga 4
 
-2.   Enkätens  resultat
+2\.   Enkätens  resultat
 
 2.1. Vilka är respondenterna?
 Som nämndes i inledningen inkom totalt 694 svar av sådan kvalitet att de har kunnat
@@ -22659,14 +22659,14 @@ kommunen.
 I enkäten ombads respondenterna även att rangordna ett antal tänkbara fördelar
 med platssamverkan–från störst värde för den egna organisationen till lägst. Denna
 rangordning gav följande utfall, från viktigasttill minstviktigt:
-1) Trygghet
-2) Trivsel/gemenskap
-3) Minskad brottslighet
-4) Ökad omsättning/minskade kostnader
-5) Ökat värde på fastighet/verksamhet
-6) Besöksmängd/besöksmångfald
-7) Goodwill
-8) Annat (i det anslutande öppna svarsalternativet nämndes som ”annat”till exempel
+1\) Trygghet
+2\) Trivsel/gemenskap
+3\) Minskad brottslighet
+4\) Ökad omsättning/minskade kostnader
+5\) Ökat värde på fastighet/verksamhet
+6\) Besöksmängd/besöksmångfald
+7\) Goodwill
+8\) Annat (i det anslutande öppna svarsalternativet nämndes som ”annat”till exempel
 bättre förutsättningar för integration, för barn och unga, för meningsfull fritid, bred-
 dat lokalt kulturlivoch ökade möjligheter tillgrön omställning).
 Rangordningen skilde sig i huvudsak inte mellan respondenter från olika grupper. Det
@@ -23392,17 +23392,17 @@ Statens offentliga utredningar  2025
 
 Kronologisk förteckning
 
-1. Skärpta krav för svenskt medborgar-
+1\. Skärpta krav för svenskt medborgar-
 skap. Ju.
-2. Några frågor om grundläggande
+2\. Några frågor om grundläggande
 fri- och rättigheter. Ju.
-3. Skatteincitament för forskning
+3\. Skatteincitament för forskning
 och utveckling. En översyn av
 FoU-avdraget och expertskatte-
 reglerna. Fi.
-4. Moderna och enklare skatteregler
+4\. Moderna och enklare skatteregler
 för arbetslivet. Fi.
-5. Avgift för områdessamverkan
+5\. Avgift för områdessamverkan
 – och andra åtgärder för trygghet
 i byggd miljö. LI.
 
@@ -23453,9 +23453,9 @@ Kommunstyrelsen remitterar Kungsbackas priser, kartläggning av priser, daterad 
 nämnden för Miljö & Hälsoskydd, nämnden för Förskola & Grundskola, nämnden för Gymnasium &
 Arbetsmarknad, nämnden för Individ & Familjeomsorg, nämnden för Kultur & Fritid, nämnden för
 Service, nämnden för Teknik och nämnden för Vård & Omsorg för yttrande över förslaget att:
--  Se över både interna och externa priser för att skapa tydlighet och effektivitet
+\-  Se över både interna och externa priser för att skapa tydlighet och effektivitet
 
--  Samla interna utmärkelser och priser rörande medarbetare och ledare till Medarbetardagen
+\-  Samla interna utmärkelser och priser rörande medarbetare och ledare till Medarbetardagen
 respektive ledardagen
 
 De förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv inte längre delas ut i
@@ -23776,7 +23776,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -23784,10 +23784,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -23798,10 +23798,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -23860,7 +23860,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 557-1](handlingar.tabeller/557-1.csv)
 
@@ -23869,7 +23869,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 558 -->
@@ -23999,9 +23999,9 @@ Carita Boulwén (SD) yrkar att det ska finnas ytterligare alternativ till använ
 priset och att pristagaren/pristagarna ska få möjlighet att välja mellan förslag enligt
 nedan alternativ.
 
-1. Kompetensutveckling/kunskapsfördjupning (enligt IF förvaltnings förslag)
-2. Utbetalt som bonus/lön (med avdrag för skatt och avgifter)
-3. Utbetalt som tjänstepension
+1\. Kompetensutveckling/kunskapsfördjupning (enligt IF förvaltnings förslag)
+2\. Utbetalt som bonus/lön (med avdrag för skatt och avgifter)
+3\. Utbetalt som tjänstepension
 Niklas Mattsson (KD) yrkar att ärendet ska återremitteras till kommunstyrelsen för
 att utreda hur prispengarna bättre kan komma pristagarna till del.
 
@@ -24285,7 +24285,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 567 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 Självständigt liv-priset delas ut till en enskild medarbetare eller en grupp av medarbetare som genom sitt
 engagemang och nytänkande systematiskt förbättrat förutsättningarna att skapa en bra verksamhet för de vi
@@ -24299,18 +24299,18 @@ för enskilda medborgare.
 Medarbetare eller en grupp av medarbetare som kan motta priset ska vara anställda inom Individ &
 Familjeomsorg i Kungsbacka kommun.
 
-2. Nomineringsprocess
+2\. Nomineringsprocess
 Brukare, anhöriga, personal och övriga kommunmedborgare kan ge förslag på mottagare av det årliga
 Självständigt liv-priset.
 
 Förslaget ska innehålla följande:
 
-- Vem eller vilka som föreslås att få priset
-- Motivering av förslaget
-- Vem eller vilka har gett förslaget
+\- Vem eller vilka som föreslås att få priset
+\- Motivering av förslaget
+\- Vem eller vilka har gett förslaget
 Information om inlämning av förslag framgår på kommunens hemsida.
 
-3. Bedömningsförfarande
+3\. Bedömningsförfarande
 
 Bedömning och utvärdering av inkomna förslag görs av förvaltningens ledningsgrupp.
 Förslag till pristagare tas fram av en jury bestående av representanter från respektive verksamhetsområde
@@ -24321,7 +24321,7 @@ Förslaget till pristagare tillställs nämnden för Individ & Familjeomsorg, so
 Kommunfullmäktige delar ut priset vid ett av sina sammanträden. Priset består av ett diplom och
 prissumma om 10 000 kronor.
 
-4. Övriga riktlinjer
+4\. Övriga riktlinjer
 Priset, motsvarande 10 000 kr, ska användas för kompetensutveckling för pristagaren/pristagarna som har
 anknytning till verksamheten och som kommer denna till gagn. Det kan vara utbildning, föreläsning,
 studiebesök eller liknande. Vilken typ av kompetensutveckling som har anknytning till och gagnar
@@ -24361,7 +24361,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (27)
 
 Nämnden för Individ & Familjeomsorg Datum
 2019-11-14
-$ 153
+\$ 153
 Förslag till inrättande av pris inom Individ & Familjeomsorg
 Dur IF/2019:139
 
@@ -24409,7 +24409,7 @@ Individ & Familjeomsorgs befintliga budgetram.
 
 Bilaga: Riktlinjer för Tänka Nytt-priset.
 
-Se nämndens beslut, NIF 2019-10-17, $ 108. Nämnden för Individ & Familjeomsorg
+Se nämndens beslut, NIF 2019-10-17, \$ 108. Nämnden för Individ & Familjeomsorg
 
 beslutar att återremittera ärendet för att utreda hur användandet av priset kan vidgas
 samt de ekonomiska konsekvenserna detta skulle innebära.
@@ -24425,9 +24425,9 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (27)
 
 Nämnden för Individ & Familjeomsorg Datum
 2019-11-14
-forts. $ 153
+forts. \$ 153
 
-Se nämndens beslut, NIF 2019-05-23, $ 72. Nämnden för Individ & Familjeomsorg
+Se nämndens beslut, NIF 2019-05-23, \$ 72. Nämnden för Individ & Familjeomsorg
 noterar informationen till protokollet.
 
 Förslag till beslut på sammanträdet
@@ -24443,12 +24443,12 @@ Vi i Sverigedemokraterna yrkar på ATT det ska finnas ytterligare alternativ til
 användning av priset och att pristagaren/pristagarna ska få möjlighet att välja mellan
 förslag enligt nedan alternativ.
 
-1. Kompetensutveckling/kunskapsfördjupning ( enligt förvaltningens förslag)
-2. Utbetalt som bonus/lön (med avdrag för skatt och avgifter)
+1\. Kompetensutveckling/kunskapsfördjupning ( enligt förvaltningens förslag)
+2\. Utbetalt som bonus/lön (med avdrag för skatt och avgifter)
 
-3. Utbetalt som tjänstepension
+3\. Utbetalt som tjänstepension
 
-4. Möjlighet att skänka pengarna till välgörande ändamål
+4\. Möjlighet att skänka pengarna till välgörande ändamål
 
 Elin Hysén (L) yrkar följande: Yrkande för ökad möjlighet att pristagaren/
 pristagarna att använda pengarna friare till utveckling inom verksamheten.
@@ -24797,7 +24797,7 @@ IF/2019:139
 
 Riktlinjer för Tänka Nytt-priset inom Individ & Familjeomsorg i Kungsbacka kommun
 
-1.
+1\.
 Tänka Nytt-priset delas ut till en enskild medarbetare eller en grupp av medarbetare som genom sitt
 engagemang och nytänkande systematiskt förbättrat förutsättningarna att skapa en bra verksamhet för de vi
 är till för och utvecklat arbetet på sin arbetsplats. Detta har i sin tur ökat tryggheten, välbefinnandet och
@@ -24811,18 +24811,18 @@ enskilda medborgare.
 Medarbetare eller en grupp av medarbetare som kan motta priset skall vara anställda inom Individ &
 Familjeomsorg i Kungsbacka kommun.
 
-2.
+2\.
 Brukare, anhöriga, personal och övriga kommunmedborgare kan ge förslag på mottagare av det årliga Tänka
 Nytt-priset.
 
 Förslaget ska innehålla följande:
--  Vem eller vilka som föreslås att få priset
--  Motivering av förslaget
--  Vem eller vilka har gett förslaget
+\-  Vem eller vilka som föreslås att få priset
+\-  Motivering av förslaget
+\-  Vem eller vilka har gett förslaget
 
 Information om inlämning av förslag framgår på kommunens hemsida
 
-3.
+3\.
 Bedömning och utvärdering av inkomna förslag görs av förvaltningens ledningsgrupp.
 
 Förslag till pristagare tas fram av en jury bestående av representanter från respektive verksamhetsområde på
@@ -24832,7 +24832,7 @@ samverkan med.
 Förslaget till pristagare tillställs nämnden för Individ & Familjeomsorg, som utser pristagare
 Kommunfullmäktige delar ut priset vid ett av sina sammanträden. Priset består av ett diplom och prissumma
 om 15 000 kronor.
-4.
+4\.
 Priset, motsvarande 15 000 kr, ska användas till kompetensutveckling för pristagaren/ pristagarna, t.ex.
 utbildning, föreläsning, studiebesök eller liknande.
 
@@ -24925,10 +24925,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
 
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
@@ -25533,29 +25533,29 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 5
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 5
 
-2. Råd & stöd .......................................................................................................................................................... 8
+2\. Råd & stöd .......................................................................................................................................................... 8
 
 2.1 Utbildning ..................................................................................................................................................... 8
 2.2 Råd & rekommendationer ......................................................................................................................... 8
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 19
+3\. Granskning ....................................................................................................................................................... 19
 3.1 Riktad granskning ...................................................................................................................................... 19
 3.2 Regelbunden granskning ......................................................................................................................... 19
 3.3 Fördjupad granskning .............................................................................................................................. 23
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..24
 
-4. Omvärld............................................................................................................................................................. 26
+4\. Omvärld............................................................................................................................................................. 26
 4.1 Fokus på AI ................................................................................................................................................ 26
 
-5. Kommande år ..................................................................................................................................... 27
+5\. Kommande år ..................................................................................................................................... 27
 
 5.1 Inriktning året 2025 .................................................................................................................................. 27
 5.2 Plan för granskning .................................................................................................................................. 27
@@ -25564,7 +25564,7 @@ Innehåll
 
 <!-- sida 597 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -25691,7 +25691,7 @@ ytterst till att vårda och bevara demokratin.
 
 <!-- sida 600 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -26150,7 +26150,7 @@ Mölndal, Jönköping, Karlstad och Örebro – utöver kommunerna i Halland.
 
 <!-- sida 611 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -26382,7 +26382,7 @@ kommunen ser vikten av att skydda deras personuppgifter.
 För att öka kunskapen om skydd mot obehörig åtkomst och systematisk kvalitetssäkring kommer
 jag arrangera erfarenhetsutbyten och fördjupande utbildningar på respektive område under våren
 
-2025. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
+2025\. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
 av metoder och arbetssätt för att få rutin på arbetet.
 
 3.2.4 Övrigt
@@ -26518,7 +26518,7 @@ för utbildning.
 
 <!-- sida 618 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fokus på AI
 
@@ -26550,7 +26550,7 @@ hur Sverige kan främja en ansvarsfull och innovativ utveckling av AI. 26
 
 <!-- sida 619 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2025
 

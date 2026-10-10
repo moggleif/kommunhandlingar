@@ -524,7 +524,7 @@ februari 2023 med cirka 2,5 %.
 
 Höga kostnader för livsmedel kvarstår och det är svårt att veta hur trenden kommer att se ut framöver.
 Måltids stora arbete med att balansera verksamhetens kostnader utifrån leveranser i uppdraget har pågått under
-2023. Från februari 2024 är måltiders ledningsorganisation anpassad efter uppdrag och kostnader.
+2023\. Från februari 2024 är måltiders ledningsorganisation anpassad efter uppdrag och kostnader.
 Verksamheten är nu indelad i åtta områden med en ansvarig enhetschef per område. Rollen restaurangchef är
 borttagen. Vi har dessutom förändrat två tillagningskök till mottagningskök för att minska kostnaderna.
 Verksamhetens digitalisering sätts i fokus genom utvecklingsinitiativ som bedrivs med interna resurser
@@ -734,17 +734,17 @@ apriluppföljning, delårsrapport och årsredovisning.
 Nyckeltal                Jan        Feb       Mars    Kommentar
 
 Partnerskapsgrad
-- Antal utvecklingsinitiativ och
+\- Antal utvecklingsinitiativ och
 6       .
 samarbetsprojekt som har genomförts
 med direkt nytta för våra partners.
 Partnerskapsgrad
-- Andel idéer eller innovativa lösningar
+\- Andel idéer eller innovativa lösningar
 1
 som har utvecklats
 tillsammans med partners.
 Partnerskapskvalitet
-- Upplevelse av nöjdhet i                     84%
+\- Upplevelse av nöjdhet i                     84%
 partnerskapet.
 Partnerskapsgrad
 Partnerskapsgrad är ett mått på hur många av våra utvecklingsinitiativ och samarbetsprojekt som har genomförts
@@ -782,7 +782,7 @@ Personalkostnad dividerat
 med förvaltad (egen och
 Fastigheter, R12
 inhyrd) kvm yta de senaste
-- Personalkostnad per 10,9 kr/kvm 10,9 kr/kvm 11 kr/kvm
+\- Personalkostnad per 10,9 kr/kvm 10,9 kr/kvm 11 kr/kvm
 12 månaderna. Små
 kvadratmeter (kvm)
 förändringar det första
@@ -790,13 +790,13 @@ kvartalet.
 Den korta mätserien
 Måltider, R12
 indikerar att verksamheten
-- Personalkostnadens       58,5%       58,3%
+\- Personalkostnadens       58,5%       58,3%
 rör sig i rätt riktning
 andel av omsättningen
 avseende nyckeltalet.
 Mer frånvaro i februari än
 Lokalvård, månadsvärde                          en normalmånad gav
-- Personalkostnad per 18,6 kr/kvm 18,2 kr/kvm 18,7 kr/kvm tillfälligt en lägre kostnad
+\- Personalkostnad per 18,6 kr/kvm 18,2 kr/kvm 18,7 kr/kvm tillfälligt en lägre kostnad
 kvadratmeter (kvm)                              per kvm vilket är vanligt för
 den månaden.
 Teamet har de senaste två
@@ -1028,7 +1028,7 @@ nyinstallerad effekt solceller.
 årets slut 4054kW).
 Solcellsproduktion
 3 754kw     3 754kw     3 754kw Totalt mål 2024-2027 är 1200
-- Installerad effekt
+\- Installerad effekt
 kW nyinstallerad effekt
 solceller. Plan för att nå
 årliga målet är framtaget och

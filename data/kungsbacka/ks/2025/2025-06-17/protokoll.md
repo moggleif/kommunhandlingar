@@ -599,7 +599,7 @@ träning har tidigare identifierats av nämnden för Kultur & Fritid och har sin
 i kommunens befolkningsökning, vilket har lett till att befintliga anläggningar inte
 längre räcker till. Behovet finns i nämndens fastställda lokalbehov för perioden
 2025–2029 samt i lokalplanen i kommunbudget 2025, plan 2026–2027, löpnummer
-145.
+145\.
 
 Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalisering av
 ny isyta i kommunen. Utredningen har varit avgränsad till de frågor som är
@@ -704,7 +704,7 @@ att betrakta som liten.
 
 Fastigheten är belägen utmed Sjöstigen i Kullavik. Fastigheten är ungefär 1 000
 kvadratmeter. Fastigheten ingår i detaljplan S80 som fick laga kraft den 17 februari
-1972. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för
+1972\. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för
 bostadsändamål.
 
 Enligt kommunens översiktsplan, ingår det aktuella området i utvecklingsorten
@@ -1418,19 +1418,19 @@ Taxa för sotning och rengöring samt frister för sotning och rengöring
 2026
 
 Beslut – Förslag till kommunfullmäktige
-1. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1,
+1\. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1,
 med stöd av 3 kap. 6 § lag om skydd mot olyckor
 
-2. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2,
+2\. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2,
 med stöd av 3 kap. 1 § förordning om skydd mot olyckor
-4. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
+4\. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
 Kungsbacka kommun, med den justering som sker enligt beslutspunkt 8.
 
-6. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
+6\. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
 Kungsbacka kommun.
 
-7. Taxans basår är 2024.
-8. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i
+7\. Taxans basår är 2024.
+8\. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i
 beslutspunkt 1 enligt följande. Taxan revideras årligen enligt Sotningsindex den 1
 april 2025 och 1 april 2026. Från och med den 1 januari 2027 ska taxan justeras i
 enlighet med Prisindex för Kommunal Verksamhet (PKV), som meddelas av
@@ -1477,10 +1477,10 @@ Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille upplevs enkel och
 tydlig i sin konstruktion. Taxans konstruktion lämnas därmed oförändrad.
 
 Sveriges Kommuner och Regioner (SKR) har meddelat att sotningsindex upphör år
-2029. Rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
+2029\. Rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
 (PKV) används för justering av sotningstaxor. Räddningstjänstförbundet
 Storgöteborg väljer därmed att tillämpa indexjustering enligt PKV, från och med
-2027.
+2027\.
 Aktuellt ärende innebär vidare att beslut om frister för sotning och rengöring ska
 fattas av Räddningstjänstförbundet Storgöteborgs medlemskommuner. Kommunen
 
@@ -1611,7 +1611,7 @@ Sverigedemokraterna och Kungsbackaborna partistöd för år 2026.
 
 Kommunfullmäktige fastställer att partistödets storlek för år 2026 baseras på det
 antal mandat respektive parti besitter i kommunfullmäktige efter de allmänna valen
-2022. Partistödet betalas ut i januari 2026.
+2022\. Partistödet betalas ut i januari 2026.
 
 Sammanfattning av ärendet
 

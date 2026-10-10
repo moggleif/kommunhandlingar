@@ -33,10 +33,10 @@ Kungsbacka
 Plats och tid för Gåsevadholm, Storgatan 37 Klockan 13.03—16.27
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
-Thure Sandén (M), Ordförande $$ 125-144 Gunnar Riksén (KD) ersätter Thure
-Heinrich Kaufmann (C), ordförande Sandén (M) $$ 120-124
-$$ 120-124, 1:e vice ordförande Kenth Wallin (SD) ersätter Dick
-$$ 125-144 Andersson (M)
+Thure Sandén (M), Ordförande \$\$ 125-144 Gunnar Riksén (KD) ersätter Thure
+Heinrich Kaufmann (C), ordförande Sandén (M) \$\$ 120-124
+\$\$ 120-124, 1:e vice ordförande Kenth Wallin (SD) ersätter Dick
+\$\$ 125-144 Andersson (M)
 Daniel Hognert (M)
 Marianne Wallengren (M)
 Lars Eriksson (S)
@@ -44,37 +44,37 @@ Britt Tönnberg (S)
 Stefan Vilumsons (SD)
 Fredrik Kollberg (KD)
 Övriga närvarande Ersättare Tjänstepersoner
-Gunnar Riksén (KD) $$ 125-144 Katarina Öryd, förvaltningschef
+Gunnar Riksén (KD) \$\$ 125-144 Katarina Öryd, förvaltningschef
 Bo Johansson (MP) Hanna Ståhl, verksamhetschef
 
-Tina Carlson, verksamhetschef $ 130
+Tina Carlson, verksamhetschef \$ 130
 Ida Lennartsson, verksamhetschef
 Kasra Hassirian, förvaltningsjurist
 
-$$ 120-129
+\$\$ 120-129
 
 Peter Sebestyén, samordnare
 
-$$ 120-129
+\$\$ 120-129
 
 Thinh Bui-Ljungqvist, senior
-bygglovshandläggare $$ 120-128,
+bygglovshandläggare \$\$ 120-128,
 131-144
 
 André Nilsson, senior
-bygglovshandläggare $$ 120-128
+bygglovshandläggare \$\$ 120-128
 Christina Nordberg, controller
-Johanna Gille, HR-specialist $ 131
+Johanna Gille, HR-specialist \$ 131
 Gustav Bernhardsson, kommunikatör
-Nahren Dawid, utvecklare $$ 131-144
-Andreas Rydholm, kartingenjör $ 126
-Lisett Tranefalk, kartingenjör $ 126
-Björn Vikström, planarkitekt $ 129,
-$$ 134-139
+Nahren Dawid, utvecklare \$\$ 131-144
+Andreas Rydholm, kartingenjör \$ 126
+Lisett Tranefalk, kartingenjör \$ 126
+Björn Vikström, planarkitekt \$ 129,
+\$\$ 134-139
 
 Stina Wikström, planarkitekt
 
-$$ 134-139
+\$\$ 134-139
 
 Sofie Axelsson, nämndsekreterare
 
@@ -685,16 +685,16 @@ det är svårt att nå handläggare för vägledning i enklare frågor och kring
 Byggnadsnämnden beslutade 13 maj 2026 att ge bygg- och miljöförvaltningen i
 uppdrag att:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner.
 
-- identifiera områden i Servicelyftet som behöver prioriteras.
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på
+\- identifiera områden i Servicelyftet som behöver prioriteras.
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på
 nämndmötet i augusti.
 
 Bygg- och miljöförvaltningen redovisade under byggnadsnämndens möte 2026-06-
 25 den första analysen och de övriga punkterna på byggnadsnämnden möte 2026-08-
-20. Ärendet blev återförvisat 2026-08-20 för att bland annat förtydliga
+20\. Ärendet blev återförvisat 2026-08-20 för att bland annat förtydliga
 handlingsplanen och redovisa prioriterade områden.
 
 Beslutsunderlag
@@ -804,7 +804,7 @@ Byggnadsnämnden godkänner nämndbudget 2027 med verksamhetsplan och
 ramfördelning.
 
 Byggnadsnämnden uppdrar åt förvaltningschefen att upprätta förvaltningsbudget för
-2027.
+2027\.
 Byggnadsnämnden uppdrar åt förvaltningschefen att göra nödvändiga
 omfördelningar i Förvaltningsbudgeten under året samt att informera nämnden om
 dessa i samband med delårsrapport och bokslut.
@@ -814,13 +814,13 @@ Kommunfullmäktige beslutade 2026-06-09 att fastställa kommunövergripande mål
 
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Nämndmål
-* Nämndens direktiv till förvaltningen
+\* Nämndmål
+\* Nämndens direktiv till förvaltningen
 
-* Ramfördelning driftbudget
-* Investeringsbudget
+\* Ramfördelning driftbudget
+\* Investeringsbudget
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
@@ -872,12 +872,12 @@ Beslut – för fastställande i kommunfullmäktige
 Byggnadsnämnden godkänner taxa för plan- och byggverksamheten i Kungsbacka
 kommun, daterad 2026-08-18, med följande ändringar:
 
-- handläggningskostnaden i tabell A ska vara oförändrad och uppgå till 1 400 kronor
+\- handläggningskostnaden i tabell A ska vara oförändrad och uppgå till 1 400 kronor
 per timme
-- posterna A 4.1 och A 4.3 slås samman,
+\- posterna A 4.1 och A 4.3 slås samman,
 
-- posterna A 4.2 och A 4.4 utgår,
-- ”övriga anläggningar” läggs till i tabell A 4
+\- posterna A 4.2 och A 4.4 utgår,
+\- ”övriga anläggningar” läggs till i tabell A 4
 
 Byggnadsnämnden översänder taxan till kommunfullmäktige för fastställande.
 Kommunfullmäktige beslutar att taxan ska träda i kraft den 1 januari 2027 och
@@ -1235,7 +1235,7 @@ omprövas och tas bort inom området för planförslaget då huvudmannaskapet ö
 till kommunalt från enskilt.
 
 Planområdet omfattar delar av detaljplanerna Ö54 (antagen 1974), ÖP85 (antagen
-2005) samt ÖP88 (antagen 2010). Hela planområdet är i gällande detaljplaner
+2005\) samt ÖP88 (antagen 2010). Hela planområdet är i gällande detaljplaner
 planlagt för allmän plats, park med enskilt huvudmannaskap. Genomförandetiden har
 löpt ut för samtliga detaljplaner.
 

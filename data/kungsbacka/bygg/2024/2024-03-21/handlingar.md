@@ -724,13 +724,13 @@ prioriteringsordning för handläggningen av nya och äldre tillsynsärenden. OV
 IMD- och ladd infrastrukturärenden ingår inte i denna.
 
 Prioriteringsordning 2024:
-1. Arbeta med aktiviteterna angivna för 2024 för områdena IMD och laddinfrastruktur
+1\. Arbeta med aktiviteterna angivna för 2024 för områdena IMD och laddinfrastruktur
 
-2. Handlägga ärenden där det finns risker för människors hälsa och säkerhet
+2\. Handlägga ärenden där det finns risker för människors hälsa och säkerhet
 
-3. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt pågående
+3\. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt pågående
 ärende
-4. I övrigt gäller handläggning i tidsföljd
+4\. I övrigt gäller handläggning i tidsföljd
 
 Behovsutredning – Obligatorisk ventilationskontroll (OVK)
 Det är viktigt att skilja på kravet på en första besiktning och kravet på återkommande

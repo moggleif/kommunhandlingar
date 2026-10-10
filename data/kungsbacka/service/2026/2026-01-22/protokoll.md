@@ -228,7 +228,7 @@ som kommunfullmäktige beslutade 2026-06-16, § 114.
 Samtliga nämnder ska besluta om Underlag till Kommunbudget 2027 senast den
 28 januari 2026. Underlag till Kommunbudget 2027 innehåller bland annat
 beskrivningar av möjligheter, utmaningar och förändringar som ses inför år 2027 –
-2029.
+2029\.
 Nämnden för Service verkar i ett sammanhang där uppdraget i stor utsträckning
 formas i samverkan med kommunens övriga förvaltningar. Inför perioden 2027–
 

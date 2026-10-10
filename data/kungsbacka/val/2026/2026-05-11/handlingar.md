@@ -388,7 +388,7 @@ Beslutsunderlag
 
 Kommunledningskontorets tjänsteskrivelse, 2026-01-05
 Valmyndigheten, Ställningstagande om felaktig avprickning och väljare som nekas att rösta, 2023-12-
-15.
+15\.
 
 Beslutet skickas till
 Valkansliet
@@ -843,27 +843,27 @@ till att arbeta i val och vilka kvalifikationer som krävs.
 Förutom nedan kvalifikationer gäller även vissa begränsningar för vem som kan
 förordnas som röstmottagare:
 
--  Den som kandiderar för ett parti får inte förordnas som röstmottagare, räkna
+\-  Den som kandiderar för ett parti får inte förordnas som röstmottagare, räkna
 eller på annat sätt hantera röster vid rösträkningen i det val som kandidaturen
 gäller.
--  Den som är närstående till någon som kandiderar för ett parti får inte
+\-  Den som är närstående till någon som kandiderar för ett parti får inte
 förordnas till röstmottagare, räkna eller på annat sätt hantera röster vid
 rösträkningen i det val som kandidaturen gäller.
 
 Den som förordnas till röstmottagare ska:
 
--  Ha fyllt 18 år senast på tjänstgöringsdagen
--  Ha tillgång till e-post, mobiltelefon och bank-ID
+\-  Ha fyllt 18 år senast på tjänstgöringsdagen
+\-  Ha tillgång till e-post, mobiltelefon och bank-ID
 
 Kungsbacka kommun    Riktlinjer för rekrytering av röstmottagare, rösträknare m.fl. 3 (5)
 
 <!-- sida 23 -->
 
--  Tala, läsa och skriva god svenska
--  Kunna räkna (röstsedlar)
+\-  Tala, läsa och skriva god svenska
+\-  Kunna räkna (röstsedlar)
 
--  Ha datorvana
--  Vara stresstålig, serviceinriktad, noggrann och samarbetsvillig
+\-  Ha datorvana
+\-  Vara stresstålig, serviceinriktad, noggrann och samarbetsvillig
 
 Rekrytering av röstmottagare
 
@@ -1048,13 +1048,13 @@ Valnämnden ansvarar för behörighetsadministrationen och för användarna i si
 till och tar bort användare, ser till att användarna har rätt behörighetsroll, med mera.
 Valnämnden behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort behörighetsroller
 för kommunens övriga användare.
 
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen inskrivare krävs för
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen inskrivare krävs för
 att kunna lägga till och ta bort användare i Valid.
-- Vilka som ska utses till lokala skyddsadministratörer (L-SKYAD) som har behörighet att
+\- Vilka som ska utses till lokala skyddsadministratörer (L-SKYAD) som har behörighet att
 efterregistrera förtidsröster för väljare med skyddade personuppgifter. Högst två personer får utses.
 
 Valnämnden har sedan tidigare (VN 2025-11-17 §21) utsett Zhale Rashid, systemförvaltare, Andrea
@@ -1117,10 +1117,10 @@ Valnämnden ansvarar för behörighetsadministrationen och för användarna i si
 kommun. Den lägger till och tar bort användare, ser till att användarna har rätt
 behörighetsroll, med mera. Valnämnden behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort
 behörighetsroller för kommunens övriga användare.
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
 
 inskrivare krävs för att kunna lägga till och ta bort användare i Valid.
 
@@ -1162,10 +1162,10 @@ Valnämnden ansvarar för behörighetsadministrationen och för användarna i si
 kommun. Den lägger till och tar bort användare, ser till att användarna har rätt
 behörighetsroll, med mera. Valnämnden behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort
 behörighetsroller för kommunens övriga användare.
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
 
 inskrivare krävs för att kunna lägga till och ta bort användare i Valid.
 
@@ -1264,7 +1264,7 @@ Sida
 
 <!-- sida 33 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 29 april 2026 16:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.18
@@ -1300,7 +1300,7 @@ Valmyndigheten
 
 <!-- sida 34 -->
 
-Från:                  Myndigheten för delaktighet <info@mfd.se>
+Från:                  Myndigheten för delaktighet \<info@mfd.se>
 Skickat:               den 27 april 2026 09:15
 Till:                  Valnämnden
 Ämne:                  Så förbereder ni röstmottagare för ett tillgängligt val
@@ -1389,7 +1389,7 @@ info@mfd.se                               LinkedIn
 
 <!-- sida 37 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 22 april 2026 16:32
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v_17
@@ -1425,7 +1425,7 @@ Valmyndigheten
 
 <!-- sida 38 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 15 april 2026 16:35
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 16
@@ -1470,7 +1470,7 @@ Valmyndigheten
 
 <!-- sida 39 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 8 april 2026 16:19
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v.15
@@ -1508,7 +1508,7 @@ Valmyndigheten
 
 <!-- sida 40 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 2 april 2026 10:29
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsbrev v.14
@@ -1539,7 +1539,7 @@ Valmyndigheten
 
 <!-- sida 41 -->
 
-Från:                  Max Andersson <max.andersson@val.se>
+Från:                  Max Andersson \<max.andersson@val.se>
 Skickat:               den 26 mars 2026 09:58
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.13
@@ -1584,7 +1584,7 @@ Valmyndigheten
 
 <!-- sida 42 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 18 mars 2026 16:10
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v_11
@@ -1653,7 +1653,7 @@ partirepresentant i Eksta Bostads AB för tiden till och med 31 december 2026.
 
 Kommunfullmäktige utser Annika Nilsson (S) till uppdraget som ny ersättare för
 partirepresentant i Tempohus Kungsbacka AB för tiden till och med 31 december
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Vid kommunfullmäktiges sammanträde den 11 december 2025 entledigades
@@ -1697,7 +1697,7 @@ Datum
 
 Kommunfullmäktige utser Annika Nilsson (S) till uppdraget som ny ersättare för
 partirepresentant i Tempohus Kungsbacka AB för tiden till och med 31 december
-2026.
+2026\.
 
 Beslutsgång
 
@@ -1729,7 +1729,7 @@ Transaktionsidentitet: 3A328F6A62241B875E6824611E8CD8BD1A783324DB
 
 <!-- sida 45 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 11 mars 2026 17:21
 Ämne:           Valmyndighetens nyhetsbrev v_10
 
@@ -1772,7 +1772,7 @@ Valmyndigheten
 
 <!-- sida 46 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 4 mars 2026 16:16
 Ämne:                  Valmyndighetens nyhetsbrev v_9
 
@@ -1817,7 +1817,7 @@ Valmyndigheten
 
 <!-- sida 47 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 25 februari 2026 16:46
 Ämne:                  Valmyndighetens nyhetsbrev_v8
 
@@ -1859,7 +1859,7 @@ Valmyndigheten
 
 <!-- sida 48 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 20 februari 2026 14:40
 Ämne:                  Valmyndighetens nyhetsbrev v_7
 

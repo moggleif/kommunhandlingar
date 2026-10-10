@@ -132,10 +132,10 @@ Sveriges Lärare - Annika Aronsson
 
 Plats och tid: VM Lagan 2024-10-08 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll för mötet 2024-09-10 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i september.
 Sveriges Lärare och Kommunal
@@ -162,7 +162,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 Skolledardagarna
 Pedagogiskt ledarskap
 Organisering
@@ -202,7 +202,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut: Att anteckna informationen.
 
-4. Förslag om reviderad tjänsteplaneringsprocess
+4\. Förslag om reviderad tjänsteplaneringsprocess
 
 Revideringen av tjänsteplaneringsprocessen gäller främst att tidsperioden är nedkortat från det att
 rektors underlag för överanställning till dess att HR påbörjar matchningsarbetet.
@@ -223,14 +223,14 @@ Sveriges lärare
 
 Beslut: Att anteckna informationen.
 
-5. Stabsorganisation (om aktuellt)
+5\. Stabsorganisation (om aktuellt)
 Arbetsgivaren önskar flytta en tjänst som utvecklare hos Digitalt lärandestöd till Kvalitet och
 
 utveckling. Merparten av uppdraget arbetsleds redan idag under enheten för Kvalitet & Utveckling.
 
 Beslut: De fackliga förbunden har inga synpunkter och arbetsgivaren kan gå vidare i processen.
 
-6. Budget 2025
+6\. Budget 2025
 När och på vilket sätt samverkar vi budgeten?
 
 Risk- och konsekvensbeskrivning och ur ett barnrättsperspektiv.
@@ -261,7 +261,7 @@ Fortsatt dialog kring samverkansform av förvaltningsbudget.
 
 Beslut: Dialog/ FSG återkommer med synpunkter senast den 15.e.
 
-7. Övrigt
+7\. Övrigt
 Händelsen på Kungsmässan. Vad behöver vi som huvudman tänka på när det gäller händelser som
 denna?
 
@@ -274,7 +274,7 @@ information som kan ges, bedöms utifrån varje situation.
 
 Arbetstagarorganisation
 
-8. Bedömningsunderlag från medarbetarsamtal samt digital hantering förskjuten
+8\. Bedömningsunderlag från medarbetarsamtal samt digital hantering förskjuten
 arbetstid (Sveriges lärare)
 
 <!-- sida 9 -->
@@ -282,19 +282,19 @@ arbetstid (Sveriges lärare)
 KUNGSBACKA  KOMMUN
 5 (6)
 
-1) Underlag för medarbetarsamtal och bedömningssamtal. Finns det ett tydligt direktiv från
+1\) Underlag för medarbetarsamtal och bedömningssamtal. Finns det ett tydligt direktiv från
 förvaltningen att man kan hitta den på Insidan?
 
 Arbetsgivarens svar: Medarbetarsamtalen ska dokumenteras i Winlas enligt kommunens rutin och vara
 synligt för medarbetarna. Information kring medarbetarsamtal sker inom ramen för det ordinarie
 årshjulet. Arbetsgivaren kan påminna om detta ytterligare.
 
-2) Önskemål att digitalisera när personal begär ersättning för förskjuten arbetstid.
+2\) Önskemål att digitalisera när personal begär ersättning för förskjuten arbetstid.
 
 Arbetsgivarens svar: Frågan är kommunövergripande och behöver lyftas av fackliga förbund i den
 centrala kommunsamverkan, CSG.
 
-9. Tidig dialog inför nästa FSG
+9\. Tidig dialog inför nästa FSG
 •  Budget
 •  Läget med barnantal, elevantal och prognoser
 •  Kommunal:
@@ -325,7 +325,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -1018,10 +1018,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 11
 
@@ -1046,11 +1046,11 @@ Nämndbudget 2025
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 12
 
@@ -1087,9 +1087,9 @@ mellan elever prioriteras. Mobiltelefoner, smartklockor eller motsvarande enhete
 skolor, varken på lektionstid eller under rast.
 
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 
 5.3 Bästa företagsklimatet i Västsverige
 
@@ -1122,8 +1122,8 @@ Nämndbudget 2025
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -1131,8 +1131,8 @@ mellan näringsliv och utbildning.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 14
 
@@ -1173,7 +1173,7 @@ undervisningen tillgänglig för alla. Våra lärare ska bli bättre rustade i a
 och behov, till exempel de med neuropsykiatriska funktionsnedsättningar (NPF).
 Fokusområde
 Fokusområde
-- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
+\- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
 NPF- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 
 5.5 Ett medskapande samhälle och öppen attityd
@@ -1181,12 +1181,12 @@ NPF- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasiesko
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 15
 
@@ -1317,8 +1317,8 @@ Nämndens formulering
 Vi ska förbättra vårt arbete med att identifiera barn och unga som riskerar att hamna i utanförskap. Genom
 innovation och ny teknik ska vi tidigare och mer resurseffektivt upptäcka problematisk skolfrånvaro.
 Fokusområde
-- Barn och elever med problematisk frånvaro i skolan
-- Samverkan med andra samhällsaktörer
+\- Barn och elever med problematisk frånvaro i skolan
+\- Samverkan med andra samhällsaktörer
 
 6.2.2 Skola/arbetsliv (2024)
 
@@ -1330,8 +1330,8 @@ arbetsmarknaden i både offentlig och privat sektor. Vi ska stärka elevernas ko
 möjligheter att fatta självständiga val för sin framtid.
 
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 
 6.2.3 Utreda införande av resursskola (2024)
 Beslutats av
@@ -1342,8 +1342,8 @@ För de elever som har behov av en mindre skolkontext och mer anpassad lärmilj�
 resursskola. Skolan ska erbjuda en mer småskalig omgivning och tillgänggöra undervisningen för fler elever.
 Fokusområde
 
-- Förebyggande insatser i ett tidigt skede
-- Anpassad undervisning
+\- Förebyggande insatser i ett tidigt skede
+\- Anpassad undervisning
 6.2.4 Stärka lärarens roll (2024)
 
 Beslutats av
@@ -1354,7 +1354,7 @@ Lärarens roll ska stärkas i Kungsbacka. Arbetsgivaren ska verka för att skapa
 tydligt handlingsutrymme för vår pedagogiska personal som i sin tur kan skapa studiero och trygghet på
 förskolor och skolor.
 Fokusområde
-- Utbildning och kollegialt arbete
+\- Utbildning och kollegialt arbete
 
 18
 
@@ -1456,7 +1456,7 @@ Nämndbudget 2025
 |  | Genomsnittligt<br>meritvärde i<br>237 236,5<br>årskurs 9,<br>kommunala<br>skolor |
 |  | Andel elever<br>som uppnått<br>målen i samtliga<br>ämnen, 1 2,2<br>avvikelse från<br>modellberäknat<br>värde |
 |  | Andel elever<br>som är behöriga<br>till ett<br>yrkesprogram, -1,1 -0,1<br>avvikelse från<br>modellberäknat<br>värde |
-|  | Andel elever<br>åk 9 behöriga till<br>94,4 % ~100<br>yrkesprogram,<br>fristående skolor |
+|  | Andel elever<br>åk 9 behöriga till<br>94,4 % \~100<br>yrkesprogram,<br>fristående skolor |
 
 <!-- sida 39 -->
 
@@ -1658,7 +1658,7 @@ förutsättningar för deras kunskapsutveckling.
 Ramanalys
 
 Nämndbudgeten är upprättad utifrån Kommunfullmäktiges beslutade budgetram för Förskola & Grundskola
-2025. I ramanalysen framgår budgetram för 2024 och 2025. Budget för löneöversyn 2025 inkluderas i
+2025\. I ramanalysen framgår budgetram för 2024 och 2025. Budget för löneöversyn 2025 inkluderas i
 budgetramen.
 
 Förskola & Grundskolas budgetram 2025 har utökats med 108 miljoner kronor jämfört med 2024. Ökningen
@@ -1766,7 +1766,7 @@ måste anpassa organisationen efter det. Den uteblivna befolkningsökningen kan 
 Resultatfond
 
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2025.
+2025\.
 
 10.2 Investeringsbudget
 
@@ -1953,7 +1953,7 @@ Grunden för resursfördelningen är att ett grundbelopp går ut för ett barn e
 Det finns i resursfördelningen principer som syftar till att kompensera för olika
 förutsättningar som verksamheterna har att kunna möta barn och elevers behov:
 
--  För att kompensera för socioekonomiska skillnader görs en omfördelning av
+\-  För att kompensera för socioekonomiska skillnader görs en omfördelning av
 resurser inom respektive verksamhetsform, förskolor, skolor och fritidshem.
 Strukturbidraget ges till både den kommunala som den fristående
 verksamheten. Strukturbidraget ger ett differentierat belopp per barn och elev
@@ -1961,7 +1961,7 @@ verksamheten. Strukturbidraget ger ett differentierat belopp per barn och elev
 och bygger på hur barn och elevers socioekonomiska bakgrund påverkar
 sannolikheten för att eleverna ska uppnå målen.
 
--  Ansökan och prövning av tilldelning att tilläggsbelopp och tilläggsstöd för
+\-  Ansökan och prövning av tilldelning att tilläggsbelopp och tilläggsstöd för
 barn och elever med extraordinära stödbehov och insatser.
 
 Efter att nämnden beslutat om grunderna för resursfördelning omhändertas
@@ -2033,7 +2033,7 @@ Att arbeta med framåt
 KUNGSBACKA KOMMUN
 3 (3)
 
--  Förvaltningen stödjer enheterna i att använda barnrättsperspektivet som ett
+\-  Förvaltningen stödjer enheterna i att använda barnrättsperspektivet som ett
 verktyg för att få fram bra underlag vid exempelvis
 organisationsförändringar.
 
@@ -2058,28 +2058,28 @@ Nämnden för Förskola & Grundskola har grundprincipen vid beräkning att den f
 verksamheten ska ha samma ekonomiska förutsättningar som den kommunala verksamheten. Från och
 med budgetåret 2010 gäller ny lagstiftning vad gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar vid
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar vid
 fördelning av resurser till den egna verksamheten av motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till grund för
+\- Kommunens budget för verksamheten det kommande året ska ligga till grund för
 bestämningen av bidragen till den fristående verksamheten.
 
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
 1 (3)
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -2094,10 +2094,10 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
 
-7. lokalkostnader.
+7\. lokalkostnader.
 Nedan följer grundbeloppen för 2025 i både kommunal och fristående verksamhet. I den fristående
 verksamheternas grundbelopp inkluderas bidrag för lokalkostnader, måltider samt ersättning för
 kostnader som den kommunala verksamheten valt att ha centralt. Därtill tillkommer en
@@ -2286,12 +2286,12 @@ att skapa, upprätta och vid behov återskapa studieron samt utveckla uppföljni
 kunskapsresultaten.
 
 Rektor har vidtagit ett antal åtgärder i relation till det olika utvecklingsområdena.
-- Kompletterat planen för det systematiska kvalitetsarbete med att också omfatta framgångsfaktorer
+\- Kompletterat planen för det systematiska kvalitetsarbete med att också omfatta framgångsfaktorer
 tillsammans med fokus på utmaningar i resultat.
-- Stärk förutsättningarna för samverkan mellan lärare, lärare i särskilda undervisningsgrupper och
+\- Stärk förutsättningarna för samverkan mellan lärare, lärare i särskilda undervisningsgrupper och
 elevhälsa. Kollegialt lärande utifrån Skolverkets modul ”Ledarskap i klassrummet”.
-- Utarbetat ett gemensamt ramverk för lärmiljön i klassrummet.
-- Utarbetat ett gemensamt förhållningssätt kring rutiner vid rättning och bedömning av nationella
+\- Utarbetat ett gemensamt ramverk för lärmiljön i klassrummet.
+\- Utarbetat ett gemensamt förhållningssätt kring rutiner vid rättning och bedömning av nationella
 prov.
 
 Beslutsunderlag
@@ -3495,7 +3495,7 @@ Huvudman för förskolekooperativet Lekotechs Skalmans förskola
 Beskrivning av ärendet
 Förskolekooperativet Lekotechs ekonomiska förening har ansökt om utökning av barnantalet från 16–
 17 barn till 21 barn på förskolan Skalman, Västra Särövägen i Särö. Verksamheten har bedrivits sedan
-1999.
+1999\.
 
 1 (2)
 Kungsbacka kommun
@@ -3529,9 +3529,9 @@ Förvaltningen bedömer att den permanenta utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
@@ -3574,14 +3574,14 @@ Innebär förslaget till beslut/åtgärd att vi utifrån VERKSAMHETENS
 
 perspektiv har:
 
-1.   Satt barnet i främsta rummet.
-2.   Tagit hänsyn till barnens rättigheter.
-3.   Tagit hänsyn till barnens hälsa, utveckling och behov.
+1\.   Satt barnet i främsta rummet.
+2\.   Tagit hänsyn till barnens rättigheter.
+3\.   Tagit hänsyn till barnens hälsa, utveckling och behov.
 
-4.   Tagit hänsyn till barnens säkerhet.
-5.   Tagit hänsyn till de barn som eventuellt har funktionshinder.
+4\.   Tagit hänsyn till barnens säkerhet.
+5\.   Tagit hänsyn till de barn som eventuellt har funktionshinder.
 
-6.   Tagit tillvara barnens åsikter. Ej möjligt gällande organisatoriska frågor.
+6\.   Tagit tillvara barnens åsikter. Ej möjligt gällande organisatoriska frågor.
 
 Kommentarer till ovanstående punkter:
 Vi har haft utmaningar med att tillgodose samtliga barns behov i och med att vi arbetar med barn från 1 - 5 år ofta i
@@ -3615,15 +3615,15 @@ Innebär förslaget till beslut/åtgärd att vi utifrån HUVUDMANNENS
 
 perspektiv har:
 
-1.  Tagit hänsyn till föreningens övergripande mål.
+1\.  Tagit hänsyn till föreningens övergripande mål.
 
-2.  Analyserat eventuella ekonomiska konsekvenser.
+2\.  Analyserat eventuella ekonomiska konsekvenser.
 
-3.  Säkerställt att antagningsrutiner inte förändrats eller på annat sätt påverkar
+3\.  Säkerställt att antagningsrutiner inte förändrats eller på annat sätt påverkar
 
 existerande barngrupp.
 
-4.  Säkerställt att den övergripande planeringen och utvecklingen av
+4\.  Säkerställt att den övergripande planeringen och utvecklingen av
 verksamheten inte påverkas.
 
 Kommentarer till ovanstående punkter:
@@ -3658,7 +3658,7 @@ förskola
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | 2024-09-03 12:49
 
-1. Information om förskolan
+1\. Information om förskolan
 
 Förskolans namn
 
@@ -3677,7 +3677,7 @@ Typ av utökning
 
 Permanent
 
-2. Utökning
+2\. Utökning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3782,7 +3782,7 @@ Personalen får regelbunden brandskyddsutbildning och det bedrivs arbete enligt 
 
 Brandövningar med barnen görs regelbundet
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -4519,7 +4519,7 @@ Innehållsförteckning
 
 <!-- sida 126 -->
 
-1. God och nära  vård
+1\. God och nära  vård
 
 För att verkligen göra skillnad i barn och ungas vardag och liv behöver medarbetare i olika
 
@@ -4751,7 +4751,7 @@ utformande av planeringen. Processerna inom EMI är tydliga och målstyrda där 
 moment som bara får utföras av viss yrkeskategori kopplat till Hälso och sjukvård och
 där journalföringsplikt medföljer uppdraget.
 
-2. Var står vi och hur kommer  vi framåt?
+2\. Var står vi och hur kommer  vi framåt?
 
 Framgångsfaktorerna god och nära vård handlar om är som beskrivits att den skall vara
 Hälsofrämjande, Gemensam, Trygg och Enkel
@@ -4991,9 +4991,9 @@ De nationella minoriteterna
 
 Bibliotekslagen säger i 5 § att "Biblioteken i det allmänna biblioteksväsendet ska ägna särskild uppmärksamhet åt de nationella minoriteterna och personer
 som har annat modersmål än svenska, bland annat genom att erbjuda litteratur på
-1. de nationella minoritetsspråken,
-2. andra språk än de nationella minoritetsspråken och svenska, och
-3. lättläst svenska"
+1\. de nationella minoritetsspråken,
+2\. andra språk än de nationella minoritetsspråken och svenska, och
+3\. lättläst svenska"
 
 De nationella minoriteterna är sverigefinnar, tornedalingar, romer, judar och samer (som också har status som urfolk). Det finns också fem erkända nationella
 minoritetsspråk; finska, meänkieli, jiddish, romani chib (alla varieteter) och samiska (alla varieteter).
@@ -5133,7 +5133,7 @@ Vad styr Kungsbacka kommuns   biblioteksverksamheter?
 Enligt bibliotekslagen (SFS 2013:801) ska varje kommun anta en plan för sina
 biblioteksverksamheter. Denna biblioteksplan är ett kommunövergripande styrdokument och
 anger riktningen för biblioteksverksamheterna i Kungsbacka kommun under perioden 2021-
-2024. Den ska vara ett redskap för personal och beslutsfattare i utvecklingen av
+2024\. Den ska vara ett redskap för personal och beslutsfattare i utvecklingen av
 verksamheterna, men även synliggöra utbudet och servicen för invånarna samt gynna deras
 möjlighet att påverka och ställa krav. Planen omfattar alla bibliotek som Kungsbacka kommun är
 huvudman för. Berörda nämnder i Kungsbacka kommun är nämnderna för Kultur & Fritid
@@ -5331,17 +5331,17 @@ I lagen ser vi att följande artiklar har direkt bäring på folk- och
 skolbiblioteksverksamheterna i Kungsbacka:
 Artikel 13
 
-1. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
+1\. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
 oberoende av territoriella gränser söka, ta emot och sprida information och
 tankar av alla slag, i tal, skrift eller tryck, i konstnärlig form eller genom
 annat uttrycksmedel som barnet väljer.
 
 Artikel 14
-1. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
+1\. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
 samvetsfrihet och religionsfrihet.
 
 Artikel 17
-2. Konventionsstaterna erkänner den viktiga uppgift som massmedier utför
+2\. Konventionsstaterna erkänner den viktiga uppgift som massmedier utför
 och ska säkerställa att barnet har tillgång till information och material
 från olika nationella och internationella källor, särskilt sådant som syftar
 till att främja dess sociala, andliga och moraliska välmående samt fysiska
@@ -5483,7 +5483,7 @@ Lokala riktlinjer
 Kungsbacka Vision 2030
 I Vision 2030 berörs folk- och skolbiblioteksverksamhet i följande passager:
 
--  Vi utvecklas hela livet
+\-  Vi utvecklas hela livet
 I våra skolor utvecklar var och en sin fulla kapacitet i en kreativ miljö där alla tar
 ansvar, visar respekt och bryr sig om varandra. Alla elever lämnar skolan med god
 
@@ -5493,7 +5493,7 @@ näringslivet och samhället i stort.
 
 <!-- sida 148 -->
 
--  Aktiviteter som engagerar, inspirerar och berikar livet
+\-  Aktiviteter som engagerar, inspirerar och berikar livet
 Här har alla ett rikt fritids- och kulturliv med både bredd och spets. Mångfalden av
 aktiviteter, upplevelser och gemenskaper främjar hälsa, välmående och kreativitet.
 
@@ -5607,7 +5607,7 @@ https://www.kungsbacka.se/Kommun-och-politik/Mal-och-resultat1/Vision-2030/
 Läroplan för gymnasieskolan GY11:
 
 http://www.skolverket.se/om-skolverket/publikationer/visa-enskild-
-publikation?_xurl_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
+publikation?\_xurl\_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
 olbok%2Fwpubext%2Ftrycksak%2FRecord%3Fk%3D2705
 
 Gymnasiearbetet:
@@ -5669,7 +5669,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

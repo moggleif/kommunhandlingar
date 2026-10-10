@@ -147,7 +147,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 4 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -783,7 +783,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 35 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -1662,7 +1662,7 @@ www.kungsbacka.se
 Inriktning för civil beredskap
 
 Dokumentegenskaper Titel: Inriktning för civil beredskap, Skapat av: Jessica Larsén
-:
+\:
 
 Beslutad av:    Byggnadsnämnden 2026-06-25 § XX
 Gäller från:    2026-06-25
@@ -1877,11 +1877,11 @@ för ett rättssäkert och effektivt bygglovsförfarande, och att många sökand
 svårt att nå handläggare för vägledning i enklare frågor och kring pågående ärenden.
 
 Byggnadsnämnden beslutade 13 maj 2026 att ge bygg- och miljöförvaltningen i uppdrag att:
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller sjukskrivning, genom
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller sjukskrivning, genom
 fungerande överlämnings- och ersättningsrutiner.
 
-- identifiera områden i Servicelyftet som behöver prioriteras.
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på nämndmötet i
+\- identifiera områden i Servicelyftet som behöver prioriteras.
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på nämndmötet i
 augusti.
 
 Förvaltningen redovisar under byggnadsnämndens möte 2026-06-25 den första analysen.
@@ -1952,10 +1952,10 @@ behöver därför intensifieras och omsättas i praktiskt fungerande arbetssätt
 med fokus på faktisk service och tillgänglighet för invånare och företag.
 Förslagsställarna yrkar att bygg- och miljöförvaltningen ges i uppdrag att skyndsamt:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
-- identifiera områden i Servicelyftet som behöver prioriteras
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig
+\- identifiera områden i Servicelyftet som behöver prioriteras
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig
 handlingsplan på nämndmötet i augusti
 
 Beslutsunderlag
@@ -2011,12 +2011,12 @@ redan nu, med fokus på faktisk service och tillgänglighet för invånare och f
 
 Förvaltningen ges därför i uppdrag att med skyndsamhet:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
 
-- identifiera områden i Servicelyftet som behöver prioriteras
+\- identifiera områden i Servicelyftet som behöver prioriteras
 
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
 på nämndmötet i augusti
 
 Thure Sandén      Heinrich Kaufmann          Daniel Hognert

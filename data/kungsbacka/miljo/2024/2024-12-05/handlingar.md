@@ -1684,7 +1684,7 @@ ta beslut om vidare delegation till personal som arbetar med livsmedelskontroll,
 försäljningstillsyn och serveringstillstånd. Ansvarsfördelningen inom myndigheten
 beskrivs i reglemente, dnr 2023–05657 och i delegeringsförteckning, dnr 2024–
 
-05800.
+05800\.
 Livsmedelskontroll
 
 Inom livsmedelskontrollen har samtliga handläggare delegation på att fatta beslut
@@ -3131,16 +3131,16 @@ Förarbete
 
 Förarbetet är viktigt och vi behöver förbereda oss väl inför kontrollen:
 
-1) Insamling av information om objektet
+1\) Insamling av information om objektet
 Vad finns för information om objektet? Vad gör de? Till exempel olika delar, hanteringar, processer, typer av livsmedel. Information på hemsida?
 Vad har vi kontrollerat tidigare? Har det varit avvikelser, klagomål? Har vi gjort distanskontroll under pandemin, behöver något verifieras på plats? Titta minst ett år tillbaka.
 Vilka olika hälso- och redlighetsrisker kan finnas i företaget? Tex mikrobiologiska, kemiska, fysikaliska och allergena.
-2) Vad ska jag kontrollera?
+2\) Vad ska jag kontrollera?
 
 Utgå från inriktningsplanen och välj relevanta inriktningar att kontrollera. Vilken del av verksamheten ska kontrolleras? Ska jag välja någon inriktning och kontrollera mer på
 djupet eller välja ett flöde, till exempel salladsberedning eller hantering av kyckling, och kontrollera flera inriktningar men inte lika djupt? Kontrollens omfattning behöver
 anpassas till objektets kontrolltid och hur många kontroller de ska ha.
-3) Hur ska jag kontrollera?
+3\) Hur ska jag kontrollera?
 Har jag den kunskap som behövs för att göra kontrollen verkningsfull?
 Välj den kontrollmetod som är lämplig beroende på syftet med kontrollen.
 När är lämplig tid att utföra kontrollen för att kunna verifiera det jag vill kontrollera.
@@ -3907,13 +3907,13 @@ Miljö & Hälsoskydd har anpassat tillsynsaktiviteter efter nämndens prioriteri
 resursbehovet i tillsynsplanen ändrats inom några verksamhetsområden.
 
 Inom styrda- och behovsprioriterade tillsynen bedöms följande områden särskilt viktiga att lyfta fram:
--  Tillsynsområden som berörs av nationella strategi för tillsyn enligt miljöbalken.
+\-  Tillsynsområden som berörs av nationella strategi för tillsyn enligt miljöbalken.
 
--  Tillsynsområden kopplat till EU:s vattendirektiv, Åtgärdsprogram för vatten 2022–2027
+\-  Tillsynsområden kopplat till EU:s vattendirektiv, Åtgärdsprogram för vatten 2022–2027
 Västerhavets vattendirektiv.
--  Arbetet med förorenade områden.
+\-  Arbetet med förorenade områden.
 
--  Arbete att motverka olovlig avfallshantering.
+\-  Arbete att motverka olovlig avfallshantering.
 
 <!-- sida 105 -->
 
@@ -3923,24 +3923,24 @@ KUNGSBACKA  KOMMUN
 Övriga tillsynsområden som kommer prioriteras under 2025 är utifrån följande tre miljömål
 (rangordning där siffran 1 är viktigast):
 
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 
-- Fokusområde avfall i tillsynen, arbeta förebyggande för att motverka olovlig
+\- Fokusområde avfall i tillsynen, arbeta förebyggande för att motverka olovlig
 avfallshantering
 
-- Samverkan med andra myndigheter och brottsförebyggande arbete. ”Det ska löna sig
+\- Samverkan med andra myndigheter och brottsförebyggande arbete. ”Det ska löna sig
 att göra rätt”
-2. Grundvatten av god kvalitet
+2\. Grundvatten av god kvalitet
 
-- PFAS – inventering
-- Utveckla tillsynen nationellt inom små avlopp
+\- PFAS – inventering
+\- Utveckla tillsynen nationellt inom små avlopp
 
-- Tillsyn av vattenskyddsområden
-3. God bebyggd miljö som nämnden valt att prioritera
+\- Tillsyn av vattenskyddsområden
+3\. God bebyggd miljö som nämnden valt att prioritera
 
-- Rökfria miljöer
+\- Rökfria miljöer
 
-- Höga ljudnivåer
+\- Höga ljudnivåer
 
 Bygg- och miljöförvaltningen har också höga ambitioner med utvecklingsarbetet som ryms inom övrig
 tid. Förvaltningen står inför utmaningar som kräver nya arbetssätt och lösningar för att skapa värde för
@@ -3969,10 +3969,10 @@ behovsprioriterade tillsynen inför beslut om kommande tillsynsplan för miljöb
 2025 för att uppnå nationella miljökvalitetsmålen i enlighet med bilaga 1, med
 ändring av prioriteringsordning enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Sammanfattning av ärendet
 
@@ -3997,7 +3997,7 @@ miljöförvaltningen föreslår därför att nämnden för Miljö & Hälsoskydd 
 inriktning och inbördes rangordning avseende behovsprioriterad tillsyn utifrån
 följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
 olovlig avfallshantering och motverka dumpning av avfall genom att informera och
 arbeta förebyggande så att Kungsbacka kommun inte blir en kommun där
 systematisk brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska
@@ -4016,14 +4016,14 @@ Nämnden för Miljö & Hälsoskydd
 Datum
 2024-11-07
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
 som ger information till våra invånare och företag och bidrar till en självreglerande
 utveckling där alla tjänar på att arbeta förbyggande med miljö- och
 hälsoskyddsfrågor. I första hand ska förvaltningen lägga tid på tillsyn och insatser
 som gynnar denna typ av utveckling och där grupper gynnas som inte kan värna sina
 egna rättigheter som barn, unga och äldre i Kungsbacka.
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
 insatser som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till
 en god livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till
@@ -4042,10 +4042,10 @@ Niclas Nilsson (M) yrkar på att ändra rangordningen av föreslagna prioriterad
 områden, där punkt 2. God bebyggd miljö och punkt 3. Grundvatten av god kvalitet
 byter plats enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Beslutsgång
 
@@ -4232,7 +4232,7 @@ Sammanfattningsvis föreslår bygg- och miljöförvaltningen att nämnden för M
 Hälsoskydd väljer inriktning och inbördes rangordning avseende behovsprioriterad tillsyn
 utifrån följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
 avfallshantering och motverka dumpning av avfall genom att informera och arbeta
 förebyggande så att Kungsbacka kommun inte blir en kommun där systematisk
 brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska aktivt samverka
@@ -4241,7 +4241,7 @@ nationellt för att främja en positiv utveckling inom området där det ska lö
 
 rätt.
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
 ger information till våra invånare och företag och bidrar till en självreglerande utveckling
 där alla tjänar på att arbeta förbyggande med miljö- och hälsoskyddsfrågor. I första hand
 ska förvaltningen lägga tid på tillsyn och insatser som gynnar denna typ av utveckling
@@ -4250,7 +4250,7 @@ i Kungsbacka.
 
 <!-- sida 112 -->
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
 som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till en god
 livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till vatten
@@ -4397,7 +4397,7 @@ exponeringsskyddade 2025
 grunda vikar har följts
 upp genom tillsyn
 under perioden 2022-
-2024.         Kommun och länsstyrelse
+2024\.         Kommun och länsstyrelse
 Minst 10 % av givna
 dispenser i/vid
 exponeringsskyddade
@@ -4405,7 +4405,7 @@ exponeringsskyddade
 grunda vikar har följts
 upp genom tillsyn
 under perioden 2022-
-2024.         Kommun och länsstyrelse
+2024\.         Kommun och länsstyrelse
 Tillsynsmyndigheterna kartlägger gällande tillstånd för miljöfarliga
 verksamheter meddelade enligt miljöskyddslagen och miljöbalken och
 2023
@@ -4475,13 +4475,13 @@ tillsynsbesök med 2022-2025
 fokus på provtagning
 och flödesmätning
 under perioden 2020-
-2024.         Kommun och länsstyrelse
+2024\.         Kommun och länsstyrelse
 Tillsynsmyndigheterna förbereder
 för riskbaserad tillsyn av små
 avlopp genom komplettering och
 uppdatering av digitala
 ärendehanteringsregister. (2022-             2019
-2025) . Målet är som minst att alla
+2025\) . Målet är som minst att alla
 Små avlopp
 små avloppsanläggningar
 registreras och koordinatsätts,
@@ -4756,7 +4756,7 @@ Sammanfattning .................................................................
 
 Innehållsförteckning .......................................................................................... 3
 
-1. Inledning ..................................................................................................... 4
+1\. Inledning ..................................................................................................... 4
 1.1 Sammanfattning av behovsutredningen 2025–2027 .............................. 4
 
 1.2 Budget 2025 ......................................................................................... 5
@@ -4767,9 +4767,9 @@ Innehållsförteckning .........................................................
 1.5 Kompetenskrav och utbildning ............................................................. 6
 1.6 Beskrivning av övrig tid och handläggningstid ..................................... 6
 
-2. Planering övrig tid....................................................................................... 8
+2\. Planering övrig tid....................................................................................... 8
 
-3. Planering handläggningstid per verksamhetsområde miljöbalken ...............10
+3\. Planering handläggningstid per verksamhetsområde miljöbalken ...............10
 3.1 Miljöskydd ..........................................................................................13
 
 3.2 Förorenade områden ...........................................................................17
@@ -4778,7 +4778,7 @@ Innehållsförteckning .........................................................
 3.4 Små avlopp .........................................................................................25
 
 3.5 Naturvård och skyddade områden .......................................................27
-4. Sammanställning och prioritering ...............................................................30
+4\. Sammanställning och prioritering ...............................................................30
 
 4.1 Beskrivning av behovsutredning .........................................................30
 4.2 Tillsynsplan ........................................................................................30
@@ -4795,7 +4795,7 @@ Sida 3 av 33
 
 <!-- sida 126 -->
 
-1. Inledning
+1\. Inledning
 Enligt miljötillsynsförordningen ska det finnas en utredning om tillsynsbehovet för
 
 tillsynsmyndighetens hela ansvarsområde inom miljöbalken. I Kungsbacka
@@ -4973,7 +4973,7 @@ Sida 7 av 33
 
 <!-- sida 130 -->
 
-2. Planering övrig tid
+2\. Planering övrig tid
 I detta avsnitt redovisas behovet av den övriga tiden och vilka utvecklingsarbeten
 
 som planeras att göras samt konsekvenser av det som prioriterats bort.
@@ -5064,7 +5064,7 @@ Sida 9 av 33
 
 <!-- sida 132 -->
 
-3. Planering handläggningstid per verksamhetsområde
+3\. Planering handläggningstid per verksamhetsområde
 miljöbalken
 
 I detta avsnitt redovisas den planerade tiden inom miljöbalkens område.
@@ -5083,23 +5083,23 @@ Globala mål
 
 Nationella mål
 
-1. Begränsad klimatpåverkan
-2. Frisk luft
-3. Bara naturlig försurning
-4. Giftfri miljö
-5. Skyddande ozonskikt
-6. Säker strålmiljö
-7. Ingen övergödning
-8. Levande sjöar och vattendrag
-9. Grundvatten av god kvalitet
-10. Hav i balans samt levande kust och
+1\. Begränsad klimatpåverkan
+2\. Frisk luft
+3\. Bara naturlig försurning
+4\. Giftfri miljö
+5\. Skyddande ozonskikt
+6\. Säker strålmiljö
+7\. Ingen övergödning
+8\. Levande sjöar och vattendrag
+9\. Grundvatten av god kvalitet
+10\. Hav i balans samt levande kust och
 skärgård
-11. Myllrande våtmarker
-12. Levande skogar
-13. Ett rikt odlingslandskap
-14. Storslagen fjällmiljö
-15. God bebyggd miljö
-16. Ett rikt växt och djurliv
+11\. Myllrande våtmarker
+12\. Levande skogar
+13\. Ett rikt odlingslandskap
+14\. Storslagen fjällmiljö
+15\. God bebyggd miljö
+16\. Ett rikt växt och djurliv
 
 Sida 10 av 33
 
@@ -5530,7 +5530,7 @@ I behovet ingår hela hanteringen av objektet, det vill säga all tillsynstid so
 från initiering tills dess att objektet kan anses vara slutligt åtgärdat. Tillsynen delas
 
 in i fyra faser: initieringsfas, utredningsfas, åtgärdsfas och uppföljningsfas, se tabell
-4.
+4\.
 
 Kungsbacka kommun har för närvarande 30 prioriterade förorenade områden
 (riskklass 1 eller 2). Varav två objekt är riskklass 1 och 28 objekt är riskklass 2.
@@ -5783,7 +5783,7 @@ verksamheter. Att testa nya arbetssätt inom ordinarie tillsyn kommer utvecklas
 vidare under 2025.
 
 Förebyggande bostadstillsyn kommer utföras enligt den nationella strategin 2022–
-2025. Fysiska tillsynsbesök planeras i hyresrätter för att kontrollera inomhusmiljön
+2025\. Fysiska tillsynsbesök planeras i hyresrätter för att kontrollera inomhusmiljön
 och utföra indikerande mätningar som luft- och vattentemperatur, fukt och
 
 ventilation.
@@ -6079,7 +6079,7 @@ Sida 29 av 33
 
 <!-- sida 152 -->
 
-4. Sammanställning och prioritering
+4\. Sammanställning och prioritering
 Behovet av resurserna för tillsyn inom miljö- och hälsoskydd framgår av tidigare
 
 beslutad behovsutredningen. Tillsynsplanen utgår från behovsutredning, samt
@@ -6204,25 +6204,25 @@ vatten 2022–2027 Västerhavets vattendirektiv.
 Övriga tillsynsområden som kommer prioriteras under 2025 är utifrån följande tre
 miljömål (rangordning där siffran 1 är viktigast):
 
-1. Begränsad klimatpåverkan
-- Fokusområde avfall i tillsynen, arbeta förebyggande för att motverka
+1\. Begränsad klimatpåverkan
+\- Fokusområde avfall i tillsynen, arbeta förebyggande för att motverka
 
 olovlig avfallshantering
-- Samverkan med andra myndigheter och brottsförebyggande arbete.
+\- Samverkan med andra myndigheter och brottsförebyggande arbete.
 
 ”Det ska löna sig att göra rätt”
-2. Grundvatten av god kvalitet
+2\. Grundvatten av god kvalitet
 
-- PFAS – inventering
+\- PFAS – inventering
 
-- Utveckla tillsynen nationellt inom små avlopp
-- Tillsyn av vattenskyddsområden
+\- Utveckla tillsynen nationellt inom små avlopp
+\- Tillsyn av vattenskyddsområden
 
-3. God bebyggd miljö som nämnden valt att prioritera
+3\. God bebyggd miljö som nämnden valt att prioritera
 
-- Rökfria miljöer
+\- Rökfria miljöer
 
-- Höga ljudnivåer
+\- Höga ljudnivåer
 
 4.6  Uppföljning och revidering av tillsynsplan
 Det är viktigt att tillsynen följs upp regelbundet under året samt vilka effekter man

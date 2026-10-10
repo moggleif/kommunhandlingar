@@ -117,16 +117,16 @@ Vision - Elise Holmberg
 Frånvarande:
 Vårdförbundet - Anne Melin
 Plats och tid: Teams 2023-12-11 klockan 08.00-09.00
-1. Förvaltningsbudget
+1\. Förvaltningsbudget
 Dialog kring förslaget till förvaltningens budget 2024 inför att ärendet tas upp till
 nämnden 2024-12-13.
 Sveriges lärare undrar varför avdelningarna för Kvalitet & Utveckling samt
 Myndighet & Stöd ser ut att ha utökat sin budget.
 Arbetsgivarens svar: Ingen av avdelningarna har utökat sin organisation men har fått
 stora budgeterade kostnadsökningar kopplat till framförallt:
--  Digitala verktyg från årskurs 6.
--  Införande av verksamhetssystemet Skolplatsen.
--  Ökat antal handledarutbildningar med anledning av införandet av
+\-  Digitala verktyg från årskurs 6.
+\-  Införande av verksamhetssystemet Skolplatsen.
+\-  Ökat antal handledarutbildningar med anledning av införandet av
 övningsskolor (uppdrag från Göteborgs universitet).
 
 <!-- sida 5 -->
@@ -134,11 +134,11 @@ stora budgeterade kostnadsökningar kopplat till framförallt:
 KUNGSBACKA  KOMMUN
 2 (3)
 
--  Budget avsatt för inrymningssystem (under upphandling).
--  I all huvudsak är den ökning som finns för Kvalitet och utveckling kopplat till
+\-  Budget avsatt för inrymningssystem (under upphandling).
+\-  I all huvudsak är den ökning som finns för Kvalitet och utveckling kopplat till
 digitala verktyg ca 8 mkr och inrymningssystem de som motsvara ökning på
 26%
--  Medel för innovationer ligger i de 10 mkr som vi beskriver som
+\-  Medel för innovationer ligger i de 10 mkr som vi beskriver som
 reformutrymme.
 Sveriges Lärare: Var det inte datorer till åk 3 också?
 
@@ -270,7 +270,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
--
+\-
 
 Stigert Pettersson            Frida Byrsten
 
@@ -311,12 +311,12 @@ beslut om åtgärder som kan behövas för att den huvudman som bedriver verksam
 fel som upptäckts vid granskningen.
 
 En huvudman ansvarar bland annat för att:
--  Utbildningen genomförs i enlighet med gällande styrdokument
+\-  Utbildningen genomförs i enlighet med gällande styrdokument
 
--  Resurser organiseras och fördelas i verksamheten
--  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
+\-  Resurser organiseras och fördelas i verksamheten
+\-  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
 
--  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
+\-  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
 Det finns också i skollagen uttalade krav på ägar- och ledningskretsen för fristående huvudmän.
 Ägar- och ledningskretsen beror på organisationsform och kan exempelvis vara styrelseledamöter
 eller verkställande direktör eller ägare. Det ska finnas ekonomiska förutsättningar för
@@ -373,32 +373,32 @@ samt eventuellt inkomna signaler.
 
 1.2 Tillvägagångssätt för regelbunden tillsyn
 
--  Information till fristående huvudman om kommande tillsyn.
--  Underlag med frågor och efterfrågad dokumentation går till fristående huvudman för att
+\-  Information till fristående huvudman om kommande tillsyn.
+\-  Underlag med frågor och efterfrågad dokumentation går till fristående huvudman för att
 besvara.
 
--  I de fall det inte finns en nyligen genomförd ägar- och ledningsprövning görs även detta.
--  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
+\-  I de fall det inte finns en nyligen genomförd ägar- och ledningsprövning görs även detta.
+\-  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
 informationen där upp en plan för tillsynsbesöket och prioriterade områden.
 
--  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
+\-  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
 intervjuer med företrädare för verksamheten. Även vårdnadshavare kan komma att
 tillfrågas.
--  Sammanfattande bedömning och vid behov begärs komplettering in.
+\-  Sammanfattande bedömning och vid behov begärs komplettering in.
 
--  Beslut och kommunicering med huvudman.
--  Uppföljning av eventuella förelägganden.
+\-  Beslut och kommunicering med huvudman.
+\-  Uppföljning av eventuella förelägganden.
 
 Inom den regelbundna tillsynen görs en bred genomgång av regelefterlevnad. Frågeställningarna
 utvecklas löpande utifrån erfarenheter från tidigare tillsyner.
 En tillsynsbeslut kan resultera i:
 
--  Föreläggande
+\-  Föreläggande
 
--  Anmärkning
--  Avstående från ingripande
+\-  Anmärkning
+\-  Avstående från ingripande
 
--  Återkallelse
+\-  Återkallelse
 
 Kungsbacka kommun Redovisning av tillsyn 2023 samt planerad tillsyn 2024 4
 
@@ -423,10 +423,10 @@ Avstående från ingripande
 Den granskande myndigheten kan avstå från ett ingripande och ändå beskriva bristerna i beslutet
 om:
 
--  bristerna vid en tillsyn är mindre
--  verksamheten som granskas genomför nödvändig rättelse
+\-  bristerna vid en tillsyn är mindre
+\-  verksamheten som granskas genomför nödvändig rättelse
 
--  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
+\-  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
 Återkallelse
 
 Om en verksamhet har mycket allvarliga brister kan den granskande myndigheten fatta beslut om
@@ -445,13 +445,13 @@ tillräckliga förutsättningar att driva verksamheten med en god kvalitet samt 
 förtroende för verksamheten.
 
 Godkännande ska lämnas om den enskilde
--  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+\-  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten (exempelvis skollag och förordningar, arbetsmiljö och arbetsrätt samt de
 ekonomiska regelverk som styr associationsformen).
 
--  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
+\-  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
 
--  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
+\-  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
 Vidare krävs enligt tredje stycket att den enskilde i övrigt bedöms lämplig. I fråga om en juridisk
 person krävs att samtliga som anges i 2 kap. 5 a § 1-4 skollagen bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
@@ -649,7 +649,7 @@ handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -714,11 +714,11 @@ rättigheter för givet är den generation som kommer förlora dessa värden.
 
 Socialdemokraterna yrkar att:
 
-1. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
+1\. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
 minnesplatser kan planeras och utföras för grundskoleelever och gymnasieelever i Kungsbacka
 vilket ska genomföras i projektform under en lämplig tidsperiod för att därefter utvärderas.
 
-2. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
+2\. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
 lärare och andra professioner genom SKMAS fortbildningssatsning i ett led att utveckla och
 fördjupa arbetet med resor till Förintelsens minnesplatser. Även detta i projektform under en
 lämplig tidsperiod för att därefter utvärderas.
@@ -729,7 +729,7 @@ Nara SsAreba
 j — NN on RE 0  ——
 Ermin Skoric (S) Shabnam Zamani (S)
 -— - sä j
-- PE —
+\- PE —
 
 Fv f
 Arn
@@ -1263,16 +1263,16 @@ Elevenkäter
 
 Årskurs 5
 Kungsbackas årskurs 5 har lägst resultat i följande områden jämfört med riksgenomsnittet:
-- Trygghet: 77 % av eleverna i Kungsbacka känner sig trygga i skolan, jämfört med 83 % i riket.
+\- Trygghet: 77 % av eleverna i Kungsbacka känner sig trygga i skolan, jämfört med 83 % i riket.
 
-- Lärande: 67 % av eleverna i Kungsbacka tycker att de får lära sig mycket i skolan, jämfört med
+\- Lärande: 67 % av eleverna i Kungsbacka tycker att de får lära sig mycket i skolan, jämfört med
 74 % i riket.
-- Stöd: 61 % av eleverna i Kungsbacka tycker att de får det stöd de behöver i skolan, jämfört med
+\- Stöd: 61 % av eleverna i Kungsbacka tycker att de får det stöd de behöver i skolan, jämfört med
 68 % i riket.
 Några skillnader mellan hur pojkar och flickor i årskurs 5 svarat.
-- Flickorna känner sig mer trygga i skolan än pojkarna. 81 % av flickorna och 73 % av pojkarna
+\- Flickorna känner sig mer trygga i skolan än pojkarna. 81 % av flickorna och 73 % av pojkarna
 känner sig trygga i skolan.
-- Flickorna tycker att de får lära sig mer i skolan än pojkarna. 71 % av flickorna och 63 % av
+\- Flickorna tycker att de får lära sig mer i skolan än pojkarna. 71 % av flickorna och 63 % av
 pojkarna tycker att de får lära sig mycket i skolan.
 
 -. Flickorna tycker att de får mer stöd i skolan än pojkarna. 66 % av flickorna och 56 % av pojkarna
@@ -1280,18 +1280,18 @@ tycker att de får det stöd de behöver i skolan.
 Årskurs 8
 Kungsbackas årskurs 8 har lägst resultat i följande områden jämfört med riksgenomsnittet:
 
-- Trygghet: 72 % av eleverna i Kungsbacka känner sig trygga i skolan, jämfört med 81 % i riket.
-- Lärande: 63 % av eleverna i Kungsbacka tycker att de får lära sig mycket i skolan, jämfört med
+\- Trygghet: 72 % av eleverna i Kungsbacka känner sig trygga i skolan, jämfört med 81 % i riket.
+\- Lärande: 63 % av eleverna i Kungsbacka tycker att de får lära sig mycket i skolan, jämfört med
 71 % i riket.
-- Stöd: 57 % av eleverna i Kungsbacka tycker att de får det stöd de behöver i skolan, jämfört med
+\- Stöd: 57 % av eleverna i Kungsbacka tycker att de får det stöd de behöver i skolan, jämfört med
 65 % i riket.
 Några skillnader mellan hur pojkar och flickor i årskurs 8 svarat:
 
-- Flickorna känner sig mer trygga i skolan än pojkarna. 72 % av flickorna och 64 % av pojkarna
+\- Flickorna känner sig mer trygga i skolan än pojkarna. 72 % av flickorna och 64 % av pojkarna
 känner sig trygga i skolan.
-- Flickorna tycker att de får lära sig mer i skolan än pojkarna. 66 % av flickorna och 60 % av
+\- Flickorna tycker att de får lära sig mer i skolan än pojkarna. 66 % av flickorna och 60 % av
 pojkarna tycker att de får lära sig mycket i skolan.
-- Flickorna tycker att de får mer stöd i skolan än pojkarna. 62 % av flickorna och 52 % av pojkarna
+\- Flickorna tycker att de får mer stöd i skolan än pojkarna. 62 % av flickorna och 52 % av pojkarna
 tycker att de får det stöd de behöver i skolan
 Frånvaro
 
@@ -1472,11 +1472,11 @@ Utredningarna har konstaterat brister i samtliga ärenden förutom i ett av dem 
 Bristerna bistår i att skolan inte följt det som skollagen föreskriver. Bland annat att man inte utrett
 särskilt stöd eller kränkningar, eller att arbetet inte skett skyndsamt och/eller att
 kränkningsutredningar inte är fullständiga.
-- 5 stycken ärenden från Barn- och elevombudet (BEO)
-- 3 stycken ärenden från BEO pågår fortfarande. I de 2 ärenden som är avslutade, avslutades utan
+\- 5 stycken ärenden från Barn- och elevombudet (BEO)
+\- 3 stycken ärenden från BEO pågår fortfarande. I de 2 ärenden som är avslutade, avslutades utan
 kritik. I ena fallet hade eleven slutat skolan och i det andra hade eleven bytt skolenhet.
 
-- 5 stycken från Diskrimineringsombudet (DO), varav 1 rör förskolan.
+\- 5 stycken från Diskrimineringsombudet (DO), varav 1 rör förskolan.
 Alla ärenden från DO är fortfarande pågående.
 Ytterligare ett ärende som inkommit från DO läsåret 2021/2022 är fortfarande pågående, DO har
 
@@ -1547,26 +1547,26 @@ Nämnden för Förskola & Grundskola               Kungsbacka kommun
 20 skolor har lägre andel elever med otillräckliga kunskaper. Följande sex skolor har högre andel än
 10 procent elever med otillräckliga kunskaper.
 Betyg
-- Det finns differens i meritvärde mellan olika skolenheter, som minskar jämfört med föregående år.
+\- Det finns differens i meritvärde mellan olika skolenheter, som minskar jämfört med föregående år.
 Det är en liten förändring vilka enheter som har högst/lägst sett över tid. Det genomsnittliga
 meritpoänget i Kungsbacka var 236,9och i riket 223,6. Det modellberäknade värdet för Kungsbacka
 2023 innebär en negativ avvikelse på -4,0 vilket är en något lägre avvikelse jämfört med 2022.
 
-- Det är en fortsatt stor men minskande differens i meritvärde mellan flickor och pojkar. Däremot är
+\- Det är en fortsatt stor men minskande differens i meritvärde mellan flickor och pojkar. Däremot är
 det ingen differens mellan pojkar och flickor avseende andelen behöriga till gymnasiet.
-- Differens i meritvärde mellan pojkar och flickor finns både på skolor med högt respektive lågt
+\- Differens i meritvärde mellan pojkar och flickor finns både på skolor med högt respektive lågt
 genomsnittligt meritvärde.
 Åtgärdsprogram och särskilt stöd
-- Statistikunderlaget är förändrat sedan föregående år. En utredning kan ha flera på varandra
+\- Statistikunderlaget är förändrat sedan föregående år. En utredning kan ha flera på varandra
 följande åtgärdsprogram. Dock så kvarstår problematiken att det är det totala antalet extra
 anpassningar och antalet åtgärdsprogram som räknas och inte hur många elever som har EA eller
 
 ÅP. Statistiken behöver därför följas av fördjupad undersökning på några skolor för att få redan på
 de egentliga orsaker till andelen EA och ÅP.
-- I år är det en hög andel extra anpassningar per elev och andelen har ökat från medelvärdet 23% år
+\- I år är det en hög andel extra anpassningar per elev och andelen har ökat från medelvärdet 23% år
 2022 till 50% i år 2023. Standardavvikelsen har också ökat från 0,11 till 0,19. I den skola som har
 högst andel EA har 93% av eleverna extra anpassningar.
-- Det finns fortfarande samma tendens som 2022 att vissa skolor (F-5) har fler EA och färre ÅP och
+\- Det finns fortfarande samma tendens som 2022 att vissa skolor (F-5) har fler EA och färre ÅP och
 högstadieskolor har fler ÅP och färre EA.
 
 Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 16
@@ -2515,7 +2515,7 @@ Att stärka   barn   och   ungas    välmående      och
 
 psykiska    hälsa   med    fysisk  aktivitet.
 
--  Underlag ansökan ”Samverkan för ökad rörelse” 2024
+\-  Underlag ansökan ”Samverkan för ökad rörelse” 2024
 
 Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
@@ -2554,7 +2554,7 @@ Kungsbacka kommun            Rapportmall                        2
 
 <!-- sida 71 -->
 
-2. Vart är vi idag?
+2\. Vart är vi idag?
 
 Självskattad hälsa hos flickor minskar successivt i alla åldersgrupperna –
 LUPP
@@ -2589,7 +2589,7 @@ Kungsbacka kommun            Rapportmall                        3
 
 <!-- sida 72 -->
 
-3. Vart vill vi?
+3\. Vart vill vi?
 
 Öka andelen barn och unga som rör sig enligt rekommendationerna!
 
@@ -2607,7 +2607,7 @@ Kungsbacka kommun            Rapportmall                        4
 
 <!-- sida 73 -->
 
-4. Vad vill vi göra?
+4\. Vad vill vi göra?
 
 Bakgrund för prioriteringar för FG:
 Inom barn och ungdomsidrotten, och framför allt inom idrott och hälsa i skolan,
@@ -2843,7 +2843,7 @@ Inte aktuellt
 
 Utvecklande av light sports communities
 
-2024: *
+2024: \*
 Mötesplatsidrott, i övrigt på vänt.
 
 Budget          Kostnad
@@ -2897,7 +2897,7 @@ Syftet är att motverka både fysisk och psykisk ohälsa hos unga i Kungsbacka.
 Vi bedömer att en summa runt 1 miljoner kronor är lämplig att ansöka om, och föreslår nämnden för
 Förskola och Grundskola besluta;
 
--  Att ge förvaltningschefen i uppdrag att skyndsamt undersöka möjligheterna till verkningsfulla
+\-  Att ge förvaltningschefen i uppdrag att skyndsamt undersöka möjligheterna till verkningsfulla
 satsningar inom ovan beskrivet område, och redovisa dessa till nämnden.
 
 Emanuel Forsell (M)
@@ -3009,7 +3009,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

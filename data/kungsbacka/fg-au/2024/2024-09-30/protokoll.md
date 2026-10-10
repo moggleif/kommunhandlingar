@@ -254,14 +254,14 @@ främjande och åtgärdande arbetet med studiero samt följa upp och analysera l
 bedömningar i syfte att skapa likvärdighet.
 Rektor har vidtagit ett antal åtgärder och i relation till det olika utvecklingsområden.
 
-- En utvecklad struktur för elevhälsans samarbete med lärarna och mellan
+\- En utvecklad struktur för elevhälsans samarbete med lärarna och mellan
 speciallärare-lärare.
-- Speciallärare ger ett mer utvecklat stöd till lärarna och ett riktat kollegialt stöd från
+\- Speciallärare ger ett mer utvecklat stöd till lärarna och ett riktat kollegialt stöd från
 förstelärare.
 
-- Förtydligad struktur kring raster/rastaktiviteter och en utvecklad rutin för
+\- Förtydligad struktur kring raster/rastaktiviteter och en utvecklad rutin för
 kränkningsanmälningar.
-- Utvecklat en förtydligad struktur för lärarnas bedömningar med sambedömning och
+\- Utvecklat en förtydligad struktur för lärarnas bedömningar med sambedömning och
 
 gemensamma analyser.
 

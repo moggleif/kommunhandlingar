@@ -62,7 +62,7 @@ Rebecka Pettersson, verksamhetschef
 Isa Urün, verksamhetschef
 
 Personalföreträdare           Övriga
--                             -
+\-                             -
 
 Plats och tid för justering Digital justering
 
@@ -132,7 +132,7 @@ Kommunbudgeten följs upp i samband med kommunens årsredovisning då bokslut
 och förvaltningsberättelse redovisas. Dessutom sker uppföljning av
 kommunbudgeten vid apriluppföljningen och delårsrapport i augusti.
 Prognos och utfall för april månad 2024 redovisas på nämndsammanträdet i maj
-2024.
+2024\.
 
 Det ackumulerade resultatet är +6,2 miljoner kronor (mnkr). Detta beror främst på att
 både momsintäkterna (+1 mnkr) och brukar intäkterna (+1,1 mnkr) varit högre än

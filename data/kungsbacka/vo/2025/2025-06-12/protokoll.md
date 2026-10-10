@@ -113,7 +113,7 @@ Information - Omställning till nya socialtjänstlagen 2025 ....................
 
 § 95 Dnr VO-2025-00183
 Beslut om insatser utan behovsprövning enligt socialtjänstlagen (2025:000)
-- Nämnden för Vård & Omsorg .................................................................... 8
+\- Nämnden för Vård & Omsorg .................................................................... 8
 
 § 96 Dnr VO-2025-00189
 Delegeringsförteckning - Nämnden för Vård & Omsorg - revidering ......... 9
@@ -672,10 +672,10 @@ Förslag till beslut på sammanträdet
 Ermin Skoric (S) Astrid Börjesson (S) och Eva Tingström (S) föreslår
 ändringsyrkanden enligt följande:
 
-1. Nämnden för Vård & Omsorg upphäver den aktuella Vägledningen som
+1\. Nämnden för Vård & Omsorg upphäver den aktuella Vägledningen som
 initialt beslutades i nämnden 2024-01-25 (§ 2 Dnr VO-2023-00230) inklusive
 ändringar i schabloner.
-2. Nämnden för Vård & Omsorg beslutar att återställa insatsernas schablonstider
+2\. Nämnden för Vård & Omsorg beslutar att återställa insatsernas schablonstider
 och frekvens som gällde innan beslutet i nämnden 2024-01-25 (§ 2 Dnr VO-
 2023-00230).
 
@@ -1171,7 +1171,7 @@ Diarienummer VO-2025-00139 -
 
 Avtal
 
--
+\-
 
 Övrigt
 Diarienummer VO-2025-00155. Yttrande till Patientnämnden Halland, 2025-05-06.

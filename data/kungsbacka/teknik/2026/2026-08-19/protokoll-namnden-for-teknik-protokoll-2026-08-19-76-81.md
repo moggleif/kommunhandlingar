@@ -111,15 +111,15 @@ många bestämmelser som redan framgår av lagstiftning har tagits bort eller ko
 ned, samtidigt som mer fokus lagts på de delar som kommunen ansvarar för att
 reglera. Se separat dokument för redovisning av föreslagna ändringar. Ändringarna
 innefattar bland annat:
-- Rubriken ”Sortering av avfall” förkortas och anvisningar om sortering av avfall
+\- Rubriken ”Sortering av avfall” förkortas och anvisningar om sortering av avfall
 flyttas till en bilaga.
 
-- Rubrikerna ”Särskilt om avfall under kommunalt ansvar från verksamheter” och
+\- Rubrikerna ”Särskilt om avfall under kommunalt ansvar från verksamheter” och
 ”Annat avfall än avfall under kommunalt ansvar från verksamheter” utgår i stort.
 
-- Tillsynsansvarig nämnd och nämnden för Miljö & Hälsoskydd justeras till ansvarig
+\- Tillsynsansvarig nämnd och nämnden för Miljö & Hälsoskydd justeras till ansvarig
 tillsynsmyndighet.
-- Längsta tillåtna sträcka för framdragning, dragväg, justeras från 100 meter till 50
+\- Längsta tillåtna sträcka för framdragning, dragväg, justeras från 100 meter till 50
 meter.
 
 Föreskrifterna ställs ut för att ge allmänheten, fastighetsinnehavare,

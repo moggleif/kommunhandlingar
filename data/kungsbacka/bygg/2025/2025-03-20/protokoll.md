@@ -461,7 +461,7 @@ Miljökonsekvensbeskrivning, 2024-03-20, rättad 2024-09-30
 Vid sammanträdet redogör samhällsbyggnadskontoret för att en redaktionell ändring
 behöver göras i första beslutsatsen, då dateringen av granskningsutlåtandet och
 antagandehandlingarna är felaktig i arbetsutskottets förslag till beslut (2025-02-25 §
-49) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
+49\) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
 Underlagen i sig är korrekt daterade med 2025-02-11.
 
 Byggnadsnämnden har inget att erinra mot samhällsbyggnadskontorets redogörelse.

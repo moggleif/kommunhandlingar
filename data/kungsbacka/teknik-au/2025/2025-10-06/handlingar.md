@@ -363,7 +363,7 @@ eller befintliga skyfallsdiken.
 Idag är hastighetsgränsen 60 km/h på Hällingsjövägen, men hastighetsmätningar visar att verklig
 hastighet ligger något lägre på den aktuella sträckan. 85-percentilen (dvs den hastighet som 85% av
 fordonen max kör i) är uppmätt till 52 km/tim och medelhastigheten till 47 km/tim i senaste mätningen
-2019. Utifrån att hastigheterna redan idag är något lägre än reglerad hastighet bedömer Teknik att det
+2019\. Utifrån att hastigheterna redan idag är något lägre än reglerad hastighet bedömer Teknik att det
 är rimligt att sänka hastighetsbegränsningen till 40 km/tim på den aktuella sträckan för att möjliggöra
 byggnation av bullerskyddet.
 

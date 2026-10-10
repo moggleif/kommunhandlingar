@@ -77,7 +77,7 @@ Vanja Winroth, utvecklingsledare,
 § 97
 
 Personalföreträdare           Övriga
--
+\-
 
 <!-- sida 2 -->
 
@@ -194,7 +194,7 @@ Sammanfattning av ärendet
 
 Ordförande Hravn Forsne (M) anmäler ett initiativärende till dagens sammanträde
 
-- Initiativ från Per Hoel (SD) m fl - En värdig ålderdom Demensteamets framtid och
+\- Initiativ från Per Hoel (SD) m fl - En värdig ålderdom Demensteamets framtid och
 organisation i Kungsbacka.
 
 Beslutsgång
@@ -397,11 +397,11 @@ Ermin Škorić (S), Astrid Börjesson (S) och Eva Tingström (S) yrkar återremi
 följande motivering.
 
 Nämnden för Vård & omsorg ger förvaltningen i uppdrag att:
--  utreda hur leveransavgiften kan införas kostnadsneutralt i relation till
+\-  utreda hur leveransavgiften kan införas kostnadsneutralt i relation till
 hemtjänsttaxan så att den enskilde inte drabbas negativt ekonomiskt av
 
 beslutet.
--  utreda hur aktuell hemtjänstgrupp kan ansvara för leverans och uppackning
+\-  utreda hur aktuell hemtjänstgrupp kan ansvara för leverans och uppackning
 av varorna.
 
 Beslutsgång
@@ -569,15 +569,15 @@ forts. § 90
 och revidering. Följande riktlinjer bedöms hänga samman med ledningssystem för
 systematiskt kvalitetsarbete:
 
-* Riktlinje för lex Sarah
-* Riktlinje för lex Maria
+\* Riktlinje för lex Sarah
+\* Riktlinje för lex Maria
 
-* Riktlinje för händelserapportering
-* Riktlinje för riskanalys
+\* Riktlinje för händelserapportering
+\* Riktlinje för riskanalys
 
-* Riktlinje för egenkontroll
+\* Riktlinje för egenkontroll
 
-* Riktlinje för synpunkts- och klagomålshantering
+\* Riktlinje för synpunkts- och klagomålshantering
 Arbetsgruppen föreslår att riktlinjerna, som idag är utförligt och detaljerat beskrivna,
 renodlas med fokus på vad som ska göras inom respektive område och hur detta
 arbete och resultat ska återföras till nämnd. Riktlinjerna underställs nämnden för
@@ -593,7 +593,7 @@ våren. Under hösten kommer övriga reviderade riktlinjer med koppling till SOS
 Överväganden
 Ledningssystem för systematiskt kvalitetsarbete inom förvaltningen för Vård &
 Omsorg, Kungsbacka kommun, reviderades senast av nämnden den 13 december
-2017. Det är därför angeläget att ledningssystemet snarast revideras. Dessutom är
+2017\. Det är därför angeläget att ledningssystemet snarast revideras. Dessutom är
 
 ledningssystemet ett styrande dokument som påverkar alla underliggande riktlinjer
 kopplade till det systematiska kvalitetsarbetet vilket ytterligare motiverar till att
@@ -775,12 +775,12 @@ Förslag till beslut:
 
 Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att:
 
-- Stoppa nedmonteringen av det nuvarande demensteamet.
-- Inleda rekrytering för ytterligare ett demensteam under 2024-2026 som ska
+\- Stoppa nedmonteringen av det nuvarande demensteamet.
+\- Inleda rekrytering för ytterligare ett demensteam under 2024-2026 som ska
 finansieras i projektform genom finansiering av resultatfonden om en kostnad på
 upp till 15 miljoner kronor.
 
-- Utvärdera projektet med slutredovisning till Nämnden för Vård & Omsorg senast
+\- Utvärdera projektet med slutredovisning till Nämnden för Vård & Omsorg senast
 januari 2026 för att underlaget ska kunna tillgodogöras i nästkommande
 budgetberedningsprocess och underlag från förvaltningen.
 
@@ -948,7 +948,7 @@ Total kostnad för det nya Demensteamet är ca 10 mkr/år vilket tangerar kostna
 förvaltningens förslag.
 
 Sverigedemokraterna yrkar på:
--  att Demensteamet organiseras enligt ovanstående.
+\-  att Demensteamet organiseras enligt ovanstående.
 
 Beslutsunderlag
 Initiativärende från Per Hoel (SD) med flera En värdig ålderdom Demensteamets
@@ -1074,17 +1074,17 @@ förändringsleda kring hela Kungsbackamodellen och alla berörda yrkesroller - 
 inte klara.
 Utifrån halvtidsavstämningen kommer vi dock särskilt att fokusera på:
 
--  Uppdraget som Fast omsorgskontakt och att få till bra rutiner för under
+\-  Uppdraget som Fast omsorgskontakt och att få till bra rutiner för under
 arbetsdagen för arbetsuppgifter kopplat till uppdraget
--  Gruppmöten i de mindre arbetsläget- att samtliga grupper får bra rutiner för
+\-  Gruppmöten i de mindre arbetsläget- att samtliga grupper får bra rutiner för
 
 mötet och återkopplar till koordinator/biståndshandläggare/HSV-personal.
 Att dialogen ökar än mer.
--  Komma i fas med uppföljningar av beslut mellan biståndshandläggare och
+\-  Komma i fas med uppföljningar av beslut mellan biståndshandläggare och
 fast omsorgskontakt samt förbättra kommunikationen sinsemellan
 
--  Fortsätta se över schema och insatsplanering för de mindre arbetslagen
--  Skapa än större enhetlighet i hur utredningar/uppdrag till hemtjänst skrivs av
+\-  Fortsätta se över schema och insatsplanering för de mindre arbetslagen
+\-  Skapa än större enhetlighet i hur utredningar/uppdrag till hemtjänst skrivs av
 biståndshandläggarna
 
 Nästa större uppföljning sker i slutet av augusti, då även uppföljande intervjuer med
@@ -1375,8 +1375,8 @@ Sammanfattning av ärendet
 
 Biträdande förvaltningschef Lotta Nord informerar i följande punkter:
 
--  Utredning enligt lex Sarah angående händelsen vid Blåvingevägen
--  Verksamhetschefernas tacktal till enhetscheferna
+\-  Utredning enligt lex Sarah angående händelsen vid Blåvingevägen
+\-  Verksamhetschefernas tacktal till enhetscheferna
 
 Beslutsgång
 
@@ -1397,7 +1397,7 @@ Datum
 § 102                      Dnr VO-2024-00007
 Information från ledamöter 2024
 
--
+\-
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3A1900D406A0361767A5DB97A2E90D41D48993FBE6

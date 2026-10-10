@@ -251,7 +251,7 @@ Sammanfattning av ärendet
 Verksamhetschef Rüddi Porsgaard och enhetschef Caroline Vård, Vardaga AB,
 redovisar för delårsrapport samt delårsuppföljning av nämndens mål och direktiv,
 kvalitetsberättelse, patientsäkerhetsberättelse och berättelse om God och nära vård
-2026.
+2026\.
 
 Beslutsunderlag
 Delårsredovisning 2026, Ekhagas och Vickans vård- och omsorgsboenden, Vardaga
@@ -311,7 +311,7 @@ Sammanfattning av ärendet
 Verksamhetschef Josefine Bergendahl, Attendo hemtjänst, redovisar för
 delårsrapport samt delårsuppföljning av nämndens mål och direktiv,
 kvalitetsberättelse, patientsäkerhetsberättelse och berättelse om God och nära vård
-2026.
+2026\.
 
 Beslutsunderlag
 Delårsredovisning 2026, Attendo hemtjänst
@@ -953,7 +953,7 @@ Följande datum föreslås för år 2027, klockan 14:00-18:00:
 15 april          23 september
 
 Nämnden för Vård & Omsorgs planeringsdagar föreslås till 28 januari och 26 augusti
-2027.
+2027\.
 
 Beslutsunderlag
 
@@ -1390,13 +1390,13 @@ verksamheterna.
 Vidare svarar Arian Faily på inkomna frågor till sammanträdet:
 Frågor från Per Hoel (SD):
 
-1. Hur ser bemanningsplaneringen för IP-planerare ut inför att VÅBO går in i
+1\. Hur ser bemanningsplaneringen för IP-planerare ut inför att VÅBO går in i
 GIB i oktober?
 
-2. Hur bedömer förvaltningen arbetsbelastningen för IP-planerarna inför
+2\. Hur bedömer förvaltningen arbetsbelastningen för IP-planerarna inför
 förändringen?
 
-3. Ser förvaltningen några risker eller behov av ytterligare åtgärder inför
+3\. Ser förvaltningen några risker eller behov av ytterligare åtgärder inför
 förändringen?
 
 Svar från Arian Faily – de inkomna frågorna har besvarats i samband med
@@ -1405,13 +1405,13 @@ insats- och bemanningsenhet (GIB) inom vård- och omsorgsboende.
 
 Frågor från Ermin Škorić (S):
 
-1. Hur ser introduktionen ut när personal ska ta pass inom särskilt boende?
+1\. Hur ser introduktionen ut när personal ska ta pass inom särskilt boende?
 
 Svar från Arian Faily - Om en medarbetare ska arbeta inom ett annat
 verksamhetsområde och behöver en bredvidgång för att känna sig trygg med sitt
 resurspass så ska den dialogen ske med närmsta chef och planeras för.
 
-2. Vad är det som gäller när personal anser att tiden inte räcker till (så att vi
+2\. Vad är det som gäller när personal anser att tiden inte räcker till (så att vi
 verkligen kommer ifrån minutstyrningen) och vart vänder dem sig och vem
 fattar beslutat om att tiden ska utökas? Och är det så att en automatisk
 utökning av tid leder till att tiden för något annat skärs ner?

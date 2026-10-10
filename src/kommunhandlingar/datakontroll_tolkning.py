@@ -17,6 +17,7 @@ TOLKNING = "<!-- tolkning:"
 MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
+ESCAPAT = re.compile(r"\\([!-/:-@\[-`{-~])")
 SIFFRA = re.compile(r"\d")
 KOLUMN = re.compile(" {2,}")
 # Två siffergrupper som kan vara ett tal delat över en radbrytning eller
@@ -70,9 +71,10 @@ def sidorna(md: str) -> dict[str, str]:
 
 
 def sidans_text(md: str, sida: int) -> str:
-    """Sidans text i `.md` före tolkningen, utan länkarna till tabellerna."""
+    """Sidans text i `.md` före tolkningen, utan länkarna till tabellerna
+    och utan Markdowns escapning (ADR-0021), som den stod i PDF:en."""
     text = sidorna(md.split("---\n", 2)[-1]).get(str(sida), "")
-    return LANK.sub("", text.split(TOLKNING)[0])
+    return ESCAPAT.sub(r"\1", LANK.sub("", text.split(TOLKNING)[0]))
 
 
 def talfel(fil: Path, md: Path, sida: int) -> list[str]:

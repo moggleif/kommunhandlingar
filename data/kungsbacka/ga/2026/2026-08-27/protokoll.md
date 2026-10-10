@@ -298,11 +298,11 @@ Datum
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner Årsrapport dataskyddsarbete
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Förvaltningen har sammanfattat hur nämndens dataskyddsarbete genomförts under
-2025. Den resursbrist som funnit de senaste åren har bidragit till att förvaltningens
+2025\. Den resursbrist som funnit de senaste åren har bidragit till att förvaltningens
 arbete inte genomförts i den takt som varit planerad. Plan för åtgärd finns i
 uppföljningen.
 
@@ -690,7 +690,7 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Beslut från Skolinspektionen för kännedom till kommunen
+1\. Beslut från Skolinspektionen för kännedom till kommunen
 
 Beslutsgång
 

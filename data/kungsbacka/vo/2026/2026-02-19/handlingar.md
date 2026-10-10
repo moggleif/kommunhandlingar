@@ -84,12 +84,12 @@ genomförs på ett opartiskt och oberoende sätt.
 
 Qvalify’s verksamhet bygger på följande principer:
 
-- Opartiskhet och oberoende
-- Kompetens
-- Ansvar
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Opartiskhet och oberoende
+\- Kompetens
+\- Ansvar
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Granskningsteam
 
@@ -178,7 +178,7 @@ Vardaga        Kungsbacka               2025-12-31       Sida 3(20)
 
 Uppdragets delområden
 
-1. Hälsofrämjande och riskförebyggande arbete – Verksamhetskoncept
+1\. Hälsofrämjande och riskförebyggande arbete – Verksamhetskoncept
 
 Verksamhetskonceptet består i att kunna ge boende trygghet och insatser som är
 
@@ -242,7 +242,7 @@ från kommunen har sin egen dokumentation. Dokumentets rubriker för dessa delar
 kan kompletteras så att gruppchef eller kontaktman kan fylla i detta själv på
 enheten.
 
-2. Hälsofrämjande och riskförebyggande arbete – Nattkoncept
+2\. Hälsofrämjande och riskförebyggande arbete – Nattkoncept
 
 På natten arbetar specifik nattpersonal. Dessa arbetar våningsvis utan avdel-
 ningstillhörighet.
@@ -260,7 +260,7 @@ god sömn dokumenteras i genomförandeplanen. Uppdatering sker var 6:e månad
 och/eller vid behov. Informationen förs över specifikt till nattpersonalen. Stickprov
 på dokumentationen visar på god följsamhet till aktuell rutin.
 
-3. Hälsofrämjande och riskförebyggande arbete – Salutogent och
+3\. Hälsofrämjande och riskförebyggande arbete – Salutogent och
 Rehabiliterande arbetssätt
 
 Verksamheterna arbetar med ett salutogent arbetssätt där man får in vardags-
@@ -325,7 +325,7 @@ Samtalar med vikarie och köksassistent (sommarjobbare) som meddelar att man
 bakar flera gånger i veckan, och att brukarna då väljer om de vill hjälpa till eller
 titta på.
 
-4. Hälsofrämjande och riskförebyggande arbete – Fysisk träning
+4\. Hälsofrämjande och riskförebyggande arbete – Fysisk träning
 utifrån rehabiliterande förhållningssätt
 
 På vardagarna finns två till tre aktiviteter per dag att välja på, varav minst en till två
@@ -411,7 +411,7 @@ undersökning skett kring hur de boende tillfrågas. Förbättringsförslag har 
 inom området i syfte att nå fram ytterligare och öka deltagandet vid aktiviteter som
 anordnas.
 
-5. Hälsofrämjande och riskförebyggande arbete - Optiska
+5\. Hälsofrämjande och riskförebyggande arbete - Optiska
 Sensorer
 
 De optiska sensorerna fungerar som en extra trygghet för boende samt natt-
@@ -427,7 +427,7 @@ Möjlighet finns att använda GPS-sändare som är på dygnet runt. (Vickan)
 Personalen ser i telefonen när en brukare närmar sig utgången på avdelningen
 och kan agera vid behov om identifierad risk finns.
 
-6. Hälsofrämjande och riskförebyggande arbete – Riskanalys/bedömning
+6\. Hälsofrämjande och riskförebyggande arbete – Riskanalys/bedömning
 generellt
 
 Riskanalyser görs för de boende vid inflyttning. Man ser då över risker för den
@@ -474,7 +474,7 @@ och har på senare tid fått arbeta riskförebyggande på individnivå då en ny
 boende flyttat in och riskbedömningen visat på en hög risk. Riskerna har även
 lyfts till HSL-personal.
 
-7. Hälsofrämjande och riskförebyggande arbete - IBIC/ICF
+7\. Hälsofrämjande och riskförebyggande arbete - IBIC/ICF
 
 Regelbundna teammöten med fysioterapeut, arbetsterapeut och sjuksköterska
 sker var tredje vecka. Tillfrågad personal vittnar om att det är enkelt att få kontakt
@@ -511,7 +511,7 @@ Man försöker att planera in denna insats under en kortare period och sedan
 utvärdera resultat. När den medicinska delen är avklarad får träningen i stället
 övergå i individens ansvar, som en vardagsrehabilitering utan signering.
 
-8. Hälsofrämjande och riskförebyggande arbete – Särskilt arbete för
+8\. Hälsofrämjande och riskförebyggande arbete – Särskilt arbete för
 att minska fall och BPSD
 
 Vid inflyttning har man en inledande period då man lär känna den boende.
@@ -541,7 +541,7 @@ Läkemedelsuppföljning sker en gång per år i överenskommelsen med
 Kungsbacka kommun. Sjuksköterska ansvarar för detta. Följs upp i mellantiden vid
 behov.
 
-9. Hälsofrämjande och riskförebyggande arbete – Vårdhund
+9\. Hälsofrämjande och riskförebyggande arbete – Vårdhund
 
 Vårdhund kommer regelbundet varje månad till både Vickan och Ekhaga. Detta är
 mycket uppskattat hos de boende.
@@ -553,7 +553,7 @@ Vardaga        Kungsbacka               2025-12-31       Sida 10(20)
 
 <!-- sida 11 -->
 
-10. Aktiviteter och social samvaro – Motverka ensamhet
+10\. Aktiviteter och social samvaro – Motverka ensamhet
 
 De boende äter oftast frukost i de avdelningsgemensamma köken/matsalarna
 tillsammans med övriga boende. Möjlighet till att få frukost sträcker sig under hela
@@ -591,7 +591,7 @@ på en pod. Någon som berättar om händelser i sitt liv/arbetsliv/ erfarenhete
 någon av de boende som har högläsning. Det behöver inte alltid vara gäster som
 bokats in för detta.
 
-11. Aktiviteter och social samvaro – Aktivitetsorganisation
+11\. Aktiviteter och social samvaro – Aktivitetsorganisation
 
 Ekhaga och Vickan har under en del av året haft ett nära teamarbete gällande
 aktiviteter då man under en tid delade på tre gemensamma aktivitetspedagoger.
@@ -752,7 +752,7 @@ kläder och filtar håller brukarna varma.
 Signeringslistor som förs för att registrera deltagande vid aktiviteter har
 undersökts på tre avdelningar utan anmärkning.
 
-14. Aktiviteter och social samvaro – Personcentrerat arbetssätt vid
+14\. Aktiviteter och social samvaro – Personcentrerat arbetssätt vid
 Demenssjukdom
 
 Det finns en i personalen på varje avdelning som har rollen som demens-
@@ -812,7 +812,7 @@ metodiskt sätt för att lugna ner stämningen och försökte avleda med annat.
 Stämningen lugnade ner sig snabbt efter personalens agerande. Man visade att
 man är bra på att möta varje persons behov.
 
-15. Aktiviteter och social samvaro – Förbättring
+15\. Aktiviteter och social samvaro – Förbättring
 
 Kartläggning av den enskildes förmågor till att kunna klara vardagliga uppgifter
 själv samt att delta vid aktiviteter, utvärderas regelbundet. (beskrivs ovan) Det
@@ -833,7 +833,7 @@ handlingsplaner i syfte att nå ett bättre resultat. Även resultat från inter
 läggs in i loggen. Följer sedan upp månadsvis bl a vid APT.
 Egenkontroller genomförs regelbundet.
 
-16. Delaktighet och inflytande – Koncept
+16\. Delaktighet och inflytande – Koncept
 
 Exempel vid demensavdelningen Björken, Ekhaga:
 Brukarna är delaktiga i sin vardag så långt det är möjligt. Några samtalar bra och
@@ -853,13 +853,13 @@ personal berättar att man lyfter detta bl a på APT. Samtlig personal blir
 
 involverade i arbetet.
 
-17. Delaktighet och inflytande – Forum
+17\. Delaktighet och inflytande – Forum
 
 Närståendeträffar både på Vickan och Ekhaga med möjligheter att ställa frågor
 och framföra synpunkter hölls i december.
 "Fika med chefen" för de boende hölls också i december.
 
-18. Delaktighet och inflytande – Teknikstöd, hjälpmedel och
+18\. Delaktighet och inflytande – Teknikstöd, hjälpmedel och
 boendeanpassning
 
 Hjälpmedel som glasögon och hörapparater är utprovade och man undersöker
@@ -878,7 +878,7 @@ Vardaga        Kungsbacka               2025-12-31       Sida 16(20)
 
 <!-- sida 17 -->
 
-19. Delaktighet och inflytande – Praktikanter & ungdomar i omsorgen
+19\. Delaktighet och inflytande – Praktikanter & ungdomar i omsorgen
 
 Ung Omsorg har verksamhet på boendena med anställda ungdomar på besök
 både lördagar och söndagar. Helgaktiviteterna ingår i ordinarie aktivitetsschema
@@ -888,7 +888,7 @@ Praktikanter från grundskolans årskurs åtta praktiserar ibland och kan hjälp
 med servering vid måltiderna, även t ex vid hotellfrukostarna, transport till och från
 avdelningarna vid aktiviteter, och vid promenader.
 
-20. Måltider – Måltidsstunden
+20\. Måltider – Måltidsstunden
 
 Vid måltider på avdelningarna använder man sig av bordplacering som provas
 fram över tid. Vid behov av förändring t ex vid förändrade behov av hjälp vid
@@ -959,7 +959,7 @@ samma matsalen för att alla ska få lugn och ro när de äter då det finns oli
 behov. De som behöver stöd med matning sitter lite för sig själva där det är
 större utrymme och får vara lite mer i fred.
 
-21. Måltider – Delaktighet
+21\. Måltider – Delaktighet
 
 De boende har alltid möjlighet att göra val, både vid frukost och vid lunch. Vid
 frukosten finns olika livsmedel att välja mellan. Avdelningarna har ofta ett
@@ -986,7 +986,7 @@ Vardaga        Kungsbacka               2025-12-31       Sida 18(20)
 
 <!-- sida 19 -->
 
-22. Måltider – Nutrition
+22\. Måltider – Nutrition
 
 Kocken på Ekhaga komponerar måltider och säkerställer näringsinnehåll.
 Vid lunchen finns det alltid två rätter att välja mellan. Det är olika maträtter med
@@ -1187,7 +1187,7 @@ på förebyggande enheten och finansiering av utvecklingsledare. Övriga statsbi
 hälsosamtal för äldre samt arbete kring nya socialtjänstlagen.
 
 Förvaltningen har satt av 40 mkr för att klara av driften av Signeshus, som delvis öppnar efter renovering våren
-2026. Ca 8 mkr av dessa medel har använts för att täcka kostnader för ökade SOL-vak på Vård- och
+2026\. Ca 8 mkr av dessa medel har använts för att täcka kostnader för ökade SOL-vak på Vård- och
 omsorgsboenden samt inköp av medicinskåp och installation av nya larm.
 Hemtjänsttimmarna har under 2025 ökat med ca 35 000 timmar. Främsta orsaken är underskottet på
 boendeplatser medan renoveringen av Signeshus pågår.
@@ -1353,10 +1353,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Vad tycker de äldre om äldreomsorgen 2025
 
@@ -1490,7 +1490,7 @@ Personalkontinuitet, antal personal som en
 hemtjänstmottagare möter under 14 dagar, 17,9 19   18,4       21
 medelvärde, egenregi
 Brukarbedömning: Brukar du träffa din fasta
--         -       21 %      22 %
+\-         -       21 %      22 %
 omsorgskontakt inom hemtjänsten?
 3.1.2 Upplevelsen av ensamhet bland äldre i Kungsbacka som får insatser av förvaltningen
 för Vård & Omsorg ska årligen minska.
@@ -1563,8 +1563,8 @@ hemtjänsten
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
 
 10
@@ -1574,8 +1574,8 @@ mångfald.
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Under 2025 har förvaltningen implementerat arbetssättet Kungsbackamodellen inom samtliga hemtjänstgrupper
@@ -1612,12 +1612,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -1645,7 +1645,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115       151
@@ -1667,8 +1667,8 @@ total (kWh)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -1711,8 +1711,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Medicingivare
@@ -1869,12 +1869,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
--  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
+\-  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
 utforma det goda livet.
--  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\-  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
 
--  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+\-  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 Sammanfattning av nämndens arbete med målet
 Uppbyggnad av Kognitiva stödteamet
@@ -1961,7 +1961,7 @@ och möjlighet.
 
 Effekt/måluppfyllelse: Det kan konstateras att flera kompetenshöjande insatser har utförts. Cirka 70
 medarbetare har studerat på betald arbetstid, varav 17 avklarat utbildning till undersköterska. Fler planeras starta
-2026. Sjutton nya språkombud finns nu i verksamheterna och tio personer med förväntad höjd kunskap inom
+2026\. Sjutton nya språkombud finns nu i verksamheterna och tio personer med förväntad höjd kunskap inom
 svenska. Med ett permanent utbildningsteam samt planerad utveckling av utbildningsplan för samtliga
 befattningar finns goda möjligheter till fortsatt god effekt framåt och uppföljning sker via Winningtemp.
 Effekten kan följas via Winningtemp och även kopplat till uppföljning av händelserapportering och systematiskt
@@ -1989,7 +1989,7 @@ Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
 
 Antal biträden som utbildas till vårdbiträde - -    3         0
 Antal vårdbiträden som utbildas till
--         -                  17
+\-         -                  17
 undersköterska
 Upplevd möjlighet till kompetensutveckling - -                6,1
 
@@ -2411,7 +2411,7 @@ intensifiera arbetet kring kritiska resurser som system och välfärdsteknik, i 
 •  Chef i beredskap: Fortsatt utbildning och övning, med plan att minska antalet chefer i beredskap till 8–
 10 för ökad kontinuitet.
 •  Krisberedskap 48 h: Implementering och övning av utrustning på enhetsnivå, med leverans i januari
-2026.
+2026\.
 •  Beredskapsombud: Utökade uppgifter och kompetenshöjning via möten, utbildning och övning.
 
 •  Reservkraft och robusta lokaler: Fortsatta åtgärder för reservkraft, nödvatten och nödproviant samt
@@ -2501,10 +2501,10 @@ samhörighet bland de boende. Tre vård- och omsorgsboenden (Sandlyckan, Kolla o
 pilot för att under hösten 2025 arbeta fram ett nytt arbetssätt som syftade till att förbättra livskvaliteten utifrån
 individuella behov, intressen och förutsättningar. Genom att erbjuda ett mer varierat och meningsfullt
 aktivitetsutbud skapas flera förväntade nyttor:
-1. Ökad livskvalitet och välbefinnande:
+1\. Ökad livskvalitet och välbefinnande:
 Aktiviteter som stimulerar både kropp och sinne bidrar till att stärka självkänslan, öka glädjen i
 vardagen och skapa en känsla av meningsfullhet för de äldre.
-2. Förbättrad fysisk och psykisk hälsa:
+2\. Förbättrad fysisk och psykisk hälsa:
 Regelbundna och anpassade aktiviteter kan motverka stillasittande, minska risken för ofrivillig
 ensamhet, depression, och stimulera kognitiva funktioner, vilket i sin tur kan leda till ett minskat
 vårdbehov.
@@ -2516,14 +2516,14 @@ vårdbehov.
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-3. Ökad delaktighet och social samvaro:
+3\. Ökad delaktighet och social samvaro:
 Ett rikare aktivitetsutbud främjar gemenskap och motverkar ensamhet. Boende får fler möjligheter att
 interagera med varandra och med personal, vilket stärker den sociala sammanhållningen.
-4. Individanpassad omsorg:
+4\. Individanpassad omsorg:
 Genom att ta tillvara på de boendes tidigare intressen och livserfarenheter genom arbetet med
 levnadsberättelser och genomförandeplaner, kan aktiviteterna anpassas så att varje individ känner sig
 sedd, hörd och värdefull.
-5. Stärkt anhörigrelation:
+5\. Stärkt anhörigrelation:
 Anhöriga upplever ofta en ökad trygghet och tillfredsställelse när de ser att deras närstående får en
 meningsfull vardag med möjlighet till engagemang och glädje.
 
@@ -2934,7 +2934,7 @@ Förvaltning Gemensamt: +10 014 tkr
 Överskottet beror på en outnyttjad förvaltningsreserv på ca 9 500 tkr samt att utfallet på administrativa tjänster
 är lägre än budgeterat.
 Förvaltningsledningskontoret: -3 255 tkr
-- Biträdande FC: Resultatet på -600 tkr beror på ej budgeterade konsultkostnader.
+\- Biträdande FC: Resultatet på -600 tkr beror på ej budgeterade konsultkostnader.
 
 36
 
@@ -2957,16 +2957,16 @@ Förvaltningsledningskontoret: -3 255 tkr
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-- Innovation & Förnyelse: Resultat på -12 905 tkr. Hälsofrämjande & Förebyggande går i stort sätt enligt
+\- Innovation & Förnyelse: Resultat på -12 905 tkr. Hälsofrämjande & Förebyggande går i stort sätt enligt
 budget. Underskottet ligger på Innovation & Digitalisering där kostnader för det förordnade AI-initiativet finns,
 främst konsultkostnader. Under året har verksamheten investerat i att skapa förutsättningar för att vara en
 datadriven förvaltning.
 
-- Ledning & Styrning: Resultat på +8 667. Ca 5 000 tkr återfinns hos Myndighet som har ett överskott inom
+\- Ledning & Styrning: Resultat på +8 667. Ca 5 000 tkr återfinns hos Myndighet som har ett överskott inom
 budget för bostadsanpassning samt för köp av permanenta platser. 2 000 tkr ligger hos Planeringsteamet och
 beror på ett rättat redovisningsfel som belastat balanskonto under ett par år. Resterande överskott beror på
 vakanta tjänster på Kvalitet & Uppföljning.
-- Ledarskap, Kultur & Bemanning: Resultat +1 580 tkr. HR & Kommunikation har ett underskott på
+\- Ledarskap, Kultur & Bemanning: Resultat +1 580 tkr. HR & Kommunikation har ett underskott på
 ca 1 300 tkr som beror på avsaknad av finansiering för utbildningsteamet. Detta vägs upp av ett överskott på
 Gemensam Insats & Bemanning på ca 3 000 tkr. Merparten beror på vakanta tjänster hos Administratörer.
 
@@ -2974,36 +2974,36 @@ Volymer hemtjänst & VÅBO: +22 512 tkr. Avsatta medel för Signeshus samt ökad
 kostnader för förbehåll täcker upp underskottet på kundval på ca 29 000 tkr. Hemtjänsttimmarna har ökat då det
 finns ett underskott på boendeplatser medan renovering av Signeshus pågår.
 Distrikt Syd: -1 095 tkr
-- Vård och omsorgsboende: Resultat: -829 tkr
+\- Vård och omsorgsboende: Resultat: -829 tkr
 
 Verksamheternas underskott beror dels på ökade kostnader för övertid samt sjukfrånvaro kopplat till fler vak-
 timmar och större vårdtyngd. Enheterna har arbetat aktivt för att optimera planeringen och täcka upp för
 eventuella luckor under året.
-- Ordinärt boende: Resultat: -1 707 tkr
+\- Ordinärt boende: Resultat: -1 707 tkr
 
 Resultatet beror på nattpatrullens underskott vilket uppgår till -2 805 tkr. Nattens verksamhet är ramfinaniserad
 och underskottet är kopplat till ökade personalkostnader på grund av utökade timmar samt natt-vak som
 genererat övertid. Enheten har även fått bekosta ett utköp på 600 tkr samt att de haft högre personalkostnader,
 ca 700 tkr, som är kopplat till branden 2024. Underskottet vägs upp av att hemtjänsttimmarna har ökat samt att
 övriga kostnader haft lägre utfall än budget.
-- Hemsjukvård och rehabilitering: Resultat: 1 827 tkr
+\- Hemsjukvård och rehabilitering: Resultat: 1 827 tkr
 Överskottet beror på att det har varit lägre utfall för övriga kostnader såsom sjukvårdsmaterial än vad som
 budgeterats. Ytterligare förklaring till överskottet är intäkter för bland annat VFU-studenter samt intäkter från
 statsbidrag för god och nära vård. Distrikten samarbetar över gränserna och vilket ger positiva ekonomiska
 resultat.
 
-- Övrigt: Resultat: -386 tkr
+\- Övrigt: Resultat: -386 tkr
 Underskottet beror på kostnader för poolchef som ej fanns med i budget.
 Distrikt Centrum: 45 tkr
 
-- Vård och omsorgsboende: Resultat 735 tkr
+\- Vård och omsorgsboende: Resultat 735 tkr
 Överskottet ligger på personalkostnader. Verksamheten har under året lyckats väl med att anpassa sina resurser
 efter behov vilket lett till en kraftig minskning av övertidskostnader.
-- Ordinärt boende: Resultat 2 354 tkr
+\- Ordinärt boende: Resultat 2 354 tkr
 
 Hemtjänsttimmarna har minskat något under året men verksamheten har anpassat resurser efter behov på ett
 kostnadseffektivt sätt.
-- Hemsjukvård och rehabilitering: Resultat: -489 tkr
+\- Hemsjukvård och rehabilitering: Resultat: -489 tkr
 
 Underskottet beror på en omställning att anpassa resurser efter behov och en lägre budget. Årets sista halva har
 enheterna haft en budget i balans.
@@ -3015,45 +3015,45 @@ enheterna haft en budget i balans.
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-- Övrigt: Resultat -2 555 tkr
+\- Övrigt: Resultat -2 555 tkr
 
 Underskottet beror på höga kostnader för företagshälsovård och personalhandledning under året.
 Personalomsättning bland enhetschefer har lett till överlappande lönekostnader samt att enheten har haft ökade
 kostnader till följd av överenskommelser om avslutad tjänst för två medarbetare.
 Distrikt Norr: -1 448 tkr
 
-- Vård och omsorgsboende: Resultat -4 039 tkr
+\- Vård och omsorgsboende: Resultat -4 039 tkr
 Underskottet är främst kopplat till merkostnader på grund av arbetsmiljöproblem. En arbetsmiljökartläggning
 har genomförts och en handlingsplan upprättats. Verksamheten har även haft höga kostnader för sjukfrånvaro,
 timvikarier, övertid och vak.
 
-- Ordinärt boende: Resultat 4 692 tkr
+\- Ordinärt boende: Resultat 4 692 tkr
 Hemtjänsttimmarna har ökat vilket gett en positiv effekt på ekonomin. Övriga kostnader har varit lägre än
 budgeterat.
-- Hemsjukvård och rehabilitering: Resultat: -2 237 tkr
+\- Hemsjukvård och rehabilitering: Resultat: -2 237 tkr
 
 Underskottet beror främst på att verksamheten inte har lyckats anpassa sin bemanning efter förändrade behov
 och lägre budget. Ytterligare orsak är högre kostnader för sjukvårdsmaterial än planerat. Arbete pågår för att få
 en budget i balans.
-- Övrigt: Resultat 136 tkr
+\- Övrigt: Resultat 136 tkr
 
 Distrikt Väst: Resultat -665 tkr
-- Vård och omsorgsboende: Resultat -2 354 tkr
+\- Vård och omsorgsboende: Resultat -2 354 tkr
 
 Verksamheten har under våren haft mycket vak vilket lett till ökade kostnader för timavlönade samt övertid. Ett
 vak har pågått under hela året på grund av en yngre boende med demensdiagnos som medfört hög vårdtyngd.
-- Korttidsenhet Smedjan: Resultat -1 727 tkr
+\- Korttidsenhet Smedjan: Resultat -1 727 tkr
 Verksamheten har haft flera perioder under året med mycket vak-timmar vilket har medfört ökade kostnader.
 Under sommarperioden uppstod höga kostnader för övertid. Verksamheten arbetar med att anpassa resurserna
 kontinuerligt efter behovet och nytt schema och resursbehov startade under årets sista månader.
 
-- Ordinärt boende: Resultat 3 350 tkr
+\- Ordinärt boende: Resultat 3 350 tkr
 Överskottet beror dels på att volymerna av beviljade timmar har legat jämnt fördelat över året vilket skapat
 förutsättningar för en effektiv planering. Det beror även på svårigheter i att rekrytera personal och att man gått
 kort.
 
-- Hemsjukvård och rehabilitering: Resultat: 16 tkr
-- Övrigt: Resultat 50 tkr
+\- Hemsjukvård och rehabilitering: Resultat: 16 tkr
+\- Övrigt: Resultat 50 tkr
 Prognossäkerhet 2025
 
 Kommentarer till prognossäkerhet
@@ -3195,7 +3195,7 @@ invånarna.
 •  kopplat till det kommunövergripande god och nära vårdarbetet och målbilden finns en process för
 förbättringsinitiativ där man kan ansöka om pengar för att möjliggöra att ta ett större steg framåt i
 förbättringsarbete som går i linje med reformen. 2024 godkändes 4 initiativ där arbete pågår även under
-2025. i år har ytterligare 3 initiativ godkänts.
+2025\. i år har ytterligare 3 initiativ godkänts.
 Mobila trygghetslarm, syftet är att öka självständighet och trygghet för brukaren i fråga och dess anhöriga.
 Genom den extra tryggheten ökas möjligheten att brukaren kan bo kvar i det egna hemmet och eventuellt även
 minska behovet av hemtjänst och kommunal hälso- och sjukvård. Brukaren kan fortsätta delta i samhällslivet
@@ -3297,7 +3297,7 @@ Nämnden för Vård & Omsorg
 Förslag till beslut i nämnden för Vård och Omsorg
 
 Nämnden för Vård & Omsorg godkänner förslag till ombudgetering av investeringar och resultatfond
-2025.
+2025\.
 Nämnden för Vård & Omsorg förklarar paragrafen omedelbart justerad.
 
 Sammanfattning av ärendet
@@ -4133,7 +4133,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_\_\_\_\_
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -4187,7 +4187,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-____
+\_\_\_\_
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -4218,12 +4218,12 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas verksamhet,
 jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 § punkt 1 i dessa
@@ -4404,15 +4404,15 @@ Vistelseförbud för hund
 21 §
 
 Hund får inte vistas på
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa föreskrifter jämställs med offentlig
 plats
 
-2.   Tingbergsvallen i Kungsbacka
+2\.   Tingbergsvallen i Kungsbacka
 
-3.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
+3\.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller agilitybana.
 
 Överträdelse av lokal ordningsföreskrift
@@ -4518,7 +4518,7 @@ Smarholmen
 
 Gottskär Utholmen
 
-_____
+\_\_\_\_\_
 
 2 (2)
 
@@ -4578,7 +4578,7 @@ Bestämmelser finns i Transportstyrelsens föreskrift TSFS 2013:77.
 
 Se www.transportstyrelsen.se
 
-_____
+\_\_\_\_\_
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
 
@@ -4644,52 +4644,52 @@ Kungsbacka kommun » 0300-83 40 00 » infoQQkungsbacka.se » kungsbacka.se
 
 Innehåll
 
-1-2 $$ Föreskrifternas innehåll och tillämpningsområde
-3 $ Områden som jämställs med offentlig plats
+1-2 \$\$ Föreskrifternas innehåll och tillämpningsområde
+3 \$ Områden som jämställs med offentlig plats
 
-4 $ Kommunens yttrande
+4 \$ Kommunens yttrande
 
-5 $ Lasta varor m.m.
+5 \$ Lasta varor m.m.
 
-6 $ Schakta, tippa och utföra annat liknande arbete
+6 \$ Schakta, tippa och utföra annat liknande arbete
 
 7 8 Markiser, flaggor, skyltar
 
 8 & Träd, buskar, häckar och andra hinder
 
-9 $ Containrar och andra anordningar
+9 \$ Containrar och andra anordningar
 
-10 $ Affischer, flyttbara skyltar, anslag och marschaller
-11 $ Störande buller
+10 \$ Affischer, flyttbara skyltar, anslag och marschaller
+11 \$ Störande buller
 
-12 $ Högtalarutsändning
+12 \$ Högtalarutsändning
 
-13 $ Fyrverkerier och andra pyrotekniska varor
+13 \$ Fyrverkerier och andra pyrotekniska varor
 
-14 $ Insamling av pengar och gatumusik
+14 \$ Insamling av pengar och gatumusik
 
-15 $ Förbud mot förtäring av alkohol
+15 \$ Förbud mot förtäring av alkohol
 
 16 8 Förbud mot tillfällig försäljning
 
 17 8 Förbud mot camping
 
-18 $ Hund
+18 \$ Hund
 
-19 $ Skyldighet att hålla hund kopplad
+19 \$ Skyldighet att hålla hund kopplad
 
-20 $ Skyldighet att plocka upp föroreningar efter hund
-21 $ Vistelseförbud för hund
+20 \$ Skyldighet att plocka upp föroreningar efter hund
+21 \$ Vistelseförbud för hund
 
-22 $ Överträdelse av lokal ordningsföreskrift
+22 \$ Överträdelse av lokal ordningsföreskrift
 
-Bilaga 1 — Karta till 13 $
+Bilaga 1 — Karta till 13 \$
 
 Bilaga 2 — Karta över område med förbud mot tillfällig (ambulerande) försäljning samt förbud mot
 
 alkoholförtäring
 
-Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 $ i dessa föreskrifter
+Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 \$ i dessa föreskrifter
 
 Bilaga 4 — Information om annan lagstiftning
 
@@ -4707,12 +4707,12 @@ Grundläggande bestämmelser om allmän ordning och säkerhet på offentlig plat
 (1993:1617). Dessa lokala ordningsföreskrifter innehåller ytterligare bestämmelser om hur den allmänna
 ordningen i Kungsbacka kommun ska upprätthållas.
 
-Bestämmelserna i 13 $ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
+Bestämmelserna i 13 \$ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
 användning av pyrotekniska varor.
 
 28
 
-Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 $ första
+Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 \$ första
 stycket punkterna 1- 4 i ordningslagen, om inget annat anges.
 
 För område som kommunen har upplåtit till torghandel gäller också kommunens lokala föreskrifter om
@@ -4725,33 +4725,33 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
 
 4 elkn NO a nlan ot område e ot h SS
 
-3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3$ 21 $ punkt I c och
+3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3\$ 21 \$ punkt I c och
 punkt 2
 
 So Idr I liot bilaga 3 vid tillämpni 19-20-88
 
-7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 $$
+7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 \$\$
 
-8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 $ och 21 8 punkt 3
+8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 \$ och 21 8 punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet enligt första-stycketpunkt4-5-eeh som hör till en
 
 förskola eller skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid
-tillämpning av +9-20-3$ 21 $ punkt I i dessa föreskrifter.
+tillämpning av +9-20-3\$ 21 \$ punkt I i dessa föreskrifter.
 
 Kommunens yttrande
 
 48
 
-Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 $) sätta upp affischer
-m.m. (10 $), för störande buller (11 $), att använda högtalare (12 $) eller för att använda pyrotekniska varor
-(13 $) bör kommunen ges tillfälle att yttra sig.
+Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 \$) sätta upp affischer
+m.m. (10 \$), för störande buller (11 \$), att använda högtalare (12 \$) eller för att använda pyrotekniska varor
+(13 \$) bör kommunen ges tillfälle att yttra sig.
 
 Kungsbacka kommun Lokala ordningsföreskrifter Sida 3 av 7
 
@@ -4876,7 +4876,7 @@ Förbud mot tillfällig försäljning
 
 Tillfällig försäljning är förbjudet inom markerat område som framgår av bilaga 2. Med tillfällig
 försäljning avses sådan gatuförsäljning samt demonstration av varor som tar offentlig plats i
-anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 $
+anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 \$
 ordningslagen.
 
 Tillstånd krävs dock inte för försäljning av tryckta skrifter samt välgörenhets- och
@@ -4893,10 +4893,10 @@ Hund
 Den som äger en hund, den som har tagit emot en hund för underhåll eller nyttjande eller den som
 tillfälligt vårdar en hund är skyldig att följa bestämmelserna i 19-218 i dessa föreskrifter.
 
-Bestämmelserna i 19-21 $ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
+Bestämmelserna i 19-21 \$ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
 räddningstjänst eller annan liknande myndighet.
 
-Bestämmelserna i 21 $ punkterna 1-2 gäller inte assistanshund.
+Bestämmelserna i 21 \$ punkterna 1-2 gäller inte assistanshund.
 
 Skyldighet att hålla hund kopplad
 195
@@ -4917,22 +4917,22 @@ Skyldighet att plocka upp föroreningar efter hund
 
 Föroreningar efter hund ska plockas upp på offentlig plats, inkluderande gångbanor, parkmark,
 parkvägar eller annat för gångtrafiken erforderligt utrymme samt inom områden som jämställs med
-offentlig plats enligt 3 $ i dessa föreskrifter.
+offentlig plats enligt 3 \$ i dessa föreskrifter.
 
 Vistelseförbud för hund
 
 218
 Hund får inte medföras-+til eHer vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
-c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 $ i dessa
+c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 \$ i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i Kungsbacka
+2\. Tingbergsvallen i Kungsbacka
 
-3. Badbrygga och badflotte på badplats som enligt 3 $ i dessa föreskrifter jämställs med
+3\. Badbrygga och badflotte på badplats som enligt 3 \$ i dessa föreskrifter jämställs med
 offentlig plats
 
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
@@ -4942,8 +4942,8 @@ agilitybana.
 
 2285
 
-Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 $$, 10 $ första och andra stycket, 11-14 $ första
-stycket, 15-17 $$, 19-21 $$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 $ andra stycket
+Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 \$\$, 10 \$ första och andra stycket, 11-14 \$ första
+stycket, 15-17 \$\$, 19-21 \$\$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 \$ andra stycket
 ordningslagen.
 
 I ordningslagen finns också bestämmelser om föreläggande och förverkande.
@@ -4954,7 +4954,7 @@ Kungsbacka kommun Lokala ordningsföreskrifter Sida 7 av 7
 
 <!-- sida 121 -->
 
-|
+\|
 Teckenförklaring
 Tillfällig (ambulerande) försäljning
 
@@ -5236,13 +5236,13 @@ LÄNSSTYRELSEN                   BESLUT                 3 (7)
 
 2020-03-02     213-1348-2020
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
 plats och som har upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
 
 de har upplåtits för detta ändamål och är tillgängliga för allmänheten, samt
-4. andra landområden och utrymmen inomhus som stadigvarande används för all-
+4\. andra landområden och utrymmen inomhus som stadigvarande används för all-
 män trafik.
 – Av andra stycket framgår att regeringen eller, efter regeringens bemyndigande, en
 kommun får föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, bad-
@@ -5494,8 +5494,8 @@ Robert Bärwald
 Detta beslut har godkänts digitalt och saknar därför namnunderskrifter.
 
 Bilaga
-1. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
-2. Bilaga 5, 2020-01-21
+1\. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
+2\. Bilaga 5, 2020-01-21
 
 Kopia
 Polismyndigheten, Lokalpolisområde Kungsbacka, registrator.vast@polisen.se
@@ -5518,7 +5518,7 @@ Länsstyrelsens beslut 2020-03-02, dnr 213-1348-2020
 
 SAKEN
 Tillämpning av ordningslagen
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -5528,7 +5528,7 @@ Förvaltningsrätten upphäver Länsstyrelsen i Hallands läns beslut beträffan
 fastställer kommunens beslut i denna del. Till följd därav utgår inte heller
 hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
@@ -5825,11 +5825,11 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -5907,7 +5907,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6003,7 +6003,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -6190,11 +6190,11 @@ Vård & Omsorg, God och Nära vård, helår 2025               3(16)
 
 Planen innehåller fyra insatsområden som kommunerna i Halland och Region Halland
 kommer att arbeta vidare med gemensamt:
-1. Utveckla arbete kring fasta kontakter och skapa relation runt patienten.
-2. Säkerställa medicinsk kompetens och tydliga kontaktvägar för att patienten ska kunna
+1\. Utveckla arbete kring fasta kontakter och skapa relation runt patienten.
+2\. Säkerställa medicinsk kompetens och tydliga kontaktvägar för att patienten ska kunna
 vistas i hemmet på ett tryggt och patientsäkert sätt.
-3. Utveckla strukturerad samverkan mellan kommunal och regional primärvård
-4. Undvika omotiverade inskrivningar och oplanerade återinskrivningar på sjukhus.
+3\. Utveckla strukturerad samverkan mellan kommunal och regional primärvård
+4\. Undvika omotiverade inskrivningar och oplanerade återinskrivningar på sjukhus.
 
 1.1 Hälsofrämjande: I Kungsbacka finns förutsättningar för god
 hälsa
@@ -6841,15 +6841,15 @@ utveckling av en god och nära vård ...........................................
 Modell för God och nära vård i Halland ...................................................... 3
 Insatsområden i den gemensamma planen ............................................... 4
 
-1.  Utveckla arbete kring fasta kontakter och skapa relation runt
+1\.  Utveckla arbete kring fasta kontakter och skapa relation runt
 patienten. ............................................................................................ 4
-2.  Säkerställa medicinsk kompetens och tydliga kontaktvägar för att
+2\.  Säkerställa medicinsk kompetens och tydliga kontaktvägar för att
 patienten ska kunna vistas i hemmet på ett tryggt och patientsäkert
 sätt. ...................................................................................................... 5
 
-3.  Utveckla strukturerad samverkan mellan kommunal och regional
+3\.  Utveckla strukturerad samverkan mellan kommunal och regional
 primärvård. .......................................................................................... 5
-4.  Undvika omotiverade inskrivningar och oplanerade återinskrivningar
+4\.  Undvika omotiverade inskrivningar och oplanerade återinskrivningar
 på sjukhus. .......................................................................................... 6
 
 Bilaga Schematisk beskrivning av vad som ska uppnås kopplat till
@@ -6870,19 +6870,19 @@ vård med fokus på primärvården.
 
 Förordningen reglerar att statsbidrag får lämnas för insatser som avser:
 
-1. kontinuitet i primärvården, inklusive fast läkarkontakt
-2. tillgänglighet i primärvården
+1\. kontinuitet i primärvården, inklusive fast läkarkontakt
+2\. tillgänglighet i primärvården
 
-3. förebyggande och hälsofrämjande arbete i hälso- och sjukvården
+3\. förebyggande och hälsofrämjande arbete i hälso- och sjukvården
 
-4. habiliterande och rehabiliterande arbete i hälso- och sjukvården
-5. personcentrering av hälso- och sjukvården
+4\. habiliterande och rehabiliterande arbete i hälso- och sjukvården
+5\. personcentrering av hälso- och sjukvården
 
-6. planering och samverkan mellan kommun och region för hälso- och
+6\. planering och samverkan mellan kommun och region för hälso- och
 sjukvården
 
-7. kompetensförsörjning och arbetsmiljö i primärvården
-8. utveckling av primärvården i landsbygd och glesbygd.
+7\. kompetensförsörjning och arbetsmiljö i primärvården
+8\. utveckling av primärvården i landsbygd och glesbygd.
 
 En kommun eller region som rekvirerat och tagit emot bidrag ska återredovisa till
 Socialstyrelsen vad bidragen har använts till.
@@ -6896,13 +6896,13 @@ Modell för God  och nära  vård i Halland
 Region Halland och Hallands kommuner har överenskommit om att i arbetet med en
 god och nära vård lägga särskild vikt vid samverkan kring följande grupper:
 
--  Äldre och övriga med behov av hemsjukvård
+\-  Äldre och övriga med behov av hemsjukvård
 
--  Unga vuxna med skadligt bruk och beroende
--  Barn och ungas psykiska hälsa
+\-  Unga vuxna med skadligt bruk och beroende
+\-  Barn och ungas psykiska hälsa
 
--  Invånare med psykisk funktionsnedsättning
--  Övriga grupper med ökad risk för ohälsa såsom vid kronisk sjukdom och
+\-  Invånare med psykisk funktionsnedsättning
+\-  Övriga grupper med ökad risk för ohälsa såsom vid kronisk sjukdom och
 psykisk ohälsa eller på grund av socioekonomiska faktorer.
 
 Målbilden Omtanke Halland - vår gemensamma omställning till en god och nära
@@ -6920,17 +6920,17 @@ utvecklingsgrupp1 för god och nära vård enats om att fokusera på.
 
 Insatsområden   i den gemensamma     planen
 
-1. Utveckla arbete kring fasta kontakter och skapa relation runt patienten.
-2. Säkerställa medicinsk kompetens och tydliga kontaktvägar för att patienten ska
+1\. Utveckla arbete kring fasta kontakter och skapa relation runt patienten.
+2\. Säkerställa medicinsk kompetens och tydliga kontaktvägar för att patienten ska
 kunna vistas i hemmet på ett tryggt och patientsäkert sätt.
 
-3. Utveckla strukturerad samverkan mellan kommunal och regional primärvård.
-4. Undvika omotiverade inskrivningar och oplanerade återinskrivningar på sjukhus.
+3\. Utveckla strukturerad samverkan mellan kommunal och regional primärvård.
+4\. Undvika omotiverade inskrivningar och oplanerade återinskrivningar på sjukhus.
 
 Insatsområdena är framtagna utifrån identifierade utmaningar i Halland. Inom flera
 av dessa områden pågår redan förbättringsarbete.
 
-1. Utveckla arbete kring fasta kontakter och skapa relation runt
+1\. Utveckla arbete kring fasta kontakter och skapa relation runt
 
 patienten.
 
@@ -6962,7 +6962,7 @@ Gemensam plan God och nära vård     4 (10)
 
 <!-- sida 173 -->
 
-2. Säkerställa medicinsk kompetens och tydliga kontaktvägar för
+2\. Säkerställa medicinsk kompetens och tydliga kontaktvägar för
 att patienten ska kunna vistas i hemmet på ett tryggt och
 patientsäkert sätt.
 
@@ -6993,7 +6993,7 @@ förtydligas och lyftas fram – då den redan finns men inte används i tillrä
 omfattning. Möjlighet till besök via video för alla professioner behöver utvecklas för
 medarbetare att använda över huvudmannagränserna.
 
-3. Utveckla strukturerad samverkan mellan kommunal och
+3\. Utveckla strukturerad samverkan mellan kommunal och
 regional primärvård.
 
 Kopplingar till Förordning (2024:1253) om statsbidrag God och Nära vård:
@@ -7024,7 +7024,7 @@ Samverkansmötena ska bidra till att skapa och öka förutsättningarna för en 
 vård, förebyggande och patientsäkert arbete, god arbetsmiljö och relation över
 huvudmannagränser.
 
-4. Undvika omotiverade inskrivningar och oplanerade
+4\. Undvika omotiverade inskrivningar och oplanerade
 
 återinskrivningar på sjukhus.
 Kopplingar till Förordning (2024:1253) om statsbidrag God och Nära vård:
@@ -7061,7 +7061,7 @@ inte att se som en komplett beskrivning. Beskrivningen kompletteras med lokala
 handlingsplaner för hur nedan uppnås. Delar av dessa behöver vara lika i hela
 Halland, medan i andra delar kan lokala skillnader vara motiverade.
 
-1. Utveckla arbete kring fasta kontakter och skapa relation runt
+1\. Utveckla arbete kring fasta kontakter och skapa relation runt
 patienten.
 
 Gemensam plan God och nära vård     7 (10)
@@ -7078,7 +7078,7 @@ Gemensam plan God och nära vård     7 (10)
 
 <!-- sida 176 -->
 
-2. Säkerställa medicinsk kompetens och tydliga kontaktvägar för
+2\. Säkerställa medicinsk kompetens och tydliga kontaktvägar för
 att patienten ska kunna vistas i hemmet på ett tryggt och
 patientsäkert sätt.
 
@@ -7096,10 +7096,10 @@ Gemensam plan God och nära vård     8 (10)
 
 <!-- sida 177 -->
 
-3. Utveckla strukturerad samverkan mellan kommunal och
+3\. Utveckla strukturerad samverkan mellan kommunal och
 regional primärvård.
 
-4. Undvika omotiverade inskrivningar och oplanerade
+4\. Undvika omotiverade inskrivningar och oplanerade
 återinskrivningar på sjukhus.
 
 Gemensam plan God och nära vård     9 (10)
@@ -7241,7 +7241,7 @@ zZ
 :<
 FF
 (00)
->
+\>
 O
 (00)
 I
@@ -7356,11 +7356,11 @@ Vidta åtgärder kopplade beslutet
 Samverkan vårdcentral via framtagen handlingsplan och beslutat
 insatsområde i den Hallandsövergripande Gemensam plan.
 
-|
+\|
 
 Skapa process för förebyggande arbete i förvaltningen Vård & Omsorg
 
-|
+\|
 « Hälsofrämjande och förebyggande samtal, bredda
 
 « Teammöten. Inkludera mer hälsofrämjande och förebyggande dialoger
@@ -7468,10 +7468,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 196 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
 
 Engagerad ledning och tydlig styrning .............................................................................................3
 Övergripande mål och strategier .................................................................................................4
@@ -7485,7 +7485,7 @@ En god säkerhetskultur.........................................................
 Adekvat kunskap och kompetens ....................................................................................................8
 Patienten som medskapare .............................................................................................................9
 
-4. AGERA FÖR SÄKER VÅRD ........................................................................................................... 10
+4\. AGERA FÖR SÄKER VÅRD ........................................................................................................... 10
 Öka kunskap om inträffade vårdskador ......................................................................................... 10
 
 Har vården varit säker ............................................................................................................... 10
@@ -7507,7 +7507,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 197 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -7516,7 +7516,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 Året har haft ett stort fokus på att stärka en god och hållbar säkerhetskultur med fokus på
 struktur lärande och ett öppet klimat kring risker och förbättringsbehov. Mätning av
 patientsäkerhetskulturen visar på ett bättre resultat jämfört med föregående år. I en god
@@ -7543,7 +7543,7 @@ Antalet händelser som avser svinn av läkemedel har ökat från 316 förra åre
 Hanteringen behöver säkras upp och antalet händelser minska. Installation av nya
 läkemedelsskåp pågår i VO och utvärdering kommer att ske under 2026.
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 Engagerad ledning och tydlig styrning
 
 En grundläggande förutsättning för en säker vård är en
@@ -7720,16 +7720,16 @@ uppgifter enligt nedan.
 
 <!-- sida 201 -->
 
-1. Uppföljningar av informationssäkerheten som är av större betydelse
-2. Riskanalyser som har gjorts.
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
 
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
 En god säkerhetskultur
@@ -7886,7 +7886,7 @@ Stöd i hemmet har pågående hälsofrämjande aktiviteter från Hälsoprojektet
 samarbete mellan förvaltningarna för IF och VO. På daglig verksamhet har ett samarbete med
 arbetsterapeut och fysioterapeut börjat för att förbättra möjlighet till fysisk aktivitet i grupp.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -7901,12 +7901,12 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
 
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
 
-5. Öka riskmedvetenhet och beredskap
+5\. Öka riskmedvetenhet och beredskap
 
 Öka kunskap om inträffade vårdskador
 
@@ -9277,7 +9277,7 @@ bemanningsplanering utifrån enhetschefernas roll där man framför en ökad arb
 mindre verksamhetsnära chefsstöd. Det har besvarats av verksamhetschefer i drift utifrån vad
 målet är med den nya enheten och hur man har planerat och genomför förändringen samt att det
 ännu är i ett stadie där det finns en oro vilket man lyssnar in.
-:
+\:
 
 3.3 Händelserapportering SoL
 
@@ -9367,13 +9367,13 @@ Konsekvens händelse VO
 
 4.Katastrofal
 
-3. Betydande
+3\. Betydande
 
-2. Måttlig
+2\. Måttlig
 
-1. Mindre
+1\. Mindre
 
-0. Ingen
+0\. Ingen
 
 0    100    200   300   400    500   600
 
@@ -9556,7 +9556,7 @@ smittvägar till all personal inom VO.
 HSL-ombud har utsetts bland omsorgspersonalen och en träff med inriktning basala hygienrutiner
 samt klädregler har anordnats under hösten 2025. Efter träffen har en gemensam plan inom VO
 har tagits fram för att få bättre följsamhet till de basala hygienrutinerna samt klädregler under
-2026.
+2026\.
 För att få en samsyn inom VO på hur följsamhetsmätning ska genomföras anordnades ett
 utbildningstillfälle med HSL-ombuden inför varje mätning, detta kommer att fortsätta under 2026.
 
@@ -9774,11 +9774,11 @@ Aktiviteter    under    202  5 för att nå målvärdet:
 
 Systematiskt   arbetsmiljöarbete    (SAM)   minskar   sjukfrånvaro   genom    att:
 
-1.   Förebygga   risker      – identifiera  och åtgärda   fysiska och psykosociala
+1\.   Förebygga   risker      – identifiera  och åtgärda   fysiska och psykosociala
 
 arbetsmiljöproblem     innan de  leder till ohälsa.
 
-2.   Tidigt upptäcka   problem         –  regelbundna    uppföljningar   gör att insatser kan  sättas in
+2\.   Tidigt upptäcka   problem         –  regelbundna    uppföljningar   gör att insatser kan  sättas in
 
 snabbt.
 
@@ -10491,7 +10491,7 @@ dessa med omsorgstagare enligt strukturerad form
 VÅBO Arbete med att stärka kontaktmannaskap med hjälp av
 kvalitets-USK, specialist USK eller metodutvecklare där
 
-- | rutinen ska ses över. Brukarråd som forum för att få in
+\- | rutinen ska ses över. Brukarråd som forum för att få in
 Personal tar hänsyn till den åsikter/ önskemål
 
 enskildes åsikter och önskemål a
@@ -10572,9 +10572,9 @@ I ryggsäcken tar vi alltid tar med oss Synpunktsblanketten då
 kan vi enkelt ge brukaren en blankett vid eventuellt
 klagomål eller synpunkt.
 
-1. Fasta arbetsrader — önskvärt så långt det går.
+1\. Fasta arbetsrader — önskvärt så långt det går.
 
-2. alternativa rader per undersköterska med FOK. Arbeta
+2\. alternativa rader per undersköterska med FOK. Arbeta
 inom färggrupper för att säkerställa kontinuerlig planering
 hos omsorgstagare.
 
@@ -10765,34 +10765,34 @@ Innehåll
 Sammanfattning ...................................................................................................... 2
 Till 2028 har vi uppnått:............................................................................................ 2
 
-1. Nuläge och framtid ......................................................................................... 4
+1\. Nuläge och framtid ......................................................................................... 4
 1.1 Faktorer som påverkar samhället ................................................................... 4
 1.2 Faktorer som påverkar Vård & Omsorg .......................................................... 4
 
 1.3 Digitalt först .................................................................................................... 5
 1.4 Förändrade arbetssätt .................................................................................... 5
-2. Syfte och omfattning ...................................................................................... 5
+2\. Syfte och omfattning ...................................................................................... 5
 
-3. Nämndens politiska inriktning......................................................................... 6
-4. Mål ................................................................................................................. 6
+3\. Nämndens politiska inriktning......................................................................... 6
+4\. Mål ................................................................................................................. 6
 Kungsbacka kommun Strategi för förnyelsearbete 2 (13)
 
 <!-- sida 292 -->
 
-5. Strategisk inriktning ........................................................................................ 9
+5\. Strategisk inriktning ........................................................................................ 9
 
 5.1 Innovation & digitalisering .............................................................................. 9
 5.2 Hälsofrämjande och förebyggande ............................................................... 10
 5.3 Kompetensförsörjning ................................................................................... 11
-6. Uppföljning och ansvar.................................................................................. 11
+6\. Uppföljning och ansvar.................................................................................. 11
 
-7. Definitioner................................................................................................... 12
+7\. Definitioner................................................................................................... 12
 
 Kungsbacka kommun Strategi för förnyelsearbete 3 (13)
 
 <!-- sida 293 -->
 
-1. Nuläge  och framtid
+1\. Nuläge  och framtid
 
 1.1 Faktorer som påverkar samhället
 
@@ -10891,7 +10891,7 @@ genom innovation. Förvaltningen behöver vara skicklig på att både arbeta må
 kärnuppdraget och målsökande i innovationsprocesser som bygger på de politiskt
 satta målen och besluten från kommunfullmäktige och nämnd.
 
-2. Syfte och omfattning
+2\. Syfte och omfattning
 
 Enligt Kungsbacka kommuns styrmodell definieras en strategi som:
 Anger med flerårigt perspektiv översiktliga vägval och pekar ut handlingsriktningar
@@ -10910,7 +10910,7 @@ nämndens mål, direktiv och initiativ.
 Alla medarbetare på Förvaltningen för Vård & Omsorg berörs direkt eller indirekt och
 har en viktig roll i att strategin blir genomförd.
 
-3. Nämndens   politiska inriktning
+3\. Nämndens   politiska inriktning
 Vård och omsorg med individens behov i centrum, där digitala lösningar och
 insatser samt hälsofrämjande arbetssätt genomsyrar verksamheten och vi har
 medarbetare med rätt kompetens som trivs och utvecklas.
@@ -10926,7 +10926,7 @@ stöd i ett tidigt skede är en standardiserad del av vårt sätt att arbeta.
 behov, ges möjlighet att utvecklas genom vidareutbildning och för att kunna
 göra karriär samt arbetar i en god arbetsmiljö där de trivs.
 
-4. Mål
+4\. Mål
 
 Kungsbacka kommun Strategi för förnyelsearbete 6 (13)
 
@@ -11013,7 +11013,7 @@ Strategimål 5: Färre vårdrelaterade skador
 
 Uppföljning Helår
 
-5. Strategisk inriktning
+5\. Strategisk inriktning
 
 Strategin ska ligga till grund för förvaltningens förnyelsearbete i syfte att möta det
 ökande och förändrade behovet av vård och omsorg, på både kort och lång sikt.
@@ -11137,7 +11137,7 @@ vård och omsorg tillsammans med medarbetarna. Genom användning av data, stöd
 och samarbete fattas väl avvägda beslut som arbetar mot de mål och uppdrag som
 Vård och Omsorg har.
 
-6. Uppföljning och  ansvar
+6\. Uppföljning och  ansvar
 
 Strategin ägs av Nämnden för Vård & omsorg. Förvaltningen ansvarar för att ta fram
 uppdrag samt aktiviteter som beslutas och genomförs inom ramen för
@@ -11163,7 +11163,7 @@ Beslut om förändringar av strategin sker årligen i samband med nämndbudget.
 Redovisning av resultat och aktiviter kommer till nämnden i samband med delår och
 årsredovisning.
 
-7. Definitioner
+7\. Definitioner
 
 Automatisering innebär att uppgifter eller processer utförs automatiskt med hjälp
 av teknik, utan att en människa behöver göra det manuellt varje gång. Det kan
@@ -11211,7 +11211,7 @@ Kompetensförsörjning är att på kort och lång sikt säkerställa att verksam
 tillgång till medarbetare med rätt kompetens. Begreppet omfattar flera delar som
 analys av kompetensbehov, utbildning, rekrytering, behålla medarbetare med rätt
 kompetens och hur medarbetarnas tid och kompetens används (Socialstyrelsen
-2023)
+2023\)
 Målstyrt innebär att vi har en utmaning och vi vet lösningen; vi behöver ett
 arbetssätt för att införa lösningen.
 
@@ -11305,7 +11305,7 @@ Diarienummer VO-2026-00007
 Diarienummer VO-2025-00011
 
 Avtal
--
+\-
 
 Övrigt
 Diarienummer VO-2025-00482. Yttrande till Patientnämnden avseende brister i omvårdnad –
@@ -11362,7 +11362,7 @@ sjukvårdsprodukter som träder i kraft den 1 januari 2027.
 Diarienummer VO-2025–00079. (Socialstyrelsen) Återrapportering av statsbidrag för hälsosamtal för
 äldre 2025.
 Diarienummer VO-2025–00484. (Socialstyrelsen) Dags igen - att förbereda för äldreundersökningarna
-2026.
+2026\.
 
 Diarienummer VO-2026–00045. (Socialstyrelsen) Komplettering Äldreomsorgslyftet - Sveriges
 återhämtningsplan 2020-2023.

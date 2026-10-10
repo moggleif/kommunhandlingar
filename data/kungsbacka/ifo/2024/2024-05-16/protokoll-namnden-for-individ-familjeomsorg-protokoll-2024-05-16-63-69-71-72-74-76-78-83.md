@@ -437,18 +437,18 @@ Nämnden för Individ & Familjeomsorg har tagit del av översiktsplanen och har 
 antal medskick i form av punkter som är angelägna utifrån nämndens uppdrag och
 målgrupper:
 
-* Förvaltningen är i långsiktigt i behov av Bostäder med Särskild Service (BMSS)
+\* Förvaltningen är i långsiktigt i behov av Bostäder med Särskild Service (BMSS)
 enligt fastslagen prognos och förutsätter att dessa planeras in när man planerar nya
 områden, såväl i centralorten som på andra platser där det finns mycket goda
 kommunikationer för såväl kollektivtrafik och bil/cykel. Dessa bostäder bör med
 fördel planeras i annan bebyggelse för att bidra till ökad inkludering.
 
-* Tillgänglighet för funktionshindrade individer är överlag alltid viktigt att tänka in
+\* Tillgänglighet för funktionshindrade individer är överlag alltid viktigt att tänka in
 tidigt vid planeringsstadiet
-* Fokus på trygghet i alla åldrar - lekplatser, parker och viadukter ska vara upplysta
+\* Fokus på trygghet i alla åldrar - lekplatser, parker och viadukter ska vara upplysta
 och säkra
 
-* Utveckling och etablering av mötesplatser för alla olika samhällsgrupper och åldrar
+\* Utveckling och etablering av mötesplatser för alla olika samhällsgrupper och åldrar
 
 Reservation
 

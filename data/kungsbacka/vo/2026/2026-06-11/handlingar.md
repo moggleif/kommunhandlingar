@@ -113,11 +113,11 @@ nämndens ordinarie sammanträde 11 juni 2026.
 
 Förslag till beslut:
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken
 tillgång till stickskydd som finns i verksamheten och om all personal, som
 kan tänkas utföra insatser har fullgod tillgång.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med
 en redovisning till nämndens sammanträde den 11 juni 2026.
 
 Beslutsunderlag
@@ -171,13 +171,13 @@ med anledning av den smittorisk som kan föreligga.
 Eftersom frågan inte är helt klarlagt, dvs huruvida det finns stickskydd för alla som behöver
 det i verksamheten, föreslår Socialdemokraterna att frågan remitteras till förvaltningen för
 beredning med en redovisning i nämnden under nämndens ordinarie sammanträde 11 juni
-2026.
+2026\.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken tillgång till
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken tillgång till
 stickskydd som finns i verksamheten och om all personal, som kan tänkas utföra insatser
 har fullgod tillgång.
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med en
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med en
 redovisning till nämndens sammanträde den 11 juni 2026.
 
 Ermin Škorić (S)
@@ -236,7 +236,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -943,7 +943,7 @@ Diarienummer VO-2026–00219. (Kommunrevisionen) Revisionsplan 2025.
 Diarienummer VO-2025–00080. (Kommunfullmäktige) KF 75. Rapport från nämnden för Vård &
 Omsorg av ej verkställda beslut enligt socialtjänstlagen, SoL, fjärde kvartalet 2025.
 Diarienummer VO-2025–00217. (Kommunfullmäktige) KF 76. Ombudgeteringar och resultatfonder
-2025.
+2025\.
 
 Diarienummer VO-2026–00232. (Kommunfullmäktige) KF 77. Omfördelning av statsbidrag 2025
 avseende stöd till kommuner i omställningen till en långsiktigt hållbar, mer förebyggande och

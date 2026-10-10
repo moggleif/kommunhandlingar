@@ -66,7 +66,7 @@ Emma Renström, utvecklingsledare,
 Lotta Kjellner, MAS, § 66
 
 Personalföreträdare           Övriga
--                             Stefan Friberg, förtroendevald revisor,
+\-                             Stefan Friberg, förtroendevald revisor,
 § 58
 Markus Lagerqvist, Point AB, § 59
 
@@ -278,7 +278,7 @@ Beslutsunderlag
 
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2024-04-03
 Rapport: Uppföljning av äldres digitala inköp av färdigrätter och matvaror mars
-2024.
+2024\.
 
 Förslag till beslut på sammanträdet
 
@@ -812,7 +812,7 @@ Diarienummer: VO-2024-00122. (Kommunstyrelsen) KS § 74. Godkännande av
 uppföljningsrapport av intern kontroll 2023 för Kungsbacka kommun.
 
 Diarienummer: VO-2024-00150. (Nämnden för Service) NSE § 24. Inköpsrapport
-2023.
+2023\.
 Diarienummer VO-2023–00283. (Gemensam nämnd för hemsjukvård och
 hjälpmedel, GNHH) GNHH § 5. Indikatorsrapport 3, september - december 2023.
 

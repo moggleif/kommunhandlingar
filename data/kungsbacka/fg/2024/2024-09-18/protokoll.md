@@ -449,7 +449,7 @@ fastställer delegeringsbesluten. Däremot får nämnden återta lämnad deleger
 föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom att
 själv ta över ärendet och fatta beslut. Sammanställningen omfattar beslut fattade eller
 inkomna till förvaltningen för Förskola & Grundskola från 2024-07-26—2024-09-
-08.
+08\.
 
 Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om nämnden för Förskola & Grundskola
@@ -553,7 +553,7 @@ uppföljning sker på pedagogisk områdesnivå samt för varje rektors ansvarsom
 för att säkerställa att planerade åtgärder genomförs.
 
 Enligt prognosen kommer hela investeringsbudgeten på 15 miljoner att tas i anspråk
-2024.
+2024\.
 
 Beslutsunderlag
 

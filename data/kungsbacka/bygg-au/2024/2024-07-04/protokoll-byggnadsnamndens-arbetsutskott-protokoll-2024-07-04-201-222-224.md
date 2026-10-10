@@ -398,10 +398,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1288,10 +1288,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1807,7 +1807,7 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
 
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 a) överensstämmer med detaljplanen, eller
 
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
@@ -1815,11 +1815,11 @@ bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
 
-2. åtgärden inte strider mot detaljplanen,
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+2\. åtgärden inte strider mot detaljplanen,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
 
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 första stycket, 13, 17 och 18 §§.
 
@@ -2014,10 +2014,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -2340,7 +2340,7 @@ meter.
 
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
--  del av murar, närmare bestämt 22,1 meter motsvarande 53 procent av den
+\-  del av murar, närmare bestämt 22,1 meter motsvarande 53 procent av den
 
 sammanlagda sträckan på nya murar som är 42,05 meter, är placerade på
 mark som enligt detaljplan inte får bebyggas
@@ -2527,14 +2527,14 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-07-04
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Utanför planlagt område finns inte någon i lagstiftningen given byggrätt.
@@ -2567,9 +2567,9 @@ av ett urval av de viktigaste grönstråken som ofta sammanfaller med områdessk
 och riksintresseområden.
 
 Inom Grön infrastruktur ska:
-- De gröna kilarna som ingår i Göteborgsregionens strukturbild värnas och
+\- De gröna kilarna som ingår i Göteborgsregionens strukturbild värnas och
 tillgängliggöras,
-- Invånarnas tillgång till en sammanhängande grön infrastruktur av parker, natur och
+\- Invånarnas tillgång till en sammanhängande grön infrastruktur av parker, natur och
 
 rekreationsområde ska säkerställa,
 -Viktiga biologiska spridningssamband ska bevaras och förstärkas både i tätorterna
@@ -2586,9 +2586,9 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-07-04
 
-- Inom ytor för grön infrastruktur ska friluftsliv, turism, biologisk mångfald och
+\- Inom ytor för grön infrastruktur ska friluftsliv, turism, biologisk mångfald och
 areella näringar prioriteras,
-- Generellt tillåts ingen ny bostadsbebyggelse.
+\- Generellt tillåts ingen ny bostadsbebyggelse.
 
 Bedömning
 
@@ -2809,9 +2809,9 @@ eller annan gårdsbyggnad får i allmänhet inte uppföras, utan dess utrymme
 bör annordas inom eller i anslutniong till huvudbyggnaden.
 Byggnadsnämnden får i särskilda fall medgiva friliggande uthus eller garage
 där så prövas kunna ske utan olägenhet.
-•  Byggnader ska placeras minst 4,5 meter från tomtgräns*
+•  Byggnader ska placeras minst 4,5 meter från tomtgräns\*
 
-* I avsaknad av planbestämmelse om byggnads placering i förhållande till tomtgräns
+\* I avsaknad av planbestämmelse om byggnads placering i förhållande till tomtgräns
 mot grannfastighet gäller 30 § byggnadsstadgan (1959:612), BS, som bestämmelse i
 planen. Det innebär att byggnader ska placeras minst 4,5 meter från gräns mot
 grannfastighet om inte kriterierna för undamtag från samma bestämmelse, enligt 29 §
@@ -2823,9 +2823,9 @@ att visa var på en fastighet det inte är tillåtet att placera byggnadsverk.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  byggnadsarea för huvudbyggnad uppgår till 65,3 m2, dvs 5,3 m2 större än vad
+\-  byggnadsarea för huvudbyggnad uppgår till 65,3 m2, dvs 5,3 m2 större än vad
 detaljplanen tillåter
-- total byggnadsarea på fastigheten kommer uppgå till 116,3 m2, dvs 16,3 m2
+\- total byggnadsarea på fastigheten kommer uppgå till 116,3 m2, dvs 16,3 m2
 större än vad detalplanen medger
 
 Kommunicering
@@ -2927,10 +2927,10 @@ Plan- och bygglag (2010:900)
 9 kap 31 § Bygglov ska ges för en åtgärd utanför ett område med detaljplan, om
 åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 

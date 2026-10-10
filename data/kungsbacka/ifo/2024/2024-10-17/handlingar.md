@@ -180,14 +180,14 @@ Vid förfall för förvaltningschefen inträder den person som är utsedd till
 
 förvaltningschefens ersättare eller ställföreträdare.
 Vid förfall för övriga delegater
-1) annan delegat med samma titel anställd på annan enhet och som har erforderlig
+1\) annan delegat med samma titel anställd på annan enhet och som har erforderlig
 kunskap inom aktuellt område. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
 och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -988,7 +988,7 @@ Revidering av nämndens delegeringsförteckning september 2024 – föreslagna
 
 Förslag till ny punkt
 
-4. 10 Funktionsstöd, LSS
+4\. 10 Funktionsstöd, LSS
 
 Kommentar: Bestämmelsen ger en möjlighet för socialnämnden att besluta att LSS-insatserna biträde
 av kontaktperson, avlösarservice i hemmet och korttidsvistelse får beviljas ett barn, trots att en av
@@ -1841,7 +1841,7 @@ Tabell
 Anvisning
 
 Nämndens lokalbehov för bostäder uttrycks i antal lägenheter. Lokalbehoven avser åren 2026-
-2030. År 2025 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
+2030\. År 2025 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
 behov för 2025 kan inte tas upp här.
 
 I tabellerna ska behoven kategoriseras enligt stoppljusen (se avsnitt 1). Kategorisering enligt
@@ -1904,7 +1904,7 @@ kommun tillgång till information i databaser och verksamhetssystem inom förval
 begränsas till sådan data som erfordras för att skapa underlag och rapporter som efterfrågas och
 beställs av förvaltningen.
 Nämnden för Individ & Familjeomsorg upphäver tidigare beslut antagen av nämnden, 2022-06-16, §
-101.
+101\.
 
 Sammanfattning av ärendet
 
@@ -2738,10 +2738,10 @@ mognadsbedömning då det kan vara avgörande kring hur man ska kunna ta del av 
 röst. Även hur inhämtning av information från annan myndighet och hur det dokumenterades
 
 fanns det brister kring.
--  Hur har dessa brister ovan omhändertagits i förvaltningen?
--  Vilka nya rutiner kring inhämtning av barnets röst finns idag?
+\-  Hur har dessa brister ovan omhändertagits i förvaltningen?
+\-  Vilka nya rutiner kring inhämtning av barnets röst finns idag?
 
--  Vilka förändringar kring dokumentation av ärenden har vidtagits?
+\-  Vilka förändringar kring dokumentation av ärenden har vidtagits?
 Vid granskningen framkom också att det finns vissa oklarheter om dokumentation och
 motivering av nämndens beslut om omedelbart omhändertagande enligt 6 § LVU, Det saknas
 
@@ -2751,8 +2751,8 @@ rättssäkerhetsperspektiv. De flesta besluten har tagit av ordförande i nämnd
 också brister kring information kring överklagandeunderrättelser som nämnden använda sig
 av.
 
--  Hur har förvaltningen och ordförande i nämnden resonerat kring detta?
--  Vilka nya rutiner – handlingar har gjort för att säkerställa att nämnden följer lagen?
+\-  Hur har förvaltningen och ordförande i nämnden resonerat kring detta?
+\-  Vilka nya rutiner – handlingar har gjort för att säkerställa att nämnden följer lagen?
 
 Hälsningar
 

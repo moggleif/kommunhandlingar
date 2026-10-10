@@ -388,7 +388,7 @@ Byggnadsnämnden gav den 21 mars 2024 § 76 Samhällsbyggnadskontoret i uppdrag
 att återuppta planarbetet.
 Kompletterande utredning gällande skyfall har tagits fram och planhandlingar har
 uppdaterats i erforderliga delar. En ny granskning genomfördes 24 februari -18 mars
-2025. Under granskningen inkom 12 skrivelser.
+2025\. Under granskningen inkom 12 skrivelser.
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga
 eller andra allmänna intressen och bedömer, med hänsyn till prövningsgrunderna i 11
@@ -775,7 +775,7 @@ uteservering tillhörande en restaurang på fastigheten Tullen 8 vid Kungsbacka 
 Själva tillbyggnaden placeras på KUNGSBACKA 3:1.
 
 Ett tidsbegränsat bygglov har tidigare beviljats för åtgärden (BNAU 2020-06-11 §
-200) och tidsbegränsat bygglov för inglasad uteservering har även beviljats till en
+200\) och tidsbegränsat bygglov för inglasad uteservering har även beviljats till en
 angränsande restaurang på samma fastighet.
 Enligt sökande är syftet med inglasningen att ha ett uterum som ökar användbarheten
 
@@ -802,7 +802,7 @@ Datum
 
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
-- Åtgärden placeras på allmän platsmark; Torg.
+\- Åtgärden placeras på allmän platsmark; Torg.
 
 Övriga förutsättningar
 Platsen omfattas av riksintresse för kulturmiljövård (Kungsbacka innerstad) och

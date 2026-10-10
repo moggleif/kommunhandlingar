@@ -103,11 +103,11 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-12-03 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2024-11-05 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i december.
 
@@ -136,7 +136,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 Svar på frågan om rektorsomsättning från Kommunal gällande Kollaskolan AGR.
 Arbetsgivaren återkommer med information om AGR till nästa FSG. Information om byte av rektorer
@@ -159,7 +159,7 @@ utveckling.
 
 Beslut: Att anteckna informationen.
 
-4. Samverkansprocess vid ombyggnation stadshuset
+4\. Samverkansprocess vid ombyggnation stadshuset
 Enkät ombyggnation för administrativ personal till Stadshuset har man en särskild samverkansgrupp.
 
 Varje förvaltning ska göra en riskbedömning hur det påverkar oss som arbetar på VM. Föreskrivna
@@ -180,7 +180,7 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (5)
 
-5. Arbetet kring förvaltningsbudget 2025
+5\. Arbetet kring förvaltningsbudget 2025
 
 Förvaltningsbudget beslutas i januari. Arbetsgivaren arbetar med att adressera alla mål och direktiv
 och skriva underlag till kommunbudget 2026. Ekonomichefen föredrar på FSG i januari.
@@ -189,7 +189,7 @@ Beslut: Dialog/information
 
 Arbetstagarorganisation
 
-7. Fråga gällande process runt översyn likvärdig elevhälsa
+7\. Fråga gällande process runt översyn likvärdig elevhälsa
 
 Frågan från Akademikerförbundet SSR gäller inte den inre processen runt organisation bland de
 centralt anställda på Vägmästaren utan frågan gällde hur nästa steg ser ut att se över likvärdigheten
@@ -205,7 +205,7 @@ Vårdförbundet vill också stödja SSR i frågan.
 
 Beslut: Information/Dialog
 
-8. Rapport “Paus i förskolan”
+8\. Rapport “Paus i förskolan”
 Sveriges Lärare har delat en undersökning som man gjort bland medlemmarna i förskolan och deras
 möjlighet att ta erforderliga pauser under arbetsdagen. Resultatet är tydligt. Medlemmarna hinner inte,
 
@@ -227,7 +227,7 @@ Kommunal ställer sig bakom rapporten.
 
 Beslut: Dialog/information
 
-9. Tillbud och olycksfall. Hur ser det ut i förskola, grundskola och gymnasiet?”
+9\. Tillbud och olycksfall. Hur ser det ut i förskola, grundskola och gymnasiet?”
 
 Sveriges Lärare har påpekat att det brister det lokala arbetet med uppföljning och åtgärder i KIA.
 Sveriges Lärare har granskat alla tillbud/olycksfall som inträffade mars månad och sammanställt en
@@ -271,7 +271,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -402,12 +402,12 @@ beslut om åtgärder som kan behövas för att den huvudman som bedriver verksam
 fel som upptäckts vid granskningen.
 
 En huvudman ansvarar bland annat för att:
--  Utbildningen genomförs i enlighet med gällande styrdokument
+\-  Utbildningen genomförs i enlighet med gällande styrdokument
 
--  Resurser organiseras och fördelas i verksamheten
--  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
+\-  Resurser organiseras och fördelas i verksamheten
+\-  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
 
--  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
+\-  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
 Det finns också i skollagen uttalade krav på ägar- och ledningskretsen för fristående huvudmän.
 Ägar- och ledningskretsen beror på organisationsform och kan exempelvis vara styrelseledamöter
 eller verkställande direktör eller ägare. Det ska finnas ekonomiska förutsättningar för
@@ -459,33 +459,33 @@ gång att lanseras i form av en e-tjänst för verksamhetsbeskrivning mot dagens
 •  Genomgång av befintliga tillstånd gällande antal barn för fristående verksamheter.
 
 1.2 Tillvägagångssätt för regelbunden tillsyn
--  Information till fristående huvudman om kommande tillsyn.
+\-  Information till fristående huvudman om kommande tillsyn.
 
--  Underlag med frågor och efterfrågad dokumentation går till fristående huvudman för att
+\-  Underlag med frågor och efterfrågad dokumentation går till fristående huvudman för att
 besvara.
--  I de fall det inte finns en nyligen genomförd ägar- och ledningsprövning görs även detta.
+\-  I de fall det inte finns en nyligen genomförd ägar- och ledningsprövning görs även detta.
 
--  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
+\-  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
 informationen där upp en plan för tillsynsbesöket och prioriterade områden.
--  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
+\-  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
 intervjuer med företrädare för verksamheten. Även vårdnadshavare kan komma att
 tillfrågas.
 
--  Sammanfattande bedömning och vid behov begärs komplettering in.
+\-  Sammanfattande bedömning och vid behov begärs komplettering in.
 
--  Beslut och kommunicering med huvudman.
--  Uppföljning av eventuella förelägganden.
+\-  Beslut och kommunicering med huvudman.
+\-  Uppföljning av eventuella förelägganden.
 
 Inom den regelbundna tillsynen görs en bred genomgång av regelefterlevnad. Frågeställningarna
 utvecklas löpande utifrån erfarenheter från tidigare tillsyner.
 
 En tillsynsbeslut kan resultera i:
 
--  Föreläggande
--  Anmärkning
+\-  Föreläggande
+\-  Anmärkning
 
--  Avstående från ingripande
--  Återkallelse
+\-  Avstående från ingripande
+\-  Återkallelse
 
 Beslut i tillsynen gällande föreläggande utan vite, anmärkning eller avstående från ingripnade är
 delegerade till förvaltningen. Övriga beslut av mer ingripande karaktär som föreläggande med vite
@@ -510,10 +510,10 @@ Avstående från ingripande
 Den granskande myndigheten kan avstå från ett ingripande och ändå beskriva bristerna i beslutet
 om:
 
--  bristerna vid en tillsyn är mindre
+\-  bristerna vid en tillsyn är mindre
 
--  verksamheten som granskas genomför nödvändig rättelse
--  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
+\-  verksamheten som granskas genomför nödvändig rättelse
+\-  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
 
 Återkallelse
 Om en verksamhet har mycket allvarliga brister kan den granskande myndigheten fatta beslut om
@@ -533,12 +533,12 @@ förtroende för verksamheten.
 
 Godkännande ska lämnas om den enskilde
 
--  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+\-  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten (exempelvis skollag och förordningar, arbetsmiljö och arbetsrätt samt de
 ekonomiska regelverk som styr associationsformen).
--  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
+\-  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
 
--  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
+\-  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
 Vidare krävs enligt tredje stycket att den enskilde i övrigt bedöms lämplig. I fråga om en juridisk
 
 person krävs att samtliga som anges i 2 kap. 5 a § 1–4 skollagen bedöms lämpliga. Vid
@@ -885,7 +885,7 @@ Förvaltningsbudget 2025
 Resultatfond
 
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2025.
+2025\.
 
 Uppföljning
 Ekonomisk uppföljning sker månadsvis per enhet och pedagogiskt område. Delårsavstämningar görs per april
@@ -1250,18 +1250,18 @@ växer olika mycket i olika områden.
 
 Nämndens arbete med innovation och omställning till nya arbetssätt
 Förskola & Grundskola identifierar tre centrala delar i vår modell för innovationsledning:
-1. Identifiering av strategiska behov
+1\. Identifiering av strategiska behov
 
 Genom vårt systematiska kvalitetsarbete synliggör vi områden där förbättringar kräver ett innovativt
 förhållningssätt. Behov av större satsningar och strategiska projekt hanteras av innovationsrådet, som beslutar
 om nya expeditioner och prioriterar initiativ som har störst potential att möta verksamhetens långsiktiga mål.
-2. Främjande av medarbetares idéutveckling
+2\. Främjande av medarbetares idéutveckling
 
 Förvaltningen ska möta idéer från medarbetare och arbetslag med nyfikenhet och en positiv inställning.
 Samtidigt är det viktigt att selektivt välja ut och utveckla de idéer som bäst främjar organisationens behov och
 mål. Genom tydliga strukturer kan vi både stötta idéutveckling och koppla den till verksamhetens strategiska
 fokus.
-3. Barns och elevers delaktighet i innovation
+3\. Barns och elevers delaktighet i innovation
 Vi stödjer och utbildar barn och elever i att förstå och delta i innovativa processer. Detta skapar inte bara en
 djupare förståelse för innovation utan gör dem också till aktiva medskapare i utvecklingsarbetet.
 
@@ -1367,7 +1367,7 @@ och med 2029.
 
 Förstärkning av kunskapsbidraget
 Regeringen föreslår en förstärkning av kunskapsbidraget med 700 miljoner kronor till drygt 8,2 miljarder kronor
-2025. Kunskapsbidraget uppgick 2024 till 7,5 miljarder kronor. Bidraget fördelas efter socioekonomisk viktning
+2025\. Kunskapsbidraget uppgick 2024 till 7,5 miljarder kronor. Bidraget fördelas efter socioekonomisk viktning
 och kan enligt regeringen användas för att till exempel rekrytera personal.
 Stärkt statsbidrag för höjd kvalitet i förskolan
 Regeringen föreslår en förstärkning av statsbidraget för kvalitetshöjande åtgärder inom förskolan om 900
@@ -1701,7 +1701,7 @@ Ledningssystem för hälso och sjukvård inom elevhälsan
 
 Beslutet skickas till
 
--
+\-
 
 Stigert Pettersson                 Magnus Sandberg
 

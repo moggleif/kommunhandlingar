@@ -18,9 +18,10 @@ pip install -e ".[utveckling]"
 ```
 
 `pip install -e .` gör paketet i `src/kommunhandlingar/` importerbart, så
-att testerna når det. `[utveckling]` tar med ruff och pip-audit i de
-versioner som står i `pyproject.toml`, samma som CI installerar; ruffs
-förhandsregler kan ändras mellan versioner. Med
+att testerna når det. `[utveckling]` tar med ruff, pip-audit och
+markdown-it-py, som testerna renderar Markdown med, i de versioner som
+står i `pyproject.toml`, samma som CI installerar; ruffs förhandsregler
+kan ändras mellan versioner. Med
 [uv](https://docs.astral.sh/uv/) går samma ruff att köra utan
 installation: `uvx ruff@<versionen i pyproject.toml> check .`.
 
@@ -33,14 +34,18 @@ ruff check .
 ruff format --check .
 python3 scripts/kontrollera_storlek.py
 python3 -m unittest discover -s tests -t .
+npx markdownlint-cli2@<versionen i kontroll.yml> <ändrade .md-filer>
 pip-audit .
 ```
 
 Gränserna för storlek och komplexitet står i "Ren kod – strikt" i
 `AGENTS.md`. Ruff kontrollerar parametrar, nästling och komplexitet
 (`pyproject.toml`); `scripts/kontrollera_storlek.py` kontrollerar rader per
-funktion och fil, som ruff saknar regler för. `pip-audit` letar efter kända
-sårbarheter i projektets beroenden, och Dependabot
+funktion och fil, som ruff saknar regler för. Markdown-lint (ADR-0021)
+körs med [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2)
+och Node på de `.md` som ändrats, med reglerna i
+`.markdownlint-cli2.jsonc`; hela poolen tar en halvtimme. `pip-audit`
+letar efter kända sårbarheter i projektets beroenden, och Dependabot
 (`.github/dependabot.yml`) föreslår nya versioner av beroendena, av ruff
 och pip-audit och av Actions. CI
 kontrollerar också att inga binärer är incheckade.

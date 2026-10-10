@@ -37,11 +37,11 @@ Kungsbackarummet, Storgatan 37
 Ärende Beteckning |Förslag Tid
 Val av justerare Ordinarie: Nils Skyman (M)
 Ersättare: Peter Wesley (KD)
-1. | Förändring av ärendelista MH-2026- 1
+1\. | Förändring av ärendelista MH-2026- 1
 00037 min
-2. | Anmälan av jäv MH-2026- il
+2\. | Anmälan av jäv MH-2026- il
 00038 min
-3. | Sammanträdesdagar 2027 för | MH-2026- = |Förslag till beslut 2
+3\. | Sammanträdesdagar 2027 för | MH-2026- = |Förslag till beslut 2
 nämnden för Miljö & 03131 Nämnden för Miljö & Hälsoskydd min
 Hälsoskydd sammanträder följande datum år 2027:
 Föredragande: Sofia Johansson, 2027-01-14, 2027-02-04, 2027-03-10, 2027-
@@ -64,7 +64,7 @@ Besöksadress
 
 KUNGSBACKA KOMMUN
 
-24)
+24\)
 Ärende Beteckning | Förslag Tid
 Antagande av taxa för nämnden | MH-2026- = |Förslag till beslut 30
 för Miljö & Hälsoskydds 03130 min
@@ -106,7 +106,7 @@ Kommunfullmäktige ger nämnden för Miljö
 avgiftsbeloppen enligt Prisindex för
 kommunal verksamhet (PKV) publicerad av
 Sveriges kommuner och regioner (SKR), i
-enlighet med taxans bestämmelser 6 $.
+enlighet med taxans bestämmelser 6 \$.
 Utgångspunkten för indexjusteringen är
 oktober år 2026.
 
@@ -116,7 +116,7 @@ lagen om sprängämnesprekursorer, lagen om
 gaturenhållning och skyltning samt lagen
 om åtgärder mot förorening från fartyg
 antagen av kommunfullmäktige 2023-12-14
-$ 195, upphör att gälla samtidigt som ny
+\$ 195, upphör att gälla samtidigt som ny
 taxa träder i kraft.
 
 <!-- sida 3 -->
@@ -141,7 +141,7 @@ fotbolls-VM 2026.
 Föredragande: Georges Chayeb, Nämnden för Miljö & Hälsoskydd förklarar
 alkoholhandläggare - j .
 uppdraget som lämnades av nämnden för
-Miljö & Hälsoskydd, 2026-04-16, $ 53, för
+Miljö & Hälsoskydd, 2026-04-16, \$ 53, för
 avslutat.
 Återrapportering av uppdrag att | MH-2026- = |Förslag till beslut 30
 redovisa en handlingsplan för = |02708 Nämnden för Miljö & min
@@ -151,7 +151,7 @@ Servicelyftet.
 mr Sand: osefin Nämnden för Miljö & Hälsoskydd förklarar
 ahlbäck, projektledare - m .
 uppdraget som lämnades av nämnden för
-Miljö & Hälsoskydd 2026-05-07 $ 71, för
+Miljö & Hälsoskydd 2026-05-07 \$ 71, för
 avslutat.
 Anmälan av ordförandebeslut - | MH-2026- Förslag till beslut 2
 Ansökan om tillfällig ändring 1830 Nämnden för Miljö & Hälsoskydd min
@@ -170,28 +170,28 @@ KUNGSBACKA KOMMUN
 
 4(4)
 Ärende Beteckning | Förslag Tid
-10. | Anmälan av ordförandebeslut - | MH-2026- Förslag till beslut 2
+10\. | Anmälan av ordförandebeslut - | MH-2026- Förslag till beslut 2
 Ansökan om tillfällig ändring 2446 Nämnden för Miljö & Hälsoskydd min
 av serveringstillstånd, The godkänner redovisningen av
 Black Pearl i Kungsbacka delegeringsbeslut från ordförande Niclas
 Nilsson (M) på grund av brådskade ärende.
-11. | Anmälan av delegeringsbeslut | MH-2026- = |Förslag till beslut 2
+11\. | Anmälan av delegeringsbeslut | MH-2026- = |Förslag till beslut 2
 00039 Nämnden för Miljö & Hälsoskydd min
 godkänner redovisningen av
 delegeringsbeslut fattade under perioden
 2026-05-25-2026-08-02.
-12. | Anmälan av yttranden MH-2026- | Förslag till beslut 2
+12\. | Anmälan av yttranden MH-2026- | Förslag till beslut 2
 00040 Nämnden för Miljö & Hälsoskydd min
 godkänner redovisningen av yttranden
 fattade under perioden 2026-05-25-2026-
 08-02.
-13. | Redovisning av inkomna MH-2026- | Förslag till beslut 2
+13\. | Redovisning av inkomna MH-2026- | Förslag till beslut 2
 skrivelser 00041 Nämnden för Miljö & Hälsoskydd noterar — | min
 redovisningen av inkomna skrivelser till
 protokollet.
-14. | Information från MH-2026- 10
+14\. | Information från MH-2026- 10
 förvaltningschefen 00042 min
-15. | Information om uppföljning om | MH-2026- 5
+15\. | Information om uppföljning om | MH-2026- 5
 inre tillsyn enligt alkohollagen |03773 .
 min
 Föredragande: Helena Köhler,

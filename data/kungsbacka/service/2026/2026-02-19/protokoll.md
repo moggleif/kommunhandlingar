@@ -257,7 +257,7 @@ januari 2024. Planarbetet har återupptagits och har skickats ut för granskning
 vintern 2025/2026. Detaljplanen förväntas antas på nytt i kommunfullmäktige
 sommaren 2026.
 En avsiktsförklaring har tecknats med Dagab AB i augusti 2025 och detaljplanen ska
-bland annat möjliggöra för Dagab AB`s verksamhet.
+bland annat möjliggöra för Dagab AB\`s verksamhet.
 
 Inget av de ingående delarna beräknas påverka kommunal Service i stort. Inte heller
 närliggande kommunal Service beräknas påverkas i stort.

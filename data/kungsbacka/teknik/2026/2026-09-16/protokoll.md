@@ -137,14 +137,14 @@ Nämnden för Teknik godkänner ärendelistan med förändring.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler en förändring i dagordningen:
--  Ärende 7 i dagordningen: ” Begäran om yttrande - Begravningsplats för
+\-  Ärende 7 i dagordningen: ” Begäran om yttrande - Begravningsplats för
 
 sällskapsdjur, KS-2022-00505” utgår från dagens sammanträde.
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Redovisning av förvaltningens löpande projektkostnader
+\-  Redovisning av förvaltningens löpande projektkostnader
 Ärendet lyfts efter paragraf § 99 i dagordningen: Anmälan av delegeringsbeslut
-2026.
+2026\.
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden för Teknik kan godkänna
@@ -310,7 +310,7 @@ trafikförsörjningsprogram som beskriver verksamhetens omfattning och grunderna
 för prissättning.
 
 Region Halland har antagit ett nytt trafikförsörjningsprogram för perioden 2026–
-2030. För att samordna planeringsperioderna och säkerställa att kommunen även
+2030\. För att samordna planeringsperioderna och säkerställa att kommunen även
 fortsättningsvis uppfyller lagens krav har Kungsbacka kommun tagit fram ett nytt
 trafikförsörjningsprogram för samma period. Programmet ersätter tidigare
 trafikförsörjningsprogram för särskild kollektivtrafik som antogs av
@@ -509,7 +509,7 @@ Sammanfattning av ärendet
 Under perioden 19 augusti – 8 september inkom följande skrivelse till nämnden för
 Teknik:
 
--  Skrivelse om dagvattenledning till Örsviken
+\-  Skrivelse om dagvattenledning till Örsviken
 
 Beslutsgång
 
@@ -604,10 +604,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Förvaltningens identifierade platser för satsningen på trygghetsbelysning
--  Förutsättningar för Åsa pendelparkerings
+\-  Förvaltningens identifierade platser för satsningen på trygghetsbelysning
+\-  Förutsättningar för Åsa pendelparkerings
 
--  Pågående rekryteringar
+\-  Pågående rekryteringar
 
 Beslutsgång
 

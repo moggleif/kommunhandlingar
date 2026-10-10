@@ -401,10 +401,10 @@ I nämnden för förskola & grundskola har Alliansen lagt ett initiativ om Stär
 elevhälsa.
 
 I initiativet får förvaltningen i uppdrag att:
-- Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
+\- Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
 exempel frikoppla denna del ur den ordinarie elevpengen.
 
-- Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans
+\- Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans
 arbete gentemot huvudmannen.
 Förvaltningen konstaterar att många kommuner har en modell för att tilldela resurser
 
@@ -548,35 +548,35 @@ fristående verksamheten ska ha samma ekonomiska förutsättningar som den
 kommunala verksamheten. Från och med budgetåret 2010 gäller ny lagstiftning vad
 gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen
 tillämpar vid fördelning av resurser till den egna verksamheten av
 motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till
+\- Kommunens budget för verksamheten det kommande året ska ligga till
 
 grund för bestämningen av bidragen till den fristående verksamheten.
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning
 för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser
 ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
 
-7. lokalkostnader.
+7\. lokalkostnader.
 Nedan följer grundbeloppen för 2026 i både kommunal och fristående verksamhet. I
 den fristående verksamheternas grundbelopp inkluderas bidrag för lokalkostnader,
 måltider samt ersättning för kostnader som den kommunala verksamheten valt att ha
@@ -893,7 +893,7 @@ Kungsbacka och nämnden för Förskola & Grundskola beslutade den 15 maj § 57 a
 lämna initiativet till förvaltningen för beredning.
 
 I initiativärendet föreslår SD att förvaltningen för Förskola & Grundskola beslutar;
-- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att
+\- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att
 inrätta en jourskola alternativt jourklass på grundskolenivå i Kungsbacka kommun.
 
 -Att utredningsarbetet redovisas för nämnden.

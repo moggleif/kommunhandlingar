@@ -660,18 +660,18 @@ tillsammans med  unga
 Göteborgsregionen har under senaste åren tagit fram tre verktyg i syfte att stödja
 kommunerna med att arbeta vidare med LUPP-resultaten efter att enkäten är
 genomförd och huvudresultaten är framtagna. Dessa tre verktyg är:
-- Påverkanstorg – dialog mellan unga och beslutsfattare
+\- Påverkanstorg – dialog mellan unga och beslutsfattare
 För att LUPP-resultaten ska bli verkligt intressanta behöver de diskuteras med
 berörda ungdomar och beslutsfattare. Ett sätt kan vara att arrangera ett demokrati-
 eller påverkanstorg. Detta är en metod som GR har använt i andra sammanhang
 
 tidigare, och som har anpassats för att knyta an till teman och resultat från LUPP.4
--  Undervisningsmaterial med utgångspunkt i LUPP
+\-  Undervisningsmaterial med utgångspunkt i LUPP
 I samarbete med MUCF har GR tagit fram ett undervisningsmaterial som tar sin
 utgångspunkt i LUPP-resultat och låter elever lära sig mer om och möta demokratin.5
 Under våren 2025 ska tas fram ett kompletterande material som är särskilt utformat
 för undervisning i anpassad skola.
-- Medborgardialog genom Minecraft
+\- Medborgardialog genom Minecraft
 GR har tagit fram ett metod- och inspirationsmaterial med grund i spelet Minecraft
 som vänder sig till exempelvis verksamhetsutvecklare, arbetsledare och verksamma i
 
@@ -708,7 +708,7 @@ Göteborgsregionen (GR) (goteborgsregionen.se)
 
 Verksamhetsnära analys och samordnat utvecklingsarbete för ungas hälsa i Kungsbacka
 
-1. Inhämtande av kunskap om ungas egna uppfattningar om orsaker till,
+1\. Inhämtande av kunskap om ungas egna uppfattningar om orsaker till,
 och konsekvenser av, ungas psykiska ohälsa
 Fem workshoppar genomförs med representanter av unga, där ungdomarna får
 skapa så kallade problemträd (se ovan) för att analysera ungas psykiska ohälsa. De
@@ -749,7 +749,7 @@ Workshopen följs upp av ett internt arbetsmöte i respektive verksamhet (utan G
 medverkan) för att diskutera och undersöka förutsättningar för att försöka motverka
 några av de identifierade orsakerna till psykisk ohälsa hos sin målgrupp.
 
-2. Gemensam ”verksamhetstvärande” analysdag I
+2\. Gemensam ”verksamhetstvärande” analysdag I
 En gemensam, halvdags workshop genomförs tillsammans med de fyra kommunala
 förvaltningarna samt tre eller fyra verksamheter i Region Halland. Workshoppen
 utgår från de underlag och resultat som har erhållits i de fem verksamhetsknutna
@@ -785,10 +785,10 @@ de enskilda förvaltningarna eller i samarbete mellan förvaltningar.
 Deltagarna kommer därefter att försöka besvara ett antal
 
 framåtsyftande frågor:
-- Vilka orsaker är möjliga att åtgärda ”redan nu”?
-- Vem kan åtgärda?
-- Vem behöver vi samarbeta med?
-- Hur involverar vi unga i arbetet?
+\- Vilka orsaker är möjliga att åtgärda ”redan nu”?
+\- Vem kan åtgärda?
+\- Vem behöver vi samarbeta med?
+\- Hur involverar vi unga i arbetet?
 Resultaten från workshopen dokumenteras av GR.
 Workshopen följs upp av ett internt arbetsmöte i respektive verksamhet (utan GR:s
 medverkan). Fokus för ett sådant möte förslås vara att välja ut två orsaker som
@@ -799,7 +799,7 @@ samarbete med en eller flera verksamheter. Verksamheten återkopplar beslutet ti
 unga som deltagit på workshopen och bjuder även in ungdomarna att ge inspel på
 hur de skulle vilja att åtgärderna utformas/genomförs.
 
-3. Gemensam ”verksamhetstvärande” analysdag II
+3\. Gemensam ”verksamhetstvärande” analysdag II
 En gemensam, halvdags workshop genomförs tillsammans med de fyra kommunala
 förvaltningarna samt tre eller fyra verksamheter i Region Halland. Workshoppen
 utgår från underlag och resultat från den första gemensamma analysdagen.
@@ -829,13 +829,13 @@ Frågor för analysen:
 
 Verksamhetsnära analys och samordnat utvecklingsarbete för ungas hälsa i Kungsbacka
 
-- Vem kan åtgärda? Hur ser mandatet ut?
-- Vem behöver vi samarbeta med? Förutsättningar för det?
-- Hur involverar vi unga i arbetet?
-- Vad krävs i form av resurser och andra förutsättningar?
+\- Vem kan åtgärda? Hur ser mandatet ut?
+\- Vem behöver vi samarbeta med? Förutsättningar för det?
+\- Hur involverar vi unga i arbetet?
+\- Vad krävs i form av resurser och andra förutsättningar?
 
-- Vilka hinder kan behöva undanröjas?
-- Hur planerar vi? Vem drar i första tråden?
+\- Vilka hinder kan behöva undanröjas?
+\- Hur planerar vi? Vem drar i första tråden?
 Projektansvariga inom ”Främjande fyran” återkopplar resultaten från arbetet så här
 långt till den strategiska styrgruppen. Dialog förs (utan GR:s medverkan) om möjligt
 konkret utvecklingsarbete. Vilket av de 2–3 åtgärdsförslagen bedöms vara mest
@@ -845,7 +845,7 @@ chans att ge inspel på hur de skulle vilja att åtgärden utformas/genomförs.
 De fem verksamheterna kan välja att internt arbeta vidare med ytterligare någon
 
 orsak/åtgärd helt avgränsat till den egna verksamheten (utan GR:s medverkan).
-4. Gemensam ”verksamhetstvärande” analysdag III
+4\. Gemensam ”verksamhetstvärande” analysdag III
 
 En gemensam, halvdags workshop genomförs tillsammans med de fyra kommunala
 förvaltningarna samt tre eller fyra verksamheter i Region Halland. Workshoppen
@@ -864,13 +864,13 @@ ohälsa hos unga i verksamheternas målgrupper och/eller att stärka friskfaktor
 Workshoppen följs upp med internt arbete (utan GR:s medverkan) med att
 beräkna uppskattade kostnader för förslaget på åtgärd.
 
-5. ”Främjande FYRAN” återkopplar slutresultatet till den strategiska
+5\. ”Främjande FYRAN” återkopplar slutresultatet till den strategiska
 styrgruppen (förvaltningschefer) med sikte på (förvaltnings)beslut
 Kommuninternt möte för dialog och beslut baserat på resultaten från tidigare
 moment (utan GR:s medverkan). Kostnader för förslag på åtgärd sätts i relation till
 
 verksamheternas övriga uppdrag. Momentet omfattas inte av GR:s uppdrag.
-6. Styrgruppen för ”Främjande FYRAN” kommunicerar behov och förslag till
+6\. Styrgruppen för ”Främjande FYRAN” kommunicerar behov och förslag till
 politiken
 
 Resultaten från arbetet återkopplas till politiken, med sikte på ett politiskt beslut.
@@ -927,9 +927,9 @@ med uppdragsgivaren och enskilda förvaltningar/verksamheter, åtta workshoppar
 projektresultat i en slutrapport.
 Priset är exklusive moms. Priset inkluderar kostnader för löner, overhead-påslag.
 Kostnaden kommer att faktureras vid två tillfällen, enligt nedan förslag:
-- april 2025: 110 000 kronor
+\- april 2025: 110 000 kronor
 
-- dec 2025: 320 000 kronor.
+\- dec 2025: 320 000 kronor.
 
 Besked om  deltagande
 
@@ -965,20 +965,20 @@ Giltighetstid 2025-07-01 – 2029-12-31
 
 Innehåll
 
-1. Allmänt                                            4
+1\. Allmänt                                            4
 1.1 Bakgrund och målgrupper                           4
 1.2 Överenskommelsens syfte och övergripande mål      4
 
 1.3 Parter, giltighetstid och implementering          5
 
-2. Utgångspunkter för samverkan                       5
+2\. Utgångspunkter för samverkan                       5
 2.1 Omtanke Halland och färdplan för god och nära vård och omsorg i Halland 5
 
 2.2 Styrande värderingar                              6
 2.3 Barns rättigheter                                 6
 2.4 Ansvar i förhållande till målgruppernas barn och närstående 7
 
-3. Strukturer för samverkan                           7
+3\. Strukturer för samverkan                           7
 3.1 Övergripande struktur                             7
 3.2 Regional struktur                                 7
 3.3 Lokal struktur                                    8
@@ -987,7 +987,7 @@ Innehåll
 3.5 Avvikelser                                        9
 3.6 Tvister                                          10
 
-4. Gemensamma bestämmelser                           10
+4\. Gemensamma bestämmelser                           10
 4.1 Samordnad individuell plan (SIP)                 10
 4.2 Anmälningsskyldighet                             11
 
@@ -1000,7 +1000,7 @@ Innehåll
 4.8 Samsjuklighet                                    13
 4.9 Andra boendeformer än ordinärt boende            13
 
-5. Målgruppspecifik ansvarsfördelning                14
+5\. Målgruppspecifik ansvarsfördelning                14
 5.1 Barn med behov av samordnade insatser från olika aktörer inom såväl kommun som
 region samt unga som vårdas utanför det egna hemmet  15
 5.2 Individer med psykisk funktionsnedsättning       16
@@ -1014,19 +1014,19 @@ beroendeframkallande medel, läkemedel, dopningsmedel eller spel om pengar 17
 
 <!-- sida 24 -->
 
-7. Förkortningar                                     20
+7\. Förkortningar                                     20
 
-8. Relaterat material                                21
+8\. Relaterat material                                21
 
-9. Personer som reviderat överenskommelsen           22
+9\. Personer som reviderat överenskommelsen           22
 
-10. Uppdaterat från föregående version (2022–2024)   22
+10\. Uppdaterat från föregående version (2022–2024)   22
 
 3
 
 <!-- sida 25 -->
 
-1. Allmänt
+1\. Allmänt
 
 1.1 Bakgrund och målgrupper
 
@@ -1096,7 +1096,7 @@ För de målgrupper som denna överenskommelse avser, ansvarar huvudmännen för
 att förhålla sig till samtliga styrande dokument som är framtagna i samverkan och
 fastställda i respektive ledningssystem.
 
-2. Utgångspunkter   för samverkan
+2\. Utgångspunkter   för samverkan
 
 2.1 Omtanke Halland och färdplan för god och nära vård och omsorg
 i Halland
@@ -1205,7 +1205,7 @@ utsatt för våld i nära relation.
 Enligt 13 kap 1 o 9 §§ SoL, ska socialnämnden erbjuda stöd till vuxna som
 är närstående till en individ som tillhör någon av målgrupperna.
 
-3. Strukturer för samverkan
+3\. Strukturer för samverkan
 
 3.1 Övergripande struktur
 Alla berörda parter är överens om innehållet i överenskommelsen. Huvudmännen
@@ -1349,7 +1349,7 @@ längst till förvaltningschefsnivå. Förvaltningscheferna är ytterst ansvarig
 komma överens om hur frågan ska hanteras så ett samförstånd mellan huvudmännen
 uppnås.
 
-4. Gemensamma     bestämmelser
+4\. Gemensamma     bestämmelser
 
 4.1 Samordnad individuell plan (SIP)
 
@@ -1569,7 +1569,7 @@ de fortsatta samordnade insatserna görs. Vid alla placeringar är det viktigt
 att kontinuerligt och gemensamt utvärdera, följa upp, och vid behov förändra eller
 anpassa insatserna efter individens behov.
 
-5. Målgruppspecifik  ansvarsfördelning
+5\. Målgruppspecifik  ansvarsfördelning
 
 Ansvarsfördelning som beskrivs under kapitel 5 omfattar såväl verksamhet i egen regi
 som privata utförare samt statlig verksamhet med uppdrag från kommun eller region.
@@ -1752,7 +1752,7 @@ utveckla det förebyggande arbetet mot alkohol, narkotika, dopning, tobak
 och spel i länet. Länsstyrelsen samordnar länets ANDTS-förebyggande arbete
 genom utbildning och information till kommuner och region.
 
-6. Definition av begrepp
+6\. Definition av begrepp
 
 Barn: Individer under 18 år.
 
@@ -1875,7 +1875,7 @@ fatta beslut i ett individärende.
 Åtgärdsprogram: är en beskrivning av en elevs behov av särskilt stöd och hur dessa
 behov ska tillgodoses. Upprättas efter beslut av rektor. Beslutet kan överklagas.
 
-7. Förkortningar
+7\. Förkortningar
 
 FL: Förvaltningslag (2017:900)
 
@@ -1917,7 +1917,7 @@ SSGV: Strategisk samordningsgrupp Vuxen
 
 ÖRV: Öppen rättspsykiatrisk vård
 
-8. Relaterat material
+8\. Relaterat material
 
 Barnkonventionen Lag (2018:1197) om Förenta nationernas konvention om barnets
 rättigheter | Sveriges riksdag
@@ -1974,7 +1974,7 @@ Hälsoundersökning på begäran av socialtjänst - Vårdgivare
 Ansvarsförbindelse om kostnadsfördelning vid heldygns placering
 Ansvarsförbindelse om kostnadsfördelning vid heldygns placering
 
-9. Personer som  reviderat överenskommelsen
+9\. Personer som  reviderat överenskommelsen
 
 Brukarorganisationerna:
 
@@ -1990,7 +1990,7 @@ Regionkontoret/Region Halland:
 Mia Alne (hälso- och sjukvårdsstrateg)
 Maria Nilsson (hälso- och sjukvårdsstrateg)
 
-10. Uppdaterat  från föregående  version (2022–2024)
+10\. Uppdaterat  från föregående  version (2022–2024)
 
 Kortare redaktionella ändringar och ändringar i lagparagrafer anges inte
 
@@ -2010,7 +2010,7 @@ Tillägg: Lag (2024:90)
 Tillägg: Huvudmännens ansvar att förhålla sig till samtliga styrande dokument som är
 framtagna i samverkan
 
-2. Utgångspunkter för samverkan
+2\. Utgångspunkter för samverkan
 Ändring: Rubrik ”Utgångspunkter” till ”Utgångspunkter för samverkan”.
 
 2.1 Omtanke Halland och färdplan för god och nära vård och omsorg i Halland
@@ -2021,7 +2021,7 @@ Tillägg: Nytt stycke
 mänskliga rättigheter
 Tillägg: Artikel 24 och 28
 
-3. Strukturer för samverkan
+3\. Strukturer för samverkan
 Ändring: Rubrik ”Samverkansstruktur” till ”Strukturer för samverkan”
 
 3.2 Regional struktur
@@ -2058,7 +2058,7 @@ Tillägg: syfte och koppling till målgrupperna
 Tillägg: hänvisning till den SIP-process som tagits fram i Halland avseende stöd och
 vägledning gällande barn, unga och vuxna, dokumenten finns på Vårdgivarwebben.
 
-5. Målgruppspecifik ansvarsfördelning
+5\. Målgruppspecifik ansvarsfördelning
 Tillägg: Ansvarsfördelning omfattar såväl verksamhet i egen regi som privata utförare
 samt statlig verksamhet med uppdrag från kommun eller region.
 
@@ -2083,19 +2083,19 @@ somatisk sjukdom.
 Tillägg: habilitering, huvudmän, placering utanför det egna hemmet, rehabilitering
 Ändring: Tydliggörande av begreppet ”unga”, åtgärdsprogram
 
-7. Förkortningar
+7\. Förkortningar
 Tillägg: SSGB, SSGV, RUG,
 Ändring: lagda i ordningsföljd
 
-8. Relaterade länkar och blanketter
+8\. Relaterade länkar och blanketter
 Ändring: Avsnittet har skrivits om och bytt plats i dokumentet
 
-9. Personer som reviderat överenskommelsen
+9\. Personer som reviderat överenskommelsen
 Ändring: Rubrik ”Personer som tagit fram överenskommelsen” till ”Personer som
 reviderat överenskommelsen”. Hela avsnittet har skrivits om och bytt plats i
 dokumentet
 
-10. Uppdaterat från föregående version
+10\. Uppdaterat från föregående version
 Tillägg: nytt avsnitt
 
 24
@@ -2140,7 +2140,7 @@ Nämnden för Kultur & Fritid beslutar att självkostnadspriset vid korttidsuthy
 Nämnden för Kultur & Fritid antar förvaltningens förslag till regler för uthyrning av lokaler och
 anläggningar förutsatt ovan beslut i Kommunfullmäktige. Reglerna ska därefter träda i kraft 2026-07-
 
-01.
+01\.
 
 Sammanfattning av ärendet
 
@@ -2263,7 +2263,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 51 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för tillfällig uthyrning av kommunala lokaler och
 anläggningar. Lokalerna kan hyras per timme för kultur- eller fritidsaktiviteter,
@@ -2275,13 +2275,13 @@ taxa för dessa grupper. Vid kommersiell uthyrning ska det finnas en koppling
 till kommunens mål, och då tas en marknadsmässig avgift ut som offereras
 separat.
 
-2. Avgränsningar
+2\. Avgränsningar
 
 Taxa för uthyrning av Kungsbacka teater, konsertlokalen Snäckan, Äskhults
 by och naturum Fjärås Bräcka samt taxa för logi i kommunens lokaler,
 regleras i separat taxa.
 
-3. Beräkningsgrunder
+3\. Beräkningsgrunder
 
 3.1 Avgifter tas ut enligt de grunder och principer som framgår av
 kommunallagen (2017:725), 2 kap. 5-6 §§.
@@ -2300,13 +2300,13 @@ tabellerna i detta dokument. Offert baseras på beräkning av lokalkostnad
 samt kostnad för övriga resurser, bland annat personal, lokalvård och
 marknadsföring.
 
-4. Mervärdeskatt
+4\. Mervärdeskatt
 
 Moms är inkluderat i alla avgifter när det är aktuellt. I övriga gäller
 momsfrihet enligt medvärdesskattelagen (1994:200). (2023:200)
 För lokalhyra gäller momsfrihet enligt mervärdesskattelagen
 
-5. Taxor och avgifter
+5\. Taxor och avgifter
 
 Avgiften beror på i vilken taxeklass hyresgästen tillhör och vilken lokal eller
 anläggningstyp som ska hyras.
@@ -2335,7 +2335,7 @@ Evenemang
 Avgift för evenemang ges enligt offert. Beräkningsgrunden är självkostnadspris
 och med följsamhet till konkurrenslagstiftningen.
 
-6. Beräkningsprinciper för justering avgiftsbelopp
+6\. Beräkningsprinciper för justering avgiftsbelopp
 
 Grund för beräkningen är nämnden för Kultur & Fritids beslut att
 självfinansieringsgraden vid korttidsuthyrning av anläggningar
@@ -2352,7 +2352,7 @@ kommunbudgeten.
 
 Gällande övriga avgiftsbelopp följer de självkostnadsprincipen.
 
-7. Delegering av beslut
+7\. Delegering av beslut
 
 Kommunfullmäktige delegerar rätten till nämnden för Kultur & Fritid att justera
 beloppen i taxan i enlighet med taxans bestämmelse 6. Justeringarna ska
@@ -2362,11 +2362,11 @@ Kungsbacka kommun       Taxa för uthyrning av lokaler och anläggningar 3 (6)
 
 <!-- sida 53 -->
 
-8. Avgiftstabeller
+8\. Avgiftstabeller
 
 Kostnad vid avbokning av tider
 
-Kostnad vid avbokning av evenemang*
+Kostnad vid avbokning av evenemang\*
 
 Avgifter
 
@@ -2386,7 +2386,7 @@ Kungsbacka kommun       Taxa för uthyrning av lokaler och anläggningar 4 (6)
 
 [Tabell 53-2](handlingar.tabeller/53-2.csv)
 
-| *Gäller även logi | Avgift |
+| \*Gäller även logi | Avgift |
 | --- | --- |
 | Avbokning en månad eller tidigare | Kostnadsfri |
 | Avbokning två veckor till en månad innan bokad<br>tid | Halva hyreskostnaden |
@@ -2419,12 +2419,12 @@ Motionshall, danslokal och mindre verksamhetsytor
 
 Konstgräsplan
 
-*Endast taxa 1 kan boka halvplan.
+\*Endast taxa 1 kan boka halvplan.
 
 Gräsplaner
 
-* gäller inte Särö IP, Ledets IP, Åsa IP, Frillesås IP (100 kr per timma) omkl.rum ingår ej
-** omklädningsrum ingår ej
+\* gäller inte Särö IP, Ledets IP, Åsa IP, Frillesås IP (100 kr per timma) omkl.rum ingår ej
+\*\* omklädningsrum ingår ej
 
 Friidrottsanläggning
 
@@ -2455,13 +2455,13 @@ Kungsbacka kommun       Taxa för uthyrning av lokaler och anläggningar 5 (6)
 |  | Taxa 1 | Taxa 2 | Taxa 3 |
 | --- | --- | --- | --- |
 | 11 mot 11 | 120 | 240 | 841 |
-| Halv 11 mot 11* | 60 | -- | -- |
+| Halv 11 mot 11\* | 60 | -- | -- |
 | 7 mot 7 | 60 | 120 | 270 |
 | 5 mot 5 | 60 | 120 | 270 |
 
 [Tabell 54-5](handlingar.tabeller/54-5.csv)
 
-|  | Taxa 1* | Taxa 2** | Taxa 3** |
+|  | Taxa 1\* | Taxa 2\*\* | Taxa 3\*\* |
 | --- | --- | --- | --- |
 | 11 mot 11 | 120 | 240 | 841 |
 | 9 mot 9 | 120 | 240 | 505 |
@@ -2474,7 +2474,7 @@ Ishall
 
 Övriga lokaler och utrymmen i våra anläggningar
 
-*gäller endast om omklädningsrum bokas separat.
+\*gäller endast om omklädningsrum bokas separat.
 
 Mötesrum (klassrum och samlingslokaler med mera)
 
@@ -2504,7 +2504,7 @@ Kungsbacka kommun       Taxa för uthyrning av lokaler och anläggningar 6 (6)
 | --- | --- | --- | --- |
 | Förråd per kvm och år | 2 096 | 2 096 | -- |
 | Kansli och klubbhus per kvm och<br>år | 2 096 | 2 096 | -- |
-| Omklädningsrum* | 45 | 45 | 45 |
+| Omklädningsrum\* | 45 | 45 | 45 |
 |  |  |  |  |
 
 [Tabell 55-4](handlingar.tabeller/55-4.csv)
@@ -2514,8 +2514,8 @@ Kungsbacka kommun       Taxa för uthyrning av lokaler och anläggningar 6 (6)
 | Mötesrum högst 50 personer |  |  | 294 |
 | Mötesrum 50 – 100 personer |  |  | 578 |
 | Samlingssal 100-300 personer |  |  | 867 |
-| Samlingssal 300+ personer* |  |  | Offert |
-| Specialsalar i skolbyggnad** |  |  | Offert |
+| Samlingssal 300+ personer\* |  |  | Offert |
+| Specialsalar i skolbyggnad\*\* |  |  | Offert |
 
 <!-- sida 56 -->
 
@@ -2575,21 +2575,21 @@ Taxa 3:  Företag och övriga som inte omfattas av taxa 1 och taxa 2.
 
 1.2 Kostnad vid avbokning av tider
 
-1.3 Kostnad vid avbokning av evenemang*
+1.3 Kostnad vid avbokning av evenemang\*
 
 1.4 Övriga villkor
 
--  Priserna är angivna i kronor per timme om ej annat anges.
--  Andrahandsuthyrning är inte tillåtet. Dock kan avsteg tillåtas efter avstämning med förvaltningen för
+\-  Priserna är angivna i kronor per timme om ej annat anges.
+\-  Andrahandsuthyrning är inte tillåtet. Dock kan avsteg tillåtas efter avstämning med förvaltningen för
 Kultur & Fritid.
 
--  Förvaltningen har rätt att avboka eller justera din bokade tid. Tilldelad träningstid kan avbokas till
+\-  Förvaltningen har rätt att avboka eller justera din bokade tid. Tilldelad träningstid kan avbokas till
 förmån för matcher, evenemang eller underhåll. Kunden ska informeras inom skälig tid, normalt sju
 dagar, och kan ej kräva kompensation.
 
--  Vid uthyrning till kommersiella verksamheter och evenemang av stort publikt intresse upprättas
+\-  Vid uthyrning till kommersiella verksamheter och evenemang av stort publikt intresse upprättas
 särskilt avtal.
--  Bokning av större evenemang kontakta föreningsservice för offert.
+\-  Bokning av större evenemang kontakta föreningsservice för offert.
 
 Kungsbacka kommun         Hyror och avgifter 2026               3
 
@@ -2603,7 +2603,7 @@ Kungsbacka kommun         Hyror och avgifter 2026               3
 
 [Tabell 58-2](handlingar.tabeller/58-2.csv)
 
-| *Gäller även logi | Avgift |
+| \*Gäller även logi | Avgift |
 | --- | --- |
 | Avbokning en månad eller tidigare | Kostnadsfri |
 | Avbokning två veckor till en månad innan bokad tid | Halva hyreskostnaden |
@@ -2611,13 +2611,13 @@ Kungsbacka kommun         Hyror och avgifter 2026               3
 
 <!-- sida 59 -->
 
--  Vid evenemang ansvarar arrangören själv för framtagning och borttagning av utrustning samt
+\-  Vid evenemang ansvarar arrangören själv för framtagning och borttagning av utrustning samt
 iordningsställande av anläggningen, om inget annat avtalats.
--  Bemanning i form av extra tekniker debiteras per timme inklusive moms. (Tilläggstjänst)
+\-  Bemanning i form av extra tekniker debiteras per timme inklusive moms. (Tilläggstjänst)
 
--  Befintlig utrustning i en anläggning ingår, ska den transporteras till annan lokal eller anläggning ska
+\-  Befintlig utrustning i en anläggning ingår, ska den transporteras till annan lokal eller anläggning ska
 transportkostnad debiteras.
--  Skadegörelse eller om lokalen ej lämnas i godtagbart skick så debiteras kunden eventuella
+\-  Skadegörelse eller om lokalen ej lämnas i godtagbart skick så debiteras kunden eventuella
 extrakostnader.
 
 2  Avgifter
@@ -2675,12 +2675,12 @@ verksamhetsytor tex skottramp
 
 2.6 Konstgräsplan
 
-*Endast taxa 1 kan boka halvplan.
+\*Endast taxa 1 kan boka halvplan.
 
 2.7 Gräsplaner
 
-* gäller inte Särö IP, Ledets IP, Åsa IP, Frillesås IP (100 kr per timma) omkl.rum ingår ej
-** omklädningsrum ingår ej
+\* gäller inte Särö IP, Ledets IP, Åsa IP, Frillesås IP (100 kr per timma) omkl.rum ingår ej
+\*\* omklädningsrum ingår ej
 
 2.8 Friidrottsanläggning
 
@@ -2693,13 +2693,13 @@ Kungsbacka kommun         Hyror och avgifter 2026               5
 |  | Taxa 1 | Taxa 2 | Taxa 3 |
 | --- | --- | --- | --- |
 | 11 mot 11 | 120 | 240 | 841 |
-| Halv 11 mot 11* | 60 | -- | -- |
+| Halv 11 mot 11\* | 60 | -- | -- |
 | 7 mot 7 | 60 | 120 | 270 |
 | 5 mot 5 | 60 | 120 | 270 |
 
 [Tabell 60-2](handlingar.tabeller/60-2.csv)
 
-|  | Taxa 1* | Taxa 2** | Taxa 3** |
+|  | Taxa 1\* | Taxa 2\*\* | Taxa 3\*\* |
 | --- | --- | --- | --- |
 | 11 mot 11 | 120 | 240 | 841 |
 | 9 mot 9 | 120 | 240 | 505 |
@@ -2730,12 +2730,12 @@ Hyra av skridskor per tillfälle     30         30          30
 
 2.10 Övriga lokaler och utrymmen i våra anläggningar
 
-*gäller endast om omklädningsrum bokas separat.
+\*gäller endast om omklädningsrum bokas separat.
 
 2.11 Mötesrum (klassrum och samlingslokaler med mera)
 
-* Avser Elof Lindälvs aula
-** hemkunskapsalar och slöjdsalar
+\* Avser Elof Lindälvs aula
+\*\* hemkunskapsalar och slöjdsalar
 
 Kungsbacka kommun         Hyror och avgifter 2026               6
 
@@ -2745,7 +2745,7 @@ Kungsbacka kommun         Hyror och avgifter 2026               6
 | --- | --- | --- | --- |
 | Förråd per kvm och år | 2 096 | 2 096 | -- |
 | Kansli och klubbhus per kvm och år | 2 096 | 2 096 | -- |
-| Omklädningsrum* | 45 | 45 | 45 |
+| Omklädningsrum\* | 45 | 45 | 45 |
 |  |  |  |  |
 
 [Tabell 61-2](handlingar.tabeller/61-2.csv)
@@ -2755,8 +2755,8 @@ Kungsbacka kommun         Hyror och avgifter 2026               6
 | Mötesrum högst 50 personer |  |  | 294 |
 | Mötesrum 50 – 100 personer |  |  | 578 |
 | Samlingssal 100-300 personer |  |  | 867 |
-| Samlingssal 300+ personer* |  |  | Offert |
-| Specialsalar i skolbyggnad** |  |  | Offert |
+| Samlingssal 300+ personer\* |  |  | Offert |
+| Specialsalar i skolbyggnad\*\* |  |  | Offert |
 
 <!-- sida 62 -->
 
@@ -2833,24 +2833,24 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-* förvaltningen har som övergripande inriktning att flytta ekonomiska medel från
+\* förvaltningen har som övergripande inriktning att flytta ekonomiska medel från
 anläggningar och byggnader till aktivitetsstöd till föreningar. Subventionsgrader på
 hyror ska fasas ut till 2030.
-* öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger
+\* öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger
 och helt sköter sina egna anläggningar med tre gånger det generella LOK-stödet.
 
-* att förvaltningen får i uppdrag att under 2025 föreslå nya taxor och avgifter
+\* att förvaltningen får i uppdrag att under 2025 föreslå nya taxor och avgifter
 gällande verksamhetsytor.
-* anta förändrad struktur för stöd samt grundläggande principer, förväntningar, krav
+\* anta förändrad struktur för stöd samt grundläggande principer, förväntningar, krav
 
 och konsekvenstrappa. Förändringen gäller från och med 2025-01-01 med ett
 övergångsår.
-* antar principerna för klubblokaler och verksamhetsytor inklusive värderingsmodell
+\* antar principerna för klubblokaler och verksamhetsytor inklusive värderingsmodell
 vid prioritering av befintliga och vid planering av kommande verksamhetsytor.
 
-* förvaltningen får i uppdrag att utreda huruvida Kungsbacka kommun ska äga och
+\* förvaltningen får i uppdrag att utreda huruvida Kungsbacka kommun ska äga och
 hyra ut ridanläggningar. Förslag till beslut ska presenteras under 2025.
-* förvaltningen ska återrapportera till nämnden vid nämndmötena i maj och
+\* förvaltningen ska återrapportera till nämnden vid nämndmötena i maj och
 november varje år till dess att förslaget är genomfört. Förvaltningen får i uppdrag att
 
 boka in gemensamt avstämningsmöte med representant från representerade partier i
@@ -2896,7 +2896,7 @@ Genomföra        barnkonsekvensanalys
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | 2024-10-31 10:34
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -2922,19 +2922,19 @@ DIREKT BERÖRDA GRUPPER AV BARN
 
 Barn och ungdomar som är aktiva i föreningar:
 
-- De påverkas direkt av förändringar i stöd och resurser till föreningarna, då det kan innebära
+\- De påverkas direkt av förändringar i stöd och resurser till föreningarna, då det kan innebära
 skillnader i träningsmöjligheter, tillgång till lokaler och kvalitén på verksamheten.
 
 Barn med någon form av funktionsnedsättning:
 
-- Då tillgänglighet och anpassningar för barn med funktionsnedsättning är en del av förslaget,
+\- Då tillgänglighet och anpassningar för barn med funktionsnedsättning är en del av förslaget,
 påverkas de direkt i fråga om hur väl idrottsanläggningar och föreningsverksamheter är
 
 tillgängliga och inkluderande.
 
 Barn med familjer med begränsade ekonomiska resurser:
 
-- Ungdomsbarometern 2023 anger att barn som har en sämre familjeekonomi är det allt färre
+\- Ungdomsbarometern 2023 anger att barn som har en sämre familjeekonomi är det allt färre
 som vänder sig till träning inom föreningsregi. Krav på medlemsavgifter kan påverka familjer
 med begränsade ekonomiska resurser, vilket kan leda till att vissa barn utestängs.
 
@@ -2942,12 +2942,12 @@ INDIREKT BERÖRDA GRUPPER AV BARN:
 
 Barn som inte är aktiva i föreningar men kan komma att delta:
 
-- Förbättrade resurser för föreningsliv kan öka tillgängligheten och attraktiviteten för de barn
+\- Förbättrade resurser för föreningsliv kan öka tillgängligheten och attraktiviteten för de barn
 som ännu inte är aktiva men som kan börja delta i framtiden.
 
 Barn i familjer där föräldrar är aktiva i föreningslivet:
 
-- Om föräldrar engagerar sig i föreningar som får stöd kan detta skapa positiva förebilder och
+\- Om föräldrar engagerar sig i föreningar som får stöd kan detta skapa positiva förebilder och
 indirekt förbättra barns sociala miljö och engagemang i aktiviteter.
 
 Fyll i dina kontaktuppgifter
@@ -2973,7 +2973,7 @@ Vem är mottagare av denna barnkonsekvensanalys
 
 Nämnden för Kultur och Fritid
 
-2. Kartläggning
+2\. Kartläggning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3056,7 +3056,7 @@ Revisionsrapport Föreningsbidrag Kalmar kommun.pdf (265 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
 Vad har berörda barn för synpunkter i frågan?
 
@@ -3066,7 +3066,7 @@ Detta kan påverka barns möjligheter att fortsätta sin föreningsverksamhet. S
 framkommer en stark önskan från barnen att kunna fortsätta utforska och delta i ett brett utbud
 av idrottsaktiviteter.
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Redogör för vilka konsekvenser det blir för berörda barn, på lång och kort sikt,
 
@@ -3081,36 +3081,36 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 71 -->
 
-- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
+\- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
 resurserna direkt stöder aktiviteter för barn, kan medföra positiva effekter. Genom att
 öronmärka medel för barn- och ungdomsaktiviteter säkerställs att kommunens stöd direkt
 
 bidrar till barnens möjlighet att delta i föreningslivet och främjar ett rikt utbud av aktiviteter som
 stärker deras hälsa, sociala färdigheter och inkludering.
 
-- En tydligare prioritering av kommunala medel direkt för föreningsverksamhet riktad till barn,
+\- En tydligare prioritering av kommunala medel direkt för föreningsverksamhet riktad till barn,
 snarare än till anläggningar och lokaler, kan leda till flera positiva effekter. Genom att tydligare
 öronmärka medel till aktiviteter som direkt engagerar barn främjas ett ökat deltagande och ger
 fler möjligheter för barn och unga att utvecklas både socialt och fysiskt
 
-- Ökade kostnader för enskilda och familjer kan uppstå på kort sikt om föreningar inte anpassar
+\- Ökade kostnader för enskilda och familjer kan uppstå på kort sikt om föreningar inte anpassar
 sig och aktivt söker stöd inom den nya fördelningsmodellen.
 
-- Minskat aktivitetsutbud. Föreningar kan tvingas minska sitt utbud av aktiviteter eller i värsta
+\- Minskat aktivitetsutbud. Föreningar kan tvingas minska sitt utbud av aktiviteter eller i värsta
 fall stänga helt om de inte kan kompensera för minskat ekonomiskt stöd, vilket direkt påverkar
 barnens möjlighet att delta.
 
-- Minskad mångfald och inkludering. Föreningar som arbetar aktivt för inkludering kan behöva
+\- Minskad mångfald och inkludering. Föreningar som arbetar aktivt för inkludering kan behöva
 dra ner på insatser för att nå barn från socioekonomiskt utsatta grupper, vilket riskerar att
 förstärka sociala klyftor redan från tidig ålder.
 
-- Omfördelningen av medel innebär en ekonomisk förbättring för föreningar med högt beroende
+\- Omfördelningen av medel innebär en ekonomisk förbättring för föreningar med högt beroende
 av LOK-stöd, då LOK-stödet höjs. Detta stärker föreningarnas möjlighet att fortsatt erbjuda
 
 aktiviteter, vilket gynnar barnen genom ökad tillgänglighet och stabilitet i utbudet av
 fritidsaktiviteter.
 
-- Den antagliga ökade administrationen som åläggs föreningarna kan leda till negativa
+\- Den antagliga ökade administrationen som åläggs föreningarna kan leda till negativa
 konsekvenser för verksamhetens kvalitet och fokus. När föreningar tvingas ägna mer tid åt
 administrativa uppgifter kan det resultera i mindre tid och resurser för aktiviteter med barnen. I
 värsta fall kan detta leda till att vissa aktiviteter måste läggas ner, vilket direkt påverkar barnens
@@ -3119,18 +3119,18 @@ möjligheter till deltagande och gemenskap.
 
 LÅNG SIKT
 
-- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
+\- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
 resurserna direkt stöder aktiviteter för barn, kan medföra positiva effekter. Genom att
 öronmärka medel för barn- och ungdomsaktiviteter säkerställs att kommunens stöd direkt
 
 bidrar till barnens möjlighet att delta i föreningslivet och främjar ett rikt utbud av aktiviteter som
 stärker deras hälsa, sociala färdigheter och inkludering.
 
-- Den gamla stödmodellen gynnade vissa föreningar oproportionerligt, vilket i tur påverkar
+\- Den gamla stödmodellen gynnade vissa föreningar oproportionerligt, vilket i tur påverkar
 föreningsaktiva barns möjlighet till rättvist stöd. Den nya modellen ger ökade möjligheter till att
 skapa en mer jämlik resursfördelning så att fler barn får lika möjligheter att delta i föreningslivet.
 
-- Ökade ekonomiska konsekvenser för kommunen. Minskad föreningsaktivitet riskerar att leda
+\- Ökade ekonomiska konsekvenser för kommunen. Minskad föreningsaktivitet riskerar att leda
 till högre kostnader för kommunen i framtiden, särskilt genom ökat behov av socialt stöd och
 hälsovård om barnens tillgång till idrottsliv minskar.
 
@@ -3141,14 +3141,14 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 72 -->
 
-- Försämrad fysisk hälsa och folkhälsa. Om tillgången till idrottsaktiviteter minskar, riskerar
+\- Försämrad fysisk hälsa och folkhälsa. Om tillgången till idrottsaktiviteter minskar, riskerar
 barns fysiska hälsa att påverkas negativt, vilket på längre sikt kan leda till en generell försämring
 av folkhälsan i Kungsbacka. Vidare risk för långsiktigt utanförskap. Utebliven social interaktion
 
 och aktiviteter genom föreningslivet kan leda till känslor av utanförskap, sämre självkänsla och
 en övergripande negativ påverkan på barns psykiska hälsa.
 
-- Minskat lokalt engagemang och samhörighet. Ett aktivt föreningsliv bidrar till känslan av
+\- Minskat lokalt engagemang och samhörighet. Ett aktivt föreningsliv bidrar till känslan av
 gemenskap och engagemang i samhället. Om detta engagemang minskar, kan det påverka både
 barnens och familjernas känsla av samhörighet och tillhörighet till sin närmiljö.
 
@@ -3157,14 +3157,14 @@ på lång och kort sikt, utifrån beslutet i fråga.
 
 KORT SIKT
 
-- Under omställningsperioden behöver vissa föreningar, extra stöd för att hantera förändringen
+\- Under omställningsperioden behöver vissa föreningar, extra stöd för att hantera förändringen
 över tid. För att säkerställa att utbudet av föreningar för barn och unga inte minskar är det
 viktigt att införa lösningar som hjälper dessa föreningar att anpassa sig. Genom tillfälliga
 
 stödinsatser eller gradvisa förändringar kan vi skapa en stabil grund som underlättar
 övergången och bevarar barnens tillgång till ett brett utbud av föreningsaktiviteter.
 
-- Fortsätt med satsningar på att utveckla hållbara lösningar för föreningsaktiva att delta i
+\- Fortsätt med satsningar på att utveckla hållbara lösningar för föreningsaktiva att delta i
 samhällsnyttiga aktiviteter som samtidigt kan bidra till att täcka deras föreningskostnader.
 Genom ett initiativ där föreningslivet skapar strukturer för att engagera unga i samhällsinsatser
 
@@ -3173,7 +3173,7 @@ föreningsdeltagande delvis subventioneras. Detta både stärker deras engageman
 och gör föreningsdeltagande mer tillgängligt för alla familjer, oavsett ekonomiska
 förutsättningar.
 
-- För att minska konsekvenserna av den ökade administrationen på föreningar kan kommunen
+\- För att minska konsekvenserna av den ökade administrationen på föreningar kan kommunen
 tillhandahålla digitala verktyg för ansökningar, rapportering och kommunikation kan föreningar
 
 avlasta sina administrativa åtaganden och fokusera mer på aktiviteter med barnen. Dessutom
@@ -3183,7 +3183,7 @@ verksamheten.
 
 LÅNG SIKT
 
-- Införandet av en objektiv granskning av föreningsmedel skulle säkerställa att resurserna
+\- Införandet av en objektiv granskning av föreningsmedel skulle säkerställa att resurserna
 används som avsett, med fokus på barn- och ungdomsverksamhet. Genom en systematisk
 uppföljning kan kommunen garantera att stödet går direkt till aktiviteter som gynnar barn och
 unga, istället för andra ändamål inom föreningen. Detta bidrar till en mer transparent och
@@ -3197,16 +3197,16 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 73 -->
 
-- Analysera skillnader mellan stadsdelar. Genomföra en grundläggande undersökning för att
+\- Analysera skillnader mellan stadsdelar. Genomföra en grundläggande undersökning för att
 förstå skillnaderna i aktiviteten bland barn och unga inom idrotten mellan olika stadsdelar.
 Undersök möjligheter till att upprätta/stödja föreningslivet i delar av Kungsbacka kommun med
 
 minskad utbud eller längre resväg till anläggningar eller förenings ytor
 
-- För att främja tillgänglighet och underlätta deltagande i föreningsverksamhet är det viktigt att
+\- För att främja tillgänglighet och underlätta deltagande i föreningsverksamhet är det viktigt att
 säkerställa att barn har trygga och enkla förbindelser till anläggningar och föreningsytor.
 
-- För att säkerställa en rättvis och jämlik omfördelning av föreningsstöd mellan olika föreningar i
+\- För att säkerställa en rättvis och jämlik omfördelning av föreningsstöd mellan olika föreningar i
 Kungsbacka kommun, är det avgörande att förslagen tar hänsyn till ett jämställdhetsperspektiv.
 Detta innebär att fördelningen av lokaler, tider och stöd bör ske på ett sätt som inte missgynnar
 
@@ -3214,7 +3214,7 @@ varken tjejer eller killar. Det är viktigt att analysera och utvärdera hur res
 påverka tillgången till aktiviteter för båda könen, samt att skapa strukturer som främjar
 deltagande från alla barn.
 
-- Tydlig beskrivning av inkludering. Föreningen ska ge en klar och detaljerad beskrivning av vad
+\- Tydlig beskrivning av inkludering. Föreningen ska ge en klar och detaljerad beskrivning av vad
 inkludering av olika målgrupper innebär i praktiken. Definition av målgrupper som ska
 
 inkluderas (t.ex. barn och unga från olika socioekonomiska bakgrunder, olika kulturella grupper,
@@ -3327,10 +3327,10 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Denna taxa är beslutad med stöd av kommunallagen (2017:900), 2 kap. 5-6 §§.
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller för avgifter för verksamhet som drivs av Kungsbacka Kulturskola.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgifter tas ut enligt de grunder som framgår av kommunallagen (2017:900), 2 kap.
 
 6 § – självkostnadsprincipen. Enligt kommunallagens självkostnadsprincip finns
@@ -3340,11 +3340,11 @@ tjänst. Den avgift kommunen tar ut för att delta i kulturskolans verksamhet ä
 möjlighet till eget kulturskapande och genom att deltaga i kulturskolans verksamhet
 kunna utvecklas inom musik, dans, konst, film och teater.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Kommunal kultur- och musikskoleverksamhet är undantaget från skatteplikt och
 mervärdesskatt utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Fakturering
 Terminsavgiften faktureras i oktober och februari, en avgift per kurs. Om eleven
@@ -3385,12 +3385,12 @@ tredje barnet. Det fjärde barnet från samma hushåll går gratis. Detta gälle
 barn är folkbokförda på samma adress och samma person står som
 fakturamottagare för samtliga barn.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen enligt motsvarande utveckling av Prisindex för
 kommunal verksamhet (PKV).
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering
 ska ske eller inte, och i förekommande fall räkna om beloppen i taxan. Outnyttjad
@@ -3402,7 +3402,7 @@ Kungsbacka kommun             Kungsbacka kulturskola            3 (3)
 
 Kungsbacka        Kulturskola,       taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 a. Denna taxa gäller avgifter för verksamhet som drivs av Kungsbacka Kulturskola, inom
 nämnden för Kultur & Fritids ansvarsområde.
 
@@ -3410,7 +3410,7 @@ b. Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 kompetensen.
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 självkostnadsprincipen. Enligt kommunallagens självkostnadsprincip finns möjlighet att ta ut en
@@ -3419,7 +3419,7 @@ att delta i kulturskolans verksamhet är betydligt lägre än kommunens självko
 detta för att barn och unga ska ha möjlighet till eget kulturskapande och genom att deltaga i
 kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teater.
 
-3. Avgiftsbelopp/taxetabeller
+3\. Avgiftsbelopp/taxetabeller
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
@@ -3444,32 +3444,32 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 80 -->
 
-4. Andra undervisningsformer
+4\. Andra undervisningsformer
 
 Förvaltningschef får under året anta ny taxa för eventuellt tillkommande undervisningsformer.
 
-5. Fakturering
+5\. Fakturering
 
 Terminsavgiften faktureras i oktober och februari, en avgift per kurs. Om eleven börjar en kurs efter
 höstlovet på höstterminen eller efter påsklovet på vårterminen betalas halva terminsavgiften för denna kurs.
 
-6. Orkester och kör
+6\. Orkester och kör
 
 Elever som spelar ett orkesterinstrument kan vara med i en orkester eller ensemble utan att betala extra avgift
 för det. Sångelever kan vara med i en av kulturskolans körer utan att betala extra avgift för det.
 
-7. Syskonrabatt
+7\. Syskonrabatt
 
 Om tre barn från samma hushåll går på kulturskolan betalas halva priset för det tredje barnet. Det fjärde
 barnet från samma hushåll går gratis. Detta gäller om alla barn är folkbokförda på samma adress och samma
 person står som fakturamottagare för samtliga barn.
 
-8. Indexjustering av avgiftsbelopp
+8\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV).
 
-9. Delegering av beslut om justering efter index
+9\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
@@ -3915,10 +3915,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 10
 
@@ -3943,11 +3943,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 11
 
@@ -3980,8 +3980,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 12
@@ -4017,8 +4017,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
@@ -4026,9 +4026,9 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 
 13
 
@@ -4058,8 +4058,8 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2026
 
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 14
 
@@ -4331,7 +4331,7 @@ Nämnden fördelar ramen i följande delar: en ram för nämnden, en ram avseend
 föreningar och en ram för kapitalkostnader.
 Ramen som fördelas till bidrag räknas inte upp inför 2026 då ett förändringsarbete avseende stöd till föreningar
 pågår för att möta nämndens målbild 2030. Även ramen för bidrag till studieförbund bibehålls på samma nivå
-2025.
+2025\.
 
 I förvaltningsbudgeten fördelas en budgetram ut till respektive verksamhet och vidare till respektive
 budgetansvarig.
@@ -4352,7 +4352,7 @@ Investeringar (belopp i tkr)
 | Bidrag till föreningar | 16 233 | 16 613 | 16 613 |
 | Förvaltning | 252 724 | 256 647 | 264 557 |
 | Avskrivningar & internränta | 16 080 | 17 380 | 17 567 |
-| Tilläggsanslag* | 502 | 1 500 | 0 |
+| Tilläggsanslag\* | 502 | 1 500 | 0 |
 |  |  |  |  |
 | Summa | 289 546 | 296 319 | 302 958 |
 
@@ -4369,7 +4369,7 @@ Investeringar (belopp i tkr)
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2026
 
-*Tidigare 1% avsatt till konstnärlig gestaltning i nya lokaler. Från och med 2026, 0,5%.
+\*Tidigare 1% avsatt till konstnärlig gestaltning i nya lokaler. Från och med 2026, 0,5%.
 
 Kommentarer investeringsbudget
 Löpande investeringar avser utbyte av inventarier i idrottsanläggningar, musikinstrument, teknisk utrustning
@@ -4570,22 +4570,22 @@ med utblicksår 2032–2036, och om en långsiktig lokalstrategi som innehåller
 principer för att arbeta för målbilden ska uppfyllas:
 
 Målbild
-1. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att kunna delta i de
+1\. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att kunna delta i de
 verksamheter de önskar inom kultur och fritid, med god tillgänglighet för personer med
 
 funktionsnedsättning.
-2. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
+2\. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
 
-3. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid behov.
-4. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som idéburen sektor spelar i
+3\. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid behov.
+4\. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som idéburen sektor spelar i
 samhället.
 
-5. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i linje med
+5\. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i linje med
 förvaltningens uppdrag.
-6. Regional samverkan för att balansera behoven mellan kommuner.
+6\. Regional samverkan för att balansera behoven mellan kommuner.
 
 Principer
-1. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt analyser av
+1\. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt analyser av
 
 befolkningsprognoser och beteendemönster, inklusive nya aktiviteter, och planera tillkommande
 lokaler utifrån detta.
@@ -4604,25 +4604,25 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-2. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja nyttjande- och
+2\. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja nyttjande- och
 beläggningsgraden, dvs. nyttja lokalerna under fler timmar och av fler personer per vecka än i nuläget,
 
 när detta är möjligt och önskvärt.
-3. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika verksamheter. Detta
+3\. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika verksamheter. Detta
 gäller även vid renoveringar och ombyggnationer.
 
-4. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott. Låta organiserade
+4\. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott. Låta organiserade
 och spontana kultur- och idrottsaktiviteter samsas i gemensamma lokaler, och samlokalisera aktiviteter
 inriktade på spets med aktiviteter inriktade på bredd.
-5. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av kommersiella aktörer,
+5\. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av kommersiella aktörer,
 
 för att optimera nyttan för invånarna.
-6. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare ge stöd riktat till
+6\. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare ge stöd riktat till
 föreningars och andra samarbetsparters aktiviteter hellre än till deras lokalkostnader.
 
-7. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare själva äger sina
+7\. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare själva äger sina
 lokaler.
-8. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för kultur- och
+8\. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för kultur- och
 idrottsändamål vid marktilldelningar till privata exploatörer.
 
 Behoven för nya kultur- och fritidslokaler kommer under planperioden att vara större i kommunens
@@ -4634,10 +4634,10 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2025-10-01
 Lokalbehov 2027–2031, med utblicksår 2032–2036 Kultur & Fritid, 2025-10-01
 Bilagor:
 
-1. Kulturskolelokaler i Åsa
-2. Servicelokal i Skårby aktivitetsområde
+1\. Kulturskolelokaler i Åsa
+2\. Servicelokal i Skårby aktivitetsområde
 
-3. Strategi för lokaler, Kultur & Fritid
+3\. Strategi för lokaler, Kultur & Fritid
 
 Beslutet skickas till
 Service
@@ -4798,39 +4798,39 @@ Nämnden för Kultur & Fritid har beslutat om en långsiktig lokalstrategi som i
 målbild, och dessa principer för att arbeta för målbilden ska uppfyllas:
 Målbild
 
-1. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att kunna delta i
+1\. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att kunna delta i
 de verksamheter de önskar inom kultur och fritid, med god tillgänglighet för personer med
 funktionsnedsättning.
-2. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
-3. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid behov.
-4. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som idéburen sektor
+2\. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
+3\. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid behov.
+4\. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som idéburen sektor
 spelar i samhället.
-5. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i linje med
+5\. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i linje med
 förvaltningens uppdrag.
-6. Regional samverkan för att balansera behoven mellan kommuner.
+6\. Regional samverkan för att balansera behoven mellan kommuner.
 
 Principer
-1. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt analyser
+1\. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt analyser
 av befolkningsprognoser och beteendemönster, inklusive nya aktiviteter, och planera
 
 tillkommande lokaler utifrån detta.
-2. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja nyttjande- och
+2\. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja nyttjande- och
 beläggningsgraden, dvs. nyttja lokalerna under fler timmar och av fler personer per vecka än
 i nuläget, när detta är möjligt och önskvärt.
-3. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika verksamheter.
+3\. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika verksamheter.
 Detta gäller även vid renoveringar och ombyggnationer.
-4. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott. Låta
+4\. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott. Låta
 organiserade och spontana kultur- och idrottsaktiviteter samsas i gemensamma lokaler, och
 samlokalisera aktiviteter inriktade på spets med aktiviteter inriktade på bredd.
-5. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av kommersiella
+5\. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av kommersiella
 aktörer, för att optimera nyttan för invånarna.
-6. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare ge stöd
+6\. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare ge stöd
 riktat till föreningars och andra samarbetsparters aktiviteter hellre än till deras
 lokalkostnader.
-7. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare själva äger
+7\. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare själva äger
 sina lokaler.
 
-8. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för kultur- och
+8\. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för kultur- och
 idrottsändamål vid marktilldelningar till privata exploatörer.
 Behoven för nya kultur- och fritidslokaler kommer under planperioden att vara större i kommunens
 utvecklingsorter Kungsbacka Stad, Åsa Frillesås och Älvsåker än i övriga delar av kommunen.
@@ -4902,16 +4902,16 @@ KUNGSBACKA  KOMMUN
 2 (3)
 
 Innehållsförteckning
-1.  Mål och syfte ................................................................................................ 2
+1\.  Mål och syfte ................................................................................................ 2
 
-2.  Avgränsningar .............................................................................................. 2
-3.  Definitioner .................................................................................................. 2
+2\.  Avgränsningar .............................................................................................. 2
+3\.  Definitioner .................................................................................................. 2
 
-4.  Målbild ......................................................................................................... 3
+4\.  Målbild ......................................................................................................... 3
 
-5.  Principer ....................................................................................................... 3
+5\.  Principer ....................................................................................................... 3
 
-1. Mål och syfte
+1\. Mål och syfte
 Denna strategi syftar till att skapa långsiktiga förutsättningar för Kultur & Fritids
 planering av lokaler – dels för sin egen verksamhet, dels för verksamhet som drivs
 av föreningar och andra aktörer som Kultur & Fritid samarbetar med och ger stöd
@@ -4932,7 +4932,7 @@ och intresse.
 
 Strategin kompletterar övriga styrdokument som exempelvis översiktsplanen och
 de fördjupade översiktsplanerna.
-2. Avgränsningar
+2\. Avgränsningar
 
 I denna strategi redovisas avväganden och prioriteringar på en övergripande nivå.
 Kvantifierade beskrivningar av behov för nya lokaler och anläggningar kommer inte
@@ -4944,7 +4944,7 @@ denna strategi bör vara utgångspunkten även här.
 
 Strategin omfattar genomgående förutsättningar för såväl kultur som idrott.
 
-3. Definitioner
+3\. Definitioner
 Med begreppet lokaler avses genomgående även anläggningar. Här avses större
 anläggningar som fotbollsplaner och utescener, inte mindre anläggningar som
 utomhustoaletter och motionsspår.
@@ -4961,7 +4961,7 @@ idrottsverksamheter samt övriga besöksverksamheter.
 Nyttjande avser mängden tid som lokaler och anläggningar används.
 Beläggning avser antalet personer som använder lokalerna och anläggningarna.
 
-4. Målbild
+4\. Målbild
 •  Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att
 
 kunna delta i de verksamheter de önskar inom kultur och fritid, med god
@@ -4976,30 +4976,30 @@ idéburen sektor spelar i samhället.
 som är i linje med förvaltningens uppdrag.
 •  Regional samverkan för att balansera behoven mellan kommuner.
 
-5. Principer
+5\. Principer
 
-1. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser
+1\. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser
 samt analyser av befolkningsprognoser och beteendemönster, inklusive nya
 aktiviteter, och planera tillkommande lokaler utifrån detta.
-2. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja
+2\. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja
 nyttjande- och beläggningsgraden, dvs. nyttja lokalerna under fler timmar och
 av fler personer per vecka än i nuläget, när detta är möjligt och önskvärt.
-3. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika
+3\. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika
 verksamheter. Detta gäller även vid renoveringar och ombyggnationer.
 
-4. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och
+4\. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och
 idrott. Låta organiserade och spontana kultur- och idrottsaktiviteter samsas i
 gemensamma lokaler, och samlokalisera aktiviteter inriktade på spets med
 aktiviteter inriktade på bredd.
-5. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av
+5\. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av
 kommersiella aktörer, för att optimera nyttan för invånarna.
-6. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än
+6\. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än
 tidigare ge stöd riktat till föreningars och andra samarbetsparters aktiviteter
 
 hellre än till deras lokalkostnader.
-7. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än
+7\. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än
 tidigare själva äger sina lokaler.
-8. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för
+8\. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för
 kultur- och idrottsändamål vid marktilldelningar till privata exploatörer.
 
 <!-- sida 122 -->
@@ -5079,16 +5079,16 @@ medlemmar som övrig allmänhet.
 
 De föreningar som har anmält intresse för att etablera sig i området är:
 
-1. Volleybollklubben Westan, beachvolleyboll. Driver volleybollverksamhet i Skårbyhallen idag.
+1\. Volleybollklubben Westan, beachvolleyboll. Driver volleybollverksamhet i Skårbyhallen idag.
 
-2. BMX Kungsbacka, cykel – pumptrack
-3. Kungsbacka Cykelklubb, cykelpark och mountainbike-spår
+2\. BMX Kungsbacka, cykel – pumptrack
+3\. Kungsbacka Cykelklubb, cykelpark och mountainbike-spår
 
-4. IF Rigor, cykel – mountainbike
-5. HK Aranäs, handboll
+4\. IF Rigor, cykel – mountainbike
+5\. HK Aranäs, handboll
 
-6. Onsala Pirates, streetbasket
-7. KIF, Tölö IF m.fl., fotboll
+6\. Onsala Pirates, streetbasket
+7\. KIF, Tölö IF m.fl., fotboll
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
 Att utveckla ett aktivitetsområde för idrott och kultur i området Hede/Voxlöv/Skårby är i linje med
@@ -5231,23 +5231,23 @@ Totalt ytbehov ca 32 000 kvm inkl. fotbollsplaner, 11 000 kvm om fotboll inte ta
 
 Grundläggande funktioner
 
-1. Omklädningsrum
+1\. Omklädningsrum
 o Separata rum för herrar och damer. (Och eventuellt även könsneutrala alternativ.)
 o Mindre omklädningsrum för domare och tränare.
 
 o Möjlighet till bokningsbara omklädningsrum för lag (dvs stora) vid matcher.
 o Rymlig entré/korridor med plats för klädförvaring och tvättställ
-2. Dusch- och toalettutrymmen
+2\. Dusch- och toalettutrymmen
 o Tillräckligt många duschar för att hantera flera lag samtidigt.
 o Tillgänglighetsanpassade duschar och toaletter.
 o Separata toaletter som kan användas även när omklädningsrummen är stängda.
-3. Förråd och teknikrum
+3\. Förråd och teknikrum
 
 o Förvaring av utrustning, dels för föreningars behov, dels för allmänheten för utlån.
 o Städutrustning och teknikutrymmen för ventilation, värme etc.
-4. Samlingsyta/möteslokal med pentry
+4\. Samlingsyta/möteslokal med pentry
 o För träffar, återhämtning, fika och gemenskap
-5. Övernattningar
+5\. Övernattningar
 o För aktiva, i samband med tävlingar
 
 Placering och tillgänglighet
@@ -6118,19 +6118,19 @@ antagen.
 I det här projektet kommer ett genomförandeavtal att tecknas med exploatören i samband med
 antagandet av detaljplanen. Genomförandeavtalet kommer att omfatta;
 
--  Definition av markområdet som är aktuellt för genomförande av projektet.
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Definition av markområdet som är aktuellt för genomförande av projektet.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Åtgärder inom kvartersmark för idrottsändamål ansvarar exploatören för.
 
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 
 plankostnadsavtalet.
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
 
--  Övriga frågor som behöver regleras för markområdets rationella och ändamålsenliga
+\-  Övriga frågor som behöver regleras för markområdets rationella och ändamålsenliga
 utbyggnad.
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
 samordningen mellan exploatören och kommunen regleras avseende utbyggnad av
@@ -7313,7 +7313,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 173 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -7348,12 +7348,12 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -7382,12 +7382,12 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande
 
 av delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut
 inte får genomföras i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått
 delegation undertecknas handling som beslutet avser av arbetsutskottets
 ordförande och förvaltningschefen.
@@ -7500,7 +7500,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.1.11 | GDPR artikel<br>33 och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Dsk | I samråd med enhetschef och systemförvaltare |
 | 2.1.12 | GDPR artikel<br>35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Fc |  |
 | 2.1.13 | GDPR artikel<br>37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.14 | Nämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
+| 2.1.14 | Nämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
 
 <!-- sida 178 -->
 
@@ -7724,8 +7724,8 @@ Syfte: få en tydlig bild av hur dataskyddsarbetet fungerar idag, vilka brister 
 
 Förväntat resultat:
 
--  Ett gemensamt dokumenterat bild av nuläget att utgå ifrån
--  Prioriteringsunderlag
+\-  Ett gemensamt dokumenterat bild av nuläget att utgå ifrån
+\-  Prioriteringsunderlag
 
 Internal
 
@@ -7961,7 +7961,7 @@ www.kungsbacka.se
 
 | Ärende/ärendegrupp enligt<br>delegationslistan | Beslut, insats samt ev. omfattning | Beslutsfattare | Diarie |
 | --- | --- | --- | --- |
-| 2.1.1.2 | Deltagande i aktivitet* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Maria Gathendahl | KFT 2025-<br>00198 |
+| 2.1.1.2 | Deltagande i aktivitet\* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Maria Gathendahl | KFT 2025-<br>00198 |
 | 2.3.3 LAS,<br>kollektivavtal,<br>lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsade anställningar längre<br>än 6 månader. | Sofia Rosén |  |
 | 2.3.3 LAS,<br>kollektivavtal,<br>lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsade anställningar längre<br>än 6 månader. | Sofia Rosén |  |
 | 2.3.3 LAS,<br>kollektivavtal,<br>lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsade anställningar längre<br>än 6 månader. | Marie Persson |  |
@@ -8215,10 +8215,10 @@ Att vara funktionell för både små och större arrangemang.
 
 Att kunna användas av såväl föreningar och skolor som kommunen själv.
 
-Torbjörn Andersson (SD)-Ledamot kultur & fri<d
+Torbjörn Andersson (SD)-Ledamot kultur & fri\<d
 
-Mats Dahl (SD)-Ledamot kultur & fri<d
-Stefan Jägnert (SD)-ErsäCare kultur & fri<d
+Mats Dahl (SD)-Ledamot kultur & fri\<d
+Stefan Jägnert (SD)-ErsäCare kultur & fri\<d
 
 <!-- sida 206 -->
 

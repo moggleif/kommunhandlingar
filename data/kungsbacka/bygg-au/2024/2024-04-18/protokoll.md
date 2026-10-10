@@ -244,7 +244,7 @@ samhällsbyggnadskontoret i uppdrag att upprätta detaljplan för verksamheter i
 Kungsbacka 6:26 och Hammargård 1:7 m fl.
 
 Planförslaget har varit utställt på samråd under tiden 13 september till 8 oktober
-2022. Under samrådstiden inkom 11 skrivelser. Inkomna synpunkter berör i
+2022\. Under samrådstiden inkom 11 skrivelser. Inkomna synpunkter berör i
 huvudsak påverkan på Natura 2000-område, dagvattenhantering och geoteknik. Se
 vidare i samrådsredogörelsen.
 Planområdet ligger direkt söder om Kungsbacka stad. Planförslaget innebär att
@@ -321,7 +321,7 @@ Planområdet ligger inom Paltaområdet i nordvästra delen av Vallda strax söde
 Sandövägen. Enligt kommunens översiktsplan, ÖP06, ingår det aktuella området i
 utvecklingsområdet för Vallda.
 Fastigheterna omfattades av arbetet med detaljplan V52 fram tills att den antogs
-1972. Då undantogs detta område och det blev inte någon detaljplan för aktuella
+1972\. Då undantogs detta område och det blev inte någon detaljplan för aktuella
 fastigheter. Fastigheterna omfattas idag inte av någon detaljplan.
 
 Uppdraget innebär att pröva möjligheten att ta fram en ny detaljplan för bostäder
@@ -1634,19 +1634,19 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
 
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 a) överensstämmer med detaljplanen, eller
 
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
 bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
 
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 första stycket, 13, 17 och 18 §§.
 Om åtgärden är en sådan ändring av en byggnad som avses i 2 § första stycket 3 b
@@ -1763,15 +1763,15 @@ byggnationsområdet för den första etappen
 
 Enligt plan- och bygglagen 9 kap 35 § (PBL, SFS 2010:900) 35 § ska marklov ges
 för en åtgärd som
-1. inte strider mot en detaljplan eller områdesbestämmelser,
+1\. inte strider mot en detaljplan eller områdesbestämmelser,
 
-2. inte förhindrar eller försvårar det berörda områdets användning för bebyggelse,
-3. inte medför olägenheter för användningen av sådana anläggningar som anges i
+2\. inte förhindrar eller försvårar det berörda områdets användning för bebyggelse,
+3\. inte medför olägenheter för användningen av sådana anläggningar som anges i
 13 § 1,
 
-4. inte medför störningar eller betydande olägenheter för omgivningen, och
+4\. inte medför störningar eller betydande olägenheter för omgivningen, och
 
-5. uppfyller de krav som
+5\. uppfyller de krav som
 a) följer av 2 kap. 6 § tredje stycket och 8 kap. 9-12 §§, om lovet avser en åtgärd
 inom ett område med detaljplan, eller
 

@@ -121,7 +121,7 @@ Budget 2025
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner delårsrapport per augusti
-2025. Nämnden för Gymnasium & Arbetsmarknad godkänner direktjustering av
+2025\. Nämnden för Gymnasium & Arbetsmarknad godkänner direktjustering av
 paragrafen.
 
 Sammanfattning av ärendet

@@ -487,11 +487,11 @@ tillgodoses på den lokala bostadsmarknaden.
 
 I handlingsplanen anges tre målområden för Varbergs kommuns arbete med
 bostadsförsörjning:
-1. Varberg växer i takt
+1\. Varberg växer i takt
 
-2. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas
+2\. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas
 behov
-3. Dialog, samverkan och kunskapsunderlag ska stärkas.
+3\. Dialog, samverkan och kunskapsunderlag ska stärkas.
 
 Handlingsplanen innehåller även en genomförandelista med planerade insatser.
 Insatserna avser bland annat strategisk planering, planberedskap, aktiv markpolitik,

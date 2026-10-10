@@ -265,7 +265,7 @@ Kommunrevisionen noterar informationen.
 Sammanfattning
 Birgitta Litsegård föredrar ärendet.
 
-13.
+13\.
 
 Avslutande reflektion, nästa möte och avslut
 Ordförande Birgitta Litsegård tackar mötesdeltagarna och förklarar mötet avslutat.

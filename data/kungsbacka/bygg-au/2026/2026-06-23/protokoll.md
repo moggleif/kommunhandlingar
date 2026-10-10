@@ -321,9 +321,9 @@ beskrivning av stadens byggnadskaraktär”, antagen av byggnadsnämnden 2011-06
 Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande. Förslagsställarna lyfter följande punkter:
 
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Byggnadsnämnden biföll initiativet. Förvaltningen har gjort en bedömning gällande
@@ -468,12 +468,12 @@ Beslut
 Byggnadsnämndens arbetsutskott återremitterar ärendet till
 samhällsbyggnadskontoret för omarbetning av förslaget i följande avseenden:
 
--  att andelen småhus ökas, förslagsvis i den nedre delen av området i
+\-  att andelen småhus ökas, förslagsvis i den nedre delen av området i
 anslutning till befintligt villaområde,
--  att nockhöjder ses över och sänks samt att en större variation i
+\-  att nockhöjder ses över och sänks samt att en större variation i
 byggnadshöjder eftersträvas,
 
--  att områdets utformning utvecklas för att motverka en tydlig uppdelning av
+\-  att områdets utformning utvecklas för att motverka en tydlig uppdelning av
 bebyggelsetyper och i stället främja en mer integrerad struktur, exempelvis
 genom att blanda småhus och småskaliga flerbostadshus i området.
 
@@ -727,8 +727,8 @@ Plan- och bygglagen (PBL, 2010:900) 9 kap. 74 §
 Ett förhandsbesked som innebär att en åtgärd kan lokaliseras till en viss plats får ges
 om åtgärden
 
-1.       inte strider mot områdesbestämmelser,
-2.       inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+1\.       inte strider mot områdesbestämmelser,
+2\.       inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 914CD734BC8275D2D480457D2C67A05059F17E60DF
@@ -741,7 +741,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-3.       uppfyller de krav på lokalisering som följer av 2 kap. i de delar som
+3\.       uppfyller de krav på lokalisering som följer av 2 kap. i de delar som
 inte har prövats i områdesbestämmelser.
 4 kap. 2 §
 
@@ -749,7 +749,7 @@ Kommunen ska med en detaljplan pröva ett mark- eller vattenområdes lämplighet
 bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns utformning för
 
 (…)
-4.       ett nytt byggnadsverk som inte är ett vindkraftverk, om byggnadsverket
+4\.       ett nytt byggnadsverk som inte är ett vindkraftverk, om byggnadsverket
 omfattas av krav på bygglov, eller är en annan byggnad än en sådan som avses i 9
 kap. 4 eller 5 §, och
 
@@ -777,17 +777,17 @@ och 4 kap. 1–8 §§ miljöbalken ska tillämpas. Lag (2014:862).
 
 Planläggning enligt denna lag ska med hänsyn till natur- och kulturvärden, miljö- och
 klimataspekter samt mellankommunala och regionala förhållanden främja
-1.       en ändamålsenlig struktur och en estetiskt tilltalande utformning av
+1\.       en ändamålsenlig struktur och en estetiskt tilltalande utformning av
 bebyggelse, grönområden och kommunikationsleder,
 
-2.       en från social synpunkt god livsmiljö som är tillgänglig och användbar
+2\.       en från social synpunkt god livsmiljö som är tillgänglig och användbar
 för alla samhällsgrupper,
 
-3.       en långsiktigt god hushållning med mark, vatten, energi och råvaror
+3\.       en långsiktigt god hushållning med mark, vatten, energi och råvaror
 samt goda miljöförhållanden i övrigt,
-4.       en god ekonomisk tillväxt och en effektiv konkurrens, och
+4\.       en god ekonomisk tillväxt och en effektiv konkurrens, och
 
-5.       bostadsbyggande och utveckling av bostadsbeståndet.
+5\.       bostadsbyggande och utveckling av bostadsbeståndet.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 914CD734BC8275D2D480457D2C67A05059F17E60DF
@@ -808,15 +808,15 @@ Vid planläggning och i ärenden om bygglov eller förhandsbesked enligt denna l
 ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för ändamålet
 med hänsyn till
 
-1.       människors hälsa och säkerhet,
-2.       jord-, berg- och vattenförhållandena,
+1\.       människors hälsa och säkerhet,
+2\.       jord-, berg- och vattenförhållandena,
 
-3.       möjligheterna att ordna trafik, vattenförsörjning, avlopp,
+3\.       möjligheterna att ordna trafik, vattenförsörjning, avlopp,
 avfallshantering, elektronisk kommunikation samt samhällsservice i övrigt,
-4.       möjligheterna att förebygga vatten- och luftföroreningar samt
+4\.       möjligheterna att förebygga vatten- och luftföroreningar samt
 bullerstörningar, och
 
-5.       risken för olyckor, översvämning och erosion.
+5\.       risken för olyckor, översvämning och erosion.
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
@@ -885,7 +885,7 @@ Planförutsättningar & bebyggelsetryck
 Platsen har tidigare prövats för tre enbostadshus genom ansökan om förhandsbesked.
 Ansökan avslogs genom beslut i byggnadsnämndens arbetsutskott den 22 juni 2023 §
 
-173.
+173\.
 Inom en radie av cirka en kilometer från fastigheten har byggnadsnämnden sedan
 2016 hanterat drygt 30 ansökningar om förhandsbesked. Det tyder på ett högt lokalt
 bebyggelsetryck.
@@ -987,7 +987,7 @@ Sakägare eller innehavare av särskild rätt har inte getts tillfälle att yttr
 uppenbart att lov inte kan ges för den åtgärd som ansökan om förhandsbesked gäller.
 
 Sökande har tagit del av förvaltningens utredning och beslutsmotivering den 8 juni
-2026.
+2026\.
 
 Remisser
 Inga remisser har skickats.
@@ -1185,7 +1185,7 @@ Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
 
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 914CD734BC8275D2D480457D2C67A05059F17E60DF
 Transaktionsidentitet: 6A3FC6898A5B9A6FB4252BDBB7262081B11E470505
@@ -1197,8 +1197,8 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -1224,16 +1224,16 @@ marken från allmän synpunkt är lämplig för ändamålet.
 Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
+1\. människors hälsa och säkerhet,
 
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
 
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
 
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
 energihushållningen. Lag (2018:636).
@@ -1882,16 +1882,16 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-1.       en ändamålsenlig struktur och en estetiskt tilltalande utformning av
+1\.       en ändamålsenlig struktur och en estetiskt tilltalande utformning av
 bebyggelse, grönområden och kommunikationsleder,
-2.       en från social synpunkt god livsmiljö som är tillgänglig och användbar
+2\.       en från social synpunkt god livsmiljö som är tillgänglig och användbar
 för alla samhällsgrupper,
 
-3.       en långsiktigt god hushållning med mark, vatten, energi och råvaror
+3\.       en långsiktigt god hushållning med mark, vatten, energi och råvaror
 samt goda miljöförhållanden i övrigt,
 
-4.       en god ekonomisk tillväxt och en effektiv konkurrens, och
-5.       bostadsbyggande och utveckling av bostadsbeståndet.
+4\.       en god ekonomisk tillväxt och en effektiv konkurrens, och
+5\.       bostadsbyggande och utveckling av bostadsbeståndet.
 
 Även i andra ärenden enligt denna lag ska hänsyn tas till de intressen som anges i
 första stycket 1–5.
@@ -2394,9 +2394,9 @@ Lagstiftning
 
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 914CD734BC8275D2D480457D2C67A05059F17E60DF
@@ -2409,7 +2409,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
 planläggning, ska hänsyn tas till de omständigheter som talar för eller emot en
@@ -2435,15 +2435,15 @@ Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
 
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
 
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
@@ -2453,7 +2453,7 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 
 marken på ett sätt som är lämpligt med hänsyn till
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
 
 Det här dokumentet är digitalt signerat
@@ -2467,20 +2467,20 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-06-23
 
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 stridshandlingar,
 
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
 
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
 
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 använda området, och
-8. behovet av framtida förändringar och kompletteringar.
+8\. behovet av framtida förändringar och kompletteringar.
 
 Enligt 8 kap. 9 § PBL ska en obebyggd tomt som ska bebyggas ska ordnas på ett sätt
 som är lämpligt med hänsyn till stads- eller landskapsbilden och till natur- och
@@ -3013,11 +3013,11 @@ Lagstiftning
 
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
 planläggning, ska hänsyn tas till de omständigheter som talar för eller emot en
@@ -3054,17 +3054,17 @@ Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
+1\. människors hälsa och säkerhet,
 
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk
 
 kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
 
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett
@@ -3297,9 +3297,9 @@ Lagstiftning
 
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -3336,13 +3336,13 @@ Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
@@ -3352,20 +3352,20 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 marken på ett sätt som är lämpligt med hänsyn till
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 stridshandlingar,
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 
 använda området, och
-8. behovet av framtida förändringar och kompletteringar.
+8\. behovet av framtida förändringar och kompletteringar.
 
 Beslutet kan överklagas
 
@@ -4208,7 +4208,7 @@ Beslutsmotivering
 
 Enligt 9 kap 56 § plan- och bygglagen (2010:900) PBL ska bygglov ges för en åtgärd
 inom ett område med detaljplan, om
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 
 a) överensstämmer med detaljplanen, eller
 b) avviker från detaljplanen men detaljplanens genomförandetid har gått ut för minst
@@ -4218,11 +4218,11 @@ c) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
 bygglovsprövning eller fastighetsbildning enligt 3 kap. 2 § fastighetsbildningslagen
 (1970:988),
 
-2. åtgärden inte strider mot detaljplanen,
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+2\. åtgärden inte strider mot detaljplanen,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
 
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5 och
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5 och
 tredje stycket, 8 och 9 §§ och 8 kap. 1 §, 2 § första stycket, 3, 6, 7 och 9–11 §§, 12 §
 första stycket och 13, 17 och 18 §§ och frågan inte redan är avgjord genom
 detaljplanen.
@@ -4507,7 +4507,7 @@ Kungsbacka kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på
 att tydligt ange att handlingen innehåller skyddade personuppgifter.
 
 Sammanfattning av ärendet
-Bygglov beviljades 2019-04-29, tjm $ 1566 för nybyggnad av ett enbostadshus med
+Bygglov beviljades 2019-04-29, tjm \$ 1566 för nybyggnad av ett enbostadshus med
 en byggnadsarea om 197,2 m², varav 14,1 m² öppenarea under balkong. Byggnadens
 
 Det här dokumentet är digitalt signerat

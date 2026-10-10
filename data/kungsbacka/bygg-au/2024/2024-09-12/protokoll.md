@@ -88,16 +88,16 @@ Peter Sebestyén, enhetschef
 Ida Lennartsson, verksamhetschef,
 kommunstyrelsens förvaltning
 Camilla Cangren,
-bygglovshandläggare $$ 256-259
+bygglovshandläggare \$\$ 256-259
 Catrin Johansson,
-bygglovshandläggare $$ 256-259
+bygglovshandläggare \$\$ 256-259
 Hanna Vilhelmsson,
-bygglovshandläggare $$ 256-261
-Christina Nordberg, controller $ 273
-Annika Nally, HR-specialist $ 273
+bygglovshandläggare \$\$ 256-261
+Christina Nordberg, controller \$ 273
+Annika Nally, HR-specialist \$ 273
 Amanda Toresson, nämndsekreterare
 
-$$ 256-273
+\$\$ 256-273
 
 Paragrafer
 
@@ -484,10 +484,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -838,7 +838,7 @@ Fastigheten Blixered 2:9 ligger som sista bebyggda fastighet längs en mindre
 grusväg, Dalbackavägen. Bebyggelseområdet ligger på en sluttning mot söder, i
 anslutning till jordbruksmark och nära Sandsjöbacka naturreservat och har sitt
 ursprung i tidig byggnation, vilket kan ses på häradsekonomiska kartan från 1919–
-1925. Där är platsen i ansökan bebyggd med stugan som nu är komplementbyggnad
+1925\. Där är platsen i ansökan bebyggd med stugan som nu är komplementbyggnad
 med en mindre trädgård och en bit ifrån, där bostadshuset på fastigheten Blixered 2:9
 står, en odlad yta. En naturlig användning av markområdet med tanke på att övriga
 
@@ -1995,10 +1995,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 2 kap. 2 § PBL ska mark- och vattenområden användas för det eller de
@@ -2971,7 +2971,7 @@ SKOGA 1:14 - Strandskyddsdispens för att ta ner träd samt lägga ner
 vattenledning i jorden
 
 Ärendet utgår vid byggnadsnämndens arbetsutskotts sammanträde den 12 september
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F875A161A3A7E88514388F6917EC1B54B86481BAFA

@@ -488,7 +488,7 @@ retroaktiva krav, det vill säga krav som omfattar befintliga byggnader även om
 åtgärder inte vidtas. De retroaktiva kraven innebär att uppvärmda byggnader som inte är
 bostadshus och som har fler än 20 parkeringsplatser i byggnaden eller på tomten ska ha
 minst en laddningspunkt för elfordon. Dessa krav ska vara uppfyllda senast den 1 januari
-2025.
+2025\.
 
 Syfte
 Syftet med byggnadsnämndens tillsynsarbete är att ha en välfungerande laddinfrastruktur i
@@ -703,12 +703,12 @@ prioriteringsordning för handläggningen av nya och äldre tillsynsärenden. OV
 Hiss-, EAH, IMD- och ladd infrastrukturärenden ingår inte i denna.
 
 Prioriteringsordning 2026:
-1. Handlägga ärenden där det finns risker för människors liv, hälsa och
+1\. Handlägga ärenden där det finns risker för människors liv, hälsa och
 säkerhet (olovliga boenden, ovårdade tomter, ovårdade byggnader och
 övriga åtgärder som bedöms utgöra risk för människors hälsa och säkerhet).
 
-2. Ärenden som utgör ett enkelt avhjälpta hinder.
-3. Övriga ärenden i tidsföljd.
+2\. Ärenden som utgör ett enkelt avhjälpta hinder.
+3\. Övriga ärenden i tidsföljd.
 
 Behovsutredning – Obligatorisk ventilationskontroll (OVK)
 
@@ -1007,7 +1007,7 @@ tappvarmvatten).
 
 Riksdagen och regeringen har beslutat om en ny lag och en ny förordning om
 energimätning i byggnader. Den nya lagen och förordningen trädde i kraft den 1 juni
-2022.
+2022\.
 I korthet ska IMD installeras i följande situationer.
 
 •  IMD värme i de flerbostadshus som har sämst energiprestanda. Den som

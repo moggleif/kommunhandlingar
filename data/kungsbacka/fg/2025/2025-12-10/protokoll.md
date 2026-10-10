@@ -892,7 +892,7 @@ fram förslag till uppdaterat avtal.
 
 Ärendet har behandlats i antagningsnämnden den 22 maj 2025. En kopia på beslut i
 nämnd/styrelse eller av den utsedd person, ska vara GR tillhanda senast 18 december
-2025. Nytt samverkansavtal börjar gälla den 1 januari 2026.
+2025\. Nytt samverkansavtal börjar gälla den 1 januari 2026.
 
 Beslutsunderlag
 

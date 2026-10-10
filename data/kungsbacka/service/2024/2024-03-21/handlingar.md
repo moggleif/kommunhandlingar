@@ -100,21 +100,21 @@ Inköpsrapport
 
 Innehåll
 
-1. Inköpsrapport 2023 .............................................................................................................. 3
+1\. Inköpsrapport 2023 .............................................................................................................. 3
 1.1 Inledning ......................................................................................................................... 3
 Vi tänker hållbart ............................................................................................................. 3
 
 Bäst i Sverige igen, pris ”Högst andel touchless” ............................................................. 3
 Fokus Upphandling ........................................................................................................... 5
 
-2. Strategiskt inköp ................................................................................................................... 5
+2\. Strategiskt inköp ................................................................................................................... 5
 2.1 Kommunikation och dialoger under året ....................................................................... 5
 Kommunikation handlar både om att nå ut och nå in ..................................................... 5
 
 Partnerdialoger och Förvaltningarnas Kontaktperson för Inköp (FKI) ............................. 5
 Digitalisering ..................................................................................................................... 6
 
-3. Taktiskt inköp ....................................................................................................................... 6
+3\. Taktiskt inköp ....................................................................................................................... 6
 3.1 Upphandling ................................................................................................................... 6
 Leverantörsdialog ............................................................................................................. 6
 
@@ -127,7 +127,7 @@ Säkerhetsklassade upphandlingar ...............................................
 Svenskt Näringslivs ranking .............................................................................................. 9
 
 NUI .................................................................................................................................... 9
-4. Operativt inköp ................................................................................................................... 10
+4\. Operativt inköp ................................................................................................................... 10
 
 4.1 Införa ............................................................................................................................ 10
 Proceedo ........................................................................................................................ 10
@@ -152,7 +152,7 @@ Fakturor .......................................................................
 
 <!-- sida 5 -->
 
-1. Inköpsrapport         2023
+1\. Inköpsrapport         2023
 
 1.1 Inledning
 I rapporten presenterar vi händelser av betydelse och intressanta
@@ -268,7 +268,7 @@ hanteras av Inköp går efter tilldelning och avtalstecknande över till Ciceron
 Under 2023 har vi haft fem överprövningar. Vi har vunnit alla i förvaltningsrätten, vilket är ett viktigt
 kvitto på att vi kvalitetssäkrar vårt jobb och att vi har bra kompetens i vår verksamhet.
 
-2. Strategiskt     inköp
+2\. Strategiskt     inköp
 
 2.1 Kommunikation och dialoger under året
 
@@ -321,7 +321,7 @@ till exempel ordermatchningar, leveransaviseringen för att kvalitetssäkra proc
 avtalsgrupperna som resulterar i effektivare beställningsflöde som borde ge resultat i mindre
 resursanvändning.
 
-3. Taktiskt     inköp
+3\. Taktiskt     inköp
 
 Taktiskt inköp
 
@@ -500,7 +500,7 @@ delaktiga i. Även om vi inte skulle bli tilldelade avtal så
 kommer vi att använda oss av underlaget internt i
 utvecklingssyfte.”
 
-4. Operativt      inköp
+4\. Operativt      inköp
 
 Operativt
 
@@ -936,32 +936,32 @@ VERKSAMHET
 Nämnden för Service ska till kommunens förvaltningar inom Kungsbacka kommun tillhandahålla
 och utveckla efterfrågade tjänster inom följande områden:
 
-- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
+\- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
 
-- Fastighetsförvaltning och -underhåll
+\- Fastighetsförvaltning och -underhåll
 
-- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
+\- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
 
-- Lokalvård
+\- Lokalvård
 
-- Löneadministration
-- Stöd för personalrekrytering
+\- Löneadministration
+\- Stöd för personalrekrytering
 
-- Extern kundtjänst
+\- Extern kundtjänst
 
-- Inköp (upphandling och e-handel)
-- Gemensam fordonshantering
+\- Inköp (upphandling och e-handel)
+\- Gemensam fordonshantering
 
-- IT, drift och support samt telesupport
+\- IT, drift och support samt telesupport
 
 Nämnden ansvarar också för kommunens uppgifter vad avser:
 
-- Ekonomisk rådgivning enligt socialtjänstlagen
-- Konsumentrådgivning
+\- Ekonomisk rådgivning enligt socialtjänstlagen
+\- Konsumentrådgivning
 
-- Energi- och klimatrådgivning
+\- Energi- och klimatrådgivning
 
-- Bostadsförmedling
+\- Bostadsförmedling
 
 <!-- sida 24 -->
 
@@ -1087,21 +1087,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -1124,10 +1124,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -1355,9 +1355,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -1447,9 +1447,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -1604,9 +1604,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -1660,7 +1660,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)
 
@@ -1961,20 +1961,20 @@ dessa fall markerat med X. Delegeringsförteckningen ses över årligen och revi
 Beslut om delegeringsförteckning innefattar förändringar om:
 
 •  Kap 1.9 Förkortningar och laghänvisningar
-- RC, Restaurangchef stryks (befattningen har upphört)
+\- RC, Restaurangchef stryks (befattningen har upphört)
 
 •  Kap 2.2 Ekonomi och Inköp
-- 2.2.12
+\- 2.2.12
 Ny kommentar (anmäls till nämnden en gång per år)
 
-- 2.2.14 och 2.2.15
+\- 2.2.14 och 2.2.15
 Delegeringen upphör (verkställighet)
-- 2.2.16
+\- 2.2.16
 
 Kommentaren tas bort
 •  Kap 2.3 Personal
 
-- 2.3.6
+\- 2.3.6
 Kommentaren ändras från ” I samråd med HR-chef” till ” I samråd med HR på
 förvaltningen och kommunens HR-chef”
 1 (2)
@@ -2105,13 +2105,13 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -2145,12 +2145,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
 
@@ -2159,10 +2159,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -2405,13 +2405,13 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -2441,12 +2441,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
 
@@ -2454,10 +2454,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.

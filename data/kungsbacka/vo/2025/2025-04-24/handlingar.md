@@ -446,7 +446,7 @@ sina mål bör specifika indikatorer och metoder för uppföljning fastställas.
 Samverkansavtal        för  gemensam       nämnd     för
 hemsjukvård       och   hjälpmedel
 
-1.  Bakgrund
+1\.  Bakgrund
 1.1. Parterna till Avtalet ska försörja invånare i Halland med personligt förskrivna
 hjälpmedel. Hjälpmedlen ska tillhandahållas på lika villkor, vara av god kvalitet
 samt hålla utlovad funktion och teknisk prestanda. Den nämnd inom Region
@@ -490,21 +490,21 @@ beredning.
 
 <!-- sida 12 -->
 
-2.  Samverkansavtalets parter
+2\.  Samverkansavtalets parter
 2.1. Samverkansavtalet (”Avtalet”) omfattar Region Halland, Kungsbacka kommun,
 Varbergs kommun, Falkenbergs kommun, Halmstads kommun, Laholms
 kommun och Hylte kommun som gemensamt benämns (”Parterna”) och ensamt
 
 (”Part”).
 
-3.  Inrättande
+3\.  Inrättande
 3.1. Den gemensamma nämnden Gemensam nämnd för hemsjukvård och
 hjälpmedel (”GNHH”) har tidigare inrättats genom samverkansavtal (Avtal om
 samverkan i gemensam hjälpmedelsnämnd). Detta avtal ersätter tidigare
 gällande samverkansavtal. I Avtalet kallas GNHH fortsatt ”den gemensamma
 nämnden” och ”nämnden”.
 
-4.  Organisatoriska frågor
+4\.  Organisatoriska frågor
 
 4.1. Den gemensamma nämnden ingår i Region Hallands organisation och Region
 Halland ansvarar för nämnden eftersom den ingår i Region Hallands egna
@@ -516,19 +516,19 @@ för nämnden, till exempel sekretariatsfunktioner.
 4.3. Övriga Parter har möjlighet men ingen skyldighet att ställa dess tjänstepersoner
 till den gemensamma nämndens förfogande.
 
-5.  Regional utförares ansvar för beredning och verkställighet
+5\.  Regional utförares ansvar för beredning och verkställighet
 
 5.1. Regional utförare ansvarar för beredning och verkställighet av den
 gemensamma nämndens beslut samt planering och administration av den
 verksamhet som nämnden bedriver.
 
-6.  Mandattid
+6\.  Mandattid
 6.1. Mandattid för den gemensamma nämnden ska bestämmas på så sätt som
 
 framgår av 6 kap. 18 § kommunallagen (2017:725) (”KL”) och vara fyra år räknat
 från 1 januari året efter allmänna val till fullmäktige hållits i hela landet.
 
-7.  Sammansättning
+7\.  Sammansättning
 7.1. Den gemensamma nämnden består av 11 ledamöter och 11 ersättare. Region
 Halland väljer 5 ledamöter och 5 ersättare. Kungsbacka, Varbergs, Falkenbergs,
 Halmstads, Laholms och Hylte kommuner väljer vardera 1 ledamot och 1
@@ -547,7 +547,7 @@ bland kommunernas ledamöter för samma tid som ledamöterna i nämnden väljs.
 
 <!-- sida 13 -->
 
-8.  Den gemensamma   nämndens uppdrag
+8\.  Den gemensamma   nämndens uppdrag
 8.1. Den gemensamma nämnden ska
 
 • utöver vad som framgår av gällande författningar tillse att den verksamhet
@@ -555,10 +555,10 @@ som nämnden bedriver är förenlig med och svarar mot nämndens
 reglemente och detta Avtal,
 
 • fastställa utbud och tjänster för hjälpmedel som avser
--  daglig livsföring (med undantag för syn- och hörseltekniska
+\-  daglig livsföring (med undantag för syn- och hörseltekniska
 hjälpmedel),
--  rekreation och normal fritid samt
--  hjälpmedel för vård och behandling
+\-  rekreation och normal fritid samt
+\-  hjälpmedel för vård och behandling
 
 • fastställa utbud och tjänster för förbrukningsartiklar som omfattas av 7 kap.
 2 § hälso- och sjukvårdsförordning (2017:80) (urininkontinens,
@@ -614,14 +614,14 @@ nämndens ansvarsområde.
 8.2. Den gemensamma nämndens ansvar omfattar inte
 • Fastställandet av utbud och tjänster som avser
 
--  hjälpmedel för vård och behandling som tillhandahålls av Hallands
+\-  hjälpmedel för vård och behandling som tillhandahålls av Hallands
 sjukhus (medicinsk apparatur i hemmet).
--  hjälpmedel för yrkesinriktad habilitering
--  pedagogiska hjälpmedel inom skolan
--  tävlings- och idrottshjälpmedel
--  ortopedtekniska hjälpmedel
--  synhjälpmedel
--  hörseltekniska hjälpmedel
+\-  hjälpmedel för yrkesinriktad habilitering
+\-  pedagogiska hjälpmedel inom skolan
+\-  tävlings- och idrottshjälpmedel
+\-  ortopedtekniska hjälpmedel
+\-  synhjälpmedel
+\-  hörseltekniska hjälpmedel
 8.3. Särskilt om fastställandet av riktlinjer i hjälpmedelsprocessen
 
 Den gemensamma nämnden ansvarar för att fastställa riktlinjer för förskrivning,
@@ -645,7 +645,7 @@ graden av nyttjande under hjälpmedlets livslängd.
 
 Regional utförares ansvar för lagerhållning och underhåll av hjälpmedel.
 
-9.  Beställning av hjälpmedel och förbrukningsartiklar av
+9\.  Beställning av hjälpmedel och förbrukningsartiklar av
 Regional utförare
 
 9.1. Den gemensamma nämnden ska årligen bedöma behovet av hjälpmedel,
@@ -653,7 +653,7 @@ förbrukningsartiklar och tjänster samt de överenskomna ekonomiska villkoren.
 Den bedömningen ska ligga till grund för beställning till Regional utförare för att
 se till att hjälpmedel tillgängliggöras de samverkande Parterna.
 
-10. Ekonomi
+10\. Ekonomi
 
 10.1. Den gemensamma nämnden ansvarar för att föreslå budget där modell för
 prissättning för tillgängliggörande av hjälpmedel och andra till hjälpmedlen
@@ -680,7 +680,7 @@ nämndens anslagna medel tillkommer Hallands kommuner.
 Hallands totala befolkning enligt SCB:s årliga befolkningsstatistik. Vid beräkning
 används den statistik som avser året två år före budgetåret. 2021 års statistik
 ska följaktligen utgöra grund för beräkningen för fördelning av anslagna medel
-2023.
+2023\.
 
 10.5. Kostnaden för förbrukningsartiklar för urininkontinens, urinretention eller
 tarminkontinens (som avses i 7 kap. 2 § hälso- och sjukvårdsförordningen
@@ -729,12 +729,12 @@ hjälpmedelsförsörjning.
 10.12. Den gemensamma nämnden tillgängliggör hjälpmedel till Parterna och beslutar
 om de ekonomiska villkoren för hur hjälpmedel ska tillgängliggöras.
 
-11. Redovisning
+11\. Redovisning
 
 11.1. Den gemensamma nämndens ekonomiska förvaltning och redovisning följer
 Region Hallands ekonomistyrningsmodell.
 
-12. Beredning av vissa ärenden och samråd
+12\. Beredning av vissa ärenden och samråd
 
 12.1. Den gemensamma nämnden beslutar om beredningen och dess former i de
 ärenden som nämnden ansvarar för.
@@ -747,7 +747,7 @@ nämnden beslutar om och beställer av Regional utförare.
 nämnden vid beredning av ärenden avseende fastställandet av riktlinjer för
 förskrivning av hjälpmedel.
 
-13. Egendomsförhållanden
+13\. Egendomsförhållanden
 
 13.1. Fast egendom som används för den gemensamma nämndens verksamhet
 fortsätter att ägas av respektive Part även efter bildandet av nämnden. Avtalet
@@ -766,7 +766,7 @@ egendomen av Parten ensamt.
 ansvarsområde, men som enligt det tidigare hjälpmedelsavtalet ägs av
 respektive kommun fortsätter att ägas av respektive kommun.
 
-14. Försäkringar
+14\. Försäkringar
 
 14.1. Varje Part ansvarar för att försäkra den egendom som de äger.
 14.2. Region Halland ansvarar för att försäkra den egendom som Parterna använder
@@ -786,7 +786,7 @@ Regional utförare bedriver på uppdrag av den gemensamma nämnden.
 14.4. Försäkring som täcker skador som omfattas av patientskadelagen tecknas av
 respektive vårdgivare. Parterna till avtalet ska teckna patientskadeförsäkring.
 
-15. Patientsäkerhet och skada
+15\. Patientsäkerhet och skada
 15.1. Hjälpmedelsprocessen i Halland ska präglas av ett proaktivt
 patientsäkerhetsarbete i syfte att förhindra och begränsa risken för vårdskador
 vid användning av hjälpmedel.
@@ -813,7 +813,7 @@ kravet. Vårdgivare får inte göra medgivanden eller överenskommelser gälland
 krav som kan påverka ersättningsskyldigheten utan samtycke från Regional
 utförare eller annan nämnd inom Region Halland som får föra regionens talan.
 
-16. Samverkan, information, översyn och utvärdering
+16\. Samverkan, information, översyn och utvärdering
 
 16.1. Parterna i Avtalet ska löpande arbeta för att samverkan inom den gemensamma
 nämnden förbättras och vid behov fördjupas. Parterna ska även arbeta för att
@@ -836,7 +836,7 @@ lika villkor utvärdera samverkan. Om det finns behov av att revidera avtalet sk
 den gemensamma nämnden informera regionstyrelsen i Region Halland om
 behovet.
 
-17. Giltighet
+17\. Giltighet
 17.1. Avtalet gäller från och med 2023-01-01 om samtliga Parter godkänt Avtalet och
 besluten om godkännande fått laga kraft. Om beslut om att godkänna avtalet får
 
@@ -847,11 +847,11 @@ skriftligen sagt upp avtalet i enlighet med avsnitt 19.1 förlängs avtalet med 
 17.2. När Avtalet godkänts ersätter Avtalet alla tidigare överenskommelser av samma
 slag mellan Parterna.
 
-18. Omförhandling
+18\. Omförhandling
 
 18.1. Varje Part i Avtalet kan begära omförhandling av Avtalet.
 
-19. Uppsägning
+19\. Uppsägning
 
 19.1. Part har rätt att säga upp Avtalet om de inte kan komma överens om fortsatt
 samarbete i den gemensamma nämnden, eller av någon annan anledning. Part
@@ -870,7 +870,7 @@ förskrivna hjälpmedel, hjälpmedelsansvarets fördelning mellan huvudmännen,
 underrättelse av privata utförare och andra frågor som adresseras av Avtalet och
 den gemensamma nämnden.
 
-20. Tvist
+20\. Tvist
 
 20.1. Parterna till Avtalet ska i syfte för att upprätthålla en tillfredsställande
 hjälpmedelsförsörjning i Halland arbeta gemensamt för att förebygga tvister, nå
@@ -1530,7 +1530,7 @@ I mars 2020 mottager Kungsbacka kommun Remiss SOU 2020:19 God och Nära vård �
 ett hållbart hälso- och sjukvårdssystem. Beslut fattas att Kungsbacka kommun är positiv till
 
 betänkandet SOU 2020:19. Under Nämnden för Vård & Omsorgs sammanträde i juni 2020 (Dnr 2020-
-00532) diskuteras samverkan mellan Region Halland och kommunerna i Halland rörande hälso- och
+00532\) diskuteras samverkan mellan Region Halland och kommunerna i Halland rörande hälso- och
 sjukvården. Beslut fattas av Nämnden för Vård & Omsorg att det är önskvärt att en gemensam
 färdplan och målbild för God och Nära vård tas fram. Plan är att önskemålet framförs till Gemensam
 nämnd för hemsjukvård och hjälpmedel (GNHH).
@@ -1540,7 +1540,7 @@ arbete med God och Nära vård i Halland och behov av att skapa en gemensam mål
 och Nära vård ska utvecklas i Halland. Målbilden Omtanke Halland tas fram av genomförandegruppen
 Nära vård och Leap for life (Högskolan Halland) på uppdrag av Chefsgrupp Halland (CGH) och
 Regional utvecklingsgrupp (RUG). Målbilden presenteras för politiker och tjänstemän i Halland i juni
-2022. KRF antar målbilden i november 2022.
+2022\. KRF antar målbilden i november 2022.
 Syfte med målbilden är att ta ut en riktning för hur vård och omsorg i Halland ska utvecklas mot en
 God och Nära vård som är sammanhållen, personcentrerad och nära. Det är de tre huvudorden i
 målbilden. Ur individperspektiv så utrycks det i målbilden: Oavsett vem jag är, var jag bor eller hur
@@ -1792,19 +1792,19 @@ Rekommendationer nämnden för Vård & Omsorg
 Mot bakgrund av vad som framkommit i granskningen rekommenderar vi att:
 
 Rekommendationer som avser samverkan med regionen i omställningen
--  Nämnden för Vård & Omsorg antar och ställer sig bakom målbilden Omtanke
+\-  Nämnden för Vård & Omsorg antar och ställer sig bakom målbilden Omtanke
 Halland.
 
--  Nämnden för Vård & Omsorg gör målbilden känd i Kungsbacka kommun och följer
+\-  Nämnden för Vård & Omsorg gör målbilden känd i Kungsbacka kommun och följer
 kommunens arbete.
--  Nämnden för Vård & Omsorg bidrar till att förbättra den operativa samverkan mellan
+\-  Nämnden för Vård & Omsorg bidrar till att förbättra den operativa samverkan mellan
 Kungsbacka kommun och Region Halland genom att lösa gränsdragningsfrågor
 kring primärvårdsnivå respektive specialistvård.
 
 Kommunspecifika rekommendationer
--  Nämnden för Vård & Omsorg säkerställer en tydlig styrning med en gemensam
+\-  Nämnden för Vård & Omsorg säkerställer en tydlig styrning med en gemensam
 inriktning och uppföljning som mäter rörelsen till en god och nära vård.
--  Nämnden för Vård & Omsorg fortsätter arbetet för ökad kontinuitet och
+\-  Nämnden för Vård & Omsorg fortsätter arbetet för ökad kontinuitet och
 
 personcentrerad vård inom primärvården
 
@@ -1884,33 +1884,33 @@ och följs upp på ett ändamålsenligt vis.
 
 I granskningen ska följande revisionsfrågor besvaras:
 
-1. Har målbilden konkretiserats i mätbara mål, aktiviteter och planer?
-2. Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
-3. Finns förutsättningar i verksamheterna med primärvården som nav för att
+1\. Har målbilden konkretiserats i mätbara mål, aktiviteter och planer?
+2\. Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
+3\. Finns förutsättningar i verksamheterna med primärvården som nav för att
 transformera till en omställning till nära vård? (kontinuitet och personcentrerad vård)
 
 4
 
 <!-- sida 49 -->
 
-4. Finns en fungerande samverkansstruktur mellan kommunen och regionen för att
+4\. Finns en fungerande samverkansstruktur mellan kommunen och regionen för att
 
 hantera såväl strategiska som mer operativa frågor för omställning till nära vård?
-5. Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och
+5\. Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och
 aktiviteter till nämnden för Vård & Omsorg?
 
 Revisionskriterier
 Med revisionskriterier avses de bedömningsgrunder som bildar underlag för revisionens
 analyser och bedömningar.
 
--  Hälso- och sjukvårdslag (2017:30) 2 kap § 6 och Kap 7§ 2a
--  SOSFS 2011:9 Socialstyrelsens föreskrifter och allmänna råd om ledningssystem för
+\-  Hälso- och sjukvårdslag (2017:30) 2 kap § 6 och Kap 7§ 2a
+\-  SOSFS 2011:9 Socialstyrelsens föreskrifter och allmänna råd om ledningssystem för
 systematiskt kvalitetsarbete, 3–6 kap
--  Lag (2017:612) om samverkan vid utskrivning från sluten hälso-och sjukvård
--  Patientlag (2014:821), 5 kap. 1-2 §, 6 kap 1§
+\-  Lag (2017:612) om samverkan vid utskrivning från sluten hälso-och sjukvård
+\-  Patientlag (2014:821), 5 kap. 1-2 §, 6 kap 1§
 
--  Patientsäkerhetslag (2010:659) 3 kap 1§
--  Kommunbudget 2024 och plan 2025–2026
+\-  Patientsäkerhetslag (2010:659) 3 kap 1§
+\-  Kommunbudget 2024 och plan 2025–2026
 
 Avgränsning
 Granskningen avgränsas till nämnden för Vård & Omsorg.
@@ -1932,11 +1932,11 @@ del redovisas även i den här rapporten som avser Kungsbacka kommun.
 
 Intervjuer har genomförts med följande representanter för Kungsbacka kommun:
 
--  Förvaltningschef Vård & Omsorg
+\-  Förvaltningschef Vård & Omsorg
 
--  Ekonomichef Vård & Omsorg
--  Verksamhetschef enligt HSL
--  Tf MAS och samordnare god och nära vård
+\-  Ekonomichef Vård & Omsorg
+\-  Verksamhetschef enligt HSL
+\-  Tf MAS och samordnare god och nära vård
 
 De intervjuade har beretts möjlighet att sakgranska rapporten. Rapporten är
 kvalitetssäkrad av Marie Lindblad, certifierad kommunal revisor, i enlighet med PwC:s
@@ -2023,12 +2023,12 @@ Kommunfullmäktiges styrning
 Av kommunbudget 2024 och plan 2025–2026 framgår fem kommunövergripande mål för
 verksamheten:
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
 
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och en öppen attityd
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och en öppen attityd
 
 Kommunfullmäktiges budget nämner inget specifikt om omställningen till god och nära
 vård.
@@ -2071,15 +2071,15 @@ I samband med att den regionala målbilden med tillhörande färdplan lanserades
 kommunen ett internt uppdrag för att hantera och implementera detta arbete. Uppdraget
 innefattade följande punkter:
 
--  Skapa kommunövergripande sammanhållning och öka den kommunala förståelsen
+\-  Skapa kommunövergripande sammanhållning och öka den kommunala förståelsen
 gällande god och nära vård.
--  Ta ställning till hur reformen "God och Nära Vård" påverkar kommunen och de
+\-  Ta ställning till hur reformen "God och Nära Vård" påverkar kommunen och de
 berörda förvaltningarna.
--  Genomföra en gapanalys utifrån den regionövergripande målbilden för god och nära
+\-  Genomföra en gapanalys utifrån den regionövergripande målbilden för god och nära
 
 vård och omsorg, i förhållande till aktuellt nuläge för berörda förvaltningar samt
 kommunövergripande.
--  Föreslå eventuella justeringar av förvaltningarnas samt kommunövergripande arbete
+\-  Föreslå eventuella justeringar av förvaltningarnas samt kommunövergripande arbete
 kopplat till det regionövergripande målarbetet.
 
 Ovanstående uppdrag slutredovisades i en rapport som enligt intervjuer delgavs med
@@ -2104,13 +2104,13 @@ på den medicinska elevhälsan.
 
 Med utgångspunkt i den Halländska målbilden har följande mål formulerats:
 
--  Hälsofrämjande: I Kungsbacka finns förutsättningar för god hälsa
--  Gemensam: I Kungsbacka gör vi vård, omsorg och det hälsofrämjande arbetet
+\-  Hälsofrämjande: I Kungsbacka finns förutsättningar för god hälsa
+\-  Gemensam: I Kungsbacka gör vi vård, omsorg och det hälsofrämjande arbetet
 
 bättre tillsammans
--  Trygg: I Kungsbacka bygger vård, omsorg och det hälsofrämjande arbetet på
+\-  Trygg: I Kungsbacka bygger vård, omsorg och det hälsofrämjande arbetet på
 kompetens och tillit.
--  Enkel: I Kungsbacka är vård och omsorg och det hälsofrämjande arbetet nära och
+\-  Enkel: I Kungsbacka är vård och omsorg och det hälsofrämjande arbetet nära och
 
 lätt att nå.
 
@@ -2125,13 +2125,13 @@ Utifrån var Kungsbacka kommun står i arbetet med omställningen, har ett antal
 formulerats till GNVO-gruppen för år 2024. Gruppen ska bland annat fokusera på
 följande:
 
--  Kompetenshöjande insatser gällande God och Nära Vård och Omsorg samt
+\-  Kompetenshöjande insatser gällande God och Nära Vård och Omsorg samt
 hälsofrämjande arbete.
--  Skapa en kommunikationsplan där varje förvaltning identifierar sina intressenter och
+\-  Skapa en kommunikationsplan där varje förvaltning identifierar sina intressenter och
 
 vilken nivå av kännedom och involvering de bör ha gällande reformen.
--  Utarbeta en process för att göra initiativen kända för förvaltningsledningsgrupper3
--  Tydliggöra i skrift hur rapportering för God och Nära Vård och Omsorg ska ske.
+\-  Utarbeta en process för att göra initiativen kända för förvaltningsledningsgrupper3
+\-  Tydliggöra i skrift hur rapportering för God och Nära Vård och Omsorg ska ske.
 
 Enligt intervjuer är ovanstående mål inte politiskt beslutade av nämnden. Nämnden
 följer dock upp arbetet med målen och de uppdrag som formulerats till gruppen genom
@@ -2245,12 +2245,12 @@ GNVO-gruppen ska arbeta vidare med initiativet. Enligt en intervju med förvaltn
 ekonomichef är syftet att statsbidrag ska användas för att finansiera olika initiativ.
 
 Enligt en erhållen förteckning har statsbidrag bland annat gått till:
--  Projekt Klusterundersköterskor: Syfte att öka kompetens inom hemtjänsten och
+\-  Projekt Klusterundersköterskor: Syfte att öka kompetens inom hemtjänsten och
 frigöra tid för sjuksköterskor
 
--  Projekt Utbildningsteam inom Vård och Omsorg: Samla utbildningsinsatser och
+\-  Projekt Utbildningsteam inom Vård och Omsorg: Samla utbildningsinsatser och
 arbete med delegeringar till ett team.
--  Mottagningsfunktion för de som har/får/är i behov av sin första kontakt med vård och
+\-  Mottagningsfunktion för de som har/får/är i behov av sin första kontakt med vård och
 omsorg.
 
 Bedömning
@@ -2592,19 +2592,19 @@ som innehåller olika aktiviteter, vem som är ansvarig, måldatum samt önskat 
 identifierade utvecklingsområden i samverkan. Bland annat är det följande aktiviteter
 som omfattas:
 
--  Rätt kontaktuppgifter i lifecare
--  Öka kunskap om vilka kontaktvägar till vårdcentralen som används vid vilka behov
+\-  Rätt kontaktuppgifter i lifecare
+\-  Öka kunskap om vilka kontaktvägar till vårdcentralen som används vid vilka behov
 
 17
 
 <!-- sida 62 -->
 
--  Tydliggöra alla professioners ansvar i bedömningskedjan
+\-  Tydliggöra alla professioners ansvar i bedömningskedjan
 
--  Skapa relationer och samverkansforum mellan huvudmännens medarbetare.
--  Öka förståelse för varandras uppdrag
--  Öka tillgänglighet hos vårdcentralens läkare för HSV sjuksköterskor
--  Tydliggör process för minnesutredning. Från uppkommet behov till färdigt svar på
+\-  Skapa relationer och samverkansforum mellan huvudmännens medarbetare.
+\-  Öka förståelse för varandras uppdrag
+\-  Öka tillgänglighet hos vårdcentralens läkare för HSV sjuksköterskor
+\-  Tydliggör process för minnesutredning. Från uppkommet behov till färdigt svar på
 minnestest till läkare.
 
 Enligt intervjuer kommer ett gemensamt arbete att påbörjas under 2024 med de mest
@@ -2856,7 +2856,7 @@ Sammanfattande bedömningar utifrån revisionsfrågor
 2024-09-23
 
 Marie Lindblad                   Louise Tornhagen
-___________________________      ___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kvalitetssäkrare                 Projektledare
 
@@ -3804,7 +3804,7 @@ Kungsbacka hade enligt Statistiska Centralbyråns befolkningsstatistik 2023, 17 
 65 år eller äldre. Skulle Kungsbacka kommun använda sig av samma princip som Mölndal skulle vi
 behöva köpa in två gånger fler broddar det vill säga 12 000 till en kostnad av 1.2 miljoner. Kostnaden
 för administration är inte inkluderad inte heller kostnadsökningen för broddar från 2021 fram tills
-2025.
+2025\.
 Att arbeta med fallprevention är en folkhälsofråga som berör flera nämnder och inte enbart en fråga för
 
 Vård & Omsorg. Inom nämnden är fallprevention en prioriterad fråga som det arbetas systematiskt
@@ -3982,13 +3982,13 @@ av broddar
 Förslag till beslut
 Vi föreslår att kommunfullmäktige beslutar:
 
-1. Att införa ett program för kostnadsfri utdelning av broddar till invånare som fyller
+1\. Att införa ett program för kostnadsfri utdelning av broddar till invånare som fyller
 eller har fyllt 65 år i kommunen.
 
-2. Att säkerställa att broddarna erbjuds med enkel tillgång, inklusive digital
+2\. Att säkerställa att broddarna erbjuds med enkel tillgång, inklusive digital
 beställning och fysiska utlämningsställen med möjlighet till utprovning.
 
-3. Attutvärdera programmet efter tre år, med fokus på fallolyckornas påverkan på
+3\. Attutvärdera programmet efter tre år, med fokus på fallolyckornas påverkan på
 kommunens och regionens kostnader för äldreomsorg och sjukvård.
 
 Motivering
@@ -4388,7 +4388,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -4584,7 +4584,7 @@ avtalsinnehåll som avvikelsen avviker från.
 
 Granskningsområden
 
-1. Hälsofrämjande och riskförebyggande arbete
+1\. Hälsofrämjande och riskförebyggande arbete
 
 •    Verksamhetskoncept
 •    Nattkoncept
@@ -4601,7 +4601,7 @@ Granskningsbakgrund
 Bilaga 18, erbjuden kvalitet
 Bilaga 1, kvalitetskrav
 
-2. Aktiviteter och social samvaro
+2\. Aktiviteter och social samvaro
 
 <!-- sida 113 -->
 
@@ -4619,7 +4619,7 @@ Granskningsbakgrund
 Bilaga 18, erbjuden kvalitet
 Bilaga 1, kvalitetskrav
 
-3. Delaktighet och inflytande
+3\. Delaktighet och inflytande
 
 •    Koncept
 •    Forum
@@ -4631,7 +4631,7 @@ Granskningsbakgrund:
 Bilaga 18, erbjuden kvalitet
 Bilaga 1, kvalitetskrav
 
-4. Måltider
+4\. Måltider
 •    Måltidsstunden
 •    Delaktighet
 •    Nutrition
@@ -5681,7 +5681,7 @@ som leds av demensvårdsutvecklare från vår utbildningsorganisation. Arbetsmet
 
 kartläggning av förmågor utifrån jag-stödjande förhållningssätt, reminiscens, lågaffektivt
 bemötande, samtalskonst, stöd i orientering av tid och rum, sång och musik och boendets
-utformning tillämpas. Utbildning ges till närstående av demensvårdsutvecklare 3 * 2 h samt till
+utformning tillämpas. Utbildning ges till närstående av demensvårdsutvecklare 3 \* 2 h samt till
 somatiska boende om de önskar. Stödinsatser för anhöriga till demenssjuka får starka
 
 <!-- sida 134 -->
@@ -6826,7 +6826,7 @@ kommuners arbete med civilt försvar.
 Diarienummer VO-2024-00163 (Ernst & Young AB) Grundläggande granskning 2024 – Kungsbacka.
 Diarienummer VO-2025-00107. (Kommunfullmäktige) KF, § 33. Fastställande av koncernbudget
 
-2025.
+2025\.
 Diarienummer VO-2024-00424. (Kommunstyrelsen) KS § 54. Uppföljning av intern kontroll 2024 för
 Kungsbacka kommun.
 

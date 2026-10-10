@@ -316,7 +316,7 @@ har både internt och externt.
 
 Ärendet om inrättande av en kommunal lantmäterimyndighet i Kungsbacka
 kommun, drogs ur kommunstyrelsens arbetsutskotts dagordning den 14 oktober
-2025. Regeringen beslutade 2024 om en särskild utredning gällande organisationen
+2025\. Regeringen beslutade 2024 om en särskild utredning gällande organisationen
 av Sveriges lantmäterimyndigheter. Utredningen har sett över bland annat ansvar-
 och uppgiftsfördelning mellan statliga Lantmäteriet och kommunala
 motsvarigheterna, samt vilka krav kommuner behöver uppfylla för att inrätta en
@@ -448,7 +448,7 @@ upprätta detaljplan för korsningen Varlavägen-Arendalsleden samt för del av
 Varlavägen, från Arendalsleden fram till Tölö Tvärled. I beslutet framgår det att
 planändringen kan delas upp i flera etapper vilket även gjorts. Detaljplan för etapp
 ett, cirkulationsplatsen Varlavägen-Arendalsleden vann laga kraft 16 september
-2019. Etapp två, vilket omfattar denna detaljplan, syftar till en breddning av
+2019\. Etapp två, vilket omfattar denna detaljplan, syftar till en breddning av
 Varlavägen mellan korsningen Arendalsleden och Tölö tvärled.
 
 Planförslaget har varit utställt för granskning under tiden 23 april – 16 maj 2025.
@@ -599,9 +599,9 @@ Byggnadsnämnden rättar beslutet att anta detaljplan för hotell inom Särö 1:
 2024-10-17, § 225, så att plankartan visar den utformning som förekom under
 granskningsförfarandet 2024-05-21–2024-06-11 och
 
-* att hela planområdet kommer med på plankartan så att område med bestämmelse P
+\* att hela planområdet kommer med på plankartan så att område med bestämmelse P
 Parkering är helt synligt på plankartan samt
-* att sekundär egenskapsgräns, enligt legenden i plankartan, läggs till på plankartan
+\* att sekundär egenskapsgräns, enligt legenden i plankartan, läggs till på plankartan
 och avgränsar området med bestämmelse a1, Strandskyddet är upphävt.
 
 Sammanfattning av ärendet
@@ -765,7 +765,7 @@ yrkar Daniel Hognert (M) att byggnadsnämnden godkänner granskningsutlåtandet
 daterat 2025-09-16, reviderad 2025-10-08, samt att byggnadsnämnden överlämnar
 till kommunfullmäktige att anta detaljplan för blandad stadsbebyggelse inom
 sydöstra centrum etapp 1 i Kungsbacka, upprättad 2025-09-16, reviderad 2025-10-
-08.
+08\.
 Dick Andersson (M) yrkar bifall till Daniel Hognerts (M) förslag.
 
 Förslag till beslut på sammanträdet
@@ -900,20 +900,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 
 genomföras utanför området.
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Förvaltningens bedömning är att inget av dessa särskilda skäl uppfylls för inskickad
 ansökan och bedömningen är därmed att en strandskyddsdispens inte kan ges. En
 motivering följer nedan.

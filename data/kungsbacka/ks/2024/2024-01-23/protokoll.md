@@ -1327,10 +1327,10 @@ och näringslivsdepartementets remiss av promemorian Uppgifter om medelstora
 förbränningsanläggningar. Promemorian innehåller förslag om ändringar i
 förordningen (2018:471) om medelstora förbränningsanläggningar som innebär
 
-1. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst
+1\. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst
 slopas,
 
-2. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
+2\. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
 Följden av den föreslagna lagändringen blir att kommunen i sin roll som
 tillsynsmyndighet själv får avgöra hur information till myndigheten kan lämnas.
 
@@ -1807,7 +1807,7 @@ Riktlinjer för ett långt och gott arbetsliv, antagna av kommunfullmäktige
 Sammanfattning av ärendet
 
 Kommunfullmäktige antog Riktlinjer för ett långt och gott arbetsliv den 8 december
-2020. Riktlinjerna utgick från då gällande tjänstepensionsavtal.
+2020\. Riktlinjerna utgick från då gällande tjänstepensionsavtal.
 Med anledning av att ett nytt tjänstepensionsavtal har förhandlats fram mellan
 Sveriges Kommuner och Regioner (SKR) och de fackliga organisationerna behöver
 de delar av kommunens Riktlinjer för ett långt och gott arbetsliv som innehåller

@@ -422,7 +422,7 @@ Sammanfattning av ärendet
 
 Bygg- och miljöförvaltningen föreslår att nämnden antar en reviderad
 delegeringsförteckning som ersätter den förteckning som antogs den 5 juni 2025, §
-79. Den huvudsakliga förändringen är övergången till kommunens gemensamma
+79\. Den huvudsakliga förändringen är övergången till kommunens gemensamma
 modell för direktdelegering, där nämnden själv anger vilken funktion eller befattning
 som har beslutanderätt i respektive ärendegrupp i stället för att beslutanderätten
 vidaredelegeras från förvaltningschef.

@@ -113,7 +113,7 @@ Sammanfattning av ärendet
 De kommunövergripande målen och direktiven för 2025 gäller inte valnämnden
 enligt beslut i kommunfullmäktige den 2024-06-13. Det budgetförslag som är
 framtaget för valnämnden innehåller de delar som berör valnämndens verksamhet
-2025.
+2025\.
 
 Beslutsunderlag
 Kungsbacka kommuns tjänsteskrivelse, 2024-10-29

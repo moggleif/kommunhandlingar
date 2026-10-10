@@ -293,7 +293,7 @@ Kullavik. Planområdes har sedan uppdragsbeslutet utökats till att även omfatt
 Bångsbo 1:34.
 Planförslaget har varit utställt för granskning under tiden 22 oktober–5 november
 
-2024. Under granskningstiden inkom 6 skrivelser. Inkomna synpunkter berör i
+2024\. Under granskningstiden inkom 6 skrivelser. Inkomna synpunkter berör i
 huvudsak omfattning och reglering av planområdet. Se vidare i
 granskningsutlåtandet.
 Fastighetsägarna till Kyvik 5:400 samt Kyvik 5:120 har lämnat synpunkter som inte
@@ -366,7 +366,7 @@ Sammanfattning av ärendet
 Byggnadsnämnden gav den 1 juni 2017 samhällsbyggnadskontoret i uppdrag att
 upprätta ändring av detaljplan K35 för bostäder inom Berguven m.fl.
 Planförslaget har varit utställt för granskning under tiden 1 oktober till 25 oktober
-2024. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
+2024\. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
 planförslaget och någon ändring av detaljplanen föreslås därför inte.
 
 Syftet med detaljplaneändringen är att anpassa byggrätten till hur fastigheterna,
@@ -423,7 +423,7 @@ Sammanfattning av ärendet
 Byggnadsnämnden gav den 16 maj 2024 Samhällsbyggnadskontoret i uppdrag att
 upprätta ändring av del av detaljplan S24 för bostäder inom Malevik 1:41.
 Planförslaget har varit utställt för granskning under tiden 1 oktober – 25 oktober
-2024. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
+2024\. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
 planförslaget och någon ändring av detaljplanen föreslås därför inte.
 
 Fastighetsägaren till Malevik 1:41 ansökte den 8 maj 2023 om planbesked för att
@@ -538,7 +538,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-11-21
 
-11. Fastigheten är belägen inom riksintresse för rörligt friluftsliv och högexploaterad
+11\. Fastigheten är belägen inom riksintresse för rörligt friluftsliv och högexploaterad
 kust. Fastigheten är enligt Kommunens kartunderlag belägen inom område för
 förutsättningar för skred.
 
@@ -913,7 +913,7 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 
 a) överensstämmer med detaljplanen, eller
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
@@ -921,11 +921,11 @@ bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 
 första stycket, 13, 17 och 18 §§.
@@ -1048,7 +1048,7 @@ särskilda skäl är placeringen att betrakta som planenlig.
 
 Kommunicering
 En första underrättelse med förvaltningens bedömning skickas till sökande 2024-10-
-02. Sökande uppmanas att ändra utformningen av de höga stödmurarna och justera
+02\. Sökande uppmanas att ändra utformningen av de höga stödmurarna och justera
 förslaget så att markåtgärderna minskas.
 
 Sökande inkom med ett yttrande till förvaltningen 2024-10-11. I yttrandet hemställer
@@ -1473,7 +1473,7 @@ De tillbyggnader som sökande hänvisar till i sitt yttrande 2024-11-05 har alla
 tillkommit före det att gestaltningsprinciperna i Råd och riktlinjer för Tölö ängar
 
 beslutades i byggnadsnämden 2020-02-20 § 36. De tillkom under 2016, 2017 och
-2019. Råd och riktlinjer togs fram för att det fanns ett behov av att bibehålla
+2019\. Råd och riktlinjer togs fram för att det fanns ett behov av att bibehålla
 enhetligheten i området. Därefter har inga liknande tillbyggnader beviljats.
 Sökandes motivering föranleder ingen annan bedömning och startbesked kan därför
 inte beviljas.

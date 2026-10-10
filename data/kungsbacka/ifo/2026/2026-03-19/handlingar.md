@@ -44,10 +44,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 2 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
 
 Engagerad ledning och tydlig styrning .............................................................................................3
 Övergripande mål och strategier .................................................................................................4
@@ -61,7 +61,7 @@ En god säkerhetskultur.........................................................
 Adekvat kunskap och kompetens ....................................................................................................8
 Patienten som medskapare .............................................................................................................9
 
-4. AGERA FÖR SÄKER VÅRD ........................................................................................................... 10
+4\. AGERA FÖR SÄKER VÅRD ........................................................................................................... 10
 Öka kunskap om inträffade vårdskador ......................................................................................... 10
 
 Har vården varit säker ............................................................................................................... 10
@@ -83,7 +83,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 3 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -92,7 +92,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 Året har haft ett stort fokus på att stärka en god och hållbar säkerhetskultur med fokus på
 struktur lärande och ett öppet klimat kring risker och förbättringsbehov. Mätning av
 patientsäkerhetskulturen visar på ett bättre resultat jämfört med föregående år. I en god
@@ -119,7 +119,7 @@ Antalet händelser som avser svinn av läkemedel har ökat från 316 förra åre
 Hanteringen behöver säkras upp och antalet händelser minska. Installation av nya
 läkemedelsskåp pågår i VO och utvärdering kommer att ske under 2026.
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 Engagerad ledning och tydlig styrning
 
 En grundläggande förutsättning för en säker vård är en
@@ -296,16 +296,16 @@ uppgifter enligt nedan.
 
 <!-- sida 7 -->
 
-1. Uppföljningar av informationssäkerheten som är av större betydelse
-2. Riskanalyser som har gjorts.
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
 
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
 En god säkerhetskultur
@@ -462,7 +462,7 @@ Stöd i hemmet har pågående hälsofrämjande aktiviteter från Hälsoprojektet
 samarbete mellan förvaltningarna för IF och VO. På daglig verksamhet har ett samarbete med
 arbetsterapeut och fysioterapeut börjat för att förbättra möjlighet till fysisk aktivitet i grupp.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -477,12 +477,12 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
 
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
 
-5. Öka riskmedvetenhet och beredskap
+5\. Öka riskmedvetenhet och beredskap
 
 Öka kunskap om inträffade vårdskador
 
@@ -1492,11 +1492,11 @@ Vid förfall för övriga delegater
 
 Delegation till tjänsteperson får vid förfall för denne, utövas av
 
-1. annan delegat om det finns flera angivna.
-2. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
+1\. annan delegat om det finns flera angivna.
+2\. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet
 
-3. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
+3\. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 Fördelning av beslutanderätt
@@ -1521,12 +1521,12 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
-- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
-- Beslut att avge yttrande till högre instans med anledning av överklagande av
+\- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om ett utskott har fått delegation
 undertecknas handling som beslutet avser av utskottets ordförande och
 förvaltningschefen.

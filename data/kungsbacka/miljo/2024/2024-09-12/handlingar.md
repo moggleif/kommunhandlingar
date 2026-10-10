@@ -1247,15 +1247,15 @@ trädgårdsavfall är omfattande och att delar av det dispensförfarandet som an
 kommunens hemsida inte främjar syftet med förordningen.
 
 Förslagsställarna yrkar på följande tolkning och kommunikation, tills vidare:
-- Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till
+\- Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till
 
 exempel ris, kvistar och grenar.
-- Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
+\- Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
 trädgårdsavfall inom områden med detaljplan är förbjuden fr.o.m. den 1 maj t.o.m.
 den 30 september. Eldning under övrig tid får ske under förutsättning att olägenhet
 för människors hälsa inte uppstår
 
-- Att yrkandet gäller omgående och ska justeras idag.
+\- Att yrkandet gäller omgående och ska justeras idag.
 
 Beslutsunderlag
 
@@ -1326,7 +1326,7 @@ Expedierat/bestyrkt
 Nämnden för Miljö & Hälsokydd
 Moderaterna – Kristdemokraterna – Liberalerna - Centern
 
-__________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Initiativ 2024-04-11
 
@@ -1350,13 +1350,13 @@ indirekt-effekt
 
 Alliansen i Kungsbacka yrkar på följande tolkning och kommunikation, tills vidare:
 
--  Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till exempel ris,
+\-  Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till exempel ris,
 kvistar och grenar.
--  Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
+\-  Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
 trädgårdsavfall inom områden med detaljplan är förbjuden fr.o.m. den 1 maj t.o.m. den 30
 september. Eldning under övrig tid får ske under förutsättning att olägenhet för människors
 hälsa inte uppstår
--  Att yrkandet gäller omgående och ska justeras idag.
+\-  Att yrkandet gäller omgående och ska justeras idag.
 
 <!-- sida 31 -->
 
@@ -1430,7 +1430,7 @@ KUNGSBACKA  KOMMUN
 I planeringen har hänsyn tagits till andra beslutande organs sammanträdesdagar. Planeringen är också
 anpassad efter gällande stoppdatum för Kungsbacka kommuns budget- och uppföljningsarbete för
 
-2025.
+2025\.
 
 Katarina Öryd                 Amanda Toresson
 
@@ -1548,7 +1548,7 @@ systemet. När ett kommungemensamt system används är varje nämnd personuppgif
 
 behandlingen, men avtalen hanteras gemensamt genom att beslutanderätten delegeras från alla
 nämnder till biträdande kommundirektör. Se Kommunstyrelsens förvaltnings tjänsteskrivelse 2023-12-
-08.
+08\.
 Bygg-och miljöförvaltningen bedömer att det nya sättet att strukturera samarbetet kring
 personuppgiftsbehandling inom kommunen medför tydlighet och minskad administration. Det i sin tur
 gör det enklare att arbeta som Ett Kungsbacka. Genom de föreslagna delegeringarna möjliggörs att ha

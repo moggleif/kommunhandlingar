@@ -367,7 +367,7 @@ Nämndens arbete med innovation och omställning till nya arbetssätt
 Kommunstyrelsens förvaltning har en viktig uppgift att bygga kultur och förmåga till innovation i vår
 organisation. Vi behöver utmana nuvarande arbetssätt och testa saker som vi aldrig testat förut. Som tidigare
 nämnts arbetar förvaltningen tillsammans med samtliga övriga förvaltningar inom programområde från och med
-2024.
+2024\.
 
 Arbetet inom den egna förvaltningen sker bland annat genom att utveckla vår förmåga att stödja innovations-
 arbetet i kommunen med metoder och arbetssätt. Vidare är det angeläget att sprida och kommunicera vårt arbete
@@ -816,7 +816,7 @@ medianlön mellan könen i krontal och procent.
 Nedan uppgifter avser en jämförelse av medellönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun
 
-*uppgifter från Medlingsinstitutet.
+\*uppgifter från Medlingsinstitutet.
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
@@ -831,7 +831,7 @@ Kungsbacka kommun
 | Genomsnittslön, medel |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Kvinnor | Män | Samtliga |  |
-| Kommuner, 2022* | 33 600 | 34 100 | 33 700 | 98,5% |
+| Kommuner, 2022\* | 33 600 | 34 100 | 33 700 | 98,5% |
 | Kungsbacka, 2022 | 34 300 | 34 900 | 34 400 | 98,3% |
 | Kungsbacka, 2023 | 35 600 | 36 400 | 35 800 | 97,8% |
 
@@ -2093,11 +2093,11 @@ delegeringsförteckning där beslutanderätten i olika ärenden överförs till 
 Nämnden har enligt kommunallagen 6 kap. 37 § och 7 kap 5-7 §§ möjlighet att delegera
 beslutanderätten till
 
-- nämndens presidium (ordförande och en eller flera vice ordförande)
-- ett utskott,
+\- nämndens presidium (ordförande och en eller flera vice ordförande)
+\- ett utskott,
 
-- en ledamot eller ersättare i nämnden
-- en anställd hos kommunen
+\- en ledamot eller ersättare i nämnden
+\- en anställd hos kommunen
 
 Delegering kan också ske till en anställd i en annan förvaltning. Delegering till annan utanför den
 kommunala organisationen är inte möjlig, om det inte finns ett särskilt stöd i lag (speciallagstiftning).
@@ -2105,9 +2105,9 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 att besluta i stället, så kallad vidaredelegering (kommunallagen 7 kap. 6 §). Delegering ska då ske i två
 steg;
 
-1) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
+1\) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 Kommunstyrelsens delegeringsförteckning uppdaterades senast den 26 september 2023.
 
 Vidaredelegering av kommundirektören (förvaltningschefen) gjordes senast den 18 oktober 2023 med
@@ -2117,21 +2117,21 @@ delegeringsförteckningen. Därför finns det anledning att återkommande ta upp
 
 De förändringar som nu föreslås redovisas och kommenteras i förslag till ”Delegering av
 beslutanderätt Kommunstyrelsen”, daterad 2023-12-18. De huvudsakliga förändringarna är följande:
-- 2.1.7, 2.1.10-12, 2.3.13 Ändring av organisationens namn till samhällsbyggnadskontoret (tidigare
+\- 2.1.7, 2.1.10-12, 2.3.13 Ändring av organisationens namn till samhällsbyggnadskontoret (tidigare
 
 felskrivning).
-- 2.1.8 Tillägg av vidaredelegering för beslut om att utnämna dataskyddsombud (har tidigare varit
+\- 2.1.8 Tillägg av vidaredelegering för beslut om att utnämna dataskyddsombud (har tidigare varit
 med). Detta avser att utnämna den person som ska ha uppgiften. Om det krävs beslut om
 anställning så regleras det under avsnittet Personalärenden.
 
-- 2.5.1 Tillägg av beslut om att utse signalskyddschef och biträdande signalskyddschef.
+\- 2.5.1 Tillägg av beslut om att utse signalskyddschef och biträdande signalskyddschef.
 
 <!-- sida 59 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
 
-- 2.5.2 Tillägg av beslut om att sända Viktigt meddelande allmänheten (VMA).
+\- 2.5.2 Tillägg av beslut om att sända Viktigt meddelande allmänheten (VMA).
 
 Malin Aronsson                     Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
@@ -2172,7 +2172,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 2.3 Personal........................................................................................................ 12
@@ -2220,13 +2220,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -2260,13 +2260,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -2276,9 +2276,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -2353,7 +2353,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (20)
 
 <!-- sida 66 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -2397,7 +2397,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | 2.1.13 | GDPR artikel 30 | Fastställa kommunstyrelsens register över<br>personuppgiftsbehandlingar. | Kdir | X |  |
 | 2.1.14 | Regler för arvoden<br>till förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 69 -->
@@ -2612,7 +2612,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 2.3 Personal........................................................................................................ 12
@@ -2659,13 +2659,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -2699,13 +2699,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -2715,9 +2715,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -2789,7 +2789,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (19)
 
 <!-- sida 86 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -2831,7 +2831,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (19)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 89 -->
@@ -3483,7 +3483,7 @@ s
 o
 a u
 ö
--
+\-
 r
 n k
 8
@@ -3781,7 +3781,7 @@ Objekt: 2st Steel dubbelbana utomhus inkl tillbehör (se bilaga)
 Lösenbeloppet uppgår till kr 125 000 kr SEK exkl moms (156 250 SEK inkl moms)
 
 Vi ber er inbetala beloppet inkl moms till bankgiro 469-7934 med angivande av avtalsnumret
-2104348175. Enligt överenskommelse ska beloppet ovan vara oss tillhanda 7 dagar per dagens
+2104348175\. Enligt överenskommelse ska beloppet ovan vara oss tillhanda 7 dagar per dagens
 datum.
 När vi erhållit hela ovan beloppet sänds en kvitterad faktura och äganderätten av objekten övergår
 till Er.
@@ -3805,7 +3805,7 @@ Kommunstyrelsen Datum
 
 2021-02-23
 
-$ 49 Dnr 2020-00720
+\$ 49 Dnr 2020-00720
 
 Godkännande av arrendeavtal för padeltennisbana på fastigheten Fors
 1:3 i
@@ -3847,7 +3847,7 @@ Forsgårdens golfklubb. Denna överenskommelse är bifogad till arrendeavtalet.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2021-02-09, $ 78
+Kommunstyrelsens arbetsutskott 2021-02-09, \$ 78
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2021-02-02
 
@@ -5837,7 +5837,7 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 147 -->
 
-1011)
+1011\)
 
 EXPLOATERINGSAVTAL
 
@@ -5871,7 +5871,7 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-Ett Principavtal (KS 2021-01-19, $12), Principavtalet, har tecknats mellan
+Ett Principavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -5907,7 +5907,7 @@ c) Gångvägsanslutning från Varlavägen till Varla 6:22 som framgår i bilaga 
 
 8.1
 
-211)
+211\)
 
 Syfte, innehåll och förutsättningar
 
@@ -6023,7 +6023,7 @@ Exploatören ska uppföra energieffektiv byggnation som uppfyller Boverkets krav
 
 9.2
 
-10.
+10\.
 
 10.1
 
@@ -6080,7 +6080,7 @@ sker i samband med bygglovsförfarandet för respektive byggnad.
 
 <!-- sida 151 -->
 
-11.
+11\.
 
 11.2
 
@@ -6149,7 +6149,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 <!-- sida 152 -->
 
-12.
+12\.
 
 12.1
 
@@ -6163,7 +6163,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 12.6
 
-13.
+13\.
 
 13.1
 
@@ -6225,13 +6225,13 @@ belägna utanför planområdet (men inom exploateringsområdet) är nödvändiga
 
 <!-- sida 153 -->
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
@@ -6293,7 +6293,7 @@ platsmarken ska samordnas med utbyggnad av kvartersmark.
 
 <!-- sida 154 -->
 
-16.
+16\.
 
 16.1
 
@@ -6301,21 +6301,21 @@ platsmarken ska samordnas med utbyggnad av kvartersmark.
 
 16.3
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 I9.1
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -6374,13 +6374,13 @@ inom Exploateringsområdet.
 
 21.2
 
-22.
+22\.
 
 22.1
 
 22.2
 
-23.
+23\.
 
 23.1
 
@@ -6388,11 +6388,11 @@ inom Exploateringsområdet.
 
 23.3
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
@@ -6448,17 +6448,17 @@ Kommunen för nedlagda plankostnader, vilket regleras i ett separat plankostnads
 
 <!-- sida 156 -->
 
-20.
+20\.
 
 26.1
 
 20.2
 
-27.
+27\.
 
 27.1
 
-28.
+28\.
 
 28.1
 
@@ -6575,7 +6575,7 @@ Kommunen och Exploatören kallas gemensamt Parterna
 
 A. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 — Kommunstyrelsen uppdrog 2020-11-24 åt samhällsbyggnadskontoret att upprätta ny
 detaljplan för del av västra Varla verksamhetsområde, Detaljplanen.
@@ -6584,7 +6584,7 @@ detaljplan för del av västra Varla verksamhetsområde, Detaljplanen.
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-1.3 — EttPrincipavtal (KS 2021-01-19, $12), Principavtalet, har tecknats mellan
+1.3 — EttPrincipavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -6746,7 +6746,7 @@ förbindelsepunkt motsvarar + 60 meter. I de fall högre vattentryck önskas få
 
 9.5
 
-10.
+10\.
 
 10.1
 
@@ -6809,9 +6809,9 @@ bräddfunktion vid fullt magasin.
 
 <!-- sida 167 -->
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
@@ -6886,7 +6886,7 @@ egendom som har sin grund i Exploatörens arbeten eller verksamhet enligt detta 
 
 <!-- sida 168 -->
 
-13.
+13\.
 
 13.1
 
@@ -6900,7 +6900,7 @@ egendom som har sin grund i Exploatörens arbeten eller verksamhet enligt detta 
 
 13.6
 
-14.
+14\.
 
 14.1
 
@@ -6963,13 +6963,13 @@ sidor. Inom del av Kabelgatan, intill Varla 6:22, ska gångbanan breddas för at
 
 <!-- sida 169 -->
 
-15.
+15\.
 
 15.1
 
 152
 
-16.
+16\.
 
 16.1
 
@@ -7030,7 +7030,7 @@ ska ske.
 
 16.2
 
-17.
+17\.
 
 17.1
 
@@ -7038,7 +7038,7 @@ ska ske.
 
 17.3
 
-18.
+18\.
 
 18.1
 
@@ -7093,25 +7093,25 @@ plats inom Planområdet och Exploateringsområdet.
 
 <!-- sida 171 -->
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
 22.2
 
-23.
+23\.
 
 23.1
 
@@ -7167,7 +7167,7 @@ iordningställande av allmän plats, enligt avsnitt 17.
 
 <!-- sida 172 -->
 
-24.
+24\.
 
 24.1
 
@@ -7179,15 +7179,15 @@ iordningställande av allmän plats, enligt avsnitt 17.
 
 25.3
 
-26.
+26\.
 
 26.1
 
-27.
+27\.
 
 27.1
 
-28.
+28\.
 
 28.1
 
@@ -7249,11 +7249,11 @@ Fastigheten samt vem som förvärvar Fastigheten och den nya ägarens tillträde
 
 <!-- sida 173 -->
 
-29.
+29\.
 
 29.1
 
-30.
+30\.
 
 30.1
 
@@ -7279,7 +7279,7 @@ detta avtal ska avgöras av allmän domstol.
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
-Kungsbacka den 2023-72 —Z/$
+Kungsbacka den 2023-72 —Z/\$
 för FHDY Fastigheter i Kungsbacka Kommanditbolag
 
 Namnteckning
@@ -7375,10 +7375,10 @@ och näringslivsdepartementets remiss av promemorian Uppgifter om medelstora
 förbränningsanläggningar. Promemorian innehåller förslag om ändringar i
 förordningen (2018:471) om medelstora förbränningsanläggningar som innebär
 
-1. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst
+1\. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst
 slopas,
 
-2. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
+2\. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
 Följden av den föreslagna lagändringen blir att kommunen i sin roll som
 tillsynsmyndighet själv får avgöra hur information till myndigheten kan lämnas.
 
@@ -7417,9 +7417,9 @@ Kungsbacka kommun har fått möjlighet att lämna synpunkter på förslagen i Kl
 näringslivsdepartementets remiss av promemorian Uppgifter om medelstora förbränningsanläggningar.
 Promemorian innehåller förslag om ändringar i förordningen (2018:471) om medelstora
 förbränningsanläggningar som innebär
-1. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst slopas,
+1\. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst slopas,
 
-2. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
+2\. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
 Följden av den föreslagna lagändringen blir att kommunen i sin roll som tillsynsmyndighet själv får
 
 avgöra hur information till myndigheten kan lämnas.
@@ -7456,9 +7456,9 @@ KUNGSBACKA  KOMMUN
 Promemorian innehåller förslag om ändringar i förordningen (2018:471) om medelstora
 
 förbränningsanläggningar som innebär:
-1. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst slopas,
+1\. att kraven på att information till tillsynsmyndigheten ska lämnas i en e-tjänst slopas,
 
-2. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
+2\. att säkerhetsskyddsklassificerade uppgifter inte får offentliggöras.
 Förslagen utesluter inte att man använder en e-tjänst så länge denna kan hantera
 säkerhetsskyddsklassificerad information. Kommunstyrelsens förvaltning har i samråd med
 förvaltningen Bygg och Miljö bedömt att de föreslagna ändringarna inte innebär några negativa
@@ -7789,10 +7789,10 @@ phishing-attack. Det innebar att kommunens medarbetare mottog ett e-postmeddelan
 de uppmanades att klicka på en länk och lämna ut användarinformation. Granskningen
 utformades och utfördes av EY tillsammans med representanter från Kungsbacka kommun.
 Resultaten kan delas upp i tre områden:
-1) Mottagare som klickat på länken i e-postmeddelandet
-2) Mottagare som uppgav användarinformation på landningssidan, dvs den sida de kom
+1\) Mottagare som klickat på länken i e-postmeddelandet
+2\) Mottagare som uppgav användarinformation på landningssidan, dvs den sida de kom
 till när de klickat på länken
-3) Mottagares medvetenhet kring informationssäkerhet och phishing. Dessa områden
+3\) Mottagares medvetenhet kring informationssäkerhet och phishing. Dessa områden
 jämfördes därefter mot på förhand definierade acceptansnivåer och med vad EY
 anser är en godtagbar standard i offentlig sektor.
 
@@ -7830,7 +7830,7 @@ Sammanfattning                                                1
 
 Innehållsförteckning                                          2
 
-1. Bakgrund och inledning                                     3
+1\. Bakgrund och inledning                                     3
 
 1.1  Phishing                                                3
 1.2  Syfte och revisionsfrågor                               3
@@ -7838,14 +7838,14 @@ Innehållsförteckning                                          2
 
 1.4  Metod och genomförande                                  4
 
-2. Iakttagelser och analys                                    8
+2\. Iakttagelser och analys                                    8
 2.1  Mottagare som klickade på länken i e-postmeddelandet    8
 2.2  Mottagare som uppgav användarinformation på landningssida 10
 
 2.3  Mottagares medvetenhet kring informationssäkerhet och phishing 12
 2.4  Kontinuitetsplanering och krisberedskap                18
 
-3. Övergripande rekommendationer                             19
+3\. Övergripande rekommendationer                             19
 3.1  Kontinuerliga och anpassade utbildningsinsatser för informationssäkerhet 19
 
 3.2  Teoretiska och praktiska övningar inom phishing        20
@@ -7853,7 +7853,7 @@ Innehållsförteckning                                          2
 
 3.4  Kontinuitetsplanering                                  21
 
-4. Samlad bedömning                                          23
+4\. Samlad bedömning                                          23
 4.1  Bedömning utifrån revisionsfrågorna                    23
 4.2  Slutsatser och rekommendationer                        25
 
@@ -7873,7 +7873,7 @@ Bilaga 6: Definitioner                                       34
 
 <!-- sida 195 -->
 
-1.   Bakgrund  och inledning
+1\.   Bakgrund  och inledning
 
 Offentlig sektor behandlar stora mängder digital information. Detta skapar många nya
 möjligheter i form av effektivare förvaltning, uppföljning och utökad service till medborgare,
@@ -7909,10 +7909,10 @@ En fullbordad phishing-attack kan innebära stora konsekvenser för en organisat
 finansiellt och socialt, till exempel genom ett försämrat anseende och rykte. Det är därmed
 viktigt att vara proaktiv och bekämpa det ökade hotet av phishing. Risken för en fullbordad
 phishing-attack minskas om medarbetare inom en organisation är:
--  Medvetna om hotet av phishing
--  Har kunskapen att kunna identifiera indikationer av ett falskt e-postmeddelande med
+\-  Medvetna om hotet av phishing
+\-  Har kunskapen att kunna identifiera indikationer av ett falskt e-postmeddelande med
 fientligt uppsåt
--  Har en tydlig rapporteringsväg att följa för att rapportera eventuellt misstänkta e-
+\-  Har en tydlig rapporteringsväg att följa för att rapportera eventuellt misstänkta e-
 postmeddelanden.
 Att kontinuerligt genomföra medvetenhetsträning inom informationssäkerhet för att
 
@@ -8095,14 +8095,14 @@ specifika procentandelar, se bilaga 4.
 
 <!-- sida 200 -->
 
-2.   Iakttagelser och analys
+2\.   Iakttagelser och analys
 
 I detta kapitel analyseras resultatet av den simulerade attack som EY gemensamt med
 Kungsbacka kommun har genomfört. Analysen presenteras i tre delar baserat på tre
 huvudområden:
-1. Mottagare som klickat på länken i e-postmeddelandet,
-2. Mottagare som uppgav användarinformation på landningssidan, samt
-3. Mottagares medvetenhet kring informationssäkerhet och phishing.
+1\. Mottagare som klickat på länken i e-postmeddelandet,
+2\. Mottagare som uppgav användarinformation på landningssidan, samt
+3\. Mottagares medvetenhet kring informationssäkerhet och phishing.
 
 2.1  Mottagare som klickade på länken i e-postmeddelandet
 I följande avsnitt presenteras andelen mottagare som klickade på länken i e-
@@ -8233,7 +8233,7 @@ Tabell 3: Acceptansnivåer för andelen mottagare som uppger användarinformatio
 E-postmeddelandet skickades till 2000 av Kungsbacka kommunens medarbetare. Totalt 221
 av dessa mottagare klickade på länken i e-postmeddelandet samt uppgav
 användarinformation på landningssidan, motsvarande 11 procent av alla mottagare, se figur
-5.
+5\.
 
 I relation till acceptansnivåerna presenterade i tabell 3, löper därmed kommunen en mycket
 hög risk för att utsättas för en phishing-attack. EY vill även betona att det vid en verklig
@@ -8317,7 +8317,7 @@ kommunen via någon av rapporteringsvägarna. Avsnittet presenterar även result
 enkät som distribuerades efter avslutad simulering. Syftet med enkäten var att skapa en
 övergripande förståelse för hur medvetna medarbetarna inom kommunen är kring
 informationssäkerhet och phishing. Enkäten inkluderade frågor inom följande två områden:
-1) E-postmeddelandet som användes i övningen och vanliga indikatorer på phishing, 2)
+1\) E-postmeddelandet som användes i övningen och vanliga indikatorer på phishing, 2)
 Säkerhetskulturen i form av utbildning och medvetenhet, styrande dokument och
 rapportering av säkerhetsincidenter.
 
@@ -8574,7 +8574,7 @@ kontinuitetsplanerna.
 
 <!-- sida 211 -->
 
-3.   Övergripande  rekommendationer
+3\.   Övergripande  rekommendationer
 
 Baserat på genomförd analys bedömer EY att Kungsbacka kommun ligger på en nivå under
 det EY anser att man kan förvänta sig av en kommun i denna storlek och karaktär.
@@ -8747,7 +8747,7 @@ ansvarig för att se över rutinen och genomföra eventuella revideringar.
 
 <!-- sida 215 -->
 
-4.   Samlad  bedömning
+4\.   Samlad  bedömning
 
 Granskningen har utgått från tre revisionsfrågor. Hur väl Kungsbacka kommun uppfyller
 dessa revisionsfrågor beskrivs nedan. Vidare presenteras granskningens slutsatser och
@@ -8986,7 +8986,7 @@ Bilaga 5: Enkätfrågor
 
 Frågor om e-postmeddelandet
 
-1. När insåg du att det här e-postmeddelandet var "phishing"?
+1\. När insåg du att det här e-postmeddelandet var "phishing"?
 •  När jag såg e-postmeddelandet
 •  När jag klickat på länken och skickades till landningssidan
 •  När jag hade lämnat mina uppgifter och såg informationen om övningen
@@ -8994,14 +8994,14 @@ Frågor om e-postmeddelandet
 kollega eller chef
 •  Annat - Beskriv
 
-2. Om du klickade på länken, vad var anledningen till att du gjorde detta?
+2\. Om du klickade på länken, vad var anledningen till att du gjorde detta?
 •  Jag tycker att e-postmeddelandet såg trovärdigt ut
 •  Jag kände mig stressad att agera
 •  Jag klickade inte på länken
 
 •  Annat – Beskriv
 
-3. Rapporterade du e-postmeddelandet?
+3\. Rapporterade du e-postmeddelandet?
 •  Ja, jag rapporterade till Helpdesk
 •  Ja, jag rapporterade till min chef
 •  Nej, men jag kontaktade avsändaren av e-postmeddelandet
@@ -9012,7 +9012,7 @@ kollega eller chef
 rapportera det
 •  Annat – Beskriv
 
-4. Tycker du att detta var en nyttig övning för att stärka Kungsbacka kommuns
+4\. Tycker du att detta var en nyttig övning för att stärka Kungsbacka kommuns
 motståndskraft mot externa hot så som phishing attacker?
 • Ja, jag tycker denna typ av övning är nyttig
 • Nej, jag tycker inte att detta var en nyttig övning
@@ -9020,14 +9020,14 @@ motståndskraft mot externa hot så som phishing attacker?
 
 Frågor om säkerhetskulturen
 Frågorna om säkerhetskultur delas upp i tre underområden: 1) Utbildning och medvetenhet,
-2) Policy och riktlinjer, samt 3) Rapportering. Följande frågor besvaras på en skala enligt
+2\) Policy och riktlinjer, samt 3) Rapportering. Följande frågor besvaras på en skala enligt
 nedan:
 
-1. Instämmer helt
-2. Instämmer inte helt
-3. Varken eller
-4. Instämmer delvis
-5. Instämmer inte alls.
+1\. Instämmer helt
+2\. Instämmer inte helt
+3\. Varken eller
+4\. Instämmer delvis
+5\. Instämmer inte alls.
 
 Utbildning och medvetenhet
 •  Jag får tillräcklig utbildning i informationssäkerhet relaterad till min roll inom
@@ -9301,7 +9301,7 @@ HALLANDS LÄN
 Bildande av Särö Nordanskogs naturreservat i Kungsbacka
 kommun.
 
-+ = brett
+\+ = brett
 . Särö Nordanskogs
 
 naturreservat
@@ -9317,7 +9317,7 @@ rr NK
 
 Beslut
 
-Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 $ miljöbalken (MB) att
+Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 \$ miljöbalken (MB) att
 förklara det område som avgränsas av blå heldragen linje på ovanstående karta som
 naturreservat, med syfte, skäl och föreskrifter enligt nedan.
 
@@ -9399,7 +9399,7 @@ träd med höga bevarandevärden.
 
 Föreskrifter
 
-A. Med stöd av 7 kap. 5 $ MB, om inskränkningar i rätten att använda mark- och
+A. Med stöd av 7 kap. 5 \$ MB, om inskränkningar i rätten att använda mark- och
 vattenområden inom reservat, är det utöver vad som annars gäller förbjudet att inom
 området:
 
@@ -9415,37 +9415,37 @@ dika, dimma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 
 hydrologi. Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike
 
-enligt bestämmelserna i 11 kap. 17 $ miljöbalken under förutsättning att diket är
+enligt bestämmelserna i 11 kap. 17 \$ miljöbalken under förutsättning att diket är
 
 lagligt anlagt,
 
-6. anordna upplag, tippa eller fylla ut,
+6\. anordna upplag, tippa eller fylla ut,
 
 kalka, gödsla eller sprida bekämpningsmedel,
 
-8. bedriva skogsbruk eller i annat syfte avverka, gallra, röja, föryngra skog eller på
+8\. bedriva skogsbruk eller i annat syfte avverka, gallra, röja, föryngra skog eller på
 annat sätt påverka vegetationen,
 
-9. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
+9\. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
 
-10. inplantera för området främmande arter,
+10\. inplantera för området främmande arter,
 
-11. framföra motordrivet fordon annat än på bilväg,
+11\. framföra motordrivet fordon annat än på bilväg,
 
-12. sätta upp tavla, affisch, skylt eller göra inskrift,
+12\. sätta upp tavla, affisch, skylt eller göra inskrift,
 
-13. utfodra vilt och använda åtel, samt
+13\. utfodra vilt och använda åtel, samt
 
-14. bedriva jakt.
+14\. bedriva jakt.
 
 ARR Rr
 
 Sr
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
-15. anordna lägerverksamhet, tävlingar eller andra arrangemang, samt att
+15\. anordna lägerverksamhet, tävlingar eller andra arrangemang, samt att
 
-16. utföra undersökningar som innebär markering, insamling, fångst eller annan
+16\. utföra undersökningar som innebär markering, insamling, fångst eller annan
 påverkan på naturmiljön. Detta krav om tillstånd gäller dock inte vid
 insamling och dödande av ryggradslösa djur om insamlingen krävs för att en
 säker artbestämning ska kunna ske, den görs manuellt genom plockning,
@@ -9528,14 +9528,14 @@ LÄNSSTYRELSEN Förslag till beslut 6 (12)
 
 2023-10-13 511-2413-16
 
-B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 $ MB ägare
+B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 \$ MB ägare
 och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området enligt
 
 följande:
 
 I:
 
-2.
+2\.
 
 utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 anläggning och underhåll av friluftslivsanordningar exempelvis markerade stigar
@@ -9559,11 +9559,11 @@ långsiktig överlevnad i länet samt
 undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
-C. Med stöd av 7 kap. 30 $ MB, om rätten att färdas och vistas i reservat är det
+C. Med stöd av 7 kap. 30 \$ MB, om rätten att färdas och vistas i reservat är det
 utöver vad som annars gäller förbjudet att:
 
 I.
-2.
+2\.
 
 NAMNBPW
 
@@ -9584,8 +9584,8 @@ elda.
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
 
-8. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-9.
+8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+9\.
 
 inplantera för området främmande arter samt att
 utföra undersökningar som innebär markering, insamling, fångst eller annan
@@ -9621,7 +9621,7 @@ C-föreskrifterna gäller för allmänheten. Föreskrifterna riktar sig även ti
 och andra med särskild rätt till fastigheten då dessa utövar aktivitet som inte är knutet
 till dessa rättigheter.
 
-Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 $ miljöbalken (C-
+Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 \$ miljöbalken (C-
 föreskrifterna) träder i kraft tre veckor efter beslutet publiceras oavsett om beslutet
 överklagas.
 
@@ -9642,7 +9642,7 @@ Länsstyrelsen erinrar även om att andra lagar, förordningar och föreskrifter
 reservatsföreskrifterna gäller för området. Av särskild betydelse för syftet med
 reservatet, eller som ett komplement till föreskrifterna är bland andra:
 
-16 $ lag (2007:1150) om tillsyn över hundar och katter
+16 \$ lag (2007:1150) om tillsyn över hundar och katter
 
 <!-- sida 239 -->
 
@@ -9655,13 +9655,13 @@ hindras från att springa lösa i marker där det finns vilt. Under den övriga 
 skall hundar hållas under sådan tillsyn att de hindras från att driva eller förfölja vilt,
 när de inte används vid jakt.
 
-2 kap. 1, 6-8 $$ kulturmiljölagen (1988:950), fornlämningar
+2 kap. 1, 6-8 \$\$ kulturmiljölagen (1988:950), fornlämningar
 
 De fornlämningar som återfinns inom reservatet är skyddade enligt lag. Det är
 förbjudet att utan tillstånd rubba, ta bort, gräva ut, täcka över eller genom
 bebyggelse, plantering eller på annat sätt ändra eller skada en fornlämning.
 Riksantikvarieämbetet och Länsstyrelsen får vidta de åtgärder som behövs för att
-skydda, vårda och undersöka en fornlämning. 7 kap. 13-18h $$ miljöbalken,
+skydda, vårda och undersöka en fornlämning. 7 kap. 13-18h \$\$ miljöbalken,
 strandskyddsbestämmelser
 
 Strandskyddsområde berör de delar av reservatet som ligger inom 300 meter från
@@ -9670,14 +9670,14 @@ allmänhetens friluftsliv samt att bevara goda livsvillkor på land och i vatten
 och växtlivet. Åtgärder som kan skada eller motverka syftet med strandskyddet är
 förbjudna.
 
-4-9 $$ artskyddsförordningen (2007:845), fridlysta arter
+4-9 \$\$ artskyddsförordningen (2007:845), fridlysta arter
 
 Många arter är fridlysta. Det innebär att djuren och växterna inte får skadas eller
 störas, och i många fall även att fortplantningsområden och viloplatser är skyddade.
 Alla fåglar, groddjur, kräldjur, fladdermöss samt orkidéer är fridlysta, och dessutom
 ett urval av andra organismer.
 
-12 kap. 6$ miljöbalken
+12 kap. 6\$ miljöbalken
 
 För verksamheter och åtgärder som kan ändra naturmiljön väsentligt krävs samråd
 med Länsstyrelsen, i de fall verksamheten eller åtgärden inte omfattas av
@@ -9834,7 +9834,7 @@ och ”Hav i balans och levande kust och skärgård”.
 Beslutets förenlighet med riksintressen, planer och områdesbestämmelser
 
 Särö Nordanskog är angivet som riksintresse för naturvård, friluftsliv och kultur-
-miljövård (MB 3 kap.6 $), samt rörligt friluftsliv (MB 4 kap. 2$). Reservatsbeslutet
+miljövård (MB 3 kap.6 \$), samt rörligt friluftsliv (MB 4 kap. 2\$). Reservatsbeslutet
 är förenligt med hushållningsbestämmelserna i 3 och 4 kap. MB.
 
 Reservatsområdet ingår i den kommunala byggnadsplanen för Särön (S88, 1983) där
@@ -9853,7 +9853,7 @@ lämplig användning av mark- och vattenresurser samt med den för området gäl
 
 Intresseprövning
 
-Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 $ miljöbalken, att
+Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 \$ miljöbalken, att
 avgränsningen av området, reservatets omfång och föreskrifternas utformning i detta
 beslut innebär en rimlig balans mellan de värden som skall skyddas och det intrång
 detta innebär för enskilds rätt att använda mark och vatten.
@@ -9908,7 +9908,7 @@ prioritering av åtgärderna gjorts.
 
 <!-- sida 248 -->
 
-1. Syfte med säkerställande och skötsel
+1\. Syfte med säkerställande och skötsel
 
 Syftet med naturreservatet är att bevara biologisk mångfald, att vårda och bevara värdefulla
 naturmiljöer. Ek- och tallskogen, samt arter kopplade till den ska gynnas i naturreservatet.
@@ -9949,7 +9949,7 @@ skötseln av reservatet.
 
 <!-- sida 249 -->
 
-2. Beskrivning av området
+2\. Beskrivning av området
 
 2.1 Markslag, naturtyper och arter
 
@@ -10088,7 +10088,7 @@ vägsamfällighet styckades av. Planen fullföljdes dock ej. I samband med antag
 byggnadsplan från 1976 för området gavs berörda fastighetsägare möjlighet att exploatera
 delar av planområdet för ny bebyggelse, som motprestation avsattes parkmark utan
 ersättning vilket innebär att alla förväntningsvärden för reservatsområdet är utsläckta sedan
-1976. Ett utökat strandskydd inbegriper delar av reservatsområdet. Idag är Nordanskog ett
+1976\. Ett utökat strandskydd inbegriper delar av reservatsområdet. Idag är Nordanskog ett
 populärt promenadområde för Särös lokalbefolkning i synnerhet. Skogen är genomkorsad
 av flertalet stigar. En mobilmast finns anlagd i områdets södra del.
 
@@ -10174,7 +10174,7 @@ Malmström, C. 1939. Hallands skogar under de 300 senaste åren. Meddelande frå
 Skogsförsöksanstalt volym 31, sidorna 171 - 300.
 
 Naturvårdsverket 2018. NV Nationell Marktäckedata (NMD) (WMS-tjänst) Rev. 2020-08-
-27. https://geodata.naturvardsverket.se/NMD2018/wms.
+27\. https://geodata.naturvardsverket.se/NMD2018/wms.
 
 Nielsen, O. 1873. Valdemar Den Andens Jordebog. G.E.C. Gads Forlag.
 
@@ -10184,8 +10184,8 @@ och Släps socken. Göteborg. 163 s. II. prtr. Kart.
 ! ra 5 :
 Vd KM Y p
 
-- ME ce
->
+\- ME ce
+\>
 k | j
 
 Figur 4 Arter som har hittats inom reservatet: Kattuggla, ädelkronlav & tallticka. Foto: Patrik Olofsson, Viveka Strand,
@@ -10193,7 +10193,7 @@ Jonas Sundell
 
 <!-- sida 255 -->
 
-3. Skötsel av området
+3\. Skötsel av området
 
 3.1. Generella riktlinjer
 
@@ -10316,7 +10316,7 @@ Figur 5 Miljöer i Särö Nordanskog. Foto: Jonas Sundell.
 
 <!-- sida 258 -->
 
-4. Friluftsliv och turism
+4\. Friluftsliv och turism
 
 Beskrivning
 
@@ -10353,13 +10353,13 @@ förvaltarens bedömning hållas öppna.
 
 o Minnesstenen hålls framröjd och underhållen.
 
-5. Tillsyn, dokumentation och uppföljning
+5\. Tillsyn, dokumentation och uppföljning
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs. Uppföljningen ska
 ske enligt de manualer för skyddade områden som har tagits fram av Naturvårdsverket.
 Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. Sammanfattning och prioritering av
+6\. Sammanfattning och prioritering av
 planerade skötselåtgärder
 
 Skötselåtgärd När Skötselområde Prioritet Finansiering
@@ -10475,7 +10475,7 @@ Ask Fraxinus excelsior | Kärlväxter | 2008
 Kraterorangelav Caloplaca Lavar 2022
 ulcerosa
 Stiftkvistlav Fellhaneropsis Lavar 2022
-- vezdae
+\- vezdae
 Adellav Megalaria grossa | Lavar 1999
 Sårbar (VU)
 Hussvala Delichon urbicum Fåglar Par i lämplig
@@ -10767,7 +10767,7 @@ I Stagvägen 3
 412 49 Göteborg
 
 | Helmerson, Elin Beata Louise
- Leifsdotter
+Leifsdotter
 
 | Rörstrandsgatan 33 B lgh 1101
 113 41 Stockholm
@@ -10781,7 +10781,7 @@ Broms, Gustaf Axel Stigsson
 | 114 57 Stockholm
 
 | Broms, Ragnhild Cecile Stigsdotter |
- Starrängsringen 16 lgh 1401
+Starrängsringen 16 lgh 1401
 115 50 Stockholm
 
 Broms, Ingrid Margareta Stigsdotter |
@@ -10901,7 +10901,7 @@ Samma som Särö 1:108
 
 | Samma som Särö 1:108
 
-- | Gerhard Almgren Byggnads AB a
+\- | Gerhard Almgren Byggnads AB a
 
 Kyrkogatan 4
 
@@ -10927,7 +10927,7 @@ a 429 43 Särö
 | Säröhusv 12
 bo 429 43 Särö
 ' Särö 1:483 | Neumann, Mats Gerhard
- Drottningvägen 11
+Drottningvägen 11
 1429 43 Särö
 
 ' Neumann, Lena Kristina
@@ -11052,7 +11052,7 @@ oa 1 429 43 Särö
 ee | 429 43 Särö
 | Särö 1:86 ' Säröhus Hotell & Restaurang AB
 | . Säröhusv 12
-- 1429 43 Särö
+\- 1429 43 Särö
 | Särö 1:88 | Säröhus Hotell & Restaurang AB
 ; ' Säröhusv 12
 429 43 Särö
@@ -11062,7 +11062,7 @@ Särö s:2 Säröns Samfällighetsförening
 (Kungsbacka)
 | C/O Axel Broms
 Riddargatan 45
-- | 114 57 Stockholm
+\- | 114 57 Stockholm
 | Övrigt
 | Beteckning | Ägare/innehavare, adress | Ändamål =
 | 13-SLÄ-1528.1 | Utrymme oo
@@ -11093,7 +11093,7 @@ Till förmån för
 LANTMÄTERIET
 
 Lu
-|
+\|
 
 <!-- sida 278 -->
 
@@ -11113,7 +11113,7 @@ Särö 1:505
 | Till förmån för
 Särö 1:400
 
-|
+\|
 
 ' Belastar
 
@@ -11122,7 +11122,7 @@ Särö 1:400
 (P2 44SärR
 
 LANTMÄTERIET
-- sh saa ne VR artnr sne
+\- sh saa ne VR artnr sne
 
 2022-07-01
 
@@ -11204,14 +11204,14 @@ Särö 1:401
 Övrigt
 
 Beteckning
- 13-SLÄ-496
+13-SLÄ-496
 
 I Till förmån för
 Särö 1:402 oo
 'Belastar =
 Särös2
 
-|
+\|
 
 | Övrigt
 
@@ -11244,7 +11244,7 @@ i C/O Axel Broms
 : Box 10173
 i 434 22 Kungsbacka |
 
- Säröns Samfällighetsförening
+Säröns Samfällighetsförening
 | (Kungsbacka)
 : C/O Axel Broms
 Riddargatan 45
@@ -11255,7 +11255,7 @@ Riddargatan 45
 
 Staten Naturvårdsverket
 
- Säröns Samfällighetsförening
+Säröns Samfällighetsförening
 (Kungsbacka)
 
 | C/O Axel Broms
@@ -11306,14 +11306,14 @@ I
 
 ' Belastar
 | Särö s:2
-|
+\|
 
-|
+\|
 
 I
 
 i
-=
+\=
 
 CM
 | 13-SLÄ-2590
@@ -11416,7 +11416,7 @@ I
 i
 I
 
- Belastar
+Belastar
 
 Särö s:2
 
@@ -11427,15 +11427,15 @@ Beteckning —
 Till förmån för
 
 I
-|
-|
+\|
+\|
 
 I Belastar
 | Särö 1:273
-|
+\|
 
 Övrigt
-|
+\|
 
 Beteckning
 
@@ -11636,12 +11636,12 @@ inom den statliga förvaltningen till arbete utanför staten.
 
 De förslagna förändringarna är tänkta att omfatta en bredare grupp av
 tjänstepersoner. Det kan inkludera:
-- Högre tjänstepersoner, som har haft betydande beslutsbefogenheter eller tillgång
+\- Högre tjänstepersoner, som har haft betydande beslutsbefogenheter eller tillgång
 till känslig information.
 
-- Specialister: Experter och rådgivare som kan ha unik kunskap som är värdefull
+\- Specialister: Experter och rådgivare som kan ha unik kunskap som är värdefull
 för privata intressen.
-- Politiskt tillsatta tjänstemän, som har utsetts till sina positioner och kan ha
+\- Politiskt tillsatta tjänstemän, som har utsetts till sina positioner och kan ha
 
 inflytande över politiska beslut.
 Förslagen syftar till att säkerställa att övergången från offentlig till privat sektor sker
@@ -11923,10 +11923,10 @@ starkt förtroende för de offentliga institutionerna. Ingreppet i den enskildes
 anställning bedömer kommunen därför som proportionerligt.
 Kungsbacka kommun har dock ett antal synpunkter som rör:
 
--  att kommuner, regioner och kommunalförbund själva får avgöra om lagstiftningen ska
+\-  att kommuner, regioner och kommunalförbund själva får avgöra om lagstiftningen ska
 tillämpas eller inte
 
--  att förtroendevalda i kommuner, regioner och kommunalförbund inte föreslås omfattas av
+\-  att förtroendevalda i kommuner, regioner och kommunalförbund inte föreslås omfattas av
 regleringen.
 
 Avsnitt 9.2.4. Förtroendeuppdrag kan innebära risk för intressekonflikt
@@ -12489,7 +12489,7 @@ Riktlinjer för ett långt och gott arbetsliv, antagna av kommunfullmäktige 202
 Sammanfattning av ärendet
 
 Kommunfullmäktige antog Riktlinjer för ett långt och gott arbetsliv 8 december
-2020. Riktlinjerna utgick från då gällande tjänstepensionsavtal.
+2020\. Riktlinjerna utgick från då gällande tjänstepensionsavtal.
 Med anledning av att ett nytt tjänstepensionsavtal har förhandlats fram mellan SKR
 och de fackliga organisationerna behöver de delar av kommunens Riktlinjer för ett
 långt och gott arbetsliv som innehåller ekonomiska åtgärder justeras för att följa
@@ -12742,12 +12742,12 @@ Kungsbacka kommun         Riktlinjer för ett långt och gott arbetsliv 2 (4)
 
 <!-- sida 317 -->
 
-1. Dubblerad insättning till tjänstepension
+1\. Dubblerad insättning till tjänstepension
 Dubblerad insättningen till tjänstepensionen för arbetad tid från 65 års ålder för
 samtliga tillsvidareanställda och visstidsanställda (100/100/200, 80/80/160 etc.). För
 timanställda gäller möjligheten fram till dess medarbetaren fyller 67 år.
 
-2. Nedsatt tjänstgöringsgrad med delvis bibehållna förmåner
+2\. Nedsatt tjänstgöringsgrad med delvis bibehållna förmåner
 Möjligheten för tillsvidareanställda över 63 år till och med 67 år att få arbeta 80% av
 sin anställning, få lön för 80% och avsättning till tjänstepension för 100%
 (80/80/100). Detta gäller för medarbetare med lön upp till 7,5 inkomstbasbelopp.
@@ -12759,17 +12759,17 @@ arbetstidsminskning. Detta gäller både för medarbetare som arbetar heltid och
 medarbetare som arbetar deltid. Åtgärden är kopplad till sysselsättningsgrad och är
 tillgänglig för alla medarbetare med månadsanställning i Kungsbacka kommun.
 
-3. Gratis hälsoundersökning
+3\. Gratis hälsoundersökning
 
 Gratis hälsoundersökning till alla medarbetare som väljer att fortsätta arbeta kvar i
 minst 6 månader med sysselsättningsgrad på minst 50%, efter 65 års ålder. 66 års
 ålder, eller som har uppnått gällande riktålder.
 
-4. Pensionsinformation
+4\. Pensionsinformation
 
 Kungsbacka kommun erbjuder information om pension både individuellt och i grupp.
 
-5. Lön som premie
+5\. Lön som premie
 
 För den som fortsätter att arbeta heltid från det år de fyller 66 år kan en extra lön på
 3000 kronor att betalas ut per månad. Medarbetare som väljer att arbeta halvtid får
@@ -12780,35 +12780,35 @@ månadslön som fortsätter att arbeta heltid från det år personen fyller 67 �
 personen har uppnått gällande riktålder. Summan reduceras i förhållande till
 medarbetarens sysselsättningsgrad.
 
-6. Andra åtgärder
+6\. Andra åtgärder
 En överenskommelse innebär alltid att gällande regler enligt lagar, avtal och andra
 beslut, ska följas. Åtgärderna förutsätter samordning med HR, samarbete mellan
 verksamheter och kanske även mellan förvaltningar när så är aktuellt. Alla åtgärder
 
 ska vara av rimlig omfattning och dokumenteras
-- Så långt det är möjligt tillmötesgå önskemål om:
+\- Så långt det är möjligt tillmötesgå önskemål om:
 
-- att arbeta deltid
-- hur arbetstiden ska förläggas
+\- att arbeta deltid
+\- hur arbetstiden ska förläggas
 
-- att arbeta del av år
-- flexibel sysselsättningsgrad.
+\- att arbeta del av år
+\- flexibel sysselsättningsgrad.
 
 Kungsbacka kommun         Riktlinjer för ett långt och gott arbetsliv 3 (4)
 
 <!-- sida 318 -->
 
-- Arbete på distans när det är lämpligt med hänvisning till arbetets art.
-- Se över möjligheten att låta de medarbetare som önskar bli frikopplade från
+\- Arbete på distans när det är lämpligt med hänvisning till arbetets art.
+\- Se över möjligheten att låta de medarbetare som önskar bli frikopplade från
 ordinarie arbetsuppgifter deltid för att vara mentor /handledare /rådgivare till
 någon yngre eller mer oerfaren kollega.
 
-- Undersöka möjligheten för medarbetare som önskar att helt eller delvis få prova
+\- Undersöka möjligheten för medarbetare som önskar att helt eller delvis få prova
 på andra arbetsuppgifter eller något annat yrke inom Kungsbacka kommun.
-- Anpassad/individuell kompetensutveckling.
+\- Anpassad/individuell kompetensutveckling.
 
-- Möjlighet till friskvård på arbetstid i viss omfattning.
-- Löneväxling
+\- Möjlighet till friskvård på arbetstid i viss omfattning.
+\- Löneväxling
 
 Kungsbacka kommun         Riktlinjer för ett långt och gott arbetsliv 4 (4)
 
@@ -12924,11 +12924,11 @@ För den som fortsätter att arbeta heltid från det år de fyller 66 år kan en
 betalas ut per månad. Medarbetare som väljer att arbeta halvtid får halva summan.
 
 • Så långt det är möjligt tillmötesgå önskemål om:
-- att arbeta deltid
+\- att arbeta deltid
 
-- hur arbetstiden ska förläggas
-- att arbeta del av år
-- flexibel sysselsättningsgrad.
+\- hur arbetstiden ska förläggas
+\- att arbeta del av år
+\- flexibel sysselsättningsgrad.
 
 • Arbete på distans när det är lämpligt med hänvisning till arbetets art.
 
@@ -13069,15 +13069,15 @@ förhållandet mellan kommunen som arbetsgivare och dess arbetstagare, det vill 
 Personalföreträdarna har rätt att delta i nämndens överläggningar men inte i besluten. Nämnden får i
 enskilda fall också besluta att personalföreträdarna får närvara vid behandlingen av andra ärenden.
 Personalföreträdarna har dock inte rätt att närvara vid handläggning av följande ärenden:
-1. Myndighetsutövning mot någon enskild, såvida inte ärendet rör en obestämd krets av enskilda
+1\. Myndighetsutövning mot någon enskild, såvida inte ärendet rör en obestämd krets av enskilda
 
-2. Förhandlingar med en arbetstagarorganisation
-3. Uppsägningar av kollektivavtal
+2\. Förhandlingar med en arbetstagarorganisation
+3\. Uppsägningar av kollektivavtal
 
-4. Arbetskonflikter
-5. Rättstvister mellan kommunen eller regionen och en arbetstagarorganisation
+4\. Arbetskonflikter
+5\. Rättstvister mellan kommunen eller regionen och en arbetstagarorganisation
 
-6. Ärenden som avser beställning eller upphandling av varor och tjänster.
+6\. Ärenden som avser beställning eller upphandling av varor och tjänster.
 Den lokala tillämpningen utöver vad som stadgats i lagen handlar om hur personalföreträdaren ersätts
 
 och hur detta hanteras samt hur ersättare kallas vid ordinarie personalföreträdares frånvaro.
@@ -13106,23 +13106,23 @@ nämnder
 Innehåll
 Innehåll .................................................................................................................................................. 1
 
-1. Personalföreträdare i nämnderna .............................................................................................. 2
-2. Personalföreträdarnas närvarorätt............................................................................................ 2
+1\. Personalföreträdare i nämnderna .............................................................................................. 2
+2\. Personalföreträdarnas närvarorätt............................................................................................ 2
 
-3. Personalföreträdarnas befogenheter ........................................................................................ 3
-4. Rätt till information - tystnadsplikt ......................................................................................... 3
+3\. Personalföreträdarnas befogenheter ........................................................................................ 3
+4\. Rätt till information - tystnadsplikt ......................................................................................... 3
 
-5. Hur personalföreträdarna utses ................................................................................................ 3
-6. Jäv ..................................................................................................................................................... 4
-7. Kallelse ............................................................................................................................................. 4
+5\. Hur personalföreträdarna utses ................................................................................................ 3
+6\. Jäv ..................................................................................................................................................... 4
+7\. Kallelse ............................................................................................................................................. 4
 
-8. Ersättning ........................................................................................................................................ 4
+8\. Ersättning ........................................................................................................................................ 4
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 327 -->
 
-1. Personalföreträdare i nämnderna
+1\. Personalföreträdare i nämnderna
 
 Bestämmelserna om närvarorätt för företrädare för de anställda i kommunen finns i kommunallagen 7
 kapitlet 10–19 §§. Grundläggande är att närvarorätten gäller vid sammanträden med alla nämnder förutom
@@ -13131,7 +13131,7 @@ Närvarorätten gäller inte i utskott, revision, förtroendenämnder, valnämnd
 Personalföreträdarna utses av arbetstagarorganisationerna men fungerar som ombud för samtliga
 medarbetare i berörd verksamhet.
 
-2. Personalföreträdarnas närvarorätt
+2\. Personalföreträdarnas närvarorätt
 
 Personalföreträdarna har rätt att närvara vid en nämnds behandling av ärenden som rör förhållandet mellan
 kommunen som arbetsgivare och dess anställa. Vid en bedömning av vad som kan anses vara ett sådant
@@ -13173,13 +13173,13 @@ Riktlinjer för personal företrädare i nämnd Sida 2 av 4
 
 <!-- sida 328 -->
 
-3. Personalföreträdarnas befogenheter
+3\. Personalföreträdarnas befogenheter
 
 Personalföreträdarna har rätt att närvara och yttra sig vid nämndens överläggningar på samma sätt som
 nämndens ledamöter. Däremot har de inte rätt att ställa förslag, delta i besluten eller att få sin mening
 antecknad i protokollet.
 
-4. Rätt till information - tystnadsplikt
+4\. Rätt till information - tystnadsplikt
 Personalföreträdarna har rätt att få den information de behöver för sin verksamhet. Nämnden är skyldig att
 lämna upplysningar till personalföreträdarna, dock ska nämnden iaktta bestämmelserna i offentlighets- och
 sekretesslagen. Tystnadsplikten gäller både anställda och ledamöter.
@@ -13189,7 +13189,7 @@ ledamöter eller anställda. Tystnadsplikten åläggs personalföreträdarna med
 offentlighets- och sekretesslagen. Nämnden ska om den finner att risk för skada, men eller om annan
 olägenhet föreligger ställa upp ett förbehåll enligt denna bestämmelse när uppgifterna lämnas ut.
 
-5. Hur personalföreträdarna utses
+5\. Hur personalföreträdarna utses
 
 Personalföreträdarna utses bland medarbetarna i kommunen, i första hand utses de bland dem som är
 anställda inom nämndens verksamhetsområde. Om arbetstagarorganisationen vill utse en personalföreträdare
@@ -13215,11 +13215,11 @@ Riktlinjer för personal företrädare i nämnd Sida 3 av 4
 
 <!-- sida 329 -->
 
-6. Jäv
+6\. Jäv
 
 Jävsreglerna i kommunallagen gäller även personalföreträdare.
 
-7. Kallelse
+7\. Kallelse
 Personalföreträdare ska kallas till sammanträden på samma sätt som ledamöterna i nämnden. Kallelsen ska
 innehålla tid och plats för sammanträdet samt uppgift om vilka ärenden som ska behandlas. Varje nämnd har
 ansvar för att upprätta rutin för att kalla personalföreträdare.
@@ -13228,7 +13228,7 @@ Ersättare deltar när de ska tjänstgöra i ordinarie personalföreträdare st�
 respektive personalföreträdares ansvar att kalla sin utsedda ersättare och ge dem den information som behövs
 för att delta.
 
-8. Ersättning
+8\. Ersättning
 Personalföreträdarna uppbär lön under den tid de närvarar vid nämndens sammanträde. Eftersom
 sammanträdestiderna är kända lång tid i förväg så läggs de in i personalföreträdarens ordinarie
 arbetstidsschema.
@@ -13559,7 +13559,7 @@ Justerare
 
 Stadshuset 2023-09-1
 
-$ 28-34
+\$ 28-34
 
 <!-- sida 337 -->
 
@@ -13569,7 +13569,7 @@ Sammanträdesdatum
 
 Styrelsesammanträde 2023-09-06
 
-$29
+\$29
 Stadgeändring
 
 Beslut
@@ -13577,7 +13577,7 @@ Beslut
 Förslag på ändring av stiftelsens stadgar skickas till kommunfullmäktige för godkännande.
 
 Sammanfattning
-Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller $3, sista stycket, som
+Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller \$3, sista stycket, som
 
 lyder:
 
@@ -13609,7 +13609,7 @@ Förslag till beslut
 
 Stiftelsen Tjolöholm begär följande ändring av stiftelsens stadgar:
 
--  Att sista meningen i §3 ska utgå: Enligt särskilt avtal mellan Kungsbacka kommun och
+\-  Att sista meningen i §3 ska utgå: Enligt särskilt avtal mellan Kungsbacka kommun och
 Västkuststiftelsen skall Västkuststiftelsen svara för åtgärder för friluftsliv och naturvård
 inom egendomen med årligt bidrag från Västkuststiftelsen.
 
@@ -13684,23 +13684,23 @@ uniForm KUB301 v 1.0, 2005-11-25
 
 Stadgar för Stiftelsen Tjolöholm
 
-Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF $ 187/96 samt
+Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF \$ 187/96 samt
 permutation genom Kammarkollegiets beslut 1997-12-22, dnr 430-6320-97 med
 omprövningsbeslut 1998-02-03, dnr 438-454-98 (lagakraftvunna genom regeringens
 beslut 1998-09-03, Ku98/216/Ka).
 
 Beslut om ändring 2007-08-28. Ändring godkänd av kommunfullmäktige i
-Kungsbacka 2007-06-14, $ 109 samt permutation genom Kammarkollegiets beslut
+Kungsbacka 2007-06-14, \$ 109 samt permutation genom Kammarkollegiets beslut
 2007-12-03, dnr 430-18971-07
 
-$1
+\$1
 
 Stiftelsen, vars benämning (firma) är Stiftelsen Tjolöholm, har till ändamål att äga
 och förvalta Tjolöholms egendom i Kungsbacka kommun och där utveckla för
 Västsverige värdefulla verksamheter inom kulturområdet och för turismen och
 friluftslivet.
 
-$2
+\$2
 
 Stiftelsens huvudman är Kungsbacka kommun.
 
@@ -13711,7 +13711,7 @@ Huvudman för stiftelsen skall tillskjuta för stiftelsens verksamhet erforderli
 
 Stiftelsekapitalet uppgår till 10,5 miljoner kronor, varav Kungsbacka kommun har
 tillskjutit 8,5 miljoner kronor och Västkuststiftelsen 2 miljoner kronor. Kapitalet
-skall användas för förvärv av egendom enligt $ 1.
+skall användas för förvärv av egendom enligt \$ 1.
 
 1 (3)
 
@@ -13753,7 +13753,7 @@ Styrelsen ska ha lägst fem och högst nio ordinarie ledamöter med lägst fem o
 sju suppleanter.
 
 Styrelsen utses av kommunfullmäktige i Kungsbacka kommun för en tid av fyra år
-och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 $
+och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 \$
 kommunallagen. Kommunfullmäktige bestämmer i vilken ordning utsedda
 suppleanter inträder i tjänstgöring vid förfall för ordinarie ledamöter.
 
@@ -13775,7 +13775,7 @@ sammanträde.
 
 Kallelse till sammanträde skall utgå minst tio dagar före sammanträdet.
 
-$8
+\$8
 Stiftelsens firma tecknas, förutom av styrelsen, av den eller de personer inom eller
 utom styrelsen, som styrelsen därtill utser.
 
@@ -13832,13 +13832,13 @@ Parterna är nu överens Om, att förändra samarbetet enligt
 
 följande.
 
-1. Västkuststiftelsen utträder ur Stiftelsen Tjolöholm
+1\. Västkuststiftelsen utträder ur Stiftelsen Tjolöholm
 
 1991-12-31. I samband med Västkuststiftelsens ut-
 träde ur Stiftelsen Tjolöholm har parterna inga
 ekonomiska anspråk mot varandra.
 
-2. Huvudmännen är överens om, att den långsiktiga vilje-
+2\. Huvudmännen är överens om, att den långsiktiga vilje-
 inriktningen skall vara, att Västkuststiftelsen skall
 skydda och vårda de markområden inom Tjolöholms egen-
 dom, vilka i kartbilagan markerats med grön färg.
@@ -13854,13 +13854,13 @@ med rött markerade, kan tas i anspråk av Stiftelsen
 Tjolöholm för annat ändamål ett (1) år efter anmälan
 av Stiftelsen till Västkuststiftelsen.
 
-3. Västkuststiftalsens driftsansvar innefattar naturvård
+3\. Västkuststiftalsens driftsansvar innefattar naturvård
 inklusive skyddsjakt, tillsyn och faunavård samt åt-
 gärder för friluftslivet. Till grund för vården av
 markområdena skall bl a ligga den av stiftelsens
 Styrelse 1988-08-18 beslutade skogsbruksplanen.
 
-4. För utövandet av vården av markområdena enligt detta
+4\. För utövandet av vården av markområdena enligt detta
 avtal har Västkuststiftelsen tillgång till samtliga
 
 vägar inom området.
@@ -13872,7 +13872,7 @@ planerade driftåtgärder.
 
 <!-- sida 344 -->
 
-6. Ett belopp motsvarande det årliga bidraget till kost-
+6\. Ett belopp motsvarande det årliga bidraget till kost-
 nader för förvaltning av drift av egendomen, som hit-
 tills har utgått från Västkuststiftelsen till Stiftel-
 sen Tjolöholm skall under avtalsperioden årligen an-
@@ -13891,9 +13891,9 @@ Ordförande
 
 Göran/ Löfgren
 Kommunstyrelsens KommundErektör
-> ordförande
+\> ordförande
 
-F$ 14/9)
+F\$ 14/9)
 
 <!-- sida 345 -->
 
@@ -13964,7 +13964,7 @@ Antagande av strategi för krisberedskap och civilt försvar
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige antar strategi för krisberedskap och civilt försvar, 2023–2026, daterad 2023-12-
-14.
+14\.
 
 Riktlinjer för krisberedskap och civilt försvar, antagen av kommunfullmäktige 2019-12-10, § 190, och
 Säkerhets- och beredskapspolicy, antagen av kommunfullmäktige 2019-12-10 § 189, upphör samtidigt
@@ -14095,7 +14095,7 @@ Kungsbacka kommun        Strategi för krisberedskap och civilt försvar 2 (8)
 Strategin syftar till att skapa en övergripande inriktning för Kungsbacka kommuns
 arbete med krisberedskap och civilt försvar under mandatperioden 2023–2026, samt
 under 2027 fram till dess att en ny strategi är beslutad för mandatperioden 2027–
-2030.
+2030\.
 Strategins innehåll följer Myndigheten för samhällsskydd och beredskaps (MSB) och
 Sveriges kommuner och regioners (SKR) Överenskommelse om kommuners arbete
 med krisberedskap och Överenskommelse om kommuners arbete med civilt försvar.
@@ -14685,12 +14685,12 @@ SKL 18/03101
 
 Innehållsförteckning
 
-1. Överenskommelse .................................................................. 3
-2. Utgångspunkter ...................................................................... 4
-3. Villkor för användning av ersättningen ................................... 5
+1\. Överenskommelse .................................................................. 3
+2\. Utgångspunkter ...................................................................... 4
+3\. Villkor för användning av ersättningen ................................... 5
 
-4. Ersättning ............................................................................... 6
-5. Uppgifter och stöd .................................................................. 7
+4\. Ersättning ............................................................................... 6
+5\. Uppgifter och stöd .................................................................. 7
 5.1 Generellt stöd ...................................................................... 7
 
 5.2 Risk- och sårbarhetsanalys .................................................... 8
@@ -14699,7 +14699,7 @@ Innehållsförteckning
 5.5 Utbildning och övning ......................................................... 13
 
 5.6 Rapportering ...................................................................... 14
-6. Riktlinjer för redovisning och uppföljning ............................. 15
+6\. Riktlinjer för redovisning och uppföljning ............................. 15
 6.1 Redovisning ....................................................................... 15
 6.2 Uppföljning ........................................................................ 15
 
@@ -14712,7 +14712,7 @@ Diarienr
 MSB 2018-09779       3 (16)
 SKL 18/03101
 
-1.   Överenskommelse
+1\.   Överenskommelse
 
 Denna överenskommelse mellan staten, företrädd av Myndigheten för
 samhällsskydd och beredskap (MSB) och Sveriges Kommuner och Landsting
@@ -14762,7 +14762,7 @@ Diarienr
 MSB 2018-09779       4 (16)
 SKL 18/03101
 
-2.   Utgångspunkter
+2\.   Utgångspunkter
 
 Extraordinär händelse
 Kommunens åtaganden enligt LEH utgår från begreppet extraordinär
@@ -14814,7 +14814,7 @@ Diarienr
 MSB 2018-09779       5 (16)
 SKL 18/03101
 
-3.   Villkor    för  användning         av
+3\.   Villkor    för  användning         av
 ersättningen
 
 Följande villkor gäller för den ersättning som kommunen får för
@@ -14861,7 +14861,7 @@ Diarienr
 MSB 2018-09779       6 (16)
 SKL 18/03101
 
-4.   Ersättning
+4\.   Ersättning
 
 Ersättningen räknas upp årligen med konsumentprisindex (KPI).
 Ersättningarna nedan anges i prisläge 2018 (januari 2018).
@@ -14916,7 +14916,7 @@ Diarienr
 MSB 2018-09779       7 (16)
 SKL 18/03101
 
-5.   Uppgifter      och    stöd
+5\.   Uppgifter      och    stöd
 
 Här preciseras kommunernas uppgifter samt statens stöd till kommunerna.
 Uppgifterna som beskrivs i 2. kap i LEH delas in i följande verksamheter:
@@ -15169,13 +15169,13 @@ SKL 18/03101
 Lagtext
 • Kommuner ska inom sitt geografiska område i fråga om extraordinära
 händelser i fredstid verka för att (2 kap. 7 § LEH):
-1. olika aktörer inom kommunens geografiska område samverkar och
+1\. olika aktörer inom kommunens geografiska område samverkar och
 uppnår samordning i planerings- och förberedelsearbetet,
 
-2. de krishanteringsåtgärder som vidtas av olika aktörer under en sådan
+2\. de krishanteringsåtgärder som vidtas av olika aktörer under en sådan
 händelse samordnas och
 
-3. information till allmänheten under sådana förhållanden samordnas.
+3\. information till allmänheten under sådana förhållanden samordnas.
 
 Kommunens uppgifter
 • Kommunen ska ge aktörer som bedriver samhällsviktig verksamhet inom
@@ -15320,7 +15320,7 @@ Diarienr
 MSB 2018-09779       15 (16)
 SKL 18/03101
 
-6.   Riktlinjer     för  redovisning         och
+6\.   Riktlinjer     för  redovisning         och
 uppföljning
 
 6.1  Redovisning
@@ -15435,19 +15435,19 @@ SKR 2022/00754
 
 Innehållsförteckning
 
-1. Överenskommelse .................................................................. 3
+1\. Överenskommelse .................................................................. 3
 1.1 Målbild ................................................................................ 5
 1.2 Ersättning............................................................................ 6
 1.3 Myndigheternas stöd till kommunerna ..................................... 7
 
 1.4 Kristidsverksamhet ............................................................... 7
-2. Prioriterade uppgifter ............................................................. 8
+2\. Prioriterade uppgifter ............................................................. 8
 2.1 Kompetenshöjning gällande totalförsvar .................................. 8
 
 2.2 Grundläggande förberedelser i frågor av betydelse för
 totalförsvaret och Sveriges säkerhet ............................................ 8
 2.3 Krigsorganisation och dess bemanning .................................... 9
-3. Övriga uppgifter ................................................................... 11
+3\. Övriga uppgifter ................................................................... 11
 
 3.1 Ledningsansvar .................................................................. 11
 3.2 Geografiskt områdesansvar ................................................. 12
@@ -15464,7 +15464,7 @@ Diarienr
 MSB 2022-15507
 SKR 2022/00754
 
-1.   Överenskommelse
+1\.   Överenskommelse
 
 Myndigheten för samhällsskydd och beredskap (MSB) och Sveriges Kommuner
 
@@ -15687,7 +15687,7 @@ Diarienr
 MSB 2022-15507
 SKR 2022/00754
 
-2.   Prioriterade       uppgifter
+2\.   Prioriterade       uppgifter
 
 Nedan följer en beskrivning av de för perioden5 prioriterade uppgifterna som
 
@@ -15838,7 +15838,7 @@ Diarienr
 MSB 2022-15507
 SKR 2022/00754
 
-3.   Övriga     uppgifter
+3\.   Övriga     uppgifter
 
 3.1  Ledningsansvar
 
@@ -15976,7 +15976,7 @@ Bilaga 1 – Ersättning
 Bilaga 1 omfattas av försvarssekretess (15 kap. 2§ offentlighets- och
 sekretesslagen 2009:400).
 Bilagan har inte reviderats. Versionen för perioden 2018-2020 gäller även för
-2023.
+2023\.
 
 Utöver den fördelning som gäller i bilagan för befintlig ersättning om 100 mnkr
 tillförs kommunerna för 2023 ytterligare 60 mnkr. Fördelningsprinciper för de
@@ -16494,12 +16494,12 @@ SKL 18/03101
 
 Innehållsförteckning
 
-1. Överenskommelse .................................................................. 3
-2. Utgångspunkter ...................................................................... 4
-3. Villkor för användning av ersättningen ................................... 5
+1\. Överenskommelse .................................................................. 3
+2\. Utgångspunkter ...................................................................... 4
+3\. Villkor för användning av ersättningen ................................... 5
 
-4. Ersättning ............................................................................... 6
-5. Uppgifter och stöd .................................................................. 7
+4\. Ersättning ............................................................................... 6
+5\. Uppgifter och stöd .................................................................. 7
 5.1 Generellt stöd ...................................................................... 7
 
 5.2 Risk- och sårbarhetsanalys .................................................... 8
@@ -16508,7 +16508,7 @@ Innehållsförteckning
 5.5 Utbildning och övning ......................................................... 13
 
 5.6 Rapportering ...................................................................... 14
-6. Riktlinjer för redovisning och uppföljning ............................. 15
+6\. Riktlinjer för redovisning och uppföljning ............................. 15
 6.1 Redovisning ....................................................................... 15
 6.2 Uppföljning ........................................................................ 15
 
@@ -16521,7 +16521,7 @@ Diarienr
 MSB 2018-09779       3 (16)
 SKL 18/03101
 
-1.   Överenskommelse
+1\.   Överenskommelse
 
 Denna överenskommelse mellan staten, företrädd av Myndigheten för
 samhällsskydd och beredskap (MSB) och Sveriges Kommuner och Landsting
@@ -16571,7 +16571,7 @@ Diarienr
 MSB 2018-09779       4 (16)
 SKL 18/03101
 
-2.   Utgångspunkter
+2\.   Utgångspunkter
 
 Extraordinär händelse
 Kommunens åtaganden enligt LEH utgår från begreppet extraordinär
@@ -16623,7 +16623,7 @@ Diarienr
 MSB 2018-09779       5 (16)
 SKL 18/03101
 
-3.   Villkor    för  användning         av
+3\.   Villkor    för  användning         av
 ersättningen
 
 Följande villkor gäller för den ersättning som kommunen får för
@@ -16670,7 +16670,7 @@ Diarienr
 MSB 2018-09779       6 (16)
 SKL 18/03101
 
-4.   Ersättning
+4\.   Ersättning
 
 Ersättningen räknas upp årligen med konsumentprisindex (KPI).
 Ersättningarna nedan anges i prisläge 2018 (januari 2018).
@@ -16725,7 +16725,7 @@ Diarienr
 MSB 2018-09779       7 (16)
 SKL 18/03101
 
-5.   Uppgifter      och    stöd
+5\.   Uppgifter      och    stöd
 
 Här preciseras kommunernas uppgifter samt statens stöd till kommunerna.
 Uppgifterna som beskrivs i 2. kap i LEH delas in i följande verksamheter:
@@ -16978,13 +16978,13 @@ SKL 18/03101
 Lagtext
 • Kommuner ska inom sitt geografiska område i fråga om extraordinära
 händelser i fredstid verka för att (2 kap. 7 § LEH):
-1. olika aktörer inom kommunens geografiska område samverkar och
+1\. olika aktörer inom kommunens geografiska område samverkar och
 uppnår samordning i planerings- och förberedelsearbetet,
 
-2. de krishanteringsåtgärder som vidtas av olika aktörer under en sådan
+2\. de krishanteringsåtgärder som vidtas av olika aktörer under en sådan
 händelse samordnas och
 
-3. information till allmänheten under sådana förhållanden samordnas.
+3\. information till allmänheten under sådana förhållanden samordnas.
 
 Kommunens uppgifter
 • Kommunen ska ge aktörer som bedriver samhällsviktig verksamhet inom
@@ -17129,7 +17129,7 @@ Diarienr
 MSB 2018-09779       15 (16)
 SKL 18/03101
 
-6.   Riktlinjer     för  redovisning         och
+6\.   Riktlinjer     för  redovisning         och
 uppföljning
 
 6.1  Redovisning
@@ -17232,28 +17232,28 @@ Nya avgifter för parkering- timtaxor, boendekort och nyttokort
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige fastställer parkeringsavgifter i Kungsbacka kommun:
-- Taxa A för parkering 7 kronor per timme
+\- Taxa A för parkering 7 kronor per timme
 
-- Taxa B för parkering 6 kronor per timme
-- Taxa C för parkering 5 kronor per timme
-- Taxa D för parkering 3 kronor per timme
+\- Taxa B för parkering 6 kronor per timme
+\- Taxa C för parkering 5 kronor per timme
+\- Taxa D för parkering 3 kronor per timme
 
-- Taxa E för parkering 8 kronor per timme
-- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
-- Månadsbiljett avskaffas från och med 2024-04-08
-- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget,
+\- Taxa E för parkering 8 kronor per timme
+\- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
+\- Månadsbiljett avskaffas från och med 2024-04-08
+\- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget,
 
 Kolla och Hammerö/Hålabäck
-- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum,
+\- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum,
 Västra Villastaden och Östra Villastaden
-- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
+\- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
 
 Kommunfullmäktige fastställer avgifter för felparkering i Kungsbacka kommun:
 
-- Överskriden tid, ej betalt 300 kronor per tillfälle
-- Förbud att parkera 450 kronor per tillfälle
-- Förbud att stanna 800 kronor per tillfälle
-- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
+\- Överskriden tid, ej betalt 300 kronor per tillfälle
+\- Förbud att parkera 450 kronor per tillfälle
+\- Förbud att stanna 800 kronor per tillfälle
+\- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
 
 Nya taxor och avgifter för parkering och felparkering ska gälla från och med 2024-
 
@@ -17328,30 +17328,30 @@ Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige fastställer parkeringsavgifter i Kungsbacka kommun:
 
-- Taxa A för parkering 7 kronor per timme
-- Taxa B för parkering 6 kronor per timme
+\- Taxa A för parkering 7 kronor per timme
+\- Taxa B för parkering 6 kronor per timme
 
-- Taxa C för parkering 5 kronor per timme
-- Taxa D för parkering 3 kronor per timme
+\- Taxa C för parkering 5 kronor per timme
+\- Taxa D för parkering 3 kronor per timme
 
-- Taxa E för parkering 8 kronor per timme
-- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
+\- Taxa E för parkering 8 kronor per timme
+\- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
 
-- Månadsbiljett avskaffas från och med 2024-04-08
-- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget, Kolla och
+\- Månadsbiljett avskaffas från och med 2024-04-08
+\- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget, Kolla och
 Hammerö/Hålabäck
 
-- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum, Västra Villastaden
+\- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum, Västra Villastaden
 och Östra Villastaden
-- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
+\- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
 
 Kommunfullmäktige fastställer avgifter för felparkering i Kungsbacka kommun:
-- Överskriden tid, ej betalt 300 kronor per tillfälle
+\- Överskriden tid, ej betalt 300 kronor per tillfälle
 
-- Förbud att parkera 450 kronor per tillfälle
-- Förbud att stanna 800 kronor per tillfälle
+\- Förbud att parkera 450 kronor per tillfälle
+\- Förbud att stanna 800 kronor per tillfälle
 
-- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
+\- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
 Nya taxor och avgifter för parkering och felparkering ska gälla från och med 2024-04-08.
 Kommunfullmäktiges beslut om taxa 2019-11-05 §165 upphör att gälla samtidigt som ny taxa träder i
 kraft.
@@ -17517,12 +17517,12 @@ Avgiften för nyttokort har varit oförändrad under längre tid.
 Nya avgifter för felparkering
 Avgifterna för felparkering i Kungsbacka har legat på samma nivå sedan år 2005. Konsumentprisindex
 har sedan dess stigit med cirka 45 procent och avgifterna har inte längre samma styrande effekt. I
-jämförelse med närliggande kommuners* felparkeringsavgifter har Kungsbacka bland de lägsta
+jämförelse med närliggande kommuners\* felparkeringsavgifter har Kungsbacka bland de lägsta
 felparkeringsavgifterna på samtliga nivåer.
 
 Nämnden för Teknik föreslår följande avgifter för felparkering:
 
-*jämförelsekommunerna är Borås, Falkenberg, Göteborg, Halmstad, Lerum, Mölndal, Partille,
+\*jämförelsekommunerna är Borås, Falkenberg, Göteborg, Halmstad, Lerum, Mölndal, Partille,
 Varberg
 
 [Tabell 429-1](handlingar.tabeller/429-1.csv)
@@ -17567,26 +17567,26 @@ Nya avgifter för parkering- timtaxor, boendekort och nyttokort
 Beslut
 
 Nämnden för Teknik beslutar
-- att taxa A för parkering justeras från 5 kr/timma till 7 kr/timma
+\- att taxa A för parkering justeras från 5 kr/timma till 7 kr/timma
 
-- att taxa D för parkering justeras från 2 kr/timma till 3 kr/timma
+\- att taxa D för parkering justeras från 2 kr/timma till 3 kr/timma
 
-- att dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
+\- att dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
 Kommunen kan fortsatt erbjuda dygnsbiljett på sina parkeringsytor utanför
 Kungsbacka stad. Avgiften för dessa beslutas i särskild ordning genom nämnden för
 Tekniks arbetsutskott
-- att månadsbiljett avskaffas från och med 2024-01-01
+\- att månadsbiljett avskaffas från och med 2024-01-01
 
-- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 300
+\- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 300
 kr/månad för områdena Björkris, Tingberget, Kolla och Hammerö/Hålabäck
-- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 350
+\- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 350
 
 kr/månad för områdena Signeskulle, Centrum, Västra Villastaden och Östra
 Villastaden
 -att kostnaden för nyttokort justeras från 2000 kr/år respektive 250 kr/månad till
 3000 kr/år respektive 375 kr/månad
 
-- att nya taxor och avgifter för parkering ska gälla från och med 2024-01-01
+\- att nya taxor och avgifter för parkering ska gälla från och med 2024-01-01
 
 Sammanfattning av ärendet
 
@@ -17628,7 +17628,7 @@ Nämnden för Teknik beslutar
 
 -att felparkeringsavgifterna justeras från nuvarande 200 kr, 300 kr och 500 kr till 300
 kr, 450 kr och 800 kr
-- att nya felparkeringsavgifter ska gälla från och med 2024-01-01
+\- att nya felparkeringsavgifter ska gälla från och med 2024-01-01
 
 Sammanfattning av ärendet
 Felparkeringsavgifterna har varit desamma sedan 2005 och dagens belopp på 200,
@@ -17671,23 +17671,23 @@ Nya avgifter för parkering- timtaxa, boendekort och nyttokort
 Förslag till beslut i nämnden för Teknik
 Nämnden för Teknik beslutar
 
-- att taxa A för parkering justeras från 5 kr/timma till 7 kr/timma
+\- att taxa A för parkering justeras från 5 kr/timma till 7 kr/timma
 
-- att taxa D för parkering justeras från 2 kr/timma till 3 kr/timma
-- att dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad. Kommunen kan fortsatt
+\- att taxa D för parkering justeras från 2 kr/timma till 3 kr/timma
+\- att dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad. Kommunen kan fortsatt
 erbjuda dygnsbiljett på sina parkeringsytor utanför Kungsbacka stad. Avgiften för dessa beslutas i
 särskild ordning genom nämnden för Tekniks arbetsutskott
 
-- att månadsbiljett avskaffas från och med 2024-01-01
-- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 300 kr/månad för områdena
+\- att månadsbiljett avskaffas från och med 2024-01-01
+\- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 300 kr/månad för områdena
 Björkris, Tingberget, Kolla och Hammerö/Hålabäck
 
-- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 350 kr/månad för områdena
+\- att månadsavgiften för boendeparkering justeras från 200 kr/månad till 350 kr/månad för områdena
 Signeskulle, Centrum, Västra Villastaden och Östra Villastaden
 
 -att kostnaden för nyttokort justeras från 2000 kr/år respektive 250 kr/månad till 3000 kr/år respektive
 375 kr/månad
-- att nya taxor och avgifter för parkering ska gälla från och med 2024-01-01
+\- att nya taxor och avgifter för parkering ska gälla från och med 2024-01-01
 
 Sammanfattning av ärendet
 
@@ -17784,7 +17784,7 @@ beslut 2019-11-05, § 165.
 
 Kungsbacka har åtta boendeparkeringsområden som kan ses i figur 2 nedan. Kostnaden för ett
 boendeparkeringskort är idag 200 kr/ månad i samtliga områden, kostnaden har varit densamma sedan
-2014.
+2014\.
 
 1 Maximal avgift för en månad om timtaxa är 2 kr/timma (Avgift 8-22 mån-lör,1 timma p-skiva) är 624 kr.
 
@@ -17871,7 +17871,7 @@ Nämnden för Teknik beslutar
 -att felparkeringsavgifterna justeras från nuvarande 200 kr, 300 kr och 500 kr till 300 kr, 450 kr och
 800 kr
 
-- att nya felparkeringsavgifter ska gälla från och med 2024-01-01
+\- att nya felparkeringsavgifter ska gälla från och med 2024-01-01
 
 Sammanfattning av ärendet
 
@@ -17923,14 +17923,14 @@ styrande och avskräckande effekt.
 I en omvärldsanalys av närliggande kommuners felparkeringsavgifter har Kungsbacka lägst
 felparkeringsavgifter på samtliga nivåer.
 
-*Parkering för rörelsehindrad
+\*Parkering för rörelsehindrad
 En indexuppräkning av felparkeringsavgifterna skulle ge 300, 450 och 750 kr. Förvaltningen för
 Teknik föreslår att felparkeringsavgifterna indexuppräknas samt att avgiften för att bryta mot förbud
 att stanna och felaktig parkering på parkeringsplats för rörelsehindrad höjs 50 kr utöver
 
 [Tabell 442-1](handlingar.tabeller/442-1.csv)
 
-|  | Överskridit tid, ej<br>betalt | Förbud att<br>parkera | Förbud att<br>stanna | PRH* |
+|  | Överskridit tid, ej<br>betalt | Förbud att<br>parkera | Förbud att<br>stanna | PRH\* |
 | --- | --- | --- | --- | --- |
 | Göteborg | 600 | 850 | 1100 | 1100 |
 | Falkenberg | 600 | 600 | 1000 | 1300 |
@@ -17953,7 +17953,7 @@ nyttjas.
 Förslaget om nya felparkeringsavgifter innebär att Kungsbacka fortsatt ligger lägre än många av
 grannkommunerna.
 
-*Parkering för rörelsehindrad
+\*Parkering för rörelsehindrad
 
 Kontrollavgift
 Vilket belopp felparkeringsavgiften ligger på styr nivån på kontrollavgifter som fastighetsägare kan ta
@@ -17962,7 +17962,7 @@ parkering. En kontrollavgift får inte överstiga nivån på felparkeringsavgift
 
 [Tabell 443-1](handlingar.tabeller/443-1.csv)
 
-|  | Överskridit tid, ej<br>betalt | Förbud att<br>parkera | Förbud att<br>stanna | PRH* |
+|  | Överskridit tid, ej<br>betalt | Förbud att<br>parkera | Förbud att<br>stanna | PRH\* |
 | --- | --- | --- | --- | --- |
 | Göteborg | 600 | 850 | 1100 | 1100 |
 | Falkenberg | 600 | 600 | 1000 | 1300 |
@@ -18073,16 +18073,16 @@ föredöme när det gäller P-avgifter i sina centrumområden. För att skapa
 förutsättningar för ett lika rörligt och välkomnande centrum i Kungsbacka, för
 såväl icke centralboende kommuninnevånare som turister, så yrkar vi på att
 kommunfullmäktige fastställer nedanstående avgifter:
-- Högsta parkeringsavgift: 5 kronor per timme
+\- Högsta parkeringsavgift: 5 kronor per timme
 
-- Högsta parkeringsanmärkning och kontrollavgift: 500 kronor
-- Högsta månadskostnad för boendekort: 350 kronor
+\- Högsta parkeringsanmärkning och kontrollavgift: 500 kronor
+\- Högsta månadskostnad för boendekort: 350 kronor
 
-- Högsta årskostnad för nyttoparkeringskort: 3 000 kronor
-- Högsta kostnad för 30-dagars parkeringskort: 1 000 kronor
+\- Högsta årskostnad för nyttoparkeringskort: 3 000 kronor
+\- Högsta kostnad för 30-dagars parkeringskort: 1 000 kronor
 
-- Högsta administrationsavgift: 100 kronor per ansökan
-- Att P-skiva/automatbiljett ger förutsättning för fri parkering under 1
+\- Högsta administrationsavgift: 100 kronor per ansökan
+\- Att P-skiva/automatbiljett ger förutsättning för fri parkering under 1
 
 timma på gator och torg samt 2 timmar fri parkering i P-hus.
 
@@ -18419,25 +18419,25 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 8 maj 2023.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 17 och 3 $
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 17 och 3 $
-första stycket trafikförordningen (1998:1276) att 6 $ i kommunens lokala
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
+första stycket trafikförordningen (1998:1276) att 6 \$ i kommunens lokala
 trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka kommun ska
 ha följande lydelse.
 
-6 $ Taxa E. Avgiften är 8 kr per timme
+6 \$ Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 10 maj 2023.
 
 På Kungsbacka kommuns vägnar.
 
 Monica Neptun
-- Sara Johansson
+\- Sara Johansson
 
 <!-- sida 455 -->
 
@@ -18538,7 +18538,7 @@ kommunfullmäktige. Renhållningsordningen ska innehålla en avfallsplan och fö
 beskriver hur avfall under kommunens ansvar ska hanteras och regleras med stöd av de
 bemyndiganden som ges till kommunen genom miljöbalken och avfallsförordningen.
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt för verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
@@ -18593,7 +18593,7 @@ nyttjanderättshavare och innehåller bestämmelser om godkända behållare, hä
 sorteringskrav.
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt för verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
 Kommunens ansvar för insamling av förpackningsavfall träder i kraft den 1 januari 2024 och kravet på
@@ -18799,7 +18799,7 @@ gälla.
 Sammanfattning av ärendet
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av Kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna.
 Förslaget till reviderade avfallsföreskrifter omfattar huvudsakligen anpassningar i ovan nämnda
 förändringar och ytterligare förändringar:
@@ -18855,7 +18855,7 @@ beskriver hur avfall under kommunens ansvar ska hanteras och regleras med stöd 
 bemyndiganden som ges till kommunen genom miljöbalken och avfallsförordningen.
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av Kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
 Kommunens ansvar för insamling av förpackningsavfall träder i kraft den 1 januari 2024 och kravet på
@@ -19015,7 +19015,7 @@ avfall i enlighet med 15 kap. 3 § miljöbalken.
 
 e. Med farligt avfall avses avfall som i bilaga 3 till
 avfallsförordningen (2020:614) beskrivs med en avfallskod
-markerad med en asterisk (*).
+markerad med en asterisk (\*).
 
 f. Med konsumentelavfall avses detsamma som i 13 §
 förordningen (2014:1075) om producentansvar för elutrustning.
@@ -19055,21 +19055,21 @@ l. Med bygg- och rivningsavfall som inte producerats i en
 yrkesmässig verksamhet avses detsamma som i 15 kap. 20 § 4
 punkten miljöbalken.
 
-2. Med fastighetsinnehavare avses den som är fastighetsägare
+2\. Med fastighetsinnehavare avses den som är fastighetsägare
 eller den som enligt 1 kap. 5 § fastighetstaxeringslagen
 (1979:1152) ska anses som fastighetsägare.
 
-3. Med nyttjanderättshavare avses den som, utan att omfattas av
+3\. Med nyttjanderättshavare avses den som, utan att omfattas av
 begreppet fastighetsinnehavare, har rätt att bruka eller nyttja
 fastighet.
 
-4. Med den avfallsansvariga nämnden avses nämnden för Teknik,
+4\. Med den avfallsansvariga nämnden avses nämnden för Teknik,
 Kungsbacka kommun.
 
-5. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
+5\. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
 Hälsoskydd, Kungsbacka kommun.
 
-6. Med behållare avses kärl, container, underjordsbehållare, säck,
+6\. Med behållare avses kärl, container, underjordsbehållare, säck,
 latrinbehållare, fosforfälla, slamavskiljare, fettavskiljare eller
 annan anordning för uppsamling av avfall under kommunalt
 ansvar.
@@ -19078,7 +19078,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       5 (34)
 
 <!-- sida 472 -->
 
-7. I enlighet med avgränsningen av kommunens ansvar enligt 15
+7\. I enlighet med avgränsningen av kommunens ansvar enligt 15
 kap. 20 § 2 miljöbalken, avses med enskilda avloppsanläggningar
 slutna tankar, slamavskiljare, fosforfällor, minireningsverk och
 andra motsvarande anläggningar som inte är allmänna enligt lag
@@ -19087,10 +19087,10 @@ för högst 25 personekvivalenter och endast används för
 hushållspillvatten eller spillvatten som till sin art och
 sammansättning liknar hushållsspillvatten.
 
-8. Med latrin avses latrin från torrtoaletter och andra jämförliga
+8\. Med latrin avses latrin från torrtoaletter och andra jämförliga
 lösningar, i enlighet med 15 kap. 20 § 3 miljöbalken.
 
-9. Med avloppsfraktioner från enskilda avloppsanläggningar
+9\. Med avloppsfraktioner från enskilda avloppsanläggningar
 menas avloppsslam, toalettvatten, urin, fekalier och innehåll i
 slutna tankar. Med filtermaterial avses ett förbrukat material
 tillhörande en enskild avloppsanläggning, så som torv, leca, träflis
@@ -19105,7 +19105,7 @@ avloppsanläggningar som nämns i punkt 7 ovan.
 Bestämmelsen omfattar både enskilda anläggningar som betjänar
 en fastighet och samfällda anläggningar.
 
-10. Så länge inte annat framgår i gällande lagstiftning innebär med
+10\. Så länge inte annat framgår i gällande lagstiftning innebär med
 yrkesmässig verksamhet i dessa föreskrifter att någon regelbundet
 utför tjänster mot betalning. Tillfälliga arbeten och kortare uppdrag
 av obetydlig omfattning räknas här inte som yrkesmässig
@@ -19158,13 +19158,13 @@ av fettavskiljare utanför det kommunala ledningsnätet
 Betalning och information.
 8§. Avgift ska betalas för:
 
-1. de åtgärder som kommunen vidtar i syfte att informera hushåll
+1\. de åtgärder som kommunen vidtar i syfte att informera hushåll
 
 och verksamhetsutövare som producerar avfall som
 kommunen ansvarar för enligt 15 kap. 20 § miljöbalken om
 avfallshantering och avfallsförebyggande åtgärder.
 
-2. de åtgärder som kommunen vidtar för att underlätta insamling
+2\. de åtgärder som kommunen vidtar för att underlätta insamling
 och sortering av återanvändbara produkter från hushåll och
 verksamhetsutövare som producerar avfall som kommunen
 ansvarar för enligt 15 kap. 20 § miljöbalken.
@@ -19173,7 +19173,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       7 (34)
 
 <!-- sida 474 -->
 
-3. den insamling, transport, behandling i form av återvinning och
+3\. den insamling, transport, behandling i form av återvinning och
 bortskaffande av avfall som utförs genom kommunens försorg
 och i enlighet med föreskrifter som kommunen har antagit med
 stöd av 27 kap. 4 § miljöbalken.
@@ -19224,13 +19224,13 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       8 (34)
 <!-- sida 475 -->
 
 13a§. Förpackningsavfall i form av
-1. papper och kartong,
-2. plast
-3. metall,
-4. färgat glas,
-5. ofärgat glas,
-6. trä, och
-7. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
+1\. papper och kartong,
+2\. plast
+3\. metall,
+4\. färgat glas,
+5\. ofärgat glas,
+6\. trä, och
+7\. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
 enligt 3 kap. 4 § avfallsförordningen (2020:614) sorteras ut från
 annat avfall.
 
@@ -20049,32 +20049,32 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       31 (34)
 <!-- sida 498 -->
 
 BILAGA 2. HÄMTNINGSINTERVALL  (Standardintervaller)
-1. Från flerbostadshus och verksamheter sker hämtning av kärl- och
+1\. Från flerbostadshus och verksamheter sker hämtning av kärl- och
 säckavfall normalt en gång i veckan. Renhållaren tillhandahåller även
 
 hämtning en gång varannan vecka eller två gånger per vecka.
-2. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
+2\. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
 och säckavfall normalt en gång varannan vecka. Renhållaren tillhandahåller
 även hämtning en gång var fjärde vecka.
 
-3. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
+3\. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
 avfall normalt en gång varannan vecka under perioden mitten av maj – mitten
 av september.
 
-4. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
+4\. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
 gång varannan vecka under vår, sommar och höst enligt kommunens
 avfallstaxa.
-5. Hämtning av latrin sker på budning.
+5\. Hämtning av latrin sker på budning.
 
-6. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
+6\. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
 anvisningar om det inte framgår något annat i tillståndet eller godkännandet
 meddelat av kommunens tillsynsmyndighet för enskilda avloppsanläggningar. I
 annat fall sker tömning minst en gång per år för enskilda avloppsanläggningar
 och vartannat år för fosforfällor.
 
-7. Tömning av andra små avloppsanläggningar sker minst en gång per år.
+7\. Tömning av andra små avloppsanläggningar sker minst en gång per år.
 
-8. Tömning av fettavskiljare som genererar kommunalt avfall under
+8\. Tömning av fettavskiljare som genererar kommunalt avfall under
 kommunalt ansvar utförs minst 4 gånger per år eller oftare om det krävs för
 att säkerställa anläggningens funktion.
 
@@ -20891,9 +20891,9 @@ Sammanfattning av ärendet
 
 I motionen föreslås att Nämnden för Teknik ska åläggas två uppdrag:
 
-- Att i samverkan med nämnden för Service verka för att det finns möjligheter för
+\- Att i samverkan med nämnden för Service verka för att det finns möjligheter för
 anställda att ladda vid arbetsplatser såsom skolor, förskolor och omsorgsboenden
-- Att verka för att det finns laddplatser vid välbesökta besöksdestinationer där
+\- Att verka för att det finns laddplatser vid välbesökta besöksdestinationer där
 besökaren stannar tillräckligt länge av andra orsaker än att ladda och där inte
 marknadsaktörer bygger ut.
 
@@ -20956,9 +20956,9 @@ Sammanfattning av ärendet
 
 I motionen föreslås att Nämnden för Teknik ska åläggas två uppdrag:
 
--  Att i samverkan med nämnden för Service verka för att det finns möjligheter för anställda att
+\-  Att i samverkan med nämnden för Service verka för att det finns möjligheter för anställda att
 ladda vid arbetsplatser såsom skolor, förskolor och omsorgsboenden
--  Att verka för att det finns laddplatser vid välbesökta besöksdestinationer där besökaren stannar
+\-  Att verka för att det finns laddplatser vid välbesökta besöksdestinationer där besökaren stannar
 tillräckligt länge av andra orsaker än att ladda och där inte marknadsaktörer bygger ut.
 
 Nämnden arbetar genom Förvaltningen för Teknik tillsammans med övriga samhällsbyggande
@@ -21085,7 +21085,7 @@ Beredning av motion - Laddinfrastruktur i Kungsbacka
 
 Förslag till beslut på sammanträdet
 Thomas Lundberg (MP) yrkar bifall till Miljöpartiet de grönas motion (KS 2023-
-00280) gällande laddinfra i Kungsbacka.
+00280\) gällande laddinfra i Kungsbacka.
 
 Beslutsgång
 Ordförande Max Ramström (M) finner att det finns två förslag till beslut, det vill säga
@@ -21641,7 +21641,7 @@ Kommunstyrelsen
 Yrkande över Vänsterpartiets motion avseende 2-årsregeln för kvotflyktingar
 
 Tempohus genom Eksta vill härmed yttra sig med anledning av motion med diarienr. 2023-00135 och 2023-
-00118.
+00118\.
 
 Syftet med bildandet av Tempohus var att ge nyanlända bra, hållbara och trivsamma bostäder som ger en
 boendesituation så likt som möjligt med övriga beståendet. Eftersom det var mycket brådskande uppförde
@@ -22320,7 +22320,7 @@ Kommunstyrelsen
 Yrkande över Vänsterpartiets motion avseende 2-årsregeln för kvotflyktingar
 
 Tempohus genom Eksta vill härmed yttra sig med anledning av motion med diarienr. 2023-00135 och 2023-
-00118.
+00118\.
 
 Syftet med bildandet av Tempohus var att ge nyanlända bra, hållbara och trivsamma bostäder som ger en
 boendesituation så likt som möjligt med övriga beståendet. Eftersom det var mycket brådskande uppförde
@@ -22815,8 +22815,8 @@ utvecklas, precis som visionen säger.
 Vi föreslår därför att:
 Kungsbacka ändrar direktiv/riktlinjer/instruktioner till sina bolag så att;
 
-- den generella tidsbegränsningen av hyreskontrakten inte längre gäller för barnfamiljer.
--  tidsbegränsningen för övriga kontrakt förlängs till 5 år.
+\- den generella tidsbegränsningen av hyreskontrakten inte längre gäller för barnfamiljer.
+\-  tidsbegränsningen för övriga kontrakt förlängs till 5 år.
 
 Kungsbacka 2023-01-27
 
@@ -23589,7 +23589,7 @@ skobidrag för att själva köpa en arbetssko som passar individens förutsättn
 
 Socialdemokraterna föreslår:
 
-- att berörda nämnder utreder möjligheten att införa fria arbetsskor, alternativt skobidrag, till
+\- att berörda nämnder utreder möjligheten att införa fria arbetsskor, alternativt skobidrag, till
 våra medarbetare som arbetar direkt med våra äldre och våra invånare som har behov av
 stöd inom Vård och Omsorg samt Individ och Familjeomsorg.
 

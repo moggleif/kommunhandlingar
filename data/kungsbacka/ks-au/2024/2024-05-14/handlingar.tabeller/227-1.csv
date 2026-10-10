@@ -1,0 +1,21 @@
+Kostnadspost,Enhet,Enhetspriser
+El,SEK/kWh,"1,90"
+Fjärrvärme (köpt),SEK/kWh,"1,00"
+Fjärrvärme (såld),SEK/kWh,"0,10"
+PIX 111,SEK/kg,"2,00"
+PAX XL-60,SEK/kg,"3,00"
+Torrpolymer,SEK/kg,59
+Metanol (biobaserad),SEK/kg,"6,20"
+Etanol (biobaserad),SEK/kg,14
+Natriumhypoklorit,SEK/kg,"4,00"
+Citronsyra,SEK/kg,"8,20"
+Saltsyra,SEK/kg,"3,00"
+Aktivt kol (nytt),SEK/kg,41
+Aktivt kol (regenererat),SEK/kg,24
+LOX,SEK/kg,"3,00"
+LOX (tankhyra),SEK/mån,20 000
+Analys mikroföroreningar,SEK/analys,5 000
+Personal,SEK/h,500
+Slamdisponeringskostnad,SEK/ton,500
+Biokol (såld produkt),SEK/ton biokol,920
+Kolkrediter (sålda),SEK/ton biokol,2000

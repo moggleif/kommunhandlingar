@@ -409,8 +409,8 @@ Beslut
 
 Nämnden beslutar att:
 
-* Förlänga uppdraget till att omfatta 2026
-* Delrapportering ska ske under första kvartalet 2026
+\* Förlänga uppdraget till att omfatta 2026
+\* Delrapportering ska ske under första kvartalet 2026
 
 Sammanfattning av ärendet
 Nämnden beslutade (2024-12-18, KFT 2024-00376) att ge förvaltningen i uppdrag

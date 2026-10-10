@@ -113,15 +113,15 @@ sammanhållen bebyggelse, enligt nedan:
 Riktlinjer för en sådan sammanhållen bebyggelse där bygglov eller anmälan behövs med
 hänsyn till omfattningen av byggnadsverk i bebyggelsen:
 
-1. Utgångspunkten för sammanhållen bebyggelse är 10 huvudbyggnader, exklusive
+1\. Utgångspunkten för sammanhållen bebyggelse är 10 huvudbyggnader, exklusive
 komplementbyggnader och mindre anläggningar, fördelade på minst 2 tomtplatser.
 Byggnader behöver inte enbart vara bostäder, utan kan även vara butiker, industribyggnader
 eller liknande.
 
-2. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen
+2\. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen
 bebyggelse.
 
-3. Följande förhållanden innebär, med beaktande av plankravet, att 35-10 byggnader normalt är
+3\. Följande förhållanden innebär, med beaktande av plankravet, att 35-10 byggnader normalt är
 tillräckligt antal i eller i närhet av:
 
 a) utvecklingsområde enligt översiktsplan och programområde för fördjupad
@@ -134,10 +134,10 @@ c) kulturreservat
 d) riks-och allmänna intressen såsom t.ex. intresse för
 kulturmiljövård/kulturmiljöprogram
 
-4. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (inom 100
+4\. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (inom 100
 meter) till planlagt område, ska räknas som sammanhållen bebyggelse.
 
-5. Följande förhållanden bör beaktas för en samlad bedömning
+5\. Följande förhållanden bör beaktas för en samlad bedömning
 
 e) bebyggelsens storlek och karaktär
 
@@ -155,7 +155,7 @@ j) områdets läge och avstånd i förhållande till tätort, kommunikationer oc
 
 k) bebyggelsetrycket i område
 
-1) behov av samordning av fysiska förhållanden eller gemensamma anläggningar
+1\) behov av samordning av fysiska förhållanden eller gemensamma anläggningar
 Justerare Expedierat/bestyrkt
 
 €
@@ -176,7 +176,7 @@ på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 Beskrivning av ärendet
 
 Begreppet sammanhållen bebyggelse får betydelse i samband med detaljplane-kravet, plan- och
-bygglagen (2010:900) 4 kap. 2$ 4 samt vid undantagen från kraven på bygglov för
+bygglagen (2010:900) 4 kap. 2\$ 4 samt vid undantagen från kraven på bygglov för
 kompletteringsåtgärder på en- och tvåbostadshus, 9 kap. 68.
 
 Förvaltningen för Plan & Bygg gav hösten 2017 ett uppdrag till advokatfirman Glimstedt att utreda
@@ -241,25 +241,25 @@ utredning och Boverkets handbok. Förvaltningen anser att slutsatserna i Glimste
 sett är relevanta och föreslår följande förslag till riktlinjer för vad som ska tolkas som
 sammanhållen bebyggelse:
 
-1. Utgångspunkten är 10 huvudbyggnader, exklusive komplementbyggnader och mindre anläggningar,
+1\. Utgångspunkten är 10 huvudbyggnader, exklusive komplementbyggnader och mindre anläggningar,
 fördelade på minst 2 tomtplatser. Byggnader behöver inte enbart vara bostäder, utan kan även vara
 butiker, industribyggnader eller liknande.
 
-2. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen bebyggelse.
+2\. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen bebyggelse.
 
-3. Följande förhållanden innebär, med beaktande av plankravet, att 5-10 byggnader normalt är
+3\. Följande förhållanden innebär, med beaktande av plankravet, att 5-10 byggnader normalt är
 tillräckligt antal i eller i närhet av:
 a) utvecklingsområde enligt ÖP06
 b) programområde för fördjupad översiktsplan
 c) område med särskilda bygglovskriterier
-- d) serviceorter
+\- d) serviceorter
 e) kulturreservat
 PN riks- och allmänna intressen såsom t.ex. intresse för kulturmiljövård/kulturmiljöprogram
 
-4. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (högst 100 meter)
+4\. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (högst 100 meter)
 till planlagt område, ska räknas som sammanhållen bebyggelse.
 
-3. Följande förhållanden bör beaktas för en samlad bedömning
+3\. Följande förhållanden bör beaktas för en samlad bedömning
 
 a) bebyggelsens storlek och karaktär
 
@@ -291,7 +291,7 @@ Ovan redovisade riktlinjer är inte juridiskt bindande utan endast vägledande. 
 på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2020-02-26, $ 45, förslag: Byggnadsnämnden antar
+Byggnadsnämndens arbetsutskott 2020-02-26, \$ 45, förslag: Byggnadsnämnden antar
 arbetsutskottets förslag till Riktlinjer för tolkning av begreppet sammanhållen bebyggelse, enligt
 
 nedan:
@@ -398,7 +398,7 @@ En bedömning om en bebyggelsegrupp utgör sammanhållen bebyggelse ska
 alltid göras utifrån ett samlat intryck med hänsyn till de förhållanden som
 anges under punkten 4.
 
-1. En bebyggelsegrupp utgörs i regel av sammanhållen bebyggelse om
+1\. En bebyggelsegrupp utgörs i regel av sammanhållen bebyggelse om
 den består av 10-20 hus, exklusive mindre anläggningar eller
 komplementbyggnader som tillhör en huvudbyggnad. För att räknas
 som sammanhållen bebyggelse behöver byggnaderna vara fördelade på
@@ -407,16 +407,16 @@ av en väg, gata, parkmark (naturmark), eller likande ytor. Byggnader
 behöver inte enbart vara bostäder utan kan även vara butiker,
 industribyggnader eller liknande.
 
-2. En bebyggelsegrupp med fler än 20 hus enligt definitionen ovan,
+2\. En bebyggelsegrupp med fler än 20 hus enligt definitionen ovan,
 bedöms alltid utgöra en sammanhållen bebyggelse.
 
-3. Enstaka tomter med byggnader eller mindre grupper av byggnader (tio
+3\. Enstaka tomter med byggnader eller mindre grupper av byggnader (tio
 eller färre), som gränsar till detaljplan eller skiljs åt genom en detaljplan
 av en väg, gata, parkmark (naturmark), eller likande ytor (inom 100
 
 meter), kan räknas som sammanhållen bebyggelse.
 
-4. Det samlade intrycket på platsen bedöms med hänsyn till följande:
+4\. Det samlade intrycket på platsen bedöms med hänsyn till följande:
 • bebyggelsens storlek, utformning och områdets karaktär
 • bebyggelsestruktur och fastighetsindelning
 • bebyggelsen eller områdets känslighet avseende kulturmiljö

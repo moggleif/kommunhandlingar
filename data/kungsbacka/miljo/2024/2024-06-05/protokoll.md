@@ -423,24 +423,24 @@ samråd med de viktiga aktörerna. Det är också Kungsbacka kommuns vilja att v
 en tydlig samarbetspart i samhällsutvecklingen.
 
 Till remissen finns ett flertal utredningar och underlag:
--  Sammanställning i text och ett digitalt kartunderlag i Hajk
+\-  Sammanställning i text och ett digitalt kartunderlag i Hajk
 
--  Redovisningar från invånardialoger och workshops med näringsliv,
+\-  Redovisningar från invånardialoger och workshops med näringsliv,
 föreningsliv och politiker (3 filer)
--  Kulturmiljöprogrammet och tillhörande rekommendationer (2 filer)
+\-  Kulturmiljöprogrammet och tillhörande rekommendationer (2 filer)
 
--  Naturvärdesinventeringar och ekosystemtjänstanalys (4 filer)
+\-  Naturvärdesinventeringar och ekosystemtjänstanalys (4 filer)
 
--  Riktlinjer, överblick i textformat och tabellöversikt (2 filer)
--  Social konsekvensanalys (2 filer)
+\-  Riktlinjer, överblick i textformat och tabellöversikt (2 filer)
+\-  Social konsekvensanalys (2 filer)
 
--  Trafikutredningar, inklusive kollektivtrafik och parkeringar (19 filer)
--  Trafikverkets åtgärdsvalsstudier för regional kollektivtrafik (6 filer)
+\-  Trafikutredningar, inklusive kollektivtrafik och parkeringar (19 filer)
+\-  Trafikverkets åtgärdsvalsstudier för regional kollektivtrafik (6 filer)
 
--  Hållbarhetsbokslut 2022
--  Kungsbacka i världen, Omvärldsanalys 2022
+\-  Hållbarhetsbokslut 2022
+\-  Kungsbacka i världen, Omvärldsanalys 2022
 
--  Översvämningsrisk - Förstudie om lokalisering, genomförbarhet och
+\-  Översvämningsrisk - Förstudie om lokalisering, genomförbarhet och
 kostnadsbedömning för översvämningsskydd
 
 Beslutsunderlag
@@ -507,7 +507,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Byggnadsnämnden beslutade 2024-05-17 att godkänna uppföljning och prognos april
-2024.
+2024\.
 
 Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per april 2024
 för Byggnadsnämnden enligt kommunens riktlinjer. Byggnadsnämnden redovisar ett

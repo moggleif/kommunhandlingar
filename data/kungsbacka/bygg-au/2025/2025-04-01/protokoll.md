@@ -50,23 +50,23 @@ Hanna Ståhl, verksamhetschef
 Peter Sebestyén, enhetschef
 Kasra Hassirian, förvaltningsjurist
 Christina Nordberg, controller
-$$ 75-79
+\$\$ 75-79
 Thinh Bui-Ljungqvist, senior
 bygglovshandläggare
 André Nilsson, senior
 bygglovshandläggare
 Ida Lennartsson, verksamhetschef
-Andreas Rydholm, kartingenjör $ 80
-Björn Vikström, planarkitekt $$ 75-77
+Andreas Rydholm, kartingenjör \$ 80
+Björn Vikström, planarkitekt \$\$ 75-77
 Maria Malone, senior planarkitekt
-$ 81
-Stina Wikström, planarkitekt $$ 81-83
-Sofia Wiman, planarkitekt $$ 81-83
+\$ 81
+Stina Wikström, planarkitekt \$\$ 81-83
+Sofia Wiman, planarkitekt \$\$ 81-83
 Sofie Axelsson, nämndsekreterare
 Sofia Johansson, nämndsekreterare
 
 Plats och tid för justering — Digital justering
-Sekreterare Sofie Axelsson Paragrafer $$ 75-93
+Sekreterare Sofie Axelsson Paragrafer \$\$ 75-93
 
 Ordförande Thure Sandén (M)
 
@@ -210,14 +210,14 @@ kommun den 3-4 april 2025.
 
 Vidare informerar Katarina om den utbildning som genomförts inom ramen för
 kommunens beredskapsplan för kris- och beredskap på Ringhals den 19 mars
-2025. Syftet med utbildningen var att få en ökad förståelse för
+2025\. Syftet med utbildningen var att få en ökad förståelse för
 kärnenergiberedskapen i Halland.
 
 Slutligen får arbetsutskottet information om att strategidagen mellan
 byggnadsnämnden och nämnden för Miljö & Hälsoskydd den 10 juni 2025 kommer
 att hållas på Liseberg Grand Curiosa Hotel, i Göteborg. Under denna dag kommer de
 båda nämnderna fördjupa sig i och arbeta vidare med den antagna strategin för 2024–
-2027.
+2027\.
 
 Beslutsgång
 
@@ -532,7 +532,7 @@ Sammanfattning av ärendet
 Byggnadsnämnden gav den 28 november 2018, § 465, samhällsbyggnadskontoret i
 uppdrag att upprätta detaljplan för bostäder, verksamheter och restaurang inom
 Skällared 3:55 m.fl. i Gottskär. Planprogram har godkänts den 23 oktober 2018, §
-265.
+265\.
 
 Detaljplanen medger byggnation av cirka 70 bostäder, lokaler för verksamheter och
 en restaurangbyggnad samt utbyggnad av erforderlig infrastruktur såsom gator, torg,
@@ -540,7 +540,7 @@ bryggstråk och gång- och cykelstråk. Byggnadernas utformning ska ta till vara
 bebyggelsetraditioner som finns i Gottskär och bidra till att stärka ortens identitet.
 Planförslaget har varit utställt för granskning under tiden 24 september–29 oktober
 
-2024. Under granskningstiden inkom 19 skrivelser. Inkomna synpunkter berörde
+2024\. Under granskningstiden inkom 19 skrivelser. Inkomna synpunkter berörde
 bland annat tillåten nockhöjd, placering av byggnader, antalet bostäder som
 möjliggörs samt trafik. Länsstyrelsen lyfte i sitt yttrande frågor kopplat till hälsa och
 säkerhet samt risk för olyckor, översvämning eller erosion.
@@ -559,7 +559,7 @@ bryggstråk gjorde kontoret bedömningen att detaljplanen skulle genomgå en ny
 granskning.
 
 Planförslaget har varit utställt för en andra granskning under tiden 4–25 februari
-2025. Under granskningstiden inkom 18 skrivelser. Inkomna synpunkter berörde
+2025\. Under granskningstiden inkom 18 skrivelser. Inkomna synpunkter berörde
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D3FB47DC7E7E692608F878330361149FE2B36C9505
@@ -1027,10 +1027,10 @@ kräver bygglov kan tillåtas på en specifik plats.
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -1314,7 +1314,7 @@ fastigheter.
 Handläggningens tidsfrist
 Ansökan inkom den 23 januari 2025 och var då fullständig för handläggning. Beslut
 ska meddelas inom tio veckor från det att ansökan var komplett, senast den 3 april
-2025.
+2025\.
 
 Historik/bebyggelsetryck
 Det råder ett högt bebyggelsetryck i hela kommunen, men framför allt i kommunens
@@ -1648,7 +1648,7 @@ placeringen att betrakta som planenlig.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  Befintlig huvudbyggnad och tillbyggnaden har två våningar. Enligt den
+\-  Befintlig huvudbyggnad och tillbyggnaden har två våningar. Enligt den
 gällande detaljplan får byggnad uppföras med högst en våning.
 
 Övriga förutsättningar
@@ -2043,7 +2043,7 @@ Byggnaderna föreslås få en fasad av stående och liggande träpanel i grön k
 S 5020-G30Y, grunden får vitputsad betong i kulör NCS S 1000-N. Taket får
 mattsvarta betongpannor och papp med en varierande taklutning mellan 31 och 33,43
 grader på flerbostadshusen. Fönster och glaspartier föreslås vara svarta i kulör RAL
-9005.
+9005\.
 
 Vidare avser ansökan stödmurar med en total längd om 86,4 meter där högsta höjd på
 murar mäter upp till 3,1 meter. Stödmur 1B om 23,6 meters längd är placerad i
@@ -2126,9 +2126,9 @@ parkering: antal p-platser, skymda hörn m.m. Miljöhusets placering och storlek
 antal återvinningskärl till flerbostadshus m.m. Väglutning för samt trafik- och
 omgivningspåverkan vid in- och utfarter, dagvattenhantering. Av yttrande daterat
 2025-02-07 framgår att Teknik önskar att följande presenteras i ansökan:
-- Total fördröjningsvolym i m3 för de makadammagasin som ska anläggas.
+\- Total fördröjningsvolym i m3 för de makadammagasin som ska anläggas.
 
-- Total hårdgjord yta i m2 på fastigheten.
+\- Total hårdgjord yta i m2 på fastigheten.
 Detta för att förtydliga att man uppfyller krav på fördröjningsvolymer.
 
 Vidare önskar Teknik att en plan för underhåll av gräsarmering och
@@ -2722,8 +2722,8 @@ Avstånd till tomtgräns är 4,5 meter.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- del av lagertältet är placerad på punktprickad mark.
-- lagertältet är placerad 4,0 meter ifrån tomtgränsen planen medger ett avstånd på 4,5
+\- del av lagertältet är placerad på punktprickad mark.
+\- lagertältet är placerad 4,0 meter ifrån tomtgränsen planen medger ett avstånd på 4,5
 meter.
 
 Beslutsunderlag
@@ -2797,10 +2797,10 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Förvaltningen bedömer att föreslagen åtgärd inte förutsätter planläggning.

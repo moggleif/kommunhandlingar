@@ -265,7 +265,7 @@ möjligheten att beställa matvaror eller färdigrätter.           eller att ma
 Nio av tio kunder tycker att antalet färdigrätter de kan välja med möter deras behov Ett önskemål som flera brukare tog upp var att upphandla varor lokalt i
 och tre av fyra att det möter deras önskemål. Det är på ungefär samma nivå som Kungsbacka, både av miljöskäl och för att gynna lokala handlare.
 
-2023.
+2023\.
 Slutsatser
 Brukarna tar oftast del av hela eller en stor del av utbudet vid digital beställning av
 Systemet med digitala matbeställningar fungerar överlag bra och de flesta brukare
@@ -1272,13 +1272,13 @@ I motionen framförs att undersökningarna ska redovisas på ett ändamålsenlig
 kommunfullmäktiges övergripande arbetsmiljömål.
 Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 och nämnden för Vård & Omsorg för beredning.
@@ -1492,16 +1492,16 @@ bättre arbetsmiljö.
 Under hösten 2020 antog kommunfullmäktige fem övergripande arbetsmiljömål som ligger i
 fokus för den egna verksamheten i kommunen. Dessa är:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Nämnden Individ och Familjeomsorg och nämnden Vård och Omsorg har många
 beröringspunkter inte minst utifrån nuvarande reglementen, lagområden, målgrupper och
@@ -1548,7 +1548,7 @@ initiativärende så att ansvaret vilar ytterst på politiskt förtroendevalda i
 intentioner.
 
 Förslag till beslut:
-1. Nämnden för Vård och Omsorg beslutar att samtliga aktuella och framtida
+1\. Nämnden för Vård och Omsorg beslutar att samtliga aktuella och framtida
 organisationsförändringar ska bedömas och beslutas av nämnden för Vård & Omsorg i
 enlighet med initiativärendets andemening.
 
@@ -1927,7 +1927,7 @@ som syftar till att synliggöra och utveckla goda medarbetarbeteenden. Spelet bl
 tillsammans utforskar de egna förutsättningarna för det goda medarbetarskapet utifrån den specifika
 arbetsmiljö i vilken man verkar. Spelet bygger på samma filosofi som det utvecklande
 medarbetarskapet. Under 2023 har 6 av förvaltningens ca 40 enheter spelat och arbetet fortsätter under
-2024. Att Utvecklande Medarbetarskap ska vara vår ledstjärna och genomsyra verksamheterna i allt vi
+2024\. Att Utvecklande Medarbetarskap ska vara vår ledstjärna och genomsyra verksamheterna i allt vi
 gör behöver integreras i vardagen med dialogen som redskap för att få en reell effekt. Utifrån de
 utmaningar vi står inför i ett samhälle i förändring kopplar vi an det Utvecklande medarbetarskapet i
 pågående förändringsarbete. Ett exempel på det är införande av Kungsbacka modellen. Ett annat är

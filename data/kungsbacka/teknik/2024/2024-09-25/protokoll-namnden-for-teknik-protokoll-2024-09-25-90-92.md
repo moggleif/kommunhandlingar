@@ -94,9 +94,9 @@ Beslut
 Nämnden för Teknik godkänner delårsrapport 2 och prognos för 2024 med en
 redaktionell förändring, och vill uppmärksamma Kommunstyrelsen på att:
 
-- prognosen för helåret avseende VA-verksamheten visar på ett underskott på 9,7
+\- prognosen för helåret avseende VA-verksamheten visar på ett underskott på 9,7
 miljoner kronor jämfört med budget.
-- nämnden planerar att nyttja medel från sin fond med motsvarande 11,1 miljoner
+\- nämnden planerar att nyttja medel från sin fond med motsvarande 11,1 miljoner
 kronor under 2024 för att täcka underskottet.
 
 Nämnden för Teknik förklarar paragrafen omedelbart justerad.
@@ -220,11 +220,11 @@ I ärendets förslag till beslut inryms tre separata ärenden som lyfts till nä
 samlingsärende.
 De tre ärendena är:
 
--  Avfallstaxan för 2025
--  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg-
+\-  Avfallstaxan för 2025
+\-  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg-
 och rivningsavfall
 
--  Beslut om införande av ett auktorisationssystem för hantering av kommunalt
+\-  Beslut om införande av ett auktorisationssystem för hantering av kommunalt
 avfall
 Nämnden för Tekniks beslut om Avfallstaxa 2025 från nämnden för Tekniks
 sammanträde i april 2024 har reviderats på grund av ny lagstiftning. Avfallstaxa

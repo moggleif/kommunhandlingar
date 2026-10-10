@@ -407,10 +407,10 @@ Nämndens årsredovisning 2025
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Kommunövergripande bedömning
 Vi har nått målet
@@ -547,11 +547,11 @@ diskuterades.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -601,7 +601,7 @@ Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 %   85 %      85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 Andelen elever som skattat sin egen
@@ -612,20 +612,20 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 72 %   79 %      73 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 93 %   92 %      89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %      73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 
 11
 
@@ -638,7 +638,7 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %      86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -659,7 +659,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115      151
@@ -720,8 +720,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -801,8 +801,8 @@ Vårt primära fokus under 2026 är att systematiskt arbeta för ett förbättra
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 14
 
@@ -854,11 +854,11 @@ kr/invånare (Kolada)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -2525,7 +2525,7 @@ planeringsskede och byggstart kommer att ske under 2026. Projektet beräknas fä
 
 5565 VOMV Hagryd-Dala. Projektets syfte är att bygga ut vatten och avlopp till 165 fastigheter och är indelat i
 tre tapper. Etapp 1 är avslutad år 2023. Etapp 2 omfattar 150 fastigheter och byggstart skedde under februari
-2025. Etapp 2 färdigställs under 2027. Projektet ligger något efter ursprunglig tidplan vilket medför att
+2025\. Etapp 2 färdigställs under 2027. Projektet ligger något efter ursprunglig tidplan vilket medför att
 intäkterna i form av anslutningsavgifter senarelagts.
 550B VUTB Frillesås åtgärder spillvatten. Projektet som syftar till att förstärka spillvattensystemet avslutades
 under året. Budgeten överskreds till följd av svåra schaktarbeten.
@@ -2538,7 +2538,7 @@ vattenverket i Fjärås och centrala Kungsbacka för att säkerställa vattenlev
 Onsalahalvön samt de norra och nordvästliga delarna av Kungsbacka. Projektet är också en viktig del i att skapa
 en redundant vattenförsörjning genom att skapa möjligheter till utbyte av vatten med våra grannkommuner
 Mölndal och Göteborg. Etapp 2 kommer färdigställas i början av 2026. Slutlig etapp 3 kommer att påbörjas
-2026.
+2026\.
 7528 Framtidens avloppsrening FAR Hammargård har under 2025 befunnit sig i projekteringsfas och nämnden
 fattade beslut i december 2025 att projektet övergår i fas 2, byggnation. Utfallet är lägre än budgeterat för år
 2025 och projektet kommer fortgå till år 2030.
@@ -3529,7 +3529,7 @@ exploateringsprojekten inom den skattefinansierade verksamheten är nödvändig 
 
 projekten.
 Utöver exploatering ombudgeteras -0,3 miljoner kronor för övriga investeringar vilket framgår i bilaga
-2. Det avser utgifter som förvaltningen haft relaterade till Livsmedelsverkets stöd för allmän
+2\. Det avser utgifter som förvaltningen haft relaterade till Livsmedelsverkets stöd för allmän
 dricksvattenförsörjning. Resterande del av bidraget betalas ut 2026 från Livsmedelsverket och därmed
 är det nödvändigt att ombudgetera årets underskott.
 
@@ -3920,19 +3920,19 @@ principer som tillämpas i många andra kommuner.
 Förslag till beslut
 Tekniknämnden beslutar att:
 
-1. Förvaltningen får i uppdrag att ta fram ett förslag till kommunalt regelverk som möjliggör för
+1\. Förvaltningen får i uppdrag att ta fram ett förslag till kommunalt regelverk som möjliggör för
 
 politiska partier att sätta upp valaffischer på lyktstolpar. Detta i första hand för vägar med
 kommunalt huvudmannaskap, i andra hand för vägar med statligt huvudmannaskap (där hänsyn
 även måste tas till de nationella riktlinjerna för affischering längs med statliga vägar).
 
-2. Förvaltningen får i uppdrag att ta fram riktlinjer för:
-- vilka platser och typer av stolpar som omfattas,
-- tidsperiod för uppsättning och nedtagning,
-- ansvar för säkerhet, skötsel och borttagning.
-- avgifter för när riktlinjerna inte efterföljs.
+2\. Förvaltningen får i uppdrag att ta fram riktlinjer för:
+\- vilka platser och typer av stolpar som omfattas,
+\- tidsperiod för uppsättning och nedtagning,
+\- ansvar för säkerhet, skötsel och borttagning.
+\- avgifter för när riktlinjerna inte efterföljs.
 
-3. Förvaltningen ska återredovisa uppdraget senast under första halvåret 2026, i god tid innan
+3\. Förvaltningen ska återredovisa uppdraget senast under första halvåret 2026, i god tid innan
 
 valrörelsen.
 
@@ -4410,7 +4410,7 @@ Datum
 Diarienummer
 TE-2025-01040
 
-Detaljkarta_ Varlavägen_2
+Detaljkarta\_ Varlavägen_2
 
 <!-- sida 117 -->
 
@@ -4422,7 +4422,7 @@ Datum
 Diarienummer
 TE-2025-01040
 
-Detaljkarta_ Varlavägen_3
+Detaljkarta\_ Varlavägen_3
 
 <!-- sida 118 -->
 
@@ -4446,11 +4446,11 @@ de nationella riktlinjerna för affischering längs med statliga vägar).
 
 Förvaltningen har fått i uppdrag att ta fram riktlinjer för:
 
-- vilka platser och typer av stolpar som omfattas,
-- tidsperiod för uppsättning och nedtagning,
+\- vilka platser och typer av stolpar som omfattas,
+\- tidsperiod för uppsättning och nedtagning,
 
-- ansvar för säkerhet, skötsel och borttagning.
-- avgifter för när riktlinjerna inte efterföljs.
+\- ansvar för säkerhet, skötsel och borttagning.
+\- avgifter för när riktlinjerna inte efterföljs.
 
 Beslutsunderlag
 
@@ -4482,12 +4482,12 @@ KUNGSBACKA  KOMMUN
 
 Förvaltningen har fått i uppdrag att ta fram riktlinjer för:
 
-- vilka platser och typer av stolpar som omfattas,
+\- vilka platser och typer av stolpar som omfattas,
 
-- tidsperiod för uppsättning och nedtagning,
-- ansvar för säkerhet, skötsel och borttagning.
+\- tidsperiod för uppsättning och nedtagning,
+\- ansvar för säkerhet, skötsel och borttagning.
 
-- avgifter för när riktlinjerna inte efterföljs.
+\- avgifter för när riktlinjerna inte efterföljs.
 
 Innehåll
 Förvaltningen har tagit fram förslag på rutin för valaffischering daterad 2026-01-26. Rutinen
@@ -4619,17 +4619,17 @@ Internkontrollrapport 2025 -
 Granskningar har genomförts inom fyra områden; 1) Personal, 2) Ekonomi 3) Informationssäkerhet,
 Administration och Inköp samt 4) Verksamhet.
 
-1. Personal: HR har tydliggjort rekryteringsprocessens steg och skapat en gemensam rutin. Rutinen har
+1\. Personal: HR har tydliggjort rekryteringsprocessens steg och skapat en gemensam rutin. Rutinen har
 kommunicerats till förvaltningens chefer.
-2. Ekonomi: Innovationsledaren har i samråd med ledningsgruppen arbetat fram en utvecklingsportfölj
+2\. Ekonomi: Innovationsledaren har i samråd med ledningsgruppen arbetat fram en utvecklingsportfölj
 som på ett strukturellt sätt hanterar och värderar inkomna initiativ så rätt åtgärder möjliggörs efter
 behov.
-3. Informationssäkerhet, Administration och Inköp: Förvaltningen har som rutin att granska
+3\. Informationssäkerhet, Administration och Inköp: Förvaltningen har som rutin att granska
 leverantörer och entreprenörer och det hanteras korrekt och enligt de bestämda reglerna. Hanteringen
 har förbättrats efter utbildningsinsatser.
 Konsekvent dokumentation av inköp och avtal behöver bli tydligare och mer enhetlig över samtliga
 verksamheter på förvaltningen.
-4. Verksamhet: Förvaltningens fokus under 2025 var hantering av vägbidrag, säkerhets- och
+4\. Verksamhet: Förvaltningens fokus under 2025 var hantering av vägbidrag, säkerhets- och
 beredskapsarbetet samt särskilt utsatta verksamheter gällande korruption och välfärdsbrottslighet.
 
 Nämndens verksamhetsområden är inte utan brister, men det finns fungerande arbetssätt för att hantera dessa.
@@ -4912,7 +4912,7 @@ privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftel
 kommunen eller regionen.
 
 För 2025 avser siffrorna perioden 2024-11 till 2025-10 och för 2024 avser siffrorna perioden 2023-11 till 2024-
-10.
+10\.
 Nedan följer några exempel på hur förvaltningen tar del av kommuninvånarnas perspektiv gällande
 avtalsuppföljning:
 
@@ -5151,29 +5151,29 @@ Kungsbackaborna
 
 Exempel från andra kommuner
 
-- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
+\- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
 26 599 m?, alltså 221 946 av målet.
 
-- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
+\- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
 konstaterar att det var en billig och effektiv satsning som engagerade många fler än man
 kunnat göra med egna resurser.
 
 Fördelar för Kungsbacka
 
-- Arbetet kan göras på sommaren när kommunens personal har semester.
+\- Arbetet kan göras på sommaren när kommunens personal har semester.
 
-- Invånarna får vara med och förbättra sitt närområde.
+\- Invånarna får vara med och förbättra sitt närområde.
 
-- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
+\- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
 
-- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
-- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
+\- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
+\- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
 gemenskap och stolthet.
 
 Yrkande
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
+\- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
 
 liknande som ett komplement i arbetet mot invasiva arter och återkommer till
 fullmäktige med förslag till beslut.
@@ -5448,7 +5448,7 @@ Yrkande
 
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
+\- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
 Kolla Parkstad och återkommer till kommunfullmäktige för beslut.
 
 För Kungsbackaborna
@@ -5679,7 +5679,7 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 Remittering av motion från Mats Ståhlberg (KB) om anläggande av hundrastgård i Kolla. KS 2025-
-00630.
+00630\.
 
 Beslutet skickas till
 
@@ -6161,14 +6161,14 @@ upphävs till följd av den nya detaljplanen. Se karta nedan.
 
 Planområde
 
-1.
+1\.
 
 Befintlig
 betongindustri
 
 Idrottsplats
 
-2.
+2\.
 
 1
 
@@ -6435,14 +6435,14 @@ Stabilitetsberäkningar har utförts i fyra representativa sektioner. Resultaten
 befintliga förhållanden är tillfredsställande.
 För planerade förhållanden uppnås erforderlig säkerhet i samtliga sektioner, men vissa åtgärder är
 nödvändiga:
--  All schaktning och fyllning >0,5 m ska föregås av geoteknisk kontroll och detaljprojektering
+\-  All schaktning och fyllning >0,5 m ska föregås av geoteknisk kontroll och detaljprojektering
 
--  Höjdsättning och utformning är avgörande för stabilitet och måste fastställas innan byggnation.
--  Norra dagvattendammen: Avstånd mellan dammens släntkrön och Almedalsvägens släntfot ska
+\-  Höjdsättning och utformning är avgörande för stabilitet och måste fastställas innan byggnation.
+\-  Norra dagvattendammen: Avstånd mellan dammens släntkrön och Almedalsvägens släntfot ska
 vara minst 14 meter och släntlutning får inte vara brantare än 1:3. Om avståndet inte kan uppnås,
 krävs stödkonstruktion mot Almedalsvägen.
 
--  Södra dagvattendammen: Planerad väg ska placeras minst 7 meter från dammens släntkrön.
+\-  Södra dagvattendammen: Planerad väg ska placeras minst 7 meter från dammens släntkrön.
 Känslighetsanalys: Vid högt portryck kan säkerheten minska, men nuvarande mätningar indikerar att
 detta scenario är osannolikt.
 Sammanfattningsvis bedöms området lämpligt för den planerade exploateringen under förutsättning att
@@ -6601,7 +6601,7 @@ planområdets norra del i samband med framtagandet av detaljplanen (Kulturmiljö
 fynd eller anläggningar av antikvariskt intresse påträffades vid utredningen, varför inga ytterligare
 
 Figur 14 Bilden visar de två områden där fynd påträffats och som genomgått en arkeologisk förundersökning under hösten
-2020. Områdena benämns Frillesås 109 och Frillesås 108. Bild: Kulturmiljö Halland.
+2020\. Områdena benämns Frillesås 109 och Frillesås 108. Bild: Kulturmiljö Halland.
 
 arkeologiska insatser krävs för detta delområde.
 En begäran om arkeologisk utredning avseende markområden som detaljplanen utökats med har
@@ -6904,7 +6904,7 @@ I trafikutredning (Bouvier, 2025-12-01) har kapacitet och framkomlighet vid traf
 analyserats, med fokus på hur den ökade trafiken från exploateringen påverkar funktion och
 belastning. Utredningen visar att trafikplatsen har tillräcklig kapacitet för den planerade verksamheten
 och att inga åtgärder behöver vidtas, varken till följd av exploateringen nu eller i ett framtida scenario
-2050.
+2050\.
 
 En ny cirkulationsplats föreslås i norra delen av planområdet, inom vägområdet för Almedalsvägen.
 Läge för den nya cirkulationsplatsen sammanfaller med en befintlig väganslutning till Almedalsvägen.
@@ -7456,7 +7456,7 @@ och i viss mån störande verksamheter inte sker i området. Vad som är den mes
 i ett nollalternativ är inte alltid lätt att bedöma, men utgångspunkten i detta fall är att nuvarande
 markanvändning i form av delvis brukade åker- och betesmarker i så fall kommer att bestå. De
 miljökonsekvenser som beskrivs i kapitel 6-15 i miljökonsekvensbeskrivningen (Norconsult 2025-11-
-14) blir inte verklighet i ett nollalternativ, utan beskrivningarna under ”Nuvarande förhållanden” för
+14\) blir inte verklighet i ett nollalternativ, utan beskrivningarna under ”Nuvarande förhållanden” för
 respektive miljöaspekt kommer i huvudsak att gälla även framöver.
 
 En annan tänkbar utveckling är att brukandet av odlingsmarkerna efterhand upphör, vilket på sikt leder
@@ -7694,7 +7694,7 @@ utan att anläggningskostnaderna blir orimligt höga.
 Miljömål
 
 De miljömål som anses vara relevanta för planen är 1, 2, 6, 7, 8, 10, 13, 15 och 16.
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 Planerad utbyggnad av verksamheter med inriktning på logistik och lager ger en lokal ökning av trafik
 och uppvärmning av arbetsplatser. Planens påverkan på klimatet beror nästan uteslutande på att
 trafiken ökar i området, vilket ger en ökning av utsläppet av växthusgaser. Dessa konsekvenser finns i
@@ -7709,12 +7709,12 @@ resurser, vilket bl.a. medför transporter, användande av arbetsmaskiner samt f
 och materiel. Detta innebär i sin tur utsläpp av koldioxid både som följd av anläggningsarbetena och
 vid produktionen av byggnadsmaterial etc. Sammantaget bedöms detaljplanens lokala klimatpåverkan
 bli liten i negativ riktning.
-2. Frisk luft
+2\. Frisk luft
 Detaljplanen medför små ökningar av halterna av luftföroreningar. Gällande miljökvalitetsnormer
 bedöms komma att klaras med stor marginal. Miljöpåverkan med avseende på frisk luft bedöms
 därmed bli svagt negativ
 
-7. Ingen övergödning
+7\. Ingen övergödning
 Detaljplanen beräknas minska näringshaltsbelastningen från planområdet jämfört med idag, vilket
 bidrar något till att förbättra vattenkvaliteten i recipienterna Löftaån, Vendelsöfjorden och
 Landabukten. Detta då planområdet utformas med en förbättrad dagvattenhantering som fördröjer och
@@ -7726,25 +7726,25 @@ ekologiska och kemiska status och därmed inte heller möjligheterna till att up
 <!-- sida 208 -->
 
 Miljöpåverkan med avseende på övergödning bedöms därmed bli svagt positiv.
-8. Levande sjöar och vattendrag
+8\. Levande sjöar och vattendrag
 Planförslaget med förslaget dagvattensystem bedöms ge en minskad föroreningsbelastning via
 dagvatten från området ned mot l Löftaån jämfört med idag. Detta kan bidra något till att minska
 övergödningen i Löftaån och havet, vilket är positivt för åns växt- och djurliv. Samtidigt krävs
 sannolikt kraftfullare åtgärder för att säkerställa att miljökvalitetsnormer i ån uppnås. Miljöpåverkan
 med avseende på levande sjöar och vattendrag bedöms därmed bli svagt positiv.
 
-10. Hav i balans samt levande kust och skärgård
+10\. Hav i balans samt levande kust och skärgård
 Planen ger upphov till en minskad föroreningsbelastning och bidrar därmed något till att minska
 övergödningen av mynningsområdet Vendelsöfjorden och Landabukten, genom att tillförseln av
 näringsämnen från jordbruksmark minskas. Samtidigt berör planen endast en mycket begränsad del av
 slutrecipienten Vändelsöarkipelagens avrinningsområde, varför situationen i recipienten inte förändras
 nämnvärt av utbyggnaden utan mer kraftfulla åtgärder krävs för att få en märkbar effekt.
-13. Ett rikt odlingslandskap
+13\. Ett rikt odlingslandskap
 Utbyggnaden innebär att ytterligare en del av det öppna odlingslandskapet kring Frillesås tas i anspråk
 för utbyggnad av verksamhetsområdet. Vidare tas brukningsvärd odlingsmark i anspråk, vilket innebär
 att möjligheten att i framtiden utnyttja området för odling försvinner, vilket är negativt. Detaljplanen
 innebär därmed en stor negativ påverkan på miljömålet.
-15. God bebyggd miljö
+15\. God bebyggd miljö
 Utbyggnaden innebär att brukningsvärd jordbruksmark bebyggs med verksamheter, vilket negativt
 påverkar möjligheten att i framtiden utnyttja marken för livsmedelsproduktion. Samtidigt utgör planen
 en del i Kungsbacka kommuns arbete med att på sikt omplacera företag som alstrat tung trafik till
@@ -7757,7 +7757,7 @@ friluftsvärdena bedöms som liten. Marken utnyttjas därmed på ett mer effekti
 bedöms planförslaget påverkas målet i negativ riktning. Planförslaget medför därmed påverkan i såväl
 positiv som negativ riktning, denna bedöms som liten till måttlig.
 
-16. Ett rikt växt- och djurliv
+16\. Ett rikt växt- och djurliv
 Utbyggnaden medför framför allt att åkermark utan några högre naturvärden tas i anspråk för ett
 verksamhetsområde. Dock är konsekvenserna på växt- och djurlivet avhängigt på den mer detaljerade
 planeringen av verksamhetsytorna samt vilken hänsyn som tas till naturvärdes- och biotopskyddade
@@ -8988,7 +8988,7 @@ antingen genom att själva vara av särskild vikt eller genom att de indikerar a
 naturtyper är särskilt viktiga ur ett naturvårdsperspektiv. De fynd som görs och de naturtyper som finns
 representerade kan dock ge en vägledning om hur naturvärdena skall bedömas.
 Planområdet har besökts av biologer vid ett flertal tillfällen under planprojektet (år 2009, 2015 och
-2021) för att studera bland annat naturmiljön. Under dessa fältbesök i området gjordes inga fynd av
+2021\) för att studera bland annat naturmiljön. Under dessa fältbesök i området gjordes inga fynd av
 skyddade eller skyddsvärda arter. En del av anledningen till detta är att större delen av området utgörs
 av åker- och betesmark, samt igenväxande odlingsmark utan några högre naturvärden. Således
 bedöms förutsättningarna för skyddade eller skyddsvärda arter vara begränsade. Däremot finns
@@ -9089,7 +9089,7 @@ groda och mindre vattensalamander. Eftersökningar och noteringar har gjorts av 
 eventuella spelläten, lekbeteenden och ägg/rom.
 Tabell 4.2. Inventeringsresultat.
 
-* Vid inventeringstillfället påträffades dock romklumpar i ett dike strax sydöst om dammen vid centralt höjdområde.
+\* Vid inventeringstillfället påträffades dock romklumpar i ett dike strax sydöst om dammen vid centralt höjdområde.
 
 | 23(69)
 
@@ -9110,7 +9110,7 @@ Tabell 4.2. Inventeringsresultat.
 
 | Datum | Damm vid centralt höjdområde | Damm i planområdets sydvästra hörn | Väderlek |
 | --- | --- | --- | --- |
-| 13 april<br>2021* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
+| 13 april<br>2021\* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
 | 20 april<br>2021 | Inga noteringar av romklumpar<br>eller grodor. | Inga individer eller romklumpar av vanlig<br>groda eller åkergroda. Dock hördes 1<br>möjligt spelläte av åkergroda under en<br>kort stund i anslutning till dammen. | Cirka 15-16 grader, molnfri<br>himmel, svag vind. |
 | 17 maj<br>2021 | Två noteringar av mindre vatten-<br>salamander (1 hona och 1 hane) | Inga noteringar av någon art av<br>salamander. | Cirka 10-11 grader, molnfri<br>himmel, svag vind. Cirka 10<br>grader i dammar. |
 
@@ -10565,9 +10565,9 @@ genomförande medverkar till att målet blir svårare att uppnå, plustecken att
 kommentarer görs i anslutning till bedömningarna i Tabell 11.2.
 Tabell 11.2. Bedömning av relevanta miljömål och hur de påverkas av detaljplanen.
 
-* Bedömningen av miljöpåverkan är gjord i en tregradig skala: liten, måttlig, stor.
+\* Bedömningen av miljöpåverkan är gjord i en tregradig skala: liten, måttlig, stor.
 
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 
 Planerad utbyggnad av verksamheter med inriktning på bland annat logistik och lager ger en lokal
 ökning av trafik och uppvärmning av arbetsplatser. Planens påverkan på klimatet beror nästan
@@ -10596,7 +10596,7 @@ Kungsbacka centrum, vilket bidrar till en bättre miljö i staden. Genom att ge 
 
 [Tabell 279-2](handlingar.tabeller/279-2.csv)
 
-| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan* | Riktning mot (+) eller från<br>(-) miljökvalitetsmålet |
+| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan\* | Riktning mot (+) eller från<br>(-) miljökvalitetsmålet |
 | --- | --- | --- | --- |
 | 1. | Begränsad klimatpåverkan | Liten | - |
 | 7. | Ingen övergödning | Liten | + |
@@ -10616,7 +10616,7 @@ utbyggnaden av området krävs resurser, vilket bland annat medför transporter,
 arbetsmaskiner samt förbrukning av byggvaror och materiel. Detta innebär i sin tur utsläpp av
 koldioxid både som följd av anläggningsarbetena och vid produktionen av byggnadsmaterial etc.
 Sammantaget bedöms detaljplanens lokala klimatpåverkan bli liten i negativ riktning.
-7. Ingen övergödning
+7\. Ingen övergödning
 
 Detaljplanen beräknas minska närsaltsbelastningen från planområdet jämfört med idag, vilket bidrar
 något till att förbättra vattenkvaliteten i recipienterna Löftaån, Vendelsöfjorden och Landabukten. Detta
@@ -10627,27 +10627,27 @@ dagvattensystem bedöms utbyggnaden inte försämra recipienternas ekologiska oc
 och därmed inte heller möjligheterna till att uppnå miljömålet. Miljöpåverkan med avseende på
 övergödning bedöms därmed bli svagt positiv.
 
-8. Levande sjöar och vattendrag
+8\. Levande sjöar och vattendrag
 Planförslaget med förslaget dagvattensystem bedöms ge en minskad föroreningsbelastning via
 dagvatten från området ned mot l Löftaån jämfört med idag. Detta kan bidra något till att minska
 övergödningen i Löftaån och havet, vilket är positivt för åns växt- och djurliv. Samtidigt krävs sannolikt
 kraftfullare åtgärder för att säkerställa att miljökvalitetsnormer i ån uppnås. Miljöpåverkan med
 avseende på levande sjöar och vattendrag bedöms därmed bli svagt positiv.
 
-10. Hav i balans samt levande kust och skärgård
+10\. Hav i balans samt levande kust och skärgård
 Planen ger upphov till en minskad föroreningsbelastning och bidrar därmed något till att minska
 övergödningen av mynningsområdet Vendelsöfjorden och Landabukten, genom att tillförseln av
 näringsämnen från jordbruksmark minskas. Samtidigt berör planen endast en mycket begränsad del
 av slutrecipienten Vändelsöarkipelagens avrinningsområde, varför situationen i recipienten inte
 förändras nämnvärt av utbyggnaden utan mer kraftfulla åtgärder krävs för att få en märkbar effekt.
 
-13. Ett rikt odlingslandskap
+13\. Ett rikt odlingslandskap
 
 Utbyggnaden innebär att ytterligare en del av det öppna odlingslandskapet kring Frillesås tas i
 anspråk för utbyggnad av verksamhetsområdet. Vidare tas brukningsvärd odlingsmark i anspråk,
 vilket innebär att möjligheten att i framtiden utnyttja området för odling försvinner, vilket är negativt.
 Detaljplanen innebär därmed en stor negativ påverkan på miljömålet.
-15. God bebyggd miljö
+15\. God bebyggd miljö
 
 Utbyggnaden innebär att brukningsvärd jordbruksmark bebyggs med verksamheter, vilket negativt
 påverkar möjligheten att i framtiden utnyttja marken för livsmedelsproduktion. Samtidigt utgör planen
@@ -10674,7 +10674,7 @@ Granskningshandling
 preciseringen av målet avseende bebyggelsemiljöer samt platser och landskap bedöms planförslaget
 påverkas målet i negativ riktning. Planförslaget medför påverkan i såväl positiv som negativ riktning,
 denna bedöms som måttlig.
-16. Ett rikt växt- och djurliv
+16\. Ett rikt växt- och djurliv
 
 Utbyggnaden medför framför allt att åkermark utan några högre naturvärden tas i anspråk för ett
 verksamhetsområde. Dock är konsekvenserna på växt- och djurlivet avhängigt på den mer detaljerade
@@ -10857,7 +10857,7 @@ Länsstyrelsen 2025: LstO Informationskartan 2.0 - WebbGIS informationskarta Vä
 hämtad oktober 2025.
 
 Naturvårdsverket 2015: Vägledning om industri- och annat verksamhetsbuller. Rapport 6538. April
-2015.
+2015\.
 Naturvårdsverket 2020: Skyddad natur. http://skyddadnatur.naturvardsverket.se/ Kartverktyg över
 olika skyddsformer.
 
@@ -11215,7 +11215,7 @@ SKALA 1:2000 A1
 
 TECKENFÖRKLARING
 
-+ Kommungräns
+\+ Kommungräns
 — — Trakt-, kvartersgräns
 — — Fastighetsgräns
 or Föreslagen fastighetsgräns

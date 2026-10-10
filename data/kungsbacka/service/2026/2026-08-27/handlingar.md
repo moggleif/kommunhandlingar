@@ -164,12 +164,12 @@ tycker om förslaget.
 an ST 1-6
 Planområde =
 
--
+\-
 Z -
 nl
 a é
 
-+
+\+
 
 a. 2 PA
 
@@ -301,9 +301,9 @@ inom Frillesås-Rya 3:77 m.fl.
 Sammanfattande inställning
 
 Nämnden för Service ställer sig positiv till planförslaget med 2 tillägg.
-1. Dagvattenhanteringen i direkt anslutning till fotbollsplanerna måste säkerställa säkerhet för
+1\. Dagvattenhanteringen i direkt anslutning till fotbollsplanerna måste säkerställa säkerhet för
 verksamheten och dess drift.
-2. Lokalgatan i direkt anslutning till ridanläggningen måste säkerställa säkerhet för verksamheten och
+2\. Lokalgatan i direkt anslutning till ridanläggningen måste säkerställa säkerhet för verksamheten och
 dess drift.
 
 Nämndens ställningstagande i detalj
@@ -475,12 +475,12 @@ Följande beslut är fattade enligt nämnden för Service delegeringsförtecknin
 
 Diarienr.              Beslut enligt nämnden för Service Delegeringsförteckning,
 beslutsfattare samt beslutsdatum.
--                      2.3.6 Avsluta anställning enligt särskild överenskommelse.
+\-                      2.3.6 Avsluta anställning enligt särskild överenskommelse.
 
 Julia Tryggvadottir Tollesson
 2026-06-16
 
--                      2.3.6 Avsluta anställning enligt särskild överenskommelse.
+\-                      2.3.6 Avsluta anställning enligt särskild överenskommelse.
 Julia Tryggvadottir Tollesson
 2026-06-22
 

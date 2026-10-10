@@ -560,7 +560,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -568,10 +568,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -582,10 +582,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -644,7 +644,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
@@ -653,7 +653,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 20 -->

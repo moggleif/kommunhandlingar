@@ -133,7 +133,7 @@ Nämnden för Teknik godkänner förändring av ärendelistan.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Initiativärende angående – Ett grönt spadtag för gemenskap
+\-  Initiativärende angående – Ett grönt spadtag för gemenskap
 
 Ärendet behandlas efter ärende 10 i dagordningen: Information om
 investeringsbehov för att minska läckor i dricksvattenledningsnätet § 123.
@@ -231,13 +231,13 @@ Nämnden för Teknik uppdrog 2024-06-19 § 84 åt förvaltningen att utveckla et
 klassificeringssystem för skötsel av ytor i Kungsbacka kommun.
 
 Systemet består av tre klasser: Finrum, Sällskapsrum och Vardagsrum.
--  Finrum är den högsta klassen, med högsta skötselintensitet och ett beslut om
+\-  Finrum är den högsta klassen, med högsta skötselintensitet och ett beslut om
 
 stort aktivt mervärde.
--  Sällskapsrum är en mellannivå, med frekvent skötsel och ett beslut om aktivt
+\-  Sällskapsrum är en mellannivå, med frekvent skötsel och ett beslut om aktivt
 mervärde.
 
--  Vardagsrum är den lägsta klassen, med mindre frekvent skötsel och är en
+\-  Vardagsrum är den lägsta klassen, med mindre frekvent skötsel och är en
 standardnivå.
 Förvaltningen har mött invånare i Kungsbacka live för att samla in synpunkter om
 vilka platser i den offentliga utemiljön som är viktiga för dem. Kungsbacka torg var
@@ -624,40 +624,40 @@ Sammanfattning av ärendet
 Under perioden 17 oktober – 14 november har följande skrivelser inkommit till
 nämnden för Teknik:
 
-- Beslut KF 2024-10-08 § 120, KS-2024-00071
-- Studiebesök för förtroendevalda, riktlinjer KF 2024-10-08 § 120, KS-2024-00071
+\- Beslut KF 2024-10-08 § 120, KS-2024-00071
+\- Studiebesök för förtroendevalda, riktlinjer KF 2024-10-08 § 120, KS-2024-00071
 
-- Tjänsteskrivelse KS-2024-00071
-- Beslut - Låst cykelparkering taxa - KF 24-10-08 § 121, KS-2024-00329
+\- Tjänsteskrivelse KS-2024-00071
+\- Beslut - Låst cykelparkering taxa - KF 24-10-08 § 121, KS-2024-00329
 
-- Låst cykelparkering taxa KF 24-10-08 § 121
-- Tjänsteskrivelse - Låst cykelparkering taxa - KS-2024-00329
+\- Låst cykelparkering taxa KF 24-10-08 § 121
+\- Tjänsteskrivelse - Låst cykelparkering taxa - KS-2024-00329
 
-- Beslut KF 2024-10-08 §122 - KS-2024-00298
-- Vatten och avlopp taxa 2025 KF 2024-10-08 § 122
+\- Beslut KF 2024-10-08 §122 - KS-2024-00298
+\- Vatten och avlopp taxa 2025 KF 2024-10-08 § 122
 
-- Tjänsteskrivelse, Vatten och avlopp taxa 2025, KS-2024-00298
-- Beslut - KF 2024-10-08 § 124, KS-2024-00476
+\- Tjänsteskrivelse, Vatten och avlopp taxa 2025, KS-2024-00298
+\- Beslut - KF 2024-10-08 § 124, KS-2024-00476
 
-- Tjänsteskrivelse KS-2024-00476
+\- Tjänsteskrivelse KS-2024-00476
 
-- Dialog med fastighetsägare i Hanhals - Urgent: Avloppstaxa i Hanhals
-- Dialog med invånare: gällande Kallkällevägen
+\- Dialog med fastighetsägare i Hanhals - Urgent: Avloppstaxa i Hanhals
+\- Dialog med invånare: gällande Kallkällevägen
 
-- Begäran om info för fastigheters vatten och avlopp
-- Polisanmälan 5000-K1313199-24, Förfalskat parkeringstillstånd för rörelsehindrad
+\- Begäran om info för fastigheters vatten och avlopp
+\- Polisanmälan 5000-K1313199-24, Förfalskat parkeringstillstånd för rörelsehindrad
 
-- Underrättelse om beslut 5000-K1313199-24, Förfalskat parkeringstillstånd för
+\- Underrättelse om beslut 5000-K1313199-24, Förfalskat parkeringstillstånd för
 rörelsehindrad
-- Beslut KFT § 107 - Överlämnande av arbetsuppgifter till Förvaltningen för Tekniks
+\- Beslut KFT § 107 - Överlämnande av arbetsuppgifter till Förvaltningen för Tekniks
 nämndsekreterare, KFT-2024-00299
 
-- Tjänsteskrivelse - Överlämnande av arbetsuppgifter till Förvaltningen för Tekniks
+\- Tjänsteskrivelse - Överlämnande av arbetsuppgifter till Förvaltningen för Tekniks
 nämndsekreterare, KFT-2024-00299
-- Skrivelse till ordförande tekniska nämnden ang. Runsås Ekonomiska
+\- Skrivelse till ordförande tekniska nämnden ang. Runsås Ekonomiska
 
 föreningsstämma
-- Polisanmälan 5000-K1359291-24, Förfalskat parkeringstillstånd för rörelsehindrad
+\- Polisanmälan 5000-K1359291-24, Förfalskat parkeringstillstånd för rörelsehindrad
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C4D64E452D8C069F487F4F6F5B341655BCF84FB736
@@ -670,35 +670,35 @@ Nämnden för Teknik
 Datum
 2024-11-20
 
-- Tilläggsanmälan 5000-K1359291-24, Förfalskat parkeringstillstånd för
+\- Tilläggsanmälan 5000-K1359291-24, Förfalskat parkeringstillstånd för
 rörelsehindrad
-- Underrättelse om beslut 5000-K1359291-24, Förfalskat parkeringstillstånd för
+\- Underrättelse om beslut 5000-K1359291-24, Förfalskat parkeringstillstånd för
 rörelsehindrad
 
-- Skrivelse om dagvattenledning till Örsviken
+\- Skrivelse om dagvattenledning till Örsviken
 
-- Överklagan av förändrad vinterväghållning - Klockebergsvägen
-- Inbjudan Miljömålskonferens 31 januari 2025
+\- Överklagan av förändrad vinterväghållning - Klockebergsvägen
+\- Inbjudan Miljömålskonferens 31 januari 2025
 
-- Angående val till Avfall Sveriges styrelse och revision - Avfall Sverige 11
+\- Angående val till Avfall Sveriges styrelse och revision - Avfall Sverige 11
 november, Malmö
-- Protokollsutdrag 2024-11-05 KF § 141 Delårsrapport 2024 för Kungsbacka
+\- Protokollsutdrag 2024-11-05 KF § 141 Delårsrapport 2024 för Kungsbacka
 kommun
 
-- Delårsrapport 2024 för Kungsbacka kommun 2024-11-05 KF § 141
-- Tjänsteskrivelse Delårsrapport 2024 för Kungsbacka kommun 2024-11-05 KF §
+\- Delårsrapport 2024 för Kungsbacka kommun 2024-11-05 KF § 141
+\- Tjänsteskrivelse Delårsrapport 2024 för Kungsbacka kommun 2024-11-05 KF §
 141
 
-- Protokollsutdrag 2024-11-05 KF §142 Överlämnande av ansvar för
+\- Protokollsutdrag 2024-11-05 KF §142 Överlämnande av ansvar för
 beställningscentral för särskild kollektivtrafik
 
-- Tjänsteskrivelse Överlämnande av ansvar för beställningscentral för särskild
+\- Tjänsteskrivelse Överlämnande av ansvar för beställningscentral för särskild
 kollektivtrafik 2024-11-05 KF §142
-- Protokollsutdrag 2024-11-05 KF § 144 Svar på motion från om införande av
+\- Protokollsutdrag 2024-11-05 KF § 144 Svar på motion från om införande av
 tolkavgift
 
-- Tjänsteskrivelse - motionssvar 2024-11-05 § 144
-- Motion - Införande av tolkavgift i Kungsbacka kommun
+\- Tjänsteskrivelse - motionssvar 2024-11-05 § 144
+\- Motion - Införande av tolkavgift i Kungsbacka kommun
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera redovisningen av
@@ -759,10 +759,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  EU:s avloppsdirektiv formellt antaget av EU:s ministerråd
--  Omlastningsstationen i Duvehed drifttagen
+\-  EU:s avloppsdirektiv formellt antaget av EU:s ministerråd
+\-  Omlastningsstationen i Duvehed drifttagen
 
--  Tekniks arbetsutskotts dialog och avrapportering med Kommunstyrelsens
+\-  Tekniks arbetsutskotts dialog och avrapportering med Kommunstyrelsens
 arbetsutskott om ärende TE-2022-00938 den 12 november.
 
 Beslutsgång

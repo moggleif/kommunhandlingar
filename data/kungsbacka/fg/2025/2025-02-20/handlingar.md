@@ -114,11 +114,11 @@ Frånvarande:    Sveriges Lärare - Annika Aronsson
 
 Plats och tid: VM Lagan 2025-01-14 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2024-12-03 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i januari.
 
@@ -141,7 +141,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 Nuvarande rektor på Presseskolan F-3 avslutar sin anställning och arbetar sista dagen 6 januari.
 Förslag att förflytta rektor på Iseråsskolan 4-6 som ny rektor för Presse F-3.
@@ -156,7 +156,7 @@ veckor from 13/1.
 
 Beslut: Att anteckna informationen.
 
-4. Förvaltningsbudget 2025
+4\. Förvaltningsbudget 2025
 
 Nämnden för Förskola & Grundskola gav i samband med beslut om Nämndbudget 2025 ett uppdrag
 till förvaltningschef att upprätta Förvaltningsbudget 2025.
@@ -180,7 +180,7 @@ STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
 KUNGSBACKA  KOMMUN
 3 (7)
 
-5. Paus och rast i förskolan
+5\. Paus och rast i förskolan
 
 På kategorimöte förskola den 12/12 2024 fick för rektorerna information samt förde dialog om
 resultaten från den enkät kring paus och rast som Sveriges lärare genomfört. Det framtagna APT-
@@ -193,7 +193,7 @@ Kommunal anser att det är angeläget att dialog förs på varje arbetsplats.
 
 Beslut: Att anteckna informationen.
 
-6. Information om AI utbildning som riktar sig till pedagoger inom grundskolan
+6\. Information om AI utbildning som riktar sig till pedagoger inom grundskolan
 
 Arbetsgivaren planerar att erbjuda alla grundskolor en grundläggande utbildning inom generativ AI för
 pedagoger. Rektor beslutar om utbildningen ska genomföras på skolan. Utbildningspaketet är digitalt
@@ -205,7 +205,7 @@ Beslut: Att anteckna informationen.
 
 Arbetstagarorganisation
 
-7. Fråga gällande process runt översyn likvärdig elevhälsa
+7\. Fråga gällande process runt översyn likvärdig elevhälsa
 
 Akademikerförbundet SSR lyfte frågan vid förra mötet. Vad är nästa steg för likvärdigheten gällande
 elevhälsan ute på skolorna?
@@ -226,7 +226,7 @@ STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
 KUNGSBACKA  KOMMUN
 4 (7)
 
-8. Fråga angående förvaring av elcyklar/elsparkar (Kommunal)
+8\. Fråga angående förvaring av elcyklar/elsparkar (Kommunal)
 
 Medlemmarna upplever att det är problem att man inte får ta in dessa på arbetsplatsen. Hur hanterar vi
 det?
@@ -238,15 +238,15 @@ samverkansgruppen.
 
 Beslut: Dialog
 
-9. Lokalutredning februari
+9\. Lokalutredning februari
 
 Lokalutredning har som syfte att ge ett bra underlag för beslut kring hur kan vi var mer lokaleffektiva.
 En utgångspunkt är hur en skolorganisering kan se ut kopplat till minskat elevantal?
 
 Tidplan för kommunikation kring lokalutredningen:
--  Information till rektorer den 23 januari.
--  Presskonferens den 3 februari samtidigt som handlingarna blir offentliga.
--  Informationsmaterial till vårdnadshavare via V-klass och presentationsmaterial internt.
+\-  Information till rektorer den 23 januari.
+\-  Presskonferens den 3 februari samtidigt som handlingarna blir offentliga.
+\-  Informationsmaterial till vårdnadshavare via V-klass och presentationsmaterial internt.
 
 Beslut: Arbetsgivaren kallar till ett extra FSG onsdagen den 29.e januari för ytterligare information till
 fackliga förbund. Utifrån detta tar man ställning till om riskbedömning ur ett arbetsmiljöperspektiv ska
@@ -280,7 +280,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 
@@ -693,7 +693,7 @@ Genomföra     barnkonsekvensanalys
 
 Ärendenummer: #182765 | Inskickat av: Jessica Fogelblad | 2025-01-27 15:12
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -735,7 +735,7 @@ Vem är mottagare av denna barnkonsekvensanalys
 
 Nämnden för Förskola & Grundskola
 
-2. Kartläggning
+2\. Kartläggning
 
 Vilka rättigheter, utöver de fyra grundprinciperna i Barnkonventionen, är särskilt
 relevanta för aktuell barnkonsekvensanalys?
@@ -746,7 +746,7 @@ Finns det annan lagstiftning som är relevant för denna barnkonsekvensanalys?
 
 Nej
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
 Vad har berörda barn för synpunkter i frågan?
 
@@ -757,7 +757,7 @@ innebär en stängning av förskolan, kommer barnen att få information och
 möjlighet att ställa frågor och komma med förslag på hur övergången på bästa
 sätt kan ske utifrån barnens perspektiv.
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Redogör för vilka konsekvenser det blir för berörda barn, på lång och kort sikt,
 
@@ -1824,10 +1824,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 En väsentlig del i at vara en attraktiv kommun att bo och verka i är att vi har förskolor och skolor med god
 kvalitet. Kungsbackas skolor förskolor och skolor kännetecknas av hög kvalitet och måluppfyllelse.
@@ -1835,23 +1835,23 @@ Kungsbackas resultat ligger bland de 10% bästa kommunerna i Sverige.
 
 Samtliga skolor och förskolor jobbar med att ha lärmiljöer som främjar lärande, som är trygga och fria från
 kränkningar. Förvaltningen har ett antal insatser och vi lyfter här några sådana:
-1. Ökad närvaro: Ökad närvaron är ett särskilt mål och insatsområde. Under året har arbetet fördjupats och
+1\. Ökad närvaro: Ökad närvaron är ett särskilt mål och insatsområde. Under året har arbetet fördjupats och
 riktade utbildningar till våra skolor och elevhälsoteam rullas ut. Vi fortsätter och förlänger vårt
 samarbete UP2 med SKR. Vi kan se att rapporteringsgraden av frånvaro ökat väsentligt och ligger nu på
 runt 90%
-2. Trygghet och studiero: Förvaltningen har genomfört ett antal utbildningsinsatser och följer upp att dels
+2\. Trygghet och studiero: Förvaltningen har genomfört ett antal utbildningsinsatser och följer upp att dels
 att kränkningar anmäls, följs upp, utreds och åtgärdas.
-3. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
+3\. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
 föreskrifter accentueras att det systematiska kvalitetsarbetet tydligare ska fånga och beakta frånvaro och
 studiero. Vi fortsätter att jobba utifrån det underlag som sedan tidigare tagits fram för att stärka
 undervisningens kvalitet - ”Hur vet du det?”
-4. Systematiskt säkerhetsarbete: Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a.
+4\. Systematiskt säkerhetsarbete: Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a.
 utbildning och övning av krisledning. Arbete pågår med att få ett larmsystem på plats för att bättre ge
 stöd till enheternas rutiner för inrymning och vår bedömning är att så ska kunna ske under 2025.
-5. Krisledning och kontinuitetsplanering: Förvaltningsledningen övar regelbundet krisledning. Året som
+5\. Krisledning och kontinuitetsplanering: Förvaltningsledningen övar regelbundet krisledning. Året som
 gått har mycket kännetecknats av arbete utifrån att kunna ha vår verksamhet igång i händelse av större
 kriser.
-6. Främjande Fyran: Inom detta förvaltningsgemensamma arbete har tillsatts tre taktiska grupper och som
+6\. Främjande Fyran: Inom detta förvaltningsgemensamma arbete har tillsatts tre taktiska grupper och som
 under våren 2025 ska arbeta fram förslag till hur vi kan/ska arbeta vidare med att tidigare och med mer
 samordnade insatser kan nå elever som riskerar inte klara skolan.
 Minskade behov av platser i förskola och skola
@@ -1910,16 +1910,16 @@ Brukarbedömning
 individ- och
 88 %
 familjeomsorg totalt
-- helhetssyn
+\- helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av nämndens arbete med målet
 Arbetet med att skapa bättre villkor för hållbar utveckling och en hälsosam miljö handlar för Förskola och
 grundskola i huvudsak om att i alla våra verksamheter hittar sätt att stimulera till fysiska aktiviteter, skapa
@@ -1953,7 +1953,7 @@ god under
 elevhälsosamtalet, ÅK
 88 %          88 %             85 %
 4 i %
-- Flickor.(Elevhälsan i
+\- Flickor.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -1979,7 +1979,7 @@ god under
 elevhälsosamtalet, ÅK
 77 %          72 %             79 %
 8 i %
-- Flickor.(Elevhälsan i
+\- Flickor.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -2000,7 +2000,7 @@ god under
 elevhälsosamtalet, ÅK
 92 %          93 %             92 %
 8 i %
-- Pojkar.(Elevhälsan i
+\- Pojkar.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -2013,7 +2013,7 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som
 har skattat sin egen
 livstillfredsställelse
@@ -2022,11 +2022,11 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska
 minska med 30% per
 invånare från 2020 till 98       97
-2030. Startvärde 100,
+2030\. Startvärde 100,
 målvärde 2030 är 70.
 Avfall från kommunens
 verksamheter ska
@@ -2086,9 +2086,9 @@ mellan elever prioriteras. Mobiltelefoner, smartklockor eller motsvarande enhete
 skolor, varken på lektionstid eller under rast.
 
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 Nämndens bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -2167,8 +2167,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -2199,10 +2199,10 @@ pågår ett arbete i våra Halländska kommuner i att hitta former för att utve
 Särskilt med inriktning på systematik, likvärdighet och att eleverna tidigt ska möta arbetsliv/näringsliv
 inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 
 Detta arbete sker i samverkan med andra:
@@ -2269,8 +2269,8 @@ invånare 16–64 år
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 15
 
@@ -2356,7 +2356,7 @@ Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
 
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237              236,5         237,5
 av de 17 bästa
@@ -2409,7 +2409,7 @@ undervisningen tillgänglig för alla. Våra lärare ska bli bättre rustade i a
 och behov, till exempel de med neuropsykiatriska funktionsnedsättningar (NPF).
 Fokusområde
 Fokusområde
-- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
+\- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
 NPF- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 
 Nämndens bedömning
@@ -2437,7 +2437,7 @@ Vår webbutbildning kring lågaffektivt bemötande nyttjas på enheterna.
 Utifrån kartläggning 2023 har förvaltningen genomför flera insatser för att bidra till att skolorna bättre ska
 kunna stödja elever i behov av SvA-undervisning. Under 2024 presenterade SVA-utvecklarna nya,
 kommungemensamma rutiner för behovsbedömningar i svenska som andraspråk (SVA) som börjar gälla hösten
-2025. Riktlinjer och mallar har tagits fram för en enhetlig tillämpning. Två kompetensutvecklingstillfällen för
+2025\. Riktlinjer och mallar har tagits fram för en enhetlig tillämpning. Två kompetensutvecklingstillfällen för
 SVA-lärare hölls under hösten, med Amanda Kipriyanova som gästföreläsare vid det sista tillfället. Det
 övergripande syftet är ökad kvalitet och likvärdighet.
 En pilot med kartläggning av behov kopplat till specifika insatser fortsätter på en skola och utökas till låg- och
@@ -2469,12 +2469,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -2540,7 +2540,7 @@ max 180. Jämix
 103          114              122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 
 20
 
@@ -2719,8 +2719,8 @@ Nämndens årsredovisning 2024
 
 Fokusområde
 
-- Barn och elever med problematisk frånvaro i skolan
-- Samverkan med andra samhällsaktörer
+\- Barn och elever med problematisk frånvaro i skolan
+\- Samverkan med andra samhällsaktörer
 Kommentar
 Organisering av förvaltningsgemensamma elevhälsoresurser:
 I december fattade Skolchefen beslut om att organisera centrala elevhälsoresurser under en ny Verksamhetschef.
@@ -2749,8 +2749,8 @@ Kungsbackas skolor behöver stärka samarbetet med arbetslivet. Elever ska tidig
 arbetsmarknaden i både offentlig och privat sektor. Vi ska stärka elevernas kompetens och ge dem goda
 möjligheter att fatta självständiga val för sin framtid.
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 Kommentar
 
 FG bygger struktur för att åstadkomma ett bättre samarbete med näringsliv och offentlig sektor.
@@ -2787,10 +2787,10 @@ Skola-arbetsliv
 läroplansområdet Skolan och omvärlden. Särskilt med inriktning på systematik, likvärdighet och att
 eleverna tidigt ska möta arbetsliv/näringsliv inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 Årets skolledardagar hade ett stort fokus på barn och elevers framtidstro.
 
@@ -2804,8 +2804,8 @@ För de elever som har behov av en mindre skolkontext och mer anpassad lärmilj�
 resursskola. Skolan ska erbjuda en mer småskalig omgivning och tillgänggöra undervisningen för fler elever.
 Fokusområde
 
-- Förebyggande insatser i ett tidigt skede
-- Anpassad undervisning
+\- Förebyggande insatser i ett tidigt skede
+\- Anpassad undervisning
 Kommentar
 Utredning av vilka elevgrupper som kan vara behjälpta av en mindre skolkontext samt vilka elever som kan vara
 berättigade till en skolgång i en resursskola är redovisad till nämnd.
@@ -2822,7 +2822,7 @@ tydligt handlingsutrymme för vår pedagogiska personal som i sin tur kan skapa 
 förskolor och skolor.
 
 Fokusområde
-- Utbildning och kollegialt arbete
+\- Utbildning och kollegialt arbete
 
 25
 
@@ -2838,7 +2838,7 @@ Under året har en partsgemensam arbetsgrupp arbetat med att kartlägga och iden
 bidra till att stärka lärares roll. Dialog har förts kring exempelvis skollagens kapitel 5 om trygghet och studiero,
 vikten av ett systematiskt arbetsmiljöarbete samt olika faktorer som kan påverka studiero i klassrummet samt
 trygghet. En plan för fortsatt arbete och kompetensutvecklingsinsatser kommer att sammanställas i början på
-2025.
+2025\.
 Arbetsgivaren ser också ett behov av att arbeta med fler olika delar som på vetenskaplig grund är faktorer som
 kan bidra till att stärka lärares roll, vi kommer under våren 2025 skapa förutsättningar för både skolledare,
 arbetsgrupper och enskilda medarbetare av kunskapshöjande insatser inom områden som bland annat
@@ -4104,10 +4104,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 En väsentlig del i at vara en attraktiv kommun att bo och verka i är att vi har förskolor och skolor med god
 kvalitet. Kungsbackas skolor förskolor och skolor kännetecknas av hög kvalitet och måluppfyllelse.
@@ -4115,23 +4115,23 @@ Kungsbackas resultat ligger bland de 10% bästa kommunerna i Sverige.
 
 Samtliga skolor och förskolor jobbar med att ha lärmiljöer som främjar lärande, som är trygga och fria från
 kränkningar. Förvaltningen har ett antal insatser och vi lyfter här några sådana:
-1. Ökad närvaro: Ökad närvaron är ett särskilt mål och insatsområde. Under året har arbetet fördjupats och
+1\. Ökad närvaro: Ökad närvaron är ett särskilt mål och insatsområde. Under året har arbetet fördjupats och
 riktade utbildningar till våra skolor och elevhälsoteam rullas ut. Vi fortsätter och förlänger vårt
 samarbete UP2 med SKR. Vi kan se att rapporteringsgraden av frånvaro ökat väsentligt och ligger nu på
 runt 90%
-2. Trygghet och studiero: Förvaltningen har genomfört ett antal utbildningsinsatser och följer upp att dels
+2\. Trygghet och studiero: Förvaltningen har genomfört ett antal utbildningsinsatser och följer upp att dels
 att kränkningar anmäls, följs upp, utreds och åtgärdas.
-3. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
+3\. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
 föreskrifter accentueras att det systematiska kvalitetsarbetet tydligare ska fånga och beakta frånvaro och
 studiero. Vi fortsätter att jobba utifrån det underlag som sedan tidigare tagits fram för att stärka
 undervisningens kvalitet - ”Hur vet du det?”
-4. Systematiskt säkerhetsarbete: Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a.
+4\. Systematiskt säkerhetsarbete: Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a.
 utbildning och övning av krisledning. Arbete pågår med att få ett larmsystem på plats för att bättre ge
 stöd till enheternas rutiner för inrymning och vår bedömning är att så ska kunna ske under 2025.
-5. Krisledning och kontinuitetsplanering: Förvaltningsledningen övar regelbundet krisledning. Året som
+5\. Krisledning och kontinuitetsplanering: Förvaltningsledningen övar regelbundet krisledning. Året som
 gått har mycket kännetecknats av arbete utifrån att kunna ha vår verksamhet igång i händelse av större
 kriser.
-6. Främjande Fyran: Inom detta förvaltningsgemensamma arbete har tillsatts tre taktiska grupper och som
+6\. Främjande Fyran: Inom detta förvaltningsgemensamma arbete har tillsatts tre taktiska grupper och som
 under våren 2025 ska arbeta fram förslag till hur vi kan/ska arbeta vidare med att tidigare och med mer
 samordnade insatser kan nå elever som riskerar inte klara skolan.
 Minskade behov av platser i förskola och skola
@@ -4165,11 +4165,11 @@ trygg i skolan (åk 8)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Arbetet med att skapa bättre villkor för hållbar utveckling och en hälsosam miljö handlar för Förskola och
@@ -4197,7 +4197,7 @@ god under
 elevhälsosamtalet, ÅK
 88 %          88 %             85 %
 4 i %
-- Flickor.(Elevhälsan i
+\- Flickor.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -4232,7 +4232,7 @@ god under
 elevhälsosamtalet, ÅK
 77 %          72 %             79 %
 8 i %
-- Flickor.(Elevhälsan i
+\- Flickor.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -4245,7 +4245,7 @@ god under
 elevhälsosamtalet, ÅK
 92 %          93 %             92 %
 8 i %
-- Pojkar.(Elevhälsan i
+\- Pojkar.(Elevhälsan i
 Kungsbacka utvecklar
 metod utifrån
 hälsosamtal med
@@ -4258,7 +4258,7 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 
 10
 
@@ -4276,7 +4276,7 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 3.2.1 Utbildningen ska stimulera till ökad trygghet, glädje och fysisk aktivitet
 Beslutats av
 Nämnd
@@ -4286,9 +4286,9 @@ Kungsbackas lärmiljöer ska präglas av trygghet, glädje och studiero. Fysisk 
 mellan elever prioriteras. Mobiltelefoner, smartklockor eller motsvarande enheter ska inte vara tillåtna på våra
 skolor, varken på lektionstid eller under rast.
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 
 Nämndens bedömning
 Vi har inte nått målet men är på rätt väg
@@ -4361,8 +4361,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -4401,10 +4401,10 @@ pågår ett arbete i våra Halländska kommuner i att hitta former för att utve
 Särskilt med inriktning på systematik, likvärdighet och att eleverna tidigt ska möta arbetsliv/näringsliv
 inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 Detta arbete sker i samverkan med andra:
 
@@ -4423,8 +4423,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -4509,7 +4509,7 @@ för att huvudmannen ska kunna arbeta bättre med riktat stöd,
 Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237              236,5         237,5
 av de 17 bästa
@@ -4532,7 +4532,7 @@ undervisningen tillgänglig för alla. Våra lärare ska bli bättre rustade i a
 och behov, till exempel de med neuropsykiatriska funktionsnedsättningar (NPF).
 Fokusområde
 Fokusområde
-- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
+\- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
 NPF- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 
 Nämndens bedömning
@@ -4569,7 +4569,7 @@ Vår webbutbildning kring lågaffektivt bemötande nyttjas på enheterna.
 Utifrån kartläggning 2023 har förvaltningen genomför flera insatser för att bidra till att skolorna bättre ska
 kunna stödja elever i behov av SvA-undervisning. Under 2024 presenterade SVA-utvecklarna nya,
 kommungemensamma rutiner för behovsbedömningar i svenska som andraspråk (SVA) som börjar gälla hösten
-2025. Riktlinjer och mallar har tagits fram för en enhetlig tillämpning. Två kompetensutvecklingstillfällen för
+2025\. Riktlinjer och mallar har tagits fram för en enhetlig tillämpning. Två kompetensutvecklingstillfällen för
 SVA-lärare hölls under hösten, med Amanda Kipriyanova som gästföreläsare vid det sista tillfället. Det
 övergripande syftet är ökad kvalitet och likvärdighet.
 En pilot med kartläggning av behov kopplat till specifika insatser fortsätter på en skola och utökas till låg- och
@@ -4593,12 +4593,12 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -4664,7 +4664,7 @@ max 180. Jämix
 103          114              122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 
 17
 
@@ -4843,8 +4843,8 @@ Nämndens årsredovisning 2024
 
 Fokusområde
 
-- Barn och elever med problematisk frånvaro i skolan
-- Samverkan med andra samhällsaktörer
+\- Barn och elever med problematisk frånvaro i skolan
+\- Samverkan med andra samhällsaktörer
 Kommentar
 Organisering av förvaltningsgemensamma elevhälsoresurser:
 I december fattade Skolchefen beslut om att organisera centrala elevhälsoresurser under en ny Verksamhetschef.
@@ -4873,8 +4873,8 @@ Kungsbackas skolor behöver stärka samarbetet med arbetslivet. Elever ska tidig
 arbetsmarknaden i både offentlig och privat sektor. Vi ska stärka elevernas kompetens och ge dem goda
 möjligheter att fatta självständiga val för sin framtid.
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 Kommentar
 
 FG bygger struktur för att åstadkomma ett bättre samarbete med näringsliv och offentlig sektor.
@@ -4911,10 +4911,10 @@ Skola-arbetsliv
 läroplansområdet Skolan och omvärlden. Särskilt med inriktning på systematik, likvärdighet och att
 eleverna tidigt ska möta arbetsliv/näringsliv inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 Årets skolledardagar hade ett stort fokus på barn och elevers framtidstro.
 
@@ -4928,8 +4928,8 @@ För de elever som har behov av en mindre skolkontext och mer anpassad lärmilj�
 resursskola. Skolan ska erbjuda en mer småskalig omgivning och tillgänggöra undervisningen för fler elever.
 Fokusområde
 
-- Förebyggande insatser i ett tidigt skede
-- Anpassad undervisning
+\- Förebyggande insatser i ett tidigt skede
+\- Anpassad undervisning
 Kommentar
 Utredning av vilka elevgrupper som kan vara behjälpta av en mindre skolkontext samt vilka elever som kan vara
 berättigade till en skolgång i en resursskola är redovisad till nämnd.
@@ -4946,7 +4946,7 @@ tydligt handlingsutrymme för vår pedagogiska personal som i sin tur kan skapa 
 förskolor och skolor.
 
 Fokusområde
-- Utbildning och kollegialt arbete
+\- Utbildning och kollegialt arbete
 
 22
 
@@ -4962,7 +4962,7 @@ Under året har en partsgemensam arbetsgrupp arbetat med att kartlägga och iden
 bidra till att stärka lärares roll. Dialog har förts kring exempelvis skollagens kapitel 5 om trygghet och studiero,
 vikten av ett systematiskt arbetsmiljöarbete samt olika faktorer som kan påverka studiero i klassrummet samt
 trygghet. En plan för fortsatt arbete och kompetensutvecklingsinsatser kommer att sammanställas i början på
-2025.
+2025\.
 Arbetsgivaren ser också ett behov av att arbeta med fler olika delar som på vetenskaplig grund är faktorer som
 kan bidra till att stärka lärares roll, vi kommer under våren 2025 skapa förutsättningar för både skolledare,
 arbetsgrupper och enskilda medarbetare av kunskapshöjande insatser inom områden som bland annat
@@ -6447,10 +6447,10 @@ utveckling utan även för att bygga en stark gemenskap.
 Barnkonventionen
 I barnkonventionen artikel 31 fastslås följande:
 
-1. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
+1\. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
 barnets ålder och rätt att fritt delta i det kulturella och konstnärliga livet.
 
-2. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
+2\. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
 och konstnärliga livet och ska uppmuntra tillhandahållandet av lämpliga och lika möjligheter till
 kulturell och konstnärlig verksamhet samt till rekreations och fritidsverksamhet.
 
@@ -6473,7 +6473,7 @@ starkt samhälle behöver en jämlik tillgång till kultur.
 
 Därför föreslår Socialdemokraterna kommunfullmäktige besluta:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
 Kulturell allemansrätt på skoltid i enlighet med motionens andemening
 
 /PeyGknarsson (S)
@@ -6518,7 +6518,7 @@ beredning/beredning-handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -6560,7 +6560,7 @@ Beslutsunderlag
 FG Myndighet & Stöds tjänsteskrivelse, 2024-01-29
 
 Beslutet skickas till
--
+\-
 
 Beskrivning av ärendet
 Nämndens delegeringsförteckning bygger i huvudsak på att nämnden beslutar att delegera
@@ -6622,25 +6622,25 @@ undervisningsuppgift till utföraren, tex betygssättning.
 Huvudregeln är att det bara är uppgifter som inte är hänförliga till undervisning som får överlämnas på
 
 entreprenad. De områden som entreprenad får förekomma framgår av 23 kapitlet i skollagen:
--  Pedagogisk verksamhet enligt kapitel 25, 23 kap 8 § (pedagogisk omsorg som bedrivs i
+\-  Pedagogisk verksamhet enligt kapitel 25, 23 kap 8 § (pedagogisk omsorg som bedrivs i
 hemmet exempelvis, nämnden har tidigare beslutat att förvaltningschef fick delegation att
 upprätta avtal kring omsorg på obekväm tid- dvs kvällar och helger).
 
--  Bedömning av elevs kunskaper enligt 3 kap 12 c §, 23 kap 9 § (exempelvis elev som bott
+\-  Bedömning av elevs kunskaper enligt 3 kap 12 c §, 23 kap 9 § (exempelvis elev som bott
 utomlands och flyttar till Sverige).
--  Uppgifter inom förskola och fritidshem som inte är kopplade till undervisning. Uppgifter som
+\-  Uppgifter inom förskola och fritidshem som inte är kopplade till undervisning. Uppgifter som
 är hänförliga till undervisning kan överlämnas om det behövs för att tillhandahålla verksamhet
 
 vid sådana tillfällen då endast få barn eller elever behöver förskola eller fritidshem, 23 kap 10,
 11 §§.
--  Lovskola, 23 kap 12 §.
+\-  Lovskola, 23 kap 12 §.
 
--  Undervisning inom grundskolan som avser undervisning i en kurs enligt gymnasieskolans
+\-  Undervisning inom grundskolan som avser undervisning i en kurs enligt gymnasieskolans
 ämnesplan, 23 kap 12a.
--  Modersmål och studiehandledning på modersmål, 23 kap 14 §.
+\-  Modersmål och studiehandledning på modersmål, 23 kap 14 §.
 
--  Undervisning i samiska eller teckenspråk, inklusive fjärrundervisning, 23 kap 15,16 §§.
--  Distansundervisning enligt kap 22 får överlämnas till huvudman som är godkänd för att bedriva
+\-  Undervisning i samiska eller teckenspråk, inklusive fjärrundervisning, 23 kap 15,16 §§.
+\-  Distansundervisning enligt kap 22 får överlämnas till huvudman som är godkänd för att bedriva
 distansundervisning, 23 kap 17§ (avser tex elever som får distansundervisning som särskilt
 
 stöd)
@@ -6665,7 +6665,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 <!-- sida 158 -->
 
 Innehåll
-1. Bestämmelser för nämndens delegering ..................................................................................... 3
+1\. Bestämmelser för nämndens delegering ..................................................................................... 3
 
 1.1 Villkor för delegat ............................................................................................................................. 3
 1.2 Jäv........................................................................................................................................................ 3
@@ -6678,7 +6678,7 @@ Innehåll
 1.7 Anmälan av delegeringsbeslut ...................................................................................................... 4
 
 1.9 Förkortningar .................................................................................................................................... 5
-2. Delegeringsförteckning..................................................................................................................... 6
+2\. Delegeringsförteckning..................................................................................................................... 6
 
 A Verksamhet .......................................................................................................................................... 6
 A 1 Beslut och åtgärder rörande huvudmannens ansvar för verksamhetens innehåll . 6
@@ -6702,7 +6702,7 @@ B Allmänt .....................................................................
 C Ekonomi ............................................................................................................................................... 17
 D Personal .............................................................................................................................................. 20
 
-3. Allmänt om delegering ................................................................................................................... 22
+3\. Allmänt om delegering ................................................................................................................... 22
 3.1 Vad innebär delegering? ........................................................................................................... 22
 
 3.2 Syftet med delegering .............................................................................................................. 22
@@ -6712,7 +6712,7 @@ Delegeringsf örteckning      Sida 2 av 25
 
 <!-- sida 159 -->
 
-1. Bestämmelser för nämndens  delegering
+1\. Bestämmelser för nämndens  delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan anställd utan tillsvidareanställning
@@ -6738,11 +6738,11 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder förste vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av ärendet och
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende- /verksamhetssystemet.
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och registreras i
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende- /verksamhetssystemet.
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen, det vill säga
@@ -6773,12 +6773,12 @@ nämnden.
 1.5 Rätt att vidta åtgärder med anledning av beslut
 
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har tagit:
-- Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\- Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
-- Beslut att avge yttrande till högre instans med anledning av överklagande av delegeringsbeslut samt att
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av delegeringsbeslut samt att
 besluta att ansöka om inhibition (ett beslut inte får genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna handling som beslutet
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna handling som beslutet
 avser. Om arbetsutskottet har fått delegation undertecknas handling som beslutet avser av arbetsutskottets
 ordförande och förvaltningschefen.
 
@@ -6787,10 +6787,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska tjänstemannen överlämna
 ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom vidaredelegation från
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom vidaredelegation från
 förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt från nämnden.
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
 1.7 Anmälan av delegeringsbeslut
@@ -6856,7 +6856,7 @@ Delegeringsf örteckning      Sida 5 av 25
 
 <!-- sida 162 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 A Verksamhet
 
@@ -6997,7 +6997,7 @@ Delegeringsf örteckning      Sida 14 av 25
 | Nr | Delegeringens omfattning | Delegerat<br>till | Med<br>rätt att<br>vidare-<br>delegera | Lagrum/<br>Beslutsgrund | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | B 1 | Rätt att fatta beslut i<br>ärenden som är så<br>brådskande att nämndens<br>avgörande inte kan<br>avvaktas. | Ordf |  | 6 kap.39§ KL | Ska anmälas vid<br>nämndens nästa<br>sammanträde.<br>Om ordföranden har<br>förfall, 1:e vice<br>ordföranden.<br>Om 1:e vice ordföranden<br>har förfall, 2:e vice<br>ordföranden. |
-| B 2 | Deltagande i aktivitet* för<br>ordförande, vice<br>ordförande, ledamot och<br>ersättare i nämnden. | Ordf<br>För beslut<br>som avser<br>ordförande<br>beslutar<br>vice<br>ordförande |  | Nämndens budget,<br>Riktlinjer och regler<br>för förmåner till<br>förtroendevalda, KF<br>2022-06.15 § 106 | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Riktlinjer och<br>regler för förmåner till<br>förtroendevalda<br>*I Riktlinjer och regler<br>framgår vilka aktiviteter<br>som avses. |
+| B 2 | Deltagande i aktivitet\* för<br>ordförande, vice<br>ordförande, ledamot och<br>ersättare i nämnden. | Ordf<br>För beslut<br>som avser<br>ordförande<br>beslutar<br>vice<br>ordförande |  | Nämndens budget,<br>Riktlinjer och regler<br>för förmåner till<br>förtroendevalda, KF<br>2022-06.15 § 106 | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Riktlinjer och<br>regler för förmåner till<br>förtroendevalda<br>\*I Riktlinjer och regler<br>framgår vilka aktiviteter<br>som avses. |
 | B 3 | Beslut om utlämnande av<br>allmän handling med<br>förbehåll eller att inte lämna<br>ut en allmän handling som<br>avser nämnden och centrala<br>förvaltningen för FG | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 4 | Beslut om utlämnande av<br>allmän handling med<br>förbehåll eller att inte lämna<br>ut en allmän handling som<br>avser förskole- och<br>skolenheter samt fritidshem<br>och annan pedagogisk<br>omsorg | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 5 | Beslut med förbehåll eller<br>att inte lämna ut medicinska<br>journaler eller andra<br>uppgifter inom den del av<br>barn- och elevhälsan som<br>lyder under HSL | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
@@ -7088,7 +7088,7 @@ Delegeringsf örteckning      Sida 20 av 25
 
 <!-- sida 177 -->
 
-:
+\:
 
 Delegeringsf örteckning      Sida 21 av 25
 
@@ -7105,7 +7105,7 @@ Delegeringsf örteckning      Sida 21 av 25
 
 <!-- sida 178 -->
 
-3. Allmänt om delegering
+3\. Allmänt om delegering
 
 3.1 Vad innebär delegering?
 Kommunallagen bygger på principen att de förtroendevalda fattar beslut kollektivt och även har ett kollektivt
@@ -7137,9 +7137,9 @@ Denna rätt bör dock utnyttjas med försiktighet och i väldigt särskilda fall
 Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan anställd inom kommunen att
 
 besluta istället, s.k. vidaredelegering (kommunallagen 7 kap 6 §). Beslut om delegering ska då ske i två steg;
-1) Nämndens beslut om delegering till förvaltningschef,
+1\) Nämndens beslut om delegering till förvaltningschef,
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 3.2 Syftet med delegering
 Syftet med delegering är att dels avlasta nämnden rutinärenden och därmed ge möjlighet åt de
@@ -7182,20 +7182,20 @@ beslut enligt författning eller kommunfullmäktiges beslut. Vidare får beslut 
 och övriga tillämpliga styrdokument.
 
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap 38 §:
-- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande
+\- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande
 ansvar för verksamheten
 
-- Framställningar eller yttrande till fullmäktige
+\- Framställningar eller yttrande till fullmäktige
 
-- Yttrande med anledning av att fullmäktiges beslut har överklagats
-- Yttrande med anledning av att nämndens egna beslut har överklagats
+\- Yttrande med anledning av att fullmäktiges beslut har överklagats
+\- Yttrande med anledning av att nämndens egna beslut har överklagats
 
-- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars
+\- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars
 av större vikt.
-- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte
+\- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte
 aktuellt i Kungsbacka eftersom fullmäktige inte beslutat om att tillämpa möjligheten till medborgarförslag).
 
-- Ärenden som enlig lag eller annan författning inte får delegeras.
+\- Ärenden som enlig lag eller annan författning inte får delegeras.
 
 3.5 Vem har rätt att företräda nämnden för Kungsbacka kommun?
 I det kommungemensamma reglementet för kommunstyrelsen och nämnder i Kungsbacka kommun framgår

@@ -67,7 +67,7 @@ behövs, och gör granskningen oberoende av den som skrev ändringen.
 
 ### A – Kort AGENTS.md, faserna som skills, granskningen som egen agent
 
-```
+```text
 AGENTS.md                         principer, regler, var sanningen bor, fasöversikt
 CLAUDE.md                         @AGENTS.md
 .claude/skills/fas-*/SKILL.md     en per fas eller fasgrupp, laddas vid behov

@@ -298,16 +298,16 @@ kommundirektören fått av kommunstyrelsen att ta fram förslag till ny styrmode
 byggnadsnämnden från att anta en nämndbudget för 2024 och har i stället antagit ett
 strategidokument. I årsredovisningen 2024 ingår därför inte uppföljning av
 kommunfullmäktiges mål. I sin helhet innehåller årsredovisningen:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 
 påverkat nämnden
-* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
+\* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
 
-* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
+\* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
 personalnyckeltal
-* Uppföljning av ekonomi
+\* Uppföljning av ekonomi
 
-* Hållbarhetsbokslut
+\* Hållbarhetsbokslut
 Nämnden håller en hög takt i innovations och utvecklingsarbetet och bedömer att
 kommunfullmäktiges direktiv om innovation och omställning uppnåtts.
 Uppföljningen av det systematiska arbetsmiljöarbetet visar att arbetet bedrivs på ett
@@ -351,15 +351,15 @@ Byggnadsnämnden beslutade 2025-02-20 § 33 att godkänna förslag till
 ombudgetering och resultatfond 2024.
 
 Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resultatfond
-2024. Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024
+2024\. Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024
 på 4 014 000 kronor. Nämnden begär följande resultatdisponering:
-* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
 ekonomistyrprinciper.
 
-* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
+\* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
 1 117 000 kronor ombudgeteras till 2025.
 
-* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 

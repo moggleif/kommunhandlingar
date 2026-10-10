@@ -934,7 +934,7 @@ donationsfonder.
 
 Vi yrkar därför
 
--  att förvaltningen tar initiativ till en skulptur som lyfter fram torghandlaren och vår
+\-  att förvaltningen tar initiativ till en skulptur som lyfter fram torghandlaren och vår
 mångsekellånga handelstradition.
 
 Birgitta Tingdal      Magnus Calén               Alireza Sherzad
@@ -1068,7 +1068,7 @@ Liberalerna
 lokalplan s 51-57)
 
 2026-05-29 Kommunstyrelsen Avbryta lokalprojekt Naturum Fjärås Bräcka (löpnr
-142) (Tjänsteskrivelse)
+142\) (Tjänsteskrivelse)
 2026-05-29 Kommunstyrelsen Avbryta lokalprojekt Naturum Fjärås Bräcka löpnr 142
 (KS 2023-00633) §124 (Kommunstyrelsen beslut)
 
@@ -1086,7 +1086,7 @@ verksamhetsområde
 inköpsverksamheten (KS 2026-00163) §80
 2026-05-20 Kommunledningskontoret Antagande av policy och riktlinjer för
 inköpsverksamheten i Kungsbacka Kommun (KS2026-
-00163) §80
+00163\) §80
 
 2026-05-20 Kommunledningskontoret Policy för inköp
 2026-05-20 Kommunledningskontoret Riktlinjer för inköp

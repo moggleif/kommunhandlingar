@@ -43,13 +43,13 @@ ett införande av tolkavgift strider mot lagstiftningen i samband med handläggn
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Vård & Omsorg
@@ -220,14 +220,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -731,7 +731,7 @@ Vård & Omsorg
 Förslag till beslut
 
 Nämnden för Vård & omsorg antar ledningssystem för systematiskt kvalitetsarbete, daterat 2024-06-
-12.
+12\.
 
 Sammanfattning av ärendet
 Den 15 juni 2023 gav Nämnden för Vård & Omsorg förvaltningen i uppdrag att redovisa det
@@ -1259,7 +1259,7 @@ Nämnden för Vård & Omsorg
 Förslag till beslut
 
 Nämnden för Vård & omsorg antar riktlinje för klagomåls- och synpunktshantering, daterat 2024-06-
-12.
+12\.
 
 Sammanfattning av ärendet
 
@@ -1518,7 +1518,7 @@ arbetsdag för denna specifika verksamhet och därmed locka ny personal som kan 
 ny verksamhet i form av demensteam.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att:
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att:
 a. Stoppa nedmonteringen av det nuvarande demensteamet.
 b. Inleda rekrytering för ytterligare ett demensteam under 2024-2026 som ska
 finansieras i projektform genom finansiering av resultatfonden om en kostnad på

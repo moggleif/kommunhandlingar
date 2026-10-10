@@ -77,13 +77,13 @@ aktiviteter inom Qvalify genomförs på ett opartiskt och oberoende sätt.
 
 Qvalify’s verksamhet bygger på följande principer:
 
-- Opartiskhet och oberoende
-- Kompetens
-- Ansvar
+\- Opartiskhet och oberoende
+\- Kompetens
+\- Ansvar
 
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Granskningsteam:
 Annika J Jönsson
@@ -108,7 +108,7 @@ förbättringsförslag eller avvikelser har dock dokumenterats under perioden.
 
 Uppdragets delområden
 
-1. Hälsofrämjande och riskförebyggande arbete – Verksamhetskoncept
+1\. Hälsofrämjande och riskförebyggande arbete – Verksamhetskoncept
 
 Verksamhetskonceptet består i att kunna ge boende trygghet och insatser
 som är individuellt anpassade. En del i att uppfylla detta är att samtlig
@@ -144,7 +144,7 @@ ny boende och 2.1.1 Checklista Inflyttning roller och ansvar. Stickprov av
 dokumenten visar att dessa används vid varje inflyttning och finns sparade för
 samtliga boende.
 
-2. Hälsofrämjande och riskförebyggande arbete – Nattkoncept
+2\. Hälsofrämjande och riskförebyggande arbete – Nattkoncept
 
 På natten arbetar specifik nattpersonal. Dessa arbetar våningsvis utan
 avdelningstillhörighet.
@@ -162,7 +162,7 @@ innehåller frågeställningar kring historik och påverkande faktorer. Eventuel
 sker vid behov. Informationen förs över specifikt till nattpersonalen. Stickprov
 på dokumentationen visar på god följsamhet till aktuell rutin.
 
-3. Hälsofrämjande och riskförebyggande arbete – Salutogent och
+3\. Hälsofrämjande och riskförebyggande arbete – Salutogent och
 Rehabiliterande arbetssätt
 
 Boendena arbetar med ett salutogent arbetssätt där man får in vardags-
@@ -215,7 +215,7 @@ enheterna, som alternerar och därmed ger en god kunskapsspridning till
 Gällande hälsofrämjande vid måltider äter personalen vid behov med de
 boende, även detta är situationsanpassat.
 
-4. Hälsofrämjande och riskförebyggande arbete – Fysisk träning
+4\. Hälsofrämjande och riskförebyggande arbete – Fysisk träning
 utifrån rehabiliterande förhållningssätt
 
 På vardagarna finns två till tre aktiviteter per dag att välja på, varav minst en
@@ -281,7 +281,7 @@ tillfrågade. En del avdelningar hade även fika samma tid.
 Personal vittnar om att promenader är ett vanligt förekommande inslag nu när
 vädret börjar bli härligare.
 
-5. Hälsofrämjande och riskförebyggande arbete - Optiska
+5\. Hälsofrämjande och riskförebyggande arbete - Optiska
 Sensorer
 
 De optiska sensorerna fungerar som en extra trygghet för boende samt
@@ -300,7 +300,7 @@ Vardaga        Kungsbacka               2025-05-27        Sida 5(11)
 personal som kan agera utifrån detta. Bilden raderas automatiskt inom 15 min.
 Sensorerna stängs av automatiskt 06.45.
 
-6. Hälsofrämjande och riskförebyggande arbete – Riskanalys/bedömning
+6\. Hälsofrämjande och riskförebyggande arbete – Riskanalys/bedömning
 generellt
 
 Riskanalyser görs för de boende vid inflyttning. Man ser då över risker för den
@@ -353,7 +353,7 @@ Vardaga        Kungsbacka               2025-05-27        Sida 6(11)
 på två avdelningar på Ekhaga samt en avdelning på Vickan vilket är utan
 anmärkning. Fortsatta kontroller kommer att ske gällande detta.
 
-7. Hälsofrämjande och riskförebyggande arbete - IBIC/ICF
+7\. Hälsofrämjande och riskförebyggande arbete - IBIC/ICF
 
 Teammöten med fysio, arbetsterapeut och sjuksköterska sker var tredje
 vecka. Behöver man kontakt med rehab ringer man eller mailar i
@@ -371,7 +371,7 @@ Teammöte och inhämta information även från HSL personal, men detta blev
 inställt av kommunens Rehab och HSL-personal. Detta kommer undersökas
 senare under granskningsperioden.
 
-8. Hälsofrämjande och riskförebyggande arbete – Särskilt arbete för
+8\. Hälsofrämjande och riskförebyggande arbete – Särskilt arbete för
 att minska fall och BPSD
 
 BPSD-skattningar ska göras av demenssjuksköterska samt av utbildad
@@ -430,11 +430,11 @@ läkemedel med sjuksköterska, som tar upp det på rond med läkaren vid
 behov. Därav sker ”uppföljningar” av läkemedel även mellan de regelrätta
 läkemedelsöversynerna.
 
-9. Hälsofrämjande och riskförebyggande arbete – Vårdhund
+9\. Hälsofrämjande och riskförebyggande arbete – Vårdhund
 
 Vårdhund kommer regelbundet varje månad.
 
-10. Aktiviteter och social samvaro – Motverka ensamhet
+10\. Aktiviteter och social samvaro – Motverka ensamhet
 
 De boende äter oftast frukost i gemensamma köket/matsalen tillsammans
 med övriga boende. Möjlighet till att få frukost sträcker sig under hela
@@ -455,7 +455,7 @@ Vardaga        Kungsbacka               2025-05-27        Sida 8(11)
 
 <!-- sida 9 -->
 
-11. Aktiviteter och social samvaro – Aktivitetsorganisation
+11\. Aktiviteter och social samvaro – Aktivitetsorganisation
 
 Aktivitetsgruppen består av tre personer som samarbetar med aktiviteter för
 både Vickans äldreboende och Ekhaga. Man har tagit fram schema över
@@ -472,7 +472,7 @@ att det krockar med klädförsäljningen.
 
 Bingo enligt schema på Vickan vid besök, totalt 8 deltagare.
 
-12. Aktiviteter och social samvaro – Fysiska, kulturella, intellektuella,
+12\. Aktiviteter och social samvaro – Fysiska, kulturella, intellektuella,
 sociala och mentala aktiviteter
 
 Varje boende erbjuds en aktivitetsanalys (AA) av aktivitetspedagog. Den
@@ -522,21 +522,21 @@ en av de boende firar sin födelsedag.
 Under eftermiddagen visas två olika filmer i två olika lokaler som de boende
 har att välja på.
 
-13. Aktiviteter och social samvaro – Utevistelse, trädgård och utflykter
+13\. Aktiviteter och social samvaro – Utevistelse, trädgård och utflykter
 När vädret tillåter så anordnas gemensamma promenader. Vecka tolv
 anordnas detta vid fyra tillfällen. På helgen när ungdomar kommer på besök,
 finns också möjlighet till promenader.
 
 Gemensamma promenader finns på varje veckas schema under två dagar.
 
-14. Aktiviteter och social samvaro – Personcentrerat arbetssätt vid
+14\. Aktiviteter och social samvaro – Personcentrerat arbetssätt vid
 Demenssjukdom
 
 Vid besök på demensavdelning under frukosttid noteras att personalen hela
 
 tiden ser de boendes behov och stöttar med t ex matning och andra behov.
 
-19. Delaktighet och inflytande – Praktikanter & ungdomar i omsorgen
+19\. Delaktighet och inflytande – Praktikanter & ungdomar i omsorgen
 
 Ung Omsorg har verksamhet på boendet med anställda ungdomar på besök
 både lördagar och söndagar. Exempel på helgaktiviteter kan vara rörelse,
@@ -546,7 +546,7 @@ Praktikanter från grundskolans årskurs åtta gör sin praktik under en vecka o
 är för dagen med och hjälper till med servering och transport till och från
 avdelningarna.
 
-20. Måltider – Måltidsstunden
+20\. Måltider – Måltidsstunden
 
 Hotellfrukost serveras i matsalen på Ekhaga vårdboende. Samtliga boende
 blir inbjudna och får anmäla sig senast dagen innan.
@@ -1070,7 +1070,7 @@ Säkerhetsberättelse delår 2025 – Nämnden för Vård & Omsorg Sida 2 av 6
 
 Inledning
 Säkerhetsberättelsen sammanfattar förvaltningens krisberedskaps- och säkerhetsarbete under första halvan av
-2025. Den beskriver pågående arbete, viktiga faktorer som påverkar arbetet och avslutas med en framåtblick
+2025\. Den beskriver pågående arbete, viktiga faktorer som påverkar arbetet och avslutas med en framåtblick
 
 på krisberedskaps- och säkerhetsarbetet under återstoden av 2025 och framåt.
 
@@ -1149,7 +1149,7 @@ grundläggande funktioner.
 
 Chef i beredskap och beredskapsombud
 Tidigare nämnda förändring kring Chef i beredskap (CiB) har genomförts i samband med årsskiftet 2024-
-2025. En översyn av samarbetsrum, rutiner och arbetssätt har skett och två CiB-möten har genomförts. Fokus
+2025\. En översyn av samarbetsrum, rutiner och arbetssätt har skett och två CiB-möten har genomförts. Fokus
 under våren har varit att likrikta arbetssätt, dela kunskap samt skapa struktur. Under hösten är planen att
 fortsatt dela kunskap och samtidigt lyfta in mer av utbildning och övning. (Se framåtblick för mer
 information). Rekrytering till CiB-gruppen sker löpande.
@@ -1395,9 +1395,9 @@ o  Nätverk informationssäkerhetssamordnare
 o  Nätverk dataskyddskontakter
 Under våren har det genomförts 3 konsekvensbedömningar:
 
-1. BI-lösning
-2. AI-transkribering
-3. Verksamhetssystem för lås och larm
+1\. BI-lösning
+2\. AI-transkribering
+3\. Verksamhetssystem för lås och larm
 Bedömningarna med ingående krav på säkerhetsåtgärder är granskade av DSO och därefter beslutade av
 
 förvaltningschef. Under det första halvåret har det dessutom genomförts 9 informationsklassificeringar, detta
@@ -1454,7 +1454,7 @@ finns med som en naturlig del.
 NIS2-direktivet
 
 NIS2-direktivet, EU:s nya omfattande cybersäkerhetslagstiftning, trädde i kraft på EU-nivå den 18 oktober
-2024. Kortfattat kan man säga att direktivet ställer krav på säkerhet i nätverk och informationssystem.
+2024\. Kortfattat kan man säga att direktivet ställer krav på säkerhet i nätverk och informationssystem.
 I Sverige pågår arbetet med att implementera direktivet genom den så kallade Cybersäkerhetslagen. Den
 svenska regeringen har dock försenat införandet, och det förväntas att lagen träder i kraft först i augusti 2025.
 
@@ -1829,7 +1829,7 @@ Arbetsgivaren vill kunna bidra till balans mellan arbete och fritid därför har
 medarbetarna möjlighet att vara delaktiga i schemaläggningen genom att påverka
 fridagar inom ramen för verksamhetens behov.
 
-3. Uppföljning
+3\. Uppföljning
 
 Uppföljning sker månatligen med syfte att arbeta proaktivt och systematisk med
 schemaprocessen. Uppföljningen är en del av att hantera kommande planering.
@@ -2130,10 +2130,10 @@ behov.
 5:3 Antal fridagar
 
 Medarbetare ska på en fyra veckors schemaperiod enligt lagar och avtal
-tillförsäkras fridagar med formeln (2,2* beräkningsperioden), detta gäller oavsett
+tillförsäkras fridagar med formeln (2,2\* beräkningsperioden), detta gäller oavsett
 sysselsättningsgrad.
 
-2,2 fridagar*4 veckor = 8,8 fridagar, vilket avrundas till 9 fridagar
+2,2 fridagar\*4 veckor = 8,8 fridagar, vilket avrundas till 9 fridagar
 
 Vård och omsorgsförvaltningen i Kungsbacka kommun har valt att tillämpa
 
@@ -2315,7 +2315,7 @@ förlagd till nattarbetstid. Nattarbetstid är all arbetstid som fullgörs under
 nattpass. Ett arbetspass räknas som ett nattpass om minst 3 timmar av
 den ordinarie arbetstiden är förlagd mellan klockan 00.00–06.00.
 
-6. Ständig helg
+6\. Ständig helg
 
 <!-- sida 53 -->
 
@@ -2605,11 +2605,11 @@ därför en åtgärdsplan för att kartlägga vilka förutsättningar som behöv
 arbetsmiljöansvariga nämnden ska fatta rätt beslut för välfärden.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en åtgärdsplan som
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en åtgärdsplan som
 ska kartlägga vilka ekonomiska- såväl som organisatoriska förutsättningar som behövs
 för att säkerställa ett sexveckorsschema i hemtjänsten.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram åtgärdsplanen till
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram åtgärdsplanen till
 nämndens sammanträde den 16 oktober 2025.
 
 Ermin Škorić (S)
@@ -2702,7 +2702,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -3697,7 +3697,7 @@ Attester
 Lex Sarah
 
 Avtal
--
+\-
 
 Övrigt
 
@@ -3767,7 +3767,7 @@ Diarienummer VO-2025-00280. (Arbetsmiljöverket) Föranmälan av inspektion – 
 Diarienummer VO-2023-00215. (Kommunrevisionen) Uppföljande granskning av 2023 års
 granskningar.
 Diarienummer VO-2024-00439. (Kommunfullmäktige) KF, § 114. Kommunbudget 2026, plan 2027-
-2028.
+2028\.
 
 Diarienummer VO-2025-00128. (Kommunfullmäktige) KF, § 115. Uppföljning och prognos april
 2025 för Kungsbacka kommun.

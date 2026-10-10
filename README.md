@@ -28,6 +28,7 @@ Bakgrunden står i [ADR-0001](docs/decisions/0001-ett-repo-bara-text.md).
 - [docs/decisions/](docs/decisions/) – arkitekturbeslut, med diskussionen bakom
 - [docs/kallor/kungsbacka.md](docs/kallor/kungsbacka.md) – hur Kungsbacka
   publicerar sina handlingar, och vad som återstår att verifiera
+
 ## Vad som återanvänds från politik-repot
 
 Repot byggs inte vidare; följande kopieras in och anpassas:

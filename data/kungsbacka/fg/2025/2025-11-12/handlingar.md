@@ -251,7 +251,7 @@ Ledamöterna Susanne Andersson, Anna-Karin Granberg och Göran Ottosson Sveriged
 & Grundskola beslutade den 15 maj § 57 att lämna initiativet till förvaltningen för beredning.
 
 I initiativärendet föreslår SD att förvaltningen för Förskola & Grundskola beslutar;
-- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att inrätta en jourskola
+\- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att inrätta en jourskola
 alternativt jourklass på grundskolenivå i Kungsbacka kommun.
 
 -Att utredningsarbetet redovisas för nämnden.
@@ -290,7 +290,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -302,17 +302,17 @@ Trygghet och studiero och möjlighet att flytta elever i nuvarande skollag
 I skollagens 5 kapitel regleras vilka åtgärder som får vidtas för att skapa trygghet och studiero.
 
 De olika disciplinära åtgärder en skola kan besluta om är:
--  utvisning ur undervisningslokalen
+\-  utvisning ur undervisningslokalen
 
--  kvarsittning
--  skriftlig varning efter utredning
+\-  kvarsittning
+\-  skriftlig varning efter utredning
 
--  tillfällig omplacering
--  tillfällig placering utanför den egna skolenheten
+\-  tillfällig omplacering
+\-  tillfällig placering utanför den egna skolenheten
 
--  avstängning
+\-  avstängning
 
--  omhändertagande av föremål
+\-  omhändertagande av föremål
 I skollagen används inte begreppet jourskola eller jourklass men det är möjligt att placera elever vid
 annan enhet för att upprätthålla trygghet och studiero. Enligt 13 § är det möjligt för en rektor att
 besluta om att en elev tillfälligt får undervisning utanför skolan om andra åtgärder inte är tillräckligt
@@ -467,12 +467,12 @@ problematiska i sina ordinarie skolmiljöer placeras under en begränsad tid, of
 
 Följande aspekter lyfter Bunar fram:
 
-1. Pedagogisk kontinuitet och frånvaro
+1\. Pedagogisk kontinuitet och frånvaro
 Placering i akutskola innebär att eleven riskerar att missa upp till en månads ordinarie undervisning.
 Detta kan leda till försämrad måluppfyllelse, särskilt för elever som redan befinner sig i en utsatt
 position i skolsystemet.
 
-2. Avskiljning och risk för stigmatisering
+2\. Avskiljning och risk för stigmatisering
 
 Att samla elever som anses "problematiska" i en separat verksamhet förstärker risken för negativ
 identitetsskapande. Det kan bidra till att elevens svårigheter cementeras snarare än att motverkas,
@@ -483,7 +483,7 @@ särskilt om återgången till den ordinarie skolan sker utan ett välfungerande
 KUNGSBACKA  KOMMUN
 6 (7)
 
-3. Internationell forskning – blandade resultat
+3\. Internationell forskning – blandade resultat
 
 Internationellt, främst i USA, har alternativa skolor delvis en annan funktion. De är ofta strukturellt
 utformade för elever med svåra sociala eller disciplinära utmaningar, såsom koppling till
@@ -491,7 +491,7 @@ gängkriminalitet eller drogmissbruk. Forskning visar att vissa alternativa skol
 effekter – t.ex. mindre grupper, bättre relationer och ökad närvaro – men också att långsiktiga
 målsättningar inte alltid uppnås.
 
-4. Otydligt uppdrag och ansvarsfrågor
+4\. Otydligt uppdrag och ansvarsfrågor
 
 Det finns idag ingen vetenskaplig evidens i Sverige som visar att akutskolor lyckas med sitt uppdrag.
 Det är oklart om deras syfte är att åtgärda elevens beteendeproblematik eller att endast avlasta den
@@ -635,7 +635,7 @@ agerar.
 
 Mot bakgrund av ovanstående yrkar Sverigedemokraterna:
 
-- Att förvaltningen för För- och grundskolenämnden tillsätter ett utredningsarbete I
+\- Att förvaltningen för För- och grundskolenämnden tillsätter ett utredningsarbete I
 syfte att inrätta en jourskola alt. jourklass på grundskolenivå i Kungsbacka kommun.
 
 -Att utredningsarbetet redovisas för nämnden.
@@ -673,7 +673,7 @@ Kungsbacka och nämnden för Förskola & Grundskola beslutade den 15 maj § 57 a
 lämna initiativet till förvaltningen för beredning.
 
 I initiativärendet föreslår SD att förvaltningen för Förskola & Grundskola beslutar;
-- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att
+\- Att förvaltningen för För & Grundskola tillsätter ett utredningsarbete i syfte att
 inrätta en jourskola alternativt jourklass på grundskolenivå i Kungsbacka kommun.
 
 -Att utredningsarbetet redovisas för nämnden.
@@ -1122,7 +1122,7 @@ Förskola & Grundskola, God och Nära vård                    7(8)
 
 2025-10-20
 
-2. Var står vi och hur kommer vi framåt?
+2\. Var står vi och hur kommer vi framåt?
 
 Rekrytering till initiativ ”En väg åter” fortlöper under hösten 2025. Det är av stor vikt att
 tillsättning av denna funktion kan ske under 2025 så att initiativet kommer igång och
@@ -1954,10 +1954,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 12
 
@@ -1983,11 +1983,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 13
 
@@ -2053,17 +2053,17 @@ Nämndbudget 2026
 
 Fokusområde
 
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 
 5.3 Bästa företagsklimatet i Västsverige
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -2071,8 +2071,8 @@ mellan näringsliv och utbildning.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 15
 
@@ -2112,21 +2112,21 @@ barn i behov av särskilt stöd, genom till exempel mindre undervisningsgrupper.
 
 Våra lärare ska bli bättre rustade i att undervisa elever med neuropsykiatriska funktionsnedsättningar (NPF).
 Fokusområde
-- Lärmiljö anpassad efter elevens behov
-- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
-- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
+\- Lärmiljö anpassad efter elevens behov
+\- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
+\- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 
 5.5 Ett medskapande samhälle och öppen attityd
 Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Målsättning
 Indikator                      Utfall 2023 Utfall 2024 Utfall 2025
@@ -2277,8 +2277,8 @@ Nämndbudget 2026
 
 Fokusområde
 
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 6.2.2 Stärka skolan samt förebygga utanförskap och kriminalitet
 
 Beslutats av
@@ -2297,9 +2297,9 @@ Nolltolerans mot bruk av otillåtna substanser ska konsekvent och likvärdigt ti
 Tillsammans med berörda samhällsaktörer ska det narkotikaförebyggande arbetet utökas, genom till exempel
 användning av narkotikahundar på våra skolor.
 Fokusområde
-- Utökat arbete mot narkotika och normbrytande beteende.
-- Tidiga insatser mot skolfrånvaro
-- Ökat samarbete med vårdnadshavare
+\- Utökat arbete mot narkotika och normbrytande beteende.
+\- Tidiga insatser mot skolfrånvaro
+\- Ökat samarbete med vårdnadshavare
 
 6.2.3 Stärka lärarens roll
 
@@ -2313,9 +2313,9 @@ Samtidigt behöver den kollektiva likvärdigheten stärkas i vår organisation. 
 till exempel grovt språk eller begynnande kränkningar ska vara konsekvent och likvärdigt i våra skolor.
 
 Fokusområde
-- Starkare lärarroll
-- Enhetliga normer och arbetssätt
-- Utbildning och kollegialt arbete
+\- Starkare lärarroll
+\- Enhetliga normer och arbetssätt
+\- Utbildning och kollegialt arbete
 
 20
 
@@ -2655,7 +2655,7 @@ till den kommunala och fristående verksamheten.
 
 Ramanalys
 Nämndbudgeten är upprättad utifrån Kommunfullmäktiges beslutade budgetram för Förskola & Grundskola år
-2026. I ramanalysen redovisas budgetramarna för både 2025 och 2026.
+2026\. I ramanalysen redovisas budgetramarna för både 2025 och 2026.
 
 Budget för löneöversyn 2026 ingår i den fastställda ramen. Beräkningarna utgår från rekommenderad nivå för
 personalomkostnadspålägg enligt Sveriges Kommuner och Regioner (SKR). Den slutliga nivån kan komma att
@@ -2797,7 +2797,7 @@ Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2026
 
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2026.
+2026\.
 
 9.2 Investeringsbudget
 
@@ -3247,28 +3247,28 @@ Nämnden för Förskola & Grundskola har grundprincipen vid beräkning att den f
 verksamheten ska ha samma ekonomiska förutsättningar som den kommunala verksamheten. Från och
 med budgetåret 2010 gäller ny lagstiftning vad gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar vid
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar vid
 fördelning av resurser till den egna verksamheten av motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till grund för
+\- Kommunens budget för verksamheten det kommande året ska ligga till grund för
 bestämningen av bidragen till den fristående verksamheten.
 
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
 1 (3)
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -3283,10 +3283,10 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
 
-7. lokalkostnader.
+7\. lokalkostnader.
 Nedan följer grundbeloppen för 2026 i både kommunal och fristående verksamhet. I den fristående
 verksamheternas grundbelopp inkluderas bidrag för lokalkostnader, måltider samt ersättning för
 kostnader som den kommunala verksamheten valt att ha centralt. Därtill tillkommer en
@@ -3363,35 +3363,35 @@ fristående verksamheten ska ha samma ekonomiska förutsättningar som den
 kommunala verksamheten. Från och med budgetåret 2010 gäller ny lagstiftning vad
 gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen
 tillämpar vid fördelning av resurser till den egna verksamheten av
 motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till
+\- Kommunens budget för verksamheten det kommande året ska ligga till
 
 grund för bestämningen av bidragen till den fristående verksamheten.
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning
 för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser
 ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
 
-7. lokalkostnader.
+7\. lokalkostnader.
 Nedan följer grundbeloppen för 2026 i både kommunal och fristående verksamhet. I
 den fristående verksamheternas grundbelopp inkluderas bidrag för lokalkostnader,
 måltider samt ersättning för kostnader som den kommunala verksamheten valt att ha
@@ -4226,9 +4226,9 @@ I nämnden för förskola & grundskola har Alliansen lagt ett initiativärende o
 
 I initiativet får förvaltningen i uppdrag att:
 
--  Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till exempel
+\-  Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till exempel
 frikoppla denna del ur den ordinarie elevpengen.
--  Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans arbete gentemot
+\-  Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans arbete gentemot
 huvudmannen.
 
 Förvaltningen konstaterar att många kommuner har en modell för att nyckla ut resurser för elevhälsans
@@ -4305,9 +4305,9 @@ Utredning Stärkt elevhälsa.
 251017
 
 I ett nämnduppdrag gav nämnden för Förskola & grundskola förvaltningen i uppdrag att:
--  Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
+\-  Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
 exempel frikoppla denna del ur den ordinarie elevpengen.
--  Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans arbete
+\-  Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans arbete
 gentemot huvudmannen.
 
 Förvaltningens utredning
@@ -4355,9 +4355,9 @@ av att definiera vilka yrkesgrupper som bör avses i fördelning avskild från e
 finns olika sätt att beräkna volym per skola enligt nedan.
 
 Förvaltningen ser olika modeller och dessa kan sammanfattas enligt nedan:
-1. Tydligare återkoppling till nämnden av utfall och prognosticerat utfall av elevhälsans
+1\. Tydligare återkoppling till nämnden av utfall och prognosticerat utfall av elevhälsans
 funktioner – så som förvaltningen redovisar idag enligt årshjul.
-2. Elevhälsans del i elevpengen bryts ut och fördelas direkt till skolorna som en separat
+2\. Elevhälsans del i elevpengen bryts ut och fördelas direkt till skolorna som en separat
 budget för respektive profession och utifrån den faktor som idag finns som
 
 beräkningsgrund inom skolpengen.
@@ -4372,9 +4372,9 @@ fördelning samt/eller storlek på skola.
 
 <!-- sida 114 -->
 
-3. Fördelning görs utifrån ett grunduppdrag men där viss del av fördelning sker via
+3\. Fördelning görs utifrån ett grunduppdrag men där viss del av fördelning sker via
 central bedömning av behov.
-4. Endast vissa professioner såsom skolsköterska, kurator och skolpsykolog fördelas
+4\. Endast vissa professioner såsom skolsköterska, kurator och skolpsykolog fördelas
 direkt till skolorna enlig fastställd modell, dvs enligt kriterier ovan. Specialpedagog
 och speciallärare fördelas inte via separat budget utan ingår som pedagogisk
 personal och i fördelning av elevpeng. Avseende skolläkare att dessa är centralt
@@ -4433,8 +4433,8 @@ Avseende organisering av PLA, psykologiskt ledningsansvarig, samt skolpsykologer
 förvaltningen initierat översyn och som gjorts av Pe3. Förvaltningen har med denna
 utredning som bakgrund gjort två ställningstaganden:
 
-1. Omfattningen av tjänst som PLA behöver utökas.
-2. Inriktningen för organisering av skolpsykologer är att dessa funktioner behöver
+1\. Omfattningen av tjänst som PLA behöver utökas.
+2\. Inriktningen för organisering av skolpsykologer är att dessa funktioner behöver
 centraliseras.
 Syftet med förändringarna är att skapa större likvärdighet samt ökad patientsäkerhet.
 
@@ -4477,10 +4477,10 @@ I nämnden för förskola & grundskola har Alliansen lagt ett initiativ om Stär
 elevhälsa.
 
 I initiativet får förvaltningen i uppdrag att:
-- Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
+\- Utreda möjligheterna till tydligare ekonomisk styrning av elevhälsan, genom att till
 exempel frikoppla denna del ur den ordinarie elevpengen.
 
-- Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans
+\- Utreda möjligheterna till förbättrad granskning och uppföljning av elevhälsans
 arbete gentemot huvudmannen.
 Förvaltningen konstaterar att många kommuner har en modell för att tilldela resurser
 
@@ -4758,12 +4758,12 @@ kopplingar mellan kränkningar och KIA-anmälningar. Trots insatser och uppfölj
 generellt är anmälningsgraden/anmälningskulturen låg.
 
 Förslag från förvaltningen att gå vidare med:
-1. Ett nästa steg för huvudmannen är att analysera skolenheternas plan mot kränkande
+1\. Ett nästa steg för huvudmannen är att analysera skolenheternas plan mot kränkande
 behandling och diskriminering för att få en bild av de utmaningar/förbättringsområden
 som skrivs fram där. I en sådan analys på huvudmannanivå bör man få en bild av
 vilka områden som visar sig tex rasism, homofobi osv, utifrån det kan riktade insatser
 ske till de enheter som ”klustrats” inom samma område.
-2. På motsvarande sätt som arbetet med att främja närvaro – UP2 – ser förvaltningen
+2\. På motsvarande sätt som arbetet med att främja närvaro – UP2 – ser förvaltningen
 
 behov av motsvarande arbete i att arbeta med och omhänderta
 kränkningsanmälningar. Arbetet med UP2 har genomförts med goda resultat och där
@@ -4809,10 +4809,10 @@ den uppstår. Detta kommer följas av ytterligare implementeringsinsatser. Det g
 
 Förslag från förvaltningen att gå vidare med:
 
-1. Förvaltningen kommer fortsätta att arbete med närvaro i förskolan och övergången till
+1\. Förvaltningen kommer fortsätta att arbete med närvaro i förskolan och övergången till
 förskoleklass. Förvaltningen ser samband med att att skolan ärver med frånvaro från
 de yngre åldrarna.
-2. Revidera rutin för arbete med närvaro och frånvaro samt implementeringsinsatser
+2\. Revidera rutin för arbete med närvaro och frånvaro samt implementeringsinsatser
 kopplat till detta.
 
 Kungsbacka 251017

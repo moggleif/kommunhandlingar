@@ -267,10 +267,10 @@ initiativet anses besvarat.
 En ledamot i en nämnd har rätt att väcka ärenden i nämnden. Nämnden ska vid
 behandlingen av ett initiativ, vid sammanträdet där det väcks, antingen
 
--  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
+\-  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
 
--  remittera initiativet till förvaltningen eller annat organ för beredning, eller
--  bordlägga initiativet till nästkommande sammanträde
+\-  remittera initiativet till förvaltningen eller annat organ för beredning, eller
+\-  bordlägga initiativet till nästkommande sammanträde
 
 Nämnden har som huvudman för den kommunala skolan det övergripande ansvaret
 för att följa upp och säkerställa att utbildningsverksamheten bedrivs så att skollag
@@ -401,16 +401,16 @@ risken för omorganisationen låg på 20 av 25, bilaga 6. Kungsbacka kommun har 
 
 fokus på nedan.
 
-- Vilka risker och konsekvenser ser man med de genomförda och planerade besparingarna?
+\- Vilka risker och konsekvenser ser man med de genomförda och planerade besparingarna?
 
-- Vilka konsekvenser får det för barn och elever?
-- Vilka arbetsmiljökonsekvenser får det för anställd personal?
+\- Vilka konsekvenser får det för barn och elever?
+\- Vilka arbetsmiljökonsekvenser får det för anställd personal?
 
 1 (6)
 
 <!-- sida 12 -->
 
-- Klarar man av att efterleva skollagen: Att alla barn och elever får det stöd de enligt lag har rätt
+\- Klarar man av att efterleva skollagen: Att alla barn och elever får det stöd de enligt lag har rätt
 till?
 
 Förslaget fick stöd av flera ledamöter, men trots det valde majoriteten att avslå det, trots
@@ -887,7 +887,7 @@ eeeeegggggiiiiitttttkkkkkääääämmmmmlllllllllluuuuufffff
 iiiii
 tttttuuuuulllllssssseeeeebbbbb
 tttttaaaaattttttttttaaaaafffff
-=====
+\=====
 ttålB
 ..nneennooiittnneevvnnookk
 ttggiillnnee
@@ -901,7 +901,7 @@ iiiii
 tttttuuuuulllllssssseeeeebbbbb
 tttttaaaaattttttttttaaaaafffff
 eeeeetttttnnnnniiiii
-=====
+\=====
 ttttttttttöööööRRRRR
 ..nneennooiittnneevvnnookk
 ttggiillnnee
@@ -911,13 +911,13 @@ tttuuulllssseeebbb
 mmmooo
 jjjeee
 ttteeevvv
-===
+\===
 eeemmmiiiLLL
 ...nnneeetttäääkkknnneee
 åååppp
 tttaaarrraaavvvsss
 jjjeee
-===
+\===
 ttttttiiiVVV
 
 <!-- sida 20 -->
@@ -941,7 +941,7 @@ ii
 aatteebbrraa
 nneennooiittnneevvnnookknnrraabb
 aajj
-=
+\=
 ttålB
 
 <!-- sida 21 -->
@@ -965,15 +965,15 @@ ttteeehhhgggiiilllnnneee
 iii
 aaattteeebbbrrraaa
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 ejlätrroN
 taravs
 je
-=
+\=
 ttiV
 netäkne
 åp
@@ -1027,21 +1027,21 @@ ttteeehhhgggiiilllnnneee
 iii
 aaattteeebbbrrraaa
 jen
-=
+\=
 ttöR
 preiT
 aj
-=
+\=
 ttålB
 nneettääkknnee
 ååpp
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 je
 tev
-=
+\=
 emiL
 rammahtsÖ
 ybeH
@@ -1070,16 +1070,16 @@ ttteeehhhgggiiilllnnneee
 iii
 aaattteeebbbrrraaa
 jen
-=
+\=
 ttöR
 sängnärtS
 anutsliksE
 aj
-=
+\=
 ttålB
 taravs
 je
-=
+\=
 ttiV
 netäkne
 åp
@@ -1114,21 +1114,21 @@ iii
 aaattteeebbbrrraaa
 alatoM
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 taravs
 je
-=
+\=
 ttiV
 gnipökrroN
 netäkne
 åp
 je
 tev
-=
+\=
 emiL
 gnipökniL
 yblöjM
@@ -1161,21 +1161,21 @@ nneennooiittnneevvnnookknnrraabb
 ddeemm
 ybenA
 jen
-=
+\=
 ttöR
 aajj
-=
+\=
 ttålB
 je
 tev
-=
+\=
 emiL
 gnipöknöJ
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 öjssäN
 öjskE
@@ -1208,16 +1208,16 @@ ii
 aatteebbrraa
 nneennooiittnneevvnnookknnrraabb
 jen
-=
+\=
 ttöR
 öjxäV
 aj
-=
+\=
 ttålB
 ååpp
 taravs
 je
-=
+\=
 ttiV
 netäkne
 atsevlA
@@ -1250,21 +1250,21 @@ aatteebbrraa
 ybremmiV
 nneennooiittnneevvnnookknnrraabb
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 nmahsraksO
 je
 tev
-=
+\=
 emiL
 ybsgöH
 mlohgroB
@@ -1292,20 +1292,20 @@ ii
 aatteebbrraa
 nneennooiittnneevvnnookknnrraabb
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 je
 tev
-=
+\=
 emiL
 
 <!-- sida 29 -->
@@ -1329,15 +1329,15 @@ ttteeehhhgggiiilllnnneee
 iii
 aaattteeebbbrrraaa
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 ybennoR
 taravs
 je
-=
+\=
 ttiV
 anorkslraK
 netäkne
@@ -1345,7 +1345,7 @@ netäkne
 mörtsfolO
 je
 tev
-=
+\=
 emiL
 nmahslraK
 
@@ -1371,20 +1371,20 @@ aatteebbrraa
 dem
 nenoit
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 netäkne
 åp
 jjee
 tev
-=
+\=
 emiL
 
 <!-- sida 31 -->
@@ -1408,20 +1408,20 @@ aatteebbrraa
 nneennooiittnneevvnnookknnrraabb
 grebraV
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 je
 tev
-=
+\=
 emiL
 etlyH
 datsmlaH
@@ -1455,22 +1455,22 @@ såsgnilA
 dnus
 nröjT
 jen
-=
+\=
 ttöR
 elA
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 vlägnuK
 je
 tev
-=
+\=
 emiL
 mureL
 grobetöG
@@ -1490,7 +1490,7 @@ sänetoS
 orbiT
 edvökS
 gnipökdi
-- L särG
+\- L särG
 allaveddUlikesyL
 arakS
 prot
@@ -1533,20 +1533,20 @@ aatteebbrraa
 nneennooiittnneevvnnookknnrraabb
 ybsroT
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 nneettääkknnee
 ååpp
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 je
 tev
-=
+\=
 emiL
 srofgaH
 ennuS
@@ -1590,16 +1590,16 @@ aatteebbrraa
 sstteennrraabb
 srofelläH
 aajj
-=
+\=
 ttålB
 jen
-=
+\=
 ttöR
 nneettääkknnee
 ååpp
 ttaarraavvss
 eettnnii
-==
+\==
 ttttiiVV
 grebsedniL
 aroN
@@ -1633,17 +1633,17 @@ nneennooiittnneevvnnookknnrraabb
 ddeemm
 alaS
 jen
-=
+\=
 ttöR
 atsregaF
 aajj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 såretsäV
 -atsllaH
@@ -1674,22 +1674,22 @@ dem
 neladvlÄ
 nenoit
 jen
-=
+\=
 ttöR
 asrO
 aj
-=
+\=
 ttålB
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 netäkne
 åp
 gnulaM
 jjee
 tev
-=
+\=
 emiL
 kivttäR
 neläS-
@@ -1725,22 +1725,22 @@ dem
 ladsujL
 nenoit
 jen
-=
+\=
 ttöR
 sänlloB
 aj
-=
+\=
 ttålB
 rekånavO
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 netäkne
 åp
 jjee
 tev
-=
+\=
 emiL
 oblekcO        srofoH
 
@@ -1766,17 +1766,17 @@ nneennooiittnneevvnnookknnrraabb
 ddeemm
 kivsdlöksnrÖ
 jen
-=
+\=
 ttöR
 åetfelloS
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 srofmarK
 egnÅ
@@ -1806,17 +1806,17 @@ eesslleerryyttss
 nneennooiittnneevvnnookknnrraabb
 ddeemm
 jen
-=
+\=
 ttöR
 mokorK
 aj
-=
+\=
 ttålB
 netäkne
 åp
 taravs
 je
-=
+\=
 ttiV
 erÅ
 adnugaR
@@ -1853,15 +1853,15 @@ nenoit
 eleskcyL
 åetfellekS
 jen
-=
+\=
 ttöR
 aj
-=
+\=
 ttålB
 nledniV
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 srofstreboR
 netäkne
@@ -1869,7 +1869,7 @@ netäkne
 elesÅ
 jjee
 tev
-=
+\=
 emiL
 sännäV
 mlohrujB
@@ -1899,22 +1899,22 @@ dem
 anuriK
 nenoit
 jen
-=
+\=
 ttöR
 eravilläG
 aj
-=
+\=
 ttålB
 alajaP
 ttaarraavvss
 jjee
-==
+\==
 ttttiiVV
 netäkne
 åp
 jjee
 tev
-=
+\=
 emiL
 kkomkkoJ
 golpejrA
@@ -1941,12 +1941,12 @@ Många års erfarenheter av lokalt och regionalt barnrättsarbete har visat att 
 Barnkonsekvensanalys
 "nns ett antal framgångsfaktorer som är viktiga att beakta.
 Barnkonventionen är svensk lag
-1. Ta reda på om det "nns ett beslut i fullmäktige (styrelse) om att arbeta i
+1\. Ta reda på om det "nns ett beslut i fullmäktige (styrelse) om att arbeta i
 Genomförande av
 enlighet med konventionen
 barnkonventionen
 Framgångsfaktorer
-2. Ta in skrivningar om rättigheterna i alla styrande dokument
+2\. Ta in skrivningar om rättigheterna i alla styrande dokument
 Nätverk barnets rättigheter
 Att det "nns skrivningar om rättigheterna i de styrande dokumenten kan sägas motsvara
 Stödstrukturer, modeller
@@ -1957,19 +1957,19 @@ och prioriteringar synliggörs.  Öva barnets rättigheter, kortlek
 Skapa inga nya dokument, för in rättigheterna i de dokument som "nns.
 Jämställdhet
 Kvinnofrid
-3. Verka för att det ska "nnas ett krav på återrapportering till den politiska nivån
+3\. Verka för att det ska "nnas ett krav på återrapportering till den politiska nivån
 MR i styrning och ledning
 För att säkra att rättigheterna tillämpas i organisationen är det viktigt med återrapportering till Nationella minoriteter
 politikerna. De behöver veta vad som är utfört i förhållande till de beslut som är fattade.
 Rasism, diskriminering
-4. Kartlägg kunskapsnivån        Folkhälsa, jämlik hälsa
+4\. Kartlägg kunskapsnivån        Folkhälsa, jämlik hälsa
 Stöd för samordning
-5. Besluta om en samordningsfunktion
-6. Tillsätt en arbetsgrupp som är knuten till samordningsfunktionen
-7. Förankra arbetet i hela organisationen
+5\. Besluta om en samordningsfunktion
+6\. Tillsätt en arbetsgrupp som är knuten till samordningsfunktionen
+7\. Förankra arbetet i hela organisationen
 Alla delar av organisationen behöver vara informerad om vad som pågår.
-8. Genomför aktiviteter på olika nivåer
-9. Be om handledning och stöd om det behövs
+8\. Genomför aktiviteter på olika nivåer
+9\. Be om handledning och stöd om det behövs
 Informationsansvarig
 Marie Lundin Karphammar
 Handläggare
@@ -2173,8 +2173,8 @@ Verksamheten i skolan skall utformas i överensstämmelse med grundläggande dem
 värderingar. Var och en som arbetar inom skolan skall främja aktning för varje människas
 egenvärde och respekt för vår gemensamma miljö särskilt ska den som verkar inom skolan
 
-1. främja jämställdhet mellan könen samt
-2. aktivt motverka alla former av kränkande behandling
+1\. främja jämställdhet mellan könen samt
+2\. aktivt motverka alla former av kränkande behandling
 
 Utbildningen ska vara icke-konfessionell och likvärdig.
 
@@ -2283,16 +2283,16 @@ mentor/klasslärare eller fritidspersonal. Detta arbete ska göras skyndsamt. Al
 dokumenteras i vårt Kommungemensamma dokument i Prorenata. Rektor är ansvarig för att arbetet
 görs enligt fastställd rutin.
 
-1. När skolan får kännedom att en elev misstänks ha blivit kränkt ska omedelbart utredning startas
+1\. När skolan får kännedom att en elev misstänks ha blivit kränkt ska omedelbart utredning startas
 och åtgärder vidtagas av den som tar emot anmälan. Kommungemensamt dokument för
 anmälan av kränkande behandling används av den som mottagit ärendet, ”Anmälan om
 misstänkt kränkande behandling” https://journal.prorenata.se/contactform/kungsbacka-
 ko/krankning/. Genom att dokumentet mottages sker en anmälan till huvudman.
 
-2. Dokumentet mottages av rektor via journalsystem Prorenata som bedömer om det är en
+2\. Dokumentet mottages av rektor via journalsystem Prorenata som bedömer om det är en
 kränkande behandling och i sådant fall vem som ska utreda ärendet.
 
-3. Ansvarig att utreda meddelas om vad som har hänt och vilka åtgärder som vidtagits. Ansvarig
+3\. Ansvarig att utreda meddelas om vad som har hänt och vilka åtgärder som vidtagits. Ansvarig
 att utreda pratar med den som misstänks ha utsatts, med den som misstänks ha utfört
 kränkningen och andra inblandade. Som underlag i utredningen används kommungemensamt
 dokument, ”Utredning om kränkande behandling”,
@@ -2304,16 +2304,16 @@ behandling-grundskola/
 
 <!-- sida 50 -->
 
-4.
+4\.
 
 Ansvarig utredare informerar vårdnadshavare om det som inträffat och vilka åtgärder som
 kommer att vidtas eller redan vidtagits.
 
-5. Om rektor/utredare bedömer att trygghetsteamet behövs för att komma till rätta med ärendet
+5\. Om rektor/utredare bedömer att trygghetsteamet behövs för att komma till rätta med ärendet
 kopplas trygghetsteamet in. Trygghetsteamet fortsätter arbeta med kränkningsutredningen med
 elever, lärare/mentor och vårdnadshavare.
 
-6. Ärendet följs upp av utredare med involverade elever, vårdnadshavare, lärare/mentor och
+6\. Ärendet följs upp av utredare med involverade elever, vårdnadshavare, lärare/mentor och
 elevhälsoteamet. Om uppföljning visar att åtgärderna har haft önskad effekt och kränkningarna
 har upphört avslutas ärendet. Om uppföljningen visar att åtgärderna inte haft önskad effekt och
 kränkningar fortfarande kvarstår beslutar rektor om vidare åtgärder som följs upp tills
@@ -2321,35 +2321,35 @@ kränkningarna upphört.
 
 Rutiner för att utreda och åtgärda när elev kränks av personal
 
-1. När skolan får kännedom att en elev misstänks ha blivit kränkt av personal ska omedelbart
+1\. När skolan får kännedom att en elev misstänks ha blivit kränkt av personal ska omedelbart
 utredning startas och åtgärder vidtagas av rektor. Kommungemensamt dokument för anmälan av
 kränkande behandling används av rektor, ”Anmälan om misstänkt kränkande behandling”,
 https://journal.prorenata.se/contactform/kungsbacka-ko/krankning/
 Genom att dokumentet mottages sker en anmälan till huvudman.
 
-2. Som underlag i utredningen används kommungemensamt dokument, ”Utredning om kränkande
+2\. Som underlag i utredningen används kommungemensamt dokument, ”Utredning om kränkande
 behandling”, https://journal.prorenata.se/contactform/kungsbacka-ko/utredning-av-misstankt-
 krankande-behandling-grundskola/.
 
-3. Rektor tillsammans med ytterligare representant från arbetsgivaren pratar med den som uppträtt
+3\. Rektor tillsammans med ytterligare representant från arbetsgivaren pratar med den som uppträtt
 kränkande. Denne erbjuds att ha sin fackliga företrädare eller någon annan förtrogen med sig
 vid detta samtal. Om det skulle vara flera vuxna inblandande så förs samtal med en i taget.
 Samtalen ska ske i direkt följ med alla inblandade.
 
-4. Rektor pratar med eleven/vårdnadshavare.
+4\. Rektor pratar med eleven/vårdnadshavare.
 
-5. Rektor fattar snabbt beslut om åtgärder för att avhjälpa en eventuellt akut situation.
-6. Rektor informerar vårdnadshavare.
+5\. Rektor fattar snabbt beslut om åtgärder för att avhjälpa en eventuellt akut situation.
+6\. Rektor informerar vårdnadshavare.
 
-7. En plan tas fram för det fortsatta arbetet. Denna plan innehåller avstämningsmöten och
+7\. En plan tas fram för det fortsatta arbetet. Denna plan innehåller avstämningsmöten och
 uppföljning. Rektor ansvarar för uppföljningen för såväl den kränkta eleven som den som har
 kränkt.
 
-8. Om behov för långsiktiga åtgärder föreligger, ansvarar rektor för att sådana vid behov planeras
+8\. Om behov för långsiktiga åtgärder föreligger, ansvarar rektor för att sådana vid behov planeras
 och genomförs på individ-, grupp, och skolnivå. Dessa åtgärder ska beslutas i samråd med den
 utsatte, dennes vårdnadshavare, arbetslag och den som uppträtt kränkande.
 
-9. Alla samtal, åtgärder och överenskommelser ska dokumenteras.
+9\. Alla samtal, åtgärder och överenskommelser ska dokumenteras.
 
 7
 
@@ -2529,14 +2529,14 @@ studiero.
 
 Undersöka risker och hinder:
 
-1. Genomföra trygghetsenkäten.
-2. Analysera orsakerna till de nu upptäckta riskerna och hindren. Reflektera och analysera.
+1\. Genomföra trygghetsenkäten.
+2\. Analysera orsakerna till de nu upptäckta riskerna och hindren. Reflektera och analysera.
 Varför ser det ut som det gör?
 
-3. Genomföra främjande och förebyggande åtgärder som skäligen kan krävas utifrån vad
+3\. Genomföra främjande och förebyggande åtgärder som skäligen kan krävas utifrån vad
 undersökningen och analysen visar. En ansvarsfördelning och tidsplan ska anges för
 genomförande av dessa åtgärder.
-4. Följa upp och utvärdera punkterna 1–3. Har arbetet fungerat och har de kort- och långsiktiga
+4\. Följa upp och utvärdera punkterna 1–3. Har arbetet fungerat och har de kort- och långsiktiga
 målen uppfyllts? När denna utvärdering är gjord ska dessa erfarenheter samlas till nästa
 arbetscykel och användas som aktiva åtgärder för verksamheten, exempelvis
 kompetensutveckling, i planeringsstadiet välja pedagogiskt material som tillåter ett
@@ -2639,7 +2639,7 @@ RISKBEDÖMNING INFÖR ÄNDRING I VERKSAMHETEN
 
 Å Precisera den planerade ändringen
 
-1. Vad består ändringarna av?
+1\. Vad består ändringarna av?
 
 Skillnad mellan org 23/24 till org 24/25 minskning med:
 
@@ -2662,7 +2662,7 @@ förlänger inga vikarier
 På fritids med ca 9096
 Ökning resurs f-3 med ca 2096
 
-2. Var ska ändringarna genomföras?
+2\. Var ska ändringarna genomföras?
 
 Minskning av en lärare till blivande åk 3
 
@@ -2676,7 +2676,7 @@ Förflyttning av resurs i blivande åk 6 till F-3
 
 Omfördelning av resurser knutna till årskurser och FLEX främst 4-6
 
-3. Vilka arbetstagare eller grupper av arbetstagare berörs?
+3\. Vilka arbetstagare eller grupper av arbetstagare berörs?
 Samtliga på skolan.
 
 Kungsbacka
@@ -2687,7 +2687,7 @@ Kungsbacka
 Beskrivning
 Ni måste precisera den eller de ändringar som planeras innan det går att göra en riskbedömning
 
-1. Exempel på vad ändringarna kan bestå av:
+1\. Exempel på vad ändringarna kan bestå av:
 
 Minskning av en lärare till blivande åk 3
 Minskning av PREST i åk 1 och åk 2
@@ -2712,7 +2712,7 @@ e Slå ihop tre klasser till två i blivande åk 3
 
 B Gör riskbedömningen
 
-1. Vilka risker innebär ändringarna?
+1\. Vilka risker innebär ändringarna?
 e Ökad stress
 o Sannolikhet mycket vanligt 5
 o Konsekvens 4
@@ -2721,7 +2721,7 @@ e — Ökad arbetsbelastning
 o Sannolikhet mycket vanligt 5
 o Konsekvens 4
 
-2. Är riskerna allvarliga eller inte?
+2\. Är riskerna allvarliga eller inte?
 Riskvärde 20 på en skala från 1-25
 
 Beskrivning
@@ -2743,7 +2743,7 @@ e Ökat samarbete inom spec mellan f-3 och 4-6.
 
 C Åtgärda
 
-1. Vilka åtgärder ska genomföras?
+1\. Vilka åtgärder ska genomföras?
 e Kommunicera organisationen tydligt till samtliga medarbetare, var alla ska vara.
 e Tidig schemaläggning för att kunna arbeta fram bra lösningar.
 
@@ -2756,7 +2756,7 @@ KUNGSBACKA  KOMMUN
   Uppmuntra till social samvaro.
   Erbjuda hjälp i att prioritera i sitt uppdrag.
 
-2. När ska åtgärderna vara genomförda?
+2\. När ska åtgärderna vara genomförda?
   Kommunicera organisationen tydligt till samtliga medarbetare, var alla ska vara. – vt 24 påbörjad
 
   Tidig schemaläggning för att kunna arbeta fram bra lösningar. – vt 24 påbörjad
@@ -2764,7 +2764,7 @@ KUNGSBACKA  KOMMUN
   Uppmuntra till social samvaro. - vt 24 samt ht 24 påbörjad
   Erbjuda hjälp i att prioritera i sitt uppdrag. - vt 24 samt ht 24 pågående
 
-3. Vem ser till att åtgärderna genomförs?
+3\. Vem ser till att åtgärderna genomförs?
   Rektorerna på Presseskolan
 
 Beskrivning
@@ -3091,8 +3091,8 @@ kommun, 2024-00481
 <!-- sida 72 -->
 
 Innehåll
-1. Förskola, pedagogisk omsorg och fritidshem................................................. 4
-2. Rätt till plats .................................................................................................. 4
+1\. Förskola, pedagogisk omsorg och fritidshem................................................. 4
+2\. Rätt till plats .................................................................................................. 4
 
 2.1 Allmän förskola, för barn 3-5 år ................................................................... 5
 2.2 Särskilt erbjudande om plats i avgiftsfri allmän förskola .............................. 5
@@ -3101,32 +3101,32 @@ Innehåll
 2.4 Arbetslösas barn ......................................................................................... 6
 2.5 Sjukskrivens barn........................................................................................ 6
 2.6 Mottagande av barn från annan kommun .................................................... 6
-3. Ansökan ........................................................................................................... 7
+3\. Ansökan ........................................................................................................... 7
 
 3.1 Placering förskola ....................................................................................... 7
 3.2 Omplacering ............................................................................................... 8
-4. Tider ................................................................................................................. 8
+4\. Tider ................................................................................................................. 8
 4.1 Omsorg utöver den ordinarie verksamhetens öppettider ............................. 8
 
 4.2 Stängningsdagar ......................................................................................... 8
 4.3 Uppehåll i placering och ledighet ................................................................ 8
 4.4 Uppsägning................................................................................................. 9
 
-4. Avgifter och fakturering ................................................................................. 9
+4\. Avgifter och fakturering ................................................................................. 9
 5.1 Inkomstuppgifter ......................................................................................... 9
 5.2 Avgiftskontroll ............................................................................................. 9
 5.3 Uppsägning på grund av obetalda avgifter ................................................ 10
 
 5.4 Flytt till annan kommun ............................................................................. 10
-6. Avsteg från regler ....................................................................................... 10
-5. Force majeure.......................................................................................... 10
+6\. Avsteg från regler ....................................................................................... 10
+5\. Force majeure.......................................................................................... 10
 
 Kungsbacka kommun Regler för kommunal förskola, fritidshem och pedagogisk omsorg i Kungsbacka 3 (10)
 kommun, 2024-00481
 
 <!-- sida 73 -->
 
-1. Förskola, pedagogisk omsorg och fritidshem
+1\. Förskola, pedagogisk omsorg och fritidshem
 Förskola vänder sig till barn från 1 år till dess de börjar förskoleklassen eller skolan.
 
 Fritidshem vänder sig till barn från skolstart till vårterminens slut det år barnet fyller
@@ -3137,7 +3137,7 @@ förskola och fritidshem. Pedagogisk omsorg är verksamhet där personalen antin
 tar hand om barnen i sitt eget hem eller som bedrivs i en särskild lokal med flera
 dagbarnvårdare.
 
-2. Rätt till plats
+2\. Rätt till plats
 Rätt till plats på förskola har barn från 1 års ålder. Kungsbacka kommun ska erbjuda
 förskoleplats till barn som är bosatta i Kungsbacka, det vill säga den som är
 folkbokförd i kommunen (8 kap. § 5 och 6, skollagen)1. Förskola erbjuds om någon
@@ -3299,7 +3299,7 @@ kommun, 2024-00481
 
 <!-- sida 76 -->
 
-3. Ansökan
+3\. Ansökan
 Ansökan till kommunal förskola eller pedagogisk omsorg kan göras sex månader
 innan plats önskas, dock tidigast när barnet är sex månader.
 
@@ -3369,7 +3369,7 @@ förskola fördelas platser utifrån anmälningsdatum.
 Fritidsplats erbjuds så fort verksamheten har möjlighet att ta emot eleven utifrån
 vårdnadshavares önskemål. Ingen turordning tillämpas.
 
-4. Tider
+4\. Tider
 Förskola, fritidshem och pedagogisk omsorg ska erbjudas i den omfattning det
 behövs med hänsyn till vårdnadshavarnas förvärvsarbete eller studier (8 kap. 3, 5
 §§ och 14 kap. 5 § skollagen). Hänsyn tas även till skälig restid. Verksamheten
@@ -3421,7 +3421,7 @@ efter två månaders frånvaro. Sommarveckorna 28-31 avräknas från frånvaroti
 Uppsägningstid för plats i förskola, pedagogisk omsorg och fritidshem är 30 dagar.
 Avgift tas ut under uppsägningstiden, även om plats inte nyttjas.
 
-5. Avgifter och fakturering
+5\. Avgifter och fakturering
 Kungsbacka kommun tillämpar maxtaxa vilket innebär att det finns ett tak för avgift
 
 för plats i förskola, fritidshem och pedagogisk omsorg. Maxtaxan räknas om årligen.
@@ -3496,13 +3496,13 @@ Vid flytt till annan kommun utanför samverkansområdet kvarstår inte automatis
 rätten att behålla platsen utan vårdnadshavare behöver ansöka hos Kungsbacka
 kommun om fortsatt placering.
 
-6. Avsteg från regler
+6\. Avsteg från regler
 
 Beslut om avsteg från, eller principiella ställningstaganden i enskilda ärenden utöver
 skolförfattningar eller kommunens regler eller avtal fattas på delegation av
 nämndens arbetsutskott.
 
-7. Force majeure
+7\. Force majeure
 Förskola & Grundskola har rätt att stänga verksamheten om det finns risk för barns
 hälsa att hålla den öppen, t.ex. vid brand, sjukdomsspridning och hot. I sådant fall
 ska Förskola & Grundskola i skälig utsträckning erbjuda barnen alternativa
@@ -3555,7 +3555,7 @@ kommun
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -3736,7 +3736,7 @@ för pedagogisk omsorg.
 
 För att godkännas krävs:
 
--  Den enskilde (ägar- och ledningskretsen) har genom erfarenhet eller på annat sätt
+\-  Den enskilde (ägar- och ledningskretsen) har genom erfarenhet eller på annat sätt
 förvärvat insikt i de föreskrifter som gäller för verksamheten
 
 Det är viktigt att ha god insikt i gällande föreskrifter för att säkerställa att den som
@@ -3748,7 +3748,7 @@ skollagstiftning, ekonomiska regler för organisationsformen samt arbetsmiljö- 
 arbetsrättslagar. Kommunen bedömer kravet på insikt för hela den berörda kretsen,
 vilket innebär att ägare och ledning tillsammans måste ha den nödvändiga
 kunskapen och kompetensen.
--  Den enskilde bedöms ha ekonomiska förutsättningar att följa de föreskrifter som
+\-  Den enskilde bedöms ha ekonomiska förutsättningar att följa de föreskrifter som
 gäller för verksamheten och i övrigt har förutsättningar att följa de föreskrifter som
 gäller för utbildningen.
 
@@ -3759,7 +3759,7 @@ bedömning fokuserar på hur ekonomin påverkar möjligheten att bedriva försko
 enligt föreskrifterna. Därför gör kommunen en helhetsbedömning av huvudmannens
 ekonomiska situation och planering för verksamheten. Om huvudmannen är ett
 bolag som ingår i en koncern, kommer även koncernens ekonomi att granskas.
--  Den enskilde bedöms vara lämplig. Vid lämplighetsprövningen ska viljan och
+\-  Den enskilde bedöms vara lämplig. Vid lämplighetsprövningen ska viljan och
 förmågan att fullgöra sina skyldigheter mot det allmänna, laglydnad i övrigt och
 andra omständigheter av betydelse beaktas.
 
@@ -3787,7 +3787,7 @@ elever kan komma att utsättas för våld, tvång, hot /diskriminering eller kr�
 behandling/ påverkan som syftar till motarbetande av grundläggande fri- och
 rättigheter eller det demokratiska styrelseskicket.
 
--  Vid nyetablering eller utökning av befintlig verksamhet gäller även att utbildningen
+\-  Vid nyetablering eller utökning av befintlig verksamhet gäller även att utbildningen
 inte får innebära påtagliga negativa följder på lång sikt för den del av
 utbildningsverksamheten som anordnas av Kungsbacka kommun.
 
@@ -4433,7 +4433,7 @@ FG Myndighet & Stöds tjänsteskrivelse, 2024-08-07
 
 Beslutet skickas till
 
--
+\-
 
 Stigert Pettersson                      Frida Byrsten
 
@@ -4503,7 +4503,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g
@@ -4731,11 +4731,11 @@ Dnr Aho
 
 Fä dn dnr SSE
 
-Utdrag ur protokoll ($ 318) från förbundsstyrelsens
+Utdrag ur protokoll (\$ 318) från förbundsstyrelsens
 sammanträde måndagen den 11 december 2006,
 Nolhaga slott, Alingsås kommun
 
-$ 318 Förslag till överenskommelse kring skolkort | Dnr: 06-223.719
+\$ 318 Förslag till överenskommelse kring skolkort | Dnr: 06-223.719
 för elever vid Svenska balettskolan boende i |
 Göteborgsregionen
 
@@ -4793,7 +4793,7 @@ Bakgrund
 För närvarande går 3 elever från Kungsbacka vid Svenska balettskolan i Göteborg.
 
 Svenska balettskolans utbildning är en sådan särskild utbildning som regleras i en
-speciell förordning, SFS 1999:250, och som avses i Skollagens 4 kap. 3 och 8 $$.
+speciell förordning, SFS 1999:250, och som avses i Skollagens 4 kap. 3 och 8 \$\$.
 
 Kungsbacka
 
@@ -5066,15 +5066,15 @@ www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Kommun <kommun@kungsbacka.se>
+Från: Kommun \<kommun@kungsbacka.se>
 Skickat: den 30 maj 2024 10:00
-Till: Gymnasium & Arbetsmarknad <gymnasiumocharbetsmarknad@kungsbacka.se>
+Till: Gymnasium & Arbetsmarknad \<gymnasiumocharbetsmarknad@kungsbacka.se>
 Ämne: VB: Expediering av förbundsstyrelsens beslut- Upphävande av beslut om skolkort för elever vid
 Svenska Balettskolan boende i Göteborgsregionens kommuner
 
-Från: therese.tanner@goteborgsregionen.se <therese.tanner@goteborgsregionen.se>
+Från: therese.tanner@goteborgsregionen.se \<therese.tanner@goteborgsregionen.se>
 Skickat: den 30 maj 2024 08:56
-Till: kommun@ale.se; Kommun@Harryda.se; Kommun <kommun@kungsbacka.se>; kommun@lerum.se;
+Till: kommun@ale.se; Kommun@Harryda.se; Kommun \<kommun@kungsbacka.se>; kommun@lerum.se;
 kommun@ockero.se; kommun@stenungsund.se; kommun@tjorn.se; kommunen@lillaedet.se;
 kommunstyrelsen@alingsas.se; kundcenter@partille.se; stad@molndal.se; registrator@kungalv.se;
 stadsledningskontoret@stadshuset.goteborg.se

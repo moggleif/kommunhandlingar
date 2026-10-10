@@ -461,9 +461,9 @@ kunskaper för vidare studier och i samhällsliv, arbetsliv och vardagsliv,
 
 •  kan använda sina kunskaper som redskap för att
 
-- formulera, analysera och pröva antaganden och lösa problem
-- reflektera över sina erfarenheter och sitt eget sätt att lära,
-- kritiskt granska och värdera påståenden och förhållanden, och
+\- formulera, analysera och pröva antaganden och lösa problem
+\- reflektera över sina erfarenheter och sitt eget sätt att lära,
+\- kritiskt granska och värdera påståenden och förhållanden, och
 -lösa praktiska problem och arbetsuppgifter,
 Hur visar resultaten att vi har vi lyckats med:
 •  att ge stöd och stimulans till alla elever så att de utvecklas så långt som möjligt?
@@ -734,7 +734,7 @@ lektionerna, där resultaten har legat stabilt över 70, vilket är ett styrkeom
 frågan om eleverna får den hjälp de behöver för att klara skolarbetet, har resultaten förbättrats från 63 år
 2022 till 64 år 2024.
 Elevernas upplevelse av att skolarbetet är för svårt har sett en liten förbättring, från 46 år 2022 till 48 år
-2024. Det visar att eleverna sällan upplever att skolarbetet är överväldigande svårt.
+2024\. Det visar att eleverna sällan upplever att skolarbetet är överväldigande svårt.
 
 Positiva resultat:
 •  Stöd under lektionerna: Eleverna upplever i stor utsträckning att de får den hjälp de behöver för att
@@ -1083,7 +1083,7 @@ För kritiskt tänkande har resultaten visat en liten positiv utveckling, med en
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning av systematiskt kvalitetsarbete 2023/2024 - Huvudmannarapport
 
-2024. Eleverna upplever att de får öva mer på att diskutera frågor där man kan tycka olika, och lärarnas
+2024\. Eleverna upplever att de får öva mer på att diskutera frågor där man kan tycka olika, och lärarnas
 fokus på källkritik har ökat, från 58 år 2022 till 60 år 2024, vilket visar på en förstärkning av det kritiska
 tänkandet i undervisningen.
 
@@ -2672,7 +2672,7 @@ Mellan 2015 och 2024 har resultaten för frågorna "Jag vet vad som krävs för 
 
 betygen" och "Jag får veta hur det går för mig i skolarbetet" visat både upp- och nedgångar.
 För frågan om vad som krävs för betyg var resultatet 80% år 2015, med en nedgång till 73%
-2016. Efter en långsam återhämtning och vissa svängningar nådde resultatet 90% år 2024,
+2016\. Efter en långsam återhämtning och vissa svängningar nådde resultatet 90% år 2024,
 vilket markerar en tydlig förbättring.
 
 När det gäller återkoppling om skolprestationer började det på 87% år 2015, föll kraftigt till
@@ -3007,11 +3007,11 @@ samt att eleverna ska få kännedom om sina rättigheter. Mer specifikt de nedan
 
 frågorna:
 
-1. Vilken påverkan har förslaget på barnets förutsättningar att utvecklas?
-2. Hur påverkar förslaget barnets fysiska, psykiska, andliga, moraliska, psykologiska och sociala
+1\. Vilken påverkan har förslaget på barnets förutsättningar att utvecklas?
+2\. Hur påverkar förslaget barnets fysiska, psykiska, andliga, moraliska, psykologiska och sociala
 utveckling?
 
-3. Hur påverkar förslaget barn- och ungas möjligheter att klara utbildningen?
+3\. Hur påverkar förslaget barn- och ungas möjligheter att klara utbildningen?
 Elevernas synpunkter
 
 Eleverna gav följande svar på hur de anser att NIU-verksamheten, samt en utökning med NIU
@@ -3140,7 +3140,7 @@ Det ekonomiska biståendet ligger fortsatt lågt.
 
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022. Sista september hade Kungsbacka kommun 134 boende enligt massflyktsdirektivet i kommunens
+2022\. Sista september hade Kungsbacka kommun 134 boende enligt massflyktsdirektivet i kommunens
 boenden.
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
 Beskedet innebär kortfattat att Skatteverket kan börja folkbokföra de ukrainare som varit här med tillfälligt
@@ -3517,8 +3517,8 @@ bedömning av lokalbehov utan detaljerade behovsbeskrivningar.
 Nämnden för Gymnasium & Arbetsmarknad har prioriterat lokalbehoven enligt följande ordning:
 1.Marios Gata
 
-2. Kompetenscentrum
-3. Teknikprogrammet.
+2\. Kompetenscentrum
+3\. Teknikprogrammet.
 
 Behovsbeskrivningar från gymnasieskolan teknikprogram har kompletterats och sammanställts som
 underlag vilket redovisas i bilaga 1a och bilaga 1b.
@@ -4959,7 +4959,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 130 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -4990,12 +4990,12 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -5032,7 +5032,7 @@ nedan.
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om individutskottet har fått
 delegation undertecknas handling som beslutet avser av individutskottets
 ordförande och förvaltningschefen.
@@ -5042,10 +5042,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -5188,7 +5188,7 @@ Kungsbacka kommun             Delegeringsförteckning           7 (24)
 | --- | --- | --- | --- | --- |
 | 2.1.11 | GDPR artikel 30 | Fastställa nämndens register över personuppgiftsbehandlingar. | Dataskydds<br>kontakt |  |
 | 2.1.12 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller flera andra nämnder. | Fc | Fullmakt får ges till tjänsteman som ska vara systemägare<br>för tjänsten eller systemet. |
-| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
+| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
 | 2.1.14 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Beslut att nämnden lämnar inget yttrande föranledd av remiss från annan<br>part | Fc |  |
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
@@ -5765,9 +5765,9 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 kommunen att besluta istället, s.k. vidaredelegering (kommunallagen 6 kap 39 §).
 
 Beslut om delegering ska då ske i två steg;
-1. Nämndens beslut om delegering till förvaltningschef,
+1\. Nämndens beslut om delegering till förvaltningschef,
 
-2. Förvaltningschefens beslut om delegering till tjänsteperson.
+2\. Förvaltningschefens beslut om delegering till tjänsteperson.
 
 Inom nämnden för Gymnasium & Arbetsmarknad ska det enligt beslut av kommunfullmäktige
 finnas ett utskott.
@@ -5823,23 +5823,23 @@ ram för budget och övriga tillämpliga styrdokument.
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap
 38 §:
 
--  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
+\-  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
 övergripande ansvar för verksamheten
 
--  Framställningar eller yttrande till fullmäktige
--  Yttrande med anledning av att fullmäktiges beslut har överklagats
+\-  Framställningar eller yttrande till fullmäktige
+\-  Yttrande med anledning av att fullmäktiges beslut har överklagats
 
--  Yttrande med anledning av att nämndens egna beslut har överklagats
--  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
+\-  Yttrande med anledning av att nämndens egna beslut har överklagats
+\-  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
 beskaffenhet eller annars av större vikt.
 
 <!-- sida 160 -->
 
--  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta
+\-  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta
 är dock inte aktuellt i Kungsbacka eftersom fullmäktige inte beslutat om att tillämpa
 möjligheten till medborgarförslag).
 
--  Ärenden som enlig lag eller annan författning inte får delegeras.
+\-  Ärenden som enlig lag eller annan författning inte får delegeras.
 
 Vem har rätt att företräda nämnden för Gymnasium & Arbetsmarknad och
 Kungsbacka kommun?
@@ -5902,13 +5902,13 @@ Vid förfall för förvaltningschefen inträder den person som är utsedd till f
 ersättare eller ställföreträdare.
 
 Vid förfall för övriga delegater:
-3. annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+3\. annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-4. vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+4\. vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-5. ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+5\. ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -5944,12 +5944,12 @@ Rätt att vidta åtgärder med anledning av beslut
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 handling som beslutet avser.
 
 Att inte utnyttja sin beslutanderätt
@@ -5957,10 +5957,10 @@ Om en tjänsteperson av något skäl inte vill utnyttja sin rätt att fatta besl
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstepersonen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 
 vidaredelegation från förvaltningschefen
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -5972,10 +5972,10 @@ Enligt kommunallagen ska nämnden besluta i vilken utsträckning beslut som har 
 av delegering ska anmälas till nämnden.
 Syftet med anmälan av delegeringsbeslut är att
 
--  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
+\-  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
 genom det datum då beslutet eller det protokoll där anmälan noterats tillkännages. Det
 har alltså betydelse för när beslutet vinner laga kraft.
--  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed
+\-  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed
 ligga som grund för möjlighet till förändringar och utveckling av verksamheten.
 
 Beslut som är fattade av ordförande som brådskande enligt kommunallagen 6 kap 39 §, ska
@@ -6653,7 +6653,7 @@ www.kungsbacka.se
 
 <!-- sida 197 -->
 
-Från:           Per Lindberg <per.lindberg@kungsbacka.se>
+Från:           Per Lindberg \<per.lindberg@kungsbacka.se>
 Skickat:        den 20 november 2024 15:19
 Till:           Maria Lennvik; May-Louise Flyrin; Helena Nyborg; Christina Palmquist; Annika
 Areskog Ronnstedt; Eva Tingström; Lisa Jönsson
@@ -6672,7 +6672,7 @@ Rektor
 Aranäsgymnasiet Enhet 1
 Anpassad gymnasieskola Individuella programmet
 Nationell godkänd idrottsutbildning (NIU)
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Gymnasium & Arbetsmarknad
 0300-83 34 50
@@ -6682,7 +6682,7 @@ www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun
 
 -----Ursprunglig avtalad tid-----
-Från: Maria Lennvik <maria.lennvik@kungsbacka.se>
+Från: Maria Lennvik \<maria.lennvik@kungsbacka.se>
 Skickat: den 24 oktober 2024 13:36
 Till: Maria Lennvik; May-Louise Flyrin; Helena Nyborg; Christina Palmquist; Per Lindberg; Annika Areskog
 Ronnstedt; Eva Tingström; Lisa Jönsson
@@ -6701,7 +6701,7 @@ Maria Lennvik
 
 <!-- sida 198 -->
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Microsoft   Teams
 Behöver du hjälp?
@@ -6716,7 +6716,7 @@ För organisatörer: Mötesalternativ
 För bästa möjliga upplevelse under mötet; använd strömkabel och Teams-certifierad ljud- och
 
 bildutrustning.
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 199 -->
 
@@ -7388,7 +7388,7 @@ Kungsbacka kommun
 
 SAKEN
 Utdömande av vite
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -7821,7 +7821,7 @@ Skäl för vårt beslut
 Alla har rätt till en bra arbetsmiljö. Vi bedömer att det finns brister i er
 arbetsmiljö, som kan leda till att någon blir sjuk eller skadar sig. Vad som
 framkommit av inspektionen har ni tagit del av i ett brev daterat den 8 april
-2022.
+2022\.
 
 Arbetsmiljöverkets bedömning
 
@@ -7918,11 +7918,11 @@ med riskbedömning i lokalfrågan för att kunna åtgärda på kort och lång si
 Skyddsombudet har getts möjlighet att yttra över ert yttrande och skriver
 följande i ett brev till oss daterat den 20 maj 2022:
 
-1. Kvarstår då arbetsgivaren inte tagit någon åtgärd. I dagsläget är det mer akut
+1\. Kvarstår då arbetsgivaren inte tagit någon åtgärd. I dagsläget är det mer akut
 än vid er tillsyn. Skyddstopp har diskuterats. Hot och våld kvarstår. Beställning
 av tillsyn av belysning och ventilation finns för hela Aranäs gymnasiet.
 
-2. Ej anpassade för den omfattande verksamhet som idag bedrivs. Vi har ej fått
+2\. Ej anpassade för den omfattande verksamhet som idag bedrivs. Vi har ej fått
 till oss någon förändring kring detta. Skolgård saknas. Den tilltänkta platsen är
 uppgrävd till viss del och är idag en risk för fallskador hos elever och personal.
 
@@ -7942,10 +7942,10 @@ Meddela oss när ni har uppfyllt kraven
 
 När ni har uppfyllt kraven ska ni meddela oss. Skriv vår beteckning i svaret, se
 längst upp på sidan 1. Vår postadress och e-postadress finns längst ner på sidan
-1. Reglerna om att vi har rätt att få den information som vi behöver för vår
+1\. Reglerna om att vi har rätt att få den information som vi behöver för vår
 tillsyn finns i 7 kap. 3 § arbetsmiljölagen.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 nossreP
 akinnA
 va
@@ -7993,11 +7993,11 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -8075,7 +8075,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -8171,7 +8171,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -8772,9 +8772,9 @@ kunnig personal utgör en viktig del av förvaltningens inbyggda dataskydd.
 onsdag 2024-12-11 15:00
 Utgående mail
 
-Till: RES-Göteborg Tillsyn <dokument.goteborg@skolinspektionen.se>
+Till: RES-Göteborg Tillsyn \<dokument.goteborg@skolinspektionen.se>
 
-Från: info@kungsbacka.se <info@kungsbacka.se>
+Från: info@kungsbacka.se \<info@kungsbacka.se>
 Skickat: 15:00
 
 SV: Beslut från Skolinspektionen [2024KC93847]
@@ -8792,9 +8792,9 @@ Telefon: 0300‐83 40 00
 info@kungsbacka.se
 www.kungsbacka.se/
 
-Från: RES‐Göteborg Tillsyn <dokument.goteborg@skolinspektionen.se>
+Från: RES‐Göteborg Tillsyn \<dokument.goteborg@skolinspektionen.se>
 Skickat: den 11 december 2024 13:04
-Till: Henrik Börjesson <henrik@positivum.se>
+Till: Henrik Börjesson \<henrik@positivum.se>
 Ämne: Beslut från Skolinspektionen
 
 Till huvudman för Aniaragymnasiet, AF Affärseffekt Framtidsskola AB,
@@ -8807,7 +8807,7 @@ Beslutet bifogas.
 Beslutet skickas även till huvudmannen per post.
 
 Enligt uppdrag
-_________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Region Söder
 Skolinspektionen

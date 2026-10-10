@@ -105,7 +105,7 @@ Information om Lindens Park BMSS ...............................................
 
 § 3 Dnr IF-2024-00338
 Svar på motion - Ökat samarbete för barn och elevers hälsa (KS-2024-
-00595) ....................................................................................................... 7
+00595\) ....................................................................................................... 7
 
 § 4 Dnr IF-2025-00007
 Kvalitetsberättelse 2024 ............................................................................ 9
@@ -251,7 +251,7 @@ Datum
 
 § 3                        Dnr IF-2024-00338
 Svar på motion - Ökat samarbete för barn och elevers hälsa (KS-2024-
-00595)
+00595\)
 
 Nämnden för Individ & Familjeomsorgs förslag till kommunfullmäktige
 Kommunfullmäktige anser att motionen är besvarad med hänvisning till att det redan
@@ -555,7 +555,7 @@ utifrån riskanalysen upprätta en internkontrollplan. Resultatet av årets arbe
 sammanställas i en uppföljningsrapport som ska beslutas av nämnden.
 
 Nämnden för Individ & Familjeomsorg antog internkontrollplan 2024 i november
-2023. Planen innehåller 10 prioriterade risker. Av dessa är sex risker
+2023\. Planen innehåller 10 prioriterade risker. Av dessa är sex risker
 kommungemensamma, som tagits fram centralt för varje nämnd att granska. Fyra
 risker togs fram för Individ & Familjeomsorgs specifika verksamhetsområden.
 

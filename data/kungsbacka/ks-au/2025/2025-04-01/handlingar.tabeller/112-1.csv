@@ -1,0 +1,23 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Styrning,,,,
+Processgrupp:,"Tillsyn, revision och granskning",,,,
+Process:,Hantera visselblåsning,,,,
+Processnummer:,1.2.2.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera ärende som
+inkommer till
+kommunen",Underlag,Visselblåsardiarium,Digitalt,2 år,Inkommer från extern mottagningsfunktion.
+,Rapport,Visselblåsardiarium,Digitalt,2 år,Inkommer från extern mottagningsfunktion.
+Handlägga ärende,Underlag,Visselblåsardiarium,Digitalt,2 år,
+,Rapport,Visselblåsardiarium,Digitalt,Bevaras,
+"Överlämna rapport
+till berörd för åtgärd",Korrespondens,Outlook,Digitalt,Se anmärkning.,"Berörd part kan vara extern eller intern part.
+Korrespondens av ringa betydelse gallras vid
+inaktualitet.
+Korrespondens av betydelse gallras efter 2 år."
+"Återkoppla till
+visselblåsare",Korrespondens,Visselblåsardiarium,Digitalt,Bevaras,
+,Tjänsteanteckning,Visselblåsardiarium,Digitalt,Bevaras,
+Redovisa statistik,Statistikrapport,Diarium,Digitalt,Bevaras,"Beslutas av kommunstyrelsen.
+Hanteras enligt process 1.1.2.1 Hantera
+nämndprocess."

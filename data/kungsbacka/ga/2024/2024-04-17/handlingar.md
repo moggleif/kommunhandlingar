@@ -1260,14 +1260,14 @@ Den 11december 2023 inkom Moderaterna, Kristdemokraterna, Center och Liberalerna
 initiativärende Feriejobb. Bakgrunden är att ge så många unga som möjlighet att få ett feriejobb och
 därigenom också visa kommunen som en attraktiv arbetsgivare. I initiativärendet yrkas på följande
 förslag till beslut.
-1. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att skapa en kölista
+1\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att skapa en kölista
 för feriejobben så att vid sena avhopp kan platsen fyllas ändå.
 
-2. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att ta fram arbetssätt
+2\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att ta fram arbetssätt
 för att unga som inte haft feriejobb i årskurs 1 på gymnasiet ska kunna söka feriejobb i årskurs
-2.
+2\.
 
-3. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att erbjuda fler unga
+3\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att erbjuda fler unga
 feriejobb framåt.
 
 Beslutsunderlag
@@ -1437,12 +1437,12 @@ med arkivmyndigheten.
 <!-- sida 38 -->
 
 Innehåll
-3. Verksamhetstyp Näringsliv, arbete och integration ............................................................................................................................................. 2
+3\. Verksamhetstyp Näringsliv, arbete och integration ............................................................................................................................................. 2
 3.0 Verksamhetsområde: Ledning av verksamhetsområde .................................................................................................................................. 2
 
 3.4 Verksamhetsområde: Arbetsmarknad och sysselsättning ............................................................................................................................... 6
 3.5 Verksamhetsområde: Integration .................................................................................................................................................................. 8
-5. Verksamhetstyp: Utbildning ............................................................................................................................................................................. 14
+5\. Verksamhetstyp: Utbildning ............................................................................................................................................................................. 14
 
 5.0 Verksamhetsområde: Ledning-styrning-organisering .................................................................................................................................. 14
 5.1 Verksamhetsområde: Gemensam skolverksamhet ....................................................................................................................................... 18
@@ -1450,7 +1450,7 @@ Innehåll
 5.7 Verksamhetsområde: Gymnasieskola ......................................................................................................................................................... 35
 5.8 Verksamhetsområde: Kommunal vuxenutbildning ...................................................................................................................................... 50
 
-6. Verksamhetstyp: Vård och omsorg ................................................................................................................................................................... 66
+6\. Verksamhetstyp: Vård och omsorg ................................................................................................................................................................... 66
 6.0 Verksamhetsområde: Ledning .................................................................................................................................................................... 66
 
 6.1 Verksamhetsområde: Hantera inrapporterade händelser och anmälningar ................................................................................................... 71
@@ -2012,7 +2012,7 @@ kommun                                                                vuxenutbil
 | Psykologiska insatser | Psykologjournal | Prorenata | Digitalt | Bevaras | För asylsökande, gömda elever eller<br>elever med skyddad identitet sker<br>dokumentation för samtliga handlingar<br>enbart i pappersform, och förvaras i<br>journalskåp i respektive skolas<br>närarkiv. |
 | --- | --- | --- | --- | --- | --- |
 |  | Testmaterial | Akt i dokumentskåp | Papper | Bevaras | Omfattas ofta av<br>instrumentsekretess. |
-|  | Utlåtande, bedömning från psykologiskt<br>test | Prorenata/<br>Akt i dokumentskåp | Digitalt/<br>Papper* | Bevaras | * Om utlåtande, bedömning<br>innehåller delar ur testet ska dessa<br>inte ligga i Prorenata utan endast i<br>pappersjournal. |
+|  | Utlåtande, bedömning från psykologiskt<br>test | Prorenata/<br>Akt i dokumentskåp | Digitalt/<br>Papper\* | Bevaras | \* Om utlåtande, bedömning<br>innehåller delar ur testet ska dessa<br>inte ligga i Prorenata utan endast i<br>pappersjournal. |
 |  | Självskattningsinstrument | Prorenata/<br>Akt i dokumentskåp | Digitalt<br>/<br>Papper | Se anm. | Självskattningsinstrument av<br>betydelse för undersökning,<br>bedömning, beslut, diagnos eller<br>uppföljning bevaras.<br>Självskattningsinstrument etc. av<br>tillfällig eller ringa betydelse gallras<br>vid inaktualitet. |
 |  | Läkarintyg | Prorenata | Digitalt | Bevaras | Pappershandling förvaras i<br>pappersjournal eller gallras 24<br>timmar efter skanning till Prorenata. |
 |  | Pedagogiskt utlåtande, kopia | Akt i dokumentskåp | Papper | Vid inaktualitet | Original bevaras i den pedagogiska<br>verksamheten. |
@@ -5725,7 +5725,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-4. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
+4\. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
 
 ” Yrkeslärarna deltar i nödvändig utbildning för att matcha teknikutvecklingen,
 kompetensbehovet i motorbranschen och den pedagogiska och didaktiska
@@ -5759,7 +5759,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-5. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
+5\. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
 och lokaler.
 
 ” Samverkan i Motorbranschcollege medverkar till att certifierade skolor har
@@ -5904,11 +5904,11 @@ Viggo Eriksson Lundberg, elev Lindälvsgymnasiet
 
 Dagordning:
 
-1. Mötet öppnades
+1\. Mötet öppnades
 
 Lars Plessen öppnade mötet och hälsade alla välkomna.
 
-2. Valav mötesfunktionärer; ordförande, sekreterare och justerare
+2\. Valav mötesfunktionärer; ordförande, sekreterare och justerare
 
 Lars Plessen, ordförande. Camilla Gustafsson väljs till sekreterare och Sabina
 Machon till justerare.
@@ -5917,16 +5917,16 @@ Machon till justerare.
 
 Dagordningen fastställdes.
 
-4. Föregående mötesprotokoll
+4\. Föregående mötesprotokoll
 
 Protokoll från föregående möte är justerat och kan läggas till handlingarna.
 
 <!-- sida 190 -->
 
 KUNGSBACKA KOMMUN
-315)
+315\)
 
-5. APL situationen och lägesstatus
+5\. APL situationen och lägesstatus
 BA-programmet på Aranäs
 
 Ulrika Florén, rektor meddelar att skolan har inriktning trä. Klasserna i årskurs 1
@@ -5951,12 +5951,12 @@ läst utbildningen under cirka ett år. Sabina Machon, utbildningssamordnare på
 Vuxenutbildningen berättar att det finns ingen ny start av Lärande bygg
 inplanerat, diskussion om ny start pågår.
 
-6. Handledarutbildning
+6\. Handledarutbildning
 
 Det är svårt för Lindälv att starta handledarutbildning, Förhoppningsvis kan
 skolan efter jul bjuda in handledare för utbildning på Lindälv.
 
-7. Info bransch och arbetsmarknad
+7\. Info bransch och arbetsmarknad
 
 Magnus, Seko säger att det är få uppsägningar än så länge. Anläggare och
 maskinförare har fullt upp och ser ingen större nedgång, för övrigt ser det hyfsat
@@ -5982,7 +5982,7 @@ målarförbundet för att få in fer tjejer i yrket.
 KUNGSBACKA KOMMUN
 4 (5)
 
-8. Info Politik
+8\. Info Politik
 
 Inom politikern förs ingen specifik diskussion inom området just nu. Sebastian
 Lindberg (V) lyfter diskussionen om matpeng utifrån förra mötets protokoll.
@@ -5990,32 +5990,32 @@ Marie Andersson, rektor Lindälv säger att detta har diskuterats på flera
 utbildningar, det finns behov att höja elevernas matpeng så att de kunna köpa
 lunch under APL. Sebastian tar med sig frågan och återkopplar.
 
-9. Förbättring programråd/arbetsgrupp, förslag förändringar
+9\. Förbättring programråd/arbetsgrupp, förslag förändringar
 
 Från Lindälvsgymnasiet finns önskemål att stärka samarbetet mellan skolorna,
 diskuterar fördelarna med en arbetsgrupp för att komma framåt i samverkan.
 Ulrika Florén, rektor Aranäs tar med sig önskemålet från Lindälv och
 återkommer.
 
-10. Elevernas ord
+10\. Elevernas ord
 
 Eleverna uttrycker att de är nöjda med utbildningen.
 
-11. Övrigt
+11\. Övrigt
 
 Nina Alm Schuschkoff, Maskinentreprenörerna frågar om skolmaterialet som
 användes i skolan. Det material som används kommer från Tya. Nina lyfter att
 Maskinentreprenörerna har tagit fram material som är godkänd av Skolverket som
 används av flera skolor i landet.
 
-12. Nästa programråd
+12\. Nästa programråd
 Våren 2024, Aranäs bjuder in.
 
 Vid nästkommande två programråd är Aranäs sammankallande. Fördel om
 mötesinbjudan skickas ut i god tid så att fler har möjlighet att närvara på mötet.
 Vårens möte planeras till april/maj och höstens möte till november.
 
-13. Mötet avslutades
+13\. Mötet avslutades
 
 Lars Plessen avslutade mötet.
 
@@ -6056,7 +6056,7 @@ i mål nr 9710-23, se bilaga A
 SAKEN
 
 Utdömande av vite
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 KAMMARRÄTTENS    AVGÖRANDE
 
@@ -6067,7 +6067,7 @@ prövning av Arbetsmiljöverkets ansökan om utdömande av vite. Vid denna
 prövning ska förvaltningsrätten utgå från att Kungsbacka kommun har
 delgetts Arbetsmiljöverkets vitesföreläggande daterat den 1 juni 2022.
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 641541
 Postadress   Besöksadress  Telefon      T elefax     Expeditionstid
@@ -6323,7 +6323,7 @@ det sätt som krävs enligt 2 § fjärde stycket viteslagen. Målet ska därför
 åter till förvaltningsrätten för prövning om övriga förutsättningar för
 
 utdömande av vitet är uppfyllda.
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 200 -->
 
@@ -6358,7 +6358,7 @@ Kungsbacka kommun
 
 SAKEN
 Utdömande av vite
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -6478,11 +6478,11 @@ Bilaga 1
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -6560,7 +6560,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6656,7 +6656,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -6708,7 +6708,7 @@ Tiden räknas oftast från den dag som du fick fram.
 del av det skriftliga beslutet.
 Så här gör du
 I vissa fall räknas tiden i stället från beslutets
-1. Skriv kammarrättens namn, målnummer
+1\. Skriv kammarrättens namn, målnummer
 datum. Det gäller om beslutet avkunnades vid
 och beslutsdatum.
 en muntlig förhandling, eller om rätten vid
@@ -6813,9 +6813,9 @@ www.domstol.se
 tisdag 2024-03-26 11:32
 Utgående mail
 
-Till: RCC Syd <rccsyd@skane.se>
+Till: RCC Syd \<rccsyd@skane.se>
 
-Från: info@kungsbacka.se <info@kungsbacka.se>
+Från: info@kungsbacka.se \<info@kungsbacka.se>
 Skickat: 11:32
 
 SV: Till elevhälsa inom kommun: Det första nationella vårdprogrammet för
@@ -6836,7 +6836,7 @@ www.kungsbacka.se/
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka‐kommun/
 
-Från: RCC Syd <rccsyd@skane.se>
+Från: RCC Syd \<rccsyd@skane.se>
 Skickat: den 26 mars 2024 11:18
 Till:
 Ämne: Till elevhälsa inom kommun: Det första nationella vårdprogrammet för
@@ -6898,21 +6898,21 @@ Inköpsrapport
 
 Innehåll
 
-1. Inköpsrapport 2023 .............................................................................................................. 3
+1\. Inköpsrapport 2023 .............................................................................................................. 3
 1.1 Inledning ......................................................................................................................... 3
 Vi tänker hållbart ............................................................................................................. 3
 
 Bäst i Sverige igen, pris ”Högst andel touchless” ............................................................. 3
 Fokus Upphandling ........................................................................................................... 5
 
-2. Strategiskt inköp ................................................................................................................... 5
+2\. Strategiskt inköp ................................................................................................................... 5
 2.1 Kommunikation och dialoger under året ....................................................................... 5
 Kommunikation handlar både om att nå ut och nå in ..................................................... 5
 
 Partnerdialoger och Förvaltningarnas Kontaktperson för Inköp (FKI) ............................. 5
 Digitalisering ..................................................................................................................... 6
 
-3. Taktiskt inköp ....................................................................................................................... 6
+3\. Taktiskt inköp ....................................................................................................................... 6
 3.1 Upphandling ................................................................................................................... 6
 Leverantörsdialog ............................................................................................................. 6
 
@@ -6925,7 +6925,7 @@ Säkerhetsklassade upphandlingar ...............................................
 Svenskt Näringslivs ranking .............................................................................................. 9
 
 NUI .................................................................................................................................... 9
-4. Operativt inköp ................................................................................................................... 10
+4\. Operativt inköp ................................................................................................................... 10
 
 4.1 Införa ............................................................................................................................ 10
 Proceedo ........................................................................................................................ 10
@@ -6950,7 +6950,7 @@ Fakturor .......................................................................
 
 <!-- sida 212 -->
 
-1. Inköpsrapport         2023
+1\. Inköpsrapport         2023
 
 1.1 Inledning
 I rapporten presenterar vi händelser av betydelse och intressanta
@@ -7066,7 +7066,7 @@ hanteras av Inköp går efter tilldelning och avtalstecknande över till Ciceron
 Under 2023 har vi haft fem överprövningar. Vi har vunnit alla i förvaltningsrätten, vilket är ett viktigt
 kvitto på att vi kvalitetssäkrar vårt jobb och att vi har bra kompetens i vår verksamhet.
 
-2. Strategiskt     inköp
+2\. Strategiskt     inköp
 
 2.1 Kommunikation och dialoger under året
 
@@ -7119,7 +7119,7 @@ till exempel ordermatchningar, leveransaviseringen för att kvalitetssäkra proc
 avtalsgrupperna som resulterar i effektivare beställningsflöde som borde ge resultat i mindre
 resursanvändning.
 
-3. Taktiskt     inköp
+3\. Taktiskt     inköp
 
 Taktiskt inköp
 
@@ -7298,7 +7298,7 @@ delaktiga i. Även om vi inte skulle bli tilldelade avtal så
 kommer vi att använda oss av underlaget internt i
 utvecklingssyfte.”
 
-4. Operativt      inköp
+4\. Operativt      inköp
 
 Operativt
 
@@ -7997,13 +7997,13 @@ Den samverkan Kungsbacka kommun har med andra offentliga verksamheter sker i fö
 nämndssamverkan eller kommunalförbund. Under 2023 ingick Kungsbacka bland annat i nedanstående
 samverkan.
 -Göteborgsregionens kommunalförbund (GR)
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
-- Patientnämnd Halland
+\- Patientnämnd Halland
 
-- Nämnden för överförmyndare i samverkan
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Nämnden för överförmyndare i samverkan
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").
@@ -8143,7 +8143,7 @@ Alla nämnderna har genomfört självskattningen i förvaltningsledningarna. Ska
 nivå som föregående år utom frågorna kring kännedom om och resultatet av arbetet med intern kontroll, analys
 av risk för ekonomiska oegentligheter, rutiner för att motverka oegentligheter, kontrollaktiviteter i
 verksamhetens processer, system/rutiner för förslag, synpunkter och klagomål där man skattar lägre 2023 än
-2022. Samtliga dessa områden har fått ökad aktualitet såväl i samhällsdebatten som i kommunen och den
+2022\. Samtliga dessa områden har fått ökad aktualitet såväl i samhällsdebatten som i kommunen och den
 strängare skattningen kan mycket väl vara resultatet av ökad insikt om dessa områden.
 
 Nämndernas självskattning
@@ -8311,7 +8311,7 @@ Revisionsberättelse för år 2023
 
 Vi har granskat räkenskaperna, årsredovisningen och förbundsstyrelsens
 förvaltning i Samordningsförbundet i Halland (organisationsnummer 222000-
-2857) för verksamhetsåret 2023.
+2857\) för verksamhetsåret 2023.
 
 Vårt uppdrag är att pröva om verksamheten sköts på ett ändamålsenligt och från
 ekonomisk synpunkt tillfredställande sätt, om räkenskaperna är rättvisande och
@@ -8730,19 +8730,19 @@ Redovisningen
 
 Verksamhetens intäkter
 
-- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
+\- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
 beslut, fakturering och inbetalning.
 
 Verksamhetens kostnader
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning samt avklipp.
 
 Kassa och bank
--  Substansgranskas mot externa underlag.
+\-  Substansgranskas mot externa underlag.
 Kortfristiga skulder
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning.
 
 Redovisningsprinciper
@@ -8802,19 +8802,19 @@ Finansiella mål
 
 Förbundet finansiella mål är att
 
--  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
+\-  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
 med god ekonomisk hushållning.
 
-- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
+\- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
 tillfälle kan finansiera utbetalningar i enlighet med beslut som tagits om
 finansiering av verksamhet.
 
-- - Förbundet får inte skuldsätta sig.
+\- - Förbundet får inte skuldsätta sig.
 
--  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
+\-  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
 resultat som möjligt.
 
-- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
+\- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
 
 Förbundet bedömer att deras finansiella mål är uppnådda i och med att det egna
 kapitalet minskat från 5 481 tkr till 2 668 tkr. Det egna kapitalet ligger därmed i nivå
@@ -8837,17 +8837,17 @@ Samordningsförbundet Halland fastställde i januari 2023 en verksamhetsplan med
 budget för 2023. I denna plan anges övergripande mål. Dessa har sedan legat till
 grund för förbundets verksamhetsmål:
 
-1. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
+1\. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
 samverkansarbetet.
 
-2. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
+2\. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
 arbetslivsinriktad rehabilitering.
 
-3. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
+3\. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
 jämställda och icke-diskriminerande samt har en tydlig styrning, mätbara
 ekonomiska ramar och kvantitativa mål.
 
-4. Samordningsförbundet vill förankra och etablera goda samverkansformer
+4\. Samordningsförbundet vill förankra och etablera goda samverkansformer
 och verka för att de goda metoder och arbetssätt som utvecklas inom ramen
 för den finansiella samordningen implementeras i ordinarie verksamhet.
 
@@ -8903,12 +8903,12 @@ posten utan anmärkning.
 
 Intern kontroll och styrning
 Vi har granskat delar av förbundets interna kontroll med fokus på
-- rutiner och system för kostnadsbokföring
-- betalningar
-- — attester och attesträtter
--  bokslutsprocessen
+\- rutiner och system för kostnadsbokföring
+\- betalningar
+\- — attester och attesträtter
+\-  bokslutsprocessen
 
-- — ersättning för utfört arbete
+\- — ersättning för utfört arbete
 
 Vi har också läst förbundsordning och styrelseprotokoll för att bedöma om styrelsen
 utövar tillräcklig kontroll och en god styrning av verksamheten samt att
@@ -8951,18 +8951,18 @@ inte var attesterade av både förbundschef och ordförande, utan enbart förbun
 
 2.6 Styrelsens förvaltning
 Vi har granskat styrelsens förvaltning genom
-- — att säkerställa att förbundsordningen följs
-- att verksamhetsplan/ budget finns upprättad
-- att verksamhetsplanen/budgeten omfattar 3 år
-- att styrelsen har varit beslutsför när beslut fattats
-- att beslut finns om beslutade åtgärder och uppföljning därav
-- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
-- att förbundet inte iklätt sig skulder
-- att delegationsordning finns
-- att attestordning finns
-- att sociala avgifter och källskatt redovisats i tid med rätt belopp
+\- — att säkerställa att förbundsordningen följs
+\- att verksamhetsplan/ budget finns upprättad
+\- att verksamhetsplanen/budgeten omfattar 3 år
+\- att styrelsen har varit beslutsför när beslut fattats
+\- att beslut finns om beslutade åtgärder och uppföljning därav
+\- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
+\- att förbundet inte iklätt sig skulder
+\- att delegationsordning finns
+\- att attestordning finns
+\- att sociala avgifter och källskatt redovisats i tid med rätt belopp
 
-- att förbundet har adekvat administrativ förmåga
+\- att förbundet har adekvat administrativ förmåga
 
 Vi har i vår av redovisning och betalning av sociala avgifter och källskatt noterat att
 förbundet har ådragit sig 4 st förseningsavgifter på 625 kr/st, en förseningsavgift på
@@ -9002,7 +9002,7 @@ I den nya redovisningslagen LKBR, föreskrivs att den årsredovisningen ska inne
 en driftsredovisning som en egen del.
 
 Samordningsförbundet Halland har upprättat en driftsredovisning i årsredovisningen för
-2023.
+2023\.
 Rekommendationer
 
 Baserat på ovan redovisade iakttagelser lämnar vi följande rekommendationer till
@@ -9131,7 +9131,7 @@ på varje sida /
 
 Innehållsförteckning sidor
 
-1. FÖRVALTNINGSBERÄTTELSE
+1\. FÖRVALTNINGSBERÄTTELSE
 1.1 Översikt över verksamhetens utveckling
 1.2 Viktiga förhållanden för resultat och ekonomisk ställning
 1.3 Händelser av väsentlig betydelse
@@ -9145,13 +9145,13 @@ CO NOU UY ÅB
 1.7 Balanskravsresultat 13
 1.8 Väsentliga personalförhållanden 13
 1.9 Förväntad utveckling 13
-2. RESULTATRÄKNING 15
-3. BALANSRÄKNING 16
+2\. RESULTATRÄKNING 15
+3\. BALANSRÄKNING 16
 4, KASSAFLÖDESANALYS 17
-5. DRIFTSREDOVISNING 18
-6. NOTER 18
-7. STYRELSENS UNDERSKRIFT 22
-8. REVISORERNAS UNDERSKRIFT 22
+5\. DRIFTSREDOVISNING 18
+6\. NOTER 18
+7\. STYRELSENS UNDERSKRIFT 22
+8\. REVISORERNAS UNDERSKRIFT 22
 
 Signering av justerare
 på varje sida
@@ -9167,7 +9167,7 @@ Sida 3
 Styrelsen för Samordningsförbundet i Halland avger följande årsredovisning för 2023. Den är
 upprättad i svenska kronor.
 
-1. Förvaltningsberättelse
+1\. Förvaltningsberättelse
 
 Organisation
 
@@ -9407,7 +9407,7 @@ rehabiliteringsplatser (2003:1210).
 
 Förbundets leds av en styrelse med fyra ledamöter och åtta ersättare som utses av
 medlemmarna. Löpande under året hålls styrelsemöten. Åtta styrelsemöten har hållits under
-2023.
+2023\.
 
 Ansökningar och utvecklingsarbete som styrelsen ska besluta om föregås av genomgångar
 med berednings- och utvecklingsgruppen som utgörs av cheftjänstemän eller andra
@@ -9694,7 +9694,7 @@ Antal strukturövergripande
 | 13" 5 4 4 3 4
 insatser
 
-> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
+\> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
 I det nya Uppföljning Finsam vill vi i år visa utfall av deltagare även i stukturövergripande
 insatser, se översikt under rubriken Partsgemensamma samverkansytor och lärandemiljöer
 nedan, sida 13.
@@ -9791,11 +9791,11 @@ Balanskravsresultatet beräknas enligt följande:
 
 = Årets resultat enligt resultaträkningen
 
-- Samtliga realisationsvinster
+\- Samtliga realisationsvinster
 
-+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsvinster enligt undantagsmöjlighet
 
-+ Realisationsförluster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 
 -/+ Orealiserade vinster och förluster i värdepapper
 
@@ -9854,7 +9854,7 @@ HH
 
 <!-- sida 275 -->
 
-2. RESULTATRÄKNING
+2\. RESULTATRÄKNING
 RESULTATRÄKNING (kr)
 
 2023 2022
@@ -9877,7 +9877,7 @@ ot
 
 <!-- sida 276 -->
 
-3. BALANSRÄKNING
+3\. BALANSRÄKNING
 
 BALANSRÄKNING (kr)
 Tillgångar
@@ -9921,7 +9921,7 @@ YR
 
 <!-- sida 277 -->
 
-4. KASSAFLÖDESANALYS
+4\. KASSAFLÖDESANALYS
 
 KASSAFLÖDESANALYS (kr) 2023 2022
 Den löpande verksamheten
@@ -9934,7 +9934,7 @@ rörelsekapital
 Kassaflöde från förändring av rörelsekapital ? ?
 a . . on | 1068 184 354 288
 Ökning/minskning kortfristiga fordringar
-- -1 135 218 -1 556 576
+\- -1 135 218 -1 556 576
 Okning/minskning kortfristiga skulder
 -2 867 171 -1 626 261
 Summa Kassaflöde för den löpande verksamheten
@@ -9957,7 +9957,7 @@ J6
 
 <!-- sida 278 -->
 
-5. DRIFTSREDOVISNING
+5\. DRIFTSREDOVISNING
 
 Utfall jan-dec | Aktuell budget | Avvikelse utfall i
 Belopp tkr 2023 jan-dec 2023 — budget Utfall jan-dec 2022
@@ -10202,12 +10202,12 @@ Revision av räkenskaper
 Utifrån en risk- och väsentlighetsanalys har vi bedömt nedanstående delar som
 väsentliga:
 • Verksamhetens intäkter
-- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas
+\- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas
 
 mot beslut, fakturering och inbetalning.
 • Verksamhetens kostnader
-- Kartläggning av posternas innehåll.
-- Stickprovsmässiga urval där vi granskar fakturornas riktighet och att de
+\- Kartläggning av posternas innehåll.
+\- Stickprovsmässiga urval där vi granskar fakturornas riktighet och att de
 blivit attesterade enligt beslutad attestordning samt avklippskontroll
 
 • Kassa och bank
@@ -10216,19 +10216,19 @@ Stäms av mot externa underlag så som engagemangsbesked från banken.
 Kartläggning av posternas innehåll samt avstämning mot adekvata underlag.
 
 Revisorerna har granskat styrelsens förvaltning genom
--  att säkerställa att förbundsordningen följs
--  att verksamhetsplan/ budget finns upprättad
--  att verksamhetsplanen/budgeten omfattar 3 år
--  att styrelsen har varit beslutsför när beslut fattats
+\-  att säkerställa att förbundsordningen följs
+\-  att verksamhetsplan/ budget finns upprättad
+\-  att verksamhetsplanen/budgeten omfattar 3 år
+\-  att styrelsen har varit beslutsför när beslut fattats
 
--  att beslut finns om beslutade åtgärder och uppföljning därav
--  att förbundets ekonomiska utfall följs upp minst till delår respektive helår
--  att förbundet inte iklätt sig skulder
--  att delegationsordning finns
--  att attestordning finns
--  att sociala avgifter och källskatt redovisats i tid med rätt belopp
+\-  att beslut finns om beslutade åtgärder och uppföljning därav
+\-  att förbundets ekonomiska utfall följs upp minst till delår respektive helår
+\-  att förbundet inte iklätt sig skulder
+\-  att delegationsordning finns
+\-  att attestordning finns
+\-  att sociala avgifter och källskatt redovisats i tid med rätt belopp
 
--  att förbundet har adekvat administrativ förmåga
+\-  att förbundet har adekvat administrativ förmåga
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/ea29f5b9-ed5a-4d32-8c36-f2fa2a6d5a4e www.vismasign.com
@@ -10237,15 +10237,15 @@ https://sign.visma.net/sv/document-check/ea29f5b9-ed5a-4d32-8c36-f2fa2a6d5a4e ww
 
 Verksamhetsmål
 Förbundets verksamhetsmål är
-1. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
+1\. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
 samverkansarbetet.
-2. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
+2\. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
 
 arbetslivsinriktad rehabilitering.
-3. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga, jämställda och
+3\. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga, jämställda och
 icke-diskriminerande samt har en tydlig styrning, mätbara ekonomiska ramar och
 kvantitativa mål.
-4. Samordningsförbundet vill förankra och etablera goda samverkansformer och verka
+4\. Samordningsförbundet vill förankra och etablera goda samverkansformer och verka
 för att de goda metoder och arbetssätt som utvecklas inom ramen för den finansiella
 
 samordningen implementeras i ordinarie verksamhet.
@@ -10255,16 +10255,16 @@ redogörelse i årsredovisningen gör vi motsvarande bedömning.
 
 Finansiella mål
 Förbundet finansiella mål är att
--  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel med
+\-  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel med
 god ekonomisk hushållning.
--  Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt tillfälle
+\-  Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt tillfälle
 
 kan finansiera utbetalningar i enlighet med beslut som tagits om finansiering av
 verksamhet.
--  Förbundet får inte skuldsätta sig.
--  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda resultat
+\-  Förbundet får inte skuldsätta sig.
+\-  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda resultat
 som möjligt.
--  Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
+\-  Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
 
 Förbundet bedömer att deras finansiella mål är uppnådda i och med att det egna
 kapitalet minskat från 5 481 tkr till 2 668 tkr. Det egna kapitalet ligger därmed i nivå med
@@ -10300,12 +10300,12 @@ Styrelsen tackade revisorerna och beslutade att lägga årsredovisningen till
 handlingarna.
 
 § 6      Internkontrollsredovisning 2023
-- Lämpligt att man bestämmer hur placeringspolicyn ska följas upp.
-- Alla kvitton, fakturor mm som rör representation är i ordning
-- Attestordning (ordförande har ej tillgång till internsystemet Unit4 – ej
+\- Lämpligt att man bestämmer hur placeringspolicyn ska följas upp.
+\- Alla kvitton, fakturor mm som rör representation är i ordning
+\- Attestordning (ordförande har ej tillgång till internsystemet Unit4 – ej
 dubbelattesterade fakturor över 5 pbb). Ta fram ny rutin för detta 2024.
-- Verksamhetens utlägg, alla underlag finns
-- Förbundschefs utlägg har attesterats av ordförande
+\- Verksamhetens utlägg, alla underlag finns
+\- Förbundschefs utlägg har attesterats av ordförande
 
 Då förbundet inte längre har medel placerade bör styrelsen ha en dialog om detta
 framöver.
@@ -10363,20 +10363,20 @@ styrelsemöte. Om tidigare beslut krävs kan extra styrelsemöte påkallas.
 
 § 8      Rapport från förbundschefen
 
-- Releasepartyt 1 mars
+\- Releasepartyt 1 mars
 Välbesökt med politiker, chefer och verksamhetsutvecklare. Inspirerande innehåll och
 mötesform. Bra med vidgad inriktning till Daglig verksamhet, det ska styrelsen sprida i
 länets kommuner.
-- Medlemssamråd 12 april kl.14.00-16.00
+\- Medlemssamråd 12 april kl.14.00-16.00
 
-- Finsamkonferensen 16 maj
+\- Finsamkonferensen 16 maj
 Eventuellt kan vi ses i en gemensam lokal och ha en ”minikonferens” med storbild.
 Återkommer om detta.
-- Berednings- och utvecklingsgruppen involverad i VP-arbetet 2025
+\- Berednings- och utvecklingsgruppen involverad i VP-arbetet 2025
 Styrelsen ser positivt på detta!
 
 § 9      Övriga frågor
--
+\-
 
 § 10     Uppdrag till förbundschefen
 ▪  Se över placeringspolicy och rutiner att hantera attestordning.
@@ -10461,12 +10461,12 @@ Uppföljningen görs genom skriftliga frågor till förvaltningen. Svaren behöv
 av nämnden inför översändande till oss.
 
 Frågor till förvaltningen för Gymnasium & Arbetsmarknad i uppföljande granskning:
-1. På vilket sätt har förbättringsarbetet som påbörjades 2021 bidragit till att säkerställa
+1\. På vilket sätt har förbättringsarbetet som påbörjades 2021 bidragit till att säkerställa
 att utredning av särskilt stöd och upprättande av åtgärdsprogram sker i enlighet med
 krav i skollagen och Skolverkets allmänna råd för särskilt stöd?
 a. Vilken uppföljning har skett för att säkerställa att verksamheterna arbetar i
 enlighet med skollagen och Skolverkets allmänna råd?
-2. På vilket sätt har förbättringsarbetet bidragit till att säkerställa likvärdighet av
+2\. På vilket sätt har förbättringsarbetet bidragit till att säkerställa likvärdighet av
 utredningarna av åtgärdsprogram?
 a. Har enhetliga mallar tagits fram för utredning av särskilt stöd och
 upprättande av åtgärdsprogram?
@@ -10476,7 +10476,7 @@ upprättande av åtgärdsprogram?
 b. På vilket sätt har mallarna implementerats i verksamheten?
 c. På vilket sätt säkerställer verksamheten att all dokumentation kring utredning
 av särskilt stöd och åtgärdsprogram görs i verksamhetssystemet?
-3. Vad visade den interna granskningen som gjordes i november 2022?
+3\. Vad visade den interna granskningen som gjordes i november 2022?
 
 Vi är tacksamma om ni bifogar eventuella underlag såsom till exempel handlingsplaner,
 uppföljningar och protokollsutdrag där beslut framgår samt mallar och rutiner som stöd
@@ -10659,24 +10659,24 @@ Granskningen påbörjas i februari 2024 och avrapporteras preliminärt vid revis
 sammanträde i mars 2025. Uppföljande granskning avrapporteras preliminärt i juni 2024.
 
 Granskningen består av följande moment med tidsplan inom parentes:
-1.  Fastställande av projektplan (februari 2024)
+1\.  Fastställande av projektplan (februari 2024)
 
-2.  Bokning av nämnddialoger (februari 2024)
-3.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
+2\.  Bokning av nämnddialoger (februari 2024)
+3\.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
 skriftliga frågor (mars-april 2024)
-4.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
+4\.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
 granskningen (mars-april 2024)
 
-5.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
+5\.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
 och faktagranskning av uppföljande granskning (maj-juni 2024)
-6.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
+6\.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
 (maj-juni 2024)
-7.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
+7\.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
 respektive årsredovisning (februari 2025)
 
-8.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
+8\.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
 granskning 2024 (december 2024-mars 2025)
-9.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
+9\.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
 granskning (mars 2025)
 
 Insamling av fakta och iakttagelser samt protokollsgranskning sker löpande under
@@ -10779,7 +10779,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -10830,7 +10830,7 @@ Kungsbacka    kommun
 
 <!-- sida 299 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -10880,7 +10880,7 @@ valnämnden.
 
 <!-- sida 300 -->
 
-2. Redogörelse av granskningsresultat
+2\. Redogörelse av granskningsresultat
 
 På uppdrag av de förtroendevalda revisorerna har EY genomfört en grundläggande
 granskning av styrelse och nämnder i Kungsbacka kommun. Granskningen har genomförts
@@ -11175,11 +11175,11 @@ budgetår. Politikerna i kommunfullmäktige beslutar om direktiv som gäller und
 Direktiv gäller för särskilt, utpekat område där det krävs förändring.
 
 Kommunfullmäktiges mål
-1. En attraktiv kommun att bo, verka och vistas i
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
-4. I Kungsbacka utvecklas vi hela livet ut
-5. Ett medskapande samhälle och en öppen attityd
+1\. En attraktiv kommun att bo, verka och vistas i
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
+4\. I Kungsbacka utvecklas vi hela livet ut
+5\. Ett medskapande samhälle och en öppen attityd
 
 Målstyrning
 Varje nämnd ansvarar för att bidra till att de kommunövergripande målen nås. Eftersom målen
@@ -11399,7 +11399,7 @@ m
 Nämndmål:
 l
 Vi har nöjda och delaktiga brukare/klienter som får rätt insats på rätt nivå
-:
+\:
 Individ & familjeomsorg erbjuder kvinnor och män, flickor och pojkar insatser på lika
 villkor
 Individ och Familjeomsorg är en attraktiv arbetsgivare och har en kompetensförsörjning
@@ -11433,7 +11433,7 @@ m
 å
 Ett medskapande samhälle och öppen attityd
 l
-:
+\:
 Nämndmål:
 Vi ska implementera platsvarumärket utifrån Ett Kungsbacka och med invånare- och
 besöksperspektiv

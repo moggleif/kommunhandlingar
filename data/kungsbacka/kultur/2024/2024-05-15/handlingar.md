@@ -527,11 +527,11 @@ sina egna resurser samt hur de statliga medlen, som fördelas enligt kultursamve
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället
 
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra och relevanta.
@@ -767,15 +767,15 @@ för hållbar tillväxt, Hallands hälso- och sjukvårdsstrategi samt Hallands k
 
 H allands kulturstrategi har tre övergripande kulturpolitiska mål:
 
--  Halland – en dynamisk och modig plats för kultur
--  Halland – en plats där alla kan delta i kulturlivet
--  Halland – en plats där kultur präglar samhället.
+\-  Halland – en dynamisk och modig plats för kultur
+\-  Halland – en plats där alla kan delta i kulturlivet
+\-  Halland – en plats där kultur präglar samhället.
 
 De kulturpolitiska målen är kopplade till varsitt strategiskt utvecklingsområde:
--  Konstnärligt skapande
+\-  Konstnärligt skapande
 
--  Engagerande kulturliv för alla
--  Kultur som samhällskraft
+\-  Engagerande kulturliv för alla
+\-  Kultur som samhällskraft
 
 Kulturstrategin gäller 2025–2032 och konkretiseras i två fyraåriga kulturplaner. Detta är
 den första.
@@ -1010,7 +1010,7 @@ Samverkan mellan politikområden
 Kulturen är en självklar del av samhället. När kulturen samverkar med andra
 politikområden skapas utvecklingskraft som uppfyller mål inom flera områden:
 
--  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
+\-  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
 kulturskapare att försörja sig och en näringslivssatsning som skapar hållbar tillväxt,
 
 15 Centrumbildningarna består just nu av Centrum för dramatik, Centrum för fotografi, Cirkuscentrum, Danscentrum,
@@ -1021,20 +1021,20 @@ Seriefrämjandet, Teatercentrum samt Översättarcentrum.
 
 <!-- sida 30 -->
 
--  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
+\-  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
 för besökare och gäster, och besöksnäringen genererar publik, besökare och
 intäkter åt kulturen,
--  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
+\-  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
 garantera att alla barn får möta kultur och nå målen i läroplanen,
--  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
+\-  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
 tillsammans med samhällsbyggnadsområdet skapa hållbara livsmiljöer med
 människan i centrum.
--  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
+\-  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
 människors hälsa. Kultur är centralt för livskvalitet och folkhälsa och kan bidra till
 
 att främja en god och jämlik hälsa genom ökat välmående och välbefinnande samt
 genom att motverka psykisk ohälsa,
--  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
+\-  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
 Kulturlivet är en motståndskraft i sig. Det är viktigt att så långt det är möjligt
 upprätthålla kulturverksamheterna. Detta gäller såväl kulturarv och bibliotek som
 samtida kultur.
@@ -1585,23 +1585,23 @@ arrangörsföreningar som vill presentera professionell scenkonst.
 Grunduppdrag
 
 Teater Halland
--  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
+\-  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
 nivå,
 
 20
 
 <!-- sida 44 -->
 
--  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
+\-  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
 utveckling av scenkonstproduktionen i Halland,
--  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
+\-  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
 samhällsdiskussioner, bjuda in grupper med skilda erfarenheter och våga
 problematisera det komplicerade samt
--  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
+\-  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
 
 Riksteatern Halland
--  Främja arrangörsutveckling med fokus på professionell scenkonst samt
--  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
+\-  Främja arrangörsutveckling med fokus på professionell scenkonst samt
+\-  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
 stödjande och samordnande insatser.
 
 Utvecklare
@@ -1632,9 +1632,9 @@ infrastrukturen för dans.
 Grunduppdrag
 
 Rum för Dans
--  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
+\-  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
 samproduktion samt
--  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
+\-  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
 
 Rum för Dans har även ett konst- och kulturfrämjande uppdrag. Uppdraget innebär att
 stödja, bevara och utveckla dansområdet samt öka dess tillgänglighet och synlighet för
@@ -1679,7 +1679,7 @@ och nationell nivå.
 Grunduppdrag
 
 Musik Hallandia
--  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
+\-  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
 och samråd med musiklivets olika aktörer – såväl regionalt som nationellt och
 internationellt – ska de producera, främja och stödja musiklivet i Halland.
 
@@ -1750,15 +1750,15 @@ förväntningar.
 Grunduppdrag
 
 Stiftelsen Hallands länsmuseer
--  Producera utställningar och programverksamhet med hög kvalitet och med ett
+\-  Producera utställningar och programverksamhet med hög kvalitet och med ett
 mångsidigt sammansatt utbud,
--  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
+\-  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
 och unga,
--  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
+\-  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
 
--  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
+\-  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
 samhällsutvecklingen samt
--  Hallands resurscentrum för kulturarv.
+\-  Hallands resurscentrum för kulturarv.
 
 Utvecklare
 Region Halland har utvecklare för kulturarvsområdet med ett kulturfrämjande uppdrag.
@@ -1800,9 +1800,9 @@ för Region Halland, kommunerna, företag och det civila samhället.
 Grunduppdrag
 
 Arkiv Halland
--  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
--  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
--  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
+\-  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
+\-  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
+\-  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
 länsmuseer.
 
 25
@@ -1925,9 +1925,9 @@ att förbättra förutsättningarna för filmproduktion i länet.
 Grunduppdrag
 
 Hallands filmresurscentrum, inom Katrinebergs folkhögskola:
--  Låna ut teknik,
--  erbjuda utbildning och nätverksträffar samt
--  erbjuda filmresidens.
+\-  Låna ut teknik,
+\-  erbjuda utbildning och nätverksträffar samt
+\-  erbjuda filmresidens.
 
 Utvecklare
 Region Halland har utvecklare för filmområdet med ett konst- och kulturfrämjande
@@ -1986,29 +1986,29 @@ för konstnärlig gestaltning.
 Grunduppdrag
 
 Hallands Konstmuseum, inom Stiftelsen Hallands Länsmuseer
--  samla, visa och vårda konst,
--  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
--  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
+\-  samla, visa och vårda konst,
+\-  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
+\-  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
 samtiden och ge möjlighet till fördjupad kunskap.
 
 Konst i Halland, inom Stiftelsen Hallands länsmuseer
--  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
+\-  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
 offentlig konst och konstpedagogik,
 
 29
 
 <!-- sida 53 -->
 
--  arrangera residensverksamhet och utbytesprogram med nationella och
+\-  arrangera residensverksamhet och utbytesprogram med nationella och
 internationella utblickar,
--  fortbildning för bild- och formkonstnärer samt
--  bedriva konstpedagogiskt utvecklingsarbete.
+\-  fortbildning för bild- och formkonstnärer samt
+\-  bedriva konstpedagogiskt utvecklingsarbete.
 
 Rian designmuseum
--  Innovativ arena för design med regional, nationell och internationell synlighet,
+\-  Innovativ arena för design med regional, nationell och internationell synlighet,
 
--  centrum för kunskap och bildning om design samt
--  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
+\-  centrum för kunskap och bildning om design samt
+\-  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
 konsumtion.
 
 Utvecklare – bild och form
@@ -2127,12 +2127,12 @@ fördelas jämnt mellan kommunerna utifrån deras förutsättningar.
 Grunduppdrag
 
 Art Inside Out
--  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
+\-  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
 och internationella konstnärer inom olika konstformer med särskilt fokus på
 samtida uttryck,
--  stärka förståelsen för konstens och kulturens roll i samhället,
--  öka tillgängligheten till konst och kultur för invånarna i Halland samt
--  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
+\-  stärka förståelsen för konstens och kulturens roll i samhället,
+\-  öka tillgängligheten till konst och kultur för invånarna i Halland samt
+\-  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
 
 andra kulturinstitutioner och aktörer, både nationellt och internationellt.
 
@@ -2358,68 +2358,68 @@ kulturplan 2025–2028.
 
 Scenkonst
 Teater och cirkus
--  Teater Halland*
--  Riksteatern Halland*
--  Hallands Bildningsförbund – stöd till amatörteaterföreningar
+\-  Teater Halland\*
+\-  Riksteatern Halland\*
+\-  Hallands Bildningsförbund – stöd till amatörteaterföreningar
 
--  Teater Albatross – produktioner
--  Teater Dictat – teaterproduktioner, workshoppar och samtal.
--  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
+\-  Teater Albatross – produktioner
+\-  Teater Dictat – teaterproduktioner, workshoppar och samtal.
+\-  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
 konst och kultur i det offentliga rummet
 
 Musik
--  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
+\-  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
 samt utbildning och konserter med ungdomsensemblen Hallandsfolk
--  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
--  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
+\-  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
+\-  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
 
 Kulturarv
 
--  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum*
--  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
--  Hallands Bildningsförbund – hembygdskonsulent
--  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
+\-  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum\*
+\-  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
+\-  Hallands Bildningsförbund – hembygdskonsulent
+\-  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
 museet och på krigshistoriskt intressanta platser i länet
--  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
--  Varbergs Fästning – kulturmiljö
+\-  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
+\-  Varbergs Fästning – kulturmiljö
 
--  Världsarvet Grimeton Radiostation – kulturmiljö
+\-  Världsarvet Grimeton Radiostation – kulturmiljö
 
 Arkiv
--  Arkiv Halland*
+\-  Arkiv Halland\*
 
 Bild och form
--  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum*
--  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
--  Rian designmuseum*
--  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
+\-  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum\*
+\-  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
+\-  Rian designmuseum\*
+\-  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
 konstarter och publik.
--  Konstliv Halland – arrangera Konstrundan i Halland
+\-  Konstliv Halland – arrangera Konstrundan i Halland
 
--  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
--  Mjellby konstmuseum – arena för surrealistisk konst.
+\-  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
+\-  Mjellby konstmuseum – arena för surrealistisk konst.
 
 38
 
 <!-- sida 62 -->
 
--  Teckningsmuseet i Laholm – arena för teckningskonst.
+\-  Teckningsmuseet i Laholm – arena för teckningskonst.
 
 Film
--  Katrinebergs folkhögskola – resurscentrum för film
--  Southern Sweden Film Commission – filmkommissionsverksamhet
+\-  Katrinebergs folkhögskola – resurscentrum för film
+\-  Southern Sweden Film Commission – filmkommissionsverksamhet
 
 Slöjd
--  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
+\-  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
 
 Distriktsorganisationer
--  Barn- och ungdomsorganisationer,
--  funktionshinderorganisationer,
+\-  Barn- och ungdomsorganisationer,
+\-  funktionshinderorganisationer,
 
--  idrottsorganisationer,
--  nykterhetsorganisationer,
--  pensionärsorganisationer och
--  studieförbund.
+\-  idrottsorganisationer,
+\-  nykterhetsorganisationer,
+\-  pensionärsorganisationer och
+\-  studieförbund.
 o  Arbetarnas Bildningsförbund (ABF),
 o  Studieförbundet Bilda,
 o  Folkuniversitetet,
@@ -2430,9 +2430,9 @@ o  Sensus studieförbund,
 o  Studiefrämjandet,
 o  Studieförbundet Vuxenskolan och
 o  RF-SISU Halland.
--  Samt Hallands Bildningsförbund.
+\-  Samt Hallands Bildningsförbund.
 
-* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
+\* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
 
 39
 
@@ -2582,11 +2582,11 @@ Kulturpolitiska mål finns på flera nivåer. De regionala kulturpolitiska måle
 nationella målen. Kulturpolitiken är komplex och spänner över olika områden och
 perspektiv:
 
--  Konsten – genom att möjliggöra konstnärligt skapande – att en yrkesverksam
+\-  Konsten – genom att möjliggöra konstnärligt skapande – att en yrkesverksam
 kulturskapare har förutsättningar att skapa ett verk.
--  Människan – genom varje enskild individs rätt att möta kultur genom att själv ta
+\-  Människan – genom varje enskild individs rätt att möta kultur genom att själv ta
 del av och utöva kultur.
--  Samhället – där kulturpolitiken samverkar med andra politikområden för att skapa
+\-  Samhället – där kulturpolitiken samverkar med andra politikområden för att skapa
 ett gott samhälle.
 
 11 Den 25 september 2015 antog FN:s medlemsländer Agenda 2030, en universell agenda för hållbar utveckling som
@@ -2611,37 +2611,37 @@ utsträckning.
 Regionala kulturpolitiska mål
 
 Hallands regionala mål handlar om konsten, människan och samhället:
--  Halland – en dynamisk och modig plats för kultur
--  Halland – en plats där alla kan delta i kulturlivet
+\-  Halland – en dynamisk och modig plats för kultur
+\-  Halland – en plats där alla kan delta i kulturlivet
 
--  Halland – en plats där kultur präglar samhället
+\-  Halland – en plats där kultur präglar samhället
 De kulturpolitiska målen är kopplade till varsitt strategiskt utvecklingsområde:
 
--  Ett fritt konst- och kulturliv
--  Engagerande kulturliv för alla
--  Kultur som samhällskraft
+\-  Ett fritt konst- och kulturliv
+\-  Engagerande kulturliv för alla
+\-  Kultur som samhällskraft
 
 Nationella kulturpolitiska mål
 På nationell nivå har riksdagen enats om att
 
--  Kulturen ska vara en dynamisk, utmanande och obunden kraft med yttrandefriheten som grund.
--  Alla ska ha möjlighet att delta i kulturlivet.
--  Kreativitet, mångfald och konstnärlig kvalitet ska prägla samhällets utveckling.
+\-  Kulturen ska vara en dynamisk, utmanande och obunden kraft med yttrandefriheten som grund.
+\-  Alla ska ha möjlighet att delta i kulturlivet.
+\-  Kreativitet, mångfald och konstnärlig kvalitet ska prägla samhällets utveckling.
 
 För att uppnå målen ska kulturpolitiken:
 
--  främja allas möjlighet till kulturupplevelser, bildning och till att utveckla sina skapande
+\-  främja allas möjlighet till kulturupplevelser, bildning och till att utveckla sina skapande
 förmågor,
 
--  främja kvalitet och konstnärlig förnyelse,
--  främja ett levande kulturarv som bevaras, används och utvecklas,
+\-  främja kvalitet och konstnärlig förnyelse,
+\-  främja ett levande kulturarv som bevaras, används och utvecklas,
 
 4
 
 <!-- sida 70 -->
 
--  främja internationellt och interkulturellt utbyte och samverkan,
--  särskilt uppmärksamma barns och ungas rätt till kultur.
+\-  främja internationellt och interkulturellt utbyte och samverkan,
+\-  särskilt uppmärksamma barns och ungas rätt till kultur.
 
 Hallands regionala kulturpolitiska mål bidrar till samtliga nationella kulturpolitiska mål. Det
 
@@ -2720,8 +2720,8 @@ utan en aktiv, innovativ aktör i dess utveckling.
 
 Prioriteringar inom området:
 
--  Konstnärligt skapande med yttrandefriheten som grund
--  Halland i världen och världen i Halland
+\-  Konstnärligt skapande med yttrandefriheten som grund
+\-  Halland i världen och världen i Halland
 
 Därför är området strategiskt viktigt
 Ett fritt obundet kulturliv är en nödvändig beståndsdel i ett demokratiskt samhälle.
@@ -2745,14 +2745,14 @@ Prioritering:
 Konstnärligt skapande med yttrandefriheten som grund
 
 N uläge och utmaningar för prioriteringen:
--  Yrkesverksamma kulturskapare har påtagligt lägre inkomster än andra med
+\-  Yrkesverksamma kulturskapare har påtagligt lägre inkomster än andra med
 motsvarande utbildningsnivå,
--  yrkesverksamma kulturskapare, men även andra i kultursektorn som exempelvis
+\-  yrkesverksamma kulturskapare, men även andra i kultursektorn som exempelvis
 bibliotekarier, utsätts för hat, hot och trakasserier,
 
--  utvecklingen av artificiell intelligens utmanar yrkesverksamma kulturskapares
+\-  utvecklingen av artificiell intelligens utmanar yrkesverksamma kulturskapares
 upphovsrätt,
--  demokratin är på tillbakagång globalt och yttrandefriheten är under debatt.2
+\-  demokratin är på tillbakagång globalt och yttrandefriheten är under debatt.2
 
 Det offentliga samtalet har en viktig funktion i demokratin. Att värdera, tolka och diskutera
 konst i offentligheten innebär att konsten blir föremål för samhällelig diskussion, reflektion
@@ -2781,10 +2781,10 @@ Prioritering:
 Halland i världen och världen i Halland
 
 N uläge och utmaningar för prioriteringen:
--  Internationellt samarbete och utbyte stärker den konstnärliga utvecklingen och
+\-  Internationellt samarbete och utbyte stärker den konstnärliga utvecklingen och
 skapar mångfald och kvalitet i kulturutbudet,
--  Halland behöver ta större plats på den internationella kulturarenan,
--  en mångfald bland kulturskaparna innebär att fler röster får höras i det offentliga
+\-  Halland behöver ta större plats på den internationella kulturarenan,
+\-  en mångfald bland kulturskaparna innebär att fler röster får höras i det offentliga
 
 samtalet vilket är positivt för såväl kulturen som demokratin.
 
@@ -2822,8 +2822,8 @@ sammanhållning och tillit.
 
 Prioriteringar inom området
 
--  Kultur av, med och för barn och unga
--  Breddat och inkluderande deltagande
+\-  Kultur av, med och för barn och unga
+\-  Breddat och inkluderande deltagande
 
 Därför är området strategiskt viktigt
 Kultur svarar mot grundläggande behov hos människor att förstå sig själva,
@@ -2851,10 +2851,10 @@ Prioritering:
 Kultur av, med och för barn och unga
 
 Nuläge och utmaningar för prioriteringen
--  Barn och unga tar inte del av och utövar kultur på ett likvärdigt sätt i Halland,
--  barn och unga har olika intressen och livsvillkor beroende på exempelvis
+\-  Barn och unga tar inte del av och utövar kultur på ett likvärdigt sätt i Halland,
+\-  barn och unga har olika intressen och livsvillkor beroende på exempelvis
 socioekonomiska faktorer och geografisk hemvist,
--  den psykiska ohälsan ökar bland unga.3
+\-  den psykiska ohälsan ökar bland unga.3
 
 Alla barn och unga i Halland har rätt till ett rikt kulturliv med möjlighet till upplevelser och
 eget skapande. Kultur ska vara en självklar del av barns och ungas vardag, såväl i skolan
@@ -2881,10 +2881,10 @@ Prioritering:
 Breddat och inkluderande deltagande
 
 N uläge och utmaningar för prioriteringen:
--  Människor tar del av och utövar kultur i olika utsträckning beroende på olika
+\-  Människor tar del av och utövar kultur i olika utsträckning beroende på olika
 faktorer och förutsättningar,4
--  det finns en ökad ojämlikhet i samhället och skillnader i tillit,
--  demografiska förändringar i samhället gör att Halland får allt fler äldre invånare.
+\-  det finns en ökad ojämlikhet i samhället och skillnader i tillit,
+\-  demografiska förändringar i samhället gör att Halland får allt fler äldre invånare.
 
 Kultur ska finnas i vardagen där människor lever. Det behöver finnas större variation på
 kulturupplevelser som speglar fler målgruppers erfarenheter och bakgrund. Region Halland
@@ -2922,8 +2922,8 @@ förstå de sammanhang och människor som skapat dagens Halland.
 
 Prioriteringar inom området
 
--  Kulturdriven samhällsutveckling
--  Hallands händelserika historia
+\-  Kulturdriven samhällsutveckling
+\-  Hallands händelserika historia
 
 Därför är området strategiskt viktigt
 Kultur behövs för att ge Halland förutsättningar att vara den bästa livsplatsen.
@@ -2948,12 +2948,12 @@ Prioritering:
 Kulturdriven samhällsutveckling
 
 N uläge och utmaningar för prioriteringen:
--  Halland växer och nya områden exploateras för bostads- och samhällsbyggnation,
--  den psykiska ohälsan ökar,5
--  personer med sämre hälsa tar del av och utövar konst och kultur i lägre
+\-  Halland växer och nya områden exploateras för bostads- och samhällsbyggnation,
+\-  den psykiska ohälsan ökar,5
+\-  personer med sämre hälsa tar del av och utövar konst och kultur i lägre
 
 utsträckning än personer med bättre hälsa,6
--  näringslivets företagsfrämjande system är inte anpassade efter de kulturella och
+\-  näringslivets företagsfrämjande system är inte anpassade efter de kulturella och
 kreativa branschernas förutsättningar.7
 
 Kulturområdet behöver fördjupa samverkan med andra politikområden för att förverkliga
@@ -2996,10 +2996,10 @@ Prioritering:
 Hallands händelserika historia
 
 N uläge och utmaningar för prioriteringen:
--  Halland har en rik och komplex historia,
--  det finns stort intresse och efterfrågan av mer kunskap kring historien och
+\-  Halland har en rik och komplex historia,
+\-  det finns stort intresse och efterfrågan av mer kunskap kring historien och
 historiska platser,
--  forskningen om Hallands historia behöver samordnas och bättre nå ut till
+\-  forskningen om Hallands historia behöver samordnas och bättre nå ut till
 
 invånarna.
 
@@ -3031,7 +3031,7 @@ den         följs         upp
 
 Hur Hallands kulturstrategi tagits fram
 Hallands kulturstrategi 2025–2032 har tagits fram parallellt med Hallands kulturplan 2025–
-2028. Arbetet har varit en gemensam process där över 400 personer från kommuner,
+2028\. Arbetet har varit en gemensam process där över 400 personer från kommuner,
 yrkesverksamma kulturskapare, det civila samhället och ungdomar bidragit med värdefulla
 insikter och åsikter. Tack till var och en för era bidrag till skapandet av denna strategi!
 
@@ -3115,7 +3115,7 @@ remisser-och-skriva-fram-yttranden
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret

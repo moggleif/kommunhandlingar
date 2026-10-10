@@ -243,10 +243,10 @@ anslutning till både Frillesås fotbollsanläggning samt Borekulla ridanläggni
 
 Nämnden för Service ställer sig positiv till planförslaget med två tillägg.
 
-1. Dagvattenhanteringen i direkt anslutning till fotbollsplanerna måste
+1\. Dagvattenhanteringen i direkt anslutning till fotbollsplanerna måste
 säkerställa säkerhet för verksamheten och dess drift.
 
-2. Lokalgatan i direkt anslutning till ridanläggningen måste säkerställa säkerhet
+2\. Lokalgatan i direkt anslutning till ridanläggningen måste säkerställa säkerhet
 för verksamheten och dess drift.
 
 Beslutsunderlag
@@ -431,10 +431,10 @@ Följande beslut är fattade enligt nämnden för Service delegeringsförtecknin
 Diarienr.        Beslut enligt nämnden för Service Delegeringsförteckning,
 beslutsfattare samt beslutsdatum.
 
--                2.3.6 Avsluta anställning enligt särskild överenskommelse.
+\-                2.3.6 Avsluta anställning enligt särskild överenskommelse.
 Julia Tryggvadottir Tollesson
 2026-06-16
--                2.3.6 Avsluta anställning enligt särskild överenskommelse.
+\-                2.3.6 Avsluta anställning enligt särskild överenskommelse.
 
 Julia Tryggvadottir Tollesson
 2026-06-22
@@ -648,15 +648,15 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och biträdande förvaltningschef
 Johan Burman informerar om,
 
--  Planerade presidie- och partnerdialoger under hösten 2026.
--  Förvaltningen för Service verksamhet under sommaren 2026.
+\-  Planerade presidie- och partnerdialoger under hösten 2026.
+\-  Förvaltningen för Service verksamhet under sommaren 2026.
 
--  Gothia Cup.
--  Anmäld incident till Arbetsmiljöverket i en av Förskola & Grundskolas
+\-  Gothia Cup.
+\-  Anmäld incident till Arbetsmiljöverket i en av Förskola & Grundskolas
 lokaler.
 
--  Måltidsverksamheten vid Kolla vård-och omsorgsboende.
--  Klinnekärrs förskola.
+\-  Måltidsverksamheten vid Kolla vård-och omsorgsboende.
+\-  Klinnekärrs förskola.
 
 Beslutsgång
 Ordförande Fredrik Hansson (C) prövar om nämnden för Service kan notera

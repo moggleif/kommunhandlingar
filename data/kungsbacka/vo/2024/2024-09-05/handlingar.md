@@ -119,11 +119,11 @@ Nämnden       för  Vård   & Omsorg
 
 Innehållsförteckning
 
-1. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
+1\. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
 
-2. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
+2\. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
 
-3. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
+3\. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
 
 3.1 BISTÅND OCH HANDLÄGGNING ENLIGT SOCIALTJÄNSTLAGEN ........................................................................................................................ 4
 3.2 BOSTADSANPASSNINGSBIDRAG ............................................................................................................................................................. 5
@@ -132,10 +132,10 @@ Innehållsförteckning
 
 3.5 TILLSYN, YTTRANDEN OCH ANMÄLNINGAR I VERKSAMHET ............................................................................................................................ 7
 
-4. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
-5. PERSONAL ........................................................................................................................................................................... 12
+4\. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
+5\. PERSONAL ........................................................................................................................................................................... 12
 
-6. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
+6\. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
 
 BILAGA 1 - FÖRORDNANDEN ................................................................................................................................................... 17
 
@@ -145,7 +145,7 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 till exempel brutit mot reglerna om jäv, korruption eller begått
-1. Allmänt   om  delegering
+1\. Allmänt   om  delegering
 någon form av tjänstefel.
 Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
 som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
@@ -186,7 +186,7 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
+2\. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
 stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
 delegering
 som delegerats direkt till denne. Sådan vidaredelegation ska
@@ -227,7 +227,7 @@ Som verksamhetschef i delegeringsförteckningen räknas också
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-3. Myndighetsutövning       och   handläggning
+3\. Myndighetsutövning       och   handläggning
 
 3.1 Bistånd och handläggning enligt socialtjänstlagen
 
@@ -370,7 +370,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-4. Ekonomi,    upphandling     och  avtal
+4\. Ekonomi,    upphandling     och  avtal
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
@@ -412,7 +412,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-5. Personal
+5\. Personal
 
 Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fram en förteckning över vad som anses vara verkställighet inom personalområdet.
 
@@ -451,7 +451,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-6. Administrativa     ärenden
+6\. Administrativa     ärenden
 
 14 (18)
 
@@ -562,16 +562,16 @@ Detta innebär att bilaga 1 och bilaga 2 till Vägledning gällande stöd enligt
 (2001:453) behöver korrigeras och ny version behöver beslutas.
 Det som testats är att gruppera detaljerade insatser till mer vida/övergripande insatser med syftet att:
 
--  minska administration för koordinatorer genom effektiviserar insatsplaneringen
--  främja användandet av genomförandeplanen då ”vidare” insatsnamn kräver att personal läser
+\-  minska administration för koordinatorer genom effektiviserar insatsplaneringen
+\-  främja användandet av genomförandeplanen då ”vidare” insatsnamn kräver att personal läser
 planen i stället för att utläsa utförandet i själva insatsnamnet
 
--  öka möjlighet till att vara en datadriven organisation (förutsättning för AI m.m)
--  öka enhetlighet mellan insatsnamn som används av hemtjänst dag och natt, allt är hemtjänst.
+\-  öka möjlighet till att vara en datadriven organisation (förutsättning för AI m.m)
+\-  öka enhetlighet mellan insatsnamn som används av hemtjänst dag och natt, allt är hemtjänst.
 
--  öka möjlighet att ta ut mer detaljerad statistik över vad som planeras och utförs på natten
+\-  öka möjlighet att ta ut mer detaljerad statistik över vad som planeras och utförs på natten
 
--  förtydliga att det är digitalt först som är norm även i insatsnamnen och när de ska användas
+\-  förtydliga att det är digitalt först som är norm även i insatsnamnen och när de ska användas
 
 En ytterligare anledning till denna förändring av insatsnamn är att det i intervjuer med undersköterskor
 inom hemtjänsten i Medarbetarpatrullen, framkom en önskan av mer ”vida” insatsnamn, för att främja
@@ -757,13 +757,13 @@ Kategorier av stöd inom förvaltningen
 Flera förvaltningar i kommunen hanterar ärenden enligt Socialtjänstlagen men inom Vård & Omsorg
 hanteras ansökningar om:
 
--  Hemtjänst
--  Trygghetslarm
--  Dagomsorg
--  Kontaktperson
--  Korttidsplats
--  Växelvård
--  Särskilt boende
+\-  Hemtjänst
+\-  Trygghetslarm
+\-  Dagomsorg
+\-  Kontaktperson
+\-  Korttidsplats
+\-  Växelvård
+\-  Särskilt boende
 
 3 Socialtjänstlag (2001:453) | Sveriges riksdag (riksdagen.se)
 4 Handläggning av ärenden om hemtjänstinsatser av servicekaraktär - meddelandeblad (socialstyrelsen.se)

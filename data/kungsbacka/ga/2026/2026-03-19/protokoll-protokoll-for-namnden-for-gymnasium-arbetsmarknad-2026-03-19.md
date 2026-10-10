@@ -260,7 +260,7 @@ Nämnden för Gymnasium & Arbetsmarknad informeras om planerat utbud vid Elof
 Lindälvs gymnasium samt Aranäsgymnasiet för läsåren 2027–2028.
 
 Sammanfattning
-1. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
+1\. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
 
 • Ekonomiprogrammet: 160 platser
 • El- och energiprogrammet: 60 platser. Utökning med 12 platser.
@@ -271,7 +271,7 @@ Sammanfattning
 • Fordons- och transportprogrammet: 44 platser
 • Teknikprogrammet: 96 platser. Utökning med 32 platser
 
-2. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
+2\. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
 
 • Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form,
 teater).
@@ -285,7 +285,7 @@ teater).
 • Vård- och omsorgsprogrammet: 26 platser
 • Samhällsvetenskapsprogrammet: 192 platser
 
-3. Utbudsplanering inför läsåret 2027–2028-NIU:
+3\. Utbudsplanering inför läsåret 2027–2028-NIU:
 Basket: 6 platser i ÅK1
 
 Fotboll: 14 i ÅK1. Minskar från 16 platser till 14 platser.
@@ -336,15 +336,15 @@ Annika Areskog Ronnstedt och Eva Tingström, arbetslagsledare på AGY presentera
 för nämnden tre projekt som har genomförts eller genomförs inom Anpassad
 Gymnasieskola.
 
-- All Inclusive
+\- All Inclusive
 En arbetsmarknad där olikheter berikar och där alla har en plats. Syftet är att locka
 fler företag att erbjuda APL till elever från anpassade gymnasieskola.
 
-- MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)
+\- MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)
 5 årigt projekt med fokus på det demokratiska beslutsprocesser i samhället och
 arbetslivet.
 
-- Alla röster tillsammans
+\- Alla röster tillsammans
 3 årigt projekt tillsammans med Borås stad, Föreningen Youth 2030 Movement och
 
 FUB som finansieras av den allmänna Arvsfonden. Målet att stärka ungdomar med
@@ -735,13 +735,13 @@ Sammanfattning av ärendet
 
 Patrik Hellberg, förvaltningschef föredrar ärendet.
 
-1. Facelift Lindälv
-- Efter dialog med Serviceförvaltningen, som äger lokalerna, har man kommit
+1\. Facelift Lindälv
+\- Efter dialog med Serviceförvaltningen, som äger lokalerna, har man kommit
 överens om att alla skåp på Elof Lindälvs gymnasium ska målas. Kommer bli ett
 stort lyft för uppfräschning av lokalerna.
 
-2. Status rekrytering av verksamhetschef på Kompetenscentrum
-- Frida Svärd har fått tjänsten verksamhetschef på Kompetenscentrum. Det känns
+2\. Status rekrytering av verksamhetschef på Kompetenscentrum
+\- Frida Svärd har fått tjänsten verksamhetschef på Kompetenscentrum. Det känns
 roligt att kunna rekrytera internt, och visar på hur kunniga och kompetenta
 medarbetare vi har på GA.
 

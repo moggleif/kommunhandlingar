@@ -154,7 +154,7 @@ KUNGSBACKA  KOMMUN
 
 9(10)
 
-26. ÖLMANÄS 8:28 -        BN-2023-  Förslag till beslut i byggnadsnämnden 5 min
+26\. ÖLMANÄS 8:28 -        BN-2023-  Förslag till beslut i byggnadsnämnden 5 min
 Strandskyddsdispens för 002060  Byggnadsnämnden beviljar
 tillbyggnad av kiosk, altan samt strandskyddsdispens för tillbyggnad av
 staket                          kiosk samt altan.

@@ -68,7 +68,7 @@ KUNGSBACKA  KOMMUN
 
 3 (9)
 
-2.  Kommunbudget 2025, plan 2023-00686 Förslag till beslut i kommunfullmäktige
+2\.  Kommunbudget 2025, plan 2023-00686 Förslag till beslut i kommunfullmäktige
 2026–2027                      Kommunfullmäktige fastställer Kommunbudget 2025,
 plan 2026–2027, daterad 2023-05-10, nedan kallad
 13.00–13.25                    budgetdokumentet.
@@ -231,18 +231,18 @@ Framtidens avloppsrening, FAR, samt ger nämnden för Teknik i uppdrag att
 genomföra projektet.
 
 Kommunfullmäktige utser nämnden för Teknik till ansvarig för
-- att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt
+\- att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt
 Förslag till projektbeskrivning Framtidens avloppsrening 2024-04-05 med
 utredningsunderlag, med rätt för nämnden för Teknik att genomföra nödvändiga
 
 anpassningar av projektet som inte är av principiell beskaffenhet eller annars av
 större vikt,
-- projektbudget för Framtidens avloppsrening, FAR, enligt beslutad
+\- projektbudget för Framtidens avloppsrening, FAR, enligt beslutad
 investeringsbudget och kommunens ekonomistyrprinciper för investeringar,
 
-- att genomföra fas 1 av projektet, projektering av systemhandling och andra
+\- att genomföra fas 1 av projektet, projektering av systemhandling och andra
 utredningar som krävs för att komma fram till en riktkostnad inför Fas 2 samt
-- att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av
+\- att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av
 projektet om riktkostnaden överensstämmer med beslutad investeringsbudget och
 
 de ekonomiska ramar som anges i Förslag till projektbeskrivning Framtidens
@@ -266,7 +266,7 @@ Nämnden för Teknik redogör i beslut och underlag för behovet av ombyggnad av
 Hammargårds avloppsreningsverk i Kungsbacka. Behoven bygger i huvudsak på
 
 följande faktorer:
-- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har
+\- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har
 därefter byggts om vid olika tillfällen och är i stort behov av modernisering.
 
 Det här dokumentet är digitalt signerat
@@ -280,17 +280,17 @@ Kommunstyrelsens arbetsutskott
 Datum
 2024-05-14
 
-- Kungsbackafjordens ekologiska status behöver förbättras för att
+\- Kungsbackafjordens ekologiska status behöver förbättras för att
 miljökvalitetsnormerna för vatten ska kunna uppnås.
-- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket
+\- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket
 avloppsvatten som får tas emot och behandlas. Dessutom behöver
 avloppsreningsverkets totala kapacitet ökas för att möjliggöra framtida
 
 befolkningstillväxt.
-- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att
+\- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att
 100 % av energianvändningen till 2045 måste produceras på anläggningen.
 
-- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att
+\- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att
 avloppsvatten fortsatt får släppas till Kungsbackaån. Miljötillståndet har mycket
 stränga utsläppskrav. Dessa krav är ”skall”-krav som styr design och
 processutformning.
@@ -363,17 +363,17 @@ avloppsrening, FAR, vid Hammargårds avloppsreningsverk och projekt Framtidens a
 FAR, samt ger nämnden för Teknik i uppdrag att genomföra projektet.
 Kommunfullmäktige utser nämnden för Teknik till ansvarig för
 
--  att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt Förslag till
+\-  att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt Förslag till
 projektbeskrivning Framtidens avloppsrening 2024-04-05 med utredningsunderlag, med rätt
 för nämnden för Teknik att genomföra nödvändiga anpassningar av projektet som inte är av
 principiell beskaffenhet eller annars av större vikt,
--  projektbudget för Framtidens avloppsrening, FAR, enligt beslutad investeringsbudget och
+\-  projektbudget för Framtidens avloppsrening, FAR, enligt beslutad investeringsbudget och
 
 kommunens ekonomistyrprinciper för investeringar,
--  att genomföra fas 1 av projektet, projektering av systemhandling och andra utredningar som
+\-  att genomföra fas 1 av projektet, projektering av systemhandling och andra utredningar som
 krävs för att komma fram till en riktkostnad inför Fas 2 samt
 
--  att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av projektet om
+\-  att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av projektet om
 riktkostnaden överensstämmer med beslutad investeringsbudget och de ekonomiska ramar som
 anges i Förslag till projektbeskrivning Framtidens avloppsrening 2024-04-05.
 
@@ -407,19 +407,19 @@ KUNGSBACKA  KOMMUN
 Nämnden för Teknik redogör i beslut och underlag för behovet av ombyggnad av Hammargårds
 
 avloppsreningsverk i Kungsbacka. Behoven bygger i huvudsak på följande faktorer:
-- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har därefter byggts om
+\- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har därefter byggts om
 vid olika tillfällen och är i stort behov av modernisering.
 
-- Kungsbackafjordens ekologiska status behöver förbättras för att miljökvalitetsnormerna för vatten
+\- Kungsbackafjordens ekologiska status behöver förbättras för att miljökvalitetsnormerna för vatten
 ska kunna uppnås.
-- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket avloppsvatten som
+\- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket avloppsvatten som
 får tas emot och behandlas. Dessutom behöver avloppsreningsverkets totala kapacitet ökas för att
 möjliggöra framtida befolkningstillväxt.
 
-- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att 100 % av
+\- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att 100 % av
 energianvändningen till 2045 måste produceras på anläggningen.
 
-- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att avloppsvatten fortsatt får
+\- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att avloppsvatten fortsatt får
 släppas till Kungsbackaån. Miljötillståndet har mycket stränga utsläppskrav. Dessa krav är ”skall”-
 krav som styr design och processutformning.
 
@@ -2128,8 +2128,8 @@ slambehandlingsalternativen kombinerade med AGS.
 Tabell 5 Resultat från energibalans samt utvärdering (poängsättning) av de fem slambehandlingsalternativen kombinerade
 med AGS. AGS + alt 0 är inget reellt alternativ utan är med för referens.
 
-* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
-** Antagen kvalitetsfaktor på fjärrvärme 30%.
+\* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
+\*\* Antagen kvalitetsfaktor på fjärrvärme 30%.
 
 Resultatet visar att slambehandlingsalternativet med lokal rötning och efterföljande pyrolys är mest
 energieffektivt, tätt följd av slambehandlingsalternativet med endast lokal rötning samt
@@ -2151,8 +2151,8 @@ kvalitetsfaktor på 30%. I slambehandlingsalternativen med rötning kan energiti
 | Kylanvändning | 0 | 0 | 0 | 0 | 0 |
 | Total energianvändning | 3 290 | 3 160 | 3 060 | 2 050 | 2 670 |
 | Energiproduktion: |  |  |  |  |  |
-| Uppgraderad gas* | 6 260 | 6 260 | 0 | 0 | 5 700 |
-| Värmeproduktion** | 0 | 550 | 1 900 | 0 | 0 |
+| Uppgraderad gas\* | 6 260 | 6 260 | 0 | 0 | 5 700 |
+| Värmeproduktion\*\* | 0 | 550 | 1 900 | 0 | 0 |
 | Total energitillförsel justerat för kvalité | 6 260 | 6 810 | 1 900 | 0 | 5 700 |
 | Energibalans (Produktion - Användning) | 2 970 | 3 650 | -1 160 | -2 050 | 3 030 |
 | Utvärdering (poäng) | 4,8 | 5,0 | 3,7 | 3,4 | 4,8 |
@@ -2757,16 +2757,16 @@ driften och att identifiera olika scenarier, inklusive hållbarhetsaspekter och 
 
 Preliminär etappindelning innehåller dessa hittills definierade delarna:
 
-1. Projektkontoret etableras samtidigt som tillstånd för bergshållning säkras. Etappen innehåller
+1\. Projektkontoret etableras samtidigt som tillstånd för bergshållning säkras. Etappen innehåller
 bland annat projektering för omläggning av fjärrvärme och rivning av kalksilotorn.
 
-2. Losshållning av berg påbörjas samtidigt som provisorisk högflödesrening installeras för att
+2\. Losshållning av berg påbörjas samtidigt som provisorisk högflödesrening installeras för att
 uppfylla tillståndskraven under ombyggnationen. Omläggning fjärrvärme och renoveringen av
 
 personalbyggnaden/laboratoriet genomförs under etappen samt att kontors- och
 personalplatser flyttas till en provisorisk etablering.
 
-3. Etappen innehåller byggnation av inloppsbyggnaden för grovrening, sandfång och
+3\. Etappen innehåller byggnation av inloppsbyggnaden för grovrening, sandfång och
 högflödesrening samtidigt som arbetet med AGS-anläggningen och slamhanteringsbyggnaden
 för avvattnat slam genomförs.
 
@@ -2774,7 +2774,7 @@ för avvattnat slam genomförs.
 
 <!-- sida 63 -->
 
-4. Inkoppling av inkommande tryckledningar till den nya inloppsbyggnaden påbörjas samtidigt
+4\. Inkoppling av inkommande tryckledningar till den nya inloppsbyggnaden påbörjas samtidigt
 som provisoriskt vatten till den befintliga biologiska processen etableras, med vatten från
 högflödesrening och brädd i den nya inloppsbyggnaden till den befintliga utloppsledningen.
 Driftsättning av den nya inloppsbyggnaden med grovrening, sandfång och högflödesrening
@@ -2782,21 +2782,21 @@ inleds samtidigt som provisorisk högflödesrening flyttas till den nya inloppsb
 Parallellt med detta pågår rivningen av regnbassänger, mellanpumpstation samt
 slamregeneringsbassänger för att göra plats för nybyggnation av försedimenteringen.
 
-5. Byggnation av ny försedimentering inleds samtidigt som ett nytt ledningsstråk läggs till den
+5\. Byggnation av ny försedimentering inleds samtidigt som ett nytt ledningsstråk läggs till den
 nya slamhanteringsbyggnaden och AGS-anläggningen. Rivningen av den befintliga
 elverkstaden utförs. Parallellt med detta sker tillbyggnad av den befintliga
 slamhanteringsbyggnaden och rivning av inlopps- och driftsbyggnaden.
 
-6. Driftsättning av AGS, försedimentering och sandfilter påbörjas samtidigt. Båda linjerna arbetar
+6\. Driftsättning av AGS, försedimentering och sandfilter påbörjas samtidigt. Båda linjerna arbetar
 parallellt under inkörningen av AGS-processen. Slam från försedimentering, AGS och
 sandfiltersteg riktas till den nya slamhanteringsbyggnaden för vidare behandling.
 
-7. Den befintliga byggnaden för sandfilter och övriga funktioner rivs. Samtidigt genomförs
+7\. Den befintliga byggnaden för sandfilter och övriga funktioner rivs. Samtidigt genomförs
 ombyggnation av den befintliga slamhanteringsbyggnaden till nya driftsbyggnad. Under denna
 period tas den befintliga avloppslinjen ur drift och renoveras. Nybyggnation av ett pump- och
 slamhus för att ersätta den befintliga driftsstrukturen.
 
-8. Uppstart av renoverad avloppslinje. Båda avloppslinjerna driftoptimeras.
+8\. Uppstart av renoverad avloppslinje. Båda avloppslinjerna driftoptimeras.
 
 Etappdimensionering
 Ett avloppsreningsverk byggs sällan om i större omfattning och när det väl görs så kommer många
@@ -3587,7 +3587,7 @@ Fas 2                      1 564 650
 Fas 3                         8 000
 1 655 000
 Tabell 22 Investeringsutgifter för projektets olika kommande faser. Investeringsutgifterna är beräknade efter prisnivå januari
-2024.
+2024\.
 
 53
 
@@ -4254,7 +4254,7 @@ Pensionsskuld, miljoner kronor 1 701 1 673 1 689 1 747 1 795 1789 1 946 2 189 2 
 Pensionsskuld, kronor per invånare 20 747 20 072 20 015 20 570 21 043 20 851 22 720 25 401 25 121 24 214 23 406
 Borgensåtagande, miljoner kronor 2 892 3 059 3 283 3 412 3 502 3 493 3 484 3 484 3 484 3 484 3 484
 Borgensåtagande, kronor per invånare 35 274 36 702 38 900 40 174 41 049 40 710 40 676 40 427 39 982 39 793 39 489
-* Jämföresletalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämföresletalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 9
 
@@ -4362,7 +4362,7 @@ att perioden av rekordhöga prisökningar ligger bakom oss och man förutser en 
 nedåtgående trend för inflationen globalt. Centralbankerna kommer av detta skäl kunna sänka
 styrräntorna i år. Men det kommer ta tid för ränteförändringar att få full effekt i ekonomin. BNP-
 tillväxten tar inte fart förrän under 2025. Både den globala och svenska ekonomin blir svag under
-2024. Detta ger avtryck i arbetsmarknaden med fortsatt dämpad sysselsättningsgrad. Svag
+2024\. Detta ger avtryck i arbetsmarknaden med fortsatt dämpad sysselsättningsgrad. Svag
 sysselsättning medför en ovanligt liten uppgång av lönesumman. Ökningen av skatteunderlaget
 väntas därför bli det lägsta sedan 2010 med undantag för pandemiåret 2020.
 
@@ -4371,7 +4371,7 @@ väntas därför bli det lägsta sedan 2010 med undantag för pandemiåret 2020.
 <!-- sida 100 -->
 
 Bostadsinvesteringarna störtdök under 2023 och SKR räknar med fortsatt nedgång även under
-2024. Bedömningen grundar sig i de långa ledtider som finns mellan planer och färdigställande.
+2024\. Bedömningen grundar sig i de långa ledtider som finns mellan planer och färdigställande.
 Kortsiktigt tycks produktionskapaciteten minska inom byggbranschen. Därtill är både realräntan
 och byggkostnaderna klart högre än tidigare. SKR säger samtidigt att det möjligen finns en
 uppåtrisk i prognosen eftersom byggföretagen under nuvarande svacka trots allt haft möjligheter
@@ -4696,7 +4696,7 @@ Fokusområden
 •  I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att
 fungera.
 
-*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
+\*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
 
 EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
 
@@ -4717,23 +4717,23 @@ biologisk mångfald.
 | Antal påbörjade bostäder | 216 | 848 | 165 | Öka |
 | Antal färdigställda bostäder | 430 | 363 | 319 | Öka |
 | Anmälda brott mot brottsbalken per invånare, antal/100 000 invånare<br>(BRÅ) | 5 321 | 5 691 | 6 475 | Minska |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) | * | 90 % | 91 % | Öka |
-| Brukarbedömning särskilt boende äldreomsorg, helhetssyn (Kolada) | * | 74 % | 76 % | Öka |
-| Brukarbedömning individ- och familjeomsorg totalt – helhetssyn<br>(Kolada) | * | 88 % | * | Öka |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) | \* | 90 % | 91 % | Öka |
+| Brukarbedömning särskilt boende äldreomsorg, helhetssyn (Kolada) | \* | 74 % | 76 % | Öka |
+| Brukarbedömning individ- och familjeomsorg totalt – helhetssyn<br>(Kolada) | \* | 88 % | \* | Öka |
 
 [Tabell 107-2](handlingar.tabeller/107-2.csv)
 
 | Indikatorer | 2021 | 2022 | 2023 | Målsättning 2025 |
 | --- | --- | --- | --- | --- |
-| Kommunens verksamheters elförbrukning, total (kWh) | * | * | * | Minska |
-| Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) | 2,48 | * | * | Minska |
+| Kommunens verksamheters elförbrukning, total (kWh) | \* | \* | \* | Minska |
+| Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) | 2,48 | \* | \* | Minska |
 | Fossiloberoende personbilar, andel av totalt antal bilar i det geografiska<br>området (%) | 17,0 | 21,2 | 24,1 | Öka |
 | Fossiloberoende personbilar i kommunorganisationen, andel (%) | 93,3 | 94,6 | 96,2 | Öka |
-| Slutanvändning av energi inom det geografiska området, MWh/invånare | 17 | 15 | * | Minska |
+| Slutanvändning av energi inom det geografiska området, MWh/invånare | 17 | 15 | \* | Minska |
 
 <!-- sida 108 -->
 
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
 
@@ -4743,21 +4743,21 @@ Fokusområden
 •  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
 
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 20
 
 [Tabell 108-1](handlingar.tabeller/108-1.csv)
 
-| Matens klimatpåverkan från de offentliga måltiderna ska minska räknat i<br>kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. | * | * | * | Minska |
+| Matens klimatpåverkan från de offentliga måltiderna ska minska räknat i<br>kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. | \* | \* | \* | Minska |
 | --- | --- | --- | --- | --- |
-| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i kommunens<br>verksamheter. 2021 var antalet 124 (KEMgroup PRO) | * | * | * | Minska |
-| Avfall från hushåll ska minska med 30% per invånare från 2020 till 2030.<br>Startvärde 100, målvärde 2030 är 70. | * | * | * | Minska |
-| Avfall från kommunens verksamheter ska minska med 40 % per<br>heltidsanställd. Startvärde 100, målvärde 2030 är 60. | 72,1 | 84,5 | * | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) | * | * | * | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | * | Öka |
-| Vattendrag med god ekologisk status, andel (Kolada) | 18,5 % | 18,5 % | * | Öka |
-| Andelen återbrukade möbler | * | * | * | Öka |
+| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i kommunens<br>verksamheter. 2021 var antalet 124 (KEMgroup PRO) | \* | \* | \* | Minska |
+| Avfall från hushåll ska minska med 30% per invånare från 2020 till 2030.<br>Startvärde 100, målvärde 2030 är 70. | \* | \* | \* | Minska |
+| Avfall från kommunens verksamheter ska minska med 40 % per<br>heltidsanställd. Startvärde 100, målvärde 2030 är 60. | 72,1 | 84,5 | \* | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) | \* | \* | \* | Öka |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | \* | Öka |
+| Vattendrag med god ekologisk status, andel (Kolada) | 18,5 % | 18,5 % | \* | Öka |
+| Andelen återbrukade möbler | \* | \* | \* | Öka |
 | Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>88%<br>Åk 8:<br>77%<br>Åk 1 gy:<br>68% | Åk 4:<br>88%<br>Åk 8:<br>72%<br>Åk 1 gy:<br>65% | Åk 4:<br>85%<br>Åk 8:<br>79%<br>Åk 1 gy:<br>73% | Öka |
 | Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>93%<br>Åk 8:<br>92%<br>Åk 1 gy:<br>88% | Åk 4:<br>90%<br>Åk 8:<br>93%<br>Åk 1 gy:<br>85% | Åk 4:<br>91%<br>Åk 8:<br>92%<br>Åk 1 gy:<br>86% | Öka |
 
@@ -4767,10 +4767,10 @@ samverkan mellan näringsliv och utbildning.
 | --- | --- | --- | --- | --- |
 | Insikt, SKR:s servicemätning av kommunernas myndighetsutövning<br>till företag. Nöjd kund-index utifrån sammanvägt betygsindex 0–100,<br>för hur företag i kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av företagsklimatet. | 66 | 70 | 67 | Öka |
 | Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 | Öka |
-| Sysselsatt dagbefolkning, antal (Kolada) | 27 384 | 27 695 | * | Öka |
-| Andel av sysselsatt dagbefolkning inom Göteborgsregionen | 5,1 % | 4,9 % | * | Öka |
-| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 18 % | * | Öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 13,8 | 12,8 | * | Öka |
+| Sysselsatt dagbefolkning, antal (Kolada) | 27 384 | 27 695 | \* | Öka |
+| Andel av sysselsatt dagbefolkning inom Göteborgsregionen | 5,1 % | 4,9 % | \* | Öka |
+| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 18 % | \* | Öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 13,8 | 12,8 | \* | Öka |
 
 <!-- sida 109 -->
 
@@ -4791,7 +4791,7 @@ med kommunen.
 •  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 21
 
@@ -4810,7 +4810,7 @@ ledare.
 | Indikator | 2021 | 2022 | 2023 | Målsättning<br>2024 |
 | --- | --- | --- | --- | --- |
 | Hållbart medarbetarengagemang, ett index för medarbetarnas<br>samlade uppfattning om områdena motivation, ledarskap och<br>styrning, skala 1–100 enligt Medarbetarenkäten | 78 | 78 | 76 | Öka |
-| Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas<br>utifrån nio nyckeltal med skala 1–20 | 103 | 114 | * | Öka |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas<br>utifrån nio nyckeltal med skala 1–20 | 103 | 114 | \* | Öka |
 
 <!-- sida 110 -->
 
@@ -5038,15 +5038,15 @@ kan beskriva med fyra byggstenar:
 
 <!-- sida 115 -->
 
-1. En robust organisation
+1\. En robust organisation
 Omfattar exempelvis organisationsstruktur, reglementen, rutiner, verksamhetssystem,
 kvalitetskontroller, avtal, information, kommunikation och kultur.
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 Ett reflekterande och framåtsyftande förhållningssätt. Omvärldsanalys och faktainsamling
 inom och utom den egna organisationen.
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 Utgår från riskanalysen och prioriterar och planerar uppföljande kontroller.
-4. Uppföljning
+4\. Uppföljning
 Vi följer upp och analyserar den interna kontrollen. Resultatet återkopplar man till ansvarig
 nämnd.
 
@@ -5082,12 +5082,12 @@ resultatfonder. Under året kan man göra ramjustering av resultatfonden i de fa
 övergår till annan nämnd. I de fall nämnden önskar föra med ett överskott till resultatfonden ska
 nämnden tydligt beskriva och motivera utifrån kriterierna 1–4 nedan beroende på orsak till
 avvikelsen.
-1. Nämnden har inte utfört planerad verksamhet. Nämnden ska normalt återredovisa
+1\. Nämnden har inte utfört planerad verksamhet. Nämnden ska normalt återredovisa
 överskottet.
-2. Man har överfört verksamhet till annan nämnd eller styrelse. Normalt gör man ramjustering
+2\. Man har överfört verksamhet till annan nämnd eller styrelse. Normalt gör man ramjustering
 av budgeten under verksamhetsåret. I undantagsfall kan man återredovisa överskott eller
 överföra det till aktuell nämnd eller styrelse i samband med bokslutet.
-3. Egna effektiviseringar eller besparingar. Redovisning av prestationer eller andra
+3\. Egna effektiviseringar eller besparingar. Redovisning av prestationer eller andra
 utvärderingskriterier som nämnden eller styrelsen använder ska jämföras med budget.
 Överskottet förs till nämndens resultatfond.
 
@@ -5095,7 +5095,7 @@ utvärderingskriterier som nämnden eller styrelsen använder ska jämföras med
 
 <!-- sida 116 -->
 
-4. Pågående driftprojekt. Projekten ska vara igångsatta men inte avslutade. Överskottet kan
+4\. Pågående driftprojekt. Projekten ska vara igångsatta men inte avslutade. Överskottet kan
 ombudgeteras till nya budgetåret. Man ska också analysera och redovisa orsaker till
 underskott av nämndens totala nettobudget. Normalt tar nämnden med sig underskottet
 och täcker det inom sin resultatfond.
@@ -5499,11 +5499,11 @@ c
 o r - 5,0      -1,3    -2,5-2,1-2,3 -2,6
 P
 -5,1
-- 10,0                       -6,4    -6,1
+\- 10,0                       -6,4    -6,1
 -9,4
-- 15,0
+\- 15,0
 -14,7
-- 20,0
+\- 20,0
 n        n        9       a       g       S       g
 e p p ö .lk
 n i a lo k s r ö F
@@ -6733,7 +6733,7 @@ Summa exploateringsresultat           -210   -200  -423   -557  -281
 Aranäs stadsdel
 
 I södra Kungsbacka fortsätter den nya stadsdelen växa fram med två nya områden, Aranäs 3 och
-4.
+4\.
 I Aranäs 3 har kommunen skapat förutsättningar för ytterligare mark för bostadsändamål med cirka
 350 bostäder, parkeringshus och butikslokaler. Detaljplanen innebär en utbyggnad av bostäder
 och centrumfunktioner i tre kvarter i varierande höjder. Närmast järnvägen i öster har kommunen
@@ -6838,7 +6838,7 @@ omsorgsboende, gruppbostad, förskola, samt lokaler för verksamheter och handel
 markägare och Serneke har tilldelats markanvisning. Arbetet med att ta fram en detaljplan pågår.
 Under 2022 gjorde man ett omtag för att klara de svåra geotekniska utmaningarna i området. En
 lösning finns nu på plats och kommunen räknar med ett antagande av detaljplanen i slutet av
-2024. Det innebär att projektering och utbyggnad kan komma i gång under 2025.
+2024\. Det innebär att projektering och utbyggnad kan komma i gång under 2025.
 
 18.2 Verksamhetsområden
 Duvehed
@@ -7278,7 +7278,7 @@ miljoner kronor under året och det innebär att låneskulden ökar till 1,3 mil
 
 Resultat, prognos
 
-1) Förändrat livslängdsantagande pensioner 2) Ökad avsättning deponi 3) Årets resultat exklusive jämförelsestörande poster
+1\) Förändrat livslängdsantagande pensioner 2) Ökad avsättning deponi 3) Årets resultat exklusive jämförelsestörande poster
 
 Prognosen är att årets resultat blir 149 miljoner kronor. Det är knappt 80 miljoner kronor lägre än
 resultatet förra året. Efter att vi tar bort jämförelsestörande poster får vi ett så kallat strukturellt
@@ -7550,7 +7550,7 @@ Kungsbacka kommun         Apriluppföljning 2024                 8
 
 8  Driftredovisning
 
-1) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
+1\) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
 statsbidrag samt finansiella poster ingår inte i beloppen.
 
 Nämndernas prognos + 8 miljoner kronor
@@ -9278,9 +9278,9 @@ Till:             Samhällsbyggnadskontoret
 Ämne:             VB: Seniorboende Södra Ebbagården
 Bifogade filer:   Södra Ebbagården Seniorboende_presentation 20240129.pdf
 
-Från: kent@ebbagarden.com <kent@ebbagarden.com>
+Från: kent@ebbagarden.com \<kent@ebbagarden.com>
 Skickat: den 30 januari 2024 16:46
-Till: Kommun <kommun@kungsbacka.se>
+Till: Kommun \<kommun@kungsbacka.se>
 Ämne: Seniorboende Södra Ebbagården
 
 Du får inte e-post ofta från kent@ebbagarden.com. Se varför det här är viktigt.
@@ -9881,15 +9881,15 @@ att hänsyn tas till landskapsbilden. Planarbetet kommer att bedrivas i normal t
 uppsatt tidplan.
 
 PROJEKTETS  LEVERANSER
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
-3. Samrådshandlingar BN
-4. Granskningshandlingar SBK/BN
+3\. Samrådshandlingar BN
+4\. Granskningshandlingar SBK/BN
 
-5. Exploateringsavtal KS
+5\. Exploateringsavtal KS
 
-6. Antagandehandlingar BN
+6\. Antagandehandlingar BN
 Detaljplanen upprättas med standardförfarande. Ny detaljplan för fastigheterna bedöms ha ett mindre
 allmänt intresse och följer översiktsplanen, därav kan detaljplanen antas av byggnadsnämnden.
 
@@ -9904,29 +9904,29 @@ Planområdet avgränsas mot Lerbergsvägen i väster, i söder mot en privatägd
 mot Lillån och i norr mot befintligt bostadsområde längs Sidensvansvägen.
 Detaljplanen kommer att hantera:
 
-- lämplig storlek på byggrätt för bostäder
+\- lämplig storlek på byggrätt för bostäder
 
-- utformning av byggnader
-- trafiksäkra lösningar
+\- utformning av byggnader
+\- trafiksäkra lösningar
 
-- lämplig angöring mot Lerbergsvägen
-- mobilitet och parkering
+\- lämplig angöring mot Lerbergsvägen
+\- mobilitet och parkering
 
-- geotekniska förutsättningar
-- VA, dagvattenhantering och skyfall
+\- geotekniska förutsättningar
+\- VA, dagvattenhantering och skyfall
 
-- översvämningsrisk
-- strandskydd
+\- översvämningsrisk
+\- strandskydd
 
-- sociala aspekter
-- kopplingar till grönområdet längs Lillån
+\- sociala aspekter
+\- kopplingar till grönområdet längs Lillån
 
 <!-- sida 216 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 4 (6)
 
-- lokaliseringsprövning
+\- lokaliseringsprövning
 
 TIDPLAN
 Q3 2024 Uppdragsbeslut BNAU
@@ -10557,9 +10557,9 @@ Förstudie .....................................................................
 Planerings- och byggprocessen ....................................................................................................... 5
 
 Alternativ ............................................................................................................................................... 6
-1. Kläppa 2:2 .................................................................................................................................................... 7
+1\. Kläppa 2:2 .................................................................................................................................................... 7
 
-2. Åsa 5:246 och Åsa 5:219 ......................................................................................................................... 8
+2\. Åsa 5:246 och Åsa 5:219 ......................................................................................................................... 8
 Rekommendation ................................................................................................................................ 9
 
 Konsekvenser ....................................................................................................................................... 9
@@ -10576,13 +10576,13 @@ Delaktiga ......................................................................
 Bilaga 1: Studerade platser .............................................................................................................. 11
 
 Bilaga 2: Avskrivna lokaliseringar .................................................................................................... 12
-2. Åsa 2:4 ........................................................................................................................................................ 13
+2\. Åsa 2:4 ........................................................................................................................................................ 13
 
-3. Åsa 2:6 och Åsa 3:11 ................................................................................................................................ 14
-4. Kläppa 1:4 - väster om järnvägen ........................................................................................................ 15
+3\. Åsa 2:6 och Åsa 3:11 ................................................................................................................................ 14
+4\. Kläppa 1:4 - väster om järnvägen ........................................................................................................ 15
 
-5. Kläppa 1:4 - öster om järnvägen .......................................................................................................... 16
-6. Ölmanäs 2:7 .............................................................................................................................................. 17
+5\. Kläppa 1:4 - öster om järnvägen .......................................................................................................... 16
+6\. Ölmanäs 2:7 .............................................................................................................................................. 17
 
 Lokaliseringsutredning ny skola i Åsa                  Sida 2 av 17
 
@@ -10606,7 +10606,7 @@ Skolan behöver ha plats för 500-600 elever för att ta höjd för framtida beh
 behöver en yta på totalt ca 20 000 kvm för att inrymma skolbyggnad,
 fullmåttsidrottshall, friyta för elever, parkeringar och angöring. Skolan ska enligt
 beslutad lokalplan 2022-2026 vara färdig 2026 och behöver därför börja byggas senast
-2024.
+2024\.
 
 Befintliga grundskolor i Åsa
 
@@ -10640,7 +10640,7 @@ Lokaliseringsutredning ny skola i Åsa                  Sida 4 av 17
 Förstudie
 
 En förstudie för området norr om Kläppavägen upprättades
-2016.
+2016\.
 
 En tät bebyggelse i form av radhus, parhus och villor
 föreslås tillsammans med områden för företag. Målet är att
@@ -10679,20 +10679,20 @@ samhällsutvecklingen.
 
 Övriga platser som studerats och avskrivits redovisas i dokumentets bilagor.
 
-*Risker kopplade till järnvägen samt risker för störningar kopplade till djurhållning
+\*Risker kopplade till järnvägen samt risker för störningar kopplade till djurhållning
 
 Lokaliseringsutredning ny skola i Åsa                  Sida 6 av 17
 
 [Tabell 238-1](handlingar.tabeller/238-1.csv)
 
-| Område | Trafik/tillgänglighet | Risker* | 20 000 kvm | FÖP och<br>samhällsutveckling | Kommunal<br>mark | Befintlig<br>användning | Tidplan |
+| Område | Trafik/tillgänglighet | Risker\* | 20 000 kvm | FÖP och<br>samhällsutveckling | Kommunal<br>mark | Befintlig<br>användning | Tidplan |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. Kläppa 2:2 |  |  |  |  |  |  |  |
 | 2. Åsa 5:246<br>och Åsa 5:219 |  |  |  |  |  |  |  |
 
 <!-- sida 239 -->
 
-1. Kläppa 2:2
+1\. Kläppa 2:2
 
   Ny detaljplan krävs
 Ca 200 m
@@ -10736,7 +10736,7 @@ Lokaliseringsutredning ny skola i Åsa                  Sida 7 av 17
 
 <!-- sida 240 -->
 
-2. Åsa 5:246 och Åsa 5:219
+2\. Åsa 5:246 och Åsa 5:219
 
   Ny detaljplan skulle kunna samordnas med detaljplan för bostäder
   Utbyggnadsområde i FÖP, stöder intentionen att bygga ihop Åsa centrum och stationen
@@ -10854,18 +10854,18 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 10 av 17
 Bilaga  1: Studerade    platser
 
 Relevanta alternativ
-1. Kläppa 2:2
-2. Åsa 5:246 och Åsa 5:219
+1\. Kläppa 2:2
+2\. Åsa 5:246 och Åsa 5:219
 
 5
 Avskrivna platser
 6
-3. Åsa 2:4
+3\. Åsa 2:4
 1
-4. Åsa 2:6 och Åsa 3:11
-5. Kläppa 1:4 - väster om järnvägen
+4\. Åsa 2:6 och Åsa 3:11
+5\. Kläppa 1:4 - väster om järnvägen
 4
-6. Kläppa 1:4 - öster om järnvägen
+6\. Kläppa 1:4 - öster om järnvägen
 2                          7. Ölmanäs 2:7
 3
 
@@ -10904,7 +10904,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 12 av 17
 
 <!-- sida 245 -->
 
-2. Åsa 2:4
+2\. Åsa 2:4
 
   Ny detaljplan behövs
   Utbyggnadsområde i FÖP men stödjer inte ambitionen att bygga ut mellan Åsa centrum och
@@ -10942,7 +10942,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 13 av 17
 
 <!-- sida 246 -->
 
-3. Åsa 2:6 och Åsa 3:11
+3\. Åsa 2:6 och Åsa 3:11
 
   Ny detaljplan krävs
   Planuppdrag för bostäder finns. Planarbetet har dock avstannat
@@ -10984,7 +10984,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 14 av 17
 
 <!-- sida 247 -->
 
-4. Kläppa 1:4 - väster om järnvägen
+4\. Kläppa 1:4 - väster om järnvägen
 
   Ny detaljplan
   Delvis utbyggnadsområdet i FÖP
@@ -11023,7 +11023,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 15 av 17
 
 <!-- sida 248 -->
 
-5. Kläppa 1:4 - öster om järnvägen
+5\. Kläppa 1:4 - öster om järnvägen
   Ny detaljplan
   Utredningsområde i FÖP. Stödjer inte ambitionen att bygga ut mellan Åsa centrum och
 stationen
@@ -11065,7 +11065,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 16 av 17
 
 <!-- sida 249 -->
 
-6. Ölmanäs  2:7
+6\. Ölmanäs  2:7
 
   Ny detaljplan
   Utredningsområde i FÖP. Stödjer inte ambitionen att bygga ut mellan Åsa
@@ -12976,7 +12976,7 @@ priset. Inga förändringar har skett gällande vilka system som används inom
 IT och telefoni.
 
 Hyran kommer för 2025 sannolikt ligga på samma nivå som budgeterat
-2024. Hyran varierar från år till år baserat på renoveringar i stadshuset, men
+2024\. Hyran varierar från år till år baserat på renoveringar i stadshuset, men
 en uppskattning är att nivån kommer vara jämförbar med 2024.
 
 Löner är uppräknade med 3 procent för 2025. Vi vet ännu inte hur avtalen
@@ -13038,10 +13038,10 @@ Enhetschef                Ekonom
 | kost, kostnad för biträde avseende |  |  |  |  |  |  |  |
 | upprättade budget redovisning |  |  |  |  |  |  |  |
 | revision och annan nödvändig |  |  |  |  |  |  |  |
-| intern* eller extern experthjälp |  |  |  |  |  |  |  |
+| intern\* eller extern experthjälp |  |  |  |  |  |  |  |
 |  | 10 633 000 | 10 982 265 | 560 096 | 1 779 127 | 3 777 899 | 1 757 162 | 3 107 981 |
-| *OH | 455 320 | 469 291 | 28 404 | 77 165 | 157 116 | 76 286 | 130 319 |
-| *Fast Avgift | 750 000 | 750 000 | 150 000 | 150 000 | 150 000 | 150 000 | 150 000 |
+| \*OH | 455 320 | 469 291 | 28 404 | 77 165 | 157 116 | 76 286 | 130 319 |
+| \*Fast Avgift | 750 000 | 750 000 | 150 000 | 150 000 | 150 000 | 150 000 | 150 000 |
 | Totalt | 11 838 320 | 12 201 555 | 738 499 | 2 006 292 | 4 085 015 | 1 983 449 | 3 388 300 |
 
 <!-- sida 300 -->
@@ -13119,7 +13119,7 @@ Räddningstjänstverksamheten finansieras till 85 procent av avgifter från medl
 budgetunderlag för 2025 och plan 2026–2027 framgår att medlemsavgifterna föreslås räknas upp med
 index enligt Prisindex för Kommunal verksamhet (PKV) på 0,6 procent. Utöver det vill RSG ha
 ytterligare uppräkning av medlemsavgiften till en total uppräkning av avgiften på 6,5 procent till år
-2025.
+2025\.
 
 Beslutsunderlag
 Kommunledningskontorets tjänsteskrivelse, 2024-04-09
@@ -13156,7 +13156,7 @@ Räddningstjänstens verksamhet finansieras till 85 procent av avgifter från me
 budgetunderlag för 2025 och plan 2026–2027 framgår att medlemsavgifterna föreslås räknas upp med
 index enligt Prisindex för Kommunal verksamhet (PKV) på 0,6 procent. Utöver det vill RSG ha
 ytterligare uppräkning av medlemsavgiften till en total uppräkning av avgiften på 6,5 procent till år
-2025.
+2025\.
 I kommunens övriga verksamhet sker uppräkning med Prisindex för kommunal verksamhet (PKV)
 exklusive PO-effekt, kommunstyrelsens förvaltning bedömer därför att det är en rimlig
 
@@ -13298,7 +13298,7 @@ Medlemsavgifter för räddningstjänstverksamhet
 Verksamheten finansieras till 85 % av avgifter från medlemskommunerna. Indexuppräkning enligt
 Prisindex för kommunal verksamhet (PKV) redovisas i handlingen tillsammans med övriga punkter för
 en äskad uppräkning av medlemsavgifterna med totalt 6,5 % avseende budget/verksamhetsåret
-2025.
+2025\.
 Medlemskommunernas beslut sammanvägs i framtagandet av handlingen Förslag till Budget 2025
 plan 2026-2027.
 
@@ -13329,15 +13329,15 @@ www.rsgbg.se
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
 Innehåll
-1. INLEDNING ....................................................................................4
+1\. INLEDNING ....................................................................................4
 
-2. BUDGETPROCESSEN ......................................................................4
+2\. BUDGETPROCESSEN ......................................................................4
 
-3. BUDGET 2025 OCH PLAN 2026-2027 ..............................................6
+3\. BUDGET 2025 OCH PLAN 2026-2027 ..............................................6
 
 3.1  Beslutspunkter avseende RSG:s medlemsavgifter 2025 ......................7
 
-4. FÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .....................................8
+4\. FÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .....................................8
 4.1  Från brandkår till räddningstjänstmyndighet ......................................8
 
 4.2  Förbundsutökning ................................................................................8
@@ -13349,12 +13349,12 @@ Innehåll
 
 4.6  Omvärldsläget ....................................................................................11
 
-5. FAKTORER MED VÄSENTLIG EKONOMISK PÅVERKAN ..................12
+5\. FAKTORER MED VÄSENTLIG EKONOMISK PÅVERKAN ..................12
 5.1  Fastighets- och lokalfrågan ................................................................12
 
 5.2  Investeringar – budget för avskrivningskostnader .............................14
 
-6. EKONOMI, EGET KAPITAL och PERSONAL .....................................15
+6\. EKONOMI, EGET KAPITAL och PERSONAL .....................................15
 
 6.1  Ekonomisk utveckling och budgetåret 2024 ......................................15
 6.2  Ekonomiska förväntningar och budgetår 2025 plan 2026-2027 ........16
@@ -13362,7 +13362,7 @@ Innehåll
 6.3  Eget kapital ........................................................................................17
 
 6.1  Personal - statistik och utveckling ......................................................18
-7. MEDLEMSAVGIFTERNA ................................................................20
+7\. MEDLEMSAVGIFTERNA ................................................................20
 
 7.1  Prisindex för kommunal verksamhet (PKV) .......................................20
 
@@ -13376,9 +13376,9 @@ Innehåll
 7.6  Minskade intäkter ..............................................................................21
 7.7  Riktade statsbidrag 2025 ...................................................................22
 
-8. EFFEKTIVISERINGAR ....................................................................23
+8\. EFFEKTIVISERINGAR ....................................................................23
 
-9. BILAGOR ......................................................................................25
+9\. BILAGOR ......................................................................................25
 
 RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              2(29)
 
@@ -13397,7 +13397,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              3(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-1. INLEDNING
+1\. INLEDNING
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
 
@@ -13432,7 +13432,7 @@ LSO-verksamheten.
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
 
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 Budgetprocessen har under ett antal år följt en arbetsordning där underlag för budget
 verksamhetsår och planperiod, utarbetats under inledningen av året, och som i slutet
 
@@ -13492,7 +13492,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              5(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-3. BUDGET 2025 OCH  PLAN 2026-2027
+3\. BUDGET 2025 OCH  PLAN 2026-2027
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt övriga faktorer med särskild ekonomisk påverkan. De
 
@@ -13524,7 +13524,7 @@ större investeringar, är det nu viktigt att inte ekonomin urholkas ytterligare
 De senaste två årens uppräkning av medlemsavgifterna har inte följt löne- och
 kostnadsutvecklingen. Exempelvis för 2024 erhöll inte RSG uppräkning enligt äskande,
 men med en uppräkning på t ex 4,1 % hade RSG kunnat budgetera ett nollresultat för år
-2024. RSG erhöll i stället 2,7 %, vilket resulterade i en underbalanserad budget (-10,9
+2024\. RSG erhöll i stället 2,7 %, vilket resulterade i en underbalanserad budget (-10,9
 mkr). Se avsnitt 6.1 Ekonomisk utveckling och budgetåret 2024.
 
 Äskande för budget 2025 är beräknat för att stoppa det underskott som annars ”rullar
@@ -13566,7 +13566,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              7(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 Förbundet har under ett antal år genomgått en utveckling från brandkår till att bli en
@@ -13628,7 +13628,7 @@ vissa typer av bränder.
 Befolkningen i förbundets nio kommuner fortsätter växa för att enligt
 Statistikmyndighetens (SCB) rapporter för perioden 2021-2040 motsvara nästan 1 040
 000 invånare år 2040, en ökning med drygt 120 000, eller drygt 13 % jämfört med år
-2020. Vid ytterligare utökning av medlemmar i förbundet baserat på inkomna
+2020\. Vid ytterligare utökning av medlemmar i förbundet baserat på inkomna
 ansökningar kan förbundet år 2040 att ha ytterligare drygt 100 000 invånare.
 Räddningstjänstens grundläggande uppgift är enligt Lag (2003:778) om skydd mot
 
@@ -13827,7 +13827,7 @@ vägledningar kopplade till området och hur utfallet av dessa kommer att påver
 omfatta allt från invallning till insamling, omhändertagande och rening av detta vatten,
 en kostnad som för exempelvis en enskild brand år 2021 landade på 1,4 mkr.
 
-5. FAKTORER MED  VÄSENTLIG  EKONOMISK   PÅVERKAN
+5\. FAKTORER MED  VÄSENTLIG  EKONOMISK   PÅVERKAN
 
 Här redogörs för ett antal faktorer med väsentlig påverkar RSG:s ekonomi i stor
 utsträckning. Vissa med akut behov av åtgärd, andra som identifieras ha påverkan på
@@ -13995,7 +13995,7 @@ verksamhet. Budget är beslutad med möjlighet att vid behov utnyttja delar av R
 egna kapital. Investeringarna medför både kostnader för avskrivningar och vissa
 engångsutgifter som krävs för att genomföra projektet och dess investeringar.
 
-6. EKONOMI, EGET  KAPITAL och PERSONAL
+6\. EKONOMI, EGET  KAPITAL och PERSONAL
 Det allmänt svårare ekonomiska läget de senaste åren har påverkat RSG, men tack vare
 åtgärder och ett väl tilltaget eget kapital har RSG haft möjlighet att hantera negativa
 
@@ -14203,7 +14203,7 @@ Personalstatistik
 Uppgifter per 31/12
 2023  2022   2021  2020  2019
 Arbetad tid
-Antal årsarbetare*         797   725   722   728   716
+Antal årsarbetare\*         797   725   722   728   716
 Antal anställda per december
 Totalt antal anställda (inkl timanställda) 804 737 733 739 736
 varav tillsvidareanställda 767   695   703   701   686
@@ -14232,7 +14232,7 @@ varav räddningsvärn       130    109   105   107   94
 
 varav förtroendevalda (styrelse, fullmäktige, revision) 93 62 59 84 85
 Totalt                    1235  1056  1045  1075  1072
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
 Tabell 2 Personalstatistik
@@ -14243,7 +14243,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             19(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-7. MEDLEMSAVGIFTERNA
+7\. MEDLEMSAVGIFTERNA
 Samtliga punkter inom avsnitt 7, ingår i RSG:s äskande inför budget/verksamhetsåret
 2025, se avsnitt 3. Budget 2025 och plan 2026-2027.
 
@@ -14271,14 +14271,14 @@ medlemsavgifterna med en högre procent än dagens gällande PKV, se avsnitt 3 B
 PKV
 
 2023  2024  2025 2026 2027
-Arbetskraftskostnad*   7,0   5,2   -0,2 2,2   3,6
+Arbetskraftskostnad\*   7,0   5,2   -0,2 2,2   3,6
 vikt arbetskraftskostnad 68,6% 69,0% 69,1% 68,4% 68,4%
-Övrig förbrukning**    4,0   2,9   2,5  2,5   2,5
+Övrig förbrukning\*\*    4,0   2,9   2,5  2,5   2,5
 vikt övrig förbrukning 31,4% 31,0% 30,9% 31,6% 31,6%
 Prisindex kommunal verksamhet 6,1 4,5 0,6 2,3 3,3
 
-* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
-** 40 % lönekostnadsförändring och 60% KPIF
+\* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
+\*\* 40 % lönekostnadsförändring och 60% KPIF
 
 Prisindex kommunal verksamhet publicerad 2024-02-26
 7.2 Lönekostnader 2023 och 2024
@@ -14304,7 +14304,7 @@ Budgetutrymmet minskar därmed motsvarande 7,0 mkr, vilket i sin tur utgör stö
 delen av underbalanseringen av budget 2024 (-10,9 mkr, varav -2,5 mkr är beviljat
 sedan tidigare). Behovet är en justering med 1,0 % uppräkning av medlemsavgifterna
 för att inte fortsätta föra underskottet vidare, se avsnitt 3 Budget 2025 och plan 2026-
-2027.
+2027\.
 
 7.3 Lönekostnader 2025
 Vid en uppräkning av medlemsavgifterna inför 2025 med endast 0,6 %, som en följd av
@@ -14426,7 +14426,7 @@ kommunalförbunden direkt utan tillställs primärkommunerna. Det är viktigt at
 oklarheter råder kring RSG:s finansering av dessa aktiviteter framöver. Se avsnitt 3.
 Budget 2025 och plan 2026-2027.
 
-8. EFFEKTIVISERINGAR
+8\. EFFEKTIVISERINGAR
 
 Utveckling och effektivisering av förbundets ekonomi och verksamhet, pågår
 kontinuerligt, både genom egen effektivisering och som en följd av pålagda
@@ -14434,7 +14434,7 @@ besparingskrav samt ökade intäkter.
 Det finns en rad exempel sedan längre tillbaka som exempelvis avvecklingen av
 dykskolan Färjenäs 2013, Säve flygplatsbrandkår 2015 samt höjdenheten i Mölndal
 
-2016.
+2016\.
 Ett annat exempel är det strategiskt viktiga arbetet, helt i linje med statsmaktens
 inriktning och alltmer tydliga lagstiftning, avseende införandet och vidareutvecklingen
 av gemensamt räddningsledningssystem. Genom att vara drivande i att ingå i större
@@ -14508,7 +14508,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             24(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-9. BILAGOR
+9\. BILAGOR
 
 9.1 Preliminär Resultatbudget 2025 och 2026-2027
 
@@ -14516,7 +14516,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             25(29)
 
 [Tabell 331-1](handlingar.tabeller/331-1.csv)
 
-| Utfall Budget Budget Budget Budget<br>Medlemsavgift uppräkning* 2,9% 2,7% 6,5% 2,3% 3,3%<br>2023 2024 2025 2026 2027<br>Miljontal kronor<br>Verksamhetens intäkter<br>Larmkommunikation 29,9 29,7 31,6 33,0 33,2<br>Förebyggande intäkter 10,6 11,2 11,8 12,4 12,5<br>Obefogade larm 24,9 24,0 25,0 26,0 27,0<br>Taxor och avgifter 23,0 28,0 29,7 31,0 31,2<br>Övriga intäkter 46,6 39,1 37,1 38,7 39,0<br>varav statligt bidrag, gränslös räddningstjänst 4,2 4,2 4,3 4,4 4,5<br>varav miskad hyresintäkt, Stena Oil - 4,4<br>varav elstöd 2,9<br>S:a intäkter 135,0 132,0 135,2 141,1 142,8<br>Verksamhetens kostnader<br>Entreprenad- och konsultkostnader - 40,6 - 33,4 - 39,7 - 40,5 - 41,3<br>Personalkostnader - 672,9 - 727,3 - 703,7 - 712,0 - 733,1<br>varav lön och soc avg - 546,4 - 567,6 - 586,9 - 606,8 - 627,4<br>varav pensionskostnader - 126,5 - 159,7 - 116,8 - 105,2 - 105,7<br>Övriga verksamhetskostnader - 135,5 - 136,5 - 147,2 - 146,7 - 148,6<br>varav Färjenäs - 0,2 - - 5,0 - 1,0<br>S:a kostnader - 849,0 - 897,2 - 890,5 - 899,2 - 923,0<br>Avskrivningar - 41,6 - 39,8 - 45,8 - 47,3 - 47,3<br>varav Färjenäs - 0,9 - 1,5 - 1,5 - 2,5 - 2,5<br>varav säkerhetsprojekt - 0,4 - 1,0 - 1,0 - 1,5 - 1,5<br>Verksamhetens nettokostnader - 890,6 - 937,0 - 936,3 - 946,5 - 970,3<br>Medlemsavgifter<br>Medlemsavgifter Göteborg 495,8 532,8 512,0 507,9 524,1<br>Medlemsavgifter Mölndal 46,4 49,9 48,0 47,6 49,1<br>Medlemsavgifter Kungsbacka 68,7 73,8 70,9 70,3 72,6<br>Medlemsavgifter Partille 26,1 32,5 31,7 31,6 32,6<br>Medlemsavgifter Härryda 31,7 29,6 28,0 27,6 28,5<br>Medlemsavgifter Lerum 33,6 36,1 34,7 34,4 35,5<br>Medlemsavgifter Tjörn 17,7 18,9 18,5 18,5 19,1<br>Medlemsavgifter Stenungsund 44,9 47,9 46,9 46,8 48,3<br>Medlemsavgifter Lilla Edet 20,5 21,9 21,4 21,3 22,0<br>varav infasningsavgift 15,0 15,4 16,4 16,8 17,4<br>varav pensionskostnader 143,2 121,8 125,0<br>S:a medlemsavgifter 785,4 843,4 812,1 806,0 831,9<br>Verksamhetens resultat 29,8 38,4 11,0 0,7 4,4<br>Finansiella intäkter 7,9 6,4 8,0 11,0 11,0<br>Finansiella kostnader - 47,4 - 55,7 - 26,5 - 16,7 - 19,4<br>varav pensionskostnader - 47,3 - 55,6 - 26,4 - 16,6 - 19,3<br>Resultat efter finansiella poster - 9,7 - 10,9 - 7,5 - 5,0 - 4,0<br>ÅRETS RESULTAT - 9,7 - 10,9 - 7,5 - 5,0 - 4,0<br>Eget kapital, nyttjas enligt beslut;<br>Rivningskostnad Färjenäs 5,0 1,0<br>Avskrivningar, Färjenäsprojekt 1,5 2,5 2,5<br>Avskrivningskostnader, Säkerhetsprojekt 1,0 1,5 1,5<br>JUSTERAT RESULTAT - 0,0 - 0,0 - 0,0<br>*Medlemsavgift 2025 enligt äskning, medan<br>2026-2027 enligt Prisindex kommunal verksamhet (PKV) 2024-02-26 | Budget<br>6,5% | Budget<br>2,3% | Budget<br>3,3% |
+| Utfall Budget Budget Budget Budget<br>Medlemsavgift uppräkning\* 2,9% 2,7% 6,5% 2,3% 3,3%<br>2023 2024 2025 2026 2027<br>Miljontal kronor<br>Verksamhetens intäkter<br>Larmkommunikation 29,9 29,7 31,6 33,0 33,2<br>Förebyggande intäkter 10,6 11,2 11,8 12,4 12,5<br>Obefogade larm 24,9 24,0 25,0 26,0 27,0<br>Taxor och avgifter 23,0 28,0 29,7 31,0 31,2<br>Övriga intäkter 46,6 39,1 37,1 38,7 39,0<br>varav statligt bidrag, gränslös räddningstjänst 4,2 4,2 4,3 4,4 4,5<br>varav miskad hyresintäkt, Stena Oil - 4,4<br>varav elstöd 2,9<br>S:a intäkter 135,0 132,0 135,2 141,1 142,8<br>Verksamhetens kostnader<br>Entreprenad- och konsultkostnader - 40,6 - 33,4 - 39,7 - 40,5 - 41,3<br>Personalkostnader - 672,9 - 727,3 - 703,7 - 712,0 - 733,1<br>varav lön och soc avg - 546,4 - 567,6 - 586,9 - 606,8 - 627,4<br>varav pensionskostnader - 126,5 - 159,7 - 116,8 - 105,2 - 105,7<br>Övriga verksamhetskostnader - 135,5 - 136,5 - 147,2 - 146,7 - 148,6<br>varav Färjenäs - 0,2 - - 5,0 - 1,0<br>S:a kostnader - 849,0 - 897,2 - 890,5 - 899,2 - 923,0<br>Avskrivningar - 41,6 - 39,8 - 45,8 - 47,3 - 47,3<br>varav Färjenäs - 0,9 - 1,5 - 1,5 - 2,5 - 2,5<br>varav säkerhetsprojekt - 0,4 - 1,0 - 1,0 - 1,5 - 1,5<br>Verksamhetens nettokostnader - 890,6 - 937,0 - 936,3 - 946,5 - 970,3<br>Medlemsavgifter<br>Medlemsavgifter Göteborg 495,8 532,8 512,0 507,9 524,1<br>Medlemsavgifter Mölndal 46,4 49,9 48,0 47,6 49,1<br>Medlemsavgifter Kungsbacka 68,7 73,8 70,9 70,3 72,6<br>Medlemsavgifter Partille 26,1 32,5 31,7 31,6 32,6<br>Medlemsavgifter Härryda 31,7 29,6 28,0 27,6 28,5<br>Medlemsavgifter Lerum 33,6 36,1 34,7 34,4 35,5<br>Medlemsavgifter Tjörn 17,7 18,9 18,5 18,5 19,1<br>Medlemsavgifter Stenungsund 44,9 47,9 46,9 46,8 48,3<br>Medlemsavgifter Lilla Edet 20,5 21,9 21,4 21,3 22,0<br>varav infasningsavgift 15,0 15,4 16,4 16,8 17,4<br>varav pensionskostnader 143,2 121,8 125,0<br>S:a medlemsavgifter 785,4 843,4 812,1 806,0 831,9<br>Verksamhetens resultat 29,8 38,4 11,0 0,7 4,4<br>Finansiella intäkter 7,9 6,4 8,0 11,0 11,0<br>Finansiella kostnader - 47,4 - 55,7 - 26,5 - 16,7 - 19,4<br>varav pensionskostnader - 47,3 - 55,6 - 26,4 - 16,6 - 19,3<br>Resultat efter finansiella poster - 9,7 - 10,9 - 7,5 - 5,0 - 4,0<br>ÅRETS RESULTAT - 9,7 - 10,9 - 7,5 - 5,0 - 4,0<br>Eget kapital, nyttjas enligt beslut;<br>Rivningskostnad Färjenäs 5,0 1,0<br>Avskrivningar, Färjenäsprojekt 1,5 2,5 2,5<br>Avskrivningskostnader, Säkerhetsprojekt 1,0 1,5 1,5<br>JUSTERAT RESULTAT - 0,0 - 0,0 - 0,0<br>\*Medlemsavgift 2025 enligt äskning, medan<br>2026-2027 enligt Prisindex kommunal verksamhet (PKV) 2024-02-26 | Budget<br>6,5% | Budget<br>2,3% | Budget<br>3,3% |
 | --- | --- | --- | --- |
 |  | 2025<br>31,6<br>11,8<br>25,0<br>29,7<br>37,1<br>4,3<br>- 4,4<br>135,2<br>- 39,7<br>- 703,7<br>- 586,9<br>- 116,8<br>- 147,2<br>- 5,0<br>- 890,5<br>- 45,8<br>- 1,5<br>- 1,0<br>- 936,3<br>512,0<br>48,0<br>70,9<br>31,7<br>28,0<br>34,7<br>18,5<br>46,9<br>21,4<br>16,4<br>143,2<br>812,1<br>11,0<br>8,0<br>- 26,5<br>- 26,4<br>- 7,5<br>- 7,5 | 2026<br>33,0<br>12,4<br>26,0<br>31,0<br>38,7<br>4,4<br>141,1<br>- 40,5<br>- 712,0<br>- 606,8<br>- 105,2<br>- 146,7<br>- 1,0<br>- 899,2<br>- 47,3<br>- 2,5<br>- 1,5<br>- 946,5<br>507,9<br>47,6<br>70,3<br>31,6<br>27,6<br>34,4<br>18,5<br>46,8<br>21,3<br>16,8<br>121,8<br>806,0<br>0,7<br>11,0<br>- 16,7<br>- 16,6<br>- 5,0<br>- 5,0 | 2027<br>33,2<br>12,5<br>27,0<br>31,2<br>39,0<br>4,5<br>142,8<br>- 41,3<br>- 733,1<br>- 627,4<br>- 105,7<br>- 148,6<br>- 923,0<br>- 47,3<br>- 2,5<br>- 1,5<br>- 970,3<br>524,1<br>49,1<br>72,6<br>32,6<br>28,5<br>35,5<br>19,1<br>48,3<br>22,0<br>17,4<br>125,0<br>831,9<br>4,4<br>11,0<br>- 19,4<br>- 19,3<br>- 4,0<br>- 4,0 |
 |  |  |  |  |
@@ -14556,7 +14556,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             27(29)
 
 | Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms |  |  |
 | --- | --- | --- |
-| Medlemsavgift för pensionskostnader* 2024<br>Göteborgs kommun 138 553 000<br>Mölndals kommun 12 983 000<br>Kungsbacka kommun 19 184 000<br>Partille kommun 7 299 000<br>Härryda kommun 8 849 000<br>Lerums kommun 9 388 000<br>Tjörns kommun 4 069 000<br>Stenungsunds kommun 10 292 000<br>Lilla Edets kommun 4 694 000<br>Summa 215 311 000<br>* 2025-2027 enligt KPA Prognos 2023-12-12 inkl avsättning för SAP-R<br>2024: Enligt KPA prognos 2022-12-05, den tidpunkt då både RSG och fd SBRF fanns att tillgå. | 2025<br>92 176 000<br>8 637 000<br>12 763 000<br>4 856 000<br>5 887 000<br>6 245 000<br>2 707 000<br>6 847 000<br>3 123 000<br>143 241 000 | 2026 2027<br>78 363 000 80 449 000<br>7 343 000 7 539 000<br>10 850 000 11 139 000<br>4 128 000 4 238 000<br>5 005 000 5 138 000<br>5 309 000 5 451 000<br>2 302 000 2 363 000<br>5 821 000 5 976 000<br>2 655 000 2 725 000<br>121 776 000 125 018 000 |
+| Medlemsavgift för pensionskostnader\* 2024<br>Göteborgs kommun 138 553 000<br>Mölndals kommun 12 983 000<br>Kungsbacka kommun 19 184 000<br>Partille kommun 7 299 000<br>Härryda kommun 8 849 000<br>Lerums kommun 9 388 000<br>Tjörns kommun 4 069 000<br>Stenungsunds kommun 10 292 000<br>Lilla Edets kommun 4 694 000<br>Summa 215 311 000<br>\* 2025-2027 enligt KPA Prognos 2023-12-12 inkl avsättning för SAP-R<br>2024: Enligt KPA prognos 2022-12-05, den tidpunkt då både RSG och fd SBRF fanns att tillgå. | 2025<br>92 176 000<br>8 637 000<br>12 763 000<br>4 856 000<br>5 887 000<br>6 245 000<br>2 707 000<br>6 847 000<br>3 123 000<br>143 241 000 | 2026 2027<br>78 363 000 80 449 000<br>7 343 000 7 539 000<br>10 850 000 11 139 000<br>4 128 000 4 238 000<br>5 005 000 5 138 000<br>5 309 000 5 451 000<br>2 302 000 2 363 000<br>5 821 000 5 976 000<br>2 655 000 2 725 000<br>121 776 000 125 018 000 |
 | Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2024<br>Göteborgs kommun 532 794 000<br>Mölndals kommun 49 893 683<br>Kungsbacka kommun 73 796 176<br>Partille kommun 28 071 729<br>Härryda kommun 34 033 142<br>Lerums kommun 36 079 841<br>Tjörns kommun 18 928 466<br>Stenungsunds kommun 47 908 380<br>Lilla Edets kommun 21 867 568 | 2025<br>512 042 665<br>47 946 877<br>70 924 967<br>26 978 956<br>32 708 111<br>34 671 811<br>18 532 331<br>46 908 445<br>21 412 850 | 2026 2027<br>507 886 598 524 146 877<br>47 557 005 49 080 067<br>70 349 693 72 602 183<br>26 759 784 27 616 633<br>32 442 997 33 481 451<br>34 389 627 35 491 288<br>18 491 314 19 086 561<br>46 803 858 48 311 292<br>21 365 516 22 052 964 |
 | Summa 843 372 985 | 812 127 014 | 806 046 392 831 869 315 |
 
@@ -14657,9 +14657,9 @@ för skydd mot andra olyckor än brand. Handlingsprogrammet ska vara ett
 övergripande politiskt styrdokument som beskriver vilka risker som finns inom
 förbundsområdet samt vilken förmåga som finns för att
 
-1) Minska sannolikheten för att olyckorna inträffar
+1\) Minska sannolikheten för att olyckorna inträffar
 
-2) Minska konsekvenserna av inträffade olyckor.
+2\) Minska konsekvenserna av inträffade olyckor.
 Handlingsprogrammet beskriver även övergripande hur Räddningstjänsten
 Storgöteborg, tillsammans med sina medlemskommuner, ska arbeta för att sträva mot
 de nationella målen i LSO samt, utifrån den riskbild och de behov som finns, utforma
@@ -14707,9 +14707,9 @@ Enligt lag (2003:778) om skydd mot olyckor (LSO) är kommuner skyldiga att ha et
 som omfattar både räddningstjänst och förebyggande verksamhet för skydd mot andra olyckor än
 brand. Handlingsprogrammet ska vara ett övergripande politiskt styrdokument som beskriver vilka
 risker som finns inom förbundsområdet samt vilken förmåga som finns för att
-1) Minska sannolikheten för att olyckorna inträffar
+1\) Minska sannolikheten för att olyckorna inträffar
 
-2) Minska konsekvenserna av inträffade olyckor.
+2\) Minska konsekvenserna av inträffade olyckor.
 Handlingsprogrammet beskriver även övergripande hur Räddningstjänsten Storgöteborg, tillsammans
 med sina medlemskommuner, ska arbeta för att sträva mot de nationella målen i LSO samt, utifrån den
 riskbild och de behov som finns, utforma lokalt anpassade mål för både räddningstjänst och
@@ -15398,7 +15398,7 @@ grunden för analysen. Statistiken bygger därmed på de bedömningar som gjorts
 dokumenterats av de befäl som varit involverade i händelsen. Tidsperioden för
 datainsamling är 1 januari 2019 till 31 december 2022. För analys av trender används
 tidsperioden 2019–2022 och för analyser av nuläget används ett medelvärde för 2020–
-2022. Eftersom uppgifter hämtats från räddningstjänstens eget system omfattas endast de
+2022\. Eftersom uppgifter hämtats från räddningstjänstens eget system omfattas endast de
 händelser som kommit till räddningstjänstens kännedom och som har bedömts kräva någon
 
 form av åtgärd eller beslut inom ramen för räddningstjänstens uppdrag.
@@ -15520,12 +15520,12 @@ personer som har haft ekonomiskt bistånd i minst tio månader och/eller har var
 längre än sex månader.
 Det socioekonomiska indexet är utgångspunkten för klassificeringen av områdestyper:
 
-1. områden med stora socioekonomiska utmaningar
-2. områden med socioekonomiska utmaningar
-3. socioekonomiskt blandade områden
-4. områden med goda socioekonomiska förutsättningar
+1\. områden med stora socioekonomiska utmaningar
+2\. områden med socioekonomiska utmaningar
+3\. socioekonomiskt blandade områden
+4\. områden med goda socioekonomiska förutsättningar
 
-5. områden med mycket goda socioekonomiska förutsättningar.
+5\. områden med mycket goda socioekonomiska förutsättningar.
 Områden av typ 1 (röd) och 2 (gul) finns i Göteborgs och Stenungsunds kommun (Figur 4).
 
 27 Statistikmyndigheten (SCB), 2023. Statistikdatabasen: Antal och andel hushåll efter region, boendeform och hushållstyp
@@ -17661,12 +17661,12 @@ till tekniska system och insatsstöd i form av exempelvis insatsplaner.
 Tabell 11. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand i byggnad.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att söka efter och rädda personer i tät brandrök,
--  att genomföra utvändig och invändig släckinsats för att bekämpa
+\-  att söka efter och rädda personer i tät brandrök,
+\-  att genomföra utvändig och invändig släckinsats för att bekämpa
 brand,
--  att assistera utrymning av personer från utrymningsplatser ur
+\-  att assistera utrymning av personer från utrymningsplatser ur
 brinnande byggnader,
--  att assistera utrymning av personer ur brinnande byggnad
+\-  att assistera utrymning av personer ur brinnande byggnad
 utvändigt via fönster eller balkong med stegutrustning.
 Förmågan Brand i byggnad förutsätter att brandvatten-
 Brand i byggnad
@@ -17678,12 +17678,12 @@ fönster eller balkong med stegutrustning kan ersätta en
 utrymningsväg hänvisas till Råd och anvisning nr 11084.
 Redovisningen i detta dokument kan inte åberopas som underlag
 för en brandteknisk dimensionering.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
--  att kunna försörja pågående insats med extra andningsluft,
+\-  att kunna försörja pågående insats med extra andningsluft,
 Depå                -  att försörja pågående insats med dryck och mat,
--  att försörja pågående insats med bränsle och materiel.
+\-  att försörja pågående insats med bränsle och materiel.
 
 8.2.2 Brand utomhus
 
@@ -17693,14 +17693,14 @@ Tabell 12. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid br
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
+\-  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
 Brand i skog och mark
--  att genomföra släckning av brand i skog och mark.
--  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
+\-  att genomföra släckning av brand i skog och mark.
+\-  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
 spårvagn, järnvägsvagn utomhus, eller annat mindre fristående
 objekt,
 Brand i fordon och andra fristående
--  att, i livräddande syfte, släcka brand i fordon i tunnel,
+\-  att, i livräddande syfte, släcka brand i fordon i tunnel,
 objekt
 undermarksanläggning eller liknande med hänsyn till
 begränsningar och förutsättningar på grund av anläggningens
@@ -17718,18 +17718,18 @@ Handlingsprogram enligt LSO 2024
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
--  att genomföra insats för livräddning av enstaka personer i
+\-  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
+\-  att genomföra insats för livräddning av enstaka personer i
 Brand i fartyg
 brandpåverkat utrymme eller genomföra släckinsats vid brand i
 fartyg förtöjt vid kaj.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
--  att kunna försörja pågående insats med extra andningsluft,
+\-  att kunna försörja pågående insats med extra andningsluft,
 Depå                -  att försörja pågående insats med dryck och mat,
--  att försörja pågående insats med bränsle och materiel.
--  att genomföra transport av materiel eller personal i väglös
+\-  att försörja pågående insats med bränsle och materiel.
+\-  att genomföra transport av materiel eller personal i väglös
 Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
 bandvagn eller annat terrängfordon.
 
@@ -17743,26 +17743,26 @@ Tabell 13. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid tr
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
--  att snabbt frigöra fastklämda personer från fordon (personbil,
+\-  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
+\-  att snabbt frigöra fastklämda personer från fordon (personbil,
 Trafikolycka           buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt
 sjukvårdsomhändertagande,
--  att stabilisera/säkra fordon vid instabilitet.
--  att genomföra losstagning, lyft och säkring vid olyckor med buss,
+\-  att stabilisera/säkra fordon vid instabilitet.
+\-  att genomföra losstagning, lyft och säkring vid olyckor med buss,
 Trafikolycka, nivå 3
 tåg, lastbil och andra tunga fordon.
--  att genomföra räddningsinsatser vid trafikolyckor där tunga
+\-  att genomföra räddningsinsatser vid trafikolyckor där tunga
 fordon är inblandade såsom lastbilar, bussar och tåg,
 Resurs för ras och tungräddning
--  att genomföra räddningsinsatser vid byggnadskollapser genom
+\-  att genomföra räddningsinsatser vid byggnadskollapser genom
 (RTR)
 stabiliserande åtgärder och att söka efter personer vid dessa
 händelser.
 Spårvagnslyft       -  att utföra lyft av spårvagn för losstagning av enstaka personer.
--  att vid händelse på anläggningar för tågtrafik kunna spännings-
+\-  att vid händelse på anläggningar för tågtrafik kunna spännings-
 Arbetsjordning
 prova och utföra arbetsjordning på anläggningen.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 8.2.4 Olycka med farliga ämnen
@@ -17781,51 +17781,51 @@ Tabell 14. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid ol
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att snabbt rädda enstaka personer som befinner sig i fara i
+\-  att snabbt rädda enstaka personer som befinner sig i fara i
 område med brandfarlig vätska eller gas,
--  att släcka brand i spill av olja eller polär produkt från tankbil eller
+\-  att släcka brand i spill av olja eller polär produkt från tankbil eller
 Brand i brandfarlig vätska och gas
 järnvägsvagn,
--  att släcka brand i mindre cistern med olja eller polär produkt,
--  att kyla hotad cistern vid brand i cistern för brandfarlig vara.
--  att snabbt rädda enstaka personer som befinner sig i område
+\-  att släcka brand i mindre cistern med olja eller polär produkt,
+\-  att kyla hotad cistern vid brand i cistern för brandfarlig vara.
+\-  att snabbt rädda enstaka personer som befinner sig i område
 med farliga ämnen,
--  att genomföra livräddande sanering av enstaka personer,
+\-  att genomföra livräddande sanering av enstaka personer,
 Farliga ämnen
--  att indikera brännbar atmosfär och annan farlig miljö,
--  att akut begränsa skadeutbredningen genom övertäckning,
+\-  att indikera brännbar atmosfär och annan farlig miljö,
+\-  att akut begränsa skadeutbredningen genom övertäckning,
 uppsamling, och nedtvättning.
--  att indikera riskområde för vanligt förekommande
+\-  att indikera riskområde för vanligt förekommande
 Farliga ämnen, nivå 2 (indikering)
 industrikemikalier
--  att genomföra insats i område/utrymme med farliga ämnen
--  att begränsa skadeutbredning genom tätning, övertäckning,
+\-  att genomföra insats i område/utrymme med farliga ämnen
+\-  att begränsa skadeutbredning genom tätning, övertäckning,
 Farliga ämnen, nivå 3 (kem 3) uppsamling, impaktering, överpumpning, kylning och
 nedtvättning.
--  att vara en nationell resurs för keminsatser vid olyckor med
+\-  att vara en nationell resurs för keminsatser vid olyckor med
 farliga ämnen med avancerad utrustning och specialutbildad
 personal. De kan bland annat pumpa och samla upp kemikalier,
 impaktera giftiga kondenserade gaser, täta läckage, indikera
 Farliga ämnen, kemenhet
 gaser och vätskor.
 Förmågan regleras genom avtal mellan RSG och MSB.
--  att vara en nationell resurs vid olyckor med farliga ämnen,
+\-  att vara en nationell resurs vid olyckor med farliga ämnen,
 genom att kunna identifiera ett okänt ämne.
 Avancerad Indikering
 Förmågan regleras genom avtal mellan RSG och MSB
--  att vara en nationell resurs för sanering av flera kontaminerade
+\-  att vara en nationell resurs för sanering av flera kontaminerade
 personer vid olyckor med farliga ämnen.
 Sanering
 Förmågan regleras genom avtal mellan RSG och MSB
--  att möjliggöra kylning med vatten och släckförmåga med skum
+\-  att möjliggöra kylning med vatten och släckförmåga med skum
 Förstärkt resurs för brand i för större bränder i brandfarlig vätska med hjälp av skumbilar,
 brandfarlig vätska     storpump, slang och armaturer.
--  att självständigt eller med hjälp av andra SMC-enheter släcka
+\-  att självständigt eller med hjälp av andra SMC-enheter släcka
 större bränder i oljedepåer.
 Storskalig oljebrandsläckning (SMC)
 Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
 (SMC).
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 
@@ -17835,10 +17835,10 @@ ovan.
 
 Handlingsprogram enligt LSO 2024
 
--  att med länsa inringa olja runt en båt eller skydda vikar,
+\-  att med länsa inringa olja runt en båt eller skydda vikar,
 Oljeskyddscontainer
 vattendrag och strandområden från oljepåslag.
--  att med en grupp om ett befäl och minst 4 brandmän, som
+\-  att med en grupp om ett befäl och minst 4 brandmän, som
 enskilt eller tillsammans med MIRG-styrkor från andra
 räddningstjänster, bistå Sjöfartsverket eller Kustbevakningen vid
 MIRG (Maritime Incident Response
@@ -17854,24 +17854,24 @@ förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Ta
 Tabell 15. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att genomföra räddningsinsatser vid naturolyckor där tunga
+\-  att genomföra räddningsinsatser vid naturolyckor där tunga
 fordon är inblandade såsom lastbilar, bussar och tåg,
 Resurs för ras och tung räddning
--  att genomföra räddningsinsatser vid byggnadskollapser vid
+\-  att genomföra räddningsinsatser vid byggnadskollapser vid
 (RTR)
 naturolyckor genom stabiliserande åtgärder och att söka efter
 personer vid dessa händelser
--  att genomföra transport av materiel eller personal i väglös
+\-  att genomföra transport av materiel eller personal i väglös
 Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
 bandvagn eller annat terrängfordon.
--  att vara en nationell sök- och räddningsresurs för att söka efter
+\-  att vara en nationell sök- och räddningsresurs för att söka efter
 och rädda människor vid stora komplexa räddningsinsatser med
 kollapsade byggnadskonstruktioner, orsakade av till exempel
 Nationell förstärkningsresurs för
 naturkatastrofer, olyckor, terrordåd eller krig.
 urban sök- och räddning (NUSAR)
 Förmågan regleras genom avtal mellan RSG och MSB
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 8.2.6 Drunkning
@@ -17881,15 +17881,15 @@ förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Ta
 Tabell 16. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att rädda enstaka personer i ytläge eller på grunt vatten,
+\-  att rädda enstaka personer i ytläge eller på grunt vatten,
 Vattenlivräddning
--  att rädda enstaka personer ur isvak.
--  att med hjälp av båt med olika storlek bedriva räddningsinsats på
+\-  att rädda enstaka personer ur isvak.
+\-  att med hjälp av båt med olika storlek bedriva räddningsinsats på
 och invid hav, sjöar och vattendrag. Båtarnas
 användningsområde kan sammanfattas till följande:
 Räddningsbåt
--  Livräddning vid hot om hopp från bro.
--  Resursuppbyggnad (personal och material) till Göteborgs södra
+\-  Livräddning vid hot om hopp från bro.
+\-  Resursuppbyggnad (personal och material) till Göteborgs södra
 skärgård vid större händelse.
 60 (70)
 
@@ -17899,13 +17899,13 @@ Handlingsprogram enligt LSO 2024
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
-- Brandbekämpning vid bränder i fastigheter nära vatten och
+\- Brandbekämpning vid bränder i fastigheter nära vatten och
 vid brand i fartyg.
-- Dykplattform vid insats med vattendykare.
-- Andra räddningsuppdrag på och vid insjöar och vattendrag.
--  att utföra räddningsdykning ner till 40 meters djup för att utföra
+\- Dykplattform vid insats med vattendykare.
+\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
+\-  att utföra räddningsdykning ner till 40 meters djup för att utföra
 Räddningsdykare (vatten) sök och livräddningssinsats.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 
@@ -17921,17 +17921,17 @@ hot om suicid.
 
 Område                   Förmåga och nyckeluppgifter som omfattas av
 
--  att genomföra ett första bemötande av suicidal
+\-  att genomföra ett första bemötande av suicidal
 Hot om suicid
 person.
--  akut omhändertagande vid olika typer av skador och
+\-  akut omhändertagande vid olika typer av skador och
 Prehospitalt akut omhändertagande sjukdomar samt HLR.
--  att rädda person från svårtillgänglig plats (exempelvis
+\-  att rädda person från svårtillgänglig plats (exempelvis
 master, broar, bergssidor, schakt, kranar,
 Hög höjd                    vindkraftverk),
--  att rädda person som fallit ner i brunn, schakt eller
+\-  att rädda person som fallit ner i brunn, schakt eller
 liknande.
--  att med hjälp av liten fjärrstyrd flygfarkost samla
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla
 UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
 form av bild och film från ovan.
 
@@ -17966,17 +17966,17 @@ Tabell 18. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid an
 
 Område                   Förmåga och nyckeluppgifter som omfattas av
 
--  akut omhändertagande vid olika typer av skador och
+\-  akut omhändertagande vid olika typer av skador och
 Prehospitalt akut omhändertagande
 sjukdomar samt HLR.
--  att genomföra räddningsinsatser vid naturolyckor där
+\-  att genomföra räddningsinsatser vid naturolyckor där
 tunga fordon är inblandade såsom lastbilar, bussar och
 tåg,
 Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid
 byggnadskollapser vid naturolyckor genom
 stabiliserande åtgärder och att söka efter personer vid
 dessa händelser
--  att vara en nationell sök- och räddningsresurs för att
+\-  att vara en nationell sök- och räddningsresurs för att
 söka efter och rädda människor vid stora komplexa
 räddningsinsatser med kollapsade
 Nationell förstärkningsresurs för urban sök-
@@ -17984,7 +17984,7 @@ byggnadskonstruktioner, orsakade av till exempel
 och räddning (NUSAR)
 naturkatastrofer, olyckor, terrordåd eller krig.
 Förmågan regleras genom avtal mellan RSG och MSB
--  att med hjälp av liten fjärrstyrd flygfarkost samla
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla
 UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
 form av bild och film från ovan.
 8.3 Ledning i räddningstjänsten
@@ -18064,7 +18064,7 @@ Vakthavande räddningschef (VRC) 1    90 s svarstid,
 Vakthavande befäl (VB)          1    90 s till ledningscentralen
 Larm- och ledningsbefäl, i ledningscentralen 1 90 s till ledningscentralen
 Larm- och ledningsoperatör, i   4    0 s (minst 2 stycken),
-ledningscentralen*                   90 s till ledningscentralen
+ledningscentralen\*                   90 s till ledningscentralen
 
 87 VRR, 2021. Instruktion för Vakthavande räddningschef i Västra Räddningsregionen.
 88 VRR, 2021. Fördelning av beslutanderätt inom gemensamt ledningssystem i Västra Räddningsregionen.
@@ -18077,33 +18077,33 @@ ledningscentralen*                   90 s till ledningscentralen
 
 Handlingsprogram enligt LSO 2024
 
-Myndighets- och stabsresurs (MSR)** 1 90 s svarstid,
+Myndighets- och stabsresurs (MSR)\*\* 1 90 s svarstid,
 60 min till ledningscentralen
-Chefs- och stabsresurs (CSR)*** 1    90 s svarstid,
+Chefs- och stabsresurs (CSR)\*\*\* 1    90 s svarstid,
 45 min till brandstationen i
 Stenungsund
 Ledning av räddningsinsats
 Regional insatsledare (RIL)     1    90 s anspänningstid
-- I utgångsläget placerad vid ledningscentralen
+\- I utgångsläget placerad vid ledningscentralen
 för att kunna ingå med uppgifter i
 övergripande ledning
 Insatsledare (IL)
-- I utgångsläget placerad på brandstation 2 90 s anspänningstid
-- I utgångsläget placerad dagtid på brandstation, 1 90 s anspänningstid
+\- I utgångsläget placerad på brandstation 2 90 s anspänningstid
+\- I utgångsläget placerad dagtid på brandstation, 1 90 s anspänningstid
 övrig tid i beredskap i hemmet
 Styrkeledare (StL)
-- Placerade på heltidsstationer 14   90 s anspänningstid
-- Placerade på täckstyrkor och tillfälliga styrkor 0–2 Varierar
-- Placerade på RiB-stationer****
+\- Placerade på heltidsstationer 14   90 s anspänningstid
+\- Placerade på täckstyrkor och tillfälliga styrkor 0–2 Varierar
+\- Placerade på RiB-stationer\*\*\*\*
 7    300 - 420 s anspänningstid
-* En av operatörerna bemannar ledningsfordon för fältstab (stabsenhet) men kan även användas som operatör inne i
+\* En av operatörerna bemannar ledningsfordon för fältstab (stabsenhet) men kan även användas som operatör inne i
 ledningscentralen.
-** MSR kan agera i stab för både övergripande ledning och stab för ledning av räddningsinsats.
-*** RSG samarbetar med BORF om en gemensam resurs som, utöver att representera linjeorganisationen på icke kontorstid,
+\*\* MSR kan agera i stab för både övergripande ledning och stab för ledning av räddningsinsats.
+\*\*\* RSG samarbetar med BORF om en gemensam resurs som, utöver att representera linjeorganisationen på icke kontorstid,
 kan agera i stab för övergripande ledning, stab för ledning av räddningsinsats samt samverkansperson mot industri och
 kommun. I tabellen anges endast tid till brandstationen i Stenungsund. Krav på tid till brandstationen i Kungälv tas inte upp av
 RSG.
-**** Vid normal riskbild kan upp till fyra styrkeledare RiB tillfälligt ersättas av Gruppledare (GL). Avvikelserutiner finns även för
+\*\*\*\* Vid normal riskbild kan upp till fyra styrkeledare RiB tillfälligt ersättas av Gruppledare (GL). Avvikelserutiner finns även för
 att tillfälligt hantera RiB-organisationen med färre än 7 StL/GL i tjänst.
 I och med samarbetet i Västra Räddningsregionen, där ledningsfunktioner kan användas
 gränslöst, finns utöver RSG:s ledningsresurser tillgång till anslutna räddningstjänsters
@@ -18496,7 +18496,7 @@ Räddningsregionen. 2023-07-01 Förbundsdirektör Lars Klevensparr.
 Referensdokument
 
 Samverkan i Väst (SIV), 2016. Samverkansperson vid stabsarbete, upprättad 2004, reviderad
-2016. Överenskommelse mellan Räddningstjänsten Storgöteborg, Polisregion Väst,
+2016\. Överenskommelse mellan Räddningstjänsten Storgöteborg, Polisregion Väst,
 Sjöfartsverket, Kustbevakningen, Västra Götalandsregionen och SOS Alarm AB.
 
 RSG (2017). Råd och anvisning nr 110 – Räddningstjänstens insatstid och förmåga.
@@ -19228,7 +19228,7 @@ bör fördelas på kommunens olika delar enligt följande:
 Sammantaget bör bostäderna fördelas så att det byggs 90
 bostäder/per år fram till 2030 följt av 170 bostäder/per år fram till
 
-2034.
+2034\.
 
 Mål 2 - Vi har "Mark-nära" bostäder och boendemiljöer
 
@@ -19870,14 +19870,14 @@ Sammanfattning av ärendet
 Utredningen föreslår att miljöbalkens regler gällande strandskydd ändras. Ändringar
 som föreslås i utredningen är att:
 
-- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
-- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
+\- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
+\- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
 som huvud- eller bisyssla.
-- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
+\- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
 behövs för jordbruk, fiske, vattenbruk, skogsbruk eller renskötsel skulle kunna
 undantas om de för sin funktion eller för att uppnå ett funktionellt samband och att
 dessa finns eller vidtas inom strandskyddsområdet.
-- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
+\- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
 byggnad, anläggning, anordning eller åtgärd (ej för bostadsändamål) om den behövs
 för en småskalig förvärvsverksamhet som bedrivs varaktigt på landsbygden. Det
 
@@ -19885,7 +19885,7 @@ strandnära läget ska i detta fall innebära en fördel för byggnadens, anläg
 anordningens eller åtgärdens funktion och samma funktionella fördel ska inte kunna
 uppnås utanför området.
 Ändringarna av miljöbalkens strandskyddsregler förslås träda ikraft 1 september
-2025.
+2025\.
 
 Vidare föreslår utredningen att en vägledning om tillämpningen av
 undantagsbestämmelsen tas fram av ansvarig myndighet. I detta fall är det
@@ -20899,7 +20899,7 @@ hus och en skolbyggnad har därmed fått en uppdaterad resurssammanställning
 och ett flerbostadshus har fått uppdaterad BTA och Atemp. Dessa ändringar
 har inneburit att referensvärden för vissa byggnadstyper har behövt justeras.
 KTH publicerade därför en uppdaterad referensvärdesrapport6 i november
-2023.
+2023\.
 
 5 Se mer om metoden att sätta gränsvärde för denna grupp längre fram i dokumentet.
 6 Malmqvist, T., Borgström, S., Brismark, J., & Erlandsson, M. (2023). Referensvärden för klimatpåver-
@@ -21180,7 +21180,7 @@ Revisionsberättelse för år 2023
 
 Vi har granskat räkenskaperna, årsredovisningen och förbundsstyrelsens
 förvaltning i Samordningsförbundet i Halland (organisationsnummer 222000-
-2857) för verksamhetsåret 2023.
+2857\) för verksamhetsåret 2023.
 
 Vårt uppdrag är att pröva om verksamheten sköts på ett ändamålsenligt och från
 ekonomisk synpunkt tillfredställande sätt, om räkenskaperna är rättvisande och
@@ -21594,19 +21594,19 @@ Redovisningen
 
 Verksamhetens intäkter
 
-- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
+\- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
 beslut, fakturering och inbetalning.
 
 Verksamhetens kostnader
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning samt avklipp.
 
 Kassa och bank
--  Substansgranskas mot externa underlag.
+\-  Substansgranskas mot externa underlag.
 Kortfristiga skulder
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning.
 
 Redovisningsprinciper
@@ -21666,19 +21666,19 @@ Finansiella mål
 
 Förbundet finansiella mål är att
 
--  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
+\-  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
 med god ekonomisk hushållning.
 
-- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
+\- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
 tillfälle kan finansiera utbetalningar i enlighet med beslut som tagits om
 finansiering av verksamhet.
 
-- - Förbundet får inte skuldsätta sig.
+\- - Förbundet får inte skuldsätta sig.
 
--  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
+\-  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
 resultat som möjligt.
 
-- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
+\- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
 
 Förbundet bedömer att deras finansiella mål är uppnådda i och med att det egna
 kapitalet minskat från 5 481 tkr till 2 668 tkr. Det egna kapitalet ligger därmed i nivå
@@ -21701,17 +21701,17 @@ Samordningsförbundet Halland fastställde i januari 2023 en verksamhetsplan med
 budget för 2023. I denna plan anges övergripande mål. Dessa har sedan legat till
 grund för förbundets verksamhetsmål:
 
-1. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
+1\. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
 samverkansarbetet.
 
-2. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
+2\. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
 arbetslivsinriktad rehabilitering.
 
-3. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
+3\. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
 jämställda och icke-diskriminerande samt har en tydlig styrning, mätbara
 ekonomiska ramar och kvantitativa mål.
 
-4. Samordningsförbundet vill förankra och etablera goda samverkansformer
+4\. Samordningsförbundet vill förankra och etablera goda samverkansformer
 och verka för att de goda metoder och arbetssätt som utvecklas inom ramen
 för den finansiella samordningen implementeras i ordinarie verksamhet.
 
@@ -21767,12 +21767,12 @@ posten utan anmärkning.
 
 Intern kontroll och styrning
 Vi har granskat delar av förbundets interna kontroll med fokus på
-- rutiner och system för kostnadsbokföring
-- betalningar
-- — attester och attesträtter
--  bokslutsprocessen
+\- rutiner och system för kostnadsbokföring
+\- betalningar
+\- — attester och attesträtter
+\-  bokslutsprocessen
 
-- — ersättning för utfört arbete
+\- — ersättning för utfört arbete
 
 Vi har också läst förbundsordning och styrelseprotokoll för att bedöma om styrelsen
 utövar tillräcklig kontroll och en god styrning av verksamheten samt att
@@ -21815,18 +21815,18 @@ inte var attesterade av både förbundschef och ordförande, utan enbart förbun
 
 2.6 Styrelsens förvaltning
 Vi har granskat styrelsens förvaltning genom
-- — att säkerställa att förbundsordningen följs
-- att verksamhetsplan/ budget finns upprättad
-- att verksamhetsplanen/budgeten omfattar 3 år
-- att styrelsen har varit beslutsför när beslut fattats
-- att beslut finns om beslutade åtgärder och uppföljning därav
-- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
-- att förbundet inte iklätt sig skulder
-- att delegationsordning finns
-- att attestordning finns
-- att sociala avgifter och källskatt redovisats i tid med rätt belopp
+\- — att säkerställa att förbundsordningen följs
+\- att verksamhetsplan/ budget finns upprättad
+\- att verksamhetsplanen/budgeten omfattar 3 år
+\- att styrelsen har varit beslutsför när beslut fattats
+\- att beslut finns om beslutade åtgärder och uppföljning därav
+\- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
+\- att förbundet inte iklätt sig skulder
+\- att delegationsordning finns
+\- att attestordning finns
+\- att sociala avgifter och källskatt redovisats i tid med rätt belopp
 
-- att förbundet har adekvat administrativ förmåga
+\- att förbundet har adekvat administrativ förmåga
 
 Vi har i vår av redovisning och betalning av sociala avgifter och källskatt noterat att
 förbundet har ådragit sig 4 st förseningsavgifter på 625 kr/st, en förseningsavgift på
@@ -21866,7 +21866,7 @@ I den nya redovisningslagen LKBR, föreskrivs att den årsredovisningen ska inne
 en driftsredovisning som en egen del.
 
 Samordningsförbundet Halland har upprättat en driftsredovisning i årsredovisningen för
-2023.
+2023\.
 Rekommendationer
 
 Baserat på ovan redovisade iakttagelser lämnar vi följande rekommendationer till
@@ -21963,7 +21963,7 @@ på varje sida
 
 Innehållsförteckning sidor
 
-1. FÖRVALTNINGSBERÄTTELSE
+1\. FÖRVALTNINGSBERÄTTELSE
 1.1 Översikt över verksamhetens utveckling
 1.2 Viktiga förhållanden för resultat och ekonomisk ställning
 1.3 Händelser av väsentlig betydelse
@@ -21977,13 +21977,13 @@ CO NOU UY ÅB
 1.7 Balanskravsresultat 13
 1.8 Väsentliga personalförhållanden 13
 1.9 Förväntad utveckling 13
-2. RESULTATRÄKNING 15
-3. BALANSRÄKNING 16
+2\. RESULTATRÄKNING 15
+3\. BALANSRÄKNING 16
 4, KASSAFLÖDESANALYS 17
-5. DRIFTSREDOVISNING 18
-6. NOTER 18
-7. STYRELSENS UNDERSKRIFT 22
-8. REVISORERNAS UNDERSKRIFT 22
+5\. DRIFTSREDOVISNING 18
+6\. NOTER 18
+7\. STYRELSENS UNDERSKRIFT 22
+8\. REVISORERNAS UNDERSKRIFT 22
 
 Signering av justerare
 på varje sida
@@ -21997,7 +21997,7 @@ Sida 3
 Styrelsen för Samordningsförbundet i Halland avger följande årsredovisning för 2023. Den är
 upprättad i svenska kronor.
 
-1. Förvaltningsberättelse
+1\. Förvaltningsberättelse
 
 Organisation
 
@@ -22231,7 +22231,7 @@ rehabiliteringsplatser (2003:1210).
 
 Förbundets leds av en styrelse med fyra ledamöter och åtta ersättare som utses av
 medlemmarna. Löpande under året hålls styrelsemöten. Åtta styrelsemöten har hållits under
-2023.
+2023\.
 
 Ansökningar och utvecklingsarbete som styrelsen ska besluta om föregås av genomgångar
 med berednings- och utvecklingsgruppen som utgörs av cheftjänstemän eller andra
@@ -22512,7 +22512,7 @@ Antal strukturövergripande
 | 13" 5 4 4 3 4
 insatser
 
-> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
+\> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
 I det nya Uppföljning Finsam vill vi i år visa utfall av deltagare även i stukturövergripande
 insatser, se översikt under rubriken Partsgemensamma samverkansytor och lärandemiljöer
 nedan, sida 13.
@@ -22606,11 +22606,11 @@ Balanskravsresultatet beräknas enligt följande:
 
 = Årets resultat enligt resultaträkningen
 
-- Samtliga realisationsvinster
+\- Samtliga realisationsvinster
 
-+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsvinster enligt undantagsmöjlighet
 
-+ Realisationsförluster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 
 -/+ Orealiserade vinster och förluster i värdepapper
 
@@ -22666,7 +22666,7 @@ på varje sida
 
 <!-- sida 518 -->
 
-2. RESULTATRÄKNING
+2\. RESULTATRÄKNING
 
 RESULTATRÄKNING (kr)
 
@@ -22688,7 +22688,7 @@ på varje sida
 
 <!-- sida 519 -->
 
-3. BALANSRÄKNING
+3\. BALANSRÄKNING
 
 BALANSRÄKNING (kr)
 Tillgångar
@@ -22730,7 +22730,7 @@ Sida 16
 
 <!-- sida 520 -->
 
-4. KASSAFLÖDESANALYS
+4\. KASSAFLÖDESANALYS
 
 KASSAFLÖDESANALYS (kr) 2023 2022
 Den löpande verksamheten
@@ -22743,7 +22743,7 @@ rörelsekapital
 Kassaflöde från förändring av rörelsekapital ? o
 a . . on | 1068 184 354 288
 Ökning/minskning kortfristiga fordringar
-- -1 135 218 -1 556 576
+\- -1 135 218 -1 556 576
 Okning/minskning kortfristiga skulder
 -2 867 171 -1 626 261
 Summa Kassaflöde för den löpande verksamheten
@@ -22764,7 +22764,7 @@ på varje sida
 
 <!-- sida 521 -->
 
-5. DRIFTSREDOVISNING
+5\. DRIFTSREDOVISNING
 
 Utfall jan-dec | Aktuell budget | Avvikelse utfall :
 Belopp tkr 2023 jan-dec 2023 — budget Utfall jan-dec 2022
@@ -22925,7 +22925,7 @@ på varje sida
 
 <!-- sida 525 -->
 
-7. Styrelsens underskrift
+7\. Styrelsens underskrift
 
 Vi intygar att årsredovisningen ger en rättvisande bild av verksamhetens resultat samt
 kostnader, intäkter och förbundets ekonomiska ställning.
@@ -22938,7 +22938,7 @@ Ordförande Vice ordförande
 Thomas Fager Christofer Lundholm
 Ledamot Ledamot
 
-8. Révisorernas underskrift
+8\. Révisorernas underskrift
 
 Daniel Larsson, KPMG AB Lillemor Landén
 
@@ -23148,7 +23148,7 @@ Lekmannarevision     2023
 <!-- sida 532 -->
 
 Innehållsförteckning
-1.  Granskningsinriktning ............................................................................................... 2
+1\.  Granskningsinriktning ............................................................................................... 2
 
 1.1. Bakgrund .................................................................................................................... 2
 
@@ -23159,7 +23159,7 @@ Innehållsförteckning
 1.4. Revisionskriterier ....................................................................................................... 2
 
 1.5. Metod .......................................................................................................................... 2
-2.  Granskningsresultat 2023 .......................................................................................... 3
+2\.  Granskningsresultat 2023 .......................................................................................... 3
 
 2.1. Väsentliga händelser under året ............................................................................... 3
 
@@ -23170,7 +23170,7 @@ Innehållsförteckning
 2.4. Riskanalys och intern kontroll .................................................................................. 8
 
 2.5. Årets resultat .............................................................................................................. 9
-3.  Sammanfattande bedömning och rekommendationer ...........................................10
+3\.  Sammanfattande bedömning och rekommendationer ...........................................10
 
 Bilagor:
 Bilaga 1: Revisionskriterier
@@ -23181,7 +23181,7 @@ Bilaga 2: Källförteckning
 
 <!-- sida 533 -->
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 Kommunfullmäktige har antagit stadgar för Stiftelsen Tjolöholm. Enligt stadgarna ska
@@ -23227,7 +23227,7 @@ bilaga 2. Samtliga intervjuade har getts tillfälle att sakfelsgranska rapporten
 
 <!-- sida 534 -->
 
-2. Granskningsresultat 2023
+2\. Granskningsresultat 2023
 
 2.1. Väsentliga händelser under året
 
@@ -23554,7 +23554,7 @@ tillsammans med eventuella anpassningar i verksamheten för att stävja undersko
 
 <!-- sida 541 -->
 
-3. Sammanfattande  bedömning  och rekommendationer
+3\. Sammanfattande  bedömning  och rekommendationer
 
 Vår sammanfattande bedömning är det finns brister i säkerställandet av att Stiftelsen sköts på
 ett ändamålsenligt tillfredställande sätt. Det finns brister avseende en ändamålsenlig
@@ -24121,7 +24121,7 @@ Stiftelsen Tjolöholm 9 (12)
 
 Org.nr 849400-4578
 
-- Se 1308
+\- Se 1308
 
 25390 37198
 
@@ -24347,7 +24347,7 @@ Uttalande
 
 Utöver vår revision av årsredovisningen har vi även utfört en
 revision av styrelsens förvaltning av Stiftelsen Tjolöholm för år
-2023.
+2023\.
 
 Enligt vår uppfattning har styrelseledamöterna inte handlat i
 strid med stiftelselagen, stiftelseförordnandet eller årsredovis-
@@ -24611,19 +24611,19 @@ Lekmannarevision     2023
 
 Innehållsförteckning
 
-1.  Granskningsinriktning ............................................................................................... 2
+1\.  Granskningsinriktning ............................................................................................... 2
 1.1. Bakgrund ................................................................................................................. 2
 1.2. Syfte ........................................................................................................................ 2
 1.3. Avgränsning ............................................................................................................ 2
 1.4. Revisionskriterier ..................................................................................................... 2
 1.5. Metod ...................................................................................................................... 2
 
-2.  Granskningsresultat 2023 .......................................................................................... 3
+2\.  Granskningsresultat 2023 .......................................................................................... 3
 2.2. Styrning, uppföljning och ägardialog ........................................................................ 3
 2.3. Riskanalys och intern kontroll .................................................................................. 5
 2.4. Årets resultat ........................................................................................................... 5
 
-3.  Sammanfattande bedömning och rekommendationer ............................................ 7
+3\.  Sammanfattande bedömning och rekommendationer ............................................ 7
 
 Bilagor:
 Bilaga 1: Revisionskriterier
@@ -24634,7 +24634,7 @@ Bilaga 2: Källförteckning
 
 <!-- sida 566 -->
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 Lekmannarevisionens uppdrag regleras i aktiebolagslagens kap 10. Av 3 § framgår att
@@ -24678,7 +24678,7 @@ framgår av bilaga 2. Samtliga intervjuade har getts tillfälle att sakfelsgrans
 
 <!-- sida 567 -->
 
-2. Granskningsresultat 2023
+2\. Granskningsresultat 2023
 
 2.1.1. Väsentliga händelser under året
 
@@ -24714,7 +24714,7 @@ Visionen för Eksta lyder: ”Eksta framtidens boende – i framkant för ett mi
 
 Kungsbacka”.
 Mål och affärsidé, vilken revideras årligen, behandlades och antogs av styrelsen i september
-2023. Dokumentet innehåller utdrag ur bolagsordning och ägardirektiv. Vidare innehåller
+2023\. Dokumentet innehåller utdrag ur bolagsordning och ägardirektiv. Vidare innehåller
 
 3
 
@@ -24837,7 +24837,7 @@ uppnår soliditets- och direktavkastningskravet i ägardirektivet.
 
 <!-- sida 571 -->
 
-3. Sammanfattande  bedömning  och rekommendationer
+3\. Sammanfattande  bedömning  och rekommendationer
 
 Vår sammanfattande bedömning är att bolagens verksamhet sköts på ändamålsenligt sätt.
 Vidare är vår bedömning att verksamheten i stort sköts på ett från ekonomisk synpunkt
@@ -25088,7 +25088,7 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 ÅRET 2023
 
 Britta Lenas gata 11
-- ett av våra uppskattade
+\- ett av våra uppskattade
 bostadsområden.
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2023 7
@@ -25795,7 +25795,7 @@ Ekstaprojektet
 Vi har under året fortsatt vårt samarbete med Aranäsgym-
 nasiet och numer även Lindälvsgymnasiets linje Teknik
 
-- årskurs ett. Linjen är certifierad som Teknikcollege där en
+\- årskurs ett. Linjen är certifierad som Teknikcollege där en
 stor del syftar till att ha nära samarbete med näringslivet.
 Samarbetet har pågått i 16 år. Syftet är att eleverna ska få
 ett verkligt projekt att jobba med och att vi samtidigt får
@@ -26042,7 +26042,7 @@ från Tommy Bengtsson, Keep The Planet Alive. Utan-
 för vårt huvudkontor planterades också äppleträdet
 "Folke" som symboliserar fred, frihet och miljö.
 
-- Vi är jätteglada för det här priset och att vi upp-
+\- Vi är jätteglada för det här priset och att vi upp-
 märksammas för något vi arbetar mycket med.
 Energi- och miljöfrågor har alltid varit väldigt viktiga
 för oss och något vi arbetar med dagligen, säger
@@ -26357,7 +26357,7 @@ likströmsnät finns. Här kommer vi bland annat att
 studera och testa hur flexibiliteten mellan fjärrvär-
 me och el kan nyttjas på bästa sätt.
 
-- Det är en unik möjlighet för oss att få vara med i
+\- Det är en unik möjlighet för oss att få vara med i
 ett projekt tillsammans med de absolut främsta
 aktörerna inom förnybar energi, dessutom i en
 tid där energifrågan är i fokus och är viktigare än
@@ -26406,7 +26406,7 @@ Ad 3
 
 HH  HSLUSeS CKW.
 
-=
+\=
 f35 BENEN otpg cm
 DB cert - JET  HUBITECK
 
@@ -26549,7 +26549,7 @@ Vi har ”
 
 tillsammans .
 återvunnit M
-- A43TON  s
+\- A43TON  s
 
 €&
 
@@ -27407,7 +27407,7 @@ Materiella anläggningstillgångar 4 363 632 4 324 950 4 225 045 4 020 246 3 950
 Finansiella anläggningstillgångar 116 143 116 111 119 565 116 182 116 133
 Omsättningstillgångar 156 277 175 314 226 139 298 516 163 835
 Eget kapital          809 822 738 802 675 480 617 221 382 929
-Obeskattade reserver * 8 284 6 927 8 908  8 152 169 808
+Obeskattade reserver \* 8 284 6 927 8 908  8 152 169 808
 Avsättningar          83 466 74 012 68 277 62 473 38 112
 Låneskuld            3 598 802 3 672 712 3 700 222 3 614 459 3 508 898
 Rörelseskulder        135 679 123 922 117 863 132 637 130 364
@@ -27727,7 +27727,7 @@ har gjorts med ledning av extern värdering.
 Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
-Intäkterna redovisas till nominellt värde. Övrigt*         100 år
+Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
 Byggnadsinventarier       20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
@@ -27747,7 +27747,7 @@ tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 å
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
 Inventarier                5 år
 Leasing
-*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
 leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
 fastigheter till ett värde över 10 mkr.
@@ -29206,7 +29206,7 @@ Styrelsen och Verkställande direktören för Tempo-
 hus Kungsbacka AB, 559151–1349, avger följande Finansiella ägardirektiv
 berättelse för bolagets verksamhet 2023-01-01-2023- Aktuellt läge gentemot direktiven
 12-31. Bolaget är helägt av Eksta Bostads AB 556497– Bolagets direktiv är att sträva efter att generera årliga
-8293. Tempohus Kungsbacka AB hänvisar till Eksta positiva resultat och att ge moderbolaget en mark-
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta positiva resultat och att ge moderbolaget en mark-
 Bostads AB:s hållbarhetsrapport för 2023. Rapporten nadsmässig avkastning på insatt kapital. Verksam-
 går att ladda ner och läsa på www.eksta.se. hetsåret visar ett positivt resultat
 Viktiga händelser 2023          Kvalitetsredovisning
@@ -29218,7 +29218,7 @@ Detaljplanen för Skårby 2:3 Anneberg vann laga kraft Byggverksamhet
 i slutet av 2022. Vi har under 2023 erhållit permanent
 bygglov för de 52 lägenheterna. Marken arrenderas av
 Kungsbacka kommun.              Behovet av bostäder för nyanlända har minskat under
-2023. Bolaget kommer därför inte att investera i några
+2023\. Bolaget kommer därför inte att investera i några
 Lägenheterna i Anneberg är byggda i enlighet med nybyggnadsprojekt eller hyra in några bostäder under
 Boverkets byggnadsregler och uppfyller dem med ett kommande år. Skulle behovet uppkomma hyrs bostä-
 avsteg gällande energiprestanda. Därför kommer vi der in från moderbolaget.
@@ -30453,29 +30453,29 @@ Expedierat/bestyrkt
 Nämnden för Service ska till kommunens förvaltningar inom Kungsbacka kommun tillhandahålla
 
 och utveckla efterfrågade tjänster inom följande områden:
-- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
+\- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
 
-- Fastighetsförvaltning och -underhåll
-- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
+\- Fastighetsförvaltning och -underhåll
+\- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
 
-- Lokalvård
+\- Lokalvård
 
-- Löneadministration
-- Stöd för personalrekrytering
+\- Löneadministration
+\- Stöd för personalrekrytering
 
-- Extern kundtjänst
-- Inköp (upphandling och e-handel)
+\- Extern kundtjänst
+\- Inköp (upphandling och e-handel)
 
-- Gemensam fordonshantering
-- IT, drift och support samt telesupport
+\- Gemensam fordonshantering
+\- IT, drift och support samt telesupport
 
 Nämnden ansvarar också för kommunens uppgifter vad avser:
-- Ekonomisk rådgivning enligt socialtjänstlagen
+\- Ekonomisk rådgivning enligt socialtjänstlagen
 
-- Konsumentrådgivning
-- Energi- och klimatrådgivning
+\- Konsumentrådgivning
+\- Energi- och klimatrådgivning
 
-- Bostadsförmedling.
+\- Bostadsförmedling.
 
 <!-- sida 666 -->
 
@@ -30539,7 +30539,7 @@ Antagande av Planeringsstrategi för Kungsbacka kommun 2024–2026
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige antar Planeringsstrategi för Kungsbacka kommun 2024–2026, daterad 2024-04-
-10.
+10\.
 
 Sammanfattning av ärendet
 
@@ -32495,7 +32495,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 732 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -32524,7 +32524,7 @@ fastighetsägare som slutkunder. Vidare för Kommunen en aktiv dialog och
 informerar näringsliv och medborgare om bredbandsutbyggnadens inverkan på
 samhället samt om hur man får tillgång till bredband via fiber.
 
-2. Grund för uttag av avgift
+2\. Grund för uttag av avgift
 Avgift för bredbandstjänster tas ut enligt de grunder som framgår av
 kommunallagens 2 kap 5-6 §§.
 
@@ -32534,7 +32534,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                2 (9)
 
 <!-- sida 733 -->
 
-3. Tjänster
+3\. Tjänster
 
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -32610,7 +32610,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -32636,7 +32636,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
 
 <!-- sida 735 -->
 
-4.       Avgifter och  taxor
+4\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -32812,7 +32812,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 4.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -32826,7 +32826,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                8 (9)
 
 [Tabell 738-1](handlingar.tabeller/738-1.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -32857,15 +32857,15 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
 [Tabell 739-1](handlingar.tabeller/739-1.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -32888,7 +32888,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 741 -->
 
-1. Om Kungsbacka   Bredbandsnät
+1\. Om Kungsbacka   Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan
 oktober 2010 i uppdrag av Kommunfullmäktige1 att svara för utbyggnad
@@ -32919,12 +32919,12 @@ och informerar näringsliv och medborgare om bredbandsutbyggnadens
 
 inverkan på samhället samt om hur man får tillgång till bredband via fiber.
 
-2. Grund för uttag av avgift
+2\. Grund för uttag av avgift
 Avgift för bredbandstjänster tas ut enligt de grunder som framgår av
 
 kommunallagens 2 kap 5-6 §§.
 
-3. Tjänster
+3\. Tjänster
 I Kungsbacka Bredbandsnät är idag en stor del av anslutningarna till
 
 nätet relaterade till kommunens verksamhet. Det är ofta mycket kritiska
@@ -33022,7 +33022,7 @@ för SN 0 om inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på
 årsbasis inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -33037,7 +33037,7 @@ Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 
-4. Avgifter och taxor
+4\. Avgifter och taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -33261,7 +33261,7 @@ debiteras med samma timpris.
 
 Priser angivna inklusive moms.
 
-_______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024               10 (10)
 
@@ -33927,23 +33927,23 @@ styrelsens diarium senast 2024-01-26. Motionen behandlades av Kommunfullmäktige
 2023-09-12 § 139.
 
 Motionärerna yrkar:
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
 kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker och på
 allmänna ytor samt av kommunen ägda bolags marker tex Eksta och Tjolöholm. En plan
 för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
-4. Upprepade insatser och uppföljning
+3\. Metod och avfallshantering
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
 kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även gälla
 underentreprenörer för att effektivisera bekämpningen i parker och allmänna ytor och till
 kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
 att effektivt förhindra spridning.
 Kungsbackaborna anger bland annat i sin motion att invasiva främmande arter är ett
 växande problem och räknas som ett av de absolut största hoten mot biologisk mångfald.
@@ -33969,23 +33969,23 @@ Datum
 anställda som arbetar eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör
 avslås med hänvisning till att utbildning för anställda redan finns inom kommunen.
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för
 bekämpning av invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
 
 Service.
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
 verksamhetsområden och enheter inom förvaltningarna Teknik, Service och
 Kommunstyrelsen med uppdrag att samordna tidiga insatser så att rätt åtgärder
 vidtas.
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
 personal inför växtsäsongen.
 
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att
 
 effektivisera bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor,
@@ -34045,19 +34045,19 @@ prioritering biologisk mångfald (KS 2023-00584), med svar till Kommunstyrelsens
 2024-01-26. Motionen behandlades av Kommunfullmäktige 2023-09-12 § 139.
 Motionärerna yrkar:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
 en konkret plan för att bekämpa dessa arter, i parker och på allmänna ytor samt av kommunen ägda
 bolags marker tex Eksta och Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
-3. Metod och avfallshantering
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
+4\. Upprepade insatser och uppföljning
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
 utmaningar i sitt dagliga värv. Detta skall även gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
 förhindra spridning.
 
 1 (3)
@@ -34101,14 +34101,14 @@ eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör avslås me
 utbildning för anställda redan finns inom kommunen.
 
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
 invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
 
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
 
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
 och enheter inom förvaltningarna Teknik, Service och Kommunstyrelsen med uppdrag att
 samordna tidiga insatser så att rätt åtgärder vidtas.
 
@@ -34118,10 +34118,10 @@ KUNGSBACKA  KOMMUN
 3 (3)
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
 
 växtsäsongen.
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor, menar förvaltningen för
@@ -34291,24 +34291,24 @@ spridningskraft och det finns ingen bekämpningsmetod som säkert fungerar.
 
 Kungsbackaborna yrkar därför:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
 ut i kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker
 och på allmänna ytor samt av kommunen ägda bolags marker tex Eksta och
 Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller
 kommer i kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även
 gälla underentreprenörer för att effektivisera bekämpningen i parker och
 allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
 Länsstyrelsen för att effektivt förhindra spridning.
 
 Roger Larsson (Kb) Janne Heimbrand (Kb)

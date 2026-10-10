@@ -350,12 +350,12 @@ Svar till kommunstyrelsens diarium senast
 
 Direktiv/Övrigt
 
--
+\-
 
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -385,36 +385,36 @@ klimatdeklarationer av byggnader
 
 Remissinstanser
 
-1. AB Röa
+1\. AB Röa
 
-2. AB Stockholmshem
-3. AB Svenska bostäder
+2\. AB Stockholmshem
+3\. AB Svenska bostäder
 
-4. Akademiska Hus AB
-5. Almedals Trägolvsaktiebolag
+4\. Akademiska Hus AB
+5\. Almedals Trägolvsaktiebolag
 
-6. Aroseken AB
+6\. Aroseken AB
 
-7. BIM Alliance Sweden
-8. Bollnäs kommun
+7\. BIM Alliance Sweden
+8\. Bollnäs kommun
 
-9. Bostads AB Poseidon
+9\. Bostads AB Poseidon
 
-10. Bostadsrätterna
-11. Byggföretagen
+10\. Bostadsrätterna
+11\. Byggföretagen
 
-12. Byggherrarna Sverige AB
-13. Byggmaterialhandlarna
+12\. Byggherrarna Sverige AB
+13\. Byggmaterialhandlarna
 
-14. Byggmaterialindustrierna
+14\. Byggmaterialindustrierna
 
-15. Cementa
-16. Chalmers Tekniska högskola
+15\. Cementa
+16\. Chalmers Tekniska högskola
 
-17. Domstolsverket
+17\. Domstolsverket
 
-18. ED bygg Sverige AB
-19. Eksta Bostads AB
+18\. ED bygg Sverige AB
+19\. Eksta Bostads AB
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
@@ -422,260 +422,260 @@ E-post: li.registrator@regeringskansliet.se
 
 <!-- sida 11 -->
 
-20. Energiföretagen Sverige
+20\. Energiföretagen Sverige
 
-21. Enköping kommun
-22. Essve Produkter
+21\. Enköping kommun
+22\. Essve Produkter
 
-23. Fastighetsägarna i Sverige AB
-24. Fastor AB
+23\. Fastighetsägarna i Sverige AB
+24\. Fastor AB
 
-25. Forskningsrådet för miljö, areella näringar och samhällsbyggande
+25\. Forskningsrådet för miljö, areella näringar och samhällsbyggande
 
-26. Fortifikationsverket
-27. Föreningen Sveriges Bygglovgranskare och Byggnämndssekreterare,
+26\. Fortifikationsverket
+27\. Föreningen Sveriges Bygglovgranskare och Byggnämndssekreterare,
 
 FSBS
-28. Förvaltningsrätten i Linköping
+28\. Förvaltningsrätten i Linköping
 
-29. Förvaltningsrätten i Växjö
+29\. Förvaltningsrätten i Växjö
 
-30. Gällivare kommun
-31. Göteborgs kommun
+30\. Gällivare kommun
+31\. Göteborgs kommun
 
-32. Heimstaden AB
-33. Helsingborg kommun
+32\. Heimstaden AB
+33\. Helsingborg kommun
 
-34. Hic Construction AB
+34\. Hic Construction AB
 
-35. Holmen trävaror
-36. HSB Riksförbund
+35\. Holmen trävaror
+36\. HSB Riksförbund
 
-37. Hylte kommun
+37\. Hylte kommun
 
-38. Hyresgästföreningen
-39. Hörby kommun
+38\. Hyresgästföreningen
+39\. Hörby kommun
 
-40. Höör kommun
-41. Innovations- och kemiindustrierna i Sverige, IKEM
+40\. Höör kommun
+41\. Innovations- och kemiindustrierna i Sverige, IKEM
 
-42. Innovationsföretagen
+42\. Innovationsföretagen
 
-43. Installationsföretagen
-44. Integritetsskyddsmyndigheten
+43\. Installationsföretagen
+44\. Integritetsskyddsmyndigheten
 
-45. IQ Samhällsbyggnad
+45\. IQ Samhällsbyggnad
 
-46. IVL Svenska Miljöinstitutet
-47. Jernhusen AB
+46\. IVL Svenska Miljöinstitutet
+47\. Jernhusen AB
 
-48. Jernkontoret
+48\. Jernkontoret
 
 2 (8)
 
 <!-- sida 12 -->
 
-49. JM AB
+49\. JM AB
 
-50. Justitiekanslern, JK
-51. Justitieombudsmannen, JO
+50\. Justitiekanslern, JK
+51\. Justitieombudsmannen, JO
 
-52. Jönköping kommun
-53. Kammarkollegiet
+52\. Jönköping kommun
+53\. Kammarkollegiet
 
-54. Kammarrätten i Jönköping
+54\. Kammarrätten i Jönköping
 
-55. Karlstad kommun
-56. Kemikalieinspektionen
+55\. Karlstad kommun
+56\. Kemikalieinspektionen
 
-57. Kiruna kommun
+57\. Kiruna kommun
 
-58. Kommerskollegium
-59. Konkurrensverket
+58\. Kommerskollegium
+59\. Konkurrensverket
 
-60. Kungliga Tekniska högskolan
+60\. Kungliga Tekniska högskolan
 
-61. Kungsbacka kommun
-62. Lantmäteriet
+61\. Kungsbacka kommun
+62\. Lantmäteriet
 
-63. Lindbäcks bygg AB
-64. Lindholmsgruppen AB
+63\. Lindbäcks bygg AB
+64\. Lindholmsgruppen AB
 
-65. Lindström Fastigheter AB
+65\. Lindström Fastigheter AB
 
-66. Linköpings universitet
-67. LKAB
+66\. Linköpings universitet
+67\. LKAB
 
-68. Luleå kommun
+68\. Luleå kommun
 
-69. Lunds Tekniska Högskola
-70. Länsstyrelsen Gävleborg
+69\. Lunds Tekniska Högskola
+70\. Länsstyrelsen Gävleborg
 
-71. Länsstyrelsen i Hallands län
-72. Länsstyrelsen i Jönköpings län
+71\. Länsstyrelsen i Hallands län
+72\. Länsstyrelsen i Jönköpings län
 
-73. Länsstyrelsen Västerbotten
+73\. Länsstyrelsen Västerbotten
 
-74. Malmö kommun
-75. Miljömärkning Sverige AB
+74\. Malmö kommun
+75\. Miljömärkning Sverige AB
 
-76. MKB
+76\. MKB
 
-77. Moelven
-78. Naijbygg AB
+77\. Moelven
+78\. Naijbygg AB
 
 3 (8)
 
 <!-- sida 13 -->
 
-79. Naturskyddsföreningen
+79\. Naturskyddsföreningen
 
-80. Naturvårdsverket
-81. NCC
+80\. Naturvårdsverket
+81\. NCC
 
-82. Nordmaling kommun
-83. Näringslivets regelnämnd
+82\. Nordmaling kommun
+83\. Näringslivets regelnämnd
 
-84. Obos Sverige
+84\. Obos Sverige
 
-85. Peab Sverige AB
-86. Petersson & Hansson Byggnads AB
+85\. Peab Sverige AB
+86\. Petersson & Hansson Byggnads AB
 
-87. Plåt & Ventföretagen
+87\. Plåt & Ventföretagen
 
-88. Regelrådet
-89. Region Kalmar län
+88\. Regelrådet
+89\. Region Kalmar län
 
-90. Region Skåne
+90\. Region Skåne
 
-91. Region Stockholm
-92. Region Västernorrland
+91\. Region Stockholm
+92\. Region Västernorrland
 
-93. Riksbyggen ekonomisk förening
-94. RISE Research Institutes of Sweden AB
+93\. Riksbyggen ekonomisk förening
+94\. RISE Research Institutes of Sweden AB
 
-95. Ronneby kommun
+95\. Ronneby kommun
 
-96. Saint-Gobain Sweden AB
-97. Samhällsbyggarna
+96\. Saint-Gobain Sweden AB
+97\. Samhällsbyggarna
 
-98. Sandviken kommun
+98\. Sandviken kommun
 
-99. Sandvikenhus AB
-100. Skanska Sverige AB
+99\. Sandvikenhus AB
+100\. Skanska Sverige AB
 
-101. Skellefteå kommun
-102. Smart Built Environment
+101\. Skellefteå kommun
+102\. Smart Built Environment
 
-103. Småföretagarnas riksförbund
+103\. Småföretagarnas riksförbund
 
-104. Småkom
-105. Sollefteå kommun
+104\. Småkom
+105\. Sollefteå kommun
 
-106. Solna kommun
+106\. Solna kommun
 
-107. Specialfastigheter Sverige Aktiebolag
-108. Statens centrum för arkitektur och design, ArkDes
+107\. Specialfastigheter Sverige Aktiebolag
+108\. Statens centrum för arkitektur och design, ArkDes
 
 4 (8)
 
 <!-- sida 14 -->
 
-109. Statens energimyndighet
+109\. Statens energimyndighet
 
-110. Statens fastighetsverk
-111. Statens geotekniska institut, SGI
+110\. Statens fastighetsverk
+111\. Statens geotekniska institut, SGI
 
-112. Statskontoret
-113. Stockholm kommun
+112\. Statskontoret
+113\. Stockholm kommun
 
-114. Stockholms internationella miljöinstitut, SEI
+114\. Stockholms internationella miljöinstitut, SEI
 
-115. Stockholms tingsrätt (mark- och miljödomstolen)
-116. Strömstad kommun
+115\. Stockholms tingsrätt (mark- och miljödomstolen)
+116\. Strömstad kommun
 
-117. Stålbyggnadsinstitutet
+117\. Stålbyggnadsinstitutet
 
-118. Svensk Betong
-119. Svensk Byggplåt
+118\. Svensk Betong
+119\. Svensk Byggplåt
 
-120. Svensk Byggtjänst
+120\. Svensk Byggtjänst
 
-121. Svensk Ventilation
-122. Svenska Byggnadsarbetareförbundet (Byggnads)
+121\. Svensk Ventilation
+122\. Svenska Byggnadsarbetareförbundet (Byggnads)
 
-123. Svenska teknik- och designföretagen
-124. Svenskt Näringsliv
+123\. Svenska teknik- och designföretagen
+124\. Svenskt Näringsliv
 
-125. Svenskt Trä
+125\. Svenskt Trä
 
-126. Sveriges advokatsamfund
-127. Sveriges Allmännytta
+126\. Sveriges advokatsamfund
+127\. Sveriges Allmännytta
 
-128. Sveriges Arkitekter
+128\. Sveriges Arkitekter
 
-129. Sveriges Bergmaterialindustri
-130. Sveriges Färg och Lim Företagare
+129\. Sveriges Bergmaterialindustri
+130\. Sveriges Färg och Lim Företagare
 
-131. Sveriges Kommuner och Regioner, SKR
-132. Sweco AB
+131\. Sveriges Kommuner och Regioner, SKR
+132\. Sweco AB
 
-133. Swedavia AB
+133\. Swedavia AB
 
-134. Sweden Green Building Council
-135. Swedisol
+134\. Sweden Green Building Council
+135\. Swedisol
 
-136. Teknikföretagen
+136\. Teknikföretagen
 
-137. Thomas Betong AB
-138. Tillväxtverket
+137\. Thomas Betong AB
+138\. Tillväxtverket
 
 5 (8)
 
 <!-- sida 15 -->
 
-139. Trafikverket
+139\. Trafikverket
 
-140. Tranås kommun
-141. Trelleborg kommun
+140\. Tranås kommun
+141\. Trelleborg kommun
 
-142. Trä- och Möbelföretagen, TMF
-143. Träbyggnadskansliet
+142\. Trä- och Möbelföretagen, TMF
+143\. Träbyggnadskansliet
 
-144. Turessons Bygg AB
+144\. Turessons Bygg AB
 
-145. Tyréns Sverige AB
-146. Uddevalla kommun
+145\. Tyréns Sverige AB
+146\. Uddevalla kommun
 
-147. Umeå kommun
+147\. Umeå kommun
 
-148. Upphandlingsmyndigheten
-149. Vallentuna kommun
+148\. Upphandlingsmyndigheten
+149\. Vallentuna kommun
 
-150. Varberg kommun
+150\. Varberg kommun
 
-151. Vasakronan AB
-152. Villaägarnas riksförbund
+151\. Vasakronan AB
+152\. Villaägarnas riksförbund
 
-153. VVS-fabrikanternas råd
-154. Värends Entreprenad AB
+153\. VVS-fabrikanternas råd
+154\. Värends Entreprenad AB
 
-155. Världsnaturfonden WWF
+155\. Världsnaturfonden WWF
 
-156. Värnamo Kommun
-157. Wallenstam AB
+156\. Värnamo Kommun
+157\. Wallenstam AB
 
-158. Wenercon AB
+158\. Wenercon AB
 
-159. White arkitekter Aktiebolag
-160. WSP Sverige AB
+159\. White arkitekter Aktiebolag
+160\. WSP Sverige AB
 
-161. Åhlin & Ekeroth AB
-162. Åmål kommun
+161\. Åhlin & Ekeroth AB
+162\. Åmål kommun
 
-163. Åre kommun
+163\. Åre kommun
 
-164. Östberg Group AB
+164\. Östberg Group AB
 Remissvaren ska ha kommit in till Landsbygds- och
 
 infrastrukturdepartementet senast den 31 maj 2024. Svaren bör lämnas per
@@ -1465,9 +1465,9 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                              18
 
-1. Denna lag träder i kraft den 1 juli 2025.
+1\. Denna lag träder i kraft den 1 juli 2025.
 
-2. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
+2\. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
 om bygglov har kommit in till byggnadsnämnden före ikraftträdandet.
 
 Boverket
@@ -1540,7 +1540,7 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                              22
 
-1. Denna förordning träder i kraft den 1 juli 2025.
+1\. Denna förordning träder i kraft den 1 juli 2025.
 
 Boverket
 
@@ -1555,7 +1555,7 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                              23
 
-2. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
+2\. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
 om bygglov har kommit in till byggnadsnämnden före ikraftträdandet.
 
 Förslag till lag om ändring i plan- och bygglagen
@@ -1637,9 +1637,9 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                              27
 
-1. Denna lag träder i kraft den 1 januari 2027.
+1\. Denna lag träder i kraft den 1 januari 2027.
 
-2. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
+2\. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
 om bygglov har kommit in till byggnadsnämnden före ikraftträdandet.
 
 Förslag till förordning om ändring i förordning
@@ -1682,9 +1682,9 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                              29
 
-1. Denna förordning träder i kraft den 1 januari 2027.
+1\. Denna förordning träder i kraft den 1 januari 2027.
 
-2. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
+2\. Äldre bestämmelser gäller fortfarande för byggnader för vilka ansökan
 om bygglov har kommit in till byggnadsnämnden före ikraftträdandet.
 
 Boverket
@@ -2967,7 +2967,7 @@ kande rättsakter, till vägledande strategier och initiativ inom områden där
 EU inte har en lagstiftningsrätt. Den gröna given presenterades i decem-
 ber 2019, och innebär att EU nu jobbar för att vara klimatneutralt till
 
-2050. Ett delmål är att minska utsläppen med minst 55 procent till år
+2050\. Ett delmål är att minska utsläppen med minst 55 procent till år
 2030, jämfört med 1990.
 
 EU-förordningar är direkt verkande rättsakter. Det innebär att de blir di-
@@ -3058,7 +3058,7 @@ Gränsvärde för byggnaders klimatpåverkan                              56
 EN 15978 revideras nu av CEN/TC 350/WG 128, och nästa steg i standar-
 diseringsprocessen bedöms att kunna äga rum i april 2023. Revideringen
 av standarden har inneburit att det har fattats beslut om att dela upp EN
-15978. Och den version som snart kommer är prEN 15978–1 “Sustaina-
+15978\. Och den version som snart kommer är prEN 15978–1 “Sustaina-
 
 bility of construction works - Methodology for the assessment of perfor-
 mance of buildings - Part 1: Environmental Performance”.
@@ -3162,7 +3162,7 @@ förändringarna och för att avgöra om den ekonomiska verksamheten inte orsaka
 betydande skada för något av de andra miljömålen.
 33 Proposal for a directive of the European parliament and of the Council on the energy
 performance of buildings (recast). Brussels, 15.12.2021 COM(2021) 802 final. EUR-Lex
-- 52021PC0802 - EN - EUR-Lex (europa.eu). Hämtad 2023-05-02.
+\- 52021PC0802 - EN - EUR-Lex (europa.eu). Hämtad 2023-05-02.
 
 Boverket
 
@@ -3442,20 +3442,20 @@ dant krav var dock inte förenligt med EU:s byggproduktförordning
 Boverket lämnade ett förslag till Regeringskansliet som i korthet innebär
 tre olika alternativ:
 
-1. Ett krav på en loggbok ska införas omgående, för att skapa ett sy-
+1\. Ett krav på en loggbok ska införas omgående, för att skapa ett sy-
 stem där det blir möjligt att i framtiden inkludera utökade krav
 från kemikalieinspektionen om byggprodukter. Sverige driver
 samtidigt frågan om ändringar i EU:s byggproduktförordning,
 
 som innebär att kemiska innehåll i byggprodukter ska redovisas.
-2. Regeringen driver först frågan mot EU kommissionen om att
+2\. Regeringen driver först frågan mot EU kommissionen om att
 EU:s byggproduktförordning ska ställa krav på en redovisning av
 
 byggprodukternas kemiska innehåll och inför därefter nationella
 regler när det med en rimlig säkerhet kan bedömas att så blir fal-
 let.
 
-3. Sverige avvaktar med regleringen, och inför en mer heltäckande
+3\. Sverige avvaktar med regleringen, och inför en mer heltäckande
 lagstiftning vid den tidpunkt då EU:s byggproduktförordning
 medger det.
 
@@ -3497,11 +3497,11 @@ gelverket ännu inte hade trätt i kraft.
 
 Förslag 2025
 
-1. Gränsvärden införs 2025 för byggnaders klimatpåverkan för modul
+1\. Gränsvärden införs 2025 för byggnaders klimatpåverkan för modul
 A1–A5 i kg CO2 /m2 BTA, för de byggnader som uppförs och omfat-
 e
 tas av regler om klimatdeklarationer för byggnader.
-2. Kravet gäller, att klimatpåverkan inte får överstiga gränsvärdet för
+2\. Kravet gäller, att klimatpåverkan inte får överstiga gränsvärdet för
 byggnaden som ska uppföras – där en ansökan om bygglov kommer
 in till byggnadsnämnden efter att reglerna trätt i kraft. Reglerna före-
 
@@ -3561,12 +3561,12 @@ Finland avser att införa både en klimatdeklaration och ett gränsvärde
 2025, för alla byggnader där det krävs en energideklaration. Byggnader
 
 delas upp i tre olika grupper:
-1. Byggnader som omfattas av krav på en klimatdeklaration och gräns-
+1\. Byggnader som omfattas av krav på en klimatdeklaration och gräns-
 
 värden.
-2. Byggnader som endast behöver en klimatdeklaration.
+2\. Byggnader som endast behöver en klimatdeklaration.
 
-3. Byggnader som undantas krav på klimatdeklaration.
+3\. Byggnader som undantas krav på klimatdeklaration.
 Norge introducerade en obligatorisk klimatdeklaration under 2022, men
 
 det är oklart när eventuella gränsvärden kommer att införas.
@@ -3896,12 +3896,12 @@ standa samt byggnadens form.
 
 • Byggnader delas in i två huvudsakliga grupper. De två grupperna är:
 
-1. Relativt homogena byggnadstyper där robusta referensvärden finns
+1\. Relativt homogena byggnadstyper där robusta referensvärden finns
 vid introduktionen av gränsvärdena – småhus, flerbostadshus, kon-
 torsbyggnad, förskola, utbildning exklusive förskola, samt specialbo-
 stad.
 
-2. Övriga byggnadstyper där robusta referensvärden ännu inte finns vid
+2\. Övriga byggnadstyper där robusta referensvärden ännu inte finns vid
 
 introduktionen av gränsvärdena.
 
@@ -3991,7 +3991,7 @@ Gränsvärde för byggnaders klimatpåverkan                              73
 
 undantas från kravet på en klimatdeklaration. Industrier och lager står för
 en förhållandevis hög andel av de byggnadstyper som inte går in i grupp
-1. Byggnader för industriändamål är dock undantagna från kravet på en
+1\. Byggnader för industriändamål är dock undantagna från kravet på en
 klimatdeklaration och samma undantagsregel föreslås även att gälla då
 gränsvärden introduceras. Andra exempel på byggnader som undantas
 från kravet på en klimatdeklaration är byggnader där Trafikverket är
@@ -4004,7 +4004,7 @@ innefatta mycket klimatdrivande konstruktioner. Andra exempel på un-
 dantag är byggnader avsedda för totalförsvaret och byggnader av bety-
 
 delse för Sveriges säkerhet. Profilbyggnader kan komma att ingå i grupp
-2. Men det är rimligt att dessa omfattas av ett krav på ett gränsvärde, ba-
+2\. Men det är rimligt att dessa omfattas av ett krav på ett gränsvärde, ba-
 serat på signaler från branschen. Bedömningen är att det behövs en grupp
 2 där gränsvärdet sätts med en högre marginal tills vidare, eftersom pro-
 filbyggnader är mer unika. Det innebär dock att samtliga byggnader kan
@@ -4370,7 +4370,7 @@ klimatpåverkan från deras produkter i storleksordningen 50 procent till
 2030, både genom bättre produktionsprocesser och genom en bättre
 materialoptimering i enskilda byggprojekt. Figuren visar bland annat att
 en halvering av klimatpåverkan för dessa material förväntas till senast
-2030. Se mer detaljer i bilaga 4.
+2030\. Se mer detaljer i bilaga 4.
 
 Vilken utveckling av klimatpåverkan kan vi förvänta oss i hela
 byggbranschen, baserat på åtgärder i hela värdekedjan?
@@ -5658,7 +5658,7 @@ verkan, så att åtgärder kan vidtas för att minska klimatpåverkan.
 Följande typer av ändringar identifierades som önskvärda att få med i re-
 gleringen, när det gäller att åstadkomma en klimatnytta:
 
-1. Åtgärder som innebär en hög klimatpåverkan som till exempel
+1\. Åtgärder som innebär en hög klimatpåverkan som till exempel
 fönsterbyten, förnyelse av installationer samt större ingrepp i ytter-
 väggar och bärande konstruktioner på grund av energiskäl. Det är
 önskvärt att regelverket styr både till produktval och lösningar med
@@ -5668,15 +5668,15 @@ sättning av energiglasrutor i stället för att byta hela fönster och utbyte
 av delar i stället för hela installationssystem, om skillnaden i energi-
 prestanda inte är påtaglig.
 
-2. Åtgärder som innebär en ändring från exempelvis kontor till lägen-
+2\. Åtgärder som innebär en ändring från exempelvis kontor till lägen-
 heter, då förhållandevis stora mängder material rivs ut respektive
 sätts in på nytt.
 
-3. Hyresgästanpassningar i kontorsbyggnader då stora materialresurser
+3\. Hyresgästanpassningar i kontorsbyggnader då stora materialresurser
 rivs ut och ersätts i förtid. Det vore önskvärt att regelverket styrde
 mot att begränsa frekvensen av sådana renoveringar.
 
-4. Omfattande genomföranden av ”standardhöjande åtgärder” vid reno-
+4\. Omfattande genomföranden av ”standardhöjande åtgärder” vid reno-
 vering av flerbostadshus, då stora materialresurser rivs ut och ersätts i
 
 förtid. Det är önskvärt att regelverket styr mot en försiktig renovering
@@ -5854,7 +5854,7 @@ denna del.
 
 En ändring av en byggnad likställs metodmässigt med nyproduktion (A1–
 A5) enligt den europeiska beräkningsstandarden för byggnader EN
-15978. De byggnadsdelar som kvarstår vid ändringen är ”gratis” för den
+15978\. De byggnadsdelar som kvarstår vid ändringen är ”gratis” för den
 nya investeringsperioden för byggnaden. Man kan därigenom säga att cir-
 kuläritet gynnas, då en försiktig renovering kommer att generera en be-
 
@@ -5905,7 +5905,7 @@ matdeklarationer än så länge. Med tanke på detta kan det vara relevant att
 sätt som man gjort vid uppförande av byggnader, och inte introducera det
 alltför komplext från början. Å andra sidan har ju regelverket redan nu
 lett till att infrastrukturen redan är uppbyggd för klimatberäkningar till
-2025. Den kommer ju då även att kunna användas av aktörerna som arbe-
+2025\. Den kommer ju då även att kunna användas av aktörerna som arbe-
 tar med renovering.
 
 Andra systemgränser som övervägts
@@ -9919,7 +9919,7 @@ Samtidigt är den samlade bedömningen att hela branschen verkligen öns-
 kar det utvecklade regelverket, inte minst med gränsvärden. Hälften av de
 svarande på enkäten ansåg att de hade velat se skarpare krav än de före-
 slagna nivåerna för gränsvärden, vid den hearing som hölls i augusti
-2022. Det finns även exempel på kostnadseffektiva nybyggnadskoncept
+2022\. Det finns även exempel på kostnadseffektiva nybyggnadskoncept
 
 som hamnar betydligt lägre redan idag än de föreslagna nivåerna för
 gränsvärden. Det har skett en snabb utveckling vad gäller utvecklingen av
@@ -10066,7 +10066,7 @@ som är kopplad till Miljöbalken. Den reglerar att miljösanktionsavgift ska
 
 betalas om till exempel
 
--  en avloppsanordning inrättats utan tillstånd, trots att sådant till-
+\-  en avloppsanordning inrättats utan tillstånd, trots att sådant till-
 stånd krävs (3 kap. 1 §).
 
 Boverket
@@ -10075,7 +10075,7 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                             182
 
--  ett fartyg har använt marint bränsle, som enligt svavelförord-
+\-  ett fartyg har använt marint bränsle, som enligt svavelförord-
 ningen har för hög svavelhalt (7 kap. 17 §).
 Plan- och bygglagen (2010:900)
 
@@ -10580,7 +10580,7 @@ gångsregler. Det är förtydliganden om det tekniska samrådet som kan
 börja tillämpas direkt på ärenden med en koppling till klimatdeklarat-
 ioner. Boverket har haft vägledning i ämnet i handboken PBL kunskaps-
 banken, sedan reglerna om klimatdeklaration trädde i kraft den 1 januari
-2022.
+2022\.
 
 Förslag till lag om ändring i lag (2021:787) om
 klimatdeklaration för byggnader
@@ -10925,7 +10925,7 @@ TEXT01.pdf
 
 Erlandsson, M., & Pettersson, D. (2015). Klimatpåverkan för byggnader
 med olika energiprestanda. IVL underlagsrapport till kontrollstation
-2015.
+2015\.
 
 European Committee for Standardization. (2017). EN 16757 - Sustaina-
 bility of construction works – Environmental product declarations –
@@ -10939,7 +10939,7 @@ om-eu-forslag/revidering-av-byggproduktforordningen_H906FPM82
 Finnish Ministry of the Environment. (2019). Method for the whole life
 carbon assessment of buildings. https://julkaisut.valtioneuvosto.fi/bit-
 stream/handle/10024/161796/YM_2019_23_Method_for_the_whole_life
-_carbon_assessment_of_buildings.pdf?sequence=1&isAllowed=y
+\_carbon_assessment_of_buildings.pdf?sequence=1&isAllowed=y
 
 Francart, N., Widström, T., & Malmqvist, T. (2021). Influence of meth-
 odological choices on maintenance and replacement in building LCA. In-
@@ -11691,7 +11691,7 @@ skikt, från fast inredning, från installationer, samt från A5 energi. Vär-
 dena för flerbostadshus har använts för specialbostäder, vilket troligtvis
 
 är i underkant. Resultaten för de enskilda byggnaderna presenteras i figur
-20.
+20\.
 
 Följande organisationer har bidragit med klimatberäkningar – Stadsfas-
 tigheter Malmö, Lokalförvaltningen i Göteborg, IVL, Västfastigheter,
@@ -12220,7 +12220,7 @@ projekt” där samtliga klassificeras som små eller medelstora företag
 (small and medium-sized enterprises (SME)).
 
 Tabell 12. Utvecklare av byggprojekt (SNI 41.1) antal företag efter storlek,
-2021. Källa: Statistiska centralbyrån, företagsdatabas.
+2021\. Källa: Statistiska centralbyrån, företagsdatabas.
 
 Stora byggherrar som bedriver näringsverksamhet och inte inkluderas i
 SNI-kod 41.1, är exempelvis Familjebostäder och Svenska bostäder.
@@ -12511,7 +12511,7 @@ hus och en skolbyggnad har därmed fått en uppdaterad resurssammanställning
 och ett flerbostadshus har fått uppdaterad BTA och Atemp. Dessa ändringar
 har inneburit att referensvärden för vissa byggnadstyper har behövt justeras.
 KTH publicerade därför en uppdaterad referensvärdesrapport6 i november
-2023.
+2023\.
 
 5 Se mer om metoden att sätta gränsvärde för denna grupp längre fram i dokumentet.
 6 Malmqvist, T., Borgström, S., Brismark, J., & Erlandsson, M. (2023). Referensvärden för klimatpåver-

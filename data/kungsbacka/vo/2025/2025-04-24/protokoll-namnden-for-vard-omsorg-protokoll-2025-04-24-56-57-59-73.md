@@ -217,7 +217,7 @@ Sammanfattning av ärendet
 
 Ordförande Hravn Forsne (M) anmäler ett ärende till dagens sammanträde.
 
--  Initiativärende från Ermin Škorić (S) m.fl. - oannonserade kontroller av vård-
+\-  Initiativärende från Ermin Škorić (S) m.fl. - oannonserade kontroller av vård-
 och omsorgsboendena Vickan och Ekhaga.
 
 Beslutsgång
@@ -882,14 +882,14 @@ helhetsbild eftersom nämndens förtroendevalda ytterst ansvarar för stöd, vå
 omsorg i kommunen.
 
 Förslag till beslut
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan
 för genomförande om oannonserade kontroller för aktuell avtalsperiod av
 vård- och omsorgsboendena Vickan och Ekhaga som MAS, SAS och MAR
 genomför och redovisar på ett självständigt sätt till nämnden för Vård &
 Omsorg.
 
-2. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
-3. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda
+2\. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
+3\. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda
 
 oannonserade kontroller.
 
@@ -1047,7 +1047,7 @@ Sammanfattning av ärendet
 
 Förvaltningen för Vård & Omsorg har utformat nytt uppdrag för Qvalify ABs
 granskning av Vickan- och Ekhaga omsorgsboenden, Vardaga Äldreomsorg AB
-2025.
+2025\.
 
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2025-04-03
@@ -1271,7 +1271,7 @@ Datum
 § 72                       Dnr VO-2025-00003
 Information från förvaltningen 2025
 
--
+\-
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB

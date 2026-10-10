@@ -395,13 +395,13 @@ Liberalerna med ett initiativärende Feriejobb. Bakgrunden är att ge så många
 som möjlighet att få ett feriejobb och därigenom också visa kommunen som en
 attraktiv arbetsgivare. I initiativärendet yrkas på följande förslag till beslut.
 
-1. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att skapa
+1\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att skapa
 en kölista för feriejobben så att vid sena avhopp kan platsen fyllas ändå.
 
-2. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att ta
+2\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att ta
 fram arbetssätt för att unga som inte haft feriejobb i årskurs 1 på gymnasiet ska
 kunna söka feriejobb i årskurs 2.
-3. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att
+3\. Nämnden för Gymnasium & Arbetsmarknad ger förvaltningen i uppdrag att
 erbjuda fler unga feriejobb framåt.
 
 Beslutsunderlag
@@ -413,7 +413,7 @@ Förslag till beslut på sammanträdet
 Karin Green (C) lägger ett tilläggsyrkande om att förvaltningen ska undersöka om
 
 möjligheten för elever som inte haft feriearbete i åk 1 ska kunna söka feriearbete i åk
-2.
+2\.
 
 Beslutsgång
 
@@ -1005,28 +1005,28 @@ Sammanfattning av ärendet
 
 Följande skrivelser har inkommit till nämndens ledamöter och ersättare:
 
-1. Dom från Kammarrätten i Stockholm gällande rätt att ta emot delgivning
-2. Information om nationellt vårdprogram för cancerrehabilitering barn och unga
+1\. Dom från Kammarrätten i Stockholm gällande rätt att ta emot delgivning
+2\. Information om nationellt vårdprogram för cancerrehabilitering barn och unga
 
-3. Inköpsrapport 2023 från förvaltningen för Service
-4. Beslut om godkännande av inköpsrapport 2023
+3\. Inköpsrapport 2023 från förvaltningen för Service
+4\. Beslut om godkännande av inköpsrapport 2023
 
-5. Uppföljningsrapport intern kontroll 2023
-6. Beslut om godkännande av uppföljningsrapport av intern kontroll 2023
+5\. Uppföljningsrapport intern kontroll 2023
+6\. Beslut om godkännande av uppföljningsrapport av intern kontroll 2023
 
-7. Revisionsberättelse Samordningsförbundet Halland
-8. Revisionsberättelse Samordningsförbundet Halland 2023 KPMG
+7\. Revisionsberättelse Samordningsförbundet Halland
+8\. Revisionsberättelse Samordningsförbundet Halland 2023 KPMG
 
-9. Granskningsrapport 2023 Samordningsförbundet Halland
+9\. Granskningsrapport 2023 Samordningsförbundet Halland
 10: Årsredovisning Samordningsförbundet Halland
 
-11. Styrelseprotokoll Samordningsförbundet Halland 240308
-12. Uppföljande granskning- särskilt stöd i gymnasieskolan, Skriftliga frågor
+11\. Styrelseprotokoll Samordningsförbundet Halland 240308
+12\. Uppföljande granskning- särskilt stöd i gymnasieskolan, Skriftliga frågor
 
-13. Projektplan Kungsbacka - Grundläggande granskning 2024
+13\. Projektplan Kungsbacka - Grundläggande granskning 2024
 
-14. Följebrev grundläggande granskning 2023
-15. Grundläggande granskning 2023 Ernst&Young
+14\. Följebrev grundläggande granskning 2023
+15\. Grundläggande granskning 2023 Ernst&Young
 
 Beslutsgång
 

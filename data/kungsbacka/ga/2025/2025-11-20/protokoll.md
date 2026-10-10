@@ -77,7 +77,7 @@ Anna Thomander (S)
 
 Emilia Åhfelt (SD)
 
-Osama Mohamad Mesto (C) $$ 131-143
+Osama Mohamad Mesto (C) \$\$ 131-143
 Christian Däring (KD)
 
 Personalföreträdare
@@ -119,12 +119,12 @@ Cecilia Fossan, biträdande
 gymnasiechef
 
 Alexandra Cameron, utvecklare
-Stina Petersson, rektor $ 130
+Stina Petersson, rektor \$ 130
 Tobias Ramstedt, Förvaltningschef
 Utbildnings och
 Arbetsmarknadsförvaltningen Varberg
 
-$$ 129-143
+\$\$ 129-143
 
 Paragrafer
 
@@ -148,7 +148,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 129 Dnr GA-2024-00224
+\$ 129 Dnr GA-2024-00224
 Förändring av ärendelista samt val av justerare (2025)
 
 Beslut
@@ -173,7 +173,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 130 Dnr GA-2025-00092
+\$ 130 Dnr GA-2025-00092
 Verksamhetsinformation
 
 Beslut
@@ -202,7 +202,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2025-11-20
-$ 131 Dnr GA-2025-00165
+\$ 131 Dnr GA-2025-00165
 Förstudie samverkan Varberg/Kungsbacka, Fordon- och
 transportprogrammet
 Beslut
@@ -236,7 +236,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 132 Dnr GA-2025-00064
+\$ 132 Dnr GA-2025-00064
 Information - Ekonomi och måluppföljning 2025
 
 Beslut
@@ -269,7 +269,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 133 Dnr GA-2025-00159
+\$ 133 Dnr GA-2025-00159
 Intern kontrollplan 2026
 
 Beslut
@@ -311,7 +311,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 134 Dnr GA-2025-00069
+\$ 134 Dnr GA-2025-00069
 Kvartalsuppföljning av arbetsmarknadsprocessen 2025
 
 Beslut
@@ -351,7 +351,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 135 Dnr GA-2025-00126
+\$ 135 Dnr GA-2025-00126
 God och nära vård och omsorg, delårsrapport 2025
 
 Beslut
@@ -420,7 +420,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 136 Dnr GA-2025-00166
+\$ 136 Dnr GA-2025-00166
 Ansökan Trygg Uppväxt 2026
 
 Beslut
@@ -469,7 +469,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 137 Dnr GA-2025-00158
+\$ 137 Dnr GA-2025-00158
 Kapten Menns Fond
 
 Beslut
@@ -522,7 +522,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 138 Dnr GA-2025-00153
+\$ 138 Dnr GA-2025-00153
 
 Interkommunal ersättning 2026 för gymnasieskola och anpassad
 gymnasieskola
@@ -550,7 +550,7 @@ och underlaget är också avstämt med GR:s utbildningschefsnätverk
 Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-10-22
-Beslut 202500202 — GRFS $69
+Beslut 202500202 — GRFS \$69
 
 Antagningsnämndens tjänsteskrivelse, 2025-06-24
 
@@ -584,7 +584,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 139 Dnr GA-2025-00154
+\$ 139 Dnr GA-2025-00154
 Interkommunal ersättning vuxenutbildning 2026
 
 Beslut
@@ -608,20 +608,20 @@ Förslag interkommunal ersättning (IKE) för 2026
 Kronor/ poäng
 För grundläggande kurser inom vuxenutbildning
 
-- Avser både klassrumsundervisning och genom flexibel undervisning. 55
+\- Avser både klassrumsundervisning och genom flexibel undervisning. 55
 
 För teoretiska gymnasiala ämnen.
 
-- Avser både klassrumsundervisning och genom flexibel undervisning. 55
+\- Avser både klassrumsundervisning och genom flexibel undervisning. 55
 
 För grundläggande och gymnasiala ämnen på distans. 36
 
 För utbildning på vardagar i svenska för invandrare tillämpas ersättning enligt
 följande:
 
-- Studieväg 1 70
-- Studieväg 2 58
-- Studieväg 3 45
+\- Studieväg 1 70
+\- Studieväg 2 58
+\- Studieväg 3 45
 
 För gymnasiala yrkeskurser och sammanhållna yrkesutbildningar som inte regleras
 inom samverkansavtal kring vuxnas lärande i Göteborgsregionen, tillämpas bilaterala
@@ -648,7 +648,7 @@ Beslutsunderlag
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-10-22
 Göteborgsregionens tjänsteskrivelse, 2025-06-24
 
-Göteborgsregionens kommunalförbunds protokollsutdrag 28$
+Göteborgsregionens kommunalförbunds protokollsutdrag 28\$
 Göteborgsregionens prislista för interkommunal vuxenutbildning år 2026
 
 Beslutsgång
@@ -668,7 +668,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 140 Dnr GA-2024-00226
+\$ 140 Dnr GA-2024-00226
 Återrapportering av program- och verksamhetsråd (2025)
 
 Beslut
@@ -704,7 +704,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 141 Dnr GA-2024-00225
+\$ 141 Dnr GA-2024-00225
 Återrapportering av delegeringsbeslut (2025)
 
 Beslut
@@ -750,7 +750,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 142 Dnr GA-2024-00227
+\$ 142 Dnr GA-2024-00227
 Inkomna skrivelser till ledamöter och ersättare i nämnden (2025)
 
 Beslut
@@ -759,35 +759,35 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Ansökan till kommunstyrelsen: Ansökan om medel för förstärkt individuellt
+1\. Ansökan till kommunstyrelsen: Ansökan om medel för förstärkt individuellt
 socialt stöd för elever inom gymnasieskolan inom ramen för avsatta 5 miljoner
 koronor per år för att främja välmående.
 
-2. Ansökan till kommunstyrelsen: Ansökan om medel för praktikinsatser inom
+2\. Ansökan till kommunstyrelsen: Ansökan om medel för praktikinsatser inom
 anpassad gymnasieskola inom ramen för avsatta 5 miljoner kronor per år för att
 främja välmående.
 
-3. Werket månadsrapport Omsorg oktober 2025
-4. Werkets månadsrapport Arbetsmarknad oktober 2025
+3\. Werket månadsrapport Omsorg oktober 2025
+4\. Werkets månadsrapport Arbetsmarknad oktober 2025
 
-5. Beslut Skolinspektionen - tillsyn av gymnasieskolan Elof Lindälvs Gymnasium
+5\. Beslut Skolinspektionen - tillsyn av gymnasieskolan Elof Lindälvs Gymnasium
 Enhet 4
 
-6. Delårsrapport Kungsbacka kommun 2025
-7. Kommunfullmäktiges beslut om delårsrapport 2025 för Kungsbacka kommun
-8. Tjänsteskrivelse Delårsrapport Kungsbacka kommun 2025
+6\. Delårsrapport Kungsbacka kommun 2025
+7\. Kommunfullmäktiges beslut om delårsrapport 2025 för Kungsbacka kommun
+8\. Tjänsteskrivelse Delårsrapport Kungsbacka kommun 2025
 
-9. Protokollsutdrag 2025-11-04 KF $ 225 Svar på motion från Shabnam Zamani (S)
+9\. Protokollsutdrag 2025-11-04 KF \$ 225 Svar på motion från Shabnam Zamani (S)
 om att utreda införandet av avgiftsfri skolfrukost i Kungsbacka kommuns
 gymnasieskolor
 
-10. Tjänsteskrivelse Kommunfullmäktiges svar på motion från Shabnam Zamani (S)
+10\. Tjänsteskrivelse Kommunfullmäktiges svar på motion från Shabnam Zamani (S)
 om att utreda införandet av avgiftsfri skolfrukost i Kungsbacka kommuns
 gymnasieskolor
 
-11. Kommunfullmäktiges utdelning av Lära för livet-priset 2025
+11\. Kommunfullmäktiges utdelning av Lära för livet-priset 2025
 
-12. Arbetsmiljöverket - Resultat av inspektionen 23 oktober 2025 Enheten för
+12\. Arbetsmiljöverket - Resultat av inspektionen 23 oktober 2025 Enheten för
 myndighet
 
 Beslutsgång
@@ -808,7 +808,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 20 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
-$ 143 Dnr GA-2024-00228
+\$ 143 Dnr GA-2024-00228
 Förvaltningschefen informerar (2025)
 
 Beslut
@@ -818,13 +818,13 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 Sammanfattning av ärendet
 Förvaltningschef Patrik Hellberg föredrar ärendet:
 
-1. Dagab ska etablera nytt logistikcenter i Kungsbacka. Hur kan förvaltningen jobba i
+1\. Dagab ska etablera nytt logistikcenter i Kungsbacka. Hur kan förvaltningen jobba i
 takt med Dagab? Koppla det till gymnasieskolor, jobbspåret och vuxenutbildning.
 
-2. Öppet Hus på gymnasieskolorna - 1274 besökare på Lindälv och över 1300
+2\. Öppet Hus på gymnasieskolorna - 1274 besökare på Lindälv och över 1300
 besökare på Aranäs vilket är en ökning på 200-300 personer per skola.
 
-3. Nämndens verksamhetsbesök torsdag 25/11. Nämnden kommer att besöka
+3\. Nämndens verksamhetsbesök torsdag 25/11. Nämnden kommer att besöka
 Kompetenscentrum och båda gymnasieskolor, förvaltningen ser fram emot det.
 
 Beslutsgång

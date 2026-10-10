@@ -102,7 +102,7 @@ KUNGSBACKA  KOMMUN
 
 Cykelkommun
 
-*Cykelgaragets totalt förväntade bidrag och kostnad redovisas ovan. Det är osäkert kring periodisering
+\*Cykelgaragets totalt förväntade bidrag och kostnad redovisas ovan. Det är osäkert kring periodisering
 av kostnader och bidrag mellan åren 2024 och 2025.
 
 [Tabell 3-1](handlingar.tabeller/3-1.csv)
@@ -111,8 +111,8 @@ av kostnader och bidrag mellan åren 2024 och 2025.
 | --- | --- | --- | --- |
 | 3510 GC-bro över järnvägen vid Inlag | 9 200 000 kronor | Övrig | Pågående |
 | 5022 Bro Varla park (pausad) | 0 kronor | Övrig | Pausad |
-| *5048 Cykelgarage Kungsbacka station<br>(inkomst/bidrag) | -3 000 000 kronor | Övrig | Pågående |
-| *5048 Cykelgarage Kungsbacka station<br>(utgift) | 4 400 000 kronor | Övrig | Pågående |
+| \*5048 Cykelgarage Kungsbacka station<br>(inkomst/bidrag) | -3 000 000 kronor | Övrig | Pågående |
+| \*5048 Cykelgarage Kungsbacka station<br>(utgift) | 4 400 000 kronor | Övrig | Pågående |
 | 6529 Vägvisningsplan | 500 000 kronor | Övrig | Pågående |
 | 6533 GC-vägar utanför Kungsbacka stad | 5 300 000 kronor | Övrig | Pågående |
 | 6534 Kommunal belysningsanläggning<br>längs GC-väg 939 Varbergsvägen, delen<br>Torkeltorpsvägen-Hanhals Kyrkväg | 1 500 000 kronor | Övrig | Pågående |
@@ -298,12 +298,12 @@ Förvaltningen har kartlagt behovet av investeringar och reinvesteringar för at
 verksamheten och har tagit fram förslag på prioriterade projekt som ska få budgetmedel för 2025.
 Projekten är indelade i sex underportföljer:
 
-1. VA-teknik
-2. Vattenproduktion
-3. VA-ledningsnät
-4. Avloppsrening
-5. VA-omvandling
-6. Exploatering
+1\. VA-teknik
+2\. Vattenproduktion
+3\. VA-ledningsnät
+4\. Avloppsrening
+5\. VA-omvandling
+6\. Exploatering
 
 Förvaltningens prioritering är att ge förtur till pågående projekt med bundna kontrakt, eftersom det är
 både kostsamt och komplicerat att avbryta dessa jämfört med att senarelägga projekt som ännu inte har

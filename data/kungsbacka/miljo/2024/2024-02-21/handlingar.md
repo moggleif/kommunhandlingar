@@ -315,7 +315,7 @@ för våra kunder. Det har vi gjort genom så kallade innovationssprintar där v
 ett antal utvalda kunder för att bättre kunna förstå våra kunders behov och anpassa vårt arbetssätt. Vi ser också
 att insatsen har lett till ökad förståelse och ökat engagemang hos medarbetarna om vikten av att arbeta på nya
 sätt och att skapa lättillgängliga och automatiserade tjänster.
-3. GOD HÄLSA OCH VÄLBEFINNANDE
+3\. GOD HÄLSA OCH VÄLBEFINNANDE
 
 Människors hälsa står i fokus inom samtliga lagstiftningar som ryms inom Bygg- och miljöförvaltningens olika
 myndighetsuppdrag. Att våra kommuninnevånare har en god hälsa och välbefinnande är grunden i vår tillsyn
@@ -370,7 +370,7 @@ Under året har förvaltningen ökat takten och startat upp flera tillsynsärend
 gjort en omfattande ansvarsutredning. Effekten av arbetet är att vi förflyttat oss närmare målsättningen att år
 2050 ska alla prioriterade objekt med hög risk vara åtgärdade så att vi även i framtiden kan leva i en giftfri
 miljö.
-11. HÅLLBARA STÄDER OCH SAMHÄLLEN
+11\. HÅLLBARA STÄDER OCH SAMHÄLLEN
 Under året har vi börjat ett omfattande arbete mot en obruten digital samhällsbyggnadsprocess där geodata
 spelar en väsentlig och avgörande roll. Målet är att Kungsbacka kommun ska kunna fatta bättre beslut som
 skapar en mer hållbar framtid och kommun genom att använda och utnyttja den data som finns i hela
@@ -389,7 +389,7 @@ från att all byggnation ska främja hållbara städer och samhällen.
 Ett annat exempel på hur förvaltningen bidrar till målet är de kontroller utifrån ställda krav som sker vid en
 bygglovsprövning. Det kan till exempel gälla bullernivåer, energieffektivitet och infrastruktur för laddning av
 elfordon.
-13. BEKÄMPA KLIMATFÖRÄNDRINGARNA
+13\. BEKÄMPA KLIMATFÖRÄNDRINGARNA
 
 Utsläppen av växthusgaser fortsätter att stiga och som följd riskerar vi att nå en genomsnittlig global
 uppvärmning som överstiger två grader, vilket skulle få allvarliga konsekvenser för ekosystem, havsförsurning,
@@ -427,7 +427,7 @@ En informationsinsats har även skett inom bygglov där syftet var att ge råd o
 kommuninnevånare och företagare kan bidra till att minska sin energianvändning och i förlängningen till
 minskad klimatpåverkan. Med hjälp av våra insatser bidrar förvaltningen till att kommunens invånare har goda
 förutsättningar att skapa hållbar energi framåt.
-14. HAV OCH MARINA RESURSER
+14\. HAV OCH MARINA RESURSER
 
 Badvattenprovtagningen har varit i fokus under sommaren och extra provtagningar har utförts för att säkerställa
 en god badvattenkvalitet. Stor vikt har lagts på samverkan mellan förvaltningar och tydlig information till
@@ -532,18 +532,18 @@ Ombudgeteringar och resultatfond
 
 Kostnader anges med (-), belopp i tkr
 Fyll i endast er nämnds blad och justera inga summeringar. Samtliga sparar i samma arbetsbok.
-1. Driftsredovisning - begäran om resultatdisponering
+1\. Driftsredovisning - begäran om resultatdisponering
 
 I steg 1 alla nämnder/styrelse redovisar årsbudget, utfall och avvikelse i kommungemensam arbetsbok
 med nämndens blankett gul del
 Steg 2 omfattar att orsakerna till avvikelser ska klassificeras som underskott eller överskott enligt
 ekonomistyrprinciperna i kommungemensam arbetsbok nämndens blankett grön del. För överskott
 används olika typer enligt nedan:
-* Typ 1 – planerad verksamhet har inte utförts - återredovisas
-* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
+\* Typ 1 – planerad verksamhet har inte utförts - återredovisas
+\* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
 
-* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
-* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
+\* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
+\* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
 
 I steg 3 redovisas nämndens begäran om resultatdisponering (blankett blå del).
 
@@ -595,7 +595,7 @@ utbildningar/studiebesök. För att möjliggöra
 viktig kompetensutveckling för ledamöter
 och ersättare begär nämnden att
 projektmedel för utbildning ombudgeteras till
-2024.
+2024\.
 
 Förslag        0     325      8
 
@@ -635,7 +635,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Byggnadsnämnden beslutade 2024-01-18 att godkänna underlag till kommunbudget 2025, plan 2026–
-2027.
+2027\.
 Varje nämnd ska inkomma med underlag till kommunbudget 2025, plan 2026–2027 till kommunens
 centrala budgetberedning. Underlaget ska vara kortfattat och beskriva nämndens möjligheter,
 utmaningar, förändringar och vad som kan göras annorlunda inom olika verksamhetsområden.

@@ -1178,11 +1178,11 @@ Förslag till beslut i Kommunfullmäktige
 •  Nämnden för Teknik beslutar att anta förslag till ramar för 2026, enligt följande och skicka
 dessa vidare till Kommunfullmäktige för fastställelse, belopp i prisnivå 2025.
 
-* Skattefinansierad verksamhet 76 500 000 kr
-* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
+\* Skattefinansierad verksamhet 76 500 000 kr
+\* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
 
-* Avfall och Återvinning 59 000 000kr
-* Kungsbacka bredbandsnät 22 000 000 kr
+\* Avfall och Återvinning 59 000 000kr
+\* Kungsbacka bredbandsnät 22 000 000 kr
 
 •  Nämnden för Teknik beslutar att anta förslag till ramar för utgiftsområden för 2026-2030 med
 utblick mot 2031-2035 enligt följande och skickar dessa vidare till kommunfullmäktige för
@@ -1219,13 +1219,13 @@ respektive ekonomi i enlighet med denna tjänsteskrivelse.
 
 •  Nämnden för Teknik beslutar att exkludera följande projekt ur investeringsplanen. Detta för att
 inte låsa upp ekonomiska medel i projekt som är osäkra i tid. Exkluderingen avser projekten:
-* ombyggnation av väg 940 (nuvarande Onsalaväg)
+\* ombyggnation av väg 940 (nuvarande Onsalaväg)
 
-* utbyggnation av Arendalsleden till fyra körfält, delen Varlavägen - Göteborgsvägen
-* utbyggnation av Kungsgatan till fyra körfält/ kollektivtrafikkörfält, delen Kungsgatan -
+\* utbyggnation av Arendalsleden till fyra körfält, delen Varlavägen - Göteborgsvägen
+\* utbyggnation av Kungsgatan till fyra körfält/ kollektivtrafikkörfält, delen Kungsgatan -
 Onsalavägen
 
-* utbyggnation av Varlavägen till fyra körfält delen Tölö tvärled - Arendalsleden
+\* utbyggnation av Varlavägen till fyra körfält delen Tölö tvärled - Arendalsleden
 
 Sammanfattning av ärendet
 
@@ -1279,10 +1279,10 @@ möjligheten att bygga fyra körfält längs Arendalsleden mellan Varlavägen oc
 Åtgärder som är identifierade men inte medtagna i investeringsplanen på grund av att de är mycket
 osäkra i tid och kostnad är:
 
--  Fyra körfält längs Varlavägen, delen Tölö tvärled – Arendalsleden
--  Fyra körfält/kollektivtrafikkörfält längs Kungsgatan, delen Varlavägen – Onsalavägen
+\-  Fyra körfält längs Varlavägen, delen Tölö tvärled – Arendalsleden
+\-  Fyra körfält/kollektivtrafikkörfält längs Kungsgatan, delen Varlavägen – Onsalavägen
 
--  Fyra körfält längs Arendalsleden, delen Varlavägen – Göteborgsvägen
+\-  Fyra körfält längs Arendalsleden, delen Varlavägen – Göteborgsvägen
 Alla dessa omfattande projekt, vilka samtliga har stor trafikpåverkan gör att förvaltningen längre fram
 behöver lägga ett pussel utifrån trafikpåverkan som respektive projekt har på den totala
 trafiksituationen i Kungsbacka stad. Förvaltningen för Teknik har ett ansvar utifrån sin roll som
@@ -1678,12 +1678,12 @@ verksamheten och har tagit fram förslag på prioriterade projekt som ska få bu
 Omfördelningar mellan portföljer och omprioritering av projekt har genomförts utifrån beslutad
 investeringsram från juni 2024. Projekten är indelade i sex underportföljer:
 
-1. VA-teknik
-2. Vattenproduktion
-3. VA-ledningsnät
-4. Avloppsrening
-5. VA-omvandling
-6. Exploatering
+1\. VA-teknik
+2\. Vattenproduktion
+3\. VA-ledningsnät
+4\. Avloppsrening
+5\. VA-omvandling
+6\. Exploatering
 
 Förvaltningens prioritering är att ge förtur till pågående projekt med bundna kontrakt, eftersom det är
 både kostsamt och komplicerat att avbryta dessa jämfört med att senarelägga projekt som ännu inte har
@@ -2151,7 +2151,7 @@ frågeställningen till om det är förvaltningen för Teknik eller privata akt�
 laddningsstationer i kommunen framöver? Syftet med rapporten är att beskriva nuläget, möjliga
 
 Strategi för utbyggnad och förvaltning samt det ekonomiska perspektivet.
-__________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Figur för begreppsförtydligande
 
@@ -2284,19 +2284,19 @@ kommun bor ca 67 % av invånarna i eget hus och kan därmed installera en egen l
 till sitt hus1.
 Utvecklingen och etableringen av publik laddinfrastruktur är viktig för:
 
--  De som inte har möjlighet till en egen laddbox vid sitt boende
--  De som laddar under tiden de arbetar
--  Samtliga elbilsägare att kunna stödladda vid behov
+\-  De som inte har möjlighet till en egen laddbox vid sitt boende
+\-  De som laddar under tiden de arbetar
+\-  Samtliga elbilsägare att kunna stödladda vid behov
 
 PUBLIK LADDINFRASTRUKTUR I KUNGSBACKA STAD IDAG
 
--  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
+\-  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
 
 laddeffekt. De ljusorangea har låg laddeffekt, 3,7 kW, de orangea har en laddeffekt på 11 kW
 eller 22 kW (AC-laddare).
--  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
+\-  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
 laddare)
--  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
+\-  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
 fastighetsägares mark, såsom Circle K, Recharge McDonalds Onsalamotet, OKQ8, Allego
 
 Hedebrovägen och Vattenfall Hede Kungsbacka (150–300 kW)
@@ -2342,12 +2342,12 @@ AFIR som är det nya EU-regelverket för publik laddinfrastruktur började skarp
 och innebär bland annat en ambitionshöjning inom EU och kommer att reglera utbyggnaden av
 laddinfrastruktur.
 
-- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
+\- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
 vägarna
-- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
+\- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
 behöva teckna avtal)
-- Krav på kortbetalning för nya snabbladdare
-- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
+\- Krav på kortbetalning för nya snabbladdare
+\- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
 
 PRIVAT MARK
 
@@ -2612,7 +2612,7 @@ KONSEKVENSER
 
 14
 
-- Kan gå i konkurs, avveckla eller på annat sätt
+\- Kan gå i konkurs, avveckla eller på annat sätt
 upphöra med att leverera tjänsten.
 KONSEKVENSER
 
@@ -2731,38 +2731,38 @@ KOMPLETTERANDE     INFORMATION     OM  STRATEGIERNA
 STRATEGI 1
 
 Arbetsuppgifter för Teknik
--  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
--  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
+\-  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
+\-  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
 
 platser för ny laddinfrastruktur i kommunen närmare
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
+\-  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
 
--  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
--  Kartportalen, uppdatera med ny laddinfrastruktur
--  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
+\-  Kartportalen, uppdatera med ny laddinfrastruktur
+\-  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
 
 STRATEGI 2
 
 Arbetsuppgifter för Teknik
--  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
+\-  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
 och lämpliga platser
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
 
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna inkomna ansökningar
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna inkomna ansökningar
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
 
 Ny laddinfrastruktur
 Förvaltningen för Tekniken går ut med en upphandling på specifika platser och hur många
@@ -2796,30 +2796,30 @@ Färger i kartan vad som är ledigt och ansökningsbart samt vilka platser som �
 STRATEGI 3
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet.
--  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
 
 STRATEGI 4
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna och driva processen framåt
--  Koppla ihop aktören med rätt elnätsägare
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna och driva processen framåt
+\-  Koppla ihop aktören med rätt elnätsägare
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
 
 “Stockholmsmodellen”
 I Stockholm kan aktörer ansöka om 30 platser per ansökan för att etablera laddinfrastruktur. Det finns
@@ -2988,7 +2988,7 @@ Beskrivning av ärendet
 Bakgrund
 
 Förvaltningen för Teknik fick i uppdrag att etablera laddinfrastruktur i kommunen mellan åren 2016 till
-2018. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
+2018\. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
 har enbart ett fåtal publika laddpunkter etablerats i kommunal regi.
 
 Nuläge
@@ -3317,7 +3317,7 @@ Beskrivning av ärendet
 Förutom att riktlinjerna har arbetats om med syfte att bli mer lättförståeliga, har nedanstående förändringar
 av innebörden gjorts.
 
-1. Tas bort: inriktningen är att ansluta 150-200 fastigheter via avtal.
+1\. Tas bort: inriktningen är att ansluta 150-200 fastigheter via avtal.
 
 Meningen föreslås tas bort med tanke på de begränsade möjligheterna till vattenuttag från Lygnern
 och att vi därför främst behöver prioritera anslutningar för dem inom verksamhetsområden där ju
@@ -3338,7 +3338,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (7)
 
-2. Förtydligande: I gällande riktlinjer står att en förening ska bildas av fastighetsägarna om det är
+2\. Förtydligande: I gällande riktlinjer står att en förening ska bildas av fastighetsägarna om det är
 fem fastigheter eller fler som ska anslutas.
 
 Förslag till ny text ”En förening ska bildas om det är eller förväntas bli fem eller fler fastigheter som ska
@@ -3375,7 +3375,7 @@ Vår starka rekommendation, som vi vill manifestera i riktlinjen, är därför a
 fastighetsägare som ska ansluta sig och som förväntas växa i antal med tiden, bildar en förening redan
 från början.
 
-3. Nytt på grund av nya arbetssätt:
+3\. Nytt på grund av nya arbetssätt:
 
 Vi har tagit bort en skrivelse om att ”om det är mer än 80 meter från förbindelsepunkt till
 byggnaden eller fastigheten som ska anslutas krävs en vattenmätarbrunn”. Mer än 80 meter
@@ -3490,7 +3490,7 @@ ansvarsområde för kommunalt vatten. Under de senaste åren har ett tiotal läc
 verksamhetsområde upptäckts årligen. Under 2024 motsvarade utläckaget ca 43 000 m3 vatten. Ett
 vanligt hushåll gör av med ungefär 150 m3 vatten per år.
 
-4. Nytt: i gällande riktlinjer står att vi fakturerar fastighetsägaren samtidigt som förbindelsepunkten
+4\. Nytt: i gällande riktlinjer står att vi fakturerar fastighetsägaren samtidigt som förbindelsepunkten
 upprättas. Det föreslås ändras till att anläggningsavgift ska få tas ut så fort avtalet är påskrivet dvs
 tidigare än när punkten förmedlas. Sidhänvisning innevarande riktlinje; sidan 5. Sidhänvisning
 riktlinjer för beslut; sidan 5.
@@ -3544,7 +3544,7 @@ Om nämnden vill fakturera vid annat tillfälle, kan framtagande och utformning 
 2025, likaså framtagande av processer för fakturering av anslutningen. Arbetssättet skulle då kunna
 träda i kraft tidigast under 2026.
 
-5. Nytt: Grundavgiften i brukningsavgiften (vattenmätaravgift och bostadsenhetsavgift) föreslås
+5\. Nytt: Grundavgiften i brukningsavgiften (vattenmätaravgift och bostadsenhetsavgift) föreslås
 debiteras samtliga medlemmar i en förening, även fastigheter som ingår i föreningen, men som
 ännu inte anslutit till vattentjänsten/vattentjänsterna. Resonemanget bakom detta är att även som
 som valt att ännu inte anslutna ändå har fått tillgång till en förbindelsepunkt och då har en nytta för
@@ -3562,7 +3562,7 @@ för den gemensamma infrastrukturen, vilket kan förbättra den långsiktiga hå
 av systemet. Dessutom betalar alla för en nytta som uppkommit i och med att förbindelsepunkt är
 förmedlad.
 
-6. Reviderat: 2023 gjordes taxan om i sin helhet. För att använda samma begrepp har vissa ord
+6\. Reviderat: 2023 gjordes taxan om i sin helhet. För att använda samma begrepp har vissa ord
 ändrats, t ex har ordet lägenhetsavgift ändrats till bostadsenhetsavgift.
 
 För samtliga revideringar se Bilaga 1, Riktlinjer för anslutning utanför kommunalt verksamhetsområde för
@@ -3614,16 +3614,16 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Inledning ............................................................................................................ 3
-2. Får vem som helst ansluta till kommunens vatten- och avloppsnät? .......................... 3
+1\. Inledning ............................................................................................................ 3
+2\. Får vem som helst ansluta till kommunens vatten- och avloppsnät? .......................... 3
 
-3. Enskilt avtal eller förening? .................................................................................. 4
-4. Förbindelsepunkten............................................................................................. 5
+3\. Enskilt avtal eller förening? .................................................................................. 4
+4\. Förbindelsepunkten............................................................................................. 5
 
-5. Anslutningsavgifter - vad kostar det att ansluta? ..................................................... 6
-6. Brukningsavgifter - löpande avgifter efter anslutning .............................................. 6
+5\. Anslutningsavgifter - vad kostar det att ansluta? ..................................................... 6
+6\. Brukningsavgifter - löpande avgifter efter anslutning .............................................. 6
 
-7. Arbetsgång - hur går en anslutning till? .................................................................. 7
+7\. Arbetsgång - hur går en anslutning till? .................................................................. 7
 7.1  Hämta information...................................................................................... 7
 
 7.2  Ansök om VA-anslutning .............................................................................. 7
@@ -3634,13 +3634,13 @@ Innehåll
 7.6  Genomföra slutbesiktning och lämna relationshandlingar ............................... 9
 7.7  Boka sluttömning av eventuella slamtjänster ................................................. 9
 
-8. Relaterade dokument ........................................................................................ 10
+8\. Relaterade dokument ........................................................................................ 10
 
 Kungsbacka kommun Riktlinjer för anslutning till kommunalt vatten och avlopp utanför verksamhetsområde 2 (10)
 
 <!-- sida 102 -->
 
-1. Inledning
+1\. Inledning
 
 Vattenförsörjningen och avloppshanteringen är två av de viktigaste
 förutsättningarna för ett fungerande samhälle. Vatten- och avlopp kommer att
@@ -3681,7 +3681,7 @@ och vad som krävs av den som bygger en egen VA-anläggning. Syftet med
 riktlinjerna är att kunna säkra driften av den allmänna VA-anläggningen, eftersom
 lagstiftningen endast gäller inom verksamhetsområdena.
 
-2. Får vem som helst ansluta till kommunens vatten- och
+2\. Får vem som helst ansluta till kommunens vatten- och
 
 avloppsnät?
 
@@ -3723,7 +3723,7 @@ närmsta åren. Ta kontakt med grannar och eventuella befintliga samfälligheter
 hör efter om det finns intresse för att ordna en gemensam lösning för vatten,
 spillvatten och/eller dagvatten.
 
-3. Enskilt avtal eller förening?
+3\. Enskilt avtal eller förening?
 
 En förening ska bildas om det är eller förväntas bli fem eller fler fastigheter som ska
 anslutas via avtal. Det innebär att om ni vid avtalets tecknande är tre fastigheter,
@@ -3764,7 +3764,7 @@ faktureras av kommunen i efterhand, månadsvis eller kvartalsvis. Omfattas flera
 fastigheter av samma avtal faktureras avtalsparten (en fastighetsägare/föreningen)
 som i sin tur får dela upp fakturan och vidaredebitera.
 
-4. Förbindelsepunkten
+4\. Förbindelsepunkten
 
 En karta över föreslagen förbindelsepunkt ingår i avtalet. Förbindelsepunkten utgör
 den geografiska gränsen mellan kommunens ansvar och fastighetsägarens eller
@@ -3782,7 +3782,7 @@ Kungsbacka kommun Riktlinjer för anslutning till kommunalt vatten och avlopp ut
 
 <!-- sida 105 -->
 
-5. Anslutningsavgifter - vad kostar det att ansluta?
+5\. Anslutningsavgifter - vad kostar det att ansluta?
 
 Anslutningsavgift är en engångsavgift för anslutningen. Fastighetsägare och
 föreningar utanför verksamhetsområde betalar endast del av den anläggningsavgift
@@ -3819,7 +3819,7 @@ etablerings- och besiktningsavgifter.
 En avtalsanslutning faktureras direkt efter underskrivet avtal. Aktuella avgifter
 återfinns i kommunens VA-taxa.
 
-6. Brukningsavgifter - löpande avgifter efter anslutning
+6\. Brukningsavgifter - löpande avgifter efter anslutning
 
 Efter anslutningen betalar den/de anslutna för den eller de vattentjänster de är
 anslutna till löpande varje år. Vattentjänsterna är vatten, spillvatten och dagvatten.
@@ -3843,7 +3843,7 @@ Föreningen kommer att faktureras för alla fasta avgifter från det att vattenm
 tas i bruk. Detta oavsett om några fastigheter inom föreningen avvaktar enskild
 inkoppling till vattentjänst/er.
 
-7. Arbetsgång - hur går en anslutning till?
+7\. Arbetsgång - hur går en anslutning till?
 
 Vid anslutning utanför verksamhetsområdet ansvarar fastighetsägaren eller
 föreningen för att ledningsnätet från förbindelsepunkten till fastigheten byggs
@@ -3969,7 +3969,7 @@ Kungsbacka kommun Riktlinjer för anslutning till kommunalt vatten och avlopp ut
 
 <!-- sida 109 -->
 
-8. Relaterade dokument
+8\. Relaterade dokument
 
 Denna riktlinje grundar sig på, och hänger ihop med, lagstiftning och andra styrande
 dokument. Styrande dokument finns att ta del av på Kungsbacka kommuns hemsida
@@ -4207,7 +4207,7 @@ föreningen delar gemensamt på servis-, etablerings- och besiktningsavgifter. O
 förbindelsepunkts avgift
 
 Kungsbacka kommun Riktlinjer för anslutning utanför kommunalt verksamhetsområde för V 5 (10)
---------------------------------------------
+\--------------------------------------------
 
 1 Lag (2006:412) om allmänna vattentjänster
 
@@ -4386,7 +4386,7 @@ perioden.
 
 VA-utbyggnadsplanen finns tillgänglig på vår hemsida, www.kungsbacka.se.
 
---------------------------------------------
+\--------------------------------------------
 
 2 VA-utbyggnadsplan 2022–2032. Beslutad av kommunfullmäktige 8 september 2020 (§90, KS 2018-00689)
 
@@ -4487,7 +4487,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 123 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -4540,7 +4540,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        2 (15)
 
 <!-- sida 124 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -4667,7 +4667,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -4679,7 +4679,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -4696,7 +4696,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        5 (15)
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 127 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 127 -->
 
@@ -4771,7 +4771,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -4800,7 +4800,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 129 -->
 
@@ -4859,7 +4859,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -4903,7 +4903,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 130-2](handlingar.tabeller/130-2.csv)
@@ -4974,7 +4974,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -5178,7 +5178,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -5186,7 +5186,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -5609,11 +5609,11 @@ innehavaren gör sig av med eller avser eller är skyldig att göra sig av med.
 Ett ämne eller föremål som uppkommit i en produktionsprocess där
 huvudsyftet inte är att producera ämnet eller föremålet ska anses vara en
 biprodukt i stället för avfall, om
-1. det är säkerställt att ämnet eller föremålet kommer att fortsätta
+1\. det är säkerställt att ämnet eller föremålet kommer att fortsätta
 användas,
-2. ämnet eller föremålet kan användas direkt utan någon annan
+2\. ämnet eller föremålet kan användas direkt utan någon annan
 bearbetning än den bearbetning som är normal i industriell praxis,
-3. ämnet eller föremålet har producerats som en integrerad del av
+3\. ämnet eller föremålet har producerats som en integrerad del av
 produktionsprocessen, och
 
 4 Senaste lydelse 2022:1100.
@@ -5621,16 +5621,16 @@ produktionsprocessen, och
 
 <!-- sida 146 -->
 
-4. den användning som avses inte strider mot lag eller annan författning
+4\. den användning som avses inte strider mot lag eller annan författning
 och inte leder till allmänt negativa följder för människors hälsa eller för
 miljön.
 
 3 § I denna balk avses med
 avfallsförebyggande åtgärder: åtgärder som vidtas innan ett ämne eller
 föremål har blivit avfall och som syftar till en minskning av
-1. mängden avfall,
-2. innehållet av farliga ämnen i material och produkter, eller
-3. de negativa effekterna på människors hälsa och miljön som avfall kan
+1\. mängden avfall,
+2\. innehållet av farliga ämnen i material och produkter, eller
+3\. de negativa effekterna på människors hälsa och miljön som avfall kan
 ge upphov till,
 avfallsproducent: den som ger upphov till avfall och den som genom
 förbehandling, blandning eller andra förfaranden ändrar avfallets art eller
@@ -5639,10 +5639,10 @@ behandla avfall: återvinna eller bortskaffa avfall,
 bilskrotare: den som bedriver yrkesmässig verksamhet som syftar till att
 behandla uttjänta bilar,
 bioavfall: biologiskt nedbrytbart
-1. trädgårds- eller parkavfall,
-2. livsmedels- eller köksavfall från hushåll, kontor, restauranger,
+1\. trädgårds- eller parkavfall,
+2\. livsmedels- eller köksavfall från hushåll, kontor, restauranger,
 grossister, matsalar, catering och detaljhandelslokaler, och
-3. livsmedels- eller köksavfall från livsmedelsindustrin som är
+3\. livsmedels- eller köksavfall från livsmedelsindustrin som är
 jämförbart med sådant avfall som avses i 2,
 bortskaffa avfall: göra sig av med eller förbereda för att göra sig av med
 något som är avfall utan att återvinna det eller utan att lämna det till någon
@@ -5651,11 +5651,11 @@ bygg- och rivningsavfall: avfall från bygg- och rivningsarbeten,
 deponera avfall: bortskaffa avfall genom att lägga det på en deponi,
 deponi: en upplagsplats för avfall som finns på eller i jorden, med
 undantag för en plats där avfall
-1. lastas om för att förbereda det för vidare transport till en annan plats
+1\. lastas om för att förbereda det för vidare transport till en annan plats
 där det ska behandlas,
-2. lagras innan det återvinns, om lagringen sker under en kortare period
+2\. lagras innan det återvinns, om lagringen sker under en kortare period
 än tre år, eller
-3. lagras innan det bortskaffas, om lagringen sker under en kortare
+3\. lagras innan det bortskaffas, om lagringen sker under en kortare
 period än ett år,
 detaljhandel med livsmedel: handel i butik där de varor som säljs i
 huvudsak består av livsmedel,
@@ -5687,12 +5687,12 @@ utgörs av eller innehåller elektrisk eller elektronisk utrustning eller annat
 blandat eller separat insamlat avfall från hushåll, och blandat eller separat
 insamlat avfall från andra källor än hushåll, om sådant avfall till sin art och
 sammansättning liknar avfall från hushåll, med undantag för
-1. avfall från tillverkning,
-2. avfall från jord- och skogsbruk,
-3. avfall från fiske,
-4. avfall från septiktankar, avloppsnät och avloppsrening,
-5. bygg- och rivningsavfall, och
-6. uttjänta bilar,
+1\. avfall från tillverkning,
+2\. avfall från jord- och skogsbruk,
+3\. avfall från fiske,
+4\. avfall från septiktankar, avloppsnät och avloppsrening,
+5\. bygg- och rivningsavfall, och
+6\. uttjänta bilar,
 materialåtervinna avfall: upparbeta avfall till nya ämnen eller föremål
 som inte ska användas som bränsle eller fyllnadsmaterial,
 producent: den som yrkesmässigt utvecklar, tillverkar, bearbetar,
@@ -5718,16 +5718,16 @@ eller en åtgärd som innebär att avfall förbereds för återanvändning.
 När avfall upphör att vara avfall
 4 § Avfall som har genomgått ett återvinningsförfarande upphör att vara
 avfall, om
-1. ämnet eller föremålet ska användas för ett visst ändamål,
-2. det finns en marknad för eller efterfrågan på sådana ämnen eller
+1\. ämnet eller föremålet ska användas för ett visst ändamål,
+2\. det finns en marknad för eller efterfrågan på sådana ämnen eller
 föremål,
-3. ämnet eller föremålet uppfyller tillämpliga krav i lag eller annan
+3\. ämnet eller föremålet uppfyller tillämpliga krav i lag eller annan
 författning, och
 9
 
 <!-- sida 148 -->
 
-4. användningen av ämnet eller föremålet inte leder till allmänt negativa
+4\. användningen av ämnet eller föremålet inte leder till allmänt negativa
 följder för människors hälsa eller miljön.
 
 5 § Regeringen eller den myndighet som regeringen bestämmer får
@@ -5757,11 +5757,11 @@ att hantera avfallet.
 Ansvaret för att hantera avfallet upphör när avfallet har genomgått en
 fullständig behandling.
 Ansvaret gäller inte om
-1. kommunen är ansvarig för avfallet enligt 11 §, 12 §, 15 § andra
+1\. kommunen är ansvarig för avfallet enligt 11 §, 12 §, 15 § andra
 stycket eller föreskrifter som har meddelats med stöd av 13 §,
-2. det har införts ett system för utökat producentansvar för avfalls-
+2\. det har införts ett system för utökat producentansvar för avfalls-
 hantering, eller
-3. det i övrigt framgår av lag eller annan författning att avfallsprodu-
+3\. det i övrigt framgår av lag eller annan författning att avfallsprodu-
 centen inte är ansvarig.
 Ansvaret när avfall överlåts till någon annan
 10 § Ansvaret för avfallsproducenten att ordna en fullständig behandling
@@ -5776,15 +5776,15 @@ hanteras:
 
 <!-- sida 149 -->
 
-1. kommunalt avfall,
-2. avloppsfraktioner och filtermaterial från enskilda avlopps-
+1\. kommunalt avfall,
+2\. avloppsfraktioner och filtermaterial från enskilda avlopps-
 anläggningar, som är dimensionerade för högst 25 personekvivalenter, om
 anläggningen endast används för
 a) hushållsspillvatten, eller
 b) spillvatten som till sin art och sammansättning liknar hushålls-
 spillvatten,
-3. latrin från torrtoaletter och liknande lösningar, och
-4. bygg- och rivningsavfall som inte har producerats i en yrkesmässig
+3\. latrin från torrtoaletter och liknande lösningar, och
+4\. bygg- och rivningsavfall som inte har producerats i en yrkesmässig
 verksamhet.
 Kommunen ska ansvara för kostnaderna för att hantera avfallet.
 Ansvaret att hantera avfallet upphör när avfallet har genomgått en
@@ -5798,9 +5798,9 @@ bestämmer får meddela föreskrifter om att kommunen ska ansvara för att
 annat avfall än sådant som avses i 11 eller 12 § behandlas och samlas in
 från den fastighet där avfallet produceras.
 Föreskrifterna får endast avse
-1. avfall som av hälso- eller miljöskäl behöver hanteras av kommunen,
+1\. avfall som av hälso- eller miljöskäl behöver hanteras av kommunen,
 och
-2. avfall som omfattas av producentansvar och som av samordningsskäl
+2\. avfall som omfattas av producentansvar och som av samordningsskäl
 bör hanteras tillsammans med sådant avfall som kommunen ansvarar för
 enligt 11 § eller enligt föreskrifter som har meddelats med stöd av 1.
 14 § Om kommunen är ansvarig för en viss hantering av avfall enligt
@@ -5815,19 +5815,19 @@ Avfallsproducentens ansvar för kommunalt avfall och kommunens
 andrahandsansvar för avfallet
 15 § En avfallsproducent är, trots 11 §, ansvarig för det kommunala
 avfall som har producerats i en
-1. detaljhandel med livsmedel, eller
-2. yrkesmässig verksamhet, om avfallet består av
+1\. detaljhandel med livsmedel, eller
+2\. yrkesmässig verksamhet, om avfallet består av
 a) förbrukat matfett, eller
 b) förbrukat kontorspapper.
 Kommunen är dock ansvarig för avfallet om avfallsproducenten begär
 det och
-1. det finns ett bristande utbud av tjänster för avfallshanteringen,
+1\. det finns ett bristande utbud av tjänster för avfallshanteringen,
 11
 
 <!-- sida 150 -->
 
-2. transportavstånden är orimligt långa, eller
-3. avfallshanteringstjänsterna erbjuds med oskäliga avtalsvillkor.
+2\. transportavstånden är orimligt långa, eller
+3\. avfallshanteringstjänsterna erbjuds med oskäliga avtalsvillkor.
 Vart femte år ska kommunen utvärdera om förutsättningarna i andra
 stycket har förändrats och om avfallshanteringstjänsterna fortsatt ska
 erbjudas.
@@ -5853,10 +5853,10 @@ beslutet.
 
 19 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
-1. undantag från kommunens ansvar enligt 11 och 12 §§ i fråga om
+1\. undantag från kommunens ansvar enligt 11 och 12 §§ i fråga om
 avfall som ska samlas in eller behandlas av en producent eller en
 producentansvarsorganisation, och
-2. skyldigheter för kommuner att vidta de åtgärder som krävs för att
+2\. skyldigheter för kommuner att vidta de åtgärder som krävs för att
 avfallshanteringen ska fungera när ansvaret för hanteringen är uppdelat
 mellan kommunen och  en  producent eller en
 producentansvarsorganisation.
@@ -5864,13 +5864,13 @@ Producentens och producentansvarsorganisationens ansvar
 20 § För att införa system för utökat producentansvar för
 avfallshantering får regeringen eller den myndighet som regeringen
 bestämmer meddela föreskrifter om skyldighet för producenter att
-1. se till att avfall hanteras i enlighet med 27 § och på ett sätt som
+1\. se till att avfall hanteras i enlighet med 27 § och på ett sätt som
 möjliggör en lämplig behandling enligt 28 §,
-2. betala avgifter för att täcka det allmännas kostnader för hantering av
+2\. betala avgifter för att täcka det allmännas kostnader för hantering av
 avfall från nedskräpning och information om nedskräpning, eller på annat
 sätt ansvara ekonomiskt för avfallshantering och information om
 hanteringen,
-3. inrätta ett system för egenkontroll för att säkerställa att skyldigheter
+3\. inrätta ett system för egenkontroll för att säkerställa att skyldigheter
 enligt denna balk, föreskrifter som är meddelade med stöd av balken och
 12
 
@@ -5878,7 +5878,7 @@ enligt denna balk, föreskrifter som är meddelade med stöd av balken och
 
 skyldigheter som följer av EU-förordningar inom balkens
 tillämpningsområde följs, och
-4. vidta åtgärder som möjliggör en effektiv insamling av avfall.
+4\. vidta åtgärder som möjliggör en effektiv insamling av avfall.
 Föreskrifterna får endast avse avfall som utgörs av den typ av produkter
 som producenterna utvecklar, tillverkar, bearbetar, behandlar, överlåter
 eller för in till Sverige. Föreskrifter som avser sådant avfall, och som
@@ -5891,15 +5891,15 @@ till producentens verksamhet.
 miljömässigt godtagbar avfallshantering får regeringen eller den
 myndighet som regeringen bestämmer meddela föreskrifter om skyldighet
 för producenter att
-1. se till att produkter är märkta,
-2. lämna information och uppgifter om vilka ämnen och material som en
+1\. se till att produkter är märkta,
+2\. lämna information och uppgifter om vilka ämnen och material som en
 produkt innehåller samt om insamling, återanvändningsgrad, återvinnings-
 grad eller andra förhållanden,
-3. se till att produkter har en viss sammansättning, återanvändbarhet och
+3\. se till att produkter har en viss sammansättning, återanvändbarhet och
 återvinningsbarhet,
-4. vidta åtgärder som möjliggör en effektiv insamling av använda
+4\. vidta åtgärder som möjliggör en effektiv insamling av använda
 produkter, och
-5. vidta andra avfallsförebyggande åtgärder.
+5\. vidta andra avfallsförebyggande åtgärder.
 Föreskrifter om skyldigheter för en producent att vidta åtgärder som
 möjliggör en effektiv insamling av använda produkter som producenten
 inte utvecklat, tillverkat, bearbetat, behandlat, överlåtit eller fört in till
@@ -5908,22 +5908,22 @@ andel av marknaden för sådana produkter eller som på något annat sätt står
 i rimlig proportion till producentens verksamhet.
 22 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
-1. skyldighet för producenter att tillhandahålla eller anlita en
+1\. skyldighet för producenter att tillhandahålla eller anlita en
 producentansvarsorganisation,
-2. förbud att yrkesmässigt överlåta eller saluföra produkter om produk-
+2\. förbud att yrkesmässigt överlåta eller saluföra produkter om produk-
 tens producent inte tillhandahåller eller har anlitat en producentansvars-
 organisation,
-3. tillstånd, godkännande eller anmälan för yrkesmässig drift av en
+3\. tillstånd, godkännande eller anmälan för yrkesmässig drift av en
 producentansvarsorganisation,
-4. kriterier för hur ersättning som en producentansvarsorganisation tar
+4\. kriterier för hur ersättning som en producentansvarsorganisation tar
 ut från producenterna ska bestämmas,
-5. skyldighet för en producentansvarsorganisation att fullgöra sådana
+5\. skyldighet för en producentansvarsorganisation att fullgöra sådana
 skyldigheter som kan föreskrivas för producenter enligt 20 och 21 §§,
-6. skyldighet för en producentansvarsorganisation att hantera mer avfall
+6\. skyldighet för en producentansvarsorganisation att hantera mer avfall
 än vad som motsvarar organisationens marknadsandel, under förutsättning
 att hanteringen avser avfall som producentansvarsorganisationen har rätt
 att få ersättning för, och
-7. att de intäkter som en producentansvarsorganisation för förpack-
+7\. att de intäkter som en producentansvarsorganisation för förpack-
 ningar har, får användas endast för verksamhet som har samband med 13
 
 <!-- sida 152 -->
@@ -5933,10 +5933,10 @@ till de producenter som har anlitat organisationen.
 
 23 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
-1. skyldighet för en producent att utse någon som ska fullgöra
+1\. skyldighet för en producent att utse någon som ska fullgöra
 skyldigheter som producenten har i ett annat medlemsland i Europeiska
 unionen, och
-2. att det som gäller för en producent enligt föreskrifter som har
+2\. att det som gäller för en producent enligt föreskrifter som har
 meddelats med stöd av 20, 21 eller 22 § också ska gälla den som på en
 producents uppdrag fullgör producentens skyldigheter.
 24 § Regeringen eller den myndighet som regeringen bestämmer får
@@ -5946,8 +5946,8 @@ yrkesmässigt system för återanvändning av förpackningar ska anmäla det.
 meddela föreskrifter om att den som är etablerad i Sverige och
 yrkesmässigt förmedlar distansförsäljning av produkter som omfattas av
 ett system för utökat producentansvar till slutanvändare i Sverige
-1. ska vara skyldig att registrera sig, och
-2. endast får förmedla distansförsäljning från säljare som har uppfyllt
+1\. ska vara skyldig att registrera sig, och
+2\. endast får förmedla distansförsäljning från säljare som har uppfyllt
 skyldigheter enligt föreskrifter som har meddelats med stöd av 22 § 1.
 26 § Om flera producentansvarsorganisationer för förpackningar har
 godkänts, men endast en av organisationerna ska ansvara för insamling av
@@ -5963,11 +5963,11 @@ Hantering av avfall
 27 § Den som hanterar avfall ska se till att hanteringen inte skadar eller
 orsakar risk för skada på människors hälsa eller miljön. Särskild hänsyn
 ska tas till
-1. den risk som hanteringen kan innebära för skada på vatten, luft, mark,
+1\. den risk som hanteringen kan innebära för skada på vatten, luft, mark,
 växter eller djur,
-2. de olägenheter som hanteringen kan innebära genom buller eller lukt,
+2\. de olägenheter som hanteringen kan innebära genom buller eller lukt,
 och
-3. den negativa påverkan som hanteringen kan ha på sådana särskilt
+3\. den negativa påverkan som hanteringen kan ha på sådana särskilt
 skyddade områden som avses i 7 kap., på andra områden av särskild
 betydelse för miljön eller på landskapet i övrigt.
 Avfallshierarki
@@ -5978,10 +5978,10 @@ finns i 2 kap. 5 §.
 <!-- sida 153 -->
 
 Den som är ansvarig för att avfall blir behandlat ska se till att avfallet
-1. återvinns genom att det förbereds för återanvändning,
-2. materialåtervinns, om det är lämpligare än 1,
-3. återvinns på ett annat sätt, om det är lämpligare än 1 och 2, eller
-4. bortskaffas, om det är lämpligare än 1–3.
+1\. återvinns genom att det förbereds för återanvändning,
+2\. materialåtervinns, om det är lämpligare än 1,
+3\. återvinns på ett annat sätt, om det är lämpligare än 1 och 2, eller
+4\. bortskaffas, om det är lämpligare än 1–3.
 Vid valet av behandlingsmetod för avfallet ska den behandling som bäst
 skyddar människors hälsa och miljön som helhet anses som lämpligast, om
 behandlingen inte är orimlig.
@@ -6008,10 +6008,10 @@ det enskilda fallet ge dispens från förbudet mot dumpning i 30 § första
 stycket, om avfallet kan dumpas utan olägenhet för människors hälsa eller
 miljön.
 Den som har gett en dispens enligt första stycket får
-1. förelägga den som har fått dispensen att avhjälpa en olägenhet som
+1\. förelägga den som har fått dispensen att avhjälpa en olägenhet som
 uppkommer genom dumpningen, om olägenheten inte förutsågs när
 dispensen gavs, och
-2. återkalla dispensen, om ett villkor eller en föreskrift som gäller för
+2\. återkalla dispensen, om ett villkor eller en föreskrift som gäller för
 dumpningen inte följs eller om en olägenhet som avses med ett
 föreläggande enligt 1 inte avhjälps.
 Kommunala avfallsföreskrifter
@@ -6019,14 +6019,14 @@ Kommunala avfallsföreskrifter
 Föreskrifterna ska antas av kommunfullmäktige.
 
 34 § Innan kommunen antar avfallsföreskrifter ska kommunen
-1. på lämpligt sätt och i skälig omfattning ge de fastighetsinnehavare och
+1\. på lämpligt sätt och i skälig omfattning ge de fastighetsinnehavare och
 myndigheter som kan ha ett väsentligt intresse av avfallsföreskrifterna
 tillfälle att yttra sig, och
 15
 
 <!-- sida 154 -->
 
-2. ställa ut ett förslag till avfallsföreskrifter för granskning under minst
+2\. ställa ut ett förslag till avfallsföreskrifter för granskning under minst
 fyra veckor.
 Kommunen ska informera om utställningen på sin webbplats före
 utställningstidens början. Informationen ska innehålla uppgifter om
@@ -6040,9 +6040,9 @@ Ytterligare föreskrifter om avfallshantering och avfallsförebyggande
 åtgärder
 36 § Regeringen eller den myndighet eller kommun som regeringen
 bestämmer får meddela föreskrifter om
-1. avfallshantering som behövs med hänsyn till skyddet för människors
+1\. avfallshantering som behövs med hänsyn till skyddet för människors
 hälsa eller miljön, och
-2. att det krävs en anmälan till den myndighet som regeringen
+2\. att det krävs en anmälan till den myndighet som regeringen
 bestämmer eller till kommunen för att få hantera avfall.
 37 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om skyldighet för kommunerna att lämna information
@@ -6050,16 +6050,16 @@ om avfallsförebyggande åtgärder och hantering av avfall.
 
 38 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela ytterligare föreskrifter om
-1. avfall, om föreskrifterna behövs till följd av Sveriges medlemskap i
+1\. avfall, om föreskrifterna behövs till följd av Sveriges medlemskap i
 Europeiska unionen, och
-2. avfallsförebyggande åtgärder som har särskild betydelse för skyddet
+2\. avfallsförebyggande åtgärder som har särskild betydelse för skyddet
 för människors hälsa eller miljön.
 39 § Regeringen eller den myndighet eller kommun som regeringen
 bestämmer får meddela föreskrifter om
-1. anordningar för hantering av avfall,
-2. skyldighet att informera om avfallsförebyggande åtgärder och
+1\. anordningar för hantering av avfall,
+2\. skyldighet att informera om avfallsförebyggande åtgärder och
 hantering av avfall, och
-3. skyldighet att kontrollera, dokumentera och lämna uppgifter om
+3\. skyldighet att kontrollera, dokumentera och lämna uppgifter om
 avfall, avfallshantering och avfallsförebyggande åtgärder.
 40 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om att det krävs tillstånd, godkännande, anmälan eller
@@ -6086,19 +6086,19 @@ Föreskrifterna får endast avse åtgärder som krävs av återanvändnings-
 eller återvinningsskäl eller av hälso- eller miljöskäl.
 43 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
-1. att bilskrotare ska vara auktoriserade och om villkoren för
+1\. att bilskrotare ska vara auktoriserade och om villkoren för
 auktorisation av bilskrotare,
-2. skyldighet för den som har förvärvat en uttjänt bil för skrotning att
+2\. skyldighet för den som har förvärvat en uttjänt bil för skrotning att
 utfärda ett bevis om att bilen har mottagits för detta syfte (mottagnings-
 bevis) och se till att bilen blir omhändertagen av en auktoriserad bil-
 skrotare,
-3. skyldighet för bilskrotare att lämna uppgifter om återanvändnings-
+3\. skyldighet för bilskrotare att lämna uppgifter om återanvändnings-
 grad, återvinningsgrad eller andra förhållanden som rör de uttjänta bilar
 som bilskrotaren har hanterat,
-4. skyldighet för auktoriserade bilskrotare att utfärda ett intyg om att
+4\. skyldighet för auktoriserade bilskrotare att utfärda ett intyg om att
 åtgärder har vidtagits för en hälso- och miljömässigt godtagbar hantering
 av en uttjänt bil (skrotningsintyg), och
-5. utfärdandet av sådana bevis och intyg som avses i 1 och 3.
+5\. utfärdandet av sådana bevis och intyg som avses i 1 och 3.
 Föreskrifter för försvaret
 44 § Regeringen eller den myndighet som regeringen bestämmer får för
 Försvarsmaktens, Fortifikationsverkets, Försvarets materielverks och
@@ -6141,9 +6141,9 @@ aktuella behovet.
 48 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela ytterligare föreskrifter om säkerheter enligt 47 §. Sådana
 föreskrifter får avse
-1. hur säkerhetens storlek ska beräknas och vad underlaget för
+1\. hur säkerhetens storlek ska beräknas och vad underlaget för
 beräkningen av säkerhetens storlek ska innehålla, och
-2. när och hur en säkerhet får tas i anspråk.
+2\. när och hur en säkerhet får tas i anspråk.
 Regeringen eller den myndighet som regeringen bestämmer får också
 meddela ytterligare föreskrifter om vad som krävs för att en säkerhet ska
 kunna godtas enligt 47 § andra stycket.
@@ -6166,34 +6166,34 @@ Nuvarande lydelse    Föreslagen lydelse
 21 kap.
 1 §6
 Mark- och miljödomstol prövar som första instans mål om
-1. miljöfarlig verksamhet som är ansökningsmål enligt 1 a § första
+1\. miljöfarlig verksamhet som är ansökningsmål enligt 1 a § första
 stycket,
 18           6 Senaste lydelse 2022:1100.
 
 <!-- sida 157 -->
 
-2. vattenverksamhet och vattenanläggningar enligt 11 kap. samt lagen
+2\. vattenverksamhet och vattenanläggningar enligt 11 kap. samt lagen
 (1998:812) med särskilda bestämmelser om vattenverksamhet, utom
 verksamheter som avser markavvattning vilka ska prövas av länsstyrelsen
 och säkerhetsklassificering av dammar,
-3. markavvattningar som enligt lagen med särskilda bestämmelser om
+3\. markavvattningar som enligt lagen med särskilda bestämmelser om
 vattenverksamhet har överlämnats från länsstyrelsen eller anmälts av en
 lantmäterimyndighet,
-4. ersättning för skada och intrång enligt 28 kap. 2–5 §§,
-5. ersättning och inlösen vid ingripande av det allmänna enligt denna
+4\. ersättning för skada och intrång enligt 28 kap. 2–5 §§,
+5\. ersättning och inlösen vid ingripande av det allmänna enligt denna
 balk och vid vattenverksamhet, om inte annat har särskilt föreskrivits,
-6. ersättning för miljöskador och inlösen enligt 32 kap., talan om förbud
+6\. ersättning för miljöskador och inlösen enligt 32 kap., talan om förbud
 eller försiktighetsmått enligt 32 kap. 12 § samt grupptalan enligt 32 kap.
 13 §,
-7. fördelning av solidariskt ansvar mellan flera enligt 10 kap. 6 och 7 §§
+7\. fördelning av solidariskt ansvar mellan flera enligt 10 kap. 6 och 7 §§
 på talan av någon av de solidariskt ansvariga,
-8. utdömande av vite enligt ett föreläggande som har förenats med vite
+8\. utdömande av vite enligt ett föreläggande som har förenats med vite
 med stöd av balken, efter särskild ansökan av den myndighet som har
 beslutat vitesföreläggandet eller, om vitesföreläggandet har beslutats i
 förfarandet, med tillämpning av 6 § andra stycket lagen (1985:206) om
 viten,
-9. kostnadsansvar för fastighetsägare enligt 10 kap. 9 §,
-10. fördelning av kostnader för gemensamt utnyttjande av information
+9\. kostnadsansvar för fastighetsägare enligt 10 kap. 9 §,
+10\. fördelning av kostnader för gemensamt utnyttjande av information
 enligt det som följer av artiklarna 27.6 och 30.3 i Europaparlamentets och
 rådets förordning (EG) nr 1907/2006 av den 18 december 2006 om
 registrering, utvärdering, godkännande och begränsning av kemikalier
@@ -6202,16 +6202,16 @@ direktiv 1999/45/EG och upphävande av rådets förordning (EEG) 793/93
 och kommissionens förordning (EG) nr 1488/94 samt rådets direktiv
 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
 93/105/EG och 2000/21/EG,
-11. fördelning av kostnader för utbyte av information enligt det som
+11\. fördelning av kostnader för utbyte av information enligt det som
 följer av artikel 62.6 i Europaparlamentets och rådets förordning (EG) nr
 1107/2009 av den 21 oktober 2009 om utsläppande av växtskyddsmedel
 på marknaden och om upphävande av rådets direktiv 79/117/EEG och
 91/414/EEG,
-12. fördelning av kostnader för gemensamt utnyttjande av information
+12\. fördelning av kostnader för gemensamt utnyttjande av information
 enligt det som följer av artikel 63.3 i Europaparlamentets och rådets
 förordning (EU) nr 528/2012 av den 22 maj 2012 om tillhandahållande på
 marknaden och användning av biocidprodukter, och
-13. ersättningsansvar enligt 13. ersättningsansvar enligt
+13\. ersättningsansvar enligt 13. ersättningsansvar enligt
 15 kap. 16 b § första stycket för 15 kap. 26 § första stycket för
 godkända producentansvarsorgani- godkända producentansvarsorgani-
 sationer för förpackningar. sationer för förpackningar.
@@ -6229,64 +6229,64 @@ framgår av 26 kap. 17 § andra stycket.
 22 kap.
 1 §7
 En ansökan i ett ansökningsmål ska vara skriftlig. Den ska innehålla
-1. ritningar och tekniska beskrivningar med uppgifter om förhållandena
+1\. ritningar och tekniska beskrivningar med uppgifter om förhållandena
 på platsen, om produktionsmängd eller liknande, om användningen av
 råvaror, andra insatsvaror och ämnen och om energianvändning,
-2. uppgifter om utsläppskällor, om arten och mängden av alla
+2\. uppgifter om utsläppskällor, om arten och mängden av alla
 förutsebara utsläpp och om förslag till de åtgärder som kan behövas dels
 för att förebygga uppkomsten av avfall, dels för att förbereda för
 återanvändning, materialåtervinning och annan återvinning av det avfall
 som anläggningen ger upphov till,
-3. en miljökonsekvensbeskrivning när det krävs enligt 6 kap.,
-4. förslag till skyddsåtgärder eller andra försiktighetsmått samt de övriga
+3\. en miljökonsekvensbeskrivning när det krävs enligt 6 kap.,
+4\. förslag till skyddsåtgärder eller andra försiktighetsmått samt de övriga
 uppgifter som behövs för att bedöma hur de allmänna hänsynsreglerna i 2
 kap. följs,
-5. förslag till övervakning och kontroll av verksamheten,
-6. det handlingsprogram och den säkerhetsrapport som krävs enligt
+5\. förslag till övervakning och kontroll av verksamheten,
+6\. det handlingsprogram och den säkerhetsrapport som krävs enligt
 lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av
 allvarliga kemikalieolyckor, om den verksamhet eller åtgärd som målet
 avser omfattas av den lagen,
-7. en statusrapport när det krävs enligt föreskrifter som har meddelats
+7\. en statusrapport när det krävs enligt föreskrifter som har meddelats
 med stöd av 10 kap. 21 § första stycket 5,
-8. en avfallshanteringsplan för 8. en avfallshanteringsplan för
+8\. en avfallshanteringsplan för 8. en avfallshanteringsplan för
 utvinningsavfall när en sådan krävs utvinningsavfall när en sådan krävs
 enligt föreskrifter som har enligt föreskrifter som har
 meddelats med stöd av 15 kap. meddelats med stöd av 15 kap.
 40 §, och            38 §, och
-9. en icke-teknisk sammanfattning av de uppgifter som anges i 1–8.
+9\. en icke-teknisk sammanfattning av de uppgifter som anges i 1–8.
 1 b §8
 En ansökan om tillstånd till geologisk lagring av koldioxid ska, utöver det
 som anges i 1 §, innehålla
-1. uppgift om vem som driver eller avser att driva lagringsverksamheten,
-2. en beskrivning av verksamhetsutövarens tekniska kompetens och
+1\. uppgift om vem som driver eller avser att driva lagringsverksamheten,
+2\. en beskrivning av verksamhetsutövarens tekniska kompetens och
 handlingar som styrker kompetensen,
-3. en beskrivning av den geologiska formationens egenskaper,
+3\. en beskrivning av den geologiska formationens egenskaper,
 lagringsplatsen och det område runt lagringsplatsen som med hänsyn till
 de geologiska förhållandena har betydelse för lagringens integritet och
 säkerhet,
-4. uppgift om den totala mängd koldioxid som ska lagras,
-5. en beskrivning av varifrån den koldioxid som ska tillföras
+4\. uppgift om den totala mängd koldioxid som ska lagras,
+5\. en beskrivning av varifrån den koldioxid som ska tillföras
 lagringsplatsen kommer och hur den ska transporteras till lagringsplatsen,
-6. uppgift om sammansättningen av den koldioxidström som ska
+6\. uppgift om sammansättningen av den koldioxidström som ska
 tillföras lagringsplatsen (injekteras),
-7. uppgifter om injektionstakt och injektionstryck,
-8. en beskrivning av den anläggning som ska användas för att tillföra
+7\. uppgifter om injektionstakt och injektionstryck,
+8\. en beskrivning av den anläggning som ska användas för att tillföra
 koldioxid till lagringsplatsen,
-9. en bedömning av den förväntade lagringssäkerheten,
+9\. en bedömning av den förväntade lagringssäkerheten,
 7 Senaste lydelse 2022:1100.
 20           8 Senaste lydelse 2017:955.
 
 <!-- sida 159 -->
 
-10. uppgifter som visar att den 10. uppgifter som visar att den
+10\. uppgifter som visar att den 10. uppgifter som visar att den
 finansiella säkerhet som krävs säkerhet som krävs enligt 15 kap.
 enligt 15 kap. 37 § kommer att vara 49 § kommer att vara giltig och i
 giltig och i kraft innan koldioxid kraft innan koldioxid tillförs
 tillförs lagringsplatsen, lagringsplatsen,
-11. ett förslag till en plan för övervakning av lagringsplatsen,
-12. ett förslag till en plan för underhåll efter det att lagringsplatsen har
+11\. ett förslag till en plan för övervakning av lagringsplatsen,
+12\. ett förslag till en plan för underhåll efter det att lagringsplatsen har
 stängts för ytterligare tillförsel av koldioxid, och
-13. ett förslag till en plan för åtgärder som behövs för att avhjälpa risker
+13\. ett förslag till en plan för åtgärder som behövs för att avhjälpa risker
 för koldioxidutsläpp.
 1 d §9
 En ansökan om omprövning eller om tillstånd att ändra en verksamhet ska
@@ -6294,9 +6294,9 @@ innehålla en redogörelse för alla tillståndsbestämmelser och villkor som
 gäller för verksamheten enligt tidigare tillstånd.
 Om ansökan avser ett ändringstillstånd enligt 16 kap. 2 a §, ska ansökan
 också innehålla
-1. de uppgifter som behövs för att bedöma om ett sådant
+1\. de uppgifter som behövs för att bedöma om ett sådant
 ändringstillstånd är lämpligt, och
-2. en avfallshanteringsplan för 2. en avfallshanteringsplan för
+2\. en avfallshanteringsplan för 2. en avfallshanteringsplan för
 utvinningsavfall när en sådan krävs utvinningsavfall, när en sådan plan
 enligt föreskrifter som har krävs enligt föreskrifter som har
 meddelats med stöd av 15 kap. meddelats med stöd av 15 kap.
@@ -6337,35 +6337,35 @@ från Riksgäldskontoret. Riksgäldskontoret.
 25 d §12
 En dom som omfattar tillstånd till geologisk lagring av koldioxid ska, i
 stället för det som sägs i 25 a och 25 c §§, dessutom alltid innehålla
-1. en beskrivning av den geologiska formationens egenskaper,
-2. villkor om den exakta lokaliseringen och avgränsningen av
+1\. en beskrivning av den geologiska formationens egenskaper,
+2\. villkor om den exakta lokaliseringen och avgränsningen av
 a) lagringsplatsen och det område runt lagringsplatsen som med hänsyn
 till de geologiska förhållandena har betydelse för lagringens integritet och
 säkerhet, och
 b) den anläggning som ska användas för att tillföra koldioxid till
 lagringsplatsen,
-3. villkor om lagringsplatsens hydrauliska egenskaper,
-4. villkor om den totala mängd koldioxid som får lagras,
-5. villkor om gränser för reservoartrycket,
-6. en beskrivning av varifrån den koldioxid som ska tillföras
+3\. villkor om lagringsplatsens hydrauliska egenskaper,
+4\. villkor om den totala mängd koldioxid som får lagras,
+5\. villkor om gränser för reservoartrycket,
+6\. en beskrivning av varifrån den koldioxid som ska tillföras
 lagringsplatsen kommer och hur den ska transporteras till lagringsplatsen,
-7. villkor om sammansättningen av den koldioxidström som får tillföras
+7\. villkor om sammansättningen av den koldioxidström som får tillföras
 lagringsplatsen (injekteras) och om kontroll av koldioxidströmmen,
-8. villkor om högsta tillåtna injekteringstakt och injekteringstryck,
-9. villkor om övervakning enligt en särskild övervakningsplan och om
+8\. villkor om högsta tillåtna injekteringstakt och injekteringstryck,
+9\. villkor om övervakning enligt en särskild övervakningsplan och om
 åtgärder enligt en särskild plan för avhjälpande av risker för
 koldioxidutsläpp samt om att planerna ska följas,
-10. villkor om att verksamhetsutövaren ska förvissa sig om att den som
+10\. villkor om att verksamhetsutövaren ska förvissa sig om att den som
 är sysselsatt i verksamheten har den kompetens och utbildning som
 behövs,
-11. villkor om vad som ska gälla i samband med att lagringsplatsen
+11\. villkor om vad som ska gälla i samband med att lagringsplatsen
 stängs för fortsatt tillförsel av koldioxid och om underhåll efter
 stängningen enligt en särskild plan,
-12. villkor om att den säkerhet 12. villkor om att den säkerhet
+12\. villkor om att den säkerhet 12. villkor om att den säkerhet
 som krävs för verksamheten enligt som krävs för verksamheten enligt
 15 kap. 37 § fortlöpande ska vara 15 kap. 49 § fortlöpande ska vara
 giltig och i kraft,  giltig och i kraft,
-13. upplysningar om
+13\. upplysningar om
 a) de krav på uppdatering av övervakningsplanen som kan följa av
 föreskrifter som har meddelats med stöd av denna balk,
 b) kravet på miljörapport i 26 kap. 20 § och andra föreskrifter med krav
@@ -6380,16 +6380,16 @@ finns i denna balk, och
 d) de krav på underrättelse till tillsynsmyndigheten i händelse av läckage
 av koldioxid eller betydande störningar som följer av föreskrifter som har
 meddelats med stöd av denna balk, och
-14. skälen för avvikelse från synpunkter som Europeiska kommissionen
+14\. skälen för avvikelse från synpunkter som Europeiska kommissionen
 har lämnat i samband med regeringens tillåtlighetsprövning.
 25 h §13
 En dom som omfattar tillstånd att driva verksamhet som omfattas av krav
 på en avfallshanteringsplan för utvinningsavfall ska dessutom alltid
 innehålla
-1. villkor om det belopp som 1. villkor om det belopp som
+1\. villkor om det belopp som 1. villkor om det belopp som
 säkerheten enligt 15 kap. 36 a § ska säkerheten enligt 15 kap. 47 § ska
 uppgå till,          uppgå till,
-2. villkor om att den säkerhet 2. villkor om att den säkerhet
+2\. villkor om att den säkerhet 2. villkor om att den säkerhet
 som ska ställas enligt 15 kap. som ska ställas enligt 15 kap. 47 §
 36 a § ska godtas innan den ska godtas innan den verksamhet
 verksamhet som omfattas av krav som omfattas av krav på en
@@ -6397,7 +6397,7 @@ på en avfallshanteringsplan för avfallshanteringsplan för
 utvinningsavfall påbörjas och att utvinningsavfall påbörjas och att
 säkerheten därefter fortlöpande ska säkerheten därefter fortlöpande ska
 vara betryggande, och vara betryggande, och
-3. de villkor som behövs för att minimera verksamhetens påverkan på
+3\. de villkor som behövs för att minimera verksamhetens påverkan på
 omgivningen vid oförutsedda avbrott i verksamheten.
 24 kap.
 5 §14
@@ -6406,38 +6406,38 @@ tillståndsmyndigheten ompröva tillstånd när det gäller en bestämmelse om
 tillåten produktionsmängd eller annan liknande bestämmelse om
 verksamhetens omfattning, samt ändra eller upphäva villkor eller andra
 bestämmelser eller meddela nya sådana
-1. när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller
+1\. när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller
 den kortare tid som, på grund av vad som följer av Sveriges medlemskap
 i Europeiska unionen, föreskrivs av regeringen eller den myndighet som
 regeringen bestämmer,
-2. om verksamheten med någon betydelse medverkar till att en
+2\. om verksamheten med någon betydelse medverkar till att en
 miljökvalitetsnorm inte följs,
-3. om den som har sökt tillståndet har vilselett tillståndsmyndigheten
+3\. om den som har sökt tillståndet har vilselett tillståndsmyndigheten
 genom att lämna oriktiga uppgifter eller låta bli att lämna uppgifter av
 betydelse för tillståndet eller villkoren,
-4. när tillståndet eller villkor som gäller för verksamheten inte har följts,
-5. om det genom verksamheten uppkommit en olägenhet av någon
+4\. när tillståndet eller villkor som gäller för verksamheten inte har följts,
+5\. om det genom verksamheten uppkommit en olägenhet av någon
 betydelse som inte förutsågs när verksamheten tilläts,
-6. om förhållandena i omgivningen har ändrats väsentligt,
-7. om en från hälso- eller miljösynpunkt väsentlig förbättring kan
+6\. om förhållandena i omgivningen har ändrats väsentligt,
+7\. om en från hälso- eller miljösynpunkt väsentlig förbättring kan
 uppnås med användning av någon ny process- eller reningsteknik,
 13 Senaste lydelse 2022:1100.
 14 Senaste lydelse 2022:1100.                      23
 
 <!-- sida 162 -->
 
-8. om användandet av någon ny teknik för mätning eller uppskattning av
+8\. om användandet av någon ny teknik för mätning eller uppskattning av
 förorening eller annan störning skulle medföra väsentligt bättre
 förutsättningar för att kontrollera verksamheten,
-9. om verksamheten helt eller till väsentlig del är förlagd inom ett
+9\. om verksamheten helt eller till väsentlig del är förlagd inom ett
 område där förbud råder enligt en föreskrift eller ett beslut som har
 meddelats med stöd av 9 kap. 4 §,
-10. för att förbättra en anläggnings säkerhet,
-11. om det visar sig att anordningar som har vidtagits eller villkor som
+10\. för att förbättra en anläggnings säkerhet,
+11\. om det visar sig att anordningar som har vidtagits eller villkor som
 har meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt
 6 kap. 5 § lagen (1998:812) med särskilda bestämmelser om
 vattenverksamhet är mindre ändamålsenliga, eller
-12. om det kan antas att en 12. om det kan antas att en
+12\. om det kan antas att en 12. om det kan antas att en
 säkerhet som ställts enligt 9 kap. säkerhet som ställts enligt 9 kap.
 6 e §, 15 kap. 35, 36 a eller 37 § 6 e §, 15 kap. 46, 47 eller 49 § eller
 eller 16 kap. 3 § inte längre är 16 kap. 3 § inte längre är tillräcklig
@@ -6480,14 +6480,14 @@ Renhållningsavgift   Avfallsavgift
 Kommunen  får  meddela Kommunen får meddela
 föreskrifter om att avgift ska betalas föreskrifter om att avfallsavgift ska
 för                  betalas för
-1. insamling, transport och 1. avfallshantering som
+1\. insamling, transport och 1. avfallshantering som
 behandling av avfall som enligt kommunen är ansvarig för enligt
 denna balk eller enligt föreskrifter denna balk eller enligt föreskrifter
 som har meddelats med stöd av som har meddelats med stöd av
 balken utförs av kommunen eller balken och som utförs av
 den som kommunen anlitar, kommunen eller den som
 kommunen anlitar,
-2. åtgärder som kommunen 2. åtgärder som kommunen
+2\. åtgärder som kommunen 2. åtgärder som kommunen
 vidtar i syfte att informera hushåll vidtar i syfte att lämna information
 och verksamhetsutövare som om avfallsförebyggande åtgärder
 producerar avfall som kommunen och avfallshantering till hushåll
@@ -6496,7 +6496,7 @@ avfallshantering och avfallsföre- producerar avfall som kommunen
 byggande åtgärder, och ansvarar för enligt 15 kap. och
 föreskrifter som har meddelats med
 stöd av 15 kap., och
-3. åtgärder som kommunen 3. åtgärder som kommunen
+3\. åtgärder som kommunen 3. åtgärder som kommunen
 vidtar för att underlätta insamling vidtar för att underlätta insamling
 och sortering av återanvändbara och sortering av återanvändbara
 produkter från hushåll och produkter från hushåll och
@@ -6580,7 +6580,7 @@ skall betalas.       avgiften ska betalas.
 En kommun ska i fråga om sitt
 ansvar för avfallshantering se till
 att
-1. verksamheten bokförs och
+1\. verksamheten bokförs och
 redovisas i enlighet med god
 redovisningssed där resultat- och
 balansräkningar redovisas särskilt
@@ -6589,24 +6589,24 @@ framgår hur kommunen har
 fördelat kostnader som varit
 gemensamma med  annan
 verksamhet,
-2. det av redovisningen framgår
+2\. det av redovisningen framgår
 om och hur avgifter tagits ut för att
 främja      miljöanpassad
 avfallshantering enligt 5 § andra
 stycket,
-3. det av redovisningen framgår
+3\. det av redovisningen framgår
 vilken ersättning kommunen har
 fått från producentansvars-
 organisationer för förpackningar,
 och
-4. redovisningen, när den är
+4\. redovisningen, när den är
 fastställd, finns tillgänglig för
 allmänheten.
 29 kap.
 4 §20
 För otillåten miljöverksamhet döms till böter eller fängelse i högst två år
 den som med uppsåt eller av oaktsamhet
-1. påbörjar eller bedriver en verksamhet eller vidtar en åtgärd utan
+1\. påbörjar eller bedriver en verksamhet eller vidtar en åtgärd utan
 tillstånd eller godkännande eller utan att ha gjort en anmälan, eller efter att
 ha gjort en anmälan påbörjar en verksamhet eller åtgärd utan att följa en
 föreskriven tidsfrist, allt enligt vad som krävs i
@@ -6654,7 +6654,7 @@ ansvarsorganisation för avfall från ansvarsorganisation för avfall från
 elektriska och elektroniska pro- elektriska och elektroniska pro-
 dukter, eller        dukter, eller
 o) bestämmelserna i 17 kap. om regeringens tillåtlighetsprövning, eller
-2. i egenskap av innehavare av det tillstånd eller det beslut om
+2\. i egenskap av innehavare av det tillstånd eller det beslut om
 tillåtlighet, godkännande eller dispens som gäller för verksamheten eller
 åtgärden och som har meddelats med stöd av balken, förordning (EG) nr
 1907/2006, förordning (EG) nr 1107/2009 eller förordning (EU) nr
@@ -6664,11 +6664,11 @@ I fråga om ett villkor eller en bestämmelse om buller (bullervillkor) som
 har angetts i ett sådant tillstånd eller beslut som avses i första stycket 2 ska
 det förhållandet att en bostadsbyggnad är utsatt för omgivningsbuller i
 strid med bullervillkoret inte anses utgöra ett brott mot villkoret, om
-1. byggnaden ingår i ett område med detaljplan eller omfattas av ett
+1\. byggnaden ingår i ett område med detaljplan eller omfattas av ett
 bygglov enligt plan- och bygglagen (2010:900),
-2. det i planbeskrivningen till planen eller i lovet har angetts beräknade
+2\. det i planbeskrivningen till planen eller i lovet har angetts beräknade
 bullervärden och omgivningsbullret inte överskrider dessa värden, och
-3. beräkningen av bullervärdena har gjorts med hänsyn till intresset att
+3\. beräkningen av bullervärdena har gjorts med hänsyn till intresset att
 förebygga olägenhet för människors hälsa.
 Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för gärningen
 kan dömas ut enligt 1 § eller om gärningen omfattas av en föreskrift som
@@ -6681,17 +6681,17 @@ miljösanktionsavgift.
 4 a §21
 För otillåten avfallstransport döms till böter eller fängelse i högst två år
 den som med uppsåt eller av oaktsamhet
-1. transporterar avfall utan 1. transporterar avfall utan
+1\. transporterar avfall utan 1. transporterar avfall utan
 tillstånd och därigenom bryter mot tillstånd och därigenom bryter mot
 föreskrifter som regeringen har föreskrifter som regeringen har
 meddelat med stöd av 15 kap. 17 § meddelat med stöd av 15 kap. 40 §
 om tillstånd för yrkesmässig om tillstånd för yrkesmässig
 transport av avfall, transport av avfall,
-2. inom Europeiska unionen transporterar avfall utan en skriftlig
+2\. inom Europeiska unionen transporterar avfall utan en skriftlig
 förhandsanmälan och utan ett godkännande och därigenom bryter mot
 artiklarna 4 och 9.6 i Europaparlamentets och rådets förordning (EG) nr
 1013/2006 av den 14 juni 2006 om transport av avfall,
-3. anordnar eller genomför en transport av avfall som är avsedd att gå
+3\. anordnar eller genomför en transport av avfall som är avsedd att gå
 från Europeiska unionen
 a) till ett land eller territorium utanför Europeiska unionen i strid mot ett
 exportförbud i någon av artiklarna 34, 36, 39, 40.1 och 40.2 i förordning
@@ -6717,37 +6717,37 @@ gäller i mottagarlandet på det sätt som följer av någon av artiklarna 35.5,
 f) till ett land eller territorium utanför Europeiska unionen utan en
 skriftlig förhandsanmälan och ett godkännande som krävs enligt artikel
 40.3 jämförd med artiklarna 4 och 9.6 i förordning (EG) nr 1013/2006,
-4. anordnar eller genomför en transport av avfall som är avsedd att gå
+4\. anordnar eller genomför en transport av avfall som är avsedd att gå
 mellan länder utanför Europeiska unionen men genom ett land i unionen
 utan en skriftlig förhandsanmälan och ett godkännande som krävs enligt
 artiklarna 47 och 48 jämförda med artiklarna 4, 9.6, 42 och 44 i förordning
 (EG) nr 1013/2006,
-5. till Europeiska unionen importerar avfall för bortskaffande i strid mot
+5\. till Europeiska unionen importerar avfall för bortskaffande i strid mot
 importförbudet i artikel 41 i förordning (EG) nr 1013/2006,
-6. till Europeiska unionen importerar avfall för bortskaffande utan att ha
+6\. till Europeiska unionen importerar avfall för bortskaffande utan att ha
 ett skriftligt godkännande och därigenom bryter mot artikel 42.4 a i
 förordning (EG) nr 1013/2006,
 21 Senaste lydelse 2019:496.                       29
 
 <!-- sida 168 -->
 
-7. till Europeiska unionen importerar avfall för återvinning i strid mot
+7\. till Europeiska unionen importerar avfall för återvinning i strid mot
 importförbudet i artikel 43 i förordning (EG) nr 1013/2006,
-8. till Europeiska unionen importerar avfall för återvinning utan att ha
+8\. till Europeiska unionen importerar avfall för återvinning utan att ha
 ett godkännande och därigenom bryter mot artikel 44.4 a eller 45 jämförd
 med artikel 42.4 a i förordning (EG) nr 1013/2006,
-9. till Europeiska unionen importerar avfall från ett sådant
+9\. till Europeiska unionen importerar avfall från ett sådant
 utomeuropeiskt land eller territorium som avses i artikel 46 i förordning
 (EG) nr 1013/2006 utan en skriftlig förhandsanmälan och utan ett
 godkännande och därigenom bryter mot artikel 46.1 jämförd med
 artiklarna 4 och 9.6, eller
-10. blandar avfall under transport i strid med artikel 19 i förordning (EG)
+10\. blandar avfall under transport i strid med artikel 19 i förordning (EG)
 nr 1013/2006.
 Till ansvar enligt första stycket 2, 3 b–d och 3 f, 4, 6, 8 och 9 döms också
 om det för transporten av avfall finns
-1. en skriftlig förhandsanmälan som innehåller en oriktig uppgift av
+1\. en skriftlig förhandsanmälan som innehåller en oriktig uppgift av
 betydelse från miljö- eller hälsoskyddssynpunkt, eller
-2. ett godkännande som föranletts av att någon lämnat en oriktig uppgift
+2\. ett godkännande som föranletts av att någon lämnat en oriktig uppgift
 som från miljö- eller hälsoskyddssynpunkt har haft betydelse för
 godkännandet.
 Om brottet är grovt, döms för grov otillåten avfallstransport till fängelse
@@ -6760,45 +6760,45 @@ kan dömas ut enligt 1 §.
 8 §22
 Till böter eller fängelse i högst två år döms den som med uppsåt eller av
 oaktsamhet
-1. bryter mot en föreskrift för totalförsvaret som har meddelats med stöd
+1\. bryter mot en föreskrift för totalförsvaret som har meddelats med stöd
 av 1 kap. 5 §, om en överträdelse av den lagbestämmelse från vilken
 avvikelsen har föreskrivits är straffbelagd,
-2. bryter mot en föreskrift om försiktighetsmått inom ett miljöskydds-
+2\. bryter mot en föreskrift om försiktighetsmått inom ett miljöskydds-
 område, som regeringen har meddelat med stöd av 7 kap. 20 §,
-3. bryter mot en föreskrift eller ett beslut om förbud mot utsläpp av
+3\. bryter mot en föreskrift eller ett beslut om förbud mot utsläpp av
 avloppsvatten m.m. som regeringen har meddelat med stöd av 9 kap. 4 §,
-4. bryter mot en föreskrift om försiktighetsmått vid miljöfarlig
+4\. bryter mot en föreskrift om försiktighetsmått vid miljöfarlig
 verksamhet som regeringen har meddelat med stöd av 9 kap. 5 §,
-5. i ett miljöriskområde som avses i 10 kap. 17 § vidtar en åtgärd som
+5\. i ett miljöriskområde som avses i 10 kap. 17 § vidtar en åtgärd som
 ökar belastningen av föroreningar i eller omkring området, annars
 försämrar den miljömässiga situationen eller försvårar avhjälpande-
 åtgärder,
-6. bryter mot den skyldighet att underhålla en vattenanläggning som
+6\. bryter mot den skyldighet att underhålla en vattenanläggning som
 följer av 11 kap. 17 § första stycket, 20 § första stycket eller 21 § första
 stycket,
-7. bryter mot ett förbud till skydd för naturmiljön enligt 12 kap. 6 §
+7\. bryter mot ett förbud till skydd för naturmiljön enligt 12 kap. 6 §
 fjärde stycket,
 30           22 Senaste lydelse 2016:783.
 
 <!-- sida 169 -->
 
-8. bryter mot bestämmelsen i 13 kap. 8 § om utredning innan en
+8\. bryter mot bestämmelsen i 13 kap. 8 § om utredning innan en
 genteknisk verksamhet påbörjas eller mot en föreskrift om utredningen
 som regeringen har meddelat med stöd av 13 kap. 9 §,
-9. bryter mot en föreskrift om försiktighetsmått vid genteknisk
+9\. bryter mot en föreskrift om försiktighetsmått vid genteknisk
 verksamhet som regeringen har meddelat med stöd av 13 kap. 11 §,
-10. bryter mot skyldigheten att upprätta en kemikaliesäkerhetsrapport
+10\. bryter mot skyldigheten att upprätta en kemikaliesäkerhetsrapport
 enligt vad som krävs i artiklarna 37.4 och 39.1 i förordning (EG) nr
 1907/2006,
-11. bryter mot skyldigheten att förse Europeiska kemikaliemyndigheten
+11\. bryter mot skyldigheten att förse Europeiska kemikaliemyndigheten
 med information enligt vad som krävs i artiklarna 38, 39.2 och 66.1 i
 förordning (EG) nr 1907/2006,
-12. bryter mot förbudet mot 12. bryter mot förbudet mot
+12\. bryter mot förbudet mot 12. bryter mot förbudet mot
 dumpning eller förbränning av dumpning eller förbränning av
 avfall enligt 15 kap. 27 §, avfall i 15 kap. 30 §,
-13. bryter mot ett förbud mot fiske som i det enskilda fallet har beslutats
+13\. bryter mot ett förbud mot fiske som i det enskilda fallet har beslutats
 med stöd av 28 kap. 13 §, eller
-14. bryter mot artikel 4 i Europaparlamentets och rådets förordning (EU)
+14\. bryter mot artikel 4 i Europaparlamentets och rådets förordning (EU)
 nr 511/2014 av den 16 april 2014 om åtgärder för användarnas efterlevnad
 i Nagoyaprotokollet om tillträde till och rimlig och rättvis fördelning av
 vinster från utnyttjande av genetiska resurser i unionen genom att inte följa
@@ -6812,76 +6812,76 @@ Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för gärningen
 kan dömas ut enligt 1 § eller 9 § första stycket 5.
 9 §23
 Till böter döms den som med uppsåt eller av oaktsamhet
-1. bryter mot bestämmelsen i artikel 6.3 i förordning (EG) nr 338/97 om
+1\. bryter mot bestämmelsen i artikel 6.3 i förordning (EG) nr 338/97 om
 skyldighet att i en ansökan lämna uppgift om tidigare beslut om avslag,
-2. bryter mot en föreskrift eller ett beslut i ett enskilt fall om
+2\. bryter mot en föreskrift eller ett beslut i ett enskilt fall om
 tomgångskörning eller gatumusik som regeringen eller, efter regeringens
 bemyndigande, en myndighet har meddelat med stöd av 9 kap. 12 §,
-3. bryter mot en föreskrift om skötsel av jordbruksmark som regeringen
+3\. bryter mot en föreskrift om skötsel av jordbruksmark som regeringen
 eller, efter regeringens bemyndigande, en myndighet har meddelat med
 stöd av 12 kap. 8 §,
-4. bryter mot en föreskrift om hantering av gödsel som regeringen eller,
+4\. bryter mot en föreskrift om hantering av gödsel som regeringen eller,
 efter regeringens bemyndigande, en myndighet har meddelat med stöd av
 12 kap. 10 §,
-5. vid en sådan odling av genetiskt modifierade organismer som
+5\. vid en sådan odling av genetiskt modifierade organismer som
 omfattas av ett tillstånd enligt 13 kap. 12 § bryter mot en föreskrift om
 försiktighetsmått som regeringen eller, efter regeringens bemyndigande,
 en myndighet har meddelat med stöd av 13 kap. 11 §,
-6. bryter mot en föreskrift om märkning av genetiskt modifierade
+6\. bryter mot en föreskrift om märkning av genetiskt modifierade
 organismer som regeringen eller, efter regeringens bemyndigande, en
 myndighet har meddelat med stöd av 13 kap. 18 §,
 23 Senaste lydelse 2022:1799.                      31
 
 <!-- sida 170 -->
 
-7. bryter mot en bestämmelse om spårbarhet eller märkning enligt artikel
+7\. bryter mot en bestämmelse om spårbarhet eller märkning enligt artikel
 4.1, 4.2, 4.3, 4.4, 4.6, 5.1 eller 5.2 i Europaparlamentets och rådets
 förordning (EG) nr 1830/2003 av den 22 september 2003 om spårbarhet
 och märkning av genetiskt modifierade organismer och spårbarhet av
 livsmedel och foderprodukter som är framställda av genetiskt modifierade
 organismer och om ändring av direktiv 2001/18/EG,
-8. bryter mot en bestämmelse om information, identifiering,
+8\. bryter mot en bestämmelse om information, identifiering,
 dokumentation eller anmälan enligt artikel 6, 12 eller 13 i
 Europaparlamentets och rådets förordning (EG) nr 1946/2003 av den 15
 juli 2003 om gränsöverskridande förflyttning av genetiskt modifierade
 organismer,
-9. på marknaden släpper ut en kosmetisk produkt som inte uppfyller
+9\. på marknaden släpper ut en kosmetisk produkt som inte uppfyller
 kraven om märkning enligt artikel 19.1 eller 19.2 i förordning (EG) nr
 1223/2009, eller på marknaden tillhandahåller en kosmetisk produkt som
 inte uppfyller kraven om märkning enligt artikel 19.1 a, e eller g i samma
 förordning,
-10. bryter mot skyldigheten att lämna information enligt artikel 9 i
+10\. bryter mot skyldigheten att lämna information enligt artikel 9 i
 förordning (EG) nr 648/2004,
-11. bryter mot en bestämmelse om information eller dokumentation
+11\. bryter mot en bestämmelse om information eller dokumentation
 enligt artikel 32, 34 eller 36 i förordning (EG) nr 1907/2006,
-12. i fråga om ett växtskyddsmedel som är godkänt i ett annat land i
+12\. i fråga om ett växtskyddsmedel som är godkänt i ett annat land i
 Europeiska unionen men som inte är godkänt i Sverige bryter mot artikel
 52 i förordning (EG) nr 1107/2009 genom att föra in medlet till Sverige,
 släppa ut det på marknaden eller använda det utan att medlet omfattas av
 ett sådant parallellhandelstillstånd som krävs enligt artikeln,
-13. i fråga om en biocidprodukt som är godkänd i ett annat land i
+13\. i fråga om en biocidprodukt som är godkänd i ett annat land i
 Europeiska unionen men som inte är godkänd i Sverige tillhandahåller
 produkten eller använder den utan att produkten omfattas av ett sådant
 parallellhandelstillstånd som avses i artikel 53 i förordning (EU) nr
 528/2012,
-14. bryter mot bestämmelsen i 14. bryter mot 15 kap. 14 § första
+14\. bryter mot bestämmelsen i 14. bryter mot 15 kap. 14 § första
 15 kap. 24 § första stycket eller en stycket eller en föreskrift som
 föreskrift som regeringen har regeringen har meddelat med stöd
 meddelat med stöd av 15 kap. 39 § av 15 kap. 36 § genom att
 genom att yrkesmässigt eller annars yrkesmässigt eller annars i stor
 i stor omfattning transportera omfattning transportera avfall,
 avfall,
-15. bryter mot en föreskrift som 15. bryter mot en föreskrift som
+15\. bryter mot en föreskrift som 15. bryter mot en föreskrift som
 regeringen har meddelat med stöd regeringen har meddelat med stöd
 av 15 kap. 30 § genom att lämna av 15 kap. 41 § genom att lämna
 avfall till någon som inte har gjort avfall till någon som inte har gjort
 de anmälningar eller har de tillstånd de anmälningar eller har de tillstånd
 som krävs för avfallshanteringen, som krävs för avfallshanteringen,
-16. i egenskap av fartygsägare lämnar oriktig eller vilseledande
+16\. i egenskap av fartygsägare lämnar oriktig eller vilseledande
 information om sitt fartyg som underlag till den återvinningsplan som den
 driftsansvariga ska ta fram för fartyget enligt artikel 7 i förordning (EU)
 nr 1257/2013, eller
-17. i egenskap av driftsansvarig på en sådan fartygsåtervinnings-
+17\. i egenskap av driftsansvarig på en sådan fartygsåtervinnings-
 anläggning som avses i förordning (EU) nr 1257/2013 återvinner ett fartyg
 på ett sätt som inte överensstämmer med den återvinningsplan som har
 32           tagits fram för fartyget enligt artikel 7 i förordningen.
@@ -6891,8 +6891,8 @@ på ett sätt som inte överensstämmer med den återvinningsplan som har
 Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för gärningen
 kan dömas ut enligt 1 §.
 
-1. Denna lag träder i kraft den 1 januari 2026.
-2. Äldre föreskrifter gäller fortfarande för mål och ärenden som har
+1\. Denna lag träder i kraft den 1 januari 2026.
+2\. Äldre föreskrifter gäller fortfarande för mål och ärenden som har
 inletts före ikraftträdandet.
 
 33
@@ -6952,15 +6952,15 @@ zon ska ha följande lydelse.
 Nuvarande lydelse    Föreslagen lydelse
 3 §1
 Till skydd för den marina miljön finns det också bestämmelser om
-1. geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,
-2. särskilda skyddade naturområden i 7 kap. 27–30 och 32 §§
+1\. geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,
+2\. särskilda skyddade naturområden i 7 kap. 27–30 och 32 §§
 miljöbalken,
-3. allvarliga miljöskador i 10 kap. 18 a § miljöbalken,
-4. dumpning i 15 kap. 27–29 §§ 4. dumpning i 15 kap. 30–32 §§
+3\. allvarliga miljöskador i 10 kap. 18 a § miljöbalken,
+4\. dumpning i 15 kap. 27–29 §§ 4. dumpning i 15 kap. 30–32 §§
 miljöbalken,         miljöbalken,
-5. föroreningar från fartyg i lagen (1980:424) om åtgärder mot
+5\. föroreningar från fartyg i lagen (1980:424) om åtgärder mot
 förorening från fartyg, och
-6. hantering och kontroll av fartygs barlastvatten och sediment från
+6\. hantering och kontroll av fartygs barlastvatten och sediment från
 sådant vatten i barlastvattenlagen (2009:1165).
 
 Denna lag träder i kraft den 1 januari 2026.
@@ -6994,9 +6994,9 @@ godtagbar användning för. godtagbar användning för.
 Den som bedriver eller har bedrivit en verksamhet med joniserande
 strålning ska se till att det radioaktiva avfall som uppkommit i eller tillförts
 verksamheten så snart som det är möjligt och rimligt
-1. hanteras och vid behov slutförvaras på ett från strålskyddssynpunkt
+1\. hanteras och vid behov slutförvaras på ett från strålskyddssynpunkt
 godtagbart sätt, eller
-2. överlämnas till en producent 2. överlämnas till en producent
+2\. överlämnas till en producent 2. överlämnas till en producent
 som enligt föreskrifter som har som enligt föreskrifter som har
 meddelats med stöd av 15 kap. 12 § meddelats med stöd av 15 kap. 20 §
 miljöbalken är skyldig att ta hand miljöbalken är skyldig att ta hand
@@ -7023,11 +7023,11 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §1
 En prövnings- och tillsynsavgift ska betalas av den som driver eller har
 tillstånd till en verksamhet som
-1. är tillståndspliktig enligt miljöprövningsförordningen (2013:251),
-2. har ett sådant tillstånd som avses i 9 kap. 6 a eller 6 b §§ miljöbalken
+1\. är tillståndspliktig enligt miljöprövningsförordningen (2013:251),
+2\. har ett sådant tillstånd som avses i 9 kap. 6 a eller 6 b §§ miljöbalken
 efter ett föreläggande att ansöka om tillstånd eller en frivillig ansökan om
 tillstånd, eller
-3. har upphört att vara tillståndspliktig men bedrivs med stöd av ett
+3\. har upphört att vara tillståndspliktig men bedrivs med stöd av ett
 sådant tillstånd som avses i 9 kap. 6 § miljöbalken.
 I de fall länsstyrelsen har I de fall länsstyrelsen har
 ansvaret för tillsynen över ansvaret för tillsynen över
@@ -7038,15 +7038,15 @@ tillsyn över att bestämmelserna i tillsyn över att 14 och 15 kap.
 7 kap.
 8 a §2
 Avgift ska betalas för länsstyrelsens prövning av
-1. en anmälan som avser 1. en anmälan som avser
+1\. en anmälan som avser 1. en anmälan som avser
 yrkesmässig insamling av avfall yrkesmässig insamling av avfall
 enligt  5 kap.   10 § enligt 5 kap. 10 § avfalls-
 avfallsförordningen (2020:614), förordningen (2020:614),
 och
-2. en anmälan som avser 2. en anmälan som avser
+2\. en anmälan som avser 2. en anmälan som avser
 handlare eller mäklare enligt 5 kap. handlare eller mäklare enligt 5 kap.
 11 § avfallsförordningen. 11 § avfallsförordningen, och
-3. en begäran som avser en
+3\. en begäran som avser en
 yrkesmässig verksamhets hantering
 av avfall som kommunen ansvarar
 för enligt 15 kap. 17 § miljöbalken.
@@ -7132,20 +7132,20 @@ det att förbränningsprocessen har
 startat.
 8 §2
 Följande avfall får inte deponeras:
-1. flytande avfall,
-2. avfall som är explosivt, frätande, oxiderande, brandfarligt eller
+1\. flytande avfall,
+2\. avfall som är explosivt, frätande, oxiderande, brandfarligt eller
 mycket brandfarligt enligt bilaga III till direktiv 2008/98/EG,
-3. sjukvårdsavfall och annat kliniskt avfall från medicinska eller
+3\. sjukvårdsavfall och annat kliniskt avfall från medicinska eller
 veterinärmedicinska verksamheter som är smittfarligt enligt bilaga III till
 direktiv 2008/98/EG,
-4. avfall som utgörs av kemiska ämnen från forskning och utveckling
+4\. avfall som utgörs av kemiska ämnen från forskning och utveckling
 eller undervisning (laboratorierester) och som inte är identifierade eller
 vars effekt på hälsan eller miljön är okända,
-5. hela begagnade däck som inte är cykeldäck och som har en diameter
+5\. hela begagnade däck som inte är cykeldäck och som har en diameter
 mindre än 1 400 millimeter,
-6. utsorterat brännbart avfall,
-7. organiskt avfall, och 7. organiskt avfall,
-8. avfall som har samlats in 8. avfall som har samlats in
+6\. utsorterat brännbart avfall,
+7\. organiskt avfall, och 7. organiskt avfall,
+8\. avfall som har samlats in 8. avfall som har samlats in
 separat i syfte att förberedas för separat i syfte att förberedas för
 återanvändning   eller återanvändning eller
 materialåtervinning. materialåtervinning, och
@@ -7154,7 +7154,7 @@ materialåtervinning. materialåtervinning, och
 
 <!-- sida 178 -->
 
-9. restavfall.
+9\. restavfall.
 
 Denna förordning träder i kraft den 1 januari 2026.
 
@@ -7175,7 +7175,7 @@ Nuvarande lydelse    Föreslagen lydelse
 2 kap.
 24 §1
 Naturvårdsverket
-1. har ansvar för tillsynen enligt miljöbalken i fråga om
+1\. har ansvar för tillsynen enligt miljöbalken i fråga om
 a) producentansvaret enligt a) förbud mot att släppa ut varor
 förordningen (2008:834) om på marknaden som har meddelats
 producentansvar för batterier, med med stöd av 15 kap. 38 §
@@ -7254,11 +7254,11 @@ skyldigheter som den skyldigheter som den
 driftsansvariga på en driftsansvariga på en
 fartygsåtervinningsanläggning har fartygsåtervinningsanläggning har
 enligt artikel 13.2, och enligt artikel 13.2, och
-2. förordningen (2021:996) om
+2\. förordningen (2021:996) om
 engångsprodukter, med undantag
 för frågor som avses i 17–22 och
 28 §§ i den förordningen,
-3. är marknadskontrollmyndighet och utövar kontroll enligt förordning
+3\. är marknadskontrollmyndighet och utövar kontroll enligt förordning
 (EU) 2019/1020 över att produkter överensstämmer med kraven i
 a) Europaparlamentets och rådets direktiv 94/62/EG av den 20 december
 1994 om förpackningar och förpackningsavfall,
@@ -7280,36 +7280,36 @@ om skyldigheter för producenter
 och  i förekommande fall
 producentansvarsorganisationer
 och marknadsdrivna system enligt
-1. förordningen (2008:834) om
+1\. förordningen (2008:834) om
 producentansvar för batterier,
-2. förordningen (2021:998) om
+2\. förordningen (2021:998) om
 producentansvar för vissa
 tobaksvaror och filter,
-3. förordningen (2021:1001) om
+3\. förordningen (2021:1001) om
 producentansvar för fiskeredskap,
-4. förordningen (2022:1274) om
+4\. förordningen (2022:1274) om
 producentansvar för förpackning-
 ar,
-5. förordningen (2022:1276) om
+5\. förordningen (2022:1276) om
 producentansvar för elutrustning,
-6. förordningen (2023:132) om
+6\. förordningen (2023:132) om
 producentansvar för bilar, och
-7. förordningen (2023:133) om
+7\. förordningen (2023:133) om
 producentansvar för däck.
 24 b §
 Naturvårdsverket har ansvar för
 tillsynen enligt miljöbalken i fråga
 om  samtliga rapporterings-
 skyldigheter i
-1. de förordningar som anges i
+1\. de förordningar som anges i
 24 och 24 a §§,
-2. avfallsförordningen
+2\. avfallsförordningen
 (2020:614),
-3. förordningen om deponering
+3\. förordningen om deponering
 av avfall (2021:512),
-4. förordning (EG) nr
+4\. förordning (EG) nr
 1013/2006, och
-5. förordningen (2013:319) om
+5\. förordningen (2013:319) om
 utvinningsavfall.
 43
 
@@ -7323,9 +7323,9 @@ dumpning och förbränning av gäller sådan dumpning och
 avfall som regleras genom 15 kap. förbränning av avfall som regleras
 27–29 §§ miljöbalken. genom 15 kap. 30–32 §§
 miljöbalken,
-2. kommunernas skyldigheter
+2\. kommunernas skyldigheter
 enligt 15 kap. miljöbalken, och
-3. de verksamheter som omfattas
+3\. de verksamheter som omfattas
 av tillstånds- eller anmälningsplikt
 enligt 5 kap. avfallsförordningen
 (2020:614).
@@ -7335,7 +7335,7 @@ Tullverket och Kustbevakningen.
 Om länsstyrelsen har ansvar för en viss verksamhet enligt 29 § första
 stycket 1 eller 2, ska länsstyrelsen också ansvara för tillsynen enligt
 miljöbalken över verksamheten när det gäller
-1. bestämmelserna i 14 kap. miljöbalken och de EU-förordningar som
+1\. bestämmelserna i 14 kap. miljöbalken och de EU-förordningar som
 anges i 19 § 7–9, 11–13, 16, 17 och 19 i fråga om
 a) primärleverantörers hantering av kemiska produkter, biotekniska
 organismer och varor som inte innebär utsläppande på marknaden,
@@ -7343,18 +7343,18 @@ b) andras än primärleverantörers hantering av kemiska produkter eller
 biotekniska organismer, och
 c) andras än primärleverantörers hantering av varor som inte innebär
 utsläppande på marknaden,
-2. att föreskrifter meddelade med stöd av 12 kap. 10 § miljöbalken följs,
+2\. att föreskrifter meddelade med stöd av 12 kap. 10 § miljöbalken följs,
 och
-3. avfall, farligt avfall och 3. 15 kap. miljöbalken.
+3\. avfall, farligt avfall och 3. 15 kap. miljöbalken.
 producentansvar.
 Länsstyrelsen ska dock inte ha Länsstyrelsens tillsynsansvar
 ansvar för           enligt första stycket omfattar inte
-1.  sådan tillsyn som den tillsyn som
+1\.  sådan tillsyn som den tillsyn som
 Arbetsmiljöverket har ansvar för 1. Arbetsmiljöverket har ansvar
 enligt 20 § eller som för enligt 20 §,
 Livsmedelsverket har ansvar för 2. Livsmedelsverket har ansvar
 enligt 22 §, eller   för enligt 22 §,
-2. sådan tillsyn eller kontroll som 3. Transportstyrelsen har ansvar
+2\. sådan tillsyn eller kontroll som 3. Transportstyrelsen har ansvar
 Transportstyrelsen har ansvar för för enligt 27 §, eller
 enligt 27 §.          4. Naturvårdsverket har ansvar
 för enligt 24–24 b §§.
@@ -7367,29 +7367,29 @@ för enligt 24–24 b §§.
 31 §4
 Den kommunala nämnden har, utöver det som följer av 26 kap. 3 § tredje
 stycket miljöbalken, ansvar för tillsynen i fråga om
-1. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
+1\. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 som inte särskilt anges i miljöprövningsförordningen (2013:251) eller
 bilagan till förordningen (1998:899) om miljöfarlig verksamhet och
 hälsoskydd,
-2. vattentäkter som omfattas av tillståndsplikt som kommunen har
+2\. vattentäkter som omfattas av tillståndsplikt som kommunen har
 föreskrivit enligt 9 kap. 10 § miljöbalken,
-3. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
+3\. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
 29 § första stycket 3,
-4. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
+4\. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
 orsakats av en verksamhet eller åtgärd som den kommunala nämnden har
 tillsynsansvaret för,
-5. hantering av kemiska produkter, biotekniska organismer och varor i
+5\. hantering av kemiska produkter, biotekniska organismer och varor i
 andra verksamheter än miljöfarliga verksamheter enligt 9 kap.
 miljöbalken, utom när det gäller den tillsyn över primärleverantörers
 utsläppande på marknaden av kemiska produkter, biotekniska organismer
 och varor som Kemikalieinspektionen ansvarar för enligt 21 § första
 stycket 1 a och b,
-6. utrustning i motorfordon, flyg 6. utrustning i motorfordon, flyg
+6\. utrustning i motorfordon, flyg 6. utrustning i motorfordon, flyg
 och  tåg som  innehåller och tåg som innehåller
 kontrollerade ämnen enligt kontrollerade ämnen enligt
 förordning (EU) nr 517/2014 eller förordning (EU) nr 517/2014 eller
 förordning (EG) nr 1005/2009, och förordning (EG) nr 1005/2009,
-7. hur 17–22 och 28 §§ 7. 15 kap. miljöbalken när det
+7\. hur 17–22 och 28 §§ 7. 15 kap. miljöbalken när det
 förordningen (2021:996) om gäller
 engångsprodukter uppfylls lokalt. a) de som är folkbokförda i en
 kommun och övriga som vistas i
@@ -7397,14 +7397,14 @@ kommunen, och
 b) andra verksamheter än
 miljöfarliga verksamheter enligt
 9 kap. miljöbalken, och
-8. nedskräpningen i kommunen.
+8\. nedskräpningen i kommunen.
 32 §5
 Om en kommunal nämnd har ansvar för tillsynen över en viss verksamhet
 enligt 26 kap. 3 § tredje stycket miljöbalken eller enligt 1 kap. 19 och
 20 §§ denna förordning, ska nämnden också ansvara för tillsynen över
 verksamheten när det gäller
-1. att föreskrifter meddelade med stöd av 12 kap. 10 § miljöbalken följs,
-2. bestämmelserna i 14 kap. miljöbalken samt de EU- förordningar som
+1\. att föreskrifter meddelade med stöd av 12 kap. 10 § miljöbalken följs,
+2\. bestämmelserna i 14 kap. miljöbalken samt de EU- förordningar som
 anges i 19 § 7–9, 11–13, 16, 17 och 19 i fråga om
 a) primärleverantörers hantering av kemiska produkter, biotekniska
 organismer och varor som inte innebär utsläppande på marknaden, och
@@ -7417,7 +7417,7 @@ b) andras än primärleverantörers b) andras än primärleverantörers
 hantering av kemiska produkter, hantering av kemiska produkter,
 biotekniska organismer och varor, biotekniska organismer och varor,
 och
-3. att andra än primärleverantörer 3. att andra än primärleverantörer
+3\. att andra än primärleverantörer 3. att andra än primärleverantörer
 följer sådana föreskrifter om förbud följer sådana föreskrifter om förbud
 mot att släppa ut kemiska produkter mot att släppa ut kemiska produkter
 på marknaden som har meddelats på marknaden som har meddelats
@@ -7430,12 +7430,12 @@ ansvar för enligt 20 §, 1. Arbetsmiljöverket har ansvar
 Livsmedelsverket har ansvar för för enligt 20 §,
 enligt 22 § eller Transportstyrelsen 2. Livsmedelsverket har ansvar
 har ansvar för enligt 27 §. för enligt 22 §,
-3. Transportstyrelsen har ansvar
+3\. Transportstyrelsen har ansvar
 för enligt 27 §, eller
-4. Naturvårdsverket har ansvar
+4\. Naturvårdsverket har ansvar
 för enligt 24–24 b §§.
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Äldre föreskrifter gäller fortfarande för mål och ärenden som har
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Äldre föreskrifter gäller fortfarande för mål och ärenden som har
 inletts före ikraftträdandet.
 
 46
@@ -7480,10 +7480,10 @@ ett marknadsdrivet system för
 Naturvårdsverket om att anmäl-
 ningsplikten är uppfylld ska en
 miljösanktionsavgift betalas
-1. med 30 000 kronor, om
+1\. med 30 000 kronor, om
 systemet roterar eller samlar in
 1 000 förpackningar eller färre,
-2. med 100 000 kronor, om
+2\. med 100 000 kronor, om
 systemet roterar eller samlar in fler
 än 1 000 förpackningar men
 högst10 000 förpackningar,
@@ -7491,7 +7491,7 @@ högst10 000 förpackningar,
 
 <!-- sida 186 -->
 
-3. 300 000 kronor, om systemet
+3\. 300 000 kronor, om systemet
 roterar eller samlar in fler än
 10 000 förpackningar.
 
@@ -7515,70 +7515,70 @@ Nuvarande lydelse    Föreslagen lydelse
 
 3 §1
 Naturvårdsverket ska inom sitt ansvarsområde särskilt
-1. bevaka allmänna miljöintressen i mål och ärenden där miljöbalken
+1\. bevaka allmänna miljöintressen i mål och ärenden där miljöbalken
 tillämpas och som handläggs hos myndigheter och domstolar samt lämna
 Naturvårdsverkets synpunkter tidigt i processen,
-2. delta i miljöprövningar som gäller frågor som är principiellt viktiga
+2\. delta i miljöprövningar som gäller frågor som är principiellt viktiga
 eller har stor betydelse för miljön,
-3. vägleda statliga myndigheter i deras miljöledningsarbete
-4. samordna uppföljning och utvärdering av generationsmålet och
+3\. vägleda statliga myndigheter i deras miljöledningsarbete
+4\. samordna uppföljning och utvärdering av generationsmålet och
 miljökvalitetsmålen Begränsad klimatpåverkan, Frisk luft, Bara naturlig
 försurning, Skyddande ozonskikt, Myllrande våtmarker, Storslagen
 fjällmiljö och Ett rikt växt- och djurliv,
-5. utveckla, följa upp och samordna arbetet med miljöinformations-
+5\. utveckla, följa upp och samordna arbetet med miljöinformations-
 försörjning och ansvara för den övergripande administrativa
 samordningen av miljöövervakningen,
-6. på ett kostnadseffektivt sätt göra kunskaper om miljön och klimatet
+6\. på ett kostnadseffektivt sätt göra kunskaper om miljön och klimatet
 samt miljö- och klimatarbetet tillgängliga för myndigheter, allmänheten
 och andra berörda,
-7. i samråd med Havs- och vattenmyndigheten fördela medel för
+7\. i samråd med Havs- och vattenmyndigheten fördela medel för
 miljöövervakning, uppföljning av miljökvalitetsmålen och internationell
 rapportering och efter samråd med övriga berörda myndigheter och
 organisationer ansvara för genomförandet av miljöövervakningen samt
 beskriva och analysera miljötillståndet inom sitt ansvarsområde,
-8. finansiera miljöforskning till stöd för Naturvårdsverkets och Havs-
+8\. finansiera miljöforskning till stöd för Naturvårdsverkets och Havs-
 och vattenmyndighetens arbete och samråda med Havs- och
 vattenmyndigheten om fördelningen,
-9. ansvara för nationell samordning när det gäller förorenade områden
+9\. ansvara för nationell samordning när det gäller förorenade områden
 och avhjälpande av sådana föroreningsskador och allvarliga miljöskador
 som avses i 10 kap. miljöbalken
-10. ansvara för administration, uppföljning och utvärdering av de bidrag
+10\. ansvara för administration, uppföljning och utvärdering av de bidrag
 som omfattas av förordningen (2004:100) om statsbidrag för avhjälpande
 av föroreningsskador,
-11. förvärva och förvalta fastigheter för statens räkning för att skydda
+11\. förvärva och förvalta fastigheter för statens räkning för att skydda
 värdefulla naturområden,
-12. ansvara för att ta fram underlag för beslut att inrätta nationalparker,
+12\. ansvara för att ta fram underlag för beslut att inrätta nationalparker,
 1 Senaste lydelse 2022:187.                        49
 
 <!-- sida 188 -->
 
-13. verka för att förutsättningarna för friluftslivet bevaras och utvecklas,
-14. samordna myndigheternas arbete när det gäller friluftsliv och
+13\. verka för att förutsättningarna för friluftslivet bevaras och utvecklas,
+14\. samordna myndigheternas arbete när det gäller friluftsliv och
 samverka med andra berörda i sådana frågor samt vartannat år redovisa en
 samlad uppföljning av de friluftslivsmål som regeringen fastställt och vart
 fjärde år lämna förslag i syfte att målen ska nås,
-15. verka för en hållbar utbyggnad av vindkraft,
-16. ansvara för frågor om jakt och vilt enligt jaktlagstiftningen,
-17. medverka till att främja brukandet av vilt som resurs,
-18. verka för en samhälls- 18. verka för en samhälls-
+15\. verka för en hållbar utbyggnad av vindkraft,
+16\. ansvara för frågor om jakt och vilt enligt jaktlagstiftningen,
+17\. medverka till att främja brukandet av vilt som resurs,
+18\. verka för en samhälls- 18. verka för en samhälls-
 ekonomiskt effektiv omställning ekonomiskt effektiv omställning
 till en cirkulär ekonomi, till en cirkulär ekonomi samt för
 avfallsförebyggande åtgärder,
 giftfria kretslopp, hållbar
 avfallshantering och minskad
 nedskräpning,
-19. verka för minskad nedskräp- 19. ansvara för uppföljning,
+19\. verka för minskad nedskräp- 19. ansvara för uppföljning,
 ning och hållbar avfallshantering, utvärdering och rapportering
 inklusive avfallsförebyggande enligt avfallslagstiftningen,
 insatser och giftfria kretslopp,
-20. ansvara för nationell plastsamordning,
-21. samordna myndigheternas arbete när det gäller omgivningsbuller,
-22. vara medlem i en sådan ideell förening som avses i 2 §
+20\. ansvara för nationell plastsamordning,
+21\. samordna myndigheternas arbete när det gäller omgivningsbuller,
+22\. vara medlem i en sådan ideell förening som avses i 2 §
 Laponiaförordningen (2011:840),
-23. integrera ett jämställdhets- 23. integrera ett jämställdhets-
+23\. integrera ett jämställdhets- 23. integrera ett jämställdhets-
 perspektiv i myndighetens verk- perspektiv i myndighetens verk-
 samhet, och          samhet,
-24. samordna berörda myndig- 24. samordna berörda myndig-
+24\. samordna berörda myndig- 24. samordna berörda myndig-
 heters arbete med metodutveckling heters arbete med metodutveckling
 för klimateffektbedömningar samt för klimateffektbedömningar samt
 vid behov bistå Regeringskansliet vid behov bistå Regeringskansliet
@@ -7586,7 +7586,7 @@ med klimateffektbedömningar av med klimateffektbedömningar av
 styrmedel och åtgärder som styrmedel och åtgärder som påver-
 påverkar Sveriges utsläpp av kar Sveriges utsläpp av växthus-
 växthusgaser.        gaser, och
-25. ansvara för statistik om
+25\. ansvara för statistik om
 avfall, miljöbalkens tillämpning,
 miljötillstånd och utsläpp enligt
 förordningen (2001:100) om den
@@ -7717,27 +7717,27 @@ finns i bilskrotningsförordningen
 1 d §
 Bestämmelser om producentansvar
 finns i
-1. förordningen (2008:834) om
+1\. förordningen (2008:834) om
 producentansvar för batterier,
-2. förordningen (2009:1031) om
+2\. förordningen (2009:1031) om
 producentansvar för läkemedel,
-3. förordningen (2021:998) om
+3\. förordningen (2021:998) om
 producentansvar för vissa tobaks-
 varor och filter,
-4. förordningen (2021:999) om
+4\. förordningen (2021:999) om
 producentansvar för ballonger,
-5. förordningen (2021:1000) om
+5\. förordningen (2021:1000) om
 producentansvar för våtservetter,
-6. förordningen (2021:1001) om
+6\. förordningen (2021:1001) om
 producentansvar för fiskeredskap,
-7. förordningen (2022:1274) om
+7\. förordningen (2022:1274) om
 producentansvar för förpack-
 ningar,
-8. förordningen (2022:1276) om
+8\. förordningen (2022:1276) om
 producentansvar för elutrustning,
-9. förordningen (2023:132) om
+9\. förordningen (2023:132) om
 producentansvar för bilar, och
-10. förordningen (2023:133) om
+10\. förordningen (2023:133) om
 producentansvar för däck.
 Lydelse enligt SFS 2023:908 Föreslagen lydelse
 4 §
@@ -7747,7 +7747,7 @@ brinner utan energitillskott efter
 det att förbränningsprocessen har
 startat,
 farligt avfall: avfall som i bilaga 3 beskrivs med en avfallskod markerad
-med en asterisk (*),
+med en asterisk (\*),
 förberedande behandling: sor-
 tering, krossning, komprimering,
 sintring eller annan mekanisk
@@ -7788,9 +7788,9 @@ flera personer använder permanent flera personer använder permanent
 eller som fritidsboende. eller som fritidsboende, och
 – fastighetsnära insamling:
 insamling av avfall från en
-1. fastighet där avfall
+1\. fastighet där avfall
 produceras, eller
-2. överenskommen eller anvisad
+2\. överenskommen eller anvisad
 plats, högst 400 meter från gränsen
 till en fastighet där avfall
 produceras, om insamling från
@@ -7810,13 +7810,13 @@ Nationell avfallsplanering
 1 § Naturvårdsverket ska ta fram de underlag som behövs till grund för
 en nationell avfallsplan enligt 15 kap. 8 § miljöbalken. Underlaget ska
 omfatta Sveriges hela geografiska territorium och uppfylla kraven i bilaga
-4.
+4\.
 När underlaget ska tas fram eller uppdateras ska Naturvårdsverket
-1. på lämpligt sätt ge företrädare för länsstyrelserna, kommunerna och
+1\. på lämpligt sätt ge företrädare för länsstyrelserna, kommunerna och
 näringslivet tillfälle att yttra sig över underlaget till avfallsplanen,
-2. följa kraven i fråga om allmänhetens medverkan i artikel 31 i direktiv
+2\. följa kraven i fråga om allmänhetens medverkan i artikel 31 i direktiv
 2008/98/EG, och
-3. följa kraven i fråga om samarbete med övriga berörda medlemsstater
+3\. följa kraven i fråga om samarbete med övriga berörda medlemsstater
 och med Europeiska kommissionen i artikel 32 i direktiv 2008/98/EG.
 Det underlag som tas fram ska lämnas till regeringen, om inte regeringen
 beslutar något annat.
@@ -7842,9 +7842,9 @@ Mål för kommunalt avfall
 6 § Kommunalt avfall ska behandlas genom förberedelse för
 återanvändning eller materialåtervinning så att materialåtervinningsgraden
 ökar till minst
-1. 55 viktprocent per år senast 2025,
-2. 60 viktprocent per år senast 2030, och
-3. 65 viktprocent per år senast 2035.
+1\. 55 viktprocent per år senast 2025,
+2\. 60 viktprocent per år senast 2030, och
+3\. 65 viktprocent per år senast 2035.
 7 § Minst 90 viktprocent av det returpapper som produceras ska
 materialåtervinnas.
 55
@@ -7860,9 +7860,9 @@ Kommunen ska informera Naturvårdsverket om de mål som har antagits
 och om beslutade åtgärder.
 10 § Naturvårdsverket ska tillgängliggöra årsvis information på sin
 webbplats om
-1. de framsteg som gjorts för att uppnå de mål som anges i 6 och 7 §§,
+1\. de framsteg som gjorts för att uppnå de mål som anges i 6 och 7 §§,
 och
-2. hur kommuner och övriga som har ansvar för kommunalt avfall
+2\. hur kommuner och övriga som har ansvar för kommunalt avfall
 uppfyller målen i 6 och 7 §§.
 Om Naturvårdsverket bedömer att det finns risk för att målen i 6 och
 7 §§ inte uppnås i tid, ska myndigheten lämna förslag till regeringen på
@@ -7872,16 +7872,16 @@ Regeringskansliet.
 Övriga mål
 11 § Ytterligare mål för avfallsförebyggande arbete, avfallshantering
 och minskad nedskräpning finns i
-1. förordningen (2008:834) om producentansvar för batterier,
-2. förordningen (2021:998) om producentansvar för vissa tobaksvaror
+1\. förordningen (2008:834) om producentansvar för batterier,
+2\. förordningen (2021:998) om producentansvar för vissa tobaksvaror
 och filter,
-3. förordningen (2021:999) om producentansvar för ballonger,
-4. förordningen (2021:1000) om producentansvar för våtservetter,
-5. förordningen (2021:1001) om producentansvar för fiskeredskap,
-6. förordningen (2022:1274) om producentansvar för förpackningar,
-7. förordningen (2022:1276) om producentansvar för elutrustning,
-8. förordningen (2023:132) om producentansvar för bilar, och
-9. förordningen (2023:133) om producentansvar för däck.
+3\. förordningen (2021:999) om producentansvar för ballonger,
+4\. förordningen (2021:1000) om producentansvar för våtservetter,
+5\. förordningen (2021:1001) om producentansvar för fiskeredskap,
+6\. förordningen (2022:1274) om producentansvar för förpackningar,
+7\. förordningen (2022:1276) om producentansvar för elutrustning,
+8\. förordningen (2023:132) om producentansvar för bilar, och
+9\. förordningen (2023:133) om producentansvar för däck.
 2 a kap. Avfallsförebyggande åtgärder
 
 Insamlingssystem för återanvändning
@@ -7909,39 +7909,39 @@ begränsa nedskräpning.
 
 Övriga bestämmelser om avfallsförebyggande åtgärder
 4 § Ytterligare bestämmelser om avfallsförebyggande åtgärder finns i
-1. förordningen (2021:996) om engångsprodukter,
-2. förordningen (2022:1274) om producentansvar för förpackningar,
+1\. förordningen (2021:996) om engångsprodukter,
+2\. förordningen (2022:1274) om producentansvar för förpackningar,
 och
-3. förordningen (2022:1276) om producentansvar för elektriska och
+3\. förordningen (2022:1276) om producentansvar för elektriska och
 elektroniska produkter.
 
 3 kap. Utsortering och insamling av avfall
 
 1 § I detta kapitel finns bestämmelser om
-1. utsortering av avfall och var avfall ska lämnas,
-2. separat insamling av avfall,
-3. fastighetsnära insamling, och
-4. annan insamling.
+1\. utsortering av avfall och var avfall ska lämnas,
+2\. separat insamling av avfall,
+3\. fastighetsnära insamling, och
+4\. annan insamling.
 Utsortering av avfall och var avfall ska lämnas
 2 § Den som har avfall ska sortera ut följande avfallsslag och förvara
 dem skilda från varandra och från annat avfall:
-1. bioavfall, i enlighet med 6 och 7 §§,
-2. förpackningsavfall, i enlighet med 8–15 §§,
-3. bygg- och rivningsavfall, i enlighet med 16 §,
-4. sådant avfall av plast, metall, glas och papper som inte omfattas av 2
+1\. bioavfall, i enlighet med 6 och 7 §§,
+2\. förpackningsavfall, i enlighet med 8–15 §§,
+3\. bygg- och rivningsavfall, i enlighet med 16 §,
+4\. sådant avfall av plast, metall, glas och papper som inte omfattas av 2
 eller 3, i enlighet med 17–19 §§,
-5. textilavfall,
-6. avfall som utgörs av elektriska och elektroniska produkter, i enlighet
+5\. textilavfall,
+6\. avfall som utgörs av elektriska och elektroniska produkter, i enlighet
 med 20 §,
-7. förbrukade batterier,
-8. uttjänta bilar, i enlighet med 21 §,
-9. uttjänta däck, i enlighet med 22 §,
-10. läkemedelsavfall, i enlighet med 23 §,
-11. uttjänta fiskeredskap, i enlighet med 24 §,
-12. farligt avfall,
-13. spillolja, i enlighet med 25 §,
-14. grovavfall, och
-15. annat restavfall än grovavfall.
+7\. förbrukade batterier,
+8\. uttjänta bilar, i enlighet med 21 §,
+9\. uttjänta däck, i enlighet med 22 §,
+10\. läkemedelsavfall, i enlighet med 23 §,
+11\. uttjänta fiskeredskap, i enlighet med 24 §,
+12\. farligt avfall,
+13\. spillolja, i enlighet med 25 §,
+14\. grovavfall, och
+15\. annat restavfall än grovavfall.
 3 § Kommunen får meddela föreskrifter om att ytterligare avfallsslag,
 utöver de som anges i 2 §, ska sorteras ut och förvaras skilt från varandra
 och från annat avfall.
@@ -7951,9 +7951,9 @@ och från annat avfall.
 
 4 § Ett hushåll som producerar avfall ska lämna det utsorterade avfallet
 till ett insamlingssystem som
-1. en kommun tillhandahåller, om kommunen ansvarar för avfallet enligt
+1\. en kommun tillhandahåller, om kommunen ansvarar för avfallet enligt
 15 kap. 11 § miljöbalken, eller
-2. tillhandahålls av någon som är skyldig att ta emot avfallet på grund
+2\. tillhandahålls av någon som är skyldig att ta emot avfallet på grund
 av producentansvar.
 Om park- och trädgårdsavfall får omhändertas enligt 4 kap. 8 § tredje
 stycket, behöver det inte lämnas enligt första stycket 1. Detsamma gäller
@@ -7962,9 +7962,9 @@ livsmedels- och köksavfall som anmälts för kompostering enligt 5 kap.
 5 § Den som har avfall som har producerats i samband med en
 verksamhet ska lämna det utsorterade avfallet till ett insamlingssystem
 som
-1. en kommun tillhandahåller, om kommunen ansvarar för avfallet enligt
+1\. en kommun tillhandahåller, om kommunen ansvarar för avfallet enligt
 15 kap. 11 § miljöbalken, eller
-2. tillhandahålls av någon som är skyldig att ta emot avfallet på grund
+2\. tillhandahålls av någon som är skyldig att ta emot avfallet på grund
 av producentansvar.
 I 15 kap. 9 § miljöbalken finns bestämmelser om avfallsproducentens
 ansvar för att hantera annat avfall.
@@ -7972,11 +7972,11 @@ Bioavfall
 6 § Den som har bioavfall i ett hushåll ska sortera ut åtminstone följande
 biologiskt nedbrytbara avfallsslag och förvara dem skilda från varandra
 och från annat avfall:
-1. trädgårds- och parkavfall som innehåller parkslide eller invasiva
+1\. trädgårds- och parkavfall som innehåller parkslide eller invasiva
 främmande arter som finns upptagna på unionsförteckningen enligt
 förordning (EU) nr 1143/2014,
-2. annat trädgårds- och parkavfall än sådant som avses i 1, och
-3. livsmedels- eller köksavfall.
+2\. annat trädgårds- och parkavfall än sådant som avses i 1, och
+3\. livsmedels- eller köksavfall.
 Första stycket 3 omfattar ätlig olja eller liknande flytande ätligt fett men
 inte annat flytande bioavfall.
 Om någon har fått dispens enligt 27 § från kravet på separat insamling
@@ -7988,12 +7988,12 @@ insamling enligt beslutet om dispens eller föreskrifterna.
 yrkesmässig verksamhet ska sortera ut åtminstone följande biologiskt
 nedbrytbara avfallsslag och förvara dem skilda från varandra och från
 annat avfall:
-1. trädgårds- och parkavfall som innehåller parkslide eller invasiva
+1\. trädgårds- och parkavfall som innehåller parkslide eller invasiva
 främmande arter som finns upptagna på unionsförteckningen enligt
 förordning (EU) nr 1143/2014,
-2. annat trädgårds- och parkavfall än sådant som avses i 1,
-3. förbrukat matfett, och
-4. övrigt livsmedels- eller köksavfall.
+2\. annat trädgårds- och parkavfall än sådant som avses i 1,
+3\. förbrukat matfett, och
+4\. övrigt livsmedels- eller köksavfall.
 Första stycket 4 omfattar ätlig olja eller liknande flytande ätligt fett men
 inte annat flytande bioavfall.
 58
@@ -8010,16 +8010,16 @@ Förpackningsavfall
 8 § Den som har förpackningsavfall ska sortera ut följande
 förpackningsmaterial och förvara dem skilda från varandra och från annat
 avfall:
-1. papper och kartong,
-2. plast,
-3. metall,
-4. färgat glas,
-5. ofärgat glas,
-6. plastflaskor och metallburkar som är avsedda för ett sådant
+1\. papper och kartong,
+2\. plast,
+3\. metall,
+4\. färgat glas,
+5\. ofärgat glas,
+6\. plastflaskor och metallburkar som är avsedda för ett sådant
 retursystem som avses i 4 kap. 3 § förordningen (2022:1274) om
 producentansvar för förpackningar,
-7. trä, och
-8. material som inte avses i 1–7 (övrigt förpackningsmaterial).
+7\. trä, och
+8\. material som inte avses i 1–7 (övrigt förpackningsmaterial).
 Förpackningsavfall som innehåller rester av farligt avfall ska i stället
 sorteras ut enligt 2 § 12 och hanteras som farligt avfall.
 Om någon har fått dispens enligt 27 § från kravet på separat insamling
@@ -8028,21 +8028,21 @@ ett sätt som möjliggör en insamling enligt beslutet om dispens.
 9 § Den som har en förpackning som innehåller avfall ska se till att
 förpackningen skiljs från innehållet.
 Första stycket gäller inte
-1. den som har en förpackning som innehåller
+1\. den som har en förpackning som innehåller
 a) farligt avfall,
 b) smittförande avfall, eller
 c) läkemedelsavfall, om förpackningen underlättar den praktiska
 hanteringen av avfallet, eller
-2. om det finns ett beslut om förverkande eller förstörande av en
+2\. om det finns ett beslut om förverkande eller förstörande av en
 förpackad produkt som har meddelats av en brottsbekämpande myndighet
 eller domstol.
 Om någon har fått dispens enligt 10 §, ska utsortering i stället göras på
 ett sätt som möjliggör en insamling enligt beslutet om dispens.
 10 § Kommunen får i det enskilda fallet ge dispens från kravet i 9 §
 första stycket, om det inte
-1. är tekniskt genomförbart med hänsyn till god praxis för
+1\. är tekniskt genomförbart med hänsyn till god praxis för
 avfallsinsamling att skilja förpackningen från dess innehåll, eller
-2. leder till det bästa miljömässiga resultatet att skilja förpackningen från
+2\. leder till det bästa miljömässiga resultatet att skilja förpackningen från
 dess innehåll mot bakgrund av den sammanlagda miljöpåverkan från
 hanteringen av det berörda avfallet.
 En ansökan om dispens ska innehålla en plan som beskriver på vilket
@@ -8056,37 +8056,37 @@ lösningar.
 
 11 § Den som har förpackningsavfall i ett hushåll, ska lämna det
 utsorterade förpackningsavfallet till
-1. ett sådant retursystem som avses i 4 kap. 3 § förordningen
+1\. ett sådant retursystem som avses i 4 kap. 3 § förordningen
 (2022:1274) om producentansvar för förpackningar, om avfallet utgörs av
 plastflaskor eller metallburkar som retursystemet är avsett för, eller
-2. ett insamlingssystem som kommunen tillhandahåller enligt 6 kap.
+2\. ett insamlingssystem som kommunen tillhandahåller enligt 6 kap.
 samma förordning, om avfallet utgörs av andra förpackningar än sådana
 som avses i 1.
 12 § Den som har förpackningsavfall som har producerats i samband
 med en verksamhet ska lämna det utsorterade förpackningsavfallet till
-1. de kostnadsfria mottagningsplatser som tillhandahålls av en
+1\. de kostnadsfria mottagningsplatser som tillhandahålls av en
 producentansvarsorganisation enligt 7 kap. 1 § förordningen (2022:1274)
 om producentansvar för förpackningar,
-2. ett anmält marknadsdrivet system för återanvändning eller
+2\. ett anmält marknadsdrivet system för återanvändning eller
 materialåtervinning som avses i 7 kap. 12 eller 14 § samma förordning,
-3. ett sådant retursystem som avses i 4 kap. 3 § samma förordning, om
+3\. ett sådant retursystem som avses i 4 kap. 3 § samma förordning, om
 avfallet utgörs av plastflaskor eller metallburkar som retursystemet är
 avsett för, eller
-4. kommunens insamlingssystem enligt 6 kap. samma förordning, om
+4\. kommunens insamlingssystem enligt 6 kap. samma förordning, om
 verksamheten har en avfallshantering som är samlokaliserad med
 hushållens och verksamheten har valt kommunal insamling enligt 7 kap.
 10 § i den förordningen.
 13 § Den som driver ett serveringsställe där det säljs mat eller dryck i
 förpackningar ska
-1. ge den som har förpackningsavfall som producerats på
+1\. ge den som har förpackningsavfall som producerats på
 serveringsstället möjlighet att sortera ut sådant avfall i de material som
 avses i 8 §, och
-2. därefter hantera det insamlade avfallet enligt 12 §.
+2\. därefter hantera det insamlade avfallet enligt 12 §.
 14 § Den som arrangerar en offentlig tillställning utomhus som innebär
 att besökare producerar förpackningsavfall på tillställningen ska
-1. ge besökarna möjlighet att sortera ut sådant avfall i de material som
+1\. ge besökarna möjlighet att sortera ut sådant avfall i de material som
 avses i 8 §, och
-2. därefter hantera det insamlade avfallet enligt 12 §.
+2\. därefter hantera det insamlade avfallet enligt 12 §.
 15 § Den som producerar förpackningsavfall på sådana populära platser
 som avses i 6 kap. 8 § förordningen (2022:1274) om producentansvar för
 förpackningar ska sortera ut avfallet och får, i stället för att lämna avfallet
@@ -8104,17 +8104,17 @@ Bygg- och rivningsavfall
 gäller enligt andra bestämmelser i detta kapitel, sortera ut åtminstone
 följande avfallsslag och förvara dem skilda från varandra och från annat
 avfall:
-1. trä,
-2. mineral som består av betong, tegel, klinker, keramik eller sten,
-3. metall,
-4. glas,
-5. plast, och
-6. gips.
+1\. trä,
+2\. mineral som består av betong, tegel, klinker, keramik eller sten,
+3\. metall,
+4\. glas,
+5\. plast, och
+6\. gips.
 Kraven i första stycket gäller inte avfall som
-1. utgörs av konstruktioner där ämnen eller föremål sammanfogats på ett
+1\. utgörs av konstruktioner där ämnen eller föremål sammanfogats på ett
 sätt som gör att separering inte är tekniskt genomförbar med hänsyn till
 god praxis för avfallsinsamling, eller
-2. är förorenade på ett sätt som gör att inblandning i det övriga
+2\. är förorenade på ett sätt som gör att inblandning i det övriga
 utsorterade avfallet försvårar eller omöjliggör den lämpligaste
 behandlingen enligt avfallshierarkin i 15 kap. 28 § miljöbalken.
 Avfall av plast, metall, glas och papper
@@ -8122,10 +8122,10 @@ Avfall av plast, metall, glas och papper
 omfattas av förordningen (2022:1274) om producentansvar för
 förpackningar och som är av följande materialslag ska sortera ut dem och
 förvara dem skilda från varandra och från annat avfall:
-1. plast,
-2. metall,
-3. glas, och
-4. papper som inte är returpapper eller förbrukat kontorspapper och som
+1\. plast,
+2\. metall,
+3\. glas, och
+4\. papper som inte är returpapper eller förbrukat kontorspapper och som
 har producerats i en yrkesmässig verksamhet.
 Om någon har fått dispens enligt 27 § från kravet på separat insamling
 av de avfallsslag som anges i första stycket, ska utsortering i stället göras
@@ -8141,7 +8141,7 @@ Avfall som utgörs av elektriska och elektroniska produkter
 elektroniska produkter ska sortera ut det och hantera det skilt från annat
 avfall på ett sätt som underlättar återvinning eller annan hantering som är
 godtagbar från miljösynpunkt. Därefter ska avfallsinnehavaren
-1. lämna det till en producent, en kommun eller till en sådan
+1\. lämna det till en producent, en kommun eller till en sådan
 producentansvarsorganisation som avses i förordningen (2022:1276) om
 producentansvar för elutrustning, om producenten, kommunen eller
 61
@@ -8150,7 +8150,7 @@ producentansvar för elutrustning, om producenten, kommunen eller
 
 producentansvarsorganisationen har en skyldighet att ta emot avfallet,
 eller
-2. se till att det blir behandlat på ett hälso- och miljömässigt godtagbart
+2\. se till att det blir behandlat på ett hälso- och miljömässigt godtagbart
 sätt, om avfallet är annat elavfall än konsumentelavfall.
 Ett batteri som är inbyggt eller på något annat sätt ingår i en produkt ska
 avlägsnas innan produkten lämnas enligt första stycket 1, om det kan
@@ -8165,11 +8165,11 @@ Uttjänta däck
 
 22 § Den som har avfall som utgörs av däck som inte är monterade på
 en uttjänt bil ska sortera ut det från annat avfall och lämna avfallet till
-1. en producentansvarsorganisation som är godkänd enligt förordningen
+1\. en producentansvarsorganisation som är godkänd enligt förordningen
 (2023:133) om producentansvar för däck,
-2. någon som enligt 15 § samma förordning är skyldig att ta emot däck
+2\. någon som enligt 15 § samma förordning är skyldig att ta emot däck
 i samband med att den säljer andra däck, eller
-3. en verksamhet som regummerar däck.
+3\. en verksamhet som regummerar däck.
 Den som driver en verksamhet som regummerar däck och som har avfall
 som utgörs av däck som inte går att regummera, ska lämna dessa till en
 sådan producentansvarsorganisation som avses i första stycket 1.
@@ -8183,13 +8183,13 @@ Uttjänta fiskeredskap
 
 24 § Den som har utsorterat avfall som utgörs av fiskeredskap ska lämna
 avfallet till
-1. en mottagningsanordning som avses i 3 kap. 5 § förordningen
+1\. en mottagningsanordning som avses i 3 kap. 5 § förordningen
 (1980:789) om åtgärder mot förorening från fartyg, om avfallet kommer
 från ett fartyg som använder hamnen,
-2. en producentansvarsorganisation som avses i förordningen
+2\. en producentansvarsorganisation som avses i förordningen
 (2021:1001) om producentansvar för fiskeredskap, om fiskeredskapet är
 avsett att användas i yrkesmässig verksamhet, eller
-3. en kommun, om fiskeredskapet är kommunalt avfall.
+3\. en kommun, om fiskeredskapet är kommunalt avfall.
 En elutrustning som är inbyggd eller på något annat sätt ingår i ett
 fiskeredskap som har blivit avfall ska avlägsnas innan fiskeredskapet
 lämnas, om elutrustningen kan avlägsnas på ett enkelt sätt. Om
@@ -8216,15 +8216,15 @@ Undantag från krav på utsortering och separat insamling
 27 § Naturvårdsverket får ge dispens från kraven på utsortering av avfall
 i 6–8 och 17 §§ och från kravet i 26 § på separat insamling av sådant
 utsorterat avfall, om
-1. det skulle leda till ett återvinningsresultat som är kvalitetsmässigt
+1\. det skulle leda till ett återvinningsresultat som är kvalitetsmässigt
 jämförbart med det som uppnås vid separat insamling om vissa avfallsslag
 samlas in tillsammans,
-2. det inte leder till det bästa miljömässiga resultatet att samla in avfallet
+2\. det inte leder till det bästa miljömässiga resultatet att samla in avfallet
 separat på grund av den sammanlagda miljöpåverkan från hanteringen av
 de aktuella avfallsslagen,
-3. det med hänsyn till god praxis för avfallsinsamling inte är tekniskt
+3\. det med hänsyn till god praxis för avfallsinsamling inte är tekniskt
 genomförbart att samla in avfallet separat, eller
-4. den separata insamlingen skulle medföra oskäliga ekonomiska
+4\. den separata insamlingen skulle medföra oskäliga ekonomiska
 kostnader enligt 28 §.
 Vid prövningen av om en dispens ska ges ska också beaktas god praxis
 för separat insamling av avfall och annan utveckling inom
@@ -8233,12 +8233,12 @@ En dispens ska ges för ett eller flera avfallsslag och ska gälla för en
 bestämd tid.
 28 § Vid bedömningen av kostnaders skälighet enligt 27 § första stycket
 4 ska hänsyn tas till
-1. negativa effekter på människors hälsa och miljön vid insamling och
+1\. negativa effekter på människors hälsa och miljön vid insamling och
 behandling av blandat avfall,
-2. möjligheterna till effektivitetsförbättringar vid insamling och
+2\. möjligheterna till effektivitetsförbättringar vid insamling och
 behandling av blandat avfall,
-3. vilka intäkter som försäljning av återvunnet material kan ge, och
-4. principen om att den som förorenar bör stå för de kostnader som
+3\. vilka intäkter som försäljning av återvunnet material kan ge, och
+4\. principen om att den som förorenar bör stå för de kostnader som
 föroreningen medför och de bestämmelser om producentansvar som ger
 uttryck för den principen.
 29 § Kommunen får ge dispens från kraven på utsortering och separat
@@ -8256,9 +8256,9 @@ En dispens ska gälla för en bestämd tid.
 30 § Kommunen ska underrätta Naturvårdsverket om dispenser enligt
 29 § som har fått laga kraft.
 31 §4 Kommunen får meddela föreskrifter om att
-1. ätligt fett och ätlig olja från hushåll i små mängder får hanteras
+1\. ätligt fett och ätlig olja från hushåll i små mängder får hanteras
 tillsammans med annat restavfall än grovavfall, eller
-2. trädgårds- och parkavfall får hanteras tillsammans med biologiskt
+2\. trädgårds- och parkavfall får hanteras tillsammans med biologiskt
 nedbrytbart livsmedels- eller köksavfall.
 Sådana föreskrifter får endast avse avfall där hanteringen leder till det
 bästa miljömässiga resultatet mot bakgrund av den sammanlagda
@@ -8267,10 +8267,10 @@ Krav på fastighetsnära insamling
 
 32 § Kommunen ska fastighetsnära samla in följande avfall som
 kommunen ansvarar för:
-1. livsmedels- eller köksavfall,
-2. förpackningsavfall som ska samlas in enligt 6 kap. förordningen
+1\. livsmedels- eller köksavfall,
+2\. förpackningsavfall som ska samlas in enligt 6 kap. förordningen
 (2022:1274) om producentansvar för förpackningar, och
-3. annat restavfall än grovavfall.
+3\. annat restavfall än grovavfall.
 Kommunen får samla in även annat avfall fastighetsnära.
 Första stycket 1 gäller inte ätligt fett och ätlig olja, om kommunen
 meddelat föreskrifter med stöd av 31 § första stycket 1.
@@ -8296,9 +8296,9 @@ inte ska samlas in fastighetsnära. Systemet ska utformas på ett sätt som
 
 <!-- sida 203 -->
 
-1. underlättar för hushåll och andra innehavare att lämna ifrån sig
+1\. underlättar för hushåll och andra innehavare att lämna ifrån sig
 avfallet, och
-2. innebär att avfallet samlas in separat och hanteras på ett sätt som
+2\. innebär att avfallet samlas in separat och hanteras på ett sätt som
 säkerställer att det kan behandlas i enlighet med avfallshierarkin i 15 kap.
 28 § miljöbalken.
 36 § Kommunens system för insamling av det avfall som inte ska samlas
@@ -8313,10 +8313,10 @@ Avfall från fartyg i hamn
 37 § Kommunen ska ansvara för att avfall transporteras bort från sådana
 mottagningsanordningar för avfall från fartyg som avses i förordningen
 (1980:789) om åtgärder mot förorening från fartyg, om avfallet
-1. är oljeavfall,
-2. är toalettavfall,
-3. är fast avfall, eller
-4. består av rester av skadliga ämnen som det är förbjudet att släppa ut
+1\. är oljeavfall,
+2\. är toalettavfall,
+3\. är fast avfall, eller
+4\. består av rester av skadliga ämnen som det är förbjudet att släppa ut
 enligt lagen (1980:424) om åtgärder mot förorening från fartyg eller enligt
 föreskrifter som har meddelats med stöd av den lagen.
 Första stycket gäller inte oljehaltigt barlast- eller tankspolvatten som
@@ -8344,20 +8344,20 @@ behandlar avfall
 
 <!-- sida 204 -->
 
-1. i rimlig utsträckning lämna information om sitt innehav av sådant
+1\. i rimlig utsträckning lämna information om sitt innehav av sådant
 avfall som kan förberedas för återanvändning men inte är avsett för sådan
 förberedelse, och
-2. överväga att erbjuda avfall till denne.
+2\. överväga att erbjuda avfall till denne.
 Första stycket gäller inte avfall som det är olämpligt att lämna ut
 information om eller förbereda för återanvändning.
 
 Ytterligare sortering för att främja materialåtervinning
 3 § Den som är ansvarig för att avfall blir fullständigt behandlat ska se
 till att insamlat avfall sorteras ytterligare, om det behövs för att
-1. möjliggöra materialåtervinning,
-2. utifrån avfallets egenskaper uppnå en hög kvalitet på det återvunna
+1\. möjliggöra materialåtervinning,
+2\. utifrån avfallets egenskaper uppnå en hög kvalitet på det återvunna
 materialet, eller
-3. nå materialåtervinningsmålen i 1 kap. 6–8 och 12 §§.
+3\. nå materialåtervinningsmålen i 1 kap. 6–8 och 12 §§.
 4 § Den som, genom yrkesmässig sortering av restavfall, har producerat
 avfall som till övervägande del består av förpackningsavfall, ska lämna
 avfallet till de kostnadsfria mottagningsplatser som tillhandahålls av en
@@ -8395,9 +8395,9 @@ förhindrar spridning av dessa arter.
 
 8 §6 Fastighetsinnehavaren eller den som har nyttjanderätt till en
 fastighet ska
-1. kompostera trädgårds- och parkavfall som har producerats på
+1\. kompostera trädgårds- och parkavfall som har producerats på
 fastigheten, eller
-2. lämna avfallet på en plats där avfallet hämtas eller tas emot av
+2\. lämna avfallet på en plats där avfallet hämtas eller tas emot av
 kommunen.
 Avfallet får i stället eldas på fastigheten, om det är lämpligt och det kan
 ske på ett sätt som medför endast ringa eller helt tillfälliga störningar i
@@ -8446,9 +8446,9 @@ promemorian Hantering av trädgårds- och parkavfall (KN2024/01288). 67
 
 Farligt avfall
 15 § Farligt avfall får inte blandas eller spädas ut med
-1. andra slag av farligt avfall,
-2. annat avfall, eller
-3. andra ämnen eller material.
+1\. andra slag av farligt avfall,
+2\. annat avfall, eller
+3\. andra ämnen eller material.
 
 16 § Farligt avfall som har blandats eller spätts ut i strid med 15 § ska
 separeras, om det är tekniskt möjligt och nödvändigt för att uppfylla
@@ -8457,18 +8457,18 @@ orsakar risk för skada på människors hälsa eller miljön.
 17 § Bestämmelserna om blandning av farligt avfall i 15 och 16 §§ ska
 inte tillämpas i fråga om sådan blandning av avfall som har gjorts eller
 görs
-1. av någon vars hantering av avfallet omfattas av ett sådant tillstånd
+1\. av någon vars hantering av avfallet omfattas av ett sådant tillstånd
 eller en sådan anmälan som avses i 9 kap. 6 § miljöbalken,
-2. på ett sätt som innebär att hanteringen uppfyller kraven i 15 kap. 27 §
+2\. på ett sätt som innebär att hanteringen uppfyller kraven i 15 kap. 27 §
 miljöbalken om att hanteringen inte skadar eller orsakar risk för skada på
 människors hälsa eller miljön, och
-3. med användning av bästa tillgängliga teknik eller den bättre teknik
+3\. med användning av bästa tillgängliga teknik eller den bättre teknik
 som följer av 2 kap. miljöbalken.
 18 § Bestämmelserna om blandning eller utspädning av farligt avfall i
 15 och 16 §§ ska inte tillämpas på
-1. farligt avfall som är producerat av hushåll, om det farliga avfallet är
+1\. farligt avfall som är producerat av hushåll, om det farliga avfallet är
 blandat med annat avfall, eller
-2. oljehaltigt barlast- eller tankspolvatten från fartyg, om det oljehaltiga
+2\. oljehaltigt barlast- eller tankspolvatten från fartyg, om det oljehaltiga
 vattnet tas emot och behandlas enligt lagen (1980:424) om åtgärder mot
 förorening från fartyg eller förordningen (1980:789) om åtgärder mot
 förorening från fartyg.
@@ -8483,18 +8483,18 @@ eller elektroniska produkter ska, om avfallet är annat elavfall än
 konsumentelavfall, se till att det blir behandlat på ett hälso- och
 miljömässigt godtagbart sätt.
 21 § Naturvårdsverket får
-1. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till
+1\. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till
 att genom demontering, sortering eller andra behandlingsåtgärder
 säkerställa att elavfall kan behandlas på ett sätt som är lämpligt från hälso-
 och miljösynpunkt, och
-2. i fråga om behandling av elavfall, meddela de föreskrifter som behövs
+2\. i fråga om behandling av elavfall, meddela de föreskrifter som behövs
 till följd av bilaga VII till direktiv 2012/19/EU.
 68
 
 <!-- sida 207 -->
 
 22 § Elavfall får behandlas endast om avfallet har förbehandlats
-1. i en sådan yrkesmässig verksamhet som
+1\. i en sådan yrkesmässig verksamhet som
 a) syftar till att genom demontering, sortering eller andra
 behandlingsåtgärder säkerställa att elavfall kan behandlas på ett sätt som
 är lämpligt från hälso- och miljösynpunkt, och
@@ -8502,7 +8502,7 @@ b) har personal eller system för kvalitet eller miljöledning som har
 certifierats av ett organ vars kompetens för uppgiften har styrkts genom
 ackreditering enligt lagen (2011:791) om ackreditering och teknisk
 kontroll, eller
-2. utomlands på ett sätt som motsvarar kraven i direktiv 2012/19/EU.
+2\. utomlands på ett sätt som motsvarar kraven i direktiv 2012/19/EU.
 Certifieringen enligt första stycket 1 b ska avse den kompetens eller det
 system för kvalitet eller miljöledning som behövs med hänsyn till
 verksamhetens syfte och de föreskrifter som har meddelats med stöd av
@@ -8511,10 +8511,10 @@ verksamhetens syfte och de föreskrifter som har meddelats med stöd av
 på certifiering i 22 §.
 24 § Den som yrkesmässigt hanterar avfall som innehåller eller utgörs
 av batterier ska se till att
-1. avfallet i en behandlingsanläggning lagras och hanteras i lämpliga
+1\. avfallet i en behandlingsanläggning lagras och hanteras i lämpliga
 behållare eller på en plats som är försedd med en tät, hårdgjord yta och är
 skyddad mot nederbörd, och
-2. avfallet inte bränns eller deponeras utan att
+2\. avfallet inte bränns eller deponeras utan att
 a) vätskor och syror har avlägsnats från batterierna för att hanteras skilt
 från batteriavfallet i övrigt, och
 b) de åtgärder har vidtagits som är möjliga och lämpliga för att nå de
@@ -8526,8 +8526,8 @@ Kvicksilveravfall
 
 26 § Avfall som innehåller minst 0,1 viktprocent kvicksilver ska senast
 ett år från när det uppstår bortskaffas i ett djupt bergförvar, om avfallet
-1. inte omfattas av artikel 11 i förordning (EU) 2017/852, eller
-2. inte är slutligt deponerat i enlighet med ett tillstånd enligt miljöbalken
+1\. inte omfattas av artikel 11 i förordning (EU) 2017/852, eller
+2\. inte är slutligt deponerat i enlighet med ett tillstånd enligt miljöbalken
 eller föreskrifter som meddelats med stöd av balken.
 27 § Naturvårdsverket får i det enskilda fallet ge dispens från kravet i
 26 §, om det är oskäligt att kräva att avfallet bortskaffas i ett djupt
@@ -8549,11 +8549,11 @@ fortsätta lagra det.
 Dumpning
 29 § Frågor om dispens från dumpningsförbud enligt 15 kap. 30 §
 miljöbalken prövas av
-1. Havs- och vattenmyndigheten, om prövningen avser dumpning i
+1\. Havs- och vattenmyndigheten, om prövningen avser dumpning i
 a) Sveriges ekonomiska zon, eller
 b) något av två eller flera områden, om områdena inte ligger inom ett
 och samma län, och
-2. länsstyrelsen i det län där avfallet avses att dumpas, om dispensfrågan
+2\. länsstyrelsen i det län där avfallet avses att dumpas, om dispensfrågan
 inte ska prövas av Havs- och vattenmyndigheten enligt 1.
 Innan Havs- och vattenmyndigheten beslutar i en dispensfråga som
 avses i första stycket 1 b ska myndigheten ge de berörda länsstyrelserna
@@ -8614,11 +8614,11 @@ avfallsförbränningsanläggning
 eller en  samförbrännings-
 anläggning se till att uppgifter
 lämnas om
-1. hur avfallet har producerats,
-2. den sorteringsprocess eller
+1\. hur avfallet har producerats,
+2\. den sorteringsprocess eller
 annan förberedande behandling
 som avfallet har genomgått, och
-3. att avfallet får förbrännas.
+3\. att avfallet får förbrännas.
 Första stycket gäller inte avfall
 som förts in eller importerats till
 Sverige om förordning (EG) nr
@@ -8662,13 +8662,13 @@ i kilogram.          produkter för återanvändning som
 kommunen samlat in under
 föregående kalenderår.
 Första stycket gäller inte uppgifter
-1. om sådant avfall som kommunen har lämnat till en
+1\. om sådant avfall som kommunen har lämnat till en
 producentansvarsorganisation
 a) som är godkänd enligt 56 § förordningen (2022:1276) om
 producentansvar för elutrustning, eller
 b) enligt förordningen (2021:1001) om producentansvar för
 fiskeredskap, eller
-2. som kommunen har lämnat till Naturvårdsverket enligt förordningen
+2\. som kommunen har lämnat till Naturvårdsverket enligt förordningen
 (2022:1274) om producentansvar för förpackningar.
 1 a §
 Den som yrkesmässigt samlar in
@@ -8680,13 +8680,13 @@ under föregående kalenderår.
 Första stycket gäller inte
 uppgifter om sådant avfall som
 omfattas av
-1. förordningen (2022:1274) om
+1\. förordningen (2022:1274) om
 producentansvar   för
 förpackningar,
-2. förordningen (2022:1276) om
+2\. förordningen (2022:1276) om
 producentansvar för elutrustning,
 eller
-3. förordningen (2021:1001) om
+3\. förordningen (2021:1001) om
 producentansvar för fiskeredskap.
 2 §
 72
@@ -8704,20 +8704,20 @@ innehålla uppgifter om avfallets samlats in under föregående
 sammansättning, ursprung och vikt kalenderår från en
 i kilogram.           1. detaljhandel med livsmedel,
 och
-2. yrkesmässig verksamhet, om
+2\. yrkesmässig verksamhet, om
 avfallet består av
 a) förbrukat matfett, eller
 b) förbrukat kontorspapper.
 Första och andra stycket gäller Den som driver en detaljhandel
 inte uppgifter om sådant avfall som eller en yrkesmässig verksamhet
 omfattas av          och som inte anlitar en yrkesmässig
-1. förordningen (2022:1274) om verksamhet för insamling av sitt
+1\. förordningen (2022:1274) om verksamhet för insamling av sitt
 producentansvar   för kommunala avfall ska själv
 förpackningar,       uppfylla    rapporterings-
-2. förordningen (2022:1276) om skyldigheterna i första stycket.
+2\. förordningen (2022:1276) om skyldigheterna i första stycket.
 producentansvar för elutrustning,
 eller
-3. förordningen (2021:1001) om
+3\. förordningen (2021:1001) om
 producentansvar för fiskeredskap.
 Nuvarande lydelse    Föreslagen lydelse
 2 a §
@@ -8730,14 +8730,14 @@ ursprung.
 Uppgifterna om avfall ska
 redovisas fördelat på följande
 materialslag:
-1. metaller som separerats efter
+1\. metaller som separerats efter
 förbränning av kommunalt avfall,
-2. metaller som inte omfattas av
+2\. metaller som inte omfattas av
 1,
-3. glas,
-4. plast,
-5. papper och kartong,
-6. bioavfall uppdelat på
+3\. glas,
+4\. plast,
+5\. papper och kartong,
+6\. bioavfall uppdelat på
 a) livsmedels- eller köksavfall
 från hushåll,
 b) livsmedels- eller köksavfall
@@ -8750,20 +8750,20 @@ verksamheter,
 c) trädgårds- och parkavfall, och
 d) bioavfall som separerats och
 komposterats vid källan,
-7. trä,
-8. textilier,
-9. grovavfall,
-10. annat restavfall än
+7\. trä,
+8\. textilier,
+9\. grovavfall,
+10\. annat restavfall än
 grovavfall, och
-11. övrigt avfall.
+11\. övrigt avfall.
 2 b §
 Av de redovisade uppgifterna enligt
 2 a § ska det framgå hur mycket av
 det insamlade avfallet som för varje
 materialslag har
-1. materialåtervunnits,
-2. energiåtervunnits, och
-3. återvunnits eller bortskaffats
+1\. materialåtervunnits,
+2\. energiåtervunnits, och
+3\. återvunnits eller bortskaffats
 på något annat sätt.
 Vid beräkning av hur mycket
 avfall som har materialåtervunnits
@@ -8808,9 +8808,9 @@ underlag i den nationella
 avfallsplanen.
 11 §
 Naturvårdsverket ska rapportera till
-1. Europeiska kommissionen i enlighet med artikel 37 i direktiv
+1\. Europeiska kommissionen i enlighet med artikel 37 i direktiv
 2008/98/EG, och
-2. Europeiska kommissionen (Eurostat) i enlighet med förordning
+2\. Europeiska kommissionen (Eurostat) i enlighet med förordning
 2150/2002.
 Under framtagandet av underlag
 till rapporteringen och av
@@ -8829,14 +8829,14 @@ avfallsplaner    och
 avfallsförebyggande program
 1 §
 Kommunen får meddela föreskrifter om
-1. hur utrymmen, behållare och 1. hur utrymmen, behållare och
+1\. hur utrymmen, behållare och 1. hur utrymmen, behållare och
 andra anordningar för hantering av andra anordningar för insamling för
 avfall ska vara beskaffade och återanvändning och för hantering
 skötas,              av avfall ska vara utformade och
 skötas,
-2. att vissa slag av avfall ska förvaras och transporteras skilt från annat
+2\. att vissa slag av avfall ska förvaras och transporteras skilt från annat
 avfall,
-3. skyldighet att i fråga om 3. skyldighet att i fråga om
+3\. skyldighet att i fråga om 3. skyldighet att i fråga om
 förvaring och transport av avfall förvaring och transport av avfall
 vidta andra åtgärder som är vidta andra åtgärder som är
 75
@@ -8846,7 +8846,7 @@ vidta andra åtgärder som är vidta andra åtgärder som är
 nödvändiga av återanvändnings- nödvändiga av återanvändnings-
 eller återvinningsskäl eller av andra eller återvinningsskäl eller av andra
 hälso- eller miljöskäl, hälso- eller miljöskäl, och
-4. att den som bedriver en
+4\. att den som bedriver en
 yrkesmässig verksamhet inom
 kommunen där annat avfall än
 sådant avfall som kommunen
@@ -8857,7 +8857,7 @@ sammansättningen, mängden eller
 hanteringen av avfallet som behövs
 som underlag för kommunens
 renhållningsordning, och
-5. hur en anmälan enligt 5 kap. 4. hur en anmälan enligt 5 kap.
+5\. hur en anmälan enligt 5 kap. 4. hur en anmälan enligt 5 kap.
 15 § ska göras       15 § ska göras.
 10 kap.
 2 §11
@@ -8880,9 +8880,9 @@ om   system för utökat
 producentansvar som har införts
 med stöd av 15 kap. 20 §
 miljöbalken. Kontrollen ska avse
-1. tillförlitligheten av
+1\. tillförlitligheten av
 uppgifterna, och
-2. att uppgifterna är fullständiga
+2\. att uppgifterna är fullständiga
 och korrekta.
 11 kap.
 3 §
@@ -8893,15 +8893,15 @@ denna förordning.
 
 <!-- sida 215 -->
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 1 a kap. 1 § tillämpas första gången den 31 mars
-2027.
-3. Bestämmelserna i 2 a kap. 1 § tillämpas första gången på produkter
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 1 a kap. 1 § tillämpas första gången den 31 mars
+2027\.
+3\. Bestämmelserna i 2 a kap. 1 § tillämpas första gången på produkter
 som samlas in efter utgången av december 2026.
-4. Bestämmelserna i 7 kap. 1–2 b och 10 §§ i den nya lydelsen tillämpas
+4\. Bestämmelserna i 7 kap. 1–2 b och 10 §§ i den nya lydelsen tillämpas
 första gången i fråga om de uppgifter som en yrkesmässig insamlare och
 en kommun ska lämna efter utgången av december 2026.
-5. Bestämmelserna i 7 kap. 1, 2 och 10 §§ i den äldre lydelsen gäller
+5\. Bestämmelserna i 7 kap. 1, 2 och 10 §§ i den äldre lydelsen gäller
 fortfarande för uppgifter som avser tid till och med kalenderåret 2025.
 
 77
@@ -8912,33 +8912,33 @@ Bilaga 4
 
 Innehållet i den nationella avfallsplanen
 Följande delar ska ingå i underlaget till den nationella avfallsplanen:
-1. en analys av den nuvarande situationen när det gäller
+1\. en analys av den nuvarande situationen när det gäller
 avfallshanteringen nationellt, regionalt och lokalt,
-2. en redovisning av de åtgärder som ska vidtas för att förbättra
+2\. en redovisning av de åtgärder som ska vidtas för att förbättra
 förberedelser för återanvändning, materialåtervinning, återvinning och
 bortskaffande av avfall och en utvärdering av hur planen kommer att bidra
 till måluppfyllelse,
-3. uppgifter om genererat avfall när det gäller typ, mängd och ursprung,
+3\. uppgifter om genererat avfall när det gäller typ, mängd och ursprung,
 avfall som sannolikt kommer att transporteras från eller till Sverige och en
 bedömning av avfallsflödenas framtida utveckling,
-4. uppgifter om de större anläggningar som är i drift för bortskaffande
+4\. uppgifter om de större anläggningar som är i drift för bortskaffande
 och återvinning, inbegripet eventuella särskilda lösningar för
 – spilloljor,
 – farligt avfall,
 – avfall som innehåller betydande mängder råvaror av avgörande
 betydelse, eller
 – avfallsflöden som omfattas av särskild unionslagstiftning,
-5. en bedömning av behovet av att lägga ned befintliga
+5\. en bedömning av behovet av att lägga ned befintliga
 avfallsanläggningar, behovet av ytterligare infrastruktur i form av
 avfallsanläggningar och en bedömning av vilka investeringar och andra
 ekonomiska resurser som behövs, också för lokala myndigheter, för att
 tillgodose dessa behov,
-6. upplysningar om eventuella åtgärder som behövs för uppnåendet av
+6\. upplysningar om eventuella åtgärder som behövs för uppnåendet av
 de mål som fastställs i Europaparlamentets och rådets direktiv 1999/31/EG
 av den 26 april 1999 om deponering av avfall, i lydelsen enligt
 Europaparlamentets och rådets direktiv (EU) 2018/850 eller i strategiska
 dokument,
-7. en bedömning av befintliga system för insamling av avfall, där det ska
+7\. en bedömning av befintliga system för insamling av avfall, där det ska
 ingå uppgifter om
 a) vilka material och geografiska områden som omfattas av separat
 insamling,
@@ -8946,14 +8946,14 @@ b) åtgärder för att få den separata insamlingen att fungera bättre, och
 c) eventuella undantag som beviljats från krav på separat insamling
 enligt 3 kap. 26–29 §§,
 d) behovet av nya insamlingssystem,
-8. information om framtida kapacitet och behov av anläggningar för
+8\. information om framtida kapacitet och behov av anläggningar för
 bortskaffande eller återvinning av det svenska avfallet i landet eller i EU,
-9. en beskrivning av hur avfallshanteringen går till, inbegripet planerad
+9\. en beskrivning av hur avfallshanteringen går till, inbegripet planerad
 teknik och planerade metoder för avfallshanteringen och av hanteringen
 av det avfall som medför särskilda problem vid hanteringen,
-10. en beskrivning av åtgärder för att motverka och förebygga all slags
+10\. en beskrivning av åtgärder för att motverka och förebygga all slags
 nedskräpning och för att städa upp alla typer av skräp,
-11. en sammanställning av beslutade kvalitativa eller kvantitativa
+11\. en sammanställning av beslutade kvalitativa eller kvantitativa
 indikatorer och mål för
 a) mängden avfall som genereras,
 b) behandlingen av det genererade avfallet,
@@ -8963,61 +8963,61 @@ b) behandlingen av det genererade avfallet,
 
 c) kommunalt avfall som bortskaffas eller blir föremål för
 energiåtervinning,
-12. en beskrivning av ansvarsfördelningen mellan de offentliga och
+12\. en beskrivning av ansvarsfördelningen mellan de offentliga och
 privata aktörer som ordnar avfallshantering,
-13. ett särskilt avsnitt om förpackningar och platser för insamling av
+13\. ett särskilt avsnitt om förpackningar och platser för insamling av
 förpackningsavfall, åtgärder för att förebygga att förpackningsavfall
 produceras och åtgärder för att främja återanvändning av förpackningar,
-14. ett särskilt avsnitt om de åtgärder som vidtagits för att nå målen i
+14\. ett särskilt avsnitt om de åtgärder som vidtagits för att nå målen i
 artikel 11.2 i direktiv 2008/98/EG och artikel 5 i direktiv 1999/31/EG i
 lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/850,
-15. ett särskilt avsnitt om förebyggandet av nedskräpning enligt kraven
+15\. ett särskilt avsnitt om förebyggandet av nedskräpning enligt kraven
 i artikel 13 i Europaparlamentets och rådets direktiv 2008/56/EG av den
 17 juni 2008 om upprättande av en ram för gemenskapens åtgärder på
 havsmiljöpolitikens område och artikel 11 i Europaparlamentets och
 Rådets direktiv 2000/60/EG av den 23 oktober 2000 om upprättande av en
 ram för gemenskapens åtgärder på vattenpolitikens område, och
-16. annat som Naturvårdsverket anser är viktigt för att avfallsplanen ska
+16\. annat som Naturvårdsverket anser är viktigt för att avfallsplanen ska
 få effekt.
 Naturvårdsverkets underlag till den nationella avfallsplanen ska också
 innehålla ett underlag till ett avfallsförebyggande program. Underlaget till
 ett avfallsförebyggande program ska innehålla en beskrivning av åtgärder
 för att
-1. främja och stödja hållbara produktions- och konsumtionsmodeller,
-2. uppmuntra utformning, tillverkning och användning av produkter
+1\. främja och stödja hållbara produktions- och konsumtionsmodeller,
+2\. uppmuntra utformning, tillverkning och användning av produkter
 som är resurseffektiva, hållbara (bland annat i fråga om livslängd och
 frånvaro av planerat åldrande), reparerbara, återanvändningsbara och
 uppgraderingsbara,
-3. förhindra att produkter som innehåller råvaror av avgörande betydelse
+3\. förhindra att produkter som innehåller råvaror av avgörande betydelse
 blir avfall,
-4. uppmuntra återanvändning av produkter och inrättandet av system
+4\. uppmuntra återanvändning av produkter och inrättandet av system
 som främjar reparation och återanvändning, särskilt för elektrisk och
 elektronisk utrustning, textilier, möbler, förpackningar, byggnadsmaterial
 och byggprodukter,
-5. uppmuntra, på lämpligt sätt och utan att det påverkar immateriella
+5\. uppmuntra, på lämpligt sätt och utan att det påverkar immateriella
 äganderättigheter, tillgången till reservdelar, bruksanvisningar, teknisk
 information eller andra instrument eller annan utrustning eller
 programvara som gör att produkter kan repareras och återanvändas utan
 att kvaliteten eller säkerheten äventyras,
-6. minska avfallsgenerering i processer inom industriproduktion,
+6\. minska avfallsgenerering i processer inom industriproduktion,
 mineralutvinning, tillverkning och bygg- och rivningsverksamhet, med
 beaktande av bästa tillgängliga teknik,
-7. minska generering av livsmedelsavfall i primärproduktionen, inom
+7\. minska generering av livsmedelsavfall i primärproduktionen, inom
 bearbetning och tillverkning, i detaljhandel och annan
 livsmedelsdistribution, i restauranger och cateringtjänster samt i
 hushållen, som ett bidrag till FN:s mål för hållbar utveckling att globalt
 halvera livsmedelsavfallet per capita på detaljhandels- och konsumentnivå
 och minska livsmedelsförluster längs produktions- och leveranskedjan
 senast 2030,
-8. uppmuntra livsmedelsdonationer och annan omfördelning av
+8\. uppmuntra livsmedelsdonationer och annan omfördelning av
 livsmedel, så att användningen som människoföda prioriteras framför att 79
 
 <!-- sida 218 -->
 
 livsmedlen används som foder eller upparbetas till icke-
 livsmedelsprodukter,
-9. förebygga livsmedelsavfall,
-10. främja en minskning av halten av farliga ämnen i material och
+9\. förebygga livsmedelsavfall,
+10\. främja en minskning av halten av farliga ämnen i material och
 produkter, utan att det påverkar harmoniserade rättsliga krav som fastställs
 på unionsnivå för materialen och produkterna, och se till att alla
 leverantörer av en vara enligt artikel 3.33 i Europaparlamentets och rådets
@@ -9029,15 +9029,15 @@ kommissionens förordning (EG) nr 1488/94 samt rådets direktiv
 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
 93/105/EG och 2000/21/EG tillhandahåller den information som avses i
 artikel 33.1 i den förordningen till Europeiska kemikaliemyndigheten,
-11. minska genereringen av avfall, i synnerhet avfall som inte är
+11\. minska genereringen av avfall, i synnerhet avfall som inte är
 lämpligt för förberedelse för återanvändning eller materialåtervinning,
-12. identifiera de produkter som är de största källorna till nedskräpning,
+12\. identifiera de produkter som är de största källorna till nedskräpning,
 särskilt i naturen och i haven, och vidta lämpliga åtgärder för att förebygga
 och minska nedskräpning från sådana produkter,
-13. stoppa genereringen av marint skräp som ett bidrag till Förenta
+13\. stoppa genereringen av marint skräp som ett bidrag till Förenta
 nationernas mål för hållbar utveckling om att förhindra och avsevärt
 minska alla slags havsföroreningar, och
-14. utveckla och stödja informationskampanjer för att öka
+14\. utveckla och stödja informationskampanjer för att öka
 medvetenheten om avfallsförebyggande och nedskräpning.
 Underlaget ska också innehålla en beskrivning av de åtgärder som
 vidtagits som förtecknas i bilaga IVa till direktiv 2008/98/EG. Det ska
@@ -9116,7 +9116,7 @@ och 12 §§ inte uppnås i tid ska information om
 myndigheten lämna förslag till 1. de framsteg som gjorts för att
 regeringen på ändamålsenliga uppnå de mål som anges i 1–8, 10
 åtgärder.            och 12 §§ och
-2. hur  producentansvars-
+2\. hur  producentansvars-
 organisationer, kommuner och
 andra som har ett ansvar för
 förpackningsavfallet uppfyller
@@ -9135,12 +9135,12 @@ Regeringskansliet.
 En producentansvarsorganisation ska ha ett ansvarsområde som omfattar
 förpackningsavfall av alla material.
 En producentansvarsorganisation ansvarar för att
-1. materialåtervinna eller på annat sätt behandla förpackningsavfall från
+1\. materialåtervinna eller på annat sätt behandla förpackningsavfall från
 den insamling som sker enligt 6 kap.,
-2. samla in, behandla och tillgängliggöra information om verksamheters
+2\. samla in, behandla och tillgängliggöra information om verksamheters
 förpackningsavfall enligt 7 kap.,
-3. finansiera det kommunala insamlingssystemet enligt 9 kap., och
-4. rapportera uppgifter enligt 11 kap. till Naturvårdsverket.
+3\. finansiera det kommunala insamlingssystemet enligt 9 kap., och
+4\. rapportera uppgifter enligt 11 kap. till Naturvårdsverket.
 I 4 kap. 3 § avfallsförordningen
 (2020:614) finns bestämmelser om
 ytterligare sortering av insamlat
@@ -9155,8 +9155,8 @@ avfall för att främja material-
 Kommunen ska från och med den 1 januari 2027 tillhandahålla en
 fastighetsnära insamling av avfall som består av pappers-, plast-, glas- och
 metallförpackningar
-1. från hushållen, och
-2. från verksamheter vars avfallshantering är samlokaliserad med
+1\. från hushållen, och
+2\. från verksamheter vars avfallshantering är samlokaliserad med
 hushållens, om verksamheten har valt kommunal insamling enligt 7 kap.
 10 §.
 I 3 kap. 33 § avfallsförordningen
@@ -9275,7 +9275,7 @@ och en formell underrättelse
 Den 8 juni 2023 beslutade EU-kommissionen om en tidig varning för
 Sverige för att det finns risk att målet för förberedelse för återanvändning
 och materialåtervinning av kommunalt avfall inte kommer att nås för
-2025. I den bedömning som ligger till grund för rapporten om tidig varning
+2025\. I den bedömning som ligger till grund för rapporten om tidig varning
 urskils arton medlemsstater som riskerar att missa målet.
 Kommissionen anser att Sverige riskerar att missa 2025 års mål på
 55 viktprocent för förberedelse för återanvändning och material-
@@ -9313,24 +9313,24 @@ formen av avfallsbehandling i Sverige.
 Bland de åtgärder som anses nödvändiga för att stödja det svenska
 arbetet med att förbättra sina avfallshanteringsresultat anger
 kommissionen fyra huvudrekommendationer. Sverige bör
-1. stödja förberedelse för återanvändning av kommunalt avfall och
+1\. stödja förberedelse för återanvändning av kommunalt avfall och
 återanvändningssystem för förpackningar,
-2. utveckla infrastruktur för avfallshantering i samband med de högre
+2\. utveckla infrastruktur för avfallshantering i samband med de högre
 stegen i avfallshierarkin för att minska beroendet av förbränning, bland
 annat för återvinning av plastförpackningar,
-3. förbättra tjänsterna som avser separat insamling av avfallsfraktioner
+3\. förbättra tjänsterna som avser separat insamling av avfallsfraktioner
 som separeras vid källan – särskilt förpackningar och biologiskt avfall –
 för att säkerställa höga materialåtervinningsgrader i hela landet, och
-4. införa stödmekanismer för att säkerställa företagens avfallssortering.
+4\. införa stödmekanismer för att säkerställa företagens avfallssortering.
 Kommissionens översikt över möjliga åtgärder för bättre material-
 återvinning
 
 Samhällsstyrning
-1) Införa stödmekanismer (exempelvis kommunal vägledning för företag)
+1\) Införa stödmekanismer (exempelvis kommunal vägledning för företag)
 för att säkerställa en separat insamling av återvinningsbart kommunalt
 avfall från företag i syfte att öka verkningsgraden för fraktioner som
 separeras vid källan.
-2) För att både uppnå hög materialåtervinningsgrad och hög kvalitet
+2\) För att både uppnå hög materialåtervinningsgrad och hög kvalitet
 avseende insamlat avfall, fastställ obligatoriska mål eller indikatorer för
 separat insamling av avfall för kommuner eller andra organ (t.ex. privata
 avfallsoperatörer som ansvarar för den separata insamlingen). Detta skulle
@@ -9340,17 +9340,17 @@ resultat. Information om det lokala insamlingssystemets resultat kan också
 göras tillgänglig för allmänheten för att öka medvetenheten (till exempel
 på en webbplats).
 Förebyggande insatser
-3) Vidta åtgärder för att öka återanvändningen och förhindra generering
+3\) Vidta åtgärder för att öka återanvändningen och förhindra generering
 av icke återvinningsbart kommunalt avfall.
 
 Separat insamling
-4) Öka materialåtervinningsgraderna för separat insamlat kommunalt
+4\) Öka materialåtervinningsgraderna för separat insamlat kommunalt
 avfall genom att till fullo genomföra insamling av återvinningsbara
 avfallstyper från dörr till dörr med hög tillgänglighet. Överväga ett
 snabbare genomförande av lagstiftningen om obligatorisk separat
 insamling av biologiskt avfall.
 Avfallsbehandling
-5) Stödja förberedelse för återanvändning av kommunalt avfall och
+5\) Stödja förberedelse för återanvändning av kommunalt avfall och
 utveckla infrastruktur för avfallshantering som fokuserar på de högre
 stegen i avfallshierarkin för att minska beroendet av förbränning, bl.a. för
 återvinning av plastförpackningar.
@@ -9359,20 +9359,20 @@ Kommunikation och åtgärder för att öka medvetenheten
 
 <!-- sida 226 -->
 
-6) Fortsätta och stärka medvetandehöjande verksamheter som är
+6\) Fortsätta och stärka medvetandehöjande verksamheter som är
 skräddarsydda för olika målgrupper (t.ex. hushåll, kommersiella
 avfallsproducenter, landsbygds- och stadsområden, lärare och elever) för
 att öka deras medverkan i separat insamling, särskilt när nya tjänster för
 separat insamling byggs ut.
 Utökat producentansvar och ekonomiska instrument
-7) Använda ekonomiska instrument för att stimulera avfallshantering i
+7\) Använda ekonomiska instrument för att stimulera avfallshantering i
 samband med de högre stegen i avfallshierarkin. Det kommer att bidra till
 att göra återanvändning, förberedelse för återanvändning och
 materialåtervinning ekonomiskt attraktivt, och minska beroendet av
 avfallsdeponering. De ekonomiska incitamenten bör vara tillräckligt stora
 och utformas till att bli effektiva och styra avfallshanteringen uppåt i
 avfallshierarkin.
-8) Ökade insatser för att inrätta återanvändningssystem för förpackningar
+8\) Ökade insatser för att inrätta återanvändningssystem för förpackningar
 kommer att medföra miljöfördelar och hjälpa medlemsstaterna att uppfylla
 EU:s återvinningsmål för förpackningar.
 
@@ -9974,12 +9974,12 @@ skogsbruk, avfall från fiske, avfall från septiktankar, avloppsnät och
 avloppsrening, bygg- och rivningsavfall, och uttjänta bilar (15 kap. 3 §
 miljöbalken). Uttrycket finns i avfallsdirektivet men har inte genomförts
 ordagrant (artikel 3.2b). I direktivet definieras kommunalt avfall som
-1. blandat avfall och separat insamlat avfall från hushåll, inklusive
+1\. blandat avfall och separat insamlat avfall från hushåll, inklusive
 papper och kartong, glas, metall, plast, bioavfall, trä, textilier,
 förpackningar, avfall som utgörs av eller innehåller elektrisk och
 elektronisk utrustning, förbrukade batterier och ackumulatorer samt
 grovavfall, inklusive madrasser och möbler,
-2. blandat avfall och separat insamlat avfall från andra källor om sådant
+2\. blandat avfall och separat insamlat avfall från andra källor om sådant
 avfall till sin art och sammansättning liknar avfall från hushåll.
 Kommunalt avfall omfattar dock inte avfall från tillverkning, jordbruk,
 skogsbruk, fiske, septiktankar, avloppsnät och rening av avlopp, inklusive
@@ -11130,11 +11130,11 @@ Förslag: Ett marknadsdrivet system för återanvändning av
 förpackningar eller materialåtervinning av förpackningsavfall från
 verksamheter som drivs utan att ha uppfyllt anmälningsplikten ska
 betala en miljösanktionsavgift med
-1. 30 000 kronor om systemet roterar eller samlar in
+1\. 30 000 kronor om systemet roterar eller samlar in
 1 000 förpackningar eller färre,
-2. 100 000 kronor om systemet roterar eller samlar in fler än
+2\. 100 000 kronor om systemet roterar eller samlar in fler än
 1 000 förpackningar men mindre än 10 000 förpackningar, eller
-3. 300 000 kronor om systemet roterar eller samlar in fler än 10 000
+3\. 300 000 kronor om systemet roterar eller samlar in fler än 10 000
 förpackningar.
 Skälen för förslaget: Den som avser att samla in utsorterat
 förpackningsavfall från verksamheter vid sidan av producentansvars-
@@ -11692,9 +11692,9 @@ i dag.
 ansvarar för
 Förslag: För det avfall som inte samlas in fastighetsnära ska
 kommunen inrätta system som
-1. underlättar för hushåll och andra innehavare att lämna ifrån sig
+1\. underlättar för hushåll och andra innehavare att lämna ifrån sig
 avfallet, och
-2. innebär att avfallet samlas in separat och hanteras på ett sätt som
+2\. innebär att avfallet samlas in separat och hanteras på ett sätt som
 säkerställer att det kan behandlas i enlighet med avfallshierarkin.
 Kommunens system för insamling av avfall ska dimensioneras utifrån
 antalet kommuninvånare och det avfall som produceras.
@@ -11825,15 +11825,15 @@ För att säkerställa ett korrekt genomförande av avfallsdirektivet bör
 dispensgrunderna anges i nära överensstämmelse med avfallsdirektivets
 formuleringar. Villkoren för dispens från utsortering och separat insamling
 bör vara att
-1. det skulle leda till ett återvinningsresultat som är kvalitetsmässigt
+1\. det skulle leda till ett återvinningsresultat som är kvalitetsmässigt
 jämförbart med det som uppnås vid separat insamling om vissa avfallsslag
 samlas in tillsammans,
-2. det inte leder till det bästa miljömässiga resultatet att samla in avfallet
+2\. det inte leder till det bästa miljömässiga resultatet att samla in avfallet
 separat på grund av den sammanlagda miljöpåverkan från hanteringen av
 de aktuella avfallsslagen,
-3. det med hänsyn till god praxis för avfallsinsamling inte är tekniskt
+3\. det med hänsyn till god praxis för avfallsinsamling inte är tekniskt
 genomförbart att samla in avfallet separat, eller
-4. den separata insamlingen skulle medföra oskäliga ekonomiska
+4\. den separata insamlingen skulle medföra oskäliga ekonomiska
 kostnader.
 Beslutet om dispens bör gälla för ett eller flera avfallsslag. Eftersom
 direktivet ställer krav på att medlemsstaterna regelbundet ska se över
@@ -11899,9 +11899,9 @@ Naturvårdsverkets möjlighet att meddela föreskrifter om undantag tas
 bort.
 Kommunen ska få ge dispens från kravet på att förpackningen skiljs
 från innehållet, om
-1. det inte är tekniskt genomförbart med hänsyn till god praxis för
+1\. det inte är tekniskt genomförbart med hänsyn till god praxis för
 avfallsinsamling, eller
-2. det inte leder till det bästa miljömässiga resultatet att skilja
+2\. det inte leder till det bästa miljömässiga resultatet att skilja
 förpackningen från dess innehåll mot bakgrund av den sammanlagda
 miljöpåverkan från hanteringen av de aktuella avfallsströmmarna.
 En ansökan om dispens ska innehålla en plan som beskriver på vilket
@@ -12276,10 +12276,10 @@ Förslag: Den som har samlat in avfall separat ska vid överlämning av
 avfallet till en verksamhetsutövare som bedriver en
 avfallsförbränningsanläggning eller en samförbränningsanläggning se
 till att uppgifter lämnas om
-1. hur avfallet producerats,
-2. den sorteringsprocess eller annan förberedande behandling som
+1\. hur avfallet producerats,
+2\. den sorteringsprocess eller annan förberedande behandling som
 avfallet genomgått, och
-3. att avfallet får förbrännas.
+3\. att avfallet får förbrännas.
 Innan avfall tas emot för förbränning ska verksamhetsutövaren för
 avfallsförbränningsanläggningen eller samförbränningsanläggningen
 kontrollera att de uppgifter som rör avfallet är korrekta. Kontrollen ska
@@ -12655,11 +12655,11 @@ avfallsplanen. Underlaget ska omfatta Sveriges hela geografiska
 territorium. Vad underlaget till avfallsplanen ska innehålla ska framgå
 av en ny bilaga till avfallsförordningen. När underlaget ska tas fram
 eller uppdateras ska Naturvårdsverket
-1. på lämpligt sätt ge företrädare för länsstyrelserna, kommunerna
+1\. på lämpligt sätt ge företrädare för länsstyrelserna, kommunerna
 och näringslivet tillfälle att yttra sig över underlaget till avfallsplanen,
-2. följa avfallsdirektivets krav i fråga om allmänhetens medverkan,
+2\. följa avfallsdirektivets krav i fråga om allmänhetens medverkan,
 och
-3. följa avfallsdirektivets krav i fråga om samarbete med övriga
+3\. följa avfallsdirektivets krav i fråga om samarbete med övriga
 berörda medlemsstater och med Europeiska kommissionen.
 Det underlag som tas fram ska lämnas till regeringen, om inte
 regeringen beslutar om annat.
@@ -13319,15 +13319,15 @@ avfallshantering
 
 Förslag: En kommun ska i fråga om sitt ansvar för avfallshantering se
 till att
-1. verksamheten bokförs och redovisas i enlighet med god
+1\. verksamheten bokförs och redovisas i enlighet med god
 redovisningssed där resultat- och balansräkningar redovisas särskilt och
 där det av tilläggsupplysningar framgår hur kommunen har fördelat
 kostnader som varit gemensamma med annan verksamhet,
-2. det av redovisningen framgår om och hur avgift tagits ut för att
+2\. det av redovisningen framgår om och hur avgift tagits ut för att
 främja miljöanpassad avfallshantering,
-3. det av redovisningen framgår vilken ersättning kommunen har fått
+3\. det av redovisningen framgår vilken ersättning kommunen har fått
 från producentansvarsorganisationer för förpackningar, och
-4. redovisningen, när den är fastställd, finns tillgänglig för
+4\. redovisningen, när den är fastställd, finns tillgänglig för
 allmänheten.
 Skälen för förslaget: Miljöbalken innehåller inga krav på redovisning
 av kommunernas avfallsverksamhet. I kommunallagen (2017:725) och
@@ -14932,7 +14932,7 @@ har betydelse för tillämpningen av kapitlet.
 Paragrafen är ny och anger syftet med bestämmelserna i kapitlet och
 tillämpningsområdet i förhållande till EU-rätten. Syftet överensstämmer i
 stort med syftet i artikel 1 i avfallsdirektivet. Övervägandena finns i avsnitt
-14.
+14\.
 I första stycket anges att avfallsförebyggande åtgärder och återvinning
 ska främjas liksom annan hushållning med material, råvaror och energi så
 att en cirkulär ekonomi uppnås. Definitioner av avfallsförebyggande
@@ -14965,16 +14965,16 @@ sig av med eller avser eller är skyldig att göra sig av med.
 Ett ämne eller föremål som uppkommit i en produktionsprocess där huvudsyftet
 inte är att producera ämnet eller föremålet ska anses vara en biprodukt i stället för
 avfall, om
-1. det är säkerställt att ämnet eller föremålet kommer att fortsätta användas,
+1\. det är säkerställt att ämnet eller föremålet kommer att fortsätta användas,
 198
 
 <!-- sida 337 -->
 
-2. ämnet eller föremålet kan användas direkt utan någon annan bearbetning än
+2\. ämnet eller föremålet kan användas direkt utan någon annan bearbetning än
 den bearbetning som är normal i industriell praxis,
-3. ämnet eller föremålet har producerats som en integrerad del av
+3\. ämnet eller föremålet har producerats som en integrerad del av
 produktionsprocessen, och
-4. den användning som avses inte strider mot lag eller annan författning och inte
+4\. den användning som avses inte strider mot lag eller annan författning och inte
 leder till allmänt negativa följder för miljön eller människors hälsa.
 Paragrafen innehåller en definition av vad som i kapitlet avses med avfall.
 Definitionen motsvarar hittillsvarande 1 §. Innehållet är oförändrat i sak
@@ -14988,9 +14988,9 @@ hänvisning som tidigare fanns i punkt 4 till punkt 1 har tagits bort då artike
 3 § I denna balk avses med
 avfallsförebyggande åtgärder: åtgärder som vidtas innan ett ämne eller föremål
 har blivit avfall och som syftar till en minskning av
-1. mängden avfall,
-2. innehållet av farliga ämnen i material och produkter, eller
-3. de negativa effekterna på människors hälsa och miljön som avfall kan ge
+1\. mängden avfall,
+2\. innehållet av farliga ämnen i material och produkter, eller
+3\. de negativa effekterna på människors hälsa och miljön som avfall kan ge
 upphov till,
 avfallsproducent: den som ger upphov till avfall och den som genom
 förbehandling, blandning eller andra förfaranden ändrar avfallets art eller
@@ -14999,10 +14999,10 @@ behandla avfall: återvinna eller bortskaffa avfall,
 bilskrotare: den som bedriver yrkesmässig verksamhet som syftar till att
 behandla uttjänta bilar,
 bioavfall: biologiskt nedbrytbart
-1. trädgårds- eller parkavfall,
-2. livsmedels- eller köksavfall från hushåll, kontor, restauranger, grossister,
+1\. trädgårds- eller parkavfall,
+2\. livsmedels- eller köksavfall från hushåll, kontor, restauranger, grossister,
 matsalar, catering och detaljhandelslokaler, och
-3. livsmedels- eller köksavfall från livsmedelsindustrin som är jämförbart med
+3\. livsmedels- eller köksavfall från livsmedelsindustrin som är jämförbart med
 sådant avfall som avses i 2,
 bortskaffa avfall: göra sig av med eller förbereda för att göra sig av med något
 som är avfall utan att återvinna det eller utan att lämna det till någon som samlar
@@ -15011,11 +15011,11 @@ bygg- och rivningsavfall: avfall från bygg- och rivningsarbeten,
 deponera avfall: bortskaffa avfall genom att lägga det på en deponi,
 deponi: en upplagsplats för avfall som finns på eller i jorden, med undantag för
 en plats där avfall
-1. lastas om för att förbereda det för vidare transport till en annan plats där det
+1\. lastas om för att förbereda det för vidare transport till en annan plats där det
 ska behandlas,
-2. lagras innan det återvinns, om lagringen sker under en kortare period än tre
+2\. lagras innan det återvinns, om lagringen sker under en kortare period än tre
 år, eller
-3. lagras innan det bortskaffas, om lagringen sker under en kortare period än ett
+3\. lagras innan det bortskaffas, om lagringen sker under en kortare period än ett
 år,
 detaljhandel med livsmedel: handel i butik där de varor som säljs i huvudsak
 består av livsmedel,
@@ -15046,12 +15046,12 @@ innehåller elektrisk eller elektronisk utrustning eller annat blandat eller sep
 insamlat avfall från hushåll, och blandat eller separat insamlat avfall från andra
 källor än hushåll om sådant avfall till sin art och sammansättning liknar avfall från
 hushåll, med undantag för
-1. avfall från tillverkning,
-2. avfall från jord- och skogsbruk,
-3. avfall från fiske,
-4. avfall från septiktankar, avloppsnät och avloppsrening,
-5. bygg- och rivningsavfall, och
-6. uttjänta bilar,
+1\. avfall från tillverkning,
+2\. avfall från jord- och skogsbruk,
+3\. avfall från fiske,
+4\. avfall från septiktankar, avloppsnät och avloppsrening,
+5\. bygg- och rivningsavfall, och
+6\. uttjänta bilar,
 materialåtervinna avfall: upparbeta avfall till nya ämnen eller föremål som inte
 ska användas som bränsle eller fyllnadsmaterial,
 producent: den som yrkesmässigt utvecklar, tillverkar, bearbetar, behandlar eller
@@ -15201,11 +15201,11 @@ När avfall upphör att vara avfall
 
 4 § Avfall som har genomgått ett återvinningsförfarande upphör att vara avfall,
 om
-1. ämnet eller föremålet ska användas för ett visst ändamål,
-2. det finns en marknad för eller efterfrågan på sådana ämnen eller föremål,
-3. ämnet eller föremålet uppfyller tillämpliga krav i lag eller annan författning,
+1\. ämnet eller föremålet ska användas för ett visst ändamål,
+2\. det finns en marknad för eller efterfrågan på sådana ämnen eller föremål,
+3\. ämnet eller föremålet uppfyller tillämpliga krav i lag eller annan författning,
 och
-4. användningen av ämnet eller föremålet inte leder till allmänt negativa följder
+4\. användningen av ämnet eller föremålet inte leder till allmänt negativa följder
 för människors hälsa eller miljön.
 I paragrafen anges vilka villkor som ska vara uppfyllda för att avfall som
 har genomgått ett återvinningsförfarande ska upphöra att vara avfall.
@@ -15258,10 +15258,10 @@ hanteras. Avfallsproducenten ska också stå för kostnaderna för att hantera a
 Ansvaret för att hantera avfallet upphör när avfallet har genomgått en fullständig
 behandling.
 Ansvaret gäller inte om
-1. kommunen är ansvarig för avfallet enligt 11 §, 12 §, 15 § andra stycket eller
+1\. kommunen är ansvarig för avfallet enligt 11 §, 12 §, 15 § andra stycket eller
 föreskrifter som har meddelats med stöd av13 §,
-2. det har införts ett system för utökat producentansvar för avfallshantering, eller
-3. det i övrigt framgår av lag eller annan författning att avfallsproducenten inte
+2\. det har införts ett system för utökat producentansvar för avfallshantering, eller
+3\. det i övrigt framgår av lag eller annan författning att avfallsproducenten inte
 är ansvarig.
 Paragrafen, som är delvis ny, klargör avfallsproducentens ansvar för
 hantering av avfall som denne har producerat. Den genomför artiklarna
@@ -15321,14 +15321,14 @@ mottagaren av avfallet, men inte om transporten sker på uppdrag av den
 som överlåtit avfallet.
 Kommunens ansvar
 11 § Varje kommun är ansvarig för att följande avfall inom kommunen hanteras:
-1. kommunalt avfall,
-2. avloppsfraktioner och filtermaterial från enskilda avloppsanläggningar, som
+1\. kommunalt avfall,
+2\. avloppsfraktioner och filtermaterial från enskilda avloppsanläggningar, som
 är dimensionerade för högst 25 personekvivalenter, om anläggningen endast
 används för
 a) hushållsspillvatten, eller
 b) spillvatten som till sin art och sammansättning liknar hushållsspillvatten,
-3. latrin från torrtoaletter och liknande lösningar, och
-4. bygg- och rivningsavfall som inte har producerats i en yrkesmässig
+3\. latrin från torrtoaletter och liknande lösningar, och
+4\. bygg- och rivningsavfall som inte har producerats i en yrkesmässig
 verksamhet.
 Kommunen ska ansvara för kostnaderna för att hantera avfallet. Ansvaret att
 hantera avfallet upphör när avfallet har genomgått en fullständig behandling.
@@ -15378,8 +15378,8 @@ får meddela föreskrifter om att kommunen ska ansvara för att annat avfall än
 som avses i 11 eller 12 § behandlas och samlas in från den fastighet där avfallet
 produceras.
 Föreskrifterna får endast avse
-1. avfall som av hälso- eller miljöskäl behöver hanteras av kommunen, och
-2. avfall som omfattas av producentansvar och som av samordningsskäl bör
+1\. avfall som av hälso- eller miljöskäl behöver hanteras av kommunen, och
+2\. avfall som omfattas av producentansvar och som av samordningsskäl bör
 hanteras tillsammans med sådant avfall som kommunen ansvarar för enligt 11 §
 eller enligt föreskrifter som har meddelats med stöd av 1.
 Paragrafen innehåller ett bemyndigande för regeringen eller den kommun
@@ -15422,14 +15422,14 @@ Avfallsproducentens ansvar för kommunalt avfall och kommunens
 andrahandsansvar för avfallet
 15 § En avfallsproducent är, trots 11 §, ansvarig för det kommunala avfall som
 har producerats i en
-1. detaljhandel med livsmedel, eller
-2. yrkesmässig verksamhet, om avfallet består av
+1\. detaljhandel med livsmedel, eller
+2\. yrkesmässig verksamhet, om avfallet består av
 a) förbrukat matfett, eller
 b) förbrukat kontorspapper.
 Kommunen är dock ansvarig för avfallet om avfallsproducenten begär det och
-1. det finns ett bristande utbud av tjänster för avfallshanteringen,
-2. transportavstånden är orimligt långa, eller
-3. avfallshanteringstjänsterna erbjuds med oskäliga avtalsvillkor.
+1\. det finns ett bristande utbud av tjänster för avfallshanteringen,
+2\. transportavstånden är orimligt långa, eller
+3\. avfallshanteringstjänsterna erbjuds med oskäliga avtalsvillkor.
 Vart femte år ska kommunen utvärdera om förutsättningarna i andra stycket har
 förändrats och om avfallshanteringstjänsterna fortsatt ska erbjudas.
 I paragrafen, som är ny, regleras att vissa avfallsproducenter ska ha ansvar
@@ -15523,10 +15523,10 @@ förvaltningslagen (2017:900). Genom tillägget kommer beslut att kunna
 beslutsvillkor eller inte.
 19 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. undantag från kommunens ansvar enligt 11 och 12 §§ i fråga om avfall som
+1\. undantag från kommunens ansvar enligt 11 och 12 §§ i fråga om avfall som
 ska samlas in eller behandlas av en producent eller en
 producentansvarsorganisation, och
-2. skyldigheter för kommuner att vidta de åtgärder som krävs för att
+2\. skyldigheter för kommuner att vidta de åtgärder som krävs för att
 avfallshanteringen ska fungera när ansvaret för hanteringen är uppdelat mellan
 kommunen och en producent eller en producentansvarsorganisation.
 Paragrafen innehåller bemyndiganden för regeringen eller den myndighet
@@ -15539,18 +15539,18 @@ Producentens och producentansvarsorganisationens ansvar
 20 § För att införa system för utökat producentansvar för avfallshantering får
 regeringen eller den myndighet som regeringen bestämmer meddela föreskrifter
 om skyldighet för producenter att
-1. se till att avfall hanteras i enlighet med 27 § och på ett sätt som möjliggör en
+1\. se till att avfall hanteras i enlighet med 27 § och på ett sätt som möjliggör en
 lämplig behandling enligt 28 §,
-2. betala avgifter för att täcka det allmännas kostnader för hantering av avfall
+2\. betala avgifter för att täcka det allmännas kostnader för hantering av avfall
 från nedskräpning och information om nedskräpning, eller på annat sätt ansvara
 ekonomiskt för avfallshantering och information om hanteringen, 209
 
 <!-- sida 348 -->
 
-3. inrätta ett system för egenkontroll för att säkerställa att skyldigheter enligt
+3\. inrätta ett system för egenkontroll för att säkerställa att skyldigheter enligt
 denna balk, föreskrifter som är meddelade med stöd av balken och skyldigheter
 som följer av EU-förordningar inom balkens tillämpningsområde följs, och
-4. vidta åtgärder som möjliggör en effektiv insamling av avfall.
+4\. vidta åtgärder som möjliggör en effektiv insamling av avfall.
 Föreskrifterna får endast avse avfall som utgörs av den typ av produkter som
 producenterna utvecklar, tillverkar, bearbetar, behandlar, överlåter eller för in till
 Sverige. Föreskrifter som avser sådant avfall, och som utgörs även av produkter
@@ -15565,14 +15565,14 @@ förklaras i 2 §. Ändringarna är endast språkliga.
 21 § För att främja avfallsförebyggande åtgärder eller en hälso- och miljömässigt
 godtagbar avfallshantering får regeringen eller den myndighet som regeringen
 bestämmer meddela föreskrifter om skyldighet för producenter att
-1. se till att produkter är märkta,
-2. lämna information och uppgifter om vilka ämnen och material som en produkt
+1\. se till att produkter är märkta,
+2\. lämna information och uppgifter om vilka ämnen och material som en produkt
 innehåller samt om insamling, återanvändningsgrad, återvinningsgrad eller andra
 förhållanden,
-3. se till att produkter har en viss sammansättning, återanvändbarhet och
+3\. se till att produkter har en viss sammansättning, återanvändbarhet och
 återvinningsbarhet,
-4. vidta åtgärder som möjliggör en effektiv insamling av använda produkter, och
-5. vidta andra avfallsförebyggande åtgärder.
+4\. vidta åtgärder som möjliggör en effektiv insamling av använda produkter, och
+5\. vidta andra avfallsförebyggande åtgärder.
 Föreskrifter om skyldigheter för en producent att vidta åtgärder som möjliggör
 en effektiv insamling av använda produkter som producenten inte utvecklat,
 tillverkat, bearbetat, behandlat, överlåtit eller fört in till Sverige får endast avse den
@@ -15587,24 +15587,24 @@ hittillsvarande 13 § (prop. 2020/21:198 s 62 och 63).
 Ändringarna är endast språkliga och redaktionella.
 22 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. skyldighet för producenter att tillhandahålla eller anlita en
+1\. skyldighet för producenter att tillhandahålla eller anlita en
 producentansvarsorganisation,
-2. förbud att yrkesmässigt överlåta eller saluföra produkter om produktens
+2\. förbud att yrkesmässigt överlåta eller saluföra produkter om produktens
 producent inte tillhandahåller eller har anlitat en producentansvarsorganisation,
-3. tillstånd, godkännande eller anmälan för yrkesmässig drift av en
+3\. tillstånd, godkännande eller anmälan för yrkesmässig drift av en
 producentansvarsorganisation,
-4. kriterier för hur ersättning som en producentansvarsorganisation tar ut från
+4\. kriterier för hur ersättning som en producentansvarsorganisation tar ut från
 producenterna ska bestämmas,
-5. skyldighet för en producentansvarsorganisation att fullgöra sådana
+5\. skyldighet för en producentansvarsorganisation att fullgöra sådana
 skyldigheter som kan föreskrivas för producenter enligt 20 och 21 §§,
 210
 
 <!-- sida 349 -->
 
-6. skyldighet för en producentansvarsorganisation att hantera mer avfall än vad
+6\. skyldighet för en producentansvarsorganisation att hantera mer avfall än vad
 som motsvarar organisationens marknadsandel, under förutsättning att hanteringen
 avser avfall som producentansvarsorganisationen har rätt att få ersättning för, och
-7. att de intäkter som en producentansvarsorganisation för förpackningar har, får
+7\. att de intäkter som en producentansvarsorganisation för förpackningar har, får
 användas endast för verksamhet som har samband med organisationens
 skyldigheter enligt 5 och 6 eller för att göra en utbetalning till de producenter som
 har anlitat organisationen.
@@ -15617,9 +15617,9 @@ Paragrafen överensstämmer i sak med hittillsvarande 15 § (prop.
 Ändringarna är enbart redaktionella.
 23 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. skyldighet för en producent att utse någon som ska fullgöra skyldigheter som
+1\. skyldighet för en producent att utse någon som ska fullgöra skyldigheter som
 producenten har i ett annat medlemsland i Europeiska unionen, och
-2. att det som gäller för en producent enligt föreskrifter som har meddelats med
+2\. att det som gäller för en producent enligt föreskrifter som har meddelats med
 stöd av 20, 21 eller 22 § också ska gälla den som på en producents uppdrag fullgör
 producentens skyldigheter.
 Paragrafen innehåller bemyndiganden för regeringen, eller den myndighet
@@ -15639,8 +15639,8 @@ till hittillsvarande 16 § (prop. 2020/21:198 s. 65).
 föreskrifter om att den som är etablerad i Sverige och yrkesmässigt förmedlar
 distansförsäljning av produkter som omfattas av ett system för utökat
 producentansvar till slutanvändare i Sverige
-1. ska vara skyldig att registrera sig, och
-2. endast får förmedla distansförsäljning från säljare som har uppfyllt
+1\. ska vara skyldig att registrera sig, och
+2\. endast får förmedla distansförsäljning från säljare som har uppfyllt
 skyldigheter enligt föreskrifter som har meddelats med stöd av 22 § 1.
 Paragrafen innehåller ett bemyndigande för regeringen eller den
 myndighet som regeringen bestämmer att meddela föreskrifter om vissa
@@ -15671,10 +15671,10 @@ information. Paragrafen motsvarar hittillsvarande 16 b § (prop.
 Hantering av avfall
 27 § Den som hanterar avfall ska se till att hanteringen inte skadar eller orsakar
 risk för skada på människors hälsa eller miljön. Särskild hänsyn ska tas till
-1. den risk som hanteringen kan innebära för skada på vatten, luft, mark, växter
+1\. den risk som hanteringen kan innebära för skada på vatten, luft, mark, växter
 eller djur,
-2. de olägenheter som hanteringen kan innebära genom buller eller lukt, och
-3. den negativa påverkan som hanteringen kan ha på sådana särskilt skyddade
+2\. de olägenheter som hanteringen kan innebära genom buller eller lukt, och
+3\. den negativa påverkan som hanteringen kan ha på sådana särskilt skyddade
 områden som avses i 7 kap., på andra områden av särskild betydelse för miljön
 eller på landskapet i övrigt.
 I paragrafen regleras hur man ska hantera avfall. Paragrafen motsvarar
@@ -15683,10 +15683,10 @@ Avfallshierarki
 28 § Bestämmelser om skyldighet att vidta avfallsförebyggande åtgärder finns i
 2 kap. 5 §.
 Den som är ansvarig för att avfall blir behandlat ska se till att avfallet
-1. återvinns genom att det förbereds för återanvändning,
-2. materialåtervinns, om det är lämpligare än 1,
-3. återvinns på ett annat sätt, om det är lämpligare än 1 och 2, eller
-4. bortskaffas, om det är lämpligare än 1–3.
+1\. återvinns genom att det förbereds för återanvändning,
+2\. materialåtervinns, om det är lämpligare än 1,
+3\. återvinns på ett annat sätt, om det är lämpligare än 1 och 2, eller
+4\. bortskaffas, om det är lämpligare än 1–3.
 Vid valet av behandlingsmetod för avfallet ska den behandling som bäst skyddar
 människors hälsa och miljön som helhet anses som lämpligast, om behandlingen
 inte är orimlig.
@@ -15735,10 +15735,10 @@ Paragrafen är oförändrad i förhållande till hittillsvarande 28 § (prop.
 enskilda fallet ge dispens från förbudet mot dumpning i 30 § första stycket, om
 avfallet kan dumpas utan olägenhet för människors hälsa eller miljön.
 Den som har gett en dispens enligt första stycket får
-1. förelägga den som har fått dispensen att avhjälpa en olägenhet som
+1\. förelägga den som har fått dispensen att avhjälpa en olägenhet som
 uppkommer genom dumpningen, om olägenheten inte förutsågs när dispensen
 gavs, och
-2. återkalla dispensen, om ett villkor eller en föreskrift som gäller för
+2\. återkalla dispensen, om ett villkor eller en föreskrift som gäller för
 dumpningen inte följs eller om en olägenhet som avses med ett föreläggande enligt
 1 inte avhjälps.
 Paragrafen innehåller ett bemyndigande för regeringen eller den
@@ -15762,10 +15762,10 @@ fungerande avfallshantering i kommunen. Paragrafen moderniseras genom
 att uttrycket renhållningsordning byts ut mot avfallsföreskrifter. Kravet på
 att kommunen ska ha en avfallsplan tas bort.
 34 § Innan kommunen antar avfallsföreskrifter ska kommunen
-1. på lämpligt sätt och i skälig omfattning ge de fastighetsinnehavare och
+1\. på lämpligt sätt och i skälig omfattning ge de fastighetsinnehavare och
 myndigheter som kan ha ett väsentligt intresse av avfallsföreskrifterna tillfälle att
 yttra sig, och
-2. ställa ut ett förslag till avfallsföreskrifter för granskning under minst fyra
+2\. ställa ut ett förslag till avfallsföreskrifter för granskning under minst fyra
 veckor.
 Kommunen ska informera om utställningen på sin webbplats före
 utställningstidens början. Informationen ska innehålla uppgifter om förslagets
@@ -15791,9 +15791,9 @@ Ytterligare föreskrifter om avfallshantering och avfallsförebyggande
 åtgärder
 36 § Regeringen eller den myndighet eller kommun som regeringen bestämmer
 får meddela föreskrifter om
-1. avfallshantering som behövs med hänsyn till skyddet för människors hälsa
+1\. avfallshantering som behövs med hänsyn till skyddet för människors hälsa
 eller miljön, och
-2. att det krävs en anmälan till den myndighet som regeringen bestämmer eller
+2\. att det krävs en anmälan till den myndighet som regeringen bestämmer eller
 till kommunen för att få hantera avfall.
 214
 
@@ -15820,9 +15820,9 @@ Möjligheten att meddela föreskrifter om innehållet i avfallsplaner tas bort
 (jfr 34 och 35 §§).
 38 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 ytterligare föreskrifter om
-1. avfall, om föreskrifterna behövs till följd av Sveriges medlemskap i
+1\. avfall, om föreskrifterna behövs till följd av Sveriges medlemskap i
 Europeiska unionen, och
-2. avfallsförebyggande åtgärder som har särskild betydelse för skyddet för
+2\. avfallsförebyggande åtgärder som har särskild betydelse för skyddet för
 människors hälsa eller miljön.
 Paragrafen innehåller ett bemyndigande för regeringen eller den
 myndighet som regeringen bestämmer att meddela ytterligare föreskrifter
@@ -15834,10 +15834,10 @@ och 17).
 Ändringarna är enbart språkliga.
 39 § Regeringen eller den myndighet eller kommun som regeringen bestämmer
 får meddela föreskrifter om
-1. anordningar för hantering av avfall,
-2. skyldighet att informera om avfallsförebyggande åtgärder och hantering av
+1\. anordningar för hantering av avfall,
+2\. skyldighet att informera om avfallsförebyggande åtgärder och hantering av
 avfall, och
-3. skyldighet att kontrollera, dokumentera och lämna uppgifter om avfall,
+3\. skyldighet att kontrollera, dokumentera och lämna uppgifter om avfall,
 avfallshantering och avfallsförebyggande åtgärder.
 Paragrafen, som delvis är ny, innehåller bemyndiganden för regeringen
 eller den myndighet som regeringen bestämmer att meddela föreskrifter
@@ -15900,18 +15900,18 @@ produkter. Paragrafen motsvarar hittillsvarande 34 § (prop. 2021/22:238 s.
 
 43 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. att bilskrotare ska vara auktoriserade och om villkoren för auktorisation av
+1\. att bilskrotare ska vara auktoriserade och om villkoren för auktorisation av
 bilskrotare,
-2. skyldighet för den som har förvärvat en uttjänt bil för skrotning att utfärda ett
+2\. skyldighet för den som har förvärvat en uttjänt bil för skrotning att utfärda ett
 bevis om att bilen har mottagits för detta syfte (mottagningsbevis) och se till att
 bilen blir omhändertagen av en auktoriserad bilskrotare,
-3. skyldighet för bilskrotare att lämna uppgifter om återanvändningsgrad,
+3\. skyldighet för bilskrotare att lämna uppgifter om återanvändningsgrad,
 återvinningsgrad eller andra förhållanden som rör de uttjänta bilar som bilskrotaren
 har hanterat,
-4. skyldighet för auktoriserade bilskrotare att utfärda ett intyg om att åtgärder
+4\. skyldighet för auktoriserade bilskrotare att utfärda ett intyg om att åtgärder
 har vidtagits för en hälso- och miljömässigt godtagbar hantering av en uttjänt bil
 (skrotningsintyg), och
-5. utfärdandet av sådana bevis och intyg som avses i 1 och 3.
+5\. utfärdandet av sådana bevis och intyg som avses i 1 och 3.
 Paragrafen innehåller ett bemyndigande att meddela föreskrifter om
 auktorisationskrav för bilskrotare, mottagningsbevis, skrotningsintyg och
 informationsskyldighet för bilskrotare. Bemyndigandet är oförändrat i sak
@@ -15981,9 +15981,9 @@ tillståndsmyndighetens prövning av säkerheten.
 Tredje stycket motsvarar hittillsvarande andra stycket.
 48 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 ytterligare föreskrifter om säkerheter enligt 47 §. Sådana föreskrifter får avse
-1. hur säkerhetens storlek ska beräknas och vad underlaget för beräkningen av
+1\. hur säkerhetens storlek ska beräknas och vad underlaget för beräkningen av
 säkerhetens storlek ska innehålla, och
-2. när och hur en säkerhet får tas i anspråk.
+2\. när och hur en säkerhet får tas i anspråk.
 Regeringen eller den myndighet som regeringen bestämmer får också meddela
 ytterligare föreskrifter om vad som krävs för att en säkerhet ska kunna godtas enligt
 46 § andra stycket.
@@ -16021,27 +16021,27 @@ i sak hittillsvarande 37 a § (prop. 2018/19:64 s. 12).
 
 21 kap.
 1 § Mark- och miljödomstol prövar som första instans mål om
-1. miljöfarlig verksamhet som är ansökningsmål enligt 1 a § första stycket,
-2. vattenverksamhet och vattenanläggningar enligt 11 kap. samt lagen
+1\. miljöfarlig verksamhet som är ansökningsmål enligt 1 a § första stycket,
+2\. vattenverksamhet och vattenanläggningar enligt 11 kap. samt lagen
 (1998:812) med särskilda bestämmelser om vattenverksamhet, utom verksamheter
 som avser markavvattning vilka ska prövas av länsstyrelsen och
 säkerhetsklassificering av dammar,
-3. vattenverksamhet har överlämnats från länsstyrelsen eller anmälts av en
+3\. vattenverksamhet har överlämnats från länsstyrelsen eller anmälts av en
 lantmäterimyndighet, markavvattningar som enligt lagen med särskilda
 bestämmelser om
-4. ersättning för skada och intrång enligt 28 kap. 2–5 §§,
-5. ersättning och inlösen vid ingripande av det allmänna enligt denna balk och
+4\. ersättning för skada och intrång enligt 28 kap. 2–5 §§,
+5\. ersättning och inlösen vid ingripande av det allmänna enligt denna balk och
 vid vattenverksamhet, om inte annat har särskilt föreskrivits,
-6. ersättning för miljöskador och inlösen enligt 32 kap., talan om förbud eller
+6\. ersättning för miljöskador och inlösen enligt 32 kap., talan om förbud eller
 försiktighetsmått enligt 32 kap. 12 § samt grupptalan enligt 32 kap. 13 §,
-7. fördelning av solidariskt ansvar mellan flera enligt 10 kap. 6 och 7 §§ på talan
+7\. fördelning av solidariskt ansvar mellan flera enligt 10 kap. 6 och 7 §§ på talan
 av någon av de solidariskt ansvariga,
-8. utdömande av vite enligt ett föreläggande som har förenats med vite med stöd
+8\. utdömande av vite enligt ett föreläggande som har förenats med vite med stöd
 av balken, efter särskild ansökan av den myndighet som har beslutat
 vitesföreläggandet eller, om vitesföreläggandet har beslutats i förfarandet, med
 tillämpning av 6 § andra stycket lagen (1985:206) om viten,
-9. kostnadsansvar för fastighetsägare enligt 10 kap. 9 §,
-10. fördelning av kostnader för gemensamt utnyttjande av information enligt det
+9\. kostnadsansvar för fastighetsägare enligt 10 kap. 9 §,
+10\. fördelning av kostnader för gemensamt utnyttjande av information enligt det
 som följer av artiklarna 27.6 och 30.3 i Europaparlamentets och rådets förordning
 (EG) nr 1907/2006 av den 18 december 2006 om registrering, utvärdering,
 godkännande och begränsning av kemikalier (Reach), inrättande av en europeisk
@@ -16053,15 +16053,15 @@ förordning (EEG) 793/93 och kommissionens förordning (EG) nr 1488/94 samt
 
 rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
 93/105/EG och 2000/21/EG,
-11. fördelning av kostnader för utbyte av information enligt det som följer av
+11\. fördelning av kostnader för utbyte av information enligt det som följer av
 artikel 62.6 i Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den
 21 oktober 2009 om utsläppande av växtskyddsmedel på marknaden och om
 upphävande av rådets direktiv 79/117/EEG och 91/414/EEG,
-12. fördelning av kostnader för gemensamt utnyttjande av information enligt det
+12\. fördelning av kostnader för gemensamt utnyttjande av information enligt det
 som följer av artikel 63.3 i Europaparlamentets och rådets förordning (EU) nr
 528/2012 av den 22 maj 2012 om tillhandahållande på marknaden och användning
 av biocidprodukter, och
-13. ersättningsansvar enligt 15 kap. 26 § första stycket för godkända
+13\. ersättningsansvar enligt 15 kap. 26 § första stycket för godkända
 producentansvarsorganisationer för förpackningar.
 Mark- och miljödomstol prövar, om inte annat är föreskrivet, efter överklagande
 enligt 19 kap. 1 § tredje stycket, länsstyrelsens och andra statliga myndigheters
@@ -16073,57 +16073,57 @@ handräckning framgår av 26 kap. 17 § andra stycket.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 22 kap.
 1 § En ansökan i ett ansökningsmål ska vara skriftlig. Den ska innehålla
-1. ritningar och tekniska beskrivningar med uppgifter om förhållandena på
+1\. ritningar och tekniska beskrivningar med uppgifter om förhållandena på
 platsen, om produktionsmängd eller liknande, om användningen av råvaror, andra
 insatsvaror och ämnen och om energianvändning,
-2. uppgifter om utsläppskällor, om arten och mängden av alla förutsebara
+2\. uppgifter om utsläppskällor, om arten och mängden av alla förutsebara
 utsläpp och om förslag till de åtgärder som kan behövas dels för att förebygga
 uppkomsten av avfall, dels för att förbereda för återanvändning,
 materialåtervinning och annan återvinning av det avfall som anläggningen ger
 upphov till,
-3. en miljökonsekvensbeskrivning när det krävs enligt 6 kap.,
-4. förslag till skyddsåtgärder eller andra försiktighetsmått samt de övriga
+3\. en miljökonsekvensbeskrivning när det krävs enligt 6 kap.,
+4\. förslag till skyddsåtgärder eller andra försiktighetsmått samt de övriga
 uppgifter som behövs för att bedöma hur de allmänna hänsynsreglerna i 2 kap.
 följs,
-5. förslag till övervakning och kontroll av verksamheten,
-6. det handlingsprogram och den säkerhetsrapport som krävs enligt lagen
+5\. förslag till övervakning och kontroll av verksamheten,
+6\. det handlingsprogram och den säkerhetsrapport som krävs enligt lagen
 (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga
 kemikalieolyckor, om den verksamhet eller åtgärd som målet avser omfattas av
 den lagen,
-7. en statusrapport när det krävs enligt föreskrifter som har meddelats med stöd
+7\. en statusrapport när det krävs enligt föreskrifter som har meddelats med stöd
 av 10 kap. 21 § första stycket 5,
-8. en avfallshanteringsplan för utvinningsavfall när en sådan krävs enligt
+8\. en avfallshanteringsplan för utvinningsavfall när en sådan krävs enligt
 föreskrifter som har meddelats med stöd av 15 kap. 38 §, och
-9. en icke-teknisk sammanfattning av de uppgifter som anges i 1–8.
+9\. en icke-teknisk sammanfattning av de uppgifter som anges i 1–8.
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 1 b § En ansökan om tillstånd till geologisk lagring av koldioxid ska, utöver det
 som anges i 1 §, innehålla
-1. uppgift om vem som driver eller avser att driva lagringsverksamheten,
+1\. uppgift om vem som driver eller avser att driva lagringsverksamheten,
 220
 
 <!-- sida 359 -->
 
-2. en beskrivning av verksamhetsutövarens tekniska kompetens och handlingar
+2\. en beskrivning av verksamhetsutövarens tekniska kompetens och handlingar
 som styrker kompetensen,
-3. en beskrivning av den geologiska formationens egenskaper, lagringsplatsen
+3\. en beskrivning av den geologiska formationens egenskaper, lagringsplatsen
 och det område runt lagringsplatsen som med hänsyn till
 de geologiska förhållandena har betydelse för lagringens integritet och säkerhet,
-4. uppgift om den totala mängd koldioxid som ska lagras,
-5. en beskrivning av varifrån den koldioxid som ska tillföras lagringsplatsen
+4\. uppgift om den totala mängd koldioxid som ska lagras,
+5\. en beskrivning av varifrån den koldioxid som ska tillföras lagringsplatsen
 kommer och hur den ska transporteras till lagringsplatsen,
-6. uppgift om sammansättningen av den koldioxidström som ska tillföras
+6\. uppgift om sammansättningen av den koldioxidström som ska tillföras
 lagringsplatsen (injekteras),
-7. uppgifter om injektionstakt och injektionstryck,
-8. en beskrivning av den anläggning som ska användas för att tillföra koldioxid
+7\. uppgifter om injektionstakt och injektionstryck,
+8\. en beskrivning av den anläggning som ska användas för att tillföra koldioxid
 till lagringsplatsen,
-9. en bedömning av den förväntade lagringssäkerheten,
-10. uppgifter som visar att den säkerhet som krävs enligt 15 kap. 49 § kommer
+9\. en bedömning av den förväntade lagringssäkerheten,
+10\. uppgifter som visar att den säkerhet som krävs enligt 15 kap. 49 § kommer
 att vara giltig och i kraft innan koldioxid tillförs lagringsplatsen,
-11. ett förslag till en plan för övervakning av lagringsplatsen,
-12. ett förslag till en plan för underhåll efter det att lagringsplatsen har stängts
+11\. ett förslag till en plan för övervakning av lagringsplatsen,
+12\. ett förslag till en plan för underhåll efter det att lagringsplatsen har stängts
 för ytterligare tillförsel av koldioxid, och
-13. ett förslag till en plan för åtgärder som behövs för att avhjälpa risker för
+13\. ett förslag till en plan för åtgärder som behövs för att avhjälpa risker för
 koldioxidutsläpp.
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
@@ -16132,9 +16132,9 @@ innehålla en redogörelse för alla tillståndsbestämmelser och villkor som g�
 verksamheten enligt tidigare tillstånd.
 Om ansökan avser ett ändringstillstånd enligt 16 kap. 2 a §, ska ansökan också
 innehålla
-1. de uppgifter som behövs för att bedöma om ett sådant ändringstillstånd är
+1\. de uppgifter som behövs för att bedöma om ett sådant ändringstillstånd är
 lämpligt, och
-2. en avfallshanteringsplan för utvinningsavfall, när en sådan plan krävs enligt
+2\. en avfallshanteringsplan för utvinningsavfall, när en sådan plan krävs enligt
 föreskrifter som har meddelats med stöd av 15 kap. 38 §.
 Om ansökan avser en omprövning enligt 24 kap. 13 a § ska den också innehålla
 en redogörelse för de arbeten som återstår för den tillståndsgivna
@@ -16163,30 +16163,30 @@ fråga om godtagandet hämtas in från Riksgäldskontoret.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 25 d § En dom som omfattar tillstånd till geologisk lagring av koldioxid ska, i
 stället för det som sägs i 25 a och 25 c §§, dessutom alltid innehålla
-1. en beskrivning av den geologiska formationens egenskaper,
-2. villkor om den exakta lokaliseringen och avgränsningen av
+1\. en beskrivning av den geologiska formationens egenskaper,
+2\. villkor om den exakta lokaliseringen och avgränsningen av
 a) lagringsplatsen och det område runt lagringsplatsen som med hänsyn till de
 geologiska förhållandena har betydelse för lagringens integritet och säkerhet, och
 b) den anläggning som ska användas för att tillföra koldioxid till lagringsplatsen,
-3. villkor om lagringsplatsens hydrauliska egenskaper,
-4. villkor om den totala mängd koldioxid som får lagras,
-5. villkor om gränser för reservoartrycket,
-6. en beskrivning av varifrån den koldioxid som ska tillföras lagringsplatsen
+3\. villkor om lagringsplatsens hydrauliska egenskaper,
+4\. villkor om den totala mängd koldioxid som får lagras,
+5\. villkor om gränser för reservoartrycket,
+6\. en beskrivning av varifrån den koldioxid som ska tillföras lagringsplatsen
 kommer och hur den ska transporteras till lagringsplatsen,
-7. villkor om sammansättningen av den koldioxidström som får tillföras
+7\. villkor om sammansättningen av den koldioxidström som får tillföras
 lagringsplatsen (injekteras) och om kontroll av koldioxidströmmen,
-8. villkor om högsta tillåtna injekteringstakt och injekteringstryck,
-9. villkor om övervakning enligt en särskild övervakningsplan och om åtgärder
+8\. villkor om högsta tillåtna injekteringstakt och injekteringstryck,
+9\. villkor om övervakning enligt en särskild övervakningsplan och om åtgärder
 enligt en särskild plan för avhjälpande av risker för koldioxidutsläpp samt om att
 planerna ska följas,
-10. villkor om att verksamhetsutövaren ska förvissa sig om att den som är
+10\. villkor om att verksamhetsutövaren ska förvissa sig om att den som är
 sysselsatt i verksamheten har den kompetens och utbildning som behövs,
-11. villkor om vad som ska gälla i samband med att lagringsplatsen stängs för
+11\. villkor om vad som ska gälla i samband med att lagringsplatsen stängs för
 fortsatt tillförsel av koldioxid och om underhåll efter stängningen enligt en särskild
 plan,
-12. villkor om att den säkerhet som krävs för verksamheten enligt 15 kap. 49 §
+12\. villkor om att den säkerhet som krävs för verksamheten enligt 15 kap. 49 §
 fortlöpande ska vara giltig och i kraft,
-13. upplysningar om
+13\. upplysningar om
 a) de krav på uppdatering av övervakningsplanen som kan följa av föreskrifter
 som har meddelats med stöd av denna balk,
 b) kravet på miljörapport i 26 kap. 20 § och andra föreskrifter med krav på
@@ -16197,14 +16197,14 @@ denna balk, och
 d) de krav på underrättelse till tillsynsmyndigheten i händelse av läckage av
 koldioxid eller betydande störningar som följer av föreskrifter som har meddelats
 med stöd av denna balk, och
-14. skälen för avvikelse från synpunkter som Europeiska kommissionen har
+14\. skälen för avvikelse från synpunkter som Europeiska kommissionen har
 lämnat i samband med regeringens tillåtlighetsprövning.
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 25 h § En dom som omfattar tillstånd att driva verksamhet som omfattas av krav
 på en avfallshanteringsplan för utvinningsavfall ska dessutom alltid innehålla
-1. villkor om det belopp som säkerheten enligt 15 kap. 47 § ska uppgå till,
-2. villkor om att den säkerhet som ska ställas enligt 15 kap. 47 § ska godtas innan
+1\. villkor om det belopp som säkerheten enligt 15 kap. 47 § ska uppgå till,
+2\. villkor om att den säkerhet som ska ställas enligt 15 kap. 47 § ska godtas innan
 den verksamhet som omfattas av krav på en avfallshanteringsplan för
 utvinningsavfall påbörjas och att säkerheten därefter fortlöpande ska vara
 betryggande, och
@@ -16212,7 +16212,7 @@ betryggande, och
 
 <!-- sida 361 -->
 
-3. de villkor som behövs för att minimera verksamhetens påverkan på
+3\. de villkor som behövs för att minimera verksamhetens påverkan på
 omgivningen vid oförutsedda avbrott i verksamheten.
 
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
@@ -16224,32 +16224,32 @@ tillståndsmyndigheten ompröva tillstånd när det gäller en bestämmelse om t
 produktionsmängd eller annan liknande bestämmelse om verksamhetens
 omfattning, samt ändra eller upphäva villkor eller andra bestämmelser eller
 meddela nya sådana
-1. när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den
+1\. när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den
 kortare tid som, på grund av vad som följer av Sveriges medlemskap i Europeiska
 unionen, föreskrivs av regeringen eller den myndighet som regeringen bestämmer,
-2. om verksamheten med någon betydelse medverkar till att en
+2\. om verksamheten med någon betydelse medverkar till att en
 miljökvalitetsnorm inte följs,
-3. om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att
+3\. om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att
 lämna oriktiga uppgifter eller låta bli att lämna uppgifter av betydelse för tillståndet
 eller villkoren,
-4. när tillståndet eller villkor som gäller för verksamheten inte har följts,
-5. om det genom verksamheten uppkommit en olägenhet av någon betydelse
+4\. när tillståndet eller villkor som gäller för verksamheten inte har följts,
+5\. om det genom verksamheten uppkommit en olägenhet av någon betydelse
 som inte förutsågs när verksamheten tilläts,
-6. om förhållandena i omgivningen har ändrats väsentligt,
-7. om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med
+6\. om förhållandena i omgivningen har ändrats väsentligt,
+7\. om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med
 användning av någon ny process- eller reningsteknik,
-8. om användandet av någon ny teknik för mätning eller uppskattning av
+8\. om användandet av någon ny teknik för mätning eller uppskattning av
 förorening eller annan störning skulle medföra väsentligt bättre förutsättningar för
 att kontrollera verksamheten,
-9. om verksamheten helt eller till väsentlig del är förlagd inom ett område där
+9\. om verksamheten helt eller till väsentlig del är förlagd inom ett område där
 förbud råder enligt en föreskrift eller ett beslut som har meddelats med stöd av
 9 kap. 4 §,
-10. för att förbättra en anläggnings säkerhet,
-11. om det visar sig att anordningar som har vidtagits eller villkor som har
+10\. för att förbättra en anläggnings säkerhet,
+11\. om det visar sig att anordningar som har vidtagits eller villkor som har
 meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt 6 kap. 5 § lagen
 (1998:812) med särskilda bestämmelser om vattenverksamhet är mindre
 ändamålsenliga, eller
-12. om det kan antas att en säkerhet som ställts enligt 9 kap. 6 e §, 15 kap. 46,
+12\. om det kan antas att en säkerhet som ställts enligt 9 kap. 6 e §, 15 kap. 46,
 47 eller 49 § eller 16 kap. 3 § inte längre är tillräcklig eller är större än vad som
 behövs.
 I fall som avses i första stycket 5 får tillståndsmyndigheten också besluta om
@@ -16286,14 +16286,14 @@ kommunalt tillsynsansvar för avfallshanteringen enligt 15 kap.
 27 kap.
 Avfallsavgift
 4 § Kommunen får meddela föreskrifter om att avfallsavgift ska betalas för
-1. avfallshantering som kommunen är ansvarig för enligt denna balk eller enligt
+1\. avfallshantering som kommunen är ansvarig för enligt denna balk eller enligt
 föreskrifter som har meddelats med stöd av balken och som utförs av kommunen
 eller den som kommunen anlitar,
-2. åtgärder som kommunen vidtar i syfte att lämna information om
+2\. åtgärder som kommunen vidtar i syfte att lämna information om
 avfallsförebyggande åtgärder och avfallshantering till hushåll och
 verksamhetsutövare som producerar avfall som kommunen ansvarar för enligt
 15 kap. och föreskrifter som har meddelats med stöd av 15 kap., och
-3. åtgärder som kommunen vidtar för att underlätta insamling och sortering av
+3\. åtgärder som kommunen vidtar för att underlätta insamling och sortering av
 återanvändbara produkter från hushåll och verksamhetsutövare som producerar
 avfall som kommunen ansvarar för enligt 15 kap. och föreskrifter som meddelats
 med stöd av 15 kap.
@@ -16369,15 +16369,15 @@ om kontantfri avfallshantering.
 
 <!-- sida 364 -->
 
-1. verksamheten bokförs och redovisas i enlighet med god redovisningssed där
+1\. verksamheten bokförs och redovisas i enlighet med god redovisningssed där
 resultat- och balansräkningar redovisas särskilt och där det av
 tilläggsupplysningar framgår hur kommunen har fördelat kostnader som varit
 gemensamma med annan verksamhet,
-2. det av redovisningen framgår om och hur avgifter tagits ut för att främja
+2\. det av redovisningen framgår om och hur avgifter tagits ut för att främja
 miljöanpassad avfallshantering enligt 5 § första stycket,
-3. det av redovisningen framgår vilken ersättning kommunen har fått från
+3\. det av redovisningen framgår vilken ersättning kommunen har fått från
 producentansvarsorganisationer för förpackningar, och
-4. redovisningen, när den är fastställd, finns tillgänglig för allmänheten.
+4\. redovisningen, när den är fastställd, finns tillgänglig för allmänheten.
 Paragrafen, som är ny, innehåller krav på ekonomisk särredovisning av
 kommunens avfallshantering, hur redovisningen ska göras och vad
 redovisningen behöver innehålla. Övervägandena finns i avsnitt 12.2.
@@ -16410,7 +16410,7 @@ kommunens webbplats.
 29 kap.
 4 § För otillåten miljöverksamhet döms till böter eller fängelse i högst två år den
 som med uppsåt eller av oaktsamhet
-1. påbörjar eller bedriver en verksamhet eller vidtar en åtgärd utan tillstånd eller
+1\. påbörjar eller bedriver en verksamhet eller vidtar en åtgärd utan tillstånd eller
 godkännande eller utan att ha gjort en anmälan, eller efter att ha gjort en anmälan
 påbörjar en verksamhet eller åtgärd utan att följa en föreskriven tidsfrist, allt enligt
 vad som krävs i
@@ -16452,7 +16452,7 @@ n) föreskrifter som regeringen har meddelat med stöd av 15 kap. 22 § om krav
 på tillstånd för yrkesmässig drift av en producentansvarsorganisation för avfall från
 elektriska och elektroniska produkter, eller
 o) bestämmelserna i 17 kap. om regeringens tillåtlighetsprövning, eller
-2. i egenskap av innehavare av det tillstånd eller det beslut om tillåtlighet,
+2\. i egenskap av innehavare av det tillstånd eller det beslut om tillåtlighet,
 godkännande eller dispens som gäller för verksamheten eller åtgärden och som har
 meddelats med stöd av balken, förordning (EG) nr 1907/2006, förordning (EG) nr
 1107/2009 eller förordning (EU) nr 528/2012 bryter mot ett villkor eller en
@@ -16461,11 +16461,11 @@ I fråga om ett villkor eller en bestämmelse om buller (bullervillkor) som har
 angetts i ett sådant tillstånd eller beslut som avses i första stycket 2 ska det
 förhållandet att en bostadsbyggnad är utsatt för omgivningsbuller i strid med
 bullervillkoret inte anses utgöra ett brott mot villkoret, om
-1. byggnaden ingår i ett område med detaljplan eller omfattas av ett bygglov
+1\. byggnaden ingår i ett område med detaljplan eller omfattas av ett bygglov
 enligt plan- och bygglagen (2010:900),
-2. det i planbeskrivningen till planen eller i lovet har angetts beräknade
+2\. det i planbeskrivningen till planen eller i lovet har angetts beräknade
 bullervärden och omgivningsbullret inte överskrider dessa värden, och
-3. beräkningen av bullervärdena har gjorts med hänsyn till intresset att
+3\. beräkningen av bullervärdena har gjorts med hänsyn till intresset att
 förebygga olägenhet för människors hälsa.
 Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för gärningen kan
 dömas ut enligt 1 § eller om gärningen omfattas av en föreskrift som regeringen
@@ -16478,14 +16478,14 @@ som med uppsåt eller av oaktsamhet                227
 
 <!-- sida 366 -->
 
-1. transporterar avfall utan tillstånd och därigenom bryter mot föreskrifter som
+1\. transporterar avfall utan tillstånd och därigenom bryter mot föreskrifter som
 regeringen har meddelat med stöd av 15 kap. 40 § om tillstånd för yrkesmässig
 transport av avfall,
-2. inom Europeiska unionen transporterar avfall utan en skriftlig
+2\. inom Europeiska unionen transporterar avfall utan en skriftlig
 förhandsanmälan och utan ett godkännande och därigenom bryter mot artiklarna 4
 och 9.6 i Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14
 juni 2006 om transport av avfall,
-3. anordnar eller genomför en transport av avfall som är avsedd att gå från
+3\. anordnar eller genomför en transport av avfall som är avsedd att gå från
 Europeiska unionen
 a) till ett land eller territorium utanför Europeiska unionen i strid mot ett
 exportförbud i någon av artiklarna 34, 36, 39, 40.1 och 40.2 i förordning (EG) nr
@@ -16509,35 +16509,35 @@ förordning (EG) nr 1013/2006, eller
 f) till ett land eller territorium utanför Europeiska unionen utan en skriftlig
 förhandsanmälan och ett godkännande som krävs enligt artikel 40.3 jämförd med
 artiklarna 4 och 9.6 i förordning (EG) nr 1013/2006,
-4. anordnar eller genomför en transport av avfall som är avsedd att gå mellan
+4\. anordnar eller genomför en transport av avfall som är avsedd att gå mellan
 länder utanför Europeiska unionen men genom ett land i unionen utan en skriftlig
 förhandsanmälan och ett godkännande som krävs enligt artiklarna 47 och 48
 jämförda med artiklarna 4, 9.6, 42 och 44 i förordning (EG) nr 1013/2006,
-5. till Europeiska unionen importerar avfall för bortskaffande i strid mot
+5\. till Europeiska unionen importerar avfall för bortskaffande i strid mot
 importförbudet i artikel 41 i förordning (EG) nr 1013/2006,
-6. till Europeiska unionen importerar avfall för bortskaffande utan att ha ett
+6\. till Europeiska unionen importerar avfall för bortskaffande utan att ha ett
 skriftligt godkännande och därigenom bryter mot artikel 42.4 a i förordning (EG)
 nr 1013/2006,
-7. till Europeiska unionen importerar avfall för återvinning i strid mot
+7\. till Europeiska unionen importerar avfall för återvinning i strid mot
 importförbudet i artikel 43 i förordning (EG) nr 1013/2006,
-8. till Europeiska unionen importerar avfall för återvinning utan att ha ett
+8\. till Europeiska unionen importerar avfall för återvinning utan att ha ett
 godkännande och därigenom bryter mot artikel 44.4 a eller 45 jämförd med artikel
 42.4 a i förordning (EG) nr 1013/2006,
-9. till Europeiska unionen importerar avfall från ett sådant utomeuropeiskt land
+9\. till Europeiska unionen importerar avfall från ett sådant utomeuropeiskt land
 eller territorium som avses i artikel 46 i förordning (EG) nr 1013/2006 utan en
 skriftlig förhandsanmälan och utan ett godkännande och därigenom bryter mot
 artikel 46.1 jämförd med artiklarna 4 och 9.6, eller
-10. blandar avfall under transport i strid med artikel 19 i förordning (EG) nr
+10\. blandar avfall under transport i strid med artikel 19 i förordning (EG) nr
 1013/2006.
 Till ansvar enligt första stycket 2, 3 b-d och 3 f, 4, 6, 8 och 9 döms också om det
 för transporten av avfall finns
-1. en skriftlig förhandsanmälan som innehåller en oriktig uppgift av betydelse
+1\. en skriftlig förhandsanmälan som innehåller en oriktig uppgift av betydelse
 från miljö- eller hälsoskyddssynpunkt, eller
 228
 
 <!-- sida 367 -->
 
-2. ett godkännande som föranletts av att någon lämnat en oriktig uppgift som
+2\. ett godkännande som föranletts av att någon lämnat en oriktig uppgift som
 från miljö- eller hälsoskyddssynpunkt har haft betydelse för godkännandet.
 Om brottet är grovt, döms för grov otillåten avfallstransport till fängelse i lägst
 sex månader och högst sex år. Vid bedömningen av om brottet är grovt ska det
@@ -16550,36 +16550,36 @@ dömas ut enligt 1 §.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 8 § Till böter eller fängelse i högst två år döms den som med uppsåt eller av
 oaktsamhet
-1. bryter mot en föreskrift för totalförsvaret som har meddelats med stöd av
+1\. bryter mot en föreskrift för totalförsvaret som har meddelats med stöd av
 1 kap. 5 §, om en överträdelse av den lagbestämmelse från vilken avvikelsen har
 föreskrivits är straffbelagd,
-2. bryter mot en föreskrift om försiktighetsmått inom ett miljöskyddsområde,
+2\. bryter mot en föreskrift om försiktighetsmått inom ett miljöskyddsområde,
 som regeringen har meddelat med stöd av 7 kap. 20 §,
-3. bryter mot en föreskrift eller ett beslut om förbud mot utsläpp av
+3\. bryter mot en föreskrift eller ett beslut om förbud mot utsläpp av
 avloppsvatten m.m. som regeringen har meddelat med stöd av 9 kap. 4 §,
-4. bryter mot en föreskrift om försiktighetsmått vid miljöfarlig verksamhet som
+4\. bryter mot en föreskrift om försiktighetsmått vid miljöfarlig verksamhet som
 regeringen har meddelat med stöd av 9 kap. 5 §,
-5. i ett miljöriskområde som avses i 10 kap. 17 § vidtar en åtgärd som ökar
+5\. i ett miljöriskområde som avses i 10 kap. 17 § vidtar en åtgärd som ökar
 belastningen av föroreningar i eller omkring området, annars försämrar den
 miljömässiga situationen eller försvårar avhjälpandeåtgärder,
-6. bryter mot den skyldighet att underhålla en vattenanläggning som följer av
+6\. bryter mot den skyldighet att underhålla en vattenanläggning som följer av
 11 kap. 17 § första stycket, 20 § första stycket eller 21 § första stycket,
-7. bryter mot ett förbud till skydd för naturmiljön enligt 12 kap. 6 § fjärde
+7\. bryter mot ett förbud till skydd för naturmiljön enligt 12 kap. 6 § fjärde
 stycket,
-8. bryter mot bestämmelsen i 13 kap. 8 § om utredning innan en genteknisk
+8\. bryter mot bestämmelsen i 13 kap. 8 § om utredning innan en genteknisk
 verksamhet påbörjas eller mot en föreskrift om utredningen som regeringen har
 meddelat med stöd av 13 kap. 9 §,
-9. bryter mot en föreskrift om försiktighetsmått vid genteknisk verksamhet som
+9\. bryter mot en föreskrift om försiktighetsmått vid genteknisk verksamhet som
 regeringen har meddelat med stöd av 13 kap. 11 §,
-10. bryter mot skyldigheten att upprätta en kemikaliesäkerhetsrapport enligt vad
+10\. bryter mot skyldigheten att upprätta en kemikaliesäkerhetsrapport enligt vad
 som krävs i artiklarna 37.4 och 39.1 i förordning (EG) nr 1907/2006,
-11. bryter mot skyldigheten att förse Europeiska kemikaliemyndigheten med
+11\. bryter mot skyldigheten att förse Europeiska kemikaliemyndigheten med
 information enligt vad som krävs i artiklarna 38, 39.2 och 66.1 i förordning (EG)
 nr 1907/2006,
-12. bryter mot förbudet mot dumpning eller förbränning av avfall i 15 kap. 30 §,
-13. bryter mot ett förbud mot fiske som i det enskilda fallet har beslutats med
+12\. bryter mot förbudet mot dumpning eller förbränning av avfall i 15 kap. 30 §,
+13\. bryter mot ett förbud mot fiske som i det enskilda fallet har beslutats med
 stöd av 28 kap. 13 §, eller
-14. bryter mot artikel 4 i Europaparlamentets och rådets förordning (EU) nr
+14\. bryter mot artikel 4 i Europaparlamentets och rådets förordning (EU) nr
 511/2014 av den 16 april 2014 om åtgärder för användarnas efterlevnad i
 Nagoyaprotokollet om tillträde till och rimlig och rättvis fördelning av vinster från
 utnyttjande av genetiska resurser i unionen genom att inte följa ömsesidigt
@@ -16598,64 +16598,64 @@ dömas ut enligt 1 § eller 9 § första stycket 5.   229
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 
 9 § Till böter döms den som med uppsåt eller av oaktsamhet
-1. bryter mot bestämmelsen i artikel 6.3 i förordning (EG) nr 338/97 om
+1\. bryter mot bestämmelsen i artikel 6.3 i förordning (EG) nr 338/97 om
 skyldighet att i en ansökan lämna uppgift om tidigare beslut om avslag,
-2. bryter mot en föreskrift eller ett beslut i ett enskilt fall om tomgångskörning
+2\. bryter mot en föreskrift eller ett beslut i ett enskilt fall om tomgångskörning
 eller gatumusik som regeringen eller, efter regeringens bemyndigande, en
 myndighet har meddelat med stöd av 9 kap. 12 §,
-3. bryter mot en föreskrift om skötsel av jordbruksmark som regeringen eller,
+3\. bryter mot en föreskrift om skötsel av jordbruksmark som regeringen eller,
 efter regeringens bemyndigande, en myndighet har meddelat med stöd av 12 kap.
 8 §,
-4. bryter mot en föreskrift om hantering av gödsel som regeringen eller, efter
+4\. bryter mot en föreskrift om hantering av gödsel som regeringen eller, efter
 regeringens bemyndigande, en myndighet har meddelat med stöd av 12 kap. 10 §,
-5. vid en sådan odling av genetiskt modifierade organismer som omfattas av ett
+5\. vid en sådan odling av genetiskt modifierade organismer som omfattas av ett
 tillstånd enligt 13 kap. 12 § bryter mot en föreskrift om försiktighetsmått som
 regeringen eller, efter regeringens bemyndigande, en myndighet har meddelat med
 stöd av 13 kap. 11 §,
-6. bryter mot en föreskrift om märkning av genetiskt modifierade organismer
+6\. bryter mot en föreskrift om märkning av genetiskt modifierade organismer
 som regeringen eller, efter regeringens bemyndigande, en myndighet har meddelat
 med stöd av 13 kap. 18 §,
-7. bryter mot en bestämmelse om spårbarhet eller märkning enligt artikel 4.1,
+7\. bryter mot en bestämmelse om spårbarhet eller märkning enligt artikel 4.1,
 4.2, 4.3, 4.4, 4.6, 5.1 eller 5.2 i Europaparlamentets och rådets förordning (EG) nr
 1830/2003 av den 22 september 2003 om spårbarhet och märkning av genetiskt
 modifierade organismer och spårbarhet av livsmedel och foderprodukter som är
 framställda av genetiskt modifierade organismer och om ändring av direktiv
 2001/18/EG,
-8. bryter mot en bestämmelse om information, identifiering, dokumentation eller
+8\. bryter mot en bestämmelse om information, identifiering, dokumentation eller
 anmälan enligt artikel 6, 12 eller 13 i Europaparlamentets och rådets förordning
 (EG) nr 1946/2003 av den 15 juli 2003 om gränsöverskridande förflyttning av
 genetiskt modifierade organismer,
-9. på marknaden släpper ut en kosmetisk produkt som inte uppfyller kraven om
+9\. på marknaden släpper ut en kosmetisk produkt som inte uppfyller kraven om
 märkning enligt artikel 19.1 eller 19.2 i förordning (EG) nr 1223/2009, eller på
 marknaden tillhandahåller en kosmetisk produkt som inte uppfyller kraven om
 märkning enligt artikel 19.1 a, e eller g i samma förordning,
-10. bryter mot skyldigheten att lämna information enligt artikel 9 i förordning
+10\. bryter mot skyldigheten att lämna information enligt artikel 9 i förordning
 (EG) nr 648/2004,
-11. bryter mot en bestämmelse om information eller dokumentation enligt
+11\. bryter mot en bestämmelse om information eller dokumentation enligt
 artikel 32, 34 eller 36 i förordning (EG) nr 1907/2006,
-12. i fråga om ett växtskyddsmedel som är godkänt i ett annat land i Europeiska
+12\. i fråga om ett växtskyddsmedel som är godkänt i ett annat land i Europeiska
 unionen men som inte är godkänt i Sverige bryter mot artikel 52 i förordning (EG)
 nr 1107/2009 genom att föra in medlet till Sverige, släppa ut det på marknaden
 eller använda det utan att medlet omfattas av ett sådant parallellhandelstillstånd
 som krävs enligt artikeln,
-13. i fråga om en biocidprodukt som är godkänd i ett annat land i Europeiska
+13\. i fråga om en biocidprodukt som är godkänd i ett annat land i Europeiska
 unionen men som inte är godkänd i Sverige tillhandahåller produkten eller
 använder den utan att produkten omfattas av ett sådant parallellhandelstillstånd
 som avses i artikel 53 i förordning (EU) nr 528/2012,
-14. bryter mot 15 kap. 14 § första stycket eller en föreskrift som regeringen har
+14\. bryter mot 15 kap. 14 § första stycket eller en föreskrift som regeringen har
 meddelat med stöd av 15 kap. 36 § genom att yrkesmässigt eller annars i stor
 omfattning transportera avfall,
-15. bryter mot en föreskrift som regeringen har meddelat med stöd av 15 kap.
+15\. bryter mot en föreskrift som regeringen har meddelat med stöd av 15 kap.
 41 § genom att lämna avfall till någon som inte har gjort de anmälningar eller har
 de tillstånd som krävs för avfallshanteringen,
 230
 
 <!-- sida 369 -->
 
-16. i egenskap av fartygsägare lämnar oriktig eller vilseledande information om
+16\. i egenskap av fartygsägare lämnar oriktig eller vilseledande information om
 sitt fartyg som underlag till den återvinningsplan som den driftsansvariga ska ta
 fram för fartyget enligt artikel 7 i förordning (EU) nr 1257/2013, eller
-17. i egenskap av driftsansvarig på en sådan fartygsåtervinnings-anläggning som
+17\. i egenskap av driftsansvarig på en sådan fartygsåtervinnings-anläggning som
 avses i förordning (EU) nr 1257/2013 återvinner ett fartyg på ett sätt som inte
 överensstämmer med den återvinningsplan som har tagits fram för fartyget enligt
 artikel 7 i förordningen.
@@ -16665,8 +16665,8 @@ dömas ut enligt 1 §.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 
 Ikraftträdande- och övergångsbestämmelser
-1. Denna lag träder i kraft den 1 januari 2026.
-2. Äldre föreskrifter gäller fortfarande för mål och ärenden som har inletts före
+1\. Denna lag träder i kraft den 1 januari 2026.
+2\. Äldre föreskrifter gäller fortfarande för mål och ärenden som har inletts före
 ikraftträdandet.
 Enligt punkt 1 träder lagen i kraft den 1 januari 2026.
 Enligt punkt 2 ska äldre bestämmelser fortfarande gälla vid
@@ -16716,13 +16716,13 @@ avsnitt 15.
 om Sveriges ekonomiska zon
 
 3 § Till skydd för den marina miljön finns det också bestämmelser om
-1. geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,
-2. särskilda skyddade naturområden i 7 kap. 27–30 och 32 §§ miljöbalken,
-3. allvarliga miljöskador i 10 kap. 18 a § miljöbalken,
-4. dumpning i 15 kap. 30–32 §§ miljöbalken,
-5. föroreningar från fartyg i lagen (1980:424) om åtgärder mot förorening från
+1\. geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,
+2\. särskilda skyddade naturområden i 7 kap. 27–30 och 32 §§ miljöbalken,
+3\. allvarliga miljöskador i 10 kap. 18 a § miljöbalken,
+4\. dumpning i 15 kap. 30–32 §§ miljöbalken,
+5\. föroreningar från fartyg i lagen (1980:424) om åtgärder mot förorening från
 fartyg, och
-6. hantering och kontroll av fartygs barlastvatten och sediment från sådant vatten
+6\. hantering och kontroll av fartygs barlastvatten och sediment från sådant vatten
 i barlastvattenlagen (2009:1165).
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
@@ -16757,9 +16757,9 @@ miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
 3 § Den som bedriver eller har bedrivit en verksamhet med joniserande strålning
 ska se till att det radioaktiva avfall som uppkommit i eller tillförts verksamheten
 så snart som det är möjligt och rimligt
-1. hanteras och vid behov slutförvaras på ett från strålskyddssynpunkt
+1\. hanteras och vid behov slutförvaras på ett från strålskyddssynpunkt
 godtagbart sätt, eller
-2. överlämnas till en producent som enligt föreskrifter som har meddelats med
+2\. överlämnas till en producent som enligt föreskrifter som har meddelats med
 stöd av 15 kap. 20 § miljöbalken är skyldig att ta hand om avfallet.
 Ändringen innebär att hänvisningar till det hittillsvarande 15 kap.
 miljöbalken ersätts av hänvisningar till det nya 15 kap. miljöbalken.
@@ -16883,7 +16883,7 @@ materialåtervinning av kommunalt avfall ska öka på remiss. Svar på remissen 
 till minst 55 viktprocent till 2025, minst 60 Regeringskansliet senast den 14 februari 2025.
 viktprocent till 2030 och minst 65 viktprocent till
 Anmälan: Anmäl deltagande senast den 6
-2035.
+2035\.
 december till kn.cks@regeringskansliet.se. Det
 Den 8 juni 2023 beslutade EU-kommissionen att finns begränsat antal platser, varför endast en
 utfärda en varning till Sverige för att det finns risk deltagare per remissinstans kan delta.
@@ -16998,11 +16998,11 @@ Innehåll
 
 SAMMANFATTNING                                    4
 
-1.  FÖRFATTNINGSFÖRSLAG                           8
+1\.  FÖRFATTNINGSFÖRSLAG                           8
 1.1 Ändringar med anledning av EU-förordningar    8
 1.2 Författningsförslag enligt Regeringskansliets promemoria 29
 
-2.  INLEDNING                                    39
+2\.  INLEDNING                                    39
 2.1 Uppdraget                                    39
 
 2.2 Utgångspunkter och avgränsningar             39
@@ -17010,18 +17010,18 @@ SAMMANFATTNING                                    4
 2.4 Genomförande                                 41
 2.5 Dialog med aktörer                           41
 
-3.  BAKGRUND                                     43
+3\.  BAKGRUND                                     43
 3.1 ODS och f-gaser i Sverige                    43
 
 3.2 De nya EU-förordningarna                     47
-4.  FÖRSLAG TILL ÄNDRINGAR AV MILJÖBALKEN        53
+4\.  FÖRSLAG TILL ÄNDRINGAR AV MILJÖBALKEN        53
 
 4.1 Tillsyn enligt 26 kap. miljöbalken           53
 4.2 Straffbestämmelser och förverkande i 29 kap. miljöbalken 54
 4.3 Ändrade hänvisningar i 29 kap. 3 § miljöbalken 60
 4.4 Miljösanktionsavgifter enligt 30 kap. miljöbalken 62
 
-5.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UNDER
+5\.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UNDER
 MILJÖBALKEN                                  64
 5.1 Förordningen om fluorerade växthusgaser      64
 5.2 Förordningen om ozonnedbrytande ämnen        72
@@ -17035,11 +17035,11 @@ miljöbalken                                  90
 5.7 Förordningen om verksamhetsutövares egenkontroll 95
 5.8 Avfallsförordningen                          95
 
-6.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UTANFÖR
+6\.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UTANFÖR
 MILJÖBALKEN                                 100
 6.1 Förordning om skydd för personer som rapporterar om
 missförhållanden                            100
-7.  REGELFÖRENKLANDE FÖRSLAG                    102
+7\.  REGELFÖRENKLANDE FÖRSLAG                    102
 
 7.1 Urval av och motivering till fortsatt relevanta författningsförslag 102
 
@@ -17051,13 +17051,13 @@ NATURVÅRDSVERKET
 
 7.2 Föreslagna författningsändringar utifrån Regeringskansliets
 promemoria                                  103
-8.  KOMPLETTERANDE ÅTGÄRDER                     106
+8\.  KOMPLETTERANDE ÅTGÄRDER                     106
 
 8.1 Ett nationellt rapporteringssystem för f-gaser bör införlivas i det
 kommande systemet för företagens miljörapportering 106
 8.2 Det behöver utredas om byggbestämmelserna kan stärkas
 rörande f-gaser och ODS i skumplast         107
-9.  YTTERLIGARE, MÖJLIGA ÅTGÄRDER SOM KAN SNABBA PÅ
+9\.  YTTERLIGARE, MÖJLIGA ÅTGÄRDER SOM KAN SNABBA PÅ
 UTFASNINGEN AV F-GASER I SVERIGE            109
 
 9.1 Behov av stöd för att öka antalet certifierade tekniker 109
@@ -17067,7 +17067,7 @@ UTFASNINGEN AV F-GASER I SVERIGE            109
 9.4 Skapa incitament för att öka insamlingen av f-gas och ODS i
 avfallsleden                                112
 
-10. KONSEKVENSUTREDNING                         114
+10\. KONSEKVENSUTREDNING                         114
 10.1 Problem och eftersträvad förändring        114
 10.2 Referensalternativ – om inga åtgärder vidtas 114
 
@@ -17088,7 +17088,7 @@ begränsningar än nödvändigt                 122
 10.13 Behov av informationsinsatser             123
 10.14 Utvärdering                               123
 
-11. KÄLLFÖRTECKNING                             124
+11\. KÄLLFÖRTECKNING                             124
 
 BILAGA 1                                        126
 
@@ -17293,7 +17293,7 @@ uppdraget. Åtgärderna som kan snabba på utfasningen av f-gaser är:
 
 NATURVÅRDSVERKET
 
-1.     Författningsförslag
+1\.     Författningsförslag
 
 1.1    Ändringar   med   anledning   av EU-
 
@@ -17318,19 +17318,19 @@ Tillsynen ska säkerställa syftet med denna balk och föreskrifter som har medd
 av balken.
 Med tillsyn avses att tillsynsmyndigheten ska
 
-1. på eget initiativ eller efter anmälan i nödvändig utsträckning kontrollera att miljöbalken
+1\. på eget initiativ eller efter anmälan i nödvändig utsträckning kontrollera att miljöbalken
 samt föreskrifter, domar och andra beslut som har meddelats med stöd av balken följs samt
 vidta de åtgärder som behövs för att åstadkomma rättelse,
-2. underlätta för en enskild att fullgöra sina 2. underlätta för en enskild att fullgöra sina
+2\. underlätta för en enskild att fullgöra sina 2. underlätta för en enskild att fullgöra sina
 skyldigheter enligt de handlingsregler som skyldigheter enligt de handlingsregler som
 avses i 1 genom information och liknande avses i 1 genom information och liknande
 verksamhet, och           verksamhet,
-3. fortlöpande bedöma om villkor för 3. fortlöpande bedöma om villkor för
+3\. fortlöpande bedöma om villkor för 3. fortlöpande bedöma om villkor för
 miljöfarlig verksamhet eller miljöfarlig verksamhet eller
 vattenverksamhet som omfattas av tillstånd vattenverksamhet som omfattas av tillstånd
 är tillräckliga.          är tillräckliga, och
 
-4. besluta om miljösanktionsavgift och bestämma
+4\. besluta om miljösanktionsavgift och bestämma
 avgiftens storlek i de fall det behövs till följd av att
 beloppet inte bestämts i föreskrifter samt upprätta
 anmälan om överträdelse enligt 2 §.
@@ -17360,33 +17360,33 @@ förordningar inom balkens tillämpningsområde att
 lämna de uppgifter som behövs för att
 tillsynsmyndigheten ska kunna bestämma storleken
 på
-1. miljösanktionsavgifter enligt 30 kap. 1 § andra
+1\. miljösanktionsavgifter enligt 30 kap. 1 § andra
 stycket 2, och
-2. vite.
+2\. vite.
 
 29 kap.
 3 §
-6. i fråga om åtgärder för att hindra eller 6. i fråga om åtgärder för att hindra eller
+6\. i fråga om åtgärder för att hindra eller 6. i fråga om åtgärder för att hindra eller
 åtgärda läckage av fluorerade växthusgaser åtgärda läckage av fluorerade växthusgaser
 bryter mot bestämmelserna i artikel 3.2 eller bryter mot bestämmelserna i artikel 4.1, 4.2,
 3.3 första stycket i Europaparlamentets och 4.3 eller 4.5 första stycket i Europaparlamentets
 rådets förordning (EU) nr 517/2014 av den 16 och rådets förordning (EU) 2024/573 av den
 april 2014 om fluorerade växthusgaser, 7 februari 2024 om fluorerade växthusgaser,
-7. i fråga om att återvinning av fluorerade 7. i fråga om att återvinning av fluorerade
+7\. i fråga om att återvinning av fluorerade 7. i fråga om att återvinning av fluorerade
 växthusgaser ska utföras av certifierad växthusgaser ska utföras av certifierad
 personal eller personal med lämplig personal eller personal med lämplig
 utbildning bryter mot en bestämmelse i artikel utbildning bryter mot en bestämmelse i artikel
 8.1 eller 8.3 i förordning (EU) nr 517/2014, 8.1, 8.2, 8.3, 8.4 eller 8.10 i förordning (EU)
 2024/573,
 
-8. släpper ut en fluorerad växthusgas på 8. bryter mot ett förbud eller en begränsning för att
+8\. släpper ut en fluorerad växthusgas på 8. bryter mot ett förbud eller en begränsning för att
 marknaden eller använder en sådan gas och använda, importera, exportera eller på marknaden
 därigenom bryter mot ett förbud i artikel 11.1 släppa ut en fluorerad växthusgas, en produkt eller
 eller 13 i förordning (EU) nr 517/2014, en utrustning enligt artikel 11.1 första stycket, 13.1,
 13.2, 13.3, 13.4, 13.5, 13.7, 13.9, 13.11, 13.12,
 13.18, 13.19, 13.20, 22.1 eller 22.3 i förordning
 (EU) 2024/573,
-12. bryter mot ett förbud eller en 12. bryter mot ett förbud eller en
+12\. bryter mot ett förbud eller en 12. bryter mot ett förbud eller en
 begränsning för att producera, använda, begränsning för att producera, använda,
 importera, exportera eller på marknaden importera, exportera, återexportera, på
 släppa ut ett ämne, en produkt eller en marknaden släppa ut eller annars tillhandahålla
@@ -17402,17 +17402,17 @@ ozonskiktet,              ämnen som bryter ned ozonskiktet,
 
 NATURVÅRDSVERKET
 
-13. i fråga om åtgärder för återvinning och 13. i fråga om åtgärder för återvinning och
+13\. i fråga om åtgärder för återvinning och 13. i fråga om åtgärder för återvinning och
 destruktion av ozonnedbrytande ämnen destruktion av ozonnedbrytande ämnen
 bryter mot artikel 22.1, 22.2 eller 22.4 i bryter mot artikel 20.1, 20.5 eller 20.6 i
 förordning (EG) nr 1005/2009, förordning (EU) 2024/590,
-14. i fråga om åtgärder för att hindra eller 14. i fråga om åtgärder för att hindra eller
+14\. i fråga om åtgärder för att hindra eller 14. i fråga om åtgärder för att hindra eller
 minska läckage av ozonnedbrytande ämnen minska läckage av ozonnedbrytande ämnen
 bryter mot artikel 23.1, 23.5 eller 23.6 i bryter mot artikel 21.2 i förordning (EU)
 förordning (EG) nr 1005/2009, 2024/590,
 6 §
 
-4. i fråga om produkter och utrustning som 4. i fråga om produkter och utrustning som
+4\. i fråga om produkter och utrustning som 4. i fråga om produkter och utrustning som
 innehåller fluorerade växthusgaser bryter innehåller fluorerade växthusgaser bryter
 mot förordning (EU) nr 517/2014 genom att mot förordning (EU) 2024/573 genom att inte
 inte märka produkter och utrustning enligt märka produkter och utrustning enligt vad
@@ -17420,7 +17420,7 @@ vad som krävs i förordningens artikel 12, som krävs i förordningens artikel 
 12 §
 Egendom får förklaras förverkad, om det inte är uppenbart oskäligt och egendomen
 
-1. har varit föremål för brott enligt 1, 2, 2 b, 2 c, 3, 4, 4 a, 4 b, 5, 6 eller 8 § och är
+1\. har varit föremål för brott enligt 1, 2, 2 b, 2 c, 3, 4, 4 a, 4 b, 5, 6 eller 8 § och är
 a. ett djur, en växt eller en annan organism eller en produkt som utvunnits av ett djur eller
 en växt,
 b. en sådan genetisk resurs som avses i förordning (EU) nr 511/2014,
@@ -17458,19 +17458,19 @@ Miljösanktionsavgifter
 Regeringen får meddela föreskrifter om att en särskild avgift (miljösanktionsavgift) ska betalas
 av den som
 
-1. påbörjar en verksamhet som är tillståndspliktig eller anmälningspliktig enligt denna
+1\. påbörjar en verksamhet som är tillståndspliktig eller anmälningspliktig enligt denna
 balk eller enligt föreskrifter som har meddelats med stöd av balken, utan att tillstånd
 har getts eller anmälan har gjorts,
 
-2. åsidosätter villkor eller andra bestämmelser i ett tillstånd som har beslutats med stöd
+2\. åsidosätter villkor eller andra bestämmelser i ett tillstånd som har beslutats med stöd
 av denna balk eller med stöd av föreskrifter som har meddelats med stöd av balken,
 eller
-3. åsidosätter andra bestämmelser i denna balk, föreskrifter som har meddelats med stöd
+3\. åsidosätter andra bestämmelser i denna balk, föreskrifter som har meddelats med stöd
 av balken eller bestämmelser i EU-förordningar inom balkens tillämpningsområde.
 
 Avgiftens storlek ska framgå av föreskrifterna. Avgiftens storlek ska antingen
 Avgiften ska uppgå till minst 1 000 kronor och högst
-1. framgå av föreskrifterna och uppgå till minst
+1\. framgå av föreskrifterna och uppgå till minst
 1 000 000 kronor. När avgiftens storlek bestäms,
 1 000 kr och högst 1 000 000 kronor, eller
 ska hänsyn tas till överträdelsens allvar och betydelsen
@@ -17500,7 +17500,7 @@ Det är förbjudet för yrkesmässiga verksamheter som renoverar
 och river fastigheter att utan anmälan till tillsynsmyndigheten
 påbörja en renovering eller rivning av fastigheter som
 innefattar avlägsnande av
-1. skumpaneler som innehåller skumplast med sådana
+1\. skumpaneler som innehåller skumplast med sådana
 fluorerade växthusgaser som förtecknats i bilaga 1 och avsnitt
 1 till bilaga 2 till Europaparlamentets och Rådets förordning
 (EU) 2024/573 om fluorerade växthusgaser,
@@ -17508,30 +17508,30 @@ Europaparlamentets och rådets förordning (EU) 2024/573
 av den 7 februari 2024 om fluorerade växthusgaser, om
 ändring av direktiv (EU) 2019/1937 och om upphävande
 av förordning (EU) nr 517/2014,
-2. skumplast i laminerade skivor som installerats i hålrum
+2\. skumplast i laminerade skivor som installerats i hålrum
 eller uppbyggda strukturer som innehåller fluorerade
 växthusgaser som förtecknats i bilaga 1 och avsnitt 1 till
 bilaga 2 i (EU) 2024/573 om fluorerade växthusgaser,
-3. skumpaneler som innehåller skumplast med
+3\. skumpaneler som innehåller skumplast med
 ozonnedbrytande ämnen som förtecknats i bilaga 1 till
 Europaparlamentets och Rådets förordning (EU)
 2024/590 om ämnen som bryter ner ozonskiktet, eller
-4. skumplast i laminerade skivor som installerats i hålrum
+4\. skumplast i laminerade skivor som installerats i hålrum
 eller uppbyggda strukturer som innehåller ozonnedbrytande
 som förtecknats i bilaga 1 till (EU) 2024/590 om ämnen
 som bryter ner ozonskiktet.
 En anmälan ska innehålla uppgifter om
 
-1. en bedömning av huruvida det avfall som uppkommer
+1\. en bedömning av huruvida det avfall som uppkommer
 är farligt avfall,
-2. avfallskod
-3. mängd avfall,
-4. hur materialet avses att transporteras och i övrigt
+2\. avfallskod
+3\. mängd avfall,
+4\. hur materialet avses att transporteras och i övrigt
 hanteras i kedjan för att säkerställa att gaserna inte
 i något led avges före slutlig destruktion av gaserna,
 
 och
-5. uppgift om vilken behörig återvinningsanläggning som
+5\. uppgift om vilken behörig återvinningsanläggning som
 materialet avses att överlämnas till för slutlig
 destruktion av gaserna.
 
@@ -17552,23 +17552,23 @@ Nuvarande lydelse        Föreslagen lydelse
 1 a §
 Bestämmelserna i 26 kap. 19 § miljöbalken ska tillämpas i fråga om
 
-1. Europaparlamentets och rådets förordning (EG) nr 850/2004 av den 29 april 2004 om
+1\. Europaparlamentets och rådets förordning (EG) nr 850/2004 av den 29 april 2004 om
 långlivade organiska föroreningar och om ändring av direktiv 79/117/EEG
-2. Europaparlamentets och rådets 2. Europaparlamentets och rådets
+2\. Europaparlamentets och rådets 2. Europaparlamentets och rådets
 förordning (EU) nr 517/2014 av den 16 april förordning (EU) 2024/573 av den 7 februari
 2014 om fluorerade växthusgaser och om 2024 om fluorerade växthusgaser, om ändring av
 upphävande av förordning (EG) nr 842/2006, direktiv (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
-3. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december
+3\. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december
 2006 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach),
 inrättande av en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och
 upphävande av rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr
 1488/94 samt rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG,
 93/67/EEG, 93/105/EG/ 105/EG och 2000/21/EG,
 
-4. Europaparlamentets och rådets förordning (EG) nr 689/2008 av den 17 juni 2008 om
+4\. Europaparlamentets och rådets förordning (EG) nr 689/2008 av den 17 juni 2008 om
 export och import av farliga kemikalier, och
-5. Europaparlamentets och rådets 5. Europaparlamentets och rådets
+5\. Europaparlamentets och rådets 5. Europaparlamentets och rådets
 förordning (EG) nr 1005/2009 av den 16 förordning (EU) 2024/590 av den 7 februari
 september 2009 om ämnen som bryter ned 2024 om ämnen som bryter ned ozonskiktet
 ozonskiktet.             och om upphävande av förordning (EG) nr
@@ -17612,34 +17612,34 @@ Nuvarande lydelse        Föreslagen lydelse
 
 I 20–35 §§ fördelas ansvaret för tillsynen enligt miljöbalken, kontrollen enligt förordning (EU)
 2017/625 och kontrollen enligt förordning (EU) 2019/1020 i fråga om
-1. miljöfarliga verksamheter enligt 9 kap. miljöbalken,
+1\. miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
-2. föroreningsskador och miljöskador enligt 10 kap. miljöbalken,
-3. vattenverksamheter enligt 11 kap. miljöbalken,
-4. jordbruk och andra verksamheter enligt 12 kap. 10 § miljöbalken,
-5. kemiska produkter, biotekniska organismer och varor enligt 14 kap. miljöbalken samt
+2\. föroreningsskador och miljöskador enligt 10 kap. miljöbalken,
+3\. vattenverksamheter enligt 11 kap. miljöbalken,
+4\. jordbruk och andra verksamheter enligt 12 kap. 10 § miljöbalken,
+5\. kemiska produkter, biotekniska organismer och varor enligt 14 kap. miljöbalken samt
 utrustning avsedd för hantering av växtskyddsmedel,
-6. avfall och avfallsförebyggande åtgärder enligt 15 kap. miljöbalken,
-7. Europaparlamentets och rådets förordning (EG) nr 648/2004 av den 31 mars 2004 om
+6\. avfall och avfallsförebyggande åtgärder enligt 15 kap. miljöbalken,
+7\. Europaparlamentets och rådets förordning (EG) nr 648/2004 av den 31 mars 2004 om
 tvätt- och rengöringsmedel,
-8. Europaparlamentets och rådets förordning (EU) 2019/1021 av den 20 juni 2019 om
+8\. Europaparlamentets och rådets förordning (EU) 2019/1021 av den 20 juni 2019 om
 
 långlivade organiska föroreningar,
-9. Europaparlamentets och rådets 9. Europaparlamentets och rådets
+9\. Europaparlamentets och rådets 9. Europaparlamentets och rådets
 förordning (EU) nr 517/2014 av den 16 april förordning (EU) 2024/573 av den 7 februari
 2014 om fluorerade växthusgaser och om upphävande 2024 om fluorerade växthusgaser, om ändring av
 av förordning (EG) nr 842/2006, direktiv (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
 
-10. Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om
+10\. Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om
 transport av avfall,
-11. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december 2006
+11\. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december 2006
 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach), inrättande
 av en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och upphävande av
 rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr 1488/94 samt
 rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
 93/105/EG och 2000/21/EG,
-12. Europaparlamentets och rådets förordning (EG) nr 1272/2008 av den 16 december 2008
+12\. Europaparlamentets och rådets förordning (EG) nr 1272/2008 av den 16 december 2008
 om klassificering, märkning och förpackning av ämnen och blandningar, ändring och
 upphävande av direktiven 67/548/EEG och 1999/45/EG samt ändring av förordning (EG)
 nr 1907/2006,
@@ -17650,30 +17650,30 @@ nr 1907/2006,
 
 NATURVÅRDSVERKET
 
-13. Europaparlamentets och rådets 13. Europaparlamentets och rådets
+13\. Europaparlamentets och rådets 13. Europaparlamentets och rådets
 förordning (EG) nr 1005/2009 av den 16 förordning (EU) 2024/590 av den 7 februari
 september 2009 om ämnen som bryter ned 2024 om ämnen som bryter ned ozonskiktet och om
 ozonskiktet,             upphävande av förordning (EG) nr 1005/2009,
-14. Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009
+14\. Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009
 om utsläppande av växtskyddsmedel på marknaden och om upphävande av rådets direktiv
 79/117/EEG och 91/414/EEG,
-15. förordning (EG) nr 1223/2009,
-16. Europaparlamentets och rådets förordning (EU) nr 528/2012 av den 22 maj 2012 om
+15\. förordning (EG) nr 1223/2009,
+16\. Europaparlamentets och rådets förordning (EU) nr 528/2012 av den 22 maj 2012 om
 tillhandahållande på marknaden och användning av biocidprodukter,
-17. Europaparlamentets och rådets förordning (EU) nr 649/2012 av den 4 juli 2012 om
+17\. Europaparlamentets och rådets förordning (EU) nr 649/2012 av den 4 juli 2012 om
 export och import av farliga kemikalier,
-18. Europaparlamentets och rådets förordning (EU) nr 1257/2013 av den 20 november 2013
+18\. Europaparlamentets och rådets förordning (EU) nr 1257/2013 av den 20 november 2013
 om återvinning av fartyg och om ändring av förordning (EG) nr 1013/2006 och direktiv
 2009/16/EG,
-19. Europaparlamentets och rådets förordning (EU) 2017/852 av den 17 maj 2017 om
+19\. Europaparlamentets och rådets förordning (EU) 2017/852 av den 17 maj 2017 om
 kvicksilver och om upphävande av förordning (EG) nr 1102/2008, och
-20. Europaparlamentets och rådets förordning (EU) 2023/1542 av den 12 juli 2023 om
+20\. Europaparlamentets och rådets förordning (EU) 2023/1542 av den 12 juli 2023 om
 batterier och förbrukade batterier, om ändring av direktiv 2008/98/EG och förordning (EU)
 2019/1020 och om upphävande av direktiv 2006/66/EG.
 27 §
 
 Transportstyrelsen
-1. har ansvar för tillsynen enligt miljöbalken i fråga om
+1\. har ansvar för tillsynen enligt miljöbalken i fråga om
 a. användningen av marina bränslen i fartyg enligt svavelförordningen (2014:509),
 
 b. utrustning i fartyg som innehåller b. utrustning i fartyg, luftfartyg och tåg som
@@ -17682,7 +17682,7 @@ kontrollerade ämnen enligt förordning (EU) nr innehåller kontrollerade ämnen
 och                      (EU) 2024/590, och
 c. de skyldigheter i fråga om fartyg som följer av artiklarna 4–12 i förordning (EU) nr
 1257/2013, och
-2. är marknadskontrollmyndighet och utövar 2. är marknadskontrollmyndighet och utövar
+2\. är marknadskontrollmyndighet och utövar 2. är marknadskontrollmyndighet och utövar
 kontroll enligt förordning (EU) 2019/1020 kontroll enligt förordning (EU) 2019/1020
 över att produkter överensstämmer med över att produkter överensstämmer med
 kraven i förordning (EU) nr 517/2014 eller kraven i förordning (EU) 2024/573 eller
@@ -17693,12 +17693,12 @@ kontrollerade ämnen.     innehåller kontrollerade ämnen.
 31 §
 Den kommunala nämnden har, utöver det som följer av 26 kap. 3 § tredje stycket miljöbalken,
 ansvar för tillsynen i fråga om
-1. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken, som inte särskilt anges
+1\. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken, som inte särskilt anges
 i miljöprövningsförordningen (2013:251) eller bilagan till förordningen (1998:899) om
 miljöfarlig verksamhet och hälsoskydd,
-2. vattentäkter som omfattas av tillståndsplikt som kommunen har föreskrivit enligt 9 kap.
+2\. vattentäkter som omfattas av tillståndsplikt som kommunen har föreskrivit enligt 9 kap.
 10 § miljöbalken,
-3. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt 29 § första stycket 3,
+3\. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt 29 § första stycket 3,
 
 15
 
@@ -17706,18 +17706,18 @@ miljöfarlig verksamhet och hälsoskydd,
 
 NATURVÅRDSVERKET
 
-4. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har orsakats av en
+4\. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har orsakats av en
 verksamhet eller åtgärd som den kommunala nämnden har tillsynsansvaret för,
-5. hantering av kemiska produkter, biotekniska organismer och varor i andra verksamheter
+5\. hantering av kemiska produkter, biotekniska organismer och varor i andra verksamheter
 än miljöfarliga verksamheter enligt 9 kap. miljöbalken, utom den tillsyn över
 primärleverantörers utsläppande på marknaden som Kemikalieinspektionen utövar enligt 21 §
 första stycket 1 a,
-6. utrustning i motorfordon, flyg och tåg som 6. utrustning i motorfordon som innehåller
+6\. utrustning i motorfordon, flyg och tåg som 6. utrustning i motorfordon som innehåller
 innehåller kontrollerade ämnen enligt förordning kontrollerade ämnen enligt förordning (EU)
 (EU) nr 517/2014 eller förordning (EG) nr 2024/573 eller förordning (EU) 2024/590, och
 1005/2009, och
 
-7. hur 17–22 och 28 §§ förordningen (2021:996) om engångsprodukter uppfylls lokalt.
+7\. hur 17–22 och 28 §§ förordningen (2021:996) om engångsprodukter uppfylls lokalt.
 32 e §
 Inspektionen för vård och omsorg har ansvar för
 tillsynen i fråga om användning av desfluran som
@@ -17743,19 +17743,19 @@ detta kapitel
 1 §
 Detta kapitel reglerar miljösanktionsavgifter för
 överträdelser av
-1. Europaparlamentets och rådets förordning
+1\. Europaparlamentets och rådets förordning
 (EU) 2024/573 av den 7 februari 2024 om
 fluorerade växthusgaser, om ändring av direktiv
 (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
-2. Europaparlamentets och rådets förordning (EU)
+2\. Europaparlamentets och rådets förordning (EU)
 2024/590 av den 7 februari 2024 om ämnen som
 bryter ned ozonskiktet,
-3. förordningen (2016:1128) om fluorerade
+3\. förordningen (2016:1128) om fluorerade
 växthusgaser,
-4. förordningen (2016:1129) om ozonnedbrytande
+4\. förordningen (2016:1129) om ozonnedbrytande
 ämnen, och
-5. förordningen (1998:899) om miljöfarlig
+5\. förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd.
 Avgiften för överträdelse av förordning enligt första
 stycket 1 och 2 utgörs av ett belopp som beräknas i
@@ -17919,10 +17919,10 @@ För en överträdelse av 17 eller 18 § förordningen
 (2016:1128) om fluorerade växthusgaser genom att
 inte uppfylla föreskrivna krav på certifiering ska en
 miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är skyldig att
+1\. med 3 000 kronor, om den som är skyldig att
 betala avgiften är en fysisk person eller en ideell
 förening, och
-2. med 10 000 kronor, om den som är skyldig att
+2\. med 10 000 kronor, om den som är skyldig att
 betala avgiften är en juridisk person som inte är en
 ideell förening.
 Förordningen om ozonnedbrytande
@@ -17946,8 +17946,8 @@ Att bestämma sanktion
 När miljösanktionsavgiftens storlek ska fastställas
 för överträdelse av 2–18 §§, ska särskild hänsyn tas
 till
-1. överträdelsens art och allvarlighetsgrad,
-2. överträdelsens påverkan på den befolkning eller
+1\. överträdelsens art och allvarlighetsgrad,
+2\. överträdelsens påverkan på den befolkning eller
 miljö som påverkas av den,
 19
 
@@ -17955,10 +17955,10 @@ miljö som påverkas av den,
 
 NATURVÅRDSVERKET
 
-3. eventuella tidigare överträdelser av förordning
+3\. eventuella tidigare överträdelser av förordning
 (EU) 2024/573 eller EU (2024/590) som
 företaget gjort sig skyldigt till,
-4. och företagets ekonomiska situation.
+4\. och företagets ekonomiska situation.
 27 §
 Utöver det som anges i 26 § ska
 miljösanktionsavgiften stå i proportion till
@@ -17974,9 +17974,9 @@ användning av fluorerade växthusgaser, eller
 produkter och utrustning som innehåller dessa gaser
 eller vars funktion är beroende av dessa gaser, ska
 miljösanktionsavgiften som högst fastställas till
-1. minst fem gånger marknadsvärdet av berörda
+1\. minst fem gånger marknadsvärdet av berörda
 gaser eller produkter och utrustning,
-2. minst åtta gånger marknadsvärdet av berörda
+2\. minst åtta gånger marknadsvärdet av berörda
 gaser eller produkter och utrustning om det sker
 upprepade sådana överträdelser inom en
 femårsperiod.
@@ -18137,10 +18137,10 @@ En underrättelse ska lämnas i så god tid att samråd om åtgärdens utformnin
 miljöpåverkan kan hållas med tillsynsmyndigheten.
 
 Första stycket gäller inte
-1. för en installation eller en konvertering till följd av ett oförutsett haveri om omedelbara
+1\. för en installation eller en konvertering till följd av ett oförutsett haveri om omedelbara
 åtgärder krävs för att undvika olägenhet för människors hälsa eller miljön eller betydande
 ekonomisk skada, eller
-2. om valet av utrustning och köldmedium behandlas inom ramen för en ansökan om tillstånd
+2\. om valet av utrustning och köldmedium behandlas inom ramen för en ansökan om tillstånd
 eller en anmälan enligt 9 kap. miljöbalken.
 15 §
 Den som är operatör ska lämna en rapport till Den som är operatör för en utrustning eller
@@ -18158,9 +18158,9 @@ utrustning och anläggning som omfattas av krav på
 läckagekontroll enligt 11 § eller enligt artikel 4.5
 andra stycket och 5.1, 5.2, 5.3 och 5.6, och under
 någon del av ett kalenderår innehåller
-1. minst 14 ton koldioxidekvivalenter för ämnen i
+1\. minst 14 ton koldioxidekvivalenter för ämnen i
 bilaga I, eller
-2. mer än 3 kg av ämnen i avsnitt 1 i bilaga II i
+2\. mer än 3 kg av ämnen i avsnitt 1 i bilaga II i
 EU-förordningen om f-gaser.
 Rapporteringskravet enligt första stycket gäller inte
 brandskyddsutrustning, organiska rankinecykler och
@@ -18170,11 +18170,11 @@ Rapporten ska lämnas in senast den 31 mars året efter kalenderåret och vara u
 operatören eller försedd med dennes elektroniska underskrift.
 
 Rapporten ska innehålla  Rapporten ska innehålla
-1. resultatet av de läckagekontroller som 1. datum för och resultatet av de
+1\. resultatet av de läckagekontroller som 1. datum för och resultatet av de
 gjorts under kalenderåret, läckagekontroller som gjorts under
-2. information om utrustning som skrotats kalenderåret,
+2\. information om utrustning som skrotats kalenderåret,
 under kalenderåret,       2. information om utrustning som skrotats
-3. de uppgifter som anges i artikel 6.1 i under kalenderåret,
+3\. de uppgifter som anges i artikel 6.1 i under kalenderåret,
 förordningen om f-gaser,
 
 23
@@ -18183,15 +18183,15 @@ förordningen om f-gaser,
 
 NATURVÅRDSVERKET
 
-4. operatörens organisationsnummer, 3. de uppgifter som anges i artikel 7.1 i
+4\. operatörens organisationsnummer, 3. de uppgifter som anges i artikel 7.1 i
 postadress och faktureringsadress, förordningen om f-gaser,
-5. adress till och fastighetsbeteckning på den 4. operatörens organisationsnummer,
+5\. adress till och fastighetsbeteckning på den 4. operatörens organisationsnummer,
 fastighet där utrustningen finns, om postadress och faktureringsadress,
 utrustningen är stationär, 5. adress till och fastighetsbeteckning på den
-6. en förteckning över utrustningen, och fastighet där utrustningen finns, om
-7. i fråga om utrustning på ett fartyg, utrustningen är stationär,
+6\. en förteckning över utrustningen, och fastighet där utrustningen finns, om
+7\. i fråga om utrustning på ett fartyg, utrustningen är stationär,
 fartygets namn, signalbokstäver eller liknande. 6. en förteckning över utrustningen, och
-7. i fråga om utrustning på ett fartyg,
+7\. i fråga om utrustning på ett fartyg,
 fartygets namn, signalbokstäver eller liknande.
 Behörig myndighet   Myndigheter med uppgifter enligt f-
 gasförordningen
@@ -18376,11 +18376,11 @@ avfallet i enlighet med bestämmelserna i förordning
 13 §
 
 Naturvårdsverket får meddela föreskrifter om undantag från kraven på
-1. utsortering i 1, 4 och 10 §§ och 12 § första stycket,
-2. att skilja förpackningarna från deras innehåll i 4 a §,
-3. separat insamling i 1 a och 4 g §§,
-4. fastighetsnära insamling i 1 b §, och
-5. skild förvaring i 12 § första stycket.
+1\. utsortering i 1, 4 och 10 §§ och 12 § första stycket,
+2\. att skilja förpackningarna från deras innehåll i 4 a §,
+3\. separat insamling i 1 a och 4 g §§,
+4\. fastighetsnära insamling i 1 b §, och
+5\. skild förvaring i 12 § första stycket.
 Sådana föreskrifter får endast avse avfall där Sådana föreskrifter får endast avse avfall där
 hanteringen annars inte är genomförbar eller hanteringen annars inte är genomförbar eller
 inte ger fördelar som överväger nackdelarna inte ger fördelar som överväger nackdelarna
@@ -18398,10 +18398,10 @@ Naturvårdsverket får
 
 NATURVÅRDSVERKET
 
-1. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till att genom
+1\. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till att genom
 demontering, sortering eller andra behandlingsåtgärder säkerställa att elavfall kan behandlas på
 ett sätt som är lämpligt från hälso- och miljösynpunkt, och
-2. i fråga om behandling av elavfall, 2. i fråga om behandling av elavfall, meddela
+2\. i fråga om behandling av elavfall, 2. i fråga om behandling av elavfall, meddela
 meddela de föreskrifter som behövs till följd de föreskrifter som behövs till följd av bilaga
 av bilaga VII till direktiv 2012/19/EU. VII till direktiv 2012/19/EU samt artikel 9 och
 bilagorna I och II till förordning (EU) 2024/573 om
@@ -18432,12 +18432,12 @@ krav på kunskap och utbildning avseende
 återvinningsanläggningar enligt 4 a § andra stycket.
 Naturvårdsverket får meddela ytterligare föreskrifter
 om
-1. den certifiering och utbildning som personer ska
+1\. den certifiering och utbildning som personer ska
 ha som destruerar eller återvinner fluorerade
 växthusgaser från utrustning och vissa material, i
 enlighet med artikel 10 förordning 2024/573/EU,
 och
-2. de kvalifikationer som personer ska ha som
+2\. de kvalifikationer som personer ska ha som
 destruerar eller återvinner ozonnedbrytande ämnen, i
 enlighet med artikel 20 i förordning 2024/590/EU.
 
@@ -18504,9 +18504,9 @@ NATURVÅRDSVERKET
 För en överträdelse av 7 § förordningen (2016:1128)
 om fluorerade växthusgaser genom att köpa fluorerad
 växthusgas ska en miljösanktionsavgift betalas
-1. med 3 000 kr, om den som är skyldig att betala
+1\. med 3 000 kr, om den som är skyldig att betala
 avgiften är en fysisk person eller en ideell förening, och
-2. med 5 000 kronor, om den som är skyldig att
+2\. med 5 000 kronor, om den som är skyldig att
 betala avgiften är en juridisk person som inte är en
 ideell förening.
 17 c §
@@ -18522,9 +18522,9 @@ förordningen (2016:1128) om fluorerade förordningen (2016:1128) om fluorerade
 växthusgaser genom att inte växthusgaser genom att inte
 uppfylla föreskrivna krav på certifiering inneha ett föreskrivet certifikat ska en
 ska en miljösanktionsavgift betalas miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är skyldig att betala avgiften är en
+1\. med 3 000 kronor, om den som är skyldig att betala avgiften är en
 fysisk person eller en ideell förening, och
-2. med 10 000 kronor, om den som är skyldig att betala avgiften är en
+2\. med 10 000 kronor, om den som är skyldig att betala avgiften är en
 juridisk person som inte är en ideell förening.
 1.2.2  Promemorians  förslag till förordning om ändring
 av förordningen (2016:1128) om fluorerade
@@ -18539,13 +18539,13 @@ Nuvarande lydelse        Föreslagen lydelse
 1 §
 
 Denna förordning är meddelad med stöd av
-- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
+\- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
 13–43 och 45 §§,         12 a–43 och 45 §§,
 
-- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
+\- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
 och                      och
 
--  8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+\-  8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
 
 2 De föreslagna lydelserna har i detta avsnitt uppdaterats i förhållande till Regeringskansliets PM på så
 sätt att hänvisningar till den upphävda förordningen (EU) 517/2014 har ersatts med motsvarande
@@ -18570,11 +18570,11 @@ kommissionens standard för bedömning av kommissionens standard för bedömning
 organ som certifierar personer (SS-EN organ som certifierar personer (SS-EN
 ISO/IEC 17024:2003)      ISO/IEC 17024:2012)
 
-1. är ackrediterad enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den
+1\. är ackrediterad enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den
 9 juli 2008 om krav för ackreditering och marknadskontroll i samband med saluföring av
 produkter och upphävande av förordning (EEG) nr 339/93 och lagen (2011:791) om
 ackreditering och teknisk kontroll, eller
-2. i ett annat land i Europeiska unionen eller Europeiska ekonomiska samarbetsområdet eller
+2\. i ett annat land i Europeiska unionen eller Europeiska ekonomiska samarbetsområdet eller
 i Turkiet är ett certifieringsorgan som
 a) har ackrediterats av ett a) har ackrediterats av ett
 ackrediteringsorgan som uppfyller kraven i ackrediteringsorgan som uppfyller kraven i
@@ -18600,11 +18600,11 @@ strid mot EU-förordningen om f-gaser.
 
 Det är förbjudet att leverera köldmedium till andra F-gas för användning i en verksamhet enligt 17 eller
 mottagare än             18 § får endast säljas till och köpas av företag som
-1. den som enligt denna förordning får fylla på f-gaser har
+1\. den som enligt denna förordning får fylla på f-gaser har
 i kyl-, luftkonditionerings- och värmepumpsutrustning, 1. ett certifikat enligt kraven i artikel 6 i
-2. den som tillverkar kyl-, luftkonditionerings- och genomförandeförordningen om certifiering för kyl- och
+2\. den som tillverkar kyl-, luftkonditionerings- och genomförandeförordningen om certifiering för kyl- och
 värmepumpsutrustning som innehåller f-gaser, och värmeutrustning,
-3. den som bedriver verksamhet för rening eller 2. en anställd som har ett certifikat enligt kraven i
+3\. den som bedriver verksamhet för rening eller 2. en anställd som har ett certifikat enligt kraven i
 destruktion av f-gaser.  artiklarna 3 och 4 i genomförandeförordningen om
 certifiering för kyl- och värmeutrustning, eller
 
@@ -18614,7 +18614,7 @@ certifiering för kyl- och värmeutrustning, eller
 
 NATURVÅRDSVERKET
 
-3. en anställd som har ett intyg enligt
+3\. en anställd som har ett intyg enligt
 bestämmelserna i EU-förordningen om utbildning för
 luftkonditionering i motorfordon.
 Trots första stycket får köldmedium som är avsett för
@@ -18642,12 +18642,12 @@ dokumentera det bevis för att installationen kommer
 att utföras av ett certifierat företag som krävs enligt
 artikel 11.74 i EU-förordningen om f-gaser.
 Dokumentationen ska innehålla
-1. köparens namn,
-2. installationsadress,
-3. datum för försäljningen,
-4.  installationsföretagets namn och
+1\. köparens namn,
+2\. installationsadress,
+3\. datum för försäljningen,
+4\.  installationsföretagets namn och
 certifieringsnummer, och
-5. ett skriftligt åtagande av installationsföretaget om
+5\. ett skriftligt åtagande av installationsföretaget om
 att utföra installationen, eller en kopia av ett sådant.
 
 Dokumentationen ska sparas i minst fem år och
@@ -18737,10 +18737,10 @@ luftkonditioneringsutrustning i fordon är det luftkonditioneringsutrustning i f
 trots 18 § tillräckligt att innehåller mindre än 20 ton koldioxidekvivalenter för
 ämnen i bilaga I eller 4 kg av ämnen i bilaga II7, är
 det trots 17 § tillräckligt att
-1. certifieringen avser de minimikrav på färdigheter och kunskaper enligt kategori I och II i
+1\. certifieringen avser de minimikrav på färdigheter och kunskaper enligt kategori I och II i
 bilaga I till genomförandeförordningen om certifiering för kyl- och värmeutrustning som är
 relevanta för arbetet, eller
-2. arbetet leds av någon som är certifierad 2. i fråga om utrustning som innehåller mindre än 5
+2\. arbetet leds av någon som är certifierad 2. i fråga om utrustning som innehåller mindre än 5
 och det finns tillgång till nödvändiga verktyg ton koldioxidekvivalenter köldmedier,
 och rutiner, om utrustningen innehåller mindre än 5 a) arbetet leds av någon som är certifierad enligt
 ton koldioxidekvivalenter köldmedier. kraven i artiklarna 3 och 4 i genomförande-
@@ -18760,7 +18760,7 @@ utfärdat av ett certifieringsorgan som är innehåller f-gas ska vara utfärdat
 ackrediterat för de uppgifter som certifikatet certifieringsorgan som
 gäller och har sin certifieringsverksamhet 1. är ackrediterat för de uppgifter som
 anmäld hos Naturvårdsverket. certifikatet gäller, och
-2. har anmält sin certifieringsverksamhet hos
+2\. har anmält sin certifieringsverksamhet hos
 Naturvårdsverket.
 23 §
 
@@ -18768,7 +18768,7 @@ Ett personalcertifikat enligt artikel 4 i
 genomförandeförordningen om certifiering för kyl- och
 värmeutrustning ska vara utfärdat av någon enligt 22
 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och vidta
 åtgärder enligt artikel 7 i genomförandeförordningen,
 och
@@ -18784,7 +18784,7 @@ artikel 5.1 nämnda förordning.
 
 NATURVÅRDSVERKET
 
-2. utsett ett sådant bedömningsorgan som avses i
+2\. utsett ett sådant bedömningsorgan som avses i
 artiklarna 4.1 och 4.4 i genomförandeförordningen för
 den kompetens som certifikatet gäller.
 24 §
@@ -18793,11 +18793,11 @@ Ett företagscertifikat enligt artikel 6 i
 genomförandeförordningen om certifiering för kyl- och
 värmeutrustning ska vara utfärdat av någon enligt 22
 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och
 vidta åtgärder enligt artikel 7 i
 genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan som avses i
+2\. utsett ett sådant bedömningsorgan som avses i
 artikel 8 i genomförandeförordningen för den
 kompetens som certifikatet gäller.
 25 §
@@ -18805,11 +18805,11 @@ Ett personalcertifikat enligt artikel 5 och ett
 företagscertifikat enligt artikel 8 i EU-förordningen
 om certifiering för brandskyddssystem ska vara
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och
 vidta åtgärder enligt artikel 10 i EU-förordningen,
 och
-2. utsett ett sådant utvärderingsorgan som avses i
+2\. utsett ett sådant utvärderingsorgan som avses i
 artiklarna 5.1 och 5.4 i EU-förordningen för den
 kompetens som certifikatet gäller.
 
@@ -18819,12 +18819,12 @@ som  avses i  artikel 3 i genomförandeförordningen om certifiering
 genomförandeförordningen om certifiering för elektriska brytare får trots 22 § 1 utfärdas av
 för elektriska brytare ska vara utfärdat av någon någon som får utfärda personalcertifikat enligt artikel
 enligt 22 § som          4 i genomförandeförordningen om certifiering för kyl-
-1. uppfyller kraven på opartiskhet i artikel 4.1 i och värmeutrustning.
+1\. uppfyller kraven på opartiskhet i artikel 4.1 i och värmeutrustning.
 genomförandeförordningen,
-2. har kontrollerat att de förutsättningar som anges Certifieringsorganet ska utse det bedömningsorgan
+2\. har kontrollerat att de förutsättningar som anges Certifieringsorganet ska utse det bedömningsorgan
 i artikel 3 i genomförandeförordningen är uppfyllda, som ska anordna prov för certifieringen.
 och
-3. har rutiner för att fortlöpande bevaka att
+3\. har rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och vidta
 åtgärder enligt artikel 4.2 i genomförandeförordningen.
 27 §
@@ -18865,7 +18865,7 @@ c) enligt de krav som avses i 19 § första stycket 1,
 eller
 d) enligt artikel 5 i EU-förordningen om certifiering
 för brandskyddssystem, och
-2. har anmält sin intygsverksamhet hos
+2\. har anmält sin intygsverksamhet hos
 Naturvårdsverket.
 30 §
 
@@ -18899,10 +18899,10 @@ NATURVÅRDSVERKET
 
 Bestämmelserna i 22–30 §§ gäller inte om Bestämmelserna i 22–29 §§ gäller inte om
 certifikatet eller intyget certifikatet eller intyget
-1. har utfärdats i ett annat land i Europeiska unionen eller Europeiska ekonomiska
+1\. har utfärdats i ett annat land i Europeiska unionen eller Europeiska ekonomiska
 samarbetsområdet och enligt det landets bestämmelser uppfyller kraven i de angivna EU-
 förordningarna eller genomförandeförordningarna, och
-2. visas upp i översättning till svenska.
+2\. visas upp i översättning till svenska.
 
 43 §
 Kravet på drift- och skötselinstruktioner i 8 § Kravet på drift- och skötselinstruktioner i 8 §
@@ -18931,12 +18931,12 @@ Härigenom föreskrivs att 1, 7 och 10 §§ förordningen (2016:1129) om ozonned
 Nuvarande lydelse         Föreslagen lydelse
 
 1 §
-- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
+\- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
 13–43 och 45 §§,          12 a–43 och 45 §§,
-- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
+\- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
 och                       och
 
-- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+\- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
 7 §
 Det är förbjudet att leverera köldmedier som Det är förbjudet att lämna köldmedier som
 utgörs av CFC, övrig CFC eller HCFC till utgörs av CFC, övrig CFC eller HCFC till
@@ -18948,9 +18948,9 @@ köldmedier.
 Haloner får trots 7 § användas i eller vid Haloner får trots 6 § användas i eller vid
 installation av brandsläckningsanordningar installation av brandsläckningsanordningar
 som är placerade i        som är placerade i
-1. militära luftfartyg eller ubåtar, eller 1. luftfartyg eller ubåtar, eller
+1\. militära luftfartyg eller ubåtar, eller 1. luftfartyg eller ubåtar, eller
 
-2. militära fordon eller sådana stridsledningscentraler som finns i fartyg eller under jord,
+2\. militära fordon eller sådana stridsledningscentraler som finns i fartyg eller under jord,
 om halonerna inte kan ersättas med något annat ämne eller ny teknik.
 För användning av haloner enligt första stycket finns det bestämmelser om särskilda
 avslutnings- och slutdatum i EU-förordningen om ozonnedbrytande ämnen.
@@ -18961,7 +18961,7 @@ avslutnings- och slutdatum i EU-förordningen om ozonnedbrytande ämnen.
 
 NATURVÅRDSVERKET
 
-2.     Inledning
+2\.     Inledning
 
 2.1    Uppdraget
 
@@ -19156,7 +19156,7 @@ underlag till Regeringskansliet.
 
 NATURVÅRDSVERKET
 
-3.     Bakgrund
+3\.     Bakgrund
 
 I detta kapitel ges en övergripande beskrivning av användningen av ämnen som
 
@@ -19179,7 +19179,7 @@ växthusgasutsläpp.12 Användningen av köldmedier inom kommersiell kylning och
 
 luftkonditionering orsakade högst utsläpp.
 Utsläppstrenden för f-gaser i Sverige har varit ökande från 1990-talet och fram till
-2006. Efter införandet av EU-regler som begränsade användningen av f-gaser har
+2006\. Efter införandet av EU-regler som begränsade användningen av f-gaser har
 utsläppen visat en nedgående trend.
 
 3.1.1  Användningsområden  och miljöproblemet
@@ -19278,7 +19278,7 @@ koldioxidekvivalenter (kton CO2ekv) uppdelat på användningsområden
 Källa: Uppgifter baserat på Sveriges klimatrapportering för utsläppsår 2022.
 
 Utsläppen från HFC, PFC respektive SF6 har förändrats en hel del över tid, se figur
-2. HFC började användas under 1990-talet och ökade stadigt fram till och med
+2\. HFC började användas under 1990-talet och ökade stadigt fram till och med
 2008 med anledning av att Montrealprotokollets ikraftträdande 1989, vilket innebar
 en utfasning av ozonnedbrytande ämnen. Ozonnedbrytande ämnen (CFC och
 HCFC) ersattes med HFC-gaser. Det ökade antalet värmepumpar, kylsystem och
@@ -19492,8 +19492,8 @@ I EU:s nya f-gasförordning bibehålls kontrollsystemen från den upphävda f-
 gasförordningen. Till kontrollsystemen hör bestämmelser om begränsning,
 användning, återvinning och destruktion av fluorerade växthusgaser i form av
 
-- krav på certifiering och utbildning,
-- villkor för särskild användning av dessa gaser,
+\- krav på certifiering och utbildning,
+\- villkor för särskild användning av dessa gaser,
 
 49
 
@@ -19501,10 +19501,10 @@ användning, återvinning och destruktion av fluorerade växthusgaser i form av
 
 NATURVÅRDSVERKET
 
-- villkor för utsläppande på marknaden av särskilda produkter och utrustning
+\- villkor för utsläppande på marknaden av särskilda produkter och utrustning
 som innehåller, eller vilkas funktion kräver, fluorerade växthusgaser,
-- kvantitativa begränsningar för utsläppande på marknaden av fluorkolväten och
-- regler för rapportering.
+\- kvantitativa begränsningar för utsläppande på marknaden av fluorkolväten och
+\- regler för rapportering.
 
 Skärpta krav i den nya f-gasförordningen
 EU har i nya EU-förordningen höjt ambitionsnivån avsevärt från en stegvis
@@ -19637,7 +19637,7 @@ fartyg.
 
 NATURVÅRDSVERKET
 
-4.     Förslag        till  ändringar         av
+4\.     Förslag        till  ändringar         av
 
 miljöbalken
 
@@ -20194,7 +20194,7 @@ sanktionsavgifter.
 
 NATURVÅRDSVERKET
 
-5.     Förslag        till  ändringar         av
+5\.     Förslag        till  ändringar         av
 
 förordningar            under
 
@@ -22114,7 +22114,7 @@ följd av Sveriges medlemskap i Europeiska unionen (15 kap. 40 § 1).
 
 NATURVÅRDSVERKET
 
-6.     Förslag        till  ändringar         av
+6\.     Förslag        till  ändringar         av
 
 förordningar            utanför
 
@@ -22179,7 +22179,7 @@ läggas till som behöriga myndigheter på området miljöskydd.
 
 NATURVÅRDSVERKET
 
-7.     Regelförenklande
+7\.     Regelförenklande
 
 förslag
 
@@ -22265,14 +22265,14 @@ promemorian.
 7.2.1  Ändring av förordningen om
 miljösanktionsavgifter
 
-- Ny beteckning av bestämmelse (9 kap. 17 b §)
-- En miljösanktionsavgift ska införas för överträdelse av begränsningar när det
+\- Ny beteckning av bestämmelse (9 kap. 17 b §)
+\- En miljösanktionsavgift ska införas för överträdelse av begränsningar när det
 gäller rätten enligt f-gasförordningen att sälja och köpa f-gas (9 kap. 17 och nya
 17 a §§)
-- Miljösanktionsavgift införs för överträdelse av ett nytt krav på att läckage har
+\- Miljösanktionsavgift införs för överträdelse av ett nytt krav på att läckage har
 
 åtgärdats innan luftkonditioneringsutrustning i fordon fylls på (9 kap. 17 c §)
-- Redaktionell ändring i bestämmelse om sanktion för överträdelse av
+\- Redaktionell ändring i bestämmelse om sanktion för överträdelse av
 certifieringskrav (21 §)
 
 103
@@ -22284,40 +22284,40 @@ NATURVÅRDSVERKET
 7.2.2  Ändring av förordningen om fluorerade
 växthusgaser
 
-- Upplysning om bemyndigande justeras (1 §)
-- Ändrad hänvisning i bestämmelse med ordförklaringar (3 §)
-- Ett förbud mot leverans av köldmedium anpassas till EU-förordningen om f-
+\- Upplysning om bemyndigande justeras (1 §)
+\- Ändrad hänvisning i bestämmelse med ordförklaringar (3 §)
+\- Ett förbud mot leverans av köldmedium anpassas till EU-förordningen om f-
 gaser (6 och 7 §§)
--  Servicetekniker ska se till att läckage har åtgärdats innan
+\-  Servicetekniker ska se till att läckage har åtgärdats innan
 luftkonditioneringsutrustning i fordon fylls på (nya 11 a §)34
 
--  Dokumentation av bevis för att installation kommer att utföras av ett certifierat
+\-  Dokumentation av bevis för att installation kommer att utföras av ett certifierat
 företag vid försäljning av icke-hermetiskt tillsluten utrustning till slutanvändare
 (nya 12 a §)35
--  Skyldighet för företag som tillhandahåller f-gaser avsedda för viss mobil
+\-  Skyldighet för företag som tillhandahåller f-gaser avsedda för viss mobil
 utrustning att föra register förtydligas och flyttas till en separat bestämmelse (13
 § och nya 13 a)36
--  Bestämmelser om krav på certifikat som motsvarar krav i andra bestämmelser
+\-  Bestämmelser om krav på certifikat som motsvarar krav i andra bestämmelser
 tas bort (16 §)
--  Nationella krav på certifiering vid arbete med mobil f-gasutrustning förtydligas
+\-  Nationella krav på certifiering vid arbete med mobil f-gasutrustning förtydligas
 
 (17 §)
--  Krav på företag (18 §)
--  Kunskapskraven för arbete med luftkonditioneringsutrustning i fordon
+\-  Krav på företag (18 §)
+\-  Kunskapskraven för arbete med luftkonditioneringsutrustning i fordon
 förtydligas (19 § och nya 19 a §)37
--  Kravet på certifieringsorgan att vara ackrediterade förtydligas (22 §)
--  Upphörande av överflödiga bestämmelser och förtydligat ansvar för
+\-  Kravet på certifieringsorgan att vara ackrediterade förtydligas (22 §)
+\-  Upphörande av överflödiga bestämmelser och förtydligat ansvar för
 certifieringsorgan att utse bedömningsorgan (23–25 §§ som tas bort, nya 30 §
 samt ändrade hänvisningar i 26–27 §§)
--  Ytterligare certifieringsorgan för arbete med elektriska brytare utses och krav
+\-  Ytterligare certifieringsorgan för arbete med elektriska brytare utses och krav
 
 som dubblerar andra bestämmelser tas bort (26 §)
--  Ändrad hänvisning i bestämmelse om certifikats giltighetstid (28 §)
--  En bestämmelse om intyg förtydligas (29 §)
--  En överflödig bestämmelse om vem som får utfärda intyg om utbildning för
+\-  Ändrad hänvisning i bestämmelse om certifikats giltighetstid (28 §)
+\-  En bestämmelse om intyg förtydligas (29 §)
+\-  En överflödig bestämmelse om vem som får utfärda intyg om utbildning för
 luftkonditionering i motorfordon tas bort (30 §)
--  Ändrad hänvisning i bestämmelse om organ för ackreditering (31 §)
--  Ändrad hänvisning i bestämmelse om undantag för utländska certifikat och
+\-  Ändrad hänvisning i bestämmelse om organ för ackreditering (31 §)
+\-  Ändrad hänvisning i bestämmelse om undantag för utländska certifikat och
 intyg (34 §)
 
 34 Författningsförslaget har en uppdaterad hänvisning i förhållande till Regeringskansliets promemoria,
@@ -22337,16 +22337,16 @@ mängdgräns till i 19 §. Resonemanget om detta följer vad som anges i artikel
 
 NATURVÅRDSVERKET
 
--  Redaktionell ändring och ändrad hänvisning i undantag för drift- och
+\-  Redaktionell ändring och ändrad hänvisning i undantag för drift- och
 skötselinstruktioner (43 §)
 
 7.2.3  Ändring av förordningen om ozonnedbrytande
 ämnen
 
-- Upplysning om bemyndigande justeras (1 §)
-- En begränsning av rätten att lämna köldmedier till insamling eller bortskaffande
+\- Upplysning om bemyndigande justeras (1 §)
+\- En begränsning av rätten att lämna köldmedier till insamling eller bortskaffande
 förtydligas (7 §)
-- Haloner ska få användas i brandsläckare även i andra luftfartyg än militära (10
+\- Haloner ska få användas i brandsläckare även i andra luftfartyg än militära (10
 §)
 
 105
@@ -22355,7 +22355,7 @@ förtydligas (7 §)
 
 NATURVÅRDSVERKET
 
-8.     Kompletterande
+8\.     Kompletterande
 
 åtgärder
 
@@ -22489,7 +22489,7 @@ byggbestämmelser.
 
 NATURVÅRDSVERKET
 
-9.     Ytterligare,          möjliga
+9\.     Ytterligare,          möjliga
 
 åtgärder        som     kan
 
@@ -22745,7 +22745,7 @@ tillsyn, som även den kan initieras av informationsinsatser.
 
 NATURVÅRDSVERKET
 
-10.    Konsekvensutredning
+10\.    Konsekvensutredning
 
 Nedan beskrivs konsekvenser av Naturvårdsverkets författningsförslag i enlighet
 
@@ -23302,7 +23302,7 @@ enligt artikel 35 i f-gasförordningen och artikel 30 i ODS-förordningen.
 
 NATURVÅRDSVERKET
 
-11.    Källförteckning
+11\.    Källförteckning
 
 Arbetsmiljöverket (2024). Tillstånd, anmälan och blanketter för asbest,
 
@@ -23349,7 +23349,7 @@ anlaggning/?lan=0&underbransch=1.(c)&sid=478&limit=0-m, hämtad 2024-08-23.
 Naturvårdsverket med flera (2024). Delredovisning av regeringsuppdrag om att
 
 utveckla den myndighetsgemensamma satsningen mot avfallsbrottslighet. 2024-02-
-29. NV-06554-22.
+29\. NV-06554-22.
 
 124
 
@@ -23469,7 +23469,7 @@ som bryter ned ozonskiktet) föreslås förtydligas.
 
 <!-- sida 506 -->
 
-1. Författningsförslag
+1\. Författningsförslag
 
 1.1 Förslag till förordning om ändring i förordningen (2016:1128) om
 
@@ -23507,13 +23507,13 @@ standard för bedömning av över- standard för bedömning av över-
 ensstämmelse med allmänna krav ensstämmelse med allmänna krav
 på organ som certifierar personer på organ som certifierar personer
 (SS-EN ISO/IEC 17024:2003) (SS-EN ISO/IEC 17024:2012)
-1. är ackrediterad enligt Europaparlamentets och rådets förordning
+1\. är ackrediterad enligt Europaparlamentets och rådets förordning
 
 (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och
 marknadskontroll i samband med saluföring av produkter och upphäv-
 ande av förordning (EEG) nr 339/93 och lagen (2011:791) om ackredi-
 tering och teknisk kontroll, eller
-2. i ett annat land i Europeiska unionen eller Europeiska ekonomiska
+2\. i ett annat land i Europeiska unionen eller Europeiska ekonomiska
 samarbetsområdet eller i Turkiet är ett certifieringsorgan som
 
 3 (80)
@@ -23598,13 +23598,13 @@ EU-förordningen om f-gaser.
 
 Det är förbjudet att leverera köldmedium F-gas för användning i en verksamhet
 till andra mottagare än  enligt 17 eller 18 § får endast säljas till
-1. den som enligt denna förordning får och köpas av företag som har
+1\. den som enligt denna förordning får och köpas av företag som har
 fylla på f-gaser i kyl-, luftkonditionerings- 1. ett certifikat enligt kraven i artikel
 och värmepumpsutrustning, 6 i genomförandeförordningen om
-2. den som tillverkar kyl-, luftkondi- certifiering för kyl- och värmeutrustning,
+2\. den som tillverkar kyl-, luftkondi- certifiering för kyl- och värmeutrustning,
 tionerings- och värmepumpsutrustning som 2. en anställd som har ett certifikat
 innehåller f-gaser, och  enligt kraven i artiklarna 3 och 4 i
-3. den som bedriver verksamhet för genomförandeförordningen om certifiering
+3\. den som bedriver verksamhet för genomförandeförordningen om certifiering
 rening eller destruktion av f-gaser. för kyl- och värmeutrustning, eller
 Trots första stycket får köldmedium 3. en anställd som har ett intyg enligt
 
@@ -23678,13 +23678,13 @@ för att installationen kommer att utföras
 av ett certifierat företag som krävs enligt
 artikel 11.5 i EU-förordningen om
 f-gaser. Dokumentationen ska innehålla
-1. köparens namn,
-2. installationsadressen,
-3. datum för försäljningen,
-4. installationsföretagets namn och cer-
+1\. köparens namn,
+2\. installationsadressen,
+3\. datum för försäljningen,
+4\. installationsföretagets namn och cer-
 
 tifieringsnummer, och
-5. ett skriftligt åtagande av installa-
+5\. ett skriftligt åtagande av installa-
 tionsföretaget om att utföra installationen,
 eller en kopia av ett sådant.
 Dokumentationen ska sparas i minst
@@ -23734,19 +23734,19 @@ Rapporten ska lämnas in senast den 31 mars året efter kalenderåret och
 vara undertecknad av operatören eller försedd med dennes elektroniska
 underskrift.
 Rapporten ska innehålla  Rapporten ska innehålla
-1. resultatet av de      1. datum för och resultatet av de
+1\. resultatet av de      1. datum för och resultatet av de
 
 läckagekontroller som gjorts under läckagekontroller som gjorts under
 kalenderåret,            kalenderåret,
-2. information om utrustning som skrotats under kalenderåret,
-3. de uppgifter som anges i arti- 3. de uppgifter som anges i arti-
+2\. information om utrustning som skrotats under kalenderåret,
+3\. de uppgifter som anges i arti- 3. de uppgifter som anges i arti-
 kel 6.1 i förordningen om f-gaser, kel 6.1 i EU-förordningen om f-gaser,
-4. operatörens organisationsnummer, postadress och fakturerings-
+4\. operatörens organisationsnummer, postadress och fakturerings-
 adress,
-5. adress till och fastighetsbeteckning på den fastighet där utrustningen
+5\. adress till och fastighetsbeteckning på den fastighet där utrustningen
 finns, om utrustningen är stationär,
-6. en förteckning över utrustningen, och
-7. i fråga om utrustning på ett fartyg, fartygets namn, signalbokstäver
+6\. en förteckning över utrustningen, och
+7\. i fråga om utrustning på ett fartyg, fartygets namn, signalbokstäver
 eller liknande.
 
 16 §
@@ -23810,10 +23810,10 @@ håll av mobil luftkonditioneringsut- håll av luftkonditioneringsutrust-
 rustning i fordon är det trots 18 § ning i fordon som innehåller mindre än
 tillräckligt att         20 ton koldioxidekvivalenter f-gas, är det
 trots 17 § tillräckligt att
-1. certifieringen avser de minimikrav på färdigheter och kunskaper
+1\. certifieringen avser de minimikrav på färdigheter och kunskaper
 enligt kategori I och II i bilaga I till genomförandeförordningen om
 certifiering för kyl- och värmeutrustning som är relevanta för arbetet, eller
-2. arbetet leds av någon som är 2. i fråga om utrustning som innehål-
+2\. arbetet leds av någon som är 2. i fråga om utrustning som innehål-
 
 certifierad och det finns tillgång till ler mindre än 5 ton koldioxidekvivalenter
 nödvändiga verktyg och rutiner, om köldmedier,
@@ -23852,11 +23852,11 @@ Ett personalcertifikat enligt artikel 4 i
 genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 7 i genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan
+2\. utsett ett sådant bedömningsorgan
 som avses i artiklarna 4.1 och 4.4 i
 genomförandeförordningen för den
 
@@ -23868,11 +23868,11 @@ genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
 
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 7 i genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan
+2\. utsett ett sådant bedömningsorgan
 som avses i artikel 8 i
 genomförandeförordningen för den
 kompetens som certifikatet gäller.
@@ -23888,11 +23888,11 @@ ett företagscertifikat enligt artikel 8 i EU-
 förordningen om certifiering för brand-
 skyddssystem ska vara utfärdat av någon
 enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 10 i EU-förordningen, och
-2. utsett ett sådant utvärderingsorgan
+2\. utsett ett sådant utvärderingsorgan
 som avses i artiklarna 5.1 och 5.4 i EU-
 förordningen för den kompetens som
 
@@ -23905,12 +23905,12 @@ i genomförandeförordningen om certifiering för elektriska brytare
 certifiering för elektriska brytare ska får trots 22 § 1 utfärdas av någon som
 
 vara utfärdat av någon enligt 22 § som får utfärda personalcertifikat enligt
-1. uppfyller kraven på opartiskhet i artikel 4 i genomförandeförordningen
+1\. uppfyller kraven på opartiskhet i artikel 4 i genomförandeförordningen
 artikel 4.1 i genomförandeförordningen, om certifiering för kyl- och värmeutrust-
-2. har kontrollerat att de förutsätt- ning.
+2\. har kontrollerat att de förutsätt- ning.
 ningar som anges i artikel 3 i genomför-
 andeförordningen är uppfyllda, och
-3. har rutiner för att fortlöpande
+3\. har rutiner för att fortlöpande
 bevaka att förutsättningarna för
 certifikatet är uppfyllda och vidta åtgärder
 enligt artikel 4.2 i
@@ -23964,7 +23964,7 @@ c) enligt de krav som avses i 19 §
 första stycket 1, eller
 d) enligt artikel 5 i EU-förordningen
 om certifiering för brandskyddssystem, och
-2. har anmält sin intygsverksamhet
+2\. har anmält sin intygsverksamhet
 hos Naturvårdsverket.
 
 30 §
@@ -24002,12 +24002,12 @@ ackreditering och teknisk kontroll. teknisk kontroll.
 34 §
 Bestämmelserna i 22–30 §§ gäller Bestämmelserna i 22–29 §§ gäller
 inte om certifikatet eller intyget inte om certifikatet eller intyget
-1. har utfärdats i ett annat land i Europeiska unionen eller Europeiska
+1\. har utfärdats i ett annat land i Europeiska unionen eller Europeiska
 ekonomiska samarbetsområdet och enligt det landets bestämmelser
 
 uppfyller kraven i de angivna EU-förordningarna eller
 genomförandeförordningarna, och
-2. visas upp i översättning till svenska.
+2\. visas upp i översättning till svenska.
 
 43 §
 Kravet på drift- och skötselinstruk- Kravet på drift- och skötselinstruk-
@@ -24061,9 +24061,9 @@ bortskaffande av sådana köldmedier.
 Haloner får trots 7 § användas i Haloner får trots 6 § användas i
 eller vid installation av brandsläck- eller vid installation av brandsläck-
 ningsanordningar som är placerade i ningsanordningar som är placerade i
-1. militära luftfartyg eller ubåtar, 1. luftfartyg eller ubåtar, eller
+1\. militära luftfartyg eller ubåtar, 1. luftfartyg eller ubåtar, eller
 eller
-2. militära fordon eller sådana stridsledningscentraler som finns i fartyg
+2\. militära fordon eller sådana stridsledningscentraler som finns i fartyg
 eller under jord, om halonerna inte kan ersättas med något annat ämne
 
 eller ny teknik.
@@ -24098,10 +24098,10 @@ ning (EU) nr 517/2014 genom att inte
 inneha ett föreskrivet certifikat ska en
 
 miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är
+1\. med 3 000 kronor, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 10 000 kronor, om den som
+2\. med 10 000 kronor, om den som
 är skyldig att betala avgiften är en
 juridisk person som inte är en ideell
 förening.
@@ -24130,10 +24130,10 @@ förordning (EU) nr 517/2014 genom att
 
 köpa fluorerad växthusgas ska en
 miljösanktionsavgift betalas
-1. med 3000 kr, om den som är
+1\. med 3000 kr, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 5 000 kronor, om den som är
+2\. med 5 000 kronor, om den som är
 skyldig att betala avgiften är en juridisk
 
 person som inte är en ideell förening.
@@ -24185,10 +24185,10 @@ För en överträdelse av 7 § förordningen
 (2016:1128) om fluorerade växthusgaser
 genom att köpa fluorerad växthusgas ska
 en miljösanktionsavgift betalas
-1. med 3 000 kr, om den som är
+1\. med 3 000 kr, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 5 000 kronor, om den som är
+2\. med 5 000 kronor, om den som är
 skyldig att betala avgiften är en juridisk
 person som inte är en ideell förening.
 
@@ -24209,9 +24209,9 @@ erade växthusgaser genom att inte erade växthusgaser genom att inte
 uppfylla föreskrivna krav på certifiering inneha ett föreskrivet certifikat ska en
 ska en miljösanktionsavgift betalas miljösanktionsavgift betalas
 
-1. med 3 000 kronor, om den som är skyldig att betala avgiften är en
+1\. med 3 000 kronor, om den som är skyldig att betala avgiften är en
 fysisk person eller en ideell förening, och
-2. med 10 000 kronor, om den som är skyldig att betala avgiften är en
+2\. med 10 000 kronor, om den som är skyldig att betala avgiften är en
 juridisk person som inte är en ideell förening.
 
 Denna förordning träder i kraft den 1 juli 2022.
@@ -24235,24 +24235,24 @@ Nuvarande lydelse        Föreslagen lydelse
 31 §4
 Den kommunala nämnden har, utöver det som följer av 26 kap. 3 § tredje
 stycket miljöbalken, ansvar för tillsynen i fråga om
-1. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
+1\. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
 som inte särskilt anges i miljöprövningsförordningen (2013:251) eller
 bilagan till förordningen (1998:899) om miljöfarlig verksamhet och
 hälsoskydd,
-2. vattentäkter som omfattas av tillståndsplikt som kommunen har
+2\. vattentäkter som omfattas av tillståndsplikt som kommunen har
 föreskrivit enligt 9 kap. 10 § miljöbalken,
-3. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
+3\. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
 29 § första stycket 3,
-4. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
+4\. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
 orsakats av en verksamhet eller åtgärd som den kommunala nämnden har
 tillsynsansvaret för,
-5. hantering av kemiska produkter, biotekniska organismer och varor i
+5\. hantering av kemiska produkter, biotekniska organismer och varor i
 andra verksamheter än miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
 utom den tillsyn som Kemikalieinspektionen utövar över primär-
 leverantörers utsläppande på marknaden enligt 21 § första stycket, och
-6. utrustning i motorfordon, flyg och 6. utrustning som innehåller
+6\. utrustning i motorfordon, flyg och 6. utrustning som innehåller
 tåg som innehåller kontrollerade kontrollerade ämnen enligt förord-
 ämnen enligt förordning (EU) nr ning (EU) nr 517/2014 eller förord-
 517/2014 eller förordning (EG) nr ning (EG) nr 1005/2009, utom den
@@ -24273,7 +24273,7 @@ Denna förordning träder i kraft den 1 juli 2022.
 
 <!-- sida 522 -->
 
-2. Nuvarande reglering
+2\. Nuvarande reglering
 
 2.1 Regelverket för fluorerade växthusgaser
 
@@ -25065,7 +25065,7 @@ på området för ämnen som bryter ner ozonskiktet rör överträdelser av
 
 bestämmelser i EU-förordningen om ozonnedbrytande ämnen.
 
-3. Förslag till ändringar i f-gasförordningen
+3\. Förslag till ändringar i f-gasförordningen
 
 3.1 En upplysning om ett bemyndigande justeras
 Förslag: Upplysningen om bemyndigandet för en bestämmelse om
@@ -26302,7 +26302,7 @@ Förtydligandet av bestämmelsen 29 § innebär att bestämmelsen i 30 § blir
 Bestämmelsens placering
 Bestämmelsen finns i 30 § f-gasförordningen och tas bort.
 
-4. Förslag till ändringar i förordningen om ozonnedbrytande ämnen
+4\. Förslag till ändringar i förordningen om ozonnedbrytande ämnen
 
 4.1 En upplysning om ett bemyndigande justeras
 
@@ -26505,7 +26505,7 @@ luftfartyg.
 Bestämmelsens placering
 Bestämmelsen finns i 10 § förordningen om ozonnedbrytande ämnen.
 
-5. Förslag till ändringar i förordningen om miljösanktionsavgifter
+5\. Förslag till ändringar i förordningen om miljösanktionsavgifter
 
 5.1 Miljösanktionsavgifter införs för överträdelse av krav på certifikat
 enligt EU-förordningen om f-gaser
@@ -26833,7 +26833,7 @@ miljösanktionsavgifter.
 
 <!-- sida 573 -->
 
-6. Förtydligande av kommunernas ansvar för tillsyn över utrustning
+6\. Förtydligande av kommunernas ansvar för tillsyn över utrustning
 som innehåller f-gaser eller ozonnedbrytande ämnen
 
 Förslag: Kommunernas ansvar för tillsyn i fråga om viss f-gasutrustning
@@ -26922,7 +26922,7 @@ marknaden enligt 2 kap. 21 § första stycket, den tillsyn som Transportstyrel-
 sen utövar enligt 2 kap. 27 § 2 och den tillsyn som länsstyrelsen utövar enligt
 2 kap. 30 §.
 
-7. Producentansvar
+7\. Producentansvar
 
 Förslag: Regleringen om producentansvar i f-gasförordningen bör stärkas.
 Det är dock lämpligt att avvakta kommissionens pågående översyn av EU-
@@ -26972,7 +26972,7 @@ producentansvar bör införas till dess resultatet av översynen kan tas i
 
 beaktande.
 
-8. Ikraftträdande
+8\. Ikraftträdande
 
 Förslag: Bestämmelserna ska träda i kraft den 1 juli 2022.
 
@@ -26986,7 +26986,7 @@ träda i kraft samtidigt, den 1 juli 2022. Det finns inte behov av några
 
 <!-- sida 576 -->
 
-9. Konsekvenser
+9\. Konsekvenser
 
 9.1 Konsekvenser för enskilda individer
 
@@ -27388,35 +27388,35 @@ författningsändringar till följd av EU:s reviderade förordningar om
 fluorerade växthusgaser och ozonnedbrytande ämnen
 
 Remissinstanser
-1. Alingsås kommun
+1\. Alingsås kommun
 
-2. Alvesta kommun
-3. Arbetsmiljöverket
+2\. Alvesta kommun
+3\. Arbetsmiljöverket
 
-4. Avfall Sverige
+4\. Avfall Sverige
 
-5. Boden kommun
-6. Boverket
+5\. Boden kommun
+6\. Boverket
 
-7. Byggföretagen
+7\. Byggföretagen
 
-8. Byggmaterialindustrierna
-9. Ekonomistyrningsverket
+8\. Byggmaterialindustrierna
+9\. Ekonomistyrningsverket
 
-10. El-Kretsen
+10\. El-Kretsen
 
-11. Elsäkerhetsverket
-12. Energiföretagen Sverige
+11\. Elsäkerhetsverket
+12\. Energiföretagen Sverige
 
-13. Falun kommun
-14. Fastighetsägarna
+13\. Falun kommun
+14\. Fastighetsägarna
 
-15. Fortifikationsverket
+15\. Fortifikationsverket
 
-16. Företagarna
-17. Försvarets materielverk
+16\. Företagarna
+17\. Försvarets materielverk
 
-18. Försvarsinspektören för hälsa och miljö
+18\. Försvarsinspektören för hälsa och miljö
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
@@ -27424,157 +27424,157 @@ E-post: kn.registrator@regeringskansliet.se
 
 <!-- sida 585 -->
 
-19. Försvarsmakten
+19\. Försvarsmakten
 
-20. Gällivare kommun
-21. Göteborg kommun
+20\. Gällivare kommun
+21\. Göteborg kommun
 
-22. Hagainitiativet
-23. Hallsberg kommun
+22\. Hagainitiativet
+23\. Hallsberg kommun
 
-24. Hjo kommun
+24\. Hjo kommun
 
-25. Hofors kommun
-26. Innovations- och Kemiindustrierna i Sverige (IKEM)
+25\. Hofors kommun
+26\. Innovations- och Kemiindustrierna i Sverige (IKEM)
 
-27. Inspektionen för vård och omsorg (IVO)
+27\. Inspektionen för vård och omsorg (IVO)
 
-28. IVL Svenska Miljöinstitutet
-29. Jönköping kommun
+28\. IVL Svenska Miljöinstitutet
+29\. Jönköping kommun
 
-30. Karlstad kommun
+30\. Karlstad kommun
 
-31. Kemikalieinspektionen
-32. Kommerskollegium
+31\. Kemikalieinspektionen
+32\. Kommerskollegium
 
-33. Konjunkturinstitutet
-34. Konkurrensverket
+33\. Konjunkturinstitutet
+34\. Konkurrensverket
 
-35. Konsumentverket
+35\. Konsumentverket
 
-36. Kungsbacka kommun
-37. Köping kommun
+36\. Kungsbacka kommun
+37\. Köping kommun
 
-38. Luleå kommun
+38\. Luleå kommun
 
-39. Landsorganisationen i Sverige (LO)
-40. Läkemedelsindustriföreningen
+39\. Landsorganisationen i Sverige (LO)
+40\. Läkemedelsindustriföreningen
 
-41. Länsstyrelsen i Blekinge län
-42. Länsstyrelsen i Dalarnas län
+41\. Länsstyrelsen i Blekinge län
+42\. Länsstyrelsen i Dalarnas län
 
-43. Länsstyrelsen i Gotlands län
+43\. Länsstyrelsen i Gotlands län
 
-44. Länsstyrelsen i Gävleborgs län
-45. Länsstyrelsen i Hallands län
+44\. Länsstyrelsen i Gävleborgs län
+45\. Länsstyrelsen i Hallands län
 
-46. Länsstyrelsen i Jämtlands län
+46\. Länsstyrelsen i Jämtlands län
 
-47. Länsstyrelsen i Jönköpings län
-48. Länsstyrelsen i Kalmar län
+47\. Länsstyrelsen i Jönköpings län
+48\. Länsstyrelsen i Kalmar län
 
 2 (6)
 
 <!-- sida 586 -->
 
-49. Länsstyrelsen i Kronobergs län
+49\. Länsstyrelsen i Kronobergs län
 
-50. Länsstyrelsen i Norrbottens län
-51. Länsstyrelsen i Skåne län
+50\. Länsstyrelsen i Norrbottens län
+51\. Länsstyrelsen i Skåne län
 
-52. Länsstyrelsen i Stockholms län
-53. Länsstyrelsen i Södermanlands län
+52\. Länsstyrelsen i Stockholms län
+53\. Länsstyrelsen i Södermanlands län
 
-54. Länsstyrelsen i Uppsala län
+54\. Länsstyrelsen i Uppsala län
 
-55. Länsstyrelsen i Värmlands län
-56. Länsstyrelsen i Västerbottens län
+55\. Länsstyrelsen i Värmlands län
+56\. Länsstyrelsen i Västerbottens län
 
-57. Länsstyrelsen i Västernorrlands län
+57\. Länsstyrelsen i Västernorrlands län
 
-58. Länsstyrelsen i Västmanlands län
-59. Länsstyrelsen i Västra Götalands län
+58\. Länsstyrelsen i Västmanlands län
+59\. Länsstyrelsen i Västra Götalands län
 
-60. Länsstyrelsen i Örebro län
+60\. Länsstyrelsen i Örebro län
 
-61. Länsstyrelsen i Östergötlands län
-62. Malmö kommun
+61\. Länsstyrelsen i Östergötlands län
+62\. Malmö kommun
 
-63. Maskinoperatörerna
-64. Mobility Sweden
+63\. Maskinoperatörerna
+64\. Mobility Sweden
 
-65. Mölndal kommun
+65\. Mölndal kommun
 
-66. Naturskyddsföreningen
-67. Näringslivets regelnämnd
+66\. Naturskyddsföreningen
+67\. Näringslivets regelnämnd
 
-68. Näringslivets transportråd
+68\. Näringslivets transportråd
 
-69. Regelrådet
-70. Riksförbundet M Sverige
+69\. Regelrådet
+70\. Riksförbundet M Sverige
 
-71. RISE Research Institutes of Sweden
-72. Ronneby kommun
+71\. RISE Research Institutes of Sweden
+72\. Ronneby kommun
 
-73. Salem kommun
+73\. Salem kommun
 
-74. Skatteverket
-75. Sorsele kommun
+74\. Skatteverket
+75\. Sorsele kommun
 
-76. Statens energimyndighet
+76\. Statens energimyndighet
 
-77. Stockholm kommun
-78. Storuman kommun
+77\. Stockholm kommun
+78\. Storuman kommun
 
 3 (6)
 
 <!-- sida 587 -->
 
-79. Sundbyberg kommun
+79\. Sundbyberg kommun
 
-80. Svenskt Näringsliv
-81. Sveriges akademikers centralorganisation
+80\. Svenskt Näringsliv
+81\. Sveriges akademikers centralorganisation
 
-82. Sveriges Kommuner och Regioner
-83. SwedenBIO
+82\. Sveriges Kommuner och Regioner
+83\. SwedenBIO
 
-84. Swedish Medtech
+84\. Swedish Medtech
 
-85. Teknikföretagen
-86. Tillväxtverket
+85\. Teknikföretagen
+86\. Tillväxtverket
 
-87. Tjänstemännens centralorganisation
+87\. Tjänstemännens centralorganisation
 
-88. Torsby kommun
-89. Totalförsvarets forskningsinstitut
+88\. Torsby kommun
+89\. Totalförsvarets forskningsinstitut
 
-90. Trafikanalys
+90\. Trafikanalys
 
-91. Trafikverket
-92. Transportföretagen
+91\. Trafikverket
+92\. Transportföretagen
 
-93. Transportstyrelsen
-94. Trelleborg kommun
+93\. Transportstyrelsen
+94\. Trelleborg kommun
 
-95. Tullverket
+95\. Tullverket
 
-96. Tågföretagen
-97. Vellinge kommun
+96\. Tågföretagen
+97\. Vellinge kommun
 
-98. Vännäs kommun
+98\. Vännäs kommun
 
-99. Västervik kommun
-100. Världsnaturfonden WWF
+99\. Västervik kommun
+100\. Världsnaturfonden WWF
 
-101. Växjö tingsrätt (mark- och miljödomstolen)
-102. Åklagarmyndigheten
+101\. Växjö tingsrätt (mark- och miljödomstolen)
+102\. Åklagarmyndigheten
 
-103. Återvinningsindustrierna
+103\. Återvinningsindustrierna
 
-104. Älvdalen kommun
-105. Ödeshög kommun
+104\. Älvdalen kommun
+105\. Ödeshög kommun
 
-106. Östersund kommun
+106\. Östersund kommun
 
 4 (6)
 

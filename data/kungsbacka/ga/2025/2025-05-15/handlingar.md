@@ -277,9 +277,9 @@ erbjuder idag utbildning till vårdbiträde, undersköterska, validering av kuns
 handledarutbildning, utbildning till språkombud samt yrkessvenska. Förvaltningen
 har även anordnat förberedande jobbspår inom vård och omsorg.
 
-Antal elever som studerar till undersköterska*
+Antal elever som studerar till undersköterska\*
 
-*(Elever i pågående studier till undersköterska, ej enstaka kurser)
+\*(Elever i pågående studier till undersköterska, ej enstaka kurser)
 
 Vård- och Omsorgscollege
 2008 skapades Vård- och omsorgscollege för att vara en drivkraft i
@@ -787,7 +787,7 @@ ungdomsarbetslösheten i Sverige, som ligger på cirka 23,8 procent.
 Det ekonomiska biståendet ligger fortsatt lågt, men under de sista kvartalen ser vi ändå en viss ökning.
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022.
+2022\.
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
 Beskedet innebär kortfattat att Skatteverket kan börja folkbokföra de ukrainare som varit här med tillfälligt
 skydd i minst två år och som planerar att fortsätta bo i Sverige.
@@ -854,7 +854,7 @@ med i den övergripande bilden.
 2.2 Nya/Inledda ärenden i arbetsmarknadsprocessen
 
 Under det första kvartalet 2025 har det varit ett något lägre inflöde i arbetsmarknadsprocessen än kvartal fyra
-2025. I genomsnitt har det varit 26 nya ärenden. De nya ärenden som kommit in i processen handlar precis som
+2025\. I genomsnitt har det varit 26 nya ärenden. De nya ärenden som kommit in i processen handlar precis som
 föregående kvartal till största del på ett ökat antal etableringsärenden, främst ukrainare. Som jämförelse var det
 under det första kvartalet 2024 i genomsnitt 25 nya ärenden. Under 2023 var det under i genomsnitt 32 nya
 ärenden under motsvarande period och under 2022 var antalet nya ärenden 29 i genomsnitt.
@@ -1139,36 +1139,36 @@ system för bosättning för vissa nyanlända (SOU 2025:35)
 
 Remissinstanser
 
-1. Arbetsförmedlingen
+1\. Arbetsförmedlingen
 
-2. Barnombudsmannen
-3. Bodens kommun
+2\. Barnombudsmannen
+3\. Bodens kommun
 
-4. Borlänge kommun
-5. Botkyrka kommun
+4\. Borlänge kommun
+5\. Botkyrka kommun
 
-6. Boverket
+6\. Boverket
 
-7. Burlövs kommun
-8. Delegationen för migrationsstudier
+7\. Burlövs kommun
+8\. Delegationen för migrationsstudier
 
-9. Diskrimineringsombudsmannen
+9\. Diskrimineringsombudsmannen
 
-10. Filipstads kommun
-11. Flyktinggruppernas riksråd, FARR
+10\. Filipstads kommun
+11\. Flyktinggruppernas riksråd, FARR
 
-12. Folkbildningsrådet
-13. Folkhälsomyndigheten
+12\. Folkbildningsrådet
+13\. Folkhälsomyndigheten
 
-14. Funktionsrätt Sverige
+14\. Funktionsrätt Sverige
 
-15. Försäkringskassan
-16. Förvaltningsrätten i Göteborg
+15\. Försäkringskassan
+16\. Förvaltningsrätten i Göteborg
 
-17. Förvaltningsrätten i Stockholm
+17\. Förvaltningsrätten i Stockholm
 
-18. Gislaveds kommun
-19. Gotland kommun
+18\. Gislaveds kommun
+19\. Gotland kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-411 36 16           Besöksadress: Fredsgatan 8
@@ -1176,146 +1176,146 @@ Webb: www.regeringen.se     E-post: a.registrator@regeringskansliet.se
 
 <!-- sida 40 -->
 
-20. Göteborgs kommun
+20\. Göteborgs kommun
 
-21. Hultsfreds kommun
-22. Hyres- och arrendenämnden i Malmö
+21\. Hultsfreds kommun
+22\. Hyres- och arrendenämnden i Malmö
 
-23. Hyres- och arrendenämnden i Sundsvall
+23\. Hyres- och arrendenämnden i Sundsvall
 
-24. Hyresgästföreningen
-25. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+24\. Hyresgästföreningen
+25\. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 
-26. Institutet för mänskliga rättigheter
-27. Integritetsskyddsmyndigheten
+26\. Institutet för mänskliga rättigheter
+27\. Integritetsskyddsmyndigheten
 
-28. Jämställdhetsmyndigheten
+28\. Jämställdhetsmyndigheten
 
-29. Kammarrätten i Jönköping
-30. Katrineholms kommun
+29\. Kammarrätten i Jönköping
+30\. Katrineholms kommun
 
-31. Kramfors kommun
+31\. Kramfors kommun
 
-32. Kronofogdemyndigheten
-33. Kungsbacka kommun
+32\. Kronofogdemyndigheten
+33\. Kungsbacka kommun
 
-34. Landsorganisationen i Sverige, LO
-35. Lessebo kommun
+34\. Landsorganisationen i Sverige, LO
+35\. Lessebo kommun
 
-36. Lidingö kommun
+36\. Lidingö kommun
 
-37. Ljusnarsbergs kommun
-38. Länsstyrelsen i Blekinge län
+37\. Ljusnarsbergs kommun
+38\. Länsstyrelsen i Blekinge län
 
-39. Länsstyrelsen i Dalarnas län
+39\. Länsstyrelsen i Dalarnas län
 
-40. Länsstyrelsen i Gotlands län
-41. Länsstyrelsen i Gävleborgs län
+40\. Länsstyrelsen i Gotlands län
+41\. Länsstyrelsen i Gävleborgs län
 
-42. Länsstyrelsen i Hallands län
-43. Länsstyrelsen i Jämtlands län
+42\. Länsstyrelsen i Hallands län
+43\. Länsstyrelsen i Jämtlands län
 
-44. Länsstyrelsen i Jönköpings län
+44\. Länsstyrelsen i Jönköpings län
 
-45. Länsstyrelsen i Kalmar län
-46. Länsstyrelsen i Kronobergs län
+45\. Länsstyrelsen i Kalmar län
+46\. Länsstyrelsen i Kronobergs län
 
-47. Länsstyrelsen i Norrbottens län
+47\. Länsstyrelsen i Norrbottens län
 
-48. Länsstyrelsen i Skåne län
-49. Länsstyrelsen i Stockholms län
+48\. Länsstyrelsen i Skåne län
+49\. Länsstyrelsen i Stockholms län
 
 2 (5)
 
 <!-- sida 41 -->
 
-50. Länsstyrelsen i Södermanlands län
+50\. Länsstyrelsen i Södermanlands län
 
-51. Länsstyrelsen i Uppsala län
-52. Länsstyrelsen i Värmlands län
+51\. Länsstyrelsen i Uppsala län
+52\. Länsstyrelsen i Värmlands län
 
-53. Länsstyrelsen i Västerbottens län
+53\. Länsstyrelsen i Västerbottens län
 
-54. Länsstyrelsen i Västernorrlands län
-55. Länsstyrelsen i Västmanlands län
+54\. Länsstyrelsen i Västernorrlands län
+55\. Länsstyrelsen i Västmanlands län
 
-56. Länsstyrelsen i Västra Götalands län
-57. Länsstyrelsen i Örebro län
+56\. Länsstyrelsen i Västra Götalands län
+57\. Länsstyrelsen i Örebro län
 
-58. Länsstyrelsen i Östergötlands län
+58\. Länsstyrelsen i Östergötlands län
 
-59. Malmö kommun
-60. Migrationsverket
+59\. Malmö kommun
+60\. Migrationsverket
 
-61. Mittuniversitetet
+61\. Mittuniversitetet
 
-62. Motala kommun
-63. Myndigheten för delaktighet
+62\. Motala kommun
+63\. Myndigheten för delaktighet
 
-64. Myndigheten för ungdoms- och civilsamhällesfrågor
-65. Olofströms kommun
+64\. Myndigheten för ungdoms- och civilsamhällesfrågor
+65\. Olofströms kommun
 
-66. Pensionsmyndigheten
+66\. Pensionsmyndigheten
 
-67. Region Blekinge
-68. Region Gävleborg
+67\. Region Blekinge
+68\. Region Gävleborg
 
-69. Region Sörmland
+69\. Region Sörmland
 
-70. Region Västerbotten
-71. Rädda Barnen
+70\. Region Västerbotten
+71\. Rädda Barnen
 
-72. Röda Korset
-73. Sandvikens kommun
+72\. Röda Korset
+73\. Sandvikens kommun
 
-74. Skatteverket
+74\. Skatteverket
 
-75. Skellefteå kommun
-76. Socialstyrelsen
+75\. Skellefteå kommun
+76\. Socialstyrelsen
 
-77. Staffanstorps kommun
+77\. Staffanstorps kommun
 
-78. Statens skolverk
-79. Statistiska centralbyrån
+78\. Statens skolverk
+79\. Statistiska centralbyrån
 
 3 (5)
 
 <!-- sida 42 -->
 
-80. Stockholms kommun
+80\. Stockholms kommun
 
-81. Stockholms universitet, juridiska institutionen
-82. Strömstads kommun
+81\. Stockholms universitet, juridiska institutionen
+82\. Strömstads kommun
 
-83. Svea hovrätt
+83\. Svea hovrätt
 
-84. Svenska kyrkan
-85. Svenskt Näringsliv
+84\. Svenska kyrkan
+85\. Svenskt Näringsliv
 
-86. Sveriges akademikers centralorganisation, Saco
-87. Sveriges allmännytta
+86\. Sveriges akademikers centralorganisation, Saco
+87\. Sveriges allmännytta
 
-88. Sveriges Kommuner och Regioner, SKR
+88\. Sveriges Kommuner och Regioner, SKR
 
-89. Sveriges stadsmissioner
-90. Södertälje kommun
+89\. Sveriges stadsmissioner
+90\. Södertälje kommun
 
-91. Tjänstemännens centralorganisation, TCO
+91\. Tjänstemännens centralorganisation, TCO
 
-92. Umeå kommun
-93. UNHCR:s kontor för de nordiska och baltiska länderna
+92\. Umeå kommun
+93\. UNHCR:s kontor för de nordiska och baltiska länderna
 
-94. Uppsala kommun
-95. Valdemarsviks kommun
+94\. Uppsala kommun
+95\. Valdemarsviks kommun
 
-96. Vänersborgs kommun
+96\. Vänersborgs kommun
 
-97. Västerås kommun
-98. Västra Götalandsregionen
+97\. Västerås kommun
+98\. Västra Götalandsregionen
 
-99. Åre kommun
+99\. Åre kommun
 
-100. Östra Göinge kommun
+100\. Östra Göinge kommun
 
 Remissvaren ska ha kommit in till Arbetsmarknadsdepartementet senast
 den 4 augusti 2025. Svaren bör lämnas per e-post till
@@ -3464,42 +3464,42 @@ kunna fortsätta i någon form även om caféet kommer att drivas av någon i me
 regi. Nu blir det mycket godis och dricka men ingen frukt eller mackor.
 
 Elevernas frågor från Aranäs
-- Önskar en taxificka utanför Aranäs. Vi vill ha en på framsidan för de som kan ta
+\- Önskar en taxificka utanför Aranäs. Vi vill ha en på framsidan för de som kan ta
 sig dit. Känns bättre att gå in i stora entrén i stället för att behöva komma
 bakvägen.
 
 Aktuellt från Elof Lindälv
 
-- Berättar om UF-företaget. Säljer egengjorda halsband och armband. Har varit
+\- Berättar om UF-företaget. Säljer egengjorda halsband och armband. Har varit
 med på bl.a. UF-mässan i Halmstad och ska stå på torget nästa vecka.
 
 Elevernas frågor på Elof Lindälv.
 
-- Varför var det så bråttom att flytta från mobilen när den ändå inte rivs förrän nu?
+\- Varför var det så bråttom att flytta från mobilen när den ändå inte rivs förrän nu?
 Svar: svårt med hyreskontrakt som kanske måste förnyas för ett helt år trots att
 lokalen bara behövs någon månad och då blir det väldigt dyrt.
 
-- Varför är det så mkt vegetarisk mat i skolan? Vi vill ha mer kött i bamba.
+\- Varför är det så mkt vegetarisk mat i skolan? Vi vill ha mer kött i bamba.
 
-- Finns det möjlighet att utöka verkstaden? Det blir trångt. Vi kan inte ta emot alla
+\- Finns det möjlighet att utöka verkstaden? Det blir trångt. Vi kan inte ta emot alla
 som söker.
 
 <!-- sida 98 -->
 
-- Vad händer med Caféet? Behöver vara en permanent lösning. Just nu tillfälliga
+\- Vad händer med Caféet? Behöver vara en permanent lösning. Just nu tillfälliga
 lösningar på skolorna där olika klasser driver café. Klasser har en vecka i taget.
 AHV kommer att ansvara v20 på Lindälv. Blir mycket godis och drickor.
 
-- Uppehållsyta för RL/HRB saknas borta i B-korridoren. Finns inget ”häng” för
+\- Uppehållsyta för RL/HRB saknas borta i B-korridoren. Finns inget ”häng” för
 restaurangeleverna vilket gör att de ofta samlas i omklädningsrummen, både
 tjejer och killar. Jobbigt för de som ska byta om.
 
 Frågor till eleverna
 
-- Frågor till eleverna: hur går det med uteplatsen på Aranäs? Det pågår en
+\- Frågor till eleverna: hur går det med uteplatsen på Aranäs? Det pågår en
 utredning om omfattning och vad det ska användas till. Fritid? Lärande?
 
-- Önskvärt från Helena och Maj-Louise att få en heldag på skolorna med
+\- Önskvärt från Helena och Maj-Louise att få en heldag på skolorna med
 efterföljande möte. Fm på Aranäs och em på Elof.
 
 Övriga frågor
@@ -3508,7 +3508,7 @@ Oro kring att högstadiet flyttar från kollaskolan. Alla högstadieelever utom
 Anpassad grundskola. De tonåringarna tvingas gå kvar på en låg- och
 mellanstadieskola och träffar inga andra tonåringar.
 
-- Oro kring Restaurang och livsmedelsprogrammets paus. Vad händer med
+\- Oro kring Restaurang och livsmedelsprogrammets paus. Vad händer med
 lokalerna för HRB om RL-programmet läggs ner?
 
 •  Nästa möte: Heldag på skolorna med uppföljande möte på em. Elof Lindälv bjuder in.
@@ -3686,7 +3686,7 @@ Antagen 28 april 2025
 
 Revisionsplan 2025
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -3710,7 +3710,7 @@ och stiftelser genom de lekmannarevisorer/valda revisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -3744,7 +3744,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2025
+3\. Grundläggande granskning 2025
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -3829,7 +3829,7 @@ Tillsammans med Region Halland och länets övriga kommuner har Kungsbacka kommu
 samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam nämnd för
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 Fördjupade granskningar
 
 Fördjupade projekt avser granskningar inom specifika områden som berör kommunen centralt eller
@@ -3861,7 +3861,7 @@ Inga förstudier har ännu planerats inför 2025. Ytterligare förstudier kan ti
 
 uppdateras med dessa när revisionen fattat beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -3875,14 +3875,14 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
 
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
 
--  driftredovisning och investeringsredovisning samt noter
--  sammanställda räkenskaper
+\-  driftredovisning och investeringsredovisning samt noter
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
+\-  förvaltningsberättelse
 
--  delårsrapport
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 interna kontroll i processer som är väsentliga vid upprättande av finansiella rapporter.
@@ -3904,7 +3904,7 @@ resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs ino
 
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 
 Lekmannarevisionen av kommunens bolag och de valda revisorernas granskning av stiftelsen
 omfattar en grundläggande granskning av bolagen och stiftelsen. Utgångspunkt för granskningen är

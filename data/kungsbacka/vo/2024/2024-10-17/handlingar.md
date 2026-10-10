@@ -42,10 +42,10 @@ med kognitiv svikt på Signeshus, och anser uppdraget fullgjort.
 Sammanfattning av ärendet
 Nämnden för Vård & Omsorg gav i februari förvaltningschefen i uppdrag att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan
 avdelning på Signes Hus
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
 donationer.
 
 Utredningen visar att avdelning Brokö på Signeshus skulle kunna vara en lämplig lokal om det finns
@@ -430,7 +430,7 @@ Sammanfattning av ärendet
 
 Taxor och avgifter inom Vård & Omsorg är baserade på prisbasbeloppet, PBB. Prisbasbeloppet för
 2025 höjs från 57 300 till 58 800 kronor, samt att nämnden för Service justerar priser med 3,0% för
-2025. Därmed justeras följande avgifter.
+2025\. Därmed justeras följande avgifter.
 
 Kommunfullmäktige tog beslut om förändrat beräkningssätt för taxor och avgifter för Vård & Omsorg,
 dnr VO/2016:19 §13. I beslutet delegerar kommunfullmäktige beslutsrätt om uppräknade taxor och
@@ -485,9 +485,9 @@ Taxor och avgifter som berörs av det förändrade prisbasbeloppet, PBB, för 20
 
 | Beräkning 2025 2024 |  |  |  |
 | --- | --- | --- | --- |
-| Förbehållsbelopp, ensamstående | 1,4789*PBB/12 | 7 247kr/mån | 6 706 kr/mån |
-| Förbehållsbelopp,<br>gifta/sammanboende | 1,2066*PBB/12 | 5 912 kr/mån | 5 584 kr/mån |
-| Förhöjt förbehållsbelopp, under 65<br>år ensamstående | Förbehållsbelopp<br>*1,1 | 7 971 kr/mån | 7 377 kr/mån |
+| Förbehållsbelopp, ensamstående | 1,4789\*PBB/12 | 7 247kr/mån | 6 706 kr/mån |
+| Förbehållsbelopp,<br>gifta/sammanboende | 1,2066\*PBB/12 | 5 912 kr/mån | 5 584 kr/mån |
+| Förhöjt förbehållsbelopp, under 65<br>år ensamstående | Förbehållsbelopp<br>\*1,1 | 7 971 kr/mån | 7 377 kr/mån |
 
 <!-- sida 12 -->
 
@@ -501,15 +501,15 @@ Förvaltningschef                   Ekonomichef
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Förhöjt förbehållsbelopp, under 65<br>år gifta/sammanboende | Förbehållsbelopp<br>*1,1 | 6 504 kr/mån | 6 142 kr/mån |
+| Förhöjt förbehållsbelopp, under 65<br>år gifta/sammanboende | Förbehållsbelopp<br>\*1,1 | 6 504 kr/mån | 6 142 kr/mån |
 | --- | --- | --- | --- |
-| Omsorgsavgift (maxtaxa) | 0,5392*PBB/12 | 2 642 kr/mån | 2 575 kr/mån |
-| Hyra särskilt boende (utanför<br>hyreslagen) | 0,5539*PBB/12 | 2 714 kr/ mån | 2 645 kr/ mån |
+| Omsorgsavgift (maxtaxa) | 0,5392\*PBB/12 | 2 642 kr/mån | 2 575 kr/mån |
+| Hyra särskilt boende (utanför<br>hyreslagen) | 0,5539\*PBB/12 | 2 714 kr/ mån | 2 645 kr/ mån |
 | Timtaxa Hemtjänst | 10% av maxtaxan | 264 kr/tim | 257 kr/tim |
 | Avgift för korttidsplats Omsorg | Maxtaxa/30 | 88 kr/dygn | 86 kr/dygn |
 | Avgift för dagomsorg | Maxtaxa/90 | 29 kr/dag | 29 kr/dag |
-| Trygghetslarm | 0,00562*PBB | 330 kr/dag | 322 kr/dag |
-| Patientavgift HSV, 18-84 år | 0,00634*PBB | 373 kr/ mån | 363 kr/ mån |
+| Trygghetslarm | 0,00562\*PBB | 330 kr/dag | 322 kr/dag |
+| Patientavgift HSV, 18-84 år | 0,00634\*PBB | 373 kr/ mån | 363 kr/ mån |
 
 [Tabell 12-2](handlingar.tabeller/12-2.csv)
 
@@ -1344,11 +1344,11 @@ Förvaltningschef                   Utvecklingschef
 
 Erinran om sekretess och straffansvar
 Jag, XX, deltar i arbetet med Analytics i Kungsbacka kommun. För att kunna utföra mina
-arbetsuppgifter inom ramen för uppdraget får jag tillgång till <förvaltningens> uppgifter som
+arbetsuppgifter inom ramen för uppdraget får jag tillgång till \<förvaltningens> uppgifter som
 finns lagrade i de system som data hämtas ifrån för beredning alternativt lagring i
 
 kommunens datalager för Analyticslösningen.
-Genom arbetet med Analytics deltar jag i <förvaltningens> verksamhet på liknande grund
+Genom arbetet med Analytics deltar jag i \<förvaltningens> verksamhet på liknande grund
 som anställning eller uppdrag, i enlighet med 2 kap 1 § 3 p. i offentlighets- och
 sekretesslagen (2009:400). Det innebär att jag omfattas av offentlighets- och sekretesslagens
 bestämmelser om sekretess.
@@ -1369,11 +1369,11 @@ uppdrag kan jag göra mig skyldig till dataintrång enligt 4 kap 9c § brottsbal
 
 Härmed intygas att jag tagit del av ovanstående.
 
-Kungsbacka den _________________________
+Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Personnummer: __________________________
+Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Underskrift och namnförtydligande
 
 2102
@@ -1419,7 +1419,7 @@ a u
 r
 ö
 é
--
+\-
 n k
 8
 n
@@ -1793,10 +1793,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Vård & Omsorg arbetar aktivt med fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man
 behöver stöd för att få livet att fungera" genom flertalet målaktiviteter.
@@ -1814,11 +1814,11 @@ eller funderingar.
 En halvtidsavstämning genomfördes under våren 2024. Vid halvtidsavstämningen hade pilotenheterna inte
 arbetat enligt det nya arbetssättet under så lång tid, därav kunde inte några definitiva slutsatser av effekterna
 dras. Det som kan fastställas som positiva kvalitativa effekter är:
-- Det nya sättet att skriva utredningar på är i linje med IBIC och utan minutstyrning
-- Det nya sättet att skriva genomförandeplanerna på visar hög delaktighet och utgår från IBIC
-- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd har stärkts
-- Indelning i mindre arbetslag med egna möten i hemtjänsten
-- Personalkontinuiteten gått åt rätt håll vid jämförelse mellan januari 2024 och april/maj 2024.
+\- Det nya sättet att skriva utredningar på är i linje med IBIC och utan minutstyrning
+\- Det nya sättet att skriva genomförandeplanerna på visar hög delaktighet och utgår från IBIC
+\- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd har stärkts
+\- Indelning i mindre arbetslag med egna möten i hemtjänsten
+\- Personalkontinuiteten gått åt rätt håll vid jämförelse mellan januari 2024 och april/maj 2024.
 Vid halvtidsavstämningen kan det ännu inte uttydas några tydliga effekter kring sjukfrånvaro, övertid och
 vikariekostnader. Detta då resultaten svänger mycket för varje enhet under perioden januari-maj. Effekter
 gällande de ekonomiska nyckeltalen kan av samma anledning inte uttydas men budgeten för hela hemtjänsten
@@ -1938,11 +1938,11 @@ och resurseffektivt sätt med Greta i fokus.
 
 Förvaltningen har under våren genomfört pilot av Kungsbacka modellen i distrikt Väst. Vid halvtidsuppföljning
 under våren kan vissa positiva trender ses bland annat:
-- Det nya sättet att skriva utredningar på (IBIC, slopad minutstyrning från Bistånd),
-- Det nya sättet att skriva genomförandeplanerna på
-- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd
-- Indelning i mindre arbetslag med egna möten i hemtjänsten
-- Personalkontinuiteten har gått åt rätt håll
+\- Det nya sättet att skriva utredningar på (IBIC, slopad minutstyrning från Bistånd),
+\- Det nya sättet att skriva genomförandeplanerna på
+\- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd
+\- Indelning i mindre arbetslag med egna möten i hemtjänsten
+\- Personalkontinuiteten har gått åt rätt håll
 Pilotenheterna och arbetsgrupper arbetar vidare med att testa och utvärdera det nya arbetssättet. I slutet av
 augusti 2024 skedde en större utvärdering av piloten för att summera arbetet och ge bästa möjliga
 förutsättningar för resterna enheter som ska införa Kungsbackamodellen under 2024 och 2025. Juni 2025 ska
@@ -1984,13 +1984,13 @@ stöd för att få livet att fungera".
 Indikatorer                   Utfall  Utfall  Utfall Utfall Målvärde
 2021   2022    2023  2024    2024
 Andel aktuella genomförandeplaner inom
--     89,5 %  98,3 %
+\-     89,5 %  98,3 %
 vård- och omsorgsboende, egenregi
 Andel aktuella genomförandeplaner inom
--     78,3 %  96,7 %
+\-     78,3 %  96,7 %
 hemtjänsten, egenregi
 Andel aktuella genomförandeplaner inom
--     84,6 %  77,3 %
+\-     84,6 %  77,3 %
 korttidsboende, egenregi
 Resultat för 2024 redovisas på helårsbasis; Årsredovisning 2024
 
@@ -2015,9 +2015,9 @@ Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2024
 
 Andel aktuella
-genomförandeplaner 67,4%          77,3%            *
+genomförandeplaner 67,4%          77,3%            \*
 inom kortid, egenregi
-*Den 24 januari 2024 fattade nämnden för Vård & Omsorg beslut om ny vägledning för skälighetsnivå. Ny vägledning innebär att beslut
+\*Den 24 januari 2024 fattade nämnden för Vård & Omsorg beslut om ny vägledning för skälighetsnivå. Ny vägledning innebär att beslut
 om korttidsboende förändras från 3 veckor till att vara på 1 vecka. Rutinen för upprättande av genomförandeplaner säger att inom 4
 veckor på vård- och omsorgsboende och hemtjänst ska en genomförandeplan upprättas, på korttiden ska en genomförandeplan upprättas
 efter 1 vecka. Det innebär att tidigare arbetssätt med genomförandeplaner på korttiden behöver ses över för att säkerställa
@@ -2029,18 +2029,18 @@ dokumentationssystemet.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                   Utfall  Utfall  Utfall
 2021   2022    2023
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 % 88 %   85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -2050,18 +2050,18 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 77 % 72 %   79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 93 %   92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %   65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 
 9
 
@@ -2076,7 +2076,7 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %   85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -2095,7 +2095,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -2111,8 +2111,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 10
@@ -2149,8 +2149,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av nämndens arbete med målet
 Vård & Omsorg arbetar aktivt med att stärka individens och familjens förmåga att ta hand om sitt liv i enlighet
 med fokusområdet.
@@ -2224,9 +2224,9 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
 
 12
@@ -2236,8 +2236,8 @@ kommunen.
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2024
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av nämndens arbete med målet
 Delaktighet och medskapande är en viktig del inom ramen för förvaltningens arbete med ett samhälle i
@@ -2455,7 +2455,7 @@ Antal lägenheter på vård- och
 omsorgsboende
 Antal lägenheter för korttids/växelvård 62 62 62      60      60
 Beläggningsgrad vård- och
--     92 %    97 %      96 %
+\-     92 %    97 %      96 %
 omsorgsboende
 Antal timmar hemtjänst     580 297 582 438 537 632 545 404 364 070
 Kö till vård- och omsorgsboende 29  20      53        67      71

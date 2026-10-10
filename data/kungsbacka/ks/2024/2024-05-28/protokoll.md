@@ -1252,9 +1252,9 @@ för skydd mot andra olyckor än brand. Handlingsprogrammet ska vara ett
 övergripande politiskt styrdokument som beskriver vilka risker som finns inom
 förbundsområdet samt vilken förmåga som finns för att
 
-1) minska sannolikheten för att olyckorna inträffar
+1\) minska sannolikheten för att olyckorna inträffar
 
-2) minska konsekvenserna av inträffade olyckor.
+2\) minska konsekvenserna av inträffade olyckor.
 Handlingsprogrammet beskriver även övergripande hur Räddningstjänsten
 Storgöteborg, tillsammans med sina medlemskommuner, ska arbeta för att sträva mot
 de nationella målen i LSO samt, utifrån den riskbild och de behov som finns, utforma

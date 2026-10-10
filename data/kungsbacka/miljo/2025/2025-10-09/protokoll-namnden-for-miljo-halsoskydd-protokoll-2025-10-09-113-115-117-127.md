@@ -289,10 +289,10 @@ Beslut
 Nämnden för Miljö & Hälsoskydd beslutar att revidera Tillsynsplan 2025 för tillsyn
 enligt miljöbalken, 2024-12-05 § 159, enligt följande:
 
-* Styrd tid minskar med cirka 100 timmar
-* Händelsestyrd tid minskar med cirka 650 timmar
+\* Styrd tid minskar med cirka 100 timmar
+\* Händelsestyrd tid minskar med cirka 650 timmar
 
-* Behovsprioriterad tid minskar med cirka 400 timmar
+\* Behovsprioriterad tid minskar med cirka 400 timmar
 Revideringen avser innevarande år (2025).
 
 Sammanfattning av ärendet
@@ -300,10 +300,10 @@ Nämnden för Miljö & Hälsoskydd beslutade 2024-12-05 § 159 om en tillsynspla
 2025 för tillsyn enligt miljöbalken. Förvaltningen föreslår att tillsynsplanen revideras
 vad gäller innevarande år (2025) inom följande kategorier:
 
-* Styrd tid
+\* Styrd tid
 
-* Händelsestyrd tid
-* Behovsprioriterad tid
+\* Händelsestyrd tid
+\* Behovsprioriterad tid
 
 Nämnden för Miljö & Hälsoskydd arbetar för att alla som bedriver en verksamhet
 eller vidtar en åtgärd, som kan påverka människors hälsa eller miljön, ska minska
@@ -647,7 +647,7 @@ beslutas i riksdagen den 22 oktober 2025 och kommer att träda i kraft den 1
 december 2025.
 
 Katarina informerar vidare om Nöjd Kund Index (NKI) per kvartal samt för helåret
-2025.
+2025\.
 Nämnden för Miljö & Hälsoskydd får en återrapportering från förvaltningsdagen
 
 som ägde rum den 3 september. Under dagen var det bland annat en föreläsning

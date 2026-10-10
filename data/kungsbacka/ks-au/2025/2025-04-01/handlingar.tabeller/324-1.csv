@@ -1,0 +1,33 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+"Verksamhetsområ
+de:",Informationsförvaltning,,,,
+Processgrupp:,Arkivering,,,,
+Process:,Överföra e-handlingar till mellanarkiv,,,,
+Processnummer:,2.1.4.2,,,,
+Aktivitet,Handling,Förvaring,"Form
+at",Bevara/Gallra,Anmärkning
+Initiera leverans,Behovsbeskrivning,Diarium,Digitalt,Bevaras,
+,Underlag för utredning,"Samarbetsru
+m",Digitalt,Vid inaktualitet,"Inkommer från förvaltningarna i fasen
+utreda."
+"Dokumentera
+leverans",Aktivitetslista,Samarbetsrum,Digitalt,Vid inaktualitet,
+,Korrespondens,"Se
+anmärkning",Digitalt,Se anmärkning,"Korrespondens av betydelse diarieförs.
+Korrespondens av ringa eller tillfällig
+betydelse gallras vid inaktualitet."
+,Mötesanteckning,Samarbetsrum,Digitalt,Vid inaktualitet,
+,Mappning,Samarbetsrum,Digitalt,Vid inaktualitet,"Används vid metadatafil i filformatet
+XML."
+,Objektkonfiguration,Samarbetsrum,Digitalt,Bevaras,
+,Metadatafil,Samarbetsrum,Digitalt,Bevaras,"Strukturen bevaras i samarbetsrummet,
+men informationen gallras vid
+projektavslut.
+Benämns även Preingest."
+,Script,Samarbetsrum,Digitalt,Bevaras,
+,Visningsmall,Samarbetsrum,Digitalt,Bevaras,
+,Valideringskvitto,Outlook,Digitalt,Vid inaktualitet,Validerar metadatafilen.
+,Konverteringskvitto,Outlook,Digitalt,Vid inaktualitet,"Visar antal godkända och ej godkända
+arkivobjekt."
+,Konverteringsrapport,Outlook,Digitalt,Vid inaktualitet,"Visar antal lyckade, ej genomförda och
+misslyckade konverteringar."

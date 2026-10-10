@@ -496,17 +496,17 @@ Beslut
 Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att med
 tillagd prioriteringslista;
 
-1. Marios gata
-2. Kompetenscentrum
+1\. Marios gata
+2\. Kompetenscentrum
 
-3. TE-programmet
+3\. TE-programmet
 Omarbeta Lokalbehov 2026-2030 med utblicksår 2031-2035 samt ger ordförande
 Axel Storckenfeldt (M) i uppdrag att godkänna skrivelsen.
 
 Sammanfattning av ärendet
 
 Varje år beslutar nämnderna om bedömt lokalbehov de kommande fem åren (2026–
-2030) med fokus på det femte året. Till hjälp används beslutade
+2030\) med fokus på det femte året. Till hjälp används beslutade
 befolkningsprognoser. Det krävs behovsanalyser till de fem första åren.
 
 Behoven sammanställs i en lokalplan som utgör del av kommunens flerårsbudget.
@@ -541,10 +541,10 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-10-23
 
-1. Marios gata
-2. Kompetenscentrum
+1\. Marios gata
+2\. Kompetenscentrum
 
-3. TE-programmet
+3\. TE-programmet
 omarbeta förvaltningens förslag till Lokalbehov 2026–2030 med utblicksår 2031-
 2035 samt att nämnden ger ordföranden rätt att godkänna skrivelsen innan den
 
@@ -585,10 +585,10 @@ Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad beslutar att
 
-* godkänna nämndbudget 2025 med verksamhetsplan och ramfördelning
-* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
+\* godkänna nämndbudget 2025 med verksamhetsplan och ramfördelning
+\* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
 
-* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
+\* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
 Förvaltningsbudgeten under året samt att informera nämnden om dessa i samband
 med delårsrapport och bokslut
 
@@ -597,13 +597,13 @@ Kommunfullmäktige beslutade 2024-06-13 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
 
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Nämndmål
-* Nämndens direktiv till förvaltningen
+\* Nämndmål
+\* Nämndens direktiv till förvaltningen
 
-* Ramfördelning driftbudget
-* Investeringsbudget
+\* Ramfördelning driftbudget
+\* Investeringsbudget
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
@@ -1035,11 +1035,11 @@ Sammanfattning av ärendet
 1& 2 Beslut från Skolinspektionen avseende kvalitetsgranskning av studie- och
 yrkesvägledningen inom Komvux i Kungsbacka.
 
-3. Uppföljningsbeslut från Skolinspektionen gällande Aranäsgymnasiet enhet 2.
+3\. Uppföljningsbeslut från Skolinspektionen gällande Aranäsgymnasiet enhet 2.
 4 & 5 Beslut och riktlinje: Studiebesök för förtroendevalda
 
 6 & 7 Beslut Fördelning av extra resurser till skolor 2024
-8. Protokoll FSG 2024-10-15
+8\. Protokoll FSG 2024-10-15
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &

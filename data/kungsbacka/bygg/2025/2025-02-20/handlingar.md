@@ -271,11 +271,11 @@ får i uppdrag att utreda förutsättningarna för att ansöka om ett kommunalt 
 
 2 juni 2024
 
-_________________________           __________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Thure Sandén (M)                    Daniel Hognert (M)
 
-__________________________          ____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 2 (2)
@@ -375,15 +375,15 @@ byggnadsnämnden från att anta en nämndbudget för 2024 och har i stället ant
 strategidokument. I årsredovisningen 2024 ingår därför inte uppföljning av
 kommunfullmäktiges mål. I sin helhet innehåller årsredovisningen:
 
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat nämnden
 
-* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
-* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
+\* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
+\* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
 personalnyckeltal
 
-* Uppföljning av ekonomi
-* Hållbarhetsbokslut
+\* Uppföljning av ekonomi
+\* Hållbarhetsbokslut
 
 Nämnden håller en hög takt i innovations och utvecklingsarbetet och bedömer att
 kommunfullmäktiges direktiv om innovation och omställning uppnåtts.
@@ -1041,10 +1041,10 @@ Uppföljningen av det systematiska arbetsmiljöarbetet tyder på att en stor del
 arbetsmiljöarbetet bedrivs på ett ändamålsenligt sätt och att det finns väl fungerande rutiner i förvaltningen för
 att undersöka arbetsmiljön och åtgärda eventuella brister och risker som framkommer, samtidigt som att det
 finns ytterligare behov av utveckling inom området. Under 2025 kommer förvaltningen fokusera på:
-- riskbedömningar
+\- riskbedömningar
 
-- fortsatt arbete med resultaten av puls-mätningar på enhetsnivå
-- fortsatt arbete med utvecklande medarbetarskap
+\- fortsatt arbete med resultaten av puls-mätningar på enhetsnivå
+\- fortsatt arbete med utvecklande medarbetarskap
 
 4.2 Kompetensförsörjning
 
@@ -1548,7 +1548,7 @@ brister och det är viktigt att arbetet fortsätter för att upptäcka och förh
 riskerar att orsaka allvarliga skador i miljön, osund konkurrens samt stora samhällskostnader. Flera avvikelser
 som har uppmärksammats har åtgärdats och projektet har lett till en ökad förståelse och kunskap varför det är så
 viktigt att bedriva tillsynen för att minska brottsligheten av illegal avfallshantering.
-9. HÅLLBAR INDUSTRI, INNOVATIONER OCH INFRASTRUKTUR
+9\. HÅLLBAR INDUSTRI, INNOVATIONER OCH INFRASTRUKTUR
 
 Under året har förvaltningen arbetat med flera olika innovationssprintar för att ställa om våra verksamheter för
 en hållbar framtid framåt, bland annat har vi utvecklat en AI lösning som ska hjälpa våra kunder i
@@ -1564,7 +1564,7 @@ och värdeskapande och likaså har förvaltningen implementerat en ny form av di
 privatpersoner som driver hästgårdar, vilket har gett effekten av mer värdeskapande tjänst gentemot kund och
 frigjord tid som kan användas till att fortsätta utveckla verksamheten och utföra tillsyn inom fler områden för ett
 mer hållbart samhälle.
-11. HÅLLBARA STÄDER OCH SAMHÄLLEN
+11\. HÅLLBARA STÄDER OCH SAMHÄLLEN
 Under året har förvaltningen påbörjat ett omfattande arbete mot en obruten digital samhällsbyggnadsprocess där
 geodata spelar en väsentlig och avgörande roll. Målet är att Kungsbacka kommun ska kunna fatta bättre beslut
 som skapar en mer hållbar framtid och kommun genom att använda och utnyttja den data som finns i hela
@@ -1610,7 +1610,7 @@ inte går att få svar på via e-tjänsten, till exempel om gödselplattan är t
 tillfredställande på en frisörsalong. Väl ute på plats har medarbetarna med sig digitala, korta checklistor som
 direkt hamnar ärendesystemet och kan generera färdiga rapporter. Effekten är bland annat frigjord tid för kund
 och för medarbetaren som kan arbeta med mer värdeskapande uppgifter inom miljön.
-13. BEKÄMPA KLIMATFÖRÄNDRINGARNA
+13\. BEKÄMPA KLIMATFÖRÄNDRINGARNA
 Utsläppen av växthusgaser fortsätter att stiga och som följd riskerar vi att nå en genomsnittlig global
 uppvärmning som överstiger två grader, vilket skulle få allvarliga konsekvenser för ekosystem, havsförsurning,
 mänsklig säkerhet, matproduktion, vattentillgång, hälsa och ökad risk för naturkatastrofer. För att minska
@@ -1643,7 +1643,7 @@ Likaså rådgivning gentemot våra livsmedelsföretag med syftet att de ska insp
 energianvändning. Tillsynsaktiviteten ska stödja våra kunder att skapa en mer hållbar energi och minska
 utsläppen av våra växthusgaser.
 
-14. HAV OCH MARINA RESURSER
+14\. HAV OCH MARINA RESURSER
 Badvattenprovtagningen har varit i fokus under sommaren och extra provtagningar har utförts för att säkerställa
 en god badvattenkvalitet. Stor vikt har lagts på samverkan mellan förvaltningar och tydlig information till
 kommunens invånare så att de kunnat känna sig trygga med att bada i Kungsbacka. Årets provtagningar visar på
@@ -1666,7 +1666,7 @@ kommunen med planen att fortsätta längs med hela kuststräckan. Inför tillsyn
 informera allmänheten och fastighetsägare som ska få besök för att öka förståelse och kunskapen om varför det
 är viktigt att bevara våra strandnära områden. Avvikelser har uppmärksammats under strandskyddskampanjen
 och flera av dessa har kunnat åtgärdas direkt på plats.
-17. GENOMFÖRANDE OCH GLOBALT PARTNERSKAP
+17\. GENOMFÖRANDE OCH GLOBALT PARTNERSKAP
 Vi har under året gått med i ett eu projekt, European Citiverses Uniting for Inclusiveness, som har syftet att
 driva på utvecklingen av interoperabla lokala digitala tvillingar över hela Europa. Projektet ska utveckla ett så
 kallat användarfall (en digital tjänst med hög mognadsnivå) och främja den digitala kompetensen inom hela
@@ -1771,12 +1771,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024 på
 4 014 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
 ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
+\* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
 1 117 000 kronor ombudgeteras till 2025.
 
-* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 
@@ -1805,18 +1805,18 @@ Ombudgeteringar och resultatfond
 
 Kostnader anges med (-), belopp i tkr
 Fyll i endast er nämnds blad och justera inga summeringar. Samtliga sparar i samma arbetsbok.
-1. Driftsredovisning - begäran om resultatdisponering
+1\. Driftsredovisning - begäran om resultatdisponering
 
 I steg 1 alla nämnder/styrelse redovisar årsbudget, utfall och avvikelse i kommungemensam arbetsbok
 med nämndens blankett gul del                                  Steg 2
 omfattar att orsakerna till avvikelser ska klassificeras som underskott eller överskott enligt
 ekonomistyrprinciperna i kommungemensam arbetsbok nämndens blankett grön del. För överskott
 används olika typer enligt nedan:
-* Typ 1 – planerad verksamhet har inte utförts - återredovisas
-* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
-* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
+\* Typ 1 – planerad verksamhet har inte utförts - återredovisas
+\* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
+\* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
 
-* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
+\* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
 
 I steg 3 redovisas nämndens begäran om resultatdisponering (blankett blå del).
 
@@ -1862,7 +1862,7 @@ egna effektiviseringar.
 återredovisas, resterande överskott
 förs till nämndens resultatfond
 Överskott projekt ombudgeteras till
-2025. Utveckling av GIS-verksamhet är
+2025\. Utveckling av GIS-verksamhet är
 av strategisk betydelse för kommunen.
 Förslag    0   4 012  2
 
@@ -2258,7 +2258,7 @@ Personal
 Kommunövergripande risk: Brister vid referenstagning
 För denna risk genomfördes två granskningsaktiviteter:
 
-1. Granskning av referenstagning och dokumentation
+1\. Granskning av referenstagning och dokumentation
 Granskning genomfördes av att rutin för referenstagning följts samt att korrekt dokumentation gjorts i avsett
 system (Varbi och/eller Refapp). Granskningen avgränsades till rekrytering av tillsvidaretjänster under
 perioden april 2023 till mars 2024.
@@ -2278,7 +2278,7 @@ Granskningen visar att rutinen för referenstagning vid rekrytering är känd oc
 miljöförvaltningen i samtliga fall men dokumentationen var i ett fall bristfällig. Se även nästa
 granskningsaktivitet.
 
-2. Granskning av kännedom och följsamhet till rutiner för rekrytering och referenstagning.
+2\. Granskning av kännedom och följsamhet till rutiner för rekrytering och referenstagning.
 Granskning har genomförts av att förvaltningens samtliga chefer har kännedom om och följer rutiner för
 rekrytering och referenstagning.
 Granskningen har genomförts av förvaltningens HR-specialist. Alla chefer på förvaltningen har fått information
@@ -2418,7 +2418,7 @@ Byggnadsnämnden                                  Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 Ingen annan granskning från Länsstyrelsen eller andra myndigheter har varit aktuell för verksamheterna under
-2024.
+2024\.
 
 5.4 Resultat av granskning och uppföljning av privata utförare
 
@@ -3364,12 +3364,12 @@ Hiss-, EAH, IMD- och ladd infrastrukturärenden ingår inte i denna.
 
 Prioriteringsordning 2025:
 
-1. Handlägga ärenden där det finns risker för människors hälsa och
+1\. Handlägga ärenden där det finns risker för människors hälsa och
 säkerhet.
-2. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
+2\. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
 pågående ärende.
 
-3. I övrigt gäller handläggning i tidsföljd.
+3\. I övrigt gäller handläggning i tidsföljd.
 
 Behovsutredning – Obligatorisk ventilationskontroll (OVK)
 
@@ -3719,7 +3719,7 @@ tappvarmvatten).
 
 Riksdagen och regeringen har beslutat om en ny lag och en ny förordning om
 energimätning i byggnader. Den nya lagen och förordningen trädde i kraft den 1 juni
-2022.
+2022\.
 
 I korthet ska IMD installeras i följande situationer:
 •  IMD värme i de flerbostadshus som har sämst energiprestanda. Den som
@@ -4019,7 +4019,7 @@ Förslag till beslut i byggnadsnämnden
 Byggnadsnämnden godkänner att ledamöter och ersättare i byggnadsnämnden deltar i aktivitet:
 
 Utlandsresa för studiebesök till Frederiksbergs kommune och Helsingborgs kommun den 3-4 april
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -4173,21 +4173,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -4210,10 +4210,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -4441,9 +4441,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -4533,9 +4533,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -4690,9 +4690,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -4746,6 +4746,6 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)

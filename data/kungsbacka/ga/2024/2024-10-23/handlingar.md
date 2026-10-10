@@ -65,7 +65,7 @@ KUNGSBACKA  KOMMUN
 | 7. | Elevhälsans organisation och<br>omfattning 23/24<br>Föredragande: Cecilia Fossan<br>18:30-18:45 | GA-2024-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att godkänna återrapport om elevhälsans<br>omfattning och organisation samt att rapportering till<br>nämnden ska ske årligen. |
 | 8. | God och nära vård och omsorg -<br>delårsrapport 2024<br>Föredragande: Cecilia Fossan<br>18:45-19:00 | GA-2024-<br>00183 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att godkänna delårsrapport God och nära<br>vård 2024. |
 | 9. | Lokalbehov 2026-2030<br>Föredragande: Erika Erngard<br>19:00-19:20 | GA-2024-<br>00173 | Förslag till beslut<br>Nämnden för Gymnasium och Arbetsmarknad<br>godkänner Lokalbehov 2026-2030 utblicksår 2031-<br>2035 |
-| 10. | Nämndbudget 2025<br>Föredragande: Patrik<br>Hellberg/Johan<br>Ronner/Andréas Mårtensson<br>19:20-19:50 | GA-2024-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att<br>* godkänna nämndbudget 2025 med<br>verksamhetsplan och ramfördelning<br>* uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2025<br>* uppdra åt förvaltningschefen att göra nödvändiga<br>omfördelningar i Förvaltningsbudgeten under året<br>samt att informera nämnden om dessa i samband<br>med delårsrapport och bokslut |
+| 10. | Nämndbudget 2025<br>Föredragande: Patrik<br>Hellberg/Johan<br>Ronner/Andréas Mårtensson<br>19:20-19:50 | GA-2024-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att<br>\* godkänna nämndbudget 2025 med<br>verksamhetsplan och ramfördelning<br>\* uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2025<br>\* uppdra åt förvaltningschefen att göra nödvändiga<br>omfördelningar i Förvaltningsbudgeten under året<br>samt att informera nämnden om dessa i samband<br>med delårsrapport och bokslut |
 
 <!-- sida 3 -->
 
@@ -414,19 +414,19 @@ demiljö     med    studiero.
 
 Fem ledstänger för att skapa en god elevhälsa
 
-1. Alla vuxna är ansvariga för att skapa och vidmakthålla god elev-
+1\. Alla vuxna är ansvariga för att skapa och vidmakthålla god elev-
 
 hälsa.
-2. Uppdraget lärande ska fungera för varje elev.
+2\. Uppdraget lärande ska fungera för varje elev.
 
-3. Information hanteras med respekt för elevers integritet och lämnas
+3\. Information hanteras med respekt för elevers integritet och lämnas
 enbart till personer som behöver kännedom för att eleven ska få en
 
 god lärandemiljö.
-4. Kommunikation på skolan ska präglas av tillgänglighet, snabbhet
+4\. Kommunikation på skolan ska präglas av tillgänglighet, snabbhet
 samt professionalitet utifrån tydliga roller.
 
-5. Kvaliteten i elevhälsoarbetet följs och utvecklas genom doku-
+5\. Kvaliteten i elevhälsoarbetet följs och utvecklas genom doku-
 mentation och utvärdering.
 
 <!-- sida 15 -->
@@ -503,12 +503,12 @@ arbete leds av rektorn eller den rektorn delegerat till.
 Enhetsmöte
 Enhetsmöten är det möte som äger rum på skolenheten inom ramen för elevhälsoteamet. En-
 hetsmöten har främst tre syften:
-1. Tvärprofessionella analyser för att utveckla enhetens operativa elevhälsoarbete på in-
+1\. Tvärprofessionella analyser för att utveckla enhetens operativa elevhälsoarbete på in-
 divid, grupp och organisationsnivå.
-2. Tvärprofessionella analyser, ofta tillsammans med mentor, och beslut kring elevhälso-
+2\. Tvärprofessionella analyser, ofta tillsammans med mentor, och beslut kring elevhälso-
 insatser som ligger utanför arbetslagets räckvidd.
 
-3. Systematiskt kvalitetsarbete och utvärdering av enhetens elevhälsoarbete.
+3\. Systematiskt kvalitetsarbete och utvärdering av enhetens elevhälsoarbete.
 
 Rektorn beslutar om skolenhetens enhetsmöte avseende utformning, sammansättning och mö-
 testider.
@@ -688,7 +688,7 @@ God och nära vård och omsorg - delårsrapport 2024
 Förslag till beslut
 
 Nämnden för Gymnasium & Arbetsmarknad beslutar att godkänna delårsrapport God och nära vård
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Socialstyrelsen har regeringens uppdrag att följa upp och rapportera omställningen till en mer God och
@@ -811,7 +811,7 @@ Innehållsförteckning
 
 <!-- sida 25 -->
 
-1. God och nära  vård
+1\. God och nära  vård
 
 För att verkligen göra skillnad i barn och ungas vardag och liv behöver medarbetare i olika
 
@@ -1033,7 +1033,7 @@ utformande av planeringen. Processerna inom EMI är tydliga och målstyrda där 
 moment som bara får utföras av viss yrkeskategori kopplat till Hälso och sjukvård och
 där journalföringsplikt medföljer uppdraget.
 
-2. Var står vi och hur kommer  vi framåt?
+2\. Var står vi och hur kommer  vi framåt?
 
 Framgångsfaktorerna god och nära vård handlar om är som beskrivits att den skall vara
 Hälsofrämjande, Gemensam, Trygg och Enkel.
@@ -2233,12 +2233,12 @@ EX. Hyra för boendekostnad/månad för brukare, årshyra för föreningar etc.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 JA – NYKO 1
-1. Vid jakande svar, definiera område/n i linje med områdesindelningen i den
+1\. Vid jakande svar, definiera område/n i linje med områdesindelningen i den
 kommungemensamma NYKO indelningen, för vart funktionen genererar den mest gynnsamma
 
 placeringen.
-2. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
-________________________________________________________________________________
+2\. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 60 -->
 
@@ -2583,11 +2583,11 @@ EX. Hyra för boendekostnad/månad för brukare, årshyra för föreningar etc.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 JA – NYKO 1
 
-1. Vid jakande svar, definiera område/n i linje med områdesindelningen i den
+1\. Vid jakande svar, definiera område/n i linje med områdesindelningen i den
 kommungemensamma NYKO indelningen, för vart funktionen genererar den mest gynnsamma
 placeringen.
-2. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
-________________________________________________________________________________
+2\. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 69 -->
 
@@ -2985,10 +2985,10 @@ kvartal)
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja
 
-1. Kungsbacka centralort.
-2. Utifrån målgrupp så behöver lokalen var centralt placerad i Kungsbacka centralort, där det är
+1\. Kungsbacka centralort.
+2\. Utifrån målgrupp så behöver lokalen var centralt placerad i Kungsbacka centralort, där det är
 tillgänglighetsanpassat med ffa busstrafik. Karta med NYKO indelning enligt bilden nedan.
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 79 -->
 
@@ -3232,12 +3232,12 @@ TIDPLAN
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja
 
-1. Inom område 1 - funktionen genererar den mest gynnsamma placeringen.
-2. Motivering utifrån att det måste ligga centralt är sträckan som elever skall ta sig från tex
+1\. Inom område 1 - funktionen genererar den mest gynnsamma placeringen.
+2\. Motivering utifrån att det måste ligga centralt är sträckan som elever skall ta sig från tex
 busshållplats samt närhet till tågstation. Ökar attraktionskraften när lokalen är centralt placerad,
 även utifrån samnyttjande (lektionstid) på vissa kurser som sker/kan ske på Elof Lindälvs
 gymnasium.
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 85 -->
 
@@ -3305,12 +3305,12 @@ BARRIÄR
 För att skapa en bra utemiljö krävs det en bra balans
 SIKT
 mellan låg, mellan och hög
-- LÅG     markmaterial, låg växtlighet
+\- LÅG     markmaterial, låg växtlighet
 T
-- MELLAN  buskar, sittmöjligheter, uppehåll                                K
+\- MELLAN  buskar, sittmöjligheter, uppehåll                                K
 I
 S
-- HÖG     träd, pergola, regnskydd, skärmtak
+\- HÖG     träd, pergola, regnskydd, skärmtak
 KÅRTS
 PARKERING
 PARKERING
@@ -3428,7 +3428,7 @@ Facelift Lindälv 2024-08-28
 Analys
 BEHOV
 Lindälvsgymnasiet byggdes 1978-79 och renoverades
-2017. I stora drag är det en gedigen byggnad med
+2017\. I stora drag är det en gedigen byggnad med
 bra grundmaterial och allmänskicket är för sin ålder
 relativt gott. Under åren har olika grepp tagits vad gäller
 färgsättning, underhåll av fast inventarie samt lös
@@ -3467,7 +3467,7 @@ nérmeS
 ©
 Facelift Lindälv 2024-08-28
 Befi      ntliga          lokaler
-+ En gedigen grund att bygga vidare på.
+\+ En gedigen grund att bygga vidare på.
 
 <!-- sida 95 -->
 
@@ -3479,7 +3479,7 @@ nérmeS
 ©
 Facelift Lindälv 2024-08-28
 Befi      ntliga          lokaler
-+ Brokig färgsättning ger ett rörigt intryck och svårorien-
+\+ Brokig färgsättning ger ett rörigt intryck och svårorien-
 terade lokaler.
 
 <!-- sida 96 -->
@@ -4500,10 +4500,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 11
 
@@ -4528,11 +4528,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 12
 
@@ -4571,8 +4571,8 @@ Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 13
@@ -4624,8 +4624,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.4.1 Välprofilerade och attraktiva gymnasieskolor med hög måluppfyllelse
 
@@ -4677,9 +4677,9 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 
 15
 
@@ -4711,8 +4711,8 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2025
 
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 16
 
@@ -5038,14 +5038,14 @@ utveckling inom området föreligger.
 På en övergripande nivå har beslutats att fokus inom arbetsmiljöarbetet de närmaste året kommer att vara
 följande områden:
 
-1. Påbörja arbetet med de forskningsbaserade friskfaktorerna som en integrerad del i det systematiska
+1\. Påbörja arbetet med de forskningsbaserade friskfaktorerna som en integrerad del i det systematiska
 arbetsmiljöarbetet, SAM
-2. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
-3. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som verksamheterna
+2\. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
+3\. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som verksamheterna
 behöver ha kunskap om.
 
-4. Fortsatt utveckling av facklig samverkan
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de
+4\. Fortsatt utveckling av facklig samverkan
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de
 har tillräckligt med kunskap, kompetens och befogenheter för att utföra sina uppgifter.
 
 7.3.1 Arbetsmiljömål
@@ -5456,11 +5456,11 @@ Förvaltningschef                   Kvalitets- och utvecklingschef
 
 Erinran om sekretess och straffansvar
 Jag, XX, deltar i arbetet med Analytics i Kungsbacka kommun. För att kunna utföra mina
-arbetsuppgifter inom ramen för uppdraget får jag tillgång till <förvaltningens> uppgifter som
+arbetsuppgifter inom ramen för uppdraget får jag tillgång till \<förvaltningens> uppgifter som
 finns lagrade i de system som data hämtas ifrån för beredning alternativt lagring i
 
 kommunens datalager för Analyticslösningen.
-Genom arbetet med Analytics deltar jag i <förvaltningens> verksamhet på liknande grund
+Genom arbetet med Analytics deltar jag i \<förvaltningens> verksamhet på liknande grund
 som anställning eller uppdrag, i enlighet med 2 kap 1 § 3 p. i offentlighets- och
 sekretesslagen (2009:400). Det innebär att jag omfattas av offentlighets- och sekretesslagens
 bestämmelser om sekretess.
@@ -5481,11 +5481,11 @@ uppdrag kan jag göra mig skyldig till dataintrång enligt 4 kap 9c § brottsbal
 
 Härmed intygas att jag tagit del av ovanstående.
 
-Kungsbacka den _________________________
+Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Personnummer: __________________________
+Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Underskrift och namnförtydligande
 
 2102
@@ -5531,7 +5531,7 @@ a u
 r
 ö
 é
--
+\-
 n k
 8
 n
@@ -5667,7 +5667,7 @@ GA-2024-00060
 Förslag till beslut
 Nämnden för Gymnasium & Arbetsmarknad godkänner återrapportering av avvikelser för kvartal 3,
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -8388,10 +8388,10 @@ utsträckning.
 Granskningens frågeställningar
 För att uppfylla granskningens syfte ska följande frågeställningar besvaras:
 
-1. I vilken utsträckning organiserar huvudman och rektor studie- och
+1\. I vilken utsträckning organiserar huvudman och rektor studie- och
 yrkesvägledning inför val av studier som utgår från elevernas
 behov och ger förutsättningar för väl underbyggda val av studier?
-2. I vilken utsträckning arbetar studie- och yrkesvägledningen för att
+2\. I vilken utsträckning arbetar studie- och yrkesvägledningen för att
 ge elever och presumtiva elever förutsättningar för att göra väl
 underbyggda val av studier?
 Inom respektive frågeställning granskas huvudmannens arbete inom

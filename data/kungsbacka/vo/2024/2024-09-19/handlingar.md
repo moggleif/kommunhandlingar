@@ -86,13 +86,13 @@ utförda revisioner och certifieringstjänster. Qvalify följer
 fastställda rutiner för att säkerställa att alla aktiviteter inom
 Qvalify genomförs på ett opartiskt och oberoende sätt.
 Qvalifys verksamhet bygger på följande principer:
-- Opartiskhet och oberoende
+\- Opartiskhet och oberoende
 
-- Kompetens
-- Ansvar
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Kompetens
+\- Ansvar
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Halvårsrapport Jan-Jul 2024                             Qvalify AB
 
@@ -145,9 +145,9 @@ enligt sidan 6 "Riktlinje för mat och måltider på vård- och omsorgsboende"
 Kungsbacka kommun.
 
 Två av stickproven som togs vid revisionen saknade relevant information.
-- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund
+\- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund
 skaldjur men informationen saknades i GFP.
-- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
+\- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
 
 Kommentar:
 Omvårdnadspersonalen är medvetna om behoven och vid båda tillfällena fanns
@@ -187,9 +187,9 @@ Vardaga        Kungsbacka               2024-08-29      Sida 5(24)
 
 <!-- sida 6 -->
 
-- Information om behov av sänggrindar för en kund samt samtycke för detta
+\- Information om behov av sänggrindar för en kund samt samtycke för detta
 saknades i GFP.
-- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring
+\- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring
 bedömning/syfte för detta samt samtycke.
 
 Kommentar: Personal medvetna om dessa kunders behov och önskemål. Bristen
@@ -583,7 +583,7 @@ Maten ska:
 -Se aptitlig ut, dofta och smaka gott och ha variation i konsistens och smakbalans.
 -Vara näringsriktig utifrån gällande rekommendationer vilket innebär en liten energi-
 och proteinrik portion.
-- Vara vällagad och varierande och över dagen innehålla komponenter från hela
+\- Vara vällagad och varierande och över dagen innehålla komponenter från hela
 kostcirkeln för att säkerställa variation av livsmedel, färg och konsistens. Ingen brist
 identifierad för dessa punkter.
 
@@ -752,10 +752,10 @@ att på bästa sätt tillgodose den boendes behov av trygghet, till exempel utö
 eller andra åtgärder. AVVIKELSE 2.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+1\. Hjärt- och lungproblem
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett
 prioriterat larm. Verksamheten gör sedan en prioritering över aktuella larm som
@@ -777,7 +777,7 @@ larmsystemet fungerar. Ingen brist identifierad för detta krav.
 Besluta om och dokumentera hur den boendes behov av trygghet ska tillgodoses när
 den boende inte förstår hur ett larm kan användas för att påkalla hjälp. AVVIKELSE
 
-2.
+2\.
 
 Omsorgspersonal
 Ansvarar för att ta emot och åtgärda larm. Ingen brist identifierad för detta krav.
@@ -812,10 +812,10 @@ att på bästa sätt tillgodose den boendes behov av trygghet, till exempel utö
 eller andra åtgärder.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+1\. Hjärt- och lungproblem
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett
 prioriterat larm. Verksamheten gör sedan en prioritering över aktuella larm som
@@ -904,25 +904,25 @@ Besök Ekhaga och Vickan 240523
 
 Ekhaga
 
-- En del information dokumenteras på olika ställen i kunds genomförandeplan,
+\- En del information dokumenteras på olika ställen i kunds genomförandeplan,
 beroende på avdelning. En förenkling för personal är att samstämma om var
 information ska stå så det är enkelt och snabbt för samtlig personal att hitta
 nödvändig information, t.ex. vad gäller skyddsåtgärder, måltidsstöd o dyl. Vid
 revisionen har några i personalen svårt att finna nödvändig information och vet inte
 var de ska leta i den boendes dokumentation.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat
 och livsmedel på avdelningarna överensstämmer med direktiv från Ambea och
 Kungsbacka kommun.
 
 Vickan
 
-- Skäret
+\- Skäret
 
 Se över och stärka rutin för dokumentation av signering och avvikelse/åtgärder
 gällande varmhållning/kyla av mat/livsmedel - se avvikelse.
 
-- Fyren
+\- Fyren
 
 Se över och stärka rutin för egenkontroll av temperaturmätning varmhållning/kyla av
 livsmedel - se avvikelse. Personal och ledning ser möjliga orsaker till varför så skett,
@@ -931,7 +931,7 @@ man fått ändra sina rutiner vid måltider för att göra situationen så trygg
 de boende som möjligt. Ni bör dock se över om det går att finna andra sätt att fullfölja
 rutinen för detta tills ursprunglig rutin kan användas igen.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat
 och livsmedel på avdelningarna överensstämmer med direktiv från Ambea och
 Kungsbacka kommun.
 
@@ -1054,26 +1054,26 @@ Ingen brist identifierad.
 Besök Vickan och Ekhaga 240321
 
 Vid kommande revision
-- Se kompetensbevis på personal i tillagningsköket.
+\- Se kompetensbevis på personal i tillagningsköket.
 
-- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
-- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte
+\- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
+\- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte
 kommer från "Mat som hemma").
-- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
+\- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
 
 Besök Ekhaga 240425
 
 Vid kommande revision:
 
-- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med
+\- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med
 tillfället innan dess.
 
-- Säkerställa att temperatur i kylar följer riktlinjer.
+\- Säkerställa att temperatur i kylar följer riktlinjer.
 
-- Säkerställa att genomförandeplaner innehåller dokumentation gällande
+\- Säkerställa att genomförandeplaner innehåller dokumentation gällande
 säkerhetsåtgärder samt samtycke från kund angående dessa.
 
-- Se över resultat genomförda måltidsobservationer
+\- Se över resultat genomförda måltidsobservationer
 
 Besök Ekhaga och Vickan 240523
 
@@ -1086,11 +1086,11 @@ felanmälan.
 
 Vid kommande revision:
 
-- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin
+\- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin
 
 finns ute på avdelningarna.
 
-- Säkerställa kompetens för enhetens personal gällande mat och måltider -
+\- Säkerställa kompetens för enhetens personal gällande mat och måltider -
 
 Halvårsrapport Jan-Jul 2024                             Qvalify AB
 
@@ -1101,17 +1101,17 @@ Vardaga        Kungsbacka               2024-08-29     Sida 23(24)
 
 genomgången utbildning livsmedelshygien/livsmedelshantering.
 
-- Besök på avdelningarna
+\- Besök på avdelningarna
 
 Besök Ekaga 240620
 
 Vid kommande revision:
 
-- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten
+\- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten
 (Ekhaga + Vickan)
-- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
-- Uppföljning av nyinförd städrutin på Ekhaga
-- Utbildning livsmedelshygien personal (Vickan)
+\- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
+\- Uppföljning av nyinförd städrutin på Ekhaga
+\- Utbildning livsmedelshygien personal (Vickan)
 
 Halvårsrapport Jan-Jul 2024                             Qvalify AB
 
@@ -1282,10 +1282,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av nämndens arbete med målet
 Vård & Omsorg arbetar aktivt med fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man
@@ -1305,11 +1305,11 @@ En halvtidsavstämning genomfördes under våren 2024. Vid halvtidsavstämningen
 arbetat helt enligt det nya arbetssättet under så lång tid, därav kunde inte några definitiva slutsatser av effekterna
 dras. Det som kan fastställas som positiva kvalitativa effekter vid halvtidsuppföljningen är:
 
-- Det nya sättet att skriva utredningar på (IBIC, slopad minutstyrning från Bistånd),
-- Det nya sättet att skriva genomförandeplanerna på
-- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd
-- Indelning i mindre arbetslag med egna möten i hemtjänsten
-- Personalkontinuiteten gått åt rätt håll, resultat per enhet januari jämfört med april/maj:
+\- Det nya sättet att skriva utredningar på (IBIC, slopad minutstyrning från Bistånd),
+\- Det nya sättet att skriva genomförandeplanerna på
+\- Det tvärprofessionellt samarbete mellan hemtjänst och bistånd
+\- Indelning i mindre arbetslag med egna möten i hemtjänsten
+\- Personalkontinuiteten gått åt rätt håll, resultat per enhet januari jämfört med april/maj:
 
 Vid halvtidsavstämningen kan det ännu inte uttydas några tydliga effekter kring sjukfrånvaro, övertid och
 vikariekostnader. Detta då resultaten svänger mycket för varje enhet under perioden januari-maj. Effekter
@@ -1409,13 +1409,13 @@ Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2021    2022   2023   2024   2024
 
 Andel aktuella genomförandeplaner inom
--     89,5 %  98,3 %
+\-     89,5 %  98,3 %
 vård- och omsorgsboende, egenregi
 Andel aktuella genomförandeplaner inom
--     78,3 %  96,7 %
+\-     78,3 %  96,7 %
 hemtjänsten, egenregi
 Andel aktuella genomförandeplaner inom
--     84,6 %  77,3 %
+\-     84,6 %  77,3 %
 korttidsboende, egenregi
 Resultat för 2024 redovisas på helårsbasis; Årsredovisning 2024
 
@@ -1424,11 +1424,11 @@ Resultat för 2024 redovisas på helårsbasis; Årsredovisning 2024
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 7
 
@@ -1464,12 +1464,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %    65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %    85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -1480,8 +1480,8 @@ Startvärde 100, målvärde 2030 är 60.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 8
@@ -1510,8 +1510,8 @@ företagsklimatet i Kungsbacka kommun.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Vård & Omsorg arbetar aktivt med att stärka individens och familjens förmåga att ta hand om sitt liv i enlighet
@@ -1586,12 +1586,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Delaktighet och medskapande är en viktig del inom ramen för förvaltningens arbete med ett samhälle i
 
@@ -1757,7 +1757,7 @@ Antal lägenheter på vård- och
 omsorgsboende
 Antal lägenheter för korttids/växelvård 62 62 62      60
 Beläggningsgrad vård- och
--      92 %   97 %      96 %
+\-      92 %   97 %      96 %
 omsorgsboende
 Antal timmar hemtjänst     580 297 582 438 537 632 545 404
 Kö till vård- och omsorgsboende 29  20      53        67
@@ -2367,10 +2367,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 52 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
 
 Engagerad ledning och tydlig styrning .............................................................................................3
 Övergripande mål och strategier .................................................................................................4
@@ -2384,7 +2384,7 @@ En god säkerhetskultur.........................................................
 Adekvat kunskap och kompetens ....................................................................................................7
 Patienten som medskapare .........................................................................................................8
 
-4. AGERA FÖR SÄKER VÅRD .............................................................................................................8
+4\. AGERA FÖR SÄKER VÅRD .............................................................................................................8
 Öka kunskap om inträffade vårdskador ...........................................................................................9
 
 Har vården varit säker ............................................................................................................... 10
@@ -2409,7 +2409,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 53 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -2421,7 +2421,7 @@ patientsäkerhetsberättelse för att nämnden ska få återkoppling under året
 patientsäkerhetsarbete som utförts och resultat som uppnåtts.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 
 Det finns en god vilja att rapportera inträffade händelser vilket stöds av mätning av
 patientsäkerhetskulturen i VO. Utredning av händelserna har visat att mer än två tredjedelar
@@ -2430,7 +2430,7 @@ har orsakat en allvarlig konsekvens och de flesta händelser hade ingen eller li
 på/för den enskilde.
 
 Totalt har drygt 1,5 miljoner insatser delegerats/instruerats i VO från november 2024 till april
-2024. Motsvarande siffra för IF är drygt 190 000. VO behöver öka följsamheten att utföra
+2024\. Motsvarande siffra för IF är drygt 190 000. VO behöver öka följsamheten att utföra
 omvårdnads- och rehabiliteringsinsatser. IF har ett större arbete att göra. Den positiva trenden
 för läkemedelsinsatser behöver fortsätta medan den negativa trenden för omvårdnads- och
 
@@ -2447,7 +2447,7 @@ VO har beslutat om ett utbildningsteam med start under 2024. Syftet med utbildni
 genomfört utbildningar i hjärt-lungräddning för att öka kompetensen hos medarbetarna inom
 området. Utbildning kommer att genomföras vartannat år från och med 2024.
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 
 Engagerad ledning och tydlig styrning
 
@@ -2607,16 +2607,16 @@ HSLF-FS 2016:40, 7 kap. 1 §
 Patientsäkerhetsberättelsen ska, utöver vad som anges patientsäkerhetslagen innehålla
 
 uppgifter enligt nedan.
-1. Uppföljningar av informationssäkerheten som är av större betydelse
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
 
-2. Riskanalyser som har gjorts.
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
@@ -2665,7 +2665,7 @@ utbildningsteamet är en god och jämlik vård då medarbetarna får enhetlig ut
 
 Verksamheten har genomfört utbildningar i hjärt-lungräddning för att öka kompetensen hos
 medarbetarna inom området. Utbildning kommer att genomföras vartannat år från och med
-2024.
+2024\.
 
 För att öka kompetensen hos medarbetarna har förvaltningen gjort en satsning via
 äldreomsorgslyftet där medarbetare kan utbilda sig till undersköterska eller
@@ -2711,7 +2711,7 @@ IF har identifierat att verksamheten behöver göra den enskilde mer aktiv och d
 
 utprovningen av hjälpmedel.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
 Vårdgivaren ska utöva egenkontroll, vilket ska göras med den
@@ -2729,11 +2729,11 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
 
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
-5. Öka riskmedvetenhet och beredskap
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
+5\. Öka riskmedvetenhet och beredskap
 
 Förvaltningen har under året fortsatt att arbeta med de åtgärder som togs fram i
 handlingsplanen. Bland annat har medarbetare anonymt fått besvara en enkät om hur de
@@ -3053,7 +3053,7 @@ sjukvårdsinsatser via Visible Care.
 
 Följsamhet till ordinerade hälso- och sjukvårdsinsatser
 Totalt har drygt 1,5 miljoner insatser delegerats/instruerats i VO under perioden 231101–
-240430. Motsvarande siffra för IF är drygt 190 000. Inför 2024 har förvaltningen höjt nivån
+240430\. Motsvarande siffra för IF är drygt 190 000. Inför 2024 har förvaltningen höjt nivån
 för godkänt resultat till 95% följsamhet.
 
 VO behöver öka följsamheten att utföra omvårdnads- och rehabiliteringsinsatser. Det finns en
@@ -4828,7 +4828,7 @@ Lokalbehov 2026-2030, utblick 2031-2035 - Nämnden för Vård & Omsorg
 Förslag till beslut
 Nämnden för Vård & Omsorg antar Lokalbehov 2026–2030, utblicksår 2031–2035, daterad 2024-06-
 
-28.
+28\.
 
 Sammanfattning av ärendet
 
@@ -5096,16 +5096,16 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 Enligt Reglemente (KF § 8 2023-02-07), ansvarar nämnden för Vård & Omsorg för service och
 omsorg enligt socialtjänstlagen (2001:453), vilket innebär att nämnden ansvarar för
 myndighetsutövning och verkställighet av:
-- Särskilt boende.
+\- Särskilt boende.
 
-- Hemtjänst i form av serviceinsatser, omsorgsinsatser och trygghetslarm
-- Dagomsorg
+\- Hemtjänst i form av serviceinsatser, omsorgsinsatser och trygghetslarm
+\- Dagomsorg
 
-- Korttidsplatser
-- Växelvård
+\- Korttidsplatser
+\- Växelvård
 
-- Kontaktperson
-- Nämnden ansvarar för bostadsanpassningsbidrag enligt lag om bostadsanpassning (2018:222).
+\- Kontaktperson
+\- Nämnden ansvarar för bostadsanpassningsbidrag enligt lag om bostadsanpassning (2018:222).
 
 Nämnden för Vård & Omsorg är huvudman och vårdgivare för den kommunala hälso- och
 sjukvården enligt hälso- och sjukvårdslagen (2017:30) och enligt överenskommelse med Region
@@ -5189,7 +5189,7 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 planerad kö om 50 personer.
 
-* 2033-2035 är beräknat på en ökning med 13 personer/år vilket baseras på ett medeltal av de tre
+\* 2033-2035 är beräknat på en ökning med 13 personer/år vilket baseras på ett medeltal av de tre
 tidigare åren (2030-2032) enligt prognos. Uppgifter i BI sträcker sig endast till 2032.
 Kolumn: "Överskott/underskott av lägenheter inkl. kö om 50 personer":
 Vid positiv siffra har förvaltningen för få personer i kö vid beslut om 50 personer i kö. Vid en
@@ -5210,9 +5210,9 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 9
 | 2030 | 934 |  | 882 | -52 | 884 | -2 |  |
 | 2031 | 944 |  | 882 | -62 | 894 | -12 |  |
 | 2032 | 954 |  | 882 | -72 | 904 | -22 |  |
-| 2033* | 967 |  | 882 | -85 | 917 | -35 |  |
-| 2034* | 980 | 80 | 962 | -18 | 930 | 32 | Nytt Våbo |
-| 2035* | 993 |  | 962 | -31 | 943 | 19 |  |
+| 2033\* | 967 |  | 882 | -85 | 917 | -35 |  |
+| 2034\* | 980 | 80 | 962 | -18 | 930 | 32 | Nytt Våbo |
+| 2035\* | 993 |  | 962 | -31 | 943 | 19 |  |
 
 <!-- sida 118 -->
 
@@ -6189,7 +6189,7 @@ Fax
 
 KUNGSBACKA KOMMUN
 
-214)
+214\)
 trygghetslarmet och dess tillbehör inte fungerar som tänkt. Fungerar inte trygghetslarmet som tänkt finns
 det risk för att vi inte uppfyller kraven för en god och säker vård.
 
@@ -6396,7 +6396,7 @@ Fax
 
 KUNGSBACKA KOMMUN
 
-24)
+24\)
 « Fastighetsägare och verksamhetsutövare har ansvar för att skapa alternativa lösningar för sanitet
 och hygien. (Vo externa fastighetsägare genererar komplex ansvarsfördelning).
 
@@ -6518,7 +6518,7 @@ FÖR HEMSJUKVÅRDEN FÖR IF.
 
 För hantering av Lokalbehov inför Lokalplan 2026-2030, utblick 2031—
 
-2035.
+2035\.
 
 Datum Namn på funktionsbehovet (Max 30 tecken)
 
@@ -7124,7 +7124,7 @@ Socialtjänst (SOL)
 6 legitimerad
 personal Hälso- och
 sjukvård (HSV)
-+ praktikanter.
+\+ praktikanter.
 Totalt antal personer SOL och 139
 HSV
 
@@ -7299,7 +7299,7 @@ BEHOVSBESKRIVNING VERKSAMHETSLOKAL FÖR DIGITAL
 HEMTJÄNST OCH HEMSJUKVÅRD.
 
 För hantering av Lokalbehov inför Lokalplan 2026-2030, utblick 2031—-
-2035.
+2035\.
 
 Datum Namn på funktionsbehovet (Max 30 tecken)
 
@@ -8020,23 +8020,23 @@ förändrade arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
 
-- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg och Älvsåker som
+\- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg och Älvsåker som
 tillhör förvaltningens distrikt Centrum.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom Hemtjänst i Anneberg/Alvsåker.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i Anneberg/Alvsåker.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tj änstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tj änstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030;
 
@@ -8144,13 +8144,13 @@ omsorgspersonal och praktikantplatser Totalt: 90 personer dag och kväll.
 
 SAMBAND
 
-- Nära till allmänna kommunikationer.
-- Närhet till Apotek.
+\- Nära till allmänna kommunikationer.
+\- Närhet till Apotek.
 
-- — Tjänstebilar med tillhörande laddstolpar, samt förvaring av tj änstecyklar med
+\- — Tjänstebilar med tillhörande laddstolpar, samt förvaring av tj änstecyklar med
 möjlighet att ladda elcykel, kräver stor markyta, vilket behöver tas omhand.
 
-- Närhet till offentliga parkeringsplatser för privata bilar.
+\- Närhet till offentliga parkeringsplatser för privata bilar.
 
 ANDRA FUNKTIONER SOM BEHÖVS:
 
@@ -8215,15 +8215,15 @@ Nyckelskåp för bilnycklar
 FÖRSÖRJNING/ANGÖRNING/PARKERINGAR FÖR ARBETSFORDON, TEX
 ANTAL BILAR, ELLADDNING ETC
 
-- — Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
+\- — Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
 tillhörande laddstolpar som behöver finnas i direkt anslutning till verksamhetslokalen.
 
-- — laddstolpar till 61 tjänstebilar.
+\- — laddstolpar till 61 tjänstebilar.
 
-- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tj änstecyklar, med möjlighet att
+\- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tj änstecyklar, med möjlighet att
 ladda el cykel.
 
-- Vanliga cykelställ, personal som cyklar till jobbet.
+\- Vanliga cykelställ, personal som cyklar till jobbet.
 
 ÖVRIGT
 
@@ -8373,23 +8373,23 @@ Men även utifrån till Arbetssätten förändras löpande, exempel tillgång ti
 eventuellt förändrade arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
-- Skapa en robusthet i samhällsfunktioner i området kring Kungsbacka centrum som
+\- Skapa en robusthet i samhällsfunktioner i området kring Kungsbacka centrum som
 tillhör förvaltningens distrikt Centrum.
 
-- — Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka
+\- — Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka
 antalet medarbetare inom Hemtjänst i centrala Kungsbacka.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i centrala Kungsbacka.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030;
 
@@ -8570,15 +8570,15 @@ Nyckelskåp för bilnycklar
 FÖRSÖRJNING/ANGÖRNING/PARKERINGAR FÖR ARBETSFORDON, TEX
 ANTAL BILAR, ELLADDNING ETC
 
--  Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
+\-  Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
 tillhörande laddstolpar som behöver finnas i direkt anslutning till verksamhetslokalen.
 
-- — Laddstolpar till 61 tjänstebilar.
+\- — Laddstolpar till 61 tjänstebilar.
 
-- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tjänstecyklar, med möjlighet att
+\- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tjänstecyklar, med möjlighet att
 ladda el cykel.
 
-- — Cykelställ för att möjliggöra arbetspendling.
+\- — Cykelställ för att möjliggöra arbetspendling.
 
 <!-- sida 188 -->
 
@@ -8612,7 +8612,7 @@ TIDPLAN
 KRAV AV GEOGRAFISK LOKALISERING AV VERKSAMHETEN (JA/NEJ)
 Ja, NYKO 1 (Kungsbacka centrum).
 
-> Donsö
+\> Donsö
 
 N
 Valö X
@@ -8724,25 +8724,25 @@ Arbetssätten förändras löpande, exempel tillgång till personal eller eventu
 arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
-- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg som tillhör
+\- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg som tillhör
 förvaltningens distrikt Centrum.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp nuvarande
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp nuvarande
 hemtjänstgrupp i Åsa, alternativt för att skapa ytterligare en verksamhetslokal för
 Hemtjänst i området.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i Åsa, alternativt för att skapa ytterligare en
 verksamhetslokal för Hemsjukvård i området.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030;
 
@@ -8850,15 +8850,15 @@ Totalt: enhetschef, koordinatorer, sjuksköterskor och arbetsterapeuter, fysiote
 omsorgspersonal och praktikantplatser Totalt: 90 personer dag och kväll.
 
 SAMBAND
-- Nära till allmänna kommunikationer.
+\- Nära till allmänna kommunikationer.
 
-- Närhet till Apotek.
+\- Närhet till Apotek.
 
--  Parkeringsplatser för Tjänstebilar med tillhörande laddstolpar. Kräver stor markyta,
+\-  Parkeringsplatser för Tjänstebilar med tillhörande laddstolpar. Kräver stor markyta,
 vilket behöver tas omhand.
 
-- — Säker förvaring/ förråd för tjänstecyklar med möjlighet att ladda elcykel.
-- Närhet till offentliga parkeringsplatser för privata bilar.
+\- — Säker förvaring/ förråd för tjänstecyklar med möjlighet att ladda elcykel.
+\- Närhet till offentliga parkeringsplatser för privata bilar.
 
 ANDRA FUNKTIONER SOM BEHÖVS:
 
@@ -8920,12 +8920,12 @@ Nyckelskåp för bilnycklar
 FÖRSÖRJNING/ANGÖRNING/PARKERINGAR FÖR ARBETSFORDON, TEX
 ANTAL BILAR, ELLADDNING ETC
 
-- — Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
+\- — Tjänstebilsparkering för 61 tjänstebilar i direkt anslutning till verksamhetslokal, med
 tillhörande laddstolpar som behöver finnas i direkt anslutning till verksamhetslokalen.
 
-- — laddstolpar till 61 tjänstebilar.
+\- — laddstolpar till 61 tjänstebilar.
 
-- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tjänstecyklar, med möjlighet att
+\- — Cykelförråd/alt säkra cykelställ för förvaring av 40 st tjänstecyklar, med möjlighet att
 ladda el cykel.
 
 ÖVRIGT
@@ -9728,14 +9728,14 @@ uppgiftsskyldighet.
 Ikraftträdande- och övergångsbestämmelser
 
 Lagen om socialtjänstdataregister föreslås träda i kraft den 1 januari
-2026. Samtidigt ska bestämmelserna om uppgiftsskyldighet i 12 kap.
+2026\. Samtidigt ska bestämmelserna om uppgiftsskyldighet i 12 kap.
 5 § socialtjänstlagen (2001:453) och 15 a § lagen om stöd och service
 till vissa funktionshindrade upphöra att gälla och de till dessa
 bestämmelser anslutande förordningarna upphävas.
 Övergångsbestämmelser införs i lagen om socialtjänstdata-
 register med anslutande förordning som innebär att bestämmelserna
 om uppgiftsskyldighet ska tillämpas först från och med den 1 januari
-2027. De upphävda bestämmelserna och förordningarna ska alltså
+2027\. De upphävda bestämmelserna och förordningarna ska alltså
 fortsatt gälla fram till den 31 december 2026.
 
 16
@@ -9799,10 +9799,10 @@ av personuppgifter som myndigheten utför enligt denna lag.
 
 9 § Personuppgifter får behandlas i ett socialtjänstdataregister om
 det är nödvändigt för att
-1. framställa statistik,
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
-4. bedriva forskning.
+1\. framställa statistik,
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
+4\. bedriva forskning.
 
 10 § Personuppgifter som behandlas enligt 9 § får också behandlas
 för att fullgöra uppgiftslämnande som sker i överensstämmelse med
@@ -9830,11 +9830,11 @@ Innehållet i ett socialtjänstdataregister
 13 § Endast personuppgifter som behövs för de ändamål som
 anges i 9 § får behandlas i ett socialtjänstdataregister.
 I ett socialtjänstdataregister får det finnas
-1. uppgift om en person som utreds för, har prövats för eller får
+1\. uppgift om en person som utreds för, har prövats för eller får
 en insats inom socialtjänsten,
-2. uppgift om den utredning, prövning eller insats inom
+2\. uppgift om den utredning, prövning eller insats inom
 socialtjänsten som en person får, och
-3. annan uppgift av administrativ karaktär av betydelse för den
+3\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person
 får.
 Om det är nödvändigt får i ett socialtjänstdataregister också
@@ -9881,10 +9881,10 @@ Regeringen eller den myndighet som regeringen bestämmer kan
 med stöd av 8 kap. 7 § regeringsformen meddela närmare
 föreskrifter om hur uppgiftsskyldigheten ska fullgöras.
 
-1. Denna lag träder i kraft den 1 januari 2026.
-2. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
+1\. Denna lag träder i kraft den 1 januari 2026.
+2\. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
 
-3. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a §
+3\. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a §
 lagen (1993:387) om stöd och service till vissa funktionshindrade
 och 12 kap. 5 § socialtjänstlagen (2001:453) gäller fortfarande till
 och med den 31 december 20 26.
@@ -9947,12 +9947,12 @@ Personuppgifter som får behandlas
 
 4 § Personuppgifter som får behandlas i ett socialtjänstdataregister
 enligt 13 § lagen om socialtjänstdataregister, är uppgifter om
-1. personnummer eller samordningsnummer, kön, födelseår,
+1\. personnummer eller samordningsnummer, kön, födelseår,
 folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
-5. annan uppgift av administrativ karaktär av betydelse för den
+2\. utredningsåtgärd och beslut,
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
+5\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person
 får.
 Om  det är nödvändigt får det finnas uppgift om en
@@ -9980,10 +9980,10 @@ följer av föreskrifter som meddelats av Socialstyrelsen.
 Regioner tillfälle att yttra sig, meddela föreskrifter om hur
 uppgiftsskyldigheten i 6 § ska fullgöras.
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 6 och 7 §§ tillämpas först den 1 januari 2027.
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 6 och 7 §§ tillämpas först den 1 januari 2027.
 
-3. Den upphävda förordningen (1981:1370) om skyldighet för
+3\. Den upphävda förordningen (1981:1370) om skyldighet för
 socialnämnderna att lämna statistiska uppgifter och förordningen
 (2004:16) om utlämnande av uppgifter som avser stöd och service
 till vissa funktionshindrade gäller fortfarande till och med den
@@ -10026,10 +10026,10 @@ Ds 2024:13                               Författningsförslag
 
 Den officiella statistiken
 
------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------
 
 SOCIALTJÄNST
------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------
 Nuvarande lydelse     Föreslagen lydelse
 Behandling av   känsliga
 personuppgifter m.m.
@@ -10099,14 +10099,14 @@ Socialstyrelsen ansvarar för förvaltningsuppgifter i enlighet med vad
 som anges i lag och förordning.
 
 Myndigheten ska särskilt ansvara för
-1. prövning av sådana behörighetsfrågor som anges i 4 kap. 10 §
+1\. prövning av sådana behörighetsfrågor som anges i 4 kap. 10 §
 patientsäkerhetslagen (2010:659), inklusive prövning enligt 6 kap.
 1 § patientsäkerhetsförordningen (2010:1369),
-2. officiell statistik enligt förordningen (2001:100) om den
+2\. officiell statistik enligt förordningen (2001:100) om den
 officiella statistiken,
-3. hälsodataregister, och 3. hälsodataregister,
-4. socialtjänstdataregister, och
-4. att pröva frågor om 5. att pröva frågor om
+3\. hälsodataregister, och 3. hälsodataregister,
+4\. socialtjänstdataregister, och
+4\. att pröva frågor om 5. att pröva frågor om
 statsbidrag.          statsbidrag.
 
 Vidare är Socialstyrelsen tillsynsvägledande myndighet i enlighet
@@ -10351,12 +10351,12 @@ och dokumentation.
 I den föreslagna bestämmelsen anges att med socialtjänst avses i
 lagen
 
-1. verksamhet som bedrivs med stöd av socialtjänstlagen,
-2. verksamhet som bedrivs med stöd av lagen (1990:52) med
+1\. verksamhet som bedrivs med stöd av socialtjänstlagen,
+2\. verksamhet som bedrivs med stöd av lagen (1990:52) med
 särskilda bestämmelser om vård av unga eller lagen (1988:870)
 om vård av missbrukare i vissa fall, eller
 
-3. annan verksamhet som enligt lag eller förordning ska bedrivas av
+3\. annan verksamhet som enligt lag eller förordning ska bedrivas av
 socialnämnd eller Statens institutionsstyrelse.
 
 Som socialtjänst räknas dock inte sådan verksamhet som Statens
@@ -11246,7 +11246,7 @@ tillförlitlig data om behov hos brukare och klienter, insatser och
 resultat.44
 
 42 SOU 2023:62, Vi kan bättre! Kunskapsbaserad narkotikapolitik med liv och hälsa i fokus, s.
-781.
+781\.
 43 SOU 2023:66, För barn och unga i samhällets vård, s. 287.
 44 Socialstyrelsen (2023). Inbjudan att inkomma med synpunkter på regeringens forsknings- och
 innovationspolitik.
@@ -13117,7 +13117,7 @@ Inom hälso- och sjukvården finns även andra personregister som
 ytterligare bidrar till att peka ut ett hälsodataregisters särdrag. Dessa
 
 81 SOU 2012:83, Vad är officiell statistik? En översyn av statistiksystemet och SCB, s. 391 och
-416.
+416\.
 82 Prop. 1997/98:108, Hälsodata- och vårdregister, s. 40.
 
 99
@@ -14358,12 +14358,12 @@ hälsodataregister.
 
 Vårt förslag: Socialstyrelsen ska få behandla personuppgifter i ett
 socialtjänstdataregister om det är nödvändigt för att
-1. framställa statistik,
+1\. framställa statistik,
 
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
 
-4. bedriva forskning.
+4\. bedriva forskning.
 
 Skälen för vårt förslag
 
@@ -15991,12 +15991,12 @@ Innehållet i ett socialtjänstdataregister   Ds 2024:13
 Vårt förslag: Det ska i förordning förtydligas att personuppgifter
 
 som får behandlas i ett socialtjänstdataregister är uppgifter om
-1. personnummer eller samordningsnummer, kön, födelseår,
+1\. personnummer eller samordningsnummer, kön, födelseår,
 folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
-5. uppgift av administrativ karaktär av betydelse för den
+2\. utredningsåtgärd och beslut,
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
+5\. uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en
 person får.
 Om det är nödvändigt ska det i registret också få finnas
@@ -18581,7 +18581,7 @@ nämligen inte att en uppgift lämnas till en annan myndighet, om
 uppgiftsskyldighet följer av lag eller förordning.205 I de fall där det
 
 204 SOU 2012:83, Vad är officiell statistik? En översyn av statistiksystemet och SCB, s. 391 och
-416.
+416\.
 205 Se 10 kap. 28 § OSL.
 
 221
@@ -22174,10 +22174,10 @@ definitionen av personuppgiftsansvarig finns.
 Ändamål
 9 § Personuppgifter får behandlas i ett socialtjänstdataregister om det är
 nödvändigt för att
-1. framställa statistik,
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
-4. bedriva forskning.
+1\. framställa statistik,
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
+4\. bedriva forskning.
 
 I paragrafen anges för vilka primära ändamål Socialstyrelsen får
 behandla personuppgifter i ett socialtjänstdataregister. Över-
@@ -22307,11 +22307,11 @@ Innehållet i ett socialtjänstdataregister
 13 § Endast personuppgifter som behövs för de ändamål som anges i 9 §
 får behandlas i ett socialtjänstdataregister.
 I ett socialtjänstdataregister får det finnas
-1. uppgift om en person som utreds för, har prövats för eller får en insats
+1\. uppgift om en person som utreds för, har prövats för eller får en insats
 inom socialtjänsten
-2. uppgift om den utredning, prövning eller insats inom socialtjänsten
+2\. uppgift om den utredning, prövning eller insats inom socialtjänsten
 som en person får, och
-3. annan uppgift av administrativ karaktär av betydelse för den
+3\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person får.
 Om det är nödvändigt får i ett socialtjänstdataregister också finnas
 uppgift om ställföreträdare för eller närstående till en person som utreds
@@ -22588,9 +22588,9 @@ detta följer av föreskrifter som har meddelats av Socialstyrelsen.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
-3. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a § lagen
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
+3\. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a § lagen
 (1993:387) om stöd och service till vissa funktionshindrade och 12 kap. 5 §
 socialtjänstlagen (2001:453) gäller fortfarande till och med den
 31 december 2026.
@@ -23050,35 +23050,35 @@ Departementsserien    2024
 
 Kronologisk förteckning
 
-1. Ändrade regler om tillsyn m.m. över
+1\. Ändrade regler om tillsyn m.m. över
 Totalförsvarets forskningsinstitut. Fö.
-2. Avtal om försvarssamarbete med
+2\. Avtal om försvarssamarbete med
 Amerikas förenta stater. Fö.
-3. Partipolitiska lotterier. Fi.
-4. Ett digitalt utvecklingsstöd till vissa
+3\. Partipolitiska lotterier. Fi.
+4\. Ett digitalt utvecklingsstöd till vissa
 tidskrifter. Ku.
-5. Sociala grundvillkor i den
+5\. Sociala grundvillkor i den
 gemensamma jordbrukspolitiken. LI.
-6. Stärkt försvarsförmåga.
+6\. Stärkt försvarsförmåga.
 Sverige som allierad. Fö.
-7. Avskildhet vid dygnsvilan.
+7\. Avskildhet vid dygnsvilan.
 En delredovisning angående frågor om
 Statens institutionsstyrelses särskilda
 befogenheter. S.
-8. Förbättrat informationsutbyte
+8\. Förbättrat informationsutbyte
 mellan Arbetsförmedlingen
 och kommuner. A.
-9. Bättre förutsättningar för utsänd
+9\. Bättre förutsättningar för utsänd
 statlig personal. UD.
-10. Stärkt skydd för vissa förtroende­
+10\. Stärkt skydd för vissa förtroende­
 valda och en tydligare intern kontroll
 i kommuner och regioner. Fi.
-11. Förbättrade möjligheter för polisen att
+11\. Förbättrade möjligheter för polisen att
 använda kamerabevakning. Ju.
-12. Pensionärernas levadsstandard
+12\. Pensionärernas levadsstandard
 då och nu. En studie av pensionärernas
 levnads standard 2003–2024. S.
-13. Bättre förutsättningar för att utveckla
+13\. Bättre förutsättningar för att utveckla
 en kunskapsbaserad socialtjänst. S.
 
 <!-- sida 529 -->
@@ -23211,32 +23211,32 @@ i förhållande till de utvecklingsområden och framgångsfaktorer som identifie
 En samlad funktion i en sommarsamordnare tillsammans med en projektgrupp tillsattes och
 följande åtgärder prioriterades.
 
--  Inriktningsbeslut i förvaltningen om ordinarie medarbetares semester med målsättning
+\-  Inriktningsbeslut i förvaltningen om ordinarie medarbetares semester med målsättning
 om 66% ordinarie medarbetare i verksamheten under juni, juni och augusti. Fokus på
 dialog och delaktighet i planeringen av semesterförläggningen.
--  Tidigarelagd semesterplanering i förhållande till period för huvudsemester under juni,
+\-  Tidigarelagd semesterplanering i förhållande till period för huvudsemester under juni,
 juli och augusti.
 
--  Dialoger i samtliga ledningsgrupper samt material togs fram för att stödja enheternas
+\-  Dialoger i samtliga ledningsgrupper samt material togs fram för att stödja enheternas
 arbete med semesterplaneringen.
 
--  Planering i varje ledningsgrupp för vad som behövde hanteras och säkerställas inför
+\-  Planering i varje ledningsgrupp för vad som behövde hanteras och säkerställas inför
 sommaren i aktuellt distrikt.
--  Utveckling av rekryteringsprocess och marknadsföring, fortsatt fokus på 17-åringar i
+\-  Utveckling av rekryteringsprocess och marknadsföring, fortsatt fokus på 17-åringar i
 våra verksamheter.
 
 <!-- sida 533 -->
 
--  Fokus på att rekrytera medarbetare till längre vikariat för att skapa trygghet och
+\-  Fokus på att rekrytera medarbetare till längre vikariat för att skapa trygghet och
 stabilitet i verksamheten under sommaren.
--  Fokus på att utveckla och säkerställa kandidatresan från intresserad till vikarie till dess
+\-  Fokus på att utveckla och säkerställa kandidatresan från intresserad till vikarie till dess
 att dem börjar arbeta.
 
--  Utveckling av webintroduktionen och den fysiska introduktionen för målgruppen.
--  Utveckling av delegeringsprocessen. Dels för att säkerställa kvalité, dels för att avlasta
+\-  Utveckling av webintroduktionen och den fysiska introduktionen för målgruppen.
+\-  Utveckling av delegeringsprocessen. Dels för att säkerställa kvalité, dels för att avlasta
 sjuksköterskor i klinisk verksamhet.
 
--  Intensivt arbete med Vikariecenter för att utveckla samarbetet såväl inför som under
+\-  Intensivt arbete med Vikariecenter för att utveckla samarbetet såväl inför som under
 sommaren.
 
 Statistik
@@ -23690,7 +23690,7 @@ Diarienummer: VO-2022-00220. (Ernst & Young AB, EY) Uppföljande granskning av 2
 granskningar, slutlig
 Diarienummer: VO-2024-00223. (Kommunfullmäktige) KF, § 91. Kommunbudget 2025, plan 2026-
 
-2027.
+2027\.
 Diarienummer: VO-2024-00222. (Kommunfullmäktige) KF, § 92. Uppföljning och prognos till och
 med april 2024 för Kungsbacka kommun.
 

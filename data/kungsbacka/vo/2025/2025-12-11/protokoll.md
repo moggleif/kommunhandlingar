@@ -142,7 +142,7 @@ Sammanfattning av ärendet
 
 Carita Boulwén (SD) har inkommit om motion om införande av blocktider inom
 hemtjänsten. Motionen anmäldes i Kommunfullmäktige arbetsutskott den 12 augusti
-2025. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
+2025\. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
 motionen till Nämnden för Vård & Omsorg för beredning.
 
 Det här dokumentet är digitalt signerat

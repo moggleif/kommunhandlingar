@@ -272,8 +272,8 @@ Fullgörande av skolplikt på annat sätt för tre elever, skollagen 24 kap
 
 Beslut
 
-Ansökan om fullgörande av skolplikt på annat sätt för eleverna ___
-;,          _, beviljas inte då det inte föreligger synnerliga
+Ansökan om fullgörande av skolplikt på annat sätt för eleverna \_\_\_
+;,          \_, beviljas inte då det inte föreligger synnerliga
 skäl för att fullgöra skolplikt på annat sätt.
 
 Sammanfattning av ärendet
@@ -294,11 +294,11 @@ Annat sätt att fullgöra skolplikten
 Förutsättningar för medgivande
 23 § Ett skolpliktigt barn får medges rätt att fullgöra skolplikten på annat sätt än
 som anges i denna lag. Medgivande ska lämnas om
-1. verksamheten framstår som ett fullgott alternativ till den utbildning som annars
+1\. verksamheten framstår som ett fullgott alternativ till den utbildning som annars
 står barnet till buds enligt föreskrifter i denna lag,
 
-2. behovet av insyn i verksamheten kan tillgodoses, och
-3. det finns synnerliga skäl.
+2\. behovet av insyn i verksamheten kan tillgodoses, och
+3\. det finns synnerliga skäl.
 
 24 § Medgivande enligt 23 § får lämnas för upp till ett år i sänder. Under dess
 giltighetstid ska det prövas hur verksamheten utfaller. Medgivandet ska återkallas,
@@ -372,7 +372,7 @@ Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om arbetsutskottet kan notera informationen
 i protokollet och finner att arbetsutskottet bifaller det.
 
-Exped;e,at/besty<kt
+Exped;e,at/besty\<kt
 I
 
 <!-- sida 11 -->
@@ -466,4 +466,4 @@ Organisationsnr: 212000-1256
 
 E-post    forskola.grundskola@kungsbacka.se
 
-(�; \/isrr1a Consulting
+(�; \\/isrr1a Consulting

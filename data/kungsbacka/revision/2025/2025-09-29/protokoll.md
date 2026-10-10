@@ -222,7 +222,7 @@ kvalitetsarbete inom särskilt boende
 Kommunrevisionen diskuterar projektplanen avseende granskning av systematiskt
 kvalitetsarbete inom särskilt boende. EY uppdras att revidera projektplanen avseende
 urval av intervjudeltagare samt att tydliggöra fokus i granskningen på revisionsfråga
-2. Reviderad projektplan behandlas på sammanträde i oktober.
+2\. Reviderad projektplan behandlas på sammanträde i oktober.
 
 Sammanfattning
 Johanna Rössberger (EY) och Karin Knutsson Friberg (EY) föredrar ärendet.

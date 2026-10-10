@@ -389,12 +389,12 @@ Arbetsgivaren redovisar ärenden inför nämndsammanträde i oktober.
 
 Nina Esmann och Susanne Jakobsson, HR, presenterar utvärdering av tjänsteplaneringsprocessen 2025
 samt reflektioner utifrån denna. Förslag till förändringar av processen 2026 är:
--  Tydligare lokalt matchningsarbete i första steget genom ökat samarbete mellan närliggande
+\-  Tydligare lokalt matchningsarbete i första steget genom ökat samarbete mellan närliggande
 enheter.
--  Då övergripande matchningsarbete inleds så görs detta vid dialogmöte med rektorerna istället
+\-  Då övergripande matchningsarbete inleds så görs detta vid dialogmöte med rektorerna istället
 
 för mail och telefonsamtal.
--  I första hand kommer matchningsarbetet att göras inom förskolan och skolan separat.
+\-  I första hand kommer matchningsarbetet att göras inom förskolan och skolan separat.
 Den fackliga dialogen genomförs som tidigare under pågående matchningsarbete.
 
 Sveriges lärare
@@ -484,10 +484,10 @@ Information om nuläge i skolledarorganisationen.
 
 Återkoppling från Skolinspektionens planerade kvalitetsgranskning tidigare i höst:
 
--  Gullregnsskolan, tillsyn särskilt stöd.
--  Hedeskolan F-3, kvalitetsgranskning
--  Åsaskolan F-3, kvalitetsgranskning
--  Särö skola 5-9, kvalitetsgranskning
+\-  Gullregnsskolan, tillsyn särskilt stöd.
+\-  Hedeskolan F-3, kvalitetsgranskning
+\-  Åsaskolan F-3, kvalitetsgranskning
+\-  Särö skola 5-9, kvalitetsgranskning
 Riktad tillsyn på Särö skola kopplat till ordningsregler, garanterad undervisningstid
 o
 SvA samt rutiner anmälan om kränkande behandling.
@@ -728,7 +728,7 @@ Kungsbacka kommun       Systematiskt kvalitetsarbete            6
 
 Tre av fyra utbildningstillfällen för rektorer och elevhälsans personal är genomförda under läsåret
 2024/2025. Utvärdering görs efter att alla fyra utbildningstillfällena är genomförda under våren
-2026.
+2026\.
 
 Resultat hittills:
 
@@ -1109,7 +1109,7 @@ omdömen:
 
 52 procent av vårdnadshavare instämmer eller instämmer helt i påståendet Jag upplever att mitt
 barn får använda digitala verktyg på ett sätt som stimulerar utveckling och lärande. Här har även
-22 procent svarar att de inte vet.*
+22 procent svarar att de inte vet.\*
 77 procent instämmer eller instämmer helt i påståendet Jag upplever att mitt barns förskola har en
 utemiljö som är inspirerande och inbjudande.
 
@@ -1194,14 +1194,14 @@ eller inte alls). Rektorer kan också ange alternativet Ej undersökt i år. Syf
 svarsalternativ är om det inte finns tillräckliga valida underlag för en bedömning.
 Rektorerna bedömer kvaliteten utifrån sex delmål:
 
-1. Varje elev har de kunskaper den behöver för att vara väl förbered för fortsatt utbildning.
-2. Varje elev får en utbildning som präglas av trygghet och en undervisning som präglas av
+1\. Varje elev har de kunskaper den behöver för att vara väl förbered för fortsatt utbildning.
+2\. Varje elev får en utbildning som präglas av trygghet och en undervisning som präglas av
 studiero.
-3. Varje elev får en undervisning som ger den ledning och stimulans eleven behöver för att
+3\. Varje elev får en undervisning som ger den ledning och stimulans eleven behöver för att
 kunna nå så långt som möjligt i sitt lärande och sin utveckling.
-4. Varje elev som är i behov av stöd får det stöd den behöver.
-5. Varje elev kan läsa och använda det svenska språket på ett rikt och nyanserat sätt.
-6. Varje elev kan använda sig av matematiskt tänkande för vidare studier och i vardagslivet
+4\. Varje elev som är i behov av stöd får det stöd den behöver.
+5\. Varje elev kan läsa och använda det svenska språket på ett rikt och nyanserat sätt.
+6\. Varje elev kan använda sig av matematiskt tänkande för vidare studier och i vardagslivet
 
 Rektorerna bedömer i stor utsträckning delmålen till stor del, delmål fem och sex bedöms av något
 fler till viss del.
@@ -1813,7 +1813,7 @@ Se bilaga ”Beslut tematisk tillsyn lovskola” för Skolinspektionens hela bed
 områden Skolinspektionen konstaterade var utan brister. Här kommer det som de såg att vi behövde
 förbättra:
 
-1. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas. (10 kap. 23 e §
+1\. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas. (10 kap. 23 e §
 skollagen)
 
 1 (2)
@@ -1830,23 +1830,23 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-2. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen bedömning av elevens
+2\. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen bedömning av elevens
 kunskaper i förhållande till de betygskriterier som gäller för ämnet och sätta det betyg som bäst
 
 motsvarar elevens. Detta gäller ämnena Idrott, svenska och engelska.
-3. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet med författningarnas krav.
+3\. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet med författningarnas krav.
 Det innebär även att om eleven har ett betyg i ämnet sedan tidigare ska såväl det gamla som det nya
 betyget framgå av betygskatalogen.
 
 Rektor kommer att vidta ett antal åtgärder i relation till de olika utvecklingsområdena:
 
-1. Organisera lovskolan så den uppfyller kraven enligt 10 kap. 23 e § skollagen, dvs anordna
+1\. Organisera lovskolan så den uppfyller kraven enligt 10 kap. 23 e § skollagen, dvs anordna
 lovskolan på en av huvudmannens enheter
 
-2. Utveckla bedömningsmaterialet i Svenska och Engelska så det garanteras att en sammantagen
+2\. Utveckla bedömningsmaterialet i Svenska och Engelska så det garanteras att en sammantagen
 bedömning görs. I Idrott eller specifikt simundervisning förlägga den som är till åk 9 och betyg
 under ordinarie läsår
-3. Utarbeta en rutin och den digitala resursen så att både elevens nya betyg och elevens tidigare
+3\. Utarbeta en rutin och den digitala resursen så att både elevens nya betyg och elevens tidigare
 betyg syns i betygskatalogen
 
 Beslutsunderlag
@@ -1884,16 +1884,16 @@ Kungsbacka grundskolors lovskola belägen på Aranäsgymnasiet
 valts ut för denna tillsyn.
 
 Det är tre områden som kommer att åtgärdas:
-1. Huvudmannen ska bestämma vid vilken skolenhet som
+1\. Huvudmannen ska bestämma vid vilken skolenhet som
 lovskolan anordnas. (10 kap. 23 e § skollagen)
 
-2. Se till att läraren, när betyg sätts efter prövning, gör en
+2\. Se till att läraren, när betyg sätts efter prövning, gör en
 sammantagen bedömning av elevens kunskaper i förhållande till
 de betygskriterier som gäller för ämnet och sätta det betyg som
 bäst motsvarar elevens. Detta gäller ämnena Idrott, svenska och
 engelska.
 
-3. Se till att alla beslut om betyg dokumenteras i en betygskatalog i
+3\. Se till att alla beslut om betyg dokumenteras i en betygskatalog i
 enlighet med författningarnas krav. Det innebär även att om
 eleven har ett betyg i ämnet sedan tidigare ska såväl det gamla
 som det nya betyget framgå av betygskatalogen.
@@ -1905,7 +1905,7 @@ skall vara på plats senast 260430 och ansvariga för detta är Håkan
 Kollberg Winsnes, utvecklingsledare och ansvarig för lovskolans
 kvalitesarbete samt Maria Eriksson, verksamhetschef och
 biträdande förvaltningschef.
-1. Organisera lovskolan så den uppfyller kraven enligt 10 kap.
+1\. Organisera lovskolan så den uppfyller kraven enligt 10 kap.
 23 e § skollagen, dvs anordna lovskolan på en av
 
 huvudmannens enheter. En rutin inrättas där det senast 30
@@ -1919,7 +1919,7 @@ www.skolinspektionen.se
 
 SKOLINSPEKTIONEN                                Sida 2 (2)
 
-2. Utveckla bedömningsmaterialet i Svenska och Engelska så
+2\. Utveckla bedömningsmaterialet i Svenska och Engelska så
 det garanteras att en sammantagen bedömning görs.
 Senast 7 januari skall detta arbete startas och behöriga
 ämneslärar som skall kvalitetssäkra detta arbete utses. I
@@ -1927,7 +1927,7 @@ Idrott eller specifikt simundervisning förlägga den som är
 till åk 9 och betyg under ordinarie läsår. Detta kommer att
 ledas av idrottsämnesansvarig, Pauline Brink.
 
-3. Utarbeta en rutin och den digitala resursen så att både
+3\. Utarbeta en rutin och den digitala resursen så att både
 elevens nya betyg och elevens tidigare betyg syns i
 betygskatalogen samt rutin för att rätt lärare skriver under
 respektive betyg. Ansvarig för detta är Anna Hedlund,
@@ -1961,7 +1961,7 @@ info@kungsbacka.se
 
 Tematisk tillsyn om betygssättning genom prövning efter lovskola i årskurs 9 i
 grundskolans lovskola placerad vid Aranäsgymnasiet i Kungsbacka kommun.
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 
@@ -1984,11 +1984,11 @@ Kungsbacka    kommun    ska vidta följande
 
 Organisering av lovskola
 
-1. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas.
+1\. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas.
 (10 kap. 23 e § skollagen)
 Prövning - Bedömning av elevens kunskaper i förhållande till betygskriterierna
 
-1. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen
+1\. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen
 bedömning av elevens kunskaper i förhållande till de betygskriterier som
 
 Skolinspektionen, Box 23069, 104 35 Stockholm, Besök: Sveavägen 159
@@ -2007,7 +2007,7 @@ kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att
 eleven ska kunna få ett godkänt betyg. (10 kap. 20 och 23 §§ skollagen)
 Betygskatalog
 
-1. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet
+1\. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet
 med författningarnas krav. Det innebär att den eller de lärare som har
 beslutat om ett betyg ska datera uppgiften om betyg i betygskatalogen och
 förse uppgiften med sin egenhändiga signatur. Det innebär även att om
@@ -2444,8 +2444,8 @@ eller de legitimerade lärarna. (6 kap. 3 § skolförordningen)
 Bestämmelserna i 3 kap. 16 § andra stycket skollagen (2010:800) samt 3 och 4 §§ i
 detta kapitel gäller inte för lärare som saknar legitimation och är anställda utan
 tidsbegränsning för att bedriva undervisning
-1. i modersmål, eller
-2. som avses i 2 kap. 17 § skollagen.
+1\. i modersmål, eller
+2\. som avses i 2 kap. 17 § skollagen.
 
 Första stycket gäller bara i de fall läraren bedriver sådan undervisning som avses i
 samma stycke 1 eller 2. (6 kap. 5 § skolförordningen)
@@ -2737,7 +2737,7 @@ särskilt stöd eller vidta motsvarande åtgärder.
 Resultatfond
 
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2026.
+2026\.
 
 7
 
@@ -2923,7 +2923,7 @@ Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola fattade beslut om principöverenskommelse gällande
 interkommunal ersättning för barn och elever i förskola, pedagogisk omsorg, förskoleklass,
 grundskola, fritidshem och anpassad grundskola mellan Mark, Varberg och Kungsbacka i §64 2011 08
-25.
+25\.
 Därefter har representanter för de tre kommunerna arbetat fram praktisk tillämpning av
 överenskommelse, blankett för avtal mellan placeringskommun och folkbokföringskommun samt
 
@@ -3267,8 +3267,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2025-06-09, Dnr: ATN 2025-00009
--
---
+\-
+\--
 
 GR:s  modell   för Interkommunal      ersättning   inom
 förskola,  pedagogisk    omsorg,   förskoleklass,
@@ -3323,8 +3323,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2025-06-09, Dnr: ATN 2025-00009
--
---
+\-
+\--
 
 Ersättningens omfattning
 Ersättningen omfattar samtliga kostnader för barnets/elevens skolgång.
@@ -3382,8 +3382,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2025-06-09, Dnr: ATN 2025-00009
--
---
+\-
+\--
 ISGR
 ISGR en internationell skola med en svensk sektion och en internationell
 sektion. Den internationella sektionen har högre kostnader då de läser efter
@@ -3664,7 +3664,7 @@ olika vid placeringstillfället.
 Uppdaterade datum och administrativa detaljer
 
 •  Avtalstid och godkännandeprocess är uppdaterade till den nya perioden 2026-01-01 – 2029-12-
-31.
+31\.
 •  Nya datum för när beslut om godkännande ska vara GR tillhanda (18 december 2025).
 
 Stigert Pettersson       Lars Sundbom
@@ -3799,7 +3799,7 @@ Samverkansavtal      för förskola
 och  pedagogisk    omsorg   i
 Göteborgsregionen
 
-1. Bakgrund och motiv
+1\. Bakgrund och motiv
 
 Skollagen reglerar kommunens skyldigheter och vårdnadshavarnas rättigheter när det
 gäller förskola. Folkbokföringskommun svarar för att barn som är bosatta i Sverige
@@ -3824,11 +3824,11 @@ till att kunna erbjuda plats inom skälig tid för en kommun som har brist på p
 det samtidigt finns en kommun som har tillgång på platser. Kommenterad [TB2]: Detta stycke har
 strukits då bedömningen är att den inte
 behövs som avtalstext
-2. Avtalsparter
+2\. Avtalsparter
 Avtalets parter utgörs av medlemskommunerna inom Göteborgsregionens
 kommunalförbund; Ale, Alingsås, Göteborg, Härryda, Kungsbacka, Kungälv, Lerum,
 Lilla Edet, Mölndal, Partille, Stenungsund, Tjörn och Öckerö.
-3. Avtalets innehåll
+3\. Avtalets innehåll
 Samverkansavtalet reglerar att medlemskommunerna inom GR i mån av plats tar emot
 barn i förskola och pedagogisk omsorg från andra kommuner och att vid varje sådan
 placering utgår interkommunal ersättning enligt fastställd prislista. Varje enskild
@@ -3849,7 +3849,7 @@ skyldighet för en kommun att ersätta en annan kommun för de extrakostnader en
 barnomsorgsplats på obekväm arbetstid innebär. I de fallen det blir aktuellt med plats i
 sådan verksamhet träffas individuella överenskommelser mellan kommunerna, vad
 gäller omfattning och pris.
-4. Tillämpningar
+4\. Tillämpningar
 Ansökan
 Ansökan sker via varje kommuns hemsida. Vårdnadshavaren ansöker i den kommun
 där plats önskas. Innan den kommunen erbjuder vårdnadshavaren en plats tar
@@ -3895,7 +3895,7 @@ Göteborgsregionen
 2026-01-01 – 2029-12-31
 Utkast med ändringsmarkeringar 2025-03-18
 
-5. Vid flytt inom GR-kommunerna
+5\. Vid flytt inom GR-kommunerna
 Barn har rätt att behålla sin plats i den kommun varifrån familjen flyttar till dess att
 folkbokföringskommun erbjudit en plats. Plats ska erbjudas senast inom fyra månader,
 under förutsättning att vårdnadshavare ansöker om plats. Folkbokföringskommunen
@@ -3904,7 +3904,7 @@ avflyttningskommunen tar in föräldraavgiften.
 Önskar vårdnadshavare behålla platsen permanent i avflyttningskommunen beslutar
 denna kommun om plats finns att erbjuda (punkt 3 i avtalet).
 
-6. Avtalets förutsättningar
+6\. Avtalets förutsättningar
 Avtalstid
 Avtalet gäller från och med 2026-01-01 – 2029-12-31. Uppsägningstiden är ett år, om
 inte parterna kommer överens om annat. Avtalet kan komma att ändras om tillämpliga
@@ -3919,7 +3919,7 @@ tillsammans med kopia av beslut i nämnd/styrelse eller av den utsedd person, se
 den 30 november 2021 vara GR tillhanda. Respektive medlemskommun
 rekommenderas att fatta beslut om att godkänna föreliggande avtal. En kopia på beslut
 i nämnd/styrelse eller av den utsedd person, ska vara GR tillhanda senast 18 december
-2025.                                          Kommenterad [TB6]: Ny text i detta stycke
+2025\.                                          Kommenterad [TB6]: Ny text i detta stycke
 Tvist
 Tvist med anledning av detta avtal mellan avtalsparterna löses i första hand genom
 lokala förhandlingar. Om parterna inte kommer överens sker medling genom GR.
@@ -3939,7 +3939,7 @@ och   pedagogisk         omsorg      i
 
 Göteborgsregionen
 
-1. Bakgrund och motiv
+1\. Bakgrund och motiv
 
 Skollagen reglerar kommunens skyldigheter och vårdnadshavarnas rättigheter när det
 gäller förskola. Folkbokföringskommun svarar för att barn som är bosatta i Sverige
@@ -3956,13 +3956,13 @@ vårdnadshavare får en kommun även i annat fall i sin förskola ta emot ett ba
 annan kommun.
 (8 kap. 12-15 § skollagen)
 
-2. Avtalsparter
+2\. Avtalsparter
 
 Avtalets parter utgörs av medlemskommunerna inom Göteborgsregionens
 kommunalförbund; Ale, Alingsås, Göteborg, Härryda, Kungsbacka, Kungälv, Lerum,
 Lilla Edet, Mölndal, Partille, Stenungsund, Tjörn och Öckerö.
 
-3. Avtalets innehåll
+3\. Avtalets innehåll
 
 Samverkansavtalet reglerar att medlemskommunerna inom GR i mån av plats tar emot
 barn i förskola och pedagogisk omsorg från andra kommuner och att vid varje sådan
@@ -3987,7 +3987,7 @@ Göteborgsregionen
 
 2026-01-01 – 2029-12-31
 
-4. Tillämpningar
+4\. Tillämpningar
 
 Ansökan
 Ansökan sker via varje kommuns hemsida. Vårdnadshavaren ansöker i den kommun
@@ -4030,7 +4030,7 @@ Till stöd för kommunernas hantering av samverkansavtalet finns
 tillämpningsanvisningar för praktisk hantering. Revideringar av detta dokument görs
 vid behov av Barnomsorgsgruppen.
 
-5. Vid flytt inom GR-kommunerna
+5\. Vid flytt inom GR-kommunerna
 
 Barn har rätt att behålla sin plats i den kommun varifrån familjen flyttar till dess att
 folkbokföringskommun erbjudit en plats. Plats ska erbjudas senast inom fyra månader,
@@ -4051,7 +4051,7 @@ Göteborgsregionen
 
 denna kommun om plats finns att erbjuda (punkt 3 i avtalet).
 
-6. Avtalets förutsättningar
+6\. Avtalets förutsättningar
 
 Avtalstid
 Avtalet gäller från och med 2026-01-01 – 2029-12-31. Uppsägningstiden är ett år, om
@@ -4114,7 +4114,7 @@ till Förskole-nätverket att ta fram förslag till uppdaterat avtal.
 Ärendet har behandlats i antagningsnämnden den 22 maj 2025. En kopia på
 beslut i nämnd/styrelse eller av den utsedd person, ska vara GR tillhanda
 senast 18 december 2025. Nytt samverkansavtal börjar gälla den 1 januari
-2026.
+2026\.
 Beslutsunderlag
 
 Tjänsteskrivelse daterad 2025-08-21
@@ -4271,10 +4271,10 @@ Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 KUNGSBACKA  KOMMUN
 3 (3)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -4300,7 +4300,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | 2025-10-24 16:09
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -4363,7 +4363,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 103 -->
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -4390,7 +4390,7 @@ som standard men kunna erbjuda plats till 20 barn enstaka terminer. Vi vill jobb
 spannet för att säkerställa att vi på sikt blir mindre sårbara vid oförutsedd förändring av storlek
 på barngruppen samt fortsätta ha möjlighet att erbjuda syskonförtur.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -4495,10 +4495,10 @@ Förvaltningen bedömer utifrån ovanstående att utökning av en ny dagbarnvår
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -4542,7 +4542,7 @@ Bra om vi får in underlagen så fort som möjligt för att vi ska hinna fatta b
 Med vänlig hälsning
 Sarah von Zweigbergk
 Utredare
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Förskola & Grundskola, Myndighet & Stöd
 0300- 83 55 74
@@ -4729,7 +4729,7 @@ och om detta påverkas av utökningen.
 
 Rutin vikarieberedskap
 
-1. Vårdnadshavarnas behov av vikarie kartläggs i samband med erbjudande om placering
+1\. Vårdnadshavarnas behov av vikarie kartläggs i samband med erbjudande om placering
 hos dagbarnvårdaren.
 
 3 (4)
@@ -4739,12 +4739,12 @@ hos dagbarnvårdaren.
 KUNGSBACKA KOMMUN
 4 (4)
 
-2. Ekolek i samråd med vårdnadshavaren ser över hos vem det är mest lämpligt,
+2\. Ekolek i samråd med vårdnadshavaren ser över hos vem det är mest lämpligt,
 exempelvis i närområdet men lika gärna i en grannkommun där vårdnadshavaren arbetar
 osv.
 
-3. Ändrade behov meddelas Ekolek omgående
-4. Ekolek kartlägger ändrade behov regelbundet
+3\. Ändrade behov meddelas Ekolek omgående
+4\. Ekolek kartlägger ändrade behov regelbundet
 
 an
 
@@ -4810,7 +4810,7 @@ skola.
 
 Tjänsteskrivelse, 2025-10-20. Avskaffa religiöst motiverad specialkost i förskola och skola.
 Sverigedemokraternas motion, Avskaffa religiöst motiverad specialkost i förskola och skola, 2025-05-
-25.
+25\.
 Protokollsutdrag, kommunstyrelsens arbetsutskott 2025-08-12 § 212.
 1 (2)
 Kungsbacka kommun
@@ -5085,15 +5085,15 @@ Sverigedemokraterna  i Kungsbacka föreslår därför
 kommunfullmäktige   besluta att:
 
 Kommunen  ska inte erbjuda religiöst motiverad specialkost i
--
+\-
 kommunala förskolor och skolor.
 
 Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
--
+\-
 i enlighet med detta inför kommande läsår.
 
 Vårdnadshavare informeras om förändringen i god tid.
--
+\-
 
 Sverigedemokraterna Kungsbacka genom
 
@@ -5271,13 +5271,13 @@ och ekonomiska styrprinciper. Intern kontroll syftar till att säkerställa att 
 bedrivs på ett effektivt, rättssäkert och tillförlitligt sätt, med invånarnas bästa som utgångspunkt.
 
 En god intern kontroll innebär att följa upp hur:
-- föreskrifter, policys och riktlinjer följs,
+\- föreskrifter, policys och riktlinjer följs,
 
-- verksamheten uppnår sina mål och är kostnadseffektiv,
-- rapportering och information är tillförlitlig,
+\- verksamheten uppnår sina mål och är kostnadseffektiv,
+\- rapportering och information är tillförlitlig,
 
-- kommunens tillgångar skyddas, samt
-- fel och brister upptäcks och förebyggs.
+\- kommunens tillgångar skyddas, samt
+\- fel och brister upptäcks och förebyggs.
 
 Varje nämnd ska årligen ta fram en internkontrollplan baserad på en riskanalys som omfattar
 verksamhetsområdet. Kommunstyrelsen beslutar om gemensamma granskningsområden för hela
@@ -5297,27 +5297,27 @@ på utvalda områden genom att göra avgränsade kontroller. Verksamheten omfatt
 och det finns ett flertal processer och ansvarsområden.
 
 Nämnden valde 2025 ut följande områden för internkontroll:
-- risk att anmäld misstänkt kränkande behandling inte utreds skyndsamt i tillräcklig omfattning
+\- risk att anmäld misstänkt kränkande behandling inte utreds skyndsamt i tillräcklig omfattning
 
-- risk att insatser i åtgärdsprogram inte motsvarar elevens stödbehov
+\- risk att insatser i åtgärdsprogram inte motsvarar elevens stödbehov
 De tre föregående åren har följande området följts upp:
 
-- felaktigt utnyttjande av lokaler för utbildning
-- bristande systematik i säkerhetsarbetet
+\- felaktigt utnyttjande av lokaler för utbildning
+\- bristande systematik i säkerhetsarbetet
 
-- integrerade elevers rätt till utbildning
-- elevers garanterade undervisningstid
+\- integrerade elevers rätt till utbildning
+\- elevers garanterade undervisningstid
 
 <!-- sida 124 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
 
-- skriftliga omdömen skolår 1-5
+\- skriftliga omdömen skolår 1-5
 
-- systematisk uppföljning av skolnärvaro/frånvaro
+\- systematisk uppföljning av skolnärvaro/frånvaro
 
-- beslut om anpassad studiegång och placering i SU-grupp
+\- beslut om anpassad studiegång och placering i SU-grupp
 Förvaltningen lämnar förslag på ett antal identifierade riskområden 2026 för vidare dialog med
 arbetsutskottet kring riskerna för slutligt förslag till nämnd.
 
@@ -5379,7 +5379,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

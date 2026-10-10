@@ -183,14 +183,14 @@ Vid förfall för förvaltningschefen inträder den person som är utsedd till
 
 förvaltningschefens ersättare eller ställföreträdare.
 Vid förfall för övriga delegater
-1) annan delegat med samma titel anställd på annan enhet och som har erforderlig
+1\) annan delegat med samma titel anställd på annan enhet och som har erforderlig
 kunskap inom aktuellt område. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
 och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1514,7 +1514,7 @@ Vuxna med LSS-beslut
 
 •  Matportion; särskilt boende korttidsboende och gruppboende (145 kr/dygn, 2025)
 De aktuella taxorna ska justeras i enlighet med rådande index och ekonomiska förutsättningar för
-2026.
+2026\.
 
 Taxorna räknas upp årligen med rådande prisindex.
 
@@ -1556,7 +1556,7 @@ Taxorna omfattar vuxna med beslut enligt lagen om stöd och service till vissa f
 
 De aktuella taxorna ska justeras i enlighet med rådande index och ekonomiska förutsättningar för
 
-2026. Taxorna räknas upp årligen med rådande prisindex
+2026\. Taxorna räknas upp årligen med rådande prisindex
 
 Avgift för föräldrar till barn med beslut enligt LSS:
 •  Avgift i form av skälig ersättning av föräldrar till barn under 18 år som får vård eller
@@ -1613,7 +1613,7 @@ Taxorna omfattar vuxna med beslut enligt lagen om stöd och service till vissa f
 •  Matportion; särskilt boende, korttidsboende och gruppboende (145 kr/dygn, 2025)
 
 De aktuella taxorna ska justeras i enlighet med rådande index och ekonomiska förutsättningar för
-2026. Taxorna räknas upp årligen med rådande prisindex
+2026\. Taxorna räknas upp årligen med rådande prisindex
 
 Ersättning av föräldrar till barn under 18 år som får vård eller omvårdnad utanför det egna
 hemmet
@@ -1675,12 +1675,12 @@ tas till realisationsförluster och uppskovsavdrag vid byte av bostad. Den ersä
 förälderns inkomst ska beräknas i enlighet med det senast fattade taxeringsbeslutet och med
 utgångspunkt i
 
-1. Inkomst av tjänst
+1\. Inkomst av tjänst
 
-2. Inkomst av kapital
-3. Inkomst av näringsverksamhet
+2\. Inkomst av kapital
+3\. Inkomst av näringsverksamhet
 
-4. Inkomst av studiemedel och studiestartsstöd
+4\. Inkomst av studiemedel och studiestartsstöd
 
 Enligt 19 kap. 10 § SFB ska därefter ett grundavdrag om 120 000 kronor göras. Skatteverket
 ska enligt 6 kap. 2 § tredje stycket SoF på begäran lämna kommunen de inkomst- och
@@ -1699,7 +1699,7 @@ summa som föräldern ska lämna kommunen i ersättning. Har en förälder fler 
 barn, gäller samma beräkning för varje barn. Räkneexempel: En förälder är
 försörjningsskyldig för tre barn varav två är placerade. Den framräknade inkomsten är 222
 
-000. Grundavdrag görs med 120 000 kronor efter vilket 102 000 återstår. Då föräldern är
+000\. Grundavdrag görs med 120 000 kronor efter vilket 102 000 återstår. Då föräldern är
 försörjningsskyldig för tre barn blir procentsatsen 10 procent för vardera placerat barn: 102
 000 x 0,10 = 10 200 kronor/år och barn det vill säga 850 kronor/månad per barn, totalt summa
 som föräldern ska lämna kommunen i ersättning blir då 1 700 kronor.

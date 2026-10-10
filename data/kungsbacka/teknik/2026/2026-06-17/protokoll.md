@@ -95,7 +95,7 @@ lekplatser 2023-2028. ..........................................................
 
 § 70 Dnr TE-2026-00509
 Samarbetsavtal om ömsesidig leverans av dricksvatten, Varberg Vatten AB
-- Vivab .................................................................................................... 11
+\- Vivab .................................................................................................... 11
 
 § 71 Dnr TE-2026-00007
 Anmälan av delegeringsbeslut 2026 ........................................................ 12
@@ -127,7 +127,7 @@ Nämnden för Teknik godkänner ärendelistan med förändring.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler en förändring i dagordningen:
--  Ärende nummer 6 i dagordningen; Återvinningscentral i Södra Kungsbacka §
+\-  Ärende nummer 6 i dagordningen; Återvinningscentral i Södra Kungsbacka §
 
 68, utgår från sammanträdet.
 
@@ -499,42 +499,42 @@ Sammanfattning av ärendet
 
 Under perioden 5 maj – 10 juni inkom följande skrivelser till nämnden för Teknik:
 
-- Revisionsplan 2026, antagen
-- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 76 - Ombudgetering och
+\- Revisionsplan 2026, antagen
+\- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 76 - Ombudgetering och
 resultatfond 2025
 
-- Tjänsteskrivelse - Ombudgetering och resultatfond 2025, KS-2026-00133
-- Bilaga summering ombudget drift och resultatfond 2025
+\- Tjänsteskrivelse - Ombudgetering och resultatfond 2025, KS-2026-00133
+\- Bilaga summering ombudget drift och resultatfond 2025
 
-- Bilaga tjänsteskrivelse, Ombudget investeringar 2025
-- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 78
+\- Bilaga tjänsteskrivelse, Ombudget investeringar 2025
+\- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 78
 
-- Tjänsteskrivelse - Försäljning av laddningsstationer inom nämnden för Tekniks
+\- Tjänsteskrivelse - Försäljning av laddningsstationer inom nämnden för Tekniks
 verksamhet
-- Publik laddinfrastruktur i Kungsbacka kommun
+\- Publik laddinfrastruktur i Kungsbacka kommun
 
-- Tjänstekrivelse - Motion om pilotsatsning i Forsbergen för cirkulerande vatten och
+\- Tjänstekrivelse - Motion om pilotsatsning i Forsbergen för cirkulerande vatten och
 avlopp
 
-- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 81
-- Frågor om Kungsbacka kommuns vattenförsörjning från Sverigedemokraterna
+\- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 81
+\- Frågor om Kungsbacka kommuns vattenförsörjning från Sverigedemokraterna
 
-- Yrkande - Frågor om Kungsbacka kommuns vattenförsörjning från
+\- Yrkande - Frågor om Kungsbacka kommuns vattenförsörjning från
 Sverigedemokraterna
-- Riktlinjer för direktupphandling, 2026-05-05, KF § 80
+\- Riktlinjer för direktupphandling, 2026-05-05, KF § 80
 
-- Riktlinjer för inköp, 2026-05-05, KF § 80
-- Policy för inköp 2026-05-05, KF § 80
+\- Riktlinjer för inköp, 2026-05-05, KF § 80
+\- Policy för inköp 2026-05-05, KF § 80
 
-- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 80 - Antagande av policy och
+\- Protokollsutdrag Kommunfullmäktige 2026-05-05 § 80 - Antagande av policy och
 riktlinjer för inköpsverksamheten i Kungsbacka kommun
 
-- Tjänsteskrivelse - Antagande av policy och riktlinjer för inköpsverksamheten i
+\- Tjänsteskrivelse - Antagande av policy och riktlinjer för inköpsverksamheten i
 Kungsbacka kommun
-- Protokollsutdrag Kommunstyrelsens arbetsutskott 2026-05-19 § 197 - Flaggning
+\- Protokollsutdrag Kommunstyrelsens arbetsutskott 2026-05-19 § 197 - Flaggning
 med regnbågsflagga under West Pride, KS-2026-00360
 
-- Protokollsutdrag Kommunstyrelsen 2026-05-26 § 123 - Fördelning av
+\- Protokollsutdrag Kommunstyrelsen 2026-05-26 § 123 - Fördelning av
 investeringsmedel för robusta lokaler, KS-2026-00328
 
 Det här dokumentet är digitalt signerat
@@ -574,10 +574,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Status för kommunens dricksvatten
--  Det första spadtaget för Kungsbacka Arena
+\-  Status för kommunens dricksvatten
+\-  Det första spadtaget för Kungsbacka Arena
 
--  Badvattenprover i kommunen
+\-  Badvattenprover i kommunen
 
 Beslutsgång
 

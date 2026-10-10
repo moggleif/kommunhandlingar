@@ -38,7 +38,7 @@ Förslag till beslut i byggnadsnämnden
 
 Byggnadsnämnden godkänner granskningsutlåtande daterat 2026-09-08.
 Byggnadsnämnden antar detaljplan för seniorbostäder inomSkörvalla 1:116 iSärö, upprättad2026-09-
-08.
+08\.
 
 Sammanfattning av ärendet
 Byggnadsnämndens arbetsutskott gav den 20 maj 2024 samhällsbyggnadskontoret i uppdrag att
@@ -892,22 +892,22 @@ politisk instans inför detaljplanens antagande.
 
 I det här projektet omfattar exploateringsavtalet:
 
--  Definition av exploateringsområdet.
--  Samordning av utbyggnad
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar. Inom planområdet
+\-  Definition av exploateringsområdet.
+\-  Samordning av utbyggnad
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar. Inom planområdet
 
 med enskilt huvudmannaskap PARK utför exploatören utbyggnad av allmän plats och
 anläggningarna överlåts senare till en bostadsrättsförening eller
 gemensamhetsanläggning.
--  Åtgärder inom kvartersmark för bostad ansvarar exploatören för.
+\-  Åtgärder inom kvartersmark för bostad ansvarar exploatören för.
 
--  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Åtaganden att bekosta anläggningar utanför planområdet.
--  Reglering av exploatörens ansvar för att bekosta eventuella undersökningar som inte
+\-  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Åtaganden att bekosta anläggningar utanför planområdet.
+\-  Reglering av exploatörens ansvar för att bekosta eventuella undersökningar som inte
 omfattas av plankostnadsavtalet.
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
 
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Exploateringsavtalet säkerställer bland annat Detaljplanens genomförande genom att reglera
@@ -1419,7 +1419,7 @@ Vatten
 Planområdet avvattnas till Skörvallabäcken (Veån). Slutrecipient är Skörvallaviken. Veån
 klassificeras till otillfredsställande ekologisk status med avseende på övergödning.
 Kvalitetskravet hos vattenförekomsten är att uppnå god ekologisk status med tidsfrist till år
-2033. Veåns kemiska status uppnår ej god med avseende på att de prioriterade ämnena
+2033\. Veåns kemiska status uppnår ej god med avseende på att de prioriterade ämnena
 (PRIO) bromerade difenyletrar (PBDE) och kvicksilver (Hg) är klassade till uppnår ej god.
 Kvalitetskravet hos vattenförekomsten är god kemisk status. I enlighet med bilaga 6 i Havs-
 och vattenmyndighetens föreskrifter har ett nationellt undantag i form av ett mindre strängt
@@ -1611,16 +1611,16 @@ kan medföra progressivt brott eller fortskridande brott.
 
 Räddningstjänsten
 Närmsta befintliga brandposter finns vid:
--  Sidovägen, ca 150 meter väster om
+\-  Sidovägen, ca 150 meter väster om
 planområdets mittpunkt,
 
--  Särö Skansenväg, ca 230 meter norr om
+\-  Särö Skansenväg, ca 230 meter norr om
 planområdets mittpunkt,
 
--  Korsningen Bukärrsvägen/
+\-  Korsningen Bukärrsvägen/
 Gatekärrsvägen, ca 175 meter nordöst
 om planområdets mittpunkt samt
--  Strandvägen, ca 215 meter söder om
+\-  Strandvägen, ca 215 meter söder om
 planområdets mittpunkt.
 
 Avstånden är angivna utifrån fågelvägen. Det
@@ -2340,7 +2340,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Detaljplanens överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer med översiktsplanen enligt 4 kap. 33 §
@@ -2394,11 +2394,11 @@ säkerställande åtgärd.
 
 Sammantaget bedömer kommunen att skyfallshanteringen är tillräckligt säkerställd genom
 kombinationen av naturliga förutsättningar och planbestämmelse.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på planförslaget.
 
-3. Statens Geotekniska Institut (SGI)
+3\. Statens Geotekniska Institut (SGI)
 SGI har under samrådsskedet yttrat sig och då framfört följande:
 (cid:120) Markbelastning av 20 kPa i beräkningarna bör ökas för att kontrollera bebyggelse med
 nockhöjd upp till 16,5m.
@@ -2439,7 +2439,7 @@ de grundläggande förutsättningarna genom markanvändning och planbestämmelse
 Den mer detaljerade utformningen och tekniska lösningar hanteras i efterföljande skeden,
 såsom projektering och bygglov, i enlighet med plan- och bygglagens ansvarsfördelning.
 
-4. Trafikverket
+4\. Trafikverket
 
 Kommunens ansvar
 Kommunen har med sitt planmonopol ett stort ansvar för var nya bostäder, verksamhetsområden etc.
@@ -2517,7 +2517,7 @@ väghållaransvaret kan överlåtas till en enskild väghållare. Åtgärden är
 detaljplaneläggning och kan därför prövas separat. En sådan förändring skulle ge de
 fastighetsägare som använder vägen ökade möjligheter att påverka vägens utformning.
 
-5. Postnord
+5\. Postnord
 Post ska kunna delas ut miljövänligt, kostnadseffektivt och med hänsyn till arbetsmiljön för chaufförer
 och brevbärare. För att det ska kunna genomföras i praktiken behöver utdelningen standardiseras.
 
@@ -2534,7 +2534,7 @@ KUNGSBACKA  KOMMUN
 Kommentar: För föreslagen bebyggelse avses post lämnas i en samlad anläggning i den
 gemensamma entrébyggnaden alternativt i huvudentrén i respektive bostadsbyggnad.
 
-6. Räddningstjänsten (RSG)
+6\. Räddningstjänsten (RSG)
 Räddningstjänsten noterar att synpunkter lämnade i samrådet generellt är inarbetat i
 planbeskrivningen. Det förekommer dock en figur på sidan 34 i planbeskrivningen som kan
 missuppfattas gällande hur man mäter täckning med brandvatten via markbrandposter. Figuren visar
@@ -2547,7 +2547,7 @@ Kommentar: Planbeskrivningen förtydligas.
 
 Sakägare
 
-7. Fastighetsägare till Skörvalla 1:82
+7\. Fastighetsägare till Skörvalla 1:82
 Vi vidhåller våra tidigare synpunkter och vill samtidigt förtydliga hur vi upplever att våra invändningar
 har hanterats i samrådsredogörelsen.
 
@@ -2708,9 +2708,9 @@ komma in i ledningarna antingen via felkopplad takavvattning, felkopplade
 dräneringsledningar, genom inläckage i ledningar med mera. Det pågår ett arbete i hela
 kommunen för att hitta och åtgärda dessa problem.
 
-8. Fastighetsägare till Skörvalla 1:39
+8\. Fastighetsägare till Skörvalla 1:39
 
-1. Bristande lokaliseringsprövning (Miljöbalken 2 kap. 6 §)
+1\. Bristande lokaliseringsprövning (Miljöbalken 2 kap. 6 §)
 Enligt miljöbalken ska mark användas på den plats som är mest lämplig med hänsyn till ändamålet. I
 föreliggande plan saknas en tillräckligt redovisad och transparent lokaliseringsutredning. Länsstyrelsen
 har uttryckligen ifrågasatt om planförslaget utgör en sådan komplettering som avses i översiktsplanen,
@@ -2726,43 +2726,43 @@ behovet av bostäder för äldre inte kan tillgodoses på annan plats med mindre
 intressen.
 Slutsats: Lokaliseringskravet enligt miljöbalken är inte uppfyllt.
 
-2. Otillräcklig motivering för upphävande av strandskydd (7 kap. MB)
+2\. Otillräcklig motivering för upphävande av strandskydd (7 kap. MB)
 För att upphäva strandskydd krävs särskilda skäl och att det inte finns alternativa lokaliseringar.
 
 Länsstyrelsen konstaterar att:
-* kommunen inte visat att annan lokalisering är orimlig
+\* kommunen inte visat att annan lokalisering är orimlig
 
-* strandskyddsfrågan inte är tillräckligt utredd eller motiverad
+\* strandskyddsfrågan inte är tillräckligt utredd eller motiverad
 Att i efterhand komplettera planbeskrivningen förändrar inte att kraven enligt lag måste vara uppfyllda
 vid prövning.
 
 Slutsats: Förutsättningarna för upphävande av strandskydd är inte styrkta.
-3. Påtaglig risk kopplad till översvämning och klimat (PBL 2 kap. 5 §)
+3\. Påtaglig risk kopplad till översvämning och klimat (PBL 2 kap. 5 §)
 
 Planområdet ligger lågt (ca 3,55,5 meter över havet) och i närhet till vatten.
 Länsstyrelsen har kritiserat att:
 
-* vald höjdnivå saknar tillräcklig grund
-* extremhändelser inte beaktats
+\* vald höjdnivå saknar tillräcklig grund
+\* extremhändelser inte beaktats
 
-* rekommenderad nivå är högre än den som använts i planförslaget
+\* rekommenderad nivå är högre än den som använts i planförslaget
 Detta innebär att planförslaget riskerar att inte uppfylla kravet på långsiktigt lämplig markanvändning.
 
 Slutsats: Planen uppfyller inte kraven på säkerhet med hänsyn till klimatrelaterade risker.
-4. Konflikt med riksintressen (4 kap. MB)
+4\. Konflikt med riksintressen (4 kap. MB)
 
 Området omfattas av riksintressen för kustzon och friluftsliv. Länsstyrelsen ifrågasätter om
 planförslaget uppfyller undantagsbestämmelserna och bedömer inte att bebyggelsen kan motiveras
 som en naturlig utveckling eller komplettering.
 Slutsats: Planen riskerar att stå i strid med hushållningsbestämmelserna i miljöbalken.
 
-5. Otillräckligt utredd dagvatten- och skyfallsproblematik
+5\. Otillräckligt utredd dagvatten- och skyfallsproblematik
 Det framgår inte tydligt hur dagvatten och skyfall ska hanteras utan negativ påverkan på omgivningen.
 
 Länsstyrelsen efterfrågar ytterligare utredning kring:
-* påverkan på grundvatten
+\* påverkan på grundvatten
 
-* hantering av skyfall och avrinning
+\* hantering av skyfall och avrinning
 
 <!-- sida 65 -->
 
@@ -2776,8 +2776,8 @@ Slutsats: Dagvattenfrågan är inte tillräckligt säkerställd.
 Samlad bedömning
 De ovanstående bristerna visar att planförslaget inte uppfyller centrala krav i:
 
-* Miljöbalken (lokalisering, strandskydd, riksintressen)
-* Plan- och bygglagen (lämplig markanvändning och säkerhet)
+\* Miljöbalken (lokalisering, strandskydd, riksintressen)
+\* Plan- och bygglagen (lämplig markanvändning och säkerhet)
 
 Bristerna är av sådan art att de inte kan anses vara mindre justeringar, utan rör grundläggande
 förutsättningar för planens genomförande.
@@ -2786,13 +2786,13 @@ Yrkande
 Mot bakgrund av ovanstående anser jag att detaljplanen i nuvarande form inte bör antas.
 Planen bör antingen:
 
-1. Omarbetas i grunden, alternativt
-2. Avslås
+1\. Omarbetas i grunden, alternativt
+2\. Avslås
 
 Kommentar:
-1. Lokaliseringsutredningen har kompletterats efter samrådet. Länsstyrelsen har i sitt
+1\. Lokaliseringsutredningen har kompletterats efter samrådet. Länsstyrelsen har i sitt
 granskningsyttrande inte framfört några synpunkter på utredningen.
-2. Lokaliseringsutredningen har kompletterats gällande strandskyddsfrågan efter samrådet, i
+2\. Lokaliseringsutredningen har kompletterats gällande strandskyddsfrågan efter samrådet, i
 enlighet med länsstyrelsens yttrande, och redovisar alternativa lokaliseringar samt skäl till
 varför dessa inte bedömts vara lika lämpliga. Den aktuella platsen har bedömts lämplig
 utifrån en samlad avvägning mellan behovet av bostäder för äldre, närhet till befintlig
@@ -2800,16 +2800,16 @@ bebyggelse, samt möjligheten att bidra till en sammanhållen utveckling inom ut
 utvecklingsort. Kommunen bedömer därmed att kraven på lokaliseringsprövning enligt
 miljöbalken är uppfyllda. Länsstyrelsens granskningsyttrande innehåller inga erinringar i
 denna del.
-3. Planhandlingar har efter samrådet kompletterats gällande risken för översvämning.
+3\. Planhandlingar har efter samrådet kompletterats gällande risken för översvämning.
 
 Länsstyrelsen har i sitt granskningsyttrande inte framfört några synpunkter gällande risk
 för översvämning kopplat till höjda havsnivåer och klimatförändringar.
-4. Planområdet ingår i område som utpekas som utvecklingsort i översiktsplanen. Det innebär
+4\. Planområdet ingår i område som utpekas som utvecklingsort i översiktsplanen. Det innebär
 att ställningstagande har gjorts att hela utvecklingsorten inklusive yttre delar är att
 betrakta som tätort. Planförslaget innebär därför inte någon konflikt med riksintressena.
 Länsstyrelsen har i sitt granskningsyttrande inte framfört några synpunkter gällande
 riksintressen.
-5. I dagvattenutredningen framgår att dagvattendammen ska vara grund för att inte påverka
+5\. I dagvattenutredningen framgår att dagvattendammen ska vara grund för att inte påverka
 grundvattnet. Dagvattnet kommer att fördröjas i en damm inom planområdet för att sedan
 
 <!-- sida 66 -->
@@ -2825,7 +2825,7 @@ grannfastigheterna vid större regn inte förändras jämfört med dagens situat
 Planbestämmelser om byggnadernas placering säkerställer att det inte skapas instängda
 områden för skyfallsvatten inom planområdet.
 
-9. Fastighetsägare till Skörvalla 1:72
+9\. Fastighetsägare till Skörvalla 1:72
 Alldeles för många hus o lägenheter, förstör hela området för all framtid. Så högt o fult. O havsnära.
 Låt alla kattugglor som vi har gott om få leva kvar här o andra vilda djur. Bygg i Särö centrum. Där
 finns mark. Bakom Särö förskola.
@@ -2836,7 +2836,7 @@ Planförslagets utformning, inklusive byggnaders höjd och volym, har prövats u
 förutsättningar och kommunens övergripande planeringsinriktning. Alternativa lokaliseringar,
 inklusive Särö centrum, har prövats i en lokaliseringsutredning.
 
-10. Fastighetsägare till Skörvalla 1:72
+10\. Fastighetsägare till Skörvalla 1:72
 Då jag tidigare försökt bygglov för en mur vid mitt hus, påstods det att det är inte att föredra, för att
 denna miljön är så unik, det skulle förfula den vackra miljön här i Budskär. Då känns det ju inte rimligt
 att bygga ett bostadsområde mitt i denna unika miljö med allt vad det innebär med trafikstockning
@@ -2857,7 +2857,7 @@ den planerade exploateringen för en äldre målgrupp. Även med de goda margina
 bedömer inte utredningen att planen medför någon betydande ökning av trafiken eller
 påverkan på framkomligheten.
 
-11. Fastighetsägare till Skörvalla 1:117
+11\. Fastighetsägare till Skörvalla 1:117
 Vi önskar att detta granskningsyttrande samt vårt tidigare inskickade yttrande
 
 (Finalissimo_Yttrande_Skorvalla_1_116) tas med i sin helhet i granskningsredogörelsen.
@@ -3019,7 +3019,7 @@ intresse att bevara grönskan i möjligaste mån. Träden längs Bukärrsvägen 
 av planområdet kommer sannolikt att behöva tas bort i samband med att ytan saneras från
 parkslide utifrån gällande lagstiftning.
 
-12. Fastighetsägare till Skörvalla 1:183
+12\. Fastighetsägare till Skörvalla 1:183
 
 Önskar komplettera det gemensamma svar "Synpunkter i granskningsfasen gällande detaljplan för
 Skörvalla 1:161" som vi fastighetsägare i närområdet idag, 24 mars 2026, lämnat via fastighetsägare
@@ -3040,7 +3040,7 @@ möjligheten att bidra till en sammanhållen utveckling inom utpekad utvecklings
 bedömer därmed att kraven på lokaliseringsprövning enligt miljöbalken är uppfyllda.
 Länsstyrelsens granskningsyttrande innehåller inga erinringar i denna del.
 
-13. Fastighetsägare till Skörvalla 1:67 och Skörvalla 1:40
+13\. Fastighetsägare till Skörvalla 1:67 och Skörvalla 1:40
 
 Vid planläggning enligt plan- och bygglagen ska en avvägning göras mellan allmänna och enskilda
 intressen. Området kring Bukärrsvägen utgörs av småskalig villabebyggelse, vilket innebär att
@@ -3085,7 +3085,7 @@ Mot denna bakgrund bedöms planförslaget bidra till att stärka bostadsutbudet 
 Särö. Avståndet till service och målpunkter gör att Skörvalla äng bedöms ha ett läge som i
 detta sammanhang kan anses vara nära Särö centrum.
 
-14. Gemensam skrivelse från fastighetsägare till Budskärr 4:28, Skörvalla 1:38, 1:39, 1:67,
+14\. Gemensam skrivelse från fastighetsägare till Budskärr 4:28, Skörvalla 1:38, 1:39, 1:67,
 1:71, 1:72, 1:82 1:117, 1:183, 1:187 och 1:188 samt ett antal fastighetsägare som inte
 klassas som sakägare, se punkt 26 nedan.
 
@@ -3191,7 +3191,7 @@ Mot denna bakgrund bedöms planförslaget bidra till att stärka bostadsutbudet 
 Särö. Avståndet till service och målpunkter gör att Skörvalla äng bedöms ha ett läge som i
 detta sammanhang kan anses vara nära Särö centrum.
 
-15. Ellevio
+15\. Ellevio
 Ellevio har yttrat sig under samrådet och har inget ytterligare att tillägga.
 
 Kommentar: Noteras
@@ -3204,7 +3204,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-16. Teknik
+16\. Teknik
 Förvaltningen för Teknik ställer sig positiva till utformningen av planen som främjar möten och social
 gemenskap både bland bebyggelsen och mellan byggelsen och ån och ger förutsättningar till framtida
 stråk för gående från kusten och österut längs ån. Det är även positivt att natur och växtlighet i
@@ -3250,13 +3250,13 @@ VA-nätet krävs inom ramen för detaljplanen.
 KUNGSBACKA KOMMUN
 21 (35)
 
-17. Service
+17\. Service
 Nämnden för Service ser positivt på den nya detaljplanen för seniorbostäder inom Skörvalla 1:116 mfl
 i Särö, Kungsbacka kommun och har inget att erinra. Planförslaget innehåller ingen kommunal service
 och bedöms ej ha någon väsentlig påverkan på efterfrågan av kommunal service.
 
 Kommentar: Noteras
-18. Vård & Omsorg
+18\. Vård & Omsorg
 
 Nämnden ser positivt på initiativet att bygga seniorbostäder och välkomnar satsningar som stärker
 möjligheterna till ett tryggt, självständigt och hälsosamt liv för äldre. Förvaltningen vill särskilt betona
@@ -3286,7 +3286,7 @@ Det finns utrymme i detaljplanen att ordna parkeringsplatser för hemtjänst mfl
 Inom området planeras platser för gemenskap och aktivitet, både utomhus på innergårdar och
 
 i den allmänna parken samt inomhus i gemensamhetsbyggnaderna.
-19. Miljö & Hälsa
+19\. Miljö & Hälsa
 
 Vid tidigare yttrande i samrådet för detaljplanen, anses att de måste uppnå rening av dagvattnet så att
 man inte påverkar MKN för vatten, eller dess möjlighet att uppnå god ekologisk och kemisk status för
@@ -3323,7 +3323,7 @@ Detta regleras även i exploateringsavtalet.
 
 Övriga
 
-20. Fastighetsägare till Bukärr 2:120
+20\. Fastighetsägare till Bukärr 2:120
 Mina synpunkter avser Skörvalla 1:116 Seniorbostäder, länken anger MÅ 3:15 vilket blir fel. Jag
 förutsätter förvaltningen har uppmärksammat detta och hanterar inkommande synpunkter korrekt
 alternativt justerar och förlänger tid för synpunkter.
@@ -3423,7 +3423,7 @@ bedömer inte utredningen att planen medför någon betydande ökning av trafike
 Trafikverket är väghållare för både Bukärrsvägen och Västra Särövägen och har därför ansvar
 för att åtgärda eventuella befintliga brister.
 
-21. Fastighetsägare till Skörvalla 1:48
+21\. Fastighetsägare till Skörvalla 1:48
 Jag, min fru och våra barn blev väldigt ledsna och oroliga när vi fick förslag på detaljplan för nytt
 seniorboende i Budskär. Dels är Bukärrsvägen som är infartsvägen till föreslaget boende en liten och
 smal bilväg. Med 50 nya lägenheter tillförs upp till 100 nya bilar som skall trafikera denna väg. Med
@@ -3475,7 +3475,7 @@ kvarstående behov av seniorbostäder på annan plats.
 Efter samlad avvägning bedömer kommunen att planförslaget på ett rimligt sätt tillgodoser
 behovet av seniorbostäder och samtidigt tar hänsyn till omgivningen.
 
-22. Fastighetsägare till Skörvalla 1:53, Skörvalla 1:173 och Skörvalla 1:58
+22\. Fastighetsägare till Skörvalla 1:53, Skörvalla 1:173 och Skörvalla 1:58
 Då yttrandet var långt har det sammanfattats nedan. Yttrandet finns i sin helhet i kommunens diarium.
 
 Fastighetsägarna har lämnat in ett gemensamt yttrande där de yrkar att planen antingen avslås eller
@@ -3593,7 +3593,7 @@ Kommunens sammanvägda bedömning i undersökning av betydande miljöpåverkan �
 detaljplanen inte kommer ge upphov till betydande miljöpåverkan. Någon
 miljökonsekvensbeskrivning har därför inte upprättats.
 
-23. Fastighetsägare till Skörvalla 1:59
+23\. Fastighetsägare till Skörvalla 1:59
 
 Konsekvensutredningen kring biltrafik hävdar att biltrafik för nyetableringen främst kommer att ske på
 tider då biltrafikintensiteten är låg på Bukärrsvägen. Detta baseras på att demografin av nyinflyttade
@@ -3654,7 +3654,7 @@ planförslaget, trots att det innebär en förändring av den befintliga miljön
 utvecklingsmöjligheter som enligt översiktsplanen kan förväntas i ett område utpekat som
 utvecklingsområde.
 
-24. Fastighetsägare till Skörvalla 1:89
+24\. Fastighetsägare till Skörvalla 1:89
 Jag vill framföra följande synpunkter på förslaget till detaljplan.
 Den föreslagna exploateringen innebär en mycket omfattande förändring av ett idag småskaligt
 villaområde. Förslaget innebär i praktiken en kraftig förtätning, nära en fördubbling av antalet hushåll
@@ -3708,12 +3708,12 @@ sammanhållen utveckling inom utpekad utvecklingsort. Kommunen bedömer därmed 
 på lokaliseringsprövning enligt miljöbalken är uppfyllda. Länsstyrelsens granskningsyttrande
 innehåller inga erinringar i denna del.
 
-25. Fastighetsägare till Särö 1:528
+25\. Fastighetsägare till Särö 1:528
 Jag motsätter mig antagandet av detaljplanen i dess nuvarande utformning. Planförslaget uppvisar
 såväl rättsliga brister som betydande materiella svagheter i förhållande till miljöbalken (MB) och plan-
 och bygglagen (PBL).
 
-1. Otillåten ianspråktagande av brukningsvärd jordbruksmark (MB 3 kap. 4 §)
+1\. Otillåten ianspråktagande av brukningsvärd jordbruksmark (MB 3 kap. 4 §)
 Planområdet utgör brukningsvärd jordbruksmark. Enligt 3 kap. 4 § MB är jordbruksmark ett
 riksintresse och sådan mark får endast tas i anspråk om det krävs för att tillgodose ett väsentligt
 samhällsintresse, och detta behov inte kan tillgodoses genom alternativ lokalisering.
@@ -3730,7 +3730,7 @@ hushållningsbestämmelser och ska avslås på denna grund.
 KUNGSBACKA KOMMUN
 31 (35)
 
-2. Påtaglig skada på natur- och rekreationsvärden (MB 3 kap. 6 §)
+2\. Påtaglig skada på natur- och rekreationsvärden (MB 3 kap. 6 §)
 Den aktuella jordbruksmarken utgör ett sammanhängande öppet landskapsrum med betydande
 värden för biologisk mångfald, landskapsbild och närrekreation. Enligt 3 kap. 6 § MB ska
 sådana områden skyddas mot åtgärder som medför påtaglig skada. Planförslaget innebär
@@ -3739,7 +3739,7 @@ Föreslagen parkmark utgör inte kompensation i rättslig mening, då den inte �
 ekologiska funktioner, brukningsvärde eller landskapets karaktär. Den samlade påverkan
 uppfyller kriteriet påtaglig skada.
 
-3. Bristande lokaliseringsprövning och olämplig markanvändning (PBL 2 kap. 5 §)
+3\. Bristande lokaliseringsprövning och olämplig markanvändning (PBL 2 kap. 5 §)
 Enligt 2 kap. 5 § PBL ska mark vara lämplig med hänsyn till bland annat människors hälsa och
 säkerhet, möjligheterna att ordna trafik samt risken för olyckor och översvämning. Planområdet
 uppvisar dokumenterade brister. Trafikriskerna innefattar en smal vägstandard, bristfällig
@@ -3760,7 +3760,7 @@ Lysholmen, något som kommer begränsas ytterligare vid exploatering. Detta inne
 markens lämplighet inte är styrkt. Att anta detaljplan utan att dessa frågor är lösta strider mot
 PBL grundläggande lokaliseringsprincip.
 
-4. Åsidosättande av försiktighetsprincipen och kunskapskravet (MB 2 kap.)
+4\. Åsidosättande av försiktighetsprincipen och kunskapskravet (MB 2 kap.)
 Det finns dokumenterade brister i underlaget, bland annat ofullständig naturinventering och
 initialt utebliven identifiering av invasiva arter. Enligt 2 kap. 2 § MB (kunskapskravet) och 2
 kap. 3 § MB (försiktighetsprincipen), ska beslut grundas på tillräcklig kunskap och risker
@@ -3768,7 +3768,7 @@ förebyggas. Osäkerheter i underlaget ska inte tolkas till exploateringens för
 initialt saknas i underlagen ifrågasätter inventeringens kvalitet och tillförlitlighet. Trots detta
 driver kommunen planen vidare utan att säkerställa att miljöpåverkan är tillräckligt utredd.
 
-5. Otillräcklig och rättsligt svag motivering för upphävande av strandskydd (MB 7 kap.)
+5\. Otillräcklig och rättsligt svag motivering för upphävande av strandskydd (MB 7 kap.)
 Planförslaget möjliggör upphävande av strandskydd utan att de särskilda skäl som krävs enligt
 7 kap. MB tydligt redovisas och styrks. Det har inte visats att området saknar betydelse för
 
@@ -3782,7 +3782,7 @@ strandskyddets syften, allmänhetens tillgång inte försämras eller att ekolog
 påverkas negativt. Ett sådant upphävande riskerar att stå i strid med lagstiftningens restriktiva
 tillämpning och kan därmed inte godtas.
 
-6. Bristande beaktande av kumulativa effekter (MB 2 kap., PBL 2 kap.)
+6\. Bristande beaktande av kumulativa effekter (MB 2 kap., PBL 2 kap.)
 Planområdet måste bedömas i sitt sammanhang. Särö är föremål för en successivt ökande
 exploateringstakt, med flera avklarade, pågående samt planerade projekt i området. Detta
 medför stegvis förlust av grönområden, minskad landskapsöppenhet och försämrade ekologiska
@@ -3791,7 +3791,7 @@ behandla projektet isolerat innebär en rättsligt otillräcklig prövning. En s
 projekt där helheten noggrant beaktas är därför nödvändigt för en hållbar och fungerande
 utveckling av Särö.
 
-7. Särskild olämplighet med hänsyn till målgruppen
+7\. Särskild olämplighet med hänsyn till målgruppen
 Planen avser seniorbostäder, vilket ställer högre krav på trafiksäkerhet, tillgänglighet och en
 trygg utemiljö. De identifierade bristerna i trafikmiljö och infrastruktur gör lokaliseringen
 särskilt olämplig för denna målgrupp, vilket ytterligare understryker planens bristande
@@ -3829,15 +3829,15 @@ I andra hand yrkar jag att ärendet återremitteras för fullständig lokaliseri
 naturvärdesinventering, samt redovisning av långsiktigt hållbara trafik- och dagvattenlösningar.
 Kommentar:
 
-1. En lokaliseringsutredning har gjorts för planen, där relevanta platser jämförts.
+1\. En lokaliseringsutredning har gjorts för planen, där relevanta platser jämförts.
 Länsstyrelsen har inte framfört några synpunkter på denna.
-2. Kommunen bedömer att planförslaget inte medför påtaglig skada enligt 3 kap. 6 §
+2\. Kommunen bedömer att planförslaget inte medför påtaglig skada enligt 3 kap. 6 §
 miljöbalken. I framtagen naturvärdesinventering bedöms planområdet inte ha mer än vissa
 naturvärden. Området är idag till stor del otillgängligt för allmänheten på grund av
 inhägnade beteshagar. Planförslaget möjliggör i stället parkmark och gångstigar, inklusive
 förbättrad tillgänglighet ned mot ån, vilket stärker områdets rekreativa värden.
 
-3. Enligt Trafikverkets databas NVDB är trafiksäkerhetsklassen för större delen av sträckan
+3\. Enligt Trafikverkets databas NVDB är trafiksäkerhetsklassen för större delen av sträckan
 Bukärrsvägen god för gång- och cykeltrafik. Den trafikökning som detaljplanen medför
 bedöms inte förändra detta. Trafikverket är väghållare för Bukärrsvägen och ansvarig för
 att åtgärda eventuella befintliga problem.
@@ -3846,9 +3846,9 @@ hanteras genom fördröjning och rening inom planområdet innan det släpps till
 Skörvallabäcken. Dagvatten från planområdet bidrar därför inte till ökad risk för
 bräddning.
 
-4. Naturvärdesinventeringen är utförd enligt SIS-standard. Inventeringsrapporten har
+4\. Naturvärdesinventeringen är utförd enligt SIS-standard. Inventeringsrapporten har
 kompletterats med dokumentation av invasiva arter.
-5. Lokaliseringsutredningen har kompletterats efter samrådet, i enlighet med länsstyrelsens
+5\. Lokaliseringsutredningen har kompletterats efter samrådet, i enlighet med länsstyrelsens
 yttrande, och redovisar alternativa lokaliseringar samt skäl till varför dessa inte bedömts
 vara lika lämpliga. Den aktuella platsen har bedömts lämplig utifrån en samlad avvägning
 mellan behovet av bostäder för äldre, närhet till befintlig bebyggelse, samt möjligheten att
@@ -3858,11 +3858,11 @@ därmed att kraven på lokaliseringsprövning enligt miljöbalken är uppfyllda.
 granskningsyttrande innehåller inga erinringar i denna del. Detaljplanens avgränsning har
 anpassats för att inte påverka naturvärden längst ån. Planen har även utformats för att
 förbättra allmänhetens tillgänglighet till vattendraget.
-6. Den kumulativa påverkan av exploatering hanteras på översiktlig nivå i kommunens
+6\. Den kumulativa påverkan av exploatering hanteras på översiktlig nivå i kommunens
 översiktsplan. Planområdet ingår i område för utvecklingsort i översiktsplanen och har
 därför bedömt som lämpligt för bebyggelse. Planområdet har avgränsats för att inte
 exploatera den mest värdefulla naturmiljön.
-7. Se punkt 3 i denna kommentar. Kommunen har även inlett dialog med Hallandstrafiken
+7\. Se punkt 3 i denna kommentar. Kommunen har även inlett dialog med Hallandstrafiken
 
 gällande ny placering av busshållplats närmare planområdet.
 
@@ -3877,7 +3877,7 @@ carports ska placerat minst 2 meter från fastighetsgränsen mot den samfällda 
 Den långsiktiga planeringen för Särös utveckling finns i kommunens översiktsplan. Där har
 ställningstaganden gjorts utifrån en helhetsbild och sammanvägda konsekvenser.
 
-26. Gemensam skrivelse från fastighetsägare till Budskärr 4:79 och 4:84, Skörvalla 1:84,
+26\. Gemensam skrivelse från fastighetsägare till Budskärr 4:79 och 4:84, Skörvalla 1:84,
 1:89, 1:151, 1:159 och 1:190 samt ett antal fastighetsägare som klassas som sakägare, se
 punkt 14 ovan.
 Se punkt 14 för det gemensamma yttrandet.
@@ -4208,7 +4208,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer, med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden, att ett antagande av detaljplanen inte kommer att prövas.
@@ -4224,7 +4224,7 @@ slänten. Planbestämmelsen gällande trädfällning (n ) har formulerats om i s
 vilka träd som omfattas av bestämmelsen. Reglering med utökad lovplikt är sedan ändringen av plan-
 och bygglagen började gälla 1 december 2025 inte längre tillämpbar och har därför tagits bort helt.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet lyfter i sitt yttrande att aktualitetsdatum för fastighetsredovisningen respektive för övriga
 detaljer i grundkartan är något föråldrad. Det är viktigt att grundkartan är aktuell i varje steg av
@@ -4246,11 +4246,11 @@ svårt att se att grundkartan inte är att betrakta som aktuell.
 I plankartan däremot har kartdatan aktualitetsdatum 2025-06-04. Detta datum ska
 rätteligen vara 2025-11-04 vilket nu är justerat.
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverket har inget att erinra mot planförslaget.
 
-4. Statens geotekniska institut (SGI)
+4\. Statens geotekniska institut (SGI)
 I samrådsyttrandet efterfrågade SGI kompletterande underlag som stöd för bedömningen av jordlager
 
 och jorddjup. Vidare undrade SGI om det förelåg risk för blockutfall från bergslänter och lösa block i
@@ -4261,7 +4261,7 @@ som anges i bergtekniskt PM behöver redovisas i planbeskrivningen.
 Kommentar: Planbeskrivningen har kompletterats utifrån SGI:s rekommendation. De riskblock som
 uppmärksammades i den sprängda slänten i öster har åtgärdats.
 
-5. Räddningstjänsten Storgöteborg (RSG)
+5\. Räddningstjänsten Storgöteborg (RSG)
 
 RSG har inget att erinra mot planförslaget.
 
@@ -4273,7 +4273,7 @@ KUNGSBACKA  KOMMUN
 
 Organisationer och föreningar
 
-6. Ekås Samfällighetsförening, Vallda Ga:18
+6\. Ekås Samfällighetsförening, Vallda Ga:18
 Ekås samfällighetsförening har inget att erinra mot planförslaget men lämnar synpunkter som berör
 
 kommunens dagvattenhantering samt ställer frågor kopplat till genomförandet av detaljplanen och risk
@@ -4290,12 +4290,12 @@ denna fråga.
 
 Kommunala förvaltningar och nämnder
 
-7. Miljö & Hälsoskydd
+7\. Miljö & Hälsoskydd
 
 Miljö & Hälsoskydd har inga synpunkter, då området redan utgör ett etablerat bostadsområde och de
 föreslagna förändringarna inte bedöms vara av väsentlig karaktär ur miljö- och hälsoskyddssynpunkt.
 
-8. Teknik
+8\. Teknik
 Teknik har inga synpunkter på förslaget till detaljplan för bostäder vid Björkbacken i Vallda.
 
 Ida Lennartsson                  Stina Wikström
@@ -4419,7 +4419,7 @@ helhet diarieförda i kommunens diarium.Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden att frågor som rör Hälsa och säkerhet, risk för olycka och erosion ska lösas på ett
@@ -4474,7 +4474,7 @@ Plankartan har kompletterats med koordinatkryss och angivelse av koordinaterna.
 
 Fastighetsbeteckningarna har tydliggjorts i plankartan.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet uppmärksammar att planbeskrivningen saknar information om de särskilda skälen till
 valet att ha enskilt huvudmannaskap för allmän plats.
 
@@ -4504,12 +4504,12 @@ Planbeskrivningen har kompletterats med information om utrymmesservitutet 1384-8
 
 Inom planområdet reserveras ett område för underjordisk ledning, ett u-område, och därmed
 möjliggörs flytt av ledning till ett annat område inom planen.
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverket har inget att erinra mot att förslaget, så som det beskrivits i remitterade handlingar,
 beviljas på den föreslagna platsen.
 
-4. Statens geotekniska institut (SGI)
+4\. Statens geotekniska institut (SGI)
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
 ändamålet med hänsyn till bland annat människors hälsa och säkerhet samt med hänsyn till risken för
 olyckor, översvämning och erosion. En redogörelse för planområdets och angränsade områdens
@@ -4554,7 +4554,7 @@ Planbeskrivningens redogörelse för geotekniska förutsättningar, och då sär
 stabilitet, har kompletterats. Det är kommunens bedömning att förhållandena på platsen är
 tillräckligt klarlagda att lämpligheten för bebyggelse enligt detaljplanen inte kan ifrågasättas.
 
-5. Räddningstjänsten Storgöteborg
+5\. Räddningstjänsten Storgöteborg
 
 RSG har inte identifierat några riskkällor av betydelse i planområdets närhet med avseende på
 transport av farligt gods, verksamheter med tillstånd enligt lagen (2010:1011) om brandfarliga och
@@ -4585,7 +4585,7 @@ KUNGSBACKA KOMMUN
 5 (9)
 
 Sakägare
-6. Fastighetsägare till 17:162
+6\. Fastighetsägare till 17:162
 Vi som boende på Björkbacken 14 är oroliga över följande kring detaljplan för bostäder vid
 Björkbacken i Vallda 17:17 och 17:223
 
@@ -4635,28 +4635,28 @@ Inom delar av kvartersmark där terrängen är som mest kuperad regleras att mar
 ändring av marknivå upp till +/- 0,5 meter. Syftet med bestämmelsen är att säkerställa att
 eventuella markförändringar görs på ett hänsynsfullt för att bevara områdets karaktär.
 
-7. Fastighetsägare till 17:178
+7\. Fastighetsägare till 17:178
 
 Mina synpunkter beträffande Detaljplan för bostäder vid Björkbacken i Vallda.
-1. Min åsikt är att max 1 hus bör byggas med tanke på utfarter m.m.
-2. Mitt önskemål är att få köpa den smala markremsan mellan min tomt och den gamla
+1\. Min åsikt är att max 1 hus bör byggas med tanke på utfarter m.m.
+2\. Mitt önskemål är att få köpa den smala markremsan mellan min tomt och den gamla
 stengärdsgården, som tidigare nyttjats av mig sedan 50 år tillbaka. Detta för att det skulle bli en
 naturligare övergång tomterna emellan. Det skulle innebära att tomtgränsen flyttas ca 3 meter.
-3. Jag vill också påpeka att det rinner en bäck från Vallda 17:17 till min tomt. Denna bäck borde
+3\. Jag vill också påpeka att det rinner en bäck från Vallda 17:17 till min tomt. Denna bäck borde
 åtgärdas vid nybygge. Det har hänt att det svämmat över trots att vattnet leds till en brunn i
 
 gatan.
 
 Kommentar:
-1. Föreslag till detaljplan möjliggör endast för ett enbostadshus med tillhörande
+1\. Föreslag till detaljplan möjliggör endast för ett enbostadshus med tillhörande
 komplementbyggnad, exempelvis ett garage, utöver befintligt bostadshus.
-2. Önskemål om reglering av fastighet med mera hanteras privat och inte i detaljplan.
-3. Vid byggnation behöver fastighetsägaren säkerställa att inget dagvatten från fastigheten
+2\. Önskemål om reglering av fastighet med mera hanteras privat och inte i detaljplan.
+3\. Vid byggnation behöver fastighetsägaren säkerställa att inget dagvatten från fastigheten
 påverkar omkringliggande fastigheter negativt.
 
 Organisationer och föreningar
 
-8. Ekås Samfällighetsförening
+8\. Ekås Samfällighetsförening
 Området som benämns Natur på kartan
 
 Området som benämns Natur och under rubriken Konsekvenser där det står att nuvarande
@@ -4719,14 +4719,14 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-9. Miljö & Hälsoskydd
+9\. Miljö & Hälsoskydd
 
 Miljö & Hälsoskydd har inga synpunkter, då området redan utgör ett etablerat bostadsområde och de
 föreslagna förändringarna inte bedöms vara av väsentlig karaktär ur miljö- och hälsoskyddssynpunkt.
 Kommentar:
 
 Yttrandet noteras.
-10. Förvaltningen för Teknik
+10\. Förvaltningen för Teknik
 
 Vallda 17:17 är idag inom verksamhetsområde för spill-, dag- och dricksvatten. Önskas ny anslutning
 för Vallda 17:223 eller ny avstyckning kan det beställas genom en VA-ansökan till Kungsbacka
@@ -4742,13 +4742,13 @@ Yttrandet noteras.
 
 Övriga
 
-11. Ellevio
+11\. Ellevio
 Ellevio har inget att erinra.
 
 Kommentar:
 Yttrandet noteras.
 
-12. Skanova
+12\. Skanova
 
 Skanova har inget att erinra mot detaljplanen. Skanovas teleanläggningar/rättigheter berörs
 inte/påverkas inte av rubricerat planförslag. Tvingas Skanova vidta undanflyttningsåtgärder eller
@@ -4813,17 +4813,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.
@@ -6357,10 +6357,10 @@ vara undertecknat av exploatören och godkänt av berörd politisk instans innan
 antas.
 I det här projektet kommer exploateringsavtalet att omfatta
 
--  Definition av exploateringsområdet.
+\-  Definition av exploateringsområdet.
 
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörens bekostnad (exploateringsbidrag). Utbyggnaden sker till
@@ -6368,7 +6368,7 @@ självkostnadspris, enligt reglerna om gatukostnader i PBL. Betalning sker löpa
 takt med att området byggs ut.
 Åtgärder inom kvartersmark för detaljhandel och parkering ansvarar exploatören för.
 
--  Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
+\-  Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
 huvudmannaskap är utgångspunkten att exploatören överlåter allmän platsmark till
 kommunen utan ersättning.
 
@@ -6376,15 +6376,15 @@ kommunen utan ersättning.
 
 Detaljplan för handel inom Varla 2:412             Datum: 2026-09-08
 
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
 
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
--  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
 säkerställa exploatörens åtaganden.
 
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att

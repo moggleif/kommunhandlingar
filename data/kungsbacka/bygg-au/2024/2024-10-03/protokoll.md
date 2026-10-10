@@ -686,7 +686,7 @@ Datum
 HARESTORP 1:8 - Förhandsbesked för nybyggnad av tre enbostadshus
 
 Ärendet utgår vid byggnadsnämndens arbetsutskott sammanträde den 3 oktober
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 53ED0441FD33629A914B6C019958CC4474CB8659E7
@@ -1164,10 +1164,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 2 kap. 2 § PBL ska mark- och vattenområden användas för det eller de
@@ -1668,7 +1668,7 @@ Ansökan registrerades 2024-07-30.
 Ansökan gäller tillbyggnad av ett enbostadshus. Tillbyggnaden består av ett uterum
 som har en tillkommande bruttoarea om 23,1 m2 och en tillkommande byggnadsarea
 om 15 m2. Tillbyggnadens fasader och tak kläs med en aluminiumram i kulör RAL
-9010.
+9010\.
 
 Den sammanlagda byggnadsarea enligt inskickade ritningar blir 214 m2.
 Ansökan var komplett 2024-09-12.
@@ -1858,7 +1858,7 @@ En underrättelse med förvaltningens bedömning skickas till sökande 2024-07-1
 Sökande inkommer med ett skriftligt yttrande 2024-07-24. Yttranden finns i sin
 
 helhet som beslutsunderlag. Sökande inkommer med ytterligare ett yttrande 2024-09-
-17.
+17\.
 
 Beslutsunderlag
 
@@ -2701,20 +2701,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
@@ -2908,21 +2908,21 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som
 dispensen avser:
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar
 betydelse för strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering
 är väl avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och
 behovet inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen
 inte kan genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som
 inte kan tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
@@ -3145,7 +3145,7 @@ Datum
 Åtgärdsföreläggande med vite att klippa växtlighet vid utfart
 
 Ärendet utgår vid byggnadsnämndens arbetsutskotts sammanträde den 3 oktober
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 53ED0441FD33629A914B6C019958CC4474CB8659E7

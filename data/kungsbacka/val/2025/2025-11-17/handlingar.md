@@ -415,10 +415,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -426,11 +426,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 10
 
@@ -444,8 +444,8 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -453,20 +453,20 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 11
 
@@ -1094,7 +1094,7 @@ för granskning i varje nämnd. Enligt kommunallagen och reglementet för nämnd
 nämnderna för att den interna kontrollen är tillräcklig och utformad så att den till en rimlig grad av
 säkerhet uppnår: - efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer - ändamålsenlig
 och kostnadseffektiv verksamhet - tillförlitlig finansiell rapportering och information om verksamheten
-- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
+\- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
 allvarliga fel. Risk kan i det här sammanhanget definieras som ”händelser och företeelser som hotar
 
 eller hindrar att uppdrag kan genomföras och att mål för verksamheten nås samt att det sker på avsett
@@ -1251,10 +1251,10 @@ Valnämnden ansvarar för behörighetsadministrationen och för användarna i si
 till och tar bort användare, ser till att användarna har rätt behörighetsroll, med mera. Valnämnden
 behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort behörighetsroller
 för kommunens övriga användare.
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen inskrivare krävs för
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen inskrivare krävs för
 
 att kunna lägga till och ta bort användare i Valid.
 
@@ -1283,7 +1283,7 @@ www.kungsbacka.se
 
 <!-- sida 37 -->
 
-Från:                  Fanny Nilsson <Fanny.Nilsson@se.ey.com>
+Från:                  Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
 Skickat:               den 3 november 2025 08:52
 Till:                  Teknik; Service; Förskola Grundskola; Gymnasium &
 Arbetsmarknad; Individ & Familjeomsorg; Miljö & Hälsoskydd
@@ -1320,7 +1320,7 @@ Parkgatan 49, 401 82, Göteborg, Sweden
 Office: +46767056411 | Fanny.Nilsson@se.ey.com
 Website: http://www.ey.com/se
 
-___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 The information contained in this communication is intended solely for the use of the individual
 or entity to whom it is addressed and others authorized to receive it. It may contain confidential
 or legally privileged information. If you are not the intended recipient you are hereby notified
@@ -1448,7 +1448,7 @@ Transaktionsidentitet: E4EAD724887BFF08DEC46C2AEB4DFB1EE14533195E
 
 <!-- sida 41 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 2 oktober 2025 15:57
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetssammanfattning v 40
@@ -1489,7 +1489,7 @@ Valmyndigheten
 
 <!-- sida 42 -->
 
-Från:                  Myndigheten för delaktighet <nyhetsbrev@mfd.se>
+Från:                  Myndigheten för delaktighet \<nyhetsbrev@mfd.se>
 Skickat:               den 18 september 2025 11:13
 Till:                  Valnämnden
 Ämne:                  Gör valet 2026 tillgänglligt – stöd för valnämnd, kommunikation och

@@ -266,7 +266,7 @@ stad till protokollet.
 
 Sammanfattning av ärendet
 Den fördjupade översiktsplanen för Kungsbacka stad är ute på samråd fram till 7 juni
-2024. Nämnden för Service har en viktig roll i att förverkligandet. Andrea Ericsson,
+2024\. Nämnden för Service har en viktig roll i att förverkligandet. Andrea Ericsson,
 Planarkitekt Samhällsbyggnadskontoret ger information kring arbetet med fokus kopplat
 till nämnden för Service uppdrag.
 

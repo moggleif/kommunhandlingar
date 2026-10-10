@@ -459,7 +459,7 @@ kronor per timme till 1 502 kronor per timme i enlighet med stycke fem i taxans
 inledande bestämmelser.
 
 Den justerade handläggningskostnaden per timme gäller från och med 1 januari
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -536,7 +536,7 @@ kontroll av livsmedel och vissa jordbruksprodukter från 1 436 kronor per timme 
 502 kronor per timme i enlighet med 8 § i taxans inledande bestämmelser.
 
 Den justerade handläggningskostnaden per timme gäller från och med 1 januari
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -615,7 +615,7 @@ sprängämnesprekursorer, lagen om gaturenhållning och skyltning samt lagen om
 per timme i enlighet med 5 § i taxans inledande bestämmelser.
 
 Den justerade handläggningskostnaden per timme gäller från och med 1 januari
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Timavgiften i taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens
@@ -625,7 +625,7 @@ kommunal verksamhet, PKV. I 5 § i taxan anges att:
 
 ”Avgiftsbeloppen i denna taxa är bestämda med utgångspunkt från kostnadsläge och
 Prisindex för kommunal verksamhet (PKV) oktober månad. Basår för uppräkning är
-2022.
+2022\.
 
 Nämnden för Miljö & Hälsoskydd får för varje kalenderår (avgiftsår) därefter besluta
 att justera avgiftsbeloppen (fasta avgifter och timtaxa) med den procentsats för PKV
@@ -645,7 +645,7 @@ gaturenhållning och skyltning samt lagen om åtgärder mot föroreningar från 
 
 från 1 330 kronor per timme till 1 391 kronor per timme i enlighet med 5 § i taxans
 inledande bestämmelser. Den justerade timavgiften gäller från och med 1 januari
-2025.
+2025\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3A9C64F94C36E3F7729F356A79C9B1D82BE628391E
@@ -697,7 +697,7 @@ miljöbalken, 2023-11-09 § 131, enligt följande:
 
 Sammanfattning av ärendet
 Nämnden för Miljö & Hälsoskydd beslutade 2023-11-09 § 131 om en tillsynsplan för
-2024. Förvaltningen föreslår att tillsynsplanen revideras inom följande kategorier:
+2024\. Förvaltningen föreslår att tillsynsplanen revideras inom följande kategorier:
 
 • Händelsestyrd tid
 • Behovsprioriterad tid
@@ -728,7 +728,7 @@ personaltillgångar samt att personal med lång erfarenhet har slutat på. Vissa
 arbetsuppgifter har också tillkommit under året eller tagit längre tid jämfört med
 tillsynsplanen.
 Tillsynsplanen som gäller för 2024 behöver därmed revideras för resterande del av
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3A9C64F94C36E3F7729F356A79C9B1D82BE628391E
@@ -777,10 +777,10 @@ behovsprioriterade tillsynen inför beslut om kommande tillsynsplan för miljöb
 2025 för att uppnå nationella miljökvalitetsmålen i enlighet med bilaga 1, med
 ändring av prioriteringsordning enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Sammanfattning av ärendet
 
@@ -805,7 +805,7 @@ miljöförvaltningen föreslår därför att nämnden för Miljö & Hälsoskydd 
 inriktning och inbördes rangordning avseende behovsprioriterad tillsyn utifrån
 följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
 olovlig avfallshantering och motverka dumpning av avfall genom att informera och
 arbeta förebyggande så att Kungsbacka kommun inte blir en kommun där
 systematisk brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska
@@ -824,14 +824,14 @@ Nämnden för Miljö & Hälsoskydd
 Datum
 2024-11-07
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
 som ger information till våra invånare och företag och bidrar till en självreglerande
 utveckling där alla tjänar på att arbeta förbyggande med miljö- och
 hälsoskyddsfrågor. I första hand ska förvaltningen lägga tid på tillsyn och insatser
 som gynnar denna typ av utveckling och där grupper gynnas som inte kan värna sina
 egna rättigheter som barn, unga och äldre i Kungsbacka.
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
 insatser som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till
 en god livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till
@@ -850,10 +850,10 @@ Niclas Nilsson (M) yrkar på att ändra rangordningen av föreslagna prioriterad
 områden, där punkt 2. God bebyggd miljö och punkt 3. Grundvatten av god kvalitet
 byter plats enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Beslutsgång
 
@@ -1076,7 +1076,7 @@ miljömålsarbetet.
 
 Nämnden kommer tillsammans med byggnadsnämnden arbeta i policylabb den 26
 november 2024, som en form för uppföljning av den antagna strategin för 2024-
-2027. Förvaltningsledningen tillsammans med presidierna har dragit lärdomar från
+2027\. Förvaltningsledningen tillsammans med presidierna har dragit lärdomar från
 tidigare tillfällen i samma arbetsform.
 
 Beslutsgång

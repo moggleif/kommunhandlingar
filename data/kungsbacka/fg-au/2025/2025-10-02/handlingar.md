@@ -207,9 +207,9 @@ mm.
 Med anledning av frågeställningarna som uppkommit i arbetsmiljökartläggningen har
 ledningsgruppen följande inriktning:
 
--  Uppdraget psykologiskt ledningsansvarig kommer att utökas från 20% till 50%. Uppdraget
+\-  Uppdraget psykologiskt ledningsansvarig kommer att utökas från 20% till 50%. Uppdraget
 kommer att annonseras externt.
--  Utredning med inriktning mot ökad centralisering av skolpsykologerna.
+\-  Utredning med inriktning mot ökad centralisering av skolpsykologerna.
 
 Akademikerförbundet SSR:
 Finns det tankar på att centralisera all elevhälsa i förvaltningen?
@@ -539,7 +539,7 @@ Förvaltningen för Förskola & Grundskolas tjänsteskrivelse, 2025-09-23
 Skolpliktsuppföljning, 2025-09-23
 
 Beslutet skickas till
--
+\-
 
 Stigert Pettersson                 Frida Byrsten
 
@@ -805,7 +805,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g
@@ -1212,7 +1212,7 @@ samma grundbelopp.
 För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 beroende på
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 verksamhetsområdet. Den fristående skolan erhåller hela grundbeloppet utan
 avdraget ovan.
@@ -1361,12 +1361,12 @@ Lokalbehov 2027-2031 utblicksår 2032-2036
 Förslag till beslut
 Nämnden för Förskola & Grundskola beslutar:
 
--  att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
+\-  att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
 
--  att godkänna behovsbeskrivning förskoleplatser i Björkris.
--  att godkänna behovsbeskrivning Onsala skolor.
+\-  att godkänna behovsbeskrivning förskoleplatser i Björkris.
+\-  att godkänna behovsbeskrivning Onsala skolor.
 
--  att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
+\-  att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
 
 Sammanfattning av ärendet
 
@@ -1701,7 +1701,7 @@ anpassningen av lokalbeståndet har Gamla Kullaviksskolan sagts upp och verksamh
 Kullaviksskolan.
 I två områden finns behov av nya skolor. Förprojektering av Liljan skola och Ölmevallaskolan har
 genomförts under året. Projekten går nu in i projekteringsskede med planerad byggstart hösten
-2028. För Ölmevallaskolan innebär det även en ny lokalisering.
+2028\. För Ölmevallaskolan innebär det även en ny lokalisering.
 
 Vid Toråsskolan har en förstudie avseende om- och nybyggnation genomförts. Kapaciteten kommer
 
@@ -1715,7 +1715,7 @@ i Åsa, där hela ventilationssystemet ses över och ersätts med ett nytt.
 Anvisning
 
 Nämndens lokalbehov för grundskolor uttrycks i antal elever. Lokalbehoven avser åren 2027-
-2031. År 2026 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
+2031\. År 2026 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
 behov för 2026 kan inte tas upp här.
 
 Lokalbehov 2027-2031 utblicksår 2032-2036 9
@@ -1918,21 +1918,21 @@ VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 
 För eleverna
 
-- Moderniserade och funktionella lokaler skapar bättre förutsättningar för lärande och trivsel.
-- Lokalerna stödjer varierade och moderna pedagogiska arbetssätt.
-- Ökad säkerhet och tillgänglighet för alla elever.
+\- Moderniserade och funktionella lokaler skapar bättre förutsättningar för lärande och trivsel.
+\- Lokalerna stödjer varierade och moderna pedagogiska arbetssätt.
+\- Ökad säkerhet och tillgänglighet för alla elever.
 
 För personalen
 
-- Förbättrad arbetsmiljö stärker möjligheterna till ett hållbart yrkesutövande.
+\- Förbättrad arbetsmiljö stärker möjligheterna till ett hållbart yrkesutövande.
 
 För skolorganisationen och resurserna
-- Samlad bild av lokalernas status möjliggör effektivare prioriteringar och resursanvändning.
+\- Samlad bild av lokalernas status möjliggör effektivare prioriteringar och resursanvändning.
 
-- Långsiktig hållbarhet genom planerat underhåll och modernisering av byggnaderna.
+\- Långsiktig hållbarhet genom planerat underhåll och modernisering av byggnaderna.
 
 För området och kommunen
-- Uppgraderade skolmiljöer kan öka områdets attraktivitet för barnfamiljer.
+\- Uppgraderade skolmiljöer kan öka områdets attraktivitet för barnfamiljer.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 
@@ -1944,11 +1944,11 @@ Mindre ändamålsenliga utbildningslokaler kan åtgärdas och/eller avvecklas.
 
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Ja, genom:
-- Koncept utbildningslokaler 1.6
+\- Koncept utbildningslokaler 1.6
 
-- Koncept utemiljö
-- Koncept kök och matsalar
-- Koncept idrottshallar
+\- Koncept utemiljö
+\- Koncept kök och matsalar
+\- Koncept idrottshallar
 
 <!-- sida 50 -->
 
@@ -1960,7 +1960,7 @@ I dagsläget bedöms behovet av utbildningsplatser minska. En lämplig minskning
 om cirka 260 utbildningsplatser. Hur denna minskning bäst kan fördelas och placeras får den fortsatta
 utredningen utvisa.
 En utredning som ska redovisas för nämnden för Förskola & Grundskola pågår och är planerad till Q4
-2026.
+2026\.
 
 NYTTJANDETID/NYTTJANDEGRAD
 
@@ -1983,7 +1983,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 4 (Onsala)
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 51 -->
 
@@ -2017,7 +2017,7 @@ utökning av matsal i A- och B-huset samt tillskapandet av ny musiksal och utök
 i Portalen.
 Under 2025 planeras ombyggnation av de tre så kallade Plus-husen med fokus på att säkerställa god
 inomhusmiljö och förbättrad arbetsmiljö. Dessa arbeten beräknas pågå mellan januari och december
-2026. Från höstterminen 2028 kommer Åsaskolan att organiseras som en 4-9 skola med en oförändrad
+2026\. Från höstterminen 2028 kommer Åsaskolan att organiseras som en 4-9 skola med en oförändrad
 elevkapacitet om 750 elever. De yngre barnen i årskurserna F-3 kommer då i stället att gå på den
 nybyggda Ölmevallaskolan.
 
@@ -2131,7 +2131,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 6 (Åsa)
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 55 -->
 
@@ -2205,9 +2205,9 @@ placeringar över områdesgränserna inom Hede-Björkris.
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 Om omställningen inte genomförs blir konsekvenserna följande:
 
--  Befintlig kapacitet (100 platser) räcker inte för det ökade behovet, vilket leder till brist på
+\-  Befintlig kapacitet (100 platser) räcker inte för det ökade behovet, vilket leder till brist på
 förskoleplatser i området.
--  Försämrad möjlighet att erbjuda en likvärdig och tillgänglig barnomsorg för familjer i
+\-  Försämrad möjlighet att erbjuda en likvärdig och tillgänglig barnomsorg för familjer i
 området.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
@@ -2243,7 +2243,7 @@ verksamhetsfunktionen.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 Ja, NYKO 1 och specifikt Björkris/Skårby.
-_______________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 58 -->
 
@@ -2336,15 +2336,15 @@ Kommunen ansvarar enligt skollagen 11 kap. 24§ för att tillhandahålla utbildn
 Om detta inte kan uppfyllas bryter kommunen mot lagstiftningen.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
-- Utomhusytan kan minska om yta behöver tas i anspråk för nybyggnation.
+\- Utomhusytan kan minska om yta behöver tas i anspråk för nybyggnation.
 
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 
 Ja, till viss del genom:
-- Koncept utbildningslokaler 1.6
+\- Koncept utbildningslokaler 1.6
 
-- Koncept utemiljö
-- Koncept kök och matsal
+\- Koncept utemiljö
+\- Koncept kök och matsal
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER-OBS  MÅSTE BESVARAS
 Utökat behov av inomhusyta anpassad grundskola:
@@ -2366,9 +2366,9 @@ som går anpassad grundskola även på skolloven. Utemiljöer kan nyttjas av all
 verksamhetstid.
 3 (4)
 SAMBAND
-- Skola och anpassad grundskola är integrerade verksamheter.
+\- Skola och anpassad grundskola är integrerade verksamheter.
 
-- Gällande krav för anpassad grundskola behöver efterlevas.
+\- Gällande krav för anpassad grundskola behöver efterlevas.
 
 SAMORDNINGSBEHOV
 Förvaltningen för Service – fastighet och lokalplanering.
@@ -2383,7 +2383,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Idag bedrivs anpassad grundskola på Kollaskolan (NYKO 1). I så stor utsträckning som möjligt vill vi
 att AGR bedrivs på denna plats.
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 62 -->
 
@@ -2405,7 +2405,7 @@ Koncept utbildningslokaler 1.6
 Förslag till beslut i nämnden för Förskola & Grundskola
 
 Nämnden för Förskola & Grundskola beslutar:
--  att ställa sig bakom konceptets Del 1 Riktlinjer Koncept utbildningslokaler.
+\-  att ställa sig bakom konceptets Del 1 Riktlinjer Koncept utbildningslokaler.
 
 Beskrivning av ärendet
 Koncept utbildningslokaler har tagits fram i samverkan mellan förvaltningen för Service och
@@ -4172,7 +4172,7 @@ KÖK
 Mottagningskök
 Tillagningskök
 
-Sittplatser i matsal*
+Sittplatser i matsal\*
 
 Mall                                           Förstudie
 
@@ -4855,7 +4855,7 @@ X
 
 | 1.63 | Angöring |
 | --- | --- |
-| 1.64 | Utemiljö* |
+| 1.64 | Utemiljö\* |
 | 1.65 | Parkering |
 | 1.66 | Parkering |
 
@@ -5258,7 +5258,7 @@ Hemvist - entré
 1.3 WC                     1     2     1,7   3,4  WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      4     6     24
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -5342,9 +5342,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
+| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
 <!-- sida 149 -->
 
@@ -5512,7 +5512,7 @@ Hemvist - entré
 1.3 WC                     1     9     1,7   15,3 WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      6     6     36
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -5596,9 +5596,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
+| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
 <!-- sida 161 -->
 
@@ -5766,7 +5766,7 @@ Hemvist - entré
 1.3 WC                     1     9     1,7   15,3 WC och tvättställ.
 ```
 
-Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800*630 mm).
+Plats för vagnar till regnkläder och skor för 2 barngrupper (4 st á 800\*630 mm).
 1.4 Torkrum                      5     6     30
 Placeras om möjligt på plan 1 för att få skofria trappor.
 Kapprumsinredning för 15 barn och 5 pedagoger. Rummen kan placeras på varje
@@ -5850,9 +5850,9 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.3 | El |  |  |  |  |  |
 | 4.4 | Återvinningsrum |  |  |  |  | Storlek enligt Avfall Sverige. Bilaga. |
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
-| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000*740 mm) eller<br>lådcyklar (2 st á 2100*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
+| 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor*/-area 15% eller 158 kvm * Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
+| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
 <!-- sida 173 -->
 
@@ -6221,10 +6221,10 @@ tillgängliga jämförelsetal bedöms detta vara skäligt utifrån de nuvarande 
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1–4 bedöms lämpliga. Vid
@@ -6252,9 +6252,9 @@ Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -6280,7 +6280,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #206237 | Inskickat av: EMILIE STEEN | 2025-06-09 16:07
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -6324,7 +6324,7 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 Ca 245                            Ca 1 600
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -6364,7 +6364,7 @@ Ang. övrig personal så består den av tre utbildade montessoripedagoger (2,8) 
 Ventilation, värmepanna m.m. finns i källare och på vind som är ytor utöver de som redovisats
 på ritningarna. Därtill finns ett förråd för vagnar m.m. i annan byggnad.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -6516,10 +6516,10 @@ Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 KUNGSBACKA  KOMMUN
 3 (3)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -6545,7 +6545,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | 2025-08-26 09:24
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -6612,7 +6612,7 @@ vi nyttjar också skogen runt omkring. Det finns
 en innegård mellan husen som vi använder oss
 av ibland på eftermiddagarna.
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -6665,7 +6665,7 @@ tillsynsansvariga på kommunen.
 
 Därför skiljer sig inte antalet barn nu i ansökan från tidigare.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 

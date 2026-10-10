@@ -485,7 +485,7 @@ Kompetensförsörjning är att på kort och lång sikt säkerställa att verksam
 tillgång till medarbetare med rätt kompetens. Begreppet omfattar flera delar som
 analys av kompetensbehov, utbildning, rekrytering, behålla medarbetare med rätt
 kompetens och hur medarbetarnas tid och kompetens används (Socialstyrelsen
-2023)
+2023\)
 Målstyrt innebär att vi har en utmaning och vi vet lösningen; vi behöver ett
 
 arbetssätt för att införa lösningen.
@@ -513,7 +513,7 @@ Förslag till beslut
 
 Nämnden för Vård & Omsorg antar Nämndbudget 2026.
 Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att upprätta förvaltningsbudget för år
-2026.
+2026\.
 
 Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att göra nödvändiga omfördelningar i
 förvaltningsbudgeten under året samt att informera nämnden om dessa i samband med delårsbokslut
@@ -996,10 +996,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 12
 
@@ -1054,7 +1054,7 @@ Kommunfullmäktige
 | Indikatorer Utfall Utfall Utfall Målvärde<br>2023 2024 2025 2025 | Målvärde<br>2028 |
 | --- | --- |
 | Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar, 19 18,4 17<br>medelvärde, egenregi | 14 |
-| Fast omsorgskontakt inom hemtjänsten* 21 % 22 % 30 % | 80 % |
+| Fast omsorgskontakt inom hemtjänsten\* 21 % 22 % 30 % | 80 % |
 
 [Tabell 26-3](handlingar.tabeller/26-3.csv)
 
@@ -1070,11 +1070,11 @@ Nämndbudget 2026
 
 Fokusområden
 
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 14
 
@@ -1103,8 +1103,8 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 15
@@ -1142,8 +1142,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.4.1 Vård-och omsorgstagare i Kungsbacka kommun har en upplevd god hälsa och blir
 
@@ -1188,12 +1188,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 5.5.1 Medarbetare hos Vård & Omsorg får den kompetensutveckling som krävs för arbetet
 
@@ -3524,18 +3524,18 @@ Förslag till beslut i Nämnden för Vård & Omsorg
 Nämnden för Vård & Omsorg antar följande indikatorer för uppföljning av omställningen till God och
 
 Nära vård:
--  Delaktighet
+\-  Delaktighet
 
--  Samordning
--  Tillgänglighet
+\-  Samordning
+\-  Tillgänglighet
 
--  Förtroende
--  Kontinuitet
+\-  Förtroende
+\-  Kontinuitet
 
--  Återinskrivningar i slutenvården
--  Självskattad hälsa
+\-  Återinskrivningar i slutenvården
+\-  Självskattad hälsa
 
--  Personcentrering
+\-  Personcentrering
 
 Sammanfattning av ärendet
 
@@ -3644,10 +3644,10 @@ KUNGSBACKA  KOMMUN
 regionala Hallands- omsorgstagarens - ordinärt boende,
 
 indikatorerna) perspektiv.
--  bostad med särskild
+\-  bostad med särskild
 Instrumentet PERCCI-S  service,
 (person-centred
--  korttidsenhet
+\-  korttidsenhet
 community care
 inventory) används.
 Utvecklat och
@@ -3871,10 +3871,10 @@ de medarbetare som berörs. Att säkerställa goda rutiner och riktlinjer är n�
 möjliga sätt att hantera det på.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att med omedelbar verkan
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att med omedelbar verkan
 stoppa den planerade centraliseringen av koordinatorerna.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda på vilket sätt man
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda på vilket sätt man
 kan genomföra en organisationsutveckling med en bibehållen decentraliserad
 organisation med verksamhetsnära koordinatorer.
 
@@ -4085,7 +4085,7 @@ Diarienummer VO-2025-00347
 
 Avtal
 
--
+\-
 
 Övrigt
 Diarienummer VO-2025-00363. Yttrande till Inspektionen för vård och omsorg avseende begäran om

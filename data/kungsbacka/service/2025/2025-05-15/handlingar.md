@@ -546,7 +546,7 @@ samtliga medarbetare. Det görs för att skapa ett effektivt digitalt verktyg so
 verksamhet. Syftet är att förenkla och förbättra kommunikationen, öka tillgängligheten för medarbetarna
 och bidra till en säkrare arbetsmiljö. En pilotstudie pågår på Åsaskolan och visar att medarbetarna
 upplever bättre kommunikation och samarbete i teamet. Införandet beräknas ske under tredje kvartalet
-2025.
+2025\.
 PAI – Pythagoras All Inklusive. Kartläggningen av kalkylerade tjänster pågår. Det är ett tidskrävande och
 komplext arbete. Jämförelser görs mellan liknande objekt för att hitta synergier som kan utgöra en stabil
 grund i syfte att uppnå målet Pythagoras all inklusive.
@@ -613,7 +613,7 @@ för att motverka otillbörlig påverkan, både med riktade insatser för specif
 Upphandlingen av rivningen av Kvarteret Gjutaren har fått stor uppmärksamhet nationellt. Bland annat
 har Inköp blivit inbjudna att föreläsa inom SKRs nätverk ”Så kan upphandling främja återbruk inom
 byggsektorn”. En lärdom från arbetet har varit att det inte behöver vara komplicerat att testa nya arbetssätt
-- och att samarbete mellan olika roller och kompetenser är en viktig framgångsfaktor.
+\- och att samarbete mellan olika roller och kompetenser är en viktig framgångsfaktor.
 
 Hittills i år har inga upphandlingar blivit överprövade.
 Digitalt center
@@ -976,7 +976,7 @@ Nyckeltalen mäts på olika sätt inom fokusområdet Engagerade medarbetare:
 återger utfallet för den enskilda månaden.
   Rekommendationsviljan och medarbetarengagemanget rapporteras kvartalsvis.
   Andel praktikanter, antal riskobservationer, tillbud och olycksfall mäts för perioden januari
-- mars i tabellen ovan.
+\- mars i tabellen ovan.
   Siffrorna för sjukfrånvaro och personalomsättning avseende mars månad är tillgängliga först i
 maj, och redovisas därför inte i tabellen ovan.
 Kommentarer till utfall
@@ -1006,7 +1006,7 @@ jämförelse med förra
 året.
 Solcellsproduktion
 3 831 kw         3 831 kw        3 831 kw
-- Installerad effekt
+\- Installerad effekt
 Fossiloberoende fordon
 96,6 %           97 %            97,1 %
 (Fastigheter)
@@ -1309,7 +1309,7 @@ investeringar hos SM.
 Digitalt center redovisat ett överskott på löpande investeringar på cirka 5 mkr. Överskottet beror på att
 kostnaden för en investering blir 2 mkr lägre än budgeterat. Överskottet beror också på att utbyte av
 accesspunkter har legat före plan, det vill säga investeringar har redan genomförts under åren 2023 och
-2024. Övriga investeringar är kopplat till Digitalt center och där finns tre större investeringar
+2024\. Övriga investeringar är kopplat till Digitalt center och där finns tre större investeringar
 budgeterade. Budgeten beslutades i juni år 2024 och bedömningarna har sedan dess förändrats. Två av
 investeringarna bedöms i nuläget istället att genomföras år 2026. Den sista investeringen har i nuvarande
 prognoser bedömts behöva genomföras först år 2027.
@@ -1553,7 +1553,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 36 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -1586,12 +1586,12 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska
 framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 
 /verksamhetssystemet.
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
 och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1621,12 +1621,12 @@ enskilt ärende innan beslutet är taget.
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 förvaltningschefen.
@@ -1637,9 +1637,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 eller ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap
 38 § ska tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -1655,11 +1655,11 @@ sammanträde.
 
 Syftet med anmälan av delegeringsbeslut är att,
 
--  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär
+\-  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär
 bestäms genom det datum då beslutet eller det protokoll där anmälan noterats
 tillkännages. Det har alltså betydelse för när beslutet vinner laga kraft.
 
--  Ge nämnden fortlöpande information om vad som händer i verksamheten och
+\-  Ge nämnden fortlöpande information om vad som händer i verksamheten och
 därmed ligga som grund för möjlighet till förändringar och utveckling av
 verksamheten.
 
@@ -1718,7 +1718,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 4 (1
 
 <!-- sida 39 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -1751,7 +1751,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 6 (1
 | 2.1.12 | Dataskyddsförordningen,<br>GDPR artikel 37 | Utse dataskyddsombud för nämnden. | FC | Beslutet ska anmälas till Integritetsskyddsmyndigheten (IMY). |
 | 2.1.13 | Arkivbeskrivning,<br>nämnden för Service<br>2021-04-29 § 35 | Utse Informationsredogörare för förvaltningen för<br>Service. | FC | Anmäls till nämnden 1 gång per år. |
 | 2.1.14 | Reglemente för<br>kommunstyrelsen och<br>övriga nämnder<br>i Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och<br>ärenden som enligt lag eller annan författning<br>ankommer på nämnden eller på annat sätt faller inom<br>nämndens ansvarsområde. | FC |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | N Ordf.<br>För beslut som avser ordförande<br>beslutar vice ordförande | Rätt till arvode för deltagande på aktivitet regleras i Regler och<br>riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | N Ordf.<br>För beslut som avser ordförande<br>beslutar vice ordförande | Rätt till arvode för deltagande på aktivitet regleras i Regler och<br>riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 |  | Underteckna bidragsansökningar. | FC<br>VC<br>Ekonomichef | Statliga- och EU bidrag. Beslutsrätten gäller inom<br>budgetansvar för respektive verksamhetsområde. |
 
 <!-- sida 41 -->
@@ -1897,13 +1897,13 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -1933,12 +1933,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
 
@@ -1946,10 +1946,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.

@@ -3,11 +3,14 @@
 Sidans text ur textlagret med bevarad uppställning. Minst tre talrader i
 följd, där bara tomma rader får stå emellan, blir ett kodblock märkt
 `osaker-tabell` med uppställningen kvar. Övriga rader skrivs utan indrag
-men med mellanrummen kvar, så att tal i följd inte flyter ihop.
+men med mellanrummen kvar, så att tal i följd inte flyter ihop, och
+escapas som Markdown (ADR-0021).
 """
 
 import re
 import textwrap
+
+from kommunhandlingar.konvertering import markdown
 
 FALTGRANS = re.compile(r" {2,}")
 TAL = re.compile(r"[-−–]?(?:\d+|\d{1,3}(?:[  ]\d{3})+)(?:,\d+)?(?: ?%)?")
@@ -27,10 +30,11 @@ def stycken(text: str) -> tuple[str, bool]:
         slut = foljd(rader, i)
         if sum(1 for rad in rader[i:slut] if rad) >= MINSTA_FOLJD:
             block = textwrap.dedent("\n".join(rader[i:slut]))
-            delar += ["", f"```osaker-tabell\n{block}\n```", ""]
+            staket = markdown.kodstaket(block)
+            delar += ["", f"{staket}osaker-tabell\n{block}\n{staket}", ""]
             osaker, i = True, slut
         else:
-            delar.append(rader[i].strip())
+            delar.append(markdown.rad(rader[i]))
             i += 1
     return komprimera(delar), osaker
 

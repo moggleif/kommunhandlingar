@@ -364,10 +364,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -786,10 +786,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1623,7 +1623,7 @@ tjänsteskrivelse 2021-08-18, Dnr 2021-00738 Detaljplanen förväntas antas inom
 komma ändras under arbetets gång. Handläggaren för ”Bångsbogruppen” anser inte
 att vårt önskemål /ärende ligger inom hans uppdrag. Vi har skickat in ansökan /
 förfrågan via hemsidan.
-- Avstyckning är på gång. Vi har byggrätt på avstyckad del samt ingen begränsning
+\- Avstyckning är på gång. Vi har byggrätt på avstyckad del samt ingen begränsning
 på storlek av tomt, allt enl detaljplan S72. Lantmäteriet skickade först ett förslag för
 
 samråd till kommunen som (självklart!) avslogs. Lantmäteriet har nu ett uppdaterat
@@ -1926,10 +1926,10 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 

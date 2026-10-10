@@ -175,7 +175,7 @@ Sammanfattning av ärendet
 
 Taxor och avgifter inom Vård & Omsorg är baserade på prisbasbeloppet, PBB. Prisbasbeloppet för
 2026 höjs från 58 800 till 59 200 kronor, samt att nämnden för Service justerar priser med 3,1% för
-2026. Därmed justeras följande avgifter.
+2026\. Därmed justeras följande avgifter.
 
 Kommunfullmäktige tog beslut om förändrat beräkningssätt för taxor och avgifter för Vård & Omsorg,
 dnr VO/2016:19 §13. I beslutet delegerar kommunfullmäktige beslutsrätt om uppräknade taxor och
@@ -237,12 +237,12 @@ Förbehållsbelopp gifta och sammanboende under 65 år 6 548 6 504 Förhöjt fö
 KUNGSBACKA  KOMMUN
 3 (3)
 
-Omsorgsavgift högkostnad (maxtaxa)    2 660 2 642 0,5392*prisbasbeloppet/12
-Hyra särskilt boende (utanför hyreslagen) 2 733 2 714 0,5539*prisbasbeloppet/12
+Omsorgsavgift högkostnad (maxtaxa)    2 660 2 642 0,5392\*prisbasbeloppet/12
+Hyra särskilt boende (utanför hyreslagen) 2 733 2 714 0,5539\*prisbasbeloppet/12
 Timtaxa Hemtjänst                      266   264 10% av maxtaxa
-Trygghetslarm                          333   330 0,00562*prisbasbeloppet
+Trygghetslarm                          333   330 0,00562\*prisbasbeloppet
 
-Patientavgifter HSV                    375   373 0,00634*prisbasbeloppet
+Patientavgifter HSV                    375   373 0,00634\*prisbasbeloppet
 Avgift för korttidsplats Omsorg        89     88 Maxtaxa/30 avrundat nedåt
 Avgift för dagomsorg                   30     29 Maxtaxa / 90
 
@@ -757,7 +757,7 @@ interventioner och samverkan med ett multidisciplinärt team utefter
 patientens individuella förkunskaper och förutsättningar förekommer i
 
 sjuksköterskans kompetensbeskrivning (Svensk sjuksköterskeförening,
-2024) och kan relateras till kärnkompetenserna.
+2024\) och kan relateras till kärnkompetenserna.
 
 Personcentrerad vård
 
@@ -1077,7 +1077,7 @@ i den egna kroppen (Yuan et al., 2021) och förlust av hälsa (Oh et al., 2014).
 Förlorad funktion relaterat till sjukdomens progression beskrevs av patienter
 
 som en situation präglad av maktlöshet (Foley et al., 2014; Thorborg et al.,
-2023) vilket medförde känslor av förvirring och förtvivlan (Cipolletta et al.,
+2023\) vilket medförde känslor av förvirring och förtvivlan (Cipolletta et al.,
 2017; Rosengren et al., 2015). Flera patienter beskrev att sjukdomen
 medförde en känsla av osäkerhet (Foley et al., 2014; Ozanne & Graneheim,
 
@@ -1496,7 +1496,7 @@ respekt för individen vara centralt för att upprätta ett framgångsrikt
 partnerskap med patient och involverade närstående. Redogörelsen av
 patienters övervägande att distansera sig från vårdrelationen (Foley et al.,
 
-2014) återspeglar tydligt fördelarna med att upprätta personcentrerad vård
+2014\) återspeglar tydligt fördelarna med att upprätta personcentrerad vård
 för att främja värdig och meningsfull omvårdnad (McCormack & McCance,
 2021). Tillämpning av personcentrerad vård och utveckling av ett gynnsamt
 partnerskap kan initialt verka vara mödosamt men tycks vara framgångsrikt
@@ -1550,7 +1550,7 @@ sjukdomens komplexitet och varierande omvårdnadsbehov.
 
 Referenser
 
-* Avser resultatartiklar
+\* Avser resultatartiklar
 
 Andersen, P. M., Kuźma-Kozakiewicz, M., Keller, J., Maksymowicz-
 Śliwińska, A., Barć, K., Nieporęcki, K., Finsel, J., Vazquez, C.,
@@ -1595,7 +1595,7 @@ omvårdnad – ett samarbete mellan Universitetssjukhuset MAS och
 Malmö högskola” (Rapport 2). Malmö högskola, Hälsa och
 
 samhälle.
-* Cipolletta, S., Gammino, G. R., & Palmieri, A. (2017). Illness trajectories
+\* Cipolletta, S., Gammino, G. R., & Palmieri, A. (2017). Illness trajectories
 in patients with amyotrophic lateral sclerosis: How illness
 
 progression is related to life narratives and interpersonal
@@ -1622,19 +1622,19 @@ Erdmann, A., Spoden, C., Hirschberg, I., & Neitzke, G. (2022). Talking
 
 about the end of life: communication patterns in amyotrophic lateral
 sclerosis - a scoping review. Palliative care and social practice, 16,
-26323524221083676. https://doi.org/10.1177/26323524221083676
+26323524221083676\. https://doi.org/10.1177/26323524221083676
 
 Feldman, E. L., Goutman, S. A., Petri, S., Mazzini, L., Savelieff, M. G.,
 Shaw, P. J., & Sobue, G. (2022). Amyotrophic lateral
 sclerosis. Lancet, 400(10360), 1363–1380.
 https://doi.org/10.1016/S0140-6736(22)01272-7
 
-* Foley, G., Timonen, V., & Hardiman, O. (2014). Exerting control and
+\* Foley, G., Timonen, V., & Hardiman, O. (2014). Exerting control and
 adapting to loss in amyotrophic lateral sclerosis. Social science &
 
 medicine (1982), 101, 113–119.
 https://doi.org/10.1016/j.socscimed.2013.11.003
-* Foley, G., Timonen, V., & Hardiman, O. (2016). "I hate being a burden":
+\* Foley, G., Timonen, V., & Hardiman, O. (2016). "I hate being a burden":
 
 The patient perspective on carer burden in amyotrophic lateral
 sclerosis. Amyotrophic lateral sclerosis & frontotemporal
@@ -1769,7 +1769,7 @@ examensarbete. I M. Henricson (Red.), Vetenskaplig teori och
 metod: från idé till examination inom omvårdnad (2: a uppl., s. 421
 
 – 438). Studentlitteratur.
-* Oh, H., Schepp, K. G., & McGrath, B. B. (2014). A journey of suffering:
+\* Oh, H., Schepp, K. G., & McGrath, B. B. (2014). A journey of suffering:
 
 living with amyotrophic lateral sclerosis in South Korea. The
 
@@ -1786,7 +1786,7 @@ challenges of caring for persons with amyotrophic lateral sclerosis
 and cognitive impairments: a qualitative study. Palliative care and
 social practice, 16. https://doi.org/10.1177/26323524221077702
 
-* Ozanne, A., & Graneheim, U. H. (2018). Understanding the
+\* Ozanne, A., & Graneheim, U. H. (2018). Understanding the
 incomprehensible – patients’ and spouses’ experiences of
 
 comprehensibility before, at and after diagnosis of amyotrophic
@@ -1803,11 +1803,11 @@ practical guide to data analysis in general literature reviews. Nordic
 Journal of Nursing Research, 41(4), 175–186.
 
 https://doi.org/10.1177/2057158521991949
-* Rosengren, K., Gustafsson, I., & Jarnevi, E. (2015). Every Second Counts:
+\* Rosengren, K., Gustafsson, I., & Jarnevi, E. (2015). Every Second Counts:
 
 Women’s Experience of Living with ALS in the End-of-Life
 Situations. Home Health Care Management & Practice, 27(2), 76–
-82. https://doi.org/10.1177/1084822314547961
+82\. https://doi.org/10.1177/1084822314547961
 
 SFS 2003:460. Lag om etikprövning av forskning som avser människor.
 Utbildningsdepartementet. Hämtad 16 september,
@@ -1827,7 +1827,7 @@ https://swenurse.se/download/18.63d77b1e18bf5c2bfaa40841/17012
 44747726/Kompetensbeskrivning%20legitimerad%20sjuksko%CC
 %88terska%202024.pdf
 
-* Thorborg, T., Finderup, J., Winther, D. S., Lorenzen, C. K., & Dreyer, P.
+\* Thorborg, T., Finderup, J., Winther, D. S., Lorenzen, C. K., & Dreyer, P.
 (2023). The experiences of patients with amyotrophic lateral
 
 V
@@ -1860,14 +1860,14 @@ lateral sclerosis: a systematic review and meta-analysis. Journal of
 neurology, 267(4), 944–953. https://doi.org/10.1007/s00415-019-
 
 09652-y
-* Yu, Y., Zeng, L., Wu, M., Li, C., Qiu, Y., Liu, J., Yang, F., & Xia, P.
+\* Yu, Y., Zeng, L., Wu, M., Li, C., Qiu, Y., Liu, J., Yang, F., & Xia, P.
 
 (2024). Exploring amyotrophic lateral sclerosis patients' experiences
 of psychological distress during the disease course in China: a
 qualitative study. BMJ open, 14(6), e082398.
 https://doi.org/10.1136/bmjopen-2023-082398
 
-* Yuan, M., Peng, X., Zeng, T., Wu, M., Chen, Y., Zhang, K., & Wang, X.
+\* Yuan, M., Peng, X., Zeng, T., Wu, M., Chen, Y., Zhang, K., & Wang, X.
 (2021). The illness experience for people with amyotrophic lateral
 sclerosis: A qualitative study. Journal of Clinical Nursing, 30(9/10),
 
@@ -1901,7 +1901,7 @@ Bilaga B
 
 Tabell 2: Sökhistorik
 
-* Siffror inom parentes anger dubbletter av vetenskapliga artiklar som
+\* Siffror inom parentes anger dubbletter av vetenskapliga artiklar som
 förekommit i tidigare databassökningar.
 
 II
@@ -1911,7 +1911,7 @@ II
 | Rad | Datum | Databas | Sökord/Limits/Booleska<br>operatorer | Antal<br>träffar | Lästa<br>abstrakt | Granskade<br>artiklar | Resultat<br>artiklar |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 240906 | CINAHL | (MH "Amyotrophic<br>Lateral Sclerosis") AND<br>patient AND experience<br>Limits: Publication date:<br>2014–2024, English,<br>Peer Reviewed | 91 | 15 | 9 | 4 |
-| 2 | 240909 | PubMed | "Amyotrophic Lateral<br>Sclerosis"[Mesh] AND<br>patient AND experience<br>Limits: Publication date:<br>2014–2024, English | 209<br>(4) * | 33 | 15 | 5 |
+| 2 | 240909 | PubMed | "Amyotrophic Lateral<br>Sclerosis"[Mesh] AND<br>patient AND experience<br>Limits: Publication date:<br>2014–2024, English | 209<br>(4) \* | 33 | 15 | 5 |
 |  |  |  |  | 300 | 48 | 24 | 9 |
 
 <!-- sida 48 -->
@@ -2927,10 +2927,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 76 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
 
 Engagerad ledning och tydlig styrning .............................................................................................3
 Övergripande mål och strategier .................................................................................................4
@@ -2941,7 +2941,7 @@ En god säkerhetskultur.........................................................
 Adekvat kunskap och kompetens ....................................................................................................5
 Patienten som medskapare .........................................................................................................6
 
-4. AGERA FÖR SÄKER VÅRD .............................................................................................................6
+4\. AGERA FÖR SÄKER VÅRD .............................................................................................................6
 Öka kunskap om inträffade vårdskador ...........................................................................................7
 
 Har vården varit säker .................................................................................................................7
@@ -2963,7 +2963,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 77 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -2975,7 +2975,7 @@ patientsäkerhetsberättelse för att nämnden ska få återkoppling under året
 patientsäkerhetsarbete som utförts och resultat som uppnåtts.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 
 Den hälso- och sjukvård som utförs i verksamheten är av god kvalitet. Ingen händelse eller
 
@@ -3000,7 +3000,7 @@ uppstår. IF uppvisar ett mycket förbättrat resultat vad gäller läkemedelsin
 upp till godkänd nivå. Även följsamheten till rehabiliteringsinsatserna har ökat om än i
 mindre omfattning.
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 
 Engagerad ledning och tydlig styrning
 
@@ -3102,7 +3102,7 @@ och Nära vård eller slutrapport ”Projekt utbildningsteam”.
 Verksamheten har genomfört utbildningar i hjärt-lungräddning för att öka kompetensen hos
 
 medarbetarna inom området. Utbildning kommer att genomföras vartannat år från och med
-2024.
+2024\.
 
 Under hösten 2025 kommer korttidsvistelse Stöd i hemmet IF prioritera hjärt-lungräddning
 (HLR) för barn som en kompetenshöjande insats då det tidigare endast har erbjudits
@@ -3143,7 +3143,7 @@ samarbete mellan förvaltningarna för IF och VO. På daglig verksamhet har ett 
 
 arbetsterapeut och fysioterapeut börjat för att förbättra möjlighet till fysisk aktivitet i grupp.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
 Vårdgivaren ska utöva egenkontroll, vilket ska göras med den
@@ -3156,16 +3156,16 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
 
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
 
 6
 
 <!-- sida 81 -->
 
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
-5. Öka riskmedvetenhet och beredskap
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
+5\. Öka riskmedvetenhet och beredskap
 
 Under våren har enhetschefer, biståndshandläggare, legitimerade personal, och medarbetare
 på förvaltningskontoret fått möjlighet att gå utbildning i systematiskt kvalitetsarbete.
@@ -3184,7 +3184,7 @@ underlag för utformning av åtgärder och prioritering av insatser.
 
 Har vården varit säker
 Den övergripande analysen av de händelser som inrapporterats under perioden 241101–
-250430. Utredning av händelserna har visat att mer än 2/3 av de inrapporterade händelserna
+250430\. Utredning av händelserna har visat att mer än 2/3 av de inrapporterade händelserna
 inte berodde på någon brist i verksamheten. Få händelser har orsakat en allvarlig konsekvens
 och de flesta händelser hade ingen eller liten påverkan på/för den enskilde. Dessa resultat är
 linje med resultat från tidigare år.
@@ -3548,7 +3548,7 @@ utföra insatsen på en överenskommen tid.
 
 Följsamhet till ordinerade hälso- och sjukvårdsinsatser
 Totalt har drygt 1,6 miljoner insatser delegerats/instruerats i VO under perioden 251101–
-250430. Motsvarande siffra för IF är drygt 200 000. Verksamheterna behöver nå 95 %
+250430\. Motsvarande siffra för IF är drygt 200 000. Verksamheterna behöver nå 95 %
 
 följsamhet för att nå godkänt resultat.
 VO behöver öka följsamheten att utföra omvårdnads- och rehabiliteringsinsatser. Den svaga
@@ -4654,7 +4654,7 @@ Nedan följer statistik, där möjligt i jämförelse mellan åren 2023, 2024, 2
 Intern statistik
 
 Utifrån nedan statistik kan utläsas att övertiden ökat under juni, juli, augusti 2025 i jämförelse med
-2024.
+2024\.
 
 Övertid i antal timmar 2023 2024 2025 Förändring år 2024 till år 2025
 Juni               4 514 1 814 3 869       +2 055
@@ -4670,7 +4670,7 @@ våren 2025 om att deltidsanställda ska ersättas med övertid direkt vid extra
 tidigare med först fyllnadstid upp till heltid.
 
 En jämförelse mellan kostnader för fyllnadstid kontra övertid. Fyllnadstiden har minskat rejält sedan år
-2023.
+2023\.
 Kostnad övertid och fyllnadstid (tkr) 2023 2024         2025
 Kostnad övertid januari till augusti 16 122 6 884       10 551
 
@@ -5098,7 +5098,7 @@ KUNGSBACKA  KOMMUN
 Analys
 
 Analysen av enkätsvaren visar att bemanningen var en utmaning för många enheter under sommaren
-2025. 60% av enhetscheferna nämner bemanning och personal som en utmaning, och många upplever
+2025\. 60% av enhetscheferna nämner bemanning och personal som en utmaning, och många upplever
 
 att det är svårt att nå inriktningsbeslutet om 66% ordinarie personal i tjänst under sommaren även om
 man planerat utifrån det från början. Samarbetet och kommunikationen mellan enheterna och
@@ -5317,7 +5317,7 @@ Totalt                         183  492          157  845        - 25  647      
 Enkät vikarier - helhetsupplevelse
 
 Kungsbacka
-5. Hur har din upplevelse varit under din tid som vikarie inom vård och omsorg? Mer
+5\. Hur har din upplevelse varit under din tid som vikarie inom vård och omsorg? Mer
 e Mycket bra Bra Varken bra eller dålig Ganska dålig — € Dålig
 EO |
 100920 090 100924
@@ -5329,14 +5329,14 @@ Observera svarsfrekvens något låg på enkäterna
 Enkät vikarier - upplevd arbetsbelastning
 
 Kungsbacka
-9. Var arbetsbelastningen rimlig under tiden du arbetade som vikarie?
+9\. Var arbetsbelastningen rimlig under tiden du arbetade som vikarie?
 
 Nivå 5 BIN 63
 
 3 39 Nivå 4 BI 62
 Genomsnittligt Nivå 3 Sn 40
 omdöme
-> då 6 IM Ar Nivå 2 NN 1
+\> då 6 IM Ar Nivå 2 NN 1
 
 Nivå 1 0 7
 
@@ -5344,7 +5344,7 @@ Nivå 1 0 7
 
 Enkät medarbetare - upplevd arbetsmiljö
 
-7. Hur har du upplevt arbetsmiljön under sommaren?
+7\. Hur har du upplevt arbetsmiljön under sommaren?
 
 Mycket bra
 
@@ -5384,7 +5384,7 @@ Enkät medarbetare —- upplevelse av
 vikarier
 
 Kungsbacka
-4. Hur väl upplever du att vikarierna var förberedda på vad arbetet innebär?
+4\. Hur väl upplever du att vikarierna var förberedda på vad arbetet innebär?
 Nivå 5 OD 7
 2 69 Nivå 4 BIN 35
 Genomsnittligt Nivå 3 BIN 54
@@ -5466,7 +5466,7 @@ jobbet är väldigt
 givande.”
 
 LÄ
-|
+\|
 
 €Jag kände mig väldigt Kungsbacka
 välkommen - alla var
@@ -5535,7 +5535,7 @@ J 0300-83 51 84
 
 PLAN
 
-$& kungsbacka.se
+\$& kungsbacka.se
 
 <!-- sida 158 -->
 
@@ -5805,7 +5805,7 @@ Diarienummer VO-2025-00346
 
 Avtal
 
--
+\-
 
 Övrigt
 

@@ -249,13 +249,13 @@ Sammanfattning av ärendet
 Under perioden 26 april - 3 juni 2024 har följande skrivelser inkommit till
 valnämnden:
 
-- Revisionsplan 2024
-- Valmyndighetens nyhetsutskick v. 22
+\- Revisionsplan 2024
+\- Valmyndighetens nyhetsutskick v. 22
 
-- Kungörelse - slutlig sammanräkning 2024
-- Valmyndighetens nyhetsutskick v. 21
+\- Kungörelse - slutlig sammanräkning 2024
+\- Valmyndighetens nyhetsutskick v. 21
 
-- Valmyndighetens nyhetsutskick v. 20
+\- Valmyndighetens nyhetsutskick v. 20
 
 Beslutsgång
 
@@ -375,15 +375,15 @@ Räkningen följer vallagen med tillhörande förordning samt föreskrifter och
 anvisningar från Valmyndigheten.
 
 Följande noterades även:
-- Det var totalt 1 599 röster till valnämndens preliminära rösträkning.
+\- Det var totalt 1 599 röster till valnämndens preliminära rösträkning.
 
-- Inga förtidsröster anlände med post efter onsdagsräkningens början.
-- Förtidsröster och brevröster inkom med PostNord före valboxarna öppnades.
+\- Inga förtidsröster anlände med post efter onsdagsräkningens början.
+\- Förtidsröster och brevröster inkom med PostNord före valboxarna öppnades.
 
-- Inga förtidsröster till annan kommun upptäcktes.
-- Genomgång och hantering av underkända röster som överlämnats på valnatten.
+\- Inga förtidsröster till annan kommun upptäcktes.
+\- Genomgång och hantering av underkända röster som överlämnats på valnatten.
 
-- Protokoll upprättades för överlämnande till Länsstyrelsen. Överlämning sker
+\- Protokoll upprättades för överlämnande till Länsstyrelsen. Överlämning sker
 onsdagen 12 juni.
 
 Det här dokumentet är digitalt signerat

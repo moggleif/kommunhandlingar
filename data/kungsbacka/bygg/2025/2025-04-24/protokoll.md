@@ -632,14 +632,14 @@ Byggnadsnämnden gav den 28 november 2018, § 465, samhällsbyggnadskontoret i
 uppdrag att upprätta detaljplan för bostäder, verksamheter och restaurang inom
 
 Skällared 3:55 m.fl. i Gottskär. Planprogram har godkänts den 23 oktober 2018, §
-265.
+265\.
 Detaljplanen medger byggnation av cirka 70 bostäder, lokaler för verksamheter och
 en restaurangbyggnad samt utbyggnad av erforderlig infrastruktur såsom gator, torg,
 bryggstråk och gång- och cykelstråk. Byggnadernas utformning ska ta till vara de
 bebyggelsetraditioner som finns i Gottskär och bidra till att stärka ortens identitet.
 
 Planförslaget har varit utställt för granskning under tiden 24 september–29 oktober
-2024. Under granskningstiden inkom 19 skrivelser. Inkomna synpunkter berörde
+2024\. Under granskningstiden inkom 19 skrivelser. Inkomna synpunkter berörde
 bland annat tillåten nockhöjd, placering av byggnader, antalet bostäder som
 möjliggörs samt trafik. Länsstyrelsen lyfte i sitt yttrande frågor kopplat till hälsa och
 säkerhet samt risk för olyckor, översvämning eller erosion.
@@ -658,7 +658,7 @@ bryggstråk gjorde kontoret bedömningen att detaljplanen skulle genomgå en ny
 granskning.
 
 Planförslaget har varit utställt för en andra granskning under tiden 4–25 februari
-2025. Under granskningstiden inkom 18 skrivelser. Inkomna synpunkter berörde
+2025\. Under granskningstiden inkom 18 skrivelser. Inkomna synpunkter berörde
 bland annat tillåten nockhöjd och placering av byggnader. Samtliga yttranden finns
 sammanfattade och kommenterade i ett granskningsutlåtande daterat 2025-03-18.
 

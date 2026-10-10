@@ -213,23 +213,23 @@ styrelsens diarium senast 2024-01-26. Motionen behandlades av Kommunfullmäktige
 2023-09-12 § 139.
 
 Motionärerna yrkar:
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
 kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker och på
 allmänna ytor samt av kommunen ägda bolags marker tex Eksta och Tjolöholm. En plan
 för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
-4. Upprepade insatser och uppföljning
+3\. Metod och avfallshantering
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
 kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även gälla
 underentreprenörer för att effektivisera bekämpningen i parker och allmänna ytor och till
 kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
 att effektivt förhindra spridning.
 Kungsbackaborna anger bland annat i sin motion att invasiva främmande arter är ett
 växande problem och räknas som ett av de absolut största hoten mot biologisk mångfald.
@@ -255,23 +255,23 @@ Datum
 anställda som arbetar eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör
 avslås med hänvisning till att utbildning för anställda redan finns inom kommunen.
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för
 bekämpning av invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
 
 Service.
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
 verksamhetsområden och enheter inom förvaltningarna Teknik, Service och
 Kommunstyrelsen med uppdrag att samordna tidiga insatser så att rätt åtgärder
 vidtas.
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
 personal inför växtsäsongen.
 
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att
 
 effektivisera bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor,
@@ -333,15 +333,15 @@ upprätthålla kommunens motståndskraft och en hög informationssäkerhet.
 För nedan fyra punkter har kommunrevisionen begärt svar med avseende på vad som ska
 göras, när samt vem som ansvarar.
 
--  Utveckla ett strukturerat och regelbundet arbete med
+\-  Utveckla ett strukturerat och regelbundet arbete med
 informationssäkerhetsutbildningar för samtliga medarbetare inom Kungsbacka
 kommun.
--  Genomföra både teoretiska samt praktiska övningar inom phishing.
+\-  Genomföra både teoretiska samt praktiska övningar inom phishing.
 
--  Vidareutveckla befintliga rapporteringsvägar och kommunicera vikten av att
+\-  Vidareutveckla befintliga rapporteringsvägar och kommunicera vikten av att
 rapportera säkerhetsincidenter till samtliga medarbetare.
 
--  Färdigställa kontinuitetsplaner för samtliga förvaltningar och säkerställa att dessa
+\-  Färdigställa kontinuitetsplaner för samtliga förvaltningar och säkerställa att dessa
 kommuniceras till verksamheten.
 
 Beslutsunderlag
@@ -764,15 +764,15 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och tillförordnad biträdande
 förvaltningschef Johan Burman informerar om,
 
--  att partnerdialogerna mellan förvaltningarna inte har startat än för år 2024
--  presidiedialog med nämnden för Vård & Omsorg 2024-01-17
+\-  att partnerdialogerna mellan förvaltningarna inte har startat än för år 2024
+\-  presidiedialog med nämnden för Vård & Omsorg 2024-01-17
 
--  chefspoolen som är ett pilotprojekt som drivs av förvaltningen för Service
--  bemanning och hantering av verksamheterna under julhelgerna som löpte på
+\-  chefspoolen som är ett pilotprojekt som drivs av förvaltningen för Service
+\-  bemanning och hantering av verksamheterna under julhelgerna som löpte på
 enligt plan
 
--  att Lokalvård blivit miljödiplomerade för 8:e gången av Svensk Miljöbas
--  att det varit inbrott i några av kommunens fastigheter
+\-  att Lokalvård blivit miljödiplomerade för 8:e gången av Svensk Miljöbas
+\-  att det varit inbrott i några av kommunens fastigheter
 
 Beslutsgång
 

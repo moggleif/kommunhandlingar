@@ -1,0 +1,15389 @@
+---
+kommun: kungsbacka
+organ: ks-au
+datum: 2026-06-10
+lopnr: null
+typ: handlingar
+namn: null
+kallnyckel: sitevision:18.6447748c19e6392323474a2e
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323474a2e/1780660060623/Kommunstyrelsens%20arbetsutskott%20handlingar%202026-06-10.pdf
+sha256: 9689113563a514cfd226218beac3961ea9b934ab76f9d663f6bcf81b096d1c25
+bytes: 117508267
+sidor: 395
+hamtad: 2026-10-09T12:18:38+00:00
+konverterad: 2026-10-09T12:26:52+00:00
+pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+kvalitet: delvis
+fel: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok]
+tal_obekraftade: [7, 44, 45, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 66, 67, 83, 84, 90, 91, 92, 93, 94, 95, 96, 99, 100, 109, 110, 111, 112, 113, 114, 119, 123, 126, 132, 133, 134, 135, 139, 142, 143, 146, 147, 148, 149, 150, 154, 156, 163, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177, 180, 193, 201, 202, 206, 231, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 315, 319, 320, 321, 323, 325, 327, 328, 330, 332, 334, 342, 349, 350, 351, 352, 353, 354, 355, 388, 389, 390, 391, 392]
+figurer: [9, 13, 21, 34, 35, 36, 37, 38, 39, 40, 41, 43, 61, 62, 70, 71, 72, 73, 74, 78, 79, 88, 97, 98, 101, 106, 121, 124, 125, 127, 128, 129, 130, 131, 136, 137, 138, 140, 141, 144, 145, 157, 159, 160, 161, 162, 164, 165, 176, 178, 183, 184, 185, 191, 196, 198, 200, 203, 204, 205, 213, 228, 382, 384, 385, 386, 387]
+tolkade: []
+---
+
+<!-- sida 1 -->
+
+KALLELSE/UNDERRÄTTELSE
+
+Upprättad
+2026-06-03
+
+Kommunstyrelsens  arbetsutskott
+
+Sammanträde Onsdagen den 10 juni 2026 kl. 08:30
+Kungsbackarummet, Storgatan 37
+
+Therese Tanner                                               Kungsbacka kommun
+Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
+Direkt 0300-834235
+therese.tanner@kungsbacka.se                                    Besöksadress
+Stadshuset
+www.kungsbacka.se
+
+[Tabell 1-1](handlingar.tabeller/1-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+|  | Val av justerare |  | Stefan Jägnert |
+| 1. | Svar på Länsstyrelsen i<br>Hallands läns remiss av förslag<br>till beslut för Stättareds<br>naturreservat i Kungsbacka<br>kommun | KS-2026-00361 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-05-06, och översänder som sitt svar till<br>Länsstyrelsen i Hallands län. |
+| 2. | Svar på Mölndals stads remiss<br>av Strategi för hållbar<br>masshantering | KS-2026-00337 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-05-05, och översänder det som sitt svar till<br>Mölndals stad. |
+| 3. | Svar på Göteborgsregionens<br>remiss gällande strategiska<br>vägval inför Västra<br>Götalands framtagande av<br>styrdokument Storkoll 2050 | KS-2026-00186 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-05-19, och översänder det som sitt svar till<br>Göteborgsregionen. |
+| 4. | Svar på Region Hallands remiss<br>av Kollektivtrafikplan 2027<br>med utblick 2028–2031 | KS-2025-00955 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-05-11, och översänder det som sitt svar till<br>Region Halland. |
+| 5. | Yttrande över Region Hallands<br>förstudie inför kommande<br>upphandling av buss | KS-2026-00067 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-06-02, och översänder det som sitt svar till<br>Region Halland |
+
+<!-- sida 2 -->
+
+KUNGSBACKA  KOMMUN
+
+2(3)
+
+[Tabell 2-1](handlingar.tabeller/2-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 6. | Svar på motion från Maria<br>Losman (MP) m.fl. att införa ett<br>kostnadsneutralt system för<br>förmånscyklar | KS-2023-00096 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad<br>med hänvisning till att frågor som rör<br>ambitionsnivå inom personalförmåner hanteras i<br>ordinarie budgetprocess. |
+| 7. | Svar på motion från Magdalena<br>Sundqvist (S) om att öka<br>Kungsbacka kommuns<br>strategiska markinnehav | KS-2025-00846 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen besvarad<br>med hänvisning till att kommunen redan arbetar<br>strategiskt med markinköp utifrån de Riktlinjer<br>för markägande som kommunstyrelsen antog den<br>23 juni 2020. |
+| 8. | Införande av premie till jägare<br>för fällda vildsvin | KS-2025-00881 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger i uppdrag till<br>kommundirektören att införa pilotprojekt rörande<br>viltpremie om 1 000 kronor för fällda vildsvin i<br>enlighet med förslaget i utredningen Kommunal<br>viltpremie i Kungsbacka kommun – Förslag till<br>modell med inriktning på minskad vildsvins-<br>population och resurseffektivt omhändertagande,<br>daterad 2026-05-29. |
+| 9. | Lokaliseringsutredning<br>idrottshall i Onsala | KS-2026-00239 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Lokaliserings-<br>utredning för ny idrottshall i Onsala, daterad<br>2026-05-27.<br>Kommunstyrelsen överlämnar till<br>byggnadsnämnden att upprätta förslag till<br>ändring av detaljplan för skoländamål inom<br>fastigheten Onsala 1:16 i Onsala. |
+| 10. | Avstämning<br>näringslivsetableringar<br>08:50- 09:35<br>Elinor Filipsson<br>Johan Gerremo<br>Simon Vedlund | KS-2026-00021 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(3)
+
+Lisa Andersson                    Therese Tanner
+ordförande                        sekreterare
+
+[Tabell 3-1](handlingar.tabeller/3-1.csv)
+
+|  | Ärende | Beteckning | Förslag |
+| --- | --- | --- | --- |
+| 11. | Information om förvaltningens<br>arbete med borgerliga vigslar<br>09:40-10:00<br>Sofia Jonsson<br>Anette Lindblom<br>Eva Böhnke | KS-2026-00435 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 12. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+
+<!-- sida 4 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-06
+Diarienummer
+KS-2026-00361
+
+Svar på Länsstyrelsen i Hallands läns remiss av förslag till beslut för Stättareds
+naturreservat i Kungsbacka kommun
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen antar yttrande, daterat 2026-05-06, och översänder som sitt svar till Länsstyrelsen i
+Hallands län.
+
+Sammanfattning av ärendet
+Länsstyrelsen i Hallands län har arbetat fram ett förslag till beslut om bildande av ett nytt naturreservat
+inom fastighet Lillared 1:22 och del av Stuv 2:2 intill Glamsjön vid Stättared friluftsområde. Det nya
+naturreservatet föreslås benämnas Stättareds naturreservat. Länsstyrelsen har översänt förslag till
+beslut om reservatsbildning samt skötselplan till Kungsbacka kommun för eventuella synpunkter på
+innehållet.
+
+Länsstyrelsens målsättning med bildandet av naturreservatet är att bevara, vårda, återställa och
+nyskapa värdefulla naturmiljöer samt att skydda, återställa och nyskapa livsmiljöer för skyddsvärda
+arter. Fokus ligger på att gynna ädellövskogar och en naturlig hydrologi, vilket innebär att
+vattenbalansen i området upprätthålls på ett naturligt sätt. Länsstyrelsen vill också att skogarna ska ges
+möjlighet att utveckla strukturer och funktioner som är viktiga för biologisk mångfald, som
+kontinuerlig tillgång på död ved, gamla träd och varierande åldersstruktur. Området ska enligt
+länsstyrelsens förslag vara tillgängligt för rekreation och friluftsliv utan att hota biologiska värden.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-05-06
+Yttrande, 2026-05-06
+
+Länsstyrelsen i Hallands län - Förslag till bildande av Stättareds naturreservat i Kungsbacka kommun,
+2026-04-27
+Länsstyrelsen i Hallands län – Skötselplan för Stättareds naturreservat i Kungsbacka kommun, 2026-
+04-27
+
+Beslutet skickas till
+
+Länsstyrelsen i Hallands län
+
+1 (3)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+John Borlid
+0734696289                                                    Besöksadress
+Kommunekolog                                             Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Beskrivning av ärendet
+
+Kungsbacka kommun har fått möjlighet att lämna synpunkter på Länsstyrelsen i Hallands förslag att
+inrätta ett nytt naturreservat vid Glamsjön (fastighet Lillared 1:22 och del av Stuv 2:2) som föreslås
+benämnas Stättareds naturreservat. Det nya naturreservatet är ett statligt bildat naturreservat vilket
+innebär att länsstyrelsen ansvarar för förvaltning och skötsel av naturreservatet.
+
+Naturreservatsbildandet innebär inte något åtagande för kommunen vare sig ekonomiskt eller
+förvaltningsmässigt. Fastigheten som är föremål för reservatsbildandet är statligt ägd. Ett intrångsavtal
+har tecknats mellan länsstyrelsen och markägaren för den del av reservatet som är belägen inom
+fastighet Stuv 2:2. Det föreslagna naturreservatet är i direkt angränsning till kommunalägda fastigheten
+Stättared 1:1. Det är också anledningen till att kommunstyrelsen förvaltning samt kommunens
+upphandlade skogsförvaltare Skogsutveckling Syd AB (SUSAB) varit involverade i handläggningen
+av ärendet. Kommunstyrelsens förvaltning konstaterar i samråd med SUSAB, att det inte föreligger
+några målkonflikter mellan bildande av naturreservatet och kommunens fastighet.
+
+Det föreslagna området som planeras bli naturreservat ingår i Stättareds friluftsområde som är ett av
+kommunens mest frekventerade besöksmål. Stättared omfattas av landskapsbildskydd vilket är en
+formell skyddsform i miljöbalken, och är även utpekat i kommunens översiktsplan som grön
+infrastruktur där natur- och friluftsvärden ska prioriteras. Likaså ingår området i kommunens
+Naturvårdsplan, som inte är ett politiskt antaget styrdokument, men som utgör ett kunskapsunderlag
+för områden med höga naturvärden. I Naturvårdsplanen uppmärksammas Stättared som ett område
+med höga värden knutna till ädellövskog. Inom ramen för ett regionalt samverkansprojekt har Hallands
+kommuner identifierat potentiella ansvarsnaturtyper och ansvarsarter, med utgångspunkt i bland annat
+deras förekomst och betydelse i ett nationellt perspektiv. Ädellövskogar har därigenom pekats ut som
+
+en naturtyp för vilka både Halland som landskap och Kungsbacka kommun har ett särskilt ansvar att
+bevara och skydda. Ädellövskogar är en av kommunens så kallade ansvarsnaturtyper. Detta är
+ytterligare ett skäl att ädellövskogar ges långvarigt skydd inom kommunen.
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning välkomnar mot den bakgrunden förslaget till bildande av naturreservat.
+Kommunstyrelsens förvaltning vill uppmärksamma länsstyrelsen på att området nyttjas för organiserad
+friluftsverksamhet såsom orientering och bedömer därmed att naturreservatets förslag på föreskrifter
+och dess tillämpning sker på ett tydligt och förutsebart sätt i dialog med berörda parter.
+
+Kommunstyrelsens förvaltning noterar att kommunen nämns i skötselplanen som kostnads- och
+åtgärdsansvarig för underhåll av leder. Kommunen är varken fastighetsägare eller har
+förvaltningsansvar inom de fastigheter som är aktuella för reservatsbildning. Förvaltningen anser
+därmed att skötselansvaret för leder behöver omformuleras i skötselplanen så att det tydligt framgår att
+staten ansvarar för leder inom reservatet. Kommunstyrelsens förvaltning anser vidare att det vore
+önskvärt att det beskrivs mer precist var den tänkta parkeringsplatsen är planerad att anläggas.
+Eftersom detta har betydelse för trafikflödet och behovet av insatser för vandringsleder som knyter
+
+<!-- sida 6 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+ihop reservatet och kommunens område. Kommunstyrelsen förvaltning har i övrigt inget att erinra på
+
+innehållet i skötselplanen eller i förslaget om beslut om bildande av naturreservat.
+
+Rikard Vidlund                Lovisa Eld
+Kommundirektör                Samhällsbyggnadschef
+
+<!-- sida 7 -->
+
+YTTRANDE
+Kommunstyrelsen
+
+Till Datum
+Länsstyrelsen i Hallands län 2026-05-06
+
+iari Diarienummer Kungsbacka
+Ert diarienummer
+
+511-6648-2011 KS-2026-00361
+
+Yttrande över Länsstyrelsen i Hallands remiss: Förslag till beslut för Stättareds
+naturreservat i Kungsbacka kommun (511-6648-2011)
+
+Sammanfattande inställning
+
+Kungsbacka kommun välkomnar bildandet av naturreservatet vid Glamsjö, benämnt Stättareds
+naturreservat, och ställer sig positiv till syftet att vårda, bevara, återställa och nyskapa livsmiljöer för
+skyddsvärda arter samt att gynna biologisk mångfald genom bevarande av lövskog, ädellövskog och
+naturlig hydrologi. Det föreslagna naturreservatet omfattar värdefulla naturmiljöer med höga
+naturvårds- och friluftsvärden och ingår i Stättared friluftsområde som är viktigt besöksmål i
+kommunen.
+
+Området är sedan tidigare uppmärksammat i kommunens naturvårdsplan och pekas även ut i
+översiktsplanen som en del av grön infrastruktur där natur- och friluftsvärden prioriteras. Bildandet av
+ett naturreservat är i linje med kommunens mål för hållbar markanvändning och ekologisk hållbarhet.
+
+Kommunen vill särskilt framhålla vikten av att området tillgängliggörs för rekreation och friluftsliv på
+ett sätt som inte hotar de biologiska värdena. Inom området bedrivs organiserad friluftsverksamhet
+såsom orientering. Kommunen ser positivt på att naturreservatets syfte även omfattar tillgänglighet för
+friluftsliv och bedömer det som angeläget att föreskrifter och tillämpning sker på ett tydligt och
+förutsebart sätt, i dialog med berörda aktörer. I skötselplanen framgår att en parkering ska anläggas i
+området. Kommunen anser att det vore önskvärt med ett förtydligande var i området parkeringen ska
+anläggas, eftersom detta har betydelse för trafikflödet och behovet av insatser för vandringsleder som
+knyter ihop reservatet och kommunens område.
+
+Kommunen noterar att det i skötselplanen anges att kommunen är kostnads- och åtgärdsansvarig för
+underhåll av led inom reservatet. Kommunen äger inte marken och är inte förvaltare av naturreservatet.
+Det behöver förtydligas i skötselplanen att ansvaret för leder är statens. Kommunen efterfrågar att
+ansvarsfördelningen i detta avseende förtydligas.
+
+I övrigt har kommunen inget att erinra mot innehållet i skötselplanen eller det föreslagna beslutet om
+bildande av naturreservat.
+
+Kungsbacka kommun
+
+1
+Kommunstyrelsen 2) Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 8 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+<!-- sida 9 -->
+
+Förslag till beslut      1 (12)
+
+2026-04-27         511-6648-2011
+
+Förslag  till bildande   av Stättareds
+naturreservat     i Kungsbacka     kommun.
+
+Förslag till beslut
+
+Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 § miljöbalken att förklara det
+område som avgränsas av blå heldragen linje på ovanstående karta som naturreservat,
+med syfte, skäl och föreskrifter enligt nedan.
+
+Reservatets gränser ska märkas ut i fält och dess namn ska vara Stättareds
+naturreservat.
+
+Med stöd av 7 kap. 7 § första stycket miljöbalken, upphäver Länsstyrelsen sitt beslut
+om förordnande om landskapsbildskydd enligt 19 § naturvårdslagen daterat den 7
+augusti 1972 (dnr. 11.126-2259-71) för den del av det landskapsbildsskyddade området
+
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+
+www.lansstyrelsen.se/halland/personuppgifter
+
+<!-- sida 10 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      2 (12)
+
+2026-04-27         511-6648-2011
+
+som utgör det nya naturreservatets yta. Upphävandet gäller först när detta beslut
+vinner laga kraft.
+
+Beslutet riktar sig till var och en, fastighetsägare och innehavare av särskild rätt, vars
+rättigheter att använda mark- och vattenområden berörs inom reservatsområdet.
+
+I enlighet med 3 § förordningen (1998:1252) om områdesskydd enligt miljöbalken m.m.
+fastställer Länsstyrelsen bifogad skötselplan (bilaga 1).
+
+Uppgifter  om  naturreservatet
+
+Namn                    Stättareds naturreservat
+Kommun                  Kungsbacka
+Reservatet bildades år  2026
+
+Areal                   19,1 hektar, varav 1,4 hektar vatten
+Lägesbeskrivning        Ca 7,5 km öster om Frillesås
+Naturvårdsregister-ID   SKO-1025429
+
+Fastigheter och marksamfälligheter Lillared 1:22 och Stuv 2:2 (del av)
+Rättigheter             Stuv GA:1 (väg), Lillared FS:3 (samfällt fiske)
+Markägarkategori        Enskild och staten
+Förvaltare              Länsstyrelsen
+
+Natura 2000-område      Nej
+
+Syftet med  naturreservatet
+
+Syftet med naturreservatet är att bevara, vårda, återställa och nyskapa värdefulla
+naturmiljöer samt att skydda, återställa och nyskapa livsmiljöer för skyddsvärda arter.
+Ädellövskogar och en naturlig hydrologi ska gynnas i naturreservatet.
+
+Naturreservatets skogar ska bevara och utveckla strukturer och funktioner som är
+viktiga för den biologiska mångfalden, såsom hög, kontinuerlig tillgång av död ved i
+olika nedbrytningsstadier, gamla eller senvuxna träd samt olikåldrighet i trädskiktet.
+Skogsmiljöer ska bevaras och utvecklas både genom intern dynamik och genom
+naturvårdande skötselinsatser.
+
+Reservatet ska vara tillgängligt för rekreation och friluftsliv i den mån områdets
+biologiska värden inte hotas.
+
+Syftet ska nås genom att:
+
+•  land- och vattenmiljöerna skyddas mot exploatering och
+produktionsskogsbruk,
+
+•  gran avvecklas och röjs fortlöpande,
+
+<!-- sida 11 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      3 (12)
+
+2026-04-27         511-6648-2011
+
+•  röjning och ringbarkning av bok utförs fortlöpande i reservatets norra del för
+att skydda berg- och skogsek och andra ädellövträd som lönn, lind, ask och
+alm.
+
+•  ekar bevaras och sköts så att förekomsten av gamla ekar i området kan säkras
+på lång sikt,
+
+•  solitära ädellövträd som drabbas av igenväxning friställs,
+•  ingen död lövved förs ut ur reservatet,
+
+•  sådd, plantering och användande av hägn mot viltbete kan genomföras för att
+gynna ädellövträd,
+
+•  luckhuggning, ringbarkning och veteranisering kan genomföras för att höja
+naturvärden,
+
+•  främmande arter bekämpas vid behov,
+•  information om områdets naturvärden tillgängliggörs och anläggningar för
+friluftslivet iordningställs och underhålls,
+
+•  bevara och utveckla de djur-, växt- och svampvärden som finns inom området,
+
+•  nya kunskaper om hotade och hänsynskrävande arter och naturtyper beaktas i
+skötseln av reservatet.
+
+Föreskrifter
+
+A. Föreskrifter om inskränkningar i rätten att använda mark- och
+vattenområden (7 kap. 5 § miljöbalken)
+
+Inom naturreservatet är det förbjudet att göra följande:
+
+1\. uppföra byggnad, anordning eller anläggning,
+
+2\. uppföra mast eller antenn samt anlägga luft- eller markledning,
+3\. anlägga väg,
+
+4\. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt,
+
+5\. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
+hydrologi. Med Länsstyrelsens tillstånd är det dock tillåtet att underhålla dike
+enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är
+lagligt anlagt,
+
+6\. anordna upplag, tippa eller fylla ut,
+7\. kalka, gödsla eller sprida bekämpningsmedel,
+
+8\. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen,
+
+<!-- sida 12 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      4 (12)
+
+2026-04-27         511-6648-2011
+
+9\. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
+
+10\. framföra motordrivet fordon.
+
+Utan Länsstyrelsens tillstånd är det också förbjudet att göra följande
+
+11\. sätta upp tavla, affisch, skylt eller göra inskrift,
+12\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+
+13\. uppföra jakttorn,
+
+14\. utfodra vilt eller använda åtel,
+
+15\. inplantera för området främmande arter samt att
+16\. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
+fångst med dödande fällor eller annan påverkan på naturmiljön. Kravet på
+tillstånd gäller inte vid fångst och dödande av enstaka exemplar av
+ryggradslösa djur under förutsättning att det görs manuellt genom plockning,
+
+håvning eller motsvarande och det görs utan att bark, ved eller andra substrat
+skadas.
+
+Föreskrifterna enligt A ovan gäller inte i följande fall:
+
+a) förvaltaren av naturreservatet, eller den som förvaltaren uppdrar åt, att vidta
+de åtgärder som behövs för att tillgodose syftet med naturreservatet och som
+framgår av föreskrifterna B 1-7,
+b) underhåll av väg och led som markerats på karta 1 under förutsättning att:
+
+\- inget material tillförs området som kan innehålla främmande arter eller
+förorenande ämnen,
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+
+c) akuta reperationsåtgärder på ledningar. Undantaget omfattar inte
+förebyggande röjning av ledningsgator, planerat byte, flytt av ledningar eller
+andra åtgärder som kan planeras. Vid åtgärderna ska skador på mark, stigar
+och friluftsanordningar undvikas, men om det ändå uppstår ska de återställas
+så fort som möjligt,
+
+d) underhåll av ledningar inklusive ledningsgator under förutsättning att:
+
+\- markskador minimeras och eventuellt uppkomna skador repareras,
+\- inget material tillförs området som kan innehålla för området främmande
+arter eller förorenande ämnen,
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+\- åtgärder genomförs under perioden 1 september – 31 mars (såvida
+åtgärden inte är akut),
+\- en, hassel, nypon, slån, apel och hagtorn ska sparas om de inte utgör
+hinder för elsäkerheten eller ledningsunderhåll,
+
+<!-- sida 13 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      5 (12)
+
+2026-04-27         511-6648-2011
+
+\- framkomligheten på stigar inte har försämrats när arbetet avslutats,
+
+e) jakträttsinnehavare att använda motordrivet fordon för uttransport av älg,
+hjort och vildsvin i enlighet med 1 § terrängkörningsförordningen (1978:594),
+dock inte körning på fuktig mark eller inom 20 meter från ett vattendrag,
+
+f) snitsling och skyltning vid jakt under förutsättning att dessa avlägsnas senast
+ett dygn efter avslutad jakt,
+
+Karta 1: Kartan visar var i området vissa undantag från A-föreskrifterna gäller.
+
+<!-- sida 14 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      6 (12)
+
+2026-04-27         511-6648-2011
+
+B. Föreskrifter om fastighetsägares och rättighetsinnehavares
+förpliktelser att tåla åtgärder för att tillgodose syftet med
+naturreservatet (7 kap. 6 § miljöbalken)
+
+Fastighetsägare och innehavare av särskild rätt ska tåla följande åtgärder:
+
+1\. utmärkning av naturreservatets gräns, enligt Naturvårdsverkets anvisningar,
+
+2\. anläggning och underhåll av friluftsanordningar, exempelvis markerade stigar
+och informationsskyltar,
+
+3\. naturvårdande skötsel av skog, som exempelvis:
+a. fällning, röjning, ringbarkning av all gran,
+
+b. fällning, röjning, ringbarkning av bok när de riskerar att hota naturvärden
+kopplade till ek,
+
+c. veteranisering, skapande av högstubbar, lågor och hålträd,
+
+d. sådd och plantering av ek, alm, ask, lind och skogslönn och användande av
+stängsel och hägn som skydd för plantor,
+4\. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
+ekoxekomposter och liknande konstruktioner för att gynna skyddsvärda arter,
+
+5\. bekämpning av främmande arter,
+
+6\. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet
+till långsiktig överlevnad i länet samt,
+
+7\. undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
+svamp- och djurliv.
+
+C. Ordningsföreskrifter om rätten att färdas och vistas inom
+
+naturreservat samt om ordningen i övrigt inom naturreservat (7 kap. 30 §
+miljöbalken och 22 § förordningen [1998:1252] om områdesskydd enligt
+miljöbalken m.m.)
+
+Inom naturreservatet är det förbjudet att göra följande:
+
+1\. skada levande eller döda träd, buskar och grenar,
+2\. skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
+
+exemplar. Plocka matsvamp är dock tillåtet,
+3\. elda annat än på anvisad plats,
+
+4\. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift,
+
+<!-- sida 15 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      7 (12)
+
+2026-04-27         511-6648-2011
+
+5\. inplantera för området främmande arter,
+
+6\. dumpa trädgårdsavfall,
+7\. uppföra någon form av anläggning,
+
+Utan Länsstyrelsens tillstånd är det också förbjudet att göra följande:
+8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+
+9\. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
+fångst med dödande fällor eller annan påverkan på naturmiljön. Kravet på
+tillstånd gäller inte vid fångst och dödande av enstaka exemplar av
+ryggradslösa djur under förutsättning att det görs manuellt genom plockning,
+håvning eller motsvarande och det görs utan att bark, ved eller andra substrat
+skadas.
+
+Upplysningar
+
+Om föreskrifterna
+
+A-föreskrifterna gäller för åtgärder och verksamheter som genomförs med stöd av
+äganderätt eller andra juridiska rättigheter, till exempel nyttjanderätt och servitut. I
+det fall en åtgärd som enligt lag enbart får utföras av en rättighetsinnehavare, utförs av
+en person som saknar rättighet, omfattas denna person av de förbud som meddelas i
+A-föreskrifterna. Således gäller A-föreskrifterna till exempel för alla personer som
+röjer sly eller avverkar i reservatet, eftersom en sådan åtgärd endast får utföras av
+rättighetsinnehavare (eller av annan efter medgivande från rättighetsinnehavare).
+
+B-föreskrifterna ger reservatets förvaltare rätt att utföra åtgärder i området såsom
+skötselåtgärder, dokumentation och markering av reservatsgränser. Dessa föreskrifter
+förpliktigas markägaren att tåla.
+
+C-föreskrifterna gäller för allmänheten. Föreskrifterna riktar sig även till markägaren
+och andra med särskild rätt till fastigheten då dessa utövar aktivitet som inte är knuten
+till dessa rättigheter.
+
+Om det finns särskilda skäl får Länsstyrelsen medge dispens från föreskrifterna för
+naturreservatet. Dispens får dock inte lämnas för åtgärder som strider mot syftet med
+naturreservatet.
+Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 § miljöbalken (C-
+föreskrifterna) träder i kraft tre veckor efter att kungörelsen av reservatsbeslutet
+
+utkommit från trycket, oavsett om beslutet överklagas.
+Förbudet mot eldning annat än på anvisad plats innebär att fasta bränslen (ved, kol)
+endast får användas på iordningställda grillplatser. Man får inte elda med grenar,
+stammar och kottar från reservatet eftersom dessa har betydelse för områdets djur,
+
+<!-- sida 16 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      8 (12)
+
+2026-04-27         511-6648-2011
+
+växter och svampar. Campingkök som drivs med gas eller flytande bränsle får
+användas i hela reservatet, om dessa används på ett brandsäkert sätt.
+
+Andra bestämmelser
+Länsstyrelsen erinrar även om att andra lagar, förordningar och föreskrifter än
+reservatsföreskrifterna gäller för området. Av särskild betydelse för syftet med
+
+reservatet, eller som ett komplement till föreskrifterna är bland andra:
+16 § lag (2007:1150) om tillsyn över hundar och katter
+
+Under tiden den 1 mars-20 augusti ska hundar hållas under sådan tillsyn att de hindras
+från att springa lösa i marker där det finns vilt. Under den övriga tiden av året skall
+hundar hållas under sådan tillsyn att de hindras från att driva eller förfölja vilt, när de
+inte används vid jakt.
+
+2 kap. 1, 6-8 §§ kulturmiljölagen (1988:950), fornlämningar
+
+De fornlämningar som återfinns inom reservatet är skyddade enligt lag. Det är
+förbjudet att utan tillstånd rubba, ta bort, gräva ut, täcka över eller genom bebyggelse,
+plantering eller på annat sätt ändra eller skada en fornlämning. Riksantikvarieämbetet
+och Länsstyrelsen får vidta de åtgärder som behövs för att skydda, vårda och
+undersöka en fornlämning.
+
+7 kap. 13-18k §§ miljöbalken, strandskyddsbestämmelser
+Strandskyddsområde berör de delar av reservatet som ligger inom 100 meter från sjön.
+Strandskyddsbestämmelsernas syfte är att trygga förutsättningarna för allmänhetens
+friluftsliv samt att bevara goda livsvillkor på land och i vatten för djur- och växtlivet.
+Åtgärder som kan skada eller motverka syftet med strandskyddet är förbjudna.
+
+4 § skogsvårdslagen (1979:429)
+
+Bestämmelser enligt skogsvårdslagen, skogsvårdsförordningen (1993:1096) eller
+Skogsstyrelsens föreskrifter gäller inte om dessa strider mot föreskrifterna för
+naturreservatet.
+
+11 kap. miljöbalken, vattenverksamhet, samt lagen (1998:812) med särskilda
+bestämmelser om vattenverksamhet.
+Med vattenverksamhet avses bland annat uppförande, ändring, lagning och utrivning
+
+av dammar, bortledande av vatten från eller grävning och rensning av vattenområden
+samt andra åtgärder i vattenområden om åtgärden syftar till att förändra vattnets djup
+eller läge. Även åtgärder som utförs för att avvattna mark eller som utförs för att sänka
+eller tappa ur ett vattenområde eller skydda mot vatten, när syftet med åtgärden är att
+varaktigt öka en fastighets lämplighet för ett visst ändamål är att betrakta som
+vattenverksamhet (markavvattning).
+
+<!-- sida 17 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      9 (12)
+
+2026-04-27         511-6648-2011
+
+1 § terrängkörningslagen (1975:1313) och terrängkörningsförordningen
+(1978:594)
+Körning i terräng med motordrivet fordon för annat ändamål än jordbruk eller
+skogsbruk är, med vissa undantag, förbjuden.
+
+4-9 §§ artskyddsförordningen (2007:845), fridlysta arter
+
+Många arter är fridlysta. Det innebär att djuren och växterna inte får skadas eller
+störas, och i många fall även att fortplantningsområden och viloplatser är skyddade.
+Alla fåglar, groddjur, kräldjur, fladdermöss samt orkidéer är fridlysta, och dessutom ett
+urval av andra organismer. Flodpärlmussla är fredad enligt förordningen om fisket,
+vattenbruket och fiskerinäringen (SFS 1994:1716).
+
+12 kap. 6 § miljöbalken
+
+För verksamheter och åtgärder som kan ändra naturmiljön väsentligt krävs samråd
+med Länsstyrelsen, i de fall verksamheten eller åtgärden inte omfattas av tillstånds-
+plikt eller anmälningsplikt enligt miljöbalken.
+
+Artikel 7 i Europaparlamentets och Rådets Förordning (EU) nr 1143/2014 om
+förebyggande och hantering av introduktion och spridning av invasiva
+främmande arter:
+Invasiva främmande arter av unionsbetydelse får inte avsiktligt tillåtas reproducera sig,
+växa eller odlas.
+
+Allemansrätten
+
+Allemansrätten har stor betydelse för våra möjligheter att vistas i naturen, den ger oss
+alla möjligheten att tillfälligt och hänsynsfullt vara i naturen. Även organisationer och
+turistföretag kan dra nytta av allemansrätten i sin verksamhet även om allemans-
+rätten i grunden gäller för enskilda individer. Samtidigt medför allemansrätten också
+skyldigheter att inte förstöra något eller störa markägaren eller andra som är ute i
+naturen. Större grupper bör samråda med markägaren. Inom naturreservat kan delar
+av allemansrätten vara begränsad genom reservatsföreskrifter.
+
+Skälen  för beslutet enligt 7 kap. 5 § miljöbalken
+
+Området utgörs till stor del av ädellövskog, främst ek, med naturvärden på
+beståndsnivå. Stättared ingår till stor del i Stora Hornsjöns landskapsbildskydd och
+ligger i värdetrakt Löftaåns dalgång som hyser mycket höga värden knutna till
+
+ekskogar.
+Naturvärdena kan skadas av skogsbruksåtgärder som avverkning och gallring, av fysisk
+exploatering, av förändrad hydrologi samt av konkurrens från gran och främmande
+arter.
+
+De viktigaste åtgärderna för att bevara naturvärdena är att skydda området mot
+produktionsskogsbruk och exploatering samt att hålla efter gran.
+
+<!-- sida 18 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      10 (12)
+
+2026-04-27         511-6648-2011
+
+Beskrivning  av området
+
+Stättared ligger alldeles intill Glamsjös norra och södra strand i Kungsbacka kommun.
+Området ligger till stor del inom landskapsbildskyddet för Stora Hornsjön och har
+beskrivits som ”Ett skogsområde med relativt låg exploateringsgrad, såväl vad avser
+avverkning som fritidsbebyggelse”. Skyddet förbjuder bland annat att utan
+Länsstyrelsens tillstånd, plantera eller så barrträd på mark som inte burit sluten
+barrskog på senare tid samt att avverka lövskog utöver normal beståndsvårdande
+röjning och gallring. Området ingår i ett större område vid namn Stättareds
+friluftsområde.
+
+Historiska kartor visar att det finns en kontinuitet av ädellövträd i området. Vidkroniga
+ekar och hassel vittnar om att landskapet nedanför bergbranten norr om Glamsjö
+tidigare varit mer öppet och troligen har betats. En del ekar är i behov av frihuggning. I
+branterna växer träden mer utsatt och har ofta en liten yta att breda ut sig på.
+Jordmånen är tunn och flera av träden växer i skrevor eller på platåer tryckta mot
+
+berget. I branten är träden troligtvis yngre, vilket antagligen beror på att de faller
+innan de har en möjlighet att bli riktigt gamla. Skogsstyrelsen har klassat en stor del av
+bergbranten som nyckelbiotop och här förekommer arter som glansfläck, mussellav,
+blåsippa, murgröna, liljekonvalj och ekorrbär. Ytterligare inventeringar kommer
+troligtvis att visa på fler naturvårdsarter. Skogen är omväxlande bevuxen med främst
+ek, bok, hassel och tall men ett inslag av björk, fågelbär och andra lövträd förekommer.
+Längs med sjön finns ett inslag av klibbal och ask. Mängden död ved är riklig. Ett inslag
+av silvergran finns i området.
+
+Söder om Glamsjö och söder om vägen består skogen av medelålders bok. Även här är
+det relativt brant, men inte som i den norra delen.
+
+En del av Glamsjö ingår i fastigheten Lillared 1:22 och är därför med i reservatet.
+Det omgivande landskapet är rikt på nyckelbiotoper och naturvärdesobjekt och
+Stättared ingår i värdetrakt Löftaåns dalgång vilket gör området viktigt ur ett
+
+landskapsperspektiv.
+Större delen av objektet omfattas av strandskydd.
+
+Ärendets  handläggning
+
+Fastigheten Lillared 1:22 är i statens ägo sedan 2011. När en avverkningsanmälan kom
+till Länsstyrelsens kännedom på fastigheten Stuv 2:2 kontaktade Länsstyrelsen
+markägaren med en förfrågan om att få bilda naturreservat på nyckelbiotopen på
+samma fastighet. Detta ställde sig markägaren positiv till och ett intrångsavtal skrevs
+mellan staten och markägaren år 2026.
+
+<!-- sida 19 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      11 (12)
+
+2026-04-27         511-6648-2011
+
+Länsstyrelsens   bedömning    enligt 20 §
+
+förvaltningslagen
+
+Val av område och skyddsform
+
+Området utgörs till stor del av ädellövskog med ett inslag av gamla, grova ekar och
+skyddsvärd kryptogamflora. Värdekärnan i norr utgörs av en nyckelbiotop med
+ädellövskog i branter.
+Reservatet ligger inom värdetrakt för ädellövskog (Löftaåns dalgång) och utgörs till
+
+stor del av ädellövskog som är en prioriterad skogstyp enligt Nationell strategi för
+formellt skydd av skog (Naturvårdsverket och Skogsstyrelsen 2024). Ädellövskogarna
+inom reservatet bedöms ha höga naturvärden på beståndsnivå. Sammantaget gör detta
+att området är prioriterat för skydd enligt den nationella strategin för formellt skydd
+av skog.
+
+Det som kan hota värdena är bland annat avverkning, dikning och annan förändring av
+hydrologin, plantering av främmande trädslag, konkurrens från gran, exploatering
+samt fragmentering av biotoperna. Även exploateringar utanför reservatets gränser
+kan i vissa fall vara negativa för natur- eller upplevelsevärden.
+
+Då ett rationellt skogsbruk inte är förenligt med bevarandet av arterna i området
+behövs någon form av långsiktigt skydd. Området kräver en del skötsel- och
+restaureringsinsatser vilket medför att en skötselplan behövs. Vidare krävs
+ordningsföreskrifter för att bevara områdets värden. Naturreservat är därmed den
+lämpligaste skyddsformen.
+
+Skäl för upphävande av tidigare beslut
+Länsstyrelsen får upphäva beslut som den tidigare har meddelat enligt 7 kap. 7 § första
+stycket miljöbalken om det finns synnerliga skäl. Länsstyrelsen gör bedömningen att
+det föreligger synnerliga skäl att upphäva det tidigare beslutet om landskapsbildskydd
+(dnr. 11.126-2259-71) i den del som motsvarar naturreservatets yta. Upphävandet
+
+kompenseras genom att ett naturreservat är ett starkare skydd som har ett tydligare
+syfte med föreskrifter som är nödvändiga för bevarandet av området. Vidare gör
+Länsstyrelsen bedömningen att ett beslut om naturreservat inte försvårar
+allmänhetens nyttjande av området i någon större utsträckning. Upphävandet gäller
+först när detta beslut vinner laga kraft.
+
+Beslutets förenlighet med riksintressen, planer och områdes-
+bestämmelser
+Reservatsbeslutet är förenligt med hushållningsbestämmelserna i 3 och 4 kap.
+miljöbalken.
+
+Beslutet följer riktlinjer för prioritering av naturreservatsskydd, Sveriges
+internationella åtaganden om skydd av den biologiska mångfalden samt bidrar till att
+uppnå miljökvalitetsmålen ”Levande skogar” och ”Ett rikt växt och djurliv”.
+
+<!-- sida 20 -->
+
+LÄNSSTYRELSEN             Förslag till beslut      12 (12)
+
+2026-04-27         511-6648-2011
+
+Länsstyrelsen bedömer att detta beslut är förenligt med en från allmän synpunkt
+lämplig användning av mark- och vattenresurser samt med den för området gällande
+översiktsplanen.
+
+Intresseprövning
+Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 § miljöbalken, att
+
+avgränsningen av området, reservatets omfång och föreskrifternas utformning i detta
+beslut innebär en rimlig balans mellan de värden som skall skyddas och det intrång
+detta innebär för enskilds rätt att använda mark och vatten.
+
+Bilagor
+
+Bilaga 1 Skötselplan
+
+Så här hanterar   vi dina personuppgifter
+Information om hur vi hanterar dessa hittar du på www.lansstyrelsen.se/dataskydd.
+
+Kartor och  bilder:
+
+Kartor: © Naturvårdsverket, © Lantmäteriet, © Lantmäteriet Geodatasamverkan,
+© Länsstyrelsen
+
+<!-- sida 21 -->
+
+Bilaga 1
+
+Skötselplan                  för
+
+Stättareds                naturreservat
+
+i Kungsbacka         kommun
+
+<!-- sida 22 -->
+
+SKÖTSELPLAN FÖR SÄTTAREDS NATURRESERVAT
+
+Titel:    Förslag till skötselplan för Stättareds naturreservat
+Diarienummer: 511-6648-2011
+År den beslutades: 2026
+
+Författare: Sanna Persson
+Kartor:   © Länsstyrelsen Halland © Lantmäteriet Geodatasamverkan
+© Naturvårdsverket © Skogsstyrelsen
+
+2
+
+<!-- sida 23 -->
+
+SKÖTSELPLAN FÖR SÄTTAREDS NATURRESERVAT
+
+Förord
+
+Skötselplanen riktar sig främst till reservatets förvaltare och är utformad så att syftet med
+reservatet ska kunna uppnås. Reservatet är indelat i skötselområden, och i varje
+skötselområde beskrivs hur området ser ut idag, vilka kvaliteter man vill ha, och vilka
+åtgärder som kan behövas. Skötselplanen har en hög ambitionsnivå, men då förvaltarens
+resurser styrs av politiska beslut är det inte säkert att alla åtgärder kan genomföras. Till
+
+hjälp för förvaltaren har därför en prioritering av åtgärderna gjorts.
+
+3
+
+<!-- sida 24 -->
+
+Innehåll
+
+1\. BESKRIVNING AV NATURRESERVATET ........................................................................................ 5
+
+1.1 Allmän beskrivning ...................................................................................................................... 5
+1.2 Bevarandevärden ........................................................................................................................ 7
+
+2\. SKÖTSEL AV OMRÅDET ................................................................................................................. 8
+2.1. Generella riktlinjer ...................................................................................................................... 8
+
+2.2 Skötselområden ........................................................................................................................... 9
+Skötselområde 1: Ädellövskog – Naturvårdande röjning ...................................................... 9
+
+Skötselområde 2: Bokskog – Naturvårdande röjning .......................................................... 10
+Skötselområde 3: Triviallövskog – Naturvårdande röjning.................................................. 11
+
+Skötselområde 4: Sjö och exploaterad mark – Ingen åtgärd .............................................. 11
+
+2.3 Friluftsliv och turism .................................................................................................................. 12
+2.4 Tillsyn, dokumentation och uppföljning ................................................................................. 12
+
+2.5. Sammanfattning och prioritering av planerade skötselåtgärder ....................................... 12
+3\. KARTOR ........................................................................................................................................ 14
+
+3.1 Översiktskarta ............................................................................................................................ 14
+3.2 Skötselkartor .............................................................................................................................. 15
+
+3.3 Karta med nuvarande naturtyper ............................................................................................ 18
+3.4 Karta med livsmiljötyper enligt NNK ....................................................................................... 19
+
+3.5 Karta med naturvärden ............................................................................................................ 20
+
+3.6 Karta med friluftslivsanordningar ............................................................................................ 21
+4\. REFERENSER ................................................................................................................................. 22
+
+4
+
+<!-- sida 25 -->
+
+1\. Beskrivning        av  naturreservatet
+
+1.1 Allmän   beskrivning
+
+1.1.1 Naturreservatet
+Syftet med naturreservatet:
+
+Syftet med naturreservatet är att bevara, vårda, återställa och nyskapa värdefulla
+naturmiljöer samt att skydda, återställa och nyskapa livsmiljöer för skyddsvärda arter.
+Ädellövskogar och en naturlig hydrologi ska gynnas i naturreservatet.
+
+Naturreservatets skogar ska bevara och utveckla strukturer och funktioner som är
+viktiga för den biologiska mångfalden, såsom hög, kontinuerlig tillgång av död ved i
+olika nedbrytningsstadier, gamla eller senvuxna träd samt olikåldrighet i trädskiktet.
+Skogsmiljöer ska bevaras och utvecklas både genom intern dynamik och genom
+naturvårdande skötselinsatser.
+
+Reservatet ska vara tillgängligt för rekreation och friluftsliv i den mån områdets
+biologiska värden inte hotas.
+
+Syftet ska nås genom att:
+•  land- och vattenmiljöerna skyddas mot exploatering och
+produktionsskogsbruk,
+
+•  gran avvecklas och röjs fortlöpande,
+
+•  röjning och ringbarkning av bok utförs fortlöpande i reservatets norra del för
+att skydda berg- och skogsek och andra ädellövträd som lönn, lind, ask och
+alm.
+•  ekar bevaras och sköts så att förekomsten av gamla ekar i området kan säkras
+på lång sikt,
+
+•  solitära ädellövträd som drabbas av igenväxning friställs,
+•  ingen död lövved förs ut ur reservatet,
+
+•  sådd, plantering och användande av hägn mot viltbete kan genomföras för att
+gynna ädellövträd,
+•  luckhuggning, ringbarkning och veteranisering kan genomföras för att höja
+naturvärden,
+
+•  främmande arter bekämpas vid behov,
+
+•  information om områdets naturvärden tillgängliggörs och anläggningar för
+friluftslivet iordningställs och underhålls,
+•  bevara och utveckla de djur-, växt- och svampvärden som finns inom området,
+
+•  nya kunskaper om hotade och hänsynskrävande arter och naturtyper beaktas i
+skötseln av reservatet.
+
+5
+
+<!-- sida 26 -->
+
+Tabell 1. Uppgifter om naturreservatet.
+Namn                   Stättareds naturreservat
+
+Kommun                 Kungsbacka
+Reservatet bildades år -
+Areal                  19,1 hektar, varav 1,4 hektar vatten
+
+Lägesbeskrivning       Ca 7,5 km öster om Frillesås
+Naturvårdsregister-ID  SKO-1025429
+Fastigheter och marksamfälligheter Lillared 1:22 och Stuv 2:2 (del av)
+
+Rättigheter            Stuv GA:1 (väg), Lillared FS:3 (samfällt fiske)
+Markägarkategori       Enskild och staten
+Förvaltare             Länsstyrelsen
+Natura 2000-område     Nej
+
+1.1.2 Naturförhållanden och landskapsbild
+Stättared är ett område som ligger öster om Frillesås, vid Stora Hornsjön i Kungsbacka
+kommun. Stättared ligger alldeles intill Glamsjös norra och södra strand. Området
+ligger till stor del inom landskapsbildskyddet för Stora Hornsjön och har beskrivits
+som ”Ett skogsområde med relativt låg exploateringsgrad, såväl vad avser avverkning
+
+som fritidsbebyggelse”. Landskapsbildskyddet förbjuder bland annat att utan
+Länsstyrelsens tillstånd, plantera eller så barrträd på mark som inte burit sluten
+barrskog på senare tid samt att avverka lövskog utöver normal beståndsvårdande
+röjning och gallring. Området ingår i ett större område vid namn Stättareds
+friluftsområde. Det omgivande landskapet är rikt på nyckelbiotoper och
+naturvärdesobjekt och Stättared ingår i värdetrakt Löftaåns dalgång vilket gör området
+viktigt ur ett landskapsperspektiv.
+
+Tabell 2. Arealen av olika naturtyper enligt Naturvårdsverkets marktäckedata.
+
+6
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Naturtyper (marktäckedata) | Total areal (hektar) |
+| --- | --- |
+| Ädellövskog | 11,9 |
+| Triviallövskog | 2,2 |
+| Lövblandad barrskog | 1,1 |
+| Barrblandskog | 0,2 |
+| Tallskog | 1,4 |
+| Granskog | 0,1 |
+| Exploaterad mark | 0,8 |
+| Sjö och vattendrag | 1,4 |
+| Totalt skogsmark | 16,9 |
+| Totalt produktiv skogsmark | 16,8 |
+| Totalt all mark | 19,1 |
+
+<!-- sida 27 -->
+
+1.1.3 Historisk och nuvarande markanvändning
+Historiska kartor visar att det finns en kontinuitet av ädellövträd i området. Vidkroniga
+ekar och hassel vittnar om att landskapet nedanför bergbranten norr om Glamsjö
+
+tidigare varit mer öppet och troligen har betats. En del ekar är i behov av frihuggning. I
+branterna växer träden mer utsatt och har ofta en liten yta att breda ut sig på.
+Jordmånen är tunn och flera av träden växer i skrevor eller på platåer tryckta mot
+berget. I branten är träden troligtvis yngre, vilket antagligen beror på att de faller
+innan de har en möjlighet att bli riktigt gamla.
+
+1.2 Bevarandevärden
+
+1.2.1 Biologiska värden
+I den norra delen av området, norr om Glamsjö, har Skogsstyrelsen klassat en stor del
+av bergbranten som nyckelbiotop och här återfinns arter som glansfläck, mussellav,
+blåsippa, murgröna, liljekonvalj och ekorrbär. Ytterligare inventeringar kommer
+troligtvis att visa på fler naturvårdsarter. Större delen av objektet omfattas av
+strandskydd. Skogen är omväxlande bevuxen med främst ek, bok, hassel och tall, men
+
+även björk, fågelbär och andra lövträd. Gran utgör en konkurrerande faktor. Längs
+med sjön finns även ett inslag av klibbal och ask. Mängden död ved är riklig.
+I den södra delen, söder om Glamsjö, består skogen främst av bok. Det finns ett inslag
+av gran och tall. Vid Glamsjös södra strand växer klibbal, ask och björk.
+
+Naturvårdsarter
+
+En rödlistad art, sex signalarter samt en fridlyst art.
+Tabell 3. Naturvårdsarter i form av rödlistade arter1, signalarter2 samt fridlysta arter3. De olika kategorierna
+i tabellen har förkortningar som betyder; CR-akut hotad, EN-starkt hotad, VU-sårbar, NT-missgynnad, S-
+signalart, F-fridlyst art.
+
+1 Rödlistade arter enligt Artdatabankens rödlista 2025 placeras i olika hotkategorier beroende på risk för
+nationellt utdöende i vilt tillstånd.
+2 Naturvärdesindikatorer på objektsnivå, vilka inte är rödlistade men som är praktiskt användbara för att
+lokalisera och urskilja områden med höga naturvärden.
+3 Arter förtecknade i artskyddsförordningen (SFS 2007:845).
+
+7
+
+[Tabell 27-1](handlingar.tabeller/27-1.csv)
+
+| Artnamn | Vetenskapligt namn | Grupp | Kategori | Senast noterad |
+| --- | --- | --- | --- | --- |
+| Blåsippa | Hepatica nobilis | Kärlväxter | F | 2020 |
+| Grönsångare | Phylloscopus sibilatrix | Fåglar | NT | 2013 |
+| Guldlockmossa | Homalothecium sericeum | Mossor | S | 2013 |
+| Murgröna | Hedera helix | Kärlväxter | S | 2025 |
+| Mussellav | Normandina pulchella | Lavar | S | 2025 |
+| Platt fjädermossa | Neckera complanata | Mossor | S | 2023 |
+| Trädporella | Porella platyphylla | Mossor | S | 2013 |
+
+<!-- sida 28 -->
+
+1.2.2 Geologiska värden
+
+Den norra delen av området har en dramatisk topografi med branta bergväggar och
+brant sluttande väggar av grönsten. Toppen mäts till ca 105 meter över havet.
+
+1.2.3 Kulturhistoriska värden
+I den södra delen av området finns ett minneskors i gjutjärn som är rest över en
+militärflygare som störtat med sitt plan efter en kollision i luften.
+
+1.2.4 Friluftslivsvärden
+
+Friluftslivsvärdet i området är högt då det ingår i Stättareds friluftsområde. En
+markerad led går genom den norra delen av området och en väg genom den södra.
+
+1.2.5 Prioriterade bevarandevärden
+
+De prioriterade bevarandevärdena är ädellövskogen i norr med en blandning av ek,
+bok, fågelbär, ask och andra lövträd samt bokskogen i den södra delen. Det är också
+prioriterat att hotade eller sällsynta arter som är knutna till ädellövskog ska ges sådana
+förutsättningar att de kan föryngra sig i långsiktigt livskraftiga populationer.
+
+2\. Skötsel     av  området
+
+2.1. Generella   riktlinjer
+
+Förutom de generella riktlinjerna och åtgärderna finns det områdesspecifika sådana
+vilka redovisas i kapitel 2.2 under respektive skötselområde.
+
+2.1.1 Död ved
+Ingen ved av lövträd eller tall får föras ut från reservatet, utan den ska lämnas så att
+mängden stående och liggande död och döende ved ökar.
+
+2.1.2 Gran
+
+På sikt bör det inte finnas gran inom reservatet eftersom gran har negativ inverkan på
+värdena som reservatet avser att skydda. Gran konkurrerar ut lövträd, skuggar
+lövträdens stammar vilket gör att mossor, lavar och värmekrävande insekter får svårt
+att överleva samt påverkar områdets mark- och vattenkemi.
+
+Gran ska avverkas initialt, och därefter ska området hållas granfritt genom
+återkommande borttagningar.
+
+2.1.3 Veteranisering
+
+Veteranisering kan utföras på lämpliga träd i de något yngre bestånden. Veteranisering
+är en naturvårdsmetod där man på yngre eller medelålders träd med motorsåg eller
+annat redskap skapar skador, strukturer, substrat och mikromiljöer som normalt bildas
+i mycket äldre träd. Syftet är att påskynda utveckling av död ved och andra
+gynnsamma strukturer, samt att gynna uppkomsten av innanröta, röthål, savflöden
+
+8
+
+<!-- sida 29 -->
+
+och senvuxna träd.
+
+2.1.5 Främmande  arter
+Om främmande arter upptäcks i reservatet, bör de bekämpas om de riskerar att
+
+påverka de naturvärden som reservatet avser att bevara. Bekämpning kan även ske om
+den främmande arten inte riskerar att påverka reservatets naturvärden men det finns
+nationellt eller internationellt intresse av att bekämpa arten, under förutsättning att
+det inte motverkar reservatets syfte.
+
+Inga kända främmande arter förekommer i reservatet.
+
+2.1.6 Utsättning av arter
+Förvaltaren har rätt att sätta ut organismer i reservatet om det behövs för att öka en
+arts möjlighet till långsiktig överlevnad nationellt eller regionalt men endast om det
+inte motverkar reservatets syfte, och endast om arten är hotad enligt den nationella
+rödlistan.
+
+2.2 Skötselområden
+
+Reservatet är indelat i fyra skötselområden redovisade på skötselkarta sidan 13. Varje
+
+skötselområde utgörs av en eller flera avdelningar, där varje avdelning har likartad
+naturtyp och likartade beståndsegenskaper. Skötselområdena har namngetts efter den
+naturtyp man strävar mot och den initialt viktigaste skötselåtgärden.
+
+Skötselområde  1: Ädellövskog – Naturvårdande röjning
+Avdelningar: 1-4
+
+Areal: 3,3 hektar
+
+Beskrivning: Skötselområdet består av en ädellövskog som främst domineras av ek,
+men har ett stort inslag av andra trädarter. Skogen växer till mestadels i en brant, men
+växer även ner mot sjön samt uppe på platån. Hela området är nyckelbiotop. I avd. 1
+dominerar bok med ett mindre inslag av ek och björk. Här har träden en ålder på ca
+100 år. I avd. 2. dominerar tall med ett lite större inslag av ek och björk. Här är träden
+ca 100 år gamla. I avd. 3. dominerar ek med ett inslag av bok, gran samt andra lövträd.
+Här är träden ca 130 år gamla. I avd. 4. dominerar ek med ett inslag av tall, gran samt
+andra lövträd. Här är träden ca 130 år gamla. Vid sjökanten växer det fruktträd som ska
+
+sparas. I fältskiktet växer bland annat murgröna, blåsippa och liljekonvalj. I den västra
+delen av området har det lämnats trädgårdsavfall.
+Mål: Ädellövskog
+Naturliga processer, till exempel trädens föryngring, åldrande och avdöende samt
+omkullfallna träd och luckbildning, liksom periodvisa omvälvande störningar, till
+
+exempel insektsangrepp, översvämning eller stormfällning ska påverka dynamik och
+struktur. Till följd av naturliga störningar kan eventuellt yngre successionsstadier
+förekomma under perioder. Hydrologin och näringsstatusen ska vara naturlig och
+ostörd. Trädskiktet ska domineras av gamla träd av framför allt ek men även lind, alm,
+ask, lönn och tall och det ska finnas inslag av ersättningsträd till dessa. Inslag av andra
+
+9
+
+<!-- sida 30 -->
+
+lövträd kan förekomma. Trädskiktet ska vara olikåldrigt och flerskiktat. Följande
+strukturer/substrat ska finnas: gamla träd, levande träd med döda träddelar, liggande
+död ved och högstubbar, stående döda och döende träd. Gran, buskar och sly/ungträd
+ska inte tillåtas ta överhand eller skada de biologiskt värdefulla träden i området.
+
+Åtgärder:
+
+•  Grova träd ska frihuggas vid behov. Nedtagna träd ska ligga kvar som död ved.
+•  All gran och yngre bok ska röjas bort, alternativt ringbarkas, därefter ska den
+hållas efter vid behov. Grova bokar kan sparas.
+•  Alla icke inhemska trädslag ska röjas bort alternativt ringbarkas.
+•  Fruktträden vid sjökanten ska stå kvar.
+•  Veteraniseringsåtgärder för att öka mängden död ved och andra värdefulla
+substrat får utföras vid behov på yngre bestånd.
+•  Plantering av ädellövträd som ek, lönn, lind och fågelbär får utföras vid behov.
+Hägn får användas som skydd mot viltbete.
+•  Allt trädgårdsavfall som lämnats i den östra delen av skötselområdet ska tas
+bort.
+
+Skötselområde  2: Bokskog – Naturvårdande röjning
+
+Avdelning: 5-6
+
+Areal: 12,9 hektar
+Beskrivning: Skötselområdet består av bokskog med ett inslag av andra träd. I avd. 5.
+dominerar bok med ett inslag av andra lövträd samt gran. Åldern på träden här är ca
+100 år. I avd. 6. är det inget trädslag som dominerar utan är varierat med tall, gran,
+björk och bok. Åldern på träden här är ca 70 år.
+
+Mål: Bokskog
+Naturliga processer, till exempel trädens föryngring, åldrande och avdöende samt
+omkullfallna träd och luckbildning, liksom periodvisa omvälvande störningar, t.ex.
+insektsangrepp, översvämning eller stormfällning ska påverka dynamik och struktur.
+
+Till följd av naturliga störningar kan eventuellt yngre successionsstadier förekomma
+under perioder. Hydrologin och näringsstatusen ska vara naturlig och ostörd.
+Trädskiktet ska domineras av gamla träd av framför allt bok men även ek, lind, alm och
+lönn och det ska finnas inslag av ersättningsträd till dessa. Inslag av andra lövträd kan
+förekomma. Trädskiktet ska vara olikåldrigt och flerskiktat. Följande
+strukturer/substrat ska finnas: gamla träd, levande träd med döda träddelar, liggande
+död ved och högstubbar, stående döda och döende träd. Gran, buskar och sly/ungträd
+ska inte tillåtas ta överhand eller skada de biologiskt värdefulla träden i området.
+
+Åtgärder:
+
+•  Grova träd ska frihuggas vid behov. Nedtagna träd ska ligga kvar som död ved.
+•  All gran ska röjas bort alternativt ringbarkas, därefter ska den hållas efter vid
+behov.
+•  Alla icke inhemska trädslag ska röjas bort alternativt ringbarkas.
+
+10
+
+<!-- sida 31 -->
+
+•  Veteraniseringsåtgärder för att öka mängden död ved och andra värdefulla
+substrat får utföras vid behov på yngre bestånd.
+
+Skötselområde  3: Triviallövskog – Naturvårdande röjning
+Avdelning: 7
+
+Areal: 0,9 hektar
+
+Beskrivning: Skötselområdet består av den skog som ligger närmast vattnet i den
+södra delen, mellan vattnet och vägen. I avd. 7. dominerar björk med ett stort inslag av
+andra lövträd samt ek och bok. Träden här har en ålder på ca 75 år.
+
+Mål: Triviallövskog
+Naturliga processer, till exempel trädens föryngring, åldrande och avdöende samt
+omkullfallna träd och luckbildning, liksom periodvisa omvälvande störningar, t.ex.
+insektsangrepp, översvämning eller stormfällning ska påverka dynamik och struktur.
+Till följd av naturliga störningar kan eventuellt yngre successionsstadier förekomma
+under perioder. Hydrologin och näringsstatusen ska vara naturlig och ostörd.
+Trädskiktet ska domineras av gamla träd av framför allt björk men även klibbal, asp och
+tall kan förekomma och det ska finnas inslag av ersättningsträd till dessa. Inslag av
+andra lövträd kan förekomma. Trädskiktet ska vara olikåldrigt och flerskiktat. Följande
+strukturer/substrat ska finnas: gamla träd, levande träd med döda träddelar, liggande
+
+död ved och högstubbar, stående döda och döende träd. Gran, buskar och sly/ungträd
+ska inte tillåtas ta överhand eller skada de biologiskt värdefulla träden i området.
+Åtgärder:
+
+•  All gran ska röjas bort alternativt ringbarkas, därefter ska den hållas efter vid
+behov.
+•  Alla icke inhemska trädslag ska röjas bort alternativt ringbarkas. Sykomorlönn
+kan dock sparas.
+
+Skötselområde  4: Sjö och exploaterad mark – Ingen
+
+åtgärd
+
+Avdelning: 8-9
+Areal: 2,5 hektar
+
+Beskrivning: Skötselområdet består av en del av sjön Glamsjö som ingår i fastigheten
+Lillared 1:2. Fisk finns i sjön. Även vägen ingår i skötselområdet.
+
+Mål: Sjö samt exploaterad mark.
+
+Åtgärder:
+•  Inga
+
+11
+
+<!-- sida 32 -->
+
+2.3 Friluftsliv och  turism
+
+2.3.1 Beskrivning
+Naturreservatet är en del av Stättareds friluftsområde som kommunen ansvarar för.
+
+2.3.2 Att ta sig hit
+
+Det finns gott om vägar i området vilket gör det enkelt att ta sig hit både med bil och
+med cykel. Närmaste busshållplats ligger vid Stuv ca 2 km väster om området. En led
+går igenom den norra delen längs med sjön som binder ihop med andra leder inom
+friluftsområdet. En parkering planeras i den västra delen av området.
+
+2.3.3 Mål
+
+En parkering samt tre informationsskyltar som beskriver naturreservatet ska finnas.
+Leden ska behållas i befintligt skick men får breddas och tillgänglighetsanpassas om
+naturvärdena inte skadas.
+
+2.3.4 Åtgärder
+
+•  Reservatets gräns ska markeras.
+•  Informationsskylt sätts upp, enligt friluftslivskartan.
+•  Markerad led ska underhållas.
+•  Bord och bänkar får sättas upp på lämplig plats.
+•  Eldplats får anläggas på lämplig plats.
+
+2.4 Tillsyn, dokumentation      och  uppföljning
+
+Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs. Uppföljningen
+ska ske enligt de manualer för skyddade områden som har tagits fram av
+Naturvårdsverket. Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
+
+2.5. Sammanfattning       och prioritering   av
+
+planerade    skötselåtgärder
+
+Samtliga skötselåtgärder som föreslås i kapitel 3 och 4 redovisas samlat i tabell 6. I
+tabell 6 anges den inbördes prioriteringen av åtgärderna inom naturreservatet.
+Prioriteringen görs efter hur angelägen åtgärden är. Den övergripande prioriteringen
+mellan områdena görs av reservatets förvaltare.
+
+Tabell 6. Sammanfattning och prioritering av skötselplanens åtgärder. Prioritering inom intervall 1–3 där 1
+är högsta prioritet att genomföra.
+
+12
+
+<!-- sida 33 -->
+
+13
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Skötselåtgärd | När | Skötselområde | Prioritet | Kostnads- och<br>åtgärdsansvarig |
+| --- | --- | --- | --- | --- |
+| Röjning/ringbarkning av<br>gran, silvergran och bok | Snarast, därefter<br>vid behov | 1-3 | 1 | Förvaltaren |
+| Friställning av<br>solitärträd | Vid behov | 1-3 | 1 | Förvaltaren |
+| Borttagning av<br>trädgårdsavfall | Snarast | 1 | 1 | Förvaltaren |
+| Bekämpning av<br>främmande arter | Vid behov | Hela reservatet | 1 | Förvaltaren |
+| Uppsättning och<br>underhåll av<br>informationsskylt | Snarast, därefter<br>vid behov | 1-2 | 1 | Förvaltaren |
+| Anläggning och<br>underhåll av<br>parkeringsplats | Snarast, därefter<br>vid behov | Se friluftslivskarta | 2 | Förvaltaren |
+| Underhåll av led | Vid behov | Se friluftslivskarta | 2 | Kommunen |
+| Plantering av<br>ädellövträd | Vid behov | 1-2 | 3 | Förvaltaren |
+| Veteraniseringsåtgärder | Vid behov | 1-3 | 3 | Förvaltaren |
+
+<!-- sida 34 -->
+
+3\. Kartor
+
+3.1 Översiktskarta
+
+14
+
+<!-- sida 35 -->
+
+3.2 Skötselkartor
+
+Skötselområden
+
+15
+
+<!-- sida 36 -->
+
+16
+
+<!-- sida 37 -->
+
+Avdelningar
+
+17
+
+<!-- sida 38 -->
+
+3.3 Karta  med   nuvarande     naturtyper
+
+18
+
+<!-- sida 39 -->
+
+3.4 Karta  med   livsmiljötyper   enligt  NNK
+
+19
+
+<!-- sida 40 -->
+
+3.5 Karta  med   naturvärden
+
+20
+
+<!-- sida 41 -->
+
+3.6 Karta  med   friluftslivsanordningar
+
+21
+
+<!-- sida 42 -->
+
+4\. Referenser
+
+Bengtsson, E. och Simonsson, G. 1995 - 2003. Historiskt kartöverlägg. Kulturmiljö-
+enheten, Länsstyrelsen i Hallands län.
+
+Larsson, K. och Simonsson, G. 2003. Den halländska skogen – människa och mångfald.
+En underlagsrapport till en regional strategi för skogsskydd. Länsstyrelsen i Halland,
+Halmstad. Meddelande 2003:7.
+Länsstyrelsen i Hallands län, 1996. Inventering av skogliga nyckelbiotoper inom
+naturskyddade områden i Hallands län 1995. Meddelande 1996:10.
+
+Länsstyrelsen i Hallands län, 2001. Områden av riksintresse för naturvård i Hallands
+län. Meddelande 2001:20.
+
+Länsstyrelsen och Skogsstyrelsen. 2021. Värdetrakter för skog och prioriterade
+skogstyper i Hallands län: underlag för arbetet med formellt skydd av skog –
+Länsstyrelsen i Hallands läns meddelande 2021:02.
+
+Malmström, C. 1939. Hallands skogar under de 300 senaste åren. Meddelande från
+statens Skogsförsöksanstalt volym 31, sidorna 171 - 300.
+
+Naturvårdsverket och Skogsstyrelsen. 2024. Nationell strategi för formellt skydd av
+skog – reviderad version 2024. Naturvårdsverkets rapport 7168.
+
+Nitare, J., 2019. Skyddsvärd skog. Naturvårdsarter och andra kriterier för
+naturvärdesbedömning. Skogsstyrelsens förlag.
+SLU Artdatabanken. 2026. Rödlistade arter i Sverige 2025. SLU, Uppsala.
+
+SLU Artdatabanken. Artfakta. https://artfakta.se.
+
+SLU Artdatabanken. 2025. Risklista för främmande arter 2024.
+https://artfakta.se/risklistor/2024.
+
+22
+
+<!-- sida 43 -->
+
+www.lansstyrelsen.se/halland
+
+<!-- sida 44 -->
+
+da
+REMISS 11(2)
+
+LÄNSSTYRELSEN 2026-04-27 Dnr 511-6648-2011
+
+HALLANDS LÄN
+
+Enligt sändlista
+
+Förslag till beslut för Stättareds naturreservat i Kungsbacka
+kommun
+
+Länsstyrelsen har upprättat ett förslag till beslut för Stättareds naturreservat i
+Kungsbacka kommun på fastigheterna Lillared 1:22 och Stuv 2:2. Förslaget till
+beslut omfattar syftet med det långsiktiga skyddet, avgränsning, föreskrifter
+samt skötselplan.
+
+Förslaget översänds för eventuella synpunkter som ska vara inkomna senast
+den 26 juni 2026. Yttrandet skickas till Länsstyrelsen, 301 86 Halmstad eller till
+hallandQlansstyrelsen.se. Ange ärendets diarienummer,
+
+511-6648-2011, i ditt yttrande.
+
+Om du har frågor eller vill ha ytterligare information om ärendet är du
+välkommen att kontakta Sanna Persson
+(010 - 224 34 73, sanna.perssonQlansstyrelsen.se).
+
+Henrik Martinsson
+
+naturvårdsdirektör
+Sanna Persson
+naturvårdshandläggare
+
+Detta beslut har godkänts digitalt och saknar därför namnunderskrifter.
+
+Postadress Besöksadress E-post Telefon
+301 86 HALMSTAD Slottsgatan 2 halland(Qlansstyrelsen.se 010 - 224 30 00
+
+<!-- sida 45 -->
+
+da
+REMISS 2 (2)
+
+LÄNSSTYRELSEN 2026-04-27 Dnr 511-6648-2011
+
+HALLANDS LÄN
+
+Sändlista
+Kungsbacka kommun, kommun(Qkungsbacka.se
+
+Skogsstyrelsen, registratorQskogsstyrelsen.se
+
+Lantmäteriet, registratorQlm.se
+Lantbrukarnas riksförbund, LRF Halland, halland Ölrf.se
+
+Mellersta Götalands jordägareförening, skogQjordagarna.se
+
+Hallands botaniska förening, ordförande Börje Wernersson,
+borje.wernerssonQgmail.com
+
+Hallands naturskyddsförening, ordförande Anders Tullander,
+
+andersQtullander.se
+Naturskyddsföreningen Kungsbacka, kungsbackaQnaturskyddsforeningen.se
+
+Jägareförbundet Halland, hallandQjagareforbundet.se
+Sveriges geologiska undersökning, SGU, sguQsgu.se
+
+Ellevio, RES.ElleviofysiskplaneringQellevio.se
+
+Lars Tommy Eliasson & Berit Ingeborg Halvordsson, Peder Skrivares väg
+18A Igh 1102, 432 44 Varberg
+
+Sara & John Swartling Hogsten, Murkelvägen 208, 184 34 Åkersberga
+Jan Sigvardsson, Drängseredsvägen 46, 448 35 Floda
+
+Gudrun Andersson, Boatorpsvägen 80, 439 63 Frillesås
+
+Malou Johansson, Skrotta Glamsjövägen 309, 439 64 Frillesås
+
+Irene Christensen & Andreas Fritiofsson, Flögetvägen 20, 439 64 Frillesås
+Lena Sidestam, Ängsäters gränd 3 lgh 1403, 436 57 Hovås
+
+Monika & Lars Svensson, Tärneskärsgatan 32, 421 57 Västra Frölunda
+Pia Andersson, Flögetvägen 14, 439 64 Frillesås
+
+Marie & Bo Johansson, Sikelgatan 8 Igh 1102, 414 81 Göteborg
+
+Hans & Carina Johansson, Johan Oscars väg 8, 439 62 Frillesås
+Fastigheten Frillesås 4:10 AB, Box 9252, 400 96 Göteborg
+
+Erik Linder & Marita Börjesson, Fringshultsvägen 8, 439 63 Frillesås
+Antoinette Johansson, Trutvägen 2, 432 66 Veddige
+
+Martin Johansson, Fringshultsvägen 152, 439 63 Frillesås
+
+Victorssons Fastigheter AB, Almedalsvägen 182, 439 63 Frillesås
+
+Postadress Besöksadress E-post Telefon
+301 86 HALMSTAD Slottsgatan 2 halland(Qlansstyrelsen.se 010 - 224 30 00
+
+<!-- sida 46 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-05
+Diarienummer
+KS-2026-00337
+
+Svar på remiss från Mölndals stad av Strategi för hållbar masshantering i Mölndals
+stad
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen antar yttrande, daterat 2026-05-05, och översänder det som sitt svar till Mölndals
+stad.
+
+Sammanfattning av ärendet
+
+Kungsbacka kommun har fått möjlighet att yttra sig över Mölndals stads strategi för hållbar
+masshantering. Masshanteringen är en följd av etableringar av bostäder, verksamheter och större
+infrastrukturprojekt vilket genererar bland annat uppgrävda jord- och schaktmassor, krossat berg och
+uppriven asfalt.
+Mölndals stad ser strategin som ett viktigt underlag och en viljeinriktning med målet att integrera en
+hållbar masshantering i stadens organisation och arbetssätt, och som syftar till att arbeta mer
+
+resurseffektivt och minska masshanteringens kostnader och miljö- och klimatpåverkan. Strategin
+omfattar kommunala förvaltningar och bolag samt när det är möjligt och lämpligt även andra aktörer
+som verkar inom staden.
+Principer som redovisas i strategin är att integrera hållbar masshantering i den strategiska planeringen,
+förebygga uppkomst av massor och uppnå massbalans, underlätta för cirkulära processer och
+hantering, arbeta innovativt, samarbeta och samverka kommunalt och regionalt.
+
+Beslutsunderlag
+Samhällsbyggnadskontorets tjänsteskrivelse, 2026-05-05
+Yttrande, 2026-05-05
+
+Remissversion av strategi för hållbar masshantering i Mölndals stad, inklusive bilagor, 2026-04-17
+
+Beslutet skickas till
+
+Mölndals stad
+
+1 (3)
+Samhällsbyggnadskontoret                                  Kungsbacka kommun
+434 81 Kungsbacka
+Christian Carlsson
+0300-834114                                                   Besöksadress
+Samhällsplanerare                                        Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 47 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Beskrivning av ärendet
+
+Mölndal är en expansiv kommun som genererar mycket masshantering. En hantering som innebär
+höga kostnader men även en stor belastning på miljö och klimat.
+
+Föreslagen strategi ses som ett viktigt underlag och en viljeinriktning med målet att integrera en
+hållbar masshantering i stadens organisation och arbetssätt, och som syftar till att arbeta mer
+resurseffektivt och minska masshanteringens kostnader och miljö- och klimatpåverkan. Detta ska
+uppnås genom att förebygga uppkomst av massor, cirkulär hantering, minska användningen av ändliga
+resurser och att effektivisera transporterna av massor. Strategin omfattar kommunala förvaltningar och
+bolag samt när det är möjligt och lämpligt även andra aktörer som verkar inom staden.
+
+Strategin för hållbar masshantering sammanfattas med följande principer:
+1\. Integrera hållbar masshantering i den strategiska planeringen
+
+2\. Arbeta strategiskt och systematiskt med resurseffektiv masshantering i detaljplaner och projekt
+3\. Underlätta för cirkulär masshantering
+
+4\. Verka för att lokalisera ytor för cirkulär hantering av massor
+5\. Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
+
+6\. Kommunalt samarbete, mellankommunal och regional samverkan inom masshantering
+Förklarande text samt exempel på hur respektive princip kan uppnås beskrivs närmare i strategin. När
+det gäller mellankommunal och regional samverkan lyfter strategin som exempel att Mölndal kan
+bidra med samverkan utifrån den kommunalt antagna, regionala avfallsplanen, från Göteborgsregionen
+
+(GR). Ett åtgärdsområde i avfallsplanen handlar om att samordna hantering av schaktmassor och
+materialflöden.
+För att nå målen, förankra och genomföra strategin föreslås en handlingsplan tas fram. Planen ska
+innehålla konkreta, uppföljningsbara åtgärder och uppdrag där ansvarsfördelning, tidplan samt
+prioriteringar av aktiviteter och åtgärder framgår. I arbetet med att ta fram en plan ska representanter
+från berörda förvaltningar och bolag delta.
+
+Kommunstyrelsens förvaltnings bedömning
+
+Föreslagen strategi är ett ambitiöst ställningstagande från Mölndals stad men som ser ut att passa väl
+med lagstiftning, nationella miljömål samt redan antagna styrdokument i Mölndal. Den höga
+ambitionsnivån blir påtaglig när strategin ska genomföras då en högre prioritering av hållbar
+masshantering innebär förändrade arbetssätt och kan ge ökade behov av resurser i organisationen.
+När det gäller mellankommunal och regional samverkan ser Kungsbacka samma behov och nytta av
+samverkan och Kungsbacka kan bidra i direkt samverkan med Mölndal när det finns gemensamma
+intressen eller på regional nivå via GR. Som exempel på behov av samverkan har kommunstyrelsens
+
+förvaltning i uppdrag att revidera kommunens täktplan. En täktplan berör materialförsörjning och kan
+
+<!-- sida 48 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+också inkludera masshantering. Förvaltningens uppfattning är att en ny täktplan inte kan göras med
+
+kommunal avgränsning utan att den behöver vara ett resultat av regional samverkan.
+
+Rickard Vidlund                    Lovisa Eld
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 49 -->
+
+YTTRANDE
+Kommunstyrelsen
+
+Till Datum
+Mölndals stad 2026-05-05
+
+Diarienummer Kungsbacka
+KS-2026-00337
+
+Ert diarienummer
+
+KS 00016-2026
+
+Yttrande över Mölndals stads remiss av Strategi för hållbar masshantering i Mölndals
+stad (KS 16/2026)
+
+Sammanfattande inställning
+
+Kungsbacka kommun ser positivt på att Mölndals stad gör en satsning mot hållbar masshantering och
+ser fram emot fortsatt mellankommunal och regional samverkan inom området. Våra kommuner är
+båda expansiva och masshantering och materialflöden är viktiga frågor att hantera i våra
+samhällsutvecklande processer.
+
+Kungsbacka kommun
+
+1 (1)
+
+Kommunstyrelsen Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+
+Stadshuset, Storgatan 37
+
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 50 -->
+
+Strategi för hållbar masshantering
+I Mölndals stad
+
+» Strategi
+Program
+Plan
+
+Policy
+Riktlinjer
+
+Anvisning
+
+Typ av styrdokument: Strategi
+
+Beslutad av: Kommunfullmäktige, 2026-xx, paragraf och diarienummer
+Gäller från: 2026-xXx-Xxx
+
+Ansvarig: Samhällsbyggnadsförvaltningen xxx
+
+Dokumentet gäller för: Mölndals stad ....
+
+Senast reviderad: 2026-MM- DD
+
+<!-- sida 51 -->
+
+<!-- sida 52 -->
+
+1\. Inledning
+
+Mölndal är en expansiv kommun med hög etablering av bostäder, verksamheter och
+större infrastrukturprojekt som genererar mycket masshantering. En hantering som
+innebär höga kostnader, men även en stor belastning på miljö och klimat.
+
+Uppgrävda jord- och schaktmassor, krossat berg, uppriven asfalt, muddermassor, askor,
+slagger är exempel på massor. Massor! kan uppstå i olika typer av verksamheter och
+processer och kan även vara förorenade, vilket kan begränsa användningen. Gemensamt
+är att de, med eller utan behandling, har potential att användas i anläggningsarbeten.
+
+En hållbar masshantering bidrar till stadens mål om att minska växthusgasutsläppen med
+90 ?0 till 2040. Exempelvis står transporten av jord- och bergmaterial för ca 25 20 av
+antalet tunga transporter och för 3040 26 av CO> utsläppen från tunga transporter?.
+Transporterna orsakar även störningar i boendemiljön med buller och luftföroreningar,
+ökade olycksrisker samt slitage på vägar. Svårhanterliga projektgenererade massor såsom
+lera och silt, som är vanliga i Mölndal, ger större klimatutsläpp per ton än andra massor,
+eftersom dessa material ofta körs långt för kvittblivning och generellt innebär fler tomma
+returtransporter?.
+
+Avfallshierarkin, miljöbalken, plan och bygglagen och Sveriges miljömål är exempel på
+lagstiftning som är relevanta inom masshantering. I Mölndals stads ramverk för ekologisk
+hållbarhet beskrivs stadens målstruktur för ekologisk hållbarhet. I bilaga 1 redovisas
+lagstiftning, miljömål och styrdokument som rör masshantering.
+
+En politiskt beslutad strategi för hållbar masshantering innebär ett delvis förändrat
+arbetssätt och utvecklat synsätt på massor inom kommunens fysiska planering och
+projekt. Ett förändringsarbete som behöver stödjas med utbildningsinsatser och
+samverkan mellan kommunens förvaltningar och bolag samt med företag inom
+branschen.
+
+2\. Mål och syfte
+
+Strategin är ett viktigt underlag och en viljeinriktning med målet att integrera en hållbar
+masshantering i stadens organisation och arbetssätt och som syftar till att Mölndals stad
+arbetar mer resurseffektivt, minskar kostnaderna och klimatpåverkan från masshanter-
+ingen. Detta ska uppnås genom att förebygga uppkomst av massor i tidiga skeden och
+projekt, ställa krav på och planera för återanvändning och cirkulära material, minskat
+uttag av naturresurser och jungfruliga material? och att effektivisera transporterna av
+massor.
+
+I Begreppet massor finns inte definierat i lagstiftningen, varken i EU-direktiv eller nationell lagstiftning.
+
+? Ecoloop, april 2025
+
+3 Massor från områden som inte tidigare utsatts för mänsklig påverkan genom till exempel utsläpp. nedfall
+och tippning.
+
+4 Utifrån Naturvårdsverkets definition och avfallshierarkin
+
+Mölndals stads Strategi för hållbar masshantering 3
+
+<!-- sida 53 -->
+
+Hållbar masshantering'”
+
+En hållbar masshantering innebär att massor i första hand förebyggs så att uppkomsten av
+överskottsmassor undviks och att miljö- och hälsomässigt lämpliga massor cirkuleras och
+används resurseffektivt, till sitt högsta tekniska värde. Bedömningen av massornas
+lämplighet utgår från de risker de kan innebära för människors hälsa och miljön på kort
+och lång sikt, med hänsyn till massornas innehåll samt den plats och det ändamål där de
+ska användas.
+
+En hållbar masshantering bidrar till goda förutsättningar för en hälsosam livsmiljö och
+fungerande ekosystem som inte hotas av farliga ämnen. Genom en cirkulär och
+välplanerad masshantering minskar behovet av utvinning av geologiska naturtillgångar,
+liksom transporter, vilket leder till minskad miljöbelastning. Samtidigt skapas
+ekonomiska fördelar genom minskade material- och transportkostnader samt ett mer
+kostnadseffektivt resursutnyttjande genom hela masshanteringskedjan, från planering till
+genomförande.
+
+3\. Avgränsningar, vilka omfattas av strategin
+
+Strategin omfattar arbeten och projekt inom kommunkoncernen (förvaltningar och bolag)
+som direkt och indirekt genererar masshantering (fysisk planering, exploatering,
+investering och drift). Strategin ska även kunna omfatta exploatörer och andra aktörer.
+
+4\. Markförhållanden i Mölndals stad
+
+4.1 Geologi och geoteknik
+
+Markens sammansättning och tekniska egenskaper är av stor betydelse för möjligheten
+till och konsekvenser av ny bebyggelse och infrastruktur, som innebär såväl
+begränsningar som möjligheter. De naturliga geologiska förutsättningarna bör vara en
+naturlig del i analysen och avvägningarna vid planeringen av mark- och vattenområden.
+Konsekvenserna av att inte använda sig av information om de geologiska
+förutsättningarna kan bli samhällsekonomiska kostnader i form av dyra tekniska
+lösningar, miljöproblematik och förlorade ekosystemtjänster.
+
+Mölndals geologi består till stor del av dalgångar med lera till stora djup, som i de breda
+dalgångarna uppgår till 50-100 m och är ställvis av kvickleratyp, och högre terräng med
+hällmark med tunna jordlager och smala sprickdalar med kärr- och myrmarker.
+Randbildningen ”Göteborgsmoränen” som är en komplex bildning av morän och
+isälvssediment finns i ett nord-sydligt stråk genom centrala Mölndal. Berggrunden utgörs
+huvudsakligen av granitiska bergarter och gnejser.
+
+Områden där grundläggnings- och sättningskänslig lera samt stabilitetsförhållanden
+speciellt måste beaktas, finns främst i dalgångarna omkring Mölndalsån, Balltorpsbäcken,
+Stora Ån, Kålleredsbäcken/Ävabäcken och Lindomeån. En relativt stor del av jordlagren i
+dessa dalgångar är lös och mycket sättningskänslig. I övrigt domineras dalgångarna och
+sänkorna av glaciallera som i regel är något fastare och har gynnsammare sättnings-
+egenskaper. I nära anslutning till vattendragen är i regel stabiliteten låg.
+
+Mölndals stads Strategi för hållbar masshantering 4
+
+<!-- sida 54 -->
+
+Inom kommunen innehåller leran ställvis naturligt högre halter av arsenik och kobolt än
+mer grovkorniga jordar. Lera med naturlig förekomst av metaller är inte att betrakta som
+förorenade.
+
+Sura sulfatjordar är vanliga i vissa delar av landet men bedöms ha liten omfattning inom
+Mölndals stad. Sura sulfatjordar kan leda till ändrad vattenkemi i vattendrag med negativa
+effekter på vattenlevande organismer och fisk.
+
+Förekomst av naturligt sulfidförande berg inom kommunen bedöms som begränsad.
+Frågan bör dock beaktas i bygg- och anläggningsprojekt. Hantering av sulfidförande berg
+kan orsaka oönskade miljökonsekvenser i form av utlakning av surt- och metallrikt
+lakvatten som kan påverka omgivande miljö negativt.
+
+Kartor över jordarter och jorddjup inom Mölndals stad finns i bilaga 2.
+
+4.2 Förorenade områden
+
+Vid omvandling av äldre industrimiljöer, men även på många andra ställen inom
+kommunen, kan mark och vatten vara förorenad från tidigare verksamhet. När det finns
+en risk för människor och/eller miljö behöver området undersökas och vid behov åtgärdas
+
+Kända och potentiellt förorenade objekt finns samlade i länsstyrelsernas databas över
+förorenade områden, den så kallade EBH-listan. Ytterligare information kan finnas hos
+kommunens bygg- och miljöförvaltning.
+
+5\. Mål och principer
+
+Målet med strategin är en hållbar masshantering som utgår från intentionen i avfalls-
+hierarkin. Det innebär att massor i första hand ska förebyggas så att uppkomsten av
+överskottsmassor (massor och avfall) undviks.
+
+När massor ändå uppstår ska de i första hand användas till sitt högsta tekniska värde, med
+eller utan föregående förädlingssteg. Användbara cirkulära massor ska ha ett syfte och
+inte endast vara ett sätt att kvittbliva massor. Användningsområden med korta transporter
+ska prioriteras.
+
+I sista hand ska massorna transporteras till en mottagningsanläggning, för förädling eller
+deponering, som är godkänd att ta emot massor av den aktuella typen.
+
+Hanteringen ska vidare utgå från på det sätt som bäst skyddar människors hälsa och
+miljön som helhet.
+
+Mölndals stads Strategi för hållbar masshantering 5
+
+<!-- sida 55 -->
+
+j
+
+on
+
+Hj
+hk
+PEREDA FÖR ÅTERANVÄN
+
+Atta ArenvinnG
+
+Avfallshierarkin. Från Naturvårdsverket.
+
+Mölndals stads strategi för hållbar masshantering sammanfattas med följande principer:
+
+1\.
+2\.
+
+NAR Lv
+
+Integrera hållbar masshantering i den strategiska planeringen
+
+Arbeta strategiskt och systematiskt med resurseffektiv masshantering i
+detaljplaner och projekt
+
+Underlätta för cirkulär masshantering
+
+Verka för att lokalisera ytor för cirkulär hantering av massor
+
+Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
+Kommunalt samarbete, mellankommunal och regional samverkan inom
+masshantering
+
+5.1 Integrera hållbar masshantering i den strategiska
+planeringen
+
+För att öka möjligheten att påverka och förebygga massor behöver masshanteringsfrågan
+hanteras tidigt i samhällsbyggnadsprocessen. Detta kan uppnås genom att:
+
+inkludera och inarbeta strategins intentioner i översiktsplaner och i tematiska
+tillägg,
+
+genomföra lokaliseringsutredningar som skapar förutsättningar för masshantering
+samt säkerställer att mottagningsanläggningar för både förädling och deponering
+av massor finns inom rimliga transportavstånd.
+
+Mölndals stads Strategi för hållbar masshantering 6
+
+<!-- sida 56 -->
+
+5.2 Arbeta strategiskt och systematiskt med resurseffektiv
+masshantering i detaljplaner och projekt
+
+De bästa massorna är de som aldrig uppstår. I tidiga skeden av projekt och i detaljplane-
+processen är möjligheten störst att förebygga att massor uppkommer, och att påverka
+förutsättningarna för resurseffektiv masshantering. Detta kan innebära att:
+
+e inkludera bedömning avseende masshantering vid prövning av planbesked,
+
+. utformning av den fysiska miljön anpassas till landskapet och rådande
+markförhållanden, arbeta med höjdsättning, undvika anläggningar och
+byggnation som skapar omotiverade överskott eller underskott av massor och att
+tillämpa geotekniska åtgärder som minimerar behov av schakt;
+
+e - undersökningar av jord och berg (tekniska förutsättningar) och markmiljö
+(föroreningar i mark) är så omfattade att de kan användas för att bedöma massors
+kvalitet och förutsättningen för cirkulär hantering samt för bedömning av risk för
+människors hälsa och miljö,
+
+e verka för att masshanteringsplan, som baseras på undersökningar av jord, berg
+och markmiljö, tas fram i detaljplaner och projekt med betydande masshantering,
+
+e beakta strategins principer vid upprättande av exploaterings- och
+genomförandeavtal.
+
+5.3 Underlätta för cirkulär masshantering
+
+Möjligheten till cirkulär masshantering behöver finnas medi hela kedjan från strategisk
+planering till byggnation, där projekteringen är en extra viktig del. Återanvändning och
+förädling av jord och entreprenadberg bidrar till många miljönyttor såsom mindre uttag
+av jungfruliga geologiska material, möjlighet till minskade transporter och därmed även
+mindre negativ påverkan avseende klimatutsläpp, luftföroreningar och buller. Kommunen
+kan bidra och stärka marknaden genom krav på återanvändning av tekniskt och
+miljömässigt lämpliga massor och cirkulära material vid upphandling. För miljönytta ska
+transportavståndet för att införskaffa lämpligt material beaktas.
+
+Cirkulär och säker masshantering kan uppnås genom att:
+
+e tydliga och kommunicerade mål tas fram för cirkulär masshantering i projekt,
+e krav ställs i upphandling på inköp och användning av cirkulära material och
+råvara i mark- och anläggningsprojekt.
+
+5.4 Verka för att lokalisera ytor för cirkulär hantering av
+massor
+
+Effektiv cirkulär hantering av massor förutsätter att det finns tillgång till ytor där massor
+kan lagras och vid behov bearbetas; sorteras, krossas, siktas etc. För att stödja detta
+arbetssätt kan kommunen verka för att det finns lämpliga ytor i närhet till exploaterings-
+och utbyggnadsområden, antingen i egen regi eller i samverkan med entreprenör eller
+kommersiell anläggning. Lagring av massor är generellt anmälningspliktig eller
+tillståndspliktig verksamhet, beroende på omfattningen.
+
+Mölndals stads Strategi för hållbar masshantering 7
+
+<!-- sida 57 -->
+
+5.5 Arbeta innovativt med att utveckla arbetssätt för hållbar
+masshantering
+
+Hållbar masshantering är ett utvecklingsområde och det är viktigt att vara uppdaterad
+avseende regelverk, bästa teknik och arbetssätt. För att uppnå detta ska Mölndals stad:
+
+e ha expertkunskap inom masshantering och en organisation och ett arbetssätt som
+stödjer detta arbete,
+e aktiv omvärldsbevakning inom hållbar masshantering.
+
+5.6 Kommunalt samarbete, mellankommunal och regional
+samverkan inom masshantering
+
+Samarbete mellan förvaltningar och bolag inom kommunkoncernen underlättar
+genomförandet av strategin.
+
+Större investeringar och utvecklingsprojekt inom hållbar masshantering innebär generellt
+höga kostnader och behov av tvärvetenskaplig kompetens. Ett av de definierade
+åtgärdsområden i den regionala Avfallsplanen (GR), antagen av Mölndals stad, är att
+skapa ett regionalt samarbete för att samordna hantering av schaktmassor och
+materialflöden. Mölndals stad kan exempelvis bidra med samverkan i ett sådant arbete.
+
+6\. Fortsatt arbete för att nå målen i strategin
+
+En gemensam handlingsplan för att förankra och genomföra strategin ska tas fram för
+kommunkoncernen. Planen ska innehålla konkreta, uppföljningsbara åtgärder och
+uppdrag där ansvarsfördelning, tidplan samt prioriteringar av aktiviteter och åtgärder
+framgår. I arbetet med att ta fram en plan ska representanter från berörda förvaltningar
+och bolag delta. I planen ska även de ekonomiska och personella konsekvenserna för
+genomförandet anges.
+
+Kompetens inom strategisk planering, material, teknik, miljöjuridik och ekonomi med
+koppling till masshantering, och att stadens verksamheter kan organiseras och samverka
+på ett effektivt sätt underlättar genomförandet av strategin. Detta kan exempelvis göras
+genom att ta fram gemensamma arbetsprocess(er) och checklistor och att praktiska
+tillämpningar för hållbar masshantering arbetas in i tekniska handböcker och andra
+styrdokument.
+
+7\. Genomförande och uppföljning
+
+Denna strategi ska ses över och riktlinjer i strategin ska följas upp i slutet av varje
+mandatperiod. Arbetet ska ledas av Samhällsbyggnadsförvaltningen. Finns behov av
+uppdatering ska detta utföras. Strategin kan också ses över och uppdateras vid behov.
+Prioritering, planering och finansiering av åtgärderna hanteras i ordinarie
+beslutsprocesser.
+
+Strategin är ett politiskt antaget styrdokumenten och det ligger i nämndernas och
+bolagens ansvar att se till att beslutat styrdokument efterlevs.
+
+Mölndals stads Strategi för hållbar masshantering 8
+
+<!-- sida 58 -->
+
+Bilaga 1
+
+Bilaga 1. Strategins koppling till lagstiftning, miljömål samt
+kommunala styrdokument
+
+Nedan listas exempel på lagstiftning, bestämmelser och styrdokument som är relevanta att lyfta i
+arbetet med en hållbar masshantering.
+
+Miljöbalken (Miljöbalk 1998:808)
+
+Bestämmelserna i miljöbalken syftar till att främja en hållbar utveckling som innebär att nuvarande
+och kommande generationer tillförsäkras en hälsosam och god miljö. En sådan utveckling bygger på
+insikten att naturen har ett skyddsvärde och att människans rätt att förändra och bruka naturen är
+förenad med ett ansvar för att förvalta naturen väl.
+
+Miljöbalken skall bl a tillämpas så att:
+
+\- människors hälsa och miljön skyddas mot skador och olägenheter oavsett om dessa orsakas av
+föroreningar eller annan påverkan,
+
+\- återanvändning och återvinning liksom annan hushållning med material, råvaror och energi främjas
+så att ett kretslopp uppnås.
+
+De kapitel som i första hand omfattar frågor som berör masshantering är: Kap 3. Grundläggande
+bestämmelser för hushållning med mark- och vattenområden, Kap 5. Miljökvalitetsnormer samt
+kap 15. Avfall
+
+Plan och bygglagen
+
+Plan och bygglagen reglerar planläggning och byggande av mark och vatten. I lagen finns
+bestämmelser om översiktsplaner, detaljplaner och områdesbestämmelser, samt regler för
+byggnadsverk och byggprodukter. Lagen syftar till att främja en hållbar livsmiljö och jämlika sociala
+levnadsförhållanden. Den innehåller bestämmelser om hur mark och vatten ska användas för att bl a
+säkerställa god hushållning, vilket kan inkludera masshantering.
+
+Sveriges miljömål
+
+Miljömålssystemet består av ett generationsmål, 16 miljökvalitetsmål samt ett antal etappmål inom
+områdena avfall, biologisk mångfald, farliga ämnen, hållbar stadsutveckling, luftföroreningar och
+klimat. Sveriges miljömål är det nationella genomförandet av den miljömässiga dimensionen av de
+globala hållbarhetsmålen. Miljömålen av störst betydelse för masshanteringen är:
+
+Generationsmålet — miljöarbete för kommande generationer
+
+Övergripande mål som inriktar den svenska miljöpolitiken och är vägledande för miljöarbetet på alla
+nivåer i samhället. Till Generationsmålet hör sju strecksatser varav en har särskild betydelse för en
+hållbar masshantering;:
+
+\- Kretsloppen är resurseffektiva och så långt som möjligt fria från farliga ämnen
+God bebyggd miljö
+
+Städer, tätorter och annan bebyggd miljö ska utgöra en god och hälsosam livsmiljö samt medverka till
+en god regional och global miljö. Natur- och kulturvärden ska tas till vara och utvecklas. Byggnader
+och anläggningar ska lokaliseras och utformas på ett miljöanpassat sätt och så att en långsiktigt god
+
+Mölndals stads Strategi för hållbar masshantering.
+
+<!-- sida 59 -->
+
+Bilaga 1
+
+hushållning med mark, vatten och andra resurser främjas. Till miljömålet hör sex preciseringar varav
+följande bedöms ha särskild betydelse för en hållbar masshantering:
+
+\- Människor utsätts inte för skadliga luftföroreningar, kemiska ämnen, ljudnivåer och radonhalter eller
+andra oacceptabla hälso- eller säkerhetsrisker.
+
+\- Avfallshanteringen är effektiv för samhället, enkel att använda för konsumenterna och att avfallet
+förebyggs samtidigt som resurserna i det avfall som uppstår tas till vara i så hög grad som möjligt samt
+att avfallets påverkan på och risker för hälsa och miljö minimeras.
+
+\- Användningen av energi, mark, vatten och andra naturresurser sker på ett effektivt, resursbesparande
+och miljöanpassat sätt för att på sikt minska och att främst förnybara energikällor används.
+
+Giftfri miljö
+
+Förekomsten av ämnen i miljön som har skapats i eller utvunnits av samhället ska inte hota
+människors hälsa eller den biologiska mångfalden. Halterna av naturfrämmande ämnen är nära noll
+och deras påverkan på människors hälsa och ekosystemen är försumbar. Halterna av naturligt
+förekommande ämnen är nära bakgrundsnivåerna. Till miljömålet Giftfri miljö bedöms följande ha
+särskild betydelse för en hållbar masshantering:
+
+\- Den sammanlagda exponeringen för kemiska ämnen via alla exponeringsvägar inte är skadlig för
+människor eller den biologiska mångfalden.
+
+\- Information om miljö- och hälsofarliga ämnen i material, kemiska produkter och varor är tillgänglig.
+\- Användningen av särskilt farliga ämnen har så långt som möjligt upphört.
+
+\- Förorenade områden är åtgärdade i så stor utsträckning att de inte utgör något hot mot människors
+hälsa eller miljön.
+
+Begränsad klimatpåverkan
+
+Halten av växthusgaser i atmosfären ska i enlighet med FN:s ramkonvention för klimatförändringar
+stabiliseras på en nivå som innebär att människans påverkan på klimatsystemet inte blir farlig. Målet
+ska uppnås på ett sådant sätt och i en sådan takt att den biologiska mångfalden bevaras,
+livsmedelsproduktionen säkerställs och andra mål för hållbar utveckling inte äventyras. Sverige har
+tillsammans med andra länder ett ansvar för att det globala målet kan uppnås
+
+Klimatpåverkan kan begränsas alltifrån från fysisk planering, möjligheten att ställa miljökrav vid
+upphandling.
+
+Naturvårdsverkets vägledning inom masshantering
+
+Vägledningen omfattar hur rätt massor hamnar på rätt plats samt hur schaktmassor och andra typer av
+massor bör undersökas, riskbedömas och hur de kan användas i anläggningsarbeten.
+
+www.naturvardsverket.se
+
+Miljöprövningsförordningen (2013:251)
+
+Miljöprövningsförordningen reglerar tillstånds- och anmälningsplikt för miljöfarliga verksamheter
+med syftet att reglera hur verksamheter som kan påverka miljön ska prövas och kontrolleras.
+Tillsynsmyndigheten ska i samband med ett tillstånds- eller anmälningsärende bedöma om
+
+Mölndals stads Strategi för hållbar masshantering. 2
+
+<!-- sida 60 -->
+
+Bilaga 1
+
+verksamheten kan antas medföra en betydande miljöpåverkan. Många avfallsverksamheter omfattas av
+denna prövning.
+
+Kommunala styrdokument med koppling till masshantering
+
+Mölndals stads Ramverk för ekologisk hållbarhet. Arbete pågår
+
+Ramverket för ekologisk hållbarhet sätter en struktur för organisering och uppföljning av Mölndals
+stads miljö- och klimatstrategiska arbete. Ramverket syftar till att tydliggöra stadens prioriteringar,
+samordna insatser för effektiv resursanvändning och att staden tar sitt ansvar för att minska
+klimatpåverkan och skydda miljön — både lokalt och globalt.
+
+Masshanteringsstrategins koppling till ramverket:
+
+-Minskad klimatpåverkan från transporter samt från schaktning, grävning och sprängning. En hållbar
+masshantering bidrar till stadens mål om att minska växthusgasutsläppen med 90 24 till 2040.
+
+-Minskad naturpåverkan genom att återanvända material .
+Klimatanpassningsplan. Beslutad av: Kommunstyrelsen, 2024-12-18 \$311.
+
+Handlingsplan för kommunens arbete med förorenade områden. Arbete med uppdatering av plan
+pågår.
+
+Dagvattenstrategi. Beslutad av kommunfullmäktige 2016-11-16. Arbete med uppdatering av strategi
+pågår.
+
+Markstrategi. Arbete pågår.
+
+Strategi vid bekämpning av invasiva växter på kommunal mark i Mölndals stad. Beslutat av
+Kommunfullmäktige 2022-11-30, Dnr 00282/20221.2.1.
+
+Handlingsplan vid bekämpning av invasiva växter på kommunal mark i Mölndals stad. Beslutat av
+Tekniska förvaltningen 2022-11-30 Dnr 321.2022.
+
+Avfallsplanen. Göteborgsregionen minskar avfallet Avfallsplan för tretton kommuner till 2030. Dnr
+302/2020. Innehåller mål för att minska avfallets farlighet och mängd. Planen betonar vikten av att
+förebygga avfall, återvinna så mycket som möjligt och säkerställa att avfall inte hamnar i naturen.
+
+Mölndals stads Strategi för hållbar masshantering. 3
+
+<!-- sida 61 -->
+
+Bilaga 2: Jorddjup  och jordarter Mölndals  stad
+
+<!-- sida 62 -->
+
+Mölndals stads    Strategi för hållbar masshantering
+
+<!-- sida 63 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-19
+Diarienummer
+KS-2026-00186
+
+Svar på Göteborgsregionens remiss gällande strategiska vägval inför Västra
+Götalands framtagande av styrdokument Storkoll 2050
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen antar yttrande, daterat 2026-05-19, och översänder det som sitt svar till
+Göteborgsregionen.
+
+Sammanfattning av ärendet
+
+Västra Götalandsregionen (VGR) har beslutat att revidera Målbild tåg 2035, inklusive
+Västtågsutredningen. Framtagandet av det nya strategiska dokumentet, Storkoll 2050, beräknas pågå
+till och med 2027 med antagande våren 2028.
+För Kungsbacka och pendelstråket mot Göteborg är kapacitet, robusthet och fortsatt god tillgänglighet
+för arbets- och studiependling särskilt viktiga frågor. Behov av tydligare prioriteringar, bättre
+samordning mellan aktörer och en mer sammanhållen planering av tåg- och busstrafiken. Detta
+
+inkluderar även biljettsystemet som bör följa arbetsmarknadsregionens geografi före de administrativa
+gränserna. Stationer och bytespunkter ska upplevas som trygga, tillgängliga och hållas öppna utifrån
+resenärernas behov.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-05-19
+Yttrande, 2026-05-19
+Rapport - Storkoll 2050 – Beskrivning av processen och ramar inför muntlig dialog i delregionala
+kollektivtrafik- och samhällsplaneringsforum våren 2026, 2026-05-06
+Utvärdering av Målbild tåg 2035 inklusive Västtågsutredningen, 2025-10-08
+Bilaga-Kunskapsunderlag till utvärdering av Målbild tåg 2035 inklusive Västtågsutredningen, 2025-
+
+10-08
+
+Beslutet skickas till
+
+Göteborgsregionen
+1 (3)
+Samhällsbyggnadskontoret                                  Kungsbacka kommun
+434 81 Kungsbacka
+Agneta Nordström
+0300-834264                                                   Besöksadress
+Specialist Infrastruktur                                 Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 64 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Beskrivning av ärendet
+
+Storkoll 2050 utgår från målen i VGR:s trafikförsörjningsprogram 2026-2029 och från den regionala
+utvecklingsstrategin (RUS) Det innebär att Storkoll 2050 ska stödja ett Västra Götaland som
+är sammanhållet och robust, jämlikt och öppet samt fossiloberoende och cirkulärt och som ska bidra
+till måluppfyllelse av trafikförsörjningsprogrammet.
+
+Storkoll 2050 ska innefatta all storregional kollektivtrafik, det vill säga både tåg och den
+storregionala busstrafiken. Fokus är persontågstrafiken men även andra anspråk på banorna ska tas om
+hand och beskrivas, exempelvis godstrafiken.
+
+Målbild tåg 2035, som antogs 2013, beskriver den långsiktiga utvecklingen av persontågstrafiken i
+Västra Götaland och kompletterades 2018 genom Västtågsutredningen. Inför den kommande
+revideringen som påbörjas 2025 har en utvärdering genomförts för att följa upp måluppfyllelse, samla
+erfarenheter och ge underlag för fortsatt utveckling av tågtrafiken i regionen.
+
+En utvärdering av Målbild tåg 2035 och Västtågsutredningen har genomförts inför den kommande
+revideringen Storregional kollektivtrafik 2050. Utvärderingen visar att utvecklingen av tågtrafiken i
+Västra Götaland delvis går i rätt riktning, men att resandeutvecklingen efter pandemin varit svagare än
+förväntat och att flera viktiga infrastrukturåtgärder ännu inte genomfört. Pandemins effekter och
+förändrade resvanor bedöms vara viktiga orsaker till detta, vilket även påverkat pendlingen mellan
+Kungsbacka och Göteborg där återhämtningen varit svagare än väntat.
+
+Det konstateras även att flera av de infrastrukturinvesteringar som krävs för att skapa ett mer
+kapacitetsstarkt och robust järnvägssystem fortfarande återstår. Detta begränsar möjligheten att
+vidareutveckla trafiken i det sydvästra pendlingsstråket trots fortsatt hög efterfrågan på regional
+pendling. För Kungsbacka är detta särskilt betydelsefullt då järnvägens kapacitet och tillförlitlighet är
+avgörande för fungerande arbets- och studiependling mot Göteborg.
+
+Vidare visar utvärderingen att arbetet med nya stationer enligt Västtågsutredningen gått långsamt
+framåt. Flera planerade stationer befinner sig fortfarande i dialogfas och ett projekt har pausats.
+Utvärderingen pekar på att långa processer samt otydlighet kring ansvar och finansiering har påverkat
+genomförandet negativt. Samtidigt lyfts samverkan kring stationsutveckling och samhällsplanering
+fram som en positiv del av arbetet, vilket även är relevant för Kungsbacka där stationsnära utveckling
+är en viktig del av den kommunala planeringen.
+
+En annan central fråga i utvärderingen är avvägningen mellan snabb och effektiv regional trafik med
+färre stopp och ambitionen att skapa ökad geografisk tillgänglighet genom fler stationer. För
+Kungsbacka är denna målkonflikt särskilt viktig eftersom stråket både fungerar som ett starkt regionalt
+
+pendlingsstråk mot Göteborg och samtidigt påverkas av utvecklingen i det omgivande
+stationssystemet.
+
+<!-- sida 65 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Rickard Vidlund                    Lovisa Eld
+
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 66 -->
+
+YTTRANDE
+Kommunstyrelsen
+
+Till Datum
+Göteborgsregionen 2026-05-19
+
+iari Diarienummer Kungsbacka
+Ert diarienummer
+
+GR 2026-00071 KS-2026-00186
+
+Yttrande över Göteborgsregionens remiss: Inspel av strategiska vägval inför Västra
+Götalands framtagande av styrdokument Storkoll 2050(GR 2026-00071)
+
+Kungsbacka kommun ställer sig positiv till möjligheten att inkomma med inspel inför framtagandet
+av Västra Götalandsregionens strategiska dokumentet, Storkoll 2050.
+
+För Kungsbacka och pendelstråket mot Göteborg är kapacitet, robusthet och fortsatt god tillgänglighet
+för arbets- och studiependling särskilt viktiga frågor. Behov av bättre samordning mellan aktörer och
+en mer sammanhållen planering av tåg- och busstrafiken. Detta inkluderar även biljettsystemet som
+bör vara enkelt och smidigt och följa arbetsmarknadsregionens geografi före de administrativa
+gränserna. Stationer och bytespunkter ska upplevas som trygga, tillgängliga och hållas öppna utifrån
+resenärernas behov.
+
+En annan central fråga är avvägningen mellan snabb och effektiv regional trafik med färre stopp och
+ambitionen att skapa ökad geografisk tillgänglighet genom fler stationer. För Kungsbacka är denna
+målkonflikt särskilt viktig eftersom Västkuststråket både fungerar som ett starkt regionalt
+pendlingsstråk mot Göteborg och samtidigt påverkas vi av utvecklingen i det omgivande
+
+spårsystemet. För att minimera sådana målkonflikten är
+
+infrastruktursatsningar som ombyggd Kungsbacka station och fyrspår norrut centrala, inte minst då
+Fehrman bält-tunneln öppnar inom några år. Samhällsnyttan ska stå i centrum så att satsningar görs där
+nyttan är som störst både för gods- och persontrafik.
+
+Redan idag finns behovet av kapacitetsstark och snabb kollektivtrafik längs med 158 stråket.
+Kungsbacka kommun vill lyfta den storskaliga kollektivtrafikens utvecklingsbehov på längre sikt för
+Göteborgsregionen som stödjer en fortsatt tillväxt. I utblick Storkoll 2050 bör en framtida
+Säröbana(tåg) planeras när busskapaciteten längs stråket nått sitt kapacitetstak.
+
+Kungsbacka kommun
+
+1 (1)
+
+Kommunstyrelsen Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+
+Stadshuset, Storgatan 37
+
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 67 -->
+
+2026-05-06
+
+Storkoll 2050
+
+Beskrivning av process och ramar inför muntlig dialog i
+delregionala kollektivtrafik- och samhällsplaneringsforum
+
+VY6Y VÄSTRA
+w GÖTALANDSREGIONEN
+
+<!-- sida 68 -->
+
+Sida 1
+
+Bakgrund
+
+Västra Götalandsregionens (VGR) strategiska dokument för utveckling av
+persontågtrafiken i Västra Götaland är Målbild tåg 2035 vilken antogs 2013.
+Målbilden är en konkretisering av trafikförsörjningsprogrammet som är det
+övergripande styrdokumentet för kollektivtrafikens utveckling. Målbild tåg
+
+2035 beskriver att det ska erbjudas välfungerande kommunikationer som
+snabbt tar invånarna till arbete, skola och fritidsaktiviteter. Detta ska nås
+genom att knyta samman Västra Götalands huvudorter samt öka
+förbindelserna till regioncentrum i grannlänen. Dessutom är målet att tåget
+ska fungera som ryggrad när det gäller invånarnas pendlingsresor. En
+målsättning i målbilden är att tågresandet i Västra Götaland ska trefaldigas
+från år 2006, till 130 000 resor per dag år 2035.
+
+Vid tiden för målbildens framtagande var många av tågen fullbelagda under
+
+maxtimmarna och järnvägens kapacitet var begränsad, vilket den
+fortfarande är. I målbilden beskrivs därför behovet av tätare avgångar,
+längre tåg, högre hastigheter och en kraftig utbyggnad av
+järnvägsinfrastrukturen. Tågtrafiken föreslogs utvecklas mest där det finns
+störst resandeunderlag, men föreslogs även utvecklas i stråk där
+resandeunderlaget var mindre, för att bidra till visionen om det goda livet i
+
+Västra Götaland. Utöver detta lyfte målbilden fram vikten av
+bebyggelseplanering i stationsnära lägen, utbyggnad av gång- och
+cykelvägnät, pendelparkeringar och andra åtgärder som stödjer ett ökat
+resande med tåg.
+
+Målbild tåg 2035 kompletterades med Västtågsutredningen 2018. I
+Västtågsutredningen utreddes förutsättningarna för att öppna nya stationer
+i mindre tätorter i Västra Götaland. Västtågsutredningen inspirerades av
+den utveckling som skett i Skåne, där resandet med lokaltågstrafik ökat och
+
+ett tjugotal nya stationer öppnats.
+
+Västra Götalandsregionens infrastruktur- och kollektivtrafiknämnd (IKN)
+beslutade i början av 2024 att en revidering av Målbild tåg 2035 inklusive
+Västtågsutredningen skulle starta under senare delen av 2025. IKN anser
+att det finns ett behov av revidering och anpassning av målbilden, med
+hänsyn till samhällsutvecklingen generellt och specifikt kring förändrade
+och nya resbehov, trafikering och infrastruktur. Skaraborgs
+
+kommunalförbund har även inkommit med ett önskemål till beredningen
+för hållbar utveckling (BHU) om att Västtågsutredningen ska ses över.
+
+Som ett första steg i revideringsprocessen genomfördes under 2025 en
+utvärdering av nuvarande Målbild tåg 2035 inklusive Västtågsutredningen.
+Utvärderingen innefattar analys av måluppfyllnad samt en intervjustudie
+
+<!-- sida 69 -->
+
+Sida 2
+
+med berörda aktörer. Utvärderingen har redovisats för
+kommunalförbunden och återfinns i sin helhet som ett underlag till den
+muntliga dialogen i de delregionala kollektivtrafik- och
+samhällsplaneringsforumen under senvåren 2026.
+
+Beskrivning    av  processen
+
+Infrastruktur- och kollektivtrafiknämnden ansvarar för att ta fram förslag
+till en strategisk plan för storregional kollektivtrafik som en konkretisering
+av trafikförsörjningsprogrammet inför beslut i regionfullmäktige. Det
+
+strategiska dokumentets kortare namn är Storkoll 2050 och har det
+huvudsakliga målåret 2050 även om ytterligare framtidsscenarier med
+längre tidshorisont också behöver beskrivas. I framtagandet av det
+strategiska dokumentet är en milstolpe att definiera en strategisk inriktning
+för den storregionala kollektivtrafikutvecklingen som beredningen för
+hållbar utveckling ställer sig bakom. Utifrån den strategiska inriktningen
+formas sedan Storkoll 2050 – strategisk plan för storregional
+
+kollektivtrafik.
+
+Processledningen för Storkoll 2050 har under tidig vår 2026 informerat
+Västtrafik, Trafikverket och kommunalförbundens tjänstepersonsnätverk
+om det kommande arbetet och processen för framtagande av ett nytt
+strategiskt dokument. En fortsatt dialog kommer att föras med ovanstående
+intressenter, bland annat genom inbokade workshops och arbetsmöten.
+Även grannregioner, länsstyrelsen, näringslivet och civilsamhället kommer
+
+att involveras i det kommande arbetet.
+
+Förankring och dialog med kommunalförbunden är tänkt att ske löpande i
+de delregionala kollektivtrafik- och samhällsplaneringsforumen, med
+kommunalförbundens direktioner och BHU.
+
+Processen för framtagande av Storkoll 2050 är indelad i två faser:
+
+a) Strategiska vägval
+\-  Under våren 2026 sker muntlig politisk dialog i de fyra delregionala
+kollektivtrafik- och samhällsplaneringsforumen kring vilka frågor
+respektive kommunalförbund anser vara av vikt att beakta i det
+fortsatta arbetet utifrån de givna förutsättningarna och ramarna.
+
+\-  Möjlighet för kommunalförbunden att inkomma med skriftliga
+
+inspel fram till sista oktober.
+
+<!-- sida 70 -->
+
+Sida 3
+
+\-  Beslut i infrastruktur- och kollektivtrafiknämnden om förslag till
+strategisk inriktning inför behandling i beredningen för hållbar
+utveckling.
+
+\-  Ställningstagande i beredningen för hållbar utveckling kring den
+strategiska inriktningen för fortsatt arbete med Storkoll 2050. Detta
+sker preliminärt vid beredningens sista sammanträde denna
+
+mandatperiod, 3 december.
+
+b) Det strategiska dokumentet i sin helhet
+\-  Utifrån den strategiska inriktningen arbetas ett förslag till ny
+strategisk plan för storregional kollektivtrafik fram under våren
+2027\.
+
+\-  Dialog kring förslaget under vårens delregionala kollektivtrafik- och
+samhällsplaneringsforum.
+
+\-  Förslaget skickas på formell remiss under hösten 2027. Remisstid
+
+beräknas vara 5-6 månader.
+
+\-  Preliminärt behandlas förslaget i infrastruktur- och
+kollektivtrafiknämnden i början av 2028 för vidare beslut i
+regionstyrelsen innan regionfullmäktige fastställer dokumentet
+senare under våren 2028.
+
+Figur 1 Övergripande tidplan och steg i processen
+
+<!-- sida 71 -->
+
+Sida 4
+
+Utgångspunkter      och   ramar   för Storkoll
+2050
+
+Trafikförsörjningsprogram och regional
+
+utvecklingsstrategi
+Storkoll 2050 ska utgå från målen i VGR:s trafikförsörjningsprogram
+2026-2029 och från den regionala utvecklingsstrategin. Det innebär att det
+övergripande målet om en hållbar och förbättrad tillgänglighet i Västra
+
+Götaland är styrande, samt att Storkoll 2050 ska stödja ett Västra Götaland
+som är robust och sammanhållet, jämlikt och öppet samt fossiloberoende
+och cirkulärt. Storkoll 2050 ska även bidra till måluppfyllelse av
+trafikförsörjningsprogrammets nedbrutna målområden, se nedan.
+
+Figur 2 Målstruktur VGR:s trafikförsörjningsprogram 2026-2029
+
+Storkoll 2050 ska dessutom samspela med trafikförsörjningsprogrammets
+övriga konkretiseringar liksom VGR:s strategiska inriktning för
+
+<!-- sida 72 -->
+
+Sida 5
+
+transportinfrastrukturen, nationell och regional infrastrukturplan,
+strategisk plan för godstransporter samt strategisk plan för ökad cykling.
+
+Figur 3 Storkoll 2050 i förhållande till övriga konkretiseringar av
+trafikförsörjningsprogrammet
+
+<!-- sida 73 -->
+
+Sida 6
+
+Utpekat kollektivtrafiknät och grundutbud
+I trafikförsörjningsprogrammet beskrivs också ett utpekat regionalt
+
+kollektivtrafiknät som knyter samman kommunerna i Västra Götaland och
+dess huvudorter. Nätet ska ge goda möjligheter att nå arbetsplatser,
+högskolor/universitet men också andra målpunkter för service, nöje och
+fritidsresor. Tågtrafiken utgör stommen i nätet med busstrafik som
+komplement.
+
+Figur 4 Utpekat regionalt kollektivtrafiknät
+
+Det utpekade kollektivtrafiknätet tillsammans med grundutbudet om minst
+timmestrafik dagtid under vardagar ska utgöra en utgångspunkt i arbetet
+med Storkoll 2050.
+
+<!-- sida 74 -->
+
+Sida 7
+
+Det nya dokumentets  egenskaper  och karaktär
+Det nya strategiska dokumentet ska vara ett sammanhållet dokument som
+
+innefattar all storregional kollektivtrafik, det vill säga både tåg och den
+storregionala busstrafiken. Fokus ska vara persontågstrafik men även andra
+anspråk på banorna behöver beskrivas, exempelvis godstrafik.
+
+Det nya strategiska dokumentet ska vara mer övergripande än vad dagens
+målbild är. Det ska tydligt framgå vad VGR vill avseende den storregionala
+kollektivtrafikutvecklingen och tydliggöra VGR:s ambitioner, intentioner
+och prioriteringar. Samtidigt som tydlighet eftersträvas ska Storkoll 2050
+också vara flexibelt, exempelvis med avseende på eventuellt försenade eller
+
+uteblivna infrastruktursatsningar.
+
+Syftet med att ta fram en strategisk plan för storregional kollektivtrafik är
+flerdelat. Det kommer främst att vara ett viktigt planeringsunderlag för
+VGR och Västtrafik, men ska också tydliggöra den inriktningen för den
+storregionala kollektivtrafikutvecklingen som inspel till den kommunala
+planeringen.
+
+Figur 5 Syfte med det strategiska dokumentet
+
+Strategiska vägval
+
+I processen med framtagande av Storkoll 2050 är de strategiska vägvalen
+en viktig hållpunkt. Redan i samband med uppdraget till förvaltningen att
+påbörja revideringsarbetet identifierade IKN följande viktiga frågor där
+dialog behöver ske med kommunalförbunden.
+
+\-  Beskrivning av strukturpåverkande förutsättningar och
+storregionala relationers funktioner och samband (exempelvis
+demografi, målpunkter, etableringar, arbetspendling,
+studiependling, godstrafik, besöksnäring, fritidsresande, med
+
+mera).
+
+\-  Utifrån ovanstående punkt, definiera järnvägsbanornas roll och
+funktion.
+
+<!-- sida 75 -->
+
+Sida 8
+
+\-  Ta fram principer för hur och när beslut tas om att börja trafikera
+och sluta trafikera tågstationer.
+
+\-  Arbeta med strategisk framsyn, för att förstå hur dagens beslut kan
+påverka framtiden samt diskutera olika möjliga scenarier och
+framtider.
+
+Utöver dessa kommer ytterligare strategiska frågor för det fortsatta arbetet
+att diskuteras vid IKN:s sammanträde 22 maj 2026 och vid vårens
+
+delregionala kollektivtrafik- och samhällsplaneringsforum under slutet av
+maj och början av juni 2026.
+
+Socialt perspektiv
+
+Under hela processen ska det sociala perspektivet beaktas, och effekterna
+av de val som görs i arbetet ska analyseras och beskrivas utifrån hur de
+påverkar olika grupper.
+
+Framtidsspaning,      underlag    för dialog
+
+Infrastrukturutbyggnad
+Trots att utbyggnaden av järnvägsinfrastrukturen inte har löpt på i den takt
+som förutsattes i Målbild tåg 2035 så ser vi nu att en rad större
+
+infrastruktursatsningar med stor påverkan på den möjliga
+resandeutvecklingen är beslutade och kommer att bli verklighet under de
+kommande åren. Nedan följer en sammanfattning av beslutade
+investeringar.
+
+Västlänken
+Vid årsskiftet 2026/2027 öppnar Västlänkens första etapp för trafik. Det
+innebär att den nuvarande säckstationen vid Göteborg Central utökas med
+
+fyra ytterligare spår. Samtidigt pågår fortfarande det omfattande
+kontaktledningsbytet på Västra stambanan mellan Göteborg och Alingsås.
+Det innebär att full effekt av de ytterligare spåren först kan fås under 2028
+när kontaktledningsbytet också är klart.
+
+Resterande delar av Västlänken med möjlighet till genomgående trafik och
+stationer vid Haga och Korsvägen beräknas stå färdigt 2031. Detta ökar
+kapaciteten i järnvägssystemet runt Göteborg avsevärt och ger möjlighet att
+
+effektivisera trafikeringen genom att koppla ihop tåglinjer genom
+tågtunneln där de inte konkurrerar om utrymmet med fjärrtåg eller
+godståg.
+
+<!-- sida 76 -->
+
+Sida 9
+
+Göteborg – Borås inklusive bibana Mölnlycke
+En ny järnväg via Mölndal och Landvetter flygplats till Borås som även
+innefattar en bibana vilken ansluter Mölnlycke till den nya järnvägen
+beräknas stå färdig cirka 2040. Förutom att erbjuda snabba resor mellan
+Göteborg, Mölnlycke, Landvetter flygplats och Borås så kommer det nya
+
+benet österut som är ihopkopplat med Västlänken att skapa en ännu bättre
+balans i trafikeringssystemet. I anslutning till Mölndal kommer även
+uppställningsspår och ny depå att anläggas för att möta det ökade
+tågutbudet.
+
+Plattformsförlängningar Södra Bohusbanan samt ny
+station i Brunnsbo
+Södra Bohusbanan har potential att vara ett attraktivt resandealternativ för
+en stor mängd arbets- och studiependlare. Kapaciteten på fordonen har
+
+varit begränsad och därför är avsikten att börja trafikera banan med nya,
+längre tåg. Plattformarna på de befintliga stationerna behöver då förlängas
+för att kunna ta emot resenärer från de nya tågen,vilka kommer kunna
+erbjuda fördubblad sittplatskapacitet. Arbetet med dessa
+plattformsförlängningar beräknas ske 2028.
+
+Samtidigt sker också arbeten med att färdigställa dubbelspår vid Brunnsbo
+och en ny pendeltågsstation. Åtgärden är en del av satsningarna inom
+Västsvenska paketet och beräknas kunna öppna för trafik i december 2029.
+
+Pendeltågsstationen kommer att möjliggöra byten till spårvagn och buss
+och på så sätt koppla ihop Bohusbanan med Göteborgs övriga
+kollektivtrafiksystem.
+
+Västra stambanan
+Det råder stora kapacitetsbrister på Västra stambanan mellan Göteborg och
+Alingsås, vilket påverkar möjligheten till tågtrafikering i den omfattning
+som motsvarar efterfrågan och potentialen. I nationell plan för
+
+transportinfrastruktur 2026-2037 som regeringen beslutade om i april
+2026 finns glädjande nog beslut om att utreda ytterligare två spår på hela
+sträckan Göteborg – Alingsås med liksom medel för att bygga den första
+delen mellan Olskroken och Partille. Tidplan för när tåg kan trafikera de
+nya spåren finns ännu inte offentliggjord, men rimligt är att det blir först på
+2040-talet.
+
+Ytterligare planerade infrastrukturåtgärder
+
+Det finns ytterligare infrastrukturåtgärder inplanerade vilka sammantaget
+syftar till att förbättra kapacitet och öka tillförlitligheten i järnvägssystemet.
+Några av åtgärderna med större påverkan beskrivs nedan.
+
+<!-- sida 77 -->
+
+Sida 10
+
+\-  Ny växelförbindelse i Håkantorp som möjliggör flexiblare
+trafikering mellan Älvsborgsbanan och Kinnekullebanan kommer
+att stå klar i slutet av 2027.
+
+\-  Åtgärder för samtidig infart i Vara och Vedum som effektiviserar
+trafikeringen av järnvägsanläggningen. Åtgärderna i Vedum
+kommer att vara klara under 2027, i Vara längre fram.
+
+\-  Ombyggnation av Vänersborgs station. Plattformsförlängning som
+
+beräknas vara klar senhösten 2027.
+
+\-  Plattformsförlängningar på Viskadalsbanan för ökad kapacitet.
+Arbetena kommer att starta 2028 och banan kommer sedan att
+trafikeras av 80 meter långa tåg.
+
+\-  Trädsäkring av Norra Bohusbanan för att minska de tillfällen då
+banan behöver stängas av på grund av väder. Avverkning planeras
+till 2027.
+
+\-  Planering för ny station i Brålanda enligt Västtågsutredningen
+pågår. Stationen kan öppna för trafik 2031 om alla bitar faller på
+plats.
+
+\-  Utöver detta pågår en översyn av befintliga plankorsningar på
+
+flertalet av de regionala järnvägarna. Syftet är att minska antalet
+plankorsningar samtidigt som de kvarvarande korsningarna
+uppdateras till nuvarande säkerhetsstandarder. Färre
+plankorsningar kan möjliggöra högre hastigheter.
+
+\-  I den nyligen beslutade nationella planen för transportinfrastruktur
+2026-2037 anges också att Kinnekullebanan ska rustas upp och
+delvis elektrifieras för bättre pendling och mer godstrafik på
+
+järnväg.
+
+Resandeutveckling
+
+De infrastruktursatsningar som beskrivs ovan kommer att möjliggöra en
+utveckling av tågtrafiken som beräknas ge en ökning av resandet. Denna
+beräkning av resandeökningen har förfinats av Västtrafik sedan
+utvärderingen av Målbild tåg 2035 gjordes, och visar i korthet på att målet
+om en tredubbling av resandet i princip kan nås – inte till 2035, men väl till
+i början av 2040-talet.
+
+<!-- sida 78 -->
+
+Sida 11
+
+Tydliga språng i resandeutvecklingen väntas i takt med att
+systempåverkande infrastrukturåtgärder står färdiga och ytterligare
+tågfordon levereras.
+
+Figur 6 Förväntad utveckling av tågresandet i Västra Götaland
+
+Befolkningsprognos och demografi
+Västra Götalandsregionens avdelning för samhällsanalys har sammanställt
+en prognos för befolkningsutvecklingen fram till 2040 och gjort en analys
+över den demografiska utvecklingen. Rapporten i sin helhet går att ta del av
+
+på Västra Götalandsregionens hemsida.
+
+Över hälften av kommunerna i länet minskar i befolkning och många
+samhällen behöver ställa om från tillväxtsfokus till anpassning utifrån en
+minskad befolkning. I det nordiska perspektivet syns en tydlig trend av att
+befolkningen koncentrerar sig till mellanstora och stora städer, vilket även
+gäller för Västra Götaland.
+
+<!-- sida 79 -->
+
+Sida 12
+
+Figur 7 Prognos befolkningsutveckling fram till 2040
+
+Angränsande      processer    och  utredningar
+
+Systemanalys
+
+Beredningen för hållbar utveckling (BHU) tillsatte i juni 2025 en politisk
+arbetsgrupp för infrastrukturfrågor med uppdrag att samordna arbetet
+inför nästkommande revidering av nationell- och regional
+infrastrukturplan. I den politiska arbetsgruppen medverkar från Västra
+Götalandsregionen (VGR) regionstyrelsen presidium tillsammans med
+infrastruktur- och kollektivtrafiknämndens presidium. Från
+
+kommunalförbunden medverkar ordförande i direktion/förbundsstyrelse
+samt ordförande för Västkom. Den politiska arbetsgruppen har enats om
+att ta fram en systemanalys för transportinfrastrukturen i Västra Götaland.
+Syftet är att bidra till underlag för prioritering till nationell- och regional
+
+<!-- sida 80 -->
+
+Sida 13
+
+infrastrukturplan samt att skapa en gemensam syn på hur och vad
+infrastrukturen kan bidra till utifrån gemensamma målsättningar.
+
+Kortfattat innehåller arbetet med en systemanalys följande steg:
+
+1\. Nuläge - Ta fram nulägesbilder och kartor för att få en gemensam
+bild kring nuläget och förutsättningar.
+
+2\. Scenarier - Ta fram och testa ett antal utvecklingsscenarier där mål
+eller motsägelser maximeras och testas i respektive scenario för att
+synliggöra möjliga vägval och prioriteringar.
+
+3\. Värdering av möjliga åtgärder - Med utgångspunkt i nuläget och test
+av olika scenarier/målbild görs en värdering av möjliga åtgärder
+enligt 4-stegs principen.
+
+4\. Politisk dialog om inriktning - Politisk dialog i BHU om inriktning
+för prioriteringar av brister och behov i transportinfrastrukturen i
+Västra Götaland.
+Systemanalysen ska vara färdigt i inför nästa revidering av den nationella
+
+och regionala infrastrukturplanen, det vill säga under hösten 2027.
+
+Utblick 2050
+
+Sedan Målbild Koll2035, vilken berör kollektivtrafiken i Göteborg, Mölndal
+och Partille, antogs politiskt 2018 har nya insikter, förutsättningar och
+händelser lett till förändringar av varierande karaktär och omfattning. De
+kan bero på nya behov och händelser, liksom pandemi,
+konjunkturförändringar och andra omvärldsfaktorer som påverkar
+
+resvanor och samhällsutveckling. Några objekt har avfärdats, andra har
+senarelagts och i vissa fall har förändringar skett i planerings- och
+genomförandeskedet. Det finns fortsatt en samsyn kring att målbildens
+huvudsakliga inriktning är relevant att arbeta vidare med för att möta
+stadsutvecklingen.
+
+Syftet med projektet Utblick 2050 är att fördjupa kunskapen om
+utvecklingsbehovet för kollektivtrafiksystemet i Göteborg, Mölndal och
+Partille bortom 2035, och utvärdera om Målbilden ”fortfarande håller”.
+
+Utblick 2050 syftar inte till att skapa en ny målbild men kan ses om ett
+förarbete inför nästa målbild. Utredningen kommer huvudsakligen att
+resultera i en tydligare bild av de framtida behoven av kollektivtrafik inom
+Göteborg, Mölndal och Partille. Den kommer även att påbörja arbetet med
+hur kollektivtrafiksystemet på lång sikt skulle kunna utvecklas för att
+bemöta dessa behov. Utredningen påbörjades våren 2026 och kommer att
+
+pågå i knappt ett år.
+
+<!-- sida 81 -->
+
+Sida 14
+
+Handlingsplan för att nå branschmålet om 4 av 10
+motoriserade resor med  kollektivtrafiken
+
+Det nationella branschmålet för kollektivtrafiksektorn är att fyra av tio av
+alla motoriserade resor ska ske med kollektivtrafiken år 2030. För Västra
+Götaland går utvecklingen i rätt riktning men för långsamt. I infrastruktur-
+och kollektivtrafiknämndens detaljbudget för 2026 ges därför uppdraget att
+ta fram en samlad handlingsplan med konkreta åtgärder för att styra mot
+hur målet om att 4 av 10 motoriserade resor ska ske med kollektivtrafiken
+
+ska nås, och när.
+
+Uppdraget ska genomföras under 2026. Det kommer att utgå utifrån
+befintlig forskning och kunskap om effektiva metoder samt en kartläggning
+om var det finns potential för att öka marknadsandelen utifrån olika
+geografiska förutsättningar. Uppdraget ska:
+
+\-  Dels redovisa hur långt VGR kommer med befintlig budget, mål och
+styrdokument.
+
+\-  Dels ta fram förslag på åtgärder för att snabbare nå måluppfyllelse.
+
+Handlingsplanen utgör inte ett direkt uppdrag till Västtrafik, utan ska
+innehålla en palett av åtgärder som politiskt kan prioriteras och tillämpas
+
+genom strategiska beslut och inriktningar i till exempel kommande
+budgetar, trafikförsörjningsprogram och andra styrdokument.
+
+<!-- sida 82 -->
+
+Sida 15
+
+Transporteffektivt Västra Götaland
+I regionfullmäktiges budget anges att det idag saknas tydliga mål för ett
+
+transporteffektivt samhälle och infrastruktur- och kollektivtrafiknämnden
+ges i uppdrag att utveckla mål för ett transporteffektivt Västra Götaland
+med utgångspunkt från Klimatpolitiska rådets definition samt ge förslag på
+hur målet kan inkluderas i Västra Götalandsregionens målstruktur.
+
+I uppdraget ingår att bryta ner målen till olika delar av regionen och föreslå
+åtgärder på kort och lång sikt.
+
+Uppdraget består av följande delar:
+
+\-  Beskrivning av ett transporteffektivt samhälle enligt tidigare
+framtaget kunskapsunderlag.
+
+\-  En nulägesanalys om förutsättningarna och potentialer för ett
+transporteffektivt samhälle i Västra Götaland.
+
+\-  Förslag till mål för ett transporteffektivt samhälle - för hela regionen
+
+samt för regionens olika delar.
+
+\-  Förslag på åtgärder på kort och lång sikt i linje med föreslagna mål.
+
+\-  Förslag på hur de föreslagna målen kan inkluderas i Västra
+Götalandsregionens målstruktur.
+
+Uppdraget är av mångfacetterad karaktär och förutsätter ett
+helhetsperspektiv, samt stöd från andra aktörer och även forskare.
+
+<!-- sida 83 -->
+
+ITM EN a
+HIM
+
+2025-10-08
+
+Utvärdering av
+Målbild tåg 2035
+
+Inklusive Västtågsutredningen
+
+YEY VÄSTRA
+W GÖTALANDSREGIONEN
+
+<!-- sida 84 -->
+
+Utvärdering av Målbild tåg 2035 Sida 1
+
+Datum: 2025-10-08
+
+Dokumentnamn: Utvärdering av målbild tåg 2035
+
+Diarienummer: IKN 2025-00217
+
+Kontaktperson: Adrien Moysset, Koncernkontoret, Regional samhällsplanering
+
+Foto framsida: Thomas Harryson
+Foto sida 23: Monika Manowska/westsweden.com
+
+GÖTALANDSREGIONEN
+
+VV västra
+M
+
+<!-- sida 85 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 2
+
+Innehållsförteckning
+
+Sammanfattning ............................................................................................. 3
+
+Halvtidsutvärdering ....................................................................................... 4
+
+Målbildens intentioner: regionförstoring, ökat resande och nya stationer ... 5
+
+Mål- och medeluppföljning ............................................................................8
+
+Övriga mått och faktorer .............................................................................. 12
+
+Intervjustudie ............................................................................................... 19
+
+Rekommendationer till revideringen ........................................................... 24
+
+Bilaga 1 – uppföljning av infrastrukturåtgärder .......................................... 26
+
+Bilaga 2 – uppföljning av hastigheter per bana ........................................... 31
+
+Bilaga 3 – dokument och processer att beakta i kommande revidering ...... 32
+
+Bilaga 4 - intervjufrågor ............................................................................... 33
+
+Bilaga 5 – hur arbetar andra regioner? ........................................................ 34
+
+Bilaga 6 – kunskapsunderlag ....................................................................... 35
+
+<!-- sida 86 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 3
+
+Sammanfattning
+
+Målbild tåg 2035 antogs 2013 och beskriver hur persontågstrafiken i Västra Götaland
+kan utvecklas fram till 2035. Målbilden kompletterades med Västtågsutredningen
+2018, som innefattar mål om att öppna sju nya stationer i Västra Götaland. VGR:s
+infrastruktur- och kollektivtrafiknämnd beslutade 2024 att revidering av målbild tåg
+
+2035 inklusive Västtågsutredningen kunde starta under senare delen av 2025.
+
+Utvärderingen har genomförts på initiativ av och av VGR:s avdelning regional
+samhällsplanering. Den innefattar en måluppföljning och en intervjustudie med
+berörda aktörer. Utvärderingen syftar till att höja kunskapen om målbildens
+måluppfyllnad hittills, bidra med erfarenhetsåterföring samt ge rekommendationer
+inför kommande revidering av målbilden. Måluppföljningen visar att:
+
+•  samhällsmålet om ökad tillgång till arbete, studier och fritid samt
+regionförstoring går i önskad riktning.
+
+•  mycket återstår för att nå Västtågsutredningens mål om att öppna sju nya
+stationer. Dialog pågår om sex av dem. För stationen i Hillared har
+diskussionerna pausats.
+•  resandeutvecklingen inte ligger i linje med målbildens intentioner, på grund av
+en kraftigt negativ resandeutveckling som följd av covid 19-pandemin och
+
+förändrade resvanor därefter.
+•  många av de i målbilden utpekade infrastrukturinvesteringarna återstår, vilka
+är nödvändiga för att möjliggöra en utvecklad tågtrafik och nå målet om ett
+trefaldigat resande.
+•  tågtrafiken inte dimensionerats utifrån ambitionerna, på grund av att
+infrastruktursatsningar inte genomförts i önskad takt samt att resandet inte
+
+ökat i den takt målbilden hoppades på.
+
+Intervjustudien pekar på att samverkan under framtagandet var en framgångsfaktor.
+Målbilden beskrivs som ambitiös, där långsiktighet är en styrka men där avsaknaden av
+prioriteringar saknas. Målbilden ses som ett betydelsefullt dokument, som varit och är
+till nytta på olika sätt för olika aktörer. Västtågsutredningen skapade höga
+förväntningar men på grund av långa processer, ledtider och otydligheter gällande
+ansvar och kostnader för nya stationer, har i många fall förväntningarna inte infriats.
+
+Samverkansinitiativet stationsutveckling och samhällsplanering har dock varit positivt
+och lyfts fram som något att arbeta vidare med. Slutligen råder olika syn på balansen
+mellan effektivitet och geografisk tillgänglighet.
+
+Utvärderingen har samlat rekommendationer till kommande revidering av målbild tåg
+2035\. Rekommendationerna och frågeställningarna berör strukturen på kommande
+målbild, vägval att göra, samverkan samt förändrade förutsättningar och nya
+perspektiv att beakta.
+
+<!-- sida 87 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 4
+
+Halvtidsutvärdering
+
+Bakgrund & syfte
+VGR:s infrastruktur- och kollektivtrafiknämnd (IKN) beslutade 2024-02-02 att en
+revidering av målbild tåg 2035 kunder starta under senare delen av 2025. Detta
+inkluderar Västtågsutredningen, där Skaraborgs kommunalförbund inkommit med
+
+önskemål till beredningen för hållbar utveckling (BHU) om att denna ska ses över. IKN
+anser att det finns ett behov av revidering och anpassning av målbilden, med hänsyn
+till samhällsutvecklingen generellt och specifikt kring förändrade och nya resbehov,
+trafikering och infrastruktur.
+
+I regionfullmäktiges budget 2026 framgår att målbild tåg 2035 ska ”revideras
+tillsammans med Västtågsutredningen. Målbilden ska utvidgas med att också
+omfatta den storregionala busstrafiken för att få ett sammanhållet måldokument för
+
+Västra Götalands transporter med bas i tågtrafiken. Att möjliggöra nya tågstopp är
+en angelägen utveckling av infrastrukturen som kan knyta samman Västra Götaland
+och ge fler möjlighet att resa med tåg.”
+
+Utvärderingen syftar till att höja kunskapen om målbildens måluppfyllnad hittills,
+bidra med erfarenhetsåterföring samt ge rekommendationer inför kommande
+revideringsprocess av Målbild tåg 2035.
+
+Utgångspunkter
+Målbild tåg 2035 antogs av regionfullmäktige 2013 och är en del av
+
+trafikförsörjningsprogrammet. Målbild tåg inkluderar sedan 2018 även
+Västtågsutredningen. Trafikförsörjningsprogrammet är det högst styrande dokumentet
+för kollektivtrafikens utveckling i VGR och ett reviderat program för perioden 2026–
+2029 förväntas antas i VGR:s regionfullmäktige november 2025.
+Trafikförsörjningsprogrammet är ett av VGR:s fyra övergripande styrdokument och
+samspelar samt bidrar till övriga strategier, inte minst VGR:s regionala
+utvecklingsstrategi (RUS) 2021–2030. En översyn av RUS:en pågår och en ny RUS
+
+förväntas antas av VGR:s regionfullmäktige under våren 2026. Antagandet av dessa två
+strategier, med de nya förutsättningar som de adresserar, förstärker behovet av att
+revidera målbild tåg 2035.
+
+Metod
+Utvärderingen av Målbild tåg 2035 har genomförts av VGR:s förvaltning, avdelning
+regional samhällsplanering under 2025. Utvärderingen har förankrats löpande genom
+avstämningar med tjänstepersoner på VGR och Västtrafik. Arbetet har omfattat en
+
+kvantitativ måluppföljning samt en kvalitativ analys genom intervjuer med berörda
+aktörer.
+
+<!-- sida 88 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 5
+
+Målbildens    intentioner:   regionförstoring,     ökat
+
+resande   och   nya  stationer
+
+Målbild tåg 2035 togs fram år 2011–2013, i samband med att VGR blev regional
+kollektivtrafikmyndighet (RKM), och med syftet att vidareutveckla och konkretisera
+trafikförsörjningsprogrammets intentioner. Målbilden beskriver hur
+persontågstrafiken i Västra Götaland kan utvecklas fram till 2035.
+
+Målbilden beskriver att det ska erbjudas välfungerande kommunikationer som snabbt
+tar en till arbete, skola och fritidsaktiviteter. Detta ska nås genom att knyta samman
+Västra Götalandsregionens huvudorter samt öka förbindelserna till regioncentrum i
+grannlänen. Dessutom är målet att tåget ska fungera som ryggrad när det gäller
+
+invånarnas pendlingsresor. En målsättning i målbilden är att tågresandet i Västra
+Götaland ska trefaldigas från år 2006, till 130 000 resor/dag år 2035.
+
+Figur 1 Målstruktur i Målbild tåg 2035. Källa: VGR.
+
+Vid tiden för målbildens framtagande var många av tågen fullbelagda under
+maxtimmarna och järnvägens kapacitet var begränsad, vilket den fortfarande är. I
+målbilden beskrivs därför behovet av tätare avgångar, längre tåg, högre hastigheter och
+en kraftig utbyggnad av järnvägsinfrastrukturen. Tågtrafiken föreslogs utvecklas mest
+där det finns störst resandeunderlag, men föreslogs även utvecklas i stråk där
+resandeunderlaget var mindre, för att bidra till visionen om det goda livet i Västra
+
+Götaland. Utöver detta lyfte målbilden fram vikten av bebyggelseplanering i
+stationsnära lägen, utbyggnad av gång- och cykelvägnät, pendelparkeringar och andra
+åtgärder som stödjer ett ökat resande med tåg.
+
+<!-- sida 89 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 6
+
+Målbilden togs fram i bred samverkan mellan Västra Götalandsregionen, Trafikverket
+och Västtrafik. Arbetet skedde i nära samarbete och i dialog med kommunerna, genom
+de delregionala kollektivtrafikråden och det dåvarande regionala kollektivtrafikrådet.
+Många andra intressenter medverkade vid samråd och i remissen av målbilden.
+
+I Västtågsutredningen, som är en konkretisering av Målbild tåg 2035 och som
+antogs av VGR:s regionfullmäktige 2018, utreddes förutsättningarna för att öppna nya
+
+stationer i mindre tätorter i Västra Götaland. 40 tätorter ingick i utredningen, som
+samtliga ligger utmed järnvägsnätet men som saknade en tågstation där tågen
+stannade. Västtågsutredningen inspirerades av den utveckling som skett i Skåne, där
+resandet med lokaltågstrafik ökat och ett tjugotal nya stationer öppnats.
+
+I utredningen användes av regionfullmäktige beslutade kriterier för öppnande av nya
+stationer:
+
+• Nettoresandet på aktuell bana ska öka, det vill säga man ska vinna fler
+resenärer än man förlorar.
+
+• Kollektivtrafikens restider i förhållande till bilen ska vara konkurrenskraftiga.
+• Pendlingsbenägenheten mellan Västra Götalands större städer ska beaktas.
+• Tågtrafikens kostnadseffektivitet ska beaktas.
+• Infrastrukturens kostnadseffektivitet ska beaktas, det vill säga att
+
+investeringskostnaden ska vägas mot resandetillskottet.
+
+Västtågsutredningen visade att Målbild tåg 2035 kan kompletteras med mål om att
+öppna sju nya stationer utifrån givna kriterier och analyser; Bäckefors, Dals Rostock,
+Brålanda, Frändefors, Hillared, Länghem och Grimsås. Detta förutsatt att
+infrastrukturen byggs ut så att fler stationer inte ger negativ påverkan på stora
+resandeflöden samt att kommunerna samtycker och planerar för en positiv utveckling i
+berörda tätorter. Antalet kollektivtrafikresor bedömdes öka med cirka 1200 resor om
+dagen, om dessa sju stationer öppnas. De totala infrastrukturinvesteringarna kopplat
+
+till dessa sju stationer bedömdes vid tiden för utredningen hamna mellan 510 – 860
+miljoner kronor. Ytterligare sex stationer visade sig uppfylla uppsatta kriterier, men
+beslutades inte om av olika anledningar.
+
+Under 2019–2020 togs en konkretisering av Målbild Tåg 2035 fram. Målbild Tåg
+delmål 2028 inklusive storregional busstrafik har som syfte att ”stärka
+järnvägsutvecklingen för Västra Götaland med fokus till år 2028 samt att ta fram
+målsättningar för den storregionala kollektivtrafiken oavsett trafikslag”. Vidare är
+målet med uppdraget att tydliggöra kostnader för infrastruktur, trafikering och effekter
+
+på resandet. Årtalet 2028 ska i första hand symbolisera ambitionerna att ta vara på
+befintlig och beslutad infrastruktur, vilket är en tidigare beslutad strategi i Målbild tåg
+2035\.
+
+<!-- sida 90 -->
+
+Utvärdering av Målbild tåg 2035 Sida 7
+
+Kopplat till målbilden så har Västtrafik tagit fram en handlingsplan tåg 2028 som
+presenterar hur det successiva införandet av trafikförändringarna i målbild tåg ska gå
+till, med fokus på år 2028. I planen redogörs även för hur all tågtrafik i regionen kan
+samordnas när Västlänken öppnas. Västtrafiks handlingsplan utvärderas inte i denna
+
+utvärdering.
+
+ESO Tåg 2028
+
+MEad Tag JO TS inklusive storrogional eve
+
+fr
+
+teg An MIRA 1
+set RAR
+
+pg || T NV vemfatå
+CV
+SE
+
+Figur 2. Målbild tåg 2035 inklusive Västtågsutredningen samt konkretiseringen Delmål 2028.
+Västtrafik har i sin tur tagit fram en handlingsplan, med fokus på år 2028. Källa: VGR och
+Västtrafik.
+
+<!-- sida 91 -->
+
+Utvärdering av Målbild tåg 2035 Sida 8
+
+Mål- och medeluppföljning
+
+Samhällsmål — framtida tillstånd: ökad tillgång till arbete, utbildning och
+fritid samt regionförstoring med ökat resandeutbyte mellan delregioner
+De lokala arbetsmarknaderna i Västra Götaland och Västsverige har förändrats under
+1990- och 2000-talet. Under 2010-talet och början på 2020-talet har trenden av att
+Göteborgs lokala arbetsmarknad förstorats fortsatt. Idag består Västsverige av sex
+lokala arbetsmarknader (därutöver tillhör Åmål Karlstad), att jämföra med tolv år
+1990\. Förstoring av arbetsmarknaden har gjort det möjligt att kunna ta ett arbete
+längre bort från hemmet, men även kunna nå fler utbildningsinstanser längre bort från
+hemmet samt fler fritidsresemål. Målbild tåg 2035 kan utifrån detta antas ha bidragit
+till samhällsmålet, samtidigt som denna trend går att utläsa även innan målbildens
+antagande.
+
+\=
+or
+
+Figur 3 Lokala arbetsmarknader i Västsverige, från vänster till höger: 1990, 2010 och 2023.
+Källa: SCB. Bearbetat av VGR.
+
+Mål — öppna sju nya stationer
+(Västtågsutredningen)
+Sedan Västtågsutredningen antogs 2018 har
+
+inga av de 7 beslutade stationerna tillkommit. å N fiser 7
+Beslut har tagits av Vänersborgs kommun N ee Fo
+
+och VGR om fortsatta utredningar, i syfte att ip . NA
+möjliggöra en ny station i Brålanda. För fb. | ve
+stationerna Bäckefors, Dals Rostock, ] i A z
+Frändefors, Länghem och Grimsås pågår | f Åk |
+
+fortsatt dialog inom arbetet för VN ömt
+Stationsutveckling och samhällsplanering i a rer
+
+(SOS). Stationen i Hillared har av Svenljunga
+kommun tills vidare inte bedömts vara
+
+intressant längre Figur 4 Beslutade stationer enligt
+
+Västtågsutredningen. Källa: VGR.
+
+<!-- sida 92 -->
+
+Utvärdering av Målbild tåg 2035 Sida 9
+
+Mål — tågresandet ska tredubblas
+
+Målet enligt Målbild tåg 2035 är att tågtrafiken ska tredubblas från 10,5 miljoner resor
+år 2006, till 39 miljoner resor 2035. Covid 19-pandemin påverkade resandet med
+kollektivtrafiken inklusive tåget kraftigt negativt. Sedan dess har resandet gradvis
+återhämtat sig, men ligger inte i nivå med beslutade mål enligt målbilden. 2024 var
+antalet resor 22,2 miljoner. Västtrafiks långtidsprognos siar om ett ökat resande med
+tåg (26 miljoner resor 2028), men inte till den grad att antalet resor ligger i linje med
+ambitionerna i målbilden (32,4 miljoner resor år 2028). Tågresandet har, efter covid
+19-pandemin, återhämtat sig bättre än övriga trafikslag.
+
+—
+
+H 35
+
+v I
+
+Zz 35 o
+
+mm O e
+
+22 .
+
+AN
+
+1
+
+5 15
+
+= 10
+
+\=
+
+= 5
+
+(0)
+\- CC Bb - [ap] Pb ap
+2330: 585088::0:0ese:e03a3aas
+
+å
+
+NN NN NÄÄÄ AI AAA
+
+am» Resandeutveckling
+e Mål 2035 samt ambitioner 2020 och 2028
+
+e Västtrafiks långtidsprognos
+
+Figur 5. Antal tågresor per år med Västtrafik (2010-2024), mål enligt målbild tåg 2035 och
+ambitioner för 2020 och 2028, samt Västtrafiks långtidsprognos för 2028.
+Källa: Västtrafik och VGR.
+
+Tågresandet sker med olika tågslag och av olika operatörer. Pendel- och regiontåg
+trafikeras av Västtrafik. Regiontåg trafikeras även av kommersiella aktörer, där
+Västtrafik har biljettsamarbeten. Fjärr- och snabbtåg trafikeras av kommersiella
+aktörer. De största resandeflödena hittas kring Göteborg, där tågtrafiken till Ale och
+Trollhättan, Lerum och Alingsås samt Mölndal och Kungsbacka sticker ut.
+
+Antalet delresor med kollektivtrafik i Västra Götaland har sedan målbilden antogs ökat.
+Samtidigt har även resandet med personbil ökat och bilinnehavet har ökat i samtliga
+kommuner i Västra Götaland, förutom i Göteborg, Mölndal, Partille och Kungälv.
+Kollektivtrafikens marknadsandel har under perioden 2010-2024 ökat från 23,796 till
+28946 och andelen hållbart resande från 35946 till 4196.
+
+<!-- sida 93 -->
+
+Utvärdering av Målbild tåg 2035 Sida 10
+
+Medel — tågtrafiken dimensioneras för att klara resandeökningen
+
+Målbild tåg 2035 pekar ut ambitioner om ett utökat trafikutbud i fordonskilometer och
+sittplatskilometer för att uppnå målet om resandeökning. Utbudet har inte utvecklats i
+den takt som målbilden hoppades på, på grund av att infrastruktursatsningar inte
+genomförts i önskad takt samt att resandet inte ökat i den takt målbilden hoppades på.
+
+\- 30 . 7000
+
+To eo v . eo
+
+TD or 3 6000
+
+= e = eo
+
+3 20 35000
+
+h e 4000
+
+\- rr +
+
+S 15 s [J
+
+T JE 23000 —
+
+2 10 7 2000
+
+5 km
+
+\-
+
+SS d 2 1000
+
+AJ (=)
+
+= = 0
+
+E INMAPLAaITIMALA a Min = + 00 0 NM FO 20 0 NM <
+FER EEREE TRE ERREEE
+NN NNNbNNbNNANNISAN NN SRA A-A-E
+e Ambitioner fordonskilometer e Ambitioner sittplatskilometer
+e— Fordonskilometer — Sittplatskilometer
+
+Figur 6 Utveckling samt mål 2035 och ambitioner 2020 och 2028 för tågutbud. Vänster:
+fordonskilometer 2011-2024, höger: sittplatskilometer 2014-2024. Källa: Västtrafik och
+VGR.
+
+Målbild tåg 2035 redovisar
+hur många dubbelturer
+(turer per riktning) som
+skulle avgå per vardag
+2035\. Utvecklingen har
+sedan 2010 sett olika ut,
+beroende på bana (se figur
+7). Större utökningar
+planeras genomföras inför
+och till Västlänkens
+införande. När det blir
+genomgående trafik i
+Västlänken så binds
+linjerna ihop, men det blir
+inte mer trafik då, förutom
+på sträckan Göteborg —
+
+Mölndal samt att det i o Figur 7 Antal dubbelturer 2024 och procentuell
+högtrafik kommer att gå förändring sedan 2010. Källa: Västtrafik.
+tätare trafik mellan
+
+Göteborg och Varberg.
+
+<!-- sida 94 -->
+
+Utvärdering av Målbild tåg 2035 Sida 11
+
+Medel — infrastrukturen byggs ut för att klara trafikökningen
+
+I målbilden beskrivs många satsningar, som ansågs nödvändiga för att kunna tredubbla
+resandet till 2035. De flesta av dessa satsningar återstår att både genomföra och besluta
+om. En sammanställning på vad som är genomfört, delvis genomfört, beslutat om,
+delvis beslutat om samt ej beslutat om framgår av bilaga 1. Vidare har tågtrafiken de
+senaste åren påverkats av många banarbeten, vilket även väntas påverka kommande år.
+
+En viktig aspekt är att infrastrukturens utveckling är beroende av den nationella och
+regionala infrastrukturplanen. Dessa planer är tolvåriga, där nästkommande planer
+som beslutas 2026 sträcker sig till 2037. VGR:s nationella prioriteringar har präglats av
+att det är så stora behov i landet, vilket gjort att utbyggnadstakten tar längre tid än vad
+målbilden antog. Många av de åtgärder som finns med i målbild tåg finns inte med i
+vare sig nationell eller regional plan. Fler åtgärder har även tillkommit i planeringen,
+sedan målbilden antogs. Ledtiderna för utbyggnad av infrastruktur är långa och
+ledtiderna för påverkansarbete för större åtgärder kan vara minst lika långa.
+
+Sedan målbild tågs antagande har kostnaderna för att bygga både väg och järnväg
+(index) ökat. Den största ökningen av järnvägsindexet har skett sedan 2021 och totalt
+har järnvägsindexet ökat med 48,596 mellan februari 2013 och februari 2025. De 45
+miljarder kronorna som målbilden antogs krävdes 2013, innebär därmed i 2025 års
+värde knappt 67 miljarder kronor. Det går däremot inte bara att titta på indexet för
+järnväg, utan kunskapen om många av de investeringar som beskrivs i målbild tåg 2035
+har ökat. Det har i många fall lett till att de bedömda kostnaderna ökat, jämfört med
+vad man trodde 2013. Det är därmed rimligt att tro att de 67 miljarder kronorna, i
+själva verket är högre.
+
+De flesta tågbanor är idag dimensionerade för samma hastigheter som 2013 (se bilaga
+2). De banor som har genomgått en hastighetsökning är Västkustbanan från och med
+2025, på grund av Varbergstunneln. Den ökade hastigheten på banan (200 km/h) är
+dock inte i linje med målet enligt målbilden (250 km/h). Viskadalsbanan har å andra
+sidan lägre hastighet idag än 2013, på grund av
+höjda säkerhetskrav (obevakade
+plankorsningar). I dagsläget finns inga beslut
+som tyder på att målen kommer att nås 2035.
+Beslut är taget om ny järnväg Göteborg — Borås,
+där hastigheten kommer att uppgå till 250 km/h
+och därmed inte nå målbild tågs ansats om 320
+km/h, dock inte till 2035. I regional
+transportinfrastrukturplan planeras det för
+hastighetshöjningar på Älvsborgsbanan och
+Kinnekullebanan, men det finns ingen tidplan
+ännu.
+
+<!-- sida 95 -->
+
+Utvärdering av Målbild tåg 2035 Sida 12
+
+Övriga mått och faktorer
+
+Västtrafiks fordonsflotta
+
+I samband med öppnandet av dubbelspåret Göteborg — Trollhättan och införandet av
+en ny pendeltågslinje till Älvängen, förnyades Västtrafiks flotta 2012 — 2013. 22 nya tåg
+av typen X61 levererades till pendeltågstrafiken och nio nya regiontåg av typen X50
+levererades. Den uppdaterade flottan visade sig snart vara för knapp för att klara av de
+snabba resandeökningarna på bland annat linjen Göteborg — Vänersborg och Göteborg
+— Strömstad. Därför hyrdes tillfälligt fordon in från Öresundståg för att förstärka
+regiontågen. När dessa sedan lämnades tillbaka i mitten på 2010-talet, ersattes de av 10
+inhyrda fordon från Skånetrafiken, som var av samma typ som de nya pendeltågen.
+
+40 000 140
+
+35 000
+
+30 000 ETTA 100
+25 000 Je L 80 2
+ZE 20 000 ee — =
+15 000 60 £
+10 000 — 40
+5 000 = - 20
+\- 0
+
+Antal sittplatser
+
+2010 2015 2024 2028 2031
+11 me X12,.X14 BIEN X50 mm X61
+HE X80 Yi mm Y31 eovv Antal tåg
+
+Figur 8 Utveckling av antalet sittplatser (vänster axel, grupperade staplar) och antal fordon
+(höger axel, streckad linje). X11 och X61 används främst som pendeltåg, X12, X14 och X50
+som regiontåg. X80 kommer användas som både pendel- och regiontåg. Y1 och Y31 är
+dieseltåg. Källa: Västtrafik.
+
+Förändringar genomfördes även i flottan med dieselfordon som trafikerar
+Kinnekullebanan. De äldsta dieselfordonen togs ur trafik 2015 och flottan med Y31-
+fordon (Itino) utökades till åtta fordon. I juni 2025 beslutade Västtrafiks styrelse att
+rekommendera regionstyrelsen att besluta att Västtrafik får påbörja en fördjupad
+förstudie för att livstidsförlänga Y31.
+
+Omkring 2015 påbörjades arbetet med att upphandla nya fordon, X80, som ska ersätta
+de äldsta elfordonen och även utöka flottan inför ibruktagandet av Västlänken. 45
+fordon av typen X80 beställdes och som ska förstärka flottan med pendeltåg och
+regiontåg. I upphandlingen finns en option med möjlighet att beställa ytterligare 55
+fordon. Denna option har ännu inte nyttjas men beslut väntas hösten 2025 om att
+beställa 35 fordon från optionen. Utvecklingen av fordonsflottan har även inneburit ett
+
+<!-- sida 96 -->
+
+Utvärdering av Målbild tåg 2035 Sida 13
+
+ökat antal sittplatser, vilket förväntas fortsätta öka framåt. Vidare avsatte VGR:s
+infrastruktur- och kollektivtrafiknämnd 2024 ekonomiska medel i syfte att förbättra
+uppkopplingen på tåg.
+
+VGR:s strategiska plan för ökad cykling lyfter kopplingen mellan kollektivtrafik och
+cykel som prioriterat. 2024 fattade Västtrafik beslut om att upprusta begagnade fordon,
+med medfinansiering från VGR, där det ingår att förtydliga cykelns plats på tåg och öka
+antalet cykelplatser från 12 till 14. De kommande X80-tågen har plats för sex cyklar.
+
+Den genomsnittliga beläggningsgraden för Västtrafiks tåg varierar för varje bana, linje
+och tid på dygnet. Nedan figur illustrerar hur den genomsnittliga beläggningen för
+samtliga linjer varierar över ett vardagsmedeldygn. Beläggningen är i snitt maximalt
+40—-45926, men är för vissa tider och avgångar både betydligt lägre och högre än så.
+Siffrorna indikerar på att det finns potential för ett ökat dubbelriktat resande. Det visar
+även att det finns stora skillnader i resande över dagen.
+
+45 70
+40 4
+35 20
+30 2
+25
+
+os
+20 70
+
+Beläggningsgrad
+
+15 No
+10 N
+592
+oo
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Timme på dygnet
+
+Figur 9 Genomsnittlig beläggningsgrad 2024 för Västtrafiks tåg. Beläggningen gäller båda
+färdriktningar. Källa: Västtrafik.
+
+Det är i sammanhanget viktigt att beakta resenärsperspektivet, då det finns ett värde i
+att erbjuda trafik under de tider på dygnet när beläggningen är lägre. Att trafik körs
+under hela dagen för de flesta linjer, och därmed under tider med lägre beläggning,
+skapar tydlighet och ett mer attraktivt erbjudande för resenärerna. Beläggningen beror
+bland annat på tågens storlek, antalet turer/dubbelturer och kan också påverkas
+kortsiktigt av ökningar och sänkningar i tågutbudet.
+
+<!-- sida 97 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 14
+
+Storregional kollektivtrafik
+Delmål 2028 tydliggör en möjlig utveckling av det storregionala kollektivtrafiksystemet
+
+fram till år 2028, vilket sammanfattas i nedan stråkkarta. Det storregionala
+kollektivtrafiksystemet knyter ihop arbetsmarknader och noder i länet samt med
+angränsande län. I dagsläget är det flera stråk som inte uppfyller taktfast timmestrafik
+enligt målsättningarna i delmål 2028. År 2028 bedöms takttrafik kunna införas mellan
+Uddevalla och Öxnered. I samband med Västlänkens införande kommer takttrafik att
+kunna införas på Älvsborgsbanan.
+
+Figur 10 Schematisk bild över det storregionala kollektivtrafiksystemet, som beskriver
+nuläget i förhållande till de banor där takttrafik är uppfyllt eller inte. Taktfast
+timmestrafik innebär att det vardagar går ett tåg på samma minuttal varje timme
+klockan 6–19. Klockorna illustrerar vilka tider tågtrafiken avgår för varje timme.
+
+<!-- sida 98 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 15
+
+Tåget har i de flesta relationer restidskvoter som ligger i linje med VGR:s uppsatta
+indikator i trafikförsörjningsprogram 2021–2025. Restidskvoten på 0,8 uppfylls dock
+inte för sträckorna Göteborg – Borås, Åmål – Karlstad, Viskadalsbanan (förutom
+sträckan Herrljunga – Borås), som samtliga har en restidskvot på 0,9. Inte heller Norra
+Bohusbanan uppfyller indikatorn, där restidskvoten är 1,1. För storregionala busslinjer
+
+uppfyller samtliga sträckor indikatorn 1,2, förutom sträckan Borås – Ulricehamn (1,3).
+Noteras bör att det finns olika metoder för att bedöma restidskvoter, där exempelvis
+Trafikverket använder sig av en annan metod än VGR:s. Restidskvoten påverkas bland
+annat av trängsel i vägsystemet, kapacitet i systemen och vilket tågslag som trafikerar.
+
+Figur 11 Restidskvot för tåg och buss kontra bil. Heldragna linjer avser tåg, streckade linjer
+avser storregional buss. Källa: VGR, uppföljning trafikförsörjningsprogram 2024 samt
+kompletterande sträckor inhämtade april 2025 enligt samma metod.
+
+<!-- sida 99 -->
+
+Utvärdering av Målbild tåg 2035 Sida 16
+
+Ekonomisk uppföljning
+
+Kollektivtrafikens intäkter och kostnader ökar årligen, driven av satsningar,
+investeringar och resandeutveckling. De senaste åren har däremot kostnaderna ökat i
+snabbare takt än intäkterna, vilket gjort att självfinansieringsgraden minskat.
+
+För tåg som trafikslag, beskriver målbild tåg 2035 att kostnadsökningar är en
+förutsättning för att utveckla och utöka trafiken. Biljettintäkterna förutspåddes också
+öka, i takt med att resandet förväntades öka. Utvecklingen som skett fram till 2024 är
+att kostnaderna har ökat men att biljettintäkterna och de fördelade biljettintäkterna för
+tåg har blivit lägre än ambitionerna, på grund av:
+
+e Lägre resande än målbilden räknade med
+
+e Ny zonstruktur 2020 med förändrad metod för intäktsfördelning, där
+de längre resorna nu får en lägre biljettintäkt per resa
+
+Det är svårt att härleda biljettintäkter till ett specifikt trafikslag, då resenärer många
+gånger nyttjar flera trafikslag under en resa eller under en tidsperiod. Västtrafik
+redovisar sina intäkter och självfinansieringsgraden endast som en helhet och inte per
+trafikslag. I denna utvärdering redovisas en uppskattning av självfinansieringsgraden
+på 3196 för tåg (2024). En jämförelse av självfinansieringsgraden över tid är svår att
+göra på grund av en förändrad metod för intäktsfördelning, som beskrivits ovan.
+
+2,5
+3
+3 2
+5\.
+= 3 1,5
+NN
+E 1
+bo org
+5
+= 2 0,5
+v [0]
+(=) Resor Kostnader Fördelade biljettintäkter
+
+H2010 H2019 H2024
+
+Figur 12 Utveckling av tågresor, Västtrafiks kostnader för tåg och fördelade
+biljettintäkter. Källa: Västtrafik.
+
+Kostnader
+
+De största orsakerna till kostnadsökningar är tillkommande fordon och utökad trafik.
+Statliga bidrag för att bedriva trafik har sedan 2010 reducerats, för att 2015 försvinna. I
+början på 2020-talet ökade kostnaderna markant för fordonsel. Även kostnaderna för
+ersättningstrafik med buss ökade, på grund av satsningar på upprustning av
+järnvägsinfrastrukturen, i form av banarbeten. År 2018 färdigställdes tågdepån i
+Lidköping, 2023 byggdes tågdepån i Sävenäs om och 2025 byggdes tågdepån i
+Falköping ut, vilket också innebär ökade kostnader.
+
+<!-- sida 100 -->
+
+Utvärdering av Målbild tåg 2035 Sida 17
+
+Kostnaden per resa skiljer sig åt mellan olika tågslag. I genomsnitt är kostnaden/resa
+år 2024 82 kronor. I kostnaden ingår poster som exempelvis trafikavtalets kostnader,
+ersättningstrafik, ban- och elavgifter, avskrivningar och räntor, depåkostnader samt
+underhåll och reparationer. Det innefattar däremot inte biljettintäkter och tillköp.
+Resenärernas perspektiv behöver beaktas i sammanhanget (exempelvis möjligheten att
+kunna resa med externa aktörer) samt hur stor andel av det totala antalet resor som
+utförs med respektive tågslag.
+
+120 10096
+9090
+
+100 80946
+\<c 80 7090
+3 60946
+s 60 5096
+3 4096
+z 40 3096
+20 2096
+1090
+
+0 0960
+
+mn Kostnad per resa" = == Andel Resor
+
+Figur 13 Kostnad per resa" och andel resor för olika tågslag 2024.
+XExklusive biljettintäkter och tillköp. Källa: Västtrafik.
+
+De ekonomiska besparingarna målbilden hade ambitioner om, på grund av reducerad
+busstrafik och i samband med utökad tågtrafik, syns inte ännu. Det är bland annat
+kostnader för busstrafik i Lerum, Mellersta Bohuslän och Bohus-Expresserna som
+kommer att reduceras 2027. Samtidigt så innebär det ett förändrat upplägg som
+innebär matning till tåg i stället, vilket innebär att hela summan inte sparas, men
+innebär oftast betydande kostnadsminskningar.
+
+Intäkter
+
+Intäkterna för trafikslag tåg har påverkats av den nya zonstrukturen. Tidigare betalade
+resenären i relation till resans längd. 2020 ändrades zonstrukturen, vilket innebar att
+72 zoner blev till tre. Den nya strukturen syftade till att möjliggöra att fler ska kunna
+pendla till arbete och studier, minska utsläppen från längre bilresor och uppmuntra till
+att göra de kortaste resorna till fots och med cykel. Långa resor med kollektivtrafik
+skulle gynnas prismässigt framför korta resor.
+
+Den nya zonstrukturen innebär att när biljettintäkterna fördelas mellan linjerna i den
+nya zonstrukturen, får de längre resorna en lägre biljettintäkt per resa än tidigare,
+medan korta resor får en högre. Maxpriset blev lägre, eftersom prissättningen maximalt
+
+<!-- sida 101 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 18
+
+kunde sättas för tre zoner, därmed blev de längsta resorna billigare. Biljetterna inom en
+kommun (inklusive seniorkort, förutom SJ regional) har gått från att vara giltiga i den
+kommun där den boende är folkbokförd till att vara giltiga i en hel zon. Det bör beaktas
+att pris- och zonsystemet är utformat som en helhet och att tågtrafikens intäkter och
+kostnader är en del av denna helhet. Västtrafik har av infrastruktur- och
+
+kollektivtrafiknämnden fått i uppdrag att tidigast 2026 utvärdera zonsystemet. I detta
+arbete behöver även de förändringar som sker i Härryda och Bollebygd, som en följd av
+beslutet om ny järnväg Göteborg – Borås, beaktas.
+
+Figur 14 Prisutveckling (2010–2024) för några olika reserelationer med kollektivtrafik samt
+generell prisjustering. Zonsystemet förändrades 2020. Källa: Västtrafik.
+
+Samarbeten
+Västtrafik har under en längre tid arbetat aktivt för att etablera samarbeten med
+kommersiella tågoperatörer. Dessa samarbeten tros kunna skapa förutsättningar för
+resenärer att kunna resa på ett enkelt och smidigt sätt inom och över länsgränser.
+Exempel på nuvarande samarbetsavtal där resenären kan använda Västtrafik-biljetter
+på andra operatörers tåg inom Västra Götaland är Vy Tåg till Oslo (Halden) och SJ:s
+
+Regionaltåg på Västra stambanan och Kust till kustbanan. Dessutom har Västtrafik
+upphandlade avtal för resor till Varberg med Öresundståg på Västkustbanan samt med
+SJ AB till Karlstad (Säffle), Örebro och Jönköping (Nässjö). År 2010 var det cirka 240
+000 resenärer som reste med Västtrafik i andra fordon än Västtrafiks egna, cirka 1,5%
+av det totala antalet resor. År 2024 skedde cirka 2,2 miljoner av 22,2 miljoner resor
+med andra tågoperatörers fordon (cirka 10%).
+
+<!-- sida 102 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 19
+
+Intervjustudie
+
+I syfte att samla erfarenheter och synpunkter kring målbild tåg 2035 samt för att samla
+medskick till kommande revidering av målbilden, har en semistrukturerad
+intervjustudie gjorts. Intervjuer har hållits med tjänstepersoner från VGR, Västtrafik,
+kommunalförbunden, Länsstyrelsen, Trafikverket, grannregioner samt tidigare
+
+infrastruktur- och kollektivtrafikchef och tidigare kollektivtrafiknämndens presidium.
+Intervjurespondenternas medskick sammanfattas i kapitlet Rekommendationer till
+revideringen.
+
+Samverkan  under  framtagandet  en framgångsfaktor
+Målbild tåg 2035 togs fram med hjälp av backcasting-metodik, där utgångspunkten
+startade med framtagandet av en tydlig vision och riktning inför det fortsatta arbetet.
+Metodiken beskrivs som en styrka. Beslut i processen baserades på faktaunderlag,
+
+bland annat kring demografi och marknadsandelar. Målbilden beskrivs som både
+visionär och konkret, med tydligt beskrivna investeringsbehov. Den strukturerade och
+tydliga formen beskrivs ha underlättat både intern (VGR/Västtrafik) och extern
+samverkan. Målbild tåg inspirerades till stora delar av Region Skånes arbete och höga
+resande, där samtidigt en intervjurespondent noterar att det är stor skillnad mellan hur
+regionerna ser ut och vilka förutsättningar som finns för att trafikera med tåg.
+
+Ett omfattande förarbete genomfördes tillsammans med kommunalförbunden i
+framtagandet av målbild tåg, och målbilden förankrades i samtliga kommuner. En
+
+annan central del i framtagandet av målbild tåg var samarbetet mellan VGR, Västtrafik
+och Trafikverket. Respondenter från dessa organisationer lyfter detta som en styrka,
+både för relationerna mellan parterna och för målbildens genomslag och långsiktighet.
+Trafikverkets medverkan beskrivs som särskilt positivt, eftersom den bidrog till
+målbildens legitimitet. Även samverkan med grannregionerna har varit en
+framgångsfaktor för att skapa goda förbindelser över länsgränser. Region Halland har
+
+särskilt lyft att samarbetet har stärkts över tid.
+
+Höga ambitioner  men  avsaknad av prioriteringar
+
+Målbilden upplevs som mycket ambitiös och har skapat höga förväntningar. Detta lyfts
+delvis som något positivt, att det var viktigt att "våga spänna bågen". Samtidigt beskrivs
+målbilden i flera intervjuer som alltför ambitiös och visionär. Målbilden förutsätter
+stora investeringar i järnvägsinfrastruktur, vilket tar tid att genomföra. Vissa uppfattar
+målbilden som alltför positiv och idealiserad, och att den inte speglar de faktiska
+förhållandena i tågtrafiken – som i vissa fall/sträckor uttrycks präglas av bristande
+
+tillförlitlighet.
+
+I flera intervjuer betonas behovet av att tydliggöra vilka investeringar och satsningar
+som ska prioriteras under perioden. Det framhålls också att många åtgärder är
+
+<!-- sida 103 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 20
+
+beroende av andra beslut, exempelvis inom den nationella
+transportinfrastrukturplanen eller inom stadstrafikforum (fördjupade politiska forum
+för stadstrafik i Västra Götalands kärnor). Behovet av alternativa finansieringskällor
+lyfts också fram – om målbilden ska kunna förverkligas. Om dessa beslut eller resurser
+inte finns, finns en risk att beslutsfattare får en missvisande bild av utmaningarna och
+
+investeringarnas realism.
+
+En intervjurespondent lyfter de regionala järnvägarnas framtid, där deras roll och
+funktion upplevs som otydlig. Standarden beskrivs som varierande, och i vissa fall
+framstår buss som ett mer attraktivt alternativ än tåg för samma reserelation. Det
+framhålls att tåget inte alltid är en tillräcklig lösning bara för att det finns en station.
+Därför är det viktigt att tydligt kommunicera vilka förväntningar man kan ha på dessa
+banor.
+
+Långsiktighet positivt men flexibilitet saknas
+
+Ett återkommande perspektiv i intervjuerna är vikten av långsiktighet. Det lyfts fram
+som en styrka att målbilden har funnits under lång tid, men det kräver också att
+strategins mål fortsatt eftersträvas och att intentionerna följs. Målbilden har en tydlig
+praktisk betydelse, inte minst eftersom den innebär omfattande investeringar i till
+exempel trafik, fordon och depåer. En intervjurespondent lyfter att, om beslut fattas
+som avviker från strategins intentioner, finns det en risk att målsättningarna i
+målbilden inte nås.
+
+Långsiktig stabilitet ses även som en utmaning. Flernivåperspektivet i
+
+samhällsplaneringen och antalet aktörer gör det utmanande att skapa en helhet som
+alla kan ställa sig bakom. De fyraåriga mandatperioderna på statlig, regional och
+kommunal nivå medför en risk för instabilitet i långsiktiga frågor. Demokratiska
+processer kan påverkas negativt om arbetet måste göras om vid flera tillfällen.
+
+Vikten av att skapa förutsägbarhet och trovärdighet gentemot invånarna lyfts, samt att
+leveransen till dem är tydlig och håller över tid. Det finns ett behov av kontinuitet och
+strukturer som kan leva vidare över flera mandatperioder. Även frågan om vad som
+
+händer med samsynen när förutsättningarna förändras, till exempel efter val, behöver
+hanteras.
+
+Intervjustudien visar att det finns en risk att målbilden blir mindre aktuell framåt.
+Vissa antaganden om infrastrukturutveckling har inte infriats, vilket gjort att
+relevansen delvis minskat. Därtill har kompletteringar och konkretiseringar av
+målbilden gjorts längs vägen, vilket enligt flera intervjurespondenter har gjort det svårt
+att förstå vilket dokument som är överordnat vilket.
+
+<!-- sida 104 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 21
+
+Ett betydelsefullt dokument där användningen  ser olika ut
+Målbild tåg 2035 har spelat en viktig roll i att tydliggöra VGR:s ambitioner för
+
+satsningar på tågtrafik. För både VGR och Västtrafik har målbilden varit ett viktigt
+verktyg för att få igenom investeringsbeslut för fordon, depåer och utökad trafik. Den
+höga detaljrikedomen i målen har varit till nytta i budgetprocesser och politiska beslut.
+Dess stabilitet sedan 2013 lyfts fram som en styrka. Den fungerar även som ett centralt
+underlag för att kommunicera VGR:s intentioner till andra aktörer, särskilt
+Trafikverket och regeringen.
+
+För kommunalförbunden har målbilden, och särskilt dess konkretiseringar, använts i
+
+varierande grad beroende på lokal kontext. Exempelvis har Västtågsutredningen varit
+mer användbar för de kommuner och kommunalförbund där det finns ambitioner att
+etablera nya stationer. Under intervjuerna har det framkommit att förutsättningarna
+ser olika ut i olika geografiska områden. Det har lyfts att detta bör hanteras genom
+exempelvis delregionala samtal men att det även krävs stråksamtal, då sträckor löper
+över delregiongränser och regiongränser.
+
+För Trafikverket har målbilden varit tydlig och användbar. Den har fungerat som ett
+värdefullt underlag i den nationella planeringen och i arbetet med basprognoser.
+
+Målbilden har även använts för att prioritera åtgärdsvalsstudier och i dialog med
+externa aktörer. Trafikverket framhåller sitt deltagande i processen och samverkan med
+övriga parter som en styrka.
+
+För grannregionerna används målbilden i begränsad utsträckning. Det viktigaste är
+samarbetet vid framtagandet av respektive regions måldokument och strategier för att
+möjliggöra goda förbindelser över länsgränser. Målbilden har uttryckts ge ett bra
+kunskapsunderlag som kan användas i planering och för beslutsfattande. Den har
+
+fungerat som ett bra diskussionsunderlag för planering och samverkan. Visualiseringar,
+såsom kartbilder över utbyggnadstakt, har varit särskilt värdefulla för att skapa
+förståelse. Region Värmland uttrycker att det trafikutbud som målbilden beskriver (16
+dubbelturer till Karlstad) inte är realistiskt att uppnå i dagsläget, eftersom
+befolkningstillväxten längs sträckan inte motsvarat förväntningarna.
+
+Länsstyrelsen använder främst målbilden för att förstå VGR:s syn på fysisk planering.
+Den används i yttranden på åtgärdsvalsstudier och remisser kopplade till regional och
+nationell planering, men hittills inte i granskningar av kommunernas översiktsplaner.
+
+Västtågsutredningen  – konkret och förväntansskapande
+
+Västtågsutredningen upplevs som konkret i de kommuner och kommunalförbund där
+beslut om nya stationer fattades 2018. Trots ett gediget förarbete, med politiskt
+beslutade kriterier för vilka stationer som skulle utredas och beslutas om, uppstod
+friktion under processen. Det fanns också oenighet kring vissa stationer som inte blev
+föremål för beslut.
+
+<!-- sida 105 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 22
+
+Utredningen väckte stora förväntningar hos berörda kommuner och
+kommunalförbund, vilket har blivit en utmaning då flera av förväntningarna ännu inte
+infriats. Överlag hade de berörda kommunalförbunden önskat ha kommit längre i
+utvecklingen, men är samtidigt medvetna om att järnvägsprojekt innebär långa
+ledtider. Flera intervjurespondenter uttrycker att det från början fanns en otydlighet
+
+kring ansvarsfördelning för kostnader och genomförande.
+
+Delmål 2028  – nödvändig konkretisering på vägen
+
+Delmål 2028 beskrivs som en nödvändighet för att göra processen mer hanterbar och
+för att tydliggöra vilka steg som krävs för att nå målbilden 2035. Fokus ligger främst på
+införandet av Västlänken samt på att skapa en taktfast tidtabell. Arbetet med att ta
+fram en taktfast tidtabell upplevdes under processen som både inspirerande och
+genomförbart. Det gav exempel på hur ett sömlöst storregionalt resande skulle kunna
+
+se ut. Trafikverket lyfte att myndigheten jobbar aktivt med att bidra till att skapa
+taktfasta tidtabeller och att det finns ett stort engagemang kring detta. Flera
+intervjurespondenter lyfter även vikten av anslutande busstrafik och eventuella andra
+lösningar för att komplettera tågtrafiken.
+
+Delmålet bidrog också med en ökad konkretiseringsgrad och anses värdefullt för
+etappindelning och genomförandet av målbild tåg 2035. I intervjuerna betonades
+samtidigt vikten av en tydlig logikkedja mellan målbilder (VGR) och efterföljande
+handlingsplaner (Västtrafik). En respondent lyfter att när en handlingsplan väl finns, är
+
+det den som styr genomförandet. Det framkom samtidigt att det finns svårigheter att
+navigera bland de många styrdokumenten.
+
+Olika syn på balansen mellan effektivitet och geografisk
+
+tillgänglighet en viktig fråga
+Under framtagandet av målbilden beskrivs strategin ha försökt balansera effektivitet
+med geografisk tillgänglighet. Fokus låg inte enbart på de större järnvägsbanorna, utan
+
+även de regionala banorna lyftes fram som viktiga. Intervjuerna visar dock att det finns
+olika uppfattningar om vad som bör prioriteras.
+
+Det framhålls att det inom tågområdet finns ett systemperspektiv: när hela systemet är
+utbyggt kan det i sig bidra till ökad effektivitet. Samtidigt lyfts farhågor om att ökad
+tågtrafik på vissa banor enbart för systemets skull, kan bli mycket kostsam och påverka
+kollektivtrafikens självfinansieringsgrad negativt. Olika banor och sträckor har olika
+förutsättningar, och det lyfts att det krävs både ett tillräckligt resandeunderlag och en
+tydlig potential. Även restiden har lyfts som en viktig aspekt, fler stationer på en
+
+sträcka förlänger restiden, medan färre stationer kortar den. Perspektivet om att restid
+och kostnader behöver vägas mot nyttan lyfts, då det är kostsamt att bygga stationer
+och bedriva tågtrafik. VGR:s initiativ stationsutveckling och samhällsplanering (SOS),
+kopplat till Västtågsutredningen, lyfts i en intervju som ett konkret exempel på denna
+
+<!-- sida 106 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 23
+
+avvägning. Några grannregioner uttrycker en vilja att hålla antalet tågstopp nere för att
+undvika att restiden förlängs.
+
+Flera respondenter lyfter att ovan resonemang kopplat till effektivitet, behöver
+balanseras med geografisk tillgänglighet. Exempelvis kommenteras målbildens
+ambitioner om reducerad busstrafik, där busstrafiken beskrivs kunna ha en annan
+funktion, alltså täcka ett större geografiskt område och därmed tillgodose fler
+
+resenärer. Även perspektivet om ”hönan eller ägget” nämns – behövs resandeunderlag
+för att motivera tågtrafik, eller behövs tågtrafik för att öka resandet.
+
+Olika grupper påverkas olika av system som förutsätter byten, till exempel i starka stråk
+med anslutande buss- och tågtrafik. Järnvägssystemet lyfts som icke-flexibelt i
+grunden, och praktiska problem som lyfts är förseningar, missade byten, osäker
+hemresa och bristande tillgänglighet på vissa stationer – exempelvis där hiss saknas.
+
+Flera intervjurespondenter lyfter också frågan om vem som gynnas av tåg- och
+storregionala satsningar. Exempelvis pekas det på att långväga resande i större
+
+utsträckning gynnar män, medan kvinnor ofta gör kortare och mer komplexa resor.
+Regionförstoring kan förstärka sådana skillnader om dessa perspektiv inte beaktas i
+planeringen.
+
+<!-- sida 107 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 24
+
+Rekommendationer         till revideringen
+
+Detta kapitel syftar till att sammanställa intervjurespondenternas och förvaltningens
+rekommendationer till kommande revidering av målbild tåg 2035.
+
+Kommande   målbilds form och  process
+Kommande revidering rekommenderas se över tidigare samhällsmål och mål om ökat
+resande, i ljuset av kommande trafikförsörjningsprogram och dess mål. Kommande
+
+revideringsprocess rekommenderas beakta kommande målbilds målår och målgrupp.
+Hur bör kopplingen se ut mellan målbilden och kommunalförbundens strukturbilder?
+Bör kommande målbild användas som stöd i kommunernas fysiska planering och
+översiktsplanering? Tågtrafiken och dess infrastruktur formar fysiska strukturer i länet.
+
+Den kommande målbilden rekommenderas samspela med andra styrande dokument
+samt tydliggöra hur olika styrande dokument hänger ihop. Den rekommenderas vara
+mer flexibel och tydliggöra prioriteringar, inte minst vara mer anpassningsbar till den
+
+regionala och nationella transportinfrastrukturplanen, på grund av de långa ledtider
+som infrastrukturinvesteringarna innebär. Slutligen är för- och nackdelar med hög
+respektive låg detaljeringsgrad för en kommande målbild, viktiga att beakta.
+
+Samverkan  en  nyckel
+Samverkan i revideringsprocessen är en förutsättning för legitimitet och
+genomförbarhet av kommande målbild. Nära samverkan med berörda aktörer, särskilt
+med Trafikverket, är viktigt för att skapa en realistisk och trovärdig målbild.
+Uppföljning av positiva framsteg rekommenderas även göras kring samarbetet om
+
+biljettgiltighet med tågoperatörer, för att utforska möjligheter och utmaningar för
+fortsatt utveckling.
+
+Stora projekt såsom Västlänken och ny järnväg Göteborg–Borås skapar möjligheter.
+Samtidigt skapas utmaningar där samverkan krävs, bland annat vad gäller
+resenärernas tillgänglighet till stationerna i form av exempelvis matartrafik samt
+utvecklingen av stationssamhällen.
+
+VGR:s initiativ stationsutveckling och samhällsplanering (SOS) lyfts som ett
+framgångsrikt initiativ, kopplat till Västtågsutredningen. Hur kan den demokratiska
+
+förankringen stärkas och hur kan lokalsamhället och invånare involveras tidigare och i
+större utsträckning, med inspiration från SOS-arbetet?
+
+Vikten av att tidigt tydliggöra tidsperspektiv och kostnader för nya stationer lyfts,
+exempelvis genom enklare utkast över restider och möjliga restidsvinster jämfört med
+busstrafik. Dessutom påpekas att det saknats konkreta scenarier och analyser av nyttan
+med tågtrafik, i jämförelse med busstrafik. En intervjurespondent lyfter frågan kring
+vem som ska driva frågan om stationssamhällen och stationsupplevelser.
+
+<!-- sida 108 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 25
+
+Vägval att göra
+Tåg och storregional busstrafik rekommenderas, som storregionalt
+
+kollektivtrafiksystem, ses som en helhet och som en del i kollektivtrafik- och
+transportsystemet. Hur parallellgående busstrafik ska hanteras rekommenderas ses
+över, likaså de storregionala stråken, som beskrivs i delmål 2028. Exempelvis lyfter en
+respondent relationen Töreboda – Mariestad samt storregional buss på E20, särskilt
+när Västra stambanan påverkas av underhållsarbeten. Behov finns även av samordning
+mellan det storregionala perspektivet och storstadsområdet (Målbild Koll 2035), inte
+
+minst kopplat till metrobusskonceptet.
+
+Vad tågets roll ska vara i olika geografier och banor, samt vilka banor som ska ingå
+rekommenderas adresseras. Med hänsyn till de långa ledtider infrastruktursatsningar
+ofta innebär, rekommenderas perspektivet kring att fokusera på större investeringar
+eller utnyttja befintlig infrastruktur mer effektivt även hanteras. Samspelet mellan
+gods- och persontrafik rekommenderas också tas hänsyn till, för att hantera eventuella
+kapacitets- och klimatmässiga målkonflikter. Att öka resandet med persontågstrafiken,
+samtidigt som det finns ambitioner om att flytta över tunga transporter från väg till
+
+järnväg kan skapa utmaningar. Kommande revidering rekommenderas att
+hållbarhetsintegreras, i syfte att synliggöra och förstå vilka implikationerna en
+reviderad målbild får ur de tre hållbarhetsperspektiven, beroende på vägval som görs.
+
+Förändrade förutsättningar och nya perspektiv
+Nya demografiska och strukturella förutsättningar behöver beaktas, exempelvis en
+avtagande befolkningstillväxt, nya etableringar och förändrade resvanor efter
+pandemin. Sedan målbild tåg 2035 antogs har även nya begrepp tillkommit i både
+
+VGR:s RUS och trafikförsörjningsprogram 2026–2029 och som rekommenderas
+införlivas; transporteffektivt samhälle och förbättrad och hållbar tillgänglighet.
+
+Nya initiativ har även tagits sedan målbilden antogs, såsom Rådslaget och ShiftSweden,
+vilket sätter ljus på frågan kring vilken roll tåg- och storregional busstrafik kan anta i
+ett förändrat mobilitetslandskap samt kopplat till samhällsbyggande? Vidare är det
+idag ett nytt mobilitetslandskap med nya mobilitetsslag som kan stärka tågets roll och
+skapar nya möjligheter för kombinationsresor.
+
+Med hänsyn till överenskommelsen om ny järnväg Göteborg – Borås, rekommenderas
+kommande arbete ta hänsyn till förändringar i zonsystemet som kommer att ske för
+
+Härryda och Bollebygd, samt den utvärderingen av zonsystemet, som Västtrafik
+planerar utföra tidigast 2026.
+
+Civil beredskap är en mer aktuell fråga idag som behöver hanteras i det fortsatta
+arbetet. En möjlig risk som identifieras är att aktuella frågor får för stort fokus, vilket
+kan skapa obalans i helheten, samtidigt som ett fokus på civil beredskap kan bidra till
+ökad robusthet och redundans i järnvägsinfrastrukturen och transportsystemet.
+
+<!-- sida 109 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 26
+
+Bilaga 1 - uppföljning av infrastrukturåtgärder
+
+Åtgärd | Målår | Status | Kommentar
+Bohusbanan, Strömstad - Göteborg
+
+Dubbelspår Kville- 2017 Genomfört
+
+Olskroken inkl.
+
+ytterligare Marieholmsbro
+
+Mörtesstation Grohed 2017 Genomfört
+
+Plattformsförlängningar 2017 Genomfört
+
+till 135 m Uddevalla-
+
+Göteborg
+
+Dubbelspår Brunnsbo- 2020 Beslutat Dubbelspåret planeras byggas
+
+Kville inkl. station i 2026-2027. Brunnsbo station
+
+Brunnsbo planeras att färdigställas 2029.
+
+Upprustning till hastighet | 2020 Ej beslutat
+
+120 km/h, spår- och
+
+signalåtgärder Uddevalla-
+
+Strömstad exkl. kurv-
+
+rätningar - Tåg kan köra
+
+med högre hastigheter
+
+Effektivare trafiklednings- | 2020 Ej beslutat
+
+system Uddevalla-
+
+Strömstad
+
+Ny mötesstation byggs 2020 Ej beslutat
+
+Uddevalla-Strömstad
+
+Förlängda mötesspår i 2020 Ej beslutat
+
+Säve och Kode
+
+Plattformsförlängningar 2028 Beslutat Plattformarna planeras att
+
+till 250 m Uddevalla- förlängas till 170 m under 2026
+
+Göteborg och 2027. Förberedelse görs för
+att möjliggöra en framtida
+förlängning till 250 meter.
+Plattformen vid Uddevalla östra
+förlängs ej.
+
+Partiellt dubbelspår 2035 Ej beslutat | Trafikverket har i en fördjupad
+
+Göteborg-Stenungsund - kapacitetsutredning tagit fram
+
+Möjlighet att köra förslag för partiella dubbelspår.
+
+kvartstrafik Åtgärden föreslogs i nationell
+infrastrukturplan för 2022-2033
+men rymdes inte i planen.
+
+Uppgradering till 2035 Ej beslutat
+
+hastighet 160 km/h
+
+Uddevalla-Göteborg inkl.
+
+kurvrätningar - Tåg kan
+
+köra med högre
+
+hastigheter
+
+<!-- sida 110 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 27
+
+Åtgärd
+
+Målår
+
+Status
+
+Kommentar
+
+Norge-Vänerbanan,
+
+Kornsjö/Karlstad-Göteborg
+
+Ombyggnad av station 2017 Delvis Öxnered är genomfört.
+
+Öxnered, Vänersborg - genomfört | Vänersborg planeras att
+
+Möjlighet att köra längre genomföras 2027.
+
+tåg
+
+Ytterligare ett vändspåri | 2020 Beslutat Beslutat att förlänga befintligt
+
+Älvängen vändspår samt anlägga nya växlar
+mot spår 2 och 3.
+
+Ett par nya mötesstationer | 2020 Ej beslutat
+
+Ed-Skälebol
+
+Plattformsförlängningar 2028 Ej beslutat
+
+till 250 m Vänersborg-
+
+Göteborg inkl
+
+pendeltågsstationer -
+
+Enhetliga
+
+plattformslängder för tåg
+
+som ska gå genom
+
+Västlänken
+
+Kompletterande 2035 Ej beslutat | Åtgärden föreslogs i nationell
+
+uppgradering till hastighet infrastrukturplan för 2022-2033
+
+250 km/h Öxnered- men rymdes inte i planen.
+
+Älvängen
+
+Jönköpingsbanan, Falköping-Nässjö
+
+Samtidig infart, alla 2010 Genomfört
+stationer
+Göteborg C och Västlänken
+
+Trimningsåtgärder 2020 Genomfört | Nya mellanblocksignaler på
+
+Göteborg C plattformsspåren vilket möjliggör
+två tåg på samma plattform.
+
+Västlänken 2028 Delvis Första etappen med station
+
+genomfört | Centralen planeras öppna 2026.
+
+Hela Västlänken planeras tas i
+bruk 2030.
+
+Olskroken planskild 2028 Genomfört
+
+korsning
+
+Fyrspårstationer 2035 Delvis Samtliga stationer i Västlänken
+
+Västlänken genomfört | byggs med fyra spår.
+
+Götalandsbanan/Kust till kustbanan
+
+Dubbelspår Mölndal- 2028 Delvis Station i Bollebygd byggs ej.
+
+Borås i ny sträckning. beslutat
+
+Stationer vid Mölnlycke,
+
+Landvetter flygplats och
+
+Bollebygd
+
+Dubbelspår Borås- 2035 Ej beslutat
+
+Jönköping-Stockholm
+
+<!-- sida 111 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 28
+
+dubbelspår Partille-Floda
+
+Åtgärd Målår Status Kommentar
+Västra stambanan, Laxå-Göteborg
+
+Ett antal punktinsatser 2017 Delvis Vändspår Lerum genomförs
+
+mellan Göteborg och genomfört | 2026. Växelbyte Floda är inte
+
+Herrljunga genomfört men är planerat att
+genomföras 2030. Ombyggnader
+i Alingsås och Herrljunga är
+klara liksom nya mötesstationer
+i Algutsgården, Herrljunga och
+Falköping.
+
+Plattformsförlängningar 2017 Ej beslutat
+
+till 250 m Alingsås-
+
+Göteborg
+
+Nya förbigångsspår 2020 Delvis Genomfart mellan Alingsås och
+
+Alingsås-Laxå genomfört | Skövde. Ej genomfört men
+beslutat mellan Skövde och
+Laxå.
+
+Plattformsförlängningar 2020 Delvis Beslutat att förlänga Stenstorp,
+
+till 250 m i Stenstorp, beslutat troligtvis till 170 meter. Ej
+
+Floby och Vårgårda beslutat att förlänga
+plattformarna i Floby och
+Vårgårda.
+
+Utbyggnad av fyrspår 2028 Ej beslutat
+
+Göteborg-Partille
+
+Utbyggnad av ytterligare | 2035 Ej beslutat
+
+Kinnekullebanan, Gårdsjö-Håkantorp
+
+Gårdsjö
+
+Triangelspår i Håkantorp | 2017 Ej beslutat | Ändrad inriktning att tågen på
+Kinnekullebanan i stället
+ansluter i Herrljunga till tåg på
+Västra stambanan.
+
+Elektrifiering Lidköping- | 2020 Ej beslutat
+
+Håkantorp, ny
+
+mötesstation Järpås
+
+Upprustning till hastighet | 2020 Ej beslutat
+
+120 km/h Lidköping-
+
+Håkantorp
+
+Effektivare 2020 Ej beslutat
+
+trafikledningssystem
+
+Uppgradering till 2028 Ej beslutat
+
+hastighet 120 km/h,
+
+Lidköping-Gårdsjö
+
+Elektrifiering Lidköping- | 2035 Ej beslutat
+
+<!-- sida 112 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 29
+
+Åtgärd
+
+Målår
+
+Status
+
+Kommentar
+
+Västkustbanan, Halmstad
+
+-Göteborg
+
+Förbigångsspår för
+godståg (Ledsgård
+uppspår) - Möjlighet till
+förbigång godståg, behovet
+har inte kunnat
+säkerställas
+
+2017
+
+Beslutat
+
+Genomförs 2030.
+
+Varberg-Hamra
+dubbelspår, inkl ny station
+i Varberg med
+vändmöjlighet för tåg från
+Kungsbacka - Möjlighet att
+trafikera ny
+pendeltågslinje Varberg-
+Kungsbacka.
+
+2020
+
+Genomfört
+
+Funktionsanpassning av
+Kungsbacka station -
+Avlastning Göteborg C,
+trafiken blir mindre
+störningskänslig
+
+2020
+
+Beslutat
+
+Stationen ska utrustas med nya
+mellanblock-signaler vid
+plattformarna för att kunna ställa
+upp fler fordon. Tidplan för
+genomförande är inte fastställd.
+
+250 m vändspår Varberg
+station - Vändmöjlighet
+för regiontåg från
+Göteborg
+
+2028
+
+Genomfört
+
+Stationen har i samband med
+tunnelbyggnaden genom Varberg
+getts en utformning som
+möjliggör vändning av tåg från
+Göteborg.
+
+Fyrspår Almedal-Mölndal
+\- För tåg mot Borås på
+regionalbanan/
+Götalandsbanan,
+vändande tåg från
+Västlänken i Mölndal samt
+ökad trafik på
+Västkustbanan
+
+2028
+
+Beslutat
+
+Ingår som en del i den beslutade
+nya järnvägen Göteborg-Borås.
+
+Vändspår i Mölndal - För
+vändande tåg från
+Västlänken (fler tåg norr
+om Västlänken)
+
+2028
+
+Beslutat
+
+Ingår som en del i den beslutade
+nya järnvägen Göteborg-Borås.
+
+Ytterligare dubbelspår
+Mölndal-Kungsbacka -
+Fler pendeltåg, snabbare
+regionexpresståg,
+uppehållsbild anpassad till
+efterfrågan
+
+2035
+
+Ej beslutat
+
+Kompletterande
+uppgradering till hastighet
+250 km/h Kungsbacka-
+Halmstad - Tåg kan köra
+med högre hastigheter
+
+2035
+
+Ej beslutat
+
+<!-- sida 113 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 30
+
+Herrljunga och Borås
+
+Åtgärd Målår Status Kommentar
+Älvsborgsbanan, Uddevalla-Borås
+
+Uppgradering till 2017 Ej beslutat | Spåren är bytta men hastigheten
+
+hastighet 160 km/h höjdes inte på grund av
+
+Öxnered-Håkantorp obevakade plankorsningar samt
+att det krävs bulleråtgärder.
+Prioriterad satsning i regional
+plan men det finns ingen tidplan
+för genomförande.
+
+Ny mötesstation för 2020 Ej beslutat
+
+persontåg Grästorp-Vargö
+
+Fjärrblockering, samtidig | 2028 Delvis Fjärrblockering är genomfört.
+
+infart i Ljung och Fristad, genomfört | Ingen planerad ombyggnad av
+
+250 m plattformar station och plattformar i Ljung
+och Fristad.
+
+Utökad spårkapacitet 2035 Ej beslutat
+
+(t.ex. partiellt dubbelspår)
+
+Uddevalla-Vänersborg.
+
+Uppgradering till 2035 Ej beslutat
+
+hastighet 160 km/h
+
+Herrljunga-Borås, spår-
+
+och signal-åtgärder, exkl.
+
+kurvrätningar
+
+Ny mötesstation mellan 2035 Ej beslutat
+
+Viskadalsbanan, Borås-Varberg
+
+hastighet 160 km/h Skene-
+Borås
+
+Plattformsförlängningar 2017 Beslutat Förlängningen blir till 85 meter.
+
+till 100 m Kommer ej att genomföras för
+alla stationer. Beräknas vara klart
+2029\.
+
+Effektivare 2020 Ej beslutat
+
+trafikledningssystem
+
+Samtidig infart i Veddige | 2020 Ej beslutat
+
+och Skene
+
+En eller två nya 2028 Ej beslutat
+
+mötesstationer eller
+
+upprustande av befintliga
+
+Uppgradering till 2035 Ej beslutat
+
+<!-- sida 114 -->
+
+Utvärdering av Målbild tåg 2035
+
+Sida 31
+
+Bilaga 2 - uppföljning av hastigheter per bana
+
+Hastighet
+
+Varberg
+
+Hastighet 2035 enligt Hastighet
+2013 AA nuläge Kommentar
+(km/h) målbild tåg (km/h)
+(km/h)
+Bohusbanan: Banan har fått höjd kapacitet genom
+\- - 90-140 110-160 90-140 = nymötesstation i Grohed men ingen
+Strömstad-Göteborg mn .
+höjd hastighet.
+Norge-Vänerbanan: Enligt förslag ska sträckan Göteborg -
+Kornsjö/Karlstad- 160-200 160-250 160-200 = Öxnered höjas till 250km/h. Ingår inte
+Göteborg i nuvarande nationell plan.
+Banan har fått höjd kapacitet genom
+ett antal genomförda åtgärder.
+Västra stambanan: Långsiktiga planer finns på nytt
+Hallsberg - Göteborg Sr Sean minnen dubbelspår Göteborg - Alingsås,
+vilket skulle höja hastigheten på
+sträckan.
+Göteborg - Borås kommer inte att
+uppnå 320 km/h. Trafikverkets
+positionspapper från 2018 gav en
+oötalandsbanar/kust Doro ske ha on hastgnet på 220
+till kustbanan: Göteborg 90-140 200-320 90-140 km/h (dock inte till 2035). Detta
+\- Borås mosas o s
+förstärktes på grund av regeringens
+beslut i december 2022, om ändrat
+fokus från nya stambanor till fokus på
+regionala järnvägar och underhåll.
+Ingår inte i nuvarande nationella plan
+att höja till 250 km/h. Då SJ redan
+Västkustbanan: investerat i fordon dimensionerade
+90-200 160-250 160-200 = för denna hastighet, finns en
+Halmstad-Göteborg mrs .
+möjlighet att det kan komma med i
+nästkommande nationella plan
+(2026-2037).
+s Planeras för en hastighetshöjning
+A :
+[vsborgsbanan 90-160 160 90-160 = med medel från regional plan. Finns
+Uddevalla-Borås . . moa
+ingen tidplan för närvarande.
+Kinnekullebanan: Planeras för en hastighetshöjning
+a E AN é S | 80-100 110-160 80-100 = med stöd från regional plan. Finns
+Gårdsjö-Håkantorp . . rna
+ingen tidplan för närvarande.
+Jönköpinssbanan: Banan har fått höjd kapacitet genom
+Falkö Sn g Jönkö in 90-160 160 90-160 =:ombyggnad av mötesstationerna
+ping-Zonkoping men ingen höjd hastighet.
+Hastigheten sänktes 2017 på grund
+av dålig spårstandard. Spåren byttes
+Viskadalsbanan: Borås- 90-110 110-160 80-110 2022-2023 men den sänkta
+
+hastigheten kvarstod på grund av det
+höga antalet obevakade
+plankorsningar.
+
+<!-- sida 115 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 32
+
+Bilaga  3  – dokument     och  processer    att beakta    i
+
+kommande      revidering
+
+Region Östfold – Kollektivtrafikstudie mot Östlandet
+Region Östfold arbetar med att ta fram tre nya regionala planer, inklusive en
+kollektivtrafikstudie som fokuserar på förbättrad kollektivtrafik mot Östlandet.
+Planerna förväntas vara färdiga under 2025.
+
+Möjlighetsstudie Göteborg–Oslo
+En gemensam studie av Trafikverket och Jernbanedirektoratet har undersökt
+möjligheten att förbättra järnvägsförbindelsen mellan Göteborg och Oslo. Studien visar
+att en utbyggnad till dubbelspår kan tredubbla antalet persontåg och fördubbla
+
+godstågen på sträckan.
+
+Avsiktsförklaring Västra stambanan
+I syfte att öka kapaciteten på Västra stambana, pågår ett påverkansarbete av parterna
+längs sträckan Göteborg – Stockholm, för att få till ytterligare två spår mellan Göteborg
+och Alingsås.
+
+Region Halland – Trafikförsörjningsprogram
+Region Halland har ett gällande Trafikförsörjningsprogram för perioden 2021–2025.
+Arbetet med att ta fram ett nytt program för perioden efter 2025 pågår.
+
+Trafikverkets Nationella plan för transportinfrastruktur 2026–2037
+
+Trafikverket har redovisat inriktningsunderlaget för nationell plan 2026–2037. Planen
+fastställs av regeringen under våren 2026.
+
+Trafikverkets Genomförandeplan
+Trafikverkets genomförandeplan ger en översiktlig bild av planerade åtgärder i
+transportsystemet de kommande sex åren, 2025–2030. Genomförandeplanen är
+trafikslagsövergripande och utgår från gällande nationell plan för
+transportinfrastrukturen och länsplaner för regional infrastruktur.
+
+Trafikverkets Underhållsplan 2025–2028
+Underhållsplanen redovisar hur tilldelade medel för underhållsåtgärder på väg och
+
+järnväg används och vilka effekter det ger i transportsystemet. Planen uppdateras
+årligen.
+
+ERTMS-strategin
+ERTMS (European Rail Traffic Management System) är ett europeiskt signalsystem för
+järnväg. Trafikverket arbetar med att uppdatera strategin, inklusive nytt målår och nya
+förutsättningar.
+
+<!-- sida 116 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 33
+
+Bilaga  4  - intervjufrågor
+
+• Vilka är dina övergripande reflektioner och tankar kring målbilden?
+• På vilket sätt använder du och din organisation målbilden?
+• Hur har målbilden fungerat i dialogen/samverkan med externa aktörer
+
+och VGR?
+• Hur har målbilden bidragit eller inte bidragit till:
+Målbildens mål?
+o
+Trafikförsörjningsprogrammets mål?
+o
+din organisations mål och uppdrag?
+o
+• Vad har fungerat bra med målbilden?
+• Vad har saknats i målbilden?
+• Övriga reflektioner och tankar?
+• Vad är viktiga erfarenheter och medskick inför det fortsatta arbetet?
+
+<!-- sida 117 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 34
+
+Bilaga  5  – hur  arbetar   andra   regioner?
+
+I Sverige arbetar regionerna med strategidokument för tågtrafik och tåginfrastruktur
+på olika sätt, där varje region har sitt eget tillvägagångssätt och sina egna unika
+förutsättningar. I VGR syftar dokumentet till att konkretisera
+trafikförsörjningsprogrammets intentioner och beskriva hur tågtrafiken i Västra
+
+Götaland ska utvecklas till 2035.
+
+Flera andra regioner har också tagit fram strategidokument specifikt för tågtrafik, men
+innehållet kan variera. Region Skånes Persontågsstrategi 2020–2040, Region
+Östergötlands Tågstrategisk målbild 2040 samt Region Örebros Målbild tåg 2050
+liknar i hög grad VGR:s Målbild Tåg 2035 sett till upplägg. Strategierna fokuserar på
+tågtrafikens förmåga att stärka regional utveckling och alla regionerna arbetar utifrån
+långsiktiga målsättningar om ökat tågresande och infrastrukturförbättringar.
+
+I andra regioner berörs tågtrafik och tåginfrastruktur ofta i övergripande dokument
+
+såsom Trafikförsörjningsprogram och andra strategidokument som Regional
+transportinfrastrukturplan, Regional kollektivtrafikplan, trafikstrategi och liknande. I
+dessa mer övergripande dokument behandlas tågtrafik och järnvägens infrastruktur
+generellt mer allmänt än i de mer specifika tågstrategierna. Konkretiseringsgraden
+varierar, där vissa regioner har mer detaljerade planer som inkluderar tidslinjer,
+budget och specifika projekt, medan andra är mer övergripande och visionära.
+
+Strategisk tågplanering på regional nivå är också viktiga förutsättningar för samarbeten
+över regiongränserna. Till exempel har Region Halland i sitt arbete med tågplanering
+
+tagit hänsyn till VGR:s målbild, på grund av kopplingen till Göteborg som knutpunkt.
+Samarbeten likt dessa är viktiga för att säkerställa att tågtrafiken fungerar mellan
+regionerna.
+
+En hög konkretiseringsgrad kan ge tydliga riktlinjer och mål, vilket underlättar
+genomförandet av projekt och uppföljning. Det kan dock också leda till mindre
+flexibilitet och svårigheter att anpassa sig till förändrade omständigheter och
+ekonomiska förutsättningar. Å andra sidan kan en låg konkretiseringsgrad ge mer
+
+frihet att anpassa sig, men det kan också resultera i otydlighet och svårigheter att följa
+upp på beslutade mål. Denna otydlighet kan dock hanteras i exempelvis
+handlingsplaner, vilket exempelvis både VGR och Region Örebro gjort.
+
+<!-- sida 118 -->
+
+Utvärdering av Målbild tåg 2035                           Sida 35
+
+Bilaga  6  – kunskapsunderlag
+
+Separat bilaga i pdf-format.
+
+Innehållsförteckning
+
+•  Historisk utveckling
+•  Resande per sträcka
+•  Antal dubbelturer
+
+•  Turtäthet
+•  Linjenät
+•  Infrastruktur
+•  Stationssamhällen
+
+•  Regionala centrum
+
+<!-- sida 119 -->
+
+2025-10-08
+
+Bilaga 6 -
+kunskapsunderlag
+
+Utvärdering av Målbild tåg 2035
+inklusive Västtågsutredningen
+IKN 2025-00217
+
+Y6Y VÄSTRA
+Ww GÖTALANDSREGIONEN
+
+<!-- sida 120 -->
+
+2025-10-08
+
+Innehållsförteckning
+
+•  Historisk    utveckling
+
+•  Resande      per  sträcka
+
+•  Antal   dubbelturer
+
+•  Turtäthet
+
+•  Linjenät
+
+•  Infrastruktur
+
+•  Stationssamhällen
+
+•  Regionala     centrum
+
+<!-- sida 121 -->
+
+2025-10-08
+
+Historisk            utveckling
+
+<!-- sida 122 -->
+
+Några       utvalda       historiska         händelser
+
+\- Rådslaget startas upp
+\- Fördubblingsmål                                                 - Västtågs-                - Gradvis återhämtning av
+\- Målbild tåg antas
+\- Västsvenska paketet                                          utredningen antas                    resandet
+\- Trängselskatt i
+\- Öresundsbron invigs                                             - Västtrafik ToGo          - Regeringen ändrar inriktning
+Göteborg införs, bl.a.
+\- Första hyrcykelsystemet                                             lanseras                    från nya stambanor
+för finansiering av väg-
+introduceras i Västra                                          - Avgift för cykel på tåg          till underhåll
+och järnvägsåtgärder
+Götaland                                                        tas bort                - Första elsparkcykelsystemet
+introduceras i Västra Götaland
+2000-talet             2010                          2015                          2020                          2025
+
+\- Beslut om ny järnväg
+\- Ny kollektivtrafiklag
+Göteborg – Borås
+\- VGR blir Regional
+\- SJ beslutar att lägga ner
+kollektivtrafikmyndighet
+\- Covid-19              nattågstrafiken från
+\- SAAB går i konkurs
+\- Byggstart Västlänken              - Nytt zonsystem för      Göteborg till Norrland
+\- Dubbelspår samt
+kollektivtrafiken        - EU beslutar om att nya
+motorväg E45 byggs
+och ombyggda tåg minst
+(Trollhättan – Göteborg)
+ska ha fyra cykelplatser
+\- Alependeln invigs
+\- ShiftSweden startas upp
+
+<!-- sida 123 -->
+
+2025-10-08
+
+Resande per sträcka
+
+<!-- sida 124 -->
+
+Källa: Västtrafik
+
+<!-- sida 125 -->
+
+Källa: Västtrafik
+
+<!-- sida 126 -->
+
+2025-10-08
+
+Antal dubbelturer
+
+<!-- sida 127 -->
+
+2
+
+2010
+5
+7
+
+3
+Antal tåg per vardagsdygn
+per riktning
+5
+
+5                                3
+9
+6
+3
+
+8
+18
+
+6
+12
+3
+5
+12
+23
+12
+44
+10
+54
+5
+
+12
+23
+
+Källa: VGR
+
+<!-- sida 128 -->
+
+7
+
+2024
+14
+3                                   4
+8
+Nuläge
+7                   8
+1
+4
+Antal tåg per vardagsdygn
+per riktning
+10
+4
+
+10
+10    11           15
+2
+21
+7
+21
+10
+28
+14
+21
+28       40
+13
+55
+8
+17
+61
+12
+4
+7
+32
+
+Källa: Västtrafik
+
+<!-- sida 129 -->
+
+7
+Västtrafiks
+
+14
+prognos        2028                                        3                                   4
+8
+
+Västlänken  fas 1                7                   8
+1
+4
+färdigställd
+Antal tåg per vardagsdygn
+14        4
+per riktning
+16
+10
+10     14          15
+16
+20
+26
+30
+33
+21
+30       40
+13
+43
+55
+8
+17
+61
+12
+4
+16
+35
+
+Källa: Västtrafik
+
+<!-- sida 130 -->
+
+2
+
+8
+Mål
+6
+7
+2035
+5                                                        7
+16
+5
+10
+Antal tåg per vardagsdygn
+per riktning                        10
+9
+10        7
+8
+18
+11
+14     18
+25     18
+25
+31     35         18
+
+25
+54       40
+18
+66 66
+47    66              35
+20
+66
+47           25
+5
+35                   5
+18
+40
+
+Källa: VGR
+18
+
+<!-- sida 131 -->
+
+2025-10-08
+
+Turtäthet
+
+<!-- sida 132 -->
+
+<!-- sida 133 -->
+
+Västtrafiks
+prognos 2028
+
+Antal minuter
+mellan avgångar
+i högtrafik
+
+Källa: Västtrafik
+
+NV)
+
+A (6) Älvängen
+
+)
+s
+
+KARLSTAD
+
+VÄRNAMO
+'v)
+
+PN
+
+7
+—
+—
+
+Ö Nässjö
+
+Station
+
+\>120
+61-120
+60
+
+30
+15-20
+
+7,5-10
+
+<!-- sida 134 -->
+
+Ö
+KARLSTAD
+
+Mål Dp
+2035
+
+Antal minuter
+mellan avgångar
+
+i högtrafik Mariestäd
+
+60
+j O
+
+—
+AMO
+o ED 15-20
+Källa: VGR 5 VARBERG :
+
+<!-- sida 135 -->
+
+<!-- sida 136 -->
+
+Linjenät
+
+idag
+
+Källa: Västtrafik
+
+<!-- sida 137 -->
+
+Linjenät
+
+2028
+
+Västlänken   fas 1
+
+färdigställd
+
+Källa: Västtrafik
+
+<!-- sida 138 -->
+
+Linjenät        när
+
+Västlänken            är
+
+färdigställd
+
+Ny  station i Brålanda
+
+planeras  på
+Norge/Vänerbanan
+
+Källa: Västtrafik
+
+<!-- sida 139 -->
+
+2025-10-08
+
+Infrastruktur
+
+<!-- sida 140 -->
+
+Tåginfrastrukturen            i
+
+Västra     Götaland
+
+(stationer     i
+
+kommunhuvudorter)
+
+<!-- sida 141 -->
+
+Tåginfrastrukturen            i
+
+Västra     Götaland
+
+(samtliga     tågstationer)
+
+<!-- sida 142 -->
+
+<!-- sida 143 -->
+
+Stationssamhällen
+
+<!-- sida 144 -->
+
+Källa: SCB.
+Bearbetat av VGR.
+
+<!-- sida 145 -->
+
+Källa: SCB.
+Bearbetat av VGR.
+
+<!-- sida 146 -->
+
+Källa: Tillväxtverket.
+Bearbetat av VGR.
+
+<!-- sida 147 -->
+
+2025-10-08
+
+Regionala centrum
+
+<!-- sida 148 -->
+
+<!-- sida 149 -->
+
+<!-- sida 150 -->
+
+<!-- sida 151 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-11
+Diarienummer
+KS-2025-00955
+
+Svar på Regions Hallands remiss av Kollektivtrafikplan 2027 med utblick 2028–2031
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-05-11, och översänder det som sitt svar till Region
+
+Halland.
+
+Sammanfattning av ärendet
+
+Kungsbacka kommun ges årligen möjlighet att lämna synpunkter på Hallandstrafikens
+kollektivtrafikplan. Planen beskriver hur målen i Region Hallands trafikförsörjningsprogram ska
+omsättas under en femårsperiod samt redovisar förutsättningar, mål och föreslagna förändringar i
+trafikutbudet på kort och lång sikt. Kollektivtrafikplanen arbetas fram i dialog mellan kommuner,
+Trafikverket och angränsande regioner.
+Region Hallands trafikförsörjningsprogram utgör den strategiska ramen för utvecklingen av
+kollektivtrafiken. Driftsnämnden Kollektivtrafik fastställer årligen planen med utgångspunkt i
+
+programmets mål och prioriteringar. En långsiktigt hållbar och attraktiv kollektivtrafik förutsätter att
+bebyggelseutveckling, infrastruktur och trafikutbud planeras samordnat.
+Kollektivtrafikplan 2027, med utblick 2028–2031, beskriver önskvärd utvecklingsinriktning och
+föreslagna förändringar i trafikutbudet motsvarande cirka 14 miljoner kronor. Ekonomiska ramar för
+2027 är ännu inte fastställda, och eventuella begränsningar kan medföra prioriteringar. Västkustbanan
+är det högst prioriterade kollektivtrafikstråket, med central betydelse för regionens kopplingar och
+Kungsbackas roll i det regionala resandet.
+
+I kollektivtrafikplanen lämnas bland annat förslag om en utökning av Kungsbackapendelns
+trafikeringstider med senare avgångar under vardagar och helger. Stadsbusstrafiken i Kungsbacka får
+utökade trafikeringstider för att bättre matcha tågavgångar och öka tillgängligheten under hela dygnet.
+Åsa station fortsätter att utvecklas när Västtågen får fler avgångar. I samband med att Västlänken tas i
+drift kommer Öresundstågens stopp vid Åsa station att minska. På totalen kommer Åsa station dock
+att få fler tågavgångar när Västlänken är färdigställd 2030.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-05-11
+
+1 (3)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+Peter Gustavsson
+0300-837883                                                   Besöksadress
+Specialist trafikplanering                               Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 152 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Yttrande, 2026-05-11
+
+Kollektivtrafikplan 2027 med utblick 2028–2031, remissversion 2025-03-23
+
+Beslutet skickas till
+Region Halland
+
+Beskrivning av ärendet
+Kollektivtrafikplan 2027, med utblick 2028–2031, syftar till att ge en helhetsbild av
+
+trafikeringsutbudet för att uppnå Region Hallands målsättning om 30 procent resandeandelar av
+motoriserade resor år 2030. Kommunstyrelsens förvaltning stödjer de satsningar som Hallandstrafiken
+föreslår i planen, där Västkustbanan utgör ryggraden i regionens kollektivtrafik.
+Under 2025 gjordes 19,4 miljoner kollektivtrafikresor i Halland, vilket är en ökning med 1,7 procent
+jämfört med året innan. Ökningen drevs främst av ett ökat bussresande. Kollektivtrafikens andel av de
+motoriserade resorna uppgick till 13,9 procent, vilket ligger under målet på 18 procent för 2025. En
+betydande del i denna andelsavvikelse är att för många väljer bilen samtidigt som tillfälliga störningar
+
+på Västkustbanan påverkat resandet.
+I Kungsbacka ökade både buss- och pendelresandet under året. Bussresandet ökade med 3,7 procent
+och Kungsbackapendeln med 2,3 procent. Sammantaget visar detta att buss och pendeltåg ökar i
+Kungsbacka, medan storregionala tåg påverkas av driftbegränsningar, vilket ger viktiga signaler för
+planering av kapacitet och trafikdygnets trafikeringstider.
+
+I förslaget föreslås en utökning av Kungsbackapendelns trafikeringstider med senare avgångar under
+vardagar och helger. Stadsbusstrafiken i Kungsbacka får utökade trafikeringstider för att bättre matcha
+tågavgångar och öka tillgängligheten under hela dygnet. Dessa åtgärder skapar bättre anslutningar,
+högre servicenivå och stärker kommunens roll i ett växande resbehov.
+
+Åsa station fortsätter att utvecklas när Västtågen får fler avgångar. I samband med att Västlänken tas i
+drift kommer Öresundstågens stopp vid Åsa station att minska. På totalen kommer Åsa station dock att
+få fler tågavgångar när Västlänken är färdigställd 2030. Västtågen tar därmed över en större del av
+trafiken och säkerställer fortsatt god tillgänglighet. Detta stärker Åsa som knutpunkt och möjliggör
+fortsatt utveckling längs Västkustbanan, inklusive den planerade stationen i Värö.
+Samtidigt planeras Öresundstågen få fler genomgående turer till Skåne. Västtågen får fler avgångar
+
+och längre trafikdygn, medan parallella bussturer anpassas för att ge plats åt tågtrafiken. Det stärker
+kollektivtrafikens konkurrenskraft och bidrar till ett mer hållbart och yteffektivt transportsystem.
+Under utblicksperioden 2028–2031 löper alla busstrafikavtal i Hallands kommuner ut. För Kungsbacka
+har arbetet med ett nytt avtal från 2029 påbörjats och en förstudie har redan genomförts.
+Upphandlingen ger stora möjligheter till översyn och förstärkning av stads- och regionbusstrafik.
+
+För Kungsbacka prioriteras:
+
+<!-- sida 153 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+•  Ökad attraktivitet och kapacitet i stadsbusstrafiken.
+•  Hantering av kapacitetsbrister i regionbusstrafiken, bland annat med ledbussar på linje 731 och
+boggibussar på andra sträckor.
+
+•  Effektivt samspel mellan buss och tåg, särskilt i samband med Åsa station och
+Västtågsutbyggnaden.
+Ett gott samarbete mellan Hallandstrafiken, Västtrafik och kommunen är fortsatt avgörande för att
+skapa ett attraktivt, hållbart och samordnat kollektivtrafiksystem som möter resenärernas behov,
+minskar biltrafiken och stödjer Kungsbackas utveckling. Åtgärderna bidrar också till hållbar
+samhällsplanering och effektiv användning av yta och resurser genom att fler väljer kollektivtrafik
+
+framför bil.
+
+Rickard Vidlund               Lovisa Eld
+Kommundirektör                Samhällsbyggnadschef
+
+<!-- sida 154 -->
+
+YTTRANDE
+Kommunstyrelsens förvaltning
+
+Till Datum
+Hallandstrafiken 2026-06-05
+Ert diarienummer Diarienummer Kungsbacka
+DNKT250059 «Diarienr»
+
+Yttrande Svar på Hallandstrafikens remiss av Kollektivtrafikplan 2027 med utblick
+2028-2031
+
+Sammanfattande inställning
+
+Kungsbacka kommun ställer sig positiv till Kollektivtrafikplan 2027 med utblick 2028-2031.
+Kommunen bedömer dock att planens inriktning inte fullt ut möter de utmaningar som finns kopplade
+till målet om ökad kollektivtrafikandel till 2030. Med en minskning av marknadsandelen i Halland
+från 14,9 procent 2024 till 13,9 procent 2025 kvarstår mycket stora utmaningar för att nå målet om 30
+procent till 2030. Kommunen anser därför att måluppfyllelsen inte bör skjutas fram, såsom tidigare
+föreslagits i remissversionen av trafikförsörjningsprogrammet, utan att kraftfulla åtgärder genomförs
+skyndsamt för att få fler att välja kollektivtrafiken och därmed avlasta ett ansträngt trafiksystem i
+norra Halland vidare in mot Göteborg.
+
+Kommunens inställning i detalj
+
+Kungsbacka kommun ser positivt på de föreslagna förstärkningarna inom kollektivtrafiken, bland
+
+annat utökade trafikeringstider i stadstrafiken, fortsatt utveckling av Västtåg (tidigare Hallandståg)
+med fokus på resandeutvecklingen från Åsa station samt ett nytt kvällståg på Kungsbackapendeln.
+Dessa satsningar bedöms vara särskilt viktiga i takt med att etapperna av Västlänken färdigställs.
+
+Utifrån detta bedömer kommunen att regionbusstrafikens mycket starka stråk i norra Halland
+omgående behöver kapacitetsförstärkas och att stadsbusstrafiken i Kungsbacka stad behöver utvecklas
+till en nivå som motsvarar jämförbara kommuner i regionen. Detta bör ske innan ett nytt trafikavtal för
+busstrafiken i Kungsbacka kommun träder i kraft 2029.
+
+Det finns samtidigt en betydande potential att öka kollektivtrafikresandet i kommunen, särskilt i de
+starka regionbusstråken där bilresandet i dag är omfattande till följd av kapacitetsbrister under
+maxtimmarna. I kommunens västra delar är bilresandet fortsatt högt, inte minst i relationen mot västra
+Göteborg, vilket delvis förklaras av en hög restidskvot mellan bil och kollektivtrafik. En förstärkt
+bussförbindelse i dessa stråk bedöms ha mycket stor potential att överföra resande från bil till
+kollektivtrafik och därigenom bidra till ökad måluppfyllelse, inklusive minskade koldioxidutsläpp.
+
+Kungsbacka kommun har vid upprepade tillfällen framfört behovet av en direktbuss i stråket Onsala—
+Vallda—Särö-västra Göteborg. Om resebehovet ska vara vägledande i kollektivtrafikens utveckling är
+en sådan förbindelse en naturlig och prioriterad åtgärd.
+
+1
+Nämndens namn 2) Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 155 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Kommunen noterar vidare ambitionerna kring utveckling och förenkling av biljettsystemet, vilket är
+positivt. Samtidigt kvarstår frågan om gränsöverskridande resande. Kungsbacka kommun anser att
+
+hela Hallands geografiska gränssnitt behöver beaktas i utvecklingen av biljettsystem och
+samverkanslösningar, och inte enbart funktionella resor i södra Sverige.
+Kungsbacka kommun framhåller vidare att samarbetet mellan Hallandstrafiken och Västtrafik behöver
+fortsätta utvecklas i syfte att skapa en sömlös och attraktiv kollektivtrafik över regiongränserna. De
+tidigare identifierade frågeställningarna kring förstudien och formerna för politisk delaktighet behöver
+beaktas i det fortsatta arbetet inför trafikavtalet 2029.
+
+Vidare behöver frågan om Hallandstrafikens sommar kort lösas så att det framöver även omfattar
+Kungsbacka kommun.
+
+Avslutningsvis understryker kommunen att Region Halland behöver säkerställa tillräckliga
+ekonomiska resurser för att nå de uppsatta resandemålen. Detta är en nödvändig förutsättning för att
+dämpa biltrafikens tillväxt i norra Halland, där vägsystemet sedan lång tid är hårt belastat. Kommunen
+får samtidigt allt tydligare signaler från både Trafikverket och Länsstyrelsen om att
+resandeutvecklingen i ökad utsträckning behöver ske med hänsyn till riksintresset E6/E20, vilket
+ytterligare förstärker behovet av en kapacitetsstark och attraktiv kollektivtrafik.
+
+Kungsbacka kommun
+
+<!-- sida 156 -->
+
+Vv
+
+VI ÄR EN DEL AV
+
+Region Halland
+
+3
+
+<!-- sida 157 -->
+
+SIDA | 2
+
+INNEHÅLL
+
+1\. Inledning .................................................................................................................................................... 4
+
+1.1 Sammanfattning ................................................................................................................................. 4
+1.2 Hur kollektivtrafiken fungerar i Halland .......................................................................................... 5
+
+1.3 Kollektivtrafikens styrande dokument ............................................................................................. 5
+
+2\. Planeringsförutsättningar ....................................................................................................................... 7
+2.1 Halland växer mitt i ett växande sydvästsverige ............................................................................ 7
+
+2.2 En boenderegion med stor arbetskraftsrörlighet .......................................................................... 8
+2.3 Halland är litet och tätbefolkat ......................................................................................................... 9
+
+2.4 Turismen bidrar till Hallands utveckling .......................................................................................... 9
+
+2.5 Utsläppen från transportsektorn är höga ..................................................................................... 10
+2.6 Möjlighet till distansarbete påverkar resbehoven ....................................................................... 10
+
+2.7 Hallänningarnas tillgång till kollektivtrafik .................................................................................... 11
+2.8 Genomförda trafikförändringar 2015 - 2025, urval ..................................................................... 13
+
+3\. Mål för kollektivtrafiken ......................................................................................................................... 14
+3.1 Övergripande mål ............................................................................................................................. 14
+
+3.1.2 Uppföljning och indikatorer ..................................................................................................... 14
+
+3.2 Övergripande måluppfyllnad .......................................................................................................... 16
+3.2.1 Marknadsandel .......................................................................................................................... 16
+
+3.2.2 Resande ...................................................................................................................................... 17
+3.2.3 Nöjdhet ....................................................................................................................................... 20
+
+3.2.4 Självfinansieringsgrad ............................................................................................................... 21
+
+3.2.5 Miljö ............................................................................................................................................. 22
+4\. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 23
+
+4.1 Process för upprättande av Kollektivtrafikplan ............................................................................ 23
+4.2 Mobilitetsåtgärder ............................................................................................................................ 23
+
+4.3 Trafikförändringar 2026................................................................................................................... 25
+
+4.3.1 Objekt 1 – Tågtrafik ................................................................................................................... 26
+4.3.2 Objekt 2 – Regionbusstrafik ..................................................................................................... 28
+
+4.3.3 Objekt 3 – Stadsbusstrafik ........................................................................................................ 33
+
+<!-- sida 158 -->
+
+SIDA | 3
+
+4.4 Trafikförändringar 2027 – 2030 ...................................................................................................... 36
+
+4.4.1 Behov av fortsatt utbyggd tågtrafik ........................................................................................ 36
+4.4.2 Behov av fortsatt utbyggd busstrafik ...................................................................................... 37
+
+4.4.3 Planering inför upphandling av busstrafik ............................................................................. 38
+5\. Särskild kollektivtrafik ............................................................................................................................ 41
+
+5.1 Färdtjänst, sjukresor och skolskjuts med personbil .................................................................... 41
+5.1.1 Planeringsförutsättningar ........................................................................................................ 41
+
+5.1.2 Mål och måluppfyllnad ............................................................................................................. 42
+
+5.1.3 Verksamhetsutveckling – Vad vi planerar att göra 2026 - 2028 .......................................... 44
+5.2 Skolskjuts med buss ......................................................................................................................... 45
+
+5.2.1 Måluppfyllnad ............................................................................................................................ 45
+5.2.2 Verksamhetsutveckling ............................................................................................................. 46
+
+5.2.3 Långsiktig plan för tidtabellskiften .......................................................................................... 47
+
+6\. Bilagor ...................................................................................................................................................... 48
+6.1 Nyckeltal för den allmänna kollektivtrafiken ................................................................................ 48
+
+6.1.1 Antal resor och produktion per linje 2024 ............................................................................. 48
+6.1.2 Resandeutveckling per trafikslag 2010 – 2024 ...................................................................... 50
+
+6.2 Infrastruktur 2024 ............................................................................................................................ 51
+
+6.2.1 Hållplatslägen för tillgänglighetsanpassning ......................................................................... 51
+6.2.2 Fördelning per väghållaransvar ............................................................................................... 52
+
+6.3 Samrådsredovisning Kollektivtrafikplan 2026 .............................................................................. 58
+6.3.1 Kungsbacka kommun ............................................................................................................... 59
+
+6.3.2 Varberg kommun ....................................................................................................................... 62
+6.3.3 Falkenberg kommun ................................................................................................................. 65
+
+6.3.4 Halmstad kommun .................................................................................................................... 67
+
+6.3.5 Hylte kommun............................................................................................................................ 69
+6.3.6 Laholm kommun ....................................................................................................................... 70
+
+<!-- sida 159 -->
+
+SIDA | 4
+
+1\. INLEDNING
+
+1.1 SAMMANFATTNING
+
+Trafikförsörjningsprogrammet sätter ramarna för utvecklingen av kollektivtrafiken i Halland.
+Utifrån de strategiska val och prioriteringar som finns i programmet fastställer Driftnämnd
+Kollektivtrafik årligen en kollektivtrafikplan. Kollektivtrafikplanens syfte är att beskriva hur
+Hallandstrafiken omsätter målen i trafikförsörjningsprogrammet i verksamheten inom en
+femårig utblick, exempelvis genom förändringar i trafikutbudet. I kollektivtrafikplanen redovisas
+
+även verksamhetens prestanda genom uppföljning för ett antal utvalda nyckeltal främst kopplat
+till marknadsandel, resande, nöjdhet och miljö.
+Utvecklingen av Kollektivtrafikplanen sker i nära samarbete med huvudsakligen de halländska
+kommunerna, men även med andra relevanta aktörer såsom Trafikverket, angränsande regioner
+och kommuner. Kollektivtrafiken utgör ett av flera verktyg för samhällsutveckling. Genom att
+integrera kollektivtrafiken i bostadsplaneringen och andra delar av samhällsplaneringen kan dess
+attraktions- och konkurrenskraft öka. En nyhet för årets upplaga av Kollektivtrafikplanen är att
+den nu har en femårig utblick, jämfört med tidigare planer som har haft en treårig tidshorisont.
+Syftet med denna justering är att främja ökad samverkan och samplanering, där utvecklingen av
+kollektivtrafiken är förknippad med långa ledtider. Genomförandet av upphandlingar kan
+inrymma krav på nya fordonstyper, samtidigt som ett behov uppstår av kollektivtrafikfrämjande
+åtgärder i gatuutrymmet.
+
+När kollektivtrafikplanen skickades ut på remiss var de ekonomiska förutsättningarna för 2026
+ännu inte fastställda. Remissversionen av planen speglade en önskvärd utveckling, inklusive
+justeringar i trafikutbudet om närmare 10 miljoner kronor. Budgeten för verksamhetsåret 2026
+beslutades av Regionfullmäktige i juni. Baserat på tilldelad budgetram och prognos, tillsammans
+med beaktande av kommunernas synpunkter, beskriver denna kollektivtrafikplan utökningar i
+trafikutbudet om drygt 5,5 miljoner kronor.
+
+<!-- sida 160 -->
+
+SIDA | 5
+
+1.2 HUR KOLLEKTIVTRAFIKEN FUNGERAR I HALLAND
+
+Enligt lagen om kollektivtrafik, vilken trädde i kraft den 1 januari 2012, ska det i varje län finnas en
+Regional Kollektivtrafikmyndighet. Ett centralt syfte med lagen är att förbättra samordningen
+mellan kollektivtrafiken och annan samhällsplanering, samt att öka det politiska inflytandet över
+de strategiska beslut som fattas rörande kollektivtrafiken. Kollektivtrafikmyndigheten ansvarar
+för den regionala kollektivtrafiken, vilket avser kollektivtrafik som bedrivs inom ett län eller som
+sträcker sig över flera län, med huvudsyftet att tillgodose resenärernas behov av pendling och
+annat vardagsresande.
+
+Enligt lagen finns det krav på att varje län ska ha ett regionalt trafikförsörjningsprogram, och det
+finns även bestämmelser om vad ett sådant program ska innehålla. Programmet ska bland annat
+omfatta både en långsiktig strategisk del och en mer konkret beskrivning av kollektivtrafikens
+omfattning på kortare sikt. Regionstyrelsen fullgör Region Hallands uppgifter som regional
+kollektivtrafikmyndighet och ansvarar för de strategiska kollektivtrafikfrågorna. Driftnämnd
+Kollektivtrafik, tillsammans med förvaltningen Hallandstrafiken, har som huvuduppgift att
+ombesörja den operativa planeringen samt driften av kollektivtrafiken. Hallandstrafiken ska
+årligen besluta om en kollektivtrafikplan som baseras på strategiska val och prioriteringar enligt
+det regionala trafikförsörjningsprogrammet.
+
+Via uppdragsavtal har Hallandstrafiken ansvaret för att upphandla och samordna färdtjänst i de
+halländska kommunerna, samt sjukresor. Hallandstrafiken ansvarar för handläggning av
+färdtjänsttillstånd (med undantag för Kungsbacka) samt utför beställningsmottagning för
+sjukresor och färdtjänst. På uppdrag av kommunerna utför Hallandstrafiken även planering och
+samordning av skolskjutstrafik.
+
+1.3 KOLLEKTIVTRAFIKENS STYRANDE DOKUMENT
+
+REGIONAL UTVECKLINGSSTRATEGI 2035
+
+Det övergripande styrdokumentet för Halland är den Regionala utvecklingsstrategin, som
+innehåller visionen "Halland – bästa livsplatsen". Den regionala utvecklingsstrategin utgör en
+övergripande och långsiktig plan för Hallands utveckling. Med strategin som vägledande kompass
+och beslutsstöd i en komplex och dynamisk tid, kan olika aktörer i Halland bidra genom sina
+respektive planer, budgetar, visioner och strategiska vägval. Tillsammans kan vi därmed bygga
+det samhälle vi önskar leva i.
+
+STRATEGI FÖR HÅLLBAR TILLVÄXT 2021 - 2028
+Hallands strategi för hållbar tillväxt beskriver hur hela Halland ska växa och utvecklas på ett
+hållbart sätt, med fokus på ekologisk, social och ekonomisk hållbarhet. Tillväxtstrategin syftar till
+
+att samla och vägleda halländsk genomförandekraft och behöver ägas och bäras av många.
+Genom att samla olika aktörers utvecklingskrafter mot ett gemensamt mål kan Halland bli en
+region som växer hållbart. Miljövänliga och energieffektiva transportsätt är en förutsättning för
+attraktiva livs- och boendemiljöer. Strategin betonar vikten av god tillgång till en miljövänlig och
+energieffektiv kollektivtrafik för att nå skolor, arbetsplatser, aktiviteter, friluftsliv och andra viktiga
+servicepunkter.
+
+<!-- sida 161 -->
+
+SIDA | 6
+
+REGIONALT TRAFIKFÖRSÖRJNINGSPROGRAM 2021 - 2025
+Det regionala trafikförsörjningsprogrammet beskriver utvecklingen av kollektivtrafiken med en
+
+utblick mot 2040–2050. I programmet finns fastställda mål tillsammans med principer och
+riktlinjer för hur kollektivtrafiken ska utvecklas. Programmet innehåller både en långsiktig och
+strategisk del samt en mer konkret beskrivning av kollektivtrafiken på kortare sikt.
+I programmet synliggörs det långsiktiga målet att kollektivtrafiken ska bidra till hög attraktivitet
+och en hållbar samhällsutveckling. Målet tydliggör hur nära kollektivtrafiken är förenad med
+samhällsutvecklingen i stort och att kollektivtrafiken i sig inte är ett mål utan ett verktyg.
+
+KOLLEKTIVTRAFIKPLAN
+
+Syftet med kollektivtrafikplanen är att, utifrån strategiska val och prioriteringar, beskriva hur
+Hallandstrafiken omsätter målen i det regionala trafikförsörjningsprogrammet. Här beskrivs det
+operativa genomförandet, exempelvis linjeförändringar och turutbud för det kommande året,
+med en utblick ytterligare fyra år framåt. Kollektivtrafikplanen tar avstamp i
+trafikförsörjningsprogrammets kortsiktiga mål att öka och göra resandet med kollektivtrafiken
+mer attraktivt.
+Framtagandet av kollektivtrafikplanen sker i dialog med framför allt de halländska kommunerna,
+men även med övriga relevanta aktörer såsom Trafikverket, angränsande regioner och
+kommuner. En förutsättning för att skapa en attraktiv och hållbar kollektivtrafik är samverkan
+och samplanering där samhälls-, bebyggelse-, infrastruktur- och kollektivtrafikplanering går hand
+
+i hand.
+
+Figur 1. Styrdokument Region Halland
+
+<!-- sida 162 -->
+
+SIDA | 7
+
+2\. PLANERINGSFÖRUTSÄTTNINGAR
+
+2.1 HALLAND VÄXER MITT I ETT VÄXANDE SYDVÄSTSVERIGE
+
+Halland växer mitt i ett växande sydvästsverige, vilket ställer krav på en välfungerande
+kollektivtrafik. Kollektivtrafiken skapar grundläggande möjligheter för alla människor att mötas,
+handla, arbeta och studera på jämlika villkor, oavsett var man bor. Utan kollektivtrafik skulle
+stora grupper förlora tillgängligheten till arbetsplatser, skolor, fritidsaktiviteter och service. En
+utvecklad kollektivtrafik med tillhörande utbyggd infrastruktur, som motsvarar det framtida
+
+resbehovet, är viktig för att Halland fortsatt ska kunna utvecklas hållbart. En ökad möjlighet till
+arbetspendling ger förutsättningar för regional utveckling, stärkt eller större arbetsmarknad och
+ökad sysselsättning för alla grupper i samhället.
+Pendlingen ökar mellan regioner, kommuner och städer i och kring Halland, vilket innebär att
+man i högre utsträckning inte bor och arbetar i samma ort, kommun eller region. Idag står
+vägtrafiken i Halland för den största delen av koldioxidutsläppen, där en stor del av pendlingen
+sker med bil. När fler väljer kollektivtrafiken framför bilen och kollektivtrafikens marknadsandel
+ökar, minskar klimatutsläppen och trängseln på våra vägar.
+
+ÖVERGRIPANDE BEFOLKNINGSUTVECKLING
+
+Halland är med sina 343 746 invånare (december 2023) Sveriges sjunde största län. Befolkningen
+har ökat med över 68 742 invånare sedan millennieskiftet, vilket motsvarar en ökning på 25
+procent och gör Halland till landets fjärde mest växande län. Halmstad är länets största kommun
+med 105 796 invånare. Därefter följer Kungsbacka (85 653 invånare), Varberg (68 325),
+Falkenberg (47 108), Laholm (26 565) och Hylte (10 299). Många län i Sverige har en större
+kommun och flera mindre kommuner, men Halland sticker ut i detta avseende då länet har flera
+jämnstora kommuner, även om det också är stor skillnad mellan länets största och minsta
+kommun.
+
+Alla Hallands kommuner utom Hylte har haft en positiv befolkningstillväxt sedan millennieskiftet.
+Befolkningstillväxten är dock inte jämnt fördelad över länet. Starkast har utvecklingen varit i
+Kungsbacka, som ökat sin befolkning med 32 procent. Därefter följer Varberg (30 %), Halmstad
+(24 %), Falkenberg (21 %), Laholm (17 %) och Hylte (som haft en minskning på 2 %).
+
+HALLAND VÄXER MEN I EN LÄGRE TAKT
+Under 2023 ökade antalet invånare i Halland med 946 personer (0,27 %), vilket var den lägsta
+ökningen sedan 1996. Inbromsningen beror på minskat barnafödande och ett lägre
+flyttningsöverskott. Den avtagande ökningstakten under 2023 var inte unik för Hallands län. I
+Sverige som helhet ökade invånarantalet med drygt 30 000 personer (0,29 %), vilket var den
+lägsta ökningen sedan 1999 och mer än en halvering jämfört med 2022. I relation till övriga
+regioner i Sverige hade Hallands län den sjätte högsta befolkningsökningen under 2023.
+
+Enligt Region Hallands befolkningsprognos kommer Hallands befolkning att vara 365 070
+invånare år 2040. Det innebär en ökning med 21 300 invånare (6 %) jämfört med 2023. Den
+genomsnittliga årliga befolkningsökningen förväntas vara 1 250 invånare, vilket är en lägre nivå
+än genomsnittet för perioden 2010–2023, då länet hade en årlig tillväxt på ungefär 3 400
+invånare. Gruppen äldre förväntas utgöra en allt större del av befolkningen framöver. Totalt
+
+<!-- sida 163 -->
+
+SIDA | 8
+
+Hallandstrafiken
+
+väntas invånare över 65 år öka med 15 000 och personer i arbetsför ålder med 6 500. Gruppen
+yngre (0-19 år) väntas minska med 5 000 personer. Den demografiska försörjningsbördan i
+samhället ökar i riket såväl som i Halland, men en förmildrande omständighet i sammanhanget
+är att Halland är en av få regioner där den arbetsföra befolkningen ökar.
+
+Ställer vi den förväntade befolkningstillväxten i relation till den historiska
+sysselsättningsutvecklingen och hur rörligheten ser ut på arbetsmarknaden idag, skulle det
+innebära 8 000 nya arbetstillfällen i Halland och 4 000 nya pendlare fram till 2040.
+Befolkningstillväxten skulle även innebära ett behov av 21 000 nya bostäder. Prognoserna är inte
+en exakt beskrivning av hur utvecklingen kommer att se ut, men de ger en indikation på att
+utvecklingen har varit, är och förväntas fortsätta vara god i Halland. Även om vi nu förväntas gå in
+i en period med lägre tillväxt än tidigare, väntas Halland fortsatt vara, relativt sett, en av de mest
+växande regionerna i landet.
+
+2.2 EN BOENDEREGION MED STOR ARBETSKRAFTSRÖRLIGHET
+
+Under 2000-talet har antalet kommunöverskridande pendlare till eller från en halländsk kommun
+ökat från cirka 43 000 personer till 73 000 personer, vilket motsvarar en årlig ökning på i
+genomsnitt nästan 1 400 personer. Totalt har den inomregionala pendlingen mer än fördubblats,
+medan den utomregionala pendlingen har ökat med mer än 60 procent. Av de sysselsatta som
+bor i Hallands län pendlar 33 procent över en kommungräns och 22 procent över en länsgräns.
+
+Utifrån ett regionalt perspektiv är Halland en utpräglad boenderegion, vilket innebär att antalet
+utpendlare till andra regioner vida överstiger antalet inpendlare från andra regioner. Under 2022
+pendlade nästan 16 600 personer till länet, samtidigt som knappt 39 000 personer pendlade ut
+från länet, vilket resulterade i ett negativt pendlingsnetto på över 22 000 personer.
+
+Vid utgången av 2022 bodde det knappt 56 500 pendlare i länet, varav hälften pendlade till en
+kommun i Västra Götalands län och nästan en tredjedel till en kommun inom länet. Samma år
+pendlade nästan 16 600 personer från en kommun i ett län utanför Halland till en kommun i
+Hallands län. Summerar vi de tre flödena uppgår antalet pendlare, som pendlar inom, till eller
+från länet, till drygt 73 000 personer. Sett till pendlingsmönster kan Hallands kommuner, något
+förenklat, delas in i två arbetsmarknadsregioner. Halmstad, Laholm och Hylte ingår i Halmstads
+arbetsmarknadsregion, medan Falkenberg, Varberg och Kungsbacka delar arbetsmarknad med
+Göteborg och Mölndals kommuner. Utvecklingen har varit god i båda
+arbetsmarknadsregionerna, men är starkare i norra Hallands arbetsmarknadsregion sett till
+jobbtillväxt, befolkningsutveckling och produktivitet.
+
+Kommun Inpendlare Utpendlare Pendlingsnetto
+
+Kungsbacka 8454 24 971 -16 517
+Varberg 6418 8 905 -2 487
+Falkenberg 4788 6 424 -1 636
+Halmstad 10 671 8 734 1937
+Laholm 2358 5791 -3 433
+Hylte 1429 1671 -242
+Halland 16 556 38 934 -22 378
+
+Figur 2. Pendling över kommun- och länsgräns 2022. Källa: SCB
+
+<!-- sida 164 -->
+
+SIDA | 9
+
+2.3 HALLAND ÄR LITET OCH TÄTBEFOLKAT
+
+Halland är Sveriges fjärde minsta län och det sjunde mest befolkade. De förhållandevis korta
+avstånden mellan olika geografiska områden skapar god tillgänglighet, vilket bidrar till starka
+funktionella samband där städernas större arbetsmarknader kompletteras av mindre orter och
+den halländska landsbygden. Allt eftersom transportsystemen utvecklas och samhället
+digitaliseras förväntas flerkärnighetens effekter förstärkas i Halland och dess omland.
+
+Halland är också tätbefolkat, med totalt 63,4 personer per kvadratkilometer – endast de tre
+storstadsregionerna är mer tätbefolkade än Hallands län. Befolkningstätheten är som högst
+längs kustlinjen, där en stor del av länets befolkning bor.
+Av länets befolkning bor 85 procent i en tätort, vilket är bland de högre nivåerna jämfört med
+övriga regioner i Sverige. Tätortsgraden är som högst i Halmstad kommun, där den uppgår till
+hela 93 procent, jämfört med Hylte där endast drygt två tredjedelar av invånarna bor i en tätort.
+Befolkningstätheten i länets tätorter är förhållandevis låg jämfört med andra snabbväxande
+regioner och riksgenomsnittet. När en stad eller tätort växer genom utbredning ökar avstånden
+mellan olika aktivitetspunkter, vilket riskerar att leda till ett ökat bilberoende. En utbredd
+bebyggelse försvårar förutsättningarna för en tillgänglig och ändamålsenlig kollektivtrafik.
+
+2.4 TURISMEN BIDRAR TILL HALLANDS UTVECKLING
+
+Turismen spelar en betydande roll i Hallands utveckling. Regionen har ett stort antal
+sommarbostäder, och antalet övernattningar ökar stadigt, vilket leder till en befolkningsökning
+under sommarmånaderna. Att semestra i Halland ska vara lika njutbart som att bo här. Enligt
+statistik från SCB har Halland i genomsnitt 2,5 miljoner övernattningar per år, med en stark
+säsongsvariation. Under sommarmånaderna ökar befolkningen markant på grund av den höga
+andelen turister där den inhemska turismen utgör en stor majoritet.
+Kollektivtrafiken möjliggör för besökare att enkelt ta sig till stränderna, vandra i skogarna eller
+besöka handel och evenemang. Tidtabellsskiften är en naturlig del av kollektivtrafiken och sker
+
+årligen, vanligtvis vid tre tillfällen. Tidtabellsskiftena under sommaren genomförs för att anpassa
+utbudet efter ett förändrat resbehov jämfört med resten av året. I Halland minskar generellt
+omfattningen av regionbusstrafik på sommaren, vilket beror på minskat arbets- och skolresande,
+samtidigt som stadsbusstrafiken ökar på grund av ökat fritidsresande.
+
+<!-- sida 165 -->
+
+SIDA | 10
+
+2.5 UTSLÄPPEN FRÅN TRANSPORTSEKTORN ÄR HÖGA
+
+Transportsektorn är den sektor som genererar mest utsläpp i Halland. Inrikes transporter står för
+44 procent av länets territoriella utsläpp av klimatgaser, vilket är den sjätte högsta nivån i landet.
+I Halland har de transportrelaterade utsläppen minskat med 32 procent sedan 2010. Enligt
+Sveriges klimatpolitiska ramverk ska minskningen fram till 2030 vara minst 70 procent. Med
+nuvarande minskningstakt kommer Halland endast att ha minskat med 47 procent till 2030. För
+att nå målet krävs en årlig minskningstakt på 9,7 procent under de kvarvarande åren av
+perioden.
+
+Sett till enbart koldioxidutsläppen står den halländska transportsektorn för 65 procent av
+Hallands territoriella utsläpp, och personbilstransporterna står för ungefär två tredjedelar av
+dessa. För att nå de svenska klimatpolitiska utsläppsmålen till 2030 behöver transportsektorns
+koldioxidutsläpp halveras. Med dagens minskningstakt kommer Halland inte att nå målen.
+Samtidigt som Hallands befolkning förväntas växa, fler förväntas pendla mellan jobb och hem,
+och fler fritidsresor förväntas utföras, måste transportsektorns utsläpp minska. Den
+utsläppsminskning som har skett i den halländska transportsektorn det senaste decenniet beror
+inte på minskad trafikintensitet, utan på ett ökat kollektivt resande tillsammans med mer
+energieffektiva transporter, både för privatpersoner och tyngre fordon.
+
+2.6 MÖJLIGHET TILL DISTANSARBETE PÅVERKAR RESBEHOVEN
+Under Covid-19-pandemin aktualiserades frågan om arbete hemifrån. De systemförändringar
+som skedde under pandemiåren öppnade även upp för potentialen till minskat resande för vissa
+
+grupper av den arbetande befolkningen. Möjligheten till distansarbete varierar stort mellan olika
+näringsgrenar och delvis mellan könen, där fler kvinnor än män har möjlighet till distansarbete.
+Exempelvis har förvärvsarbetande inom offentlig förvaltning och företagstjänster större
+möjligheter till hemarbete än de som arbetar inom hotell- och restaurangbranschen.
+Sett till Hallandssnittet arbetade 41,2 procent av hallänningarna helt eller delvis hemifrån under
+SCB:s referensvecka första kvartalet 2021. Jämfört med övriga Sverige var detta den tredje högsta
+nivån efter Stockholm och Uppsala län.
+
+<!-- sida 166 -->
+
+SIDA | 11
+
+Hallandstrafiken
+
+2.7 HALLÄNNINGARNAS TILLGÅNG TILL KOLLEKTIVTRAFIK
+
+För att människor ska välja kollektivtrafik framför bilen krävs god tillgång till kollektivtrafiken.
+Med god tillgång avses både fysisk närhet till en hållplats och avgångar som motsvarar
+resbehoven.
+
+BOENDE I KOLLEKTIVTRAFIKNÄRA LÄGE
+
+I Halland bor 69,8 procent av befolkningen, motsvarande 239 399 personer, i närhet av
+kollektivtrafiken. På kommunal nivå varierar detta avsevärt. I Halmstad bor närmare 87 procent
+av invånarna i närhet av kollektivtrafiken, medan andelen i Kungsbacka endast uppgår till 58
+procent. Den lägsta andelen återfinns i Laholm med 56 procent och i Hylte med 52 procent.
+
+I länets tätorter bor 79,2 procent av invånarna i närhet av kollektivtrafiken, vilket är den nionde
+lägsta nivån i landet. Den jämförelsevis låga placeringen när det gäller kollektivtrafiktillgång i
+tätort kan sannolikt hänföras till låg befolkningstäthet i länets tätorter samt att en relativt liten
+andel av befolkningen bor i en större stad, även om de bor i en tätort.
+
+100
+
+N
+
+90
+
+80
+
+wo
+
+70
+
+-—
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+än
+
+Uppsala län -—
+N
+i a ÅA
+Riket NÅ
+ÄN
+ÄN
+än
+ÄN
+So
+nn od
+an 4
+ÄN
+än sn
+ÄN
+Ö ÄN
+än sn
+än
+ÄN
+än sn
+ÄN
+än
+än
+ÄN
+[ec]
+Halmstad — mmeemeemmmm Oh
+Len]
+Falkenberg mmm — 10
+[en]
+Varberg nn (a
+un wo
+Kungsbacka | 3»
+Laholm mmm Oh
+un
+Hylte.— N
+
+[a]
+Stockholms län — ENN
+
+n vv nn an n n n nan n Oo vn vw An vn an PM = un
+DTE MUTDTTDITTICEÉE MIC MD MID TI I
+CA 5CCCCofnNvYoclctcy]cf:stcERL
+225880 ELTLLEXT TLA CT E
+c VT BB mr O:0 Oo vr EA v =
+2 cc :0o mr Aa Oo AL E [=]
+T Xx nm ECE
+\>0 MI ot = = . (C)
+E 83 Lb > föds & E£523
+sg PP BRO 2 8 Xx
+: 00
+:o :d 20 > >
+un >
+
+Västra Götalands lär -— Esso
+
+Figur 3. Andel av befolkningen boende i närhet (400 m) av kollektivtrafikstation (2022). Endast hållplatser med
+regelbundna avgångar inkluderas. Källa: SCB
+
+<!-- sida 167 -->
+
+<!-- sida 168 -->
+
+SIDA | 13
+
+Hallandstrafiken
+
+2.8 GENOMFÖRDA TRAFIKFÖRÄNDRINGAR 2015 - 2025, URVAL
+
+» Nytt stadsbusslinjenät Kungsbacka
+» Förtätning av regionbusstråk
+
+» Ny Pågatågstrafik Halmstad-Helsingborg
+« Nytt stadsbusslinjenät Varberg
+
+<< €€€€e
+
+e Nytt Västtåg Varberg - Göteborg, dubbeltur morgon/eftermiddag )
+
+e Utökad trafik Västtåg Varberg-Borås (Viskadalsbanan)
+
+e Utökad trafik Halmstad stadsbusstrafik )
+
+e Utökad trafik HNJ-banan (3-årigt testprojekt) N
+
+eFler Västtåg Varberg - Göteborg, en ny dubbeltur morgon/eftermiddag
+
+e Utökad trafik Västtåg Kungbacka-Göteborg (Kungsbackapendeln)
+
+«Etapp 2 Resecentrum Halmstad, justerat stadsbusslinjenät )
+
+e Fler Västtåg Varberg - Göteborg, två nya dubbelturer mitt på dagen )
+
+e Utökad trafik Västtåg Kungbacka-Göteborg (Kungsbackapendeln)
+
+e Fler helgturer på HNJ-banan (3-årigt projekt) )
+Vy stadsbusstrafik i Laholm NY
+
+e Utökning av linje 10 Falkenberg med ett fordon
+Fler turer till och från Ullared, brytning av linje 555 i Ullared
+«Fler turer på Västtågen Kungsbacka-Göteborg, förlängd kvartstrafik på vardagar och halvtimmestrafik på helger
+
+e Förändrad lin äcknin n Halmstad, snabba - och ifran Vallas
+
+»« Utökat trafikutbud tillhörande ”testperiod HNJ” med fler turer under vardagar samt helger kvarstår inom
+Tågplan 2021, inkluderat busslinje 417 Hylte - Landeryd.
+
+« Utökat trafikutbud på linje 62 till och från Söder i Halmstad
+
+J
+
+» Danmarkstågen med Öresundståg gör uppehåll vid Åsa station under lördagar och söndagar. )
+Trafikförändringen innebär inga förlängda restider till/från stationer söder om Varberg.
+
+» Utökat utbud inom testperiod HNJ avslutas J
+
+« Omfördelning av produktion. Utökad trafik linje 225 Laholm - Båstad station. Ny busslinje 430 Torup - Kinnared -)
+Hyltebruk. Fler direktturer Harplinge - Halmstad. Ny körväg busslinje 350 via Heberg, förlängd linje 509 till Eftra.
+
+Fler turer till Kungsäter med linjerna 661 och 664. Linje 741 inom Tölä Ängar i Kungsbacka. )
+
+« Fler Öresundståg kväll- natt och helg. Tre nya avgångar med Västtåg Varberg - Göteborg per vardag och riktning. Y
+Västtåg Varberg - Borås, en avgång per vardag och riktning söndag - fredag.
+
+« Utökade öppettider och förstärkt utbud i kollektivtrafikstråken. Utökning linje 509 Falkenberg.
+
+»« Kungsbacka, trafikering av Björkris och badhuset. Varberg, förändrad linjedragning Träslövsläge. Halmstad,
+
+€«€ €€€€
+
+justerad linjesträckning linje 2. I
+»« Utökad trafik vardagar med Västtåg Kungsbacka - Göteborg (Kungsbackapendeln) )
+» Utvecklad Närtrafik 2.0
+
+»« Regionbusstrafik Varberg, övriga linjer 660/661
+
+<!-- sida 169 -->
+
+SIDA | 14
+
+Hallandstrafiken
+
+3\. MÅL FÖR KOLLEKTIVTRAFIKEN
+
+3.1 ÖVERGRIPANDE MÅL
+
+Hallands strategi för hållbar tillväxt beskriver hur hela Halland ska växa och utvecklas på ett
+hållbart sätt, med fokus på ekologisk, social och ekonomisk hållbarhet. Tillväxtstrategin belyser
+behovet av miljövänliga och energieffektiva transportsätt för att nå skolor, arbetsplatser,
+aktiviteter, friluftsliv och andra viktiga servicepunkter, vilket är en förutsättning för attraktiva livs-
+och boendemiljöer.
+
+Det regionala trafikförsörjningsprogrammet beskriver utvecklingen av kollektivtrafiken med en
+utblick mot 2040-2050. Programmet synliggör det långsiktiga målet att kollektivtrafiken ska bidra
+till hög attraktivitet och en hållbar samhällsutveckling. Målet tydliggör hur nära kollektivtrafiken
+är förenad med samhällsutvecklingen i stort och att kollektivtrafiken i sig inte är ett mål utan ett
+verktyg. Kollektivtrafikens kortsiktiga mål är att öka resandet och göra det mer attraktivt, vilket är
+tydligt knutet till Hallandstrafikens ansvarsområde.
+
+3.1.2 UPPFÖLJNING OCH INDIKATORER
+HALLAND SKA VARA EN MER ATTRAKTIV, INKLUDERANDE OCH KONKURRENSKRAFTIG REGION
+
+Mål Indikatorer Följs upp i
+Regionförstoring genom utveckling av Restid/turtäthet till Stockholm, Uppföljning till
+kollektivtrafik och infrastruktur, såväl Göteborg, Malmö och Helsingborg = Tillväxtstrategin
+söderut som norrut. Fortsatt arbete för -mätpunkt Halmstad och Varberg
+
+goda förbindelser med Stockholm
+
+Utvecklade former för samverkan Uppföljning till
+och samplanering mellan Tillväxtstrategin
+
+kollektivtrafik, infrastruktur,
+samhälls- och bebyggelseplanering
+
+Attraktiva stadsmiljöer med mötesplatser Deltagande och publik vid Uppföljning till
+som främjar företagsamhet, innovationer = ett urvalstrategiskt utvalda Tillväxtstrategin
+och kultur arrangemang och
+mötesplatser. Huspriser i
+Halland
+En koldioxidneutral ekonomi och Andel förnyelsebar energi, Uppföljning till
+fossiloberoende transporter Koldioxidutsläpp Tillväxtstrategin
+KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SAMHÄLLSUTVECKLING
+Mål Indikatorer Följs upp i
+Kollektivtrafikens marknadsandel av Resandestatistik Kollektivtrafikplanen
+totaltresande ska vara minst 3096 år
+2030\.
+Kollektivtrafiken ska bidra till positiv Skattekraft, Uppföljning till
+ekonomisk utveckling genom att bidra till Flyttningsöverskott från Tillväxtstrategin
+
+tillväxt genom arbetsmarknadsförstoring övriga Sverige till Hallands
+län.
+
+<!-- sida 170 -->
+
+SIDA | 15
+
+Hallandstrafiken
+Trafikintäkterna från resenärerna ska Biljettintäkter och trafikkostnader - Hallandstrafikens ekonomiska
+utgöra minst 60 procent av redovisning
+
+trafikkostnaderna baserat på det totala
+utbudet av den allmänna
+kollektivtrafiken i Halland sett över en
+längre tidsperiod
+
+Kollektivtrafiken ska drivas med Utsläppsnivåer Kollektivtrafikplan
+fossilfriabränslen fordonsdatabas FRIDA
+Kollektivtrafikstråken i Antal och procentandel av Hållplatsregiste
+stadsbusstrafiken ska vara hållplatser i stadsbusstråken r
+tillgänglighetsanpassade år 2025 per stad Hallandstrafik
+en
+Hållplatser/bytespunkter Antal och procentandel Hållplatsregiste
+med mer än 20 påstigande tillgänglighetsanpassade r
+per dygn ska vara hållplatser med mer än 20 Hallandstrafik
+tillgänglighetsanpassade år påstigande en
+2025
+Kollektivtrafiken ska uppfattas som Utifrån frågor i Kollektivtrafikplan
+trygg och säker Kollektivtrafikbarometer
+n
+RESANDET MED KOLLEKTIVTRAFIK SKA ÖKA OCH VARA ATTRAKTIVT
+Mål Indikatorer Följs upp i
+Högst 1,5 som restidskvot för busstrafik i — Restidskvoter Kollektivtrafikplan
+kollektivtrafikstråk
+Högst 0,8 som restidskvot för tåg Restidskvoter Kollektivtrafikplan
+Resandeökning delmål Resandestatistik per linje och Kollektivtrafikplan
+totalt
+Nöjd kund Kollektivtrafikbarometern Kollektivtrafikplan
+Nöjd invånare Kollektivtrafikbarometern Kollektivtrafikplan
+
+Figur 5. Uppföljning och indikatorer, regionalt trafikförsörjningsprogram 2021 - 2025
+
+AGENDA 2030
+
+År 2016 antog FN Agenda 2030, som omfattar 17 globala hållbarhetsmål med 169 delmål. Dessa
+mål syftar till att avskaffa extrem fattigdom, minska ojämlikheter, främja fred och rättvisa samt
+lösa klimatkrisen. Kollektivtrafiken spelar en nyckelroll i denna förändringsagenda mot ett
+hållbart samhälle. Hallandstrafiken integrerar dessa mål i sitt miljö- och klimatarbete och
+redovisar årligen resultat och utveckling.
+
+Inom miljö- och klimatarbetet fokuserar verksamheten på mål 3: God hälsa och välbefinnande,
+mål 10: Minskad ojämlikhet, mål 11: Hållbara städer och samhällen, och mål 13: Bekämpa
+klimatförändringarna. Kollektivtrafiken bidrar positivt till dessa mål genom att främja fysisk
+aktivitet, minska ojämlikheter, skapa hälsosammare städer och minska utsläppen av
+växthusgaser.
+
+<!-- sida 171 -->
+
+SIDA | 16
+
+Hallandstrafiken
+
+3.2 ÖVERGRIPANDE MÅLUPPFYLLNAD
+
+Under 2024 navigerade Hallandstrafiken genom ett föränderligt ekonomiskt klimat och
+förändrade resvanor efter pandemin, vilket påverkade hallänningarnas sätt att leva och resa. För
+att säkerställa en hög grad av kostnadseffektivitet och samtidigt upprätthålla en attraktiv, pålitlig
+och användarvänlig kollektivtrafik, har resursanvändningen övervakats noggrant.
+
+Nyckeltal 2019 2020 2021
+utfall — utfall — utfall utfall — utfall
+
+Marknadsandel (260) 12,4 12,4 16,2 14,9
+Antal resor (milj) 20,0 12,1 11,2 18,1 18,7 19,0 20,0 39,0
+Nöjdhet (960)
+
+e« Kund 59,6 61,5 55,0 59,5 62,4 60,2 65,0 80,0
+« Allmänhet 51,5 53,5 48,9 51,0 54,1 53,7 56,4 70,0
+e Senaste resan 80,5 78,8 78,2 79,2 80,5 76,0 82,7 90,0
+Självfinansieringsgrad 55,9 33,4 37,4 52,9 51,9 53,6 54,0 60,0
+(20)
+
+Fossilfria bränslen (90)" 99,6 99,8 100 100 100 100 100 100
+exklusive Krösatåg
+
+2022
+utfall
+
+2023 2024
+
+Figur 6. Nyckeltal övergripande måluppfyllnad, utfall 2019 - 2024
+
+3.2.1 MARKNADSANDEL
+
+Marknadsandelen, det vill säga andelen motoriserade resor som genomförs med
+kollektivtrafiken, minskade jämfört med 2023 och uppgick 2024 till 14,9 procent. Hallandstrafiken
+hade prognoser som indikerade en förväntad ökning under året, men denna uteblev. En
+bidragande orsak till minskningen är den förändrade mätmetoden som under 2024 fokuserade
+på en mer diversifierad respondentgrupp, där exempelvis fotgängare utgjorde en större andel än
+tidigare.
+
+20,096
+15,090
+10,096
+
+5,0960
+
+0,096
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+=— arknadsandel R12
+
+Figur 7. Kollektivtrafikens marknadsandel i Halland, 2011 - 2024
+
+<!-- sida 172 -->
+
+SIDA | 17
+
+Hallandstrafiken
+
+3.2.2 RESANDE
+
+Resandet ökade under 2024 och nådde 19 miljoner resor, vilket är en ökning med 1,8 procent
+jämfört med 2023. Bidragande faktorer till det ökade resandet kan kopplas till satsningar och
+förbättringar inom tåg- och busstrafiken. Resandets fördelning var 59,2 procent buss, 40,7
+procent tåg och mindre än 0,1 procent anropsstyrd trafik, vilket visar på en ökande andel
+bussresor jämfört med 2023.
+
+25000 000
+
+20000 000
+
+15000 000
+10000 000 | | | |
+
+5000 000
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Tåg Buss HBeställningstrafik/Närtrafik
+
+Figur 8. Antal resor per år och trafikslag
+
+TÅGTRAFIK
+
+Tågtrafiken i Halland omfattar Västkustbanan med Öresundståg, Västtåg Kungsbacka - Göteborg
+(Kungsbackapendeln), Västtåg Varberg - Göteborg (Hallandståg) samt Pågatåg. Utöver
+Västkustbanan trafikeras Halmstad-Nässjö järnväg med Krösatåg på sträckan Halmstad -
+Jönköping/Nässjö, och Viskadalsbanan trafikeras med Västtåg på sträckan Varberg - Borås.
+
+Faktorer som bidrog till en positiv utveckling av resandet i tågtrafiken under 2024 inkluderar
+
+ökad punktlighet, nya turer med Västtågen samt ett år med färre banarbeten jämfört med 2023.
+Under 2024 nådde tågtrafiken 7,8 miljoner tågresor, vilket är en ökning med 0,2 procent jämfört
+med 2023. Av dessa resor stod Öresundståg för 4,7 miljoner, vilket är 5,4 procent högre än 2023.
+
+Resandet med Västtåg mellan Kungsbacka och Göteborg (Kungsbackapendeln) har mätts med
+kundräkningssystem sedan 2017. Kundräkningssystemet innebär att sensorer i varje dörrpar
+räknar antalet på- och avstigande. Under 2024 genomfördes 2,4 miljoner resor med Västtågen
+mellan Kungsbacka och Göteborg, vilket är en minskning med 9,5 procent jämfört med 2023.
+
+<!-- sida 173 -->
+
+SIDA | 18
+
+Hallandstrafiken
+
+Även resandet med Västtågen mellan Varberg och Borås (Viskadalsbanan) mäts sedan 2017 med
+kundräkningssystem. Under 2024 uppgick resandet till 150 650 resor, en minskning med 7,4
+procent jämfört med 2023.
+
+Krösatåg på Halmstad - Nässjö järnväg nådde 126 413 resor under 2024, vilket är en minskning
+med 11,5 procent jämfört med 2023.
+
+Pågatåg uppnådde 92 781 resor under 2024, vilket är 18,3 procent högre än 2023. Ökningen
+beror på järnvägsarbetet mellan Ängelholm och Helsingborg som ägde rum 2023, vilket ledde till
+längre perioder av inställd tågtrafik.
+
+Västtågen Varberg - Göteborg (Hallandståg) uppgick till 303 088 resor under 2024, vilket är en
+ökning med 13,5 procent jämfört med 2023.
+
+92 781
+— 150 650
+
+2356 779 = Pågatåg
+s Viskadalbanan
+s Kungsbackapendeln
+s Hallandståget
+= Krösatåg
+
+4729 000 |
+s Öresundståg
+
+1.303 088
+126 413
+
+Figur 9. Fördelning av resor tågtrafik
+
+<!-- sida 174 -->
+
+SIDA | 19
+
+Hallandstrafiken
+
+BUSSTRAFIK
+
+Busstrafiken i Halland utförs av flera anlitade trafikföretag, där bussföretaget Nobina ansvarar
+för huvuddelen av resorna. Under 2024 uppgick resandet med busstrafik i Halland till strax under
+11,3 miljoner resor, vilket är en ökning med 2,9 procent jämfört med 2023. Av dessa 11,3 miljoner
+resor tillskrivs 5 miljoner resor regionbussar och 6,3 miljoner stadstrafik. Resandemängden
+varierar mellan kommunerna, där Halmstad står för en stor del av den totala busstrafiken
+
+156 337 327 751
+
+”
+2919 788 /
+
+Figur 10. Busstrafik, fördelning antal resor fördelat per kommun, 2024
+
+Hylte
+= Laholm
+
+Halmstad
+
+s Falkenberg
+
+Varberg
+
+Kungsbacka
+
+Inom Hallandstrafiken fördelas resandet mellan stadsbussar och regionbussar för att effektivt
+täcka olika transportbehov. Stadsbussarna erbjuder lokal service och optimala förbindelser inom
+tätorter, medan regionbussarna knyter samman olika delar av regionen för att möjliggöra
+smidiga resor över större avstånd. Denna fördelning möjliggör anpassning till olika resenärers
+behov och skapar ett mångsidigt kollektivtrafiksystem.
+
+Laholm Halmstad Falkenberg Varberg Kungsbacka
+
+Regionbuss 156 337 228 941 1051 543 618 842 695 981 P5
+Stadsbuss - 98 810 4 107 600 627 213 769 618 668 552
+Summa 156 337 327 751 5159 143 1246 055 1465 599 2919 788
+
+Figur 11. Busstrafik, region- och stadsbusstrafik fördelat per kommun, 2024
+
+<!-- sida 175 -->
+
+SIDA | 20
+
+Hallandstrafiken
+
+3.2.3 NÖJDHET
+
+Kollektivtrafikbarometern är en branschgemensam undersökning bland både allmänhet och
+kunder som används för att mäta kundnöjdhet. Med kunder avses de som använder
+kollektivtrafiken minst en gång i månaden, medan allmänheten inkluderar alla respondenter i
+Halland, både kunder och icke-kunder. Kollektivtrafiken i Kungsbacka kommun, där Västtrafik har
+utförandeansvar, ingår i bedömningen.
+
+För att skapa en långsiktigt hållbar och framgångsrik verksamhet är det avgörande att
+resenärerna inom kollektivtrafiken är nöjda. Hallandstrafiken arbetar kontinuerligt med att höja
+kvaliteten på reseupplevelsen genom att erbjuda tillförlitliga och effektiva tjänster. Faktorer som
+punktlighet, komfort, säkerhet och trygghet har direkt påverkan på kundupplevelsen och är
+därmed kritiska för att upprätthålla och öka nöjdheten.
+
+Under 2024 visar resultaten att 60,2 procent av kunderna är nöjda med Hallandstrafiken, medan
+53,7 procent av allmänheten är nöjda. Undersökningen avslöjar också att 75,7 procent av
+hallänningarna är nöjda med sin senaste resa. Här ser vi en påverkan av förändrad mätmetod
+med svarsalternativ som förändrats jämfört med 2023. En annan orsak till utfallet är den
+stundtals negativa publicitet som Hallandstrafiken haft under året, vilket har påverkat
+helhetsbilden av bolaget och minskat kundnöjdheten
+
+70,096
+60,096
+
+50,096 ——— Tr 7”
+I
+
+40,090
+
+30,096
+20,096
+10,096
+
+0,096
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+— 1 öjd allmänhet HALLAND Nöjd kund HALLAND
+
+Figur 12. Nöjdhet kund och allmänhet, 2011 - 2024
+
+<!-- sida 176 -->
+
+SIDA | 21
+
+3.2.4 SJÄLVFINANSIERINGSGRAD
+
+Kostnaderna för den allmänna kollektivtrafiken fördelas mellan resenärerna och Region Halland.
+Målet enligt det regionala trafikförsörjningsprogrammet är att trafikintäkterna ska utgöra minst
+60 procent av kostnaden för kollektivtrafiken, baserat på det totala utbudet av den allmänna
+kollektivtrafiken i Halland sett över en längre tidsperiod.
+
+Trafikintäkternas andel av trafikkostnaderna, självfinansieringsgraden, har under många år varit
+god i Halland och uppgick till 53,6 procent för 2024. Under pandemin påverkades
+Hallandstrafikens verksamhet kraftigt i form av minskat resande och biljettintäkter, samtidigt
+som produktionen fortsatte utifrån dess grundläggande samhällsfunktion för resor till skola eller
+arbete.
+En hög självfinansieringsgrad indikerar att utbudet är anpassat efter efterfrågan, det vill säga att
+trafiken utförs vid de tider då resbehovet är som störst.
+
+70,00%
+
+60,00%     57,2% 57,2%
+55,6% 55,9%
+53,5%          54,0%                   52,9%     53,6%
+51,9%
+50,00%
+40,00%                                   37,4%
+33,4%
+
+30,00%
+
+20,00%
+
+10,00%
+
+0,00%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Figur 13. Kollektivtrafikens självfinansieringsgrad, 2024 - 2024
+
+<!-- sida 177 -->
+
+SIDA | 22
+
+Hallandstrafiken
+
+3.2.5 MILJÖ
+
+För att uppnå de regionala och nationella klimatmålen är kollektivtrafiken av avgörande
+betydelse för att etablera ett hållbart transportsystem. Positiva effekter av hållbart resande
+inkluderar renare stadsmiljöer, mindre bilköer med minskade föroreningar och minskat buller.
+Hallandstrafiken arbetar aktivt mot målet om ett minskat klimatavtryck genom avtalskrav som
+främjar drivmedelsutvecklingen och övergången till fossilfria drivmedelsalternativ.
+
+Det finns risker relaterade till tillgänglighet och eventuella ändringar i skattetrycket på
+biodrivmedel, vilket kan påverka framtida kostnader. Hallandstrafiken strävar efter att fortsätta
+utvecklingen mot minskad miljöpåverkan genom att öka antalet resenärer, effektivisera resandet
+och investera i ny teknologi för att skapa en ännu mer hållbar kollektivtrafik.
+
+Mål Indikatorer/Uppföljning
+
+Kollektivtrafiken ska drivas med fossilfria bränslen Utsläppsnivåer - fordonsdatabas
+FRIDA
+
+Ökad elektrifiering inom busstrafiken Antal elbussar - fordonsdatabas
+FRIDA
+
+Energianvändning per km. (KWh/km) kwh/km - fordonsdatabas FRIDA
+
+Energianvändning per personkm (kWh/pkm) kwh/person km - fordonsdatabas
+FRIDA
+
+Energianvändning (MWh) Totalt MWh - fordonsdatabas FRIDA
+
+Figur 14. Mål och indikatorer för uppföljning
+
+10096 9696 10096 10096 100926 10096 10096 100926 10096
+8096
+8096 7696
+7296
+6096 5796
+4596
+
+4096 3740
+
+2596
+2096 |
+096
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Figur 15. Andel körda kilometer med fossilfria bränslen inom stad- och regionbusstrafik, 2010 - 2024
+
+<!-- sida 178 -->
+
+SIDA | 23
+
+4\. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
+
+4.1 PROCESS FÖR UPPRÄTTANDE AV KOLLEKTIVTRAFIKPLAN
+
+Utifrån de strategiska val och prioriteringar som finns i det regionala
+trafikförsörjningsprogrammet arbetar Hallandstrafiken årligen fram en Kollektivtrafikplan.
+Planens syfte är att beskriva hur Hallandstrafiken omsätter målen i trafikförsörjningsprogrammet
+i verksamheten, exempelvis genom trafikförändringar. En förutsättning för att skapa en attraktiv
+och hållbar kollektivtrafik är samverkan och samplanering där samhälls-, bebyggelse-,
+infrastruktur- och kollektivtrafikplanering går hand i hand. Framtagandet av Kollektivtrafikplanen
+sker i dialog med framför allt de halländska kommunerna, men även övriga relevanta aktörer så
+som Trafikverket och angränsande regioner och kommuner.
+
+Hallandstrafikens trafikplaneringsprocess utgår från Kollektivtrafikplanen, som utgör navet i
+utvecklingen av den halländska kollektivtrafiken. Kollektivtrafikens förmåga att anpassa
+verksamheten påverkas av långa ledtider. Trafikplaneringsprocessen sträcker sig över minst 1,5
+år, från det att arbetet påbörjas till tidigast genomförande av de beskrivna trafikförändringarna.
+Hallandstrafiken ansöker om tåglägen i april hos infrastrukturägaren Trafikverket för den
+tågtrafik som planeras genomföras från tidtabellsskiftet i efterföljande december. I trafikavtalen
+inom busstrafiken är ledtider främst förknippade med investeringar i fordon samt
+rekryteringsbehov. Med bakgrund i den långa tidsperioden krävs god framförhållning i samtliga
+delar av processen.
+
+4.2 MOBILITETSÅTGÄRDER
+
+Mobilitetsåtgärder är ett samlingsbegrepp för fysiska och beteendepåverkande åtgärder som
+möjliggör eller främjar ett hållbart resande. De beteendepåverkande åtgärderna syftar till att
+förändra resenärers attityder och beteenden genom mjuka åtgärder som påverkar resebeteende
+och val av färdsätt, såsom kampanjer och information. Syftet är att minska bilanvändandet
+genom att överflytta resande till gång, cykel och kollektivtrafik. Exempel på mobilitetsåtgärder
+inkluderar kampanjer för att främja gång, cykel och kollektivtrafik, informationskampanjer,
+prova-på-erbjudanden med mera. Det handlar även om att förenkla köpflöden i
+Hallandstrafikens försäljningskanaler och göra biljettsortimentet mer attraktivt.
+
+Genom att kombinera olika typer av mobilitetsåtgärder, både fysiska (såsom utökat trafikutbud
+och förbättringar i infrastrukturen) och beteendepåverkande, kan den totala effekten förstärkas
+jämfört med om åtgärderna genomfördes var för sig. Detta understryker vikten av samarbete
+och integrerad planering för kollektivtrafiken.
+
+PROVA-PÅ KAMPANJER
+Under 2025 har Hallandstrafiken valt att fokusera på Prova-på-kampanjer riktade till företag och
+deras anställda. Detta beslut har fattats efter en utvärdering av tidigare kampanjer som riktats
+mot utvalda bostadsområden, med målet att främja resor till och från arbetet. Tydliga riktlinjer
+
+har utarbetats för att fastställa de kriterier som måste uppfyllas för att en Prova-på-kampanj ska
+vara aktuell. Dessa kriterier har tagits fram för att säkerställa att alla företag behandlas lika och
+
+<!-- sida 179 -->
+
+SIDA | 24
+
+att inget specifikt företag premieras. Insatserna kommer att följas upp och utvärderas för att
+möjliggöra vidare utveckling.
+
+ERBJUDANDE NYINFLYTTAD
+Hallandstrafiken ser en potential i att erbjuda nyinflyttade möjligheten att prova kollektivtrafiken.
+
+Som nyinflyttad till Halland, eller en ny kommun, befinner man sig i ett förändringsfönster där
+man är mer öppen för nya sätt att göra saker och därmed mer mottaglig för olika
+mobilitetsåtgärder. Under 2025 påbörjades ett arbete med att göra utskick till nyinflyttade inom
+och till regionen. Om detta initiativ faller väl ut, kommer det att fortsätta även under 2026.
+
+FÖRETAGSFÖRSÄLJNING
+Hallandstrafiken erbjuder idag olika företagslösningar som företag och organisationer kan
+erbjuda sina anställda för att främja kollektivt resande, både i tjänsten och till arbetet. Befintliga
+kunder kommer att fortsätta bearbetas för att öka det kollektiva resandet inom företagen. Nya
+företag kommer att kontaktas för att erbjudas olika lösningar, såsom prova-på-kampanjer. En ny
+företagsportal kommer att lanseras för att underlätta för företagen att administrera sina biljetter.
+
+TILLGÄNGLIGGÖRA OCH SYNLIGGÖRA KOLLEKTIVTRAFIKEN
+
+Hallandstrafiken bedriver kontinuerligt olika påverkanskampanjer och informationsinsatser samt
+utvecklar både biljettsortiment och försäljningskanaler för att tillgängliggöra och synliggöra
+kollektivtrafiken och möjligheten att välja kollektivtrafiken framför bilen. För att öka
+kollektivtrafikens marknadsandel gentemot bilen behöver Hallandstrafiken satsa både på
+nyrekrytering av kunder och på att befintliga kunder använder kollektivtrafiken för fler resor i sin
+vardag. Hallandstrafikens erbjudande måste vara attraktivt, och fler behöver känna att de vill
+genomföra den livsstilsförändring som krävs för att bli kollektivtrafikresenärer. Hallandstrafiken
+riktar därför insatserna både mot att fler ska välja kollektivtrafiken för sina resor till arbete och
+skola, men även för sina fritidsresor.
+
+ENKLA BILJETTKÖP
+
+För att attrahera fler kunder samt få befintliga kunder att resa mer med kollektivtrafiken, arbetar
+Hallandstrafiken kontinuerligt med att förenkla och utveckla biljettsortimentet samt
+försäljningskanalerna. Biljettsortimentet ska vara enkelt och tydligt, och rabatterna ska vara raka
+och lätta att förstå. De biljetter som erbjuds ska passa både pendlare och sällanresenärer.
+Försäljningskanalerna ska ha enkla köpflöden och vara tillgängliga där behovet är som störst.
+Fokus ligger på Hallandstrafikens app, men även övriga försäljningskanaler ska vara väl
+anpassade efter kundernas behov.
+
+Resandet mellan regioner i södra Sverige ska ske sömlöst, och därför erbjuder Hallandstrafiken
+möjligheten att köpa biljetter till angränsande regioner och Danmark (sydtaxan). Syftet är att
+bidra till samhällsutvecklingen. Utgångspunkten är den framtagna branschgemensamma
+standarden BoB, som står för nationell biljett- och betalstandard och har utvecklats gemensamt
+av branschen och förvaltas av Samtrafiken.
+
+<!-- sida 180 -->
+
+Hallandstrafiken
+
+SIDA | 25
+
+4.3 TRAFIKFÖRÄNDRINGAR 2026
+
+När denna plan skickades ut på remiss var de ekonomiska förutsättningarna för 2026 ännu inte
+fastställda. Remissversionen av planen speglade en önskvärd utveckling, inklusive justeringar i
+trafikutbudet om närmare 10 miljoner kronor. Budgeten för verksamhetsåret 2026 beslutades av
+Regionfullmäktige i juni. Baserat på tilldelad budgetram och prognos, tillsammans med
+beaktande av kommunernas synpunkter, beskriver denna kollektivtrafikplan utökningar i
+trafikutbudet om drygt 5,5 miljoner kronor.
+
+De ekonomiska förutsättningarna har saknats för att genomföra vissa av de föreslagna
+trafikobjekten. Lista på trafikförändringar 2026:
+
+Objekt Kommentar
+
+Tågtrafik
+
+Hallandståg Varberg -
+Göteborg, fler avgångar
+vardagar och helger
+
+Västkustbanan är det högst prioriterade kollektivtrafikstråket i Halland och
+spelar en central roll i att förbinda städerna längs kusten. Satsningarna
+följer beskriven målbild för tågtrafikens utveckling.
+
+Öresundståg, utökade
+öppettider och förstärkt
+utbud
+
+Västkustbanan är det högst prioriterade kollektivtrafikstråket i Halland och
+spelar en central roll i att förbinda städerna längs kusten. Satsningarna
+följer beskriven målbild för tågtrafikens utveckling.
+
+Regionbusstrafik
+
+— | |
+Harplinge
+
+Obiet år
+
+Linje 325 Halmstad -
+Knäred - Markaryd
+
+Markarydsbussen är ett samplaneringsprojekt vilket till delar
+samfinansieras av Laholm och Halmstad kommun. Trafikutbudet ses över
+och anpassas inom befintlig budgetram.
+
+X3 Göteborg - Särö -
+Kullavik
+
+Åtgärden utgör en nödvändig och strategiskt motiverad satsning, grundad
+på ett ökat resande och en hög beläggningsgrad. Insatsen är därmed att
+betrakta som tvingande för att möta det växande behovet av
+kollektivtrafik.
+
+Ökat antal fordon - Södra
+Halland
+
+Åtgärden utgör en nödvändig och strategiskt motiverad satsning, grundad
+på ett ökat resande och en hög beläggningsgrad. Insatsen är därmed att
+betrakta som tvingande för att möta det växande behovet av
+kollektivtrafik.
+
+Stadsbusstrafik
+
+Justerad passning tåg vs
+
+Trafikobjektet förutsätter att kapacitetstilldelning av tåglägen sker genom
+
+Figur 16. Trafikförändringar 2026
+
+buss Varberg att Öresundstågen i båda riktningarna fortsatt möts i Varberg.
+
+Linje 2 Varberg, Objektet har ingen budgetpåverkan då objektet förutsätter infrastruktur
+förlängning till Pilgatan vilken inte bedöms vara färdigställd under 2026.
+
+K backa, utökad Obiel år.
+
+a id
+
+Ökat antal fordon - Åtgärden utgör en nödvändig och strategiskt motiverad satsning, grundad
+Halmstad på ett ökat resande och en hög beläggningsgrad. Insatsen är därmed att
+
+betrakta som tvingande för att möta det växande behovet av
+kollektivtrafik.
+
+<!-- sida 181 -->
+
+SIDA | 26
+
+4.3.1 OBJEKT 1 – TÅGTRAFIK
+
+HALLANDSTÅG
+
+BAKGRUND
+Hallandstrafiken trafikerar Västkustbanan med tåg i varierande hastigheter och med olika
+uppehållsmönster genom de tre tågsystemen Kungsbackapendeln (lokaltåg), Hallandståg
+(regiontåg) och Öresundståg (storregionala tåg). För att tågtrafiken ska uppfattas som attraktiv
+krävs korta restider, vilket är svårt att uppnå om samma tåg stannar vid alla stationer.
+Hallandstågen utgör regionaltågslinje längs Västkustbanan, i linje med intentionerna i det
+regionala trafikförsörjningsprogrammet. För närvarande kompletterar Hallandstågen
+Öresundstågen i norra Halland. Hallandstågen planeras trafikera genom Västlänken vid
+färdigställandet av etapp 2, samt inkludera tågstopp vid Åsa station och den planerade nya
+stationen i Väröbacka. Resandet har ökat kontinuerligt och produkten uppskattas av resenärerna.
+
+Sedan december 2021 stannar de genomgående Öresundstågen från Danmark i Åsa på lördagar
+och söndagar. Denna trafikering har varit en tillfällig lösning som har möjliggjorts av de
+tidsjusteringar i tidtabellen som Trafikverket nyttjat under byggnationen av Varbergstunneln. Den
+tillfälliga lösningen har inneburit en förlängd restid för de som reser till och från Varberg, medan
+restiden inte påverkats för de som stiger på söder om Varberg. Under 2025 kommer
+Varbergstunneln färdigställas vilket leder till kortare restider för de storregionala tågen och
+påverkar därför möjligheten för Öresundståg att stanna i Åsa. Med färdigställandet av ny
+infrastruktur och avskaffandet av tidstillägg ges möjlighet att minska restiderna för många orter i
+Halland till Göteborg och Köpenhamn/Malmö.
+
+SYFTE
+
+Syftet med objektet är att möta det ökade resbehovet längs Västkustbanan genom att diversifiera
+trafikutbudet och utveckla parallella tågsystem som möjliggör fler resmöjligheter för
+hallänningarna. Beskriven utökning syftar även till att uppnå det övergripande målet om ökat
+hållbart resande.
+
+TRAFIKFÖRÄNDRING
+Trafikförändring A. Tre nya avgångar per vardag och riktning föreslås mellan Varberg och
+Göteborg. Detta innebär en utökning från dagens sju turer per vardag och riktning till totalt tio
+dubbelturer. De nya turerna innebär förbättrade resmöjligheter i norra Halland, inklusive resor
+till och från Åsa station. Den föreslagna utökningen är en fortsatt satsning på att skapa det
+framtida regionaltågsystemet som kommer att trafikera genom Västlänken.
+
+Avgångstiderna anpassas efter resebehov och kommer primärt att genomföras genom förlängda
+öppettider för Hallandståget. Förändringen förväntas bidra med 120 000 nya resenärer per år.
+
+Trafikförändring B. Sju nya avgångar per helgdag och riktning föreslås mellan Varberg och
+Göteborg. Detta innebär en utökning jämfört med dagens trafikering med Hallandståg, som för
+närvarande endast sker under vardagar. De nya turerna innebär förbättrade resmöjligheter i
+norra Halland, inklusive resor till och från Åsa station. Den föreslagna utökningen är en fortsatt
+
+<!-- sida 182 -->
+
+SIDA | 27
+
+satsning på att skapa det framtida regionaltågsystemet som kommer att trafikera genom
+Västlänken.
+Med färdigställandet av ny infrastruktur på Västkustbanan kommer de tidstillägg som införts vid
+bygget av Varbergstunneln att omvandlas till förkortad restid på sträckan. Detta påverkar
+
+möjligheten för de Öresundståg som trafikerar från Danmark att stanna i Åsa på helgdagar. För
+att fortsatt möjliggöra utveckling och stärka kapaciteten på Västkustbanan avser Hallands-
+trafiken, tillsammans med Västtrafik, att utöka trafiken med Hallandståg. Förändringen förväntas
+bidra med 30 000 nya resenärer per år.
+
+ÖRESUNDSTÅG
+
+BAKGRUND
+
+I Halland utgör Västkustbanan stommen i kollektivtrafiken och spelar en avgörande roll för länets
+utveckling, både för arbets- och studiependling men även för fritidsresor. Resandet med
+Öresundstågen står för nästan 25 procent av det totala antalet resor inom Hallandstrafikens
+verksamhet, med en hög efterfrågan på tågresor både inom länet och över länsgränserna. Under
+2025 kommer Varbergstunneln att färdigställas, vilket kommer att innebära kortare restider för
+de storregionala tågen. Detta förväntas öka intresset för att resa med tåg och ytterligare bidra till
+en mer hållbar och effektiv kollektivtrafik.
+
+SYFTE
+Syftet med objektet är att möta det ökade resbehovet längs Västkustbanan och möjliggöra fler
+resmöjligheter. Projektet syftar även till att uppnå det övergripande målet om ökat resande.
+Hallandstrafiken, i samarbete med Västtrafik, föreslår att utöka utbudet med Öresundståg.
+
+TRAFIKFÖRÄNDRING
+
+En utökning föreslås genom ytterligare en avgång från Halmstad till Göteborg under
+vardagseftermiddagar runt 14.30. Den förväntade effekten av denna utökning är cirka 35 000 nya
+resenärer årligen.
+
+<!-- sida 183 -->
+
+SIDA | 28
+
+4.3.2 OBJEKT 2 – REGIONBUSSTRAFIK
+
+LINJE 331/350 HALMSTAD - HARPLINGE
+
+BAKGRUND
+
+I Kollektivtrafikplan 2023 beskrevs objekt 4, "Omfördelning Halmstad", som ett förenklat
+linjeupplägg till och från Harplinge. Korta turer mellan Harplinge och Haverdalsbro för byte
+avskaffades och ersattes av hela turer in till Halmstads centrum, samtidigt som antalet varianter
+av linje 330 minskades till en mer enhetlig lösning. De genomförda förändringarna påverkade
+trafiken under vardagar, inom linjens ordinarie öppettider. I kollektivtrafikplanen framhölls att
+dessa förändringar skulle betraktas som ett första steg mot en förenklad trafikstruktur i
+Harplinge, eftersom kvälls- och helgtrafik fortsatt utförs av linje 350.
+Linje 350 trafikerar idag Harplinge under kvällar och helger. Dock körs inte alla turer fram och
+tillbaka till Harplinge utan endast de turer vilka vänder i Skipås. Oavsett riktning kör linje 350
+samma sträckning genom Harplinge, vilket skapar otydlighet för resenärer. För att
+kollektivtrafiken ska bli mer attraktiv är det nödvändigt att restiderna är korta och att
+
+trafikeringen är lätt att förstå.
+
+Figur 17. Nuvarande linje 350 på kvällar och helger (på de turer som trafikerar Harplinge)
+
+<!-- sida 184 -->
+
+SIDA | 29
+
+SYFTE
+Syftet med trafikobjektet är att skapa en snabbare och rakare linjesträckning för samtliga turer
+på linje 350. Objektet bidar till att skapa ett tydligare och mer lättförståeligt trafikeringsupplägg
+för resor till och från Harplinge. Projektet syftar dessutom till att uppnå det övergripande målet
+
+om ökat resande och ökad marknadsandel genom att förbättra restidskvoten och göra
+kollektivtrafiken mer lättförståelig för resenärerna.
+
+TRAFIKFÖRÄNDRING
+Trafikförändring A. Skaftkörningen på linje 350 som krävs på grund av körvägen fram och
+
+tillbaka mellan Haverdalsbro och Harplinge tas bort till förmån för snabbare och genare resor till
+och från Haverdal/Steninge/Skipås på samtliga turer. Alla turer kommer därmed ha samma
+linjesträckning mellan Skipås och centrala Halmstad.
+
+Figur 18. Ny linjesträckning för samtliga turer på linje 350 kvällar och helger.
+
+<!-- sida 185 -->
+
+SIDA | 30
+
+Trafikförändring B. Eftersom linje 350 enligt förslaget inte kommer att trafikera inom Harplinge,
+ersätts området med en ny linje. Från Haverdalsbro in mot Halmstad kommer den nya linjen att
+ha samma linjesträckning som linje 350, det vill säga genom Flygstaden i stället för via Fammarp,
+
+Söndrum och Kattegattsgymnasiet.
+
+Figur 19. Ny linje 331 som trafikerar Harplinge kvällar och helger.
+
+Utbudet för resor mellan Harplinge och Halmstads centrum kommer i stora drag att motsvara
+dagens nivå. Tidtabellen kommer dock att anpassas för att undvika att bussar trafikeras samtidigt
+på den gemensamma sträckan till och från Haverdalsbro. På så sätt får Gullbrandstorp ett
+förbättrat utbud av snabba förbindelser in mot centrum via Flygstaden. En konsekvens av denna
+förändring är att resmöjligheterna norrut från Harplinge försämras. Resenärer kommer att
+behöva byta vid Haverdalsbro till linje 350, som enligt förslaget inte längre kommer att köra via
+Harplinge.
+
+<!-- sida 186 -->
+
+SIDA | 31
+
+LINJE 325 HALMSTAD – KNÄRED – MARKARYD (MARKARYDSBUSSEN)
+
+BAKGRUND
+I december 2022 inleddes ett treårigt projekt med utökat utbud på linje 325 mellan Halmstad och
+Markaryd. Utökningen innebar att antalet turer ökades från en tur per riktning till åtta turer per
+
+riktning, och dessa anpassades till stor del efter industrins skifttider i Markaryd. Syftet har även
+varit att skapa en mer attraktiv resmöjlighet i stråket med hänsyn till att tåg kommer att trafikera
+stråket från 2028. I projektet har Halmstads kommun, Laholms kommun, Markaryds kommun
+och näringslivet i Markaryd varit delaktiga genom delfinansiering. Länstrafiken Kronoberg och
+Hallandstrafiken har gemensamt ansvarat för genomförandet av trafiken. Projektet avslutas
+formellt i december 2025.
+I december 2027 beräknas Pågatåg förlängas och trafikera sträckan Halmstad till Markaryd med
+uppehåll i Veinge och Knäred. Under de två åren mellan projektslutet för regionbuss 325 och
+trafikstarten för Pågatågen kommer det därför att finnas en övergångsperiod mellan det
+uppbyggda utbudet och den planerade starten av tågtrafiken.
+
+SYFTE
+
+Syftet med detta trafikobjekt är att upprätthålla delar av det utökade utbudet av regionbuss 325
+tills tågtrafiken på järnvägen inleds. Objektets ambition är således att inte förlora delar av det
+ökade kollektivtrafikresandet som har skett i stråket under projekttiden.
+
+TRAFIKFÖRÄNDRING
+I samband med att projektet avslutas behöver både utbudsnivån och avgångstiderna ses över.
+Projektet behöver utvärderas och finansieringen utredas. Baserat på resultaten från
+projektutvärderingen och hur finansieringen ska hanteras, behöver utbudet och avgångstiderna
+anpassas efter resenärernas behov. I ett vidare perspektiv behöver även byten mellan bussar och
+tåg ses över inför trafikstarten av Pågatågen i december 2027.
+
+X3 GÖTEBORG – SÄRÖ - KULLAVIK
+
+BAKGRUND
+En av Västtrafiks expresslinjer, linje X3, trafikerar i delar av Kungsbacka kommun. Linjen trafikerar
+sträckan Gråbo - Göteborg - Kullavik och Särö längs med väg 158. Av linjens totala trafikering
+utförs ca 15 procent av produktionen inom Kungsbacka kommun. Linjen delar sig och kör vissa
+
+turer till Särö, vissa turer till Kullavik, vilket innebär att utbudet delas mellan dessa två
+ändstationer. När det erbjuds 15-minuterstrafik på linjen blir det exempelvis avgångar var 30:e
+minut i de respektive ändarna.
+
+SYFTE
+Syftet med objektet är att stärka resmöjligheterna i stråket 158 genom att göra kollektivtrafiken mer
+attraktiv och därmed minska bilberoendet även under helgdagar.
+
+<!-- sida 187 -->
+
+SIDA | 32
+
+TRAFIKFÖRÄNDRING
+Objektet innebär att utöka trafikeringen på linje X3 under helger. Utökningen innebär att både Särö
+och Kullavik erbjuds halvtimmestrafik under dagtid på lördagar och söndagar. Från Kullaviksvägen
+och norrut innebär detta således kvartstrafik. Utökningen gäller under dagtid mellan cirka klockan 10
+och fram till 18 både på lördagar och söndagar.
+
+ÖKAT ANTAL FORDON – SÖDRA HALLAND
+
+BAKGRUND
+Den nuvarande regionbussflottan som trafikerar huvudlinjerna i södra Halland består idag av 37
+fordon. Samtliga fordon är omloppsatta med turer på ett så optimerat sätt att nya turer, eller
+förstärkningsturer inte går att planera för under högtrafik.
+
+SYFTE
+
+Syftet med objektet är att skapa förutsättningar för att kunna omhänderta det resandebehov
+som finns i framför allt stråket Halmstad-Hyltebruk där fullsatta bussar är vanligt förekommande.
+
+TRAFIKFÖRÄNDRING
+Regionbussflottan utökas med 1 fordon. Fordonet kommer primärt att nyttjas under högtrafik för
+att stärka upp de turer där beläggningen är hög och det är vanligt förekommande att bussarna
+blir fullsatta.
+
+<!-- sida 188 -->
+
+SIDA | 33
+
+4.3.3 OBJEKT 3 – STADSBUSSTRAFIK
+
+JUSTERAD PASSNING MELLAN TÅG OCH BUSS I VARBERG
+
+BAKGRUND
+För att skapa bästa möjliga förutsättningar för kollektivtrafiken är det viktigt att anamma ett ’Hela
+resan’-perspektiv. Detta innebär att planera för resenärens hela resa – från dörr till dörr –
+snarare än att enbart fokusera på den enskilda sträckan med exempelvis buss, tåg eller annat
+kollektivt färdmedel. Därför är det avgörande att byten mellan olika färdmedel sker smidigt och
+användarvänligt, oavsett om det handlar om byten mellan tåg och buss eller mellan olika
+busslinjer.
+
+Denna planeringsprincip stipuleras i Hallands regionala trafikförsörjningsprogram, där vikten av
+att utforma tidtabellerna utifrån taktfasta intervaller med avgångar på samma minuttal varje
+timme, också beskrivs. Detta skapar en enkelhet och tydlighet för resenärerna. Vid Varbergs
+station är våra stadsbusshuvudlinjer kopplade till tågens ankomst- och avgångstider. Vid de tider,
+när Öresundstågen körs med två tåg per timme och riktning (halvtimmestrafik), är utbudet med
+stadsbussarna fyra avgångar per timme (kvartstrafik). Vid de tider Öresundstågen körs med ett
+tåg per timme och riktning (timmestrafik) är utbudet med stadsbussarna två avgångar per timme
+(halvtimmestrafik).
+Under morgon- och eftermiddagstimmarna när utbudet är som högst, med halvtimmestrafik i
+
+båda riktningarna för tågen och kvartstrafik för bussarna, fungerar bytena i alla reserelationer
+bra – från buss till tåg respektive från tåg till buss – oavsett om du reser norrut eller söderut. Men
+– i lågtrafik - mitt på dagen och under kvällstid, är bytestiderna för vissa reserelationer längre.
+Det är komplext att möjliggöra fungerande byten mellan ett ankommande tåg söderifrån och ett
+ankommande tåg norrifrån, samtidigt som stadsbussarna ankommer och avgår med ett
+mellanrum om trettio minuter. Idag är stadsbussarnas tidtabell prioriterad så att de som åker till
+tågen har en kortare väntetid på bekostnad av att de som ankommer till Varbergs station och ska
+åka vidare med stadsbussarna får vänta längre.
+
+Utifrån perspektivet att många Varbergsbor ankommer till Varbergs station med tåget under
+kvällstid, för att åka vidare med buss, finns det anledning att se över stadsbussarnas tidtabell
+under kvällen och vrida tidtabellen så att de som vill åka från tågen har en kortare väntetid. Detta
+skulle i så fall bli på bekostnad av att de som ska åka tåg från Varbergs station får vänta längre.
+En sådan typ av förändring innebär således att en viss reserelation prioriteras högre med bättre
+hela resan-perspektiv, samtidigt som det innebär ett avsteg från principen om att tidtabellerna
+ska utformas med taktfasthet.
+
+SYFTE
+Syftet med objektet är att omprioritera reserelationen under kvällstid vid Varbergs Station och
+utgå från ett hela resan-perspektiv för de som ankommer med tåg till Varberg och sedan ska
+fortsätta sin resa med buss.
+
+<!-- sida 189 -->
+
+SIDA | 34
+
+TRAFIKFÖRÄNDRING
+Förändringen innebär att under kvällstid vrida tidtabellen för stadsbusslinjerna 1 och 2, så de
+bättre samspelar med ankommande tåg till Varberg Station. Förändringen innebär att en extra
+tur per linje och riktning läggs till utbudet för att täcka det glapp som uppstår vid själva
+
+vridningstillfället. Trafikobjektet förutsätter att kapacitetstilldelning av tåglägen sker genom att
+Öresundstågen i båda riktningarna fortsatt möts i Varberg.
+
+FÖRLÄNGNING AV LINJE 2 VARBERG
+
+BAKGRUND
+Trönningebjär är ett område med cirka 400 bostäder, beläget strax nordost om Varbergs stad.
+Området är expansivt och förväntas utökas successivt. I närheten av området finns hållplats
+Pilgatan, som ligger cirka 1 km från hållplats Trönninge där stadsbuss 2 vänder. Under nuvarande
+förutsättningar finns det ingen möjlighet att förlänga linjen till Pilgatan, då detta skulle äventyra
+tidhållningen och robustheten i systemet. När Varbergs nya resecentrum tas i bruk och centrala
+vägar till och från resecentrumet får ökad framkomlighet, förändras förutsättningarna och den
+tidsvinst som infinner sig möjliggör den önskade förlängningen av stadsbusslinje 2 till Pilgatan i
+Trönninge.
+
+SYFTE
+
+Syftet med objektet är följa kommunens samhällsutveckling och expandering genom att
+tillgodose ett resandebehov vid ytterkanterna av Varbergs stadskärna. Detta ger tillgång till bra
+stadsbusstrafik med koppling till centrum, vårdinrättningar, affärer och nöjen vilket också ger
+större möjligheter till arbets- och studiependling.
+
+TRAFIKFÖRÄNDRING
+Linje 2, som trafikerar mellan Erlandsgården och Trönninge via sjukhuset och bussterminalen,
+förlängs cirka 1 km från Trönninge till området Trönningebjär, där den vänder för att erbjuda
+boende i området närhet till god stadstrafik i ett starkt stråk. Objektet kan först tas i bruk när
+stadsbusslinje 2 kan trafikera vägar i anslutning till Varbergs nya resecentrum, såsom Västra
+
+Vallgatan och Birger Svenssons väg. Förlängning av stadsbusslinje 2 kräver även vändmöjlighet
+samt att reglering kan genomföras i anslutning till hållplats Pilgatan.
+
+UTÖKADE ÖPPETTIDER, KUNGSBACKA
+
+BAKGRUND
+För att skapa bästa möjliga förutsättningar för kollektivtrafiken är det viktigt att anamma ett 'Hela
+resan'-perspektiv. Detta innebär att planera för resenärens hela resa – från dörr till dörr –
+snarare än att enbart fokusera på den enskilda sträckan med exempelvis buss, tåg eller annat
+kollektivt färdmedel. Därför är det avgörande att byten mellan olika färdmedel sker smidigt och
+användarvänligt, oavsett om det handlar om byten mellan tåg och buss eller mellan olika
+busslinjer.
+
+Att kollektivtrafiken är attraktiv är viktigt för att minska bilberoendet. Detta är dels för att minska
+belastningen på vägar och minska trängsel, dels för att öka rörligheten för människor som av
+
+<!-- sida 190 -->
+
+SIDA | 35
+
+olika anledningar har kollektivtrafiken som främsta transportmedel. För att möta behoven inom
+detta perspektiv behöver stadsbusstrafikens huvudlinjer i stort sett ha samma öppettider som
+tågtrafiken. I dagsläget saknas det främst under kvällstid anslutande bussavgångar i samband
+med tågens ankomst- och avgångstider. De huvudlinjer som redan har en tydlig koppling till
+tågen – exempelvis linje 1 i Falkenberg och linje 1 i Laholm – har idag öppettider som matchar
+tågtrafiken. Övriga huvudlinjer inom stadsbusstrafiken avslutar däremot sina turer tidigare än
+tågtrafiken, vilket skapar brister i anslutningarna.
+
+I Kungsbacka uppstår det idag tidsluckor mellan stadsbusslinjernas öppettider och tågens
+avgångar. Exempelvis slutar bussarna gå cirka två timmar innan sista tåget går under vardagar,
+medan luckorna är ännu större under helgdagar. För att tillgodose likställda öppettider inom
+stadsbusstrafiken och tågtrafiken krävs en utökning av utbudet. Ett första steg mot att likställa
+trafikslagen gjordes inför trafikår 2024 och beskrevs i Kollektivtrafikplan 2024
+
+SYFTE
+Syftet med detta objekt är att förlänga öppettiderna för stadsbusstrafikens huvudlinjer i
+Kungsbacka, så att de anpassas efter tågens ankomst- och avgångstider utmed Västkustbanan.
+Detta möjliggör en smidig 'hela-resan'-upplevelse för kollektivtrafikresenärer.
+
+Objektet syftar även till att utöka trafikutbudet på helger, med målet att erbjuda kollektivtrafik i
+stadsbusstråk under stora delar av trafikdygnet. Detta bidrar till att minska belastningen på vägar
+och minska trängsel, samt öka rörligheten för människor som av olika anledningar har
+kollektivtrafiken som främsta transportmedel.
+
+TRAFIKFÖRÄNDRING
+Förändringarna i detta objekt är specifika för Kungsbacka stadsbusstrafik och innebär en
+utökning i form av sex dubbelturer måndag till fredag, åtta dubbelturer på lördagar och sex
+dubbelturer på söndagar.
+
+UTÖKAT ANTAL FORDON – HALMSTAD
+
+BAKGRUND
+Den nuvarande stadsbussflottan som trafikerar Halmstad stad består av 44 fordon. Samtliga
+fordon är omloppsatta med turer på ett så optimerat sätt att nya turer, eller förstärkningsturer
+inte går att planera för under högtrafik. De starkaste linjerna, framför allt linje 3 är högt belastad
+och turer blir återkommande fullsatta.
+
+SYFTE
+
+Syftet med åtgärden är att skapa förutsättningar för att kunna tillgodose det resandebehov som
+finns, framför allt på linje 3 där fullsatta bussar är vanligt förekommande.
+
+TRAFIKFÖRÄNDRING
+Stadsbussflottan utökas med två fordon. Dessa fordon kommer primärt att användas under
+högtrafik för att förstärka de turer där beläggningen är hög och det är vanligt att bussarna blir
+fullsatta, med effekten att antalet resmöjligheter längs linjen ökar.
+
+<!-- sida 191 -->
+
+SIDA | 36
+
+4.4 TRAFIKFÖRÄNDRINGAR 2027 – 2030
+
+De trafikförändringar som beskrivs i Kollektivtrafikplanen har ett femårigt perspektiv.
+Förändringar i trafiken som kommer att ske under det kommande året, 2026, har redogjorts för i
+föregående avsnitt. Detta avsnitt ger en vidare utblick mot trafikförändringar och
+trafikpåverkande förutsättningar för åren 2027 till 2030.
+
+4.4.1 BEHOV AV FORTSATT UTBYGGD TÅGTRAFIK
+
+För att uppnå målet om en ökad marknadsandel krävs en fortsatt utbyggnad av tågtrafiken. Det
+finns en betydande potential i att attrahera nya kunder som idag använder vägtrafiken längs E6.
+Förvaltningen identifierar ett behov av en större diversifiering av tåg med olika hastigheter och
+uppehållsmönster, i linje med intentionerna i det regionala trafikförsörjningsprogrammet.
+Genom att erbjuda parallella trafiksystem skapas regionala fördelar i form av restidsvinster för
+de storregionala Öresundstågen, samtidigt som fler avgångar kan erbjudas med de lokala och
+regionala tågsystemen.
+
+PLANERINGSFÖRUTSÄTTNINGAR JÄRNVÄG
+Betydande investeringar i järnvägssystemet genomförs, och för att maximera nyttan av dessa
+investeringar krävs en utveckling av tågtrafiken. Under den aktuella perioden kommer följande
+projekt att ha stor inverkan på möjligheterna att utveckla tågtrafiken:
+
+•  Varberg – Hamra (Varbergstunneln) – juli 2025
+•  Västlänken, med färdigställandet av Etapp 1 – december 2026
+•  Markarydsbanan, med nya stationer i Veinge och Knäred – december 2027
+
+Ett arbete med ombyggnation av bangården i Halmstad planeras till 2029–2030. Förberedande
+arbeten kan påbörjas dessförinnan, vilket kan reducera kapaciteten på delar av Västkustbanan.
+Därutöver förväntas arbetet med ny station i Värö påbörjas, nytt vändspår i Båstad, samt
+byggnation av förbigångsspår i Lekarekulle och i Brännarp.
+
+ÖRESUNDSTÅG
+
+Den storregionala Öresundstågstrafiken planeras successivt byggas ut med fler avgångar, med
+målsättningen att skapa genomgående halvtimmestrafik på sträckan mellan Köpenhamn/Malmö
+och Göteborg. Insatstågen mellan Göteborg och Halmstad kommer att kopplas ihop med de
+insatståg som redan idag trafikerar mellan Köpenhamn/Malmö och Helsingborg.
+Uppskattningsvis finns det förutsättningar att koppla ihop fyra till fem turer under morgonens
+högtrafik, och lika många under eftermiddagen. En förutsättning för detta är att Skånetrafiken
+tillsammans med Hallandstrafiken har utrymme för kostnadsutökning för sin andel av trafiken.
+
+<!-- sida 192 -->
+
+SIDA | 37
+
+HALLANDSTÅG
+Inför och i samband med färdigställandet av Västlänkens etapp 1 planeras, i samarbete med
+
+Västtrafik, fler avgångar med regiontåg på sträckan mellan Varberg och Göteborg. Till år 2027
+förväntas den första etappen av Västlänken vara färdigställd.
+De nämnda Västtågen inkluderar tågstopp i Åsa, samtidigt som tågsystemet är en förutsättning
+för trafikering av den nya stationen i Värö. För att kunna erbjuda attraktiva öppettider från
+klockan 05:00 på morgonen till sen kväll klockan 23:00, behövs sex till åtta ytterligare turer per
+riktning utöver det utbud som beskrivs i Kollektivtrafikplanen 2026. Denna utveckling är i linje
+med hur tågtrafiken planeras att byggas ut enligt det regionala trafikförsörjningsprogrammet.
+Utvecklingen beskrivs även av Västtrafik i "Handlingsplan tåg 2028", vilket är en del av Västra
+Götalands "Målbild tåg 2035".
+
+PÅGATÅG
+Arbetet med införandet av Pågatågstrafik på Markarydsbanan fortskrider. Trafikverket avser att
+påbörja arbeten med ett nytt mötesspår och plattformar i Knäred samt nya plattformar i Veinge
+under 2026, med färdigställande till december 2027 (T28).
+
+Region Halland har genom antagande av tidigare Åtgärdsvalsstudie (ÅVS) och avsiktsförklaringar
+åtagit sig att starta persontågstrafiken när infrastrukturåtgärderna är genomförda.
+Hallandstrafiken har inlett samarbeten med grannregionerna för att säkerställa en trafikstart
+med timmestrafik inom Tågplan 2028.
+
+VISKADALSBANAN
+
+Då resande ökar i stråket Varberg – Borås finns fortsatt potential att utveckla trafiken med att öka
+öppettiderna genom konsolidering av resurserna till att tågtrafiken prioriteras på den halländska
+sidan av banan. Åtgärder planeras för gemensamt genomförande med Västtrafik under 2027.
+Infrastrukturåtgärder genomförs kontinuerligt för att höja hastighet och målbild om en timmes
+restid mellan Varberg och Borås är fortsatt fullt möjlig att nå.
+
+4.4.2 BEHOV AV FORTSATT UTBYGGD BUSSTRAFIK
+
+STABILITET OCH LÅNGSIKTIGHET I KOLLEKTIVTRAFIKEN
+För att skapa goda förutsättningar för kollektivtrafiken behöver den betraktas ur ett hela resan-
+perspektiv. Detta innebär att planera för resenärens resa från dörr till dörr, snarare än att enbart
+fokusera på den enskilda resan med buss, tåg eller annat kollektivt färdmedel.
+
+För invånarna är det avgörande att känna till vilken typ av kollektivtrafik som kan förväntas och
+att trafikeringen präglas av både stabilitet och långsiktighet. Det regionala
+trafikförsörjningsprogrammet identifierar och klassificerar kollektivtrafikstråk för att tydliggöra
+
+<!-- sida 193 -->
+
+SIDA | 38
+
+Hallandstrafiken
+
+skillnader i trafikutbudet. Att tydligt peka ut de kollektivtrafikstråk som kommer att trafikeras
+under överskådlig framtid innebär ett viktigt åtagande från Region Hallands sida.
+
+Trafikslag Klassificering Utbud
+Stadsbuss Mycket starka stråk 54 turer per vardag och riktning
+Stadsbuss Starka stråk 28 turer per vardag och riktning
+Regionbuss Mycket starka stråk 24 turer per vardag och riktning
+Regionbuss Starka stråk 18 turer per vardag och riktning
+
+Figur 20. Inriktning trafikutbud enligt regionalt trafikförsörjningsprogram 2021 - 2025
+
+Västkuststråket är det högst prioriterade kollektivtrafikstråket i Halland, där tågtrafiken på
+Västkustbanan utgör ryggraden i det hållbara resandet. För att möjliggöra en effektiv och smidig
+reseupplevelse längs hela Västkuststråket är det därför viktigt att buss- och tågtrafiken är
+synkroniserade med varandra. Detta innebär att både region- och stadsbusstrafiken i möjligaste
+mån anpassas till tågens ankomst och avgångar på Västkustbanan.
+
+4.4.3 PLANERING INFÖR UPPHANDLING AV BUSSTRAFIK
+
+De nuvarande avtalen med våra trafikföretag för busstrafiken löper ut inom utblicksperioden,
+vilket innebär att en ny upphandling behöver genomföras med trafikstart i juni 2030. För att
+säkerställa en så kostnadseffektiv trafik som möjligt måste nya förutsättningar för busstrafiken
+inkluderas i upphandlingsskedet.
+
+Som en del av förberedelserna krävs omfattande översyner, exempelvis:
+
+e - Stadsbusstrafiken i Falkenberg: Utvärdering och justeringar av trafikupplägg och
+linjestruktur.
+
+e - Stadsbusstrafiken i Halmstad: Analyser av möjligheter och förutsättningar för att införa
+mer kapacitetsstarka bussar för att hantera ökade resenärsvolymer och effektivisera
+trafiken.
+
+STADSBUSSTRAFIK HALMSTAD - LÄNGRE BUSSAR PÅ HUVUDLINJER
+
+Enligt Framtidsplan 2050, Halmstads kommuns översiktsplan, planeras kommunen växa med 23
+000 nya bostäder till år 2050. En central förutsättning för denna tillväxt är att en ökad andel av
+invånarna väljer att gå, cykla eller åka kollektivt, enligt kommunens plan för transportsystemet.
+Samtidigt har Region Halland satt som mål att kollektivtrafikens marknadsandel ska nå 30
+procent år 2030. För att hantera den förväntade befolkningsökningen och bidra till målet krävs
+en fortsatt utveckling av stadsbusslinjenätet i Halmstad.
+
+Resandet på huvudlinjerna i Halmstads stadsbusstrafik har haft en stabil och positiv utveckling
+över tid. Detta har dock lett till kapacitetsbrist, särskilt på huvudlinje 3, där hög beläggning
+
+<!-- sida 194 -->
+
+SIDA | 39
+
+uppstår under vissa delar av trafikdygnet. Dessa toppar är svåra att prognostisera eftersom
+resandetrycket varierar i tid, vilket försvårar åtgärder som att sätta in extra bussar vid rätt
+tillfällen. En långsiktig och effektiv lösning på kapacitetsbristen är att införa längre och mer
+kapacitetsstarka fordon. Idag är standardbussarna ca 12 meter, men mer kapacitetsstarka
+fordon – ledbussar – är 18 meter. Hallandstrafiken har, tillsammans med Halmstads kommun,
+genomfört testkörningar med 18 meter långa ledbussar. Resultatet visar att det är möjligt att
+införa dessa mer kapacitetsstarka bussar på huvudlinje 3. För att möjliggöra en smidig övergång
+till ledbussar krävs att Hallandstrafiken och kommunen samarbetar för att säkerställa
+kollektivtrafikens framkomlighet och genomföra nödvändiga anpassningar av hållplatser och
+annan infrastruktur.
+
+NY BUSSDEPÅ I HALMSTAD
+
+Den nuvarande bussdepån i Halmstad har överskridit sin funktionella livslängd och har nått sitt
+kapacitetstak. Den befintliga depåns yta klarar av dagens trafikutbud i Halmstad, men saknar
+kapacitet att utöka trafiken med fler och längre fordon. Förutsättningar för en ny bussdepå
+utreds för närvarande, och det har konstaterats att en ny depå behöver kunna hantera fler och
+längre fordon. När förvaltningen har rådighet över bussdepåer skapas konkurrensneutrala villkor
+för trafikföretagen i anbudsskedet, vilket bedöms återspeglas i anbudens prisnivåer. En ny,
+trafiknära belägen bussdepå är således en viktig förutsättning för att kunna utveckla trafiken i
+Halmstad och möta framtida resebehov.
+
+REGIONBUSSTRAFIK KUNGSBACKA – LÄNGRE BUSSAR PÅ HUVUDLINJER
+
+Nästan hälften av alla resor med regionbusstrafiken i Halland sker i Kungsbacka. Behovet av
+anslutning till och från Kungsbacka tätort samt koppling till tågen mot Göteborg är stort och
+fortsätter att växa. Kungsbacka är en kommun med många mindre tätorter som behöver kopplas
+till centrum och stationen, vilket med tiden har lett till kapacitetsproblem med många stående
+passagerare och till viss del frånåkta resenärer.
+En effektiv åtgärd mot kapacitetsbrist är att använda längre och mer kapacitetsstarka bussar.
+Fordonslängden på dagens bussar är cirka 15 meter. Hallandstrafiken har tillsammans med
+
+Västtrafik genomfört en testkörning med ledbussar på linjerna 731 och 734. Sträckor som
+omfattas är centrala delar av Kungsbacka tätort, väg 158, Valldavägen, Gathes väg samt
+Onsalavägen. Utifrån dagens förutsättningar bedöms det vara möjligt att införa mer
+kapacitetsstarka bussar på linje 731 och 734. Behov av ombyggnation av vissa hållplatser
+noterades vid provkörningen. Hallandstrafiken behöver tillsammans med kommunen och
+Trafikverket säkerställa kollektivtrafikens framkomlighet för ledbussar om 18 meter längs linje
+731 och 734.
+Kungsbacka kommun och Hallandstrafiken har under 2023 i samverkan låtit utreda frågan om
+kollektivtrafikens framkomlighet i Kungsbacka stad. I utredningen konstateras att
+framkomlighetsproblem som orsakas av ökade trafikflöden inte kan lösas genom att öka
+kapaciteten för biltrafiken, då detta endast skulle möjliggöra ytterligare trafikökning och att nya
+platser med långa köer uppstår eller förflyttas. I verkligheten skulle kapacitetsbrister troligtvis
+begränsa trafikökningen, antingen genom val av andra färdmedel, andra tidpunkter för resan
+
+<!-- sida 195 -->
+
+SIDA | 40
+
+eller andra färdvägar. Genom att skapa förutsättningar för ett mycket attraktivt alternativ till
+bilen ges också förutsättningar för trafiksystemet att hantera fler resenärer. Detta är en grund för
+att begränsa ökningen av biltrafiken trots att antalet invånare ökar. Samtidigt medför varje
+överflyttning från bil till buss att trafiksystemet avlastas.
+
+REGIONBUSSTRAFIK - VEINGE OCH KNÄRED
+
+Med ett nytt mötesspår i Knäred möjliggörs persontrafik på Markarydsbanan i timmestrafik
+mellan Halmstad och Hässleholm. Projektet, som inkluderar mötesspåret i Knäred samt
+perronger i Knäred och Veinge, ingår i den beslutade nationella planen. Laholms kommun har
+åtagit sig att skapa attraktiva och funktionella miljöer för resandeutbyte i både Veinge och
+Knäred. Detta inkluderar anpassning av hållplatser och infrastruktur för att underlätta för
+resenärerna.
+När Markarydsbanan öppnas för persontrafik är det viktigt att busslinjenätet och utbudet i
+stråket ses över och anpassas. Målet är att optimera anslutningar och service för att möta
+resenärernas behov, i enlighet med de principer som fastställts i det regionala
+trafikförsörjningsprogrammet. Genom en integrerad planering kan kollektivtrafiken i området bli
+både effektivare och mer attraktiv för invånarna. Inriktningen med hänsyn till persontågtrafik på
+
+Markarydsbanan är att linje 324 justeras för att passa tågavgångarna i Veinge, alternativt
+införandet av en ny linje som trafikerar Veinge-Laholm med uppdrag att passa tåg. Linje 325 och
+linje 223 förutsätts avvecklas.
+
+REGIONBUSSTRAFIK – VÄRÖ STATION
+Norra Halland är en attraktiv boplats där fler människor vill bosätta sig. Med sin närhet till
+Göteborg kommer en järnvägsstation i Värö att öka attraktiviteten ytterligare. Värö station
+anläggs för att tillgodose utvecklingen av fler bostäder och verksamheter, vilket ökar
+attraktiviteten på Väröhalvön och i de norra delarna av Varbergs kommun. Enligt den nationella
+planen förväntas järnvägsstationen öppnas mellan 2028 och 2033, och den kommer att bli ett
+nav för kollektivtrafiken i området med en naturlig matning till tåget.
+
+Utbudet på den nya regionaltågslinjen planeras vara halvtimmestrafik under högtrafik och
+timmestrafik under resten av dagen, vilket blir möjligt först när Västlänken är färdigställd. I
+samband med öppnandet av Värö station behöver linjenätet och utbudet i stråket ses över och
+anpassas på bästa sätt för att möta kundernas resbehov.
+
+NY LINJE LAHOLM – MELLBY INDUSTRIOMRÅDE OCH SKOTTORP/HAGA
+
+Nya områden växer fram i Laholm, inklusive ett nytt verksamhetsområde och det större
+bostadsområdet Haga vid Skottorp. I området där den nya verksamhetsmarken ska ligga finns
+ingen kollektivtrafik idag. Dessutom är läget sådant att en befintlig linje inte kan försörja området
+på ett tillfredsställande sätt genom linjedragningsförändring. I samband med utbyggnaden av
+Skottorp kommer det att finnas behov av ett utökat utbud av resmöjligheter från orten. En ny
+linje längs väg 518 kan tillgodose båda dessa behov.
+
+<!-- sida 196 -->
+
+SIDA | 41
+
+5\. SÄRSKILD KOLLEKTIVTRAFIK
+
+5.1 FÄRDTJÄNST, SJUKRESOR OCH SKOLSKJUTS MED PERSONBIL
+
+Särskild kollektivtrafik är en form av kollektivtrafik som tillhandahålls resenärer baserat på
+myndighetsbeslut eller reglemente. Hallandstrafiken ansvarar, på uppdrag av de halländska
+kommunerna och Region Halland, för samordning och utveckling av skolskjuts, färdtjänst och
+sjukresor. Uppdraget omfattar huvudsakligen upphandling, planering och hantering av avtal och
+affärsverksamhet samt driftrelaterade frågor med kontrakterade trafikföretag och intressenter.
+
+Hallandstrafiken tillhandahåller även en beställningscentral för färdtjänst för samtliga kommuner
+och för sjukresor i hela Halland. Dessutom fungerar Hallandstrafiken som myndighetsutövare
+enligt lagen om färdtjänst och riksfärdtjänst för alla kommuner i Halland, med undantag för
+Kungsbacka kommun. Den särskilda kollektivtrafiken syftar till att skapa synergier som annars
+skulle vara svåra att uppnå om uppdragen hanterades separat, både inom den särskilda
+kollektivtrafiken och i samverkan med den allmänna kollektivtrafiken.
+
+Serviceresor utför huvudsakligen uppdrag inom den särskilda kollektivtrafiken, men även en
+mindre andel inom den allmänna kollektivtrafiken som är tillgänglig för alla genom Närtrafik och
+Beställningstrafik. Gemensamt för samtliga resor är att de samplaneras med övrig anropsstyrd
+trafik för att uppnå den mest kostnadseffektiva lösningen. Den sociala och ekonomiska
+hållbarheten i dessa transporter är av stor betydelse, vilket innebär ett starkt fokus på trygga,
+säkra och kostnadseffektiva resor.
+
+5.1.1 PLANERINGSFÖRUTSÄTTNINGAR
+
+ALLT FLER ÄLDRE KOMMER BEHÖVA FÄRDTJÄNST OCH SJUKRESOR
+
+Hallandstrafiken noterar att den demografiska utvecklingen i Halland, vilket återspeglas i hela
+landet, innebär en ökande andel äldre personer i samhället som kommer att ta i anspråk en
+större del av samhällets resurser i form av vård och omsorg. Även inom Serviceresor kommer
+behovet av färdtjänst i samtliga kommuner att öka, vilket innebär en utmaning ur ett socialt och
+ekonomiskt hållbarhetsperspektiv. För att möta den ökade efterfrågan på serviceresor behöver
+Hallandstrafiken hitta vägar för att ytterligare effektivisera och samplanera resenärer i högre
+grad än tidigare. En viktig del i detta är fortsatt dialog och samverkan med kommuner och
+verksamheter för att uppnå högre effektivitet.
+I samband med att Kungsbacka kommun den 1 april 2025 lämnar över uppdraget för
+beställningscentral till Hallandstrafiken, ökar därmed förutsättningarna för en högre grad av
+
+samplanering av serviceresor.
+
+<!-- sida 197 -->
+
+SIDA | 42
+
+FÖRARBRIST
+Förarbristen inom Serviceresor utgör en betydande utmaning som observeras i hela Sverige.
+
+Detta problem har uppmärksammats av branschrådet Svensk Kollektivtrafik, som aktivt söker
+samverkan med berörda myndigheter för att identifiera nya strategier för att attrahera fler
+individer till yrket. Trots att ökade kostnader för förare och fordon kan accepteras, kvarstår
+utmaningen att rekrytera förare inom ramen för trafikavtalen. Arbetet med att bibehålla och
+rekrytera förare till branschen måste hanteras kontinuerligt, oavsett ekonomiska konjunkturer.
+
+KOSTNADSUTVECKLING
+Kostnadsutvecklingen inom Serviceresor påverkas huvudsakligen av tre faktorer: anbudspriserna
+vid upphandling av trafik, indexering av trafikavtalen – vilket starkt påverkas av fluktuationer i
+drivmedelspriser och löner – samt resandeutvecklingen.
+
+De nuvarande avtalen, som trädde i kraft i juli 2023, har haft en avsedd effekt på kostnadsbilden
+för serviceresor, med en upphandlingseffekt på cirka -10 procent i hela Halland. Trots detta
+innebär resandeutvecklingen inom serviceresor att kostnaderna för samtliga delar av
+verksamheten kommer att fortsätta öka, förutsatt att kommunerna beslutar att bibehålla
+nuvarande servicenivåer för resenärerna. En kontinuerlig och tät dialog med kommunerna
+kommer att vara av yttersta vikt för att informera om och i ett tidigt skede flagga för om
+nuvarande kostnadsramar inte längre kommer att vara tillräckliga för att bibehålla servicenivån.
+Denna dialog sker parallellt med Hallandstrafikens arbete för att effektivisera verksamheten.
+
+5.1.2 MÅL OCH MÅLUPPFYLLNAD
+
+RESANDEUTVECKLING
+
+Under 2024 utfördes cirka 855 000 resor, vilket motsvarar en ökning med cirka 4 procent jämfört
+med 2023. Grafen nedan visar det rullande årsvärdet som stadigt ökar under hela 2024. Det
+föreligger dock variationer mellan de olika verksamheterna; sjukresor har haft en måttlig, relativt
+konstant resandeökning under året, medan skolresor har minskat i omfattning, till skillnad från
+tidigare år då ökningen varit markant. Med bakgrund av färre födslar är det i dagsläget oklart hur
+detta kommer att påverka antalet resor med skolskjuts.
+Det som driver resandeutvecklingen inom Serviceresor är färdtjänst, specifikt fritidsresor. Denna
+kategori resor står för 60 procent av alla serviceresor och det är även denna kategori som
+sannolikt kommer att fortsätta öka i takt med en åldrande befolkning.
+
+Under 2024 togs det emot 520 000 samtal i beställningscentralen, ungefär lika många som under
+2023\. Inflödet av samtal under 2024 har dock inte varit förutsägbart i samma utsträckning som
+tidigare, vilket har medfört stora utmaningar för beställningscentralen. Detta har dels inneburit
+svårigheter med att bemanna beställningscentralen i enlighet med inflödet av samtal, vilket
+stundtals har medfört längre svarstider än normalt.
+Med anledning av resandeutvecklingen under 2024 ser vi ett fortsatt stort behov av nära dialog
+
+med våra uppdragsgivare för att gemensamt kartlägga kostnadsdrivande faktorer och
+
+<!-- sida 198 -->
+
+SIDA | 43
+
+tillsammans identifiera kostnadseffektiva och hållbara lösningar som möter framtida behov av
+serviceresor. Hallandstrafiken har under 2024 utfört fler Serviceresor än någonsin tidigare.
+
+Figur 21. Resandeutveckling Serviceresor 2024 (färdtjänst, sjukresor och skolskjuts på regional nivå)
+
+LEVERANSKVALITET
+
+Punktligheten för hela 2024 uppgick till 93,5 procent,
+vilket är något under Hallandstrafikens målsättning om
+95 procent. Detta nyckeltal har delvis påverkats av det
+ökade resandet, vilket har medfört att den önskade
+punktligheten vid vissa tidpunkter på dygnet inte alltid
+har kunnat uppnås.
+Antalet klagomål under 2024 uppgick till 0,12 procent
+av samtliga serviceresor, och dessa klagomål rörde till
+stor del brister i grundläggande service.
+
+Nöjdheten med beställningen av färdtjänst och
+sjukresor visar att 9 av 10 resenärer är nöjda eller Figur 22. Indikatorer leveranskvalitet,
+mycket nöjda, vilket är ett mycket gott betyg. Detta 2024
+resultat innebär en marginell ökning jämfört med
+föregående år. De resenärer som uttryckt missnöje med beställningen har främst gjort det på
+grund av långa väntetider för att komma fram till beställningscentralen samt längre väntetider på
+en bil vid bokning av NU-resor.
+
+<!-- sida 199 -->
+
+SIDA | 44
+
+5.1.3 VERKSAMHETSUTVECKLING – VAD VI PLANERAR ATT GÖRA 2026 -
+
+2028
+
+HANDLÄGGNING
+
+Handläggningen av färdtjänsttillstånd påverkas i hög grad av den demografiska utvecklingen,
+vilket innebär att allt fler kommer att behöva och ansöka om färdtjänst. Indikatorer visar på god
+måluppfyllnad inom handläggningens verksamhet, dock med minskande marginaler. För att
+bibehålla nuvarande servicenivå behöver Hallandstrafiken utöka personalstyrkan eller
+implementera arbetssätt som innebär en lägre grad av manuell handläggning än idag.
+
+BESTÄLLNINGSCENTRAL
+
+Under 2024 har beställningscentralen stundtals haft mycket hög arbetsbelastning, vilket har
+resulterat i längre väntetider för att komma fram till en beställningsmottagare än normalt. Under
+kollektivtrafikplanens utblick kommer Hallandstrafiken, genom ett kundfokuserat arbetssätt, att
+utveckla lösningar som gör det enklare för resenärerna att hantera sina resor.
+Beställningscentralen kommer att arbeta aktivt för att öka andelen digitala bokningar inom
+fritidsfärdtjänst. För närvarande bokas cirka 10 procent av alla resor digitalt, och målsättningen
+är att andelen digitala bokningar ska nå 20 procent under kollektivtrafikplanens utblick. Detta
+syftar till att möta ett förväntat ökat resande utan att öka resursbehovet i beställningscentralen.
+
+Resenärerna förväntas även få en ökad digital kunskap, vilket medför ett behov av att enklare
+kunna hantera sina resor och sin vardag. Utvecklingsarbetet sker i samverkan med andra
+trafikhuvudmän för serviceresor. För de som inte vill eller kan använda den digitala plattformen
+kvarstår möjligheten att hantera sina ärenden per telefon till beställningscentralen.
+
+TRAFIK
+
+Fokus ligger på att hitta balansen mellan resurser och behovet av serviceresor, då serviceresor är
+hårt ansatta och dagens resurser inte räcker till för framtida resande. Stundtals är det redan idag
+svårt att tillgodose behovet av resor.
+Med anledning av resandeutvecklingen under 2024 och med fokus på verksamhetsresor har
+Hallandstrafiken identifierat resandemönster som kan effektiviseras och utföras mer
+kostnadseffektivt. Detta sker genom att resurser tillsätts för dialog med berörda verksamheter
+
+och att vissa resor planeras manuellt. Detta arbetssätt används redan inom
+skolskjutsplaneringen. Under 2025 kommer en resurs att tillsättas för att i utvalda kommuner
+undersöka om detta kan bidra till bättre kvalitet och ökad kostnadseffektivitet. Om detta test blir
+framgångsrikt kan det därefter införas i samtliga halländska kommuner.
+Utöver fast planering behövs en ökad dialog mellan Hallandstrafiken och dess uppdragsgivare
+för att se över möjligheter till ökad samordning, men också för att säkerställa att resurserna finns
+till för de som verkligen behöver dem.
+
+<!-- sida 200 -->
+
+SIDA | 45
+
+5.2 SKOLSKJUTS MED BUSS
+
+Enligt skollagen (2010:800) är Sveriges kommuner skyldiga att anordna kostnadsfri skolskjuts för
+grundskoleelever till den skola där kommunen placerar eleven, och under vissa omständigheter
+även till skolor där eleven gjort ett eget val. Myndighetsutövningen, det vill säga beslut om vem
+som har rätt till skolskjuts och under vilka omständigheter, får inte överlåtas till någon annan
+organisation och hanteras därför av de halländska kommunerna. I Halland upphandlar,
+samordnar och planerar Hallandstrafiken skolskjutstrafiken i samtliga kommuner.
+
+Genom samordning av kompetens och resurser är Hallandstrafikens mål att utforma en så säker,
+trygg och kostnadseffektiv skoltrafik som möjligt. Samordning sker både mellan linje- och
+skoltrafik, men även mellan olika former av särskild kollektivtrafik. Denna samordning leder till
+både bättre kvalitet och ökad kostnadseffektivitet, vilket tar vara på samhällets resurser på bästa
+sätt.
+
+5.2.1 MÅLUPPFYLLNAD
+
+NÖJDHETSUNDERSÖKNING (SKOLSKJUTSBARO)
+
+Som ett led i Hallandstrafikens uppföljning av leveranskvalitet genomförs månatligen en
+kundnöjdhetsundersökning bland eleverna i Halland, från förskoleklass till årskurs 9, som åker
+skolskjuts med buss. Resultatet för perioden 2023–2024 visar att majoriteten av eleverna är
+nöjda eller mycket nöjda med skolskjutsen som helhet. Nöjdheten är högst bland de yngsta
+eleverna, vilket kan härledas till att äldre elever sannolikt hade föredragit ett annat färdmedel till
+och från skolan.
+
+100%
+
+90%
+81%
+80%    77%
+75%
+73%
+70%
+65%
+60%
+50%
+Falkenberg Halmstad   Hylte    Laholm     Varberg
+
+Figur 23. Nöjdhet med skolskjuts som helhet, läsåret 2023–2024
+adjön
+tekcym
+relle
+adjön
+lednA
+Nöjdhetsundersökning skolskjuts med buss
+
+<!-- sida 201 -->
+
+SIDA | 46
+
+Hallandstrafiken
+
+ELEVUNDERLAG
+
+Antalet skolskjutsberättigade elever som Hallandstrafiken planerar för på upphandlad skolbuss,
+personbil (taxi) och allmän kollektivtrafik var under läsåret 2023/2024 uppskattningsvis 10 000
+elever. Antalet skolskjutsberättigade elever ökar inom Region Halland, och främst gäller detta
+elever som har behov av att åka personbil (taxi) till olika former av anpassad skola och
+stödenheter. Denna trend förväntas fortsätta då majoriteten av kommunerna signalerar att fler
+enheter kommer att öppna, vilket kräver skolskjuts med personbil.
+
+Antal elever planerade på skol- eller linjebuss - per läsår och kommun
+3 500
+3 000
+2 500
+
+2 000
+
+soo — oo
+
+1000 Ve ST Emma
+500 OO
+
+ce N N gng
+
+LÅ1213LÅ1314LÅ1415LÅ1516LÅ1617LÅ1718LÅ1819LÅ1920LÅ2021LÅ2122LÅ2223LÅ23241Å2425
+
+== Kungsbacka Varberg Falkenberg =&Ö=Halmstad === aholm =&= Hylte
+
+Figur 24. Antal elever planerade på skol- eller linjebuss per läsår och kommun, Läsår 2012/13 - 2024/25
+
+5.2.2 VERKSAMHETSUTVECKLING
+
+Under kommande år kommer fokus fortsatt att ligga på att integrera handläggnings- och
+planeringssystem för att öka den administrativa effektiviteten och säkerställa informationsflöden.
+Detta syftar även till att möjliggöra högre servicenivåer för elever och vårdnadshavare. För att
+uppnå detta krävs att informationsflöden genom IT-system även når de trafikföretag som utför
+transporterna.
+
+Utöver detta kommer en försöksverksamhet att genomföras för att undersöka de tekniska och
+operativa förutsättningarna för att kunna se bussar på karta samt införa linjenumrering av
+skolbussarna. Detta syftar till att öka tydligheten både i vardagen och vid eventuella störningar i
+trafiken.
+
+<!-- sida 202 -->
+
+SIDA | 47
+
+Hallandstrafiken
+
+5.2.3 LÅNGSIKTIG PLAN FÖR TIDTABELLSKIFTEN
+
+Tidtabellsskiften är en naturlig del av kollektivtrafiken och återkommer årligen, vanligtvis vid tre
+tillfällen. Det största skiftet sker i december och gäller i hela Sverige, där Trafikverkets process för
+tilldelning av kapacitet enligt den årliga järnvägsnätsbeskrivningen (JNB) följer EU-standard.
+Skiftet i december har länge utgjort det största skiftet när det gäller trafikförändringar.
+Tidtabellsskiftena under sommaren genomförs främst för att anpassa utbudet efter ett förändrat
+resbehov jämfört med resten av året. I Halland minskar generellt omfattningen av regiontrafik på
+sommaren, vilket beror på minskat arbets- och skolresande, samtidigt som stadsbusstrafiken i
+viss mån ökar på grund av ökat fritidsresande.
+
+Eftersom trafikutbudet skiljer sig åt under sommartidtabellen jämfört med resten av året, är det
+av stor vikt att kommunen tar hänsyn till dessa planeringsförutsättningar när grund- och
+gymnasieskolans läsår planeras med start- och slutdagar för skolorna. Om en kommun förlägger
+skoldagar under sommarperioden och har behov av allmän kollektivtrafik för sina elever, ska
+kommunen kontakta Hallandstrafiken i god tid. Kostnaden för denna trafik kommer att regleras
+likt tillköp och faktureras kommunen.
+
+Övergång till sommar, natt mot Övergång till höst, natt mot
+måndag: måndag:
+2025 Måndag 16 juni Måndag 18 augusti
+2026 Måndag 15 juni Måndag 17 augusti
+2027 Måndag 14 juni Måndag 16 augusti
+2028 Måndag 12 juni Måndag 14 augusti
+
+Figur 25. Tider för tidtabellsskiften, 2025 - 2028
+
+<!-- sida 203 -->
+
+SIDA | 48
+
+6\. BILAGOR
+
+6.1 NYCKELTAL FÖR DEN ALLMÄNNA KOLLEKTIVTRAFIKEN
+
+6.1.1 ANTAL RESOR OCH PRODUKTION PER LINJE 2024
+
+REGIONBUSSTRAFIK
+
+<!-- sida 204 -->
+
+SIDA | 49
+
+STADSBUSSTRAFIK
+
+TÅGTRAFIK
+
+<!-- sida 205 -->
+
+SIDA | 50
+
+6.1.2 RESANDEUTVECKLING PER TRAFIKSLAG 2010 – 2024
+
+REGIONBUSSTRAFIK
+
+STADSBUSSTRAFIK
+
+TÅGTRAFIK
+
+<!-- sida 206 -->
+
+SIDA | 51
+
+Hallandstrafiken
+
+6.2 INFRASTRUKTUR 2024
+
+6.2.1 HÅLLPLATSLÄGEN FÖR TILLGÄNGLIGHETSANPASSNING
+
+De angivna målen för tillgänglighetsanpassning, som beskrivs i det regionala
+trafikförsörjningsprogrammet, kvarstår och ansträngningarna för att nå dessa mål fortsätter
+genom effektiv samverkan mellan kommunerna, Trafikverket och Hallandstrafiken.
+Hallandstrafiken ägnar sig dessutom åt kontinuerligt utbyte och uppgradering av
+hållplatsutrustningen, inklusive väderskydd. Innan varje betydande ombyggnad genomförs, görs
+en noggrann analys där följande frågor beaktas:
+
+e Är det troligt att hållplatsen kommer att vara i drift under en överskådlig framtid?
+
+« Kan flera närliggande hållplatser sammanfogas för att minska antalet? Detta kan vara
+fördelaktigt både ur säkerhetssynpunkt och ekonomisk synvinkel. Målet är att
+upprätthålla de avstånd mellan hållplatser som fastställs i det regionala
+trafikförsörjningsprogrammet.
+
+« Kan arbetet samordnas med andra byggprojekt, såsom gång- och cykelbanor? Om en
+gång- och cykelbana planeras, kan det förbättra hållplatser inom samma projekt?
+
+Återstående antal hållplatslägen att bygga om till 2025 (inventerat december 2024)
+
+Statligt vägnät
+
+Kommunalt
+vägnät
+Enskilt vägnät
+
+Summa/kommun
+
+<!-- sida 207 -->
+
+SIDA | 52
+
+6.2.2 FÖRDELNING PER VÄGHÅLLARANSVAR
+
+Uppdaterad december 2024. Bokstaven efter hållplatsnamnet är lägesbeteckningen.
+\* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
+plattläggning.
+
+LAHOLM
+
+På Trafikverkets väg:
+Laholm Brandstationen A
+Laholm Brandstationen B
+Veinge station A \*
+
+På kommunal väg:
+Laholm Blåkulla A \*
+Laholm Blåkulla B
+
+Laholm Glänninge vårdcentral
+A \*
+Laholm Industrigatan A
+Laholm Industrigatan B
+Laholm Repslagaregatan A
+Laholm Repslagaregatan B
+Laholms bussterminal B
+Laholms bussterminal C
+Laholms bussterminal D
+Laholms bussterminal E
+
+<!-- sida 208 -->
+
+På enskild väg:
+\--
+
+HYLTE
+
+På Trafikverkets väg:
+Rydöbruk A
+Rydöbruk B
+
+På kommunal väg:
+Hyltebruk Sjukstugan A
+Hyltebruk Sjukstugan B
+
+På enskild väg:
+
+\--
+
+<!-- sida 209 -->
+
+SIDA | 54
+
+HALMSTAD              Halmstad Grönevångs torg A Halmstad Sturegymnasiet A
+Halmstad Grönevångs torg B Halmstad Sturegymnasiet B
+På Trafikverkets väg: Halmstad Grönevångsvägen A Halmstad Södra Andersberg A
+Kvibille A            Halmstad Grönevångsvägen B Halmstad Södra Andersberg B
+Kvibille B            Halmstad Jesperslundsvägen Halmstad Torsgatan A
+Nissaström A          A                      Halmstad Torsgatan B
+Nissaström B          Halmstad Järnvägsgatan A Halmstad Vapnöhöjden A
+
+Oskarström Bronsgatan A Halmstad Järnvägsgatan B Halmstad Varpvägen A
+Oskarström Bronsgatan B Halmstad Kardvägen A Halmstad Varpvägen B
+Sennan A              Halmstad Kardvägen B   Halmstad Väktarevägen A
+Sennan B              Halmstad Klackerupsgatan A Halmstad Väktarevägen B
+Skipås A              Halmstad Kolastigen A  Halmstad Åttingsstigen A \*
+Trönninge A           Halmstad Kolastigen B  Halmstad Åttingsstigen B \*
+Åled Kullavägen A     Halmstad Kvarnbacken A Halmstad Örlogsvägen A
+Åled Kullavägen B     Halmstad Kvarnbacken B Halmstad Örlogsvägen B
+Åled A                Halmstad Kvarnbacken C Halmstad Östergård A
+Åled B                Halmstad Kärleken A    Halmstad Östergård B
+Halmstad Larsfridsvägen A Halmstad Östergårdsskolan A
+På kommunal väg:      Halmstad Larsfridsvägen B Halmstad Östergårdsskolan B
+
+Frösakull A           Halmstad Linehed A     Halmstad Östervägen A
+Frösakull B           Halmstad Linehed B \*   Tylöbäck A
+Frösakull Campingstigen A Halmstad Lummervägen B Tylöbäck B
+Frösakull Campingstigen B Halmstad Magnus Stenbocks
+Frösakull Erik Staels väg A väg A            På enskild väg:
+Frösakull Erik Staels väg B Halmstad Noppvägen A Eldsberga Hemgården A
+Frösakull Villavägen A Halmstad Noppvägen B  Gullbrandstorp Gullevi A
+Frösakull Villavägen B Halmstad Norra kyrkogården Haverdal Haverdalsvägen A
+Görvik A              A                      Haverdal Haverdalsvägen B
+Görvik B              Halmstad Norra kyrkogården Spenshult Övre A
+Halmstad Abborrvägen A B                     Trönninge A
+Halmstad Byvägen B    Halmstad Norra Utmarken A Trönninge B
+
+Halmstad Cirkusplatsen A Halmstad Pihlgården A
+Halmstad Cirkusplatsen C Halmstad Pihlgården B
+Halmstad Flygaregatan B \* Halmstad Pumpvägen A
+Halmstad Flygplats A  Halmstad Skyttevägen A
+Halmstad Flygstaden A \* Halmstad Slottsjordsskolan A
+Halmstad Flygstaden B \* Halmstad Slottsjordsskolan B
+Halmstad Frennarp A   Halmstad Slottsparken B
+Halmstad Frennarpsvägen A Halmstad Slupvägen B
+Halmstad Frennarpsvägen B Halmstad Sofieberg A
+Halmstad Fridhemsparken A Halmstad Sofieberg B
+Halmstad Fridhemsparken B Halmstad Stenalyckan A
+Halmstad Giganten A   Halmstad Stenalyckan B
+
+Halmstad Giganten B   Halmstad Stenen A
+
+<!-- sida 210 -->
+
+SIDA | 55
+
+FALKENBERG            Skogstorp Prästkragevägen B
+Skogstorpsskolan A
+På Trafikverkets väg:
+Slöinge Göteborgsvägen A
+Glommen Galtåsvägen A
+Slöinge Göteborgsvägen B
+Glommen Galtåsvägen B
+Ullared Apelskolan A
+Hebergs skola A
+Ätran A
+Hebergs skola B
+Ätran Stationsvägen A
+Köinge A
+Ätran Stationsvägen B
+Köinge B
+Ätranskolan A
+Morup A
+Morup B
+Morups Tånge A
+Morups Tånge B
+Olofsbo södra A
+Olofsbo södra B
+Ryssa kvarn A
+Ryssa kvarn B
+Torsåsen B
+På kommunal väg
+Agerör A
+Agerör B
+Falkenberg Falkagårdsvägen A
+Falkenberg Falkagårdsvägen B
+Falkenberg Hertings kyrka A
+Falkenberg Hjortsberg B \*
+Falkenberg Lerhålan A
+Falkenberg Lerhålan B
+Falkenberg Ljungholmen A
+Falkenberg Ljungholmen B
+Falkenberg Ljungholmsvägen
+A
+Falkenberg Ljungholmsvägen
+B
+Skogstorp Bånga A
+Skogstorp Bånga B
+På enskild väg:
+Fegen A
+Långås A
+Långås B
+Skogstorp Humlevägen A
+Skogstorp Humlevägen B
+Skogstorp Hyacintvägen B \*
+Skogstorp Prästkragevägen A
+
+<!-- sida 211 -->
+
+SIDA | 56
+
+VARBERG               Varberg Bolmen A
+Varberg Bolmen B
+På Trafikverkets väg: Varberg Breared A
+Bua Pingstkyrkan A    Varberg Breared B
+Bua Pingstkyrkan B    Varberg Håstens torg A
+Bua skola A           Varberg Håstens torg B
+Bua skola B           Varberg Håstensskolan A
+
+Lillebacka A          Varberg Håstensskolan B
+Lillebacka B          Varberg Karlbergsvägen A
+Limabacka Brandstation A Varberg Karlbergsvägen B
+Limabacka Brandstation B Varberg Lassabacka södra A
+Ringhals A            Varberg Lindbergsvägen A \*
+Ringhals B            Varberg Lindbergsvägen B \*
+Tvååker Grusvägen A   Varberg Peder Skrivares skola
+Tvååker Grusvägen B   A
+Varberg Peder Skrivares skola
+På kommunal väg       B
+Jonstaka A \*          Varberg Peder Skrivares skola
+Jonstaka B \*          C
+
+Kuragård A            Varberg Polishuset A
+Kuragård B            Varberg Polishuset B
+Lindbergs skola A \*   Varberg S:t Jörgens kapell A
+Strandbackavägen A    Varberg S:t Jörgens kapell B
+Träslövsläge Fiskebåtsvägen A Varberg Sjukhuset A \*
+Träslövsläge Fiskebåtsvägen B På enskild väg:
+Träslövsläge Jungmansvägen Ringhals, Vakten A
+C                     Ringhals, Vakten B
+Träslövsläge Jungmansvägen Ringhals, Vakten C
+D                     Ringhals, Vakten D
+Träslövsläge Hajvägen A Ringhals, Vakten E
+Träslövsläge Pilagårdsvägen A Ringhals, Vakten F
+
+Träslövsläge Pilagårdsvägen B Träslövsläge Storgatan A
+Träslövsläge Relingvägen A Träslövsläge Storgatan B
+Träslövsläge Relingvägen B Träslövsläge Ålvägen A
+Träslövsläge Segelvägen A Träslövsläge Ålvägen B
+Träslövsläge Segelvägen B Träslövsläges kyrka A
+Träslövsläge Skepparevägen A Varberg Kurorten Apelviken A
+Träslövsläge Skepparevägen B
+Träslövsläge Tallåsen A
+Träslövsläge Tallåsen B
+Varberg Birger Svenssons väg
+A
+Varberg Birger Svenssons väg
+
+B
+
+<!-- sida 212 -->
+
+SIDA | 57
+
+KUNGSBACKA            Kungsbacka station B   Åsaskolan C \*
+Kungsbacka station C   Älskogsbräcka B
+På Trafikverkets väg: Kungsbacka station D   Älvsåkers skola A
+Anneberg station A    Kungsbacka station E   Älvsåkers skola B
+Bedagårdens äldreboende A Kungsbacka station F Älvsåkers skola C
+Bedagårdens äldreboende B Kungsbacka station G
+Fjärås station D      Kungsbacka station H
+
+Fjärås station E      Kungsbacka station J
+Forsbäck övre A       Kungsbacka station K
+Forsbäck övre B       Kungsbacka station L
+Hjälms bro A          Kungsbacka station M
+Hjälms bro B          Kungsbacka Stora Bäcksleden
+Karsegården A         A
+Karsegården B         Kungsbacka Stora Bäcksleden
+Kobbavik A            B \*
+Kobbavik B            Kungsbacka Tölö kyrka C \*
+Leksandsgården A \*    Kungsbacka Varlaskolan C \*
+Leksandsgården B \*
+Onsala kyrka A \*      På enskild väg:
+
+Onsala kyrka B \*      Fjärås Bräckaskolan A \*
+Onsala kyrka C \*      Fjärås Bräckaskolan B \*
+Presseskolan A        Fjärås Bräckaskolan C \*
+Presseskolan B        Fjärås Bräckaskolan D \*
+Tallbacken A          Fjärås Bräckaskolan E \*
+Tallbacken B          Fjärås Bräckaskolan F \*
+Vallda kyrka A        Fjärås Smedingeskolan A
+Vallda kyrka B        Fjärås Smedingeskolan B
+Vickan A              Fjärås Smedingeskolan C
+Vickan B              Fjärås Smedingeskolan D
+Fjärås Smedingeskolan E
+På kommunal väg:
+Fjärås Smedingeskolan F
+Kungsbacka Basunvägen A
+Kungsbacka Basunvägen B Fjärås Smedingeskolan G
+Kungsbacka            Fjärås Smedingeskolan H
+Bengtsgårdsgatan B    Fjärås station C
+Kungsbacka Fors A     Gottskär A
+Kungsbacka Gårdskulla A Gällingeskolan A
+Kungsbacka Hedebrovägen A Kullaviks hamn A
+\*                     Toråsskolan A
+Kungsbacka Hedebrovägen B Toråsskolan B
+\*                     Toråsskolan C
+Kungsbacka Kungsmässan A Toråsskolan D
+Kungsbacka Smeagatan A Åsaskolan A \*
+
+Kungsbacka station A  Åsaskolan B \*
+
+<!-- sida 213 -->
+
+6.3 SAMRÅDSREDOVISNING KOLLEKTIVTRAFIKPLAN 2026
+
+Driftnämnd kollektivtrafik beslutade 2025-03-26 att översända Kollektivtrafikplan 2026 med
+utblick 2027 – 2030 på remiss till de halländska kommunerna. Remisstiden sträckte sig fram till
+2025-06-27 och samtliga kommuner har inkommit med svar.
+
+Samrådsredovisningen redovisar inkomna remissvar uppdelade per kommun. Remissvaren
+
+efterföljs med kommentar av Hallandstrafiken i kursivt.
+
+<!-- sida 214 -->
+
+SIDA | 59
+
+6.3.1 KUNGSBACKA KOMMUN
+
+1
+
+Kungsbacka kommun välkomnar de föreslagna satsningarna i Kollektivtrafikplanen. Kungsbacka kommun
+vill dock betona att Kungsbacka fortfarande underskattas när det gäller att hantera de omfattande
+transportutmaningarna som finns i norra Halland. Detta gäller både potentialen att få fler att välja
+kollektivtrafiken inklusive den faktiska kapaciteten och utbudet i de mycket starka regionbusstråken i
+kommunen.
+Kommentar: Synpunkterna noteras.
+
+2
+Kungsbacka kommun ställer sig positiva till Kollektivtrafikplan 2026 med utblick 2027–2030, som är
+pedagogiskt upplagd för att ge en helhetsbild av kollektivtrafiken. Vi anser dock att de föreslagna
+trafikförändringarna för 2026 inte är tillräckliga för att möta de utmaningar som finns kring
+resandeandelsmålen för 2030, bostadsförtätningen i Kungsbacka stad och övriga Halland,
+kompetensförsörjningsbehoven, målet om att minska utsläppen från transportsektorn, och behovet av en
+resurs- och yteffektiv samhällsplanering.
+Med en nuvarande marknadsandel på 14,9 procent i Halland kvarstår mycket stora utmaningar för att nå
+30-procentsmålet till 2030. Detta understryker därför angelägenheten av årliga betydande satsningar på
+kollektivtrafiken där de gör störst nytta.
+
+Kungsbacka kommun menar att regionbusstrafikens starka stråk i norra Halland omgående behöver
+kapacitetsförstärkas, och att stadsbusstrafiken i Kungsbacka stad behöver ökad turtäthet i nivå med andra
+kommuner i Halland. Dessa satsningar är nödvändiga för att stödja Kungsbackapendeln, Hallandstågen,
+bostadsbyggandet i Kungsbacka, och kompetensförsörjningen samt för att uppnå flera av Agenda 2030:s
+hållbarhetsmål.
+Kommentar: Synpunkterna noteras.
+
+3
+
+Kungsbacka är positiva till att antalet tågavgångar på Västkustbanan föreslås öka och framhåller att detta
+måste vidmakthållas i takt med att Västlänkens etapper färdigställs. Det finns stor potential att öka
+kollektivtrafikresandet i Kungsbacka kommun, särskilt i de starka regionbusstråken där det idag sker många
+resor med bil för att bussarna är fulla i maxtimmarna. Kungsbacka kommun har vid flertalet tillfällen påtalat
+behovet av direktbussar som trafikerar stråket Onsala-Vallda-Särö-Västra Göteborg, då denna trafikform har
+en stor efterfrågan hos våra invånare. Om resebehovet ska styra utvecklingen av kollektivtrafiken så
+uppfattar vi att denna linje är en självklarhet. I de västra delarna av kommunen väljer flertalet att köra bil då
+reskvoten jämfört med kollektivtrafik i dagsläget är alldeles för hög, i synnerhet till västra Göteborg. En
+busslinje i detta oerhört starka resestråk har mycket stor potential att flytta över resandet från bil till
+kollektivtrafik, vilket skulle bidra till ökad måluppfyllelse genom till exempel minskat koldioxidutsläpp.
+Förstärkningen av X3 som föreslås är bra men det behövs en förlängning alternativt en helt ny linje med
+trafik hela vägen ner till Onsala.
+
+<!-- sida 215 -->
+
+SIDA | 60
+
+Vi ser också behovet av att utveckla ”Metrobusslinjer” till och från Göteborg i Hallands mest befolkningstäta
+område längs väg 158, vilket vi anser ska omhändertagas och synliggöras i revideringen av Region Hallands
+Trafikförsörjningsprogram.
+
+Kommentar: Strategin för kollektivtrafiken är att koncentrera resurser till stråk där förutsättningar
+för ökat resande är goda. Utgångspunkten är att tåg- och bussar ska samverka och komplettera
+varandra. Tågtrafiken på Västkustbanan utgör stommen i det halländska kollektivtrafiksystemet
+där region- och stadsbussar, i möjligaste mån, anpassas till tågens ankomst och avgångar utmed
+Västkustbanan. När Västlänken tas i bruk skapas det plats för fler tåg och de nya stationerna i
+Haga och Korsvägen möjliggör nya resvägar inom Göteborgsområdet. Här synliggörs vikten av en
+snabb busstrafik med hög prioritet i gatuutrymmet vilket ger minskade restider med
+kollektivtrafiken. Förbättrad framkomlighet och ökad prioritet för busstrafiken är avgörande för
+att säkerställa attraktiva byten mellan bussar och tåg i Kungsbacka. Detta kan tydliggöras genom
+den utredning som genomfördes under 2023, där Kungsbacka kommun och Hallandstrafiken i
+samverkan analyserade kollektivtrafikens framkomlighet inom Kungsbacka stad.
+Region Halland, Västra Götalandsregionen, Hallandstrafiken och Västtrafik har gemensamt
+genomfört en utredning om framtidens kollektivtrafik längs stråk 158. I arbetet har samverkan
+och dialog skett med Kungsbacka kommun, Göteborgs Stad, Mölndals stad, Göteborgsregionen
+samt Trafikverket. Utredningens slutsatser pekar på behovet av åtgärder för att möjliggöra en
+framtidssäkrad, hållbar och kapacitetsstark kollektivtrafik inom stråket. Bland de föreslagna
+insatserna ingår att upplåta särskilda körfält för kollektivtrafiken samt att förlänga hållplatser för
+att förbättra tillgänglighet och kapacitet. Dessa kortsiktiga åtgärder ligger i linje med Västra
+Götalandsregionens mer långsiktiga ambitioner att införa ett snabbusskoncept, benämnt
+Metrobuss, vilket innebär egna körbanor och hållplatser med stationsliknande utformning.
+Under 2025 har Hallandstrafiken och Västtrafik fortsatt att studera möjligheten att förbättra
+transportkapaciteten i stråket längs väg 158 och specifikt tittat på förutsättningar för en ny
+expressbusslinje. Frågan kommer att utredas vidare.
+
+4
+
+Kungsbacka kommun uppskattade att Kollektivtrafikplanen för 2025, med utblick 2026–2027,
+uppmärksammade området mobilitetsåtgärder, men anser att arbete behöver intensifieras på ett mer
+offensivt sätt tillsammans med kommunerna i Halland. Förändrade beteenden är avgörande för att fler ska
+välja kollektivtrafiken och det är önskvärt att Hallandstrafiken tar det övergripande ansvaret i frågan.
+Under enkla biljettköp beskrivs hur man vill utveckla och förenkla biljettsortimentet vilket är positivt.
+Kungsbacka kommun är medvetna om problematiken med resande över regiongränser men ställer oss
+frågande till varför det bara omnämns att resandet ska ske sömlöst i södra Sverige. Vi förväntar oss att det
+omfattar alla Hallands gränser. Likaså förväntar vi oss att samarbetet mellan Hallandstrafiken och Västtrafik
+fortsätter att utvecklas och vi förväntar oss att problematiken med Hallandstrafikens sommarkort är löst så
+att det numera också omfattar Kungsbacka kommun.
+
+Kommentar: I enlighet med det upprättade samverkansavtalet mellan Region Halland och Västra
+Götalandsregionen har parterna enats om att Västtrafiks koncept och övergripande principer –
+såsom biljettsystem, prissättning, information och utformning av hållplatser – ska tillämpas för
+kollektivtrafiken i Kungsbacka samt för resor över länsgränsen. Denna samverkan utgår från att
+länsgränsen inte ska utgöra ett hinder för att tillgodose invånarnas resbehov eller för att främja
+det kollektiva resandet. Ambitionen om ett sömlöst resande, vilket lyfts fram i
+
+<!-- sida 216 -->
+
+SIDA | 61
+
+Kollektivtrafikplanen, omfattar i sin helhet resor mellan Västtrafiks och Hallandstrafikens
+trafikområden.
+
+5
+
+Avslutningsvis vill vi betona vikten av att Region Halland avsätter erforderliga medel för att nå resandemålen
+eftersom det är en nödvändighet för att minska biltrafikens ökningstakt i norra Halland då vägsystemet
+sedan många år är ansträngt. En ökad valfrihet att välja rätt färdslag för rätt resa bidrar till nöjdare
+medborgare, nöjdare besökare, nöjdare resenärer, bättre förutsättningar för näringslivets
+kompetensförsörjningsbehov och en attraktivare kommun att bo, verka och vistas i.
+
+Kommentar: Synpunkterna noteras.
+
+<!-- sida 217 -->
+
+SIDA | 62
+
+6.3.2 VARBERG KOMMUN
+
+1
+
+Varbergs kommun välkomnar de satsningar som finns med i kollektivtrafikplanen. Kommunen kan notera
+att flera önskemål tillgodosetts. Den utökade trafiken med såväl Västtåg som Öresundståg är ett välkommet
+tillskott till förbindelserna med Göteborg. De fortsatta utökningarna av trafiken under den påföljande åren
+fram till 2030 är mycket välkommet och mycket förbättrade resmöjligheter såväl norr som söderut på
+Västkustbanan. Särskilt välkommet är de stora utökningarna av Hallandståg som aviseras i det viktiga
+stråket mellan Varberg och Göteborg.
+
+Kommentar: Synpunkterna noteras.
+
+2
+
+I detta sammanhang är det också välkommet att de tidigare påpekade passningen av stadsbuss vid
+Varbergs station åtgärdas. En förbättrad passning med tågen ger mycket bättre möjligheter ur ett hela-
+resan-perspektiv. Varbergs kommun välkomnar också planer på ny regionbusstrafik som finns i samband
+med trafikstarten för Värö station. Kommunen har deltagit i arbetet hittills och ser fram emot ett fortsatt
+samarbete med Hallandstrafiken i frågan.
+
+Kommentar: Synpunkterna noteras.
+
+3
+
+Även att den tidigare aviserade förlängningen av busslinje 2 i Trönninge till Pilgatan är ett välkommet
+tillskott i stadstrafiken. Den planerade förlängningen är positiv eftersom det förbättrar möjligheterna för
+såväl arbets- som studiependling för boende i området. Varbergs kommun vill även att utvecklingen
+fortsätter med målsättning om en förlängning av linje 2 till Bläshammar och Trönningenäs som tidigare
+diskuterats.
+
+Kommentar: synpunkterna noteras.
+
+4
+Den tidigare aviserade utvecklingen av Närtrafiken har inte genomförts som det var tänkt. Varbergs
+kommun efterlyser att den utvecklingen genomförs men också att de utpekade orterna måste ses över
+eftersom servicenivån i dessa måste nå upp till en nivå så man kan utföra vardagliga ärenden eller ta
+bussen därifrån till Varberg. I dagsläget är det endast boende i de utpekade områden som har rätt till
+närtrafik och inte gäster eller andra besökande. Detta bör ses över då hela regionen borde vara tillgänglig
+för alla. Varbergs kommun ser dock de föreslagna förändringarna som ett steg i rätt riktning och efterlyser
+fortsatt utveckling av närtrafiken.
+
+Kommentar: Implementering av Närtrafik 2.0 är förskjutet i tid härlett till förseningar inom digital
+utveckling. Beställning av Närtrafik ska utöver telefon, även kunna ske via app. Vid start av ny
+Närtrafik möjliggörs resor till och från orter, vilka av de halländska kommunerna, är utpekade
+
+<!-- sida 218 -->
+
+SIDA | 63
+
+som service-/utvecklingsorter. Närtrafik 2.0 innebär att kravet på att resenär är folkbokförd i
+Halland tas bort och därmed närmar sig Närtrafiken de ordinarie villkoren inom den allmänna
+kollektivtrafiken.
+
+5
+
+Förra årets kollektivtrafikplan innehöll utveckling av trafiken i kommunens nordöstra och sydöstra delar.
+Varbergs kommun vill ha en fortsatt dialog med sikte på att fortsätta utveckla kollektivtrafiken i dessa
+områden.
+Varbergs kommun vill också lyfta behovet av kollektivtrafik i området längs väg 768 mellan Träslövsläge,
+Galtabäck och Björkäng. Här bor idag 300 invånare som helt saknar kollektivtrafik.
+
+Generellt efterfrågas från Varbergs kommun ett nytänkande från Hallandstrafiken avseende trafiken på
+landsbygden utanför de starka stråken. Möjligheter med bytespunkter och att utnyttja skolbusstrafiken
+borde utredas. Även nya lösningar som så kallad "on demandtrafik" bör testas ytterligare. Det korta test
+som Varbergs kommun genomfört tillsammans med Hallandstrafiken och Nobina inom ramen för EU-
+projekt MOVE visar att det finns en grundläggande förutsättning. Men ytterligare tester och utredningar
+kring inte minst ekonomin i detta behövs göras i Halland.
+Kommentar: Hallandstrafiken uppmärksammar kommunens önskemål om fortsatt dialog
+gällande utveckling av trafiken i kommunens nordöstra och sydöstra delar, samt behovet av
+kollektivtrafik mellan Träslövsläge, Galtabäck och Björkäng. Hallandstrafiken ser positivt på
+möjligheten att tillsammans identifiera lösningar som stärker tillgängligheten och förbättrar
+mobiliteten för invånarna i dessa områden.
+
+I övrigt noteras synpunkterna.
+
+6
+
+Det nya förslaget till busstrafik i Träslövsläge som tagits fram i samarbete mellan Hallandstrafiken och
+kommunen kan ses som en framgång även om det fortfarande finns missnöje med trafikutbudet i främst de
+äldre delarna av orten. För Varbergs kommun är det viktigt att den nya busslinjen till hamnen har ett
+upplägg som innehåller trafik på kvällar och helger. Något som tydligt efterfrågats av de boende i de äldre
+delarna av Träslövsläge.
+
+Kommentar: Synpunkterna noteras.
+
+7
+
+De mål som enligt kollektivtrafikplanen ska följas upp i planen är fortfarande inte fullständigt redovisade.
+Exempelvis finns uppsatta mål om restidskvoter, men det framgår inte hur man arbetar för att nå dessa
+mål, det redovisas inget nuläge eller presenteras några specifika åtgärder för att nå detta mål.
+Föreslagna åtgärder borde effektbedömmas i större utsträckning och mer systematiskt än vad som görs
+idag. Det är även viktigt att tidigare åtgärder följs upp för att se om de haft de effekterna som förutspåtts.
+
+Kommentar: Hallandstrafiken stödjer att restidskvot har en avgörande betydelse för
+kollektivtrafikens attraktivitet (restid med kollektivtrafik dividerat med restid för bil på sträcka A
+
+<!-- sida 219 -->
+
+SIDA | 64
+
+till B). Genom att exempelvis ge kollektivtrafiken högre prioritet i gatuutrymmet kan restiderna
+minskas och därmed kan kollektivtrafiken uppfattas som ett konkurrenskraftigare resealternativ.
+Redogörelse av restidskvoter för kollektivtrafikens huvudlinjer, i de utpekade stråken, kan tydligare
+synliggöras i framtida kollektivtrafikplaner.
+
+I övrigt noteras synpunkterna.
+
+8
+
+Infrastruktur. Varberg kommun planerar att fortsatt investera i upprustning och tillgänglighetsanpassning
+av hållplatser, huvudsakligen längs stadslinjenätet. Till det tillkommer även busshållplatser som ingår i
+pågående projekt exempelvis vid ombyggnad av gator.
+Målet om att stadsbusstrafiken ska vara tillgänglighetsanpassade år 2025 är fortsatt gällande. Det hade varit
+önskvärt om en prognos för arbetet framåt hade presenterats i planen då planen gäller för 2026 och framåt.
+I Varberg arbetar hamn- och gatuförvaltningen aktivt med att tillgänglighetsanpassa hållplatserna i staden.
+Det är dock tydligt att kommunen inte kommer hinna med att åtgärda alla identifierade hållplatser varför
+målet i Varberg inte kommer vara uppnått till 2025. Den nya linjedragningen i Träslövsläge och vid Pilgatan
+medför ökade investeringskostnader vilket kan medföra att tillgänglighetsanpassningen kommer behöva
+prioriteras ner.
+
+Kommentar: Synpunkterna noteras.
+9
+
+Särskild kollektivtrafik. Kollektivtrafikplanen lyfter att en fortsatt utveckling av skolskjutsen är integrering av
+planeringssystem och förbättrade informationsflöden för att höja servicenivån för elever och
+vårdnadshavare. Detta bedöms som positivt då det ger elever och vårdnadshavare bättre möjligheter att
+följa turplaneringen och snabbt få information om eventuella trafikstörningar och schemaändringar.
+Vidare beskriver planen vikten av tillgänglighetsanpassningar av hållplatser och allmän kollektivtrafik. Inför
+kommande upphandling av skolbussar och i arbetet med att tillgänglighetsanpassa skoltrafiken bör krav på
+tillgänglighetsanpassade skolbussar ställas. Elever som inte kan åka skolbuss, exempelvis på grund av att de
+använder rullstol, erbjuds istället skolskjuts med personbil (taxi). Detta genererar inte bara i en
+kostnadsökning utan riskerar också att öka exkluderingen av dessa elever från gemenskapen med
+skolkamrater. De tillgänglighetsanpassningar som sker för den allmänna kollektivtrafiken och hållplatser
+bedöms som positiv.
+Skolnära hållplatser för de skolor som i större utsträckning nyttjar allmän kollektivtrafik ses som positivt. En
+fortsatt utveckling och flexibilitet i samordningen av skolskjutsen, utifrån förändringar i skolorganisationen,
+upptagningsområden eller befolkningstillväxt, är nödvändig för att möta framtida behov.
+
+Kommentar: Hallandstrafiken uppmärksammar kommunens förslag om tillgänglighetsanpassade
+skolbussar, en fråga vilken omhändertas inom ram av kommande upphandling av busstrafik i
+länet.
+
+I övrigt noteras synpunkterna.
+
+<!-- sida 220 -->
+
+SIDA | 65
+
+6.3.3 FALKENBERG KOMMUN
+
+1
+
+Vi delar Hallandstrafikens ambition om att utveckla ett sammanhållet och hållbart kollektivtrafiksystem i
+länet men kan vi inte acceptera att planen i sin nuvarande form lämnar Falkenbergs kommun helt utan
+konkreta förstärkningar i vare sig tåg- eller busstrafiken. Planen har ett ojämnt geografiskt genomslag och
+försvagar möjligheterna till hållbart resande i en växande kommun som har höga ambitioner inom klimat
+och samhällsutveckling. Falkenbergs kommun har tydliga ambitioner om att minska bilberoendet, men får i
+denna plan inga verktyg för att möta det behovet. Den föreslagna planen svarar inte upp mot våra behov –
+varken idag eller inför framtiden.
+Kommentar: Synpunkterna noteras.
+
+2
+
+Tågtrafik och stationsnära utveckling. Falkenberg har idag 14 direkttåg per dag till Göteborg – att jämföra
+med Varbergs 26. Turtätheten har inte påtagligt förbättrats de senaste åren och motsvarar inte det behov
+kommunen ser framåt. Trots Falkenbergs strategiska läge mellan Halmstad och Varberg samt pågående och
+planerad stadsutveckling i stationsnära områden, föreslås inga förbättringar i tågtrafiken i planen.
+Kommunen äger och utvecklar omfattande mark i direkt anslutning till stationen som är redo för
+etableringar. I området planeras kontor, verksamheter och i viss mån bostäder. För att realisera dessa
+investeringar krävs en förbättrad tillgänglighet med kollektivtrafik, både i form av tåg- och bussförbindelser.
+Ett tätare och mer förutsägbart trafikupplägg gynnar såväl boende som näringsliv och regional integration.
+Falkenbergs kommun anser därför att turtätheten bör ökas till minst ett tåg var 30:e minut under högtrafik
+för att möta dagens och framtidens pendlingsmönster. Vi ser gärna en nära dialog med Hallandstrafiken om
+hur trafikplaneringen kan stödja kommunens utvecklingsmål.
+
+Kommentar: För att stärka hela regionen behöver Halland knytas samman med en väl utbyggd
+tågtrafik. En attraktiv tågtrafik som ska uppfylla restidsmålen måste vara snabb, vilket är svårt att
+uppnå om samma tågtrafik ska stanna vid alla stationer längs järnvägen. För att möta de olika
+resbehoven är det därför viktigt att erbjuda parallella tågsystem med olika hastigheter och
+uppehållsmönster.
+
+De storregionala Öresundstågen trafikerar idag Falkenberg station med närmare 30 avgångar per
+vardag och riktning. På vardagar förstärks utbudet under morgon och eftermiddag med fler
+avgångar på delar av sträckan, vilket skapar en avgång varje halvtimme i båda riktningarna
+mellan Halmstad och Göteborg. Antalet avgångar och antalet tåg per avgång har utökats över
+åren. I berörd kollektivtrafikplan redogörs för en fortsatt utbyggnad av Öresundstågstrafiken, med
+målsättningen att successivt införa genomgående halvtimmestrafik på sträckan mellan
+Köpenhamn/Malmö och Göteborg.
+
+<!-- sida 221 -->
+
+SIDA | 66
+
+3
+Bussförbindelser och linjeöversyn. Vi konstaterar även att Falkenberg inte omfattas av några av de
+föreslagna bussförändringarna för 2026. Planen nämner heller inte det pågående arbetet med att se över
+kommunens linjestruktur – ett viktigt samverkansprojekt mellan kommunen och Hallandstrafiken.
+Det finns stora behov av bättre kollektivtrafik till verksamhetsområden samt en tydligare koppling till
+Falkenbergs station för att underlätta arbetspendling. Även trafiken till kommunens mindre orter och
+serviceorter behöver stärkas, så att människor kan bo och leva utan att vara beroende av bil. Det pågående
+arbetet med linjeöversynen bör ses som ett avstamp för fortsatt utveckling av busstrafiken – inte som ett
+skäl att skjuta fram nödvändiga åtgärder.
+
+Kommentar: Synpunkterna noteras.
+
+4
+
+Kollektivtrafik för turism. Kommunen lyfte redan i förra remissrundan avsaknaden av ett turistperspektiv –
+något som även i årets plan är frånvarande. Halland är en stark turistregion och Falkenberg har varje år
+hundratusentals besökare. Under sommaren sker stora resflöden till badplatser, handel och evenemang. En
+förflyttning från bil till kollektivtrafik under sommaren hade haft stor positiv påverkan på utsläpp,
+tillgänglighet och stadsrum. Falkenbergs kommun ser därför behov av riktade turistsatsningar inom
+kollektivtrafiken och välkomnar en dialog med Hallandstrafiken i frågan.
+
+Kommentar: Turismen och dess betydande roll för Hallands utveckling beskrivs i kapitlet
+Planeringsförutsättningar, se rubrik 2.4.
+
+5
+
+Tidtabellsskifte och skolstart. Vi vill också uppmärksamma att Hallandstrafikens sommartidtabell även 2026
+överlappar kommunens skolstart, vilket försvårar skolskjutsplaneringen och kräver lokala anpassningar. Vi
+ser ett fortsatt behov av dialog kring hur tidtabellsskiften bättre kan synkroniseras med skolornas läsår.
+
+Kommentar: En långsiktig plan för gemensamma tidtabellskiften är en förutsättning för
+fungerande kollektiva resor över kommun, läns- och landsgränser. I det fall en kommun avviker
+från fastställd plan genom utökat behov av skolresor inom den allmänna kollektivtrafiken, är
+inriktningen att detta hanteras enligt regelverk för tillköp. Hallandstrafiken ser fram emot fortsatt
+dialog gällande synkronisering mellan skolornas läsårstider och kollektivtrafikens tidtabellsskiften.
+
+<!-- sida 222 -->
+
+SIDA | 67
+
+6.3.4 HALMSTAD KOMMUN
+
+1
+
+Process för upprättande av kollektivtrafikplan. Halmstads kommuns mål och budget för kommande år
+fastställs i juni varje år. För att säkerställa en god samplanering mellan kommun och
+Hallandstrafiken/Region Halland avseende fysiska åtgärder och trafikering kan processen (tidplanen) för
+upprättande av kollektivtrafikplanen eventuellt behöva ses över.
+Kommentar: En nyhet för årets upplaga av Kollektivtrafikplanen är att den nu har en femårig
+utblick, jämfört med tidigare planer som har haft en treårig tidshorisont. Syftet med denna
+justering är att främja ökad samverkan och samplanering, där utvecklingen av kollektivtrafiken är
+förknippad med långa ledtider.
+
+2
+
+Mobilitetsåtgärder. Halmstads kommun är positiva till de mobilitetsåtgärder (prova-på kampanjer och
+liknande) som avses att genomföras under 2025 och förhoppningsvis även framöver.
+Kommentar: Synpunkterna noteras.
+
+3
+
+Trafikförändringar 2026.
+Öresundståg, utökade öppettider och förstärkt utbud. Halmstads kommun anser att det är positivt med
+förslaget om ytterligare en avgång med Öresundståg mellan Halmstad och Göteborg, då det framför allt
+förbättrar möjligheterna för pendling mellan städerna längs sträckan.
+L331/350 Halmstad – Harplinge. Halmstads kommun är positiva till förändringen gällande linje 331/350 då
+det ger en tydligare och bättre trafikering för såväl linje 350 som för trafikeringen till Harplinge. Det finns
+nackdelar med förändringen, som att resmöjligheterna norrut från Harplinge försämras. Men vi tror att de
+positiva förändringarna väger över.
+
+L325 Halmstad – Knäred – Markaryd (Markarydsbussen). Halmstads kommun håller med om att
+utbudsnivån och avgångstiderna bör ses över och är positiva till en fortsatt utökad trafikering på linjen, sett
+till hur trafikeringen såg ut innan det treåriga projektets start (år 2022). Det finns däremot en viss osäkerhet
+i skrivande stund kring hur finansieringen ska hanteras. Detta hanteras i ett separat ärende.
+Ökat antal fordon – Södra Halland. Då kommunen även från annat håll nåtts av information om att fullsatta
+bussar är vanligt förekommande vid vissa tidpunkter i stråket Halmstad-Hyltebruk är en utökning av antalet
+fordon välkommet, då det annars kan medföra att resenärer till viss del väljer andra alternativ än bussen.
+Ökat antal fordon – Halmstad. Halmstads kommun anser att det är positivt med en ökning av antalet fordon
+på linje 3. Liksom förstärkningen i stråket Halmstad-Hyltebruk skulle resandet annars kunna hämmas av
+fulla bussar. Det är viktigt att antalet bussar/avgångar följer med i utvecklingen av antalet resenärer.
+
+Kommentar: Synpunkterna noteras.
+
+<!-- sida 223 -->
+
+SIDA | 68
+
+4
+Trafikförändringar 2027–2030.
+
+Överlag anser kommunen att det är bra att Hallandstrafiken tar till ett längre tidsspann gällande utblicken.
+Från två till fyra år. Två år är i vissa fall ett alldeles för kort tidsspann, då samhällsplanering många gånger
+kräver betydligt längre planeringshorisont. Ett längre tidsspann kräver dock mer insats.
+Öresundståg. Halmstads kommun ser positivt på ambitionerna att Öresundstågstrafiken planeras att
+successivt byggas ut med fler avgångar, med målsättningen att skapa genomgående halvtimmestrafik på
+sträckan mellan Köpenhamn/Malmö och Göteborg. Kommunen ser även gärna att förutsättningarna för
+tågtrafik nattetid på västkustbanan utreds.
+Stadsbusstrafik Halmstad – längre bussar på huvudlinjer. Halmstads kommun anser att det är positivt att
+Hallandstrafiken är intresserad av en förändring med mer kapacitetsstarka fordon i form av ledbussar på 18
+meter. I dialog med Hallandstrafiken finns planer på ett förändrat linjenät efter 2030, där en annan linje än
+linje 3 däremot skulle trafikeras med ledbussar. Vi önskar en dialog med Hallandstrafiken om det är aktuellt
+att introducera längre bussar på linje 3 under perioden 2027–2030.
+
+Kommentar: Hallandstrafiken uppmärksammar synpunkten om behov av dialog kring längre
+bussar i Halmstad. Hallandstrafiken ser fram emot fortsatt samverkan och samplanering gällande
+implementering av en mer högkvalitativ och kapacitetsstark stadsbusstrafik i Halmstad.
+I övrigt noteras synpunkterna.
+
+5
+
+Särskild kollektivtrafik, trafik. Särskilt positivt anser kommunen det vara att resurser tillsätts för dialog och
+till viss del manuell handläggning för att se om det kan ge en bättre kvalitet och ökad kostnadseffektivitet.
+
+Kommentar: Synpunkterna noteras.
+
+<!-- sida 224 -->
+
+SIDA | 69
+
+6.3.5 HYLTE KOMMUN
+
+1
+
+Den trafikförändring i Kollektivtrafikplanen för 2026 som i störst utsträckning påverkar Hylte kommun är att
+fordonsflottan i södra Halland föreslås utökas med ett fordon. Hallandstrafiken skriver att syftet med
+utökningen är att omhänderta det resandebehov som framförallt finns i stråket Halmstad-Hyltebruk. Hylte
+kommun instämmer och anser att en förstärkning är av vik då fullsatta bussar är vanligt förekommande i
+stråket.
+Kommentar: Synpunkterna noteras.
+
+2
+
+Under 2024 minskade antal resor med Krösatåg på Halmstad – Nässjö järnväg med 11,5 procent jämfört
+med 2023. Vilket styrker Hylte kommuns även tidigare iakttagelse om att rådande turutbud för tågtrafiken
+inte är tillräckligt attraktivt och ett konkurrenskraftig alternativ till bil. Hylte kommun vill således återigen
+påpeka vårt behov av att Halmstad – Nässjö järnväg rustas upp. Därtill att en ny huvudlinje mellan
+Falkenberg och Torup inrättas samt att linje 432 mellan Hyltebruk och Gislaved uppgraderas till en
+huvudlinje för att stärka goda pendlingsmöjligheter till arbete och utbildning.
+Kommentar: Dagens persontågstrafik på HNJ-banan har en karaktär av såväl regional som
+interregional kollektivtrafik. Idag trafikerar Krösatåg med fem avgångar i båda riktningarna på
+vardagar. På lördagar och söndagar trafikeras sträckan av fyra avgångar i båda riktningarna.
+Målbilden för persontågstrafiken, enligt Regionalt Trafikförsörjningsprogram, på HNJ-banan
+förutsätter att staten, genom Trafikverket, tar sitt ansvar för byggande, drift och underhåll av
+järnvägsanläggningen.
+
+I övrigt noteras synpunkterna.
+3
+
+Hylte kommun är positiva till de mobilitetsåtgärder som Hallandstrafiken avser att genomföras under 2025
+och om de faller väl ut även under 2026.
+
+Kommentar: Synpunkterna noteras.
+
+4
+
+Kommunledningsförvaltningen välkomnar skrivningarna gällande särskild kollektivtrafik angående att det är
+viktigt med dialog och samverkan med kommunerna som kostnadsbärare för att hantera den uppåtgående
+resandeutvecklingen samt kostandutvecklingen det för med sig. Hylte kommun är även positiv till att
+Hallandstrafiken identifierat möjliga effektivisering- och kostnadsbesparingsåtgärder för verksamhetsresor.
+Det ska ske genom ett test där Hallandstrafiken under 2025 i vissa kommuner avsätter en resurs för fast
+planering, vilket innebär utökad dialog med verksamheter och manuell planering av vissa resor. Detta
+arbetssätt används redan inom skolskjutsplaneringen. Om testet av fast planering blir framgångsrikt kan
+det därefter beddinföras för verksamhetsresor i samtliga kommuner.
+Kommentar: Synpunkterna noteras.
+
+<!-- sida 225 -->
+
+SIDA | 70
+
+6.3.6 LAHOLM KOMMUN
+
+1
+
+Laholms kommun ser positivt på den kollektivtrafikplan som presenteras inför 2026 med mål som grundar
+sig i en hållbar tillväxt för Halland med fokus på ekologisk, social och ekonomisk hållbart.
+
+Kommentar: Synpunkterna noteras.
+
+2
+Laholms kommun ställer sig mycket positiva till förslaget om en kommande ny busslinje som kommer
+koppla ihop Laholm - Mellby industriområde - Skottorp/Haga. En busslinje som kommer försörja
+kommunens största verksamhetsområde och nya bostadsområde med kollektivtrafik. Kommunen ser
+framemot en fortsatt dialog i frågan för att busslinjen ska vara på plats direkt när verksamhetsområdet
+byggs ut och nya arbetsplatser öppnar. Det är av stor vikt att den är på plats när resenärer formar sina
+vanor. Det är också av stor vikt av god passning mot tågen för att minska väntetider.
+
+Kommentar: Hallandstrafiken välkomnar synpunkterna och ser fram emot fortsatt samverkan och
+samplanering där samhälls- och kollektivtrafikplanering går hand i hand.
+
+3
+
+En välfungerande och vältäckande kollektivtrafik är en vital del för att skapa inkludering och jämlikhet i en
+kommun. Den nya socialtjänstlagen som träder i kraft den 1 juli 2025 fokuserar särskilt på att ge lika
+möjligheter för alla, oavsett var man bor i kommunen.
+
+Kommentar: Synpunkterna noteras.
+
+4
+En av framtidens stora utmaningar är kompetensförsörjningen, i synnerhet inom vård och omsorg. En
+välfungerande kollektivtrafik inom Laholms kommun och till och från angränsande län, kommer vara en
+oerhört viktig pusselbit i att skapa attraktionskraft i att kunna och vilja arbeta i Laholms kommun, även
+utanför centralorten.
+
+Kommentar: Synpunkterna noteras.
+
+5
+
+I avsnittet 2.7 så är det tydligt att Laholm har en relativt låg andel boende i ett så kallat kollektivtrafiknära
+läge. Laholm har en andel som ligger på ca 56%, vilket kan jämföras med Halmstads ca 87% och Falkenbergs
+ca 70%. För att uppnå en högre attraktionskraft kopplat till rekrytering av arbetskraft samt för att uppnå
+jämlikhet och lika möjligheter för boende i Laholms kommun, så är det rimligt att kollektivtrafiken i Laholm
+utvidgas. Utvidgningen bör i första hand ta sikte mot en jämlikhet i Halland och en avancering mot
+länssnittet, och i andra hand ta sikte mot rikssnittet om ca 75%.
+
+<!-- sida 226 -->
+
+SIDA | 71
+
+Kommentar: För att kollektivtrafiken ska utgöra ett attraktivt alternativ till bilen krävs god
+tillgänglighet. Med god tillgänglighet avses både fysisk närhet till hållplatser och ett trafikutbud
+som motsvarar resenärernas behov. Laholms kommun utgör ett gott exempel på samordnad
+samhälls- och kollektivtrafikplanering. Under 2023 utökades linje 225 längs kustremsan, vilket
+grundar sig i pågående samhälls- och bebyggelseutveckling. Framöver planeras nya stationsorter i
+både Knäred och Veinge, vilket skapar förutsättningar för en kollektivtrafikorienterad
+bebyggelseutveckling.
+6
+
+Utifrån att möta fastställda nationella och globala miljömål, så behöver resvanor ställas om genom att
+kollektivtrafiken används i större utsträckning än den gör idag. Denna omställning kan inte forceras, utan
+bör bygga på resonemanget att sikta mot att kollektivtrafiken blir så attraktiv som möjligt – både prismässigt
+och tidsmässigt – så att andra alternativ upplevs som sämre.
+
+Kommentar: Synpunkterna noteras.
+7
+
+•  Att Hallandstrafiken (HLT) verkar för att anpassa fordonsflottan med mindre fordon för att trafikera
+sträckor, där större fordons kapacitet inte utnyttjas till fullo.
+•  Att HLT tar ett större ansvar för att driva frågan om mobilitetsåtgärder för att främja hållbart
+resande och på så sätt få upp resandet i kommunerna.
+•  Att HLT verkar för bättre samordning av allmän kollektivtrafik och särskild kollektivtrafik (som tex.
+sjukresor, skolskjuts, färdtjänst) och effektivare utnyttjande av befintlig fordonsflotta.
+•  Att HLT verkar för att det ska finnas en bussförbindelse mellan Knäred och centralorten Laholm
+samt Veinge och centralorten Laholm. Laholms kommun ser positivt på de förändringar som är
+gjorda från förra kollektivtrafikplanen med att beskriva och följa upp behovet framöver för att
+undvika förlust av kollektivtrafikresande under övergångsperioden då tågen införs. Kommunen ser
+fram emot en fortsatt bra dialog i frågan framöver för att optimera anslutningar och service.
+•  Att HLT verkar för att få fler avgångar norrut mot Halmstad under sommaren.
+•  Att HLT ser till att bussen (stationspendeln, linje 1) som tar resenärer från tågstationen mot Laholm
+stadskärna, inte får köra innan resenärerna från ankommande tåg hinner byta från tågen till
+bussen. Bussen ska alltså invänta ankommande tåg. Samt att säkerställa att bussen inte är sen till
+tåget, då det har en skarp avgångstid.
+•  Att HLT verkar för att påskynda lösningar för att få bättre kollektivtrafik på landsbygden.
+•  Att HLT verkar för att få till en busslinje mellan Laholms kommun och Örkelljunga kommun. Där
+saknas idag ett stråk som binder samman orterna och breddar möjligheterna för arbetspendlande
+till/ och från Laholms kommun. Detta är viktigt utifrån Våxtorps funktion som serviceort i Laholms
+kommun.
+•  Att Region Halland ser över möjligheten av ökad samfinansiering till cykelvägar på de orter som
+idag har dåligt utbud av kollektivtrafik (Hasslöv – Östra Karup).
+Kommentar: Strategin för kollektivtrafiken innebär att resurser koncentreras till stråk där
+förutsättningarna för ökat resande bedöms som goda. Kollektivtrafikstråken beskrivs närmare i
+det Regionala Trafikförsörjningsprogrammet. Stråken klassificeras för att påvisa skillnader i det
+förväntade utbudet. Att tydligt identifiera de stråk som under överskådlig framtid kommer att
+trafikeras med kollektivtrafik utgör ett åtagande från Region Halland. Eventuella justeringar,
+såsom att inkludera sträckan Laholm–Våxtorp som ett kollektivtrafikstråk, hanteras inom ramen
+för pågående parallell revideringen av Trafikförsörjningsprogrammet.
+
+<!-- sida 227 -->
+
+SIDA | 72
+
+Hallandstrafiken är medvetna om de utmaningar som infunnit sig sedan starten juni 2020
+gällande synkronisering mellan bussar och tåg vid Laholms tågstation. Hallandstrafiken vidtar
+löpande åtgärder för att säkerställa de viktiga bytena mellan bussar och tåg.
+
+När Pågatåg i timmestrafik trafikerar mellan Halmstad och Hässleholm kommer byten i Veinge
+mellan bussar och tåg inneha hög prioritet. Prioritering av byten mellan trafikslag i Veinge
+kommer att möjliggöra kollektiva resor från kommunhuvudorten Laholm vidare med Pågatåg i
+riktning Knäred/Markaryd/Hässleholm.
+I övrigt noteras synpunkterna.
+
+8
+
+Laholms kommun ser positivt på den verksamhetsutveckling Hallandstrafiken planerar för åren 2025–2027,
+som innefattar att tillgängliggöra och synliggöra kollektivtrafiken. Denna verksamhetsutveckling ses som
+positiv för det uppdrag utbildningsnämnden har gällande skolskjuts eftersom vi i den mån det går gärna vill
+nyttja kollektivtrafiken och på så vis främja det kollektiva åkandet i Halland som även bidrar till folkhälsan.
+Kollektivtrafikplanen bedöms inte har någon negativ konsekvens eller inverkan på nämndens uppdrag att
+anordna skolskjuts för kommunens elever.
+Laholms kommun ser positivt på den verksamhetsutveckling HLT planerar för åren 2026–2028. Kommunen
+och HLT delar visionen om en säker, trygg och kostnadseffektiv skoltrafik.
+Planeringen av Markarydsbanan med nya stationer i Veinge och Knäred, som avses vara färdigställt i
+december 2027, ses som mycket god för kommunens uppdrag gällande skolskjuts. Införandet av tågtrafiken
+skulle kunna frigöra resurser i form av skolbussar som därmed kan utnyttjas mer effektivt i andra delar av
+kommunen.
+
+De nuvarande avtalen med trafikföretagen för busstrafik löper ut inom utblickperioden och ny upphandling
+behöver genomföras. Inför detta beskriver kollektivtrafikplanen det nya mötesspåret i Knäred på
+Markarydsbanan, samt en ny linje i Laholm, mellan Mellby industriområde och Skottorp/Haga. Kommunen
+ser positivt på dessa införanden då det kan främja det kollektiva åkandet i Laholms kommun och nyttjas i
+ärenden för skolskjuts, samt främja folkhälsan.
+Kommunen har sedan tidigare kännedom om prognosen för serviceresor med personbil i Laholms kommun
+och den bedöms som god.
+
+Kommentar: Synpunkterna noteras.
+
+<!-- sida 228 -->
+
+SIDA | 73
+
+<!-- sida 229 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-06-02
+Diarienummer
+KS-2026-00067
+
+Yttrande över Region Hallands förstudie av kollektivtrafiken inför upphandling av nytt
+trafikavtal för busstrafik i Kungsbacka kommun
+
+Förslag till beslut
+
+Kommunstyrelsen antar yttrande daterat 2026-06-02 och översänder till Region Halland.
+
+Sammanfattning av ärendet
+
+Region Halland har tagit fram en förstudie som en del av den pågående processen inför upphandling av
+ett nytt trafikavtal för busstrafiken i Kungsbacka för perioden 2029–2040.
+
+Syftet med arbetet har varit att skapa en samlad nulägesbild samt identifiera framtida behov och
+utvecklingsmöjligheter inom kollektivtrafiken som underlag inför kommande beslut om trafikavtalets
+utformning och omfattning. De slutliga besluten avseende trafikutbudet fattas av Driftsnämnden för
+kollektivtrafik inom Region Halland.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-06-02
+Yttrande, 2026-06-02
+Rapport Förstudie kollektivtrafik, fastlagd version 2025-06-01
+
+Beslutet skickas till
+
+Region Halland (Hallandstrafiken)
+
+Beskrivning av ärendet
+
+Hallandstrafikens förvaltning har berett ärendet med att ta fram underlag inför kommande politiska
+ställningstaganden kopplade till upphandlingen av ett nytt trafikavtal för busstrafiken i Kungsbacka
+kommun för perioden 2029–2040. Arbetet utgör en del av den samverkansprocess som drivs av
+Region Halland inför kommande beslut om trafikavtalets utformning och omfattning. De slutliga
+besluten avseende trafikutbudet fattas av Driftsnämnden för kollektivtrafik inom Region Halland.
+
+Syftet med förstudien har varit att skapa en samlad nulägesbild samt identifiera framtida behov och
+utvecklingsmöjligheter inom den allmänna kollektivtrafiken i Kungsbacka kommun. Processen har
+
+1 (2)
+Samhällsbyggnadskontoret                                  Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 230 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+bedrivits stegvis inom ramen för samverkan mellan förvaltningsrepresentanter i Kungsbacka och
+
+Hallandstrafiken, där dialog och avstämningar genomförts löpande under arbetets gång.
+Förvaltningens bedömning
+
+De förslag som Hallandstrafiken presenterar i förstudiens slutversion bedöms i huvudsak ligga i linje
+med de inriktningar och behov som Kungsbacka kommun under en längre tid har framfört. Förslagen
+omfattar bland annat ökad fordonskapacitet mellan Onsala och Kungsbacka, utveckling av stadsbuss-
+trafiken med högre turtäthet och direktbussförbindelse mellan Kungsbacka och Göteborg. Samtidigt
+har önskemålet om en direktbussförbindelse mellan Onsala och Göteborg inte tillgodosetts i förslaget.
+
+Rickard Vidlund                    Lovisa Eld
+
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 231 -->
+
+YTTRANDE
+Kommunstyrelsen
+
+Datum
+
+2026-06-02
+
+Diarienummer Kungsbacka
+KS-2026-00067
+
+Yttrande till Hallandstrafiken över förstudie av kollektivtrafikens inför upphandling av
+nytt trafikavtal för busstrafik i Kungsbacka kommun
+
+Sammanfattande inställning
+
+Kungsbacka kommun delar bedömningen att kollektivtrafikens långsiktiga utveckling behöver
+analyseras och utvecklas.
+
+Arbetsprocessen borde ha präglats av en tydligare förankring och kommunen efterfrågar därför en
+stärkt dialog i det fortsatta arbetet inför kommande beslut om trafikavtal och kollektivtrafikens
+
+utveckling i vår del i regionen.
+
+Kungsbacka kommun anser att kommunens särskilda roll som stark pendlingskommun i
+Göteborgsregionen behöver beaktas tydligt i det fortsatta arbetet inför kommande trafikupphandling.
+
+Kommunens inställning i detalj
+
+Kommunen anser att förankringsprocessen kunde genomförts på annat sätt. Kollektivtrafikens framtida
+utveckling är av sådan strategisk betydelse att de behöver förankras både på tjänstepersons- och
+politisk nivå. Processen behöver i större utsträckning fånga upp lokala prioriteringar och politiska
+avvägningar kopplade till exempelvis samhällsplanering, bostadsutveckling, näringslivets behov samt
+framtida resmönster och pendlingsrelationer.
+
+Det är en brist att förstudien inte har inkluderat någon marknadsundersökning, trots att det påtalats av
+Kungsbacka. Kommunen förutsätter därför att det i det fortsatta arbetet görs en fördjupad analys av
+resbehov och reserelationer för olika målgrupper inom Kungsbacka.
+
+Kommunen vill även i detta sammanhang särskilt lyfta behovet av att ytterligare analysera
+förutsättningarna för direkta kollektivtrafikförbindelser mellan Onsala och Göteborg utifrån framtida
+resandeutveckling och regionala pendlingsmönster.
+
+Kommunen ställer sig i nuläget tveksam till förstudiens förslag om att trafikera sträckan Onsala—
+Kungsbacka med ledbussar under större delen av trafikdygnet och anser att frågan behöver analyseras
+vidare utifrån resandeutveckling, kapacitetsbehov och trafikering över dygnets olika tidsperioder.
+
+Kungsbacka kommun anser att det fortsatta arbetet inför beslut om framtida trafikavtal behöver präglas
+av en tydligare och mer kontinuerlig dialog mellan Hallandstrafiken och Kungsbacka
+kommun. Kommunen förutsätter därför former för tidig samverkan mellan kommun och region
+
+1
+Kommunstyrelsen 2) Kungsbacka kommun
+kommun(Akungsbacka.se 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+
+www kungsbacka.se
+
+<!-- sida 232 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+rörande vägval och prioriteringar. Samverkan är viktigt för att säkerställa långsiktig legitimitet, lokal
+
+förankring och ett kollektivtrafiksystem som svarar mot kommunens och invånarnas framtida behov.
+
+Kungsbacka kommun
+
+<!-- sida 233 -->
+
+Förstudie inför upphandling
+Trafik 2029
+
+Kungsbacka
+
+2026-04-27
+
+Y Region Halland H TW västtrafik
+
+<!-- sida 234 -->
+
+Styrgrupp: Eva Lindh, verksamhetschef Trafik- och Samhällsutveckling
+Gustav Sandkvist, verksamhetschef Allmän Kollektivtrafik
+Hallandstrafiken
+Daniel Bernhardt, verksamhetschef Särskild kollektivtrafik
+
+Hallandstrafiken
+Martin Giöbel, verksamhetschef Upphandling och Hållbarhet
+Hege Kristiansson, avdelningschef Trafikutveckling
+Carina Örn, verksamhetsutvecklare Buss
+
+Projektledare: Rut Vernersdotter
+
+Arbetsgrupp: Wilhelm Häggander, trafikstrateg
+Johan Hasselqvist, trafikutvecklare allmän kollektivtrafik
+Björn Stenbäck, trafikutvecklare
+Robert Gustafsson, hållbarhetsstrateg
+Stina Alexandersson, samhällsutvecklare
+Simon Cederqvist, affärsansvarig
+Lars Lohman Olsson, trafikstrateg upphandling
+Andreas Sörthaga, fordonsstrateg
+
+Beslutad:  2026-04-27 av Styrgruppen
+
+Bilagor:   Bilaga 1. Trafikeringsförslag per linje
+Bilaga 2. Konsekvenser skoltrafik
+Bilaga 3. Behov av infrastrukturåtgärder
+
+Bilaga 4. Social konsekvensanalys
+
+Fotografer i rapporten: Anna Sigvardsson Högborg (sid 1, 11, 31, 43, 46, 60 och
+62), arbetsgruppen (sid 3, 5, 11, 22, 23, 42, 44, 47, 58, 64, 65, 67, 72 och 75)
+
+<!-- sida 235 -->
+
+<!-- sida 236 -->
+
+<!-- sida 237 -->
+
+1\.
+
+Bakgrund och
+
+syfte
+
+Under år 2027 kommer större delen av den allmänna trafiken
+inom avtalsområde Kungsbacka att handlas upp. Trafikstart
+planeras till juni 2029. Den trafik som ingår täcks i nuläget in
+av tre avtal och omfattar tätorts- och regionbusstrafik inom
+Kungsbacka kommun.
+
+Avtalen benämns:
+
+« Kungsbacka Tätort
+« Kungsbacka Landsbygd
+« Kungsbacka Onsala
+
+Inför upphandling genomförs en förstudie. Förstudien är gemensam
+för de tre nämnda avtalen. Förstudien ska tydliggöra vad som ska
+upphandlas, med hänsyn taget till hur det ser ut idag samt framtida
+planer och målsättningar som kommer att påverka kollektivtrafiken
+under avtalstiden.
+
+Förutsättningarna i Kungsbacka är speciella då Kungsbacka är en
+halländsk kommun, men där kollektivtrafiken utförs av Västtrafik på
+uppdrag av Region Halland. Denna förstudie görs därför i samarbete
+mellan Västtrafik och Hallandstrafiken, en förvaltning inom Region
+Halland...
+
+Arbetet har följt Västtrafiks process Genomföra förstudie inför
+trafikupphandling.
+
+Karta1l. Karta över dagens linjenät
+
+\>
+
+<!-- sida 238 -->
+
+<!-- sida 239 -->
+
+<!-- sida 240 -->
+
+1\. BAKGRUND OCH SYFTE |
+
+Styrande målbilder, strategier och
+riktlinjer
+
+I detta avsnitt ges en kort sammanställning av dokument som är
+viktiga att beakta i förstudien.
+
+Regionalt trafikförsörjningsprogram för Region Halland
+Region Halland har ett trafikförsörjningsprogram för perioden
+2021-2025, och arbete pågår med en ny version som ska gälla
+2026-2030. Arbetet med det nya trafikförsörjningsprogrammet
+pågår parallellt med denna förstudie, men dokumentet bedöms
+
+Mat Boris
+
+Kolärtivi afibeti åa
+
+Ullared
+
+'o 11
+
+Figurl1. Bild från det regionala trafikförsörjningsprogrammet som visar starka stråk i Kungsbacka
+kommun.
+
+till stora delar vara färdigställt och en remissversion skickades ut i
+oktober 2025.
+
+Upphandling och trafikstart för den allmänna kollektivtrafiken i
+Kungsbacka kommer att ske under Trafikförsörjningsprogram
+2026-2030, varför denna version används i arbetet med förstudien.
+Den trafikeringsstrategi som ska användas för den allmänna
+kollektivtrafiken i Halland är:
+
+« Koncentrera resurser till stråk där förutsättningar för ökat
+resande är goda.
+
+« Grundläggande resmöjligheter för hela länet.
+
+« Tågtrafiken på Västkustbanan utgör stommen i det halländska
+kollektivtrafiksystemet.
+
+I det regionala trafikförsörjningsprogrammet pekas prioriterade
+stråk ut, i form av Västkuststråket, mycket starka stråk och starka
+stråk. Inom Kungsbacka kommun finns ett flertal prioriterade stråk.
+
+Inom Kungsbacka tätort trafikerar linje I och 2 det som klassas som
+starka stråk. Dessa förbinder Kungsbacka station med Kolla, Fors
+och Hede station.
+
+I remissversionen av Region Hallands trafikförsörjningsprogram
+definieras ett basutbud, se tabell 1. Enligt basutbudet ska tätorter
+med 300 eller fler invånare ha allmän busstrafik. Detta förutsätter
+att infrastrukturen är av tillräcklig standard. Vägarna måste vara
+utformade så att det är möjligt att köra med busstrafik i båda
+riktningar och vändmöjlighet måste finnas.
+
+<!-- sida 241 -->
+
+f
+Å
+Hede station
+
+Fors
+j
+| Kolla
+s +
+LI
+4 +
+th
+| N
+4 +.
+UC
+Ny 4
+A ng,
+Y in.
+4 Stadsbusstråk Kungsbacka
+I
+.
+Figur 2. Lokala kollektivtrafikstråk i Kungsbacka, enligt Hallands trafikförsörjningsprograrm,
+
+remissversion oktober 20265.
+
+1\. BAKGRUND OCH SYFTE |
+
+Tätort, invånarantal Mån - fre Lör | Sön
+< 300 Närtrafik/anropsstyrd trafik - -
+300-499 5 - -
+500-999 1 - -
+1000-2999 10 6 5
+\> 3 000 18 10 6
+
+Tabell1l. Basutbud för orter baserat på invånarantal. Utbud i antal dubbelturer per dygn. Från Region
+Hallands trafikförsörjningsprogram 2026-2030, remissversion.
+
+Miljö och klimat
+
+Enligt Region Hallands trafikförsörjningsprogram är målsättningen
+att all kollektivtrafik ska vara fossilfri. Utöver detta finns en
+målsättning om att antalet elbussar inom stadsbusstrafiken ska öka,
+vilket är beskrivet i Region Hallands handlingsplan för det interna
+klimat- och miljöarbetet.
+
+Verktyg sociala aspekter
+
+För att beskriva nuvarande förutsättningar har kartmaterial
+
+med socioekonomiska och demografiska aspekter
+
+analyserats. Framtaget trafikeringsförslag har beskrivits och
+konsekvensanalyserats med hänsyn taget till dess positiva och
+negativa effekter ur ett socialt perspektiv. Detta finns beskrivet
+kapitel 9 Genomgång av förslagets sociala konsekvenser och
+även beskrivit linje för linje i avsnittet Konsekvensbeskrivning och
+eventuella risker.
+
+Målbild Tåg 2035 samt målbild för tågtrafik enligt
+trafikförsörjningsprogram
+Västkustbanan trafikeras av lokaltåg (Kungsbackapendeln,
+
+9
+
+<!-- sida 242 -->
+
+Kungsbacka - Göteborg), regiontåg (Hallandståg, Varberg —
+Göteborg) och storregiontåg (Öresundståg Köpenhamn —- Skåne -
+Halland - Göteborg). Sträckan trafikeras dessutom av kommersiell
+snabbtågstrafik.
+
+Här beskrivs målsättningar som förväntas uppfyllas under
+avtalsperioden. På längre sikt planeras ytterligare satsningar på
+tågtrafiken i norra Halland, men det förutsätter kapacitetsökning i
+järnvägsinfrastrukturen.
+
+Storregiontåg
+
+Ambitionen är att Öresundstågen ska ha en avgång per timme
+
+och riktning, med förstärkt utbud under vardagarnas morgnar och
+eftermiddagar. Detta innebär två avgångar per timme och riktning i
+högtrafik. På längre sikt, efter 2035 och när infrastrukturen möjliggör
+och resbehovet motiverar, ökas utbudet till två avgångar per timme
+och riktning under hela trafikdygnet.
+
+Regiontåg
+
+Trafiken förstärks på sträckan Varberg-Kungsbacka-Göteborg
+med regiontågstrafik. Regiontågen ska ha tätare stoppbild
+
+än Öresundståg och också stanna vid större hållplatser i
+Kungsbackapendelns upptagningsområde.
+
+Regiontågen har därmed två syften, dels att tillgodose
+resebehovet mellan norra Halland och Göteborg, dels att avlasta
+Kungsbackapendeln.
+
+Enligt Region Hallands trafikförsörjningsprogram ska Hallandståget
+ha en avgång per timme och riktning, med förstärkt utbud under
+
+1\. BAKGRUND OCH SYFTE |
+
+vardagarnas morgnar och eftermiddagar. Detta innebär två avgångar
+per timme och riktning i högtrafik. Detta är också den långsiktiga
+målsättningen, efter 2035.
+
+Lokaltåg
+
+Kungsbackapendeln har ett högt utbud och generösa öppettider.
+Utbudet är i grunden halvtimmestrafik, det vill säga två avgångar
+per timme och riktning, men det förstärks under högtrafik till
+
+fyra avgångar per timme vilket ger kvartstrafik. Den långsiktiga
+ambitionen är att ha kvartstrafik under större delen av trafikdygnet.
+
+Lokal- och regiontåg kommer att köras genom Västlänken med start
+i december 2030 (T31). Västlänken kommer att påverka tågens
+avgångstider från Kungsbacka station, jämfört med de avgångstider
+som gäller när denna förstudie skrivs. Eftersom de olika tågsystemen
+har olika hastighet och behöver taktas in mot Göteborg, finns det
+risk att avgångstiderna från Kungsbacka inte kommer vara jämnt
+spridda över timmen. Detta kan påverka busstrafikens tidtabeller,
+och behöver bevakas i det fortsatt arbetet.
+
+Från Kungsbacka station förväntas alltså fyra avgångar med lokaltåg,
+två avgångar med regiontåg samt två avgångar med storregiontåg
+per timme. Totalt blir det åtta tågavgångar per timme men hur dessa
+avgångar fördelas över timmen är ännu oklart.
+
+10
+
+<!-- sida 243 -->
+
+2 p”
+LE JLKE LAKE ETTNKTII: i
+
+Dagens trafik
+och affär FEN YTTRE TILLIE
+
+Dagens trafik
+
+Dagens tre avtal innehas av KE:s bussar, som är ett dotterbolag till
+Nobina. Avtal 6022 och 6023 vanns direkt av KE'S, och avtal 6120
+vanns av Nobina och KE'S är underentreprenör till Nobina.
+
+”Tätortsavtalet” avtal 6023 utgörs av 5 linjer som täcker in större
+delen av Kungsbacka tätort. Linjerna bildar sex ben med anslutning
+till varandra samt Västtåget på Kungsbacka station och till viss
+
+del Hede station. Linje I och 2 är huvudlinjerna som trafikerar de
+utpekade starka stråken som täcker in områdena Kolla, Fors, Tölö
+och Varla med anslutning vid Kungsbacka station.
+
+"Onsalaavtalet” avtal 6120 utgörs av 5 linjer som i huvudsak trafikerar
+längst Västkusten inklusive Onsala. Linjerna 730 och 731 trafikerar
+Onsala-Kungsbacka, linje 732 trafikerar Frillesås-Åsa-Kungsbacka
+och linjerna 733 och 734 trafikerar Vallda-Kungsbacka. Alla dessa
+linjer trafikerar helt eller delvis utpekade mycket starka stråk samt
+starka stråk.
+
+”Landsbygdsavtalet” avtal 6022 utgörs av 12 linjer som täcker in
+stora delar av Kungsbackas inland, från Lindome i norr till Frillesås
+
+i söder. Majoriteten av linjernas uppdrag är främst grundskole- och
+gymnasiependling men vissa linjer utgör också en viktig funktion som
+arbetspendling. Linje 720 och 742 är de enda linjerna som trafikerar
+utpekade starkt och mycket starkt stråk, där 720 trafikerar stråket
+Särö-Kungsbacka och 742 Fjärås-Kungsbacka.
+
+Kompletterande och anslutande trafik
+
+Västkustbanan trafikeras med tåg i varierande hastigheter
+och med olika uppehållsmönster genom de tre tågsystemen
+Kungsbackapendeln (lokaltåg), Hallandståg (regiontåg) och
+Öresundståg (storregionala tåg).
+
+Resandet med Västtåg mellan Kungsbacka och Göteborg
+(Kungsbackapendeln) har mätts med kundräkningssystem sedan
+2017\. Kundräkningssystemet innebär att sensorer i varje dörrpar
+räknar antalet på- och avstigande. Under 2024 genomfördes 2,4
+miljoner resor med Västtågen mellan Kungsbacka och Göteborg.
+
+<!-- sida 244 -->
+
+Majoriteten av linjerna och turerna ansluter till och från
+Kungsbackapendeln vilket skapar snabba, hållbara och
+konkurrenskraftiga resor mellan hem, arbete, studier och
+fritidsaktiviteter genom länsgränserna, men skapar även bra
+bytesmöjligheter lokalt.
+
+Knutpunkten är primärt vid Kungsbacka resecentrum och sekundärt
+vid Hede station. Kungsbackapendeln stannar även vid Anneberg
+station.
+
+Linje X3 och linje 720 möts vid Särö centrum, som fungerar som
+
+en viktig knutpunkt där resenärer enkelt kan byta mellan de två
+linjerna. Linje 720 trafikerar sträckan mellan Kungsbacka, Vallda,
+Särö och Kullavik, medan linje X3 går vidare mot Göteborg.
+Tillsammans skapar de en naturlig koppling mellan kustorterna och
+Göteborgsområdet.
+
+Inom de västra delarna av Kungsbacka kommun finns även två
+beställningslinjer, JO3 Särögården-Ekenäs och 704 Ekenäs-
+Kungsbacka. Dessa har ett mycket lågt nyttjande, mellan en och två
+resor per år görs med respektive linje.
+
+I de östra delarna av Kungsbacka kommun finns även en
+beställningslinje, 705 Fjärås station-Fjärås centrum. Denna har ett
+mycket lågt nyttjande. Det görs 8 resor per år med beställningslinje
+705\.
+
+I söder ansluter linje 615, som ligger i avtal med Hallandstrafiken, till
+tågen i Åsa. Åsa station är en viktig knutpunkt för den hela resan.
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Planerade linjeförändringar
+
+Det finns inga planerade linjeförändringar inom Kungsbacka.
+
+Västtrafik kommer att handla upp ett nytt trafikavtal för linje X3.
+Förstudie för denna trafik startas upp under april 2026. Effekter på
+övrig trafik i Kungsbacka behöver analyseras inom den kommande
+förstudien.
+
+I Hallandstrafikens kollektivtrafikplan 2027 har behovet av utökade
+öppettider i Kungsbacka stadstrafik lyfts. Kollektivtrafikplanen
+kommeer att beslutas under 2026.
+
+Trafikeringsperioder, med anledning av
+förändringar i anslutande trafik
+
+Då busstrafiken i Kungsbacka påverkas kraftigt av två
+förändringar/möjliga förändringar i anslutande trafik, kommer två
+trafikeringsperioder att behöva definieras i avtalet. De förändringar
+som har stor påverkan är:
+
+« Fullt utbyggd tågtrafik, enligt fastställd målbild för tågtrafiken,
+när Västlänken är färdigställd. Detta beräknas ske i december
+2030\.
+
+« Trafikstart för en eventuell ny expressbusslinje längs väg 158.
+Trafikstart för det avtal som innefattar busstrafik i Göteborg,
+Mölndal, Partille och nuvarande X-linjer 1-4 sker i december
+2030\. Om det införs någon ny expressbusslinje längs väg 158,
+som går in i Kungsbacka kommun, så kommer den att starta
+inom det avtalet med trafikstart december 2030.
+
+12
+
+<!-- sida 245 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR | = 13
+
+Notera att avtalsperioden kan vara antingen tio år likt nuvarande
+avtal eller elva år. Läs mer om detta i kapitel 10 Ytterligare medskick
+till upphandling. De kända förändringar som kommer ha stor
+påverkan på busstrafiken i Kungsbacka kommun, sker ett och halvt
+år efter avtalsstart, se figur nedan.
+
+Förändrade förutsättningar för trafikering:
+» Trafikstart ev. ny expressbusslinje längs väg 158
+» Fullt utbyggd tågtrafik, när Västlänken är helt klar
+December 2030
+2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040
+Ito fr bör tl rt tb rt töt ltr t tt pr tt rt ör bt rp
+AL a a a a a a a La a
+|| J
+I
+Avtalsperiod 11 år
+Juni 2029 — juni 2040
+[| Å J
+| Y
+Trafikeringsperiod 1, 1,5 år Trafikeringsperiod 2, 9,5 år
+juni 2029 — december 2030 december 2030 — juni 2040
+
+Figur 3. Tidslinje trafikeringsperioder inom avtalstiden. Notera att avtalstiden kan bfi antingen 10 år eller Il år.
+
+<!-- sida 246 -->
+
+Resande
+
+Under 2025 genomfördes cirka 3 miljoner resor med den
+
+allmänna busstrafiken i Kungsbacka. Fördelningsmässigt står
+
+det så kallade Onsalaavtalet (6120) för ca 50 procent av resorna,
+landsbygdsavtalet (6022) och tätortsavtalet (6023) för respektive
+25 procent vardera. Resandeutvecklingen för busstrafiken i
+Kungsbacka visas i diagrammet nedan. En markant nedgång skedde
+vid pandemin men därefter har resandet återhämtat sig.
+
+Resor med buss, Kungsbacka
+
+BO iedsbuts öh
+
+Figur 4. Antalresor med busstrafik inom Kungsbacka kommun, år 2019-2025
+
+Kapacitet i dagens linjenät
+
+Nedan beskrivs kapacitet under vardagar för olika geografiska
+områden och stråk inom Kungsbacka kommun. Kapacitetsanalysen
+utgår främst utifrån definitionen om sittplatskapacitet. Resandet
+under helger följer i stora drag samma geografiska mönster som
+under vardagar.
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+De linjer och stråk som uppvisar ett högt resande på vardagar har
+generellt även ett starkt resande under helgerna, dock medför inte
+helgresandet kapacitetsproblem.
+
+Onsala
+
+Onsalatrafiken utgörs till stor del av linje 731 (Älskogsbräcka-Onsala-
+Kungsbacka) och 734 (Älskogsbräcka-Vallda-Kungsbacka) som
+tillsammans står för merparten av resorna på Onsala. Linje 730
+(Mariedal-Onsala-Kungsbacka) kompletterar utbudet på linje 731
+under högtrafik. På den nordvästra delen av Onsala trafikerar linje
+733 (Västra Hagen-Vallda-Kungsbacka) som ombesörjer Kläppa och
+Lerkil.
+
+Under högtrafik är resandet mycket koncentrerat under framför
+allt morgon in mot Kungsbacka. Högst beläggning är det på linje 731
+där resandet överstiger sittplatskapaciteten på några turer trots
+förstärkningar och därutöver dolda förstärkningar med skolbussar.
+Detta gäller på sträckan mellan Onsala kyrka vidare in mot
+Kungsbacka.
+
+På eftermiddagen från Kungsbacka till Onsala är resandet mer
+utspritt även om vissa turer överstiger sittplatskapaciteten på delar
+av sträckan. Under dag- och lågtrafik finns ett överlag gott resande
+men utan kapacitetsproblem.
+
+Linje 734 har inte samma kapacitetsutmaningar som linje 731, på
+morgonen är det en specifik tur som har mycket resande samt två
+turer i andra riktningen på eftermiddagen. Även för linje 734 gäller
+dock att dolda skolbussar förstärker linjetrafiken. Under dag- och
+lågtrafik är resandet relativt begränsat i jämförelse med linje 731.
+
+14
+
+<!-- sida 247 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Linje 733 uppvisar samma mönster med ett högre resande under en
+begränsad period på morgonen och eftermiddagen, övriga tider är
+resandet mycket begränsat.
+
+Karta4. Linjenät Onsala
+
+Särö och Kullavik
+
+I stråket mellan Kullavik/Särö och Kungsbacka trafikförsörjer linje
+720 (Kungsbacka-Särö-Kullavik) med bytesmöjlighet till linje X3
+(Särö-Göteborg-Gråbo). Linjen har problem med kapaciteten
+
+på någon enstaka tur på morgon och eftermiddag. Resandet är
+dock troligtvis högre i praktiken då utbudet förstärks av dolda
+förstärkningar med skolbussar. Under övriga tider har linjen ett visst
+resande.
+
+\-
+1
+ä
+
+Karta 5. Linjenät Särö och Kullavik
+
+<!-- sida 248 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Frillesås och Åsa
+
+I riktning mot Åsa och Frillesås trafikerar huvudsakligen linje 732
+(Frillesås-Åsa-Kungsbacka). Därutöver trafikeras stråket av enskilda
+turer på linje 745 (Idala-Frillesås-Åsa-Fjärås), 746 (Stättaredsvägen-
+Frillesås-Åsa-Kungsbacka), 747 (Ölmanäs-Åsaskolan-Kungsbacka)
+och 748 (Kyrkobyn-Breared-Landa-Kläppa-Åsa) under högtrafik
+som avlastar linje 732.
+
+På morgonen in mot Kungsbacka finns kapacitetsproblem på
+enstaka turer med överstigande sittplatskapacitet från Åsa och
+norrut. Samma sak gäller på eftermiddagen med trängsel på vissa
+turer från Kungsbacka till Åsa. Övriga tider finns kapacitet för att
+öka resandet på linje 732. Notera att det också finns kapacitet på
+regiontågtrafiken Åsa —- Kungsbacka.
+
+\- -
+
+VERA
+
+Karta 6. Linjenät Frillesås och Åsa.
+
+Fjärås
+
+Mellan Fjärås och Kungsbacka är linje 742 (Förlanda-Öxared-
+Fjärås-Kungsbacka) den huvudsakliga linjen. Det finns generellt inga
+kapacitetsproblem på linjen med undantag för någon enstaka tur på
+morgonen in mot Kungsbacka och tillbaka på eftermiddagen. Notera
+att sträckan också trafikeras av andra linjer.
+
+YO magert fr
+i 4 ] [
+read Kd - pa
+\> Yi » PE ser
+NAbecke ngn
+palt v
+| Kungsbacka = dugmeee
+I I RR
+Å ere
+mere
+ma sens
+fa) tärnan an
+na dörrn såg ne
+Tyne fjärås), gp för
+Harakr d aägrie 2 kn
+br mate men
+Får Ja! faarrd saa
+ry 2 fa
+föeedelälden nd
+25\) Fin hå ena
+CI -
+tee GEN a SS
+52 345 246 Cl CM
+4 M3
+
+Karta 7. Linjenät Fjärås.
+
+<!-- sida 249 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR | = 17
+
+Sydost Nordost
+
+Linjer som trafikerar i det sydostliga inlandet (743 (Litserhult- I det nordostliga inlandet trafikerar linje 717 (Röshult-Anneberg-
+Förlanda-Gällinge-Fjärås), 144 (Horred-Gällinge-Fjärås- Kungsbacka), 735 (Kungsbacka-Lindome), 740 (Hällingsjö-Ubbhult-
+Kungsbacka), 745 (Idala-Frillesås-Åsa-Fjärås), 746 Hjälm-Fjärås) och 741 (Sätila-Nåkälla-Fjärås-Kungsbacka). På
+(Stättaredsvägen-Frillesås-Åsa-Kungsbacka) har över lag inga linje 717 finns en morgontur som överskrider sittplatskapacitet på
+kapacitetsproblem bortsett från enskilda turer på kortare sträckor. sträckan mellan Älvsåker och Björkris norra. Samma sak gäller för
+
+linje 741 med en tur på morgonen där antalet resenärer överstiger
+På linje 744 finns det en morgontur med stående passagerare på sittplatserna mellan Hjälms bro och Forsgläntevägen (Hålabäck).
+sträckan mellan Gällinge och Inlag. Samma sak gäller för linje 746
+som har stående passagerare mellan Fjärås station och Inlag på en
+morgontur.
+
+—
+ET
+N
+
+<!-- sida 250 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Stadsbusstrafiken
+
+Linje 1-5 täcker in större del av Kungsbacka tätort med få
+undantag som till exempel norra Tingberget och Tölö Ängar.
+På linje 3 vid Aranäsgymnasiet och Engelska skolan överskrids
+sittplatskapaciteten vid enstaka turer kring skolstart.
+
+Karta 10. Linjenät stadbusstrafiken
+
+JA
+
+TE
+mm JE |
+
+KUNGSBACKA /
+
+<!-- sida 251 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Linjenummer = | Sträckning Resenärer per | Resenärer per
+tur 2024 vardagsdygn
+september 2024
+1 Hede Station - 14 764
+Fors
+2 Hede Station - 13 686
+Kolla
+3 Britta-Lena - 6 306
+Kungsbacka
+4 Hede Station - 4 202
+Kungsbacka
+5 Björkris - Hede
+station
+Linjenummer | Sträckning Resenärer per | Resenärer per
+tur 2024 vardagsdygn
+september 2024
+730 Mariedal-Onsala- | 7 106
+Kungsbacka
+731 Älskogsbräcka- = |18 1545
+Onsala-
+Kungsbacka
+132 Frillesås- 17 1172
+sa-Fjäräs-
+Kungsbacka
+1733 V Hagen-Vallda- 18 358
+Kungsbacka
+734 Älskogsbräcka- 18 646
+Vallda-
+Kungsbacka
+
+Linjenummer | Sträckning Resenärer per | Resenärer per
+tur 2024 vardagsdygn
+september 2024
+
+I Röshult- 9 185
+Anneberg-
+Kungsbacka
+
+720 Kullavik-Särö- 11 123
+Kungsbacka
+
+735 Kungsbacka- 8 106
+Lindome
+
+740 Hällingsjö- 4 86
+Ubbhult-Fjärås
+
+741 Sätila-Nåkälla- — | 10 265
+Fjärås-
+Kungsbacka
+
+1742 Förlanda- 10 547
+Oxared-Fjärås-
+Kungsbacka
+
+1743 Litserhult 1 117
+Förlanda-Gällinge
+Fjärås
+
+744 Horred- 12 230
+Gällinge-Fjärås-
+Kungsbacka
+
+745 Idala-Frillesås- 6 80
+
+-Fjärås
+
+746 Stättaredsv- 15 115
+Frillesås-Åsa
+
+141 Ölmanäs-Åsa- — 19 151
+Kungsbacka
+
+1748 Kyrkobyn- 6 60
+
+Breared-Landa-
+Kläppa-Åsa
+
+19
+
+<!-- sida 252 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR | = 20
+
+Resande med skolkort Linje Andel skolkort
+Flera linjer har en hög andel skolresande, medan andra linjer har en 730 Mariedal - Kungsbacka 210
+betydligt lägre andel. 731 Älskogsbräcka - Kungsbacka 3494
+
+Linje Andel skolkort 732 Frillesås - Kungsbacka 3140
+
+717 Röshult - Kungsbacka 6324 733 Västra Hagen - Kungsbacka 5096
+
+720 Kungsbacka - Kullavik 2994 734 Alskogsbräcka - Kungsbacka | 4290
+
+735 Kungsbacka - Lindome 634 Totalt 3640
+
+740 Ubbhult - Fjärås 75940 Tabell 4. Andel skolkort per linje, Kungsbacka Onsala
+
+741 Sätila - Kungsbacka 5900
+
+742 Fjärås - Kungsbacka 35940 Lågfrekvent resande
+
+743 Litserhult - Fjärås JAY Trafiken inom Kungsbacka är uppdelad på tre olika avtal, vilket
+
+744 Horred - Kungsbacka ANY, medför tydliga skillnader i både resande och kostnadstäckningsgrad
+
+= mellan avtalsområdena. Vissa avtal har en högre effektivitet och
+
+245 Idala - Fjärås 8996 bättre ekonomiskt utfall än andra.
+
+746 Stättaredsvägen - Kungsbacka — |6990
+
+747 Olmanäs - Kungsbacka 6290 Inom tätortstrafiken utmärker sig linje 5 med lågt resande och låg
+748 Kyrkobyn - Åsa 7870 kostnadstäckningsgrad. Linjen har i genomsnitt O,6 resenärer per tur
+Totalt 44940 och en kostnadstäckningsgrad på 27 96. Även linje 3 och 4 har ett lågt
+Tabell 2. Andel skolkort per linje, Kungsbacka Landsbygd resande — båda ligger på under 8 resenärer per tur - men uppvisar
+
+trots det en relativt god kostnadstäckningsgrad på över 30 26.
+
+Linje Andel skolkort
+
+1 Hede station - Fors 2600 Utanför tätorten utmärker sig linje 740 (Hällingsjö — Ubbhult —
+
+2 Hede station - Kolla 2724 Fjärås) genom ett lågt snittresande på 3,5 resenärer per tur och en
+
+3 Britta Lena - Kungsbacka station 4694 mycket låg kostnadstäckningsgrad på 11 26. Linjen utför dock ett
+
+4 Hede station - Kungsbacka station | 1896 grunduppdrag i Marks kommun. Även linje 730 har svagt resande,
+
+7 7 med strax under 7 resenärer per tur och en kostnadstäckningsgrad
+
+5 Hede station - Hede station 40940 på 1896.
+
+Totalt 2920
+
+Tabell 3. Andel skolkort per linje, Kungsbacka Tätort
+
+<!-- sida 253 -->
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+Dagens affär Befintligt trafikbolag har idag 3 depåer och kör på en kombination av
+diesel RME och el. En begränsning utifrån dagens avtalsstruktur är
+
+Avtalen har idag en trafikkostnad på cirka 104,4 mkr för 2024, att avtalen är relativt små med små fordonsflottor.
+
+fördelat på nedan samt resande för tidsperioden 2021-2024:
+
+Reservfordon kan inte utnyttjas mellan avtalen eftersom avtalen är
+
+« Avtal 6022 cirka 40 mkr . . .
+låsta till respektive fordonstyp.
+
+« Avtal 6023 cirka 20,8 mkr
+
+» Avtal 6120 cirka 43,6 mkr Rast/pauslokaler i området
+
+Antal resor | 2021 2022 2023 2024 I nedan tabell finns en sammanställning över hur befintligt trafikbolag
+
+6022 345 7217 694 390 721 994 706 484 nyttjar paus/rastlokaler för sin personal. Kungsbacka Resecentrum
+
+a S Oss ck tillhandahålls idag av Västtrafik genom Västfastigheter. Vid Snipen
+
+Landsbygd (kommungränsen till Göteborg) finns en pauslokal i Västfastigheters
+
+6023 KEs — |285486 638 135 639 585 657 640 regi som kan nyttjas.
+
+Kungsbacka
+
+Tätort - Plats Typ av rastlokal Förvaltas av
+
+6120 Nobina |590 344 1379 504 1184 408 1219 354 Kungsbacka Rastlokal + Toalett Västfastigheter
+
+Kungsbacka Resecentrum
+
+Totalsumma [1221 557 2712 029 2.551 987 2583 478 Hede Station Rastlokal + Toalett Kungsbacka kommun
+Tabell'5. Fördelning av resande mellan de olika avtalen. Kullavik Hamn Toalett + enklare pentry | Kullavik tennisklubb
+
+o 2 Älskogsbräcka Toalett Hallandstrafiken
+Fordon, depåer och drivmedel Depå Fjärås Depå ES
+Trafiken i Kungsbacka bedrivs av totalt 44 fordon varav 6 Depå Hantverksgatan Depå Kungsbacka
+reservfordon. Fordonsfördelningen per avtal sammanställs enligt lastbilscentral
+nedan: Ladd-depå Laddplats elbussar - KES
+Arendalsvägen Toalett + pentry
+
+« Avtal 6022 = 18 st Normalbuss + 2st reservfordon
+« Avtal 6023 = 6 st Stadsbuss + 2st reservfordon
+
+Tabell 6. Rast- och pauslokaler i området.
+
+« Avtal 6120 = 14 st Boggibuss + 2st reservfordon
+
+<!-- sida 254 -->
+
+Förstärkningstrafik
+
+Under 2023, 2024 och fram till i september 2025 har KE:s förstärkt
+med oplanerad förstärkning i ytterst liten mängd. Totalt sett har det
+handlat om 23 turer fördelat enligt nedan per avtal.
+
+2023 2024 2025
+6022 1 6 2
+6023 0 4 0
+6120 0 0 0
+
+Tabell 7. Sammanställning av oplanerade förstärkningsturer 2023-2026.
+
+Från Onsalahalvön finns det ett dolt resande in mot Kungsbacka
+
+på morgonen. Gymnasieelever som reser med skolbussar (10
+skolbussar totalt på Onsala/Särö) syns inte i statistiken. Skolbussar
+kör en vända med grundskoleelever först, och kör sedan och plockar
+upp gymnasieelever under skoltider. Således skulle man kunna
+beskriva att trafiken idag förstärks genom skollinjer.
+
+Tillköp
+Det finns inga tillköp av trafik i dagens avtal i Kungsbacka.
+
+Kungsbacka kommun gör tillköp av biljetter i form av skolkort,
+fritidskort och seniorbiljett.
+
+Under 2025 har Kungsbacka kommun beställt totalt 4 834 skolkort.
+Av dessa var det 4 481 stycken som beställdes under perioden
+juni-september, och kan antas vara aktiva under höstterminen
+2025\. Utöver detta har kommunen beställt 10 685 övriga biljetter
+under 2025, fram till mitten av september. Med övriga biljetter
+
+2\. DAGENS TRAFIK OCH AFFÄR |
+
+avses fritidsladdningar, tillfälliga skolkort, biljett för hemresa och
+skolstartskort.
+
+Kungsbacka kommun erbjuder alla gymnasieelever som är
+folkbokförda och går i skola inom kommunen både skol- och
+fritidskort. Detta gäller till och med det läsår då eleven fyller 20 år.
+Eleven behöver ansöka för att få ett sådant kort.
+
+Kommunen erbjuder invånare som är 65 år eller äldre ett seniorkort.
+
+Ansökan görs via Västtrafik. De seniorkort som Kungsbacka erbjuder
+gäller dygnet runt i zon B, för busstrafik, tågtrafik (Västtåg, Vy-tåg
+och Öresundståg) samt Marstrandsfärjan. Under hösten 2025 är det
+15 611 seniorer i Kungsbacka som har en seniorbiljett.
+
+2
+
+<!-- sida 255 -->
+
+Infrastrukturella
+förutsättningar
+
+Begränsnin gar i dagens infrastruktu r trafikeras av allmän busstrafik, fastän de borde göra det för att
+Region Hallands basutbud ska uppfyllas. Detta gäller tätorten Röda
+
+Holme (680 invånare). Till denna tätort bedöms vägarna vara av för
+dålig standard för att busstrafik ska vara möjlig.
+
+Ett flertal av de vägar som trafikeras med regionbuss inom
+Kungsbacka kommun är smala. Det finns även områden som inte
+
+Karta Il. Till vänster: tätorter, källa SCB. Tätorten Röda Holme (683 invånare år 2023) inringad med svart cirkel. Till höger: Närtrafikskarta,
+arbetsmaterial från Hallandstrafiken. Färgade områden ligger inom 2 km från hållplats med regelbundna avgångar och täcks därmed in av den
+allmänna busstrafiken. Invånare inom ofärgade ytor är berättigade Närtrafik.
+
+<!-- sida 256 -->
+
+Det har gjorts testkörning med ledbuss längs linje 731. Majoriteten av
+hållplatserna kan trafikeras med ledbuss med nuvarande utformning,
+eller efter smärre åtgärder, förutsatt att det inte finns dörr längst bak
+i fordonet.
+
+En begränsande faktor i infrastrukturen är Kungsbacka resecentrum.
+Där är utrymmet begränsat och det bedöms krävas vissa åtgärder
+för att det ska vara möjligt att trafikera med ledbuss.
+
+Hållplatslägena vid stationen har dessutom låg standard och
+
+är i behov av tillgänglighetsanpassning. Behovet har varit känt
+under en tid, men kommunen inväntar en större ombyggnation av
+stationsområdet och har därför avvaktat med åtgärder.
+
+Depåer
+
+Nuvarande trafikföretag har tre depåer, som är belägna i:
+
+« Fjärås
+. Bua
+« Kungsbacka
+Det finns också en mindre uppställnings- och laddplats i norra
+
+Kungsbacka, vid Arendalsvägen.
+
+Trafikföretaget ansvarar för depåerna. Varken Västra
+Götalandsregionen, Västtrafik eller Region Halland/Hallandstrafiken
+har någon rådighet över de depåer som används för närvarande.
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+Planerade infrastrukturåtgärder
+
+När det gäller det statliga vägnätet, planeras en ny väg 940 på
+Onsalahalvön mellan Rösan och Forsbäck!. På sträckan mellan
+Forsbäck och E6 har punktinsatser genomförts, med syfte att
+förbättra trafiksäkerhet och framkomlighet.
+
+Arbete påbörjades hösten 2025 och vägen planeras att vara klar år
+2029\.
+
+Den nya vägsträckan byggs som mötesfri landsväg och ska kunna
+hantera trafikmängder i storleksordningen 16 000 fordon per dygn
+och ha en hastighetsgräns på 80 km/h. I projektet ingår även gång-
+och cykelvägar, bytespunkter för buss samt cykelparkeringar vid
+bytespunkterna.
+
+Efter att den nya vägen är utbyggd, kommer kommunen att ta över
+befintlig vägsträcka och kan då genomföra åtgärder på sträckan.
+Enligt uppgifter från kommunen, är den övergripande planen att
+biltrafik prioriteras på den nya väg 940 medan gång, cykel och
+kollektivtrafik prioriteras på den befintliga vägen. En förstudie ska
+genomföras för den befintliga vägen, i syfte att identifiera åtgärder
+som kommunen ska genomföra när vägen övergår till kommunalt
+
+väghållarskap.
+
+1 Region Halland, Regional infrastrukturplan Halland 2022-2033 och Trafikverket, Väg 940,
+Onsalavägen, nybyggnad - www.trafikverket.se
+
+24
+
+<!-- sida 257 -->
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+Ungefärlig sträckning ny
+väg 940 Onsalavägen
+
+Karta 12. Till vänster: Översiktsbild för ny väg 940, Onsalavägen. Källa: Trafikverket. Till höger: den planerade vägen i förhållande till nuvarande linjenät.
+
+<!-- sida 258 -->
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR | = 26
+
+Karta 13. Till vänster:
+Illustrationsplan Hedeleden.
+Källa: Kungsbacka kommun,
+ritning utförd av Sigma.
+Till höger: den planerade
+vägen i förhållande till
+le linienät. Ungefärli
+
+sokni korad
+på Hallandstrafik
+linienätsk
+
+a
+
+Inom det kommunala vägnätet finns planer på att bygga en ny vägförbindelsen är en del av utvecklingen av nordöstra Kungsbacka
+väg mellan Hällingsjövägen och Hede station, kallad Hedeleden?. stad, där flera nya bostadsområden är planerade.
+En detaljplan för detta har varit ute på granskning. Den nya
+
+2 Kungsbacka kommun, Hedeleden och Klippebergen | Kungsbacka kommun
+
+<!-- sida 259 -->
+
+En annan planerad åtgärd inom det kommunala vägnätet, är
+breddning av Varlavägen för ökad framkomlighet. Varlavägen förses
+med ytterligare körfält, så att det blir två körfält i vardera riktningen
+mellan Tölö Tvärled och Arendalsleden?.
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+Även i den södra änden av Varlavägen genomförs breddning till fyra
+körfält, i samband med ett exploateringsprojekt”.
+
+3 Kungsbacka kommun, Arendalsleden-Varlavägen, breddning av väg | Kungsbacka kommun
+
+ft
+
+i  KUNGSBACKN
+
+4 Kungsbacka kommun, Stadsdelen Valand | Kungsbacka kommun
+
+SR
+Fr j .
+ma Z
+mat SE ff
+RR a
+Pa
+
+\|
+
+| Sträcka aktuell
+för breddning
+
+för breddning
+
+Sträcka aktuell |
+\|
+t
+
+Karta 14. Till vänster: illustrationsplan
+för breddning av Varlavägen,
+källa: Kungsbacka kommun. Till
+År höger: den planerade åtgärden
+id i förhållande till nuvarande
+
+—6 AD linjenät. Även åtgärd planerad
+
+(AE inom exploateringsprojektet
+Ve Stadsdelen Valand. Markerat på
+
+21
+
+<!-- sida 260 -->
+
+Det finns även planer på att bredda Arendalsleden, mellan
+Varlavägen och Göteborgsvägen, till fyra körfält”. Åtgärden är i
+förstudieskede. En del av den sträckan trafikeras av linje 1, men i
+övrigt trafikeras inte Arendalsleden av allmän busstrafik.
+
+Ett annat projekt som har stor påverkan på kollektivtrafiksystemet
+
+i Kungsbacka, är Västlänken och hela det västsvenska paketet.
+Utbudet av tågtrafik kommer att öka, vilket gynnar pendlingen till och
+från Kungsbacka kommun. Det framtida trafikeringsupplägget för
+tågtrafiken bygger på införandet av genomgående pendeltågslinjer
+genom Göteborg i samband med att Västlänken tas i drift. I det nya
+linjesystemet knyts den nuvarande Kungsbackapendeln samman
+med trafiken på Norge/Vänerbanan, Alependeln. Utöver pendeltågen
+tillkommer en ny regionpendel. I det planerade upplägget kommer
+Kungsbacka att trafikeras av regionpendeltåg på sträckan Varberg-
+Töreboda. Genom denna trafik skapas direkta resmöjligheter mellan
+Kungsbacka och flera orter längs Västra stambanan.
+
+Det nya linjesystemet innebär därmed att Kungsbacka integreras
+tydligare i det regionala tågsystemet, med förbättrade resmöjligheter
+både inom Göteborgsregionen och mot övriga delar av Västra
+Götaland. Samtidigt skapas nya förutsättningar för effektiva byten
+mellan regionaltåg, pendeltåg och anslutande busstrafik vid viktiga
+
+knutpunkter i systemet.
+
+Inom Kungsbacka kommun planeras ett flertal nya gång- och
+cykelvägar, vilket kan skapa bättre möjligheter att ta sig till och från
+
+hållplatser.
+
+5 Kungsbacka kommun, Utbyggnad av Arendalsleden | Kungsbacka kommun
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+Kollektivtrafikens framkomlighet inom
+Kungsbacka tätort
+
+I den fördjupade översiktsplanen för Kungsbacka stad (antagen 3
+mars 2026) pekas vägar med behov av kapacitetsökning ut. Detta
+gäller delar av huvudvägnätet i södra Kungsbacka, se Figur 19. I
+motiveringen till de utpekade vägarna nämns att det är mycket
+starka respektive starka stråk och att samverkan med Region
+Halland och Trafikverket ska ske för att skapa bättre framkomlighet
+för kollektivtrafik. Det nämns också att åtgärder ska gynna samtliga
+
+trafikslag.
+
+Karta 15. Identifierat behov av kapacitetsökning, från Fördjupad översiktsplan Kungsbacka stad, 2026.
+
+I en utredning som gjordes 2023 studerades framkomligheten för
+kollektivtrafiken inom Kungsbacka tätort, längs vägarna Säröleden,
+Kungsgatan och Borgmästaregatan samt del av Vallgatan, Storgatan
+
+<!-- sida 261 -->
+
+och Varlavägen”. Utredningen konstaterade att kollektivtrafiken
+påverkas av rusningstrafiken, och att restiderna varierar mycket
+över dygnet. Trafikprognoser visar att trafikvolymerna förväntas öka,
+vilket leder till ökande framkomlighetsproblem för kollektivtrafiken.
+Utredningen föreslår en rad åtgärder för att säkerställa busstrafikens
+framkomlighet, bland annat kollektivtrafikkörfält längs Säröleden
+och Kungsgatan.
+
+Det är i nuläget inte klart om kommunen kommer att anlägga några
+kollektivtrafikkörfält i enlighet med utredningens förslag.
+
+Hållplatser med bristande
+tillgänglighetsanpassning
+
+Samtliga hållplatser för allmän kollektivtrafik i Kungsbacka kommun
+är inventerade i december 2025. Behov av tillgänglighetsanpassning
+visas i tabellen nedan.
+
+Väghållare Antal hållplatslägen
+Statligt vägnät 26
+Kommunalt vägnät 21
+Enskilt vägnät 26
+Summa 13
+
+Tabell 8. Antal hållplatslägen, inom Kungsbacka kommun, som är i behov av tillgänglighetsanpassning.
+
+Ett område som har behov av tillgänglighetsanpassning men också
+
+6 Sigma Civil (2023) Kollektivtrafikens framkomlighet, Underlag till fördjupad översiktsplan för
+Kungsbacka stad 2050
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+åtgärder för ökad trafiksäkerhet, är hållplatslägena vid Kungsbacka
+station.
+
+Områden som är utsatta för utsläpp från
+vägtrafik och buller
+
+Bil- och tågtrafiken är den dominerande bullerkällan i kommunen.
+Trafikbullerpåverkade områden finns framför allt längs det
+kombinerade stråket E6 och järnvägen. Väg 158 har en del buller
+och utsläpp med pikar på morgon och eftermiddag. Det samma
+gäller Onsalavägen och Varbergsvägen. Kollektivtrafikens bidrag
+till bullerproblemet är förhållandevis litet då en stor del av trafiken i
+tätorten körs med el-fordon.
+
+Pendelparkeringar
+Det finns totalt 20 pendelparkeringar inom Kungsbacka kommun.
+
+Enligt en beläggningsmätning från november 2024 ser beläggningen
+ut enligt nedan. Pendelparkeringen vid Kungsbacka station, även
+Frillesås skola är i princip full. Många av parkeringarna är inte
+manuellt räknade, utan räknade från flygfoto. För de platser som har
+inventerats en måndag eller en fredag, har beläggningen räknats upp
+med 10 procent.
+
+Förstudien rekommenderar att pendelparkeringarna vid Åsa station
+och Vallda trekant bevakas framöver för att säkerställa kapaciteten.
+
+På nästa sida beskrivs pendelparkeringar och beläggningsgrad.
+
+29
+
+<!-- sida 262 -->
+
+3\. INFRASTRUKTURELLA FÖRUTSÄTTNINGAR |
+
+Namn Beteckning Bilplatser Upptagna platser | Beläggnings- Inventerings- Justerad Redovisad
+grad datum beläggnings- beläggnings-
+grad grad
+Kungsbacka P1 34 33 97 HN 2024-11-15 1004 100 4
+resecentrum
+Frillesås skola P1 40 33 83 4 2024-11-15 91 914
+Snipen P1 130 89 68 N 2024-11-15 752 752
+Onsala kyrka P1 21 17 63 4 2024-11-15 69 4 69 4
+Bukärr P1 36 22 614 2024-11-15 67 67 4
+Hede station P4 168 100 60 4 2024-11-15 65 N 65 4
+Oskarsberg P1 25 13 52 HN 2024-11-15 57 57 HA
+Fjärås station P1 35 18 514 2024-11-15 57 HA 57 NA
+Vallda trekant P1 18 :) 50 20 2024-11-15 55 HN 55 4
+Åsa station P1 297 148 50 4 2024-11-15 55 H 55 HN
+Annebergs station | P2 61 30 494 2024-11-15 54 KA 54 HK
+Hede station P1 444 193 434 2024-11-15 484 48940
+Hede station P2 187 174 404 2024-11-15 444 4494
+Kungsbacka P4 28 10 36 4 2024-11-15 394 394
+resecentrum
+Fjordskolan P1 18 6 33 2024-11-15 37 h 37 N
+Annebergs station |P1 62 19 314 2024-11-15 34H4 34 HN
+Kungsbacka P3 31 8 264 2024-11-15 284 280
+resecentrum
+Varla P1 62 15 24 N 2024-11-15 21 21
+Kungsbacka P2 30 1 230 2024-11-15 260 26
+resecentrum
+Hede station P3 141 6 494 2024-12-03 49
+
+Tabell 9. Information om pendelparkeringar i Kungsbacka kommun.
+
+<!-- sida 263 -->
+
+4\.
+
+LJETLGELEETET YC
+
+Kungsbacka
+kommun
+
+För att kunna skapa en attraktiv kollektivtrafik som man vill Invånarantal faktiskt utfall (1990-2022) och
+behov har många resenärer gemensamt, medan andra behov
+| | A Å a Kungsbacka
+varierar mellan olika områden och målgrupper. För att kunna 49294
+identifiera och tillgodose de olika resenärernas behov är det - 10 SS kil. EN
+3 mh
+samar . - är. E 0 a LES 3 a
+viktigt att förstå vem resenären är. £ 100 000-
+ej
+Inom arbetet med förstudien har flera olika demografiska TT
+förutsättningar tagits fram och analyserats. Exempel på vad 2
+som har analyserats är åldersstrukturer, utbildningsnivå, : 920 000 -
+hushållens inkomster, utländsk bakgrund, antal barn, bilinnehav, 2
+förvärvsarbetande och arbetssökande etcetera. =
+om
+= 800007
+Demografi 5
+I Kungsbacka kommun bor cirka 86 000 invånare (årsskiftet 3
+2024/2025). Befolkningen bor främst i de västra delarna av v 70 000-
+kommunen. Invånarantalet har stigit de senaste decennierna och a
+befolkningen förväntas fortsätta att öka. Störst ökning förväntas i A
+Kungsbacka stad. &
+= 60 0001
+ac
+-—
+c
+<
+
+1990
+
+2000-
+20207
+20307
+20407
+20504
+
+20104
+
+Figur 5. Invånarantal och
+befolkningsprognos, Kungsbacka
+kommun. Källa: SCB och bearbetningar
+av Region Halland.
+
+<!-- sida 264 -->
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN | 32
+
+I Kungsbacka kommun är medelåldern 42,7 år vilket ligger nära
+genomsnittet i Sverige på 42,2 år. Könsfördelningen i Kungsbacka
+kommun är 50,2 96 kvinnor och 49,8 96 män. Tätortsgraden, det vill
+säga hur stor andel av befolkningen som bor i en tätort, är 87,1 2 i
+Kungsbacka. Tätortsgraden i Halland är 85,7 26, i Västra Götaland 87/1
+26 och i Sverige som helhet 87,8 26. Flest invånare finns i Kungsbacka
+stad, med cirka 24 000 invånare. Därefter kommer Onsala med 14
+000 invånare, Släp (omfattar både Kullavik och Särö) med drygt 12
+000 invånare och Åsa/Frillesås med 11 000 invånare.
+
+I Kungsbacka kommun är den genomsnittliga inkomsten högre än
+genomsnittet för Sverige (42 042 kronor före skatt i Kungsbacka, att
+jämföra med 33 758 kronor i Sverige). Sysselsättningsgraden är 87
+26 i Kungsbacka, vilket kan jämföras med 79,6 246 i Sverige som helhet.
+[SA91]
+
+I Kungsbacka är 26 26 av invånarna är under 20 år medan 16 26 är
+dinoe a 7O år eller äldre. I Halland och Västra Götaland är andelen under
+FAN Frilleså I småort 20 år 24 96 respektive 23 96 och i Sverige som helhet 23 96. När
+det gäller andelen äldre, 70 år eller mer, är andelen i Halland och
+Västra Götaland 17 96 respektive 15 96 och i Sverige som helhet 16 96.
+Kungsbacka ligger därmed på rikssnittet när det gäller befolkning i
+åldrarna 7O + men har en något högre andel barn och unga, jämfört
+med regionen och med riket.
+
+Karta 16. Tätorter och småorter inom Kungsbacka kommun. Källa: SCB
+
+I Kungsbacka kan den som är 65 år eller äldre ansöka om ett
+(| seniorkort. Andelen av Kungsbacka befolkning som är 65 år eller
+Hl I [| | | | äldre är 21 26, vilket innebär drygt 18 000 personer år 2024. I en
+II | | II I" | | u || | | ova Mill I" jämförelse med hur många seniorer i Kungsbacka som har ett
+
+Fare | för olika ortarfermråden inom Kungabacka Källa: seniorkort i september 2025 (15 611) så är det 86 26 av de som är
+kommun berättigade.
+
+<!-- sida 265 -->
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN |
+
+Socioekonomi tider då många är beroende av kollektivtrafiken, såsom kvällar och
+
+helger.
+De socioekonomiska förutsättningarna i ett område har en direkt
+
+påverkan på invånarnas möjligheter att genomföra sina vardagliga
+resor och göra informerade färdmedelsval. Utbildningsnivå,
+sysselsättningsgrad och inkomstnivå utgör de indikatorer som
+tydligast beskriver socioekonomiska skillnader.
+
+I denna förstudie har Boverkets Segregationsbarometer använts
+
+för att beskriva de socioekonomiska förutsättningarna inom
+Kungsbacka kommun. Klassificeringen baseras på ekonomisk
+standard, utbildningsnivå, arbetslöshet och förekomst av ekonomiskt
+
+Inkomstnivå och sysselsättning påverkar individers faktiska
+
+valfrihet, exempelvis möjligheten att ta körkort, äga bil eller SE Sadat : =
+finansiera ett månadskort för kollektivtrafik. Utbildningsnivån har ; vå
+ett nära samband med både sysselsättning och inkomst, och har os SV i i [CE SV
+därmed även en indirekt påverkan på bilinnehav. Därtill påverkar > HagrydDuala JE Ne
+utbildningsnivån attityder till olika transportsätt; personer med högre Bär | NL. L N |
+utbildning uppvisar generellt en större benägenhet att välja hållbara i; | 95 "| | 3
+mobilitetslösningar, medan personer med lägre utbildning oftare är fe dl >. agn
+mer beroende av kollektivtrafiken för sina dagliga resor. LÅ i gr
+Lead VE ca
+Mot denna bakgrund är det av särskild vikt att områden med lägre Sa a: Ne vs SJ Fila ert ax
+socioekonomisk status har en god tillgång till kollektivtrafik. Detta a Ae A
+omfattar både geografisk täckning och ett tillräckligt utbud under vn ae I =S h H
+ja | é
+£
+Ö Mosede fr
+
+rm KT Frråder med mycket p ed rå Prstuet
+1
+= J)
+r - ; ke inlagt tt jude ;
+\- a AD UBS 4
+
+Karta 17. Kartan har hämtats från
+Boverkets segregationsbarometer. k Md
+
+<!-- sida 266 -->
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN | 34
+
+bistånd. Indelningen sker i fem områdestyper: som områdestyp 3, vilket innebär ett område med blandade
+socioekonomiska förhållanden. Övriga delar av kommunen
+« Områdestyp I - mycket stora socioekonomiska utmaningar. uppvisar genomgående goda eller mycket goda socioekonomiska
+förutsättningar.
+
+« Områdestyp 2 - områden med socioekonomiska utmaningar.
+
+« Områdestyp 3 - socioekonomiskt blandade områden.
+
+Pendling över kommungräns
+
+« Områdestyp 4 - områden med goda socioekonomiska
+förutsättningar. Kungsbacka är en utpräglad pendlingskommun. Det är fler som
+
+pendlar över kommungränsen, än som bor och arbetar inom
+
+» Områdestyp 5 - mycket goda socioekonomiska kommunen. Utpendlingen är avsevärt större än inpendlingen.
+
+förutsättningar.
+
+Kungsbacka kommun - övergripande bedömning
+
+Kungsbacka kommun är indelad i 18 regionala statistikområden Arbetsmarknad och pendling, Kungsbacka
+(RegSO). Den socioekonomiska fördelningen enligt
+
+Segregationsbarometerns indelning är följande:
+
+« Områdestyp 2: O områden
+« Områdestyp 3: I område '
+« Områdestyp 4: 11 områden
+
+« Områdestyp 1: O områden a I
+
+« Områdestyp 5: 6 områden
+
+Detta innebär att: Figur 7. In- och utpendling över kommungräns, i relation till antal personer som bor och arbetar inom
+kommungränsen. Informationen är hämtad från SCB och avser år 2023.
+
+« 51,8 procent av kommunens invånare bor i områden med goda
+Antalet personer som både bor och arbetar i Kungsbacka kommun
+är 20 016 personer (SCB, 2023). De fem vanligaste kommunerna att
+
+« 44,1 procent bor i områden med mycket goda socioekonomiska pendla från respektive till redovisas i tabellen på nästa sida.
+förutsättningar (områdestyp 5).
+
+socioekonomiska förutsättningar (områdestyp 4).
+
+Endast ett område i centrala Kungsbacka är klassificerat
+
+<!-- sida 267 -->
+
+Inpendling Utpendling
+
+Från Antal Till kommun Antal
+kommun
+
+Göteborg 3 340 Göteborg 15079
+Mölndal 1524 Mölndal 4498
+Varberg 1154 Varberg 1252
+Mark 503 Stockholm 730
+Härryda 239 Härryda 539
+
+Tabell 10. In- och utpendfing över kommungräns, de största relationerna. informationen
+hämtad från SCB och avser år 2023.
+
+Det finns skillnader mellan måns och kvinnors
+pendlingsmönster. Pendlingen är stor i båda grupperna men
+bland kvinnor är det mer vanligt att både bo och arbeta
+inom kommunen. Bland män är utpendlingen större än bland
+kvinnor.
+
+De fem vanligaste kommunerna att pendla till respektive från
+är desamma för kvinnor som män, och överensstämmer med
+de som visas i Tabell 6 för båda grupperna.
+
+Cykelpotential
+
+Region Halland har gjort en cykelpotentialstudie” . Som
+cykelpotential räknas upp till 30 min cykelresa till arbete,
+gymnasieskola, högskola och folkhögskola. Även pendling till
+
+T Region Hafand. Cykelpotentialstudie Halland 2025 och Potential för cykling i
+Halland | Region Halland
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN |
+
+Figur& Oykelpotentialstudie framtagen av Rogion Halland. Total cykelpotential, infduderat pendling
+tarbete (30 min), högskola/folkhögskola (30 min), gymnasieskola (30 min) och grundskola (årskurs
+F-32 km, 4-6 3 km och 7-94 km).
+
+grundskola räknas in, där årskurs F-3 anses ha möjlighet att cykla
+om avståndet är upp till 2 km. För årskurs 4-6 används 3 km och för
+årskurs 7-9 används 4 km.
+
+Jämfört med de andra halländska kommunerna, har en låg andel av
+invånarna i Kungsbacka möjlighet att cykla till arbetet, se Figur 26. I
+Kungsbacka kan 20 26 av de arbetande cykla till sin arbetsplats på
+30 min eller kortare tid. I Halmstads kommun är den andelen 61 24,
+genomsnitt för Halland är 43 96.
+
+35
+
+<!-- sida 268 -->
+
+Tidsintervaller 15 min
+
+72
+
+61
+
+54 51
+45 45
+40
+38
+40 32 . si 33 35 35
+Resa 28
+24
+20 Pa 20
+20 | 22 er
+\- |
+
+Halmstad Falkenberg Varberg
+
+Figur 9. Andel (96) som kan cykla till sin arbetsplats, inom viss tid. Källa: Cykelpotentialstudie, Region Halland.
+
+Inom Kungsbacka är det fler kvinnor än män som har möjlighet att
+cykla till jobbet inom 30 min. Av de Kungsbackabor som kan nå sin
+arbetsplats inom 30 min på cykel är 38 26 män och 62 26 kvinnor.
+
+Viktiga målpunkter
+
+Tillgängligheten till målpunkter är en viktig funktion som
+kollektivtrafiksystemet ska fylla. Det är till exempel viktigt att ha god
+tillgänglighet till skolor, fritidsanläggningar, större arbetsplatser samt
+vårdcentral och dagligvaruhandel.
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN |
+
+20 min \$30 min 4945 min
+
+Hylte Laholm Kungsbacka
+
+Arbetsplatser
+Bland de större arbetsgivarna finns Kungsbacka kommun och
+Region Halland.
+
+Den största privata arbetsgivaren, med 175 anställda, är Mediq
+Sverige AB?. Det finns ett stort antal företag registrerade i
+kommunen, omkring 10 000 stycken. Exempel på branscher är bygg,
+partihandel, detaljhandel och företagstjänster. Enligt en rapport från
+
+8 Källa: Ekonomifakta, länk Kungsbacka.
+
+<!-- sida 269 -->
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN | 37
+
+Bisnode från 2020 karaktäriseras Kungsbackas näringsliv av små, [ Öv. (Röret 1 Re SR är
+lönsamma bolag. Län j
+
+ec
+OQO
+
+Mediq ligger i den nordvästra delen av Kungsbacka tätort, i
+närheten av Arendalsleden. Linje 1 passerar nära, med hållplats
+
+O
+Hallabäcksvägen. vande 2 den NH
+
+Kungsbacka sjukhus, där även vårdcentral, barnavårdscentral ) (W) IN
+
+och hjälpmedelcentrum finns, är centralt beläget cirka 600 m från srera v) bart vv) 4 | . 2 matas
+tågstationen. Linje 2 går till sjukhuset. Regionbusslinjerna 735 och -- |
+741 passerar också nära sjukhuset, med hållplats ute på den lite ! v
+
+större vägen Söderåleden. ; ”- ve
+Kungsmässan och Hede Fashion Outlet är viktiga både som fr C des
+besöksmål och som områden med många arbetstillfällen, även om
+
+. 2 . . so . Frikesis 9 / : —
+det inte finns någon enskild arbetsgivare som är särskilt stor. :
+
+Karta 18. Grundskolor, gymnasieskolor och vuxenutbildning. Källa: Kungsbacka kommun.
+
+Skolor
+I Kungsbacka kommun finns 32 grundskolor, sex gymnasieskolor och
+två skolor med vuxenutbildning.
+
+Fritidsresande
+
+Inom Kungsbacka kommun finns många badplatser som är populära
+målpunkter under sommaren. Det finns två köpcenter, Hede Fashion
+Outlet och Kungsmässan.
+
+Andra målpunkter inom kommunen är Fjärås Bräcka, Tjolöholms
+slott och Äskhults by. I kartan på nästa sida visas sevärdheter,
+museer och teatrar som finns redovisade i kommunens karttjänst.
+
+<!-- sida 270 -->
+
+<!-- sida 271 -->
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN | 39
+
+Utbyggn adsplaner Detta är också tydligt i den befolkningsprognos som är framtagen för
+
+| | | kommunen?.
+Enligt kommunens översiktsplan ska ny bebyggelse koncentreras till
+
+staden samt stationsorterna Anneberg och Åsa.
+
+Område Antal invånare (dec | Förändring till 2034,
+2024\) prognos
+
+Kungsbacka stad 23 986 +4039
+
+Onsala 14118 - 862
+
+Släp 12 485 - 113
+
+Åsa/Frillesås 10 843 + 448
+
+Vallda 8824 - 255
+
+Fjärås 6718 +6
+
+Älvsåker 6222 +597
+
+Gällinge 2485 + 122
+
+Tabell II. Befolkningsprognos för delområden inom Kungsbacka kommun.
+
+För Kungsbacka stad finns en fördjupad översiktsplan, i den pekas
+områden för ny och kompletterad bostadsbebyggelse ut i centrala
+lägen men också i stadens ytterkanter, se bild nästa sida.
+
+9 Kungsbacka kommun, Befolkningsprognos 2025-2034
+
+Figur 10. Strategibild, kommunens översiktsplan från 2022. Utveckling ska främst ske i Kungsbacka
+stad, Anneberg och Åsa.
+
+<!-- sida 272 -->
+
+<!-- sida 273 -->
+
+Sammanfattning av
+marknadsförutsättningar
+
+Kungsbacka är en utpräglad pendlingskommun med ett stort dagligt
+resande över kommungränsen. Inom kommunen är det ont om större
+
+arbetsgivare.
+
+Tätortsgraden ligger i linje med rikssnittet på 88 2, men befolkningen
+är fördelad på ett flertal tätorter och i kommunhuvudorten
+Kungsbacka stad bor endast 28 246 av kommunens befolkning.
+
+I Kungsbacka är den genomsnittliga inkomsten högre än
+genomsnittet för Sverige. Även sysselsättningsgraden är högre än
+rikssnittet. Andelen barn och unga är något högre i Kungsbacka,
+jämfört med regionen och med riket. En relativt stor andel av
+kollektivtrafikresenärerna är skolbarn och gymnasieungdomar och
+resandet på många linjer är tydligt kopplat till skoldagens start- och
+sluttid.
+
+Befolkningstillväxt förväntas främst ske i Kungsbacka stad. Även i
+stationsorterna Anneberg och Åsa förväntas tillväxt de kommande
+tio åren. En större arbetsplats är planerad att etableras i Frillesås.
+
+Potential för ökat kollektivtrafikresande
+
+Med en befolkningsökning i Kungsbacka stad kan det finnas
+potential att attrahera fler resenärer i stadstrafiken. Hur nya
+bebyggelseområden ska försörjas med kollektivtrafik behöver ses
+över, för att säkerställa att kollektivtrafiken är ett tillgängligt och
+attraktivt alternativ.
+
+När Västlänken har öppnat för trafik kommer utbudet av tågtrafik
+
+4\. MARKNADSANALYS KUNGSBACKA KOMMUN |
+
+att öka, och det kan finnas ytterligare potential i busslinjer som
+matar mot tågstationerna. För att få en attraktiv resa är det viktigt
+att bytena fungerar, och det kan krävas infrastrukturåtgärder för
+att kollektivtrafiken ska få tillräcklig framkomlighet även under
+rusningstrafik. Framkomlighetsåtgärder för kollektivtrafik är
+
+också viktiga för kollektivtrafikens konkurrenskraft gentemot
+
+bilen, där lägre restidskvoter ökar kollektivtrafikens attraktivitet. I
+samband med Vastlänkens öppnade kommer fler tåg att trafikera
+Västkustbanan då kapaciteten kan öka. Utbudet på dagens tåg
+mellan Göteborg - Varberg kommer att stärkas upp och trafikera
+var 30 minut under större delen av trafikdygnet. Detta medför också
+att det lokala resandet inom Halland med tåg blir mer tillgängligt
+och kan öka attraktiviteten genom snabba resor till och från några
+av de större städerna i stråket. Den nya regionpendeln skapar även
+förbättrade möjligheter att nå viktiga arbetsplatsområden längs
+sträckan, bland annat i Värö med ny station och Varberg. Detta
+stärker tillgängligheten till några av regionens större arbetsplatser
+och bidrar till att bredda arbetsmarknadsregionen för boende i
+Kungsbacka.
+
+Andelen barn och unga är hög i kommunen, och dessa grupper står
+för en stor del av resandet. Samordningen med och gränsdragningen
+mot skolskjuts bör ses över. Det kan finnas en potential i att
+effektivisera den allmänna trafiken och/eller att med stöd av ett högt
+resande bland barn och unga kunna erbjuda ett högre utbud än vad
+som annars varit motiverat.
+
+En potential bedöms också finnas i satsningar på de starka och
+mycket starka stråken. Detta gäller Västkustbanan och de mycket
+starka stråken mellan Kungsbacka stad och Onsala, Vallda
+
+samt Särö och vidare mot Göteborg. Starka stråk finns mellan
+Kungsbacka stad och Fjärås samt Åsa.
+
+<!-- sida 274 -->
+
+Kundsynpunkter
+
+Under förstudien har de tre trafikavtalens kundsynpunkter
+gåtts igenom och beaktats som en del av allmänhetens
+synpunkter gällande befintlig trafikering.
+
+Antalet kundsynpunkter under åren 2023, 2024 och 2025 uppgår till
+2 544 stycken för samtliga 3 avtal. Majoriteten av kundsynpunkterna
+berör trafikbolagens leveranser, förare eller upplevelser som
+
+kund. Förstudien beaktar bara de kundsynpunkter som härrör
+trafikförbättringsförslag, kundönskemål om trafikeringsförslag eller
+generella önskemål.
+
+Generell sammanfattning av
+kundsynpunkter
+
+Avtal 6022
+
+I avtal 6022 Kungsbacka Landsbygd låg medeltalet för
+kundsynpunkter på 2,4 styck per 10.000 resor gjorda. De tre
+vanligaste kundspunktskategorierna är Gick inte i utlovad tid, Körde
+förbi hållplats och Förare.
+
+Avtal 6023
+
+I avtal 6023 Kungsbacka Tätort låg medeltalet för kundsynpunkter
+på 21 styck per 10.000 resor gjorda. De tre vanligaste
+kundspunktskategorierna är Gick inte i utlovad tid, Körde förbi
+hållplats och Förare.
+
+Avtal 6120
+
+I avtal 6120 Onsala låg medeltalet för kundsynpunkter på 3,8 styck
+per 10.000 resor gjorda. De tre vanligaste kundspunktskategorierna
+är Gick inte i utlovad tid, Körde förbi hållplats och Förare.
+
+Kundsynpunkter per linje gällande
+förbättringsförslag
+
+Linje 717: För linjen 717 finns det önskemål fler turer, bättre
+anpassning till pendeltågens ankomsttider samt förbättrad turtäthet,
+särskilt på helger och vissa tider på dagen.
+
+Linje 720: På linje 720 finns det relativt få kundsynpunkter, där några
+önskar fler turer och utökade öppettider.
+
+Linje 735: Kundsynpunkter för linje 735 har varit synpunkter såsom
+fler avgångar, bättre turtäthet och förbättrad linjesträckning.
+
+Linje 741: För linje 741 handlar de flesta kundsynpunkter om fler
+avgångar, bättre turtäthet och förbättrad tillgänglighet, särskilt på
+helger och vissa tider på dagen.
+
+Linje 742: Även linje 742 har önskemål om tätare turer och utökade
+öppettider framför allt på helgen. Även förbättrad samordning
+
+med andra linjer. Önskemål om bättre anpassning till pendeltågens
+ankomsttider förekommer.
+
+<!-- sida 275 -->
+
+Linje 743: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 744: Kundsynpunkterna för linje 744 handlar om ökade
+öppettider, förslag om hållplatslägen och fler turer.
+
+Linje 747: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 748: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 1: Linje 1:s kundsynpunkter handlar främst om passningar till
+tåg. Flera poängterar korta bytestider.
+
+Linje 2: Har främst kundsynpunkter som berör passningar och
+även förslag kring körvägar. Flera kundsynpunkter finns gällande
+bytestider på specifika hållplatser.
+
+Linje 3: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 4: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 5: För linje 5 har kundsynpunkter kring passningar till tågen,
+förslag på hållplatser samt önskemål om ökad turtäthet.
+
+Linje 730: Har för få kundsynpunkter för att kunna analyseras.
+
+Linje 731: Kundsynpunkter på linje 731 handlar delvis om ökade
+öppettider, fler turer och några tillfällen angående passningar.
+
+5\. KUNDSYNPUNKTER |
+
+Linje 732: På linje 732 finns det några förslag om andra körvägar,
+passningar till tåg och önskemål om ökade öppettider på helgen.
+
+Linje 733: I förhållande finns det lite mer kundsynpunkter på linje 733
+än de andra linjerna i samma avtal. Främst handlar det om förslag på
+ökade öppettider, förslag om snabbare restider, tätare/fler turer och
+även passningar.
+
+Linje 734: Kundsynpunkterna för linje 734 har förslag om bättre
+passningar, tidtabellsförslag till skoltider, ökad kapacitet och fler
+turer.
+
+43
+
+<!-- sida 276 -->
+
+6\. ärö centrum &
+
+Kommunens inspel
+
+När Kollektivtrafikplan 2026 var ute på remiss lämnade Kungsbacka
+kommun följande synpunkter:
+
+« Kommunen välkomnar satsningar på kollektivtrafiken
+
+« Kungsbacka underskattas, både avseende potentialen att få
+fler att välja kollektivtrafik och kapaciteten i mycket starka
+regionbusstråk
+
+« Åtgärderna är inte tillräckliga, det behövs betydande
+satsningar där de gör störst nytta
+
+« Det behövs kapacitetsförstärkning i regionbusstrafikens starka
+stråk i norra Halland
+
+« Stadsbusstrafiken behöver ökad turtäthet
+
+« Direktbuss i stråket Onsala-Vallda-Särö-västra Göteborg
+är starkt efterfrågat, och borde vara en självklarhet om
+resebehovet är styrande för planeringen
+
+« Metrobusslinjer till och från Göteborg bör utvecklas i stråket
+längs väg 158
+
+« Arbetet med mobilitetsåtgarder behöver intensifieras
+
+« Det behövs sömlöst resande över länsgräns och fortsatt
+utveckling av samarbetet mellan Hallandstrafiken och
+Västtrafik
+
+« Hallandstrafikens sommarkort ska gälla även Kungsbacka
+kommun
+
+« Region Halland behöver avsätta erforderliga medel för att nå
+resandemålen
+
+Samverkan med kommunen
+
+Vid kommundialog inom arbetet med denna förstudie har
+synpunkter framförts av tjänstepersoner. Tre samverkansmöten har
+hållits, se datum och fokusfråga för respektive möte:
+
+« Samverkansmöte 1, datum 2025-11-10, fokus på förutsättningar
+
+« Samverkansmöte 2, datum 2025-12-15, fokus på
+trafikeringsprinciper
+
+« Samverkansmöte 3, datum 2026-02-24, fokus på
+trafikeringsförslag
+
+Efter slutförd förstudie hålls ytterligare ett möte med kommunen,
+men då i form av ett informationsmöte där förstudien presenteras.
+
+De inspel och synpunkter som kommunen har förmedlat under
+samverkansmöten har kategoriserats i olika teman och finns
+sammanfattade nedan.
+
+« Det behöver vara ett kollektivtrafiksystem som kommunen har
+
+möjlighet att växa i. I nuläget finns kapacitetsbrister.
+
+« Vastlänken ger nya förutsättningar och påverkar systemet som
+helhet.
+
+<!-- sida 277 -->
+
+6\. KOMMUNENS INSPEL | 45
+
+« Hur en ny expresshbusslinje längs väg 158 påverkar behöver Samordning skoltrafik och allmän trafik
+tydliggöras. Hur påverkas övriga linjer i området? Kvarstår « Det är positivt med samordning mellan skoltrafik och allmän
+behov av utökad kapacitet Onsala-Kungsbacka exempelvis? trafik
+
+« När det gäller passning mot tåg, och vilka relationer som « Entydlig konsekvensbeskrivning, som visar hur
+
+prioriteras, behövs en konsekvensbeskrivning.
+
+Samhällsutveckling
+
+« Det sker utveckling och utökning i fler orter än de som är högst
+prioriterade i översiktsplanen (Kungsbacka, Åsa, Anneberg).
+Särö och Frillesås är två orter som växer lite extra.
+
+« Åsa ska utvecklas kring stationen, i enlighet med fördjupad
+översiktsplan.
+
+« Frillesås kommer i närtid att utökas med en större arbetsplats
+samt nya bostäder.
+
+« En ny tågstation kan etableras i Frillesås på sikt, men inte inom
+aktuell avtalsperiod.
+
+« Inom staden är utvecklingsplaner tydligt presenterade i
+fördjupad översiktsplan. Bland annat planeras en ny arena.
+
+« Staden sträcker sig ner till Forsbäck
+
+Efterfrågad kapacitets-/utbudsökning
+
+« Ökad kapacitet längs väg 158 är en högt prioriterad fråga för
+kommunen. Det finns önskemål om busslinje Onsala - Vallda -
+Särö —- västra Göteborg.
+
+« Ökad kapacitet efterfrågas till Onsala samt Fjärås.
+
+« Stadstrafiken behöver en högre turtäthet Potential för ökat
+resande i stadsbusstrafiken.
+
+« Fler tågavgångar önskas.
+
+grundskoleelever och hur gymnasieelever påverkas av
+trafikeringsförslaget, behövs. De ekonomiska konsekvenserna
+behöver också redovisas, om neddragning av allmän
+kollektivtrafik innebär större behov av skoltrafik.
+
+Infrastruktur och depå
+« Brister i vägnätet, som hindrar att trafikera med buss, måste
+
+synliggöras för vaghållaren.
+
+De behov som förstudien ser, exempelvis utrymme för fler
+bussar vid knutpunkter, måste tydligt redovisas. Kommunen
+kan utreda vidare om och hur åtgärder kan genomföras inom
+kommunens vägnät och/eller mark, men behoven behöver vara
+tydligt specificerade.
+
+När det gäller framkomlighet, är det även här viktigt att
+förstudien visar vilka behov det finns och vilken betydelse
+framkomligheten har för trafikeringsförslaget.
+
+Tydliggör vad som är måsten och vad som är önskemål, när det
+gäller infrastrukturåtgärder.
+
+Kommunen anser att regionen ska ta ett tydligare ansvar
+för frågan om bussdepå. Det är inte kommunen som ska
+säkerställa detta. Behov behöver tydligt specificeras av
+
+regionen.
+Den nya Onsalavägen bedöms vara klar år 2029. Därefter tar
+kommunen över den befintliga vägen, och har möjlighet att
+
+<!-- sida 278 -->
+
+6\. KOMMUNENS INSPEL
+
+genomföra åtgärder. Grundtanken är att biltrafik prioriteras på « Vändplats Ölmanäs (ej kommunalt vägnät, men hänger ihop
+den nya vägen, medan gång, cykel och kollektivtrafik prioriteras med bebyggelseplanerinp) - fortsatt dialog, möjliga lösningar
+på den befintliga. behöver studeras i samverkan
+
+Detaljerade synpunkter kring trafikering
+« Sommartorg kan bli återkommande. Innebär ändrad körväg för
+linje 3.
+« Det är viktigt med koppling mellan Särö och Kungsbacka, även
+om efterfrågan är som störst upp mot Göteborg
+
+« Linje 5 är en udda linje
+
+« Med förkortad linje 732 behövs ett byte för resa Frillesås-
+Kungsbacka
+
+Detaljerade inspel kring infrastrukturåtgärder
+« Dubbelriktad trafik Varlaområdet - kommunen kommer att
+
+utreda möjligheten. Finns det en risk att trafikföretaget vägrar
+att trafikera trots åtgärder, på grund av för brant lutning?
+
+Ny hållplats Inlagsleden, ersätta hållplats Hantverksgatan -
+kommunen tar med sig frågan
+
+Hedeleden - det är osäkert om vägen kommer att byggas.
+
+« Utveckla Fjärås som knutpunkt - behov behöver tydliggöras
+innan kommunen kan titta vidare på frågan
+
+« Utveckla Åsa station som knutpunkt — behov behöver
+tydliggöras innan kommunen kan titta vidare på frågan
+
+« Framkomlighet Kungsgatan — behov och effekter behöver
+tydliggöras
+
+<!-- sida 279 -->
+
+et
+-—-
+
+Ejeba
+
+i.
+
+Beskrivning av
+
+ASA STATION
+
+trafikerings-
+
+förslaget
+
+forest se me > — I EF  K———— t
+
+Behov av översyn
+
+Trafikeringen i Kungsbacka ses över inför den nya avtalsperioden.
+Syfte är att ha ett kollektivtrafiksystem som är anpassat till nuvarande
+resbehov men som också kan vidareutvecklas i takt med förväntad
+befolkningstillväxt inom avtalsperioden. Det ska vara ett system som
+kommunen kan växa i.
+
+Planerade förändringar i tågtrafiken är ytterligare ett skäl till översyn,
+
+där busstrafiken behöver anpassas så att det blir ett välfungerande
+system som helhet, med möjlighet att byta mellan trafikslag samtidigt
+som parallellkörning undviks. I det trafikeringsförslag som tagits fram i
+denna förstudie, blir det ett tydligare fokus på tågstationerna som noder i
+kollektivtrafiksystemet och parallell busstrafik minskas.
+
+Utöver anpassning till resbehov och förändrad tågtrafik, är den otydliga
+gränsdragningen mellan skoltrafik och allmän kollektivtrafik en anledning
+till översyn. Som det fungerar i nuläget, nyttjas skoltrafik för allmänt behov
+och allmän trafik fungerar i vissa fall mer eller mindre som skolskjuts.
+
+En tydligare gränsdragning kan underlätta för både resenärer och
+trafikföretag, och samtidigt säkerställa en korrekt fördelning av kostnader
+mellan Kungsbacka kommun och Region Halland.
+
+Kungsbacka kommun har en hög tätortsgrad men en förhållandevis liten
+andel av befolkningen bor i kommunhuvudorten. Det finns också stora
+
+rp ne FÄRRE, vv
+
+delar av kommunen där det är glest med bebyggelse. För att få ett hållbart
+kollektivtrafiksystem behöver det finnas en balans mellan att koncentrera
+resurser till starka stråk där det finns störst potential, och att upprätthålla
+ett grundutbud för så stora delar av befolkningen som möjligt. Det finns
+även brister i infrastrukturen, med smala och slingrande vägar, som skapar
+begränsningar. Infrastrukturella brister lyfts inom denna förstudie och
+åtgärder i vägnätet kan öppna nya möjligheter för trafikering framöver.
+
+Det trafikeringsförslag som har arbetats fram inom denna förstudie
+förutsätter till viss del åtgärder inom vägnätet. Detta gäller bland annat nya
+vändplatser, framkomlighetsåtgärder inom Kungsbacka tätort samt att
+hållplatser längs linje 731 anpassas för ledbuss. Enligt trafikeringsförslaget
+trafikeras även den planerade vägen Hedeleden, i den nordöstra delen
+
+av Kungsbacka tätort. I samtliga fall där trafikeringsförslaget förutsätter
+åtgärder i infrastrukturen, finns en alternativ lösning framtagen. Att
+trafikera enligt det alternativet, utan några infrastrukturåtgärder,
+
+skulle dock ge en mindre attraktiv och en mindre effektiv trafikering av
+Kungsbacka. Utbudet skulle i det fallet behöva minskas alternativt att den
+ekonomiska ramen för trafikeringen utökades ytterligare.
+
+Några större standardhöjningar av vägsträckor, som i nuläget inte är
+planerade, kan inte anses realistiskt innan avtalsperioden börjar.
+
+En tydligare beskrivning av respektive linje, med bland annat prioriterade
+passningar, viktiga målpunkter och huvudsakligt syfte, finns i bilaga 1.
+
+<!-- sida 280 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Trafikeringsstrategi
+
+Trafikeringsförslaget har arbetats fram utifrån följande principer:
+
+« Tågtrafiken utgör stommen i Kungsbackas kollektivtrafik.
+
+9 Tågstationerna är noder i linjenätet. Åsa station utvecklas som
+knutpunkt.
+
+9 Busstrafik matar till tåg i möjligaste mån och planeras utifrån hela-
+resan-perspektiv.
+
+2 Öppettider i starka stråk harmoniserar med tågtrafik och stödjer
+in- och utpendling.
+
+« Hänsyn till bebyggelsestrukturen i Kungsbacka.
+
+9 Bebyggelsestrukturen motiverar ett system med flera starka
+stråk.
+
+2 Linjer inom regiontrafik och stadstrafik kan ha likvärdigt utbud.
+
+9 Resbehovet är styrande och resurser koncentreras till stråk med
+hög potential.
+
+9 Grundutbud i enlighet med trafikförsörjningsprogrammet, i den
+mårn det är möjligt
+
+« Balans mellan skoltrafik och allmän trafik.
+9 Respektive trafikform ska användas på rätt plats och för rätt resa.
+
+9 Det blir enklare för resenärer att förstå kollektivtrafiksystemet
+med hjälp av tydliga trafikkoncept.
+
+Förarperspektivet
+
+Bra arbetsförhållanden för förare är en förutsättning för att ha en
+långsiktigt hållbar kollektivtrafik. Arbetsgruppen har arbetat för att det
+ska vara tillräckliga marginaler mellan turer och att körtider är rimliga.
+Trafikeringsprinciper med knutpunkter så som Åsa station och Fjärås
+centrum möjliggör bra pausförhållanden, förarbyten och tjänsteplanering.
+
+Dialog med kommun och Trafikverket gällande infrastrukturåtgärder
+medför bättre körupplevelse för förarna och skapar bra förutsättningar
+för resenärsservice. Frågan om förarnas arbetsförhållanden bör fortsatt
+bevakas.
+
+Trafikeringsperioder och beroende till annan
+förstudie
+
+Tågtrafiken får ett ökat utbud i december 2030 (T31) och vissa justeringar
+av busstrafiken behöver göras i samband med detta, vilket alltså blir ett och
+ett halvt år efter avtalsstart. Det är vid samma tidpunkt, december 2030,
+som det blir trafikstart av en ny expressbusslinje längs väg 158 om en sådan
+införs.
+
+Dessa faktorer gör att det behövs en viss trafikering fram till december
+2030, trafikeringsperiod 1, och en annan trafikering efter december 2030,
+trafikeringsperiod 2.
+
+Beslut om det ska införas en ny expressbusslinje längs väg 158 fattas inte i
+inom ramen för denna förstudie. En sådan expressbuss utreds i en annan
+förstudie, som förväntas vara klar i juni 2027.
+
+<!-- sida 281 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Förstudie där ev. ny Förändrade förutsättningar för trafikering:
+expressbusslinje ingår »« Trafikstart ev. ny expressbusslinje längs väg 158
+Juri 2027 » Fullt utbyggd tågtrafik, när Västlänken är helt klar
+December 2030
+Förstudie : E Trafikstart
+juni 2026 Upphandling & etablering > juni 2029
+I I I
+2026 2027 2028 2029 2030 2031 2032 2033
+| Å
+Y Y --
+Trafikeringsperiod 1, Trafikeringsperiod 2,
+juni 2029 — december 2030 december 2030 — avtalsslut
+
+Figur 12. Övergripande tidslinje - förstudie, trafikstart och trafikeringsperiod 1. Denna förstudie, för busstrafik inom Kungsbacka, ska vara klar under första halvåret av
+
+2026\. Expressbusslinje längs våg 158 utreds i en annan förstudie.
+Beskrivningen av trafikeringsförslaget utgår främst från trafikeringsperiod
+
+2, men där det finns skillnader mellan trafikeringsperiod 1 och 2 finns detta
+beskrivet.
+
+49
+
+<!-- sida 282 -->
+
+Trafikeringsförslag
+
+En översikt av föreslaget linjenät syns i kartan på nästa sida.
+
+Förslaget bedöms ge en välfungerande helhetslösning tillsammans med
+tågtrafiken samt den busstrafik som går in i Kungsbacka kommun men
+ligger inom andra trafikavtal. Detta gäller linje 615, linje X3 samt den
+eventuella linje X7.
+
+Frågan om en ny expressbusslinje X7, som trafikerar väg 158 längre söderut
+än nuvarande expressbusslinjer, utreds inom en annan förstudie. Eftersom
+en eventuell ny expressbusslinje X7 kan starta först i december 2030,
+kommeer ett scenario utan X7 att gälla åtminstone under trafikeringsperiod
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Eftersom beslut om en ny expressbusslinje inte ligger inom denna förstudie,
+hanteras olika scenarier:
+
+.« Ett scenario utan X7
+« Ett scenario med X7 till Kungsbacka station
+« Ett scenario med XT till Onsala
+
+Utifrån kollektivtrafiksystemet i Kungsbacka, förordas ett alternativ med
+XT till Kungsbacka station. På så sätt kan linjen fylla flera funktioner och
+bidra till en bra helhetslösning. Det trafikeringsförslag som presenteras
+
+här i förstudierapporten utgår från detta scenario, med X7 till Kungsbacka
+station. I övriga scenarier påverkas linje 720 respektive 731, vilket beskrivs i
+samband med dessa linjer.
+
+Karta 22. Översikt av de tre scenarier som hanteras inom denna förstudie. Från vänster "Utan XT”, i mitten "Med XT till Kungsbacka” och höger "Med X7
+till Onsala”. Notera att det första scenariot, utan X7, kommer att gälla för trafikeringsperiod I oavsett vad som beslutas angående ny expressbusslinje.
+
+<!-- sida 283 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET | = 51
+
+-— Tågtrafik
+= Expressbuss
+
+= Regionbuss
+Karta 21. Översikt trafikeringsförslag, illustrerat ovanpå nuvarande a
+linjekarta. Gröna linjer motsvarar sträckor som ingår i befintligt (0) Knutpunkt, tag
+linjenät men som inte ingår i föreslaget linjenät. Ett scenario med X7 O Knutpunkt
+till Kungsbacka station.
+
+<!-- sida 284 -->
+
+För att få en attraktiv expressbusslinje X7 behöver framkomligheten för
+kollektivtrafiken säkerställas. Här behövs ett fortsatt samarbete med
+väghållare och närmare utredning inom den förstudie som ska göras.
+
+Nedan beskrivs trafikeringsupplägg för olika delar av kommunen. En
+tydligare beskrivning av respektive linje finns i bilaga 1.
+
+Trafikeringsförslag Kungsbacka stad
+Stadstrafiken blir mer attraktiv med potential att locka nya resenärer i ett
+upplägg med färre linjer, ökad turtäthet och ökade öppettider.
+
+I trafikeringsförslaget utgörs stadsbusstrafiken av tre linjer, vilka täcker in
+Kungsbacka tätort på ett bra sätt och kopplar till de båda tågstationerna
+Kungsbacka station och Hede station. Med detta förslag uppnås ett
+överblickbart linjenät anpassat till stadens storlek. Det framväxande
+området Tölö ängar samt den planerade arenan trafikeras på ett bättre sätt
+med föreslaget linjenät.
+
+Geofencing för hastighetsefterlevnad kravställs för stadstrafiken. Detta
+underlättar samarbetet med kommunen gällande gatuutformning och
+trafiksäkerhet.
+
+Passning till tågens avgångar och ankomster minskar i betydelse i takt med
+att tågens turtäthet ökar.
+
+Karta 23. Trafikeringsförslag för Kungsbacka stad
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+52
+
+<!-- sida 285 -->
+
+Trafikeringsförslag västra Kungsbacka - Kullavik, Särö, Onsala
+Trafikeringsupplägget i västra Kungsbacka påverkas av eventuell ny
+
+expressbusslinje X7. Utan X7 behöver utbudet på linje 720 behållas, men
+med en XT7 till Kungsbacka [RV15:lföreslås linje 720 få ett minskat utbud.
+Kullavik och Särö behöver fortsatt koppling till Göteborg, men även till
+Kungsbacka stad.
+
+I trafikeringsförslaget ökas kapaciteten i Onsalastråket med hjälp av
+ledbussar på linje 731. I ett scenario med en ny expressbusslinje X7 ner till
+Onsala sätts inte ledbussar in på linje 731.
+
+På Onsalahalvön anpassas utbudet till resbehovet och parallellkörning
+undviks, genom att linje 733 avslutas i Lerkil och att linje 734 och 731 möts
+vid Mariedal, i stället för vid nuvarande vändplats Älskogsbräcka. Båda
+dessa förändringar förutsätter infrastrukturåtgärder, med nya vändplatser.
+
+Karta 24. Trafikeringsförslag västra
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Kullavik
+
+wie KV
+
+Hagryd-Dala
+
+Sandsjöbacka
+Budkärr skol
+
+Sanna-Dala
+
+EN rn
+lat
+720 TE söp öns
+”Kyrkobyn
+Hantbocks |
+
+y Gåsevad
+SÖN, 8, a = 5 AN holm »
+: RR Kp
+BESSIE )
+
+— Vs ungsbacka
+
+austafs
+berg -
+
+ec
+
+Kläppa Vallda
+0
+Torktskolan
+
+Oskarsberg
+Bröndome at a : ja
+
+Lerkil
+
+Hanhals
+ör
+
+Onsala
+
+Lunnaberg
+
+Hanhals
+
+1
+
+orkelstoepsvagen
+vig  Torkelstorp ” ör
+
+Vv Hagen
+
+Skållared
+
+Färsk Fjärås
+rskogen
+Sevekulla — N Hagen Presstskolan Äskatoro -
+"| Håkulla
+Buer ås Kolask
+Torpa sk
+
+nsala Kungsbacka
+
+ro JOB
+
+fiorden ud
+Indra Tjolöholm
+
+\+ Torpa smedja
+
+Strannegården
+Å Ae
+
+Prästgärde « Tjolöholm
+
+<!-- sida 286 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Trafikeringsförslag östra Kungsbacka - Fjärås, Anneberg, Gällinge
+
+I de östra delarna av Kungsbacka kommun föreslås ett trafikeringsupplägg
+där Fjärås utgör en tydlig knutpunkt. I det starka stråket mellan Fjärås och
+Kungsbacka föreslås ett högt utbud med en kort linje som länkar samman
+dessa orter.
+
+Linje 744 passas mot tåg i Horred, på Viskadalsbanan, med motivering att
+nya resmöjligheter skapas och att den täta tågtrafiken vid Kungsbacka
+station gör att det inte finns samma behov av passning i Kungsbacka.
+
+Övriga linjer i området får tydligt upplägg med samma körväg för samtliga
+turer och med likvärdigt utbud.
+
+—B2
+Karta 25. Trafikeringsförslag östra Kungsbacka
+
+<!-- sida 287 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET | 55
+
+Trafikeringsförslag södra Kungsbacka - Åsa, Frillesås
+
+I de södra delarna av Kungsbacka ger det föreslagna trafikeringsupplägget
+ett tydligt fokus på tågtrafiken, där busstrafik som går parallellt med
+tågtrafik minskas och busslinjer länkas till tågtrafiken vid Åsa station. Åsa
+station utvecklas till en tydlig knutpunkt.
+
+Frillesås får en god koppling till Åsa station tack vare en ny linje
+Frillesås-Åsa som saxas med linje 615 Varberg-Väröbacka-Åsa så att
+halvtimmestrafik uppnås på sträckan.
+
+I övrigt skapas ett renodlat linjenät som täcker in det allmänna behovet i
+området och där parallellkörningar undviks.
+
+Karta 26. Trafikeringsförslag
+södra Kungsbacka
+
+<!-- sida 288 -->
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+Kort sammanställning över föreslagna Linje | Sträckning Förändring
+LI - - d
+förändringar (nuvarande) — no
+733 | V Hagen-Vallda- Linjen kortas av vid hällplats Angäs och får
+I tabellen nedan presenteras föreslagna förändringar per linje, i korthet. Kungsbacka strackning Lerkil-Vallda-Kungsbacka (ätg.
+De förändringar som har noteringen ”åtg. krävs” är beroende av fysiska - krävs).
+åtgärder i infrastrukturen. 734 | Alskogsbräcka-Vallda- Linjen förlängs till Mariedal, där den möter upp
+Kungsbacka linje 731 (ätg. krävs)
+allningeln; 2 717 | Roshult-Anneberg- Linjedragning oförändrad. Mindre justeringar
+Beställningslinjerna 703, 704 och 705 läggs ner. Kung sbacka av tidtabell.
+720 Kullavik-Särö-Kungsbacka | Minskat utbud med anledning av ny
+Linje | Sträckning Förändring Expressbuss.
+(nuvarande) 735 | Kungsbacka-Lindome Justerad linjedragning för att få samma körväg
+1 [Hede Station - Fors Utökat utbud. Justerad linjedragning vid Varla, för alla turer.
+för att få samma körväg i båda riktningar (åtg. 740 | Hällingsjö-Ubbhult-Fjärås | Linjedragning oförändrad. Mindre justeringar
+krävs) av tidtabell.
+2 Hede Station - Kolla Utökat utbud. 741 — | Sätila-Nåkälla-Fjärås- Linjen kortas av vid Fjärås och får sträckning
+: = 5 RR fee = Kungsbacka Sätila-Nåkälla-Fjärås. Från Fjärås till
+3 Britta-Lena - Kungsbacka | Andrad linjedragning i linjens södra del, för att FRE EEE
+trafikera arenaområdet Då ett bättre sätt. - Kungsbacka hänvisas till linje 742.
+Förlängning av linjen norrut, till Tolö ängar, 742 | Förlanda-Oxared-Fjärås- | Okat utbud och ökad kapacitet med hjälp av
+Hede station och Björknis. Ersätter linje 4 och 5. Kungsbacka 0099 buss. fönjen fortas av vid Fjärås och får
+\- = - nn . strackning Fjaras-Kungsbacka, starkt strak. De
+4 ungsbeda - Nedläggning. Ersätts av linje 3 samt tågtrafik. yttre delarna av linjen ersätts av linje 743.
+5 [Biörkis- Hede station — [ Nedläggning. Ersätts av linje 3. 3 Gälmgo Fjärde Ny linjedragning Fjäräs-Oxared-Gällinge.
+730 kariedal-Onsalar Nedläggning. 744 | Horred-Gällinge-Fjärås- — | Linjedragning oförändrad. Mindre justeringar
+SUNgSMac - Kungsbacka av tidtabell.
+731 | Alskogsbracka-Onsala- | Okad kapacitet med hjälp av ledbuss. FT = |A SE S
+Kungsbacka Linjen kortas av vid Mariedal och får sträckning 745 | Idala-Frillesås-Åsa-Fjärås Nystad, i jalnge Il
+Mariedal-Onsala-Kungsbacka [åtg. krävs). - — Tackning Dir balnge "ae" on
+732 — |Frillesås-Åsa-Fjärås- — | Minskat utbud med anledning av ökad 746 | Stättaredsv-Frillesås-Åsa | Nedläggning.
+Kungsbacka tågtrafik. 747 | Ölmanäs-Åsa- Linjen kortas av och får sträckning Olmanäs-
+Linjen kortas av vid Åsa station och får Kungsbacka station.
+sträckning Åsa-Kungsbacka.
+
+56
+
+<!-- sida 289 -->
+
+Linje | Sträckning Förändring
+(nuvarande)
+748 | Kyrkobyn-Breared-Landa- | Nedläggning.
+Kläppa-Åsa
+749 — | Åsa- Frillesås Ny linje på sträckan Åsa station — Frillesås
+
+skola. Ersätter delvis 615, delvis 732 och
+
+fungerar som en stationspendel till Åsa station.
+
+7\. BESKRIVNING AV TRAFIKERINGSFÖRSLAGET |
+
+57
+
+<!-- sida 290 -->
+
+Konsekvenser och
+
+risker
+
+Konsekvensbeskrivning och eventuella
+risker
+
+När förändringar sker kan reaktioner alltid skapas hos allmänheten,
+vilket medför risk för kundsynpunkter och klagomål.
+
+Linje 1 Hede station - Fors:
+
+Positivt för kund med ökad attraktivitet och bättre matchning
+mot tågtrafikens öppettider. Kopplingen blir bättre för boende
+på Varlaplatån till Hede station. Linjedragningen kommer bli mer
+lättförståelig med samma sträckning i båda riktningar.
+
+Det kan uppfattas som negativt för boende på Varlaplatån med
+ökad trafikering i bostadsområdet, samt ur förarperspektivet då det
+finns risk för att det kommer bli trångt för bussarna att mötas om
+tillräckliga åtgärder inte görs. Geofencing i bussen kan bidra till att
+underlätta för förarna då systemet kan varna för mötande buss.
+
+Linje 2 Hede station - Kolla:
+Positivt för kund med ökad attraktivitet och bättre matchning mot
+tågtrafikens öppettider.
+
+Stadsdelen Tingberget blir fortsatt utan stadstrafik men
+regionbussarna trafikerar ”nedanför” vilket är fullgott utifrån
+
+rekommenderat avstånd till hållplats. Höjdskillnaderna är stora,
+därav att bussen inte kör in i området.Det kan uppfattas som negativt
+att den ökade turtätheten upplevs störande i boendemiljön.
+
+Linje 3 Britta-Lena - Björkris:
+
+Arenaområdet trafikeras på ett bättre sätt. Tölö ängar som idag
+saknar stadstrafik blir trafikerat. Regionbusstrafik fångar fortsatt upp
+de resenärer som inte längre nås av linje 3 och 717 utökas dessutom
+så utbudet blir förbättrat. Alla resenärer som berörs av förändringen
+har fortsatt gångavstånd till hållplats.
+
+Linje 4:
+
+Läggs ner, men ersätts till största delen av linje 3, 717 och 735.
+
+En negativ konsekvens för kund är att hållplatserna Kraftvägen,
+Faktorvägen och Hedal endast trafikeras av regionbusstrafik vilket
+medför en lägre turtäthet men utbudet förbättras något på aktuella
+regionbusslinjer.
+
+Linje 5:
+Läggs ner men ersätts helt av linje 3.
+
+Linje 720 Kullavik - Särö - Kungsbacka:
+Turtätheten minskas och en mer kapacitetsstark fordonstyp
+(boggi) införs, när eventuell ny expressbusslinje införs längs väg
+
+<!-- sida 291 -->
+
+158\. För resor mellan Särö och Kungsbacka blir X7 ett mer attraktivt
+alternativ. Boende i Särö får då kliva på i Särö centrum. I ett scenario
+utan X7, eller där X7 inte går till Kungsbacka, behålls nuvarande
+turtäthet (30 min-trafik). Utbudet Kullavik till Göteborg förbättras.
+
+Kullavik till Kungsbacka får dock ett halverat utbud (genomsnittligen
+75 personer per dag kommer inte uppleva det som lika attraktivt),
+
+dock är resbehoven mot Göteborg avsevärt mycket större. Exempel:
+
+Hållplats Kullaviks hamn är förhållandet 10 norr/4 söder.
+
+Linje 730:
+
+Läggs ner. Behovet av denna linje försvinner med föreslagna
+förändringar av linje 731. Sex hållplatser blir dock utan trafikering.
+Dessa har i genomsnitt tillsammans 8 påstigande per dag och
+
+dessa resenärer når fortfarande kollektivtrafiken med något längre
+gångväg,
+
+Linje 731 Mariedal - Onsala - Kungsbacka
+Ökad kapacitet i den del av befintlig linje där resbehovet är störst.
+Minskad trängsel i bussarna.
+
+Ökad robusthet, när linje 731 & 734 frikopplas från varandra. En
+negativ effekt är att resenärer kommer åka obältade på 70-väg men
+detta skulle kunna åtgärdas genom en ändrad hastighetsgräns eller
+att bussen regleras med geofencing. Bytesmöjlighet mellan 731 och
+1734 behöver säkerställas vid tidtabelläggning.
+
+I ett scenario där X7 går till Onsala behålls nuvarande fordonstyp.
+
+8\. KONSEKVENSER OCH RISKER |
+
+Linje 732 Åsa - Kungsbacka
+
+Minskad parallellkörning. Resenärer mellan Åsa och Kungsbacka
+hänvisas till tåg i högre utsträckning. De som bor mellan orterna får
+ett minskat utbud av busstrafik.
+
+Mindre tillgänglighet mellan orterna, dvs mycket bättre för de som
+bor nära tågstationerna och sämre för de mellan. Boende i Åsa
+behöver ändra resvana till att välja tåget.
+
+Linje 733 Lerkil - Vallda - Kungsbacka
+
+Parallellkörning av linjerna 733 och 734 undviks. Bytesmöjlighet
+mellan 733 och 734 kvarstår vid Vallda trekant, men inte Västra
+Hagen.
+
+Resmöjlighet mellan Västra hagen och Lerkil försvåras men
+platserna ligger dock på cykelavstånd. I genomsnitt rör det sig om
+max en resande per tur.
+
+734 Mariedal - Vallda - Kungsbacka
+
+Berörda bostadsområden får bibehållet utbud. Robustheten ökar,
+tack vare att linje 731 och 734 frikopplas från varandra. Minskad
+parallellkörning.
+
+717 Röshult - Anneberg - Kungsbacka
+Positivt med bättre pendlingsmöjlighet för arbete och studier samt
+lättare att förstå tidtabellen.
+
+Inga förändringar annat än att alla turer får samma körväg. Enklare
+att förstå trafikeringen.
+
+59
+
+<!-- sida 292 -->
+
+Linje 735 Kungsbacka - Lindome
+
+Bättre pendlingsmöjlighet för arbete och studier. Lättare att förstå
+tidtabellen då alla turer får samma körväg. Ökad tillgänglighet i
+Alekärr.
+
+Linje 740 (Hällingsjö) - Ubbhult - Hjälm - Fjärås
+
+Ingen förändring av utbud eller öppettider. Dock kan någon tur som
+vänder vid Ubbhult förlängas till Hällingsjö. Ny bytespunkt blir Fjärås
+centrum, för byte till 742 mot Kungsbacka. Resenärerna får byta vid
+Fjärås centrum istället för vid Hjälm. Restiden blir i det närmaste
+den samma. Positivt att linjeupplägget förenklas och att vi satsar på
+Fjärås som knutpunkt.
+
+8\. KONSEKVENSER OCH RISKER |
+
+741 Sätila - Nåkälla - Fjärås
+
+Förslaget kommer upplevas negativt för de resande som ska till
+Kungsbacka och får ett tillkommande byte vid Fjärås centrum.
+Stärker Fjärås centrum som knut- och bytespunkt. Positivt är
+
+att resurser omfördelas efter behov och stärker upp det starka
+stråket Kungsbacka - Fjärås (linje 742). Sträcka Hjälmeskulla,
+Ramsjödalsvägen och Björsgård blir utan trafikering, vilket drabbar
+i genomsnitt 5 resenärer per dag, Linje 3 kommer något närmre
+området.
+
+Linje 742 Fjärås - Kungsbacka
+
+Ökad attraktivitet och bra möjlighet till hela resan från landsbygd till
+Göteborg/Malmö. Linjer med stopp i Fjärås centrum anpassas för att
+skapa smidiga byten till 742.
+
+Linje 743 Fjärås - Öxared - Gällinge
+
+Bra bytesmöjligheter i Fjärås samt erbjuder resmöjligheter till
+
+och från skola i Fjärås och Gällinge. 10 hållplatser blir utan allmän
+trafik på grund av litet allmänt behov samt bristfällig infrastruktur.
+Kommunen skulle kunna välja att ersätta resmöjligheten till Litserhult
+och Biskopsgärde med en öppen skolskjuts för att minimera
+konsekvenserna.
+
+Linje 744 Horred - Gällinge - Kungsbacka
+
+Fokus ligger på god passning till och från Horreds station
+samt passning till skoltider till och från Gällingeskolan. Bättre
+uppkoppling till Viskadalsbanan. Kan medföra sämre byten
+till Kungsbackapendeln. Tågtrafiken utökas dock markant, så
+betydelsen av det är liten.
+
+<!-- sida 293 -->
+
+Linje 745 Gällinge - Åsa
+
+Positivt är att det blir ett mer renodlat upplägg med koppling i
+Frillesås och Åsa för möjlighet till vidare resor. Stärker Åsa station
+som knutpunkt. Behåller ett grundutbud inåt landet. Eventuell
+koppling till det nya verksamhetsområdet (infraåtgärder krävs enbart
+om vi väljer ny körväg i Frillesås via verksamhetsområdet). Negativt
+att det blir svårare att resa från Idala till Fjärås. Resmöjligheten
+
+finns kvar men kräver byte i Kungsbacka. Hållplatserna Idala och
+Kärrakulle blir utan trafikering. Där reser i snitt en — två per tur.
+
+Linje 746
+
+Linjen saknar underlag för allmän trafik, därför föreslås nedläggning.
+Kommunen skulle kunna välja att ersätta linjen med en öppen
+skolskjuts för att minimera konsekvenserna.
+
+Linje 747 Ölmanäs - Åsa
+
+Ökad attraktivitet med utökad trafik och fler kopplingar till tågen.
+Negativt för resenär är att den enskilda vägen Stenavägen dras in.
+Stenavägen har ca 7-10 resenärer totalt, eller 2-4 resenärer per tur en
+vardag, Flera av dessa har nära till kvarstående hpl Grenvägen.
+
+Linje 748
+
+Linjen saknar underlag för allmän trafik, därför föreslås nedläggning.
+Kommunen skulle kunna välja att ersätta linjen med en öppen
+skolskjuts för att minimera konsekvenserna.
+
+Linje 749 Åsa - Frillesås
+
+Ökad attraktivitet med fokus på hela resan-perspektivet. Resor för
+Åsaskolan ersätts med gånglänk från Åsa Gårdsskola. Positivt är att
+tågtrafikens räckvidd utökas.
+
+8\. KONSEKVENSER OCH RISKER |
+
+<!-- sida 294 -->
+
+9 ww |
+
+Jämförelse mellan NN
+
+dagens linjenät och
+förslaget Å
+
+I detta kapitel jämförs befintligt linjenät med föreslaget.
+
+För att kunna möta upp ett ökat resande och med utgångpunkt
+itrafikeringsstrategin så finns ett antal förslag till förändring på
+befintlig linjenätsstruktur.
+
+Fokus med det nya linjenätet är att vi skall ha färre linjer som är
+tydliga i sin linjesträckning utan allt för många varianter men som
+ändå ombesörjer de resandebehov som finns.
+
+I takt med att Kungsbackapendeln kommer att utökas minskas
+behovet av att träffa en specifik tågavgång, då tågen kommer gå så
+pass ofta under hög- och dagtrafik.
+
+Tätortstrafiken
+
+Dagens tätortstrafik i Kungsbacka består idag av fem linjer, dessa
+linjer är ett resultat av att stadens har byggts ut i omgångar och
+
+därför har tätortslinjenätet utökats med fler linjer i befintligt system.
+
+Förslag till förändring är att dagens fem linjer i stället blir tre linjer.
+
+Områden som påverkas av denna förändring är den norra delen
+av Göteborgsvägen mellan Tölö tvärled och Hedestation som
+
+inte längre kommer att trafikeras av tätortstrafiken, men viss
+regionbusstrafik kommer dock att gå kvar på sträckan. En annan
+förflyttning av trafiken är att det som är linje tre kommer att få en ny
+körväg förbi arenastråket och därför inte köra via Hantverksgatan,
+denna sträcka förväntas dock ersättas med en ny hållplatsen längs
+Inlagsleden.
+
+Turtätheten på trafiken ökas samt öppettiderna förlängs och
+anpassas till Kungsbackapendeln för att än mer fokusera på ”hela
+resan”-perspektivet och möjliggöra lokala resor även på fritiden.
+
+Inom ramen för tätortstrafiken finns också en ny sträckning
+
+via en ny väg, den så kallade Hedeleden. I trafikeringsförslaget
+
+för tätortsrafiken trafikerar vi denna sträcka för att möta upp
+samhällsutvecklingen samt att på ett bättre sätt trafikförsörja Tölö
+ängar, vilket idag endast trafikeras med regionbuss.
+
+Regiontrafik väster
+
+För resande till och från Onsala blir det några smärre justeringar där
+linje 731 kommer att trafikera till Mariedal och vända, detta betyder
+att linjerna 731 och 734 får en ny vändplats i Mariedal i stället för
+dagens Älskogsbräcka. Linje 730 kommer att läggas ned vilket
+betyder att ett fåtal hållplatser inte längre kommer att få någon trafik
+med den allmänna kollektivtrafiken.
+
+<!-- sida 295 -->
+
+Linje 733 kommer att vända i Lerkil och på så sätt minskas
+parallelltrafikeringen på Valldavägen.
+
+Införandet av den nya X-linjen, X7, medför en omfördelning av
+trafiken i de nordvästra delarna av Kungsbacka kommun. Linje 720
+reduceras i omfattning för att minska parallelltrafiken på väg 158 och
+skapa ett mer effektivt linjenät.
+
+Särö kommer fortsatt att erbjudas ett bra trafikutbud mot Göteborg,
+samtidigt som resorna till och från Kungsbacka snabbas upp och blir
+fler, vilket stärker attraktiviteten för pendelresenärer.
+
+Kullavik påverkas av reducerade turer på linje 720, vilket innebär
+färre avgångar mot Kungsbacka, men samtidigt en bättre
+samordning med den nya X7-linjen och övrig trafik.
+
+Den största förändringen i de södra delarna av Kungsbacka
+kommun rör linje 732, som delas upp i två separata linjer. Tågtrafiken
+blir stommen i systemet via Åsa station, vilket skapar en effektiv
+koppling mellan Kungsbacka och Åsa med tåg. För resor mellan
+Frillesås och Kungsbacka behövs ett byte vid Åsa station. Detta
+medför färre turer på de lokala vägarna, men ger förbättrad
+samordning och bättre anslutning till tågtrafiken på Västkustbanan,
+vilket stärker det övergripande pendelsystemet.
+
+Fjärås får ett renare och tydligare trafikupplägg där linje 742 blir
+stommen i busstrafiken mellan Fjärås och Kungsbacka. Fjärås
+utvecklas dessutom till en lokal knutpunkt där flera linjer möts, vilket
+underlättar byten till linje 742 och skapar effektiva förbindelser till
+och från Kungsbacka. Dessa åtgärder förbättrar kapacitet, ökar
+
+9\. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRSLAGET |
+
+tillgänglighet och skapar ett mer logiskt och användarvänligt linjenät i
+södra kommunen.
+
+Ekonomiska konsekvenser
+
+Det föreslagna trafikeringsupplägget skapar sammantaget
+
+bättre förutsättningar för ett mer hållbart och attraktivt
+kollektivtrafiksystem i Kungsbacka. Förändringarna innebär dock att
+fler fordon behöver sättas i trafik samt att fordonsreserven behöver
+utökas för att säkerställa en robust trafikproduktion, vilket initialt
+kommer att öka kostnaderna för Hallandstrafiken.
+
+Den planerade utvecklingen av stadstrafiken i Kungsbacka,
+
+där fokus ligger på utökade öppettider och ökad attraktivitet i
+utbudet, kommer till en början att innebära ökade kostnader.
+Samtidigt förväntas satsningen bidra till en ökad efterfrågan på
+kollektivtrafik, i synnerhet då tågtrafiken genom kommunen kommer
+att utvecklas. Ett mer attraktivt trafikutbud som är anpassat för
+
+hela avtalsperioden och en förbättrad tågtrafik på Västkustbanan
+bedöms därmed på sikt kunna stärka biljettintäkterna inom avtalet.
+
+En minskning av antalet trafikavtal skapar samtidigt bättre
+förutsättningar att uppnå synergijer, särskilt avseende fordonsflotta
+och fordonsutnyttjande. Genom en mer samlad avtalsstruktur kan
+antalet olika fordonstyper begränsas och produktionsupplägget
+optimeras, vilket i sin tur minskar antalet kostnadsdrivande faktorer i
+trafikproduktionen.
+
+Samtidigt påverkas dimensioneringen av trafiken av den nuvarande
+uppdelningen mellan skoltrafik och allmän kollektivtrafik.
+
+<!-- sida 296 -->
+
+Kungsbacka kommuns generösa tilldelning av skolkort innebär att
+en betydande andel skolelever reser i den allmänna kollektivtrafiken,
+vilket i många fall är samhällsekonomiskt positivt, men det är viktigt
+att hitta en bra balans mellan det regionala och kommunala ansvaret
+kring skoltrafik.
+
+I dagens planering tas höjd för en viss trafikvolym, men eftersom
+delar av skoltrafiken saknar system för resanderegistrering finns en
+osäkerhet kring den faktiska beläggningen och det totala resandet
+i kommunen. Detta innebär att planeringsunderlaget innehåller
+
+ett visst mått av osäkerhet vad gäller den verkliga efterfrågan på
+kollektivtrafik.
+
+9\. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRSLAGET |
+
+Diskussion ekonomiska konsekvenser
+
+En ny upphandling ger tillfalle att göra en större översyn av trafiken.
+De utökningar som föreslås i Kungsbacka kan uppfattas alltför
+omfattande för att göras på en gång. Samtidigt finns det brister i
+kapacitet och attraktivitet som bör åtgärdas, och Kungsbacka är en
+växande kommun. Bedömningen är att det är mer långsiktigt hållbart
+att göra satsningar i samband med avtalsstart, än att göra dem när
+resbehovet gör satsningarna tvingande en bit in på avtalsperioden.
+De ekonomiska konsekvenserna blir svårare att överblicka om
+utökningar görs under avtalsperioden.
+
+ammar |
+LER TT
+
+je
+ha
+
+64
+
+<!-- sida 297 -->
+
+10\.
+
+Genomgång av
+förslagets sociala
+konsekvenser
+
+De föreslagna trafikförändringarna innebär en omställning av
+kollektivtrafiken där tågtrafiken ges en mer central roll, särskilt i
+relationen Åsa-Kungsbacka. Linjenätet renodlas och parallellkörning
+minskas, vilket medför avkortningar eller nedläggning av vissa
+busslinjer. Vissa områden föreslås i stället få tillgång till öppen
+skolskjuts. Samtidigt förstärks kapaciteten på flera huvudlinjer
+genom modernare och större fordon, och bytespunkterna ges en
+tydligare funktion i systemet. Syftet är att uppnå en mer robust,
+effektiv och resurseffektiv kollektivtrafik.
+
+De förändringar som föreslås berör flera befolkningsgrupper i olika
+grad. I denna bedömning analyseras särskilt:
+« Barn och unga, inklusive elever med särskilda behov.
+
+« Äldre personer, särskilt de med begränsad mobilitet eller utan
+bil.
+
+« Personer med funktionsnedsättning, både fysiska, kognitiva
+och neuropsykiatriska.
+
+« Hushålli områden där linjer kortas av eller läggs ned.
+
+« Resenärer som regelbundet använder de linjer som får utökat
+utbud eller större fordon.
+
+För barn och unga bedöms effekterna över lag vara positiva.
+
+Tydligare linjenät och mer strukturerade resvägar ger förutsägbarhet
+i skolresor. I områden där öppen skolskjuts ersätter linjetrafik kan
+barn med särskilda behov få bättre anpassade transportlösningar
+
+än tidigare. Den ökade användningen av tåg skapar kortare och
+stabilare resvägar till gymnasieskola och fritidsaktiviteter. Vissa barn
+kommer att behöva byta hållplats eller korsa väg på vissa sträckor,
+vilket kräver åtgärder inom trafiksäkerhet, men bedömningen är att
+fördelarna i form av bättre punktlighet och ökad kapacitet väger upp
+dessa.
+
+Äldre resenärer påverkas positivt av ett mer sammanhållet och
+tydligt linjenät. Trafiken koncentreras till stråk med högre turtäthet
+och mer robust trafik, vilket underlättar resor till vård, handel och
+service. Modernare fordon och förenklade bytespunkter förbättrar
+komfort och tillgänglighet. I vissa områden kan längre gångavstånd
+till hållplatser uppstå, men dessa bedöms motverkas av förbättrad
+kvalitet i de kvarvarande linjerna.
+
+För personer med funktionsnedsättning medför förändringarna
+tydliga förbättringar. Mer standardiserade och moderna bussar
+bidrar till ökad fysisk tillgänglighet, och ett renodlat linjenät
+underlättar navigering i systemet för personer med kognitiva och
+neuropsykiatriska funktionsnedsättningar. Den höjda andelen trafik
+som körs i robusta stråk minskar risken för störningar som kan
+drabba denna grupp särskilt hårt.
+
+<!-- sida 298 -->
+
+De föreslagna förändringarna kan bidra till ökad jämlikhet i de stråk
+där efterfrågan är hög och resbehovet störst. Barn och äldre, som
+oftare saknar bil, gynnas av ett tydligare och mer robust trafikutbud.
+I områden där hållplatser utgår är det troligt att hushåll utan bil
+påverkas mest, men mer kapacitetsstark trafik i huvudsakliga stråk
+ger samtidigt förbättrad mobilitet för grupper som är beroende av
+kollektivtrafiken.
+
+Den samlade bedömningen är att förändringarna stärker
+kollektivtrafikens funktion och bidrar till ökad punktlighet, kapacitet
+och tydlighet. För barn, äldre och personer med funktionsnedsättning
+skapas i huvudsak förbättrade reseförutsättningar genom mer
+förutsägbar trafik, standardiserade fordon och tydliga resvägar.
+Lokala konsekvenser uppstår i form av längre gångavstånd i vissa
+områden, men dessa vägs upp av att systemet som i helhet blir mer
+tillgängligt, begripligt och stabilt. Förutsättningarna bedöms därför
+som goda för att de föreslagna åtgärderna ska kunna genomföras
+utan att negativ påverkan på sårbara grupper blir betydande.
+
+10\. GENOMGÅNG AV FÖRSLAGETS SOCIALA KONSEKVENSER |
+
+<!-- sida 299 -->
+
+nn.
+
+Fordon och miljö
+
+Busstrafiken i Kungsbacka består till största delen av
+landsbygds- och tätortstrafik inom kommunen men i
+uppdraget ingår även viss regionaltrafik in till Göteborgs stad,
+Mölndals- och Marks kommuner. Busstrafiken ansluter till
+tågtrafiken på Västkustbanan på sträckan mellan Åsa och
+Anneberg.
+
+Vilka fordonstyper som är aktuella för trafikuppdraget baseras
+framför allt på det kapacitetsbehovet som respektive linje har men
+också på hur det aktuella vägnätet ser ut och vilken komfortnivå som
+resenärerna ska erbjudas på resan.
+
+Därtill kommer krav på drivmedel som baseras på Hallandstrafikens
+strategier.
+
+Fordonstyper
+
+I Kungsbacka kan trafiken delas in i två typer av områdestrafik.
+Tätortstrafik i Kungsbacka tätort samt landsbygdstrafik ute i
+kommunens landsbygdsområden.
+
+En nyhet är att tätortsuppdraget utökas till att även omfatta stråket
+från centrala Kungsbacka till Mariedal via Onsala och Gottskär.
+
+I tätortstrafik prioriteras såkallade ”citybussar” som är stads/
+tätortsbussar av fordonsklass l. I citybussar prioriteras goda flexytor
+för barnvagnar och stående passagerare samt dörröppningar
+
+för ett smidigt flöde vid på/avstigning för alla resenärsgrupper.
+
+Klass I bussar är inte försedda med säkerhetsbälten på
+passagerarplatserna.
+
+I landsbygdstrafiken prioriteras såkallade ”landsbygdsbussar” av
+fordonsklass ll. I landsbygdsbussar prioriteras gott om sittplatser
+och sittplatser för alla resenärsgrupper. Det innebär att bussarna
+har begränsade flexytor för barnvagnar och stående passagerare
+samt att antalet dörrar är så få som möjligt till förmån för så
+
+många sittplatser som möjligt. Klass II bussar är försedda med
+säkerhetsbälten på samtliga passagerarplatser. I landsbygdsbussar
+är det tillåtet att stå under resan men frekvent stående passagerare
+bör undvikas.
+
+<!-- sida 300 -->
+
+Definitioner av fordonsklasser:
+
+11\. FORDON OCH MILJÖ |
+
+Av tabellen nedan framgår en sammanställning över fordonstyper
+per linje, beräknat antal tursatta fordon samt tillhörande drivmedel:
+
+Fordons klass | Beskrivning
+Klass A Mindre buss för upp till 22 passagerare. Bussen har ini ärkni : -
+säkerhetsbälte och ett fåtal ståplatser. Linje | Sträckning | Fordonstyp | Drivmedel |Fordons- | Ca antal
+design fordon
+Klass B Mindre buss för upp till 22 passagerare. Bussen har 1 Hede - Fors ÅCN1L El VT-Blå 5
+säkerhetsbälte och inga ståplatser. =
+Klass I Större buss för med än 22 passagerare. Bussen har inga 2 Hede - Kolla TCNIL H VIBIö >
+säkerhetsbälte och många ståplatser. 3 Kungsbacka | CN1L El VT-Blå 3
+\- - - — Britta-
+Klass II Större buss för med än 22 passagerare. Bussen har lat?
+säkerhetsbälte och en lägre andel ståplatser. -
+Klass III Större buss för med än 22 passagerare. Bussen har 73 Cungsbacka- MIL) H VT-Blå ?
+säkerhetsbälte och inga ståplatser. Gottskär-
+Fordonskoder Mariedal
+Alla fordon får en fordonskod utifrån vilken fordonsgrupp och 717 Kungsbacka |LN2L Fossilfritt VE-Blå 7
+fordonsklass de tillhör som även baseras på vad det är för typ av — Anneberg
+buss (såsom ledbuss, boggibuss etc.) samt om den är av typen — Röshult
+låggolv eller höggolv. 735 | Kungsbacka |LN2L Fossilfritt | VTBlå 2
+— Lindome
+Fyra fordonskoder är aktuella för trafikuppdraget CNIL, CHILL, LN2L 740 Fjärås — LN2L Fossilfritt VT-Blå 2
+och LB2L. Ubbhult —
+— Fjärås
+Fordons kod Beskrivning 74 |Fjärås- = ÅUN2L Fossilfritt | VT-Blå = |2
+CN1L Citybuss, ca 12 meter, tvåaxlad Nåkälla —
+normalbuss, klass I, låggolv Sätila
+CL1IL Citybuss, ca 18 meter, treaxlad 745  IFrillesås- I LN2L Fossilfritt VT-Blå 2
+ledbuss, klass I, låggolv Idala
+LN2L Landsbygdsbuss, ca 12 meter, 747 lÅsa- j LN2L Fossilfritt — | VT-Blå 2
+tvåaxlad normalbuss, klass II, låggolv Olmanäs
+LB2L Landsbygdsbuss, ca 15 meter, 749 — |Åsa-Frillesås | LN2L Fossilfritt VT-Blå 1
+treaxlad boggibuss, klass II, låggolv
+
+<!-- sida 301 -->
+
+Linje | Sträckning | Fordonstyp | Drivmedel | Fordons- | Ca antal
+design fordon
+720 Kungsbacka | LB2L Fossilfritt VFBlaå 2"2)
+— Särö —
+Kullavik
+732 Kungsbacka LB2L Fossilfritt VT-Blå 1"3)
+— Åsa
+1733 Kungsbacka | LB2L Fossilfritt VT-Blå 2(+1 fst)
+— Vallda —V
+Hagen
+734 TI Kungsbacka | LB2L Fossilfritt VT-Blå 2(+3 fst)
+— Vallda —
+Mariedal
+742 I Kungsbacka | LB2L Fossilfritt VT-Blå 3
+— Fjärås
+743 | Fjärås — LB2L Fossilfritt VT-Blå 2
+Oxared —
+Gällinge
+744 I Kungsbacka | LB2L Fossilfritt VT-Blå 2
+— Fjärås
+— Gällinge —
+Horred
+Total Jag
+"I) Dagtrafik. Turer som startar från Kungsbacka station från kl. 04:00 till och med kl. 17:59.
+
+1\) Kvälls- och nattrafik. Turer som startar från Kungsbacka station från och med kl. 18:00.
+
+"2) Linjen kan behöva 3 tursatta under perioden jun 2029 - dec 2030 innan ny expresslinje mot Gbg
+startar.
+
+"3) Linjen kan behöva 2 tursatta under perioden jun 2029 - dec 2030 pga. förändringar i tågtrafiken.
+
+11\. FORDON OCH MILJÖ |
+
+Trafikering med ledbussar
+
+Linje 731 har behöv av en ökad passagerarkapacitet och föreslås
+därför i grunden att trafikeras med ledbuss (CL1L) men inte under
+kvälls- och nattrafik då den föreslås trafikeras med normalbuss
+(CNIL). Samtliga turer som startar efter klockan 18:00 från
+Kungsbacka station ska därför trafikeras med CNIL. Syftet är att
+
+inte köra med onödigt stora bussar under kvälls- och nattrafik när
+resandet är lägre. En normalbuss är också betydligt kortare och
+därför även lättare för föraren att överblicka och skapar en mer trygg
+känsla ombord för såväl föraren som resenärerna på kvälls- och
+nattetid.
+
+Förstärkningsreserver
+
+Förstärkningsreserverna är särskilda fordonsresurser som kan
+sättas in med kort varsel om kapacitetsbrist skulle uppstå. Dom
+fungerar på samma sätt som övriga tursatta fordon med den
+skillnaden att dom inte har något planerat trafikuppdrag.
+
+Hallandstrafiken gör bedömningen att inga förstärkningsreserver
+behövs inom ramen för trafikuppdraget.
+
+Tekniska reserver
+
+Tekniska reserver finns i avtalet för att täcka upp för olika typer av
+stillestånd, så som förebyggande underhåll, service, verkstadsbesök
+och större insatser i fordonsvården. Tekniska reserver uppfyller
+gällande fordonskrav likt övriga fordon och ska uppgå till minst 15,096
+per fordonstyp baserat på tursatta fordon. Förstärkningsreserver
+räknas som tursatta fordon.
+
+<!-- sida 302 -->
+
+11\. FORDON OCH MILJÖ |
+
+I de fall Trafikföretaget väljer att ha flera stationeringsorter för
+fordon inom avtalet ska det på varje enskild stationeringsort finnas
+placerade reservfordon som tillhör Avtalet.
+
+Reservfordonen ska vara av motsvarande fordonskod som de fordon
+som trafiksätts ifrån stationeringsorten. Detta kan således påverka
+antalet tekniska reserver beroende på vilken depålösning som
+Trafikföretaget väljer.
+
+En nyhet är att om antalet tursatta fordon är fler än 5 ska det alltid
+finnas minst två reservbussar. Detta är en anpassning baserat på
+erfarenheter från trafikområden som idag har 6 eller 7 tursatta
+fordon då 1 reservbuss är för lite och först vid 8 tursatta fordon
+
+blir det 2 reservbussar med kravet på minst 1596 reservhållning.
+Är antalet tursatta 5 eller lägre anses fortsatt I reservbuss vara
+tillräcklig även om det blir sårbart vid ett längre stillestånd som tex
+en större krockskada.
+
+Villkorade fordon
+
+Villkorade fordon är fordon som ingår i trafikuppdraget genom ett
+övertagande vid avtalsstart alternativt att Västtrafik upplåter dom
+för trafikering i trafikåtagandet.
+
+Inga villkorade fordon är aktuella inom trafikuppdraget.
+
+Drivmedel
+
+Hallandstrafiken har som grund önskemålet att all trafik ska köras
+med fossilfritt drivmedel och i stadstrafiken föredras eldrift.
+
+Fordonsmarknaden
+
+Västtrafik genomför kontinuerliga dialogmöten med potentiella
+fordonsleverantörer där en del i dialogen syftar till att ge
+Västtrafik en bild av vilka fordonstyper med tillhörande möjliga
+drivmedelsalternativ som finns på marknaden och därmed är
+möjliga/lämpliga att kravställa i trafikupphandlingarna.
+
+För stadstrafiken finns goda möjligheter att kravställa all trafik på
+eldrift. Linjerna är förhållandevis korta och det bedöms finnas goda
+möjligheter till stödladdning i depå under lågtrafiken då det även
+ingår en del högtrafiksomlopp så att bussar kan bytas in för laddning
+under dagen. Laddning längs linjerna bör undvikas och depåladdade
+bussar bör kravställas. För eldrift på stadsbussar finns nedan antal
+potentiella fordonsleverantörer:
+
+Eldrift:
+
+CL1IL 8 leverantörer
+
+I landsbygdstrafiken med krav på fossilfritt blir det valbart mellan
+biodieseldrift och eldrift (även biogasdrift är tillåtet om så skulle vara
+aktuellt). För biodieseldrift respektive eldrift på landsbygdsbussar
+finns nedan antal potentiella fordonsleverantörer:
+
+<!-- sida 303 -->
+
+11\. FORDON OCH MILJÖ | 71
+
+Eldrift: potentiella Trafikföretag när dom räknar på sina anbud så att
+spekulationer om elbusspremie kommer erhållas eller ej risk
+
+elimineras.
+
+LN2L 7 leverantörer
+Beräknad fordonsåtgång för
+
+ALT trafikområdet
+
+Av tabellen nedan framgår en sammanställning av fordonsbehovet
+
+LB2L S leverantörer för trafikområdet. Fordonstyp, aktuellt drivmedel och en beräkning
+över resursåtgången för tursatta fordon, förstärkningsreserver och
+Biodieseldrift: tekniska reserver:
+SSF Fordons- | Drivmedel | Ordinarie | Teknisk | Förstärknings- | Total
+LN2L 5 typ fordon reserv = |reserv
+CN1L El 13 2 0 15
+Sr | CL1IL El 5 2 0 1
+Jae LN2L | Fossilfritt — |13 2 0 15
+LB2L 5 LB2L Fossilfritt 18 3 0 21
+Elbusspremie Total 49 9 0 58
+
+Från I augusti 2023 går det att ansöka om elbusspremie för klass II
+bussar (regionbussar) som har en transportkapacitet på mer än 14
+passagerare.
+
+Om elbusspremie blir aktuellt att ansöka om för aktuell trafik
+föreslås att premien hanteras på samma sätt som tidigare, dvs
+att Hallandstrafiken genom Västtrafik ansöker om och erhåller
+en eventuell premie. Detta för att neutralisera möjligheterna för
+
+<!-- sida 304 -->
+
+1 & SS — i Gottskär
+H ; i
+
+Ytterligare
+medskick till
+
+upphandling HIN i sd OM
+
+Geofencing
+
+Baserat på erfarenheter från genomförda tester av Västtrafik
+gällande geofencing så finns goda förutsättningar för att införa
+tekniken även i Kungsbacka. Geofencing kan bidra till en säkrare
+och tryggare trafikmiljö genom att möjliggöra styrning av fordons
+hastighet inom definierade geografiska områden. Ett införande av
+geofencing skapar därmed förutsättningar för en mer dynamisk och
+situationsanpassad hastighetsreglering, vilket i sin tur kan minska
+behovet av fysiska hastighetsdämpande åtgärder, så som trånga
+
+passager, refuger eller klassiska fartgupp, i kommunens trafiksystem.
+
+Geofencing föreslås i Kungsbackas stadsbusstrafik.
+
+Avtalsstruktur
+
+Trafiken i Kungsbacka bedrivs genom tre separata trafikavtal med
+delvis olika karaktär, där fordonstyperna i stor utsträckning är
+styrande för upplägget.
+
+Utifrån föreslaget framtida trafikeringsupplägg identifieras tydliga
+synergier, särskilt avseende fordon och fordonsutnyttjande. En
+samlad avtalsstruktur med färre avtal och större volymer bedöms
+skapa bättre förutsättningar för effektivitet, flexibilitet och
+kostnadsoptimering.
+
+TT a Nana:
+
+Det kan bli aktuellt att även skoltrafik inkluderas i upphandlingen.
+Hallandstrafiken ansvarar för att ta fram underlag och säkerställa
+överenskommelse för skoltrafiken med Kungsbacka kommun.
+
+Avtalslängd 11 år
+
+Flertalet av Hallandstrafikens trafikavtal löper ut år 2040. Enligt
+nuvarande planeringsprinciper med tioårig avtalsperiod förväntas
+kommande trafikavtal för Kungsbacka, med trafikstart 2029, få ett
+avtalsslut år 2039.
+
+För att uppnå ökad samordning inför kommande upphandlingscykel
+bedömer Hallandstrafiken att det finns fördelar med att harmonisera
+avtalstiderna. En gemensam upphandlingscykel för trafikavtalen
+
+i regionen kan skapa synergier, bland annat i form av effektivare
+upphandling, bättre resursutnyttjande och ökade möjligheter till
+strategisk utveckling av kollektivtrafiken.
+
+Därför är ett medskick till upphandling att utreda möjligheten att ha
+en avtalslängd om elva år.
+
+Koppling till skoltrafik
+
+De tre trafikavtalen påverkas även av den skoltrafik som
+Kungsbacka kommun upphandlat via HLT, med avtalsslut 2028.
+Skoltrafiken fungerar i praktiken som en förstärkning av den
+
+<!-- sida 305 -->
+
+allmänna kollektivtrafiken, dels genom en generös tilldelning av
+skolkort och dels genom att allmänresenärer tillåts resa med den
+
+egenupphandlade skolskjutsen.
+
+Eftersom dagens skolbussar saknar KRS-system eller motsvarande
+teknisk lösning finns dock osäkerhet i resandestatistiken. Det
+innebär att det finns ett mörkertal avseende det faktiska antalet
+resenärer, både skolbarn och övriga resenärer.
+
+Påverkan från X-pressbusstrafiken
+
+Utformningen av kommande upphandling påverkas även av
+X-pressbusstrafiken inom Göteborgsavtalen. Linje XS3 trafikerar
+redan i dag delar av Kungsbacka kommun, Särö och Kullavik.
+
+Inom ramen för förstudien har alternativ analyserats för en ny X-linje,
+med arbetsnamn X7. En möjlig inriktning är att inkludera denna nya
+linje i ett kommande Göteborgsavtal i samband med upphandlingen
+2030, tillsammans med övriga X-linjer.
+
+Denna lösning bedöms ge störst synergjier avseende fordonstyp
+
+och depåsituation. En sådan hantering skulle dock innebära att
+införandet av en ny X-pressbusslinje sker cirka 1,5 år efter trafikstart
+
+i Kungsbackaawvtalet, vilket i sin tur medför att förändringar i
+Kungsbackatrafiken kopplade till den nya linjen kan genomföras först
+därefter, främst kopplat till linje 720.
+
+Under våren i samband med att förstudien för Göteborg/
+Mölndal/Partille startar upp är målet att i ett tidigt skede
+klargöra förutsättningarna för en eventuell linje X7 samt övrig
+
+12\. YTTERLIGARE MEDSKICK TILL UPPHANDLING |
+
+x-pressbusstrafik för att om möjligt kunna ge sena inspel till
+Upphandlingsunderlaget för kommande trafik i Kungsbacka.
+
+Samordning med framtida tågtrafik på
+
+Västkustbanan
+
+Utöver kopplingen mellan Kungsbackatrafiken och
+Göteborgstrafiken finns ytterligare en förändring som kräver
+koordinering och det är den framtida utvecklingen av tågtrafiken på
+Västkustbanan.
+
+I samband med att Västlänken tas i drift planeras tågtrafiken
+mellan Göteborg och Varberg att utökas till 30-minuterstrafik.
+Denna kapacitetsökning på Västkustbanan bedöms dock kunna
+genomföras tidigast i december 2030.
+
+Den tidsmässiga osäkerheten och förskjutningen påverkar
+planeringen av den anslutande busstrafiken, särskilt trafiken till och
+från Åsa station samt linje 732. I ett inledande skede kan linje 732 inte
+reduceras till 60-minuterstrafik utan att det medför en försämrad
+tillgänglighet och minskad kapacitet mellan Kungsbacka och Åsa.
+
+Detta innebär att busstrafiken under en övergångsperiod behöver
+dimensioneras utifrån nuvarande tågutbud snarare än den långsiktigt
+planerade turtätheten. Först i samband med att 30-minuterstrafiken
+på jämvägen är fullt införd skapas förutsättningar att justera
+busstrafiken i riktning mot ett mer renodlat matarupplägg. I
+förlängningen innebär detta att busstrafiken i Kungsbacka kommer
+att ha förhöjda kostnader under de första 1,5 åren, fram till dess
+
+att Västlänken tas i drift och tågtrafiken kan utökas till planerade
+
+<!-- sida 306 -->
+
+volymer. Kostnadsökningen är främst kopplad till investeringar
+i fordon för linjerna 720 och 732, vilka krävs för att upprätthålla
+tillräcklig kapacitet under övergångsperioden.
+
+Flexibel användning av fordonstyper
+
+Resenärens upplevda kvalitet bör vara styrande framför val av
+fordonstyp. Förstudien bedömer därför att det finns behov av ökad
+flexibilitet i fordonsanvändningen, särskilt vid förstärkningstrafik och
+hantering av akuta händelser.
+
+En sådan flexibilitet skapar bättre förutsättningar att upprätthålla
+leveranskvalitet och robusthet i trafiksystemet vid variationer i
+efterfrågan och störningar.
+
+Samtidigt är det strategiskt viktigt att upprätthålla tydliga och
+konsekventa fordonskrav inom stadstrafiken, där resenärsflöden och
+tilgänglighetskrav är som störst. Endast klass I-fordon anpassade för
+stadstrafik bör därför godkännas.
+
+För linje 731, där trafikering med ledbuss är en förutsättning för att
+möta kapacitetsbehoven, ska kraven vara särskilt tydliga.
+
+Införande av ny fordonstyp ledbuss
+
+Region Halland har en pågående dialog med Kungsbacka
+kommun gällande infrastrukturåtgärder. Införandet av ledbuss i
+syfte att minska kapacitetsbrister i stråket Onsala-Kungsbacka
+bör samordnas med åtgärder som gynnar kollektivtrafikens
+framkomlighet i vägnätet samt upprustning av hållplatser för ökad
+
+12\. YTTERLIGARE MEDSKICK TILL UPPHANDLING |
+
+attraktivitet och tillgänglighet. Innan upphandlingen genomförs
+behövs en avstämning mellan Hallandstrafiken och Västtrafik,
+gällande förutsättningarna för ledbuss.
+
+Möjlighet att utföra ersättningstrafik
+
+I upphandlingen bör det säkerställas att det möjliggörs för
+trafikföretaget att utföra ersättningstrafik för såväl Öresundståg som
+för Vasttåg.
+
+74
+
+<!-- sida 307 -->
+
+<!-- sida 308 -->
+
+Hallandstrafiken
+
+TW västtrafik
+
+<!-- sida 309 -->
+
+H TW västtrafik
+
+Hallandstrafiken
+
+BILAGA 2 - KONSEKVENSER SKOLTRAFIK
+
+Dokument = bilaga till Förstudie Trafik 2029 Kungsbacka
+
+Syfte analys av hur skoltrafiken påverkas vid ett förverkligande av trafikeringsförslag för
+Kungsbackas allmänna busstrafik
+
+Datum 2026-03-27
+
+INLEDNING
+
+Föreslagna förändringar i Kungsbackas allmänna busstrafik kommer att påverka behovet av
+skoltrafik. Trafikplanerare för skolskjuts har analyserat konsekvenser som uppstår för
+grundskolelevers resmöjligheter till och från skolan, samt åtgärder som behöver göras för att
+säkerställa skoltrafiken. För att förenkla läsningen används en geografisk indelning enligt figur.
+
+a AR / - -
+4 RÅ wa = N me
+INN = N NN <<
+I ON a fv Ör ved? JÅ
+\+ = NR v
+I Å X
+1
+1
+BR I
+I
+I
+I
+I
+LÅ I
+I hå I
+I I
+I I
+I Ö I
+I I
+1 he
+é I
+I
+4
+
+— Tågtrafik
+-— Expressbuss
+— Regionbuss
+OQO Knutpunkt, tåg
+O Knutpunkt
+
+<!-- sida 310 -->
+
+SIDA | 2
+
+I arbetet särskiljs elever som går i tilldelad skola – skolskjutselever – och elever som i enlighet
+med det fria skolvalet går på en annan skola än den som kommunen har tilldelat dem –
+
+skolvalselever. För den förstnämnda gruppen, elever som går på den skola som kommunen
+anvisat, är kommunen skyldig att ordna transport förutsatt att vissa kriterier är uppfyllda. För
+skolvalselever finns ingen sådan skyldighet, men Kungsbacka kommun har en tradition av att
+underlätta fritt skolval och vill att konsekvenser även för skolvalselever synliggörs.
+
+KONSEKVENSER FÖR SKOLTRAFIK
+A. SÄRÖ, KULLAVIK
+
+Bakgrund
+
+I nuläget nyttjas skolbussar för att förstärka linje 720. Detta gör att skolbussturerna går extra
+tidigt, för att fordonen ska frigöras till den tid som förstärkningen behövs.
+
+Enligt trafikeringsförslagets huvudalternativ införs en ny expressbusslinje i stråket Särö –
+
+Kungsbacka. I det fallet försvinner behovet av förstärkning på linje 720. I de två andra
+alternativen – utan någon ny expressbusslinje respektive med en expressbuss till Onsala –
+kvarstår behovet av förstärkning på linje 720.
+
+Konsekvenser för skoltrafik
+
+Förändringarna i trafikeringsupplägget kring Särö och Kullavik har minimal påverkan på
+skolskjutselever. Det finns omkring 70–80 skolvalselever från Kullavik och Särö som ska in till
+Kungsbacka.
+
+Om en ny expressbusslinje går in till Kungsbacka, medför det positiva effekter för skoltrafiken.
+
+Detta eftersom behovet av förstärkning på linje 720 försvinner, och skolbusstiderna kan
+anpassas bättre till skolstart.
+
+Behov
+
+Inget behov av åtgärder.
+
+<!-- sida 311 -->
+
+SIDA | 3
+
+B. ONSALAHALVÖN
+
+Bakgrund
+
+Enligt trafikeringsförslaget förkortas och förlängs linjer på Onsalahalvön för att undvika
+parallellkörning samt att anpassa utbud efter resbehov. Linje 730 läggs ner.
+
+I nuläget används förstärkning för att omhänderta resbehovet i rusningstid. Förstärkningsfordon
+kommer att behövas även fortsättningsvis på Onsalahalvön, och i förstudien redovisas behov av
+
+förstärkningsfordon för linje 733 och 734. Kapaciteten på linje 731 ökas med hjälp av mer
+kapacitetsstark fordonstyp.
+
+Konsekvenser för skoltrafik
+
+Förändringarna har ingen påverkan på skolskjutselever.
+
+Det är viktigt att säkerställa kapaciteten. Skolbussar stärker inte upp linje 734 längs Valldavägen.
+
+Nedläggningen av linje 730 har ingen påverkan på skolskjutselever, däremot finns skolvalselever
+som påverkas till viss del. Påverkan blir att de kommer få ett något längre gångavstånd, då de
+hänvisas till hållplats Mariedal.
+
+Behov
+
+Medskick till detaljplanering är att vissa turer av linje 733 och 734 fortsatt ska gå via Torsåsskolan.
+
+Medskick till infrastrukturplanering är att det behöver vara trygga och säkra gångkopplingar till
+hållplatsen Mariedal, där en ny vändplats planeras.
+
+<!-- sida 312 -->
+
+SIDA | 4
+
+C. FJÄRÅS, ANNEBERG
+
+Bakgrund
+
+Linjerna 735 och 717 blir det inga nämnvärda förändringar av. För linjerna 740, 741 och 742 blir
+det ett något förändrat upplägg. Byten som idag sker vid Hjälm, mellan linje 740 och 741,
+
+kommer i stället ske vid Fjärås centrum, mellan linje 740/741 och 742.
+Linje 743 får en ny linjedragning Fjärås-Öxared-Gällinge. Det innebär att den ersätter delar av
+
+nuvarande linje 742 men också att delar av det allmänna linjenätet utgår, kring Litserhult,
+Biskopsgärde och Förlanda.
+
+Konsekvenser för skoltrafik
+
+Det förändrade upplägget för linje 740 och 741 har ingen påverkan på skolskjutselever. Däremot
+finns det skolvalselever som påverkas, omkring 30 elever. Hur deras restid påverkas av byte i
+Fjärås behöver tydliggöras och kapaciteten på linje 742 mellan Fjärås och Kungsbacka behöver
+säkerställas. Koncentrationen blir väldigt stark vid vissa tidpunkter.
+
+Den nya dragningen av linje 743 innebär att cirka 20 skolskjutselever påverkas. Dessa behöver
+
+planeras om från allmän linjetrafik till skolskjuts. Det finns redan en skolbuss i området som
+samkör med linjetrafiken, det är en omfördelning av elever som behöver göras. Beroende på om
+skolvalselever tillåts och om de får plats på skolbussen, kan dessa påverkas. Dock är det inte
+heller i nuläget möjligt för elever från detta område att vara inne i Kungsbacka före klockan 8, så
+påverkan bedöms bli liten.
+
+Elever från Axtorp bör vara inne i Gällinge strax innan klockan 8. Samtidigt kan det finnas behov
+
+av att linje 743 är inne i Fjärås vid liknande tid, och det kan finnas behov av att passa mot linje
+744\. Linje 743 kommer inte kunna matcha skoltid i både Fjärås och Gällinge, detta behöver
+studeras närmare.
+
+Behov
+
+Medskick till detaljplanering är att säkerställa kapaciteten Fjärås-Kungsbacka i rusningstid,
+exempelvis genom att låta fordon från linje 740, 741 eller 743 förstärka linje 742 när behovet är
+som störst.
+
+Medskick till detaljplanering är att studera tidtabellen för linje 743 särskilt noga, med hänsyn till
+
+grundskoleelevers resbehov.
+
+Omfördelning av elever från allmän linjetrafik till skolskjuts behöver göras.
+
+<!-- sida 313 -->
+
+SIDA | 5
+
+D. ÅSA, FRILLESÅS
+
+Bakgrund
+
+I området kring Åsa och Frillesås kommer vissa sträckor att utgå från det allmänna linjenätet.
+Linjerna 746 och 748 läggs ner i sin helhet. Delar av linje 747 tas bort. Linje 745 får ändrad
+
+sträckning, och kommer att gå Gällinge-Idala-Frillesås-Åsa station. För vissa av dessa sträckor
+finns i nuläget skolbuss som samkör med linjetrafiken, på andra sträckor finns ingen skolbuss.
+
+Förändringar i upplägget görs, så att Åsa station blir en tydlig knutpunkt i linjenätet. Med
+planerade satsningar på tågtrafiken mellan Åsa och Kungsbacka, görs neddragningar i
+busstrafiken på samma sträcka.
+
+Konsekvenser för skoltrafik
+
+Att linje 747 kortas av kommer innebära att den åldersindelnings om tillämpas idag, där yngre
+elever åker med skolbussen och äldre elever åker med linjebussen, kommer att ersättas med en
+geografisk indelning. De elever som bor i de södra delarna av Ölmanäs kommer att få åka med
+
+allmän linjetrafik, medan elever i de norra delarna får åka skolbuss. I området finns ett antal
+skolvalselever som påverkas. Om de inte kan ta sig till hållplats Stenavägen förlorar de sin
+resmöjlighet, men hållplatsen täcker in en stor del av det bebyggda området så påverkan
+bedöms bli liten.
+
+Nedläggningen av linje 748 kommer att betydande ha påverkan. Alla elever i området åker med
+allmän linjetrafik idag. Det kommer att krävas en ny skolbuss för att täcka upp detta behov. Det
+
+finns även ett tiotal skolvalselever i området som inte kommer att ha någon resmöjlighet om de
+inte får plats på skolbussen.
+
+Nedläggningen av linje 746 påverkar ett fåtal skolskjutselever, inga skolvalselever. Detta behov
+kan tillgodoses med justeringar av skolsbusslinje 6 och med den skolbuss som ersätter linje 748.
+
+Förändringarna av linje 745, där denna inte längre kommer att gå till Fjärås, gör att fler elever får
+behov av skolskjuts till Fjärås. Den skolbuss som trafikerar berörd geografi behöver bytas till ett
+större fordon, som har plats för fler resenärer.
+
+Behov
+
+Omfördelning av elever mellan allmän linjetrafik och skolskjuts behöver göras, för Ölmanäs.
+
+Ytterligare ett fordon behövs för skoltrafik och vissa justeringar behöver göras av en befintlig
+
+skolbusslinje, för att ersätta linje 746 och 748.
+
+<!-- sida 314 -->
+
+SIDA | 6
+
+SAMMANFATTANDE BEDÖMNING
+
+Det föreslagna trafikeringsupplägget för allmän busstrafik inom Kungsbacka kommun medför att
+ytterligare ett fordon behövs för skoltrafiken. Detta med anledning av att linje 746 och 748
+läggs ner, vilket gör att elever kring Landa, Breared och Stättaredsvägen kommer att behöva
+
+skolskjuts i stället för att åka med allmän linjetrafik. Detta behov tillgodoses dels med justeringar
+av skolsbusslinje 6, dels med införskaffande av en till skolbuss.
+
+Det föreslagna trafikeringsupplägget medför också att det krävs en uppgradering av fordonstyp i
+ett fall, där ett fordon behöver ersättas med ett större fordon, med fler sittplatser.
+
+Båda dessa utökningar – med ett ytterligare fordon och ett byte av fordonstyp – kommer att
+generera kostnader för kommunen.
+
+I övriga delar av kommunen är bedömningen att skolskjutsbehovet kan tillgodoses genom
+mindre justeringar av skoltrafikens upplägg, samt genom att säkerställa vissa resmöjligheter i
+
+detaljplaneringen av den allmänna trafiken. Omfördelningar kommer att behöva göras mellan
+allmän linjetrafik och skolskjuts. Detta innebär att vissa elever som idag åker med linjetrafik i
+stället får åka med skolbuss, och vice versa.
+
+Resmöjligheterna kommer att förändras för skolvalselever, om dessa inte tillåts eller inte får plats
+på skolbussar. Information i god tid rekommenderas, så att berörda familjer har möjlighet att se
+över sina resmöjligheter inför läsåret 2029/2030.
+
+Notera att
+
+•  resbehov för skolelever ändras från år till år, och att det inte med säkerhet går att säga
+vilka behov och vilken efterfrågan som finns under åren 2029–2040.
+
+•  detta är en grov bedömning i ett tidigt skede, med tillgängliga resurser och underlag, och
+att det är att betrakta som en preliminär bedömning.
+•  många frågor kommer att behöva hanteras i det fortsatta arbetet, med detaljerad
+planering av passningar till skolor, kapacitet med mera.
+
+<!-- sida 315 -->
+
+TV västtrafik
+Hallandstrafiken
+
+BILAGA 3 - INFRASTRUKTURÅTGÄRDER
+
+Dokument = bilaga till Förstudie Trafik 2029 Kungsbacka
+
+Syfte förtydligande kring behov och effekter av infrastrukturåtgärder, för att förverkliga
+trafikeringsförslag för Kungsbackas allmänna busstrafik
+
+Datum 2026-03-19
+
+ÖVERSIKT
+
+För att implementera det trafikeringsupplägg som finns framtaget för Kungsbackas allmänna
+busstrafik, föreslås följande åtgärder i infrastrukturen, se figur.
+
+RA SÅ 1 Väg 158, anpassningar för
+ST NN FN expressbuss
+=" N
+é s ; N NN 2 Vallda trekant, utveckling
+1 = 5 ” == SSD som knutpunkt
+S eo OM 3 | Lerkil, vändplats
+— få LE Hållplats Västra Hagen, nytt
+2 8 11 Må und 4 läge
+NN 12 5 | Mariedal, vändplats
+2 flärd. sä 6 Ölmanäs, vändplats och
+3 SA 9 13 > hållplatslägen
+\- Lag 4 jer 7 Varlaplatån, möjliggöra
+\- — oda dubbelriktad busstrafik
+4 ' ma 8 Kungsgatan,
+= a S kollektivtrafikkörfält
+10
+NAN - 9 | Inlagsleden, ny hållplats
+5 SÅ Fr -— Onsalavägen, anpassning av
+— — — 10 o
+a hållplatser
+11 | Hedeleden, ny väg
+. Kungsbacka station, hållplats
+6 —2 14 12 för ledbuss
+-— tågtrafik -- NL 13 Fjärås centrum, utveckling
+-—  Expressbuss DN an A- som knutpunkt
+o mös R EA 8 14 Åsa station, utveckling som
+utpu
+O Knutpunkt rensar » ”å knutpunkt |
+
+<!-- sida 316 -->
+
+SIDA | 2
+
+INFRASTRUKTURÅTGÄRDER STATLIGT VÄGNÄT
+
+1\. VÄG 158, ANPASSNINGAR FÖR EXPRESSBUSS
+
+Bakgrund
+
+Tidigare utredningar har visat att satsningar bör göras för att uppnå en effektiv och
+kapacitetsstark kollektivtrafik i stråket längs väg 158. Infrastrukturåtgärder föreslås, som
+förlängning av hållplatser och införande av kollektivtrafikkörfält. Samtidigt är ett
+
+trafikeringsupplägg för sträckan inte beslutat ännu. För att komma vidare i frågan behövs
+samsyn mellan Trafikverket, Västra Götalandsregionen/Västtrafik och Region
+Halland/Hallandstrafiken.
+
+Trafikverket har ett flertal åtgärder på gång längs väg 158. Nedan syns en sammanställning gjord
+av Trafikverket i december 2025.
+
+Pågående
+•  Busskörfält Järnbrottsmotet – Pilegården
+
+•  Busshållplatser
+•  Trafiksäkerhetshöjande åtgärder Askimsbadet och Askims stationsväg
+
+Beställda
+•  Brottkärrsmotet (pausad pga. stadens programarbete)
+•  Lindåsmotet (TKI-säkring/uppstart pågår)
+
+Kommande
+
+•  Särö (lite mer omfattande, kräver breddning bro och troligen vägplan)
+•  Kullavik (mindre åtgärd)
+•  Askims stationsväg, trafikplats
+•  Vallda trekant – ombyggnad cirkulationsplatser
+
+Ej beslutade åtgärder som kan bli aktuella i framtiden
+
+•  Mötesseparering 2+1 Särö – Kungsbacka (Halland) eller busskörfält på sträckan Vallda
+trekant – tpl 60 (E6) Kungsbacka C. Förutsätter att kommunen kommer vidare med
+planerat busskörfält på det kommunala vägnätet i Kungsbacka tätort
+•  Askimsbadet, trafikplats
+•  Vilt-/faunaåtgärder (nationell planering)
+
+•  Åtgärder för kollektivtrafik (metrobuss etc)
+o  Brottkärrsmotet metrobusshållplats
+•  Belysning Vallda trekant – väg 952 (Bröndomevägen)
+
+<!-- sida 317 -->
+
+SIDA | 3
+
+Behov
+
+Åtgärdsvalsstudie väg 158, Göteborg – Kungsbacka (Trafikverket, 2021, ärendenummer
+TRV2018/125647) identifierar förbättringar av hållplatser och införande av kollektivtrafikkörfält
+
+som bra åtgärder för att förbättra kollektivtrafiken i stråket. Två sträckor pekas ut som lämpliga
+för nya kollektivtrafikkörfält: Järnbrottsmotet – Pilegården och Vallda – Kungsbacka C. Det finns
+ett pågående projekt för att införa kollektivtrafikkörfält på sträckan Järnbrottsmotet – Pilegården.
+Den andra sträckan, Vallda – Kungsbacka C, finns det inget pågående projekt för. För denna
+sträcka är Trafikverkets inställning att det krävs motsvarande åtgärd av kommunen inom det
+
+kommunala vägnätet, för att detta ska bli aktuellt.
+
+På längre sikt är det önskvärt med motorvägshållplatser.
+
+Effekter
+Åtgärderna möjliggör en kapacitetsstark och konkurrenskraftig kollektivtrafik, då en expressbuss
+
+som erbjuder låga restidskvoter kan införas. Det finns ett flertal genomförda, pågående och
+planerade åtgärder i stråket som också bidrar till detta, och med fortsatta satsningar som
+möjliggör expressbuss längre söderut längs väg 158 blir det en än större utväxling av de åtgärder
+som gjorts och görs i de norra delarna av stråket.
+
+Konsekvenser om åtgärden inte blir av
+
+Utan några åtgärder på väg 158 kommer det inte att gå att upprätthålla den kvalitet som är
+önskvärd på en expressbusslinje. Bedömningen är att det inte går att få en kollektivtrafik som är
+
+konkurrenskraftig gentemot bilen utan åtgärder, och att det därför skulle bli svårt att motivera en
+ny expressbusslinje längs väg 158. En ny linje kommer att medföra betydande kostnader och om
+satsningen inte bidrar till en ökad marknadsandel kommer den inte kunna motiveras. Det vill
+säga, en busslinje som endast lockar resenärer från andra kollektivtrafiklinjer, och inte lockar nya
+kollektivtrafikresenärer i någon nämnvärd utsträckning, kan inte motiveras.
+
+<!-- sida 318 -->
+
+SIDA | 4
+
+2\. VALLDA TREKANT, UTVECKLING SOM KNUTPUNKT
+
+Bakgrund
+
+Tidigare utredningar har visat att satsningar bör göras för att uppnå en effektiv och
+kapacitetsstark kollektivtrafik i stråket längs väg 158. Infrastrukturåtgärder föreslås, som
+
+förlängning av hållplatser och införande av kollektivtrafikkörfält. Samtidigt är ett
+trafikeringsupplägg för sträckan inte beslutat ännu. För att komma vidare i frågan behövs
+samsyn mellan Trafikverket, Västra Götalandsregionen/Västtrafik och Region
+Halland/Hallandstrafiken.
+
+Samtliga av de sträckningar som har studerats för en eventuell ny expressbusslinje längs väg 158,
+innebär att Vallda trekant får en ökad betydelse som bytespunkt. Här sammanstrålar vägar och
+
+busslinjer från Göteborg, Kungsbacka och de västra delarna av Onsalahalvön. Åtgärder som
+stärker Vallda trekant som knutpunkt är alltså till nytta oavsett vilken sträckning en eventuell ny
+expressbusslinje längs väg 158 får.
+
+Behov
+
+En mer trygg och inbjudande gestaltning av platsen.
+
+Översyn av antalet cykelparkeringsplatser och bilparkeringsplatser.
+
+Effekter
+
+Ökad attraktivitet, ökad kundnöjdhet.
+
+Konsekvenser om åtgärden inte blir av
+
+Hållplatsen går att angöra och använda som den är. Om åtgärden inte blir av är det inget som
+behöver ändras i trafikeringsupplägget. Konsekvensen blir att det inte är en så attraktiv
+bytespunkt för resenärerna, och att byten upplevs som större hinder än det annars skulle göra.
+
+<!-- sida 319 -->
+
+SIDA | 5
+
+Hallandstrafiken
+
+3\. LERKIL, NY VÄNDPLATS
+Bakgrund
+
+I framtaget trafikeringsförslag kortas linje 733 av vid Lerkil, för att undvika parallellkörning av linje
+733 och 734.
+
+Hållplats Ängås
+
+Figur 1. Till vänster: Lerkilsvägen kring hållplats Ängås. Flygfoto med fastighetsgränser, källa: Lantmäteriet. Till
+
+höger: framtida linjenät, där busslinje 733 avslutas efter hållplats Ängås.
+Behov
+
+En vändplats för buss i närheten av hållplats Ängås i Lerkil.
+Effekter
+
+Linje 733 kan kortas av, vilket ger en mer effektiv trafikering.
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte genomförs, behöver linje 733 fortsatt köra till Västra Hagen för att vända. Det
+innebär 3,7 km extra körväg enkel väg. Denna sträcka går parallellt med linje 734, och är alltså
+onödig ur ett resenärsperspektiv.
+
+Med 13 000 turer per år innebär det cirka 48 000 fordonskilometer per år i onödan, om det inte
+tillskapas någon vändmöjlighet i Lerkil.
+
+<!-- sida 320 -->
+
+SIDA | 6
+
+Hallandstrafiken
+
+4\. HÅLLPLATS VÄSTRA HAGEN, NYTT LÄGE
+Bakgrund
+
+I framtaget trafikeringsförslag kortas linje 733 av vid Lerkil, för att undvika parallellkörning av linje
+733 och 734. Som en följd av detta, kan ena hållplatsläget vid hållplats Västra Hagen flyttas ut till
+vägen, i stället för att ligga i den vändslinga där den är placerad idag. Den nuvarande placeringen
+är problematisk på så sätt att förare har svårt att se om det finns väntande resenärer på
+hållplatsen samt att det tar extra tid att angöra hållplatsen, med svängrörelser.
+
+Figur 2. Till vänster: hållplats Västra Hagen. Flygfoto med fastighetsgränser, källa: Lantmäteriet. Till höger:
+framtida linjenät, där busslinje 733 avslutas i Lerkil och Västra Hagen enbart trafikeras av linje 734.
+
+Behov
+
+Västra Hagen, hållplatsläge A flyttas ut till Valldavägen.
+
+Effekter
+
+En mer effektiv trafikering samt minskad risk för att resenärer blir frånåkta.
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte genomförs, kommer nuvarande hållplatsläge A fortsatt trafikeras. Nuvarande
+problematik kommer då kvarstå, med risk för frånåkta resenärer och extra svängrörelser.
+
+<!-- sida 321 -->
+
+SIDA | 7
+
+Hallandstrafiken
+
+5\. MARIEDAL, NY VÄNDPLATS
+Bakgrund
+
+I framtaget trafikeringsförslag trafikeras linje 731 med ledbuss för att bättre möta upp det
+resbehov som finns och minska trängseln. Den höga turtätheten, med kvartstrafik i högtrafik,
+bibehålls. Det största resbehovet finns längs Onsalahalvöns östra sida. Linje 734 har inte samma
+behov av kapacitetsökning och där föreslås fortsatt trafikering med boggibuss. För att inte ha en
+överkapacitet där det inte finns behov, föreslås brytpunkten mellan linje 731 och 734 flyttas cirka
+2 km åt sydöst. De två linjerna möts då vid Mariedal, i stället för vid Älskogsbräcka.
+
+Nuvarande hållplats och
+vändplats Älskogsbräcka
+
+Ny vändplats föreslås i
+närheten av Mariedal
+
+Figur 3. Till vänster: nuvarande hållplats och vändplats Älskogsbräcka och förslag på ny placering av vändplats.
+Flygfoto, källa: Lantmäteriet. Till höger: framtida linjenät, där busslinje 731 och 734 möts vid Mariedal, i stället
+för vid Älskogsbräcka.
+
+Behov
+
+En ny vändplats vid Mariedal, som ersätter Älskogsbräcka. Pausmöjlighet för förare behövs.
+Eftersom två linjer möts, behöver det finnas utrymme för två bussar samtidigt, varav en ledbuss
+18 m och en boggibuss 15 m.
+
+Effekter
+
+Med en ny vändplats vid Mariedal uppnås en mer effektiv trafikering, som är anpassad efter
+resbehov.
+
+<!-- sida 322 -->
+
+SIDA | 8
+
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte blir av, kommer vändning fortsatt att ske vid Älskogsbräcka. Det kommer då att
+vara Älskogsbräcka som fortsatt är den punkt där linje 731 och 734 möts.
+
+Med föreslagen trafikering har linje 731 cirka 36 000 turer per år och trafikeras med ledbuss
+
+medan linje 734 har 19 000 turer per år och trafikeras med boggibuss. Med en ny placering av
+vändplats, vid Mariedal, trafikeras dessa två kilometer vägsträcka av 38 000 fordonskilometer
+med boggibuss per år. Om det inte anläggs någon ny vändplats, och vändning fortsatt sker vid
+Älskogsbräcka, trafikeras samma vägsträcka i stället av 72 000 fordonskilometer med ledbuss per
+år. Det blir alltså en överproduktion, vilket påverkar trafikeringskostnaden.
+
+<!-- sida 323 -->
+
+SIDA | 9
+
+Hallandstrafiken
+
+6\. ÖLMANÄS, VÄNDPLATS OCH HÅLLPLATSLÄGEN
+Bakgrund
+
+Med framtaget trafikeringsförslag tas allmän linjetrafik bort från den enskilda vägen Stenavägen.
+Linje 747 avslutas i närheten av hållplats Stenavägen och får sträckning Ölmanäs - Åsa station.
+
+\- , - | | Ad je NE
+Linjen avslutas bo i/ 744
+id Stenavägen . : Fo | fre
+
+VI g / . 732 MaA
+p - I Vändmöjlighet nd
+
+föreslås
+
+/
+
+så
+
+Figur 4. Till vänster: linje 747 avslutas i närheten av hållplats Stenavägen, på Ölmanäs. Flygfoto, källa:
+Lantmäteriet. Till höger: framtida linjenät, där linje 747 har sträckning Ölmanäs - Åsa station.
+
+Linjen får trafik i båda riktningar, till skillnad från nuvarande upplägg där Ölmanäs trafikeras med
+en enkelriktad slinga. Detta gör att hållplatser behöver kompletteras med nya hållplatslägen.
+
+Vaghållare
+
+Figur 5. Till vänster: nuvarande linjedragning med enkelriktad slinga. Till höger: väghållare, källa: NVDB.
+
+<!-- sida 324 -->
+
+SIDA | 10
+
+Behov
+
+En ny vändplats på Ölmanäs, i närheten av hållplats Stenavägen.
+
+Hållplatser anpassas till busstrafik i båda riktningar. Detta innebär att de kompletteras med nya
+hållplatslägen. Detta gäller elva hållplatser. Hållplatslägena kan vara av enkel standard,
+
+åtminstone inledningsvis.
+Fyra hållplatser tas bort eller görs om till skolbusshållplatser, på den enskilda vägen.
+
+Effekter
+
+Åtgärderna möjliggör en mer effektiv och attraktiv kollektivtrafik, då det blir en kortare
+
+linjesträckning och samtidigt ett tydligare upplägg med dubbelriktad trafik, med större potential
+att locka nya resenärer. En vändmöjlighet i närheten av den planerade ändhållplatsen minskar
+onödig körsträcka.
+
+Konsekvenser om åtgärden inte blir av
+
+Om ingen vändmöjlighet tillskapas, kommer fordon till och från linjens start- och slutpunkt
+genom tomkörning via väg 904, statlig väg.
+
+Om hållplatserna inte kompletteras med hållplatslägen på motsatt sida, är bedömningen att det
+går att starta trafikeringen ändå, med endast stolpe i vägkant. Dessa kan uppgraderas till
+
+hållplatser av önskvärd standard efterhand, utifrån behov och tillgängliga resurser.
+
+<!-- sida 325 -->
+
+SIDA | 11
+
+Hallandstrafiken
+
+INFRASTRUKTURÅTGÄRDER KOMMUNALT/ENSKILT VÄGNÄT
+7\. VARLAPLATÅN, MÖJLIGGÖRA DUBBELRIKTAD BUSSTRAFIK
+
+Bakgrund
+
+I nuläget kör linje 1 i en enkelriktad slinga på Varlaplatån och har olika körväg beroende på
+riktning. Enligt framtaget trafikeringsförslag har linjen samma körväg i båda riktningar vilket
+bidrar till ökad tydlighet samt att boende i Varla får bättre möjligheter att åka till Hede station.
+
+Se över möjligheterna
+
+för dubbelriktad trafik
+
+Figur 6. Till vänster: flygfoto Varlaplatån, källa: Lantmäteriet. Till höger: framtida trafikering där linje 1 har
+samma körväg i båda riktningar i Varlaområdet.
+
+Behov
+
+Säkerställa att det går att köra busstrafik i båda riktningar, mellan Kållagårdsgatan och
+Smeagatan. Geofencing kan användas för att varna för mötande buss. Breddning kan behövas
+för att möjliggöra möte i någon punkt. Lutning behöver beaktas.
+
+Nya hållplatslägen vid sju hållplatser. Översyn av placering och antal kan göras.
+
+Effekter
+
+Det blir möjligt att ha samma körväg för linje 1, i båda riktningar.
+
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte blir av, kommer linje 1 att få behålla nuvarande upplägg med en enkelriktad
+slinga. Detta innebär ett fortsatt otydligt upplägg och sämre tillgänglighet i ena riktningen.
+
+<!-- sida 326 -->
+
+SIDA | 12
+
+8\. KUNGSGATAN, KOLLEKTIVTRAFIKKÖRFÄLT
+
+Bakgrund
+
+Framtaget trafikeringsförslag innebär satsningar på kollektivtrafiken i Kungsbacka, för att uppnå
+ett transportsystem som kan hantera den förväntade utvecklingen i kommunen. Satsningar på
+
+ökad kapacitet i kollektivtrafiken behöver mötas upp med satsningar på ökad framkomlighet i
+vägnätet, för att få ut full utväxling.
+
+Sträckan mellan trafikplats Kungsbacka C och Kungsbacka station är ett viktigt stråk för
+kollektivtrafiken idag och det förväntas öka i betydelse. Tre mycket starka stråk sammanstrålar
+här och sträckan kan bli aktuell för både ledbuss och expressbuss, i syfte att säkerställa
+kapacitetsstark kollektivtrafik som kan transportera stora flöden av människor. Stråket leder till
+
+Kungsbacka station, vilket är den viktigaste noden i Kungsbackas kollektivtrafiksystem.
+Detta är en åtgärd som har stor betydelse för kollektivtrafikens attraktivitet i Kungsbacka.
+
+Samtidigt är det en åtgärd som kräver förhållandevis stora satsningar från kommunen och där
+regionen behöver möta upp med satsningar i trafikering. Mot bakgrund av detta, föreslås den
+fortsatta hanteringen göras enligt Region Hallands samplaneringsmodell. Regionen och
+kommunen bör teckna en avsiktsförklaring.
+
+Behov
+
+Kollektivtrafikkörfält samt framkomlighet i korsningar, i enlighet med den
+framkomlighetsutredning som gjorts 2023.
+
+Effekter
+
+Ökad framkomlighet som i sin tur ger kortare restider och ökad punktlighet. Det ger en mer
+
+effektiv, attraktiv och robust kollektivtrafik. Det möjliggör fortsatta satsningar i mycket starka
+stråk med potential för ökat resande.
+
+Konsekvenser om åtgärden inte blir av
+
+I nuläget passerar drygt 64 000 turer med Onsalalinjerna (731, 733, 734) och drygt 21 000 turer
+med linje 720 per år. Med föreslaget trafikeringsupplägg blir det 30 000 turer med expressbuss
+15 000 turer med linje 720 per år, utöver Onsalalinjerna. Totalt kommer cirka 110 000 turer per
+år att trafikera denna sträcka. Ett kollektivtrafikkörfält bedöms ge en tidsbesparing på i
+
+genomsnitt 1 minut, jämfört med ett scenario där inget kollektivtrafikkörfält anläggs men
+trafikmängderna ökar i enlighet med prognoser. Om åtgärden inte genomförs, innebär det cirka
+900 000 kr per år i ökad trafikeringskostnad, jämfört med ett scenario där åtgärder införs.
+
+<!-- sida 327 -->
+
+SIDA | 13
+
+Hallandstrafiken
+
+9\. INLAGSLEDEN, NY HÅLLPLATS
+
+Bakgrund
+
+Framtaget trafikeringsförslag innebär att linje 3 får en ny sträckning, för att på ett bättre sätt
+täcka in området kring badhuset och planerad arena. Den nya sträckningen går via Inlagsleden.
+
+er
+
+Hållplats någonstans
+på sträckan
+
+Figur 7. Till vänster: Inlagsleden, där ny hållplats önskas. Flygfoto, källa: Lantmäteriet. Till höger: framtida
+trafikering, där linje 3 går via Södra infarten och Inlagsleden, och därmed missar hållplats Hantverksgatan.
+
+Behov
+
+En ny hållplats på Inlagsleden, som ersätter hållplats Hantverksgatan. Det behöver finnas bra
+gångkopplingar till och från hållplatsen.
+
+Effekter
+
+Resenärer som idag använder hållplats Hantverksgatan kan använda den nya hållplatsen, och nå
+målpunkter inom Inlag.
+
+Konsekvenser om åtgärden inte blir av
+
+Det går att trafikera enligt framtaget trafikeringsförslag även utan åtgärd, men det blir sämre
+tillgänglighet till målpunkter inom Inlag. Hållplats Hantverksgatan kommer i så fall stängas utan
+att ersättas med ny hållplats. Det blir ett stort avstånd mellan hållplatserna på linje 3.
+
+<!-- sida 328 -->
+
+SIDA | 14
+
+Hallandstrafiken
+
+10\. ONSALAVÄGEN, ANPASSNING AV HÅLLPLATSER
+Bakgrund
+
+Framtaget trafikeringsförslag innebär att linje 731 Onsala - Kungsbacka trafikeras med ledbuss
+mellan Mariedal och Kungsbacka station, för att minska trängsel och på ett bättre sätt tillgodose
+det resbehov som finns. En provkörning med ledbuss har gjorts år 2023, se tabell.
+
+Hållplats Påst" | Läge A | Läge B | Läge C | Kommentar
+
+Mariedal 20
+
+Strävliden 28 Läge A: inte ok idag, "lastkaj" halva hållplats
+Rydet 52
+
+Vässingsövägen 44
+
+Gottskär 73 borde dock åtgärdas
+
+Rösan 18
+
+Prästgärde 30
+
+Kobbavik 38 Läge A: kort, flytt av vsk?; Läge B: lite kort?
+Gubbekulla 40 Läge A: kort, flytt av vsk?
+
+Leksandsgården 53 Läge A & B: kort?
+
+Karsegården 31
+
+Onsala kyrka 117
+
+Finnagården 13
+
+Ebbagården 17 Läge A: smal även idag, flytt av vsk?
+
+Vickan 68 Läge A: kort
+
+Tallbacken 34
+
+Konvalescentv. 36 Läge A: kort
+
+Presseskolan 65
+
+Bedagårdens äbo | 54
+Beda Hallbergs v. | 11
+
+Björkgläntan 6
+Åsen 13
+Forsbäck övre 32
+
+Forsbäck nedre 17
+Snickerifabriken 28
+
+Oskarsberg 24
+Kolla 66
+Varlaskolan 142
+Tingberget 58 Är läge C tillräckligt långt? På gränsen 15m
+
+genomsnittligt antal påstigande per vardag, oktober 2023
+
+<!-- sida 329 -->
+
+SIDA | 15
+
+Vid provkörningen konstaterades att de flesta hållplatser går att trafikera med ledbuss med
+nuvarande utformning. Vissa av hållplatserna kräver dock åtgärder, alternativt att de plockas
+
+bort. Notera att provkörning inte gjordes i båda riktningar, och att vissa noteringar därmed är
+uppskattningar. Se protokoll från provkörningen för fullständig information.
+
+En stor del av den befintliga Onsalavägen kommer att bli kommunal väg, när Trafikverket har
+anlagt den nya Onsalavägen, mellan Rösan och Forsbäck. Kommunen planerar att göra en
+översyn av vägens utformning i samband med övertagandet, och förutsättningar för
+kollektivtrafiken är en av de saker som kommer att vägas in i det arbetet.
+
+Detta är en åtgärd som har stor betydelse för kollektivtrafikens attraktivitet i Kungsbacka.
+
+Samtidigt är det en åtgärd som kräver förhållandevis stora satsningar från kommunen och där
+regionen behöver möta upp med satsningar i trafikering. Mot bakgrund av detta, föreslås den
+fortsatta hanteringen göras enligt Region Hallands samplaneringsmodell. Regionen och
+kommunen bör teckna en avsiktsförklaring.
+
+Behov
+
+Anpassningar för att möjliggöra trafikering med ledbuss.
+
+En översyn av hela sträckan bör göras i samråd mellan kommunen och Region Halland,
+Hallandstrafiken.
+
+Effekter
+Möjliggör trafikering med ledbuss.
+
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte genomförs, kommer vissa hållplatser att behöva stängas eftersom de inte är
+möjliga att trafikera med ledbuss. Ett annat alternativ är att inte införa ledbuss på linje 731, vilket
+skulle innebära att nuvarande kapacitetsbrister och trängsel kvarstår.
+
+<!-- sida 330 -->
+
+SIDA | 16
+
+Hallandstrafiken
+
+11\. HEDELEDEN, NY VÄG
+
+Bakgrund
+
+Kungsbacka kommun planerar för en ny väg Hedeleden. Framtaget trafikeringsförslag innebär en
+stadsbuss via Hedeleden, för att på ett bättre sätt täcka in de nordöstra delarna av staden.
+
+Hedeleden skulle ge
+nya förutsättningar
+
+Figur 8. Till vänster: stadens nordöstra delar, där Hedeleden skulle ge nya förutsättningar för att trafikera med
+stadsbusstrafik. Till höger: framtida trafikering, med linje 3 via Hedeleden.
+
+Behov
+
+En ny väg Hedeleden, med framkomlighet för buss och med hållplats/hållplatser.
+
+Effekter
+
+Om den nya vägen färdigställs, och tillåter trafik med buss, kan de nordöstra delarna av staden
+täckas in på ett bättre sätt av stadsbusstrafiken. Det möjliggör ett effektivt och attraktivt linjenät i
+Kungsbacka stad.
+
+Konsekvenser om åtgärden inte blir av
+
+Om Hedeleden inte byggs, och det inte blir någon koppling för busstrafik mellan Hedeleden och
+Hede station, kommer linjenätet inte att kunna knytas ihop på det sätt som är planerat. Linje 3
+kommer då att kortas av, och det blir sämre resmöjligheter från Tölö ängar mot Hede station och
+Björkris.
+
+<!-- sida 331 -->
+
+SIDA | 17
+
+12\. KUNGSBACKA STATION, HÅLLPLATS FÖR LEDBUSS
+
+Bakgrund
+
+Framtaget trafikeringsförslag innebär att linje 731 Onsala – Kungsbacka trafikeras med ledbuss
+mellan Mariedal och Kungsbacka station, för att minska trängsel och på ett bättre sätt tillgodose
+det resbehov som finns.
+
+Vid den provkörning med ledbuss som gjorde 2023 diskuterades möjligheterna att angöra
+Kungsbacka station. Det går inte att angöra sågtandslägena som ligger närmast tågperrongen,
+
+men det bedöms vara möjligt att med begränsad insats anpassa något läge vid ön för ledbuss
+alternativt att hitta en annan placering. Frågan behöver dock studeras närmare av Kungsbacka
+kommun, då stationsområdet som helhet har varit föremål för diskussion under en tid och det
+finns behov av att tillgänglighetsanpassa hållplatslägena vid stationen och att se över
+trafiksäkerheten.
+
+Kungsbacka station är den viktigaste noden i Kungsbackas kollektivtrafiksystem.
+
+Detta är en åtgärd som har stor betydelse för kollektivtrafikens attraktivitet i Kungsbacka.
+Samtidigt är det en åtgärd som är kopplad till förhållandevis stora satsningar från regionen. Mot
+
+bakgrund av detta, föreslås den fortsatta hanteringen göras enligt Region Hallands
+samplaneringsmodell. Regionen och kommunen bör teckna en avsiktsförklaring.
+
+Behov
+Säkerställa möjlighet att angöra med ledbuss vid Kungsbacka station.
+
+Effekter
+
+Möjliggör trafikering med ledbuss.
+
+Konsekvenser om åtgärden inte blir av
+
+Om åtgärden inte genomförs, kommer det inte gå att erbjuda en lika säker och tillgänglig på- och
+avstigning vid Kungsbacka station, för resenärer på linje 731. Ett annat alternativ är att inte införa
+ledbuss på linje 731, vilket skulle innebära att nuvarande kapacitetsbrister och trängsel kvarstår.
+
+<!-- sida 332 -->
+
+SIDA | 18
+
+Hallandstrafiken
+
+13\. FJÄRÅS CENTRUM, UTVECKLING SOM KNUTPUNKT
+
+Bakgrund
+
+Fjärås centrum föreslås utvecklas som knutpunkt, där flera busslinjer sammanstrålar. För att det
+ska bli en bra lösning, behöver det vara enkelt och tryggt att byta buss vid Fjärås centrum. Det
+behöver också finnas tillräckligt med utrymme för de fordon som kommer att vara vid hållplatsen
+samtidigt under högtrafik. En fungerande lösning behöver vara på plats till trafikstart juni 2029.
+
+Vr
+
+Figur 9. Till vänster: Befintlig hållplats Fjärås centrum. Flygfoto med fastighetsgränser, källa: Lantmäteriet. Till
+höger: framtida linjenät, där busslinjerna 740, 741, 742 och 743 sammanstrålar vid Fjärås centrum.
+
+Behov
+
+Det behöver finnas plats för 4 bussar att vara inne vid hållplats samtidigt.
+
+Dimensionering ska göras för boggibuss, 15 m. En möjlig lösning är att fördela dessa på två
+flytande hållplatslägen. Tillgänglighetskrav måste vara uppfyllda.
+
+Effekter
+
+Möjliggör för flera busslinjer att vara inne vid Fjärås centrum samtidigt, vilket underlättar byte.
+Möjliggör reglering, vilket krävs för att säkerställa tidhållning och passning mellan linjerna.
+
+<!-- sida 333 -->
+
+SIDA | 19
+
+Konsekvenser om åtgärden inte blir av
+
+Om hållplatsen inte utökas, kommer det innebära att vissa linjer får angöra hållplatsen tidigare
+eller senare än övriga linjer, vilket ger sämre passning och längre bytestider. Det begränsar också
+
+möjligheten att reglera vid hållplatsen, vilket påverkar tidhållning och pålitlighet.
+
+Utöver att ordna tillräckligt med utrymme för bussar, vore det bra om platsen utvecklades till att
+bli en mer attraktiv och trygg plats för att vänta på och byta buss. Fjärås centrum blir en tydlig
+nod i kollektivtrafiksystemet och det är positivt om den bidrar till att ge resenärerna en bra
+upplevelse av sin resa och att stärka kollektivtrafikens attraktivitet.
+
+<!-- sida 334 -->
+
+SIDA | 20
+
+Hallandstrafiken
+
+14\. ÅSA STATION, UTVECKLING SOM KNUTPUNKT
+
+Bakgrund
+
+Åsa station föreslås utvecklas som knutpunkt, där flera busslinjer sammanstrålar och byte till tåg
+underlättas. För att det ska bli en bra lösning, behöver det finnas tillräckligt med utrymme samt
+att hållplatsen behöver vara utformad så att det blir enkelt och tydligt för resenärerna.
+
+Figur 10. Till vänster: Befintlig hållplats Åsa station. Flygfoto med fastighetsgränser, källa: Lantmäteriet. Till
+höger: framtida linjenät, där busslinjerna 732, 745, 747, en ny linje samt linje 615 sammanstrålar vid Åsa station.
+
+Behov
+
+Det behöver finnas plats för 4 bussar, att vara inne vid hållplats samtidigt. Dimensionering ska
+göras för boggibuss 15 m. Det bedöms vara möjligt rent utrymmesmässigt med nuvarande
+hållplats, men det hade underlättat om det blev tydligare vilken linje som avgår från vilken plats.
+
+Linjerna 732, 745 och 747 kommer använda ett hållplatsläge vardera, medan linje 615 och den
+nya linjen Åsa - Frillesås lämpligtvis delar på ett läge. Tillgänglighetskrav måste vara uppfyllda.
+
+Effekter
+
+Underlätta byte, och göra det till en mer attraktiv bytespunkt för resenärer. Underlätta reglering,
+där fordon som väntar i sin avgångstid inte stör andra linjer.
+
+Konsekvenser om åtgärden inte blir av
+
+Det går att trafikera enligt föreslaget upplägg även utan åtgärder, men det blir en sämre kvalitet.
+
+<!-- sida 335 -->
+
+Protokoll
+Sammanträdesdatum
+2026-06-01
+
+Driftnämnden Kollektivtrafik
+
+§34
+
+Beslut om förstudie Trafik 2029 Kungsbacka
+DNKT250060
+
+Beslut
+
+1\. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
+med förstudie Trafik 2029 Kungsbacka.
+
+2\. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
+fastställa tilldelningsbeslut och teckna avtal med trafikföretag, med förbehåll
+att upphandlingsvärdet är inom ram för beslutad budget.
+
+3\. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
+kommun gällande kollektivtrafikens förutsättningar i vägnätet, i enlighet med
+Region Hallands samplaneringsmodell.
+
+Ärendet
+
+Den allmänna busstrafiken i Kungsbacka kommun är upphandlad i tre avtal, som alla
+löper ut under 2029. En ny upphandling behöver därför göras. Inför den nya
+upphandlingen, har Hallandstrafiken och Västtrafik gjort en förstudie. Förstudien
+omfattar en genomlysning av den nuvarande trafiken, förutsättningar för trafikering
+och en analys kring potential för ökat resande. I förstudien formuleras även
+
+trafikeringsprinciper och trafikeringsförslag som föreslås gälla under den kommande
+avtalsperioden.
+
+Syftet med förstudien är att utgöra underlag i det fortsatta arbetet med upphandling.
+Efter att förstudien godkänts, får upphandlingsavdelningen på Västtrafik i uppgift att
+upphandla den allmänna busstrafiken i Kungsbacka i enlighet med förstudien. Enligt
+
+avtal tecknade 1999 och 2012 är Västtrafik ansvariga för utförandet av den allmänna
+kollektivtrafiken i Kungsbacka, medan Region Halland är regional
+kollektivtrafikmyndighet.
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+Sida 1 av 2
+
+<!-- sida 336 -->
+
+Protokoll
+Sammanträdesdatum
+2026-06-01
+
+Driftnämnden Kollektivtrafik
+
+Trafikeringsförslaget i förstudien innehåller förändringar jämfört med nuvarande trafik.
+
+Förändringarna bedöms ge en mer robust, attraktiv och ändamålsenlig allmän
+kollektivtrafik. Negativa konsekvenser förväntas uppstå för vissa resenärer, men
+bedömningen är att de positiva effekterna överväger.
+
+Förslag till beslut
+
+1\. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
+med förstudie Trafik 2029 Kungsbacka.
+
+2\. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
+fastställa tilldelningsbeslut och teckna avtal med trafikföretag, med förbehåll
+att upphandlingsvärdet är inom ram för beslutad budget.
+
+3\. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
+kommun gällande kollektivtrafikens förutsättningar i vägnätet, i enlighet med
+
+Region Hallands samplaneringsmodell.
+
+Beslutsunderlag
+•  Beslutsförslag - Förstudie Trafik 2029 Kungsbacka
+•  Förstudie Trafik 2029 Kungsbacka
+
+Expedieras till
+Västtrafiks styrelse
+
+Paragrafen är justerad
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+Sida 2 av 2
+
+<!-- sida 337 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-03-24
+Diarienummer
+KS-2023-00096
+
+Svar på motion från Maria Losman (MP) m.fl. att införa ett kostnadsneutralt system för
+förmånscyklar
+
+Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige anser motionen besvarad med hänvisning till att frågor som rör ambitionsnivå
+inom personalförmåner hanteras i ordinarie budgetprocess.
+
+Sammanfattning av ärendet
+Maria Losman (MP) och Elisabeth Sahlsten (MP) har i en motion föreslagit att Kungsbacka kommun
+ska införa ett kostnadsneutralt system för förmånscyklar för medarbetare.
+
+Motionärerna lyfter att förmånscyklar kan bidra till förbättrad hälsa, minskad miljöpåverkan genom
+ökad cykelpendling samt stärka kommunen som arbetsgivare.
+Vidare framhålls att förmånscyklar ligger i linje med tidigare beslutade strategier och styrdokument,
+såsom gång- och cykelstrategi, klimatstrategi samt kommunens arbete för ökat hållbart resande.
+
+Förmånscyklar kan erbjudas genom bruttolöneavdrag, där medarbetaren byter en del av sin kontanta
+bruttolön mot en förmån. Förmånen beskattas enligt gällande regelverk och påverkar bland annat
+pensionsgrundande och sjukpenninggrundande inkomst. Upplägget innebär numera även att
+arbetsgivaren ska hantera momsredovisning.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-03-24
+Kommunfullmäktige 2023-02-07, § 12
+Motion från Maria Losman m.fl. om att införa ett kostnadsneutralt system för förmånscyklar,
+2023-01-19
+
+Beskrivning av ärendet
+Kommunstyrelsens förvaltning har tidigare avvaktat i frågan mot bakgrund av oklarheter kring
+momsredovisningen av förmånscyklar. Osäkerheten uppstod efter ett avgörande i Europeiska unionens
+domstol avseende ett ärende i Tyskland, där förmåner mot bruttolöneavdrag bedömdes utgöra en
+
+momspliktig tjänst. Detta avgörande har därefter legat till grund för rättsutvecklingen i Sverige, där
+Högsta förvaltningsdomstolen har fastställt rättsläget. Den ursprungliga oklarheten avsåg om utfallet i
+1 (4)
+Kungsbacka kommun
+434 81 Kungsbacka
+Johan Benjaminsson
+0300-835418                                                   Besöksadress
+Systemförvaltare                                         Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 338 -->
+
+KUNGSBACKA  KOMMUN
+2 (4)
+
+EU-domstolen skulle påverka möjligheten att använda bruttolöneavdrag. Denna oklarhet är nu
+undanröjd och det har visat sig att frågan i stället rör arbetsgivarens skyldighet att redovisa moms, då
+
+det anses vara en momspliktig förmån. Den praktiska tillämpningen och tolkningen, bland annat i
+större kommuner såsom Stockholms stad, har därefter klarnat successivt. Mot denna bakgrund gör
+kommunstyrelsens förvaltning nu en uppdaterad bedömning av möjligheten att införa förmånscyklar.
+Kommunstyrelsens förvaltning bedömer att ett införande kan genomföras på två alternativa sätt.
+Antingen genom upphandling av en särskild tjänst för förmånscyklar (alternativ 1 nedan) eller genom
+upphandling av en förmånsportal där förmånscyklar ingår som en del av ett samlat
+
+förmånsutbud (alternativ 2 nedan).
+Båda alternativen är genomförbara. Kommunstyrelsens förvaltning bedömer dock att en
+förmånsportal är det mest ändamålsenliga alternativet, eftersom den innebär lägre administrativ
+belastning, ger möjlighet att samla flera personalförmåner i ett system och bidrar till att stärka
+kommunen som en attraktiv arbetsgivare.
+
+Administrativa förutsättningar
+Införande av förmånscyklar medför en administrativ hantering kopplad till löneprocessen, bland annat
+
+registrering av förmån i lönesystem, löpande löneavdrag, kontroll av fakturor samt hantering vid
+förändringar i anställning. Ett införande bedöms aldrig bli helt kostnadsneutralt men investeringen i
+arbetstid eller ekonomiska medel kan uppvägas av medarbetarnas upplevelse av en
+attraktiv arbetsgivare.
+Vid manuell hantering uppskattas tidsåtgången till cirka fem minuter per medarbetare för registrering i
+lönesystemet. Alternativt kan hantering ske genom filinläsning från leverantör. Erfarenheter från andra
+
+kommuner visar att administrationen ofta blir större än initialt förväntat. Det är samtidigt viktigt att
+avtalsmodellen utformas så att kommunen inte bär ekonomisk risk kopplad till cykeln, exempelvis vid
+avslutad anställning.
+
+Nyttjandegrad i andra kommuner
+Jämförelser visar att nyttjandegraden varierar mellan kommuner, från cirka 3 procent upp till cirka
+19 procent beroende på upplägg och lokala förutsättningar.
+Nedanstående tabell redovisar genomsnitt på antal beställningar per år, hur många pågående avtal
+
+kommunerna har nu, hur många tillsvidareanställda kommunerna har. Nyttjandegraden är beräknad
+utifrån pågående avtal dividerat med antal tillsvidareanställda. Siffrorna är 1–2 år gamla och kan ha
+förändrats sen undersökningen gjordes.
+
+<!-- sida 339 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
+
+Tabell 1: Nyttjandegrad av förmånscyklar i angränsande kommuner
+
+Kommun    Genomsnitt antal Antal pågående avtal Antal tillsvidareanställda Nyttjandegrad
+beställningar per år
+
+```osaker-tabell
+Mölndals stad 140         140           4 600          3%
+Göteborgs stad 380 – 391  1065          55 000         3%
+
+Varberg   600             985           5048           19%
+Partille  100             300           3000           10%
+```
+
+Möjliga genomförandealternativ
+
+Alternativ 1 – Upphandling av tjänst för förmånscyklar
+
+Kommunen upphandlar en leverantör och tecknar ett ramavtal. Medarbetare ingår individuella avtal
+inom detta via kommunens avtal. Leverantören ansvarar för beställning, leverans och hantering vid
+avslut. Kommunen ansvarar för bruttolöneavdrag, redovisning av förmånsvärde och moms.
+Alternativet innebär att kommunen behöver avsätta arbetstid för administration och bedöms medföra
+en sannolikt större administrativ belastning.
+
+Alternativ 2 – Upphandling av förmånsportal
+Kommunen upphandlar en förmånsportal där förmånscyklar ingår. I portalen kan kommunen samla
+
+personalförmåner, hantera friskvårdsbidrag samt erbjuda rabatter och andra erbjudanden.
+Nuvarande omfattande hantering av friskvårdsbidrag är manuell och resurskrävande
+och upptar arbetstid för chefer och lönecenter. En förmånsportal bedöms kunna minska denna
+hantering avsevärt. Förmånsportalen medför en årlig kostnad om cirka 100-200 kronor per
+medarbetare. Kostnaden bedöms kunna vägas upp av minskad administrativ belastning och effektivare
+hantering.
+
+Alternativet ligger i linje med utvecklingen på arbetsmarknaden och bidrar till att uppnå
+kommunfullmäktiges fokusområde att Kungsbacka kommun ska uppfattas som en attraktiv
+arbetsgivare.
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning bedömer att rättsläget nu är tillräckligt tydligt för att möjliggöra
+införande av förmånscyklar. Det finns flera möjliga sätt att organisera och administrera ett sådant
+införande, vilka medför olika grad av administrativ belastning och ekonomiska konsekvenser. Dessa
+konsekvenser behöver analyseras vidare inför ett eventuellt införande.
+
+Mot denna bakgrund bedömer kommunstyrelsens förvaltning att motionen bör anses besvarad. Frågan
+om införande av förmånscyklar, samt val av genomförandeform hanteras i den ordinarie
+budgetprocessen.
+
+<!-- sida 340 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+Rickard Vidlund               Anders Johansson
+
+Kommundirektör                Biträdande kommundirektör
+
+<!-- sida 341 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunfullmäktige
+Datum
+2023-02-07
+
+§ 12                       Dnr 2023-00096
+Anmälan av motion från Maria Losman (MP) m.fl. om att införa ett
+kostnadsneutralt system för förmånscyklar
+
+Beslut
+Kommunfullmäktige remitterar motionen till kommunstyrelsen för vidare beredning.
+
+Sammanfattning av ärendet
+
+Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
+att införa ett kostnadsneutralt system för förmånscyklar.
+
+Motionärerna menar att det finns många positiva effekter med att införa
+förmånscyklar för medarbetare i Kungsbacka kommun, framför allt skulle det kunna
+möjliggöra en förbättrad hälsa för medarbetarna, minska kommunens totala
+koldioxidutsläpp då det främjar arbetspendlingen med cykel samt att det är en
+möjlighet att vara en attraktiv arbetsgivare.
+
+Beslutsunderlag
+
+Motion från Maria Losman (MP) m.fl. om att införa ett kostnadsneutralt system för
+förmånscyklar, 2023-01-19
+
+Beslutsgång
+
+Ordförande Anders Ekström (M) prövar om kommunfullmäktige kan remittera
+motionen till kommunstyrelsen för vidare beredning, och finner att
+kommunfullmäktige bifaller det.
+
+Beslutet skickas till
+Kommunstyrelsen
+
+Justerare                         Expedierat/bestyrkt
+
+<!-- sida 342 -->
+
+miljöpartiet de gröna (MW)
+
+Motion från Miljöpartiet om
+
+Motion Förmånscyklar Kungsbacka kommun
+
+Förmånscyklar har varit på förslag 2016 från Centerpartiet men kunde då inte genomföras
+eftersom en majoritet bestående av Moderaterna, Sverigedemokraterna och
+Kungsbackaborna I kommunstyrelsen 2018 var emot. Det har sedan dess gått några år.
+Klimatkrisen har förvärrats. Behovet av att Kungsbacka ska vara en attraktivare arbetsgivare
+har ökat. Cykelmarknaden har utvecklats, Det är därför dags att ta upp förslaget igen även
+om den politiska majoriteten ser ungefär likadan ut. Det går nämligen att ändra sig!
+Förmånscyklar ligger väl i linje med beslut som Kungsbackas politiker redan beslutat och
+skulle stärka dessa, Det gäller;
+
+« Gång- och cykelstrategin från 2017
+
+»« Gång- och cykelplanen 2023-2027
+
+« Mobility management I Kungsbacka kommun Plan för ökat hållbart resande 2021
+
+»« Klimatstrategin från 2022
+
+« Kungsbackas medlemskap i Svenska Cykelstäder sedan 2021
+
+Tjänsteskrivelsen från 2018 (KS/2016:662) sammanfattar fördelarna väl.
+Det finns många positiva effekter med att införa förmånscyklar för medarbetare i Kungsbacka
+kommun, främst inom följande områden:
+
+\- Hälsa: Kungsbacka kommun önskar bidra till medarbetares hälsa och ett erbjudande
+om förmånscyklar har setts påverka i vilken utsträckning medarbetare motionerar.
+
+= Miljö: Många av våra medarbetare bor inom cykelavstånd till arbetet och
+förmånscykel har setts öka arbetspendlingen med cykel vilket kan komma att minska
+kommunens totala koldioxidutsläpp.
+
+\- Förmåner/en attraktiv arbetsgivare: Som en del av arbetet med att vara en attraktiv
+arbetsgivare måste Kungsbacka kommun kontinuerligt se över sitt förmånspaket för
+att kunna vara med i konkurrensen om kompetens. Erbjudande om förmånscykel
+kommer att bidra till ett mer attraktivt förmånserbjudande.
+
+| samma tjänsteskrivelse framgår att bruttolöneavdrag är den form som är bäst,
+Tjänsteskrivelsen tar upp att det blir en administrativ kostnad att hantera system med
+förmånscyklar. Den dåvarande arbetsgruppen tittade på några exempel. Sedan dess har fler
+arbetsgivare börjat erbjuda kostnadsneutrala lösningar där administrationskostnaden läggs
+in i systemet och därmed blir kostnadsneutralt för arbetsgivaren.
+
+Nilljöpartiet föreslår;
+Att Kungsbacka kommun inför ett kostnadsneutralt system för förmånscyklar.
+
+2023-01-19
+
+Maria Losman, Elisabeth Sahlsten, Clas Rosander, Karin Fämlöf Clarin
+
+<!-- sida 343 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-04-24
+Diarienummer
+KS-2025-00846
+
+Svar på motion från Magdalena Sundqvist (S) om att öka Kungsbacka kommuns
+strategiska markinnehav
+
+Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige avslår motionen besvarad med hänvisning till att kommunen redan arbetar
+strategiskt med markinköp utifrån de Riktlinjer för markägande som kommunstyrelsen antog den 23
+juni 2020.
+
+Sammanfattning av ärendet
+
+Magdalena Sundqvist (S) har i en motion som anmäldes i kommunfullmäktige den 13 november 2025
+föreslagit att kommunen investerar minst dubbla summan mot idag, det vill säga 80 miljoner kronor,
+årligen för att öka det strategiska markinnehavet.
+Motionären framhåller i motionen att ett strategiskt markinnehav är avgörande för att kunna bedriva en
+aktiv bostadspolitik och en aktiv politik för företagsetableringar. Motionären menar att Kungsbacka
+
+kommun behöver öka den del av sitt markinnehav som går att använda till samhällsexpansion, både
+när det gäller bostäder och företag. Motionären menar vidare att investeringshastigheten inom
+kommunalt markinnehav måste öka för att bygga ett starkt samhälle med långsiktighet.
+Kommunstyrelsen antog i juni 2020 Riktlinjer för markägande i syfte att tydliggöra kommunens
+hållning som markägare i markförvärvsfrågor på kort och lång sikt.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-04-24
+Kommunstyrelsens arbetsutskott 2026-01-13, § 18
+Kommunfullmäktige 2025-12-11, § 249
+
+Motion från Magdalena Sundqvist (S) om att öka Kungsbacka kommuns strategiska markinnehav,
+2025-11-13
+Riktlinjer för markägande, kommunstyrelsen 23 juni 2020 § 148
+
+Beslutet skickas till
+
+Samhällsbyggnadskontoret
+1 (3)
+Kungsbacka kommun
+434 81 Kungsbacka
+Johan Gerremo
+0300-834076                                                   Besöksadress
+Verksamhetschef                                          Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 344 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Beskrivning av ärendet
+
+Magdalena Sundqvist (S) har i en motion som anmäldes i kommunfullmäktige den 13 november 2025
+föreslagit att kommunen investerar minst dubbla summan mot idag, det vill säga 80 miljoner kronor,
+årligen för att öka det strategiska markinnehavet.
+
+Motionären framhåller i motionen att ett strategiskt markinnehav är avgörande för att kunna bedriva en
+aktiv bostadspolitik och en aktiv politik för företagsetableringar. Motionären menar att Kungsbacka
+kommun behöver öka den del av sitt markinnehav som går att använda till samhällsexpansion, både
+när det gäller bostäder och företag. Motionären menar vidare att investeringshastigheten inom
+kommunalt markinnehav måste öka för att bygga ett starkt samhälle med långsiktighet.
+
+Motionen har remitterats till kommunstyrelsens förvaltning för besvarande.
+Markinnehav och strategiska markförvärv
+
+Kommunstyrelsen antog i juni 2020 Riktlinjer för markägande i syfte att tydliggöra kommunens
+hållning som markägare i markförvärvsfrågor på kort och lång sikt. I riktlinjerna kan man läsa bland
+annat:
+För Kungsbacka kommun innebär ett strategiskt markinnehav att kommunen ska utveckla en hållbar
+markreserv som innehåller mark som kan användas för nutida och framtida samhällsutveckling och
+
+kommunens markreserv ska behandlas som en resurs ur ett långsiktigt perspektiv. Genom ett
+strategiskt markinnehav ökar kommunens förutsättningar att möta efterfrågan på byggbar mark både
+för kommunala verksamheter och privata intressen, genom markanvisningar.
+För Kungsbacka kommun innebär strategiska markförvärv att kommunen ska genomföra markförvärv
+som underlättar nutida och framtida planprocesser och förbättrar kommunens möjligheter att skapa en
+positiv utveckling för hela kommunen. Kommunen ska bedriva ett arbete med att aktivt och
+kontinuerligt bevaka marknaden. Ur ett långsiktigt perspektiv är förhoppningen att de strategiska
+
+markförvärven ska bli självfinansierande. Översiktsplanen vägleder och visar hur kommunen ser på
+den framtida utvecklingen och därmed vilken mark som kan komma att bli aktuell att förvärva.
+Det innebär att det redan i dag finns ett uppdrag att arbeta med att bevaka möjligheten och genomföra
+strategiska markförvärv för att säkerställa olika behov. Ett flertal förvärv har också genomförts de
+senaste åren i Kungsbacka och Åsa. När det gäller förutsättningarna för markförvärv är det förenat
+med en rad villkor enligt gällande lagstiftning. En kommun måste alltid ansöka om förvärvstillstånd
+vid köp av ett markområde som utgör en lantbruksfastighet, jord- eller skogsbruk. Är inte området
+
+utpekat i översiktsplan eller fördjupad översiktsplan som ett utvecklingsområde är sannolikheten stor
+att länsstyrelsen nekar förvärvstillstånd. Med andra ord kan en kommun inte förvärva vilken mark som
+helst, även om kommunen är överens med en säljare.
+Grunden till ett strategiskt markförvärv är vidare att köpa marken i ett mycket tidigt skede, för att långt
+senare utveckla och förädla den och på så sätt tillgodogöra sig en marknadsvärdeökning. Ju närmre ett
+förvärv sker en sannolik planläggning, desto högre blir förväntningsvärdet och köpeskillingen på
+
+<!-- sida 345 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+marken. Det leder i sin tur till att marginalen att kunna planlägga och utveckla ett område med ett
+
+nettoöverskott minskar ju senare marken köps in.
+Kommunens markinnehav är litet jämfört med många andra kommuner. Kommunen äger omkring
+3000 hektar mark varav en tredjedel är produktiv skogsmark. Merparten av den resterande
+kommunalägda marken används för att tillgodose behov av trafik- och kommunikationslösningar,
+allmänna ändamål och rekreation. Det innebär att enbart en mindre del av den kommunalt ägda marken
+används för samhällsexpansion. Kommunen bör därför fortsätta att göra strategiska markförvärv på
+lång sikt för att över tid väga markinnehavet mot kommunens alla behov och då framför allt för att
+
+tillgodose kommunal service. I det korta perspektivet kan det också vara möjligt att göra markförvärv,
+men det innebär då en utmaning för kommunen att planlägga och få lönsamhet i ett sådant projekt. Det
+kan dock ibland vara motiverat, till exempel om kommunen behöver köpa in mark för en ny skola i
+samband med att ett större utbyggnadsområde detaljplaneläggs.
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning gör bedömningen att Riktlinjer för markägande ger det stöd som
+behövs för att genomföra strategiska markförvärv för kommunens räkning.
+
+Inriktningen i riktlinjerna, att kommunen ska göra strategiska markförvärv när tillfällen ges samt målet
+att kommunen ska ha en markreserv som ger goda möjligheter att styra utvecklingen, ger god
+vägledning när kommunstyrelsens förvaltning arbetar med att identifiera mark som skulle kunna
+utgöra ett strategiskt markförvärv. Att utöka kommunens i dag begränsade markreserv är ett långsiktigt
+arbete. Den markreserv kommunen har behöver även analyseras så att marken används på rätt sätt och
+skapar största möjliga nytta för kommunens utveckling både på kort och lång sikt.
+
+Kommunen har de senaste åren arbetat aktivt med markinköp vid Åsa station för ortsutveckling och
+vid Frillesås och väster om Varlamotet för näringslivsutveckling, ett arbete som fortsätter.
+Kommunstyrelsens förvaltning gör vidare bedömningen att kommunens årliga budgetram på 40
+miljoner kronor är väl avvägd. Den ger ett bra utrymme för väsentliga markförvärv samtidigt som inte
+för mycket pengar blir upplåsta om de inte används. Budgetramen har inte utgjort ett hinder de år
+förvärven överskridit budget.
+
+Rikard Vidlund                     Lovisa Eld
+Kommundirektör                     Samhällsbyggnadschef
+
+<!-- sida 346 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-01-13
+
+§ 18                       Dnr KS-2025-00846
+Remittering av motion från Magdalena Sundqvist (S) om att öka
+Kungsbacka kommuns strategiska markinnehav
+
+Beslut
+Kommunstyrelsens arbetsutskott remitterar motionen till kommunstyrelsens
+förvaltning för besvarande.
+
+Sammanfattning av ärendet
+Magdalena Sundqvist (S) har inkommit med en motion om att öka Kungsbacka
+kommuns strategiska markinnehav.
+
+Motionären framhåller att strategiskt markinnehav är avgörande för att kunna bedriva
+en aktiv bostadspolitik och en aktiv politik för företagsetableringar samt att många
+kommuner gör strategiska markförvärv med god framförhållning för att ha beredskap
+för framtida markanvisningar för bostadsbyggande.
+Vidare framhålls att Kungsbacka kommun äger drygt 3 000 hektar mark, och att
+
+ungefär en tredjedel av dessa är produktiv skogsmark under förvaltning. Merparten
+av den resterande kommunalägda marken används enligt motionären för att
+tillgodose behov av trafik- och kommunikationslösningar, allmänna ändamål och
+rekreation, vilket innebär att enbart en mindre del av den kommunalt ägda marken i
+dag kan användas för samhällsexpansion.
+Motionären menar att kommunen behöver öka det markinnehav som går att använda
+
+till just samhällsexpansion, både när det gäller bostäder och expansion av företag.
+Mot bakgrund av detta vill motionären att kommunen fördubblar den årliga
+investeringsbudgeten för markförvärv från nuvarande 40 miljoner kronor till 80
+miljoner kronor.
+
+Beslutsunderlag
+Motion från Magdalena Sundqvist (S) om att öka Kungsbacka kommuns strategiska
+markinnehav, 2025-11-13
+
+Beslutsgång
+Ordförande Lisa Andersson (M) konstaterar att det finns ett förslag till beslut,
+Kommunstyrelsens förvaltnings. Ordföranden (M) prövar förslaget och finner att
+arbetsutskottet bifaller det.
+
+Beslutet skickas till
+Kommunstyrelsens förvaltning
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 149D56C6B202DFB40986EC206EBD134140077C36DD
+Transaktionsidentitet: 4FA14DB9F840A6E9D2346C7C5A38CBBDA96F585F59
+
+<!-- sida 347 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunfullmäktige
+Datum
+2025-12-11
+
+§ 249                      Dnr KS-2025-00846
+Anmälan av motion från Magdalena Sundqvist (S) om att öka
+Kungsbacka kommuns strategiska markinnehav
+
+Beslut
+Kommunfullmäktige remitterar motionen till kommunstyrelsen för vidare beredning.
+
+Sammanfattning av ärendet
+
+Magdalena Sundqvist (S) har inkommit med en motion om att öka Kungsbacka
+kommuns strategiska markinnehav.
+
+Motionären framhåller att strategiskt markinnehav är avgörande för att kunna bedriva
+en aktiv bostadspolitik och en aktiv politik för företagsetableringar samt att många
+kommuner gör strategiska markförvärv med god framförhållning för att ha beredskap
+för framtida markanvisningar för bostadsbyggande.
+Vidare framhålls att Kungsbacka kommun äger drygt 3 000 hektar mark, och att
+ungefär en tredjedel av dessa är produktiv skogsmark under förvaltning. Merparten
+
+av den resterande kommunalägda marken används enligt motionären för att
+tillgodose behov av trafik- och kommunikationslösningar, allmänna ändamål och
+rekreation, vilket innebär att enbart en mindre del av den kommunalt ägda marken i
+dag kan användas för samhällsexpansion.
+Motionären menar att kommunen behöver öka det markinnehav som går att använda
+till just samhällsexpansion, både när det gäller bostäder och expansion av företag.
+
+Mot bakgrund av detta vill motionären att kommunen fördubblar den årliga
+investeringsbudgeten för markförvärv från nuvarande 40 miljoner kronor till 80
+miljoner kronor.
+
+Beslutsunderlag
+Motion från Magdalena Sundqvist (S) om att öka Kungsbacka kommuns strategiska
+markinnehav, 2025-11-13
+
+Beslutsgång
+Ordförande Thure Sandén (M) prövar om kommunfullmäktige kan remittera
+motionen till kommunstyrelsen för vidare beredning, och finner att
+kommunfullmäktige bifaller det.
+
+Beslutet skickas till
+Kommunstyrelsen
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: 0C4F04CA8BDF0B07D37DB0106D66FB8866A1AAE437
+Transaktionsidentitet: B57845C4A2E538D084E836403407514A7BCC52D6D9
+Transaktionsidentitet: 76C414ED970BBC85ED5312F97B35559A2B698840FD
+
+<!-- sida 348 -->
+
+Kungsbacka                                   2025-11-13
+
+Öka Kungsbacka kommuns strategiska markinnehav
+
+Strategiskt markinnehav är avgörande för att kunna bedriva en aktiv bostadspolitik och
+en aktiv politik för företagsetableringar. Många kommuner gör strategiska markförvärv
+med god framförhållning för att ha beredskap för framtida markanvisningar för
+
+bostadsbyggande.
+Kungsbacka kommun äger drygt 3000 hektar mark. Ungefär en tredjedel av dessa är
+
+produktiv skogsmark under förvaltning. Merparten av den resterande kommunalägda
+marken används för att tillgodose behov av trafik- och kommunikationslösningar,
+allmänna ändamål och rekreation. Det innebär att enbart en mindre del av den
+kommunalt ägda marken idag kan användas för samhällsexpansion.
+
+Vi behöver öka det markinnehav som går att använda till just samhällsexpansion, både
+när det gäller bostäder och expansion av företag.
+
+I Kungsbacka kommuns ”Riktlinjer för markägande” kan man läsa att tanken är att de
+
+strategiska markförvärven ska bli självfinansierande i ett långsiktigt perspektiv.
+Idag läggs 40 miljoner kronor i kommunens investeringsbudget till markförvärv årligen.
+
+Enligt beslutad budget och plan fram till och med 2029 finns inga planer på att den
+summan ska höjas.
+
+Socialdemokraterna anser att prioriteringen, hur man förvaltar kommunens tillgångar,
+är alltför passiv. För att bygga ett starkt samhälle med långsiktighet behöver
+investeringshastigheten inom kommunalt markinnehav öka.
+
+Med detta som bakgrund vill Socialdemokraterna:
+
+•  Att Kungsbacka kommun investerar minst dubbla summan mot idag, det vill säga
+80 miljoner kronor, årligen för att öka det strategiska markinnehavet.
+
+Magdalena Sundqvist (S)
+
+Ledamot kommunfullmäktige
+
+<!-- sida 349 -->
+
+U
+
+Kungsbacka
+
+Riktlinjer för markägande
+
+Kungsbacka kommun » 0300-83 40 00 » infoQkungsbacka.se « kungsbacka.se
+
+<!-- sida 350 -->
+
+Styrdokumentstyper
+
+Våra kommunala styrdokument kan vara av två huvudtyper. Vi har dels dokument som beskriver hur vi ska
+agera för att nå ett visst resultat. Dessa kallar vi för aktiverande styrdokument. Vi har även dokument som
+talar om hur vi ska möta givna situationer. Dessa kallar vi för normerande styrdokument. De aktiverande
+dokumenten är strategier och planer. De normerande dokumenten är policys, regler och riktlinjer.
+
+Nivå Normerande Aktiverande
+Översiktlig Policy Strategi
+Allmän Riktlinjer -
+Detaljerad Regler Plan
+
+Normerande dokument ska så fort de är färdiga genomsyra verksamheten och uppfyllas. Aktiverande
+
+dokument siktar på framtida mål och hur vi tar oss dit.
+
+Kungsbacka kommun
+
+Riktlinjer för markägande Sida 2 av 7
+
+<!-- sida 351 -->
+
+<!-- sida 352 -->
+
+1\. Bakgrund
+
+Sveriges kommuner ansvarar för planläggning av mark och vatten enligt plan-och bygglagen (SFS
+2010:900). Kommunerna har utöver ansvaret för planläggning av mark och vatten ett
+bostadsförsörjningsansvar genom lagen om kommunernas bostadsförsörjningsansvar (SFS 2000:1383). I
+kommunernas ansvar ingår att möjliggöra för bostadsbyggande i kommunen. Det kommunala markinnehavet
+är ett betydelsefullt verktyg i kommunernas arbete med bostadsförsörjning. Genom strategiska markförvärv
+och en långsiktig plan har kommunen större möjlighet att styra utvecklingen.
+
+2\. Syfte
+
+Dessa riktlinjer ska tydliggöra kommunens hållning som markägare i markförvärvsfrågor och omfatta ett
+kortsiktigt och ett långsiktigt perspektiv på kommunens markinnehav.
+
+3\. Kommunens markreserv
+I mars 2020 uppgick kommunens markinnehav till dryga 3150 hektar, se figur 1.
+
+Figur I all kommunal mark
+
+Av de 3150 hektar mark som kommunen äger är cirka en tredjedel produktiv skogsmark under förvaltning.
+
+Merparten av den resterande kommunalägda marken används för att tillgodose behov av trafik- och
+kommunikationslösningar, allmänna ändamål och rekreation. Det innebär att enbart en mindre del av den
+kommunalt ägda marken idag kan användas för samhällsexpansion, se figur 2.
+
+Kungsbacka kommun Riktlinjer för markägande Sida 4 av 7
+
+<!-- sida 353 -->
+
+Figur 2 kommunal mark tillgänglig för byggnation
+
+4\. Strategiskt markinnehav
+
+För Kungsbacka kommun innebär ett strategiskt markinnehav att kommunen ska utveckla en hållbar
+markreserv som innehåller mark som kan användas för nutida och framtida samhällsutveckling. Kommunens
+markreserv ska behandlas som en resurs ur ett långsiktigt perspektiv. Kommunen ska därför undvika att sälja
+fastigheter som senare kan komma att behövas för framtida expansion eller som kan bli ett hinder för framtida
+exploatering och planläggning.
+
+Genom ett strategiskt markinnehav ökar kommunens förutsättningar att möta efterfrågan på byggbar mark
+både för kommunala verksamheter och privata intressen, genom markanvisningar.
+
+5\. Strategiska markförvärv
+
+För Kungsbacka kommun innebär strategiska markförvärv att kommunen ska genomföra markförvärv som
+underlättar nutida och framtida planprocesser och förbättrar kommunens möjligheter att skapa en positiv
+utveckling för hela kommunen. Kommunen ska bedriva ett arbete med att aktivt och kontinuerligt bevaka
+marknaden. På så vis får kommunen en god kunskap om marknaden och kan genomföra markförvärv i
+strategiska lägen med god framförhållning. Ur ett långsiktigt perspektiv är förhoppningen att de strategiska
+markförvärven ska bli självfinansierande.
+
+Kungsbacka kommun Riktlinjer för markägande Sida 5 av 7
+
+<!-- sida 354 -->
+
+Översiktsplanen vägleder och visar hur kommunen ser på den framtida utvecklingen och därmed vilken mark
+som kan komma att bli aktuell att förvärva. För kommunen kan även mark utanför aktuell översiktsplan vara
+intressant ur ett strategiskt perspektiv.
+
+5.1 — Ställningstaganden gällande markförvärv
+
+5.1.1 Frivilliga förvärv
+
+Kungsbacka kommun ska utöka markreserven genom frivilliga förvärv.
+
+Förvärven ska genomföras med god framförhållning i förhållande till exploateringsutvecklingen.
+Kommunens ska ha en god dialog och kontakt med markägare i områden där det är av intresse för
+kommunen att förvärva mark.
+
+5.1.2 Bytesmark
+
+Kungsbacka kommun konstaterar att det finns ett ökat intresse av bytesmark i kontakten med markägare. För
+att kunna möta denna efterfrågan ska kommunen sträva efter att öka innehavet av mark som kan användas
+som bytesmark. Genom att investera i bytesmark kan kommunen underlätta framtida markförvärvsprocesser.
+
+5.1.3 Expropriation
+I yttersta nödfall kan kommunen expropriera mark.
+
+5.2  Bytesbalans
+
+Vid förvärv av jordbruks- eller skogsbruksmark av privatperson krävs förvärvstillstånd. För att kunna förvärva
+sådan mark kan det krävas att kommunen avyttrar annan mark, med motsvarande produktionskapacitet.
+Kommunen ska vid sådant behov identifiera och avyttra motsvarande produktionskapacitet.
+
+6\. Utveckling av kommunens markreserv
+
+Markreserven utvecklas för att kunna styra kommande kommunala behov.
+
+6.1 Kortsiktigt perspektivKommunen ska göra strategiska markförvärv när tillfällen ges.
+
+6.2 Långsiktigt perspektiv
+
+Kommunen ska ha en markreserv som ger goda möjligheter att styra utvecklingen i kommunen.
+
+7\. Referenser
+Aktiv markpolitik, Sveriges Kommuner och Landsting, 2016
+
+Kungsbacka kommun Riktlinjer för markägande Sida 6 av 7
+
+<!-- sida 355 -->
+
+Beslutad av: Kommunstyrelsen, 23 juni 2020 & 148, Dnr KS 2014-00252
+
+Ansvarig förvaltning: Kommunstyrelsens förvaltning, samhällsbyggnadskontoret
+
+Kontakt: Kungsbacka direkt 0300-83 40 00, infoQkungsbacka.se
+
+Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
+
+Kungsbacka kommun Riktlinjer för markägande Sida 7 av 7
+
+<!-- sida 356 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-22
+Diarienummer
+KS-2025-00881
+
+Införande av premie till jägare för fällda vildsvin
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen ger i uppdrag till kommundirektören att införa pilotprojekt rörande viltpremie om
+
+1 000 kronor för fällda vildsvin i enlighet med förslaget i utredningen Kommunal viltpremie i
+Kungsbacka kommun – Förslag till modell med inriktning på minskad vildsvinspopulation och
+resurseffektivt omhändertagande, daterad 2026-05-29.
+
+Sammanfattning av ärendet
+
+Vid kommunstyrelsens sammanträde den 25 november 2025 väckte Fredrik Kollberg (KD), Lisa
+Andersson (M) och Monica Neptun (L) ett initiativ om att utreda införandet av premie till jägare för
+fällda vildsvin.
+Förslagsställarna framhöll att vildsvinspopulationen i Kungsbacka ökat kraftigt, och att detta orsakar
+stora skador på jordbruksmark, trädgårdar och kommunal mark samt en ökad risk för trafikolyckor.
+
+Vidare framhölls att kommunen har ett ansvar att värna tryggheten, stödja landsbygden och bidra till
+en hållbar viltförvaltning. Ett sätt att uppnå detta menar förslagsställarna är att uppmuntra jaktinsatser
+genom en ekonomisk premie till jägare.
+Mot bakgrund av detta lämnade kommunstyrelsen ett uppdrag till kommunstyrelsens förvaltning att
+utreda och föreslå en modell för premie till jägare om 1 000 kronor per fällt vildsvin, dock max 50 000
+kronor per person och år. Enligt uppdraget ska utredningen också redovisa förslag till finansiering och
+genomförande för en tvåårig testperiod med start under 2026. Utbetalningarna får inte överstiga 1 000
+
+000 kronor per år.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-05-22
+Utredning: Kommunal viltpremie i Kungsbacka kommun – Förslag till modell med inriktning på
+minskad vildsvinspopulation och resurseffektivt omhändertagande, 2026-05-29
+Utredning: Möjlighet för en kommun att införa premie till jägare för fällda vildsvin – En översikt av
+den kommunala kompetensen inom naturvård och viltförvaltning, april 2026
+Kommunstyrelsen 2025-11-25, § 229
+
+1 (3)
+Kommunstyrelsens förvaltning                              Kungsbacka kommun
+434 81 Kungsbacka
+Mårten Västerdal       Patrik Johansson
+Samhällsplanerare      Kommunsekreterare                      Besöksadress
+Stadshuset, Storgatan 37
+marten.vasterdal@kungsbacka.se patrik.johansson2@kungsbacka.se
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 357 -->
+
+KUNGSBACKA  KOMMUN
+2 (3)
+
+Initiativ från Fredrik Kollberg (KD) m.fl. om att utreda införandet av premie till jägare för fällda
+vildsvin, 2025-11-25
+
+Beslutet skickas till
+Nämnden för Teknik, nämnden för Miljö & Hälsoskydd, Länsstyrelsen i Hallands län,
+
+Kungsbacka jaktvårdskrets
+
+Beskrivning av ärendet
+
+Vid kommunstyrelsens sammanträde den 25 november 2025 väckte Fredrik Kollberg (KD),
+Lisa Andersson (M) och Monica Neptun (L) ett initiativ om att utreda införandet av premie till jägare
+för fällda vildsvin.
+I initiativet framhölls att vildsvinspopulationen i Kungsbacka ökat kraftigt, och att detta orsakar stora
+skador på jordbruksmark, trädgårdar och kommunal mark samt en ökad risk för trafikolyckor. Vidare
+framhölls att kommunen har ett ansvar att värna tryggheten, stödja landsbygden och bidra till en
+hållbar viltförvaltning.
+
+Ett sätt att uppnå detta menar förslagsställarna är att uppmuntra jaktinsatser genom en ekonomisk
+premie till jägare. Utgångspunkterna för utredningen skulle vara en premie på 1 000 kronor per
+godkänt fällt vildsvin inom kommunens gränser med ett tak på 50 000 kronor per person och år. Det
+totala utbetalda beloppet fick uppgå till maximalt 1 000 000 kronor per år.
+
+Initiativet bifölls av kommunstyrelsen vid sammanträde 25 november 2025 och ett uppdrag lämnades
+till kommunstyrelsens förvaltning att utreda och föreslå en modell för premie till jägare för fällda
+vildsvin samt förslag till finansiering och genomförande för en testperiod på två år med start under
+2026\.
+
+Kommunstyrelsens förvaltnings bedömning
+Kommunstyrelsens förvaltning har utrett en modell för viltpremie inriktad på vildsvin med fokus på att
+finna en balans mellan att många olika värden: att minimera risken för fusk, att hålla processen enkel
+för alla inblandade, att hålla modellen inom lagens råmärken, att främja jaktetik och god hygien, att
+skapa möjlighet till uppföljning, att hålla kommunens kostnader inom rimliga gränser och samtidigt få
+
+en så hög avskjutning som möjligt.
+Utredningens förlag kan sammanfattas enligt följande: Fällda vildsvin ska lämnas in till en av
+kommunen upphandlad vilthanteringsanläggning för att premie ska kunna betalas ut. Viltpremien
+betalas antingen ut som arvode i samband med ordinarie löneutbetalning eller via kommunens
+ekonomisystem.
+
+Det fällda djuret överlåts till kommunen i samband med att det lämnas in till
+vilthanteringsanläggningen. Kommunen står för vilthanteringsanläggningens kostnader för
+omhändertagande. Kött från inlämnade vildsvin levereras till kommunens måltidsverksamhet.
+
+<!-- sida 358 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Rickard Vidlund                    Lovisa Eld
+
+Kommundirektör                     Biträdande kommundirektör
+
+<!-- sida 359 -->
+
+Kommunal                  viltpremie              i
+
+Kungsbacka                    kommun
+
+Förslag    till modell  med    inriktning  på   minskad
+
+vildsvinspopulation       och  resurseffektivt
+
+omhändertagande
+
+2026-05-29
+
+Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+
+<!-- sida 360 -->
+
+Innehåll
+1  Bakgrund .......................................................................................................... 3
+
+2  Jordbrukets kostnader för vildsvinsskador ........................................................ 3
+3  Viltpremie som verktyg för minskad vildsvinspopulation .................................... 4
+
+3.1  Viltpremie och incitamentsjakt i forskningen ............................................. 4
+3.2  Betydelsen av populationsdynamik och jaktens utformning ...................... 4
+3.3  Erfarenheter från andra styrmedel och förvaltningsmodeller ..................... 5
+
+3.4  Samlad forskningsbedömning................................................................... 5
+4  Juridiska förutsättningar för utbetalning av viltpremie ........................................ 5
+
+5  Kvittblivningsproblematiken ............................................................................... 6
+6  Exempel på viltpremiemodeller från andra kommuner ...................................... 7
+6.1  Motala kommun ........................................................................................ 7
+
+6.2  Härryda kommun ...................................................................................... 7
+7  Förslag på modell för utbetalning av viltpremie för vildsvin i Kungsbacka kommun 7
+7.1  Grundvillkor .............................................................................................. 7
+
+7.2  Skjutning .................................................................................................. 8
+7.3  Inlämning .................................................................................................. 8
+7.4  Omhändertagande .................................................................................... 8
+
+7.5  Utbetalning ............................................................................................... 8
+7.6  Avvägningar ............................................................................................. 9
+7.7  Tidsperiod för test av viltpremie ................................................................ 9
+7.8  Finansiering .............................................................................................. 9
+
+8  Förslag på kompletterande åtgärder ................................................................. 9
+
+9  Källförteckning ................................................................................................ 10
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     2
+
+<!-- sida 361 -->
+
+1  Bakgrund
+
+Vildsvinsstammen i Sverige har förändrats kraftigt under de senaste decennierna. Från att ha varit
+relativt begränsad under större delen av 1900-talet ökade populationen snabbt från 1980-talet och
+framåt. Enligt Sveriges lantbruksuniversitet uppskattades den svenska stammen omkring år 2021
+till minst 300 000 djur, med en utbredning från södra Sverige upp till ungefär Gävleborgs och
+Dalarnas län (SLU, 2021). Expansionen har framför allt kopplats till artens höga
+reproduktionsförmåga, mildare vintrar och god tillgång på föda i jordbrukslandskapet. Samtidigt har
+ökningen lett till fler trafikolyckor, ökade jordbruksskador och större risk för sjukdomsspridning,
+exempelvis afrikansk svinpest (SLU, 2021).
+
+Utvecklingen av vildsvinsstammen varierar mellan olika delar av landet. En sammanställning från
+Viltdata visar att vildsvinspopulationerna i flera västra och norra län ökar medan utvecklingen i
+
+delar av östra och södra Sverige snarare är stabil eller minskande (Viltdata, 2025). Svenska
+Jägareförbundets aktuella “Vildsvinsbarometer” visar också att flera län rapporterar ökande
+stammar vilket bland annat kopplas till god tillgång på bok- och ekollon samt gynnsamma
+väderförhållanden för kultingarnas överlevnad (Svenska Jägareförbundet, 2025).
+
+I Halland har vildsvinen länge varit ett förvaltningsproblem. Länsstyrelsen Halland beskriver att
+målet är att upprätthålla en “frisk och kontrollerad population” anpassad till lokala förutsättningar.
+Förvaltningen syftar bland annat till att begränsa skador på jordbruk, minska trafikolyckor och
+minska risken för spridning av afrikansk svinpest. Myndigheten framhåller också att lokala
+populationers tillväxt behöver begränsas och att stödutfodring bör undvikas eftersom det kan bidra
+till högre tätheter av vildsvin (Länsstyrelsen Halland, 2025).
+
+2  Jordbrukets  kostnader  för vildsvinsskador
+
+Vildsvin orsakar betydande ekonomiska skador för jordbruket i Sverige, främst genom uppbökning
+av åkermark, skador på växande grödor samt försämrad skördekvalitet. Skadorna uppstår både
+direkt, i form av förlorad avkastning, och indirekt genom ökade kostnader för återställning av mark,
+omplantering och extra arbetsinsatser (Gren m.fl., 2020).
+
+På nationell nivå uppskattas kostnaderna för vildsvinsskador i jordbruket till omkring 1 miljard
+kronor per år enligt beräkningar från SLU och LRF. Dessa uppskattningar inkluderar både direkta
+skördeförluster och indirekta kostnader såsom maskinskador, omsådd och anpassningar i
+odlingssystem.
+
+På gårdsnivå varierar kostnaderna kraftigt mellan olika lantbrukare. En enkätstudie visar att den
+genomsnittliga kostnaden uppgår till cirka 28 000–45 000 kronor per jordbruk och år, men att
+variationen är stor. För större gårdar eller gårdar i områden med hög vildsvinstäthet kan
+kostnaderna vara betydligt högre, i genomsnitt omkring 80 000 kronor per år, och i enskilda fall upp
+till 200 000–1 000 000 kronor per år.
+Skadorna är också tydligt kopplade till grödval och region. Vildsvin orsakar särskilt stora skador i
+
+spannmål, vall och majs. I vissa fall rapporterar lantbrukare att upp till 10 procent av skörden kan
+gå förlorad, och på enskilda fält kan skadorna vara så omfattande att hela skörden uteblir. På
+nationell nivå har viltskadeundersökningar visat att vildsvin kan stå för en betydande andel av det
+totala skördebortfallet, exempelvis en stor del av spannmålsskadorna vissa år.
+Utöver direkta skördeförluster uppstår betydande indirekta kostnader. Vildsvinens bökande leder
+till ökade kostnader för reparation av mark och vall, maskinskador till följd av uppbökade stenar,
+ökade arbetsinsatser för återställning och behov av omsådd eller omläggning av grödor.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     3
+
+<!-- sida 362 -->
+
+Dessa indirekta kostnader utgör en väsentlig del av den totala ekonomiska påverkan och kan i
+vissa fall överstiga värdet av den direkta skördeförlusten (Gren m.fl., 2020).
+Ur ett samhällsekonomiskt perspektiv innebär detta ett tydligt incitamentsproblem: kostnaderna för
+vildsvinsskador bärs till stor del av enskilda lantbrukare medan nyttan av vildsvin som jaktbar
+resurs tillfaller andra aktörer. Detta lyfts i forskningen som ett argument för att överväga styrmedel
+som kan öka jaktinsatsen, samtidigt som det understryks att sådana styrmedel behöver utformas
+så att de bidrar till en effektiv och långsiktig populationsförvaltning (Gren m.fl., 2020;
+
+Naturvårdsverket, 2020).
+
+3  Viltpremie som  verktyg  för minskad  vildsvinspopulation
+
+3.1 Viltpremie och incitamentsjakt i forskningen
+Ekonomiska incitament i form av skottpengar eller viltpremier har använts i många länder för att
+hantera populationer av skadedjur och invasiva arter. Den samlade forskningen visar dock att
+effekterna av sådana system är varierande och ofta begränsade, särskilt när målet är långsiktig
+populationskontroll snarare än kortsiktig ökning av avskjutningen.
+
+En central forskningsöversikt (Pasko & Goldberg, 2014) visar att incitamentsbaserade system i
+vissa fall kan leda till ökat uttag men att utfallet är starkt beroende av artens biologi,
+marknadsförutsättningar och förvaltningens utformning. För arter med hög reproduktionsförmåga,
+såsom vildsvin, är det särskilt svårt att uppnå varaktiga effekter genom enbart ekonomiska
+incitament kopplade till antal fällda individer. Översikten lyfter även strukturella problem, såsom att
+incitamenten kan bli felriktade, att kontroll och administration är kostsam samt att det finns risk för
+strategiska beteenden hos jägare.
+
+Flera studier pekar på att premiesystem historiskt ofta haft begränsad effekt. I en studie av vildsvin
+(feral pigs) i USA konstateras att sådana program ofta återkommer i policydebatten trots att de
+generellt betraktas som ineffektiva som ensam åtgärd (Ditchkoff m.fl.). En viktig förklaring är att ett
+ökat antal rapporterade fällda djur inte nödvändigtvis innebär att populationen minskar, särskilt inte
+om jakten är osamordnad eller riktad mot fel delar av populationen.
+
+Även nationalekonomisk forskning lyfter fram problem med så premiesystem. När en art samtidigt
+har ett ekonomiskt värde – exempelvis som jaktbar resurs – kan incitamenten bli motstridiga. I
+sådana fall finns en risk att ersättningssystem bidrar till att upprätthålla populationen snarare än att
+minska den eftersom aktörer får ett ekonomiskt intresse i att arten finns kvar (Meadows & Sims,
+2023).
+
+3.2 Betydelsen av populationsdynamik och jaktens utformning
+
+Forskningen om vildsvin visar att populationsdynamiken är avgörande för utfallet av olika
+styrmedel. Vildsvin kännetecknas av hög reproduktionsförmåga, tidig könsmognad och stor
+anpassningsförmåga. Detta innebär att populationen snabbt kan återhämta sig efter jaktinsatser.
+
+Modellstudier visar att en betydande andel av populationen måste avlägsnas årligen för att uppnå
+en minskning. I vissa fall uppskattas detta till 20–60 procent per år och ännu mer i öppna
+populationer där invandring från omkringliggande områden förekommer (Keuling m.fl., 2018). Om
+uttaget understiger denna nivå riskerar populationen att fortsätta växa trots ökad jakt.
+Mot denna bakgrund framstår det som avgörande att jakten är:
+
+•  tillräckligt omfattande,
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     4
+
+<!-- sida 363 -->
+
+•  uthållig över tid,
+•  geografiskt samordnad,
+•  riktad mot reproduktivt viktiga individer.
+
+Forskningen visar att ekonomiska incitament per fällt djur inte nödvändigtvis säkerställer dessa
+förutsättningar. Det finns i stället en risk att incitamenten leder till en mer opportunistisk jakt, där
+fokus ligger på lättillgängliga djur snarare än på strategisk populationsreglering.
+
+3.3 Erfarenheter från andra styrmedel och förvaltningsmodeller
+I kontrast till premiesystem pekar forskningen på att mer samordnade och adaptiva
+förvaltningsmodeller ofta ger bättre resultat. Detta inkluderar samverkan mellan markägare och
+jägare, gemensamma mål för populationsnivåer samt kontinuerlig uppföljning och anpassning av
+åtgärder.
+
+Svenska förvaltningsunderlag ligger i linje med denna forskning. Naturvårdsverket framhåller att en
+effektiv vildsvinsförvaltning bygger på lokal samverkan och anpassning till regionala förhållanden
+(Naturvårdsverket, 2020). Erfarenheter från Sverige visar också att perioder med minskande
+vildsvinsstam har sammanfallit med ökad samordning mellan aktörer.
+
+Internationellt lyfts även kombinationer av åtgärder fram som särskilt effektiva. Dessa kan
+inkludera:
+
+•  riktad jakt mot reproduktiva hondjur,
+•  minskad tillgång till föda (t.ex. reglering av utfodring),
+•  förbättrad övervakning av populationen,
+•  incitament som stärker avsättning av vildsvinskött snarare än enbart ökar avskjutningen.
+
+Sådana kombinationer syftar till att påverka både populationens tillväxt och den faktiska
+jaktinsatsen, vilket enligt forskningen är avgörande för att uppnå långsiktiga effekter.
+
+3.4 Samlad forskningsbedömning
+
+Den samlade forskningen indikerar att skottpengar och viltpremier har begränsad evidens som
+huvudverktyg för att minska vildsvinspopulationer. Effekten av sådana system är osäker och beror i
+hög grad på hur de utformas och i vilket sammanhang de används.
+
+Forskningen pekar i stället på att effektiv populationskontroll kräver:
+
+•  hög och uthållig avskjutning,
+•  samordning över större geografiska områden,
+•  anpassning till artens reproduktion och rörelsemönster.
+
+Mot denna bakgrund framstår viltpremie främst som ett möjligt komplement i specifika situationer,
+exempelvis i områden med särskilt höga skador eller där jaktinsatsen är otillräcklig. Som fristående
+åtgärd bedöms de däremot ha begränsad potential att uppnå varaktiga effekter på populationens
+storlek.
+
+4  Juridiska förutsättningar för utbetalning av  viltpremie
+
+De juridiska förutsättningarna för utbetalning av viltpremie har utretts separat, se bilagan
+Möjligheten för en kommun att införa premie för fällda vildsvin. Eftersom kommunerna delar
+ansvaret för naturvården med staten och har möjlighet att ägna sig åt viltvård, bör det inte finnas
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     5
+
+<!-- sida 364 -->
+
+något som hindrar att kommunen inför en premie för fällda vildsvin inom kommunens geografiska
+område. Med hänvisning till de skador på jordbruksmark, trädgårdar och kommunal mark, samt
+den ökade risken för trafikolyckor som en stor vildsvinsstam för med sig konstaterar utredningen
+att åtgärden bör ha ett klart allmänt intresse.
+
+5  Kvittblivningsproblematiken
+
+Kvittblivningsproblematiken handlar om svårigheterna att ta hand om skjutna vildsvin på ett
+ekonomiskt, praktiskt och hygieniskt hållbart sätt. Problemet har blivit allt mer uppmärksammat i
+Sverige i takt med att vildsvinsstammen vuxit och avskjutningen ökat. Trots att vildsvinskött är en
+värdefull livsmedelsresurs finns flera hinder som gör att många jägare upplever att det är svårt att
+bli av med fällt vilt på ett effektivt sätt.
+
+En central del av problematiken är att hanteringen av vildsvin ofta innebär betydande kostnader
+och arbetsinsatser för jägarna. För att köttet ska få säljas eller distribueras krävs bland annat
+provtagning för trikiner, korrekt kylning, transport och veterinärbesiktning. Vissa
+
+vilthanteringsanläggningar kan erbjuda ersättning till jägare för de djur som lämnas in men detta
+varierar och beror på anläggningens möjlighet att få avsättning för köttet. I områden där
+avskjutningen är hög kan detta skapa logistiska problem, särskilt när flera djur skjuts under samma
+jaktperiod. Många mindre jaktlag saknar dessutom tillgång till kylrum, släpvagnar eller närliggande
+vilthanteringsanläggningar (Naturvårdsverket, 2020).
+
+Ytterligare ett problem är att marknaden för vildsvinskött länge varit begränsad i Sverige.
+Konsumtionen är relativt låg jämfört med exempelvis älgkött, samtidigt som efterfrågan varierar
+kraftigt regionalt. Detta har inneburit att jägare ibland haft svårt att sälja köttet eller få ekonomisk
+ersättning som motsvarar kostnaderna för hantering och transport. I vissa fall har ersättningen från
+vilthanteringsanläggningar varit så låg att jägaren i praktiken gått med förlust på att lämna in djuret
+(Gren, Andersson & Ericsson, 2020).
+
+Kvittblivningsproblematiken påverkar även viltskadeförvaltningen. Om det blir dyrt eller svårt att ta
+
+hand om fällda vildsvin kan incitamenten att bedriva intensiv jakt minska. Detta har lyfts fram som
+ett hinder för att hålla nere vildsvinsstammen, särskilt i områden med stora jordbruksskador.
+Naturvårdsverket och flera länsstyrelser har därför betonat vikten av fungerande avsättningskedjor
+för vildsvinskött och förbättrade möjligheter för jägare att sälja köttet direkt till konsument eller
+lokala verksamheter (Naturvårdsverket, 2020).
+
+Problematiken aktualiserades också i samband med utbrottet av afrikansk svinpest i Sverige 2023.
+Då blev frågan om säker hantering och destruktion av vildsvinskadaver särskilt viktig för att minska
+risken för smittspridning. Myndigheter betonade behovet av spårbarhet, hygienrutiner och korrekt
+avfallshantering, vilket ytterligare ökade kostnaderna och administrationen kring hanteringen av
+vildsvin (Naturvårdsverket, 2025).
+
+För att minska kvittblivningsproblematiken har olika lösningar diskuterats. Exempel är ökad lokal
+försäljning av vildsvinskött, bättre ersättningssystem till jägare, fler vilthanteringsanläggningar samt
+utveckling av lokala distributionskedjor till restauranger, skolor och offentlig verksamhet. Även
+informationskampanjer för att öka konsumtionen av vildsvinskött har lyfts fram som viktiga
+åtgärder. Målet är att göra vildsvinsjakten mer ekonomiskt hållbar och samtidigt använda köttet
+som en resurs istället för att se det som ett avfallsproblem.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     6
+
+<!-- sida 365 -->
+
+6  Exempel  på  viltpremiemodeller  från andra kommuner
+
+Två kommuner i Sverige har infört premie för skjutna vildsvin. Båda kommunerna har valt ett
+upplägg där kött omhändertas i den kommunala måltidsverksamheten.
+
+6.1 Motala kommun
+Jägaren lämnar det skjutna djuret till ett gårdsslakteri. Slakteriet granskar om djuret uppfyller de
+krav som ställs för att köttet ska kunna användas i kommunens måltidsverksamhet. Godkänd
+leverans styrks med intyg från slakteriet.
+
+När slakteriet har godkänt leveransen sker en ekonomisk transaktion från kommunen till jägaren i
+form av ett arvode på 1 000 kronor per godkänt vildsvin. Denna ersättning är ett arvode och
+betalas ut via kommunens lönesystem som skattepliktig inkomst. Det innebär att relationen mellan
+kommunen och jägaren är en ersättningsrelation, det rör sig inte om något varuinköp.
+
+Separat från arvodet till jägaren sker en affärstransaktion mellan kommunen och slakteriet.
+Kommunen avropar den mängd vildsvinskött som verksamheten behöver, och slakteriet
+tillhandahåller köttet inom ramen för det upphandlade upplägget. Slakteriet är alltså en
+livsmedelsleverantör till kommunen.
+
+6.2 Härryda kommun
+När ett vildsvin fällts sker en kontakt mellan jägaren och jaktvårdskretsen, som gör en första
+kontroll, märker djuret och registrerar uppgifter om jägaren och djuret. Det är alltså
+jaktvårdskretsen som fungerar som första mottagande och samordnande part.
+
+Efter den första kontrollen förs uppgifter om djuret vidare till en vilthanteringsanläggning som
+kommunen slutit avtal med, och djuret lämnas för mottagning där. Slakteriet gör därefter den
+slutliga mottagningskontrollen.
+
+När både jaktvårdskretsen och slakteriet har godkänt leveransen sker en betalning från kommunen
+till jägaren på 1 000 kronor per godkänt vildsvin.
+
+Vilthanteringsanläggningen ansvarar för slakt och övrig hantering och fakturerar kommunen enligt
+kostnadslista baserad på djurets vikt. Kommunen köper alltså inte direkt för köttet utan betalar för
+hanteringen.
+
+7  Förslag på  modell för utbetalning av viltpremie för vildsvin i
+Kungsbacka    kommun
+
+För att både skapa incitament för ökad avskjutning av vildsvin, minska den så kallade
+kvittblivningsproblematiken och tillvarata en lokal livsmedelsresurs föreslås en modell som innebär
+att kommunen både betalar ut viltpremie och står för vilthanteringsanläggningens omkostnader för
+kassering respektive förädling.
+
+7.1 Grundvillkor
+
+Följande villkor ska vara uppfyllda för att premie ska utbetalas:
+\-  Jägaren ska ha rätt att jaga på marken där djuret fällts.
+
+\-  Djuret ska vara fällt inom Kungsbacka kommun.
+\-  Jägaren ska ha jägarexamen och jaktkort.
+\-  Sammanlagd utbetald premie kan maximalt uppgå till 50 000 kronor per person och år.
+\-  Kontot till vilket premien ska utbetalas ska vara registrerat i Sverige.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     7
+
+<!-- sida 366 -->
+
+7.2 Skjutning
+I samband med skjutning av vildsvin gäller följande:
+\-  Skjutning av vildsvin ska ske i enlighet med Jägareförbundets etiska riktlinjer. Kommunen
+förbehåller sig rätten att neka utbetalning till skjutningar som orsakat uppenbart onödigt
+lidande.
+\-  Djuret ska vara sotat och urtaget (mage och tarmar) vid leverans till
+vilthanteringsanläggning.
+
+\-  Röda organ kan tas ut och kasseras av behörig viltundersökare. Om djuret lämnas in av
+någon annan än den som gjort urtagningen behövs ett skriftligt intyg för att styrka att
+urtagningen gjorts av behörig viltundersökare. I annat fall ska röda organ tas ur och lämnas
+till vilthanteringsanläggningen för veterinärbesiktning.
+
+Skjutningen registreras i kommunens e-tjänst där jägaren väljer vid vilken av kommunens
+upphandlade anläggningar djuret ska lämnas in. Om jägaren väljer att själv omhänderta djuret
+utgår ingen viltpremie. Vid registrering i e-tjänsten får jägaren ett ärendenummer som ska uppges
+vid inlämning.
+
+7.3 Inlämning
+Djuret lämnas in på den vilthanteringsanläggning som valts i e-tjänsten under den inlämningstid
+som anläggningen angett och uppger ärendenummer. Vilthanteringsanläggningen kontrollerar att
+villkor som rör djuret är uppfyllda och bekräftar detta i e-tjänsten. Om villkoren inte är uppfyllda
+
+registreras detta också i e-tjänsten. Ingen premie betalas då ut till jägaren men
+vilthanteringsanläggningen får betalt för omkostnader för omhändertagande.
+
+Jägaren anger därefter om den vill ta hem köttet efter styckning (återtagning) eller om djuret
+överlåts till Kungsbacka kommun. Vilthanteringsanläggningen registrerar valet i e-tjänsten och
+bekräftar mottagandet. Oavsett val ska premie utbetalas till jägaren. Vid återtagning tar
+vilthanteringsanläggningen betalt av jägaren för sina omkostnader. Vilthanteringsanläggningen
+registrerar också om man bedömer att djuret skjutits på ett felaktigt sätt. Detta följs sedan upp av
+Kungsbacka kommun. Kommunen förväntar sig att all jakt följer Jägareförbundets etiska riktlinjer.
+
+7.4 Omhändertagande
+Vilthanteringsanläggningen ansvarar för att genomföra nödvändig besiktning och provtagning.
+Vilthanteringsanläggningen gör bedömning av huruvida djuret ska förädlas till livsmedel eller
+kasseras. Valet av hantering registreras i e-tjänsten. Omkostnader för kassering respektive
+förädling (samt packning och leverans) faktureras till kommunen i enlighet med avtal. Leverans till
+kommunens kök sker enligt överenskommelse mellan Måltidsorgansationen och
+vilthanteringsanläggningen.
+
+7.5 Utbetalning och beskattning
+I samband med registrering uppger jägaren sina kontouppgifter och utbetalning av premie sker
+sedan antingen direkt via ekonomisystemet eller via lönesystemet i samband med kommunens
+ordinarie löneutbetalning efter att behörig chef attesterat utbetalningen. Inkomsten är skattepliktig
+men kan eventuellt räknas som inkomst från hobbyverksamhet och då kan inkomsttagaren göra
+avdrag för utgifter i samband med hobbyverksamheten. I så fall beskattas bara överskottet från
+hobbyverksamheten.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     8
+
+<!-- sida 367 -->
+
+7.6 Avvägningar och möjlighet till justering av modellen
+Förslaget är ett försök att i en uppstarts-/pilotfas hitta en bra balans mellan att minimera risken för
+fusk, att hålla processen enkel för alla inblandade, att hålla modellen inom lagens råmärken, att
+främja jaktetik och god hygien, att skapa möjlighet till uppföljning, att hålla kommunens kostnader
+inom rimliga gränser och samtidigt få en så hög avskjutning som möjligt. Detta innebär att olika
+justeringar kan övervägas efter en utvärderingsperiod. Som exempel på sådana justeringar kan
+nämnas följande:
+
+•  Premie även för djur som inte lämnas till vilthanteringsanläggning.
+•  Justering av modellen för ökad nettoutbetalning till jägare.
+•  Annan typ av utbetalning av premie (till exempel till juridisk person).
+
+•  Differentiering av premiens storlek (till exempel mer betalt för suggor, mindre betalt för
+”felskjutna” djur).
+•  Extra kontrollfunktion med hjälp av till exempel kommunjägare.
+
+7.7 Tidsperiod för test av viltpremie
+Test av viltpremie ska pågå i två år från det datum som beslutas av kommunstyrelsens förvaltning.
+Efter ett år ska en utvärdering genomföras. Viss utvärderingen sker dock även löpande och
+ändringar i modellen görs vid behov.
+
+7.8 Finansiering
+
+Under utvärderingsperioden föreslås att kostnaderna belastar Kommunstyrelsens budget. En
+justering av kostnader mellan Kommunstyrelsen och Nämnden för Service som avser den råvara
+som tillfaller måltidsverksamheten ska i första hand ske genom interndebitering efter att respektive
+förvaltningar kommit överens om förutsättningarna. I andra hand kan det bli aktuellt att
+kommunfullmäktige gör en ramjustering mellan Kommunstyrelsen och Nämnden för Service. Detta
+hanteras i så fall i ordinarie budgetberedningsprocess. Kostnaden för premieutbetalning får
+maximalt uppgå till 1 000 000 kr per år.
+
+8  Förslag på  kompletterande   åtgärder
+
+För att ytterligare stödja ökad och effektiviserad vildsvinsjakt har några möjliga kompletterande
+åtgärder identifierats i samband med utredningen. Dessa förslag redovisas här för
+Kommunstyrelsen för övervägande.
+
+Det mest återkommande förslaget har varit att kommunen ska hjälpa till med bortforsling av
+vildsvin i samband med de storjakter som anordnas i samarbete mellan olika jaktlag. Detta skulle
+kunna ske till en förhållandevis liten kostnad och underlätta för jägarna att fokusera på att skjuta så
+många vildsvin som möjligt under storjakterna.
+
+Det andra förslaget är att kommunen ska utveckla dialogen med kommunjägare, jägarförbund och
+lantbrukare för att mer löpande kunna följa vildsvinsstammens utveckling och besluta om
+eventuella stödinsatser.
+
+Den tredje förslaget på åtgärd är att kommunen ska stödja utbildningsinsatser till jägare så att fler
+kan och vill jaga vildsvin på ett effektivt sätt.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     9
+
+<!-- sida 368 -->
+
+9  Källförteckning
+
+Croft, S. m.fl. (2020). “Too many wild boar? Modelling fertility control and culling to reduce wild
+boar numbers in isolated populations”. PLoS ONE, 15(9).
+
+Ditchkoff, S.S. m.fl. “Effectiveness of a Bounty Program for Reducing Wild Pig Densities”. Journal
+of Wildlife Management.
+
+Gren, I.-M., Andersson, H. & Ericsson, G. (2020). Kostnader och värden av vildsvin i Sverige.
+Sveriges lantbruksuniversitet (SLU).
+
+Jordbrukaren (2023). “Skador från vildsvin påverkar mest”.
+
+Keuling, O. m.fl. (2018). “Mortality rates of wild boar Sus scrofa L. in central Europe”. European
+Journal of Wildlife Research.
+
+Lantbrukarnas Riksförbund (LRF) (2024). Vildsvin och viltskador i jordbruket.
+
+Länsstyrelsen Halland (2025). Vildsvinsförvaltning i Hallands län. Hämtad från
+https://www.lansstyrelsen.se/halland/djur/jakt-och-vilt/vildsvinsforvaltning.html
+
+Meadows, J. & Sims, K. (2023). “Bounty programs and invasive species management”.
+Environmental and Resource Economics.
+
+Naturvårdsverket (2020). Nationell förvaltningsplan för vildsvin – reviderad version. Rapport 6900.
+Stockholm: Naturvårdsverket.
+
+Naturvårdsverket (2025). Jakt på vildsvin behöver öka. Naturvårdsverket, publicerad
+nyhet/information.
+
+Norra Halland (2024). “Vildsvinstammen minskar – men inte överallt”. Hämtad från
+https://norrahalland.se/nyheter/vildsvinstammen-minskar-men-inte-overallt/42305
+
+Pasko, S. & Goldberg, J. (2014). “Review of harvest incentives to control invasive species”.
+Management of Biological Invasions, 5(3), 263–277.
+
+SLU – Sveriges lantbruksuniversitet (2021a). Vildsvin i de nordiska länderna. Hämtad från
+https://publications.slu.se/?file=publ/show&id=115366
+
+SLU – Sveriges lantbruksuniversitet (2021b). Urban viltförvaltning – kommunala behov och
+åtgärder för att begränsa viltrelaterade problem. Hämtad från
+https://publications.slu.se/?file=publ/show&id=112606
+
+Svenska Jägareförbundet (2025). Vildsvinsbarometern. Hämtad från
+https://jagareforbundet.se/vilt/vildsvinsbarometern/
+
+Svensk Jakt (2022). “Rekordmånga fällda vildsvin 2020/2021”. Hämtad från
+https://svenskjakt.se/start/nyhet/rekordmanga-fallda-vildsvin-2020-2021/
+
+SVT Nyheter (2024). “Vildsvin – ett miljardproblem för svenskt jordbruk”.
+
+Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun    10
+
+<!-- sida 369 -->
+
+Möjlighet             för     en     kommun                att
+
+införa         premie           till   jägare         för
+
+fällda        vildsvin
+
+En  översikt   av  den   kommunala       kompetensen        inom
+
+naturvård    och   viltförvaltning
+
+April 2026
+
+Patrik Johansson
+Kommunsekreterare
+
+Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+
+<!-- sida 370 -->
+
+Innehåll
+1\. Grunderna för den kommunala verksamheten .......................................... 3
+2\. Den allmänna kommunala kompetensen .................................................. 3
+
+2.1.  Förändringar av den allmänna kompetensen ........................................................... 3
+2.2.  Angelägenheter för staten, kommuner och regioner................................................. 3
+2.3.  Möjligheten att bedriva näringslivsverksamhet ......................................................... 4
+
+2.4.  Förbud mot understöd till enskilda ........................................................................... 4
+3\. Ansvaret för naturvård och friluftsliv .......................................................... 4
+
+4\. Ansvaret för viltförvaltningen..................................................................... 5
+1  Viltet och skyddet för dessa arter .............................................................. 5
+4.1.  Jaktlagstiftningen ..................................................................................................... 5
+
+4.2.  Allmän jakt, licensjakt och skyddsjakt....................................................................... 5
+4.3.  Rätten att jaga ......................................................................................................... 6
+5\. Aktörer inom viltförvaltningen.................................................................... 6
+
+5.1.  Naturvårdsverket ..................................................................................................... 6
+5.2.  Länsstyrelserna ....................................................................................................... 6
+
+5.3.  Övriga aktörer .......................................................................................................... 7
+6\. Jakträtt och skottpengar på vilt ................................................................. 7
+6.1.  Jakträtten i Sverige .................................................................................................. 7
+
+6.2.  Premier för fällda vilt ................................................................................................ 7
+7\. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin ...... 8
+
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 2
+vildsvin
+
+<!-- sida 371 -->
+
+1\. Grunderna för den kommunala verksamheten
+Sveriges kommuner har som grundläggande uppdrag att, på demokratins och den kommunala
+självstyrelsens grund, sköta de angelägenheter som anges i kommunallagen eller annan författning.1
+
+De lagstadgade uppgifterna innefattar bland annat social omsorg, plan- och byggfrågor och
+renhållning och avfallshantering. Begreppet kommunal självstyrelse är inte närmare definierat i vare
+sig kommunallag eller regeringsform (där regleringen också återfinns i portalparagrafen 1 kap. 1 §).
+Begreppen brukar dock beskrivas som en princip som anger relationen mellan stat och kommun.
+Avsikten är att kommunerna – vid sidan av sina åligganden enligt speciallagstiftning – ska ha en
+egen, principiellt fri och från statlig inblandning fredad sfär, inom vilken de, som saken uttrycktes i
+1977 års kommunallag:
+själva får vårda sina angelägenheter.
+
+Den kommunala självstyrelsen är dock inte utan begränsningar. För att närmare definiera vad som
+ingår i kommunal självstyrelse har lagstiftaren i 2 kap. 1 § kommunallagen (2017:725) infört en
+reglering som kallas den allmänna kompetensen. Lagrummet klargör att:
+
+Kommuner och regioner får själva ha hand om angelägenheter av allmänt intresse som
+har anknytning till kommunens eller regionens område eller deras medlemmar.
+2\. Den allmänna kommunala kompetensen
+
+Regleringen om den allmänna kompetensen är bred, och kompetensfrågan ska enligt förarbetena
+bedömas utifrån principerna att det ska finnas ett allmänintresse och att åtgärden ska vara lämplig,
+skälig och ändamålsenlig. Vidare ska åtgärden ha anknytning till kommunens geografiska område
+eller deras medlemmar, vilket klargör den så kallade lokaliseringsprincipen.2
+
+För att en beslutad kommunal åtgärd ska anses kompetensenlig är det dock inte tillräckligt att den
+inte strider mot ett allmänt intresse, utan det krävs att åtgärden uppbärs av ett allmänt till
+kommunen knutet intresse.3 Allmänt intresse innebär inte att varje åtagande måste rikta sig till alla
+medlemmar i kommunen. Ett åtagande kan avse en grupp kommunmedlemmar, till exempel:
+skolungdomar, pensionärer eller barnfamiljer.
+
+2.1. Förändringar av den allmänna kompetensen
+Fördelningen av uppgifter och befogenheter mellan stat och kommun är inte statisk, utan ändras i
+takt med utvecklingen av samhället. Vad som faller inom den allmänna kompetensen har sedan
+kommunallagarna tillkomst tydliggjorts genom olika rättsgiltiga avgöranden – och ibland genom
+tillkomst av ny lagstiftning, såsom lagen (2009:47) om vissa kommunala befogenheter.4 Även om
+regleringen av den allmänna kompetensen är bred är den inte utan inskränkningar.
+
+2.2. Angelägenheter för staten, kommuner och regioner
+En av dessa inskränkningar avser förbudet att ha hand om sådana angelägenheter som enbart staten,
+en annan kommun, en annan region eller någon annan ska ha hand om.5 Med begreppet någon
+annan avses inte näringslivet utan en annan del av det offentliga. Några av de mest tydliga
+exemplen på statliga angelägenheter är försvars-, bistånds- eller utrikespolitiken. Ingen regel är
+dock utan undantag, och genom 5 kap. 4 § i tidigare nämnda lag om vissa kommunala befogenheter,
+
+1 1 kap. 2 § kommunallagen (2017:725)
+2 Kommunallagskommitténs betänkande. 1 (SOU 1947:53 s. 68) och Ändring i lagen den 6 juni 1930 (nr 251) om kommunalstyrelse
+på landet, m. m (prop. 1948:140 s. 71-72).
+3 Regeringsrätten fastslog i RÅ 1993 ref. 25 att länsvårdsnämnden i Landstinget i Hallands läns beslut den 20 mars 1991, § 45, som
+bland annat innebar att sjukhusen som service skulle tillhandahålla likkistor till självkostnadspris, inte uppbar ett sådant
+allmänintresse att det kan anses vara en landstingskommunal angelägenhet.
+4 Lagen (2009:47) om vissa kommunala befogenheter innehåller bestämmelser som ger kommuner och regioner ökade befogenheter i
+förhållande till vad som gäller enligt kommunallagen (2017:725).
+5 2 kap. 2 § kommunallagen (2017:725)
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 3
+vildsvin
+
+<!-- sida 372 -->
+
+framgår att kommuner och regioner får lämna bistånd i form av utrustning, rådgivning, utbildning
+eller på annat sätt till ett land som får svenskt statligt bistånd. Även om det militära försvaret i
+princip bedöms vara en exklusiv statlig angelägenhet, och anslag till militära ändamål anses falla
+utanför den kommunala kompetensen, finns det möjlighet för kommuner att tillgodose behov av
+lokaler till Hemvärnet, och även lämna anslag till samlingslokaler för Hemvärnet och andra
+liknande frivilligorganisationer inom försvaret.6
+
+2.3. Möjligheten att bedriva näringslivsverksamhet
+Även om begreppet någon annan inte avser näringslivet finns det en klar begränsning av
+kommuners möjlighet att agera på den privata marknaden. Begränsningen innebär att kommuner får
+driva näringsverksamhet, men endast om den drivs utan vinstsyfte och syftar till att tillhandahålla
+allmännyttiga anläggningar eller tjänster åt kommunmedlemmarna.7 Den typ av näringsverksamhet
+som kommuner får ägna sig åt brukar benämnas ”sedvanlig kommunal affärsverksamhet”, och
+exempel på detta är: el- och gasverk, renhållningsverk, VA-verk och företag för kollektiv
+persontrafik.
+
+Även om kommunernas möjligheter att agera på den öppna och konkurrensutsatta marknaden – på
+”det egentliga näringslivets” område – är ytterst begränsade, finns möjligheter för kommuner att
+genom den så kallade ”anknytningskompetensen” verka på arenor som vanligtvis är förbehållna
+näringslivet. Klassiska exempel på detta är bedrivandet av kommersiell smårörelse i form av kiosk i
+en busstation, på idrottsarenor och i badhus och teatrar, det vill säga en kommersiell rörelse som har
+anknytning till en annan kommunal verksamhet.8
+
+I sammanhanget ska också nämnas att kommuner har möjlighet att genomföra åtgärder för att
+allmänt främja näringslivet i kommunen, även om möjligheten att lämna individuellt inriktat stöd
+till enskilda näringsidkare kräver synnerliga skäl.9
+
+2.4. Förbud mot understöd till enskilda
+Inom den allmänna kompetensen föreligger också ett uttryckligt förbud mot att lämna understöd åt
+enskilda kommunmedlemmar utan stöd i författning. Att understödja enskilda betraktas nämligen
+inte som en ”angelägenhet av allmänt intresse”.10 Ett exempel på ett sådant lagstöd är
+socialtjänstlagens (2025:400) reglering om att ge ekonomiskt bistånd till enskild som inte själv kan
+tillgodose sina ekonomiska behov och inte heller kan få dem tillgodosedda på annat sätt.11
+
+3\. Ansvaret för naturvård och friluftsliv
+I den numera upphävda naturvårdslagen (1964:822) fanns en deklaration om att naturvården är en
+såväl statlig som kommunal angelägenhet. Miljöbalken innehåller inte någon motsvarande
+deklaration men ger i fråga om natur- och kulturmiljövård kommunerna en viktigare roll än tidigare,
+även om den lokala naturvården och tillgång till mark för friluftslivet fortfarande kan beskrivas som
+
+en angelägenhet för både stat och kommun. I miljöbalken (1998:808) uttrycks bland annat att lagen
+ska tillämpas så att värdefulla natur- och kulturmiljöer skyddas och vårdas, den biologiska
+mångfalden bevaras samt att mark, vatten och fysisk miljö i övrigt används så att en från ekologisk,
+social, kulturell och samhällsekonomisk synpunkt långsiktigt god hushållning tryggas.12
+
+6 RÅ 1954 I 183
+7 2 kap. 7 § kommunallagen (2017:725)
+8 RÅ 1953 I 107
+9 2 kap. 8 § kommunallagen (2017:725)
+10 RÅ 1930 ref. 1, RÅ85 2:79 och RÅ 1991 ref. 64
+11 12 kap. 1 § socialtjänstlagen (2025:400)
+12 1 kap. 1 § miljöbalken (1998:808)
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 4
+vildsvin
+
+<!-- sida 373 -->
+
+4\. Ansvaret för viltförvaltningen
+1 Viltet och skyddet för dessa arter
+
+Med vilt avses i jaktlagen (1987:259) vilda däggdjur och fåglar. I Sverige finns drygt 300 sådana
+arter.
+Begreppet viltförvaltning kan avse både praktiska och administrativa åtgärder med många olika
+syften. Jaktlagsutredningen beskrev i sitt betänkande att termen viltförvaltning inkluderar jakt och
+
+viltvård samtidigt som det också innefattar avvägningar mellan olika intressen.13 I Naturvårdverkets
+strategi för svensk viltförvaltning uttrycks att en viltförvaltning i balans gör att alla kan uppleva
+viltets värden, vilket kan sammanfattas till att viltförvaltning handlar om att få vilda djur och
+människor att fungera tillsammans, både i dag och över tid.
+Förutom nationell lagstiftningen påverkas viltförvaltningen och skyddet av viltarter i hög grad av
+EU:s lagstiftning och internationella konventioner såsom CITES.14 När det gäller artskyddet kan
+detta sägas omfatta lagar som syftar till att skydda arter som på något sätt är hotade. Den svenska
+
+artskyddsförordningen (2007:845) implementerar EU:s två naturvårdsdirektiv: Art- och
+habitatdirektivet och Fågeldirektivet.
+
+4.1. Jaktlagstiftningen
+Utgångspunkten i den svenska jaktlagstiftningen är att allt vilt är fredat och endast får jagas om det
+följer av jaktlagen eller av föreskrifter eller beslut som har meddelats med stöd av lagen. När viltet
+är fredat, gäller fredningen också dess ägg och bon. Det är i jaktlagstiftningen som flera av
+undantagen i EU-direktiven har genomförts i form av möjlighet till jakt under vissa
+förutsättningar.15
+Jakten är strikt reglerad för att skydda viltstammarna och upprätthålla den biologiska mångfalden,
+men samtidigt ge möjlighet att bruka viltet som resurs och kunna reglera beståndet för att förebygga
+och begränsa skador orsakade av vilt. I jaktförordningen (1987:905) anges vilka arter som får jagas,
+
+var och under vilka tider de får jagas och hur jakten får genomföras. Totalt är ett sextiotal viltarter
+jaktbara. Älg, vildsvin och andra hjortdjur är de vanligaste bytesdjuren. Bland de djur och fågelarter
+som definieras som småvilt är det främst rådjur, hare och fåglar, såsom änder och ripa som jagas.
+
+4.2. Allmän jakt, licensjakt och skyddsjakt
+I Sverige har vi allmän jakt, licensjakt och skyddsjakt. Allmän jakt innebär att jakten får bedrivas
+under en angiven tid utan särskilt tillstånd och utan begränsning av antalet djur. Däremot ska jakten
+anpassas efter tillgången på vilt. Vildsvin, rådjur, dovhjort, hare, gräsand och fasan är exempel på
+arter som får jagas under allmän jakttid.
+Med licensjakt menas att viltet får jagas efter tillstånd av Naturvårdsverket eller länsstyrelsen.
+Licensjakt genomförs under en avgränsad period och utifrån en viss tilldelning av djur av till
+exempel älg, gråsäl, björn och varg. Syftet är att reglera viltstammarnas storlek i olika delar av
+
+landet.
+Skyddsjakt är ett verktyg som kan användas i syfte att förhindra att vilt orsakar allvarlig skada på
+exempelvis skog, gröda, boskap eller annan egendom. Jakt på ett stort antal utpekade viltarter får
+bedrivas utan tillstånd, till exempel för att hindra flockar av gäss från att äta säd på åkrar, grävlingar
+och möss från att orsaka skada i trädgårdar eller att förhindra skador av främmande viltarter. För
+andra arter krävs tillstånd. För att skyddsjakt ska kunna beviljas för arter som är angivna i EU-
+
+13 Viltmyndigheten – jakt och viltförvaltning i en ny tid (SOU 2013:71)
+14 CITES är en konvention om internationell handel med utrotningshotade arter av vilda djur och växter som genomförs genom en
+EU-förordning.
+15 Betänkandet En ny nationell myndighet för viltförvaltning (SOU 2025:50), ss. 177-178
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 5
+vildsvin
+
+<!-- sida 374 -->
+
+direktiv, till exempel stora rovdjur, ska det inte finnas någon annan lämplig lösning på problemet.
+Beslutet får inte heller leda till att artens bevarandestatus hotas. Det är också möjligt för en enskild
+att utan tillstånd och under vissa angivna förutsättningar döda ett stort rovdjur för att skydda ett
+tamdjur. Det är då fråga om skyddsjakt på enskilds initiativ.16
+
+4.3. Rätten att jaga
+Utgångspunkten är att fastighetsägaren har jakträtt på den mark som tillhör fastigheten.
+Fastighetsägaren har möjlighet att överlåta eller upplåta jakträtten till andra. Med jakträtten följer ett
+ansvar att förvalta viltstammarna. Även om jakträtten är upplåten är markägaren ytterst ansvarig för
+att jakten bedrivs på ett sätt som inte påverkar andra fastighetsägare eller att viltet skadas.
+För att få jaga behövs ett statligt jaktkort som vilket kräver att en årlig avgift (viltvårdsavgift)
+betalas. Det krävs också godkänd jägarexamen för att få tillstånd från Polismyndigheten att inneha
+
+jaktvapen. Jakten ska genomföras på ett säkert sätt och viltet ska inte utsättas för onödigt lidande.17
+5\. Aktörer inom viltförvaltningen
+
+Ansvaret för viltförvaltningen i Sverige delas mellan flertalet olika aktörer. Många av dessa aktörer
+återfinns inom statens hägn.
+
+5.1. Naturvårdsverket
+Naturvårdsverket har enligt sin myndighetsinstruktion uppgiften att ansvara för frågor om jakt och
+vilt enligt jaktlagstiftningen, vilket innebär att myndigheten har det nationella ansvaret för att
+riksdagens och regeringens beslutade politik för viltförvaltning genomförs. I detta ansvar ingår
+bland annat att besluta om föreskrifter, vägleda och fatta beslut enligt jaktlagstiftningen, hantera
+jägarregistret, ta fram kunskapsunderlag och fördela medel till forskning, inventering, viltskador
+och länsstyrelsernas rovdjursarbete. Minst en gång vart sjätte år ska Naturvårdsverket också se över
+de jakttider som regleras i jaktförordningen och vid behov föreslå förändringar till regeringen. I
+instruktionen anges också att myndigheten ska medverka till att främja brukande av vilt som resurs.
+
+5.2. Länsstyrelserna
+Länsstyrelserna har många uppgifter inom viltförvaltningen. De är inte angivna i instruktionen utan
+regleras i jaktlagen och jaktförordningen och även i vissa andra författningar. Uppgifter som rör
+artskydd regleras bland annat i artskyddsförordningen (2007:845). Ansvarsförhållandena inom
+rovdjursförvaltningen förändrades 2009 när ett regionalt inflytande över förvaltningen började
+införas. Länsstyrelserna fick ansvar för att förvalta viltet inom länet. Förändringen har bland annat
+inneburit att Naturvårdsverket oftast utan begränsning delegerar beslut om skyddsjakt av varg,
+björn, järv och lo till länsstyrelserna.
+
+Ett led i den regionaliserade förvaltningen var att införa en viltförvaltningsdelegation vid varje
+länsstyrelse 2010. Delegationerna infördes för att uppnå acceptans för rovdjuren och åstadkomma
+ett reellt regionalt ansvar och lokalt inflytande över rovdjursförvaltningen. Delegationens uppgifter
+omfattar inte enbart rovdjur. Enligt 3 § förordningen (2009:1474) om viltförvaltningsdelegationer
+ska delegationen besluta om övergripande riktlinjer för viltförvaltningen inom länet, skötseln av
+älgstammen och i förekommande fall skötseln av hjort- och vildsvinsstammarna. Delegationen ska
+enligt 4 § även besluta om övergripande riktlinjer för licensjakt och skyddsjakt och även om bidrag
+
+och ersättning för viltskador enligt viltskadeförordningen (2001:724). Viltförvaltningsdelegationen
+ska därutöver enligt 4 § pröva frågor om godkännande av de förslag till miniminivåer för
+förekomsten av björn, varg, järv och lo som länsstyrelsen ska lämna till samverkansråden. En sådan
+prövning gäller även länets förvaltningsplan för rovdjur.
+
+16 Betänkandet En ny nationell myndighet för viltförvaltning (SOU 2025:50), ss. 178-179
+17 Betänkandet En ny nationell myndighet för viltförvaltning (SOU 2025:50), s. 179
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 6
+vildsvin
+
+<!-- sida 375 -->
+
+Länsstyrelsen i Hallands län har i enlighet med ovan nämnda förordning fastställt en regional
+förvaltningsplan för vildsvin. Länsstyrelsen anger att planens syfte är att ge jägare, lantbrukare och
+markägare samt andra intressenter och deras organisationer vägledning för den fortsatta
+förvaltningen av vildsvin i länet, vilket länsstyrelsen anger är dess roll i vildsvinsförvaltningen.
+
+5.3. Övriga aktörer
+Förutom Naturvårdsverket och länsstyrelserna har följande statliga myndigheter en roll i
+viltförvaltningen: Havs- och vattenmyndigheten, Skogsstyrelsen, Statens jordbruksverk,
+Polismyndigheten, Trafikverket, Statens veterinärmedicinska anstalt, Naturhistoriska riksmuseet
+och Sveriges lantbruksuniversitet (SLU).
+Utöver de statliga myndigheterna är det framför allt Sametinget och Svenska Jägareförbundet som
+har uppgifter inom viltförvaltningen. Sametinget är förvaltningsmyndighet inom rennäringens
+
+område vilket innefattar ett ansvara för att administrera rovdjursersättningar enligt
+viltskadeförordningen (2001:724). Sametinget får också meddela föreskrifter om bidrag och
+ersättning till rennäringen för skador på ren som vilt har orsakat.
+Svenska Jägareförbundet är en ideell förening med en riksomfattande organisation med drygt 157
+000 medlemmar som är organiserade i länsjaktvårdsföreningar och jaktvårdskretsar. Svenska
+Jägareförbundet ska i samverkan med myndigheter och andra organisationer ta tillvara
+medlemmarnas intressen för jakt, viltförvaltning och natur genom att bland annat arbeta för en
+
+långsiktigt hållbar jakt bedriven utifrån god kunskap om viltförvaltning och hög etik. För denna
+verksamhet får förbundet ett organisationsbidrag från staten. Förbundet utför också flera uppgifter
+på uppdrag av staten efter Naturvårdsverkets upphandling.
+Sveriges kommuner har inte något uttryckligt uppdrag att arbeta med viltförvaltning. Genom olika
+rättliga avgöranden har kommuner ändå givits möjlighet att agera inom detta område, bland genom
+inplantering av kanadagäss.18 Kommuner runt om Sverige, bland annat Kungsbacka, anlitar också
+kommunala skyddsjägarna som bland annat kan bedriva jakt på kommunal mark enligt de allmänna
+
+jakttiderna (om inte jakträtten är utarrenderad), avliva skadade djur och hjälpa till med infångande
+och förflyttning av mindre vilt som gör skada, till exempel grävlingar.
+
+6\. Jakträtt och skottpengar på vilt
+6.1. Jakträtten i Sverige
+Jakträtten har sedan urminnes tider varit förenad med markägandet. I mitten av 1500-talet tog dock
+kungamakten och de frälse ett allt större inflytande över jakträtten. Från och med 1664 fick
+
+allmogen i mellersta och södra Sverige inte jaga matnyttigt vilt på sina egna marker. Jakt och fångst
+av rovdjur var däremot tillåtet. År 1789 beslutade Gustav III att åter låta skattebönderna få jaga på
+sin egen mark. Jakträtten kopplades då till markägandet på samma sätt som sker i dag. Beslutet
+bekräftades med 1808 års jaktstadga. På grund av jaktbeslutet ökade jakttrycket på viltet framför
+allt genom tillåten jakt och fångst, men indirekt genom minskad efterhållning av rovdjur.19
+
+6.2. Premier för fällda vilt
+Möjligheten att erhålla ekonomisk ersättning för fällda vilt är något som funnits inom jakten och i
+jakträtten sedan medeltiden. Redan i landskapslagarna och landslagarna återfanns både krav på
+obligatorisk rovdjursförföljelse och skottpengar för fällt vilt.20 Bland annat stadgade Östgötalagen
+att
+
+18 RÅ Ab-99/78
+19 Betänkandet Viltmyndigheten – jakt och viltförvaltning i en ny tid (SOU 2013:71)
+20 Äldre Västgötalagen, Yngre Västgötalagen, Östgötalagen, Upplandslagen, Västmannalagen, Södermannalagen, Dalalagen,
+Hälsingelagen (ca 1250–1350), Kristoffers landslag (1442), Magnus Erikssons landslag (1350)
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 7
+vildsvin
+
+<!-- sida 376 -->
+
+alla skola jaga björn [och] var bonde [skall] hava tre famnar vargnät
+samtidigt som Södermannalagen erbjöd skottpengar till den som
+föröder en hel kull med vargungar.21
+
+Det hårda jakttrycket och skottpengarna på vilt fick till följd att rovdjuren varg och björn var nära
+att utrotning. Andra hårt jagande vilt, till exempel vildsvin och bäver, har under perioder helt
+försvunnit från den svenska faunan. Vildsvin som har varit en historiskt naturligt förkommande art i
+svensk fauna utrotades i Sverige i slutet av 1600-talet. Förutom en kort period under 1700-talet då
+arten sattes ut på Öland för att kort därefter utrotas på grund av dess skador på jordbruket, har
+vildsvinen inte förkommit i naturliga bestånd i Sverige. Vildsvin har sedan 1800-talet hållits i
+särskilda vilthägn för att under 1970- och 80-talen återetablera sig som vilda populationer genom
+rymningar från dessa hägn.22 Efter övervägningar i Jakt- och viltvårdsberedningen kom riksdagen
+
+1980 fram till att vildsvin naturligt endast skulle tillåtas i form av en begränsad population i
+Stockholms län.23 År 1987 ändrades det tidigare beslutet och vildsvinet definierades som en i landet
+naturligt förekommande art och sedan dess har arten spridit sig.24
+6.3. Premier för fällda vilt i dag
+
+Premier för fällda vilt är något som fortfarande förekommer som en del av viltvården. I skrivande
+stund betalar Länsstyrelsen i Västerbotten ut en premie för fällda rödrävar inom ramen för projektet
+att bevara fjällräven. En fälld rödräv ger 300 kronor, och en fälld rödräv med skabb ger 600 kronor.
+Havs- och vattenmyndighet erbjuder i samarbetet med Jordbruksverket och Sveriges länsstyrelser
+ersättning för fällda sälar. Stödet syftar till en anpassad sälförvaltning för att minska sälens skadliga
+påverkan på fiske och vattenbruk. Ersättningen lämnas för hanteringskostnader av sälar som fällts
+vid skyddsjakt och licensjakt och omfattar 100 procent av utgifterna för hanteringen av sälarna.
+
+7\. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin
+Även om det historiskt sett, och i dagsläget, framför allt är statliga aktörer som erbjuder ersättning
+
+för vilt inom olika projekt finns det inget i jaktlagen, jaktförordningen, myndighetsinstruktioner,
+regleringsbrev eller andra författningar som anger att det endast skulle vara en statlig angelägen att
+lämna premier för fällda vilt. Även viltvårdsansvariga vid berörda länsstyrelser och de berörda
+statliga myndigheterna såväl som landsbygds- och infrastrukturdepartementet framhåller vid
+kontakt att detta inte är något uttryckligt uppdrag för staten, men att olika premier lämnas inom
+vissa projekt inom ramen för uppdragen kring viltvård. De berörda myndigheterna ser inte heller
+något hinder för en kommun att lämna en sådan premie för fällda vildsvin.
+
+Som redogjordes för inledningsvis är den allmänna kompetensen väldigt bred. För att en kommun
+ska få ägna sig åt en angelägenhet ska uppgifter uppbäras av ett allmänt intresse som har anknytning
+till kommunens område eller deras medlemmar samt inte vara förbehållen någon annan aktör inom
+det offentliga eller det privata näringslivet.
+Även om det finns lite rättspraxis inom området viltvård finns det ett avgörande från regeringsrätten
+som avser Kungsbacka kommun. Det handlar om kommunfullmäktiges beslut från den 20
+november 1975 om att bevilja anslag till Kungsbacka kommuns jaktvårdskrets med 5 000 kronor.
+
+Anslaget skulle användas till att möjliggöra inplantering av rapphöns, fasaner, skogshare
+och kanadagäss med det huvudsakliga syftet att underhålla och utveckla viltbeståndet inom
+kommunen. Beslutet överklagades av en kommunmedlem som menade att kommunen överskridit
+sina befogenheter när kommunen anslagit skattemedel till ändamål för vilka de ej avsetts. Den
+
+21 Rätt till jakt – En studie av den svenska jakträtten ca 1600–1789, Ulf Nyrén (2012)
+22 Nationell förvaltningsplan för vildsvin 2010
+23 Åtgärder mot frilevande vildsvin m.m. (prop. 1980/81:82)
+24 Om jaktlag m.m. (prop. 1986/87:58)
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 8
+vildsvin
+
+<!-- sida 377 -->
+
+klagande anförde vidare att jaktvårdskretsen och jaktvårdsområdena var berättigade till full
+gottgörelse för sina arbetsinsatser av statliga medel ur Kungliga jaktvårdsfonden, och att
+kommunfullmäktige hade genom beslutet lämnat stöd för en åtgärd som staten betalar ut anslag för.
+Regeringsrätten fann emellertid vid sin prövning att syftet att underhålla och utveckla viltbeståndet
+inom kommunen tillgodoser ett allmänhetens intresse av en rikare naturupplevelse, en uppgift som
+anses ingå bland de naturvårdande angelägenheterna som framgick 2 § naturvårdslagen (1964:822),
+
+en uppgift som var (och fortfarande är) delad mellan staten och kommunerna. Regeringsrätten
+fastslog därmed att kommunfullmäktige i Kungsbacka kommun inte hade överskridit sin
+befogenhet, och att beslutet i övrigt inte heller stred mot kommunallagens bestämmelser.
+Många av Sveriges kommuner anlitar i dag kommunala skyddsjägare, något som också bör
+betraktas som viltvård. Även denna åtgärd anses kompetensenlig.
+
+Eftersom kommunerna har ett med staten delat ansvar för naturvården, och både tidigare och i dag,
+har möjlighet att ägna sig åt viltvård, bör det inte finnas något som hindrar att kommunen inför en
+premie för fällda vildsvin inom kommunens geografiska område. Med hänvisning till de skador på
+jordbruksmark, trädgårdar och kommunal mark, samt den ökade risken för trafikolyckor, som en
+stor vildsvinsstam för med sig bör åtgärden ha ett klart allmänt intresse.
+
+Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 9
+vildsvin
+
+<!-- sida 378 -->
+
+Premie till jägare för fällda vildsvin
+
+Bakgrund:
+
+Vildsvinspopulationen i Kungsbacka har ökat kraftigt och orsakar stora skador på
+
+jordbruksmark, trädgårdar och kommunal mark. Samtidigt ökar risken för trafikolyckor.
+
+Kommunen har ett ansvar att värna tryggheten, stödja landsbygden och bidra till en
+hållbar viltförvaltning.
+
+Ett sätt att uppnå detta är att uppmuntra jaktinsatser genom en ekonomisk premie till
+jägare. Liknande initiativ i andra kommuner har visat goda resultat.
+
+Förslag:
+
+Alliansen föreslår att Kungsbacka kommun utreder en premie på 1 000 kronor per
+godkänt fälld vildsvin inom kommunens gränser med ett tak på 50000 kronor per person
+och år. Det totala utbetalda beloppet får uppgå till max 1000000 kronor per år.
+
+Premien ska kunna sökas av registrerade jägare som redovisar:
+
+• fotodokumentation av det fällda djuret,
+
+• intyg från markägare eller jaktledare,
+
+• plats och datum för fällningen.
+
+Förvaltningen ges i uppdrag att utreda en enkel administrativ modell för ansökan samt
+föreslå finansiering.
+
+Syfte:
+
+• Öka tryggheten genom färre viltolyckor.
+
+• Minska skador på jordbruksmark och grönytor.
+
+• Stärka samverkan mellan kommunen, markägare och jägare.
+
+• Bidra till ett ansvarsfullt förvaltarskap av naturen.
+
+Förslag till beslut:
+
+<!-- sida 379 -->
+
+Att Kommunstyrelsen uppdrar åt förvaltningen att:
+
+1\. Utreda och föreslå en modell för premie till jägare om 1 000 kronor per fällt vildsvin,
+max 50000 kronor per person och år
+
+2.Redovisa förslag till finansiering och genomförande för en 2-års testperiod med start
+under 2026, med ett årligt tak på 1000000 kronor per år.
+
+Fredrik Kollberg                    Lisa Andersson
+
+Kristdemokraterna                   Moderaterna
+
+Fredrik Hansson                     Monica Neptun
+
+Centerpartiet                       Liberalerna
+
+<!-- sida 380 -->
+
+TJÄNSTESKRIVELSE
+
+Datum
+2026-05-27
+Diarienummer
+KS-2026-00239
+
+Lokaliseringsutredning Ny idrottshall i Onsala
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen godkänner Lokaliseringsutredning för ny idrottshall i Onsala, daterad 2026-05-27.
+Kommunstyrelsen överlämnar till byggnadsnämnden att upprätta förslag till ändring av detaljplan för
+skoländamål inom fastigheten Onsala 1:16 i Onsala.
+
+Sammanfattning av ärendet
+Det finns ett behov av ytterligare en fullmåttshall i Onsala. En fullmåttshall var tidigare samlokaliserad
+med den planerade ombyggnationen vid Iseråsskolan. Förvaltningen för Service meddelar att
+ombyggnationen av Iseråsskolan i dagsläget är pausad på obestämd tid eftersom befolkningsprognosen
+visar att elevantalet i Onsala minskat och förväntas minska ytterligare framöver. I samband med att
+ombyggnationen på Iseråsskolan pausades kvarstod beslutet om en fullmåttshall i Onsala, då
+föreningarna fortsatt har stora behov. En ny lokalisering av fullmåttshall behöver därför tas fram.
+
+En lokaliseringsutredning har gjorts där fyra olika platser jämförts utifrån deras geografiska läge, vad
+den befintliga detaljplanen tillåter, påverkan på utemiljö för skolgård samt möjligheten att hålla
+tidplanen. Slutsatsen i utredningen är att den mest lämpliga placering av en ny fullmåttshall är vid
+Fjordskolan, alternativ A, inom Onsala 1:16.
+
+Beslutsunderlag
+Samhällsbyggnadskontorets tjänsteskrivelse, 2026-05-27
+Lokaliseringsutredning för ny idrottshall i Onsala, 2026-05-27
+
+Beslutet skickas till
+Byggnadsnämnden, nämnden för Service, Samhällsbyggnadskontoret
+
+1 (2)
+Kungsbacka kommun                                         Kungsbacka kommun
+434 81 Kungsbacka
+Maria Malone
+0300-834041                                                   Besöksadress
+Senior Planarkitekt                                      Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+www.kungsbacka.se
+
+<!-- sida 381 -->
+
+KUNGSBACKA  KOMMUN
+2 (2)
+
+Beskrivning av ärendet
+
+Samhällsbyggnadskontoret har genomfört en lokaliseringsutredning där totalt fyra platser undersökts
+för placering av ny idrottshall i Onsala. En av dessa bedömdes en ny fullmåttshall är vid Fjordskolan,
+alternativ A, inom Onsala 1:16 vara relevant.
+
+Platsen ligger i skoltomtens norra del rymmer fina möjligheter på lång sikt för en fullmåttshall. En
+placering här ger en kapacitetsökning för både skolidrotten och föreningslivet. Skolgården är rymlig
+och påverkas endast marginellt av en ny byggnad, vilket innebär att dess befintliga kvaliteter i stort
+kan bevaras. Den nuvarande angöringen och parkeringen kan samutnyttjas av både skolan och
+föreningsverksamheten, då användningen sker vid olika tider på dygnet. När den nya Onsalavägen står
+färdig kan hallen dessutom fungera som bullerskärm och därmed förbättra ljudmiljön på skolgården.
+Platsen ligger på befintlig skolgård och är bra placerad för att hållbart nå idrottshallen med både bil,
+cykel och till fots. Kommunen äger marken. De befintliga paviljongerna behöver flyttas alternativt
+avvecklas. Placeringen kräver att en ändring av befintlig detaljplan tas fram för att utöka nockhöjden
+som idrottshallen kräver.
+
+Utifrån ovan resonemang föreslår samhällsbyggnadskontoret att kommunen påbörjar planarbete för en
+ändring av detaljplan för skoltomten vid Fjordskolan.
+
+Rickard Vidlund                         Lovisa Eld
+
+Kommundirektör                          Samhällsbyggnadschef
+
+<!-- sida 382 -->
+
+Lokaliseringsutredning                         -
+
+Ny    idrottshall           i Onsala
+
+Upprättad 2026-05-27
+
+Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+
+<!-- sida 383 -->
+
+Innehåll
+Bakgrund ................................................................................................................................................... 3
+
+ÖP ............................................................................................................................................................... 4
+Idrottshallskoncept................................................................................................................................ 5
+
+Planerings- och byggprocessen ..........................................................................................................6
+Studerade alternativ .............................................................................................................................. 7
+
+1\. Kapareskolan ............................................................................................................................................. 8
+2\. Fjordskolan ................................................................................................................................................. 9
+3\. Presseskolan ............................................................................................................................................. 10
+
+4\. Iseråsskolan ............................................................................................................................................... 11
+Rekommendation ................................................................................................................................. 12
+
+Konsekvenser ........................................................................................................................................ 12
+Samhällsutveckling .......................................................................................................................................... 12
+
+Barnperspektivet .............................................................................................................................................. 12
+Övriga sociala konsekvenser ......................................................................................................................... 13
+
+Tidplan ................................................................................................................................................................ 13
+Ekonomi ............................................................................................................................................................. 13
+
+Samhällsekonomi ............................................................................................................................................. 13
+Delaktiga ................................................................................................................................................. 14
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 2 av 14
+
+<!-- sida 384 -->
+
+Bakgrund
+
+Det finns ett behov av ytterligare en fullmåttshall i Onsala. En fullmåttshall var tidigare
+samlokaliserad med den planerade ombyggnationen vid Iseråsskolan. Förvaltningen för Service
+meddelar att ombyggnationen av Iseråsskolan i dagsläget är pausad på obestämd tid eftersom
+
+befolkningsprognosen visar att elevantalet i Onsala minskat och förväntas minska ytterligare
+framöver. I samband med att ombyggnationen på Iseråsskolan pausades kvarstod beslutet om en
+fullmåttshall i Onsala, då föreningarna fortsatt har stora behov. En ny lokalisering av fullmåttshall
+behöver därför tas fram.
+Inom utvecklingsorten Onsala finns idag fyra skolor: Kapareskolan (åk 7-9), Fjordskolan (F-3),
+Presseskolan (F-3) och Iseråsskolan (F-3). Vid Kapareskolan och Presseskolan finns idag
+fullmåttshallar och vid övriga skola finns mindre idrottshallar. För mest effektivt nyttjande av
+
+fullmåttshallen för både skolidrott och föreningsliv har lokalisering av en fullmåttshall förutsetts att
+placeras inom en skoltomt.
+
+Figur 1. Fyra skolor inom utvecklingsorten Onsala.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 3 av 14
+
+<!-- sida 385 -->
+
+ÖP
+
+Onsala lyfts i kommunens översiktsplan fram som en utvecklingsort, och riktlinjerna kan
+sammanfattas så här:
+
+•  Centrumutveckling — Centrum och centrumnära områden ska bli tätare och rymma en
+blandning av näringsliv, olika boendeformer och rekreation.
+
+•  Nybyggnation — Den största delen av kommunens framtida byggande ska ske i
+utvecklingsorterna. Fokus ligger på bostäder, men även lokaler för kommersiell och
+kommunal service behövs.
+•  Trygga offentliga miljöer — Allmänna platser och stråk ska vara säkra, tillgängliga och
+upplevas som trygga för alla.
+
+•  Vardagsnära friluftsliv — Natur- och rekreationsmöjligheter ska bevaras och utvecklas.
+
+•  Yttre områden — De mer perifera delarna domineras av villabebyggelse men kan även
+rymma verksamheter som inte stör omgivningen.
+
+Enligt översiktsplanen ligger Kapareskolan inom Onsalas centrumområde. Inom detta område finns
+service till ett större omland och bostäder inom detta område ligger på gångavstånd till skola,
+mataffär och hållplats. Övriga tre skolor ligger inom den yttre delen av orten. Alla skolorna har bra
+trafikförbindelser för gående, cyklister, kollektivtrafik och bilar. Den planerade nya Onsalavägen
+
+kommer att öka tillgängligheten till samtliga skolor, se sträckning nedan.
+
+Figur 2. Utklipp från översiktsplanen över Onsalahalvön.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 4 av 14
+
+<!-- sida 386 -->
+
+Idrottshallskoncept
+
+I samband med projekteringen av den pausade Iseråsskolan har ritningar tagits fram för en
+fullmåttshall enligt idrottshallskonceptet. Konceptet för idrottshallar har tagits fram i samverkan
+mellan Service Lokalförsörjning, förvaltningen för Kultur & Fritid samt förvaltningarna för För- &
+Grundskola. Syftet är att skapa gemensamma riktlinjer för planering och utformning av nya
+idrottshallar. Konceptet ska säkerställa rätt kvalitet, funktionalitet och en enhetlig utformning,
+
+samtidigt som det skapar samsyn mellan berörda parter och fungerar som stöd för projektörer vid nya
+byggprojekt. Lokaliseringsutredningen har utgått från de ritningar som togs fram för projekteringen
+av Iseråsskolan för att ta fram lokalisering av ny fullmåttshall i Onsala. Ny fullmåttshall planeras för
+att innehålla hallmått om 28m x 43m, åskådarkapacitet för 300 personer, omklädningsrum, pentry
+med kafédel, uppehållsyta och kopplas med fördel till en skola med fler än 500 elever.
+
+Figur 3. Ex på fasadritningar för fullmåttshall framtagna i samband med ombyggnation av Iseråsskolan.
+
+Figur 4. Ex på utformning av fullmåttshall framtagen i samband med ombyggnation av Iseråsskolan.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 5 av 14
+
+<!-- sida 387 -->
+
+Planerings-    och  byggprocessen
+
+Efter att en plats beslutats behöver en ändring av detaljplan upprättas. Processen med
+detaljplaneläggning, projektering och byggnation förväntas ta cirka tre år från beslut om
+planuppdrag. Enligt Lokalplan som planeras att beslutas i kommunfullmäktige juni 2026 ska
+idrottshallen i Onsala vara färdigställd år 2029.
+
+Figur 5. Möjlig tidplan för anläggande av fullmåttshall i Onsala.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 6 av 14
+
+<!-- sida 388 -->
+
+Studerade alternativ
+
+Fyra platser har studerats som relevanta alternativ utifrån skollokaliseringar i Onsala. De avgörande
+faktorerna är strategiskt läge (ÖP), detaljplan — utrymme enligt beställning, påverkan på utemiljöer
+för skolgård och tidplan. Ett närmare resonemang förs på följande sidor gällande placeringarnas
+förutsättningar, utmaningar samt hur en ny fullmåttshall i detta läge bidrar till samhällsutvecklingen.
+
+K hack
+Prosseskolan
+Kapareskolan
+Ineråsskolan
+\=
+
+Figur 6. Skolokaliseringar i Onsala.
+
+Område
+
+Strategiskt läge (OP)
+
+Detaljplan — utrymme
+enligt beställning
+
+Påverka på utemiljö för
+skolgård
+
+1\. Kapareskolan
+
+2\. Fjordskolan
+
+3\. Presseskolan
+
+4\. Iseråsskolan
+
+Tidplan
+
+Figur 7. Bedömning av anläggande av fullmåttshall vid skolorna i Onsala.
+
+Kungsbacka kommun
+
+Lokaliseringsutredning - Ny idrottshall i Onsala
+
+Sida 7 av 14
+
+<!-- sida 389 -->
+
+1\. Kapareskolan
+
+e - Kapareskolan har elver i åk 7-9 och ligger centralt i Onsala.
+
+e Skolan ligger inom centrumnära område enligt översiktsplanen.
+
+e Vid skolan finns en idrottshall med fullmåttsplan som är välutnyttjad av både skolan och
+föreningslivet. Dock saknas vissa kringytor utanför sidlinjen för en fullmåttshall.
+
+e Intill befintlig idrottshall ligger en konstgräsplan som nyttjas av både skolan och föreningslivet.
+
+e - Skoltomten ligger inom fastigheten Staragården 10:1 och berörs av detaljplan OP195, laga kraft 2022-
+12-14.Genomförandetiden går ut 2027-12-14.
+
+Strategiskt läge Detaljplan — utrymme | Påverka på utemiljö | Tidplan
+(OP) enligt beställning för skolgård
+
+Resonemang
+
+Kapareskolan ligger mest centralt av skolorna i Onsala och är strategiskt bästa läget för lokalisering av en ny
+fullmåttshall. Skoltomten är väl utnyttjad med byggnader och ytor för utemiljöer. Storleken på skolgården är
+anpassad åldersmässigt och för antalet elever som går på skola. En ny fullmåttshall vid Kapareskolan innebär
+att skolområdet får två fullmåttshallar vilket är bra för föreningslivet men skolidrotten klarar sig med den
+befintliga idrottshallen. Dock önskar föreningslivet fler omklädningsrum för fotbollsklubben som nyttjar
+konstgräsplanen på kvällar och helger.
+
+Inom skolområdet har flera alternativa platser studerats för placering av fullmåttshall och fördjupning gjort på
+alternativ A och B, se figur 8. En placering av fullmåttshall i alternativ A innebär att konstgräsplanen måste
+flyttas vilket ger ytterligare en kostnader och det blir troligtvis svårt att hitta ny placering. Om fullmåttshallen
+placeras i alternativ B minskar yta för utemiljö på skolgården och två uteplaner för basket försvinner.
+
+Ett anläggande av fullmåttshall på parkeringen har prövats men avfärdats då det är svårt att hitta ny plats för
+skolpersonal och besökare att parkera. Hallen ryms inte heller öster om infarten till skolan utan att göra
+anspråk på allmän plats parkmark utanför skoltomten. En hall i detta läge skulle även hamna mycket nära
+bostäderna vid Lisas väg. Även en placering där paviljongen står skulle bli för trångt och hamna för nära
+bostäderna. Placeringen kommer även i konflikt med en vattenledning.
+
+Alternativ A och B kräver ändring av detaljplan för att möjliggöra en högre nockhöjd för idrottshallen.
+
+Kungsbacka kommun Lokaliseringsutredning - Ny idrottshall i Onsala Sida 8 av 14
+
+<!-- sida 390 -->
+
+2\. Fjordskolan
+
+e - Fjordskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
+
+e Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del av föreningslivet.
+I norra delen av skoltomten finns två paviljonger för tillfälliga skollokaler.
+Skoltomten ligger inom Onsala 1:16 och berörs av två detaljplaner: OP168, laga kraft 1996-12-12 och
+OP 1684A, laga kraft 2007-05-08. Genomförandetiden har gått ut.
+
+Figur 10 och 11: Förslag på lokaliseringar A och B inom skoltomten. Detaljplaner för skola inom Onsala 1:16 (OP168 och 168A).
+
+Strategiskt läge Detaljplan — utrymme | Påverka på utemiljö | Tidplan
+(ÖP) enligt beställning för skolgård
+Resonemang
+
+En ny fullmåttshall vid Fjordskolan skulle öka kapaciteten för både skolidrotten och föreningslivet. Idag kan
+den mindre idrottshallen endast användas av en klass åt gången. Idrottshallen har idag två omklädningsrum
+vilket försvårar schemaläggning och bokningar av hallen. Skoltomten är luftig och har väl tilltagna ytor för
+lek. De båda paviljongerna i norra delen av skoltomten är endast tillfälliga och ska flyttas alternativ avvecklas.
+
+På skolområdet har två alternativa platser A och B studerats för placering av fullmåttshall, se figur 10. I
+alternativ A placeras fullmåttshallen på den plats där paviljongerna står. En ny idrottshall i detta läge kan ge
+minskad påverkan av trafikbuller från nya Onsalavägen på skolgården. Alternativ A har en bra angöring via
+parkeringsplatsen och kommer inte i konflikt med skolgården. I alternativ B förläggs en fullmåttshall på
+
+skolgården i väster vilket minskar den totala lekytan för eleverna. Angöring till hallen i detta läge är sämre än i
+läge A.
+
+För alternativ A och B krävs ändring av detaljplan för att möjliggöra en högre nockhöjd för idrottshallen.
+
+Kungsbacka kommun Lokaliseringsutredning - Ny idrottshall i Onsala Sida 9 av 14
+
+<!-- sida 391 -->
+
+3\. Presseskolan
+
+e - Presseskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
+
+e Vid skolan finns en fullmåttshall med en fällbar läktare som nyttjas av skolan och föreningslivet.
+
+e - Skoltomten ligger inom fastigheten Bäcken 1:11 och berörs av detaljplan OP171, laga kraft 2001-10-
+30\. Genomförandetiden har gått ut.
+
+Figur 12 och 13: Förslag på lokalisering A inom skoltomten. Detaljplaner för skola inom Bäcken 1:11 (OP171).
+
+Strategiskt läge Detaljplan — utrymme | Påverka på utemiljö | Tidplan
+(ÖP) enligt beställning för skolgård
+
+Resonemang
+
+Presseskolan är den skolan i Onsala som ligger närmst Kungsbacka stad och är mest fördelaktig ur ett
+miljöperspektiv sett till transporter. En ny fullmåttshall vid Presseskolan innebär att skoltomten får två
+fullmåttshallar som är bra för föreningslivet men skolidrotten klarar sig med den befintliga idrottshallen.
+Skoltomten är väl utnyttjad med byggnader och ytor för utemiljöer. Storleken på skolgården är anpassad
+åldersmässigt och för antalet elever som går på skola.
+
+Inom skolområdet har endast en plats för ny fullmåttshall studerats, se figur 12. Om fullmåttshallen placeras i
+alternativ A minskar lekytan på skolgården och en grusplan försvinner.
+
+Placeringen kräver ändring av detaljplan för att möjliggöra en högre nockhöjd för idrottshallen.
+
+Kungsbacka kommun Lokaliseringsutredning - Ny idrottshall i Onsala Sida 10 av 14
+
+<!-- sida 392 -->
+
+4\. Iseråsskolan
+
+e  Iseråsskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
+e Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del föreningslivet.
+
+e - Skoltomten ligger inom fastigheten Iserås 19:1 och berörs av detaljplan OP197, laga kraft 2025-02-26.
+Genomförandetiden går ut 2030-02-26.
+
+pe ro I
+MN fär
+ÅN S | a |
+ww 2
+| dT ; i
+Nå 38 ./AN
+4 2” N z PT
+7 (aa | ar 3
+/ Fa : ne)
+/ Åh N f
+A / : / & fö 5 Eg
+5 od kn |
+j fler VIE
+NV /d J-Å vg
+N RS N ”M
+& Så | |
+/ Aes Ny
+[] bh pd
+. mi 2 Å
+
+AM Oo JA
+ff
+==? ir 8 År /
+
+Figur 14 och 15: Förslag på lokalisering A inom skoltomten. Detaljplaner för skola inom Iserås 19:1 (OP197).
+
+Strategiskt läge Detaljplan — utrymme | Påverka på utemiljö | Tidplan
+(ÖP) enligt beställning för skolgård
+Resonemang
+
+En ny detaljplan för Iseråsskolan fick laga kraft i februari 2025 och möjliggör för en ombyggnation av skolan
+med fullmåtts idrottshall. Kommunen har pausat ombyggnationen då elevantalen i Onsala har minskat och
+förväntas minska framöver. Om endast en ny fullmåttshall byggs vid Iseråsskolan skulle det öka kapaciteten
+för både skolan och föreningslivet. En placering av ny fullmåttshall vid Iseråsskolan behöver ske i det läge
+som bestämts i detaljplanen, läge A i figur 14. Hallen placeras då väster om infarten till skolan vilket ger en
+bra angöring och effektivisering av skoltomten som är luftig och har väl tilltagna ytor för lek. Konsekvensen
+
+för alternativ A är att lekyta för förskolan minskar och busslingan behöver ändras. Återvinningsstationen
+behöver också flyttas.
+
+Placeringen har stöd i gällande detaljplan. Genomförandetiden för gällande detaljplan går ut i februari 2030.
+
+Kungsbacka kommun Lokaliseringsutredning - Ny idrottshall i Onsala Sida 11 av 14
+
+<!-- sida 393 -->
+
+Rekommendation
+
+Förvaltningen rekommenderar, utifrån ovanstående resonemang, att en ny fullmåttshall lokaliseras
+vid Fjordskolan, alternativ A. En placering vid Fjordskolan ger en kapacitetsökning för både
+skolidrotten och föreningslivet. Skolgården är rymlig och påverkas endast marginellt av en ny
+byggnad, vilket innebär att dess befintliga kvaliteter i stort kan bevaras. Den nuvarande angöringen
+och parkeringen kan samutnyttjas av skolan och föreningsverksamheten, då användningen sker vid
+olika tider på dygnet. När den nya Onsalavägen står färdig kan hallen i alternativ A dessutom fungera
+som bullerskärm och därmed förbättra ljudmiljön på skolgården.
+
+Arbete med att avveckla de tillfälliga paviljongerna behöver påbörjas för att göra plats åt
+fullmåttshallen i alternativ A.
+
+Ett planarbete med ändring av detaljplanen för fastigheten Onsala 1:16 bör påbörjas för att
+möjliggöra ökad nockhöjd för idrottshallen i norra delen av skoltomten.
+
+Konsekvenser
+
+Konsekvensbedömningen är gjord utifrån lokaliseringsalternativ 2. Fjordskolan alternativ A inom
+Onsala 1:16.
+
+Samhällsutveckling
+
+En placering av fullmåttshall vid Fjordskolan, alternativ A stödjer en samhällsutveckling i linje med
+
+översiktsplanen och tydliggör kommunens ambition att stärka Onsala tätort. Genom att lokalisera
+hallen inom den befintliga skoltomten möjliggörs ett fortsatt samnyttjande av parkering och
+infrastruktur, vilket ger en effektiv och resurssnål lösning.
+
+Placering enligt alternativ A är anpassad till den planerade nya sträckningen av Onsalavägen och
+bidrar till en mer sammanhållen utbyggnad av orten. Hallen skapar dessutom goda förutsättningar för
+samverkan mellan skolidrott och föreningsliv genom att nyttjas dagtid av skolan och kvällar och
+helger av föreningar.
+
+Skoltomten kan användas mer effektivt, samtidigt som skolgårdens ytor och kvaliteter påverkas i
+mycket liten omfattning. Platsen har redan god tillgänglighet för gång-, cykel- och biltrafik samt
+kollektivtrafik, och tillgängligheten kommer att stärkas ytterligare när den nya Onsalavägen står klar.
+
+Barnperspektivet
+En säker skolväg är en central del i omställningen från bilberoende till mer hållbara färdsätt. Det
+handlar både om gång- och cykelvägar och om god tillgång till kollektivtrafik. Skolvägen förutsätts
+även nyttjas av föreningslivet under kvällar och helger, vilket gör säkerheten än viktigare. En trygg
+och tillgänglig skolväg ökar dessutom barnens möjlighet till självständighet i takt med att de blir
+äldre.
+
+Den föreslagna placeringen av idrottshallen har säkra gång- och cykelstråk samt nära anslutning till
+busshållplats, vilket ger god tillgänglighet för både elever och föreningsaktiva. Utbyggnaden av den
+nya Onsalavägen innebär att tillgängligheten till skoltomten kan bibehållas och stärkas.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 12 av 14
+
+<!-- sida 394 -->
+
+Övriga sociala konsekvenser
+En fullmåttshall tillsammans med skolan gör att platsen kan befolkas även under kvällar och helger.
+
+Detta ökar tryggheten i området.
+Tidplan
+
+Det finns möjlighet att hålla tidplanen med en färdigställd idrottshall 2029 om hallen placeras vid
+Fjordskolan, alternativ A. En detaljplaneändring och anläggning av fullmåttshall beräknas ta cirka 3
+år.
+
+Ekonomi
+Paviljongerna i alternativ A behöver avvecklas för att bereda plats för anläggande av fullmåttshall.
+
+Samhällsekonomi
+Placeringen erbjuder en långsiktighet då platsen för fullmåttshall tillgodoser både skolverksamheten
+och föreningslivets behov. Angöring via befintlig tillfart till skolområdet samt parkeringsytorna
+samutnyttjas.
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 13 av 14
+
+<!-- sida 395 -->
+
+Delaktiga
+
+Följande personer har varit delaktiga i framtagandet av förslaget:
+•  Maria Malone, senior planarkitekt
+
+•  Lovisa Kronberg, projektledare, Service
+•  Christina Wenander, lokalplanerare, Service
+Avstämningar har även gjorts med representanter inom förvaltningarna för Trafik och Bygg & Miljö, SBK-
+Mark och exploatering.
+
+Följande grupper har varit referensgrupper under upprättandet av förslaget:
+
+•  Operativ planering
+•  Planavdelningen
+
+Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 14 av 14

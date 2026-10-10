@@ -200,9 +200,9 @@ mm.
 Med anledning av frågeställningarna som uppkommit i arbetsmiljökartläggningen har
 ledningsgruppen följande inriktning:
 
--  Uppdraget psykologiskt ledningsansvarig kommer att utökas från 20% till 50%. Uppdraget
+\-  Uppdraget psykologiskt ledningsansvarig kommer att utökas från 20% till 50%. Uppdraget
 kommer att annonseras externt.
--  Utredning med inriktning mot ökad centralisering av skolpsykologerna.
+\-  Utredning med inriktning mot ökad centralisering av skolpsykologerna.
 
 Akademikerförbundet SSR:
 Finns det tankar på att centralisera all elevhälsa i förvaltningen?
@@ -370,7 +370,7 @@ Förvaltningen för Förskola & Grundskolas tjänsteskrivelse, 2025-09-23
 Skolpliktsuppföljning, 2025-09-23
 
 Beslutet skickas till
--
+\-
 
 Stigert Pettersson                 Frida Byrsten
 
@@ -959,7 +959,7 @@ samma grundbelopp.
 För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 beroende på
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 verksamhetsområdet. Den fristående skolan erhåller hela grundbeloppet utan
 avdraget ovan.
@@ -1821,7 +1821,7 @@ Verksamhetsberättelse     för Mötesplats   Idrott
 
 -en samverkan    mellan  FG  & KFT
 
-1. Inledning
+1\. Inledning
 
 Kort presentation av verksamheten och dess syfte
 
@@ -1855,7 +1855,7 @@ lågtröskelverksamhet för barn och unga som motverkar inaktivitet, ensamhet oc
 osunda levnadsvanor och främjar rörelseglädje, trivsel och skapandet av nya sociala
 kontakter.
 
-2. Verksamhetens struktur
+2\. Verksamhetens struktur
 
 •  Bryggan mellan skola och föreningsliv
 
@@ -1873,7 +1873,7 @@ Skolorna är i dagsläget följande: Kollaskolan, Skårbyskolan, Åsaskolan och 
 
 <!-- sida 61 -->
 
-4. Skolor
+4\. Skolor
 
 •  Översikt över de fyra skolorna där verksamheten bedrivs, tid för verksamheten
 och dess bemanning
@@ -1980,7 +1980,7 @@ kvalitetsarbetet.
 
 <!-- sida 63 -->
 
-5. Lågtröskelaktivitet som verktyg
+5\. Lågtröskelaktivitet som verktyg
 
 •  Beskrivning av genomförda aktiviteter och program.
 
@@ -2015,7 +2015,7 @@ innan och verksamheten är givetvis helt kostnadsfri och fri från övriga förp
 
 <!-- sida 64 -->
 
-6. Deltagande och resultat
+6\. Deltagande och resultat
 
 •  Kvantitativa data: antal deltagare, åldersfördelning, deltagarfrekvens
 
@@ -2079,7 +2079,7 @@ själv med er”
 
 <!-- sida 68 -->
 
-7. Samverkan mellan Kultur och Fritid och För- och grundskoleförvaltningen.
+7\. Samverkan mellan Kultur och Fritid och För- och grundskoleförvaltningen.
 
 I samband med läsårsstart fick skolorna stöd i att genomföra och följa upp
 enkätundersökningen som riktades mot årskurs 7. Genom enkätundersökningen
@@ -2169,7 +2169,7 @@ inför nästa termin ett större samarbete äga rum då föreningen kommer ta ö
 verksamheten men med stöd och uppbackning av KFT under tidens gång. Samma mål,
 värdegrund och riktlinjer kommer gälla oavsett i vilkens regi verksamheten bedrivs.
 
-8. Utmaningar och lärdomar
+8\. Utmaningar och lärdomar
 
 Identifiering av utmaningar som verksamheten har stött på
 
@@ -2215,7 +2215,7 @@ från FG i samarbete med Ung i Kungsbacka.
 
 Att få deltagare till Mötesplats idrott
 
--  Framgångsfaktorer:
+\-  Framgångsfaktorer:
 
 Marknadsföring samma dag, genom att vara ute i skolorna, man påminner, lockar in
 dem. Säger ”Hoppas vi ses sen? Vi finns i hallen idag!”, men även genom sociala medier
@@ -2244,7 +2244,7 @@ dagen innan.
 
 Tiden är samma även under lov, en stående tid som inte rubbas.
 
--  Utmaningar:
+\-  Utmaningar:
 
 I Åsa samt i Skårby har skolan läxhjälp för årskurs 7-9 samma tid som Mötesplats Idrott,
 vilket gjort att några ungdomar behövt gå dit istället. På Kollaskolan har
@@ -2285,7 +2285,7 @@ möjlighet.
 
 <!-- sida 72 -->
 
-9. Framtida planer
+9\. Framtida planer
 
 •  Planer för kommande år.
 
@@ -2314,7 +2314,7 @@ gör verklig skillnad för tjejerna på Kollaskolan!
 
 Under hösten 2025 kommer det även att öppnas upp en ny mötesplats på
 Smedingeskolan. Torsdagar mellan kl. 15:00-17:00 med preliminär start i vecka
-38. Bemanningen kommer vara en kvinnlig hälsopedagog och två manliga
+38\. Bemanningen kommer vara en kvinnlig hälsopedagog och två manliga
 
 ungdomskonsulenter och verktyget “Machofabriken” samt “safe selfie Academy”
 kommer användas som klassrumsmaterial för det uppsökande och
@@ -2323,7 +2323,7 @@ relationsskapande arbetet att nå eleverna. På Smedingeskolan finns starka norm
 kring machokultur och det finns ett stort behov av att stärka och belysa mångfald på
 ett positivt och hälsofrämjande sätt.
 
-10. Slutsats
+10\. Slutsats
 
 Mötesplats Idrott är en framgångsrik samverkan mellan Kultur och Fritid samt För- och
 grundskoleförvaltningen i Kungsbacka. Verksamheten erbjuder en trygg och
@@ -2564,12 +2564,12 @@ Lokalbehov 2027-2031 utblicksår 2032-2036
 Förslag till beslut
 Nämnden för Förskola & Grundskola beslutar:
 
--  att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
+\-  att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
 
--  att godkänna behovsbeskrivning förskoleplatser i Björkris.
--  att godkänna behovsbeskrivning Onsala skolor.
+\-  att godkänna behovsbeskrivning förskoleplatser i Björkris.
+\-  att godkänna behovsbeskrivning Onsala skolor.
 
--  att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
+\-  att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
 
 Sammanfattning av ärendet
 
@@ -2711,15 +2711,15 @@ Kommunen ansvarar enligt skollagen 11 kap. 24§ för att tillhandahålla utbildn
 Om detta inte kan uppfyllas bryter kommunen mot lagstiftningen.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
-- Utomhusytan kan minska om yta behöver tas i anspråk för nybyggnation.
+\- Utomhusytan kan minska om yta behöver tas i anspråk för nybyggnation.
 
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 
 Ja, till viss del genom:
-- Koncept utbildningslokaler 1.6
+\- Koncept utbildningslokaler 1.6
 
-- Koncept utemiljö
-- Koncept kök och matsal
+\- Koncept utemiljö
+\- Koncept kök och matsal
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER-OBS  MÅSTE BESVARAS
 Utökat behov av inomhusyta anpassad grundskola:
@@ -2741,9 +2741,9 @@ som går anpassad grundskola även på skolloven. Utemiljöer kan nyttjas av all
 verksamhetstid.
 3 (4)
 SAMBAND
-- Skola och anpassad grundskola är integrerade verksamheter.
+\- Skola och anpassad grundskola är integrerade verksamheter.
 
-- Gällande krav för anpassad grundskola behöver efterlevas.
+\- Gällande krav för anpassad grundskola behöver efterlevas.
 
 SAMORDNINGSBEHOV
 Förvaltningen för Service – fastighet och lokalplanering.
@@ -2758,7 +2758,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Idag bedrivs anpassad grundskola på Kollaskolan (NYKO 1). I så stor utsträckning som möjligt vill vi
 att AGR bedrivs på denna plats.
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 83 -->
 
@@ -2838,9 +2838,9 @@ placeringar över områdesgränserna inom Hede-Björkris.
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 Om omställningen inte genomförs blir konsekvenserna följande:
 
--  Befintlig kapacitet (100 platser) räcker inte för det ökade behovet, vilket leder till brist på
+\-  Befintlig kapacitet (100 platser) räcker inte för det ökade behovet, vilket leder till brist på
 förskoleplatser i området.
--  Försämrad möjlighet att erbjuda en likvärdig och tillgänglig barnomsorg för familjer i
+\-  Försämrad möjlighet att erbjuda en likvärdig och tillgänglig barnomsorg för familjer i
 området.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
@@ -2876,7 +2876,7 @@ verksamhetsfunktionen.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 Ja, NYKO 1 och specifikt Björkris/Skårby.
-_______________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 87 -->
 
@@ -2910,7 +2910,7 @@ utökning av matsal i A- och B-huset samt tillskapandet av ny musiksal och utök
 i Portalen.
 Under 2025 planeras ombyggnation av de tre så kallade Plus-husen med fokus på att säkerställa god
 inomhusmiljö och förbättrad arbetsmiljö. Dessa arbeten beräknas pågå mellan januari och december
-2026. Från höstterminen 2028 kommer Åsaskolan att organiseras som en 4-9 skola med en oförändrad
+2026\. Från höstterminen 2028 kommer Åsaskolan att organiseras som en 4-9 skola med en oförändrad
 elevkapacitet om 750 elever. De yngre barnen i årskurserna F-3 kommer då i stället att gå på den
 nybyggda Ölmevallaskolan.
 
@@ -3024,7 +3024,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 6 (Åsa)
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 91 -->
 
@@ -3098,21 +3098,21 @@ VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 
 För eleverna
 
-- Moderniserade och funktionella lokaler skapar bättre förutsättningar för lärande och trivsel.
-- Lokalerna stödjer varierade och moderna pedagogiska arbetssätt.
-- Ökad säkerhet och tillgänglighet för alla elever.
+\- Moderniserade och funktionella lokaler skapar bättre förutsättningar för lärande och trivsel.
+\- Lokalerna stödjer varierade och moderna pedagogiska arbetssätt.
+\- Ökad säkerhet och tillgänglighet för alla elever.
 
 För personalen
 
-- Förbättrad arbetsmiljö stärker möjligheterna till ett hållbart yrkesutövande.
+\- Förbättrad arbetsmiljö stärker möjligheterna till ett hållbart yrkesutövande.
 
 För skolorganisationen och resurserna
-- Samlad bild av lokalernas status möjliggör effektivare prioriteringar och resursanvändning.
+\- Samlad bild av lokalernas status möjliggör effektivare prioriteringar och resursanvändning.
 
-- Långsiktig hållbarhet genom planerat underhåll och modernisering av byggnaderna.
+\- Långsiktig hållbarhet genom planerat underhåll och modernisering av byggnaderna.
 
 För området och kommunen
-- Uppgraderade skolmiljöer kan öka områdets attraktivitet för barnfamiljer.
+\- Uppgraderade skolmiljöer kan öka områdets attraktivitet för barnfamiljer.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 
@@ -3124,11 +3124,11 @@ Mindre ändamålsenliga utbildningslokaler kan åtgärdas och/eller avvecklas.
 
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Ja, genom:
-- Koncept utbildningslokaler 1.6
+\- Koncept utbildningslokaler 1.6
 
-- Koncept utemiljö
-- Koncept kök och matsalar
-- Koncept idrottshallar
+\- Koncept utemiljö
+\- Koncept kök och matsalar
+\- Koncept idrottshallar
 
 <!-- sida 93 -->
 
@@ -3140,7 +3140,7 @@ I dagsläget bedöms behovet av utbildningsplatser minska. En lämplig minskning
 om cirka 260 utbildningsplatser. Hur denna minskning bäst kan fördelas och placeras får den fortsatta
 utredningen utvisa.
 En utredning som ska redovisas för nämnden för Förskola & Grundskola pågår och är planerad till Q4
-2026.
+2026\.
 
 NYTTJANDETID/NYTTJANDEGRAD
 
@@ -3163,7 +3163,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 4 (Onsala)
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 94 -->
 
@@ -3449,7 +3449,7 @@ anpassningen av lokalbeståndet har Gamla Kullaviksskolan sagts upp och verksamh
 Kullaviksskolan.
 I två områden finns behov av nya skolor. Förprojektering av Liljan skola och Ölmevallaskolan har
 genomförts under året. Projekten går nu in i projekteringsskede med planerad byggstart hösten
-2028. För Ölmevallaskolan innebär det även en ny lokalisering.
+2028\. För Ölmevallaskolan innebär det även en ny lokalisering.
 
 Vid Toråsskolan har en förstudie avseende om- och nybyggnation genomförts. Kapaciteten kommer
 
@@ -3463,7 +3463,7 @@ i Åsa, där hela ventilationssystemet ses över och ersätts med ett nytt.
 Anvisning
 
 Nämndens lokalbehov för grundskolor uttrycks i antal elever. Lokalbehoven avser åren 2027-
-2031. År 2026 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
+2031\. År 2026 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
 behov för 2026 kan inte tas upp här.
 
 Lokalbehov 2027-2031 utblicksår 2032-2036 9
@@ -3608,11 +3608,11 @@ Förslag till beslut
 
 Nämnden för Förskola & Grundskola beslutar:
 
-- att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
-- att godkänna behovsbeskrivning förskoleplatser i Björkris.
+\- att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
+\- att godkänna behovsbeskrivning förskoleplatser i Björkris.
 
-- att godkänna behovsbeskrivning Onsala skolor.
-- att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
+\- att godkänna behovsbeskrivning Onsala skolor.
+\- att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
 
 Sammanfattning av ärendet
 Varje år beslutar nämnden om sina lokalbehov samt lämnar in behovsbeskrivningar
@@ -3680,7 +3680,7 @@ Koncept utbildningslokaler 1.6
 Förslag till beslut i nämnden för Förskola & Grundskola
 
 Nämnden för Förskola & Grundskola beslutar:
--  att ställa sig bakom konceptets Del 1 Riktlinjer Koncept utbildningslokaler.
+\-  att ställa sig bakom konceptets Del 1 Riktlinjer Koncept utbildningslokaler.
 
 Beskrivning av ärendet
 Koncept utbildningslokaler har tagits fram i samverkan mellan förvaltningen för Service och
@@ -5300,10 +5300,10 @@ Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 KUNGSBACKA  KOMMUN
 3 (3)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -5329,7 +5329,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | 2025-08-26 09:24
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -5396,7 +5396,7 @@ vi nyttjar också skogen runt omkring. Det finns
 en innegård mellan husen som vi använder oss
 av ibland på eftermiddagarna.
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -5449,7 +5449,7 @@ tillsynsansvariga på kommunen.
 
 Därför skiljer sig inte antalet barn nu i ansökan från tidigare.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -5708,10 +5708,10 @@ tillgängliga jämförelsetal bedöms detta vara skäligt utifrån de nuvarande 
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1–4 bedöms lämpliga. Vid
@@ -5778,7 +5778,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #206237 | Inskickat av: EMILIE STEEN | 2025-06-09 16:07
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -5822,7 +5822,7 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 Ca 245                            Ca 1 600
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -5862,7 +5862,7 @@ Ang. övrig personal så består den av tre utbildade montessoripedagoger (2,8) 
 Ventilation, värmepanna m.m. finns i källare och på vind som är ytor utöver de som redovisats
 på ritningarna. Därtill finns ett förråd för vagnar m.m. i annan byggnad.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 

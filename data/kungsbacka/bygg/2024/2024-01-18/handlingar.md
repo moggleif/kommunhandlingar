@@ -145,46 +145,46 @@ i större utsträckning.
 
 Anmälan om personuppgiftsincident, 13 varav 0 anmälda till IMY:
 
-- 4 beror på tekniska fel vid grannehöranden och vid beställning av kartunderlag då fel personer
+\- 4 beror på tekniska fel vid grannehöranden och vid beställning av kartunderlag då fel personer
 fått ta del av personuppgifter.
 
-- 2 beror på den mänskliga faktorn då känsliga personuppgifter/sekretessbelagd information
+\- 2 beror på den mänskliga faktorn då känsliga personuppgifter/sekretessbelagd information
 skickats ut vid grannehörande.
 
 Kungsbacka kommun            RAPPORT                            3
 
 <!-- sida 5 -->
 
-- 2 beror på den mänskliga faktorn då för många behörigheter till några av Geodatas mappar på
+\- 2 beror på den mänskliga faktorn då för många behörigheter till några av Geodatas mappar på
 kommunens interna servrar.
 
-- 1 beror på den mänskliga faktorn då ett brev till HR med känsliga personuppgifter öppnades av
+\- 1 beror på den mänskliga faktorn då ett brev till HR med känsliga personuppgifter öppnades av
 misstag av fel anställd.
 
-- 2 beror på den mänskliga faktorn då en medarbetare har skickat känsliga personuppgifter via e-
+\- 2 beror på den mänskliga faktorn då en medarbetare har skickat känsliga personuppgifter via e-
 post till annan medarbetare.
 
-- 1 av beror på den mänskliga faktorn då en medarbetare signerat ett utskickat e-postbrev med fel
+\- 1 av beror på den mänskliga faktorn då en medarbetare signerat ett utskickat e-postbrev med fel
 handläggare till en fastighetsägare.
 
-- 1 av dessa beror på att otillräcklig information angående uttag om medarbetarnas prestation från
+\- 1 av dessa beror på att otillräcklig information angående uttag om medarbetarnas prestation från
 verksamhetssystem inte nått alla medarbetare.
 
 Rättigheter:
 
-- Anmälan om personuppgiftsincident: 13 varav 0 anmälda till IMY.
+\- Anmälan om personuppgiftsincident: 13 varav 0 anmälda till IMY.
 
-- Begäran om registerutdrag: 4.
+\- Begäran om registerutdrag: 4.
 
-- Begäran om radering: 0.
+\- Begäran om radering: 0.
 
-- Ansökan om rätt till begränsning: 0.
+\- Ansökan om rätt till begränsning: 0.
 
-- Ansökan om rätt till dataportabilitet: 0.
+\- Ansökan om rätt till dataportabilitet: 0.
 
-- Ansökan om att få felaktiga personuppgifter rättade: 0.
+\- Ansökan om att få felaktiga personuppgifter rättade: 0.
 
-- Begäran om återkallande av samtycke till behandling: 0.
+\- Begäran om återkallande av samtycke till behandling: 0.
 
 1.5 Tröskelanalyser och konsekvensbedömning
 Översyn och uppdatering av tröskelanalyser och informationstexter för tidigare och nya e-tjänster
@@ -205,13 +205,13 @@ Kungsbacka kommun            RAPPORT                            4
 
 I dataskyddsarbetet för år 2024 planerar förvaltningen att fortsätta arbeta för ett fullgott dataskydd
 genom att:
--  Fastställande av behandlingsregister.
+\-  Fastställande av behandlingsregister.
 
--  Förtydliga rollerna i dataskyddsteamet.
--  Revidering av rutin för hantering av personuppgiftsincidenter.
+\-  Förtydliga rollerna i dataskyddsteamet.
+\-  Revidering av rutin för hantering av personuppgiftsincidenter.
 
--  Intern förståelse för personuppgiftsincidenter.
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
+\-  Intern förståelse för personuppgiftsincidenter.
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
 
 Kungsbacka kommun            RAPPORT                            5
 
@@ -320,7 +320,7 @@ Underlag till kommunbudget 2025, plan 2026-2027
 
 Förslag till beslut i byggnadsnämnden
 Byggnadsnämnden godkänner Underlag till kommunbudget 2025, plan 2026-2027, daterad 2023-11-
-23.
+23\.
 
 Sammanfattning av ärendet
 Varje nämnd ska inkomma med underlag till kommunbudget 2025, plan 2026–2027 till kommunens
@@ -816,7 +816,7 @@ Godkännande av deltagande i aktivitet
 Förslag till beslut i byggnadsnämnden
 
 Byggnadsnämnden godkänner att ledamöter och ersättare deltar i aktivitet: Policylabb den 22 januari
-2024.
+2024\.
 
 Sammanfattning av ärendet
 

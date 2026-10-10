@@ -656,7 +656,7 @@ Saknas
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 I anslutning till Kungsbacka stad för närheten till skola.
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 18 -->
 
@@ -1245,22 +1245,22 @@ Nämndens omvärldsanalys
 Många av de trender som identifierats är inte unika för Individ & Familjeomsorg utan påverkar Kungsbacka och
 hela det offentliga Sverige. Exempel på sådant som bedöms vara av extra stor vikt är:
 
-- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
+\- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
 vissa yrkesgrupper är svårare att rekrytera än andra. Sveriges kommuner står inför omfattade utmaningar bland
 annat kopplat till välfärdens långsiktiga finansiering, kompetensförsörjning och ökade krav på offentlig service.
 Genom att nyttja kompetenser och resurser effektivt på hela förvaltningen och utveckla nya arbetssätt och
 digitala lösningar möjliggörs medarbetares tid och omsorg där den behövs som mest.
-- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
+\- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
 säkerställa att det finns medarbetare tillgängliga där de gör mest nytta. Digitala lösningar kan också bidra till en
 ökad tillgänglighet för Kungsbackas invånare och en ökad självständighet för förvaltningens brukare. Samtidigt
 finns en risk att vi skapar ett "digitalt utanförskap" då vi inför nya arbetssätt och tekniker som inte alla har
 tillgång till eller förmåga att använda. Detta behöver vi ta hänsyn till när vi utvecklar nya digitala arbetssätt.
-- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
+\- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
 mer komplex problematik vilket ställer krav på delvis annan kompetens. Psykisk ohälsa, samsjuklighet och unga
 med NPF ökar. De kriminella gängen kommer närmre Kungsbacka och tillgängligheten till droger ökar. Det har
 blivit tydligt att vi behöver utveckla metoder och samarbeten med andra aktörer för att bli framgångsrika.
 
-- ny lagstiftning ställer stora krav på omställning av vår verksamhet. Den nya socialtjänstlagen trädde i kraft 1
+\- ny lagstiftning ställer stora krav på omställning av vår verksamhet. Den nya socialtjänstlagen trädde i kraft 1
 juli 2025 vilket innebär att vi har påbörjat arbetet för att ställa om till en förebyggande och lätt tillgänglig
 socialtjänst. Arbetet kommer att fortsätta under kommande år.
 Utöver ny socialtjänstlag pågår flera utredningar som kommer att ha bäring på nämndens uppdrag och
@@ -1328,10 +1328,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 11
 
@@ -1411,11 +1411,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 13
 
@@ -1443,8 +1443,8 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 14
@@ -1481,20 +1481,20 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 6.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Målsättnin
 Indikator                        Utfall 2023 Utfall 2024 Utfall 2025
@@ -1940,8 +1940,8 @@ Medel placeras förvaltningscentralt för arbete mot välfärdsbrottsbrottslighe
 arbete med kommunikation och externa relationer. Medel placeras också centralt för att möjliggöra satsningar
 under året utifrån en behovsanalys som kommer att genomföras. Medlen fördelas då efter beslut i nämnd.
 Nämnden har sökt en miljon per år av kommunstyrelsens pott för att motverka psykisk ohälsa. Det görs även för
-2026. Det har ordnats olika aktiviteter för boende på BMSS. Nya brukare kommer 2026 få del av detta arbete.
-Nämnden avsätter därför 200 000 kr extra så den sammanlagda satsningen för att motverka psykisk ohälsa blir *
+2026\. Det har ordnats olika aktiviteter för boende på BMSS. Nya brukare kommer 2026 få del av detta arbete.
+Nämnden avsätter därför 200 000 kr extra så den sammanlagda satsningen för att motverka psykisk ohälsa blir \*
 1 200 000 kr.
 I budgeten för Bostad med särskild service är 200 000 kronor reserverade för aktivitet som samverkas
 tillsammans med brukarorganisationerna.
@@ -2131,14 +2131,14 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom Individ & familjeomsorg inom
-1. personlig assistans för individer som har ett identifierat behov
+1\. personlig assistans för individer som har ett identifierat behov
 
 och
-2. personlig assistans och bostad med särskild service för situationer då brukare ska företa resor
+2\. personlig assistans och bostad med särskild service för situationer då brukare ska företa resor
 som rekreation eller inom sitt värv
 
 och
-3. läger- och korttidsverksamheten för barn och unga
+3\. läger- och korttidsverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 februari 2026–31 januari 2027.
 
@@ -2176,14 +2176,14 @@ KUNGSBACKA  KOMMUN
 
 Avsikten med att bevilja arbetspass om upp till 24 timmar för
 
-1.   personlig assistans för individer som har ett identifierat behov
+1\.   personlig assistans för individer som har ett identifierat behov
 
 och
-2.   personlig assistans och bostad med särskild service för situationer då brukare ska företa resor
+2\.   personlig assistans och bostad med särskild service för situationer då brukare ska företa resor
 som rekreation eller inom sitt värv
 
 och
-3.   läger- och korttidsverksamheten för barn och unga
+3\.   läger- och korttidsverksamheten för barn och unga
 
 är att säkerställa och tillgodose den enskildes rätt till självbestämmande och trygghet i linje med lagen
 om stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
@@ -2569,7 +2569,7 @@ Följande delegeringsbeslut anmäls till nämnden.
 Utskottet för Individ & Familjeomsorg
 
 Beslut förtecknade i protokoll enligt följande sammanträdesdatum: Den 10, 16, 18 och 24 september
-2025.
+2025\.
 
 Delegationsrapport enligt listor (Individ & Familjeomsorgen och funktionsstödsenheten)
 

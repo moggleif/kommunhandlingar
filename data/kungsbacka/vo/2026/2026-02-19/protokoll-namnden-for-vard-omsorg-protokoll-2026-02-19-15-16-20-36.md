@@ -1259,7 +1259,7 @@ Diarienummer VO-2026-00007
 Diarienummer VO-2025-00011
 
 Avtal
--
+\-
 
 Övrigt
 
@@ -1330,7 +1330,7 @@ Diarienummer VO-2025–00484. (Socialstyrelsen) Dags igen - att förbereda för
 äldreundersökningarna 2026.
 
 Diarienummer VO-2026–00045. (Socialstyrelsen) Komplettering Äldreomsorgslyftet
-- Sveriges återhämtningsplan 2020–2023.
+\- Sveriges återhämtningsplan 2020–2023.
 Diarienummer VO-2026–00024. (Inspektionen för Vård & Omsorg) Begäran om
 yttrande avseende ej verkställt beslut – Växelvård enligt socialtjänstlagen.
 
@@ -1378,7 +1378,7 @@ Hjälpmedel) GNHH § 3 - Internkontrollplan 2026.
 
 Diarienummer VO-2023–00283. (Gemensam nämnd för Hemsjukvård och
 Hjälpmedel) GNHH § 4 - Årsredovisning inklusive uppföljning internkontrollplan
-2025.
+2025\.
 Diarienummer VO-2026–00051. (Dataskyddsombudet) Dataskyddsombudets
 årsrapport 2025.
 

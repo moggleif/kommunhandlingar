@@ -117,13 +117,13 @@ enlighet med planen. Resultatet har sammanställts i föreliggande rapport. Utif
 Gymnasium & Arbetsmarknad är tillräcklig och utformad så att en rimlig grad
 säkerhet uppnås när det gäller:
 
-* efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
-* ändamålsenlig och kostnadseffektiv verksamhet
+\* efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
+\* ändamålsenlig och kostnadseffektiv verksamhet
 
-* tillförlitlig finansiell rapportering och information om verksamheten
+\* tillförlitlig finansiell rapportering och information om verksamheten
 
-* skydd mot förluster eller förstörelse av kommunens tillgångar
-* eliminering eller upptäckande av allvarliga fel.
+\* skydd mot förluster eller förstörelse av kommunens tillgångar
+\* eliminering eller upptäckande av allvarliga fel.
 
 Några av de genomförda granskningarna har resulterat i att åtgärder vidtas för att
 rätta till brister och minska risken för felaktigheter framöver. Övervägande del av

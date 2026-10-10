@@ -60,7 +60,7 @@ Rebecka Pettersson, verksamhetschef
 Isa Urün, verksamhetschef
 
 Personalföreträdare           Övriga
--
+\-
 
 Plats och tid för justering Digital justering
 
@@ -235,21 +235,21 @@ Ermin Škorić (S) och Maj-Britt Rane Andersson (S) har den 24 september 2023
 inkommit med en motion om att nämnden för Vård & Omsorg och nämnden för
 Individ & Familjeomsorg ges i uppdrag att utveckla en medarbetarundersökning
 utifrån de fem övergripande målen som kommunfullmäktige antog den 6 oktober
-2020.
+2020\.
 
 I motionen framförs att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål.
 
 Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
+2\. Sjukfrånvaron ska minska.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
 dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
 arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.

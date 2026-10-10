@@ -515,11 +515,11 @@ för valnämnden, överförmyndare i samverkan och revisionen, arbetar aktivt f�
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa
 utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få
 livet att fungera
 
 Sammanfattning av nämndens arbete med målet
@@ -588,11 +588,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
 och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 8
 
@@ -620,7 +620,7 @@ lära sig hur Kungsbacka har jobbat, och arbetssättet har också uppmärksammat
 Klimatpåverkan från livsmedel minskar
 
 Kungsbackas långsiktiga mål för klimatpåverkan från livsmedel är maximalt 1,0 kg koldioxid per kilo livsmedel
-2030. Under 2024 hade vi en tillfällig uppgång (perioden januari till september var 1,82), men under
+2030\. Under 2024 hade vi en tillfällig uppgång (perioden januari till september var 1,82), men under
 motsvarande period 2025 har vi hämtat hem det och landar på 1,54. Det är en följd av att man har lagt om
 matsedeln för att få en budget i balans, där maten har haft lägre klimatpåverkan.
 Utbyte av köldmedier med stor klimatpåverkan fortsätter, och målsättningen är 0 år 2030. Under 2025 är
@@ -702,12 +702,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %      73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %      86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 
 10
 
@@ -736,7 +736,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86     1,79      1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115      151
@@ -767,8 +767,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och
 företag genom samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -837,8 +837,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Fler vägar in i arbetslivet och plats för lärande
@@ -903,11 +903,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
 medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
 bemötta i kontakt med kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
 medarbetare och ledare.
 
 Sammanfattning av nämndens arbete med målet
@@ -1123,7 +1123,7 @@ Kungsbacka Live är ett fysiskt rum i Kungsmässan där vi formar framtiden till
 för samtal, workshops, debatt och testande av idéer. Rummet har olika teman som avlöser varandra,
 som utgår från de fem megatrenderna i världen (befolkning, klimat, värderingar, teknik och
 globalisering). Från maj 2025 har temat varit demokrati. I november var det invigning för ett nytt tema
-- Trygghet och frihet, med fokus på civil beredskap och mänskliga rättigheter.
+\- Trygghet och frihet, med fokus på civil beredskap och mänskliga rättigheter.
 
 18
 
@@ -1543,7 +1543,7 @@ Ackumulerat
 Nyckeltal     Mars      Juli      December            Målvärde
 utfall
 Fastigheter, R12
-- Personalkostnad
+\- Personalkostnad
 12,2 kr/kvm 12,5 kr/kvm 13 kr/kvm       12 kr/kvm
 per kvadratmeter
 (kvm)
@@ -1559,12 +1559,12 @@ Ackumulerat
 Nyckeltal     Mars      Juli      December            Målvärde
 utfall
 Måltider, R12
-- Personalkostnadens
+\- Personalkostnadens
 55,7 %    55 %      54,1 %              55,5 %
 andel av
 omsättningen
 Lokalvård, R12
-- Personalkostnad
+\- Personalkostnad
 19,6 kr/kvm 19,7 kr/kvm 19,3 kr/kvm     19 kr/kvm
 per kvadratmeter
 (kvm)
@@ -1803,7 +1803,7 @@ jämförelse med förra
 året.
 Solcellsproduktion
 3 831 kw  4 016 kw  4 250 kw  4 250 kW  4 354 kw
-- Installerad effekt
+\- Installerad effekt
 Fossiloberoende
 97,1 %    97,2 %    97,5 %    97,5 %    100 %
 fordon (Fastigheter)
@@ -2160,7 +2160,7 @@ Ekonomi
 Services gemensamma ekonomifunktion levererar i stort enligt uppsatta mål och verksamhetsplan. Inflationen
 har stabiliserats, men behovet av att stötta verksamheterna med analyser och åtgärder kopplade till högre
 kostnadsnivåer kvarstår. Samtidigt har också förutsättningarna för offentlig sektor förändrats de senaste åren
-- från en relativt stabil omvärld till ett mer föränderligt läge. Därför arbetar ekonomifunktionen med scenarier
+\- från en relativt stabil omvärld till ett mer föränderligt läge. Därför arbetar ekonomifunktionen med scenarier
 för hur förändringar i omvärlden kan påverka verksamheterna, för att förstå och snabbt kunna agera när
 förutsättningarna skiftar. När åtgärder genomförs beräknas nyttan och effekthemtagningen av insatserna. Detta
 arbete har stärkts under året och behöver fortsätta i samma riktning för att på bästa sätt stödja chefer och
@@ -2560,7 +2560,7 @@ mer information om vilka åtgärder som ger bäst effekt. Totalt för dessa sats
 +8,4 mkr.
 
 Fastighet hanterar en betydande kostnadspost i form av energikostnader, med en budget på totalt 81,9 mkr för år
-2025. Avvikelsen uppgår till totalt -3,0 mkr och förklaras främst av ökade elkostnader som i sin tur mest
+2025\. Avvikelsen uppgår till totalt -3,0 mkr och förklaras främst av ökade elkostnader som i sin tur mest
 förklaras av ökade elhandelskostnader (-4,2 mkr), släpande fakturering från tidigare år samt elanläggningar som
 inte ingick i ursprunglig budget (-1,6 mkr). Samtidigt har lägre elförbrukning än budgeterat en positiv avvikelse
 på cirka +0,5 mkr. Det mildare vädret förklarar en del men energibesparande åtgärder i ishallarna har också
@@ -4040,9 +4040,9 @@ Granskningsaktiviteter: Granskning av cybersäkerhetskollen
 Verktyget Cybersäkerhetskollen har flera olika frågebatterier för att säkra samtliga delar i ett systematiskt
 informationssäkerhetsarbete. De delar vi har fokuserat på i verktyget är:
 
-- Infosäkkollen - Hur organisationen arbetar systematiskt med till exempel rutiner, riktlinjer, utbildningar etc.
+\- Infosäkkollen - Hur organisationen arbetar systematiskt med till exempel rutiner, riktlinjer, utbildningar etc.
 mot det som anses som "best practice" och i vissa fall lagkrav.
-- IT-säkkollen - Hur organisationen lever upp till "best practice" och, i vissa fall, lagkrav på teknisk säkerhet.
+\- IT-säkkollen - Hur organisationen lever upp till "best practice" och, i vissa fall, lagkrav på teknisk säkerhet.
 
 Verktyget är idag baserat på kraven i standarden för informationssäkerhet ISO/IEC 27001, men kommer
 troligtvis att anpassas efter kraven för Cybersäkerhetslagen/NIS2 framöver. Dessa är idag till stor del
@@ -4082,16 +4082,16 @@ Granskningsaktiviteter: Granskning och uppföljning
 
 Under 2025 har vi genomfört följande informations- och utbildningsaktiviteter:
 
-- Samtliga chefer har, efter beslut från förvaltningsledningen, informerats genom chefsbrevet om att alla
+\- Samtliga chefer har, efter beslut från förvaltningsledningen, informerats genom chefsbrevet om att alla
 medarbetare inom Service ska genomgå en digital utbildning för att motverka korruption. Utbildningen har
 tagits fram av Sveriges kommuner och regioner (SKR) och ska ge kunskap om vad korruption är, hur den kan
 uppstå och hur medarbetare ska agera vid misstanke om eller upptäckt av korruption. Utbildningen finns även
 tillgänglig i utbildningsportalen och är en del av utbildningen Introduktion för nyanställda. Utbildningen har
 genomförts av samtliga medarbetare. Inför APT fick medarbetare en länk till utbildningen för att sedan
 gemensamt diskutera dilemmafrågor under APT.
-- Medarbetare har fått information om systemstöd för att rapportera incidenter, bland annat med en direkt länk
+\- Medarbetare har fått information om systemstöd för att rapportera incidenter, bland annat med en direkt länk
 till rapporteringssystemet KIA på Insidan.
-- Temat på årets chefsdag i kommunen var välfärdsbrott.
+\- Temat på årets chefsdag i kommunen var välfärdsbrott.
 
 Vidare har förvaltningen under året identifierat risker kopplade till korruption, särskilt inom inköp, utbetalningar
 och rekrytering. Riskerna är identifierade i enlighet med förvaltningens process för riskbedömning.
@@ -4105,7 +4105,7 @@ Inköp är nu representerade i lokala BRÅ, gruppen för välfärdsbrottslighet,
 också i en arbetsgrupp, i ekonomiledarforum, för att gemensamt arbeta med frågorna kring motverkande av
 välfärdsbrottslighet. Inköp har genomfört utbildningar för respektive nämnd under hösten 2025 på samma tema.
 Arbetet med nya mallar och rutiner för detta förebyggande arbete förväntas vara klart under första halvåret
-2026.
+2026\.
 
 10
 
@@ -4359,7 +4359,7 @@ kommunen hyr in. Räddningstjänsten har också påpekat brister på brandlarm p
 Räddningstjänstens bedömning, överklagade vi Räddningstjänstens beslut i denna del. Räddningstjänsten har
 därefter ändrat sitt beslut och gett oss rätt i vår bedömning. I övrigt har vi börjat arbeta med att åtgärda bristerna
 tillsammans med verksamheterna och externa fastighetsägare. Åtgärderna beräknas vara färdiga i början av
-2026.
+2026\.
 
 5.4 Resultat av granskning och uppföljning av privata utförare
 Nämndernas ansvar för tillräcklig intern kontroll över den egna verksamheten enligt reglementet gäller också
@@ -4389,7 +4389,7 @@ uppföljning regelbundet, både genom platsbesök, månatliga nyckeltal och ordi
 dokumenteras. Måltider har även dialog med Vård & Omsorg avseende utföraren för att ta in eventuella
 synpunkter. Även transporter av tillagade måltider mellan köken (tillagningskök och mottagningskök) utförs av
 privata utförare. Samordnad varudistribution och Måltider ingår i ett gemensamt avtal sedan första halvan av år
-2024. Måltids totala utfall avseende privata utförare ligger på liknande nivåer som föregående år.
+2024\. Måltids totala utfall avseende privata utförare ligger på liknande nivåer som föregående år.
 Lokalvård
 
 Lokalvård övergick under år 2024 från två privata utförare till en privat utförare avseende städtjänster.
@@ -4933,11 +4933,11 @@ dignitet ge vika för den med högre dignitet.
 
 Om regler eller principer står i konflikt med varandra gäller följande ordning i dignitet:
 
-1. Lagar och andra författningar.
+1\. Lagar och andra författningar.
 
-2. Etiska principer och fackmässighet.
+2\. Etiska principer och fackmässighet.
 
-3. Kommunens organisatoriska värden.
+3\. Kommunens organisatoriska värden.
 
 Kungsbacka kommun              Riktlinjer för inköp            2 (10)
 
@@ -5586,7 +5586,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_\_\_\_\_
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -5640,7 +5640,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-____
+\_\_\_\_
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -5671,12 +5671,12 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas verksamhet,
 jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 § punkt 1 i dessa
@@ -5857,15 +5857,15 @@ Vistelseförbud för hund
 21 §
 
 Hund får inte vistas på
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa föreskrifter jämställs med offentlig
 plats
 
-2.   Tingbergsvallen i Kungsbacka
+2\.   Tingbergsvallen i Kungsbacka
 
-3.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
+3\.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller agilitybana.
 
 Överträdelse av lokal ordningsföreskrift
@@ -5971,7 +5971,7 @@ Smarholmen
 
 Gottskär Utholmen
 
-_____
+\_\_\_\_\_
 
 2 (2)
 
@@ -6031,7 +6031,7 @@ Bestämmelser finns i Transportstyrelsens föreskrift TSFS 2013:77.
 
 Se www.transportstyrelsen.se
 
-_____
+\_\_\_\_\_
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
 
@@ -6073,7 +6073,7 @@ Länsstyrelsens beslut 2020-03-02, dnr 213-1348-2020
 
 SAKEN
 Tillämpning av ordningslagen
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -6083,7 +6083,7 @@ Förvaltningsrätten upphäver Länsstyrelsen i Hallands läns beslut beträffan
 fastställer kommunens beslut i denna del. Till följd därav utgår inte heller
 hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
@@ -6380,11 +6380,11 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -6462,7 +6462,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6558,7 +6558,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -6702,13 +6702,13 @@ LÄNSSTYRELSEN                   BESLUT                 3 (7)
 
 2020-03-02     213-1348-2020
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
 plats och som har upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
 
 de har upplåtits för detta ändamål och är tillgängliga för allmänheten, samt
-4. andra landområden och utrymmen inomhus som stadigvarande används för all-
+4\. andra landområden och utrymmen inomhus som stadigvarande används för all-
 män trafik.
 – Av andra stycket framgår att regeringen eller, efter regeringens bemyndigande, en
 kommun får föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, bad-
@@ -6960,8 +6960,8 @@ Robert Bärwald
 Detta beslut har godkänts digitalt och saknar därför namnunderskrifter.
 
 Bilaga
-1. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
-2. Bilaga 5, 2020-01-21
+1\. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
+2\. Bilaga 5, 2020-01-21
 
 Kopia
 Polismyndigheten, Lokalpolisområde Kungsbacka, registrator.vast@polisen.se
@@ -7008,52 +7008,52 @@ Kungsbacka kommun » 0300-83 40 00 » infoQQkungsbacka.se » kungsbacka.se
 
 Innehåll
 
-1-2 $$ Föreskrifternas innehåll och tillämpningsområde
-3 $ Områden som jämställs med offentlig plats
+1-2 \$\$ Föreskrifternas innehåll och tillämpningsområde
+3 \$ Områden som jämställs med offentlig plats
 
-4 $ Kommunens yttrande
+4 \$ Kommunens yttrande
 
-5 $ Lasta varor m.m.
+5 \$ Lasta varor m.m.
 
-6 $ Schakta, tippa och utföra annat liknande arbete
+6 \$ Schakta, tippa och utföra annat liknande arbete
 
 7 8 Markiser, flaggor, skyltar
 
 8 & Träd, buskar, häckar och andra hinder
 
-9 $ Containrar och andra anordningar
+9 \$ Containrar och andra anordningar
 
-10 $ Affischer, flyttbara skyltar, anslag och marschaller
-11 $ Störande buller
+10 \$ Affischer, flyttbara skyltar, anslag och marschaller
+11 \$ Störande buller
 
-12 $ Högtalarutsändning
+12 \$ Högtalarutsändning
 
-13 $ Fyrverkerier och andra pyrotekniska varor
+13 \$ Fyrverkerier och andra pyrotekniska varor
 
-14 $ Insamling av pengar och gatumusik
+14 \$ Insamling av pengar och gatumusik
 
-15 $ Förbud mot förtäring av alkohol
+15 \$ Förbud mot förtäring av alkohol
 
 16 8 Förbud mot tillfällig försäljning
 
 17 8 Förbud mot camping
 
-18 $ Hund
+18 \$ Hund
 
-19 $ Skyldighet att hålla hund kopplad
+19 \$ Skyldighet att hålla hund kopplad
 
-20 $ Skyldighet att plocka upp föroreningar efter hund
-21 $ Vistelseförbud för hund
+20 \$ Skyldighet att plocka upp föroreningar efter hund
+21 \$ Vistelseförbud för hund
 
-22 $ Överträdelse av lokal ordningsföreskrift
+22 \$ Överträdelse av lokal ordningsföreskrift
 
-Bilaga 1 — Karta till 13 $
+Bilaga 1 — Karta till 13 \$
 
 Bilaga 2 — Karta över område med förbud mot tillfällig (ambulerande) försäljning samt förbud mot
 
 alkoholförtäring
 
-Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 $ i dessa föreskrifter
+Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 \$ i dessa föreskrifter
 
 Bilaga 4 — Information om annan lagstiftning
 
@@ -7071,12 +7071,12 @@ Grundläggande bestämmelser om allmän ordning och säkerhet på offentlig plat
 (1993:1617). Dessa lokala ordningsföreskrifter innehåller ytterligare bestämmelser om hur den allmänna
 ordningen i Kungsbacka kommun ska upprätthållas.
 
-Bestämmelserna i 13 $ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
+Bestämmelserna i 13 \$ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
 användning av pyrotekniska varor.
 
 28
 
-Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 $ första
+Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 \$ första
 stycket punkterna 1- 4 i ordningslagen, om inget annat anges.
 
 För område som kommunen har upplåtit till torghandel gäller också kommunens lokala föreskrifter om
@@ -7089,33 +7089,33 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
 
 4 elkn NO a nlan ot område e ot h SS
 
-3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3$ 21 $ punkt I c och
+3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3\$ 21 \$ punkt I c och
 punkt 2
 
 So Idr I liot bilaga 3 vid tillämpni 19-20-88
 
-7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 $$
+7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 \$\$
 
-8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 $ och 21 8 punkt 3
+8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 \$ och 21 8 punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet enligt första-stycketpunkt4-5-eeh som hör till en
 
 förskola eller skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid
-tillämpning av +9-20-3$ 21 $ punkt I i dessa föreskrifter.
+tillämpning av +9-20-3\$ 21 \$ punkt I i dessa föreskrifter.
 
 Kommunens yttrande
 
 48
 
-Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 $) sätta upp affischer
-m.m. (10 $), för störande buller (11 $), att använda högtalare (12 $) eller för att använda pyrotekniska varor
-(13 $) bör kommunen ges tillfälle att yttra sig.
+Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 \$) sätta upp affischer
+m.m. (10 \$), för störande buller (11 \$), att använda högtalare (12 \$) eller för att använda pyrotekniska varor
+(13 \$) bör kommunen ges tillfälle att yttra sig.
 
 Kungsbacka kommun Lokala ordningsföreskrifter Sida 3 av 7
 
@@ -7240,7 +7240,7 @@ Förbud mot tillfällig försäljning
 
 Tillfällig försäljning är förbjudet inom markerat område som framgår av bilaga 2. Med tillfällig
 försäljning avses sådan gatuförsäljning samt demonstration av varor som tar offentlig plats i
-anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 $
+anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 \$
 ordningslagen.
 
 Tillstånd krävs dock inte för försäljning av tryckta skrifter samt välgörenhets- och
@@ -7257,10 +7257,10 @@ Hund
 Den som äger en hund, den som har tagit emot en hund för underhåll eller nyttjande eller den som
 tillfälligt vårdar en hund är skyldig att följa bestämmelserna i 19-218 i dessa föreskrifter.
 
-Bestämmelserna i 19-21 $ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
+Bestämmelserna i 19-21 \$ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
 räddningstjänst eller annan liknande myndighet.
 
-Bestämmelserna i 21 $ punkterna 1-2 gäller inte assistanshund.
+Bestämmelserna i 21 \$ punkterna 1-2 gäller inte assistanshund.
 
 Skyldighet att hålla hund kopplad
 195
@@ -7281,22 +7281,22 @@ Skyldighet att plocka upp föroreningar efter hund
 
 Föroreningar efter hund ska plockas upp på offentlig plats, inkluderande gångbanor, parkmark,
 parkvägar eller annat för gångtrafiken erforderligt utrymme samt inom områden som jämställs med
-offentlig plats enligt 3 $ i dessa föreskrifter.
+offentlig plats enligt 3 \$ i dessa föreskrifter.
 
 Vistelseförbud för hund
 
 218
 Hund får inte medföras-+til eHer vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
-c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 $ i dessa
+c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 \$ i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i Kungsbacka
+2\. Tingbergsvallen i Kungsbacka
 
-3. Badbrygga och badflotte på badplats som enligt 3 $ i dessa föreskrifter jämställs med
+3\. Badbrygga och badflotte på badplats som enligt 3 \$ i dessa föreskrifter jämställs med
 offentlig plats
 
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
@@ -7306,8 +7306,8 @@ agilitybana.
 
 2285
 
-Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 $$, 10 $ första och andra stycket, 11-14 $ första
-stycket, 15-17 $$, 19-21 $$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 $ andra stycket
+Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 \$\$, 10 \$ första och andra stycket, 11-14 \$ första
+stycket, 15-17 \$\$, 19-21 \$\$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 \$ andra stycket
 ordningslagen.
 
 I ordningslagen finns också bestämmelser om föreläggande och förverkande.
@@ -7318,7 +7318,7 @@ Kungsbacka kommun Lokala ordningsföreskrifter Sida 7 av 7
 
 <!-- sida 173 -->
 
-|
+\|
 Teckenförklaring
 Tillfällig (ambulerande) försäljning
 

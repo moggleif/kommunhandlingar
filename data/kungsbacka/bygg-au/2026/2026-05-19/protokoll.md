@@ -530,9 +530,9 @@ på platsen.
 Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 
 prövats i områdesbestämmelser.
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -569,14 +569,14 @@ marken från allmän synpunkt är lämplig för ändamålet.
 Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
 energihushållningen. Lag (2018:636).
@@ -585,18 +585,18 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 ärenden om bygglov och vid åtgärder avseende byggnader som inte kräver lov enligt
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 marken på ett sätt som är lämpligt med hänsyn till
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 stridshandlingar,
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 använda området, och
 behovet av framtida förändringar och kompletteringar.
 
@@ -940,9 +940,9 @@ på platsen.
 Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 
 prövats i områdesbestämmelser.
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -980,13 +980,13 @@ Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
 
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
@@ -996,17 +996,17 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 marken på ett sätt som är lämpligt med hänsyn till
 
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 stridshandlingar,
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 35C10A0ECE08E64F4322450F06DB57568C8431F0DD
@@ -1020,7 +1020,7 @@ Datum
 2026-05-19
 
 använda området, och
-8. behovet av framtida förändringar och kompletteringar.
+8\. behovet av framtida förändringar och kompletteringar.
 
 Beslutet kan överklagas
 
@@ -1884,7 +1884,7 @@ Datum
 
 Trafikverket har fått möjligheter att lämna synpunkter gällande närheten till statlig
 väg och tillståndspliktig zon. Av yttrande daterat 2024-11-14 framgår: Väganslutning
-- Anslutning ska ske mot kommunal gata. Enligt framtaget PM – Tillkommande
+\- Anslutning ska ske mot kommunal gata. Enligt framtaget PM – Tillkommande
 infartsväg belastas inte befintligt vägdike till väg 158 eftersom fallet blir bort från
 väg 158. I område med låg höjdskillnad mellan befintligt vägdike och kringliggande,
 befintlig mark har vägen kommit upp i höjd med slänt. Detta resulterar i bättre
@@ -1915,7 +1915,7 @@ omständigheter får ha någon inverkan / påverkan på 1:76 nyligen inlämnade 
 om bygglov. (Registreringsbekräftelse ; BOLSHEDEN 1:76, BN 2025–000124)
 Detta vara sig direkt, indirekt genom egen eller annan part. Yttrandet inkom 2025 01-
 
-24.
+24\.
 Fastighetsägare Bångsbo 4:1 funderar på vad det är för rutad yta som går in på
 Bångsbo 4:1. För övrigt inget att erinra. Yttrandet inkom 2024-11-14. Som
 upplysning kan nämnas att förslaget redovisar en släntmarkering över tomtgräns in

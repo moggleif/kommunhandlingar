@@ -471,7 +471,7 @@ centralisering av offentliga kontroller av livsmedel, foder och animaliska
 biprodukter.
 
 Katarina informerar nämnden om Nöjd Kund Index (NKI) per kvartal samt för helår
-2026.
+2026\.
 
 Beslutsgång
 

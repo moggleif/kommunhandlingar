@@ -125,10 +125,10 @@ från 57 300 kronor 2024 till 58 800 kronor 2025, vilket motsvarar en ökning me
 procent.
 Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
 
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 330 kronor per timme till 1 391 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2025 (A22-23) i
 
 enlighet med punkt fyra i taxan.
@@ -143,7 +143,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-10-31
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2025.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 0,9
 miljoner kronor baserat på preliminär budget för 2025. De nya beloppen framgår av

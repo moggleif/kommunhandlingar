@@ -485,30 +485,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -516,7 +516,7 @@ Innehåll
 
 <!-- sida 14 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -644,7 +644,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 17 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -1052,7 +1052,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 26 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -1187,7 +1187,7 @@ tunga att utforska.
 
 <!-- sida 29 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -1332,13 +1332,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 32 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -1367,9 +1367,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.
@@ -1562,9 +1562,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
@@ -1649,10 +1649,10 @@ forts
 Justerare                            Utdragsbestyrkande
 :ifs·
 At �
-,,/l!,,, -si-t1J·,. S<.lt;.,_J
+,,/l!,,, -si-t1J·,. S<.lt;.,\_J
 8:'
 /1/c:f
-21 012 315 • <D Co11yrigi,t KoM,\IENTLS 131.,\NKITrrn 97-01
+21 012 315 • \<D Co11yrigi,t KoM,\IENTLS 131.,\NKITrrn 97-01
 
 <!-- sida 39 -->
 
@@ -1762,9 +1762,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -1878,9 +1878,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.

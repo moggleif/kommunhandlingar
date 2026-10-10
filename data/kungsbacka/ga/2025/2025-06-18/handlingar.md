@@ -186,10 +186,10 @@ förutsättningar att klara arbetet framåt. Detta kräver dock att medarbetare 
 för att utföra sina uppgifter inom dataskyddsområdet, både tidsmässigt och i kompetensutveckling.
 I förra årets årsrapport angavs följande område som prioriterade:
 
--  Intern organisation
+\-  Intern organisation
 
--  Utbildning för medarbetare
--  Återfå struktur i det systematiska kvalitetssäkringsarbetet
+\-  Utbildning för medarbetare
+\-  Återfå struktur i det systematiska kvalitetssäkringsarbetet
 
 Detta har inte slutförts. Arbete med att återfå struktur i det systematiska kvalitetssäkringsarbetet
 pågår i skrivande stund. Utveckling av den interna organisationen och utbildning för medarbetare
@@ -369,7 +369,7 @@ Förvaltningens plan är att de personuppgiftsbehandlingar som utförs i det gra
 verksamhetssystemet ska konsekvensbedömas under 2025. Genom en konsekvensbedömning på
 befintliga behandlingar kommer det tydliggöras var brister i dagens hantering finns och planering
 för att åtgärda dessa brister. Vidare ska förvaltningens rutiner revideras och implementeras under
-2025. Rutinerna innehåller bland annat information till medarbetare om hur personuppgifter får
+2025\. Rutinerna innehåller bland annat information till medarbetare om hur personuppgifter får
 hanteras generellt och årshjul för systematiskt kvalitetssäkringsarbete.
 
 6  Personuppgiftsincidenter
@@ -432,7 +432,7 @@ samma verksamhetssystem.
 9  Plan för dataskyddsarbetet   2025
 
 Under 2025 planerar förvaltningen att prioritera följande områden:
--  Revidera förvaltningens rutiner för personuppgiftshantering och påbörja implementering av
+\-  Revidera förvaltningens rutiner för personuppgiftshantering och påbörja implementering av
 
 dessa
 
@@ -440,29 +440,29 @@ Kungsbacka kommun      Årsrapport dataskyddsarbete 2024         7
 
 <!-- sida 12 -->
 
--  Slutföra påbörjade konsekvensbedömningar
--  Utbilda samtliga medarbetare i dataskydd
+\-  Slutföra påbörjade konsekvensbedömningar
+\-  Utbilda samtliga medarbetare i dataskydd
 
 9.1 Rutiner
 
 Förvaltningen har en rutinsamling för hanteringen av personuppgifter som inte reviderats sedan
-2022. Rutinsamlingen innehåller följande områden:
--  Grundläggande principer för dataskyddet
+2022\. Rutinsamlingen innehåller följande områden:
+\-  Grundläggande principer för dataskyddet
 
--  Personuppgiftsbehandlingar – behandlingsregister och konsekvensbedömningar
--  Personuppgifter i verksamheten – lagliga grunder, känsliga och skyddsvärda
+\-  Personuppgiftsbehandlingar – behandlingsregister och konsekvensbedömningar
+\-  Personuppgifter i verksamheten – lagliga grunder, känsliga och skyddsvärda
 personuppgifter, foto och film, verksamhetssystem, rätten till information
 
--  Gallra, rensa och spara
--  Förnyelse, digitalisering och dataskydd
+\-  Gallra, rensa och spara
+\-  Förnyelse, digitalisering och dataskydd
 
--  Personuppgiftsincidenter
--  Registrerades rättigheter
+\-  Personuppgiftsincidenter
+\-  Registrerades rättigheter
 
--  Leverantörer och PUB-avtal
--  Kvalitetssäkring
+\-  Leverantörer och PUB-avtal
+\-  Kvalitetssäkring
 
--  Organisation
+\-  Organisation
 Rutinen innehåller sammanställd information för förvaltningens medarbetare. Innehållet kan sedan
 brytas ner till utbildning- och diskussionsmaterial för olika personalgrupper.
 
@@ -483,11 +483,11 @@ lagringsminimering, godkända behandlingar och personuppgiftincidenter.
 9.4 Plan 2026 och framåt
 Under 2026 och framåt finns behov av att prioritera följande områden:
 
--  Total översyn av behandlingsregistret.
--  Se över intern organisation för dataskydd och samverkan med
+\-  Total översyn av behandlingsregistret.
+\-  Se över intern organisation för dataskydd och samverkan med
 informationssäkerhetssamordnare.
 
--  Ta fram en plan över vilka rutiner och instruktioner som behöver finnas för ett
+\-  Ta fram en plan över vilka rutiner och instruktioner som behöver finnas för ett
 verksamhetssystem utifrån dataskyddslagstiftningen.
 
 Kungsbacka kommun      Årsrapport dataskyddsarbete 2024         8
@@ -562,8 +562,8 @@ Innehållsförteckning
 3 Checklista för årlig uppföljning ...................................................................................... 5
 3.1. Fackliga synpunkter från förvaltningens lokala samverkansgrupper .................................................... 12
 3.2. Fackliga synpunkter från förvaltningens centrala samverkansgrupp.................................................... 12
-4. Tillbud, olyckor och ohälsa ........................................................................................... 14
-5. Sammanfattande bedömning samt fortsatta utvecklingsområden............................. 18
+4\. Tillbud, olyckor och ohälsa ........................................................................................... 14
+5\. Sammanfattande bedömning samt fortsatta utvecklingsområden............................. 18
 
 2
 
@@ -844,7 +844,7 @@ En fråga ställs om huruvida rektorer fått information om arbetsmiljöverkets 
 regelstruktur, och arbetsgivaren förklarar att samtliga förvaltningens chefer bjöds in
 till en genomgång via chefskompetensutvecklingsforumet ”Chefskollen”, i februari
 
-2025.
+2025\.
 Slutligen framförs synpunkter på arbetsgivarens förslag om fortsatta
 
 utvecklingsområden inom SAM. Sveriges Lärare anser att den borde kompletteras
@@ -877,7 +877,7 @@ strukturer och ta fram förslag till material.”
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2024
 
-4. Tillbud, olyckor   och  ohälsa
+4\. Tillbud, olyckor   och  ohälsa
 
 Ett tillbud är en oönskad händelse som inte ledde till, men skulle ha kunnat leda till ohälsa
 eller olycksfall. Tillbud och olycksfall eller ohälsa är viktiga signaler för arbetsgivaren om
@@ -980,7 +980,7 @@ kylanläggning i matsalen, varit de vanligaste orsakerna.
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2024
 
-5. Sammanfattande      bedömning     samt   fortsatta
+5\. Sammanfattande      bedömning     samt   fortsatta
 utvecklingsområden
 
 Medarbetares och skyddsombuds delaktighet i arbetsmiljöarbetet
@@ -1043,27 +1043,27 @@ framkommer – samtidigt som ytterligare behov av utveckling inom området före
 
 På en övergripande nivå kommer fokus för utvecklingen av det systematiska
 arbetsmiljöarbetet det närmaste året vara följande områden:
-1. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och
+1\. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och
 
 stödmaterial för SAM
-2. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan
+2\. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan
 och dess hantering
 
-3. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer
+3\. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer
 arbetsmiljön med fokus på risker för våld eller hot samt uppdatera åtgärder utifrån
 aktuella risker
 
-4. Fortsatt utveckling av facklig samverkan
+4\. Fortsatt utveckling av facklig samverkan
 
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att
 berörda upplever att de har tillräckligt med kunskap, kompetens och befogenheter för att
 utföra sina uppgifter, samt förtydliga arbetsmiljöorganisationen avseende lokaler på
 gymnasiet
 
-6. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp,
+6\. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp,
 vilket är en viktig del inom det systematiska arbetsmiljöarbetet
 
-7. Säkerställa att de händelser som rapporteras i KIA (systemstödet för det systematiska
+7\. Säkerställa att de händelser som rapporteras i KIA (systemstödet för det systematiska
 arbetsmiljöarbetet) utreds, åtgärdas och följs upp inom en rimlig tid, och på så sätt minska
 antalet ohanterade händelser i KIA. (Samordnas med det pågående arbetet som sker
 kommunövergripande inom detta område)
@@ -1241,7 +1241,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 38 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -1272,12 +1272,12 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1314,7 +1314,7 @@ nedan.
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om individutskottet har fått
 delegation undertecknas handling som beslutet avser av individutskottets
 ordförande och förvaltningschefen.
@@ -1324,10 +1324,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -1470,7 +1470,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | --- | --- | --- | --- | --- |
 | 2.1.11 | GDPR artikel 30 | Fastställa nämndens register över personuppgiftsbehandlingar. | Dataskydds<br>kontakt |  |
 | 2.1.12 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller flera andra nämnder. | Fc | Fullmakt får ges till tjänsteman som ska vara systemägare<br>för tjänsten eller systemet. |
-| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
+| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
 | 2.1.14 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Beslut att nämnden lämnar inget yttrande föranledd av remiss från annan<br>part | Fc |  |
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |

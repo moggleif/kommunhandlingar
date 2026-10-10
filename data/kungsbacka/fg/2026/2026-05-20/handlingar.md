@@ -45,14 +45,14 @@ Beteckning
 
 Förslag
 
-1. | Fastställande av dagordning och
+1\. | Fastställande av dagordning och
 val av justerare
 
 FG-2026-00014
 
 Digital justering. Helen Thylin (S).
 
-2. | Förvaltningscentral
+2\. | Förvaltningscentral
 samverkansprotokoll 2026
 
 FG-2026-00017
@@ -62,7 +62,7 @@ del av informationen och antecknar
 
 informationen i protokollet.
 
-3. |Redovisning av inkomna
+3\. |Redovisning av inkomna
 skrivelser till nämnd 2026
 
 FG-2026-00042
@@ -72,7 +72,7 @@ del av informationen och antecknar
 
 informationen i protokollet.
 
-4. | Resultat vårdnadshavareenkät
+4\. | Resultat vårdnadshavareenkät
 förskola 2026
 
 K1 16:05-16:35
@@ -87,7 +87,7 @@ del av informationen och antecknar
 
 informationen i protokollet.
 
-5. | Uppföljning och prognos per
+5\. | Uppföljning och prognos per
 april
 
 K1 16:35-17:00
@@ -121,7 +121,7 @@ Stationsgatan 9
 
 KUNGSBACKA KOMMUN
 
-23)
+23\)
 
 Ärende
 
@@ -208,7 +208,7 @@ KUNGSBACKA KOMMUN
 
 Ärende Beteckning Förslag
 
-10. | Revidering av regler för FG-2026-00260 | Nämndens regler för skolskjuts aktualitetsprövas
+10\. | Revidering av regler för FG-2026-00260 | Nämndens regler för skolskjuts aktualitetsprövas
 
 skolskjuts årligen. I samband med årets översyn har
 förvaltningen bland annat följt upp tidigare
@@ -217,26 +217,26 @@ K118:35-18:55 genomförda förändringar.
 
 Frida Byrsten, verksamhetschef
 
-11. | Ansökan från Särö pastorat FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner
+11\. | Ansökan från Särö pastorat FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner
 gällande permanent utökning av ansökan från Särö pastorat gällande ansökan om
 barnantal på förskolan utökning på förskolan Prästkragen, Östra
 Prästkragen Särövägen 339, 429 44 Särö om permanent
 
 utökning till totalt 20 barn.
 
-12. | Ansökan från FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner
+12\. | Ansökan från FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner
 Förskolekooperativet ansökan från Förskolekooperativet Myrstacken i
 Myrstacken i Åsa Ekonomisk Åsa Ekonomisk förening gällande ansökan om
 förening gällande permanent utökning på förskolan Myrstacken, Kumlabacken
 utökning av barnantal på 9, 439 53 Åsa om permanent utökning till totalt
 förskolan Myrstacken 22 barn.
 
-13. | Delegeringsbeslut antagna av FG-2026-00018 | Redovisning av beslut som fattats av
+13\. | Delegeringsbeslut antagna av FG-2026-00018 | Redovisning av beslut som fattats av
 nämnden 2026 förvaltningen på delegation för nämnden noteras
 
 till protokollet.
 
-14. | Information - Förskola & FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit
+14\. | Information - Förskola & FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit
 
 Grundskola arbetsutskott och
 nämnd
@@ -295,15 +295,15 @@ Plats och tid: Vägmästare Nissan, 2026 02-18 kl. 10:00 — 12:00
 
 Verksamhetssamverkan — Verksamhetschef informerar om förskola
 
-- Bedömning samtal pågår i hela verksamheten
+\- Bedömning samtal pågår i hela verksamheten
 
-- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
+\- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
 under våren.
 
-- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
+\- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
 att de lånar våra lokaler och bedriver verksamhet med sin personal.
 
-- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
+\- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
 medarbetarsamtal, LSG, andra forum för dialog)
 
 1 (6
@@ -322,10 +322,10 @@ www.kungsbacka.se
 KUNGSBACKA KOMMUN
 2 (6)
 
-- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
+\- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
 återkoppling att bli bättre på systematiken kring hot o våld, anpassningar och även andra lokala behov
 
-- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
+\- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
 enheter där det inte finns något lokalt ombud
 
 Beslut: Informationen antecknas.
@@ -339,17 +339,17 @@ Protokoll justerat och signerat.
 
 Arbetsgivaren redovisar ärenden från arbetsutskott.
 
-- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
+\- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
 att vi ska få en ekonomisk hållbarhet.
 
-- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
+\- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
 av huvudman, man kan se brister i rutiner och behöver säkerställa att hela förvaltningen följer
 lagstiftning.
 
-- Skolinspektionen — Ärende har gått från AU till nämnd
+\- Skolinspektionen — Ärende har gått från AU till nämnd
 o Skolinspektion — Smedingeskolan
 o Skolinspektion — Föreläggande på Särö skola
-- Årsredovisning — Mål och direktiv, HR, Ekonomi
+\- Årsredovisning — Mål och direktiv, HR, Ekonomi
 Synpunkter från Sveriges lärare är bifogat till nämnd och protokollet. (Bilaga 1)
 Information förvaltningscentral organisation
 
@@ -365,10 +365,10 @@ arbetsrelaterade frågor.
 KUNGSBACKA KOMMUN
 3 (6)
 
-- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
+\- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
 samarbete mellan vård och skola i kommunen.
 
-- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
+\- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
 Ny kallelse kommer.
 
 Arbetstagarorganisation
@@ -392,19 +392,19 @@ Sveriges Lärare föreslog att ajournerad dialog om samverkan lyfts ur ordinarie
 separat möte.
 
 Verksamhetssamverkan — Verksamhetschef informerar om skola
-- Fortsatt arbete kring skyddstopp med skolrektorer
+\- Fortsatt arbete kring skyddstopp med skolrektorer
 
-- Bedömningssamtal klara
+\- Bedömningssamtal klara
 
-- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
+\- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
 
-- Återkoppling från SSG — Resursskola
+\- Återkoppling från SSG — Resursskola
 
-- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
+\- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
 
-- Tjänsteplaneringsprocessen
+\- Tjänsteplaneringsprocessen
 
-- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
+\- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
 
 <!-- sida 7 -->
 
@@ -655,11 +655,11 @@ Plats och tid: Vägmästare Nissan, 2026 03-11 kl. 08:00 — 12:00
 
 Verksamhetssamverkan — Verksamhetschef informerar om förskola
 
--  Stegatorps förskola vattenskada, drift kan fortlöpa som vanligt. Efterarbete med torknings
+\-  Stegatorps förskola vattenskada, drift kan fortlöpa som vanligt. Efterarbete med torknings
 arbete med hjälp av fläktar kommer pågå ca 3—4 veckor
--  Tjänsteplanering kommer påbörjas 14 april
+\-  Tjänsteplanering kommer påbörjas 14 april
 
-- Beslut: Informationen antecknas.
+\- Beslut: Informationen antecknas.
 
 Förskola & Grundskola
 
@@ -678,7 +678,7 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-24)
+24\)
 
 Förvaltningssamverkan — Förvaltningsgemensamma funktioner
 
@@ -739,29 +739,29 @@ KUNGSBACKA KOMMUN
 Sveriges lärare påtalar vikten av att fortsätta dialogen om samverkansprocessen i FSG
 Verksamhetssamverkan — Verksamhetschef informerar om skola
 
-- Jenny Rappe har sagt upp sin tjänst som rektor, arbetsgivaren återkommer med besked om ny
+\- Jenny Rappe har sagt upp sin tjänst som rektor, arbetsgivaren återkommer med besked om ny
 organisation så snart den är klar, ingen nyrekrytering kommer att göras.
 
-- Tjänsteplaneringens - första steg i ny form har sparat ca 4 veckors arbete i processen för
+\- Tjänsteplaneringens - första steg i ny form har sparat ca 4 veckors arbete i processen för
 verksamheten.
 
 Sveriges skolledare: Återkopplar att det skulle behövas spelregler under mötena när rektorer är i
 matchningssamtalen i tjänsteplaneringen.
 
-- Det har varit inbrott på Bräckaskolan och Åsaskolan.
+\- Det har varit inbrott på Bräckaskolan och Åsaskolan.
 
-- Vi har haft tillsynsbesök från Skolinspektioner med olika inriktningar.
+\- Vi har haft tillsynsbesök från Skolinspektioner med olika inriktningar.
 
 Riktad tillsyn på Smedingeskolan där man identifierade följande brister:
-- — Saknas rutiner och systematiskt arbete med anmälningar av kränkande behandling
-- Signering i betygskatalogen
+\- — Saknas rutiner och systematiskt arbete med anmälningar av kränkande behandling
+\- Signering i betygskatalogen
 
 Planerat tillsynsbesök på Särö skola, där man identifierade brister som
--  Varierad undervisning utifrån elevernas behov
+\-  Varierad undervisning utifrån elevernas behov
 
-- Betygsättning i alla steg
-- Lärare behöver analysera sin undervisning
-- Jobba med trygghet och studiero, identifiera för en gemensam bild
+\- Betygsättning i alla steg
+\- Lärare behöver analysera sin undervisning
+\- Jobba med trygghet och studiero, identifiera för en gemensam bild
 
 Tematisk granskning på Åsagårds skola 4-6
 -Intervjuer har förts med medarbetare och rektor och återkoppling kommer att ske
@@ -1034,11 +1034,11 @@ nästa års enkät samt arbeta vidare med resultatet att det finns områden i en
 vårdnadshavare svarat vet ej.
 
 Bilagor och beslutsunderlag
-1. FG Utveckling & Kvalitets tjänsteskrivelse, 2026-04-21
+1\. FG Utveckling & Kvalitets tjänsteskrivelse, 2026-04-21
 
-2. Sammanställning vårdnadshavare enkät förskola 2026
+2\. Sammanställning vårdnadshavare enkät förskola 2026
 
-3. Uppskalning vårdnadshavare enkät förskola 2026
+3\. Uppskalning vårdnadshavare enkät förskola 2026
 
 Stigert Pettersson
 
@@ -1053,7 +1053,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 50 Dnr FG-2026-00182
+\$ 50 Dnr FG-2026-00182
 Resultat vårdnadshavareenkät förskola 2026
 
 Förslag till beslut
@@ -1064,7 +1064,7 @@ informationen i protokollet.
 Sammanfattning av ärendet
 
 Vårdnadshavarenkäten i förskolan genomfördes mellan 7 januari och 17 februari
-2026. Enkäten är ett gemensamt samarbete med kommunerna inom
+2026\. Enkäten är ett gemensamt samarbete med kommunerna inom
 Göteborgsregionen, GR.
 
 Likt tidigare år innefattar undersökningen samtliga medlemskommuner i
@@ -1439,7 +1439,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 51 Dnr FG-2026-00231
+\$ 51 Dnr FG-2026-00231
 Uppföljning och prognos per april
 
 Förslag till beslut
@@ -1524,7 +1524,7 @@ www.kungsbacka.se
 <!-- sida 30 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 ökats på så vis att fördelningen innebär att varannan lektion kan bedrivas i halvklass, vidare har
 fortbildningsinsatser initierats och nytt gemensamt material för utveckla undervisningen
@@ -1590,7 +1590,7 @@ Kungsbacka kommun » Telefon 0300-83 40 00 » infoQkungsbacka.se »« kungsbacka
 
 Kungsbacka
 
-16)
+16\)
 2026-04-29
 
 <!-- sida 32 -->
@@ -1827,7 +1827,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 52 Dnr FG-2026-00274
+\$ 52 Dnr FG-2026-00274
 Användande av resultatfond, två-lärarsystem
 
 Förslag till beslut
@@ -1856,7 +1856,7 @@ Beslutsunderlag
 
 Tjänsteskrivelse 2026-04-29. Användande av resultatfond, två-lärarsystem.
 Genomförande av direktiv om två-lärarsystem samt finansiering av projekt, 2026-04-
-29.
+29\.
 
 Beslutsgång
 
@@ -1945,7 +1945,7 @@ Kungsbacka kommun | 0300-83 40 00 | infoQkungsbacka.se | www.kungsbacka.se
 
 <!-- sida 41 -->
 
-1. Inledning
+1\. Inledning
 
 Denna rapport redovisar Förskola & Grundskolas arbete med dataskydd och informationssäkerhet
 under 2025. Rapporten lämnas till nämnden som en del av den samlade uppföljningen av
@@ -1954,7 +1954,7 @@ personuppgifter i stor omfattning och nämnden ansvarar för att arbetet bedrivs
 systematiskt och med tillräcklig kontroll. Rapporten syftar också till att ge nämnden ett underlag för
 att bedöma hur arbetet har utvecklats under året och vilka områden som fortsatt behöver stärkas.
 
-2. Förskola & Grundskolas arbete med efterlevnad av
+2\. Förskola & Grundskolas arbete med efterlevnad av
 dataskydd och informationssäkerhet
 
 I detta avsnitt redovisas förvaltningens arbete med efterlevnad av dataskydd och
@@ -2214,7 +2214,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 53 Dnr FG-2026-00249
+\$ 53 Dnr FG-2026-00249
 Årsrapport dataskydd & informationssäkerhet 2025-2026
 
 Förslag till beslut
@@ -2310,7 +2310,7 @@ Utdrag ur delegeringsförteckning med förändring markerad.
 
 Beslutet skickas till
 
-12)
+12\)
 
 FG Myndighet & Stöd Kungsbacka kommun
 Frida Byrsten 434 81 Kungsbacka
@@ -2324,7 +2324,7 @@ www.kungsbacka.se
 <!-- sida 48 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 Stigert Pettersson Frida Byrsten
 Förvaltningschef Verksamhetschef Myndighet & Stöd
@@ -2385,7 +2385,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 $ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2395,7 +2395,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 $ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2405,10 +2405,10 @@ inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
 Huvudregeln är att vårdnadshavarens skolval ska styra placeringen av en elev på
@@ -2607,10 +2607,10 @@ Om det är fler sökande än det finns platser på den önskade skolan, efter at
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
 
-1. Relativ närhet inom upptagningsområdet
-2. Relativ närhet utanför upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
+2\. Relativ närhet utanför upptagningsområdet
 
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
 
 Kungsbacka kommun Styrande dokument 8 (11)
@@ -2619,7 +2619,7 @@ Kungsbacka kommun Styrande dokument 8 (11)
 
 Förslag med förändringar utmärkta.
 
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -2797,7 +2797,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 $ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2807,7 +2807,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 $ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2817,10 +2817,10 @@ inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
 Huvudregeln är att vårdnadshavarens skolval ska styra placeringen av en elev på
@@ -3019,10 +3019,10 @@ Om det är fler sökande än det finns platser på den önskade skolan, efter at
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
 
-1. Relativ närhet inom upptagningsområdet
-2. Relativ närhet utanför upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
+2\. Relativ närhet utanför upptagningsområdet
 
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
 
 Kungsbacka kommun Styrande dokument 8 (11)
@@ -3031,7 +3031,7 @@ Kungsbacka kommun Styrande dokument 8 (11)
 
 Förslag med förändringar utmärkta.
 
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -3162,7 +3162,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 54 Dnr FG-2026-00269
+\$ 54 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och
 skolplacering i förskoleklass och grundskola
@@ -3429,7 +3429,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 55 Dnr FG-2026-00273
+\$ 55 Dnr FG-2026-00273
 Skolval och skolplacering, redovisning enligt nämndens årshjul
 
 Förslag till beslut
@@ -3526,7 +3526,7 @@ www.kungsbacka.se
 <!-- sida 79 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Elever med funktionsnedsättning kan beviljas stödinsatser via individ- och familjeomsorgen enligt
 lagen om stöd och service till vissa funktionshindrade (LSS) eller socialtjänstlagen. Insatserna kan
@@ -3648,7 +3648,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -3663,14 +3663,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
-2. Trafikförhållandena
-3. Funktionsnedsättning
+1\. Färdvägens längd
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 4
 
 . Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
@@ -3707,7 +3707,7 @@ e Kommunen får anvisa alla vägar där allemansrätten råder.
 
 e Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Vårdnadshavaransvaret
@@ -3731,7 +3731,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall detta
 omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 
 Vissa elever med funktionsnedsättning har rätt till Skolskjuts även om färdvägens längd
 och trafikförhållanden inte medger skolskjuts. Vid ansökan om skolskjuts på grund av
@@ -4162,7 +4162,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -4177,14 +4177,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
-2. Trafikförhållandena
-3. Funktionsnedsättning
+1\. Färdvägens längd
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 4
 
 . Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
@@ -4221,7 +4221,7 @@ e Kommunen får anvisa alla vägar där allemansrätten råder.
 
 e Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Vårdnadshavaransvaret
@@ -4245,7 +4245,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall detta
 omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 
 Vissa elever med funktionsnedsättning har rätt till skolskjuts även om färdvägens längd
 och trafikförhållanden inte medger skolskjuts. Vid ansökan om skolskjuts på grund av
@@ -4617,7 +4617,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 56 Dnr FG-2026-00260
+\$ 56 Dnr FG-2026-00260
 Revidering av regler för skolskjuts
 
 Förslag till beslut
@@ -4684,7 +4684,7 @@ Särövägen 339. Huvudmannen har sedan tidigare ett beslut gällande ansökan o
 förskoleverksamhet daterat 02-06-02 som omfattar 15—16 barn. Ansökan gäller en utökning från 16 till
 20 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -4719,7 +4719,7 @@ www.kungsbacka.se
 <!-- sida 103 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Beskrivning av ärendet
 
@@ -4760,9 +4760,9 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 $ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 104 -->
@@ -4770,11 +4770,11 @@ verksamheten,
 KUNGSBACKA KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a $ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -4887,7 +4887,7 @@ Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
 Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
-=
+\=
 
 | Utökning verksamhet Prästkragens förskola Särö Pastorat 260304.pdf (142 KB)
 
@@ -4905,7 +4905,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 58 Dnr FG-2026-00130
+\$ 58 Dnr FG-2026-00130
 
 Ansökan från Särö pastorat gällande permanent utökning av barnantal
 på förskolan Prästkragen
@@ -4923,7 +4923,7 @@ Prästkragen, Särövägen 339. Huvudmannen har sedan tidigare ett beslut gälla
 ansökan om bidrag för förskoleverksamhet daterat 02-06-02 som omfattar 15—16
 barn. Ansökan gäller en utökning från 16 till 20 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -4981,7 +4981,7 @@ Förskolekooperativet Myrstacken i Åsa Ekonomisk förening har inkommit med en 
 utökning av barnantal på förskolan Myrstacken, Kumlabacken 9. Huvudmannen har sedan 2024-05-15
 ett beslut som omfattar 21 barn i sin verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5013,7 +5013,7 @@ www.kungsbacka.se
 <!-- sida 110 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Beskrivning av ärendet
 
@@ -5055,9 +5055,9 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 22 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 $ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 111 -->
@@ -5065,11 +5065,11 @@ verksamheten,
 KUNGSBACKA KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a $ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -5087,7 +5087,7 @@ Förvaltningschef Utredare Myndighet & Stöd
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Förskola & Grundskola Datum
 2024-05-15
-$ 51 Dnr FG-2024-00258
+\$ 51 Dnr FG-2024-00258
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk
 förening om permanent utökning av barnantal
@@ -5105,7 +5105,7 @@ ansökan om utökning av barnantal på förskolan Myrstacken, Kumlabacken 9.
 Förskolan har funnits sedan 1988 och har i dagsläget ett tillstånd från 1999 som
 omfattar 19 barn. Ansökan omfattar en utökning med 2 barn till 21 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -5258,7 +5258,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-$ 59 Dnr FG-2026-00232
+\$ 59 Dnr FG-2026-00232
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk
 förening gällande permanent utökning av barnantal på förskolan
@@ -5277,7 +5277,7 @@ ansökan om utökning av barnantal på förskolan Myrstacken, Kumlabacken 9.
 Huvudmannen har sedan 2024-05-15 ett beslut som omfattar 21 barn i sin
 verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -5482,7 +5482,7 @@ Prästgårdsängens förskola 3
 Vallda Klasbergs förskola 1
 
 KUNGSBACKA KOMMUN
-212)
+212\)
 
 Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser kan ha
 

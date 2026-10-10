@@ -189,7 +189,7 @@ Sammanfattning av ärendet
 
 Ordförande Hravn Forsne (M) anmäler ett ärende till dagens sammanträde.
 
--  Information om ordförandebeslut.
+\-  Information om ordförandebeslut.
 
 Beslutsgång
 Ordförande Hravn Forsne (M) prövar om nämnden kan godkänna ärendelistan med
@@ -451,9 +451,9 @@ de som utövar våldet.
 
 Sammanfattning av ärendet
 Per Hoel (SD) med flera har väckt ett initiativ -Trygghetsombud inom äldreomsorgen
-- En värdig ålderdom till nämndens sammanträde den 17 oktober 2024.
+\- En värdig ålderdom till nämndens sammanträde den 17 oktober 2024.
 Förvaltningen fick i uppdrag att bereda ärendet och återkomma under första kvartalet
-2025.
+2025\.
 
 Befintliga insatser inom Vård & Omsorg är tillräckliga för att hantera våld i nära
 relationer. Genom att fortsätta använda och utveckla de redan etablerade
@@ -863,7 +863,7 @@ Diarienummer 2025–00014. Yttrande till Inspektionen för vård och omsorg, IVO
 avseende ej verkställt beslut, gällande växelvård enligt socialtjänstlagen.
 Diarienummer VO-2025-00024. Yttrande till samhällsbyggnadskontoret över samråd
 
-- Detaljplan för Kungsbackas arena i Kungsbacka tätort.
+\- Detaljplan för Kungsbackas arena i Kungsbacka tätort.
 
 Beslutsunderlag
 
@@ -969,7 +969,7 @@ Datum
 § 37                       Dnr VO-2025-00003
 Information från förvaltningen 2025
 
--
+\-
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 83C8A8540FB2F73B7E973D2F64CEF3A634836DA62D

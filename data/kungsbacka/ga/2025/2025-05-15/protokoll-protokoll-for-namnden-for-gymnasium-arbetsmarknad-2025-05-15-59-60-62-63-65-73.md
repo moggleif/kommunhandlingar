@@ -117,7 +117,7 @@ Bostad först ..................................................................
 
 § 64 Dnr GA-2025-00075
 Begäran om yttrande - Betänkandet Etableringsboendelagen (KS 2025-
-00330) ..................................................................................................... 11
+00330\) ..................................................................................................... 11
 
 § 65 Dnr GA-2024-00194
 Utbudsplanering 25/26 ............................................................................ 12
@@ -361,7 +361,7 @@ Datum
 
 § 64                       Dnr GA-2025-00075
 Begäran om yttrande - Betänkandet Etableringsboendelagen (KS 2025-
-00330)
+00330\)
 
 Beslut
 Paragrafen är direktjusterad. Se separat protokoll.
@@ -620,7 +620,7 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Minnesanteckningar programråd anpassad gymnasieskola
+1\. Minnesanteckningar programråd anpassad gymnasieskola
 
 Helena Nyborg (KD) och May-Louise Flyrin (S) har varit på programråd för
 anpassad gymnasieskola.
@@ -663,10 +663,10 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Styrelseprotokoll Samverkansförbundet i Halland
+1\. Styrelseprotokoll Samverkansförbundet i Halland
 
-2. Revisionsplan 2025
-3. Protokoll FSG 2025-05-06
+2\. Revisionsplan 2025
+3\. Protokoll FSG 2025-05-06
 
 Beslutsgång
 

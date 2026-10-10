@@ -244,29 +244,29 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 5
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 5
 
-2. Råd & stöd .......................................................................................................................................................... 8
+2\. Råd & stöd .......................................................................................................................................................... 8
 
 2.1 Utbildning ..................................................................................................................................................... 8
 2.2 Råd & rekommendationer ......................................................................................................................... 8
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 19
+3\. Granskning ....................................................................................................................................................... 19
 3.1 Riktad granskning ...................................................................................................................................... 19
 3.2 Regelbunden granskning ......................................................................................................................... 19
 3.3 Fördjupad granskning .............................................................................................................................. 23
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..24
 
-4. Omvärld............................................................................................................................................................. 26
+4\. Omvärld............................................................................................................................................................. 26
 4.1 Fokus på AI ................................................................................................................................................ 26
 
-5. Kommande år ..................................................................................................................................... 27
+5\. Kommande år ..................................................................................................................................... 27
 
 5.1 Inriktning året 2025 .................................................................................................................................. 27
 5.2 Plan för granskning .................................................................................................................................. 27
@@ -275,7 +275,7 @@ Innehåll
 
 <!-- sida 10 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -402,7 +402,7 @@ ytterst till att vårda och bevara demokratin.
 
 <!-- sida 13 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -861,7 +861,7 @@ Mölndal, Jönköping, Karlstad och Örebro – utöver kommunerna i Halland.
 
 <!-- sida 24 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -1093,7 +1093,7 @@ kommunen ser vikten av att skydda deras personuppgifter.
 För att öka kunskapen om skydd mot obehörig åtkomst och systematisk kvalitetssäkring kommer
 jag arrangera erfarenhetsutbyten och fördjupande utbildningar på respektive område under våren
 
-2025. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
+2025\. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
 av metoder och arbetssätt för att få rutin på arbetet.
 
 3.2.4 Övrigt
@@ -1229,7 +1229,7 @@ för utbildning.
 
 <!-- sida 31 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fokus på AI
 
@@ -1261,7 +1261,7 @@ hur Sverige kan främja en ansvarsfull och innovativ utveckling av AI. 26
 
 <!-- sida 32 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2025
 
@@ -1998,7 +1998,7 @@ leverantörskedjor. Bedömningen är att stora samordningsvinster kan göras vid
 informationssäkerhetssamordnare och dataskyddskontakt.
 
 Arbetet med förvaltningens informationshantering fortgår i enlighet med de resurser som tillsattes
-2023. En uppdaterad, processbaserad klassificeringsstruktur beslutades under 2024, och arbetet
+2023\. En uppdaterad, processbaserad klassificeringsstruktur beslutades under 2024, och arbetet
 med förvaltningens uppdaterade informationshanteringsplan baserad på den nya strukturen har
 påbörjats. Nämndens behandlingsregister kommer även att struktureras utifrån
 klassificeringsstrukturen och genomarbetas och kompletteras i samband med arbetet med
@@ -2406,7 +2406,7 @@ Genomföra        barnkonsekvensanalys
 
 Ärendenummer: #197301 | Inskickat av: Sarah Lowry | 2025-04-04 09:08
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -2448,13 +2448,13 @@ Karl Persson - Förvaltningschef Förvaltningen för Kultur & Fritid
 
 Andreas Høgfeldt Enhetschef Förening & Hållbar hälsa
 
-2. Kartläggning
+2\. Kartläggning
 
 Vilka rättigheter, utöver de fyra grundprinciperna i Barnkonventionen, är
 
 särskilt relevanta för aktuell barnkonsekvensanalys?
 
-**Relevanta rättigheter**
+\*\*Relevanta rättigheter\*\*
 
 Förändringen ska säkerställa likvärdigt stöd för alla barn (Artikel 2) och utgå från barnets bästa
 (Artikel 3). Barns hälsa och utveckling får inte påverkas negativt (Artikel 6, 24), och deras rätt att
@@ -2467,7 +2467,7 @@ Finns det annan lagstiftning som är relevant för denna barnkonsekvensanalys?
 Diskrimineringslagen (2008:567) förbjuder diskriminering utifrån exempelvis ålder, kön, etnicitet
 och funktionsvariation.
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -2500,7 +2500,7 @@ med en kompis och det är betydligt roligare än med sin mamma."
 
 "Träffa nya männsikor, prova på olika aktiviteter, hitta det roliga i fysisk aktivitet"
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -2553,43 +2553,43 @@ Kompensatoriska åtgärder för att säkerställa barnets bästa
 
 Kort sikt:
 
-- Ge berörda barn tydlig och lättförståelig information om förändringarna, så att de känner sig
+\- Ge berörda barn tydlig och lättförståelig information om förändringarna, så att de känner sig
 informerade och trygga. Detta kan göras genom:
 
-1. Anpassad kommunikation: Använd enkelt språk och visuella hjälpmedel, som bilder, för att
+1\. Anpassad kommunikation: Använd enkelt språk och visuella hjälpmedel, som bilder, för att
 
 göra informationen lättförståelig.
 
-2. Direkt dialog: Ha samtal eller gruppmöten där barnen kan ställa frågor och uttrycka sina
+2\. Direkt dialog: Ha samtal eller gruppmöten där barnen kan ställa frågor och uttrycka sina
 tankar.
 
-3. Informationsblad eller affischer: Skapa kortfattad, visuell information som barnen lätt kan ta
+3\. Informationsblad eller affischer: Skapa kortfattad, visuell information som barnen lätt kan ta
 till sig.
 
-4. Digitala verktyg: Använd video eller digitala presentationer för att förklara förändringarna på
+4\. Digitala verktyg: Använd video eller digitala presentationer för att förklara förändringarna på
 ett pedagogiskt sätt.
 
-5. Engagera föräldrar: Informera föräldrar så de kan stötta barnen hemma och skapa en enhetlig
+5\. Engagera föräldrar: Informera föräldrar så de kan stötta barnen hemma och skapa en enhetlig
 förståelse.
 
-- Säkerställ att barnen får fortsatt tillgång till aktiviteter och stöd, även om verksamheten i fråga
+\- Säkerställ att barnen får fortsatt tillgång till aktiviteter och stöd, även om verksamheten i fråga
 
 förändras. Informera om det befintliga utbudet av Kultur- och fritidsaktiviteter som kan ge en
 stabil grund för barnen att fortsätta engagera sig.
 
 Lång sikt:
 
-- Fortsätt att säkerställa att barnen har en långsiktig tillgång till meningsfulla fritidsaktiviteter
+\- Fortsätt att säkerställa att barnen har en långsiktig tillgång till meningsfulla fritidsaktiviteter
 genom att utveckla ett brett och tillgängligt utbud, som sträcker sig bortom den omorganiserade
 verksamheten. Detta kan inkludera samarbete med föreningar, kultur- och fritidsenheter för att
 
 bredda tillgången.
 
-- Arbeta för att barnens behov och röster alltid beaktas i beslut som rör deras framtid och
+\- Arbeta för att barnens behov och röster alltid beaktas i beslut som rör deras framtid och
 välmående, genom att skapa rutiner för regelbundna återkopplingsmöten där barnen får ge
 synpunkter på befintligt aktiviteter och stöd.
 
-- Bygg vidare på samverkan mellan olika förvaltningar för att skapa en långsiktig, helhetssyn på
+\- Bygg vidare på samverkan mellan olika förvaltningar för att skapa en långsiktig, helhetssyn på
 
 barnens behov och stärka deras rätt till ett sammanhängande stöd för barn i risk att "falla
 mellan stolarna".
@@ -2669,7 +2669,7 @@ Beskrivning av ärendet
 
 Förvaltningens åtgärder utifrån revisionens granskning:
 
-1. Gällande revisionens föreslagna rekommendationer kring föreningsbidrag och
+1\. Gällande revisionens föreslagna rekommendationer kring föreningsbidrag och
 hyressubventioner
 
 • Säkerställa att systemet för föreningsbidrag och principerna för klubblokaler och verksamhetsytor
@@ -2702,7 +2702,7 @@ omhänderta revisionens rekommendationer.
 Enheten Förening & Hållbar hälsa har, med stöd av förvaltningen, ansvar för att genomföra nämnden
 för Kultur & Fritids beslut.
 
-2. Gällande revisionens föreslagna rekommendationer kring jäv
+2\. Gällande revisionens föreslagna rekommendationer kring jäv
 
 • Fortsätta arbetet med att öka kunskapen kring jäv och otillåten påverkan inom förvaltningen.
 
@@ -2746,7 +2746,7 @@ KUNGSBACKA       KOMMUN
 Innehållsförteckning
 
 Sammanfattning .................................................................................................................. 3
-1.  Inledning .................................................................................................................... 5
+1\.  Inledning .................................................................................................................... 5
 
 1.1. Bakgrund ................................................................................................................... 5
 1.2. Syfte och revisionsfrågor ........................................................................................... 5
@@ -2755,13 +2755,13 @@ Sammanfattning .................................................................
 1.4. Metod ........................................................................................................................ 6
 
 1.5. Avgränsningar och ansvariga nämnder ...................................................................... 6
-2.  Fördjupad bakgrund till granskningen .................................................................... 7
+2\.  Fördjupad bakgrund till granskningen .................................................................... 7
 
 2.1. Ett flertal risker har tidigare identifierats avseende föreningsbidrag ............................ 7
 2.2. Det har inte funnits några principer för beslut av subventionsgrad av lokalhyra ......... 8
 
 2.3. Risker för jäv .............................................................................................................. 8
-3.  Föreningsbidrag ....................................................................................................... 9
+3\.  Föreningsbidrag ....................................................................................................... 9
 
 3.1. Vår bedömning avseende föreningsbidrag ................................................................. 9
 3.2. Det finns få krav för utbetalning av föreningsbidrag ................................................... 9
@@ -2769,20 +2769,20 @@ Sammanfattning .................................................................
 3.3. Uppföljning sker främst via dialog .............................................................................10
 3.4. Nämnden har i december beslutat om ett nytt system för föreningsstöd ...................11
 
-4.  Hyressubventioner ..................................................................................................13
+4\.  Hyressubventioner ..................................................................................................13
 4.1. Vår bedömning avseende hyressubventioner ...........................................................13
 
 4.2. Det finns inga dokumenterade rutiner eller motivering för beslut kopplad till
 hyressubventionerna ............................................................................................................13
 4.3. Nämnden har beslutat om principer för klubblokaler och verksamhetsytor ................14
 
-5.  Jäv ............................................................................................................................16
+5\.  Jäv ............................................................................................................................16
 5.1. Vår bedömning avseende jäv ....................................................................................16
 
 5.2. Arbetet med att förebygga jäv i förvaltnignen ............................................................16
 5.3. Arbetet med att förebygga jäv i nämnden ..................................................................16
 
-6.  Samlad bedömning och rekommendationer ..........................................................17
+6\.  Samlad bedömning och rekommendationer ..........................................................17
 6.1. Bedömning utifrån revisionsfrågorna .........................................................................17
 
 6.2. Slutsatser och rekommendationer .............................................................................19
@@ -2829,8 +2829,8 @@ uppdaterat regelverk för utbetalning av föreningsbidrag som blir gällande 202
 övergångsår. Vår bedömning är att nämnden inte vidtagit tillräckliga åtgärder utifrån
 tidigare rekommendationer från revisionen. Nämnden har därmed inte haft en
 ändamålsenlig styrning, kontroll och uppföljning av arbetet med föreningsbidrag under
-2024. Vi noterar även att det uppdaterade regelverket i sin helhet blir gällande först under
-2026. Granskningen visar att brister som identifierats av revisionen sedan 2020 inte har
+2024\. Vi noterar även att det uppdaterade regelverket i sin helhet blir gällande först under
+2026\. Granskningen visar att brister som identifierats av revisionen sedan 2020 inte har
 varit åtgärdade i verksamheten under 2024.
 
   Därtill beslutade nämnden i december 2024 att anta principer för klubblokaler och
@@ -2872,7 +2872,7 @@ löpande egenkontroller.
 
 <!-- sida 73 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -2950,7 +2950,7 @@ Granskningen avgränsas med ställda revisionsfrågor och avser nämnden för ku
 
 <!-- sida 75 -->
 
-2. Fördjupad bakgrund till granskningen
+2\. Fördjupad bakgrund till granskningen
 
 Nämnden för kultur och fritids arbete med föreningsbidrag och hyressubventioner har varit
 föremål för revisionens granskning sedan 2020. Revisionen har genomfört tre granskningar för
@@ -3013,7 +3013,7 @@ förebygga jäv.
 
 <!-- sida 77 -->
 
-3. Föreningsbidrag
+3\. Föreningsbidrag
 
 3.1. Vår bedömning avseende föreningsbidrag
 
@@ -3207,7 +3207,7 @@ uppföljning och kontroll av utbetalde stöd.
 
 <!-- sida 81 -->
 
-4. Hyressubventioner
+4\. Hyressubventioner
 
 4.1. Vår bedömning avseende hyressubventioner
 
@@ -3234,7 +3234,7 @@ Det saknas dokumenterade rutiner för uthyrningsprocessen. Av intervju med förv
 framkommer att bokning av de kommunala verksamhetsytorna sker via ett bokningssystem.
 Både föreningar och privatpersoner kan boka verksamhetsytorna. Avgifterna för att hyra
 verksamhetsytorna är beslutades av kommunfullmäktige i december 2021 och trädde i kraft
-2022. Av årsredovisningen från 2023 framgår att intäkterna för uthyrning av
+2022\. Av årsredovisningen från 2023 framgår att intäkterna för uthyrning av
 verksamhetsytorna ökade under 2023. Det beskrivs i årsredovisningen att det generellt är ett
 högt tryck på hyrning av idrottshallar.
 
@@ -3312,7 +3312,7 @@ finansieras med allmänna medel.
 
 Principerna för klubblokaler och verksamhetsytor blir gällande från och med 2025. Principerna
 blir gällande på så sätt att inga nya avtal för hyressubventioner kommer ingås från och med
-2025. Därtill kommer förvaltningen tillsammans med föreningarna att planera för utfasningen
+2025\. Därtill kommer förvaltningen tillsammans med föreningarna att planera för utfasningen
 av hyressubventioner, utifrån respektive förenings förutsättningar. Principerna kommer inte
 
 kunna implementeras fullt ut förrän i samband med att utfasningen av befintliga
@@ -3326,7 +3326,7 @@ förvaltningen under 2025 föreslå nya taxor och avgifter gällande verksamhets
 
 <!-- sida 84 -->
 
-5. Jäv
+5\. Jäv
 
 5.1. Vår bedömning avseende jäv
 
@@ -3378,7 +3378,7 @@ protokollen.
 
 <!-- sida 85 -->
 
-6. Samlad bedömning  och rekommendationer
+6\. Samlad bedömning  och rekommendationer
 
 6.1. Bedömning utifrån revisionsfrågorna
 
@@ -3513,21 +3513,21 @@ Regler kring jäv
 
 Enligt kommunens hemsida3 får en ledamot i en nämnd eller arbetsutskott inte delta i
 handläggningen av ett ärende om:
-1. saken angår honom eller henne själv eller hans eller hennes make, sambo, förälder,
+1\. saken angår honom eller henne själv eller hans eller hennes make, sambo, förälder,
 barn eller syskon eller någon annan närstående om ärendets utgång kan väntas
 
 medföra synnerlig nytta eller skada för den förtroendevalde själv eller någon
 närstående (sakägar-, släktskaps- och intressejäv).
-2. han eller hon eller någon närstående är ställföreträdare för den som saken angår eller
+2\. han eller hon eller någon närstående är ställföreträdare för den som saken angår eller
 för någon som kan vänta synnerlig nytta eller skada av ärendets utgång
 (ställföreträdarjäv).
 
-3. ärendet rör tillsyn över sådan kommunal verksamhet som han eller hon själv är knuten
+3\. ärendet rör tillsyn över sådan kommunal verksamhet som han eller hon själv är knuten
 till (tillsynsjäv)
 
-4. han eller hon har fört talan som ombud eller mot ersättning biträtt någon i saken
+4\. han eller hon har fört talan som ombud eller mot ersättning biträtt någon i saken
 (ombuds- eller biträdesjäv).
-5. det i övrigt finns någon särskild omständighet som är ägnad att rubba förtroendet till
+5\. det i övrigt finns någon särskild omständighet som är ägnad att rubba förtroendet till
 
 hans opartiskhet i ärendet. (delikatessjäv)
 Vid så kallade dubbla engagemang, om en förtroendevald är ledamot i olika nämnder är
@@ -3702,13 +3702,13 @@ Förändringar kopplade till klubblokaler och verksamhetsytor
 
 Principer för klubblokaler
 Avseende klubblokaler kommer förvaltningen utgå från två modeller, vilka är:
-1. Föreningar hyr klubblokal för en hyra som inte subventioneras av kommunen, enligt ett
+1\. Föreningar hyr klubblokal för en hyra som inte subventioneras av kommunen, enligt ett
 av tre alternativ:
 a. Hela klubblokalen
 
 b. Tillsammans med en eller flera andra förningar
 c. Begränsat antal kvadratmeter
-2. Föreningen äger själv sin klubblokal.
+2\. Föreningen äger själv sin klubblokal.
 a. Föreningar kan ges möjlighet att köpa loss klubblokaler som ägs av kommunen.
 b. Kommunen kan ge stöd i form av kompetens vid underhåll och renovering av
 klubblokal för att säkerställa att den är säker och lämplig för att det den ska
@@ -3722,24 +3722,24 @@ nämnden beslutat att införa en värderingsmodell. Värderingsmodellen ska bidr
 upprätta en samlad bedömning för att planera befintliga och kommande stöd och investeringar.
 Till grund för bedömningen finns ett antal kriterier som har ett poängvärde. Följande kriterier
 ingår i värderingsmallen:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika
 sporter (2 p)
-2. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för
+2\. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för
 
 olika aktiviteter, möten eller evenemang. Ytan kan användas av många, för såväl
 organiserade som icke organiserade ändamål (2 p).
-3. Anläggningen ligger i område med hög befolkningstäthet, det vill säga Kungsbacka
+3\. Anläggningen ligger i område med hög befolkningstäthet, det vill säga Kungsbacka
 Stad, Säro, Onsala eller Åsa (2 p).
-4. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade
+4\. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade
 utifrån ålder, kön eller typ av idrott (2 p)
-5. Anläggningen ligger i ett av de strategiska fokusområdena Anneberg, Kungsbacka
+5\. Anläggningen ligger i ett av de strategiska fokusområdena Anneberg, Kungsbacka
 Stad eller Åsa (2 p).
 
-6. Anläggningen har god nåbarhet för barn och ungdomar, det vill säga att kan på egen
+6\. Anläggningen har god nåbarhet för barn och ungdomar, det vill säga att kan på egen
 hand ta sig till anläggningen (1 p).
-7. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport (1 p).
-8. Konstgräs. Omfattande miljökrav i underhåll (5 p).
-9. Begränsad nyttjandekapacitet. Anläggningen kan på grund av ljud- eller ljusstörningar
+7\. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport (1 p).
+8\. Konstgräs. Omfattande miljökrav i underhåll (5 p).
+9\. Begränsad nyttjandekapacitet. Anläggningen kan på grund av ljud- eller ljusstörningar
 inte nyttjas obegränsat. Det kan även pågå andra aktiviteter som begränsar
 möjligheterna för nyttjande för enskilda föreningar (-2 p).
 
@@ -3912,11 +3912,11 @@ Barn och ungdomsföreningar/ Lokalt
 15825 Segelsällskapet Kaparen aktivitetsstöd 2 2025-03-26 3 315,00
 Barn och ungdomsföreningar/ Lokalt
 
-15855 Varla IBK *   aktivitetsstöd 2        2025-03-25 79 005,00
+15855 Varla IBK \*   aktivitetsstöd 2        2025-03-25 79 005,00
 Kulturföreningar/ Enskilda
 15852 Kulturarrangör kulturprojekt          2025-03-18 10 000,00
 
-* Varla IBK har fått utbetalt 79005 kronor i förskott på intjänat lokalt aktivitetsstöd.
+\* Varla IBK har fått utbetalt 79005 kronor i förskott på intjänat lokalt aktivitetsstöd.
 Avser aktiviteter fram till 25 mars.
 
 <!-- sida 99 -->
@@ -4045,7 +4045,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 103 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -4076,12 +4076,12 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 
 /verksamhetssystemet.
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -4112,12 +4112,12 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande
 av delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut
 inte får genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått
 delegation undertecknas handling som beslutet avser av arbetsutskottets
 ordförande och förvaltningschefen.
@@ -4234,7 +4234,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 | 2.1.11 | Dataskydds-<br>förordningen<br>GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
 | --- | --- | --- | --- | --- |
-| 2.1.12 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
+| 2.1.12 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
 | 2.1.13 | Dataskydds-<br>förordningen<br>GDPR, artikel<br>28 | Teckna personuppgiftsbiträdesavtal. | Fc |  |
 
 <!-- sida 110 -->

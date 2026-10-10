@@ -508,7 +508,7 @@ Byggnadsnämnden gav den 21 mars 2024 § 76 Samhällsbyggnadskontoret i uppdrag
 att återuppta planarbetet.
 Kompletterande utredning gällande skyfall har tagits fram och planhandlingar har
 uppdaterats i erforderliga delar. En ny granskning genomfördes 24 februari -18 mars
-2025. Under granskningen inkom 12 skrivelser.
+2025\. Under granskningen inkom 12 skrivelser.
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga
 eller andra allmänna intressen och bedömer, med hänsyn till prövningsgrunderna i 11
@@ -628,10 +628,10 @@ Datum
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -991,10 +991,10 @@ Byggnadsnämnden
 Datum
 2025-06-26
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Prövningen om en lovpliktig åtgärd är lämplig på en viss plats utgår ifrån
@@ -1011,11 +1011,11 @@ planläggning är en förutsättning för att kunna bevilja ansökan om bygglov.
 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes lämplighet
 för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns utformning för:
 
-1. en ny sammanhållen bebyggelse … om det behövs …
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
+1\. en ny sammanhållen bebyggelse … om det behövs …
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
 
-3. (…)
-4. ett nytt byggnadsverk som kräver bygglov om… a) byggnadsverket eller dess
+3\. (…)
+4\. ett nytt byggnadsverk som kräver bygglov om… a) byggnadsverket eller dess
 
 användning får betydande inverkan på omgivningen eller om det råder stor
 efterfrågan på området för bebyggande,

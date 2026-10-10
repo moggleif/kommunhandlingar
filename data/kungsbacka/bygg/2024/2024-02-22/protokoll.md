@@ -420,7 +420,7 @@ Verksamhetschef Helena Borgström redogör för bygg- och miljöförvaltningens
 innovations- och utvecklingsportfölj. Portföljen beskriver de initiativ som
 förvaltningen har planerat att utföra för att uppnå vår målbild och visionen - I
 Kungsbacka växer framtiden” samt bidra till de globala hållbarhetsmålen i Agenda
-2030. Genom portföljen säkerställer nämnden att förvaltningen arbetar aktivt med
+2030\. Genom portföljen säkerställer nämnden att förvaltningen arbetar aktivt med
 kommunfullmäktiges direktiv, innovation och omställning till nya arbetssätt.
 
 Portföljen består av olika initiativ, projekt och ständiga förbättringar som är
@@ -559,7 +559,7 @@ planområdet samt digitalisera gällande detaljplan. Syftet med detaljplaneändr
 ansvar. Planområdet ligger i Fjärås station, i närheten av västkustbanan och E6:an.
 Fastigheter inom planområdet ägs i huvudsak av Kungsbacka kommun.
 Planförslaget har varit utställt för granskning under tiden 9 november – 1 december
-2023. Under granskningstiden inkom sju skrivelser. Inkomna synpunkter berör i
+2023\. Under granskningstiden inkom sju skrivelser. Inkomna synpunkter berör i
 huvudsak mindre justeringar. Se vidare i granskningsutlåtandet.
 
 Beslutsunderlag
@@ -616,7 +616,7 @@ godkänts den den 27 mars 2018. I planprogrammet redovisas att fastigheten Sär�
 1:440 kan styckas av för att möjliggöra 1-2 fastigheter för bostadsändamål.
 Planförslaget har varit utställt för granskning under tiden 26 oktober – 17 november
 
-2023. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2023\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak påverkan på Särö utsiktsväg, påverkan vid genomförande samt påverkan
 på intilliggande hotellverksamhet. Se vidare i granskningsutlåtandet.
 Planområdet ligger på Särön intill Säröhus och är i dagsläget planlagd för
@@ -1433,20 +1433,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften,
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen,
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området,
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området,
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området, eller
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Sökande har i ansökan angett som särskilt skäl till varför en dispens ska ges att
 området behöver tas i anspråk för att utvidga en pågående verksamhet som inte kan
 utvidgas utanför området.
@@ -1683,7 +1683,7 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1.       redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\.       redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
 Expedierat/bestyrkt
@@ -1695,17 +1695,17 @@ Byggnadsnämnden
 Datum
 2024-02-22
 
-2.       genom en väg, järnväg, bebyggelse, verksamhet eller annan
+2\.       genom en väg, järnväg, bebyggelse, verksamhet eller annan
 exploatering är väl avskilt från området närmast strandlinjen.
-3.       behövs för en anläggning som för sin funktion måste ligga vid vattnet
+3\.       behövs för en anläggning som för sin funktion måste ligga vid vattnet
 och behovet inte kan tillgodoses utanför området.
 
-4.       behövs för att utvidga en pågående verksamhet och utvidgningen inte
+4\.       behövs för att utvidga en pågående verksamhet och utvidgningen inte
 kan genomföras utanför området.
 
-5.       behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse
+5\.       behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse
 som inte kan tillgodoses utanför området.
-6.       behöver tas i anspråk för att tillgodose ett annat mycket angeläget
+6\.       behöver tas i anspråk för att tillgodose ett annat mycket angeläget
 intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom

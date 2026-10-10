@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-5.  Lokalresursplan       FG-2025-00186 Nämnden för Förskola & Grundskola beslutar
+5\.  Lokalresursplan       FG-2025-00186 Nämnden för Förskola & Grundskola beslutar
 att:
 Kl 13:45-14:45                    Kyviksängs förskola stängs juli 2025 och
 förskoleverksamheten flyttas till Sandlyckans

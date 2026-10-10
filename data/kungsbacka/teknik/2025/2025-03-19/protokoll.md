@@ -460,20 +460,20 @@ Sammanfattning av ärendet
 Under perioden 13 februari och 12 mars inkom följande skrivelser till nämnden för
 Teknik:
 
-- Interpellation till nämnden för Teknik - Skydda och säkerställ tillgång till
+\- Interpellation till nämnden för Teknik - Skydda och säkerställ tillgång till
 dricksvatten
-- Beslut - NV-25-003309, Kvartalsersättning förpackningsavfall
+\- Beslut - NV-25-003309, Kvartalsersättning förpackningsavfall
 
-- Medborgardialog: Vattenbrist och avloppsutsläpp
-- Beslut KS § 21 - Begäran om ny sammanräkning för uppdrag som ersättare i
+\- Medborgardialog: Vattenbrist och avloppsutsläpp
+\- Beslut KS § 21 - Begäran om ny sammanräkning för uppdrag som ersättare i
 kommunfullmäktige samt fyllnadsval för uppdrag som ersättare i nämnden för
 Teknik och partirepresentant i Eksta Bostads AB och Tempohus Kungsbacka AB,
 
 KS-2025-00107
-- Tjänsteskrivelse 2025-02-04 KF § 7 Revidering av kemikalieplan 2024
+\- Tjänsteskrivelse 2025-02-04 KF § 7 Revidering av kemikalieplan 2024
 
-- Kemikalieplan KF 2025-02-04 § 7
-- Protokollsutdrag 2025-02-04 KF § 7 Revidering av kemikalieplan 2024, KS-2024-
+\- Kemikalieplan KF 2025-02-04 § 7
+\- Protokollsutdrag 2025-02-04 KF § 7 Revidering av kemikalieplan 2024, KS-2024-
 00548
 
 Beslutsgång
@@ -502,10 +502,10 @@ Sammanfattning av ärendet
 
 Nämnden informeras om bland annat:
 
--  Skräpplockardagen den 9 maj
--  En utvärdering av nämnden för Tekniks resultatdag den 26 februari
+\-  Skräpplockardagen den 9 maj
+\-  En utvärdering av nämnden för Tekniks resultatdag den 26 februari
 
--  Tekniks presidiums dialog med budgetberedningar om investeringar inför
+\-  Tekniks presidiums dialog med budgetberedningar om investeringar inför
 2026 års budget
 
 Beslutsgång

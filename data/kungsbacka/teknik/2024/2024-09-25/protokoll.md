@@ -340,8 +340,8 @@ fullmakt att underteckna avtalet.
 Beslut om uppdatering av delegeringsförteckning gällande dataskyddsförordningen
 innefattar förändringar enligt nedan:
 
-* 3.11 – förtydligande om vad delegationsbeslutet avser.
-* 13.11.1 (Ny delegering)
+\* 3.11 – förtydligande om vad delegationsbeslutet avser.
+\* 13.11.1 (Ny delegering)
 
 Dataskyddsförordningen, artikel 28
 Hantering av personuppgifter - Riktlinjer, Kommunfullmäktige 2024-03-05 § 33
@@ -352,7 +352,7 @@ av kommunens samtliga nämnder. Kommungemensamma tjänster och system som
 stödjer kommungemensamma stödprocesser som utförs av Service eller
 kommunstyrelsen enligt deras reglementen omfattas inte.
 
-* 13.11.2 (Ny delegering)
+\* 13.11.2 (Ny delegering)
 Dataskyddsförordningen GDR, artikel 28
 
 Hantering av personuppgifter - Riktlinjer, Kommunfullmäktige 2024-03-05 § 33
@@ -364,13 +364,13 @@ digitala tjänsten eller systemet.
 Beslut om uppdatering av delegeringsförteckning i övrigt innefattar förändringar
 
 enligt nedan:
-* Avsnitt 1.6 – Automatiserade beslutsfunktioner
+\* Avsnitt 1.6 – Automatiserade beslutsfunktioner
 
-* 3.18.1 (Ny delegering)
+\* 3.18.1 (Ny delegering)
 Verksamhetschef har delegerat att sluta avtal inom sitt verksamhetsområde, då det
 ryms inom budget. Avser ej avtal av principiell karaktär.
 
-* 4.12 – Delegationsbeslutet delegeras till en automatiserad beslutsfunktion
+\* 4.12 – Delegationsbeslutet delegeras till en automatiserad beslutsfunktion
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 676E52B0D71E979C3CA61D079ADD67E848B667F629
@@ -383,14 +383,14 @@ Nämnden för Teknik
 Datum
 2024-09-25
 
-* 4.20 – (Ny delegering) Avsteg från torgstadgan för att möjliggöra försäljning under
+\* 4.20 – (Ny delegering) Avsteg från torgstadgan för att möjliggöra försäljning under
 längre period.
 Enligt kommunfullmäktiges beslut daterat 2024-05-07 § 82, har nämnden för Teknik
 fått delegerat till sig att vid behov bevilja avsteg från torgstadgan för att möjliggöra
 försäljning under längre period i de fall avetablering av försäljningsutrustning är
 
 olämplig varje kväll.
-* 9.7 – Möjligheten att ta beslut om avslag upp till 0,5 prisbasbelopp har tagits bort.
+\* 9.7 – Möjligheten att ta beslut om avslag upp till 0,5 prisbasbelopp har tagits bort.
 
 Beslutsunderlag
 Förvaltningen för Tekniks tjänsteskrivelse, daterad 2024-09-02
@@ -525,42 +525,42 @@ nämnden för Tekniks arbetsutskott för 2025.
 
 Sammanfattning av ärendet
 Val av dagar för Tekniks arbetsutskott och nämnden för Tekniks sammanträden
-2025. Mötesrum för arbetsutskottet är Onsala-rummet, samtliga sammanträden äger
+2025\. Mötesrum för arbetsutskottet är Onsala-rummet, samtliga sammanträden äger
 rum klockan 08:00-10:00 på måndagar. Nämnden för Teknik sammanträder klockan
 17:00-21:00 på onsdagar.
 
 Nämnden för Tekniks arbetsutskott sammanträder följande datum 2025:
--  3 februari
+\-  3 februari
 
--  3 mars
+\-  3 mars
 
--  7 april
--  5 maj
+\-  7 april
+\-  5 maj
 
--  2 juni
--  25 augusti
+\-  2 juni
+\-  25 augusti
 
--  6 oktober
--  3 november
+\-  6 oktober
+\-  3 november
 
--  1 december
+\-  1 december
 Nämnden för Teknik sammanträder följande datum 2025:
 
--  22 januari
--  19 februari
+\-  22 januari
+\-  19 februari
 
--  19 mars
--  16 april
+\-  19 mars
+\-  16 april
 
--  14 maj
+\-  14 maj
 
--  18 juni
--  24 september
+\-  18 juni
+\-  24 september
 
--  22 oktober
--  19 november
+\-  22 oktober
+\-  19 november
 
--  17 december
+\-  17 december
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 676E52B0D71E979C3CA61D079ADD67E848B667F629
@@ -682,41 +682,41 @@ Sammanfattning av ärendet
 Under perioden 12 juni och 17 september inkom följande skrivelser till nämnden för
 Teknik:
 
-- Beslut - 202000618 - KS - § 107
-- Tjänsteskrivelse 2024-08-13 KF § 107 Återrapportering av uppdrag om att
+\- Beslut - 202000618 - KS - § 107
+\- Tjänsteskrivelse 2024-08-13 KF § 107 Återrapportering av uppdrag om att
 utvärdera införande av språkkrav vid anställning inom skolan samt vård och omsorg i
 Kungsbacka kommun
 
-- Beslut - 202400362 - KS - § 106
-- Beslut - 202400362 - KS - § 176
+\- Beslut - 202400362 - KS - § 106
+\- Beslut - 202400362 - KS - § 176
 
-- Beslut - 202400362 - KS - § 193
-- (Tjänsteskrivelse) Sammanträdesdagar 2025 för KF, KS och KSAU
+\- Beslut - 202400362 - KS - § 193
+\- (Tjänsteskrivelse) Sammanträdesdagar 2025 för KF, KS och KSAU
 
-- Noll omkomna och skadade - hur når vi dit?
+\- Noll omkomna och skadade - hur når vi dit?
 
-- Uppdragsavtal för arkeologisk utredning - Dnr, 511-00765-2023
-- Bifogad PDF - en diskussion att lägga ner en trumma under uppfart i Onsala
+\- Uppdragsavtal för arkeologisk utredning - Dnr, 511-00765-2023
+\- Bifogad PDF - en diskussion att lägga ner en trumma under uppfart i Onsala
 
-- Till kommunen och Teknik - en diskussion att lägga ner en trumma under uppfart i
+\- Till kommunen och Teknik - en diskussion att lägga ner en trumma under uppfart i
 Onsala
-- Invånardialog: Husbilar och hästar vid Rågelund
+\- Invånardialog: Husbilar och hästar vid Rågelund
 
-- Invånardialog: Husbilar vid Rågelund
-- Tjänsteskrivelse - Svar på motion från Roger Larsson (KB) om prioritering av
+\- Invånardialog: Husbilar vid Rågelund
+\- Tjänsteskrivelse - Svar på motion från Roger Larsson (KB) om prioritering av
 biologisk mångfald, KS-2023-00584
 
-- Beslut KS § 100 - Svar på motion från Roger Larsson (KB) om prioritering av
+\- Beslut KS § 100 - Svar på motion från Roger Larsson (KB) om prioritering av
 biologisk mångfald, KS-2023-00584
 
-- Tjänsteskrivelse - Bredbandstaxa 2025, KS-2024-00299
-- Beslut KS § 99 - Bredbandstaxa 2025, KS-2024-00299
+\- Tjänsteskrivelse - Bredbandstaxa 2025, KS-2024-00299
+\- Beslut KS § 99 - Bredbandstaxa 2025, KS-2024-00299
 
-- Taxa för bredband 2025 - KF 2024-06-13 § 159, KS-2024-00299
-- Tjänsteskrivelse - Uppföljning och prognos april 2024 för Kungsbacka kommun,
+\- Taxa för bredband 2025 - KF 2024-06-13 § 159, KS-2024-00299
+\- Tjänsteskrivelse - Uppföljning och prognos april 2024 för Kungsbacka kommun,
 KS-2024-00326
 
-- Uppföljning och prognos april 2024 för Kungsbacka kommun, version till KF, KS-
+\- Uppföljning och prognos april 2024 för Kungsbacka kommun, version till KF, KS-
 2024-00326
 
 Det här dokumentet är digitalt signerat
@@ -730,34 +730,34 @@ Nämnden för Teknik
 Datum
 2024-09-25
 
-- Beslut KS § 92 - Uppföljning och prognos april 2024 för Kungsbacka kommun,
+\- Beslut KS § 92 - Uppföljning och prognos april 2024 för Kungsbacka kommun,
 KS-2024-00326
-- Tjänsteskrivelse - Kommunbudget 2025, plan 2026-2027, KS-2023-00686
+\- Tjänsteskrivelse - Kommunbudget 2025, plan 2026-2027, KS-2023-00686
 
-- Beslut KS § 91 - Kommunbudget 2025, plan 2026-2027, KS-2023-00686
-- Kommunbudget 2025, plan 2026-2027, antagen av kommunfullmäktige 2024-06-
+\- Beslut KS § 91 - Kommunbudget 2025, plan 2026-2027, KS-2023-00686
+\- Kommunbudget 2025, plan 2026-2027, antagen av kommunfullmäktige 2024-06-
 
 13, § 91
-- Tjänsteskrivelse - Godkännande av projekt Framtidens avloppsrening i
+\- Tjänsteskrivelse - Godkännande av projekt Framtidens avloppsrening i
 Kungsbacka, KS-2024-00265
 
-- Beslut KF § 89 - Godkännande av projekt Framtidens avloppsrening i Kungsbacka,
+\- Beslut KF § 89 - Godkännande av projekt Framtidens avloppsrening i Kungsbacka,
 KS-2024-00265
-- Ny rapport: Så kan kommunen stärka folkhälsan genom friluftsliv
+\- Ny rapport: Så kan kommunen stärka folkhälsan genom friluftsliv
 
-- Beslut, Planeringsstrategi KF 2024-06-13 § 157, KS-2023-00567
-- Planeringsstrategi KF 2024-06-13 § 157
+\- Beslut, Planeringsstrategi KF 2024-06-13 § 157, KS-2023-00567
+\- Planeringsstrategi KF 2024-06-13 § 157
 
-- Protokollsutdrag 2024-06-13 KF § 98 Fastställande av VA-verksamhetsområde
+\- Protokollsutdrag 2024-06-13 KF § 98 Fastställande av VA-verksamhetsområde
 2023, KS-2024-00278
 
-- Informationsbehovslista Nämnden för Teknik
-- Projektplan - Granskning oegentligheter upphandling avtalsuppföljning till
+\- Informationsbehovslista Nämnden för Teknik
+\- Projektplan - Granskning oegentligheter upphandling avtalsuppföljning till
 verksamheten
 
-- E-post - Information om revisionens granskning av interna kontroller kopplade till
+\- E-post - Information om revisionens granskning av interna kontroller kopplade till
 risken för välfärdsbrott i upphandling och avtalsuppföljning
-- Invånardialog: Dagvatten i Åsa
+\- Invånardialog: Dagvatten i Åsa
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden för Teknik kan notera
@@ -819,11 +819,11 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Omlastningsstationen i Duvehed
--  Information till Byggnadsnämnden och Miljönämnden om dricksvattenfrågan
+\-  Omlastningsstationen i Duvehed
+\-  Information till Byggnadsnämnden och Miljönämnden om dricksvattenfrågan
 
--  Omställning till nya arbetssätt och innovationsutbildning
--  En sammanfattning och diskussion om planeringsdagen
+\-  Omställning till nya arbetssätt och innovationsutbildning
+\-  En sammanfattning och diskussion om planeringsdagen
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden för Teknik kan notera

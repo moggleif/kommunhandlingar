@@ -348,8 +348,8 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 tillsammans med bifogade handlingar.
 Förvaltningen redovisar:
 
-- ett underskott på driftbudgeten om -1,1 miljoner kronor
-- ett överskott på investeringsbudgeten om +14,4 miljoner kronor
+\- ett underskott på driftbudgeten om -1,1 miljoner kronor
+\- ett överskott på investeringsbudgeten om +14,4 miljoner kronor
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2025-01-30
@@ -383,9 +383,9 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att begära:
 
-* att av nämndens underskott om total -1 145 tkr, ska +316 tkr som avser internränta
+\* att av nämndens underskott om total -1 145 tkr, ska +316 tkr som avser internränta
 återredovisas och -1 416 tkr föras till nämndens resultatfond
-* att av nämndens överskott i investeringsbudgeten om 14 433 tkr begära 2 384 tkr
+\* att av nämndens överskott i investeringsbudgeten om 14 433 tkr begära 2 384 tkr
 som avser ombudgeteras till år 2025 och 3 140 tkr till 2026. De belopp som önskas
 ombudgeteras avser konst 1% som är pågående och framtida lokalprojekt.
 
@@ -409,7 +409,7 @@ inom kategorin Lokaler. Övriga investeringar görs bedömning om avsatta
 budgetmedel täcker beräknade utgifter under året eller inte. Kultur & Fritid redovisar
 ett överskott om 14 433 tkr, varav 5 524 tkr avser konstnärlig gestaltning i lokaler.
 Av det beloppet begärs 2 384 tkr att ombudgeteras till år 2025 och 3 140 tkr till år
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -530,10 +530,10 @@ Sammanfattning av ärendet
 Karl Persson, förvaltningschef, Marie Persson, verksamhetschef och Sofia Rosén,
 verksamhetschef, informerar nämnden om aktuellt läge på initiativ:
 
-* Kungsbackas historia
-* Utökade aktiviteter på boenden
+\* Kungsbackas historia
+\* Utökade aktiviteter på boenden
 
-* Stärkt brottsförebyggande arbete
+\* Stärkt brottsförebyggande arbete
 
 Beslutsunderlag
 
@@ -598,7 +598,7 @@ har sin bakgrund i priset Kungsbackas tenntallrik som instiftades redan 1975 och
 delas årligen ut av kommunfullmäktige.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
 Kungsbackaförening b. bosatt i Kungsbacka kommun, men tävlande för förening
 
 Det här dokumentet är digitalt signerat
@@ -614,14 +614,14 @@ Datum
 
 utanför Kungsbacka och har som enskild eller genom lag erövrat ett svenskt
 mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
+2\. Priset utdelas endast en gång till en och samma person.
 
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
 som är berättigad till priset.
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
 
 utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
 och verkställs av nämnden för Kultur & Fritids ordförande samt
 kommunfullmäktiges ordförande.
 
@@ -692,10 +692,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att
 
-- utse X till Årets eldsjäl 2024.
-- offentliggöra pristagaren vid prisceremonin.
+\- utse X till Årets eldsjäl 2024.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Annelie Evenmyr (HK Aranäs), Helena Persson (Frode Scoutkår) och
+\- nominera Annelie Evenmyr (HK Aranäs), Helena Persson (Frode Scoutkår) och
 Lena Lundin (Kungsbacka Fotoklubb) som finalister.
 
 Sammanfattning av ärendet
@@ -704,11 +704,11 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 av den enskilda kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
 kommun. b. medlem i Kungsbackaförening
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 
 av nämnden för Kultur & Fritids ordförande.
 
@@ -744,10 +744,10 @@ Datum
 Beslut
 
 Nämnden för Kultur & Fritid beslutar att
-- utse X till Årets förening 2024.
+\- utse X till Årets förening 2024.
 
-- offentliggöra pristagare vid prisceremonin.
-- nominera Kungsbacka Majblommeförening, Attention Kungsbacka och
+\- offentliggöra pristagare vid prisceremonin.
+\- nominera Kungsbacka Majblommeförening, Attention Kungsbacka och
 Kungsbacka MMA till finalister.
 
 Sammanfattning av ärendet
@@ -758,12 +758,12 @@ premiera föreningar i Kungsbacka kommun som på ett framgångsrikt sätt bedriv
 sin verksamhet.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
 nämnden för Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka
 kommun.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -815,10 +815,10 @@ Datum
 Beslut
 
 Nämnden för Kultur & Fritid beslutar att
-- utse X till Årets förnyare 2024.
+\- utse X till Årets förnyare 2024.
 
-- offentliggöra pristagare vid prisceremonin.
-- nominera Löftadalens Scoutkår, Löftaleden Ideell Förening och VIVA Stories som
+\- offentliggöra pristagare vid prisceremonin.
+\- nominera Löftadalens Scoutkår, Löftaleden Ideell Förening och VIVA Stories som
 finalister.
 
 Jäv
@@ -830,13 +830,13 @@ och kreativt utvecklingsarbete hos aktörer som verkar inom något av nämndens
 ansvarsområden.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
 anknytning till Kungsbacka kommun som är verksam inom något av nämnden för
 
 Kultur & Fritids ansvarsområden
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -886,10 +886,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- utse X till 2024 års kulturpristagare.
-- offentliggöra pristagaren vid prisceremonin.
+\- utse X till 2024 års kulturpristagare.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Brittmarie Sundström, Therese Stridsberg och Kungsbacka Stadsteater till
+\- nominera Brittmarie Sundström, Therese Stridsberg och Kungsbacka Stadsteater till
 finalister.
 
 Sammanfattning av ärendet
@@ -932,8 +932,8 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- X tilldelas ledarstipendiet 2024.
-- ledarstipendiaten offentliggörs vid prisceremonin.
+\- X tilldelas ledarstipendiet 2024.
+\- ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -943,14 +943,14 @@ olika karaktär och som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
 bidragsberättigad förening i nämnden för Kultur & Fritids föreningsregister.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
 
 egna organisationens verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 Bedömningsvillkor Mottagare av stipendiet är en ungdomsledare inom det lokala
 föreningslivet, som på ett förtjänstfullt sätt medverkar till att skapa en meningsfull
 fritidssysselsättning för ungdomar i kommunen.
@@ -983,9 +983,9 @@ Idrottsstipendium 2025
 Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
-- 2024 års idrottsstipendium tilldelas X och X
+\- 2024 års idrottsstipendium tilldelas X och X
 
-- offentliggöra stipendiaterna vid prisceremonin.
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -1021,9 +1021,9 @@ Kulturstipendium 2025
 Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
-- tilldela X och X 2025 års kulturstipendier.
+\- tilldela X och X 2025 års kulturstipendier.
 
-- offentliggöra stipendiaterna vid prisceremonin.
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 

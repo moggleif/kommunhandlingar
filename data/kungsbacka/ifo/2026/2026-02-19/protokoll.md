@@ -364,7 +364,7 @@ Datum
 Beslut
 
 Nämnden för Individ & Familjeomsorg godkänner Årsrapport för God och nära vård
-2025.
+2025\.
 
 Sammanfattning av ärendet
 God och nära vård är ett övergripande mål för den omställning som sker inom hälso-
@@ -701,7 +701,7 @@ utifrån riskanalysen upprätta en internkontrollplan. Resultatet av årets arbe
 sammanställas i en uppföljningsrapport som ska beslutas av nämnden.
 
 Nämnden för Individ & Familjeomsorg antog internkontrollplan 2025 i november
-2024. Planen innehåller sju prioriterade risker. Av dessa är fyra risker
+2024\. Planen innehåller sju prioriterade risker. Av dessa är fyra risker
 kommungemensamma, som tagits fram centralt för varje nämnd att granska. Tre
 risker togs fram för Individ & Familjeomsorgs specifika verksamhetsområden.
 

@@ -913,43 +913,43 @@ Nämnden för Teknik noterar redovisningen av inkomna skrivelser till protokolle
 Sammanfattning av ärendet
 
 Under perioden 7 maj och 10 juni inkom följande skrivelser till nämnden för Teknik:
-- Till Verksamhetschef för Planavdelningen, samt berörda tjänstemän och
+\- Till Verksamhetschef för Planavdelningen, samt berörda tjänstemän och
 
 sakkunniga på Kungsbacka kommun - Ärende gällande fastigheterna Åsa 1:4, 1:27
 och 1:83
-- Missnöje med undlåtenhet att agera vid uppenbara oegentligheter - Fastigheterna
+\- Missnöje med undlåtenhet att agera vid uppenbara oegentligheter - Fastigheterna
 Åsa 1:4, 1:27 och 1:83
 
-- Protokollsutdrag 2025-05-06 KF § 85 - Ombudgeteringar och resultatfonder 2024
-- Tjänsteskrivelse 250312 - Ombudgetering och Resultatfonder 2024
+\- Protokollsutdrag 2025-05-06 KF § 85 - Ombudgeteringar och resultatfonder 2024
+\- Tjänsteskrivelse 250312 - Ombudgetering och Resultatfonder 2024
 
-- Sammanställning - Ombudgeteringar och resultatfonder 2024
-- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 90 - Avfallstaxa 2025
+\- Sammanställning - Ombudgeteringar och resultatfonder 2024
+\- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 90 - Avfallstaxa 2025
 
-- Taxa för avfall 2025
+\- Taxa för avfall 2025
 
-- Tjänsteskrivelse Avfallstaxa, maxtaxa 2025
-- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 91 - VA-taxa 2025
+\- Tjänsteskrivelse Avfallstaxa, maxtaxa 2025
+\- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 91 - VA-taxa 2025
 
-- Taxa för Vatten och avlopp 2025
-- Tjänsteskrivelse - VA-taxa 2025
+\- Taxa för Vatten och avlopp 2025
+\- Tjänsteskrivelse - VA-taxa 2025
 
-- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 95 - Detaljplan för
+\- Protokollsutdrag Kommunfullmäktige 2025-05-06 § 95 - Detaljplan för
 Kungsbacka 6:27 och Hammargård 1:7, KS-2021-00213
-- Ansökan om stämning angående ersättning m.m gällande fastigheten Iserås 4:77 -
+\- Ansökan om stämning angående ersättning m.m gällande fastigheten Iserås 4:77 -
 M 2350-25
 
-- Skriftliga frågor från revisionen - KF direktiv
-- Skriftliga frågor från Ernst & Young om nämndens arbete med direktiv från
+\- Skriftliga frågor från revisionen - KF direktiv
+\- Skriftliga frågor från Ernst & Young om nämndens arbete med direktiv från
 
 Kommunfullmäktige
-- Information om vattensituationen i Hallands län - 4158–2025
+\- Information om vattensituationen i Hallands län - 4158–2025
 
-- Beslut om miljösanktionsavgift - Barnamossen avfallsanläggning, Nämnden för
+\- Beslut om miljösanktionsavgift - Barnamossen avfallsanläggning, Nämnden för
 Teknik, MH-2025-1788
-- Föreläggande från Förvaltningsrätten i Göteborg - Mål nr 6324-25 Aktbilaga 6
+\- Föreläggande från Förvaltningsrätten i Göteborg - Mål nr 6324-25 Aktbilaga 6
 
-- TEAU Protokollsutdrag 2025-06-02 § 29 Initiativ angående – Övergångsställe
+\- TEAU Protokollsutdrag 2025-06-02 § 29 Initiativ angående – Övergångsställe
 Skårbyskolan
 
 Det här dokumentet är digitalt signerat
@@ -963,7 +963,7 @@ Nämnden för Teknik
 Datum
 2025-06-18
 
-- Överklagande i fråga om parkeringstillstånd för rörelsehindrad - 1965-2025
+\- Överklagande i fråga om parkeringstillstånd för rörelsehindrad - 1965-2025
 
 Beslutsgång
 

@@ -192,14 +192,14 @@ Samverkansavtal            kring    vuxnas
 
 lärande     i Göteborgsregionen
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Avtalets parter för detta samverkansavtal är Göteborgsregionens
 kommunalförbund (GR) och följande medlemskommuner: Ale, Alingsås,
 Göteborg, Härryda, Kungsbacka, Kungälv, Lerum, Lilla Edet, Mölndal,
 Partille, Stenungsund, Tjörn och Öckerö.
 
-2. Avtalets syfte och intentioner
+2\. Avtalets syfte och intentioner
 
 Föreliggande avtal avser att utveckla satsningen på tillväxtskapande
 yrkesutbildningar (benämnda avtalsutbildningar) i medlemskommunerna,
@@ -238,7 +238,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-3. Avtalstid
+3\. Avtalstid
 
 Avtalet avser verksamheten från och med 2024-01-01 och gäller till och med
 2026-12-31, med möjlighet att komplettera avtalet årligen. Beslut om
@@ -256,7 +256,7 @@ lärande i Göteborgsregionen” fr o m 2020-01-01 till 2023-12-31 att gälla f�
 samverkan kring yrkesutbildningar inom kommunal vuxenutbildning inom
 Göteborgsregionen.
 
-4. Avtalets omfattning
+4\. Avtalets omfattning
 
 4.1 Regionalt anordnade avtalsutbildningar
 
@@ -347,7 +347,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-5. Förutsättningar
+5\. Förutsättningar
 
 5.1 Generella förutsättningar
 
@@ -447,7 +447,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-6. Roll- och ansvarsfördelning
+6\. Roll- och ansvarsfördelning
 
 6.1 Antagningsnämnd (GRs politiska nämnd för utbildning)
 
@@ -573,10 +573,10 @@ och intentioner, till exempel i form av kommunikation och information
 
 beträffande statsbidrags utformning.
 
-7. Ekonomi
+7\. Ekonomi
 
 7.1 Finansiering av avtalsutbildningarna
-7. 1.1 Statsbidragsfinansierade utbildningar
+7\. 1.1 Statsbidragsfinansierade utbildningar
 Finansieringen av avtalsutbildningarna baseras på en grundpost, vilken
 utgörs av de kommunala resurser som avtalsparterna anslår samt, i den
 mån det förekommer, särskilda statsbidrag eller annan typ av finansiering
@@ -669,7 +669,7 @@ utifrån befolkningsmängden i respektive kommun mellan avtalsparterna
 och betalas via avräkningssystemet. GR:s budget och bokslut för
 samordningsuppdraget redovisas årligen för medlemskommunerna.
 
-8. Idé- och erfarenhetsutbyte för personal inom
+8\. Idé- och erfarenhetsutbyte för personal inom
 vuxnas lärande
 
 Göteborgsregionens samlade kompetens inom området vuxnas lärande tas
@@ -679,14 +679,14 @@ kring aktuella frågor i GR Utbildnings regi. Erfarenhetsutbytet sker i
 regional nätverksform kring t ex kvalitetsfrågor, ledarskap,
 utvecklingsarbete, omvärldsbevakning och lobbyverksamhet.
 
-9. Tvist
+9\. Tvist
 
 Tvist med anledning av detta avtal medlemskommunerna emellan löses i
 första hand genom lokala förhandlingar. Om parterna inte kommer överens
 sker medling genom GR. Om tvist inte kan lösas på detta sätt avgörs det av
 allmän domstol.
 
-10. Godkännande
+10\. Godkännande
 
 Föreliggande avtal ska efter godkännande i respektive kommun,
 undertecknat och tillsammans med kopia av beslut i nämnd/styrelse eller av
@@ -879,14 +879,14 @@ Samverkansavtal            kring    vuxnas
 
 lärande     i Göteborgsregionen
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Avtalets parter för detta samverkansavtal är Göteborgsregionens
 kommunalförbund (GR) och följande medlemskommuner: Ale, Alingsås,
 Göteborg, Härryda, Kungsbacka, Kungälv, Lerum, Lilla Edet, Mölndal,
 Partille, Stenungsund, Tjörn och Öckerö.
 
-2. Avtalets syfte och intentioner
+2\. Avtalets syfte och intentioner
 
 Föreliggande avtal avser att utveckla satsningen på tillväxtskapande
 yrkesutbildningar (benämnda avtalsutbildningar) i medlemskommunerna,
@@ -925,7 +925,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-3. Avtalstid
+3\. Avtalstid
 
 Avtalet avser verksamheten från och med 2024-01-01 och gäller till och med
 2026-12-31, med möjlighet att revidera och komplettera avtalet årligen.
@@ -942,7 +942,7 @@ lärande i Göteborgsregionen” fr o m 2020-01-01 till 2023-12-31 att gälla f�
 samverkan kring yrkesutbildningar inom kommunal vuxenutbildning inom
 Göteborgsregionen.
 
-4. Avtalets omfattning
+4\. Avtalets omfattning
 
 4.1 Regionalt anordnade avtalsutbildningar
 Under avtalsperioden för detta samverkansavtal ändras tillämpningen av
@@ -1032,7 +1032,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-5. Förutsättningar
+5\. Förutsättningar
 
 5.1 Generella förutsättningar
 
@@ -1133,7 +1133,7 @@ Samverkansavtal kring vuxnas lärande i Göteborgsregionen
 
 2024-01-01---2026-12-31
 
-6. Roll- och ansvarsfördelning
+6\. Roll- och ansvarsfördelning
 
 6.1 Antagningsnämnd (GRs politiska nämnd för utbildning)
 
@@ -1260,11 +1260,11 @@ Göteborgsregionens branschspecifika kompetensråd.
 och intentioner, till exempel i form av kommunikation och information
 beträffande statsbidrags utformning.
 
-7. Ekonomi
+7\. Ekonomi
 
 7.1 Finansiering av avtalsutbildningarna
 
-7. 1.1 Statsbidragsfinansierade utbildningar
+7\. 1.1 Statsbidragsfinansierade utbildningar
 Finansieringen av avtalsutbildningarna baseras på en grundpost, vilken
 utgörs av de kommunala resurser som avtalsparterna anslår samt, i den
 mån det förekommer, särskilda statsbidrag eller annan typ av finansiering
@@ -1359,7 +1359,7 @@ utifrån befolkningsmängden i respektive kommun mellan avtalsparterna
 och betalas via avräkningssystemet. GR:s budget och bokslut för
 samordningsuppdraget redovisas årligen för medlemskommunerna.
 
-8. Idé- och erfarenhetsutbyte för personal inom
+8\. Idé- och erfarenhetsutbyte för personal inom
 
 vuxnas lärande
 Göteborgsregionens samlade kompetens inom området vuxnas lärande tas
@@ -1370,14 +1370,14 @@ kring aktuella frågor i GR Utbildnings regi. Erfarenhetsutbytet sker i
 regional nätverksform kring t ex kvalitetsfrågor, ledarskap,
 utvecklingsarbete, omvärldsbevakning och lobbyverksamhet.
 
-9. Tvist
+9\. Tvist
 
 Tvist med anledning av detta avtal medlemskommunerna löses i första
 hand genom lokala förhandlingar. Om parterna inte kommer överens sker
 medling genom GR. Om tvist inte kan lösas på detta sätt avgörs det av
 allmän domstol.
 
-10. Godkännande
+10\. Godkännande
 
 Detta avtal är villkorat av att erforderligt godkännande erhålls i respektive
 kommun samt i GR och, om så är tillämpligt, vinner laga kraft.
@@ -1549,7 +1549,7 @@ REGIONEN
 
 Justeras:
 
-118)
+118\)
 
 <!-- sida 33 -->
 
@@ -1659,23 +1659,23 @@ Förslag till avtal
 
 Antagningsnämndens förslag till förbundsstyrelsen
 
-- att rekommendera förbundsstyrelsen att för egen del ingå avtalet.
+\- att rekommendera förbundsstyrelsen att för egen del ingå avtalet.
 
-- — att rekommendera förbundsstyrelsen att rekommendera
+\- — att rekommendera förbundsstyrelsen att rekommendera
 medlemskommunerna att fastställa samverkansavtalet för vuxnas
 lärande i Göteborgsregionen med de ändringarna att punkten 3 första
 stycket följande text ska utgå ”i enlighet med vad som anges i p. 6.2.”,
 att punkten 4.1.2. femte stycket sista meningen ska utgå samt att sista
 stycket i punkten 6.2 ska utgå.
 
-- att rekommendera förbundsstyrelsen att rekommendera
+\- att rekommendera förbundsstyrelsen att rekommendera
 medlemskommunerna att besluta att ge [den person/tjänstefunktion
 som medlemskommunen bestämmer] i uppdrag att besluta om
 revideringar av eller kompletteringar till samverkansavtalet då de
 befinns nödvändiga och i den mån förändringarna inte bedöms som
 väsentliga.
 
-- — att rekommendera förbundsstyrelsen besluta att besluta ge [den
+\- — att rekommendera förbundsstyrelsen besluta att besluta ge [den
 person/tjänstefunktion som styrelsen bestämmer] i uppdrag att besluta
 om revideringar av eller kompletteringar till samverkansavtalet då de
 befinns nödvändiga och i den mån förändringarna inte bedöms som
@@ -2418,11 +2418,11 @@ rättigheter för givet är den generation som kommer förlora dessa värden.
 
 Socialdemokraterna yrkar att:
 
-1. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
+1\. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
 minnesplatser kan planeras och utföras för grundskoleelever och gymnasieelever i Kungsbacka
 vilket ska genomföras i projektform under en lämplig tidsperiod för att därefter utvärderas.
 
-2. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
+2\. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
 lärare och andra professioner genom SKMAS fortbildningssatsning i ett led att utveckla och
 fördjupa arbetet med resor till Förintelsens minnesplatser. Även detta i projektform under en
 lämplig tidsperiod för att därefter utvärderas.
@@ -2433,7 +2433,7 @@ Nara SsAreba
 j — NN on RE 0  ——
 Ermin Skoric (S) Shabnam Zamani (S)
 -— - sä j
-- PE —
+\- PE —
 
 Fv f
 Arn
@@ -2566,14 +2566,14 @@ Den 22 november 2023 inkom Socialdemokraterna med ett initiativärende Otillräc
 arbetsmiljö. Bakgrunden är uppmärksammade brister gällande lokaler och övningsfordon. I
 initiativärendet yrkas på följande förslag till beslut.
 
-1. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att utreda i vilken
+1\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att utreda i vilken
 omfattning Fordons- och transportprogrammets faciliteter och arbetsmiljö brister.
-2. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att komma med
+2\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att komma med
 förslag för att upprätta lokaler som är likvärdiga huvudbyggnaderna för Aranäs och Elof
 Lindälvs gymnasier.
 
 Nämnden för Gymnasium & Arbetsmarknad beslutade vid sitt sammanträde den 22 november 2023 (§
-143) att remittera ärendet till förvaltningen för beredning.
+143\) att remittera ärendet till förvaltningen för beredning.
 
 Nämnden för Gymnasium & Arbetsmarknad godkände Lokalbehov 2025-2029 utblicksår 2030-2034
 
@@ -2639,10 +2639,10 @@ personal måste garanteras tillgång till lämpliga och säkra arbetsmiljöer.
 
 Förslag till beslut:
 
-1. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att utreda i
+1\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att utreda i
 vilken omfattning Fordons- och transportprogrammets faciliteter och arbetsmiljö brister.
 
-2. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att komma
+2\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att komma
 med förslag för att upprätta lokaler som är likvärdiga huvudbyggnaderna för Aranäs och
 Elof Lindälvs gymnasier.
 
@@ -2883,7 +2883,7 @@ en viss ökning sker under sista kvartalet. Det är, som tidigare nämnts, en fo
 Kungsbacka. Få nya ärenden går in i arbetsmarknadsprocessen.
 
 Gällande gruppen nyanlända skedde en fortsatt minskning under kvartal fyra i jämförelse med tidigare kvartal
-2023.
+2023\.
 Antalet försörjningsstödsärenden exkl nyanlända var i genomsnitt 430 under 2020. Under 2021 var antalet
 ärenden i genomsnitt 406 och under 2022 369 under året. Under 2023 var antalet ärenden 305 i genomsnitt.
 Antalet försörjningsstödsärenden, nyanlända, var i genomsnitt 62 under 2020. Under 2021 var siffran 56 under
@@ -3053,7 +3053,7 @@ Jämfört med föregående år:
 
 •  ”Betygsatta kurser under rikttimmar” är något lägre (57%, jämfört 60% 2022)
 •  ”Andel godkända betyg” är också något lägre än samma period föregående år (83 %, jämfört 92%
-2022)
+2022\)
 •  ”Andel avbrott på totalen” är lägre jämfört tidigare år (54 %, jämfört 58% 2022)
 Målgruppen är till viss del förändrad eftersom vi har en stor grupp från Ukraina som delvis har en högre
 utbildningsnivå, vilket bidrar till en snabbare studietakt. Vi har ett lägre inflöde av sfi-elever, men målgruppen
@@ -3167,11 +3167,11 @@ LSS       Fritids
 
 Orsaker      till  avvikelser
 
--  Bråk
+\-  Bråk
 
--  Rymma
+\-  Rymma
 
--  Kommunikationsmiss                  mellan      personal
+\-  Kommunikationsmiss                  mellan      personal
 
 Bråk    och    försök      till rymningar        sker    ofta    i samband         vid   förflyttningar,
 
@@ -3189,11 +3189,11 @@ planering&uppföljning
 
 Orsaker      till  avvikelser
 
--  Handhavandefel,             ex   ansökan       lagd    i fel   fack
+\-  Handhavandefel,             ex   ansökan       lagd    i fel   fack
 
--  Otydlig     kommunikation
+\-  Otydlig     kommunikation
 
--  Saknad       dokumentation             ex  journalanteckningar               eller
+\-  Saknad       dokumentation             ex  journalanteckningar               eller
 
 genomförandeplaner/vårdplaner
 
@@ -5871,30 +5871,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -5902,7 +5902,7 @@ Innehåll
 
 <!-- sida 157 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -6030,7 +6030,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 160 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -6438,7 +6438,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 169 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -6573,7 +6573,7 @@ tunga att utforska.
 
 <!-- sida 172 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -6718,13 +6718,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 175 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -6753,9 +6753,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.
@@ -6838,16 +6838,16 @@ Finansiella mål:
 
 Verksamhetens mål:
 
-- Finansiera individinriktade och strukturövergripande insatser
-- 50 % av de som genomgått en arbetslivsinriktad rehabiliteringsinsats avslutas
+\- Finansiera individinriktade och strukturövergripande insatser
+\- 50 % av de som genomgått en arbetslivsinriktad rehabiliteringsinsats avslutas
 antingen till arbete/studier, fortsatt arbetslivsinriktade insatser inom parternas
 
 verksamheter eller arbetssökande. Styrgruppen fortsätter att förtydliga och följa
 upp målbild och processmått under 2024.
-- 2 grundkurser i försäkringsmedicin och samordnad rehabilitering, 4 nätverksmöten
+\- 2 grundkurser i försäkringsmedicin och samordnad rehabilitering, 4 nätverksmöten
 i BIP/SKAPA samt SGI 0 och 8 handledarutbildningar för öppna arbetsplatser med
 fördjupningshalvdagar
-- Berednings- och Utvecklingsgruppen ska ha minst 6 möten under 2024 och arbeta
+\- Berednings- och Utvecklingsgruppen ska ha minst 6 möten under 2024 och arbeta
 aktivt med berednings- och utvecklingsfrågor.
 
 Budget
@@ -6987,7 +6987,7 @@ https://sign.visma.net/sv/document-check/b1436cd7-c740-46d7-8a6d-9beda5a2b215 ww
 
 § 8      Rapport från förbundschef och verksamhetsutvecklare
 
-- ESF-utlysningar på gång, POA 1
+\- ESF-utlysningar på gång, POA 1
 För anställd personal, dvs kompetensutveckling av parternas personal.
 
 Vi har redan flera (nuvarande och eventuella) lärandemiljöer att utveckla:
@@ -7006,7 +7006,7 @@ Ovanstående skulle kunna ligga som grund för en ESF-ansökan och på så sätt
 och kompetenshöja våra insatser och parternas personal samt arbetsplatser. Detta
 behöver förberedas och förankras under våren inför en eventuell ansökan under 2024.
 
-- Rapport från medlemsdialoger, 6 av 9 genomförda
+\- Rapport från medlemsdialoger, 6 av 9 genomförda
 
 Myndigheterna
 Region Halland
@@ -7019,7 +7019,7 @@ feedback
 parternas önskemål och insatserna gör ett bra jobb. Plus för utvecklingsarbete och
 samarbete.
 
-- Rapport från IST styrgrupp och Berednings- och Utvecklingsgruppen
+\- Rapport från IST styrgrupp och Berednings- och Utvecklingsgruppen
 
 Verksamhetsplan IST 2024:
 Tydligare målbild utifrån målen på 50%:
@@ -7054,7 +7054,7 @@ Fortsättning följer.
 Önskemål om mer statistikunderlag till styrelsen.
 Exempelvis UVAS, AF, FK, KAA, Regionen (Hälsodata Halland)
 
-- Rapport från SKAPA-nätverk och utbildningen Effektfull
+\- Rapport från SKAPA-nätverk och utbildningen Effektfull
 
 Effektfullt:
 Är ett sätt att följa upp effekter istället för utfall. En process att jobba igenom en
@@ -7074,14 +7074,14 @@ med evidensen. Vi har valt att ta in annan evidens och fördjupat oss i områden
 
 Handledarrollen, Arbetsfokus, Insatserna och Uppföljning.
 
-- Rapport från NNS medlems- och styrelsemöte
+\- Rapport från NNS medlems- och styrelsemöte
 
-1. Genomförts en workshop - Finsam i framtiden - www.nnsfinsam.se
+1\. Genomförts en workshop - Finsam i framtiden - www.nnsfinsam.se
 
-- Vad behöver vi tillsammans göra för att tydliggöra våra medlemmars (kommuner,
+\- Vad behöver vi tillsammans göra för att tydliggöra våra medlemmars (kommuner,
 regioner, Af och FK) engagemang och mandat i Finsam?
 
-- Vad behöver vi tillsammans göra för att öka kunskapen om vilka som är
+\- Vad behöver vi tillsammans göra för att öka kunskapen om vilka som är
 målgrupper för samordningsförbundens finansierade insatser. Hur kommer vi
 vidare i dialogen om medelstilldelningen och att den ska spegla behoven hos
 målgruppen?
@@ -7091,24 +7091,24 @@ https://sign.visma.net/sv/document-check/b1436cd7-c740-46d7-8a6d-9beda5a2b215 ww
 
 <!-- sida 182 -->
 
-- Frågan om system för uppföljning, utvärdering och analys är akut. Vad kan vi göra
+\- Frågan om system för uppföljning, utvärdering och analys är akut. Vad kan vi göra
 tillsammans för att öka möjligheterna att följa upp resultaten av
 samordningsförbundens finansierade insatser och bidra till mer
 kunskapsorienterade arbetssätt
 
-- Frågan om samordningsförbundens möjligheter till projektägande i ESF-projekt är
+\- Frågan om samordningsförbundens möjligheter till projektägande i ESF-projekt är
 komplex. Ändå ser vi att många förbund äger socialfondsprojekt med stor
 
 framgång. Vad kan vi göra för att öka och förbättra förutsättningarna för
 samordningsförbund att äga ESF-projekt.
 
-2) NNS styrelsemöte 7 december
-3) Serviceavgift föreslås
-4) Ordförandeträffar 2024
+2\) NNS styrelsemöte 7 december
+3\) Serviceavgift föreslås
+4\) Ordförandeträffar 2024
 
 § 9      Övriga frågor
 
-- Avtackning av Anette Ryberg och Fredrik Tågsjö
+\- Avtackning av Anette Ryberg och Fredrik Tågsjö
 
 § 10     Uppdrag till förbundschef:
 

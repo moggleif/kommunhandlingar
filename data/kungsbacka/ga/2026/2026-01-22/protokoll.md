@@ -294,7 +294,7 @@ ekonomiska fördelningen vilken nämnden informerades om vid sitt sammanträde d
 
 Vid sammanträdet den 22 januari 2026 informeras nämnden om planerade aktiviteter
 och omhändertagande av kommunfullmäktiges och nämndens mål och direktiv för
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -714,23 +714,23 @@ Sammanfattning av ärendet
 
 Patrik Hellberg förvaltningschef föredrar ärendet.
 
-1. Det har kommit in 83 ansökningar till tjänsten som Verksamhetschef på
+1\. Det har kommit in 83 ansökningar till tjänsten som Verksamhetschef på
 Kompetenscentrum. Patrik Hellberg har första möte med rekryteringsenheten 23/1.
 
-2. Aranäs café och Teaterbaren är stängd från 22/1. Kaféet drevs genom en temporär
+2\. Aranäs café och Teaterbaren är stängd från 22/1. Kaféet drevs genom en temporär
 upphandling, och avtalet gick ut 21/1–2026. Ny upphandling på gång, det finns ett
 vinnande anbud och har ställt kompletterande frågor. Avvaktar svar på frågor innan
 man kan skriva avtal och då gäller 10 dagars avtalsspärr innan vi kan komma i gång
 med den nya leverantörer. Om vi inte kan teckna avtal med den som har vunnit
 anbudet kommer vi att behöva göra en direktupphandling.
 
-3. Förvaltningen har tecknat avtal med en inrymningsapp-leverantör som en del av
+3\. Förvaltningen har tecknat avtal med en inrymningsapp-leverantör som en del av
 förvaltningens säkerhetsarbete. Implementering kommer påbörjas inom kort.
-4. Förvaltningen hävde avtalet med Skolplatsen för ett år sedan på grund av problem
+4\. Förvaltningen hävde avtalet med Skolplatsen för ett år sedan på grund av problem
 med leverantören. Förvaltningens har nu lämnat in en skadeståndsanmälan på
 11,1mkr.
 
-5. Snöovädret i Kungsbacka påverkade många förvaltningar, inklusive Gymnasium
+5\. Snöovädret i Kungsbacka påverkade många förvaltningar, inklusive Gymnasium
 & Arbetsmarknad, och vi har haft bra samarbete med bland annat Service och
 Förskola & Grundskola. Förvaltningen har en välfungerande stabs-läge, och Patrik
 riktar stort tack till kollegorna som har ställt upp under tiden han hade semester.

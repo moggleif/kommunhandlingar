@@ -144,7 +144,7 @@ Slam
 De avgifter kommunen tagit in från abonnenterna för slam dvs, våra intäkter, har ökat mer än
 kostnaderna. Förvaltningen föreslår därför att avgifterna för schemalagd tömning sänks något inför
 
-2027.
+2027\.
 
 Grundavgift
 Taxan består av en fast del, grundavgiften, och en rörlig del. Grundavgiften används till kommunens
@@ -409,10 +409,10 @@ mål som avfallsavdelningen har ensam rådighet över
 exkluderades.
 Följande områden har bedömts vara relevanta för att kunna avgöra om avfallsplanen
 är aktuell eller om det finns behov av en revidering:
--  Målrelevans och måluppfyllelse
--  Samverkan
--  Omvärldsfaktorer
--  Lagstiftning
+\-  Målrelevans och måluppfyllelse
+\-  Samverkan
+\-  Omvärldsfaktorer
+\-  Lagstiftning
 
 I prövningen av avfallsplanens aktualitet har följande genomförts:
 •  Workshop Avfallsnätverket
@@ -505,12 +505,12 @@ och samlar årligen in data från olika förvaltningar. Uppföljningen rapporter
 Mellan 2020–2023 genomförde de 13 kommunerna sammanlagt ca 600 åtgärder där
 flest antal åtgärder var inom de övre stegen i avfallshierarkin. De mål som genererat
 flest åtgärder i kommunerna är:
-1. Avfall från kommunens verksamheter ska minska med 40 % per
+1\. Avfall från kommunens verksamheter ska minska med 40 % per
 
 heltidsanställd
-2. Det ska finnas förutsättningar för kommunens egna verksamheter att
+2\. Det ska finnas förutsättningar för kommunens egna verksamheter att
 återanvända produkter
-3. Avfall från hushåll ska minska med 30 % per invånare
+3\. Avfall från hushåll ska minska med 30 % per invånare
 
 Figur 1: Antal rapporterade åtgärder 2020–2023 kopplat till stegen i avfallshierarkin.
 
@@ -519,8 +519,8 @@ GR:s roll i genomförandet
 Göteborgsregionens roll i arbetet med avfallsplanen är att stötta och växla upp
 arbetet. Inom ramen för avfallsplanen har GR tagit fram sex åtgärdsplaner med syfte
 att stötta kommunernas arbete med några specifika mål och bidra till samsyn.
-1. Minska 10 engångsartiklar
-2. Förläng livslängden på bärbar elektronik
+1\. Minska 10 engångsartiklar
+2\. Förläng livslängden på bärbar elektronik
 
 7 (43)
 
@@ -528,10 +528,10 @@ att stötta kommunernas arbete med några specifika mål och bidra till samsyn.
 
 Göteborgsregionen minskar avfallet – Aktualitetsprövning 2025
 
-3. Resurssmart förskola
-4. Resurssmart äldreboende
-5. Mätmetod nedskräpning
-6. Metod för kustlinjestädning
+3\. Resurssmart förskola
+4\. Resurssmart äldreboende
+5\. Mätmetod nedskräpning
+6\. Metod för kustlinjestädning
 
 Det arbete som GR bedriver inom avfallsområdet syftar till att bidra till
 genomförandet av avfallsplanen, främst inom de övre stegen i avfallshierarkin. Sedan
@@ -1084,36 +1084,36 @@ enbart berör kommunens avfallsavdelningar ingick inte i enkäten.
 Enkäten besvarades av miljöstrategiska funktioner ifrån 7 av 13 kommuner.
 
 Målen i enkäten (numrering utifrån ordningen i avfallsplanen)
-1. Avfall från hushåll ska minska med 30% per invånare
+1\. Avfall från hushåll ska minska med 30% per invånare
 
-2. Plastavfallet från hushåll ska minska med 50 % per invånare
-3. Matsvinnet från hushåll ska minska med 50 % per invånare
+2\. Plastavfallet från hushåll ska minska med 50 % per invånare
+3\. Matsvinnet från hushåll ska minska med 50 % per invånare
 
-4. Elavfallet från hushåll ska minska med 50 % per invånare
-5. Avfall från kommunens verksamheter ska minska med 40 % per heltidsanställd
-6. Matsvinnet från kommunens verksamheter ska minska till max 30 gram per serverat
+4\. Elavfallet från hushåll ska minska med 50 % per invånare
+5\. Avfall från kommunens verksamheter ska minska med 40 % per heltidsanställd
+6\. Matsvinnet från kommunens verksamheter ska minska till max 30 gram per serverat
 huvudmål
 
-7. Livslängden på bärbar elektronik inom kommunens verksamheter ska öka26
-8. Mängden engångsartiklar i kommunens verksamheter ska minska med 50 %
+7\. Livslängden på bärbar elektronik inom kommunens verksamheter ska öka26
+8\. Mängden engångsartiklar i kommunens verksamheter ska minska med 50 %
 
-10. Alla invånare ska ha fastighetsnära möjligheter att lämna produkter till
+10\. Alla invånare ska ha fastighetsnära möjligheter att lämna produkter till
 återanvändning
-11. Det ska finnas förutsättningar för kommunens verksamheter att återanvända
+11\. Det ska finnas förutsättningar för kommunens verksamheter att återanvända
 produkter
 
-12. Minst 70 % av innehållet i restavfallet ska vara rätt sorterat
-17. Textil i restavfallet ska minska med 60 %
-18. Alla kommunala arbetsplatser ska sortera sitt avfall
+12\. Minst 70 % av innehållet i restavfallet ska vara rätt sorterat
+17\. Textil i restavfallet ska minska med 60 %
+18\. Alla kommunala arbetsplatser ska sortera sitt avfall
 
-19. Lokalisering av större avfallsanläggningar säkras genom fysisk planering32
-20. Plats för avfallets infrastruktur, säkras i detaljplaner och bygglov
+19\. Lokalisering av större avfallsanläggningar säkras genom fysisk planering32
+20\. Plats för avfallets infrastruktur, säkras i detaljplaner och bygglov
 
-22. Minst 90 % tycker det är enkelt att förebygga, återanvända och hantera avfall på rätt
+22\. Minst 90 % tycker det är enkelt att förebygga, återanvända och hantera avfall på rätt
 sätt
-24. Kommunen ska säkerställa att kustlinjen städas regelbundet
+24\. Kommunen ska säkerställa att kustlinjen städas regelbundet
 
-25. Skräp på marken ska minska med 50%
+25\. Skräp på marken ska minska med 50%
 
 20 (43)
 
@@ -1121,7 +1121,7 @@ sätt
 
 Resultat
 
-1. Avfall från hushåll ska minska med 30% per invånare
+1\. Avfall från hushåll ska minska med 30% per invånare
 
 Kommentarer
 
@@ -1142,7 +1142,7 @@ något för få för att hinna fullt ut det som skulle krävas för måluppfylle
 det utifrån utvecklingen är målet möjligt att nå om vi fortsätter arbeta med det och satsar på
 det
 
-2. Plastavfallet från hushåll ska minska med 50 % per invånare
+2\. Plastavfallet från hushåll ska minska med 50 % per invånare
 
 Kommentarer
 •  Just nu ser vi inga tydliga minskningstendenser, men har förhoppningar om trendbrott på
@@ -1170,7 +1170,7 @@ sorteringen (och därmed också plastavfallet) ökar?
 
 <!-- sida 28 -->
 
-3. Matsvinnet från hushåll ska minska med 50 % per invånare
+3\. Matsvinnet från hushåll ska minska med 50 % per invånare
 
 Kommentarer
 •  Det är inte tydligt vad kommunen har för roll för att målet ska kunna nås.
@@ -1182,7 +1182,7 @@ förebygga hushållens avfall.
 men driver inget påverkansarbete mot hushållen. Räknar med viss naturlig
 utveckling i takt med mer medvetenhet och dyrare mat.
 
-4. Elavfallet från hushåll ska minska med 50 % per invånare
+4\. Elavfallet från hushåll ska minska med 50 % per invånare
 
 Kommentarer
 •  Det är inte tydligt vad kommunen har för roll för att målet ska kunna nås.
@@ -1194,7 +1194,7 @@ förebygga hushållens avfall.
 etc) som har kort livslängd. Producenterna har ett stort ansvar.
 •  Inte så som samhället idag. Mer konsumtionsbaserat än avfallshantering.
 
-5. Avfall från kommunens verksamheter ska minska med 40 % per
+5\. Avfall från kommunens verksamheter ska minska med 40 % per
 heltidsanställd
 
 23 (43)
@@ -1220,7 +1220,7 @@ som förhoppningsvis kommer ge stor effekt
 
 <!-- sida 30 -->
 
-6. Matsvinnet från kommunens verksamheter ska minska till max
+6\. Matsvinnet från kommunens verksamheter ska minska till max
 30 gram per serverat huvudmål
 
 Kommentarer
@@ -1242,7 +1242,7 @@ inkluderar måltider inom äldreomsorgen (exempelvis inom klimatlöftet för
 
 <!-- sida 31 -->
 
-7. Livslängden på bärbar elektronik inom kommunens
+7\. Livslängden på bärbar elektronik inom kommunens
 verksamheter ska öka
 
 Kommentarer
@@ -1266,7 +1266,7 @@ mer med det särskilt inom skolan med elevdatorer m.m.
 
 <!-- sida 32 -->
 
-8. Mängden engångsartiklar i kommunens verksamheter ska
+8\. Mängden engångsartiklar i kommunens verksamheter ska
 minska med 50 %
 
 Kommentarer
@@ -1292,7 +1292,7 @@ där det är mest engångsprodukter
 
 <!-- sida 33 -->
 
-10. Alla invånare ska ha fastighetsnära möjligheter att lämna
+10\. Alla invånare ska ha fastighetsnära möjligheter att lämna
 produkter till återanvändning
 
 Kommentarer
@@ -1309,7 +1309,7 @@ finns det mig veterligen ingen organisation för detta idag.
 
 <!-- sida 34 -->
 
-11. Det ska finnas förutsättningar för kommunens verksamheter att
+11\. Det ska finnas förutsättningar för kommunens verksamheter att
 återanvända produkter
 
 Kommentarer
@@ -1333,7 +1333,7 @@ ex. som andel procent av nyinköpta möbler
 
 <!-- sida 35 -->
 
-12. Minst 70 % av innehållet i restavfallet ska vara rätt sorterat
+12\. Minst 70 % av innehållet i restavfallet ska vara rätt sorterat
 
 Kommentarer
 
@@ -1354,7 +1354,7 @@ borde gå att nå, ser dock att vi har en lång väg kvar att gå utifrån senas
 
 <!-- sida 36 -->
 
-17. Textil i restavfallet ska minska med 60 %
+17\. Textil i restavfallet ska minska med 60 %
 
 Kommentarer
 •  I och med lagen minskade ju textil i restavfallet. Detta innebar dock att de
@@ -1373,13 +1373,13 @@ kommer krav uppifrån.
 
 •  Kan uppnås pga kommande producentansvar.
 •  Jag jobbar inte med detta, det ligger på avfallsenheten. Men känns svårt att nå
-+ att förutsättningarna ändrats utifrån senaste åren med lagstiftning osv
+\+ att förutsättningarna ändrats utifrån senaste åren med lagstiftning osv
 
 31 (43)
 
 <!-- sida 37 -->
 
-18. Alla kommunala arbetsplatser ska sortera sitt avfall
+18\. Alla kommunala arbetsplatser ska sortera sitt avfall
 
 Kommentarer
 
@@ -1389,7 +1389,7 @@ innan 2030 med nuvarande plan.
 •  Förhoppningsvis går det att nå, i vissa fall är det beroende av dialog med
 fastighetsägare för bättre miljö/soprumsutrymme
 
-19. Lokalisering av större avfallsanläggningar säkras genom fysisk
+19\. Lokalisering av större avfallsanläggningar säkras genom fysisk
 planering
 
 Kommentarer
@@ -1403,7 +1403,7 @@ detta
 
 <!-- sida 38 -->
 
-20. Plats för avfallets infrastruktur, säkras i detaljplaner och bygglov
+20\. Plats för avfallets infrastruktur, säkras i detaljplaner och bygglov
 
 Kommentarer
 •  Jag har inte insyn i hur detta tas omhand.
@@ -1412,7 +1412,7 @@ Kommentarer
 
 mkt
 
-22. Minst 90 % tycker det är enkelt att förebygga, återanvända och
+22\. Minst 90 % tycker det är enkelt att förebygga, återanvända och
 hantera avfall på rätt sätt
 
 Kommentarer
@@ -1426,7 +1426,7 @@ blir det förmodligen svårt att nå 90% till 2030
 
 <!-- sida 39 -->
 
-24. Kommunen ska säkerställa att kustlinjen städas regelbundet
+24\. Kommunen ska säkerställa att kustlinjen städas regelbundet
 
 Kommentarer
 
@@ -1437,7 +1437,7 @@ inte samma problem som vid havet.
 •  inte aktuellt för oss - om inte strandkanter vid sjöar räknas, i så fall pågår
 arbete på badplatser m.m. men inte runtom sjöarna
 
-25. Skräp på marken ska minska med 50%
+25\. Skräp på marken ska minska med 50%
 
 Kommentarer
 •  Jag har inte insyn i hur målet påverkar arbete inom området. Detta är en
@@ -1471,20 +1471,20 @@ innehöll följande 3 frågor om samtliga 25 mål i avfallsplanen.
 •  Har ni möjlighet i kommunen att arbeta med målet?
 •  Anser du att målet går att uppnå i din kommun?
 
-1. Avfall från hushåll ska minska med 30% per invånare
+1\. Avfall från hushåll ska minska med 30% per invånare
 
 Kommentarer
 •  Stor spridning på möjlighet att arbete i kommunen
 •  Omvärlden påverkar mycket mer än vi, tex. Konjunktur
 
-2. Plastavfall från hushåll ska minska med 50% per invånare
+2\. Plastavfall från hushåll ska minska med 50% per invånare
 
 Kommentarer
 •  Svårt konsumtionsmål samtidigt som plast i samhället ökar
 •  Svår för oss att påverka
 •  Andra saker påverkar mycket mer, tex lagstiftning om engångsplast
 
-3. Matsvinnet ska minska med 50% per invånare
+3\. Matsvinnet ska minska med 50% per invånare
 
 35 (43)
 
@@ -1494,12 +1494,12 @@ Kommentarer
 
 •  Intressant att det är så stor skillnad på detta och plast
 
-4. Elavfallet från hushåll ska minska med 50% per invånare
+4\. Elavfallet från hushåll ska minska med 50% per invånare
 
 Kommentarer
 •  Svårt, produktion och konsumtion
 
-5. Avfall från kommunens verksamheter ska minska med 40% per
+5\. Avfall från kommunens verksamheter ska minska med 40% per
 heltidsanställd
 
 Kommentarer
@@ -1511,14 +1511,14 @@ Kommentarer
 
 <!-- sida 42 -->
 
-6. Matsvinnet från kommunens verksamheter ska minska till max
+6\. Matsvinnet från kommunens verksamheter ska minska till max
 30 gram per serverat huvudmål
 
 Kommentarer
 •  Väldigt utmanade för äldreomsorgen i kommunen - de är en stor del av kommunen och
 blir större
 
-7. Livslängden på bärbar elektronik inom kommunens
+7\. Livslängden på bärbar elektronik inom kommunens
 
 verksamheter ska öka
 
@@ -1526,7 +1526,7 @@ Kommentarer
 
 •  Livslängden förlängdes i samband med att avfallsplanen togs. Mer kan göras.
 
-8. Mängden engångsartiklar i kommunens verksamheter ska
+8\. Mängden engångsartiklar i kommunens verksamheter ska
 minska med 50%
 
 Kommentarer
@@ -1536,13 +1536,13 @@ Kommentarer
 
 <!-- sida 43 -->
 
-9. Minst 20% av det grovavfall som kommunen samlar in ska
+9\. Minst 20% av det grovavfall som kommunen samlar in ska
 förberedas för återanvändning
 
 Kommentarer
 •  Otroligt högt satt mål
 
-10. Alla invånare ska ha fastighetsnära möjligheter att lämna
+10\. Alla invånare ska ha fastighetsnära möjligheter att lämna
 produkter till återanvändning
 
 Kommentarer
@@ -1550,7 +1550,7 @@ Kommentarer
 •  Ska vi samla in produkter. Knepigt mål då manbara kan lägga dyr hämtningsavgift i taxa
 för att uppnå målet.
 
-11. Det ska finnas förutsättningar för kommunens verksamheter att
+11\. Det ska finnas förutsättningar för kommunens verksamheter att
 återanvända produkter
 
 38 (43)
@@ -1560,10 +1560,10 @@ för att uppnå målet.
 Kommentarer
 •  När planen togs fram fanns det verkligen inte så här har det skett mycket
 
-12. Minst 90% av allt inlämnat avfall på ÅVC ska vara rätt sorterat
+12\. Minst 90% av allt inlämnat avfall på ÅVC ska vara rätt sorterat
 varav inget farligt avfall i fel fraktion
 
-13. Minst 70% av uppkommet matavfall ska gå till
+13\. Minst 70% av uppkommet matavfall ska gå till
 näringsåtervinning och biogasproduktion eller annat miljömässigt
 motsvarande ändamål
 
@@ -1571,19 +1571,19 @@ Kommentarer
 
 •  Processen idag ger stor andel rejekt
 
-14. Avfallstransporter ska vara 10% mer effektiva
+14\. Avfallstransporter ska vara 10% mer effektiva
 
 39 (43)
 
 <!-- sida 45 -->
 
-15. Fordon, maskiner och anläggningar inom kommunens
+15\. Fordon, maskiner och anläggningar inom kommunens
 avfallsverksamhete ska drivas fossilfritt
 
 Kommentarer
 •  Kan bli bekymmer om HVO ej anses fossilfritt
 
-16. Minst 70% av innehållet i restavfallet ska vara rätt sorterat.
+16\. Minst 70% av innehållet i restavfallet ska vara rätt sorterat.
 Dessutom får inget av innehållet vara farligt avfall
 
 Kommentarer
@@ -1592,7 +1592,7 @@ Kommentarer
 •  Bra om vi enas om avvikelsehantering och tar gemensamt tag i att ge avvikelser, ex Svens
 exempel från höstmöte.
 
-17. Textil i restavfallet ska minska med 60%
+17\. Textil i restavfallet ska minska med 60%
 
 Kommentarer
 
@@ -1602,24 +1602,24 @@ Kommentarer
 
 <!-- sida 46 -->
 
-18. Alla kommunala arbetsplatser ska sortera sitt avfall
+18\. Alla kommunala arbetsplatser ska sortera sitt avfall
 
-19. Lokalisering av större avfallsanläggningar för både dagens
-19.
+19\. Lokalisering av större avfallsanläggningar för både dagens
+19\.
 och framtidens behov säkras genom fysik planering
 
 Kommentarer
 •  Inte på avfallsavdelningen.
 •  Redan med i ÖP GBG
 
-20. Plats för avfallets infrastruktur från uppkomst till
+20\. Plats för avfallets infrastruktur från uppkomst till
 mottagningsanläggning säkras i detaljplaner och bygglov
 
 Kommentarer
 
 •  Fungerande samarbete mellan förvaltningar i staden.
 
-21. Minst 90% av användarna ska vara nöjda med
+21\. Minst 90% av användarna ska vara nöjda med
 avfallshanteringen
 
 41 (43)
@@ -1630,14 +1630,14 @@ Kommentarer
 •  10% är alltid missnöjda oavsett.
 •  Ta bort de som inte vet om de är nöjda eller missnöjda från "potten"
 
-22. Minst 90% av användarna ska tycka att det är enkelt att
+22\. Minst 90% av användarna ska tycka att det är enkelt att
 
 förebygga och hantera avfall på rätt sätt
 
 Kommentarer
 •  10% är alltid missnöjda.
 
-23. Minst 90% av användarna ska uppleva att de får ett bra
+23\. Minst 90% av användarna ska uppleva att de får ett bra
 
 bemötande i kontakt med kommunens avfallsverksamhet
 
@@ -1649,9 +1649,9 @@ Kommentarer
 
 <!-- sida 48 -->
 
-24. Kommunen ska säkerställa att kustlinjen städas regelbundet
+24\. Kommunen ska säkerställa att kustlinjen städas regelbundet
 
-25. Skräp på marken ska minska med 50%
+25\. Skräp på marken ska minska med 50%
 
 Kommentarer
 •  Osäker mätmetod
@@ -1687,7 +1687,7 @@ Aktualitetsprövningen redovisades för GR:s Beredningsgrupp för Miljö och Sam
 januari.
 
 Förbundsstyrelsen fastställde 27 februari att avfallsplanen Göteborgsregionen minskar avfallet (2020–
-2030) är fortsatt aktuell och att någon uppdatering inte behöver genomföras under innevarande
+2030\) är fortsatt aktuell och att någon uppdatering inte behöver genomföras under innevarande
 planperiod. § 11 Dnr GRFS-2025-00316
 
 Bedömningen är att avfallsplanen fortsatt är relevant, ändamålsenlig och stödjer kommunernas arbete.

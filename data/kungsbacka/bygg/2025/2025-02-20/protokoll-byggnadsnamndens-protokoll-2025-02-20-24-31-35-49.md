@@ -370,7 +370,7 @@ synpunkter som inkommit under granskningstiden från bland annat länsstyrelsen 
 samhällsbyggnadskontoret gjort kompletteringar av planhandlingarna. Planområdet
 har också utökats för att möjliggöra en strandpromenad längs med vattnet. Därför
 kommer detaljplanen att genomgå en andra granskning, som startade den 4 februari
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämnden kan notera
@@ -513,12 +513,12 @@ Beslut
 Byggnadsnämnden antar tillsynsplan 2025–2028, daterad 2025-01-21, med ändringar
 i prioriteringsordningen för 2025 enligt följande:
 
-1. Handlägga ärenden där det finns risker för människors liv, hälsa och säkerhet.
-2. Handlägga ärenden inom OVK.
+1\. Handlägga ärenden där det finns risker för människors liv, hälsa och säkerhet.
+2\. Handlägga ärenden inom OVK.
 
-3. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
+3\. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
 pågående ärende.
-4. I övrigt gäller handläggning i tidsföljd.
+4\. I övrigt gäller handläggning i tidsföljd.
 
 Sammanfattning av ärendet
 Byggnadsnämnden är den myndighet som ensam ansvarar för samhällets tillsyn över
@@ -571,13 +571,13 @@ Fredrik Kollberg (KD) yrkar på att lägga till ordet ”liv” under punkt 1 i
 
 prioriteringsordningen 2025, på sida 14, samt att lägga till en ny punkt 2 för
 handläggning av ärenden inom OVK, enligt följande:
-1. Handlägga ärenden där det finns risker för människors liv, hälsa och säkerhet.
+1\. Handlägga ärenden där det finns risker för människors liv, hälsa och säkerhet.
 
-2. Handlägga ärenden inom OVK.
-3. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
+2\. Handlägga ärenden inom OVK.
+3\. Handlägga ärenden där Miljö- och hälsoskyddsavdelningen har parallellt
 pågående ärende.
 
-4. I övrigt gäller handläggning i tidsföljd.
+4\. I övrigt gäller handläggning i tidsföljd.
 Heinrich Kaufmann (C), Britt Tönnberg (S), Marianne Wallengren (M) och Daniel
 Hognert (M) yrkar bifall till Fredrik Kollbergs (KD) yrkande.
 
@@ -756,7 +756,7 @@ kommunstyrelsen 2018-06-19 §162. Detaljplanen hanteras med utökat
 planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
 Planförslaget har varit utställt för granskning under tiden 3 november – 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 
 huvudsak miljö, risker och geotekniska frågor. Se vidare i granskningsutlåtandet.
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
@@ -1090,7 +1090,7 @@ av del av servicehus, till bostad.
 Sökande har informerats om förvaltningens negativa förslag och har efter det ändrat:
 
 Uteplatsen är justerad och ej placerad på punktprickad mark.
-- Alternativ placering av plats för handikappsparkeringen är justerad för att ej ligga
+\- Alternativ placering av plats för handikappsparkeringen är justerad för att ej ligga
 på punktprickad mark och ur säkerhetsperspektivet med backning ut mot
 Yggdrasilvägen. (Det finns även ytterligare alternativa placeringar för HKP, men då
 överskrids tillåtet gångavstånd m h t tillgänglighet vilket skulle innebära avvikelse.
@@ -1100,7 +1100,7 @@ Sökande förtydligar även att kvarterslokalen kommer vara kvar och att det är
 om till lägenhet, då expeditionen stått tom sedan flera år och behovet av den inte
 längre finns. Befintlig byggnadsarea kommer heller inte att utökas.
 
-- Det råder bostadsbrist i kommunen och främst för de som står långt ifrån
+\- Det råder bostadsbrist i kommunen och främst för de som står långt ifrån
 bostadsmarknaden. Övriga grupper har ingen större svårighet att skaffa bostad på
 egna meriter. Därför arbetar Eksta ihop med andra förvaltningar inom Kommunen
 för att klara denna utmanande uppgift Det innebär att vi försöker tänka nytt och se

@@ -150,23 +150,23 @@ för kommersiell verksamhet.
 Nämnden för Service är i huvudsak positiv till planförslaget, dock med följande
 synpunkter;
 
-1. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är
+1\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är
 begränsad för kommunal besöksverksamhet (exempelvis fullmåttshall).
 Önskvärt vore om ytan i markplan kan ses över för eventuell utökning för att
 även möjliggöra kommunal verksamhet i framtiden.
-2. Ytan för annexbyggnaden som har användningsbestämmelserna C och R,
+2\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R,
 kommer bli utmanande att bygga dikt an arenabyggnaden p.g.a. nuvarande
 utformning. Kontor och restaurang i arenan som vetter mot annexbyggnaden
 
 försvårar detta och kommer då ha svårt med dagsljusinsläpp.
-3. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna
+3\. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna
 om det är en nödvändighet. Kan byggrätten göras mer kvadratiskt är det till en
 fördel.
 
-4. Smal remsa öster om byggrätten för R1 innehåller egenskapsbestämmelse P1,
+4\. Smal remsa öster om byggrätten för R1 innehåller egenskapsbestämmelse P1,
 som hänvisar till prickad mark. Dock förekommer bestämmelse på både icke
 prickad mark och på korsmark.
-5. Ytan för användningsbestämmelse R2, saknar egenskapsbestämmelse för N2,
+5\. Ytan för användningsbestämmelse R2, saknar egenskapsbestämmelse för N2,
 
 det vill säga belysningsmaster.
 
@@ -407,11 +407,11 @@ och attraktiva arbetsplatser, främja arbetsplatskulturen samt säkerställa lå
 kostnadseffektiv användning av kommunens lokaler. Fyra nya nyttor har tagits fram för
 att fortsatt utveckla konceptet:
 
-1. Innovation och medskapande med kommuninvånare.
-2. Attraktiva och flexibla arbetsplatser.
+1\. Innovation och medskapande med kommuninvånare.
+2\. Attraktiva och flexibla arbetsplatser.
 
-3. En långsiktig och kostnadseffektiv lokalstrategi – inklusive teknisk utrustning.
-4. Ett utvecklande medarbetarskap och våra fyra hörnstenar.
+3\. En långsiktig och kostnadseffektiv lokalstrategi – inklusive teknisk utrustning.
+4\. Ett utvecklande medarbetarskap och våra fyra hörnstenar.
 
 Fortsatt utveckling av konceptet pågår, bland annat genom införandet av en ny zon för
 ökad anpassning av säkerhetskrav.

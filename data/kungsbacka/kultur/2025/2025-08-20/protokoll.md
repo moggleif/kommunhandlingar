@@ -284,11 +284,11 @@ Förskola & Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för
 Individ & Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service,
 nämnden för Teknik och nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- se över både interna och externa priser för att skapa tydlighet och effektivitet.
+\- se över både interna och externa priser för att skapa tydlighet och effektivitet.
 
-- samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- samla interna utmärkelser och priser rörande medarbetare och ledare till
 Medarbetardagen respektive Ledardagen
-- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
+\- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
 inte längre delas ut i kommunfullmäktige utan överlåtes till berörda nämnder att
 besluta om hur priserna ska se ut framåt.
 

@@ -142,17 +142,17 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-11-05 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll för mötet 2024-10-08 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i november.
 
 Beslut: Att anteckna informationen.
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 •  Sofia Axell och Maria Sjöström arbetar 25 %
 
@@ -203,7 +203,7 @@ Elevhälsans centrala funktioner föreslås ledas av en central barn- och elevh�
 
 Beslut: Att anteckna informationen.
 
-4. Nämndbudget 2025
+4\. Nämndbudget 2025
 
 Budgetansvar
 
@@ -299,7 +299,7 @@ Sveriges lärare och Sveriges skolledare.
 
 Beslut: Att anteckna informationen.
 
-5. Lokalplanering
+5\. Lokalplanering
 Tidig information angående bland annat revidering av strategi för försörjning av utbildningslokaler,
 
 kommunikationsplanering avseende strategi lokalförsörjning och lokalutredning.
@@ -315,22 +315,22 @@ vår lokaleffektivitet.
 
 Beslut: Tidig dialog/information
 
-6. Strategi för försörjning av utbildningsplatser
+6\. Strategi för försörjning av utbildningsplatser
 Se punkt 5.
 
-7. Stabsorganisation (om aktuellt)
+7\. Stabsorganisation (om aktuellt)
 Ingen information.
 
 Arbetstagarorganisation
 
-8. Resursskola – hur går det? (Sveriges lärare)
+8\. Resursskola – hur går det? (Sveriges lärare)
 
 Utredning är gjord om förutsättningar för resursskola, nämnden har efter det gett ett upprag om
 fördjupad utredning och att ta fram ett skarpt förslag om om införande av resursskola.
 
 Beslut: Informationen antecknas.
 
-9. Utvärdering/uppföljning av nedläggningen av de centrala SU-grupperna
+9\. Utvärdering/uppföljning av nedläggningen av de centrala SU-grupperna
 (Sveriges lärare)
 
 Undervisningen har flyttats till lokala SU grupper. Blev det som planerat och hur fungerar det på
@@ -346,7 +346,7 @@ Beslut: Dialog
 KUNGSBACKA  KOMMUN
 6 (8)
 
-10. Studiedag 15 mars (Sveriges lärare)
+10\. Studiedag 15 mars (Sveriges lärare)
 
 När vi diskuterade detta på FSG i augusti, så uppfattade vi det att skolorna kunde ansöka om att få
 flytta denna studiedag till senare på terminen så det skulle passa verksamheten bättre. Nu får vi till oss
@@ -357,7 +357,7 @@ verksamhetschef och förvaltningschef beslutar.
 
 Beslut: Dialog
 
-11. Liljanskolan föreslås bli mindre än tidigare beslut
+11\. Liljanskolan föreslås bli mindre än tidigare beslut
 
 Sveriges lärare ställer sig frågande till varför FSG inte blev informerade innan nämndens beslut?
 
@@ -368,7 +368,7 @@ skriva fram ett ärendet till FG-nämnd.
 
 Beslut: Informationen antecknas.
 
-12. Från FSG oktober
+12\. Från FSG oktober
 
 Hur räknar arbetsgivaren fram siffrorna om antalet årsarbetare/barn i förskolan?
 
@@ -426,7 +426,7 @@ Ledarna                             Psykologförbundet
 KUNGSBACKA  KOMMUN
 8 (8)
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -634,14 +634,14 @@ men det kan konstateras att kommunen för närvarande har en för stor överkapa
 perspektiv i åtanke. Av denna anledning finns ett behov av att varje förskola och grundskola ska ha en
 fastslagen kapacitet som består av:
 
-1. Teknisk kapacitet (max): omfattar lagstadgade krav, såsom ventilation, toaletter m.m. Det
+1\. Teknisk kapacitet (max): omfattar lagstadgade krav, såsom ventilation, toaletter m.m. Det
 inkluderar även rekommendationer från exempelvis Boverket om minsta antal kvadratmeter per barn
 och elev, både för inomhus- och utomhusmiljöer. Kapacitet i matsal och kök ingår också i den
 tekniska kapaciteten.
 
 Den tekniska kapaciteten fastställs av serviceförvaltningen och beskriver fastighetens kapacitet.
 
-2. Pedagogisk kapacitet: För grundskolan ingår antal klassrum, grupprum samt tillgång till
+2\. Pedagogisk kapacitet: För grundskolan ingår antal klassrum, grupprum samt tillgång till
 specialsalar, vilket bedöms utifrån vilka årskurser grundskolan har. Den pedagogiska kapaciteten är
 sannolikt lägre än den tekniska kapaciteten.
 
@@ -726,16 +726,16 @@ antalet bil- och busstransporter, men även hur utformningen av skolans lokaler 
 
 Sammanfattningsvis ska nedan faktorer beaktas vid planering av förskolor och grundskolor:
 
--  Pedagogisk och ekonomisk hållbarhet:
+\-  Pedagogisk och ekonomisk hållbarhet:
 o  Varje skolområde ska ha som minst 1000 elever.
 
 o  Eftersträvansvärt är att skolor med f-6 har minst 350 elever, 7-9 skolor minst 360 elever och
 f-9 skolor minst 750 elever.
 o  Vid ombyggnation, nybyggnation och tillbyggnation är dokumentet Koncept för
 utbildningslokaler styrande.
--  Ekologiskt hållbart
+\-  Ekologiskt hållbart
 
--  Socialt hållbart
+\-  Socialt hållbart
 
 Med effektivt lokalutnyttjande eftersträvas en mindre överkapacitet av utbildningsplatser syftande till
 minskade lokalkostnader.
@@ -757,12 +757,12 @@ beaktning.
 
 Den grundläggande principen om skolors stadieindelning utgår från tanken om sammanhållet lärande och
 skapandet av kontinuitet i stödinsatser och med beaktande av god lokaleffektivitet.
--  Antalet skolbyten ska, i den mån möjligt, begränsas till högst ett. Vid undantagsfall kan fler än ett
+\-  Antalet skolbyten ska, i den mån möjligt, begränsas till högst ett. Vid undantagsfall kan fler än ett
 skolbyte under grundskoletiden godkännas.
 
--  Stadieindelning bygger i huvudsak på den indelning som Läroplanen anger. I Koncept för
+\-  Stadieindelning bygger i huvudsak på den indelning som Läroplanen anger. I Koncept för
 utbildningslokaler anges byggnadsvolym.
--  För att skapa goda förutsättningar för hållbarhet och en robust organisation kan även andra
+\-  För att skapa goda förutsättningar för hållbarhet och en robust organisation kan även andra
 indelningar än de ovan nämnda övervägas.
 
 <!-- sida 25 -->
@@ -1548,17 +1548,17 @@ riktlinjer för skolgårdar.
 Förvaltningen för Förskola & Grundskolas har tagit fram en målbild för
 förskolegårdar i Kungsbacka kommun som samverkar och delvis preciserar delar av
 de övergripande ledorden framtagna för konceptet:
-1.       En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
+1\.       En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
 
-2.       Sociala värden – en plats som bidrar till gemenskap och sociala möten
+2\.       Sociala värden – en plats som bidrar till gemenskap och sociala möten
 och där barn växer genom det sociala samspelet.
 
-3.       Kreativa värden – en plats som stimulerar till att fantasin flödar, och
+3\.       Kreativa värden – en plats som stimulerar till att fantasin flödar, och
 där barn kan påverka miljön och skapa med hjälp av löst material.
-4.       Nya upptäckter – en sinnlig och spännande plats som väcker
+4\.       Nya upptäckter – en sinnlig och spännande plats som väcker
 nyfikenheten och utforskandets förtjusning.
 
-5.       Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och
+5\.       Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och
 unga möjlighet att utmana sig själva. Att testa, misslyckas och till slut bemästra.
 
 Utemiljön kan delas in i olika zoner för att få till bra gårdar som innehåller alla
@@ -2467,7 +2467,7 @@ störningsmoment av olika slag ska finnas ett mindre avskilt utrymme i nära
 anslutning till övrig matsal. Fram till årskurs 6 går man klassvis 25-30 elever/klass
 tillsammans med pedagoger till matsalen och sitter tillsammans på förutbestämda
 platser och alla i samma område/del av matsalen. Från årskurs 7 går man själv till
-matsalen (bamba*) och har inte heller förutbestämda platser.
+matsalen (bamba\*) och har inte heller förutbestämda platser.
 Projekteringen av möbler i matsalen är därför av största vikt att den görs tillsammans
 med kommunens ramavtalsleverantör i samband med husprojekteringen.
 
@@ -2822,21 +2822,21 @@ Europeiska unionen
 
 Den        giltiga        och      ogiltiga          frånvaron
 
-1.  Giltig   frånvaro       utgör    den    största     kategorin       av  frånvaro
+1\.  Giltig   frånvaro       utgör    den    största     kategorin       av  frånvaro
 
-2.  Hälsoproblem           är   den    vanligaste       självrapporterade            förklaringen        till
+2\.  Hälsoproblem           är   den    vanligaste       självrapporterade            förklaringen        till
 
 skolfrånvaro
 
-3.  Professionella          och    föräldrar     kan    se   på   frånvaron       på   olika    sätt
+3\.  Professionella          och    föräldrar     kan    se   på   frånvaron       på   olika    sätt
 
-4.  Giltig    frånvaro      kan    maskera        ogiltig   frånvaro      eller   andra      problem
+4\.  Giltig    frånvaro      kan    maskera        ogiltig   frånvaro      eller   andra      problem
 
-5.  Frånvaron         kan    hänga      samman         med     andra     oidentifierade
+5\.  Frånvaron         kan    hänga      samman         med     andra     oidentifierade
 
 individrelaterade           problem
 
-6.  Konsekvenserna              är   detsamma
+6\.  Konsekvenserna              är   detsamma
 
 <!-- sida 96 -->
 
@@ -2912,7 +2912,7 @@ Omarbeta           huvudmannens                 rutin
 
 Ansöka        om     förlängning          UP2     en    termin
 
-- Djupdyka          i 15    frånvaroutredningar                  alt  insats      åk   8  Åsaskolan
+\- Djupdyka          i 15    frånvaroutredningar                  alt  insats      åk   8  Åsaskolan
 
 <!-- sida 100 -->
 
@@ -3071,7 +3071,7 @@ Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola fattade beslut om principöverenskommelse gällande
 interkommunal ersättning för barn och elever i förskola, pedagogisk omsorg, förskoleklass,
 grundskola, fritidshem och anpassad grundskola mellan Mark, Varberg och Kungsbacka i §64 2011 08
-25.
+25\.
 Därefter har representanter för de tre kommunerna arbetat fram praktisk tillämpning av
 överenskommelse, blankett för avtal mellan placeringskommun och folkbokföringskommun samt
 
@@ -3280,7 +3280,7 @@ Medlemskommunerna rekommenderas att fastställa interkommunal
 ersättning för förskola, pedagogisk omsorg, förskoleklass, grundskola,
 fritidshem, anpassad grundskola och ISGR enligt bilagor daterade
 2024-08-29 samt att inkomma med beslut till GR senast den 15 december
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förslaget till interkommunal ersättning inom rubricerade verksamheter
@@ -3466,8 +3466,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 GR:s  modell   för Interkommunal      ersättning   inom
 
 förskola,  pedagogisk    omsorg,   förskoleklass,
@@ -3520,8 +3520,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 Ersättningens omfattning
 Ersättningen omfattar samtliga kostnader för barnets/elevens skolgång.
 Ersättning för eventuella modersmålskostnader ingår. I extraordinära fall
@@ -3577,8 +3577,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 ISGR
 ISGR en internationell skola med en svensk sektion och en internationell
 sektion. Den internationella sektionen har högre kostnader då de läser efter
@@ -3734,7 +3734,7 @@ FG Myndighet & Stöds tjänsteskrivelse, 2024-10-29
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -4096,11 +4096,11 @@ Att identifiera och  synliggöra
 
 utvecklingsområden     för att uppnå:
 
--   högre  måluppfyllelse
+\-   högre  måluppfyllelse
 
--   mer  likvärdig verksamhet
+\-   mer  likvärdig verksamhet
 
--   fortsatt skolförbättring
+\-   fortsatt skolförbättring
 
 En  grund för det systematiska kvalitetsarbetet  –
 
@@ -4472,13 +4472,13 @@ delade sitt arbete i grupper och diskuterade förbättringar.
 Rektorernas utvärdering;
 
 Några citat om dagen
-- Bra att få dela erfarenheter och insikter, att få prata om utvecklingsfrågor och olika lösningar
+\- Bra att få dela erfarenheter och insikter, att få prata om utvecklingsfrågor och olika lösningar
 
-- Väldigt bra med fria samtal men ändå styrda ämnen. Ingen produkt som skulle göras
+\- Väldigt bra med fria samtal men ändå styrda ämnen. Ingen produkt som skulle göras
 
-- Att få tid att samtala, att få syn på likheter och skillnader i våra verksamheter och få ta del av
+\- Att få tid att samtala, att få syn på likheter och skillnader i våra verksamheter och få ta del av
 idéer och tankar på hur man kan utveckla sin organisation
-- Att få sitta i verksamhets indelat och prata organisation. Dela och lära är så viktigt för fortsatt
+\- Att få sitta i verksamhets indelat och prata organisation. Dela och lära är så viktigt för fortsatt
 utveckling och för att skapa större likvärdighet.
 
 Fokus förbättring 18/4 - Underlag i kvalitetsarbetet
@@ -4741,7 +4741,7 @@ Nämnden för Förskola & Grundskola               Kungsbacka kommun
 •  Stöd till rektorer; Tiden finns avsatt för rektorerna att träffas i kategorimöten, Pedagogiskt
 område, Fokus förbättring, Teamtid, Skolledardagar. Mötesform kommuniceras i
 kalendarium där obligatoriskt och erbjudande är förtydligat. VFU-samordnare, lektorer och
-doktorander, hjälp med ULF-ansökningar, material och filmade föreläsningar till FG`s
+doktorander, hjälp med ULF-ansökningar, material och filmade föreläsningar till FG\`s
 gemensamma vetenskapliga definition finns samlat under ”Hur Vet Du Det”, Enhetschefer,
 teamorganisering för kollegialt stöd, Stödfunktioner (MS, QU, EK, HR).
 •  Samverkan i nätverk; Göteborgs Regionens branschråd och nätverk, SKR – Fullföljd
@@ -5653,11 +5653,11 @@ Rektor har vidtagit ett antal åtgärder i relation till det olika utvecklingsom
 
 -Organiserat för lärarnas kollegiala lärande. Dels utifrån litteraturstudier och handledning med
 professionsutveckling, dels utifrån ämnesutveckling.
-- Utarbetat en gemensam lektonsstruktur, stärka det kollegiala lärande samt professionsutveckling genom
+\- Utarbetat en gemensam lektonsstruktur, stärka det kollegiala lärande samt professionsutveckling genom
 individuell analys av undervisningen.
-- Kompetensutveckling för elevhälsan, stärkt rutiner för anmälningar av misstänkt kränkande behandling och ett
+\- Kompetensutveckling för elevhälsan, stärkt rutiner för anmälningar av misstänkt kränkande behandling och ett
 strukturerat främjande trygghetsarbete av lärare.
-- Utvecklat struktur för lärares sambedömning och betygssättning
+\- Utvecklat struktur för lärares sambedömning och betygssättning
 
 Beslutsunderlag
 Förskola & Grundskola arbetsutskotts delegeringsbeslut, 2024-11-14
@@ -5868,7 +5868,7 @@ tetsgranskning
 
 A. Begäran av dokument inför kvalitetsgranskning
 
-1. Skolenhetens senaste dokumenterade kvalitetsarbete
+1\. Skolenhetens senaste dokumenterade kvalitetsarbete
 
 Nr Dokumentets namn Dokumentets funktion i det systematiska kvalitetsarbetet
 
@@ -5940,7 +5940,7 @@ skolenhet
 
 Totalt 86
 
-1. Beskriv hur ledningen av din skola är organiserad och hur länge du arbetat som
+1\. Beskriv hur ledningen av din skola är organiserad och hur länge du arbetat som
 rektor för skolan.
 
 Vi har påbörjat en omorganisation i orten Åsa där det finns två grundskolor och 5 skolenheter.
@@ -5956,7 +5956,7 @@ Skolinspektionen
 Sofie Melleroth åk 4-5 och Kristin Arplöw ansvarig rektor för åk 6. From januari 2024 är Ulrika
 Jansson ansvarig rektor för åk 4-6. Högstadiet är helt nedlagt.
 
-2. Vilka prioriterade utvecklingsområden arbetar ni för närvarande med på skolen-
+2\. Vilka prioriterade utvecklingsområden arbetar ni för närvarande med på skolen-
 heten? Beskriv anledningen till att ni valt att arbeta med just dessa områden? Hur
 långt har ni kommit i arbetet?
 
@@ -6079,7 +6079,7 @@ Samtliga utvecklingsområden kommer behöva arbetas med under flera läsår för
 
 Rektorns Ledarskap
 
-3. Beskriv hur ni följer upp skolenhetens resultat (särskilt avseende kunskapsresultat
+3\. Beskriv hur ni följer upp skolenhetens resultat (särskilt avseende kunskapsresultat
 och resultat från värdegrundsarbetet) och sammanfatta de centrala slutsatserna
 från den senaste uppföljningen. Ni kan i relevanta delar hänvisa till den doku-
 mentation av verksamhetens kvalitetsarbete som ni ska skicka in.
@@ -6168,7 +6168,7 @@ vårdnadshavare. Eleverna upplever just nu att det inte finns några otrygga pla
 
 och de upplever också att det är bra studiero i klasserna.
 
-4. Beskriv vilka analyser respektive insatser ni har gjort på skolan för att se till att
+4\. Beskriv vilka analyser respektive insatser ni har gjort på skolan för att se till att
 flickor och pojkar får samma förutsättningar i utbildningen. Ni kan i relevanta delar
 hänvisa till den dokumentation av verksamhetens kvalitetsarbete som niska skicka
 in.
@@ -6205,7 +6205,7 @@ visningen och sin rätt till utbildning utifrån var de själva befinner sig i s
 sättningar för samarbete med elevhälsan och pedagogerna skapar vi förutsättningar för att främja under-
 visningens kvalitet och elevers utveckling och lärande.
 
-5. Beskriv skolenhetens organisation och hur samverkan mellan personalen ser ut:
+5\. Beskriv skolenhetens organisation och hur samverkan mellan personalen ser ut:
 Vilka mötesforum finns för lärares samverkan? Med vilken regelbundenhet träffas
 lärarna i dessa forum? Hur ser samverkan ut mellan lärare och annan personal, ex.
 elevhälsan? Vad är syftet med de olika mötesforumen?
@@ -6229,7 +6229,7 @@ LSG-facklig samverkan en gång i månaden. Syfte: enligt samverkansavtal.
 FLÅG: förstelärare på Åsa Gård. Förstelärare träffas en gång i veckan och tillsammans
 med rektorer en gång i månaden. Syfte: utvecklingsfrågor.
 
-6. Beskriv de principer du som rektor utgår ifrån när du fördelar resurser inom sko-
+6\. Beskriv de principer du som rektor utgår ifrån när du fördelar resurser inom sko-
 lenheten och hur du följer upp att resursfördelningen fyller sitt syfte. Ge några
 konkreta exempel från de senaste tolv månaderna.
 
@@ -6263,7 +6263,7 @@ ser såsom åtgärdsprogram och extra anpassningar.
 
 Undervisning
 
-7. Beskriv vad du ser som styrkor i skolans undervisning och vilka utvecklingsbehov
+7\. Beskriv vad du ser som styrkor i skolans undervisning och vilka utvecklingsbehov
 du ser för att förbättra undervisningen.
 
 Svar: Styrkor: vi har en hög andel behörig personal. Vi har upparbetat ett gott sam-
@@ -6274,7 +6274,7 @@ gemensamt utformade. Vikallar det för MG N-minsta gemensamma nämnare. Vihar
 kollegialt lärare i form av utvecklingsarbete. Vi hartydligt innehåll på alla möten. Ut-
 vecklingsbehov se fråga 2.
 
-8. Beskriv om ni under de senaste tolv månaderna har genomfört några insatser för
+8\. Beskriv om ni under de senaste tolv månaderna har genomfört några insatser för
 att förbättra undervisningen. Ge exempel på konkreta insatser och beskriv effek-
 terna av dessa insatser.
 
@@ -6309,7 +6309,7 @@ rad undervisning.
 
 Trygghet och studiero
 
-9. Har ni på skolan identifierat några riskområden för skolans trygghet? Beskriv i så
+9\. Har ni på skolan identifierat några riskområden för skolans trygghet? Beskriv i så
 fall riskområdet och hur ni har kommit fram till det.
 
 Svar: I den trygghetsenkät som genomförs varje år har vi kunnat identifiera elevernas
@@ -6335,7 +6335,7 @@ Skolinspektionen
 
 L |
 
-10. Beskriv vad du ser som styrkor i skolans arbete med trygghet och studiero samt
+10\. Beskriv vad du ser som styrkor i skolans arbete med trygghet och studiero samt
 vilka utvecklingsområden du serför att förbättra arbetet. Om ni har gjort några in-
 satser under de senaste tolv månaderna för att förbättra tryggheten och studi-
 eron, beskriv i så fall dessa insatser och effekterna av dem.
@@ -6379,7 +6379,7 @@ Skolinspektionen
 
 Bedömning och betygssättning
 
-11. Beskriv dina slutsatser utifrån din analys av omdömen och betygssättning gällande
+11\. Beskriv dina slutsatser utifrån din analys av omdömen och betygssättning gällande
 skillnader och avvikelser mellan exempelvis grupper, ämnen och lärare. Observera
 att frågan även gäller för årskurser där det inte sätts betyg.
 
@@ -6402,7 +6402,7 @@ dömen. Både rektorer och personalsåg behov av att framöver diskutera betygs�
 och omdömen. I hem- och konsumentkunskap har pojkar högre resultat än flickor i år
 jämfört med tidigare år.
 
-12. Beskriv hur lärarna arbetar med att kvalitetssäkra sina omdömen och betyg. Ob-
+12\. Beskriv hur lärarna arbetar med att kvalitetssäkra sina omdömen och betyg. Ob-
 servera att frågan även gäller för årskurser där det inte sätts betyg.
 
 Svar: Vi diskuterar omdömen och betyg lärare emellan på konferenstid. Det har vi gjort
@@ -6412,7 +6412,7 @@ verna om undervisningen har haft avsedd effekt. Vi arbetar också med utveckling
 samtalet. Vi arbetar också med överlämning mellan stadier. Vi arbetar med tydliga pe-
 dagogiska planeringar där syfte och mål framgår.
 
-13. Beskriv om ni under de senaste tolv månaderna har genomfört några insatser för
+13\. Beskriv om ni under de senaste tolv månaderna har genomfört några insatser för
 att utveckla arbetet med bedömning och betygssättning. Ge exempel på konkreta
 insatseroch beskriv effekterna av dessa insatser. Observera att frågan även gäller
 för årskurser där det inte sätts betyg.
@@ -6684,7 +6684,7 @@ Rektors namn:       Ulrika Jansson from 8/1-2024
 
 <!-- sida 217 -->
 
-* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
+\* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
 
 Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar behörighet, ange i vilket/vilka ämnen och årskurser
 
@@ -6743,7 +6743,7 @@ Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar b
 Förteckning över all undervisande personal på skolenheten
 
 Andel undervisande personal med lärarlegitimation:
-Andel undervisande personal som saknar behörighet*:
+Andel undervisande personal som saknar behörighet\*:
 
 [Tabell 218-1](handlingar.tabeller/218-1.csv)
 
@@ -6818,7 +6818,7 @@ Andel undervisande personal som saknar behörighet*:
 
 <!-- sida 221 -->
 
-* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
+\* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
 
 Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar behörighet, ange i vilket/vilka ämnen och årskurser
 
@@ -7408,13 +7408,13 @@ Utvecklingsområde 1: Rektorn och lärarna behöver utveckla det kollegiala lär
 utgår från utvecklingsbehoven i undervisningen i syfte att höja kvaliteten.
 Redovisa vilka åtgärder som genomförts:
 
--  Ett kalendarie med tydliga kollegiala träffar, vilket sker både måndagar kl 15-16 och
+\-  Ett kalendarie med tydliga kollegiala träffar, vilket sker både måndagar kl 15-16 och
 onsdagar kl 15-16.30
--  Onsdagar kl 15-16.30 kommer det att vara 12 tillfällen läsåret 24/25 som utgår från boken
+\-  Onsdagar kl 15-16.30 kommer det att vara 12 tillfällen läsåret 24/25 som utgår från boken
 ”Tydlighet, uppmuntran och ledarskap” av Peter Karlsson i syfte att stärka lärarnas
 profession. Lärarna kommer att vara indelade i två grupper och handledas externt av en
 specialpedagog och en certifierad coach.
--  Måndagar kl 15-16 kommer det att vara fokus på ämnesutveckling. Det arbetet har under
+\-  Måndagar kl 15-16 kommer det att vara fokus på ämnesutveckling. Det arbetet har under
 höstterminens inledning gått ut på att utveckla en tydligare och mer likvärdig systematik i
 ämnesårshjul mellan våra två mellanstadier i Åsa. Detta för att öka likvärdigheten till åk 7
 där elevernas slås ihop. Konferenstiden leds av en förstelärare från Åsa Gård och en
@@ -7425,21 +7425,21 @@ upptäckt stora skillnader i bedömning mellan skolorna.
 Beskriv hur verksamhetens kvalitet utvecklats avseende utvecklingsområdet sedan åtgärderna
 vidtagits:
 
--  Det har utvecklats en stark vi-känsla mellan personalen mellan våra två mellanstadier. Vi
+\-  Det har utvecklats en stark vi-känsla mellan personalen mellan våra två mellanstadier. Vi
 har utvecklat ämnesårshjul i princip samtliga ämnen. Det kommer gynna elevernas
 
 fortsatta utbildning och likvärdighet mot åk 7.
--  De kollegiala träffarna som syftar till lärares ledarskap har visat sig gynnsamt genom att vi
+\-  De kollegiala träffarna som syftar till lärares ledarskap har visat sig gynnsamt genom att vi
 har ett gemensamt språk och rektor kommer fortsätta följa upp arbetet ute i klassrummen
 genom observationer.
--  Under läsåret kommer utveckling av betyg och bedömning ske på konferenstid.
+\-  Under läsåret kommer utveckling av betyg och bedömning ske på konferenstid.
 
 Vilka utvärderingsmetoder har ni använt i er uppföljning? Beskriv eventuella ytterligare åtgärder
 som planeras:
 
--  Analys i arbetslag kopplat till trygghet och studiero. Frågebatteri framtaget av rektor.
--  Observationer av specialpedagog kopplat till lärares ledarskap hos vissa lärare.
--  Förstelärarmöten med fokus på pedagogiskt ledarskap som huvudman leder. Det arbetet är
+\-  Analys i arbetslag kopplat till trygghet och studiero. Frågebatteri framtaget av rektor.
+\-  Observationer av specialpedagog kopplat till lärares ledarskap hos vissa lärare.
+\-  Förstelärarmöten med fokus på pedagogiskt ledarskap som huvudman leder. Det arbetet är
 bara påbörjat men är starkt kopplat till måndagskonferenserna. Det är för tidigt att prata
 om några konkreta utvärderingsformer än.
 
@@ -7450,40 +7450,40 @@ att tydligare presentera eller förmedla syfte med lektionerna och dess moment
 Redovisa vilka åtgärder som genomförts:
 
 Lektionsstruktur:
--  Lektionsstruktur för lärare respektive elev har framarbetats under vt-24 och
+\-  Lektionsstruktur för lärare respektive elev har framarbetats under vt-24 och
 implementerats under ht-24.
--  Samtliga klassrum har lektionsstrukturen uppsatt, för eleverna vid dörren och för lärarna
+\-  Samtliga klassrum har lektionsstrukturen uppsatt, för eleverna vid dörren och för lärarna
 vid tavlan. Strukturerna skiljer sig åt utifrån elev och lärare, men grunden är densamma för
 att skapa en studiero.
--  Lektionsstrukturen bygger på att skapa en bra grundstruktur för studiero och en tydlighet
+\-  Lektionsstrukturen bygger på att skapa en bra grundstruktur för studiero och en tydlighet
 för förväntningar i att bidra in i sitt lärande.
--  Lektionsstrukturen för lärarna hjälper dem att förtydliga syftet (vad, när, hur) med
+\-  Lektionsstrukturen för lärarna hjälper dem att förtydliga syftet (vad, när, hur) med
 lektionen för eleverna.
--  Lektionsstrukturen gäller för Åsa skolor 4-9.
+\-  Lektionsstrukturen gäller för Åsa skolor 4-9.
 
 Kollegialt lärande:
--  Det kollegiala lärandet kring litteraturen Tydlighet, uppmuntran och ledarskap stärker
+\-  Det kollegiala lärandet kring litteraturen Tydlighet, uppmuntran och ledarskap stärker
 lärarnas förmåga att ge eleverna en större delaktighet så att undervisningen blir mer
 elevcentrerad för högre måluppfyllelse.
 
 Profession:
--  Lärarna gör analyser av sin undervisning och får återkoppling av rektor, vilket sedan tas
+\-  Lärarna gör analyser av sin undervisning och får återkoppling av rektor, vilket sedan tas
 med in i medarbetarsamtal och bedömningssamtal.
--  Läraren själv behöver utvecklas in sin profession genom att själv kunna identifiera vad hen
+\-  Läraren själv behöver utvecklas in sin profession genom att själv kunna identifiera vad hen
 
 ska utveckla.
 
 Beskriv hur verksamhetens kvalitet utvecklats avseende utvecklingsområdet sedan åtgärderna
 vidtagits:
 
--  Ökad samsyn bland alla mellanstadielärarna i Åsa. Eleverna har samma struktur på båda
+\-  Ökad samsyn bland alla mellanstadielärarna i Åsa. Eleverna har samma struktur på båda
 skolorna vilket ökar likvärdigheten för åk 7 där det senare är samma struktur också.
--  Eleverna på Åsa Gård följer strukturen väl, rektors spaning är att ”tysta tröskeln” är det
+\-  Eleverna på Åsa Gård följer strukturen väl, rektors spaning är att ”tysta tröskeln” är det
 som används minst. Lärare förklarar för rektor att det handlar om att de har en vilja av att
 ha ”mingel” när de kommer in och det är i rektors ögon alltid gott och öppet klimat. Möjligt
 just för att klassrummen på Åsa Gård är så små och klasserna betydligt mindre än
 genomsnittliga klasser.
--  I lärarnas analyser ser rektor att det finns styrkor i personalgruppen på Åsa Gård kring
+\-  I lärarnas analyser ser rektor att det finns styrkor i personalgruppen på Åsa Gård kring
 motivation av pojkar, enter och exit-tickets. Det finns också många goda exempel på hur
 undervisningen anpassas och struktureras efter gruppnivå. Utvecklingsområde bland
 lärarna på Åsa Gård är att anpassa ytterligare för individer, det som inte nås av det som
@@ -7494,14 +7494,14 @@ tillsammans med skolornas försterlärare.
 
 Vilka utvärderingsmetoder har ni använt i er uppföljning?
 
--  Analysmall för lärare. Det rektor såg i analyserna samlades i en power point kring likheter
+\-  Analysmall för lärare. Det rektor såg i analyserna samlades i en power point kring likheter
 och skillnader, samt vilka områden vi kan lära av varandra. Det delade rektor på
 
 <!-- sida 245 -->
 
 konferenstid med lärarna i sep-24. Utifrån det har förstelärarna fått planera fortsättningen
 av konferenstid.
--  Rektors observationer när rektor försöker lära känna sin verksamhet. Ej enligt
+\-  Rektors observationer när rektor försöker lära känna sin verksamhet. Ej enligt
 observationsprotokoll, det planerar dock rektor för att kunna genomföra i slutet av
 terminen och i inledningen av nästa termin. Rektor kommer att välja ut fokusområde
 kopplat till litteraturen lärarna läser samt vår grundstruktur för lektion. Återkoppling till
@@ -7510,16 +7510,16 @@ personal.
 
 Beskriv eventuella ytterligare åtgärder som planeras:
 
--  Observationer av rektor utifrån likvärdighet. Ej fastsatt vad rektor ska fokusera på men det
+\-  Observationer av rektor utifrån likvärdighet. Ej fastsatt vad rektor ska fokusera på men det
 kommer att kopplas till den litteratur lärarna läser samt vår lektionsstruktur. Planeras att
 inledas i slutet av ht-24.
--  Rektorskvarten – samtal med elever kopplat till våra prioriterade mål. Planeras att påbörjas
+\-  Rektorskvarten – samtal med elever kopplat till våra prioriterade mål. Planeras att påbörjas
 vt-25.
--  Kooperativt lärande. Många lärare lyfter i sina analyser ett behov av att utveckla sin
+\-  Kooperativt lärande. Många lärare lyfter i sina analyser ett behov av att utveckla sin
 undervisning ihop med eleverna samt kunna möta olika elevers behov. Rektor och
 förstelärare har därför identifierat att kooperativt lärande är en lämplig gemensam väg att
 kompetensutvecklas i. Planerad start 25/26.
--  Speciallärare kopplas in i ämneskonferenser för att stötta lärarna i planeringsstadiet både
+\-  Speciallärare kopplas in i ämneskonferenser för att stötta lärarna i planeringsstadiet både
 på grupp- och individnivå för att utveckla arbetet med extra anpassningar. Planeras att
 påbörjas ht-24 men med bättre struktur läsåret 25/26.
 
@@ -7530,49 +7530,49 @@ främjande, förebyggande och åtgärdande trygghetsarbete i syfte att öka tryg
 Redovisa vilka åtgärder som genomförts:
 
 Trygghetsteam:
--  Åsa skolor 4-9 har ett gemensamt trygghetsteam
--  Åsa skolor 4-9 deltar i forskningsprojektet IBIS (Inkluderande Beteendestöd I Skolan) med
+\-  Åsa skolor 4-9 har ett gemensamt trygghetsteam
+\-  Åsa skolor 4-9 deltar i forskningsprojektet IBIS (Inkluderande Beteendestöd I Skolan) med
 Uppsala Universitet för att främja trygghet och studiero. Här arbetar vi kring eleverna och
 tillitsfulla relationer utifrån en kartläggning med olika färger. Utifrån det kommer vi planera
 rätt åtgärder för att möta varje elev, både i relation till lärare-elev men också elev-elev.
--  Förståelse för hur rutinerna fungerar kring kränkningsutredningar och ett ökat samarbete
+\-  Förståelse för hur rutinerna fungerar kring kränkningsutredningar och ett ökat samarbete
 mellan lärare och elevhälsan. Samsyn kring vårt gemensamma uppdrag.
--  Föreläsning av Myndighet och stöd (Kungsbacka kommun) om kränkande behandling och
+\-  Föreläsning av Myndighet och stöd (Kungsbacka kommun) om kränkande behandling och
 anmälningsplikt. Genomfördes 28 oktober.
--  Planerad utbildning med Medlingscentrum i att lösa konflikter. Planerad till 20 november.
+\-  Planerad utbildning med Medlingscentrum i att lösa konflikter. Planerad till 20 november.
 
 Elevhälsan:
--  En kurator arbetar på båda våra mellanstadier i Åsa. Det gör att kurator kan fokusera sitt
+\-  En kurator arbetar på båda våra mellanstadier i Åsa. Det gör att kurator kan fokusera sitt
 uppdrag till åk 4-6. En stor del av hens uppdrag är kopplat till förebyggande och främjande
 arbete kring trygghet och studiero. Kurator har genomfört lektioner inom värdegrund i
 samtliga klasser i åk 4-5 tillsammans med mentor.
--  I åk 6 arbetar hela elevhälsan i åk 4-9 med positiva förväntningar i mindre grupper (utgår
+\-  I åk 6 arbetar hela elevhälsan i åk 4-9 med positiva förväntningar i mindre grupper (utgår
 från material på elevhälsan.se ”Från kaos till ordning” men har döpt om det till ”Positiva
 förväntningar för trygghet och studiero” och därmed gjort det till ett förebyggande arbete)
 
 Trygg undervisning:
--  Tillitsfullla relationer skapas genom bland annat ” Tydlighet, uppmuntran och ledarskap”
--  Trygghetsteamet har löpande under läsåret inspel med material som ska göras på
+\-  Tillitsfullla relationer skapas genom bland annat ” Tydlighet, uppmuntran och ledarskap”
+\-  Trygghetsteamet har löpande under läsåret inspel med material som ska göras på
 mentorstid för att främja goda relationer mellan lärare-elev. Det utgår bland annat från
 litteraturen ”Starta skolan starkt”.
 
 Beskriv hur verksamhetens kvalitet utvecklats avseende utvecklingsområdet sedan åtgärderna
 vidtagits:
 
--  Alla lärare arbetar med positiv och konkret förstärkning för att uppmuntra positivt
+\-  Alla lärare arbetar med positiv och konkret förstärkning för att uppmuntra positivt
 beteende. Detta följs upp på arbetslag varje vecka för att utveckla lärarnas förmåga att inte
 slentrianmässigt använda negativa tillsägelser. Eleverna är överlag positiva och har ett gott
 språkbruk på Åsa Gård.
--  Användningen av vårt anmälningssystem Prorenata har utvecklats och lärarna är inte fullt
+\-  Användningen av vårt anmälningssystem Prorenata har utvecklats och lärarna är inte fullt
 lika osäkra i hur de ska sköta anmälningar av misstänkt kränkande behandling.
--  Genom IBIS-projektet så har lärarna fått skapa en relationskarta för varje elev. Hur ser den
+\-  Genom IBIS-projektet så har lärarna fått skapa en relationskarta för varje elev. Hur ser den
 elevens relationer ut till oss vuxna på skolan? Det markeras i färgkoder rött, grönt, gult och
 vitt. Utifrån det kommer lärarna arbeta vidare med lösningar för att alla elever ska ha minst
 en grön lärare som har god relation till hen. Det har gjort att både arbetslag och elevhälsa
 har fått syn på elever som vi behöver arbeta mer med för att skapa trygga relationer till.
 Arbetet fortsätter 20 november.
--  Fritidsledare på Åsa Gård genomför rastaktiviteter två gånger i veckan.
--  Att ha ett och samma elevhälsoteam i Åsa åk 4-6 har gynnat rektors arbete med att skapa
+\-  Fritidsledare på Åsa Gård genomför rastaktiviteter två gånger i veckan.
+\-  Att ha ett och samma elevhälsoteam i Åsa åk 4-6 har gynnat rektors arbete med att skapa
 likvärdighet då vi i ett tvärprofessionellt arbete når alla våra mellanstadieelever. Arbetet
 med trygghet var mer utvecklat på Åsaskolan under föregående läsår vilket har gjort att vi
 
@@ -7583,32 +7583,32 @@ i vår gemensamma Plan mot kränkande behandling för Åsa skolor 4-6.
 
 Vilka utvärderingsmetoder har ni använt i er uppföljning?
 
--  Elevhälsan har analyserat kränkande behandling utifrån statistik i Prorenata. Frågor
+\-  Elevhälsan har analyserat kränkande behandling utifrån statistik i Prorenata. Frågor
 kopplade till innehåll är styrda av rektor.
--  Trygghetsenkät med eleverna har genomförts vecka 43. Resultatet av den kommer lärarna
+\-  Trygghetsenkät med eleverna har genomförts vecka 43. Resultatet av den kommer lärarna
 att analysera v 45-46 och återkoppla till elever, rektor, kurator och vårdnadshavare vilka
 åtgärder de planerar att vidta för att stärka tryggheten ytterligare.
--  Sociogram genomfört i samtliga klasser. Lärarna har analyserat dessa och planerat sin
+\-  Sociogram genomfört i samtliga klasser. Lärarna har analyserat dessa och planerat sin
 undervisning utifrån det så att alla elever känner en trygghet i klassrummet så att de kan
 bidra till studiero. Utmaningar i att möta alla elever på skolgården med trygga rastvärdar
 då vi är få personal på Åsa Gård 4-6.
 
 Beskriv eventuella ytterligare åtgärder som planeras:
 
--  Löpande analyser kring kränkande behandling, frånvaro, åtgärdsprogram, måluppfyllelse
+\-  Löpande analyser kring kränkande behandling, frånvaro, åtgärdsprogram, måluppfyllelse
 och trygghet sker av elevhälsan på analysdagar (fyra stycken per läsår). Insatser sker utifrån
 vad analyserna visar. Nästa analysdag för EHT är 22 januari 2025.
--  Planerad insats av Medlingscentrum för att stärka lärarnas profession i att hantera
+\-  Planerad insats av Medlingscentrum för att stärka lärarnas profession i att hantera
 konflikter. Planerad till 20 november.
--  Skolsköterska på Åsa Gård F-6 och skolsköterska på Åsaskolan 4-9 kommer genomföra
+\-  Skolsköterska på Åsa Gård F-6 och skolsköterska på Åsaskolan 4-9 kommer genomföra
 
 pubertetsamtal i mindre grupper med samtliga elever i åk 5 på båda skolorna. Preliminärt
 planeras det att även hinna med åk 4 då vi ser att puberteten sjunker i åldrar och påverkar
 elevernas trygghet. Åk 5 inleds slutet av ht-24. Prel inleds åk 4 senare delen av vt-25.
--  Skolsköterska och kurator planerar att utveckla arbetet med ANDTS att innefatta hela åk 4-
+\-  Skolsköterska och kurator planerar att utveckla arbetet med ANDTS att innefatta hela åk 4-
 6 (tidigare bara åk 6) då vi ser en ökad positivism kring framförallt vape. Mer kunskap hos
 eleverna kommer också skapa en tryggare skolmiljö. Planerat till vt-25.
--  Analys av Plan mot kränkande behandling sker 12 november ihop med rektor, kurator och
+\-  Analys av Plan mot kränkande behandling sker 12 november ihop med rektor, kurator och
 förstelärare inriktad mot trygghet. Därefter påbörjas arbetet med att upprätta en ny plan
 som börjar gälla jan-25.
 
@@ -7619,21 +7619,21 @@ kvalitetssäkra sina bedömningar och sin betygsättning.
 Redovisa vilka åtgärder som genomförts:
 
 Kalendariet:
--  Vi har inför läsåret 24/25 utvecklat kalendariet till Åsa skolor 4-9 och sambedömning och
+\-  Vi har inför läsåret 24/25 utvecklat kalendariet till Åsa skolor 4-9 och sambedömning och
 betygssättning finns vid 4 tillfällen under läsåret. Dessa leds av en förstelärare på 7-9.
--  Planerade datum för sambedömning: 4/12, 11/12, 28/5, 4/6. På tillfällen kommer lärarna
+\-  Planerade datum för sambedömning: 4/12, 11/12, 28/5, 4/6. På tillfällen kommer lärarna
 att bära med sig underlag för att skapa förståelse där de kan kalibrera bedömningen och
 betygssättningen för en likvärdig bedömning och betygssättning. Vikten av att arbeta med
 en förståelse och en tolkning av styrdokumenten.
 
 Elevhälsan:
--  Elevhälsan analyserar mitterminsbedömning och åtgärdsprogram för att säkerställa att alla
+\-  Elevhälsan analyserar mitterminsbedömning och åtgärdsprogram för att säkerställa att alla
 elever ges rätt till särskilt stöd samt stöttar lärarna i deras arbete med eleverna.
 
 Beskriv hur verksamhetens kvalitet utvecklats avseende utvecklingsområdet sedan åtgärderna
 vidtagits:
 
--  Elevhälsan har registrerat att vi har fler elever på Åsa Gård som riskerar att inte nå målen,
+\-  Elevhälsan har registrerat att vi har fler elever på Åsa Gård som riskerar att inte nå målen,
 detta trots att klasserna är mindre och upplevelsen är att det är välfungerande
 undervisning. Speciallärare har också registrerat att elever som lärare på Åsa Gård vill ska
 ha tex lästräning läser med flyt och inte bör ligga inom ”når inte lägsta kunskapskriterie”.
@@ -7644,18 +7644,18 @@ på Åsa Gård.
 
 Vilka utvärderingsmetoder har ni använt i er uppföljning?
 
--  Då både elevhälsa och rektor är nya på Åsa Gård sen läsårsstart 24/25 så har vi försökt lära
+\-  Då både elevhälsa och rektor är nya på Åsa Gård sen läsårsstart 24/25 så har vi försökt lära
 känna verksamheten. Genom elevhälsans analyser och åtgärdsprogram ser vi att det finns
 utveckling att göra inom svenskämnet. Men vi ser också att det är många elever som inte
 når upp till lägsta nivå i SO-ämnena. Beror det på lärares undervisning, för hård bedömning
 eller är det kopplat till frånvaro? Analysen genomfördes 29 oktober och rektor tillsammans
 med spec och förstelärare kommer arbeta vidare hur vi ska utveckla vårt arbete.
--  Frånvaro är starkt kopplat till att inte nå lägsta kunskapskriterie i flertalet ämnen visar
+\-  Frånvaro är starkt kopplat till att inte nå lägsta kunskapskriterie i flertalet ämnen visar
 elevhälsans analyser 29 oktober.
 
 Beskriv eventuella ytterligare åtgärder som planeras:
 
--  Lärararbetslaget ska utveckla sitt arbete med betyg och bedömning på konferenstid
+\-  Lärararbetslaget ska utveckla sitt arbete med betyg och bedömning på konferenstid
 tillsammans med förstelärare på åk -6 men också gemensamma träffar för åk 4-9 så att vi
 skapar en likvärdig bedömning.
 
@@ -8669,7 +8669,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

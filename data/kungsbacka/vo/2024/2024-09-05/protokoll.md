@@ -55,7 +55,7 @@ Joakim Swärd, vik. verksamhetschef
 Clara Engstrand, enhetschef
 
 Personalföreträdare           Övriga
--
+\-
 
 Plats och tid för justering Digital justering
 
@@ -150,7 +150,7 @@ för Vård & Omsorg
 Beslut
 Nämnden för Vård & Omsorg antar Vägledning gällande stöd enligt
 Socialtjänstlagen (2001:453), daterad 2024-08-22 med diarienummer VO-2024-
-00343.
+00343\.
 
 Nämnden för Vård & Omsorg antar bilaga 1 och 2 till Vägledning gällande stöd
 enligt Socialtjänstlagen (2001:453) daterad 2024-08-22, och godkänner att
@@ -207,18 +207,18 @@ bilaga 1 och bilaga 2 till Vägledning gällande stöd enligt Socialtjänstlagen
 Det som testats är att gruppera detaljerade insatser till mer vida/övergripande insatser
 med syftet att:
 
-- minska administration för koordinatorer genom effektiviserar insatsplaneringen
+\- minska administration för koordinatorer genom effektiviserar insatsplaneringen
 
-- främja användandet av genomförandeplanen då ”vidare” insatsnamn kräver att
+\- främja användandet av genomförandeplanen då ”vidare” insatsnamn kräver att
 personal läser planen i stället för att utläsa utförandet i själva insatsnamnet
-- öka möjlighet till att vara en datadriven organisation (förutsättning för AI m.m)
+\- öka möjlighet till att vara en datadriven organisation (förutsättning för AI m.m)
 
-- öka enhetlighet mellan insatsnamn som används av hemtjänst dag och natt, allt är
+\- öka enhetlighet mellan insatsnamn som används av hemtjänst dag och natt, allt är
 hemtjänst
-- öka möjlighet att ta ut mer detaljerad statistik över vad som planeras och utförs
+\- öka möjlighet att ta ut mer detaljerad statistik över vad som planeras och utförs
 på natten
 
-- förtydliga att det är digitalt först som är norm även i insatsnamnen och när de ska
+\- förtydliga att det är digitalt först som är norm även i insatsnamnen och när de ska
 användas
 
 En ytterligare anledning till denna förändring av insatsnamn är att det i intervjuer

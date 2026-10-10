@@ -318,10 +318,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -385,11 +385,11 @@ andra
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -456,7 +456,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -466,7 +466,7 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 5
@@ -480,18 +480,18 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 73 %   75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 86 %   88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Total debiterad vattenförbrukning fördelat på
 antal anslutna till vattenledningsnätet. (Här
 ingår förbrukning från hushåll, kommunen
@@ -506,7 +506,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 115   151
@@ -524,8 +524,8 @@ Andelen återbrukade möbler
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 6
@@ -596,8 +596,8 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -856,10 +856,10 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1135,9 +1135,9 @@ Samtidigt behöver den kollegiala likvärdigheten stärkas i vår organisation. 
 till exempel grovt språk eller begynnande kränkningar ska vara konsekvent och likvärdigt i alla våra skolor.
 
 Fokusområde
-- Starkare lärarroll
-- Enhetliga normer och arbetssätt
-- Utbildning och kollegialt arbete
+\- Starkare lärarroll
+\- Enhetliga normer och arbetssätt
+\- Utbildning och kollegialt arbete
 
 17
 
@@ -1773,7 +1773,7 @@ grundskolan har satsningar på totalt 19,2 miljoner kronor genomförts i syfte a
 och öka elevernas måluppfyllelse, med särskilt fokus på förbättrade resultat i matematik. I 2026 års
 förvaltningsbudget har även medel avsatts motsvarande bemanning av en speciallärare eller specialpedagog per
 högstadieskola, avsedd för undervisning i särskild undervisningsgrupp. Förstärkningen påbörjades under hösten
-2025.
+2025\.
 Från och med höstterminen 2026 har förvaltningen infört en resursskola – en mindre skolenhet med små
 elevgrupper och hög personaltäthet, där lärmiljön anpassas efter elevgruppens specifika behov. Resursskolan har
 startat under höstterminen och prognostiserar ett underskott vilket främst beror på kostnader i samband med
@@ -2031,9 +2031,9 @@ en annan elevs berättigade krav på placering vid en skolenhet nära hemmet ås
 kommunen placera eleven vid en annan skolenhet inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
-1. den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för
 kommunen, eller
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
@@ -2069,7 +2069,7 @@ Förvaltningschef                   Verksamhetschef Myndighet & Stöd
 
 Riktlinje           för    profilklasser
 
--  med   krav   på  särskilda   färdigheter
+\-  med   krav   på  särskilda   färdigheter
 
 Dokumentegenskaper: Titel: Riktlinje för profilklasser, Skapat av:
 Beslutad av:    Nämnden för Förskola och grundskola, § xx 2026-09-xx
@@ -2124,9 +2124,9 @@ fortsatta skolplaceringen. Elever som inte antas till profilklass tilldelas skol
 det ordinarie skolvalet.
 Vid fler sökande än platser görs urval enligt följande:
 
-1. Resultat färdighetsprov
+1\. Resultat färdighetsprov
 
-2. Lottning (om flera elever har samma resultat)
+2\. Lottning (om flera elever har samma resultat)
 Rektor för profilklass beslutar om mottagande.
 
 Förvaltningen fastställer närmare tillämpningsdokument för profilklassernas
@@ -2161,10 +2161,10 @@ krav på placering vid en skolenhet nära hemmet åsidosätts, ska dock
 kommunen placera eleven vid en annan skolenhet inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 Tester och prov får enligt 10 kap. 9 § första stycket skollagen som huvudregel
@@ -2373,39 +2373,39 @@ Eva Holmberg
 Kommunarkivarie
 Dataskyddskontakt kommunstyrelsen
 Vik. registrator
-_____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kommunstyrelsens förvaltning
 Kungsbacka kommun
 0300-83 41 74
 
 www.kungsbacka.se
 
-Från: Lena Garpenlöv <lena.garpenlov@regeringskansliet.se> För U S
+Från: Lena Garpenlöv \<lena.garpenlov@regeringskansliet.se> För U S
 Skickat: den 20 juli 2026 10:00
-Till: info@almegautbildning.se; info@aneby.se; arbetsmiljoverket <arbetsmiljoverket@av.se>;
-kommunstyrelsen@arvidsjaur.se; info <info@barnombudsmannen.se>; bergs.kommun@berg.se;
-bollnas@bollnas.se; kommun@borgholm.se; do <do@do.se>; info@fagersta.se; kommun@filipstad.se;
-info <info@folkhalsomyndigheten.se>; info@funktionsratt.se; info@foraldraalliansen.nu;
+Till: info@almegautbildning.se; info@aneby.se; arbetsmiljoverket \<arbetsmiljoverket@av.se>;
+kommunstyrelsen@arvidsjaur.se; info \<info@barnombudsmannen.se>; bergs.kommun@berg.se;
+bollnas@bollnas.se; kommun@borgholm.se; do \<do@do.se>; info@fagersta.se; kommun@filipstad.se;
+info \<info@folkhalsomyndigheten.se>; info@funktionsratt.se; info@foraldraalliansen.nu;
 registrator@gagnef.se; stadsledningskontoret@stadshuset.goteborg.se; kommun@hagfors.se;
 kommun@hallsberg.se; kommunen@haparanda.se; kommun@harnosand.se; registrator
-<registrator@hv.se>; info@ideburenskola.se; ifau <ifau@ifau.uu.se>; registrator
-<registrator@mrinstitutet.se>; imy <imy@imy.se>; registrator@jamstalldhetsmyndigheten.se;
-kommun@karlsborg.se; kommun@kiruna.se; knivsta@knivsta.se; Kommun <kommun@kungsbacka.se>;
+\<registrator@hv.se>; info@ideburenskola.se; ifau \<ifau@ifau.uu.se>; registrator
+\<registrator@mrinstitutet.se>; imy \<imy@imy.se>; registrator@jamstalldhetsmyndigheten.se;
+kommun@karlsborg.se; kommun@kiruna.se; knivsta@knivsta.se; Kommun \<kommun@kungsbacka.se>;
 kommun@laxa.se; registrator@lnu.se; info@ljungby.se; kommunstyrelsen@malmo.se;
-registrator@mau.se; registrator <registrator@miun.se>; kommun@munkfors.se; info <info@mfd.se>;
+registrator@mau.se; registrator \<registrator@miun.se>; kommun@munkfors.se; info \<info@mfd.se>;
 registrator@nacka.se; kontaktcenter@norrtalje.se; kommun@nykoping.se; ks@olofstrom.se;
 regelradet@regelradet.se; justitieombudsmannen@jo.se; kommun@robertsfors.se; sameskolstyrelsen
-<sameskolstyrelsen@sameskolstyrelsen.se>; info <info@skolfi.se>; overklagandenamnden
-<overklagandenamnden@overklagandenamnden.se>; socialstyrelsen
-<socialstyrelsen@socialstyrelsen.se>; spsm <spsm@spsm.se>; skolinspektionen
-<skolinspektionen@skolinspektionen.se>; registrator <registrator@skolverket.se>;
-kommunstyrelsen@stockholm.se; registrator <registrator@su.se>; forbundet@kommunal.se;
+\<sameskolstyrelsen@sameskolstyrelsen.se>; info \<info@skolfi.se>; overklagandenamnden
+\<overklagandenamnden@overklagandenamnden.se>; socialstyrelsen
+\<socialstyrelsen@socialstyrelsen.se>; spsm \<spsm@spsm.se>; skolinspektionen
+\<skolinspektionen@skolinspektionen.se>; registrator \<registrator@skolverket.se>;
+kommunstyrelsen@stockholm.se; registrator \<registrator@su.se>; forbundet@kommunal.se;
 registrator@skr.se; remiss@sverigeslarare.se; info@sverigesskolledare.se; info@sefif.se;
 
 <!-- sida 55 -->
 
 torsby.kommun@torsby.se; tranaskommun@tranas.se; vasterviks.kommun@vastervik.se; U Registrator
-<u.registrator@regeringskansliet.se>
+\<u.registrator@regeringskansliet.se>
 Kopia: regeringskansliet@multiplysolutions.se
 Ämne: Remiss av SOU 2026:37 Förutsättningar för en likvärdig och språkutvecklande förskola - Svar 2/11
 2026
@@ -2422,73 +2422,73 @@ Förutsättningar för en likvärdig och språkutvecklande förskola (SOU 2026:3
 
 Remissinstanser
 
-1. Almega Utbildning
-2. Aneby kommun
-3. Arbetsmiljöverket
-4. Arvidsjaur kommun
-5. Barnombudsmannen
-6. Bergs kommun
-7. Bollnäs kommun
-8. Borgholms kommun
-9. Diskrimineringsombudsmannen
-10. Fagersta kommun
-11. Filipstads kommun
+1\. Almega Utbildning
+2\. Aneby kommun
+3\. Arbetsmiljöverket
+4\. Arvidsjaur kommun
+5\. Barnombudsmannen
+6\. Bergs kommun
+7\. Bollnäs kommun
+8\. Borgholms kommun
+9\. Diskrimineringsombudsmannen
+10\. Fagersta kommun
+11\. Filipstads kommun
 
-12. Folkhälsomyndigheten
-13. Funktionsrätt Sverige
-14. Föräldraalliansen i Sverige
-15. Gagnefs kommun
-16. Göteborgs kommun
-17. Hagfors kommun
-18. Hallsbergs kommun
-19. Haparanda kommun
-20. Härnösands kommun
-21. Högskolan Väst
-22. Idéburna Skolors Riksförbund
-23. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
-24. Institutet för mänskliga rättigheter
-25. Integritetsskyddsmyndigheten
-26. Jämställdhetsmyndigheten
-27. Karlsborgs kommun
-28. Kiruna kommun
-29. Knivsta kommun
+12\. Folkhälsomyndigheten
+13\. Funktionsrätt Sverige
+14\. Föräldraalliansen i Sverige
+15\. Gagnefs kommun
+16\. Göteborgs kommun
+17\. Hagfors kommun
+18\. Hallsbergs kommun
+19\. Haparanda kommun
+20\. Härnösands kommun
+21\. Högskolan Väst
+22\. Idéburna Skolors Riksförbund
+23\. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+24\. Institutet för mänskliga rättigheter
+25\. Integritetsskyddsmyndigheten
+26\. Jämställdhetsmyndigheten
+27\. Karlsborgs kommun
+28\. Kiruna kommun
+29\. Knivsta kommun
 
 <!-- sida 56 -->
 
-30. Kungsbacka kommun
-31. Laxå kommun
-32. Linnéuniversitetet
-33. Ljungby kommun
-34. Malmö kommun
-35. Malmö universitet
-36. Mittuniversitet
-37. Munkfors kommun
-38. Myndigheten för delaktighet
-39. Nacka kommun
-40. Norrtälje kommun
-41. Nyköpings kommun
-42. Olofströms kommun
-43. Regelrådet
-44. Riksdagens ombudsmän (JO)
-45. Robertsfors kommun
-46. Sameskolstyrelsen
-47. Skolforskningsinstitutet
-48. Skolväsendets överklagandenämnd
-49. Socialstyrelsen
-50. Specialpedagogiska skolmyndigheten
-51. Statens skolinspektion
-52. Statens skolverk
-53. Stockholms kommun
-54. Stockholms universitet
-55. Svenska kommunalarbetareförbundet
-56. Sveriges Kommuner och Regioner
+30\. Kungsbacka kommun
+31\. Laxå kommun
+32\. Linnéuniversitetet
+33\. Ljungby kommun
+34\. Malmö kommun
+35\. Malmö universitet
+36\. Mittuniversitet
+37\. Munkfors kommun
+38\. Myndigheten för delaktighet
+39\. Nacka kommun
+40\. Norrtälje kommun
+41\. Nyköpings kommun
+42\. Olofströms kommun
+43\. Regelrådet
+44\. Riksdagens ombudsmän (JO)
+45\. Robertsfors kommun
+46\. Sameskolstyrelsen
+47\. Skolforskningsinstitutet
+48\. Skolväsendets överklagandenämnd
+49\. Socialstyrelsen
+50\. Specialpedagogiska skolmyndigheten
+51\. Statens skolinspektion
+52\. Statens skolverk
+53\. Stockholms kommun
+54\. Stockholms universitet
+55\. Svenska kommunalarbetareförbundet
+56\. Sveriges Kommuner och Regioner
 
-57. Sveriges Lärare
-58. Sveriges Skolledare
-59. Sätter enskilda förskolor i fokus (Sefif)
-60. Torsby kommun
-61. Tranås kommun
-62. Västerviks kommun
+57\. Sveriges Lärare
+58\. Sveriges Skolledare
+59\. Sätter enskilda förskolor i fokus (Sefif)
+60\. Torsby kommun
+61\. Tranås kommun
+62\. Västerviks kommun
 
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 2 november 2026. Svaren bör
 lämnas per e-post till u.remissvar@regeringskansliet.se och med kopia till
@@ -2543,35 +2543,35 @@ Remiss av betänkandet Förutsättningar för en likvärdig och
 språkutvecklande förskola (SOU 2026:37)
 
 Remissinstanser
-1. Almega Utbildning
+1\. Almega Utbildning
 
-2. Aneby kommun
-3. Arbetsmiljöverket
+2\. Aneby kommun
+3\. Arbetsmiljöverket
 
-4. Arvidsjaur kommun
+4\. Arvidsjaur kommun
 
-5. Barnombudsmannen
-6. Bergs kommun
+5\. Barnombudsmannen
+6\. Bergs kommun
 
-7. Bollnäs kommun
+7\. Bollnäs kommun
 
-8. Borgholms kommun
-9. Diskrimineringsombudsmannen
+8\. Borgholms kommun
+9\. Diskrimineringsombudsmannen
 
-10. Fagersta kommun
+10\. Fagersta kommun
 
-11. Filipstads kommun
-12. Folkhälsomyndigheten
+11\. Filipstads kommun
+12\. Folkhälsomyndigheten
 
-13. Funktionsrätt Sverige
-14. Föräldraalliansen i Sverige
+13\. Funktionsrätt Sverige
+14\. Föräldraalliansen i Sverige
 
-15. Gagnefs kommun
+15\. Gagnefs kommun
 
-16. Göteborgs kommun
-17. Hagfors kommun
+16\. Göteborgs kommun
+17\. Hagfors kommun
 
-18. Hallsbergs kommun
+18\. Hallsbergs kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Drottninggatan 16
@@ -2579,81 +2579,81 @@ Webb: www.regeringen.se     E-post: u.registrator@regeringskansliet.se
 
 <!-- sida 59 -->
 
-19. Haparanda kommun
+19\. Haparanda kommun
 
-20. Härnösands kommun
-21. Högskolan Väst
+20\. Härnösands kommun
+21\. Högskolan Väst
 
-22. Idéburna Skolors Riksförbund
-23. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+22\. Idéburna Skolors Riksförbund
+23\. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 
-24. Institutet för mänskliga rättigheter
+24\. Institutet för mänskliga rättigheter
 
-25. Integritetsskyddsmyndigheten
-26. Jämställdhetsmyndigheten
+25\. Integritetsskyddsmyndigheten
+26\. Jämställdhetsmyndigheten
 
-27. Karlsborgs kommun
+27\. Karlsborgs kommun
 
-28. Kiruna kommun
-29. Knivsta kommun
+28\. Kiruna kommun
+29\. Knivsta kommun
 
-30. Kungsbacka kommun
+30\. Kungsbacka kommun
 
-31. Laxå kommun
-32. Linnéuniversitetet
+31\. Laxå kommun
+32\. Linnéuniversitetet
 
-33. Ljungby kommun
-34. Malmö kommun
+33\. Ljungby kommun
+34\. Malmö kommun
 
-35. Malmö universitet
+35\. Malmö universitet
 
-36. Mittuniversitet
-37. Munkfors kommun
+36\. Mittuniversitet
+37\. Munkfors kommun
 
-38. Myndigheten för delaktighet
+38\. Myndigheten för delaktighet
 
-39. Nacka kommun
-40. Norrtälje kommun
+39\. Nacka kommun
+40\. Norrtälje kommun
 
-41. Nyköpings kommun
-42. Olofströms kommun
+41\. Nyköpings kommun
+42\. Olofströms kommun
 
-43. Regelrådet
+43\. Regelrådet
 
-44. Riksdagens ombudsmän (JO)
-45. Robertsfors kommun
+44\. Riksdagens ombudsmän (JO)
+45\. Robertsfors kommun
 
-46. Sameskolstyrelsen
+46\. Sameskolstyrelsen
 
-47. Skolforskningsinstitutet
-48. Skolväsendets överklagandenämnd
+47\. Skolforskningsinstitutet
+48\. Skolväsendets överklagandenämnd
 
 2 (4)
 
 <!-- sida 60 -->
 
-49. Socialstyrelsen
+49\. Socialstyrelsen
 
-50. Specialpedagogiska skolmyndigheten
-51. Statens skolinspektion
+50\. Specialpedagogiska skolmyndigheten
+51\. Statens skolinspektion
 
-52. Statens skolverk
-53. Stockholms kommun
+52\. Statens skolverk
+53\. Stockholms kommun
 
-54. Stockholms universitet
+54\. Stockholms universitet
 
-55. Svenska kommunalarbetareförbundet
-56. Sveriges Kommuner och Regioner
+55\. Svenska kommunalarbetareförbundet
+56\. Sveriges Kommuner och Regioner
 
-57. Sveriges Lärare
+57\. Sveriges Lärare
 
-58. Sveriges Skolledare
-59. Sätter enskilda förskolor i fokus (Sefif)
+58\. Sveriges Skolledare
+59\. Sätter enskilda förskolor i fokus (Sefif)
 
-60. Torsby kommun
+60\. Torsby kommun
 
-61. Tranås kommun
-62. Västerviks kommun
+61\. Tranås kommun
+62\. Västerviks kommun
 
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den
 2 november 2026. Svaren bör lämnas per e-post till
@@ -4005,10 +4005,10 @@ ket inleds och som omfattas av erbjudandet om en förskoleplats för
 
 bättre språkutveckling i svenska enligt 8 kap. 14 a § skollagen. Det
 innebär att målgruppen är barn
-1. som är födda utomlands och som har vistats i Sverige sedan högst
+1\. som är födda utomlands och som har vistats i Sverige sedan högst
 fem år, eller
 
-2. vars vårdnadshavare som är bosatta i Sverige är födda utomlands
+2\. vars vårdnadshavare som är bosatta i Sverige är födda utomlands
 och har vistats i Sverige sedan högst fem år.
 
 Regleringen identifierar en målgrupp som skulle gynnas av att delta
@@ -4346,8 +4346,8 @@ som är tillräckliga enligt 10 a §.
 12 §1
 Hemkommunen ansvarar för att utbildning i förskola kommer
 till stånd för alla barn i kommunen som ska erbjudas förskola och
-1. vars vårdnadshavare önskar det, eller
-2. som ska tas emot i förskolan 2. som har tilldelats en plats
+1\. vars vårdnadshavare önskar det, eller
+2\. som ska tas emot i förskolan 2. som har tilldelats en plats
 efter ett erbjudande om plats en- vid en förskoleenhet enligt 14 a §.
 ligt 14 a §.
 Hemkommunen får fullgöra sina skyldigheter genom att erbjuda
@@ -4404,10 +4404,10 @@ bedömning under höstterminen
 det kalenderår barnet fyller fyra år
 
 om
-1. barnet inte har genomgått en
+1\. barnet inte har genomgått en
 språkbedömning enligt första
 stycket, eller
-2. barnet inte har en plats vid
+2\. barnet inte har en plats vid
 en förskoleenhet, och språkbedöm-
 ningen enligt första stycket visade
 att barnet hade behov av språk-
@@ -4430,9 +4430,9 @@ för att ett barn genomgår en språk-
 bedömning i svenska enligt 12 c §
 om barnets vårdnadshavare begär
 det och
-1. barnet har ett nationellt mino-
+1\. barnet har ett nationellt mino-
 ritetsspråk som modersmål, eller
-2. om det med hänsyn till bar-
+2\. om det med hänsyn till bar-
 nets levnadsförhållanden eller situa-
 tion i övrigt är uppenbart obehövligt.
 
@@ -4449,11 +4449,11 @@ något önskemål om förskola har tilldelas en plats vid en förskole-
 anmälts av barnets vårdnadshavare enhet även om barnets vårdnads-
 om                    havare inte har anmält något
 önskemål om förskola.
-1. barnet är fött utomlands och
+1\. barnet är fött utomlands och
 
 vistas i Sverige sedan högst fem år,
 eller
-2. barnets vårdnadshavare som
+2\. barnets vårdnadshavare som
 är bosatta i Sverige är födda utom-
 lands och vistas i Sverige sedan
 högst fem år.
@@ -4483,11 +4483,11 @@ dandet ska lämnas till barnets vård-
 nadshavare senast tre månader före
 det datum då barnet tidigast kan tas
 emot.
-1. inför höstterminen det kalen-
+1\. inför höstterminen det kalen-
 derår barnet fyller fyra år om barnet
 har genomgått språkbedömningen
 enligt 12 c § första stycket och
-2. inför höstterminen det kalen-
+2\. inför höstterminen det kalen-
 derår barnet fyller fem år om barnet
 har genomgått språkbedömningen
 enligt 12 c § andra stycket.
@@ -4548,14 +4548,14 @@ avse bara den del av verksam- avse bara den del av verksam-
 heten som överstiger 15 timmar heten som överstiger 25 timmar
 i veckan.             i veckan.
 
-1. Denna lag träder i kraft den 1 januari 2029.
-2. Bestämmelserna i 8 kap. 10 a och b § § ska tillämpas från den
+1\. Denna lag träder i kraft den 1 januari 2029.
+2\. Bestämmelserna i 8 kap. 10 a och b § § ska tillämpas från den
 1 juli 2029.
-3. Bestämmelserna i 8 kap. 4, 8, 8 a, 16 och 20 §§ ska tillämpas
+3\. Bestämmelserna i 8 kap. 4, 8, 8 a, 16 och 20 §§ ska tillämpas
 från den 1 juli 2030.
-4. Bestämmelserna i 8 kap. 8 b, 12 a, 12 c och 12 d §§ ska
+4\. Bestämmelserna i 8 kap. 8 b, 12 a, 12 c och 12 d §§ ska
 tillämpas från den 1 juli 2033.
-5. Bestämmelserna i 8 kap. 9 a, 12, 14 a och 14 c §§ ska tillämpas
+5\. Bestämmelserna i 8 kap. 9 a, 12, 14 a och 14 c §§ ska tillämpas
 från den 1 juli 2034.
 
 46
@@ -4664,13 +4664,13 @@ rialet i 7 § och om dess användning.
 Statens skolinspektion får efter ansökan besluta att en huvudman
 får anordna delar av undervisningen på engelska för andra elever än
 sådana som avses i 14 §, om
-1. undervisningens innehåll och utformning säkerställer att ele-
+1\. undervisningens innehåll och utformning säkerställer att ele-
 verna får tillräckliga kunskaper i svenska för att uppfylla kriterierna
 för bedömning av kunskaper i de ämnen som anges i 2 § och betygs-
 kriterierna i samtliga ämnen,
-2. de lärare som undervisar på engelska uppfyller kraven enligt
+2\. de lärare som undervisar på engelska uppfyller kraven enligt
 2 kap. 13 § eller 17 § första stycket 1 skollagen (2010:800), och
-3. utbildningen håller god kvalitet.
+3\. utbildningen håller god kvalitet.
 Beslutet ska avse en viss skolenhet. Beslutet får återkallas om
 villkoren enligt första stycket inte längre är uppfyllda.
 Enligt 6 §  språklagen
@@ -4678,12 +4678,12 @@ Enligt 6 §  språklagen
 särskilt ansvar för att svenskan
 används och utvecklas.
 
-1. Denna förordning träder i kraft den 1 januari 2029.
-2. Bestämmelserna i 7 kap. 2–3 §§ ska börja tillämpas från den
+1\. Denna förordning träder i kraft den 1 januari 2029.
+2\. Bestämmelserna i 7 kap. 2–3 §§ ska börja tillämpas från den
 1 januari 2030.
-3. Bestämmelsen i 7 kap. 5 och 6 § ska tillämpas första gången
+3\. Bestämmelsen i 7 kap. 5 och 6 § ska tillämpas första gången
 från den 1 juli 2029.
-4. Bestämmelserna i 7 kap. 4, 7 och 8 §§ ska börja tillämpas första
+4\. Bestämmelserna i 7 kap. 4, 7 och 8 §§ ska börja tillämpas första
 gången från den 1 januari 2033.
 
 1 Senaste lydelse 2022:280.
@@ -4772,11 +4772,11 @@ förskoleenheten.
 kalenderår (bidragsår) i sänder.
 
 10 § Statsbidraget får inte lämnas till en huvudman som
-1. är i likvidation eller försatt i konkurs,
-2. har skatte- eller avgiftsskulder eller andra skulder som har över-
+1\. är i likvidation eller försatt i konkurs,
+2\. har skatte- eller avgiftsskulder eller andra skulder som har över-
 lämnats till Kronofogdemyndigheten och som vid indrivning hand-
 läggs i allmänt mål, eller
-3. har en skuld som inte betalats i rätt tid och som avser återkrav
+3\. har en skuld som inte betalats i rätt tid och som avser återkrav
 
 av bidraget som har lämnats av Statens skolverk.
 
@@ -4859,14 +4859,14 @@ leken på det.
 
 19 § Mottagaren av statsbidrag enligt denna förordning är återbetal-
 ningsskyldig, om
-1. bidraget har lämnats på felaktiga grunder eller med för högt
+1\. bidraget har lämnats på felaktiga grunder eller med för högt
 belopp,
-2. bidraget helt eller delvis inte har utnyttjats eller inte har an-
+2\. bidraget helt eller delvis inte har utnyttjats eller inte har an-
 vänts för det ändamål det har lämnats för,
-3. mottagaren inte har medverkat i den uppföljning och utvärde-
+3\. mottagaren inte har medverkat i den uppföljning och utvärde-
 ring eller lämnat sådana uppgifter som anges i 17 §, eller
 
-4. mottagaren inte har följt villkor som framgår av beslutet om
+4\. mottagaren inte har följt villkor som framgår av beslutet om
 bidrag.
 
 53
@@ -4916,7 +4916,7 @@ samt hur utredningsarbetet bedrivits.
 2.1   Utredningens uppdrag
 
 Regeringen beslutade om utredningens direktiv den 21 november
-20241. Enligt direktivet ska utredningen överväga och föreslå hur det
+20241\. Enligt direktivet ska utredningen överväga och föreslå hur det
 kan införas en obligatorisk så kallad språkförskola för vissa barn som
 behöver en bättre språkutveckling i svenska. Syftet är att barn som
 inte får tillräckligt stöd i sin språkutveckling i svenska i sin hemmiljö
@@ -5714,7 +5714,7 @@ barngrupperna.
 förväntas vara tillfällig
 
 Enligt Skolverket var knappt 485 000 barn inskrivna i förskolan hösten
-2024. Det är en minskning med cirka 16 400 barn, eller 3,3 procent,
+2024\. Det är en minskning med cirka 16 400 barn, eller 3,3 procent,
 jämfört med hösten 2023. Det främsta skälet till minskningen var
 mindre barnkullar, framför allt en kraftig nedgång av antalet ett- och
 tvååringar.1
@@ -8418,11 +8418,11 @@ der kronor, och för 2026 är bidragsramen nästan 2,6 miljarder kronor.
 Från och med 2027 beräknas anslaget förstärkas med 300 miljoner
 kronor per år under 2027 och 2028.75 Bidraget får användas för kost-
 nader för att
-1. sträva efter att barngrupperna har en storlek som stämmer över-
+1\. sträva efter att barngrupperna har en storlek som stämmer över-
 ens med Skolverks riktmärke
 
-2. bibehålla eller rekrytera personal
-3. kompetensutveckling för förskollärare och annan personal.
+2\. bibehålla eller rekrytera personal
+3\. kompetensutveckling för förskollärare och annan personal.
 
 Fördelningen av bidraget har förändrats över tid. Tidigare fördelades
 bidragen till kommunerna med en 5-procentig socioekonomisk vikt-
@@ -9195,7 +9195,7 @@ grupp med barn 1–3 år grupp med barn 4–5 år förskolor förskolor
 2024 15,3  12,6       16,2     15,6   14,3
 ```
 
-* Uppgift saknas.
+\* Uppgift saknas.
 Källa: Skolverket.
 
 Statistiken visar att barngrupperna i genomsnitt ofta är betydligt större
@@ -12593,7 +12593,7 @@ Utredningen har även talat med förskolans storstadsnätverk, där
 Stockholm, Göteborg och Malmö ingår.
 Vid samråden framkom att vissa kommuner arbetade med upp-
 sökande verksamhet även innan skyldigheten att göra det infördes
-2023. Men regleringen har ändå i vissa fall inneburit en ambitions-
+2023\. Men regleringen har ändå i vissa fall inneburit en ambitions-
 höjning.
 I vissa kommuner har utbildningsförvaltningen ansvar för uppsö-
 kande verksamhet och träffar samtliga familjer med barn i förskole-
@@ -12699,9 +12699,9 @@ Enligt skollagen 8 kap. 14 a § ska barn erbjudas förskola av hem-
 kommunen, även utan att något önskemål om förskola har anmälts
 av barnets vårdnadshavare, om
 
-1. barnet är fött utomlands och vistas i Sverige sedan högst fem år,
+1\. barnet är fött utomlands och vistas i Sverige sedan högst fem år,
 eller
-2. barnets vårdnadshavare som är bosatta i Sverige är födda utom-
+2\. barnets vårdnadshavare som är bosatta i Sverige är födda utom-
 lands och vistas i Sverige sedan högst fem år.
 
 Av bestämmelsen framgår att kommunen är skyldig att erbjuda en
@@ -13991,16 +13991,16 @@ intresse av att uppnå det eftersträvade syftet. Om denna avvägning
 framstår som rimlig anses åtgärden vara proportionerlig.
 I rättspraxis har det utvecklats en tredelad prövningsmodell för
 proportionalitet:
-1. Ändamålsenlighet – Prövningen gäller om den aktuella begräns-
+1\. Ändamålsenlighet – Prövningen gäller om den aktuella begräns-
 ningen är ägnad att tillgodose det syfte som motiverar åtgärden.
 Det betyder att begränsningen måste vara proportionerlig i för-
 hållandet till syftet bakom regleringen.
 
-2. Nödvändighet – I detta steg prövas om det finns andra, mindre
+2\. Nödvändighet – I detta steg prövas om det finns andra, mindre
 ingripande åtgärder som kan uppnå samma syfte. Om det finns
 ett sådant alternativ är den aktuella begränsningen inte nödvändig.
 
-3. Proportionalitet i strikt mening – Slutligen görs en avvägning mellan
+3\. Proportionalitet i strikt mening – Slutligen görs en avvägning mellan
 den nytta som begränsningen medför för det allmänna och den
 skada eller olägenhet som den innebär för den enskilde. Den för-
 del som det allmänna vinner måste stå i proportion till den skada
@@ -14052,9 +14052,9 @@ friheten är uppfyllda enligt 2 kap. 20–20 §§ RF, det vill säga om det
 skulle vara en grundlagsenlig begränsning. För att bedöma detta krävs
 att:
 
-1. ändamålet med en obligatorisk förskola för vissa barn är godtag-
+1\. ändamålet med en obligatorisk förskola för vissa barn är godtag-
 bart i ett demokratiskt samhälle, och
-2. regleringen är proportionerlig i förhållande till ändamålsenlighet,
+2\. regleringen är proportionerlig i förhållande till ändamålsenlighet,
 nödvändighet och proportionalitet i strikt mening.
 
 4 RÅ 1981 2:14.
@@ -14426,17 +14426,17 @@ mänskliga rättigheterna och de grundläggande friheterna, artikel 8, Karnov ko
 
 SOU 2026:37             Rättslig analys av en obligatorisk förskola för vissa barn
 
-1. Intrånget måste ha stöd i lag. Lagen måste uppfylla vissa mini-
+1\. Intrånget måste ha stöd i lag. Lagen måste uppfylla vissa mini-
 mikrav på kvalitet och tydlighet. En rättighetsinskränkande tolk-
 
 ning av lagen ska kunna förutses och lagen ska vara allmänt till-
 gänglig.
-2. Intrånget måste ha ett av de legitima syften som anges i artikeln.
+2\. Intrånget måste ha ett av de legitima syften som anges i artikeln.
 Europadomstolen har dock haft en förhållandevis bred tolkning
 av vad som kan anses nödvändigt för att tillgodose ett i och för
 sig legitimt syfte.
 
-3. Intrånget måste vara nödvändigt för att tillgodose detta syfte. För
+3\. Intrånget måste vara nödvändigt för att tillgodose detta syfte. För
 att ett rättighetsintrång ska bedömas nödvändigt krävs att det svarar
 mot ett ”mycket angeläget socialt behov” (a pressing social need)
 och det måste stå i rimlig proportion till det syfte som ska uppnås.
@@ -14972,9 +14972,9 @@ regleringen identifierar en målgrupp som skulle gynnas av att delta
 i en sådan försöksverksamhet.
 Det innebär att målgruppen är
 
-1. barn födda utomlands och som har vistats i Sverige sedan högst
+1\. barn födda utomlands och som har vistats i Sverige sedan högst
 fem år, eller
-2. barn vars vårdnadshavare är bosatta i Sverige men är födda utom-
+2\. barn vars vårdnadshavare är bosatta i Sverige men är födda utom-
 lands och har vistats i Sverige i högst fem år.
 
 Erbjudandet ska omfatta de barn inom målgruppen som fyller fyra år
@@ -15459,7 +15459,7 @@ ningsgraden.8 Enbart information om rätten till allmän förskola och
 förskolans undervisning, utan ett erbjudande om en reserverad plats,
 hade däremot ingen signifikant effekt. Andelen barn som skrevs in
 efter ett erbjudande om plats ökade med 17 procent under hösten
-2023. Fortfarande var det dock nästan sju av tio som fick ett platser-
+2023\. Fortfarande var det dock nästan sju av tio som fick ett platser-
 bjudande som inte började i förskolan. Kommunerna menar också
 att ökningen av antalet barn som skrevs in var som störst i samband
 med att den nya regleringen trädde i kraft i juli 2023. Efter det har
@@ -15872,10 +15872,10 @@ Förslag
 Hemkommunen ansvarar inte för att ett barn genomgår en språk-
 
 bedömning i svenska om vårdnadshavaren begär det och
-1. barnet har ett nationellt minoritetsspråk som modersmål,
+1\. barnet har ett nationellt minoritetsspråk som modersmål,
 eller
 
-2. om det med hänsyn till barnets levnadsförhållanden eller situa-
+2\. om det med hänsyn till barnets levnadsförhållanden eller situa-
 tion i övrigt är uppenbart obehövligt.
 
 Utredningen föreslår att hemkommunen ska ansvara för att barn
@@ -16277,9 +16277,9 @@ Hemkommunen ansvarar även för att barn genomgår en språk-
 bedömning under höstterminen det kalenderår barnet fyller fyra år
 om.
 
-1. barnet inte har genomgått en språkbedömning vid tre års ålder,
+1\. barnet inte har genomgått en språkbedömning vid tre års ålder,
 eller
-2. barnet inte har en plats vid en förskoleenhet, och språkbedöm-
+2\. barnet inte har en plats vid en förskoleenhet, och språkbedöm-
 ningen som gjordes när barnet var tre år visade att barnet hade
 behov av språkutvecklande stöd.
 
@@ -16430,7 +16430,7 @@ lämnas första gången för det bidragsår som inleds den 1 juli 2029.
 Utredningen ska redovisa sitt betänkande senast den 11 juni 2026.
 Med hänsyn till tid för sedvanlig remissbehandling och beredning bör
 en proposition kunna överlämnas till riksdagen hösten 2027 eller våren
-2028. Riksdagsbehandling kan då ske tidigast våren 2028. Förslagen
+2028\. Riksdagsbehandling kan då ske tidigast våren 2028. Förslagen
 bör därefter tidigast träda i kraft den 1 januari 2029.
 
 14.2  Bestämmelser som ska börja tillämpas
@@ -16534,7 +16534,7 @@ serna inom denna har utvärderats. Försöksverksamheten gäller i två
 läsår från höstterminen 2029. För att Skolverket ska hinna utvärdera
 insatserna och implementera de språkstärkande insatser som varit
 framgångsrika bör bestämmelserna inte tillämpas förrän den 1 juli
-2034. Detta gäller både bestämmelserna om rätten till språkstärkande
+2034\. Detta gäller både bestämmelserna om rätten till språkstärkande
 stöd och bestämmelserna om tilldelning av plats vid en förskola för
 att tillgodose den rätten.
 
@@ -16825,7 +16825,7 @@ Vidare föreslås att regeringen ska tillsätta en statlig utredning.
 Utredningens uppdrag ska vara att utreda och föreslå en långsiktig
 strategi för kompetensförsörjning inom förskolan. Ett av målen ska
 vara att införa ett krav på minst en förskollärare per barngrupp till
-2033. En sådan utredning innebär vissa direkta kostnader för staten
+2033\. En sådan utredning innebär vissa direkta kostnader för staten
 och en uppskattad kostnad för ett brett uppdrag med lång tidshori-
 sont (2–3 år) är cirka 15 miljoner kronor. Finansieringen bör vara på
 Regeringskansliets förvaltningsanslag.
@@ -19604,9 +19604,9 @@ med barngrupper och personaltäthet 12 006 mnkr
 Språkutvecklande stöd i svenska i förskolan
 Språkutvecklande stöd i förskolan    220 mnkr
 
-Kostnad om samtliga förslag genomförs samtidigt*
+Kostnad om samtliga förslag genomförs samtidigt\*
 Totalt                             12 129 mnkr
-* Kostnaden för språkutvecklande stöd i svenska i förskolan omfattas inte i totalsumman, se vidare i
+\* Kostnaden för språkutvecklande stöd i svenska i förskolan omfattas inte i totalsumman, se vidare i
 avsnitt 15.10.2.
 
 396
@@ -20405,8 +20405,8 @@ SOU 2026:37                            Författningskommentar
 
 Hemkommunen ansvarar för att utbildning i förskola kommer till stånd
 för alla barn i kommunen som ska erbjudas förskola och
-1. vars vårdnadshavare önskar det, eller
-2. som har tilldelats en plats vid en förskoleenhet enligt 14 a §.
+1\. vars vårdnadshavare önskar det, eller
+2\. som har tilldelats en plats vid en förskoleenhet enligt 14 a §.
 Hemkommunen får fullgöra sina skyldigheter genom att erbjuda barnet
 motsvarande utbildning i fristående förskola.
 Om det finns särskilda skäl, får hemkommunen komma överens med
@@ -20513,8 +20513,8 @@ bedömningen är att avgöra om barnet i förhållande till sin ålder har behov
 av språkutvecklande stöd i svenska.
 Hemkommunen ansvarar även för att barn genomgår en språkbedömning
 under höstterminen det kalenderår barnet fyller fyra år om
-1. barnet inte har genomgått en språkbedömning enligt första stycket, eller
-2. barnet inte har en plats vid en förskoleenhet, och språkbedömningen
+1\. barnet inte har genomgått en språkbedömning enligt första stycket, eller
+2\. barnet inte har en plats vid en förskoleenhet, och språkbedömningen
 enligt första stycket visade att barnet hade behov av språkutvecklande stöd.
 Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om språkbedömningen.
@@ -20590,8 +20590,8 @@ SOU 2026:37                            Författningskommentar
 
 Hemkommunen ansvarar inte för att ett barn genomgår en språkbedömning
 i svenska enligt 12 c § om barnets vårdnadshavare begär det och
-1. barnet har ett nationellt minoritetsspråk som modersmål, eller
-2. om det med hänsyn till barnets levnadsförhållanden eller situation
+1\. barnet har ett nationellt minoritetsspråk som modersmål, eller
+2\. om det med hänsyn till barnets levnadsförhållanden eller situation
 i övrigt är uppenbart obehövligt.
 Paragrafen, som är ny, reglerar i vilka fall hemkommunen inte ansva-
 rar för att barn genomgår en språkbedömning enligt 12 c §.
@@ -20683,9 +20683,9 @@ SOU 2026:37                            Författningskommentar
 14 c §
 
 Hemkommunen ska tilldela barnet en plats vid en förskoleenhet enligt 14 a §
-1. inför höstterminen det kalenderår barnet fyller fyra år om barnet har
+1\. inför höstterminen det kalenderår barnet fyller fyra år om barnet har
 genomgått språkbedömningen enligt 12 c § första stycket, och
-2. inför höstterminen det kalenderår barnet fyller fem år om barnet har
+2\. inför höstterminen det kalenderår barnet fyller fem år om barnet har
 genomgått språkbedömningen enligt 12 c § andra stycket. Vårdnadshavarna
 ska informeras om den tilldelade platsen så snart som möjligt efter språkbe-
 dömningen enligt 12 c §.
@@ -20792,15 +20792,15 @@ från 15 timmar till 25 timmar.
 Övervägandena finns i avsnitt 12.4.
 
 Ikraftträdande- och övergångsbestämmelser
-1. Denna lag träder i kraft den 1 januari 2029.
-2. Bestämmelserna i 8 kap. 10 a och b §§ ska tillämpas från den
+1\. Denna lag träder i kraft den 1 januari 2029.
+2\. Bestämmelserna i 8 kap. 10 a och b §§ ska tillämpas från den
 1 juli 2029.
-3. Bestämmelserna i kap. 4, 8, 8 a, 16 och 20 §§ ska tillämpas
+3\. Bestämmelserna i kap. 4, 8, 8 a, 16 och 20 §§ ska tillämpas
 
 från den 1 juli 2030.
-4. Bestämmelserna i 8 kap. 12 a, 12 c och 12 d §§ ska tillämpas
+4\. Bestämmelserna i 8 kap. 12 a, 12 c och 12 d §§ ska tillämpas
 från den 1 juli 2033.
-5. Bestämmelserna i 8 kap. 9 a, 12, 14 a och c §§ ska tillämpas
+5\. Bestämmelserna i 8 kap. 9 a, 12, 14 a och c §§ ska tillämpas
 från den 1 juli 2034.
 
 I punkt 1 anges att lag träder i kraft den 1 januari 2029.
@@ -21187,7 +21187,7 @@ tester, andra bedömningsmodeller och språkutvecklande arbets-
 
 sätt. En vägledning från Språkrådet.
 Sveriges kommuner och Regioner, SKR (2019). Öppna jämförelser
-2019. Förskolans kompetensförsörjning, åtgärder för att möta
+2019\. Förskolans kompetensförsörjning, åtgärder för att möta
 rekryteringsbehoven.
 Sveriges Kommuner och Regioner SKR, (2022). Öppna jämförelser,
 Förskola 2022. Förskolans kompensatoriska roll.
@@ -21211,7 +21211,7 @@ OECD. (2015). Starting strong IV: Monitoring quality in early child-
 hood education and care. OECD Publishing.
 OECD (2020). Quality Early Childhood Education and Care for
 Children Under Age 3: Results from the Starting Strong Survey
-2018. Paris: OECD Publishing.
+2018\. Paris: OECD Publishing.
 OECD (2025). Starting Strong: Reducing Inequalities by Investing
 in Early Childhood Education and Care.
 
@@ -21348,7 +21348,7 @@ Educational Research, 66 (3), s. 533–548.
 Nasiopoulou, P., Mellgren, E., Sheridan, S. och Williams. P. (2023).
 Conditions for Children’s Language and Literacy Learning in
 Swedish Preschools: Exploring Quality Variations with ECERS-
-3. Vetenskalig artikel publicerad i Early Childhood Education
+3\. Vetenskalig artikel publicerad i Early Childhood Education
 Journal 51:1305–1316.
 
 Paananen, M. (2019). ”Fluctuating child–staff ratio: governing by
@@ -21646,7 +21646,7 @@ sonliga utveckling för att de utifrån sina egna förutsättningar ska kunna
 utvecklas så långt som möjligt enligt utbildningens mål. Svenska
 språkets ställning i förskolan har förstärkts i den reviderade läro-
 planen för förskolan (SKOLFS 2018:50) som trädde i kraft den 1 juli
-2019. Enligt denna läroplan (Lpfö 18) ska förskolan lägga stor vikt
+2019\. Enligt denna läroplan (Lpfö 18) ska förskolan lägga stor vikt
 vid att stimulera barnens språkutveckling i svenska, genom att upp-
 muntra och ta tillvara deras nyfikenhet och intresse för att kommu-
 nicera på olika sätt. Barnen ska erbjudas en stimulerande miljö där
@@ -22966,7 +22966,7 @@ en utökad allmän förskola. Ramboll har därutöver gjort en uppskatt-
 ning av de offentligfinansiella effekterna för förslaget om språkutveck-
 lande stöd i svenska i förskolan.
 
-1. Nollalternativet och gemensamma
+1\. Nollalternativet och gemensamma
 utgångspunkter för beräkningarna
 
 Antalet inskrivna barn i förskolan har minskat sedan 2019, se Figur 1.
@@ -23193,7 +23193,7 @@ Efter reglering         2,5
 2,5   2
 1-5 år     1-5 år
 12 barn    12 barn
-~10personal
+\~10personal
 1-5 år     1-5 år
 12 barn    9 barn
 Förskoleenheter kan ansöka om undantag från reglerna om begrän-
@@ -23284,17 +23284,17 @@ beräkningarna visas i tabell 1.
 
 Tabell 1 Känslighetsanalys offentligfinansiella
 effekter av reglering av gruppstorlekar
-Parameter       Lågt Huvudscenario Högt Kostnader (mnkr)*
-Justering av personal** 25 % 50 % 100 % 2 645–4 239
-Justering av lokalkostnader*** 25 % 50 % 75 % 2 667–3 578
+Parameter       Lågt Huvudscenario Högt Kostnader (mnkr)\*
+Justering av personal\*\* 25 % 50 % 100 % 2 645–4 239
+Justering av lokalkostnader\*\*\* 25 % 50 % 75 % 2 667–3 578
 Undantag för gruppstorlekar 10 % 5 % 0 % 2 982–3 253
 Omfördelning inom kommun 70 % 50 % 33 % 2 741–3 669
 Totalt (mnkr)          3 122      1 725–5 500
-* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
+\* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
 Andra parametrar hålls konstanta i förhållande till huvudscenariot. Den totala kostnaden visar den
 offentligfinansiella effekten vid lågt, respektive högt, scenario för samtliga parametrar.
-** Motsvarar andel av förändringstakten för antalet inskrivna barn.
-*** Motsvarar nedskrivning av totala beräknade lokalkostnader.
+\*\* Motsvarar andel av förändringstakten för antalet inskrivna barn.
+\*\*\* Motsvarar nedskrivning av totala beräknade lokalkostnader.
 
 3 Förslaget om en reglerad personaltäthet
 Förslaget om reglerad personaltäthet beräknas i huvudberäkningarna
@@ -23419,13 +23419,13 @@ metrar i beräkningarna visas i tabell 2.
 
 Tabell 2 Känslighetsanalys offentligfinansiella
 effekter av reglering av personaltäthet
-Parameter         Lågt Huvudscenario Högt Kostnader (mnkr)*
-Justering av personal** 25 % 50 % 100 % 7 377–11 647
-Omfördelning inom kommun*** 70 % 50 % 33 % 6 516–10 391
+Parameter         Lågt Huvudscenario Högt Kostnader (mnkr)\*
+Justering av personal\*\* 25 % 50 % 100 % 7 377–11 647
+Omfördelning inom kommun\*\*\* 70 % 50 % 33 % 6 516–10 391
 Totalt (mnkr)           8 611      5 424–13 539
-* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
+\* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
 Andra parametrar hålls konstanta i förhållande till huvudscenariot.
-** Motsvarar andel av förändringstakten för antalet inskrivna barn.
+\*\* Motsvarar andel av förändringstakten för antalet inskrivna barn.
 
 Ett alternativt sätt att beräkna personaltäthet är att utgå från ett ge-
 nomsnitt per förskoleenhet baserat på barnens åldersgrupper (ett till
@@ -23775,11 +23775,11 @@ Tabell 3 Känslighetsanalys offentligfinansiella effekter
 av utökad rätt till avgiftsfri allmän förskola
 
 Parameter          Lågt Huvud- Högt Kostnader
-scenario     (mnkr)*
+scenario     (mnkr)\*
 Hur ofta är äldre syskon
 3–5 år äldre       65 % 80 %  80 % 3 378–3 437
 Genomsnittlig andel av vårdnads-
-havare som betalar maxtaxa** 90 % 100 % 100 % 3 252–3 437
+havare som betalar maxtaxa\*\* 90 % 100 % 100 % 3 252–3 437
 Kostnad för en extra timme per
 barn och år (SEK)  2 893 3 726 4 770 3 190–3 745
 Grundbelopp (25 timmar per
@@ -23792,9 +23792,9 @@ vistelsetid        65 % 85 %  100 % 3 178–3 631
 Ökad inskrivningsgrad
 (procentenheter)     1    2     2  3 193–3 437
 Totalt (mnkr)           3 437      2 543–4 085
-* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
+\* Kostnaderna i tabellen motsvarar den offentligfinansiella effekten vid lågt, respektive högt, scenario.
 Andra parametrar hålls konstanta i förhållande till huvudscenariot.
-** Lågt värde motsvarar ersättning till fristående förskolor i Botkyrka kommun och högt i Göteborgs
+\*\* Lågt värde motsvarar ersättning till fristående förskolor i Botkyrka kommun och högt i Göteborgs
 stad. Botkyrka kommun. (2024). Beslut om bidragsbelopp 2024 till förskolor och grundskolor,
 https://www.botkyrka.se/download/18.216f23a018c6320f584a9c7/1702650882544/F%C3%B6rskola%2
 0%26%20grundskola%20bidragsbelopp%202024%20Botkyrka%20-
@@ -23810,7 +23810,7 @@ a 499-2479c2a44134?binary=true.
 
 Bilaga 4                                   SOU 2026:37
 
-6. Förslaget om ett språkutvecklande
+6\. Förslaget om ett språkutvecklande
 
 stöd i svenska i förskolan
 Om en obligatorisk språkutvecklande förskola för vissa barn införs
@@ -23884,7 +23884,7 @@ Utifrån dessa antaganden uppskattas att omkring 9 300 barn i
 lande förskola år 2030. Av dessa beräknas cirka 500 barn inte vara
 inskrivna i någon förskoleverksamhet.
 
-7. Sammantagna offentligfinansiella
+7\. Sammantagna offentligfinansiella
 
 effekter av förslagen i bilaga
 Den samlade offentligfinansiella effekten uppskattas till cirka 12,1 mil-
@@ -23963,9 +23963,9 @@ reflekteras i den finansiering som föreslås (se kapitel 15.10.2).
 
 Tabell 4 Offentligfinansiella effekter för utredningens förslag
 Personal- Lokal- Trans- Total Total Antal till-
-kostnad kostnad fererings- kostnad* offentlig- kommande
+kostnad kostnad fererings- kostnad\* offentlig- kommande
 (mnkr) (mnkr) kostnad (mnkr) finansiell personal
-effekt**
+effekt\*\*
 (mnkr)
 Reglering av gruppstorlek 2 105 873 – 2 978 3 122 2 703
 Reglering av personaltäthet 8 415 – – 8 415 8 611 13 210
@@ -23977,8 +23977,8 @@ Införande av gruppstorlek,
 personaltäthet och utökad allmän
 förskola samtidigt 8 877 1 051 1 850 11 778 12 006 13 845
 Samtliga förslag tillsammans 8 974 1 051 1 850 11 875 12 103 13 845
-* Summan av kostnader för enskilda och kommunala huvudmän.
-** Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
+\* Summan av kostnader för enskilda och kommunala huvudmän.
+\*\* Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
 kostnader. Beräknad genom ett schablonpåslag på de totala kostnaderna.
 De offentligfinansiella effekterna av alternativa utformningar av utred-
 ningens förslag redovisas i tabell 5. Tabellen visar den sammantagna
@@ -24014,25 +24014,25 @@ i förskolan för barn mellan tre och fem år.
 
 Tabell 5 Offentligfinansiella effekter för alternativ till utredningens förslag
 Personal- Lokalkostnad Transferer- Total Total Antal till-
-kostnad (mnkr) ingskostnad kostnad* offentlig- kommande
+kostnad (mnkr) ingskostnad kostnad\* offentlig- kommande
 (mnkr)           (mnkr) finansiell personal
-effekt**
+effekt\*\*
 (mnkr)
 Alternativ reglering av
-gruppstorlek*** 8 876 467 1 850 11 192 11 383 13 844
+gruppstorlek\*\*\* 8 876 467 1 850 11 192 11 383 13 844
 Alternativ reglering av
-personaltäthet**** 5 469 1 051 1 850 8 370 8 423 8 263
+personaltäthet\*\*\*\* 5 469 1 051 1 850 8 370 8 423 8 263
 Alternativ utökad
-allmän förskola***** 8 756 1 027 925 10 707 10 942 13 714
-* Summan av kostnader för enskilda och kommunala huvudmän.
-** Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
+allmän förskola\*\*\*\*\* 8 756 1 027 925 10 707 10 942 13 714
+\* Summan av kostnader för enskilda och kommunala huvudmän.
+\*\* Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
 kostnader. Beräknad genom ett schablonpåslag på de totala kostnaderna.
-*** 15 barn per grupp för småbarns- eller blandade grupper och 18 barn per grupp för storbarns-
+\*\*\* 15 barn per grupp för småbarns- eller blandade grupper och 18 barn per grupp för storbarns-
 grupper samt utredningens ordinarie förslag av reglering av personaltäthet och utökad allmän förskola.
-**** 4,5 barn per personal för barn i åldern ett till tre år och fem barn per personal för barn i åldern
+\*\*\*\* 4,5 barn per personal för barn i åldern ett till tre år och fem barn per personal för barn i åldern
 fyra till fem år samt utredningens ordinarie förslag av reglering av gruppstorlekar och utökad allmän
 förskola.
-***** 20 timmar avgiftsfri allmän förskola samt utredningens ordinarie förslag av reglering av
+\*\*\*\*\* 20 timmar avgiftsfri allmän förskola samt utredningens ordinarie förslag av reglering av
 gruppstorlekar och personaltäthet.
 
 500
@@ -24043,65 +24043,65 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
+1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
 utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
 på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
+2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
+3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
 A.                     – förslag för att motverka
-4. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
+4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
 ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
+5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
 m.m. Fi.               kommunalskattesatser. Fi.
-6. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
+6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
 hälso- och sjukvården. Styrning med Ju.
 tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
 S.                     i samverkan. Nationella åtgärder för
-7. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
+7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
 av folkhälsopolitiken. vid brist. S.
 Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
 genom hälsoekonomiska analyser. mot barntolkning. A.
 Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
 politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
 unga. S.
-26. Digitala verktyg inom bolagsrätten.
-9. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
+26\. Digitala verktyg inom bolagsrätten.
+9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
+10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
 brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
+11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
 verksamhet och tillgångar till Tredje rapportering. Ju.
 och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
+12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
 verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
 AP-fonden. Fi.         för pälsproduktion. LI.
-13. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
+13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
 med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
 rad reglering av handel med ädelmetall-
-32. Att säga ja! Kommunernas förutsätt-
+32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
 ningar att ta emot stora företagsetable-
-15. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
 Konsekvenser för samer av svensk
-33. Vägen mot utfasning. Styrmedel för
+33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
 ett fossilfritt samhälle. KN.
-16. Försvarsexportinitiativ. För gemensam
+16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
 <!-- sida 563 -->
 
-34. Nya nätbrott och andra åtgärder för
+34\. Nya nätbrott och andra åtgärder för
 genomförandet av direktivet om
 bekämpning av våld mot kvinnor och
 våld i nära relationer. Volym 1 & 2. Ju.
-35. En åldersgräns för barns tillgång
+35\. En åldersgräns för barns tillgång
 till sociala medier. S.
-36. Bättre förutsättningar att inkludera
+36\. Bättre förutsättningar att inkludera
 personer med nedsatt beslutsförmåga
 i medicinsk forskning. S.
-37. Förutsättningar för en likvärdig och
+37\. Förutsättningar för en likvärdig och
 språkutvecklande förskola. U.
 
 <!-- sida 564 -->
@@ -24294,7 +24294,7 @@ Förvaltningen bedömer att en permanent utökning till 53 barn kan godkännas.
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 568 -->
@@ -24302,7 +24302,7 @@ verksamheten,
 KUNGSBACKA  KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 
 övrigt bedöms lämplig.
@@ -24330,7 +24330,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | 2026-04-15 12:53
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -24377,7 +24377,7 @@ når från utsidan
 
 390
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -24408,7 +24408,7 @@ Ange kort beskrivning av skälet till utökningen
 Vi önskar att ha en möjlighet att ta in ytterligare 2 barn under vårterminerna för att kunna möta
 efterfrågan av plats för syskon samt utifrån behovet i vår kö.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -24416,15 +24416,15 @@ Ange yta i kvadratmeter för respektive rum samt namnge eventuella teknikrum och
 kommer in från utsidan.
 
 Kungsbacka 6_30-SITPLAN 2025 06 26 (1).pdf (1,25 MB)
-Kungsbacka 6_30-ENTRE&#769;PLAN 2025 06 26 (1).pdf (118 KB)
+Kungsbacka 6_30-ENTRE\&#769;PLAN 2025 06 26 (1).pdf (118 KB)
 Kungsbacka 6_30-BOTTENPLAN 2025 06 26 (1).pdf (98 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
 Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
-Riskbedo&#776;mning o handlingsplan, fo&#776;ra&#776;ndringar i verksamheten -
-uto&#776;kat antal barn.pdf (513 KB)
+Riskbedo\&#776;mning o handlingsplan, fo\&#776;ra\&#776;ndringar i verksamheten -
+uto\&#776;kat antal barn.pdf (513 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 

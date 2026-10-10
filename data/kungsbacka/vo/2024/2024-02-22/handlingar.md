@@ -246,10 +246,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -401,10 +401,10 @@ Nämndens årsredovisning 2023
 
 Påverkningsbart schema infördes i november 2022 i Åsa/Frillesås hemtjänst som en pilotdel av målaktiviteten.
 Schemaläggningssättet har utvärderats utifrån enkäter och fokusgrupper med medarbetare samt nyckeltal i juni
-2023. Kontinuiteten har försämrats något för enheten och budgeten är inte i balans men upplevelsen av ökad
+2023\. Kontinuiteten har försämrats något för enheten och budgeten är inte i balans men upplevelsen av ökad
 påverkan och delaktighet av medarbetarna har förbättrats med stora marginaler från tidigare fasta scheman.
 Utifrån utvärderingen beslutade Förvaltningsledningsgruppen att Åsa/Frillesås testperiod förlängs till februari
-2024. Tillämpningsanvisningar ska följas och de behöver arbeta med sin kontinuitet samt medarbetarnas
+2024\. Tillämpningsanvisningar ska följas och de behöver arbeta med sin kontinuitet samt medarbetarnas
 förväntningar på vad ett påverkningsbart schema är dvs att det inte är ett önskeschema. Detta gäller även
 Demensteamet som även har påverkningsbart schema.
 
@@ -466,11 +466,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av nämndens arbete med målet
 Under 2023 har arbetet med Kungsbackamodellen fortsatt. Arbetssättet syftar till att förändra vår
 hemtjänstprocess från grunden och gå ifrån den strikta minutstyrningen vi har idag till ett tillits- och
@@ -521,12 +521,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 70%     68%     65%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 80%     88%     85%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 100 98 97
 målvärde 2030 är 70.
@@ -538,8 +538,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 11
@@ -578,8 +578,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av nämndens arbete med målet
 
 ”God och Nära Vård” är namnet på en pågående reform i hela Sverige, och
@@ -636,12 +636,12 @@ max 20.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -922,7 +922,7 @@ Antal omsorgstagare i verksamheten under 65 år 130 88 98 137
 Antal patienter i hemsjukvården  -      1 771 1 899 1 994
 
 Totalt antal omsorgstagare och patienter i
--      2 799 3 088
+\-      2 799 3 088
 verksamheten
 Fotnot: Siffror för 2023 presenteras i delårsrapport 2024
 
@@ -1171,7 +1171,7 @@ Nämndens årsredovisning 2023
 
 |  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
 | --- | --- |
-| Frisknärvaro* 56% 34,4% 41,3% 36,8% 38,9% |  |
+| Frisknärvaro\* 56% 34,4% 41,3% 36,8% 38,9% |  |
 | Frisknärvaro<br>55,4% 33,4% 40,6% 35,5% 37,6%<br>Kvinnor |  |
 | Frisknärvaro<br>65,7% 47,3% 50,4% 48,1% 48,5%<br>Män |  |
 | Korttidssjukfrån<br>4,1% 5,5% 4,8% 5,5% 5,2%<br>varo |  |
@@ -1194,7 +1194,7 @@ Nämndens årsredovisning 2023
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2023
 
-*Frisknärvaro är medarbetare som har haft färre än fem sjukdagar under en tolvmånadersperiod
+\*Frisknärvaro är medarbetare som har haft färre än fem sjukdagar under en tolvmånadersperiod
 
 26
 
@@ -1683,7 +1683,7 @@ Uppföljning av intern kontroll 2023 - Nämnden för Vård & Omsorg
 Förslag till beslut
 
 Nämnden för Vård & Omsorg godkänner uppföljningsrapport intern kontroll 2023, daterad 2024-02-
-01.
+01\.
 
 Nämnden för Vård & Omsorg förklarar paragrafen omedelbart justerad.
 
@@ -2752,8 +2752,8 @@ n
 g
 g
 S
--
--
+\-
+\-
 s
 s
 t
@@ -2814,7 +2814,7 @@ KUNGSBACKA       KOMMUN
 
 InnehållsförteckningSammanfattning ............................................................................. 4
 
-1.  Inledning .................................................................................................................... 6
+1\.  Inledning .................................................................................................................... 6
 1.1. Bakgrund .................................................................................................................... 6
 
 1.2. Syfte och revisionsfrågor ............................................................................................ 6
@@ -2823,7 +2823,7 @@ InnehållsförteckningSammanfattning ...........................................
 1.4. Metod ......................................................................................................................... 7
 1.5. Avgränsningar och ansvariga nämnder ....................................................................... 7
 
-2.  Kommunövergripande styrning och uppföljning ................................................... 8
+2\.  Kommunövergripande styrning och uppföljning ................................................... 8
 2.1. Vår bedömning ........................................................................................................... 8
 
 2.2. Ansvarsfördelning för kompetensförsörjningsfrågor .................................................... 8
@@ -2835,20 +2835,20 @@ InnehållsförteckningSammanfattning ...........................................
 2.6. Uppföljning av kompetensförsörjningsarbetet ............................................................11
 2.7. Proaktiva insatser för att rekrytera nya medarbetare finns .........................................12
 
-3.  Attraktiv arbetsgivare ..............................................................................................13
+3\.  Attraktiv arbetsgivare ..............................................................................................13
 3.1. Vår bedömning ..........................................................................................................13
 
 3.2. Det finns ingen definition av vad det innebär att vara en attraktiv arbetsgivare ..........13
 3.3. Kommunen ser över möjligheten till kombinationstjänster men det finns hinder .........14
 
-4.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
+4\.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
 4.1. Vår bedömning ..........................................................................................................16
 
 4.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................16
 4.3. Analys av rekryteringsbehov och utmaningar för verksamheten finns ........................18
 
 4.4. Det saknas kompetensutvecklingsplaner för medarbetare .........................................19
-5.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
+5\.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
 
 5.1. Vår bedömning ..........................................................................................................20
 5.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................20
@@ -2856,7 +2856,7 @@ InnehållsförteckningSammanfattning ...........................................
 5.3. Analys av rekryteringsbehov och utmaningar för verksamheten ................................23
 5.4. Kompetensutveckling för medarbetare behandlas på medarbetarsamtal ...................24
 
-6.  Samlad bedömning ..................................................................................................25
+6\.  Samlad bedömning ..................................................................................................25
 6.1. Bedömning utifrån revisionsfrågorna ..........................................................................25
 
 6.2. Slutsatser ...................................................................................................................26
@@ -2952,7 +2952,7 @@ förvaltningsgränser.
 
 <!-- sida 77 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -3017,7 +3017,7 @@ för Vård & Omsorg och nämnden för Individ & Familjeomsorg.
 
 <!-- sida 79 -->
 
-2. Kommunövergripande  styrning och uppföljning
+2\. Kommunövergripande  styrning och uppföljning
 
 2.1. Vår bedömning
 
@@ -3148,20 +3148,20 @@ Målbild kompetensförsörjning 2033 är framtagen av kommundirektörens ledning
 inte politiskt beslutad. Målbilden är en vägledning mot framtidens kompetensförsörjning och
 uttrycker i sju punkter en målbild för hur kommunen ska bedriva verksamhet år 2033.
 
-1. Vi har en rimlig personalomsättning
+1\. Vi har en rimlig personalomsättning
 
-2. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
+2\. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
 
-3. Våra medarbetare arbetar med relationer och konceptuellt tänkande
+3\. Våra medarbetare arbetar med relationer och konceptuellt tänkande
 
-4. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
+4\. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
 våra medarbetare mångfacetterade
 
-5. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
+5\. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
 
-6. Våra medarbetare arbetar heltid och i flera olika verksamheter
+6\. Våra medarbetare arbetar heltid och i flera olika verksamheter
 
-7. Vi har en tydlig arbetsgång för interna karriärvägar
+7\. Vi har en tydlig arbetsgång för interna karriärvägar
 
 10
 
@@ -3245,7 +3245,7 @@ Kungsbacka kommun deltar också på Handelshögskolan i Göteborgs arbetsmarknad
 
 <!-- sida 84 -->
 
-3. Attraktiv arbetsgivare
+3\. Attraktiv arbetsgivare
 
 3.1. Vår bedömning
 
@@ -3358,7 +3358,7 @@ Familjeomsorg deltar i Kultur & Fritids kreativa mötesplats för ungdomar.
 
 <!-- sida 87 -->
 
-4. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
+4\. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
 
 områden
 
@@ -3552,7 +3552,7 @@ olika områden, exempelvis palliativ vård eller diabetes.
 
 <!-- sida 91 -->
 
-5. Kompetensförsörjning inom Individ & Familjeomsorgs
+5\. Kompetensförsörjning inom Individ & Familjeomsorgs
 
 verksamhetsområde
 
@@ -3784,7 +3784,7 @@ kompetensutveckling hos mer erfarna medarbetare begränsas.
 
 <!-- sida 96 -->
 
-6. Samlad bedömning
+6\. Samlad bedömning
 
 6.1. Bedömning utifrån revisionsfrågorna
 
@@ -3918,7 +3918,7 @@ Förmågan för kommuner att rekrytera, behålla och kompetensutveckla personal 
 för en fungerande kommunal verksamhet. Att hitta rätt kompetens anses vara välfärdens
 största utmaning. En analys från Sveriges kommuner och regioner, SKR, visar att det behöver
 anställas 410 000 personer inom region och kommun för att täcka pensioneringar fram till år
-2031. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
+2031\. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
 
 medarbetarna kan rekryteringsbehoven minska. Analysen visar vidare att behovet av anställda
 inom välfärden kan minska med en fjärdedel om alla deltidsarbetande skulle arbeta tre timmar
@@ -4116,15 +4116,15 @@ Intervjuer
 
 <!-- sida 105 -->
 
-Från: Karin Knutsson <Karin.Knutsson@se.ey.com>
+Från: Karin Knutsson \<Karin.Knutsson@se.ey.com>
 Skickat: Tuesday, September 5, 2023 4:27:36 PM
-Till: Malin Aronsson <malin.aronsson@kungsbacka.se>; Ivan Stipic <ivan.stipic@kungsbacka.se>;
-Arian Faily <arian.faily@kungsbacka.se>; Kommun <kommun@kungsbacka.se>; Lotta Gradén
-<lotta.graden@kungsbacka.se>
-Kopia: Birgitta Litsegård <birgitta.litsegard@kungsbacka.se>; Christine Lindeberg
-<christine.lindeberg@kungsbacka.se>; Stefan Friberg <stefan.friberg@kungsbacka.se>; Mikaela
-Gretzer <Mikaela.Gretzer@se.ey.com>; Linnéa Johansson <Linnea.Johansson@se.ey.com>; Anders
-Johansson <anders.johansson@kungsbacka.se>
+Till: Malin Aronsson \<malin.aronsson@kungsbacka.se>; Ivan Stipic \<ivan.stipic@kungsbacka.se>;
+Arian Faily \<arian.faily@kungsbacka.se>; Kommun \<kommun@kungsbacka.se>; Lotta Gradén
+\<lotta.graden@kungsbacka.se>
+Kopia: Birgitta Litsegård \<birgitta.litsegard@kungsbacka.se>; Christine Lindeberg
+\<christine.lindeberg@kungsbacka.se>; Stefan Friberg \<stefan.friberg@kungsbacka.se>; Mikaela
+Gretzer \<Mikaela.Gretzer@se.ey.com>; Linnéa Johansson \<Linnea.Johansson@se.ey.com>; Anders
+Johansson \<anders.johansson@kungsbacka.se>
 Ämne: Revisionens granskning av kompetensförsörjning
 
 Hej,
@@ -4166,7 +4166,7 @@ Website: http://www.ey.com
 At EY we work flexibly, so while it may suit me to email you now, I do not expect a response if it is outside your
 preferable working hours.
 
-___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 106 -->
 
@@ -4322,21 +4322,21 @@ granskningen förutsatt att dessa finns framtagna av kommunen och enkelt tillgä
 
 Arbetsmoment:
 
-1. Fastställande av projektplan
-2. Granskningen introduceras för berörda. Sakkunniga vid EY ansvarar för detta
+1\. Fastställande av projektplan
+2\. Granskningen introduceras för berörda. Sakkunniga vid EY ansvarar för detta
 
-3. Bokning av intervjuer och insamling av dokumentation
-4. Dokumentstudier – genomgång och analys av relevant dokumentation
+3\. Bokning av intervjuer och insamling av dokumentation
+4\. Dokumentstudier – genomgång och analys av relevant dokumentation
 
-5. Upprättande av intervjuguider
+5\. Upprättande av intervjuguider
 
-6. Genomförande av intervjuer
-7. Analys och rapportskrivning
+6\. Genomförande av intervjuer
+7\. Analys och rapportskrivning
 
-8. Intern kvalitetssäkring av rapporten
-9. Utkastet skickas till berörda för faktagranskning
+8\. Intern kvalitetssäkring av rapporten
+9\. Utkastet skickas till berörda för faktagranskning
 
-10. Utformning av skriftlig slutrapport
+10\. Utformning av skriftlig slutrapport
 
 Kungsbacka kommun                                       3
 Revisionsprojekt 2023
@@ -4344,11 +4344,11 @@ Revisionsprojekt 2023
 
 <!-- sida 110 -->
 
-11. Slutrapport, kortrapport och följebrev skickas till revisorerna senast tio dagar före
+11\. Slutrapport, kortrapport och följebrev skickas till revisorerna senast tio dagar före
 sammanträde
-12. Rapporten föredras för de förtroendevalda revisorerna vid ett tillfälle
+12\. Rapporten föredras för de förtroendevalda revisorerna vid ett tillfälle
 
-13. Granskningen föredras för ansvarig nämnd om kommunrevisionen önskar detta och
+13\. Granskningen föredras för ansvarig nämnd om kommunrevisionen önskar detta och
 efter särskild beställning från kommunrevisionen
 
 Projektorganisation
@@ -4405,32 +4405,32 @@ nämnds/styrelses ansvarsområde och verksamhet.
 Vi önskar ta emot följande dokument:
 
 Styrdokument och uppföljningsrapporter
-1. Verksamhetsplan 2023 för kommunstyrelsen, nämnden för Individ & Familjeomsorg samt
+1\. Verksamhetsplan 2023 för kommunstyrelsen, nämnden för Individ & Familjeomsorg samt
 
 nämnden för Vård & Omsorg.
-2. Styrdokument för kommunövergripande arbete (styrning och uppföljning) avseende
+2\. Styrdokument för kommunövergripande arbete (styrning och uppföljning) avseende
 
 kompetensförsörjning, avser kommunstyrelsen
-3. Eventuella nämndspecifika styrdokument som berör nämnden för Individ &
+3\. Eventuella nämndspecifika styrdokument som berör nämnden för Individ &
 
 Familjeomsorg samt nämnden för Vård & Omsorg arbete avseende
 kompetensförsörjning
 
-4. Kompetensförsörjningsplaner för kommunen som helhet samt för nämnden för Individ &
+4\. Kompetensförsörjningsplaner för kommunen som helhet samt för nämnden för Individ &
 Familjeomsorg samt nämnden för Vård & Omsorg (planer och/eller analyser avseende
 
 rekrytering, kompetensutveckling, personalomsättning, vikarieplanering etc.)
-5. Exempel på mallar för kompetensutvecklingsplaner för individen inom berörda
+5\. Exempel på mallar för kompetensutvecklingsplaner för individen inom berörda
 
 verksamheter, samt åtföljande rutiner för detta arbete på individnivå.
-6. Personalpolicys/riktlinjer (exempelvis policy/riktlinje för chefskap och medarbetarskap)
-7. Eventuell uppföljning och analys av kompetensförsörjning från 2022
+6\. Personalpolicys/riktlinjer (exempelvis policy/riktlinje för chefskap och medarbetarskap)
+7\. Eventuell uppföljning och analys av kompetensförsörjning från 2022
 
-8. Verksamhetsberättelse 2022 för respektive kommunstyrelsen och nämnden för Individ &
+8\. Verksamhetsberättelse 2022 för respektive kommunstyrelsen och nämnden för Individ &
 Familjeomsorg samt nämnden för Vård & Omsorg, dvs uppföljning till styrelse och
 
 nämnder där kompetensförsörjning framgår
-9. Särskild verksamhetsuppföljning för de verksamhetsområden som granskas inom
+9\. Särskild verksamhetsuppföljning för de verksamhetsområden som granskas inom
 
 kommunstyrelsen, nämnden för Individ & Familjeomsorg samt nämnden för Vård &
 Omsorg
@@ -4439,45 +4439,45 @@ Omsorg
 
 <!-- sida 112 -->
 
-10. Analyser kring rekryteringsbehov och kompetensinventering inom verksamheterna för
+10\. Analyser kring rekryteringsbehov och kompetensinventering inom verksamheterna för
 
 nämnden för Individ & Familjeomsorgs samt nämnden för Vård & Omsorg
-11. Eventuella policys och riktlinjer för att stödja arbetet som en attraktiv arbetsgivare
+11\. Eventuella policys och riktlinjer för att stödja arbetet som en attraktiv arbetsgivare
 
 (målsättningar inom kommunen som helhet och inom nämnden för Individ &
 Familjeomsorgs samt nämnden för Vård & Omsorgs), villkor, möjlighet till
 
 vidareutbildning, förmåner etc).
-12. Eventuell dokumentation som beskriver hur kommunen som helhet respektive nämnden
+12\. Eventuell dokumentation som beskriver hur kommunen som helhet respektive nämnden
 
 för Individ & Familjeomsorgs samt nämnden för Vård & Omsorg arbetar proaktivt med att
 rekrytera ny personal.
-13. Dokumentation kring eventuell samverkan mellan nämnder/styrelse i kommunen
+13\. Dokumentation kring eventuell samverkan mellan nämnder/styrelse i kommunen
 
 avseende personal- och kompetensoptimering, dvs exempelvis beskrivningar av
 rutiner/arbetssätt där verksamheter samverkar kring personalbehov.
 
 Statistik
 
-14. Resultat av senaste genomförd medarbetarundersökning för kommunen som helhet samt
+14\. Resultat av senaste genomförd medarbetarundersökning för kommunen som helhet samt
 nämnden för Individ & Familjeomsorg samt nämnden för Vård & Omsorg
 
-15. Statistik kring personalomsättning för kommunen som helhet samt specifikt nämnden för
+15\. Statistik kring personalomsättning för kommunen som helhet samt specifikt nämnden för
 Individ & Familjeomsorg samt nämnden för Vård & Omsorg, gärna uppdelat på
 medarbetare och chefsfunktioner
 
-16. Statistik kring totala antalet arbetade timmar inom nämnden för Individ & Familjeomsorgs
+16\. Statistik kring totala antalet arbetade timmar inom nämnden för Individ & Familjeomsorgs
 samt nämnden för Vård & Omsorgs verksamheter
 
-17. Statistik kring totala antalet vikarietimmar inom nämnden för Individ & Familjeomsorgs
+17\. Statistik kring totala antalet vikarietimmar inom nämnden för Individ & Familjeomsorgs
 samt nämnden för Vård & Omsorgs verksamheter
 
-18. Statistik kring sjukfrånvaro i kommunen som helhet samt inom nämnden för Individ &
+18\. Statistik kring sjukfrånvaro i kommunen som helhet samt inom nämnden för Individ &
 Familjeomsorgs samt nämnden för Vård & Omsorgs verksamheter
 
 Övrigt
 
-19. Andra dokument som är viktiga för att förstå er styrning och uppföljning av
+19\. Andra dokument som är viktiga för att förstå er styrning och uppföljning av
 
 kompetensförsörjning (rekrytering, kompetensutveckling etc.)
 
@@ -4825,19 +4825,19 @@ Onsala, Öster och Fjärås hemtjänstgrupper och ta reda på om resurserna för
 arbetet är anpassade till kraven i arbetet.
 
 Undersökningen ska minst omfatta:
-- Om de tider som är avsedda till förflyttning mellan brukare stämmer
+\- Om de tider som är avsedda till förflyttning mellan brukare stämmer
 överens med den faktiska tiden som förflyttningarna tar.
-- Om den tid som är avsatt för dels ombudsuppdrag, dels så kallade
+\- Om den tid som är avsatt för dels ombudsuppdrag, dels så kallade
 kringuppgifter (exempelvis kontakt med hälso- och sjukvården och
 kontaktmannaskap), stämmer överens med den faktiska tid som
 kringuppgifterna tar.
-- Om de resurser som avsätts i form av tid och personal för att hantera
+\- Om de resurser som avsätts i form av tid och personal för att hantera
 larm från enskilda brukare är tillräckliga och stämmer överens med den
 faktiska tidsåtgången.
-- Om den planerade tiden, det vill säga den tid som bedömts åtgå för
+\- Om den planerade tiden, det vill säga den tid som bedömts åtgå för
 beslutade insatser inklusive dokumentation och eventuella inköpslistor, hos
 enskilda brukare stämmer överens med den faktiska tidsåtgången.
-- Om arbetstagarna vet vilka uppgifter som ska prioriteras om tillgänglig
+\- Om arbetstagarna vet vilka uppgifter som ska prioriteras om tillgänglig
 tid inte räcker till.
 
 Utifrån resultatet av undersökningen ska ni bedöma riskerna för att någon kan
@@ -4929,11 +4929,11 @@ De krav som skyddsombuden vid de olika hemtjänstenheterna ställde på
 arbetsgivaren var likalydande. Skyddsombuden krävde följande åtgärder i
 arbetsmiljön;
 
-- Arbetsgivaren ska säkerställa att det finns möjlighet till pauser i arbetet.
-- Arbetsgivaren ska säkerställa att det finns tillräckliga körtider i schemat.
-- Arbetsgivaren ska säkerställa att det finns tid för kringuppgifter och
+\- Arbetsgivaren ska säkerställa att det finns möjlighet till pauser i arbetet.
+\- Arbetsgivaren ska säkerställa att det finns tillräckliga körtider i schemat.
+\- Arbetsgivaren ska säkerställa att det finns tid för kringuppgifter och
 dokumentering dagligen i schemat.
-- Arbetsgivaren ska säkerställa att det finns tid för att hantera tillbud och
+\- Arbetsgivaren ska säkerställa att det finns tid för att hantera tillbud och
 arbetsskador för skyddsombud med närmsta chef.
 
 Vi inspekterade era arbetsställen Vallda, Öster, Fjärås och Onsala
@@ -5088,10 +5088,10 @@ Datum         Vårt diarienummer Sid
 Meddela oss när ni har uppfyllt kraven
 När ni har uppfyllt kraven ska ni meddela oss. Skriv vår beteckning i svaret, se
 längst upp på sidan 1. Vår postadress och e-postadress finns längst ner på sidan
-1. Reglerna om att vi har rätt att få den information som vi behöver för vår
+1\. Reglerna om att vi har rätt att få den information som vi behöver för vår
 tillsyn finns i 7 kap. 3 § arbetsmiljölagen.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Ärendet har prövats vid vårt kontor i Jönköping och har avgjorts av
 arbetsmiljöinspektören Monica Engström i närvaro av juristen Christel
@@ -5262,7 +5262,7 @@ Onsala, Öster och Fjärås hemtjänstgrupper och ta reda på om resurserna för
 arbetet är anpassade till kraven i arbetet.
 
 Undersökningen ska minst omfatta:
--  Om de tider som är avsedda till förflyttning mellan brukare stämmer
+\-  Om de tider som är avsedda till förflyttning mellan brukare stämmer
 överens med den faktiska tiden som förflyttningarna tar,
 mörtsgnE
 acinoM
@@ -5276,19 +5276,19 @@ UNDERRÄTTELSE
 Datum         Vårt diarienummer Sid
 2023-12-08    2023/058424    3 (7)
 
--  Om den tid som är avsatt för dokumentation och så kallade
+\-  Om den tid som är avsatt för dokumentation och så kallade
 kringuppgifter; exempelvis hantering av inköpslistor, kontakt med
 hälso- och sjukvården, kontaktmannaskap och ombudsuppdrag,
 stämmer överens med den faktiska tid som dokumentation och
 kringuppgifter tar,
--  Om de resurser som avsätts i form av tid och personal för att hantera
+\-  Om de resurser som avsätts i form av tid och personal för att hantera
 larm från enskilda brukare, är tillräckliga och stämmer överens med den
 faktiska tidsåtgången
--  Om den planerade tiden, det vill säga den tid som bedömts åtgå för
+\-  Om den planerade tiden, det vill säga den tid som bedömts åtgå för
 
 beslutade insatser hos enskilda brukare, stämmer överens med den
 faktiska tidsåtgången,
--  Om arbetstagarna vet vilka uppgifter som ska prioriteras om tillgänglig
+\-  Om arbetstagarna vet vilka uppgifter som ska prioriteras om tillgänglig
 tid inte räcker till
 
 Utifrån resultatet av undersökningen ska ni bedöma riskerna för att någon kan
@@ -5350,11 +5350,11 @@ hemtjänstområde enligt 6 kap 6 § AML (vårt ärende 2023/040154).
 De krav som skyddsombuden vid de olika hemtjänstenheterna ställde på
 arbetsgivaren var likalydande. Skyddsombuden krävde följande åtgärder i
 arbetsmiljön;
--  Arbetsgivaren ska säkerställa att det finns möjlighet till pauser i arbetet.
--  Arbetsgivaren ska säkerställa att det finns tillräckliga körtider i schemat.
--  Arbetsgivaren ska säkerställa att det finns tid för kringuppgifter och
+\-  Arbetsgivaren ska säkerställa att det finns möjlighet till pauser i arbetet.
+\-  Arbetsgivaren ska säkerställa att det finns tillräckliga körtider i schemat.
+\-  Arbetsgivaren ska säkerställa att det finns tid för kringuppgifter och
 dokumentering dagligen i schemat.
--  Arbetsgivaren ska säkerställa att det finns tid för att hantera tillbud och
+\-  Arbetsgivaren ska säkerställa att det finns tid för att hantera tillbud och
 
 arbetsskador för skyddsombud med närmsta chef.
 
@@ -5467,7 +5467,7 @@ person ska ni skicka oss deras namn, organisationsnummer och adress.
 Reglerna om att vi har rätt att få den information som vi behöver för vår tillsyn
 finns i 7 kap. 3 § arbetsmiljölagen.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Monica Engström
 Arbetsmiljöinspektör
@@ -5526,7 +5526,7 @@ Komplettering av redovisning till Inspektionen för vård och omsorg angående t
 Förslag till beslut
 
 Nämnden för Vård & Omsorg godkänner komplettering av åtgärder och uppföljning, daterad 2024-01-
-20.
+20\.
 
 Sammanfattning av ärendet
 
@@ -5537,7 +5537,7 @@ samt att det saknas uppgifter hur nämndens redovisade åtgärder kommer att fö
 nämnden redovisar effekt och uppföljning av åtgärder inom nio områden.
 
 Komplettering av redovisning har skett av vidtagna och planerade åtgärder inom områden:
--    kontinuitet
+\-    kontinuitet
 dokumentation av läkemedelsgenomgång
 dokumentation av brytpunktssamtal
 att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan
@@ -5600,10 +5600,10 @@ Tillsyn av medicinsk vård och behandling vid särskilda boenden för äldre
 IVO bedömer att nämndens redovisning efter myndighetens beslut den 3 maj 2023, i aktuellt
 ärende inte är tillräcklig inom följande områden:
 
-- kontinuitet
-- dokumentation av läkemedelsgenomgång
-- dokumentation av brytpunktsamtal
-- att sjuksköterska påbörjar palliativ läkemedelsbehandling
+\- kontinuitet
+\- dokumentation av läkemedelsgenomgång
+\- dokumentation av brytpunktsamtal
+\- att sjuksköterska påbörjar palliativ läkemedelsbehandling
 
 Ivo bedömer även att det saknades uppgifter om hur nämndens redovisade åtgärder kommer att följas
 upp.
@@ -5614,16 +5614,16 @@ Med anledning till IVO´s bedömning begär IVO med stöd av 7 kap. 20 § patien
 helt saknades redovisade åtgärder
 •    IVO begär dessutom att nämnden redovisar vilka effekter som nämnden i sin egenkontroll
 konstaterat utifrån de åtgärder som vidtagits avseende:
-- omsorgspersonalens kompetens
+\- omsorgspersonalens kompetens
 
-- omsorgspersonalen brister i svenska språket
-- sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda omsorgspersonal
-- läkartillgång/läkarmedverkan
-- dokumentation
-- kontinuitet
-- delegering
-- genomförande/dokumentation av läkemedelsgenomgång
-- att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan förnyad
+\- omsorgspersonalen brister i svenska språket
+\- sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda omsorgspersonal
+\- läkartillgång/läkarmedverkan
+\- dokumentation
+\- kontinuitet
+\- delegering
+\- genomförande/dokumentation av läkemedelsgenomgång
+\- att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan förnyad
 kontakt med läkare
 
 1 (9)
@@ -5643,10 +5643,10 @@ Komplettering med åtgärder utifrån brister där IVO bedömt att nämndens
 
 redovisning inte är tillräcklig
 IVO bedömer att nämnden redovisning inte är tillräcklig inom följande områden:
-- dokumentation av läkemedelsgenomgång
-- dokumentation av brytpunktsamtal
-- att sjuksköterska påbörjar palliativ läkemedelsbehandling
-- kontinuitet
+\- dokumentation av läkemedelsgenomgång
+\- dokumentation av brytpunktsamtal
+\- att sjuksköterska påbörjar palliativ läkemedelsbehandling
+\- kontinuitet
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
@@ -5693,16 +5693,16 @@ KUNGSBACKA  KOMMUN
 Redovisning av effekter utifrån de åtgärder som vidtagits
 IVO begär dessutom att nämnden redovisar vilka effekter som nämnden i sin egenkontroll konstaterat
 utifrån de åtgärder som vidtagits avseende:
-- omsorgspersonalens kompetens
-- omsorgspersonalen brister i svenska språket
-- sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda omsorgspersonal
-- läkartillgång/läkarmedverkan
-- dokumentation
-- kontinuitet
-- delegering
-- genomförande/dokumentation av läkemedelsgenomgång
+\- omsorgspersonalens kompetens
+\- omsorgspersonalen brister i svenska språket
+\- sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda omsorgspersonal
+\- läkartillgång/läkarmedverkan
+\- dokumentation
+\- kontinuitet
+\- delegering
+\- genomförande/dokumentation av läkemedelsgenomgång
 
-- att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan förnyad
+\- att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan förnyad
 kontakt med läkare
 
 [Tabell 140-1](handlingar.tabeller/140-1.csv)
@@ -5828,7 +5828,7 @@ Beslut
 IVO bedömer att nämndens redovisning efter myndighetens beslut den 3 maj 2023, i
 aktuellt ärende inte är tillräcklig inom följande områden:
 
-- kontinuitet
+\- kontinuitet
 dokumentation av läkemedelsgenomgång
 dokumentation av brytpunktssamtal
 att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets
@@ -5929,7 +5929,7 @@ och egenkontroll, ska användas för att systematiskt och fortlöpande utveckla 
 verksamhetens kvalitet vilket framgår av 5 kap. 4 § HSL och 3 kap. 1 och 2 §§ samt 5
 kap. 2 och 3a §§ SOSFS 2011:9.
 
-__________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut i detta ärende har fattats av enhetschefen Lennart Pettersson. I den slutliga
 handläggningen har inspektörerna Malin Lukinius Ekerby, Gunilla Wivast och Jonas
@@ -5959,10 +5959,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 150 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................3
 
 Engagerad ledning och tydlig styrning .............................................................................................3
 Övergripande mål och strategier .................................................................................................4
@@ -5976,7 +5976,7 @@ En god säkerhetskultur.........................................................
 Adekvat kunskap och kompetens ....................................................................................................7
 Patienten som medskapare .............................................................................................................8
 
-4. AGERA FÖR SÄKER VÅRD .............................................................................................................9
+4\. AGERA FÖR SÄKER VÅRD .............................................................................................................9
 Öka kunskap om inträffade vårdskador ......................................................................................... 10
 
 Har vården varit säker ............................................................................................................... 10
@@ -6003,7 +6003,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 151 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -6012,7 +6012,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 I mitten av januari gick förvaltningen för Vård & Omsorg, VO in i en ny organisation vilket
 har präglat mycket av det arbete som utförts under året, allt från att hitta mötesformer för
 
@@ -6042,7 +6042,7 @@ kompetens
 Förvaltningen behöver använda framtagna verktyg för att följa upp och skapa dialog kring
 säkerhetskulturen. Ett ännu viktigare arbete när det finns en ökad omsättning på personal.
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 Engagerad ledning och tydlig styrning
 
 En grundläggande förutsättning för en säker vård är en
@@ -6210,20 +6210,20 @@ HSLF-FS 2016:40, 7 kap. 1 §
 Patientsäkerhetsberättelsen ska, utöver vad som anges patientsäkerhetslagen innehålla
 uppgifter enligt nedan.
 
-1. Uppföljningar av informationssäkerheten som är av större betydelse
-2. Riskanalyser som har gjorts.
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
 6
 
 <!-- sida 155 -->
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
 
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
 En god säkerhetskultur
@@ -6331,7 +6331,7 @@ exempel utprovning av hjälpmedel.
 För att öka patientens självständighet har medicingivare börjat användas hos de patienter som
 har förutsättningar för det.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
 Vårdgivaren ska utöva egenkontroll, vilket ska göras med den
@@ -6344,11 +6344,11 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
 
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
-5. Öka riskmedvetenhet och beredskap
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
+5\. Öka riskmedvetenhet och beredskap
 
 Förvaltningen har under året arbetat med att ta fram en lokal handlingsplan för ökad
 patientsäkerhet. Varje enhetschef och verksamhetschef inom VO och IF som arbetar med
@@ -6649,7 +6649,7 @@ att agera på störningar i närtid.
 
 Följsamhet till ordinerade hälso- och sjukvårdsinsatser
 Totalt har drygt 2 440 000 insatser delegerats/instruerats i VO under perioden 221101–
-231031. Motsvarande siffra för IF är drygt 295 800. Inom VO har följsamheten på totalen
+231031\. Motsvarande siffra för IF är drygt 295 800. Inom VO har följsamheten på totalen
 legat stabilt under året. Den förbättring av följsamheten till läkemedelsordinationer som
 gjordes inom IF förra året har en positiv trend även i år. Däremot så skedde det ett stort tapp
 
@@ -6754,7 +6754,7 @@ Under året har en kartläggning utförts gällande upplevelse av samverkan mell
 primärvård (vårdcentral) och kommunal primärvård (hemsjukvård). Kartläggningen är utförd
 ur båda parters perspektiv. Upplevelserna är sammanställda och analyserade. En
 handlingsplan är framtagen där utvalda prioriterade områden kommer att arbetas med under
-2024. För mer information hänvisas till God och Nära vårds årsberättelse.
+2024\. För mer information hänvisas till God och Nära vårds årsberättelse.
 
 17
 
@@ -8995,7 +8995,7 @@ försvar. Arbetet med krisberedskap i kommuner och regioner ska, enligt överens
 samma inriktning.
 
 Området bevakas för att fånga eventuella förändringar som sker under 2024 eller som planeras att ske inför
-2025.
+2025\.
 
 Säkerhetsberätt else helår 2023 Sida 4 av 5
 
@@ -9058,19 +9058,19 @@ Vård & Omsorg har påbörjat arbetet med att ta fram kontinuitetsplaner för at
 kunna arbeta så normalt som möjligt under störda förhållanden.
 
 Två kontinuitetsplaner finns framtagna:
-1. Leverera prioriterad medicinsk insats.
-2. Leverera prioriterad omsorgsinsats.
+1\. Leverera prioriterad medicinsk insats.
+2\. Leverera prioriterad omsorgsinsats.
 
 Inom Vård & Omsorg arbetas det också med att kunna hantera olika händelser som inträffar, som till
 exempel:
-1. Strömavbrott på vård- och omsorgsboende
+1\. Strömavbrott på vård- och omsorgsboende
 
-2. Höga temperaturer
-3. Skuggad utevistelse på vård- och omsorgsboende
+2\. Höga temperaturer
+3\. Skuggad utevistelse på vård- och omsorgsboende
 
-4. Nödvatten
+4\. Nödvatten
 
-5. Kärnenergiberedskap
+5\. Kärnenergiberedskap
 1 (2)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
 434 81 Kungsbacka
@@ -9085,7 +9085,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-6. Krigsorganisation
+6\. Krigsorganisation
 
 Hur arbetar Vård & Omsorg vid en kris?
 Förvaltningens krisledningsorganisation aktiveras när en större händelse inträffar som berör flera
@@ -9571,8 +9571,8 @@ Arbetsgrupp är utsedd. Arbetet har pausats då det saknas förutsättningar att
 på förvaltningen för Vård & Omsorg.
 
 Två kontinuitetsplaner finns framtagna:
-1. Leverera prioriterad medicinsk insats.
-2. Leverera prioriterad omsorgsinsats.
+1\. Leverera prioriterad medicinsk insats.
+2\. Leverera prioriterad omsorgsinsats.
 
 5.4 Strömavbrott på vård och omsorgsboende
 
@@ -9946,20 +9946,20 @@ eller krigsfara.
 
 Beslutsprocessen/Ärendehanteringsprocessen enligt följande:
 
-1. Registrator registrerar ärendet i Ciceron.
-2. Förvaltningschef/registrator fördelar ärendet till Handläggare.
+1\. Registrator registrerar ärendet i Ciceron.
+2\. Förvaltningschef/registrator fördelar ärendet till Handläggare.
 
-3. Handläggare skapar tjänsteskrivelse.
-4. Förvaltningschef granskar och godkänner tjänsteskrivelsen.
+3\. Handläggare skapar tjänsteskrivelse.
+4\. Förvaltningschef granskar och godkänner tjänsteskrivelsen.
 
-5. Handläggare anmäler ärendet till sammanträdet.
-6. Presidiet och förvaltningschef bereder ärendet.
+5\. Handläggare anmäler ärendet till sammanträdet.
+6\. Presidiet och förvaltningschef bereder ärendet.
 
-7. Nämndsekreterare skapar kallelse och skicka ut handlingar.
-8. Nämndsekreterare publicerar handlingarna på Kungsbacka.se.
+7\. Nämndsekreterare skapar kallelse och skicka ut handlingar.
+8\. Nämndsekreterare publicerar handlingarna på Kungsbacka.se.
 
-9. Nämndsekreterare genomför sammanträdet.
-10. Nämnden för Vård & Omsorg beslutar i ärendet.
+9\. Nämndsekreterare genomför sammanträdet.
+10\. Nämnden för Vård & Omsorg beslutar i ärendet.
 
 11.Nämndsekreterare justerar och expedierar protokoll.
 
@@ -10065,9 +10065,9 @@ hanteras inom ordinarie verksamhet.
 TIB ersätter inte kommunens ordinarie jourverksamhet, t.ex. teknisk jour, chef i beredskap
 och fastighetsjour.
 Kontaktuppgifter till Tjänsteman i Beredskap
-- Personsökare: 0746-20 03 36
-- Rakel: 579 28 03
-- E-post: krisledning@kungsbacka.se
+\- Personsökare: 0746-20 03 36
+\- Rakel: 579 28 03
+\- E-post: krisledning@kungsbacka.se
 
 10.2 Andra förvaltningar
 
@@ -10393,7 +10393,7 @@ Nämnden för Vård & Omsorg godkänner årsredovisning 2023.
 Sammanfattning av ärendet
 Denna rapport omfattar samtliga besök på Ekhaga och Vickan under perioden januari till december
 
-2023. Granskningen gjordes på plats enligt revisionsplanen och omfattade rundvandring i
+2023\. Granskningen gjordes på plats enligt revisionsplanen och omfattade rundvandring i
 verksamheten, dokumentationsgranskning, intervjuer med personal samt verksamhetscheferna på
 boendena Vickan respektive Ekhaga.
 Stort fokus har under denna period lagts på granskning av de områden som förvaltningen har tilldelat.
@@ -10483,13 +10483,13 @@ revisioner och certifieringstjänster. Qvalify följer fastställda
 rutiner för att säkerställa att alla aktiviteter inom Qvalify
 genomförs på ett opartiskt och oberoende sätt.
 Qvalifys verksamhet bygger på följande principer:
-- Opartiskhet och oberoende
+\- Opartiskhet och oberoende
 
-- Kompetens
-- Ansvar
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Kompetens
+\- Ansvar
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Kvartalsrapport 2023 Kvartal 1                         Qvalify AB
 
@@ -10554,15 +10554,15 @@ Vid granskningen identifierades några utbildningar där det inte var tydligt at
 utbildningen gjordes. Under granskningen kunde det inte visas något godkännande
 av avsteg från avtal.
 
-De öppna frågorna gäller följande*:
-1. Socialstyrelsens ”Äldreomsorgens nationella värdegrund” (gäller Ekhaga)
-2. ÄBIC/IBIC görs på Läraplattormen (15 min), osäkert om det kan bedömas som
+De öppna frågorna gäller följande\*:
+1\. Socialstyrelsens ”Äldreomsorgens nationella värdegrund” (gäller Ekhaga)
+2\. ÄBIC/IBIC görs på Läraplattormen (15 min), osäkert om det kan bedömas som
 likvärdigt.
 
-3. Motiverande samtal - lite otydligt vilken utbildning som avsees.
-4. Utbildning för att styrka personalen i hälsofrämjande arbetssätt -otydligt hur det
+3\. Motiverande samtal - lite otydligt vilken utbildning som avsees.
+4\. Utbildning för att styrka personalen i hälsofrämjande arbetssätt -otydligt hur det
 säkerställs att det gör årligen.
-5. Palliation ABC (Betaniastiftelsen) för all personal kan inte visas hur det planeras in.
+5\. Palliation ABC (Betaniastiftelsen) för all personal kan inte visas hur det planeras in.
 
 Status: Stängd
 
@@ -10615,12 +10615,12 @@ identifierades i allmänna ytor.
 Besök Ekhaga & Vickan 230323-230324
 
 Riktlinje kontakt legitimerad personal (reviderad 2023-01-17)
-- Verksamhetscheferna har god kunskap om Riktlinjen och har på olika sätt
+\- Verksamhetscheferna har god kunskap om Riktlinjen och har på olika sätt
 kommunicerats till gruppchefer och medarbetare (t.ex. genom veckobrev, APT,
 muntligt).
-- Samtliga av de intervjuade gruppcheferna har kunskap om Riktlinjen och kan i detalj
+\- Samtliga av de intervjuade gruppcheferna har kunskap om Riktlinjen och kan i detalj
 redogöra för innehållet i riktlinjen.
-- Intervjuer med personal visar att det finns en god medvetenhet och kännedom om hur
+\- Intervjuer med personal visar att det finns en god medvetenhet och kännedom om hur
 riktlinjen ska tillämpas kontrollerades genom intervjuer med medarbetare. Personalen
 redogjorde för dagliga bedömningar och avvägningar och hur riktlinjen användes i
 praktiken. Samtlig personal kan redogöra för hur de kommer i kontakt med legitimerad
@@ -10752,7 +10752,7 @@ Vardaga        Kungsbacka               2024-01-29     Sida 8(32)
 <!-- sida 257 -->
 
 Avdelningsbesök
-Besök gjordes på nästan* samtliga avdelningar (både Vickan och Ekhaga) samt på
+Besök gjordes på nästan\* samtliga avdelningar (både Vickan och Ekhaga) samt på
 kvällen och natten på Vickan. Det var lugnt och god stämning ute på avdelningarna.
 Aktiviteter pågick enligt planering.
 Inga dokument med personuppgifter identifierades och säkerhetsgrindar i trappor var
@@ -10802,7 +10802,7 @@ Vardaga        Kungsbacka               2024-01-29     Sida 9(32)
 
 Uppdragets   delområden
 
-1. Kunskapsbaserad vård och omsorg - att de utbildningar som
+1\. Kunskapsbaserad vård och omsorg - att de utbildningar som
 verksamheten erbjuder utgår från och omfattar de delar som anges i
 SOSFS  2011:12
 
@@ -10823,7 +10823,7 @@ apodos-påsar).
 Besök Vickan 230222
 
 Område:
-Uppföljning av avvikelse GDPR/Informationssäkerhet AR4 2022-11-21 Ekhaga*
+Uppföljning av avvikelse GDPR/Informationssäkerhet AR4 2022-11-21 Ekhaga\*
 
 Resultat:
 Inga brister identifierade på Vickan den 22/2 2023.
@@ -10832,7 +10832,7 @@ Metod:
 Granskning gjordes genom rundvandring på samtliga avdelningar: Viken, Fyren,
 Bryggan och Skäret.
 
-*Vickan har ingen avvikelse på detta området men Ekhagas avvikelse gällande GDPR
+\*Vickan har ingen avvikelse på detta området men Ekhagas avvikelse gällande GDPR
 kontrollerades även på Vickan.
 
 Besök Ekhaga 230323-230324
@@ -10870,7 +10870,7 @@ Utbildning IBIC där ett förtydligande om vilken utbildning som avses har ännu
 färdigställts till 100% på båda boendena, vilket bedöms helt naturligt men kommer att
 fortsätta följas.
 
-2. Kunskapsbaserad vård och omsorg - hur stor andel av
+2\. Kunskapsbaserad vård och omsorg - hur stor andel av
 omsorgspersonalen  som har genomfört verksamhetens angivna
 
 utbildningar, fördelat utifrån anställningsform
@@ -10883,7 +10883,7 @@ Besök Vickan 230222
 
 Område:
 Extra kontroll av följsamhet mot tidigare avvikelse gällande Utbildning social
-dokumentation AR1 2022-11-10 Vickan*
+dokumentation AR1 2022-11-10 Vickan\*
 
 Resultat:
 Inga brister identifierade på Vickan den 22/2 2023.
@@ -10929,7 +10929,7 @@ Frågetecken gällande några utbildningar framkom vid granskningen vilket har n
 som en avvikelse då det vid tidpunkten för revisionen inte kunde visas något
 godkännande av avsteg från avtal.
 
-3. Kunskapsbaserad vård och omsorg - att verksamheten
+3\. Kunskapsbaserad vård och omsorg - att verksamheten
 kontinuerligt ger omsorgspersonalen erforderlig
 kompetensutveckling och handledning vid behov
 
@@ -10969,7 +10969,7 @@ Vardagas olika ombudsroller.
 Beslutat tillsammans med VC att effekten av utförda åtgärder ska kontrolleras i slutet
 av september 2023.
 
-4. Kunskapsbaserad vård och omsorg - att det finns rutin för
+4\. Kunskapsbaserad vård och omsorg - att det finns rutin för
 introduktion av samtliga yrkesgrupper och att den efterlevs
 
 Besök Ekhaga 230221
@@ -10979,15 +10979,15 @@ Kompetens/Introduktion Timvikarier och ordinarie AR1/AR 2 2022-09-21/AR1
 Granskning gjordes genom kontroll i utbildningspärmen på Eken och Tallen.
 
 Fortsatt uppföljning under våren krävs för att verifiera:
-- att ni har översikt och kontroll på att samtliga aktiva vikarier och ordinarie har
+\- att ni har översikt och kontroll på att samtliga aktiva vikarier och ordinarie har
 genomgått kravställd utbildning och att checklistor och verifikat (utbildningsbevis eller
 liknande) finns tillgängligt.
-- att nya timvikarier/ordinarie introduceras med checklistor som kontinuerligt hålls
+\- att nya timvikarier/ordinarie introduceras med checklistor som kontinuerligt hålls
 uppdaterade med kompetenskrav (t.ex. KLOK).
-- att det inte finns några otydligheter i riktlinjerna för timvikariers introduktion mellan
+\- att det inte finns några otydligheter i riktlinjerna för timvikariers introduktion mellan
 
 kommunen och Ekhagas (och Vickans) introduktionsrutiner.
-- att dokumentstyrning är korrekt (2 olika introduktions-instruktioner hittades, olika
+\- att dokumentstyrning är korrekt (2 olika introduktions-instruktioner hittades, olika
 innehåll men samma revisionsdatum).
 
 Besök Ekhaga & Vickan 230323-230324
@@ -11039,7 +11039,7 @@ Besök Ekhaga 230919-230920
 Stickprov visar på fungerande rutin med spårbarhet och arkivering av utförda
 introduktionschecklistor.
 
-5. Bemanning - att verksamheten genomför en analys av det totala
+5\. Bemanning - att verksamheten genomför en analys av det totala
 
 behovet hos omsorgstagarna och bemannar  därefter, samt att
 utförarens verktyg som mäter vårdbehov utifrån etablerade metoder
@@ -11059,7 +11059,7 @@ bibehålls.
 
 Senaste uppdaterade vårdtyngdsmätning inte granskad vid detta besök.
 
-6. Bemanning - att verksamheten säkerställer att det finns tillräckligt
+6\. Bemanning - att verksamheten säkerställer att det finns tillräckligt
 
 med omsorgspersonal  med rätt kompetens vid varje given tidpunkt
 
@@ -11095,7 +11095,7 @@ bibehålls.
 Fortsätt fokusera på Granen/tallen och säkerställ tillräcklig grundbemanning och
 tillräcklig kompetens och erfarenhet.
 
-7. Bemanning - att verksamheten tillgodoser tillgång till personal
+7\. Bemanning - att verksamheten tillgodoser tillgång till personal
 dygnet runt som utan dröjsmål uppmärksammar om omsorgstagaren
 
 behöver stöd och hjälp
@@ -11134,7 +11134,7 @@ den generellt sätt är tillräcklig för uppfylla verksamhetens krav och åtaga
 boende/kunder.
 Men det är viktigt att kontinuerligt anpassa bemanningen efter ändrat vårdbehov.
 
-9. Bemanning - att verksamheten säkerställer att planerad
+9\. Bemanning - att verksamheten säkerställer att planerad
 bemanningsvolym  upprätthålls
 
 Besök Ekhaga & Vickan 230323-230324
@@ -11142,7 +11142,7 @@ Besök Ekhaga & Vickan 230323-230324
 Vid denna revision var alla avdelningar på båda boendena planerad
 bemanningsvolym, inkluderat fast personal och vikarier.
 
-10. Bemanning - att verksamheten bemannat med 50 %  ordinarie
+10\. Bemanning - att verksamheten bemannat med 50 %  ordinarie
 personal under semestern
 
 Besök Ekhaga 230221
@@ -11175,7 +11175,7 @@ Under totalt 8 arbetspass (4 pass på Eken och 4 pass på Granen) det bara 25%
 ordinarie personal och kravet ej uppfyllt.
 Resultat kravet uppfylls på 99,2% av sommarens arbetspass.
 
-11. Erbjuden kvalitet - att verksamheten levererar erbjuden kvalitet
+11\. Erbjuden kvalitet - att verksamheten levererar erbjuden kvalitet
 
 inom utvärderingsområde Kontaktperson för att säkerställa att
 utförarens valda metoder genererar utlovade mervärden till
@@ -11192,7 +11192,7 @@ utnämnda.
 Funktionsbeskrivning, utbildning för KM, egentid, veckoavstämning granskat på båda
 boendena vid detta tillfälle utan anmärkning.
 
-12. Erbjuden kvalitet - Vardagas erbjudna kvalitet utöver grundkrav
+12\. Erbjuden kvalitet - Vardagas erbjudna kvalitet utöver grundkrav
 
 gällande ”Kontaktperson” ska kontrolleras. Utöver Vardagas
 erbjudna kvalitet finns även grundkrav avseende området
@@ -11287,7 +11287,7 @@ Besök Ekhaga & Vickan 230323-230324
 
 Ingen brist identifierades vid denna stickprovsgranskning.
 
-13. Erbjuden kvalitet - Utförarens erbjudna kvalitet utöver grundkrav
+13\. Erbjuden kvalitet - Utförarens erbjudna kvalitet utöver grundkrav
 gällande ”Kontaktperson” ska kontrolleras
 
 Besök Ekhaga 230221
@@ -11297,7 +11297,7 @@ Granskning gjordes genom kontroll i social dokumentation på Tallen (Stickprov p
 kunder/boende).
 
 Fortsatt uppföljning under våren krävs för att verifiera:
-- att korrekt kontaktperson är inlagd i den sociala dokumentationen
+\- att korrekt kontaktperson är inlagd i den sociala dokumentationen
 
 Kvartalsrapport 2023 Kvartal 1                         Qvalify AB
 
@@ -11306,7 +11306,7 @@ Vardaga        Kungsbacka               2024-01-29     Sida 19(32)
 
 <!-- sida 268 -->
 
-- att det tydligt framgår att hur anhöriga önskar att kontakten ska fungera och
+\- att det tydligt framgår att hur anhöriga önskar att kontakten ska fungera och
 närstående som ej önskar "kontaktgaranti 1 ggr/månad" ska det dokumenteras vad
 som har avtalats (informationen måste vara spårbar).
 
@@ -11314,7 +11314,7 @@ Besök Ekhaga & Vickan 230323-230324
 
 Ingen brist identifierades vid denna stickprovsgranskning.
 
-14. Erbjuden kvalitet - ”Beställaren har riktlinjeskapande funktioner
+14\. Erbjuden kvalitet - ”Beställaren har riktlinjeskapande funktioner
 som utifrån lagstiftningen beskriver de kvalitetskrav som finns för
 vården och omsorgen. Dessa kvalitetskrav finns i ovan nämnda
 
@@ -11329,19 +11329,19 @@ Besök Vickan 230222
 
 KONTAKT MED LEGITIMERAD PERSONAL
 Planerade kontakt med SSK/rehab
-- Dagligen besöker SSK samtliga avdelningar och man har diskuterat om man ska
+\- Dagligen besöker SSK samtliga avdelningar och man har diskuterat om man ska
 
 bestämma en särskild tid (för att det ska passa avdelningarna).
-- Veckovis träffar enhetschef SSK. Veckovis HSL-möte.
-- Teamträffar.
+\- Veckovis träffar enhetschef SSK. Veckovis HSL-möte.
+\- Teamträffar.
 
 Oplanerade/akuta kontakt med SSK/rehab
-- Journummer till SSK och jourtider finns unslagna (ingen granskning om
+\- Journummer till SSK och jourtider finns unslagna (ingen granskning om
 medarbetares medvetenhet om nummer gjordes).
-- Riktlinjen "Då ska kontakt med legitimerad personal tas" uppvisades av VC och GC
+\- Riktlinjen "Då ska kontakt med legitimerad personal tas" uppvisades av VC och GC
 hade kunskap om den (ingen granskning om medarbetares medvetenhet om
 nummer gjordes)..
-- Växelvård kontaktar SSK när boende/kunder anländer/skriver in sig på helgen (när
+\- Växelvård kontaktar SSK när boende/kunder anländer/skriver in sig på helgen (när
 de händer). Medarbetares kunskap ej granskad.
 
 Besök Ekhaga & Vickan 230323-230324
@@ -11363,7 +11363,7 @@ Besök Ekhaga & Vickan 230323-230324
 
 Ingen brist identifierades vid denna stickprovsgranskning.
 
-15. Erbjuden kvalitet - Städning/Lokalvård av den egna lägenheten
+15\. Erbjuden kvalitet - Städning/Lokalvård av den egna lägenheten
 
 Besök Ekhaga 230620-230621
 
@@ -11385,11 +11385,11 @@ ser över sin rutin. Se avvikelse.
 
 Under granskningen kontrollerades 50 rum fördelat på respektive avdelning:
 
-- Eken, 8 rum
-- Björken 10 rum
-- Granen 5 rum
-- Linden 13 rum
-- Kastanjen 14 rum
+\- Eken, 8 rum
+\- Björken 10 rum
+\- Granen 5 rum
+\- Linden 13 rum
+\- Kastanjen 14 rum
 
 Vid granskningen av rummen var syftet att säkerställa att god trivsel och hygien
 
@@ -11421,7 +11421,7 @@ Inget identifierat som tyder på att städning ej görs enligt rutin och att god
 
 trivsel upprätthålls.
 
-16. Erbjuden kvalitet - Larmtid/ inställelsetid
+16\. Erbjuden kvalitet - Larmtid/ inställelsetid
 
 Besök Ekhaga 230620-230621
 
@@ -11510,10 +11510,10 @@ Besök Ekhaga & Vickan 230323-230324
 Samordna ert arbete i ledningsgruppen inom respektive boende men även mellan
 
 boendena. Fortsätt driva ert förbättringsarbete inom nedanstående områden:
-- Egentid och veckoavstämning -ny avvikelse vid dagens revision
-- Kompetens och obligatorisk utbildning (allvarlig) - uppföljningen fortsätter.
-- Introduktion och Kompetens (allvarlig) - uppföljningen fortsätter.
-- Handledning i nya ombudsroller/ansvarsområden - uppföljningen.
+\- Egentid och veckoavstämning -ny avvikelse vid dagens revision
+\- Kompetens och obligatorisk utbildning (allvarlig) - uppföljningen fortsätter.
+\- Introduktion och Kompetens (allvarlig) - uppföljningen fortsätter.
+\- Handledning i nya ombudsroller/ansvarsområden - uppföljningen.
 
 Utvärdera regelbundet om tiden för den muntliga överlämningen mellan kvällspersonal
 och nattpersonal är tillräcklig (gäller Vickan). Även om dokumentation och inläsning
@@ -11698,7 +11698,7 @@ Vid granskningen identifierades några utbildningar där det inte var tydligt at
 utbildningen gjordes. Under granskningen kunde det inte visas något godkännande av
 avsteg från avtal. De öppna frågorna gäller följande:
 
-1. Socialstyrelsens ”Äldreomsorgens nationella värdegrund” (finns på socialstyrelsens
+1\. Socialstyrelsens ”Äldreomsorgens nationella värdegrund” (finns på socialstyrelsens
 hemsida - saknas i introduktionschecklistan. Finns det överenskommelse att den inte
 
 Kvartalsrapport 2023 Kvartal 1                         Qvalify AB
@@ -11709,15 +11709,15 @@ Vardaga        Kungsbacka               2024-01-29     Sida 27(32)
 <!-- sida 276 -->
 
 ska göras? Kan motivering och godkännande uppvisas?
-2. ÄBIC/IBIC görs på Läraplattormen (15 min), osäkert om det kan bedömas som
+2\. ÄBIC/IBIC görs på Läraplattormen (15 min), osäkert om det kan bedömas som
 likvärdigt. Finns det överenskommelse att den inte ska göras? Kan motivering och
 godkännande uppvisas?
-3. Motiverande samtal - Vardaga bedömer att den kommer att göras 2024 för Ekhaga
+3\. Motiverande samtal - Vardaga bedömer att den kommer att göras 2024 för Ekhaga
 (efter demensutbildning) är det en överenskommelse?
-4. Utbildning för att styrka personalen i hälsofrämjande arbetssätt. Lite osäkert vad
+4\. Utbildning för att styrka personalen i hälsofrämjande arbetssätt. Lite osäkert vad
 man avser för utbildning. Utbildning Salogent arbetssätt /IBIC angavs täcka upp men
 det framkom inte hur det säkerställs att det görs årligen.
-5. Palliation ABC (Betaniastiftelsen) för all personal. Saknas i introduktionschecklista.
+5\. Palliation ABC (Betaniastiftelsen) för all personal. Saknas i introduktionschecklista.
 
 Besök Ekhaga 230620-230621
 
@@ -11933,12 +11933,12 @@ vet hur trygghetslarm ska användas och att boende/kunder som har trygghetslarm 
 förmåga att använda larmet.
 
 Notering:Granskningsdokument som använts
-1. UPPDRAGSBESKRIVNING Qvalifys uppdragsbeskrivning granskning av Ekhaga
+1\. UPPDRAGSBESKRIVNING Qvalifys uppdragsbeskrivning granskning av Ekhaga
 och Vickan 2023-10-18
-2. Rutin för trygghetslarm på vård och omsorgsboende 2022-03-02
-3. DRIFTENTREPRENAD 19/119:2 Ekhaga vård- och omsorgsboende punkt 3.12
+2\. Rutin för trygghetslarm på vård och omsorgsboende 2022-03-02
+3\. DRIFTENTREPRENAD 19/119:2 Ekhaga vård- och omsorgsboende punkt 3.12
 Lokalvård
-4. Lokalvård bilaga 5 och bilaga 6 (DRIFTENTREPRENAD 19/119:2)
+4\. Lokalvård bilaga 5 och bilaga 6 (DRIFTENTREPRENAD 19/119:2)
 Referat:
 SS 8760014:2017, Rengöring och städning för minskad smittspridning inom hälso-
 och sjukvård (refereras från driftavtal)
@@ -11984,11 +11984,11 @@ Enspecialavdelningskullekunnaerbjudanödvändigtstödochresurser.
 
 Viföreslårdärförnämndenbeslutaatt:
 
-1. Genomföraenutredningförattkartläggabehovenochresursernaförattetableraen
+1\. Genomföraenutredningförattkartläggabehovenochresursernaförattetableraen
 
 sådanavdelningpåSigneshus.
-2. Samrådmedexperterinomkognitivsvikt,särskiltmedinriktningpåyngrepersoner.
-3. Identifierapotentiellafinansieringskällor,inklusivestatligabidragochommöjligt
+2\. Samrådmedexperterinomkognitivsvikt,särskiltmedinriktningpåyngrepersoner.
+3\. Identifierapotentiellafinansieringskällor,inklusivestatligabidragochommöjligt
 privatadonationer.
 
 HravnForsne(M)
@@ -12053,7 +12053,7 @@ initiativärende så att ansvaret vilar ytterst på politiskt förtroendevalda i
 intentioner.
 
 Förslag till beslut:
-1. Nämnden för Vård och Omsorg beslutar att samtliga aktuella och framtida
+1\. Nämnden för Vård och Omsorg beslutar att samtliga aktuella och framtida
 organisationsförändringar ska bedömas och beslutas av nämnden för Vård & Omsorg i
 enlighet med initiativärendets andemening.
 

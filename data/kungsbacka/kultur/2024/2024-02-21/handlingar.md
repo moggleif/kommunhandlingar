@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 | 3. | Information till nämnd: Trygg<br>digital uppväxt<br>Föredragande: Cecilia<br>Ljungkvist-Holm, utvecklare,<br>och Emma Snelder, utvecklare<br>1 st dokument<br>30 min | KFT-2024-<br>00034 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
 | 4. | Uppdrag till förvaltningen att<br>vidareutveckla Kultur & Fritids<br>bidragssystem<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>15 min | KFT-2024-<br>00035 |  |
 | 5. | Årsredovisning 2023 inkl BRÅ<br>Föredragande: Erik Norinder,<br>utvecklingsledare, och Malin<br>Fjellström, controller<br>3 st dokument<br>15 min | KFT-2024-<br>00036 | Nämnden för Kultur & Fritid godkänner<br>årsredovisning 2023.<br>Nämnden för Kultur & Fritid godkänner BRÅs<br>verksamhetsredovisning för 2023 och översänder<br>verksamhetsredovisningen till kommunfullmäktige<br>för godkännande. |
-| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin Fjellström<br>3 st dokument<br>5 min | KFT-2024-<br>00045 | Nämnden för Kultur & Fritid beslutar att begära:<br>* att av nämndens överskott i driftsbudgeten om +<br>583 tkr återredovisas.<br>* att av nämndens överskott i investeringsbudgeten<br>om +9 029 tkr begära 3 873 tkr ombudgeteras till år<br>2024 och 500 tkr till 2025. |
+| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin Fjellström<br>3 st dokument<br>5 min | KFT-2024-<br>00045 | Nämnden för Kultur & Fritid beslutar att begära:<br>\* att av nämndens överskott i driftsbudgeten om +<br>583 tkr återredovisas.<br>\* att av nämndens överskott i investeringsbudgeten<br>om +9 029 tkr begära 3 873 tkr ombudgeteras till år<br>2024 och 500 tkr till 2025. |
 
 <!-- sida 3 -->
 
@@ -428,9 +428,9 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 bifogade handlingar.
 
 Förvaltningen redovisar:
-- ett överskott på driftbudgeten om 0,6 miljoner kronor
+\- ett överskott på driftbudgeten om 0,6 miljoner kronor
 
-- ett överskott på investeringsbudgeten om 9,1 miljoner kronor
+\- ett överskott på investeringsbudgeten om 9,1 miljoner kronor
 Den nya lagen, Lag (2023:196), om kommuners ansvar för brottsförebyggande arbete, trädde i kraft 1
 juli 2023. Kommunstyrelsen, eller den nämnd som kommunfullmäktige beslutar, ansvarar för
 ledningen av kommunens brottsförebyggande arbete och för att kontinuerligt rapportera om det
@@ -618,10 +618,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -798,11 +798,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -898,12 +898,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 70%     68%     65%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 80%     88%     85%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 100 98 97
 målvärde 2030 är 70.
@@ -921,7 +921,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Ekologisk status i Kungsbackafjorden (VISS)
 Skyddad natur totalt, andel (Kolada)
 Vattendrag med god ekologisk status, andel
@@ -978,8 +978,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -1082,8 +1082,8 @@ appliceras för kommunens olika verksamheter och skapa bättre effekt, även i d
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -1240,12 +1240,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -3442,18 +3442,18 @@ Rapport till Kungsbacka kommun
 
 Innehållsförteckning
 
-1.  Sammanfattning ........................................................................................................... 1
-2.  Inledning ...................................................................................................................... 5
+1\.  Sammanfattning ........................................................................................................... 1
+2\.  Inledning ...................................................................................................................... 5
 2.1   Bakgrund ................................................................................................................ 5
 2.2   Uppdrag och frågeställningar ................................................................................... 5
 2.3   Metod och genomförande ........................................................................................ 6
 2.4   Avgränsning............................................................................................................ 6
 2.5   Konfidentialitet ....................................................................................................... 7
-3.  Föreningens arbete med ekonomistyrning ...................................................................... 8
+3\.  Föreningens arbete med ekonomistyrning ...................................................................... 8
 3.1   Rutiner för ekonomisk hantering .............................................................................. 8
 3.2   Ekonomisk redovisning ............................................................................................ 9
 3.3   Fastställande av budget och budgetuppföljning ....................................................... 12
-4.  Förvaltningens uppdrag, krav och villkor ....................................................................... 13
+4\.  Förvaltningens uppdrag, krav och villkor ....................................................................... 13
 4.1   Reglemente .......................................................................................................... 13
 4.2   Krav för bidrag ...................................................................................................... 13
 4.2.1 Avstängning och återbetalning ........................................................................... 13
@@ -3462,12 +3462,12 @@ Innehållsförteckning
 4.2.4 Utbildnings- och utvecklingsbidrag ..................................................................... 17
 4.2.5 Hälsocertifiering ............................................................................................... 18
 4.2.6 Subventionerad hyra av ishall ............................................................................. 19
-5.  Föreningens interna regler ........................................................................................... 21
+5\.  Föreningens interna regler ........................................................................................... 21
 5.1   Stadgar för Hanhals Idrottsförening ....................................................................... 21
 5.2   Hanhals IF policy & sportsliga direktiv .................................................................... 22
 5.2.1 Barnkonventionen ............................................................................................. 24
 5.2.2 RF:s stadgar och riktlinjer för barn- och ungdomsidrott ....................................... 24
-6.  Uppgifter om missförhållanden och överträdelser ......................................................... 26
+6\.  Uppgifter om missförhållanden och överträdelser ......................................................... 26
 6.1   Konflikt i Föreningen .............................................................................................. 26
 6.2   Elitinriktning och selektering ................................................................................. 26
 6.3   Särbehandling och påtryckningar från föräldrar ...................................................... 28
@@ -3481,7 +3481,7 @@ ii
 
 Rapport till Kungsbacka kommun
 
-1.    Sammanfattning
+1\.    Sammanfattning
 
 Hanhals IF (”Föreningen”) är en ishockeyförening från Kungsbacka och är en av Sveriges största
 ishockeyföreningar sett till antalet utövare. Föreningen har cirka 500 medlemmar och ungefär
@@ -3647,7 +3647,7 @@ att vidta ytterligare åtgärder baserat på utredningens resultat.
 
 Rapport till Kungsbacka kommun
 
-2.    Inledning
+2\.    Inledning
 
 Med hänvisning till uppdragsbrevet signerat 23 oktober 2023 mellan Karl Persson vid
 Kungsbacka kommun (”Kungsbacka kommun” eller ”Uppdragsgivaren”) och Ernst & Young AB
@@ -3774,7 +3774,7 @@ avsetts.
 
 Rapport till Kungsbacka kommun
 
-3.    Föreningens  arbete med  ekonomistyrning
+3\.    Föreningens  arbete med  ekonomistyrning
 
 Denna del syftar till att förstå Föreningens arbete med ekonomistyrning, att säkerställa att
 kommunens ekonomiska bidrag går till avsett ändamål och identifiera eventuella brister som
@@ -4065,7 +4065,7 @@ har uppstått.
 
 Rapport till Kungsbacka kommun
 
-4.    Förvaltningens  uppdrag, krav och villkor
+4\.    Förvaltningens  uppdrag, krav och villkor
 
 Denna del syftar till att förstå kommunens uppdrag, kravställning och villkor för ekonomiska
 bidrag och subventioner till Föreningen. Detta för att kunna identifiera eventuella överträdelser
@@ -4329,7 +4329,7 @@ redovisar en alkohol- och drogpolicy med en handlingsplan får 10 kronor i extra
 per aktiv medlem 7–20 år. Genom att välja att idrotts- och hälsocertifiera sin förening får
 föreningen 50 kronor i extra bidrag och det alkohol- och drogförebyggande arbetet finns med som
 en del i hälsocertifieringen
-11.
+11\.
 För 2022 uppgick bidraget till 92 600 kr (463 medlemmar) och 2023 till 91 000 kr (455
 medlemmar). Föreningen fick samma år extra bidrag för att ha blivit hälsocertifierade. Detta
 bidrag uppgick 2022 till 23 150 kr och 2023 till 22 750 kr. Antalet medlemmar har legat i
@@ -4488,7 +4488,7 @@ Avgifter för att hyra kommunens lokaler | Kungsbacka kommun, hämtat 4 januari 
 
 Rapport till Kungsbacka kommun
 
-5.    Föreningens  interna regler
+5\.    Föreningens  interna regler
 
 5.1   Stadgar för Hanhals Idrottsförening
 Verksamhetsidé
@@ -4575,7 +4575,7 @@ föreningen, tränare, spelare och föräldrar tillsammans vara med och skapa en
 inkluderande och rättvis miljö”.
 
 Specifika direktiv finns sedan för samtliga ålderslag. För barn- och ungdomar (t.o.m. U16 div 1 &
-2) anges bl.a. att selektion/toppning inte tillämpas. Det finns dock undantag för vissa cuper och
+2\) anges bl.a. att selektion/toppning inte tillämpas. Det finns dock undantag för vissa cuper och
 20
 efter godkännande från Ungdomsrådet. Enligt direktiven ska möjlighet till merträning ges till
 alla medlemmar som själva vill, barnens egen vilja anges vara avgörande. Alla barn och ungdomar
@@ -4746,7 +4746,7 @@ selektionsprocesser och försök till talangidentifiering under uppväxtåren”
 
 Rapport till Kungsbacka kommun
 
-6.    Uppgifter om  missförhållanden  och överträdelser
+6\.    Uppgifter om  missförhållanden  och överträdelser
 
 Denna del syftar till att identifiera missförhållanden och eventuella överträdelser i förhållande till
 Föreningens stadgar, policy & sportsliga direktiv och barnkonventionen samt att ge

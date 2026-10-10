@@ -347,7 +347,7 @@ arbetet med digitalisering.
 
 Vid sammanträdet informerades också om välfärdsbrottslighet samt remissyttrandet
 över Trafikverkets inriktningsunderlag för infrastrukturplaneringen perioden 2026–
-2037.
+2037\.
 
 Vidare rapporterar ordföranden från Sveriges Kommuner och Regioner (SKR) och
 beredningen för digitalisering. Vid sammanträdet informerades det bland annat om

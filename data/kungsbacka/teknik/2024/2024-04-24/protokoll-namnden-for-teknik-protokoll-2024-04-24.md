@@ -457,41 +457,41 @@ Sammanfattning av ärendet
 Under perioden 13 mars - 16 april har följande skrivelser inkommit till nämnden för
 Teknik:
 
-- Beslut - 202300815 - KS - § 33
-- Riktlinjer för hantering av personuppgifter, antagna av KF 2024-03-05, § 33
+\- Beslut - 202300815 - KS - § 33
+\- Riktlinjer för hantering av personuppgifter, antagna av KF 2024-03-05, § 33
 
-- Gemensamt reglemente för kommunstyrelsen och nämnder, antaget av KF 2024-
+\- Gemensamt reglemente för kommunstyrelsen och nämnder, antaget av KF 2024-
 03-05, § 33
-- Beslut - 202200122 - KS - § 34
+\- Beslut - 202200122 - KS - § 34
 
-- Tjänsteskrivelse 2024-03-05 KF § 34
-- Taxa för publika laddstolpar, antagen av KF 2024-03-05, § 35
+\- Tjänsteskrivelse 2024-03-05 KF § 34
+\- Taxa för publika laddstolpar, antagen av KF 2024-03-05, § 35
 
-- Beslut § 35 - Taxa för laddning vid publika laddstolpar, KS-2023-00855
-- Tjänsteskrivelse - Taxa för laddning vid publika laddstolpar, KS-2023-00855
+\- Beslut § 35 - Taxa för laddning vid publika laddstolpar, KS-2023-00855
+\- Tjänsteskrivelse - Taxa för laddning vid publika laddstolpar, KS-2023-00855
 
-- Beslut § 24 - Inköpsrapport 2023, SE-2024-00081
+\- Beslut § 24 - Inköpsrapport 2023, SE-2024-00081
 
-- Inköpsrapport 2023, SE-2024-00081
-- Tjänsteskrivelse - Inköpsrapport 2023, SE-2024-00081
+\- Inköpsrapport 2023, SE-2024-00081
+\- Tjänsteskrivelse - Inköpsrapport 2023, SE-2024-00081
 
-- Beslut KS § 74-Uppföljning av intern kontroll 2023, KS-2022-00324
-- Tjänsteskrivelse - Uppföljning av intern kontroll 2023, KS-2022-00324
+\- Beslut KS § 74-Uppföljning av intern kontroll 2023, KS-2022-00324
+\- Tjänsteskrivelse - Uppföljning av intern kontroll 2023, KS-2022-00324
 
-- Uppföljningsrapport intern kontroll 2023, KS-2022-00324
-- Beslut - 202300506 - TEN - § 39
+\- Uppföljningsrapport intern kontroll 2023, KS-2022-00324
+\- Beslut - 202300506 - TEN - § 39
 
-- Besökare inom och mellan Kungsbacka och Mölndal
-- Lokaliseringsstudie Återvinningscentral Mölndal stad & Kungsbacka kommun,
+\- Besökare inom och mellan Kungsbacka och Mölndal
+\- Lokaliseringsstudie Återvinningscentral Mölndal stad & Kungsbacka kommun,
 2023-04-11
 
-- Tjänsteskrivelse Gemensam återvinningscentral mellan Mölndals stad och
+\- Tjänsteskrivelse Gemensam återvinningscentral mellan Mölndals stad och
 Kungsbacka kommun
-- Avtal - 2022-10-04 - Lokalisering - Återvinningscentral Mölndal stad &
+\- Avtal - 2022-10-04 - Lokalisering - Återvinningscentral Mölndal stad &
 
 Kungsbacka kommun
-- Gemensam återvinningscentral mellan Mölndals stad och Kungsbacka kommun
-SV_ 00506_2023
+\- Gemensam återvinningscentral mellan Mölndals stad och Kungsbacka kommun
+SV\_ 00506_2023
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C5D6EEB1ACDEA01B92E354EB28E34153458F07601F
@@ -504,17 +504,17 @@ Nämnden för Teknik
 Datum
 2024-04-24
 
-- Grundläggande granskning 2023 Kungsbacka, slutlig
-- Följebrev grundläggande granskning 2023 BN, FG, GA, IF, TE, MH, SE, VO,
+\- Grundläggande granskning 2023 Kungsbacka, slutlig
+\- Följebrev grundläggande granskning 2023 BN, FG, GA, IF, TE, MH, SE, VO,
 K&F, VL
 
-- Bro över jvg Inlagdleden
-- Skrivelse om VA-taxor för jordbruksfastigheter
+\- Bro över jvg Inlagdleden
+\- Skrivelse om VA-taxor för jordbruksfastigheter
 
-- Nollvisionen för förtroendevalda
+\- Nollvisionen för förtroendevalda
 
-- VB: Bro över jvg Inlagsleden, forts
-- Oacceptabelt beteende från färdtjänstens personal i Kungsbacka
+\- VB: Bro över jvg Inlagsleden, forts
+\- Oacceptabelt beteende från färdtjänstens personal i Kungsbacka
 
 Beslutsgång
 
@@ -539,7 +539,7 @@ Anmälan av delegeringsbeslut 2024
 Beslut
 
 Nämnden för Teknik noterar delegeringsbeslut fattade och rapporterade under mars
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Nämnden för Teknik har överlåtit sin beslutanderätt till utskott, ordförande och
@@ -577,8 +577,8 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Samrådsutskicket om den fördjupade översiktsplanen för Kungsbacka stad
--  Inventering av fettavskiljare i kommunen
+\-  Samrådsutskicket om den fördjupade översiktsplanen för Kungsbacka stad
+\-  Inventering av fettavskiljare i kommunen
 
 Beslutsgång
 

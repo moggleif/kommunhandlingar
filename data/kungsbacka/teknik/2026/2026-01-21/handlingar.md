@@ -798,12 +798,12 @@ Förslag till beslut i Kommunfullmäktige
 
 •  Nämnden för Teknik beslutar att anta förslag till ramar för 2027, enligt följande och skicka
 dessa vidare till Kommunfullmäktige för fastställelse, belopp i 2026 års prisnivå.
-* Skattefinansierad verksamhet 120 000 000 kr
+\* Skattefinansierad verksamhet 120 000 000 kr
 
-* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
-* Avfall och Återvinning 18 000 000kr
+\* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
+\* Avfall och Återvinning 18 000 000kr
 
-* Kungsbacka bredbandsnät 20 500 000 kr
+\* Kungsbacka bredbandsnät 20 500 000 kr
 
 •  Nämnden för Teknik beslutar att anta förslag till ramar för utgiftsområden för 2028-2031 med
 utblick mot 2032-2036 enligt följande och skickar dessa vidare till kommunfullmäktige för
@@ -823,7 +823,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (11)
 
-* När det gäller Vatten och Avlopp visar tabellen ovan den ram som signalerats att Teknik kommer att
+\* När det gäller Vatten och Avlopp visar tabellen ovan den ram som signalerats att Teknik kommer att
 få tillgång till. Det egentliga behovet är emellertid betydligt större, se tabell nedan. Behovet i tabellen
 nedan baseras på en planering där Tekniks investeringar i Vatten och Avlopp går i takt med
 Samhällsbyggnadskontorets exploateringsbudget och tillhörande tidplan. Denna tidplan speglar
@@ -840,7 +840,7 @@ Samhällsbyggnadskontoret men drivs som ett kommunövergripande arbete.
 | Investeringar<br>(TSEK)<br>(prisnivå 2026) | 2027 | 2028 | 2029 | 2030 | 2031 | 2032-2036 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Skattefinansierad<br>verksamhet | 120 000 | 120 000 | 120 000 | 120 000 | 120 000 | 600 000 |
-| Vatten och<br>Avlopp, summa<br>nettokostnad<br>Exkl FAR | 350 000 | 350 000* | 350 000* | 350 000* | 350 000* | 1 750 000* |
+| Vatten och<br>Avlopp, summa<br>nettokostnad<br>Exkl FAR | 350 000 | 350 000\* | 350 000\* | 350 000\* | 350 000\* | 1 750 000\* |
 | Framtidens<br>avloppsrening<br>(FAR) | 521 850 | 283 060 | 113 390 | 8000 | 0 | 0 |
 | Avfall och<br>återvinning,<br>summa<br>nettokostnad | 18 000 | 24 000 | 54 000 | 44 000 | 28 000 | 100 000 |
 | Bredband,<br>summa<br>nettokostnad | 20 500 | 21 300 | 18 000 | 17 500 | 17 850 | 98 300 |
@@ -919,7 +919,7 @@ inom dagens investeringsramar är inte möjligt.
 
 Åtgärd som är identifierad men inte medtagen i investeringsplanen på grund av att den är mycket
 osäker i tid och kostnad är:
--  Ombyggnation av dagens Onsalaväg inför att den övergår till kommunalt ansvar
+\-  Ombyggnation av dagens Onsalaväg inför att den övergår till kommunalt ansvar
 
 Att genomföra de flesta av de större projekten skulle medföra att flertalet andra projekt och åtgärder
 behöver prioriteras bort. Förvaltningen arbetar med att utföra trafikanalyser över hur stora
@@ -1046,7 +1046,7 @@ KUNGSBACKA  KOMMUN
 •  Exploatering
 
 I portfölj Teknik ingår olika fordon m.m, inköp av bodar och utbyte av befintlig spolbil till ny år
-2028. Material för att skapa säker arbetsmiljö i trafikerad miljö sk. tung avstängning hanteras också
+2028\. Material för att skapa säker arbetsmiljö i trafikerad miljö sk. tung avstängning hanteras också
 inom detta konto.
 
 I portfölj Vattenproduktion ingår ombyggnad av vattenverket i Fjärås och renoveringar av
@@ -1696,17 +1696,17 @@ kungsbacka.se
 <!-- sida 44 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................ 3
+1\. Inledande bestämmelser ........................................................................................ 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ....................... 3
 1.2 Avgiftsskyldighet och avgiftsprinciper ............................................................ 3
 
 1.3 Ägarbyte ................................................................................................................ 4
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ................................................................................................... 4
+2\. Beräkningsgrunder ................................................................................................... 4
 
-3. Mervärdesskatt ......................................................................................................... 4
-4. Avgiftsbelopp/taxetabell ........................................................................................ 5
+3\. Mervärdesskatt ......................................................................................................... 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................ 5
 
 4.1 Allmän information ............................................................................................. 5
 4.2 Abonnemangsformer ......................................................................................... 5
@@ -1720,14 +1720,14 @@ Innehåll
 4.7 Slamsugning och tömning av fettavskiljare................................................. 26
 4.9 Särskilda avgifter ............................................................................................. 27
 
-5. Indexjustering av avgiftsbelopp ....................................................................... 28
-6. Delegering av beslut om justering efter index .............................................. 28
+5\. Indexjustering av avgiftsbelopp ....................................................................... 28
+6\. Delegering av beslut om justering efter index .............................................. 28
 
 Kungsbacka kommun         Avfallstaxa 2026                   2
 
 <!-- sida 45 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 
@@ -1795,7 +1795,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -1829,7 +1829,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -1837,7 +1837,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   4
 
 <!-- sida 47 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -1908,7 +1908,7 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 4.3.2 Avgifter för delårsabonnemang
 
@@ -1919,7 +1919,7 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                   7
 
@@ -1938,7 +1938,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   7
 | 190 liter | Varannan vecka, helår | 3 485 | 3 485 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 470 |
 | 370 liter | Varannan vecka, helår | 5 355 | 5 355 |
-| 660 liter* | Varannan vecka, helår | 13 825 | 13 825 |
+| 660 liter\* | Varannan vecka, helår | 13 825 | 13 825 |
 
 [Tabell 49-3](handlingar.tabeller/49-3.csv)
 
@@ -1955,7 +1955,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   7
 | 190 liter | Varannan vecka, delår | 1 745 | 1 745 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 235 |
 | 370 liter | Varannan vecka, delår | 2 680 | 2 680 |
-| 660 liter* | Varannan vecka, delår | 6 915 | 6 915 |
+| 660 liter\* | Varannan vecka, delår | 6 915 | 6 915 |
 
 <!-- sida 50 -->
 
@@ -2026,7 +2026,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -2054,7 +2054,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   9
 
 [Tabell 51-2](handlingar.tabeller/51-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -2438,7 +2438,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -2466,7 +2466,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   17
 
 [Tabell 59-2](handlingar.tabeller/59-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -2631,7 +2631,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -2651,7 +2651,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 105 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 150 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 609 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning * | 7 105 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 105 |
 
 <!-- sida 64 -->
 
@@ -2672,8 +2672,8 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2026                   22
 
@@ -2695,8 +2695,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   22
 | Gips | 2 568 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 574 |
 | Metall | 359 |
-| Mineral* | 2 961 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 568 |
+| Mineral\* | 2 961 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 568 |
 | Planglas | 2 690 |
 | Plast (inkl. eftersortering) | 2 773 |
 | Tryckimpregnerat trä/slipers | 2 393 |
@@ -2715,8 +2715,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -2746,8 +2746,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   23
 | Gips | 1 027 |
 | Kablar (ej farligt avfall) | 1 027 |
 | Metall | 180 |
-| Mineral* | 2 964 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 054 |
+| Mineral\* | 2 964 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 054 |
 | Planglas | 1 541 |
 | Plast | 1 027 |
 | Tryckimpregnerat trä/slipers | 1 197 |
@@ -2836,7 +2836,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   25
 4.7 Slamsugning och tömning av fettavskiljare
 Avgifter, i kronor, per tömning av enskild avloppsanläggning, fettavskiljare och byggtoalett
 
-*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
+\*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
 schemalagd tömning där tilläggsavgiften är 350 kr per kubikmeter.
 
 Kungsbacka kommun         Avfallstaxa 2026                   26
@@ -2850,18 +2850,18 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
 | Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
 | Anläggning mindre än 2 kubikmeter | 1 770 |
-| Anläggning 2–4 kubikmeter* | 2 555 |
+| Anläggning 2–4 kubikmeter\* | 2 555 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 8 500 |
-| Anläggning 2–4 kubikmeter* | 9 100 |
+| Anläggning 2–4 kubikmeter\* | 9 100 |
 | Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
-| Anläggning 2–4 kubikmeter* | 6 090 |
+| Anläggning 2–4 kubikmeter\* | 6 090 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
 | Akut tömning<br>Utförs inom 4 timmar |  |
 | Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter* | 11 110 |
+| Anläggning 2–4 kubikmeter\* | 11 110 |
 
 <!-- sida 69 -->
 
@@ -2914,7 +2914,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 
 <!-- sida 70 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Taxan avseende tjänster som utförs av auktoriserade entreprenörer, den så kallade maxtaxan,
 justeras årligen i enlighet med förändringen av avfallsindex med basmånad januari och
@@ -2925,7 +2925,7 @@ avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller föl
 4.4.4.10 Returpapper
 4.4.4.11 Förpackningsavfall
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för Teknik ansvarar för att årligen räkna om beloppen i taxan.
 
 Kungsbacka kommun         Avfallstaxa 2026                   28

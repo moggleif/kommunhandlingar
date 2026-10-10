@@ -3469,25 +3469,25 @@ kommun.
 Den kommungemensamma informationshanteringsplanen för ledningsprocesserna omfattar
 verksamhetsområdena:
 
--  ledning av kommunal myndighet
--  styrning
--  organisering och utveckling
--  demokrati och insyn.
+\-  ledning av kommunal myndighet
+\-  styrning
+\-  organisering och utveckling
+\-  demokrati och insyn.
 Den kommungemensamma informationshanteringsplanen för stödprocesserna omfattar
 
 verksamhetsområdena:
--  samordnat verksamhetsstöd
--  informationsförvaltning
--  systemförvaltning och arkitektur
--  HR/personal
--  ekonomi
--  inköp
+\-  samordnat verksamhetsstöd
+\-  informationsförvaltning
+\-  systemförvaltning och arkitektur
+\-  HR/personal
+\-  ekonomi
+\-  inköp
 
--  lokalförsörjning
--  inventariehantering
--  kris och säkerhet
--  information och marknadsföring
--  förvaltningsstöd
+\-  lokalförsörjning
+\-  inventariehantering
+\-  kris och säkerhet
+\-  information och marknadsföring
+\-  förvaltningsstöd
 Kommunstyrelsen äger också ett antal kärnprocesser. Detta är processer där kommunstyrelsen är
 
 utförare av en verksamhet, vilket omfattar verksamhetsområdena:
@@ -3497,12 +3497,12 @@ utförare av en verksamhet, vilket omfattar verksamhetsområdena:
 KUNGSBACKA  KOMMUN
 3 (3)
 
--  bedriva näringsliv
--  infrastruktur och samhällsskydd
+\-  bedriva näringsliv
+\-  infrastruktur och samhällsskydd
 
--  fysisk planering
--  hantera mark och exploatering
--  borglig vigsel
+\-  fysisk planering
+\-  hantera mark och exploatering
+\-  borglig vigsel
 
 Anders Johansson                   Sofia Jonsson
 
@@ -4851,7 +4851,7 @@ Informationshanteringsplan                      Sida 77 av 126
 
 | Motta Inbetalningar<br>från kundfakturor | ISO20022 fil med<br>inbetalningar kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro sparas<br>för:<br>Raindance BG: P:\DFiles\Inbetalningar\BG<br>Inbetalningar<br>Raindance AG:<br>P:\DFiles\Inbetalningar\AG_Inbetalningar Future:<br>P:\EDP Future Filer\BGFiler\Inlästa och P:\EDP<br>Future Filer\AGFiler\BG autogiro\Inlästa |
 | --- | --- | --- | --- | --- | --- |
-|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
+|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera utbetalning<br>från Kundreskontran<br>Raindance | Utbetalningsfil till<br>Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | I systemet. Går inte att exportera |
@@ -4961,7 +4961,7 @@ Informationshanteringsplan                      Sida 84 av 126
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -5004,7 +5004,7 @@ Informationshanteringsplan                      Sida 87 av 126
 
 | Fakturera internt | Internfakturor | Se anmärkning | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
-| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
@@ -5134,8 +5134,8 @@ Informationshanteringsplan                      Sida 95 av 126
 |  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 263 -->
 
@@ -7093,7 +7093,7 @@ Informationshanteringsplan                      Sida 82 av 127
 |  | Fakturafiler från Proceedo<br>till Raindance | Se<br>anmärkning. | Digitalt | 2 år | P:\DFiles\Proceedo\Arkiv<br>Avser A, B och C-filer |
 |  | Kvitton | Se<br>anmärkning. | Papper | Se anmärkning. | Originalkvitton som är underlag för ej specificerade<br>fakturor och där kvittot har scannats in till fakturan i<br>Proceedo arkiveras på respektive enhet och får<br>gallras efter 3 år<br>Originalkvitton som är underlag för ej specificerade<br>fakturor arkiveras på respektive enhet, samt med<br>hänvisning till order/fakturanumret och får gallras<br>efter 7 år. Originalkvitton, som är underlag för ej<br>specificerade fakturor, skannas och bifogas till<br>fakturan i e-handelssystemet. Originalkvittot kan<br>slängas när det finns bifogat. |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se<br>anmärkning. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
-|  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank<br>SUS: P:\DFiles\ Su\Arkiv Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS: |
+|  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank<br>SUS: P:\DFiles\ Su\Arkiv Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS: |
 
 <!-- sida 376 -->
 
@@ -7141,7 +7141,7 @@ Informationshanteringsplan                      Sida 85 av 127
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anmärkning. | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut Fram till och med<br>delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anmärkning. | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut Fram till och med<br>delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -7186,7 +7186,7 @@ Informationshanteringsplan                      Sida 88 av 127
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning. | Se<br>anmärkning. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
@@ -7316,8 +7316,8 @@ Informationshanteringsplan                      Sida 96 av 127
 
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
 | --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 390 -->
 
@@ -9179,7 +9179,7 @@ Informationshanteringsplan                      Sida 75 av 118
 |  |  |  |  |  | hänvisning till order/fakturanumret och får gallras<br>efter 7 år. |
 | --- | --- | --- | --- | --- | --- |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se anm. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
-|  | Utbetalningsfil till<br>BGC/Swedbank | Se anm. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\ Su\Arkiv |
+|  | Utbetalningsfil till<br>BGC/Swedbank | Se anm. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\ Su\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | Utbetalningsjournal skapas i Raindance för alla<br>utbetalningssätten och arkiveras på<br>P:\DFiles\Arkiv\LR\Utbet_journal |
 |  | Återredovisade<br>leverantörsbetalningar | Se anm. | Digitalt | 7 år | Fil från BGC som avser utbetalda<br>leverantörsbetalningar.<br>P:\DFiles\Bg\Kvittens_levbet\Arkiv_kvittens_levbet<br>. |
 |  | Återredovisade<br>leverantörsbetalningar från<br>Raindance till Proceedo | Se anm. | Digitalt | 2 år | P:\DFiles\Arkiv\LR\Aterrapp_betaldag |
@@ -9229,7 +9229,7 @@ Informationshanteringsplan                      Sida 78 av 118
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anm. | Digitalt | Bevaras | Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anm. | Digitalt | Bevaras | Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -9265,7 +9265,7 @@ Informationshanteringsplan                      Sida 80 av 118
 |  |  |  |  |  | finansiella tillgångar och skulder och Offentligt<br>ägda företag.<br>Arkiveras: Samarbetsrum/KSF Ekonomi<br>KLK/8 Statistik |
 | --- | --- | --- | --- | --- | --- |
 | Fakturera internt | Internfakturor | Se anm. | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
-| Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anm. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anm. | Se anm. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anm. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga. |
@@ -9399,8 +9399,8 @@ Informationshanteringsplan                      Sida 89 av 118
 
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
 | --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 510 -->
 
@@ -10128,7 +10128,7 @@ dal
 
 7.1
 
-204)
+204\)
 
 Vederlag för upplåtelsen ska utgå med ett engångsbelopp som utgör ersättning för hela
 avtalsförhållandet (inklusive förlängningsperioder). Fastighetsägaren ska erlägga 175 000
@@ -10188,14 +10188,14 @@ Fastigehsägaren rätt att ensidigt häva Avtalet.
 <!-- sida 543 -->
 
 3(4)
-8. Avtalets giltighet
+8\. Avtalets giltighet
 8.1 Förutsättningar för Avtalets giltighet är att vilkoren nedan är uppfyllda:
 
 a) Kommunstyrelsen i Kungsbacka kommun godkänner Avtalet genom beslut som vinner
 laga kraft.
 
 b) Bygglov beviljas för Centralen 3.
-9. Tvist
+9\. Tvist
 
 9.1 Tvist rörande tolkning av Avtalet ska hänskjutas till allmän domstol
 
@@ -10385,10 +10385,10 @@ Under åren 2021–2024 har Samhällsbyggnadskontoret tagit fram och
 byggnadsnämnden antagit sammanlagt 15 detaljplaner som har haft gemensamt att
 de är av enklare karaktär. Den här projektbeställningen gäller uppstart av ytterligare
 tre detaljplaner som har bedömts som lämpliga att samordna:
-- Del av detaljplan S21A för Malevik 1:39
+\- Del av detaljplan S21A för Malevik 1:39
 
-- Detaljplan S53 för Släps-Högås 1:25 m.fl.
-- Del av detaljplan K35 och T16 inom Spoven 1.
+\- Detaljplan S53 för Släps-Högås 1:25 m.fl.
+\- Del av detaljplan K35 och T16 inom Spoven 1.
 
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2025-03-12
@@ -11016,7 +11016,7 @@ Begära     planbesked
 
 Ärendenummer: #175728 | Inskickat av: | 2024-12-16 17:47
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -11031,7 +11031,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -11055,7 +11055,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -11081,7 +11081,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -11093,7 +11093,7 @@ Ja
 
 Beskrivning
 
-Anso&#776;kan om planbesked fo&#776;r fastigheten Buka&#776;rr 3 86.pdf (7,7 MB)
+Anso\&#776;kan om planbesked fo\&#776;r fastigheten Buka\&#776;rr 3 86.pdf (7,7 MB)
 Illustrationsplan 2024-10-08.pdf (177 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
@@ -11352,7 +11352,7 @@ Transaktionsidentitet: C989A9482F101F05472FB3013224177DD38AD939D0
 12-11-4202
 –
 823
-$
+\$
 UA
 –
 
@@ -11363,7 +11363,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-11-21
 
-11. Fastigheten är belägen inom riksintresse för rörligt friluftsliv och högexploaterad
+11\. Fastigheten är belägen inom riksintresse för rörligt friluftsliv och högexploaterad
 kust. Fastigheten är enligt Kommunens kartunderlag belägen inom område för
 förutsättningar för skred.
 
@@ -11895,17 +11895,17 @@ Du kan välja att bifoga en situationskarta med tydliga markeringar istället f�
 fastigheten eller fastigheterna på denna kartan.
 
 SINE a
-> 9
+\> 9
 Fal + å
 
-Ve AA Öh å CI WyA $ od 3 /
+Ve AA Öh å CI WyA \$ od 3 /
 | Ape, be X ) . | =S NN SYTFPIRE ES : Kärret ="
 RA
 
 | AREA OS RR Så 3
 
 | Aa £öpantTK ny dRNÄRRRÖK LS
-+ . QQ HA:
+\+ . QQ HA:
 
 jen + EN GA =
 
@@ -12100,8 +12100,8 @@ exploatering med verksamheter kan genomföras utan att
 korsningarnas servicenivå överstigs. Därtill finns en
 felmarginal till följd av den delvis dubbelräknade
 trafikökningen.
-+ nytt verksamhetsområde 0,1
-+ nytt verksamhets- 0,46
+\+ nytt verksamhetsområde 0,1
+\+ nytt verksamhets- 0,46
 område
 27
 0,15
@@ -12183,7 +12183,7 @@ ina@cedasakustik.se
 
 Trafikbullerutredning
 2024-12-18
-|
+\|
 Bångsbo
 4:1,
 Kullavik
@@ -12241,7 +12241,7 @@ ina@cedasakustik.se
 
 Trafikbullerutredning
 2024-12-18
-|
+\|
 Bångsbo
 4:1,
 Kullavik
@@ -12250,16 +12250,16 @@ Nedan följer kortfattat vad som står i Förordning (2015:216) om trafikbuller 
 bostadsbyggnader med ändringar tom SFS 2017:359.
 Buller från spårtrafik och vägar
 3 § Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan
 ska anordnas i anslutning till byggnaden.
 För en bostad om högst 35 kvadratmeter gäller i stället för vad som anges i första
 stycket 1 att bullret inte bör överskrida 65 dBA ekvivalent ljudnivå vid
 bostadsbyggnadens fasad.
 4 § Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör
-1. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
+1\. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
 ekvivalent ljudnivå inte överskrids vid fasaden, och
-2. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
+2\. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
 inte överskrids mellan kl. 22.00 och 06.00 vid fasaden.
 Definition uteplats enligt Boverket:
 innebär att uteplatsen eller uteplatserna är direkt hänförliga till byggnadsverket eller
@@ -12308,7 +12308,7 @@ ina@cedasakustik.se
 
 Trafikbullerutredning
 2024-12-18
-|
+\|
 Bångsbo
 4:1,
 Kullavik
@@ -12384,7 +12384,7 @@ www.cedasakustik.se
 
 Vv ST ag a pa
 BA ETT | —-
-- o0-€e
+\- o0-€e
 
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
@@ -12486,7 +12486,7 @@ i
 Ja—
 4
 — —— N
-> z
+\> z
 
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
@@ -12819,7 +12819,7 @@ småskalig bebyggelse.
 
 mm
 
-1)
+1\)
 
 <!-- sida 630 -->
 
@@ -13004,18 +13004,18 @@ Reducerat effektbehov med 5090
 Tillsammans med ICA Kvantum Hovås skapades Sveriges mest
 energieffektiva ICA-butik. För att nå dit gjordes fyra avgörande åtgärder.
 
-1. Installation av ett koldioxidbaserat kyl- och fryssystem, det första i
+1\. Installation av ett koldioxidbaserat kyl- och fryssystem, det första i
 Sverige. Detta har visat sig minska energianvändningen med ca 25204.
 
-2. Byggnation av en bergvärmeanläggning med totalt 20 borrhål som är
+2\. Byggnation av en bergvärmeanläggning med totalt 20 borrhål som är
 borrade 200 meter ner i marken. All överskottsvärme från ICA:s kylar och
 frysar kopplades därefter ihop med bergvärmesystemet vilket har gett en
 ytterligare energibesparing på ca 2096.
 
-3. Installation av en värmeväxlare som skapar fritt varmvatten i byggnaden
+3\. Installation av en värmeväxlare som skapar fritt varmvatten i byggnaden
 vilket gjorde att vi sammantaget minskade energiåtgången.
 
-4. Montage av en solcellsanläggning på 220 kW som försörjer stora delar av
+4\. Montage av en solcellsanläggning på 220 kW som försörjer stora delar av
 butikens resterande energiförbrukning när solen skiner!
 
 Sammantaget gjorde detta att vi minskade energiåtgången med ca 5096 mot
@@ -13363,7 +13363,7 @@ Begära     planbesked
 
 Ärendenummer: #176473 | Inskickat av:          | 2024-12-20 09:25
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -13378,7 +13378,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -13403,7 +13403,7 @@ Utdelningsadress                  Postnummer
 Postort                           Telefon
 
 E-postadress                      Eventuell fakturareferens
--
+\-
 
 Företagets kontaktperson
 
@@ -13415,7 +13415,7 @@ Telefon                           E-postadress
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -13448,7 +13448,7 @@ Bostäder
 Kontor
 Skola och Idrottshall
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -13467,7 +13467,7 @@ Ja
 
 Beskrivning
 
-Hede_ 1_53_ansökan om planbesked.pdf (5,09 MB)
+Hede\_ 1_53_ansökan om planbesked.pdf (5,09 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -13487,7 +13487,7 @@ FÖRSLAGSHANDLING            / ANSÖKAN      OM   PLANBESKED       /  2024.12.02
 "kungsbacka"
 Ärendenummer: #176473 | Datum: 2024-12-20 09:25                                                                                                          Bilaga 1 sida 1 av 6
 
-1. Kungsbacka
+1\. Kungsbacka
 
 https://kartor.eniro.se/print?profile=se&dname=eniro.se                                                                   1/1
 
@@ -13497,7 +13497,7 @@ HEDE 1:53 / FÖRSLAGSHANDLING  /PLANBESKED
 
 FÖRUTSÄTTNINGAR           FÖR   NY   SKOLA
 
-skolans placering i staden                                         STRATEGIKARTA*                                 HUVUDNÄT, GÅNG- OCH CYKEL
+skolans placering i staden                                         STRATEGIKARTA\*                                 HUVUDNÄT, GÅNG- OCH CYKEL
 Föreslagen utveckling av fastigheten Hede
 1:53 utgår ifrån stadens ambitioner om
 PENDELCYKELSTRÅK
@@ -13511,7 +13511,7 @@ en blandad markanvändning. Utöver att den
 befintliga kontorsbyggnaden byggs om till
 grundskola och förskola, så kompletteras
 den med program av både privat och publik
-GÅNG/CYKEL*
+GÅNG/CYKEL\*
 karaktär, där mötesplatser, verksamheter och
 eventuella bostäder ger olika synergieffekter.                                                                    GÅNG- OCH CYKELSTRÅK MED
 Fastigheten ligger i närhet till en stor andel                                                                    GRÖNA UPPLEVELSER
@@ -13528,7 +13528,7 @@ lokaltrafik mellan två tågstationer samtidigt                                 
 som tomten ligger som en hörnfastighet
 mellan det vanliga cykel och gångstråket
 och det, i översiktsplanen, identifierade
-cykelpendelstråket.                                                            GRÖNA STRUKTURER*
+cykelpendelstråket.                                                            GRÖNA STRUKTURER\*
 Detta ger trygga vägar till skolan och minskar
 KOMPLETTERAT OMRÅDE
 behovet av bilanvändning vid hämtning och
@@ -13546,9 +13546,9 @@ föreningar, kulturskolan eller privata aktörer.
 Skolgårdens lekytor utformas för att
 ha en fördröjande roll i fastighetens
 dagvattenhantering.
-Dessa samlade multifunktionella program ger                                    BOSTADSOMRÅDEN,SERVICE*
+Dessa samlade multifunktionella program ger                                    BOSTADSOMRÅDEN,SERVICE\*
 en hållbar struktur ur ekonomiska, ekologiska
-och socila aspekter.              *ILLUSTRATIONER FRÅN KUNGSBACKA - FÖRDJUPAD ÖVERSIKTSPLAN FÖR STADEN
+och socila aspekter.              \*ILLUSTRATIONER FRÅN KUNGSBACKA - FÖRDJUPAD ÖVERSIKTSPLAN FÖR STADEN
 PROJ.NR.2247B/SJ/NÅ              2024.12.02
 Ärendenummer: #176473 | Datum: 2024-12-20 09:25                                                                                                          Bilaga 1 sida 2 av 6
 
@@ -13655,7 +13655,7 @@ HEDE 1:53 / FÖRSLAGSHANDLING  /PLANBESKED
 
 FRIYTOR     SKOLA     &  FÖRSKOLA
 
-ANTAL   BARN       FRIYTA   I SKISS        STYRANDE     DOKUMENT*
+ANTAL   BARN       FRIYTA   I SKISS        STYRANDE     DOKUMENT\*
 
 ```osaker-tabell
 FÖRSKOLA           96                  2910                    2880
@@ -13883,7 +13883,7 @@ angränsar området till klipporna och havet.
 Gällande detaljplan
 
 Fastigheterna är belägna inom två detaljplaner: Ö22 och Ö35, som fick laga kraft 1951 respektive
-1957. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för barnkoloni i en
+1957\. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för barnkoloni i en
 respektive två våningar.
 I plankartan för detaljplan Ö22 finns ett område inom allmän plats som möjliggör en passage för
 gående mellan Elevvägen och Krokviksvägen. Denna möjliga passage ligger delvis inom Åsa 5:3 som
@@ -13966,7 +13966,7 @@ Begära     planbesked
 
 Ärendenummer: #163084 | Inskickat av: Erik Marcus Andersson | 2024-12-19 14:50
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -13981,7 +13981,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -14017,7 +14017,7 @@ Telefon                           E-postadress
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -14054,7 +14054,7 @@ Vad beskriver bäst din begäran?
 
 Skola och tillfällig vistelse.
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -14157,7 +14157,7 @@ G
 N
 S
 G
--
+\-
 AR
 Krokviksvägen
 5:104                       N
@@ -14383,7 +14383,7 @@ Nämnden för överförmyndare i samverkan
 
 Löner är uppräknade med cirka tre procent för 2026. Vi vet ännu inte hur avtalen kommer att
 se ut och vad löneökningar kommer att bli. År 2026 minskar PO-tillägget jämfört med budget
-2025. Totalt innebär detta att budgeten för löner och personalomkostnader i stort är
+2025\. Totalt innebär detta att budgeten för löner och personalomkostnader i stort är
 oförändrad sedan 2025.
 Budgeten för övriga kostnader är oförändrad sedan 2025. I övriga kostnader ingår kostnaden
 för nödvändig intern hjälp (OH), så som ekonomi och ekonomiadministration,
@@ -14488,7 +14488,7 @@ avtalen kommer att se ut och vad löneökningar kommer att bli. År 2026
 
 minskar PO-tillägget jämfört med budget 2025. Totalt innebär detta att
 budgeten för löner och personalomkostnader i stort är oförändrad sedan
-2025.
+2025\.
 
 Budgeten för övriga kostnader är oförändrad sedan 2025. I övriga kostnader
 ingår kostnaden för nödvändig intern hjälp (OH), så som ekonomi och
@@ -14631,7 +14631,7 @@ kommunala planer och fokusera på mellankommunala och mellanregionala utmaningar
 möjligheter.
 Planens målområden med underliggande strategier är:
 
-1. En tillgänglig, inkluderande och sammanhållen region
+1\. En tillgänglig, inkluderande och sammanhållen region
 − Stärk tillgängligheten i det nationellt viktiga Västkuststråket
 
 − Stärk tillgängligheten mellan tillväxtmotorerna och de regionala kärnorna i öst-västlig riktning
@@ -14642,13 +14642,13 @@ Planens målområden med underliggande strategier är:
 − Stärk och utveckla elnätskapaciteten och energisystemet
 − Stärk och utveckla den digitala infrastrukturen i samhällsplaneringen
 
-2. En flerkärnig region med attraktiva och hållbara livsmiljöer
+2\. En flerkärnig region med attraktiva och hållbara livsmiljöer
 − Kollektivtrafikorienterad bebyggelseplanering för ett hållbart och växande Halland
 
 − Platsutveckling för attraktiva livsmiljöer i stads- och landsbygd
 
 − Stärk de fysiska förutsättningarna för det halländska näringslivet
-3. En robust och resilient region
+3\. En robust och resilient region
 
 − Utveckla och bevara naturresurser för ett attraktivt Halland
 − Beredskap för ett förändrat klimat
@@ -15745,7 +15745,7 @@ Militärstrategiskt viktiga områden i händelse av en säkerhetspolitisk kris
 eller krig med störst risk för ett väpnat angrepp. Geografiska områden
 som utgörs huvudsakligen av transportnoder. Till exempel:
 
--  Hamnar
+\-  Hamnar
 
 6 Fö 2024-01362 ”Uppdrag till MSB och länsstyrelserna att göra en övergripande planering
 av skyddsåtgärderna som stärker skyddet av civilbefolkningen”
@@ -15756,7 +15756,7 @@ av skyddsåtgärderna som stärker skyddet av civilbefolkningen”
 
 Regional strategi för storskalig utrymning och mottagning i Hallands län
 
--  Flygplatser
+\-  Flygplatser
 
 Kategori 2
 Militärstrategiskt viktiga områden i händelse av en säkerhetspolitisk kris
@@ -15765,7 +15765,7 @@ eller krig med stor risk för ett väpnat angrepp. Områden som är viktiga
 bas- och koncentreringsområden för Försvarsmakten (ej transportnoder).
 Till exempel:
 
--  Lokaler för det militära försvaret (garnisonområden)
+\-  Lokaler för det militära försvaret (garnisonområden)
 
 Kategori 3
 
@@ -15775,18 +15775,18 @@ för ett väpnat angrepp. Geografiska områden som innehar samhällsviktig
 verksamhet som är av stor nationell betydelse för Sveriges försörjning
 och funktionalitet. Till exempel:
 
--  Viktiga producenter och noder för nationell el- och
+\-  Viktiga producenter och noder för nationell el- och
 energiförsörjning
 
--  Livsmedelsproduktion av nationell betydelse. Antingen
+\-  Livsmedelsproduktion av nationell betydelse. Antingen
 storproducent av viktigt livsmedel eller en av få producenter av
 viktigt livsmedel.
 
--  Stora lager av drivmedel
+\-  Stora lager av drivmedel
 
--  Viktig tillverkning av sjukvårdsutrustning och läkemedel.
+\-  Viktig tillverkning av sjukvårdsutrustning och läkemedel.
 
--  Sårbara noder längs nationellt viktig infrastruktur.
+\-  Sårbara noder längs nationellt viktig infrastruktur.
 
 18
 
@@ -16297,17 +16297,17 @@ utrymning. Processen beskrivs i fem steg och avser hanteringen i
 Länsstyrelsens kris-/krigsorganisation. Denna process bör i grunden se
 likadan ut oavsett händelse i fredstid eller krig.
 
-1. Fastställ beslutsmandat
+1\. Fastställ beslutsmandat
 
-2. Sammanställ lägesbild för
+2\. Sammanställ lägesbild för
 utrymning
 
-3. Inriktning och samordning
+3\. Inriktning och samordning
 
-4. Författa beslutsunderlag och
+4\. Författa beslutsunderlag och
 besluta
 
-5. Genomförande
+5\. Genomförande
 
 30
 
@@ -16467,37 +16467,37 @@ Regional strategi för storskalig utrymning och mottagning i Hallands län
 UNDERLAG TILL GRUND FÖR FRAMTAGANDET  AV
 STRATEGIN
 
-- Delplan Utrymning, 4783-2022, Länsstyrelsen i Halland.
+\- Delplan Utrymning, 4783-2022, Länsstyrelsen i Halland.
 
-- Storskalig utrymning Del 1 – grunder i planering, Myndigheten för
+\- Storskalig utrymning Del 1 – grunder i planering, Myndigheten för
 samhällsskydd och beredskap (MBS), ISBN 978-91-7927-287-6.
 
-- Aktörsgemensam kriskommunikation, Myndigheten för
+\- Aktörsgemensam kriskommunikation, Myndigheten för
 
 samhällsskydd och beredskap (MBS) inom ramen för
 vidareutvecklingen av Gemensamma grunder.
 
-- Förstudie storskalig utrymning Länsstyrelsen Stockholm, Combitech,
+\- Förstudie storskalig utrymning Länsstyrelsen Stockholm, Combitech,
 dnr 59079.
 
-- Typfall för värdlandsstöd. Typfall VLS3: Värdlandsstöd som en av flera
+\- Typfall för värdlandsstöd. Typfall VLS3: Värdlandsstöd som en av flera
 
 prioriterade uppgifter i en krigssituation. Rapportnummer: FOI
 Memo 8149 2023-03-28.
 
-- Utvärderingsrapport från utrymningsövning Tryggve, Combitech,
+\- Utvärderingsrapport från utrymningsövning Tryggve, Combitech,
 455-6940-2024.
 
-- Halländsk riktlinje för arbete med trygghetspunkter, 457-877-2023.
+\- Halländsk riktlinje för arbete med trygghetspunkter, 457-877-2023.
 
-- Gender and evacuation: A closer look at why women are more likely
+\- Gender and evacuation: A closer look at why women are more likely
 to evacuate for hurricanes. 2001. Julie. M Bateman. Natural Hazard
 Review vol. 3.
 
-- 1 Bygg om eller bygg nytt. Kapitel 9 Jämställdhet. Version 2021-04-01.
+\- 1 Bygg om eller bygg nytt. Kapitel 9 Jämställdhet. Version 2021-04-01.
 Trafikverket.
 
-- Internt arbete kopplat till organisation och ledning.
+\- Internt arbete kopplat till organisation och ledning.
 
 34
 
@@ -16583,7 +16583,7 @@ Tabell 3 En checklista med vilka funktioner en mottagningsplats bör ha med
 beskrivning.
 
 14 Halländsk riktlinje för arbetet med trygghetspunkter, bilaga 4, diarienummer 457-877-
-2023.
+2023\.
 
 37
 
@@ -17507,20 +17507,20 @@ Skapandet av ett författningsstöd som möjliggör flexibel samverkan för olik
 
 områden, anpassat efter specifika behov och förutsättningar, vilket bland annat
 inkluderar:
-- Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för
+\- Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för
 obligatoriska avgifter, antingen genom att fastighetsägare initierar avgiften eller att
 kommunen inför en kommunal avgift.
 
-- Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de
+\- Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de
 är rimliga. De ska också ha insyn i hur avgifterna förvaltas.
-- Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan
+\- Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan
 
 delta frivilligt i samverkan.
-- Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
+\- Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
 
-- Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
+\- Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
 trygghetsskapande åtgärder i byggd miljö.
-- Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
+\- Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
 fastighetsägare och säkerställa bättre förvaltning.
 
 Det här dokumentet är digitalt signerat
@@ -17730,16 +17730,16 @@ föreslås regeringen besluta om:
 
 Skapandet av ett författningsstöd som möjliggör flexibel samverkan för olika områden, anpassat efter
 specifika behov och förutsättningar, vilket bland annat inkluderar:
--  Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för obligatoriska
+\-  Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för obligatoriska
 
 avgifter, antingen genom att fastighetsägare initierar avgiften eller att kommunen inför en
 kommunal avgift.
--  Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de är rimliga.
+\-  Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de är rimliga.
 De ska också ha insyn i hur avgifterna förvaltas.
 
--  Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan delta
+\-  Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan delta
 frivilligt i samverkan.
--  Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
+\-  Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
 
 1 (2)
 Förvaltningen för Kultur & Fritid                         Kungsbacka kommun
@@ -17755,10 +17755,10 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
+\-  Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
 
 trygghetsskapande åtgärder i byggd miljö.
--  Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
+\-  Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
 fastighetsägare och säkerställa bättre förvaltning.
 
 Förslaget väntas ger nya möjligheter att skapa hållbara samarbeten för trygghet och säkerhet samt
@@ -17878,7 +17878,7 @@ miljökvalitetsnormer tas fram inför förvaltningscykeln 2027–2033. Detta sam
 och väsentliga vattenfrågor är det första av två samråd i processen. Det andra samrådet kommer att äga
 
 rum under 2026 och rör förslag på förvaltningsplan, åtgärdsprogram och miljökvalitetsnormer 2027–
-2033.
+2033\.
 I remissen vill Vattenmyndigheten ha synpunkter och information om hur olika aktörer arbetat med det
 material och aktiviteter som Vattenmyndigheten tagit fram som stöd för vattenförvaltningen och även
 synpunkter på de väsentliga vattenfrågor som man identifierat inför kommande förvaltningscykel.
@@ -18366,15 +18366,15 @@ Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring
 skollagen samt ett antal ändringar i förordningar. Förslagen kan sammanfattas som
 att:
 
--  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
+\-  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
 studiero.
--  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
+\-  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
 studiero.
 
--  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
+\-  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
 säkerställas genom statliga åtgärder.
 
--  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\-  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några
 övergångsbestämmelser.
 
@@ -18525,12 +18525,12 @@ att åstadkomma en varaktigt förbättrad trygghet och studiero i skolan genom f
 Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring i skollagen samt ett antal
 ändringar i förordningar. Förslagen kan sammanfattas som att:
 
--  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
--  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
+\-  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
+\-  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
 
--  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
+\-  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
 statliga åtgärder.
--  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\-  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några övergångsbestämmelser.
 Nämnden för Förskola & Grundskola har fått möjlighet att på kommunstyrelsens uppdrag svara på
@@ -18915,7 +18915,7 @@ Kommunen följer rekommenderad nivå för arbetsgivaravgifterna enligt Sveriges
 Kommuner och Regioner, SKR, och reglerar till slutlig nivå när denna är fastställd.
 Personalomkostnadspålägget, PO-pålägget, publicerades av SKR den 12 december
 
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5B6BB34A047CFB65AF3272D7B0B8D23026CED8BD3A
@@ -18929,7 +18929,7 @@ Datum
 2025-04-01
 
 För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för
-2025. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
+2025\. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
 budgetram.
 Total ramjustering från nämnderna i budget 2025 är beräknad till -60 671 000
 kronor. Kommunstyrelsens förvaltning föreslår att förändringen regleras mot årets
@@ -19114,7 +19114,7 @@ pågående projekt. Förslag till kommunfullmäktige är att ombudgetera 13 721 
 
 | Nämnd/Styrelse<br>Belopp i tusentals kronor | UB 2024 | Bokslut<br>2024 | Nämndens<br>begäran | Förslag | Förslag IB<br>2025 |
 | --- | --- | --- | --- | --- | --- |
-| Kommunfullmäktige<br>Kommunstyrelsen<br>Kommunrevision<br>Valnämnden<br>Gymnasium & Arbetsmarknad<br>Kultur & Fritid*<br>Förskola & Grundskola<br>Teknik Skatt<br>Miljö & Hälsoskydd<br>Byggnadsnämnden<br>Individ & Familjeomsorg<br>Vård & Omsorg<br>Service<br>Service Fastigheter<br>Finans | 0<br>0<br>0<br>0<br>74 197<br>31 076<br>116 940<br>4 340<br>0<br>2 586<br>22 635<br>108 256<br>23 297<br>77 566<br>11 266 | 562<br>19 610<br>320<br>337<br>13 498<br>-1 145<br>8 765<br>188<br>180<br>4 014<br>-3 714<br>19 402<br>8 456<br>-17 105<br>220 911 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>77 300<br>29 615<br>125 705<br>4 528<br>0<br>5 481<br>18 921<br>127 658<br>31 580<br>75 345<br>11 266 |
+| Kommunfullmäktige<br>Kommunstyrelsen<br>Kommunrevision<br>Valnämnden<br>Gymnasium & Arbetsmarknad<br>Kultur & Fritid\*<br>Förskola & Grundskola<br>Teknik Skatt<br>Miljö & Hälsoskydd<br>Byggnadsnämnden<br>Individ & Familjeomsorg<br>Vård & Omsorg<br>Service<br>Service Fastigheter<br>Finans | 0<br>0<br>0<br>0<br>74 197<br>31 076<br>116 940<br>4 340<br>0<br>2 586<br>22 635<br>108 256<br>23 297<br>77 566<br>11 266 | 562<br>19 610<br>320<br>337<br>13 498<br>-1 145<br>8 765<br>188<br>180<br>4 014<br>-3 714<br>19 402<br>8 456<br>-17 105<br>220 911 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>77 300<br>29 615<br>125 705<br>4 528<br>0<br>5 481<br>18 921<br>127 658<br>31 580<br>75 345<br>11 266 |
 | Totalt | 472 159 | 274 279 | 35 240 | 35 240 | 507 399 |
 
 [Tabell 795-2](handlingar.tabeller/795-2.csv)
@@ -19225,7 +19225,7 @@ KUNGSBACKA  KOMMUN
 9 (9)
 
 SUMMA     1 302 676   -11 261   3 140   -190 1 291 226 3 140
-*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
+\*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
 
 Ramjustering för minskade arbetsgivaravgifter, personalomkostnadspålägg i budget 2025
 I det sammantagna personalomkostnadspålägget, PO-pålägget, ingår dels de arbetsgivaravgifter som
@@ -19233,7 +19233,7 @@ bestäms av riksdagen (lagstadgade socialavgifter), dels de avgifter som bestäm
 Sveriges Kommuner och Regioner, SKR, och fackföreningarna inom offentlig sektor
 (avtalsförsäkringar och avtalspensioner). Kommunen följer rekommenderad nivå enligt SKR och
 reglerar till slutlig nivå när denna är fastställd. PO-pålägget publicerades av SKR den 12 december
-2024. För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för 2025. I
+2024\. För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för 2025. I
 
 kommunbudget 2025 är PO-pålägget 42,75 procent som ingår i ramen hos nämnderna. När PO-
 pålägget ökade år 2023 blev nämnderna kompenserade med cirka 66 miljoner kronor och då var
@@ -19271,7 +19271,7 @@ Sammanställning total
 
 Belopp i Tkr
 
--    11 451  3 140            1 291 226
+\-    11 451  3 140            1 291 226
 1 291 226 3 140
 Ombudget förslag:          2025    2026 2025-2026
 Totalt förslag från nämnderna -11 261 3 140 -8 121
@@ -20087,11 +20087,11 @@ tillägg. Detta regelverk har benämnts OPF-KL 22 och antogs i kommunfullmäktig
 
 Nedan följer de lokala tilläggen:
 
-1. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
-2. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
+1\. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
+2\. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
 
-3. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
-4. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
+3\. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
+4\. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
 
 De lokala tilläggen föreslås överföras till de nya bestämmelserna i OPF-KR 25, i de paragrafer där de
 tidigare sorterats, se förslag till Bestämmelser om omställningsstöd, pension och familjeskydd för
@@ -20140,25 +20140,25 @@ inom kommun, region eller kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 •  Aktiva omställningsinsatser
 
 •  Ekonomiskt omställningsstöd
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 •  Sjukpension
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 829 -->
 
@@ -20484,9 +20484,9 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
 uppdraget (uppdragen).
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
 bestämmelser som gäller för utbetalning av månadsersättning
 enligt AGS-KL.
 
@@ -20699,13 +20699,13 @@ kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
 •  Aktiva omställningsinsatser
 
@@ -20713,7 +20713,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 
@@ -20721,7 +20721,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 841 -->
 
@@ -21064,10 +21064,10 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
 (uppdragen).
 
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
 gäller för utbetalning av månadsersättning enligt AGS-KL.
 
 Förtroendevald som befrias/frånträder sitt uppdrag p g a sjukdom har rätt till
@@ -21324,26 +21324,26 @@ för förtroendevalda som avses i 4 kap. § 1 kommunallagen. OPF-KL18 antas loka
 av fullmäktige inom kommun, landsting/region eller kommunalförbund.
 OPF-KL18 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
   Pensionsmyndighet
 
   Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
   Aktiva omställningsinsatser
 
   Ekonomiskt omställningsstöd
   Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
   Avgiftsbestämd pensionsbehållning
   Sjukpension
 
   Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 Kapitel 1
 
@@ -21873,7 +21873,7 @@ Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroen
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8 §
 första stycket FAL.
 
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroendevalda (OPF-KL 22) 13 (13)
 
@@ -22146,7 +22146,7 @@ Utbetalning av förmåner
 pensionshandläggare som ansökan om familjeskydd för efterlevande vuxen
 och familjeskydd för efterlevande barn.
 
-__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Lokalt regelverk för bestämmelser om omställningsstöd, pension och familjeskydd för 6 (6)
 förtroendevalda, OPF-KL 22
@@ -22334,7 +22334,7 @@ Kommunfullmäktige antar Regler och riktlinjer för förmåner till förtroendev
 daterade 2020-03-23, att gälla från och med 1 januari 2023, med den ändringen att
 det görs ett tillägg i tabellen under rubrik 4.3 Vad som ingår i deltidsarvodet för
 utskottsledamot, som innebär att det läggs till en rad 13 som lyder:
--  Enskild ledamot i individutskottet kan inträda för att fatta beslut om
+\-  Enskild ledamot i individutskottet kan inträda för att fatta beslut om
 
 omedelbart omhändertagande enligt tjänstgöringslista
 För aktiviteten betalas dagarvode och timersättning efter beslut i nämnden.
@@ -22401,7 +22401,7 @@ Johan Tolinsson (S) yrkar att reglerna ska börja gälla från 1 augusti 2020.
 Maria Losman (MP) yrkar att ärendet ska återremitteras till arvodesberedningen med
 
 motiveringen:
--  Vi ser inte att Arvodesberedningens uppdrag är fullföljt när det gäller att göra
+\-  Vi ser inte att Arvodesberedningens uppdrag är fullföljt när det gäller att göra
 en översyn som skapar förutsättningar för invånare att ta politiska uppdrag.
 Någonstans på vägen bestämdes att kommunalrådens arvoden inte skulle
 röras. Det är bra att beredningen kommit fram till att vi ska följa
@@ -22690,17 +22690,17 @@ kungsbacka.se
 <!-- sida 884 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -22718,7 +22718,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 885 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -22787,7 +22787,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -22826,10 +22826,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 887 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -22901,8 +22901,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -22914,14 +22914,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 889-2](handlingar.tabeller/889-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka,<br>helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka,<br>helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 890 -->
 
@@ -22934,8 +22934,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -22947,14 +22947,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 890-2](handlingar.tabeller/890-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka,<br>delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka,<br>delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 891 -->
 
@@ -23029,7 +23029,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -23056,7 +23056,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 892-2](handlingar.tabeller/892-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -23440,7 +23440,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -23468,7 +23468,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 900-2](handlingar.tabeller/900-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -23612,7 +23612,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -23625,7 +23625,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande<br>ätligt fett, per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 904 -->
 
@@ -23648,9 +23648,9 @@ Grundavgift container
 9 kbm
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   22
 
@@ -23672,8 +23672,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -23692,8 +23692,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -23722,8 +23722,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -23968,7 +23968,7 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 912-1](handlingar.tabeller/912-1.csv)
 
-| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
+| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral\* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | Grundavgift | 6 850 |  |
 |  |  |  | Styckpris storsäck (1 kbm) | 229 |  |
@@ -23994,8 +23994,8 @@ KS 2024-00300 gällande från 1 januari 2025
 | Gips | 2 500 |  |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |  |
 | Metall | 350 |  |
-| Mineral* | 2 882 |  |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |  |
+| Mineral\* | 2 882 |  |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |  |
 | Planglas | 2 619 |  |
 | Plast (inkl. eftersortering) | 2 700 |  |
 | Tryckimpregnerat trä/slipers | 2 330 |  |
@@ -24006,11 +24006,11 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 913-1](handlingar.tabeller/913-1.csv)
 
-|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
+|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral\* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Metall | 175 |  |  |
-|  |  |  | Mineral* | 2 885 |  |  |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |  |  |
+|  |  |  | Mineral\* | 2 885 |  |  |
+|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |  |  |
 |  |  |  | Planglas | 1 500 |  |  |
 |  |  |  | Plast | 1 000 |  |  |
 |  |  |  | Tryckimpregnerat trä/slipers | 1 165 |  |  |
@@ -24042,9 +24042,9 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 914-1](handlingar.tabeller/914-1.csv)
 
-|  |  | Mineral* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral* | 2 917 |  |
+|  |  | Mineral\* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral\* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral\* | 2 917 |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |  |
+|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |  |
 |  |  |  | Planglas | 2 650 |  |
 |  |  |  | Plast (inkl. eftersortering) | 2 732 |  |
 |  |  |  | Tryckimpregnerat trä/slipers | 2 358 |  |
@@ -24065,8 +24065,8 @@ KS 2024-00300 gällande från 1 januari 2025
 | Gips | 1 012 |  |
 | Kablar (ej farligt avfall) | 1 012 |  |
 | Metall | 177 |  |
-| Mineral* | 2 920 |  |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 024 |  |
+| Mineral\* | 2 920 |  |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 024 |  |
 | Planglas | 1 518 |  |
 | Plast | 1 012 |  |
 | Tryckimpregnerat trä/slipers | 1 179 |  |
@@ -24219,17 +24219,17 @@ kungsbacka.se
 <!-- sida 920 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -24247,7 +24247,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 921 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -24316,7 +24316,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -24355,10 +24355,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 923 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -24430,8 +24430,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -24443,14 +24443,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 925-2](handlingar.tabeller/925-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 926 -->
 
@@ -24463,8 +24463,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -24476,14 +24476,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 926-2](handlingar.tabeller/926-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 927 -->
 
@@ -24558,7 +24558,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -24585,7 +24585,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 928-2](handlingar.tabeller/928-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -24967,7 +24967,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -24995,7 +24995,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 936-2](handlingar.tabeller/936-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -25139,7 +25139,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -25172,7 +25172,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i<br>container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank<br>(ABP-avfall, kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett,<br>per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning \* | 7000 |
 
 [Tabell 939-2](handlingar.tabeller/939-2.csv)
 
@@ -25184,9 +25184,9 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   22
 
@@ -25202,8 +25202,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 2 500 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |
 | Metall | 350 |
-| Mineral* | 2 882 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |
+| Mineral\* | 2 882 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |
 | Planglas | 2 619 |
 | Plast (inkl. eftersortering) | 2 700 |
 | Tryckimpregnerat trä/slipers | 2 330 |
@@ -25222,8 +25222,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -25253,8 +25253,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   23
 | Gips | 1 000 |
 | Kablar (ej farligt avfall) | 1 000 |
 | Metall | 175 |
-| Mineral* | 2 885 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |
+| Mineral\* | 2 885 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |
 | Planglas | 1 500 |
 | Plast | 1 000 |
 | Tryckimpregnerat trä/slipers | 1 165 |
@@ -25449,7 +25449,7 @@ respektive Bostadsenhetsavgift i VA-taxan 2025, i tabellen för anläggningsavgi
 5.1 respektive § 6.1, har felaktiga belopp. De felaktiga beloppen beror på felräkning.
 Tabellen för avgiftsbeloppen förekommer på sidan 5 respektive sidan 7 i VA taxan
 
-2025.
+2025\.
 Nämnden för Teknik uppmärksammade felet innan taxan började gälla och
 debitering år 2025 har i förekommande fall skett enligt de korrekt beräknade lägre
 beloppen. För att få en korrekt taxa med korrekt framräknade belopp krävs ett nytt
@@ -25564,7 +25564,7 @@ Tillförordnad kommundirektör       Ekonomichef
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45 kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>30 127 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 949 -->
 
@@ -25701,7 +25701,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 953 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -25754,7 +25754,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        2 (15)
 
 <!-- sida 954 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -25881,7 +25881,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -25893,7 +25893,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -25910,7 +25910,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        5 (15)
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 127 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 957 -->
 
@@ -25985,7 +25985,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -26014,7 +26014,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 959 -->
 
@@ -26073,7 +26073,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -26117,7 +26117,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 960-2](handlingar.tabeller/960-2.csv)
@@ -26188,7 +26188,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -26392,7 +26392,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -26400,7 +26400,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -26672,7 +26672,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ....................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 Relevanta styrdokument ........................................................................................4
@@ -26680,19 +26680,19 @@ Relevanta styrdokument .........................................................
 Så har planen tagits fram ...................................................................................... 4
 Så är planen uppbyggd ......................................................................................... 5
 
-2. Behov .................................................................................................................. 6
+2\. Behov .................................................................................................................. 6
 Hur många bostäder behöver byggas? ................................................................. 6
 
 Vilka typer av bostäder behövs och för vilka grupper?. .......................................... 6
 Slutsatser om kommunens behov ......................................................................... 8
-3. Riktlinjer ............................................................................................................... 9
+3\. Riktlinjer ............................................................................................................... 9
 
 Mål 1: Vi ska tillgängliggöra fler bostäder i en hållbar takt ................................... 10
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 12
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning .............. 14
 
-4. Uppföljning ......................................................................................................... 16
+4\. Uppföljning ......................................................................................................... 16
 
 Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (16)
 
@@ -26700,7 +26700,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Syfte och bakgrund
 
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -26834,7 +26834,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Behov
 
-2. Behov
+2\. Behov
 
 Analysen i detta avsnitt bygger på statistik, relevanta styrdokument och
 invånardialog. Dessa delar finns mer utförligt redovisade i ett separat underlag till
@@ -26981,7 +26981,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Riktlinjer
 
-3. Riktlinjer
+3\. Riktlinjer
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen riktlinjer
 för bostadsförsörjningen som i denna plan består av mål och insatser under
@@ -26990,11 +26990,11 @@ gällande bostäder (se kapitel 2). Till varje mål kopplas ett antal förvänta
 samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostäder i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostäder i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 9 (16)
 
@@ -27274,7 +27274,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -27307,7 +27307,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ....................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 Relevanta styrdokument ........................................................................................4
@@ -27315,19 +27315,19 @@ Relevanta styrdokument .........................................................
 Så har planen tagits fram ...................................................................................... 4
 Så är planen uppbyggd ......................................................................................... 5
 
-2. Behov .................................................................................................................. 6
+2\. Behov .................................................................................................................. 6
 Hur många bostäder behöver byggas? ................................................................. 6
 
 Vilka typer av bostäder behövs och för vilka grupper?. .......................................... 6
 Slutsatser om kommunens behov ......................................................................... 8
-3. Riktlinjer ............................................................................................................... 9
+3\. Riktlinjer ............................................................................................................... 9
 
 Mål 1: Vi ska tillgängliggöra fler bostäder i en hållbar takt ................................... 10
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 12
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning .............. 14
 
-4. Uppföljning ......................................................................................................... 16
+4\. Uppföljning ......................................................................................................... 16
 
 Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (16)
 
@@ -27335,7 +27335,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Syfte och bakgrund
 
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -27469,7 +27469,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Behov
 
-2. Behov
+2\. Behov
 
 Analysen i detta avsnitt bygger på statistik, relevanta styrdokument och
 invånardialog. Dessa delar finns mer utförligt redovisade i ett separat underlag till
@@ -27617,7 +27617,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Riktlinjer
 
-3. Riktlinjer
+3\. Riktlinjer
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen riktlinjer
 för bostadsförsörjningen som i denna plan består av mål och insatser under
@@ -27626,11 +27626,11 @@ gällande bostäder (se kapitel 2). Till varje mål kopplas ett antal förvänta
 samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostäder i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostäder i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 9 (16)
 
@@ -27910,7 +27910,7 @@ Kung sbacka kommun  Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -27940,7 +27940,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -27948,19 +27948,19 @@ Relevanta styrdokument…………………………………………………�
 Så har planen tagits fram ..................................................................................... 4
 Så är planen uppbyggd ........................................................................................ 5
 
-2. Behov .................................................................................................................. 6
+2\. Behov .................................................................................................................. 6
 Hur många bostäder behöver byggas? ................................................................. 6
 
 Vilka typer av bostäder behövs och för vilka grupper?............................................6
 Slutsatser om kommunens behov…….………..….….…....………………...………..8
-3. Riktlinjer ............................................................................................................... 9
+3\. Riktlinjer ............................................................................................................... 9
 
 Mål 1: Vi ska tillgängliggöra fler bostäder i en hållbar takt .................................. 10
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 12
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 14
 
-4. Uppföljning ......................................................................................................... 16
+4\. Uppföljning ......................................................................................................... 16
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (16)
 
@@ -27968,7 +27968,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Syfte och bakgrund
 
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 
@@ -28099,7 +28099,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 1009 -->
 
 Behov
-2. Behov
+2\. Behov
 
 Analysen i detta avsnitt bygger på statistik, relevanta styrdokument och
 invånardialog. Dessa delar finns mer utförligt redovisade i ett separat underlag till
@@ -28235,7 +28235,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Riktlinjer
 
-3. Riktlinjer
+3\. Riktlinjer
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen riktlinjer
 för bostadsförsörjningen som i denna plan består av mål och insatser under
@@ -28244,11 +28244,11 @@ gällande bostäder (se kapitel 2). Till varje mål kopplas ett antal förvänta
 samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 
 Kommunens tre mål för bostadsförsörjning:
-1. Vi ska tillgängliggöra fler bostäder i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostäder i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 9 (16)
 
@@ -28524,7 +28524,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -28545,17 +28545,17 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Statistiskt underlag om demografi, bostäder och marknadsunderlag .................... 3
-2. Planens beaktande av relevanta mål och styrdokument ..................................... 81
+1\. Statistiskt underlag om demografi, bostäder och marknadsunderlag .................... 3
+2\. Planens beaktande av relevanta mål och styrdokument ..................................... 81
 
-3. Hållbarhetsbedömning ....................................................................................... 88
-4. Redovisning av invånardialog ............................................................................ 98
+3\. Hållbarhetsbedömning ....................................................................................... 88
+4\. Redovisning av invånardialog ............................................................................ 98
 
 2
 
 <!-- sida 1022 -->
 
-1.  Statistiskt       underlag        om    demografi,
+1\.  Statistiskt       underlag        om    demografi,
 
 bostäder        och    marknadsunderlag
 
@@ -29062,7 +29062,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -29941,7 +29941,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -30222,7 +30222,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -30429,7 +30429,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -30767,7 +30767,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -31479,7 +31479,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -31636,7 +31636,7 @@ Figur 110 - Diagrammet avser TAK och visar antalet barn som berörs. Källa: Kun
 
 <!-- sida 1100 -->
 
-2.  Planens        beaktande           av   relevanta
+2\.  Planens        beaktande           av   relevanta
 
 mål    och     styrdokument
 
@@ -31789,12 +31789,12 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
--  En attraktiv kommun att bo, verka och vistas i
+\-  En attraktiv kommun att bo, verka och vistas i
 
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 En översiktsplan är vägledande i hur kommunen långsiktigt vill använda mark och vatten. Därför är
@@ -31849,7 +31849,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 
@@ -31906,7 +31906,7 @@ kommunens mål om en attraktiv kommun att bo, verka och vistas i.
 
 <!-- sida 1107 -->
 
-3.  Hållbarhetsbedömning
+3\.  Hållbarhetsbedömning
 
 88
 
@@ -32246,7 +32246,7 @@ från dialogen.
 
 <!-- sida 1117 -->
 
-4.  Redovisning           av   invånardialog
+4\.  Redovisning           av   invånardialog
 
 98
 
@@ -32461,7 +32461,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -32530,18 +32530,18 @@ känner sig hörd eller respekterad i sina önskemål och åsikter om sin bostad
 
 Förslag till bostadsförsörjningsplan   2025-2029
 
-- Sammanfattning    av inkomna   yttranden
+\- Sammanfattning    av inkomna   yttranden
 
 Innehåll
 
-1. Myndigheter och grannkommuner ..................................................................................................... 2
+1\. Myndigheter och grannkommuner ..................................................................................................... 2
 1.1 Länsstyrelsen i Halland ........................................................................................................... 2
 
 1.2 Region Halland ........................................................................................................................ 2
 1.3 Göteborgs Stad ........................................................................................................................ 2
 
 1.4 Varbergs kommun ................................................................................................................... 2
-2. Politiska partier .................................................................................................................................... 3
+2\. Politiska partier .................................................................................................................................... 3
 
 2.1 Kristdemokraterna .................................................................................................................. 3
 2.3 Liberalerna ............................................................................................................................... 3
@@ -32552,7 +32552,7 @@ Innehåll
 2.6 Moderaterna ........................................................................................................................... 4
 2.7 Socialdemokraterna ................................................................................................................ 4
 
-3. Nämnder och bolag ............................................................................................................................. 4
+3\. Nämnder och bolag ............................................................................................................................. 4
 3.1 Nämnden för Individ & Familjeomsorg ................................................................................ 4
 
 3.2 Nämnden för Service ............................................................................................................... 5
@@ -32565,7 +32565,7 @@ Innehåll
 
 <!-- sida 1125 -->
 
-1. Myndigheter och grannkommuner
+1\. Myndigheter och grannkommuner
 
 1.1 Länsstyrelsen i Halland
 
@@ -32613,7 +32613,7 @@ med kommunens allmännyttiga bostadsbolag.
 
 <!-- sida 1126 -->
 
-2. Politiska partier
+2\. Politiska partier
 
 2.1 Kristdemokraterna
 
@@ -32698,7 +32698,7 @@ förespråkar också förtur för våldsutsatta kvinnor och flyktingar från kri
 Socialdemokraterna vill att kommunen bedriver en aktiv markpolitik för att stötta Eksta och
 andra aktörer i byggandet av bostäder.
 
-3. Nämnder och bolag
+3\. Nämnder och bolag
 
 3.1 Nämnden för Individ & Familjeomsorg
 
@@ -32759,7 +32759,7 @@ slutföras i närtid, men som drivs fram inom ramen för bostadsförsörjningspl
 förordar de sistnämnda två alternativen.
 
 Nämnden lyfter att tillgången till dricksvatten inte är säkrad för ytterligare 2500 bostäder år
-2029. De är positiva till förslag om centrumnära bostäder för äldre men föreslår justeringar av
+2029\. De är positiva till förslag om centrumnära bostäder för äldre men föreslår justeringar av
 nyckeltalen för att bättre mäta måluppfyllelse. De efterlyser också ett starkare fokus på
 barnperspektivet och att kringmiljön vid bostadsområden tas med i planeringen.
 
@@ -32882,7 +32882,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -32890,27 +32890,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 1134 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -33075,7 +33075,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 1138 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -33090,12 +33090,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -33427,7 +33427,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -33435,11 +33435,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -33773,7 +33773,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -34316,7 +34316,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -35197,7 +35197,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -35478,7 +35478,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -35685,7 +35685,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -36023,7 +36023,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -36735,7 +36735,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -37054,11 +37054,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -37105,7 +37105,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -37716,7 +37716,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -38144,14 +38144,14 @@ Fastigheter och ägare
 
 Exploateringsområdet omfattar följande fastigheter med respektive fastighetsägare;
 
-- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
+\- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
 
-- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
+\- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
 
-- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
+\- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
 Kungsbacka AB
 
-- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilscentral Fastighets AB i
+\- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilscentral Fastighets AB i
 Kungsbacka AB
 
 Inom området finns också Ysby S:5, som påverkas av Detaljplanens genomförande, då
@@ -38369,13 +38369,13 @@ förbindelsepunkt.
 
 9.6
 
-10.
+10\.
 
 10.1
 
 10.2
 
-11.
+11\.
 
 6(15)
 
@@ -38389,7 +38389,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -38433,9 +38433,9 @@ till områdets exponerade läge. Skyltning får endast ske på fasad och ska
 
 <!-- sida 1271 -->
 
-12.
+12\.
 
-13.
+13\.
 
 13.1
 
@@ -38510,7 +38510,7 @@ Exploatörens bekostnad. Tillstånd för öppningstillstånd och/eller TA-plan s
 
 13.8
 
-14.
+14\.
 
 14.1
 
@@ -38578,7 +38578,7 @@ orsakar på Exploatörens anläggningar inom dennes fastighet.
 
 <!-- sida 1273 -->
 
-15.
+15\.
 
 15.1
 
@@ -38586,7 +38586,7 @@ orsakar på Exploatörens anläggningar inom dennes fastighet.
 
 15.3
 
-16.
+16\.
 
 16.1
 
@@ -38646,19 +38646,19 @@ dagvattenlösningar).
 
 <!-- sida 1274 -->
 
-17.
+17\.
 
 17.1
 
 17.2
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
@@ -38719,21 +38719,21 @@ Exploateringsbidraget ska delas utifrån i detaljplanen erhållen byggrätt, enl
 
 <!-- sida 1275 -->
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
-23.
+23\.
 
-24.
+24\.
 
 24.1
 
@@ -38791,13 +38791,13 @@ kostnaden för iordningställande av allmän plats enligt punkt 18.
 
 <!-- sida 1276 -->
 
-25.
+25\.
 
 2541
 
 252
 
-20.
+20\.
 
 26.1
 
@@ -38807,7 +38807,7 @@ kostnaden för iordningställande av allmän plats enligt punkt 18.
 
 26.4
 
-27.
+27\.
 
 12(15)
 
@@ -38868,17 +38868,17 @@ Avtalet godkänns av Kommunstyrelsen. Säkerheten ska återlämnas efter godkän
 
 27.2
 
-28.
+28\.
 28.1
 
-29.
+29\.
 
-30.
+30\.
 30.1
 
 30.2
 
-31.
+31\.
 
 31.1
 
@@ -38940,7 +38940,7 @@ Sig
 
 14(15)
 
-32. Tidsplan
+32\. Tidsplan
 
 32.1 — Efter Detaljplanens antagande kommer Kommunen påbörja en förprojektering av
 utbyggnad av allmän plats där lämplig utbyggnadsordning och tidplan kommer att
@@ -38963,7 +38963,7 @@ med Transportcentrum i Kungsbacka AB gemensamt bestämma om förprojektering
 ska påbörjas innan Detaljplanen vinner laga kraft. Om avvikelse sker/riskerar att ske
 mot huvudtidplanen ska övriga parter informeras utan fördröjning.
 
-33. Tvist
+33\. Tvist
 
 33.1 — Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 Avtalet ska avgöras av allmän domstol.
@@ -39039,7 +39039,7 @@ Y sby 2:25, nedan kallad Balder
 
 Kommunen, Transportcentrum och Balder kallas gemensamt Parterna
 
-1. BAKGRUND OCH SYFTE
+1\. BAKGRUND OCH SYFTE
 
 Denna överenskommelse är ett led i genomförandet av Detaljplan för verksamheter
 inom Klovsten, inom fastigheterna Y sby 1:12 m.fl. i Kungsbacka.
@@ -39052,7 +39052,7 @@ Parterna har utöver denna överenskommelse också undertecknat samarbetsavtal o
 exploateringsavtal som bland annat reglerar Parternas ansvar för utförande och
 kostnader i samband med genomförandet av Detaljplanen.
 
-2. FASTIGHETSREGLERING
+2\. FASTIGHETSREGLERING
 
 De delar av Balders fastighet Y sby 2:25 som enligt detaljplanen utgör allmän plats
 GATA och NATUR ska genom fastighetsreglering överföras till Kommunens
@@ -39165,7 +39165,7 @@ Figur Fastighet Ändamäl Färg
 1 Ysby 2:25 avstår till Kungsbacka 2:2 allmän plats natur | Ljusblå
 2 Ysby 2:25 avstår till Kungsbacka 2:2 allmän plats gata Ljusrosa
 3 Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats natur | Blå
-> Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats gata Rosa
+\> Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats gata Rosa
 5 Ysby S:5 avstår till Kungsbacka 2:2 allmän plats natur | Gul
 6 Ysby 3:26 avstår till Kungsbacka 2:2 allmän plats natur | Orange
 7 Ysby 3:26 avstår till Kungsbacka 2:2 allmän plats gata Grön
@@ -39222,8 +39222,8 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2019-11-21 och 2019-12-21. Granskning genomfördes mellan 2020-11-03 och
 2020-12-03.
 
-Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, $192) och
-Ändring och tillägg till samarbetsavtal (KS 2010-11-16, $ 241). Syftet med avtalen är
+Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, \$192) och
+Ändring och tillägg till samarbetsavtal (KS 2010-11-16, \$ 241). Syftet med avtalen är
 att reglera utvecklingen av Klovstensområdet till ett verksamhetsområde. Exploatören
 ska genom deponiverksamhet göra en utfyllnad av inerta massor och marken ska efter
 avslutad deponi ha kvalité att kunna planläggas som verksamhetsmark. Avtalen
@@ -39231,7 +39231,7 @@ reglerar också att Kommunen och Explotören gemensamt ska äga fastigheten Ysby
 1:12 med 7024 respektive 30946. I samband med planläggning av området ska
 fastighetsbildning av Ysby 1:12 ske genom klyvning.
 
-Ett Samarbetsavtal (KS 2017-10-17, $239), Samarbetsavtalet, har tecknats mellan
+Ett Samarbetsavtal (KS 2017-10-17, \$239), Samarbetsavtalet, har tecknats mellan
 Parterna samt med Balder i Kungsbacka AB. Samarbetsavtalet föreskriver att ett
 Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige. Parallellt med Avtalet tecknas också ett exploateringsavtal
@@ -39251,7 +39251,7 @@ mellan Kommunen och Balder i Kungsbacka AB.
 
 6.1
 
-2016)
+2016\)
 
 Exploateringsområde
 
@@ -39280,14 +39280,14 @@ Fastigheter och ägare
 
 Exploateringsområdet omfattar följande fastigheter med respektive fastighetsägare;
 
-- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
+\- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
 
-- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
+\- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
 
-- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
+\- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
 Kungsbacka AB
 
-- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilcentral Fastighets AB
+\- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilcentral Fastighets AB
 
 Inom området finns också Ysby S:5, som påverkas av Detaljplanens genomförande, då
 del av samfälligheten är planlagd som allmän platsmark NATUR.
@@ -39328,7 +39328,7 @@ klyvningslott.
 Kommunen ansvarar för att lantmäteriförrättning söks på Balder i Kungsbacka AB:s
 bekostnad.
 
-7. Klyvning av Ysby 1:12
+7\. Klyvning av Ysby 1:12
 
 8.1
 
@@ -39372,7 +39372,7 @@ utbyggnad ska påbörjas.
 
 9.3
 
-10.
+10\.
 
 10.1
 
@@ -39494,11 +39494,11 @@ Exploatören ska uppföra energieffektiv byggnation som uppfyller Boverkets krav
 
 10.6
 
-11.
+11\.
 
 11.2
 
-12.
+12\.
 
 12.1
 
@@ -39512,7 +39512,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -39559,7 +39559,7 @@ inverka störande på trafiken på väg E6 får ej anordas.
 
 <!-- sida 1296 -->
 
-13.
+13\.
 
 13.1
 
@@ -39567,11 +39567,11 @@ inverka störande på trafiken på väg E6 får ej anordas.
 
 13.3
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 7(16)
 
@@ -39629,7 +39629,7 @@ Exploateringsområdet) måste samordnas med kommunens utbyggnad av allmän plats
 
 <!-- sida 1297 -->
 
-16.
+16\.
 
 16.1
 
@@ -39703,7 +39703,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 <!-- sida 1298 -->
 
-17.
+17\.
 
 17.1
 
@@ -39717,7 +39717,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 17.6
 
-18.
+18\.
 
 18.1
 
@@ -39780,13 +39780,13 @@ e Ny cirkulation inne i verksamhetsområdet
 
 18.3
 
-19.
+19\.
 
 19.1
 
 19.2
 
-20.
+20\.
 
 20.1
 
@@ -39843,7 +39843,7 @@ anläggningarna.
 
 20.2
 
-21.
+21\.
 
 21.1
 
@@ -39851,7 +39851,7 @@ anläggningarna.
 
 21.3
 
-22.
+22\.
 
 22.1
 
@@ -39911,29 +39911,29 @@ Inom delområde 2 fördelas kostnaderna enligt följande:
 
 <!-- sida 1301 -->
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 25.1
-26.
+26\.
 
 26.1
 
 26.2
 
-27.
+27\.
 
 27.1
 
 27.2
 
-28.
+28\.
 
 28.1
 
@@ -39994,7 +39994,7 @@ fastighet till Kommunens fastighet enligt punkt 6.1 ovan, och det är uppenbart 
 
 <!-- sida 1302 -->
 
-29.
+29\.
 
 29.1
 
@@ -40004,7 +40004,7 @@ fastighet till Kommunens fastighet enligt punkt 6.1 ovan, och det är uppenbart 
 
 29.4
 
-30.
+30\.
 
 30.1
 
@@ -40060,22 +40060,22 @@ för Exploatörens återstående skyldigheter.
 
 <!-- sida 1303 -->
 
-31.
+31\.
 31.1
 
-32.
+32\.
 
-33.
+33\.
 
 33.1
 
 33.2
 
-34.
+34\.
 
 34.1
 
-35.
+35\.
 
 35.1
 
@@ -40145,7 +40145,7 @@ Balder i Kungsbacka AB gemensamt bestämma om förprojektering ska påbörjas in
 detaljplanen vinner laga kraft. Om avvikelse sker/riskerar att ske mot huvudtidplanen
 ska övriga parter informeras utan fördröjning.
 
-36. — Tvist
+36\. — Tvist
 
 36.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 Avtalet ska avgöras av allmän domstol.
@@ -40483,7 +40483,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 27 (463)
 Sammanträdesdatum
 2010-11-16
-$ 241 KS10-00206/25
+\$ 241 KS10-00206/25
 
 Förvärv av andel i Ysby 1:12 samt ändring och tillägg i
 samarbetsavtal med Transportcentrum i Kungsbacka AB
@@ -40540,12 +40540,12 @@ Sammanträdesdatum
 
 2010-11-16
 
-$ 241 forts
+\$ 241 forts
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2010-11-01
-Kommunstyrelsens arbetsutskott 2010-11-09, $ 358
+Kommunstyrelsens arbetsutskott 2010-11-09, \$ 358
 
 Proposition
 Ordföranden ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -40565,7 +40565,7 @@ Kungsbacka Lastbilscentral), nedan kallat bolaget, träffas härmed följande
 
 SAMARBETSAVTAL
 
-1. Bakgrund.
+1\. Bakgrund.
 
 På förfrågan från Kungsbacka Lastbilscentral har kommunstyrelsen vid
 sammanträde 2005-12-14 (KS 8 278 ), beslutat inta en positiv inställning till att
@@ -40592,7 +40592,7 @@ Detta samarbetsavtal träffas för att trygga att ett genomförande kan ske om
 nödvändiga utredningar och tillståndsprövningar ger till resultat att deponi kan
 genomföras och att ett verksamhetsområde kan utvecklas så som planerat.
 
-2. Upplåtelse, Förbindelse.
+2\. Upplåtelse, Förbindelse.
 
 Bolaget har förvärvat delar av Ysby 1:4 och Ysby 2:15. Kommunen äger Ysby
 3:26.
@@ -40655,7 +40655,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsens arbetsutskott SAMMANTRÄDESPROTOKOLL 6 (16)
 Sammanträdescatum
 2007-06-19
-$ 192 KS04-00242/25
+\$ 192 KS04-00242/25
 
 Samarbetsavtal med Kungsbacka Lastbilcentral, område vid
 Klovsten
@@ -40730,7 +40730,7 @@ verksamheter som industri och lager. Syftet är även att möjliggöra en utöka
 pendelparkering inom området.
 
 Planförslaget har varit utställt för granskning under tiden 3 november till 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak miljö, risker och geotekniska frågor, se vidare i granskningsutlåtandet.
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
 vid bullervallen och sprängstensvallen tagits fram. Nya inmätningar av planområdet
@@ -40907,7 +40907,7 @@ kommunstyrelsen 2018-06-19 §162. Detaljplanen hanteras med utökat
 planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
 Planförslaget har varit utställt för granskning under tiden 3 november – 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak miljö, risker och geotekniska frågor. Se vidare i granskningsutlåtandet.
 
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
@@ -41051,7 +41051,7 @@ Område inom vilket bergteknisk åtgärd ska utföras.
 EGENSKAPSBESTÄMMELSER      FÖR ALLMÄN  PLATS
 Ingen markbelastning är tillåten. Marknivåer enligt plankartan ska följas.
 Mark
-Markens höjd över nollplanet ska vara <angivet> meter.
+Markens höjd över nollplanet ska vara \<angivet> meter.
 ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
 Genomförandetid
 Markens höjd över nollplanet ska vara lägst +37 meter.
@@ -41074,7 +41074,7 @@ Startbesked får inte ges för byggnader förrän avskärande dike för skyfalls
 anlagts.
 Marken får inte förses med byggnad.
 ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
-Högsta nockhöjd är <angivet> meter över angivet nollplan .
+Högsta nockhöjd är \<angivet> meter över angivet nollplan .
 Genomförandetid
 Största byggnadsarea är 60 % per fastighet inom användningsområdet. Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
 Placering
@@ -42038,7 +42038,7 @@ handel och industri uppskattas trafikrörelserna till 9 766 årsdygnstrafik (ÅD
 övervägande andel handel, 60 % och 20% vardera för kontor och industri uppgår prognosen
 för ÅDT till drygt 13 000. Om handeln däremot endast utgör 20% av verksamheterna och
 kontor och industri fördelas jämt över de övriga procenten kommer ÅDT hamna på drygt 8
-000.
+000\.
 Med utgångspunkt i kapacitetsutredningen har ett trafikförslag tagits fram av Ramboll
 2019, tilläggs-PM 2020-05-07 samt 2020-10-06. Trafikförslaget bygger på att den befint-
 liga infartens kapacitet stärks genom trimningsåtgärder samtidigt som en ny östlig infart
@@ -42466,7 +42466,7 @@ backaån.
 Stockaån
 Stockaån är 11 kilometer lång och mynnar i Stallviken. Klassningen för ekologisk status
 i vattenförekomsten är satt till otillfredsställande. Kvalitetskravet är god ekologisk status
-2027.
+2027\.
 Vattenförekomsten uppnår ej god kemisk status. Kvalitetskravet är god kemisk ytvatten-
 status. God kemisk ytvattenstatus uppnås inte till följd av förhöjda kvicksilverhalter samt
 luftdeposition av Hg och PBDE.
@@ -43533,11 +43533,11 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 1383 -->
 
-PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara <angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
+PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara \<angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
 
 Endast  angiven  användning    och utformning   är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             med   livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns. Bestämmelsen     gäller inte om  byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående  komponenter    ska  vara                           Luftintag  placeras högt  på byggnad   och  orienteras bort                 hantering  av                                                              till                                                                        kvartersmark   som  omfattas  av                                                                                                                       meter  från övriga byggnader   (ej bensinstation).                                                                                                                                                                                utformning  med   hänsyn  till områdets exponerade    läge.                 egenskapsområdet     med   en högsta  höjd på  12 meter.                                                                                               plankartan  ska följas.                                                                                                                                laga kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                    inte anläggas  förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder  har kommit  till stånd.                                                                                         Gäller inte för område  a4.
 KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
-Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är <angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
+Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är \<angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
 beteckning  saknas   gäller bestämmelsen    inom  hela området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             sammanbyggs     i fastighetsgräns. .                                                                                                                   material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass  E  30 vilket innebär att fönster                från väg  E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter                    stadigvarande   vistelse.                                                   användningsbestämmelsen       G  (drivmedelsförsäljning)                                                                                                                                                                                                                                                                                                                                 Skyltning  får endast ske  på fasad  och  ska placeras  lägre               Anordningar   som  kan  inverka störande  på  trafiken på                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       stånd.                                                                      stånd.
 Centrumverksamhet,      ej hotell, vandrarhem  eller handel                                                                                            Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd  över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Avskärande   dike  för skyfallsled får finnas.                             Utfart för utryckningsfordon  får finnas. Utfart för övriga                                                                                                                                                                                                                                                   Område    inom  vilket bergteknisk åtgärd  ska utföras.                                                                                                                                                                                                                                                                                                                      Villkor för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
 Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        berget.  Åtgärden                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
@@ -43641,7 +43641,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen 2020-01-15
+1\. Länsstyrelsen 2020-01-15
 
 Synpunkter på sådant som kan aktualisera prövning
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § plan- och bygglagen
@@ -44212,7 +44212,7 @@ Plankartans beteckningar har justerats till granskningen för att öka läsbarhe
 Genomförandefrågor
 Se vidare Lantmäterimyndighetens yttrande.
 
-2. Lantmäteriet 2019-12-20
+2\. Lantmäteriet 2019-12-20
 
 För plangenomförandet viktiga frågor där planen måste förbättras
 Fastighetsgränsernas kvalitet
@@ -44414,7 +44414,7 @@ Kommentar: Genomförandebeskrivningen har uppdaterats och redovisar i övergripa
 drag innehållet i kommande exploateringsavtal. Markanvisningsavtal förväntas inte
 tecknas.
 
-3. Trafikverket 2019-12-18
+3\. Trafikverket 2019-12-18
 
 Trafikutredning
 Trafikverket har tagit del av ”Kapacitetsutredning för Klovsten” (ÅF, 2018-11-19) samt ”PM
@@ -44568,13 +44568,13 @@ handlingarna och få chansen att yttra sig gällande dessa på nytt innan planen
 Kommentar: Trafikverket är remissinstans vid granskningen. Den del av väg 158 som
 trafikverket är huvudman för har utgått ur planen.
 
-4. Statens Geotekniska Institut (SGI) 2019-12-20
+4\. Statens Geotekniska Institut (SGI) 2019-12-20
 Underlag
 
-1. Plankarta och planbeskrivning, daterade oktober 2019.
-2. Geoteknisk utredning för detaljplan, etapp l. Klovsten detaljplan. Upprättad av
+1\. Plankarta och planbeskrivning, daterade oktober 2019.
+2\. Geoteknisk utredning för detaljplan, etapp l. Klovsten detaljplan. Upprättad av
 Norconsult, daterad 2018-10-12.
-3. Markteknisk undersökningsrapport Geoteknik (MUR/Geo). Klovsten detaljplan.
+3\. Markteknisk undersökningsrapport Geoteknik (MUR/Geo). Klovsten detaljplan.
 Upprättad av Norconsult, daterad 2018-10-12.
 
 SGI:s synpunkter
@@ -44644,7 +44644,7 @@ användbar industrimark, vilket innebär att slänterna ska säkras. Detta regle
 kommande exploateringsavtal med vitesföreläggning om åtgärden inte utförs inom en
 viss tid.
 
-5. Räddningstjänsten Storgöteborg 2019-12-19
+5\. Räddningstjänsten Storgöteborg 2019-12-19
 
 Riskhänsyn
 Planområdet ligger inom 150 meter från en rekommenderad transportled för farligt gods.
@@ -44677,7 +44677,7 @@ Bedömning
 Räddningstjänsten Storgöteborg har inget att erinra planen i samrådsskedet.
 
 Kommentar: Noteras.
-6. Kulturmiljö Halland 2019-12-12
+6\. Kulturmiljö Halland 2019-12-12
 
 Kulturmiljö Halland har fått rubricerat ärende på remiss och vi har inga synpunkter på planen
 ur kulturhistorisk synvinkel.
@@ -44685,7 +44685,7 @@ ur kulturhistorisk synvinkel.
 Kommentar: Noteras.
 Sakägare
 
-7. Skanova 2019-12-02
+7\. Skanova 2019-12-02
 
 Skanova AB har tagit del av rubricerat ärende och vill meddela följande;
 Skanovas anläggningar inom och intill aktuellt område är markerade på bifogad lägeskarta. Det
@@ -44701,7 +44701,7 @@ Skanova har för övrigt, inget att invända mot planförslaget.
 
 Kommentar: Noteras.
 
-8. Ellevio 2019-12-20
+8\. Ellevio 2019-12-20
 Inom aktuellt område finns befintliga jordkabelledningar för högspänning l0kV samt
 
 lågspänning 0,4kV. Över området går regionnäts ledning på 130 kV.
@@ -44741,7 +44741,7 @@ Schallengruber, tel. 070-8656255
 Kommentar: Planen möjliggör placering av transformatorstationer inom
 verksamhetskvarteren. Inga särskilda E-områden har skapats för detta ändamål.
 
-9. Veidekke Eiendom AB och Eksta Bostads AB 2019-12-18
+9\. Veidekke Eiendom AB och Eksta Bostads AB 2019-12-18
 Klovsten tillsammans med Kungsbackaskogen och Gräskärr i sydvästra delen av centrala
 Kungsbacka utgör markområden med stor potential, viktiga för Kungsbackas framtida
 utveckling, se bild på följande sida. För att kunna dra nytta av områdets fulla potential anser vi
@@ -44785,7 +44785,7 @@ för både Klovsten och Gräskärr.
 Nivåerna för industribuller kommer att förbättras vid ett genomförande av planen
 jämfört med dagens situation.
 
-10. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-17
+10\. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-17
 Det är ytterst förvånande att våra tidigare insända synpunkter så totalt har saknat betydelse i
 ärendes vidare hantering. Det handlar om det, i den fördjupade översiktsplanen för
 Kungsbacka stad antagen 2009, utpekade framtida bostadsområdet Gräskärr, som gränsar till
@@ -44820,7 +44820,7 @@ Kommentar: Syftet med detaljplanen för Klovsten är att inom avgränsat område
 möjliggöra ett nytt verksamhetsområde, uppdraget omfattar inte att ta ett helhetsgrepp
 för både Klovsten och Gräskärr.
 
-11. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-16
+11\. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-16
 
 Det är ytterst förvånande att våra tidigare insända synpunkter, så totalt har saknat betydelse, i
 detta ärendes vidare hantering. Vi pratar naturligtvis om det, i den fördjupade översiktsplanen
@@ -44850,7 +44850,7 @@ Kommentar: Syftet med detaljplanen för Klovsten är att inom avgränsat område
 möjliggöra ett nytt verksamhetsområde, uppdraget omfattar inte att ta ett helhetsgrepp
 för både Klovsten och Gräskärr.
 
-12. Fastighetsägare till Ysby 2:2 och Ysby s:5, 2019-12-21
+12\. Fastighetsägare till Ysby 2:2 och Ysby s:5, 2019-12-21
 
 <!-- sida 1410 -->
 
@@ -44880,7 +44880,7 @@ för både Klovsten och Gräskärr.
 
 Kommunala förvaltningar och nämnder
 
-13. Kultur & Fritid 2019-12-13
+13\. Kultur & Fritid 2019-12-13
 Området ligger mycket exploaterat både mot E6:an och väg 158:an och gränsar till skogs- och
 grönområden med höga natur- och rekreationsvärden för invånarna. Nockhöjder på nya
 byggnader planeras upp till 16–20 meter. I en illustration i samrådshandlingen förhåller sig
@@ -44967,7 +44967,7 @@ Kommentar: Samhällsbyggnadskontoret delar Kultur och fritids synpunkt om att
 trygghetsfrågorna är viktiga för Klovsten. Dock är frågan som rör säkerhets- och
 övervakningsalternativ inte en planfråga.
 
-14. Miljö & Hälsoskydd 2019-12-16
+14\. Miljö & Hälsoskydd 2019-12-16
 
 Föroreningar inom området
 En ”Miljöhistorisk inventering och översiktlig provtagningsstrategi” (Geosigma 2018-11-19)
@@ -45110,7 +45110,7 @@ Kommentar: Detaljplanens intention är att vara flexibel och möjlig för flerta
 lösningar. Det är än inte beslutat om Återvinningscentralen ska finnas inom området
 eller inte, detaljplanen gör dock möjligt för att den ska få finnas.
 
-15. Teknik 2019-12-04
+15\. Teknik 2019-12-04
 
 <!-- sida 1415 -->
 
@@ -45152,7 +45152,7 @@ utformning därigenom. Inom användningen NATUR finns möjlighet till utrymmen f
 omhändertagande av dagvatten, så som ett dike.
 Övriga synpunkter beaktas.
 
-16. Socialdemokraterna 2019-12-20
+16\. Socialdemokraterna 2019-12-20
 
 Socialdemokraterna har i ett tidigare skede tagit ställning till den dåvarande planen med
 återvinning och möjlighet till recycling och återbruk samt den möjlighet som kunde ges till
@@ -45234,7 +45234,7 @@ Kommentar: Se Trafikverkets yttrande samt kommunens svar under yttrande
 
 Övriga
 
-17. E.ON Energidistribution AB 2019-11-27
+17\. E.ON Energidistribution AB 2019-11-27
 
 E.ON Energidistribution AB och E.ON Biofor Sverige AB har tagit del av inkomna handlingar
 enligt bifogade filer. Då detaljplanen inte ligger inom E.ON Energidistribution
@@ -45242,7 +45242,7 @@ koncessionsområde för elnätet samt att E.ON Biofor ej har några gasanläggni
 området så har vi inget att erinra över granskningen.
 
 Kommentar: Noteras.
-18. Hallandstrafiken 2019-12-13
+18\. Hallandstrafiken 2019-12-13
 
 Detaljplanen föreslår att en ny hållplats byggs i anslutning till ny cirkulationsplats som
 planeras i korsningen mellan väg 158 och Kobergsgatan. Samma cirkulationsplats
@@ -45258,7 +45258,7 @@ har inga synpunkter på planförslaget.
 
 Kommentar: Noteras.
 
-19. PostNord 2019-12-03
+19\. PostNord 2019-12-03
 PostNord har i uppdrag att tillhandahålla den samhällsomfattande posttjänsten vilket bland
 annat innebär att det är Postnord som ska godkänna placeringen och standarden på
 postmottagningsfunktionen. I denna roll representerar Postnord samtliga postoperatörer som är
@@ -45284,7 +45284,7 @@ En placering som inte är godkänd, leder till att post en inte börjar delas ut
 
 Kommentar: Noteras.
 
-20. Boende på Varlabergsvägen 2019-12-04
+20\. Boende på Varlabergsvägen 2019-12-04
 Angående Detaljplan Klovsten, så protesterar vi mot detta urdåliga förslag. Vi som bor i
 Varlaberg har redan ett Industriområde med allt vad det ställer till, så har ni tänkt ge oss ett till.
 Det fungerar inte att göra så. Vi har idag ett våldsamt problem med buller från motorväg och
@@ -45360,7 +45360,7 @@ synpunkter och brist på underhåll etc. Där finns även en flik med mer inform
 vad som gäller när inte kommunen ansvarar för vägen, vid statliga- eller enskilda vägar
 (www.kungsbacka.se/Gator-trafik-och-utemiljo/Trafik-och-gator/).
 
-21. Boende på Varlabergsvägen 2019-12-04
+21\. Boende på Varlabergsvägen 2019-12-04
 Angående Detaljplan Klovsten, så protesterar vi mot detta urdåliga förslag. Vi som bor i
 Varlaberg har redan ett Industriområde med allt vad det ställer till, så har ni tänkt ge oss ett till.
 
@@ -45408,7 +45408,7 @@ köper husen, de som flyttat härifrån deras hus har barnen tagit över. Husen 
 nåt.
 Kommentar: Se svar under yttrande 20. Boende på Varlabergsvägen.
 
-22. Boende på Kobergsgatan 2019-12-19
+22\. Boende på Kobergsgatan 2019-12-19
 
 ÖVERKLAGANDE  ANGÅENDE DETALJPLAN FÖR KLOVSTEN
 VERKSAMHETSOMRÅDE
@@ -45535,11 +45535,11 @@ LÄNSSTYRELSEN                  SAMRÅDSYTTRANDE        2 (9)
 2020-01-15       402-8346-19
 
 Länsstyrelsen befarar att:
-- miljökvalitetsnormer enligt miljöbalken inte iakttas.
-- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\- miljökvalitetsnormer enligt miljöbalken inte iakttas.
+\- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
-- riksintresse enligt miljöbalken påtagligt kommer att skadas.
+\- riksintresse enligt miljöbalken påtagligt kommer att skadas.
 Dagvatten och Miljökvalitetsnormer (MKN) för vatten
 
 Även om bedömningen är att den planerade markanvändningen inte kommer att
@@ -45631,8 +45631,8 @@ eventuella åtgärder i det statliga vägnätet.
 Se vidare Trafikverkets yttrande daterat 2019-12-18
 Länsstyrelsen befarar inte att:
 
-- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
-- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 
 Råd om tillämpningen av PBL och miljöbalken
 Förorenad mark
@@ -45846,7 +45846,7 @@ Att planera för en god infrastruktur för fossilfria transporter är en viktig 
 med att nå de nationella och regionala klimatmålen. Enligt dessa behöver
 
 klimatgasutsläppen från transportsektorn minska med minst 70 procent mellan 2010 och
-2030. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
+2030\. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
 15 procent mellan 2010 och 2017, krävs omfattande insatser. I ”Energi- och
 klimatstrategi för Hallands län” (Länsstyrelsens meddelande 2019:22) framhålls att
 fossilfria och effektiva transporter är den största klimatutmaningen i Halland.
@@ -46024,11 +46024,11 @@ LÄNSSTYRELSEN                  SAMRÅDSYTTRANDE        2 (9)
 2020-01-15       402-8346-19
 
 Länsstyrelsen befarar att:
-- miljökvalitetsnormer enligt miljöbalken inte iakttas.
-- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\- miljökvalitetsnormer enligt miljöbalken inte iakttas.
+\- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
-- riksintresse enligt miljöbalken påtagligt kommer att skadas.
+\- riksintresse enligt miljöbalken påtagligt kommer att skadas.
 Dagvatten och Miljökvalitetsnormer (MKN) för vatten
 
 Även om bedömningen är att den planerade markanvändningen inte kommer att
@@ -46120,8 +46120,8 @@ eventuella åtgärder i det statliga vägnätet.
 Se vidare Trafikverkets yttrande daterat 2019-12-18
 Länsstyrelsen befarar inte att:
 
-- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
-- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 
 Råd om tillämpningen av PBL och miljöbalken
 Förorenad mark
@@ -46335,7 +46335,7 @@ Att planera för en god infrastruktur för fossilfria transporter är en viktig 
 med att nå de nationella och regionala klimatmålen. Enligt dessa behöver
 
 klimatgasutsläppen från transportsektorn minska med minst 70 procent mellan 2010 och
-2030. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
+2030\. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
 15 procent mellan 2010 och 2017, krävs omfattande insatser. I ”Energi- och
 klimatstrategi för Hallands län” (Länsstyrelsens meddelande 2019:22) framhålls att
 fossilfria och effektiva transporter är den största klimatutmaningen i Halland.
@@ -46526,7 +46526,7 @@ Inkomna synpunkter har sammanfattats nedan. Personnamn anges inte. Samtliga synp
 finns tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inkommit med ett yttrande 2020-12-09 under granskningen. Efter en
 avstämning med länsstyrelsen och SGI inför antagande önskade länsstyrelsen inkomma med
@@ -46597,10 +46597,10 @@ uppmuntrar till stadigvarande vistelse” har lagt till inom användningsområde
 drivmedelsstationen. Skyddsbestämmelsen m har uppdaterats enligt yttrandet.
 4
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 Kommentar: Noteras.
 
 <!-- sida 1443 -->
@@ -46848,12 +46848,12 @@ Länsstyrelsen kan i annat fall komma att pröva detaljplanen om den antas utan 
 synpunkter beaktas.
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 Kommentar: Se kommunens kommentar på SGIs yttrande från 2023-09-22 under punkt 4.
 
 Bestämmelsen b1"Grundläggning ska utföras så att tillfredställande markstabilitet
@@ -46869,7 +46869,7 @@ KUNGSBACKA  KOMMUN
 
 11 (27)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Delar av planen som måste förbättras
 Lantmäteriet beskriver att det finns fastighetsgränser med osäker kvalitet inom området och
@@ -46985,7 +46985,7 @@ har bedömt att det är tydligt nog då det både på plankartan och i planbeskr
 att kommunen handlägger ärendet med ett utökat planförfarande, ett förfarande som
 
 infördes i och med lagstiftningen 2015-01-01.
-3. Trafikverket
+3\. Trafikverket
 
 Gällande de kompletteringar som efterfrågats i tidigare skede anser Trafikverket att den
 kompletterande trafikanalysen med simulering påvisar en liten påverkan från planerat område på
@@ -47009,7 +47009,7 @@ Kommentar: Noteras.
 Avseende geoteknik anser Trafikverket att kommunens hanteringssätt är acceptabel.
 
 Kommentar: Noteras.
-4. Statens Geotekniska Institut, SGI
+4\. Statens Geotekniska Institut, SGI
 
 SGI har inkommit med ett yttrande 2020-12-04 under granskningen. Den geotekniska
 utredningen, plankarta och planbeskrivning har efter det reviderats. Efter en avstämning med
@@ -47223,7 +47223,7 @@ Nedan ges en sammanfattning av de synpunkter som SGI framförde i senaste yttran
 tillsammans med bemötandet av dessa i [3]. SGI ansåg att följande punkter inte var klarlagda:
 
 Risken för att sekundärskred vid torvmossen kan nå södra planområdesgränsen.
-[3]: Säkerhetsfaktorn är som lägst F=1,3 och uppfyller kraven för markanvändning
+\[3]: Säkerhetsfaktorn är som lägst F=1,3 och uppfyller kraven för markanvändning
 o
 Annan mark. Därmed föreligger ingen risk för primärskred och efterföljande
 sekundärskred. Även 3D-effekter förväntas ge högre säkerhet.
@@ -47253,7 +47253,7 @@ Geoteknisk utredning - stabilitet, Norconsult 2024-02-23 för den södra slänte
 
 Stabiliteten för E6 mot dagvattendammen.
 
-[3]: beräkningar i bifogade beräkningar (bilaga 4:2 och 4:4 i [4]) visar på
+\[3]: beräkningar i bifogade beräkningar (bilaga 4:2 och 4:4 i [4]) visar på
 o
 tillfredställande stabilitet. Anläggning av dagvattendammen kommer medföra en
 avlastning ovan släntkrön då den kommer utföras genom schakt. Säkerheten mot
@@ -47268,7 +47268,7 @@ Kommentar: Noteras.
 
 Konflytgränsen för jorden i planområdets södra del.
 
-[3]: valda värden för odränerad skjuvhållfasthet underbyggs av att ursprunglig
+\[3]: valda värden för odränerad skjuvhållfasthet underbyggs av att ursprunglig
 o
 slänt inte erhållit brott även vid beaktande av ändyteeffekter. Säkerhet mot skred
 har genom därefter utförd släntutfyllnad höjts med cirka 40 % för oexploaterad
@@ -47294,7 +47294,7 @@ utredning - stabilitet, Norconsult 2024-02-23.
 
 Om det kommer bedrivas verksamheter söder om planområdesgränsens.
 
-[3]: ingen verksamhet bedrivs eller planeras söder om planområdet. Söder om
+\[3]: ingen verksamhet bedrivs eller planeras söder om planområdet. Söder om
 o
 sprängstensvallen kommer fortsatt utfyllnad ske och när den är klar kommer
 aktuell yta planläggas och upplåtas för verksamhet.
@@ -47310,11 +47310,11 @@ Kommentar: Området söder om den gräns som var aktuell när synpunkten inkom h
 inkluderats i planområdet som naturmark med planbestämmelse som begränsar
 markuppfyllnad. Uppdaterade stabilitetsberäkningar utifrån de förutsättningarna finns i
 kompletterande beräknings-PM, Geoteknisk utredning - stabilitet, Norconsult 2024-02-
-23.
+23\.
 
 Omfattningen av infiltrationen av grundvatten i planområdets södra del.
 
-[3]: i släntfot av utförd utfyllnad har mossen dikats ur varpå grundvattennivån
+\[3]: i släntfot av utförd utfyllnad har mossen dikats ur varpå grundvattennivån
 o
 inom denna del förväntas sänkas något, uppskattningsvis 0,5–1,0 meter.
 Grundvattennivån kan dock förväntas stiga inom det utfyllda området genom
@@ -47352,17 +47352,17 @@ Antingen förstärknings- eller skyddsåtgärder.
 Kommentar: Ingen bristfällig bergstabilitet har noterats utanför de två rödmarkerade
 områdena.
 
-5. Räddningstjänsten Storgöteborg
+5\. Räddningstjänsten Storgöteborg
 Räddningstjänsten Storgöteborg har inget ytterligare att tillägga ärendet.
 
 Kommentar: Noteras.
 
-6. Kulturmiljö Halland
+6\. Kulturmiljö Halland
 Kulturmiljö Halland har fått rubricerat ärende på remiss och har inga synpunkter på planen ur
 kulturhistorisk synvinkel.
 
 Kommentar: Noteras.
-7. Polisen
+7\. Polisen
 
 Polismyndigheten har tagit del av detaljplan för verksamhetsområde inom Ysby 1.12 m.fl. i
 Kungsbacka kommun. Polismyndigheten är positiv till lagd detaljplan. Polismyndigheten ser
@@ -47373,7 +47373,7 @@ Kommentar: Noteras.
 
 Sakägare
 
-8. Ellevio
+8\. Ellevio
 Ellevio har skickat in två yttranden.
 
 Ellevio yttrar att de, i tillägg till deras samrådsyttrande, vill kommentera att befintlig luft- och
@@ -47414,7 +47414,7 @@ Kommentar: Noteras.
 
 Organisationer och föreningar
 
-9. Naturskyddsföreningen
+9\. Naturskyddsföreningen
 Naturskyddsföreningen menar att domen 2019-12-26 Mål nr M4875-17 inte är slutgiltig.
 
 Kommentar: Domen 2019-12-20 i mål nr M 4875-17 har överklagats men Mark- och
@@ -47465,7 +47465,7 @@ att naturtypen alsumpskog och vattenområden generellt har naturvärde. Kommunen
 bedömning är dock att detaljplanens genomförande inte ger en negativ påverkan på
 
 nedströms liggande områden.
-10. Fiskevårdsnätverket
+10\. Fiskevårdsnätverket
 
 Fiskevårdsnätverket menar att domen 2019-12-26 Mål nr M4875-17 inte är slutgiltig.
 Kommentar: Domen 2019-12-20 i mål nr M 4875-17 har överklagats men Mark- och
@@ -47494,7 +47494,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-11. Förvaltningen för Teknik
+11\. Förvaltningen för Teknik
 Möjlighet att ansluta sig till Kungsbacka bredbandsnät kommer att finnas i området.
 
 Kommentar: Noteras.
@@ -47505,7 +47505,7 @@ Avfall Planförslaget innebär att befintlig återvinningsstation omplaceras ino
 och till Kungsbacka. Nämnden för Teknik förordar en omplacering inom området.
 Kommentar: Noteras.
 
-12. Nämnden för Miljö & Hälsoskydd
+12\. Nämnden för Miljö & Hälsoskydd
 Nämnden anser att deras tidigare yttranden om föroreningar inom området, deponiverksamhet
 samt buller har bemötts i samrådsredogörelsen och, där det varit aktuellt, även arbetats in i
 planbeskrivningen.
@@ -47528,13 +47528,13 @@ området.
 
 Kommentar: Noteras.
 
-13. Förvaltningen för Kultur & Fritid
+13\. Förvaltningen för Kultur & Fritid
 Klovstensområdet gränsar till Kungsbackaskogen som är ett populärt rekreationsområde för
 Kungsbackas invånare att uppleva, promenera och jogga i. Av den anledningen är det viktigt att
 planera verksamheter med mindre bullernivåer närmare skogen.
 
 Kommentar: Noteras.
-14. Nämnden för service
+14\. Nämnden för service
 
 Nämnden menar att placering av räddningstjänstens verksamhet inte har beaktats i detaljplanen
 med hänsyn till dess behov av flera utfartsvägar, ljusreglering och påverkan på trafiken.
@@ -47560,7 +47560,7 @@ också i anslutning till Kungsbackaskogen och planen ska tillgodose god och tryg
 för alla till friluftsområdet.
 Kommentar: Noteras.
 
-15. Socialdemokraterna
+15\. Socialdemokraterna
 Socialdemokraterna anser att flera av deras frågor och farhågor från samrådsskedet har besvarats
 
 i uppdaterade utredningar.
@@ -47585,11 +47585,11 @@ Socialdemokraterna ingen erinran mot utformningen av Klovstens industriområde.
 Kommentar: Noteras.
 
 Övriga
-16. Fastighetsägare till Välås 4:2
+16\. Fastighetsägare till Välås 4:2
 
 Synpunkter är samma som inkom från Naturskyddsföreningen. Se kommentarer under
 Naturskyddsföreningen yttrande 9.
-17. Fastighetsägare till Varla 6:5
+17\. Fastighetsägare till Varla 6:5
 
 <!-- sida 1464 -->
 
@@ -47774,7 +47774,7 @@ förslaget kan komma att prövas. Länsstyrelsen önskar att kommunen samråder 
 myndigheten innan detaljplanen antas.
 
 Länsstyrelsen befarar att:
--  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\-  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
 Motiv för bedömningen
@@ -47851,11 +47851,11 @@ LÄNSSTYRELSEN                    Yttrande               3(4)
 2020-12-09   402-8151-2020
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
 bestämmelser.
 
 Bakgrundsinformation
@@ -47915,12 +47915,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 $ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 $
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -47942,8 +47942,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -47958,11 +47958,11 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -47991,7 +47991,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 $ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -48024,33 +48024,33 @@ farligt gods.
 I denna utredning framgår olika skyddsåtgärder som behöver vidtas. Det
 saknas dock några av dessa i plankartan:
 
-- Lägg till ”fasad ska vara i obrännbart material” som information i
+\- Lägg till ”fasad ska vara i obrännbart material” som information i
 bestämmelse mo.
 
-- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
+\- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
 förhindras att rinna in på området vid en eventuell olycka med
 farligt gods.
 
-- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
+\- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
 av bensinstation, det vill säga även söder och väster om det
 område i plankartan som tillåter drivmedelsförsäljning.
 
-- Det saknas en bestämmelse för att påfyllningsanslutningen till
+\- Det saknas en bestämmelse för att påfyllningsanslutningen till
 cisterner skall placeras minst 25 meter från övriga byggnader (ej
 bensinstation
 
 Länsstyrelsen befarar inte att:
 
-- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+\- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
-- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
+\- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
 följs,
 
-- strandskydd enligt 7 kap miljöbalken upphävs i strid
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid
 med gällande bestämmelser.
 
 Övrigt
@@ -48101,11 +48101,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 $ PBL ska
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 $ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -48126,14 +48126,14 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 & PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQlansstyrelsen.se Webb: lansstyrelsen.se/halland
@@ -48146,7 +48146,7 @@ Länsstyrelsen Hallands län Yttrande 2 (2)
 2023-09-27 402-6377-2023
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -48180,7 +48180,7 @@ Länsstyrelsen befarar inte att:
 = ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
 = en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
@@ -48230,7 +48230,7 @@ förslaget kan komma att prövas. Länsstyrelsen önskar att kommunen samråder 
 myndigheten innan detaljplanen antas.
 
 Länsstyrelsen befarar att:
--  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\-  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
 Motiv för bedömningen
@@ -48307,11 +48307,11 @@ LÄNSSTYRELSEN                    Yttrande               3(4)
 2020-12-09   402-8151-2020
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
 bestämmelser.
 
 Bakgrundsinformation
@@ -48372,11 +48372,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 $ PBL ska
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 $ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -48397,8 +48397,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
@@ -48417,7 +48417,7 @@ Länsstyrelsen Hallands län Yttrande 2 (2)
 2023-09-27 402-6377-2023
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -48451,7 +48451,7 @@ Länsstyrelsen befarar inte att:
 = ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
 = en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
@@ -48486,12 +48486,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 $ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 $
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -48513,8 +48513,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -48529,11 +48529,11 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -48562,7 +48562,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 $ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -48595,33 +48595,33 @@ farligt gods.
 I denna utredning framgår olika skyddsåtgärder som behöver vidtas. Det
 saknas dock några av dessa i plankartan:
 
-- Lägg till ”fasad ska vara i obrännbart material” som information i
+\- Lägg till ”fasad ska vara i obrännbart material” som information i
 bestämmelse mo.
 
-- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
+\- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
 förhindras att rinna in på området vid en eventuell olycka med
 farligt gods.
 
-- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
+\- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
 av bensinstation, det vill säga även söder och väster om det
 område i plankartan som tillåter drivmedelsförsäljning.
 
-- Det saknas en bestämmelse för att påfyllningsanslutningen till
+\- Det saknas en bestämmelse för att påfyllningsanslutningen till
 cisterner skall placeras minst 25 meter från övriga byggnader (ej
 bensinstation
 
 Länsstyrelsen befarar inte att:
 
-- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+\- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
-- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
+\- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
 följs,
 
-- strandskydd enligt 7 kap miljöbalken upphävs i strid
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid
 med gällande bestämmelser.
 
 Övrigt
@@ -48662,7 +48662,7 @@ Kommunstyrelsen Datum
 
 2018-06-19
 
-$ 162
+\$ 162
 
 Planprogram för verksamheter i Klovsten
 Dnr KS/2017:322
@@ -48706,7 +48706,7 @@ av Klovstenområdet.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2018-06-12, $ 245 Förslag: Kommunstyrelsen
+Kommunstyrelsens arbetsutskott, 2018-06-12, \$ 245 Förslag: Kommunstyrelsen
 beslutar att godkänna Planprogram för verksamheter i Klovsten, daterad december
 2017 och att programmet ska ligga till grund för kommande planläggning av
 Klovstenområdet.
@@ -48727,7 +48727,7 @@ Kommunstyrelsen hemställer till byggnadsnämnden att utarbeta förslag till
 detaljplan för verksamheter i Klovsten för det norra området, etapp 1, i enlighet med
 kommunstyrelsens direktiv.
 
-Kommunstyrelsens arbetsutskott, 2018-06-05, $ 240, Beslut: Kommunstyrelsens
+Kommunstyrelsens arbetsutskott, 2018-06-05, \$ 240, Beslut: Kommunstyrelsens
 arbetsutskott återremitterar ärendet för förtydligande av vilka revideringar som
 tillkommit till planprogrammet daterat december 2017.
 
@@ -48996,7 +48996,7 @@ Miljökonsekvensbeskrivning, 2024-03-20, rättad 2024-09-30
 Vid sammanträdet redogör samhällsbyggnadskontoret för att en redaktionell ändring
 behöver göras i första beslutsatsen, då dateringen av granskningsutlåtandet och
 antagandehandlingarna är felaktig i arbetsutskottets förslag till beslut (2025-02-25 §
-49) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
+49\) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
 Underlagen i sig är korrekt daterade med 2025-02-11.
 
 Byggnadsnämnden har inget att erinra mot samhällsbyggnadskontorets redogörelse.
@@ -49079,7 +49079,7 @@ Avgränsad            via    sekundär
 Höjd     på   byggnadsverk
 
 egenskapsgräns                  och
-Högsta     nockhöjd       är  <angivet>      meter
+Högsta     nockhöjd       är  \<angivet>      meter
 användningsgräns
 över   angivet     nollplan.
 
@@ -49403,18 +49403,18 @@ Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
 
 Ärendeinformation
 
-1. Kommunens namn: Kungsbacka kommun
+1\. Kommunens namn: Kungsbacka kommun
 
-2. Detaljplanens namn: Detaljplan för verksamheter inom del av Kungsbacka 6:27 och
+2\. Detaljplanens namn: Detaljplan för verksamheter inom del av Kungsbacka 6:27 och
 Hammargård 1:7 m fl
 
-3. Diarienummer: BN 2021-00017
+3\. Diarienummer: BN 2021-00017
 
-4. Beslut om antagande: informationen kompletteras efter antagande
+4\. Beslut om antagande: informationen kompletteras efter antagande
 
-5. Datum då detaljplanen är påbörjad: 2021-04-29
+5\. Datum då detaljplanen är påbörjad: 2021-04-29
 
-6. Datum för laga kraft: Kompletteras efter laga kraft
+6\. Datum för laga kraft: Kompletteras efter laga kraft
 
 Genomförandetid
 
@@ -50210,7 +50210,7 @@ förekomster av högrisk för markradon. Delar av området är klassat som högr
 markradon.
 
 Enligt den geotekniska utredningen (Norconsult, 2022-05-04, kompletterad 2022-12-
-21) överstiger radiumhalten 60 Bq/kg, gränsvärde för normalradon, i 7 av 13
+21\) överstiger radiumhalten 60 Bq/kg, gränsvärde för normalradon, i 7 av 13
 
 mätpunkter. Berggrunden i området kan i sin helhet bedömas som
 normalriskområde avseende radon. På grund av detta rekommenderas byggnader
@@ -51108,7 +51108,7 @@ totalstabiliteten kontrolleras och beaktas. Därför finns inga belastningsrestr
 begränsningar i plankartan. I utredningen finns även förtydliganden gällande hur schakter ska
 hanteras. Planbeskrivningen uppdateras gällande kompletteringar och förtydliganden från
 utredningen.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på de aktuella planhandlingarna.
 Kommentar: Noteras
@@ -51140,7 +51140,7 @@ Kommentar: Skyfallsvatten fördröjs i befintliga diken innan det når järnväg
 Trafikverkets yttrande har skickats till fastighetsägarna för kännedom inför kommande projektering och
 byggnation.
 
-4. SGI
+4\. SGI
 
 SGI:s synpunkter SGI har under samrådsskedet yttrat sig, (2022-10-10 dnr 5.2-2209-0868) och då
 framfört att synpunkter på planhandlingarna.
@@ -51189,19 +51189,19 @@ nuvarande förhållanden och de riktvärden som finns för befintlig verksamhet 
 
 beskrivning av resultatet av de kompletterande beräkningarna.
 
-5. Region Halland
+5\. Region Halland
 Region Halland har inga synpunkter på planförslaget men vill poängtera att västkustbanans funktion
 behöver beaktas och att inte tågtrafiken ska störas.
 Kommentar: Noteras
 
 Sakägare
 
-6. Ellevio
+6\. Ellevio
 
 Ellevio har inget att erinra gentemot planförslaget.
 Kommentar: Noteras
 
-7. E.ON
+7\. E.ON
 
 E.ON Energidistribution AB (E.ON) har tagit del av inkomna handlingar i ovan rubricerat ärende och
 har inga ytterligare synpunkter. Hänvisar till vårt yttrande från 2022/06/10.
@@ -51210,7 +51210,7 @@ omhändertagna genom u-område, ledningsrätt eller avtal.
 
 Kommunala förvaltningar och nämnder
 
-8. Miljö & Hälsoskydd
+8\. Miljö & Hälsoskydd
 
 Vid tidigare yttrande i samråd framfördes synpunkter om dagvattenhantering och förorenad mark.
 Vissa synpunkter har arbetats in i planbeskrivningen som nu är på granskningen, men fortfarande
@@ -51248,7 +51248,7 @@ järnvägen där det fördröjs och renas. Funktionen på detta dike kan förbä
 utformning och skötsel. Miljö & Hälsoskydds yttrande har skickats till fastighetsägarna för
 kännedom inför kommande projektering och byggnation.
 
-9. Räddningstjänsten
+9\. Räddningstjänsten
 Räddningstjänsten Storgöteborg (RSG) har inte deltagit vid samråd på grund av registreringsproblem
 efter byte av RSG:s ärendehanteringssystem under 2022.
 
@@ -51320,7 +51320,7 @@ kommunala brandpost finns vid infarten till området.
 
 Övriga
 
-10. Swedavia Airports
+10\. Swedavia Airports
 
 <!-- sida 1544 -->
 
@@ -51445,7 +51445,7 @@ Genomförande
 Byggnadsnämnden beslöt den 2022-08-25 § 227 att genomföra samråd för detaljplaneförslaget.
 Detaljplaneförslaget inklusive tillhörande miljökonsekvensbeskrivning har varit utställt för samråd i
 Stadshuset i Kungsbacka och på biblioteket i Kungsbacka under tiden 13 september till 8 oktober
-2022.
+2022\.
 
 Planförslaget och miljökonsekvensbeskrivningen har under samma tid sänts till berörda myndigheter,
 nämnder, föreningar och sakägare för yttrande.
@@ -51469,7 +51469,7 @@ tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Synpunkter på sådant som kan aktualisera prövning
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § PBL och nu kända
@@ -51724,7 +51724,7 @@ Kommentar: Plankartan har kompletterats med markreservat (u-område).
 KUNGSBACKA  KOMMUN
 7 (13)
 
-3. Statens geotekniska institut (SGI)
+3\. Statens geotekniska institut (SGI)
 
 Geoteknik
 
@@ -51761,7 +51761,7 @@ handlingarna ska kunna betraktas som fullständiga.
 Kommentar: Den geotekniska och bergtekniska utredningen har kompletterats med
 resonemang och förtydliganden utifrån inkomna synpunkter.
 
-4. Trafikverket
+4\. Trafikverket
 
 Avstånd till järnvägen
 Generellt bör ny bebyggelse inte tillåtas inom ett område på 30 meter från järnvägen, (räknat från
@@ -51788,12 +51788,12 @@ vistas närmare spåret än 30 meter.
 Dagvattenhantering
 
 Trafikverket inte har någonting att invända mot dagvattenshanteringsförlag under förutsättning att
-- Inte mer hårdgjorda ytor anläggs jämfört med dagens situation samt
+\- Inte mer hårdgjorda ytor anläggs jämfört med dagens situation samt
 
-- Höjdsättningen av marken utformas på ett sådant sätt att ytledes rinnande skyfallsvatten inte direkt
+\- Höjdsättningen av marken utformas på ett sådant sätt att ytledes rinnande skyfallsvatten inte direkt
 leds ner mot järnvägen utan att det först fördröjs vid deras fastighet
 
-- Vattnet som leds ner mot Trafikverkets fastighet inte är förorenat.
+\- Vattnet som leds ner mot Trafikverkets fastighet inte är förorenat.
 
 Kommentar: De få ytor inom planområdet som idag inte är hårdgjorda har bestämmelsen n1
 ”Marken får inte hårdgöras”.
@@ -51924,7 +51924,7 @@ planbeskrivningen som ”Marken får inte hårdgöras” och ”befintligt dike 
 att ytor avsätts för dagvattenhanteringen i detaljplanen.
 De befintliga dagvattensystemen beskrivs i en dagvatten- och skyfallsutredning framtagen av Sweco,
 
-2022. De råd som ges i dagvattenutredningen är att det är viktigt att de båda verksamheterna
+2022\. De råd som ges i dagvattenutredningen är att det är viktigt att de båda verksamheterna
 underhåller sina befintliga reningsanläggningar för dagvatten för att de ska behålla sin funktion. Man
 ska också begränsa den framtida avrinningen och bevara de få grönytor som finns idag. Även ett ev
 biofilter föreslås kunna anläggas med syfte att främja ekosystemtjänster.
@@ -51994,7 +51994,7 @@ inte anser att de påverkas av detaljplanen.
 Vi har inget att erinra mot planförslaget.
 Kommentar: Noteras
 
-11. Socialdemokraterna
+11\. Socialdemokraterna
 
 Socialdemokraterna står bakom utveckling av befintligt värmeverk och reningsverk på fastigheterna
 Kungsbacka 6:27 och Hammargård 1:7. Den nya detaljplanen ger reningsverket och värmeverket
@@ -52229,10 +52229,10 @@ Denna handling har godkänts digitalt och saknar därför namnunderskrift.
 
 Bilaga för kännedom:
 Kopia av yttrande till från:
--  Statens geotekniska institut 2022-10-10
+\-  Statens geotekniska institut 2022-10-10
 
--  Trafikverket 2022-10-07
--  Lantmäteriet 2022-10-07
+\-  Trafikverket 2022-10-07
+\-  Lantmäteriet 2022-10-07
 
 Kopia (utan bilaga) till:
 
@@ -52353,7 +52353,7 @@ Den primära miljöpåverkan från värmeverket utgörs huvudsakligen av utsläp
 kväveoxider NOx och stoft. Enligt framtagna utredningar finns ingen risk för att miljökvalitetsnormerna för
 partiklar, kväveoxider och kolmonoxid överskrids med två biobränslepannor. Villkoren vad gäller utsläpp enligt
 tillståndet är uppfyllda vad gäller stoft, CO och NO Vid genomförandet av detaljplanen planeras ingen
-2.
+2\.
 utbyggnad av fler biobränslepannor och därmed bedöms utsläppsmängderna och halterna från värmeverket
 bli oförändrade jämfört med nuläget.
 Enligt kartläggning av luftföroreningssituationen i Kungsbacka 2015 konstateras att alla tre
@@ -53575,7 +53575,7 @@ eller aldrig för övriga ämnen. En sammanställning av gränsvärdena för de 
 Tabell 9.1.
 Tabell 9.1. Miljökvalitetsnormer för utomhusluft (Naturvårdsverket 2019).
 
-*  98-percentilvärde ** 90-percentilvärde
+\*  98-percentilvärde \*\* 90-percentilvärde
 
 9.2 Nuvarande förhållanden
 
@@ -53606,8 +53606,8 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 |  | Årsmedelvärde<br>(µg/m3) | Dygnsmedelvärde<br>(µg/m3) | Timmedelvärde<br>(µg/m3) |
 | --- | --- | --- | --- |
-| MKN Kvävedioxid | 40 | 60* | 90* |
-| MKN Partiklar (PM10) | 40 | 50** | - |
+| MKN Kvävedioxid | 40 | 60\* | 90\* |
+| MKN Partiklar (PM10) | 40 | 50\*\* | - |
 
 <!-- sida 1598 -->
 
@@ -54298,12 +54298,12 @@ belägna vattenförekomsterna i Kungsbackaån och Inre Kungsbackafjorden.
 Vattenförekomst           Status             Miljökvalitetsnorm
 ID          Namn     Ekologisk Kemisk    Ekologisk Kemisk
 WA82828105  Kungsbackaån - Måttlig Uppnår ej god God  God kemisk
-Mynningen till Lillån status status ekologisk status*
+Mynningen till Lillån status status ekologisk status\*
 status 2033
 WA21723833  Inre           Måttlig Uppnår ej god God  God kemisk
-Kungsbackafjorden status status   ekologisk status*
+Kungsbackafjorden status status   ekologisk status\*
 status 2027
-*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
+\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
 tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden)
 
 Figur 11.3. Vattenförekomst Kungsbackaån (Mynningen-Lillån) och röd ring visar planområdet (VISS, 2024a).
@@ -54605,7 +54605,7 @@ Planerad utökning av reningsverkets kapacitet och dess påverkan på miljökval
 Kungsbackaån och Inre Kungsbackafjorden har studerats inom ramen för tillståndsprocessen för
 reningsverket där omfattande beräkningar och påverkansanalyser gällande reningsverkets utsläpp och
 undersökningar av bl.a. bottenfauna, fisk och ålgräs (Sweco, 2020b; 2021a; 2021b; 2022). (Ekologigruppen,
-2020) (PAG, 2020). Dessa har legat till grund för den samlade bedömning av verksamhetens påverkan på
+2020\) (PAG, 2020). Dessa har legat till grund för den samlade bedömning av verksamhetens påverkan på
 miljökvalitetsnormerna för berörda recipienter som gjorts i tillståndsansökan med efterföljande bemötanden.
 Detta gäller recipienternas nuvarande och framtida ekologiska och kemiska status, både på en övergripande
 nivå eller på kvalitetsfaktornivå (Stangdell och Wennerqvist, 2023).
@@ -54878,7 +54878,7 @@ Kungsbackaån är även generellt viktig för närrekreation och utgör en vikti
 enligt den fördjupade översiktsplanen för Kungsbacka stad (Kungsbacka kommun, 2009). Ett
 sammanhängande grönstråk löper längs Kungsbackaån genom staden ned till Inlagsleden och i framtaget
 gestaltningsprogram för Kungsbackaån och i grönstrukturplanen för staden (Kungsbacka kommun, 2007;
-2008) föreslås detta grönstråk fortsätta längs med ån ner till Kungsbackafjorden. Längs sträckan mellan
+2008\) föreslås detta grönstråk fortsätta längs med ån ner till Kungsbackafjorden. Längs sträckan mellan
 Inlagsleden och fjorden föreslås åns naturkaraktär i framtiden utvecklas med nya våtmarker och plantering av
 träd utefter ån.
 
@@ -55733,7 +55733,7 @@ Kungsbacka kommun. (1986). Förslag till stadsplan för Stadsäga 450 i Kungsbac
 Kungsbacka kommun. (1993). Naturskyddsprogram för Kungsbacka kommun. Miljö- och hälsoskyddskontoret.
 
 Kungsbacka kommun. (1998 rev 2012). Sjöar och vattendrag i Kungsbacka kommun 1997. Delvis reviderad
-2012.
+2012\.
 Kungsbacka kommun. (2002). Detaljplan för fastigheten Hammargård 1:7 m.fl. i Kungsbacka tätort. Antagen
 2002-06-06.
 
@@ -56474,7 +56474,7 @@ Internationella minnesdagen den 27 januari varje år.
 
 Socialdemokraterna yrkar att kommunfullmäktige beslutar att:
 
-- Inrätta en årlig minnesdag för Förintelsens offer i samband med den internationella
+\- Inrätta en årlig minnesdag för Förintelsens offer i samband med den internationella
 minnesdagen.
 
 Kommunfulhnäktigeledamöter
@@ -56796,17 +56796,17 @@ följande:
 Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma följande
 underlag:
 
--  Hur beräkning av 144 mnkr som kostnad för pilot har räknats fram eftersom
+\-  Hur beräkning av 144 mnkr som kostnad för pilot har räknats fram eftersom
 motionen inte anger storleken på pilotverksamheten eller dess längd.
 
--  Mer specifikt hur arbetet har gått i bl a Göteborgs stad med dessa satsningar
+\-  Mer specifikt hur arbetet har gått i bl a Göteborgs stad med dessa satsningar
 och hur Göteborgs stad har planerat för fortsatt arbete utifrån de rön man har
 fått fram.
--  Ett bredare underlag om vilka forskningsrön som finns och exempel på
+\-  Ett bredare underlag om vilka forskningsrön som finns och exempel på
 studier i närtid där 6-timmars arbetsdag och förkortad arbetstid har
 genomförts och vilka slutsatser som dessa studier har visat.
 
--  Vilken syn som fackliga organisationer har på denna fråga som organiserar
+\-  Vilken syn som fackliga organisationer har på denna fråga som organiserar
 medarbetare i nom vård och omsorg i förvaltningens verksamhet.
 
 Beslutsgång
@@ -58084,7 +58084,7 @@ av stress flera gånger i veckan eller oftare (25 respektive 34 procent av killa
 
 är stress ett ungefär lika vanligt besvär som sömnsvårigheter och att känna sig aggressiv/arg.
 
-#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
+\#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
 
 •  Enkätundersökningen ”Men seriöst” (2023) som riktade sig till målgruppen 15 - 20 år och fick
 in 1110 svar visar att utsattheten på nätet är omfattande i Kungsbacka kommun likväl som
@@ -58127,14 +58127,14 @@ befolkningen. Detta görs på både strategisk och operativ nivå med i linje me
 kommunfullmäktigemålen och vision 2030. Arbetet sker på förvaltningsnivå men även i samverkan
 mellan olika förvaltningar:
 
--  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
+\-  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
 stärka arbetet med sociala aspekter inom samhällsplaneringen. Kungsbacka kommun arbetar
 med sociala konsekvensanalyser i samhällsplaneringen för att säkerställa
 rekreationsmöjligheter, rörelse, mötesplatser för samvaro samt trygga och inkluderande
 
 miljöer. Detta arbete inkluderar flera förvaltningar.
 
--  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
+\-  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
 kommun 2.0. Detta arbete bygger på åtta investeringar för att främja fysisk aktivitet. I ett av
 målen arbetar Teknik och Förskola & Grundskola med aktiva transporter till skolan och i ett av
 de andra arbetar Service med hälsofrämjande matmiljöer. Måltider har under året anslutit till
@@ -58146,7 +58146,7 @@ som lanserades 2023 och som kommer ligga till grund för de nya råd för försk
 som Livsmedelsverket planerar lansera under 2025. Arbetet har som mål att alla barn och unga
 i Kungsbacka ska ha möjlighet och vilja att leva ett hälsosamt och aktivt liv.
 
--  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
+\-  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
 på, där de kan få ett socialt sammanhang och en positiv upplevelse kopplad till idrott. Som ett
 komplement till idrottsföreningar erbjuder vi Mötesplats Idrott, en plats där invånaren är
 välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan komma ensam eller
@@ -58154,7 +58154,7 @@ välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan ko
 med kompisar. Mötesplats Idrott finns på tre ställen i kommunen och riktar sig till barn och
 unga över 12 år som vill idrotta förutsättningslöst tillsammans med sina vänner.
 
--  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
+\-  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
 kommunövergripande i arbetet utifrån reformen "God och nära vård" i Kungsbacka. Reformen
 omfattar och påverkar flera förvaltningar och innebär en omställning av välfärden som mer
 behöver bedrivas med ökat fokus på förebyggande och hälsofrämjande arbete. Det
@@ -58170,7 +58170,7 @@ KUNGSBACKA  KOMMUN
 En god samverkan med andra aktörer både internt och externt, såsom Region Halland och övrig
 primärvård i vårdcentralerna, är av stor vikt för invånarnas hälsa och välbefinnande.
 
--  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
+\-  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
 på att främja fysisk aktivitet och förbättra hälsan hos barn och ungdomar i Kungsbacka. De har
 föreslagit ökade möjligheter till fysisk aktivitet i skolan för att främja bättre fysisk och psykisk
 hälsa. Arbete genomförs för att förbättra undervisningskvaliteten och skapa en tillgänglig
@@ -58183,7 +58183,7 @@ och förbättra deras koncentration och inlärning. Rektorer beskriver att de se
 kränkningar mellan elever minskar. Genom dessa insatser har skolan strävat efter att skapa en
 mer aktiv och hälsosam miljö för barn och ungdomar i Kungsbacka kommun.
 
--  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
+\-  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
 har 16 mötesplatser för seniorer runt om i kommunen. På mötesplatserna har seniorer möjlighet
 
 att umgås och delta i aktiviteter utifrån sina intressen och förutsättningar, men det går precis
@@ -58191,7 +58191,7 @@ lika bra att bara komma in på en kopp kaffe. Aktiviteter som gympa, sittgympa, 
 föreläsningar (psykisk hälsa, alkohol m.m), yoga, rörlighetsträning, allsång, promenad med
 mera genomförs varje vecka.
 
--  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
+\-  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
 värdera och använda information för att bibehålla och främja hälsa.
 Hälsolitteracitet har med människors kunskap, motivation och förmåga att få tillgång till,
 
@@ -58207,7 +58207,7 @@ invånare och underlätta möjligheterna för ett besök.
 Utgångspunkten för hälsolitteracitet är att människor själva kan främja sin hälsa och lösa
 hälsoproblem.
 
--  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
+\-  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
 föreläsningar kring aktuell statistik och berusningsmedel på föräldramöten, på våra
 
 <!-- sida 1712 -->
@@ -58225,7 +58225,7 @@ förflyttning när man med gemensamma krafter tillsammans med andra myndigheter 
 krögare arbetar så att våra kommuninnevånare och besökare i Kungsbacka välkomnas av
 trygga krogmiljöer.
 
--  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
+\-  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
 med hemsjukvården från Vård & Omsorg. Hälsosatsningen är samlingsnamnet för olika
 
 förebyggande och främjande insatser vars syfte är att förbättra hälsoprognosen för brukare
@@ -58235,14 +58235,14 @@ intellektuell funktionsnedsättning har en särskild utsatthet för ojämlik hä
 utbildning av personal och genomförande av ett antal olika aktiviteter för alla hyresgäster på
 Bmss inom området matvanor, näring, fysisk aktivitet och rörelse.
 
--  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
+\-  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
 nämndmål ”Hälsofrämjande livsstil” har en handlingsplan inom gymnasieskolorna tagits fram
 som man nu arbetar efter.
 Inom ramen för denna handlingsplan utvecklar gymnasieskolorna ett hälsofrämjande program
 för elever. Detta inkluderar en plan för kontinuerlig implementering och integration i skolans
 läroplan.
 
--  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
+\-  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
 ett gott åldrande. Invånarna erbjuds uppföljande samtal om vardagsliv och hälsa, säkerhet i
 
 vardagen men även om hur fallolyckor kan förbyggas. I utskicket som går ut till ca 800 - 900
@@ -58412,7 +58412,7 @@ inte läggas på en enskild nämnd. Genom tidiga insatser i skolan såväl som i
 delar av livet kommer våra kommuninvånare leva bättre liv.
 
 Därför yrkar vi på att
-- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
+\- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
 strategiskt folkhälsoprogram i dialog med politiken för att förbättra folkhälsan i alla åldrar.
 
 Shabnam Zamani (S)

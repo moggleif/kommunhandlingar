@@ -720,15 +720,15 @@ ska bebyggelseområdets särskilda kulturhistoriska och miljömässiga värden s
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Enligt 2 kap 1 § PBL ska vid prövningen av frågor hänsyn tas till både allmänna och
@@ -815,11 +815,11 @@ går genom tomten som tar dagvatten från ett antal fastigheter.
 Fastighetsägare skriver följande i sitt yttrande:
 ”- Placeringen ligger alldeles för nära vår fastighet, påverkar vår integritet.
 
-- Placeringen ges för nära insyn till alla våra sovrumsfönster, påverkar vår integritet.
+\- Placeringen ges för nära insyn till alla våra sovrumsfönster, påverkar vår integritet.
 
-- Det finns sällsynta djurarter inom placeringen där det finns träd och vatten, tex
+\- Det finns sällsynta djurarter inom placeringen där det finns träd och vatten, tex
 hackspett och igelkottar, vilket påverkas negativt av byggnation.
-- Vi anser att det är en konstig och ineffektiv avstyckning. Det kallas för Villa men är
+\- Vi anser att det är en konstig och ineffektiv avstyckning. Det kallas för Villa men är
 endast 100 kvm, vilket mycket är dagens storlek på ett fritidshus. Vi anser att det
 finns stor risk i att framtida ägare kommer att vilja bygga ut till större hus, ett så
 kallad familjevilla, vilket är vanligt i området.
@@ -2622,10 +2622,10 @@ avvikelsen är liten.
 Av plan- och bygglagen 9 kap. 31 c § (PBL, SFS 2010:900) följer att efter det att
 genomförandetiden för en detaljplan har gått ut får bygglov utöver vad som följer av
 31 b § ges för en åtgärd som avviker från detaljplanen, om åtgärden
-1. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt behov
+1\. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt behov
 eller ett allmänt intresse, eller
 
-2. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
+2\. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
 komplement till den användning som har bestämts i detaljplanen.
 
 Föreslagen åtgärd avviker från detaljplanens bestämmelser beträffande placering på
@@ -2850,10 +2850,10 @@ avvikelsen är liten.
 Av plan- och bygglagen 9 kap. 31 c § (PBL, SFS 2010:900) följer att efter det att
 genomförandetiden för en detaljplan har gått ut får bygglov utöver vad som följer av
 31 b § ges för en åtgärd som avviker från detaljplanen, om åtgärden
-1. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt behov
+1\. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt behov
 eller ett allmänt intresse, eller
 
-2. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
+2\. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
 komplement till den användning som har bestämts i detaljplanen.
 
 Föreslagen åtgärd avviker från detaljplanens bestämmelser beträffande placering på
@@ -3386,14 +3386,14 @@ betydande olägenhet på annat sätt.
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 
@@ -3589,7 +3589,7 @@ Ansökan gäller nybyggnad av ett fritidshus med en byggnadsarea om 89,5 m.
 Fritidshuset ersätter ett befintligt fritidshus som rivs.
 
 Ansökan avviker från gällande detaljplan då
-- en större del av huvudbyggnaden, närmare bestämt 51,0 m² motsvarande 56,9
+\- en större del av huvudbyggnaden, närmare bestämt 51,0 m² motsvarande 56,9
 procent av byggnadsarean, är placerad på mark som enligt detaljplan inte får
 bebyggas.
 
@@ -3675,7 +3675,7 @@ Datum
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- en större del av huvudbyggnaden, närmare bestämt 51,0 m² motsvarande 56,9
+\- en större del av huvudbyggnaden, närmare bestämt 51,0 m² motsvarande 56,9
 procent av byggnadsarean, är placerad på mark som enligt detaljplan inte får
 bebyggas.
 Avvikelse beror på att detaljplanen har tolkats fel utifrån fastighetsgränserna där allt

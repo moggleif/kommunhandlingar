@@ -335,35 +335,35 @@ fristående verksamheten ska ha samma ekonomiska förutsättningar som den
 kommunala verksamheten. Från och med budgetåret 2010 gäller ny lagstiftning vad
 gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen
 tillämpar vid fördelning av resurser till den egna verksamheten av
 motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till
+\- Kommunens budget för verksamheten det kommande året ska ligga till
 
 grund för bestämningen av bidragen till den fristående verksamheten.
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning
 för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser
 ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
 
-7. lokalkostnader.
+7\. lokalkostnader.
 Nedan följer grundbeloppen för 2025 i både kommunal och fristående verksamhet. I
 den fristående verksamheternas grundbelopp inkluderas bidrag för lokalkostnader,
 måltider samt ersättning för kostnader som den kommunala verksamheten valt att ha
@@ -455,7 +455,7 @@ Datum
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ändring i Resursfördelningsmodell
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola upprättar årligen resursfördelningsmodell för
@@ -561,15 +561,15 @@ utveckla och genomföra ett samlat arbete för att skapa, upprätta och vid beho
 återskapa studiero samt utveckla uppföljning och analys av kunskapsresultaten.
 
 Rektor har vidtagit ett antal åtgärder i relation till det olika utvecklingsområdena.
-- Kompletterat planen för det systematiska kvalitetsarbete med att också omfatta
+\- Kompletterat planen för det systematiska kvalitetsarbete med att också omfatta
 framgångsfaktorer tillsammans med fokus på utmaningar i resultat.
 
-- Stärk förutsättningarna för samverkan mellan lärare, lärare i särskilda
+\- Stärk förutsättningarna för samverkan mellan lärare, lärare i särskilda
 undervisningsgrupper och elevhälsa. Kollegialt lärande utifrån Skolverkets modul
 ”Ledarskap i klassrummet”.
-- Utarbetat ett gemensamt ramverk för lärmiljön i klassrummet.
+\- Utarbetat ett gemensamt ramverk för lärmiljön i klassrummet.
 
-- Utarbetat ett gemensamt förhållningssätt kring rutiner vid rättning och bedömning
+\- Utarbetat ett gemensamt förhållningssätt kring rutiner vid rättning och bedömning
 av nationella prov.
 
 Beslutsunderlag

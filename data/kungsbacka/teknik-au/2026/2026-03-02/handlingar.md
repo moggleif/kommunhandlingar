@@ -666,9 +666,9 @@ Den flacka, öppna odlingsmarken har högsta punkt på +22 meter över havet och
 svagt mot Vallbyvägen och Gåsevadholmsvägen med ca +15 meter över havet i sydost.
 Norrut ligger ett bergigt och skogsbevuxet natur- och strövområde.
 
-1. Vy mot sydväst
+1\. Vy mot sydväst
 
-2. Vy mot sydost
+2\. Vy mot sydost
 
 4 Planbeskrivning                                            Planbeskrivning 5
 
@@ -893,22 +893,22 @@ G
 MMANDE
 Mÿvÿgen Gÿsevadholmsvÿgen
 GÄRDESGÅRD SOM BILDAR
-3.                PORT OCH SKYDDAR MOT
-1.                                 STRÅLKASTARLJUS
-2.                             FjÿrÿsÊBlÿklintsvÿg
-7.                                  Friliggande villor 1-2 vån
+3\.                PORT OCH SKYDDAR MOT
+1\.                                 STRÅLKASTARLJUS
+2\.                             FjÿrÿsÊBlÿklintsvÿg
+7\.                                  Friliggande villor 1-2 vån
 Seniorhus 1 vån
-8.
+8\.
 Kedjehus 2 vån
-4.
-6.                                   Hyresrätter 2 vån
+4\.
+6\.                                   Hyresrätter 2 vån
 Skola
-5.
+5\.
 Cykel/Miljöhus
 Miljöhus
 Sektionsmarkering
-6.
-5.
+6\.
+5\.
 4
 5
 6
@@ -1322,7 +1322,7 @@ finns i Fjärås centrum.
 Grundläggning
 
 Rekommendationerna här nedan är tagna ur Norconsults geotekniska utredning, 2018-04-
-12.
+12\.
 För befintliga förhållanden är totalstabiliteten i området och den mer lokala stabiliteten ned
 mot bäcken tillfredställande. För framtida förhållanden har en markbelastning av 5-30 kPa
 påförts vilket också gav resultat som påvisade tillfredställande stabilitet.
@@ -2445,26 +2445,26 @@ io
 ln
 n
 in
-:
+\:
 g
 2
-:
+\:
 0
 2
 1
 0
 9
 1
--
+\-
 9
 1
--
+\-
 1
 1
--
+\-
 2
 2
--
+\-
 0
 02                21:1                                K-2001/36.2                                           6,7     6,8     7,6
 8
@@ -4021,7 +4021,7 @@ uppnå inom två kategorier, samt inom vilket tidsspann.
 Planområdet ingår i Himleåns avrinningsområde. Första recipient är biflödet
 Munkån, som har måttlig ekologisk status och god kemisk status (med undantag
 för överallt överskridna ämnen), MKN är bestämd till god ekologisk status till år
-2027. Munkån ansluter till Himleån vid Lindhov. MKN för Himleåns nedersta del
+2027\. Munkån ansluter till Himleån vid Lindhov. MKN för Himleåns nedersta del
 (från Spänggårdsbäcken fram till mynningen) anger att vattendraget ska uppnå god
 ekologisk status senast 2027, samt god kemisk ytvattenstatus (med undantag för
 överallt överskridande ämnen). Vid senaste statusklassningen (perioden 2010-2016)
@@ -4943,16 +4943,16 @@ Rekommendation (huvudåtgärd)..................................................
 Förväntad effekt...............................................................................................................10
 Innehållsförteckning..........................................................................................................11
 Figurförteckning.....................................................................................................................13
-1. Inledning.............................................................................................................................14
+1\. Inledning.............................................................................................................................14
 
 Syfte och mål....................................................................................................................14
 Avgränsning.....................................................................................................................14
 Metod och underlag (översikt)..........................................................................................14
 Rapportens struktur..........................................................................................................15
-2. Teoretisk referensram........................................................................................................15
+2\. Teoretisk referensram........................................................................................................15
 
-3. Metod.................................................................................................................................15
-4. Identifierade problemområden...........................................................................................16
+3\. Metod.................................................................................................................................15
+4\. Identifierade problemområden...........................................................................................16
 4.1.1 Exempel och observationer (förtydligade).........................................................17
 4.1.2 Allvarliga risker..................................................................................................20
 4.1.3 Exempel: Lastbil i 70 km/h – reaktion och bromsning.......................................21
@@ -5004,13 +5004,13 @@ Rapportens struktur.............................................................
 4.11.3 Kollision med personskada den 12 april..........................................................49
 4.11.4 Samlad analys av olyckorna 2025...................................................................49
 
-5. Lösningsförslag..................................................................................................................49
+5\. Lösningsförslag..................................................................................................................49
 5.1 Rekommenderade åtgärder.......................................................................................49
 5.2 Sekundära förslag......................................................................................................50
-6. Slutsats och rekommendationer.........................................................................................51
-7. Referenser.........................................................................................................................52
+6\. Slutsats och rekommendationer.........................................................................................51
+7\. Referenser.........................................................................................................................52
 
-8. Bilagor................................................................................................................................56
+8\. Bilagor................................................................................................................................56
 Bilaga A: Bilder från platsbesök.......................................................................................57
 Bilaga B: Bullermätningar – fotodokumentation...............................................................61
 
@@ -5051,7 +5051,7 @@ Figur 21: Förslag på förbättrande åtgärder                  48
 
 <!-- sida 114 -->
 
-1. Inledning
+1\. Inledning
 
 Bakgrund. Gåsevadholmsvägen är den centrala genomfarten genom Fjärås, mellan
 Myravägen i norr och cirkulationen vid Vallbyvägen i söder. Sträckan är i dag skyltad 60
@@ -5064,7 +5064,7 @@ Syfte och mål
 Rapporten prövar en sänkning till 40 km/h och belyser konsekvenser och nyttor utifrån sex
 perspektiv:
 
-1. Trafiksäkerhet, 2) Framkomlighet/restid, 3) Buller och hälsa, 4) Miljö/utsläpp, 5)
+1\. Trafiksäkerhet, 2) Framkomlighet/restid, 3) Buller och hälsa, 4) Miljö/utsläpp, 5)
 
 Vägslitage och kostnad, 6) Genomförbarhet (åtgärder, etappvis införande och
 uppföljning).
@@ -5108,12 +5108,12 @@ jämförande case (Pilgatan/Hindås).
 
 ●  Bilagor: beräkningsantaganden, kartor och mätdata.
 
-2. Teoretisk   referensram
+2\. Teoretisk   referensram
 
 Svensk trafikpolitik vilar på Nollvisionen: dödsfall och allvarliga skador ska minska och
 vägsystemet utformas efter mänsklig tålighet. Hastigheten är den enskilt viktigaste faktorn
 för både olycksrisken och utfallet när olyckor sker, särskilt för gående och cyklister
-[9][10][11]. Riskökningen är icke-linjär: små fartökningar ger kraftigt höjd skaderisk.
+[9\][10\][11]. Riskökningen är icke-linjär: små fartökningar ger kraftigt höjd skaderisk.
 
 I miljö- och hälsoperspektiv anger WHO riktvärden för trafikbuller (t.ex. L_den 53 dB, L_night
 45 dB) där överskridanden kopplas till sömnstörningar, stress, kardiovaskulär risk m.m. [27].
@@ -5121,14 +5121,14 @@ Decibelskalan är logaritmisk, och +3 dB motsvarar ungefär dubblad ljudenergi; 
 små dB-sänkningar på fasad påtaglig hälsovinst [32].
 
 Små ökningar i axellast ger stora ökningar i beläggningsskador: enligt fjärdepotenslagen kan
-en fördubblad axellast ge upp till 16 gånger större skadebidrag [15][16]. Vid högre
+en fördubblad axellast ge upp till 16 gånger större skadebidrag [15\][16]. Vid högre
 hastigheter tillkommer dynamiska laster (toppkrafter från ojämnheter) som påskyndar
-slitaget [17][18][19]. Trafikverket betonar i sina underhållsplaner förebyggande åtgärder för
-att förlänga beläggningens livslängd [21][22].
+slitaget [17\][18\][19]. Trafikverket betonar i sina underhållsplaner förebyggande åtgärder för
+att förlänga beläggningens livslängd [21\][22].
 
 hastighetsplaner.
 
-3. Metod
+3\. Metod
 
 Arbetet kombinerar lokal analys med etablerade riktlinjer och jämförbara fall:
 
@@ -5148,15 +5148,15 @@ hållplatser och vägens ytskikt (ojämnheter).
 Kungsbackas Vallby 7:12 [46] och Planbeskrivning Må 3:13 m.fl. [47].
 
 ●  Nationella/internationella källor om hastighet, buller, slitage, luft (TRV, WHO, ITF,
-HDM-4) [9][10][11][20][21][22][24][26][27][29]–[32].
+HDM-4) [9\][10\][11\][20\][21\][22\][24\][26\][27\][29]–[32].
 
 ●  Aktuella händelser/olyckor 2025 i närområdet för att belysa riskbilden [1]–[5].
 
 ●  Beräkningsexempel: stoppsträcka, buller (hastighetseffekt + beläggning), och
 restidsanalys där 60 till 40 på sträckan jämförs mot faktisk tidsvinst (egen beräkning
-(kap 4.10)) [9][30][31][32].
+(kap 4.10)) [9\][30\][31\][32].
 
-4. Identifierade   problemområden
+4\. Identifierade   problemområden
 
 Sträckan skär genom bostadsnära miljö med många gående/cyklister och hållplatser.
 Samtidigt är 60 km/h skyltat, vilket innebär förhöjd risk och bullerexponering för närboende.
@@ -5167,11 +5167,11 @@ sträckan. Brist på säkra, markerade korsningar och skyddszoner nära körbana
 ●  Buller & ytskikt: Vägen ligger delvis upphöjd och beläggningen är sliten, vilket höjer
 däck–väg-buller (ojämnheter och grov textur). WHO:s riktvärden riskerar att
 
-överskridas längs fasader [27][29][30][31][32].
+överskridas längs fasader [27\][29\][30\][31\][32].
 
 ●  Hastighet som grundorsak: Med 60 km/h blir stoppsträckor längre, krockenergi högre
 och dynamiska laster större — vilket försämrar både säkerhet, buller och
-underhållsekonomi [9][10][11][15][16][21][22].
+underhållsekonomi [9\][10\][11\][15\][16\][21\][22].
 
 ●  Kommunalt planläge: I närliggande planunderlag pekas sträckan ut som ett
 problematiskt trafikrumsnitt som kräver anpassning till boendemiljö och oskyddade
@@ -5388,7 +5388,7 @@ på mark med dokumenterat instabila/känsliga jordlager enligt geotekniska under
 utförda av GF Konsult AB (Vallby 7:12 – Geoteknisk undersökning, 2004). Underlaget
 omfattar 84 sonderingar, 4 vingsonderingar och 8 prov och visar en typisk lagerföljd med
 1,5–3 m friktionsjord (grusig sand/finsand/silt) ovan lera ned till ca 13 m, samt partier med
-berg nära markytan och grunt grundvatten. [6][7]
+berg nära markytan och grunt grundvatten. [6\][7]
 
 <!-- sida 131 -->
 
@@ -5412,7 +5412,7 @@ varierande bärighet både i längd- och tvärled.
 
 ●  Grundvatten påträffades grunt, med fria vattenytor ca 1,0–2,0 m under mark;
 friktionsjordens nedre delar kan då vara flytbenägna vid belastning eller schaktning.
-[6][7]
+[6\][7]
 
 Förklaring: Odränerad skjuvhållfasthet (kPa) beskriver lerans korttidstyrka.
 Lägre värde innebär högre risk för deformation under återkommande trafiklast.
@@ -5432,7 +5432,7 @@ grunt på ena sidan och leran är djupare på den andra.
 
 ●  Förhöjd risk vid nederbörd/högt grundvatten: med 1,0–2,0 m till fri vattenyta kan
 friktionsjordens nedre del bli flytbenägen, vilket gör schakt/underhåll mer riskfyllt och
-dyrt vid hög belastning. [6][7]
+dyrt vid hög belastning. [6\][7]
 
 4.4.3 Geoteknisk slutsats
 
@@ -5452,7 +5452,7 @@ som gör 40 km/h självförklarande och minskar behovet av hårda inbromsningar.
 Att sänka hastigheten till 40 km/h är därför inte bara en säkerhetsfråga – det är en
 
 geoteknisk skyddsåtgärd som förebygger sättningar, sprickor och förkortade
-underhållsintervall i denna känsliga miljö. [6][7][8]
+underhållsintervall i denna känsliga miljö. [6\][7\][8]
 
 Oberoende sakkunnigbedömning: En extern geoteknisk expert bekräftar att trafikvibrationer
 är förväntade i områden likt detta med lera och sand/silt i ytskiktet, och att både
@@ -5599,19 +5599,19 @@ Vägbanans ytstruktur påverkar hur mycket däck–väg-buller som alstras. Grov
 stora stenfraktioner och åldrande/utmattad beläggning ger högre ljudnivåer, särskilt vid
 40–80 km/h när däckljud dominerar. I bullerberäkningar tas detta med som en
 vägyte-korrektion (ΔL) enligt europeisk metodik (CNOSSOS-EU) [30], och Trafikverkets
-branschstöd beskriver samma samband [29][31].
+branschstöd beskriver samma samband [29\][31].
 
 Att vissa beläggningar låter mer kan bero på:
 
 ●  Grov makrotextur / stora stenstorlekar (t.ex. grov SMA/ytbehandling): Mer
 luftpumpning i däckspåren och fler vibrationer i slitbanan ⇒ högre däckljud. Effekten
-ökar med hastighet. [29][30]
+ökar med hastighet. [29\][30]
 
 ●  Åldrad och skadad beläggning (sprickor, lagningar, ravelling, spår): Ojämnheter ger
-extra excitering av däcket ⇒ ljudspikar och högre medelnivå. [29][31]
+extra excitering av däcket ⇒ ljudspikar och högre medelnivå. [29\][31]
 
 ●  Ytbehandlingar med grov sten (”kall asfalt/ytbeläggning”): Snabb och billig åtgärd
-men ofta ljudhöjande jämfört med referens, särskilt på genomfartsstråk. [29][30]
+men ofta ljudhöjande jämfört med referens, särskilt på genomfartsstråk. [29\][30]
 
 4.7 Exempel  på liknande områden
 
@@ -5716,7 +5716,7 @@ ner till nivåer som bättre motsvarar bebyggelsens och trafikantströmmarnas be
 
 Samtidigt har komforten för boende och oskyddade trafikanter ökat. Framkomligheten för
 motortrafik har bibehållits, vilket visar att sänkta hastigheter inte behöver innebära minskad
-funktion som huvudinfart [9][10][11].
+funktion som huvudinfart [9\][10\][11].
 
 4.7.4.3 Jämförelse med Gåsevadholmsvägen
 
@@ -5727,11 +5727,11 @@ anslutning [47].
 
 ●  Båda kantas av bostäder och oskyddade trafikanter som korsar vägen dagligen.
 
-●  Båda har problem med buller och säkerhet som planhandlingarna lyfter fram [46][47].
+●  Båda har problem med buller och säkerhet som planhandlingarna lyfter fram [46\][47].
 
 Den avgörande skillnaden är att Pilgatan hade nästan 80 % fler fordon per dygn men ändå
 fick en hastighetssänkning till 40 km/h [45]. Detta visar att en liknande åtgärd på
-Gåsevadholmsvägen inte bara är rimlig utan än mer motiverad [9][10][11].
+Gåsevadholmsvägen inte bara är rimlig utan än mer motiverad [9\][10\][11].
 
 <!-- sida 139 -->
 
@@ -5755,7 +5755,7 @@ hastigheten bidrar därför inte bara till ökad trafiksäkerhet och minskad mil
 har även positiva effekter på vägens livslängd och underhållsekonomi. Med tanke på
 Gåsevadholmsvägens trafikflöde kan en sänkning från 60 km/h till 40 km/h ge betydande
 samhällsekonomiska besparingar i form av minskat underhållsbehov och förlängd livslängd
-på beläggningen [21][22].
+på beläggningen [21\][22].
 
 4.8.1 Slitage vid olika hastigheter
 
@@ -5774,10 +5774,10 @@ dynamiska laster – det vill säga tillfälliga lasttoppar som blir mycket hög
 
 statiska vikten. Enligt den s.k. fjärdepotenslagen ökar skadebidraget exponentiellt
 med axellasten: en fördubbling av lasten kan ge upp till 16 gånger mer slitage
-[15][16].
+[15\][16].
 
 Studier visar att vägslitaget ökar markant vid hastigheter över 50 km/h, särskilt på vägar som
-belastas av tung trafik [17][19].
+belastas av tung trafik [17\][19].
 
 4.8.2 Kostnadsaspekter för underhåll
 
@@ -5793,7 +5793,7 @@ Enligt underhållsmodeller som HDM-4 ökar kostnaderna kraftigt när slitaget ac
 medan åtgärder som dämpar dynamiska laster och skjuvkrafter förlänger tiden till nästa
 insats [20]. Trafikverket betonar i sina underhållsplaner vikten av förebyggande åtgärder som
 
-är mer kostnadseffektiva i kombination med en lägre målhastighet [21][22].
+är mer kostnadseffektiva i kombination med en lägre målhastighet [21\][22].
 
 En hastighetssänkning till 40 km/h minskar de krafter som sliter på vägen, ger längre
 livslängd på beläggningen och lägre underhållskostnader. För Gåsevadholmsvägen innebär
@@ -5975,7 +5975,7 @@ tillräcklig. En sänkning till 40 km/h, i kombination med fysiska trafiksäkerh
 framstår som nödvändig för att minska risken för ytterligare olyckor med svåra
 konsekvenser.
 
-5. Lösningsförslag
+5\. Lösningsförslag
 
 För att öka trafiksäkerheten och förbättra miljö- och boendeförhållandena längs
 Gåsevadholmsvägen rekommenderas följande åtgärder:
@@ -6006,7 +6006,7 @@ områden för att ytterligare minska störningarna för boende.
 
 <!-- sida 151 -->
 
-6. Slutsats   och  rekommendationer
+6\. Slutsats   och  rekommendationer
 
 Utifrån analysen finns flera starka skäl att sänka hastighetsgränsen till 40 km/h på
 Gåsevadholmsvägen:
@@ -6021,10 +6021,10 @@ Gåsevadholmsvägen:
 
 <!-- sida 152 -->
 
-7. Referenser
+7\. Referenser
 
 [1] Polisen, ”Sammanfattning kväll och natt, Hallands län, 25 augusti 2025,” Polisen.se,
-2025. [Online]. Available:
+2025\. [Online]. Available:
 https://polisen.se/aktuellt/handelser/2025/augusti/25/25-augusti-07.01-sammanfattning-kvall-
 och-natt-hallands-lan/.
 
@@ -6045,7 +6045,7 @@ https://polisen.se/aktuellt/handelser/2025/september/20/20-september-21.22-trafi
 ngsbacka/.
 
 [5] Polisen, ”12 april 16.13 trafikolycka, personskada, Kungsbacka,” Polisen.se, Apr. 12,
-2025. [Online]. Available:
+2025\. [Online]. Available:
 https://polisen.se/aktuellt/handelser/2025/april/12/12-april-16.13-trafikolycka-personskada-ku
 
 ngsbacka/.
@@ -6099,7 +6099,7 @@ Mat,” TRR 1448, 1994. [Online]. Available: https://onlinepubs.trb.org/.../1448
 Online Publications
 
 [19] WARRIP, Dynamic Load Effects of Heavy Vehicles on Pavement Performance –
-Stage 1, Oct. 2018. [Online]. Available: https://warrip.com.au/..._Final.pdf. WARRIP
+Stage 1, Oct. 2018. [Online]. Available: https://warrip.com.au/...\_Final.pdf. WARRIP
 
 [20] HDM‑4 Pavement Deterioration and Maintenance Effects Modelling, 2004. [Online].
 
@@ -6148,14 +6148,14 @@ Today
 
 [34] Le Monde (Bruitparif‑intervju), “Expected effects of 70→50 km/h on Paris ring road,”
 
-2024. Le Monde.fr
+2024\. Le Monde.fr
 
 [35] UK Defra, Non‑Exhaust Emissions from Road Traffic, 2019. (PDF). uk-air.defra.gov.uk
 
 [36] EU JRC, Brake and Tyre Wear PM — literature review, 2014. (PDF). JRC Publications
 
 [37] SLB‑analys (på uppdrag av Trafikverket), Emissionsfaktorer för PM10‑slitagepartiklar,
-2023. (PDF). slbanalys.se
+2023\. (PDF). slbanalys.se
 
 [38] Trafikverket, “Buller vid din fastighet (e‑tjänst),” 2024. Trafikverket
 
@@ -6167,7 +6167,7 @@ Today
 FHWA-HOP-14-006, 2014.
 
 [45] Varbergs kommun, Detaljplan norr om Pilgatan (Göingegården 1:13, etapp 3), antagen
-2021.
+2021\.
 
 [46] Kungsbacka kommun, Detaljplan för Vallby 7:12, Fjärås, antagen 2003.
 
@@ -6175,7 +6175,7 @@ FHWA-HOP-14-006, 2014.
 
 <!-- sida 155 -->
 
-8. Bilagor
+8\. Bilagor
 
 ●  Bilaga A: Bilder från platsbesök
 
@@ -6419,7 +6419,7 @@ för gång- och cykelväg är onödigt då det är önskvärt att vägsektionen 
 smal som möjligt för att minska barriäreffekten och öka trafiksäkerheten.
 
 Gåsevadholmsvägen
-- princip för ny utformning inom befintlig vägbredd
+\- princip för ny utformning inom befintlig vägbredd
 
 5.5
 m eter
@@ -6430,7 +6430,7 @@ oc
 2
 h
 .5
--
+\-
 c
 3
 y

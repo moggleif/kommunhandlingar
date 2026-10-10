@@ -1,0 +1,22 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Kommunstyrelse och nämnd,,,,
+Process:,Hantera nämndprocess,,,,
+Processnummer:,1.1.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Kalla till
+sammanträde",Kallelse,Diarium,Digitalt,2 år,
+,Beslutsunderlag,Diarium,Digitalt,Se anmärkning,"Beslutsunderlag hanteras enligt separat process för
+ärendehantering. Huvudregel är att de registreras i
+diarium."
+Hålla sammanträde,Närvarolista,Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+,Dagordning,Diarium,Digitalt,2 år,
+,Omröstningslista,Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+"Besluta och
+expediera",Protokoll,Diarium,Digitalt,Bevaras,
+,Protokollsutdrag,Diarium,Digitalt,Bevaras,
+,Anslagsbevis,Se anmärkning,Digitalt,Se anmärkning,"Nämnd i Kungsbacka kommun: Bevaras som ett
+övergripande sammanträdesdokument i diarium.
+Samverkansnämnd tillsammans med andra
+kommuner: Gallras efter att protokollet vunnit laga
+kraft."

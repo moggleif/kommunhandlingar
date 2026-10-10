@@ -459,22 +459,22 @@ Sammanfattning av ärendet
 
 Nämnden för Kultur & Fritid sammanträder nedanstående datum 2027:
 
-* 20 januari
-* 24 februari
+\* 20 januari
+\* 24 februari
 
-* 17 mars
-* 21 april
+\* 17 mars
+\* 21 april
 
-* 12 maj
-* 16 juni
+\* 12 maj
+\* 16 juni
 
-* 25 augusti (inkl. planeringsdag)
-* 22 september
+\* 25 augusti (inkl. planeringsdag)
+\* 22 september
 
-* 20 oktober
-* 17 november
+\* 20 oktober
+\* 17 november
 
-* 15 december
+\* 15 december
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2026-08-12

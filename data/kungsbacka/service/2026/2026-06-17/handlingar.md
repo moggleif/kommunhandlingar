@@ -483,7 +483,7 @@ SE-2026-00207 Kommunstyrelsens förvaltning - Tjänsteskrivelse - Svar på motio
 Boulwén (SD) m.fl. om avskaffande av religiöst motiverad specialkost i förskola
 och skola
 SE-2026-00207 (Nämnden för Gymnasium & Arbetsmarknad) (Beslut, § 153) Beredning av motion
-- Avskaffa religiöst motiverad specialkost i förskola och skola (KS-2025-00457)
+\- Avskaffa religiöst motiverad specialkost i förskola och skola (KS-2025-00457)
 
 SE-2026-00207 (Nämnden för Förskola & Grundskola) (Beslut, § 130) - Beredning av motion -
 Avskaffa religiöst motiverad specialkost i förskola och skola (KS-2025-00457)

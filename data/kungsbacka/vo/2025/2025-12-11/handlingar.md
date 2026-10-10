@@ -385,7 +385,7 @@ Detta medför olika grad av komplexitet i verksamheten och möjlighet till att u
 3.1 Erfarenhetsutbyte Arjeplog
 Utvecklingsledare samt biträdande förvaltningschef på Förvaltningen för Vård & omsorg har
 genomfört ett möte med enhetschefen för Arjeplogs hemtjänst, Bitte Westerlund, den 8e oktober
-2025. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
+2025\. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
 arbetssättet innebär för medarbetarna i vardagen. För att efterfölja IBIC processen presenteras
 arbetssättet från Utreda & besluta till Följa upp. 18
 
@@ -706,11 +706,11 @@ dock att minimera risken för att all tid inte utförs eftersom utföraren inte 
 incitament för det27. Det är av den anledningen som nyckeltalen Effektivitet, Efterlevnad tid och
 Efterlevnad Antal ska börja användas inom hemtjänsten och som enheter ska följa på enhetsnivå.
 Dessa nyckeltal ger enheterna datadriven information i realtid om:
-1) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
+1\) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
 
-2) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
+2\) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
 planeringen och hur mycket som sedan används till besökstid (Efterlevnad tid) samt
-3) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
+3\) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
 har rätt till utifrån sina behov (Efterlevnad antal).
 
 26 Styrning av hemtjänsten, Socialstyrelsen, 2025
@@ -1247,7 +1247,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Annika Bonnér | 2025-10-09 09:29
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1262,7 +1262,7 @@ annika.bonner@kungsbacka.se       0729957044
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1305,7 +1305,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Emma Persson | 2025-10-09 09:44
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1320,7 +1320,7 @@ emma.persson@kungsbacka.se        -
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1358,7 +1358,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Jasmine Machiani | 2025-10-10 14:05
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1373,7 +1373,7 @@ jasmine.machiani@kungsbacka.se    0739851220
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1472,7 +1472,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Jovita Cedergren | 2025-10-10 19:55
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1487,7 +1487,7 @@ jovita.cedergren@kungsbacka.se    0734237574
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1522,7 +1522,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Lotta Fagerell | 2025-10-16 08:40
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1537,7 +1537,7 @@ lotta.fagerell@kungsbacka.se      -
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1587,7 +1587,7 @@ Nominera       till Leva    livet-priset
 
 Inskickat av: Ellinor Violetta Gabriella Lindqvist | 2025-10-30 08:42
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Ange dina kontaktuppgifter
 
@@ -1602,7 +1602,7 @@ lindqvist.gabriella@outlook.com   0704568715
 Notifieringar
 E-post
 
-2. Nominering
+2\. Nominering
 
 Vem eller vilka vill du nominera till Leva livet-priset?
 
@@ -1684,7 +1684,7 @@ att delegera införandet till Nämnden för Vård och Omsorg.
 Utredningen
 Utredningen omfattar följande kapitel:
 
--    Bakgrund
+\-    Bakgrund
 
 1 (4)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
@@ -1700,15 +1700,15 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
--    Nulägesbeskrivning
+\-    Nulägesbeskrivning
 
--    Valfrihetssystem enligt LOV
+\-    Valfrihetssystem enligt LOV
 
--    Rådighet över fastigheter och kapacitet
--    Finansiella hänsynstaganden
+\-    Rådighet över fastigheter och kapacitet
+\-    Finansiella hänsynstaganden
 
--    Erfarenhet av införandet i andra kommuner
--    Efter utredningen
+\-    Erfarenhet av införandet i andra kommuner
+\-    Efter utredningen
 
 Inom varje kapitel finns ytterligare delar som är relevanta för utredningen
 Sammanfattade slutsatser
@@ -2027,12 +2027,12 @@ insats som hen är beviljad. Den enskilde får inte bara välja i första läget
 också byta utförare när helst hen vill, och ersättningen till utföraren följer den enskildes
 val. Till skillnad från driftentreprenad, som har en strikt tvåpartsrelation mellan
 beställare och utförare, finns i LOV tre parter:
-1. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar
+1\. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar
 att utförare följer avtal.
 
-2. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd
+2\. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd
 utförare av någon anledning.
-3. Utföraren. Utför avtalade uppgifter.
+3\. Utföraren. Utför avtalade uppgifter.
 
 I ett valfrihetssystem enligt LOV så måste kommunen ange ett i förväg bestämt
 ”ickevals-alternativ”. Alternativet kan exempelvis utgöras av kommunens egen regi, en
@@ -2512,7 +2512,7 @@ Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 
 |  | Totalt<br>platser | Varav<br>demens | Varav<br>somatik | Driftform | Hyresavtal kan<br>tidigast avträdas | Detaljplan | Fastighetsägare |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bedagården | 27 | 27 | 0 | Egenregi | 2027-12-31* | Ej detaljplan | Privat |
+| Bedagården | 27 | 27 | 0 | Egenregi | 2027-12-31\* | Ej detaljplan | Privat |
 | Björkris | 1203 | 60 | 60 | Egenregi | 2047-11-30 | Detaljplan, Vård och<br>omsorgsboende (BD1) | Eksta |
 | Blåvinge | 62 | 30 | 32 | Egenregi | 2033-06-30 | Detaljplan, Äldreboende<br>(B6) | Eksta |
 | Ekhaga | 94 | 10 | 84 | Driftentreprenad<br>enligt LOU | 2028-04-30 | Detaljplan, Äldreboende<br>(D) | Eksta |
@@ -2520,22 +2520,22 @@ Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 | Löftagården | 41 | 21 | 20 | Egenregi | 2028-02-29 | Ej detaljplan | Eksta |
 | Måhaga | 58 | 32 | 26 | Egenregi | 2029-12-31 | Ej detaljplan | Eksta |
 | Sandlyckan | 60 | 40 | 20 | Egenregi | 2038-06-30 | Detaljplan, Äldreboende<br>(B, flerb )<br>3 | Privat |
-| Signeshus** | 97 |  |  | Egenregi | 2051-03-31 | Detaljplan,<br>Servicelägenheter (B )<br>2 | Eksta |
-| Smedjan (korttid<br>och växelvård) | 50 | x | x | Egenregi | 2027-09-30* | Detaljplan, Bostäder (B) | Privat |
+| Signeshus\*\* | 97 |  |  | Egenregi | 2051-03-31 | Detaljplan,<br>Servicelägenheter (B )<br>2 | Eksta |
+| Smedjan (korttid<br>och växelvård) | 50 | x | x | Egenregi | 2027-09-30\* | Detaljplan, Bostäder (B) | Privat |
 | Särö | 80 | 60 | 20 | Egenregi | 2045-10-31 | Detaljplan, Vård och<br>omsorgsboende (BD )<br>1 | Eksta |
 
 <!-- sida 63 -->
 
-* Villkorsändring av hyresavtal för Bedagården samt Smedjan pågår.
-** Signeshus har genomgått ombyggnation och beräknas tas i drift 2026.
-*** Uppgift om fördelning demens/somatik saknas för Signeshus
+\* Villkorsändring av hyresavtal för Bedagården samt Smedjan pågår.
+\*\* Signeshus har genomgått ombyggnation och beräknas tas i drift 2026.
+\*\*\* Uppgift om fördelning demens/somatik saknas för Signeshus
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
 | Vickan4 | 40 | 20 | 10 | Driftentreprenad<br>enligt LOU | 2032-03-31 | Detaljplan, Bostäder (B )<br>3 | Eksta |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Åsa | 60 | 49 | 11 | Egenregi | 2030-08-31 | Detaljplan, Allmänt<br>ändamål (A) | Eksta |
-| Totalt*** | 860 | 373 | 330 |  |  |  |  |
+| Totalt\*\*\* | 860 | 373 | 330 |  |  |  |  |
 
 <!-- sida 64 -->
 
@@ -2802,11 +2802,11 @@ boendet enligt LOV har så få platser att det inte är svårt att avgöra om de
 effekt på indikatorerna.
 
 Följande fyra indikatorer i KOLADA togs fram för de sju kommunerna i analysen:
-1. Brukarbedömning särskilt boende äldreomsorg - helhetssyn, andel (%)
-2. Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+
+1\. Brukarbedömning särskilt boende äldreomsorg - helhetssyn, andel (%)
+2\. Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+
 
-3. Kostnad särskilt/annat boende äldreomsorg, kr/brukare
-4. Väntetid i antal dagar från ansökningsdatum till första erbjudet
+3\. Kostnad särskilt/annat boende äldreomsorg, kr/brukare
+4\. Väntetid i antal dagar från ansökningsdatum till första erbjudet
 inflyttningsdatum till särskilt boende, medelvärde
 Därefter togs medelvärdet ovan indikatorer ovan fram för 2 år innan respektive 2 år
 efter införandeåret av LOV (året boende öppnade). Medelvärdena jämfördes för att
@@ -2816,15 +2816,15 @@ tidsperioder togs även medelvärdet fram för ALLA kommuner (dvs nationella sni
 som stöd i analys av respektive kommuns resultat.
 Resultat av sammanställning av statistik i KOLADA:
 
-1. För mätpunkt 1 så visar 5/7 (86%) på en förbättring på brukarbedömningen,
+1\. För mätpunkt 1 så visar 5/7 (86%) på en förbättring på brukarbedömningen,
 gällande helhetssyn.
-2. För mätpunkt 2 så visar att 5/7 (86%) på en förbättring genom minskade
+2\. För mätpunkt 2 så visar att 5/7 (86%) på en förbättring genom minskade
 kostnader per invånare över 80 år.
-3. För mätpunkt 3 så hade samtliga en försämring i form av ökad kostnad per
+3\. För mätpunkt 3 så hade samtliga en försämring i form av ökad kostnad per
 brukare. För samtliga sju kommuner visade även medelvärdet för ALLA
 kommuner en ökad kostnad för samma tidsperiod dvs de sju kommunerna
 följde den nationella trenden
-4. För mätpunkt 4 visade samtliga 7/7 (100%) en förbättring dvs att väntetiden
+4\. För mätpunkt 4 visade samtliga 7/7 (100%) en förbättring dvs att väntetiden
 minskade efter införande av LOV. Detta korrelerar med informationen som
 
 delgetts från kommunerna att de generellt gått från ett underskott till överskott
@@ -2895,7 +2895,7 @@ Vård & Omsorg att införa valfrihet inom vård- och omsorgsboende.
 
 Planen för införande av ett valfrihetssystem illustreras i ordningen21 nedan:
 
-1. Inrättande av ett valfrihetssystem
+1\. Inrättande av ett valfrihetssystem
 Beslut om att införa valfrihetssystem fattas politiskt. Kommunen annonserar därefter,
 löpande och uppdaterade underlag, på Hitta LOV-uppdrag samt eventuellt på egen
 hemsida.
@@ -2904,7 +2904,7 @@ När beslut om inrättande av valfrihetssystem fattats politiskt behöver det s�
 att förvaltningsorganisationen är ändamålsenlig och har förutsättningar för att
 hantera, administrera och kvalitetssäkra valfrihetssystemet.
 
-2. Förfrågningsunderlaget
+2\. Förfrågningsunderlaget
 
 Förfrågningsunderlag arbetas fram som beskriver tjänsterna som ska utföras inom
 ramen för systemet samt samtliga krav och villkor för att bli godkänd som utförare.
@@ -2912,21 +2912,21 @@ Förfrågningsunderlaget ska innehålla information om avtals- och uppsägningst
 ersättning, administrativa och kommersiella villkor samt eventuella särskilda
 kontraktsvillkor.
 
-3. Ansökan om att delta
+3\. Ansökan om att delta
 Ansökningar får inkomma under hela avtalsperioden.
 
-4. Tilldelning av kontrakt
+4\. Tilldelning av kontrakt
 
 Samtliga utförare som uppfyller krav och villkor, och som inte utesluts med
 hänvisning till 7 kap. 1 § LOV, ska godkännas. Kommunen ska så snart som möjligt
 teckna kontrakt med utföraren som godkänts.
-5. Överprövning och skadestånd
+5\. Överprövning och skadestånd
 
 Privata utförare som nekats godkännande kan i förvaltningsdomstol ansöka om
 rättelse. Det går även att överklaga överträdelser av LOV. Skadestånd kan komma
 att aktualiseras om kommunen brutit mot reglerna.
 
-6. Omsorgstagares val av leverantör
+6\. Omsorgstagares val av leverantör
 
 21 Upphandlingsmyndigheten (2025). Valfrihetssystem steg för steg.
 
@@ -2938,7 +2938,7 @@ presenteras på ett jämförbart sätt. Omsorgstagaren ska också få informatio
 
 möjligheten till byte av utförare. Det ska också finnas ett ickevalsalternativ för de
 omsorgstagare som inte gör ett aktivt val.
-7. Avbrytande av valfrihetssystem
+7\. Avbrytande av valfrihetssystem
 
 Systemet kan avbrytas genom nytt politiskt beslut. Utförare ska då informeras.
 Ingångna avtal hanteras enligt civilrättsliga regler.
@@ -2979,7 +2979,7 @@ Sveriges kommuner och regioner (2009). Valfrihetssystem för nybörjare och andr
 nyfikna.
 
 Södertälje kommun (2018). Val av driftsform får vård- och omsorgsboende 2018-01-
-22.
+22\.
 Trelleborgs kommun (2020). Införande av LOV i särskilt boende inom äldrevården.
 
 Upphandlingsmyndigheten (2016). Ersättningsformer vid konkurrensutsättning av
@@ -3022,7 +3022,7 @@ gälla.
 Sammanfattning av ärendet
 Delegeringsförteckningen är ett levande dokument som löpande behöver uppdateras för att bibehålla
 sin aktualitet. Det föreligger nu skäl att revidera aktuell delegeringsförteckning, antagen den 12 juni
-2025.
+2025\.
 
 Avslag enligt lagen om valfrihetssystem (LOV)
 
@@ -3085,11 +3085,11 @@ Nämnden       för  Vård   & Omsorg
 
 Innehållsförteckning
 
-1. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
+1\. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
 
-2. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
+2\. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
 
-3. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
+3\. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
 
 3.1 BISTÅND OCH HANDLÄGGNING ENLIGT SOCIALTJÄNSTLAGEN ........................................................................................................................ 4
 3.2 BOSTADSANPASSNINGSBIDRAG ............................................................................................................................................................. 5
@@ -3098,10 +3098,10 @@ Innehållsförteckning
 
 3.5 TILLSYN, YTTRANDEN OCH ANMÄLNINGAR I VERKSAMHET ............................................................................................................................ 8
 
-4. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
-5. PERSONAL ........................................................................................................................................................................... 12
+4\. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
+5\. PERSONAL ........................................................................................................................................................................... 12
 
-6. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
+6\. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
 
 BILAGA 1 - FÖRORDNANDEN ................................................................................................................................................... 17
 
@@ -3111,7 +3111,7 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 till exempel brutit mot reglerna om jäv, korruption eller begått
-1. Allmänt   om  delegering
+1\. Allmänt   om  delegering
 någon form av tjänstefel.
 Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
 som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
@@ -3152,7 +3152,7 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
+2\. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
 stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
 delegering
 som delegerats direkt till denne. Sådan vidaredelegation ska
@@ -3193,7 +3193,7 @@ Som verksamhetschef i delegeringsförteckningen räknas också
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-3. Myndighetsutövning       och   handläggning
+3\. Myndighetsutövning       och   handläggning
 
 3.1 Bistånd och handläggning enligt socialtjänstlagen
 
@@ -3332,7 +3332,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-4. Ekonomi,    upphandling     och  avtal
+4\. Ekonomi,    upphandling     och  avtal
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
@@ -3374,7 +3374,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-5. Personal
+5\. Personal
 Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fram en förteckning över vad som anses vara verkställighet inom personalområdet.
 
 12 (18)
@@ -3412,7 +3412,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-6. Administrativa     ärenden
+6\. Administrativa     ärenden
 
 14 (18)
 
@@ -3649,14 +3649,14 @@ helhetsbild eftersom nämndens förtroendevalda ytterst ansvarar för stöd, vå
 omsorg i kommunen.
 
 Förslag till beslut
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan
 för genomförande om oannonserade kontroller för aktuell avtalsperiod av
 vård- och omsorgsboendena Vickan och Ekhaga som MAS, SAS och MAR
 genomför och redovisar på ett självständigt sätt till nämnden för Vård &
 Omsorg.
 
-2. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
-3. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda
+2\. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
+3\. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda
 
 oannonserade kontroller.
 
@@ -3721,13 +3721,13 @@ vård och omsorg i kommunen.
 
 Förslag till beslut
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan för genomförande
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att lägga en plan för genomförande
 om oannonserade kontroller för aktuell avtalsperiod av vård- och omsorgsboendena Vickan och
 Ekhaga som MAS, SAS och MAR genomför och redovisar på ett självständigt sätt till
 nämnden för Vård & Omsorg.
-2. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
+2\. De oannonserade kontrollerna, enligt punkt 1, ska ske varje månad.
 
-3. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda oannonserade
+3\. Nämnden för Vård & Omsorg ska fortlöpande få information om genomförda oannonserade
 kontroller.
 
 Ermin Škorić (S)
@@ -3756,11 +3756,11 @@ Sammanfattning av ärendet
 
 Nämnden för Vård & Omsorg gav den 22 februari 2024 förvaltningschefen i uppdrag att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan avdelning
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera en sådan avdelning
 på Signes Hus
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt statliga
 donationer.
 Förvaltningen genomförde en utredning och återkopplade resultatet till nämnden den 24 oktober 2024.
 

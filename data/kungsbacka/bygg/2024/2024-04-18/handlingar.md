@@ -53,7 +53,7 @@ byggnadsnämnden ersätter den nämndbudget som tidigare togs fram och beslutade
 i kommunstyrelse och kommunfullmäktige avseende ny styrmodell kan innebära att strategin behöver
 revideras. Strategin omfattar hela förvaltningens verksamhet och är nämndens kompass för att
 säkerställa att verksamheten håller rätt riktning och kurs för att uppnå kommunens vision “Vision 2030
-- I Kungsbacka växer framtiden”, samt bidra till de globala hållbarhetsmålen i Agenda 2030. Strategin
+\- I Kungsbacka växer framtiden”, samt bidra till de globala hållbarhetsmålen i Agenda 2030. Strategin
 klargör vad som förväntas av förvaltningen under perioden 2024-2027. Nämnden för Miljö &
 Hälsoskydd har en antagen nämndbudget för 2024 för det som är nämndens egna kostnader för
 arvoden, utbildning etc.
@@ -240,7 +240,7 @@ kommunens arbete. Styrmodellen ska säkerställa att kommunen når
 politiska mål, att skattemedel används på bästa sätt och att kommunen
 levererar kvalitativa tjänster till alla som bor verkar och vistas i kommunen.
 Uppdraget har organiserats i projektform och pågår till och med 2024-04-
-30. Byggnadsnämnden och nämnden för Miljö & Hälsoskydd har utsetts till
+30\. Byggnadsnämnden och nämnden för Miljö & Hälsoskydd har utsetts till
 pilotnämnder och bygg- och miljöförvaltningen till pilotförvaltning i
 projektet med målet att kunna ta fram en så kallad prototyp för det som
 förväntas kunna ersätta nuvarande styrdokument nämndbudget. Som en
@@ -674,7 +674,7 @@ Kungsbacka kommun        Strategi 2024–2027, Byggnadsnämnden   14 (17)
 
 Genom att 'Nyttja data och geodata smartare’ och 'Utveckla framtidens
 tillsyn' bidrar vi till förbättrad infrastruktur och stöd för innovation. (nytta
-#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende).
+\#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende).
 Genom att 'Nyttja data och geodata smartare’ bidrar vi till stöd för
 
 innovation och hållbar industriell utveckling och infrastruktur (nytta #5:
@@ -689,7 +689,7 @@ samhällen inkluderande, säkra, motståndskraftiga och hållbara.
 Genom att 'Arbeta i en sammanhållen samhällsbyggnadsprocess’ och
 'Utveckla tjänster utifrån användares behov' bidrar vi till mer hållbara
 städer genom förbättrad service och deltagande i samhällsplanering. (nytta
-#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende)
+\#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende)
 
 Genom att 'Utveckla tjänster utifrån användares behov' bidrar vi till
 hållbarhet i städer. (nytta #4: Relevant och i framkant och nytta #5
@@ -1232,15 +1232,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden. B
 beslutade 14 december 2023 att remittera ärendet till förvaltningen för beredning. Initiativet lyfter tre
 
 punkter:
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010: 900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 
@@ -1279,15 +1279,15 @@ insparade kostnader, kortare handläggningstider och ökat kundbetyg vad gäller
 Alliansen har lämnat in ett initiativ med tre specifika frågor att utreda för att ytterligare förbättra
 näringslivsklimatet i Kungsbacka:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010: 900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 
@@ -1538,15 +1538,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden.
 Byggnadsnämnden beslutade 14 december 2023 att remittera ärendet till
 förvaltningen för beredning. Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010: 900 samt eventuellt annan relevant lagstiftning, på nya
 och uppdaterade Detaljplaner.
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 
 i kommunen och företagare, oavsett handläggare.
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
 

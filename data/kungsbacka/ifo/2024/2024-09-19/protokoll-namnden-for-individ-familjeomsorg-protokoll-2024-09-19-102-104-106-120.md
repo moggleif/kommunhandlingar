@@ -708,7 +708,7 @@ Datum
 2024-09-19
 
 Det initiala fokuset är att omhänderta ny socialtjänstlag som ska träda i kraft 1 juli
-2025. Socialtjänsten ska ha ett tydligare barnrättsperspektiv, arbeta förebyggande,
+2025\. Socialtjänsten ska ha ett tydligare barnrättsperspektiv, arbeta förebyggande,
 vara lätt tillgänglig och vara kunskapsbaserad. Portföljen har också till uppgift att
 öka kunskapen och förankringen om God och Nära Vård.
 
@@ -1554,7 +1554,7 @@ Dnr IF-2024-00179. Socialstyrelsen - Statsbidrag till kommuner för 2025 till at
 stärka arbetet för att hjälpa våldsutsatta att ordna stadigvarande boende
 
 Dnr IF-2024-00238. Inspektionen för Vård och Omsorg, IVO, dnr 3.4.2-22194/2024
-- Meddelande om anmälan, IVO kommer inte genomföra någon tillsyn av
+\- Meddelande om anmälan, IVO kommer inte genomföra någon tillsyn av
 verksamheten och avslutar ärendet.
 
 Dnr IF-2024-00245. Kommunrevisionen - Revisionens granskning av interna

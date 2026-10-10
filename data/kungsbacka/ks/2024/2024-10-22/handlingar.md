@@ -122,7 +122,7 @@ Delårsrapport 2024 för Kungsbacka kommun
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2024.
+2024\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -422,7 +422,7 @@ kommunens ekonomi utgår vi ifrån fyra finansiella perspektiv: resultat, kapaci
 2.3.1 Resultat och kapacitet
 Årets resultat
 
-*) Exklusive jämförelsestörande poster
+\*) Exklusive jämförelsestörande poster
 
 Koncernens resultat för perioden till och med den 31 augusti var 245 miljoner kronor, varav
 kommunen står för större delen av resultatet. Periodens resultat är något lägre än förra året, vilket
@@ -450,7 +450,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   5
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunkoncern | 512 | 530 | 822 | 291 | - | 291 | 245 |
 | Kommunen | 415 | 464 | 756 | 231 | 144 | 230 | 209 |
-| Strukturellt resultat* | 369 | 494 | 572 | 276 | 153 | 220 | 219 |
+| Strukturellt resultat\* | 369 | 494 | 572 | 276 | 153 | 220 | 219 |
 | Resultatets andel av skatter &<br>statsbidrag % | 7,9 | 8,4 | 13,1 | 3,8 | 2,3 | 5,8 | 5,4 |
 | Strukturellt resultats andel av<br>skatter & statsbidrag % | 7,1 | 9,0 | 9,9 | 4,6 | 2,5 | 5,5 | 5,6 |
 
@@ -683,15 +683,15 @@ Kungsbacka kommun          Delårsbokslut 2024                   9
 
 | Indikator 2021 2022 2023 2024 Målsättning<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Bäst att leva, Kungsbackas placering i ranking av<br>Sveriges kommuner (tidningen Fokus) | 3 | - * | - * | -* | < 20 |
+| Bäst att leva, Kungsbackas placering i ranking av<br>Sveriges kommuner (tidningen Fokus) | 3 | - \* | - \* | -\* | < 20 |
 | Antal påbörjade bostäder | 216 | 848 | 165 | 141 | Öka |
 | Antal färdigställda bostäder | 430 | 363 | 319 | 109 | Öka |
 
 <!-- sida 18 -->
 
-*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om 2023. Därav blir resultatet inte jämförbart med tidigare år.
-**) Brukarbedömning har inte gjorts det här året.
-***) Ännu ej publicerad
+\*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om 2023. Därav blir resultatet inte jämförbart med tidigare år.
+\*\*) Brukarbedömning har inte gjorts det här året.
+\*\*\*) Ännu ej publicerad
 
 2.4.2 Mål: En hållbar utveckling och en hälsosam miljö
 
@@ -716,7 +716,7 @@ Sommarens översvämningar gör att vi åter fått sätta ljuset på olika typer
 vattenfrågor, som dagvattenhantering, byggnation i lågpunkter och ett välfungerande ledningsnät.
 Syftet är att förebygga att extrema väderhändelser drabbar våra invånare.
 Minskade utsläpp: Kommunens nya avtal för samordnad varudistribution trädde i kraft den 1 juni
-2024. Avtalet ställer krav på fossilfria bilar, varav flera är tunga ellastbilar. Samtidigt tar vi
+2024\. Avtalet ställer krav på fossilfria bilar, varav flera är tunga ellastbilar. Samtidigt tar vi
 
 Kungsbacka kommun          Delårsbokslut 2024                  10
 
@@ -724,10 +724,10 @@ Kungsbacka kommun          Delårsbokslut 2024                  10
 
 | Indikator 2021 2022 2023 2024 Målsättning<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 5 321 | 5 691 | 6 475 | *** | Minska |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada) | - ** | 90 % | 91 % | *** | Öka |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | - ** | 74 % | 76 % | *** | Öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | - ** | 88 % | - ** | *** | Öka |
+| Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 5 321 | 5 691 | 6 475 | \*\*\* | Minska |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada) | - \*\* | 90 % | 91 % | \*\*\* | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | - \*\* | 74 % | 76 % | \*\*\* | Öka |
+| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | - \*\* | 88 % | - \*\* | \*\*\* | Öka |
 
 [Tabell 18-2](handlingar.tabeller/18-2.csv)
 
@@ -805,9 +805,9 @@ hänvisade detta till skolarbetet. 22 procent angav att en osäker framtid som o
 Över lag ligger mycket fokus på åtgärder inom kärnverksamheten men så som fokusområdena är
 formulerade skulle vi även behöva vidta andra typer av åtgärder för att vi ska nå målet.
 
-*) Ännu ej publicerad.
-**) Nyckeltalet har tagits bort från Kolada
-***) Data till och med augusti
+\*) Ännu ej publicerad.
+\*\*) Nyckeltalet har tagits bort från Kolada
+\*\*\*) Data till och med augusti
 
 Kungsbacka kommun          Delårsbokslut 2024                  12
 
@@ -816,18 +816,18 @@ Kungsbacka kommun          Delårsbokslut 2024                  12
 | Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Energiförbrukning i kommunens lokaler, KWh per<br>kvadratmeter | 165 | 157 | 154 | 158 | Minska |
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,48 | 2,27 | * | * | Minska |
-| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området (Kolada) | ** | ** | ** | ** | Öka |
-| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) | 8 | 7 | * | * | Oförändrad |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,82 | 1,86 | 1,69 | 1,78*** | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan ska<br>minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 124 | 113 | 115 | 133*** | Minska |
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 105 | 103 | 92 | * | Minska |
-| Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 98 | 115 | 223 | * | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) | måttlig | måttlig | måttlig | * | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | 7,4 % | * |  |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 % | 18,5 % | * | * | Öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever) | Åk 4: 88%,<br>Åk 8: 77%,<br>Åk 1<br>gymnasiet:<br>68% | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73% | * | Öka |
-| Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 93%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>88% | Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | * | Öka |
+| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,48 | 2,27 | \* | \* | Minska |
+| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området (Kolada) | \*\* | \*\* | \*\* | \*\* | Öka |
+| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) | 8 | 7 | \* | \* | Oförändrad |
+| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,82 | 1,86 | 1,69 | 1,78\*\*\* | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan ska<br>minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 124 | 113 | 115 | 133\*\*\* | Minska |
+| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 105 | 103 | 92 | \* | Minska |
+| Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 98 | 115 | 223 | \* | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) | måttlig | måttlig | måttlig | \* | Öka |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | 7,4 % | \* |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 % | 18,5 % | \* | \* | Öka |
+| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever) | Åk 4: 88%,<br>Åk 8: 77%,<br>Åk 1<br>gymnasiet:<br>68% | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73% | \* | Öka |
+| Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 93%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>88% | Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | \* | Öka |
 
 <!-- sida 21 -->
 
@@ -894,7 +894,7 @@ närma sig målet. Utveckling av samverkan mellan utbildningsanordnare, arbetsgi
 Kompetenscentrum har varit en framgångsfaktor. Feriejobb och UF-företagande har gett ungdomar
 praktisk erfarenhet och ökat deras entreprenöriella kompetenser.
 
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 2.4.4 Mål: I Kungsbacka utvecklas vi hela livet
 
@@ -922,12 +922,12 @@ Kungsbacka kommun          Delårsbokslut 2024                  14
 
 | Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån<br>sammanvägt betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 | * | Öka |
+| Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån<br>sammanvägt betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 | \* | Öka |
 | Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 | 3,8 | Öka |
-| Sysselsatt dagbefolkning, antal | 27 384 | 28 485 | * | * | Öka |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1 % | 4,9 % | * | * | 5,0 % |
-| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 18 % | * | * | Öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år<br>(etableringsfrekvens) | 13,8 | 12,8 | * | * | Öka |
+| Sysselsatt dagbefolkning, antal | 27 384 | 28 485 | \* | \* | Öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1 % | 4,9 % | \* | \* | 5,0 % |
+| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 18 % | \* | \* | Öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år<br>(etableringsfrekvens) | 13,8 | 12,8 | \* | \* | Öka |
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
@@ -970,8 +970,8 @@ självförsörjning. Dessa grupper är personer med begränsade kunskaper i sven
 
 som varit flera år i Sverige samt personer med psykisk ohälsa.
 
-*) Ännu ej publicerad
-**) Frågan finns inte längre med i skolenkäten
+\*) Ännu ej publicerad
+\*\*) Frågan finns inte längre med i skolenkäten
 
 Kungsbacka kommun          Delårsbokslut 2024                  15
 
@@ -979,12 +979,12 @@ Kungsbacka kommun          Delårsbokslut 2024                  15
 
 | Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen<br>i elevens slutbetyg och kan max vara 340. (Kolada) | 239 | 237 | 237 | * | Öka |
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada) | 14,2 | 14,5 | 14,3 | * | Öka |
-| Självkänsla och framtidstro för gymnasieelever år 2,<br>index med skala 0–10 enligt Skolinspektionens<br>skolenkät. | 7,8 | ** | ** | ** | Öka |
-| Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 2,6 | 1,7 | 1,7 | * | Minska |
-| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) | 414 | 376 | 325 | * |  |
-| Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 67 | 69 | 73 | * | Öka |
+| Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen<br>i elevens slutbetyg och kan max vara 340. (Kolada) | 239 | 237 | 237 | \* | Öka |
+| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada) | 14,2 | 14,5 | 14,3 | \* | Öka |
+| Självkänsla och framtidstro för gymnasieelever år 2,<br>index med skala 0–10 enligt Skolinspektionens<br>skolenkät. | 7,8 | \*\* | \*\* | \*\* | Öka |
+| Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 2,6 | 1,7 | 1,7 | \* | Minska |
+| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) | 414 | 376 | 325 | \* |  |
+| Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 67 | 69 | 73 | \* | Öka |
 
 <!-- sida 24 -->
 
@@ -1068,7 +1068,7 @@ inom organisationer i arbetsvillkor, arbetsmiljö och utvecklingsmöjligheter. J
 kommun har ökat senaste fyra åren och är nu på samma nivå som index totalt för kommuner men
 också organisationer i övrigt.
 
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 2.4.6 Direktiv: Innovation och omställning till nya arbetssätt
 Kommunen står inför stora utmaningar kommande decennier. Vi ska bevara välfärden trots ökade
@@ -1092,8 +1092,8 @@ Kungsbacka kommun          Delårsbokslut 2024                  17
 
 | Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 78 | 76 | * | Öka |
-| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20<br>och visar hur jämställda arbetsvillkor, arbetsmiljö och<br>anställningsvillkor är i organisationen | 103 | 114 | 122 | * | Öka |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 78 | 76 | \* | Öka |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20<br>och visar hur jämställda arbetsvillkor, arbetsmiljö och<br>anställningsvillkor är i organisationen | 103 | 114 | 122 | \* | Öka |
 
 <!-- sida 26 -->
 
@@ -1175,7 +1175,7 @@ vågar, något som är en viktig del både för att sprida till fler och för at
 har det varit ett stort intresse från omvärlden och Kungsbacka har delat med sig erfarenheter av
 arbetet på seminarier, studiebesök och genom kontakter från andra kommuner.
 
-*) Följs upp i årsbokslutet
+\*) Följs upp i årsbokslutet
 
 2.5 God ekonomisk hushållning och ekonomisk ställning
 God ekonomisk hushållning, definition
@@ -1207,8 +1207,8 @@ Kungsbacka kommun          Delårsbokslut 2024                  19
 
 | Målsättning<br>Indikator 2023 2024<br>2024 |  |  |  |
 | --- | --- | --- | --- |
-| Andel innovationsprojekt som drivits under året ** | - | * | Öka |
-| Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation ** | - | * | Öka |
+| Andel innovationsprojekt som drivits under året \*\* | - | \* | Öka |
+| Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation \*\* | - | \* | Öka |
 
 <!-- sida 28 -->
 
@@ -1226,7 +1226,7 @@ Självfinansiering av investeringar, kommunen (procent)
 
 Soliditet i koncernen (procent)
 
-* Soliditetsmåttet för koncernen redovisas i årsbokslutet
+\* Soliditetsmåttet för koncernen redovisas i årsbokslutet
 
 Soliditet i kommunen (procent)
 
@@ -1260,7 +1260,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  20
 
 | Genomsnitt<br>2024<br>2021 2022 2023 2025 (Sista årets soliditet ska vara högre än<br>(augusti)<br>genomsnittet för perioden 2021–2025 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| 27,2 | 29,3 | 32,3 | 33,6 | * | * |
+| 27,2 | 29,3 | 32,3 | 33,6 | \* | \* |
 
 [Tabell 28-3](handlingar.tabeller/28-3.csv)
 
@@ -1375,7 +1375,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  22
 
 3.1 Resultaträkning
 
-* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal. Under 2023 har klassificering
+\* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal. Under 2023 har klassificering
 skett av samtliga externa hyresavtal som är mindre än en halv miljon kronor i årshyra samt befintliga koncerninterna hyresavtal
 ingångna före 2021.Justeringen innebär en ökad kostnad i delåret 2023 med 1,7 miljoner vilket förklarar förändringen i resultatet från
 232 till 230 miljoner.
@@ -1386,7 +1386,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  23
 
 | Miljoner kronor | Kommunen |  |  |  | Koncernen |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 2023-08-<br>31* | 2024-08-31 | Budget<br>2024 | Prognos<br>2024 | 2023-08-31 | 2024-08-31 |
+|  | 2023-08-<br>31\* | 2024-08-31 | Budget<br>2024 | Prognos<br>2024 | 2023-08-31 | 2024-08-31 |
 | Verksamhetens<br>intäkter | 880,0 | 874,2 | 1 340,4 | 1 440,2 | 1 047,2 | 1 049,4 |
 | Verksamhetens<br>kostnader | -4 281,4 | -4 282,7 | -6 752,8 | -6 786,6 | -4 212 | -4 360,2 |
 | Avskrivningar | -275,0 | -337,8 | -497,1 | -519,9 | -372,3 | -369,0 |
@@ -1444,7 +1444,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  24
 
 <!-- sida 33 -->
 
-* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal. Under 2023 har klassificering
+\* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal. Under 2023 har klassificering
 skett av samtliga externa hyresavtal som är mindre än en halv miljon kronor i årshyra samt befintliga koncerninterna hyresavtal
 ingångna före 2021.Justeringens konsekvens på eget kapital är en minskning med 79,6 miljoner.
 
@@ -1487,8 +1487,8 @@ Kungsbacka kommun          Delårsbokslut 2024                  25
 
 4.1 Driftredovisning
 
-* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyror.
-** Service har en budgetavvikelse som i relation till totala budgetomsättningen motsvarar 0,2 procent
+\* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyror.
+\*\* Service har en budgetavvikelse som i relation till totala budgetomsättningen motsvarar 0,2 procent
 
 Prognos nämnderna +15,2 miljoner
 Kommunens skattefinansierade verksamheter prognostiserar tillsammans ett överskott på 15,2
@@ -1508,7 +1508,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  26
 | Kultur & Fritid | -182,6 | -198,7 | -269,0 | -288,4 | -290,6 | -2,2 | -0,8 |
 | Förskola & Grundskola | -1 474,2 | -1 503,8 | -2 213,4 | -2 276,6 | -2 296,0 | -19,4 | -0,9 |
 | Teknik skatt | -157,4 | -167,9 | -227,1 | -246,4 | -245,4 | 1,0 | 0,4 |
-| Service* | -57,5 | -43,7 | -98,9 | -71,0 | -85,9 | -14,9 | -21,0** |
+| Service\* | -57,5 | -43,7 | -98,9 | -71,0 | -85,9 | -14,9 | -21,0\*\* |
 | Miljö & Hälsoskydd | -0,7 | -0,6 | -1,0 | -1,0 | -0,9 | 0,1 | 10,0 |
 | Byggnadsnämnd | -27,3 | -25,4 | -38,7 | -39,1 | -39,1 | 0 | 0 |
 | Individ & Familjeomsorg | -510,0 | -541,7 | -764,9 | -790,6 | -790,6 | 0 | 0 |
@@ -1620,14 +1620,14 @@ Kungsbacka kommun          Delårsbokslut 2024                  28
 | Kultur & Fritid | 16,4 | 8,3 | 26,2 | 13,8 | 12,4 | 47,3 |
 | Förskola & Grundskola | 5,2 | 5,0 | 15,0 | 15,0 | 0,0 | 0 |
 | Teknik Skatt | 105,0 | 39,4 | 130,2 | 92,7 | 37,5 | 28,8 |
-| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)* | 12,4 | 13,3 | 39,4 | 23,5 | 15,9 | 40,4 |
+| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)\* | 12,4 | 13,3 | 39,4 | 23,5 | 15,9 | 40,4 |
 | Service | 202,4 | 138,9 | 420,7 | 301,0 | 119,6 | 28,4 |
 | -varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
 | Byggnadsnämnden | 0,1 | 0,1 | 0,1 | 0,1 | 0 | 0,0 |
 | Individ & Familjeomsorg | 0,4 | 0,2 | 2,7 | 2,0 | 0,7 | 25,9 |
 | Vård & Omsorg | 2,0 | 1,8 | 19,0 | 10,5 | 8,5 | 44,7 |
 | Finansiering lokalplan | 0,0 | 0,0 | 158,8 | 23,3 | 135,5 | 85,3 |
-| Exploateringsverksamhet*<br>(Anläggningstillgångar) | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
+| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
 | Summa skattefinansierad<br>verksamhet | 333,8 | 257,0 | 874,6 | 551,6 | 323,1 | 36,9 |
 | Vatten & Avlopp | 190,6 | 201,9 | 591,6 | 389,2 | 202,5 | 34,2 |
 | Avfall & Återvinning | 0,8 | 1,1 | 37,5 | 4,0 | 33,5 | 89,3 |
@@ -1635,7 +1635,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  28
 
 <!-- sida 37 -->
 
-*Se beskrivning av exploateringsverksamheten på sid 30-31
+\*Se beskrivning av exploateringsverksamheten på sid 30-31
 
 Investeringar i skattefinansierad verksamhet
 De skattefinansierade bruttoinvesteringarna visar på en avvikelse på 323 miljoner kronor jämfört
@@ -1787,7 +1787,7 @@ Sammanfattning av ärendet
 
 I lokalplan 2025–2029, som är en del av kommunbudgeten för 2025, ingår
 färdigställande av ny skola i Åsa, löpnummer 336. Projektet planeras att vara klart år
-2028.
+2028\.
 
 Behovet av ny skola omfattar 500 elevplatser där merparten av platserna kommer
 användas av elever som i dag går på Åsa Gårdsskolan. Den nya skolan bedöms även
@@ -1909,18 +1909,18 @@ Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lok
 hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
 lokaler över tiden".                principen i fallande ordning:
 
-1. L okalbehov som inte är lagstyrd verksamhet
+1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
 och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
 höjningar i befintliga lokaler har lägst
 på befolkningsprognoser och lokalprognoser. Det är prioritet.
 kommunens lokalstyrgrupp som sammanställer behoven
-2. Lokalbehov på grund av ny exploatering har
+2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
 medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3. L okalbehov som beror på strukturomvand-
+3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
 lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
@@ -1948,11 +1948,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
 innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
 enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
+1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
+2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
 kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
-3. Bygga om eller till befintliga lokaler
-4. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
 • Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
 ”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
 utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
@@ -2615,7 +2615,7 @@ Begära     planbesked
 
 Ärendenummer: #133358 | Inskickat av:  | 2024-05-12 12:07
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -2630,7 +2630,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -2671,7 +2671,7 @@ info@gilu.se
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -2726,7 +2726,7 @@ Handel
 
 Lekyta/allmän plats för att tillgodose barnperspektivet i samhällsutvecklingen av Åsa.
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -2773,7 +2773,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Kommunstyrelsen Datum
 2022-09-27
 
-$ 210 Dnr 2022-00501
+\$ 210 Dnr 2022-00501
 Ansökan om planbesked för Åsa 5:153 och 5:89
 
 Beslut
@@ -2820,7 +2820,7 @@ våningar men att anpassning till befintlig bebyggelse krävs.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-09-13, $ 287
+Kommunstyrelsens arbetsutskott 2022-09-13, \$ 287
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-08-24
 Karta, Åsa 5:153 och 5:89, 2022-08-24
 
@@ -3142,10 +3142,10 @@ som inte finns i orten idag.
 
 Vårt förslag innehåller en mix av parhus och småvillor.
 
-- I närhet till andra bostadsområden i Åsa ligger denna mycket
+\- I närhet till andra bostadsområden i Åsa ligger denna mycket
 fint belägna tomt omgiven av ett fint naturområde.
 
-- Effektivt planerade boenden med privat trädgård och
+\- Effektivt planerade boenden med privat trädgård och
 uteplats i anslutning till kök och vardagsrum.
 
 Situationsplan Åsa Berg 4:2 samt 4:28
@@ -3540,7 +3540,7 @@ Begära     planbesked
 
 Ärendenummer: #132183 | Inskickat av: | 2024-05-03 13:38
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -3555,7 +3555,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -3583,7 +3583,7 @@ Postort                           Telefon
 Mölndal
 
 E-postadress                      Eventuell fakturareferens
--
+\-
 
 Företagets kontaktperson
 
@@ -3596,7 +3596,7 @@ l
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -3629,7 +3629,7 @@ Handel
 Kontor
 Longstay
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -4000,15 +4000,15 @@ Inom projektgruppen har följande projektmålen arbetats fram:
 PROJEKTMÅL                                              1. Vi arbetar med mobilitet inom ramen för programmet och fokuserar på en smidig
 trafiklösning för att skapa gynnsamma effekter för Kungsbacka innerstad.
 
-2. Vi fastställer ett förslag som behåller grönskan på och runt omkring fastigheten
+2\. Vi fastställer ett förslag som behåller grönskan på och runt omkring fastigheten
 genom små rum där naturen får ta plats vilket bidrar både till rekreationsmöjlighet
 för besökaren samtidigt som riksintressen vårdas.
 
-3. Vi skapar ett unikt Longstay som man längtar till och i längden kommer vårt
+3\. Vi skapar ett unikt Longstay som man längtar till och i längden kommer vårt
 trygghetboende att främja bostadsmarknaden inom kommunen.
 
-4. Vi utvecklar Vallda till en plats som är än mer attraktiv att bo, verka och vistas i.
-5. Vi skapar arbetstillfällen och nyttjar Lärande Bygg i tätt samarbete med kommunen
+4\. Vi utvecklar Vallda till en plats som är än mer attraktiv att bo, verka och vistas i.
+5\. Vi skapar arbetstillfällen och nyttjar Lärande Bygg i tätt samarbete med kommunen
 och lokala arbetsgivare.
 
 20
@@ -5017,7 +5017,7 @@ Delmodellen IFO
 Under 2024 omfördelar kostnadsutjämningens delmodell för individ och familjeomsorg 6,2 miljarder
 kronor, vilket innebär att den är en av delmodellerna med störst omfördelning. Detta kan sättas i
 relation till kommunernas totala nettokostnader för verksamheten på drygt 51 miljarder kronor under
-2022.
+2022\.
 Delmodellen för individ- och familjeomsorg ändras genom att den delas upp i två nya komponenter, en
 
 för barn- och ungdomsvård och en för övrig individ- och familjeomsorg. Utjämningen för barn- och
@@ -5876,7 +5876,7 @@ Kommunen har förståelse för att det inte varit möjligt att ta fram förslag 
 utredningens snäva tidsramar. Utredningen har dock själv identifierat att det finns vissa frågor som inte
 kan utredas förrän kommissionens kompletterande genomförandeakter har antagits den 21 november
 
-2024. Kungsbacka kommun anser att man inom ramen för fortsatt utredningsarbete närmare bör utreda
+2024\. Kungsbacka kommun anser att man inom ramen för fortsatt utredningsarbete närmare bör utreda
 konsekvenserna av förordningen för kommunerna och föreslå en struktur för samordning och stöd.
 Kommunen är också mycket positiv till att man inom ramen för ett fortsatt utredningsarbete utvidgar
 det tidigare lämnade förslaget om en förvaltningsgemensam valideringstjänst för elektroniska
@@ -6106,19 +6106,19 @@ Det nya registret kommer att inkludera fler typer av insatser inom socialtjänst
 strikta regler för personuppgiftsbehandling för att skydda den personliga integriteten. Inom följande
 områden föreslås att aktörer ska vara skyldiga att lämna uppgifter:
 
-1. Barn och unga: Stöd och skydd, som familjehem och institutionsvård.
-2. Äldreomsorg: Tjänster för äldre, som hemtjänst och särskilt boende.
+1\. Barn och unga: Stöd och skydd, som familjehem och institutionsvård.
+2\. Äldreomsorg: Tjänster för äldre, som hemtjänst och särskilt boende.
 
 <!-- sida 164 -->
 
 KUNGSBACKA  KOMMUN
 4 (7)
 
-3. Funktionsnedsättning: Stöd för personer med funktionsnedsättning, som personlig assistans.
+3\. Funktionsnedsättning: Stöd för personer med funktionsnedsättning, som personlig assistans.
 
-4. Missbruksvård: Vård för personer med missbruksproblem, som öppenvård och stödboende.
+4\. Missbruksvård: Vård för personer med missbruksproblem, som öppenvård och stödboende.
 
-5. Ekonomiskt bistånd: Stöd för ekonomiskt utsatta, som försörjningsstöd.
+5\. Ekonomiskt bistånd: Stöd för ekonomiskt utsatta, som försörjningsstöd.
 Avsnitt 1.4 Förslag till socialtjänstdataregisterförordning
 
 Socialstyrelsen har hittills behandlat personuppgifter med stöd av den allmänna dataskyddsregleringen
@@ -6153,18 +6153,18 @@ med EU:s dataskyddsförordning i stort.
 8.2.7 Det ska finnas en uppgiftskatalog i förordning
 Utredaren föreslår att registret ska innehålla uppgifter om:
 
-1. personnummer eller samordningsnummer, kön, födelseår, folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
+1\. personnummer eller samordningsnummer, kön, födelseår, folkbokföringsort och födelseort,
+2\. utredningsåtgärd och beslut,
 
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
 
 <!-- sida 165 -->
 
 KUNGSBACKA  KOMMUN
 5 (7)
 
-5. uppgift av administrativ karaktär av betydelse för den utredning, prövning eller insats inom
+5\. uppgift av administrativ karaktär av betydelse för den utredning, prövning eller insats inom
 
 socialtjänsten som en person får.
 Om det är nödvändigt ska det i registret också få finnas uppgift om ställföreträdare för eller närstående
@@ -7873,7 +7873,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 206 -->
 
-1.  Dalarna
+1\.  Dalarna
 
 Delområde Dalarna omfattar Dalarnas län men sträcker sig
 i viss mån utanför länets gränser då en ledningssträckning
@@ -7899,7 +7899,7 @@ vid topplasttimmen och det finns ca 800 MW vattenkraft
 och drygt 100 MW vindkraft installerat, utspritt över ett
 stort geografiskt område.
 
-2.  Hälsingland
+2\.  Hälsingland
 
 Delområde Hälsingland omfattar en stor del av Gävle-
 borgs län, förutom kommunerna Nordanstig, Hofors, Sand-
@@ -7929,7 +7929,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 207 -->
 
-3.  Värmland
+3\.  Värmland
 
 Ellevio äger ett utbrett 130 kV-ledningsnät i Värmlands-
 regionen som sträcker sig in i Örebro län i öst samt Västra
@@ -7954,7 +7954,7 @@ erna är belägna. Idag är elförbrukningen i Värmland ca
 installerad vattenkraft samt 500 MW installerad vindkraft
 i området.
 
-4.  Vallentuna
+4\.  Vallentuna
 
 Delområde Vallentuna omfattar Vallentuna kommun och
 följer i stora drag Vallentunas kommungränser med vissa
@@ -7977,7 +7977,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 208 -->
 
-5.  Täby
+5\.  Täby
 
 Delområde Täby omfattar Täby kommun och följer i stort
 sett kommunens gränser. Ellevio har områdeskoncession för
@@ -7998,7 +7998,7 @@ Produktionen inom området förbrukas lokalt och inget
 överskott matas in till överliggande nät. Historisk maximal
 uppmätt elförbrukning inom området har varit 165 MW.
 
-6.  Ekerö
+6\.  Ekerö
 
 Delområde Ekerö omfattar Ekerö kommun samt ett fåtal
 mindre öar utanför kommungränserna som ligger innanför
@@ -8021,7 +8021,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 209 -->
 
-7.  Stockholm
+7\.  Stockholm
 
 Delområde Stockholm omfattar Stockholm stad och dess
 kommungränser. Ellevios elnät i detta delområde försörjer
@@ -8047,7 +8047,7 @@ installerad effekt på ca 77 MW, men också produktion på Historisk maximal upp
 större skala i form av kraftvärmeverk (392 MW installerad har varit 1761 MW.
 effekt) och gasturbiner (630 MW installerad effekt).
 
-8.  Lidingö
+8\.  Lidingö
 
 Delområde Lidingö omfattar Lidingö Stad och följer i stora
 drag dess kommungränser med undantag för ett fåtal mindre
@@ -8070,7 +8070,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 210 -->
 
-9.  Nynäshamn
+9\.  Nynäshamn
 
 Delområde Nynäshamn omfattar Nynäshamn kommun och
 följer i stora drog Nynäshamns kommungränser. Ellevio har
@@ -8087,7 +8087,7 @@ av solcellsanläggningar och då främst mikroproduktion
 med en installerad effekt på ca 12 MW. Historisk maximal
 uppmätt elförbrukning inom området har varit 66 MW.
 
-10.   Skaraborg
+10\.   Skaraborg
 
 Delområde Skaraborg är beläget i nordöstra delen av
 Västra Götalands län och gränsar till delområde Värmland.
@@ -8112,7 +8112,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 211 -->
 
-11.   Norra    Bohuslän
+11\.   Norra    Bohuslän
 
 Delområde Norra Bohuslän innefattar kommunerna
 Strömstad, Tanum, Sotenäs och Munkedal. Ellevio innehar
@@ -8134,7 +8134,7 @@ vilken i dagsläget uppgår till ca 150 MW under topplast-
 timmen. Det finns ca 200 MW installerad effekt för produk-
 tion, huvudsakligen vindkraft, i området.
 
-12.   Orust-Tjörn
+12\.   Orust-Tjörn
 
 Delområde Orust-Tjörn omfattar kommunerna Orust och
 Tjörn. Ellevios elnät i delområdet består av regionnät
@@ -8158,7 +8158,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 212 -->
 
-13.   Halland
+13\.   Halland
 
 Delområde Halland omfattar ett område beläget mellan
 Öckerö och Södra Göteborg ner till Falkenberg. Ellevio
@@ -8183,7 +8183,7 @@ och Svk:s nät.
 Elförbrukningen i nätet uppgår som mest till ca
 640 MW och består främst av borgerlig last. I dagens nät
 
-14.   Tovåsen
+14\.   Tovåsen
 
 Delområde Tovåsen är främst ett produktionskluster i
 Ljusdals kommun, men nätet försörjer även Härejåns elnät
@@ -8201,7 +8201,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 213 -->
 
-15.   Olingan
+15\.   Olingan
 
 Delområde Olingan är ett produktionskluster i Härje-
 dalens kommun. Vindkraftsproduktion ansluts via radiell
@@ -8211,7 +8211,7 @@ Olingan har Ellevio en gränspunkt mot Svk. Det finns
 286 MW installerad effekt för produktion inom del-
 området.
 
-16.   Torpberget
+16\.   Torpberget
 
 Delområde Torpberget är ett produktionskluster i Ljusdals
 kommun. Nätet ansluter vindkraftsproduktion via radiella
@@ -8225,7 +8225,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 214 -->
 
-17.   Laforsen
+17\.   Laforsen
 
 Delområde Laforsen sträcker sig över delar av Ljusdal och
 Härjedalens kommuner. Nätet ansluter produktion främst
@@ -8376,7 +8376,7 @@ samlat information från:            ladda på eftermiddagen direkt vid hemkomst
 
 2 Vissa av kommunernas planer för större anslutningar exkluderades ur denna metod och
 inkluderas i stället som punktlast eller större produktionsförfrågningar, se det avsnittet
-3 https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0401__BE0401A/
+3 https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_BE\_\_BE0401\_\_BE0401A/
 BefProgOsiktRegN/
 
 NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 15
@@ -8767,7 +8767,7 @@ i delområde Skaraborg prognos ti- 600
 seras att öka med 334 %, respektive
 500
 526 % under tidsperioden 2025–
-2034. De främsta driv krafterna
+2034\. De främsta driv krafterna
 400
 bakom det ökande behovet är
 anslutning av nya industrier och 300
@@ -8949,7 +8949,7 @@ för produktion i Torpberget
 prognostiseras att öka med ca 600
 234 % under tidsperioden 2025–
 500
-2034. Drivkrafterna bakom det
+2034\. Drivkrafterna bakom det
 ökande behovet är nyanslutningar
 400
 av större produktionsanläggningar,
@@ -9033,7 +9033,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 233 -->
 
-1.  Dalarna
+1\.  Dalarna
 
 Det finns idag begränsningar i överliggande stamnät som 3. I transformeringen ner till lokalnätet i Mora-trakten.
 begränsar möjligheterna för både uttag till och inmatning Denna begränsning förväntas byggas bort med
@@ -9058,13 +9058,13 @@ egna elnät och nya förväntas uppstå med det ökande inmatning i norra Dalarn
 behovet av överföringskapacitet. De nuvarande och poten- på 130 kV-ledningar. Detta planeras dock avhjälpas
 tiellt kommande kapacitetsbegränsningarna i det egna med investeringspaket DAL5.
 elnätet är följande:
-6. Utrymmet för nya lastökningar runt Dala Floda förvän-
+6\. Utrymmet för nya lastökningar runt Dala Floda förvän-
 
-1. I området kring Orsa där en ny 50 kV-ledning sträckan tas minska i framtiden på grund av redan planerade
+1\. I området kring Orsa där en ny 50 kV-ledning sträckan tas minska i framtiden på grund av redan planerade
 Våmhus–Orsa–Blyberg planeras. Projektet ingår i del- nyanslutningar och/eller utökningar av befintliga anslut-
 område Dalarnas investeringspaket DAL8. ningar. Det pågår idag en utredning för att hantera
 eventuella kommande kapacitetsbegränsningar, men
-2. I trakterna kring Idre i de nordligaste delarna av beslut om investering saknas i dagsläget.
+2\. I trakterna kring Idre i de nordligaste delarna av beslut om investering saknas i dagsläget.
 Ellevios 50 kV-nät. Det planeras för en ny 130 kV-led-
 ning från Sälen till en ny station söder om Idre fjäll, I Dalarna används villkorade avtal som en nuvarande
 Brattströmmen, som kommer att möjliggöra ökat uttag. lösning för att kunna ansluta nya kunder innan planerade
@@ -9080,7 +9080,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 234 -->
 
-2.  Hälsingland
+2\.  Hälsingland
 
 På grund av kapacitetsbegränsningar i stamnätet kommer I Ellevios egna elnät finns det nuvarande lokala
 Svk genomföra sitt investeringspaket NordSyd, vilket begränsningar för större uttagsökningar och nyanslutningar
@@ -9108,7 +9108,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 235 -->
 
-3.  Värmland
+3\.  Värmland
 
 I delområde Värmland finns det idag begränsningar för Dessa förväntas åtgärdas med investeringspaket VÄR5.
 inmatning till, samt vissa begränsningar för ökat uttag från Ellevios prognoser påvisar ett ökat framtida behov av
@@ -9139,7 +9139,7 @@ NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETT
 
 <!-- sida 236 -->
 
-4.  Vallentuna
+4\.  Vallentuna
 
 Det finns inga kända, nuvarande kapacitetsbegränsningar
 inom delområde Vallentuna, varken i Ellevios elnät eller
@@ -9165,7 +9165,7 @@ I delområde Vallentuna används idag inga flexibilitets-
 tjänster eller andra resurser som ett alternativ till nätut-
 byggnad.
 
-5.  Täby
+5\.  Täby
 
 I Täby finns det idag begränsningar för uttag i en av som begränsar ökat uttag i norra och västra Täby. Det
 Ellevios gränspunkter mot överliggande elnät där Ellevio finns ett pågående projektpaket i lokalnätet för att hantera
@@ -9195,7 +9195,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 237 -->
 
-6.  Ekerö
+6\.  Ekerö
 
 Det finns inga kända, nuvarande kapacitetsbegränsningar
 inom delområde Ekerö, varken i Ellevios egna eller mot
@@ -9222,7 +9222,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 238 -->
 
-7.  Stockholm
+7\.  Stockholm
 
 I delområde Stockholm finns det idag begränsningar för begränsningar i fem av Ellevios stationer. Begränsningarna
 uttag mot överliggande stamnät och Ellevio har i flertalet som förväntas uppstå finns antingen i matande kablar eller
@@ -9259,7 +9259,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 239 -->
 
-8.  Lidingö
+8\.  Lidingö
 
 Det finns inga kända, nuvarande kapacitetsbegränsningar
 mot överliggande elnät i Lidingö. Däremot är en av Ellevios
@@ -9284,7 +9284,7 @@ Inom delområde Lidingö används idag inga flexibilitets-
 tjänster eller andra resurser som ett alternativ till utbyggnad
 av systemet.
 
-9.  Nynäshamn
+9\.  Nynäshamn
 
 Det finns inga kända, nuvarande kapacitetsbegränsningar
 inom delområde Nynäshamn, varken i Ellevios egna eller
@@ -9310,13 +9310,13 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 240 -->
 
-10.   Skaraborg
+10\.   Skaraborg
 
 I Skaraborg finns det idag begränsningar för inmatning och Svk. En av åtgärderna som planeras för att hantera
 till överliggande stamnät. Enligt Svk:s nätutvecklingsplan situationen är en ny stamstation i området.
 kommer en ny 400 kV-ledning att byggas sträckan Skogs- Enligt Ellevios analys finns det risk för att även begräns-
 säter–Stenungsund–Ingelkärr–Stenkullen och tas i drift ningar i det interna nätet kan uppstå, därmed krävs även
-2031. Svk planerar även att förstärka 400 kV-ledningarna åtgärder i regionnätet för att kunna ansluta nya produk-
+2031\. Svk planerar även att förstärka 400 kV-ledningarna åtgärder i regionnätet för att kunna ansluta nya produk-
 sträckan Hallsberg–Timmersdala–Stenkullen, samt bygga tionsanläggningar. Ellevio planerar därför att bygga nya
 en ny 400 kV-ledning mellan Hallsberg och Timmersdala, 130 kV-ledningar samt två nya regionnätsstationer. För
 vilket planeras vara klart 2033. Därtill planeras även för att möjliggöra snabbare anslutning av dessa produktions-
@@ -9330,7 +9330,7 @@ ansträngd även framöver då det finns mycket produktions- nätutvecklingsplan
 förfrågningar i området. För att hantera produktionsförfråg- I delområde Skaraborg används idag inga flexibilitets-
 ningarna samarbetar Ellevio med Vattenfall Eldistribution tjänster eller andra resurser.
 
-11.   Norra    Bohuslän
+11\.   Norra    Bohuslän
 
 I Norra Bohuslän finns det idag begränsningar för förstärkning av nätstrukturen i regionnätet. Ett förstärknings-
 både uttag och inmatning till och från överliggande paket är i nuläget under utredning och håller på att formas
@@ -9357,7 +9357,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 241 -->
 
-12.   Orust-Tjörn
+12\.   Orust-Tjörn
 
 Det finns idag begränsningar för uttag gentemot över- Givet Ellevios prognos för behov av överförings-
 liggande nät som matas från Vattenfall Eldistribution, som kapacitet förväntas det uppstå nya begränsningar för uttag
@@ -9382,7 +9382,7 @@ av området samt i sydväst, i Skärhamnstrakten. Dessa
 begränsningar förväntas till största del byggas bort med
 investeringspaketet OT3, respektive OT2.
 
-13.   Halland
+13\.   Halland
 
 I Hallandsnätet finns det idag begränsningar för större På grund av hårt belastade ledningar vid reservdrift
 uttagsökningar från överliggande stamnät. Enligt Svk:s finns det också begränsade möjligheter för ökat uttag i
@@ -9408,7 +9408,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 242 -->
 
-14.   Tovåsen
+14\.   Tovåsen
 
 Det finns för närvarande inga kapacitetsbegränsningar i
 eget eller i överliggande elnät i Tovåsen.
@@ -9427,7 +9427,7 @@ en försämrad elkvalitet i området. Detta kan i sin tur
 begränsa möjligheterna till ytterligare anslutningar av det
 slaget.
 
-15.   Olingan
+15\.   Olingan
 
 I delområde Olingan finns det inga nuvarande eller even-
 tuella förväntade kapacitetsbegränsningar, varken i eget
@@ -9439,7 +9439,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 243 -->
 
-16.   Torpberget
+16\.   Torpberget
 
 I delområde Torpberget finns det inga nuvarande
 begränsningar i eget eller mot överliggande elnät. Ellevio
@@ -9451,7 +9451,7 @@ den relevanta tidsperioden och komplettering av ytterligare
 en stamnätstransformator kommer eventuellt behövas
 beroende på tillkommande behov.
 
-17.   Laforsen
+17\.   Laforsen
 
 Det finns idag inga begränsningar mot överliggande
 elnät i delområde Laforsen. För att möjliggöra kommande
@@ -9532,7 +9532,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 3.2    Planerade         investeringar
 
-1.  Dalarna
+1\.  Dalarna
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 44
 
@@ -9551,9 +9551,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 247 -->
 
-2.  Hälsingland
+2\.  Hälsingland
 
-3.  Värmland
+3\.  Värmland
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 45
 
@@ -9579,9 +9579,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 248 -->
 
-4.  Vallentuna
+4\.  Vallentuna
 
-5.  Täby
+5\.  Täby
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 46
 
@@ -9602,9 +9602,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 249 -->
 
-6.  Ekerö
+6\.  Ekerö
 
-7.  Stockholm
+7\.  Stockholm
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 47
 
@@ -9649,9 +9649,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 251 -->
 
-8.  Lidingö
+8\.  Lidingö
 
-9.  Nynäshamn
+9\.  Nynäshamn
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 49
 
@@ -9670,9 +9670,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 252 -->
 
-10.   Skaraborg
+10\.   Skaraborg
 
-11.   Norra    Bohuslän
+11\.   Norra    Bohuslän
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 50
 
@@ -9695,9 +9695,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 253 -->
 
-12.   Orust-Tjörn
+12\.   Orust-Tjörn
 
-13.   Halland
+13\.   Halland
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 51
 
@@ -9720,9 +9720,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 254 -->
 
-14.   Tovåsen
+14\.   Tovåsen
 
-15.   Olingan
+15\.   Olingan
 
 I dagsläget finns det inga planerade investeringar i huvud-
 saklig distributionsinfrastruktur inom delområde Olingan.
@@ -9737,9 +9737,9 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 255 -->
 
-16.   Torpberget
+16\.   Torpberget
 
-17.   Laforsen
+17\.   Laforsen
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 53
 
@@ -9827,7 +9827,7 @@ Tabell  3: Tillkommande   behov   av flexibilitetstjänster och andra
 
 resurser 2025–2034
 
-* Med dagens produktionsnivåer och förväntad prognos. Det finns dock mycket förfrågningar
+\* Med dagens produktionsnivåer och förväntad prognos. Det finns dock mycket förfrågningar
 i tidigt skede.
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 56
@@ -9837,11 +9837,11 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 | DELOMRÅDE | INMATNING/<br>UTTAG | 0–2 ÅR | 3–5 ÅR | 6–10 ÅR |
 | --- | --- | --- | --- | --- |
 | Dalarna | Uttag | 0 | 0 | 0 |
-|  | Inmatning | 350* | 0* | 0* |
+|  | Inmatning | 350\* | 0\* | 0\* |
 | Hälsingland | Uttag | 0 | 0 | 0 |
 |  | Inmatning | 0 | 0 | 0 |
 | Värmland | Uttag | 0 | 0–170 | 0–320 |
-|  | Inmatning | 0–100* | 0–140* | 0–240* |
+|  | Inmatning | 0–100\* | 0–140\* | 0–240\* |
 | Vallentuna | Uttag | 0–5 | 0–10 | 0–10 |
 | Täby | Uttag | 0–25 | 0–25 | 0–40 |
 | Ekerö | Uttag | 0–5 | 0–10 | 0–15 |
@@ -9849,7 +9849,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 | Lidingö | Uttag | 0–5 | 0–5 | 0–5 |
 | Nynäshamn | Uttag | 0–5 | 0–10 | 0–10 |
 | Skaraborg | Uttag | 0 | 0–10 | 0–25 |
-|  | Inmatning | 0–10* | 0–300* | 0–450* |
+|  | Inmatning | 0–10\* | 0–300\* | 0–450\* |
 | Norra Bohuslän | Uttag | 0 | 0 | 0 |
 |  | Inmatning | 0 | 0 | 0 |
 | Orust-Tjörn | Uttag | 20 | 40 | 0 |
@@ -10278,7 +10278,7 @@ intressenter. Det är till exempel kunder, elnätsföretag med angränsade elnä
 länsstyrelser, regioner, intresseorganisationer, elproducenter och flexibilitetsleverantörer.
 
 Alla svenska elnätsföretag ska vartannat år ta fram och offentliggöra en nätutvecklingsplan med start
-2024. E.ONs nätutvecklingsplan följer den mall och de instruktioner som lämnats från
+2024\. E.ONs nätutvecklingsplan följer den mall och de instruktioner som lämnats från
 Energimarknadsinspektionen (Ei) i vägledning och föreskrift EIFS 2024:1.
 
 Elnätets utbredning är helt oberoende av kommun- och länsgränser. I nätutvecklingsplanen har E.ON
@@ -10871,7 +10871,7 @@ För att ta fram en baseline så analyseras laster och hur dessa historiskt sett
 dygnet, veckan och året samt temperatur och väderförhållanden. Utifrån detta kan man skapa en
 baseline för ett representativt hög- och låglastdygn under både varma och kalla år. Den baseline som
 används i nätutvecklingsplanen grundar sig på historiska mätdata i våra nät fram till årsskiftet 2023–
-2024.
+2024\.
 
 Det tillkommande effektbehovet adderas till baseline för att skapa prognoser för belastningen i olika
 anläggningsdelar. Valet av baseline är därför avgörande för bedömningen av kapacitetsläget i nätet.
@@ -11270,7 +11270,7 @@ av slutkundsförbrukningen i Skåne sker ute i nät ägda av andra elnätsbolag.
 
 Det finns en stark ambition att öka produktionen av el i Skåne län. Skånes Effektkommission, som
 E.ON är en del av, har i sin färdplan för Skåne satt upp ett mål om att nå 50% självförsörjning av el till
-2030. Ur ett nätplaneringsperspektiv ställer detta höga krav på att kunna arbeta proaktivt och
+2030\. Ur ett nätplaneringsperspektiv ställer detta höga krav på att kunna arbeta proaktivt och
 identifiera platser med rätt förutsättningar för ny produktion, samt stärka nätet i tid där det finns
 behov. Ny produktion kan påverka hur olika driftlägen i nätet ser ut och de produktionsslag som
 väntas öka i Skåne är främst sol- och vindkraft vilka båda väntas ha mycket låg produktion när
@@ -13516,10 +13516,10 @@ framtidsanalys för en hållbar färdtjänst. Kapitel 3 Beställningscentral”:
 
 Alternativ
 
-1. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025
-2. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
+1\. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025
+2\. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
 likt övriga Hallands kommuner
-3. Överlåta uppgiften Beställningscentral genom en överenskommelse till Västtrafik
+3\. Överlåta uppgiften Beställningscentral genom en överenskommelse till Västtrafik
 
 Förvaltningen förordar förslaget ”Överlåta uppgiften Beställningscentral genom en överenskommelse
 till Hallandstrafiken likt övriga halländska kommuner”.
@@ -13613,7 +13613,7 @@ amanda.bjurstrom(Mkungsbacka.se +46704190200 (mob)
 
 dan.nilssonQsamres.se
 
-1. Kommersiella villkor
+1\. Kommersiella villkor
 
 1.1 Parter
 
@@ -13673,14 +13673,14 @@ Avtalshandlingarna kompletterar varandra. Om avtalshandlingarna skulle visa sig 
 något avseende gäller de, om inte omständigheter uppenbarligen föranleder annat, sinsemellan i
 följande ordning
 
-1. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
-2. Avtal (med tillhörande avtalsbilagor)
+1\. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
+2\. Avtal (med tillhörande avtalsbilagor)
 
-3. Upphandlingsdokumentet
+3\. Upphandlingsdokumentet
 
-4. Beställning
+4\. Beställning
 
-5. Leverantörens anbud
+5\. Leverantörens anbud
 
 1.8 Lagar och förordningar
 
@@ -13748,13 +13748,13 @@ Sida 3/16
 
 Beställningscentral 20/113
 
-- Om endast 60-75 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
+\- Om endast 60-75 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 15 000 SEK per kalendermånad.
 
-- Om endast 50-60 2/4 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
+\- Om endast 50-60 2/4 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 25 000 SEK per kalendermånad.
 
-- Om lägre svarstider än 50 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45)
+\- Om lägre svarstider än 50 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45)
 sekunder utgår ett vitesbelopp om 35 000 SEK per kalendermånad.
 
 Efter första försenade kalendermånaden höjs respektive ovan vitesbelopp med 10 000 SEK. Vite kan
@@ -13842,7 +13842,7 @@ exklusive moms. Fakturering sker årsvis i efterskott.
 
 1.25 Ansvar och försäkring
 
-1. Ansvar för skada
+1\. Ansvar för skada
 
 Leverantören ansvarar för samtliga person- och sakskador som leverantören, eller annan för vilken
 leverantören ansvarar, orsakar genom vårdslöshet. Om leverantören enligt lag eller rättspraxis har ett
@@ -13863,7 +13863,7 @@ Sida 5/16
 
 Beställningscentral 20/113
 
-2. Försäkring
+2\. Försäkring
 Leverantören förbinder sig att teckna och under hela avtalstiden vidmakthålla erforderlig
 ansvarsförsäkring som täcker leverantörens skadeståndsrättsliga ansvar enligt punkt 1 ovan.
 
@@ -13873,7 +13873,7 @@ försäkringsbeviset.
 
 Om leverantören brister i någon av ovanstående förutsättningar, har beställaren rätt att häva avtalet.
 
-3. Grov vårdslöshet och uppsåt m.m.
+3\. Grov vårdslöshet och uppsåt m.m.
 I punkt 1 angivna ansvarsbegränsningar gäller inte om leverantören har orsakat skadan genom
 rättighetsintrång, grov vårdslöshet eller uppsåt.
 
@@ -13984,20 +13984,20 @@ eller skyldigheter enligt avtal.
 
 Kommunen äger rätt att med omedelbar verkan säga upp avtalet om:
 
-- Leverantören vid tidpunkten för beslutet att ingå ramavtalet befann sig i någon av de situationer som
+\- Leverantören vid tidpunkten för beslutet att ingå ramavtalet befann sig i någon av de situationer som
 avses i 13 kap. 18 LOU och borde ha uteslutits från upphandlingen enligt den bestämmelsen.
 
-- Leverantören har lämnat oriktiga uppgifter i anbudet eller på annat sätt i samband med upphandlingen
+\- Leverantören har lämnat oriktiga uppgifter i anbudet eller på annat sätt i samband med upphandlingen
 och dessa inte varit av oväsentlig betydelse vid valet av leverantör.
 
-- Leverantören (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
+\- Leverantören (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
 ekonomiska brott eller belagts med näringsförbud.
 
-- Ramavtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 88 LOU.
+\- Ramavtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 88 LOU.
 
-- Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
+\- Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
 
-- Europeiska unionens domstol i ett förfarande enligt artikel 258 i fördraget om Europeiska unionens
+\- Europeiska unionens domstol i ett förfarande enligt artikel 258 i fördraget om Europeiska unionens
 funktionssätt (EUF-fördraget) finner att Sverige, genom att låta den upphandlande myndigheten ingå
 kontraktet eller ramavtalet, allvarligt har åsidosatt sina skyldigheter enligt fördraget avseende
 Europeiska unionen, EUF-fördraget eller Europaparlamentets och rådets direktiv 2014/24/EU av den 26
@@ -14006,10 +14006,10 @@ myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftning
 
 Härutöver äger part rätt att med omedelbar verkan säga upp avtalet om:
 
-- Part i väsentlig mån brister i förpliktelse enligt avtalet och inte vidtar rättelse inom skälig tid efter
+\- Part i väsentlig mån brister i förpliktelse enligt avtalet och inte vidtar rättelse inom skälig tid efter
 skriftlig anmodan därom.
 
-- Part begått avtalsbrott upprepade gånger, även om avtalsbrotten var för sig inte är av väsentlig
+\- Part begått avtalsbrott upprepade gånger, även om avtalsbrotten var för sig inte är av väsentlig
 betydelse.
 
 Som väsentligt avtalsbrott avses bland annat att leverantören inte fullgjort i upphandlingen ställda krav,
@@ -14063,7 +14063,7 @@ Sida 9/16
 
 Beställningscentral 20/113
 
-2. Obligatoriska krav på tjänsten
+2\. Obligatoriska krav på tjänsten
 
 2.1 Samordning av resor
 
@@ -14133,14 +14133,14 @@ varför inte alternativ ett (1) använts.
 
 Kunden ska vid beställningstillfället erhålla uppgifter om:
 
-- Dag, klockslag och plats för hämtning alternativt närmaste hållplats.
+\- Dag, klockslag och plats för hämtning alternativt närmaste hållplats.
 
-- Färdsätt; bil, tåg, låggolvbuss samt identifieringsbegrepp såsom linjenummer.
+\- Färdsätt; bil, tåg, låggolvbuss samt identifieringsbegrepp såsom linjenummer.
 
-- Beräknad ankomsttid till beställd adress. Om kunden beställt ”senast frammetid” ska även beräknad
+\- Beräknad ankomsttid till beställd adress. Om kunden beställt ”senast frammetid” ska även beräknad
 ankomsttid lämnas.
 
-- Priset på resan.
+\- Priset på resan.
 
 Om platsen har flera möjliga upphämtningsställen måste detta tydliggöras mellan kund och Leverantör.
 Upphämtningsstället ska även tydliggöras mellan leverantören och Hallandstrafiken AB (HLAB).
@@ -14196,40 +14196,40 @@ Förare ska omgående meddela uppkommen försening till leverantören. Leverant�
 vilken/vilka åtgärder som ska vidtas då en försening rapporteras av förare eller via trafikföretags
 ledningscentral.
 
-- Leverantören ansvarar för att kund som ringer in om problem vid resa, exempelvis försenat eller
+\- Leverantören ansvarar för att kund som ringer in om problem vid resa, exempelvis försenat eller
 uteblivet fordon, får hjälp så att kunden får sin resa enligt sin beställning.
 
-- Leverantören ska arbeta aktivt med larm- och störningshantering i syfte att säkerställa kvaliteten i
+\- Leverantören ska arbeta aktivt med larm- och störningshantering i syfte att säkerställa kvaliteten i
 bokningarna.
 
-- Leverantören ansvarar för att informera berörd kund om givna förutsättningar ändras för beställd resa.
+\- Leverantören ansvarar för att informera berörd kund om givna förutsättningar ändras för beställd resa.
 Flera kunder kan då komma att beröras. Information om leveransavvikelse ska ske per telefon eller efter
 överenskommelse med kunden via SMS.
 
-- Utifrån avtalad påstigningstid ska föraren i normalfallet aktivt söka kunden i tio (10) minuter innan
+\- Utifrån avtalad påstigningstid ska föraren i normalfallet aktivt söka kunden i tio (10) minuter innan
 "hom" noteras. Leverantören ska göra en notering om orsaken till "bom".
 
-- Bokning av regelbundet återkommande resor ska ske i dialog med kunden. Hög kontinuitet ska
+\- Bokning av regelbundet återkommande resor ska ske i dialog med kunden. Hög kontinuitet ska
 uppnås genom att hämtning och lämning sker på regelbundna tider. Detta innebär ofta att manuell
 planering blir nödvändig.
 
-- Skolskjutsar ska planeras manuellt av särskilt utsedd person. Bilagan "Information till föräldrar om taxi
+\- Skolskjutsar ska planeras manuellt av särskilt utsedd person. Bilagan "Information till föräldrar om taxi
 inför läsåret" ska tillämpas. Under högtrafik mellan cirka klockan 7:00-8.30 är det många resor som ska
 genomföras. Det är därför viktigt att planeringen av skolskjutsresor görs på ett optimalt sätt med
 utgångspunkt från fordonstillgång, utan att ge avkall på de särskilda behov som vissa elever har vad
 gäller transporterna.
 
-- Leverantören ska säkerställa elförsörjning för växel och dataterminaler vid elavbrott under minst
+\- Leverantören ska säkerställa elförsörjning för växel och dataterminaler vid elavbrott under minst
 tjugofyra (24) timmar.
 
 2.10 Hantering av synpunkter
 
 Leverantören ska:
 
-- Tillhandahålla personalresurser och system för synpunktshantering. Resenärer som har synpunkter på
+\- Tillhandahålla personalresurser och system för synpunktshantering. Resenärer som har synpunkter på
 sin resa ska kontakta leverantören.
 
-- Registrera synpunkter i ett ärendehanteringssystem så att dessa kan redovisas till. beställaren.
+\- Registrera synpunkter i ett ärendehanteringssystem så att dessa kan redovisas till. beställaren.
 
 Sida 12/16
 
@@ -14241,38 +14241,38 @@ Leverantören ska även utreda synpunkter för att klarlägga bakgrund och orsak
 muntligt och skriftligt. I detta ingår att meddela felaktigheter som upptäcks till den som ska åtgärda
 felaktigheter.
 
-- Registrera synpunkter som rör utförandet av transporter som Hallandstrafiken AB (HLAB) ansvarar för i
+\- Registrera synpunkter som rör utförandet av transporter som Hallandstrafiken AB (HLAB) ansvarar för i
 deras synpunktssystem Respons.
 
-- Kvartalsvis redovisa vilka synpunkter som kommit in och hur de åtgärdats och följts upp. Resenär som
+\- Kvartalsvis redovisa vilka synpunkter som kommit in och hur de åtgärdats och följts upp. Resenär som
 blir mer än trettio (30) minuter försenad är berättigad till resegaranti enligt Kungsbacka kommuns
 tillämpningsregler för Kommunal färdtjänst.
 
 Lösningen på synpunktshantering sker genom att leverantören ska hantera ärendena från "start till slut"
 genom att hantera:
 
-- Mottagning av ärende
+\- Mottagning av ärende
 
-- Registrering av ärende
+\- Registrering av ärende
 
-- Utredning av ärende
+\- Utredning av ärende
 
-- Svar tillbaka till kund
+\- Svar tillbaka till kund
 
-- Beslut om resegaranti enligt förutbestämd mall
+\- Beslut om resegaranti enligt förutbestämd mall
 
-- Inlägg av garantiresor
+\- Inlägg av garantiresor
 
-- Rapportering till uppdragsgivare
+\- Rapportering till uppdragsgivare
 
-- Export av transportörsrelaterade ärenden till Hallandstrafiken veckovis eller med annan
+\- Export av transportörsrelaterade ärenden till Hallandstrafiken veckovis eller med annan
 överenskommen frekvens
 
-- Statistik och analys
+\- Statistik och analys
 
-- Eget telefonnummer till kundtjänst
+\- Eget telefonnummer till kundtjänst
 
-- Öppettider mellan klockan 08:00 - 16:00 vardagar
+\- Öppettider mellan klockan 08:00 - 16:00 vardagar
 
 Leverantören ska även utreda transportörsrelaterade ärenden, vilket innebär att leverantören skickar
 remisser och frågor till trafikföretagen. Ärenden som berör trafikföretagen redovisas (exporteras) till
@@ -14444,7 +14444,7 @@ I dialog med infrastrukturspecialister och upphandling i Kungsbacka ställde sig
 följande frågeställningar: ............................................................................................... 13
 
 Möjliga vägar för en hållbar färdtjänst ............................................................................... 13
-1. Myndighetsutövning.............................................................................................. 14
+1\. Myndighetsutövning.............................................................................................. 14
 
 1.1. Tillämpningsregler .......................................................................................... 14
 1.2. Avstånds- och tidsbaserad taxa ....................................................................... 15
@@ -14458,7 +14458,7 @@ från fritidshem som skolskjuts. ...............................................
 
 1.6. Lämna över helheten enligt 4§ Lag om färdtjänst till Region Halland ............... 22
 1.7. Möjliggörande för civilsamhället att samåka ................................................... 25
-2. Trafiksamordning................................................................................................... 27
+2\. Trafiksamordning................................................................................................... 27
 
 2.1. Ändra överenskommelsen med Region Halland som Trafiksamordnare mot Västra
 götalandsregionen som trafiksamordnare .................................................................. 27
@@ -14470,7 +14470,7 @@ götalandsregionen som trafiksamordnare ........................................
 2.2. Konkurrensutsätta Trafiksamordningen .......................................................... 27
 2.3. Utreda möjligheten till intern transportgrupp ................................................. 28
 
-3. Beställningscentral ................................................................................................ 30
+3\. Beställningscentral ................................................................................................ 30
 3.1. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025 ....... 30
 3.2. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
 likt övriga Hallands kommuner ................................................................................... 32
@@ -15030,26 +15030,26 @@ intressenter är ofta nödvändigt för att hantera och optimera kostnaderna fö
 
 I dialog med infrastrukturspecialister och upphandling i Kungsbacka ställde sig
 förvaltningen även följande frågeställningar:
-1. Vad innebär överenskommelsen med Hallandstrafiken och när/ska den följas upp och skrivas
+1\. Vad innebär överenskommelsen med Hallandstrafiken och när/ska den följas upp och skrivas
 
 om?
-2. I Kungsbacka har vi Västtrafik som kör kommunens kollektivtrafik – vad innebär det i
+2\. I Kungsbacka har vi Västtrafik som kör kommunens kollektivtrafik – vad innebär det i
 sammanhanget?
-- Skulle det vara möjligt att konkurrensutsätta Hallandstrafiken genom upphandling som
+\- Skulle det vara möjligt att konkurrensutsätta Hallandstrafiken genom upphandling som
 Trafiksamordnare och vad skulle det innebära?
-3. Skulle vi, genom Kommunallagens (2017:725) öppning om möjligheter för avtalssamverkan
+3\. Skulle vi, genom Kommunallagens (2017:725) öppning om möjligheter för avtalssamverkan
 mellan kommuner utanför ramen för LOU för att ge även nya möjligheter till samordning,
 kunna göra en överenskommelse med Västtrafik, som idag kör kollektivtrafiken i kommunen,
 att vara vår trafiksamordnare likt den överenskommelse som Kungsbacka har med
 
 Hallandstrafiken har idag?
-4. Vi har idag upphandlat en annan beställningscentral än Hallandstrafiken, får vi välja att inte
+4\. Vi har idag upphandlat en annan beställningscentral än Hallandstrafiken, får vi välja att inte
 upphandla utan ”bara lämna över” till Hallandstrafiken med hänvisning till ex § 4 Lag om
 färdtjänst eller måste vi upphandla beställningscentral eftersom vi gjort det innan?
-5. Vi har idag upphandlat en beställningscentral, får vi välja att inte upphandla utan ”bara lämna
+5\. Vi har idag upphandlat en beställningscentral, får vi välja att inte upphandla utan ”bara lämna
 över” till Västtrafik med hänvisning till ex § 4 Lag om färdtjänst eller måste vi upphandla
 beställningscentral eftersom vi gjort det innan?
-6. Skulle Västtrafik kunna lämna anbud och vinna upphandling om beställningscentral?
+6\. Skulle Västtrafik kunna lämna anbud och vinna upphandling om beställningscentral?
 
 Möjliga vägar  för en hållbar färdtjänst
 
@@ -15076,7 +15076,7 @@ presentera inom dessa tre delar.
 
 <!-- sida 370 -->
 
-1. Myndighetsutövning
+1\. Myndighetsutövning
 Färdtjänst regleras av Lag (1997:736) om färdtjänst och inbegriper särskilt anordnade transporter för
 personer med funktionshinder. Kommunen har ansvaret för att ordna färdtjänst av god kvalitet, och
 detta kan delegeras till den regionala kollektivtrafikmyndigheten. Tillstånd till färdtjänst beviljas
@@ -15762,7 +15762,7 @@ resenär behöver utredas och förtydligas
 
 <!-- sida 383 -->
 
-2. Trafiksamordning
+2\. Trafiksamordning
 Region Halland, genom Hallandstrafiken, är idag vår Trafiksamordnare och ansvarar för upphandling
 av utförare ex. taxibolag och chaufförer och organisering av trafiken.
 
@@ -15929,7 +15929,7 @@ körningar som kommunen redan hanterar.
 
 <!-- sida 386 -->
 
-3. Beställningscentral
+3\. Beställningscentral
 Beställningscentralen är den funktion till vilken kunden kontaktar för att boka/avboka resa, få
 information om sitt tillstånd, lämna klagomål m.m.
 
@@ -16245,15 +16245,15 @@ kvalitetsrapporter och statistik behöver inhämtas och analyseras från två ol
 
 | Leverantör | Kostnad<br>beställningscentral | Administration och<br>samordning | Summa |
 | --- | --- | --- | --- |
-| Beställningscentral HLT | 643 800 kr (21,46 kr *<br>30 000 resor) | 0 kr (ingen kostnad för<br>administration och<br>samordning utgår då<br>den är inkluderad i<br>kostnaden om 21,46 kr<br>per resa). | 643 800 kr |
-| Beställningscentral via<br>upphandling, idag<br>Dynava | 612 216 kr (51 018 kr *<br>12 månader) | 448 500 kr (14,95 kr *<br>30 000 resor) | 1 060 716 kr |
+| Beställningscentral HLT | 643 800 kr (21,46 kr \*<br>30 000 resor) | 0 kr (ingen kostnad för<br>administration och<br>samordning utgår då<br>den är inkluderad i<br>kostnaden om 21,46 kr<br>per resa). | 643 800 kr |
+| Beställningscentral via<br>upphandling, idag<br>Dynava | 612 216 kr (51 018 kr \*<br>12 månader) | 448 500 kr (14,95 kr \*<br>30 000 resor) | 1 060 716 kr |
 
 [Tabell 391-2](handlingar.tabeller/391-2.csv)
 
 | Leverantör | Kostnad<br>beställningscentral | Administration och<br>samordning | Summa |
 | --- | --- | --- | --- |
-| Beställningscentral HLT | 2 400 000 kr (200 000 kr<br>* 12 månader) | 1 180 300 kr (10,73 kr *<br>110 000 resor) | 3 580 300 kr |
-| Beställningscentral via<br>upphandling, idag<br>Dynava | 1 836 660 kr (153 055 kr<br>* 12 månader) | 1 644 500 kr (14,95 kr *<br>110 000 resor) | 3 481 160 kr |
+| Beställningscentral HLT | 2 400 000 kr (200 000 kr<br>\* 12 månader) | 1 180 300 kr (10,73 kr \*<br>110 000 resor) | 3 580 300 kr |
+| Beställningscentral via<br>upphandling, idag<br>Dynava | 1 836 660 kr (153 055 kr<br>\* 12 månader) | 1 644 500 kr (14,95 kr \*<br>110 000 resor) | 3 481 160 kr |
 
 <!-- sida 392 -->
 
@@ -16489,7 +16489,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 13 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 KS06-00157/51
+\$ 165 KS06-00157/51
 
 Organisation av färdtjänsten från 2009-01-01
 
@@ -16524,15 +16524,15 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2007-08-14
 
-Kommunstyrelsens arbetsutskott 2007-08-14, $ 20 - Ärendet återremitteras för
+Kommunstyrelsens arbetsutskott 2007-08-14, \$ 20 - Ärendet återremitteras för
 samråd och information med kommunala handikapprådet.
 
-Kommunala handikapprådet 2007-09-24, $ 20
+Kommunala handikapprådet 2007-09-24, \$ 20
 
 Kommunstyrelsens förvaltning, reviderad skrivelse 2007-10-03
-Kommunstyrelsens arbetsutskott 2007-10-09, $ 311
+Kommunstyrelsens arbetsutskott 2007-10-09, \$ 311
 
-Kommunstyrelsen 2007-10-17, $ 201
+Kommunstyrelsen 2007-10-17, \$ 201
 
 Anföranden
 
@@ -16551,7 +16551,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 14 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 forts KS06-00157/51
+\$ 165 forts KS06-00157/51
 
 Yrkanden
 
@@ -16608,7 +16608,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Kommunfullmäktige
 
-$ 165 forts
+\$ 165 forts
 
 Omröstningsbilaga A
 
@@ -16709,7 +16709,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 16 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 forts KS06-00157/51
+\$ 165 forts KS06-00157/51
 
 Beslutsexpediering
 KSF; CE
@@ -17673,14 +17673,14 @@ May-Louise Flyrin (S) reserveras sig till det av nämnden, tagna beslutet.
 Sammanfattning av ärendet
 
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
 för Gymnasium & Arbetsmarknad för beredning. Förvaltningen bedömer att
@@ -17793,13 +17793,13 @@ hänvisning till att ett införande av tolkavgift strider mot lagstiftningen i s
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Gymnasium &
@@ -18243,7 +18243,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Förskola & Grundskola Datum
 2024-06-12
 
-$ 62 Dnr FG-2024-00129
+\$ 62 Dnr FG-2024-00129
 
 Beredning av motion - Införande av tolkavgift i Kungsbacka kommun
 (KS-2024-00131)
@@ -18261,14 +18261,14 @@ Helen Thylin (S) reserverar sig reserverar sig till förmån för eget förslag.
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
@@ -18285,8 +18285,8 @@ enskilde för att kunna bedriva en effektiv verksamhet. Avgift för tolktjänst 
 Beslutsunderlag
 
 Förvaltningen för Förskola & Grundskola tjänsteskrivelse, 2024-05-20
-Kommunstyrelsens arbetsutskott 2024-02-27 $ 65
-Kommunfullmäktige 2024-02-06 $ 21
+Kommunstyrelsens arbetsutskott 2024-02-27 \$ 65
+Kommunfullmäktige 2024-02-06 \$ 21
 
 Motion från Stefan Jägnert (SD) 2024-01-30
 
@@ -18383,13 +18383,13 @@ till att ett införande av tolkavgift strider mot lagstiftningen i samband med h
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Förskola &
@@ -18676,13 +18676,13 @@ ett införande av tolkavgift strider mot lagstiftningen i samband med handläggn
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Vård & Omsorg
@@ -19440,14 +19440,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka

@@ -255,10 +255,10 @@ cykelvägar.”
 
 De sista punkterna på sidan 2 under ”De nya områden som kommer behöva kommunal
 service behöver kompletteras på följande” ändras till:
-1. ”Det finns ett uppdämt behov av flera anläggningar för idrotts- och
+1\. ”Det finns ett uppdämt behov av flera anläggningar för idrotts- och
 fritidsändamål. Ett förslag för att uppfylla behovet är att bygga en ny idrottsplats
 öster om Göteborgsvägen i närheten av Skårbyskolan.”
-2. ”Planförslaget innehåller tre områden för kommunal service i Voxlöv. Den
+2\. ”Planförslaget innehåller tre områden för kommunal service i Voxlöv. Den
 
 senaste befolkningsprognosen pekar på ett mindre behov av kommunal service de
 kommande 10 åren. Behovet behöver studeras vidare mer i detalj samt att

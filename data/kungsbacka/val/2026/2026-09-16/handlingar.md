@@ -126,7 +126,7 @@ Upplysning
 
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.1, 2024-11-11 §
 
-36.
+36\.
 
 Sammanfattning
 
@@ -202,7 +202,7 @@ Upplysning
 
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.3, 2024-11-11 §
 
-36.
+36\.
 
 Sammanfattning
 
@@ -261,7 +261,7 @@ E-post:   valnamnden@kungsbacka.se
 
 <!-- sida 10 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 27 augusti 2026 12:54
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 35.2
@@ -378,7 +378,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 14 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 24 augusti 2026 16:51
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 35
@@ -498,7 +498,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 18 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 19 augusti 2026 17:04
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 34

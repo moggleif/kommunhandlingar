@@ -675,7 +675,7 @@ Nu påbörjar kommunen arbetet med att klargöra planeringsförutsättningarna i
 
 område i anslutning till stationen, både norr och söder om Kläppavägen. Arbetet
 utförs inom ramen för ett planprogram i enlighet med beslut från kommunstyrelsen
-2016.
+2016\.
 Syftet med planprogrammet är att skapa goda förutsättningar för en utveckling av
 kommunens och andra angränsande fastigheter. Planprogrammet tas fram för att
 underlätta kommande detaljplanearbeten och ge förutsättningar för en effektiv

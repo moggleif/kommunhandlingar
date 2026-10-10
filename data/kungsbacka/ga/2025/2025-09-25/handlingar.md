@@ -464,7 +464,7 @@ Det ekonomiska biståendet ligger fortsatt lågt, men under de sista kvartalen s
 Den 1 juli 2025 träder den nya socialtjänstlagen i kraft. Förvaltningen är väl förberedd inför förändringen.
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022.
+2022\.
 
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
 Beskedet innebär kortfattat att Skatteverket kan börja folkbokföra de ukrainare som varit här med tillfälligt
@@ -539,7 +539,7 @@ med i den övergripande bilden.
 2.2 Nya/Inledda ärenden i arbetsmarknadsprocessen
 
 Under de två första kvartalen 2025 har det varit ett något lägre inflöde i arbetsmarknadsprocessen än i slutet av
-2024. I genomsnitt har det varit 25 nya ärenden. Under föregående period var det ett större inflöde av
+2024\. I genomsnitt har det varit 25 nya ärenden. Under föregående period var det ett större inflöde av
 etableringsärenden, främst ukrainare. Under kvartal två har det varit ett färre antal etableringsärenden som
 inletts.
 
@@ -594,7 +594,7 @@ Uppföljning arbetsmarknadsprocess, kvartal 2 2025
 
 Under såväl kvartal 1 som kvartal 2 2025 som avslutas många relativt tidigt i arbetsmarknadsprocessen, 0-6
 månader. Antalet personer som varit inskrivna mer än 24 månader vid avslut minskar under första halvåret
-2025.
+2025\.
 
 8
 
@@ -962,10 +962,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande, målgrupper och berörda
@@ -1016,11 +1016,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
 tillhörande fokusområden genom att arbeta för att främja ungas välmående, vilket konkretiserats i ett särskilt
@@ -1038,7 +1038,7 @@ Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 % 85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -1058,23 +1058,23 @@ Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 72 % 79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 93 % 92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %   73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %   86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -1094,7 +1094,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86    1,79   1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113   115     151
@@ -1185,8 +1185,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Sammanfattning av nämndens arbete med målet
 Sommarlovsentreprenörer
@@ -1332,8 +1332,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 11
 
@@ -1414,9 +1414,9 @@ Mottagandet av nyanlända har minskat och per den 2025-08-25 har kommunen tagit 
 ensamhushåll och 1 familj. Alla mottagna hittills är abo. Kungsbacka har tagit emot kvot anvisningar på 10
 personer som består av 3 st familjer med mottagningsdatum den 9 oktober.
 Siffrorna för de mottagna hittills i år är:
-- Vuxna: 8
+\- Vuxna: 8
 
-- Barn: 6
+\- Barn: 6
 Snabbaste vägen till bostad
 
 Vi fortsätter att se en positiv trend vad gäller att hitta egen bostad inom etableringstid. Vi kommer att stärka
@@ -1582,12 +1582,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad har inte brutit ned detta kommunövergripande mål med tillhörande
 fokusområde i egna nämndsmål, utan förvaltningen arbetar direkt mot målet genom olika typer av aktiviteter.
@@ -1695,13 +1695,13 @@ miljoner kronor till kommunens finansverksamhet under budgetåret 2025.
 Direktivet om civil beredskap har tagits med som ett av de prioriterade områdena i förvaltningens
 genomförandeplan, vilket har inneburit att vi har kunnat sätta extra fokus på området.
 Det har beslutats om tre effektmål att arbeta mot:
-1. Förbättrad krishanteringsförmåga: Under 2025 ska Gymnasium & Arbetsmarknad stärka beredskapen och
+1\. Förbättrad krishanteringsförmåga: Under 2025 ska Gymnasium & Arbetsmarknad stärka beredskapen och
 förmågan att hantera samhällsstörningar.
 
-2. Resilient organisation: Vi ska ha en organisation som är anpassningsbar och kapabel att återhämta sig och
+2\. Resilient organisation: Vi ska ha en organisation som är anpassningsbar och kapabel att återhämta sig och
 utvecklas vid motgångar och förändringar. Senast inom två år ska alla verksamheter ha uppdaterade och testade
 krisberedskapsplaner.
-3. Ökad trygghet: Andelen elever, kommuninvånare och medarbetare i våra verksamheter som känner sig
+3\. Ökad trygghet: Andelen elever, kommuninvånare och medarbetare i våra verksamheter som känner sig
 trygga ska öka.
 
 En hel del arbete har genomförts under året. Bland annat har säkerhetsarbetet organiserats med en nyinrättad
@@ -2114,7 +2114,7 @@ Utfall och prognos
 
 Sammanfattning - text till kommunstyrelsen
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 6,4 miljoner kronor (mkr) för verksamhetsåret
-2025. Gymnasieverksamheten och vuxenutbildningen beräknas gå med underskott, medan övriga verksamheter
+2025\. Gymnasieverksamheten och vuxenutbildningen beräknas gå med underskott, medan övriga verksamheter
 förväntas visa överskott.
 
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till augusti 2025 har varit fortsatt stabil
@@ -2126,7 +2126,7 @@ gymnasial utbildning samt ett förändrat arbetssätt inom SFI. Dessa förändri
 Etableringsverksamheten förväntas gå med överskott, främst tack vare att ersättningarna från
 Migrationsverket beräknas överstiga kostnaderna för mottagandet.
 Ekonomiskt bistånd prognostiserar också ett överskott, även om utbetalningarna har börjat öka jämfört med
-2024.
+2024\.
 Analys och kommentarer - text till nämnden
 Gemensam verksamhet
 
@@ -2417,17 +2417,17 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 Innehåll
 
-1. Beslut om riktlinjer .................................................................................................................................. 8
-2. Utgångspunkter i Socialtjänstlagen .......................................................................................................... 8
+1\. Beslut om riktlinjer .................................................................................................................................. 8
+2\. Utgångspunkter i Socialtjänstlagen .......................................................................................................... 8
 
-3. Lagregler och definitioner ....................................................................................................................... 9
+3\. Lagregler och definitioner ....................................................................................................................... 9
 
 3.1 Socialtjänstlagen (2025:400) ............................................................................................................................ 9
 12 kap. Insatser för ekonomiska behov ................................................................................................ 9
 
 3.2 Bidragsbrottslag (2007:612) ........................................................................................................................... 11
 
-4. Begrepp som används i lagtexten .......................................................................................................... 12
+4\. Begrepp som används i lagtexten .......................................................................................................... 12
 
 4.1 Försörjningsstöd ............................................................................................................................................ 12
 
@@ -2441,7 +2441,7 @@ Innehåll
 
 4.6 Helhetssyn ..................................................................................................................................................... 13
 
-5. Försörjningsstöd ................................................................................................................................... 13
+5\. Försörjningsstöd ................................................................................................................................... 13
 
 5.1 Riksnorm........................................................................................................................................................ 13
 
@@ -2465,7 +2465,7 @@ Innehåll
 
 5.11 Reducerat försörjningsstöd............................................................................................................................. 15
 
-6. Inkomster och tillgångar........................................................................................................................ 15
+6\. Inkomster och tillgångar........................................................................................................................ 15
 
 2
 
@@ -2479,7 +2479,7 @@ Innehåll
 
 6.4 Jobbstimulans .................................................................................................................................................. 16
 
-7. Boende ................................................................................................................................................. 16
+7\. Boende ................................................................................................................................................. 16
 
 7.1 Boendekostnad ................................................................................................................................................ 16
 
@@ -2534,7 +2534,7 @@ Innehåll
 
 7.25 Oskälig hög boendekostnad för egen fastighet ................................................................................................ 23
 
-8. Avgifter ................................................................................................................................................. 23
+8\. Avgifter ................................................................................................................................................. 23
 
 8.1 Avgift vid sjukhusvård ..................................................................................................................................... 23
 
@@ -2548,9 +2548,9 @@ Innehåll
 
 8.6 Måltider/Matleverans ...................................................................................................................................... 24
 
-9. Bilinnehav ............................................................................................................................................. 24
+9\. Bilinnehav ............................................................................................................................................. 24
 
-10. Barn ...................................................................................................................................................... 25
+10\. Barn ...................................................................................................................................................... 25
 
 10.1 Fritidspeng ..................................................................................................................................................... 25
 
@@ -2562,12 +2562,12 @@ Innehåll
 
 10.5 Studentkostnader .......................................................................................................................................... 25
 
-11. Akut bistånd .......................................................................................................................................... 25
+11\. Akut bistånd .......................................................................................................................................... 25
 
-12. Umgängeskostnader ............................................................................................................................. 26
-13. Beslut som löper över flera månader ..................................................................................................... 26
+12\. Umgängeskostnader ............................................................................................................................. 26
+13\. Beslut som löper över flera månader ..................................................................................................... 26
 
-14. Hemutrustning ...................................................................................................................................... 27
+14\. Hemutrustning ...................................................................................................................................... 27
 
 14.1 Generellt ........................................................................................................................................................ 27
 
@@ -2577,7 +2577,7 @@ Innehåll
 
 14.4 Hemutrustning för nyanlända ......................................................................................................................... 28
 
-15. Juridiska kostnader och stämpelavgifter ................................................................................................ 28
+15\. Juridiska kostnader och stämpelavgifter ................................................................................................ 28
 
 15.1 Advokatkostnader .......................................................................................................................................... 28
 
@@ -2589,13 +2589,13 @@ Innehåll
 
 15.3 Id-kort och pass .............................................................................................................................................. 29
 
-16. Kläder och skor utöver vad som ingår i försörjningsstödet ..................................................................... 29
+16\. Kläder och skor utöver vad som ingår i försörjningsstödet ..................................................................... 29
 
 16.1 Behov av särskilda kläder eller skor ................................................................................................................ 29
 
 16.2 Klädbidrag för nyanlända ............................................................................................................................... 29
 
-17. Diverse läkare- och optikerkostnader .................................................................................................... 29
+17\. Diverse läkare- och optikerkostnader .................................................................................................... 29
 
 17.1 Läkarvård och medicinkostnad ....................................................................................................................... 29
 
@@ -2603,7 +2603,7 @@ Innehåll
 
 17.3 Glasögon och kontaktlinser ............................................................................................................................ 30
 
-18. Resor/Rekreationsresor ........................................................................................................................ 30
+18\. Resor/Rekreationsresor ........................................................................................................................ 30
 
 18.1 Arbetsresor .................................................................................................................................................... 30
 
@@ -2624,25 +2624,25 @@ Innehåll
 18.9 Återföreningsresor ......................................................................................................................................... 32
 
 18.10 Återvandringsresor ................................................................................................................................. 32
-19. Utlandsvistelse ...................................................................................................................................... 32
+19\. Utlandsvistelse ...................................................................................................................................... 32
 
-20. Skulder .................................................................................................................................................. 32
+20\. Skulder .................................................................................................................................................. 32
 
-21. Spädbarnsutrustning ............................................................................................................................. 33
+21\. Spädbarnsutrustning ............................................................................................................................. 33
 
-22. Tandvård ............................................................................................................................................... 33
+22\. Tandvård ............................................................................................................................................... 33
 
 22.1 Nödvändig tandvård ....................................................................................................................................... 33
 
 22.2 Akut tandvård ................................................................................................................................................ 34
 
-23. Tekniska hjälpmedel .............................................................................................................................. 34
+23\. Tekniska hjälpmedel .............................................................................................................................. 34
 
 5
 
 <!-- sida 68 -->
 
-24. Telefoni/dator/bredband/TV ................................................................................................................. 35
+24\. Telefoni/dator/bredband/TV ................................................................................................................. 35
 
 24.1 Telefoni.......................................................................................................................................................... 35
 
@@ -2654,21 +2654,21 @@ Innehåll
 
 24.5 Depositionsavgift för el-abonnemang ............................................................................................................. 35
 
-25. Tvättmaskin/torktumlare/diskmaskin.................................................................................................... 35
+25\. Tvättmaskin/torktumlare/diskmaskin.................................................................................................... 35
 
-26. Person som uppnått pensionsålder ....................................................................................................... 35
+26\. Person som uppnått pensionsålder ....................................................................................................... 35
 
-27. Person som är arbetslös ........................................................................................................................ 36
+27\. Person som är arbetslös ........................................................................................................................ 36
 
 27.1 Bistånd vid avstängning från arbetslöshetsersättning ...................................................................................... 36
 
 27.2 Körkort .......................................................................................................................................................... 37
 
-28. Person som är sjukskriven ..................................................................................................................... 37
+28\. Person som är sjukskriven ..................................................................................................................... 37
 
-29. Företagare eller person med s.k. fritt yrke ............................................................................................. 37
+29\. Företagare eller person med s.k. fritt yrke ............................................................................................. 37
 
-30. Person som är inskriven för kriminalvård, rättspsykiatrisk vård etc. ........................................................ 38
+30\. Person som är inskriven för kriminalvård, rättspsykiatrisk vård etc. ........................................................ 38
 
 30.1 Person som är intensivövervakad med elektronisk kontroll ............................................................................. 39
 
@@ -2680,7 +2680,7 @@ s.k. fotboja....................................................................
 
 30.4 Samhällstjänst ................................................................................................................................................ 39
 
-31. Person som studerar ............................................................................................................................. 40
+31\. Person som studerar ............................................................................................................................. 40
 
 31.1 Ungdomar 18–21 år som går i skolan .............................................................................................................. 40
 
@@ -2699,7 +2699,7 @@ s.k. fotboja....................................................................
 
 <!-- sida 69 -->
 
-32. Personer som är utländska medborgare ................................................................................................ 42
+32\. Personer som är utländska medborgare ................................................................................................ 42
 
 32.1 Person som är EU/EES-medborgare ................................................................................................................ 42
 
@@ -2707,7 +2707,7 @@ s.k. fotboja....................................................................
 
 32.3 Person med uppehållstillstånd ........................................................................................................................ 43
 
-33. Dödsfall ................................................................................................................................................. 43
+33\. Dödsfall ................................................................................................................................................. 43
 
 33.1 Begravningskostnader .................................................................................................................................... 43
 
@@ -2721,7 +2721,7 @@ s.k. fotboja....................................................................
 
 <!-- sida 70 -->
 
-1. Beslut om riktlinjer
+1\. Beslut om riktlinjer
 Riktlinjer för handläggning av ekonomiskt bistånd fastställs av nämnden för Gymnasium &
 Arbetsmarknad i Kungsbacka kommun.
 
@@ -2730,7 +2730,7 @@ Riktlinjerna kommer att revideras i samband med lagändringar samt vid förändr
 verksamheten. Dokumentet innehåller riktlinjer för ekonomiskt bistånd enligt 12 kap. 1 §
 socialtjänstlagen (SoL), avseende försörjningsstöd och levnadskostnader i övrigt.
 
-2. Utgångspunkter i Socialtjänstlagen
+2\. Utgångspunkter i Socialtjänstlagen
 
 Syftet med riktlinjerna är att likabehandling ska erbjudas alla kommuninvånare vad
 gäller så väl bidragsnivå och förutsättningar för rätt till ekonomiskt bistånd som insatser
@@ -2742,8 +2742,8 @@ och det är bättre för den enskilde att klara sin försörjning på egen hand 
 bistånd.
 
 Arbetet med ekonomiskt bistånd är ett tvådelat uppdrag som syftar till att:
--  Stödja människor i att finna vägar till självförsörjning.
--  Stödja människor till att leva ett självständigt liv.
+\-  Stödja människor i att finna vägar till självförsörjning.
+\-  Stödja människor till att leva ett självständigt liv.
 
 Den grundläggande principen är att arbetslinjen ska gälla. Det innebär att enskilda i första
 hand ska kunna försörja sig genom arbete och vid behov stöttas för att klara detta.
@@ -2772,7 +2772,7 @@ När åtgärder rör barn ska särskilt beaktas vad hänsynen till barnets bäst
 
 <!-- sida 71 -->
 
-3. Lagregler och definitioner
+3\. Lagregler och definitioner
 
 3.1 Socialtjänstlagen (2025:400)
 12 kap. Insatser för ekonomiska behov
@@ -2833,9 +2833,9 @@ arbetsskadeförsäkring i socialförsäkringsbalken.
 Beräkning av försörjningsstöd
 
 7 § Försörjningsstöd lämnas för skäliga kostnader för
-1. livsmedel, kläder och skor, lek och fritid, förbrukningsvaror, hälsa och hygien samt
+1\. livsmedel, kläder och skor, lek och fritid, förbrukningsvaror, hälsa och hygien samt
 dagstidning och telefon, och
-2. boende, hushållsel, arbetsresor, hemförsäkring samt medlemskap i fackförening och
+2\. boende, hushållsel, arbetsresor, hemförsäkring samt medlemskap i fackförening och
 arbetslöshetskassa.
 Regeringen anger en norm (riksnorm) för hur skäliga kostnader enligt första stycket 1 ska
 beräknas. Riksnormen gäller i hela landet och sätts utifrån officiella prisundersökningar av
@@ -2863,8 +2863,8 @@ som anges i 9 § tredje stycket.
 Barns och skolungdomars inkomster vid beräkningen av ekonomiskt bistånd
 
 9 § Vid bedömningen av rätten till ekonomiskt bistånd ska socialnämnden inte räkna in
-- hemmavarande barns inkomster av eget arbete, eller
-- hemmavarande skolungdomars inkomster av eget arbete om skolungdomarna är under 21
+\- hemmavarande barns inkomster av eget arbete, eller
+\- hemmavarande skolungdomars inkomster av eget arbete om skolungdomarna är under 21
 år.
 Till skolgång räknas studier i grundskolan eller gymnasieskolan eller annan jämförlig
 
@@ -2894,14 +2894,14 @@ socialnämnden kräva tillbaka det som har betalats ut för mycket.
 2 § Socialnämnden får, i andra fall än som avses i 1 §, kräva tillbaka ekonomiskt
 Bistånd som den enskilde har fått enligt 12 kap. 1 § endast
 
-1. om det har lämnats
+1\. om det har lämnats
 
 a) som förskott på en förmån eller ersättning,
 b) till den som är indragen i en arbetskonflikt, eller
 c) till den som på grund av förhållanden som han eller hon inte kunnat
 råda över hindrats från att förfoga över sina inkomster och tillgångar, och
 
-2. om beslutet om bistånd
+2\. om beslutet om bistånd
 a) har meddelats genom ett skriftligt beslut som har delgetts den enskilde,
 och
 
@@ -2911,11 +2911,11 @@ för återbetalningsskyldighet.
 3 § Socialnämnden får kräva tillbaka ekonomiskt bistånd som har lämnats enligt 12
 kap. 2 § om beslutet om bistånd
 
-1. har getts under villkor om återbetalning,
-2. har meddelats genom ett skriftligt beslut som har delgetts den enskilde,
+1\. har getts under villkor om återbetalning,
+2\. har meddelats genom ett skriftligt beslut som har delgetts den enskilde,
 
 och
-3. har innehållit uppgifter om den eller de omständigheter som utgör
+3\. har innehållit uppgifter om den eller de omständigheter som utgör
 grund för återbetalningsskyldighet.
 
 Socialnämnden får avstå från krav
@@ -2959,7 +2959,7 @@ förmånstagaren eller på grund av social hänsyn.
 För mer information om hantering se Rutin för återkrav, felaktiga utbetalningar och
 polisanmälan.
 
-4. Begrepp som används i lagtexten
+4\. Begrepp som används i lagtexten
 
 4.1 Försörjningsstöd
 Försörjningsstöd är kostnader som framgår i 12 kap. 7 § SoL. Detta utgörs av riksnormen plus
@@ -3021,7 +3021,7 @@ organisation och arbete ska vara sammanhängande så att invånarna inte blir li
 
 grund av olika synsätt eller brist på samverkan inom förvaltningen.
 
-5. Försörjningsstöd
+5\. Försörjningsstöd
 
 Försörjningsstöd definieras i 12 kap. 7 § SoL och består av två delar, riksnorm och övrigt
 försörjningsstöd.
@@ -3074,20 +3074,20 @@ budgetposter som ingår i riksnormen och om dessa kostnader inte täcks av annan
 ersättning som merkostnadsersättning eller omvårdnadsbidrag. Förhöjda kostnader kan
 t.ex. bero på att:
 
--  den enskilde av medicinska skäl har behov av dyrare kost,
--  den enskilde betalar avgift för skolmåltid,
--  den enskilde har höga livsmedelskostnader på grund av att kostnaden
+\-  den enskilde av medicinska skäl har behov av dyrare kost,
+\-  den enskilde betalar avgift för skolmåltid,
+\-  den enskilde har höga livsmedelskostnader på grund av att kostnaden
 är inräknad i egen avgift,
--  den enskilde på grund av funktionsnedsättning har svårt att upprätthålla
+\-  den enskilde på grund av funktionsnedsättning har svårt att upprätthålla
 kontakten med andra människor eller delta i samhällslivet och därför
 
 har extra utgifter, för t.ex. telefon och tidningar eller fritidsaktiviteter,
 som inte täcks av annat särskilt stöd,
--  om det är en förutsättning för att barn ska kunna delta i fritidsaktiviteter,
--  om det är en förutsättning för att en förälder ska kunna ha umgänge eller
+\-  om det är en förutsättning för att barn ska kunna delta i fritidsaktiviteter,
+\-  om det är en förutsättning för att en förälder ska kunna ha umgänge eller
 kontakt med sitt barn i rimlig omfattning,
--  om den enskilde har ett tillfälligt och visst behov av att köpa kläder och skor,
--  om den enskilde har tillfälligt höga kostnader t.ex. för livsmedel, kläder
+\-  om den enskilde har ett tillfälligt och visst behov av att köpa kläder och skor,
+\-  om den enskilde har tillfälligt höga kostnader t.ex. för livsmedel, kläder
 och skor eller telefon, beroende på att hen är eller har varit utsatt för
 
 våld eller andra övergrepp av närstående eller för något annat brott.
@@ -3116,17 +3116,17 @@ Reducering av försörjningsstöd får endast göras utifrån särskilda skäl o
 enskilda fallet.
 
 Bedömning om reducering kan vara aktuellt med stöd av följande situationer;
--  Den sökande saknar pengar för sin egen försörjning pga. att han/hon har avstått
+\-  Den sökande saknar pengar för sin egen försörjning pga. att han/hon har avstått
 från arbete eller inte stått till arbetsmarknadens förfogande.
 
--  Den sökande har haft inkomster till sin försörjning men använt dem till annat, vid
+\-  Den sökande har haft inkomster till sin försörjning men använt dem till annat, vid
 upprepade tillfällen tappat eller blivit bestulen på inkomsterna och saknar därför
 medel till sitt uppehälle.
--  Den sökande har inte de kostnaderna sökt bistånd omfattar.
+\-  Den sökande har inte de kostnaderna sökt bistånd omfattar.
 
--  Den sökande använder inte biståndet till avsett ändamål.
+\-  Den sökande använder inte biståndet till avsett ändamål.
 
-6. Inkomster och tillgångar
+6\. Inkomster och tillgångar
 
 6.1 Inkomster som ej medräknas
 
@@ -3135,18 +3135,18 @@ rätt till ekonomiskt bistånd. Belopp som medräknas är sökandes disponibla i
 skatteavdrag.
 
 I vissa fall ska inkomster inte medräknas vid ekonomisk beräkning. Detta gäller:
--  ungdomars inkomster av arbete upp till ett prisbasbelopp per år inklusive
+\-  ungdomars inkomster av arbete upp till ett prisbasbelopp per år inklusive
 skatteåterbäring.
 
--  inkomstavdrag enligt jobbstimulans, se riktlinjer för Jobbstimulans.
--  Extratillägg från CSN till barns studiebidrag (kan dock hänvisas till)
--  Lärlingsersättning
+\-  inkomstavdrag enligt jobbstimulans, se riktlinjer för Jobbstimulans.
+\-  Extratillägg från CSN till barns studiebidrag (kan dock hänvisas till)
+\-  Lärlingsersättning
 
--  Habiliteringsersättning
--  Merkostnadsersättning (ta reda på vilka utgifter den ska täcka för att inte
+\-  Habiliteringsersättning
+\-  Merkostnadsersättning (ta reda på vilka utgifter den ska täcka för att inte
 dubbelkompensera)
 
--  Omkostnadsersättningsdelen i ersättning till familjehem och kontaktfamilj-
+\-  Omkostnadsersättningsdelen i ersättning till familjehem och kontaktfamilj-
 /personer.
 
 6.2 Stipendier och Fonder
@@ -3183,13 +3183,13 @@ kan ansöka om ekonomiskt bistånd. Jobbstimulansen gäller enbart lön av arbet
 personlig och gäller inte hushållet som helhet. Se även Socialstyrelsens handbok för
 Ekonomiskt bistånd.
 
-7. Boende
+7\. Boende
 
 Kommunen som helhet är enbart skyldig att bereda boende för följande kategorier:
--  Personer med funktionshinder.
--  Äldre som inte klarar sitt boende.
+\-  Personer med funktionshinder.
+\-  Äldre som inte klarar sitt boende.
 
--  Personer som beviljats uppehållstillstånd och blivit kommunplacerade.
+\-  Personer som beviljats uppehållstillstånd och blivit kommunplacerade.
 
 Det finns dock tillfällen där invånare kan beviljas tillfälligt boende utan att tillhöra ovanstående
 kategorier. Bedömning görs individuellt och i samråd med arbetsledare.
@@ -3197,13 +3197,13 @@ kategorier. Bedömning görs individuellt och i samråd med arbetsledare.
 Det är den enskildes ansvar att först försöka ordna inkvartering på egen hand, bland annat
 genom att:
 
--  söka i sitt nätverk efter inkvartering,
--  anmäla sig som sökande hos kommunens bostadsförmedling och andra förmedlingar,
--  annonsera efter hyresrum eller lägenhet i andra hand,
+\-  söka i sitt nätverk efter inkvartering,
+\-  anmäla sig som sökande hos kommunens bostadsförmedling och andra förmedlingar,
+\-  annonsera efter hyresrum eller lägenhet i andra hand,
 
--  söka via de privata bostadsförmedlingarna i kranskommunerna samt söka efter
+\-  söka via de privata bostadsförmedlingarna i kranskommunerna samt söka efter
 boende via annons,
--  söka plats på vandrarhem om ingen av ovanstående möjligheter visat sig vara
+\-  söka plats på vandrarhem om ingen av ovanstående möjligheter visat sig vara
 
 möjlig och situationen är akut.
 
@@ -3231,8 +3231,8 @@ ska inte godtas.
 7.2 Oskälig hög boendekostnad
 
 Oskäligt hög boendekostnad kan godkännas i följande situationer:
--  kortvarigt biståndsbehov (max tre sammanhängande månader)
--  starka sociala och/eller medicinska skäl.
+\-  kortvarigt biståndsbehov (max tre sammanhängande månader)
+\-  starka sociala och/eller medicinska skäl.
 Det gäller både barnfamiljer och ensamstående vuxna.
 
 7.3 Skäligt rådrum
@@ -3242,8 +3242,8 @@ vara tillfälligt (mindre än tre månader) ska den sökande uppmanas att sänka
 bostadskostnaden.
 Innan ett hushåll ställs inför kravet att förändra sin boendesituation ska följande
 förhållanden beaktas:
--  bostadens storlek i förhållande till familjemedlemmarnas antal
--  starka sociala och/eller medicinska skäl
+\-  bostadens storlek i förhållande till familjemedlemmarnas antal
+\-  starka sociala och/eller medicinska skäl
 
 Skäligt rådrum ges vanligtvis med fyra månader från beslutsdatum samt att sökta bostäder ska
 redovisas kontinuerligt.
@@ -3286,16 +3286,16 @@ det enskilda fallet.
 
 Flyttningen bör vara en förutsättning för att den enskilde ska uppnå skälig levnadsnivå.
 Sådana omständigheter kan till exempel vara:
--  medicinska eller starka sociala skäl,
+\-  medicinska eller starka sociala skäl,
 
--  svåra personliga motsättningar mellan hushållsmedlemmar,
--  oskälig standard i bostaden avseende fysisk miljö och utrustning,
--  om ett vuxet barn genom att bo i föräldrahemmet förhindras att leva ett
+\-  svåra personliga motsättningar mellan hushållsmedlemmar,
+\-  oskälig standard i bostaden avseende fysisk miljö och utrustning,
+\-  om ett vuxet barn genom att bo i föräldrahemmet förhindras att leva ett
 
 normalt vuxenliv och bli självständig,
--  om den enskilde måste flytta till följd av att ha varit utsatt för våld eller andra
+\-  om den enskilde måste flytta till följd av att ha varit utsatt för våld eller andra
 övergrepp av närstående eller för något annat brott,
--  vid trångboddhet.
+\-  vid trångboddhet.
 
 Enheten för Myndighet ska i samråd med den enskilde medverka till bostadsbyte om den
 enskilde eller familjen har svårigheter att få en annan bostad.
@@ -3336,12 +3336,12 @@ Vid bedömning kring rätt till akut tak över huvudet ska hänsyn tas till om e
 försökt att lösa sin situation själv/försatt sig i situationen själv samt om den enskilde själv
 har medel att bekosta tillfälligt boende för en period. Beviljas högst tillfälligt och endast
 för någon/några nätter.
--  Kostnad för vandrarhemsboende kan beviljas om den enskilde i annat fall är
+\-  Kostnad för vandrarhemsboende kan beviljas om den enskilde i annat fall är
 
 bostadslös och inte kan lösa sin situation på annat sätt.
--  Kostnad för hotellboende beviljas mycket restriktivt, endast i akuta nödfall och
+\-  Kostnad för hotellboende beviljas mycket restriktivt, endast i akuta nödfall och
 endast för något/några dygn.
--  Vid boende i husvagn kan kostnaden för tillgång till dusch och tvättmaskin beviljas som
+\-  Vid boende i husvagn kan kostnaden för tillgång till dusch och tvättmaskin beviljas som
 en boendekostnad.
 
 För att beviljas fortsatt akut boende ska den sökande redovisa sökta bostäder inom och
@@ -3353,10 +3353,10 @@ göras.
 
 Målgruppen som kan beviljas tillfälligt boende mer än högst tillfälligt är personer som har
 uppenbara svårigheter att själv ordna boende tillfälligt eller stadigvarande:
--  Äldre personer
--  Personer med funktionsnedsättning
--  Barnfamiljer
--  Personer med missbruksproblematik som följer sin planering med Vuxenenheten.
+\-  Äldre personer
+\-  Personer med funktionsnedsättning
+\-  Barnfamiljer
+\-  Personer med missbruksproblematik som följer sin planering med Vuxenenheten.
 
 7.12 Andrahandsboende
 För andrahandsboende gäller samma regler beträffande skälig kostnad samt krav på
@@ -3501,8 +3501,8 @@ kranskommuner, är godtagbara kostnader liksom annonseringskostnader understigan
 
 Bistånd kan beviljas till sökande som har försörjningsstöd eller inkomster i nivå med
 riksnormen. Biståndsbehovet ska prövas utifrån följande orsaker;
--  Behov av och orsak till flyttningen (hälsa, sociala omständigheter).
--  Egen förmåga att ordna flytt med hjälp av vänner och anhöriga.
+\-  Behov av och orsak till flyttningen (hälsa, sociala omständigheter).
+\-  Egen förmåga att ordna flytt med hjälp av vänner och anhöriga.
 
 Det beviljade biståndet ska i första hand gälla hyra av flyttbil inklusive kostnader för bensin och
 försäkring. Endast om särskilda skäl finns, t.ex. sjukdom eller ålder, godtas anlitande av
@@ -3522,11 +3522,11 @@ avses med överskådlig tid måste bedömas individuellt, i huvudregel 3 månade
 
 Beslutet ska tidsbegränsas och omprövas vid behov. Det är den enskilde som ska stå för
 kontraktet gentemot magasineringsfirman. Vid bedömningen ska följande beaktas;
--  Bohagets innehåll och skick.
--  Kostnaderna för magasinering i förhållande till kostnad för nyanskaffning av
+\-  Bohagets innehåll och skick.
+\-  Kostnaderna för magasinering i förhållande till kostnad för nyanskaffning av
 
 hemutrustning.
--  Konsekvenser för den enskilde vid eventuell försäljning av bohaget.
+\-  Konsekvenser för den enskilde vid eventuell försäljning av bohaget.
 
 7.23 Bostadsrätt/Villaägare
 Bostadsrätt eller villa är en realiserbar tillgång om den genom försäljning kan ge inkomster till
@@ -3553,15 +3553,15 @@ Bostadskostnaden utgörs av:
 
 <!-- sida 85 -->
 
--  ränta
--  tomträttsavgäld, typarrende
--  uppvärmningskostnader såsom el/olja/pellets/ved
+\-  ränta
+\-  tomträttsavgäld, typarrende
+\-  uppvärmningskostnader såsom el/olja/pellets/ved
 
--  vatten och avlopp
--  vägunderhåll
--  villaförsäkring
--  renhållning
--  sotning
+\-  vatten och avlopp
+\-  vägunderhåll
+\-  villaförsäkring
+\-  renhållning
+\-  sotning
 
 Om man erhåller lön eller ersättning, ska jämkning hos Skatteverket av bolånen genomföras.
 Jämkning innebär att skatten minskas på den ersättning eller lön som utbetalas.
@@ -3572,14 +3572,14 @@ inköpspris, belåningsgrad och taxeringsvärde.
 7.25 Oskälig hög boendekostnad för egen fastighet
 
 Undantag kan efter individuell prövning tillämpas i följande situationer:
--  Kortvarigt biståndsbehov (max 10 månader)
--  Saknar möjlighet att få annan bostad
--  Barnfamiljer där det finns starka skäl att anta att barnen skulle få stora svårigheter
+\-  Kortvarigt biståndsbehov (max 10 månader)
+\-  Saknar möjlighet att få annan bostad
+\-  Barnfamiljer där det finns starka skäl att anta att barnen skulle få stora svårigheter
 
 att anpassa sig till ett nytt område eller ny skola
--  Andra sociala skäl
+\-  Andra sociala skäl
 
-8. Avgifter
+8\. Avgifter
 8.1 Avgift vid sjukhusvård
 
 Patientens egenavgift vid sjukhusvård utgör avgift för kost och logi. Vid vistelse på
@@ -3644,7 +3644,7 @@ antalet måltider till som en godkänd utgift. Hemtjänstfakturan beviljas inte 
 godkänd utgift. Uteätartillägg utgår med 20% av prisbasbeloppet (pbb) delat på 12
 månader.
 
-9. Bilinnehav
+9\. Bilinnehav
 Bil bedöms i normalfallet vara en realiserbar tillgång. Krav på försäljning ska ställas om bilens
 värde överstiger 20 % av gällande prisbasbelopp. Skäligt rådrum för försäljning bör ges (1 – 3
 månader) beroende på hur marknaden ser ut och den sökandes förmåga att avyttra
@@ -3658,17 +3658,17 @@ ansökan om merkostnadsersättning inlämnas till Försäkringskassan.
 
 Särskilda behov av bilinnehav bedöms utifrån Socialstyrelsens riktlinjer. Innehav av bil ska inte
 vara ett hinder för ekonomiskt bistånd, om den enskilde måste ha bil:
--  i sitt arbete
+\-  i sitt arbete
 
 24
 
 <!-- sida 87 -->
 
--  för att kunna ta sig till och från sitt arbete pga. otillräckliga
+\-  för att kunna ta sig till och från sitt arbete pga. otillräckliga
 allmänna kommunikationer
 
--  för att skjutsa barn till förskoleverksamhet
--  av medicinska eller sociala skäl, till exempel för att en förälder ska kunna umgås
+\-  för att skjutsa barn till förskoleverksamhet
+\-  av medicinska eller sociala skäl, till exempel för att en förälder ska kunna umgås
 med sitt barn.
 
 Om innehavet av bil accepteras kan det krävas att den enskilde byter till en billigare bil,
@@ -3677,7 +3677,7 @@ om bilens värde är högre än ett basbelopp. Om den enskilde på grund av funk
 har en specialanpassad bil, bör denna, oavsett värde, inte räknas som en tillgång. Om det
 inte föreligger särskilda behov av bilinnehav ska omkostnader inte godkännas.
 
-10. Barn
+10\. Barn
 
 10.1 Fritidspeng
 I första hand ska kostnaden betalas genom Fritidskortet (se fritidskortet.se). När detta är
@@ -3713,25 +3713,25 @@ studenten med max 4% av pbb. Denna summa inkluderar mössa, kläder och övriga 
 samband med studenten. Hänsyn tas till om ungdomen har egna inkomster och extra tillägg från
 CSN som räknas av från summan.
 
-11. Akut bistånd
+11\. Akut bistånd
 
 Vid ansökan om akut bistånd ska följande överväganden göras:
--  Är det en akut nödsituation?
+\-  Är det en akut nödsituation?
 
 25
 
 <!-- sida 88 -->
 
--  Finns det egna ekonomiska tillgångar (kontrollera kontoutdrag)?
+\-  Finns det egna ekonomiska tillgångar (kontrollera kontoutdrag)?
 
--  Finns barn i familjen?
--  Finns sjukdom hos sökanden som skulle kunna förvärras om han eller hon inte
+\-  Finns barn i familjen?
+\-  Finns sjukdom hos sökanden som skulle kunna förvärras om han eller hon inte
 får hjälp?
--  Har sökanden medicinska eller sociala problem som medför svårigheter att ta
+\-  Har sökanden medicinska eller sociala problem som medför svårigheter att ta
 eget ansvar för sin situation?
 
--  Kan sökanden få hjälp från familj eller vänner?
--  Är behovet av ekonomisk hjälp återkommande trots egen försörjning?
+\-  Kan sökanden få hjälp från familj eller vänner?
+\-  Är behovet av ekonomisk hjälp återkommande trots egen försörjning?
 
 Bistånd till personer som regelmässigt har egna inkomster som överstiger riksnormen ska
 prövas mycket restriktivt och endast beviljas för att avvärja en akut nödsituation eller där den
@@ -3751,7 +3751,7 @@ igen. Om någon trots denna information tappar eller blir bestulen på sina peng
 ansökan om bistånd avslås. Ansökan kan också avslås om det är uppenbart att fakta kring
 den beskrivna situationen inte är trovärdiga.
 
-12. Umgängeskostnader
+12\. Umgängeskostnader
 Full norm för umgängesdagar beviljas utifrån barnrättsperspektivet.
 
 Försörjningsstöd i form av umgängeskostnad beviljas normalt för 6 dagar per månad. På
@@ -3765,7 +3765,7 @@ Vid gemensam vårdnad när barnet bor växelvis hos båda föräldrarna ska norm
 och utgifter som rör barnet delas lika mellan föräldrarna och halv månadsnorm för barnet
 räknas in i den biståndssökande förälderns försörjningsstöd.
 
-13. Beslut som löper över flera månader
+13\. Beslut som löper över flera månader
 Ibland är det nödvändigt att fatta beslut som sträcker sig över flera månader, exempelvis
 gällande en omfattande tandvårdsbehandling. Rätten till ekonomiskt bistånd prövas månad
 för månad och när beslut fattas som gäller flera månader måste en omprövningsklausul ingå,
@@ -3780,7 +3780,7 @@ Följande om-prövningsklausul ska läggas till alla beslut som sträcker sig ö
 månad: ”Vid väsentligt ändrade förhållanden av biståndsbehovet kan beslutet komma att
 omprövas”
 
-14. Hemutrustning
+14\. Hemutrustning
 14.1 Generellt
 
 Bistånd till löpande komplettering och reparation av befintlig hemutrustning beviljas vid behov
@@ -3792,17 +3792,17 @@ Bistånd till grundutrustning beviljas endast om det finns särskilda skäl elle
 
 och inte kan tillgodoses på annat sätt. För att kunna bedöma behovet är det som regel
 nödvändigt att göra hembesök. I bedömningen ska följande punkter övervägas;
--  Är behovet akut och nödvändigt för att den sökande med kort varsel ska kunna
+\-  Är behovet akut och nödvändigt för att den sökande med kort varsel ska kunna
 
 flytta in i en anvisad bostad?
--  Har den sökande varit utsatt för våld eller andra övergrepp av närstående eller
+\-  Har den sökande varit utsatt för våld eller andra övergrepp av närstående eller
 något annat brott och måste därför flytta?
--  Kommer den sökande inom rimlig tid själv kunna skaffa sig eller komplettera
+\-  Kommer den sökande inom rimlig tid själv kunna skaffa sig eller komplettera
 sin hemutrustning?
 
--  Vilka möjligheter har den sökande haft att spara till eller planera för boende
+\-  Vilka möjligheter har den sökande haft att spara till eller planera för boende
 och hemutrustning?
--  Vilken hjälp kan den sökande få av sitt nätverk? Unga människor som flyttar
+\-  Vilken hjälp kan den sökande få av sitt nätverk? Unga människor som flyttar
 hemifrån ska normalt inte beviljas bistånd till full grundutrustning.
 
 Köp av secondhandutrustning kan rekommenderas som ett alternativ för den sökande
@@ -3850,7 +3850,7 @@ ABOs
 Beviljas full hemutrustning enligt riktlinjer. OBS bedömning behöver göras utifrån boendet och
 utifrån deras möjlighet att själva inom rimlig tid bli självförsörjande.
 
-15. Juridiska kostnader och stämpelavgifter
+15\. Juridiska kostnader och stämpelavgifter
 15.1 Advokatkostnader
 
 I första hand ska den sökande utnyttja det rättsskydd som ingår i hemförsäkringen. Detta
@@ -3883,7 +3883,7 @@ exempel att det av sociala skäl är mycket viktigt att en person får behålla 
 
 Huvudregel är att bistånd till stämpelavgifter inte beviljas. Undantag kan göras för enskilda fall
 som exempelvis;
--  Om det är viktigt att en äktenskapsskillnad eller bodelning genomförs till exempel
+\-  Om det är viktigt att en äktenskapsskillnad eller bodelning genomförs till exempel
 för en kvinna som varit utsatt för misshandel, identitetshandling för dem som
 saknar sådan (beroende på biståndslängd).
 
@@ -3899,7 +3899,7 @@ säkert sätt. Förlustanmälan bör inkrävas. Kostnad för pass beviljas i reg
 beviljas i stället för ett id-kort om kostnaden är lägre. Pass kan även beviljas om det
 finns starka skäl till en utlandsvistelse.
 
-16. Kläder och skor utöver vad som ingår i försörjningsstödet
+16\. Kläder och skor utöver vad som ingår i försörjningsstödet
 
 16.1 Behov av särskilda kläder eller skor
 Här avses engångskostnader för specialbeställda kläder eller skor som inte täcks av
@@ -3913,7 +3913,7 @@ riksnorm och den faktiska kostnaden för ortopediska skor.
 Klädbidrag om 1500 kr per person kan beviljas kvotflyktingar i samband med första
 ansökan. För ABO (anvisade från Migrationsverket) görs individuell prövning.
 
-17. Diverse läkare- och optikerkostnader
+17\. Diverse läkare- och optikerkostnader
 17.1 Läkarvård och medicinkostnad
 
 Omfattar egenavgift vid läkarbesök och läkarföreskriven medicin och behandling som ingår
@@ -3957,7 +3957,7 @@ med läkarintyg.
 
 Kostnad för läsglasögon godkänns inte då det ingår i riksnormens post för hälsa och hygien.
 
-18. Resor/Rekreationsresor
+18\. Resor/Rekreationsresor
 
 18.1 Arbetsresor
 Bistånd till periodkort kan beviljas till vuxna som har behov av resor till arbete eller annan
@@ -4001,10 +4001,10 @@ skäl. Rimligheten i biståndsnivån ska prövas i varje enskilt fall.
 
 18.5 Resor i samband med umgänge med barn
 Behovsprövningen ska innefatta;
--  Barnets behov av umgänge.
--  Båda föräldrarnas ekonomiska förutsättningar.
+\-  Barnets behov av umgänge.
+\-  Båda föräldrarnas ekonomiska förutsättningar.
 
--  Skäligheten av kostnaden för resan.
+\-  Skäligheten av kostnaden för resan.
 Båda föräldrarna har gemensamt ansvar för att barns behov av umgänge tillgodoses.
 Den förälder som barnet bor hos ska vara med och bekosta umgänget utifrån ekonomisk
 förmåga och vad som är skäligt i förhållande till båda föräldrarnas ekonomi. Det primära
@@ -4059,7 +4059,7 @@ Utländska medborgare som kommit till Sverige som flyktingar kan söka återvand
 hos Migrationsverket. I de fall en person fått statligt återvandringsbidrag ska kommunen inte
 ge bistånd.
 
-19. Utlandsvistelse
+19\. Utlandsvistelse
 Huvudprincipen är att försörjningsstöd inte beviljas vid utlandsvistelse. Undantagsfall kan vara
 till exempel resor till hemlandet för att utforska eventuell återflyttning eller om den sökande
 av särskilda skäl behöver besöka anhörig. I helhetsbedömningen måste även beaktas hur
@@ -4071,7 +4071,7 @@ Sverige, dvs. om personen ej är arbetsför, finns inte grund för att säga att
 försörjningsstöd under en restid av maximalt en månad eller vid återkomsten upphört p.g.a.
 resan.
 
-20. Skulder
+20\. Skulder
 Bistånd till skulder som böter, avbetalning på studielån eller banklån, underhållstöd,
 kontokortskulder, privata skulder, etc. beviljas inte. Undantag kan endast göras om lån tagits för att
 
@@ -4080,15 +4080,15 @@ skulder har dålig kontroll över sin ekonomi ska han eller hon erbjudas hjälp 
 och skuldrådgivare.
 
 Undantag för att bevilja bistånd till skulder kan göras i följande situationer;
--  Hyresskuld som uppkommit under tid då den sökande ej haft egna inkomster som
+\-  Hyresskuld som uppkommit under tid då den sökande ej haft egna inkomster som
 
 räckt till hyra. Om ansökan gjorts hade hen haft rätt till bistånd.
--  Hyresskulder som uppkommit till följd av obetald hyra i familjer med barn och när
+\-  Hyresskulder som uppkommit till följd av obetald hyra i familjer med barn och när
 en eventuell avhysning medför sociala konsekvenser för barnen.
--  Hyresskulder för personer som är gamla och sjuka och där alternativt boende inte går
+\-  Hyresskulder för personer som är gamla och sjuka och där alternativt boende inte går
 
 att ordna.
--  Hyresskulder och eventuell avhysning som riskerar medföra social utslagning
+\-  Hyresskulder och eventuell avhysning som riskerar medföra social utslagning
 
 32
 
@@ -4111,7 +4111,7 @@ ansvarig för förskoleverksamheten kontaktas. Om barnet på grund av sociala sk
 
 delta i förskoleverksamhet får barnet enligt skollagen inte sägas upp.
 
-21. Spädbarnsutrustning
+21\. Spädbarnsutrustning
 Den person som beviljas bistånd till spädbarnsutrustning ska ha haft behov av
 försörjningsstöd längre tid eller inkomster i nivå med normen. Bistånd till spädbarns-
 
@@ -4127,7 +4127,7 @@ barnvagn och bilbarnstol. Bara det som är nödvändigt i samband med barnets f�
 som spädbarnsutrustning. Efter en tid kan man behöva ytterligare utrustning, tex. barnstol
 och säkerhetsutrustning till hemmet. Det kan beviljas som kompletterande hemutrustning.
 
-22. Tandvård
+22\. Tandvård
 22.1 Nödvändig tandvård
 
 Bistånd till nödvändig tandvård kan beviljas person som under lång tid haft försörjningsstöd
@@ -4138,9 +4138,9 @@ kostnaden ska jämföras med vad människor med ordinära inkomster har råd att
 
 Med nödvändig tandvård menas exempelvis följande;
 
--  Uppnå godtagbar tuggförmåga.
--  Ge möjlighet att fungera socialt.
--  Förhindra väsentligt försämrad tandstatus.
+\-  Uppnå godtagbar tuggförmåga.
+\-  Ge möjlighet att fungera socialt.
+\-  Förhindra väsentligt försämrad tandstatus.
 
 Med vård i syfte att förhindra väsentligt försämrad tandstatus kan avses t.ex. förebyggande
 behandling eller förhindra begynnande tandlossning. Med vård som ger möjlighet att
@@ -4156,12 +4156,12 @@ För personer som haft försörjningsstöd under en lång tid kan det vara skäl
 kostnaden för en grundundersökning vartannat år.
 
 Förutom nämnda kriterier ska följande beaktas vid ansökan om bistånd till tandvård;
--  Kostnadsförslag ska ges och innefatta alla åtgärder, kostnader samt avdrag för
+\-  Kostnadsförslag ska ges och innefatta alla åtgärder, kostnader samt avdrag för
 tandvårdsstöd.
 
--  Vid tandvårdskostnad över 20% av prisbasbeloppet eller om det finns
+\-  Vid tandvårdskostnad över 20% av prisbasbeloppet eller om det finns
 olika behandlingsalternativ bör förtroendetandläkare anlitas.
--  En individuell bedömning ska göras av den enskildes förmåga att sköta sin
+\-  En individuell bedömning ska göras av den enskildes förmåga att sköta sin
 tandhygien. Det är däremot inte acceptabelt att enbart göra bedömningen utifrån
 ålder eller utifrån att den enskilde har ett missbruk i början av sin rehabilitering.
 
@@ -4187,7 +4187,7 @@ fall ett sådant inte kan inväntas.
 Det ska av tandvårdsräkning, kvitto eller genom kontakt med behandlande tandläkare
 framgå att tandvården var akut.
 
-23. Tekniska hjälpmedel
+23\. Tekniska hjälpmedel
 Bistånd beviljas efter sedvanlig ekonomisk prövning till egenavgiften för läkarföreskrivna
 hjälpmedel som till exempel hörapparat, kryckor, batterier, etc., om behovet inte kan
 tillgodoses genom regionen eller Försäkringskassan via merkostnadsersättning. Vid hyra av
@@ -4200,7 +4200,7 @@ ex Tens-apparat och bevilja engångskostnad.
 
 <!-- sida 97 -->
 
-24. Telefoni/dator/bredband/TV
+24\. Telefoni/dator/bredband/TV
 
 24.1 Telefoni
 Alla löpande kostnader för telefon ingår i riksnormen.
@@ -4232,12 +4232,12 @@ skuld och när personen själv inte kan ordna borgen. Depositionsavgift gälland
 
 kan i särskilda fall beviljas och då mot återkrav.
 
-25. Tvättmaskin/torktumlare/diskmaskin
+25\. Tvättmaskin/torktumlare/diskmaskin
 Bistånd till inköp av tvättmaskin, torktumlare eller diskmaskin kan beviljas i följande
 
 situationer;
--  När det finns ett medicinskt behov som är styrkt med läkarintyg.
--  När den sökande har fysiskt eller psykiskt funktionshinder som gör det omöjligt
+\-  När det finns ett medicinskt behov som är styrkt med läkarintyg.
+\-  När den sökande har fysiskt eller psykiskt funktionshinder som gör det omöjligt
 att använda fastighetens tvättstuga, om behovet inte kan tillgodoses på annat
 sätt till exempel genom merkostnadsersättning eller genom hjälp i hemmet.
 
@@ -4245,7 +4245,7 @@ Om behov av tvättmaskin uppstått till följd av att fastigheten saknar tvätts
 i första hand hänvisas till hyresvärden, hyresgästföreningen eller hyresnämnden. Innan bistånd
 beviljas ska undersökas om hyresvärden kan installera apparaterna mot hyreshöjning.
 
-26. Person som uppnått pensionsålder
+26\. Person som uppnått pensionsålder
 
 Personer som uppnått pensionsålder som ansöker om försörjningsstöd ska hänvisas till
 Pensionsmyndigheten för att ansöka om äldreförsörjningsstöd. Äldreförsörjningsstödet riktas
@@ -4263,17 +4263,17 @@ försörjningsstöd ska i god tid uppmanas att lämna in ansökan till Pensionsm
 Om försörjningsstöd beviljas i avvaktan på beslut hos Pensionsmyndigheten ska det beviljas
 mot återkrav.
 
-27. Person som är arbetslös
+27\. Person som är arbetslös
 
 Då en person som söker ekonomiskt bistånd enligt 12 kap 1 § SoL är arbetslös men arbetsför,
 gäller att personen ska;
--  vara inskriven på arbetsförmedling,
--  aktivt söka arbete inom varierande yrkesområden inom pendlingsavstånd,
+\-  vara inskriven på arbetsförmedling,
+\-  aktivt söka arbete inom varierande yrkesområden inom pendlingsavstånd,
 
--  ta anvisat arbete,
--  delta i arbetsmarknadspolitisk åtgärd anvisad av Arbetsförmedlingen.
+\-  ta anvisat arbete,
+\-  delta i arbetsmarknadspolitisk åtgärd anvisad av Arbetsförmedlingen.
 
--  delta i svenskundervisning om detta är aktuellt.
+\-  delta i svenskundervisning om detta är aktuellt.
 
 Socialtjänsten kan även kräva att den sökande under begränsad tid deltar i kommunal
 verksamhet som är kompetenshöjande och syftar till att ge den arbetslöse större
@@ -4324,12 +4324,12 @@ utifrån den enskildes förmåga och situation. Beviljas mot återkrav. Beslut f
 12:2.
 Beviljas i samråd med enhetschef.
 
-28. Person som är sjukskriven
+28\. Person som är sjukskriven
 Person som är sjukskriven ska vara inskriven hos Enheten för Arbetsmarknad och kunna
 uppvisa aktuellt sjukintyg samt följa uppgjord planering, tex att komma på möten, för att
 kunna beviljas bistånd.
 
-29. Företagare eller person med s.k. fritt yrke
+29\. Företagare eller person med s.k. fritt yrke
 Ekonomiskt bistånd beviljas som regel inte till invånare som är egenföretagare. Ekonomiskt bistånd
 ska inte utgå för att finansiera affärsverksamhet eller till att reglera skulder som uppkommit i sådan
 verksamhet. Aktiebolag, vissa handelsbolag och enskilda firmor representerar i vissa fall en
@@ -4364,7 +4364,7 @@ skattsedel eftersom detta är ett krav från deras uppdragsgivare.
 Om invånaren väljer att behålla sitt företag och synnerliga skäl föreligger kan endast ett högst
 tillfälligt bistånd beviljas om:
 
--  Behovet av bistånd är nödvändigt för att tillgodose behov av nöd. Särskilt ska beaktas om
+\-  Behovet av bistånd är nödvändigt för att tillgodose behov av nöd. Särskilt ska beaktas om
 37
 
 <!-- sida 100 -->
@@ -4372,9 +4372,9 @@ tillfälligt bistånd beviljas om:
 det finns barn i familjen. Tillfälligt bistånd kan beviljas i längst tre månader, för att ge tid för
 avveckling och kontakter med Arbetsförmedlingen.
 
--  Den egna företagaren har fått aktivitetsstöd från arbetsförmedlingen under sex månader
+\-  Den egna företagaren har fått aktivitetsstöd från arbetsförmedlingen under sex månader
 och det finns utsikter att företaget ger inkomster inom tre månader.
--  Sökande kan också i särskilda fall beviljas ekonomiskt bistånd en kortare period för att ”få
+\-  Sökande kan också i särskilda fall beviljas ekonomiskt bistånd en kortare period för att ”få
 
 fart på” ett inaktivt företag efter t.ex. sjukskrivning eller som komplement till starta-eget-
 bidrag som en väg ut till självförsörjning.
@@ -4400,7 +4400,7 @@ dokument.
 -Övriga relevanta dokument: Detta kan inkludera hyresavtal, försäkringsdokument och andra
 papper som kan påverka företagets ekonomi.
 
-30. Person som är inskriven för kriminalvård, rättspsykiatrisk
+30\. Person som är inskriven för kriminalvård, rättspsykiatrisk
 vård etc.
 
 När en person är inskriven inom kriminalvården ska kriminalvårdsverket svara för alla
@@ -4480,7 +4480,7 @@ arbetsmarknadens förfogande på heltid och till exempel delta i praktik.
 
 <!-- sida 102 -->
 
-31. Person som studerar
+31\. Person som studerar
 
 31.1 Ungdomar 18–21 år som går i skolan
 Föräldrar har enligt föräldrabalken försörjningsskyldighet för barnet/den unge som går i
@@ -4516,10 +4516,10 @@ För vuxenstuderande på gymnasienivå gäller huvudregeln att de ska försörja
 
 statliga studiestödsformer som finns, se vidare rubriken ovan. En individuell behovsprövning
 kan dock ske och undantag kan till exempel göras i följande situationer:
--  I akuta nödsituationer,
--  Studierna ingår i en rehabilitering,
+\-  I akuta nödsituationer,
+\-  Studierna ingår i en rehabilitering,
 
--  Enstaka kurser där studierna kombineras med studier på grundskolenivå.
+\-  Enstaka kurser där studierna kombineras med studier på grundskolenivå.
 Bidragsdelen av studiemedel etc. ska alltid sökas.
 
 31.4 Vuxen som studerar på högskola
@@ -4593,7 +4593,7 @@ skolan ska bifogas ansökan och även här gäller i första hand begagnat.
 
 <!-- sida 104 -->
 
-32. Personer som är utländska medborgare
+32\. Personer som är utländska medborgare
 En utländsk medborgare, med undantag från vissa EU-medborgare och deras anhöriga får inte
 
 uppehålla sig i Sverige mer än tre månader från inresan utan att ha uppehållstillstånd.
@@ -4689,15 +4689,15 @@ Person som är utländsk medborgare med uppehålls- och arbetstillstånd i Sveri
 vistas här har samma rätt till bistånd som svenska medborgare. Utländsk medborgare som
 söker ekonomiskt bistånd ska kunna uppvisa följande:
 
--  Beslut om uppehålls- och arbetstillstånd.
--  Om tidigare tillstånd gått ut, bevis på inlämnad ansökan om förnyat uppehålls-
+\-  Beslut om uppehålls- och arbetstillstånd.
+\-  Om tidigare tillstånd gått ut, bevis på inlämnad ansökan om förnyat uppehålls-
 och arbetstillstånd.
 
 Person som är utländsk medborgare med uppehållstillstånd för besök ska bedömas på
 
 samma sätt som utländska medborgare som befinner sig tillfälligt i landet.
 
-33. Dödsfall
+33\. Dödsfall
 33.1 Begravningskostnader
 
 Begravningskostnader ska i första hand täckas av tillgångarna i dödsboet. Om dödsboet saknar
@@ -4721,11 +4721,11 @@ vårdnadshavarens ekonomi.
 Som nära anhörig betraktas förälder, egna eller makes barn och syskon. Individuell bedömning
 får göras om vem som räknas som nära anhörig.
 För dessa kan biståndet utgå enligt följande efter individuell bedömning:
--  resa till begravning inom Sverige, billigaste färdsätt.
--  handblommor max 100 kr
+\-  resa till begravning inom Sverige, billigaste färdsätt.
+\-  handblommor max 100 kr
 
--  krans max 2 % av basbeloppet, gäller endast den som är närmast anhörig
--  sorgkläder max 2 % av basbeloppet
+\-  krans max 2 % av basbeloppet, gäller endast den som är närmast anhörig
+\-  sorgkläder max 2 % av basbeloppet
 
 33.3 Resa till begravning
 Bistånd kan beviljas för resa inom Sverige om den avlidne är nära anhörig eller annan
@@ -7141,7 +7141,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 <!-- sida 169 -->
 
-#8  AUGUSTI 2025                                              www.werket.se
+\#8  AUGUSTI 2025                                              www.werket.se
 
 Månadsrapport
 
@@ -7168,7 +7168,7 @@ insatser?                munernas roll.            på kristdemokraternas utspel
 <!-- sida 170 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7226,7 +7226,7 @@ bjorn@werket.nu | 070-888 26 01
 <!-- sida 171 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7234,7 +7234,7 @@ Månadens djupdykning
 
 Fallande          utbetalningar
 
--  ökande           risker
+\-  ökande           risker
 
 De senaste fem åren har Arbetsförmedlingen i snitt betalat ut 4,3 miljarder kronor
 per år för externa tjänster och insatser. Men 2025 ser beloppen ut att sjunka sam-
@@ -7281,7 +7281,7 @@ på sina håll dras med en aversion mot att
 <!-- sida 172 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7349,7 +7349,7 @@ För andra året i rad minskar det utbetal- STA och INAB exkluderade på grund a
 <!-- sida 173 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7412,7 +7412,7 @@ rande matchning. De pekar på kommu- CCaammiillllaa RRiinnaallddoo MMiilllleerr 
 <!-- sida 174 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7474,7 +7474,7 @@ avtalsrörelsen och valåret 2026. om att vändningen kan vara på väg. antalet
 <!-- sida 175 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7549,7 +7549,7 @@ fler arbetslösa lokalt.     RRooyy MMeellcchheerrtt,, SSeekkttiioonnsscchheeff 
 <!-- sida 176 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7636,7 +7636,7 @@ tappade vi mycket samverkan. Många
 <!-- sida 177 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7712,7 +7712,7 @@ kommun de bor i.                                                   OOlliivveerr 
 <!-- sida 178 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
@@ -7802,7 +7802,7 @@ statistik
 <!-- sida 180 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -7864,7 +7864,7 @@ Förändring 12 mån: −13 894 platser Förändring 12 mån: 1,7 enheter
 <!-- sida 181 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -7881,7 +7881,7 @@ statistik
 <!-- sida 182 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -7922,7 +7922,7 @@ Kollega - matchning, rekrytering oc.. 3,33
 I juli publicerades nya betyg för leve- RYS Jobb & Rekrytering AB  3,20
 rantörerna i ROM2. Av de som levererat Trim tab AB                 3,17
 ROM2 i minst fem områden är det Kollega HelloLilly AB             3,00
-- matchning, rekrytering och bemanning Guldjobbet AB              3,00
+\- matchning, rekrytering och bemanning Guldjobbet AB              3,00
 som har högst genomsnittligt betyg. På Clockwork Matchning AB     3,00
 andra- och tredjeplats följer RYS Jobb & Cleverex Jobbförmedling & Utbildn.. 3,00
 Aros Matchning och Utbildning AB    3,00
@@ -7947,7 +7947,7 @@ Betyg 1  2   3    4
 <!-- sida 183 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8024,7 +8024,7 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 <!-- sida 184 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8091,7 +8091,7 @@ De 30 största ROM2-leverantörerna
 <!-- sida 185 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8143,7 +8143,7 @@ Antalet kvarstående deltagare i Steg till arbete, fördelat på leverantör
 <!-- sida 186 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8200,7 +8200,7 @@ Antalet kvarstående deltagare i Karriärvägledning, fördelat på leverantör.
 <!-- sida 187 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8253,7 +8253,7 @@ Antalet kvarstående deltagare i Individuellt pedagogiskt stöd vid utbildning, 
 <!-- sida 188 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 WERKET  MÅNADSRAPPORT
@@ -8270,7 +8270,7 @@ statistik
 <!-- sida 189 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8337,7 +8337,7 @@ Kvarstående, nya och avslutade deltagare i förberedande utbildning samt förde
 <!-- sida 190 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik
@@ -8393,7 +8393,7 @@ Kvarstående deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 <!-- sida 191 -->
 
 8
-#
+\#
 ITSUGUA
 5202
 statistik

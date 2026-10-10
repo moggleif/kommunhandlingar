@@ -634,7 +634,7 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Dataskyddsombudets råd om AI och personuppgifter
+1\. Dataskyddsombudets råd om AI och personuppgifter
 
 Beslutsgång
 

@@ -556,10 +556,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -1213,10 +1213,10 @@ Tillämpbara bestämmelser
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -1248,14 +1248,14 @@ Av 2 kap. 5 § PBL följer att vid planläggning och i ärenden om bygglov eller
 
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
+1\. människors hälsa och säkerhet,
 
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
 
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar, och
-5. risken för olyckor, översvämning och erosion.
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar, och
+5\. risken för olyckor, översvämning och erosion.
 
 Av 3 kap. 6 § Miljöbalken (MB) följer att mark- och vattenområden samt fysisk
 miljö i övrigt som har betydelse från allmän synpunkt på grund av deras naturvärden
@@ -1393,7 +1393,7 @@ förordnande om strandskydd sedan 1951. Förordnandet omfattade 100 m fram till
 1967 och därefter 300 m. Länsstyrelsen skriver likt i tidigare beslut att de har ingen
 uppgift om när den första byggnaden uppfördes på fastigheten, men den omnämns
 emellertid i protokoll som tillhör avstyckningshandlingar m.m. för fastigheten från
-1965. Länsstyrelsen motiverar beslutet enligt följande: Då den nya byggnaden skall
+1965\. Länsstyrelsen motiverar beslutet enligt följande: Då den nya byggnaden skall
 ersätta en befintlig inom som tomt redan ianspråktagen mark bedömer Länsstyrelsen
 att särskilda skäl föreligger för att meddela dispens från
 strandskyddsbestämmelserna. Länsstyrelsen bedömer vidare att en
@@ -1429,7 +1429,7 @@ Nämnden bedömer att åtgärden inte har någon betydande inverkan på växt- o
 djurlivet i området. Av beslutet framgår att det inom fastigheten finns 3 mindre
 befintliga byggnader. Vidare framgår av beslutet att Länsstyrelsen tidigare har
 beviljat en strandskyddsdispens och gjort en tomtplatsavgränsning i beslut 2004-10-
-11. Anledningen till varför dispens beviljats två gånger var på grund av att husbygget
+11\. Anledningen till varför dispens beviljats två gånger var på grund av att husbygget
 behövde avbrytas och kunde inte avslutas inom 5 år, varvid strandskyddsdispensen
 upphörde att gälla.
 
@@ -1641,7 +1641,7 @@ möjliggöra byggnader för bostäder/handel.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- Planbestämmelserna anger bostäder och handel.
+\- Planbestämmelserna anger bostäder och handel.
 
 Vård ingår inte i planbestämmelserna.
 Övriga förutsättningar

@@ -414,11 +414,11 @@ och göra en samlad analys.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa
 utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få
 livet att fungera.
 
 Sammanfattning av nämndens arbete med målet
@@ -497,14 +497,14 @@ Kommunfullmäktige
 
 Fokusområden En hållbar
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi. utveckling och
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi. utveckling och
 
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
 och främjar biologisk mångfald.
 
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 hälsosam miljö
 
@@ -613,7 +613,7 @@ Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 
 under elevhälsosamtalet, ÅK 4 i 960 8540 8840 884
-- Flickor (Elevhälsan i Kungsbacka utvecklar
+\- Flickor (Elevhälsan i Kungsbacka utvecklar
 
 metod utifrån hälsosamtal med elever.)
 
@@ -631,7 +631,7 @@ Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 
 under elevhälsosamtalet, ÅK 8 i 20 7090 T1TY0 7200
-- Flickor (Elevhälsan i Kungsbacka utvecklar
+\- Flickor (Elevhälsan i Kungsbacka utvecklar
 
 metod utifrån hälsosamtal med elever.)
 
@@ -665,7 +665,7 @@ Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i 26
 
-- Pojkar. (Elevhälsan i Kungsbacka utvecklar
+\- Pojkar. (Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 8440
@@ -677,7 +677,7 @@ metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, Gymnasiet ÅK 1 i26
-- flickor.
+\- flickor.
 
 7020
 
@@ -688,7 +688,7 @@ under elevhälsosamtalet, Gymnasiet ÅK 1 i26
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, Gymnasiet ÅK 1 i26
-- pojkar.
+\- pojkar.
 
 8040
 
@@ -737,7 +737,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 
 1,93
 
@@ -764,8 +764,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och
 företag genom samverkan mellan näringsliv och utbildning.
 Sammanfattning av nämndens arbete med målet
 
@@ -853,8 +853,8 @@ Kommunfullmäktige I Kungsbacka
 utvecklas vi
 Fokusområden hola livet
 
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 
@@ -959,17 +959,17 @@ Kommunfullmäktige
 
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
 
 medskapande i att utforma det goda livet.
 
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
 
 bemötta i kontakt med kommunen.
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
 
 medarbetare och ledare.
 
@@ -1272,7 +1272,7 @@ skolor. Andra exempel är rådgivningsenheternas medverkan, vikariecenter i sama
 Omsorg i samband med rekrytering av timvikarier och Fastighets medverkan under beredskapsveckan.
 Flera av eventen har varit mycket lyckade och vi lär oss hur vi ska profilera oss för att nå ut och synas.
 Under hösten anställdes en projektledare som ska hjälpa förvaltningarna att skapa sina event under
-2024.
+2024\.
 
 4.1.4 Möjlighet att genomföra fler utvecklingsinitiativ
 
@@ -1484,7 +1484,7 @@ kontorsmaterial kom till användning hos andra verksamheter. Det resulterade i a
 kunde återanvändas, vilket sparade 16 ton CO2 jämfört med om motsvarande artiklar hade köpts nya.
 
 Inköp har arbetat vidare med att få med krav i leverantörsavtal för att nå vårt mål om netto-nollutsläpp
-2045. Samtidigt har vi arbetat för att lösa inköpsbehov genom återanvändning och reparationer. Vi har
+2045\. Samtidigt har vi arbetat för att lösa inköpsbehov genom återanvändning och reparationer. Vi har
 ständigt dialog med våra leverantörer och får kvitto på att vi ligger i framkant inom hållbarhet och
 miljö. Dessa krav är viktiga och uppskattade av våra leverantörer då vi även driver deras utveckling
 framåt.
@@ -2106,7 +2106,7 @@ finns hos måltidsverksamheten där ett antal kostnader, bland annat livsmedel, 
 sista tertial. Resultatområdet SE Fastigheter har ett antal kostnader som förändrats sedan prognosen.
 De största avvikelserna kommer från ökade kostnader för finansiell leasing, nedlagda lokalprojekt
 samt energi och där det sistnämnda bland annat förklaras av en vädermässigt kall avslutning av år
-2023. Det finns också en stor positiv avvikelse på avskrivningskostnaderna vilket är en effekt av
+2023\. Det finns också en stor positiv avvikelse på avskrivningskostnaderna vilket är en effekt av
 reviderade nyttjandeperioder för ett antal fastigheter. Under hösten analyserades ett antal stora
 fastighetsobjekt i förhållande till sin avskrivningsplan vilket resulterade i längre avskrivningstider.
 Med andra ord anses fastigheterna ha en längre livslängd vilket då resulterar i lägre
@@ -2260,7 +2260,7 @@ mot budget då en utökning av antalet ladd-stolpar ansetts nödvändig vid geno
 Specifikation projekt (belopp i mnkr)
 
 Utfall |
-- Total Total Budget Bokslut Avvik.
+\- Total Total Budget Bokslut Avvik.
 
 se | FE budget | prognos | 'Qtatdar | 2023 2023 2023
 
@@ -2291,10 +2291,10 @@ idrottshall
 
 8961/ Skårbyskolan
 
-8962. | utbildningslokaler & -2664 | -2594 | -2364 | -118,5 -88,5 30,0
+8962\. | utbildningslokaler & -2664 | -2594 | -2364 | -118,5 -88,5 30,0
 idrottshall
 
-2083. Stockalids förskola 71,0 71,0 19,3 -38,9 182 20,7
+2083\. Stockalids förskola 71,0 71,0 19,3 -38,9 182 20,7
 
 8944/ | Vallda BMSS (boende
 
@@ -2574,7 +2574,7 @@ konsekvenser.
 procent av kommunens fordon vilket är en förflyttning från föregående års andel på 82,5
 procent.
   Andelen fossilfria personbilar och lätta lastbilar har ökat med närmare 39 procent jämfört med
-2022. Under 2023 innebär det att vi har 452 fossilfria personbilar och lätta lastbilar vilket kan
+2022\. Under 2023 innebär det att vi har 452 fossilfria personbilar och lätta lastbilar vilket kan
 jämföras med 324 mot föregående år. Förflyttningen för oss närmare klimatmålet om en
 fossil-oberoende fordonsflotta 2030.
   Vi ställer fortsatt krav på fossilfria transporter och entreprenader i våra upphandlingar, och
@@ -3408,19 +3408,19 @@ KUNGSBACKA  KOMMUN
 
 Motionären yrkar,
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
 kontinuerliga bakgrundskontroller under anställningstiden för personal anställda av
 Kungsbacka kommun.
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid saklig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid saklig
 grund häva pågående anställning för personer med koppling till extremism och
 gängkriminalitet.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
 kontroll inför kommande anställningar i Kungsbacka kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
 kontroll av befintliga anställningar inom Kungsbacka kommun.
--  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
+\-  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
 säkerhetsställer validering av identitet samt för kontroll och uppföljning av rätt till arbete, både
 för befintlig personal och för arbetssökande.
 
@@ -3704,8 +3704,8 @@ rätt till arbete i Sverige.
 5§ Till böter eller, när omständigheterna är försvårande, fängelse döms den som
 uppsåtligen eller av oaktsamhet har utlänning anställd, om utlänningen
 
-1. inte har rätt att vistas i Sverige
-2. har rätt att vistas här men saknar föreskrivet arbetstillstånd ”
+1\. inte har rätt att vistas i Sverige
+2\. har rätt att vistas här men saknar föreskrivet arbetstillstånd ”
 
 Kungsbacka kommun kan aldrig acceptera att individer kopplade till extremism,
 gängkriminalitet eller andra odemokratiska handlingar blir eller är anställda av
@@ -3730,7 +3730,7 @@ Antalet individer som lever under falsk identitet i Sverige bedöms vara mycket
 
 högt. Migrationsminister Magdalena Malmer Stenegards: ”Enligt regeringen handlar
 det om över 100 000 personer som vistas i Sverige illegalt”. Expressen 2022-12-
-05.
+05\.
 
 Aktörer som professionellt arbetar med ID-kontroll har tagit fram en certifiering
 
@@ -3742,24 +3742,24 @@ hemtjänst mm.
 
 Sverigedemokraterna yrkar med anledning av ovanstående:
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
 lagstiftning, införa kontinuerliga bakgrundskontroller under anställningstiden
 för personal anställda av Kungsbacka kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
 lagstiftning, vid saklig grund häva pågående anställning för personer med
 koppling till extremism och gängkriminalitet.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
 aktör att sköta ID-kontroll inför kommande anställningar i Kungsbacka
 
 kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
 aktör att sköta ID-kontroll av befintliga anställningar inom Kungsbacka
 kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad
+\-  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad
 process som säkerhetsställer validering av identitet samt för kontroll och
 uppföljning av rätt till arbete, både för befintlig personal och för
 arbetssökande.
@@ -3859,17 +3859,17 @@ Nämnden för Service       Årsrapport dataskydd                  2
 Årsrapporten om dataskyddet är en sammanställning och redogörelse av förvaltningens
 dataskyddsarbete under det gångna året. Inriktningen för år 2023 har bland annat varit att
 omhänderta uppdragets restpunkter enligt följande,
-1. Utredning och rekommendation gällande delegeringar kopplat till dataskyddsarbetet:
+1\. Utredning och rekommendation gällande delegeringar kopplat till dataskyddsarbetet:
 Nämnden för Service delegering om beslutanderätt reviderades med delegeringar kopplade till
 
 dataskyddsförordningen och GDPR vid sammanträdet 2023-10-04 § 104.
-2. Uppdatera och komplettera Services nuvarande behandlingsregister:
+2\. Uppdatera och komplettera Services nuvarande behandlingsregister:
 Uppdatering av registret med förvaltningens aktuella personuppgiftsbehandlingar, samt att
 förse dem med lämpliga skyddsåtgärder, var den granskningspunkt som visade på delvis
 avvikelse i Dataskyddsombudets rapport 2022. Behandlingsregistret ses över regelbundet och
 kommer även finnas med som inriktning 2024, då det ska uppdateras enligt nya styrdokument.
 
-3. Kartlägga interna biträdesförhållanden mellan Service och andra förvaltningar:
+3\. Kartlägga interna biträdesförhållanden mellan Service och andra förvaltningar:
 Kartläggningen av interna biträdesförhållanden mellan Service och andra förvaltningar
 kvarstår som inriktning 2024 då nya styrdokument ämnas att fastställas i Kommunfullmäktige
 under våren 2024.
@@ -3888,11 +3888,11 @@ publicering av information, riktat till förvaltningen för Service, på kommune
 
 I 2023 års internkontroll granskades följande punkter inom dataskyddet,
 
--  att det finns aktuella informationsklassningar och tillhörande handlingsplaner för förvaltningens
+\-  att det finns aktuella informationsklassningar och tillhörande handlingsplaner för förvaltningens
 system
--  att tröskelanalyser har genomförts
+\-  att tröskelanalyser har genomförts
 
--  att det finns konsekvensbedömningar
+\-  att det finns konsekvensbedömningar
 Informationsklassningar genomförs löpande och granskningen visar att totalt 80% av systemen är
 informationsklassade. Som en åtgärd av granskningen görs en prioritering av de system som är kvar
 att informationsklassa och för de mest prioriterade systemen kommer informationsklassning att
@@ -3945,23 +3945,23 @@ Den registrerade har rätt att vända sig till en myndighet för att få veta vi
 myndigheten behandlar om personen och på vilket sätt uppgifterna behandlas, genom ett så kallat
 registerutdrag.
 
-- Förfrågan om ifall personuppgifter behandlas har inkommit två gånger.
+\- Förfrågan om ifall personuppgifter behandlas har inkommit två gånger.
 
-- Begäran om registerutdrag har inkommit tre gånger.
+\- Begäran om registerutdrag har inkommit tre gånger.
 
 4.2 Rättelse (art. 16)
 
 Den registrerade har rätt att vända sig till en myndighet som behandlar personuppgifter och be att få
 felaktiga uppgifter rättade.
 
-- - Noll begäran om rättelse av personuppgifter har inkommit.
+\- - Noll begäran om rättelse av personuppgifter har inkommit.
 
 4.3 Radering (art.17)
 
 Varje person har rätt att vända sig till en myndighet som behandlar personuppgifter och be att
 uppgifterna som avser honom eller henne raderas.
 
-- En person begärde att få sina personuppgifter raderade.
+\- En person begärde att få sina personuppgifter raderade.
 
 4.4 Begränsning (art. 18)
 
@@ -3969,7 +3969,7 @@ De registrerade har i vissa fall rätt att kräva att behandlingen av personuppg
 begränsning menas att uppgifterna markeras så att de i framtiden endast får behandlas för vissa
 avgränsade syften.
 
-- En person begärde att få sina personuppgifter begränsade.
+\- En person begärde att få sina personuppgifter begränsade.
 
 Nämnden för Service Årsrapport dataskydd 4
 
@@ -3979,13 +3979,13 @@ Nämnden för Service Årsrapport dataskydd 4
 Varje person har rätt att vända sig till en myndighet som behandlar personuppgifter och be att
 uppgifterna som avser honom eller henne flyttas.
 
--  Noll personer begärde att få sina personuppgifter flyttade.
+\-  Noll personer begärde att få sina personuppgifter flyttade.
 
 4.6 Invändning (art. 21)
 Den registrerade har rätt att invända mot den personuppgiftsansvarigas behandling av hans eller
 hennes personuppgifter.
 
--  Noll personer invände mot behandlingen av sina personuppgifter.
+\-  Noll personer invände mot behandlingen av sina personuppgifter.
 
 5  Registrerade  personuppgiftsbehandlingar
 
@@ -3994,7 +3994,7 @@ Enligt Artikel 30 i Dataskyddsförordningen ska varje personuppgiftsansvarig fö
 behandlingar av personuppgifter som utförs under dess ansvar. Registret ska bland annat innehålla
 uppgifter om ändamålet med behandlingen, kategorier av registrerade och kategorier av
 personuppgifter.
--  Behandlingsregistret har kompletterats med 39 personuppgiftsbehandlingar.
+\-  Behandlingsregistret har kompletterats med 39 personuppgiftsbehandlingar.
 Vid årets slut omfattade behandlingsregistret 170 behandlingar, jämfört med 2022 då det
 fanns 131 behandlingar upptagna i registret.
 
@@ -4012,9 +4012,9 @@ En konsekvensbedömning har två syften, dels att utreda om behandlingen är lag
 dels att minska riskerna för de konsekvenser som behandlingen kan få för enskildas fri- och
 rättigheter.
 
--  Åtta tröskelanalyser beslutades.
+\-  Åtta tröskelanalyser beslutades.
 
--  Två konsekvensbedömningar beslutades.
+\-  Två konsekvensbedömningar beslutades.
 
 Nämnden för Service       Årsrapport dataskydd                  5
 
@@ -4032,9 +4032,9 @@ personuppgiftsansvarige och personuppgiftsbiträdet vilket framgår av art. 28.3
 När ett personuppgiftsbiträde anlitar ett underbiträde som ska utföra en specifik behandling, på den
 personuppgiftsansvariges vägnar, måste det finnas ett avtal (eller annan rättsakt) mellan
 personuppgiftsbiträdet och underbiträdet vilket framgår av art. 28.4
--  noll personuppgiftsansvarsavtal upprättades
+\-  noll personuppgiftsansvarsavtal upprättades
 
--  tre personuppgiftsbiträdesavtal upprättades
+\-  tre personuppgiftsbiträdesavtal upprättades
 Ytterligare två personuppgiftsbiträdesavtal har tagits fram av Service men skrivits under av
 biträdande kommundirektör som undertecknar personuppgiftsbiträdesavtal för system som två
 eller flera förvaltningar använder.
@@ -4045,9 +4045,9 @@ Dataskyddsombudets inriktning
 I dataskyddsombudets årsrapport framgår att den regelbundna granskningen initialt kommer ske
 under 2024 och därefter repeteras 2026. Varje personuppgiftsansvarig verksamhet adresseras och
 de områden som kommer ingå är:
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska autenticeringsmetoder,
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska autenticeringsmetoder,
 kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Utöver regelbunden granskning kan riktad granskning komma att genomföras av Dataskyddsombudet
 utifrån uppkomna behov.
@@ -4305,7 +4305,7 @@ Uppföljningsrapport intern kontroll 2023
 
 N
 3
-=
+\=
 &N
 Nn
 — N D
@@ -4605,12 +4605,12 @@ andelen specialkost kommer att följas upp som en åtgärd 2024.
 Kommunövergripande risk - Risk för korruption
 Granskning 2023 genomförs som en nulägesbeskrivning inom respektive nämnd/förvaltning. Kartläggning med
 kort beskrivning:
-- utbildningsaktiviteter senaste tre åren (nämnd & förvaltning)
-- är nämndens specifika risker identifierade (till exempel välfärdsbrott, bidragsbrott, branschrelaterat etc.)
-- finns det ett förebyggande arbete kopplat till identifierade risker?
+\- utbildningsaktiviteter senaste tre åren (nämnd & förvaltning)
+\- är nämndens specifika risker identifierade (till exempel välfärdsbrott, bidragsbrott, branschrelaterat etc.)
+\- finns det ett förebyggande arbete kopplat till identifierade risker?
 -hanteras eventuell förekomst av incidenter/händelser på ett systematiskt sätt (dokumenteras, analyseras,
 åtgärdas och följs upp)
-- finns statistik över händelser kopplade till korruption, t ex felutbetalningar av bidrag
+\- finns statistik över händelser kopplade till korruption, t ex felutbetalningar av bidrag
 Utbildningsaktiviteter
 En undersökning bland kommunens medarbetare 2022 visar att utsatthet för otillåten påverkan förekommer,
 men är ovanlig. Slutsatsen i undersökningen var att det behövs tydligare kunskap om vart man kan vända sig om
@@ -4803,7 +4803,7 @@ chefer och
 administratörer
 Kommunövergripande Granskning av att Återföra kommentarer till
 risk: Inköp (granskning Servi genomförda inköp följer verksamheten
-- : ervice va
+\- : ervice va
 begränsas till belopp inköpsprocessen och NN -
 över 100 000 kronor) gällande styrdokument Utbildning berörda chefer
 Förslag: Granska att det
@@ -4826,7 +4826,7 @@ måltidsverksamhet
 Kommunövergripande Service Nuläge förebyggande Arbeta vidare med
 risk - Risk för korruption arbete korruption identifierade risker.
 Att det finns tillräckliga,
-- tydliga och kända rutiner | Ta fram en gallringsrutin
+\- tydliga och kända rutiner | Ta fram en gallringsrutin
 Externa personers AD Service för avslut. Att berörda för inaktiva externa
 konto avslutas inte o 2
 personer har fått användarkonton
@@ -5370,14 +5370,14 @@ Sammanställning av delegeringsbeslut februari 2024
 
 Sammanfattning
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 $ 104 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 \$ 104 under
 perioden 2023-11-24 till 2024-02-13,
 
 Ärende/ärendegrupp Beslut, insats samt | Beslutsfattare Beslutsdatum | Dnr
 enligt delegationslistan | ev. omfattning
 2.1.2a Utlämnande av Julia Tryggvadottir 2023-11-24 SE-2023-00397
-OSL 6 kap 3-6 $$ allmän handling med | Tollesson
-OSL 5 kap 5 $ förbehåll eller att inte | FC
+OSL 6 kap 3-6 \$\$ allmän handling med | Tollesson
+OSL 5 kap 5 \$ förbehåll eller att inte | FC
 
 lämna ut en allmän
 
@@ -5387,8 +5387,8 @@ Beslut om
 
 sekretessmarkering.
 2.1.2a Utlämnande av Julia Tryggvadottir 2023-11-24 SE-2023-00392
-OSL 6 kap 3-6 $$ allmän handling med | Tollesson
-OSL 5 kap 5 $ förbehåll eller att inte | FC
+OSL 6 kap 3-6 \$\$ allmän handling med | Tollesson
+OSL 5 kap 5 \$ förbehåll eller att inte | FC
 
 lämna ut en allmän
 
@@ -5398,7 +5398,7 @@ Beslut om
 
 sekretessmarkering.
 2.3.2 Tillsvidareanställning | Martin Funkerud 2023-12-01
-LAS, AB $$ 3-5 Administrativ EC Fastighet
+LAS, AB \$\$ 3-5 Administrativ EC Fastighet
 kollektivavtal, förvaltare
 lönepolicy mm
 

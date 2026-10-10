@@ -106,15 +106,15 @@ Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring
 skollagen samt ett antal ändringar i förordningar. Förslagen kan sammanfattas som
 att:
 
--  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
+\-  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
 studiero.
--  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
+\-  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
 studiero.
 
--  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
+\-  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
 säkerställas genom statliga åtgärder.
 
--  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\-  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några
 övergångsbestämmelser.
 

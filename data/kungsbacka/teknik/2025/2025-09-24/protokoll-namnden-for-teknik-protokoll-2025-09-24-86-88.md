@@ -101,14 +101,14 @@ Nämnden för Teknik antar VA-taxa 2026 daterad 2025-08-29, att gälla från den
 januari 2026 och översänder den till kommunfullmäktige för fastställande, med
 Liberalerna, Moderaterna och Centerpartiets följande tilläggs- och ändringsyrkanden:
 
--  Uppräkningen av VA-taxan sker i enlighet med den simulerade balanseringen
+\-  Uppräkningen av VA-taxan sker i enlighet med den simulerade balanseringen
 av skulden till taxekollektivet på 10 år:
 Investeringsnivå: 350 mnkr/år
 
 Balansering av skulden till taxekollektivet: 10 år
 Höjning av förbrukningsavgifterna: 11%
 
--  § 2.3 gränsen för små bostadsenheter (30 m2) kvarstår utan ändring.
+\-  § 2.3 gränsen för små bostadsenheter (30 m2) kvarstår utan ändring.
 VA-taxan för 2025 beslutad av kommunfullmäktige 2025-05-06 § 91 upphör
 
 samtidigt att gälla.

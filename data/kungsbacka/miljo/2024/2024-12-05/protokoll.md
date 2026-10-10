@@ -178,7 +178,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Byggnadsnämnden beslutade 2024-11-14 § 243 att godkänna intern kontrollplan för
-2025.
+2025\.
 
 Enligt kommunens process för intern styrning och kontroll ska nämnderna varje år
 anta en intern kontrollplan för kommande år. Planen ska bygga på riskanalys
@@ -609,7 +609,7 @@ framtagande av kommunbudget 2026, plan 2027-2028.
 
 Nämnden för Miljö & Hälsoskydd ska ges möjlighet att yttra sig inför att
 byggnadsnämnden den 16 januari 2025 tar beslut om underlag till kommunbudget
-2026. Ordförande Niclas Nilsson (M) kommer att fatta ett ordförandebeslut om att
+2026\. Ordförande Niclas Nilsson (M) kommer att fatta ett ordförandebeslut om att
 nämnden antar ett yttrande. Efter att byggnadsnämnden tagit beslut i ärendet sker en
 återrapportering i nämnden för Miljö & Hälsoskydd.
 

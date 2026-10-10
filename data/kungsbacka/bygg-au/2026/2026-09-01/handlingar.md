@@ -117,7 +117,7 @@ tabeller och poster utgått då de inte längre är aktuella enligt gällande re
 
 vissa Attefallsåtgärder och villkorsbesked.
 Avgiftsmodellen inom kart- och GIS-området har också förändrats. Tabeller baseras nu på antal
-timmar × handläggningstid i stället för faktor *mpbb (milliprisbasbelopp), vilket bedöms bidra till en
+timmar × handläggningstid i stället för faktor \*mpbb (milliprisbasbelopp), vilket bedöms bidra till en
 mer rättvis avgiftssättning.
 
 <!-- sida 3 -->
@@ -238,13 +238,13 @@ för den första nybyggnadskartan.”
 
 ➢  Tabell 19–21
 −  Endast textjustering
-➢  Tabell 22: Tabellen baseras nu på antal timmar × handläggningstid i stället för faktor * mpbb
+➢  Tabell 22: Tabellen baseras nu på antal timmar × handläggningstid i stället för faktor \* mpbb
 
 (milliprisbasbelopp).
 −  A 22.6 – A 22.7, (Ortofoto A4 och A3) har tagits bort.
 −  A 22.9, (Kungsbackakarta) har tagits bort.
 
-➢  Tabell 23: Tabellen baseras nu på antal timmar × handläggningstid i stället för faktor *mpbb
+➢  Tabell 23: Tabellen baseras nu på antal timmar × handläggningstid i stället för faktor \*mpbb
 (milliprisbasbelopp).
 
 <!-- sida 6 -->
@@ -594,11 +594,11 @@ Idrottshallskoncept.............................................................
 Planerings- och byggprocessen ..........................................................................................................6
 Studerade alternativ .............................................................................................................................. 7
 
-1. Kapareskolan ............................................................................................................................................. 8
-2. Fjordskolan ................................................................................................................................................. 9
-3. Presseskolan ............................................................................................................................................. 10
+1\. Kapareskolan ............................................................................................................................................. 8
+2\. Fjordskolan ................................................................................................................................................. 9
+3\. Presseskolan ............................................................................................................................................. 10
 
-4. Iseråsskolan ............................................................................................................................................... 11
+4\. Iseråsskolan ............................................................................................................................................... 11
 Rekommendation ................................................................................................................................. 12
 
 Konsekvenser ........................................................................................................................................ 12
@@ -743,7 +743,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 7 av 14
 
 Dnr KS-2026-00239 nr 50
 
-1. Kapareskolan
+1\. Kapareskolan
 
 •  Kapareskolan har elver i åk 7-9 och ligger centralt i Onsala.
 •  Skolan ligger inom centrumnära område enligt översiktsplanen.
@@ -789,7 +789,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 8 av 14
 
 Dnr KS-2026-00239 nr 50
 
-2. Fjordskolan
+2\. Fjordskolan
 
 •  Fjordskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del av föreningslivet.
@@ -826,12 +826,12 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 9 av 14
 
 Dnr KS-2026-00239 nr 50
 
-3. Presseskolan
+3\. Presseskolan
 
 •  Presseskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en fullmåttshall med en fällbar läktare som nyttjas av skolan och föreningslivet.
 •  Skoltomten ligger inom fastigheten Bäcken 1:11 och berörs av detaljplan OP171, laga kraft 2001-10-
-30. Genomförandetiden har gått ut.
+30\. Genomförandetiden har gått ut.
 
 Figur 12 och 13: Förslag på lokalisering A inom skoltomten. Detaljplaner för skola inom Bäcken 1:11 (OP171).
 
@@ -859,7 +859,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 10 av 14
 
 Dnr KS-2026-00239 nr 50
 
-4. Iseråsskolan
+4\. Iseråsskolan
 
 •  Iseråsskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del föreningslivet.
@@ -1560,7 +1560,7 @@ påverkan på landskapsbilden.
 
 Strandskydd
 Planområdet omfattas idag inte av generellt strandskydd då nu gällande detaljplan antogs
-1958. Eftersom detaljplanen ändras inträder inte strandskyddet.
+1958\. Eftersom detaljplanen ändras inträder inte strandskyddet.
 
 Dagvatten
 Det finns inte någon kommunal dagvattenhantering inom planområdet. Idag avvattnas
@@ -1826,12 +1826,12 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden att ett antagande av detaljplanen inte kommer att prövas.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har gått igenom planförslagets handlingar (daterade 2026-05-29) och har inga
 synpunkter.
@@ -1841,7 +1841,7 @@ Text i ursprungliga plankartan anger att laga kraft var 1958-02-15. I planförsl
 PLANBESTÄMMELSER  står det 1958-02-14.
 Kommentar: Planförslaget har justerats utifrån Lantmäteriets kommentar.
 
-3. Trafikverket
+3\. Trafikverket
 Väganslutningar
 
 Det är noterat att ett antal befintliga väganslutningar strider mot gällande detaljplan och klara inte
@@ -1867,7 +1867,7 @@ av sådan omfattning att den kommer ha någon påverkan på Trafikverkets diken 
 KUNGSBACKA  KOMMUN
 3 (8)
 
-4. Räddningstjänsten Storgöteborg
+4\. Räddningstjänsten Storgöteborg
 Under kommentar i samrådsredogörelsen kan man läsa att ”nuvarande detaljplan S53 innebär en
 rättighet att uppföra bostadshus även inom delar av detaljplanen där anslutande väg inte uppfyller
 räddningstjänstens råd och anvisningar om väglutning och plats för uppställning av räddningsfordon.
@@ -1914,7 +1914,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-5. Fastighetsägare Släps-Högås 1:16
+5\. Fastighetsägare Släps-Högås 1:16
 
 Vi är positiva till den föreslagna detaljplaneändringen och ser den som ett viktigt steg för att
 möjliggöra permanentboende i området i samband med den kommunala VA-utbyggnaden.
@@ -1954,7 +1954,7 @@ Kungsbacka kommun noterar yttrandet. VA-utbyggnad är planerad att vara klar sen
 KUNGSBACKA  KOMMUN
 5 (8)
 
-6. Fastighetsägare till Släps-Högås 1:34
+6\. Fastighetsägare till Släps-Högås 1:34
 Som fastighetsägare ser jag det som att det inte har framkommit argument till att ej bevilja 250m2 +
 50+m2 komplementbyggnad i detaljplanen likt detaljplan S53A som också tillhör samma område.
 
@@ -2046,7 +2046,7 @@ planförslaget.
 KUNGSBACKA  KOMMUN
 7 (8)
 
-7. Fastighetsägare till Släps-Högås 1:45
+7\. Fastighetsägare till Släps-Högås 1:45
 Vad avser Samråd 2 vill jag meddela att jag numera godkänner utsänt förslag till detaljplan (S53).
 Synpunkter i anslutning till Samråd 1 inskickades 2026-04-16. Jag återkallar således tidigare 2026-04-
 16 synpunkter/yttrande.
@@ -2054,7 +2054,7 @@ Synpunkter i anslutning till Samråd 1 inskickades 2026-04-16. Jag återkallar s
 Kommentar:
 Kungsbacka kommun noterar yttrandet.
 
-8. Fastighetsägare till Släps-Högås 1:48
+8\. Fastighetsägare till Släps-Högås 1:48
 I detaljplanen som avser fastigheterna Släps-Högås 1:31, 1:53 och 1:54, vilken började gälla 2003 är
 byggrätten är 250m2 och 8 m i nockhöjd med minsta tomtstorlek 1200m2. Då fastigheterna och
 området är likvärdigt S53 så är det svårt att se varför inte samma förutsättningar ska gälla även i denna
@@ -2069,7 +2069,7 @@ kommer inte att justeras uppåt. En byggrätt om 180 kvm bedöms bättre motsvar
 karaktär, tomtstruktur och bebyggelseskala. En större byggrätt riskerar att successivt förändra
 områdets karaktär genom större byggnadsvolymer. Utöver den rättighet som detaljplanen ger finns
 sen 2025-12-01 ny generös lagstiftning om bygglovsbefriade åtgärder.
-9. Fastighetsägare till Mölndal Hällesås 1:16
+9\. Fastighetsägare till Mölndal Hällesås 1:16
 
 Vi ser positivt på detta!
 
@@ -2079,7 +2079,7 @@ KUNGSBACKA  KOMMUN
 8 (8)
 
 Kommunala förvaltningar och nämnder
-10. Miljö & hälsoskydd
+10\. Miljö & hälsoskydd
 Nämnden för Miljö & Hälsoskydd i Kungsbacka kommun lämnar följande skrivelse som yttrande i
 granskning av detaljplan för SLÄPS-HÖGÅS 1:25.
 
@@ -2093,7 +2093,7 @@ att omhänderta dagvatten. Vidare är det fastighetsägaren som ansvarar för da
 fastigheten och i dess omedelbara närhet. Planbeskrivningen har uppdateras med information
 gällande omhändertagande av dagvatten.
 
-11. Teknik
+11\. Teknik
 Förvaltningen för Teknik har inga synpunkter på förslaget angående att utöka byggrätten och skapa
 mer ändamålsenliga bestämmelser för bebyggelsen inom planområdet för S53, med anledning av att
 
@@ -2235,7 +2235,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer, med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -2244,14 +2244,14 @@ Länsstyrelsen delar kommunens bedömning att detaljplanen överensstämmer med 
 
 Kommunen bedömer att ett genomförande av detaljplanen inte kan antas medföra en betydande
 miljöpåverkan. Länsstyrelsen delar kommunens bedömning.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet uppmärksammar i sitt yttrande att plankartan saknar information om
 detaljplaneändringens genomförandetid. De vill också att kommunen ser över hur ändrade
 planbestämmelser formuleras och redovisas på plankartan.
 
 Kommentar: Kommunen ser över plankartans redovisning samt kompletterar med genomförandetid.
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverket skriver i sitt yttrande att deras erfarenhet är att när fritidshusområden omvandlas till ett
 område för åretruntbostadshus uppstår oftast krav på upprustning av vägnätet, till exempel förbättrad
@@ -2275,7 +2275,7 @@ KUNGSBACKA  KOMMUN
 3 (6)
 
 Sakägare
-4. Fastighetsägaren till Släps-Högås 1:2, 1:8 och 1:41
+4\. Fastighetsägaren till Släps-Högås 1:2, 1:8 och 1:41
 
 Fastighetsägare lämnar bland annat synpunkter på regleringen om största byggnadsarea, som borde
 vara 200 kvm istället för föreslagna 180 kvm. Vidare anses att tillåten byggnadshöjden på 3,5 meter
@@ -2290,7 +2290,7 @@ förutsättningar och kommer inte att justeras uppåt. Kommunen ser över möjli
 nuvarande reglering av högsta byggnadshöjd och ersätta den med högsta nockhöjd tillsammans med en
 minsta takvinkel. Plankartan kommer dock inte att justeras.
 
-5. Fastighetsägare till Släps-Högås 1:16 m fl
+5\. Fastighetsägare till Släps-Högås 1:16 m fl
 Fastighetsägaren vill att detaljplanen ger byggrätter som är praktiskt möjliga att nyttja med hänsyn till
 tomternas topografi, prickmark och utformning. Att markhöjder och höjdsättning hanteras i
 bygglovsskedet och att garage, infart och parkering kan lösas på ett funktionellt sätt inom respektive
@@ -2306,7 +2306,7 @@ inom prickad mark, eftersom betydelsen av prickad mark ändras. Även om detaljp
 inom allmän plats för vägar finns det inte något formellt hinder att ordna tillfartsväg inom
 kvartersmark för bostäder och säkerställa dessa via servitut.
 
-6. Fastighetsägare till Släps-Högås 1:29
+6\. Fastighetsägare till Släps-Högås 1:29
 Fastighetsägaren till Släps-Högås 1:29 ställer sig positiv till att detaljplanen inom området
 moderniseras. Vidare efterfrågas en detaljplan som ger tillräckligt generösa och flexibla byggrätter så
 
@@ -2327,7 +2327,7 @@ Boverket
 Sammantaget gör kommunen bedömningen att detaljplanen, tillsammans med bygglovsbefriade
 åtgärder, ger den flexibilitet och enkelhet som fastighetsägaren efterfrågar.
 
-7. Fastighetsägare till Släps-Högås 1:34
+7\. Fastighetsägare till Släps-Högås 1:34
 
 Fastighetsägaren till Släps-Högås 1:34 vill att detaljplanen ger ännu större byggrätter, större
 byggnadsarea och högre nockhöjd.
@@ -2353,7 +2353,7 @@ Detaljplanen kan inte hantera frågor kopplat till hastigheten på Lindomevägen
 heller ställa krav på bulleravskärmande åtgärder längs med vägen. Däremot ger detaljplaneändringen
 möjlighet att uppföra plank inom prickad mark, vilket inte tidigare var möjligt.
 
-8. Fastighetsägare till Släps-Högås 1:40
+8\. Fastighetsägare till Släps-Högås 1:40
 Fastighetsägaren till Släps-Högås 1:40 godkänner detaljplanen i sin helhet.
 
 <!-- sida 60 -->
@@ -2361,13 +2361,13 @@ Fastighetsägaren till Släps-Högås 1:40 godkänner detaljplanen i sin helhet.
 KUNGSBACKA  KOMMUN
 5 (6)
 
-9. Fastighetsägare till Släps-Högås 1:45
+9\. Fastighetsägare till Släps-Högås 1:45
 Fastighetsägaren till Släps-Högås 1:45 har i princip inga invändningar men vill framföra att hen har för
 avsikt att ansökan om fastighetsreglering för att införliva del av Släps-Högås 1:2 till sin fastighet. Ett
 område nordöst om Släps-Högås 1:45, väster om Släps-Högås väg.
 
 Kommentar: Yttrandet noteras
-10. Fastighetsägare till Släps-Högås 1:48
+10\. Fastighetsägare till Släps-Högås 1:48
 
 Fastighetsägaren till Släps-Högås 1:48 lämnar synpunkter på regleringen av största byggnadsarea som
 uppfattas vara begränsande för de bostadshus som idag är större än 80 kvm. Tolkningen görs att den
@@ -2384,7 +2384,7 @@ Utöver den rättighet som detaljplanen ger finns sen 2025-12-01 ny generös lag
 bygglovsbefriade åtgärder, läs mer om detta här: Lista med PBL-ändringar - Boverket
 
 Kommunala förvaltningar och nämnder
-11. Teknik
+11\. Teknik
 
 Förvaltningen för Teknik är positiva till att öka möjligheten till permanentboende inom befintliga
 miljöer och ser positivt på detaljplanen.
@@ -2394,7 +2394,7 @@ senast 2029 samt att eventuell trafikalstring från detaljplanen till den statli
 Trafikverket yttra sig över.
 Kommentar: Planbeskrivningen justeras med rätt tid för utbyggnad av vatten och avlopp.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 Förvaltningen för Miljö & Hälsoskydd lyfter i sitt yttrande att det inom vissa delar av planområdet kan
 bli svårt att fördröja dagvatten inom egen fastighet på grund av den kuperade terrängen. Här kan det
 vara en fördel att ordna gemensamma lösningar för flera fastigheter.
@@ -2406,7 +2406,7 @@ Kommentar: Yttrandet noteras.
 KUNGSBACKA  KOMMUN
 6 (6)
 
-13. Räddningstjänsten Storgöteborg
+13\. Räddningstjänsten Storgöteborg
 Räddningstjänsten Storgöteborg har inte identifierat några riskkällor av betydelse i planområdets
 närhet med avseende på transport av farligt gods, verksamheter med tillstånd enligt lagen (2010:1011)
 om brandfarliga och explosiva varor eller verksamheter som omfattas av skyldigheterna för farlig
@@ -2432,11 +2432,11 @@ räddningstjänstens anvisningar.
 
 Övriga
 
-14. Skanova
+14\. Skanova
 Skanova har inget att erinra mot detaljplanen då deras teleanläggningar/rättigheter inte berörs eller
 påverkas av detaljplaneförslaget.
 
-15. Ellevio
+15\. Ellevio
 Ellevio har inget att erinra mot detaljplanen.
 
 Ida Lennartsson                    Stina Wikström
@@ -2469,17 +2469,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 
 samordnas på ett lämpligt sätt
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 
@@ -3153,18 +3153,18 @@ Detaljplan för ändring av huvudmannaskap            Datum: 2026-08-18
 Delar av befintliga alléer behöver flyttas eller tas bort vilket innebär att stråk, tillika en
 ekosystemtjänst, för fåglar och insekter bryts av. Kommunen har ansökt om dispens från
 biotopskyddsbestämmelser hos länsstyrelsen i Halland. Länsstyrelsen i Halland (dnr 1051-
-2022) har beslutat medge dispens från biotopskyddsbestämmelserna för åtgärder i allé på
+2022\) har beslutat medge dispens från biotopskyddsbestämmelserna för åtgärder i allé på
 
 fastigheterna Åsa 4:143, Åsa 5:248 och Åsa 5:149 som är förenat med villkor. Med villkoren
 begränsas skadorna på naturmiljön och kvarvarande biotopskyddsområde.
 
 Beslutet förenas med följande villkor.
 
-1. Träden från fastigheten Åsa 5:248 ska flyttas alternativt återplanteras till/på platser i
+1\. Träden från fastigheten Åsa 5:248 ska flyttas alternativt återplanteras till/på platser i
 samma allé längre norrut på fastigheten Åsa 4:143 i enlighet med ansökan.
-2. Åtgärderna, med undantag av återplantering, får endast ske mellan 1 september och 30
+2\. Åtgärderna, med undantag av återplantering, får endast ske mellan 1 september och 30
 april.
-3. I de fall träden avverkas på fastigheten Åsa 5:248 ska återplantering ske i enlighet med
+3\. I de fall träden avverkas på fastigheten Åsa 5:248 ska återplantering ske i enlighet med
 
 ansökan och punkterna a-d nedan.
 a) Återplantering ska ske med svenska (inhemska) arter av lövträd.
@@ -3845,17 +3845,17 @@ tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer med översiktsplanen enligt 4 kap. 33 §
 p.5 PBL. Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra
 allmänna intressen och bedömer, med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden, att ett antagande av detaljplanen inte kommer att prövas.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter.
 
-3. Trafikverket
+3\. Trafikverket
 Trafikverkets tidigare synpunkter kvarstår.
 
 Kommentar:
@@ -3935,7 +3935,7 @@ dialog att föras med berörda sakägare utifrån de frågor och behov som aktua
 
 Kommunala förvaltningar och nämnder
 
-6. Miljö & Hälsoskydd
+6\. Miljö & Hälsoskydd
 Vissa synpunkter som för dagvatten har arbetats in i planbeskrivningen som nu är på granskningen,
 men fortfarande kvarstår Miljö & Hälsoskyddssynpunkter kring förorenade områden och
 schaktmassor. Då det kan finnas föroreningar i marken vilket tidigare grävarbeten påvisat.
@@ -3955,7 +3955,7 @@ Yttrandet noteras. Genomförandebeskrivningen har kompletterats med information 
 
 Övriga
 
-7. Tele2
+7\. Tele2
 Befintliga optoledningar tillhörande Tele2 Sverige AB, Telenor och Global Connect ligger inom
 vägområdet. dessa ledningar är av samhällsviktig karaktär och skall hanteras vid ledningssamordning
 vid upptäckta konflikter med nya anläggningar. Vi har ledningar och andra anläggningar som berörs av
@@ -3973,7 +3973,7 @@ Yttrandet noteras och skickas vidare till förvaltningen för Teknik.
 KUNGSBACKA  KOMMUN
 5 (5)
 
-8. Ellevio
+8\. Ellevio
 Ellevio har inget att erinra.
 
 Ida Lennartsson                    Björn Vikström & Stina Wikström
@@ -4126,7 +4126,7 @@ Efter samråd har Kungsbacka kommun valt att ändra förfarande från ändring a
 ny detaljplan. Ny detaljplan kommer ersätta delar av gällande detaljplaner när ny detaljplan
 vinner laga kraft.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Planens genomförandetid framgår inte av plankartan, vilket det bör göra på grund av följande skäl:
 Kommunen ska enligt 4 kap 21 § PBL ange vilken genomförandetid som gäller för detaljplanen. Om
@@ -4157,7 +4157,7 @@ laga kraft. Planbeskrivningen har uppdaterats enligt Lantmäteriets yttrande.
 KUNGSBACKA  KOMMUN
 3 (5)
 
-3. Trafikverket
+3\. Trafikverket
 Trafikverket noterar att Åsa har en historik av problem med översvämningar vid kraftigt skyfall.
 Planområdet har viss kapacitet för att hantera större nederbördsmängder. Därför förväntas
 planförslaget ha en positiv påverkan på dagvattenhantering och översvämningsrisk.
@@ -4171,7 +4171,7 @@ Kungsbacka kommun noterar yttrandet.
 
 Organisationer och föreningar
 
-4. Åsa samfällighetsförening
+4\. Åsa samfällighetsförening
 
 Önskar att Kungsbacka kommun ser över om kommunen inte ska ta över hela bredden på Åsa
 Bäcksväg inklusive trottoaren. Detta gäller från Stenviksvägen och norrut inom planområdet.
@@ -4183,7 +4183,7 @@ för uppförande av dagvattenlösning.
 
 Kommunala förvaltningar och nämnder
 
-5. Miljö & Hälsoskydd
+5\. Miljö & Hälsoskydd
 Dagvatten
 Planförslaget anger att kommunen har för avsikt att anlägga nya dagvattenledningar från
 planområdet till utloppet i havet. Innan nya ledningar ska anläggas bör kommunen utreda var bästa
@@ -4229,13 +4229,13 @@ Yttrandet i övrigt noteras och skickas vidare till förvaltningen för Teknik f
 
 Övriga
 
-6. E.ON.
+6\. E.ON.
 
 E.ON Energidistribution AB har tagit del av inkomna handlingar i ovan rubricerat ärende och
 konstaterar att området inte berör vårt koncessionsområde för elnät och tar därmed inte ställning till
 planförslaget.
 
-7. Ellevio
+7\. Ellevio
 Vi har ledningar och andra anläggningar som berörs av planändringen. Ingen schaktning får ske inom
 2 meter från våra kablar eller andra anläggningar. Inför projektering av dagvattenanläggningarna kan
 
@@ -4257,7 +4257,7 @@ av exploatören.
 Kommentar:
 
 Yttrandet noteras och skickas i sin helhet vidare till förvaltningen för Teknik för information.
-8. Skanova
+8\. Skanova
 
 Skanova har inget att erinra mot detaljplanen. Skanovas teleanläggningar/rättigheter ser inte ut att
 påverkas av rubricerat planförslag.
@@ -5661,7 +5661,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -5681,20 +5681,20 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har gått igenom planförslagets handlingar (daterade 2026-05-29) och har inga
 synpunkter.
 
-3. Trafikverket
+3\. Trafikverket
 Trafikverket har inget att invända mot att planförslaget antas eftersom statlig infrastruktur inte är direkt
 berörd.
 
-4. Räddningstjänsten Storgöteborg
+4\. Räddningstjänsten Storgöteborg
 Räddningstjänsten har inget att erinra mot detaljplanen.
 
 Sakägare
 
-5. Fastighetsägare till Skällared 2:68
+5\. Fastighetsägare till Skällared 2:68
 
 Fastighetsägaren ifrågasätter att Gottskärsväg ska kunna belastas av mer trafik såsom detaljplanen
 inom Skällared 3:55 innebär. Vägen är alldeles för smal för två bilar att mötas och under
@@ -5707,7 +5707,7 @@ för bostadsbebyggelse inom Skällared 3:55 är ett eget planprojekt och fastigh
 kopplat till ökad trafik på grund av tillkommande bostäder inom Skällared 3:55 har därför ingen
 inverkan på detaljplan för del av Gottskärsvägen.
 
-6. Fastighetsägare till Skällared 3:45
+6\. Fastighetsägare till Skällared 3:45
 Fastighetsägaren anser att vägen redan är för hårt belastad och uttrycker oro över hur trafiksituationen
 ska bli under byggtiden för kommande bostäder vid hamnplan. Fastighetsägaren motsätter sig hela
 iden att tillåta mer trafik.
@@ -5728,10 +5728,10 @@ trafiksäkerhetshöjande åtgärderna på Gottskärsvägen kommer att genomföra
 KUNGSBACKA  KOMMUN
 3 (3)
 
-7. Fastighetsägare till Skällared 3:50
+7\. Fastighetsägare till Skällared 3:50
 Ja, förslag till detaljplan godkänns i dess nuvarande utförande.
 
-8. Fastighetsägaren till Skällared 3:52
+8\. Fastighetsägaren till Skällared 3:52
 Fastighetsägaren lyfter i sitt yttrande behov av att se över dagvattenhanteringen inom ett större område
 i Gottskär och att kommunen måste ta ansvar för detta. Dagvatten från vägområde och kommunens
 parkering norr om Gottskärsvägen måste tas om hand på ett ordnat sätt, med rening.
@@ -5750,13 +5750,13 @@ dagvatten men exakt lösning är inte bestämd.
 
 Kommunala förvaltningar och nämnder
 
-9. Miljö & hälsoskydd
+9\. Miljö & hälsoskydd
 Vid tidigare yttrande över planprogrammet framfördes om dagvatten. Synpunkterna har arbetats in i
 planbeskrivningen som nu är på granskning, Miljö & Hälsoskydd har inga synpunkter.
 
 Övriga
 
-10. Ellevio
+10\. Ellevio
 Ellevio lämnade synpunkter under samrådsskedet, vilka framgår av samrådsredogörelsen. De har för
 
 närvarande inga ytterligare synpunkter att tillägga.
@@ -5879,7 +5879,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer, med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -5903,7 +5903,7 @@ KUNGSBACKA  KOMMUN
 Länsstyrelsen delar kommunens bedömning att ett genomförande av detaljplanen inte kan antas
 
 medföra en betydande miljöpåverkan.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet uppmärksammar att fastigheten Skällared 3:45 felaktigt bedömts att inte omfattas av
 någon detaljplan. Vad Lantmäteriet kan se omfattas Skällared 3:45 av Byggnadsplan, beslutad 1960.
@@ -5916,7 +5916,7 @@ den kvartersmark som kommunen har för avsikt att reglera till angränsande fast
 Kommentar: Kommunen ser över beskrivningen av planförutsättningarna inom Skällared 3:45.
 
 Kommunen ser också över och justerar hanteringen av strandskydd i planförslaget.
-3. Statens geotekniska institut, SGI
+3\. Statens geotekniska institut, SGI
 
 SGI anser att områdets stabilitet behöver klarläggas, för delen i nordväst, i det fortsatta planarbetet.
 Krävs det åtgärder eller restriktioner ska dessa säkerställas i planen.
@@ -5929,12 +5929,12 @@ inte antas, innebär inte någon skillnad för markanvändningen. Däremot ger d
 förutsättningar för att utreda och åtgärda eventuella risker kopplat till användningen väg när
 kommunen är huvudman. Det är kommunens bedömning av de geotekniska förutsättningarna inom
 planområdet inte behöver utredas inför att detaljplanen antas.
-4. Trafikverket
+4\. Trafikverket
 
 Trafikverket har inget att invända mot att planförslaget antas eftersom statlig infrastruktur inte är direkt
 berörd.
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Räddningstjänsten har inget att erinra mot detaljplanen.
 
 <!-- sida 145 -->
@@ -5944,14 +5944,14 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-6. Skällared 2:4
+6\. Skällared 2:4
 Fastighetsägaren till Skällared 2:4 framför i sitt yttrande att Gottskärsvägen är hårt trafikerad och att
 säkerheten för gående och cyklister påverkas av detta. I yttrandet föreslås bland annat skyttelbuss för
 besökare sommartid, mellan Klaraplan och Hamnplan, för att öka trafiksäkerheten längs med sträckan.
 
 Kommentar: Detaljplanen innebär att kommunen blir huvudman för vägen vilket möjliggör att de av
 kommunen planerade trafiksäkerhetshöjande åtgärderna kan genomföras.
-7. Skällared 3:39
+7\. Skällared 3:39
 
 Fastighetsägaren till Skällared 3:39 lyfter i sitt yttrande den bristande trafiksäkerheten längs med
 Gottskärsvägen. Antalet fordon kommer att öka i och med byggnationen av bostäder inom Skällared
@@ -5960,7 +5960,7 @@ cyklisters villkor.
 
 Kommentar: Detaljplanen innebär att kommunen blir huvudman för vägen vilket möjliggör att de av
 kommunen planerade trafiksäkerhetshöjande åtgärderna kan genomföras.
-8. Skällared 3:50
+8\. Skällared 3:50
 
 Fastighetsägaren till Skällared 3:50 godkänner detaljplanen i sin helhet men passar på att
 uppmärksamma kommunen på den utformningsförslag av Gottskärsvägen som fanns med i förstudien
@@ -5969,7 +5969,7 @@ långsammare.
 Kommentar: Detaljplanen innebär att kommunen blir huvudman för vägen vilket möjliggör att de av
 kommunen planerade trafiksäkerhetshöjande åtgärderna kan genomföras.
 
-9. Skällared 3:52
+9\. Skällared 3:52
 
 Fastighetsägaren till Skällared 3:52 undrar hur direktutfarter till vägen ska ske från befintliga
 fastigheter. I yttrandet lyfts också vikten av att avleda dagvatten så att omkringliggande bebyggelse
@@ -5985,7 +5985,7 @@ vara kvar.
 KUNGSBACKA  KOMMUN
 4 (5)
 
-10. Skällared s:5, Onsala sockens skifteslag
+10\. Skällared s:5, Onsala sockens skifteslag
 Onsala sockens skifteslag, som äger Skällared s:5, lyfter i sitt yttrande vikten av att Gottskärsvägen
 även fortsättningsvis ska fungera för större fordon och båttransporter till och från hamnen.
 
@@ -5994,7 +5994,7 @@ behöver bibehållas även efter en ombyggnad av vägen.
 
 Kommunala förvaltningar och nämnder
 
-11. Teknik
+11\. Teknik
 Förvaltningen för Teknik är positiv till att kommunen tar över huvudmannaskapet på vägen och ser
 positivt på detaljplanen.
 
@@ -6008,7 +6008,7 @@ formellt hinder att vid behov bredda vägen i det läget, med exempelvis för en
 Dagvattenhantering kan ses över i samband med ombyggnaden av vägen. Förslag på hur hanteringen
 kan ske finns i förprojekteringen från 2021.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 Förvaltningen för Miljö & Hälsoskydd lyfter i sitt yttrande vikten av att dagvatten hanteras på ett sätt
 så att det orsakar skada och att dagvattnet behöver renas.
 
@@ -6024,20 +6024,20 @@ KUNGSBACKA  KOMMUN
 
 Övriga
 
-13. Ellevio
+13\. Ellevio
 Ellevio har lokalnätsanläggningar (11 kV och 0,4 kV) samt kabelskåp längs Gottskärsvägen. Dessa
 befintliga anläggningar ska beaktas i den fortsatta planeringen. Vid förändringar i omgivningen som
 kan påverka anläggningarna krävs en tidig dialog med Ellevio.
 
 Kommentar: Det är kommunens bedömning att detaljplanens genomförande inte innebär någon
 påverkan på Ellevios anläggningar.
-14. Skanova
+14\. Skanova
 
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet.
 
 Kommentar: Det är kommunens bedömning att detaljplanens genomförande inte innebär någon
 påverkan på Skanovas anläggningar.
-15. Föreningen Gottskärs hamn
+15\. Föreningen Gottskärs hamn
 
 Förningen Gottskärs hamn godkänner detaljplanen i sin helhet men passar på att uppmärksamma
 kommunen på behovet att även fortsättningsvis kunna komma fram till hamnen med lastbil och
@@ -6077,17 +6077,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.

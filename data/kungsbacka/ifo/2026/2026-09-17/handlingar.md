@@ -138,35 +138,35 @@ om bekämpning av våld mot kvinnor och våld i nära relationer
 (SOU 2026:34)
 
 Remissinstanser
-1.  Arbetsförmedlingen
+1\.  Arbetsförmedlingen
 
-2.  Arbetsgivarverket
-3.  Arbetsmiljöverket
+2\.  Arbetsgivarverket
+3\.  Arbetsmiljöverket
 
-4.  Arvika kommun
+4\.  Arvika kommun
 
-5.  Asylrättscentrum
-6.  Barnombudsmannen
+5\.  Asylrättscentrum
+6\.  Barnombudsmannen
 
-7.  Barnrättsbyrån
+7\.  Barnrättsbyrån
 
-8.  Barnens Rätt i Samhället
-9.  Brottsförebyggande rådet
+8\.  Barnens Rätt i Samhället
+9\.  Brottsförebyggande rådet
 
-10. Brottsofferjouren Sverige
+10\. Brottsofferjouren Sverige
 
-11. Brottsoffermyndigheten
-12. ChildX
+11\. Brottsoffermyndigheten
+12\. ChildX
 
-13. Diskrimineringsombudsmannen
-14. Domstolsverket
+13\. Diskrimineringsombudsmannen
+14\. Domstolsverket
 
-15. ECPAT Sverige
+15\. ECPAT Sverige
 
-16. Ekobrottsmyndigheten
-17. Enköpings kommun
+16\. Ekobrottsmyndigheten
+17\. Enköpings kommun
 
-18. Existera
+18\. Existera
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Rosenbad
@@ -174,190 +174,190 @@ Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
 
 <!-- sida 6 -->
 
-19. Falu kommun
+19\. Falu kommun
 
-20. Folkhälsomyndigheten
-21. Frälsningsarmén
+20\. Folkhälsomyndigheten
+21\. Frälsningsarmén
 
-22. Funktionsrätt Sverige
-23. Försäkringskassan
+22\. Funktionsrätt Sverige
+23\. Försäkringskassan
 
-24. Förvaltningsrätten i Malmö
+24\. Förvaltningsrätten i Malmö
 
-25. Förvaltningsrätten i Umeå
-26. Gnosjö kommun
+25\. Förvaltningsrätten i Umeå
+26\. Gnosjö kommun
 
-27. Google AB
+27\. Google AB
 
-28. Göteborgs kommun
-29. Helsingborgs kommun
+28\. Göteborgs kommun
+29\. Helsingborgs kommun
 
-30. Hovrätten för Västra Sverige
+30\. Hovrätten för Västra Sverige
 
-31. Huddinge kommun
-32. Hässleholms kommun
+31\. Huddinge kommun
+32\. Hässleholms kommun
 
-33. Inspektionen för vård och omsorg
-34. Institutet för mänskliga rättigheter
+33\. Inspektionen för vård och omsorg
+34\. Institutet för mänskliga rättigheter
 
-35. Integritetsskyddsmyndigheten
+35\. Integritetsskyddsmyndigheten
 
-36. Journalistförbundet
-37. Justitiekanslern
+36\. Journalistförbundet
+37\. Justitiekanslern
 
-38. Jämställdhetsmyndigheten
+38\. Jämställdhetsmyndigheten
 
-39. Kammarrätten i Stockholm
-40. Kriminalvården
+39\. Kammarrätten i Stockholm
+40\. Kriminalvården
 
-41. Kronofogdemyndigheten
-42. Kungsbacka kommun
+41\. Kronofogdemyndigheten
+42\. Kungsbacka kommun
 
-43. Landsorganisationen i Sverige
+43\. Landsorganisationen i Sverige
 
-44. Linköpings kommun
-45. Linköpings universitet, Barnafrid
+44\. Linköpings kommun
+45\. Linköpings universitet, Barnafrid
 
-46. Ljusdals kommun
+46\. Ljusdals kommun
 
-47. Lomma kommun
-48. Lunds universitet – juridiska fakulteten
+47\. Lomma kommun
+48\. Lunds universitet – juridiska fakulteten
 
 2 (6)
 
 <!-- sida 7 -->
 
-49. Luleå tingsrätt
+49\. Luleå tingsrätt
 
-50. Länsstyrelsen i Gotlands län
-51. Länsstyrelsen i Jönköpings län
+50\. Länsstyrelsen i Gotlands län
+51\. Länsstyrelsen i Jönköpings län
 
-52. Länsstyrelsen i Västernorrlands län
-53. Länsstyrelsen i Uppsala län
+52\. Länsstyrelsen i Västernorrlands län
+53\. Länsstyrelsen i Uppsala län
 
-54. Malmö kommun
+54\. Malmö kommun
 
-55. Medieombudsmannen
-56. Meta Sverige
+55\. Medieombudsmannen
+56\. Meta Sverige
 
-57. Migrationsverket
+57\. Migrationsverket
 
-58. Motala kommun
-59. Myndigheten för civilt försvar
+58\. Motala kommun
+59\. Myndigheten för civilt försvar
 
-60. Myndigheten för delaktighet
+60\. Myndigheten för delaktighet
 
-61. Myndigheten för familjerätt och föräldraskapsstöd
-62. Myndigheten för ungdoms- och civilsamhällesfrågor
+61\. Myndigheten för familjerätt och föräldraskapsstöd
+62\. Myndigheten för ungdoms- och civilsamhällesfrågor
 
-63. Nacka kommun
-64. Norrköpings tingsrätt
+63\. Nacka kommun
+64\. Norrköpings tingsrätt
 
-65. Nyköpings kommun
+65\. Nyköpings kommun
 
-66. Polismyndigheten
-67. Post- och telestyrelsen
+66\. Polismyndigheten
+67\. Post- och telestyrelsen
 
-68. Regelrådet
+68\. Regelrådet
 
-69. Region Dalarna
-70. Region Norrbotten
+69\. Region Dalarna
+70\. Region Norrbotten
 
-71. Region Stockholm
-72. Riksdagens ombudsmän (JO)
+71\. Region Stockholm
+72\. Riksdagens ombudsmän (JO)
 
-73. Riksförbundet Attention
+73\. Riksförbundet Attention
 
-74. Riksförbundet för homosexuellas, bisexuellas, transpersoners, queeras
+74\. Riksförbundet för homosexuellas, bisexuellas, transpersoners, queeras
 och intersexpersoners rättigheter
 
-75. Riksorganisationen för kvinno- och tjejjourer i Sverige
-76. Riksorganisationen GAPF – Glöm aldrig Pela och Fadime
+75\. Riksorganisationen för kvinno- och tjejjourer i Sverige
+76\. Riksorganisationen GAPF – Glöm aldrig Pela och Fadime
 
-77. Rädda barnen
+77\. Rädda barnen
 
 3 (6)
 
 <!-- sida 8 -->
 
-78. Rädda barnens ungdomsförbund
+78\. Rädda barnens ungdomsförbund
 
-79. Rättsmedicinalverket
-80. Skatteverket
+79\. Rättsmedicinalverket
+80\. Skatteverket
 
-81. Skellefteå kommun
-82. Snap Inc.
+81\. Skellefteå kommun
+82\. Snap Inc.
 
-83. Socialstyrelsen
+83\. Socialstyrelsen
 
-84. Solna kommun
-85. Somaya stödjour
+84\. Solna kommun
+85\. Somaya stödjour
 
-86. Statens beredning för medicinsk och social utvärdering
+86\. Statens beredning för medicinsk och social utvärdering
 
-87. Statens skolverk
-88. Statskontoret
+87\. Statens skolverk
+88\. Statskontoret
 
-89. Stiftelsen Allmänna Barnhuset
+89\. Stiftelsen Allmänna Barnhuset
 
-90. Stiftelsen 1000 Möjligheter
-91. Stockholms kommun
+90\. Stiftelsen 1000 Möjligheter
+91\. Stockholms kommun
 
-92. Stockholms tingsrätt
-93. Strängnäs kommun
+92\. Stockholms tingsrätt
+93\. Strängnäs kommun
 
-94. Svea hovrätt
+94\. Svea hovrätt
 
-95. Svenskt näringsliv
-96. Sveriges advokatsamfund
+95\. Svenskt näringsliv
+96\. Sveriges advokatsamfund
 
-97. Sveriges akademikers centralorganisation
+97\. Sveriges akademikers centralorganisation
 
-98. Sveriges domareförbund
-99. Sveriges kommuner och regioner
+98\. Sveriges domareförbund
+99\. Sveriges kommuner och regioner
 
-100. Sveriges kvinnoorganisationer
-101. Sveriges stadsmissioner
+100\. Sveriges kvinnoorganisationer
+101\. Sveriges stadsmissioner
 
-102. Säkerhetspolisen
+102\. Säkerhetspolisen
 
-103. Talita
-104. TechSverige
+103\. Talita
+104\. TechSverige
 
-105. Terrafem
+105\. Terrafem
 
-106. Tidningsutgivarna
-107. TikTok
+106\. Tidningsutgivarna
+107\. TikTok
 
 4 (6)
 
 <!-- sida 9 -->
 
-108. Timrå kommun
+108\. Timrå kommun
 
-109. Tjänstemännens centralorganisation
-110. Uddevalla kommun
+109\. Tjänstemännens centralorganisation
+110\. Uddevalla kommun
 
-111. Umeå kommun
-112. Umeå universitet – juridiska institutionen
+111\. Umeå kommun
+112\. Umeå universitet – juridiska institutionen
 
-113. Uppsala kommun
+113\. Uppsala kommun
 
-114. Universitets- och högskolerådet
-115. Unizon
+114\. Universitets- och högskolerådet
+115\. Unizon
 
-116. Uppsala universitet –Nationellt centrum för kvinnofrid
+116\. Uppsala universitet –Nationellt centrum för kvinnofrid
 
-117. Vara kommun
-118. Varbergs kommun
+117\. Vara kommun
+118\. Varbergs kommun
 
-119. Västerås kommun
+119\. Västerås kommun
 
-120. Västra Götalandsregionen
-121. Åklagarmyndigheten
+120\. Västra Götalandsregionen
+121\. Åklagarmyndigheten
 
-122. Åre kommun
-123. Örebro kommun
+122\. Åre kommun
+123\. Örebro kommun
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den
 26 oktober 2026. Svaren bör lämnas per e-post till
@@ -705,11 +705,11 @@ Vid förfall för övriga delegater
 
 Delegation till tjänsteperson får vid förfall för denne, utövas av
 
-1. annan delegat om det finns flera angivna.
-2. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
+1\. annan delegat om det finns flera angivna.
+2\. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet
 
-3. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
+3\. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 Fördelning av beslutanderätt
@@ -734,12 +734,12 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
-- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
-- Beslut att avge yttrande till högre instans med anledning av överklagande av
+\- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om ett utskott har fått delegation
 undertecknas handling som beslutet avser av utskottets ordförande och
 förvaltningschefen.
@@ -1457,9 +1457,9 @@ Nuvarande lydelse
 
 2.3.13 33 kap. 6 § SoL Beslut om att helt eller delvis efterge
 ersättningsskyldighet enligt 8 kap. 1 § SoL
-- Över ett halvt prisbasbelopp Utskott
-- Upp till ett halvt prisbasbelopp VC
-- Upp till 1/6 prisbasbelopp EC
+\- Över ett halvt prisbasbelopp Utskott
+\- Upp till ett halvt prisbasbelopp VC
+\- Upp till 1/6 prisbasbelopp EC
 
 Föreslagen lydelse
 
@@ -1467,9 +1467,9 @@ Föreslagen lydelse
 ersättning som avses i 32 kap. 2 § första eller andra
 stycket eller 3 § första stycket eller 33 kap. 1 – 3 §§
 SoL
-- Över ett halvt prisbasbelopp Utskott
-- Upp till ett halvt prisbasbelopp VC
-- Upp till 1/6 prisbasbelopp EC
+\- Över ett halvt prisbasbelopp Utskott
+\- Upp till ett halvt prisbasbelopp VC
+\- Upp till 1/6 prisbasbelopp EC
 
 Kommentar: I denna punkt hänvisar nuvarande delegeringsförteckning till den socialtjänstlag som
 gällde före 1 juli 2025. Således ett förbiseendefel som nu föreslås rättas till. Texten föreslås även att
@@ -1686,7 +1686,7 @@ trivsel och trevnad.
 I år finns det 17 045 kronor att fördela ur stiftelsen, förslaget är att dela ut samtliga 17 045 kronor. 17
 ansökningar har inkommit i år där fem ansökningar uppfyller kriterierna för utdelning ur stiftelsen år
 
-2026.
+2026\.
 Urval
 
 Vid urvalet har ansökningar där sökande har registrerade skulder hos Kronofogden, eller där
@@ -1816,7 +1816,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 55 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för familjerådgivning, vårdavgift, uppehälle vid vård och
 behandling för vuxna, egenavgift vid placering för vuxna som ej är av vård eller
@@ -1828,7 +1828,7 @@ kap. 6 § kommunallagen.
 Taxan tillämpas avseende insatser enligt socialtjänstlagen och kommunallagen i
 den utsträckning som närmare föreskrivs i nedanstående taxebestämmelser.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 2.1 Självkostnadsprincip, Kommunallagen
 
@@ -1868,20 +1868,20 @@ Kungsbacka kommun       Taxa för avgifter inom Individ & Familjeomsorg 2 (4)
 
 <!-- sida 56 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt är inkluderat i avgift för lunch i daglig verksamhet, för övriga taxor
 gäller momsfrihet.
 
-4. Taxetabell
+4\. Taxetabell
 
 I tabellen nedan framgår samtliga avgifter. Avgiften avrundas till närmaste enkrona.
 Avgifter som avser 2027 kommer att indexjusteras inför 2027.
 
-* Gäller ej placeringar enligt Lagen om vård av missbrukare eller vuxna på skyddat
+\* Gäller ej placeringar enligt Lagen om vård av missbrukare eller vuxna på skyddat
 boende
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Vårdavgift vid placerat barn följer Försäkringskassans nivå för underhållsbelopp
 vilket följer förändringar i prisbasbeloppet.
@@ -1903,8 +1903,8 @@ Kungsbacka kommun       Taxa för avgifter inom Individ & Familjeomsorg 3 (4)
 | --- | --- | --- | --- |
 | Familjerådgivning | 200 kronor per<br>samtal | 350 kronor per samtal | Indexjusteras inte.<br>Tidigare taxebeslut<br>har ej kunnat<br>återfinnas. |
 | Vårdavgift, placerat<br>barn | Underhållsstöd | Underhållsstöd | Tidigare taxebeslut<br>har ej kunnat<br>återfinnas. |
-| Uppehälle vid vård och<br>behandling, vuxen * | Tar ej ut avgift | 130 kronor per dygn enligt<br>regeringen beslutad<br>maxavgift. |  |
-| Egenavgift, ej vård och<br>behandling, vuxen * | Tar ej ut avgift | Enligt Taxa för Vård &<br>Omsorg; avgift för särskilt<br>boende utanför hyreslagen<br>samt avgift för<br>helabonnemang mat KF<br>2022-10-18 §159 | För 2026 är avgiften:<br>91 kronor per dygn för<br>boende samt 149<br>kronor per dygn för<br>måltider. |
+| Uppehälle vid vård och<br>behandling, vuxen \* | Tar ej ut avgift | 130 kronor per dygn enligt<br>regeringen beslutad<br>maxavgift. |  |
+| Egenavgift, ej vård och<br>behandling, vuxen \* | Tar ej ut avgift | Enligt Taxa för Vård &<br>Omsorg; avgift för särskilt<br>boende utanför hyreslagen<br>samt avgift för<br>helabonnemang mat KF<br>2022-10-18 §159 | För 2026 är avgiften:<br>91 kronor per dygn för<br>boende samt 149<br>kronor per dygn för<br>måltider. |
 | Lunch, daglig<br>verksamhet | 66 kronor per lunch | 55 kronor per lunch |  |
 | Avgift för<br>korttidsvistelse samt<br>personer över 18 år<br>placerade på<br>gymnasieinternat enligt<br>LSS eller SOL | 128 kronor per dygn | Enligt Taxa för Vård &<br>Omsorg; Kostnad mat<br>korttidsplats, KF 2022-10-<br>18 §159 | För 2026 är avgiften<br>149 kr per dygn |
 
@@ -1912,7 +1912,7 @@ Kungsbacka kommun       Taxa för avgifter inom Individ & Familjeomsorg 3 (4)
 
 Nämnden för Individ & Familjeomsorg ansvarar för att årligen räkna om beloppen i
 taxan. Ändringarna ska redovisas till kommunfullmäktige.
-6. Övergångsbestämmelser
+6\. Övergångsbestämmelser
 
 Taxan tillämpas för samtliga nya och pågående ärenden från och med
 ikraftträdandedatum av taxan.
@@ -1931,7 +1931,7 @@ Förvaltningen för Individ & Familjeomsorg
 
 <!-- sida 59 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 Det finns idag inget taxedokument som redogör för samtliga gällande taxor sedan Individ &
 Familjeomsorg och Funktionsstöd blev en förvaltning. Syftet med utredningen är att ta fram
@@ -1943,7 +1943,7 @@ Omsorg fram ett samlat taxedokument för samtliga avgifter rörande de insatser 
 Omsorg ansvarar för, inom ramen för Vård & Omsorgs avgifter ingår även tjänster som utförs
 inom Individ & Familjeomsorg.
 
-2. Nämnden    för Individ &  Familjeomsorgs    taxor och
+2\. Nämnden    för Individ &  Familjeomsorgs    taxor och
 
 avgifter
 
@@ -2275,11 +2275,11 @@ tilläggsyrkande och finner detta bifallet.
 
 BESLUT
 
-- Avgiften för korttidsvistelse med stöd av LSS fastställs till 86 kronor/dygn
+\- Avgiften för korttidsvistelse med stöd av LSS fastställs till 86 kronor/dygn
 fr o m 2004-02-01.
 
-- Avgiften anpassas årligen i enlighet med prisbasbeloppets förändringar.
-_______
+\- Avgiften anpassas årligen i enlighet med prisbasbeloppets förändringar.
+\_\_\_\_\_\_\_
 
 Utdrag:
 NHO
@@ -2458,15 +2458,15 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
 
 Vi har arbetat med att utveckla och tillämpa arbetssättet Bostad först, där personer i hemlöshet erbjuds ett eget
 boende utan krav på nykterhet och drogfrihet. Fokuset är att personen erbjuds en trygg bostad– därefter stöd för
@@ -2484,7 +2484,7 @@ Tillgång till ändamålsenliga lokaler för våra hyresgäster med beslut om bo
 förutsättning för att kunna erbjuda insatser utifrån behov. Under våren har planering genomförts för att under
 2027 kunna flytta in i Kyvikshus där vi kommer vara samlokaliserade med hemtjänst och hemsjukvård från
 Vård & Omsorg (VO). Utformning av lokaler och utemiljö pågår nu.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Arbetet med att säkerställa en god och trygg omsorg går hand i hand med vårt arbete att vara en hållbar
 socialtjänst nu och i framtiden. Under året har fokus fortsatt varit att utveckla vårt tidiga och förebyggande
@@ -2744,11 +2744,11 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -2817,7 +2817,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -2827,23 +2827,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 73 %   75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 86 %   88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Total debiterad vattenförbrukning fördelat på
 antal anslutna till vattenledningsnätet. (Här
 ingår förbrukning från hushåll, kommunen
@@ -2867,7 +2867,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 115   151
@@ -2886,8 +2886,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -2970,8 +2970,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 11
 
@@ -3062,10 +3062,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg

@@ -200,9 +200,9 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 tillsammans med bifogade handlingar.
 
 Förvaltningen redovisar:
-- ett överskott på driftbudgeten om +1,5 miljoner kronor
+\- ett överskott på driftbudgeten om +1,5 miljoner kronor
 
-- ett överskott på investeringsbudgeten om +18,1 miljoner kronor
+\- ett överskott på investeringsbudgeten om +18,1 miljoner kronor
 
 Beslutsunderlag
 
@@ -544,7 +544,7 @@ Nämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Karl Persson, förvaltningschef, informerar nämnden om konferensen Folk & Kultur,
-#tryggdigitaluppväxt, mötesplatsen i Kyvik, politiska debatter på biblioteken och
+\#tryggdigitaluppväxt, mötesplatsen i Kyvik, politiska debatter på biblioteken och
 aktualiteter.
 
 Beslutsunderlag

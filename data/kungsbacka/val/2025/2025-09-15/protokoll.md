@@ -231,10 +231,10 @@ Sammanfattning av ärendet
 Under perioden 13 maj - 15 september har följande skrivelser inkommit till
 valnämnden:
 
-- Information från Valmyndigheten
-- Valmyndighetens nyhetsutskick v. 21
+\- Information från Valmyndigheten
+\- Valmyndighetens nyhetsutskick v. 21
 
-- Hemställan till Valnämnden om samdistribution av valsedlar
+\- Hemställan till Valnämnden om samdistribution av valsedlar
 
 Beslutsgång
 

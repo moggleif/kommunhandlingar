@@ -255,8 +255,8 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 att besluta i stället, så kallad vidaredelegering (kommunallagen 7 kap. 6 §). Delegering ska då ske i två
 
 steg;
-1) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+1\) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 Kommunstyrelsens delegeringsförteckning uppdaterades senast den 20 februari 2024 och därefter
 kommundirektörens vidaredelegering den 18 mars 2024.
@@ -390,7 +390,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 2.3 Personal........................................................................................................ 12
@@ -438,13 +438,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -478,13 +478,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -494,9 +494,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -572,7 +572,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (20)
 
 <!-- sida 19 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -616,7 +616,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | 2.1.14 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system. | Bitr. kdir |  | Avser kommungemensamma<br>tjänster och system som används<br>av kommunens samtliga<br>nämnder. Kommungemensamma<br>system som stödjer<br>kommungemensamma<br>stödprocesser som utförs av<br>Service eller kommunstyrelsen<br>enligt reglemente omfattas inte. |
 | 2.1.15 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal<br>för digital tjänst eller system som ska användas<br>gemensamt med en eller flera andra nämnder. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. | Fullmakt får ges till tjänsteman<br>som ska vara systemägare för<br>tjänsten eller systemet. |
 | 2.1.14 6 | Regler för<br>arvoden till<br>förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
-| 2.1.15 7 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 7 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 8 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 22 -->
@@ -818,12 +818,12 @@ planeringsstimulans som kan sökas från den 2 april 2024 till den 1 oktober 202
 
 Stöd kan ges till en kommun som efter den 31 december 2023 antar en detaljplan
 som gör det möjligt att:
-- bygga småhus, och som för det ändamålet omfattar minst 5 000 kvadratmeters
+\- bygga småhus, och som för det ändamålet omfattar minst 5 000 kvadratmeters
 
 kvartersmark eller,
-- omvandla lokalarea till boarea eller,
+\- omvandla lokalarea till boarea eller,
 
-- både bygga småhus (och som för det ändamålet omfattar minst 5 000
+\- både bygga småhus (och som för det ändamålet omfattar minst 5 000
 kvadratmeter kvartersmark) och omvandla lokalarea till boarea.
 Stödet riktar sig enbart till kommuner. Det innebär att kommunala bolag eller privata
 aktörer inte kan beviljas stöd. Stöd får ges med högst 15 000 kronor för varje nytt
@@ -1320,10 +1320,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
 
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2024–31 maj 2025.
 
@@ -1502,12 +1502,12 @@ Ingela Nord Lindroth
 Ärende Tillämpning av avvikelse inom personlig assistans och
 lägerverksamhet
 
-$ I Förhandling har påkallats av Kungsbacka kommun enligt
+\$ I Förhandling har påkallats av Kungsbacka kommun enligt
 MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -1552,9 +1552,9 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning läggs in som en stående punkt.
 
-$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
-$ 4 Förhandlingen förklarades avslutad vid dagen datum.
+\$ 4 Förhandlingen förklarades avslutad vid dagen datum.
 
 Justeras den 2024-05-15
 
@@ -1719,7 +1719,7 @@ Klarinettens förskola är lokaliserad inom fastigheterna Fors 1:230 och Fors 1:
 Sedan renoveringen av byggnaden 2018 har Förskola & Grundskola endast bedrivit
 verksamhet i mindre omfattning i lokalerna. Detta fick till följd att byggnaden
 återlämnades till kommunstyrelsens förvaltning av nämnden för Service i december
-2022.
+2022\.
 
 Det innebär att kommunstyrelsen har ansvaret att besluta om fastigheterna och dess
 byggnader när det inte längre finns behov av dem som kommunal verksamhetslokal.
@@ -2244,7 +2244,7 @@ potential att öka kollektivtrafikresandet i denna del av Kungsbacka kommun efte
 trafikförsörjer tätorter med stora resandeströmmar som idag görs med bil. Därför ser Kungsbacka
 
 kommun att utbudet behöver stärkas med exempelvis Metrobussar, till och från, Göteborg utmed väg
-158. Behovet behöver synliggöras tydligt i den kommande revideringen av Region Hallands
+158\. Behovet behöver synliggöras tydligt i den kommande revideringen av Region Hallands
 Trafikförsörjningsprogram. När fler ges möjlighet att välja en attraktiv kollektivtrafik stärks
 framkomligheten för alla trafikslag och på totalen bidrar detta till en reducerad ökningstakt av
 trafikflödena både lokalt och regionalt.
@@ -2300,14 +2300,14 @@ SIDA | 2
 
 INNEHÅLL
 
-1. Inledning .................................................................................................................................................... 4
+1\. Inledning .................................................................................................................................................... 4
 
 Sammanfattning........................................................................................................................................ 4
 Hur kollektivtrafiken fungerar i Halland ................................................................................................ 5
 
 Kollektivtrafikens styrande dokument ................................................................................................... 5
 
-2. Planeringsförutsättningar ....................................................................................................................... 7
+2\. Planeringsförutsättningar ....................................................................................................................... 7
 Halland växer mitt i ett växande sydvästsverige .................................................................................. 7
 
 En boenderegion med stor arbetskraftsrörlighet ................................................................................ 8
@@ -2318,7 +2318,7 @@ Utsläppen från transportsektorn behöver minska ..............................
 Möjlighet till distansarbete påverkar resbehoven .............................................................................. 10
 Hallänningarnas tillgång till kollektivtrafik .......................................................................................... 11
 
-3. Mål för kollektivtrafiken ......................................................................................................................... 13
+3\. Mål för kollektivtrafiken ......................................................................................................................... 13
 Övergripande mål ................................................................................................................................... 13
 
 Agenda 2030 ........................................................................................................................................ 13
@@ -2334,7 +2334,7 @@ Självfinansieringsgrad ........................................................
 
 Miljö....................................................................................................................................................... 21
 
-4. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 22
+4\. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 22
 Genomförda trafikförändringar i tidigare Kollektivtrafikplaner, urval ............................................ 22
 
 Process för upprättande av Kollektivtrafikplan .................................................................................. 23
@@ -2353,7 +2353,7 @@ SIDA | 3
 
 Infrastruktur ............................................................................................................................................ 41
 
-5. Särskild kollektivtrafik ............................................................................................................................ 42
+5\. Särskild kollektivtrafik ............................................................................................................................ 42
 Färdtjänst, sjukresor och skolskjuts med personbil ........................................................................... 42
 
 Planeringsförutsättningar .................................................................................................................. 42
@@ -2367,7 +2367,7 @@ Måluppfyllnad .................................................................
 Verksamhetsutveckling ...................................................................................................................... 49
 Långsiktig plan för tidtabellskiften ................................................................................................... 49
 
-6. Bilagor ...................................................................................................................................................... 51
+6\. Bilagor ...................................................................................................................................................... 51
 Bilaga 1: Nyckeltal för den allmänna kollektivtrafiken ....................................................................... 51
 
 Antal resor och produktion per linje 2023 ....................................................................................... 51
@@ -2379,7 +2379,7 @@ Bilaga 2: Infrastruktur 2023 ...................................................
 
 SIDA | 4
 
-1. INLEDNING
+1\. INLEDNING
 
 SAMMANFATTNING
 
@@ -2504,7 +2504,7 @@ färdmedel.
 
 SIDA | 7
 
-2. PLANERINGSFÖRUTSÄTTNINGAR
+2\. PLANERINGSFÖRUTSÄTTNINGAR
 
 HALLAND VÄXER MITT I ETT VÄXANDE SYDVÄSTSVERIGE
 
@@ -2750,7 +2750,7 @@ regelbundna avgångar inkluderas. Källa: SCB
 
 SIDA | 13
 
-3. MÅL FÖR KOLLEKTIVTRAFIKEN
+3\. MÅL FÖR KOLLEKTIVTRAFIKEN
 
 ÖVERGRIPANDE MÅL
 
@@ -2809,7 +2809,7 @@ KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SA
 Mål                      Indikatorer         Följs upp i
 Kollektivtrafikens marknadsandel av Resandestatistik Kollektivtrafikplanen
 totalt resande ska vara minst 30% år
-2030.
+2030\.
 Kollektivtrafiken ska bidra till positiv Skattekraft, Uppföljning till
 ekonomisk utveckling genom att bidra till Flyttningsöverskott från Tillväxtstrategin
 tillväxt genom arbetsmarknadsförstoring övriga Sverige till Hallands
@@ -2871,8 +2871,8 @@ Nöjdhet (%)
 ```
 
 Självfinansieringsgrad (%) 55,9 33,4 37,4 52,9 51,9 53,0 60,0
-Fossilfria bränslen (%)* 99,6 99,8 100 100   100   100   100
-*exklusive Krösatåg
+Fossilfria bränslen (%)\* 99,6 99,8 100 100   100   100   100
+\*exklusive Krösatåg
 
 MARKNADSANDEL
 Marknadsandelen uppgick till 16,2 procent under 2023 vilket är högre än 2022 på 15,8 procent.
@@ -2951,7 +2951,7 @@ SIDA | 17
 dubbelspår mellan Ängelholm och Maria, med påverkan då det under en längre period krävdes
 byte till buss för resor till och från Helsingborg.
 Av totalen om 7,7 miljoner tågresor står Öresundståg för 4,5 miljoner resor vilket är i paritet med
-2022.
+2022\.
 
 Resandet med Västtåg mellan Kungsbacka och Göteborg (Kungsbackapendeln) mäts från och
 med 2017 med kundräkningssystem. Kundräkningssystemet innebär att det finns sensorer i varje
@@ -3163,7 +3163,7 @@ Andel körda kilometer med fossilfria bränslen
 
 SIDA | 22
 
-4. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
+4\. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
 
 GENOMFÖRDA TRAFIKFÖRÄNDRINGAR I TIDIGARE KOLLEKTIVTRAFIKPLANER, URVAL
 
@@ -3869,7 +3869,7 @@ En effektiv åtgärd mot kapacitetsbrist är att köra med längre och mer kapac
 Fordonslängden på dagens bussar är cirka 15 meter. Hallandstrafiken har tillsammans med
 Västtrafik och berört trafikföretag genomfört en testkörning med ledbussar på linjerna 731 och
 
-734. Sträckor som omfattas är centrala delar av Kungsbacka tätort, väg 158, Valldavägen, Gathes
+734\. Sträckor som omfattas är centrala delar av Kungsbacka tätort, väg 158, Valldavägen, Gathes
 
 <!-- sida 107 -->
 
@@ -3947,7 +3947,7 @@ En fullständig lista över de återstående hållplatslägen som ännu inte har
 presenterad i bilaga 2.
 
 Återstående antal hållplatslägen att bygga om till 2025 (inventerat senhösten
-2023)
+2023\)
 Falkenberg Halmstad Hylte Kungsbacka Laholm Varberg Totalt
 
 ```osaker-tabell
@@ -3963,7 +3963,7 @@ Summa/kommun   58     113     7     100     17    69    364
 
 SIDA | 42
 
-5. SÄRSKILD KOLLEKTIVTRAFIK
+5\. SÄRSKILD KOLLEKTIVTRAFIK
 
 FÄRDTJÄNST, SJUKRESOR OCH SKOLSKJUTS MED PERSONBIL
 
@@ -4275,7 +4275,7 @@ måndag:                     måndag:
 
 SIDA | 51
 
-6. BILAGOR
+6\. BILAGOR
 
 BILAGA 1: NYCKELTAL FÖR DEN ALLMÄNNA KOLLEKTIVTRAFIKEN
 
@@ -4312,21 +4312,21 @@ BILAGA 2: INFRASTRUKTUR 2023
 ÅTERSTÅENDE HÅLLPLATSLÄGEN FÖR TILLGÄNGLIGHETSANPASSNING
 
 Uppdaterad senhösten 2023. Bokstaven efter hållplatsnamnet är lägesbeteckningen.
-* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
+\* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
 plattläggning.
 
 LAHOLM
 
 På Trafikverkets väg:      På kommunal väg:
 Laholm Brandstationen A    Laholm Altona A
-Laholm Brandstationen B    L aholm Blåkulla A*
-Veinge station A*          Laholm Blåkulla B
+Laholm Brandstationen B    L aholm Blåkulla A\*
+Veinge station A\*          Laholm Blåkulla B
 Laholm bussterminal B
 
 Laholm bussterminal C
 Laholm bussterminal D
 Laholm bussterminal E
-Laholm Glänninge vårdcentral A*
+Laholm Glänninge vårdcentral A\*
 Laholm Grönkulla B
 Laholm Industrigatan A
 
@@ -4347,7 +4347,7 @@ På Trafikverkets väg:
 
 Getingeskolan A             Sennan A
 Getingeskolan B             Sennan B
-Haverdalsbro A *            Skipås A
+Haverdalsbro A \*            Skipås A
 Kvibille A                  Trönninge A
 Kvibille B                  Åled Kullavägen A
 Nissaström A                Åled Kullavägen B
@@ -4377,13 +4377,13 @@ Halmstad Bäckagårdsvägen C Halmstad Kolastigen B
 Halmstad Bäckagårdsvägen D Halmstad Kvarnbacken A
 Halmstad Cirkusplatsen A   Halmstad Kvarnbacken B
 Halmstad Cirkusplatsen C   Halmstad Kvarnbacken C
-Halmstad Flygaregatan B *  Halmstad Kärleken A
+Halmstad Flygaregatan B \*  Halmstad Kärleken A
 Halmstad Flygplats A       Halmstad Larsfridsvägen A
 
-Halmstad Flygstaden A *    Halmstad Larsfridsvägen B
-Halmstad Flygstaden B *    Halmstad Lasarettsvägen B *
+Halmstad Flygstaden A \*    Halmstad Larsfridsvägen B
+Halmstad Flygstaden B \*    Halmstad Lasarettsvägen B \*
 Halmstad Fogdegatan B      Halmstad Linehed A
-Halmstad Frennarp A        Halmstad Linehed B *
+Halmstad Frennarp A        Halmstad Linehed B \*
 Halmstad Frennarpsvägen A  Halmstad Lummervägen B
 Halmstad Frennarpsvägen B  Halmstad Magnus Stenbocks väg A
 
@@ -4402,8 +4402,8 @@ Halmstad Pihlgården B      Halmstad Varpvägen B
 
 Halmstad Pumpvägen A       Halmstad Väktarevägen A
 Halmstad Skyttevägen A     Halmstad Väktarevägen B
-Halmstad Slottsjordsskolan A Halmstad Åttingsstigen A *
-Halmstad Slottsjordsskolan B Halmstad Åttingsstigen B *
+Halmstad Slottsjordsskolan A Halmstad Åttingsstigen A \*
+Halmstad Slottsjordsskolan B Halmstad Åttingsstigen B \*
 Halmstad Slottsparken B    Halmstad Örlogsvägen A
 Halmstad Sofieberg A       Halmstad Örlogsvägen B
 Halmstad Sofieberg B       Halmstad Östergård A
@@ -4428,11 +4428,11 @@ Spenshult Övre A
 HYLTE
 
 På Trafikverkets väg       På kommunal väg:
-Hyltebruk Bruket A*        Hyltebruk Sjukstugan A
-Hyltebruk Bruket B*        Hyltebruk Sjukstugan B
+Hyltebruk Bruket A\*        Hyltebruk Sjukstugan A
+Hyltebruk Bruket B\*        Hyltebruk Sjukstugan B
 Rydöbruk A
 Rydöbruk B
-Unnaryd A*
+Unnaryd A\*
 
 På enskild väg:
 Inget att bygga om
@@ -4444,17 +4444,17 @@ SIDA | 57
 FALKENBERG
 
 På Trafikverkets väg
-Falkenberg Smedjeholm A *   Morup B
-Falkenberg Smedjeholm B *   Morups Tånge A
+Falkenberg Smedjeholm A \*   Morup B
+Falkenberg Smedjeholm B \*   Morups Tånge A
 Glommen Galtåsvägen A       Morups Tånge B
 Glommen Galtåsvägen B       Olofsbo södra A
 
-Glommen Sammels väg A *     Olofsbo södra B
-Glommen Sammels väg B *     Ryssa kvarn A
+Glommen Sammels väg A \*     Olofsbo södra B
+Glommen Sammels väg B \*     Ryssa kvarn A
 Hebergs skola A             Ryssa kvarn B
-Hebergs skola B             Torsåsen A *
+Hebergs skola B             Torsåsen A \*
 Köinge A                    Torsåsen B
-Köinge B                    Vessigebro Stationsgatan B.*
+Köinge B                    Vessigebro Stationsgatan B.\*
 
 M orup A
 
@@ -4468,8 +4468,8 @@ Falkenberg Herting A        Falkenberg Ljungholmsvägen A
 Falkenberg Herting B        Falkenberg Ljungholmsvägen B
 Falkenberg Hertings kyrka A Falkenberg Sandslättsvägen A
 Falkenberg Hertings kyrka B Falkenberg Sandslättsvägen B
-Falkenberg Hjortsberg B *   Skogstorp Bånga A
-Falkenberg Krukmakaregatan A * S kogstorp Bånga B
+Falkenberg Hjortsberg B \*   Skogstorp Bånga A
+Falkenberg Krukmakaregatan A \* S kogstorp Bånga B
 
 På enskild väg:
 Fegen A                     Skogstorpsskolan A
@@ -4478,7 +4478,7 @@ Långås B                    Slöinge Göteborgsvägen B
 Skogstorp Humlevägen A      Ullared Apelskolan A
 Skogstorp Humlevägen B      Ätran A
 
-Skogstorp Hyacintvägen B *  Ätran Stationsvägen A
+Skogstorp Hyacintvägen B \*  Ätran Stationsvägen A
 Skogstorp Prästkragevägen A Ätran Stationsvägen B
 Skogstorp Prästkragevägen B Ä transkolan A
 
@@ -4493,19 +4493,19 @@ Bua Pingstkyrkan A          Ringhals A
 Bua Pingstkyrkan B          Ringhals B
 Bua skola A                 Tvååker Grusvägen A
 Bua skola B                 Tvååker Grusvägen B
-Lillebacka A                Tvååker Munkagårdsgymnasiet A *
-Lillebacka B                Tvååker Munkagårdsgymnasiet B *
+Lillebacka A                Tvååker Munkagårdsgymnasiet A \*
+Lillebacka B                Tvååker Munkagårdsgymnasiet B \*
 
 Limabacka Brandstation A    Väröbacka A
-L imabacka Brandstation B   Väröbacka B *
+L imabacka Brandstation B   Väröbacka B \*
 
 På kommunal väg:
-Jonstaka A *                Varberg Bolmen B
-Jonstaka B *                Varberg Breared A
+Jonstaka A \*                Varberg Bolmen B
+Jonstaka B \*                Varberg Breared A
 Kuragård, A                 Varberg Breared B
 
 Kuragård, B                 Varberg Brunnsberg södra A
-Lindbergs skola, A *        Varberg Brunnsberg södra B
+Lindbergs skola, A \*        Varberg Brunnsberg södra B
 Strandbackavägen A          Varberg Håstens torg A
 Träslövsläge Fiskebåtsvägen A Varberg Håstens torg B
 Träslövsläge Fiskebåtsvägen B Varberg Håstensskolan A
@@ -4513,10 +4513,10 @@ Träslövsläge Jungmansvägen C Varberg Håstensskolan B
 
 Träslövsläge Jungmansvägen D Varberg Karlbergsvägen A
 Träslövsläge Hajvägen A     Varberg Karlbergsvägen B
-Träslövsläge Pilagårdsvägen A Varberg Lassabacka norra B *
+Träslövsläge Pilagårdsvägen A Varberg Lassabacka norra B \*
 Träslövsläge Pilagårdsvägen B Varberg Lassabacka södra A
-Träslövsläge Relingvägen A  Varberg Lindbergsvägen A *
-Träslövsläge Relingvägen B  Varberg Lindbergsvägen B *
+Träslövsläge Relingvägen A  Varberg Lindbergsvägen A \*
+Träslövsläge Relingvägen B  Varberg Lindbergsvägen B \*
 Träslövsläge Segelvägen A   Varberg Peder Skrivares skola A
 
 Träslövsläge Segelvägen B   Varberg Peder Skrivares skola B
@@ -4526,7 +4526,7 @@ Träslövsläge Tallåsen A     Varberg Polishuset B
 Träslövsläge Tallåsen B     Varberg S:t Jörgens kapell A
 Varberg Birger Svenssons väg A Varberg S:t Jörgens kapell B
 
-Varberg Birger Svenssons väg B V arberg Sjukhuset A *
+Varberg Birger Svenssons väg B V arberg Sjukhuset A \*
 V arberg Bolmen A
 
 <!-- sida 126 -->
@@ -4567,12 +4567,12 @@ Kullavik A
 Kullavik B
 Kullaviksvägen A
 Kullaviksvägen B
-Leksandsgården A *
-Leksandsgården B *
-Onsala kyrka A *
-Onsala kyrka B *
+Leksandsgården A \*
+Leksandsgården B \*
+Onsala kyrka A \*
+Onsala kyrka B \*
 
-Onsala kyrka C *
+Onsala kyrka C \*
 
 <!-- sida 127 -->
 
@@ -4585,32 +4585,32 @@ Kungsbacka Basunvägen B     Kungsbacka station B
 Kungsbacka Bengtsgårdsgatan B Kungsbacka station C
 Kungsbacka Fors A           Kungsbacka station D
 Kungsbacka Gårdskulla A     Kungsbacka station E
-Kungsbacka Gårdskulla B *   Kungsbacka station F
+Kungsbacka Gårdskulla B \*   Kungsbacka station F
 Kungsbacka Hede station A   Kungsbacka station G
-Kungsbacka Hede station B * Kungsbacka station H
-Kungsbacka Hede station C * Kungsbacka station J
+Kungsbacka Hede station B \* Kungsbacka station H
+Kungsbacka Hede station C \* Kungsbacka station J
 
-Kungsbacka Hedebrovägen A * Kungsbacka station K
-Kungsbacka Hedebrovägen B * Kungsbacka station L
+Kungsbacka Hedebrovägen A \* Kungsbacka station K
+Kungsbacka Hedebrovägen B \* Kungsbacka station L
 Kungsbacka Kungsmässan A    Kungsbacka station M
 Kungsbacka Basunvägen A     Kungsbacka Stora Bäcksleden A
-Kungsbacka Basunvägen B     Kungsbacka Stora Bäcksleden B *
-Kungsbacka Bengtsgårdsgatan B Kungsbacka Tölö kyrka C *
+Kungsbacka Basunvägen B     Kungsbacka Stora Bäcksleden B \*
+Kungsbacka Bengtsgårdsgatan B Kungsbacka Tölö kyrka C \*
 
-Kungsbacka Smeagatan A      K ungsbacka Varlaskolan C *
+Kungsbacka Smeagatan A      K ungsbacka Varlaskolan C \*
 
 På enskild väg:
-Fjärås Bräckaskolan A *     Gottskär A
-Fjärås Bräckaskolan B *     Gällingeskolan A
-Fjärås Bräckaskolan C *     Kullaviks hamn A
-Fjärås Bräckaskolan D *     Toråsskolan A
+Fjärås Bräckaskolan A \*     Gottskär A
+Fjärås Bräckaskolan B \*     Gällingeskolan A
+Fjärås Bräckaskolan C \*     Kullaviks hamn A
+Fjärås Bräckaskolan D \*     Toråsskolan A
 
-Fjärås Bräckaskolan E *     Toråsskolan B
-Fjärås Bräckaskolan F *     Toråsskolan C
+Fjärås Bräckaskolan E \*     Toråsskolan B
+Fjärås Bräckaskolan F \*     Toråsskolan C
 Fjärås Smedingeskolan A     Toråsskolan D
-Fjärås Smedingeskolan B     Åsaskolan A *
-Fjärås Smedingeskolan C     Åsaskolan B *
-Fjärås Smedingeskolan D     Åsaskolan C *
+Fjärås Smedingeskolan B     Åsaskolan A \*
+Fjärås Smedingeskolan C     Åsaskolan B \*
+Fjärås Smedingeskolan D     Åsaskolan C \*
 
 Fjärås Smedingeskolan E     Älskogsbräcka B
 Fjärås Smedingeskolan F     Älvsåkers skola A
@@ -4645,12 +4645,12 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
 
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället.
 
 Beslutsunderlag
@@ -4700,13 +4700,13 @@ sina egna resurser samt hur de statliga medlen, som fördelas enligt kultursamve
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
 
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
 
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället.
 
 Beslutsunderlag
@@ -4938,13 +4938,13 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna:
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 
 Mål: Halland – en plats där kultur präglar samhället
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra
@@ -5133,11 +5133,11 @@ sina egna resurser samt hur de statliga medlen, som fördelas enligt kultursamve
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället
 
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra och relevanta.
@@ -5251,15 +5251,15 @@ för hållbar tillväxt, Hallands hälso- och sjukvårdsstrategi samt Hallands k
 
 H allands kulturstrategi har tre övergripande kulturpolitiska mål:
 
--  Halland – en dynamisk och modig plats för kultur
--  Halland – en plats där alla kan delta i kulturlivet
--  Halland – en plats där kultur präglar samhället.
+\-  Halland – en dynamisk och modig plats för kultur
+\-  Halland – en plats där alla kan delta i kulturlivet
+\-  Halland – en plats där kultur präglar samhället.
 
 De kulturpolitiska målen är kopplade till varsitt strategiskt utvecklingsområde:
--  Konstnärligt skapande
+\-  Konstnärligt skapande
 
--  Engagerande kulturliv för alla
--  Kultur som samhällskraft
+\-  Engagerande kulturliv för alla
+\-  Kultur som samhällskraft
 
 Kulturstrategin gäller 2025–2032 och konkretiseras i två fyraåriga kulturplaner. Detta är
 den första.
@@ -5494,7 +5494,7 @@ Samverkan mellan politikområden
 Kulturen är en självklar del av samhället. När kulturen samverkar med andra
 politikområden skapas utvecklingskraft som uppfyller mål inom flera områden:
 
--  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
+\-  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
 kulturskapare att försörja sig och en näringslivssatsning som skapar hållbar tillväxt,
 
 15 Centrumbildningarna består just nu av Centrum för dramatik, Centrum för fotografi, Cirkuscentrum, Danscentrum,
@@ -5505,20 +5505,20 @@ Seriefrämjandet, Teatercentrum samt Översättarcentrum.
 
 <!-- sida 150 -->
 
--  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
+\-  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
 för besökare och gäster, och besöksnäringen genererar publik, besökare och
 intäkter åt kulturen,
--  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
+\-  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
 garantera att alla barn får möta kultur och nå målen i läroplanen,
--  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
+\-  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
 tillsammans med samhällsbyggnadsområdet skapa hållbara livsmiljöer med
 människan i centrum.
--  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
+\-  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
 människors hälsa. Kultur är centralt för livskvalitet och folkhälsa och kan bidra till
 
 att främja en god och jämlik hälsa genom ökat välmående och välbefinnande samt
 genom att motverka psykisk ohälsa,
--  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
+\-  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
 Kulturlivet är en motståndskraft i sig. Det är viktigt att så långt det är möjligt
 upprätthålla kulturverksamheterna. Detta gäller såväl kulturarv och bibliotek som
 samtida kultur.
@@ -6069,23 +6069,23 @@ arrangörsföreningar som vill presentera professionell scenkonst.
 Grunduppdrag
 
 Teater Halland
--  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
+\-  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
 nivå,
 
 20
 
 <!-- sida 164 -->
 
--  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
+\-  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
 utveckling av scenkonstproduktionen i Halland,
--  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
+\-  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
 samhällsdiskussioner, bjuda in grupper med skilda erfarenheter och våga
 problematisera det komplicerade samt
--  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
+\-  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
 
 Riksteatern Halland
--  Främja arrangörsutveckling med fokus på professionell scenkonst samt
--  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
+\-  Främja arrangörsutveckling med fokus på professionell scenkonst samt
+\-  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
 stödjande och samordnande insatser.
 
 Utvecklare
@@ -6116,9 +6116,9 @@ infrastrukturen för dans.
 Grunduppdrag
 
 Rum för Dans
--  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
+\-  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
 samproduktion samt
--  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
+\-  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
 
 Rum för Dans har även ett konst- och kulturfrämjande uppdrag. Uppdraget innebär att
 stödja, bevara och utveckla dansområdet samt öka dess tillgänglighet och synlighet för
@@ -6163,7 +6163,7 @@ och nationell nivå.
 Grunduppdrag
 
 Musik Hallandia
--  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
+\-  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
 och samråd med musiklivets olika aktörer – såväl regionalt som nationellt och
 internationellt – ska de producera, främja och stödja musiklivet i Halland.
 
@@ -6234,15 +6234,15 @@ förväntningar.
 Grunduppdrag
 
 Stiftelsen Hallands länsmuseer
--  Producera utställningar och programverksamhet med hög kvalitet och med ett
+\-  Producera utställningar och programverksamhet med hög kvalitet och med ett
 mångsidigt sammansatt utbud,
--  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
+\-  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
 och unga,
--  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
+\-  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
 
--  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
+\-  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
 samhällsutvecklingen samt
--  Hallands resurscentrum för kulturarv.
+\-  Hallands resurscentrum för kulturarv.
 
 Utvecklare
 Region Halland har utvecklare för kulturarvsområdet med ett kulturfrämjande uppdrag.
@@ -6284,9 +6284,9 @@ för Region Halland, kommunerna, företag och det civila samhället.
 Grunduppdrag
 
 Arkiv Halland
--  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
--  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
--  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
+\-  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
+\-  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
+\-  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
 länsmuseer.
 
 25
@@ -6409,9 +6409,9 @@ att förbättra förutsättningarna för filmproduktion i länet.
 Grunduppdrag
 
 Hallands filmresurscentrum, inom Katrinebergs folkhögskola:
--  Låna ut teknik,
--  erbjuda utbildning och nätverksträffar samt
--  erbjuda filmresidens.
+\-  Låna ut teknik,
+\-  erbjuda utbildning och nätverksträffar samt
+\-  erbjuda filmresidens.
 
 Utvecklare
 Region Halland har utvecklare för filmområdet med ett konst- och kulturfrämjande
@@ -6470,29 +6470,29 @@ för konstnärlig gestaltning.
 Grunduppdrag
 
 Hallands Konstmuseum, inom Stiftelsen Hallands Länsmuseer
--  samla, visa och vårda konst,
--  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
--  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
+\-  samla, visa och vårda konst,
+\-  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
+\-  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
 samtiden och ge möjlighet till fördjupad kunskap.
 
 Konst i Halland, inom Stiftelsen Hallands länsmuseer
--  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
+\-  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
 offentlig konst och konstpedagogik,
 
 29
 
 <!-- sida 173 -->
 
--  arrangera residensverksamhet och utbytesprogram med nationella och
+\-  arrangera residensverksamhet och utbytesprogram med nationella och
 internationella utblickar,
--  fortbildning för bild- och formkonstnärer samt
--  bedriva konstpedagogiskt utvecklingsarbete.
+\-  fortbildning för bild- och formkonstnärer samt
+\-  bedriva konstpedagogiskt utvecklingsarbete.
 
 Rian designmuseum
--  Innovativ arena för design med regional, nationell och internationell synlighet,
+\-  Innovativ arena för design med regional, nationell och internationell synlighet,
 
--  centrum för kunskap och bildning om design samt
--  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
+\-  centrum för kunskap och bildning om design samt
+\-  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
 konsumtion.
 
 Utvecklare – bild och form
@@ -6611,12 +6611,12 @@ fördelas jämnt mellan kommunerna utifrån deras förutsättningar.
 Grunduppdrag
 
 Art Inside Out
--  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
+\-  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
 och internationella konstnärer inom olika konstformer med särskilt fokus på
 samtida uttryck,
--  stärka förståelsen för konstens och kulturens roll i samhället,
--  öka tillgängligheten till konst och kultur för invånarna i Halland samt
--  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
+\-  stärka förståelsen för konstens och kulturens roll i samhället,
+\-  öka tillgängligheten till konst och kultur för invånarna i Halland samt
+\-  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
 
 andra kulturinstitutioner och aktörer, både nationellt och internationellt.
 
@@ -6842,68 +6842,68 @@ kulturplan 2025–2028.
 
 Scenkonst
 Teater och cirkus
--  Teater Halland*
--  Riksteatern Halland*
--  Hallands Bildningsförbund – stöd till amatörteaterföreningar
+\-  Teater Halland\*
+\-  Riksteatern Halland\*
+\-  Hallands Bildningsförbund – stöd till amatörteaterföreningar
 
--  Teater Albatross – produktioner
--  Teater Dictat – teaterproduktioner, workshoppar och samtal.
--  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
+\-  Teater Albatross – produktioner
+\-  Teater Dictat – teaterproduktioner, workshoppar och samtal.
+\-  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
 konst och kultur i det offentliga rummet
 
 Musik
--  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
+\-  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
 samt utbildning och konserter med ungdomsensemblen Hallandsfolk
--  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
--  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
+\-  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
+\-  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
 
 Kulturarv
 
--  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum*
--  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
--  Hallands Bildningsförbund – hembygdskonsulent
--  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
+\-  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum\*
+\-  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
+\-  Hallands Bildningsförbund – hembygdskonsulent
+\-  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
 museet och på krigshistoriskt intressanta platser i länet
--  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
--  Varbergs Fästning – kulturmiljö
+\-  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
+\-  Varbergs Fästning – kulturmiljö
 
--  Världsarvet Grimeton Radiostation – kulturmiljö
+\-  Världsarvet Grimeton Radiostation – kulturmiljö
 
 Arkiv
--  Arkiv Halland*
+\-  Arkiv Halland\*
 
 Bild och form
--  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum*
--  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
--  Rian designmuseum*
--  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
+\-  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum\*
+\-  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
+\-  Rian designmuseum\*
+\-  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
 konstarter och publik.
--  Konstliv Halland – arrangera Konstrundan i Halland
+\-  Konstliv Halland – arrangera Konstrundan i Halland
 
--  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
--  Mjellby konstmuseum – arena för surrealistisk konst.
+\-  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
+\-  Mjellby konstmuseum – arena för surrealistisk konst.
 
 38
 
 <!-- sida 182 -->
 
--  Teckningsmuseet i Laholm – arena för teckningskonst.
+\-  Teckningsmuseet i Laholm – arena för teckningskonst.
 
 Film
--  Katrinebergs folkhögskola – resurscentrum för film
--  Southern Sweden Film Commission – filmkommissionsverksamhet
+\-  Katrinebergs folkhögskola – resurscentrum för film
+\-  Southern Sweden Film Commission – filmkommissionsverksamhet
 
 Slöjd
--  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
+\-  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
 
 Distriktsorganisationer
--  Barn- och ungdomsorganisationer,
--  funktionshinderorganisationer,
+\-  Barn- och ungdomsorganisationer,
+\-  funktionshinderorganisationer,
 
--  idrottsorganisationer,
--  nykterhetsorganisationer,
--  pensionärsorganisationer och
--  studieförbund.
+\-  idrottsorganisationer,
+\-  nykterhetsorganisationer,
+\-  pensionärsorganisationer och
+\-  studieförbund.
 o  Arbetarnas Bildningsförbund (ABF),
 o  Studieförbundet Bilda,
 o  Folkuniversitetet,
@@ -6914,9 +6914,9 @@ o  Sensus studieförbund,
 o  Studiefrämjandet,
 o  Studieförbundet Vuxenskolan och
 o  RF-SISU Halland.
--  Samt Hallands Bildningsförbund.
+\-  Samt Hallands Bildningsförbund.
 
-* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
+\* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
 
 39
 
@@ -7528,11 +7528,11 @@ sammanhållen region kärnorna och omlandet lång sikt regionala centrum
 Läshänvisning
 Varje målområde redogör för
 
-1. strategiska inriktningar, vad som behöver göras
-2. planeringsförutsättningar, vilket behov som finns
+1\. strategiska inriktningar, vad som behöver göras
+2\. planeringsförutsättningar, vilket behov som finns
 
-3. utmaningar och möjligheter som behöver tas i beaktan vid planeringen
-4. vilka aktörer som tillsammans ska genomföra strategin.
+3\. utmaningar och möjligheter som behöver tas i beaktan vid planeringen
+4\. vilka aktörer som tillsammans ska genomföra strategin.
 
 7
 
@@ -8712,7 +8712,7 @@ främjas. Denna strategi tydliggör även behovet av samplanering mellan aktöre
 ökat bostadsbyggande och optimering av befintlig.
 
 Strategiska inriktningar
-•  Stärk regionala tillväxtmotorer, regionala och lokala kärnor* (under processens
+•  Stärk regionala tillväxtmotorer, regionala och lokala kärnor\* (under processens
 gång kommer dessa pekas ut) genom bebyggelseutveckling.
 
 •  Stärk bebyggelseplaneringen i redan befintliga tätorter för att minska
@@ -9954,13 +9954,13 @@ Utifrån dessa tre grundförmågor pekas sju områden ut som särskilt viktiga f
 den civila motståndskraften. Dessa kallas NATO 7 Baseline Requirements for National
 Resiliens (7NBR) och går att läsa mer om nedan: (MSB)
 
-1. Säkerhetsställande av politiskt beslutsfattande och centrala ledningsfunktioner
-2. Robust energiförsörjning
-3. Effektiv hantering av okontrollerade befolkningsrörelser
-4. Robusta system för livsmedels-och dricksvattenförsörjning
-5. Hantering av masskadeutfall
-6. Motståndskraftiga civila kommunikationssystem
-7. Robust transportsystem
+1\. Säkerhetsställande av politiskt beslutsfattande och centrala ledningsfunktioner
+2\. Robust energiförsörjning
+3\. Effektiv hantering av okontrollerade befolkningsrörelser
+4\. Robusta system för livsmedels-och dricksvattenförsörjning
+5\. Hantering av masskadeutfall
+6\. Motståndskraftiga civila kommunikationssystem
+7\. Robust transportsystem
 
 Riksintressen och allmänna intressen
 
@@ -9979,10 +9979,10 @@ enligt plan och bygglagen (PBL):
 
 <!-- sida 258 -->
 
--  Allmänna intressen enligt 2 kapitlet plan- och bygglagen
+\-  Allmänna intressen enligt 2 kapitlet plan- och bygglagen
 
--  Riksintressen enligt 3 kapitlet miljöbalken
--  Riksintressen enligt 4 kapitlet miljöbalken
+\-  Riksintressen enligt 3 kapitlet miljöbalken
+\-  Riksintressen enligt 4 kapitlet miljöbalken
 
 Allmänna intressen
 Med allmänna intressen menas samhällets gemensamma intressen som ska beaktas och
@@ -9996,15 +9996,15 @@ Med hänsyn till natur- och kulturvärden, miljö- och klimataspekter samt
 mellankommunala och regionala förhållanden ska den regionala fysiska planen enligt 2
 kap PBL främja:
 
-1. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyggelse,
+1\. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyggelse,
 grönområden och kommunikationsleder,
 
-2. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
+2\. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
 samhällsgrupper,
-3. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
+3\. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
 miljöförhållanden i övrigt,
-4. en god ekonomisk tillväxt och en effektiv konkurrens, och
-5. bostadsbyggande och utveckling av bostadsbeståndet.
+4\. en god ekonomisk tillväxt och en effektiv konkurrens, och
+5\. bostadsbyggande och utveckling av bostadsbeståndet.
 
 Riksintressen
 Riksintressen är geografiskt utpekade områden som nationellt bedöms ha särskilt viktiga
@@ -10487,11 +10487,11 @@ sömlös kedja med digital infrastruktur
 
 för konnektivitet (end-to-end)
 för data (insamling, lagring, bearbetning)
--
+\-
 för digitala tjänster (applikationer)
--
+\-
 samt för behörighet och autentisering
--
+\-
 Kap-acitet och kapacitetsbrist (elnät) Kapacitet är möjligheten att överföra el från där den
 produceras till där den används. Kapaciteten begränsas av fysiska faktorer såsom ledningarnas
 antal, tjocklek och material. För att en ugn som kräver 1 kW ska kunna drivas behöver
@@ -11245,9 +11245,9 @@ I D - 2.5 Mins
 [= J7.5 - 10 Mins
 Locations
 
-+ Current Station
+\+ Current Station
 
-+  Potentral Station
+\+  Potentral Station
 
 [rometres lBsied uoon Slågt Borr O Mälena >» SEND
 Figur 1. Körtidsanalyser för förslag Klovsten. För stegåtagande är en tillräckligt snabb körtid normalt 7,5 minuter
@@ -11266,7 +11266,7 @@ station och Hällingsjövägen, kan innebära en något förbättrad täckning a
 Kungsbacka. Centrala delarna av Kungsbacka har ungefär likvärdig geografisk täckning från
 förslag Klovsten som från nuvarande brandstationsplacering.
 
-218)
+218\)
 
 <!-- sida 287 -->
 
@@ -11671,7 +11671,7 @@ lokaler inom Klovstens verksamhetsområde.
 Kommunstyrelsen ger kommundirektören i uppdrag att inhämta räddningstjänstens yttrande över
 lokaliseringen.
 Kommunstyrelsen överlämnar till budgetberedningen att inarbeta lokaliseringen i lokalplanen för år
-2023.
+2023\.
 
 Kommunstyrelsen förklarar uppdrag att utreda en lokalisering av lokaler för räddningstjänsten, som
 lämnades 25 maj 2020, som avslutat.
@@ -11755,8 +11755,8 @@ inom rimlig tid är Klovsten att föredra också ur den synvinkeln. Detaljplanen
 vinna laga kraft Q2 2021. Därefter behöver en projektering av de nya lokalerna göras. Denna
 projektering kommer sannolikt att kräva extra lång tid. Lokaler för räddningstjänst är tekniskt
 avancerade att bygga och kräver en byggtid på två år. En inflyttning i nya lokaler bör alltså kunna ske
-2025. I den lokalplan som ska gälla 2022–2025 behöver räddningstjänstenslokaler planeras in för
-2023.
+2025\. I den lokalplan som ska gälla 2022–2025 behöver räddningstjänstenslokaler planeras in för
+2023\.
 Inom ramen för detaljplanearbetet och dess genomförande behöver förutsättningar kring
 räddningstjänstens möjlighet till utryckning, i samband med att Varbergsvägens framkomlighet
 
@@ -12711,19 +12711,19 @@ inom skolan samt vård och omsorg i Kungsbacka kommun
 Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige bifaller motionen med följande tillägg;
 
-- Kommunfullmäktige utökar omfattningen av språkkrav till att även gälla personal
+\- Kommunfullmäktige utökar omfattningen av språkkrav till att även gälla personal
 från övriga förvaltningar som arbetar i eller i direkt anknytning till
 verksamheterna inom förvaltningarna för Gymnasium & Arbetsmarknad,
 Förskola & Grundskola, Vård & Omsorg samt Individ & Familjeomsorg
-- Att språkkrav införs under en försöksperiod om 18 månader. Senast tre månader
+\- Att språkkrav införs under en försöksperiod om 18 månader. Senast tre månader
 innan periodens avslut ska en utvärdering av språkkravets påverkan på
 
 verksamheten presenteras.
-- Att försöket gäller all personal som anställs för längre period än en vecka.
+\- Att försöket gäller all personal som anställs för längre period än en vecka.
 
-- Att personer med svensk högskoleexamen alternativt svensk yrkeslegitimation
+\- Att personer med svensk högskoleexamen alternativt svensk yrkeslegitimation
 undantas.
-- Att de nya rutinerna ska gälla från och med 2023-01-01. Eventuella kostnader ska
+\- Att de nya rutinerna ska gälla från och med 2023-01-01. Eventuella kostnader ska
 inarbetas i nämndernas budget för 2023
 
 Sammanfattning av ärendet
@@ -12773,20 +12773,20 @@ Förslag till beslut på sammanträdet
 Ordförande Lisa Andersson (M) yrkar att:
 
 Kommunfullmäktige bifaller motionen med följande tillägg;
-- Kommunfullmäktige utökar omfattningen av språkkrav till att även gälla personal
+\- Kommunfullmäktige utökar omfattningen av språkkrav till att även gälla personal
 från övriga förvaltningar som arbetar i eller i direkt anknytning till
 verksamheterna inom förvaltningarna för Gymnasium & Arbetsmarknad,
 Förskola & Grundskola, Vård & Omsorg samt Individ & Familjeomsorg
 
-- Att språkkrav införs under en försöksperiod om 18 månader. Senast tre månader
+\- Att språkkrav införs under en försöksperiod om 18 månader. Senast tre månader
 innan periodens avslut ska en utvärdering av språkkravets påverkan på
 verksamheten presenteras.
 
-- Att försöket gäller all personal som anställs för längre period än en vecka.
-- Att personer med svensk högskoleexamen alternativt svensk yrkeslegitimation
+\- Att försöket gäller all personal som anställs för längre period än en vecka.
+\- Att personer med svensk högskoleexamen alternativt svensk yrkeslegitimation
 undantas.
 
-- Att de nya rutinerna ska gälla från och med 2023-01-01. Eventuella kostnader ska
+\- Att de nya rutinerna ska gälla från och med 2023-01-01. Eventuella kostnader ska
 inarbetas i nämndernas budget för 2023
 Fredrik Hansson (C) och Eva Borg (S) yrkar bifall till kommunledningskontorets
 förslag.
@@ -13726,7 +13726,7 @@ Med anledning av ovanstående föreslås kommunfullmäktige besluta:
 
 <!-- sida 337 -->
 
-- Att ge förvaltningen för Vård och Omsorg i uppdrag att tillsammans med Gymnasie- och
+\- Att ge förvaltningen för Vård och Omsorg i uppdrag att tillsammans med Gymnasie- och
 Arbetsmarknad ta fram ett obligatoriskt språktest med språkkrav enligt Socialstyrelsen
 rekommendationer för användning vid nyanställning.
 
@@ -14124,11 +14124,11 @@ utifrån verksamhetens faktiska behov.
 Vi menar därför att det vore bättre att i god tid före varje val besluta om den politiska organisationen.
 
 Vi föreslår
-- att Kommunfullmäktige utser en organisationskommitté där samtliga partier är representerade
+\- att Kommunfullmäktige utser en organisationskommitté där samtliga partier är representerade
 
-- att kommittén får i uppdrag att göra en översyn av den politiska organisationen som skall vara fastställd i
+\- att kommittén får i uppdrag att göra en översyn av den politiska organisationen som skall vara fastställd i
 god tid före valet 2026
-- att en ny ordning etableras där översyn görs inför varje val.
+\- att en ny ordning etableras där översyn görs inför varje val.
 
 2024-02-11
 
@@ -15174,7 +15174,7 @@ Kommunstyrelsens diarium senast 2024-02-26. Motionen behandlades i
 Kommunfullmäktige 2023-10-10 § 161.
 
 Motionären yrkar,
-- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
+\- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
 kontinuerliga bakgrundskontroller under anställningstiden för personal anställda av
 
 Kungsbacka kommun.
@@ -15188,16 +15188,16 @@ Nämnden för Service
 Datum
 2024-02-22
 
-- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid
+\- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid
 saklig grund häva pågående anställning för personer med koppling till extremism och
 gängkriminalitet.
-- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
+\- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
 ID-kontroll inför kommande anställningar i Kungsbacka kommun.
 
-- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
+\- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
 ID-kontroll av befintliga anställningar inom Kungsbacka kommun.
 
-- Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
+\- Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
 säkerhetsställer validering av identitet samt för kontroll och uppföljning av rätt till arbete,
 både för befintlig personal och för arbetssökande.
 
@@ -15294,19 +15294,19 @@ KUNGSBACKA  KOMMUN
 
 Motionären yrkar,
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
 kontinuerliga bakgrundskontroller under anställningstiden för personal anställda av
 Kungsbacka kommun.
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid saklig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid saklig
 grund häva pågående anställning för personer med koppling till extremism och
 gängkriminalitet.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
 kontroll inför kommande anställningar i Kungsbacka kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta ID-
 kontroll av befintliga anställningar inom Kungsbacka kommun.
--  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
+\-  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
 säkerhetsställer validering av identitet samt för kontroll och uppföljning av rätt till arbete, både
 för befintlig personal och för arbetssökande.
 
@@ -16849,8 +16849,8 @@ rätt till arbete i Sverige.
 5§ Till böter eller, när omständigheterna är försvårande, fängelse döms den som
 uppsåtligen eller av oaktsamhet har utlänning anställd, om utlänningen
 
-1. inte har rätt att vistas i Sverige
-2. har rätt att vistas här men saknar föreskrivet arbetstillstånd ”
+1\. inte har rätt att vistas i Sverige
+2\. har rätt att vistas här men saknar föreskrivet arbetstillstånd ”
 
 Kungsbacka kommun kan aldrig acceptera att individer kopplade till extremism,
 gängkriminalitet eller andra odemokratiska handlingar blir eller är anställda av
@@ -16875,7 +16875,7 @@ Antalet individer som lever under falsk identitet i Sverige bedöms vara mycket
 
 högt. Migrationsminister Magdalena Malmer Stenegards: ”Enligt regeringen handlar
 det om över 100 000 personer som vistas i Sverige illegalt”. Expressen 2022-12-
-05.
+05\.
 
 Aktörer som professionellt arbetar med ID-kontroll har tagit fram en certifiering
 
@@ -16887,24 +16887,24 @@ hemtjänst mm.
 
 Sverigedemokraterna yrkar med anledning av ovanstående:
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
 lagstiftning, införa kontinuerliga bakgrundskontroller under anställningstiden
 för personal anställda av Kungsbacka kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
+\-  Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig
 lagstiftning, vid saklig grund häva pågående anställning för personer med
 koppling till extremism och gängkriminalitet.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
 aktör att sköta ID-kontroll inför kommande anställningar i Kungsbacka
 
 kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
+\-  Att Kungsbacka kommun ska utreda möjligheten för extern professionell
 aktör att sköta ID-kontroll av befintliga anställningar inom Kungsbacka
 kommun.
 
--  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad
+\-  Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad
 process som säkerhetsställer validering av identitet samt för kontroll och
 uppföljning av rätt till arbete, både för befintlig personal och för
 arbetssökande.

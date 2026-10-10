@@ -416,10 +416,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -516,11 +516,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -601,12 +601,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %    65 %   73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %    85 %   86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -635,7 +635,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -651,8 +651,8 @@ Vattendrag med god ekologisk status, andel
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -717,8 +717,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -807,12 +807,12 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -926,12 +926,12 @@ samarbetsformer för det.
 Vårt brottsförebyggande arbete ökar tryggheten i samhället och stärker framtidstron. Under 2024 har
 Kungsbacka kommun beslutat att satsa på följande fokusområden:
 
-1. Ungdomskriminalitet och utanförskap: Förhindra att ungdomar begår brott och blir utsatta för brott,
+1\. Ungdomskriminalitet och utanförskap: Förhindra att ungdomar begår brott och blir utsatta för brott,
 både på nätet och i verkliga livet, samt att förhindra rekrytering till kriminella nätverk.
-2. Kriminella nätverk: Förhindra etablering av parallella samhällsstrukturer och tystnadskultur.
-3. Ett Kungsbacka för stärkt civilkurage och ökad tillit: Stärka civilkurage och tillit till samhället för ökad
+2\. Kriminella nätverk: Förhindra etablering av parallella samhällsstrukturer och tystnadskultur.
+3\. Ett Kungsbacka för stärkt civilkurage och ökad tillit: Stärka civilkurage och tillit till samhället för ökad
 trygghet i Kungsbacka.
-4. Narkotika: Kommunen, polisen och näringslivet ska tillsammans aktivt motverka att en
+4\. Narkotika: Kommunen, polisen och näringslivet ska tillsammans aktivt motverka att en
 narkotikamarknad etablerar sig i Kungsbacka.
 
   En plats i rörelse
@@ -1522,14 +1522,14 @@ Text förändring helårsprognos - text till kommunstyrelsen
 Kultur & Fritids prognos pekar på en budgetavvikelse om -2,2 miljoner kronor, vilket motsvarar minde än 1%
 avvikelse.
 Prognosen har förändrat av flera anledningar:
-- en högre ersättning för intäktsbortfall på grund av stängning av badhuset.
+\- en högre ersättning för intäktsbortfall på grund av stängning av badhuset.
 
-- högre anläggningskostnader än bedömningen i april, bland annat kostnader för energi och skadegörelse.
-- lägre intäkter för förseningsavgifter och försäljning av verksamhet på biblioteken
+\- högre anläggningskostnader än bedömningen i april, bland annat kostnader för energi och skadegörelse.
+\- lägre intäkter för förseningsavgifter och försäljning av verksamhet på biblioteken
 
-- våra besöksmål prognosticerar ett underskott, där sommarsäsongen är den viktigaste perioden, men det är
+\- våra besöksmål prognosticerar ett underskott, där sommarsäsongen är den viktigaste perioden, men det är
 fortfarande en viss osäkerhet då säsongen inte är avslutad ännu.
-- de anpassningar till förändrad budget under året har inte fått önskad effekt i förväntad takt som var planerad
+\- de anpassningar till förändrad budget under året har inte fått önskad effekt i förväntad takt som var planerad
 
 6.1.1 Åtgärder vid budgetunderskott
 
@@ -2070,8 +2070,8 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 kommunen att besluta istället, s.k. vidaredelegering (kommunallagen 7 kap 6 §). Beslut om
 delegering ska då ske i två steg;
 
-1) Nämndens beslut om delegering till förvaltningschef
-2) Förvaltningschefens beslut om delegering till tjänsteman
+1\) Nämndens beslut om delegering till förvaltningschef
+2\) Förvaltningschefens beslut om delegering till tjänsteman
 
 1.2 Syftet med delegering
 Syftet med delegering är att dels avlasta nämnden rutinärenden och därmed ge möjlighet åt de
@@ -2122,28 +2122,28 @@ ram för budget och övriga tillämpliga styrdokument.
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap
 
 38 §:
--  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
+\-  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
 övergripande ansvar för verksamheten
 
--  Framställningar eller yttrande till fullmäktige
+\-  Framställningar eller yttrande till fullmäktige
 
--  Yttrande med anledning av att fullmäktiges beslut har överklagats
+\-  Yttrande med anledning av att fullmäktiges beslut har överklagats
 
--  Yttrande med anledning av att nämndens egna beslut har överklagats
+\-  Yttrande med anledning av att nämndens egna beslut har överklagats
 
--  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
+\-  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
 beskaffenhet eller annars av större vikt.
 
 Bestämmelser och deleg ering av beslutanderätt Sida 4 av 16
 
 <!-- sida 51 -->
 
--  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden
+\-  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden
 
 (detta är dock inte aktuellt i Kungsbacka eftersom fullmäktige inte beslutat om att
 tillämpa möjligheten till medborgarförslag).
 
--  Ärenden som enligt lag eller annan författning inte får delegeras.
+\-  Ärenden som enligt lag eller annan författning inte får delegeras.
 
 1.5 Vem har rätt att företräda nämnden och Kungsbacka kommun?
 
@@ -2207,14 +2207,14 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1. Annan delegat om det finns flera angivna.
+1\. Annan delegat om det finns flera angivna.
 
 Vem som tar över beslutanderätten ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet
 
-2. Vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
+2\. Vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet
-3. Ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
+3\. Ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
 
 av ärendet och registreras i ärende-/verksamhetssystemet
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -2249,12 +2249,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
@@ -2265,10 +2265,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -2281,11 +2281,11 @@ Enligt kommunallagen ska nämnden besluta i vilken utsträckning beslut som har 
 delegering ska anmälas till nämnden.
 
 Syftet med anmälan av delegeringsbeslut är att
--  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
+\-  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
 genom det datum då beslutet eller det protokoll där anmälan noterats tillkännages. Det har
 
 alltså betydelse för när beslutet vinner laga kraft.
--  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed ligga
+\-  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed ligga
 som grund för möjlighet till förändringar och utveckling av verksamheten.
 
 Beslut som är fattade av ordförande som brådskande enligt kommunallagen 6 kap 39 §, ska anmälas

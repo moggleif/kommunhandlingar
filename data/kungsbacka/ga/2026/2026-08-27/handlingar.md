@@ -546,23 +546,23 @@ fastställas och implementering påbörjas.
 
 9.2 Rutiner
 Förvaltningen har en rutinsamling för hanteringen av personuppgifter som inte reviderats sedan
-2022. Rutinsamlingen innehåller följande områden:
+2022\. Rutinsamlingen innehåller följande områden:
 
--  Grundläggande principer för dataskyddet
--  Personuppgiftsbehandlingar – behandlingsregister och konsekvensbedömningar
+\-  Grundläggande principer för dataskyddet
+\-  Personuppgiftsbehandlingar – behandlingsregister och konsekvensbedömningar
 
--  Personuppgifter i verksamheten – lagliga grunder, känsliga och skyddsvärda
+\-  Personuppgifter i verksamheten – lagliga grunder, känsliga och skyddsvärda
 personuppgifter, foto och film, verksamhetssystem, rätten till information
--  Gallra, rensa och spara
+\-  Gallra, rensa och spara
 
--  Förnyelse, digitalisering och dataskydd
--  Personuppgiftsincidenter
+\-  Förnyelse, digitalisering och dataskydd
+\-  Personuppgiftsincidenter
 
--  Registrerades rättigheter
--  Leverantörer och PUB-avtal
+\-  Registrerades rättigheter
+\-  Leverantörer och PUB-avtal
 
--  Kvalitetssäkring
--  Organisation
+\-  Kvalitetssäkring
+\-  Organisation
 
 Rutinen innehåller sammanställd information för förvaltningens medarbetare. Innehållet kan sedan
 brytas ner till utbildning- och diskussionsmaterial för olika personalgrupper. Rutinen har reviderats,
@@ -1219,7 +1219,7 @@ utbildningar erbjöds i samarbete med Elof Lindälvs gymnasium.
 
 Tabell 3. Erbjudna platser inom GRvux 2025
 
-* Tidigare språkstödsutbildning
+\* Tidigare språkstödsutbildning
 
 5
 
@@ -1227,8 +1227,8 @@ Tabell 3. Erbjudna platser inom GRvux 2025
 
 | Utbildning | Skola | Erbjudna platser |
 | --- | --- | --- |
-| Stödassistent – kombination* | Visible Education | 25 |
-| Undersköterska – kombination* | Visible Education | 57 |
+| Stödassistent – kombination\* | Visible Education | 25 |
+| Undersköterska – kombination\* | Visible Education | 57 |
 | Yrkesförare lastbil | Elof Lindälv | 12 |
 | Kock – lärling | Elof Lindälv | 10 |
 | Logistik och inköp – lärling | Elof Lindälv | 10 |
@@ -1708,7 +1708,7 @@ Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 Nämnden för Gymnasium & Arbetsmarknad beslutade att vuxenutbildningen skulle
 fokusera på följande fyra områden under 2025:
 
-1. Översyn av det systematiska kvalitetsarbetet
+1\. Översyn av det systematiska kvalitetsarbetet
 a. Säkerställande av styrkedjan, från huvudman till elev
 
 b. Implementering av ramavtal och uppföljning av leverans
@@ -1716,9 +1716,9 @@ c. Fortsatt arbete utifrån sprintvecka, i syfte att kvalitetssäkra både den
 
 generella och den individuella studie och yrkesvägledningen inom
 komvux
-2. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
+2\. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
 
-3. Från implementering till drift och vidareutveckling av Edlevo.
+3\. Från implementering till drift och vidareutveckling av Edlevo.
 
 18
 
@@ -1742,15 +1742,15 @@ områden med utvecklingspotential. Åtgärdspunkterna följs sedan upp på komma
 kvalitetsdialoger under året. Kvalitetsdialogerna som genomförs vid tre tillfällen
 under året utgår från teman kopplade till de nationella delmålen för kommunal
 vuxenutbildning:
--  ”varje elev får en god grund för fortsatt utbildning och stärker sin ställning i
+\-  ”varje elev får en god grund för fortsatt utbildning och stärker sin ställning i
 arbets- och samhällslivet”
--  ”varje elev får en utbildning som präglas av trygghet och undervisning som
+\-  ”varje elev får en utbildning som präglas av trygghet och undervisning som
 präglas av studiero”
 
--  ”varje elev får en undervisning som ger den ledning och stimulans eleven
+\-  ”varje elev får en undervisning som ger den ledning och stimulans eleven
 behöver för att kunna nå så långt som möjligt i sitt lärande och sin
 utveckling”
--  ”varje elev som är i behov av stöd får det stöd den behöver”.
+\-  ”varje elev som är i behov av stöd får det stöd den behöver”.
 
 19
 
@@ -1791,15 +1791,15 @@ fortsatt följas upp under kvalitetsdialogerna under hösten 2026.
 
 Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 
--  Säkerställa att studiehandledning på modersmål tillhandahålls enligt ställda
+\-  Säkerställa att studiehandledning på modersmål tillhandahålls enligt ställda
 krav i ramavtalet.
--  Vända trenden gällande den höga andelen avbrott på Sfi.
--  Säkerställa att ställda krav i ramavtalet gällande arbetsplatsförlagt lärande
+\-  Vända trenden gällande den höga andelen avbrott på Sfi.
+\-  Säkerställa att ställda krav i ramavtalet gällande arbetsplatsförlagt lärande
 (APL) efterlevs.
 
--  Skapa strukturer och upprätta verktyg för att bedöma aktivitet för Sfi distans.
--  Vända trenden gällande den höga andelen F-betyg i matematik.
--  Redogöra för skolans eget SKA-arbete
+\-  Skapa strukturer och upprätta verktyg för att bedöma aktivitet för Sfi distans.
+\-  Vända trenden gällande den höga andelen F-betyg i matematik.
+\-  Redogöra för skolans eget SKA-arbete
 
 3.1.3 Fortsatt arbete utifrån sprintvecka, i syfte att kvalitetssäkra både den
 
@@ -2128,7 +2128,7 @@ Kung sbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 68 -->
 
-1. Bestämmelser   för nämndens   delegering
+1\. Bestämmelser   för nämndens   delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -2158,13 +2158,13 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -2200,7 +2200,7 @@ nedan.
 
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 
 underteckna handling som beslutet avser. Om individutskottet har fått
 delegation undertecknas handling som beslutet avser av individutskottets
@@ -2211,10 +2211,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -2356,7 +2356,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | --- | --- | --- | --- | --- |
 | 2.1.11 | GDPR artikel 30 | Fastställa nämndens register över personuppgiftsbehandlingar. | Dataskydds<br>kontakt |  |
 | 2.1.12 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller flera andra nämnder. | Fc | Fullmakt får ges till tjänsteman som ska vara systemägare<br>för tjänsten eller systemet. |
-| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
+| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
 | 2.1.14 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Beslut att nämnden lämnar inget yttrande föranledd av remiss från annan<br>part | Fc |  |
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
@@ -4404,11 +4404,11 @@ Sveriges Ridgymnasium Kungsbacka (skolenhetskod 27597104) i
 Kungsbacka kommun.
 Genom återkallelsen upphör godkännandet den 12 oktober 2012 (dnr
 2012:716) för gymnasieskola avseende:
--  naturbruksprogrammet inriktning lantbruk.
+\-  naturbruksprogrammet inriktning lantbruk.
 Genom återkallelsen upphör följande del av godkännandet den 14 januari
 2021 (dnr 2020:7328) för gymnasieskola avseende:
 
--  naturbruksprogrammet inriktning djurvård.
+\-  naturbruksprogrammet inriktning djurvård.
 Sveriges Ridgymnasium AB har inte rätt till bidrag från elevernas
 hemkommuner för den utbildning som återkallelsen avser.
 

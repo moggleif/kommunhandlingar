@@ -155,7 +155,7 @@ Apriluppföljning
 Beslut
 
 Nämnden för Individ & Familjeomsorg godkänner uppföljning per april och prognos
-2024.
+2024\.
 
 Nämnden för Individ & Familjeomsorg förklarar paragrafen omedelbart justerad.
 

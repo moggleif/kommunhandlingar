@@ -84,7 +84,7 @@ gymnasium samt Aranäsgymnasiet för läsåren 2027–2028.
 
 Sammanfattning
 
-1. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
+1\. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
 • Ekonomiprogrammet: 160 platser
 
 • El- och energiprogrammet: 60 platser. Utökning med 12 platser.
@@ -95,7 +95,7 @@ Sammanfattning
 
 • Teknikprogrammet: 96 platser. Utökning med 32 platser
 
-2. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
+2\. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
 • Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form, teater).
 
 • Naturvetenskapsprogrammet: 96 platser
@@ -122,7 +122,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-3. Utbudsplanering inför läsåret 2027–2028-NIU:
+3\. Utbudsplanering inför läsåret 2027–2028-NIU:
 
 Basket: 6 platser i ÅK1
 
@@ -378,15 +378,15 @@ nyttan och bidrar till en bättre matchning mellan utbildning och arbetsmarknad.
 Nämnde för Gymnasium & Arbetsmarknad anser att sekundäravtal bör kunna tillåtas när ett antal av
 följande kriterier är uppfyllda:
 
-1. Åtgärden bedöms stärka matchningen på arbetsmarknaden.
-2. Utbildningen ligger i linje med Skolverkets dimensioneringsunderlag för aktuell region och
+1\. Åtgärden bedöms stärka matchningen på arbetsmarknaden.
+2\. Utbildningen ligger i linje med Skolverkets dimensioneringsunderlag för aktuell region och
 eller angränsande regioner.
-3. Eventuell annan aktör inom GR som tillhandahåller motsvarande utbildning godkänner
+3\. Eventuell annan aktör inom GR som tillhandahåller motsvarande utbildning godkänner
 upplägget.
-4. Det föreligger platsbrist inom befintlig struktur.
-5. Det rör sig om investeringstunga utbildningar där samverkan kan minska ekonomisk risk och
+4\. Det föreligger platsbrist inom befintlig struktur.
+5\. Det rör sig om investeringstunga utbildningar där samverkan kan minska ekonomisk risk och
 öka långsiktig hållbarhet.
-6. Samtliga samverkande kommuner, idag GR13, har gett sitt samtycke.
+6\. Samtliga samverkande kommuner, idag GR13, har gett sitt samtycke.
 
 En sådan möjlighet bör utformas restriktivt och med tydliga kriterier, så att den stärker – snarare än
 
@@ -1170,7 +1170,7 @@ Antagningsnämnden ges möjlighet att lämna synpunkter om det bedöms att
 brister finns i någon del av utbildningsutbudet ur ett Regionalt perspektiv, så
 som beskrivs i p. 7.3 Regionala samverkansformer i detta Avtal.
 
-10. Ekonomiska  förutsättningar
+10\. Ekonomiska  förutsättningar
 
 10.1 Prislista för interkommunal ersättning
 
@@ -1376,7 +1376,7 @@ Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
 
--  Samverkansavtal för gymnasieskolan i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskolan i Göteborgsregionen för
 avtalsperiod 2027/2028 - 2030/2031
 
 Ärendet
@@ -1529,13 +1529,13 @@ Remissförslag
 
 Innehåll
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 32 -->
 
@@ -1546,9 +1546,9 @@ Förslag  till nytt samverkansavtal för gymnasieskolan   i Göteborgsregionen
 Förnyat  avtal föreslås gälla från läsåret 2027/2028
 
 Syftet är att:
-- bredda utbildningsutbudet
+\- bredda utbildningsutbudet
 
-- säkra kompetensförsörjningen     till välfärd och näringsliv
+\- säkra kompetensförsörjningen     till välfärd och näringsliv
 
 Avtalet bygger  på Skollagen  och  Gymnasieförordningen
 
@@ -1887,11 +1887,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -2618,17 +2618,17 @@ Det bygger på en gemensam upplysningsskyldighet från skolorna till
 hemkommun. Utbildningschefsnätverket enades om regelverket 2016-06-17
 och har därefter reviderat innehållet.
 
-1. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
+1\. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
 inskriven på flera skolor samtidigt kommer den inte med i
 månadsavstämningen för aktuell månad. Ansvariga skolhuvudmän löser
 
 konflikten och elevens hemkommun hålls underrättad.
-2. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
+2\. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
 slutdatum.
-3. Den dag som är elevens första schemalagda dag på mottagande skola, är
+3\. Den dag som är elevens första schemalagda dag på mottagande skola, är
 startdatum.
 
-4. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
+4\. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
 a. Finns ingen automatisk överföring, skall ELIN-filen läsas
 in i IT-systemet så fort en utbildningshändelse har
 uppkommit.
@@ -2641,18 +2641,18 @@ c. Finns ingen möjlighet att skapa en ELIN-fil eller en CSN-
 
 fil skall utbildningshändelsen registreras manuellt i IT-
 systemet när utbildningshändelsen har uppkommit.
-5. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
+5\. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
 rapporterar in samtliga elever till ELIN, oavsett årskurs. På så sätt
 säkerställs gymnasieskolans rapportering om att elev påbörjat
 utbildning efter sommaren, att elev byter årskurs och att ungdom som
 inte påbörjar utbildning faller inom ramen för det kommunala
 
 aktivitetsansvaret.
-6. Avstämningsdag sker per den 15e varje månad, inklusive
+6\. Avstämningsdag sker per den 15e varje månad, inklusive
 sommarmånaderna. Om avstämningsdag infaller på icke schemalagd
 dag anses eleven inskriven på avlämnande skola.
 
-7. Elev som har uppehåll i sina studier omfattas av det kommunala
+7\. Elev som har uppehåll i sina studier omfattas av det kommunala
 aktivitetsansvaret. Vid planerat uppehåll har skolan dialog med eleven
 fram till dess att eleven är åter. Skolan kan välja att antingen registrera
 avbrott, skolbyte eller planerat uppehåll.
@@ -2667,7 +2667,7 @@ Bilaga 4 Gemensamt regelverk för elevavstämning, 2027/2028 – 2030/2031
 Dnr: ATN-2025-00049
 Remissversion 2026-01-09
 
-8. Uppgift om examen och studiebevis hämtas från nationell databas.
+8\. Uppgift om examen och studiebevis hämtas från nationell databas.
 Gymnasieskola ansvarar för att information som inte kan hämtas
 nationellt i stället registreras i ELIN. Det gäller examen/studiebevis för
 elev äldre än 20 år samt elev med tillfälligt personnummer,
@@ -2675,9 +2675,9 @@ gymnasiebevis avseende anpassad gymnasieskola, samt IB-
 diplom. Elever som fått gymnasieintyg behöver också registreras
 manuellt i ELIN.
 
-9. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
+9\. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
 är aktuellt.
-10. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
+10\. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
 systemet när elev lämnar gymnasieskolan, det vill säga vid avbrott,
 skolbyte, studiebevis eller gymnasieintyg. ELIN är ingen betygsdatabas,
 men en kopia kan underlätta för det kommunala aktivitetsansvaret i
@@ -2891,12 +2891,12 @@ Analys
 
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar,
 exempelvis:
--   Demografi
--   Konkurrens
--   Investeringar
+\-   Demografi
+\-   Konkurrens
+\-   Investeringar
 
--   Index
--   Löneutveckling
+\-   Index
+\-   Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 beräknas (förenklat) som summan av gymnasieskolornas kostnader dividerat
@@ -3054,7 +3054,7 @@ Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
 
--  Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
+\-  Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
 för avtalsperiod 2027/2028 - 2030/2031
 
 Ärendet
@@ -3201,13 +3201,13 @@ Remissförslag
 
 Innehåll
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 76 -->
 
@@ -3532,11 +3532,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -4249,7 +4249,7 @@ Göteborgsregionen
 Dnr: ATN-2025-00050
 Remissversion 2026-01-09
 
-10. Ekonomiska  förutsättningar
+10\. Ekonomiska  förutsättningar
 
 10.1 Prislista för interkommunal ersättning
 
@@ -4546,14 +4546,14 @@ yrkesutbildningar          för   vuxna    i
 
 Göteborgsregionen
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Avtalets parter för detta samverkansavtal är Göteborgsregionens
 kommunalförbund (GR) och följande medlemskommuner: Ale, Alingsås,
 Göteborg, Härryda, Kungsbacka, Kungälv, Lerum, Lilla Edet, Mölndal,
 Partille, Stenungsund, Tjörn och Öckerö.
 
-2. Avtalets syfte och intentioner
+2\. Avtalets syfte och intentioner
 Skollagen och förordningen om vuxenutbildningen reglerar hur huvudmän
 ska planera, dimensionera och erbjuda utbildning inom komvux. Syftet med
 bestämmelserna är att öka det tillgängliga utbudet av utbildning, underlätta
@@ -4604,7 +4604,7 @@ Detta är ett primärt samverkansavtal i enlighet med Skollagen, 2 kap. 2 a och
 
 2 b §§ samt 20 kap. 16, 16 a och 16 b §§.
 
-3. Avtalstid
+3\. Avtalstid
 Avtalet avser verksamheten från och med 2027-01-01 och gäller till och med
 
 2030-12-31, med möjlighet att revidera och komplettera avtalet årligen.
@@ -4620,7 +4620,7 @@ lärande i Göteborgsregionen” fr o m 2024-01-01 till 2026-12-31 att gälla f�
 samverkan kring yrkesutbildningar inom kommunal vuxenutbildning inom
 Göteborgsregionen.
 
-4. Avtalets omfattning
+4\. Avtalets omfattning
 
 4.1 Regionalt anordnade avtalsutbildningar
 
@@ -4668,7 +4668,7 @@ avtalet möjlighet att skapa sekundära överlappande samverkansavtal mellan
 kommuner inom Göteborgsregionen, gällande utbildningar som ingår i detta
 avtal.
 
-5. Förutsättningar
+5\. Förutsättningar
 
 5.1 Generella förutsättningar
 För att uppnå syftet och intentionerna med avtalet finns ett antal faktorer
@@ -4772,7 +4772,7 @@ kompetensråd, Arbetsförmedlingen samt i dialog med andra berörda parter.
 Principer ska finnas för planering och dimensionering av
 avtalsutbildningar, vilka årligen fastställs av Utbildningschefsnätverket.
 
-6. Roll- och ansvarsfördelning
+6\. Roll- och ansvarsfördelning
 
 6.1 Antagningsnämnd (GRs politiska nämnd för utbildning)
 
@@ -4948,10 +4948,10 @@ Göteborgsregionens branschspecifika kompetensråd.
 och intentioner, till exempel i form av kommunikation och information
 beträffande statsbidrags utformning.
 
-7. Ekonomi
+7\. Ekonomi
 
 7.1 Finansiering av avtalsutbildningarna
-7. 1.1 Statsbidragsfinansierade utbildningar
+7\. 1.1 Statsbidragsfinansierade utbildningar
 Finansieringen av avtalsutbildningarna baseras på en grundpost (sk. 33-
 
 kronan), vilken utgörs av de kommunala resurser som avtalsparterna
@@ -5042,7 +5042,7 @@ Samverkansavtal om yrkesutbildningar för vuxna
 Dnr: ATN-2025-00060
 Remissversion 2026-01-09
 
-8. Idé- och erfarenhetsutbyte för personal inom
+8\. Idé- och erfarenhetsutbyte för personal inom
 vuxnas lärande
 
 Göteborgsregionens samlade kompetens inom området vuxnas lärande tas
@@ -5053,14 +5053,14 @@ regional nätverksform kring t ex kvalitetsfrågor, ledarskap,
 
 utvecklingsarbete, omvärldsbevakning och lobbyverksamhet.
 
-9. Tvist
+9\. Tvist
 
 Tvist med anledning av detta avtal medlemskommunerna löses i första
 hand genom lokala förhandlingar. Om parterna inte kommer överens sker
 medling genom GR. Om tvist inte kan lösas på detta sätt avgörs det av
 allmän domstol.
 
-10. Godkännande
+10\. Godkännande
 
 Respektive medlemskommun rekommenderas att fatta beslut om att
 godkänna föreliggande avtal. En kopia på beslut i nämnd/styrelse eller av
@@ -5082,7 +5082,7 @@ yrkesutbildningar    för vuxna
 Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027-2030
 
 Ärendet
@@ -5171,13 +5171,13 @@ Marie  Egerstad, Göteborgsregionen
 
 Innehåll:
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 124 -->
 
@@ -5512,11 +5512,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -6099,7 +6099,7 @@ innehållet i Avtalet inklusive dess eventuella tilläggsavtal och bilagor.
 5.6  Parterna är överens om att verkställa Avtalet genom elektronisk signatur, vilket ska anses ha
 samma kraft och effekt som originalsignaturer.
 
-* * * *
+\* \* \* \*
 
 Avtalet har utfärdats i en (1) elektronisk originalkopia. Det undertecknade Avtalet kommer att lagras i
 ett elektroniskt arkiv som gör det möjligt för Parterna att ta del av en kopia.
@@ -6166,7 +6166,7 @@ En gemensam digital assistent för offentlig sektor – Etapp 3
 
 BILAGA     A  - Allmänna       villkor
 
-1.      Definitioner
+1\.      Definitioner
 
 1.1     Om inte annat klart framgår av sammanhanget ska följande termer – när de
 används i någon del av Avtalet – ha den innebörd som anges nedan.
@@ -6289,7 +6289,7 @@ organisationer i Brukargruppen.
 1.1.28  “SVEA” avser prototypen som utvecklats inom Projektet ”En gemensam digital
 assistent för offentlig sektor”.
 
-2.      Finansiering och fakturering
+2\.      Finansiering och fakturering
 
 2.1     Varje organisation i Brukargruppen i Projektet ska, i enlighet med vad som
 specificeras i Avtalet bidra till projektets genomförande genom att tillhandahålla
@@ -6315,7 +6315,7 @@ Projektet, och som därmed berörs av finansieringen, ska aktivt samarbeta och
 säkerställa att de nödvändiga åtgärder vidtas för att Finansiärsvillkoren i sin
 helhet kan efterlevas.
 
-3.      Styrgrupp
+3\.      Styrgrupp
 
 3.1     Styrgruppen ansvarar för att Projektet genomförs inom ramen för Projektplanen
 och Kostnadsplanen. Styrgruppen är den högsta beslutande instansen för
@@ -6391,7 +6391,7 @@ Document ID 09222115557570685979 Attachment 1
 
 <!-- sida 162 -->
 
-4.      Parternas och organisationer i Brukargruppens inbördes åtaganden
+4\.      Parternas och organisationer i Brukargruppens inbördes åtaganden
 
 4.1     Projektets genomförande
 
@@ -6555,7 +6555,7 @@ system.
 
 oönskad eller skadlig masskommunikation.
 
-5.      Konfidentialitet
+5\.      Konfidentialitet
 
 5.1     Part och organisation i Brukargruppen åtar sig att hantera Konfidentiell
 Information med den omsorg och integritet som Part och organisation i
@@ -6665,7 +6665,7 @@ v)   om den Part och/eller organisation i Brukargruppen som äger eller
 överlämnat Konfidentiell Information skriftligen samtyckt till röjande
 eller spridning.
 
-6.      Bakgrundsinformation
+6\.      Bakgrundsinformation
 
 6.1     Bakgrundsinformation är och ska förbli tillförande Part och/eller organisation i
 Brukargruppens egendom och får av denne fritt användas och förfogas över (t.ex.
@@ -6705,7 +6705,7 @@ enlighet med Avtalet Nyttja eget Enskilt Projektresultat eller egen andel i
 Gemensamt Projektresultat. Parts och organisation i Brukargruppens
 Koncernföretag ska ha motsvarande rätt.
 
-7.      Villkor om rätt till Projektresultat
+7\.      Villkor om rätt till Projektresultat
 
 7.1     Äganderätt till Projektresultat tillkommer den Part eller organisation i
 Brukargruppen som genererat detsamma eller,
@@ -6786,7 +6786,7 @@ rätten att nyttja resultaten i Egen Verksamhet eller i samarbete med tredje par
 dock utan att det inverkar på andra Parters och/eller organisationer i
 Brukargruppens rättigheter.
 
-8.      Publicering och offentliggöranden
+8\.      Publicering och offentliggöranden
 
 8.1     Alla offentliggöranden och publiceringar ska ske i enlighet med tillämplig
 
@@ -6847,7 +6847,7 @@ Brukargruppen ändå genomföra publiceringen under förutsättning att detta in
 inkluderar information som påverkar andra Parters eller organisationer i
 Brukargruppens rättigheter eller bryter mot avtalet.
 
-9.      Användning av namn, logotyper eller varumärken
+9\.      Användning av namn, logotyper eller varumärken
 
 9.1     Användning av annan Parts eller organisation i Brukargruppens logotyper eller
 varumärken kräver skriftligt medgivande, med följande undantag:
@@ -6865,7 +6865,7 @@ och publikationer i linje med Projektets syfte.
 säkerställa att användningen av namn, logotyper eller varumärken sker på ett sätt
 som är lämpligt och i överensstämmelse med Projektets syften.
 
-10.     Avtalstid
+10\.     Avtalstid
 
 10.1    Detta Avtal träder i kraft (Ikraftträdandedagen) när det har undertecknats av
 båda Parterna.
@@ -6888,7 +6888,7 @@ tio (10) år från Avtalets upphörande. Avtalets upphörande ska inte heller
 innebära att Part befrias från påföljd pga. kontraktsbrott som denne har begått
 innan eller i samband med Avtalets upphörande.
 
-11.     Förtida upphörande av Avtalet
+11\.     Förtida upphörande av Avtalet
 
 11.1    Part äger rätt att säga upp Avtalet med iakttagande av en uppsägningstid om tre
 (3) månader. Avtalet upphör dock aldrig att gälla före den 31 december 2026,
@@ -6925,14 +6925,14 @@ Parterna och organisationerna i Brukargruppen rätt att ur de av Finansiärens m
 som eventuellt finns tillgängliga få skälig ersättning för utfört arbete och
 nödvändiga avvecklingskostnader.
 
-12.     Överlåtelse
+12\.     Överlåtelse
 
 12.1    Parts och organisation i Brukargruppen rättigheter eller skyldigheter enligt
 Avtalet får inte överlåtas till annan utan övriga Parters och organisationer i
 Brukargruppens skriftliga medgivande därom. Medgivande ska beslutas med
 enkel majoritet i Styrgruppen.
 
-13.     Ändringar och tillägg
+13\.     Ändringar och tillägg
 
 13.1    Ändringar eller tillägg till Avtalet ska för att bli bindande upprättas skriftligen och
 undertecknas av samtliga Parter och organisationer i Brukargruppen.
@@ -6945,7 +6945,7 @@ avtalstiden som betingas av väsentligt ändrade förhållanden eller av
 omständigheter utanför någondera Partens eller organisation i Brukargruppens
 kontroll. Exempel på detta kan vara ändringar i tvingande lagstiftning.
 
-14.     Tillkommande organisation till Brukargruppen
+14\.     Tillkommande organisation till Brukargruppen
 14.1    Tillkommande av en organisation till Brukargruppen i Projektet ska ske genom
 
 undertecknande av ett separat projektavtal. Det åligger LSP att formellt signera
@@ -6981,7 +6981,7 @@ Projektavtalet ska säkerställa att tillkommande organisation till Brukargruppe
 erhåller samma skyldigheter och rättigheter som motsvarar de övriga
 organisationerna i Brukargruppen.
 
-15.     Meddelanden
+15\.     Meddelanden
 
 15.1    Alla krav, anmälningar, information och andra meddelanden (nedan
 ”Meddelanden”) som ska eller får lämnas enligt Avtalet ska lämnas skriftligen till
@@ -6997,7 +6997,7 @@ rekommenderat brev eller vid mottagande av läskvitto, om det har skickats per
 
 e-mail.
 
-16.     Tillämplig lag och tvistelösning
+16\.     Tillämplig lag och tvistelösning
 
 16.1    Svensk lag, med undantag för dess lagvalsregler, ska tillämpas på Avtalet.
 
@@ -7011,7 +7011,7 @@ allmän domstol. Förfarandet ska äga rum i den domsaga där svarande har sin
 hemvist, om Parterna och/eller organisation i Brukargruppen inte gemensamt
 kommer överens om annat.
 
-17.     Force Majeure
+17\.     Force Majeure
 
 17.1    Underlåtenhet att fullgöra skyldigheter enligt Avtalet får inte åberopas mot en
 Part och/eller organisation i Brukargruppen under tid då fullgörelsen hindras av
@@ -7034,7 +7034,7 @@ Bilaga  B:  Bakgrundsinformation
 
 Bakgrundsinformation som tillförs projektet av respektive part inkluderar följande:
 
-1. Lindholmen Science Park AB (AI Sweden)
+1\. Lindholmen Science Park AB (AI Sweden)
 
 ●  All mjukvara som utvecklas inom projektet, inklusive Svea gränssnitt och
 
@@ -7044,7 +7044,7 @@ av stora språkmodeller.
 träningsdata, syntetiskt och mänskligt framställda utvärderingsdata, samt
 RAG-data.
 
-2. Kommuner och regioner från etapp 1
+2\. Kommuner och regioner från etapp 1
 (Kungsbacka kommun, Tjörns kommun, Göteborgs stad, Region Skåne, Region
 Halland):
 
@@ -7061,7 +7061,7 @@ Sweden för genomförande av projektet.
 ●  Bakgrundsinformationen överförs inte eller licensieras till någon annan part,
 och får inte användas för något annat ändamål än det som anges i detta avtal.
 
-3. Kommuner, regioner och statliga myndigheter från etapp 2
+3\. Kommuner, regioner och statliga myndigheter från etapp 2
 
 (Ale kommun, Alingsås kommun, Arvika kommun, Burlöv kommun, Domstolsverket, Eda
 kommun, Forshaga kommun, Flens kommun, Göteborgsregionen, Göteborgs stad, Grums
@@ -7104,7 +7104,7 @@ En   gemensam         digital   assistent     för  offentlig
 
 sektor    –  Etapp    3
 
-1. Sammanfattning
+1\. Sammanfattning
 
 Den pågående och ökande personalbristen i offentlig sektor nödvändiggör innovation och
 utveckling av nya verktyg som kan stödja offentligt anställda. Generativ AI har en enorm
@@ -7139,7 +7139,7 @@ etapp 3 ett bestående strukturkapital – tekniskt, juridiskt och organisatoris
 Sveriges digitala suveränitet och förmåga att erbjuda en modern, jämlik och effektiv offentlig
 service.
 
-2. Bakgrund
+2\. Bakgrund
 
 Bakgrunden till initiativet är den pågående och förväntade personalbristen inom offentlig
 
@@ -7160,7 +7160,7 @@ bristen på sektorspecifika träningsdata. Dessa utmaningar är för stora för
 de allra flesta offentliga organisationer att överkomma och därför krävs ett nationellt
 samarbete med gemensamma initiativ för AI.
 
-3. Beskrivning  av initiativet
+3\. Beskrivning  av initiativet
 
 (För en mer uttömmande beskrivning av initiativet, se bilaga 1)
 
@@ -7271,7 +7271,7 @@ fortsatta satsningen på utbildning och förändringsarbete höjer AI-mognaden i
 nationella kompetensen vilket stärker organisationernas förmåga att arbeta med generativ AI i
 många olika sammanhang — både inom ramen för Svea och i andra framtida initiativ.
 
-4. Genomförande     Etapp  3
+4\. Genomförande     Etapp  3
 
 Etapp 3 genomförs med ett iterativt och utforskande arbetssätt där arbetet anpassas efter de
 lärdomar och erfarenheter som uppstår under projektets gång. Många av målen är
@@ -7356,7 +7356,7 @@ information i Svea.
 Projektet kommer också att arbeta med regelefterlevnad avseende AI Act och NIS 2-direktivet
 för att säkerställa att Svea uppfyller relevanta krav från EU-lagstiftningen.
 
-5. Aktörer  i projektet
+5\. Aktörer  i projektet
 
 AI Sweden är Sveriges nationella center för tillämpad artificiell intelligens med uppdraget att
 accelerera användningen av AI i Sverige till nytta för vår konkurrenskraft, vårt samhälle och alla
@@ -7399,7 +7399,7 @@ Document ID 09222115557570685979 Attachment 3
 •  Rådgivning och stöd i att etablera tekniska- och datastandarder som underlättar bred
 adoption av Svea i hela den offentliga sektorn.
 
-6. Relaterade   projekt
+6\. Relaterade   projekt
 
 Document ID 09222115557570685979 Attachment 3
 
@@ -7420,7 +7420,7 @@ Document ID 09222115557570685979 Attachment 3
 
 Projektet relaterar även till regeringsuppdrag:
 
-7. Projektets  mål
+7\. Projektets  mål
 
 Ökad AI-mognad och nyttorealisering
 
@@ -7541,7 +7541,7 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 185 -->
 
-8. Mätning,  utvärdering   och  uppföljning
+8\. Mätning,  utvärdering   och  uppföljning
 
 I projektet används en kombination av kvantitativa nyckeltal, kvalitativa metoder och
 beteendedata för att ge en helhetsbild av hur Svea används och vilket värde plattformen skapar
@@ -7572,7 +7572,7 @@ användarbeteenden, såsom hur funktioner används, var användare avbryter sitt
 de rör sig mellan olika delar av plattformen. Event tracking ger ett viktigt underlag för att
 snabbare identifiera förbättringsområden och för att informera utvecklingen.
 
-9. Strategi för överlämning    och framtida  förvaltning
+9\. Strategi för överlämning    och framtida  förvaltning
 
 Under Etapp 2 genomfördes ett utforskande arbete för att undersöka hur en gemensam digital
 assistent kan levereras och förvaltas långsiktigt för hela offentlig sektor. Arbetet skedde i dialog
@@ -7606,7 +7606,7 @@ stödja i arbetet att identifiera en lämplig leveransmodell för Svea som är f
 förvaltnings lagstiftning, digital förvaltningsgemensam infrastruktur och nationella strategier för
 digitalisering och AI.
 
-10. Jämställdhet,   jämlikhet  och hållbarhet
+10\. Jämställdhet,   jämlikhet  och hållbarhet
 
 Vid tillämpning av språkmodeller i den offentliga sektorn är aspekter som könsneutralitet,
 
@@ -7635,7 +7635,7 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 187 -->
 
-11. Arbetspaket
+11\. Arbetspaket
 
 AP1: Projektledning och koordinering
 
@@ -7726,7 +7726,7 @@ publikationer, vilket stärker Sveriges position inom AI-forskning och offentlig
 Leverans: Rapporter, guider, studiematerial samt akademiska artiklar som bidrar till det
 bredare AI-fältet.
 
-12. Tidplan
+12\. Tidplan
 
 Projektet startar den 1 januari 2026 och avslutas den 31 december 2026. Den exakta tidsplanen
 för individuella arbetspaket kommer att vara föremål för kontinuerlig revidering under
@@ -7738,7 +7738,7 @@ Document ID 09222115557570685979 Attachment 3
 projektets gång, men vi förväntar oss att de huvudsakliga insatserna kommer att fördelas enligt
 följande tabell:
 
-13. Budget
+13\. Budget
 
 I den formella budgeten ingår endast AI Sweden (Lindholmen Science Park). För att effektivt
 
@@ -7777,9 +7777,9 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 190 -->
 
-14. Finansiering
+14\. Finansiering
 
-15. Rapportering
+15\. Rapportering
 
 Som nämnt ovan, kommer AI Sweden under projektets gång uppskatta och rapportera alla
 insatser i projektet, detta kommer bland annat innefatta:
@@ -7986,7 +7986,7 @@ Document ID 09222115557570685979 Attachment 3
 
 Bilaga 2. KPI:er och  metoder   för mätning   och  utvärdering
 
-1. Användning och beteende
+1\. Användning och beteende
 
 1.1 Grundläggande användarstatistik
 
@@ -8028,7 +8028,7 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 196 -->
 
-2. Effektivitets- och kvalitetsökningar
+2\. Effektivitets- och kvalitetsökningar
 
 2.1 Självrapporterat värde
 
@@ -8048,7 +8048,7 @@ Document ID 09222115557570685979 Attachment 3
 •  Fokusgrupper
 •  Djupintervjuer
 
-3. RAG
+3\. RAG
 
 3.1 Aktivitet
 
@@ -8072,7 +8072,7 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 197 -->
 
-4. Annotering och modellutveckling
+4\. Annotering och modellutveckling
 
 4.1 Annotering
 
@@ -8090,7 +8090,7 @@ o  Inter-annotator agreement
 •  Ramverk med 5+ utvärderingsmetoder för språkmodeller som togs fram i Etapp 2
 •  Globala benchmarktester för embeddingmodell
 
-5. Event-tracking i frontend
+5\. Event-tracking i frontend
 
 5.1 Feature adoption
 
@@ -8105,7 +8105,7 @@ o  Inter-annotator agreement
 
 •  Klickfrekvens på guider, tips och rekommendationer
 
-6. Teknisk prestanda och stabilitet
+6\. Teknisk prestanda och stabilitet
 
 •  Uptime
 •  Laddtider för gränssnitt
@@ -8121,7 +8121,7 @@ Document ID 09222115557570685979 Attachment 3
 
 <!-- sida 198 -->
 
-7. Utbildning och förändringsledning
+7\. Utbildning och förändringsledning
 
 •  Deltagare i onboarding
 
@@ -8251,7 +8251,7 @@ Organisationsnummer: 202100-5216 VAT-nDuomcmuemr: eSnEt2 I0D2 019020522211610515
 Beslutsdatum    Diarienummer
 2025-12-02      2025-04682
 
-** Stödgrunder
+\*\* Stödgrunder
 Inte statsstöd beviljas enligt 5 § förordning (2015:208) om stöd till forskning och utveckling samt
 innovation.
 
@@ -8288,7 +8288,7 @@ Document ID 09222115557570685979 Attachment 5
 
 [Tabell 202-1](handlingar.tabeller/202-1.csv)
 
-| Bidragsmottagare | Maxbelopp (kr)<br>Maximalt bidrag<br>under<br>projekttiden | Max stödnivå (%)<br>Maximal andel som<br>bidraget får utgöra<br>av de<br>stödberättigande<br>kostnaderna | Stödgrund ** |
+| Bidragsmottagare | Maxbelopp (kr)<br>Maximalt bidrag<br>under<br>projekttiden | Max stödnivå (%)<br>Maximal andel som<br>bidraget får utgöra<br>av de<br>stödberättigande<br>kostnaderna | Stödgrund \*\* |
 | --- | --- | --- | --- |
 | Lindholmen Science Park AB<br>AI Sweden<br>556568-6366 | 3 000 000 100 % |  | Inte statsstöd |
 | Summa: | 3 000 000 |  |  |
@@ -8430,7 +8430,7 @@ extern publicering är en beskrivning av projektet och ska utformas enligt Vinno
 anvisningar. Den får inte innehålla någon konfidentiell information. Vinnova har
 rätt att göra ändringar i projektsammanfattningen.
 
-1. 4 Rapportering och uppföljning
+1\. 4 Rapportering och uppföljning
 Rapportering och uppföljning ska ske i enlighet med Vinnovas beslut och
 anvisningar. Kostnader i lägesrapporter och slutrapport ska vara faktiska och
 upparbetade och även i övrigt uppfylla bestämmelserna i § 6.1.
@@ -8453,15 +8453,15 @@ tio (10) år från dagen då slutrapporten ska vara inlämnad.
 Det åligger Bidragsmottagaren
 a) att förvara Projektparts godkännande i original, och
 b) att omedelbart underrätta Vinnova
-- om projektet försenas eller riskerar att försenas, liksom om det
+\- om projektet försenas eller riskerar att försenas, liksom om det
 framkommer en risk att projektet inte kommer att motsvara rimligt ställda
 förväntningar,
-- om omständigheter av betydelse som kan påverka projektets
+\- om omständigheter av betydelse som kan påverka projektets
 genomförande eller dess finansiering (t.ex. ytterligare offentligt/EU-stöd,
 förutsättningarna för nyttjande av projektresultatet minskar),
-- om eget obestånd (se § 5),
-- om ändring av firma, firmatecknare eller adress, samt
-- om ändring av Bidragsmottagarens status (t.ex. från SMF till stort
+\- om eget obestånd (se § 5),
+\- om ändring av firma, firmatecknare eller adress, samt
+\- om ändring av Bidragsmottagarens status (t.ex. från SMF till stort
 företag).
 
 Bidragsmottagaren är ansvarig för projektledaren. Projektledaren ska i förhållande
@@ -8523,22 +8523,22 @@ rapporterade till Vinnova senast i slutrapporten.
 Vinnovas Anvisning för stödberättigande kostnader ska följas och är en del av
 dessa villkor2. Stödgrunden avgör vilka kostnader som är stödberättigande. Nedan
 följer de kostnadsslag som kan vara stödberättigande
-1. personalkostnader, dvs. bruttolön och lönebikostnad, i den omfattning som
+1\. personalkostnader, dvs. bruttolön och lönebikostnad, i den omfattning som
 Bidragsmottagarens personal arbetar i projektet, dock med de
 begränsningar och undantag som framgår i 6.1.2 nedan,
-2. kostnader för utrustning, mark och byggnader i den utsträckning och under
+2\. kostnader för utrustning, mark och byggnader i den utsträckning och under
 den tid som de används för projektet,
-3. kostnader för konsulter och licenser m.m., dock med de begränsningar och
+3\. kostnader för konsulter och licenser m.m., dock med de begränsningar och
 undantag som framgår i 6.1.2 nedan,
-4. övriga direkta kostnader samt
-5. indirekta kostnader i den omfattning som framgår nedan.
+4\. övriga direkta kostnader samt
+5\. indirekta kostnader i den omfattning som framgår nedan.
 
 6.1.2 Indirekta kostnader
 
-1) Universitet och högskola, får göra påslag för indirekta kostnader enligt den
+1\) Universitet och högskola, får göra påslag för indirekta kostnader enligt den
 fullkostnadsprincip som de tillämpar. De behöver i sin bokföring bara särredovisa
 kostnader motsvarande bidragsbeloppet.
-2) Följande organisationer får, när de deltar i projektet med icke-ekonomisk
+2\) Följande organisationer får, när de deltar i projektet med icke-ekonomisk
 verksamhet, ta upp faktiska indirekta kostnader till ett belopp motsvarande högst
 45 % av sina stödberättigande personalkostnader:
 • forskningsorganisationer som är
@@ -8566,7 +8566,7 @@ ekonomisk verksamhet som exempelvis uppdragsforskning ska verksamheterna
 redovisas separat. Om organisationen deltar i projektet med ekonomisk verksamhet
 gäller villkoret i 3) nedan.
 
-3) Övriga Bidragsmottagare får ta upp faktiska indirekta kostnader, dock högst med
+3\) Övriga Bidragsmottagare får ta upp faktiska indirekta kostnader, dock högst med
 ett belopp som motsvarar 30 % av sina stödberättigande personalkostnader.
 
 6.1.3 Generella begränsningar och undantag
@@ -8683,16 +8683,16 @@ kvalificerad revisor. För kommun, landsting, statliga myndigheter, accepteras o
 revisorsintyg från kommunal yrkesrevisor eller internrevisor.
 
 § 9 Sanktioner      Vinnova får besluta att ett beviljat bidrag helt eller delvis inte ska betalas ut om
-1. den som sökt om eller mottagit bidraget genom att lämna oriktiga uppgifter
+1\. den som sökt om eller mottagit bidraget genom att lämna oriktiga uppgifter
 eller på något annat sätt har förorsakat att stödet beviljats eller betalats ut
 felaktigt eller med för högt belopp,
 
-2. bidraget av något annat skäl har beviljats eller betalats ut felaktigt eller med för
+2\. bidraget av något annat skäl har beviljats eller betalats ut felaktigt eller med för
 högt belopp och mottagaren borde ha insett detta,
-3. bidraget inte har utnyttjats eller använts eller det finns anledning att anta att
+3\. bidraget inte har utnyttjats eller använts eller det finns anledning att anta att
 bidraget inte kommer att utnyttjas eller användas för det som det har beviljats
 för, eller
-4. villkoren för bidraget inte uppfylls.
+4\. villkoren för bidraget inte uppfylls.
 
 Bidragsmottagare är återbetalningsskyldig om någon av de grunder som anges i
 punkterna 1, 2 och 4 ovan föreligger, eller om bidraget inte har utnyttjats eller
@@ -9212,7 +9212,7 @@ Personuppgifter
 
 Utöver vad som redan framgår av Personuppgiftsbiträdesavtalet ska Personuppgiftsbiträdet även
 följa nedanstående Instruktion:
-1. Ändamålet, föremålet och arten
+1\. Ändamålet, föremålet och arten
 
 1 a. Föremålet för Personuppgiftsbiträdets Behandling av Personuppgifter
 åt den Personuppgiftsansvarige är att:
@@ -9259,7 +9259,7 @@ Document ID 09222115557570685979 Attachment 7
 
 <!-- sida 221 -->
 
-2. Behandlingen omfattar följande typer av Personuppgifter
+2\. Behandlingen omfattar följande typer av Personuppgifter
 
 Personuppgiftsbiträdet har rätt att behandla följande typer av Personuppgifter
 för den Personuppgiftsansvariges räkning:
@@ -9268,7 +9268,7 @@ Se Underbilaga 2 c - Specifikation av behandlingar och personuppgifter
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 
-3. Behandlingen omfattar vissa kategorier av Registrerade
+3\. Behandlingen omfattar vissa kategorier av Registrerade
 
 Personuppgiftsbiträdet har rätt att Behandla Personuppgifter avseende följande
 kategorier av Registrerade:
@@ -9276,7 +9276,7 @@ kategorier av Registrerade:
 ● Användare av SVEA
 ● Personer som förekommer i information som matas in i SVEA
 
-4. Ange särskilda hanteringskrav vad gäller Behandling av Personuppgifter som
+4\. Ange särskilda hanteringskrav vad gäller Behandling av Personuppgifter som
 utförs av Personuppgiftsbiträdet
 
 Personuppgiftsbiträdet ska iaktta följande hanteringskrav vid Behandlingen av
@@ -9284,7 +9284,7 @@ Personuppgiftsbiträdet ska iaktta följande hanteringskrav vid Behandlingen av
 Personuppgifter åt den Personuppgiftsansvarige:
 Se Underbilaga 2 b Säkerhetsdeklaration för Svea
 
-5. Ange de särskilda tekniska och organisatoriska säkerhetsåtgärder som
+5\. Ange de särskilda tekniska och organisatoriska säkerhetsåtgärder som
 gäller för Personuppgiftsbiträdets Behandling av Personuppgifter
 
 Personuppgiftbiträdet ska vidta följande säkerhetsåtgärder vid
@@ -9292,7 +9292,7 @@ Behandlingen av Personuppgifterna som framgår av:
 
 Avsnitt 7 i Personuppgiftsbiträdesavtalet samt Bilaga 2 b Säkerhetsdeklaration för Svea.
 
-6. Ange särskilda krav på Loggning vad gäller Behandling av Personuppgifter samt vilka
+6\. Ange särskilda krav på Loggning vad gäller Behandling av Personuppgifter samt vilka
 
 som ska ha tillgång till dem
 
@@ -9308,7 +9308,7 @@ användaraktivitet och logghantering:
 loggas och granskas i enlighet med Bilaga 2 b - Säkerhetsdeklaration för Svea och
 Underbilaga 2 c - Specifikation av behandlingar och personuppgifter.
 
-7. Lokalisering och överföring av Personuppgifter till Tredje land
+7\. Lokalisering och överföring av Personuppgifter till Tredje land
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 Personuppgiftsbiträdet ska iaktta följande krav avseende lokalisering av Personuppgifter:
@@ -9322,7 +9322,7 @@ som framgår av:
 Bilaga 2 a – Lista över godkända Underbiträden
 Bilaga 2 b Säkerhetsdeklaration för Svea
 
-8. Behandlingens varaktighet
+8\. Behandlingens varaktighet
 
 Personuppgiftsbiträdet får Behandla Personuppgifter åt den Personuppgiftsansvarige
 under tiden som Avtalet gäller i enlighet med avsnitt 15 i Personuppgiftsbiträdesavtalet.
@@ -9389,30 +9389,30 @@ Underbilaga         2b   –  Säkerhetsdeklaration
 
 för  Svea
 
-1. Definitioner
+1\. Definitioner
 
-1. Användare: En människa med ett konto i Svea som kan interagera med systemet.
-2. Klient: En användares dator/enhet som används för att komma åt Svea.
-3. Meddelande/Prompt: En fråga eller uppmaning som användaren skriver in i Svea.
-4. Svar: Det svar som generativa språkmodellen genererar baserat på prompten.
-5. Aktivera konto: Processen där användaren får tillgång till Svea via en länk i ett
+1\. Användare: En människa med ett konto i Svea som kan interagera med systemet.
+2\. Klient: En användares dator/enhet som används för att komma åt Svea.
+3\. Meddelande/Prompt: En fråga eller uppmaning som användaren skriver in i Svea.
+4\. Svar: Det svar som generativa språkmodellen genererar baserat på prompten.
+5\. Aktivera konto: Processen där användaren får tillgång till Svea via en länk i ett
 
 e-postmeddelande.
-6. Logga in: Åtkomst till Svea genom e-postadress och personlig kod eller SSO.
-7. Laravel Main: Systemdel som hanterar kommunikation mellan användarklienten och
+6\. Logga in: Åtkomst till Svea genom e-postadress och personlig kod eller SSO.
+7\. Laravel Main: Systemdel som hanterar kommunikation mellan användarklienten och
 andra komponenter.
-8. Jobb: En uppgift som ska utföras av RAG-tjänsten eller LLM-tjänsten.
-9. Laravel Horizon: Systemdel som köar och prioriterar jobb.
-10. GPU:er: Hårdvara dedikerad till att köra språkmodeller.
-11. Plain text: Oskyddad, okrypterad text.
+8\. Jobb: En uppgift som ska utföras av RAG-tjänsten eller LLM-tjänsten.
+9\. Laravel Horizon: Systemdel som köar och prioriterar jobb.
+10\. GPU:er: Hårdvara dedikerad till att köra språkmodeller.
+11\. Plain text: Oskyddad, okrypterad text.
 
-12. RAG-tjänst: Hanterar informationshämtning från RAG-databasen.
-13. Embeddingmodell: Omvandlar plain text till vektorrepresentationer.
-14. Vektordatabas: Databas med information för RAG.
-15. Kontext: Synonymt med chatthistorik.
-16. RAG-kontext: Hämtad kontext från vektordatabasen för ett meddelande/prompt.
-17. LLM-tjänst: Generativa språkmodeller som genererar svar.
-18. Dataström: Dataflöde från Svea till klienten via WSS-kryptering.
+12\. RAG-tjänst: Hanterar informationshämtning från RAG-databasen.
+13\. Embeddingmodell: Omvandlar plain text till vektorrepresentationer.
+14\. Vektordatabas: Databas med information för RAG.
+15\. Kontext: Synonymt med chatthistorik.
+16\. RAG-kontext: Hämtad kontext från vektordatabasen för ett meddelande/prompt.
+17\. LLM-tjänst: Generativa språkmodeller som genererar svar.
+18\. Dataström: Dataflöde från Svea till klienten via WSS-kryptering.
 
 Document ID 09222115557570685979 Attachment 9
 
@@ -9420,19 +9420,19 @@ Document ID 09222115557570685979 Attachment 9
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 
-2. Systemöversikt
+2\. Systemöversikt
 
 2.1 Beskrivning av dataflödet och tekniska säkerhetsåtgärder
 
-1.  Vid kontoaktivering tilldelas klienten en krypteringsnyckel (skickas via HTTPS), som
+1\.  Vid kontoaktivering tilldelas klienten en krypteringsnyckel (skickas via HTTPS), som
 lagras i arbetsminnet och i databas-servicen.
 
-2.  Användarens meddelanden och svar sparas i krypterade chattar (AES-256) i
+2\.  Användarens meddelanden och svar sparas i krypterade chattar (AES-256) i
 webbläsarens lokala databas. Krypteringsnyckeln raderas vid utloggning.
-3.  Vid inloggning skickas krypteringsnyckeln till klienten (HTTPS) för att låsa upp historiken.
-4.  Användarens meddelande och tillhörande chatt skickas till Laravel Main (HTTPS).
-5.  Ett krypterat jobb skapas och skickas till Laravel Horizon, där det lagras i arbetsminnet.
-6.  Ett jobb kan antingen vara ett RAG-jobb eller ett icke-RAG-jobb.
+3\.  Vid inloggning skickas krypteringsnyckeln till klienten (HTTPS) för att låsa upp historiken.
+4\.  Användarens meddelande och tillhörande chatt skickas till Laravel Main (HTTPS).
+5\.  Ett krypterat jobb skapas och skickas till Laravel Horizon, där det lagras i arbetsminnet.
+6\.  Ett jobb kan antingen vara ett RAG-jobb eller ett icke-RAG-jobb.
 6.1. För icke-RAG-jobb avkrypteras meddelandet/prompten och skickas direkt till
 LLM-tjänsten.
 6.2. För RAG-jobb avkrypteras meddelandet/prompten och skickas i plain text till
@@ -9440,9 +9440,9 @@ LLM-tjänsten.
 RAG-tjänsten.
 6.2.1. RAG-tjänsten hämtar RAG-kontext från vektordatabasen
 6.2.2. RAG-kontextet skickas vidare till LLM-tjänsten.
-7.  LLM-tjänsten får plain texten från (6.1) eller (6.2.2) och genererar ett svar.
-8.  Svaret från LLM-tjänsten skickas till Laravel Horizon.
-9.  Svaret skickas till klienten via WSS (WebSocket Secure) som en dataström.
+7\.  LLM-tjänsten får plain texten från (6.1) eller (6.2.2) och genererar ett svar.
+8\.  Svaret från LLM-tjänsten skickas till Laravel Horizon.
+9\.  Svaret skickas till klienten via WSS (WebSocket Secure) som en dataström.
 
 Document ID 09222115557570685979 Attachment 9
 
@@ -9450,10 +9450,10 @@ Document ID 09222115557570685979 Attachment 9
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 
-10.  Efter avslutad överföring raderas jobbet från Laravel Horizon.
-11.  Metadata om jobbet (utan personuppgifter) sparas i en MySQL-databas.
+10\.  Efter avslutad överföring raderas jobbet från Laravel Horizon.
+11\.  Metadata om jobbet (utan personuppgifter) sparas i en MySQL-databas.
 
-3. Arkitektur
+3\. Arkitektur
 
 3.1 Datacenter
 
@@ -9485,7 +9485,7 @@ En gemensam digital assistent för offentlig sektor – Etapp 3
 ●  WebSocket Secure (WSS) för realtidskommunikation.
 ●  Minnesisolering via vLLM för att förhindra dataläckage.
 
-4. Åtkomsthantering
+4\. Åtkomsthantering
 
 4.1 Autentisering och auktorisation
 
@@ -9530,7 +9530,7 @@ behörigheter i Svea, men har ingen åtkomst till databaser.
 
 ●  Ingen tredje part har åtkomst till Sveas databaser.
 
-5. Datasäkerhet
+5\. Datasäkerhet
 
 5.1 Lagring och separation
 
@@ -9630,7 +9630,7 @@ När en administratör tar bort en fil från organisationens databas sker det i 
 ●  Steg 2: Permanent radering, 7 dagar efter mjuk-raderingen registrerades i vårt system
 så tas filen bort permanent från MinIO databasen
 
-6. Lagring   och  gallringsrutiner
+6\. Lagring   och  gallringsrutiner
 
 Document ID 09222115557570685979 Attachment 9
 
@@ -9668,7 +9668,7 @@ Underbilaga         2  c  - Specifikation         av
 
 behandlingar          och   personuppgifter
 
-1. Skapande  av konto
+1\. Skapande  av konto
 
 ●  E-post
 
@@ -9678,7 +9678,7 @@ behandlingar          och   personuppgifter
 ●  Yrkesroll
 ●  Användarroll
 
-2. Inloggning
+2\. Inloggning
 
 ●  E-post
 ●  Organisationstillhörighet
@@ -9691,7 +9691,7 @@ behandlingar          och   personuppgifter
 
 ●  Användarspecifik krypteringsnyckel för återskapa chatthistorik
 
-3. Användning  chatt (valfritt)
+3\. Användning  chatt (valfritt)
 
 Skicka meddelanden
 
@@ -9740,7 +9740,7 @@ Radering
 ●  Samtliga uppgifter lagras så länge kontot är aktivt. Vid inaktivering av konto raderas
 samtliga uppgifter kopplade till kontot.
 
-4. Användning  Transkribering (valfritt)
+4\. Användning  Transkribering (valfritt)
 
 Skicka meddelanden
 ●  Användar-ID
@@ -9775,7 +9775,7 @@ Radering
 
 ●  Samtliga uppgifter raderas efter transkribering
 
-5. Uppladdning av dokument   till Sveas källor (valfritt)
+5\. Uppladdning av dokument   till Sveas källor (valfritt)
 
 ●  Filnamn (potentiellt personuppgifter som förekommer i filnamnet)
 ●  Filens innehåll (samt enhetsinformation (skapas av t.ex. Acrobat Reader): Title, Author,
@@ -9785,7 +9785,7 @@ Count, and Language)
 ●  Användar-ID (vem som laddade upp)
 ●  Organisations-ID
 
-6. Avslutande av användarkonto
+6\. Avslutande av användarkonto
 
 Vid inaktivering av användarkonto raderas samtliga uppgifter kopplade till kontot.
 
@@ -9794,14 +9794,14 @@ filer användaren laddat upp till Sveas källor sparas dock kvar för organisati
 ●  När organisationen tas bort så tas alla filer organisationen har laddat upp till Sveas källor
 bort.
 
-7. Support (valfritt)
+7\. Support (valfritt)
 
 ●  E-post
 ●  Användar-ID
 ●  Ärende (fritext)
 ○  potentiella personuppgifter som användaren matat in
 
-8. Kontoadministration
+8\. Kontoadministration
 
 ●  Organisations-ID
 ●  Användar-ID
@@ -9816,7 +9816,7 @@ Document ID 09222115557570685979 Attachment 10
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 
-9. Förbättringar och vidareutveckling av systemet och dess
+9\. Förbättringar och vidareutveckling av systemet och dess
 användning
 
 Ladda upp dokument till organisationens databas i Sveas källor
@@ -9843,7 +9843,7 @@ E-postutskick (för att delge statistik till organisationernas administratörer)
 ●  E-postadress
 ●  Namn
 
-10. Annotering (valfritt)
+10\. Annotering (valfritt)
 
 Under annotering
 
@@ -9876,7 +9876,7 @@ En gemensam digital assistent för offentlig sektor – Etapp 3
 ●  Innehåll i fil
 ○  potentiella personuppgifter som finns i filen
 
-11. Assistenter (valfritt)
+11\. Assistenter (valfritt)
 
 Skapande av assistent
 
@@ -11579,25 +11579,25 @@ Dan Sadé: Rektor Aranäsgymnasiet
 
 Ulrika Alnebäck: Rektor FG samt VFU-samordnare för förskollärarprogrammet
 
-1. Mötet öppnas
+1\. Mötet öppnas
 
-2. Val av ordförande, sekreterare och justeringsman
+2\. Val av ordförande, sekreterare och justeringsman
 
 Dan – Ordförande
 Michael – Sekreterare
 
 Justerare – Sofie Dolk
 
-3. Presentation av programrådets representanter
+3\. Presentation av programrådets representanter
 
-4. Genomgång av föregående protokoll
+4\. Genomgång av föregående protokoll
 
 Michael går igenom föregående protokoll
 Inga frågor eller kommentarer gällande föregående protokoll
 
 <!-- sida 278 -->
 
-5. Information och nyheter på programmet
+5\. Information och nyheter på programmet
 
 Aranäs
 •  Inte fullt lika bra antagning som förra året. Dock ser det bra ut ändå och
@@ -11628,7 +11628,7 @@ Visible Education
 •  LSS-lyft, Indivd och familjeomsorg-start i April (Utbilda personal som redan arbwtar i
 Kungsbacka kommun)
 
-6. Elevsynpunkter
+6\. Elevsynpunkter
 
 •  Det känns som en bra balans mellan praktik och skola – En bra balans. Sökte aktivt till
 lärling. Det är bra att man kan fokusera på praktiken när man är ute och sen fokusera
@@ -11644,7 +11644,7 @@ VO)
 
 <!-- sida 279 -->
 
-7. APL-systemet PRAXO
+7\. APL-systemet PRAXO
 
 Det har inte kommit så mycket nytt gällande detta. Ett nytt system för alla
 yrkesprogram utom VO.
@@ -11655,7 +11655,7 @@ Tanken är att det ska skapa likvärdighet. Och att samla all dokumentation på 
 
 Andreas Martinsson - Systemutvecklare
 
-8. Ideer och förslag om utveckling av programmet
+8\. Ideer och förslag om utveckling av programmet
 
 •  Julia Wilholm går igenom från IF – Behov av utbildad arbetskraft. Ungefär 600
 personal i vår verksamhet just nu. Av dom är det ca 100 personer som inte har någon
@@ -11674,13 +11674,13 @@ ytterområden.
 ungdomarna att åka även till ytterområdena.
 •  En tanke är att knyta busskort till ett anställningsavtal
 
-9. Utbildning/arbetsmarknadsläget (Allmän diskussion)
+9\. Utbildning/arbetsmarknadsläget (Allmän diskussion)
 
-10. Övriga frågor
+10\. Övriga frågor
 
 Michael Johansson skickar ut kallelse till höstens programråd.
 
-11. Tid för nästa programråd
+11\. Tid för nästa programråd
 
 Tisdag 261013 Kl. 14.30
 Visible Education, Nygatan 10A, två trappor upp
@@ -12066,8 +12066,8 @@ g
 s
 o
 u ö
--
--
+\-
+\-
 s
 r
 n
@@ -12280,7 +12280,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Gymnasium & Arbetsmarknad har den 4 december 2025 kommit in med en begäran om
 att få ta del av 2 000 000 kronor av dessa medel. Satsningen handlar om att tillsätta två skolcoacher i
 samverkan med ett tydligt uppdrag kopplat till elever i riskzonen för skolmisslyckande. Detta är ett
@@ -12681,7 +12681,7 @@ löneutveckling i kommunen. Mäns löner ligger genomgående något högre än k
 år, men skillnaden har minskat något över tid.
 Diagrammet nedan visar att lönespridningen, det vill säga skillnaden mellan de lägsta och högsta
 lönenivåerna (P10–P90), är något större bland män än bland kvinnor under hela perioden 2021–
-2025. Det innebär att män i högre utsträckning återfinns både i de högre och lägre lönenivåerna,
+2025\. Det innebär att män i högre utsträckning återfinns både i de högre och lägre lönenivåerna,
 medan kvinnors löner är mer samlade kring medianen. Detta mönster är vanligt i många
 organisationer och kan bero på flera faktorer, exempelvis skillnader i befattningsnivåer,
 yrkesstruktur eller marknadsdrivna lönespann i manligt dominerade yrken.
@@ -13717,8 +13717,8 @@ t
 0
 o
 s u ö
--
--
+\-
+\-
 r
 n
 8
@@ -13971,18 +13971,18 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 1.1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
-- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
-- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag och
 stiftelser, ordförande i kommunfullmäktiges valberedning, partigruppledare (leder
 respektive partigrupp i kommunfullmäktige)
-- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, beredningar och andra
 uppdrag enligt särskilt beslut.
 
-- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
 1.2 Andra uppdrag
 
@@ -14038,10 +14038,10 @@ Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser:
 
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd och för andra enskilda uppdrag som
 omfattar minst 40%.
@@ -14292,8 +14292,8 @@ partigruppledare.
 
 Arvode betalas i form av:
 
-- Fast arvode för deltidsuppdrag
-- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\- Fast arvode för deltidsuppdrag
+\- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
@@ -14453,9 +14453,9 @@ förtroendevalda representerar det organ denne själv tillhör.
 Därtill betalas dagarvode och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 12 (18)
 
@@ -14621,10 +14621,10 @@ förvaltning. Utbetalning sker i normalfallet den 27:e i månaden efter sammantr
 har ägt rum.
 
 När en förtroendevald ska begära ersättning
-- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
+\- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
 med protokollfört sammanträde eller
 
-- efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\- efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
 ska underlag bifogas.
@@ -14673,7 +14673,7 @@ Arvodesberedningen bereder generella ärenden om arvoden och ersättningar infö
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 18 (18)
 
@@ -14812,7 +14812,7 @@ förslag.
 Magdalena Sundqvist (S) yrkar i första hand att ärendet ska återremitteras så att de
 nya riktlinjerna och reglerna för förmåner för förtroendevalda når upp till följande
 kriterier:
-1. Att fastställa principen att kommunalrådens arvode ska utgå ifrån
+1\. Att fastställa principen att kommunalrådens arvode ska utgå ifrån
 riksdagsledamöternas nivå, för att säkerställa en rimlig, oberoende och rättvis
 arvodering. Till exempel har Kommunstyrelsens ordförande i Halmstad
 
@@ -14835,17 +14835,17 @@ sammanträden, vilket är fallet idag. Arvoden ska ej styras av de
 förtroendevalda som har arvodering och förmåner. Förslaget innebär en
 sänkning av dagens nivå.
 
-2. Att ersättningar till ordföranden och vice ordföranden i nämnder samt övriga
+2\. Att ersättningar till ordföranden och vice ordföranden i nämnder samt övriga
 ledamöter och ersättares arvode utgår från kommunalrådens arvode.
 (Lämna förslag till Kommunfullmäktige om en ny arvodesmodell baserad på
 denna princip, med ett förslag som kan träda i kraft från nästa mandatperiods
 början.)
-3. Att begränsa arvoden för förtroendevalda med årsarvode om 100 % så att de
+3\. Att begränsa arvoden för förtroendevalda med årsarvode om 100 % så att de
 ej har rätt till ytterligare mötesarvoden från kommunen för annat uppdrag
 
 (inklusive uppdrag som styrelseledamot eller suppleant i kommunens helägda
 aktiebolag eller stiftelse).
-4. Att justera relationen mellan sammanträdesarvode och schablon för förlorad
+4\. Att justera relationen mellan sammanträdesarvode och schablon för förlorad
 arbetsförtjänst så att förhållandet mellan sammanträdesarvode och schablon
 ändras så att fler kan ansöka om extra ersättning för förlorad arbetsförtjänst.
 Riktmärke för schablon kan till exempel motsvara medelinkomst per månad i

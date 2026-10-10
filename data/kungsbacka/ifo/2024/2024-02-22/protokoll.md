@@ -751,7 +751,7 @@ utifrån riskanalysen upprätta en internkontrollplan. Resultatet av årets arbe
 sammanställas i en uppföljningsrapport som ska beslutas av nämnden.
 
 Nämnden för Individ & Familjeomsorg antog internkontrollplan 2023 i november
-2022. Planen innehåller 13 prioriterade risker. Av dessa är sju risker
+2022\. Planen innehåller 13 prioriterade risker. Av dessa är sju risker
 kommungemensamma, som tagits fram centralt för varje nämnd att granska. Sex
 risker togs fram för Individ & Familjeomsorgs specifika verksamhetsområden.
 
@@ -932,7 +932,7 @@ Revisionsrapporten färdigställdes i december 2023 och revisionen har utifrån
 
 granskningen lämnat följande rekommendationer till Nämnden för Individ &
 Familjeomsorg:
-* Fortsätta arbetet med att se över möjligheter för kombinationstjänster över
+\* Fortsätta arbetet med att se över möjligheter för kombinationstjänster över
 förvaltningsgränser.
 
 Beslutsunderlag

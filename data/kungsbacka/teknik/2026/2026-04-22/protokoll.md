@@ -132,7 +132,7 @@ Nämnden för Teknik godkänner ärendelistan med förändring.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Sverigedemokraternas (SD) begäran om skriftliga svar rörande Kungsbackas
+\-  Sverigedemokraternas (SD) begäran om skriftliga svar rörande Kungsbackas
 
 vattenförsörjning och planerade tillväxt
 Ärendet lyfts efter paragraf § 45 i dagordningen: Information om grundläggande
@@ -458,40 +458,40 @@ Sammanfattning av ärendet
 Under perioden 12 mars och 13 april inkom följande skrivelser till nämnden för
 Teknik:
 
-- Protokollsutdrag KF 2026-03-03 § 29 - Revidering av riktlinjer och regler för
+\- Protokollsutdrag KF 2026-03-03 § 29 - Revidering av riktlinjer och regler för
 förmåner till förtroendevalda, KS-2024-00576
-- Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala
+\- Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala
 uppdrag, KS-2024-00576
 
-- Tjänsteskrivelse - Revidering av riktlinjer och regler för förmåner till
+\- Tjänsteskrivelse - Revidering av riktlinjer och regler för förmåner till
 förtroendevalda, KS-2024-00576
-- Protokollsutdrag KF 2026-03-03 § 30 - Antagande av översiktsplan för Kungsbacka
+\- Protokollsutdrag KF 2026-03-03 § 30 - Antagande av översiktsplan för Kungsbacka
 
 stad, KS-2024-00785
-- Protokollsutdrag Förbundsstyrelsen 2026-02-27 § 11 - Aktualitetsprövning av
+\- Protokollsutdrag Förbundsstyrelsen 2026-02-27 § 11 - Aktualitetsprövning av
 Göteborgsregionen minskar avfallet, GRFS-2025-00316
 
-- Göteborgsregionen minskar avfallet - Avfallsplan till 2030, GRFS-2025-00316
-- Aktualitetsprövning av Göteborgsregionen minskar avfallet, GRFS-2025-00316
+\- Göteborgsregionen minskar avfallet - Avfallsplan till 2030, GRFS-2025-00316
+\- Aktualitetsprövning av Göteborgsregionen minskar avfallet, GRFS-2025-00316
 
-- Protokollsutdrag KF 2026-03-03 § 31 - Lokalisering av yttre översvämningsskydd
+\- Protokollsutdrag KF 2026-03-03 § 31 - Lokalisering av yttre översvämningsskydd
 mot höga havsnivåer, KS-2025-00945
-- Protokollsutdrag Kommunstyrelsen 2026-03-17 § 58
+\- Protokollsutdrag Kommunstyrelsen 2026-03-17 § 58
 
-- Intern kontrollrapport - Kungsbacka kommun, 2025
-- Tjänsteskrivelse - Intern kontroll 2025 för Kungsbacka kommun
+\- Intern kontrollrapport - Kungsbacka kommun, 2025
+\- Tjänsteskrivelse - Intern kontroll 2025 för Kungsbacka kommun
 
-- För kännedom - Överlämnande av överklagande, Tölö 1:34/1:41, MH-2024-4320,
+\- För kännedom - Överlämnande av överklagande, Tölö 1:34/1:41, MH-2024-4320,
 dnr 2160-2026
 
-- Protokollsutdrag NMH 2026-03-12 § 31 - Beslut om att upphäva beslut med
+\- Protokollsutdrag NMH 2026-03-12 § 31 - Beslut om att upphäva beslut med
 anledning av anmälan om ändring av miljöfarlig verksamhet, Duvehed 2:57, MH-
 2025-2669
-- Tjänsteskrivelse - Beslut om att upphäva beslut med anledning av anmälan om
+\- Tjänsteskrivelse - Beslut om att upphäva beslut med anledning av anmälan om
 ändring av miljöfarlig verksamhet, Duvehed 2:57, MH-2025-2669
 
-- Grundläggande granskning 2025 Kungsbacka slutlig
-- Kungsbacka kommun - Följebrev grundläggande granskning 2025 BN, FG, GA,
+\- Grundläggande granskning 2025 Kungsbacka slutlig
+\- Kungsbacka kommun - Följebrev grundläggande granskning 2025 BN, FG, GA,
 
 MH, SE, TE, VO, K&F
 
@@ -506,8 +506,8 @@ Nämnden för Teknik
 Datum
 2026-04-22
 
-- Europeiska Mobilitetsveckan september 2026
-- Protokollsutdrag KF 2026-03-03 § 29 - Revidering av riktlinjer och regler för
+\- Europeiska Mobilitetsveckan september 2026
+\- Protokollsutdrag KF 2026-03-03 § 29 - Revidering av riktlinjer och regler för
 förmåner till förtroendevalda, KS-2024-00576
 
 Beslutsgång
@@ -620,10 +620,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Fokus på systemomställning för en framtida hållbar vattenanvändning
--  Effektiviseringar på förvaltningen
+\-  Fokus på systemomställning för en framtida hållbar vattenanvändning
+\-  Effektiviseringar på förvaltningen
 
--  Automatiseringar på förvaltningen
+\-  Automatiseringar på förvaltningen
 
 Beslutsgång
 

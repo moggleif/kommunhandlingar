@@ -124,11 +124,11 @@ Förslag till åtgärder:
 talarstolen för att skapa en mer professionell och estetiskt tilltalande atmosfär under möten och
 presentationer, både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-2. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
+2\. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
 för att skapa en professionell och estetiskt tilltalande atmosfär under möten och presentationer,
 både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-3. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
+3\. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
 såsom bärbara datorer och mobiltelefoner, vilket underlättar arbetsprocessen för våra
 representanter.
 
@@ -495,14 +495,14 @@ Sammanfattning
 
 Kungsbacka
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2024-06-19 $ 61 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2024-06-19 \$ 61 under
 
 perioden 2024-09-16 till 2024-10-09
 
 Ärende/ärendegrupp Beslut, insats samt Beslutsfattare IBeslutsdatum | Dnr
 enligt delegationslistan | ev. omfattning
 2.3.8
-AB $ 10 mom. 1-3 Avstängning Christina Carlsson 0924-08-23
+AB \$ 10 mom. 1-3 Avstängning Christina Carlsson 0924-08-23
 Tf VC
 2.1.10 Julia
 Dataskyddsförordningen |Hantering av Tryggvadottir 2024-09-11 —  |SE 2024-00388
@@ -515,7 +515,7 @@ Hantering av digitala tjänster och
 personuppgifter, system
 Riktlinjer,
 Kommunfullmäktige
-2024 -03 -05 $ 33
+2024 -03 -05 \$ 33
 2.1.10 Julia
 Dataskyddsförordningen |Hantering av Tryggvadottir  b024-09-25 — |SE 2024-00319
 GDPR, artikel 33 och 34 personuppgiftsincident To lesson
@@ -523,7 +523,7 @@ GDPR, artikel 33 och 34 personuppgiftsincident To lesson
 Dataskyddsförordningen | Hantering av Tryggvadottir  b024-09-30 = ÅSE 2024-00251
 GDPR, artikel 33 och 34 personuppgiftsincident To esson
 
-12)
+12\)
 
 Kungsbacka kommun
 

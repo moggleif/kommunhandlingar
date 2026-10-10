@@ -35,7 +35,7 @@ Nämnden  för Miljö & Hälsoskydd
 Sammanträde onsdagen den 5 juni 2024 kl. 16:00
 Kungsbackarummet, Storgatan 37
 
-4.  Föreläggande förenat med vite MH-2020-                         20
+4\.  Föreläggande förenat med vite MH-2020-                         20
 gällande åtgärder avseende hög 2596                            min
 temperatur inomhus
 

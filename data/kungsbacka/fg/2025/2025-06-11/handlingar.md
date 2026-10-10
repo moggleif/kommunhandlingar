@@ -115,7 +115,7 @@ FG-2025-00331
 Förslag till beslut i nämnden för Förskola & Grundskola
 Nämnden för Förskola & Grundskola beslutar:
 
--  att godkänna verksamhetsanpassning av lokaler på Åsaskolan.
+\-  att godkänna verksamhetsanpassning av lokaler på Åsaskolan.
 
 Beskrivning av ärendet
 
@@ -214,7 +214,7 @@ FG Myndighet & Stöds tjänsteskrivelse, 2025-05-07
 Förslag till Regler för skolskjuts för inom Förskola & Grundskola
 
 Beslutet skickas till
--
+\-
 
 Beskrivning av ärendet
 Skollagen anger de grundläggande krav om skolskjuts som kommunen måste uppfylla och kommuner
@@ -297,12 +297,12 @@ Definition .....................................................................
 Ansökan ...................................................................................................................................... 4
 
 Rätt till skolskjuts ......................................................................................................................... 4
-1.  Färdvägens längd ....................................................................................................... 4
-2.  Trafikförhållanden ....................................................................................................... 5
+1\.  Färdvägens längd ....................................................................................................... 4
+2\.  Trafikförhållanden ....................................................................................................... 5
 
 Vinterskolskjuts .................................................................................................................... 5
-3.  Funktionsnedsättning ................................................................................................. 5
-4.  Annan särskild omständighet ...................................................................................... 6
+3\.  Funktionsnedsättning ................................................................................................. 5
+4\.  Annan särskild omständighet ...................................................................................... 6
 
 Olika typer av skolskjuts ............................................................................................................... 6
 Upphandlad skolbuss ........................................................................................................... 6
@@ -373,14 +373,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
-2. Trafikförhållandena
-3. Funktionsnedsättning
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 
-4. Annan särskild omständighet
+4\. Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
 
@@ -411,7 +411,7 @@ skolan eller gränsen till skolans fastighetsområde.
 •  Kommunen får anvisa alla vägar där allemansrätten råder.
 •  Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Vårdnadshavaransvaret
@@ -434,7 +434,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall detta
 omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 Vissa elever med funktionsnedsättning har rätt till skolskjuts även om färdvägens
 
 längd och trafikförhållanden inte medger skolskjuts.Vid ansökan om skolskjuts på
@@ -452,7 +452,7 @@ Kungsbacka kommun              Regler för skolskjuts            5 (10)
 
 <!-- sida 13 -->
 
-4. Annan särskild omständighet
+4\. Annan särskild omständighet
 I vissa särskilda fall kan kommunen fatta beslut om rätt till skolskjuts trots att ingen
 
 av ovanstående omständigheter är uppfyllda.
@@ -505,7 +505,7 @@ Tiderna kan inte ändras av enskild vårdnadshavare.
 •  Skolskjuts med personbil kan beviljas både för del av sträckan och hela
 sträckan.
 
-*
+\*
 
 Kungsbacka kommun              Regler för skolskjuts            6 (10)
 
@@ -1515,10 +1515,10 @@ upp arten av riskerna och förebygga dessa på systemnivå.
 
 Den samlade bedömningen av arbetet med personuppgiftsincidenter är att:
 
-1) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
+1\) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
 anmäla, och
 
-2) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
+2\) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
 
 Registrerades rättigheter
 De personer vars personuppgifter behandlas, de registrerade, har ett antal rättigheter enligt
@@ -1574,21 +1574,21 @@ systematisk uppföljning av dataskyddsarbetet. Årsstrukturen består, utöver d
 följande.
 
 Maj-juni
-- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
+\- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
 
 Juni
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, information till registrerade och information till användare/personal
 
 September-Oktober
-- Likvärdighetsforum och egenkontroller.
+\- Likvärdighetsforum och egenkontroller.
 
-- Återrapportering av åtgärder utifrån Kolla dataskyddet.
+\- Återrapportering av åtgärder utifrån Kolla dataskyddet.
 
-- Uppföljning av rutiner kring systemförvaltningen.
+\- Uppföljning av rutiner kring systemförvaltningen.
 
 December
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, generell information
 
 <!-- sida 37 -->
@@ -1601,7 +1601,7 @@ Dnr
 2025-00320
 
 Februari-mars
-- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
+\- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
 
 Tillkommer gör även Dataskyddsombudets årliga granskning, samt det löpande
 dataskyddsarbetet i samband med begäran om registerutdrag, personuppgiftsincidenter och
@@ -1740,10 +1740,10 @@ Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 KUNGSBACKA  KOMMUN
 3 (3)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -1769,7 +1769,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #203362 | Inskickat av: Livi Ulrica Ekholm | 2025-05-08 14:37
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -1813,7 +1813,7 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 389.9 kvm                         1318 kvm
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -1848,7 +1848,7 @@ fritidshem.
 Vi ansöker om utökat antal för att kunna möta efterfrågan av plats för syskon till redan inskrivna
 barn samt för att kunna möta ökade kostnader för lokal och livsmedel.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -1862,8 +1862,8 @@ Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
 Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
-Riskbedo&#776;mning o handlingsplan, fo&#776;ra&#776;ndringar i verksamheten -
-uto&#776;kat antal barm.pdf (524 KB)
+Riskbedo\&#776;mning o handlingsplan, fo\&#776;ra\&#776;ndringar i verksamheten -
+uto\&#776;kat antal barm.pdf (524 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 

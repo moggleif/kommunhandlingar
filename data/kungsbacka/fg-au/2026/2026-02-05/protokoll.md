@@ -587,9 +587,9 @@ Dom - Överklagande av länsstyrelsens beslut att upphäva lokala ordningsföres
 Beslut att upphäva lokala ordningsföreskrifter - Anmälan enligt 3 kap. 13 §
 ordningslagen (1993:1617) av lokala ordningsföreskrifter, 2020-03-02.
 Bilaga 1 tillhörande Länsstyrelsens beslut om lokala ordningsföreskrifter, 2020-03-
-02.
+02\.
 Bilaga 2 tillhörande Länsstyrelsens beslut om lokala ordningsföreskrifter, 2020-03-
-02.
+02\.
 
 Beslutsgång
 

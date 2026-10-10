@@ -81,13 +81,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -99,13 +99,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -207,7 +207,7 @@ Förvaltningschef
 
 Biblioteken       i Kungsbacka,         taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 a. Denna taxa gäller avgifter för verksamhet som drivs av Biblioteken i Kungsbacka, inom
 nämnden för Kultur & Fritids ansvarsområde.
@@ -216,7 +216,7 @@ b. Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 kompetensen.
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt bibliotekslagen gäller att lån är avgiftsfria, men att folkbiblioteken får ta ut ersättning för
 kostnader för porto, fotokopiering och andra liknande tjänster samt avgift för de fall låntagare inte inom
 avtalad tid lämnar tillbaka det som de har lånat.
@@ -224,7 +224,7 @@ avtalad tid lämnar tillbaka det som de har lånat.
 Höjningarna av avgifterna för ej tillbakalämnat material görs för att uppnå ett smidigt flöde av utlånat
 material.
 
-3. Avgiftsbelopp/taxetabell
+3\. Avgiftsbelopp/taxetabell
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
@@ -249,17 +249,17 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 A4 per sida               3 kr
 
-4. Indexjustering av avgiftsbelopp
+4\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 
 verksamhet (PKV).
 
-5. Delegering av beslut om justering efter index
+5\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
 retroaktivt.
 
-6. Ikraftträdande
+6\. Ikraftträdande
 Denna taxa träder i kraft 2025-01-01. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 verksamhet som omfattas av denna taxa.
 
@@ -303,7 +303,7 @@ Biblioteken i Kungs backa, taxa 2025 Sida 3 av 3
 
 Kungsbacka         Konsthall,      Taxa    2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 a. Denna taxa gäller avgifter för verksamhet som drivs gentemot organisationer och enskilda
 invånare av Kungsbacka Konsthall i Kulturhuset Fyren, inom nämnden för Kultur & Fritids
@@ -313,19 +313,19 @@ kompetensen.
 
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 
 självkostnadsprincipen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 För avgifter som omfattar uthyrning av personal gäller 25 % moms.
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 10 -->
 
-4. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
+4\. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
 
 Likställighetsprincipen följs genom att besökare grupperas in i två kategorier utifrån hur stor anledning
 kommunen har att subventionera utifrån politiskt fastställda mål och styrdokument. Den lägre
@@ -358,20 +358,20 @@ Kungsbacka Kons thall, Taxa 2025 Sida 2 av 3
 
 <!-- sida 11 -->
 
-5. Andra aktiviteter
+5\. Andra aktiviteter
 Förvaltningschef får besluta om taxa för eventuellt tillkommande former för programverksamhet/
 evenemangsformer.
 
-6. Indexjustering av avgiftsbelopp
+6\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV).
 
-7. Delegering av beslut om justering efter index
+7\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller
 inte, och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte
 
 tillgodoräknas retroaktivt.
-8. Ikraftträdande
+8\. Ikraftträdande
 
 Denna taxa träder i kraft 1 januari 2025. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 verksamhet som omfattas av denna taxa.
@@ -397,7 +397,7 @@ Kungsbacka Kons thall, Taxa 2025 Sida 3 av 3
 
 Kungsbacka        Kulturskola,       taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 a. Denna taxa gäller avgifter för verksamhet som drivs av Kungsbacka Kulturskola, inom
 nämnden för Kultur & Fritids ansvarsområde.
 
@@ -405,7 +405,7 @@ b. Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 kompetensen.
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 självkostnadsprincipen. Enligt kommunallagens självkostnadsprincip finns möjlighet att ta ut en
@@ -414,7 +414,7 @@ att delta i kulturskolans verksamhet är betydligt lägre än kommunens självko
 detta för att barn och unga ska ha möjlighet till eget kulturskapande och genom att deltaga i
 kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teater.
 
-3. Avgiftsbelopp/taxetabeller
+3\. Avgiftsbelopp/taxetabeller
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
@@ -439,32 +439,32 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 13 -->
 
-4. Andra undervisningsformer
+4\. Andra undervisningsformer
 
 Förvaltningschef får under året anta ny taxa för eventuellt tillkommande undervisningsformer.
 
-5. Fakturering
+5\. Fakturering
 
 Terminsavgiften faktureras i oktober och februari, en avgift per kurs. Om eleven börjar en kurs efter
 höstlovet på höstterminen eller efter påsklovet på vårterminen betalas halva terminsavgiften för denna kurs.
 
-6. Orkester och kör
+6\. Orkester och kör
 
 Elever som spelar ett orkesterinstrument kan vara med i en orkester eller ensemble utan att betala extra avgift
 för det. Sångelever kan vara med i en av kulturskolans körer utan att betala extra avgift för det.
 
-7. Syskonrabatt
+7\. Syskonrabatt
 
 Om tre barn från samma hushåll går på kulturskolan betalas halva priset för det tredje barnet. Det fjärde
 barnet från samma hushåll går gratis. Detta gäller om alla barn är folkbokförda på samma adress och samma
 person står som fakturamottagare för samtliga barn.
 
-8. Indexjustering av avgiftsbelopp
+8\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV).
 
-9. Delegering av beslut om justering efter index
+9\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
@@ -492,7 +492,7 @@ Naturum       Fjärås    Bräcka     och   Äskhults      By
 
 Taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för produkter och tjänster till organisationer och enskilda invånare vid besöksmål
 inom nämnden för Kultur & Fritids ansvarsområde.
@@ -503,10 +503,10 @@ Följande lokaler omfattas:
 
 Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
-2. Beräkningsgrunder
-1. Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
+2\. Beräkningsgrunder
+1\. Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 självkostnadsprincipen.
-2. Lika behandling av invånare, likställighetsprincipen, innebär att besökare grupperas in i två
+2\. Lika behandling av invånare, likställighetsprincipen, innebär att besökare grupperas in i två
 kategorier som bygger på hur stor anledning kommunen har att subventionera den kategorin utifrån
 politiskt fastställda mål och styrdokument. Den lägre avgiftsnivån ”ideell” tillämpas för kommunens
 
@@ -514,14 +514,14 @@ förvaltningar samt bidragsberättigade föreningar inom kommunen, den högre �
 övriga föreningar samt privatpersoner och företag.
 Ideell hyra gäller ideella föreningar, övriga kommunala förvaltningar, skolor, fackföreningar och
 politiska partier, samt privatpersoner när det gäller icke-kommersiell verksamhet.
-3. Principen om att inte konkurrera med privata alternativ innebär att avgifter för produkter och tjänster
+3\. Principen om att inte konkurrera med privata alternativ innebär att avgifter för produkter och tjänster
 som även finns på den privata marknaden har avgiftsnivåer motsvararande marknadsnivå, så att
 kommunen inte påverkar marknaden med sin prissättning. Principen innebär att de grupper besökare
 som kommunen inte enligt mål och styrdokument ska stödja betalar en marknadsmässig avgift.
-4. Priserna inom den ordinarie caféverksamheten på respektive besöksmål specificeras inte i denna
+4\. Priserna inom den ordinarie caféverksamheten på respektive besöksmål specificeras inte i denna
 taxa, men principen om avgiftsnivåer motsvarande marknadsnivå ska tillämpas även här.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (1994:200). För hyra av personal gäller 25 %
 moms.
 
@@ -529,7 +529,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 15 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 
 Naturum Fjärås Bräcka
 
@@ -576,21 +576,21 @@ Naturum Fjärås Bräcka och Äsk hults By Taxa Sida 3 av 4
 
 <!-- sida 17 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV). Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
 retroaktivt.
 
-7. Övergångsbestämmelse
+7\. Övergångsbestämmelse
 Pris sätts utifrån den taxa som är beslutad att gälla på besökstillfället. Om inget taxebeslut har tagits för detta
 datum, används priset som gällde när besöket avtalades.
 
-8. Ikraftträdande
+8\. Ikraftträdande
 Denna taxa träder i kraft 1 januari 2025. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för de
 lokaler och verksamheter som omfattas av denna taxa.
 
@@ -617,22 +617,22 @@ Kungsbacka    Teater  och  konsertlokalen    Snäckan
 Taxa  2025
 
 Innehåll
-1. Inledande bestämmelser ....................................................................................................................... 2
+1\. Inledande bestämmelser ....................................................................................................................... 2
 
-2. Beräkningsgrunder ............................................................................................................................... 2
-3. Mervärdesskatt ..................................................................................................................................... 2
+2\. Beräkningsgrunder ............................................................................................................................... 2
+3\. Mervärdesskatt ..................................................................................................................................... 2
 
-4. Avgiftsbelopp/taxetabell Kungsbacka Teater ........................................................................................ 3
-5. Avgiftsbelopp/taxetabell, konsertsalen Snäckan.................................................................................... 4
+4\. Avgiftsbelopp/taxetabell Kungsbacka Teater ........................................................................................ 3
+5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan.................................................................................... 4
 
-8. Övergångsbestämmelse ........................................................................................................................ 4
-9. Ikraftträdande....................................................................................................................................... 5
+8\. Övergångsbestämmelse ........................................................................................................................ 4
+9\. Ikraftträdande....................................................................................................................................... 5
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 19 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1. Denna taxa gäller avgifter för uthyrning av lokaler med tillhörande tjänster till organisationer och
 enskilda invånare inom nämnden för Kultur & Fritids ansvarsområde.
@@ -642,7 +642,7 @@ enskilda invånare inom nämnden för Kultur & Fritids ansvarsområde.
 1.3. För uthyrningar av övriga lokaler i Kungsbacka Teater sätts hyra från fall till fall utifrån
 självkostnadsprincipen.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 2.1. Avgifter tas ut enligt de grunder och principer som framgår av Kommunallagen (2017:725), 2 kap.
 5–6 §§.
 2.2. Lika behandling av liknande hyrestagare, likställighetsprincipen, innebär i denna taxa att
@@ -662,7 +662,7 @@ avgifter.
 2.6. Vid samarrangemang, dvs där förvaltningen för Kultur & Fritid medverkar som en av flera
 arrangörer, kan reducering av lokalhyra utgöra förvaltningens bidrag i samarbetet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 3.1. Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (2023:200).
 3.2. För hyra av personal gäller 25 % moms, förutom när personal ingår som en obligatorisk del av
 lokalhyran.
@@ -671,7 +671,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 2 av 5
 
 <!-- sida 20 -->
 
-4. Avgiftsbelopp/taxetabell Kungsbacka Teater
+4\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
 4.1. Endast hela timmar debiteras. Arrangören betalar för iordningställande före och efter
 arrangemanget. Teatern går endast att boka med behörig personal. Vid större evenemang krävs två
@@ -698,7 +698,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 3 av 5
 
 <!-- sida 21 -->
 
-5. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
+5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
 
 5.1. Ideell hyra gäller ideella föreningar, övriga kommunala förvaltningar, skolor, fackföreningar och
 politiska partier, samt privatpersoner när det gäller icke-kommersiell verksamhet.
@@ -706,18 +706,18 @@ politiska partier, samt privatpersoner när det gäller icke-kommersiell verksam
 5.3. De merkostnader som ett arrangemang har i form av extra teknik, personal eller marknadsföring
 bekostas av respektive arrangör.
 
-6. Indexjustering av avgiftsbelopp
+6\. Indexjustering av avgiftsbelopp
 
 6.1. Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för
 kommunal verksamhet (PKV).
 6.2. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-7. Delegering av beslut om justering efter index
+7\. Delegering av beslut om justering efter index
 7.1. Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske
 eller inte, och i förekommande fall räkna upp beloppen i taxan.
 7.2. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-8. Övergångsbestämmelse
+8\. Övergångsbestämmelse
 
 8.1. Pris sätts utifrån den taxa som är beslutad att gälla för bokningstillfället.
 8.2. Om det vid det datum bokningen görs inte har tagits något nytt taxebeslut för det datum bokningen
@@ -736,7 +736,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 4 av 5
 
 <!-- sida 22 -->
 
-9. Ikraftträdande
+9\. Ikraftträdande
 9.1. Denna taxa träder i kraft 1 jan 2025. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 de lokaler och verksamheter som omfattas av denna taxa.
 

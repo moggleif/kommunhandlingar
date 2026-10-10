@@ -251,7 +251,7 @@ känna stort ansvar för att bidra med mer ändamålsenliga lokaler.
 
 Vi yrkar därför
 
--  att förvaltningen påskyndar processen att erbjuda föreningen
+\-  att förvaltningen påskyndar processen att erbjuda föreningen
 
 mer ändamålsenliga lokaler.
 
@@ -796,7 +796,7 @@ donationsfonder.
 
 Vi yrkar därför
 
--  att förvaltningen tar initiativ till en skulptur som lyfter fram torghandlaren och vår
+\-  att förvaltningen tar initiativ till en skulptur som lyfter fram torghandlaren och vår
 mångsekellånga handelstradition.
 
 Birgitta Tingdal      Magnus Calén               Alireza Sherzad
@@ -1008,7 +1008,7 @@ KFT-2025-00117
 KS-2022-01-21
 Yttrande över myndighetens remiss: Begravningsplats för sällskapsdjur KS-2022-06-
 
-21)
+21\)
 
 Sammanfattande inställning
 
@@ -1080,7 +1080,7 @@ Utredning
 
 Historik    om    Kungsbackaskogen
 
-•   Kolerakyrkogården   och Skogskyrkogården    (~1930)
+•   Kolerakyrkogården   och Skogskyrkogården    (\~1930)
 
 Kungsbackaskogen              idag
 
@@ -1399,10 +1399,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -1531,11 +1531,11 @@ andra
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Kommunövergripande bedömning
 Vi har nått målet
 
@@ -1590,7 +1590,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -1600,18 +1600,18 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 73 %   75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 
 6
 
@@ -1625,7 +1625,7 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 86 %   88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Total debiterad vattenförbrukning fördelat på
 antal anslutna till vattenledningsnätet. (Här
 ingår förbrukning från hushåll, kommunen
@@ -1640,7 +1640,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 115   151
@@ -1659,8 +1659,8 @@ Andelen återbrukade möbler
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -1746,8 +1746,8 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har nått målet
@@ -1831,10 +1831,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -2936,7 +2936,7 @@ Enligt bibliotekslagen (2013:801) ska varje kommun ha en biblioteksplan. Bibliot
 2030 visar den strategiska riktningen för hur Biblioteken i Kungsbacka ska ll svara upp mot
 bibliot ekslagen . För att säkerställa ett systematiskt och långsiktigt genomförande har denna
 handlingsplan tagits fram för att beskriv a hur planens mål ska omsättas under perioden 2026 –
-2030.
+2030\.
 
 Biblioteken i Kungsbacka arbetar strukturera t med Biblioteksplanen för att bidra till nämndens
 mål och kommunens vision 2030. Handlingsplanen förklarar vilka utvecklingsområden som är
@@ -3303,7 +3303,7 @@ utveckling.
 
 Läroplaner:
 Enligt läroplan för grundskola (Lgr 22) kapitel 2:8 och läroplan för gymnasieskola (Gy
-11) kap 2:6 är rektors ansvar att skolbibliotekets verksamhet används som en del i
+11\) kap 2:6 är rektors ansvar att skolbibliotekets verksamhet används som en del i
 undervisningen för att stärka elevernas språkliga förmåga och digitala kompetens.
 
 FN:s konvention om barnets rättigheter
@@ -3400,11 +3400,11 @@ De nationella minoriteterna
 Bibliotekslagen säger i 5 § att "Biblioteken i det allmänna biblioteksväsendet ska ägna
 särskild uppmärksamhet åt de nationella minoriteterna och personer som har annat
 modersmål än svenska, bland annat genom att erbjuda litteratur på
-1. de nationella minoritetsspråken,
+1\. de nationella minoritetsspråken,
 
-2. andra språk än de nationella minoritetsspråken och svenska, och
+2\. andra språk än de nationella minoritetsspråken och svenska, och
 
-3. lättläst svenska"
+3\. lättläst svenska"
 De nationella minoriteterna är sverigefinnar, tornedalingar, romer, judar och samer
 
 (som också har status som urfolk). Det finns också fem erkända nationella
@@ -3577,7 +3577,7 @@ Vid höjd beredskap ska folkbiblioteken fortsätta att erbjuda samhällsservice 
 fungera som informationsnav. Det kan bli nödvändigt att anpassa biblioteken i
 Kungsbackas uppdrag och tjänster utifrån de rådande omständigheterna.
 
-__________
+\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun            Biblioteksplan 2025-2030           9 (9)
 
@@ -3662,7 +3662,7 @@ www.kungsbacka.se
 
 | Ärende/ärendegrupp enligt<br>delegationslistan | Delegeringsbeslut, insats samt ev. omfattning | Beslutsfattare |
 | --- | --- | --- |
-| 2.1.14 Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till förtroende valda | Deltagande i aktivitet* för ordförande,<br>vice ordförande, ledamot och ersättare i<br>nämnden.<br>Deltagande med arvode på SKR:s kultur-<br>och fritidskonferens 4-5 november för<br>Maria Gathendahl (M) | Annika Hedman |
+| 2.1.14 Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till förtroende valda | Deltagande i aktivitet\* för ordförande,<br>vice ordförande, ledamot och ersättare i<br>nämnden.<br>Deltagande med arvode på SKR:s kultur-<br>och fritidskonferens 4-5 november för<br>Maria Gathendahl (M) | Annika Hedman |
 
 <!-- sida 91 -->
 

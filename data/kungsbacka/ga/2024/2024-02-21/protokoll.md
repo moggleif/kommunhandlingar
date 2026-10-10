@@ -515,10 +515,10 @@ Sammanfattning av ärendet
 
 Under perioden har följande skrivelser inkommit till nämnden.
 
-1. FSG protokoll 2024-02-06
-2. Samordningsförbundet Halland protokoll
+1\. FSG protokoll 2024-02-06
+2\. Samordningsförbundet Halland protokoll
 
-3. Meddelande om överenskommelse av omställning till ny socialtjänst (SKR)
+3\. Meddelande om överenskommelse av omställning till ny socialtjänst (SKR)
 
 Beslutsgång
 

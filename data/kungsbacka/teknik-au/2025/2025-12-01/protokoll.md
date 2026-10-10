@@ -70,7 +70,7 @@ Godkännande av ärendelistan och val av justerare .............................
 
 § 59 Dnr TE-2025-00980
 Information om hur trafiksäkerheten har utvecklats i Kungsbacka under
-2024. ......................................................................................................... 4
+2024\. ......................................................................................................... 4
 
 § 60 Dnr TE-2025-00933
 Omfördelning av medel mellan projekt skatt 2025 - Omgång 5 ................. 5
@@ -113,7 +113,7 @@ Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Tilldelning av investeringsmedel på projektnivå, 2026, portfölj VA
+\-  Tilldelning av investeringsmedel på projektnivå, 2026, portfölj VA
 Ärendet placeras sist i dagordningen.
 
 Beslutsgång
@@ -135,7 +135,7 @@ Datum
 
 § 59                       Dnr TE-2025-00980
 Information om hur trafiksäkerheten har utvecklats i Kungsbacka under
-2024.
+2024\.
 
 Beslut
 Nämnden för Tekniks arbetsutskott noterar informationen till protokollet.

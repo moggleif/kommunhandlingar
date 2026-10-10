@@ -451,7 +451,7 @@ beslutanderätten genom att själv ta över ärendet och fatta beslut.
 Ordföranden (M) har med stöd av nämnden för Miljö & Hälsoskydd
 delegeringsförteckning, punkt 1.4, av nämnden för Miljö & Hälsoskydd 2024-04-11
 § 48 beslutat att avslå dispensansökan från Geraud Markets Sweden Ab 559007-
-2921.
+2921\.
 
 Beslutsunderlag
 

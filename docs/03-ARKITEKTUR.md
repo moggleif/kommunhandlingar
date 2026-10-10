@@ -8,7 +8,7 @@ rättas efter den.
 
 ## Flödet
 
-```
+```text
 kommuner/<kommun>.toml
         │
         ▼
@@ -146,7 +146,7 @@ körningen bara har ändrat filer under `data/`.
 
 ## Datamodell
 
-```
+```text
 Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
             └── Sammanträde (datum, löpnummer om flera samma dag)
                   └── Dokument (kallelse | handlingar | protokoll | bilaga)
@@ -177,7 +177,7 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
 
 ## Katalogstruktur
 
-```
+```text
 src/kommunhandlingar/
   konfiguration.py kommunfilen läses och kontrolleras
   schema.py        kontrollerna av fält och värden i kommunfilen
@@ -587,7 +587,7 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   texten står kvar i sidans text.
 - **En säker tabell utan lodräta linjer** läses ur de ord som står
   utanför tabellerna med linjer, enligt
-  [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).
+  [Tabeller utan lodräta linjer](#tabeller-utan-lodräta-linjer).
 - Båda sorterna skrivs som CSV enligt [Tabeller](#tabeller), numrerade
   tillsammans efter läget på sidan.
 - **En osäker tabell** är minst tre talrader på sidan, var som helst
@@ -717,25 +717,48 @@ textlagret; inget tal görs om.
 ### Markdown-texten
 
 Hur och varför står i
-[ADR-0014](decisions/0014-markdown-texten-och-steg-2.md). Efter front
-matter följer sidorna i ordning. Varje sida börjar med kommentaren
-`<!-- sida N -->`, så att en sida i `kvalitet_per_sida` eller
-`tal_obekraftade` går att hitta i texten.
+[ADR-0014](decisions/0014-markdown-texten-och-steg-2.md) och
+[ADR-0021](decisions/0021-texten-ar-riktig-markdown.md). Texten är
+riktig Markdown: CommonMark med GFM:s tabeller och genomstrykning, och
+GitHubs formler med `$`. Efter front matter följer sidorna i ordning.
+Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
+`kvalitet_per_sida` eller `tal_obekraftade` går att hitta i texten.
 
 - **Texten** är textlagret med bevarad uppställning (pdfplumber,
   `layout=True`). Raderna skrivs utan indrag, men mellanrummen inne i
   raden står kvar, så att två tal i följd inte flyter ihop. Flera tomma
-  rader blir en.
+  rader blir en. Raderna är mjuka radbrytningar, så de flyter ihop till
+  ett stycke när texten visas, liksom mellanrummen; uppställningen finns
+  i råfilen.
+- **Escapningen** gör att texten visas som den stod. Bara det som annars
+  ändrar betydelse får ett `\` framför sig:
+  - i radens början: talet i `1.` och `1)` (`1\.`), `-` och `+` följda av
+    mellanslag, tabb eller radslut, `#`, `>`, och `[` i något som liknar en
+    länkdefinition (`[1]: …`);
+  - en rad av bara `-`, `=`, `_`, `*`, `|`, `:` och mellanslag får ett
+    `\` först, och i övrigt escapas bara `*` och `_`;
+  - var som helst: `\` före ett skiljetecken eller i radslutet, `` ` ``,
+    `*`, `~`, `$`, `<` före en bokstav, `/`, `!` eller `?`, `&` i
+    något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(` eller
+    `[`, och `_` som inte står mellan två bokstäver eller siffror.
+- **En OCR-sida** escapas på samma sätt, och raderna skrivs utan indrag.
 - **En osäker tabell** står där den står på sidan, som ett kodblock märkt
-  `osaker-tabell` med uppställningen kvar.
+  `osaker-tabell` med uppställningen kvar. Staketet är längre än varje
+  följd av backticks i blocket.
 - **En säker tabell**, med eller utan lodräta linjer, står inte i sidans
   text. Den står efter texten, i
   sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
   följd av tabellen i Markdown. Där är första raden tabellhuvud, eftersom
-  Markdown kräver ett; `|` skrivs `\|` och en radbrytning `<br>`.
+  Markdown kräver ett. Cellerna escapas som texten utom i radens början;
+  `|` skrivs `\|` och en radbrytning `<br>`.
 - **En sida utan text** (`tom`, `ej-konverterad`) har bara sin kommentar.
   En `.md` för ett dokument som inte gick att hämta eller öppna har ingen
   text alls.
+- **Lint.** CI kör markdownlint-cli2 på varje `.md` som en pull request
+  lägger till eller ändrar, med reglerna i `.markdownlint-cli2.jsonc`.
+- **Dokument från före version 0.4.0** rättades en gång med samma regel
+  utan att hämtas igen, och har kvar sin äldre version i `pipeline` tills
+  de konverteras om.
 
 ## Steg 2: hämta och konvertera
 
@@ -835,10 +858,11 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   var, från 1 till sista sidan. I en tolkad CSV ska varje tal i varje
   cell stå i sidans text före tolkningen, och en cell med siffror som
   inte är ett helt tal, som `65–79 år` eller `2022-23`, ska stå
-  ordagrant där. Sidans text är då utan länkarna till tabellerna, och
-  ett tal är ett helt tal med tusentalsmellanrum: `120` står inte i
-  `1 120` eller `1 250–1 120`, och inget tal står i `13.30`,
-  `2025-10-08`, `2022/23`, `K15` eller `3a`. En cell som står ordagrant
+  ordagrant där. Sidans text är då utan länkarna till tabellerna och
+  utan Markdowns escapning, som den stod i PDF:en, och ett tal är ett
+  helt tal med tusentalsmellanrum: `120` står inte i `1 120` eller
+  `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`,
+  `K15` eller `3a`. En cell som står ordagrant
   är heller ingen del av ett tal: `5–3` står inte i `2,5–3,5`, och
   `250–300` inte i `1 250–300`. Eftersom tusentalen skiljs med
   mellanslag läses tal med ett enda mellanslag emellan ihop, som axeln

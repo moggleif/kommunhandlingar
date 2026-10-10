@@ -797,14 +797,14 @@ Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Nämndmål
+\* Nämndmål
 
-* Nämndens direktiv till förvaltningen
-* Ramfördelning driftbudget
+\* Nämndens direktiv till förvaltningen
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
 bifogas nämndbudget 2026.
@@ -926,7 +926,7 @@ På förvaltningen arbetar 106 tillsvidareanställda medarbetare i oktober 2025.
 och 45 procent män. Antal årsarbetare omräknat i heltid uppgår till 105,2.
 Budgetomslutningen 2026 är knappt 90 miljoner kronor varav cirka 80 procent utgörs av personalkostnader.
 Verksamheten finansieras till drygt 50 procent av avgifter. Nämnden har en nettobudget på 40 miljoner kronor
-2026.
+2026\.
 
 3
 
@@ -1322,10 +1322,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 13
 
@@ -1349,11 +1349,11 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 14
 
@@ -1386,8 +1386,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 15
@@ -1419,8 +1419,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 16
 
@@ -1455,12 +1455,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 17
 

@@ -993,7 +993,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -1089,7 +1089,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -1149,7 +1149,7 @@ Kungsbacka     kommun
 Innehållsförteckning
 
 Sammanfattning .................................................................................................................. 3
-1.  Inledning .................................................................................................................... 5
+1\.  Inledning .................................................................................................................... 5
 
 1.1. Bakgrund ................................................................................................................... 5
 1.2. Syfte och revisionsfrågor ........................................................................................... 5
@@ -1158,7 +1158,7 @@ Sammanfattning .................................................................
 1.4. Metod ........................................................................................................................ 5
 
 1.5. Avgränsningar och ansvariga nämnder ...................................................................... 5
-2.  Uppföljning av verksamhetens kvalitet ................................................................... 6
+2\.  Uppföljning av verksamhetens kvalitet ................................................................... 6
 
 2.1. Vår bedömning avseende uppföljning av verksamhetens kvalitet............................... 6
 2.2. Inom förvaltningen finns riktade ansvar för kvalitet och uppföljning ............................ 6
@@ -1172,7 +1172,7 @@ Sammanfattning .................................................................
 2.4.3. Löpande uppföljning ..............................................................................................11
 2.4.4. Intern kontroll ........................................................................................................12
 
-3.  Delaktighet och inflytande ......................................................................................13
+3\.  Delaktighet och inflytande ......................................................................................13
 3.1. Vår bedömning av delaktighet och inflytande ............................................................13
 
 3.2. Det finns stöd för upprättande av genomförandeplaner .............................................13
@@ -1182,7 +1182,7 @@ Sammanfattning .................................................................
 3.3.2. Kommentar avseende stickprov ............................................................................15
 
 3.4. Det finns olika former för att tillvarata synpunkter ......................................................15
-4.  Samlad bedömning och rekommendationer ..........................................................16
+4\.  Samlad bedömning och rekommendationer ..........................................................16
 
 4.1. Bedömning utifrån revisionsfrågorna .........................................................................16
 4.2. Slutsatser och rekommendationer .............................................................................16
@@ -1275,7 +1275,7 @@ genomförandeplanen.
 
 <!-- sida 40 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -1330,7 +1330,7 @@ boende i kommunal regi samt i enlighet med ställda revisionsfrågor.
 
 <!-- sida 41 -->
 
-2. Uppföljning av verksamhetens kvalitet
+2\. Uppföljning av verksamhetens kvalitet
 
 2.1. Vår bedömning avseende uppföljning av verksamhetens kvalitet
 
@@ -1527,7 +1527,7 @@ Uppföljningen inom hela förvaltningen sker delår- och helårsvis i en kvalite
 
 patientsäkerhetsberättelse. Kvalitets- och patientsäkerhetsberättelsen för 2024 antogs av
 nämnden i februari 20253. Kvalitetsberättelsen för delår 2025 antogs av nämnden i oktober
-2025. Enligt uppgift pågår arbete med sammanställningen av kvalitetsberättelsen för helår
+2025\. Enligt uppgift pågår arbete med sammanställningen av kvalitetsberättelsen för helår
 2025 i skrivande stund och kommer enligt intervjuuppgift upp i nämnden den 19 februari 2026.
 
 I kvalitetsberättelsen redovisas resultat och analys av förvaltningens arbete under året
@@ -1554,7 +1554,7 @@ I kvalitetsberättelsen för delåret 2025 redovisas på förvaltningsövergripa
 
 rapporteringsbenägenheten. En förklaring till den ökade rapporteringsnivån bedöms kunna
 vara de utbildningar som hållits i förvaltningen kring systematiskt kvalitetsarbete under våren
-2025. Ett medvetet mål med  utbildningarna uppges ha varit att öka
+2025\. Ett medvetet mål med  utbildningarna uppges ha varit att öka
 rapporteringsbenägenheten av händelser och lex Sarah. Ökningen av rapporterade händelser
 bedöms utifrån detta perspektiv som positiv.
 
@@ -1648,7 +1648,7 @@ egenkontroller.
 
 <!-- sida 48 -->
 
-3. Delaktighet och inflytande
+3\. Delaktighet och inflytande
 
 3.1. Vår bedömning av delaktighet och inflytande
 
@@ -1676,7 +1676,7 @@ genomförandeplanerna.
 
 Vår bedömning är vidare att det finns former och forum
 
-3. 2. Det finns stöd för upprättande av genomförandeplaner
+3\. 2. Det finns stöd för upprättande av genomförandeplaner
 
 Sy ftet med en genomförandeplan är att skapa en tydlig struktur för genomförandet och
 uppföljningen av en beslutad insats. Genomförandeplanen tydliggör för den enskilde och för
@@ -1726,7 +1726,7 @@ historik avseende datum för upprättande/uppföljning.
 Tabell 1. Resultat stickprovsgranskning.
 Fråga                  Boende                       Ej
 
-tillämplig**
+tillämplig\*\*
 Är genomförandeplan    Boende 1                     0
 upprättad?             Boende 2                     0
 Boende 3                     0
@@ -1742,7 +1742,7 @@ Har uppföljning av planen Boende 1                  3
 genomförts?            Boende 2                     1
 Boende 3                     1
 Boende 4                     1
-*Delvis - Uppföljning av genomförandeplan har genomförts men inte i enlighet med riktlinjer om maxtiden
+\*Delvis - Uppföljning av genomförandeplan har genomförts men inte i enlighet med riktlinjer om maxtiden
 på sex månader mellan respektive uppföljning.
 
 5 Uppdragsbeskrivning Undersköterska
@@ -1751,7 +1751,7 @@ på sex månader mellan respektive uppföljning.
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Ja | Delvis* | Nej |
+| Ja | Delvis\* | Nej |
 | --- | --- | --- |
 | 14 | 0 | 0 |
 | 6 | 0 | 0 |
@@ -1768,7 +1768,7 @@ på sex månader mellan respektive uppföljning.
 
 <!-- sida 50 -->
 
-**Ej tillämplig - Genomförandeplanen är ”ny”, dvs upprättad inom en kortare tid än sex månader, och
+\*\*Ej tillämplig - Genomförandeplanen är ”ny”, dvs upprättad inom en kortare tid än sex månader, och
 därmed inte aktuellt med uppföljning.
 
 3.3.2. Kommentar avseende stickprov
@@ -1819,7 +1819,7 @@ Enligt intervjuuppgift har fokus under år 2025 gällt trivsel och inflytande ko
 
 <!-- sida 51 -->
 
-4. Samlad bedömning  och rekommendationer
+4\. Samlad bedömning  och rekommendationer
 
 4.1. Bedömning utifrån revisionsfrågorna
 
@@ -2580,7 +2580,7 @@ Patientnämnden    Halland
 
 Förslag till beslut
 
-1. Regionfullmäktige fastställer reviderat reglemente enligt förslag för
+1\. Regionfullmäktige fastställer reviderat reglemente enligt förslag för
 
 Patientnämnden Halland.
 
@@ -2628,7 +2628,7 @@ i Patientnämndens reglemente.
 I Patientnämnden Hallands åtgärdas paragrafdubbletter. Förslag finns också
 att ta bort två meningar gällande hantering av kallelse och protokoll i §14 och
 
-27. Dessa är gulmarkerade i bilaga Revidering Reglemente Patientnämnden
+27\. Dessa är gulmarkerade i bilaga Revidering Reglemente Patientnämnden
 Halland.
 
 Bakgrund
@@ -2643,12 +2643,12 @@ nämnden.
 Av 2 kap. 4 § lag (2006:544) om kommuners och regioners åtgärder inför och
 vid extraordinära händelser i fredstid och höjd beredskap, LEH, framgår att
 
-2. Krisledningsnämnden får fatta beslut om att överta hela eller delar av
+2\. Krisledningsnämnden får fatta beslut om att överta hela eller delar av
 verksamhetsområden från övriga nämnder i kommunen eller regionen i
 
 den utsträckning som är nödvändig med hänsyn till den extraordinära
 händelsens art och omfattning.
-3. När förhållandena medger det ska krisledningsnämnden besluta att de
+3\. När förhållandena medger det ska krisledningsnämnden besluta att de
 uppgifter som nämnden har övertagit från andra nämnder ska återgå till
 
 ordinarie nämnd.
@@ -2691,7 +2691,7 @@ Krister Björkegren Henrik Lundahl
 Regiondirektör     Kanslichef
 
 Bilaga:
--  Reglemente för Patientnämnden – förslag med ändringar
+\-  Reglemente för Patientnämnden – förslag med ändringar
 
 Styrelsens beslut delges
 Kungsbacka kommun
@@ -2755,9 +2755,9 @@ regionen@regionhalland.se
 2 (2)
 
 Bilagor
--  Beslut om revidering av reglemente för Patientnämnden Halland (1047841)
+\-  Beslut om revidering av reglemente för Patientnämnden Halland (1047841)
 
--  Reglemente för Patientnämnden - förslag med ändringar(1049170)
+\-  Reglemente för Patientnämnden - förslag med ändringar(1049170)
 
 Med vänlig hälsning
 
@@ -3392,12 +3392,12 @@ nämnd   för hemsjukvård  och  hjälpmedel
 
 Förslag till beslut
 
-1. Regionfullmäktige fastställer nämndens namn till Gemensam nämnd
+1\. Regionfullmäktige fastställer nämndens namn till Gemensam nämnd
 
 för hjälpmedel och hälso- och sjukvård i hemmet.
-2. Regionfullmäktige fastställer reviderat reglemente enligt förslag för
+2\. Regionfullmäktige fastställer reviderat reglemente enligt förslag för
 Gemensam nämnd för hjälpmedel och hälso- och sjukvård i hemmet.
-3. Regionfullmäktige anger att Gemensam nämnd för hjälpmedel och
+3\. Regionfullmäktige anger att Gemensam nämnd för hjälpmedel och
 hälso- och sjukvård i hemmet inte förväntas upprätta verksamhetsplan.
 
 Sammanfattning
@@ -3527,7 +3527,7 @@ Regiondirektör     Kanslichef
 4 (4)
 
 Bilaga:
--  Reglemente för gemensam nämnd för hemsjukvård och hjälpmedel – förslag med
+\-  Reglemente för gemensam nämnd för hemsjukvård och hjälpmedel – förslag med
 ändringar
 
 Styrelsens beslut delges
@@ -3600,16 +3600,16 @@ likalydande beslut hos samtliga huvudmän.
 Region Halland avser ta beslut om namnändring och extraordinära händelser i
 fredstid och höjd beredskap på Regionfullmäktiges sammanträde den 29 april
 
-2026.
+2026\.
 
 Efter att beslut tagits i er kommun, expediera beslutet till
 regionen@regionhalland.se
 
 Bilagor
 
--  Beslutsförslag om revidering av reglemente för Gemensam nämnd för hemsjukvård
+\-  Beslutsförslag om revidering av reglemente för Gemensam nämnd för hemsjukvård
 och hjälpmedel RS260107
--  Reglemente för gemensam nämnd för hemsjukvård och hjälpmedel – förslag med
+\-  Reglemente för gemensam nämnd för hemsjukvård och hjälpmedel – förslag med
 ändringar
 
 Med vänlig hälsning
@@ -4042,7 +4042,7 @@ Avslutade uppdrag 2
 
 Pågående uppdrag — lif  3>
 
-0) 5 10 15 20 25 30 35
+0\) 5 10 15 20 25 30 35
 
 <!-- sida 118 -->
 
@@ -4076,7 +4076,7 @@ Förebyggande teamet - Hjälp med att bryta ensamhet (IUB)
 
 nn 3
 
-0) 2 4 6 8 10 12 14 16 18 20
+0\) 2 4 6 8 10 12 14 16 18 20
 
 <!-- sida 120 -->
 
@@ -4108,7 +4108,7 @@ Kungsbacka
 
 Kognitiva stödteamet - Råd, stöd & vägledning kognitiv svikt (IUB)
 
-0) 5 10 15 20 25
+0\) 5 10 15 20 25
 
 <!-- sida 122 -->
 
@@ -4200,21 +4200,21 @@ CD Digital
 
 socialtjänstmottagning
 
-- Organisation
+\- Organisation
 
-- Verksamhetsförmågor
+\- Verksamhetsförmågor
 
 Sluten, krånglig Lätt tillgänglig
 
-- Verksamhetsprocesser
+\- Verksamhetsprocesser
 
 = IT-stöd Illustration skr.se
 
-- Informationstillgång/- soo derom arr Re og
+\- Informationstillgång/- soo derom arr Re og
 Ny SoL: Lätt tillgänglig - nära invånarna. Det ska vara enkelt att ta och
 utbyte ha kontakt med socialtjänsten
 
-- Kompetensutvecklings
+\- Kompetensutvecklings
 behov
 
 <!-- sida 128 -->
@@ -4444,29 +4444,29 @@ INFORMATIONSDRIVEN INTEGRERAD VÅRD                            1
 Mål
 I detta projekt är målet att:
 
-1. Utöka dataintegrationen region-kommun, inklusive Region Kronoberg (RK), Region Halland (RH) och Region
+1\. Utöka dataintegrationen region-kommun, inklusive Region Kronoberg (RK), Region Halland (RH) och Region
 Örebro Län (RÖL), och cirka 10 kommuner.
-2. Analysera och jämföra resultaten mellan och inom regioner och kommuner.
-3. Utveckla olika AI/ML-baserade metoder för att identifiera patienter med stort vårdbehov samt metoder för
+2\. Analysera och jämföra resultaten mellan och inom regioner och kommuner.
+3\. Utveckla olika AI/ML-baserade metoder för att identifiera patienter med stort vårdbehov samt metoder för
 att undvika över-/underbehandling.
-4. Identifiera den mest effektiva tillämpningen av informationsdriven integrerad vård, baserat på projektets
+4\. Identifiera den mest effektiva tillämpningen av informationsdriven integrerad vård, baserat på projektets
 insikter med de involverade regionerna och kommunerna, samt de potentiella problemområdena (t.ex. "
 specialistvård” och "högkonsumentpatienter").
-5. Implementera och utvärdera en utvecklad datadriven vårdmodell inom den regionala eller kommunala
+5\. Implementera och utvärdera en utvecklad datadriven vårdmodell inom den regionala eller kommunala
 verksamheten
 Forskningsfrågor
 
-1. Hur kan informationsdriven integrerad vård hjälpa äldre med en bättre vård och förbättra förståelsen av
+1\. Hur kan informationsdriven integrerad vård hjälpa äldre med en bättre vård och förbättra förståelsen av
 vård- och omsorgsflöden, vårdkvalitet och effektivitet genom hela vård- och omsorgskedjan inom region
 och kommun?
-2. Hur kan patientdata från olika källor i region och kommun användas för analys för att öka kunskapen om
+2\. Hur kan patientdata från olika källor i region och kommun användas för analys för att öka kunskapen om
 vård- och omsorgsflöden, vårdkvalitet, och effektivitet?
-3. Hur kan AI-baserad analys användas som ett verktyg för att utveckla kunskapen om vård- och
+3\. Hur kan AI-baserad analys användas som ett verktyg för att utveckla kunskapen om vård- och
 omsorgsflöden, aktiviteter och deras effekter?
-4. Hur kan informationsdriven integrerad vård ge både region och kommun, som vårdgivare särskilt för äldre
+4\. Hur kan informationsdriven integrerad vård ge både region och kommun, som vårdgivare särskilt för äldre
 patienter, bättre förutsättningar att ge en mer personcentrerad vård? ( rätt nivå av vård, resursoptimering,
 etc)?
-5. Hur kan informationsdriven vård förbättra koordinering och samarbete mellan olika vårdgivare
+5\. Hur kan informationsdriven vård förbättra koordinering och samarbete mellan olika vårdgivare
 (specialistvård, primärvård, hemsjukvård) för äldre patienter, och vilka bästa praxis kan etableras för
 
 att säkerställa bättre övergångar mellan olika vårdinstanser?
@@ -4792,7 +4792,7 @@ https://www.regeringen.se/contentassets/0017bfa6b48748d9b13065eb7099b7d9/ok-god-
 s2022_00607.pdf
 [2] Z. Ebrahimi, H. Patel, H. Wijk, I. Ekman, P. Olaya-Contreras A systematic review on implementation of person-
 centered care interventions for older people in out-of-hospital settings Geriatric Nursing, 42 (1) (2021), pp. 213-
-224.
+224\.
 [3] https://www.regeringen.se/overenskommelser-och-avtal/2020/02/god-och-nara-vard-2020--en-omstallning-
 av-halso--och-sjukvarden-med-fokus-pa-primarvarden/
 [4] https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/god-och-nara-vard/
@@ -4882,17 +4882,17 @@ Arbetsmetod
 
 Kungsbacka
 
-7. Följa upp
+7\. Följa upp
 och lära
 
-6. 1. Identifiera
+6\. 1. Identifiera
 Implementera nytt
 insatser analysområde
 
-5. Utveckla 2. Kartlägga
+5\. Utveckla 2. Kartlägga
 insatser nuläge
 
-4. Analysera 3. Definiera
+4\. Analysera 3. Definiera
 gap utfall
 
 <!-- sida 150 -->

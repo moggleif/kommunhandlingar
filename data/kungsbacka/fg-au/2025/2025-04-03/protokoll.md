@@ -409,7 +409,7 @@ permanent utökning till totalt 25 barn.
 Nämnden för Förskola & Grundskola godkänner ansökan från Föräldrakooperativet
 Skattkammarlandets ekonomiska förening, Frillesås mellanväg 10 i Frillesås, om
 tillfällig utökning av barnantal på förskolan till totalt 27 barn till och med augusti
-2025.
+2025\.
 
 Sammanfattning av ärendet
 

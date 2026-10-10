@@ -434,11 +434,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
 
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 
@@ -467,13 +467,13 @@ kommun till en mer dynamisk och öppen sådan.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 6
 
@@ -522,8 +522,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -583,9 +583,9 @@ kommande insatser ingår i det löpande arbetet i våra verksamheter.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 8
 
@@ -599,12 +599,12 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
 
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av styrelsens arbete med målet
 
@@ -651,7 +651,7 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Nämndens årsredovisning 2023
 
 planerats för en kompetenshöjande insats med tema "starkt genom klimakteriet" som genomförs i början av januari
-2024. Under året har kommunens rabatter hos olika träningsaktörer uppdaterats och kommunicerats. En del av
+2024\. Under året har kommunens rabatter hos olika träningsaktörer uppdaterats och kommunicerats. En del av
 våra medarbetare har på eget initiativ genomfört olika typer av aktiviteter såsom innebandy, fotboll, kallbad och
 meditation. Dessa har kommunicerats av HR centralt under året.
 Utvecklande medarbetarskap
@@ -1692,7 +1692,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 <!-- sida 44 -->
 
 Innehåll
-1. Bakgrund
+1\. Bakgrund
 
 1.1 Arbetssätt
 1.2 Aktiviteter
@@ -1701,10 +1701,10 @@ Innehåll
 1.4 Önskemål inför 2024
 
 Bilagor
-1. Årsrapportering hälsosatsningen projekt hälsa
+1\. Årsrapportering hälsosatsningen projekt hälsa
 
-2. Planering och budget
-3. Bilder från middag på enhet
+2\. Planering och budget
+3\. Bilder från middag på enhet
 
 Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 2
 
@@ -2227,8 +2227,8 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 att besluta i stället, så kallad vidaredelegering (kommunallagen 7 kap. 6 §). Delegering ska då ske i två
 steg;
 
-1) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+1\) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 Kommunstyrelsens delegeringsförteckning uppdaterades senast den 23 januari 2024 (enligt plan).
 
 Vidaredelegering av kommundirektören (förvaltningschefen) gjordes senast den 18 oktober 2023 med
@@ -2304,7 +2304,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 
@@ -2355,13 +2355,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 
 registreras i ärende-/verksamhetssystemet.
 
@@ -2396,13 +2396,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -2412,9 +2412,9 @@ kommundirektören.
 Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut i ett visst ärende eller
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -2488,7 +2488,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (20)
 
 <!-- sida 64 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -2530,7 +2530,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | 2.1.14 | Regler för arvoden<br>till förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 67 -->
@@ -3498,7 +3498,7 @@ stad.
 
 Den fördjupade översiktsplanen för Kungsbacka stad kompletterar den
 kommunövergripande översiktsplanen som antogs av kommunfullmäktige 2021-11-
-09. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
+09\. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
 översiktsplanens intentioner genom strategier och riktlinjer för hur utveckling av
 mark- och vattenområden ska ske inom staden. Förslaget ska bidra till att skapa
 förståelse och samsyn, såväl externt som internt, kring utvecklingsinriktning för
@@ -3655,7 +3655,7 @@ om Särö centrum. Centralt genom området finns en befintlig avrinningsväg. St
 
 delen av det aktuella området berörs av en fornlämning i form av boplats.
 Området som ansökan avser är belägen inom detaljplan S47 som fick laga kraft
-1957. Det aktuella området är i plankartan redovisad som lantbruksområde. Enligt
+1957\. Det aktuella området är i plankartan redovisad som lantbruksområde. Enligt
 kommunens översiktsplan ingår det aktuella området i utvecklingsorten Särö.
 Fastigheten omfattas av riksintresse för högexploaterad kust samt riksintresse för det
 rörliga friluftslivet.
@@ -3803,7 +3803,7 @@ Begära     planbesked
 
 Ärendenummer: #100986 | Inskickat av:      | 2023-10-30 20:13
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -3818,7 +3818,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -3843,7 +3843,7 @@ Utdelningsadress                  Postnummer
 Postort                           Telefon
 
 E-postadress                      Eventuell fakturareferens
--
+\-
 
 Företagets kontaktperson
 
@@ -3864,7 +3864,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn   Efternamn    Telefon      E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3895,7 +3895,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -3903,7 +3903,7 @@ Ja
 
 Situationskarta
 
-Plankarta Buka&#776;rr 2_28 50kvm.pdf (986 KB)
+Plankarta Buka\&#776;rr 2_28 50kvm.pdf (986 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -3928,12 +3928,12 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 Bukärr 2:28
 
-___________________
-___________________
-___________________
-___________________
-___________________
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 0 m 10 m 20 m 30 m 40 m 50 m
 Komplementbyggnader      på  50 kvm
@@ -4146,7 +4146,7 @@ Begära     planbesked
 
 Ärendenummer: #97619 | Inskickat av:    | 2023-10-06 10:37
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -4161,7 +4161,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -4184,7 +4184,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -4213,7 +4213,7 @@ Du kan också välja att ladda upp en separat beskrivning som en bilaga på näs
 Syftet är att i första hand få Lyngås 3:8 till en egen tomt (den del som gränsar till Lyngås 3:97 och
 
 i andra hand införliva den delen som gränsar till Lyngås 3:97 till en gemensam tomt i Lyngås 3:
-97. Övrigt område av fastigheten Lyngås 3:8 fortsätter att vara tillgängligt för väg och allmänhet.
+97\. Övrigt område av fastigheten Lyngås 3:8 fortsätter att vara tillgängligt för väg och allmänhet.
 
 Den gamla planens syfte var att reservera området för en eventuellt framtida utfartsväg från
 bebyggelsen och Kungsbackafjorden vilket inte längre är aktuellt. Därför borde det inte vara
@@ -4225,7 +4225,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -4349,13 +4349,13 @@ Lagstiftning
 Enligt 7 kap 15 § miljöbalken (MB) får inom ett strandskyddsområde inte: 1.nya byggnader
 uppföras,
 
-2. byggnader eller byggnaders användning ändras eller andra anläggningar eller anordningar
+2\. byggnader eller byggnaders användning ändras eller andra anläggningar eller anordningar
 utföras, om det hindrar eller avhåller allmänheten från att beträda ett område där den annars skulle
 ha fått färdas fritt,
-3. grävningsarbeten eller andra förberedelsearbeten utföras för byggnader, anläggningar eller
+3\. grävningsarbeten eller andra förberedelsearbeten utföras för byggnader, anläggningar eller
 anordningar som avses i 1 och 2, eller
 
-4. åtgärder vidtas som väsentligt förändrar livsvillkoren för djur- eller växtarter.
+4\. åtgärder vidtas som väsentligt förändrar livsvillkoren för djur- eller växtarter.
 Kommunen får enligt 7 kap 18b § MB i det enskilda fallet ge dispens från förbuden i 7 kap 15 §
 MB, om det finns särskilda skäl enligt 7 kap 18 c-d §§ MB. Därutöver får åtgärden enligt 7 kap 26 §
 
@@ -4365,8 +4365,8 @@ på land och i vatten.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får man enligt 7 kap.
 18 c § miljöbalken endast beakta om det område som dispensen avser
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften,
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl avskilt från
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften,
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl avskilt från
 området närmast strandlinjen,
 
 Justerare                                   Expedierat/bestyrkt
@@ -4377,15 +4377,15 @@ Kungsbacka kommun              SAMMANTRÄDESPROTOKOLL        22 (52)
 Byggnadsnämnden                Datum
 2023-08-24
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet inte kan
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet inte kan
 tillgodoses utanför området,
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan genomföras utanför
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan genomföras utanför
 området,
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses
 utanför området, eller
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Beslutet  kan  överklagas
 
 Detta beslut överklagas genom att en skrivelse skickas till Byggnadsnämnden, Kungsbacka
@@ -4412,10 +4412,10 @@ strandskyddsområdet.
 Förvaltningen har besiktigat den aktuella platsen, se bilder bilaga 2.
 
 Sökande har som skäl till att en dispens ska medges angett följande:
-1. platsen har redan tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets
+1\. platsen har redan tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets
 syften,
 
-2. platsen är väl avskild från området närmast strandlinjen genom en väg, järnväg, bebyggelse,
+2\. platsen är väl avskild från området närmast strandlinjen genom en väg, järnväg, bebyggelse,
 verksamhet eller annan exploatering.
 
 Kommunicering
@@ -4665,7 +4665,7 @@ Begära     planbesked
 
 Ärendenummer: #100724 | Inskickat av:   | 2023-10-28 18:27
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -4680,7 +4680,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -4703,7 +4703,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -4735,7 +4735,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -5619,18 +5619,18 @@ Synpunkter
 
 Miljö & Hälsoskydd har gått igenom aktbilaga 20 och lämnar följande synpunkter angående svaren
 från sökanden:
--  Miljö & Hälsoskydd anser att svar på de synpunkter som lämnades tidigare kan vara
+\-  Miljö & Hälsoskydd anser att svar på de synpunkter som lämnades tidigare kan vara
 relevanta för den fortsatta processen. Helhetssyn saknas för hur intressena elproduktion,
 ökat vattenuttag och skydd av miljön ska kunna samsas.
 
--  Sökanden skriver: ”Sökanden väljer att besvara ett urval av remissinstansernas frågor men
+\-  Sökanden skriver: ”Sökanden väljer att besvara ett urval av remissinstansernas frågor men
 utesluter inte att övriga frågeställningar kan vara relevanta att besvara i en senare del av
 processen. Sökanden hemställer om ett tydligt föreläggande avseende återstående
 kompletteringsbehov”. I vilket skede av processen menar sökanden att de resterande
 kvarvarande synpunkterna/frågorna eventuellt ska besvaras?
 
--  Finns det möjlighet att höja dämningsgränsen?
--  Miljö & Hälsoskydd önskar att Teknikförvaltningen i Kungsbacka kommun också får
+\-  Finns det möjlighet att höja dämningsgränsen?
+\-  Miljö & Hälsoskydd önskar att Teknikförvaltningen i Kungsbacka kommun också får
 möjlighet att lämna synpunkter vid kommande prövning framöver och att Mark- och
 
 Bygg- och miljöförvaltningen                            Kungsbacka kommun
@@ -5696,7 +5696,7 @@ De tre vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA355573
 
 Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -6088,18 +6088,18 @@ faktum gör, som ovan nämnts, att mindre stränga krav ska utredas av Vattenmyn
 
 I en sådan utredning ska bland annat beaktas
 
-- att vattenmagasinen i första hand behöver användas för den nödvändiga och
+\- att vattenmagasinen i första hand behöver användas för den nödvändiga och
 
 samhällsnyttiga allmänna dricksvattenförsörjningen, såväl den befintliga som den planerade,
 
-- att alternativ vattentäkt för befintliga behov bedöms svår eller omöjlig att finna med
+\- att alternativ vattentäkt för befintliga behov bedöms svår eller omöjlig att finna med
 beaktande av de höga krav som måste ställas på en dricksvattentäkts kvantitet, kvalitet,
 lokalisering och tillgänglighet,
 
-- att kostnaderna för att etablera en vattentäkt som delvis skulle kunna komplettera befintlig
+\- att kostnaderna för att etablera en vattentäkt som delvis skulle kunna komplettera befintlig
 anläggning i anslutning till Lygnern, skulle uppgå till minst 450 miljoner kronor,
 
-- att det därtill skulle uppstå kostnader för etablering av fiskvägar på flertalet platser i
+\- att det därtill skulle uppstå kostnader för etablering av fiskvägar på flertalet platser i
 vattensystemet samt förluster i form av bortfall av elproduktion,
 
 12
@@ -6109,12 +6109,12 @@ vattensystemet samt förluster i form av bortfall av elproduktion,
 Ankomstdatum 2022-11-03
 Diarienummer MH-2022-4553
 
-- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
+\- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
 möjliga teknik vid Viaredssjön skulle bli orimliga och oacceptabla med beaktande av att mark
 som idag utgör järnväg, allmän väg, vägbro och mark inom privata fastigheter med
 trädgårdstomter skulle behöva tas i anspråk.
 
-- att den förutsebara nyttan av fiskvägar och slopad reglering begränsar sig till visst
+\- att den förutsebara nyttan av fiskvägar och slopad reglering begränsar sig till visst
 gynnande av en handfull triviala fiskarter.
 
 De åtgärdsförslag som Sökanden lämnat innebär att bästa möjliga status uppnås och
@@ -6130,10 +6130,10 @@ Advokat
 
 Bilagor:
 
-1. Samrådsunderlag avseende utökat kommunalt dricksvattenuttag, 2022-04-12
-2. Avsiktsförklaring
+1\. Samrådsunderlag avseende utökat kommunalt dricksvattenuttag, 2022-04-12
+2\. Avsiktsförklaring
 
-3. Utdrag av kalkyl avseende vattenverk vid Stora Horredssjön
+3\. Utdrag av kalkyl avseende vattenverk vid Stora Horredssjön
 
 13
 
@@ -6514,12 +6514,12 @@ SAMRÅDSUNDERLAG                             Kungsbacka kommun
 8    Planerad   verksamhet
 
 Kungsbacka kommun avser att söka tillstånd för:
-1. Utökat vattenuttag från Lygnern, från maximalt 150 l/s till ca 500 l/s, dvs. en
+1\. Utökat vattenuttag från Lygnern, från maximalt 150 l/s till ca 500 l/s, dvs. en
 ökning med 350 l/s. Vattenuttaget ska ske med hänsyn till villkor gällande
 minimitappning, sänkningsgräns, dämningsgräns m.m. som gäller för
 tillståndet för Ålgårda kraftverk, vilket för närvarande innehas av Forsnacken
 AB.
-2. Att anlägga ny intagsledning i Bräckaviken i den västra delen av Lygnern, i
+2\. Att anlägga ny intagsledning i Bräckaviken i den västra delen av Lygnern, i
 anslutning till den befintliga intagsledningen.
 
 Tillstånd för ytterligare infiltration av vatten i Fjärås bräcka och ett större
@@ -6614,7 +6614,7 @@ SAMRÅDSUNDERLAG                             Kungsbacka kommun
 
 11.1 Översiktsplan
 För Kungsbacka kommun gäller ÖP, översiktsplan som vann laga kraft 26 januari
-2022.
+2022\.
 
 11.2 Detaljplanering
 Det finns inga detaljplaner i anslutning till planerad verksamhet.
@@ -6636,18 +6636,18 @@ runt Stensjö är Landskapsbildsskyddsområde.
 11.6 Natura 2000-områden
 I anslutning till Lygnern och Rolfsån förekommer fem natura-2000-områden, se
 Figur 4.
-1) Rolfsån - Vattendrag nedströms Stensjö med genuin laxstam. För området
+1\) Rolfsån - Vattendrag nedströms Stensjö med genuin laxstam. För området
 finns en bevarandeplan i syfte att bevara eller återställa ett gynnsamt tillstånd
 för flodpärlmussla och lax.
 
-2) Rossared, söder om Stensjö – Rödlistade insekter kopplade till ek- och
+2\) Rossared, söder om Stensjö – Rödlistade insekter kopplade till ek- och
 bokskog.
-3) Årenäs-Tostekulla – Ädellövskog med skyddsvärd kärlväxt-, moss-, lav- och
+3\) Årenäs-Tostekulla – Ädellövskog med skyddsvärd kärlväxt-, moss-, lav- och
 svampflora.
 
-4) Ramhultafallet – Skogsreservat med ek med artrik flora.
+4\) Ramhultafallet – Skogsreservat med ek med artrik flora.
 
-5) Gäddevik - Bokskog
+5\) Gäddevik - Bokskog
 
 17
 
@@ -7093,7 +7093,7 @@ Diarienummer MH-2022-4553
 SAMRÅDSUNDERLAG                             Kungsbacka kommun
 
 Stensjö mynnar till vattenförekomsten Rolfsån (Mynningen-Stensjön) (SE637884-
-127885) som efter ca 10 km rinner mynnar i havet i Kungsbackafjorden. Rolfsån
+127885\) som efter ca 10 km rinner mynnar i havet i Kungsbackafjorden. Rolfsån
 uppnår även här god ekologisk status, men inte god kemisk status med avseende på
 kvicksilver och bromerade difenyleter. För vattenförekomsten gäller
 miljökvalitetsnormen god kemisk ytvattenstatus och god ekologisk status 2021.
@@ -7280,7 +7280,7 @@ hinder och hänsyn som ligger utanför parternas kontroll.
 33 Parterna är införstådda med att regleringen måste ske med beaktande av vid var tid
 gällande vattendomar/tillstånd för respektive Kraftverk/vattenmagasin.
 
-4. Kommunen ska ersätta Bolaget fullt ut för den ekonomiska skada för förändrad
+4\. Kommunen ska ersätta Bolaget fullt ut för den ekonomiska skada för förändrad
 elproduktion och eventuell annan ekonomisk skada som blir en följd av anpassning av
 vattenregleringen till förmån för Kommunens vattenbehov. Definition av ”Annan
 ekonomisk skada” kommer specificeras i särskilt avtal. Hur ersättningen ska beräknas och
@@ -7291,14 +7291,14 @@ månadsvis i efterskott, dock så skyndsamt som möjligt. Det särskilda avtalet
 snart som möjligt och intentionen är att ett avtal ska vara undertecknat senast 31 december
 2022, och i vart fall innan domstolen avgör något av de berörda ansökningsmålen.
 
-5. Om ägaren av Bolaget avser att avyttra samtliga aktier i Bolaget eller om Bolaget avser att
+5\. Om ägaren av Bolaget avser att avyttra samtliga aktier i Bolaget eller om Bolaget avser att
 försälja eller på annat sätt avhända sig kontrollen över ett eller flera av Kraftverken är
 Bolaget skyldigt att gentemot ny innehavare av Kraftverket/en informera om denna
 avsiktsförklaring. Kommande särskilda avtal om ersättning, ansvar med mera ska innehålla
 en skyldighet för Bolaget att gentemot eventuell förvärvare/nyttjanderättshavare av
 Bolaget eller dess fastigheter göra förbehåll om det särskilda avtalet.
 
-6. Vid sina rättsliga prövningar avseende vattenuttaget ur Lygnern respektive
+6\. Vid sina rättsliga prövningar avseende vattenuttaget ur Lygnern respektive
 Kraftverken/vattenmagasinen ska Kommunen respektive Bolaget i möjligaste mån agera i
 enlighet med innehållet i denna avsiktsförklaring och gemensamt verka för att kommande
 vattendomar/tillstånd ger utrymme för att både Kommunens vattenbehov och Bolagets
@@ -7450,11 +7450,11 @@ vid Ålgårda kraftverk på fastigheterna Ålgårda 1:2 och Sundstrop 7:2 i Kung
 Komplettera ansökan
 Domstolen har mottagit Er komplettering av den 22 juni 2023. Kompletteringsbehov
 kvarstår dock. Ni föreläggs nu att komplettera ansökan enligt följande.
-1. Ni har att utveckla på vilket sätt miljökvalitetsnormgivningen för
+1\. Ni har att utveckla på vilket sätt miljökvalitetsnormgivningen för
 vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA35557387 och
 Viaredssjön (WA65290953) har betydelse för möjligheten att bestämma rimliga och
 ändamålsenliga miljövillkor för Ålgårda kraftverk.
-2. Ni har föreslagit att befintligt villkor ”att då vattenverket står stilla, minst den
+2\. Ni har föreslagit att befintligt villkor ”att då vattenverket står stilla, minst den
 normala lågvattenmängden - cirka två sek-kbm - avtappas genom regleringsdammen”
 ska ersättas av villkoret ”att 1,6 m3/s avtappas genom regleringsdammen”. Det
 föreslagna villkoret får uppfattas som ett villkor om minimitappning. Samtidigt anger
@@ -7462,7 +7462,7 @@ Ni i Er komplettering 2023-06-22 att det inte är ”rimligt, eller naturligt, a
 långvariga perioder med låg tillrinning hålla uppe en onaturligt hög minimitappning”
 och att lägsta vattenföringen vid utloppet ur Stensjön 2018 var 1,03 m3/s. Hur ska
 det föreslagna villkoret uppfattas?
-3. Syftet med omprövningen är att vattenverksamheten ska förses med moderna
+3\. Syftet med omprövningen är att vattenverksamheten ska förses med moderna
 miljövillkor. Prövningen ska ske inte bara mot gällande miljökvalitetsnormer för
 vatten utan också mot bl.a. påverkan på intilliggande natura 2000-områden – och
 detta oberoende av om sådan påverkan redan förekommer. Det är därför av vikt att
@@ -7504,7 +7504,7 @@ SAKEN
 omprövning av villkor om vattentappning i fiskväg vid Ålgårda kraftverk i Rolfsåns
 vattensystem
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 DOMSLUT
 Med bifall till ansökan förordnar Mark- och miljödomstolen att villkor 3 b) enligt
@@ -7512,7 +7512,7 @@ Med bifall till ansökan förordnar Mark- och miljödomstolen att villkor 3 b) e
 Mark- och miljödomstolens dom den 7 juni 2012 i mål M 2378-11 ska ha följande
 
 lydelse.
-3) Utöver vad som följer av det allmänna villkoret under punkt 2 ovan ska föl-
+3\) Utöver vad som följer av det allmänna villkoret under punkt 2 ovan ska föl-
 
 jande särskilt gälla:
 …
@@ -7524,7 +7524,7 @@ b)  För vattenföringen i omlöpet gäller att:
 
 omlöpet helt öppen.
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 391699
 Postadress     Besöksadress Telefon       Telefax      Expeditionstid
@@ -7560,7 +7560,7 @@ Vänersborgs tingsrätt, mark- och miljödomstolen, om omprövning av tillstånd
 målet (M 2378-11) meddelade mark- och miljödomstolen dom den 7 juni 2012.
 Härvid föreskrev domstolen bl.a.
 
--  skyldighet för tillståndshavaren att i Rolfsån vid befintlig damm på fastig-
+\-  skyldighet för tillståndshavaren att i Rolfsån vid befintlig damm på fastig-
 heterna Ålgårda 1:2 och Smedstorp 7:2 i Kungsbacka kommun bygga, sköta
 
 och bibehålla en fiskvandringsväg i form av ett så kallat omlöp i kombinat-
@@ -7571,12 +7571,12 @@ slag.
 Vidare föreskrev mark- och miljödomstolen som villkor 3 b) att det för vattenfö-
 
 ringen i omlöpet ska gälla att det
--  under perioden 1 december till 31 mars ska tappas minst 100 l/s,
+\-  under perioden 1 december till 31 mars ska tappas minst 100 l/s,
 
--  under perioden 1 april till 30 november ska tappas minst 300 l/s,
--  under perioden 1 april till 30 november ska tappas minst 1 m3/s om vattenfö-
+\-  under perioden 1 april till 30 november ska tappas minst 300 l/s,
+\-  under perioden 1 april till 30 november ska tappas minst 1 m3/s om vattenfö-
 ringen från Lygnern är 4 m3/s eller mer,
--  under perioden 1 april till 30 november ska tappas minst 1,4 m3/s om vatten-
+\-  under perioden 1 april till 30 november ska tappas minst 1,4 m3/s om vatten-
 
 föringen från Lygnern är 9 m3/s eller mer.
 
@@ -7677,7 +7677,7 @@ HUR MAN ÖVERKLAGAR,  se bilaga (DV425)
 
 Göran Stenman              Roger Ödmark
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 I domstolens avgörande har deltagit rådmannen Göran Stenman och tekniska rådet
 Roger Ödmark.
@@ -7700,12 +7700,12 @@ ANVISNING  FÖR HUR  MAN  ÖVERKLAGAR
 Den som vill överklaga mark- och miljödomsto- Skrivelsen med överklagande ska innehålla
 lens dom ska göra detta skriftligen. Skrivelsen uppgifter om:
 ska skickas eller lämnas till mark- och miljö-
-1. den dom som överklagas med angivande av mark-
+1\. den dom som överklagas med angivande av mark-
 domstolen. Överklagandet prövas av Mark- och
 och miljödomstolens namn samt datum för do-
 miljööverdomstolen vid Svea hovrätt.
 men och målnummer,
-2. den ändring av mark- och miljödomstolens dom
+2\. den ändring av mark- och miljödomstolens dom
 Överklagandet ska ha kommit in till mark- och
 som klaganden vill få till stånd,
 miljödomstolen inom tre veckor från domens
@@ -7716,7 +7716,7 @@ ligt klagandens mening är oriktiga,
 Har ena parten överklagat domen i rätt tid, får 4. de omständigheter som åberopas till stöd för att
 också motparten överklaga domen (s.k. anslut- prövningstillstånd ska meddelas, samt
 ningsöverklagande) även om den vanliga tiden
-5. de bevis som åberopas och vad som ska styrkas
+5\. de bevis som åberopas och vad som ska styrkas
 för överklagande har gått ut. Överklagandet ska med varje bevis.
 också i detta fall skickas eller lämnas till mark-
 Har en omständighet eller ett bevis som åberopas
@@ -7739,19 +7739,19 @@ att Mark- och miljööverdomstolen lämnar pröv-
 ganden ska också ange om han eller hon vill att
 ningstillstånd. Det görs om:
 motparten ska infinna sig personligen vid huvud-
-1. det finns anledning att betvivla riktigheten av det förhandling i Mark- och miljööverdomstolen.
+1\. det finns anledning att betvivla riktigheten av det förhandling i Mark- och miljööverdomstolen.
 slut som mark- och miljödomstolen har kommit
 till,                              Skrivelsen ska vara undertecknad av klaganden
-2. det inte utan att sådant tillstånd meddelas går att
+2\. det inte utan att sådant tillstånd meddelas går att
 eller hans/hennes ombud.
 bedöma riktigheten av det slut som mark- och
 miljödomstolen har kommit till,    Om ni tidigare informerats om att förenklad
 delgivning kan komma att användas med er i
-3. det är av vikt för ledning av rättstillämpningen att
+3\. det är av vikt för ledning av rättstillämpningen att
 målet/ärendet, kan sådant delgivningssätt också
 överklagandet prövas av högre rätt, eller
 komma att användas med er i högre instanser om
-4. det annars finns synnerliga skäl att pröva överkla-
+4\. det annars finns synnerliga skäl att pröva överkla-
 någon överklagar avgörandet dit.
 gandet.
 Om prövningstillstånd inte meddelas står mark- Ytterligare upplysningar lämnas av mark- och mil-
@@ -7773,12 +7773,12 @@ meddelad i
 Vänersborg
 
 SÖKANDE
-1. Havs- och vattenmyndigheten
+1\. Havs- och vattenmyndigheten
 Box 11930
 
 404 39 Göteborg
 
-2. Länsstyrelsen i Hallands län
+2\. Länsstyrelsen i Hallands län
 301 86 Halmstad
 
 Ombud för 1 och 2 Andreas Bäckstrand
@@ -7797,11 +7797,11 @@ Fortsatt handläggning avseende latent villkor att inrätta fiskväg i enlighet 
 stånd att uppföra ett kraftverk vid Ålgårda i Rolfsån, Kungsbacka kommun
 
 Ao: 106           N: 6375140        E: 334580
-____________
+\_\_\_\_\_\_\_\_\_\_\_\_
 
 DOMSLUT
 
-1) Mark- och miljödomstolen föreskriver att för Ålgårda kraftverk ska gälla skyl-
+1\) Mark- och miljödomstolen föreskriver att för Ålgårda kraftverk ska gälla skyl-
 digheten för tillståndshavaren
 
 a) att i Rolfsån vid tillståndshavarens befintliga damm på fastigheterna Ålgårda
@@ -7829,12 +7829,12 @@ mm samt avledningsränna för fisk,
 
 c) att utföra nödvändiga arbeten för ovan angivna åtgärder.
 
-2) Anläggningarna ska utformas och arbetena utföras i huvudsaklig överensstäm-
+2\) Anläggningarna ska utformas och arbetena utföras i huvudsaklig överensstäm-
 melse med vad sökandena redovisat under rubriken ANSÖKAN nedan samt i
 
 övrigt redovisat i målet.
 
-3) Utöver vad som följer av det allmänna villkoret under punkt 2 ovan ska följande
+3\) Utöver vad som följer av det allmänna villkoret under punkt 2 ovan ska följande
 
 särskilt gälla:
 a) Arbetena ska bedrivas på sådant sätt att grumling och utsläpp i vatten i gör-
@@ -7860,10 +7860,10 @@ d) Vid överskottsvatten ska ett ökat flöde i omlöpet prioriteras i första h
 
 den tekniska fiskvägen i andra hand.
 
-4) Kontrollprogram för arbetenas utförande och anläggningens skötsel ska upprät-
+4\) Kontrollprogram för arbetenas utförande och anläggningens skötsel ska upprät-
 tas i samråd med och godkännas av tillsynsmyndigheten.
 
-5) Domstolen överlåter enligt 22 kap. 25 § miljöbalken till tillsynsmyndigheten att
+5\) Domstolen överlåter enligt 22 kap. 25 § miljöbalken till tillsynsmyndigheten att
 fastställa de kompletterande villkor som kan erfordras vid arbetenas utförande.
 
 <!-- sida 220 -->
@@ -7874,24 +7874,24 @@ Diarienummer MH-2022-4553
 VÄNERSBORGS TINGSRÄTT         DOM                           M 2378-11
 Mark- och miljödomstolen
 
-6) Arbetena ska vara utförda inom två (2) år från dagen för denna dom, annars för-
+6\) Arbetena ska vara utförda inom två (2) år från dagen för denna dom, annars för-
 
 faller tillståndet.
 
-7) Anspråk enligt 24 kap 13 § miljöbalken i anledning av oförutsedd skada ska
+7\) Anspråk enligt 24 kap 13 § miljöbalken i anledning av oförutsedd skada ska
 framställas inom fem (5) år från arbetstidens utgång.
 
-8) Mark- och miljödomstolen ändrar inte den med stöd av 3 kap. förordningen
+8\) Mark- och miljödomstolen ändrar inte den med stöd av 3 kap. förordningen
 (1998:940) om avgift för prövning och tillsyn enligt miljöbalken fastställda av-
 
 giften för målets prövning.
 
-9) Mark- och miljödomstolen avslår yrkandet om att med stöd av med stöd av 22
+9\) Mark- och miljödomstolen avslår yrkandet om att med stöd av med stöd av 22
 
 kap. 25 § miljöbalken överlåta rätten för tillsynsmyndigheten att omfördela
 tappningarna och yrkandet om verkställighetstillstånd.
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 221 -->
 
@@ -8441,7 +8441,7 @@ och öringstammarna har varit en viktig orsak till dessa klassningar. Rolfsån, 
 Nolån och Sörån har klassats som "nationellt värdefulla vattendrag" av Naturvårds-
 
 verket och Fiskeriverket. Enligt miljömålet levande sjöar och vattendrag delmål två
-- restaurering av vattendrag - ska minst 25 % av de värdefulla och potentiellt
+\- restaurering av vattendrag - ska minst 25 % av de värdefulla och potentiellt
 
 skyddsvärda vattendragen ha restaurerats. Laxstammen i Rolfsån är genuin och är
 
@@ -8713,11 +8713,11 @@ av mark- och miljödomstolens namn samt
 Överklagandet ska ha kommit in till mark- och
 datum för domen och målnummer,
 miljödomstolen inom tre veckor från domens
-2. den ändring av mark- och miljödomsto-
+2\. den ändring av mark- och miljödomsto-
 datum. Sista dagen för överklagande finns an-
 lens dom som klaganden vill få till stånd,
 given på sista sidan i domen.
-3. grunderna (skälen) för överklagandet och i
+3\. grunderna (skälen) för överklagandet och i
 Har ena parten överklagat domen i rätt tid, får
 vilket avseende mark- och miljödomsto-
 också motparten överklaga domen (s.k. ans-
@@ -8725,13 +8725,13 @@ lens domskäl enligt klagandens mening är
 lutningsöverklagande) även om den vanliga ti-
 oriktiga,
 den för överklagande har gått ut. Överklagan-
-4. de omständigheter som åberopas till stöd
+4\. de omständigheter som åberopas till stöd
 det ska också i detta fall skickas eller lämnas
 för att prövningstillstånd ska meddelas,
 till mark- och miljödomstolen och det måste
 samt
 ha kommit in till mark- och miljödomstolen
-5. de bevis som åberopas och vad som ska
+5\. de bevis som åberopas och vad som ska
 inom en vecka från den i domen angivna sista
 styrkas med varje bevis.
 dagen för överklagande. Om det första över-
@@ -8746,21 +8746,21 @@ prövningstillstånd meddelas. Mark- och miljö-
 liga bevis som inte lagts fram tidigare ska ges
 överdomstolen lämnar prövningstillstånd om
 in samtidigt med överklagandet. Vill klaganden
-1. det finns anledning att betvivla riktigheten att det ska hållas ett förnyat förhör eller en
+1\. det finns anledning att betvivla riktigheten att det ska hållas ett förnyat förhör eller en
 av det slut som mark- och miljödomstolen förnyad syn på stället, ska han eller hon ange
 har kommit till,           det och skälen till detta. Klaganden ska också
 ange om han eller hon vill att motparten ska
-2. det inte utan att sådant tillstånd meddelas
+2\. det inte utan att sådant tillstånd meddelas
 infinna sig personligen vid huvudförhandling i
 går att bedöma riktigheten av det slut som
 Mark- och miljööverdomstolen.
 mark- och miljödomstolen har kommit
 till,
 Skrivelsen ska vara undertecknad av klaganden
-3. det är av vikt för ledning av rättstillämp- eller hans/hennes ombud. Till överklagandet
+3\. det är av vikt för ledning av rättstillämp- eller hans/hennes ombud. Till överklagandet
 ningen att överklagandet prövas av högre ska bifogas lika många kopior av skrivelsen
 rätt, eller                som det finns motparter i målet. Har inte kla-
-4. det annars finns synnerliga skäl att pröva ganden bifogat tillräckligt antal kopior, fram-
+4\. det annars finns synnerliga skäl att pröva ganden bifogat tillräckligt antal kopior, fram-
 överklagandet.             ställs de kopior som behövs på klagandens be-
 kostnad.
 Om  prövningstillstånd inte meddelas står
@@ -8777,7 +8777,7 @@ Diarienummer MH-2022-4553
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (19)
 Nämnden för Teknik Datum
 2021-10-20
-$ 98 Dnr 2021-00614
+\$ 98 Dnr 2021-00614
 
 Vattendom Lygnern och Fjärås Bräcka
 
@@ -8807,7 +8807,7 @@ kommuns försorg.
 
 Beslutsunderlag
 
-Protokollsutdrag TEAU 2021-10-04 $ 83
+Protokollsutdrag TEAU 2021-10-04 \$ 83
 Förvaltningen för Tekniks tjänsteskrivelse, 2021-09-29
 Presentation Vattendom
 
@@ -10808,7 +10808,7 @@ förberett en ansökan om ökat ytvattenuttag ur sjön Lygnern för kommunal
 dricksvattenförsörjning.
 
 Samråd avseende kommunens ökade vattenuttag skedde vintern 2021/2022 och våren
-2022.
+2022\.
 
 Diskussioner och informationsutbyte har skett mellan Kungsbacka kommun och
 Forsnacken AB samtidigt som var och en av parterna har arbetat vidare med sina
@@ -10867,13 +10867,13 @@ WA35557387 och Viaredssjön (V/A65290953).
 I vattendirektivet och det svenska regelverket finns det några viktiga utgångspunkter då
 undantag, här med fokus på mindre stränga krav, ska utredas.
 
-1. Vattenmyndigheterna ska utreda om undantaget mindre stränga krav är tillämpligt på
+1\. Vattenmyndigheterna ska utreda om undantaget mindre stränga krav är tillämpligt på
 vattenförekomstnivå om den ekologiska statusen eller potentialen är lägre än god.
 
-2. Då orimliga kostnader ska bedömas så ska alla nyttor och kostnader tas med i den
+2\. Då orimliga kostnader ska bedömas så ska alla nyttor och kostnader tas med i den
 
 samhällsekonomiska analysen.
-3. I utredningen om undantag ingår att värdera nyttor vilket kan göras på olika sätt som
+3\. I utredningen om undantag ingår att värdera nyttor vilket kan göras på olika sätt som
 
 kvalitativt, kvantitativt samt monetärt.
 
@@ -10882,11 +10882,11 @@ Redan detta faktum gör att mindre stränga krav ska utredas.
 
 I en sådan utredning ska bland annat beaktas
 
-- att vattenmagasinen i första hand behöver användas för den nödvändiga och
+\- att vattenmagasinen i första hand behöver användas för den nödvändiga och
 samhällsnyttiga allmänna dricksvattenförsörjningen, såväl den befintliga som den
 
 planerade,
-- att alternativ vattentäkt för ovan nämnt behov bedöms svår eller omöjlig att finna med
+\- att alternativ vattentäkt för ovan nämnt behov bedöms svår eller omöjlig att finna med
 
 beaktande av de högt ställda krav som måste ställas på en dricksvattentäkts kvantitet
 och kvalitet,
@@ -10896,11 +10896,11 @@ och kvalitet,
 Ankomstdatum 2022-11-03
 Diarienummer MH-2022-4553
 
-- att, om alternativ lokalisering för vattentäkt skulle finnas, det är uppenbart att
+\- att, om alternativ lokalisering för vattentäkt skulle finnas, det är uppenbart att
 kostnaderna för att flytta befintligt kommunalt vattenverk i anslutning till Lygnern skulle
 medföra orimliga kostnader,
 
-- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
+\- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
 möjliga teknik vid Viaredssjön skulle bli orimliga och oacceptabla med beaktande av att
 mark som idag utgör järnväg, allmän väg, vägbro och mark inom privata fastigheter med
 trädgårdstomter skulle behöva tas i anspråk.
@@ -10932,19 +10932,19 @@ Slutligen hänvisar Sökanden till vad som anförs nedan under rubriken ”Syn�
 Yrkanden
 Sökanden yrkar att mark- och miljödomstolen,
 
-1) fastställer moderna miljövillkor för de vattenverksamheter som Sökanden med stöd av
+1\) fastställer moderna miljövillkor för de vattenverksamheter som Sökanden med stöd av
 Fjäre Häradsrätts utslag den 26 juli 1918, bedriver på fastigheterna Kungsbacka Ålgårda
 1:2 och Kungsbacka Sundstorp 7:2 och som föreslås av Sökanden på sid 5 i ansökan (se
 
 nedan).
 Sökanden yrkar vidare att mark- och miljödomstolen
 
-2) bestämmer prövningsavgiften till 11 450 kr,
+2\) bestämmer prövningsavgiften till 11 450 kr,
 
-3) bestämmer tiden för då fysiska arbeten för att uppnå fastställda villkor ska vara utförda
+3\) bestämmer tiden för då fysiska arbeten för att uppnå fastställda villkor ska vara utförda
 till fem (5) år från domens laga kraft,
 
-4) fastställer att ansökan för översyn av villkor och andra bestämmelser ska lämnas in till
+4\) fastställer att ansökan för översyn av villkor och andra bestämmelser ska lämnas in till
 mark- och miljödomstolen senast femtio år efter det att denna dom vunnit laga kraft,
 
 <!-- sida 280 -->
@@ -10952,19 +10952,19 @@ mark- och miljödomstolen senast femtio år efter det att denna dom vunnit laga 
 Ankomstdatum 2022-11-03
 Diarienummer MH-2022-4553
 
-5) fastställer att rätten till tillgodogörande av vattenkraften för framtiden ska vara förenad
+5\) fastställer att rätten till tillgodogörande av vattenkraften för framtiden ska vara förenad
 med fastigheten Kungsbacka Ålgårda 1:2, såsom strömfallsfastighet,
 
-6) undanröjer villkor om minimitappning och ålyngelledare i Fjäre Häradsrätts utslag den
+6\) undanröjer villkor om minimitappning och ålyngelledare i Fjäre Häradsrätts utslag den
 26 juli 1918 i samband med att nya villkor fastställs,
 
-Det är sökandens uppfattning att tillstånd enligt 7 kap 28 a$ inte krävs för bifall till denna
+Det är sökandens uppfattning att tillstånd enligt 7 kap 28 a\$ inte krävs för bifall till denna
 ansökan. Skulle mark- och miljödomstolen trots det finna att tillstånd enligt nämnda
 lagrum krävs, yrkar Sökanden — således reservationsvis —
 
-7) att mark- och miljödomstolen lämnar erforderligt tillstånd enligt 7 kap 28 a$ för de
+7\) att mark- och miljödomstolen lämnar erforderligt tillstånd enligt 7 kap 28 a\$ för de
 åtgärder som krävs för att förse verksamheten med moderna miljövillkor,
-8) att mark- och miljödomstolen godkänner den till ansökan bifogade miljökonsekvens-
+8\) att mark- och miljödomstolen godkänner den till ansökan bifogade miljökonsekvens-
 
 beskrivningen.
 
@@ -10973,28 +10973,28 @@ Förslag på villkor
 Som kompletterande och justerade villkor för verksamheten vid Ålgårda kraftverk föreslår
 Sökanden att
 
-1. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
+1\. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
 med vad Sökanden angett i ansökningshandlingarna och i övrigt uppgett och åtagit
 sig i målet,
 
-2. att befintliga flyktvägar vid intagsgallren sänks till nivån +14,70 och modifieras i
+2\. att befintliga flyktvägar vid intagsgallren sänks till nivån +14,70 och modifieras i
 huvudsaklig överensstämmelse med vad som anges i teknisk beskrivning, Bilaga A,
 
-3. att minimitappningen till flyktvägarna, när dessa är i drift, ska bestäms till sammanlagt
+3\. att minimitappningen till flyktvägarna, när dessa är i drift, ska bestäms till sammanlagt
 0,24 m3/s. Flyktvägen framför respektive turbinintag ska vara i drift när turbinen
 bakom samma intag är i drift,
 
-4. att det gällande villkoret "minst den normala lågvattenmängden - ca 2 m/s - avtappas
+4\. att det gällande villkoret "minst den normala lågvattenmängden - ca 2 m/s - avtappas
 genom regleringsdammen då vattenverket står stilla" anpassas till nuvarande normal
 lågvattenföring (MLQ) vilket motsvarar ca 1,6 m?/s samt att bisatsen ”då vattenverket
 står stilla” tas bort,
 
-5. att som fixpunkt för anläggningen ska gälla den vågrätt inborrade järndubb, belägen
+5\. att som fixpunkt för anläggningen ska gälla den vågrätt inborrade järndubb, belägen
 utmed höger strand vid Sundsjön, omkring 20 meter ovanför den uppströms
 kraftstationen belägna bron. Dubben markerar även dämningsgräns för
 
 anläggningen, och
-6. att ett kontrollprogram ska upprättas och ges in till tillsynsmyndigheten senast sex (6)
+6\. att ett kontrollprogram ska upprättas och ges in till tillsynsmyndigheten senast sex (6)
 
 månader efter lagakraftvunnen dom.
 Tillämplig lagstiftning
@@ -11027,7 +11027,7 @@ Ansökan om ändring av tidigare villkor till moderna miljövillkor görs med st
 
 I denna ansökan föreslås — med ändring av Fjäre Häradsrätts utslag den 26 juli 1918 och
 i förekommande fall mål M 2378-11 och M 282-11- nya och villkor för gällande tillstånd.
-De föreslagna åtgärderna motsvarar sådana moderna villkor som avses i 11 kap 27 $
+De föreslagna åtgärderna motsvarar sådana moderna villkor som avses i 11 kap 27 \$
 
 miljöbalken.
 
@@ -11098,7 +11098,7 @@ förbättra dess funktion samt föreslås en ny lydelse av villkoret om minimita
 regleringsdammen som en anpassning till dagens medellågvattenföring.
 
 Den direkt berörda ytvattenförekomsten är för Rolfsån — Stensjön till Sundsjön (Ålgårda)
-- WA18548158.
+\- WA18548158.
 
 Kulturmiljö
 
@@ -11664,7 +11664,7 @@ Bollebygd Forsa 7:1
 Fastigheten Bollebygd Forsa 7:1 ägs av Forssa Fastighets AB, 556469-4205, Forsa
 Företagscenter, 517 91 Bollebygd.
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -11937,7 +11937,7 @@ Pia Bosdotter Olson
 Advokat
 
 Bilagor:
-1. PM, med bilagor, upprättad av Rejlers 2023-11-29
+1\. PM, med bilagor, upprättad av Rejlers 2023-11-29
 
 6
 
@@ -12114,7 +12114,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -12138,14 +12138,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-
 1-
 1
@@ -12173,7 +12173,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -12197,14 +12197,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-11
 5
 -3
@@ -12232,7 +12232,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -12256,14 +12256,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-
 1-
 1
@@ -12274,7 +12274,7 @@ r
 
 [Tabell 306-1](handlingar.tabeller/306-1.csv)
 
-| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>~500 B02<br>1 : 50<br>~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>~500<br>0051<br>~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
+| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>\~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>\~500 B02<br>1 : 50<br>\~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>\~500<br>0051<br>\~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
 | --- | --- | --- | --- |
 |  | BET ANT ÄNDRINGEN AVSER SIGN DATUM |  |  |
 |  |  |  |  |
@@ -12331,13 +12331,13 @@ Samtidigt framstod det som tydligt att det med rådande tillrinning inte skulle 
 ständigt tappa 2 m3/s genom dammen. Detta på grund av att MLQ vid nuvarande
 förhållanden inte uppgår till två sek-kbm. Det går inte att magasinera så mycket vatten att det
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
 e-mail office@nordiclaw.se • www.nordiclaw.se • VAT no SE556056520101 • company seat göteborg
 
-#38596.1
+\#38596.1
 
 <!-- sida 308 -->
 
@@ -12386,7 +12386,7 @@ säkerställa ett flöde av viss lägsta volym nedströms Ålgårda kraftverk.
 
 Bemötande av domstolens föreläggande (aktbil 22)
 
-1. Möjligheten att bestämma rimliga och ändamålsenliga miljövillkor
+1\. Möjligheten att bestämma rimliga och ändamålsenliga miljövillkor
 
 Vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön (WA35557387) och
 Viaredssjön (WA65290953) återfinns visserligen inte i direkt anslutning till Ålgårda kraftverk
@@ -12415,7 +12415,7 @@ normgivningen för de tre aktuella vattenförekomsterna.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-2. Minimitappning
+2\. Minimitappning
 
 Det föreslagna villkoret ska uppfattas som ett villkor om minimitappning.
 
@@ -12430,14 +12430,14 @@ Utöver vad som anförts ovan samt i det inledande redogörelsen får Sökanden 
 
 som framgår av PM från Rejlers, Bilaga 1.
 
-3. Påverkan på Natura 2000-området
+3\. Påverkan på Natura 2000-området
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers under avsnittet
 ”Redovisning av påverkan på Natura-2000 området Rolfsån” och i yttrandet nedan.
 
 Bemötande av Länsstyrelsens Halland yttrande (aktbilaga 25)
 
-1. Redovisning av villkor
+1\. Redovisning av villkor
 
 Det höjdsystem som avses är RH 2000.
 
@@ -12445,7 +12445,7 @@ Det höjdsystem som avses är RH 2000.
 
 <!-- sida 310 -->
 
-5. Redovisning av påverkan på Natura 2000-området Rolfsån
+5\. Redovisning av påverkan på Natura 2000-området Rolfsån
 
 Bolaget har i aktuell prövning föreslagit en anpassad minimitappning som minskar risken för
 att det ska uppstå låga flöden som kan påverka miljön i Natura 2000-området, och anser
@@ -12515,9 +12515,9 @@ Pia Bosdotter Olson
 Advokat
 
 Bilagor:
-1. PM upprättad av Rejlers 2023-09-22
-2. –
-3. Kartskiss, Rejlers
+1\. PM upprättad av Rejlers 2023-09-22
+2\. –
+3\. Kartskiss, Rejlers
 
 5
 
@@ -12639,7 +12639,7 @@ som ca 2 m3/s.
 Sökanden ansöker om att villkoret avseende minimitappning ska kvarstå i den delen att det är
 normal lågvattenföring under oreglerade förhållanden som ska gälla. Men preciseringen av vad MLQ
 motsvarar i vattenföring bör motsvara dagens beräknade MLQ i stället för den MLQ som beräknades
-1918. Detta bör snarare ses som en uppdatering av villkorets innebörd, och inte en ändring av
+1918\. Detta bör snarare ses som en uppdatering av villkorets innebörd, och inte en ändring av
 villkoret, vilket är relativt logiskt då MLQ förändras över tid. Det angivna flödet avseende MLQ är
 också något otydligt, i synnerhet då decimaler saknas.
 
@@ -13289,7 +13289,7 @@ Därmed når vattenförekomsterna också god ekologisk status. De av Sökanden f
 krävas med hänsyn till skyddet för människors hälsa och miljön. Någon ytterligare åtgärd,
 exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, behövs inte
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -13338,9 +13338,9 @@ Pia Bosdotter Olson
 Advokat
 
 Bilagor:
-1. Rapport Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
+1\. Rapport Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
 
-2. PM upprättad av Rejlers 2023-12-12
+2\. PM upprättad av Rejlers 2023-12-12
 
 2
 
@@ -13938,16 +13938,16 @@ Biolog med inriktning på fisk- och vattenvård
 Ankomstdatum 2023-12-20
 Diarienummer MH-2023-4570
 
-Från:  Kommun<kommun@kungsbacka.se>
+Från:  Kommun\<kommun@kungsbacka.se>
 Skickat: 2023-12-2016:28
-Till:  Miljö & Hälsoskyddadmin <miljoochhalsoskydd.admin@kungsbacka.se>
+Till:  Miljö & Hälsoskyddadmin \<miljoochhalsoskydd.admin@kungsbacka.se>
 
 Ämne:  VB: Brev från Vänersborgstingsrätt i M3430-22
 Bilagor: VänersborgsTRM3430-22Aktbil 28.pdf
 
-Från:Vänersborgstingsrätt<vanersborgs.tingsratt@dom.se>
+Från:Vänersborgstingsrätt\<vanersborgs.tingsratt@dom.se>
 Skickat:den20december202310:56
-Till:Kommun<kommun@kungsbacka.se>
+Till:Kommun\<kommun@kungsbacka.se>
 Ämne:BrevfrånVänersborgstingsrättiM3430-22
 
 Bifogatdettae-postmeddelandefinnsdokumentmedviktiginformationfrånendomstolellerennämnd
@@ -14096,7 +14096,7 @@ Bollebygd Forsa 7:1
 Fastigheten Bollebygd Forsa 7:1 ägs av Forssa Fastighets AB, 556469-4205, Forsa
 Företagscenter, 517 91 Bollebygd.
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -14384,7 +14384,7 @@ Pia Bosdotter Olson
 Advokat
 
 Bilagor:
-1. PM, med bilagor, upprättad av Rejlers 2023-11-29
+1\. PM, med bilagor, upprättad av Rejlers 2023-11-29
 
 6
 
@@ -14576,7 +14576,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -14600,14 +14600,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-
 1-
 1
@@ -14638,7 +14638,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -14662,14 +14662,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-11
 5
 -3
@@ -14700,7 +14700,7 @@ di
 r.
 vt
 
-X\
+X\\
 pp
 U
 a d g r p \ p U
@@ -14724,14 +14724,14 @@ d\C
 i
 E
 r \D
-:
+\:
 opbo
 ( y
 x
 d H e o r T r
 a)
 r
-\
+\\
 2023-
 1-
 1
@@ -14742,7 +14742,7 @@ r
 
 [Tabell 367-1](handlingar.tabeller/367-1.csv)
 
-| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>~500 B02<br>1 : 50<br>~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>~500<br>0051<br>~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
+| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>\~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>\~500 B02<br>1 : 50<br>\~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>\~500<br>0051<br>\~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
 | --- | --- | --- | --- |
 |  | BET ANT ÄNDRINGEN AVSER SIGN DATUM |  |  |
 |  |  |  |  |
@@ -14800,7 +14800,7 @@ Inledningsvis får Sökanden lämna en sammanställning av villkor samt göra vi
 förtydliganden, preciseringar och kompletteringar avseende yrkandet om inhämtande av
 yttrande enligt 22 kap 13 § miljöbalken.
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -14953,7 +14953,7 @@ Bilaga 1 samt vad som tidigare angivits i målet.
 
 Bemötande av Länsstyrelsens synpunkter
 
-1. Motivering av yrkande om när nästa ansökan om omprövning senast
+1\. Motivering av yrkande om när nästa ansökan om omprövning senast
 ska lämnas in samt tid för åtgärder
 
 Länsstyrelsen anser att Sökanden behöver motivera varför man yrkar på femtio år för
@@ -15024,7 +15024,7 @@ längre arbetstid än vad som varit vanligt i tidigare praxis för denna typ av
 anläggningsåtgärder. Det ligger i såväl Sökandens som i det allmännas intresse att undvika
 onödiga processer om ansökan om förlängning av arbetstid.
 
-2. Förtydligande om tid för ålvandring
+2\. Förtydligande om tid för ålvandring
 
 Lan̈ sstyrelsen anser att ansökan behöver kompletteras med ett förtydligande om Sökandens
 yrkanden om drifttider för ålyngelledare har tagit hänsyn till klimatförändringar och eventuella
@@ -15039,14 +15039,14 @@ Sökanden hänvisar i dessa frågor till vad som framgår av PM från Rejlers, B
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-3. Förtydliganden avseende ålyngelledare
+3\. Förtydliganden avseende ålyngelledare
 
 Lan̈ sstyrelsen anser att ansökan behöver kompletteras med ett förtydligande avseende
 al̊yngelledarnas utformning.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-4. Förtydligande avseende flyktvägens funktion vid Gökalidssjön
+4\. Förtydligande avseende flyktvägens funktion vid Gökalidssjön
 
 Lan̈ sstyrelsen anser att ansökan behöver kompletteras med ett förtydligande avseende
 funktionen hos flyktvägen vid Gökalidssjön.
@@ -15056,7 +15056,7 @@ utvandring mellan den 1 december till den 14 augusti.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-5. Förtydligande avseende ålutvandring vid Stora Öresjöns
+5\. Förtydligande avseende ålutvandring vid Stora Öresjöns
 
 regleringsdamm
 
@@ -15066,7 +15066,7 @@ andra tider än vid högflöden och hur flödet för minimitappning ska säkerst
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-6. Förtydligande av funktionen hos fiskvägen vid Gökalids kraftverk
+6\. Förtydligande av funktionen hos fiskvägen vid Gökalids kraftverk
 
 Lan̈ sstyrelsen anser att Sökanden behöver förtydliga funktionen hos föreslagen fiskväg vid
 Gökalids kraftverk samt att ansökan behöver kompletteras med en redogörelse som gör det
@@ -15074,7 +15074,7 @@ möjligt att bedöma om föreslagen fiskväg utgör bästa möjliga teknik.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-7. Påverkan på hydrologi – säkerställer förslagna åtgärder samt
+7\. Påverkan på hydrologi – säkerställer förslagna åtgärder samt
 vattenhushållningsbestämmelser att MKN inte äventyras eller att någon
 
 otillåten försämring inte uppkommer.
@@ -15093,7 +15093,7 @@ Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bi
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-8. Förtydligande av hur verksamheten ska kontrolleras
+8\. Förtydligande av hur verksamheten ska kontrolleras
 
 Lan̈ sstyrelsen bedömer att Sökanden behöver komplettera ansökan med förslag till hur
 kontroll kontinuerligt ska ske av vattennivåerna och flödena samt hur funktionskontroll ska
@@ -15101,14 +15101,14 @@ utföras på anordningar för fiskens upp- och nedströmspassage.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-9. Påverkan på häckning av storlom
+9\. Påverkan på häckning av storlom
 
 Lan̈ sstyrelsen anser att ansökan behöver kompletteras med en analys av hur storlom skulle
 kunna påverkas av en ny tappningsstrategi för Stora Öresjön.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-10. Provtagning av betong
+10\. Provtagning av betong
 
 Lan̈ sstyrelsen anser att Sökanden behöver komplettera ansökan med en beskrivning av hur
 en miljömas̈ sigt sak̈ er hantering av betong som rivs vid anläggandet av fiskväg ska ske samt
@@ -15116,7 +15116,7 @@ hur detta ska kontrolleras.
 
 Sökanden hänvisar i denna fråga till vad som framgår av PM från Rejlers, Bilaga 1.
 
-11. Beskrivning av utförandet av arbetet med fiskväg
+11\. Beskrivning av utförandet av arbetet med fiskväg
 
 Lan̈ sstyrelsen anser att ansökan i fyra punkter behöver kompletteras med en beskrivning av
 utförandet av arbetet med fiskväg.
@@ -15130,9 +15130,9 @@ Advokat
 
 Bilagor:
 
-1. PM upprättad av Rejlers 2023-09-18
-2. Sammanställning av villkor
-3. Kartskiss, Reljers
+1\. PM upprättad av Rejlers 2023-09-18
+2\. Sammanställning av villkor
+3\. Kartskiss, Reljers
 
 7
 
@@ -15461,40 +15461,40 @@ Föreslagna villkor
 Som kompletterande och i förekommande fall justerade villkor för verksamheten vid Gökalids
 kraftverk (AM 94/1940) föreslår Sökanden
 
-1. att arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
+1\. att arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
 
 med vad Sökanden angett i ansökningshandlingarna och i övrigt uppgett och åtagit
 sig i målet,
-2. att dämningsgränsen för Tolaredssjön, vad på kraftverkets praktiska drift och
+2\. att dämningsgränsen för Tolaredssjön, vad på kraftverkets praktiska drift och
 dammens skötsel beror, ska bestämmas till +87,31 m (befintligt villkor, här uttryckt i
 RH2000),
-3. att sänkningsgränsen för Tolaredssjön, vad på kraftverkets praktiska drift och
+3\. att sänkningsgränsen för Tolaredssjön, vad på kraftverkets praktiska drift och
 dammens skötsel beror, ska bestämmas till +86,57 m,
-4. att en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen
+4\. att en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen
 
 vid Tolaredssjön,
-5. att ålyngelledare vid Tolaredssjön ska vara i drift under tiden från och med 1 maj och
+5\. att ålyngelledare vid Tolaredssjön ska vara i drift under tiden från och med 1 maj och
 till och med 30 september,
-6. att ålyngelledaren ska förses med vatten från Tolaredssjön via antingen en smal
+6\. att ålyngelledaren ska förses med vatten från Tolaredssjön via antingen en smal
 öppning i dammuren eller en pump och att lockvatten tillförs i anslutning till
 ålyngelledarens mynning på nedströmssidan,
-7. att minimitappningen till Tolaredsbäcken ska vara 0,1 m3/s, eller tillrinningen om den
+7\. att minimitappningen till Tolaredsbäcken ska vara 0,1 m3/s, eller tillrinningen om den
 är mindre,
-8. att dämningsgränsen för Gökalidssjön, vad på kraftverkets praktiska drift och
+8\. att dämningsgränsen för Gökalidssjön, vad på kraftverkets praktiska drift och
 
 dammens skötsel beror, ska bestämmas till +85,31 m (befintligt villkor, här uttryckt i
 RH2000),
-9. att en flyktväg för ål i form av en ålhävert anläggs i anslutning till intagsgallret vid
+9\. att en flyktväg för ål i form av en ålhävert anläggs i anslutning till intagsgallret vid
 dammen i Gökalidssjön,
-10. att ålhäverten ska vara i drift vid plusgrader under perioden från och med 15 augusti
+10\. att ålhäverten ska vara i drift vid plusgrader under perioden från och med 15 augusti
 till och med 30 november, vid drift av kraftverket,
-11. att en fiskväg i form av en så kallad Larinier super-active baffle fishway, eller med
+11\. att en fiskväg i form av en så kallad Larinier super-active baffle fishway, eller med
 annan motsvarande funktion, anläggs vid Gökalids kraftstation till Tolaredsbäckens
 
 naturfåra,
-12. att en ålyngelledare för uppströms fiskvandring ska anläggas vid Gökalids kraftstation
+12\. att en ålyngelledare för uppströms fiskvandring ska anläggas vid Gökalids kraftstation
 till Tolaredsbäckens naturfåra,
-13. att ett kontrollprogram för den vattenverksamhet som bedrivs vid Gökalids kraftverk,
+13\. att ett kontrollprogram för den vattenverksamhet som bedrivs vid Gökalids kraftverk,
 Gökalidssjön och Tolaredssjön ska upprättas och ges in till tillsynsmyndigheten
 senast sex (6) månader efter lagakraftvunnen dom.
 
@@ -15513,24 +15513,24 @@ regleras till förmån för Gökalids kraftverk med eget tillstånd, AM 95/1940.
 Som kompletterande och i förekommande fall justerade villkor för vattenverksamheten
 vid Stora Öresjön (AM 95/1940) föreslår Sökanden att
 
-14. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
+14\. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
 med vad Sökanden angett i ansökningshandlingarna och i övrigt uppgett och åtagit
 
 sig i målet,
-15. dämningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
+15\. dämningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
 bestämmas till höjden +105,91 m (gällande villkor, här översatta till RH2000),
-16. sänkningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
+16\. sänkningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
 bestämmas till höjden +104,01 m (gällande villkor, här översatta till RH2000),
-17. en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen i
+17\. en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen i
 Stora Öresjön,
-18. ålyngelledare ska vara i drift under tiden från och med 1 maj och till och med 30
+18\. ålyngelledare ska vara i drift under tiden från och med 1 maj och till och med 30
 
 september,
-19. ålyngelledaren ska förses med vatten från Stora Öresjön via en pump och att
+19\. ålyngelledaren ska förses med vatten från Stora Öresjön via en pump och att
 lockvatten tillförs i anslutning till ålyngelledarens mynning på nedströmssidan,
-20. att en minimitappning om minst 0,09 m3/s, eller tillrinningen om mindre, ständigt
+20\. att en minimitappning om minst 0,09 m3/s, eller tillrinningen om mindre, ständigt
 släpps förbi regleringsdammen, och att
-21. ett kontrollprogram för den vattenverksamhet som bedrivs vid Stora Öresjön ska
+21\. ett kontrollprogram för den vattenverksamhet som bedrivs vid Stora Öresjön ska
 upprättas och ges in till tillsynsmyndigheten senast sex (6) månader efter
 lagakraftvunnen dom.
 
@@ -15893,7 +15893,7 @@ erlägga sitt bidrag till ledningskostnaden, nyssnämnda 2.000 kronor. Underhål
 ledningen skall åvila strömfallsfastighetens ägare.
 
 Kraftleveranserna till de fastigheter som redan erhållit kraft, skola anses börja den 1 april
-1953.
+1953\.
 
 Strömfallsfastighetens ägare är pliktig att hos varje ersättningstagare hålla och förnya
 mätare. Vid avläsning av mätare skall ersättningstagare vara berättigad att närvara och äger
@@ -16165,7 +16165,7 @@ Av domen i mål AM 95/1940 framgår följande.
 
 För tillståndet skola gälla följande villkor och bestämmelser:
 
-1) I denna dom förekommande höjdsiffror hänföra sig till ett jämförelseplan, i förhållande
+1\) I denna dom förekommande höjdsiffror hänföra sig till ett jämförelseplan, i förhållande
 till vilket bergytan invid ett inom ringformigt märke befintligt hål, inborrad i berg
 vänster strand, 2 meter uppströms dammens landfäste, innehar höjdläget + 100,00
 meter. Denna bergyta skall vara fixpunkt för företaget. Invid ringen skola sökandena
@@ -16174,7 +16174,7 @@ snarast låta inhugga bokstäverna DV och årtalet 1953.
 Sökandens kommentar: Villkoret är verkställt men föreslås kvarstå med uppdaterat
 höjdmått angivet i RH2000.
 
-2) Det åligger regleringsrätthavaren att så handhava skötseln av dammen, att
+2\) Det åligger regleringsrätthavaren att så handhava skötseln av dammen, att
 vattenståndet i sjön icke förrän utskovet helt öppnats överstiger höjden + 101,00
 meter. På förekommande anledning vill vattendomstolen framhålla, att skyldigheten
 
@@ -16212,9 +16212,9 @@ hänvisas bolaget att framdeles föra talan enligt föreskrifterna i 2 kap. 31 �
 vattenlagen.
 
 Sökandens kommentar: Villkoret föreslås upphävas och ersättas av förslag till villkor 15 och
-16.
+16\.
 
-3) I deldomen har Lindgren ålagts att på den nya dammens uppströmssida, minst 3
+3\) I deldomen har Lindgren ålagts att på den nya dammens uppströmssida, minst 3
 meter från utskovet, inborra en koppardubb av minst 20 millimeter diameter på sådan
 höjd, att dubbens underkant komme att ligga på + 101,00 meter. Denna föreskrift har
 fullgjorts på så sätt, att i berghäll, omkring 7 meter uppströms dammens vänstra
@@ -16227,7 +16227,7 @@ samt att samtidigt fullständigt borttaga den nyss omnämnda felaktigt utsatta d
 Sökandens kommentar: Villkoret föreslås kvarstå men uppdateras höjdmåtten angivna i
 RH2000.
 
-4) Det åligger dammägaren att, när vederbörande fiskeriintendent så yrkar och därvid
+4\) Det åligger dammägaren att, när vederbörande fiskeriintendent så yrkar och därvid
 visar att ålyngel kan framkomma till dammen, vid densamma inrätta ålyngelledare, för
 framtiden underhålla densamma och under tiden från och med den 1 maj till och med
 den 30 september kostnadsfritt tillsläppa den vattenmängd, som erfordras för att
@@ -16252,7 +16252,7 @@ Bilaga 2
 Sökandens kommentar: Villkoret föreslås upphävas och ersättas av förslag till villkor 17,
 18, 19 och 20.
 
-5) Fiskeriintendenten Nils Törnquist har i yttrande den 19 november 1940 föreslagit
+5\) Fiskeriintendenten Nils Törnquist har i yttrande den 19 november 1940 föreslagit
 avgift enligt 2 kap. 10 § vattenlagen till befrämjande av fisket inom landet till 20 kronor
 för varje sekundkubikmeter av den före regleringen framrinnande lågvattenmängden.
 Då denna uppgives vara 0,07 sekundkubikmeter, skulle avgiften utgå med endast 1
@@ -16267,7 +16267,7 @@ i Älvsborgs län, för åren 1948-1952 genast och för framtiden före varje å
 Sökandens kommentar: Villkoret föreslås upphävas och ersättas av förslag till villkor 17,
 18, 19 och 20.
 
-6) Strax nedströms dammläget vid en i ån uppförd såg har funnits ett för hemmanet
+6\) Strax nedströms dammläget vid en i ån uppförd såg har funnits ett för hemmanet
 Grimmered gemensamt ålfiske. Delägarna i fisket hava vid vattendomstolens
 sammanträde i målet den 21 december 1940 förklarat sig anse, att
 regleringsdammen icke behövde inverka på ålfisket, som kunde bibehållas på sin
@@ -16286,7 +16286,7 @@ upptagas därför icke av vattendomstolen.
 
 Sökandens kommentar: Villkoret saknar betydelse i målet och föreslås upphävas.
 
-7) Sökandena åläggs att låta bredda vägbanan på vägen A så att densamma får en
+7\) Sökandena åläggs att låta bredda vägbanan på vägen A så att densamma får en
 bredd som ingenstädes understiger 3 meter. Vägbanan får icke ligga lägre än på +
 101,40 meter.
 
@@ -16296,7 +16296,7 @@ erforderliga.
 
 Sökandens kommentar: Villkoret har verkställts och villkoret föreslås upphävas.
 
-8) De här ovan föreskrivna arbetena: ändringen av dammens utskov, utsättandet av
+8\) De här ovan föreskrivna arbetena: ändringen av dammens utskov, utsättandet av
 dämningsmärke och breddning av vägen A, skola utföras snarast och vara färdiga
 senast den 1 juli 1953.
 
@@ -16312,25 +16312,25 @@ Bilaga 2
 Sökandens kommentar: Villkoret har verkställts, tidsfristen har passerat och villkoret
 föreslås upphävas.
 
-9) Så snart dessa arbeten färdigställts, skall anmälan därom göras till
+9\) Så snart dessa arbeten färdigställts, skall anmälan därom göras till
 vattenrättsdomaren, varefter vattenrättsingenjör eller annan sakkunnig person
 kommer att förordnas att på sökandenas bekostnad verkställa besiktning enligt 13
 kap. 1 § vattenlagen. Skulle sökandena underlåta att ingiva anmälan, förordnas
 ändock besiktningsman vid arbetstidens utgång.
 Sökandens kommentar: Villkoret har verkställts och villkoret föreslås upphävas.
 
-10) Bestämmelserna i 4 kap. vattenlagen äro icke tillämpliga å företaget.
+10\) Bestämmelserna i 4 kap. vattenlagen äro icke tillämpliga å företaget.
 
 Sökandens kommentar: Villkoret saknar betydelse och föreslås upphävas.
 
-11) Det åligger sökandena att solidariskt så snart denna dom vunnit laga kraft till
+11\) Det åligger sökandena att solidariskt så snart denna dom vunnit laga kraft till
 länsstyrelsen i Älvsborgs län inbetala avgift enligt 11 kap. 95 § vattenlagen såsom
 bidrag till kostnaden för vattendomstolarnas organisation och verksamhet med
 etthundrafemtio kronor.
 
 Sökandens kommentar: Villkoret har verkställts och villkoret föreslås upphävas.
 
-12) Vattendomstolens beslut här ovan i domen betager icke den, vilket genom företaget
+12\) Vattendomstolens beslut här ovan i domen betager icke den, vilket genom företaget
 vållas skada eller intrång, som vattendomstolen nu icke kunnat förutse, att framdeles
 framställa anspråk på ersättning. Sådant anspråk skall, för att kunna upptagas till
 prövning, anmälas hos vattenrättsdomaren på sätt, som angives i 11 kap. 68 §
@@ -16416,7 +16416,7 @@ De tre vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA355573
 
 Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -16808,18 +16808,18 @@ faktum gör, som ovan nämnts, att mindre stränga krav ska utredas av Vattenmyn
 
 I en sådan utredning ska bland annat beaktas
 
-- att vattenmagasinen i första hand behöver användas för den nödvändiga och
+\- att vattenmagasinen i första hand behöver användas för den nödvändiga och
 
 samhällsnyttiga allmänna dricksvattenförsörjningen, såväl den befintliga som den planerade,
 
-- att alternativ vattentäkt för befintliga behov bedöms svår eller omöjlig att finna med
+\- att alternativ vattentäkt för befintliga behov bedöms svår eller omöjlig att finna med
 beaktande av de höga krav som måste ställas på en dricksvattentäkts kvantitet, kvalitet,
 lokalisering och tillgänglighet,
 
-- att kostnaderna för att etablera en vattentäkt som delvis skulle kunna komplettera befintlig
+\- att kostnaderna för att etablera en vattentäkt som delvis skulle kunna komplettera befintlig
 anläggning i anslutning till Lygnern, skulle uppgå till minst 450 miljoner kronor,
 
-- att det därtill skulle uppstå kostnader för etablering av fiskvägar på flertalet platser i
+\- att det därtill skulle uppstå kostnader för etablering av fiskvägar på flertalet platser i
 vattensystemet samt förluster i form av bortfall av elproduktion,
 
 12
@@ -16829,12 +16829,12 @@ vattensystemet samt förluster i form av bortfall av elproduktion,
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
+\- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
 möjliga teknik vid Viaredssjön skulle bli orimliga och oacceptabla med beaktande av att mark
 som idag utgör järnväg, allmän väg, vägbro och mark inom privata fastigheter med
 trädgårdstomter skulle behöva tas i anspråk.
 
-- att den förutsebara nyttan av fiskvägar och slopad reglering begränsar sig till visst
+\- att den förutsebara nyttan av fiskvägar och slopad reglering begränsar sig till visst
 gynnande av en handfull triviala fiskarter.
 
 De åtgärdsförslag som Sökanden lämnat innebär att bästa möjliga status uppnås och
@@ -16850,10 +16850,10 @@ Advokat
 
 Bilagor:
 
-1. Samrådsunderlag avseende utökat kommunalt dricksvattenuttag, 2022-04-12
-2. Avsiktsförklaring
+1\. Samrådsunderlag avseende utökat kommunalt dricksvattenuttag, 2022-04-12
+2\. Avsiktsförklaring
 
-3. Utdrag av kalkyl avseende vattenverk vid Stora Horredssjön
+3\. Utdrag av kalkyl avseende vattenverk vid Stora Horredssjön
 
 13
 
@@ -17234,12 +17234,12 @@ SAMRÅDSUNDERLAG                             Kungsbacka kommun
 8    Planerad   verksamhet
 
 Kungsbacka kommun avser att söka tillstånd för:
-1. Utökat vattenuttag från Lygnern, från maximalt 150 l/s till ca 500 l/s, dvs. en
+1\. Utökat vattenuttag från Lygnern, från maximalt 150 l/s till ca 500 l/s, dvs. en
 ökning med 350 l/s. Vattenuttaget ska ske med hänsyn till villkor gällande
 minimitappning, sänkningsgräns, dämningsgräns m.m. som gäller för
 tillståndet för Ålgårda kraftverk, vilket för närvarande innehas av Forsnacken
 AB.
-2. Att anlägga ny intagsledning i Bräckaviken i den västra delen av Lygnern, i
+2\. Att anlägga ny intagsledning i Bräckaviken i den västra delen av Lygnern, i
 anslutning till den befintliga intagsledningen.
 
 Tillstånd för ytterligare infiltration av vatten i Fjärås bräcka och ett större
@@ -17334,7 +17334,7 @@ SAMRÅDSUNDERLAG                             Kungsbacka kommun
 
 11.1 Översiktsplan
 För Kungsbacka kommun gäller ÖP, översiktsplan som vann laga kraft 26 januari
-2022.
+2022\.
 
 11.2 Detaljplanering
 Det finns inga detaljplaner i anslutning till planerad verksamhet.
@@ -17356,18 +17356,18 @@ runt Stensjö är Landskapsbildsskyddsområde.
 11.6 Natura 2000-områden
 I anslutning till Lygnern och Rolfsån förekommer fem natura-2000-områden, se
 Figur 4.
-1) Rolfsån - Vattendrag nedströms Stensjö med genuin laxstam. För området
+1\) Rolfsån - Vattendrag nedströms Stensjö med genuin laxstam. För området
 finns en bevarandeplan i syfte att bevara eller återställa ett gynnsamt tillstånd
 för flodpärlmussla och lax.
 
-2) Rossared, söder om Stensjö – Rödlistade insekter kopplade till ek- och
+2\) Rossared, söder om Stensjö – Rödlistade insekter kopplade till ek- och
 bokskog.
-3) Årenäs-Tostekulla – Ädellövskog med skyddsvärd kärlväxt-, moss-, lav- och
+3\) Årenäs-Tostekulla – Ädellövskog med skyddsvärd kärlväxt-, moss-, lav- och
 svampflora.
 
-4) Ramhultafallet – Skogsreservat med ek med artrik flora.
+4\) Ramhultafallet – Skogsreservat med ek med artrik flora.
 
-5) Gäddevik - Bokskog
+5\) Gäddevik - Bokskog
 
 17
 
@@ -17813,7 +17813,7 @@ Diarienummer MH-2023-4570
 SAMRÅDSUNDERLAG                             Kungsbacka kommun
 
 Stensjö mynnar till vattenförekomsten Rolfsån (Mynningen-Stensjön) (SE637884-
-127885) som efter ca 10 km rinner mynnar i havet i Kungsbackafjorden. Rolfsån
+127885\) som efter ca 10 km rinner mynnar i havet i Kungsbackafjorden. Rolfsån
 uppnår även här god ekologisk status, men inte god kemisk status med avseende på
 kvicksilver och bromerade difenyleter. För vattenförekomsten gäller
 miljökvalitetsnormen god kemisk ytvattenstatus och god ekologisk status 2021.
@@ -18000,7 +18000,7 @@ hinder och hänsyn som ligger utanför parternas kontroll.
 33 Parterna är införstådda med att regleringen måste ske med beaktande av vid var tid
 gällande vattendomar/tillstånd för respektive Kraftverk/vattenmagasin.
 
-4. Kommunen ska ersätta Bolaget fullt ut för den ekonomiska skada för förändrad
+4\. Kommunen ska ersätta Bolaget fullt ut för den ekonomiska skada för förändrad
 elproduktion och eventuell annan ekonomisk skada som blir en följd av anpassning av
 vattenregleringen till förmån för Kommunens vattenbehov. Definition av ”Annan
 ekonomisk skada” kommer specificeras i särskilt avtal. Hur ersättningen ska beräknas och
@@ -18011,14 +18011,14 @@ månadsvis i efterskott, dock så skyndsamt som möjligt. Det särskilda avtalet
 snart som möjligt och intentionen är att ett avtal ska vara undertecknat senast 31 december
 2022, och i vart fall innan domstolen avgör något av de berörda ansökningsmålen.
 
-5. Om ägaren av Bolaget avser att avyttra samtliga aktier i Bolaget eller om Bolaget avser att
+5\. Om ägaren av Bolaget avser att avyttra samtliga aktier i Bolaget eller om Bolaget avser att
 försälja eller på annat sätt avhända sig kontrollen över ett eller flera av Kraftverken är
 Bolaget skyldigt att gentemot ny innehavare av Kraftverket/en informera om denna
 avsiktsförklaring. Kommande särskilda avtal om ersättning, ansvar med mera ska innehålla
 en skyldighet för Bolaget att gentemot eventuell förvärvare/nyttjanderättshavare av
 Bolaget eller dess fastigheter göra förbehåll om det särskilda avtalet.
 
-6. Vid sina rättsliga prövningar avseende vattenuttaget ur Lygnern respektive
+6\. Vid sina rättsliga prövningar avseende vattenuttaget ur Lygnern respektive
 Kraftverken/vattenmagasinen ska Kommunen respektive Bolaget i möjligaste mån agera i
 enlighet med innehållet i denna avsiktsförklaring och gemensamt verka för att kommande
 vattendomar/tillstånd ger utrymme för att både Kommunens vattenbehov och Bolagets
@@ -18165,8 +18165,8 @@ Vänersborgs tingsrätt
 ANSÖKAN OM OMPRÖVNING FÖR MODERNA MILJÖVILLKOR ENLIGT MILJÖBALKEN
 
 Sökande
-1. Forsnacken AB, 556806-0924, c/o Heineman, Box 95044, 541 05 SKÖVDE
-2. Gökalid Kraft KB, 916837-4859, adress som ovan
+1\. Forsnacken AB, 556806-0924, c/o Heineman, Box 95044, 541 05 SKÖVDE
+2\. Gökalid Kraft KB, 916837-4859, adress som ovan
 
 Ombud
 Advokaten Pia Bosdotter Olson, Advokataktiebolaget Nordic Law, Skeppsbron 5, 211 20
@@ -18224,7 +18224,7 @@ Beslut om att ansöka om tillstånd för ökat drickvattenuttag fattades 2021-10
 Kungsbacka kommun, Nämnden för Teknik, se underbilaga till Bilaga B.
 
 Samråd avseende kommunens ökade vattenuttag skedde vintern 2021/2022 och våren
-2022.
+2022\.
 
 Diskussioner och informationsutbyte har skett mellan Kungsbacka kommun och
 Forsnacken AB samtidigt som var och en av parterna har arbetat vidare med sina
@@ -18283,13 +18283,13 @@ WA35557387 och Viaredssjön (VVA65290953).
 I vattendirektivet och det svenska regelverket finns det några viktiga utgångspunkter då
 undantag, här med fokus på mindre stränga krav, ska utredas.
 
-1. Vattenmyndigheterna ska utreda om undantaget mindre stränga krav är tillämpligt på
+1\. Vattenmyndigheterna ska utreda om undantaget mindre stränga krav är tillämpligt på
 vattenförekomstnivå om den ekologiska statusen eller potentialen är lägre än god.
 
-2. Då orimliga kostnader ska bedömas så ska alla nyttor och kostnader tas med i den
+2\. Då orimliga kostnader ska bedömas så ska alla nyttor och kostnader tas med i den
 
 samhällsekonomiska analysen.
-3. I utredningen om undantag ingår att värdera nyttor vilket kan göras på olika sätt som
+3\. I utredningen om undantag ingår att värdera nyttor vilket kan göras på olika sätt som
 
 kvalitativt, kvantitativt samt monetärt.
 
@@ -18298,7 +18298,7 @@ Redan detta faktum gör att mindre stränga krav ska utredas.
 
 I en sådan utredning ska bland annat beaktas
 
-- att vattenmagasinen i första hand behöver användas för den nödvändiga och
+\- att vattenmagasinen i första hand behöver användas för den nödvändiga och
 samhällsnyttiga allmänna dricksvattenförsörjningen, såväl den befintliga som den
 
 planerade,
@@ -18308,16 +18308,16 @@ planerade,
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-- att alternativ vattentäkt för ovan nämnt behov bedöms svår eller omöjlig att finna med
+\- att alternativ vattentäkt för ovan nämnt behov bedöms svår eller omöjlig att finna med
 beaktande av de högt ställda krav som måste ställas på en dricksvattentäkts kvantitet
 och kvalitet,
 
-- att, om alternativ lokalisering för vattentäkt skulle finnas, det är uppenbart att en flytt av
+\- att, om alternativ lokalisering för vattentäkt skulle finnas, det är uppenbart att en flytt av
 befintligt kommunalt vattenverk i anslutning till Lygnern skulle medföra orimliga
 
 kostnader,
 
-- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
+\- att det är uppenbart att kostnaderna och olägenheter för att anlägga fiskväg enligt bästa
 möjliga teknik vid Viaredssjön skulle bli orimliga och oacceptabla med beaktande av att
 mark som idag utgör järnväg, allmän väg, vägbro och mark inom privata fastigheter med
 
@@ -18388,13 +18388,13 @@ Förslag på villkor
 Som kompletterande och i förekommande fall justerade villkor för verksamheten vid Gökalids
 kraftverk (AM 94/1940) föreslår Sökanden
 
-1.
+1\.
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 
 att arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
 med vad Sökanden angett i ansökningshandlingarna och i övrigt uppgett och åtagit
@@ -18441,7 +18441,7 @@ till Tolaredsbäckens naturfåra,
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-13. att ett kontrollprogram för den vattenverksamhet som bedrivs vid Gökalids kraftverk,
+13\. att ett kontrollprogram för den vattenverksamhet som bedrivs vid Gökalids kraftverk,
 Gökalidssjön och Tolaredssjön ska upprättas och ges in till tillsynsmyndigheten
 senast sex (6) månader efter lagakraftvunnen dom.
 
@@ -18451,29 +18451,29 @@ regleras till förmån för Gökalids kraftverk med eget tillstånd, AM 95/1940.
 Som kompletterande och i förekommande fall justerade villkor för vattenverksamheten
 vid Stora Öresjön (AM 95/1940) föreslår Sökanden att
 
-14. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
+14\. arbetena ska utföras och verksamheten bedrivas i huvudsaklig överensstämmelse
 med vad Sökanden angett i ansökningshandlingarna och i övrigt uppgett och åtagit
 sig i målet,
 
-15. dämningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
+15\. dämningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
 bestämmas till höjden +105,91 m (gällande villkor, här översatta till RH2000),
 
-16. sänkningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
+16\. sänkningsgränsen i Stora Öresjön ska, vad på kraftverkets praktiska drift beror,
 bestämmas till höjden +104,01 m (gällande villkor, här översatta till RH2000),
 
-17. en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen i
+17\. en ålyngelledare för uppströms fiskvandring ska anläggas vid regleringsdammen i
 Stora Öresjön,
 
-18. ålyngelledare ska vara i drift under tiden från och med 1 maj och till och med 30
+18\. ålyngelledare ska vara i drift under tiden från och med 1 maj och till och med 30
 september,
 
-19. ålyngelledaren ska förses med vatten från Stora Öresjön via en pump och att
+19\. ålyngelledaren ska förses med vatten från Stora Öresjön via en pump och att
 lockvatten tillförs i anslutning till ålyngelledarens mynning på nedströmssidan,
 
-20. att en minimitappning om minst 0,09 m?/s, eller tillrinningen om mindre, ständigt
+20\. att en minimitappning om minst 0,09 m?/s, eller tillrinningen om mindre, ständigt
 släpps förbi regleringsdammen, och att
 
-21. ett kontrollprogram för den vattenverksamhet som bedrivs vid Stora Öresjön ska
+21\. ett kontrollprogram för den vattenverksamhet som bedrivs vid Stora Öresjön ska
 upprättas och ges in till tillsynsmyndigheten senast sex (6) månader efter
 lagakraftvunnen dom.
 
@@ -18502,7 +18502,7 @@ Diarienummer MH-2023-4570
 
 I denna ansökan föreslås — med ändring av villkor i Västerbygdens vattendomstols
 domar i mål AM 94/1940 och 95/1 940 - nya villkor för gällande tillstånd. De föreslagna
-åtgärderna motsvarar sådana moderna villkor som avses i 11 kap 27 $& miljöbalken.
+åtgärderna motsvarar sådana moderna villkor som avses i 11 kap 27 \$& miljöbalken.
 
 Rättens handläggning
 
@@ -19448,7 +19448,7 @@ tillflödet av betydelse mellan Tolaredssjön och kraftstationen.
 Vid kraftverket leds vattnet från Tolaredsbäcken genom en cirka 20 meter lång kulvert som mynnar i
 kraftstationens utloppstunnel. Kulverten som är cirka 1,5 meter hög och 1,6 meter bred har botten
 av betong och mynnar cirka 1 meter över nedströmsvattenytan i utloppskanalen (Fig. 9, 10, 11 och
-12)
+12\)
 
 Figur 11. Tolaredsbäcken i kulvert vid Figur 12. Fall från kulvert ner i utloppskanalen under
 kraftstationen.            kraftstationen.
@@ -20369,7 +20369,7 @@ sätts i fara.
 Det åligger regleringsrättsinnehavaren att tillgodose den rätt till vatten för drift av såg och
 kraftanläggning, som ägaren av Grimmered 1:3 blivit tillförsäkrad genom avtal den 8 oktober
 
-1937.
+1937\.
 Denna anläggning finns enligt vår kännedom inte längre kvar.
 
 Vattenmärke
@@ -21589,7 +21589,7 @@ respektive anläggning.
 1.1 BAKGRUND OCH SYFTE
 Berörda vattenkraftverk ingår i den nationella planen för omprövning av vattenkraft. Enligt den
 nationella planens tidsplan ska anläggningar i Rolfsån ha lämnat in sin ansökan senast 1 september
-2022. Enligt Miljöbalken ska all tillståndspliktig vattenverksamhet med syfte att producera el ha
+2022\. Enligt Miljöbalken ska all tillståndspliktig vattenverksamhet med syfte att producera el ha
 moderna miljövillkor (MB 11 kap 27 §). Med detta avses att hela verksamheten har prövats efter
 miljöbalkens införande 1999. Har verksamheten inte moderna miljövillkor ska verksamhetens
 miljövillkor omprövas.
@@ -22421,7 +22421,7 @@ sea2source
 Innehåll
 Icketeknisk sammanfattning ............................................................................................................... 3
 
-1. KULTURMILJÖ OCH HISTORIK .......................................................................................................... 4
+1\. KULTURMILJÖ OCH HISTORIK .......................................................................................................... 4
 2 SAMRÅD ........................................................................................................................................... 5
 
 3 PLANERADE ÅTGÄRDER .................................................................................................................... 5
@@ -22540,7 +22540,7 @@ Den anlagda kanalen från Tolaredssjön till Gökalidssjön samt intagstub är m
 Vandringshindret vid Nåkälla kvarn är markerat med röd triangel och naturliga vandringshinder är markerade
 med grön triangel.
 
-1. KULTURMILJÖ OCH HISTORIK
+1\. KULTURMILJÖ OCH HISTORIK
 Länsstyrelsen har klassat anläggningen till: Mycket högt kulturhistoriskt värde
 
 Vidare skriver Länsstyrelsen i nulägesbeskrivningen:
@@ -23207,7 +23207,7 @@ Diarienummer MH-2023-4570
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (19)
 Nämnden för Teknik Datum
 2021-10-20
-$ 98 Dnr 2021-00614
+\$ 98 Dnr 2021-00614
 
 Vattendom Lygnern och Fjärås Bräcka
 
@@ -23237,7 +23237,7 @@ kommuns försorg.
 
 Beslutsunderlag
 
-Protokollsutdrag TEAU 2021-10-04 $ 83
+Protokollsutdrag TEAU 2021-10-04 \$ 83
 Förvaltningen för Tekniks tjänsteskrivelse, 2021-09-29
 Presentation Vattendom
 
@@ -24359,9 +24359,9 @@ Diarienummer MH-2023-4570
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
-Från:  Kommun<kommun@kungsbacka.se>
+Från:  Kommun\<kommun@kungsbacka.se>
 Skickat: 2023-12-1115:31
-Till:  Miljö & Hälsoskyddadmin <miljoochhalsoskydd.admin@kungsbacka.se>
+Till:  Miljö & Hälsoskyddadmin \<miljoochhalsoskydd.admin@kungsbacka.se>
 
 Ämne:  VB: M3460-22
 
@@ -24374,15 +24374,15 @@ IWQ0fQJSgeWjusK
 Hälsningar
 KristianEgstedt
 Registrator
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbackakommun
 Kommunstyrelsensförvaltning
 0300-834319
 kristian.egstedt@kungsbacka.se
 
-Från:valentina.juric@dom.se.s<valentina.juric@dom.se>
+Från:valentina.juric@dom.se.s\<valentina.juric@dom.se>
 Skickat:den7december202315:38
-Till:Kommun<kommun@kungsbacka.se>
+Till:Kommun\<kommun@kungsbacka.se>
 Ämne:M3460-22
 Känslighet:Konfidentiellt
 
@@ -24516,7 +24516,7 @@ Därmed når vattenförekomsterna också god ekologisk status. De av Sökanden f
 krävas med hänsyn till skyddet för människors hälsa och miljön. Någon ytterligare åtgärd,
 exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, behövs inte
 
-___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -24562,9 +24562,9 @@ Pia Bosdotter Olson
 Advokat
 
 Bilagor:
-1. Rapport Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
+1\. Rapport Fiskfaunan i sjöar inom Rolfsåns avrinningsområde 2023
 
-2. PM upprättad av Rejlers 2023-12-12
+2\. PM upprättad av Rejlers 2023-12-12
 
 2
 
@@ -25268,7 +25268,7 @@ socialtjänstens brottsförebyggande ansvar ska förtydligas i lagen. Regeringen
 den fortsatta beredningen av betänkandet, utan har i stället tagit fram en promemoria med förslag till
 bestämmelser som ska tydliggöra socialnämndens brottsförebyggande ansvar. Promemorian har
 remitterats till berörda instanser, däribland Kungsbacka kommun, för yttrande senast den 28 februari
-2024.
+2024\.
 
 Lagändringarna föreslås träda i kraft samtidigt som eventuella ändringar med anledning av förslagen i
 betänkandet träder i kraft.
@@ -25538,7 +25538,7 @@ Kommuner får lämna ekonomiskt bidrag och annat stöd till politiska partier so
 representerade i kommunfullmäktige. Syftet med stödet är att stärka partiernas
 ställning i den kommunala demokratin.
 Nuvarande regler för kommunalt partistöd antogs av kommunfullmäktige i december
-2014. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
+2014\. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
 
 hantering av det kommunala partistödet har en översyn av reglerna genomförts.
 
@@ -25866,9 +25866,9 @@ kalenderårsvis efter allmänt val.
 
 2 § Grundstöd och mandatstöd
 Partistödet består av
-- ett grundstöd,: som uppgår till 20 000 kronor ett halvt prisbasbelopp per parti
+\- ett grundstöd,: som uppgår till 20 000 kronor ett halvt prisbasbelopp per parti
 och år, för det år som stödet avser, samt
-- ett mandatstöd,: som uppgår till ett basbelopp per mandat och år, för det
+\- ett mandatstöd,: som uppgår till ett basbelopp per mandat och år, för det
 år stödet avser.
 
 Partier som är representerade i kommunfullmäktige får även boka och använda
@@ -26030,7 +26030,7 @@ Förändringar av förslag till förbundsordning efter remissutskick
 Göteborgsregionen har efter att förslaget till ny förbundsordning varit utsänt på remiss till
 medlemskommunerna gjort tre förtydliganden som uttrycks i följande tre tillägg (understruken text)
 med GR:s kommentarer till tilläggen:
-1. § 3.2 punkten 6: Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
+1\. § 3.2 punkten 6: Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 
 utbildningsverksamheter i enlighet med ingångna avtal.
@@ -26039,7 +26039,7 @@ läromedel via GR. Göteborgsregionen bedömer att det är viktigt att denna omf
 anges i förbundsordningen, men att det också är viktigt att förbundsordningen inte står i strid mot
 ingångna avtal. Göteborgsregionen menar att föreslaget tillägg säkerställer detta.
 
-2. § 3.2 punkten 8: Transferera medlemskommunernas ekonomiska stöd till vissa andra
+2\. § 3.2 punkten 8: Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt administrera och
 följa upp därvid ingångna avtal.
 
@@ -26049,7 +26049,7 @@ Göteborgsregionen. GR har egna avtal med fyra av de fem organisationer som medl
 pengar transfereras till. GR menar att det är självklart att GR administrerar och följer upp dessa avtal,
 men att det inte är rimligt att GR ska ta på sig att administrera och följa upp dessa organisationers
 eventuella avtal med medlemskommunerna. Tillägget avser att förtydliga detta.
-3. § 3.2 punkten 12: Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
+3\. § 3.2 punkten 12: Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 
 inom kultur enligt överenskommelse med VGR.
 GR har en överenskommelse om delregionala utvecklingsmedel inom kultur 2022–2024 med Västra
@@ -26585,9 +26585,9 @@ inom kultur.
 
 Beslutsunderlag
 
-1. Förslag till ny förbundsordning för GR
-2. Medlemskommunernas remissyttranden
-3. Remissärendet
+1\. Förslag till ny förbundsordning för GR
+2\. Medlemskommunernas remissyttranden
+3\. Remissärendet
 
 Förslag till ny förbundsordning                             1 (7)
 
@@ -26664,7 +26664,7 @@ Kommentarer   och Bedömning
 Nedan kommenteras de olika frågor som medlemskommunerna lyft i sina
 remissvar och redovisas vilka ändringar de föreslås medföra.
 
-1. Förbundsstyrelsens rätt företräda förbundsfullmäktige
+1\. Förbundsstyrelsens rätt företräda förbundsfullmäktige
 Förslaget att utnyttja rätten för förbundsstyrelsen att företräda
 förbundsfullmäktige har sin grund i att förbundsfullmäktige normalt endast
 sammanträder två gånger per år. Det kan därmed bli opraktiskt att kalla in
@@ -26749,7 +26749,7 @@ till förbundsfullmäktige.
 
 Remissyttrandena i denna del föranleder därför inget ändrat förslag.
 
-2. Lärresurser och läromedel
+2\. Lärresurser och läromedel
 
 Enligt gällande samordningsavtal förbinder sig medlemskommunerna att
 inhandla kommunens läromedel via GR. Det är viktigt att denna omfattande
@@ -26774,12 +26774,12 @@ Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 utbildningsverksamheter i enlighet med ingångna avtal.
 
-3. Fritidsfrågorna
+3\. Fritidsfrågorna
 
 Som Kungsbacka kommun skriver är detta en framtida fråga och den
 föranleder därför inte någon ändring i förslaget.
 
-4. Närverk för kulturchefer
+4\. Närverk för kulturchefer
 
 GR har en överenskommelse om delregionala utvecklingsmedel inom kultur
 2022-2024. Överenskommelsen innebär att GR erhåller 1,85 Mkr för 2023 i
@@ -26800,7 +26800,7 @@ Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 
 inom kultur enligt överenskommelse med VGR.
 
-5. Gränsdragningsfrågor
+5\. Gränsdragningsfrågor
 
 Som Göteborgs stad framhåller kommer det alltjämt finnas
 gränsdragningsfrågor mellan medlemskommunerna och förbundet. Det är nog
@@ -26809,7 +26809,7 @@ bedömning är att uppgifterna beskrivits så noggrant det är möjligt utan att
 förlora det mått av flexibilitet i verksamhetens utveckling som är nödvändig
 med hänsyn till förändringar i samhället.
 
-6. Transfereringar till andra organisationer
+6\. Transfereringar till andra organisationer
 
 Förslag till ny förbundsordning
 
@@ -26840,7 +26840,7 @@ Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt
 administrera och följa upp därvid ingångna avtal.
 
-7. Arkivfrågor
+7\. Arkivfrågor
 
 Det finns ingen juridisk skyldighet att meddela föreskrifter om arkivvården och
 förslaget till förbundsordning innehåller heller inga sådana föreskrifter. GR får
@@ -26954,41 +26954,41 @@ offentlig sektor och näringsliv samt stöd i omställning till digital teknik.
 
 Inom dessa områden tilldelas förbundet följande särskilda uppgifter;
 
-1. Besluta om och genomföra antagning till gymnasieskolan enligt skollagen och
+1\. Besluta om och genomföra antagning till gymnasieskolan enligt skollagen och
 
 gymnasieförordningen samt inom ramen för gällande samverkansavtal
 avseende gymnasieskolan.
-2. Bedriva grundskoleverksamhet enligt internationell läroplan, årskurs 0-9, och
+2\. Bedriva grundskoleverksamhet enligt internationell läroplan, årskurs 0-9, och
 fritidshem inom ramen för gällande skollag och förordning, genom helägt
 aktiebolag (Göteborgsregionens Internationella Skola AB, ISGR).
 
-3. Bedriva förskoleklass, grundskola och fritidshem enligt svensk läroplan med
+3\. Bedriva förskoleklass, grundskola och fritidshem enligt svensk läroplan med
 möjlighet till delvis undervisning på engelska inom ramen för gällande skollag
 och förordning på ISGR med stöd av regeringsbeslut.
-4. Utveckla och tillhandahålla vård-, omsorgs-, behandlings-, utrednings- och
+4\. Utveckla och tillhandahålla vård-, omsorgs-, behandlings-, utrednings- och
 rådgivningsresurser genom delägt aktiebolag (Gryning Vård AB) som
 komplement till medlemskommunernas egen verksamhet.
 
-5. Samordna planering och dimensionering av gymnasialt utbildningsutbud och
+5\. Samordna planering och dimensionering av gymnasialt utbildningsutbud och
 regionala utbildningar för vuxna i Göteborgsregionen inom ramen för gällande
 samverkansavtal.
-6. Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
+6\. Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 
 utbildningsverksamheter i enlighet med ingångna avtal.
-7. Utveckla och tillhandahålla vissa kommungemensamma IT-system för
+7\. Utveckla och tillhandahålla vissa kommungemensamma IT-system för
 medlemskommunernas behov.
-8. Transferera medlemskommunernas ekonomiska stöd till vissa andra
+8\. Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt
 
 administrera och följa upp därvid ingångna avtal.
-9. Ansöka om bidrag för finansiering av projekt och andra satsningar inom
+9\. Ansöka om bidrag för finansiering av projekt och andra satsningar inom
 kommunalförbundets kompetensområden.
-10. Bedriva forskning och utveckling inom kommunala verksamhetsområden.
+10\. Bedriva forskning och utveckling inom kommunala verksamhetsområden.
 
-11. Upprätta förslag till planer och planeringsunderlag av regional karaktär inom
+11\. Upprätta förslag till planer och planeringsunderlag av regional karaktär inom
 området fysisk planering.
-12. Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
+12\. Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 inom kultur enligt överenskommelse med VGR.
 
 3 (8)
@@ -27876,20 +27876,20 @@ utvecklingsp rojekt tillsammans med medlemskommunerna.
 Förbundsordning för Göteborgsregionens kommunalförbund. Gäller fr.o.m. 2023-01-01.
 
 Förbundet har två funktioner:
-1. Förbundet är myndighetsutövande inom:
+1\. Förbundet är myndighetsutövande inom:
 
 • Utbildning
-- Svara för antagningen till gymnasieskolan enligt skollagen och gymnasieförordningen
+\- Svara för antagningen till gymnasieskolan enligt skollagen och gymnasieförordningen
 samt inom ramen för gällande samverkansavtal avseende gymnasieskolan medlems-
 kommunerna emellan.
 
-- Svara för anordnande av lärande för vuxna enligt gällande lagstiftning, bl.a. skollag och
+\- Svara för anordnande av lärande för vuxna enligt gällande lagstiftning, bl.a. skollag och
 förordning om kommunal vuxenutbildning, inom ramen för gällande samverkansavtal.
-- Bedriva internationellt inriktad förskoleklass , grund och gymnasieskoleverksamhet
+\- Bedriva internationellt inriktad förskoleklass , grund och gymnasieskoleverksamhet
 samt verksamhet för fritidshem och annan pedagogisk verksamhet inom ramen för
 
 gällande skollag och förordning.
-2. Förbundet är samverkansorgan inom följande områden:
+2\. Förbundet är samverkansorgan inom följande områden:
 
 • Arbetsmarknad
 • Miljö och samhällsbyggnad
@@ -29407,13 +29407,13 @@ Kungsbacka kommuns riktlinjer för hantering av personuppgifter är ett kompleme
 kommunens integritetspolicy. Riktlinjerna gäller för kommunens nämnder,
 kommunstyrelsen, bolag och stiftelse.
 
-1. Syfte
+1\. Syfte
 
 Riktlinjernas syfte är att säkerställa att kommunen hanterar personuppgifter på ett korrekt och likvärdigt sätt,
 men också att visa för allmänhet och anställda att de kan känna sig trygga med att deras personuppgifter
 hanteras på respektfullt sätt.
 
-2. Nämndernas  och kommunstyrelsens   ansvar
+2\. Nämndernas  och kommunstyrelsens   ansvar
 
 2.1 Personuppgiftsansvariga och personuppgiftsbiträden
 Personuppgiftsansvar måste som minimum ligga på myndighetsnivå. Varje nämnd är därmed
@@ -29471,7 +29471,7 @@ vid hantering av personuppgiftsincidenter och registrerades åberopande av sina 
 lämpligt. Samordningsuppdraget innefattar även att bistå personuppgiftsansvariga nämnder med samordning
 och stöd vid konsekvensbedömning.
 
-3. Dataskyddsombud  och dataskyddskontakter
+3\. Dataskyddsombud  och dataskyddskontakter
 Varje nämnd, bolag och stiftelse ska utnämna ett dataskyddsombud (se artikel 37-39 GDPR). Nämndernas
 förvaltningar samt bolag och stiftelse rekommenderas därutöver att utse dataskyddskontakter som löpande
 arbetar med att verksamheten ska leva upp till de krav som ställs i GDPR.
@@ -29488,37 +29488,37 @@ sin verksamhet.
 3.2 Dataskyddskontakternas roll
 Dataskyddskontakternas löpande arbete ska åtminstone omfatta följande.
 
-1. Upprätta och underhålla förteckning över personuppgiftsbehandlingen i enlighet med vad som stadgas i
+1\. Upprätta och underhålla förteckning över personuppgiftsbehandlingen i enlighet med vad som stadgas i
 artikel 30.1-3 GDPR.
-2. Samordna och besvara begäranden från registrerade för den egna verksamheten, såsom exempelvis
+2\. Samordna och besvara begäranden från registrerade för den egna verksamheten, såsom exempelvis
 begäran om registerutdrag, radering och invändning. (Se artikel 12-22 GDPR.)
 
-3. Säkerställa att nödvändiga rutiner och instruktioner finns tillgängliga inom den egna verksamheten så att
+3\. Säkerställa att nödvändiga rutiner och instruktioner finns tillgängliga inom den egna verksamheten så att
 behandlingen sker i enlighet med de grundläggande principerna i artikel 5.1.
-4. Vara behjälplig med att bedöma om personuppgiftsincidenter ska vidarerapporteras till
+4\. Vara behjälplig med att bedöma om personuppgiftsincidenter ska vidarerapporteras till
 Integritetsskyddsmyndigheten (IMY) och om de registrerade ska informeras. (Se artikel 33.1 och artikel 34
 
 GDPR.)
-5. Vara förvaltningens, bolagets eller stiftelsens representant i det kommunövergripande nätverket för
+5\. Vara förvaltningens, bolagets eller stiftelsens representant i det kommunövergripande nätverket för
 dataskyddskontakter.
 
-6. Vara ett stöd till personuppgiftsansvarig, förvaltnings- eller bolagsledningen och verksamheten i arbetet
+6\. Vara ett stöd till personuppgiftsansvarig, förvaltnings- eller bolagsledningen och verksamheten i arbetet
 med personuppgiftsfrågor.
-7. Uppmärksamma personuppgiftsansvarig och förvaltnings- eller bolagsledning på åtgärder som måste
+7\. Uppmärksamma personuppgiftsansvarig och förvaltnings- eller bolagsledning på åtgärder som måste
 vidtas för att upprätthålla en god hantering av personuppgifter i enlighet med gällande lagstiftning.
 
-8. Vara dataskyddsombudet behjälplig samt fungera som länk mellan dataskyddsombudet och
+8\. Vara dataskyddsombudet behjälplig samt fungera som länk mellan dataskyddsombudet och
 personuppgiftsansvarig
 
-9. Omvärldsbevaka kring personuppgiftsfrågor utifrån det egna verksamhetsområdet.
-10. Vid behov inhämta råd och stöd från dataskyddsombudet, till exempel vid konsekvensbedömning
+9\. Omvärldsbevaka kring personuppgiftsfrågor utifrån det egna verksamhetsområdet.
+10\. Vid behov inhämta råd och stöd från dataskyddsombudet, till exempel vid konsekvensbedömning
 avseende dataskydd i enlighet med artikel 35.2 samt 39.1 c GDPR.
 
 Riktlinjer för hanterin g av personuppgifter Sida 3 av 6
 
 <!-- sida 888 -->
 
-4. Krav på digitala tjänster och system som medför behandling av
+4\. Krav på digitala tjänster och system som medför behandling av
 personuppgifter
 
 För varje digital tjänst och system som används, eller som det finns planer på att använda, ska det särskilt
@@ -29533,7 +29533,7 @@ bestämmelser på dataskyddsområdet. Kraven ska utformas i samråd mellan kommu
 upphandlingsfunktion och den eller de nämnder som är personuppgiftsansvariga, alternativt den nämnd som
 har samordningsuppdrag för den aktuella behandlingen.
 
-5. Konsekvensbedömning   avseende dataskydd
+5\. Konsekvensbedömning   avseende dataskydd
 
 Om en typ av behandling kan komma att leda till hög risk för registrerades rättigheter och friheter ska en
 bedömning av den planerade behandlingens risker och konsekvenser göras i syfte att sänka riskerna eller
@@ -29545,7 +29545,7 @@ av den personuppgiftsansvarige.
 Dataskyddsombudet ska involveras och rådfrågas på ett så tidigt stadium som möjligt när behandling som
 innebär hög risk för registrerade kan komma ifråga.
 
-6. Incidentrapportering
+6\. Incidentrapportering
 Varje nämnd, bolag och stiftelse ska ha rutiner för att kunna upptäcka, hantera och rapportera
 personuppgiftsincidenter som sker inom den egna verksamheten inom 72 timmar från upptäckt på det sätt
 som anges i artikel 33 och 34 i GDPR. Rapportering till tillsynsmyndigheten behöver emellertid inte göras
@@ -29572,7 +29572,7 @@ Riktlinjer för hanterin g av personuppgifter Sida 4 av 6
 
 <!-- sida 889 -->
 
-7. Förteckning över personuppgiftsbehandlingar
+7\. Förteckning över personuppgiftsbehandlingar
 Varje nämnd, bolag och stiftelse ska löpande föra en förteckning över vilka personuppgifter som behandlas i
 den egna verksamheteten (se artikel 30). Kommunstyrelsens förvaltning ska samordna arbetet i syfte att
 främja likvärdighet och överblickbarhet i kommunens personuppgiftsbehandling.
@@ -29582,7 +29582,7 @@ behandlingen och noteras i respektive personuppgiftsansvarigs förteckning. Beha
 annan nämnds räkning ska, utöver den personuppgiftsansvarigas förteckning, även förtecknas i
 personuppgiftsbiträdesnämndens behandlingsförteckning.
 
-8. Personuppgiftsbiträdesförhållanden
+8\. Personuppgiftsbiträdesförhållanden
 
 8.1 Extern part
 Varje nämnd ska teckna personuppgiftsbiträdesavtal (PUB-avtal) när denne uppdrar åt ett externt
@@ -29617,7 +29617,7 @@ biträdesförhållandet ska kompletteras med från den personuppgiftsansvariga n
 Nämnderna ska ha en sammanställning över de instruktioner som reglerar deras biträdesrelationer med
 interna parter.
 
-9. Överenskommelse  vid gemensamt  personuppgiftsansvar
+9\. Överenskommelse  vid gemensamt  personuppgiftsansvar
 När två personuppgiftsansvariga använder och kan besluta om ändamål och medel för behandlingen av
 personuppgifter i ett och samma system föreligger ett gemensamt personuppgiftsansvar. Gemensamt
 personuppgiftsansvar kan finnas med en extern personuppgiftsansvarig part (exempelvis en extern utförare
@@ -29635,7 +29635,7 @@ vid gemensamt personuppgiftsansvar mellan två eller flera nämnder.
 Nämnderna, bolagen och stiftelsen ska ha en sammanställning över aktuella avtal som reglerar deras
 gemensamma personuppgiftsansvar med externa och interna parter.
 
-10. Information till de registrerade
+10\. Information till de registrerade
 
 Kommunstyrelsens förvaltning ska ta fram och tillhandahålla övergripande information om kommunens
 personuppgiftsbehandling och de registrerades rättigheter i syfte att underlätta för de personuppgifts-
@@ -29645,7 +29645,7 @@ Varje nämnd, bolag och stiftelse ska därutöver ha rutiner för hur informatio
 tillhandahållas utifrån den behandling som utförs inom dess verksamhetsområde i enlighet med kraven i
 artikel 12-14 i GDPR.
 
-11. Tillgång, rättelse, radering, begränsning, flytt av personuppgifter,
+11\. Tillgång, rättelse, radering, begränsning, flytt av personuppgifter,
 invändning och klagomål
 
 Kommunstyrelsens förvaltning ska samordna kommunens rutiner för hanteringen av begäranden från
@@ -29701,7 +29701,7 @@ För hanteringen av personuppgifter gäller även Kungsbacka kommuns riktlinjer 
 personuppgifter och integritetspolicy. De här reglerna kompletterar dessa styrdokument och styrdokument på
 angränsande områden, såsom arkiv och informationshantering.
 
-1. Den personuppgiftsansvariges rättigheter och skyldigheter
+1\. Den personuppgiftsansvariges rättigheter och skyldigheter
 Den personuppgiftsansvarige är ansvarig för att säkerställa att behandlingen av personuppgifter utförs i
 enlighet med GDPR (se artikel 24 i GDPR), annan tillämplig dataskyddslagstiftning i Sverige och EU samt
 dessa regler.
@@ -29712,7 +29712,7 @@ Den personuppgiftsansvarige är bland annat ansvarig för att den behandling av 
 
 personuppgiftsbiträden ombeds utföra har laglig grund.
 
-2. Personuppgiftsbiträden ska följa anvisningarna
+2\. Personuppgiftsbiträden ska följa anvisningarna
 Personuppgiftsbiträden får enbart behandla personuppgifter enligt den dokumenterade instruktionen från den
 personuppgiftsansvarige, om de inte är skyldiga att göra detta enligt unionens eller tillämplig
 dataskyddslagstiftning i Sverige. Sådana anvisningar ska anges i en särskild instruktion. Efterföljande
@@ -29723,7 +29723,7 @@ Personuppgiftsbiträdet ska omedelbart informera den personuppgiftsansvarige om 
 personuppgiftsbiträdets uppfattning inte följer GDPR eller annan tillämplig dataskyddslagstiftning i Sverige
 och EU.
 
-3. Sekretess
+3\. Sekretess
 Personuppgiftsbiträdet ska endast bevilja tillgång till de personuppgifter som behandlas för den
 personuppgiftsansvariges räkning till personer som är underställda personuppgiftsbiträdet och som behöver
 
@@ -29744,7 +29744,7 @@ Personsuppgiftsbiträdet ska föra en förteckning av de personer som beviljats 
 Förteckningen ska granskas regelbundet. Med granskningen som grund ska tillgången till personuppgifter
 återkallas om tillgången inte längre är nödvändig.
 
-4. Säkerhet vid behandling
+4\. Säkerhet vid behandling
 
 I artikel 32 i GDPR anges att med beaktande av tidigare känd teknik, genomförandekostnader och
 behandlingens art, omfattning, sammanhang och ändamål samt risken, av varierande sannolikhets- och
@@ -29781,7 +29781,7 @@ att ytterligare åtgärder vidtas av personuppgiftsbiträdet än de som redan ha
 GDPR, ska den personuppgiftsansvarige ange att dessa ytterligare åtgärder ska vidtas i instruktionen till
 personuppgiftsbiträdet.
 
-5. Användning av underleverantörer
+5\. Användning av underleverantörer
 Personuppgiftsbiträdet ska uppfylla de krav som anges i artikel 28.2 och 28.4 i GDPR om ett annat
 personuppgiftsbiträde anlitas (en underleverantör).
 
@@ -29818,7 +29818,7 @@ avseende tillägg eller utbyte av underleverantörer minst 30 dagar i förväg o
 personuppgiftsansvarige möjlighet att invända mot sådana förändringar innan berörd underleverantör anlitas.
 Den personuppgiftsansvariga har rätt att med anledning av en sådan invändning avbryta biträdesförhållandet.
 
-6. Överföring av uppgifter till tredjeland eller internationella
+6\. Överföring av uppgifter till tredjeland eller internationella
 organisationer
 
 Överföring av personuppgifter till tredjeland eller internationella organisationer av personuppgiftsbiträdet får
@@ -29826,7 +29826,7 @@ endast utföras om den personuppgiftsansvarige har medgett det i sin instruktion
 enligt unionsrätten eller enligt svensk rätt som personuppgiftsbiträdet omfattas av. Behandlingen ska alltid
 utföras i enlighet med kapitel V i GDPR.
 
-7. Stöd till den personuppgiftsansvarige
+7\. Stöd till den personuppgiftsansvarige
 
 7.1 Registrerades rättigheter
 Med beaktande av behandlingens art ska personuppgiftsbiträdet bistå den personuppgiftsansvarige med
@@ -29898,7 +29898,7 @@ b. De troliga konsekvenserna av personuppgiftsincidenten.
 c. Åtgärderna som vidtagits eller föreslås för att hantera personuppgiftsincidenten, inbegripet när så är
 lämpligt åtgärder för att mildra dess potentiella skadliga effekter.
 
-8. Radera och återlämna uppgifter
+8\. Radera och återlämna uppgifter
 När personuppgiftsbehandlingen avslutas ska personuppgiftsbiträdet radera eller återlämna alla
 personuppgifter till den personuppgiftsansvarige och radera befintliga kopior i enlighet med den
 personuppgiftsansvariges instruktion, om det inte enligt unionens eller svensk lagstiftning krävs att
@@ -29912,7 +29912,7 @@ Kungsbacka kommun
 Vid gallring och arkivering av personuppgifter ska gällande lagstiftning och kommunens styrdokument
 gällande arkivering och informationsförvaltning tillämpas.
 
-9. Granskning och inspektion
+9\. Granskning och inspektion
 
 Personuppgiftsbiträdet ska för den personuppgiftsansvarige tillgängliggöra all information som krävs för att
 visa att de skyldigheter som anges i artikel 28 och i de här reglerna efterlevs, samt underlätta uppföljning och
@@ -29922,7 +29922,7 @@ Personuppgiftsbiträdet ska även ge behöriga tillsynsmyndigheter, eller ombud 
 
 sådana tillsynsmyndigheter, tillgång till personuppgiftsbiträdets fysiska lokaler.
 
-10. Överenskommelser  om  andra villkor
+10\. Överenskommelser  om  andra villkor
 
 När personuppgiftsbehandling läggs över från en nämnd till en annan ska personuppgiftsansvarig kontrollera
 om personuppgiftsbehandlingarna styrs av speciallagstiftning eller myndighetsutövning som medger att de
@@ -29932,7 +29932,7 @@ behandlingen av personuppgifter genom att exempelvis ange ansvarsskyldighet, så
 direkt eller indirekt mot de här reglerna eller den registrerades grundläggande rättigheter eller friheter och det
 skydd som anges i GDPR.
 
-11. Ersättning för skada
+11\. Ersättning för skada
 Vid ersättning för skada i samband med behandling som genom fastställd dom eller förlikning ska utgå till
 
 den registrerade på grund av överträdelse av bestämmelse i de här reglerna och/eller tillämplig bestämmelse i
@@ -30487,14 +30487,14 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 909 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för laddning av elfordon vid publika laddstolpar som ägs av Kungsbacka
 kommun.
 
 Taxan är beslutad med stöd av 2 kap. 5 § kommunallagen (2017:725), KL, och baseras på
 självkostnadsprincipen 2 kap. 6 § KL för att tillhandahålla laddningstjänsten.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för laddning av elfordon vid Kungsbacka kommuns publika laddstolpar grundar sig på
 kommunens självkostnad per förbrukad kilowattimme för att tillhandahålla tjänsten.
 
@@ -30527,11 +30527,11 @@ kilowattimme.
 I övriga avgifter för att tillhandahålla tjänsten ingår kostnader för att handla med el, kostnader för
 skötsel och underhåll av laddstolpar samt personalkostnader.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt (moms) tas ut med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 Avgift för laddning debiteras per kilowattimme inklusive moms enligt aktuell självkostnadsberäkning.
 
@@ -30539,7 +30539,7 @@ Taxa för laddning vid Kungsbacka kommuns publika laddstolpar Sida 2 av 3
 
 <!-- sida 910 -->
 
-5. Justering av avgiftsbelopp
+5\. Justering av avgiftsbelopp
 
 Avgiften justeras löpande vid förändringar av kommunens kostnad per kilowattimme för
 tillhandahållen el.
@@ -31638,7 +31638,7 @@ Tennisklubb som i sin tur ansvarar för drift, skötsel och underhåll samt att 
 tennisverksamhet.
 Kommunen har gått i borgen för föreningarnas låneskulder och kommunfullmäktige
 beslutade den 11 juni 2019 om amorteringsfrihet för lånen till och med 31 december
-2023.
+2023\.
 
 Vallda Tennishall ekonomisk förening och Vallda Tennisklubb har den 29 december
 2023 inkommit med en gemensam ansökan till kommunen om förlängning av
@@ -31864,18 +31864,18 @@ STYRELSEMÖTE 2023-12-19
 Vallda TK - Vallda Tennishall E F
 
 Närvarande: Mats Olson, Linus Ask, Kristoffer Grankvist, Christian Weidling.
-$1 Mötet öppnades
+\$1 Mötet öppnades
 
 82 Till sekreterare valdes Linus Ask
 
-$3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
+\$3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
 
-$4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F
+\$4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F
 
-$5 Mötet beslutade att ansöka hos kommunen om en förlängning av
+\$5 Mötet beslutade att ansöka hos kommunen om en förlängning av
 amorteringsfrihet för bägge föreningarna.
 
-$6 Mötet avslutades.
+\$6 Mötet avslutades.
 
 Vid protokollet:
 
@@ -32952,7 +32952,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (21)
 Kommunfullmäktige Dalum
 2014-08-12
 
-$95
+\$95
 Vallda Tennisklubb - kommunal borgen
 
 Dnr KS/2014:86
@@ -32985,10 +32985,10 @@ Beslutsunderlag
 
 Tjänsteskrivelse 2014-05-19
 
-Fritid & Folkhälsa, 2014-02-18, $ 18
+Fritid & Folkhälsa, 2014-02-18, \$ 18
 
 Kompletterande uppgifter från Vallda Tennisklubb, daterade 2014-04-27
-Kommunstyrelsen, 2014-06-17, $ 140
+Kommunstyrelsen, 2014-06-17, \$ 140
 
 Anförande
 Anförande hålls av Roger Larsson (KB), Per Ödman (M) och Hans Forsberg (M).
@@ -33048,14 +33048,14 @@ ordförande och mark- och bostadschefen eller deras respektive ställföreträda
 för kommunens räkning underteckna borgensåtagande för Vallda Tennishall
 ekonomisk förening avseende 5,415 Mkr. Borgen omfattande 5,925 Mkr beviljades
 ursprungligen Vallda Tennisklubb ekonomisk förening vid kommunfullmäktiges
-sammanträde 1989-10-12, KF $ 233. Vallda Tennishall ek.för. har sedan 2002-04-17
+sammanträde 1989-10-12, KF \$ 233. Vallda Tennishall ek.för. har sedan 2002-04-17
 amorterat ytterligare ca 400.000 kronor på krediten, och amorterar på denna kredit
 90.000 kronor per år i enlighet med villkor vid borgensbeslutet.
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2006-05-17
-Kommunstyrelsens arbetsutskott 2006-05-23, $ 224
+Kommunstyrelsens arbetsutskott 2006-05-23, \$ 224
 
 Proposition
 Ordförande ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -33102,7 +33102,7 @@ Ordföranden ställer proposition på arbetsutskottets förslag och finner det b
 
 BESLUT
 
-- Kommunstyrelsens ordförande och mark- och bostadschefen eller deras
+\- Kommunstyrelsens ordförande och mark- och bostadschefen eller deras
 ställföreträdare bemyndigas att för kommunens räkning underteckna
 borgensåtagande, avseende 5,415 Mkr, vilket ursprungligen beviljades
 Vallda Tennisklubb ekonomisk förening vid kommunfullmäktiges sammanträde
@@ -33122,9 +33122,9 @@ Kommunstyrelsens arbetsutskott i 1989-09-05
 
 KF 5 233
 
-KS $ 367
+KS \$ 367
 
-AU $ 556 0446/87-4535,
+AU \$ 556 0446/87-4535,
 
 Uppförande av fritidslokal och idrottshall i Vallda
 jämte framställan från Vallda Tennisklubb om kommu-
@@ -33141,28 +33141,28 @@ till fritidsnämnden för yttrande varvid nämnden främst
 skulle studera samordningsmöjligheten med den tidigare
 planerade idrottshallen i Vallda.
 
-Fritidsnämnden behandlade ärendet 1988-05-17, $ 66.
+Fritidsnämnden behandlade ärendet 1988-05-17, \$ 66.
 
 Kommun fullmäktige har i investeringsplan 1989-1991 för
 fritidslokal och idrottshall i Vallda avsatt 4.000.000
 kronor år 1989 och 8.000.000 år 1990.
 
 Kommunstyrelsens arbetsutskott beslutade 1989-01-17,
-$ 52, att
+\$ 52, att
 
-- uppdra åt fritidsnämnden att ta fram ett full-
+\- uppdra åt fritidsnämnden att ta fram ett full-
 ständigt beslutsunderlag innebärande ett princip-
 förslag innehållande programhandling, skolans
 inställning, förslag till placering, finansiering
 och drift, samt
 
-- kostnaderna rymmes inom av kommunfullmäktige fast-
+\- kostnaderna rymmes inom av kommunfullmäktige fast-
 ställd ram i budgeten.
 
-Fritidsnämnden beslutade 1989-08-15, $ 107, bl a att
+Fritidsnämnden beslutade 1989-08-15, \$ 107, bl a att
 kommunfullmäktige förslås besluta,
 
-- att godkänna förslag till avtal med Vallda Tennis-
+\- att godkänna förslag till avtal med Vallda Tennis-
 klubb ekonomiska förening innebärande att kommunen
 går i borgen, såsom för egen skuld, för 803 av
 investeringskostnaderna, uppgående till maximalt
@@ -33182,27 +33182,27 @@ Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=09=05
 
 KF SS 233 forts
-KS $ 367 forts
-AU $ 556 forts " 0446/87-455
+KS \$ 367 forts
+AU \$ 556 forts " 0446/87-455
 
-- att bemyndiga fritidsnämndens ordförande och
+\- att bemyndiga fritidsnämndens ordförande och
 fritidschefen eller deras respektive ställföre-
 trädare att underteckna avtalet,
 
-- att uppdraga åt fritidsnämnden att enligt avtal
+\- att uppdraga åt fritidsnämnden att enligt avtal
 utse revisor i föreningen,
 
-- att kommunens kostnader för idrottshall utöver
+\- att kommunens kostnader för idrottshall utöver
 anslag i investeringsplanen 1989-1991, som uppgår
 till 12.000.000 miljoner kronor, får finansieras
 genom omprioritering i fritidsnämndens investerings-
 budget 1990,
 
-- att fritidsnämnden ges i uppdrag att utföra en
+\- att fritidsnämnden ges i uppdrag att utföra en
 förstudie avseende fritidslokaler i anslutning
 till -Toråsskolan, samt
 
-- att en eventuell byggnation av fritidslokaler får
+\- att en eventuell byggnation av fritidslokaler får
 finansieras genom prioritering inom fritidsnämndens
 investeringsbudget, anslag för fritidslokaler.
 
@@ -33239,11 +33239,11 @@ Kommunfullmäktige 1989-10-12 53
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=0:9=05
 
-KF $ 233 forts
+KF \$ 233 forts
 
-KS $ 367 forts |
+KS \$ 367 forts |
 
-AU $ 556 forts 0446/87-455
+AU \$ 556 forts 0446/87-455
 
 att kommunens kostnader för idrottshall utöver
 
@@ -33298,9 +33298,9 @@ Kommun fullmäktige | 1989-10-12 | 54
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=-09=05
 
-KF $ 233 forts
-KS $ 367 forts
-AU $ 556 forts " 0446/87-455
+KF \$ 233 forts
+KS \$ 367 forts
+AU \$ 556 forts " 0446/87-455
 
 Håkan Cronelid anmäler för Miljöpartiet De Grönas
 fullmäktigegrupp reservation mot beslutet till
@@ -33341,9 +33341,9 @@ bidra till en tryggare och mer bekväm miljö för alla användare. Särskilt kv
 känna sig obekväma och utsatta när toaletter delas med personer av motsatt kön
 menar motionärerna. Motionärerna föreslår att:
 
-- kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
+\- kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
-- kommunen tar fram riktlinjer som visar att vid planering inför renovering av
+\- kommunen tar fram riktlinjer som visar att vid planering inför renovering av
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -33394,10 +33394,10 @@ herr- och damtoaletter vid om- och nybyggnation.
 Motionärerna argumenterar för att separerade toaletter för män och kvinnor skulle bidra till en tryggare
 och mer bekväm miljö för alla användare. Särskilt kvinnor kan känna sig obekväma och utsatta när
 toaletter delas med personer av motsatt kön menar motionärerna. Motionärerna föreslår att:
--  kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 
 separerade dam- och herrtoaletter prioriteras.
--  kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga toaletter
+\-  kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga toaletter
 ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -33494,9 +33494,9 @@ sexuella övergrepp och trakasserier och andra obehagliga situationer.
 Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående
 fullmäktige besluta:
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering
 av offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Då det finns fler användare av toaletter än damer och herrar skulle förslaget med
@@ -33617,10 +33617,10 @@ uppdelning kan risken minska för sexuella övergrepp och trakasserier och andra
 situationer. Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående fullmäktige
 besluta:
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 separerade dam- och herrtoaletter prioriteras.
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -33705,9 +33705,9 @@ sexuella övergrepp och trakasserier och andra obehagliga situationer.
 Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående
 fullmäktige besluta:
 
-- Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
+\- Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
-- Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av
+\- Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av
 
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
@@ -33772,10 +33772,10 @@ obekväma och utsatta när toaletter delas med personer av motsatt kön. Av moti
 uppdelning kan risken minska för sexuella övergrepp och trakasserier och andra obehagliga
 situationer. Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående fullmäktige
 besluta:
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 separerade dam- och herrtoaletter prioriteras.
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -34568,7 +34568,7 @@ främja verksamhetsutveckling och en bättre arbetsmiljö för alla anställda.
 
 Socialdemokraterna föreslår därför kommunfullmäktige:
 
-- att ge kommunstyrelsen i uppdrag att utreda hur en Ledardag kan skapas enligt motionens
+\- att ge kommunstyrelsen i uppdrag att utreda hur en Ledardag kan skapas enligt motionens
 intentioner.
 
 Johan Tolinsson (SS)

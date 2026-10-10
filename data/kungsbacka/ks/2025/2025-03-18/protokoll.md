@@ -720,7 +720,7 @@ bebyggelse. Ansökan omfattar möjliggörande av 12-18 lägenheter inom befintli
 byggnader.
 
 Fastigheten är belägen inom detaljplan OP178 som fick laga kraft den 18 februari
-2013. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
+2013\. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
 plankartan redovisad som kvartersmark för hotell och konferensanläggning samt har
 skyddsbestämmelser för både exteriör av byggnader samt den parkliknande
 trädgården.
@@ -1208,7 +1208,7 @@ förbundsstyrelsen bereda medlemskommunerna tillfälle att yttra sig över ett
 samrådsunderlag om budgeten för nästkommande år. Nivån på årsavgiften föreslås
 vara oförändrad till 2026 och uppgår då till 72,62 kronor per invånare. För
 Kungsbacka kommun innebär det en preliminär avgift på 6 219 000 kronor under
-2026. Årsavgiften är preliminär och kommer justeras när de definitiva
+2026\. Årsavgiften är preliminär och kommer justeras när de definitiva
 
 befolkningsuppgifterna per 2024-12- 31 är publicerade. Avgiften ryms inom
 kommunstyrelsens budgetram.

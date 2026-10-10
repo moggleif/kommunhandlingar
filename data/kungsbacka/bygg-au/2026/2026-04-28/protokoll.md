@@ -201,7 +201,7 @@ Sammanfattning av ärendet
 Katarina Öryd, förvaltningschef, informerar byggnadsnämndens arbetsutskott att
 bygg- och miljöförvaltningen kommer att analysera och agera på resultatet av
 Sveriges kommuner och Regioners (SKR) Insiktsmätning av företagsklimatet för
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämndens arbetsutskott kan
@@ -683,9 +683,9 @@ Datum
 Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -711,13 +711,13 @@ marken från allmän synpunkt är lämplig för ändamålet.
 Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
@@ -879,13 +879,13 @@ området.
 
 Invändningar har kommit in från Sätinge 3:9 inkom 2026-03-18 som anför:
 platsen är olämplig ur mark- och dagvattensynpunkt
-* åtgärden riskerar att förändra landskapsbilden och försvaga en tydlig gräns mellan
+\* åtgärden riskerar att förändra landskapsbilden och försvaga en tydlig gräns mellan
 bebyggelseområden
 
-* beslutet kan bli prejudicerande och leda till ytterligare exploatering
-* den befintliga vägen inte är dimensionerad för ökad trafik
-* den ökade trafiken riskerar att påverka boendemiljö och friluftsliv negativt
-* åtgärden strider mot kommunens översiktsplan för kust- och landsbygden, där ny
+\* beslutet kan bli prejudicerande och leda till ytterligare exploatering
+\* den befintliga vägen inte är dimensionerad för ökad trafik
+\* den ökade trafiken riskerar att påverka boendemiljö och friluftsliv negativt
+\* åtgärden strider mot kommunens översiktsplan för kust- och landsbygden, där ny
 bostadsbebyggelse ska prövas restriktivt.
 Övriga synpunkter är bilagda i sin helhet till tjänsteskrivelsen.
 
@@ -1164,10 +1164,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 12 kap. 8 § får byggnadsnämnden ta ut avgift för beslut om förhandsbesked
@@ -1282,7 +1282,7 @@ Handläggningens tidsfrist och gång
 
 Ansökan kom in 2025-04-28 och ansökan var då komplett att handlägga.
 Beslut ska meddelas inom 10 veckor från det att ansökan var komplett, senast 7 juli
-2025.
+2025\.
 
 Ärendet återförvisades för vidare handläggning och hörande av grannar vid
 byggnadsnämndens arbetsutskotts (BNAU) sammanträde den 30 september 2025.

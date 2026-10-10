@@ -92,7 +92,7 @@ vuxenutbildningen gällande verksamhetsår 2024.
 
 Nämnden för Gymnasium och Arbetsmarknad godkänner att fokusområden för
 vuxenutbildningen under 2025 är:
-1. Översyn av det systematiska kvalitetsarbetet
+1\. Översyn av det systematiska kvalitetsarbetet
 
 a. Säkerställande av styrkedjan, från huvudman till elev
 
@@ -100,8 +100,8 @@ b. Implementering av ramavtal och uppföljning av leverans
 c. Fortsatt arbete utifrån sprintvecka, i syfte att kvalitetssäkra både den generella och den
 individuella studie och yrkesvägledningen inom komvux
 
-2. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
-3. Från implementering till drift och vidareutveckling av Edlevo.
+2\. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
+3\. Från implementering till drift och vidareutveckling av Edlevo.
 
 Sammanfattning av ärendet
 
@@ -539,7 +539,7 @@ insatserna mer exakt.
 •  Ännu tydligare systematisk kvartalsavstämning med skolorna, enligt av
 rektor upprättad mall.
 •  Pilot med matematiksatsning, erbjuda intensiv matte på plats, start hösten
-2025.
+2025\.
 •  Uppföljning av närvaron på handledningen på plats. För att följa upp flex-
 
 studier på ett mer systematiskt sätt.
@@ -786,14 +786,14 @@ Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 
 Nämnden för Gymnasium & Arbetsmarknad beslutade i juni 2024 att
 vuxenutbildningen skulle fokusera på följande fyra områden under 2024:
-1. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa
+1\. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa
 den föreslagna handlingsplanen
 
-2. Upphandling - Förberedelse och implementering av nytt avtal
-3. Implementering av nytt verksamhetssystem EdLevo - Översyn av
+2\. Upphandling - Förberedelse och implementering av nytt avtal
+3\. Implementering av nytt verksamhetssystem EdLevo - Översyn av
 
 administrativa processer och övergång från Alvis till EdLevo
-4. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
+4\. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
 utbildningsinsatser i nära samverkan med arbetsgivare.
 
 Utöver de fyra fokusområden som nämnden fattade beslut om i juni 2024 har rektor
@@ -1281,7 +1281,7 @@ beslutet, se utdrag från rapporten i kursivt:
 ” Skolinspektionen bedömer att framtagna kvalitetskriterier uppfylls av Kungsbacka
 kommun i följande utsträckning:
 
-1. Huvudmans och rektors organisering av studie- och yrkesvägledning inför
+1\. Huvudmans och rektors organisering av studie- och yrkesvägledning inför
 val av studier
 Skolinspektionen bedömer att huvudmannen och rektorn i flera delar organiserar
 
@@ -1301,7 +1301,7 @@ Ett utvecklingsarbete behöver inledas inom följande del:
 individuella studie- och yrkesvägledningen och vidta eventuella insatser utifrån
 resultaten.
 
-2. Arbetet med studie- och yrkesvägledning för att ge elever förutsättningar att
+2\. Arbetet med studie- och yrkesvägledning för att ge elever förutsättningar att
 göra väl underbyggda val av studier
 
 Skolinspektionen bedömer att studie- och yrkesvägledningen i hög utsträckning
@@ -1392,7 +1392,7 @@ Utifrån de kommunövergripande målen, nämndens mål och direktiv, förvaltnin
 genomförandeplan samt verksamhetens uppföljning föreslås nedan fokusområden för
 2025:
 
-1. Översyn av det systematiska kvalitetsarbetet
+1\. Översyn av det systematiska kvalitetsarbetet
 a. Säkerställande av styrkedjan, från huvudman till elev
 
 b. Implementering av ramavtal och uppföljning av leverans
@@ -1400,9 +1400,9 @@ c. Fortsatt arbete utifrån sprintvecka, i syfte att kvalitetssäkra både den
 
 generella och den individuella studie och yrkesvägledningen inom
 komvux
-2. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
+2\. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
 
-3. Från implementering till drift och vidareutveckling av Edlevo.
+3\. Från implementering till drift och vidareutveckling av Edlevo.
 
 31
 
@@ -5189,15 +5189,15 @@ lokala föreskrifter om torghandel.
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och
 dessa föreskrifter tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
+1\. Begravningsplats
+2\. Kyrkogård
 
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
 punkt 1 c och punkt 2
 
-5. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller
 skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och
@@ -5387,14 +5387,14 @@ områden som jämställs med offentlig plats enligt 3 § i dessa föreskrifter.
 21 § Vistelseförbud för hund
 Hund får inte vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
+2\. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
 enligt 3 § i dessa föreskrifter jämställs med offentlig platsVistelseförbudet
 gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
 agilitybana.
@@ -5446,36 +5446,36 @@ Varlaberg
 ,r
 e,< ) It'
 <;
-l      Sjukhus (!,, <!! (J 'i)• f (),
-f      a ..., •C/!; ., ~ <) ,;,• • !l~;..
-(!J.i ◊ ~;;.,.
-c ~ - .. < ~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s ~ ~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
-aC'. !c o [ O i . n~ • I ~ ~ " . ~ ~ O .. stra yiµ , asta .. den J
-0Ro[} I O •   ~
-~ e, C 0 D C ~ ., ' -c & , '< ' ) I ,: . ", $ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
-~:J'5 0 "' ,0 . ,.::. (;,,
-~ [7 < . o P, ' - f I 0 ) /
+l      Sjukhus (!,, \<!! (J 'i)• f (),
+f      a ..., •C/!; ., \~ <) ,;,• • !l\~;..
+(!J.i ◊ \~;;.,.
+c \~ - .. < \~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s \~ \~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
+aC'. !c o [ O i . n\~ • I \~ \~ " . \~ \~ O .. stra yiµ , asta .. den J
+0Ro[} I O •   \~
+\~ e, C 0 D C \~ ., ' -c & , '< ' ) I ,: . ", \$ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
+\~:J'5 0 "' ,0 . ,.::. (;,,
+\~ [7 < . o P, ' - f I 0 ) /
 0
 0 J l ö : 1 1
 o
 i 0 ' Q O
 c i
--
+\-
 "
 l 1
 i
 . .
-:
+\:
 l ,
-:
--
+\:
+\-
 ,
 j I
-~
-- J l ) L 1
+\~
+\- J l ) L 1
 •
 1 l ,
-~
+\~
 ?' V / . - ) c? (
 <
 ;,
@@ -5484,23 +5484,23 @@ l
 o
 )
 .
-~
+\~
 .
-~
-1 f f l / , ! " 1 1' ~ , IQ 0 " [ • t b !J ~ ~ C ~ " : J G6<r ~ l l!tJ"G ~ G' ~ ~ ~ ,f) t ) - • / ; I I
-Kung.\iac~O•ro ~, a q ~ • ~ .
-. ~ 'ti·,o ~-~ I] • • 'v<v
-<f''oO ,:,'o il 'o 61◊
--
+\~
+1 f f l / , ! " 1 1' \~ , IQ 0 " [ • t b !J \~ \~ C \~ " : J G6\<r \~ l l!tJ"G \~ G' \~ \~ \~ ,f) t ) - • / ; I I
+Kung.\iac\~O•ro \~, a q \~ • \~ .
+. \~ 'ti·,o \~-\~ I] • • 'v\<v
+\<f''oO ,:,'o il 'o 61◊
+\-
 % "
-~
+\~
 ,. "
-~
-: o '? ~ >
+\~
+: o '? \~ >
 ,:
-, ~
+, \~
 ,
-\ \ ' ~
+\ \ ' \~
 . <
 'i
 v
@@ -5508,7 +5508,7 @@ if
 .
 c
 )
-' . ~
+' . \~
 [ Q ]
 D
 ,i C . l o
@@ -5516,42 +5516,42 @@ D
 O < : (
 s
 I
->
+\>
 : lf
 o
 ,
-~• " > < . Ä ·-e ':> ?~ ~-- · . . ,, O ,,, ..,,,. -
+\~• " > < . Ä ·-e ':> ?\~ \~-- · . . ,, O ,,, ..,,,. -
 ,
 / ....-,,. . ,?
 xo ••
 (} (}
-~?
+\~?
 d
 c:;
 0
 0
-~
-~
-0                                                             \
-__
+\~
+\~
+0                                                             \\
+\_\_
 • () O()f0 J
 övrekolla
-c~,
+c\~,
 0
 ,
-~  rv1G,ehus
-g; 1 r _ ,
-Cl~ ~□F " ✓
-·appp ~~~~~~ \ \o
+\~  rv1G,ehus
+g; 1 r \_ ,
+Cl\~ \~□F " ✓
+·appp \~\~\~\~\~\~ \ \o
 .---··
-•\\
-~c
+•\\\\
+\~c
 Kungsbacka kommun            Lokala ordningsföreskrifter       9 (20)
 Teckenförk  laring
 ,'
 , 'G.
 0
-Tillfällig (ambulerande) försäljning ·-~                                       I
+Tillfällig (ambulerande) försäljning ·-\~                                       I
 ) /
 /
 D
@@ -5689,7 +5689,7 @@ I
 .!:I
 l-lede
 
-Vsd~befg
+Vsd\~befg
 .. · ·, .. -
 Graitlä.lr
 "
@@ -5730,12 +5730,12 @@ Il
 
 i) I
 
-~.,,__~
+\~.,,\_\_\~
 /"
-~
-_ _,..,/   S1e11vik
+\~
+\_ \_,..,/   S1e11vik
 .....
-Badplats~     asar1d
+Badplats\~     asar1d
 Sörvik ?•
 Kungsbacka kommun            Lokala ordningsföreskrifter       14 (20)
 
@@ -5760,14 +5760,14 @@ Servicehus
 ..
 /
 1ennjsb. . ()
---=~.,,,,..--~_,-./
+--=\~.,,,,..--\~\_,-./
 r  /
-I     ~
+I     \~
 
 I
-0   -..__f.~      )
+0   -..\_\_f.\~      )
 ,
-'-'•Wltii Gcit~
+'-'•Wltii Gcit\~
 ,
 Backa
 ..............
@@ -5784,15 +5784,15 @@ r.
 .
 Klasberg
 a
-~~.' lllv                                                            D
->
+\~\~.' lllv                                                            D
+\>
 (K)
 ·---
-\; <.,.-----·
+\\; <.,.-----·
 -·
 ,,,...)
 Tröskeberg
-~
+\~
 I
 
 Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
@@ -5801,33 +5801,33 @@ Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
 
 K ,
 
-~~&:11"'
+\~\~&:11"'
 ♦
 
 (/
 ..
-~
+\~
 R
--
--                (r :, I' )
+\-
+\-                (r :, I' )
 C)                 R
 .r
 I
 l
--r.:. ✓--~L~         'ckebro  ~··
+-r.:. ✓--\~L\~         'ckebro  \~··
 ,r
 ✓
 .
-(~J
+(\~J
 •
 Särög. .,
-~
+\~
 D
 Bukärr
-~             □
+\~             □
 q
 0
-~~
+\~\~
 !J
 "
 ..
@@ -5837,13 +5837,13 @@ D  .
 0
 .. /2
 Lyck
-~✓
-~'--
+\~✓
+\~'--
 
 R
 
 C. •
-tl  \
+tl  \\
 
 Vea
 Kungsbacka kommun            Lokala ordningsföreskrifter       16 (20)
@@ -5861,16 +5861,16 @@ I
 
 Vårdcentral    I
 
-\/
+\\/
 Oro
 FJärås
 0
 Il
-\
+\\
 Il                       0
-\
-'&)               \
-I JÖ'~
+\\
+'&)               \\
+I JÖ'\~
 R
 I
 "
@@ -5888,8 +5888,8 @@ n       D
 -aD ,
 CJ
 •
-\
-•                                                             _.
+\\
+•                                                             \_.
 0                                                     \   ...
 't>
 [I                       tO
@@ -5900,21 +5900,21 @@ f
 J
 c;    ..
 t)
-\\               ~
+\\\               \~
 "''"'D'Gfi, 11<\J
-\
+\\
 •
 Kungsbacka kommun            Lokala ordningsföreskrifter       17 (20)
-$ervice111..
+\$ervice111..
 11
 s•
-0          ""~
+0          ""\~
 OOa
 
 <!-- sida 143 -->
 
-~
-#
+\~
+\#
 i
 
 ,a
@@ -5923,7 +5923,7 @@ I
 
 ' ID
 l.
-/_J
+/\_J
 JQ
 14
 i
@@ -5931,12 +5931,12 @@ i
 u
 tJ
 u
-n                ~
-11.
+n                \~
+11\.
 lt
 I
-\
-~
+\\
+\~
 I
 z
 111
@@ -5944,26 +5944,26 @@ z
 r
 ?
 6
-Tll'.LIV~-d,,JH"'
+Tll'.LIV\~-d,,JH"'
 u
 Q FriUea4s
 Yäxtl}lJ, s-
 4
 \                                            I
 {
-I    ~,                                              -==
+I    \~,                                              -==
 1\1
 i      . t\ (
 •
 u
 •
-}                                1\\\8~~
-4      J   fo                           ~
+}                                1\\\\\8\~\~
+4      J   fo                           \~
 Kung
 FriJ
 ,
 fe s
--
+\-
 1
 i
 e! ,
@@ -5972,24 +5972,24 @@ u
 k
 •
 4               ftl/al.J.s
-~)                                I
+\~)                                I
 CJ                                                       -
-'4,n,g~~
+'4,n,g\~\~
 .,,                      Il,                            C
-\
+\\
 l
 !
-(J             ·,       .~  •
-\
+(J             ·,       .\~  •
+\\
 •    •
 -0
-\
-\
+\\
+\\
 [j
 t
 Kungsb acka kommun           Lokala o0r dningsföreskrifter     18 (20)
 l'
-~                              \
+\~                              \\
 I
 l·                                           i
 ,., f] I! 0
@@ -6003,15 +6003,15 @@ r,
 
 S P_gJt
 • F, b  .
-.....__ Ku >l•lii l!J lllU/J.111
+.....\_\_ Ku >l•lii l!J lllU/J.111
 
 .Kullavik
 
 ·.r   'l,,'CJ  :-... 11 ' ..
--
+\-
 . . . . • • • "9 • I •
 .
-. -~
+. -\~
 .
 Rönnaråcke
 ...
@@ -6037,7 +6037,7 @@ D                                      •,.
 o
 .
 l •
--
+\-
 .
 ..
 I
@@ -6065,22 +6065,22 @@ D
 .
 .
 
-_;:-;;;;.
-~ ~-==
-=-
+\_;:-;;;;.
+\~ \~-==
+\=-
 
 '
-\
+\\
 {?
-\
+\\
 tl
-\
+\\
 t
 ..
 I
 onsa\a
 
-\
+\\
 
 l
 
@@ -6119,7 +6119,7 @@ y      �
 JRubbesjö
 
 C' .
-:
+\:
 .
 .
 Blixered
@@ -6127,7 +6127,7 @@ Blixered
 . .
 .
 
-("\
+("\\
 
 <!-- sida 147 -->
 
@@ -6184,8 +6184,8 @@ Bilaga 6 - Förbud mot användning av lustgas i berusningssyfte:
 Fjärås/Hjälm
 .
 .
-/  li:-/M( \,,- - ..,
-11.
+/  li:-/M( \\,,- - ..,
+11\.
 
 r  )(
 11
@@ -6335,7 +6335,7 @@ Samtliga nämnder och bolag, Länsstyrelsen i Hallands län, Polismyndigheten i 
 
 Beskrivning av ärendet
 
-1. Lustgas och dess användningsområden
+1\. Lustgas och dess användningsområden
 Lustgas (N O) är en färglös gas med en sötaktig lukt. Inom vården används lustgas för smärtlindring
 2
 och som narkosmedel. När lustgas används som ett läkemedel omfattas den av krav i läkemedelslagen
@@ -6355,7 +6355,7 @@ Andra användningsområden för lustgas är inom elektronikområdet vid tillverk
 halvledare och LCD-skärmar. Lustgas används också inom förpackningsindustrin som en
 förpackningsgas.
 
-2. Användning av lustgas som berusningsmedel och dess risker
+2\. Användning av lustgas som berusningsmedel och dess risker
 Namnet lustgas syftar på gasens effekt att framkalla eufori. Lustgas orsakar vid inandning ett kort och
 intensivt rus, med lyckorus och fnissighet som följd samt en känsla av att vara avskärmad från
 verkligheten. Ruset kulminerar inom någon minut efter inhalationen för att sedan snabbt avta.
@@ -6405,7 +6405,7 @@ eleverna i årskurs 9 hade provat lustgas någon gång. Bland de äldre eleverna
 uppgick motsvarande andel till 17 procent. I 2024 års undersökning hade lustgasanvändningen minskat
 till 4 procent av eleverna i årskurs 9 och 8 procent i gymnasiet.
 Sammantaget har alltså lustgasanvändningen minskat bland skolelever sedan mätningen påbörjades
-2022. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
+2022\. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
 användningen av lustgas bland vuxna. Mycket tyder dock på att användning av lustgas är vanligast
 bland unga och unga vuxna. Trots att användningen av lustgas bland skolelever har minskat något
 
@@ -6415,7 +6415,7 @@ inte tillåtet att i alla situationer använda lustgas för berusning och det fi
 som har lagförts till följd av brott begångna efter användning av lustgas, se till exempel Svea hovrätts
 dom den 10 september 2024 (mål nr B 4228-24) angående grov vårdslöshet i trafik och rattfylleri.
 
-3. Statlig utredning om att begränsa tillgången till lustgas
+3\. Statlig utredning om att begränsa tillgången till lustgas
 I juli 2022 gav regeringen en särskild utredare i uppdrag att analysera och ta ställning till hur lustgas
 
 ska regleras. Den särskilda utredaren överlämnade i mars 2024 betänkandet En trygg uppväxt utan
@@ -6423,7 +6423,7 @@ nikotin, alkohol och lustgas (SOU 2024:23). Efter remissförfarandet har en lagr
 Avsikten är att införa en ny lag som begränsar försäljning av lustgas för att motverka användning av
 lustgas som berusningsmedel. Lagen föreslås träda i kraft den 1 juli 2025.
 
-4. Förslaget till ny lag om lustgas
+4\. Förslaget till ny lag om lustgas
 I förslaget till ny lag om lustgas anges att lustgas inte ska få säljas eller på annat sätt lämnas ut i
 näringsverksamhet om det finns särskild anledning att anta att lustgasen ska användas som
 berusningsmedel. Högst 18 gram lustgas ska få säljas eller på annat sätt lämnas ut i näringsverksamhet
@@ -6474,16 +6474,16 @@ Offentlig plats skulle kunna vara en plats där det går att göra regleringar v
 ordningsföreskrifter, i syfte att komma till rätta med eventuella ordningsstörningar kopplade
 till bruk av lustgas.
 
-5. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
+5\. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
 ordningsföreskrifter
 Av 3 kap. 8 § ordningslagen (1993:1617) följer att en kommun får meddela de föreskrifter som behövs
 för att upprätthålla den allmänna ordningen på offentlig plats. Med offentlig plats avses enligt 1 kap.
 2 § ordningslagen:
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
 upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
 detta ändamål och är tillgängliga för allmänheten, samt
 
 2 Länsstyrelserna har till uppgift att pröva om kommunernas lokala ordningsföreskrifter är förenliga med lag, och då dessa anses strida
@@ -6494,7 +6494,7 @@ mot lag, upphäva föreskrifterna.
 KUNGSBACKA  KOMMUN
 6 (9)
 
-4. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
+4\. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
 Kommuner får också föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, badplatser,
 järnvägsområden, begravningsplatser och andra sådana områden, om de inte omfattas av
 bestämmelserna i första stycket, ska jämställas med offentliga platser vid tillämpning av
@@ -6504,13 +6504,13 @@ ordningsföreskrifter för Kungsbacka kommun framgår att:
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
 punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas
 verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 §
@@ -6564,7 +6564,7 @@ inskränkningar i den enskildes frihet. Lokala föreskrifter måste också ha s�
 utformade med sådan exakthet att möjlighet finns att tillämpa dem och övervaka efterlevnaden av dem
 (RÅ 1992 ref. 75).
 
-6. Nämndernas beredning av motionen
+6\. Nämndernas beredning av motionen
 Motionen har remitterats till nämnden för Teknik och nämnden för Kultur & Fritid för beredning.
 
 6.1. Nämnden för Kultur & Fritids yttrande
@@ -6629,7 +6629,7 @@ del kopplas till ungdomar som befinner sig på andra platser än i krogmiljö el
 Polismyndigheten vill att ett förbud mot användning av lustgas i berusningssyfte ska införas på
 offentlig plats och platser som jämställs med offentlig plats i samtliga tätorter i Kungsbacka kommun.
 
-7. Kommunstyrelsens förvaltnings bedömning
+7\. Kommunstyrelsens förvaltnings bedömning
 Kommunstyrelsens förvaltning kan inledningsvis konstatera att användandet av lustgas i
 berusningssyfte är ett växande problem i Sverige samt att det finns betydande risker med användandet
 av lustgas i berusningssyfte. Detta växande samhällsproblem finns också i Kungsbacka kommun.

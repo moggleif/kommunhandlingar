@@ -127,7 +127,7 @@ Valnämnden godkänner förändring av ärendelista.
 Förslag till beslut på sammanträdet
 
 Peter Wesley (KD) och Hanna Schölander (L) anmäler ett initiativärende:
--  Initiativ - gör det möjligt för alla partier att lämna namnvalsedlar till
+\-  Initiativ - gör det möjligt för alla partier att lämna namnvalsedlar till
 
 vallokaler från klockan 07:15 på valdagen.
 Ärendet Ordförandebeslut - distribution av och ordning för valsedlar vid allmänna
@@ -282,7 +282,7 @@ Valnämnden ska följa upp sin budget med en redovisning till och med augusti
 månad. Det finns inga formkrav på hur detta ska redovisas mer än det ska lämnas en
 prognos för beräknat utfall på helåret. Valnämnden omfattas inte av de
 kommunövergripande målen för 2026 och det finns inga direktiv för valnämnden år
-2026.
+2026\.
 
 År 2026 är det allmänna val och förtidsröstningen börjar den 26 augusti med valdag
 13 september. Budgeten sattes innan det var känt vad statsbidraget skulle bli samt
@@ -494,27 +494,27 @@ Sammanfattning av ärendet
 
 Under perioden 11 maj – 5 augusti har följande skrivelser inkommit till valnämnden:
 
--  Valmyndighetens nyhetsutskick vecka 20
--  Valmyndighetens nyhetsutskick vecka 21
+\-  Valmyndighetens nyhetsutskick vecka 20
+\-  Valmyndighetens nyhetsutskick vecka 21
 
--  Valmyndighetens nyhetsutskick vecka 22
--  Valmyndighetens nyhetsutskick vecka 23
+\-  Valmyndighetens nyhetsutskick vecka 22
+\-  Valmyndighetens nyhetsutskick vecka 23
 
--  Valmyndighetens nyhetsutskick vecka 24
--  Valmyndighetens nyhetsutskick vecka 25
+\-  Valmyndighetens nyhetsutskick vecka 24
+\-  Valmyndighetens nyhetsutskick vecka 25
 
--  Valmyndighetens nyhetsutskick vecka 26
--  Valmyndighetens nyhetsutskick vecka 27
+\-  Valmyndighetens nyhetsutskick vecka 26
+\-  Valmyndighetens nyhetsutskick vecka 27
 
--  Valmyndighetens nyhetsutskick vecka 28
--  Valmyndighetens nyhetsutskick vecka 31
+\-  Valmyndighetens nyhetsutskick vecka 28
+\-  Valmyndighetens nyhetsutskick vecka 31
 
--  Valmyndighetens nyhetsutskick vecka 32
--  Kungsbacka kommun – revisionsplan 2026
+\-  Valmyndighetens nyhetsutskick vecka 32
+\-  Kungsbacka kommun – revisionsplan 2026
 
--  SVT:s valundersökning VALU 2026
+\-  SVT:s valundersökning VALU 2026
 
--  Bilaga SVT:s valundersökning VALU 2026
+\-  Bilaga SVT:s valundersökning VALU 2026
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av

@@ -132,7 +132,7 @@ Beslut om delårsbokslut - uppföljning av kommunen per augusti
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2025.
+2025\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -443,7 +443,7 @@ Prognos   till  till
 2024  2025
 Kommunen                  464  756  231  286     477   209    458
 
-*) Exklusive jämförelsestörande poster
+\*) Exklusive jämförelsestörande poster
 
 Kommunens ekonomiska resultat för perioden är 458 miljoner kronor, vilket är betydligt högre än
 föregående år. Detta beror bland annat på minskade kostnader för pensioner samt lägre finansiella
@@ -468,7 +468,7 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
-| Strukturellt resultat*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
+| Strukturellt resultat\*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Strukturellt resultats andel av<br>skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
 
@@ -733,22 +733,22 @@ pågår för att motverka trenden.
 
 Indikator                          2022  2023  2024 2025  Målsättning
 2025
-Antal påbörjade bostäder            848  165   213  59***  öka
+Antal påbörjade bostäder            848  165   213  59\*\*\*  öka
 
 Kungsbacka kommun          Delårsbokslut 2025                  10
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299***<br>** | öka<br>minska |
+| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299\*\*\*<br>\*\* | öka<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | **<br>** | öka<br>öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - * | 95 % | ** | öka |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | \*\*<br>\*\* | öka<br>öka |
+| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - \* | 95 % | \*\* | öka |
 
 <!-- sida 19 -->
 
-*) Brukarbedömning har inte gjorts det här året.
-**) Ännu ej publicerad
-***) Halvårssiffror
+\*) Brukarbedömning har inte gjorts det här året.
+\*\*) Ännu ej publicerad
+\*\*\*) Halvårssiffror
 
 2.5.2 Mål: En hållbar utveckling och en hälsosam miljö
 
@@ -816,7 +816,7 @@ kränkningar minskar. Mätningar i mellanstadieklasser visar på positiva effekt
 I enkäten som Göteborgsregionen, GR, skickade ut till elever 2025 svarade 60 procent av
 gymnasieeleverna att de mått mycket bra eller ganska bra under de senaste sex månaderna. Detta
 innebär en marginell ökning jämfört med 2024, men samtidigt en minskning jämfört med 2022 och
-2023. Det pågår ett systematiskt och tvärsektoriellt arbete för att motverka psykisk ohälsa, men vi
+2023\. Det pågår ett systematiskt och tvärsektoriellt arbete för att motverka psykisk ohälsa, men vi
 kan inte förvänta att effekterna syns omgående och det är nödvändigt med uppföljning på längre
 sikt för att kunna se resultatet.
 Vistelse i naturen bidrar till förbättrad psykisk hälsa, något som visar på de mervärden som vi kan
@@ -839,30 +839,30 @@ uppmärksamhet vilket stärker kommunens profil som nyskapande och modig.
 
 Indikator                        2022  2023   2024  2025  Målsättning
 2025
-Kommunens verksamheters elförbrukning, total * * *    *    minska
+Kommunens verksamheters elförbrukning, total \* \* \*    \*    minska
 (kWh)
 
 Kungsbacka kommun          Delårsbokslut 2025                  12
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | *<br>24,1 | *<br>26,5 | *<br>* | minska<br>öka |
+| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | \*<br>24,1 | \*<br>26,5 | \*<br>\* | minska<br>öka |
 | --- | --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>* | 97,2<br>* | öka<br>minska |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44*** | minska |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>\* | 97,2<br>\* | öka<br>minska |
+| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44\*\*\* | minska |
 
 <!-- sida 21 -->
 
 Indikator                        2022  2023   2024  2025  Målsättning
 2025
-Antal kemiska produkter med utfasningsämnen, 113 115 151 167** minska
+Antal kemiska produkter med utfasningsämnen, 113 115 151 167\*\* minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var
 antalet 124 (KEMgroup PRO)
 
-*) Ännu ej publicerad.
-**) 2025-09-09
-***) Januari-juli
+\*) Ännu ej publicerad.
+\*\*) 2025-09-09
+\*\*\*) Januari-juli
 
 2.5.3 Mål: Bästa företagsklimatet i Västsverige
 
@@ -885,11 +885,11 @@ Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | *<br>* | *<br>* | minska<br>minska |
+| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | \*<br>\* | \*<br>\* | minska<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | *<br>* | *<br>* | öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>* | *<br>* | *<br>* | *<br>* | öka<br>öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | *<br>* | öka<br>öka |
+| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | \*<br>\* | \*<br>\* | öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>\* | \*<br>\* | \*<br>\* | \*<br>\* | öka<br>öka |
+| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | \*<br>\* | öka<br>öka |
 
 [Tabell 21-2](handlingar.tabeller/21-2.csv)
 
@@ -953,14 +953,14 @@ Kungsbacka kommun          Delårsbokslut 2025                  14
 Målsättning
 Indikator                           2022 2023  2024  2025
 2025
-Insikt, SKR:s servicemätning av kommunernas 70 67 64  *     öka
+Insikt, SKR:s servicemätning av kommunernas 70 67 64  \*     öka
 myndighetsutövning till företag. Nöjd kund-index utifrån
 sammanvägt betygsindex 0–100, för hur företag i
 kommunen bedömer Kungsbacka kommuns
 myndighetsutövning, vilken är en viktig del av
 företagsklimatet.
 
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
 
@@ -997,10 +997,10 @@ Kungsbacka kommun          Delårsbokslut 2025                  15
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>* | 3,6<br>* | öka<br>öka |
+| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>\* | 3,6<br>\* | öka<br>öka |
 | --- | --- | --- | --- | --- | --- |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | *<br>* | *<br>* | 5,0 %<br>öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | * | * | öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | \*<br>\* | \*<br>\* | 5,0 %<br>öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | \* | \* | öka |
 
 <!-- sida 24 -->
 
@@ -1041,19 +1041,19 @@ betygspoängen, men därefter har det skett en viss minskning.
 Målsättning
 Indikator                           2022 2023  2024 2025
 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 * öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 \* öka
 Meritvärdet utgörs av summan av de 17 bästa betygen
 i elevens slutbetyg och kan max vara 340. (Kolada)
 
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 Kungsbacka kommun          Delårsbokslut 2025                  16
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | *<br>* | öka<br>minska |
+| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | \*<br>\* | öka<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | *<br>* | öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | \*<br>\* | öka |
 
 <!-- sida 25 -->
 
@@ -1102,11 +1102,11 @@ funktionaliteten och ersätta manuella rutiner med digitala system.
 Målsättning
 Indikator                        2022  2023  2024 2025
 2025
-Hållbart medarbetarengagemang, ett index för 78 76 75 *    öka
+Hållbart medarbetarengagemang, ett index för 78 76 75 \*    öka
 medarbetarnas samlade uppfattning om områdena
 motivation, ledarskap och styrning, skala 1–100
 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 * öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 \* öka
 Jämix beräknas utifrån nio nyckeltal med skala 1–20
 
 Kungsbacka kommun          Delårsbokslut 2025                  17
@@ -1118,7 +1118,7 @@ Indikator                        2022  2023  2024 2025
 2025
 och visar hur jämställda arbetsvillkor, arbetsmiljö och
 anställningsvillkor är i organisationen
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 2.5.6 Direktiv: Innovation och omställning till nya arbetssätt
 
@@ -1231,10 +1231,10 @@ Kungsbacka kommun          Delårsbokslut 2025                  19
 Målsättning
 Indikator                         2023  2024  2025
 2025
-Andel innovationsprojekt som drivits under året ** - - * öka
-Andel av bruttokostnaden som avsätts för - -   *      öka
-verksamhetsutveckling och innovation *
-*) Följs upp i årsbokslutet
+Andel innovationsprojekt som drivits under året \*\* - - \* öka
+Andel av bruttokostnaden som avsätts för - -   \*      öka
+verksamhetsutveckling och innovation \*
+\*) Följs upp i årsbokslutet
 
 2.5.7 Direktiv: Civil beredskap
 Kommunfullmäktige beslutade i juni 2024 att avsätta tio miljoner kronor under 2025 för att stärka
@@ -1417,8 +1417,8 @@ Genomsnitt
 2022   2023   2024           2026     (Sista årets soliditet ska vara högre än
 (augusti)
 genomsnittet för perioden 2022–2026
-29,3   32,3  33,6       *        *                            *
-*) Soliditetsmåttet för koncernen redovisas i årsbokslutet
+29,3   32,3  33,6       \*        \*                            \*
+\*) Soliditetsmåttet för koncernen redovisas i årsbokslutet
 Soliditet i kommunen (procent)
 
 Genomsnitt
@@ -1720,7 +1720,7 @@ av elever. Övriga verksamheter visar plusresultat. Etableringsverksamhetens pos
 beror på lägre kostnader för köp av externa platser och lägre kostnader för kompletterande
 ekonomiskt bistånd. Man räknar även med ett plusresultat för ekonomiskt bistånd. Detta beror på
 utbetalningarna fortsatt ligger på en låg nivå, även om man kan se en viss ökning jämfört med år
-2024.
+2024\.
 
 Nämnden för Kultur & Fritid prognostiserar ett positivt resultat på 1,2 miljoner kronor.
 Förklaringar är vakanser inom personalen och återbetalning av tidsbegränsade bidrag. De har
@@ -1813,7 +1813,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 | Kultur & Fritid | 8,3 | 2,6 | 31,4 | 26,3 | 5,2 | 16,5% |
 | Förskola & Grundskola | 5,0 | 5,0 | 15,0 | 15,0 | 0,0 | 0,0% |
 | Teknik Skatt | 39,4 | 33,8 | 132,4 | 86,6 | 45,8 | 34,6% |
-| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)* | 13,3 | 11,1 | 81,4 | 35,6 | 45,9 | 56,3% |
+| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)\* | 13,3 | 11,1 | 81,4 | 35,6 | 45,9 | 56,3% |
 | Service | 138,9 | 86,5 | 301,8 | 254,8 | 47,0 | 15,6% |
 | -varav finansiell leasing | 0,3 | 0,5 | 0,0 | 1,7 | -1,7 |  |
 | Byggnadsnämnden | 0,1 | 0,1 | 0,3 | 0,3 | 0,0 | 0,0% |
@@ -1821,7 +1821,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 | Vård & Omsorg | 1,8 | 2,2 | 21,3 | 11,3 | 10,0 | 47,0% |
 | Finansiering lokalplan | 0,0 | 0,0 | 150,7 | 14,5 | 136,2 | 90,4% |
 | Finans | 0,0 | 0,0 | -16,4 | 18,6 | -35,0 | 213,4% |
-| Exploateringsverksamhet*<br>(Anläggningstillgångar) | 62,4 | 6,6 | 55,8 | 33,0 | 22,8 | 40,9% |
+| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 62,4 | 6,6 | 55,8 | 33,0 | 22,8 | 40,9% |
 | Summa skattefinansierad<br>verksamhet | 257,0 | 140,5 | 701,1 | 468,7 | 232,4 | 33,1% |
 | Vatten & Avlopp | 201,9 | 232,2 | 608,4 | 517,1 | 91,2 | 15,0% |
 | Avfall & Återvinning | 1,1 | 0,7 | 14,8 | 3,6 | 11,2 | 75,9% |
@@ -2327,7 +2327,7 @@ detaljplan och exploatering.
 
 Indirekt besittningsskydd
 
-Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a $$
+Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a \$\$
 jordabalken om rätt till ersättning för Arrendatorn med anledning av arrendets upphörande
 gäller alltså inte för detta avtal.
 
@@ -2345,17 +2345,17 @@ post- och fakturaadress under avtalstiden.
 4.2 Avtalets giltighet
 
 För detta arrendeavtal, samtliga villkors giltighet krävs:
-1. Undertecknat av Arrendatorn behörig firmatecknare.
-2. Kommunstyrelsens arbetsutskotts godkännande.
+1\. Undertecknat av Arrendatorn behörig firmatecknare.
+2\. Kommunstyrelsens arbetsutskotts godkännande.
 
-3. Arrendenämndens godkännande av punkt 3.14 Jordägarens rätt att återta
+3\. Arrendenämndens godkännande av punkt 3.14 Jordägarens rätt att återta
 
 arrendestället.
 
 Detta avtal är upprättat i två (2) exemplar varav parterna tagit var sitt.
 
 För Kungsbacka kommun För Kungsbacka Tennisklubb
-Datum: 2025- == Datum: 2025- O$8- 20
+Datum: 2025- == Datum: 2025- O\$8- 20
 Namnteckning Namnteckning
 Namnförtydligande Namnförtydligande
 
@@ -2620,7 +2620,7 @@ FG-2025-00331
 Förslag till beslut i nämnden för Förskola & Grundskola
 Nämnden för Förskola & Grundskola beslutar:
 
--  att godkänna verksamhetsanpassning av lokaler på Åsaskolan.
+\-  att godkänna verksamhetsanpassning av lokaler på Åsaskolan.
 
 Beskrivning av ärendet
 
@@ -3191,7 +3191,7 @@ När detaljplanen (S79) för området upprättades och antogs i slutet av 1960-t
 någon anledning fastigheten Släps-Kullen 2:40 inte beaktad — den blev förbisedd och
 behandlad på ett sätt som nu gjort den omöjlig att exploatera enligt detaljplanen och omöjlig
 att använda för sitt ändamål. Se bifogad kartbild, bilaga 2, som är hämtad från den alltjämt
-gällande plankartan ($S79). Enligt detaljplanen (S79) så är en del av fastighetens area
+gällande plankartan (\$S79). Enligt detaljplanen (S79) så är en del av fastighetens area
 betecknat som grönområde, merparten av fastigheten är kvartersmark men punktprickad sådan
 som inte får bebyggas, och i nordvästra hörnet finns en liten byggrätt som inte är möjlig att
 bygga på eftersom byggnad måste placeras med ett visst avstånd till tomtgräns. Mark med
@@ -3211,7 +3211,7 @@ praktiken inte går att bebygga. Detta är absurt och en helt orimlig situation 
 principen om proportionalitet!
 
 Vi ber nu att kommunen såvitt gäller Släps-Kullen 2:40 rättar felet/missen som blev i
-detaljplanen $79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
+detaljplanen \$79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
 bebygga tomten i enlighet med fastighetsändamålet. Den byggrätt som finns för Tomten
 måste placeras så att byggrätten och reglerna om minsta avstånd till tomtgräns samspelar och
 gör det möjligt att placera en byggnad på Tomten. Vidare bör byggrätten också vara lagom
@@ -3232,14 +3232,14 @@ Kungsbacka, den 27 maj 2025
 Lennart Kurlberg Ulla-Britt Lindgren rn Lindgren
 
 Bilagor :
-1. Utdrag ur fastighetsregistret för fastigheten Släps-Kullen 2:40
+1\. Utdrag ur fastighetsregistret för fastigheten Släps-Kullen 2:40
 
-2. Kartbild hämtad från plankarta $79, Fastighetsgränsen för Släps-Kullen
+2\. Kartbild hämtad från plankarta \$79, Fastighetsgränsen för Släps-Kullen
 2:40/Tomten är inritad med röd kantlinje.
 
-3. Områdeskarta (Lantmäteriets fastighetskarta)
+3\. Områdeskarta (Lantmäteriets fastighetskarta)
 
-4. Plankarta $79
+4\. Plankarta \$79
 
 <!-- sida 78 -->
 
@@ -3296,8 +3296,8 @@ LANTMÄTERIET
 
 at 1 j
 
-|
-|
+\|
+\|
 
 Anteckningar
 
@@ -3396,7 +3396,7 @@ Ett registerutdrag med standardinformation redovisar inte det fullständiga inne
 
 Bilaga 2 till ansökan om rättelse av detaljplan
 
-Kartbilden nedan är ett urklipp från plankarta $79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
+Kartbilden nedan är ett urklipp från plankarta \$79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
 är inritad med röd kantlinje.
 
 <!-- sida 82 -->
@@ -3643,14 +3643,14 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för sjukhus
 inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2022-06-23, $332.
+Byggnadsnämndens arbetsutskott, 2022-06-23, \$332.
 
 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 mellan 2024-08-27 och 2024-09-24. Granskning genomfördes mellan 2025-05-13 och
 2025-06-10.
 
 Ett Principavtal, Principavtalet, har tecknats mellan Kommunen och Regionen (KS
-2023-01-10, $19). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
+2023-01-10, \$19). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
 upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
 Exploateringsområde
@@ -3873,7 +3873,7 @@ Sign.
 
 <!-- sida 95 -->
 
-10.
+10\.
 10.1
 
 10.2
@@ -3886,7 +3886,7 @@ Sign.
 
 10.6
 
-11.
+11\.
 
 1132
 
@@ -3959,7 +3959,7 @@ Sign.
 
 11.8
 
-12.
+12\.
 
 12.1
 
@@ -4029,13 +4029,13 @@ Sign.
 
 12.6
 
-13.
+13\.
 
 13.1
 
 13.2
 
-14.
+14\.
 
 14.1
 
@@ -4100,13 +4100,13 @@ Sign.
 
 <!-- sida 98 -->
 
-15.
+15\.
 
 15.1
 
 k5:2
 
-16.
+16\.
 
 16.1
 
@@ -4172,20 +4172,20 @@ Sign.
 
 <!-- sida 99 -->
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 [8.1
 
-19.
+19\.
 19.1
-20.
+20\.
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -4219,15 +4219,15 @@ Regionen bekostar även Kommunens kostnader för inkoppling av nya ledningar.
 
 Följande åtgärder är kända i dagsläget;
 
-- Flytt av en kommunal dagvattenledning, på sträckan mellan Tölövägen och Tölö
+\- Flytt av en kommunal dagvattenledning, på sträckan mellan Tölövägen och Tölö
 6:15. Ledningen kommer i konflikt med planerade byggnader och ska flyttas till u-
 område i områdets östra del.
 
-- Flytt av Skanovas tele/optpledningar som korsar planområdet, på sträckan mellan
+\- Flytt av Skanovas tele/optpledningar som korsar planområdet, på sträckan mellan
 Tölövägen och Smidesvägen. Ledningarna kommer i konflikt med nya byggnader
 och flyttas till u-område runt planerade byggnader.
 
-- Regionens interna ledningsnät för VA, el, fiber m.m. behöver anpassas till den
+\- Regionens interna ledningsnät för VA, el, fiber m.m. behöver anpassas till den
 planerade bebyggelsen.
 
 Geoteknik
@@ -4251,18 +4251,18 @@ Sign.
 
 <!-- sida 100 -->
 
-22.
+22\.
 
 22.1
 
 22.2
 
-23.
+23\.
 23.1
 
 23.2
 
-24.
+24\.
 24.1
 
 24.2
@@ -4298,7 +4298,7 @@ iordningställande av allmän plats, enligt punkt 16.
 Dispenser och tillstånd
 
 Detaljplanens genomförande kräver dispens från det generella biotopskyddet (7 kap 11
-$ MB). Befintlig oxelallé vid sjukhusets parkering omfattas av biotopskydd och
+\$ MB). Befintlig oxelallé vid sjukhusets parkering omfattas av biotopskydd och
 behöver tas bort eller flyttas vid genomförande av detaljplanen. Regionen ansvarar för
 att utföra och bekosta de kompensationsåtgärder som länsstyrelsen beslutat om.
 
@@ -4325,26 +4325,26 @@ Sign.
 
 <!-- sida 101 -->
 
-25.
+25\.
 25.1
-26.
+26\.
 26.1
 
-27.
+27\.
 
 27.A
 
 27.2
 
-28.
+28\.
 
 28.1
 
-29.
+29\.
 
 29.1
 
-30.
+30\.
 
 30.1
 
@@ -4455,7 +4455,7 @@ Tölöberg 2 och Tölö 1:17, nedan kallad Regionen.
 
 Kommunen och Regionen kallas gemensamt Parterna
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 1.1 — Denna överenskommelse är ett led i genomförandet av detaljplanen för sjukhus
 inom Tölöberg 2 och Tölö 1:17. Detaljplanen var ute på granskning i maj-juni
@@ -4528,7 +4528,7 @@ Avtalets giltighet
 
 Detta avtal förutsätter för sin giltighet att:
 
-- Byggnadsnämnden antar detaljplanen för sjukhus inom Tölöberg 2 och Tölö
+\- Byggnadsnämnden antar detaljplanen för sjukhus inom Tölöberg 2 och Tölö
 1:17 i Kungsbacka, genom beslut som vinner laga kraft.
 
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
@@ -4546,7 +4546,7 @@ Susanne am
 
 Tölöberg 2, Tölö 1:17
 
-202)
+202\)
 
 <!-- sida 107 -->
 
@@ -4628,7 +4628,7 @@ dagvattennätet som vid skyfall kommer ha uppnått maximal kapacitet. Vattnet ko
 därför blir stående på gårdarna. Detta innebär att entréer behöver anläggas upphöjda
 för att inte vatten ska rinna in via innergårdarna in i byggnaderna.
 
-112)
+112\)
 
 <!-- sida 110 -->
 
@@ -4662,11 +4662,11 @@ b) Region Halland, (222000-1420) nedan kallat Regionen
 Kommunen och Regionen kallas gemensamt nedan Parterna.
 
 ÅA. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 sjukhus inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad”, Detaljplanen,
-genom beslut i Byggnadsnämndens arbetsutskott, 2022-06-23, $332.
+genom beslut i Byggnadsnämndens arbetsutskott, 2022-06-23, \$332.
 
 1.2 — Regionen har inkommit till samhällsbyggnadskontoret med en begäran om
 planbesked för att utöka byggrätten inom fastigheterna Tölöberg 2 och Tölö 1:17
@@ -4791,11 +4791,11 @@ Detaljplan för sjukhus inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad
 
 9.2
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 11.1
 
@@ -4857,21 +4857,21 @@ Sign
 
 Detaljplan för sjukhus inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
 13.2
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 15.1
 
@@ -4957,7 +4957,7 @@ Kommunstyrelsen Datum
 
 2023-01-10
 
-$19 Dnr 2022-00765
+\$19 Dnr 2022-00765
 Principavtal avseende detaljplan för Tölöberg 2 och Tölö 1:17
 
 Beslut
@@ -4991,9 +4991,9 @@ tillskapande av allmän plats.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-12-06, $ 397
+Kommunstyrelsens arbetsutskott 2022-12-06, \$ 397
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-11-15
-Byggnadsnämndens arbetsutskott 2022-06-23, $ 332
+Byggnadsnämndens arbetsutskott 2022-06-23, \$ 332
 Principavtal med Region Halland, undertecknat 2022-11-09
 
 Beslutsgång
@@ -5177,7 +5177,7 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 bostäder inom Lerberg 16:40 m.fl. i Anneberg”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2024-06-20, $171.
+Byggnadsnämndens arbetsutskott, 2024-06-20, \$171.
 
 Exploatörerna har inkommit till samhällsbyggnadskontoret med en begäran om
 planbesked för att genom ny detaljplan genom att pröva möjligheten för bostäder
@@ -5234,7 +5234,7 @@ Fastigheter och ägare
 
 Exploateringsområdet omfattar fastigheterna Lerberg 3:9 som ägs av Lennart
 Larsson, Lerberg 3:11 som ägs av Damoj 11 AB och Lerberg 16:40 ägs av
-Derome Bostad AB. Lerberg $S:3 är en marksamfällighet för vilken delägande
+Derome Bostad AB. Lerberg \$S:3 är en marksamfällighet för vilken delägande
 fastigheter inte är utrett.
 
 Exploatör för Lerberg 3:9 och Lerberg 3:11 är Husvärden via fullmakt, exploatör
@@ -5359,13 +5359,13 @@ Detaljplan för bostäder inom Lerberg 16:40 m.fl. i Anneberg 4/8
 
 9.3
 
-10.
+10\.
 
 10.1
 
 10.2
 
-11.
+11\.
 
 11.1
 
@@ -5427,29 +5427,29 @@ Sign
 
 Detaljplan för bostäder inom Lerberg 16:40 m.fl. i Anneberg 5/8
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 151
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
@@ -5511,11 +5511,11 @@ Detaljplan för bostäder inom Lerberg 16:40 m.fl. i Anneberg 6/8
 
 17.2
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
@@ -5559,7 +5559,7 @@ Anders Johansson oMIlndal 2025-D4-1 hk
 
 Biträd. Kommundirektör för Lerberg 3:9
 
-- Larsson
+\- Larsson
 
 Namnförtydligande
 
@@ -6357,10 +6357,10 @@ Efter rådslagsprocessen har en remissversion till ny regional utvecklingsplan
 fram av GR för att skapa ett samstämmigt agerande över tid. Överenskommelserna
 omfattar tre huvudområden:
 
-* Tillväxt och inkludering
-* Samhällsbyggnad
+\* Tillväxt och inkludering
+\* Samhällsbyggnad
 
-* Regional robusthet.
+\* Regional robusthet.
 Den regionala utvecklingsplanen kommer uppdatera den nuvarande Strukturbilden
 inom GR och ersätta styrdokumentet Hållbar tillväxt. Den regionala
 utvecklingsplanen planeras att antas av Göteborgsregionens förbundsfullmäktige
@@ -8170,7 +8170,7 @@ sammanställas.
 
 Kungsbacka som ovan
 
-________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Lisa Andersson
 
@@ -8217,7 +8217,7 @@ Länsstyrelsen begär, med stöd av 2 § andra stycket förordningen
 meddela lokala föreskrifter enligt ordningslagen, att detta beslut
 anslås på kommunens anslagstavla enligt 8 kap. 9-11 §§ kommunal-
 lagen (2017:725). Beslutet ska vara anslaget till och med den 5 augusti
-2025.
+2025\.
 
 Beskrivning av ärendet
 
@@ -8416,17 +8416,17 @@ och säkerhet på offentliga platser m.m.
 
 Av 1 kap. 2 § OL framgår att med offentlig plats avses:
 
-1. allmänna vägar,
+1\. allmänna vägar,
 
-2. gator, vägar, torg, parker och andra platser som i detaljplan
+2\. gator, vägar, torg, parker och andra platser som i detaljplan
 
 redovisas som allmän plats och som har upplåtits för sitt ändamål,
 
-3. områden som i detaljplan redovisas som kvartersmark för
+3\. områden som i detaljplan redovisas som kvartersmark för
 hamnverksamhet, om de har upplåtits för detta ändamål och är
 tillgängliga för allmänheten, samt
 
-4. andra landområden och utrymmen inomhus som stadigvarande
+4\. andra landområden och utrymmen inomhus som stadigvarande
 
 används för allmän trafik.
 
@@ -8571,7 +8571,7 @@ Kungsbacka stad
 No
 id ZrN
 
-- Lunden
+\- Lunden
 
 <!-- sida 208 -->
 
@@ -8837,7 +8837,7 @@ Beskrivning av ärendet
 Utredningen har sin bakgrund i den tillströmning av personer från andra länder som under 2010-talet
 och framåt kommer till Sverige för att tigga för sin försörjning.
 
-1. Rörlighetsdirektivet (2004/38/EG)
+1\. Rörlighetsdirektivet (2004/38/EG)
 
 Under 2004 antog Europaparlamentet och rådet rörlighetsdirektivet (2004/38/EG) som innehåller
 artiklar om unionsmedborgares och deras familjemedlemmars rätt att fritt röra sig och uppehålla sig
@@ -8857,7 +8857,7 @@ Uppehållsrätt är en rätt att uppehålla sig och vistas i en medlemsstat utan
 KUNGSBACKA  KOMMUN
 3 (7)
 
-2. Samordningsuppdrag för tiggeriet
+2\. Samordningsuppdrag för tiggeriet
 
 Tillströmningen av EU-medborgare påverkade de flesta myndigheter och samhällsfunktioner vilket
 föranledde behov av nationell samordning, först av en statlig utredning 2015–2016 (med en nationell
@@ -8878,7 +8878,7 @@ konstaterade vidare att barnen riskerade fara illa och tvingas tigga likväl som
 människohandel. Det handlade då om oseriösa arbetsgivare med orimliga arbetsförhållanden eller
 koppleri och människohandel.2
 
-3. Tiggeri från 2022 och framåt
+3\. Tiggeri från 2022 och framåt
 
 Antalet tiggare har de senaste åren enligt utredningen minskat i omfattning. Det är den samlade bilden
 från myndigheter, länsstyrelser, och kommuner. Det är dock samma kategorier av grupper som tigger
@@ -8911,7 +8911,7 @@ KUNGSBACKA  KOMMUN
 till en natt på ett härbärge. Det har också tillkommit nya grupper. Främst har antalet äldre personer
 
 med låg pension uppmärksammats.
-4. Statistik över brotten människohandel i tiggeri
+4\. Statistik över brotten människohandel i tiggeri
 
 Brottsförebyggande rådet (Brå) saknar uppgifter om antalet domar specifikt för formen tiggeri. Skälet
 är att statistiken över domar visar brottet människohandel i sin helhet utan att formerna anges. Däremot
@@ -8928,7 +8928,7 @@ perioden 2018–2023. Uppföljningen visar antal anmälningar i kategorin Exploa
 till 385 (varav 7 åtal och 2 domar), medan Exploatering i tiggeri renderade i 42 anmälningar
 
 (varav 10 åtal och 7 domar).
-5. Gällande rätt
+5\. Gällande rätt
 
 5.1. Internationella åtaganden och europeisk reglering
 
@@ -8973,7 +8973,7 @@ platserna som på flera av de andra problemen som utgjort skäl för att införa
 föreskrifterna, det vill säga ordningsstörningar, nedskräpning och sanitära problem, butiksstölder, ökad
 otrygghet bland allmänheten samt indikationer på människohandel eller människoexploatering.
 
-6. Utredningens slutsatser och förslag
+6\. Utredningens slutsatser och förslag
 
 Utredningens slutsats är att det inte finns något behov av att införa ett nationellt förbud mot tiggeri.
 Detta för att tiggeriet numera har minskat i betydande omfattning att det inte längre kan sägas utgöra
@@ -9012,7 +9012,7 @@ Sårbarheten är också tänkt att bedömas utifrån risken för diskriminering.
 vilket främst antas utgöras av sårbara personer, finns också andra skyddsmekanismer som har att göra
 med polisens befogenhet enligt polislagen att ingripa och eventuellt meddela rapporteftergift.
 
-7. Nämndernas yttranden
+7\. Nämndernas yttranden
 Betänkandet har översänts till nämnderna för Individ & Familjeomsorg, Teknik och Kultur & Fritid för
 yttrande.
 
@@ -9035,7 +9035,7 @@ menar att tiggeriet minskat betydligt efter covid-19-pandemin, och att den minsk
 kontanthanteringen i samhället innebär att tiggeri inte kommer vara vare sig omfattande eller ett stort
 problem i Sverige framöver.
 
-8. Kommunstyrelsens förvaltnings bedömning
+8\. Kommunstyrelsens förvaltnings bedömning
 
 Kommunstyrelsens förvaltning anser att utsatthet och fattigdom i det offentliga rummet är viktiga
 frågor som behöver hanteras, liksom den problematik som kan kopplas till tiggeri. Kommunstyrelsens
@@ -10515,7 +10515,7 @@ godkännande i kommunfullmäktige.
 Projektet kostnadsförs på årets resultat och finansieras av kommunens
 finansverksamhet. Kommunfullmäktige minskar nämnden för Tekniks driftram 2025
 med motsvarande belopp. Projektets budget är 3,2 miljoner kronor i prisnivå juli
-2025. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
+2025\. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
 inom ordinarie driftram.
 
 Enligt ekonomistyrprinciperna i Kommunbudget 2025 ska kommunfullmäktige
@@ -10892,17 +10892,17 @@ Parterna beslutar självständigt i genomförandet av sina respektive anläggnin
 §5 om det inte påverkar förutsättningarna för hela projektet. För övrigt gäller följande:
 
 Trafikverkets ansvar
-1. Trafikverket ska utföra åtgärd 2 som omfattas av detta avtal §§5 och 6.
-2. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
+1\. Trafikverket ska utföra åtgärd 2 som omfattas av detta avtal §§5 och 6.
+2\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas de åtgärderna som Trafikverket ansvarar för.
-3. Trafikverket ansvarar för att tillsätta bevakande projektledare som kommer att
+3\. Trafikverket ansvarar för att tillsätta bevakande projektledare som kommer att
 fungera som kontaktperson vid frågor.
-4. Trafikverket blir efter godkänt färdigställande och överlämning av den nya
+4\. Trafikverket blir efter godkänt färdigställande och överlämning av den nya
 belysningen ägare och ansvarig för drift och underhåll av den nya belysningen.
 0
 .1   Kommunens ansvar
 s
-1. Ska utföra åtgärd 1 som omfattas av detta avtal §§5 och 6.
+1\. Ska utföra åtgärd 1 som omfattas av detta avtal §§5 och 6.
 n
 a    2. Ansvarar för att tillämpliga lagar och andra författningar samt myndighetsbeslut
 n
@@ -10913,7 +10913,7 @@ e s - 4. Ansvarar för att den bevakande projektledaren kallas till erforderliga
 le
 m       ta del av erforderligt material för genomförande av uppgifterna enligt §5.
 m
-5. Ska informera bevakningsledare om det uppkommer en risk att åtgärd kan påverka
+5\. Ska informera bevakningsledare om det uppkommer en risk att åtgärd kan påverka
 o
 k
 s       Trafikverkets anläggning på något sätt.
@@ -10962,20 +10962,20 @@ FIFA för att denne ska besluta om att utfärda föreskrift.
 Länk till FIFA:
 https://fifa.trafikverket.se/FIFA/Login.aspx?ReturnUrl=%2fFIFA%2f
 
-9. Kungsbackas entreprenör kan fortsätta att registrera framtida åtgärder och
+9\. Kungsbackas entreprenör kan fortsätta att registrera framtida åtgärder och
 eventuella tillfälliga trafikföreskrifter i tillåten TA-plan – löpnr 2024:3218 (nytt dnr
 sökas). Registreringen ska göras senast 15 arbetsdagar innan åtgärden på vägen
 planeras påbörjas.
-10. Vägvisning: Om åtgärder skapar behov av förändrad vägvisning eller justering av
+10\. Vägvisning: Om åtgärder skapar behov av förändrad vägvisning eller justering av
 befintlig vägvisning kräver det ett beslut från Trafikverket. Information och ansökan
 görs via: https://www.trafikverket.se / sökord ”vägvisning”.
-11. Kungsbacka kommun ansvarar för upprättande av relationshandlingar och
+11\. Kungsbacka kommun ansvarar för upprättande av relationshandlingar och
 resultatdokumentation. Handlingarna ska upprättas enligt Trafikverkets krav, för
 relationsritningar i format dwg och pdf. Genomgång av omfattningen sker på möte
 inför projektets genomförande. Handlingarna ska levereras till Trafikverkets
 system, Chaos före överlämnande av anläggningen till Trafikverket.
-12. Kungsbacka kommun ansvarar för garantiåtagandet.
-13. Kungsbacka kommun ansvarar för att anläggningen utformas enligt VGU 2024
+12\. Kungsbacka kommun ansvarar för garantiåtagandet.
+13\. Kungsbacka kommun ansvarar för att anläggningen utformas enligt VGU 2024
 https://www.trafikverket.se/ / sökord ”VGU”.
 0
 .1
@@ -10988,7 +10988,7 @@ I de fall projektet avbryts står kommunen för de kostnader som dittills nedlag
 a
 e
 S
--
+\-
 s le Kungsbacka kommun ska stå för samtliga kostnader för åtgärd 1 och 2.
 m
 m
@@ -11054,9 +11054,9 @@ projektet är slutfört, slutbesiktigat och godkänt. Då överlämningen är kl
 Detta avtal är giltigt från och med den tidpunkt när det undertecknats av parterna och
 under förutsättning av:
 
--  att eventuella ytterligare för åtgärden nödvändiga planer och tillstånd vunnit laga
+\-  att eventuella ytterligare för åtgärden nödvändiga planer och tillstånd vunnit laga
 kraft
--  att eventulla ytterligare åtgärder i den statliga anläggningen ansöks om i särskilt
+\-  att eventulla ytterligare åtgärder i den statliga anläggningen ansöks om i särskilt
 ärende/avtal
 0
 .1
@@ -11106,14 +11106,14 @@ Sidor
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
-_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                   Ort och datum
 
-_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson Enhetschef       Ulrika Granfors Enhetschef
 Infrastrukturplanering Väg      Förvaltningschef för Teknik
 Trafikverket Västra regionen    Kungsbacka kommun
@@ -11440,7 +11440,7 @@ b) Gottskärs Havsbad AB (556169-7698), nedan kallad Exploatören
 
 Kommunen och Exploatören kallas gemensamt Parterna
 A. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 Byggnadsnämnden uppdrog 2018-11-28 åt samhällsbyggnadskontoret att upprätta ny
 detaljplan för Skällared 3:53.
@@ -11457,14 +11457,14 @@ mellan 27 maj och 17 juni 2025.
 1.4 — Ett exploateringsavtal, Avtalet, ska upprättas och skriftligen undertecknas av Exploatören
 innan Detaljplanen kan antas av Kommunfullmäktige.
 
-2. Planområde och Exploateringsområde
+2\. Planområde och Exploateringsområde
 
 Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med svart linje på karta, bilaga A, Exploateringsområdet.
 Exploateringsområdet utgörs av:
 
 a) Detaljplanens planområde, Planområdet.
-3. Syfte, innehåll och förutsättningar
+3\. Syfte, innehåll och förutsättningar
 
 3.1 Avtalet reglerar exploateringen inom Planområdet och genomförandet av åtgärderna
 inom Exploateringsområdet.
@@ -11652,7 +11652,7 @@ framkomligheten. I övrigt bedöms inte Skällared ga:2 att påverkas av detaljp
 
 Exploatören ansvarar för att nya fastigheter eller anläggningar får andel i
 gemensamhetsanläggningen Skällared GA:2 antingen genom tecknande av
-överenskommelse om andelstal enligt 43 $ anläggningslagen, genom omprövning av
+överenskommelse om andelstal enligt 43 \$ anläggningslagen, genom omprövning av
 anläggningen eller genom anslutning i annan förrättning.
 
 Exploatören ansvarar för att ansökan om lantmäteriförrättning (anläggningsförrättning)
@@ -11750,7 +11750,7 @@ Exploateringsavtal Sign.
 
 9.6
 
-10.
+10\.
 
 10.1
 
@@ -11814,7 +11814,7 @@ Exploateringsavtal Sign.
 
 10.2
 
-11.
+11\.
 
 11.2
 
@@ -11883,7 +11883,7 @@ Exploateringsavtal Sign.
 dagvattenplan ska beaktas och följas i fråga om behov av och utformande av
 dagvattenrening.
 
-12. Gestaltning
+12\. Gestaltning
 
 Exploatören förbinder sig följa de gestaltningsprinciper som framgår av Detaljplanens
 planbeskrivning vid uppförande av byggnader och anläggningar inom Planområdet.
@@ -11891,7 +11891,7 @@ Avvikelser från dessa får endast ske i samråd med Kommunen. Avstämning av pr
 gestaltnings- och kvalitetsnivåer sker i samband med bygglovsförfarandet.
 
 D —- GENOMFÖRANDE AV ALLMÄN PLATS
-13. — Byggplatsåtgärder, framkomlighet, etableringsytor m.m.
+13\. — Byggplatsåtgärder, framkomlighet, etableringsytor m.m.
 
 13.1 — Exploatören ansvarar för att informera allmänheten i närområdet om sitt byggprojekt
 genom att till exempel sätta upp skyltar med information om vad som byggs, vem som
@@ -11935,13 +11935,13 @@ Exploateringsavtal Sign.
 
 <!-- sida 290 -->
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
@@ -12006,7 +12006,7 @@ Exploateringsavtal Sign.
 
 <!-- sida 291 -->
 
-16.
+16\.
 
 16.1
 
@@ -12014,11 +12014,11 @@ Exploateringsavtal Sign.
 
 16.3
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -12092,7 +12092,7 @@ Exploateringsavtal Sign.
 
 18.6
 
-19.
+19\.
 
 19.1
 
@@ -12158,7 +12158,7 @@ Exploateringsavtal Sign.
 
 19.3
 
-20.
+20\.
 
 20.1
 
@@ -12228,7 +12228,7 @@ Exploateringsavtal Sign.
 
 20.3
 
-21.
+21\.
 
 21.1
 
@@ -12295,7 +12295,7 @@ Exploateringsavtal Sign.
 
 21.4
 
-22.
+22\.
 
 22.1
 
@@ -12364,7 +12364,7 @@ Exploateringsavtal Sign.
 
 22.4
 
-23.
+23\.
 
 23.1
 
@@ -12376,7 +12376,7 @@ Exploateringsavtal Sign.
 
 23.5
 
-24.
+24\.
 
 24.1
 
@@ -12440,17 +12440,17 @@ Exploateringsavtal Sign.
 
 24.2
 
-25.
+25\.
 
-26.
+26\.
 
-27.
+27\.
 
-28.
+28\.
 
-29.
+29\.
 
-30.
+30\.
 
 30.1
 
@@ -12516,17 +12516,17 @@ Exploateringsavtal Sign.
 
 30.4
 
-31.
+31\.
 
 31.1
 
 31.2
 
-32.
+32\.
 
 32.1
 
-33.
+33\.
 
 33.1
 
@@ -12593,17 +12593,17 @@ Exploateringsavtal Sign.
 
 33.3
 
-34.
+34\.
 
-35.
+35\.
 
 35.2
 
-36.
+36\.
 
-37.
+37\.
 
-38.
+38\.
 
 18(19)
 
@@ -12930,10 +12930,10 @@ kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 
-inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 $
+inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 \$
 räntelagen från sista betalningsdag tills betalning sker.
 
-204)
+204\)
 
 <!-- sida 311 -->
 
@@ -13002,13 +13002,13 @@ förrättningen, kommer att utgöra fastighetstillbehör till fastigheten Skäll
 
 Detta avtal förutsätter för sin giltighet att:
 
-- - Kommunfullmäktige antar detaljplanen för bostäder, verksamheter och restaurang
+\- - Kommunfullmäktige antar detaljplanen för bostäder, verksamheter och restaurang
 inom Skällared 3:55 mfl. i Gottskär genom beslut som vinner laga kraft.
 
-- - Kommunfullmäktige godkänner denna överenskommelse om fastighetsreglering,
+\- - Kommunfullmäktige godkänner denna överenskommelse om fastighetsreglering,
 genom beslut som vinner laga kraft.
 
-- - Kommunfullmäktige godkänner exploateringsavtal avseende detaljplanen för
+\- - Kommunfullmäktige godkänner exploateringsavtal avseende detaljplanen för
 bostäder, verksamheter och restaurang inom Skällared 3:55 mfl. i Gottskär, mellan
 Parterna, genom beslut som vinner laga kraft.
 
@@ -13157,7 +13157,7 @@ Typ: Avtalsservitut
 Företrädesordning: 20
 Ändamål: Kraftledning
 Inteckningar (RiksSök)
-- = - Listan slut - - -
+\- = - Listan slut - - -
 
 fastighetreg.kba.local/FBWebb/Fir/FirReport/FastighetReport.aspx
 
@@ -13192,7 +13192,7 @@ Kommunen har rätt att ta ut avgifter för avfallshantering enligt miljöbalken.
 ska beslutas av kommunfullmäktige och får inte överstiga kostnaderna för
 infrastruktur, planering, drift och kapital. Över- eller underskott ska jämnas ut över
 en period om 3 till 10 år enligt kommunens ekonomistyrprinciper i Kommunbudget
-2026.
+2026\.
 
 Nämnden för Teknik föreslår en höjning av avfallstaxan med 7 procent för 2026 för
 att återställa ett underskott i fonden.
@@ -13433,17 +13433,17 @@ kungsbacka.se
 <!-- sida 324 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 4
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -13457,14 +13457,14 @@ Innehåll
 4.7 Slamsugning och tömning av fettavskiljare.................................................. 25
 4.9 Särskilda avgifter ................................................................................................. 26
 
-5. Indexjustering av avgiftsbelopp ......................................................................... 27
-6. Delegering av beslut om justering efter index ............................................... 27
+5\. Indexjustering av avgiftsbelopp ......................................................................... 27
+6\. Delegering av beslut om justering efter index ............................................... 27
 
 Kungsbacka kommun         Avfallstaxa 2026                    2
 
 <!-- sida 325 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -13532,7 +13532,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -13566,7 +13566,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -13574,7 +13574,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    4
 
 <!-- sida 327 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -13657,8 +13657,8 @@ Var fjärde vecka, helår Inte valbar 2190
 Var fjärde vecka, helår Inte valbar 2 470
 370 liter        Varannan vecka, helår 5 355 5 355
 
-660 liter*       Varannan vecka, helår 13 825 13 825
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+660 liter\*       Varannan vecka, helår 13 825 13 825
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 4.3.2 Avgifter för delårsabonnemang
 
@@ -13677,8 +13677,8 @@ Var fjärde vecka, delår Inte valbar 1 100
 Var fjärde vecka, delår Inte valbar 1 235
 
 370 liter        Varannan vecka, delår 2 680 2 680
-660 liter*       Varannan vecka, delår 6 915 6 915
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+660 liter\*       Varannan vecka, delår 6 915 6 915
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    7
 
@@ -13757,7 +13757,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -13785,7 +13785,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    9
 
 [Tabell 331-2](handlingar.tabeller/331-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -14169,7 +14169,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -14197,7 +14197,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   17
 
 [Tabell 339-2](handlingar.tabeller/339-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -14358,7 +14358,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -14378,7 +14378,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   20
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning * | 7 000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 000 |
 
 <!-- sida 343 -->
 
@@ -14400,8 +14400,8 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2026                   21
 
@@ -14423,8 +14423,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -14443,8 +14443,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -14474,8 +14474,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   22
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -14563,7 +14563,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   24
 4.7 Slamsugning och tömning av fettavskiljare
 Avgifter, i kronor, per tömning av enskild avloppsanläggning, fettavskiljare och byggtoalett
 
-*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
+\*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
 schemalagd tömning där tilläggsavgiften är 350 kr per kubikmeter.
 
 Kungsbacka kommun         Avfallstaxa 2026                   25
@@ -14577,18 +14577,18 @@ Kungsbacka kommun         Avfallstaxa 2026                   25
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
 | Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
 | Anläggning mindre än 2 kubikmeter | 1 770 |
-| Anläggning 2–4 kubikmeter* | 2 555 |
+| Anläggning 2–4 kubikmeter\* | 2 555 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
-| Anläggning 2–4 kubikmeter* | 6 090 |
+| Anläggning 2–4 kubikmeter\* | 6 090 |
 | Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
 | Anläggning mindre än 2 kubikmeter | 8 500 |
-| Anläggning 2–4 kubikmeter* | 9 100 |
+| Anläggning 2–4 kubikmeter\* | 9 100 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
 | Akut tömning<br>Utförs inom 4 timmar |  |
 | Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter* | 11 110 |
+| Anläggning 2–4 kubikmeter\* | 11 110 |
 
 <!-- sida 348 -->
 
@@ -14641,7 +14641,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 
 <!-- sida 349 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Taxan avseende tjänster som utförs av auktoriserade entreprenörer, den så kallade maxtaxan,
 justeras årligen i enlighet med förändringen av avfallsindex med basmånad januari och
@@ -14652,7 +14652,7 @@ avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller föl
 
 4.4.4.11 Förpackningsavfall
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för Teknik ansvarar för att årligen räkna om beloppen i taxan.
 
 Kungsbacka kommun         Avfallstaxa 2026                   27
@@ -14676,17 +14676,17 @@ kungsbacka.se
 <!-- sida 351 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 4
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -14700,14 +14700,14 @@ Innehåll
 4.7 Slamsugning och tömning av fettavskiljare.................................................. 26
 4.9 Särskilda avgifter ................................................................................................. 28
 
-5. Indexjustering av avgiftsbelopp ......................................................................... 28
-6. Delegering av beslut om justering efter index ............................................... 28
+5\. Indexjustering av avgiftsbelopp ......................................................................... 28
+6\. Delegering av beslut om justering efter index ............................................... 28
 
 Kungsbacka kommun         Avfallstaxa 2026                    2
 
 <!-- sida 352 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -14776,7 +14776,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -14810,7 +14810,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -14818,7 +14818,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    4
 
 <!-- sida 354 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -14892,8 +14892,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    7
 
@@ -14905,14 +14905,14 @@ Kungsbacka kommun         Avfallstaxa 2026                    7
 
 [Tabell 356-2](handlingar.tabeller/356-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 850 | 2 850 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2190 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 485 | 3 485 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 470 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 355 | 5 355 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 13 825 | 13 825 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 13 825 | 13 825 | 20 445 |
 
 <!-- sida 357 -->
 
@@ -14925,8 +14925,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    8
 
@@ -14938,14 +14938,14 @@ Kungsbacka kommun         Avfallstaxa 2026                    8
 
 [Tabell 357-2](handlingar.tabeller/357-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 420 | 1 420 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 100 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 745 | 1 745 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 235 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 680 | 2 680 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 915 | 6 915 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 915 | 6 915 | 10 225 |
 
 <!-- sida 358 -->
 
@@ -15020,7 +15020,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -15048,7 +15048,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   10
 
 [Tabell 359-2](handlingar.tabeller/359-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -15438,7 +15438,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -15466,7 +15466,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   18
 
 [Tabell 367-2](handlingar.tabeller/367-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -15627,7 +15627,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -15647,7 +15647,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning * | 7 000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 000 |
 
 <!-- sida 371 -->
 
@@ -15669,8 +15669,8 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2026                   22
 
@@ -15692,8 +15692,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -15712,8 +15712,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -15743,8 +15743,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -15891,19 +15891,19 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 
 [Tabell 376-1](handlingar.tabeller/376-1.csv)
 
-| Anläggning 2–4 kubikmeter* | 2 555 |
+| Anläggning 2–4 kubikmeter\* | 2 555 |
 | --- | --- |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
-| Anläggning 2–4 kubikmeter* | 6 090 |
+| Anläggning 2–4 kubikmeter\* | 6 090 |
 | Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
 | Anläggning mindre än 2 kubikmeter | 8 500 |
-| Anläggning 2–4 kubikmeter* | 9 100 |
+| Anläggning 2–4 kubikmeter\* | 9 100 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
 | Akut tömning<br>Utförs inom 4 timmar |  |
 | Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter* | 11 110 |
+| Anläggning 2–4 kubikmeter\* | 11 110 |
 
 [Tabell 376-2](handlingar.tabeller/376-2.csv)
 
@@ -15938,7 +15938,7 @@ förhållandena väsentligt avviker från vad som är normalt får nämnden för
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
 27 kap. 5 § miljöbalken.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Taxan avseende tjänster som utförs av auktoriserade entreprenörer, den så kallade maxtaxan,
 justeras årligen i enlighet med förändringen av avfallsindex med basmånad januari och
 avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller följande avgifter:
@@ -15948,7 +15948,7 @@ avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller föl
 4.4.4.10 Returpapper
 4.4.4.11 Förpackningsavfall
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Teknik ansvarar för att årligen räkna om beloppen i taxan.
 
@@ -16003,7 +16003,7 @@ Avgift för kommunens avfallshantering får enligt 27 kap. 4-6 §§ miljöbalken
 kommunfullmäktige antar.
 
 Sammantaget bedöms att avgifterna i avfallstaxan behöver höjas 7 procent inför
-2026. Verksamhetens kostnader för entreprenader med mera antas öka under 2026.
+2026\. Verksamhetens kostnader för entreprenader med mera antas öka under 2026.
 Under 2026 utgår tjänsten att lämna osorterat avfall. Detta innebär en minskad intäkt.
 Skuld till brukare ska regleras på tre år, vilket innebär att verksamhetens beräknade
 underskott efter 2025 behöver täckas av intäkterna 2026. Kapitalkostnaderna ökar på
@@ -16132,7 +16132,7 @@ Sammantaget bedöms att avgifterna behöver höjas för att fonden ska återstä
 
 För ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl för matavfall ökar
 årsavgiften med föreslagen taxejustering från 2660 kronor år 2025 till 2850 kronor inklusive moms år
-2026.
+2026\.
 Kommunens ekonomiska styrprinciper anger att skulden ska regleras på tre år. Prognosen är ett
 underskott om 2,3 miljoner kronor i fonden efter 2025, och detta behöver regleras under 2026.
 
@@ -16181,17 +16181,17 @@ kungsbacka.se
 <!-- sida 384 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -16209,7 +16209,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 385 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -16278,7 +16278,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -16317,10 +16317,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 387 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -16392,8 +16392,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -16405,14 +16405,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 389-2](handlingar.tabeller/389-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka,<br>helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka,<br>helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 390 -->
 
@@ -16425,8 +16425,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -16438,14 +16438,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 390-2](handlingar.tabeller/390-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka,<br>delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka,<br>delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 391 -->
 
@@ -16520,7 +16520,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -16547,7 +16547,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 392-2](handlingar.tabeller/392-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -16931,7 +16931,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -16959,7 +16959,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 400-2](handlingar.tabeller/400-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -17103,7 +17103,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -17116,7 +17116,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande<br>ätligt fett, per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 404 -->
 
@@ -17139,9 +17139,9 @@ Grundavgift container
 9 kbm
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   22
 
@@ -17163,8 +17163,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -17183,8 +17183,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -17213,8 +17213,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |

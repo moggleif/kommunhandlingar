@@ -755,9 +755,9 @@ på naturförutsättningarna på platsen på bästa sätt.
 Beskrivning av ärendet
 
 Ansökan kom in 2023-08-04, prövades i Byggnadsnämndens arbetsutskott 2023-12-
-21. Arbetsutskottet gav bygg- och miljöförvaltningen i uppdrag att utreda
+21\. Arbetsutskottet gav bygg- och miljöförvaltningen i uppdrag att utreda
 möjligheten till annan lokalisering. Ny förslag på placering inkom komplett 2024-01-
-05.
+05\.
 
 Expedierat/bestyrkt
 
@@ -792,7 +792,7 @@ byggnad och kommit fram till att det är en komplementbyggnad.
 Byggnaden har uppförts utan bygglov mellan 1969 och 1971, då övriga byggnader
 inom fastigheten men ej den byggnaden finns med i kommunens fotoinventering
 utförd mellan 1969-1978, men taket av byggnaden syns på kommunens flygfoto från
-1971. På Bygglovsansökan 1980 för ersättning av bostadshuset som aldrig
+1971\. På Bygglovsansökan 1980 för ersättning av bostadshuset som aldrig
 genomfördes, anges att byggnaden är befintligt förråd och garage. Det är senast
 kända information om byggnaden. Ifall byggnaden därefter har inretts som gäststuga
 eller som självständig bostad så har det skett utan byggnadslov. Det påverkar den här
@@ -1842,7 +1842,7 @@ bygglov för att få bo i husvagnen antingen i sex månader eller ett år.
 
 Historik
 Tidsbegränsat bygglov för uppställning av en husvagn beviljas 2023-07-17, D 2023-
-002078. Det tidsbegränsade lovet upphör 2024-02-01 och då ska husvagnen vara
+002078\. Det tidsbegränsade lovet upphör 2024-02-01 och då ska husvagnen vara
 
 avröjd. Husvagnen ska enligt det tidsbegränsade lovet utgöra en tillfällig utsiktsplats.
 Sökande äger får som betar i hagen där husvagnen ska ställas upp. Det finns enligt
@@ -2010,18 +2010,18 @@ riksintresse Försvarsmakten.
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
 
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 a) överensstämmer med detaljplanen, eller
 
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
 bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 första stycket, 13, 17 och 18 §§.
@@ -2163,10 +2163,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2349,7 +2349,7 @@ Byggnadsnämndens arbetsutskott     2024-02-29
 MYRA 6:19 - Bygglov för nybyggnad av enbostadshus samt garage
 
 Ärendet utgår vid byggnadsnämndens arbetsutskotts sammanträde den 29 februari
-2024.
+2024\.
 
 Expedierat/bestyrkt
 
@@ -2942,7 +2942,7 @@ högst en våning och till en byggnadshöjd om högst 3,5 meter.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- del av tillbyggnaden, närmare bestämt 51,5 m2 motsvarande 23 procent av
+\- del av tillbyggnaden, närmare bestämt 51,5 m2 motsvarande 23 procent av
 huvudbyggnadens byggnadsarea, är placerad på mark som enligt detaljplan inte får
 bebyggas
 
@@ -2955,7 +2955,7 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          61 (77)
 Datum
 Byggnadsnämndens arbetsutskott     2024-02-29
 
-- byggnadshöjden för huvudbyggnaden mäts till 5,85 meter vilket är 2,35 meter
+\- byggnadshöjden för huvudbyggnaden mäts till 5,85 meter vilket är 2,35 meter
 högre än vad detaljplanen medger
 
 Kommunicering
@@ -3228,7 +3228,7 @@ brandsäkerhet och trevnad.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- Användningsbestämmelsen Jm inte innefattar vård.
+\- Användningsbestämmelsen Jm inte innefattar vård.
 
 Remisser
 Förvaltningen för teknik har fått möjligheter att lämna synpunkter gällande
@@ -3306,7 +3306,7 @@ Byggnadsnämndens arbetsutskott     2024-02-29
 markåtgärder
 
 Ärendet utgår vid byggnadsnämndens arbetsutskotts sammanträde den 29 februari
-2024.
+2024\.
 
 Expedierat/bestyrkt
 
@@ -3396,20 +3396,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
@@ -3630,20 +3630,20 @@ strandskyddsdispens får enligt 16 kap. 2 § miljöbalken förenas med villkor.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett

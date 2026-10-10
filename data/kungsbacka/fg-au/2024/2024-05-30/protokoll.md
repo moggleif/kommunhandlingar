@@ -185,13 +185,13 @@ motionen.
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
@@ -332,11 +332,11 @@ Förutsättningar för medgivande
 23 § Ett skolpliktigt barn får medges rätt att fullgöra skolplikten på annat sätt än
 som anges i denna lag. Medgivande ska lämnas om
 
-1. verksamheten framstår som ett fullgott alternativ till den utbildning som annars
+1\. verksamheten framstår som ett fullgott alternativ till den utbildning som annars
 står barnet till buds enligt föreskrifter i denna lag,
 
-2. behovet av insyn i verksamheten kan tillgodoses, och
-3. det finns synnerliga skäl.
+2\. behovet av insyn i verksamheten kan tillgodoses, och
+3\. det finns synnerliga skäl.
 
 24 § Medgivande enligt 23 § får lämnas för upp till ett år i sänder. Under dess
 giltighetstid ska det prövas hur verksamheten utfaller. Medgivandet ska återkallas,

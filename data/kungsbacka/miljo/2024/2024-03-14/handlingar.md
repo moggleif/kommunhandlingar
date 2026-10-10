@@ -297,7 +297,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (33)
 Datum
 2016-12-12
-$ 190 3010/16-00
+\$ 190 3010/16-00
 
 Strategi för utvecklingsarbete
 
@@ -504,18 +504,18 @@ KUNGSBACKA  KOMMUN
 växtlivet.
   Undantag från strandskyddsbestämmelserna enligt 7 kap 16 § miljöbalken;
 
-1. byggnader, anläggningar, anordningar eller åtgärder som inte avser att
+1\. byggnader, anläggningar, anordningar eller åtgärder som inte avser att
 tillgodose bostadsändamål, om de behövs för jordbruket, fisket,
 skogsbruket eller renskötseln och om de för sin funktion måste finnas
 eller vidtas inom strandskyddsområdet,
 
-2. verksamheter eller åtgärder som har tillåtits av regeringen enligt 17
+2\. verksamheter eller åtgärder som har tillåtits av regeringen enligt 17
 kap 1, 3 eller 4 § eller som omfattas av ett tillstånd som meddelats
 enligt miljöbalken eller miljöbalkens föreskrifter,
-3. byggande av allmän väg enligt fastställd arbetsplan enligt väglagen
+3\. byggande av allmän väg enligt fastställd arbetsplan enligt väglagen
 (1971:948),
 
-4. byggande av järnväg enligt fastställd järnvägsplan enligt lagen om
+4\. byggande av järnväg enligt fastställd järnvägsplan enligt lagen om
 byggande av järnväg (1995:1649),
 
   Byggnader eller anläggningar och anordningar som syns på ortofoton från
@@ -546,31 +546,31 @@ Prioritering av ärenden bör också ske med en bedömning på det aktuella omr�
 bevarandestatus och känslighet enligt följande modell:
 
 Geografisk prioritetsordning
-1. Områden med utökat strandskydd och/eller är utpekade som riksintresse
+1\. Områden med utökat strandskydd och/eller är utpekade som riksintresse
 enligt 3 och 4 kap miljöbalken.
 
-2. Områden med högt bebyggelsetryck t.ex. Kungsbackafjorden, Onsala, Särö,
+2\. Områden med högt bebyggelsetryck t.ex. Kungsbackafjorden, Onsala, Särö,
 Frillesås med flera.
 
 <!-- sida 14 -->
 
 KUNGSBACKA  KOMMUN
 
-3. Områden som omnämns i Naturvårdsplanen, t.ex. områden med strandängar, 5 (6)
+3\. Områden som omnämns i Naturvårdsplanen, t.ex. områden med strandängar, 5 (6)
 mosaikmarker, kusthedar och grunda havsbottnar.
-4. Övriga områden
+4\. Övriga områden
 
 Överträdelsens karaktär
-1. Åtgärder som är av sådan karaktär att det föreligger risk för människor hälsa
+1\. Åtgärder som är av sådan karaktär att det föreligger risk för människor hälsa
 och där återställande ingrepp som med hänsyn till naturmiljön måste ske
 skyndsamt t.ex. åtgärder som kan störa djur- eller växtlivet under känsliga
 
 perioder av deras livscykel.
-2. Byggnader
+2\. Byggnader
 
-3. Avhållande anläggningar och anordningar, t.ex. bryggor som även kräver
+3\. Avhållande anläggningar och anordningar, t.ex. bryggor som även kräver
 andra tillstånd eller anmälan om vattenverksamhet
-4. Övrigt
+4\. Övrigt
 
 Ärenderutiner
 
@@ -842,7 +842,7 @@ KUNGSBACKA KOMMUN
 Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (75)
 Datum
 2016-11-17
-$ 145 2916/16-00-1
+\$ 145 2916/16-00-1
 
 Strategi för nyckeltal
 
@@ -894,12 +894,12 @@ skall gälla för de här aktuella områdena.
 
 BESLUT
 
-- Inom de av kommunfullmäktige beslutade utbyggnadsområdena för kommunal
+\- Inom de av kommunfullmäktige beslutade utbyggnadsområdena för kommunal
 vatten- och avloppsförsörjning i Onsala; Buerås, Köpstaden, Norra Hagen, Västra
 Hagen, Sevekulla m.fl., skall följande policy för hantering av avloppsanordningar
 gälla:
 
-1. Tillbyggnad av permanentbostad accepteras. Befintlig avloppsanordning skall
+1\. Tillbyggnad av permanentbostad accepteras. Befintlig avloppsanordning skall
 dock förbättras så att direktutsläpp, utan längre gående rening än slamav-
 skiljare, till vattenområde inte sker.
 
@@ -908,7 +908,7 @@ skada för människors hälsa eller miljön, tillåts sluten tank, för spillvat
 vattentoalett, som en tillfällig lösning intill dess anslutning till kommunal spill-
 vattenledning kan ske.
 
-2. Nybyggnation på obebyggd tomt eller tillbyggnad för permanentning av fritids-
+2\. Nybyggnation på obebyggd tomt eller tillbyggnad för permanentning av fritids-
 hus omfattas inte av ovanstående policy. Denna typ av byggnation får anstå
 intill dess att ledningsnät för kommunal VA-försörjning byggts ut i respektive
 område.
@@ -1246,7 +1246,7 @@ Prövning av ansökningar för att anlägga nya enskilda avloppsanläggningar n�
 kvar till det kommunala avloppet är anslutningsbart inom blivande kommunalt verksamhetsområde
 för spillvatten.
 
-1. Mindre än 2 år kvar till att fastigheten har en anslutningspunkt dit man uppmanas att
+1\. Mindre än 2 år kvar till att fastigheten har en anslutningspunkt dit man uppmanas att
 
 ansluta. (Teknik anvisar anslutningspunkt och skickar ut karta) Oftast Nya hus:
 
@@ -1261,7 +1261,7 @@ Om detta bedöms vara ett realistiskt alternativ i det enskilda fallet bör riml
 avseende kostnaden påverkas av detta. Den lösning som fastighetsägaren vill ha prövas alltid i
 första hand.
 
-2. För alla prövningar där det bedöms vara längre tid än 2 år innan det kommunal avloppet är
+2\. För alla prövningar där det bedöms vara längre tid än 2 år innan det kommunal avloppet är
 anslutningsbart:
 
 Allt avloppsvatten från WC och BDT till sluten tank godtas inte eftersom miljöeffekten för
@@ -1275,7 +1275,7 @@ Inget krav på att toalett ska spola mindre än 1 liter i medeltal. Om det vid p
 att skyddsnivån, med anledning av att anläggningen ska användas under en begränsad tid, kan
 sänkas till normal skyddsnivå för främst Miljöskydd så ska detta göras.
 
-3. Inom vattenskyddsområde:
+3\. Inom vattenskyddsområde:
 
 Samma som ovan men tillägget att nytt WC-utsläpp (Nytt hus eller där inte vattentoalett finns eller
 är tillståndsgiven) inom primär eller sekundära zoner för både grund- och ytvatten ska ha
@@ -1502,7 +1502,7 @@ Prövning
 Prövning av ansökningar för att anlägga nya enskilda avloppsanläggningar när det är
 olika lång tid kvar till det kommunala avloppet är anslutningsbart inom blivande
 kommunalt verksamhetsområde för spillvatten.
-1. Mindre än 2 år kvar till att fastigheten har en anslutningspunkt dit man
+1\. Mindre än 2 år kvar till att fastigheten har en anslutningspunkt dit man
 uppmanas att ansluta. (Teknik anvisar anslutningspunkt och skickar ut karta)
 Oftast Nya hus:
 
@@ -1519,7 +1519,7 @@ Vissa typer av anläggningar såsom till exempel Minireningsverk kan grävas upp
 säljas vidare. Om detta bedöms vara ett realistiskt alternativ i det enskilda fallet bör
 rimlighetsavvägningen avseende kostnaden påverkas av detta. Den lösning som
 fastighetsägaren vill ha prövas alltid i första hand.
-2. För alla prövningar där det bedöms vara längre tid än 2 år innan det
+2\. För alla prövningar där det bedöms vara längre tid än 2 år innan det
 kommunal avloppet är anslutningsbart:
 
 Allt avloppsvatten från WC och BDT till sluten tank godtas inte eftersom
@@ -1535,7 +1535,7 @@ framkommer att skyddsnivån, med anledning av att anläggningen ska användas
 under en begränsad tid, kan sänkas till normal skyddsnivå för främst Miljöskydd så
 ska detta göras.
 
-3. Inom vattenskyddsområde:
+3\. Inom vattenskyddsområde:
 Samma som ovan men tillägget att nytt WC-utsläpp (Nytt hus eller där inte
 vattentoalett finns eller är tillståndsgiven) inom primär eller sekundära zoner för både
 grund- och ytvatten ska ha avloppsvatten från vattentoalett till sluten tank. Inget krav
@@ -1840,7 +1840,7 @@ planera åtgärden, hitta en entreprenör samt se till att få ekonomiskt utrymm
 åtgärdade avloppsanläggningen förrän i sista stund.
 
 Vattenmyndigheten har beslutat att alla vattendrag ska uppnå god ekologisk status år
-2021. I Kungsbacka finns ett flertal vattendrag som inte klarar god ekologisk status
+2021\. I Kungsbacka finns ett flertal vattendrag som inte klarar god ekologisk status
 på grund av övergödning. För att våra vattendrag ska ha god ekologisk status senast
 år 2021 krävs att åtgärdstiden för bristfälliga avlopp kortas ned, då det kan ta lite tid
 för ett vattendrag att stabilisera sig och få god status. Dessa är anledningarna till att
@@ -1882,7 +1882,7 @@ Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 17 (30)
 Datum
 2015-06-25
 201G
-$ 73 1782/105-35
+\$ 73 1782/105-35
 
 Tidsbegränsning vid förbud av bristfälliga enskilda
 avloppsanläggningar
@@ -1915,7 +1915,7 @@ planera åtgärden, hitta en entreprenör samt se till att få ekonomiskt utrymm
 åtgärdade avloppsanläggningen förrän i sista stund.
 
 Vattenmyndigheten har beslutat att alla vattendrag ska uppnå god ekologisk status år
-2021. I Kungsbacka finns ett flertal vattendrag som inte klarar god ekologisk status
+2021\. I Kungsbacka finns ett flertal vattendrag som inte klarar god ekologisk status
 på grund av övergödning. För att våra vattendrag ska ha god ekologisk status senast
 år 2021 krävs att åtgärdstiden för bristfälliga avlopp kortas ned, då det kan ta lite tid
 för ett vattendrag att stabilisera sig och få god status. Dessa är anledningarna till att
@@ -1950,7 +1950,7 @@ Datum
 3 j—
 20K7
 
-$ 73 forts 1782/105-35
+\$ 73 forts 1782/105-35
 
 Beslutsunderlag
 Förvaltningens yttrande daterat 2015-06-17.
@@ -1968,7 +1968,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 6 (22)
 Datum
 2014-08-28
-$ 98 1157/14-35
+\$ 98 1157/14-35
 
 Revidering av avloppsstrategi för Kungsbacka kommun
 
@@ -1982,7 +1982,7 @@ upphäver nämnden sin tidigare policy om slutna tankar.
 
 Sammanfattning
 
-Nämnden för Miljö & Hälsoskydd fattade den 25 februari 2010 beslut (NMH $ 39)
+Nämnden för Miljö & Hälsoskydd fattade den 25 februari 2010 beslut (NMH \$ 39)
 om en ny strategi för små avloppsanläggningar. Därefter har mindre revideringar och
 tillägg gjorts till strategin.
 
@@ -2165,7 +2165,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 8 (20)
 Datum
 2013-11-28
-$ 137 3877/13-35
+\$ 137 3877/13-35
 
 Enhetliga regler för avloppsföreningars dispensansökningar
 
@@ -2229,7 +2229,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 9 (20)
 Datum
 2013-11-28
-$ 137 forts 3877/13-35
+\$ 137 forts 3877/13-35
 
 Omröstning begärs
 
@@ -2279,7 +2279,7 @@ ansvara för detta. Avlivning sker lämpligen av veterinär.
 
 BESLUT
 
-- Miljö- och hälsoskyddsnämndens policy ifråga om omhändertagande eller avliv-
+\- Miljö- och hälsoskyddsnämndens policy ifråga om omhändertagande eller avliv-
 ning av katter är att det ankommer på ägaren att ombesörja sådana åtgärder.
 Som ägare betraktas den som tagit sig an en katt, exempelvis genom att utfordra
 den. För vilda katter gäller att dessa må avlivas av jakträttsinnehavaren.
@@ -2465,16 +2465,16 @@ till bostäder:
 I områden med samlad bebyggelse och/eller vid planläggning bör följande principer
 angående skyddsavstånd tillämpas vid nyetableringar:
 
-1. Vid C-anläggningar eller större bör skyddsavståndet från bostäder, skolor o d
+1\. Vid C-anläggningar eller större bör skyddsavståndet från bostäder, skolor o d
 vara 200-500 m till stall och gödselhantering och minst 200 m till område där
 hästar vistas.
-2. Vid större anläggningar (30-100 hästar) bör skyddsavståndet från bostäder,
+2\. Vid större anläggningar (30-100 hästar) bör skyddsavståndet från bostäder,
 skolor o d vara minst 200 m till stall och gödselhantering och minst 100-200
 m till område där hästar vistas.
-3. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från
+3\. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från
 bostäder, skolor o d vara minst 100-200 m till stall och gödselhantering och
 minst 50-100 m till område där hästar vistas.
-4. Mindre anläggningar (1-10 hästar). Som regel bör alltid ett skyddsavstånd på
+4\. Mindre anläggningar (1-10 hästar). Som regel bör alltid ett skyddsavstånd på
 
 minst 100 m från stall och gödselhantering och minst 50 m från område där
 hästar vistas upprätthållas.
@@ -2546,7 +2546,7 @@ Sammanträdesdatum
 
 2007-05-24
 
-$ 59 2134/06-44
+\$ 59 2134/06-44
 
 Policy för prövning av hästärenden
 
@@ -2556,19 +2556,19 @@ Följande policy för hästhållning i anslutning till bostäder antas:
 I områden med samlad bebyggelse och/eller vid planläggning bör följande principer
 angående skyddsavstånd tillämpas vid nyetableringar:
 
-1. Vid C-anläggningar eller större bör skyddsavståndet från bostäder, skolor o d
+1\. Vid C-anläggningar eller större bör skyddsavståndet från bostäder, skolor o d
 vara 200-500 m till stall och gödselhantering och minst 200 m till område där
 hästar vistas.
 
-2. Vid större anläggningar (30-100 hästar) bör skyddsavståndet från bostäder, skolor
+2\. Vid större anläggningar (30-100 hästar) bör skyddsavståndet från bostäder, skolor
 o d vara minst 200 m till stall och gödselhantering och minst 100-200 m till
 område där hästar vistas.
 
-3. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från bostäder,
+3\. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från bostäder,
 skolor o d vara minst 100-200 m till stall och gödselhantering och minst 50-100
 m till område där hästar vistas.
 
-4. Mindre anläggningar (1-10 hästar). Som regel bör alltid ett skyddsavstånd på
+4\. Mindre anläggningar (1-10 hästar). Som regel bör alltid ett skyddsavstånd på
 minst 100 m från stall och gödselhantering och minst 50 m från område där
 hästar vistas upprätthållas.
 
@@ -2580,7 +2580,7 @@ positiva.
 Exempel på frågor som bör utgöra underlag för bedömningen av relevant
 skyddsavstånd:
 
-> Karaktär på området, lantlig miljö/villabebyggelse samt vilken typ av
+\> Karaktär på området, lantlig miljö/villabebyggelse samt vilken typ av
 användning som marken är avsatt för enligt Översiktsplanen. I ett område som är
 avsett för jordbruksdrift bör hästar kunna hållas med kortare skyddsavstånd än i
 områden som anges som utvecklingsområden eller tätort
@@ -2617,7 +2617,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 10 (31)
 Sammanträdesdatum
 2007-05-24
-$ 59 forts. 2134/06-44
+\$ 59 forts. 2134/06-44
 
 Skyddsavstånden skall betraktas som riktvärden och en prövning av lämpligt
 skyddsavstånd skall göras i varje enskilt fall.
@@ -2635,7 +2635,7 @@ Detta kan också ses som ett slags minimiavstånd som inte bör understigas i
 nyetableringssituationen, även om det av omständigheterna i det enskilda fallet finns
 skäl för att frångå ovanstående riktvärden.
 
-Med olägenhet för människors hälsa avses i Miljöbalken 9 kap 3$ en störning som
+Med olägenhet för människors hälsa avses i Miljöbalken 9 kap 3\$ en störning som
 enligt medicinsk eller hygienisk bedömning kan påverka hälsan menligt och som inte
 är ringa eller helt tillfällig.
 
@@ -2680,7 +2680,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (31)
 Sammanträdesdatum
 2007-05-24
-$ 59 forts. 2134/06-44
+\$ 59 forts. 2134/06-44
 
 Centerns uppfattning är därför att en hästpolicy måste leva upp till
 fullmäktiges beslut.
@@ -2695,16 +2695,16 @@ I områden avsatta för jordbruksdrift skall hästen ges stor plats.
 I områden som det skall råda jordbruksdrift enligt översiktsplanen bör följande gälla
 vid planläggning av bebyggelse eller nyetablering av jordbruksfastigheter
 
-1. Vid C-anläggningar eller större bör skyddsavståndet från samlad bebyggelse,
+1\. Vid C-anläggningar eller större bör skyddsavståndet från samlad bebyggelse,
 skolor o dyl. vara minst 300 m till stall och gödselhantering..
 
-2. Vid större anläggningar (30-100 hästar) skyddsavståndet från samlad
+2\. Vid större anläggningar (30-100 hästar) skyddsavståndet från samlad
 bebyggelse, skolor o dyl. vara minst 200 m till stall och gödselhantering.
 
-3. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från samlad
+3\. Vid medelstora anläggningar (10-30 hästar) bör skyddsavståndet från samlad
 bebyggelse, skolor o d vara minst 100 m till stall och gödselhantering.
 
-4. Vid mindre anläggningar (1-10 hästar) bör skyddsavståndet från samlad
+4\. Vid mindre anläggningar (1-10 hästar) bör skyddsavståndet från samlad
 bebyggelse, skolor o d vara minst 100 m till stall och gödselhantering.
 
 Hästar bör få beta ut till befintlig fastighetsgräns, men krav på grön (gräsbevuxen
@@ -2737,7 +2737,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 12 (31)
 Sammanträdesdatum
 2007-05-24
-$ 59 forts. 2134/06-44
+\$ 59 forts. 2134/06-44
 
 Miljöaspekt: För att minimera näringsläckage ut till vattendrag och havet skall all
 mark vara bevuxen så stor del av året som möjligt, och definitivt på sommaren
@@ -2820,16 +2820,16 @@ Bygg- och miljöförvaltningen har upprättat årsredovisning för 2023. I
 
 årsredovisningen ingår årlig uppföljning av det systematiska arbetsmiljöarbetet samt
 hållbarhetsbokslut. I sin helhet innehåller årsredovisningen:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat oss
 
-* Uppföljning av mål och direktiv
-* Uppföljning av verksamhetsmått
+\* Uppföljning av mål och direktiv
+\* Uppföljning av verksamhetsmått
 
-* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
-* Uppföljning av ekonomi
+\* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
+\* Uppföljning av ekonomi
 
-* Hållbarhetsbokslut
+\* Hållbarhetsbokslut
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023,
 
 +1,9 miljoner kronor.
@@ -3075,10 +3075,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -3142,7 +3142,7 @@ Kungsbacka har välkomnande och trygga miljöer
 Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2020    2021   2022   2023   2023
 2023 är Kungsbacka kommun en certifierad
--       -       -
+\-       -       -
 blåljuskommun.
 Andel avvikelser vid tillsynsbesök hos
 verksamhetsutövare med serverings-tillstånd.
@@ -3155,11 +3155,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -3217,10 +3217,10 @@ Beslutats av
 
 Nämnd
 Nämndens formulering
-Nämnderna ska med stöd av bestämmelserna i sina speciallagstiftningar* verka för att utvecklingen av samhället
+Nämnderna ska med stöd av bestämmelserna i sina speciallagstiftningar\* verka för att utvecklingen av samhället
 sker med väl avvägd påverkan på miljön, samtidigt som hälsosamma livsförhållanden för människor skapas.
 
-(*Miljöbalken, Plan- och Bygglagen, Livsmedel, - alkohol-, och tobakslagen.)
+(\*Miljöbalken, Plan- och Bygglagen, Livsmedel, - alkohol-, och tobakslagen.)
 Fokusområde
 
 Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
@@ -3243,11 +3243,11 @@ många samverkande faktorer behöver vi arbeta brett och långsiktigt. Det är s
 och nyttor på kort sikt. Exempel på aktiviteter som vi har gjort och som vi bedömer ger mest effekt på lång sikt
 är;
 
-- Kunskapshöjande insatser om hållbarhet för politiker och tjänstepersoner.
-- Startat upp arbetet med tillsyn över förorenade områden så att vi även i framtiden kan leva i en giftfri miljö.
+\- Kunskapshöjande insatser om hållbarhet för politiker och tjänstepersoner.
+\- Startat upp arbetet med tillsyn över förorenade områden så att vi även i framtiden kan leva i en giftfri miljö.
 
-- Arbetat med tillsyn av inomhusmiljön där barn och äldre ofta vistas så att den fortsätter att vara hälsosam.
-- Arbetat med tillsyn inom Fjärås Bräcka vattenskyddsområde för att skydda vår dricksvattenförsörjningen.
+\- Arbetat med tillsyn av inomhusmiljön där barn och äldre ofta vistas så att den fortsätter att vara hälsosam.
+\- Arbetat med tillsyn inom Fjärås Bräcka vattenskyddsområde för att skydda vår dricksvattenförsörjningen.
 
 Efter årets tillsyn av förorenade områden är vi i bra fas att klara målsättningen att riskklass 1 och 2 objekt ska
 vara åtgärdade senast 2025. Vi har utvecklat våra arbetssätt och startat upp 15 tillsynsärenden av prioriterade
@@ -3274,7 +3274,7 @@ förorenade områden i riskklass 1 och 2 som - -  -        15       3
 ska vara åtgärdade senast år 2050.
 Uppföljning av fokusområde i tillsynen av ljus,
 buller, ventilation och luftkvalitet i
--       -       -     Uppnått
+\-       -       -     Uppnått
 undervisningslokaler, vård- och
 omsorgsboenden samt särskilda boenden.
 3.2.2 Nämnderna ska verka för att miljökvalitetsnormer för vatten följs.
@@ -3338,8 +3338,8 @@ vattenförekomst.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -3426,8 +3426,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -3485,12 +3485,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har nått målet
 
@@ -3596,7 +3596,7 @@ mätning.
 Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2020    2021   2022   2023   2023
 Andel medarbetare som utbildats i
--       -      85%      95%
+\-       -      85%      95%
 Utvecklande medarbetarskap (UM).
 3.5.2 Nämnderna ska med innovationskraft och hög grad av digitalisering möjliggöra en
 enklare vardag för invånare och företag.
@@ -3648,11 +3648,11 @@ Nyttjandegrad e-tjänst "Söka bygglov för att
 48%     59%     75%      75%     70%
 bygga nytt"
 Öka nyttjandegrad av e-tjänst "Anmäla
--      39%     59%      61%
+\-      39%     59%      61%
 installation av värmepumpsanläggning"
 Handläggningstid prövning registrering av
 livsmedelsanläggning - från komplett
--       -       -         3
+\-       -       -         3
 anmälan till beslut - (analog ansökan), 5
 arbetsdagar.
 NKI totalt värde, Nöjd-Kund-Index, bygglov 37 41 47      57
@@ -3660,7 +3660,7 @@ NKI totalt värde, Nöjd-Kund-Index, miljöskydd 65 62 68   64
 NKI totalt värde, Nöjd-Kund-Index, livsmedel 72 75 76    77
 NKI totalt värde, Nöjd-Kund-Index, servering 72 81 87    65
 NKI-värden här gäller både företag och privatpersoner. Utfall 2023 gäller de tre första kvartalen. Helårsutfallet publiceras först i april
-2024.
+2024\.
 
 17
 
@@ -3925,7 +3925,7 @@ Beslutats av
 Nämnd
 
 Nämndens formulering
-Byggnadsnämnden ska arbeta aktivt med OVK-tillsyn*.(*OVK= obligatorisk funktionskontroll av
+Byggnadsnämnden ska arbeta aktivt med OVK-tillsyn\*.(\*OVK= obligatorisk funktionskontroll av
 ventilationssystem i byggnader.)
 Fokusområde
 
@@ -3940,7 +3940,7 @@ Utöver digitaliseringsarbetet har samarbetsmöten ägt rum med två fastighetsb
 Syftet var dels att skapa relationer inför kommande tillsynsarbete, dels att ta reda på vilka ventilationssystem
 som fortfarande är aktiva. Samarbetsmöten med fastighetsbolag har fortlöpt under hösten 2023.
 Under året är uppbyggnaden av systematik inom OVK klar och det kommer ingå i den löpande tillsynen från
-2024.
+2024\.
 
 4.3 Direktiv handläggningstid förhandsbesked
 
@@ -3988,7 +3988,7 @@ från komplett ansökan/anmälan till - -      16        21      14
 beslut. 14 arbetsdagar
 Handläggningstid prövning registrering
 av livsmedelsanläggning - från komplett
--       -       -        10       3
+\-       -       -        10       3
 anmälan till beslut - (analog ansökan),
 5 arbetsdagar.
 Handläggningstid från ärende komplett
@@ -4020,7 +4020,7 @@ Antal påbörjade bostäder (beviljade
 144     168   82          649     45
 bygglov) - lägenheter i flerbostadshus
 Andel levererade nybyggnadskartor
--       -    30,7%     13,3%    27%
+\-       -    30,7%     13,3%    27%
 inom 15 arbetsdagar (i procent)
 Andel bygglovsärenden som klarar
 lagstadgad handläggningstid (10 -    -    58%        78%     90%
@@ -4138,10 +4138,10 @@ Uppföljningen av det systematiska arbetsmiljöarbetet tyder på att en stor del
 arbetsmiljöarbetet bedrivs på ett ändamålsenligt sätt och att det finns väl fungerande rutiner i förvaltningen för
 att undersöka arbetsmiljön och åtgärda eventuella brister och risker som framkommer, samtidigt som att det
 finns ytterligare behov av utveckling inom området. Under 2024 kommer förvaltningen fokusera på:
-- fortsatt arbete med utvecklande medarbetarskap
+\- fortsatt arbete med utvecklande medarbetarskap
 
-- uppföljning av puls-mätningar på enhetsnivå
-- arbete med friskfaktorer inom vissa enheter efter behov
+\- uppföljning av puls-mätningar på enhetsnivå
+\- arbete med friskfaktorer inom vissa enheter efter behov
 
 6.2 Kompetensförsörjning
 
@@ -4395,7 +4395,7 @@ avviker med -1,8 miljoner kronor och intäkterna för livsmedel och serveringsti
 Underskottet kompenseras delvis av att verksamheten beviljats ett projektbidrag från Länsstyrelsen för en
 förstudie för ett förorenat område på 0,4 miljoner kronor.
 En revidering av tillsynsplanen för miljöbalkstillsyn beslutades av nämnden för Miljö & Hälsoskydd i november
-2023. Revideringen omfattade debiterbar tillsyn motsvarande knappt 2,0 miljoner kronor. Utfallet för året för
+2023\. Revideringen omfattade debiterbar tillsyn motsvarande knappt 2,0 miljoner kronor. Utfallet för året för
 miljöbalkstillsynen är -1,8 miljoner kronor, vilket är något bättre än väntat.
 För miljöbalkstillsynen avviker intäkterna med -1,8 miljoner kronor. Avvikelsen gäller i första hand
 efterhandsdebiterad tillsyn, -1,5 miljoner kronor, samt händelsestyrd tillsyn som till exempel prövning, -0,3.
@@ -4554,7 +4554,7 @@ för våra kunder. Det har vi gjort genom så kallade innovationssprintar där v
 ett antal utvalda kunder för att bättre kunna förstå våra kunders behov och anpassa vårt arbetssätt. Vi ser också
 att insatsen har lett till ökad förståelse och ökat engagemang hos medarbetarna om vikten av att arbeta på nya
 sätt och att skapa lättillgängliga och automatiserade tjänster.
-3. GOD HÄLSA OCH VÄLBEFINNANDE
+3\. GOD HÄLSA OCH VÄLBEFINNANDE
 
 Människors hälsa står i fokus inom samtliga lagstiftningar som ryms inom Bygg- och miljöförvaltningens olika
 myndighetsuppdrag. Att våra kommuninnevånare har en god hälsa och välbefinnande är grunden i vår tillsyn
@@ -4609,7 +4609,7 @@ Under året har förvaltningen ökat takten och startat upp flera tillsynsärend
 gjort en omfattande ansvarsutredning. Effekten av arbetet är att vi förflyttat oss närmare målsättningen att år
 2050 ska alla prioriterade objekt med hög risk vara åtgärdade så att vi även i framtiden kan leva i en giftfri
 miljö.
-11. HÅLLBARA STÄDER OCH SAMHÄLLEN
+11\. HÅLLBARA STÄDER OCH SAMHÄLLEN
 Under året har vi börjat ett omfattande arbete mot en obruten digital samhällsbyggnadsprocess där geodata
 spelar en väsentlig och avgörande roll. Målet är att Kungsbacka kommun ska kunna fatta bättre beslut som
 skapar en mer hållbar framtid och kommun genom att använda och utnyttja den data som finns i hela
@@ -4628,7 +4628,7 @@ från att all byggnation ska främja hållbara städer och samhällen.
 Ett annat exempel på hur förvaltningen bidrar till målet är de kontroller utifrån ställda krav som sker vid en
 bygglovsprövning. Det kan till exempel gälla bullernivåer, energieffektivitet och infrastruktur för laddning av
 elfordon.
-13. BEKÄMPA KLIMATFÖRÄNDRINGARNA
+13\. BEKÄMPA KLIMATFÖRÄNDRINGARNA
 
 Utsläppen av växthusgaser fortsätter att stiga och som följd riskerar vi att nå en genomsnittlig global
 uppvärmning som överstiger två grader, vilket skulle få allvarliga konsekvenser för ekosystem, havsförsurning,
@@ -4666,7 +4666,7 @@ En informationsinsats har även skett inom bygglov där syftet var att ge råd o
 kommuninnevånare och företagare kan bidra till att minska sin energianvändning och i förlängningen till
 minskad klimatpåverkan. Med hjälp av våra insatser bidrar förvaltningen till att kommunens invånare har goda
 förutsättningar att skapa hållbar energi framåt.
-14. HAV OCH MARINA RESURSER
+14\. HAV OCH MARINA RESURSER
 
 Badvattenprovtagningen har varit i fokus under sommaren och extra provtagningar har utförts för att säkerställa
 en god badvattenkvalitet. Stor vikt har lagts på samverkan mellan förvaltningar och tydlig information till
@@ -4749,7 +4749,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 Byggnadsnämnden beslutade 2024-02-22 att godkänna förslag till ombudgetering och resultatfond
 
-2023.
+2023\.
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023 på 1 870 000 kronor.
 Nämnden begär följande resultatdisponering:
 
@@ -4799,12 +4799,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023 på
 1 870 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
+\* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
 kronor ombudgeteras till 2024.
 
-* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 
@@ -5180,9 +5180,9 @@ Kommunövergripande risk: Granskning av avslut av behörigheter vid avslut av an
 tjänst)
 Varje förvaltning ska ta ställning till om man i tillräcklig omfattning har:
 
-1. Chefer har kännedom om praktiska rutiner vid avslutad anställning
-2. Chefer har kännedom om e-tjänsten Hantera behörigheter
-3. Rapporten för avslutade medarbetare är tillgänglig för de systemförvaltare som behöver tillgång till den.
+1\. Chefer har kännedom om praktiska rutiner vid avslutad anställning
+2\. Chefer har kännedom om e-tjänsten Hantera behörigheter
+3\. Rapporten för avslutade medarbetare är tillgänglig för de systemförvaltare som behöver tillgång till den.
 Granskningen visar att:
 Samtliga chefer inom förvaltningen har via chefsbrev fått information om praktiska rutiner vid avslut av
 anställning. Samtliga chefer har också fått information om e-tjänsten "Hantera behörigheter" samt att det finns
@@ -5303,7 +5303,7 @@ med förvaltningens förslag. Granskningen har avgränsats till beslut om förha
 arbetsutskott, BNAU, då det är i dessa fall vi noterat flest avvikelser. Generellt sett är det ovanligt att
 nämnderna vänder förvaltningens förslag till beslut.
 Granskningen visar att BANU och BN fattat beslut om 61 förhandsbesked under perioden 23-01-01 till 23-11-
-30. Av dessa vände de 25 beslut (beslutat annat än förvaltningens förslag) varav 8 från positivt till negativt och
+30\. Av dessa vände de 25 beslut (beslutat annat än förvaltningens förslag) varav 8 från positivt till negativt och
 17 från negativt till positivt. Det innebär att politikerna inte går på förvaltningens förslag i drygt 40 procent av
 förhandsbeskedsärendena.
 Analys av de vända besluten visar inte på några mönster eller brister utan handlar om att BNAU gör en annan

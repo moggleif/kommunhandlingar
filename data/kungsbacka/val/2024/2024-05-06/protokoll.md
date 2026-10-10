@@ -128,10 +128,10 @@ granska och räkna de röster som inte räknats i vallokalerna.
 Sammanträdet är offentligt och har därför annonserats och skyltats.
 Valnämnden ska vid sammanträdet granska:
 
-- underkända förtidsröster från vallokalerna
+\- underkända förtidsröster från vallokalerna
 
-- förtidsröster som inte granskats i vallokalerna
-- brevröster
+\- förtidsröster som inte granskats i vallokalerna
+\- brevröster
 
 För att underlätta räkningen minst 6 valurnor, vilka öppnas samtidigt. Två personer
 från kommunen levererar gemensamt samtliga röster och röstlängder till
@@ -379,12 +379,12 @@ Under perioden 27 januari till 25 april 2024 har följande skrivelser inkommit t
 valnämnden:
 
 -Valmyndighetens nyhetsutskick v. 17
-- Valmyndighetens nyhetsutskick v. 16
+\- Valmyndighetens nyhetsutskick v. 16
 
-- SVT/VALU och EU-valet
-- Revisionens grundläggande granskning 2024
+\- SVT/VALU och EU-valet
+\- Revisionens grundläggande granskning 2024
 
-- Revisionens grundläggande granskning 2023 - slutlig
+\- Revisionens grundläggande granskning 2023 - slutlig
 -Valmyndighetens Nyhetsutskick v.14
 
 -Valmyndighetens Nyhetsutskick v.13
@@ -395,10 +395,10 @@ valnämnden:
 -Valmyndighetens Nyhetsutskick v.9
 -Information från SKR Tillfällig avvikelse från dygnsvilan under EU-valet
 
-- Meddelande om affischering
-- Valsedelssystemet ska utvärderas!
+\- Meddelande om affischering
+\- Valsedelssystemet ska utvärderas!
 
-- Nyhetsbrev till valnämnden - nu i nytt format!
+\- Nyhetsbrev till valnämnden - nu i nytt format!
 
 Beslutsgång
 

@@ -111,10 +111,10 @@ Akademikerförbundet SSR - Sofia Kareliusson
 
 Plats och tid: VM Lagan 2024-04-16 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll 2024-03-05 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i april.
 
 Beslut: Att anteckna informationen.
@@ -136,7 +136,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 Information om de förslag som går till nämnden den 17 april 2024 för beslut.
 •  Blomstergatan, tillfällig stängning
 •  Iseråsskolan fortsatt utredning kring evakuering
@@ -166,10 +166,10 @@ Förstudier Iseråsskolan är klara.
 Under nästkommande läsår upprättas en ledningstjänst i förskolan över områdena Olasgården, DBV
 och Öppna förskolan. Denna tjänst utformas pga tre parametrar:
 
-- önskemål om att gå ner i tjänstgöringsgrad - DBV
+\- önskemål om att gå ner i tjänstgöringsgrad - DBV
 
-- ökat uppdrag för rektor - Gällinge, Olasgården, Stegatorp
-- vakant tjänst på öppna förskolan
+\- ökat uppdrag för rektor - Gällinge, Olasgården, Stegatorp
+\- vakant tjänst på öppna förskolan
 
 Beslut: Att anteckna informationen.
 
@@ -178,10 +178,10 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (6)
 
-4. Annat
--
+4\. Annat
+\-
 
-5. Läsårstider 2025 – 2026
+5\. Läsårstider 2025 – 2026
 Det finns ett förslag från arbetsgivaren och ett förslag från Sveriges Lärare.
 
 Sveriges Lärare
@@ -193,7 +193,7 @@ Skolavslutningsdagarna ingår inte i de 178 dagarna.
 
 Beslut: Sveriges Lärare antecknar oenighet med arbetsgivarens beslut i protokollet.
 
-6. Utvecklingsdag FSG 7 maj – tema?
+6\. Utvecklingsdag FSG 7 maj – tema?
 Arbetsgivarens förslag:
 •  FSG möte
 •  Säkerhetsfrågor med fokus på inrymning, handlingsplaner och krisplaner.
@@ -201,7 +201,7 @@ Arbetsgivarens förslag:
 
 Beslut: Att anteckna informationen:
 
-7. Tjänsteplanering nuläge.
+7\. Tjänsteplanering nuläge.
 Antalet överanställningar är ungefär samma som förra året. Fler vakanser inom ämnena slöjd,
 matematik, franska, musik och rekrytering startar.
 
@@ -210,7 +210,7 @@ räkna med att få byta uppdrag inom kommunen.
 
 Beslut: Att anteckna informationen:
 
-8. Uppföljning olycksfall och tillbud 2023
+8\. Uppföljning olycksfall och tillbud 2023
 
 Förslag på fortsatt arbete 2024
 •  Öka kunskapen kring syfte med att anmäla händelser och hur dessa ska anmälas
@@ -232,7 +232,7 @@ Beslut: Att anteckna informationen.
 
 Arbetstagarorganisationer
 
-9. Vklass - registrera avslutad/avbruten lektion
+9\. Vklass - registrera avslutad/avbruten lektion
 Avbrutna lektioner ökar på en del skolor i kommunen utifrån att trygghet och studiero brister. I
 dagsläget finns inget bra i vklass som beskriver denna händelse. Lärare som sätter "ogiltig frånvaro" på
 elever får onödigt mycket kritik från vårdnadshavare.
@@ -245,7 +245,7 @@ Arbetsgivaren tycker att det är relevant och undersöker frågan vidare.
 
 Beslut: Att anteckna informationen.
 
-10. Betygshantering VT-24
+10\. Betygshantering VT-24
 
 Sveriges Lärare vill att lärarna ska ha möjlighet att registrera betygen fram till terminens slut.
 
@@ -294,7 +294,7 @@ För arbetstagarorganisationerna:
 
 Akademikerförbundet SSR             Kommunal
 
--                                   Beatrice Sandgren
+\-                                   Beatrice Sandgren
 
 <!-- sida 9 -->
 
@@ -303,7 +303,7 @@ KUNGSBACKA  KOMMUN
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -312,7 +312,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 10 -->
 
@@ -446,9 +446,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
@@ -492,7 +492,7 @@ Föräldrakooperativet i Ur och Skur Kottar och Barr har inkommit med en ansöka
 om tillfällig utökning av barnantal på förskolan Kottar och Barr, Gamla
 Älvsåkersvägen 39. Förskolan har ett tillstånd från 1999 som omfattar 20 barn.
 Ansökan omfattar en utökning med 2 barn under perioden augusti 2024 till augusti
-2025.
+2025\.
 
 Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
@@ -601,9 +601,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -766,9 +766,9 @@ Förvaltningen bedömer att den tillfälliga utökningen kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
@@ -806,12 +806,12 @@ Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Förskolekooperativet
 Myrstacken i Åsa ekonomisk förening om tillfällig utökning av barnantal på
 förskolan Myrstacken med 1 barn till total 22 barn från 29 april 2024 till 31 juli
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förskolekooperativet Myrstacken i Åsa ekonomisk förening har inkommit med en
 ansökan om tillfällig utökning av barnantal på förskolan Myrstacken, Kumlabacken
-9. Förskolan har funnits sedan 1988 och har ansökt till kommunen om permanent
+9\. Förskolan har funnits sedan 1988 och har ansökt till kommunen om permanent
 utökning av barnantal till 21 barn vilket prövas av nämnden för Förskola- och
 
 grundskola vid samma sammanträde som detta ärende behandlas.
@@ -1430,30 +1430,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -1461,7 +1461,7 @@ Innehåll
 
 <!-- sida 39 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -1589,7 +1589,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 42 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -1997,7 +1997,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 51 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -2132,7 +2132,7 @@ tunga att utforska.
 
 <!-- sida 54 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -2277,13 +2277,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 57 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -2312,9 +2312,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.
@@ -2446,7 +2446,7 @@ Hör av er i så fall.
 Med vänlig hälsning
 Karin Malmsten
 Dataskyddsombud
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 0300-83 40 66
 karin.malmsten@kungsbacka.se

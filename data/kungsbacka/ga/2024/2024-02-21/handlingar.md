@@ -46,7 +46,7 @@ Utifrån ett initiativärende sökte förvaltningen medel hos Kommunstyrelsen oc
 påbörjat ett arbete för att främja välmående och motverka psykisk ohälsa bland elever på Kungsbackas
 kommunala gymnasieskolor. Evalotta Magnusson har ansvar för projektet och har tillsammans med
 processgrupp tagit fram en metod som ska testas mot olika personal- och elevgrupper under våren
-2024. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
+2024\. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
 vårterminen 2025. Tanken är att kunna anställa en samordnare på 60 %, implementera metoden under
 vårterminen 2024 samt fullfölja under höstterminen 2024 och vårterminen 2025. Kostnaden för år
 2024 uppgår till 600 000 kr och för vårterminen 2025 uppgår kostnaden till 300 000 kr.
@@ -240,11 +240,11 @@ Förslag till beslut:
 
 Att förvaltningen redogör för följande
 
-1. Saknas det fysiska praktikplatser på våra yrkesförberedande program?
+1\. Saknas det fysiska praktikplatser på våra yrkesförberedande program?
 
-2. Skiljer sig tillgången till en fysisk praktikplats beroende på vilket program man väljer och i
+2\. Skiljer sig tillgången till en fysisk praktikplats beroende på vilket program man väljer och i
 så fall hur?
-3. Om det saknas fysiska praktikplatser; hur ska detta lösas framöver?
+3\. Om det saknas fysiska praktikplatser; hur ska detta lösas framöver?
 
 Shabnam Zamani (S)
 
@@ -478,7 +478,7 @@ Enligt kommunfullmäktiges direktiv behöver nämnder och förvaltningar öka ta
 omställning till nya arbetssätt för att klara välfärdsutmaningen. Förvaltningen har därför under 2023 säkerställt
 resurser och kompetenser samt påbörjat en implementering av struktur för sitt innovationsarbete. Vi har gjort
 målsökande och medskapande insatser med våra målgrupper och även genomfört olika typer av labb för att testa
-nya arbetssätt och digitala lösningar, bland annat kopplat till AI.[PE5][AM6]
+nya arbetssätt och digitala lösningar, bland annat kopplat till AI.[PE5\][AM6]
 Byte av system
 Under implementering av systemet Skolplatsen stod vi inför betydande utmaningar som skapade en påtaglig
 
@@ -555,10 +555,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande och övriga målgrupper och
@@ -610,17 +610,17 @@ Brukarbedömning särskilt boende äldreomsorg,
 helhetssyn
 Brukarbedömning individ- och familjeomsorg totalt
 76%          88%
-- helhetssyn
+\- helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
@@ -737,7 +737,7 @@ Avfall från hushåll ska minska med 30% per invånare från
 2020 till 2030. Startvärde 100, målvärde 2030 är 70.
 Avfall från kommunens verksamheter ska minska med
 40 % per heltidsanställd. Startvärde 100, målvärde 2030 är 100 72,1 84,5
-60.
+60\.
 Energiförbrukning i kommuns lokaler per kvadratmeter
 Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv
 (Kolada)
@@ -799,8 +799,8 @@ senaste 6 månaderna
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -938,8 +938,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 13
 
@@ -958,7 +958,7 @@ examen medan motsvarande siffra på yrkesprogrammen var 89,6%.
 Vad gäller meritvärdet varierar detta mellan 17,2 och 11,8. Snittet för samtliga nationella program var 14,3.
 
 Andel (%) elever med examen från yrkesprogrammen ligger i paritet med resultaten de senaste åren bortsett från
-2022. Dock ser vi skillnader mellan olika program samt mellan år för samma program.
+2022\. Dock ser vi skillnader mellan olika program samt mellan år för samma program.
 För högskoleförberedande program är andelen (%) elever med examen relativt konstant de senaste åren. Även
 här ser vi fluktuationer, dock inte till samma grad som hos yrkesprogrammen
 
@@ -1067,11 +1067,11 @@ Nämndens årsredovisning 2023
 professioner och skolan.
 
 •  Nästa steg
-- Fortsatt arbete med avbrottsanalyser, ett arbete som görs av Vuxenutbildningen och Studie och
+\- Fortsatt arbete med avbrottsanalyser, ett arbete som görs av Vuxenutbildningen och Studie och
 Yrkesvägledarna.
-- Fortsatt dialog och tätare uppföljning i individärenden tillsammans med Arbetsförmedlingen gällande
+\- Fortsatt dialog och tätare uppföljning i individärenden tillsammans med Arbetsförmedlingen gällande
 de som är inskrivna i etableringen.
-- Stort fokus på sfi i kommande upphandling.
+\- Stort fokus på sfi i kommande upphandling.
 
 Indikatorer                          Utfall Utfall Utfall Utfall Målvärde
 2020 2021  2022 2023  2023
@@ -1155,12 +1155,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium och Arbetsmarknad har inte brutit ned detta kommunövergripande mål med
 tillhörande fokusområde genom egna nämndsmål utan förvaltningen arbetar mot målet direkt med olika typer av
@@ -1805,13 +1805,13 @@ Inom Gymnasium & Arbetsmarknad omhändertas arbetet med de övergripande målen 
 ramen för ordinarie arbetsmiljöarbete och samverkanssystem, vilket inkluderar arbetsplatsträffar och
 samverkansgrupper (tillika skyddskommittéer). De områden som har identifierats att särskilt fokuseras på är:
 
-1. I högre grad genomföra inventering av friskfaktorer, och stärka det som fungerar väl inom
+1\. I högre grad genomföra inventering av friskfaktorer, och stärka det som fungerar väl inom
 arbetsmiljöområdet, dvs komplettera riskperspektivet med ett främjandeperspektiv.
-2. Utvärdera och utveckla förvaltningens årshjul och stödmaterial för SAM
-3. Förbättra rutiner och checklistor för introduktion av nyanställda
+2\. Utvärdera och utveckla förvaltningens årshjul och stödmaterial för SAM
+3\. Förbättra rutiner och checklistor för introduktion av nyanställda
 
-4. Fortsatt utveckling av facklig samverkan
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
+4\. Fortsatt utveckling av facklig samverkan
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
 tillräckligt med kunskap, kompetens och befogenheter för att utföra sina uppgifter.
 
 6.1.4 Sammanfattande bedömning
@@ -2393,7 +2393,7 @@ Ombudgetering och resultatfond 2023
 Förslag till beslut
 Nämnden för Gymnasium & Arbetsmarknad godkänner förslag till ombudgetering och resultatfond
 
-2023.
+2023\.
 
 Sammanfattning av ärendet
 Nämnden för Gymnasium & Arbetsmarknad har upprättat förslag till ombudget och resultatfond 2023
@@ -5624,8 +5624,8 @@ g
 s
 o
 u ö
--
--
+\-
+\-
 s
 r
 n
@@ -5906,10 +5906,10 @@ Beslut: Styrelsen beslutar enligt förslaget.
 
 § 8      Rapport från förbundschef
 
-- Parterna berättar, Arbetsförmedlingen den 23 feb kl.08.30-09.30
+\- Parterna berättar, Arbetsförmedlingen den 23 feb kl.08.30-09.30
 o Länk kommer med inbjudan att skicka in frågeställningar.
 
-- Nuläge bokslut
+\- Nuläge bokslut
 o Årsredovisningen beräknas vara klar 240215. Revision 26-27 februari.
 o Årsredovisningen redovisas vid medlemssamråd 12 april på Folkets hus i
 Varberg. Det är önskvärt att Styrelsen deltar. Återkommer med möjlighet
@@ -5920,7 +5920,7 @@ https://sign.visma.net/sv/document-check/f66503e0-431a-421a-9cc1-702600f9c398 ww
 
 <!-- sida 134 -->
 
-- Återrapport styrgrupp IST Halland
+\- Återrapport styrgrupp IST Halland
 o Man har sett att verksamheten IST och verksamheterna inom
 kommunernas AME under åren allt mer kommit att likna varandra.
 Styrelsen gav styrgruppen i uppdrag att se över om det går att inom
@@ -5931,15 +5931,15 @@ o Styrgruppen har nu utsett en arbetsgrupp för att inleda dialog med
 kommunala AME för ett tätare samarbete kring individer. Dialog startar 31
 januari.
 
-- Releaseparty SKAPA 2.0, 1 mars 13.00-15.30
+\- Releaseparty SKAPA 2.0, 1 mars 13.00-15.30
 
 o Nya manualen och metodstödet SKAPA 2.0 släpps. Även lättläst version.
 o Plats: Halmstad, Kulturhuset Najaden.
 
-- Hallandsbänken till förbundet, preliminärt 18 mars 9.30
+\- Hallandsbänken till förbundet, preliminärt 18 mars 9.30
 o Riksdagspolitiker som representerar Halland är inbjudna.
 
-- Digital Finsamkonferens 16 maj, heldag.
+\- Digital Finsamkonferens 16 maj, heldag.
 o Samarrangemang av Nationella Rådet och tre olika förbund.
 o Gratis att delta.
 o Funderingar finns kring att samla halländska deltagare i en lokal i Halland
@@ -6088,7 +6088,7 @@ Omställning         till en   långsiktigt
 
 hållbar     socialtjänst       –  2024
 
-__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Överenskommelse        mellan  staten  och
 
@@ -6104,23 +6104,23 @@ Inledning ......................................................................
 
 1.1 Bakgrund till överenskommelsen .................................................................... 3
 
-2. Överenskommelsens inriktning och syfte ........................................ 4
+2\. Överenskommelsens inriktning och syfte ........................................ 4
 2.1 Övergripande om arbetet med en ny socialtjänstlag och omställningen till
 en långsiktigt hållbar socialtjänst ........................................................................... 4
 2.2 Allmänna utgångspunkter ................................................................................ 4
 
-3. Överenskommelsens innehåll och prioriterade områden ................ 5
+3\. Överenskommelsens innehåll och prioriterade områden ................ 5
 
 3.1 Prioriterat område: En mer förebyggande och lätt tillgänglig socialtjänst 5
 3.2 Prioriterat område: En kunskapsbaserad socialtjänst ................................... 5
 
-4. SKR:s åtaganden inom ramen för överenskommelsen ................... 6
+4\. SKR:s åtaganden inom ramen för överenskommelsen ................... 6
 
-5. Redovisning och uppföljning av insatserna i överenskommelsen ... 6
+5\. Redovisning och uppföljning av insatserna i överenskommelsen ... 6
 
-6. Ekonomiska villkor .......................................................................... 7
+6\. Ekonomiska villkor .......................................................................... 7
 
-7. Godkännande av överenskommelsen ............................................. 8
+7\. Godkännande av överenskommelsen ............................................. 8
 
 Bilaga .................................................................................................. 9
 
@@ -6171,7 +6171,7 @@ regeringen, för statens räkning, och SKR denna överenskommelse.
 
 <!-- sida 141 -->
 
-2. Överenskommelsens inriktning och syfte
+2\. Överenskommelsens inriktning och syfte
 
 2.1 Övergripande om arbetet med en ny socialtjänstlag och
 omställningen till en långsiktigt hållbar socialtjänst
@@ -6235,7 +6235,7 @@ centralt för en långsiktigt hållbar socialtjänst.
 Arbetet ska genomsyras av ett barnrätts-, funktionshinders- och
 jämställdhetsperspektiv.
 
-3. Överenskommelsens innehåll och prioriterade områden
+3\. Överenskommelsens innehåll och prioriterade områden
 
 3.1 Prioriterat område: En mer förebyggande och lätt tillgänglig
 
@@ -6290,7 +6290,7 @@ vetenskapligt stöd är också en förutsättning för att socialtjänsten ska k
 bedriva sin verksamhet i överensstämmelse med vetenskap och beprövad
 erfarenhet och med god kvalitet.
 
-4. SKR:s åtaganden inom ramen för överenskommelsen
+4\. SKR:s åtaganden inom ramen för överenskommelsen
 
 Parterna är överens om att SKR, inom ramen för överenskommelsen 2024,
 ska genomföra insatser för att stödja omställningen mot en långsiktigt hållbar
@@ -6316,7 +6316,7 @@ flera kommuner, och
 −  bidra till spridning av metoder och arbetssätt som bygger på bästa
 tillgängliga kunskap.
 
-5. Redovisning och uppföljning av insatserna i överenskommelsen
+5\. Redovisning och uppföljning av insatserna i överenskommelsen
 
 Parterna är överens om att de insatser som har vidtagits med stöd av medlen
 i överenskommelsen ska redovisas och följas upp.
@@ -6342,7 +6342,7 @@ kostnaderna och resultat för de olika insatser som genomförts med stöd av
 medlen i överenskommelsen. I redovisningen ska barnrätts-,
 funktionshinders- och jämställdhetsperspektivet belysas.
 
-6. Ekonomiska villkor
+6\. Ekonomiska villkor
 
 Överenskommelsen för 2024 omfattar totalt 20 000 000 kronor, som
 fördelas till SKR.
@@ -6378,7 +6378,7 @@ användning.
 
 <!-- sida 145 -->
 
-7. Godkännande av överenskommelsen
+7\. Godkännande av överenskommelsen
 
 Överenskommelsen har upprättats i två exemplar varav parterna har tagit var
 sitt.
@@ -6530,7 +6530,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-4. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
+4\. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
 
 ” Yrkeslärarna deltar i nödvändig utbildning för att matcha teknikutvecklingen,
 kompetensbehovet i motorbranschen och den pedagogiska och didaktiska
@@ -6564,7 +6564,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-5. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
+5\. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
 och lokaler.
 
 ” Samverkan i Motorbranschcollege medverkar till att certifierade skolor har

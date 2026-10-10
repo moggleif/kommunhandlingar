@@ -155,7 +155,7 @@ Underlag till kommunbudget 2027
 Beslut
 
 Nämnden för Kultur & Fritid godkänner rapporten Underlag till kommunbudget
-2027.
+2027\.
 
 Reservation
 Birgitta Tingdal (S) och Gert Svensson (S)
@@ -259,7 +259,7 @@ växer.
 
 Förändringar i investeringsplanen jämfört med tidigare beslutad plan avser dels
 reinvesteringar år 2027 och år 2029, dels övriga investeringar år 2027, 2028 och år
-2030. Reinvesteringar, år 2027 planeras utbyte av konstgräsmattan på Bukärrs IP där
+2030\. Reinvesteringar, år 2027 planeras utbyte av konstgräsmattan på Bukärrs IP där
 även dränering måste göras om vilket innebär en ökning av kostnaden till total 5 500
 tkr, i stället för 4 400 tkr. År 2029 planeras utbyte av konstgräsmatta på Ögärdet IP
 där det finns både en 7- och en 11-manna konstgräsplan, där kostnaden beräknas till

@@ -248,7 +248,7 @@ markanvändning ur vatten- och föroreningsperspektivet.
 Beskrivning av ärendet
 Remissvar är lämnad för Fördjupad översiktsplan för Kungsbacka stad under
 samrådet, i beslut från Nämnden för miljö och hälsoskydds §83, daterat den 5 juni
-2024. Den fördjupade översiktsplanen för Kungsbacka stad är nu på granskning.
+2024\. Den fördjupade översiktsplanen för Kungsbacka stad är nu på granskning.
 
 Beslutsunderlag
 
@@ -971,7 +971,7 @@ Helårsprognosen för nämnden för Miljö & Hälsoskydd visar att nämnden har 
 1.2 Viktiga händelser i verksamheterna
 
 Nedan följer en redovisning av viktiga händelser i bygg- och miljöförvaltningen under perioden januari till april
-2025.
+2025\.
 Miljö- och hälsoskyddsavdelningen
 I fas med tillsyns- och kontrollplan
 

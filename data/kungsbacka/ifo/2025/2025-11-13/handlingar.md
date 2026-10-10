@@ -347,7 +347,7 @@ jämfört med den av nämnden beslutade planen ska rapporteras i internkontrollr
 
 Nämndens arbete med intern kontroll
 Individ & Familjeomsorgs plan för internkontroll 2026 baseras på riskanalyser som genomförts under hösten
-2025. Riskanalyserna genomfördes med relevanta expertfunktioner och representanter från förvaltningens olika
+2025\. Riskanalyserna genomfördes med relevanta expertfunktioner och representanter från förvaltningens olika
 verksamhetsområden.
 Inom nämndens ansvarsområde har felaktiga utbetalningar inom personlig assistans, utbetalning av
 föreningsbidrag och köpta platser identifierats som särskilt utsatta för risk för välfärdsbrottslighet
@@ -438,22 +438,22 @@ Intern kontrollplan 2026
 
 Många av de trender som identifierats är inte unika för Individ & Familjeomsorg utan påverkar Kungsbacka och
 hela det offentliga Sverige. Exempel på sådant som bedöms vara av extra stor vikt är:
-- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
+\- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
 vissa yrkesgrupper är svårare att rekrytera än andra. Sveriges kommuner står inför omfattade utmaningar bland
 annat kopplat till välfärdens långsiktiga finansiering, kompetensförsörjning och ökade krav på offentlig service.
 Genom att nyttja kompetenser och resurser effektivt på hela förvaltningen och utveckla nya arbetssätt och
 digitala lösningar möjliggörs medarbetares tid och omsorg där den behövs som mest.
 
-- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
+\- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
 säkerställa att det finns medarbetare tillgängliga där de gör mest nytta. Digitala lösningar kan också bidra till en
 ökad tillgänglighet för Kungsbackas invånare och en ökad självständighet för förvaltningens brukare. Samtidigt
 finns en risk att vi skapar ett "digitalt utanförskap" då vi inför nya arbetssätt och tekniker som inte alla har
 tillgång till eller förmåga att använda. Detta behöver vi ta hänsyn till när vi utvecklar nya digitala arbetssätt.
-- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
+\- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
 mer komplex problematik vilket ställer krav på delvis annan kompetens. Psykisk ohälsa, samsjuklighet och unga
 med NPF ökar. De kriminella gängen kommer närmre Kungsbacka och tillgängligheten till droger ökar. Det har
 blivit tydligt att vi behöver utveckla metoder och samarbeten med andra aktörer för att bli framgångsrika.
-- ny lagstiftning ställer stora krav på omställning av vår verksamhet. Den nya socialtjänstlagen trädde i kraft 1
+\- ny lagstiftning ställer stora krav på omställning av vår verksamhet. Den nya socialtjänstlagen trädde i kraft 1
 juli 2025 vilket innebär att vi har påbörjat arbetet för att ställa om till en förebyggande och lätt tillgänglig
 socialtjänst. Arbetet kommer att fortsätta under kommande år.
 
@@ -741,7 +741,7 @@ insatser skapa en trygg uppväxt för barn- och unga.
 Moderaterna, Liberalerna, Centerpartiet och Kristdemokraterna i Nämnden för Individ och
 Familjeomsorg har tagit fram förslag som sammanlagt uppgår till två miljoner kronor.
 
-1. Koordinator för att möjliggöra tidiga insatser vid oro
+1\. Koordinator för att möjliggöra tidiga insatser vid oro
 
 Det finns många olika insatser för att främja goda förutsättningar för Kungsbackas
 unga, både inom kommunen och hos andra aktörer. För att dessa ska användas
@@ -757,7 +757,7 @@ som nav.
 
 Koordinator för samarbete och samordning: 750 000 kr
 
-2. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
+2\. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
 Då förvaltningens bemanning stärkts utifrån statsbidrag i samband med ny
 socialtjänstlag, ser vi med dessa medel möjlighet att stärka verksamheten med
 metoder som Socialstyrelsen rekommenderar för att motverka normbrytande
@@ -805,18 +805,18 @@ Kompetensutveckling, metoder rekommenderade mot normbrytande beteende:
 
 500 000 kr
 
-3. Hjälp till självhjälp för barn, unga och föräldrar vid separation
+3\. Hjälp till självhjälp för barn, unga och föräldrar vid separation
 SES och SES NXT är ett evidensbaserat digitalt verktyg för självhjälp vid egen,
 
 närståendes eller föräldrars separation. Verktyget har funnits i Kungsbacka sedan
-2023. Då verktyget kan användas, och ge stöd, helt utan inblandning av anställd
+2023\. Då verktyget kan användas, och ge stöd, helt utan inblandning av anställd
 personal finns behov av att sprida information till presumtiva målgrupper, med fokus
 
 på barn och unga vars föräldrar eller motsvarande separerar.
 
 Spridning och tillgängliggörande av SES och SES NXT: 250 000 kr
 
-4. Stärkt stöd till familjehem och jourfamiljer
+4\. Stärkt stöd till familjehem och jourfamiljer
 Det finns flera utmaningar med att rekrytera familjehem och jourfamiljer. Det kan
 finnas ett stigma i samhället kopplat till uppdraget, det kan finnas en oro för att
 

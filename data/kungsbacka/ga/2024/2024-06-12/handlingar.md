@@ -127,7 +127,7 @@ inspirera skolor och ungdomar att tillsammans med Ungdomsforum och kommunala
 
 förvaltningar påbörja olika konkreta utvecklingsprojekt.
 Kungsbacka har genomfört LUPP fem gånger tidigare: 2007, 2010, 2013, 2017 och
-2020. Resultaten har använts inom kommunen som ett verktyg och planerings-
+2020\. Resultaten har använts inom kommunen som ett verktyg och planerings-
 underlag för såväl grund- och gymnasieskolan som för kommunens service-, teknik-,
 kultur-, fritid- och folkhälsoarbete.
 LUPP-enkäten är ett nationellt verktyg som tillhandahålls av Myndigheten för
@@ -179,11 +179,11 @@ och   resultatens       tolkningsram
 
 Målgrupper
 Undersökningen har omfattat två målgrupper av ungdomar:
-1. Elever i årskurs 8 på en skola i Kungsbacka kommun, inklusive ungdomar som
+1\. Elever i årskurs 8 på en skola i Kungsbacka kommun, inklusive ungdomar som
 
 bor i någon annan kommun. I praktiken omfattades dock inte en av de fem fristående
 högstadierna.
-2. Kommunens invånare på gymnasiets år 2 (inklusive introduktionsprogram),
+2\. Kommunens invånare på gymnasiets år 2 (inklusive introduktionsprogram),
 oavsett i vilken kommun som skolan ligger, samt ungdomar utanför gymnasiet födda
 år 20064.5 I praktiken har dock inte samtliga ungdomar omfattats av genomförandet;
 se vidare nedan.
@@ -357,17 +357,17 @@ Kungsbackas tidigare LUPP-resultat. Det varierar hur långt tillbaka jämförbar
 finns, men i några fall spänner rapportens tidserier över sex år: 2007, 2010, 2013,
 2017, 2020 och 2023.
 Därutöver redovisas resultaten nedbrutna på sju övergripande kommunområden:
-- Anneberg, Älvsåker
-- Fjärås med omland (inklusive Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-
+\- Anneberg, Älvsåker
+\- Fjärås med omland (inklusive Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-
 
 Gällinge omland med Förlanda, Idala, Gällinge)
-- Frillesås, Åsa, Ölmanäs
-- Kungsbacka stad (inklusive Villastaden, Söderstaden, Fors, Varla, Hede, Kolla,
+\- Frillesås, Åsa, Ölmanäs
+\- Kungsbacka stad (inklusive Villastaden, Söderstaden, Fors, Varla, Hede, Kolla,
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget)
-- Onsala
+\- Onsala
 
-- Särö, Kullavik (Släp)
-- Vallda.
+\- Särö, Kullavik (Släp)
+\- Vallda.
 Denna indelning är något förändrad sedan tidigare rapporter och utgår från
 kommunens 18 så kallade Regionala Statistikområden (RegSO)15.
 Antalet enkätsvar per område varierar stort: mellan 61 och 231 svar i åk8 och
@@ -422,7 +422,7 @@ att föra fram åsikter till beslutsfattare.
 senaste halvåret blivit utsatta för brott eller hot om brott – killar i lite högre
 grad än tjejer. En stor andel av hoten sker på sociala medier / online.
 • Den självskattade hälsan hos tjejer har minskat successivt sedan mätningen
-2010. Från att tidigare ha varit stabil hos killar i åk8 har den minskat även där.
+2010\. Från att tidigare ha varit stabil hos killar i åk8 har den minskat även där.
 • Medan cigarettrökning har minskat de senaste 10–15 åren är det 2023 något
 
 vanligare med e-cigaretter – och samtidigt har snusande blivit vanligare,
@@ -616,7 +616,7 @@ jämfört med LUPP 2020 sett sammantaget till de GR-kommuner som ingått dessa �
 kommunen; Skrivit ett förslag (medborgarförslag) till kommunens politiker; Deltagit i demonstration;
 Diskuterat samhällsfrågor/ politik på forum eller bloggar på internet; Gillat/delat inlägg om
 samhällsfrågor/politik på internet; Diskuterat samhällsfrågor/politik med vänner eller familj; Engagerat
-dig politiskt/i en samhällsfråga genom en förening* [följt av förklaring i not]. En liknande fråga har ingått
+dig politiskt/i en samhällsfråga genom en förening\* [följt av förklaring i not]. En liknande fråga har ingått
 i tidigare LUPP-enkät, med färre delfrågor, vilket gör att den inte är jämförbar i sin helhet.
 13
 
@@ -727,7 +727,7 @@ procent av ungdomarna i åk8 sällan eller aldrig är trygga i minst någon av d
 miljöer – och detsamma gäller 27 procent i gy2. I båda åldersgrupper är detta en
 något mindre andel än 2020. Precis som tidigare är könsskillnaden stor. 2023 är den
 dock något mindre i åk8 till följd av en något mindre andel otrygga tjejer jämfört med
-2020. Men andelen otrygga tjejer är fortfarande väsentligt större än andelen otrygga
+2020\. Men andelen otrygga tjejer är fortfarande väsentligt större än andelen otrygga
 killar: 45 mot 28 procent. I gy2 är andelen otrygga tjejer dubbelt så stor som andelen
 otrygga killar, men på lägre nivå: 36 mot 18 procent.
 I båda åldersgrupper är det en större andel som uttrycker otrygghet i vardags-
@@ -1364,14 +1364,14 @@ Procent
 40
 40        Anneberg, Älvsåker
 Enkätfråga: Hur mycket eller lite tycker du att det finns att göra 38
-på fritiden?                                                Fjärås med omland*
+på fritiden?                                                Fjärås med omland\*
 Svarsalternativ: Väldigt mycket; Ganska mycket; Ganska lite; 30
 Väldigt lite/ingenting.             30                 30
 29    Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska lite eller väldigt 27
 26
 lite/ingenting.
-23       Kungsbacka stad**
+23       Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20 22 21
 (i åk8 även annan kommun) samt personer med okänt område. 20 20
 18                         Onsala
@@ -1382,9 +1382,9 @@ Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 10
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 28
@@ -1459,13 +1459,13 @@ Procent
 40
 Anneberg, Älvsåker
 38
-Fjärås med omland*
+Fjärås med omland\*
 Enkätfråga: Tycker du att det saknas fritidsaktiviteter
 där du bor?                    30 30                  31
 29 29        Frillesås, Åsa, Ölmanäs
 Svarsalternativ: Ja; Nej; Vet inte.           28 27
 26
-Resultaten visar andelen som svarat ja. 23 24 24            Kungsbacka stad**
+Resultaten visar andelen som svarat ja. 23 24 24            Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20 22 21
 (i åk8 även annan kommun) samt personer med okänt område.
 18                  Onsala
@@ -1475,9 +1475,9 @@ Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 10
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -1548,7 +1548,7 @@ Procent
 80
 Anneberg, Älvsåker
 7273
-Enkätfråga: Är du medlem i någon förening? Till exempel      Fjärås med omland*
+Enkätfråga: Är du medlem i någon förening? Till exempel      Fjärås med omland\*
 r
 p
 e
@@ -1606,7 +1606,7 @@ f
 g
 ts
 ,
--
+\-
 k
 ,
 u
@@ -1616,7 +1616,7 @@ a
 tu
 ta
 r-
--
+\-
 e
 e
 l
@@ -1653,7 +1653,7 @@ n g,   60 62636464 65
 58                 Frillesås, Åsa, Ölmanäs
 m.m..
 54
-Svarsalternativ: Nej; Ja, jag är medlem i en förening. 46 50 49 46 Kungsbacka stad**
+Svarsalternativ: Nej; Ja, jag är medlem i en förening. 46 50 49 46 Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40 43
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -1661,9 +1661,9 @@ Minsta antal svarspersoner i områdesgrupperna är 60åk8-och 33
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20  Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 31
@@ -1748,7 +1748,7 @@ t
 r
 iv
 a
-:
+\:
 d
 M
 e
@@ -1765,12 +1765,12 @@ o
 n
 r.
 öjd; Ganska nöjd; Ganska missnöjd;
-80 9088 9192 89 9191 8583 8686 91 85 87 Fjärås med omland*
+80 9088 9192 89 9191 8583 8686 91 85 87 Fjärås med omland\*
 Mycket missnöjd.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller
 mycket nöjd.                    60
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -1779,9 +1779,9 @@ Minsta antal svarspersoner i områdesgrupperna är 58åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 Goda   kompisrelationer
@@ -1838,14 +1838,14 @@ Procent
 100
 n E ä n r k ä d t e f t r å h g a a n : d H la u r r o n m öj d fö e lj l a le n r d m e? is , s m nö e j d d K ä o r m du p is m a e r d ditt liv 92 94959495 9898 95 93 96 93 9595 9795 Anneberg, Älvsåker
 som en av flera delfrågor.
-Fjärås med omland*
+Fjärås med omland\*
 80
 Svarsalternativ: Mycket nöjd; Ganska nöjd; Ganska missnöjd;
 Mycket missnöjd.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller
 mycket nöjd.                    60
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -1854,9 +1854,9 @@ Minsta antal svarspersoner i områdesgrupperna är 61åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 34
@@ -1919,12 +1919,12 @@ Procent
 30
 Anneberg, Älvsåker
 Enkätfråga: Under de senaste sex månaderna, har det hänt att
-du inte kunnat göra något eller inte kunnat köpa något, som  Fjärås med omland*
+du inte kunnat göra något eller inte kunnat köpa något, som  Fjärås med omland\*
 många andra i din ålder gör eller köper, för att din familj inte
 haft råd?
 Svarsalternativ: Ja, flera gånger; Ja, en gång; Nej. 20      Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ”ja, flera gånger”.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 16
 (i åk8 även annan kommun) samt personer med okänt område. 14 Onsala
 Minsta antal svarspersoner i områdesgrupperna är 61åk8-och 12
@@ -1933,9 +1933,9 @@ Minsta antal svarspersoner i områdesgrupperna är 61åk8-och 12
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 9 9
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 7 7
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -1998,12 +1998,12 @@ Procent
 30
 Anneberg, Älvsåker
 Enkätfråga: I vilken grad är du orolig för dina föräldrars
-Fjärås med omland*
+Fjärås med omland\*
 ekonomi?
 Svarsalternativ: Inte alls orolig; Inte särskilt orolig;
 Ganska orolig; Mycket orolig.   20                           Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller mycket orolig.
-18        Kungsbacka stad**
+18        Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 17 17
 (i åk8 även annan kommun) samt personer med okänt område. 15
 14         Onsala
@@ -2012,9 +2012,9 @@ Minsta antal svarspersoner i områdesgrupperna är 60 åk8-och 12
 1010     10   Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 7
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5 6 6 Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5 6 6 Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 37
@@ -2088,13 +2088,13 @@ Bra  skolundervisning
 Procent
 100
 Anneberg, Älvsåker
-d E u n k o ä m tf … rå ? g , a m : N ed u U ko n m de m rv e i r s n n i å n g g r e a n f r s å o g m or e o n m a v d i t n io s d k e o l l f a r . å V g a o d r. tycker 80 82 8583 8686 88 85 8685 Fjärås med omland*
+d E u n k o ä m tf … rå ? g , a m : N ed u U ko n m de m rv e i r s n n i å n g g r e a n f r s å o g m or e o n m a v d i t n io s d k e o l l f a r . å V g a o d r. tycker 80 82 8583 8686 88 85 8685 Fjärås med omland\*
 Svarsalternativ: Inte alls bra; Mindre bra; Ganska bra;
 807877 80 80
 Frillesås, Åsa, Ölmanäs
 Mycket bra.                                    70
 Resultaten visar andelen som svarat ganska eller mycket bra. 60
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -2103,9 +2103,9 @@ Minsta antal svarspersoner i områdesgrupperna är 61åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 39
@@ -2172,22 +2172,22 @@ Procent
 Anneberg, Älvsåker
 Enkätfråga: Nu kommer några frågor om din skola. Vad tycker
 du om…?, med Möjligheten att få extra hjälp och stöd av lärarna
-Fjärås med omland*
+Fjärås med omland\*
 om du behöver det som en av tio delfrågor. 80
 M Sv y a c r k s e a t l t b e r r a n . ativ: Inte alls bra; Mindre bra; Ganska bra; 7272 7676
 8180
 75  78 74 7979 75 7978 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller mycket bra. 60 66
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 Minsta antal svarspersoner i områdesgrupperna är 59åk8-och 40 Onsala
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.     Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -2255,20 +2255,20 @@ Procent
 Enkätfråga: Här följer några påståenden om skolan. Hur tycker Anneberg, Älvsåker
 du att det stämmer in på hur det är på din skola?, med Jag trivs
 med stämningen i min skola som ett av flera påståenden.
-Svarsalternativ: Stämmer inte alls; Stämmer till viss del; 80 83 83 86 Fjärås med omland*
+Svarsalternativ: Stämmer inte alls; Stämmer till viss del; 80 83 83 86 Fjärås med omland\*
 Stämmer till stor del; Stämmer helt; Vet inte. 75       77
 71 71        Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att det stämmer helt/ till 686868
-stor del.                       60 61     6465 60            Kungsbacka stad**
+stor del.                       60 61     6465 60            Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 54
 (i åk8 även annan kommun) samt personer med okänt område.
 Minsta antal svarspersoner i områdesgrupperna är 59åk8-och 40 Onsala
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.     Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 42
@@ -2345,7 +2345,7 @@ Procent
 Anneberg, Älvsåker
 Enkätfråga: Hur ofta känner du dig trygg på följande ställen?,
 med I skolan som en av nio delfrågor.
-Fjärås med omland*
+Fjärås med omland\*
 Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt i
 60
 gy2-enkäten Ej aktuellt.
@@ -2354,21 +2354,21 @@ gy2-enkäten Ej aktuellt.
 Resultaten visar andelen som svarat ”alltid”.
 Gymnasieelever som svarat ”ej aktuellt” ingår inte i analysen.
 5152    53
-48        Kungsbacka stad**
+48        Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 ( M i å in k s 8 ta ä a ve n n ta a l n s n va a r n s p k e o r m so m n u e n r ) i s o a m m r t å p d e e r s s g o ru n p e p r e m rn e a d o ä k r ä 5 n 7 t å o k m 8 r - å o d c e h . 37 35 38 36 33 40 Onsala
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20
 252626                     Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
 Elevinflytande                    Vad jag får lära mig    67 22
-Arbetsformer*          77 –vad eleverna villoch upplever att de får 30
+Arbetsformer\*          77 –vad eleverna villoch upplever att de får 30
 Läxorna           70
 vara med och bestämma om i skolan                17
 Proven             72
@@ -2379,13 +2379,13 @@ Maten             74
 12
 Skolans ”regler”   54
 20
-Skolmiljön ute**  40
+Skolmiljön ute\*\*  40
 19
-Skolmiljön inne***   52
+Skolmiljön inne\*\*\*   52
 20
 Vad jag får lära mig    66
 23
-Arbetsformer*          81
+Arbetsformer\*          81
 40
 Läxorna             78
 24
@@ -2395,9 +2395,9 @@ Proven              78
 Maten              80
 9
 Skolans ”regler”  49 18
-Skolmiljön ute** 37
+Skolmiljön ute\*\* 37
 10
-Skolmiljön inne***     60
+Skolmiljön inne\*\*\*     60
 19
 0  20  40  60 80  100
 Resultat från LUPP 2023, Kungsbacka kommun
@@ -2413,10 +2413,10 @@ vara med och bestämma när det gäller följande?
 Samma svarsalternativ för båda frågor:
 Väldigt lite/ingenting; Ganska lite; Ganska mycket;
 Väldigt mycket.
-* Enkätens formulering: Hur vi ska arbeta,
+\* Enkätens formulering: Hur vi ska arbeta,
 till exempel grupparbete/projektarbete. GY2
-** I enkäten: (exempelvis skolgården)
-*** I enkäten: (exempelvis klassrum och korridor)
+\*\* I enkäten: (exempelvis skolgården)
+\*\*\* I enkäten: (exempelvis klassrum och korridor)
 Resultaten visar andelen som svarat ganska eller
 väldigt mycket på respektive fråga, baserat på
 minst 956 svar i åk8 och 656 svar i gy2.
@@ -2622,22 +2622,22 @@ Vill påverka  i frågor som   rör den  egna  kommunen
 Procent
 80
 Anneberg, Älvsåker
-Fjärås med omland*
+Fjärås med omland\*
 Enkätfråga: Vill du vara med och påverka i frågor som rör din
 kommun?                         60
 Frillesås, Åsa, Ölmanäs
 Svarsalternativ: Ja; Nej.
 Resultaten visar andelen som svarat ja.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40 42 45
 (i åk8 även annan kommun) samt personer med okänt område. 40 39
 Minsta antal svarspersoner i områdesgrupperna är 55åk8-och 3535 36 37 Onsala
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för 29 3029 3031 31
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20 23 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 48
@@ -2656,7 +2656,7 @@ beslutsfattare i kommunen; Skrivit ett förslag 35 32 36 41 38 43 27 22 31
 detta
 Deltagit i demonstration; Diskuterat samhällsfrågor/politik 80
 på forum eller bloggar på internet;                   3
-G D E fö n i i r s l g l e k a a n u t g / i t n e d e g r r e a * a la t t [ t s d f ö i a i n g r m l k ä p l h a g o ä g r l i i l n t l o s i g s m f k r i å t n s / g a i o o e m t r ] n / . h p s ä o a l l l i m s t f ik h rå ä m g ll o e s r f d / r å p v g ä o a l n i t n g ik e e r n p e o å l m l i e n r t e e f n r a n m e i t l ; j ; 5 6 7 0 0 0 6 5 1 6 6 2 6 3 0 5 5 4 5 6 6 5 5 2 7 3 0 75 6 2 7 E tä j n g k jo a r t s i m g e g n ö r k a an
+G D E fö n i i r s l g l e k a a n u t g / i t n e d e g r r e a \* a la t t [ t s d f ö i a i n g r m l k ä p l h a g o ä g r l i i l n t l o s i g s m f k r i å t n s / g a i o o e m t r ] n / . h p s ä o a l l l i m s t f ik h rå ä m g ll o e s r f d / r å p v g ä o a l n i t n g ik e e r n p e o å l m l i e n r t e e f n r a n m e i t l ; j ; 5 6 7 0 0 0 6 5 1 6 6 2 6 3 0 5 5 4 5 6 6 5 5 2 7 3 0 75 6 2 7 E tä j n g k jo a r t s i m g e g n ö r k a an
 40                              något av detta
 Svarsalternativ: Nej; Nej, men jag kan tänka mig att göra
 det; Ja.                     30
@@ -2763,11 +2763,11 @@ n e
 e
 r
 n
-e ller                 676868 68 70 Fjärås med omland*
-förening* [förklaring i not].   60 63  62  61
+e ller                 676868 68 70 Fjärås med omland\*
+förening\* [förklaring i not].   60 63  62  61
 Svarsalternativ: Nej; Nej, men jag kan tänka mig att göra det; Ja. 56 55 57 59 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de gjort något av detta.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -2776,9 +2776,9 @@ Minsta antal svarspersoner i områdesgrupperna är 57åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. mycket 20
 låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta- 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta- 0 SAMTLIGA
 Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 49
@@ -2843,14 +2843,14 @@ Procent
 50
 Enkätfråga: Vilka möjligheter har du att föra fram dina åsikter Anneberg, Älvsåker
 till de som bestämmer i kommunen?
-Svarsalternativ: Mycket stora möjligheter;                   Fjärås med omland*
+Svarsalternativ: Mycket stora möjligheter;                   Fjärås med omland\*
 40
 Ganska stora möjligheter; Ganska små möjligheter; Mycket små
 möjligheter/inga möjligheter; Vet inte.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller mycket stora
 möjligheter.                    30
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område. 25 25
 20 2323                      Onsala
@@ -2859,9 +2859,9 @@ Minsta antal svarspersoner i områdesgrupperna är 56åk8-och 21 21
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för 18 18 19
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 15 16 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 10
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 10 Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 10 Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -2925,23 +2925,23 @@ Procent
 Enkätfråga: Hur stort eller litet förtroende har du för följande Anneberg, Älvsåker
 vuxna personer?, med två delfrågor: Politiker; Vuxna i
 allmänhet.
-Fjärås med omland*
+Fjärås med omland\*
 80
 Svarsalternativ: Mycket stort förtroende; Ganska stort
 förtroende; Ganska litet förtroende; Mycket litet förtroende.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller mycket stort
 förtroende.                     60
-60                  Kungsbacka stad**
+60                  Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 55
 (i åk8 även annan kommun) samt personer med okänt område. 40 46 5153 50 48 52 49 51 Onsala
 Minsta antal svarspersoner i områdesgrupperna är 56åk8-och 41 42
 39 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för 35
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 3332 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 52
@@ -3007,12 +3007,12 @@ Procent
 Enkätfråga: Hur stort eller litet förtroende har du för följande Anneberg, Älvsåker
 vuxna personer?, med två delfrågor: Politiker; Vuxna i
 allmänhet.
-80                     85    Fjärås med omland*
+80                     85    Fjärås med omland\*
 Svarsalternativ: Mycket stort förtroende; Ganska stort
 79
 f R ö e r s tr u o l e ta n t d e e n ; v G is a a n r s a k n a d li e te le t n f ö s r o tr m o e s n v d a e ra ; t M g y a c n k s e k t a li t e e l t le f r ö m rtr y o c e k n e d t e s . tort 75 7171 7373 76 69 73 70 Frillesås, Åsa, Ölmanäs
 förtroende.                     60              63 64
-60 60         Kungsbacka stad**
+60 60         Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -3020,9 +3020,9 @@ Minsta antal svarspersoner i områdesgrupperna är 56åk8-och
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.     Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -3089,12 +3089,12 @@ barnkonventionen?
 Svarsalternativ: Nej, jag vet inte vad barnkonventionen är för Anneberg, Älvsåker
 något; Nej, men jag vet att barnkonventionen finns; Ja delvis, 75
 72
-men jag vet inte vad rättigheterna kan innebära för mig i 68 67 Fjärås med omland*
+men jag vet inte vad rättigheterna kan innebära för mig i 68 67 Fjärås med omland\*
 praktiken; Ja, och jag vet vad rättigheterna kan innebära för mig
 i praktiken.                    60    62                61
 Resultaten visar andelen som svarat med något av de två 5757 59 57 56 55 Frillesås, Åsa, Ölmanäs
 positiva svarsalternativen.            51      50
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 (i åk8 även annan kommun) samt personer med okänt område. 39
 Onsala
@@ -3102,9 +3102,9 @@ Minsta antal svarspersoner i områdesgrupperna är 54 åk8-och
 40gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20  Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 55
@@ -3119,12 +3119,12 @@ har enligt barnkonventionen?   Procent
 Svarsalternativ: Nej, jag tror inte att de flesta vuxna vet vad 80
 barnkonventionen är för något; Nej, men jag tror att de flesta 80 Anneberg, Älvsåker
 vuxna vet att barnkonventionen finns;
-Ja, delvis, men jag tror inte de flesta vuxna bryr sig så mycket 67 68 70 67 Fjärås med omland*
+Ja, delvis, men jag tror inte de flesta vuxna bryr sig så mycket 67 68 70 67 Fjärås med omland\*
 om barnets rättigheter; Ja, och jag tror de flesta vuxna försöker 65
 ta hänsyn till barnets rättigheter. 60 60 62    5960 62 60
 58   Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat med något av de två
-positiva svarsalternativen.                    48      49    Kungsbacka stad**
+positiva svarsalternativen.                    48      49    Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -3132,9 +3132,9 @@ Minsta antal svarspersoner i områdesgrupperna är 48 åk8-och
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20  Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -3220,11 +3220,11 @@ månaderna. Har något av detta hänt dig?, med åtta delfrågor:
 60
 -Någon har spridit bilder på mig mot min vilja;              Anneberg, Älvsåker
 -Jag har blivit utsatt för sexuellt våld eller utnyttjande på sociala
-medier eller online; -Jag har blivit utsatt för sexuellt     Fjärås med omland*
+medier eller online; -Jag har blivit utsatt för sexuellt     Fjärås med omland\*
 våld/utnyttjande IRL.
 Svarsalternativ: Nej; Ja; Vill inte svara.                   Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de blivit utsatta för något 40 42
-av: stöld, misshandel, hot eller sexuellt våld, men –OBS – 37 38 Kungsbacka stad**
+av: stöld, misshandel, hot eller sexuellt våld, men –OBS – 37 38 Kungsbacka stad\*\*
 exkluderar bevittnat våld och bildspridning. 33 33
 G (i r å u k p 8 p e ä n ve ” n S a a m nn t a lig n a k ” o o m m m fa u t n ta ) r s u am ng t d p o e m rs a o r n b e o r s m at e ta d i o a k n ä n n a t t o o m m rå rå d d e e . 27 28 31 2928 28 30 Onsala
 2424      25
@@ -3232,10 +3232,10 @@ Minsta antal svarspersoner är 60åk8-och 40 gy2-ungdomar i 20 Särö, Kullavik
 Älvsåker/Anneberg. Resultatet för gy2-ungdomar i Särö/Kullavik
 redovisas inte pga. mycket låg svarsfrekvens (ingår i ”Samtliga”).
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
 omland med Förlanda, Idala, Gällinge.
 SAMTLIGA
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta- 0
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta- 0
 Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -3410,11 +3410,11 @@ I mitt bostadsområde; I skolan; På väg till eller från skolan; På stan Proc
 eller i centrum; På buss, tåg eller liknande; På internet (exempelvis 60
 sociala medier, onlinespeleller communities); På träningen eller annan Anneberg, Älvsåker
 organiserad fritidsaktivitet; På ungdomens hus, fritidsgård eller liknande.
-Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt beträffande de två Fjärås med omland*
+Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt beträffande de två Fjärås med omland\*
 sista delfrågorna även Ej aktuellt, vilket i gy2-enkäten gäller även
 delfrågorna om skolan.            40 43 44                   Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ”aldrig” eller ”sällan” på minst
-en delfråga. Svarspersoner som inte besvarat någon av delfrågorna 36 36 37 Kungsbacka stad**
+en delfråga. Svarspersoner som inte besvarat någon av delfrågorna 36 36 37 Kungsbacka stad\*\*
 är exkluderade ur analysen.             34 32 34 33 33
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område  Onsala
 27
@@ -3422,9 +3422,9 @@ Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område  Onsala
 Minsta antal svarspersoner är 60åk8-och 40 gy2-ungdomar i Älvsåker/ 20 2323 21 Särö, Kullavik
 Anneberg. Resultatet för gy2-ungdomar i Särö/Kullavik redovisas inte 19
 pga. mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge omland
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge omland
 med Förlanda, Idala, Gällinge.                               SAMTLIGA
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta-Lenas, 0
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, Britta-Lenas, 0
 Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -3447,14 +3447,14 @@ eller communities); På träningen eller annan organiserad Till/från skolan 8
 fritidsaktivitet; På ungdomens hus, fritidsgård eller liknande. 5
 Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt Ungdomens hus/fritidsgård/ 5
 beträffande de två sista delfrågorna även Ej aktuellt,
-liknande*  3
+liknande\*  3
 vilket i gy2-enkäten gäller även delfrågorna om skolan.
 Resultaten visar andelen som svarat ”aldrig” eller ”sällan”. Träningen/annan organiserad 4
-Ungdomar som svarat ”ej aktuellt” om en vardagsmiljö ingår fritidsaktivitet** 2
+Ungdomar som svarat ”ej aktuellt” om en vardagsmiljö ingår fritidsaktivitet\*\* 2
 inte i analysen av denna miljö.
-* Andelen som svarat ”ej aktuellt” var 66 procent i åk8; Bostadsområdet 4
+\* Andelen som svarat ”ej aktuellt” var 66 procent i åk8; Bostadsområdet 4
 77 procent i gy2 (undantagna i analysen).      2
-** Andelen som svarat ”ej aktuellt” var 13 procent i åk8;
+\*\* Andelen som svarat ”ej aktuellt” var 13 procent i åk8;
 2
 19 procent i gy2 (undantagna i analysen). Hemmet
 2
@@ -3480,16 +3480,16 @@ Internet  12
 5
 Enkätfråga: Hur ofta känner du dig trygg på följande ställen?
 Samma fråga ställs två gånger, med sju respektive två delfrågor: Till/från skolan 8 10
-1. I hemmet; I mitt bostadsområde; I skolan;     6
+1\. I hemmet; I mitt bostadsområde; I skolan;     6
 På väg till eller från skolan; På stan eller i centrum;
 Ungdomens hus/fritidsgård/ 5
 På buss, tåg eller liknande; På internet (exempelvis sociala
 5
-medier, onlinespeleller communities) liknande*   5
-2. På träningen eller annan organiserad fritidsaktivitet;
+medier, onlinespeleller communities) liknande\*   5
+2\. På träningen eller annan organiserad fritidsaktivitet;
 Träningen/annan organiserad 4
 På ungdomens hus, fritidsgård eller liknande.   4
-fritidsaktivitet**
+fritidsaktivitet\*\*
 Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt för 4
 de två sista delfrågorna Ej aktuellt.           4
 Bostadsområdet 5
@@ -3498,8 +3498,8 @@ Resultaten visar andelen som svarat ”aldrig” eller ”sällan”. De
 som svarat ”ej aktuellt” ingår inte i analysen av denna miljö.
 2
 Resultaten avser skolelever i kommunen, oavsett var de bor. Hemmet 2
-* Andelen som svarat ”ej aktuellt” var 66 procent. 2
-** Andelen som svarat ”ej aktuellt” var 13 procent. Procent 0 10 20 30 40
+\* Andelen som svarat ”ej aktuellt” var 66 procent. 2
+\*\* Andelen som svarat ”ej aktuellt” var 13 procent. Procent 0 10 20 30 40
 Resultat från LUPP 2023, Kungsbacka kommun
 Otrygga   vardagsmiljöer
 16         Samtliga
@@ -3514,17 +3514,17 @@ Internet  11
 Enkätfråga: Hur ofta känner du dig trygg på följande ställen? 5
 Till/från skolan 7
 Samma fråga ställs två gånger, med sju respektive två delfrågor: 3
-1. I hemmet; I mitt bostadsområde; I skolan;
+1\. I hemmet; I mitt bostadsområde; I skolan;
 På väg till eller från skolan; På stan eller i centrum; Skolan 5 7
 På buss, tåg eller liknande; På internet (exempelvis sociala 3
 medier, onlinespeleller communities)
 Ungdomens hus/fritidsgård/ 3
-2. På träningen eller annan organiserad fritidsaktivitet;
+2\. På träningen eller annan organiserad fritidsaktivitet;
 3
-På ungdomens hus, fritidsgård eller liknande. liknande* 3
+På ungdomens hus, fritidsgård eller liknande. liknande\* 3
 Svarsalternativ: Aldrig; Sällan; Oftast; Alltid samt för Träningen/annan organiserad 2
 de två sista delfrågorna Ej aktuellt, vilket i gy2-enkäten gäller 3
-fritidsaktivitet**
+fritidsaktivitet\*\*
 även delfrågorna om skolan.                    2
 Resultaten visar andelen som svarat ”aldrig” eller ”sällan”. 2
 Bostadsområdet 3
@@ -3533,8 +3533,8 @@ De som svarat ”ej aktuellt” ingår inte i analysen av denna miljö.
 Resultaten avser ungdomar som bor i kommunen, oavsett var
 2
 de går i skolan.                         Hemmet 2
-* Andelen som svarat ”ej aktuellt” var 77 procent. 2
-** Andelen som svarat ”ej aktuellt” var 19 procent. Procent 0 10 20 30 40
+\* Andelen som svarat ”ej aktuellt” var 77 procent. 2
+\*\* Andelen som svarat ”ej aktuellt” var 19 procent. Procent 0 10 20 30 40
 Resultat från LUPP 2023, Kungsbacka kommun
 62
 
@@ -3603,12 +3603,12 @@ Procent
 Anneberg, Älvsåker
 Enkätfråga: Under de senaste sex månaderna, har du blivit
 mobbad, trakasserad eller utfryst?
-Fjärås med omland*
+Fjärås med omland\*
 Svarsalternativ: Ja, under en längre period;
 Ja, enstaka gånger; Nej.
 40                           Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ja (att det skett enstaka 40
-gånger eller under en längre period). 3637 36                Kungsbacka stad**
+gånger eller under en längre period). 3637 36                Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 33 32
 (i åk8 även annan kommun) samt personer med okänt område. 30
 Onsala
@@ -3616,9 +3616,9 @@ Minsta antal svarspersoner i områdesgrupperna är 60 åk8-och
 24
 3 gy 9 2 g -u y n 2 g -u d n o g m d a o r m b a o r s b a o tt s a a i t t S a ä i r ö Ä / lv K s u å l k la e v r i / k A r n e n d e o b v e is rg a . s R in e t s e u l p ta ga te . t för 20 2120 17 20 1818 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 14
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -3681,12 +3681,12 @@ flera gånger det senaste halvåret -- efter kommunområde
 Procent
 60
 Anneberg, Älvsåker
-Fjärås med omland*
+Fjärås med omland\*
 Enkätfråga: Har du, de senaste sex månaderna, upplevt att du
 har blivit orättvist behandlad på ett sätt så att du har mått
 dåligt?                         40                           Frillesås, Åsa, Ölmanäs
 Svarsalternativ: Ja, flera gånger; Ja, någon gång; Nej.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -3695,9 +3695,9 @@ Minsta antal svarspersoner i områdesgrupperna är 57åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 16
-m *I y n c k k l. e D t l u å v g e s h v e a d r , s T fr o e r k p v a e , n H s a i n g h r a u l p s, p H en jä ( lm in g s å a r m i t ” S F a ri m lle t s li å g s a - ” G ). ällinge 14 14 10 9 1110 12 101110 13 9 1111 Vallda
+m \*I y n c k k l. e D t l u å v g e s h v e a d r , s T fr o e r k p v a e , n H s a i n g h r a u l p s, p H en jä ( lm in g s å a r m i t ” S F a ri m lle t s li å g s a - ” G ). ällinge 14 14 10 9 1110 12 101110 13 9 1111 Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 65
@@ -3791,7 +3791,7 @@ Procent
 100
 Anneberg, Älvsåker
 Enkätfråga: Hur bedömer du din hälsa under de senaste sex
-Fjärås med omland*
+Fjärås med omland\*
 månaderna? Hur mår du eller känner du dig? 80
 G R
 Sv
@@ -3818,7 +3818,7 @@ t
 ; s
 i v
 a M
-:
+\:
 r y
 M
 a c n
@@ -3895,7 +3895,7 @@ g;
 74
 6868
 Frillesås, Åsa, Ölmanäs
-58           60         Kungsbacka stad**
+58           60         Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -3904,9 +3904,9 @@ Minsta antal svarspersoner i områdesgrupperna är 61åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 67
@@ -3980,13 +3980,13 @@ Ont i magen; Känt dig stressad; Känt dig nedstämd (deppig Procent
 eller nere); Svårt att somna; Sovit dåligt på natten; 100
 Känt dig aggressiv eller arg.                                Anneberg, Älvsåker
 Svarsalternativ: Sällan eller aldrig; Någon eller några gånger i
-månaden; En gång i veckan; Flera gånger i veckan; I stort sett Fjärås med omland*
+månaden; En gång i veckan; Flera gånger i veckan; I stort sett Fjärås med omland\*
 80
 varje dag.
 Resultaten visar andelen som svarat att man ”flera gånger i 71 Frillesås, Åsa, Ölmanäs
 veckan” eller ”i stort sett varje dag” har haft minst något av de 69 67 67 67
 60             65      65
-sex första typerna av besvär, dvs. undantaget aggressiv/arg. 62 59 59 58 60 Kungsbacka stad**
+sex första typerna av besvär, dvs. undantaget aggressiv/arg. 62 59 59 58 60 Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 53 55 52
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -3996,9 +3996,9 @@ Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -4191,7 +4191,7 @@ k
 a
 o
 ll
-:
+\:
 e
 l a
 H
@@ -4277,14 +4277,14 @@ Procent
 100
 Enkätfråga: Hur ofta brukar du träna så att du blir andfådd eller Anneberg, Älvsåker
 svettas? Räkna träning både i och utanför skolan.
-Svarsalternativ: I stort sett varje dag; Flera gånger i veckan; En Fjärås med omland*
+Svarsalternativ: I stort sett varje dag; Flera gånger i veckan; En Fjärås med omland\*
 80     8484
 gång i veckan; Någon eller några gånger i månaden; Sällan 82 82
 79
 eller aldrig.                        75   77
 72 71    Frillesås, Åsa, Ölmanäs
 R ”f e le s r u a l t g a å te n n g e v r i s i a v r e a c n ka d n e ” le . n som svarat ”i stort sett varje dag” eller 60 68 65 66 64 67
-59           Kungsbacka stad**
+59           Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -4293,9 +4293,9 @@ Minsta antal svarspersoner i områdesgrupperna är 61åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 72
@@ -4362,14 +4362,14 @@ Procent
 40
 Enkätfråga: Hur ofta brukar du..?, med Röka cigaretter som en Anneberg, Älvsåker
 av åtta delfrågor.
-Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland*
+Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland\*
 månaden; En gång i veckan; Flera gånger i veckan; I stort sett
 30
 varje dag.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de röker cigaretter
 minst varje vecka.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -4377,8 +4377,8 @@ Minsta antal svarspersoner i områdesgrupperna är 60åk8-och
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 10  Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 10
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
-o * m *I l n a k n l d . V m ill e a d s t F a ö d r e la n n , d S a ö , d I e d r a s l t a a , d G e ä n l , l in Fo ge rs . , Varla, Hede, Kolla, 0 5 0 4 4 0 2 1 2 0 4 5 3 1 3 SAMTLIGA
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+o \* m \*I l n a k n l d . V m ill e a d s t F a ö d r e la n n , d S a ö , d I e d r a s l t a a , d G e ä n l , l in Fo ge rs . , Varla, Hede, Kolla, 0 5 0 4 4 0 2 1 2 0 4 5 3 1 3 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -4416,14 +4416,14 @@ Procent
 40
 Enkätfråga: Hur ofta brukar du..?, med Röka e-cigaretter som Anneberg, Älvsåker
 en av åtta delfrågor.
-Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland*
+Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland\*
 månaden; En gång i veckan; Flera gånger i veckan; I stort sett
 30
 varje dag.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de röker cigaretter
 minst varje vecka.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -4432,10 +4432,10 @@ Minsta antal svarspersoner i områdesgrupperna är 60åk8-och
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 10 12 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 10 10
 9
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 8 7 7 7 Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 8 7 7 7 Vallda
 6          6
 omland med Förlanda, Idala, Gällinge. 5 4 4 3       5
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -4504,14 +4504,14 @@ Procent
 40
 Enkätfråga: Hur ofta brukar du..?, med Snusa som en av åtta  Anneberg, Älvsåker
 delfrågor.
-Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland*
+Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland\*
 månaden; En gång i veckan; Flera gånger i veckan; I stort sett
 varje dag.                      30                      31
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de snusar minst varje
 26
 vecka.
-Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20 23 23 Kungsbacka stad**
+Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 20 23 23 Kungsbacka stad\*\*
 (i åk8 även annan kommun) samt personer med okänt område. 20
 18  18        Onsala
 Minsta antal svarspersoner i områdesgrupperna är 60 åk8-och
@@ -4519,9 +4519,9 @@ Minsta antal svarspersoner i områdesgrupperna är 60 åk8-och
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 10 12 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
 9
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge. 3 5 4 4 5
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 2 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 2 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 76
@@ -4596,14 +4596,14 @@ Procent
 80
 Enkätfråga: Hur ofta brukar du..?, med Dricka starköl,       Anneberg, Älvsåker
 starkcider, alkoläsk, vin eller sprit som en av åtta delfrågor.
-Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland*
+Svarsalternativ: Aldrig; Sällan; Någon eller några gånger i  Fjärås med omland\*
 månaden; En gång i veckan; Flera gånger i veckan; I stort sett
 60
 varje dag.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de dricker alkohol 56
 minst varje månad.                             50 51
-47  Kungsbacka stad**
+47  Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 (i åk8 även annan kommun) samt personer med okänt område. 39 41 39
 Onsala
@@ -4611,9 +4611,9 @@ Minsta antal svarspersoner i områdesgrupperna är 60 åk8-och
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20  Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 14 Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 14 Vallda
 omland med Förlanda, Idala, Gällinge. 10
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 4 6 7 4 6 7 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 4 6 7 4 6 7 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -4677,12 +4677,12 @@ läkarordination)?            Procent
 Med narkotika avses till exempel marijuana, amfetamin, kokain, 30
 heroin, spice, GHB och andra narkotikaklassade preparat.   Anneberg, Älvsåker
 Räkna även med om du tagit receptbelagda lugnande,
-smärtstillande eller sömnmedel utan läkarordination.       Fjärås med omland*
+smärtstillande eller sömnmedel utan läkarordination.       Fjärås med omland\*
 Exempelvis ADHD medicin, Tramadoleller Xanor.
 Svarsalternativ: Ja, flera gånger; Ja, ett fåtal gånger;   Frillesås, Åsa, Ölmanäs
 Ja, en gång; Nej.             20
 20
-Resultaten visar andelen som svarat ja (en eller flera gånger). Kungsbacka stad**
+Resultaten visar andelen som svarat ja (en eller flera gånger). Kungsbacka stad\*\*
 17
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område. 14 Onsala
@@ -4693,10 +4693,10 @@ gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 9
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
 Vallda
 6     6
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5 5
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5 5
 4
 omland med Förlanda, Idala, Gällinge. 3  3                 SAMTLIGA
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 79
@@ -4727,19 +4727,19 @@ Resultat från LUPP 2023, Kungsbacka kommun
 
 Spelar  om   pengar
 
-- efter kommunområde
+\- efter kommunområde
 
 Procent
 30
 Enkätfråga: Hur ofta brukar du…, med Spela om pengar som en Anneberg, Älvsåker
 av åtta delfrågor.
-Svarsalternativ: Sällan eller aldrig; Någon eller några gånger i Fjärås med omland*
+Svarsalternativ: Sällan eller aldrig; Någon eller några gånger i Fjärås med omland\*
 månaden; En gång i veckan; Flera gånger i veckan; I stort sett 24
 varje dag.
 20                21         Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat att de spelar om pengar
 minst varje månad.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 16
 (i åk8 även annan kommun) samt personer med okänt område. 15
 14          Onsala
@@ -4752,9 +4752,9 @@ gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 8  8
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”).
 6     6 6               Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 5
 omland med Förlanda, Idala, Gällinge.  3
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 80
@@ -4813,20 +4813,20 @@ Resultat från LUPP 2023, Kungsbacka kommun
 
 Livstillfredsställelse
 
-- efter kommunområde
+\- efter kommunområde
 
 Procent
 100
 Enkätfråga: Hur nöjd eller missnöjd är du med ditt liv       Anneberg, Älvsåker
 n so ä m r d e e n t h a a v n fl d e l r a a r d o e m lf r f å ö g lja or n . de?, med Livet i sin helhet
 80
-92 898989 91 93 9190 858687 9191 96 90 Fjärås med omland*
+92 898989 91 93 9190 858687 9191 96 90 Fjärås med omland\*
 Svarsalternativ: Mycket nöjd; Ganska nöjd; Ganska missnöjd;
 Mycket missnöjd.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller
 mycket nöjd.                    60
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -4835,9 +4835,9 @@ Minsta antal svarspersoner i områdesgrupperna är 59 åk8-och
 Särö, Kullavik
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -4935,14 +4935,14 @@ Procent
 80
 78 79         Anneberg, Älvsåker
 76
-70 7070  Fjärås med omland*
+70 7070  Fjärås med omland\*
 Enkätfråga: Hade du ett sommarjobb i somras?
 60                 64
 Svarsalternativ: Ja; Nej, men jag försökte att få ett sommarjobb
 Frillesås, Åsa, Ölmanäs
 utan att lyckas; Nej, jag sökte inte något sommarjobb.
 Resultaten visar andelen som svarat ja.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 40
 (i åk8 även annan kommun) samt personer med okänt område.
 Onsala
@@ -4951,10 +4951,10 @@ Minsta antal svarspersoner i områdesgrupperna är 58 åk8-och
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga. 20 22 Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 201919
 17
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 1415 Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge 1415 Vallda
 12
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -5032,13 +5032,13 @@ förberedande program på gymnasiet; Ja, yrkesprogram på gymnasiet; Procent
 Ja, på gymnasiet men osäker på vilken programinriktning jag ska välja; 100
 Nej, jag tror inte jag kommer läsa vidare efter grundskolan; Vet inte. Anneberg, Älvsåker
 Enkätfråga till gy2-ungdomar: Tror du att du kommer läsa vidare efter
-gymnasiet, direkt eller senare?Svarsalternativ: Ja, jag tror att jag 88 Fjärås med omland*
+gymnasiet, direkt eller senare?Svarsalternativ: Ja, jag tror att jag 88 Fjärås med omland\*
 80
 kommer att läsa vidare vid universitet/högskola, Komvux, folkhögskola
 79  79
 e gy ll m er n m as o i t e s t v ; a V r e a t n i d n e te ; . Nej, jag tror inte att jag kommer läsa vidare efter 60 72 77 74 68 77 68 66 7071 65 67 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat med någotdera ja-svar.
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område 53
 (i åk8 även annan kommun) samt personer med okänt område.
 40                         Onsala
@@ -5048,9 +5048,9 @@ Särö, Kullavik
 ungdomar bosatta i Särö/Kullavik redovisas inte pga. mycket låg
 svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
 Vallda
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge omland
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge omland
 med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
@@ -5109,14 +5109,14 @@ Procent
 100
 Anneberg, Älvsåker
 93         93
-Enkätfråga: Hur ser du på framtiden? 8988888990 89 88 9190 8990 Fjärås med omland*
+Enkätfråga: Hur ser du på framtiden? 8988888990 89 88 9190 8990 Fjärås med omland\*
 80        84
 Svarsalternativ: Mycket positivt; Ganska positivt; 80
 Ganska negativt; Mycket negativt.
 Frillesås, Åsa, Ölmanäs
 Resultaten visar andelen som svarat ganska eller mycket
 positivt.                       60
-Kungsbacka stad**
+Kungsbacka stad\*\*
 Gruppen ”Samtliga” omfattar ungdomar bosatta i annat område
 (i åk8 även annan kommun) samt personer med okänt område.
 40                           Onsala
@@ -5124,9 +5124,9 @@ Minsta antal svarspersoner i områdesgrupperna är 53 åk8-och
 40 gy2-ungdomar bosatta i Älvsåker/Anneberg. Resultatet för
 gy2-ungdomar bosatta i Särö/Kullavik redovisas inte pga.     Särö, Kullavik
 mycket låg svarsfrekvens i gruppen (ingår i ”Samtliga”). 20
-*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
+\*Inkl. Duvehed, Torpa, Hanhals, Hjälm samt Frillesås-Gällinge Vallda
 omland med Förlanda, Idala, Gällinge.
-**Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
+\*\*Inkl. Villastaden, Söderstaden, Fors, Varla, Hede, Kolla, 0 SAMTLIGA
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 87
@@ -5150,15 +5150,15 @@ vuxenutbildningen gällande verksamhetsår 2023.
 Nämnden för Gymnasium och Arbetsmarknad godkänner att fokusområden för
 vuxenutbildningen under 2024 är:
 
-1.  Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa den
+1\.  Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa den
 föreslagna handlingsplanen
 
-2.  Upphandling - Förberedelse och implementering av nytt avtal
+2\.  Upphandling - Förberedelse och implementering av nytt avtal
 
-3.  Implementering av nytt verksamhetssystem EdLevo - Översyn av administrativa
+3\.  Implementering av nytt verksamhetssystem EdLevo - Översyn av administrativa
 processer och övergång från Alvis till EdLevo
 
-4.  Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
+4\.  Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
 utbildningsinsatser i nära samverkan med arbetsgivare.
 
 Sammanfattning av ärendet
@@ -5329,8 +5329,8 @@ samtidigt en ökning av F-betyg på yrkeskurser.
 
 Tabell 3. Andel godkända betyg på kursdeltagarnivå
 
-* Nationell statistik för riket 2023 presenteras i juni 2024, därav statistik för riket från 2022
-** Förändrad uträkning av betygsresultat på nationell nivå vilket gör att jämförbar siffra saknas
+\* Nationell statistik för riket 2023 presenteras i juni 2024, därav statistik för riket från 2022
+\*\* Förändrad uträkning av betygsresultat på nationell nivå vilket gör att jämförbar siffra saknas
 
 Analys: Varför gick det som det gick?
 Analysen är att det under året genomförts en större andel kombinationsutbildningar,
@@ -5355,7 +5355,7 @@ stödresurser såsom specialpedagog och kurator.
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023 | Kvinnor<br>83%<br>85 % | Män<br>78 % | Kvinnor<br>94%<br>95 % | Män<br>90% | Kvinnor<br>89%<br>95 % | Män<br>90 % |
 | 2022 | Kvinnor<br>92%<br>90 % | Män<br>95 % | Kvinnor<br>89%<br>89 % | Män<br>89% | Kvinnor<br>90%<br>91 % | Män<br>85 % |
-| Riket<br>2022* | 94 % |  | ** |  | 87 % |  |
+| Riket<br>2022\* | 94 % |  | \*\* |  | 87 % |  |
 
 <!-- sida 95 -->
 
@@ -5450,15 +5450,15 @@ Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 
 Nämnden för Gymnasium & Arbetsmarknad beslutade i maj 2023 att
 vuxenutbildningen skulle fokusera på följande fyra områden under 2023:
-1. Fortsatt arbete för att minska andelen F i matematik
+1\. Fortsatt arbete för att minska andelen F i matematik
 
-2. Ökade insatser kring förberedande jobbspår och jobbspår
-3. Upphandling
+2\. Ökade insatser kring förberedande jobbspår och jobbspår
+3\. Upphandling
 
-4. Översyn av samarbetet mellan gymnasieskolan och vuxenutbildningen,
+4\. Översyn av samarbetet mellan gymnasieskolan och vuxenutbildningen,
 ansvarsfördelning och utvecklingsarbete.
 
-5. Fortsatt utveckling av sfi
+5\. Fortsatt utveckling av sfi
 Utöver de fyra fokusområden som nämnden fattade beslut om i maj 2023 har
 förvaltningen och Vuxnas lärande initierat en avbrottsuppföljning som genomförts
 tillsammans med studie- och yrkesvägledarna på Kompetenscentrum. Mer om detta
@@ -5484,7 +5484,7 @@ trots att det fortfarande är en stor andel avbrott som görs.
 
 Tabell 5. Andel avbrott på Kursdeltagarnivå
 
-*Nationell statistik för riket 2023 presenteras i juni 2024, därav statistik för riket från 2022.
+\*Nationell statistik för riket 2023 presenteras i juni 2024, därav statistik för riket från 2022.
 
 Under hösten 2023 gjordes en avbrottsuppföljning där Vuxnas lärande tillsammans
 med Studie- och yrkesvägledningen ringde upp de elever som registrerats med
@@ -5524,7 +5524,7 @@ ovan att eleven inte har haft kommunikation med sin lärare.
 | 2021 | 42,1 % | 16 % | 12,5 % |
 | 2022 | 58,2 % | 20,8 % | 15,5 % |
 | 2023 | 54,1 % | 9,8 % | 12,6 % |
-| Riket 2022* | 46,3 % | 21,3 % | 21,9 % |
+| Riket 2022\* | 46,3 % | 21,3 % | 21,9 % |
 
 <!-- sida 99 -->
 
@@ -5810,7 +5810,7 @@ Tabell 8. Genomsnittlig lärsträcka för betygssatta kurser på sfi – Samtlig
 
 [Tabell 105-1](handlingar.tabeller/105-1.csv)
 
-| Studieväg | Antal betyg | Lärsträcka<br>genomsnitt | Max timmar* |
+| Studieväg | Antal betyg | Lärsträcka<br>genomsnitt | Max timmar\* |
 | --- | --- | --- | --- |
 | 1A | 17 | 725 | 500 |
 | 1B | 32 | 1014 | 550 |
@@ -5987,13 +5987,13 @@ Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 Utifrån de kommunövergripande målen, nämndens mål och direktiv samt
 förvaltningens genomförandeplan föreslås nedan fokusområden för 2024:
 
-1. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat
+1\. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat
 följa den föreslagna handlingsplanen
-2. Upphandling - Förberedelse och implementering av nytt avtal
+2\. Upphandling - Förberedelse och implementering av nytt avtal
 
-3. Implementering av nytt verksamhetssystem EdLevo - Översyn av
+3\. Implementering av nytt verksamhetssystem EdLevo - Översyn av
 administrativa processer och övergång från Alvis till EdLevo
-4. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya
+4\. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya
 innovativa utbildningsinsatser i nära samverkan med arbetsgivare.
 
 20
@@ -6013,7 +6013,7 @@ T
 0
 2
 4
-:
+\:
 3
 
 Studieavbrott                   och
@@ -6069,11 +6069,11 @@ Innehåll
 
 Sammanfattning ...................................................................................... 5
 
-1. Inledning.............................................................................................. 8
+1\. Inledning.............................................................................................. 8
 Bakgrund.................................................................................................................. 8
 
 Syfte och frågeställningar ........................................................................................ 9
-2. Genomströmning i sfi ....................................................................... 12
+2\. Genomströmning i sfi ....................................................................... 12
 
 Tiden att slutföra sfi varierar mellan studievägarna ............................................... 12
 Genomströmningen beror på vilken kurs eleven startade på ................................ 12
@@ -6087,20 +6087,20 @@ Elevernas ålder påverkar studieresultaten.....................................
 Skillnad mellan män och kvinnor ........................................................................... 17
 Orsaker till variationer i genomströmningen .......................................................... 17
 
-3. Studieavbrott i sfi ............................................................................. 18
+3\. Studieavbrott i sfi ............................................................................. 18
 Mer än var tredje elev avbröt studierna utan godkänt i någon kurs ....................... 18
 
 Elever gör studieavbrott från samtliga kurser i sfi .................................................. 19
 Orsaker till studieavbrott ........................................................................................ 20
 
 Elevers etablering på arbetsmarknaden efter sfi ................................................... 24
-4. Huvudmännens systematiska kvalitetsarbete ................................ 27
+4\. Huvudmännens systematiska kvalitetsarbete ................................ 27
 
 Uppföljning av genomströmning ............................................................................ 27
 Uppföljning av studieavbrott................................................................................... 27
 
 Åtgärder för att öka genomströmning och motverka studieavbrott ........................ 29
-5. Slutsatser och förslag ...................................................................... 34
+5\. Slutsatser och förslag ...................................................................... 34
 
 Skillnader mellan huvudmännen gällande studieavbrotten ................................... 34
 Genomströmning och studieavbrott i det systematiska kvalitetsarbetet ................ 34
@@ -6258,7 +6258,7 @@ god samverkan mellan de egna förvaltningarna och med andra aktörer.
 
 <!-- sida 117 -->
 
-1.   Inledning
+1\.   Inledning
 
 Regeringen har i regleringsbrevet för år 2023 gett Skolverket i uppdrag att
 kartlägga studieavbrott i kommunal vuxenutbildning i svenska för invandrare (sfi)
@@ -6288,7 +6288,7 @@ stor påverkan på sfi och har bidragit till ett ”kunskapstapp”. Enligt resp
 i Skolverkets studie berör kunskapstappet främst elever inom studieväg 1 och 2
 och i huvudsak de inledande kurserna A och B.3 Pandemin kan dock inte förklara
 den minskade genomströmning som noterades i flera av kurserna redan 2018–
-2019.
+2019\.
 
 Den officiella statistiken visar också att av samtliga kursdeltagare som studerade i
 sfi under 2022 avbröt knappt hälften (46 procent) sina studier. Andelen
@@ -6460,7 +6460,7 @@ av statistiken.
 
 <!-- sida 121 -->
 
-2.   Genomströmning          i sfi
+2\.   Genomströmning          i sfi
 
 I detta kapitel analyserar vi elevernas genomströmning i sfi utifrån registerdata.
 Vi undersöker hur mönstren i genomströmningen ser ut på nationell nivå och
@@ -6472,7 +6472,7 @@ Tiden att slutföra sfi varierar mellan studievägarna
 
 Diagrammet nedan visar genomströmningen av elever i sfi som avslutat kurs D år
 
-2022. Efter fem studieår hade 89 procent av samtliga elever avslutat kurs D.
+2022\. Efter fem studieår hade 89 procent av samtliga elever avslutat kurs D.
 Andelen elever som avslutat kurs D efter fem år skiljer sig mellan studievägarna.
 På studieväg 1 hade 70 procent av eleverna avslutat kurs D. Motsvarande för
 elever som läste på studieväg 2 och studieväg 3 var 84 respektive 95 procent.
@@ -6826,7 +6826,7 @@ ta lång tid för eleverna att ta sig igenom kurserna.
 
 <!-- sida 127 -->
 
-3.   Studieavbrott      i sfi
+3\.   Studieavbrott      i sfi
 
 I detta kapitel redovisar vi statistik över studieresultaten för elever i sfi när det
 gäller andelen elever som avslutat respektive andelen som avbrutit en kurs inom
@@ -7315,7 +7315,7 @@ Källa: Skolverket
 
 <!-- sida 136 -->
 
-4.   Huvudmännens          systematiska
+4\.   Huvudmännens          systematiska
 
 kvalitetsarbete
 
@@ -7657,7 +7657,7 @@ att göra utan tolkhjälp, något som verksamheterna inte alltid har möjlighet 
 
 <!-- sida 143 -->
 
-5.   Slutsatser    och   förslag
+5\.   Slutsatser    och   förslag
 
 I detta kapitel diskuterar vi studiens resultat utifrån uppdraget. Vi inleder med det
 som vi utifrån studien kan säga om skillnaderna mellan huvudmännen när det
@@ -7766,33 +7766,33 @@ motverka studieavbrott i sfi.
 
 Framgångsfaktorer när det gäller att följa upp varför avbrott från sfi sker är:
 
--  att tidigt ta kontakt med elever som gjort avbrott av okänd anledning
+\-  att tidigt ta kontakt med elever som gjort avbrott av okänd anledning
 via telefonsamtal, mejl, sms eller genom uppsökande kontakt. Att ha
 tillgång till tolk vid behov i kontakten med eleverna.
 
--  att samverka med andra förvaltningar och aktörer kring eleverna för
+\-  att samverka med andra förvaltningar och aktörer kring eleverna för
 att fånga den information om eleverna som inte finns att tillgå inom
 den egna förvaltningen.
 
 Framgångsfaktorer för att motverka studieavbrott:
 
--  att tidigt ta kontakt med elever som har börjat få frånvaro. Det kan
+\-  att tidigt ta kontakt med elever som har börjat få frånvaro. Det kan
 leda till att eleverna i högre grad återgår till sina studier och att
 avbrotten minskar.
 
--  att huvudmän etablerar en god samverkan omkring de enskilda
+\-  att huvudmän etablerar en god samverkan omkring de enskilda
 
 eleverna med olika aktörer inom förvaltningen (arbetsmarknadsenhet,
 socialtjänst etcetera) liksom med Arbetsförmedlingen. Detta för att
 planera mer långsiktigt för elever både ur ett utbildnings- och
 arbetsmarknadsperspektiv.
 
--  att huvudmän har olika funktioner som till exempel studiehandledare
+\-  att huvudmän har olika funktioner som till exempel studiehandledare
 
 på modersmål, studie- och yrkesvägledare, kuratorer, studiecoacher
 med flera, nära och tillgängliga för elever och lärare i utbildningen.
 
--  att utbildningen sätter upp individuella mål för när i tiden elever ska
+\-  att utbildningen sätter upp individuella mål för när i tiden elever ska
 ha klarat en kurs eller slutfört utbildningen, i syfte att motivera
 eleven.
 
@@ -8155,23 +8155,23 @@ beviljad ledighet.38
 Etableringsstatus: Statistiska Centralbyråns beskrivning av
 etableringsmåttet 2020 enligt indelningen:39
 
--  Etablerad: Förvärvsinkomst över en viss nivå. För 2021 var gränsen
+\-  Etablerad: Förvärvsinkomst över en viss nivå. För 2021 var gränsen
 18 092 kr i månaden i genomsnitt under året. Kan även ha studerat
 
 under året.
 
--  Osäker ställning: Relativt låg förvärvsinkomst alternativt att personen
+\-  Osäker ställning: Relativt låg förvärvsinkomst alternativt att personen
 har varit öppet arbetslös under året. Har inte studerat under året.
 
--  Svag ställning: Låg förvärvsinkomst alternativt heltidsarbetslöshet
+\-  Svag ställning: Låg förvärvsinkomst alternativt heltidsarbetslöshet
 
 under en stor del av året. Har inte studerat under året.
 
--  Högskolestuderande: Kan ha arbetat en del av året.
+\-  Högskolestuderande: Kan ha arbetat en del av året.
 
--  Övriga studier: Andra typer av studier. Kan ha arbetat en del av året.
+\-  Övriga studier: Andra typer av studier. Kan ha arbetat en del av året.
 
--  Varken arbete eller studier. Ingen förvärvsinkomst. Inga studier.
+\-  Varken arbete eller studier. Ingen förvärvsinkomst. Inga studier.
 
 38 7 kap. 1 § förordningen (2011:1108) om vuxenutbildning.
 39 Skolverket (2023c)
@@ -8266,8 +8266,8 @@ Innehållsförteckning
 3 Checklista för årlig uppföljning ...................................................................................... 5
 3.1. Fackliga synpunkter från förvaltningens lokala samverkansgrupper .................................................... 10
 3.2. Fackliga synpunkter från förvaltningssamverkansgruppen.................................................................. 10
-4. Tillbud, olyckor och ohälsa ........................................................................................... 12
-5. Sammanfattande bedömning samt fortsatta utvecklingsområden............................. 16
+4\. Tillbud, olyckor och ohälsa ........................................................................................... 12
+5\. Sammanfattande bedömning samt fortsatta utvecklingsområden............................. 16
 
 2
 
@@ -8498,7 +8498,7 @@ få ett mer tydligt resultat att följa upp.
 Den centrala samverkansgruppen för Gymnasium & Arbetsmarknad, FSG, behandlade resultatet av
 
 förvaltningens årliga uppföljning av det systematiska arbetsmiljöarbetet vid sammanträde den 7 maj
-2024. Följande är ett utdrag ur protokollet för FSG i ärendet:
+2024\. Följande är ett utdrag ur protokollet för FSG i ärendet:
 HR- och kommunikationschef samt HR-generalist redogör kort för arbetet med den årliga
 
 uppföljningen av det systematiska arbetsmiljöarbetet. Årets rapport har delgivits
@@ -8533,7 +8533,7 @@ detta utvecklingsområde framåt.
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2023
 
-4. Tillbud, olyckor   och  ohälsa
+4\. Tillbud, olyckor   och  ohälsa
 
 Ett tillbud är en oönskad händelse som inte ledde till, men skulle ha kunnat leda till ohälsa eller
 olycksfall. Tillbud och olycksfall eller ohälsa är viktiga signaler för arbetsgivaren om risker i
@@ -8620,7 +8620,7 @@ brister i lokaler och ventilation.
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2023
 
-5. Sammanfattande      bedömning     samt   fortsatta
+5\. Sammanfattande      bedömning     samt   fortsatta
 utvecklingsområden
 
 Medarbetares och skyddsombuds delaktighet i arbetsmiljöarbetet
@@ -8699,20 +8699,20 @@ samtidigt som ytterligare behov av utveckling inom området föreligger.
 På en övergripande nivå kommer fokus för utvecklingen av det systematiska arbetsmiljöarbetet det
 närmaste året vara följande områden:
 
-1. Påbörja arbetet med de forskningsbaserade friskfaktorerna som ska ingå i årshjulet och
+1\. Påbörja arbetet med de forskningsbaserade friskfaktorerna som ska ingå i årshjulet och
 stödmaterial för SAM
 
-2. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
-3. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som
+2\. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
+3\. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som
 verksamheterna behöver ha kunskap om.
 
-4. Fortsatt utveckling av facklig samverkan
+4\. Fortsatt utveckling av facklig samverkan
 
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda
 upplever att de har tillräckligt med kunskap, kompetens och befogenheter för att utföra sina
 uppgifter.
 
-6. Se över och tydliggöra frågorna för uppföljningen av SAM-checklistan, vilket kommer göras
+6\. Se över och tydliggöra frågorna för uppföljningen av SAM-checklistan, vilket kommer göras
 kommunövergripande.
 
 Linnea Söderman, HR-generalist & Elisabeth Grimhusen, HR- och kommunikationschef
@@ -8795,10 +8795,10 @@ för dem att fortsätta bidra till vården i Kungsbacka.
 
 Förslag till beslut:
 
-1. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i kommunen
+1\. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i kommunen
 
 efter avslutad utbildning i samråd med Nämnden för Vård och Omsorg
-2. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i kommunen
+2\. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i kommunen
 efter avslutad utbildning i samråd med förvaltningen för Vård och Omsorg
 
 May-LouiseFlyrin(S)
@@ -9255,13 +9255,13 @@ hänvisning till att ett införande av tolkavgift strider mot lagstiftningen i s
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Gymnasium &
@@ -9435,14 +9435,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -10026,26 +10026,26 @@ följande.
 
 Maj-juni
 
-- Årlig rapport med sammanställning och analys av resultatet av årets dataskyddsarbete,
+\- Årlig rapport med sammanställning och analys av resultatet av årets dataskyddsarbete,
 Uppföljning i förvaltningsledning och nämnd.
 Juni
 
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling och
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling och
 processöversikter, information till registrerade och information till användare/personal
 
 September-Oktober
-- Likvärdighetsforum och egenkontroller.
+\- Likvärdighetsforum och egenkontroller.
 
-- Återrapportering av åtgärder utifrån Kolla dataskyddet.
+\- Återrapportering av åtgärder utifrån Kolla dataskyddet.
 
-- Uppföljning av rutiner kring systemförvaltningen.
+\- Uppföljning av rutiner kring systemförvaltningen.
 December
 
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling och
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling och
 processöversikter, generell information
 
 Februari-mars
-- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet. Uppföljning i
+\- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet. Uppföljning i
 
 förvaltningsledning.
 
@@ -12248,7 +12248,7 @@ sammanhållen period innan det slutliga betyget sätts.
 framtidens studier och yrkesliv.
 •  Nya examensmål, programmål och programstrukturer ska tillämpas från den 1 juli
 
-2025.
+2025\.
 
 <!-- sida 260 -->
 
@@ -12338,7 +12338,7 @@ Anteckningar vid kommunrevisionens dialog med presidiet i nämnden
 för gymnasium & arbetsmarknad – del av grundläggande granskning
 2024
 
-1. Beskriv aktuella och väsentliga händelser, risker och utmaningar inom nämndens
+1\. Beskriv aktuella och väsentliga händelser, risker och utmaningar inom nämndens
 verksamheter.
 
 Arbetsmarknad
@@ -12361,7 +12361,7 @@ Verksamheterna ser att den psykiska ohälsan bland unga ökar i Kungsbacka såv�
 nationellt. Presidiet uppger att nämnden och förvaltningen arbetar aktivt med att motverka
 psykisk ohälsa och har sökt pengar centralt för att arbeta med detta.
 
-2. På vilket sätt säkerställer nämnden en balans i utbud av program på olika
+2\. På vilket sätt säkerställer nämnden en balans i utbud av program på olika
 gymnasieskolor?
 
 a. Vilka analyser görs av behov?
@@ -12375,7 +12375,7 @@ Antalet elever som söker olika gymnasieprogram stämmer inte med kompetensbehov
 samhället. Exempelvis söker få till Vård och omsorg samt Barn och fritid samtidigt som
 behovet av personal i dessa verksamheter är högt.
 
-3. I vilken utsträckning har lågkonjunkturen påverkat arbetsmarknaden och antalet
+3\. I vilken utsträckning har lågkonjunkturen påverkat arbetsmarknaden och antalet
 personer i Kungsbacka som är beroende av ekonomiskt bistånd?
 
 Nämnden har fortsatt låga kostnader för försörjningsstöd vilket innebär att invånare fortsatt
@@ -12395,20 +12395,20 @@ www.kungsbacka.se
 KUNGSBACKA KOMMUN
 
 2 (2)
-4. Beskriv hur nämnden styr verksamheten samt följer upp att styrningen fått
+4\. Beskriv hur nämnden styr verksamheten samt följer upp att styrningen fått
 genomslag.
 Nämnden arbetar exempelvis med livsstilsfaktorer för att kunna höja resultaten i skolorna.
 Arbetet görs i projektet fyrklövern och ska göras kommunövergripande tillsammans med
 nämnden för förskola & grundskola, kultur & fritid samt individ- & familjeomsorg.
 
-5. Har nämndens arbete med riskanalysen som ligger till grund för nämndens interna
+5\. Har nämndens arbete med riskanalysen som ligger till grund för nämndens interna
 kontrollplan förändrats sedan föregående år?
 
 a. I vilken utsträckning är nämnden involverad i riskanalysen inför intern
 kontrollarbetet?
 
 Presidiet värderar riskerna innan internkontrollplanen beslutas i nämnden.
-6. Hur påverkar det ekonomiska omvärldsläget nämndens budget och verksamhet?
+6\. Hur påverkar det ekonomiska omvärldsläget nämndens budget och verksamhet?
 
 a. Har nämnden behövt vidta några åtgärder kopplat till ekonomi?
 Gymnasieverksamheten har ekonomiska utmaningar. Det beror delvis på att Mölndals elever
@@ -12434,7 +12434,7 @@ Antagen 22 april 2024
 
 Revisionsplan 2024
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -12458,7 +12458,7 @@ och stiftelser genom de lekmannarevisorer/valda revisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -12492,7 +12492,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2024
+3\. Grundläggande granskning 2024
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -12566,7 +12566,7 @@ kompletterade intervjuer.
 
 Revisionen av den mellan Härryda, Kungsbacka, Mölndal, Öckerö och Partille
 kommungemensamma överförmyndarnämnden regleras i separat arbetsordning, fastställd 2018-10-
-22. Under 2024 är Öckerö kommun sammankallande kommun i revisionen av den gemensamma
+22\. Under 2024 är Öckerö kommun sammankallande kommun i revisionen av den gemensamma
 överförmyndarnämnden.
 
 Samverkansnämnder i Region Halland
@@ -12575,7 +12575,7 @@ Tillsammans med Region Halland och länets övriga kommuner har Kungsbacka kommu
 samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam nämnd för
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 
 Fördjupade granskningar
 
@@ -12605,7 +12605,7 @@ utarbetas inför varje förstudie.
 Inga förstudier har ännu planerats inför 2024. Ytterligare förstudier kan tillkomma. Revisionsplanen
 uppdateras med dessa när revisionen fattat beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -12619,13 +12619,13 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
 
--  driftredovisning och investeringsredovisning samt noter
--  sammanställda räkenskaper
+\-  driftredovisning och investeringsredovisning samt noter
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
--  delårsrapport
+\-  förvaltningsberättelse
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 
@@ -12643,7 +12643,7 @@ resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs ino
 
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 
 Lekmannarevisionen av kommunens bolag och de valda revisorernas granskning av stiftelsen
 omfattar en grundläggande granskning av bolagen och stiftelsen. Utgångspunkt för granskningen är
@@ -12920,14 +12920,14 @@ insatser och satsningar.
 
 § 9      Rapport från förbundschefen
 
-- Inbjudan att bidra till Försäkringskassans regeringsuppdrag
+\- Inbjudan att bidra till Försäkringskassans regeringsuppdrag
 o Ordförande Linda Biltmark är i sin roll som samverkansansvarig på
 Försäkringskassan involverad i detta arbete redan. Presidiet ska
 stämma av för att formulera förslag från vårt förbund och skicka till
 
 Försäkringskassan.
-- Parterna berättar, 31 maj – Ekonomiskt Bistånd, Varbergs kommun
-- VP-konferens 23 augusti, Rörbecksgatan 2, Falkenberg
+\- Parterna berättar, 31 maj – Ekonomiskt Bistånd, Varbergs kommun
+\- VP-konferens 23 augusti, Rörbecksgatan 2, Falkenberg
 o Arbetsgrupp från BUG planerar
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
@@ -12935,7 +12935,7 @@ https://sign.visma.net/sv/document-check/dfedd2df-86b0-42ff-920f-6f4da7edc0ed ww
 
 <!-- sida 275 -->
 
-- Finsamkonferensen 16 maj
+\- Finsamkonferensen 16 maj
 o 35 av teammedlemmarna samlades i Halmstad och Varberg, 1 team
 satt var för sig
 o Överlag bra utvärderingar över sättet att samlas när vi inte kan ses på
@@ -13937,7 +13937,7 @@ ombudget  nämndernas nämndernas budget budget
 
 <!-- sida 298 -->
 
-*Behålla del av årets budget med 50 000 tkr som totalt är på 104 627 tkr. Det är det 50 000 tkr som beräknas förbrukas under 2024.
+\*Behålla del av årets budget med 50 000 tkr som totalt är på 104 627 tkr. Det är det 50 000 tkr som beräknas förbrukas under 2024.
 
 <!-- sida 299 -->
 
@@ -14046,10 +14046,10 @@ personliga integritet.
 
 Kommunen ska säkerställa att samtliga informationstillgångar:
 
--  skyddas för obehörig insyn och manipulation (konfidentialitet)
--  är tillförlitliga, korrekta och fullständiga (riktighet)
+\-  skyddas för obehörig insyn och manipulation (konfidentialitet)
+\-  är tillförlitliga, korrekta och fullständiga (riktighet)
 
--  är nåbara vid rätt tillfälle (tillgänglighet)
+\-  är nåbara vid rätt tillfälle (tillgänglighet)
 
 God  informationssäkerhetskultur
 
@@ -14213,16 +14213,16 @@ egna verksamheten.
 Anskaffning, utveckling och underhåll av externa IT-resurser
 Varje förvaltning ska inför anskaffning av förvaltningsspecifika externa IT-resurser:
 
--  klassa informationen som ska hanteras i tjänsten och analysera
+\-  klassa informationen som ska hanteras i tjänsten och analysera
 informationssäkerhetsrisker för det som ska anskaffas
 
--  ställa krav på den kontrakterade parten utifrån informationsklassningen och
+\-  ställa krav på den kontrakterade parten utifrån informationsklassningen och
 riskanalysens resultat
--  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
+\-  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
 
--  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som
+\-  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som
 avtalats och att dessa följer med under hela avtalsperioden
--  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
+\-  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
 informationsklassningen
 
 Vid anskaffning av kommunövergripande IT-resurser ansvarar Kommunstyrelsens

@@ -847,7 +847,7 @@ staden. För att veta när det är dags att göra det finns ett prognossystem me
 
 För att långsiktigt skydda staden mot höga havsnivåer har vi fattat ett inriktningsbeslut om att anlägga
 ett yttre översvämningsskydd. Beslutet togs av kommunfullmäktige i vår klimatstrategi som antogs
-2022. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
+2022\. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
 förutsättningarna för ett skydd i tre alternativa lägen; vid Inlagsleden, vid E6:an och en bit ut i
 Kungsbackafjorden. Samtliga innebär en invallning mot havet med en port i Kungsbackaån som
 
@@ -920,7 +920,7 @@ som det minsta nyplanerad byggnation ska vara dimensionerad för att klara av.
 
 <!-- sida 23 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. **Rekommenderat av
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. \*\*Rekommenderat av
 MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag. Skyfallskarteringen för Kungsbacka använder
 klimatfaktor 1,35.
 
@@ -947,7 +947,7 @@ möjliga att tillåta i de fall det är motiverat.
 
 Planeringsnivåer utifrån dimensionerande händelser.
 
-Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). *Ytterligare 0,4 m för att illustrera
+Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). \*Ytterligare 0,4 m för att illustrera
 rimlig planeringsnivå för tidshorisont 2150 (0,4 m = ökning av havets medelvattenstånd år 2100-2150
 
 20
@@ -1544,7 +1544,7 @@ Inre zoner för parkeringstal för bostäder. I takt med att staden växer
 och kollektivtrafiken utvecklas kan zonerna förändras.
 Tabellerna nedan anger min- och maximital för parkering i Kungsbacka stad.
 
-*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
+\*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
 
 För de exploatörer som vill erbjuda sina boende andra mobilitetslösningar än bilparkering så finns
 det möjlighet att sänka parkeringstalen med upp till 0,3 bilplats per lägenhet genom att genomföra
@@ -1554,7 +1554,7 @@ mobilitetsåtgärder.
 
 <!-- sida 39 -->
 
-* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
+\* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
 
 Vår utgångspunkt är att vid exploatering bevara områden eller objekt som har stort värde för
 biologisk mångfald eller en viktig social funktion. Den som bygger bort ekosystemtjänster ska
@@ -3278,7 +3278,7 @@ riksintresset E6.
 Under följande kapitel beskrivs övriga konsekvenser som planförslaget kan ha på olika aspekter inom
 miljö, människors hälsa samt naturresurser.
 
-Biologisk _mångfald _o ch _grön _infrastruktur
+Biologisk \_mångfald \_o ch \_grön \_infrastruktur
 Biologisk mångfald innebär en stor variation av växter och djur vilket är nödvändigt för att säkerställa
 
 ekosystemens funktion och motståndskraft. Bevarandet och utvecklandet av biologisk mångfald är
@@ -3324,7 +3324,7 @@ Ljussättningens påverkan på stadsnära djurliv bör utredas vidare. Riktlinje
 miljöer och kommunala byggnader kan minimera negativ påverkan.
 
 Konflikten mellan tillgänglighet längs åarna och naturvärden bör studeras vidare.
-Förorenad_ mark
+Förorenad\_ mark
 Kungsbacka har likt alla städer en historisk markanvändning som i olika mån gett upphov till risker med
 markföroreningar. I Kungsbacka är det dock inte lika utbrett som på många andra håll eftersom det inte
 
@@ -3525,7 +3525,7 @@ Sandsjöbacka. Området är även skyddat som naturreservat och Natura 2000-omr�
 
 <!-- sida 75 -->
 
-Riksintressen,_ 4_k apitlet_ miljöbalken
+Riksintressen,\_ 4_k apitlet\_ miljöbalken
 
 Riksintressen enligt 4 kapitlet miljöbalken gäller större områden med stora natur- och kulturvärden
 och värden för friluftslivet.
@@ -4041,7 +4041,7 @@ skogen
 Kollektivtraf .k förändring
 t
 / Busskörfält
-..      _
+..      \_
 ,." Busspriontet
 Gång och cykel
 i N ga• ng- oc h cy.k..e lkoppllng
@@ -4057,13 +4057,13 @@ i Pendelcykelstråk
 Utre dning trafik
 -·
 [:.: Utred n ingsomra• d en för trafik
-.,.._ Utredningsomr åde för framtida
+.,..\_ Utredningsomr åde för framtida
 "'.. sia1 1· 0 n
 Natur oc h rekreation
 La• ngsI· kt·Igt säkerställda
 grönområden
 ./ Gröna upplevelser
-� / S re tö k r r r e e a u tio tv n e s c v k .a !_ i r nie � v och/eller
+� / S re tö k r r r e e a u tio tv n e s c v k .a !\_ i r nie � v och/eller
 •
 biologi· sk mangf ald
 Natur och aree Ila näringar
@@ -5214,7 +5214,7 @@ byggelse. Närmare ån och naturen blir istället volymerna
 mindre. Huskropparna placeras i längsgående riktning
 Vy från korsningen Norra Annebergsvägen/Älv- Illustration av planförslaget med ett nytt kom-
 såkersvägen (Semrén & Månsson, 2024) mundelscentrum i Anneberg (Semrén & Månsson,
-2024)
+2024\)
 1 (2)
 
 <!-- sida 117 -->
@@ -5224,14 +5224,14 @@ en mer ordnad karaktär medan gårdssidan
 inbjuder till en friare utformning.
 Ändringar i granskningsförslaget från samrå-
 det är bl a att planområdet
-- innehåller färre bostäder, minskat från 400
+\- innehåller färre bostäder, minskat från 400
 till 300 bostäder
 
-- bebyggelsen har sänkts i centrumdelen från
+\- bebyggelsen har sänkts i centrumdelen från
 5 till 4 våningar samt längs Norra Annebergs-
 vägen från 4 till 2 våningar Planområdets ungefärliga utbredning markerat i
 rött.
-- parken närmast ån och i norr har tagits bort
+\- parken närmast ån och i norr har tagits bort
 -en ny cirkulationsplats föreslås vid Älvsåkers-
 vägen.
 I samver-
@@ -5611,7 +5611,7 @@ centrum har utförts av Norconsult 2014-11-22. Jordbruksmarken saknar höga natu
 friluftsvärden, däremot finns höga till mycket höga naturvärden i miljöerna närmast Kungs-
 backaån, med omgivande trädridåer, strandbrinkar, skredärr och svämsediment. En fördjup-
 ning av dessa värden har utretts i Naturinventering av Kungsbackaån, Norconsult 2019-11-
-11.
+11\.
 
 Längs Storåvägens södra sida växer en rad lövträd som bedöms omfattas av det generella
 biotopskyddet. Likaså finns diken inom jordbruksmarken norr om Storåvägen. Öppna diken
@@ -6051,12 +6051,12 @@ n
 
 Älvsåkersvägen
 
-1. Centrumområdet
+1\. Centrumområdet
 4
-2. Samverkanhuset
+2\. Samverkanhuset
 3.Småskalig bebyggelse
 i norra delen
-4. Bebygelsen söder om
+4\. Bebygelsen söder om
 Älvsåkersvägen
 Illustration av detaljplaneförslaget, Semren & Månsson 2024-02-16.
 
@@ -6707,7 +6707,7 @@ likvärdig plats i kommunen, gör att
 
 jordbruksmarken kan tas i anspråk. Av samma skäl anser kommunen att ett upphävande av
 strandskyddet inom delar av detaljplanen är förenligt med det särskilda skälet enligt punkt
-5. behöver användas för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses utanför
+5\. behöver användas för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses utanför
 strandskyddsområdet.
 
 Miljökonsekvenser
@@ -6723,7 +6723,7 @@ jöeffekterna. Rapporten som upprättas vid en strategisk miljöbedömning utgö
 konsekvensbeskrivningen (MKB:n).
 Miljökonsekvensbeskrivningen med tillhörande underlagsrapporter beskriver utförligt
 planområdet och genomförandets miljökonsekvenser, Norconsult 2020-05-29, rev 2024-02-
-08. Planförslaget har genomgått stora förändringar mellan samråd och granskning vilket
+08\. Planförslaget har genomgått stora förändringar mellan samråd och granskning vilket
 medfört behov att revidera MBK:n och dess bedömning av miljökonsekvenserna.
 
 Natur
@@ -7077,9 +7077,9 @@ parkeringsplats.
 <!-- sida 156 -->
 
 Sedan samrådet har följande större ändringar gjorts vad avser allmän plats:
-- Park- och naturmark vid Kungsbackaån har tagits bort
+\- Park- och naturmark vid Kungsbackaån har tagits bort
 
-- Del av Älvsåkersvägen har inkluderats i planområdet, för att möjliggöra viss om
+\- Del av Älvsåkersvägen har inkluderats i planområdet, för att möjliggöra viss om
 byggnad av vägen samt en ny cirkulationsplats i korsningen mellan Älvsåkersvägen,
 Södra Annebergsvägen och Norra Annebergsvägen.
 Kommunalt huvudmannaskap
@@ -7161,22 +7161,22 @@ Fastighetsbildning
 Fastighetsbildningsåtgärder ska genomföras i enlighet med den nya detaljplanen.
 
 Mark som Kungsbacka kommun äger
-- Del av Alafors 2:16 som planläggs som kvartersmark för vård- och omsorgsboende och
+\- Del av Alafors 2:16 som planläggs som kvartersmark för vård- och omsorgsboende och
 förskola (samverkanshus) samt BmSS-boende ska styckas av till en separat fastighet.
-- Del av Alafors 3:3 som planläggs som allmän plats, park och gång- och cykelväg med
+\- Del av Alafors 3:3 som planläggs som allmän plats, park och gång- och cykelväg med
 kommunalt huvudmannaskap kan överföras till Alafors 2:16.
 
 Mark som Kungsbacka kommun överlåter till SeBal Holding Väst Andelsägare 2 AB
-- Del av Alafors 2:16 och Alafors 3:3 som planläggs som kvartersmark för bostads- och
+\- Del av Alafors 2:16 och Alafors 3:3 som planläggs som kvartersmark för bostads- och
 centrumändamål ska styckas av och överlåts sedan i etapper till SeBal Holding Väst An-
 delsägare 2 AB.
 
 Mark som Kungsbacka kommun överlåter till KB Stejla Anneberg
-- Del av Skårby 2:3 som planläggs som kvartersmark för parkering ska överföras till Alafors
+\- Del av Skårby 2:3 som planläggs som kvartersmark för parkering ska överföras till Alafors
 2:49.
 
 Mark som kommunen upplåter
-- Del av Alafors 2:16, Alafors 3:3 och Skårby 2:3 som planläggs för allmän plats med enskilt
+\- Del av Alafors 2:16, Alafors 3:3 och Skårby 2:3 som planläggs för allmän plats med enskilt
 huvudmannaskap ska upplåtas till en eller flera gemensamhetsanläggningar.
 
 40 Planbeskrivning                                                                                                            Planbeskrivning 41
@@ -7184,16 +7184,16 @@ huvudmannaskap ska upplåtas till en eller flera gemensamhetsanläggningar.
 <!-- sida 158 -->
 
 Mark som kommunen ska lösa in
-- Del av Alafors 2:40, 2:42, 2:49, s:5, Skårby 3:27, 22:5 och s:4 som planläggs för väg vid
+\- Del av Alafors 2:40, 2:42, 2:49, s:5, Skårby 3:27, 22:5 och s:4 som planläggs för väg vid
 Älvsåkersvägen ska överföras till kommunens fastighet Alafors 2:16.
 
 Mark som KB Stejla Anneberg äger
-- Del av Alafors 2:49 som planläggs för kvartersmark för bostads- och centrumändamål lig-
+\- Del av Alafors 2:49 som planläggs för kvartersmark för bostads- och centrumändamål lig-
 ger kvar inom Alafors 2:49.
 
-- Del av Alafors 2:49 och Skårby 22:5 som planläggs som allmän plats med kommunalt
+\- Del av Alafors 2:49 och Skårby 22:5 som planläggs som allmän plats med kommunalt
 huvudmannaskap väg, gc-väg, park överförs till kommunens fastighet Alafors 2:16.
-- Del av Alafors 2:49 och Skårby 22:5 som planläggs för allmän plats med enskilt huvud-
+\- Del av Alafors 2:49 och Skårby 22:5 som planläggs för allmän plats med enskilt huvud-
 mannaskap ska upplåtas till en eller flera gemensamhetsanläggningar.
 
 Marköverlåtelse
@@ -7312,37 +7312,37 @@ SeBal Holding Väst Andelsägare 2 AB
 SeBal Holding Väst Andelsägare 2 AB ansöker om och bekostar följande lantmäteriåtgär-
 der:
 
-- eventuell omprövning samt inträde i befintlig gemensamhetsanläggning Alafors ga:5,
+\- eventuell omprövning samt inträde i befintlig gemensamhetsanläggning Alafors ga:5,
 Storåvägen.
-- bildande av gemensamhetsanläggning för nya anläggningar inom allmän plats med enskilt
+\- bildande av gemensamhetsanläggning för nya anläggningar inom allmän plats med enskilt
 huvudmannaskap, inom sitt projektområde, norr om Älvsåkersvägen.
 
-- bildande av gemensamhetsanläggningar för nya anläggningar inom kvartersmark som är
+\- bildande av gemensamhetsanläggningar för nya anläggningar inom kvartersmark som är
 till nytta för flera fastigheter, inom sitt projektområde, norr om Älvsåkersvägen
-- bildande av samfällighetsförening som ska förvalta de nya gemensamhetsanläggningarna.
+\- bildande av samfällighetsförening som ska förvalta de nya gemensamhetsanläggningarna.
 KB Stejla Anneberg
 
 KB Stejla Anneberg ansöker om och bekostar följande lantmäteriåtgärder:
-- bildande av gemensamhetsanläggning för nya anläggningar inom allmän plats med enskilt
+\- bildande av gemensamhetsanläggning för nya anläggningar inom allmän plats med enskilt
 huvudmannaskap, inom sitt projektområde, söder om Älvsåkersvägen.
 
-- bildande av gemensamhetsanläggningar för nya anläggningar inom kvartersmark som är
+\- bildande av gemensamhetsanläggningar för nya anläggningar inom kvartersmark som är
 till nytta för flera fastigheter, inom sitt projektområde, söder om Älvsåkersvägen
-- bildande av samfällighetsförening som ska förvalta de nya gemensamhetsanläggningarna
+\- bildande av samfällighetsförening som ska förvalta de nya gemensamhetsanläggningarna
 
-- fastighetsreglering av del av Alafors 2:49 och Skårby 22:5, planlagd som allmän platsmark
+\- fastighetsreglering av del av Alafors 2:49 och Skårby 22:5, planlagd som allmän platsmark
 med kommunalt huvudmannaskap, till Alafors 2:16
-- fastighetsreglering av del av Skårby 2:3, planlagd som parkering (P), till Alafors 2:49
+\- fastighetsreglering av del av Skårby 2:3, planlagd som parkering (P), till Alafors 2:49
 
-- eventuell avstyckning av kvartersmark.
+\- eventuell avstyckning av kvartersmark.
 Kungsbacka kommun
 Kommunen ansöker om och bekostar följande lantmäteriåtgärder:
 
-- fastighetsreglering och avstyckning av mark som ska säljas till SeBal Holding Väst An-
+\- fastighetsreglering och avstyckning av mark som ska säljas till SeBal Holding Väst An-
 delsägare 2 AB (del av Alafors 2:16 och Alafors 3:3)
-- omprövning av ledningsrätt för kommunala VA-ledningar.
+\- omprövning av ledningsrätt för kommunala VA-ledningar.
 
-- fastighetsreglering av del av Alafors 2:40, 2:42, 2:49, s:5, Skårby 3:27 och s:4, planlagda
+\- fastighetsreglering av del av Alafors 2:40, 2:42, 2:49, s:5, Skårby 3:27 och s:4, planlagda
 som väg och gc-väg vid Älvsåkersvägen, till Alafors 2:16.
 Övriga
 
@@ -7393,11 +7393,11 @@ antas. Detaljplanen antas först efter det att kommunstyrelsen eller kommunfullm
 godkänt genomförande- och exploateringsavtal.
 
 I det här projektet kommer genomförande- och exploateringsavtal att omfatta:
-- definition av planområde och respektive exploatörs projektområde.
+\- definition av planområde och respektive exploatörs projektområde.
 
-- tidplan för planområdets och projektområdets utbyggnad inklusive eventuell etappvis
+\- tidplan för planområdets och projektområdets utbyggnad inklusive eventuell etappvis
 utbyggnad.
-- fördelning av ansvar och kostnader för utbyggnad inom planområdet.
+\- fördelning av ansvar och kostnader för utbyggnad inom planområdet.
 
 Vid kommunalt huvudmannaskap är utgångspunkten att kommunen utför utbyggnad av an-
 läggningar inom allmän plats och svarar för erforderliga kostnader och att exploatörerna er-
@@ -7417,22 +7417,22 @@ samfällighetsförening som förvaltar Alafors ga:5 (Storåvägen).
 Åtgärder inom kvartersmark för bostäder (B) och centrumändamål (C) ansvarar exploatö-
 rerna för. Åtgärder inom kvartersmark för vård- och omsorgsboende, förskola samt BmSS-
 boende ansvarar kommunen för.
-- reglering av kostnader för utbyggnad av eventuella anläggningar utanför planområdet, som
+\- reglering av kostnader för utbyggnad av eventuella anläggningar utanför planområdet, som
 behövs för planområdets utbyggnad och är rimliga med hänsyn till exploatörens nytta av
 åtgärden.
 
-- reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
-- reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av plan-
+\- reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\- reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av plan-
 kostnadsavtalet.
 
-- fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
-- exploatörens skyldighet att, där det är rimligt och lämpligt, upplåta viss del av bostäderna
+\- fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\- exploatörens skyldighet att, där det är rimligt och lämpligt, upplåta viss del av bostäderna
 med hyresrätt samt att samtliga eller del av dessa ska förmedlas via kommunens bostadsför-
 medling.
-- reglering av exploatörens skyldighet att sälla säkerhet till kommunen för att säkerställa
+\- reglering av exploatörens skyldighet att sälla säkerhet till kommunen för att säkerställa
 exploatörens åtaganden.
 
-- Övriga frågor som behöver regleras för planområdets rationella och ändamålsenliga ut-
+\- Övriga frågor som behöver regleras för planområdets rationella och ändamålsenliga ut-
 byggnad.
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
 samordningen mellan exploatörerna och kommunen regleras avseende utbyggnad av kvar-
@@ -7842,7 +7842,7 @@ utformning och skydd av marken.
 
 [Tabell 171-1](handlingar.tabeller/171-1.csv)
 
-| d<br>1 | Fastighetsstorlek | Minsta fastighetsstorlek är <i kartan angivet> m².<br>Syftet med bestämmelsen är att säkerställa att even-<br>tuella fastigheter som bildas får en tillräcklig storlek<br>för att rymma de funktioner som hör till användning-<br>en utöver huvudbyggnaden. Exempelvis parkerings-<br>plats för bil, förråd och uteplats. |
+| d<br>1 | Fastighetsstorlek | Minsta fastighetsstorlek är \<i kartan angivet> m².<br>Syftet med bestämmelsen är att säkerställa att even-<br>tuella fastigheter som bildas får en tillräcklig storlek<br>för att rymma de funktioner som hör till användning-<br>en utöver huvudbyggnaden. Exempelvis parkerings-<br>plats för bil, förråd och uteplats. |
 | --- | --- | --- |
 | h<br>1 | Höjd på byggnadsverk | Maximalt antal våningar är II (två) = nockhöjd om<br>maximalt 16 m.<br>Syftet med bestämmelsen är att begränsa byggnads-<br>volymens höjd och våningsantal. Nockhöjderna är<br>högt tilltagna i förhållande till våningsantalet för att<br>möjliggöra inredda vindar och tekniska anläggningar. |
 | h<br>2 | Höjd på byggnadsverk | Maximalt antal våningar är III (tre) = nockhöjd om<br>maximalt 20 m.<br>Syftet med bestämmelsen är att begränsa byggnads-<br>volymens höjd och våningsantal. Nockhöjderna är<br>högt tilltagna i förhållande till våningsantalet för att<br>möjliggöra inredda vindar och tekniska anläggningar. |
@@ -8018,7 +8018,7 @@ Största sammanlagda byggnadsarea (BYA) är 450 kvadratmeter.
 Utförande
 Största sammanlagda byggnadsarea (BYA) är 950 kvadratmeter.
 Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +6,5 m (RH
-2000) över nollplanet.                                                  Största sammanlagda byggnadsarea (BYA) är 390 kvadratmeter.
+2000\) över nollplanet.                                                  Största sammanlagda byggnadsarea (BYA) är 390 kvadratmeter.
 Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
 Största sammanlagda byggnadsarea (BYA) är 900 kvadratmeter.
 EGENSKAPSBESTÄMMELSER     FÖR ALLMÄN  PLATS
@@ -8041,7 +8041,7 @@ sammanlagd byggnadsarea om 25 kvadratmeter per lägenhet i radhus samt en
 maximal nockhöjd på 3,5 meter.
 Fastighetsstorlek
 Största sammanlagda byggnadsarea (BYA) för tekniska
-Minsta fastighetsstorlek är <angivet> m².
+Minsta fastighetsstorlek är \<angivet> m².
 anläggningar är 250 kvm.
 Höjd på byggnadsverk                                                    Största sammanlagda byggnadsarea (BYA) är 355 kvadratmeter.
 Maximalt antal våningar är II (två) = nockhöjd om maximalt 16 m.
@@ -8196,12 +8196,12 @@ SKR:s styrelse har beslutat om förnyad rekommendation (2025-2028) för det geme
 med stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård.
 
 Styrelsen för SKR beslutade 2024-01-26:
-- Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
+\- Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
 förutsättningar för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård om sammanlagt
 19,5 mkr (dvs max 1,95 kr per invånare) under åren 2025-2028.
 
-- Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni 2024.
-- Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift vilken
+\- Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni 2024.
+\- Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift vilken
 baseras på befolkningen i respektive kommun. Kommuner med över 200 000 invånare får 10% rabatt.
 
 Förvaltningscheferna för Individ & Familjeomsorg (IF), Vård & Omsorg (VO) och Gymnasium &
@@ -8256,7 +8256,7 @@ kommer att kunna erbjudas nationellt framöver.
 Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i relevant
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
-2024.
+2024\.
 Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
 
 ärendenummer SKR2024/00089.
@@ -8525,17 +8525,17 @@ avsätta medel för kommunernas egna arbete.
 Denna förnyade rekommendation avser det stöd som kommunerna ställer
 sig bakom att bedriva gemensamt och som:
 
--  det är rimligt att SKR som organisation hanterar,
+\-  det är rimligt att SKR som organisation hanterar,
 
--  skapar värde när samtliga kommuner medverkar,
+\-  skapar värde när samtliga kommuner medverkar,
 
--  behöver samordnas nationellt,
+\-  behöver samordnas nationellt,
 
--  behöver bedrivas kontinuerligt och under lång tid och därmed
+\-  behöver bedrivas kontinuerligt och under lång tid och därmed
 inte lämpar sig för finansiering genom mer kortvariga lösningar
 så som överenskommelser och
 
--  inte ingår i SKR:s ordinarie medlemsavgift.
+\-  inte ingår i SKR:s ordinarie medlemsavgift.
 
 Inriktning är att det arbete som ryms inom rekommendationen kräver ett
 långsiktigt åtagande och samarbete mellan kommunerna och SKR. Den
@@ -9128,7 +9128,7 @@ Inflödet till förvaltningens myndighetsutövande verksamheter har varit hög s
 under 2024. Antal orosanmälningar till barn och unga har under perioden sjunkit med 10 % jämfört med 2023,
 men inflödet är fortsatt högt. Ökningen är inte specifik för Kungsbacka utan något som syns i hela landet. En
 kartläggning gjord av Socialstyrelsen 2022 visar att antalet anmälningar då hade ökat med 27 procent sedan
-2018. För Kungsbackas del var ökningen 46 % för samma period.
+2018\. För Kungsbackas del var ökningen 46 % för samma period.
 Volymer är svåra att prognosticera inom verkställigheten, allra mest inom verksamheten för personlig assistans.
 Volymer ökade under 2023 och har fortsatt öka under 2024. Detta i kombination med att en högre andel timmar
 finansieras av kommunen i stället för Försäkringskassan innebär att verksamhetens nettokostnader har ökat med
@@ -9209,7 +9209,7 @@ Myndighet, stöd och behandling
 Verksamheten prognosticerar ett underskott på 5 miljoner kronor.
 
 Kostnaderna för köpta platser inom Barn och Unga har ökat kraftigt under 2023 och har samma nivå under
-2024. Barn och Unga har något färre köpta dygn under perioden jämfört med 2023. Däremot har priset per dygn
+2024\. Barn och Unga har något färre köpta dygn under perioden jämfört med 2023. Däremot har priset per dygn
 ökat med i genomsnitt 1 000 kr per dygn, vilket innebär att kostnaderna är på samma nivå som 2023.
 På Vuxenenheten ser vi att LVM- och HVB-placeringar minskar jämfört med föregående år. Däremot ökar
 placeringar i stödboende och placeringar på grund av våld i nära. Kostnaderna och placeringar på grund av våld

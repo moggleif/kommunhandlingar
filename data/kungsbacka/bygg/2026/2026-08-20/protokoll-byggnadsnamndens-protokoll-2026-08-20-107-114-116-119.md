@@ -280,9 +280,9 @@ beskrivning av stadens byggnadskaraktär”, antagen av byggnadsnämnden 2011-06
 Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande. Förslagsställarna lyfter följande punkter:
 
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Byggnadsnämnden biföll initiativet. Förvaltningen har gjort en bedömning gällande
@@ -372,11 +372,11 @@ det är svårt att nå handläggare för vägledning i enklare frågor och kring
 Byggnadsnämnden beslutade 13 maj 2026 att ge bygg- och miljöförvaltningen i
 uppdrag att:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner.
-- identifiera områden i Servicelyftet som behöver prioriteras.
+\- identifiera områden i Servicelyftet som behöver prioriteras.
 
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på
 nämndmötet i augusti.
 Bygg- och miljöförvaltningen redovisade under byggnadsnämndens möte 2026-06-
 25 den första analysen och återkopplar 2026-08-20 under byggnadsnämndens möte

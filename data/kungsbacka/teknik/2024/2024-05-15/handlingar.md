@@ -339,14 +339,14 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 11 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för förvaring av cykel i två olika typer av låst cykelförvaring.
 
 Taxan är beslutad med stöd av 2 kap 5§ kommunallagen (2017:725) KL.
 Taxan tillämpas avseende i den utsträckning som närmare föreskrivs i nedanstående
 taxebestämmelser.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för de låsta cykelparkeringarna grundar sig på självkostnaden för att sköta ytan samt
 byggnaden där parkeringarna finns.
 
@@ -360,11 +360,11 @@ underhållet samt en tjänsteleverantör av passagesystem för det nya cykelgara
 
 Uppbyggnad  av taxa
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt (moms) tas ut på den angivna avgiften med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Avgift för befintliga cykelbås uppgår till 300kr/halvår vid Hede station samt 700kr/halvår vid
 Kungsbacka station och användaren förbinder sig för ett halvår.
 
@@ -376,10 +376,10 @@ Taxa för låst c ykelparkering  Sida 2 av 4
 
 <!-- sida 12 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Årlig uppräkning enligt KPI för Oktober för respektive avgift.
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Berörda förvaltningar ges i uppdrag att årligen justera avgifterna utefter KPI för Oktober
 föregående år.

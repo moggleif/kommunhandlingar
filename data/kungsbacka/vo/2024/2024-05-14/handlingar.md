@@ -332,7 +332,7 @@ kommuninvånare samt minska risken för sjukdomar, funktionsnedsättningar och o
 Strategin syftar till att skapa en övergripande plattform, att utgå ifrån, för det fortsatta arbetet med att
 ställa om till ett mer hållbart arbete med hälsofrämjande och förebyggande insatser.
 
-2. Grunder för vårt hälsofrämjande och förebyggande arbete
+2\. Grunder för vårt hälsofrämjande och förebyggande arbete
 
 2.1 Lagstiftning
 
@@ -400,17 +400,17 @@ Kungsbacka kommun                                               3
 
 <!-- sida 11 -->
 
-1. Tillhandahålla de hälso- och sjukvårdstjänster som krävs för att tillgodose vanligt
+1\. Tillhandahålla de hälso- och sjukvårdstjänster som krävs för att tillgodose vanligt
 förekommande vårdbehov.
-2. Se till att vården är lätt tillgänglig
+2\. Se till att vården är lätt tillgänglig
 
-3. Tillhandahålla förebyggande insatser utifrån såväl befolkningens behov som patientens
+3\. Tillhandahålla förebyggande insatser utifrån såväl befolkningens behov som patientens
 individuella behov och förutsättningar
-4. tillhandahålla rehabiliterande insatser utifrån patientens individuella behov och
+4\. tillhandahålla rehabiliterande insatser utifrån patientens individuella behov och
 förutsättningar
-5. Samordna olika insatser för patienten i de fall det är mest ändamålsenligt att samordningen
+5\. Samordna olika insatser för patienten i de fall det är mest ändamålsenligt att samordningen
 sker inom primärvården
-6. Möjliggöra medverkan vid genomförande av forskningsarbete.
+6\. Möjliggöra medverkan vid genomförande av forskningsarbete.
 
 Sammanfattningsvis kring vilket förebyggande uppdrag nämndens hälso- och
 
@@ -501,12 +501,12 @@ Kungsbacka kommun                                               5
 
 <!-- sida 13 -->
 
-3. Målgrupp och mål
+3\. Målgrupp och mål
 3.1 Målgrupp
 
-- De kommuninvånare som redan har stöd- och insatser från vård & omsorg
+\- De kommuninvånare som redan har stöd- och insatser från vård & omsorg
 
-- Kommuninvånare utan insatser över 67 år
+\- Kommuninvånare utan insatser över 67 år
 
 3.2 Målsättning
 
@@ -522,16 +522,16 @@ göras för att stärka individens egna ansvar och resurser i ett förebyggande 
 
 3.2.1 Mål
 
--  En större andel av målgruppen kan leva självständiga och trygga liv utan eller med färre
+\-  En större andel av målgruppen kan leva självständiga och trygga liv utan eller med färre
 insatser från kommunens vård & omsorg.
 
--  En större andel av målgruppen som har behov av stöd, erbjuds insatser som utformas för att
+\-  En större andel av målgruppen som har behov av stöd, erbjuds insatser som utformas för att
 frigöra och utveckla egna resurser, ökad trygghet och självständighet i vardagen.
 
--  En större andel av målgruppen upplever social gemenskap och delaktighet i samhället,
+\-  En större andel av målgruppen upplever social gemenskap och delaktighet i samhället,
 minskad andel av målgruppen upplever sig som ofrivilligt ensamma.
 
--  Ökad samverkan med andra relevanta aktörer som till exempel andra förvaltningar,
+\-  Ökad samverkan med andra relevanta aktörer som till exempel andra förvaltningar,
 regionen, civilsamhället och näringslivet som syftar till att fler invånare kan få sina behov av
 stöd tillgodosedda via alternativa funktioner.
 
@@ -539,7 +539,7 @@ Kungsbacka kommun                                               6
 
 <!-- sida 14 -->
 
-4. Fokusområden
+4\. Fokusområden
 
 Figur 1. Illustration över förvaltningens tio fokusområden (Solrosen) som tillsammans utgör den samlade hälsofrämjande och förebyggande
 inriktningen
@@ -666,7 +666,7 @@ utmaningar och förbättringsområden. Se till att verksamheten håller hög kva
 
 evidensbaserad.
 
-5. Förhållningssätt och strategisk färdplan
+5\. Förhållningssätt och strategisk färdplan
 
 5.1 Förhållningssätt
 Inom nämnden för vård & omsorg sker redan många goda exempel på arbete inom ramen för det
@@ -690,7 +690,7 @@ Definiering av NYLÄGE och förslag på åtgärder
 KUBINOL- modellen används som metodik i framtagandet av att definiera ett NYLÄGE med
 följande delprocesser i korthet;
 
-1. Nytta
+1\. Nytta
 Med nuläget som grund utvärderas vad som behöver utvecklas och ev. avslutas i förhållande till ny
 lagstiftning och God och nära vård samt i relation till förvaltningens utmaningar i relation till ett
 samhälle i förändring.
@@ -699,26 +699,26 @@ Kungsbacka kommun                                              10
 
 <!-- sida 18 -->
 
-2. Behov och kontext
+2\. Behov och kontext
 För att uppnå nyttan definieras målgruppen och behoven i målgruppen liksom kontexten och
 förutsättningar för att uppnå nyttan. På så vis inkluderas även svårnådda och nya målgrupper i
 planeringen, vilket främjar ökad jämlikhet.
 
-3. Tillgänglig kunskap
+3\. Tillgänglig kunskap
 Inhämta underlag från tillgänglig kunskap, från forskning, beprövad erfarenhet och från
 målgruppen, dess företrädare eller närstående. Kunskap kan även hämtas från andra relevanta
 källor, exempelvis från andra professioner eller verksamhetsområden. När kunskap söks utifrån
 önskad nytta och definierade behov i målgruppen ökar möjligheten till riktat fokus och relevans i
 det annars svåröverblickbara kunskapsunderlaget.
 
-4. Utformning av åtgärd
+4\. Utformning av åtgärd
 Den nytta som önskas uppnås (varför) och de kärnkomponenter som identifierats i tillgänglig
 kunskap utifrån behov och kontext utgör grunden för utformning av insatsens innehåll (vad) och
 
 genomförande (hur). Baserat på de övriga tre pusselbitarna kan insatsförslag tas fram och eventuella
 alternativ kan vägas mot varandra. Därefter kan insatsen testas och utvärderas i praktiken.
 
-5. Testa, utvärdera, ompröva och ev. revidera åtgärd
+5\. Testa, utvärdera, ompröva och ev. revidera åtgärd
 Utgörs av test, utvärdering, omprövning och revision i relation till den önskade nyttan. Genom att
 nyttan är tydliggjord skapas goda möjligheter till fördjupad analys och justeringar av insatsen.
 
@@ -807,7 +807,7 @@ kommer att belasta resultatet med ca 2 mkr.
 Alliansen har initierat ett projekt som syftar till att undersöka, kartlägga och
 implementera AI och digitala verktyg inom vård och omsorg i Kungsbacka kommun.
 Initiativet innebär att max 30 miljoner kronor tas ut ur resultatfonden under en treårsperiod (2023-
-2026) för att starta ett projekt som syftar till att undersöka och implementera AI och annan digital
+2026\) för att starta ett projekt som syftar till att undersöka och implementera AI och annan digital
 teknik inom samtliga verksamheter i vård och omsorg i Kungsbacka kommun.
 
 Om budgeten ej är i balans till årets slut föreslås som åtgärd för att täcka årets underskott genom att
@@ -1179,13 +1179,13 @@ SKR:s styrelse har beslutat om förnyad rekommendation (2025-2028) för det geme
 med stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård.
 Styrelsen för SKR beslutade 2024-01-26:
 
--    Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
+\-    Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
 förutsättningar för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård om
 sammanlagt 19,5 mkr (dvs max 1,95 kr per invånare) under åren 2025-2028.
 
--    Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni
-2024.
--    Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift
+\-    Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni
+2024\.
+\-    Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift
 vilken baseras på befolkningen i respektive kommun. Kommuner med över 200 000
 invånare får 10% rabatt.
 
@@ -1242,7 +1242,7 @@ kommer att kunna erbjudas nationellt framöver.
 Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i relevant
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
-2024.
+2024\.
 Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
 
 ärendenummer SKR2024/00089.
@@ -1511,17 +1511,17 @@ avsätta medel för kommunernas egna arbete.
 Denna förnyade rekommendation avser det stöd som kommunerna ställer
 sig bakom att bedriva gemensamt och som:
 
--  det är rimligt att SKR som organisation hanterar,
+\-  det är rimligt att SKR som organisation hanterar,
 
--  skapar värde när samtliga kommuner medverkar,
+\-  skapar värde när samtliga kommuner medverkar,
 
--  behöver samordnas nationellt,
+\-  behöver samordnas nationellt,
 
--  behöver bedrivas kontinuerligt och under lång tid och därmed
+\-  behöver bedrivas kontinuerligt och under lång tid och därmed
 inte lämpar sig för finansiering genom mer kortvariga lösningar
 så som överenskommelser och
 
--  inte ingår i SKR:s ordinarie medlemsavgift.
+\-  inte ingår i SKR:s ordinarie medlemsavgift.
 
 Inriktning är att det arbete som ryms inom rekommendationen kräver ett
 långsiktigt åtagande och samarbete mellan kommunerna och SKR. Den
@@ -2571,7 +2571,7 @@ Diarienummer: VO-2024-00183. (Kommunfullmäktige) KF, § 57. Upphävande av till
 för särskild kollektivtrafik - Färdtjänst.
 
 Diarienummer: VO-2024-00180. (Kommunfullmäktige) KF, § 58. Antagande av taxa för färdtjänst
-2024.
+2024\.
 
 Diarienummer: VO-2024-00182. (Kommunfullmäktige) KF, § 59. Antagande av policy och riktlinjer
 för finansverksamheten samt regler för fakturering och kravhantering.

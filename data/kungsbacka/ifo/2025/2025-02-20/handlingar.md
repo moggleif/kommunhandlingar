@@ -210,7 +210,7 @@ Transaktionsidentitet: 794456867166DDA4D5E5E10964620BE733BE9DAC0B
 <!-- sida 5 -->
 
 at
-<S Socialdemokraterna
+\<S Socialdemokraterna
 
 Motion 2024-09-09
 Ökat samarbete för barn och elevers hälsa
@@ -249,7 +249,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -474,7 +474,7 @@ våldsutsatthet/våldsutövande
 särskild service vilket innebär att två socialsekreterare arbetar heltid med
 uppföljningar. En utökning med ytterligare en socialsekreterare kommer ske under
 
-2025. Detta har bidragit till att effektiva arbetssätt hittats och arbetet med
+2025\. Detta har bidragit till att effektiva arbetssätt hittats och arbetet med
 uppföljningar där brukare är delaktiga har kommit igång
 Följande effekter som kunnat ses så här långt är att frågan om barns delaktighet lyfts i högre
 grad på metodtiden och att arbetsledare kan se förbättringar i textformuleringar avseende
@@ -1392,7 +1392,7 @@ s
 s
 s
 e
-+
+\+
 r u
 D
 t
@@ -1622,7 +1622,7 @@ länkar brustit
 Översyn av befintliga
 guider i KLOK
 System adm + SAS
-+ projektledare ser över
+\+ projektledare ser över
 Pågående med
 vilka guider som finns i
 avvikelse
@@ -1644,7 +1644,7 @@ Implementeringsplan
 tas fram och åtgärder
 genomförs
 Planen ska innehålla:
-- Förslag till
+\- Förslag till
 implementeringsplan för
 respektive
 verksamhetsområde med
@@ -1652,13 +1652,13 @@ konkreta uppgifter och tid
 Avslutad - nyttan
 för genomförande.
 uppnådd
-- Förslag till struktur för
+\- Förslag till struktur för
 verksamhetsövergripande
 samverkan under
 Bristfällig social
 implementeringsfasen.
 dokumentation
-- Förslag till
+\- Förslag till
 organisatoriska stöd- och
 nyckelpersoner, samt
 specificera roller och
@@ -1745,7 +1745,7 @@ Implementering av IBIC-
 Följa upp beslut enligt                          Avslutad - nyttan
 rutiner för FS
 Riktlinje för systematisk Risk att riktlinjen ej följs uppnådd
-+ utförarverksamheter
+\+ utförarverksamheter
 uppföljning
 funktionsstöd
 MSB har tagit fram en
@@ -2039,7 +2039,7 @@ IF-2023-00275
 Förslag till beslut
 Nämnden för Individ & Familjeomsorg godkänner årsrapport för God och Nära Vård och Omsorg
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -2504,7 +2504,7 @@ Risk för brister vid referenstagning
 
 Rekryteringscenter har genomfört granskningar av referenstagning i systemet för rekrytering. Granskningen
 bestod av ett slumpmässigt urval av rekryteringar (tillsvidaretjänster) under perioden april 2023 tom mars
-2024. 9 av totalt 89 rekryteringsprocesser under perioden valdes ut för granskning.
+2024\. 9 av totalt 89 rekryteringsprocesser under perioden valdes ut för granskning.
 33 % av utvalda rekryteringar gjordes enligt rutin.
 3 av 9 rekryteringsprocesser har följt rutinen för referenstagning helt och hållet.
 
@@ -2627,25 +2627,25 @@ identifierats; personlig assistans och utbetalning av föreningsbidrag. 2023 gen
 risker och förbättringsområden identifierades.
 Under hösten 2024 har förvaltningsledningen fattat beslut om två utvecklingsområden:
 
-- otillåten påverkan. En arbetsgrupp har utsetts och påbörjat arbetet med att identifiera nuläge och behov kopplat
+\- otillåten påverkan. En arbetsgrupp har utsetts och påbörjat arbetet med att identifiera nuläge och behov kopplat
 till otillåten påverkan. Detta kommer att fortsätta under 2025.
-- motverka risk för välfärdsbrottslighet och minska felaktiga utbetalningar inom personlig assistans. En
+\- motverka risk för välfärdsbrottslighet och minska felaktiga utbetalningar inom personlig assistans. En
 arbetsgrupp är utsedd för att driva arbetet och ett första möte är inplanerat i januari 2025.
 •  Kontrollaktiviteter
 
-- Finns dataanalys och stickprov kopplat till identifierade risker?
+\- Finns dataanalys och stickprov kopplat till identifierade risker?
 Det finns ett antal kontrollaktiviteter som utförs varje månad, kopplat till personlig assistans.
 Ekonomiavdelningen genomför kontrollerar av dokumentation av beviljade timmar, att fakturerade timmar
 överensstämmer med beviljade timmar, merkostnader vid sjuklön samt tillstånd hos assistansbolag.
 
-- Tillämpas tvåhandsprincipen kopplat till identifierade risker?
+\- Tillämpas tvåhandsprincipen kopplat till identifierade risker?
 Kommunens system för e-handel och fakturahantering innebär att det alltid är minst två personer involverade i
 behandling av fakturor. En person kontrollerar korrekthet och en person attesterar.
 
-- Finns det regelbunden granskning av behörigheter i kritiska system?
+\- Finns det regelbunden granskning av behörigheter i kritiska system?
 Ja, vi stämmer av att rätt person har rätt attesträtt. Behörighetskontroller genomförs i verksamhetssystemet
 Combine.
-- Fungerar processen för avtalsuppföljning (viktiga och verksamhetskritiska leverantörer, privata utförare)?
+\- Fungerar processen för avtalsuppföljning (viktiga och verksamhetskritiska leverantörer, privata utförare)?
 
 10
 
@@ -2661,15 +2661,15 @@ Under hösten 2024 har Revisionen genomfört en granskning av interna kontroller
 kvalificerade välfärdsbrott med fokus på upphandling och avtalsuppföljning. Individ & Familjeomsorg har
 inkluderats för stickprovsgranskning men kommer inte få egna rekommendationer då kommunens
 upphandlingsenhet ansvarar för avtalsuppföljning.
-- Fungerar anmälan och godkännandeprocessen för bisysslor?
+\- Fungerar anmälan och godkännandeprocessen för bisysslor?
 
 Ja
 •  Analys, uppföljning rapportering
 
-- Finns det rutiner för att följa upp indikatorer, nyckeltal, händelser? (egen statistik, jämförelser med andra etc.)
+\- Finns det rutiner för att följa upp indikatorer, nyckeltal, händelser? (egen statistik, jämförelser med andra etc.)
 Förvaltningen följer upp ett flertal nyckeltal och statistik till exempelvis Socialstyrelsen, Öppna jämförelser,
 nyckeltal till nämnd osv.
-- Hanteras eventuell förekomst av incidenter/händelser på ett systematiskt sätt (dokumenteras, analyseras,
+\- Hanteras eventuell förekomst av incidenter/händelser på ett systematiskt sätt (dokumenteras, analyseras,
 åtgärdas och följs upp)? I vilka system?
 
 Händelser rapporteras och hanteras i ärendehanteringssystemet DF Respons. Det finns en riktlinje för
@@ -2678,10 +2678,10 @@ Incidenter utifrån otillåten påverkan ska rapporteras i KIA. Det finns förmo
 rapporteras. Under hösten 2024 har ett arbete påbörjats med att identifiera och prioritera områden för fortsatt
 arbete med otillåten påverkan samt påbörja en verktygslåda. Detta arbete kommer att fortsätta under 2025.
 
-- Sker rapportering till nämnd av resultat av uppföljning och eventuella avvikelser?
+\- Sker rapportering till nämnd av resultat av uppföljning och eventuella avvikelser?
 Varje kvartal redovisas rapporterade händelser, analys och åtgärder till nämnd.
 
-- Är rutiner för polisanmälan/andra myndigheter kända och används?
+\- Är rutiner för polisanmälan/andra myndigheter kända och används?
 Ja
 Risk för bristande hantering av tillbud och olycksfall
 
@@ -3266,7 +3266,7 @@ säkerhetsfrågor. En säkerhetssamordnare med fokus på informationssäkerhet s
 Både nationellt och i Kungsbacka har risk för välfärdsbrottslighet och otillåten påverkan uppmärksammats.
 Antalet tillbud kopplat till otillåten påverkan har ökat under året. På förvaltningen har ett arbete att upprätta
 rutiner och kontroller för att motverka och hantera denna typ av brottslighet påbörjats och ska utvecklas under
-2025.
+2025\.
 
 Kompetensförsörjningsutmaningen är här och den märks av i att det blir svårare att hitta rätt kompetens. Inom
 myndighetsutövningen är konkurrensen om kompetens stenhård, särskilt inom Barn – och unga och Familjehem
@@ -3296,10 +3296,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -3394,7 +3394,7 @@ Brukarbedömning
 individ- och
 88 %
 familjeomsorg totalt
-- helhetssyn
+\- helhetssyn
 3.1.1 Fokusområde: Rätt kompetens i rätt tid
 Beslutats av
 Nämnd
@@ -3595,11 +3595,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -3726,7 +3726,7 @@ pojkar.
 Avfall från hushåll ska
 minska med 30% per
 invånare från 2020 till 98        97
-2030. Startvärde 100,
+2030\. Startvärde 100,
 målvärde 2030 är 70.
 Avfall från kommunens
 verksamheter ska
@@ -3782,8 +3782,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -3884,8 +3884,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -3931,7 +3931,7 @@ Nämndens årsredovisning 2024
 Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237               236,5        237,5
 av de 17 bästa
@@ -3970,12 +3970,12 @@ kr/invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -4078,7 +4078,7 @@ max 180. Jämix
 103          114               122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 3.5.1 Fokusområde: Kommunikation som främjar transparens, tillit och delaktighet
 Beslutats av
 Nämnd
@@ -4357,7 +4357,7 @@ ta bort öppen telefon för att istället erbjuda fasta telefontider.
 inom socialtjänsten. I slutet av hösten startade två delprojekt upp. Ett delprojekt består i att våra
 utförarverksamheter tillsammans med AI Sweden ska utveckla en AI -assistent. Individ &
 Familjeomsorg blev prioriterade för arbetet i slutet på året och arbetet kommer att starta under våren
-2025. Det andra delprojektet är fortfarande i utforskande skede. Under hösten har myndighetsutövande
+2025\. Det andra delprojektet är fortfarande i utforskande skede. Under hösten har myndighetsutövande
 verksamheter identifierat behov av AI som sekreterare och översättare. Arbetet med att undersöka
 möjligheter inom dessa områden kommer att fortsätta 2025.
 
@@ -4961,7 +4961,7 @@ finansieras av Försäkringskassan, så kallade timmar enligt Socialförsäkring
 jämfört med 60 % under 2024.
 Verksamheten har, precis som Bostad med särskild service, arbetat med att sänka kostnaderna för
 övertidsersättning. För personlig assistans har kostnaden för övertidsersättning minskat med 25 % jämfört med
-2023. Arbetet med att sänka övertiden samt att se över kringtid och användandet av resurstiden kommer är
+2023\. Arbetet med att sänka övertiden samt att se över kringtid och användandet av resurstiden kommer är
 fortsätta under 2025.
 
 Vid årskiftet 2024/2025 genomförs en omorganisation där Daglig verksamhet organiseras tillsammans med
@@ -4971,7 +4971,7 @@ Myndighet, stöd och behandling
 
 Verksamheten redovisar ett underskott om 19,9 miljoner kronor.
 Kostnaderna för köpta platser inom Barn och Unga ökade kraftigt under 2023 och har fortsatt att öka under
-2024. Mellan åren har kostnaderna ökat med drygt 2,1 miljoner kronor vilket motsvarar 5,3 %. Positivt är att
+2024\. Mellan åren har kostnaderna ökat med drygt 2,1 miljoner kronor vilket motsvarar 5,3 %. Positivt är att
 Barn och Unga har färre köpta dygn jämfört med 2024. Däremot har priset per dygn ökat vilket medför att
 kostnaderna är högre trots en minskad volym.
 Ökningen i pris per dygn är något som även återfinns bland grannkommuner i GR. Vid en akut placering
@@ -5119,13 +5119,13 @@ De globala mål enligt Agenda 2030 som Individ & Familjeomsorgens uppdrag och ve
 kopplas till är:
 1.Ingen fattigdom - social och ekonomisk trygghet
 
-3. Hälsa och välbefinnande - psykisk hälsa, drogmissbruk, tillgänglig sjukvård
-5. Jämställdhet - utrota diskriminering av kvinnor och flickor, utrota våld, utnyttjande, människohandel, heder
+3\. Hälsa och välbefinnande - psykisk hälsa, drogmissbruk, tillgänglig sjukvård
+5\. Jämställdhet - utrota diskriminering av kvinnor och flickor, utrota våld, utnyttjande, människohandel, heder
 
-10. Minskad ojämlikhet - social, ekonomisk och politisk inkludering
-11. Hållbara städer - bostadssegregering, tillgänglighet framförallt för barn och funktionsnedsatta
+10\. Minskad ojämlikhet - social, ekonomisk och politisk inkludering
+11\. Hållbara städer - bostadssegregering, tillgänglighet framförallt för barn och funktionsnedsatta
 
-16. Fredliga och inkluderande samhällen samt medborgardialog - våldsutsatthet, tillit till samhället, social
+16\. Fredliga och inkluderande samhällen samt medborgardialog - våldsutsatthet, tillit till samhället, social
 sammanhållning, strukturellt utnyttjande och våld mot barn, organiserad brottslighet, transparens och
 inkludering i beslutsfattande
 Med sikte på nämnden för Individ & Familjeomsorgs fokusområde Hållbar socialtjänst som också är i enlighet

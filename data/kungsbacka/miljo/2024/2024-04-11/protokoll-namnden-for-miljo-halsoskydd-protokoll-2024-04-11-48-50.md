@@ -133,14 +133,14 @@ kommunens hemsida inte främjar syftet med förordningen.
 
 Förslagsställarna yrkar på följande tolkning och kommunikation, tills vidare:
 
-- Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till
+\- Att det är tillåtet att elda torrt trädgårdsavfall som inte går att kompostera, till
 exempel ris, kvistar och grenar.
-- Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
+\- Att de lokala föreskrifterna 10§ fortsätter att gälla; Eldning av löv, kvistar och annat
 trädgårdsavfall inom områden med detaljplan är förbjuden fr.o.m. den 1 maj t.o.m.
 den 30 september. Eldning under övrig tid får ske under förutsättning att olägenhet
 för människors hälsa inte uppstår
 
-- Att yrkandet gäller omgående och ska justeras idag.
+\- Att yrkandet gäller omgående och ska justeras idag.
 
 Beslutsunderlag
 

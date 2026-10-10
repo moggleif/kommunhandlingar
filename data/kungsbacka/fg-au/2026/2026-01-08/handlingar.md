@@ -859,7 +859,7 @@ särskilt stöd eller vidta motsvarande åtgärder.
 
 Resultatfond
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2026.
+2026\.
 
 Uppföljning
 Ekonomisk uppföljning sker månadsvis per enhet och verksamhetsområde. Delårsavstämningar görs per april
@@ -1607,7 +1607,7 @@ särskilt stöd eller vidta motsvarande åtgärder.
 Resultatfond
 
 Uttag ur resultatfond till utvecklingsprojekt beslutas av nämnden. Följande resultatfondsprojekt planeras för
-2026.
+2026\.
 
 7
 
@@ -1932,7 +1932,7 @@ Reviderad delegeringsförteckning 2026-01-08
 
 Innehåll
 
-1. Bestämmelser för nämndens delegering ................................................................................. 4
+1\. Bestämmelser för nämndens delegering ................................................................................. 4
 1.1 Villkor för delegat ......................................................................................................................... 4
 
 1.2 Jäv ................................................................................................................................................... 4
@@ -1944,7 +1944,7 @@ Innehåll
 1.6 Anmälan av delegeringsbeslut ................................................................................................. 5
 1.7 Förkortningar ................................................................................................................................ 6
 
-2. Delegeringsförteckning ................................................................................................................ 8
+2\. Delegeringsförteckning ................................................................................................................ 8
 A Verksamhet ..................................................................................................................................... 8
 
 A 1 Beslut och åtgärder rörande huvudmannens ansvar för verksamhetens
@@ -1967,7 +1967,7 @@ B Allmänt .....................................................................
 C Ekonomi .............................................................................. Fel! Bokmärket är inte definierat.
 D Personal .............................................................................. Fel! Bokmärket är inte definierat.
 
-3. Allmänt om delegering.................................................... Fel! Bokmärket är inte definierat.
+3\. Allmänt om delegering.................................................... Fel! Bokmärket är inte definierat.
 3.1 Vad innebär delegering? ............................................ Fel! Bokmärket är inte definierat.
 
 3.2 Syftet med delegering............................................... Fel! Bokmärket är inte definierat.
@@ -2004,7 +2004,7 @@ www.kungsbacka.se
 
 <!-- sida 57 -->
 
-1. Bestämmelser   för nämndens   delegering
+1\. Bestämmelser   för nämndens   delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -2035,12 +2035,12 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -2070,7 +2070,7 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om individutskottet har fått
 delegation undertecknas handling som beslutet avser av individutskottets
 ordförande och förvaltningschefen.
@@ -2080,10 +2080,10 @@ ordförande och förvaltningschefen.
 Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut i ett visst
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 
 vidaredelegation från förvaltningschefen
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -2193,7 +2193,7 @@ N ordf              Nämndens ordförande
 
 <!-- sida 61 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 8
 
@@ -2319,7 +2319,7 @@ N ordf              Nämndens ordförande
 | --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegera<br>t till | Anmärkning/villkor |
 | B 1 | KL 6 kap 39 § | Ärenden som är så brådskande att nämndens avgörande inte kan<br>avvaktas. | N ordf | Ska anmälas vid nämndens nästa sammanträde.<br>Om ordföranden har förfall, 1:e vice ordföranden.<br>Om 1:e vice ordföranden har förfall, 2:e vice<br>ordföranden. |
-| B 2 | Nämndens<br>budget, Riktlinjer<br>och regler för<br>förmåner till<br>förtroendevalda,<br>KF 2022-06.15 §<br>106 | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Riktlinjer och regler för förmåner till förtroendevalda<br>*I Riktlinjer och regler framgår vilka aktiviteter som<br>avses. |
+| B 2 | Nämndens<br>budget, Riktlinjer<br>och regler för<br>förmåner till<br>förtroendevalda,<br>KF 2022-06.15 §<br>106 | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Riktlinjer och regler för förmåner till förtroendevalda<br>\*I Riktlinjer och regler framgår vilka aktiviteter som<br>avses. |
 | B 3 | OSL 6 kap<br>3-6 §§ | Utlämnande av allmän handling med förbehåll eller att inte<br>lämna ut en allmän handling som avser nämnden och centrala<br>förvaltningen för FG | VC M | Utlämnande av handling utan förbehåll eller sekretess<br>lämnas ut av den som har hand om handlingen. |
 | B 4 | OSL 6 kap<br>3-6 §§ | Beslut om utlämnande av allmän handling med förbehåll eller att<br>inte lämna ut en allmän handling som avser förskole- och<br>skolenheter samt fritidshem och annan pedagogisk omsorg | R | Utlämnande av handling utan förbehåll eller sekretess<br>lämnas ut av den som har hand om handlingen |
 | B 5 | 6 kap. 3-6 §§ OSL | Beslut med förbehåll eller att inte lämna ut medicinska journaler<br>eller andra uppgifter inom den del av barn- och elevhälsan som<br>lyder under HSL | VC EMI | Utlämnande av handling utan förbehåll eller sekretess,<br>lämnas ut av den som har hand om handlingen |
@@ -2408,7 +2408,7 @@ N ordf              Nämndens ordförande
 | --- | --- | --- | --- | --- |
 | C 1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Uppsägning eller hävning av avtal | Fc | LOU, Policy för inköp<br>Riktlinjer för inköp |
 | C 2 | LOU,<br>kommunens<br>policy och -<br>riktlinjer för -<br>inköp och<br>upphandling<br>-<br>- | Beslut om upphandling inom nämndens verksamhetsområde.<br>Beslutanderätten innefattar följande:<br>Beslut att inleda upphandling<br>Beslut att godkänna tilldelning, gäller även återta tilldelning<br>Beslut att underteckna avtal efter att avtalsspärren löpt ut<br>alternativt efter att domstol avslagit ansökan om överprövning<br>Beslut att avbryta upphandling, gäller även återta avbrytande<br>Beslut om ändring och tillägg till avtal<br>Beslut om uppsägning eller hävning av avtal | Fc | Beslutsrätten gäller inom budgetansvar för respektive<br>ansvarsområde och i enlighet med gällande<br>upphandlingsregler. Vid större upphandlingar som har<br>långsiktig effekt, ska nämnden/utskottet informeras<br>innan upphandling sker. Inför beslut ska samråd alltid<br>ske med Service Inköp |
-| C 3 | LOU,<br>kommunens<br>policy och<br>riktlinjer för<br>inköp och<br>upphandling | Rätt att teckna avtal inom ramen för tilldelad budget, innefattande<br>direktupphandlingar vid köp vars värde överstiger 2 prisbasbelopp<br>men inte överstiger 12 prisbasbelopp*, i enlighet med gällande<br>upphandlingslagstiftning och kommunens riktlinjer för inköp och<br>upphandling. *2025 års nivå: 100 000-700 000 kr. | Respektive chef<br>med<br>budgetansvar | Tillämpas ej vid upphandling, se C 2.<br>Avtal gällande interkommunala placeringar regleras i<br>A.5.<br>Vid beslut ska regelverk kring exempelvis upphandling,<br>ramavtal och inköp beaktas. |
+| C 3 | LOU,<br>kommunens<br>policy och<br>riktlinjer för<br>inköp och<br>upphandling | Rätt att teckna avtal inom ramen för tilldelad budget, innefattande<br>direktupphandlingar vid köp vars värde överstiger 2 prisbasbelopp<br>men inte överstiger 12 prisbasbelopp\*, i enlighet med gällande<br>upphandlingslagstiftning och kommunens riktlinjer för inköp och<br>upphandling. \*2025 års nivå: 100 000-700 000 kr. | Respektive chef<br>med<br>budgetansvar | Tillämpas ej vid upphandling, se C 2.<br>Avtal gällande interkommunala placeringar regleras i<br>A.5.<br>Vid beslut ska regelverk kring exempelvis upphandling,<br>ramavtal och inköp beaktas. |
 | C 4 | LOU,<br>kommunens<br>policy och<br>riktlinjer för<br>inköp och<br>upphandling | Rätt att teckna avtal vid direktupphandlingar överstigande 100 000 kr<br>och upp till 700 000 kr (2025 års nivå) inom tilldelad budget. | EK C | Beslut ska ske i enlighet med upphandlingsregelverk.<br>Interkommunala placeringar och avtal reglerade i<br>andra punkter omfattas inte. Nämnden ska informeras<br>vid större upphandlingar med långsiktig effekt. |
 | C 5 | Nämndens<br>beslut om<br>nämndbudget<br>och<br>Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | Fc | Beslutet fattas inom ramen för av nämnden fastställd<br>rambudget och enligt kommunens budgetprocess. |
 
@@ -2476,7 +2476,7 @@ Se NFG 2025-02-20 § 20
 
 <!-- sida 76 -->
 
-3. Allmänt om delegering
+3\. Allmänt om delegering
 
 3.1 Vad innebär delegering?
 Kommunallagen bygger på principen att de förtroendevalda fattar beslut kollektivt och även har ett kollektivt verksamhetsansvar. De förtroendevalda ska
@@ -2497,8 +2497,8 @@ inväntas. Detta ska framgå av delegeringsförteckningen. Ordföranden har då 
 om. Denna rätt bör dock utnyttjas med försiktighet och i väldigt särskilda fall.
 Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan anställd inom kommunen att besluta istället, s.k. vidaredelegering
 (kommunallagen 7 kap 6 §). Beslut om delegering ska då ske i två steg;
-1) Nämndens beslut om delegering till förvaltningschef,
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+1\) Nämndens beslut om delegering till förvaltningschef,
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 3.2 Syftet med delegering
 Syftet med delegering är att dels avlasta nämnden rutinärenden och därmed ge möjlighet åt de förtroendevalda att ägna tid och uppmärksamhet åt ärenden
@@ -2528,14 +2528,14 @@ demokrati och organisationens effektivitet finns.
 Beslut får endast fattas inom nämndens verksamhetsområde, i ärenden där nämnden har befogenhet att fatta beslut enligt författning eller
 kommunfullmäktiges beslut. Vidare får beslut bara fattas inom ram för budget och övriga tillämpliga styrdokument.
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap 38 §:
-- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande ansvar för verksamheten
-- Framställningar eller yttrande till fullmäktige
-- Yttrande med anledning av att fullmäktiges beslut har överklagats
-- Yttrande med anledning av att nämndens egna beslut har överklagats
-- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars av större vikt.
-- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte aktuellt i Kungsbacka eftersom fullmäktige inte
+\- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande ansvar för verksamheten
+\- Framställningar eller yttrande till fullmäktige
+\- Yttrande med anledning av att fullmäktiges beslut har överklagats
+\- Yttrande med anledning av att nämndens egna beslut har överklagats
+\- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars av större vikt.
+\- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte aktuellt i Kungsbacka eftersom fullmäktige inte
 beslutat om att tillämpa möjligheten till medborgarförslag).
-- Ärenden som enlig lag eller annan författning inte får delegeras.
+\- Ärenden som enlig lag eller annan författning inte får delegeras.
 
 3.5 Vem har rätt att företräda nämnden för Kungsbacka kommun?
 I det kommungemensamma reglementet för kommunstyrelsen och nämnder i Kungsbacka kommun framgår att avtal, yttranden och andra framställningar till
@@ -2613,7 +2613,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 <!-- sida 81 -->
 
 Innehåll
-1. Bestämmelser för nämndens delegering ..................................................................................... 3
+1\. Bestämmelser för nämndens delegering ..................................................................................... 3
 
 1.1 Villkor för delegat ............................................................................................................................. 3
 1.2 Jäv........................................................................................................................................................ 3
@@ -2625,7 +2625,7 @@ Innehåll
 1.6 Anmälan av delegeringsbeslut ...................................................................................................... 4
 1.7 Förkortningar ..................................................................................................................................... 5
 
-2. Delegeringsförteckning..................................................................................................................... 7
+2\. Delegeringsförteckning..................................................................................................................... 7
 A Verksamhet .......................................................................................................................................... 7
 
 A 1 Beslut och åtgärder rörande huvudmannens ansvar för verksamhetens innehåll . 7
@@ -2648,7 +2648,7 @@ B Allmänt .....................................................................
 C Ekonomi ...............................................................................................................................................18
 
 D Personal .............................................................................................................................................. 22
-3. Allmänt om delegering ................................................................................................................... 24
+3\. Allmänt om delegering ................................................................................................................... 24
 
 3.1 Vad innebär delegering? ........................................................................................................... 24
 3.2 Syftet med delegering .............................................................................................................. 24
@@ -2659,7 +2659,7 @@ Delegeringsf örteckning       Sida 2 av 27
 
 <!-- sida 82 -->
 
-1. Bestämmelser för nämndens  delegering
+1\. Bestämmelser för nämndens  delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan anställd utan
@@ -2684,11 +2684,11 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder förste vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av ärendet och
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende- /verksamhetssystemet.
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och registreras i
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende- /verksamhetssystemet.
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och registreras i
 
 ärende-/verksamhetssystemet.
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen, det vill säga
@@ -2714,11 +2714,11 @@ Delegeringsf örteckning       Sida 3 av 27
 1.4 Rätt att vidta åtgärder med anledning av beslut
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har tagit:
 
-- Besluta att överklaga beslut och domar i ett ärende vid en överprövning
-- Beslut att avge yttrande till högre instans med anledning av överklagande av delegeringsbeslut samt att
+\- Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av delegeringsbeslut samt att
 besluta att ansöka om inhibition (ett beslut inte får genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna handling som beslutet
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna handling som beslutet
 avser. Om arbetsutskottet har fått delegation undertecknas handling som beslutet avser av arbetsutskottets
 ordförande och förvaltningschefen.
 
@@ -2727,10 +2727,10 @@ ordförande och förvaltningschefen.
 Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut i ett visst ärende eller ärendet visar
 sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska tjänstemannen överlämna
 ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom vidaredelegation från
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom vidaredelegation från
 förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt från nämnden.
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
 1.6 Anmälan av delegeringsbeslut
@@ -2812,7 +2812,7 @@ Delegeringsf örteckning      Sida 6 av 27
 
 <!-- sida 86 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 A Verksamhet
 
@@ -2953,7 +2953,7 @@ Delegeringsf örteckning      Sida 15 av 27
 | Nr | Delegeringens omfattning | Delegerat<br>till | Med<br>rätt att<br>vidare-<br>delegera | Lagrum/<br>Beslutsgrund | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | B 1 | Rätt att fatta beslut i<br>ärenden som är så<br>brådskande att nämndens<br>avgörande inte kan<br>avvaktas. | Ordf |  | 6 kap.39§ KL | Ska anmälas vid<br>nämndens nästa<br>sammanträde.<br>Om ordföranden har<br>förfall, 1:e vice<br>ordföranden.<br>Om 1:e vice ordföranden<br>har förfall, 2:e vice<br>ordföranden. |
-| B 2 | Deltagande i aktivitet* för<br>ordförande, vice<br>ordförande, ledamot och<br>ersättare i nämnden. | Ordf<br>För beslut<br>som avser<br>ordförande<br>beslutar<br>vice<br>ordförande |  | Nämndens budget,<br>Riktlinjer och regler<br>för förmåner till<br>förtroendevalda, KF<br>2022-06.15 § 106 | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Riktlinjer och<br>regler för förmåner till<br>förtroendevalda<br>*I Riktlinjer och regler<br>framgår vilka aktiviteter<br>som avses. |
+| B 2 | Deltagande i aktivitet\* för<br>ordförande, vice<br>ordförande, ledamot och<br>ersättare i nämnden. | Ordf<br>För beslut<br>som avser<br>ordförande<br>beslutar<br>vice<br>ordförande |  | Nämndens budget,<br>Riktlinjer och regler<br>för förmåner till<br>förtroendevalda, KF<br>2022-06.15 § 106 | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Riktlinjer och<br>regler för förmåner till<br>förtroendevalda<br>\*I Riktlinjer och regler<br>framgår vilka aktiviteter<br>som avses. |
 | B 3 | Beslut om utlämnande av<br>allmän handling med<br>förbehåll eller att inte lämna<br>ut en allmän handling som<br>avser nämnden och centrala<br>förvaltningen för FG | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 4 | Beslut om utlämnande av<br>allmän handling med<br>förbehåll eller att inte lämna<br>ut en allmän handling som<br>avser förskole- och<br>skolenheter samt fritidshem<br>och annan pedagogisk<br>omsorg | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 5 | Beslut med förbehåll eller<br>att inte lämna ut medicinska<br>journaler eller andra<br>uppgifter inom den del av<br>barn- och elevhälsan som<br>lyder under HSL | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
@@ -3034,7 +3034,7 @@ entreprenadavtal för
 omsorg på kvällar och
 helger se nämndens beslut §
 36, 2024-04-17, dnr 2024-
-180.
+180\.
 
 Se NFG 2025-02-20 § 20
 
@@ -3058,7 +3058,7 @@ Delegeringsf örteckning      Sida 22 av 27
 
 <!-- sida 102 -->
 
-:
+\:
 
 Delegeringsf örteckning      Sida 23 av 27
 
@@ -3075,7 +3075,7 @@ Delegeringsf örteckning      Sida 23 av 27
 
 <!-- sida 103 -->
 
-3. Allmänt om delegering
+3\. Allmänt om delegering
 
 3.1 Vad innebär delegering?
 Kommunallagen bygger på principen att de förtroendevalda fattar beslut kollektivt och även har ett kollektivt
@@ -3107,9 +3107,9 @@ Denna rätt bör dock utnyttjas med försiktighet och i väldigt särskilda fall
 Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan anställd inom kommunen att
 
 besluta istället, s.k. vidaredelegering (kommunallagen 7 kap 6 §). Beslut om delegering ska då ske i två steg;
-1) Nämndens beslut om delegering till förvaltningschef,
+1\) Nämndens beslut om delegering till förvaltningschef,
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 3.2 Syftet med delegering
 Syftet med delegering är att dels avlasta nämnden rutinärenden och därmed ge möjlighet åt de
@@ -3152,20 +3152,20 @@ beslut enligt författning eller kommunfullmäktiges beslut. Vidare får beslut 
 och övriga tillämpliga styrdokument.
 
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap 38 §:
-- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande
+\- Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga övergripande
 ansvar för verksamheten
 
-- Framställningar eller yttrande till fullmäktige
+\- Framställningar eller yttrande till fullmäktige
 
-- Yttrande med anledning av att fullmäktiges beslut har överklagats
-- Yttrande med anledning av att nämndens egna beslut har överklagats
+\- Yttrande med anledning av att fullmäktiges beslut har överklagats
+\- Yttrande med anledning av att nämndens egna beslut har överklagats
 
-- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars
+\- Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell beskaffenhet eller annars
 av större vikt.
-- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte
+\- Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden (detta är dock inte
 aktuellt i Kungsbacka eftersom fullmäktige inte beslutat om att tillämpa möjligheten till medborgarförslag).
 
-- Ärenden som enlig lag eller annan författning inte får delegeras.
+\- Ärenden som enlig lag eller annan författning inte får delegeras.
 
 3.5 Vem har rätt att företräda nämnden för Kungsbacka kommun?
 I det kommungemensamma reglementet för kommunstyrelsen och nämnder i Kungsbacka kommun framgår
@@ -3269,7 +3269,7 @@ Verksamhetschef elevhälsans psykologiska insatser
 Förslag till beslut
 Susanne Lyckevall utses till verksamhetschef för den psykologiska elevhälsan från och med 31 januari
 
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -3570,12 +3570,12 @@ beslut om åtgärder som kan behövas för att den huvudman som bedriver verksam
 fel som upptäckts vid granskningen.
 
 En huvudman ansvarar bland annat för att:
--  Utbildningen genomförs i enlighet med gällande styrdokument
+\-  Utbildningen genomförs i enlighet med gällande styrdokument
 
--  Resurser organiseras och fördelas i verksamheten
--  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
+\-  Resurser organiseras och fördelas i verksamheten
+\-  Verksamheten följs, utvärderas och utvecklas så att de nationella målen kan uppfyllas.
 
--  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
+\-  Utbildningen är likvärdig. Utbildningen vilar på vetenskaplig grund och beprövad erfarenhet.
 Det finns också i skollagen uttalade krav på ägar- och ledningskretsen för fristående huvudmän.
 Ägar- och ledningskretsen beror på organisationsform och kan exempelvis vara styrelseledamöter
 eller verkställande direktör eller ägare. Det ska finnas ekonomiska förutsättningar för
@@ -3643,22 +3643,22 @@ tillsynen samt eventuellt inkomna signaler.
 samt avgifter.
 
 1.2 Tillvägagångssätt för regelbunden tillsyn
--  Information till fristående huvudman om kommande tillsyn.
+\-  Information till fristående huvudman om kommande tillsyn.
 
--  E-tjänst med frågor och efterfrågad dokumentation går till fristående förskolorna för att
+\-  E-tjänst med frågor och efterfrågad dokumentation går till fristående förskolorna för att
 besvara. Blankett med frågor och underlag utgår till de fristående fritidshemmen samt
 pedagogisk omsorg. Digital blankett till vårdnadshavare skickas ut till de fristående
 verksamheterna inför tillsyn.
--  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
+\-  Förvaltningens tjänstemän går igenom den inlämnade dokumentationen och lägger utifrån
 informationen upp en plan för tillsynsbesöket och prioriterade områden.
 
--  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
+\-  Två tjänstepersoner besöker verksamheten och gör ett tillsynsbesök som omfattar
 intervjuer med företrädare för verksamheten.
 
--  Sammanfattande bedömning och vid behov begärs komplettering in.
--  Beslut och kommunicering med huvudman.
+\-  Sammanfattande bedömning och vid behov begärs komplettering in.
+\-  Beslut och kommunicering med huvudman.
 
--  Uppföljning av eventuella förelägganden.
+\-  Uppföljning av eventuella förelägganden.
 
 Kungsbacka kommun Redovisning av tillsyn 2025 samt planerad tillsyn 2026 4
 
@@ -3668,12 +3668,12 @@ Inom den regelbundna tillsynen görs en bred genomgång av regelefterlevnad. Fr�
 utvecklas löpande utifrån erfarenheter från tidigare tillsyner.
 En tillsynsbeslut kan resultera i:
 
--  Föreläggande
+\-  Föreläggande
 
--  Anmärkning
--  Avstående från ingripande
+\-  Anmärkning
+\-  Avstående från ingripande
 
--  Återkallelse
+\-  Återkallelse
 Beslut i tillsynen gällande föreläggande utan vite, anmärkning eller avstående från ingripnade är
 delegerade till förvaltningen. Övriga beslut av mer ingripande karaktär som föreläggande med vite
 eller återkallelse ska till nämnden för beslut.
@@ -3693,10 +3693,10 @@ Avstående från ingripande
 Den granskande myndigheten kan avstå från ett ingripande och ändå beskriva bristerna i beslutet
 om:
 
--  bristerna vid en tillsyn är mindre
+\-  bristerna vid en tillsyn är mindre
 
--  verksamheten som granskas genomför nödvändig rättelse
--  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
+\-  verksamheten som granskas genomför nödvändig rättelse
+\-  det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande
 
 Återkallelse
 Om en verksamhet har mycket allvarliga brister kan den granskande myndigheten fatta beslut om
@@ -3720,12 +3720,12 @@ Kungsbacka kommun Redovisning av tillsyn 2025 samt planerad tillsyn 2026 5
 
 <!-- sida 119 -->
 
--  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+\-  genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten (exempelvis skollag och förordningar, arbetsmiljö och arbetsrätt samt de
 ekonomiska regelverk som styr associationsformen).
--  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
+\-  har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
 
--  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
+\-  i övrigt har förutsättningar att följa de föreskrifter som gäller för verksamheten.
 Vidare krävs enligt tredje stycket att den enskilde i övrigt bedöms lämplig. I fråga om en juridisk
 person krävs att samtliga som anges i 2 kap. 5 a § 1–4 skollagen bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
@@ -3906,23 +3906,23 @@ Under utbildningsår 2024–2025 har vi fortsatt arbeta med vårt projekt Framti
 barnen i centrum, ett projekt som avser möta samtliga intraprenadmål.
 
 Projektet vill pröva
-- Gynnsamheten av ett effektiviserat samarbete mellan våra förskolor på flera nivåer; strategisk
+\- Gynnsamheten av ett effektiviserat samarbete mellan våra förskolor på flera nivåer; strategisk
 bemanning, gemensamma öppningar och stängningar kan skapa tätare bemanning under längre tid av
 barnens vistelsetider, samt mer utrymme för pedagogernas fortbildning samt planerings- och
 reflektionstid.
-- Om ett ökat fokus på skiljelinjen mellan utbildning och undervisning och hur olika delar av
+\- Om ett ökat fokus på skiljelinjen mellan utbildning och undervisning och hur olika delar av
 utbildningen kan användas kan ge pedagogerna verktyg att åter skapa den helhet där barnens behov,
 omsorg, utveckling och lärande tillsammans bildar en helhet - samtidigt som undervisningens kvalitet
 höjs.
-- Om pedagogerna genom ökad teoretisk och praktisk kunskap om lekens, delaktighetens och
+\- Om pedagogerna genom ökad teoretisk och praktisk kunskap om lekens, delaktighetens och
 lärmiljöernas betydelse för alla barns utveckling och lärande, och i synnerhet för barn med
 neuropsykiatriska funktionsnedsättningar, kan använda lek och lek- och lärmiljöer som pedagogiska
 verktyg för att skapa bättre förutsättningar för varje enskilt barn.
-- Om en ökad teoretisk och praktisk kunskap om dokumentationsuppdraget hos pedagogerna kan höja
+\- Om en ökad teoretisk och praktisk kunskap om dokumentationsuppdraget hos pedagogerna kan höja
 likvärdigheten mellan förskolorna gällande dokumentation av det systematiska kvalitetsarbetet där
 exempelvis barnens förändrade kunnande är en del, samt om det kan ge pedagogerna en ökad känsla av
 sammanhang (KASAM).
-- Om en tydlig idé och uppdelning av arbetet med läroplanens mål (Eidevald, 2024) kan skapa bättre
+\- Om en tydlig idé och uppdelning av arbetet med läroplanens mål (Eidevald, 2024) kan skapa bättre
 förutsättningar för pedagogerna att säkerställa att alla barn får det de har rätt till, dvs hela läroplanen,
 samt om det kan ge pedagogerna en ökad känsla av sammanhang, KASAM.
 
@@ -3955,12 +3955,12 @@ arbetsverktyg svarade 100% att den bidragit till att uppdraget enligt kapitel 2.
 hanterbart.
 
 Tårtan har så här långt bidragit till:
--  Att alla barn erbjuds och kan delta i undervisning inom alla läroplanens områden som tårtan
+\-  Att alla barn erbjuds och kan delta i undervisning inom alla läroplanens områden som tårtan
 hittills fokuserat.
--  Ökad undervisningskvalitet.
--  Att varje barngrupp har lek- och lärmiljöer utformade utifrån de behov som finns i gruppen,
+\-  Ökad undervisningskvalitet.
+\-  Att varje barngrupp har lek- och lärmiljöer utformade utifrån de behov som finns i gruppen,
 samt att miljöerna används som en del i undervisningen.
--  Att samtliga pedagoger får ökad kompetens och upplever hanterbarhet i sitt
+\-  Att samtliga pedagoger får ökad kompetens och upplever hanterbarhet i sitt
 dokumentationsuppdrag och sitt uppdrag som helhet.
 
 Under 2024–2025 har enheten också arbetat med att se över bemanning efter beläggning och utifrån

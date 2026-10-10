@@ -112,7 +112,7 @@ Beslut
 Valnämnden godkänner valnämndens nämndbudget 2026, daterad 2025-10-27.
 
 Valnämnden ger administrativ chef i uppdrag att upprätta förvaltningsbudget för
-2026.
+2026\.
 Valnämnden ger administrativ chef i uppdrag att göra nödvändiga omfördelningar i
 förvaltningsbudgeten under året samt att informera nämnden om dessa i samband
 med delårsrapport och bokslut.
@@ -274,10 +274,10 @@ Valnämnden ansvarar för behörighetsadministrationen och för användarna i si
 kommun. Den lägger till och tar bort användare, ser till att användarna har rätt
 behörighetsroll, med mera. Valnämnden behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort
 behörighetsroller för kommunens övriga användare.
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
 
 inskrivare krävs för att kunna lägga till och ta bort användare i Valid.
 
@@ -352,13 +352,13 @@ Sammanfattning av ärendet
 Under perioden 16 september - 7 november har följande skrivelser inkommit till
 
 valnämnden:
-- Skrivelse från Ernst & Young
+\- Skrivelse från Ernst & Young
 
-- Skrivelse från PostNord
-- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 212
+\- Skrivelse från PostNord
+\- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 212
 
-- Valmyndighetens nyhetssammanfattning v. 40
-- Gör valet 2026 tillgängligt - stöd för valnämnd mfl.
+\- Valmyndighetens nyhetssammanfattning v. 40
+\- Gör valet 2026 tillgängligt - stöd för valnämnd mfl.
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av

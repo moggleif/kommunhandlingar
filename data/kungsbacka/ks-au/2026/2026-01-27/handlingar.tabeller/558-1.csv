@@ -1,0 +1,41 @@
+-,Kostnader,-,"Organisation kring anläggning / Under-
+håll"
+-,Kostnader,-,"Livslängd, Livscykelanalys"
+22A,"Hydraulik och vat-
+tenhantering","Tillgång till magasinsvoly-
+mer, buffert",Tillgängliga ytor
+23A,"Hydraulik och vat-
+tenhantering","Omledning av tillkom-
+mande vatten",Avledning av tillkommandevattenflöden
+-,"Hydraulik och vat-
+tenhantering",Reglering uppströms,
+-,"Hydraulik och vat-
+tenhantering","""Vattendomar"" / Tillstånds-
+ansökan","Magasinering, avledning, reglering"
+25A,"Hydraulik och vat-
+tenhantering",Förhöjd exploateringsnivå,"+2,5 +3,5?? +X,X??"
+-,"Hydraulik och vat-
+tenhantering",+Nivå?,Skyddsnivå bakom portarna
+-,"Hydraulik och vat-
+tenhantering",Stående våg?,Dimensionering av konstruktioner
+-,"Hydraulik och vat-
+tenhantering","Balans och val av flöde (Q)
+och nivå (H)","Sammansättning olika förutsättningar
+och sannolikheter m.m."
+24A,Tekniska lösningar,Portar+Skydd+pump,
+-,Tekniska lösningar,Tillgängliga ytor,
+-,Tekniska lösningar,+Nivå?,
+-,Tekniska lösningar,Dimensionerande flöde,
+-,Tekniska lösningar,Ekonomi,
+29A,Risk och sårbarhet,Komplexitet,Tekniskt komplext-hög sårbarhet
+,,,Sabotage
+,,,Vi bygger in oss
+,,,Tekniskt robust-mindre sårbart
+,,,Psykologiska faktorer
+,,,"Lokala lösningar kan innebära mycket
+drift-mänskliga faktorn"
+,,,"Skydd ger förutsättning för exploatering
+långt nedströms -> Mer sårbar"
+-,Risk och sårbarhet,Val av skyddsobjekt,"Vad kan vi offra/vad är viktigt att
+skydda/ekonomi"
+40A,Geoteknik,Bra förhållanden,"Bra nivåer, bra undergrund"

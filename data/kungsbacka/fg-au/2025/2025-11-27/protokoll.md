@@ -314,14 +314,14 @@ Se bilaga ”Beslut tematisk tillsyn lovskola” för Skolinspektionens hela bed
 speciellt för de områden Skolinspektionen konstaterade var utan brister. Här kommer
 det som de såg att vi behövde förbättra:
 
-1. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas. (10
+1\. Huvudmannen ska bestämma vid vilken skolenhet som lovskolan anordnas. (10
 kap. 23 e § skollagen)
-2. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen bedömning
+2\. Se till att läraren, när betyg sätts efter prövning, gör en sammantagen bedömning
 
 av elevens kunskaper i förhållande till de betygskriterier som gäller för ämnet och
 sätta det betyg som bäst motsvarar elevens. Detta gäller ämnena Idrott, svenska och
 engelska.
-3. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet med
+3\. Se till att alla beslut om betyg dokumenteras i en betygskatalog i enlighet med
 författningarnas krav. Det innebär även att om eleven har ett betyg i ämnet sedan
 tidigare ska såväl det gamla som det nya betyget framgå av betygskatalogen.
 
@@ -339,13 +339,13 @@ Förskola & Grundskola arbetsutskott
 Datum
 2025-11-27
 
-1. Organisera lovskolan så den uppfyller kraven enligt 10 kap. 23 e § skollagen, dvs
+1\. Organisera lovskolan så den uppfyller kraven enligt 10 kap. 23 e § skollagen, dvs
 anordna lovskolan på en av huvudmannens enheter.
-2. Utveckla bedömningsmaterialet i Svenska och Engelska så det garanteras att en
+2\. Utveckla bedömningsmaterialet i Svenska och Engelska så det garanteras att en
 sammantagen bedömning görs. I Idrott eller specifikt simundervisning förlägga den
 som är till åk 9 och betyg under ordinarie läsår.
 
-3. Utarbeta en rutin och den digitala resursen så att både elevens nya betyg och
+3\. Utarbeta en rutin och den digitala resursen så att både elevens nya betyg och
 elevens tidigare betyg syns i betygskatalogen.
 
 Beslutsunderlag
@@ -831,7 +831,7 @@ fram förslag till uppdaterat avtal.
 
 Ärendet har behandlats i antagningsnämnden den 22 maj 2025. En kopia på beslut i
 nämnd/styrelse eller av den utsedd person, ska vara GR tillhanda senast 18 december
-2025. Nytt samverkansavtal börjar gälla den 1 januari 2026.
+2025\. Nytt samverkansavtal börjar gälla den 1 januari 2026.
 
 Beslutsunderlag
 

@@ -148,7 +148,7 @@ unga med kognitiv svikt på Signeshus (Initiativärende från Hravn Forsne
 
 § 188 Dnr VO-2025-00480
 Beslut om insatser utan behovsprövning enligt socialtjänstlagen (2025:400)
-- Nämnden för Vård & Omsorg - revidering .............................................. 27
+\- Nämnden för Vård & Omsorg - revidering .............................................. 27
 
 § 189 Dnr VO-2025-00183
 
@@ -267,7 +267,7 @@ Västsverige, i Kungsbacka utvecklas vi hela livet och ett medskapande samhälle
 en öppen attityd.
 
 Förslag på fokusområden och rangordning av indikatorer skickas in senast 7 januari
-2026.
+2026\.
 
 Beslutsgång
 
@@ -902,17 +902,17 @@ kvalitetsarbetet.
 Alliansen föreslår nämnden besluta att:
 
 Alliansen föreslår att:
-1. Förvaltningen får i uppdrag att upphandla extern revision med syfte att
+1\. Förvaltningen får i uppdrag att upphandla extern revision med syfte att
 
 granska samtliga verksamheter som på uppdrag av Vård & Omsorgsnämnden
 utför SoL och HSL-insatser. Detta omfattar offentliga såväl som privata
 utifrån LOV, ramavtal och LOU.
-2. Förvaltningen får i uppdrag att revisionen ska utgå från Äldrestandarden eller
+2\. Förvaltningen får i uppdrag att revisionen ska utgå från Äldrestandarden eller
 likvärdig standard/kvalitetsledningssystem som godkänts av Socialstyrelsen.
 
-3. Förvaltningen får i uppdrag att existerande och framtida LOV-system
+3\. Förvaltningen får i uppdrag att existerande och framtida LOV-system
 anpassas för att inkludera revisionen.
-4. Förvaltningen får i uppdrag att ta fram en plan och ett årshjul för
+4\. Förvaltningen får i uppdrag att ta fram en plan och ett årshjul för
 
 granskningar som sedan beslutas av nämnd efter genomförd upphandling.
 
@@ -1133,12 +1133,12 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorg gav den 22 februari 2024 förvaltningschefen i uppdrag
 att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att
 etablera en sådan avdelning på Signes Hus
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
 personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
 möjligt statliga donationer.
 
 Förvaltningen genomförde en utredning och återkopplade resultatet till nämnden den
@@ -1181,7 +1181,7 @@ behovsprövning enligt socialtjänstlagen, att gälla från och med den 1 januar
 
 Förteckning för insatser utan behovsprövning enligt socialtjänstlagen antagen av
 Nämnden för Vård & Omsorg, 2025-06-12, § 95, upphör att gälla den 31 december
-2025.
+2025\.
 
 Sammanfattning av ärendet
 

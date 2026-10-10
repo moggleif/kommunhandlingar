@@ -277,7 +277,7 @@ allmänna valen fick mer än 1 procent av rösterna och som har begärt utläggn
 Partier som har rätt till distribution och utläggning av partivalsedlar ansvarar för att
 vid val till riksdag, kommun- och regionfullmäktige vid förtidsröstningslokal,
 leverera sina namnvalsedlar till valkansliet senast klockan 12:00 den 10 augusti
-2026. I annat fall ansvarar partierna själva för att leverera sina namnvalsedlar till
+2026\. I annat fall ansvarar partierna själva för att leverera sina namnvalsedlar till
 respektive förtidsröstningslokal. De partier som inte omfattas av vallagen ansvarar
 för att vid val till riksdag, kommun- och regionfullmäktige 2026 själva leverera sina
 valsedlar till respektive vallokal och förtidsröstningslokal.
@@ -387,12 +387,12 @@ Vid valen 2026 får väljare med digital brevlåda sitt röstkort digitalt, övr
 röstkortet med posten.
 Ny teknik och nya arbetssätt införs vid förtidsröstningen:
 
-- Digital väljarförteckning ersätter avprickning på papper.
-- Röstkort behövs inte längre för att transportera röster till rätt vallokal.
+\- Digital väljarförteckning ersätter avprickning på papper.
+\- Röstkort behövs inte längre för att transportera röster till rätt vallokal.
 
-- Det kuvert som rösten läggs ner i får en kod som skannas och kopplas till väljarens
+\- Det kuvert som rösten läggs ner i får en kod som skannas och kopplas till väljarens
 uppgifter i den digitala väljarförteckningen
-- Förtidsröstningslokalerna utrustas med dator och skanner.
+\- Förtidsröstningslokalerna utrustas med dator och skanner.
 
 Nyheterna påverkar inte själva röstningen, som fortsatt sker med pappersvalsedlar.
 Förändringarna möjliggör både en ny distributionslösning av förtidsröster hos
@@ -430,13 +430,13 @@ Sammanfattning av ärendet
 Under perioden 8 november - 31 december har följande skrivelser inkommit till
 
 valnämnden:
-- Protokollsutdrag Kommunfullmäktige 2025-12-11 §263
+\- Protokollsutdrag Kommunfullmäktige 2025-12-11 §263
 
-- Protokollsutdrag Kommunfullmäktige 2025-12-11 §260
-- PostNord - Folder 2025-12-17
+\- Protokollsutdrag Kommunfullmäktige 2025-12-11 §260
+\- PostNord - Folder 2025-12-17
 
-- Inbjudan till regionala valkonferenser 2026
-- Valmyndighetens sammanfattande nyheter v. 49
+\- Inbjudan till regionala valkonferenser 2026
+\- Valmyndighetens sammanfattande nyheter v. 49
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av
@@ -465,13 +465,13 @@ Sammanfattning av ärendet
 Under perioden 1 januari - 30 januari följande skrivelser inkommit till
 
 valnämnden:
-- Valmyndighetens nyhetsbrev v_5
+\- Valmyndighetens nyhetsbrev v_5
 
-- DSO årsrapport 2025_Kba 20260129
-- Valmyndighetens nyhetsbrev v_4
+\- DSO årsrapport 2025_Kba 20260129
+\- Valmyndighetens nyhetsbrev v_4
 
-- Tillgängliga val - stöd för kommunernas valarbete
-- Valmyndighetens nyhetsbrev v_3
+\- Tillgängliga val - stöd för kommunernas valarbete
+\- Valmyndighetens nyhetsbrev v_3
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av

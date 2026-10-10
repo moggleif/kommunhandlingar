@@ -121,7 +121,7 @@ Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per den 3
 2025 för byggnadsnämnden enligt kommunens riktlinjer.
 Byggnadsnämnden redovisar ett utfall mot budget på -0,9 miljoner kronor per april.
 Prognosen för helåret visar att nämnden har en sammantagen budget i balans för
-2025.
+2025\.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2025-05-09

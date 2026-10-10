@@ -480,12 +480,12 @@ föreslår därför en åtgärdsplan för att kartlägga vilka förutsättningar
 att den ytterst arbetsmiljöansvariga nämnden ska fatta rätt beslut för välfärden.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en
 åtgärdsplan som ska kartlägga vilka ekonomiska- såväl som organisatoriska
 förutsättningar som behövs för att säkerställa ett sexveckorsschema i
 hemtjänsten.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram
 åtgärdsplanen till nämndens sammanträde den 16 oktober 2025.
 
 Ermin Škorić (S), Astrid Börjesson (S), Eva Tingström (S), Ingela Hansson (S)
@@ -700,7 +700,7 @@ Följande datum föreslås för år 2026:
 23 april 17 september
 
 Nämnden för Vård & Omsorgs planeringsdagar föreslås till 29 januari och 27 augusti
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -1094,7 +1094,7 @@ Attester
 Lex Sarah
 
 Avtal
--
+\-
 
 Övrigt
 Diarienummer VO-2025-00219. Yttrande till Patientnämnden Halland, 2025-05-13.

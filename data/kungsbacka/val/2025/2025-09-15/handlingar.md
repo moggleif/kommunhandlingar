@@ -252,7 +252,7 @@ www.kungsbacka.se
 
 <!-- sida 9 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 19 juni 2025 10:49
 Till:                  Brev: Val ValAdm
 Ämne:                  Information från Valmyndigheten
@@ -262,7 +262,7 @@ Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka i
 
 Hej,
 Valmyndigheten arbetar för att införa digitala röstkort och en moderniserad förtidsröstning till valen
-2026. En viktig del av det arbetet är även att se till att det finns lösningar för sortering och distribution av
+2026\. En viktig del av det arbetet är även att se till att det finns lösningar för sortering och distribution av
 förtidsröster, både mellan kommuner och inom den egna kommunen.
 
 PostNord är den leverantör som sorterar och distribuerar alla förtidsröster som ska till andra kommuner,
@@ -313,7 +313,7 @@ www.val.se
 
 <!-- sida 11 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 21 maj 2025 11:43
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.21
@@ -350,9 +350,9 @@ Skickat:        den 27 augusti 2025 14:26
 
 Prioritet:      Hög
 
-Från: Göran Newberg <goran.newberg@med.se>
+Från: Göran Newberg \<goran.newberg@med.se>
 Skickat: den 26 augusti 2025 12:05
-Kopia: Göran Newberg <goran.newberg@med.se>
+Kopia: Göran Newberg \<goran.newberg@med.se>
 Ämne: Hemställan till valnämnden om samdistribution av valsedlar
 Prioritet: Hög
 

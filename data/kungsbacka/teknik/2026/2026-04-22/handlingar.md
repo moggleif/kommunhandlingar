@@ -37,7 +37,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 2 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Taxan tillämpas för uttag av avgifter vid upplåtelse av allmän platsmark inom
 
 detaljplanelagda områden och områden som kommunen jämställt med sådan
@@ -111,7 +111,7 @@ verksamheter.
 omfattning, nedlagd handläggningstid och övriga omständigheter, får avgift
 enligt denna taxa sättas ned eller efterskänkas.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 I Lagen (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser av
 allmän platsmark regleras möjligheten att ta ut avgifter. Kommunen har rätt att
@@ -137,7 +137,7 @@ kommersiell verksamhet är därmed avgiftsfria. Exempel på icke kommersiell
 verksamhet är skolklasser, religiösa-, politiska- och ideella föreningar och
 organisationer, humanitära organisationer och föreningar eller därmed
 jämförliga verksamheter.
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Taxor för upplåtelse av allmän platsmark är enligt lagstiftning momsbefriade.
 
@@ -147,7 +147,7 @@ Sida 3 av 6
 
 <!-- sida 4 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Indelning av zoner
 Zon 1 - Kungsbacka centrum: Avgränsat av Kungsbackaån, Kungsgatan,
@@ -195,7 +195,7 @@ Sida 4 av 6
 Minigolf, boule, varpa och liknande 2 kr/m²/år.
 14 uthyrningsverksamheter    Minimiavgift 500 kr
 
-_____
+\_\_\_\_\_
 
 Taxa för upplåtelse av allmän platsmark
 
@@ -289,7 +289,7 @@ Teknik fastställd typ, till 500 kr/m och säsong från och med säsongen 2005.
 
 Ärendeberedning
 Kommunstyrelsens förvaltning, skrivelse 2005-05-1 1.
-Kommunstyrelsens arbetsutskott 2005-05-17, $ 228.
+Kommunstyrelsens arbetsutskott 2005-05-17, \$ 228.
 
 Kommunstyrelsen 2005-05-25, 8 124.
 
@@ -330,7 +330,7 @@ säsongen 2005.
 
 Hyresnivån för staket, enligt av Plan & Bygg och Teknik fastställd typ, fastslås
 till 500 kr/m och säsong (1 april- 30 september) från och med säsongen
-2005.
+2005\.
 
 Nämnden för Teknik slutför förhandlingarna om 2004 års kostnader för
 staketuthyrning.
@@ -351,7 +351,7 @@ KD H i
 
 | f Asa i SS - |
 
-|
+\|
 Je
 
 US
@@ -491,7 +491,7 @@ A 'Försäljningsändamål
 | av eller 500 kr/plats/mån
 B Annat kommersiellt ändamål
 | Affischpelare 5 000 kr/st/år
-2. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
+2\. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
 3 Skyltvaror utanför butik 500 kr/år Maxbredd från husliv 0,75 m
 4 > Festivaler, utställningar 5 kr/kvm/dag Minimiavgift 500 kr
 5 Cirkus, tivoli 2-:000 kr/plats/dag
@@ -877,7 +877,7 @@ Kungsbacka kommun        Lokala ordningsföreskrifter för torghandel 5 (5)
 <!-- sida 23 -->
 
 lv KUNGSBACKA Datum 1996-11-14 Beteckning 2.
-KOMMUNS KF $$ 205/96
+KOMMUNS KF \$\$ 205/96
 FÖRFATTNINGSSAMLING
 
 Grunder för torghandelsavgifter i Kungsbacka
@@ -897,7 +897,7 @@ Avgifterna delas upp i fem grupper:
 2A. Tillfälliga upplåtelser av försäljningsplats på torgdagar
 
 2B. Tillfälliga upplåtelser av försäljningsplats på marknadsdagar
-3. Avgiftsfria upplåtelser
+3\. Avgiftsfria upplåtelser
 
 1A. Fasta försäljningsplatser samtliga försäljningsdagar
 

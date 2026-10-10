@@ -126,7 +126,7 @@ Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Initiativärende angående – Benämning på ny väg till Onsala
+\-  Initiativärende angående – Benämning på ny väg till Onsala
 Ärendet lyfts efter paragraf § 31 i dagordningen: § 31 Information om kommunens
 arbete kopplat till Onsalavägen.
 
@@ -321,7 +321,7 @@ Onsalavägen för Gamla Onsalavägen vilket är förvirrande då det finns en �
 Onsalavägen”.
 
 Därför föreslår Socialdemokraterna att:
--  Den nya vägen ut på Onsalalandet benämns som Onsalaleden för att undvika
+\-  Den nya vägen ut på Onsalalandet benämns som Onsalaleden för att undvika
 
 förvirring och att de tidigare vägarna får behålla sina nuvarande namn.
 Elisabeth Lyckevall, Socialdemokraterna (S)
@@ -397,42 +397,42 @@ Sammanfattning av ärendet
 Under perioden 12 februari och 11 mars inkom följande skrivelser till nämnden för
 Teknik:
 
-- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 13
-- Kommunstyrelsens förvaltning Tjänsteskrivelse - Tydligare regler om pyrotekniska
+\- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 13
+\- Kommunstyrelsens förvaltning Tjänsteskrivelse - Tydligare regler om pyrotekniska
 varor
 
-- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 11
-- Lokala föreskrifter för skydd av människors hälsa och miljö
+\- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 11
+\- Lokala föreskrifter för skydd av människors hälsa och miljö
 
-- Tjänsteskrivelse - Revidering av lokala föreskrifter till skydd för människors hälsa
+\- Tjänsteskrivelse - Revidering av lokala föreskrifter till skydd för människors hälsa
 och miljö
-- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 10
+\- Protokollsutdrag Kommunfullmäktige 2026-02-03 § 10
 
-- Tjänsteskrivelse - Priser och utmärkelser i Kungsbacka
-- Avsiktsförklaring mellan Kungsbacka och Göteborg avseende samverkan kring
+\- Tjänsteskrivelse - Priser och utmärkelser i Kungsbacka
+\- Avsiktsförklaring mellan Kungsbacka och Göteborg avseende samverkan kring
 
 ömsesidigt dricksvattenkomplement i ansträngda lägen
-- Lönekartläggning 2025 och handlingsplan 2026, godkänd av kommunstyrelsen
+\- Lönekartläggning 2025 och handlingsplan 2026, godkänd av kommunstyrelsen
 2026-02-17, § 28
 
-- Protokollsutdrag KS 2026-02-17 § 28 - Lönekartläggning 2025 och handlingsplan
+\- Protokollsutdrag KS 2026-02-17 § 28 - Lönekartläggning 2025 och handlingsplan
 2026, KS-2025-00868
-- Tjänsteskrivelse - Lönekartläggning 2025 och handlingsplan 2026, KS-2025-00868
+\- Tjänsteskrivelse - Lönekartläggning 2025 och handlingsplan 2026, KS-2025-00868
 
-- Tjänsteskrivelse - Svar på Region Hallands remiss om Trafikförsörjningsprogram
+\- Tjänsteskrivelse - Svar på Region Hallands remiss om Trafikförsörjningsprogram
 2026-2030
 
-- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 275
-- Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-12-09 § 372
+\- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 275
+\- Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-12-09 § 372
 
-- Yttrande (M) 2025-12-09 Trafikförsörjningsprogrammet
-- Protokollsutdrag Byggnadsnämnden 2026-02-19 § 29 - Beslut
+\- Yttrande (M) 2025-12-09 Trafikförsörjningsprogrammet
+\- Protokollsutdrag Byggnadsnämnden 2026-02-19 § 29 - Beslut
 
-- Skrivelse om dagvattenhantering, Spårhaga S:6
-- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
 
-- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
-- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Foto - Skrivelse om dagvattenhantering, Spårhaga S:6
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 551D562DE9CA0B81735AD1708C9B464DB3480A16F2
@@ -445,18 +445,18 @@ Nämnden för Teknik
 Datum
 2026-03-18
 
-- Protokoll sidan 1 - Skrivelse om dagvattenhantering, Spårhaga S:6
-- Protokoll sidan 2 - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Protokoll sidan 1 - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Protokoll sidan 2 - Skrivelse om dagvattenhantering, Spårhaga S:6
 
-- Protokoll sidan 3 - Skrivelse om dagvattenhantering, Spårhaga S:6
-- Beslut - Överklagande av Nämnden för Miljö & Hälsoskydds beslut avseende
+\- Protokoll sidan 3 - Skrivelse om dagvattenhantering, Spårhaga S:6
+\- Beslut - Överklagande av Nämnden för Miljö & Hälsoskydds beslut avseende
 föreläggande att redovisa åtgärdsplan för bullerreducerande åtgärder, Tölö 1:34, dnr
 
 406-2026
-- Svar på inkommen synpunkt om klagomål på färdtjänst, KOM-2026-00100
+\- Svar på inkommen synpunkt om klagomål på färdtjänst, KOM-2026-00100
 
-- Lämna en synpunkt - 266743
-- Frågor och svar - Synskadades riksförbund i Kungsbacka
+\- Lämna en synpunkt - 266743
+\- Frågor och svar - Synskadades riksförbund i Kungsbacka
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera redovisningen av
@@ -484,7 +484,7 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Antikrångel – välfärden med kärnuppdraget i fokus
+\-  Antikrångel – välfärden med kärnuppdraget i fokus
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera informationen till

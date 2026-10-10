@@ -941,11 +941,11 @@ nämndens ordinarie sammanträde 11 juni 2026.
 
 Förslag till beslut:
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda vilken
 tillgång till stickskydd som finns i verksamheten och om all personal, som
 kan tänkas utföra insatser har fullgod tillgång.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma med
 en redovisning till nämndens sammanträde den 11 juni 2026.
 
 Beslutsunderlag
@@ -1022,7 +1022,7 @@ personal som berörs av denna omorganisation upplever förändringarna och effek
 av den.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att genomföra en
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att genomföra en
 utvärdering av organisationsförändringen av Gemensam Insats &
 Bemanningsenheten, med målgruppen enhetschefer och personal som berörs
 av GIBens arbete i första linjen inom förvaltningens vård och
@@ -1032,7 +1032,7 @@ områden:
 a. Effekten på bemanningsplanering
 b. Intern kommunikation mellan GIBen och enhetscheferna
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att redovisa
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att redovisa
 utvärderingen enligt punkt nr 1 under nämndens ordinarie sammanträde i
 augusti 2026.
 
@@ -1176,7 +1176,7 @@ Personal
 2026-03-01 - 2026-03-31.
 
 Attester
--
+\-
 
 Lex Sarah
 

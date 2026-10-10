@@ -65,12 +65,12 @@ redan nu, med fokus på faktisk service och tillgänglighet för invånare och f
 
 Förvaltningen ges därför i uppdrag att med skyndsamhet:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
 
-- identifiera områden i Servicelyftet som behöver prioriteras
+\- identifiera områden i Servicelyftet som behöver prioriteras
 
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
 på nämndmötet i augusti
 
 Thure Sandén      Heinrich Kaufmann          Daniel Hognert
@@ -175,7 +175,7 @@ näringslivsklimat inom ramen för projektet Serviclyftet. Resterande verksamhet
 sammantaget ha en budget i balans under 2026.
 
 Nedan följer en kortfattad beskrivning av viktiga händelser i verksamheterna under perioden januari till april
-2026.
+2026\.
 Arbetet med förbättrat företagsklimat
 Varje år genomför Sveriges Kommuner och Regioner (SKR) undersökningen Insikt, som bygger på företagarnas
 upplevelse av kommunens service- och myndighetsutövning. Här ingår bygg- och miljöförvaltningens
@@ -600,18 +600,18 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 1.1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
-- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
-- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag och
 stiftelser, ordförande i kommunfullmäktiges valberedning, partigruppledare (leder
 respektive partigrupp i kommunfullmäktige)
-- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, beredningar och andra
 uppdrag enligt särskilt beslut.
 
-- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
 1.2 Andra uppdrag
 
@@ -667,10 +667,10 @@ Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser:
 
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd och för andra enskilda uppdrag som
 omfattar minst 40%.
@@ -921,8 +921,8 @@ partigruppledare.
 
 Arvode betalas i form av:
 
-- Fast arvode för deltidsuppdrag
-- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\- Fast arvode för deltidsuppdrag
+\- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
@@ -1082,9 +1082,9 @@ förtroendevalda representerar det organ denne själv tillhör.
 Därtill betalas dagarvode och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 12 (18)
 
@@ -1250,10 +1250,10 @@ förvaltning. Utbetalning sker i normalfallet den 27:e i månaden efter sammantr
 har ägt rum.
 
 När en förtroendevald ska begära ersättning
-- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
+\- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
 med protokollfört sammanträde eller
 
-- efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\- efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
 ska underlag bifogas.
@@ -1302,7 +1302,7 @@ Arvodesberedningen bereder generella ärenden om arvoden och ersättningar infö
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 18 (18)
 
@@ -1401,9 +1401,9 @@ PLANBESTÄMMELSER                                                           Höj
 
 Högsta  nockhöjd är 6,5 meter.
 Följande  gäller inom områden  med  nedanstående   beteckningar. Endast
-angiven  användning  och utformning  är tillåten.                                        Högsta  nockhöjd är <angivet>  meter över angivet nollplan.
+angiven  användning  och utformning  är tillåten.                                        Högsta  nockhöjd är \<angivet>  meter över angivet nollplan.
 
-Högsta  totalhöjd är <angivet> meter över angivet nollplan.
+Högsta  totalhöjd är \<angivet> meter över angivet nollplan.
 GRÄNSER
 Planområdesgräns.                                             Markens    anordnande    och  vegetation
 
@@ -1426,7 +1426,7 @@ Kvartersmark
 Utnyttjandegrad
 
 Bostäder.
-Största byggnadsarea   är <angivet> m² per huvudbyggnad.
+Största byggnadsarea   är \<angivet> m² per huvudbyggnad.
 Centrum.
 Minsta byggnadsarea   är 50 m² per komplementbyggnad.
 
@@ -2013,30 +2013,30 @@ vara undertecknat av exploatören innan detaljplanen antas.
 I det här projektet kommer exploateringsavtal att tecknas med Sörviksvägen 7 Åsa AB och
 West Sörvik AB och omfatta
 
--  Definition av exploateringsområdet.
--  Tidsplan för utbyggnad.
+\-  Definition av exploateringsområdet.
+\-  Tidsplan för utbyggnad.
 
 <!-- sida 54 -->
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Vid enskilt huvudmannaskap för allmän plats utför exploatören
 utbyggnad/ombyggnad av allmän plats i samarbete med befintlig
 gemensamhetsanläggning/samfällighetsförening.
 
 Åtgärder inom kvartersmark för bostadsändamål, centrum- och verksamhetsändamål
 ansvarar exploatören för.
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
 
 planområdet (Sörviksvägen), som är nödvändiga för detaljplanens genomförande och
 rimliga med hänsyn till exploatörens nytta av åtgärden
--  Principer för marköverlåtelser mellan kommunen och exploatören.
+\-  Principer för marköverlåtelser mellan kommunen och exploatören.
 
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
 
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Konsekvenser av att detaljplanen genomförs med stöd av exploateringsavtal
@@ -2423,7 +2423,7 @@ byggnadsfasader som ligger nära Varbergsvägen överskrids riktvärdet 60 dBA e
 ljudnivå vid fasad, då beräknad ljudnivå är upp till 61 dBA. I dessa lägen bör planerade
 lägenheter göras genomgående med minst hälften av boenderummen vända mot ljuddämpad
 sida med högst 55 dBA ekvivalent ljudnivå och högst 70 dBA maximal ljudnivå klockan 22-
-06. I utsatta lägen där 60 dBA ekvivalent ljudnivå överskrids kan små lägenheter om högst 35
+06\. I utsatta lägen där 60 dBA ekvivalent ljudnivå överskrids kan små lägenheter om högst 35
 kvadratmeter anordnas då riktvärdet 65 dBA ekvivalent ljudnivå vid fasad inte beräknas
 överskridas.
 
@@ -2887,7 +2887,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11 kap. 10 § PBL
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
@@ -2896,11 +2896,11 @@ kända förhållanden att ett antagande av detaljplanen inte kommer att prövas.
 
 Kommentar: Noteras
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har inga synpunkter på förslaget.
 Kommentar: Noteras
 
-3. Räddningstjänsten
+3\. Räddningstjänsten
 
 Riskhänsyn
 I planbeskrivningen hänvisar kommunen till att riskerna med att Varbergsvägen utgör omledningsväg
@@ -2933,7 +2933,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 3 (67)
 
-4. Statens geotekniska institut
+4\. Statens geotekniska institut
 
 SGI har under samrådet yttrat sig, (dnr. 4.3.1-2501-0159, daterad 2025-02-20) och då framfört att det
 borde anges ett maximalt antal våningar på plankartan och att det borde komma fram tydligt att det
@@ -2948,7 +2948,7 @@ inom fastigheterna måste förhålla sig till omgivande marknivåer. Kommunen be
 reglering bidrar till att förhindra markuppfyllnader som kan påverka geotekniska förutsättningar
 negativt.
 
-5. Trafikverket
+5\. Trafikverket
 
 Trafikflöde
 Kommunen fortfarande anse att planområdet förväntas alstra 1012 fordon/dygn (ÅDT) från bostäderna
@@ -2990,7 +2990,7 @@ Dagvattnet leds västerut via kommunens ledningar.
 
 Sakägare och övriga
 
-6. Fastighetsägare till Björken 2
+6\. Fastighetsägare till Björken 2
 
 Höga hus hör inte hemma vid Åsa restaurangstråk. Möjligtvis max 2-3 våningar högt men inte 17m
 högt som tänkt. Det blir mycket skugga av dessa höga husen och de bör istället placeras på något annat
@@ -2999,7 +2999,7 @@ förfulas med ett kvarter för rika överklass människor är rent av tragiskt.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, och 2. skuggning,
 insyn och utsikt m.m.
 
-7. 2 stycken fastighetsägare till Boberg 1:38
+7\. 2 stycken fastighetsägare till Boberg 1:38
 
 Jag skriver till er i egenskap av boende i Åsa för att framföra mina tankar kring det föreslagna
 planförslaget för "Restaurangstråket". Jag är mycket mån om vår orts framtid, och efter att ha tagit del
@@ -3058,7 +3058,7 @@ finnas kvar.
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 3. trafik, buller och
 parkeringslösningar och 4. dagvattenhantering och grönytor
 
-8. Fastighetsägare till Freadal 1:31
+8\. Fastighetsägare till Freadal 1:31
 While the need to update the downtown area is apparent, this plan does not fit the town of Åsa. A
 building of this height will dominate the downtown area and change the look and feel of Åsa. We
 moved here because of the look, feel, and sense of comunity in Åsa. Nothing taller than 3 levels above
@@ -3067,7 +3067,7 @@ ground should be allowed in the downtown area. The desire to make more money off
 apartments should not come at the cost of the look and feel of this small town.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-9. Fastighetsägare till Freadal 1:4, Åsa 1:285, Åsa 3:211, Åsa 5:156, Ölmanäs 31:3,
+9\. Fastighetsägare till Freadal 1:4, Åsa 1:285, Åsa 3:211, Åsa 5:156, Ölmanäs 31:3,
 Ölmanäs 7:63
 Ja, förslag till detaljplan godkänns i dess nuvarande utförande
 
@@ -3078,7 +3078,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 6 (67)
 
-10. Fastighetsägare till Freadal 1:47
+10\. Fastighetsägare till Freadal 1:47
 
 Det förslagna planförslaget med den byggnadshöjden skulle innebära en genomgripande förändring av
 Åsas arkitektonisk karaktär. Idag präglas orten av en småskalig och kustnära bebyggelse som
@@ -3091,7 +3091,7 @@ varsamt och långsiktigt hållbart, med respekt för den karaktär och charm som
 attraktiv för både nuvarande och framtida invånare.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-11. Fastighetsägare till Lakärr 1:17
+11\. Fastighetsägare till Lakärr 1:17
 Att samhället / byn snyggas upp är ingen nackdel, men inte med höghus, det förstör hela Åsas idyll och
 exteriör! Åsa är ett gammalt bevarat stationssamhälle, som nu genom arkitekturen kommer bli
 förstörd! Det kommer inte samspela med omgivningen! Uppriktigt kan inte fatta att man även vill
@@ -3099,14 +3099,14 @@ förstörd! Det kommer inte samspela med omgivningen! Uppriktigt kan inte fatta 
 integritetskränka människor som bor i området, då dom får full insyn i sina bostäder. Här pratar
 kommunen om att människor ska ha rätt till sin integritet!!!! Gör om och gör rätt! INGA HÖGHUS!
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och
-2. skuggning, insyn och utsikt m.m.
+2\. skuggning, insyn och utsikt m.m.
 
-12. Fastighetsägare till Lannekulla 20:14
+12\. Fastighetsägare till Lannekulla 20:14
 Tycker att höjden är olämplig! 4 våningar är olämpligt för Åsa. 2.5-3 våningar är enligt mig passande.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-13. Fastighetsägare till Påtorp 1:5
+13\. Fastighetsägare till Påtorp 1:5
 För högt hus. Max två våningar, likt huset vid Varbergsvägen/karlsviksvägen. Känslan av badort
 kommer försvinna. Resturangstråket med uteserveringar likaså. De livfulla sommararna kommer vara
 ett minne blott.
@@ -3116,12 +3116,12 @@ regleras i detaljplanen med krav på att 30 % av bottenvåning med användning C
 och B (bostäder) måste utgöras av lokaler för verksamheter.
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-14. Fastighetsägare till Åsa 1:114
+14\. Fastighetsägare till Åsa 1:114
 
-1) Yrkande
+1\) Yrkande
 Jag avstyrker planförslaget och begär att kommunen avslår detaljplanen i föreliggande utformning.
 
-2) Grunder för avstyrkande
+2\) Grunder för avstyrkande
 
 <!-- sida 82 -->
 
@@ -3220,7 +3220,7 @@ behöver hanteras (Samrådsredogörelse.pdf, Räddningstjänsten).
 
 Konstaterande: Mot denna bakgrund är det inte visat att riskfrågorna är utredda och avvägda på ett sätt
 som gör planen lämplig att anta i nuvarande form.
-3) Samlad slutsats
+3\) Samlad slutsats
 
 <!-- sida 84 -->
 
@@ -3244,7 +3244,7 @@ centrumkänslan i denna del av Åsa.
 Frågor som rör risk/olyckor kopplat till omledningsväg och farligt gods är hanterade i detaljplanen
 har godkänts av räddningstjänsten och länsstyrelsen.
 
-15. Fastighetsägare till Åsa 1:124
+15\. Fastighetsägare till Åsa 1:124
 Dessa fyrkantiga höga lådor passar inte in i befintlig byggnation. Det blir en avskärmning mot havet
 som drabbar alla (utom de som skulle bo i dessa hus).
 
@@ -3283,14 +3283,14 @@ Kustbygd där det generellt inte tillåts någon ny bostadsbebyggelse men biolog
 friluftsliv prioriteras. De befintliga utvecklingsorterna inom riksintresset, Kullavik, Särö, Vallda,
 Onsala, Åsa och Frillesås utvecklas i huvudsak genom förtätning.
 
-16. Fastighetsägare till Åsa 1:194
+16\. Fastighetsägare till Åsa 1:194
 Anser som många andra att planen för restaurangstråket måste ändras. Karaktären i Åsa samhälle
 kommer att förandras i grunden, från småskalig bebyggelse till en gigantisk "mur" som kommer att
 dela samhället i två delar. Bebyggelsen bör inte få vara högre än 2 våningar
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-17. Fastighetsägare till Åsa 1:203
+17\. Fastighetsägare till Åsa 1:203
 Åsa ”restaurangstråk” är vår motsvarighet till Kungsbacka torg. På Kungsbacka torg får fastigheterna
 inte vara högre än två och en halv våning höga. Precis detsamma vill vii att fastigheterna vid Åsas torg
 (restaurangstråk) ska vara. Detta för att bevara det mysiga och gemytliga som är Åsa idag. Förstör inte
@@ -3299,7 +3299,7 @@ byn, för det är en by och inte en stad, med jättekolosser till hus så som ni
 Det enda stället som det är lämpligt att bygga högre hus i Åsa är vid stationen.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-18. Fastighetsägare till Åsa 1:203
+18\. Fastighetsägare till Åsa 1:203
 
 Jag vill framföra invändningar mot det nuvarande byggförslaget för restaurangstråken i Åsa.
 En av de största farhågorna gäller byggnadernas höjd. De föreslagna husen upplevs som alltför höga
@@ -3340,7 +3340,7 @@ Målet bör vara en utveckling som stärker Åsas attraktivitet utan att förlor
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 3. trafik,
 buller och parkeringslösningar
 
-19. Fastighetsägare till Åsa 1:28 (samma skrivelse)
+19\. Fastighetsägare till Åsa 1:28 (samma skrivelse)
 Parkering längs parallelvägen mot varbergsvägen medför på inga sätt ett tryggare och säkrare gång och
 cykelvägnät. Det medför enbart större risk för besökare till verksamheterna i bottenvåningarna samt
 boende och turister. Med tanke på att kattegattleden går förbi där samt alla barnfamiljer som cyklar till
@@ -3524,7 +3524,7 @@ KUNGSBACKA  KOMMUN
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 3. trafik, buller och
 parkeringslösningar och 4. dagvattenhantering och grönytor.
 
-20. Fastighetsägare till Åsa 13:3
+20\. Fastighetsägare till Åsa 13:3
 Det var många som var med och protesterade mot förra förslaget som skickades ut, samt under mötet
 som pågick kort i Åsa IFs lokal. Vi vill nog alla gärna utveckla Åsa, men INTE med höghus.
 
@@ -3539,7 +3539,7 @@ dagvattnet m.m.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 2. skuggning,
 insyn och utsikt m.m, 3. trafik, buller och parkeringslösningar och 4. dagvattenhantering och grönytor.
 
-21. Fastighetsägare till Åsa 13:3
+21\. Fastighetsägare till Åsa 13:3
 Det var många som var med och protesterade mot förra förslaget som skickades ut, samt under mötet
 som pågick kort i Åsa IFs lokal. Vi vill nog alla gärna utveckla Åsa, men INTE med höghus.
 Kommunen har själv erkänt under mötet i Åsa IFs lokaler i fjol att de vill bygga om Åsa till en stad,
@@ -3551,14 +3551,14 @@ grönområde, problem med dagvattnet m.m.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 2. skuggning,
 insyn och utsikt m.m, 3. trafik, buller och parkeringslösningar och 4. dagvattenhantering och grönytor.
 
-22. Fastighetsägare till Åsa 13:8
+22\. Fastighetsägare till Åsa 13:8
 Hur kan man bygga så höga hus i en badort. Husen skuggar och så höga hus bygger man i en stad inte
 
 på en liten ort. Och alla dessa parkeringar i havsnära område.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 2. skuggning,
 insyn och utsikt m.m, och 3. trafik, buller och parkeringslösningar.
 
-23. Fastighetsägare till Åsa 2:123
+23\. Fastighetsägare till Åsa 2:123
 Anser fortfarande alldeles för hög bebyggelse jämfört med nuvarande och historisk. Det är även i nya
 förslaget 5 plan vilket ändrar landskapsbilden betydligt från omgivande platser. Max borde vara 2,
 möjligen med undantag (och då med indrag) tre för att undvika stadskaraktär.
@@ -3570,7 +3570,7 @@ KUNGSBACKA  KOMMUN
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär,
 
-24. Fastighetsägare till Åsa 2:168, Åsa 2:99, Åsa 2:22
+24\. Fastighetsägare till Åsa 2:168, Åsa 2:99, Åsa 2:22
 
 Byggnation
 I invånardialogen från 2014/15, liksom i sammanfattningen av samrådsmöte 2 menar en majoritet att
@@ -3706,7 +3706,7 @@ grundvattenförhållanden (Norconsult 2021). Det finns i dagsläget inget som ta
 källare. Geotekniska utredningen visar även att detaljplanens intentioner kan genomföras ur ett
 geotekniskt och bergtekniskt perspektiv då säkerheten mot ras och skred är tillfredsställande.
 
-25. Fastighetsägare till Åsa 2:22
+25\. Fastighetsägare till Åsa 2:22
 
 Till berörda tjänstepersoner och beslutsfattare,
 Jag vill härmed framföra ett starkt motstånd mot det framlagda detaljplaneförslaget för bostäder och
@@ -3741,7 +3741,7 @@ Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär,
 insyn och utsikt m.m, 3. trafik, buller och parkeringslösningar och 4. dagvattenhantering och
 grönytor.
 
-26. Fastighetsägare till Åsa 2:22
+26\. Fastighetsägare till Åsa 2:22
 Planförslaget med 19 meter höga hus kommer att förändra den arkitektoniska landskapet totalt. Åsa
 består i nuläget av småskaliga bebyggelse som är typiskt för en kustnära bebyggelse. Att bygga
 storskaliga byggnader på båda sidor av vägen ger en stadsmässighet som är främmande och bryter
@@ -3753,7 +3753,7 @@ många reaktionerna på höjderna både på mötena och insända yttrande ca 560
 byggnader på 2-3 våningar.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-27. Fastighetsägare till Åsa 2:22
+27\. Fastighetsägare till Åsa 2:22
 
 Hej bästa byggnadsnämd!
 Jag vill med bestämdhet säga nej till höga hus i vårt samhälle Åsa. Ville inte att Åsa ska utvecklas till
@@ -3769,7 +3769,7 @@ KUNGSBACKA  KOMMUN
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-28. Fastighetsägare till Åsa 4:4, 5:6 och 3:15
+28\. Fastighetsägare till Åsa 4:4, 5:6 och 3:15
 
 (Jag har angett min fastighetsbeteckning Åsa 4:4 under tidigare steg men är även ägare till Åsa 5:6 och
 3:15, men det går inte att ange flera fastigheter.)
@@ -3782,7 +3782,7 @@ bruttoarea om 3600 m2. Detta skulle motsvara 11% verksamheter och 89% bostäder,
 inte är förenligt med det som angivits i ”Planprogram Åsa centrum”, utan det är snarare ett
 bostadskomplex med mindre inslag av verksamhet.
 
-* I Planbeskrivningen slås fast att ”Den nya bebyggelsen kommer att innebära en förändring av Åsas
+\* I Planbeskrivningen slås fast att ”Den nya bebyggelsen kommer att innebära en förändring av Åsas
 bebyggelsekaraktär” (sidan 2) (även om det ändrats ifrån ” innebära en stor förändring” från tidigare
 versioner av dokumentet). I ”Planprogram Åsa centrum” under rubriken invånardialogen står att
 ”Majoriteten vill att nya byggnader ska gestaltas för att anpassas till Åsas karaktär. Huvudsakligen
@@ -3819,7 +3819,7 @@ KUNGSBACKA  KOMMUN
 planprogrammet åtskilliga år tidigare och därmed inte bara kan anses härröra till detta planförslag, utan
 vara något som bör inbegripa hela planprogramsområdet.
 
-* Det kan missuppfattas att maximal totalhöjd, faktiskt inte verkar vara den maximala totalhöjden utan
+\* Det kan missuppfattas att maximal totalhöjd, faktiskt inte verkar vara den maximala totalhöjden utan
 de facto höjden till golvet på den översta våningen, varefter maximal nockhöjd ligger ytterligare ett par
 meter högre upp. Jag förstår att det kan vara den byggnadstekniskt korrekta termen, men för att vara
 enklare tolkningsbart för en lekman (vilken ändå torde vara syftet i en samverkan med allmänheten)
@@ -3829,11 +3829,11 @@ sig ca 3 meter längre ner på byggnaden (från nockhöjd till maximal totalhöj
 nollpunkten flyttat sig från marknivån till havsnivå(?) och för mig är det lite oklart hur höga
 byggnaderna faktiskt är tänkta att bli enligt planförslaget.
 
-* Återkommande i dokumenten poängteras den trygghetsökning som det nya planförslaget skulle bidra
+\* Återkommande i dokumenten poängteras den trygghetsökning som det nya planförslaget skulle bidra
 till, men jag har svårt att hitta vart en brist på trygghet i området i sin nuvarande form har
 dokumenterats och således behöver avhjälpas.
 
-* Jag ställer mig frågande till ”Nollalternativ” (sid 41, Planförslaget) och det alternativ som
+\* Jag ställer mig frågande till ”Nollalternativ” (sid 41, Planförslaget) och det alternativ som
 presenteras i planförslaget på något sätt skulle vara de enda alternativen som är genomförbara och det
 borde finnas mängder med vägar för att tillgodogöra både kommunens utvecklingsbehov och dess
 bevarandebehov av den karaktär som Åsa idag har. Se t.ex. bebyggelsen kring torget i Frillesås där nya
@@ -3841,19 +3841,19 @@ fina byggnader med verksamhet och bostäder har anpassats till den byggnadskultu
 platsen. Det bör finnas vägar att till skapa ett planförslag som passar in i Åsa men ändå tillgodoser dess
 nutida och framtida behov.
 
-* Jag hyser en viss oro över att detta reducerade planförslag kommer att kompletteras med ytterligare
+\* Jag hyser en viss oro över att detta reducerade planförslag kommer att kompletteras med ytterligare
 planer för att komplettera ”Åsa restaurangstråk” och i slutänden kommer att leda till den mur av höga
 fastigheter av ” stadsmässig struktur som riskerar att skapa barriäreffekter” (sid 10,
 Samrådsredogörelse) som synpunkterna under samråd påpekade. Från den aspekten tycker jag att det
 är fel att dela upp planförslaget då det minskar invånarnas möjlighet att överblicka vad vi förväntas ta
 ställning till och vad vi kan vänta oss blir konsekvensen av planförslaget och dess eventuella
 uppföljare.
-* Det bör läggas vikt vid att detta planförslag, enligt min farhåga, kommer att bana väg för andra
+\* Det bör läggas vikt vid att detta planförslag, enligt min farhåga, kommer att bana väg för andra
 
 planförslag inom Åsa i fråga om byggnadshöjder och karaktär och därför bör utredas och övervägas
 noga. Exempel finns från ”Åsa centrum Etapp 1”, som blev stoppat i Mark och miljödomstolen, och
 vad jag förstått pågår ett par initiativ till med liknande ambitioner inom Åsa.
-* Sammanfattningsvis tycker jag att planförslaget, som enligt uppgift ska ta sin utgångpunkt i
+\* Sammanfattningsvis tycker jag att planförslaget, som enligt uppgift ska ta sin utgångpunkt i
 planprogrammet, avviker mer än vad som är rimligt från den invånardialog som fastställts i
 planprogrammet.
 
@@ -3881,7 +3881,7 @@ Planläggningen av angränsande fastigheter norr om det aktuella planområdet ko
 med utgångspunkten att området ska planeras enligt planprogrammet. I det fortsatta arbetet är frågan
 om den upplevda barriären viktig att hantera.
 
-29. Fastighetsägare till Åsa 3:146
+29\. Fastighetsägare till Åsa 3:146
 
 Jag anser att husen är alldeles för höga och att de inte passar in i Åsa, som till största delen består av 1-
 2-planshus i detta område.
@@ -3903,7 +3903,7 @@ Sänk därför antalet våningar så att det blir bra både för befintliga och 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 2. skuggning,
 insyn och utsikt m.m
 
-30. Fastighetsägare till Åsa 3:157
+30\. Fastighetsägare till Åsa 3:157
 Jag, boende i Åsa, skriver för att framföra mina synpunkter gällande det föreslagna byggandet av
 
 betydligt högre byggnader inom vårt område. Jag förstår behovet av utveckling men är oroad över de
@@ -3933,7 +3933,7 @@ I och med att området i större utsträckning befolkas dygnet runt i och med pl
 genomförande kan den upplevda tryggheten öka, i jämförelse med ett område som kvälls- och nattetid
 blir öde efter verksamheternas stängning.
 
-31. Fastighetsägare till Åsa 3:166
+31\. Fastighetsägare till Åsa 3:166
 Varför har ni inte, som ni lovat, skickat ut info om detta till alla som yttrat sig?
 
 Kommunen hjälper och driver på för att byggherren ska tjäna ca 30-40 miljoner. Bygg gärna, men inte
@@ -3952,20 +3952,20 @@ förhålla sig till.
 KUNGSBACKA  KOMMUN
 24 (67)
 
-32. Fastighetsägare till Åsa 3:171
+32\. Fastighetsägare till Åsa 3:171
 
 Namnlistor
--    Två (2) listor bifogades med totalt sex (6) positiva ja tack till nitton (19) m höga hus i
+\-    Två (2) listor bifogades med totalt sex (6) positiva ja tack till nitton (19) m höga hus i
 Åsa.
 
--    Inga listor placerades i den lokala matbutiken vilket även det felaktigt påstås.
+\-    Inga listor placerades i den lokala matbutiken vilket även det felaktigt påstås.
 Ingen hänsyn tas till genomförda invånardialoger och inlämnade synpunkter utan detaljplanearbetet
 fortgår i entreprenörens anda.
 
 Anser inte att nuvarande detaljplan överensstämmer med planprogrammet 2015-09-19
-- FLERBOSTADSHUS EJ HÖGRE ÄN BEFINTLIG CENTRUMBEBYGGELSE
+\- FLERBOSTADSHUS EJ HÖGRE ÄN BEFINTLIG CENTRUMBEBYGGELSE
 
-- FLERBOSTADSHUS NÅGOT HÖGRE ÄN BEFINTLIG CENTRUMBEBYGGELSE
+\- FLERBOSTADSHUS NÅGOT HÖGRE ÄN BEFINTLIG CENTRUMBEBYGGELSE
 Dagens centrumbebyggelse består av endast 2-våningshus, nockhöjd uppskattningsvis 8-9 m, alltså
 
 inga byggnader 4 våningar och inredd vind med nockhöjd på 19m.
@@ -4047,14 +4047,14 @@ trafiksäkerhet
 KUNGSBACKA  KOMMUN
 26 (67)
 
-33. Fastighetsägare till Åsa 3:208
+33\. Fastighetsägare till Åsa 3:208
 
 Detta skulle ha en oerhört negativ inverkan på Åsa Centrum. Dels för centrum som en helhet, Åsa är
 ingen stad, det är en by. Och dels för de fastigheter som befinner sig någonstans i närheten. Det är
 stort, ändrar helt karaktären på området, och är på inget sätt önskvärt.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-34. Boende inom Åsa 3:303
+34\. Boende inom Åsa 3:303
 
 Byggnationen som visades för ett tag sedan höga hus i Åsa nej tack, men gärna 2 vån inte mer då
 kommer småstads idyllen att försvinna, det måste ju finnas mark att bygga på 3-4 vån på andra ställen i
@@ -4063,7 +4063,7 @@ kommer att se ut som (vägen genom Varberg med dessa höga hus och dyra att bo i
 billigt så även pensionärer kan ha råd att bo i ny byggt. Tack
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-35. Fastighetsägare till Åsa 3:307
+35\. Fastighetsägare till Åsa 3:307
 
 Vi bor i en liten kust ort, INTE i ett modernt USA, med skyskrapor, Detta är ju vansinne. Hur har man
 ens kunnat komma på en sån befängt idé.. Godkänns absolut inte, lös problemen med avlopp / vatten /
@@ -4071,19 +4071,19 @@ vägar och andra mer brådskande saker först.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 3. trafik, buller
 och parkeringslösningar och 4. dagvattenhantering och grönytor
 
-36. Fastighetsägare till Åsa 3:308
+36\. Fastighetsägare till Åsa 3:308
 
 Vill inte ha höghus i Åsa
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-37. Fastighetsägare till Åsa 3:309
+37\. Fastighetsägare till Åsa 3:309
 Byggnader på 19 meter är på tok för högt för ett samhälle som Åsa. Uppfräschning behövs absolut
 men bygg så det passar in i miljön åtminstone. Åsa är en liten ort, inte en storstad och byggnaderna ska
 passa för detta. Hur kan man inte förstå detta när man arbetar inom denna bransch?
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-38. Fastighetsägare till Åsa 3:318
+38\. Fastighetsägare till Åsa 3:318
 Gigantiska höghus har ingenting i en liten strandort att göra. Pressa in folk i en pytteliten plats, där det
 redan är kaos hela sommaren.
 
@@ -4094,18 +4094,18 @@ Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 KUNGSBACKA  KOMMUN
 27 (67)
 
-39. Fastighetsägare till Åsa 3:53
+39\. Fastighetsägare till Åsa 3:53
 
 Ni kan ej bygga så höga hus vid huvudvägen och så nära havet kommer förstöra karaktären av Åsa. Ta
 bort bostäderna och bygg bara restauranger eller butiker med 2 våningar.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-40. Fastighetsägare till Åsa 4:120
+40\. Fastighetsägare till Åsa 4:120
 Detta yttrande lämnas under granskning enligt Plan- och bygglagen (2010:900), plan- och bygglagen.
 
 Yttrandet är strukturerat utifrån de ingripandegrunder som anges i 11 kap. 10 § plan- och bygglagen
 och syftar till att tydliggöra brister som kan aktualisera Länsstyrelsens prövning.
-1. Avvikelse från planprogram – bristande planmässig kontinuitet
+1\. Avvikelse från planprogram – bristande planmässig kontinuitet
 
 (PBL 2 kap. 3–6 §§)
 I Planprogram Åsa centrum anges att 'majoriteten vill att nya byggnader ska gestaltas för att anpassas
@@ -4118,7 +4118,7 @@ detaljplan medger byggnadshöjder motsvarande cirka 15–19 meter (4–5 våning
 planhandlingarna framgår ingen redovisning av varför detta tydliga avsteg från programmet är
 motiverat, vilket strider mot kravet på lämplig markanvändning och hänsyn till stadsoch landskapsbild
 enligt 2 kap. 6 § PBL.
-2. Barriäreffekt och kustens visuella samband (Miljöbalken 3–4kap.)
+2\. Barriäreffekt och kustens visuella samband (Miljöbalken 3–4kap.)
 
 Planprogrammet anger uttryckligen att passager ska minska barriäreffekten av vägar och bebyggelse
 samt att stråket mellan station och strand ska förstärkas (Planprogram Åsa centrum, s. 18–19).
@@ -4128,7 +4128,7 @@ barriäreffekter och skuggning (Samrådsredogörelse, s. 10–11). En sammanhän
 hänsyn till kustens riksintresse enligt 4 kap. miljöbalken krävs särskilt tydlig redovisning av hur
 visuella samband och upplevelsevärden påverkas. En sådan samlad analys saknas.
 
-3. Dagvatten, skyfall och risk (PBL 2 kap. 5 §, MB 2 kap.)
+3\. Dagvatten, skyfall och risk (PBL 2 kap. 5 §, MB 2 kap.)
 Dagvattenutredning steg 2 anger att detaljplanen innebär en hårdgöringsgrad på 70 % och att lösningen
 bygger på underjordiskt magasin (Dagvatten- och skyfallsutredning steg 2, s. 5). Steg 1 redovisar att
 100 % hårdgöringsgrad skulle kräva 360 m³ magasinering och att ökade djup medför risk för
@@ -4144,7 +4144,7 @@ skada.
 KUNGSBACKA  KOMMUN
 28 (67)
 
-4. Trafik och tillgänglighet (PBL 2 kap. 6 §)
+4\. Trafik och tillgänglighet (PBL 2 kap. 6 §)
 
 Kompletterande trafikutredning anger att parkeringsanläggning planeras cirka 500 meter från
 bostäderna (Kompletterande trafikutredning, s. 6–8). Utredningen redovisar behov av särskilda
@@ -4153,7 +4153,7 @@ säkerställs dock inte genom bindande planbestämmelser. Med hänsyn till barn,
 rörelsehindrade är det inte visat att planen uppfyller kraven på tillgänglighet och trafiksäkerhet enligt 2
 kap. 6 § PBL.
 
-5. Samlad bedömning – grund för ingripande enligt 11 kap. 10 § PBL
+5\. Samlad bedömning – grund för ingripande enligt 11 kap. 10 § PBL
 • Avvikelse från planprogram utan redovisad motivering.
 
 • Bristande redovisning av påverkan på kustens riksintresse.
@@ -4191,7 +4191,7 @@ parkeringslösningar och 4. dagvattenhantering och grönytor
 KUNGSBACKA  KOMMUN
 29 (67)
 
-41. Fastighetsägare till Åsa 4:149
+41\. Fastighetsägare till Åsa 4:149
 
 I förslaget är husen fula och för höga. Karaktären ska vara mer anpassad, likt den är i Gottskär, Särö
 mm. Höjden på husen är svåra att utläsa. 4-5 våningar är för mycket i centrum mot havet
@@ -4199,7 +4199,7 @@ mm. Höjden på husen är svåra att utläsa. 4-5 våningar är för mycket i ce
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-42. Två skrivelser från fastighetsägare till Åsa 4:39, samt Åsa 4:50, Åsa 4:53
+42\. Två skrivelser från fastighetsägare till Åsa 4:39, samt Åsa 4:50, Åsa 4:53
 Granskningskommentarer på detaljplaneförslag för bostäder och verksamheter inom Åsa 5:156 och
 5:14, en del av Åsa restaurangstråk
 
@@ -4398,20 +4398,20 @@ ortens befintliga bebyggelse och behov som är 1-2 våningar. (källa 4) ).
 Vad det gäller ekonomisk hållbar tillväxt, bygg i första hand ut dräneringen utifrån behovet innan
 andra planer sätts i verk! Idag finns en av kommunens mest besökta badorter i Åsa, Vita sand, och
 utfärdade vattenförbud för stranden sker delvis pga. dräneringen går rätt ut från badstranden.
-1)  ”Ett exempel är att vi tar avstamp i konsumtionstrappan, som innebär att vi strävar efter att laga
+1\)  ”Ett exempel är att vi tar avstamp i konsumtionstrappan, som innebär att vi strävar efter att laga
 och byta, och därmed förlänga livslängden på det vi har, för att inte behöva köpa nytt i samma
 utsträckning.” - https://kungsbacka.se/kommun-och-politik/utveckling-och-innovation/hallbarhet/vara-
 
 steg-mot-hallbarhet/strategiska-inkop-for-na-hallbarhetsmalen
-2)  Vi växer i regionen genom att planera och bygga strategiskt. Samhället utvecklas på ett hållbart
+2\)  Vi växer i regionen genom att planera och bygga strategiskt. Samhället utvecklas på ett hållbart
 sätt: socialt, ekologiskt och ekonomiskt. Vi lever inte över naturens tillgångar. ”
 
 https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/vision-2030
-3)  Hållbarhetsbokslutet, sid 52:
+3\)  Hållbarhetsbokslutet, sid 52:
 https://kungsbacka.se/download/18.3c9a6be61877958c626516/1681378946556/Ha%CC%8Allbarhets
 bokslut%202022.pdf
 
-4)  Ett arbete med att bedöma planbesked ur ett hållbarhetsperspektiv har påbörjats under året.
+4\)  Ett arbete med att bedöma planbesked ur ett hållbarhetsperspektiv har påbörjats under året.
 Syftet är att vara tydlig mot exploatörerna kring om projektet ligger i linje med kommunens
 hållbarhetsarbete, redan i ett tidigt skede. Detta för att skapa transparens och en ökad förståelse för
 processen med att - https://kungsbacka.se/kommun-och-politik/utveckling-och-
@@ -4489,7 +4489,7 @@ I och med att området i större utsträckning befolkas dygnet runt i och med pl
 genomförande kan den upplevda tryggheten öka, i jämförelse med ett område som kvälls- och nattetid
 
 blir öde efter verksamheternas stängning.
-43. Fastighetsägare till Åsa 4:48
+43\. Fastighetsägare till Åsa 4:48
 
 Jag har en sommarstuga i Åsa och har valt att bo där för dess sommaridyll vilket jag tycker förstörs av
 3-4 våningshus i den centrala delen som ska vara välkomnande.
@@ -4497,7 +4497,7 @@ Ställer mig bakom [yttrande nr 43].
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-44. Fastighetsägare till Åsa 4:53
+44\. Fastighetsägare till Åsa 4:53
 Åsa är en BADORT dit många kommer för att njuta av just det småskaliga och charmiga. Att bygga
 höga hus i centrum kommer göra Åsa oattraktivt .
 
@@ -4520,7 +4520,7 @@ Med en ökande befolkning ökar även behovet av offentlig och kommersiell servi
 Detaljplanen ifråga möjliggör bland annat lättare former av vård, även om det främst har varit
 aktuellt med andra typer av verksamheter i området.
 
-45. Två skrivelser från fastighetsägare till Åsa 4:63
+45\. Två skrivelser från fastighetsägare till Åsa 4:63
 Att bevara Åsa som ett litet samhälle innebär inte att stoppa utveckling – utan att precis som det står i
 
 kommunens fördjupade kartläggning att tänka efter före. Att se till helhet och sammanhang. Att bevara
@@ -4577,7 +4577,7 @@ Processen att ta fram en detaljplan följer plan- och bygglagen och byggregler g
 Infrastrukturen behöver följa med utvecklingen när en ort växer och sådana saker som återvinning och
 elförsörjning arbetas aktivt med på olika fronter.
 
-46. Fastighetsägare till Åsa 4:66
+46\. Fastighetsägare till Åsa 4:66
 För höga hus som inte passar in längs restaurangstråket. Innebär också mycket mer trafik.
 
 <!-- sida 112 -->
@@ -4588,13 +4588,13 @@ KUNGSBACKA  KOMMUN
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär, 3. trafik, buller
 och parkeringslösningar
 
-47. Fastighetsägare till Åsa 4:67
+47\. Fastighetsägare till Åsa 4:67
 
 Anser att bebyggelse inom området inte skall vara högre än två till tre våningar för att att passa in i
 området.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-48. Fastighetsägare till Åsa 4:76
+48\. Fastighetsägare till Åsa 4:76
 Åsa 260217 Att bevara Åsa som ett litet samhälle med småskalig bebyggelse är viktigt för samhället
 
 och dess invånare. Åsas attraktion ligger i det lilla samhället, havet och skogen. med citatet "Den unika
@@ -4604,7 +4604,7 @@ bebyggelsen. Förslaget bör i sin helhet dras tillbaka och ersättas med ett ny
 lokala miljön
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-49. Fastighetsägare till Åsa 4:79
+49\. Fastighetsägare till Åsa 4:79
 Förslaget innehållet ett stort och högt byggnadskomplex som inte passar in i den småskaliga
 
 bebyggelsen i Åsa. Omgivande hus är tvåvåningshus och förslaget är på upp till fem våningar.
@@ -4615,7 +4615,7 @@ Bifogar en konceptbild på hur det skulle kunna se ut.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-50. Fastighetsägare till Åsa 4:85
+50\. Fastighetsägare till Åsa 4:85
 Ni säger som ingress på er hemsida att "Stråket mellan Åsas tre guldkorn stationen, centrum och havet
 ska vara attraktivt och tillgängligt. Målet är att det ska kännas lätt och trevligt att röra sig mellan ortens
 viktiga platser till fots eller med cykel."
@@ -4653,12 +4653,12 @@ oss att rensa upp och ordna med motionsspår.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 3. trafik,
 buller och parkeringslösningar
 
-51. Fastighetsägare till Åsa 5:100
+51\. Fastighetsägare till Åsa 5:100
 Alldeles för högt med 5 våningar. Max 3. Kommer förstöra hela åsas utseende.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-52. Fastighetsägare till Åsa 5:106
+52\. Fastighetsägare till Åsa 5:106
 Räckte det inte att man sände in föra gången att den höjden på huset i centrala Åsa passar inte in här
 mitt i samhället. Bygg ute på fälten. Låt Åsa vara som Åsa är. Att ni bara inte kan tänka lite att tänk
 om en olycka kommer att hända på E6 då kommer all trafik gå genom Åsa är det bra för barn och alla
@@ -4668,7 +4668,7 @@ Vi är fortfarande inte en Nice utan lilla fina Åsa. Men ni gör ju allt för a
 rätt.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-53. Fastighetsägare till Åsa 5:120
+53\. Fastighetsägare till Åsa 5:120
 Byggnaderna speglar storstad och passar inte in i Åsas småstadsidyll. En fruktansvärd förfulning av
 restaurangstråket. 5våningar och 18m höjd kontra 1 plans villor som närmsta grannar. Bygg husen på
 åsaberg, där passar dom bättre ihop med storvuxna tallar!!!!
@@ -4688,7 +4688,7 @@ Det finns inget egenintresse i att bygga bostäder som ingen har råd att köpa 
 detaljplanen är fastighetsägaren ett bolag vilket gör sina egna bedömningar kring vad som är möjligt
 att genomföra och få uthyrt och/eller sålt.
 
-54. Fastighetsägare till Åsa 5:126
+54\. Fastighetsägare till Åsa 5:126
 Förslaget i sin nuvarande form är fortfarande alldeles för storskaligt och högt för att harmonisera med
 Åsas unika karaktär.
 Dessa höga byggnader kommer bli som en barriär mot kustlandskapet och stranden och kommer i ett
@@ -4701,26 +4701,26 @@ Det är ledsamt att kommunen inte värnar om denna idyll och tar fram ett försl
 bland boende i Åsa.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-55. Fastighetsägare till Åsa 5:146
+55\. Fastighetsägare till Åsa 5:146
 Passar inte in i miljön med 3-4 våningar
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-56. Fastighetsägare till Åsa 5:146
+56\. Fastighetsägare till Åsa 5:146
 För höga hus i Åsa. Och kan inte se vad parkering till alla boende ska ske. På sommaren är det redan
 parkeringskaos här i Åsa.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 3. trafik,
 buller och parkeringslösningar
 
-57. Fastighetsägare till Åsa 5:171
+57\. Fastighetsägare till Åsa 5:171
 Parkeringen är placerad på ett mycket olämpligt ställe, det kommer att bli alldeles för mycket trafik där
 barn bor. Varför inte göra parkeringsplatser på andra sidan Varbergsvägen mittemot denna nya
 fastighet som ska byggas.
 
 Kommentar: Se samlade kommentarer gällande 3. trafik, buller och parkeringslösningar
 
-58. Fastighetsägare till Åsa 5:191
+58\. Fastighetsägare till Åsa 5:191
 Vill bo i ett litet samhälle. Därför flyttade jag hit.
 
 <!-- sida 115 -->
@@ -4730,19 +4730,19 @@ KUNGSBACKA  KOMMUN
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-59. Fastighetsägare till Åsa 5:255
+59\. Fastighetsägare till Åsa 5:255
 
 Sekelskifte och new England passar bättre i ett kustsamhälle och stämmer bättre i ett låghusområde.
 Inga höga hus i Åsa.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-60. Fastighetsägare till Åsa 5:255
+60\. Fastighetsägare till Åsa 5:255
 New England stil eller sekelskifteshus passar mycket bättre i Åsa. I flera våningar men inte höga, vill
 inte ha uppåt 18-19 m. Lyssna på oss som bor i Åsa.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-61. Två skrivelser från fastighetsägare till Åsa 5:258
+61\. Två skrivelser från fastighetsägare till Åsa 5:258
 Synpunkter över detaljplan för Åsa – ”Restaurangstråket” (260217)
 Avseende fastigheten Åsa 5:258, Karlsviksvägen 11
 Undertecknade är ägare till fastigheten Åsa 5:258. Efter att ha tagit del av planbeskrivningen och
@@ -4885,7 +4885,7 @@ planområdet och utvecklas vidare i kommande projektering.
 Efter samlad avvägning bedömer kommunen att planförslaget är förenligt med plan- och bygglagens
 krav på lämplig markanvändning och god bebyggd miljö.
 
-62. Fastighetsägare till Åsa 5:286
+62\. Fastighetsägare till Åsa 5:286
 Då jag är granne och berörd sakägare så vill jag lyfta fram frågan om fastighet Åsa 5:14 som har inkl i
 planområdet?!
 Min invändning gäller att kommunen inte redovisat något dylik nödvändighet eller funktionell
@@ -4931,7 +4931,7 @@ skydd mot angränsande fastigheter. Åsa 5:14 föreslås fortsatt ingå i detalj
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 2. skuggning, insyn och utsikt
 m.m, 3. trafik, buller och parkeringslösningar
 
-63. Fastighetsägare till Åsa 5:286
+63\. Fastighetsägare till Åsa 5:286
 Kommentarer Åsa 5:14:
 
 Riksintresse Kustområde Halland och vår närmiljö
@@ -5062,7 +5062,7 @@ planens syfte, behov och resurser. I detta fall bedöms det aktuella planområde
 och omfattning för den planerade markanvändningen. En detaljplan behöver inte omfatta ett helt
 kvarter för att vara ändamålsenlig.
 
-64. Fastighetsägare till Åsa 5:291
+64\. Fastighetsägare till Åsa 5:291
 
 Inledning och rättslig utgångspunkt
 Undertecknad är ägare av fastighet 5:291, parhuset närmast Varbergsvägen, och i direkt angränsning
@@ -5366,7 +5366,7 @@ bygglagen,
 egenskaper.
 De framförda synpunkterna föranleder ingen revidering av detaljplaneförslaget.
 
-65. Fastighetsägare till Åsa 5:37
+65\. Fastighetsägare till Åsa 5:37
 
 Byggnadshöjden på 2,3 & 4 våningar avviker ifrån majoriteten av den befintliga bebyggelsen i
 området och passar inte in i litet samhälle som Åsa. Kommer även öka insynen in i vårt hus
@@ -5375,7 +5375,7 @@ lägenheter ifrån Kungsbacka
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-66. Fastighetsägare till Åsa 5:39
+66\. Fastighetsägare till Åsa 5:39
 Lämnar härmed mina synpunkter på förslag till detaljplan för bostäder och verksamheter inom Åsa
 5:156 och 5:14, en del av Åsa restaurangstråk
 Vilseledande information i Planbeskrivningen.
@@ -5460,7 +5460,7 @@ fastställandebeslutet.
 Genom att förstärka centrum i Åsa med verksamheter och fler boende ökar potentialen för att det ska
 vara lönsamt och hållbart att driva en verksamhet på orten.
 
-67. Fastighetsägare till Åsa 5:95
+67\. Fastighetsägare till Åsa 5:95
 Jag anser att husen blir alldeles för höga, de passar inte in i Åsa som mestadels består av 1 och 2-plans
 hus i detta område. Max 2,5-3 våningar är lämpligt, för att de skall smälta in och se trevligt ut.
 Bebyggelsen kommer att upplevas som en stor mur, vilket förstärks av att de placeras så nära vägen.
@@ -5475,7 +5475,7 @@ invånare och för de nya invånarna.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 2. skuggning,
 insyn och utsikt m.m,
 
-68. Fastighetsägare till Åsa 5:95
+68\. Fastighetsägare till Åsa 5:95
 Jag anser att husen blir alldeles för höga, de passar inte in i Åsa som mestadels består av 1 och 2-plans
 hus i detta område. Max 2,5-3 våningar är lämpligt, för att de skall smälta in och se trevligt ut.
 Bebyggelsen kommer att upplevas som en stor mur, vilket förstärks av att de placeras så nära vägen.
@@ -5499,7 +5499,7 @@ här bra för befintliga invånare och för de nya invånarna.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 2. skuggning,
 insyn och utsikt m.m,
 
-69. Fastighetsägare till Ölmanäs 2:52
+69\. Fastighetsägare till Ölmanäs 2:52
 
 Husen är forfarande alldeles för höga i lilla Åsa! En hög koloss i vårt lilla centrum. Hur det än beskrivs
 så är förslaget fortfarande 5vån. Dessutom passar inte platta tak in i vår lilla kustnära byn.
@@ -5510,7 +5510,7 @@ Ser fram emot ett vackert fräscht restaurangstråk och lägenheter men i rätt 
 i träfasad..
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
-70. Fastighetsägare till Ölmanäs 24:76
+70\. Fastighetsägare till Ölmanäs 24:76
 
 Från bilder som visats ser det inte ut att passa Åsa alls. Det är högt, stort, alldeles för kantigt och
 passar inte in i miljön. Det viktiga promenadstråket med restaurangerna verkar nu har ersatts med en
@@ -5524,7 +5524,7 @@ tar givetvis inte hänsyn till någon boyta eller ekonomi, men illustrerar en k�
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-71. Fastighetsägare till Ölmanäs 24:97
+71\. Fastighetsägare till Ölmanäs 24:97
 Jag anser att taken för de byggnader i Åsa centrum i de nya skisserna icke är godtagbara. Jag kommer
 argumentera från en estetisk synpunkt men även i syfte av dess funktion.
 
@@ -5550,7 +5550,7 @@ lutning på 25-40 grader. Jag ber er även att ni tar detta i åtanke för framt
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-72. Fastighetsägare till Ölmanäs 5:45
+72\. Fastighetsägare till Ölmanäs 5:45
 Dessa höga hus passar inte in. Åsa har en lång historia av att ge lugn och rekreation åt innevånare och
 gäster. Höga betonghus passar inte. Även infrastrukturen är ej ok flr så många nya bostäder.
 
@@ -5558,12 +5558,12 @@ Restaurangstråk?? Senast nyss gick en i konkurs.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 3. trafik,
 buller och parkeringslösningar
 
-73. Fastighetsägare till Ölmanäs 6:110
+73\. Fastighetsägare till Ölmanäs 6:110
 Jag anser inte att en sommar idyll som Åsa ska bygga höga fastigheter över huvud taget,det finns gott
 om mark som kan byggas på.3 våningar i Centrum är max vad som är rimligt.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-74. Fastighetsägare till Ölmanäs 7:23
+74\. Fastighetsägare till Ölmanäs 7:23
 
 Detta kommer förstöra det som är en väldigt stor anledning till många som flyttat till Åsa. Att komma
 BORT från stadskänslan. Att hitta en liten ort med lugn o harmoni. Inte högs hus med ”moderna”
@@ -5584,7 +5584,7 @@ byggnader som redan står. Låt det vara i äldre stil, bryt inte mönstret.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär och 3. trafik,
 buller och parkeringslösningar
 
-75. Fastighetsägare till Ölmanäs 7:34
+75\. Fastighetsägare till Ölmanäs 7:34
 Bygg inte några höghus i Åsa! De förstör hela charmen med Åsa. Åsa ska va litet o gulligt med hus
 inga höghus! Vi har Kungsbacka 15 min bort, Göteborg 40 min bort och Varberg 20 min bort de
 behövs inga höghus i Åsa vill man ha höghus kan man flytta till Gbg eller nån annan stans där de finns
@@ -5592,7 +5592,7 @@ höghus.
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-76. Fastighetsägare till Ölmanäs 7:52
+76\. Fastighetsägare till Ölmanäs 7:52
 Den södra delen ser bra ut medans den norra delen är för hög. De höga byggnaderna avviker för
 mycket i omgivningarna och riskerar att skapa otrivsel.
 Jag kan inte se var gångvägar är tänkta förbi byggnaderna om jag ska passera från Sörviksvägen mot
@@ -5609,7 +5609,7 @@ Detaljplanen har inget krav på att en lekplats ska uppföras. Det är därför 
 lekplats vid behov. Kommunens bedömning är att det inte finns skäl att tvinga in en lekplats i detta
 område.
 
-77. Fastighetsägare till Ölmanäs 8:217
+77\. Fastighetsägare till Ölmanäs 8:217
 Planen går från det öppna och luftiga sommarsamhället till att mer likna en förstad med högte
 byggander som i sin förlängning av planerna kommer ge en instängd känsla längs Varbergsvägen.
 Dock är det svårt när detta förslag inte innehåller hela bilden.
@@ -5621,7 +5621,7 @@ Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 KUNGSBACKA  KOMMUN
 59 (67)
 
-78. Fastighetsägare till Ölmanäs 8:31
+78\. Fastighetsägare till Ölmanäs 8:31
 
 Jag ser framför mig ett levande centrum som knyter an till nuvarande miljö, lägre hus med öppna stråk
 mellan husen, möjligheter till fler butiker och restauranger med större uteserveringar och ytor för barn,
@@ -5662,7 +5662,7 @@ Planområdet utgörs av privatägd mark och kommunen har inte insyn i kalkyler f
 Kommunen har en kontinuerlig dialog med regionen i syfte att förbättra kollektivtrafiken, som en del i
 uppfyllandet av kommunens översiktsplan.
 
-79. Fastighetsägare till Ölmevalla-Berg 1:23
+79\. Fastighetsägare till Ölmevalla-Berg 1:23
 För att utveckla en charming sommarby så krävs att man bevarar ursprunget och bygger på
 nyurbanism med fokus på att behålla svensk kustidyll med låga hus / enplan, fokus på sociala ytor,
 
@@ -5672,7 +5672,7 @@ alla lyckats bevara charm och historik med stadsutveckling.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 3. trafik, buller
 och parkeringslösningar
 
-80. Fastighetsägare till Ölmevalla-Berg 1:34
+80\. Fastighetsägare till Ölmevalla-Berg 1:34
 Jag tycker vi behöver utveckla och bygga i Åsa och är helt för att få ett nytt centrum och lockande
 
 resturangstråk med restauranger och bostäder.
@@ -5693,7 +5693,7 @@ KUNGSBACKA  KOMMUN
 
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
-81. Fastighetsägare till Ölmevalla-Hallen 1:58
+81\. Fastighetsägare till Ölmevalla-Hallen 1:58
 
 De hus som föreslås upplevs som för höga och passar inte in i den befintliga boendemiljön. Känns som
 att det kommer bli risk för att det blir mörkt. Tänker också på att många befintliga fastigheter får insyn
@@ -5705,7 +5705,7 @@ Kommentar: Den aktuella detaljplanen kommer att inrymma cirka 25 bostäder.
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 2. skuggning, insyn och utsikt
 m.m, 3. trafik, buller och parkeringslösningar .
 
-82. Fastighetsägare till Ölmevalla-Hallen 1:74
+82\. Fastighetsägare till Ölmevalla-Hallen 1:74
 Kommer leda till ökad belastning på ett redan högt belastat infrastruktur system tex avrinning
 dagvatten samt ökad trafikering av vägar samt påfrestning på tågnätverk. Idag trångt på de tåg som
 stannar om de ens går och när de inte går ökar biltrafiken i ett redan trångt och dåligt underhållet
@@ -5720,14 +5720,14 @@ kollektivtrafiken, som en del i uppfyllandet av kommunens översiktsplan.
 Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär 2. skuggning, insyn och utsikt
 m.m, 3. trafik, buller och parkeringslösningar och 4. dagvattenhantering och grönytor
 
-83. Fastighetsägare till Ölmevalla-Nygård 1:35
+83\. Fastighetsägare till Ölmevalla-Nygård 1:35
 Jag anser att ett 4 våningshus på 21 m invid vägen inte passar in i området och ändrar områdets
 karaktär på ett negativt sätt.
 Kommentar: Se samlade kommentarer gällande 1. bebyggelsens höjd och karaktär
 
 Samlade kommentarer för yttranden från sakägare och övriga:
 
-1. Kommentar gällande bebyggelsens höjd och karaktär:
+1\. Kommentar gällande bebyggelsens höjd och karaktär:
 
 Utvecklingen av det aktuella området sker med utgångspunkt i kommunens översiktliga
 planeringsstrategier. Kommunens översiktsplan lyfter fram Åsa som en prioriterad utvecklingsort med
@@ -5766,7 +5766,7 @@ förutsättningarna är bättre för att fånga upp frågan. Detaljplanen är en
 centrum, vilket har stöd i kommunens strategiska dokument (översiktsplan och planprogram).
 Utvecklingen innebär bland annat en tätare och högre bebyggelse.
 
-2. Kommentar gällande skuggning, insyn och utsikt m.m:
+2\. Kommentar gällande skuggning, insyn och utsikt m.m:
 En solstudie har utförts för att bedöma påverkan med skuggning från ny bebyggelse efter
 genomförande av detaljplanen. Denna visar att ny bebyggelse medför viss påverkan med skuggning,
 men att påverkan är måttlig vilket kan innebära en viss olägenhet för omgivningen, men inte bedöms
@@ -5810,7 +5810,7 @@ bebyggelse, men det kommer fortsatt att finnas kopplingar såväl fysiskt som vi
 Kommunens bedömning är att den insyn som kan uppstå ligger inom vad som är normalt för ett
 centralt förtätningsområde och inte utgör en betydande olägenhet enligt plan- och bygglagens praxis.
 
-3. Kommentar gällande trafik, buller och parkeringslösningar:
+3\. Kommentar gällande trafik, buller och parkeringslösningar:
 Tillkommande bebyggelse kommer att innebära viss påverkan med trafikalstring i området och på
 
 Varbergsvägen, men det bedöms vara begränsad påverkan. Det har inte bedömts krävas några
@@ -5863,7 +5863,7 @@ driftsskedet av väghållaren, utan att detaljplanen behöver ändras.
 Kommunen känner till den parkeringsproblematik som flera yttrande vittnar om och parallellt med
 detaljplanearbetet pågår en översyn av parkeringssituationen för besökare i Åsa.
 
-4. Kommentar gällande dagvattenhantering och grönytor:
+4\. Kommentar gällande dagvattenhantering och grönytor:
 Inom planområdet är hårdgörandegraden relativt hög redan idag samtidigt som det är begränsat med
 utrymme för att utveckla platsen med ny bebyggelse för centrumändamål och bostäder.
 
@@ -5887,13 +5887,13 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-84. Teknik
+84\. Teknik
 
 Förvaltningen för Teknik har deltagit i arbetet med att ta fram planhandlingar för ovanstående
 detaljplaneområde och är positiva till förslaget. Teknik har inga synpunkter.
 Kommentar: Noteras
 
-85. Miljö & Hälsoskydd
+85\. Miljö & Hälsoskydd
 Förvaltningens synpunkter
 
 Vid tidigare yttrande över samrådet har vi påtalat, buller och ljusföroreningar och även
@@ -5939,7 +5939,7 @@ planhandlingarna.
 
 Övriga
 
-86. Ellevio
+86\. Ellevio
 
 Ellevio AB har tagit del av förslaget för yttrande och lämnar följande synpunkter.
 Ellevio har befintligt ledningsnät för 11 kV och 0,4 kV inom området, vilket behöver beaktas i den
@@ -5962,7 +5962,7 @@ Kommentar: Kommunen har en pågående dialog med Ellevio gällande elförsörjni
 tillkommande bebyggelse. Yta för teknisk anläggning säkerställs i kommande detaljplan för
 angränsande fastigheter inom Åsa restaurangstråk (Åsa 5:155 m.fl.).
 
-87. Postnord
+87\. Postnord
 PostNord har i uppdrag att tillhandahålla den samhällsomfattande posttjänsten vilket bland annat
 innebär att det är PostNord som ska godkänna placeringen och standarden på
 
@@ -6045,7 +6045,7 @@ huvudmannaskapet för denna.
 
 Länsstyrelsens synpunkter
 
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
@@ -6120,7 +6120,7 @@ huvudmannaskapet för denna.
 
 Länsstyrelsens synpunkter
 
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
@@ -6211,7 +6211,7 @@ tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Svar i samråd 1
 
@@ -6227,7 +6227,7 @@ framgå hur Natura 2000-områden påverkas och hur man har kommit fram till dett
 att planerade åtgärder på ett betydande sätt kan påverka miljön i ett Natura 2000-område krävs det en
 tillståndsprövning enligt 7 kap. 28 a § miljöbalken.
 Människors hälsa och säkerhet, risk för olyckor
-- Genom planområdet går Varbergsvägen som även är en omledningsväg för E6. Motorväg E6 är led
+\- Genom planområdet går Varbergsvägen som även är en omledningsväg för E6. Motorväg E6 är led
 för farligt gods. Kommunen behöver i planbeskrivningen beskriva hur risken för olyckor med farligt
 gods inom planområdet beaktats och hur risken kommer att hanteras.
 
@@ -6395,7 +6395,7 @@ sänkning av byggnadens maximala totalhöjd.
 KUNGSBACKA  KOMMUN
 6 (20)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Svar i samråd 1:
 
 För plangenomförandet viktiga frågor där planen måste förbättras
@@ -6428,7 +6428,7 @@ Vid övergången mellan referenssystemen RT 90 och nuvarande SWEREF 99 transform
 nämligen tusentals gränspunkter över hela landet utan kontroll i fält. Dessa fick lägesosäkerheten
 0,025 eller 0,03 meter. Det har i efterhand visat sig att många av dessa punkter till exempel i områden
 med lokala stomnät kan ha god ”intern” lägesosäkerhet, men inte ligga rätt i förhållande till SWEREF
-99.
+99\.
 
 Lantmäteriet uppmanar därför kommunen att vara extra uppmärksam vid planläggning av områden där
 det förekommer gränser med just lägesosäkerheten 0,025 eller 0,03 meter, och vid behov kontrollmäta
@@ -6452,7 +6452,7 @@ Kommentar: Fastighetsgränserna till Åsa 7:1 har bestämts efter samrådet. Fas
 Planbeskrivningen uppdateras med beskrivning av påverkan med anledning av ändring av Åsa
 ga:8.
 
-3. Trafikverket
+3\. Trafikverket
 Svar i samråd 1
 
 Transportsnål planering
@@ -6537,7 +6537,7 @@ Påpekande om kostnader för åtgärder noteras.
 KUNGSBACKA  KOMMUN
 9 (20)
 
-4. Räddningstjänsten
+4\. Räddningstjänsten
 Räddningstjänsten anser att omledning av trafik till Varbergsvägen från E6 och tillgång till
 brandvatten behöver hanteras i det fortsatta arbetet med planen.
 
@@ -6547,7 +6547,7 @@ Kommentar: Frågan om åtgärder med anledning av närheten till Varbergsvägen 
 omledningsväg för E6 hanteras under rubriken Risk för olyckor, i planbeskrivningen.
 Planbeskrivningen har kompletterats med info om tillgång till brandvatten.
 
-5. Sveriges geotekniska institut, SGI
+5\. Sveriges geotekniska institut, SGI
 
 SGI har ingen erinran mot planförslaget.
 SGI yttrade sig i det förnyade samrådet och framförde då att maximalt antal våningar bör införas på
@@ -6556,7 +6556,7 @@ plankarta och planbeskrivning att inga större markuppfyllnader eller höjning a
 Kommentar: Plan- och bygglagen saknar möjlighet att reglera våningsantal. I stället regleras
 byggnadernas höjd med maximal totalhöjd och nockhöjd.
 
-6. Region Halland
+6\. Region Halland
 Region Halland ställer sig positiva till att Åsa utvecklas med både bostäder och verksamheter men vill
 lyfta vikten av att gång- och cykelvägar säkras till stationen på sikt. Kapaciteten för dessa kan behöva
 ses över när befolkningen växer.
@@ -6777,7 +6777,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-7. Teknik
+7\. Teknik
 För att den nya bebyggelsen på västra sidan inte ska bli en barriär mot målpunkten är det viktigt att det
 
 finns släpp för gångtrafik genom den nya husraden. Detta tillgodoses genom en bestämmelse på
@@ -6809,7 +6809,7 @@ I det förnyade samrådet framförde förvaltningen för teknik att Kungsbacka b
 området, samt information om att avfallshantering från år 2027 sker genom fastighetsnära insamling.
 Kommentar: Noteras
 
-8. Miljö & Hälsoskydd
+8\. Miljö & Hälsoskydd
 Förorenade områden Se nedan om tidigare yttrande kring planprogrammet. Banvallen gränsar till de
 områden som nu kommer att bebyggas. Man behöver säkerställa att man inte flyttar föroreningarna i
 marken genom dagvattenhantering eller byggande.
@@ -6931,7 +6931,7 @@ innan det påförs kommunala ledningar. Detta kan göras till exempel via svackd
 genomsläpplig yta med markduk under.” vidare står att läsa ”Detaljplanen möjliggör en omvandling av
 redan ianspråktagen och till stor del hårdgjord mark.”- och ska lösas genom att ”Om
 dagvattensystemet inom planområdet utformas enligt förslaget i dagvattenutredning steg 2 (Sweco
-2022) bedöms dagvattnets föroreningar hamna inom bra nivåer.” ”Recipienten ställer krav på rening
+2022\) bedöms dagvattnets föroreningar hamna inom bra nivåer.” ”Recipienten ställer krav på rening
 och föreslaget dagvattensystem bedöms ge erforderlig rening utan att stora delar av planområdet
 behöver användas för ytliga dagvattensystem. Reningsgraden inom den underjordiska magasineringen
 kan förbättras ytterligare med anpassade filter. Bedömningen görs att ett genomförande inte försvårar
@@ -6980,7 +6980,7 @@ Hantering av vatten vid skyfall har beaktats i planarbetet.
 Undersökningar från 2017 har klassificerat banvallen söder om det tidigare stationsområdet
 som ej förorenat. Planbeskrivningen har uppdaterats för att förtydliga det.
 
-9. Kultur & Fritid
+9\. Kultur & Fritid
 
 Detaljplanens syfte är att möjliggöra för utveckling och omvandling av det så kallade restaurangstråket
 i Åsa samt kringliggande fastigheter. Det är positivt att det byggs lägenheter i Åsa då det är en stor
@@ -7002,7 +7002,7 @@ området förändras i stor omfattning är det viktigt att den nya arkitekturen 
 genomtänkt sätt.
 Kommentar: Noteras
 
-10. Ellevio
+10\. Ellevio
 Med anledning av det ökade effektbehovet i planområdet behöver vi byta ut den befintliga ledningen
 längs med Varbergsvägen. Vi önskar att samförlägga den nya ledningen i gång- och cykelbana. Vi
 behöver dessutom uppföra en ny transformatorstation (nätstation) inom planområdet.
@@ -7057,7 +7057,7 @@ därför utföras som ett eget projekt, där Ellevio ansvarar för att skaffa er
 
 rättigheter. Samordning bör ske mellan Ellevio och exploatören.
 
-11. Skanova
+11\. Skanova
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet Skanova önskar att så långt som
 
 möjligt behålla befintliga teleanläggningar i nuvarande läge för att undvika olägenheter och kostnader
@@ -7071,7 +7071,7 @@ KUNGSBACKA  KOMMUN
 
 Kommentar: Noteras
 
-12. Postnord
+12\. Postnord
 Vid nybyggnation av villor och radhus placeras postlådan i en lådsamling vid infarten till området. I
 
 flerfamiljshus ska man ta emot sin post i en fastighetsbox på entréplan.
@@ -7079,7 +7079,7 @@ Postnord upprepade sitt yttrande i det förnyade samrådet.
 
 Kommentar: Noteras
 
-13. Tele2
+13\. Tele2
 
 Yttrade sig i det förnyade samrådet:
 Tele2, Global Connect och Telenor har ett stort samhällsviktigt kabelstråk i kanten på detaljplanen.
@@ -7129,17 +7129,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt
 5 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.
@@ -7172,7 +7172,7 @@ Länsstyrelsen delar kommunens bedömning att detaljplanen
 
 Länsstyrelsens synpunkter
 
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i
 11 kap. 10 § PBL och nu kända förhållanden att frågor som rör
@@ -7222,7 +7222,7 @@ Länsstyrelsen Hallands län           Yttrande                  3 (3)
 
 Länsstyrelsens synpunkter
 
-- råd enligt 2 kap. PBL
+\- råd enligt 2 kap. PBL
 
 Kulturmiljövärden
 I planbeskrivningen anges att detaljplanen kommer att innebära en

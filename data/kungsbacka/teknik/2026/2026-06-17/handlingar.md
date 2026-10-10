@@ -63,7 +63,7 @@ brukningsavgift för vattnet som i sin tur består av en fast och en rörlig del
 Anläggningstaxan ska enligt tidigare taxebeslut följa entreprenadindex. Entreprenadindex, för perioden
 oktober 2024 till oktober 2025 visar ingen kostnadsökning för markarbeten och rörmaterial. Tidigare
 beslut om att följa index medför att anläggningstaxan föreslås förbli oförändrad 2027 jämfört med
-2026.
+2026\.
 
 När det gäller VA-verksamhetens driftkostnader bedöms de öka med tre procent per år under den
 närmaste tioårsperioden. Kostnaderna för ränta och avskrivningar däremot ökar kraftigt till följd av
@@ -209,7 +209,7 @@ hållbara lösningar, med dammar och diken. Sammanfattningsvis skulle uppräknin
 procent behöva vara högre om inte effektiviseringar samtidigt gjordes.
 •  För kalkylen har antagits en ränta som stiger från 2,5 till 3,4 procent under perioden 2027 till
 2031, för att sedan ligga kvar på 3,4 procent under resterande del av perioden fram till och med
-2036.
+2036\.
 
 •  Kapitalkostnaderna har beräknats utifrån det av nämnden beslutade förslaget till
 investeringsbudget för 2026, plan 2027–2031 samt förvaltningens bedömning 2032–2036.
@@ -433,7 +433,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 12 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -486,7 +486,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (15)
 
 <!-- sida 13 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -613,7 +613,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -625,7 +625,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -642,7 +642,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 213 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 16 -->
 
@@ -716,7 +716,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -745,7 +745,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 18 -->
 
@@ -803,7 +803,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -847,7 +847,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 19-2](handlingar.tabeller/19-2.csv)
@@ -919,7 +919,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -998,7 +998,7 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                660 kr
 
-*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
+\*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
 Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
@@ -1009,7 +1009,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 | b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
 | --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten* | 5 kr |
+| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
 <!-- sida 23 -->
 
@@ -1127,7 +1127,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -1135,7 +1135,7 @@ Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -2170,13 +2170,13 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-1. VA-teknik
-2. Vattenproduktion
+1\. VA-teknik
+2\. Vattenproduktion
 
-3. VA-ledningsnät
-4. Avloppsrening
-5. VA-omvandling
-6. Exploatering
+3\. VA-ledningsnät
+4\. Avloppsrening
+5\. VA-omvandling
+6\. Exploatering
 
 Förvaltningens prioritering är att ge förtur till pågående projekt med bundna kontrakt, eftersom det är
 både kostsamt och komplicerat att avbryta dessa jämfört med att senarelägga projekt som ännu inte har
@@ -3118,7 +3118,7 @@ som bidrar till stora lek- och rekreationsvärden.
 Flöjtvägen
 
 Violgatan föreslås att bli en områdeslekplats under
-2027. Placeringen av lekplatsen är inte central i
+2027\. Placeringen av lekplatsen är inte central i
 området, men placeringen nära bebyggelse och
 Violgatan                                                                  natur gör att den är väl värd att utveckla.
 Flöjtvägen
@@ -3239,7 +3239,7 @@ Mellan villakvarteren återfinns små grönområden Närlekplatsen, Tingbergsvä
 Kungsbackaskogen                                                        och Kungsbackaåns parkrum är i nära anslutning. är placerad i anslutning till en bostadsgård.
 Lekplatsen förelås att ombildas till bostadsgård.
 Bissmarksgatan upprustades till områdeslekplats
-2018. Lekplatsen behöver kompletteras med växtlig- Lundgrens gata, närlekplats avvecklas i samband
+2018\. Lekplatsen behöver kompletteras med växtlig- Lundgrens gata, närlekplats avvecklas i samband
 het för ökad biologisk mångfald och rumslighet. med ombildning av lekplatsen på Guldgubbegatan.
 Guldgubbegatan
 Kungsbackaskogen, är stadslekplats. Placeringen                                        Kungsbackaskogen
@@ -3623,7 +3623,7 @@ Mycket bra - Gräs, träd, blommande buskar och perenner.
 | --- | --- | --- | --- | --- |
 | Småbarn och skolbarn | Mycket<br>liten | Liten | Bra | Mycket bra |
 | Tonåringar | Mycket<br>liten | Liten | Bra | Mycket bra |
-| *Vuxna, seniorer och andra | Mycket<br>liten | Liten | Bra | Mycket bra |
+| \*Vuxna, seniorer och andra | Mycket<br>liten | Liten | Bra | Mycket bra |
 
 [Tabell 98-2](handlingar.tabeller/98-2.csv)
 
@@ -3786,7 +3786,7 @@ TE-2026-00509
 Samarbetsavtal   om  ömsesidig  leverans  av
 dricksvatten
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Varberg Vatten AB, genom Vivab, nedan benämnd Varberg
 Organisationsnummer: 556768-1977
@@ -3798,7 +3798,7 @@ Kungsbacka kommun, genom nämnden för Teknik, nedan benämnd Kungsbacka
 Organisationsnummer: 212000–1256
 Storgatan 37, 434 32 Kungsbacka
 
-2. Bakgrund och syfte
+2\. Bakgrund och syfte
 
 Dricksvattenförsörjning är en samhällskritisk funktion och en förutsättning för såväl
 folkhälsa som ekonomisk tillväxt. Dricksvattensystemen är utsatta för utmaningar som
@@ -3844,13 +3844,13 @@ som hänger samman med allmänintresset.
 
 Detta avtal ersätter tidigare avtal tecknat 2004 om försäljning av vatten mellan parterna.
 
-3. Investeringar
+3\. Investeringar
 
 Vardera parten står för eventuella behov av investeringar för att upprätthålla sin
 
 anläggning.
 
-4. Drift och underhåll
+4\. Drift och underhåll
 
 Respektive kommun svarar för drift, underhåll och reparation av de ledningar och
 tryckstegringsstationer med tillhörande anläggningsdelar som finns inom respektive
@@ -3897,7 +3897,7 @@ ena registrerar leverans från Kungsbacka till Varberg och den andra leverans i 
 
 riktning.
 
-5. Leveransåtaganden
+5\. Leveransåtaganden
 
 Detta avtal reglerar möjlighet för part att från den andra parten vid behov eller önskemål
 få leverans av vatten. Under 2026-2027 planerar båda parter att genomföra åtgärder för att
@@ -3916,7 +3916,7 @@ Vid en samtidig större störning i Varbergs och Kungsbackas system, gäller int
 utan vid en sådan kris gäller samarbete för att minimera skadorna för invånarna i både
 Varberg och Kungsbacka.
 
-6. Ersättning
+6\. Ersättning
 
 Priset beräknas utifrån säljande kommuns totala kostnad för produktion och distribution
 inklusive kapitalkostnader för dricksvatten, och med avdrag för kostnaden för lokalt nät.
@@ -3950,12 +3950,12 @@ för beräkning av självkostnad.
 För tillsyn och löpande underhåll samt för elenergi för tryckstegringsstationer i Värö och
 Löftaskog erlägger Kungsbacka kommun till Varberg 7000 kr/år.
 
-7. Avtalstid
+7\. Avtalstid
 
 Detta avtal träder i kraft när avtalen fastställts av styrelsen för Varberg Vatten AB och
 Nämnden för Teknik i Kungsbacka kommun och gäller tills vidare.
 
-8. Samverkan och uppföljning
+8\. Samverkan och uppföljning
 
 För samarbetet ska finnas en gemensam samarbetsorganisation i syfte att löpande följa
 upp samarbetet och samverka i gemensamma frågor enligt avtalet. Kontaktpersoner för
@@ -3979,7 +3979,7 @@ Kungsbacka kommun. I anslutning till besiktningen ska en genomgång och avstämn
 ske angående drifterfarenheter, beredskap, vattenkvalitet, ekonomi etc. Protokoll ska föras
 vid mötet.
 
-9. Framtida förutsättningar
+9\. Framtida förutsättningar
 
 2019 skrevs ett intentionsavtal om anläggande av reservvattenledning och
 
@@ -3996,14 +3996,14 @@ att kunna leverera 70 l/s till Varberg i ansträngda lägen. Planering och dialo
 
 reservvattenkapacitet återupptas när Kungsbacka får besked om ny vattendom.
 
-10. Uppsägningsvillkor
+10\. Uppsägningsvillkor
 
 Respektive part kan påkalla omförhandling och tills den är slutförd gäller detta avtal.
 
 Tills nytt avtal är påskrivet ska vatten levereras enligt detta avtal. Fullständig uppsägning
 av avtalet kan enbart göras om båda parter är överens.
 
-11. Hävning
+11\. Hävning
 
 Part har rätt att häva avtalet:
 
@@ -4017,7 +4017,7 @@ av väsentlig betydelse.
 Skadeståndskrav kan inte riktas mot motparten vid uteblivna vattenleveranser om det inte
 är uppenbart att detta beror på försumlighet.
 
-12. Säkerhetsfrågor
+12\. Säkerhetsfrågor
 
 Parterna är skyldiga att iaktta den sekretess som gäller mellan myndigheterna och
 
@@ -4025,18 +4025,18 @@ förbinder sig att inte röja eller på något annat sätt utnyttja enligt lag s
 uppgift som part får del av utifrån detta avtal, såvida inte uppgifterna omfattas av
 offentlighetsprincipen eller meddelarfriheten enligt lag.
 
-13. Överlåtelse av avtal
+13\. Överlåtelse av avtal
 
 Part har inte rätt att överlåta detta avtal, eller rättigheter eller skyldigheter enligt avtalet,
 
 till annan utan den andra partens skriftliga medgivande.
 
-14. Ändring av avtal
+14\. Ändring av avtal
 
 Ändringar och tillägg till detta avtal ska upprättas skriftligen och undertecknas av båda
 parterna.
 
-15. Tvist
+15\. Tvist
 
 Tvist anseende tolkning eller tillämpning av detta avtal ska i första hand lösas genom
 
@@ -4047,7 +4047,7 @@ Tvist anseende tolkning eller tillämpning av detta avtal ska i första hand lö
 förhandlingar mellan parterna. Om tvisten inte lösts inom två veckor från påkallandet av
 sådana förhandlingar har part rätt att väcka talan vid allmän domstol.
 
-16. Verkan av tidigare avtal
+16\. Verkan av tidigare avtal
 
 I samband med att detta avtal undertecknas upphör ”Avtal om Sammankoppling av
 
@@ -4055,16 +4055,16 @@ vattennäten i Varberg och Kungsbacka” tecknat 2004 att gälla.
 
 Detta avtal har upprättats i två exemplar, varav parterna har tagit var sitt.
 
-Varberg 2026- ______        Kungsbacka 2026- ______
+Varberg 2026- \_\_\_\_\_\_        Kungsbacka 2026- \_\_\_\_\_\_
 
 Varberg Vatten AB           Kungsbacka kommun
 
-________________________________ ________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Peter Sjöholm               Monica Neptun
 Ordförande                  Ordförande Nämnden för Teknik
 
-________________________________ ________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Henrik Petzäll              Ulrika Granfors
 VD                          Förvaltningschef

@@ -550,35 +550,35 @@ Sammanfattning av ärendet
 Under perioden 14 november – 5 december har följande skrivelser inkommit till
 nämnden för Teknik:
 
-- Kungsbackas priser 2024-10-18 - Remittering av förslag om översyn av interna och
+\- Kungsbackas priser 2024-10-18 - Remittering av förslag om översyn av interna och
 externa priser och utmärkelser i Kungsbacka kommun, KS-2024-00605
-- Tjänsteskrivelse - Remittering av förslag om översyn av interna och externa priser
+\- Tjänsteskrivelse - Remittering av förslag om översyn av interna och externa priser
 och utmärkelser i Kungsbacka kommun, KS-2024-00605
 
-- Beslut KS § 254 - Remittering av förslag om översyn av interna och externa priser
+\- Beslut KS § 254 - Remittering av förslag om översyn av interna och externa priser
 och utmärkelser i Kungsbacka kommun, KS-2024-00605
-- Tjänsteskrivelse - Förnyelse av styrmodell, KS-2023-00672
+\- Tjänsteskrivelse - Förnyelse av styrmodell, KS-2023-00672
 
-- Beslut KS § 251 - Förnyelse av styrmodell, KS-2023-00672
-- Beslut KS § 245 - Kungsbacka Arena genomförandefrågor: förstudie, lokalprogram,
+\- Beslut KS § 251 - Förnyelse av styrmodell, KS-2023-00672
+\- Beslut KS § 245 - Kungsbacka Arena genomförandefrågor: förstudie, lokalprogram,
 uthyrning och driftentreprenad, arenanamn, KS-2020-00547
 
-- Brev med klagomål till Teknik
+\- Brev med klagomål till Teknik
 
-- Klagomål övertagande av Runsås VA-förening
-- Medborgardialog: Avloppstaxa i Hanhals
+\- Klagomål övertagande av Runsås VA-förening
+\- Medborgardialog: Avloppstaxa i Hanhals
 
-- Projektnummer 305, vatten- och avloppsutbyggnad Röda Holme
-- Medborgardialog: Trafiksituationen i Kolla
+\- Projektnummer 305, vatten- och avloppsutbyggnad Röda Holme
+\- Medborgardialog: Trafiksituationen i Kolla
 
-- Medborgardialog: Trafiken i Kolla
-- Medborgardialog: Otrygghet pga trafik i Kolla
+\- Medborgardialog: Trafiken i Kolla
+\- Medborgardialog: Otrygghet pga trafik i Kolla
 
-- Tjänsteskrivelse - Förslag på åtgärder för att minska kommande investeringsbehov –
+\- Tjänsteskrivelse - Förslag på åtgärder för att minska kommande investeringsbehov –
 vägval korsningen Varlavägen - Arendalsleden
-- Beslut - 202400073 - TE - § 50
+\- Beslut - 202400073 - TE - § 50
 
-- Beslut - 202400685 - KS - § 246 Ersättning av befintlig konstgräsplan – Kungsbacka
+\- Beslut - 202400685 - KS - § 246 Ersättning av befintlig konstgräsplan – Kungsbacka
 sportfält
 
 Beslutsgång
@@ -609,9 +609,9 @@ Nämnden för Teknik noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Nämnden informeras om bland annat:
-- Investeringsplanering
+\- Investeringsplanering
 
-- Revisionsgranskning av välfärdsbrottslighet
+\- Revisionsgranskning av välfärdsbrottslighet
 
 Beslutsgång
 

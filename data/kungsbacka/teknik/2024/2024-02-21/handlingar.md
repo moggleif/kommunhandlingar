@@ -213,7 +213,7 @@ konsekvensbedömningen är påbörjat.
 
 Upprättande     av  och  personuppgiftsbiträdesavtal        (art.
 
-28)
+28\)
 
 Den personuppgiftsansvariga anlitar ofta ett personuppgiftsbiträde som utför hela eller delar av
 personuppgiftsbehandlingen. När ett personuppgiftsbiträde behandlar personuppgifter åt den
@@ -240,7 +240,7 @@ område 1-9.
 Åtgärder efter egenkontroll
 
 Åtgärder som framkom i egenkontroll Kolla dataskyddet i verksamheten kommer att genomföras under
-2024.
+2024\.
 
 Inriktning  kommande       år 2024
 
@@ -415,7 +415,7 @@ en behållare på återvinningsstationen. Akuta händelser orsakade till följd 
 av en återvinningsstation kan medföra kostnader som inte täcks av ersättningen från Naturvårdsverket.
 
 Enligt punkt 4.8 i gällande Avfallstaxa (Kommunfullmäktige 14 december 2023 § 194, KS 2023–
-00300) får Nämnden för Teknik besluta om särskilda avgifter där förhållandena väsentligt avviker från
+00300\) får Nämnden för Teknik besluta om särskilda avgifter där förhållandena väsentligt avviker från
 vad som är normalt.
 Kommunen har genom egen verksamhet eller upphandlade entreprenörer möjlighet att hjälpa invånare
 som har tappat ett värdeföremål i en behållare förutsatt att behållaren inte har tömts av upphandlad
@@ -607,7 +607,7 @@ Utfallsrapport Vatten & Avlopp, miljoner kronor
 
 Kommentarer till verksamhet och utfall Vatten & Avlopp
 Verksamheten redovisar ett utfall för perioden på -8,1 miljoner kronor, att jämföra med ett budgeterat resultat på
-+ 3,7 miljoner kronor. Avvikelsen är därmed -11,8 miljoner kronor lägre än budgeterat. Intäkterna är 8,7
+\+ 3,7 miljoner kronor. Avvikelsen är därmed -11,8 miljoner kronor lägre än budgeterat. Intäkterna är 8,7
 miljoner kronor lägre jämfört med budget, vilket främst beror på lägre vattenförbrukning. Brukningsavgifterna
 är höjda med 5 procent inför 2023. Kostnaderna är 3,1 miljoner kronor högre än budget. Verksamhetskostnader
 är högre än budgeterat, framför allt beroende på elkostnadsökningen.
@@ -843,7 +843,7 @@ Nämndens årsredovisning 2023
 2 Faktorer  i omvärlden    som   påverkat   oss  under  2023
 
 Följande faktorer har påverkat vår verksamhet mest under 2023:
-1) Den höga prisutvecklingstakten som gör att vår inköpstunga verksamhet får mindre för pengarna och därmed
+1\) Den höga prisutvecklingstakten som gör att vår inköpstunga verksamhet får mindre för pengarna och därmed
 behöver öka omställningstakten avsevärt. Infrastrukturprojekt är trögrörliga och långsiktiga och vikande
 konjunktur har inte påverkat investeringstakten. Vi har dessutom kommit igång väldigt bra med att omplanera
 inom investeringsbudgeten för att hålla takten uppe. Höga priser har däremot inneburit en personalminskning
@@ -851,15 +851,15 @@ för att få en omedelbar budget i balans efter de stigande priserna på t ex ma
 drivmedelsintensiva entreprenader. Det blev högst uppenbart att välfärdsutmaningen och omställningsbehovet i
 allra högsta grad även berör Teknik.
 
-2) Den geopolitiska utvecklingen ställer krav på att vi kan skydda känslig information och infrastruktur. Den
+2\) Den geopolitiska utvecklingen ställer krav på att vi kan skydda känslig information och infrastruktur. Den
 ställer även krav på att vi ökar vår förmåga att hantera stora påfrestningar såsom kris eller krig. Detta blev mer
 påtagligt när terrorhotnivån höjdes till nivå 4 på en femgradig skala. Vi införde då en del nya rutiner och
 förberedde oss för en eventuell ytterligare höjning.
-3) Omfattande ny lagstiftning, särskilt inom avfallsområdet, samt ökat fokus på miljöfrågor från t ex
+3\) Omfattande ny lagstiftning, särskilt inom avfallsområdet, samt ökat fokus på miljöfrågor från t ex
 Länsstyrelsen kopplat till vattenkvalitet. Det yttrade sig under ansökningsprocessen för det nya reningsverket
 där mycket hårda reningskrav ställdes. Det har också inneburit att vi håller på att ställa om avfallsområdet med
 annan typ av insamlingsteknik för att underlätta och öka graden av återvinning och återbruk än mer.
-4) Kraftiga svängningar i vädret med dricksvattenbrist och översvämning om vartannat. Detta ökade ytterligare
+4\) Kraftiga svängningar i vädret med dricksvattenbrist och översvämning om vartannat. Detta ökade ytterligare
 fokuset på hur vi i det korta resp. långa perspektivet behöver klimatsäkra samhället och initierade åtgärder för
 bättre flödesövervakning av ån, möjlighet att bygga fler permanenta gräsvallar samt ökat samarbete med andra
 förvaltningar i frågor om simulering av vattenflöden t ex dagvattenavrinning.
@@ -879,10 +879,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -896,7 +896,7 @@ anhöriga har vi förenklat ansökningarna för färdtjänst och för äldre och
 tillgänglighetsanpassningen av busshållplatser i kommunen. Under året nådde vi Förlanda med vår
 bredbandsinstallation, det sista området i kommunen där tillgång till fiber inte funnits. Vi har tillfört kommunen
 flera nya aktivitetsplatser samt planerat kommunens första beachsoccerplan som ska kunna tas i drift sommaren
-2024.
+2024\.
 
 Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2020    2021   2022   2023   2023
@@ -962,11 +962,11 @@ där du bor när det är mörkt ute?
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Teknik har i hög grad bidragit till att göra Kungsbacka till en mer hållbar plats. Vårt främsta bidrag är inom
@@ -1061,12 +1061,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 70%     68%     65%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 80%     88%     85%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 100 98 97
 målvärde 2030 är 70.
@@ -1084,7 +1084,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Ekologisk status i Kungsbackafjorden (VISS)
 Skyddad natur totalt, andel (Kolada)
 Vattendrag med god ekologisk status, andel
@@ -1122,7 +1122,7 @@ ligger med god marginal (10% eller mer) Ja Ja  Nej               Ja
 under tillståndsgivna gränsvärden.
 Kadmium i ej kalkat avloppsslam 1      989     709              939
 
-* Värden är inte klara
+\* Värden är inte klara
 3.2.2 Infrastruktur
 
 Beslutats av
@@ -1265,15 +1265,15 @@ behandling
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2023
 
-*Utfall för år 2023 rapporteras senare
+\*Utfall för år 2023 rapporteras senare
 
 3.3 Bästa företagsklimatet i Västsverige
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -1335,8 +1335,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1381,12 +1381,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1734,13 +1734,13 @@ Nämndens årsredovisning 2023
 
 Område           Status Beskrivning           Kommentar
 Vi lovar:
-- Att ge dig information på
+\- Att ge dig information på
 kommunens hemsida senast
 inom tre timmar vid vattenläckor
 som berör mer än 20 hushåll,
 samt informera via sms om färre
 än 20 hushåll berörs.
-- Att det finns möjlighet att hämta
+\- Att det finns möjlighet att hämta
 vatten vid det drabbade området
 inom fyra timmar, om läckan inte
 är lagad innan dess.
@@ -1748,10 +1748,10 @@ Då vill vi att du som
 kommuninvånare hjälper oss
 genom att:
 Vatten & avlopp  Uppnått
-- Kontrollera vår hemsida innan
+\- Kontrollera vår hemsida innan
 du ringer för att rapportera att du
 saknar vatten.
-- Notera att när vattnet
+\- Notera att när vattnet
 återkommer efter en läcka kan
 det vara grumligt och/eller vitt.
 Det beror på avlagringar som
@@ -1759,7 +1759,7 @@ släpper inifrån rören och på
 luftbubblor. Det är ofarligt och går
 över, men vänta med att tvätta
 vittvätt.
-- Ha några större dunkar hemma
+\- Ha några större dunkar hemma
 för att kunna hämta vatten som vi
 ställer ut i tankar vid längre
 avbrott.
@@ -1804,11 +1804,11 @@ får kontakt inom två arbetsdagar.
 I de siffrorna ingår även interna
 frågor som når oss, och där
 Vi lovar:             återkoppling ej behövs. Under
-- Att när du kontaktar oss på 2023 hade vi sommartid en
+\- Att när du kontaktar oss på 2023 hade vi sommartid en
 Teknik ger vi dig ett gott mycket hög arbetsbelastning
 bemötande och svar inom två inom ett av våra områden, och vi
 arbetsdagar.          kan då se att tid för återkoppling
-- Att vi håller kontakten tills ditt ökade. Inom fem arbetsdagar har
+\- Att vi håller kontakten tills ditt ökade. Inom fem arbetsdagar har
 Kund &
 Uppnått ärende är avslutat.  95% av alla som kontaktar oss
 Kommunikation
@@ -1816,7 +1816,7 @@ fått en återkoppling på sitt
 Då vill vi att du som ärende. Det är dock inte alltid vi
 kommuninvånare hjälper oss kan besvara frågan inom två
 genom att:            arbetsdagar, det finns många
-- Använda anvisade    ärenden som behöver utredas
+\- Använda anvisade    ärenden som behöver utredas
 kontaktvägar.         vidare och där vi enligt riktlinje
 svarar inom tio dagar, alternativt
 håller kontakten med invånaren
@@ -2599,7 +2599,7 @@ driftbudgeten.
 För 2023 uppgår resultatet till -1,3 miljoner kronor. Resultatet i årsbokslutet justeras mot fond "Kortfristig
 fordran bredband" i balansräkningen. Bredbands resultatfond uppgår i bokslutet 2022 till 5,3 miljoner kronor.
 Det negativa resultatet innebär att fonden för Kungsbacka Bredbandsnät är 4,0 miljoner kronor efter bokslutet
-2023.
+2023\.
 Analys och kommentar
 Jämförelse med samma period föregående år
 
@@ -2860,12 +2860,12 @@ projekterar och är klara 2024, planerad byggstart hösten 2024.
 | 6514 | GC-väg Gbgv standardh et Tölö Tvär | -7 251 | -600 | -7 251 | 6 651 |
 | 6516 | Björkris, grundarb park o lekp | -6 285 | -4 500 | -6 285 | 1 785 |
 | 6526 | Kompletterande beläggning 2023 | -57 062 | -57 000 | -57 062 | 62 |
-| *5021 | GC-väg Varbergsvägen 939 | -16 805 | 0 | -5 393 | 5 393 |
-| *6508 | GC-väg Göteborgsvägen Anneberg | -19 465 | -1 800 | -19 465 | 17 665 |
-| **4125 | Må Park allmän plats | -2 343 | -19 504 | -649 | -18 855 |
-| **4141 | Björkris 2 Gata/Park SBK | -34 315 | -11 213 | -16 027 | 4 814 |
-| **4142 | Aranäs 3 Infrastruktur gata mm | -7 057 | -11 943 | 0 | -11 943 |
-| **4144 | Skår 12:1 expl gata,cirk,park | -16 623 | 2 491 | 5 368 | -2 877 |
+| \*5021 | GC-väg Varbergsvägen 939 | -16 805 | 0 | -5 393 | 5 393 |
+| \*6508 | GC-väg Göteborgsvägen Anneberg | -19 465 | -1 800 | -19 465 | 17 665 |
+| \*\*4125 | Må Park allmän plats | -2 343 | -19 504 | -649 | -18 855 |
+| \*\*4141 | Björkris 2 Gata/Park SBK | -34 315 | -11 213 | -16 027 | 4 814 |
+| \*\*4142 | Aranäs 3 Infrastruktur gata mm | -7 057 | -11 943 | 0 | -11 943 |
+| \*\*4144 | Skår 12:1 expl gata,cirk,park | -16 623 | 2 491 | 5 368 | -2 877 |
 | Summa projekt > 5 miljoner kr |  | -406 324 | -200 048 | -175 280 | -24 768 |
 
 <!-- sida 68 -->
@@ -2892,7 +2892,7 @@ motsvarande 19 fotbollsplaner.
 Kungsbackaån. Under året har förvaltningen fokuserat på att finna driftseffektiva lösningar som samtidigt bidrar
 med mervärde till kommuninvånarna. Projektet har en projekterad lösning framme och avvaktar nu byggnation
 då platsen å det närmaste ska nyttjas av ett VA-projekt. Byggnation av Teaterparken är planerad att ske under
-2024.
+2024\.
 
 6514 Standardhöjning av gång- och cykelväg längs Göteborgsvägen mot Hede. Projektet är genomfört under
 2023 och bestod av att befintlig gång- och cykelväg breddades och att cykelöverfarter anlades där gång- och
@@ -2906,9 +2906,9 @@ underhållsskuld som finns på kommunens vägnät. Under året har totalt 5 310 
 beläggning och 11 940 meter väg fått ny beläggning. Sammantaget har förvaltningen under 2023 belagt en yta
 motsvarande 19 fotbollsplaner.
 
-*Medfinansieringsavtal:
+\*Medfinansieringsavtal:
 
-I tabell ovan så har även *medfinansieringsavtal med Trafikverket redovisats, vilket i balansräkningen redovisas
+I tabell ovan så har även \*medfinansieringsavtal med Trafikverket redovisats, vilket i balansräkningen redovisas
 som en tillgång (bidrag till statlig infrastruktur) och motsvarande belopp har redovisats som en avsättning. Detta
 enligt god redovisningssed.
 Under 2023 har ett nytt medfinansieringsavtal tecknats med Trafikverket avseende projekt 6508 gång- och
@@ -2916,12 +2916,12 @@ cykelväg längs Göteborgsvägen delen Anneberg-kommungränsen. Den totala avs�
 2023 uppgår till 19 459 tkr per 2023-12-31. Mölndals kommun kommer att ansluta med gång- och cykelväg på
 sin sida kommungränsen och när projektet är färdigställt kommer det gå att cykla eller gå skiljt från
 motorfordon mellan Anneberg och Lindome.
-**Exploateringsprojekt:
+\*\*Exploateringsprojekt:
 
-** 4125 Må park allmän plats. Projektering genomförd, ansökan om vattenverksamhet är inlämnad till
+\*\* 4125 Må park allmän plats. Projektering genomförd, ansökan om vattenverksamhet är inlämnad till
 Länsstyrelsen, planerad byggstart hösten 2024. Exploatören bekostar utbyggnad inom allmän plats. Tidplan i fas
 enligt överenskommelse med exploatören.
-** 4141 Björkris 2 gata/park. Etapp 1.1 och 1.2 är färdigställda, uppbygganden sker i etapper enligt
+\*\* 4141 Björkris 2 gata/park. Etapp 1.1 och 1.2 är färdigställda, uppbygganden sker i etapper enligt
 
 51
 
@@ -2933,12 +2933,12 @@ Nämndens årsredovisning 2023
 överenskommelse med exploatör. Etapp 1.3 projektering pågår, planerad byggstart hösten 2024. Exploatören
 bekostar utbyggnad av allmän platsmark. Tidplan i fas enligt överenskommelse med exploatören.
 
-** 4142 Aranäs 3 Infrastruktur gata med mera. Pågående återställning av allmän platsmark kring de tre
+\*\* 4142 Aranäs 3 Infrastruktur gata med mera. Pågående återställning av allmän platsmark kring de tre
 bostadskvarteren som byggs i Aranäs (Söderstaden). Återställning av trottoarer, gångbanor och
 parkeringsplatser. Återställningen sker etappvis och utförs av ramavtalsentreprenör. Just nu pågår återställning
 kring kvarter A. Preliminärt färdigställande för samtliga kvarter beräknas till slutet av 2024. Exploatören
 bekostar detta.
-** 4144 Skårby 12:1 exploatering gata, cirkulationsplats, park. Under 2023 har framtagande av
+\*\* 4144 Skårby 12:1 exploatering gata, cirkulationsplats, park. Under 2023 har framtagande av
 förfrågningsunderlag för parken sammanställts och upphandlingen annonserades i november. Byggnation av
 parken kommer ske 2024. I samband med öppnande av nya Skårbyskolan har det i sent skede framkommit
 behov av angöringsplats för skolbuss inom fastigheten. Förvaltningen bistår Serviceförvaltningen i att hantera
@@ -3105,10 +3105,10 @@ budgeten. Vår nätutrustning har bytts ut och uppgraderats löpande under året
 väntat som beror till stora delar på konjunkturen som medför att byggnationen av nya områden har skjutits på
 framtiden vilket medfört att intäkterna uppgått till 4 miljoner kronor vilket är 3 miljoner kronor lägre än
 budgeterat. Vi har erhållit bredbandsstod från Post- och Telestyrelsen på 4,2 miljoner som ingår i intäkten för
-2023.
+2023\.
 Avvikelsen på investeringarna beror på att vissa stora projekt som t ex byggnation av fiber till Förlandaområdet
 är lite försenade mot budgeterat och ett område startar inte förrän 2024 vilket medför att de pågår under 2023-
-2026. Projektet med nya noder pågår och slutförs under 2024.
+2026\. Projektet med nya noder pågår och slutförs under 2024.
 
 Ombudgeteringar på 6,2 miljoner kronor av de bidragspengar som vi har erhållit från Post- och Telestyrelsen
 (PTS) kommer att begäras, Förlanda Östra 2,0 miljoner kronor till 2024 och Kungsbacka Landsbygd 4,2
@@ -3689,7 +3689,7 @@ av lägre intäkter på grund av lägre inflyttning än förväntat, samt högre
 kostnaderna är högre än budget beror framför allt på att indexuppräkningen för de större avtalen har varit högre
 än vad som förväntades när budgeten sattes.
 Efter reglering mot fonden överförs underskottet till det ackumulerade resultatet som var 4,6 miljoner efter
-2022. Detta innebär ett ackumulerat resultat på -1,3 miljoner kronor efter 2023.
+2022\. Detta innebär ett ackumulerat resultat på -1,3 miljoner kronor efter 2023.
 
 Analys och kommentar
 Kommentar till avvikelser mellan åren
@@ -3747,7 +3747,7 @@ driftbudgeten.
 För 2023 uppgår resultatet till -1,3 miljoner kronor. Resultatet i årsbokslutet justeras mot fond "Kortfristig
 fordran bredband" i balansräkningen. Bredbands resultatfond uppgår i bokslutet 2022 till 5,3 miljoner kronor.
 Det negativa resultatet innebär att fonden för Kungsbacka Bredbandsnät är 4,0 miljoner kronor efter bokslutet
-2023.
+2023\.
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -3860,7 +3860,7 @@ framtiden vilket medfört att intäkterna uppgått till 4 miljoner kronor vilket
 budgeterat. Men vi har erhållit bredbandsstod från PTS på 4,2 miljoner som ingår i intäkten för 2023.
 Avvikelsen på investeringarna beror på att vissa stora projekt som tex byggnation av fiber till Förlandaområdet
 är lite försände mot budgeterat och ett område startat inte förrän 2024 vilket medför att de pågår under 2023-
-2026. Projektet med nya noder pågår och slutförs under 2024.
+2026\. Projektet med nya noder pågår och slutförs under 2024.
 
 Ombudgeteringar på 6,2 miljoner kronor av de pengar som vi har erhållit från Post- och Telestyrelsen (PTS)
 kommer att begäras, Förlanda Östra 2,0 miljoner kronor till 2024 och Kungsbacka Landsbygd 4,2 miljoner
@@ -4546,7 +4546,7 @@ något kring själva internkontrollarbetet. Däremot har inte ambitionsnivån s�
 ska leda till en bättre verksamhet där risken för brister i rutiner är liten. Internkontrollplanen med dess
 omfattande kontrollmoment fastställdes dock i enlighet med de rutiner som gällde före 2023.
 Den sänkta ambitionsnivån har inneburit att färre personer har varit delaktiga i uppföljningen av kontrollplan
-2023. Visst arbete, främst med koppling till systemförvaltarmodellen, har flyttats mellan olika personer under
+2023\. Visst arbete, främst med koppling till systemförvaltarmodellen, har flyttats mellan olika personer under
 året varför kontinuiteten och kraften i det arbetet inte uppnåtts under just det här året. Den sänkta
 ambitionsnivån innebär att planen för 2024, som togs fram under 2023, skett på ett sådant sätt att kontrollarbetet
 under 2024 inte kommer bli så omfattande som det tidigare varit. Mer kraft kommer läggas på utveckling framåt
@@ -4933,38 +4933,38 @@ från investeringsplaneringen för att istället hantera projektet som särskilt
 april 2024.
 För 2025 är investeringsbehoven enligt följande:
 
-- Skattefinansierad verksamhet 80 miljoner kronor
-- Vatten och Avlopp, summa nettokostnad 403,7 miljoner kronor
+\- Skattefinansierad verksamhet 80 miljoner kronor
+\- Vatten och Avlopp, summa nettokostnad 403,7 miljoner kronor
 
-- Avfall och Återvinning, summa nettokostnad 14,75 miljoner kronor
-- Bredband, summa nettokostnad 25,15 miljoner kronor.
+\- Avfall och Återvinning, summa nettokostnad 14,75 miljoner kronor
+\- Bredband, summa nettokostnad 25,15 miljoner kronor.
 
 Nämnden för Teknik beslutar om fördelning av medel mellan de olika
 projektportföljerna avseende 2025 enligt nedan.
 Skatt
 
-- Portfölj cykelkommun 33 % av tillgängliga medel
-- Portfölj kommunens vägnät 6 % av tillgängliga medel
+\- Portfölj cykelkommun 33 % av tillgängliga medel
+\- Portfölj kommunens vägnät 6 % av tillgängliga medel
 
-- Portfölj den attraktiva staden 8 % av tillgängliga medel
+\- Portfölj den attraktiva staden 8 % av tillgängliga medel
 
-- Portfölj skog och park 8 % av tillgängliga medel
-- Portfölj reinvesteringar 28 % av tillgängliga medel
+\- Portfölj skog och park 8 % av tillgängliga medel
+\- Portfölj reinvesteringar 28 % av tillgängliga medel
 
-- Portfölj maskiner och fordon 17 % av tillgängliga medel
+\- Portfölj maskiner och fordon 17 % av tillgängliga medel
 Vatten och avlopp
 
-- Portfölj Teknik VA 0,3% av tillgängliga medel
-- Portfölj VA Vattenproduktion 2,8% av tillgängliga medel
+\- Portfölj Teknik VA 0,3% av tillgängliga medel
+\- Portfölj VA Vattenproduktion 2,8% av tillgängliga medel
 
-- Portfölj VA Ledningsnät 55% av tillgängliga medel
-- Portfölj VA Avloppsrening 4,4 % av tillgängliga medel
+\- Portfölj VA Ledningsnät 55% av tillgängliga medel
+\- Portfölj VA Avloppsrening 4,4 % av tillgängliga medel
 
-- Portfölj VA Omvandling 31% av tillgängliga medel
-- Portfölj VA Exploatering 6,5% av tillgängliga medel
+\- Portfölj VA Omvandling 31% av tillgängliga medel
+\- Portfölj VA Exploatering 6,5% av tillgängliga medel
 
 Avfall och återvinning
-- Portfölj Avfall 100 % av tillgängliga medel
+\- Portfölj Avfall 100 % av tillgängliga medel
 
 Expedierat/bestyrkt
 
@@ -4976,16 +4976,16 @@ Datum
 2024-01-17
 
 Kungsbacka bredbandsnät
-- Portfölj Kungsbacka Bredbandsnät 4 % av tillgängliga medel
+\- Portfölj Kungsbacka Bredbandsnät 4 % av tillgängliga medel
 
-- Portfölj KBN Stamnät och hårdvara 29 % av tillgängliga medel
-- Portfölj KBN område/villaanslutningar 35 % av tillgängliga medel
+\- Portfölj KBN Stamnät och hårdvara 29 % av tillgängliga medel
+\- Portfölj KBN område/villaanslutningar 35 % av tillgängliga medel
 
-- Portfölj KBN Verksamhet och nya områden 16 % av tillgängliga medel
-- Portfölj KBN Samförläggning VA 6 % av tillgängliga medel
+\- Portfölj KBN Verksamhet och nya områden 16 % av tillgängliga medel
+\- Portfölj KBN Samförläggning VA 6 % av tillgängliga medel
 
-- Portfölj KBN Samförläggning belysning/GC-väg 6% av tillgängliga medel
-- Portfölj KBN Extra tillkommande investeringar 4 % av tillgängliga medel
+\- Portfölj KBN Samförläggning belysning/GC-väg 6% av tillgängliga medel
+\- Portfölj KBN Extra tillkommande investeringar 4 % av tillgängliga medel
 
 Sammanfattning av ärendet
 Förvaltningen för Teknik har berett förvaltningens samlade investeringsbehov för
@@ -5067,7 +5067,7 @@ Utemiljö och granskats av verksamhetschef på Trafik & Utemiljö. Den har även
 skickats på remiss till enheten Hållbar utveckling på Samhällsbyggnadskontoret
 samt till kommunikatörer inom förvaltningen för Teknik.
 Gång- och cykelplan 2023-2027 antogs av nämnden för Teknik den 16 november
-2022.
+2022\.
 
 Kungsbacka kommun             Gång- och cykelplan              3 (23)
 
@@ -5660,7 +5660,7 @@ Beskrivning av ärendet
 
 Vid nämnden för Tekniks sammanträde 2024-01-17 §10 beslöt nämnden att anta förslag om
 investeringsram avseende den skattefinansierade verksamheten motsvarande 80 miljoner kronor för år
-2025. Avseende perioden 2026-2029 bedömde förvaltningen för Teknik motsvarande
+2025\. Avseende perioden 2026-2029 bedömde förvaltningen för Teknik motsvarande
 investeringsbehov till 100 miljoner kronor årligen i 2023-års prisnivå. En årlig indexuppräkning med
 2% bedöms krävas för att beloppet inte ska gröpas ur av de allmänna kostnadsökningarna i samhället.
 
@@ -5705,7 +5705,7 @@ tillfällig lösning genom att montera överkörningsbara gummiplattor för att 
 
 de oskyddade trafikanterna. En gång- och cykelbro fyller därför en stor trafiksäkerhetshöjande effekt.
 Projektet kom in i förvaltningens investeringsplan första gången 2012 med ett bedömt utförande under
-2015. Projektet har under perioden från 2012 till dags dato varit föremål för beredning och översyn vid
+2015\. Projektet har under perioden från 2012 till dags dato varit föremål för beredning och översyn vid
 ett flertal tillfällen och dess budget har räknats upp i jämförelse med ursprungligt avsatt belopp.
 
 2016 ingicks det första avtalet om finansiering av den första utredningen mellan kommunen och
@@ -5820,7 +5820,7 @@ KUNGSBACKA  KOMMUN
 6 (11)
 
 Urklipp ur trafikledsplan 2007-04, underlag till fördjupad översiktsplan för Kungsbacka antagen
-2009. Aktuell sträcka markerad med svart oval.
+2009\. Aktuell sträcka markerad med svart oval.
 
 <!-- sida 147 -->
 
@@ -6458,7 +6458,7 @@ Personuppgiftsincidenter
 
 Under året har fem (5) incidenter rapporterats, som jag fått kännedom om. Ingen av dessa har
 anmälts till IMY. Det är fler än tidigare år då två (2) incidenter rapporterades år 2022 och inga år
-2021.
+2021\.
 
 Frågor från verksamheten
 Under året har jag kontaktats vid ett par tillfällen med frågor från verksamheten, utöver den kontakt
@@ -6693,30 +6693,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -6724,7 +6724,7 @@ Innehåll
 
 <!-- sida 168 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -6852,7 +6852,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 171 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -7260,7 +7260,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 180 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -7395,7 +7395,7 @@ tunga att utforska.
 
 <!-- sida 183 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -7540,13 +7540,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 186 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -7575,9 +7575,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.

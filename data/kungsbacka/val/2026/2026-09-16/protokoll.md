@@ -256,10 +256,10 @@ och preliminära rösträkning. Enligt vallagen ska valnämnden sammanträda ons
 efter valdagen för att granska och räkna de röster som inte räknats i vallokalerna.
 
 Valnämnden ska vid sammanträdet granska:
--  underkända förtidsröster från vallokalerna
+\-  underkända förtidsröster från vallokalerna
 
--  förtidsröster som inte har granskats i vallokalerna
--  brevröster
+\-  förtidsröster som inte har granskats i vallokalerna
+\-  brevröster
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera informationen till
@@ -281,10 +281,10 @@ Valnämndens granskning och preliminära rösträkning
 
 Beslut
 
--  Valnämnden beslutar att inte godkänna 312 förtidsröster, varav 27 är
+\-  Valnämnden beslutar att inte godkänna 312 förtidsröster, varav 27 är
 brevröster.
 
--  Valnämnden beslutar att godkänna det preliminära rösträkningsresultatet.
+\-  Valnämnden beslutar att godkänna det preliminära rösträkningsresultatet.
 
 Sammanfattning av ärendet
 
@@ -358,11 +358,11 @@ Sammanfattning av ärendet
 Under perioden 31augusti – 10 september har följande skrivelser inkommit till
 valnämnden:
 
--  Valmyndighetens nyhetsbrev vecka 34
--  Valmyndighetens nyhetsbrev vecka 35
+\-  Valmyndighetens nyhetsbrev vecka 34
+\-  Valmyndighetens nyhetsbrev vecka 35
 
--  Valmyndighetens nyhetsbrev vecka 35.2
--  Information om rättelse i röstlängd
+\-  Valmyndighetens nyhetsbrev vecka 35.2
+\-  Information om rättelse i röstlängd
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av

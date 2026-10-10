@@ -52,16 +52,16 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-2.  Investeringsplan för Teknik TE-2025- Nämnden för Teknik beslutar att anta förslag till
+2\.  Investeringsplan för Teknik TE-2025- Nämnden för Teknik beslutar att anta förslag till
 2027 - plan för 2028-2031, 00778 ramar för 2027, enligt följande och skicka dessa
 utblick 2032-2036               vidare till Kommunfullmäktige för fastställelse,
 belopp i 2026 års prisnivå.
-Föredragande: Emir Halalkic &   * Skattefinansierad verksamhet 120 000 000 kr
+Föredragande: Emir Halalkic &   \* Skattefinansierad verksamhet 120 000 000 kr
 
-Catarina Sundberg               * Vatten och Avlopp 350 000 000 kr exklusive
+Catarina Sundberg               \* Vatten och Avlopp 350 000 000 kr exklusive
 17:00 – 17:35                   Hammargårds reningsverk (FAR)
-* Avfall och Återvinning 18 000 000kr
-* Kungsbacka bredbandsnät 20 500 000 kr
+\* Avfall och Återvinning 18 000 000kr
+\* Kungsbacka bredbandsnät 20 500 000 kr
 
 Nämnden för Teknik beslutar att anta förslag till
 ramar för utgiftsområden för 2028-2031 med utblick
@@ -78,8 +78,8 @@ Skattefinansierad verksamhet
 120 000  600 000
 Vatten och Avlopp, summa nettokostnad
 Exkl FAR
-350 000  350 000* 350 000* 350 000*
-350 000* 1 750 000*
+350 000  350 000\* 350 000\* 350 000\*
+350 000\* 1 750 000\*
 Framtidens avloppsrening (FAR)
 521 850  283 060  113 390  8000
 0        0
@@ -90,7 +90,7 @@ Bredband, summa nettokostnad
 20 500   21 300   18 000   17 500
 17 850   98 300
 
-* När det gäller Vatten och Avlopp visar tabellen
+\* När det gäller Vatten och Avlopp visar tabellen
 
 ovan den ram som signalerats att Teknik kommer att
 få tillgång till. Det egentliga behovet är emellertid

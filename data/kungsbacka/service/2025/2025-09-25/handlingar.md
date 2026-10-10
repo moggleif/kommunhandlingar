@@ -213,11 +213,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och
 livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av nämndens arbete med målet
 Välkomnande och trygga miljöer i Kungsbacka
@@ -292,11 +292,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
 och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 5
 
@@ -346,7 +346,7 @@ Måltider har fortsatt arbetet med 50/50-rätter (hälften animalisk färs och h
 inhemsk ärtfärs introducerats för att succesivt byta ut utländsk sojafärs.
 
 Kungsbackas långsiktiga mål för klimatpåverkan från livsmedel är maximalt 1,0 kg koldioxid per kilo livsmedel
-2030. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2025 års siffra för perioden januari till juli är 1,44.
+2030\. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2025 års siffra för perioden januari till juli är 1,44.
 Utbyte av köldmedier med stor klimatpåverkan fortsätter enligt plan, där målsättningen är 0 år 2030.
 
 Praktik och bidragsanställningar bidrar till social hållbarhet
@@ -371,7 +371,7 @@ Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 % 85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -381,23 +381,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 72 % 79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 93 % 92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %   73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %   86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -426,7 +426,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86    1,79   1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113   115     151
@@ -449,8 +449,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -508,8 +508,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Stöd till individers egen förmåga och ungas utveckling
@@ -559,12 +559,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
 medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
 bemötta i kontakt med kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av nämndens arbete med målet
 Mötesplatser som stärker delaktighet och kommunens service
@@ -996,7 +996,7 @@ med juni.
 Kommenterat utfall
 
 Rekommendationsviljan har visat en positiv utveckling sedan årsskiftet och håller sig stabil jämfört med delåret
-2024. Den är fortsatt negativ vilket indikerar att det finns förbättringspotential för att stärka
+2024\. Den är fortsatt negativ vilket indikerar att det finns förbättringspotential för att stärka
 arbetsgivarvarumärket och medarbetarnas upplevelse av arbetsplatsen. Ett av de framtagna effektmålen riktar
 sig särskilt mot detta område. Medarbetarengagemanget är oförändrat jämfört med samma period föregående år.
 Sjukfrånvaron har minskat jämfört med delåret 2024 då nivån uppgick till 6,8 %. Det är framför allt
@@ -1044,7 +1044,7 @@ miljöpåverkan utifrån kloka och medvetna val i balans med funktion, kvalitet 
 
 Kommentarer till utfall
 Kungsbackas långsiktiga mål för klimatpåverkan från livsmedel är maximalt 1,0 kg koldioxid per kilo livsmedel
-2030. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2025 års siffra för perioden januari till juli är 1,44.
+2030\. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2025 års siffra för perioden januari till juli är 1,44.
 
 Matsvinnet ligger på en lägre nivå än tidigare år, tack vare en bättre förberedelse inför sommarperioden.
 Målvärdet på 30 gram är på längre sikt, till 2030.
@@ -1331,7 +1331,7 @@ Ekonomi
 Services gemensamma ekonomifunktion levererar i stort enligt uppsatta mål och verksamhetsplan. Inflationen
 har stabiliserats, men behovet av att stötta verksamheterna med analyser och åtgärder kopplade till högre
 kostnadsnivåer kvarstår. Samtidigt har också förutsättningarna för offentlig sektor förändrats de senaste åren
-- från en relativt stabil omvärld till ett mer föränderligt läge. Därför arbetar ekonomiteamet med scenarier för
+\- från en relativt stabil omvärld till ett mer föränderligt läge. Därför arbetar ekonomiteamet med scenarier för
 hur förändringar i omvärlden kan påverka verksamheterna, för att förstå och snabbt kunna agera när
 förutsättningarna skiftar. När åtgärder genomförs beräknas nyttan och effekthemtagningen av insatserna. Detta
 arbete har tagit kliv framåt under året och behöver fortsätta i samma riktning för att på bästa sätt stödja chefer

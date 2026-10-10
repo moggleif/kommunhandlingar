@@ -113,10 +113,10 @@ Akademikerförbundet SSR - Angelica Svensson
 
 Plats och tid: VM Lagan 2024-09-10 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll för mötet 2024-08-13 är godkänt och signerat digitalt.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i september.
 Delårsrapporten
 
@@ -175,7 +175,7 @@ Beslut: Att anteckna informationen.
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 Verksamhetschef informerar
 
 •  Ny enkät genomförs om mobilfriskola
@@ -194,7 +194,7 @@ för chefer och medarbetare (valbara och obligatoriska).
 
 Beslut: Att anteckna informationen.
 
-4. Lokalkoncept skola
+4\. Lokalkoncept skola
 
 Lokalkoncept är uppdaterat med en omfattande revidering. Förskola & Grundskola har en arbetsgrupp
 som arbetar igenom dokumenten. Det finns en styrgrupp med tjänstepersoner från Service och
@@ -232,14 +232,14 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 4 (6)
 
-5. Delårsrapporten.
+5\. Delårsrapporten.
 Delårsrapporten är föredragen under punkt 2. Powerpoint skulle ha kunnat skickats ut innan mötet.
 Riktlinje framåt: Det som ska presenteras finns med senast fredag före kallelse går ut om det är
 information. Om inte handlingarna är klara ska powerpoint finnas med.
 
 Beslut: Att anteckna informationen.
 
-6. Initiativ från nämnd (eller oktober)
+6\. Initiativ från nämnd (eller oktober)
 Initiativ för stärkt elevhälsa och initiativ för bättre stöd i skolan är initiativ som vi fått från nämnden.
 
 Det är omhändertaget på ett sådant sätt att vi har ett utredningsuppdrag:
@@ -253,7 +253,7 @@ välkommet då det i nuläget har stor variation och en likvärdighet önskas.
 
 Beslut: Dialog/ information
 
-7. Revidera upplägget för tjänsteplanering inför nästa år. Nytt utkast i oktober.
+7\. Revidera upplägget för tjänsteplanering inför nästa år. Nytt utkast i oktober.
 Processen för tjänsteplaneringen är under revidering och där det nya förslaget väntas minska
 tidsspannet för hela processen. Bland annat ses samordningen via enhetschef i första läget över.
 
@@ -272,13 +272,13 @@ Beslut: Dialog/ information
 KUNGSBACKA  KOMMUN
 5 (6)
 
-9. Stabsorganisation (om aktuellt)
+9\. Stabsorganisation (om aktuellt)
 Förvaltningschefen har utsett Maria Eriksson till biträdande förvaltningschef som också kommer att
 behålla sitt uppdrag som verksamhetschef för pedagogiskt område centrum.
 
 Beslut: Att anteckna information
 
-10. Arbetstagarorganisationer
+10\. Arbetstagarorganisationer
 
 Winningtemp kopplat till utvecklande medarbetarskap.
 
@@ -293,7 +293,7 @@ kontaktar även Sveriges skolledare för fortsatt dialog om hur stödet till rek
 
 Beslut: Dialog
 
-11. Karriärtjänster - tillsättningsgrad (Sveriges lärare)
+11\. Karriärtjänster - tillsättningsgrad (Sveriges lärare)
 Lärarlönelyft - fördelningsmodell
 Betygshantering – datum för öppning av system
 
@@ -335,7 +335,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 
@@ -417,7 +417,7 @@ Avregistrera dig
 
 <!-- sida 16 -->
 
-Från:           Johanna Haraldsson <johanna@emajsi.se>
+Från:           Johanna Haraldsson \<johanna@emajsi.se>
 Skickat:        den 20 september 2024 22:04
 Till:           Emma Nilsson; Tommy Korsell; Kristofer Skogholm; Christina Hermansson;
 Stigert Pettersson; Malin de Verdier; Förskola Grundskola; Emanuel Forsell;
@@ -440,25 +440,25 @@ Känns era beslut bra?
 
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Skickat: Sunday, September 15, 2024 8:48:02 PM
-Till: Emma Nilsson <emma.nilsson2@kungsbacka.se>; Tommy Korsell <tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm <kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-<christina.hermansson2@kungsbacka.se>; Stigert Pettersson <stigert.pettersson@kungsbacka.se>;
-Malin de Verdier <malin.deverdier@kungsbacka.se>; Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>; Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén
-<elin.hysen@kungsbacka.se>; Paul Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg
-<per.stenberg@kungsbacka.se>; Sofia Hansen <sofia.hansen@kungsbacka.se>; Peter Lundin
-<peter.lundin@kungsbacka.se>; Evelyn Orest <evelyn.orest@kungsbacka.se>; Helen Thylin
+Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
+Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
+Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
+\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
+\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
+\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
 
-<helen.thylin@kungsbacka.se>; Anna-Karin Granberg <anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson <johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-<mia.sandvall@kungsbacka.se>; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Lisa Andersson
-<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se <Casper.sewerin@svt.se>; Anton
-Johansson <anton.johansson.1@svt.se>; Julia.sandstenvikberg@norrahalland.se
-<Julia.sandstenvikberg@norrahalland.se>
+\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
+Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
+\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
+\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
+\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
+Johansson \<anton.johansson.1@svt.se>; Julia.sandstenvikberg@norrahalland.se
+\<Julia.sandstenvikberg@norrahalland.se>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej!
@@ -486,57 +486,57 @@ besparingar ger för effekter.
 Tack!
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Skickat: Tuesday, September 10, 2024 10:14:40 AM
-Till: Emma Nilsson <emma.nilsson2@kungsbacka.se>; Tommy Korsell <tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm <kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-<christina.hermansson2@kungsbacka.se>; Stigert Pettersson <stigert.pettersson@kungsbacka.se>;
-Malin de Verdier <malin.deverdier@kungsbacka.se>; Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>; Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén
+Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
+Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
+Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
 
-<elin.hysen@kungsbacka.se>; Paul Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg
-<per.stenberg@kungsbacka.se>; Sofia Hansen <sofia.hansen@kungsbacka.se>; Peter Lundin
-<peter.lundin@kungsbacka.se>; Evelyn Orest <evelyn.orest@kungsbacka.se>; Helen Thylin
-<helen.thylin@kungsbacka.se>; Anna-Karin Granberg <anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson <johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-<mia.sandvall@kungsbacka.se>; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Lisa Andersson
-<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se <Casper.sewerin@svt.se>; Anton
-Johansson <anton.johansson.1@svt.se>
+\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
+\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
+\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
+\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
+Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
+\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
+\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
+\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
+Johansson \<anton.johansson.1@svt.se>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej på er!
 
 Jag inväntar fortfarande på svar nedan. Vem ansvarar för informationsöverförandet?
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Datum: onsdag, 28 augusti 2024 19:39
 
-Till: Emma Nilsson <emma.nilsson2@kungsbacka.se>, Tommy Korsell
-<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
-<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
+Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>, Tommy Korsell
+\<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
+\<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
 
 <!-- sida 18 -->
 
-<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
-<stigert.pettersson@kungsbacka.se>, Malin de Verdier
-<malin.deverdier@kungsbacka.se>, Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
-<emanuel.forsell@kungsbacka.se>, Elin Hysén <elin.hysen@kungsbacka.se>, Paul
-Blomdahl <paul.blomdahl@kungsbacka.se>, Per Stenberg
-<per.stenberg@kungsbacka.se>, Sofia Hansen <sofia.hansen@kungsbacka.se>, Peter
+\<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
+\<stigert.pettersson@kungsbacka.se>, Malin de Verdier
+\<malin.deverdier@kungsbacka.se>, Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
+\<emanuel.forsell@kungsbacka.se>, Elin Hysén \<elin.hysen@kungsbacka.se>, Paul
+Blomdahl \<paul.blomdahl@kungsbacka.se>, Per Stenberg
+\<per.stenberg@kungsbacka.se>, Sofia Hansen \<sofia.hansen@kungsbacka.se>, Peter
 
-Lundin <peter.lundin@kungsbacka.se>, Evelyn Orest <evelyn.orest@kungsbacka.se>,
-Helen Thylin <helen.thylin@kungsbacka.se>, Anna-Karin Granberg <anna-
-karin.granberg@kungsbacka.se>, Johan Tolinsson <johan.tolinsson@kungsbacka.se>,
-mia.sandvall@kungsbacka.se <mia.sandvall@kungsbacka.se>, Anette Stockhaus
-<anette.stockhaus@kungsbacka.se>, Lisa Andersson <lisa.andersson@kungsbacka.se>,
-susanna.andersson@kungsbacka.se <susanna.andersson@kungsbacka.se>,
-mia.sandblom@kungsbackaposten.se <mia.sandblom@kungsbackaposten.se>,
-Casper.sewerin@svt.se <Casper.sewerin@svt.se>, Anton Johansson
+Lundin \<peter.lundin@kungsbacka.se>, Evelyn Orest \<evelyn.orest@kungsbacka.se>,
+Helen Thylin \<helen.thylin@kungsbacka.se>, Anna-Karin Granberg \<anna-
+karin.granberg@kungsbacka.se>, Johan Tolinsson \<johan.tolinsson@kungsbacka.se>,
+mia.sandvall@kungsbacka.se \<mia.sandvall@kungsbacka.se>, Anette Stockhaus
+\<anette.stockhaus@kungsbacka.se>, Lisa Andersson \<lisa.andersson@kungsbacka.se>,
+susanna.andersson@kungsbacka.se \<susanna.andersson@kungsbacka.se>,
+mia.sandblom@kungsbackaposten.se \<mia.sandblom@kungsbackaposten.se>,
+Casper.sewerin@svt.se \<Casper.sewerin@svt.se>, Anton Johansson
 
-<anton.johansson.1@svt.se>
+\<anton.johansson.1@svt.se>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej Emma!
@@ -558,26 +558,26 @@ Mvh Johanna
 
 Skickat från Outlook för iOS
 
-Från: Emma Nilsson <emma.nilsson2@kungsbacka.se>
+Från: Emma Nilsson \<emma.nilsson2@kungsbacka.se>
 Skickat: Wednesday, August 28, 2024 8:43:41 AM
-Till: Johanna Haraldsson <johanna@emajsi.se>; Tommy Korsell <tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm <kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-<christina.hermansson2@kungsbacka.se>; Stigert Pettersson <stigert.pettersson@kungsbacka.se>;
-Malin de Verdier <malin.deverdier@kungsbacka.se>; Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>; Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén
-<elin.hysen@kungsbacka.se>; Paul Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg
-<per.stenberg@kungsbacka.se>; Sofia Hansen <sofia.hansen@kungsbacka.se>; Peter Lundin
+Till: Johanna Haraldsson \<johanna@emajsi.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
+Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
+Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
+\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
+\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
 
 <!-- sida 19 -->
 
-<peter.lundin@kungsbacka.se>; Evelyn Orest <evelyn.orest@kungsbacka.se>; Helen Thylin
-<helen.thylin@kungsbacka.se>; Anna-Karin Granberg <anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson <johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-<mia.sandvall@kungsbacka.se>; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Lisa Andersson
-<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se <Casper.sewerin@svt.se>; Anton
-Johansson <anton.johansson.1@svt.se>
+\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
+\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
+Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
+\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
+\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
+\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
+Johansson \<anton.johansson.1@svt.se>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej Johanna!
@@ -607,24 +607,24 @@ www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Skickat: den 27 augusti 2024 13:51
-Till: Tommy Korsell <tommy.korsell@kungsbacka.se>; Kristofer Skogholm
-<kristofer.skogholm@kungsbacka.se>; Christina Hermansson <christina.hermansson2@kungsbacka.se>;
-Stigert Pettersson <stigert.pettersson@kungsbacka.se>; Malin de Verdier
-<malin.deverdier@kungsbacka.se>; Förskola Grundskola <forskola.grundskola@kungsbacka.se>;
-Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén <elin.hysen@kungsbacka.se>; Paul
+Till: Tommy Korsell \<tommy.korsell@kungsbacka.se>; Kristofer Skogholm
+\<kristofer.skogholm@kungsbacka.se>; Christina Hermansson \<christina.hermansson2@kungsbacka.se>;
+Stigert Pettersson \<stigert.pettersson@kungsbacka.se>; Malin de Verdier
+\<malin.deverdier@kungsbacka.se>; Förskola Grundskola \<forskola.grundskola@kungsbacka.se>;
+Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén \<elin.hysen@kungsbacka.se>; Paul
 
 <!-- sida 20 -->
 
-Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg <per.stenberg@kungsbacka.se>; Sofia Hansen
-<sofia.hansen@kungsbacka.se>; Peter Lundin <peter.lundin@kungsbacka.se>; Evelyn Orest
-<evelyn.orest@kungsbacka.se>; Helen Thylin <helen.thylin@kungsbacka.se>; Anna-Karin Granberg
-<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson <johan.tolinsson@kungsbacka.se>;
-mia.sandvall@kungsbacka.se; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Emma Nilsson
-<emma.nilsson2@kungsbacka.se>; Lisa Andersson <lisa.andersson@kungsbacka.se>;
+Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg \<per.stenberg@kungsbacka.se>; Sofia Hansen
+\<sofia.hansen@kungsbacka.se>; Peter Lundin \<peter.lundin@kungsbacka.se>; Evelyn Orest
+\<evelyn.orest@kungsbacka.se>; Helen Thylin \<helen.thylin@kungsbacka.se>; Anna-Karin Granberg
+\<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson \<johan.tolinsson@kungsbacka.se>;
+mia.sandvall@kungsbacka.se; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Emma Nilsson
+\<emma.nilsson2@kungsbacka.se>; Lisa Andersson \<lisa.andersson@kungsbacka.se>;
 susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se; Casper.sewerin@svt.se;
-Anton Johansson <anton.johansson.1@svt.se>
+Anton Johansson \<anton.johansson.1@svt.se>
 Ämne: Uppföljning under hösten och till vem på kommunen
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -693,7 +693,7 @@ Från: Johanna Haraldsson
 
 <!-- sida 23 -->
 
-<johanna@emajsi.se>
+\<johanna@emajsi.se>
 Skickat:        den 15 september 2024 20:48
 Till:           Emma Nilsson; Tommy Korsell; Kristofer Skogholm; Christina Hermansson;
 Stigert Pettersson; Malin de Verdier; Förskola Grundskola; Emanuel Forsell;
@@ -732,56 +732,56 @@ besparingar ger för effekter.
 Tack!
 Skickat från Outlook för iOS
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Skickat: Tuesday, September 10, 2024 10:14:40 AM
-Till: Emma Nilsson <emma.nilsson2@kungsbacka.se>; Tommy Korsell <tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm <kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-<christina.hermansson2@kungsbacka.se>; Stigert Pettersson <stigert.pettersson@kungsbacka.se>;
-Malin de Verdier <malin.deverdier@kungsbacka.se>; Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>; Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén
-<elin.hysen@kungsbacka.se>; Paul Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg
-<per.stenberg@kungsbacka.se>; Sofia Hansen <sofia.hansen@kungsbacka.se>; Peter Lundin
+Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
+Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
+Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
+\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
+\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
 
 <!-- sida 24 -->
 
-<peter.lundin@kungsbacka.se>; Evelyn Orest <evelyn.orest@kungsbacka.se>; Helen Thylin
-<helen.thylin@kungsbacka.se>; Anna-Karin Granberg <anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson <johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-<mia.sandvall@kungsbacka.se>; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Lisa Andersson
-<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
-<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se <Casper.sewerin@svt.se>; Anton
-Johansson <anton.johansson.1@svt.se>
+\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
+\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
+Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
+\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
+\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
+\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
+Johansson \<anton.johansson.1@svt.se>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej på er!
 
 Jag inväntar fortfarande på svar nedan. Vem ansvarar för informationsöverförandet?
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 
 Datum: onsdag, 28 augusti 2024 19:39
-Till: Emma Nilsson <emma.nilsson2@kungsbacka.se>, Tommy Korsell
-<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
-<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
-<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
-<stigert.pettersson@kungsbacka.se>, Malin de Verdier
-<malin.deverdier@kungsbacka.se>, Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
+Till: Emma Nilsson \<emma.nilsson2@kungsbacka.se>, Tommy Korsell
+\<tommy.korsell@kungsbacka.se>, Kristofer Skogholm
+\<kristofer.skogholm@kungsbacka.se>, Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>, Stigert Pettersson
+\<stigert.pettersson@kungsbacka.se>, Malin de Verdier
+\<malin.deverdier@kungsbacka.se>, Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>, Emanuel Forsell
 
-<emanuel.forsell@kungsbacka.se>, Elin Hysén <elin.hysen@kungsbacka.se>, Paul
-Blomdahl <paul.blomdahl@kungsbacka.se>, Per Stenberg
-<per.stenberg@kungsbacka.se>, Sofia Hansen <sofia.hansen@kungsbacka.se>, Peter
-Lundin <peter.lundin@kungsbacka.se>, Evelyn Orest <evelyn.orest@kungsbacka.se>,
-Helen Thylin <helen.thylin@kungsbacka.se>, Anna-Karin Granberg <anna-
-karin.granberg@kungsbacka.se>, Johan Tolinsson <johan.tolinsson@kungsbacka.se>,
-mia.sandvall@kungsbacka.se <mia.sandvall@kungsbacka.se>, Anette Stockhaus
-<anette.stockhaus@kungsbacka.se>, Lisa Andersson <lisa.andersson@kungsbacka.se>,
+\<emanuel.forsell@kungsbacka.se>, Elin Hysén \<elin.hysen@kungsbacka.se>, Paul
+Blomdahl \<paul.blomdahl@kungsbacka.se>, Per Stenberg
+\<per.stenberg@kungsbacka.se>, Sofia Hansen \<sofia.hansen@kungsbacka.se>, Peter
+Lundin \<peter.lundin@kungsbacka.se>, Evelyn Orest \<evelyn.orest@kungsbacka.se>,
+Helen Thylin \<helen.thylin@kungsbacka.se>, Anna-Karin Granberg \<anna-
+karin.granberg@kungsbacka.se>, Johan Tolinsson \<johan.tolinsson@kungsbacka.se>,
+mia.sandvall@kungsbacka.se \<mia.sandvall@kungsbacka.se>, Anette Stockhaus
+\<anette.stockhaus@kungsbacka.se>, Lisa Andersson \<lisa.andersson@kungsbacka.se>,
 
-susanna.andersson@kungsbacka.se <susanna.andersson@kungsbacka.se>,
-mia.sandblom@kungsbackaposten.se <mia.sandblom@kungsbackaposten.se>,
-Casper.sewerin@svt.se <Casper.sewerin@svt.se>, Anton Johansson
-<anton.johansson.1@svt.se>
+susanna.andersson@kungsbacka.se \<susanna.andersson@kungsbacka.se>,
+mia.sandblom@kungsbackaposten.se \<mia.sandblom@kungsbackaposten.se>,
+Casper.sewerin@svt.se \<Casper.sewerin@svt.se>, Anton Johansson
+\<anton.johansson.1@svt.se>
 Ämne: Re: Uppföljning under hösten och till vem på kommunen
 
 Hej Emma!
@@ -805,24 +805,24 @@ Mvh Johanna
 
 Skickat från Outlook för iOS
 
-Från: Emma Nilsson <emma.nilsson2@kungsbacka.se>
+Från: Emma Nilsson \<emma.nilsson2@kungsbacka.se>
 Skickat: Wednesday, August 28, 2024 8:43:41 AM
-Till: Johanna Haraldsson <johanna@emajsi.se>; Tommy Korsell <tommy.korsell@kungsbacka.se>;
-Kristofer Skogholm <kristofer.skogholm@kungsbacka.se>; Christina Hermansson
-<christina.hermansson2@kungsbacka.se>; Stigert Pettersson <stigert.pettersson@kungsbacka.se>;
-Malin de Verdier <malin.deverdier@kungsbacka.se>; Förskola Grundskola
-<forskola.grundskola@kungsbacka.se>; Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén
-<elin.hysen@kungsbacka.se>; Paul Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg
-<per.stenberg@kungsbacka.se>; Sofia Hansen <sofia.hansen@kungsbacka.se>; Peter Lundin
-<peter.lundin@kungsbacka.se>; Evelyn Orest <evelyn.orest@kungsbacka.se>; Helen Thylin
-<helen.thylin@kungsbacka.se>; Anna-Karin Granberg <anna-karin.granberg@kungsbacka.se>; Johan
-Tolinsson <johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
-<mia.sandvall@kungsbacka.se>; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Lisa Andersson
-<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
+Till: Johanna Haraldsson \<johanna@emajsi.se>; Tommy Korsell \<tommy.korsell@kungsbacka.se>;
+Kristofer Skogholm \<kristofer.skogholm@kungsbacka.se>; Christina Hermansson
+\<christina.hermansson2@kungsbacka.se>; Stigert Pettersson \<stigert.pettersson@kungsbacka.se>;
+Malin de Verdier \<malin.deverdier@kungsbacka.se>; Förskola Grundskola
+\<forskola.grundskola@kungsbacka.se>; Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén
+\<elin.hysen@kungsbacka.se>; Paul Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg
+\<per.stenberg@kungsbacka.se>; Sofia Hansen \<sofia.hansen@kungsbacka.se>; Peter Lundin
+\<peter.lundin@kungsbacka.se>; Evelyn Orest \<evelyn.orest@kungsbacka.se>; Helen Thylin
+\<helen.thylin@kungsbacka.se>; Anna-Karin Granberg \<anna-karin.granberg@kungsbacka.se>; Johan
+Tolinsson \<johan.tolinsson@kungsbacka.se>; mia.sandvall@kungsbacka.se
+\<mia.sandvall@kungsbacka.se>; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Lisa Andersson
+\<lisa.andersson@kungsbacka.se>; susanna.andersson@kungsbacka.se
 
-<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
-<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se <Casper.sewerin@svt.se>; Anton
-Johansson <anton.johansson.1@svt.se>
+\<susanna.andersson@kungsbacka.se>; mia.sandblom@kungsbackaposten.se
+\<mia.sandblom@kungsbackaposten.se>; Casper.sewerin@svt.se \<Casper.sewerin@svt.se>; Anton
+Johansson \<anton.johansson.1@svt.se>
 Ämne: Sv: Uppföljning under hösten och till vem på kommunen
 
 Hej Johanna!
@@ -854,22 +854,22 @@ www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun/
 
-Från: Johanna Haraldsson <johanna@emajsi.se>
+Från: Johanna Haraldsson \<johanna@emajsi.se>
 Skickat: den 27 augusti 2024 13:51
-Till: Tommy Korsell <tommy.korsell@kungsbacka.se>; Kristofer Skogholm
-<kristofer.skogholm@kungsbacka.se>; Christina Hermansson <christina.hermansson2@kungsbacka.se>;
-Stigert Pettersson <stigert.pettersson@kungsbacka.se>; Malin de Verdier
-<malin.deverdier@kungsbacka.se>; Förskola Grundskola <forskola.grundskola@kungsbacka.se>;
-Emanuel Forsell <emanuel.forsell@kungsbacka.se>; Elin Hysén <elin.hysen@kungsbacka.se>; Paul
-Blomdahl <paul.blomdahl@kungsbacka.se>; Per Stenberg <per.stenberg@kungsbacka.se>; Sofia Hansen
-<sofia.hansen@kungsbacka.se>; Peter Lundin <peter.lundin@kungsbacka.se>; Evelyn Orest
+Till: Tommy Korsell \<tommy.korsell@kungsbacka.se>; Kristofer Skogholm
+\<kristofer.skogholm@kungsbacka.se>; Christina Hermansson \<christina.hermansson2@kungsbacka.se>;
+Stigert Pettersson \<stigert.pettersson@kungsbacka.se>; Malin de Verdier
+\<malin.deverdier@kungsbacka.se>; Förskola Grundskola \<forskola.grundskola@kungsbacka.se>;
+Emanuel Forsell \<emanuel.forsell@kungsbacka.se>; Elin Hysén \<elin.hysen@kungsbacka.se>; Paul
+Blomdahl \<paul.blomdahl@kungsbacka.se>; Per Stenberg \<per.stenberg@kungsbacka.se>; Sofia Hansen
+\<sofia.hansen@kungsbacka.se>; Peter Lundin \<peter.lundin@kungsbacka.se>; Evelyn Orest
 
-<evelyn.orest@kungsbacka.se>; Helen Thylin <helen.thylin@kungsbacka.se>; Anna-Karin Granberg
-<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson <johan.tolinsson@kungsbacka.se>;
-mia.sandvall@kungsbacka.se; Anette Stockhaus <anette.stockhaus@kungsbacka.se>; Emma Nilsson
-<emma.nilsson2@kungsbacka.se>; Lisa Andersson <lisa.andersson@kungsbacka.se>;
+\<evelyn.orest@kungsbacka.se>; Helen Thylin \<helen.thylin@kungsbacka.se>; Anna-Karin Granberg
+\<anna-karin.granberg@kungsbacka.se>; Johan Tolinsson \<johan.tolinsson@kungsbacka.se>;
+mia.sandvall@kungsbacka.se; Anette Stockhaus \<anette.stockhaus@kungsbacka.se>; Emma Nilsson
+\<emma.nilsson2@kungsbacka.se>; Lisa Andersson \<lisa.andersson@kungsbacka.se>;
 susanna.andersson@kungsbacka.se; mia.sandblom@kungsbackaposten.se; Casper.sewerin@svt.se;
-Anton Johansson <anton.johansson.1@svt.se>
+Anton Johansson \<anton.johansson.1@svt.se>
 Ämne: Uppföljning under hösten och till vem på kommunen
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1885,7 +1885,7 @@ myndigheter ställer när det gäller framför allt skydd mot UV-strålning.
 
 I linje med att anpassa lokalbeståndet efter behovet har två byggnader på Maleviksskolan, två
 fristående utbildningslokaler i Kungsbacka stad samt en paviljong på Iseråsskolan avvecklats under
-2024.
+2024\.
 
 3.1.1 Lokalbehov grundskola
 
@@ -2012,7 +2012,7 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 11
 |  | Volymändring förskola<br>Nordväst | Volymökningar<br>befintlig plats |  |  |  | 150 |  |  |
 | 207 | Äppelgårdens förskola |  |  |  | 120 |  |  |  |
 | 226 | Förskola Anneberg/Älvsåker |  |  |  |  |  |  | 120 |
-| 227 | Gräskärrs förskola |  |  |  |  | 150* |  |  |
+| 227 | Gräskärrs förskola |  |  |  |  | 150\* |  |  |
 | 236 | Åsa förskola (Anpassning Åsa<br>Gårdsskola) | Volymökningar<br>befintlig plats |  |  |  |  | 200 |  |
 | 231 | Skårby förskola |  |  |  |  | 180 |  |  |
 | 347 | Åsa förskola avveckling<br>paviljong |  |  |  |  | -40 |  |  |
@@ -2241,13 +2241,13 @@ KONCEPTET TILLÄMPAS I DET TIDIGA
 PROJEKTSKEDET
 
 …… OCH VAD VINNER VI
-+
+\+
 TYDLIGARE KRAVSTÄLLNING
-+ KORTARE, SÄKRARE PROCESSER
-+ HÅLLBARA LÖSNINGAR ÖVER TID
-+ MER VERKSAMHETSNYTTA FÖR
+\+ KORTARE, SÄKRARE PROCESSER
+\+ HÅLLBARA LÖSNINGAR ÖVER TID
+\+ MER VERKSAMHETSNYTTA FÖR
 PENGARNA
-+ TRYGGHET OCH RÄTT FOKUS FÖR
+\+ TRYGGHET OCH RÄTT FOKUS FÖR
 VERKSAMHETEN
 
 4
@@ -2750,31 +2750,31 @@ UTEMILJÖER, ZONINDELNING
 
 Konceptet sätter fokus på fem områden inom utemiljön/friytan:
 
-1. Situationer i social gemenskap
+1\. Situationer i social gemenskap
 
 Det är viktigt att alla barn/ elever känner sig trygga, att de tillhör en
 gemenskap och att de lär sig känna empati och ta ansvar. Miljön ska
 uppmuntra till aktiviteter som skapar detta.
 
-2. Aktivera alla sinnen
+2\. Aktivera alla sinnen
 Det är viktigt att miljön ger upplevelser och inbjuder till roliga
 aktiviteter.
 
 Barn/ elever ska även få en känsla av att de kan påverka miljön och
 vara delaktig i den.
 
-3. Ge plats för rörelse
+3\. Ge plats för rörelse
 Miljön ska inbjuda till rörelse och rörliga aktiviteter.
 
 Det ska också erbjuda balans- och tekniska övningar för utveckling
 av motoriken.
-4. Stimulera kreativitet
+4\. Stimulera kreativitet
 
 Miljön ska inbjuda till skapande och erbjuda variation av
 skapandematerial.
 
 Det ska vara en miljö som går att utforska och testa över tid.
-5. Lek och lärande
+5\. Lek och lärande
 
 Utomhusmiljön ska även kunna användas som resurs i
 undervisningen.
@@ -3036,7 +3036,7 @@ säkerheten för barnen/eleverna.
 -Att det finns transparens och överblickbarhet genom utformningen
 
 av lokalerna.
-- Att möblera i hubbarna för god överblick.
+\- Att möblera i hubbarna för god överblick.
 
 23
 
@@ -3299,7 +3299,7 @@ Linköpings universitet, 2000.
 Hus och rum för små barn. Lundahl, L. Stockholm: Arkus ,1995
 Lärandet och fysisk miljö. En kunskaps översikt om samspelet mellan lärandet i
 förskola och skola. P. Björklid, ,Stockholm, Myndigheten för skolutveckling.
-2005.
+2005\.
 
 Läroplan för förskolan Lpfö 98, rev 2010. Stockholm: Skolverket. 1998
 Läroplan för grundskolan, förskoleklass och fritidshemmet. Stockholm:
@@ -3333,7 +3333,7 @@ Utmärkt undervisning, Jan Håkansson, Daniel Sundberg. 2020
 11  Checklista    för enkel  analys   av
 lokalbehov
 
-- med utgångspunkt från Koncept för utbildningslokaler:
+\- med utgångspunkt från Koncept för utbildningslokaler:
 
 Projekt:
 
@@ -3361,16 +3361,16 @@ BLÅ HJÄLPTEXT TAS BORT
 11.1 Nuläget (gäller vid om- och tillbyggnad)
 
 Nuvarande verksamhet
-> Beskriv nuvarande verksamhets omfattning, antal barn/elever,
+\> Beskriv nuvarande verksamhets omfattning, antal barn/elever,
 åldrar, grupperingar, organisation osv.
 
 BEFINTLIGA LOKALER
-> Beskriv verksamhetens lokalsituation. Vilka utrymmen finns idag,
+\> Beskriv verksamhetens lokalsituation. Vilka utrymmen finns idag,
 hur används dessa.
-> Notera även brister i verksamhetens lokaler och utemiljö.
+\> Notera även brister i verksamhetens lokaler och utemiljö.
 
 EFFEKTIV LOKALANVÄNDNING
-> Beskriv de olika lokalernas nyttjandegrad se även
+\> Beskriv de olika lokalernas nyttjandegrad se även
 kapacitetsutredning. Pröva om en högre nyttjandegrad kan uppnås
 och om det i så fall kan ersätta eventuell utökning av lokalytorna.
 
@@ -3384,7 +3384,7 @@ användningsområden.
 11.2 Förändringar
 
 Förändringar i verksamheten
-> Redogör kortfattat för kommande verksamhet. (Här beskrivs t ex
+\> Redogör kortfattat för kommande verksamhet. (Här beskrivs t ex
 ökning/ minskning av antal barn, elever, personal, grupper,
 avdelningar eller annat mått på verksamheten. Även organisation,
 omfattning, pedagogik osv.
@@ -3392,14 +3392,14 @@ omfattning, pedagogik osv.
 11.3 Behov – Framtid
 
 Nya krav på utrymmen och lokalfunktioner
-> Gör en sammanställning av de förändringar och de
+\> Gör en sammanställning av de förändringar och de
 
 verksamhetsmål som ger ett förändrat lokalbehov.
-> Beskriv även specifika krav på arbetsmiljön som påverkar
+\> Beskriv även specifika krav på arbetsmiljön som påverkar
 lokalbehovet och vilka funktioner som lokalerna skall innehålla.
 
 Aktiviteter – Rumsfunktioner
-> Beskriv de rumsfunktioner som den förändrade verksamheten nu
+\> Beskriv de rumsfunktioner som den förändrade verksamheten nu
 behöver. Beskriv den nya lärmiljöns viktigaste aktiviteter.
 Sammanställ dem i form av en lista.
 T.ex. Tematiskt arbetssätt, mötas i stor grupp (x elever), arbeta i
@@ -3407,18 +3407,18 @@ mindre grupper, enskilda samtal, experiment, laborationer, praktiskt
 estetiskt, paus situationer, uteaktiviteter osv.
 
 Mångsidiga lokaler
-> Beakta att lokalernas utformning ska kunna tillmötesgå behoven
+\> Beakta att lokalernas utformning ska kunna tillmötesgå behoven
 hos olika undervisningssituationer. T.ex förmedlingspedagogik, i
 projektform eller med Web-baserat lärande.
 
 Samband
-> Beskriv vilka lokalsamband som är viktiga för verksamheten.
+\> Beskriv vilka lokalsamband som är viktiga för verksamheten.
 Vilka samband skall uppnås eller förstärkas. T.ex arbetstorg -
 bibliotek, personalarbetsrum – elevarbetsytor, Ateljéer/verkstäder -
 utomhusverkstad.
 
 Övrigt
-> Förskolan och skolan skall vara en mötesplats där ingen
+\> Förskolan och skolan skall vara en mötesplats där ingen
 diskrimineras av lokalernas utformning. Beskriv andra viktiga
 förutsättningar för er verksamhet och dess behov av
 lokalförändringar. T.ex mål, visioner, profil, varumärke och
@@ -3543,18 +3543,18 @@ bristande skydd mot UV-strålning. Pedagoger och barngrupper bör kunna genomfö
 utomhus utan risk.
 
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
-- Skapa ändamålsenliga och likvärdiga utbildningsmiljöer i hela kommunen. Kommunens har ett
+\- Skapa ändamålsenliga och likvärdiga utbildningsmiljöer i hela kommunen. Kommunens har ett
 äldre bestånd av förskolelokaler som behöver anpassas efter gällande myndighetskrav vilket
 delvis hänger ihop med att det finns en stor underhållsskuld kopplat till teknisk status på
 befintliga utbildningslokaler i kommunen.
-- Skapa trygga och ändamålsenliga utemiljöer som inbjuder till lek såväl som lärande.
+\- Skapa trygga och ändamålsenliga utemiljöer som inbjuder till lek såväl som lärande.
 
-- Skapa en robusthet och bärkraftighet i samhällsfunktioner i hela kommunen och kunna erbjuda
+\- Skapa en robusthet och bärkraftighet i samhällsfunktioner i hela kommunen och kunna erbjuda
 
 barn i åldern 1-5år goda förutsättningar för skolgång.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION? SE EXEMPEL
-- Miljö & Hälsoskydd godtar inte att åtgärder uteblir, vilket innebär att förelägganden kommer att
+\- Miljö & Hälsoskydd godtar inte att åtgärder uteblir, vilket innebär att förelägganden kommer att
 skickas till Förskola och Grundskola, vilket är förknippat med ekonomiska straffavgifter.
 
 VAD FÅR FUNKTIONSETABLERINGEN  FÖR KONSEKVENS  PÅ NUVARANDE
@@ -3565,17 +3565,17 @@ KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ.
 
 Ja, Koncept för utbildningslokaler.
 Likaså finns vägledning, riktlinjer och lagstiftning som är av betydelse enligt nedan:
-- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
+\- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
 
 Miljö & Hälsoskydd Kungsbacka kommun, 2018.
-- Vår lokalpolicy, Kommunfullmäktige § 153, 2014-11-11.
+\- Vår lokalpolicy, Kommunfullmäktige § 153, 2014-11-11.
 
-- Boverkets allmänna råd (BFS 2015:1)
+\- Boverkets allmänna råd (BFS 2015:1)
 
-- Strålskyddsmyndigheten - Planera för sol och skugga på förskolegårdar och skolgårdar -
+\- Strålskyddsmyndigheten - Planera för sol och skugga på förskolegårdar och skolgårdar -
 Strålsäkerhetsmyndigheten (stralsakerhetsmyndigheten.se)
 
-- Folkhälsomyndigheten - Lagom sol och mer grönska – Utemiljöer i förskola och grundskola som
+\- Folkhälsomyndigheten - Lagom sol och mer grönska – Utemiljöer i förskola och grundskola som
 främjar barns hälsa (folkhalsomyndigheten.se)
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER
@@ -3604,10 +3604,10 @@ EKONOMISKA  FÖRUTSÄTTNINGAR
 Enligt gällande lokalpolicy för Kungsbacka kommun.
 
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
-1. Ja, NYKO 1-8.
+1\. Ja, NYKO 1-8.
 
-2. Behovet finns fördelat i hela kommunen.
-________________________________________________________________________________
+2\. Behovet finns fördelat i hela kommunen.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 112 -->
 
@@ -3682,19 +3682,19 @@ bristande skydd mot UV-strålning. Pedagoger och elevgrupper bör kunna genomfö
 2 (3)
 utomhus utan risk.
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
-- Skapa en robusthet och bärkraftighet i samhällsfunktioner i nordväst och kunna erbjuda barn i
+\- Skapa en robusthet och bärkraftighet i samhällsfunktioner i nordväst och kunna erbjuda barn i
 
 åldern 6-15år goda förutsättningar för skolgång.
-- Skapa trygga och ändamålsenliga utemiljöer som inbjuder till lek såväl som lärande.
+\- Skapa trygga och ändamålsenliga utemiljöer som inbjuder till lek såväl som lärande.
 
-- Skapa ändamålsenliga och likvärdiga utbildningsmiljöer i hela kommunen. Kommunens har ett
+\- Skapa ändamålsenliga och likvärdiga utbildningsmiljöer i hela kommunen. Kommunens har ett
 äldre bestånd av utbildningslokaler som behöver anpassas efter gällande myndighetskrav vilket
 delvis hänger ihop med att det finns en stor underhållsskuld kopplat till teknisk status på
 
 befintliga utbildningslokaler i kommunen.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION? SE EXEMPEL
-- Miljö & Hälsoskydd godtar inte att åtgärder uteblir, vilket innebär att förelägganden kommer att
+\- Miljö & Hälsoskydd godtar inte att åtgärder uteblir, vilket innebär att förelägganden kommer att
 skickas till Förskola och Grundskola, vilket är förknippat med ekonomiska straffavgifter.
 
 VAD FÅR FUNKTIONSETABLERINGEN  FÖR KONSEKVENS  PÅ NUVARANDE
@@ -3705,17 +3705,17 @@ KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Ja, Koncept för utbildningslokaler.
 
 Likaså finns vägledning, riktlinjer och lagstiftning som är av betydelse enligt nedan:
-- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
+\- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
 Miljö & Hälsoskydd Kungsbacka kommun, 2018.
 
-- Vår lokalpolicy, Kommunfullmäktige § 153, 2014-11-11.
+\- Vår lokalpolicy, Kommunfullmäktige § 153, 2014-11-11.
 
-- Boverkets allmänna råd (BFS 2015:1)
+\- Boverkets allmänna råd (BFS 2015:1)
 
-- Strålskyddsmyndigheten - Planera för sol och skugga på förskolegårdar och skolgårdar -
+\- Strålskyddsmyndigheten - Planera för sol och skugga på förskolegårdar och skolgårdar -
 Strålsäkerhetsmyndigheten (stralsakerhetsmyndigheten.se)
 
-- Folkhälsomyndigheten - Lagom sol och mer grönska – Utemiljöer i förskola och grundskola som
+\- Folkhälsomyndigheten - Lagom sol och mer grönska – Utemiljöer i förskola och grundskola som
 främjar barns hälsa (folkhalsomyndigheten.se)
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER
@@ -3743,10 +3743,10 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN
 
-1. Ja, NYKO 1-8.
-2. Behovet finns fördelat i hela kommunen.
+1\. Ja, NYKO 1-8.
+2\. Behovet finns fördelat i hela kommunen.
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 115 -->
 
@@ -3790,12 +3790,12 @@ finnas. Goda kommunikationsmöjligheter är av stor vikt då skolenheten riktar 
 därav ett centrumnära läge.
 
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
-- Att skapa ändamålsenliga och likvärdiga lokaler för utbildning för alla målgrupper av elever i
+\- Att skapa ändamålsenliga och likvärdiga lokaler för utbildning för alla målgrupper av elever i
 kommunen.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 
-- Skolenhet/skolenheter med ändamålsenliga lokaler.
+\- Skolenhet/skolenheter med ändamålsenliga lokaler.
 
 2102
 ,0.2
@@ -3847,10 +3847,10 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
-1. Ja, NYKO 1.
-2. Det är i NYKO 1 behov finns.
+1\. Ja, NYKO 1.
+2\. Det är i NYKO 1 behov finns.
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 117 -->
 
@@ -3938,21 +3938,21 @@ KUNGSBACKA  KOMMUN
 
 3 (4)
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
-- Att skapa en robusthet och bärkraftighet i samhällsfunktioner i nordväst och kunna erbjuda barn i
+\- Att skapa en robusthet och bärkraftighet i samhällsfunktioner i nordväst och kunna erbjuda barn i
 åldern 1-5år goda förutsättningar för skolgång.
 
-- Att skapa pedagogiskt och ekonomiskt hållbara organisationer, dvs varje förskoleenhet behöver
+\- Att skapa pedagogiskt och ekonomiskt hållbara organisationer, dvs varje förskoleenhet behöver
 ha en viss volym för att kunna skapa goda förutsättningar för barn och personal.
 
-- Att skapa ändamålsenliga och likvärdiga lokaler för utbildning i hela området. I nordvästra delen
+\- Att skapa ändamålsenliga och likvärdiga lokaler för utbildning i hela området. I nordvästra delen
 finns ett äldre bestånd av förskolelokaler som inte fullt ut möter de pedagogiska behoven enligt
 nuvarande läroplaner och arbetssätt. Krav på ventilation/luftflöde påverkar också hur delar av
 fastighetsbeståndet behöver anpassas för att säkerställa hållbarhet och funktionalitet på lång sikt.
 
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
-- Den geografiska närheten till förskolan kan försämras för barnen i området.
+\- Den geografiska närheten till förskolan kan försämras för barnen i området.
 
-- Ändamålsenliga och likvärdiga lokaler för alla barn i kommunen uppfylls inte.
+\- Ändamålsenliga och likvärdiga lokaler för alla barn i kommunen uppfylls inte.
 
 VAD FÅR FUNKTIONSETABLERINGEN  FÖR KONSEKVENS  PÅ NUVARANDE
 LOKALISERING AV VERKSAMHET?
@@ -3965,13 +3965,13 @@ KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ.
 Ja, Koncept för utbildningslokaler version 1.6 och Strategi för försörjning av utbildningslokaler.
 Likaså finns vägledning, riktlinjer och lagstiftning som är av betydelse enligt nedan:
 
-- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
+\- Vägledning om anmälan och egenkontroll i skolor, förskolor och fritidshem, information från
 Miljö och Hälsoskydd Kungsbacka kommun, 2018.
 
-- Boverkets byggregler (BBR)
-- Folkhälsomyndighetens riktlinjer (FoHMFS 2014:18)
+\- Boverkets byggregler (BBR)
+\- Folkhälsomyndighetens riktlinjer (FoHMFS 2014:18)
 
-- Arbetsmiljöverkets regler för arbetsplatsens utformning (AFS 2020:1)
+\- Arbetsmiljöverkets regler för arbetsplatsens utformning (AFS 2020:1)
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER
 
@@ -4003,10 +4003,10 @@ EKONOMISKA  FÖRUTSÄTTNINGAR
 Enligt gällande lokalpolicy för Kungsbacka kommun.
 
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
-1. Ja, NYKO 2.
+1\. Ja, NYKO 2.
 
-2. Det är i NYKO 2 behov finns.
-________________________________________________________________________________
+2\. Det är i NYKO 2 behov finns.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 122 -->
 
@@ -4166,7 +4166,7 @@ Utblicksår                 2031-2035
 
 ligger kvar sedan  tidigare men   flyttas till
 
-2031.
+2031\.
 
   Grundskola   centrum   Norr
 
@@ -4225,10 +4225,10 @@ Förslag till beslut
 Nämnden för Förskola & Grundskola föreslår Kommunstyrelsen att i aktualitetsprövning av Liljan
 skola besluta att:
 
-1. Minska antalet utbildningsplatser på skolan från 525 till 350 elever.
-2. I fortsatt projektering av skolan möjliggöra att vid senare tillfälle och vid behov kunna bygga ut
+1\. Minska antalet utbildningsplatser på skolan från 525 till 350 elever.
+2\. I fortsatt projektering av skolan möjliggöra att vid senare tillfälle och vid behov kunna bygga ut
 skolan till 525 elever.
-3. Att i övrigt fortsätta enligt beslut i Lokalplan 2025-2029.
+3\. Att i övrigt fortsätta enligt beslut i Lokalplan 2025-2029.
 
 Bakgrund
 
@@ -4246,9 +4246,9 @@ skolor. Utredningen pekar dock på att en minskning av skolans elevantal innebä
 platser kommer att vara lägre än antalet barn/elever som bor inom skolans upptagningsområde. Detta
 kan medföra bl.a följande konsekvenser:
 
-1. Det finns en risk att elever i upptagningsområdet inte kan erbjudas plats på den skola vars
+1\. Det finns en risk att elever i upptagningsområdet inte kan erbjudas plats på den skola vars
 upptagningsområde man bor inom.
-2. Vid en ökning av antalet elever som väljer Liljan skola kan nyckelkodsområden för skolan
+2\. Vid en ökning av antalet elever som väljer Liljan skola kan nyckelkodsområden för skolan
 behöva förändras, vilket i sin tur påverkar andra skolors upptagningsområde
 
 1 (2)
@@ -4265,11 +4265,11 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-3. Att besparingen inte blir så stor som önskat då de gemensamma ytorna ändå måste byggas i
+3\. Att besparingen inte blir så stor som önskat då de gemensamma ytorna ändå måste byggas i
 första skedet, såsom matsal och kök, praktisk-estetiska salar, expedition, elevhälsa samt
 
 idrottshall och p-garage.
-4. Att totalkostnaden vid en framtida utbyggnad av elevplatser blir högre jämfört med att bygga
+4\. Att totalkostnaden vid en framtida utbyggnad av elevplatser blir högre jämfört med att bygga
 allt från början.
 
 Beslutet skickas till
@@ -4475,22 +4475,22 @@ Aktualitetsprövning                         Kvarteret             Liljan       
 
 Summering:
 
-1.   Etableras    en  skolfunktion     år  2027   för 525
+1\.   Etableras    en  skolfunktion     år  2027   för 525
 
 elever  finns   risk för  viss  överkapacitet      med
 de  upptagningsområdet          som   finns   idag.
 
-2.   Etableras    en  skolfunktion     år  2027   för 350
+2\.   Etableras    en  skolfunktion     år  2027   för 350
 elever  reduceras     hyrespåverkande
 
 investeringskostnad        med   ≈  50  mnkr
 
-3.   Vid  etablerande     av  ytterligare   skolfunktion
+3\.   Vid  etablerande     av  ytterligare   skolfunktion
 
 för 175  elever   senare    aktiveras   ett  indexerat
 50  mnkr   2027    vid den   aktuella   tidpunkten.
 
-4.   Etablering    av  ytterligare   skolfunktion     år
+4\.   Etablering    av  ytterligare   skolfunktion     år
 2037   ger  ≈ 64  mnkr    vid  2,5  %  indexering/år
 
 <!-- sida 141 -->
@@ -4682,7 +4682,7 @@ September 2024 anmälan om misstänkt kränkande behandling
 
 [Tabell 146-2](handlingar.tabeller/146-2.csv)
 
-| Handlingar som förekommit* |  |
+| Handlingar som förekommit\* |  |
 | --- | --- |
 | Fysiskt (ex slag, spark, fasthållning, beröring, förstörelse av egendom) | 183 |
 | Icke verbal/fysisk åtbörd (ex uteslutning, gester, miner eller blickar) | 21 |
@@ -4692,7 +4692,7 @@ September 2024 anmälan om misstänkt kränkande behandling
 
 [Tabell 146-3](handlingar.tabeller/146-3.csv)
 
-| Tillfälle för händelse* |  |
+| Tillfälle för händelse\* |  |
 | --- | --- |
 | Annat | 10 |
 | Fritidstid | 29 |
@@ -4707,7 +4707,7 @@ KUNGSBACKA KOMMUN
 
 Rast                    143
 
-* Notera att detta är vad som angetts i anmälningsformulär
+\* Notera att detta är vad som angetts i anmälningsformulär
 
 [Tabell 147-1](handlingar.tabeller/147-1.csv)
 

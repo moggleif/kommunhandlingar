@@ -1,0 +1,45 @@
+"B Befattning Antal Medianlö Andel B Befattning Antal Medianlön Andel Differe
+A anst n kvinna kvinnor A anst man män ns
+S ällda S ällda median
+lön",,,,,,,,,,
+C,Barnskötare,281,29 703,99 %,B,IT-tekniker,7,32 405,86 %,92
+C,Dagbarnvårdare,7,29 300,100 %,B,IT-tekniker,7,32 405,86 %,90
+C,Elevassistent,159,30 200,76 %,B,IT-tekniker,7,32 405,86 %,93
+C,Personlig assistent,94,30 150,76 %,B,IT-tekniker,7,32 405,86 %,93
+D,Äldrekonsulent,9,30 215,89 %,B,IT-tekniker,7,32 405,86 %,93
+D,Äldrekonsulent,9,30 215,89 %,C,Anläggningstekniker,7,35 750,100 %,85
+D,Äldrekonsulent,9,30 215,89 %,C,IT-tekniker support,11,33 900,100 %,89
+D,Arbetsledare Kök,20,33 500,100 %,C,Anläggningstekniker,7,35 750,100 %,94
+D,Stödpedagog,42,33 950,86 %,C,Anläggningstekniker,7,35 750,100 %,95
+E,Bibliotekarie Skola,6,35 500,100 %,D,Instruktör,6,39 250,100 %,90
+E,Boendepedagog,5,37 300,60 %,D,Instruktör,6,39 250,100 %,95
+E,Koordinator,23,36 250,83 %,D,Instruktör,6,39 250,100 %,92
+E,Lärare Modersmål,11,33 200,82 %,C,Anläggningstekniker,7,35 750,100 %,93
+E,Lärare Modersmål,11,33 200,82 %,D,Drifttekniker,44,35 600,93 %,93
+E,Lärare Modersmål,11,33 200,82 %,D,Instruktör,6,39 250,100 %,85
+E,Lärare Modersmål,11,33 200,82 %,D,Teatertekniker,5,36 425,80 %,91
+E,Rekryterare,8,35 500,88 %,D,Instruktör,6,39 250,100 %,90
+E,Rekryteringspartner,7,37 150,86 %,D,Instruktör,6,39 250,100 %,95
+E,Ungdomskonsulent,20,32 850,65 %,C,Anläggningstekniker,7,35 750,100 %,92
+E,Ungdomskonsulent,20,32 850,65 %,D,Drifttekniker,44,35 600,93 %,92
+E,Ungdomskonsulent,20,32 850,65 %,D,Instruktör,6,39 250,100 %,84
+E,Ungdomskonsulent,20,32 850,65 %,D,Teatertekniker,5,36 425,80 %,90
+E,Ungdomskonsulent,20,32 850,65 %,D,Underhållstekniker,9,34 600,100 %,95
+F,Bibliotekarie,29,35 200,83 %,D,Instruktör,6,39 250,100 %,90
+F,Bibliotekarie,29,35 200,83 %,E,Kartingenjör,5,37 800,60 %,93
+F,Bibliotekarie,29,35 200,83 %,E,Mätningsingenjör,10,38 900,80 %,90
+F,Elevkoordinator,9,35 500,78 %,D,Instruktör,6,39 250,100 %,90
+F,Elevkoordinator,9,35 500,78 %,E,Kartingenjör,5,37 800,60 %,94
+F,Elevkoordinator,9,35 500,78 %,E,Mätningsingenjör,10,38 900,80 %,91
+F,Fritidspedagog,30,37 050,67 %,D,Instruktör,6,39 250,100 %,94
+F,Fritidspedagog,30,37 050,67 %,E,Mätningsingenjör,10,38 900,80 %,95
+F,Socialpedagog,7,35 800,71 %,D,Instruktör,6,39 250,100 %,91
+F,Socialpedagog,7,35 800,71 %,E,Kartingenjör,5,37 800,60 %,95
+F,Socialpedagog,7,35 800,71 %,E,Mätningsingenjör,10,38 900,80 %,92
+G,Metodutvecklare,18,39 850,94 %,F,Fastighetsförvaltare,6,44 900,83 %,89
+G,Metodutvecklare,18,39 850,94 %,F,IT-tekniker spec,8,43 150,100 %,92
+G,Metodutvecklare,18,39 850,94 %,F,Systemutvecklare,10,44 150,80 %,90
+G,Planerare,5,37 600,80 %,F,Fastighetsförvaltare,6,44 900,83 %,84
+G,Planerare,5,37 600,80 %,F,GIS-ingenjör,9,40 450,89 %,93
+G,Planerare,5,37 600,80 %,F,IT-tekniker spec,8,43 150,100 %,87
+G,Planerare,5,37 600,80 %,F,Systemutvecklare,10,44 150,80 %,85

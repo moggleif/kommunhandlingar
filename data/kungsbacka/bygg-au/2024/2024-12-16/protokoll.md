@@ -738,7 +738,7 @@ klaganden åberopat i sin skrivelse. Det har inte heller i övrigt framkommit sk
 
 ompröva frågan om bygglov för nybyggnad av enbostadshus och murar varför
 förvaltningen har föreslagit nämndens arbetsutskott att vidhålla beslut 2024-11-21, §
-330.
+330\.
 
 Beslutsunderlag
 
@@ -898,10 +898,10 @@ kräver bygglov kan tillåtas på en specifik plats.
 Bygglov, och därmed förhandsbesked, ska enligt 9 kap. 31 § PBL ges för en åtgärd
 
 utanför ett område med detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1450,7 +1450,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-12-16
 
-30. Beslut om förlängd handläggningstid togs 2024-12-02 eftersom sökande önskade
+30\. Beslut om förlängd handläggningstid togs 2024-12-02 eftersom sökande önskade
 ta kontakt med Länsstyrelsen angående jordbruksmarken.
 Inom Hanhals 4:2>5 finns tre fornlämningar (RAÄ-nummer: L1997:4689,
 L1997:4395 och L1997:4554).
@@ -1919,10 +1919,10 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-12-16
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1940,13 +1940,13 @@ planläggning är en förutsättning för att kunna bevilja ansökan om bygglov.
 Enligt 4 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes
 lämplighet för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns
 utformning för:
-1.       en ny sammanhållen bebyggelse … om det behövs …
+1\.       en ny sammanhållen bebyggelse … om det behövs …
 
-2.       en bebyggelse som ska förändras eller bevaras, om regleringen
+2\.       en bebyggelse som ska förändras eller bevaras, om regleringen
 behöver ske ….
 
-3.       (…)
-4.       ett nytt byggnadsverk som kräver bygglov om…
+3\.       (…)
+4\.       ett nytt byggnadsverk som kräver bygglov om…
 
 a)       byggnadsverket eller dess användning får betydande inverkan på
 omgivningen eller om det råder stor efterfrågan på området för bebyggande,
@@ -2084,7 +2084,7 @@ invändningar från berörda sakägare har blivit bemötta.
 Sammanfattning av ärendet
 
 Ansökan som kom in komplett 2024-09-11. Handläggninstiden förlängdes 2024-11-
-19.
+19\.
 Ansökan innebär nylokalisering av ett enbostadshus med garage inom fastigheten
 ONSALA-KULLEN 1:61. Fastigheten har en areal av 3240 kvm och är idag
 
@@ -2359,8 +2359,8 @@ Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då befinltig byggnad har ett planstridigt
 utgångsläge
 
--  huvudbyggnaden har två våningar
--  byggnadshöjden för huvudbyggnaden mäts till 8.5 meter vilket är 4,5 meter
+\-  huvudbyggnaden har två våningar
+\-  byggnadshöjden för huvudbyggnaden mäts till 8.5 meter vilket är 4,5 meter
 högre än vad detaljplanen medger.
 
 Kommunicering
@@ -2504,7 +2504,7 @@ Ansökan som registrerades 2023-08-31 avser nybyggnad av verksamhet i form av en
 verkstadslokal med en byggnadsarea om 450 m2.
 
 Bygglov gavs 2024-02-22, BN § 42 och startbesked beviljades 2024-10-07, D 2024-
-002559.
+002559\.
 
 Ändrad ansökan inkom 2024-11-25. Ändringen innebär utökad byggnadsarea med
 13,6 m2 och byggnaden får i det nya förslaget en byggnadsarea om 463,6 m2.
@@ -3209,7 +3209,7 @@ centrumanvändning, vård och kontor.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  del av åtgärden placeras på vägmark
+\-  del av åtgärden placeras på vägmark
 
 Övriga förutsättningar
 Fastigheten omfattas av strandskydd enligt Miljöbalken 7 kap. 13 § (1998:808).
@@ -3445,7 +3445,7 @@ byggnader för industri.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  Deltaljplanen anger J som syfte. Gymverksamhet ryms inte inom
+\-  Deltaljplanen anger J som syfte. Gymverksamhet ryms inte inom
 industriändamål
 
 Remisser
@@ -3680,7 +3680,7 @@ Ansökan gäller ändrad användning av del av byggnad. Föreslagen åtgärd inn
 det inreds en klinik som specialiserar sig inom gynekologi och
 reproduktionsmedicin. Den befintliga användningen av lokalen är frisörsalong. Den
 ändrade användning avser en yta om cirka 550 m2. Ansökan var komplett 2024-11-
-08.
+08\.
 
 Planförutsättningar
 Fastigheten som ska bebyggas ligger inom detaljplan TP45B vars syfte är att

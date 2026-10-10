@@ -99,15 +99,15 @@ Punkt 3.3.1.2.2. Sid 14. Återställande av deponier
 utfördes under 2023”
 Frågan som vi önskar få svar på är :
 
-- Hur har förvaltningen agerat och arbetat med de planerade åtgärder,
+\- Hur har förvaltningen agerat och arbetat med de planerade åtgärder,
 saneringsinsatser som gjorts de senaste åren ?
 
-- Vilka åtgärder är gjorda och hur ser kostnaderna / ekonomin utidag ?
+\- Vilka åtgärder är gjorda och hur ser kostnaderna / ekonomin utidag ?
 
-- Enligt revisionen återstår den 2025-12-31 ekonomiska medel av 146 mnkr ,
+\- Enligt revisionen återstår den 2025-12-31 ekonomiska medel av 146 mnkr ,
 räcker dessa pengar till sluttäckning ?
 
-- Om, de avsatta medlen inte räcker till enligt prognos, hur planerar förvaltningen /
+\- Om, de avsatta medlen inte räcker till enligt prognos, hur planerar förvaltningen /
 kommunen att fortsatta sitt saneringsarbete med de Deponier som är aktuella
 tex Banaremossen.
 

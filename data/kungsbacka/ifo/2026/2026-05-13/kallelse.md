@@ -90,7 +90,7 @@ KUNGSBACKA  KOMMUN
 
 4(4)
 
-18. Övrigt                IF-2023-  Förslag till beslut
+18\. Övrigt                IF-2023-  Förslag till beslut
 00008
 
 Tommy Rydfeldt (L)                Josefine Jönsson

@@ -338,7 +338,7 @@ unga, LVU, samt 8 kap 7 § lagen om placering av barn i skyddat boende, LSB, ino
 nämndens eget ansvarsområde;
 
 Detta beslut ersätter Nämnden för Individ & Familjeomsorgs beslut 2024-03-21, §
-32.
+32\.
 
 Sammanfattning av ärendet
 

@@ -328,7 +328,7 @@ Sammanfattning av ärendet
 Samhällsbyggnadskontoret informerar arbetsutskottet om kommande granskning av
 detaljplan för bostäder inom Rågelund 1:127 m.fl, i Frillesås. Byggnadsnämnden gav
 Samhällsbyggnadskontoret i uppdrag att genomföra samråd den 14 december 2023 §
-243. Granskningen kommer påbörjas den 13 maj 2025 och pågå till den 30 maj 2025.
+243\. Granskningen kommer påbörjas den 13 maj 2025 och pågå till den 30 maj 2025.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämndens arbetsutskott kan
@@ -673,8 +673,8 @@ kräver bygglov kan tillåtas på en specifik plats.
 Bygglov, och därmed förhandsbesked, ska enligt 9 kap. 31 § PBL ges för en åtgärd
 utanför ett område med detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: A3AA538E5EC73E91D8D90C4F24924038A11F2380F5
@@ -687,7 +687,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-04-29
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 2 kap. 2 § PBL ska mark- och vattenområden användas för det eller de
@@ -1641,7 +1641,7 @@ BN 2007 001641    Förhandsbesked - lokalisering av två enbostadshus,
 tillstyrkt,
 
 BN 2006 001501    Förhandsbesked - lokalisering av enbostadshus, beviljat
-2007.
+2007\.
 BN 2005 001830    Förhandsbesked - lokalisering av två enbostadshus,
 
 beviljat 2006,
@@ -1949,7 +1949,7 @@ Sektionsritning, 2024-12-20
 
 Ärendets behandling på sammanträdet
 Till sammanträdet har beslutsunderlag tillkommit i form av yttrande daterat 2025-04-
-28.
+28\.
 
 Förslag till beslut på sammanträdet
 Daniel Hognert (M) yrkar på att ärendet återremitteras till bygg- och
@@ -2112,10 +2112,10 @@ bebyggas. 39§ avstånd till tomtgräns
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
-- altanen är delvis placerad på mark som enligt detaljplan inte får bebyggas
-- altanen är delvis placerad utanför fastighetsgräns
+\- altanen är delvis placerad på mark som enligt detaljplan inte får bebyggas
+\- altanen är delvis placerad utanför fastighetsgräns
 
-- avstånd till tomtgräns
+\- avstånd till tomtgräns
 BS 39 § : I detaljplanen, som är från 1982, regleras inte byggnaders avstånd till
 fastighetsgräns eller till annan byggnad. Enligt plan- och bygglagens (PBL, SFS
 2010:900) övergångsbestämmelser gäller då 39 § byggnadsstadgan. Enligt denna
@@ -2351,10 +2351,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -2871,10 +2871,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap 35 § (PBL, SFS 2010:900)35 § ska marklov ges för
 en åtgärd som
-1. inte strider mot en detaljplan eller områdesbestämmelser,
+1\. inte strider mot en detaljplan eller områdesbestämmelser,
 
-2. inte förhindrar eller försvårar det berörda områdets användning för bebyggelse,
-3. inte medför olägenheter för användningen av sådana anläggningar som anges i
+2\. inte förhindrar eller försvårar det berörda områdets användning för bebyggelse,
+3\. inte medför olägenheter för användningen av sådana anläggningar som anges i
 13 § 1,
 
 Det här dokumentet är digitalt signerat
@@ -2888,8 +2888,8 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-04-29
 
-4. inte medför störningar eller betydande olägenheter för omgivningen, och
-5. uppfyller de krav som
+4\. inte medför störningar eller betydande olägenheter för omgivningen, och
+5\. uppfyller de krav som
 
 a) följer av 2 kap. 6 § tredje stycket och 8 kap. 9-12 §§, om lovet avser en åtgärd
 inom ett område med detaljplan, eller
@@ -2921,7 +2921,7 @@ plan och bygglagen 2 kap. 6§ punkt 1.
 som inte kräver lov enligt denna lag ska bebyggelse och byggnadsverk utformas och
 placeras på den avsedda marken på ett sätt som är lämpligt med hänsyn till
 
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av en
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av en
 god helhetsverkan
 Både murar och markåtgärder bedöms inte vara utformade efter den befintliga stads
 

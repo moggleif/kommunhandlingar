@@ -204,14 +204,14 @@ Sammanfattning av ärendet
 Utredningen föreslår att miljöbalkens regler gällande strandskydd ändras. Ändringar
 som föreslås i utredningen är att:
 
-- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
-- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
+\- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
+\- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
 som huvud- eller bisyssla.
-- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
+\- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
 behövs för jordbruk, fiske, vattenbruk, skogsbruk eller renskötsel skulle kunna
 undantas om de för sin funktion eller för att uppnå ett funktionellt samband och att
 dessa finns eller vidtas inom strandskyddsområdet.
-- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
+\- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
 byggnad, anläggning, anordning eller åtgärd (ej för bostadsändamål) om den behövs
 för en småskalig förvärvsverksamhet som bedrivs varaktigt på landsbygden. Det
 
@@ -219,7 +219,7 @@ strandnära läget ska i detta fall innebära en fördel för byggnadens, anläg
 anordningens eller åtgärdens funktion och samma funktionella fördel ska inte kunna
 uppnås utanför området.
 Ändringarna av miljöbalkens strandskyddsregler förslås träda ikraft 1 september
-2025.
+2025\.
 
 Vidare föreslår utredningen att en vägledning om tillämpningen av
 undantagsbestämmelsen tas fram av ansvarig myndighet. I detta fall är det

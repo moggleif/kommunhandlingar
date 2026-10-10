@@ -155,7 +155,7 @@ Nämnden för Teknik godkänner ärendelistan med förändring.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Yrkande från Centerpartiet (C) - Digitalisera information om
+\-  Yrkande från Centerpartiet (C) - Digitalisera information om
 
 vattenförbrukning
 Ärendet lyfts efter paragraf § 50 i dagordningen: Vatten & Avloppstaxa 2027.
@@ -583,31 +583,31 @@ Nämnden för Teknik noterar redovisningen av inkomna skrivelser till protokolle
 Sammanfattning av ärendet
 
 Under perioden 14 april – 4 maj inkom följande skrivelser till nämnden för Teknik:
-- Beslut om bifall, Överklagande av beslut om sänkt hastighetsbegränsning på
+\- Beslut om bifall, Överklagande av beslut om sänkt hastighetsbegränsning på
 
 Gåsevadholmsvägen, dnr 2248-2026
-- Rapport: Samskapande möte Kollaskolan, Youth 2030
+\- Rapport: Samskapande möte Kollaskolan, Youth 2030
 
-- Revisionsberättelse - År 2025
-- Kommunrevisionens redogörelse för 2025 - en bilaga till revisionsberättelsen
+\- Revisionsberättelse - År 2025
+\- Kommunrevisionens redogörelse för 2025 - en bilaga till revisionsberättelsen
 
-- (Kommunrevisionen) Följebrev - Revisionsrapport Grundläggande granskning
+\- (Kommunrevisionen) Följebrev - Revisionsrapport Grundläggande granskning
 2025
-- (Kommunrevisionen) (Rapport) Grundläggande granskning 2025
+\- (Kommunrevisionen) (Rapport) Grundläggande granskning 2025
 
-- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 46
-- Tjänsteskrivelse - Taxa för avfall 2026
+\- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 46
+\- Tjänsteskrivelse - Taxa för avfall 2026
 
-- Avfallstaxa 2026, gäller från 2026-05-01
+\- Avfallstaxa 2026, gäller från 2026-05-01
 
-- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 56
-- Tjänsteskrivelse - Årsredovisning 2025 för Kungsbacka kommun
+\- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 56
+\- Tjänsteskrivelse - Årsredovisning 2025 för Kungsbacka kommun
 
-- Årsredovisning 2025 för Kungsbacka kommun
-- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 45
+\- Årsredovisning 2025 för Kungsbacka kommun
+\- Protokollsutdrag Kommunfullmäktige 2026-04-14 § 45
 
-- Tjänsteskrivelse - Belysning för att förstärka trygghetskänslan i kommunen
-- Protokollsutdrag Kommunstyrelsen 2026-04-21 § 84
+\- Tjänsteskrivelse - Belysning för att förstärka trygghetskänslan i kommunen
+\- Protokollsutdrag Kommunstyrelsen 2026-04-21 § 84
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera redovisningen av
@@ -718,8 +718,8 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Den senaste Teknikveckan på Kungsbacka Live
--  Driftsorganisationen för arenaområdet
+\-  Den senaste Teknikveckan på Kungsbacka Live
+\-  Driftsorganisationen för arenaområdet
 
 Beslutsgång
 

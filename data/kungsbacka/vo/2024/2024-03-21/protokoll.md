@@ -74,7 +74,7 @@ Emma Renström, utvecklingsledare,
 § 48
 
 Personalföreträdare           Övriga
--
+\-
 
 Plats och tid för justering Digital justering
 
@@ -424,7 +424,7 @@ Nämnden för Vård & Omsorg kommer att informeras så snart genomlysningen är
 klar. En revidering av ledningssystemet kommer också att underställas nämnden för
 beslut efter genomlysningens slutförande. Revidering av befintligt
 kvalitetsledningssystem kommer att underställas nämnden under tredje kvartalet
-2024.
+2024\.
 
 Beslutsunderlag
 
@@ -756,7 +756,7 @@ som uppkommer i verksamheten. Genomgången bör resultera i en plan över vilka
 verksamheter som kan konkurrensutsättas.
 Nämnden för Vård & Omsorg har en konkurrensutsättningsplan som fastställdes vid
 sammanträde 2023-12-14 och som gäller till och med 2026-12-31, dnr VO 2023–
-00265.
+00265\.
 
 Konkurrensutsättningsplanen utgör en inventering av nämndens verksamheter. Vilka
 obligatoriska respektive frivilliga verksamheter som finns inom nämndens ansvar,
@@ -1953,6 +1953,6 @@ Datum
 § 56                       Dnr VO-2024-00007
 Information från ledamöter mars 2024
 
--
+\-
 
 Expedierat/bestyrkt

@@ -297,10 +297,10 @@ från 57 300 kronor 2024 till 58 800 kronor 2025, vilket motsvarar en ökning me
 procent.
 Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
 
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 330 kronor per timme till 1 391 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2025 (A22-23) i
 enlighet med punkt fyra i taxan.
@@ -315,7 +315,7 @@ Byggnadsnämnden
 Datum
 2024-11-14
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2025.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 0,9
 miljoner kronor baserat på preliminär budget för 2025. De nya beloppen framgår av
@@ -447,7 +447,7 @@ kräver bygglov kan tillåtas på en specifik plats.
 Bygglov, och därmed förhandsbesked, ska enligt 9 kap. 31 § PBL ges för en åtgärd
 utanför ett område med detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1A834B739B7EBE6F6781F4413300258530B4B4F5D8
@@ -460,8 +460,8 @@ Byggnadsnämnden
 Datum
 2024-11-14
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -479,11 +479,11 @@ planläggning är en förutsättning för att kunna bevilja ansökan om bygglov.
 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes lämplighet
 för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns utformning för:
 
-1. en ny sammanhållen bebyggelse … om det behövs …
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
+1\. en ny sammanhållen bebyggelse … om det behövs …
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
 
-3. (…)
-4. ett nytt byggnadsverk som kräver bygglov om…
+3\. (…)
+4\. ett nytt byggnadsverk som kräver bygglov om…
 
 a) byggnadsverket eller dess användning får betydande inverkan på omgivningen
 eller om det råder stor efterfrågan på området för bebyggande,
@@ -615,7 +615,7 @@ av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 Sammanfattning av ärendet
 
 Ansökan registrerades 2024-01-24 och var komplett med bullerutredning 2024-09-
-21.
+21\.
 Ansökan innebär nylokalisering av ett enbostadshus inom fastigheten Vallda 33:2.
 Fastigheten har en areal av 4649 kvm och är idag bebyggd med ett enbostadshus,
 
@@ -1105,7 +1105,7 @@ samt hur murar får anordnas inom området.
 
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
--  en stödmur är 1,5 meter högt, vilket är 0,5 meter högre än tillåtet i gällande
+\-  en stödmur är 1,5 meter högt, vilket är 0,5 meter högre än tillåtet i gällande
 
 detaljplan som säger följande: ”Stödmurar på kvartersmark får uppföras till
 en maximal höjd om 1 meter vardera”

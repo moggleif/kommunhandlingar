@@ -5,22 +5,22 @@ datum: 2026-10-13
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.dedd4261a115a11376bd5
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.663576d1a1156c4d3b1ecc7
+tidigare_kallnycklar: [sitevision:18.dedd4261a115a11376bd5]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.dedd4261a115a11376bd5/1791367136752/Byggnadsn%C3%A4mndens%20arbetsutskott%20handlingar%202026-10-13.pdf
+kalla_url: https://kungsbacka.se/download/18.663576d1a1156c4d3b1ecc7/1791457520859/Byggnadsn%C3%A4mndens%20arbetsutskott%20handlingar%202026-10-13.pdf
 sha256: 62e11e6360cf6153821ec5188be3c62f19adfae6c770d920ca8d469060d98975
 bytes: 41316939
 sidor: 182
-hamtad: 2026-10-08T00:34:15+00:00
-konverterad: 2026-10-08T00:38:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-09T07:30:24+00:00
+konverterad: 2026-10-09T07:34:32+00:00
+pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8, 84, 89, 90, 91, 92, 93, 98, 105, 149, 159, 164, 168, 169, 170]
-figurer: null
-tolkade: null
+figurer: [3, 5, 14, 18, 19, 20, 21, 25, 27, 30, 31, 32, 33, 38, 39, 40, 41, 42, 44, 50, 54, 55, 64, 65, 84, 85, 95, 97, 99, 100, 101, 103, 104, 106, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 156, 158, 160, 161, 162, 163, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1032,7 +1032,7 @@ enligt miljöbalken 7 kap 11§ som bland annat alléer omfattas av. Den allé so
 Varbergsvägen utgör en viktig spridningskorridor för fåglar och insekter. Dispens från
 länsstyrelsen krävs för nedtagning av dessa och kompensation genom plantering av nya träd.
 I samband med detaljplanearbetet har en trädinventering (Kungsbacka kommun 2021-10-
-20) genomförts för att studera trädens art, storlek, ålder och vitalitet. Inventeringen visar
+20\) genomförts för att studera trädens art, storlek, ålder och vitalitet. Inventeringen visar
 vilka träd som är möjliga att flytta och använda på annan plats ifall nuvarande placering
 kommer i konflikt med områdets nya utformning.
 
@@ -2478,7 +2478,7 @@ Klimat och klimatanpassning
 Planförslaget som helhet underlättar för gång-, cykel- och kollektivtrafik vilket bidrar till
 målet om minskade utsläpp från fossila bränslen i linje med klimatstrategin.
 Planförslaget har även klimatanpassats utifrån framtagen skyfallsutredning (DHI 2024-11-
-20) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
+20\) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
 för att leda skyfall.
 
 Kulturvärden och arkeologi
@@ -3312,10 +3312,10 @@ Planbeskrivning 63
 |  | Prickmark | Byggnad får inte uppföras. Balkonger och burspråk<br>får kraga ut högst 1,5 meter från fasad och 3,5<br>meter ovan mark. Syftar till att reglera och<br>begränsa byggrätten. |
 | --- | --- | --- |
 |  | Plusmark | Endast komplementbyggnader får uppföras. |
-| h1 | Höjd på byggnadsverk | Högsta nockhöjd är <angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan. |
-| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
-| h3 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
-| h4 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h1 | Höjd på byggnadsverk | Högsta nockhöjd är \<angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan. |
+| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h3 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h4 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 
 <!-- sida 77 -->
 
@@ -3323,10 +3323,10 @@ Planbeskrivning 63
 
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
 
-| h5 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h5 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 | --- | --- | --- |
 | h6 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är +51,5 meter över<br>angivet nollplan som får uppföras i högst fjorton<br>(14) våningar. Syftar till att begränsa högsta<br>nockhöjd på ny flerbostadshusbebyggelse över<br>angivet nollplan samt våningsantal. |
-| h7 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h7 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 | n1 | Markens anordnande | Marken får inte förses med byggnad eller annan<br>anläggning ovan mark, undantaget parkering för<br>rörelsehindrad samt cykelparkering. Balkonger och<br>burspråk får kraga ut 1,5 meter 4,0 meter ovan<br>mark. Syftet är att kvartersgatorna ska ha en<br>karaktär av gårdsyta men ändå vara framkomliga<br>för exempelvis räddningsfordon. 4,0 meter i fri<br>höjd är hämtat från räddningstjänstens Råd och<br>anvisningar nr:110. |
 | n2 | Markens anordnande | Maximalt tillåten markbelastning ur<br>stabilitetssynpunkt är 10 kPa. |
 | n3 | Vegetation | Trädet får endast fällas om det är sjukt eller innebär<br>säkerhetsrisk<br>Syftar till att säkerställa att befintliga träd inte får<br>fällas utan särskild anledning. Träden är markerade<br>på plankartan inom område CENTRUM. |
@@ -3528,15 +3528,15 @@ Utgångspunkter för länsstyrelsens bedömning
 Länsstyrelsen ska efter prövning upphäva kommunens beslut att
 anta, ändra eller upphäva en detaljplan om beslutet innebär att:
 
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
-2. regleringen av sådana frågor om användningen av mark- och
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
+2\. regleringen av sådana frågor om användningen av mark- och
 vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-4. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
+4\. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
 gällande bestämmelser, eller
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
 hänsyn till människors hälsa eller säkerhet eller till risken för
 
 olyckor, översvämning eller erosion.
@@ -3586,20 +3586,20 @@ Plan- och bygglagen (2010:900)
 I 11 kap. 10 § andra stycket PBL anges att länsstyrelsen ska överpröva
 kommunens beslut, om beslutet kan antas innebära att
 
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 tillgodoses,
 
-2. regleringen av sådana frågor om användningen av mark- och
+2\. regleringen av sådana frågor om användningen av mark- och
 
 vattenområden som angår flera kommuner inte samordnas på
 ett lämpligt sätt,
 
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-4. strandskydd enligt 7 kap. miljöbalken i strid med gällande
+4\. strandskydd enligt 7 kap. miljöbalken i strid med gällande
 bestämmelser upphävs eller fortsätter att vara upphävt, eller
 
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt
 med hänsyn till människors hälsa eller säkerhet eller till risken
 för olyckor, översvämning eller erosion.
 
@@ -3720,15 +3720,15 @@ kopplade till översvämning. Grundläggnings- och miljötekniska frågor, såso
 går inte i vår granskning.
 
 Underlag:
-1. Plankarta, antagandehandling, 2025-12-11
-2. Planbeskrivning, antagandehandling, 2025-12-11
-3. PM Geoteknik — Hantverksgatan, Norconsult, version 2, 2025-10-07
+1\. Plankarta, antagandehandling, 2025-12-11
+2\. Planbeskrivning, antagandehandling, 2025-12-11
+3\. PM Geoteknik — Hantverksgatan, Norconsult, version 2, 2025-10-07
 4
 
 . PM Geoteknik, sydöstra centrum — etapp 1, detaljerad stabilitetsutredning längs Söderån, ver-
 sion 2, 2025-10-07
 
-5. Markteknisk undersökningsrapport, MUR, Norconsult, version 2, 2025-10-07
+5\. Markteknisk undersökningsrapport, MUR, Norconsult, version 2, 2025-10-07
 
 Statens geotekniska institut
 
@@ -4294,7 +4294,7 @@ utförts för att undvika en överskattning av den beräknade säkerhetsfaktorn.
 Tåglast har valts enligt TRVINFRA-00230. Enligt Nationella järnvägsdatabasen (NJDB) har järnvägsspåret
 linjekategori D vilket motsvarar STAX (axellast) 22,5 och STVM (vikt per meter) 6,4 t/m vilket motsvarar en
 tåglast på 34 kPa, utgörs ballasten av makadam. Tunghet och friktionsjord har ansatts enligt TRVINFRA
-00230.
+00230\.
 
 Säkerhetsfaktor har valts för detaljerad utredning enligt IEG rapport 4:2010. För Befintlig bebyggelse och
 anläggning gäller att säkerhetsfaktorer ska väljas i spannet i Fc≥ 1,7–1,5 för odränerad analys och Fkomb ≥
@@ -4713,7 +4713,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -4832,7 +4832,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -4955,7 +4955,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 03:51:61
 ,81-70-5202
 :daregider
@@ -5084,7 +5084,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 03:51:61
 ,81-70-5202
 :daregider
@@ -5183,17 +5183,60 @@ elgnA
 reyaL
 )³m/Nk(
 )aPk(
-6
+63
+0
+1
+91
+bmoluoC-rhoM
+gninllyF
 murtnecartsödyS
+61
+5-
+1
+0
+2.1
+41
+)mutad(f=S
+närdo
+ajttyG
 16
 74
 701
+1
+0
+2.1
+01
+61
+)htped(f=S
+närdo
+1
+areL
 C
 noitkeS
+8.02
+9-
+1
+0
+2.1
+61
+)mutad(f=S
+närdo
+2
+areL
 sylana
 darenärdO
 nednallåhröf
 agiltnifeB
+61
+01-
+1
+0
+2.1
+61
+)mutad(f=S
+närdo
+3
+areL
 ecirP-nretsnegroM
 1
 0
@@ -5222,7 +5265,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -5234,20 +5277,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
-| 3<br>0 |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 61 |  | 8.02 | 61 |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 0 | 0 | 0 | 0 |
-|  | 2.1 | 2.1 | 2.1 | 2.1 |
-|  |  | 01 |  |  |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S | )htped(f=S | )mutad(f=S | )mutad(f=S |
-| gninllyF | närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL |
 
 <!-- sida 124 -->
 
@@ -5328,16 +5357,65 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
 nednallåhröf
 agiltnifeB
-ecirP-nretsnegroM sylanastehrekäslatoT
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1 areL
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2 areL
+sylanastehrekäslatoT
 m
 1 :pujdetydilg
 atsniM
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3 areL
 1
 1.0
 0
@@ -5356,7 +5434,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -5365,19 +5443,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0 | 1.0 | 1.0 | 1.0 |
-|  | 2.1 | 2.1 | 2.1 | 2.1 |
-| 63 | 03 | 01<br>03 | 03 | 03 |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 125 -->
 
@@ -5468,7 +5533,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:54:41
 ,81-70-5202
 :daregider
@@ -5584,7 +5649,7 @@ E noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:54:41
 ,81-70-5202
 :daregider
@@ -5706,7 +5771,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 92:43:90
 ,81-70-5202
 :daregider
@@ -5830,7 +5895,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 92:43:90
 ,81-70-5202
 :daregider
@@ -5915,17 +5980,38 @@ murtnecartsödyS
 74
 701
 1
+0
+7.0
+01
+41
+)htped(f=S
+närdo
+ajttyG
 A
 noitkeS
 sylana
 darenärdO
 1
+0
+7.0
+01
+61
+)htped(f=S
+närdo
+1 areL
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
 1
+0
+8.0
+21
+61
+)htped(f=S
+närdo
+2 areL
 sylanastehrekäslatoT
 1
 0
@@ -5958,7 +6044,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -5967,16 +6053,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
-
-| 0 | 0 | 0 |
-| --- | --- | --- |
-| 7.0 | 7.0 | 8.0 |
-| 0 | 0 | 2 |
-| 1<br>41 | 1<br>61 | 1<br>61 |
-| )htped(f=S | )htped(f=S | )htped(f=S |
-| närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL |
 
 <!-- sida 130 -->
 
@@ -6050,7 +6126,7 @@ sylana
 darenibmoK
 1
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -6078,7 +6154,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -6172,7 +6248,7 @@ sylana
 darenärdO
 21
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6206,7 +6282,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -6314,7 +6390,7 @@ sylana
 darenibmoK
 21
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6340,7 +6416,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -6434,7 +6510,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6467,7 +6543,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -6567,15 +6643,67 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1
+areL
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
-ecirP-nretsnegroM sylanastehrekäslatoT
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2
+areL
+sylanastehrekäslatoT
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3
+areL
 m
 1 :pujdetydilg
 atsniM
@@ -6597,7 +6725,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -6606,18 +6734,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0 | 1.0 | 1.0 | 1.0 |
-|  | 2.1 | 2.1<br>01 | 2.1 | 2.1 |
-| 63<br>91 | 03<br>41 | 03<br>61 | 03<br>61 | 03<br>61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 135 -->
 
@@ -6689,7 +6805,7 @@ sylana
 darenärdO
 1
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6720,7 +6836,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 82:40:01
 ,61-50-6202
 :daregider
@@ -6809,7 +6925,7 @@ noitkeS
 sylana
 darenibmoK
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -6835,7 +6951,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 82:40:01
 ,61-50-6202
 :daregider
@@ -6888,7 +7004,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6916,7 +7032,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -7006,7 +7122,7 @@ sylana
 darenibmoK
 1
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -7043,7 +7159,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -7175,7 +7291,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 00:45:80
 ,61-50-6202
 :daregider
@@ -7303,7 +7419,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 00:45:80
 ,61-50-6202
 :daregider
@@ -7395,7 +7511,7 @@ sylana
 darenärdO
 21
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7429,7 +7545,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -7540,7 +7656,7 @@ sylana
 darenibmoK
 21
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7571,7 +7687,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -7694,7 +7810,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7730,7 +7846,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -7833,15 +7949,67 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1
+areL
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
-ecirP-nretsnegroM sylanastehrekäslatoT
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2
+areL
+sylanastehrekäslatoT
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3
+areL
 m
 1 :pujdetydilg
 atsniM
@@ -7868,7 +8036,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -7877,19 +8045,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0<br>2.1 | 1.0<br>2.1 | 1.0<br>2.1 | 1.0<br>2.1 |
-|  |  |  |  |  |
-| 63 | 03 | 01<br>03 | 03 | 03 |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 145 -->
 
@@ -7955,16 +8110,40 @@ murtnecartsödyS
 74
 701
 1
+7.0
+4.01
+7.0
+4.01
+41
+)htped(f=S
+rdo
+ajttyG
 E
 noitkeS
 sylana
 darenärdO
 1
+7.0
+01
+7.0
+01
+61
+)htped(f=S
+rdo
+1 areL
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 1
+8.0
+21
+8.0
+21
+61
+)htped(f=S
+rdo
+2 areL
 ecirP-nretsnegroM
 sylanastehrekäslatoT
 1
@@ -7994,7 +8173,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 51:25:90
 ,61-50-6202
 :daregider
@@ -8003,17 +8182,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-| 7.0 | 7.0 | 8.0 |
-| --- | --- | --- |
-| 4.01 | 01 | 21 |
-| 7.0 | 7.0 | 8.0 |
-| 4.0 | 0 | 2 |
-| 1<br>41 | 1<br>61 | 1<br>61 |
-| )htped(f=S | )htped(f=S | )htped(f=S |
-| rdo<br>ajttyG | rdo<br>1<br>areL | rdo<br>2<br>areL |
 
 <!-- sida 146 -->
 
@@ -8084,7 +8252,7 @@ sylana
 darenibmoK
 1
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -8116,7 +8284,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 51:25:90
 ,61-50-6202
 :daregider
@@ -8219,7 +8387,7 @@ noitkeS
 sylana
 darenärdO
 ekid
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -8255,7 +8423,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 50:32:80
 ,10-40-6202
 :daregider
@@ -8355,7 +8523,7 @@ noitkeS
 sylana
 darenibmoK
 ekid
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM sylanastehrekäslatoT
@@ -8383,7 +8551,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 50:32:80
 ,10-40-6202
 :daregider
@@ -8735,7 +8903,7 @@ Uppdragsnr.: 107 47 61 Version: 2.1
 
 På uppdrag av Kungsbacka kommun har Norconsult AB genomfört geotekniska undersökningar och utredning
 som underlag för detaljplan avseende sydöstra centrum, etapp 1 som utgörs av planområdet markerat i Figur
-1. Denna PM syftar till att utreda de geotekniska förhållandena samt säkerställa stabiliteten från planområdets
+1\. Denna PM syftar till att utreda de geotekniska förhållandena samt säkerställa stabiliteten från planområdets
 sydvästra del mot Hantverksgatan. För mer detaljerad info hänvisas till bifogade ritningar.
 Handlingen har reviderats med hänsyn till SGI:s yttrande över samrådshandling, daterad 2025-05-28 och
 SGI:s yttrande över antagandehandling daterad 2026-02-04.
@@ -8924,13 +9092,13 @@ Lera 1        13            30          0,1(cid:2185)  16
 (cid:2203)
 Gyttja        13            30          0,1(cid:2185)  14
 (cid:2203)
-Lera 2   13+0,4*z där z är 0 30         0,1(cid:2185)  16
+Lera 2   13+0,4\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -5
-Lera 3   15+1,5*z där z är 0 30         0,1(cid:2185)  16
+Lera 3   15+1,5\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -10
-Lera 4   18+1,3*z där z är 0 30         0,1(cid:2185)  16
+Lera 4   18+1,3\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -12
 För de material där det inte har utförts tillbörliga tester har tabellvärlden från ”TRVINFRA-00229,
@@ -8966,6 +9134,20 @@ Uppdragsnr.: 107 47 61 Version: 2.1
 
 Tabell 2: Redovisning av beräkningsresultat, sektion D och G. Säkerhet inom parentes avser beräkningsresultat utan
 belastning.
+Sektion   Befintliga    Planerade      Planerade   Erfordrad säkerhet
+förhållanden   förhållanden förhållanden med
+Med marklast på utbredd last över
+glidytans aktiva planområdet
+sida
+D-D       F = 1,58    F = 1,57 (1,54)    -            F ≥1,5
+c            c                               c
+F  = 1,57   F  = 1,55 (1,53)                F  ≥1,4
+komb        komb                            komb
+
+G-G         -           F = 1,50      F = 1,53        F ≥1,5
+c             c               c
+F  = 1,50     F   = 1,53      F  ≥1,4
+komb          komb            komb
 
 Stabilitetsberäkningarna har utförts i två sektioner från planområdet och snett mot Hantverksgatan och
 redovisas i Bilaga 3 och 4. Utförda beräkningar visar på att säkerhetsfaktorn mot brott inom planområdet
@@ -8989,13 +9171,6 @@ byggnad och att sättningar pågår inom planområdet. All belastning av marken 
 Utförda geotekniska undersökningar visar att byggnader behöver utföras med pålar för att undvika sättningar.
 
 2026-06-09 | Sida 11 av 12
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Sektion | Befintliga<br>förhållanden | Planerade<br>förhållanden<br>Med marklast på<br>glidytans aktiva<br>sida | Planerade<br>förhållanden med<br>utbredd last över<br>planområdet | Erfordrad säkerhet |
-| --- | --- | --- | --- | --- |
-| D-D | F = 1,58<br>c<br>F = 1,57<br>komb | F = 1,57 (1,54)<br>c<br>F = 1,55 (1,53)<br>komb | - | F ≥1,5<br>c<br>F ≥1,4<br>komb |
-| G-G | - | F = 1,50<br>c<br>F = 1,50<br>komb | F = 1,53<br>c<br>F = 1,53<br>komb | F ≥1,5<br>c<br>F ≥1,4<br>komb |
 
 <!-- sida 166 -->
 
@@ -9184,22 +9359,103 @@ cirtemozeiP
 )aPk(
 ecafruS )³m/Nk(
 murtnec
-artsödyS 98
+artsödyS
+63
+0
+1
+91
+bmoluoC-rhoM
+gninllyF
+98
 33
 701
+43
+0
+1
+42
+bmoluoC-rhoM
+gnotebvorG
 D
 noitkeS
+1
+0
+0
+31
+0
+31
+41
+)htped(f=S
+närdo
+ajttyG
 :epyT
 sisylanA
+1
+0
+0
+31
+0
+31
+61
+)htped(f=S
+närdo
+1 areL
 sylana
 darenärdO
+31
+31
+5-
+1
+0
+4.0
+4.0
+61
+)mutad(f=S
+närdo
+2 areL
 nednallåhröf
 agiltnifeB
+51
+51
+01-
+1
+0
+5.1
+5.1
+61
+)mutad(f=S
+närdo
+3 areL
 ecirP-nretsnegroM
+81
+81
+21-
+1
+0
+3.1
+3.1
+61
+)mutad(f=S
+närdo
+4 areL
 sylanastehrekäslatoT
+1
+42
+htgnertS
+hgiH
+rumdötS
 m
 1:pujdetydilg
 atsniM
+1
+0
+0
+02
+0
+02
+81
+)htped(f=S
+areleproksrroT
+närdo
 81
 43
 0
@@ -9223,7 +9479,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 85:92:81
 ,82-90-5202
 :daregider
@@ -9237,24 +9493,6 @@ mahlE
 dapakS
 
 [Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-| 63 | 43 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 0 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 31<br>31 | 51<br>51 | 81<br>81 |  |  |
-|  |  |  |  | 5- | 01- | 21- |  |  |
-| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-|  |  | 0 | 0 | 0 | 0 | 0 |  | 0 |
-|  |  | 0 | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 | 31 |  |  |  |  | 02 |
-|  |  | 0 | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 | 31 |  |  |  |  | 02 |
-| 91 | 42 | 41 | 61 | 61 | 61 | 61 | 42 | 81 |
-| bmoluoC-rhoM | bmoluoC-rhoM | )htped(f=S | )htped(f=S | )mutad(f=S | )mutad(f=S | )mutad(f=S | htgnertS<br>hgiH | )htped(f=S |
-| gninllyF | gnotebvorG | närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL | närdo<br>4<br>areL | rumdötS | areleproksrroT<br>närdo |
-
-[Tabell 171-2](handlingar.tabeller/171-2.csv)
 
 |  |  |  |
 | --- | --- | --- |
@@ -9393,7 +9631,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 85:92:81
 ,82-90-5202
 :daregider
@@ -9521,23 +9759,100 @@ cirtemozeiP
 ecafruS )³m/Nk(
 murtnec
 artsödyS
+63
+1
+91
+bmoluoC-rhoM
+gninllyF
 98
 33
 701
+43
+1
+42
+bmoluoC-rhoM
+gnotebvorG
 D
 noitkeS
+1
+0
+31
+0
+31
+41
+)htped(f=S
+närdo
+ajttyG
 :epyT
 sisylanA
 5.4
+53
+1
+11
+bmoluoC-rhoM
+danllyfttäL
 sylana
 darenärdO
+1
+0
+31
+0
+31
+61
+)htped(f=S
+närdo
+1 areL
 nednallåhröf
 edarenalP
+31
+31
+5-
+1
+4.0
+4.0
+61
+)mutad(f=S
+närdo
+2 areL
 ecirP-nretsnegroM
+51
+51
+01-
+1
+5.1
+5.1
+61
+)mutad(f=S
+närdo
+3 areL
 sylanastehrekäslatoT
+81
+81
+21-
+1
+3.1
+3.1
+61
+)mutad(f=S
+närdo
+4 areL
 m
 1:pujdetydilg
 atsniM
+1
+42
+htgnertS
+hgiH
+rumdötS
+1
+0
+02
+0
+02
+81
+)htped(f=S
+areleproksrroT
+närdo
 81
 43
 1
@@ -9562,7 +9877,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -9585,22 +9900,6 @@ dapakS
 |  |  |
 |  |  |
 |  |  |
-
-[Tabell 173-2](handlingar.tabeller/173-2.csv)
-
-| 63 | 43 |  | 53 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 3 | 5 | 8 |  |  |
-|  |  |  |  |  | 1<br>31 | 1<br>51 | 1<br>81 |  |  |
-|  |  |  |  |  | 5- | 01- | 21- |  |  |
-| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-|  |  | 0 |  | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 |  | 31 |  |  |  |  | 02 |
-|  |  | 0 |  | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 |  | 31 |  |  |  |  | 02 |
-| 91 | 42 | 41 | 11 | 61 | 61 | 61 | 61 | 42 | 81 |
-| bmoluoC-rhoM | bmoluoC-rhoM | )htped(f=S | bmoluoC-rhoM | )htped(f=S | )mutad(f=S | )mutad(f=S | )mutad(f=S | htgnertS<br>hgiH | )htped(f=S |
-| gninllyF | gnotebvorG | närdo<br>ajttyG | danllyfttäL | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL | närdo<br>4<br>areL | rumdötS | areleproksrroT<br>närdo |
 
 <!-- sida 174 -->
 
@@ -9715,7 +10014,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -9877,7 +10176,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -10032,7 +10331,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -10155,7 +10454,7 @@ darenärdO
 5.4
 moni
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 tedårmonalp
@@ -10187,7 +10486,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10298,7 +10597,7 @@ sylana
 darenibmoK
 moni
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 tedårmonalp
@@ -10331,7 +10630,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10440,7 +10739,7 @@ sylana
 darenärdO
 5.4
 masnnygO
--
+\-
 nednallåhröf
 edarenalP
 gnirecalptsal
@@ -10472,7 +10771,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10553,7 +10852,7 @@ sisylanA
 sylana
 darenibmoK
 masnnygO
--
+\-
 nednallåhröf
 edarenalP
 gnirecalptsal
@@ -10622,7 +10921,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider

@@ -1333,7 +1333,7 @@ efterlevnaden kan därför antas bli begränsad.”
 Den 30 april överklagade arbetsutskottets Länsstyrelsens beslut om upphävning, med en begäran
 om förlängd tid att utveckla sina synpunkter och komplettera sitt slutliga yttrande till den 3 juni.
 Transportstyrelsen medgav den 5 maj anstånd att inkomma med kompletteringar senast den 3 juni
-2026.
+2026\.
 
 Beslutet i nämnden för Tekniks arbetsutskott den 1 juni blir arbetsutskottets svar till
 Transportstyrelsen i frågan.
@@ -2321,7 +2321,7 @@ kan därför antas bli begränsad.”
 Den 30 april överklagade arbetsutskottets Länsstyrelsens beslut om upphävning, med en begäran om
 förlängd tid att utveckla sina synpunkter och komplettera sitt slutliga yttrande till den 3 juni.
 Transportstyrelsen medgav den 5 maj anstånd att inkomma med kompletteringar senast den 3 juni
-2026.
+2026\.
 Beslutet i nämnden för Tekniks arbetsutskott den 1 juni blir arbetsutskottets svar till Transportstyrelsen
 
 i frågan.
@@ -2446,7 +2446,7 @@ Den 30 april överklagade arbetsutskottets Länsstyrelsens beslut om upphävning
 förlängd tid att utveckla sina synpunkter och komplettera sitt slutliga yttrande till den 3 juni.
 
 Transportstyrelsen medgav den 5 maj anstånd att inkomma med kompletteringar senast den 3 juni
-2026.
+2026\.
 Beslutet i nämnden för Tekniks arbetsutskott den 1 juni blir arbetsutskottets svar till Transportstyrelsen
 i frågan.
 
@@ -2458,7 +2458,7 @@ för vägstycket på ca 930 meter flyttas från Staten genom Trafikverket till K
 Kungsbacka kommun blir då huvudman och väghållare, med full rådighet över vägutformning,
 underhåll och hastighetsbegränsningar. Det leder i realiteten även till ökade driftskostnader och
 förändrade planer för, i Gåsevadholmsvägens fall, den gång & cykelväg som planeras färdigställd
-2035. Vid ett övertagande av väghållarskap ska hänsyn tas till både det allmännas och de enskilda
+2035\. Vid ett övertagande av väghållarskap ska hänsyn tas till både det allmännas och de enskilda
 intressena, trafiksäkerhet, naturskydd, miljöskydd och kulturmiljön.
 
 Motiveringen till ett förändrat väghållarskap kan vara flera, men samhället utvecklas kontinuerligt och

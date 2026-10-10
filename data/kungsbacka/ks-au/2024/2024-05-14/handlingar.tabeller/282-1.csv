@@ -1,0 +1,24 @@
+"Uppehållstid vid Q
+dim",min,15
+Vattennivå,m,5
+"Ozonbehov vid Q
+adwf","kg O /d
+3",85
+"Ozonbehov vid Q
+dim","kg O /d
+3",289
+Installerad ozonkapacitet,"kg O /d
+3",346
+Antal linjer,st.,2
+Ytbehov (filtercell),m2,440
+Antal filterceller,st.,8
+"Filter i drift vid Q
+adwf",st.,4
+"Filter i drift vid Q
+dim",st.,8
+"Ytbelastning vid Q
+adwf",m/h,"4,2"
+"Ytbelastning vid Q
+dim",m/h,"4,5"
+"Kolbehov vid Q
+adwf",ton/år,120

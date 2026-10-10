@@ -152,16 +152,16 @@ vuxenutbildningen gällande verksamhetsår 2024.
 
 Nämnden för Gymnasium och Arbetsmarknad godkänner att fokusområden för
 vuxenutbildningen under 2025 är:
-1. Översyn av det systematiska kvalitetsarbetet
+1\. Översyn av det systematiska kvalitetsarbetet
 
 a. Säkerställande av styrkedjan, från huvudman till elev
 b. Implementering av ramavtal och uppföljning av leverans
 
 c. Fortsatt arbete utifrån Skolinspektionens rapport, i syfte att kvalitetssäkra både den
 generella och den individuella studie och yrkesvägledningen inom komvux
-2. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
+2\. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
 
-3. Från implementering till drift och vidareutveckling av Edlevo.
+3\. Från implementering till drift och vidareutveckling av Edlevo.
 
 Sammanfattning av ärendet
 Vuxenutbildningen har ett brett uppdrag som spänner över många målgrupper. Det är

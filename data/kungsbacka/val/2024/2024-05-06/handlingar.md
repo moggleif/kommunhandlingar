@@ -313,7 +313,7 @@ ska arvodesblankett lämnas in.
 
 Sammanfattning av ärendet
 Valnämnden ska besluta vilka som ska ingå i valnämndens kansli under Europaparlamentvalet 9 juni
-2024. En översyn av kansliets organisation har gjorts inför Europaparlamentvalet valen 2024.
+2024\. En översyn av kansliets organisation har gjorts inför Europaparlamentvalet valen 2024.
 
 Beslutsunderlag
 Kungsbacka kommuns tjänsteskrivelse, 2024-04-02
@@ -381,7 +381,7 @@ Sida
 
 <!-- sida 12 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 24 april 2024 16:08
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 17
@@ -420,7 +420,7 @@ www.val.se
 
 <!-- sida 13 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 17 april 2024 15:38
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 16
@@ -712,24 +712,24 @@ Granskningen påbörjas i februari 2024 och avrapporteras preliminärt vid revis
 sammanträde i mars 2025. Uppföljande granskning avrapporteras preliminärt i juni 2024.
 
 Granskningen består av följande moment med tidsplan inom parentes:
-1.  Fastställande av projektplan (februari 2024)
+1\.  Fastställande av projektplan (februari 2024)
 
-2.  Bokning av nämnddialoger (februari 2024)
-3.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
+2\.  Bokning av nämnddialoger (februari 2024)
+3\.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
 skriftliga frågor (mars-april 2024)
-4.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
+4\.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
 granskningen (mars-april 2024)
 
-5.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
+5\.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
 och faktagranskning av uppföljande granskning (maj-juni 2024)
-6.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
+6\.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
 (maj-juni 2024)
-7.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
+7\.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
 respektive årsredovisning (februari 2025)
 
-8.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
+8\.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
 granskning 2024 (december 2024-mars 2025)
-9.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
+9\.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
 granskning (mars 2025)
 
 Insamling av fakta och iakttagelser samt protokollsgranskning sker löpande under
@@ -778,14 +778,14 @@ Till:                 Val nämnden
 Bifogade filer:        Projektplan Kungsbacka -Grundläggande granskning 2024.för
 utskick.pdf
 
-Från: Fanny Nilsson <Fanny.Nilsson@se.ey.com>
+Från: Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
 Skickat: den 4 april 202413:15
-Till: Bygg & Miljö bygglov admin <byggochmiljo.bygglovadmin@kungsbacka.se>; Individ & Familjeomsorg
-<individochfamiljeomsorg@kungsbacka.se>; Kultur & Fritid <kulturochfritid@kungsbacka.se>; Miljö &
-Hälsoskydd admin <miljoochhalsoskydd.admin@kungsbacka.se>; Service <service@kungsbacka.se>;
+Till: Bygg & Miljö bygglov admin \<byggochmiljo.bygglovadmin@kungsbacka.se>; Individ & Familjeomsorg
+\<individochfamiljeomsorg@kungsbacka.se>; Kultur & Fritid \<kulturochfritid@kungsbacka.se>; Miljö &
+Hälsoskydd admin \<miljoochhalsoskydd.admin@kungsbacka.se>; Service \<service@kungsbacka.se>;
 
-Teknik <teknik@kungsbacka.se>; Sofia Jonsson <sofia.jonsson@kungsbacka.se>
-Kopia: Elin Forså <Elin.Forsa@se.ey.com>
+Teknik \<teknik@kungsbacka.se>; Sofia Jonsson \<sofia.jonsson@kungsbacka.se>
+Kopia: Elin Forså \<Elin.Forsa@se.ey.com>
 Ämne: Revisionens grundläggande granskning 2024
 
 Sorne people who received this rnessa<:)e don't often <:Jet ernail from fanny.nilsson@se.ey.com. Learn why this is
@@ -817,7 +817,7 @@ Website: http://www.ey.com/se
 
 <!-- sida 22 -->
 
-___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 The information contained in this communication is intended solely for the use of the individual or entity
 to whom it is addressed and others authorized to receive it. It may contain confidential or legally
 privileged information. If you are not the intended recipient you are hereby notified that any disclosure,
@@ -887,18 +887,18 @@ Bifogade filer:       Grundläggande granskning 2023_Kungsback_slutlig.pdf; Föl
 grundläggande granskning 2023 BN,FG,GA,IF,TE,
 MH,SE,VO,K&F,VL.pdf
 
-Från: Fanny Nilsson <Fanny.Nilsson@se.ey.com>
+Från: Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
 Skickat: den 3 april 2024 07:50
-Till: Kultur & Fritid <kulturochfritid@kungsbacka.se>; Bygg & Miljö bygglov admin
-<byggochmiljo.bygglovadmin@kungsbacka.se>; Förskola Grundskola
+Till: Kultur & Fritid \<kulturochfritid@kungsbacka.se>; Bygg & Miljö bygglov admin
+\<byggochmiljo.bygglovadmin@kungsbacka.se>; Förskola Grundskola
 
-<forskola.grundskola@kungsbacka.se>; Gymnasium & Arbetsmarknad
-<gymnasiumocharbetsmarknad@kungsbacka.se>; Individ & Familjeomsorg
-<individochfamiljeomsorg@kungsbacka.se>; Teknik <teknik@kungsbacka.se>; Miljö & Hälsoskydd admin
-<miljoochhalsoskydd.admin@kungsbacka.se>; Service <service@kungsbacka.se>; Vård & Omsorg
-<vardochomsorg@kungsbacka.se>; Sofia Jonsson <sofia.jonsson@kungsbacka.se>
-Kopia: Lotta Graden <lotta.graden@kungsbacka.se>; Kommunrevision
-<kommunrevision@kungsbacka.se>; Patrik Johansson <patrik.johansson2@kungsbacka.se>
+\<forskola.grundskola@kungsbacka.se>; Gymnasium & Arbetsmarknad
+\<gymnasiumocharbetsmarknad@kungsbacka.se>; Individ & Familjeomsorg
+\<individochfamiljeomsorg@kungsbacka.se>; Teknik \<teknik@kungsbacka.se>; Miljö & Hälsoskydd admin
+\<miljoochhalsoskydd.admin@kungsbacka.se>; Service \<service@kungsbacka.se>; Vård & Omsorg
+\<vardochomsorg@kungsbacka.se>; Sofia Jonsson \<sofia.jonsson@kungsbacka.se>
+Kopia: Lotta Graden \<lotta.graden@kungsbacka.se>; Kommunrevision
+\<kommunrevision@kungsbacka.se>; Patrik Johansson \<patrik.johansson2@kungsbacka.se>
 Ämne: Grundläggande granskning 2023 -slutlig
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -944,7 +944,7 @@ Kungsbacka kommun
 
 <!-- sida 27 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -994,7 +994,7 @@ valnämnden.
 
 <!-- sida 28 -->
 
-2. Redogörelse av granskningsresultat
+2\. Redogörelse av granskningsresultat
 
 På uppdrag av de förtroendevalda revisorerna har EY genomfört en grundläggande
 granskning av styrelse och nämnder i Kungsbacka kommun. Granskningen har genomförts
@@ -1272,11 +1272,11 @@ budgetår. Politikerna i kommunfullmäktige beslutar om direktiv som gäller und
 Direktiv gäller för särskilt, utpekat område där det krävs förändring.
 
 Kommunfullmäktiges mål
-1. En attraktiv kommun att bo, verka och vistas i
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
-4. I Kungsbacka utvecklas vi hela livet ut
-5. Ett medskapande samhälle och en öppen attityd
+1\. En attraktiv kommun att bo, verka och vistas i
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
+4\. I Kungsbacka utvecklas vi hela livet ut
+5\. Ett medskapande samhälle och en öppen attityd
 
 Målstyrning
 Varje nämnd ansvarar för att bidra till att de kommunövergripande målen nås. Eftersom målen
@@ -1652,11 +1652,11 @@ valgenomförandet och förtroendet för valgenomförandet.
 Valmyndigheten bjuder in till en digital utbildningsträff för att prata om rapportering av incidenter
 vid årets EU-val. Under den digitala sändningen kommer vi bland annat att ta upp:
 
--  Varför det är viktigt med incidentrapportering
--  Vilka avvikelser Valmyndigheten vill få vetskap om
--  Vilka incidenter som rapporterades till Valmyndigheten i samband med valen 2022
--  Hur Valmyndigheten använder inrapporterade incidenter
--  Hur incidentrapporteringen rent praktiskt kommer att gå till i år
+\-  Varför det är viktigt med incidentrapportering
+\-  Vilka avvikelser Valmyndigheten vill få vetskap om
+\-  Vilka incidenter som rapporterades till Valmyndigheten i samband med valen 2022
+\-  Hur Valmyndigheten använder inrapporterade incidenter
+\-  Hur incidentrapporteringen rent praktiskt kommer att gå till i år
 
  Tid: Torsdag 11 april kl. 13-14
 
@@ -1685,7 +1685,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 44 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:              den 3 april 2024 16:14
 Till:                  Brev: Val ValAdm
 Ämne:                 Val myndighetens nyhetsutskick v. 14
@@ -1740,7 +1740,7 @@ www.val.se
 
 <!-- sida 46 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 27 mars 2024 16:31
 Till:           Brev: Val ValAdm
 Ämne:           Nyhetsutskick v. 13
@@ -1843,7 +1843,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 48 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 20 mars 2024 15:36
 Till:           Brev: Val ValAdm
 Ämne:           VB: Nyhetsutskick v. 12
@@ -1864,9 +1864,9 @@ Telefon: 010-575 70 14
 
 www.val.se
 
-Från: Brev: Val ValAdm <valadm@val.se>
+Från: Brev: Val ValAdm \<valadm@val.se>
 Skickat: den 20 mars 2024 15:17
-Till: Brev: Val ValAdm <valadm@val.se>
+Till: Brev: Val ValAdm \<valadm@val.se>
 Ämne: Nyhetsutskick v. 12
 
 Hej,
@@ -1962,7 +1962,7 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 51 -->
 
-Från:                 Brev: Val ValAdm <valadm@val.se>
+Från:                 Brev: Val ValAdm \<valadm@val.se>
 Skickat:              den 13 mars 2024 15:25
 Till:                 Brev: Val ValAdm
 Ämne:                  Nyhetsutskick v. 11
@@ -2010,7 +2010,7 @@ www.val.se
 
 <!-- sida 52 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:              den 28 februari 2024 14:33
 Till:                  Brev: Val ValAdm
 Ämne:                  Nyhetsutskick v.9
@@ -2055,7 +2055,7 @@ Till:                 Val nämnden
 Ämne:                 VB: [Information från SKR] Tillfällig avvikelse från dygnsvila under
 EU-valet
 
-Från: Sveriges Kommuner och Regioner <utskick@skr.se>
+Från: Sveriges Kommuner och Regioner \<utskick@skr.se>
 Skickat: den 22 februari 2024 08:20
 Ämne: [Information från SKR] Tillfällig avvikelse från dygnsvila under EU-valet
 
@@ -2114,11 +2114,11 @@ juni 2024.
 
 Följande villkor gäller för tillståndet:
 
-1. Valaffischer får inte sättas upp utmed motorvägar, motor-
+1\. Valaffischer får inte sättas upp utmed motorvägar, motor-
 trafikleder och mötesfria landsvägar (”2+1-väg”) och inte
 heller på broar över sådana vägar.
 
-2. Valaffischer får inte placeras i kurvor, i cirkulationsplatser
+2\. Valaffischer får inte placeras i kurvor, i cirkulationsplatser
 
 eller i övrigt så att sikten skyms för fordonsförare och bör
 placeras minst 75 meter från vägkorsningar och cirkulations-
@@ -2126,7 +2126,7 @@ platser, minst 50 meter från vägmärken och trafiksignaler
 samt minst 5 meter från vägkanten, dock inte inom vägom-
 rådet.
 
-3. Valaffischer får inte ges sådan utformning att de kan
+3\. Valaffischer får inte ges sådan utformning att de kan
 förväxlas med vägmärken eller trafikanordningar.
 
 Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
@@ -2139,11 +2139,11 @@ Länsstyrelsen H allands län          Beslut                    2 (2)
 
 2024-02-19       945-2024
 
-4. Valaffischers storlek får inte överskrida 4 kvadratmeter.
+4\. Valaffischers storlek får inte överskrida 4 kvadratmeter.
 
-5. Valaffischer ska tas ner senast den 16 juni 2024.
+5\. Valaffischer ska tas ner senast den 16 juni 2024.
 
-6. I de fall kommunen är väghållare ska samråd ske med aktuell
+6\. I de fall kommunen är väghållare ska samråd ske med aktuell
 kommun (den kommunala nämnd som enligt väglagen fung-
 erar som väghållningsmyndighet).
 
@@ -2185,21 +2185,21 @@ Page 2 of 3
 
 Sändlista
 
-1. Arbetarpartiet-Socialdemokraterna: info.halland@socialdemokratarna.se
-2. Centerpartiet: halland@centarpartiet.se
-3. Kristdemokraterna: halland@kristdemokraterna.se
-4. Liberalerna: vastsverige@liberalerna.se
+1\. Arbetarpartiet-Socialdemokraterna: info.halland@socialdemokratarna.se
+2\. Centerpartiet: halland@centarpartiet.se
+3\. Kristdemokraterna: halland@kristdemokraterna.se
+4\. Liberalerna: vastsverige@liberalerna.se
 
-5. Miljöpartiet de gröna: info@mp.se
-6. Moderaterna: halland@moderaterna.se
-7. Sverigedemokraterna: info@sd.se
-8. Vänsterpartiet: halland@vansterpartiet.se
+5\. Miljöpartiet de gröna: info@mp.se
+6\. Moderaterna: halland@moderaterna.se
+7\. Sverigedemokraterna: info@sd.se
+8\. Vänsterpartiet: halland@vansterpartiet.se
 
 Page 3 of 3
 
 <!-- sida 57 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:              den 16 februari 2024 13:13
 Till:                  Brev: Val ValAdm
 Ämne:                  Valsedelssystemet ska utvärderas!
@@ -2229,7 +2229,7 @@ www.val.se
 
 <!-- sida 58 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 6 februari 2024 14:16
 Till:           Brev: Val ValAdm
 Ämne:           Nyhetsbrev från Valmyndigheten -nu i nytt format!

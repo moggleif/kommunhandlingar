@@ -49,11 +49,11 @@ Ledamöter
 
 Emanuel Forsell (M), Ordförande
 Elin Hysén (L), 1:e vice ordförande
-$$ 28-32
+\$\$ 28-32
 
 Johan Tolinsson (S), 2:e vice ordförande
 
-Paul Blomdahl (M) $$ 33-38
+Paul Blomdahl (M) \$\$ 33-38
 Mia Sundvall (M)
 
 Per Stenberg (M)
@@ -102,31 +102,31 @@ Klockan 16:00-19:25
 Tjänstgörande ersättare
 
 Ulrika Nyhlén (M) ersätter Paul
-Blomdahl (M) $$ 28-33
+Blomdahl (M) \$\$ 28-33
 
 Agnetha Törnberg (L) ersätter Elin
-Hysén (L) $$ 33-38
+Hysén (L) \$\$ 33-38
 
 Tjänstepersoner
 
-Frida Byrsten, verksamhetschef $$ 30,
+Frida Byrsten, verksamhetschef \$\$ 30,
 34, 35
 
-Ylla Hinsch, rektor $ 31
+Ylla Hinsch, rektor \$ 31
 
-Carl-Daniel Cregård, rektor $ 31
+Carl-Daniel Cregård, rektor \$ 31
 
-Leif Johansson, förstelärare $ 31
-Maria Serkitjis, förstelärare $ 31
-Hanna Höglund, förstelärare $ 31
-Susanne Lyckevall, enhetschef $ 32
+Leif Johansson, förstelärare \$ 31
+Maria Serkitjis, förstelärare \$ 31
+Hanna Höglund, förstelärare \$ 31
+Susanne Lyckevall, enhetschef \$ 32
 Maria Eriksson, biträdande
-förvaltningschef $ 32
+förvaltningschef \$ 32
 
-Ulrika Vildbaek, utvecklingsledare $
+Ulrika Vildbaek, utvecklingsledare \$
 33
 
-Magnus Sandberg, verksamhetschef $
+Magnus Sandberg, verksamhetschef \$
 35
 
 Stigert Pettersson, förvaltningschef
@@ -134,7 +134,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-$$ 28-38
+\$\$ 28-38
 
 Paragrafer
 
@@ -145,41 +145,41 @@ Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
 Innehåll
-$28 Dnr FG-2026-00014
+\$28 Dnr FG-2026-00014
 
 Fastställande av dagordning och val av juSterafe..............ssssssorsssororerrsssssnnn 3
-$29 Dnr FG-2026-00042
+\$29 Dnr FG-2026-00042
 
 Redovisning av inkomna skrivelser till nämnd 2026 s....sssssssssssserererserrrerres 4
-$30 Dnr FG-2026-00132
+\$30 Dnr FG-2026-00132
 
 Information - Skolinspektionens granskning Särö skOla.................sssssssssr0t 5
-$ 31 Dnr FG-2026-00113
+\$ 31 Dnr FG-2026-00113
 
 Information - ämnesveckor KapareskOlan.............sssssresssrrerrrrrrsessrrnnrrrerrnnnr 6
-$32 Dnr FG-2026-00088
+\$32 Dnr FG-2026-00088
 
 Växjökonferensen nationell mötesplats för skol och utbildningsfrågor,
 
 reflektionetr/CialOg .....essssssssererrsrsererererrrrererrrreserrrersrrnrrerrrrrrrrrrr rer rr n rer rrr rr rn rna 7
-$33 Dnr FG-2026-00082
+\$33 Dnr FG-2026-00082
 
 Rapportering olycksfall och tillbud I.ssssssssssssersressererersrerrnrsernrnersrrrnrerrrrrrrrnrrn 9
-$ 34 Dnr FG-2025-00705
+\$ 34 Dnr FG-2025-00705
 
 Skolinspektionen - Riktad tillsyn av Toråsskolan 4-6 SI Dnr 2025:10487 10
-$35 Dnr FG-2026-00083
+\$35 Dnr FG-2026-00083
 
 Patientsäkerhetsberättelse 2025 =lnssosssssssersressrersrsererreserrrrsrrrrrrrrrrrerrrr rr rn nn 11
-$36 Dnr FG-2026-00143
+\$36 Dnr FG-2026-00143
 
 Initiativärende (S). Åtgärder för att öka andelen behöriga elever till
 
 [2314 881072 KSS TS RR 13
-$37 Dnr FG-2026-00018
+\$37 Dnr FG-2026-00018
 
 Delegeringsbeslut antagna av nämnden 20206..............sssssssssserrsserrrrrrrssrsnnr 15
-$ 38 Dnr FG-2026-00016
+\$ 38 Dnr FG-2026-00016
 
 Information - Förskola & Grundskola arbetsutskott och nämnd :............... 16
 
@@ -197,7 +197,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 28 Dnr FG-2026-00014
+\$ 28 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -227,7 +227,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 29 Dnr FG-2026-00042
+\$ 29 Dnr FG-2026-00042
 Redovisning av inkomna skrivelser till nämnd 2026
 
 Beslut
@@ -255,7 +255,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 30 Dnr FG-2026-00132
+\$ 30 Dnr FG-2026-00132
 Information - Skolinspektionens granskning Särö skola
 
 Beslut
@@ -297,7 +297,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 31 Dnr FG-2026-00113
+\$ 31 Dnr FG-2026-00113
 Information - ämnesveckor Kapareskolan
 
 Beslut
@@ -333,7 +333,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7.16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 32 Dnr FG-2026-00088
+\$ 32 Dnr FG-2026-00088
 
 Växjökonferensen nationell mötesplats för skol och utbildningsfrågor,
 reflektioner/dialog
@@ -414,7 +414,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 33 Dnr FG-2026-00082
+\$ 33 Dnr FG-2026-00082
 Rapportering olycksfall och tillbud 1
 
 Beslut
@@ -456,7 +456,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 34 Dnr FG-2025-00705
+\$ 34 Dnr FG-2025-00705
 Skolinspektionen - Riktad tillsyn av Toråsskolan 4-6 SI Dnr 2025:10487
 
 Paragrafen justeras i separat protokoll.
@@ -552,7 +552,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (16)
 
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
-$ 36 Dnr FG-2026-00143
+\$ 36 Dnr FG-2026-00143
 Initiativärende (S). Åtgärder för att öka andelen behöriga elever till
 gymnasiet
 Beslut
@@ -637,7 +637,7 @@ Ersätter Ja Nej
 
 Emanuel Forsell (M) xX
 
-><
+\><
 
 Agneta Törnberg (L) Elin Hysén (L)
 
@@ -681,7 +681,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 37 Dnr FG-2026-00018
+\$ 37 Dnr FG-2026-00018
 Delegeringsbeslut antagna av nämnden 2026
 
 Beslut
@@ -720,7 +720,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (16)
 Nämnden för Förskola & Grundskola Datum
 2026-03-18
 
-$ 38 Dnr FG-2026-00016
+\$ 38 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Beslut

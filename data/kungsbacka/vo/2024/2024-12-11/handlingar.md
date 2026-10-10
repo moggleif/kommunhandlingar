@@ -51,9 +51,9 @@ funktionsupphandling underställs nämnden i december.
 
 Utredningen om driftsformer inom särskilt boende fokuserar på tre frågor.
 
-1. Vad innebär de olika driftsformerna inom särskilt boende?
-2. Vilka förutsättningar krävs för de olika driftsformerna?
-3. Vilka konsekvenser kan förväntas med respektive driftsform?
+1\. Vad innebär de olika driftsformerna inom särskilt boende?
+2\. Vilka förutsättningar krävs för de olika driftsformerna?
+3\. Vilka konsekvenser kan förväntas med respektive driftsform?
 
 Utredningen visar att rådighet över fastigheter är direkt avgörande för vilka driftsformer som kan
 användas. För att privata aktörer ska kunna ingå i ett valfrihetssystem enligt LOV, eller sälja platser
@@ -154,12 +154,12 @@ valfrihetssystem enligt LOV eller vinna en offentlig upphandling enligt LOU, ant
 verksamhet (s.k. driftentreprenad) eller enstaka platser genom ramavtal.2
 Sammantaget finns därmed fyra tänkbara driftsformer för SÄBO.
 
-1. Egenregi
+1\. Egenregi
 
-2. Driftentreprenad enligt LOU
-3. Ramavtal anseende enstaka platser enligt LOU
+2\. Driftentreprenad enligt LOU
+3\. Ramavtal anseende enstaka platser enligt LOU
 
-4. Valfrihetssystem enligt LOV
+4\. Valfrihetssystem enligt LOV
 I Kungsbacka kommun tillämpas för närvarande två av dessa för SÄBO, här benämnda vård- och
 omsorgsboende (hädanefter: VÅBO): egenregi (tio st.) och driftentreprenad enligt LOU (två st).
 
@@ -188,11 +188,11 @@ kontinuerligt ska pröva och ta ställning till i vilken form deras verksamhet s
 
 Föreliggande rapport syftar till att ge nämnden den information som behövs för att fatta beslut om
 driftsformer inom VÅBO. För att uppnå syftet ska utredningen besvara tre frågor:
-1. Vad innebär de olika driftsformerna?
+1\. Vad innebär de olika driftsformerna?
 
-2. Vilka förutsättningar krävs för att de olika driftsformerna ska kunna användas?
+2\. Vilka förutsättningar krävs för att de olika driftsformerna ska kunna användas?
 
-3. Vilka konsekvenser, såväl önskvärda som icke önskvärda, kan förväntas med respektive
+3\. Vilka konsekvenser, såväl önskvärda som icke önskvärda, kan förväntas med respektive
 driftsform?
 
 1.2 Metod
@@ -315,10 +315,10 @@ angelägenheter till privata utförare.7 Med privat utförare avses en juridisk 
 som mottagit uppdraget om skötseln av en kommunal angelägenhet. Kommunen kan överlämna
 uppdrag att tillhandahålla VÅBO på tre sätt:
 
-1. Driftentreprenad upphandlad enligt LOU (”Driftentreprenad”)
-2. Köp av platser genom ramavtal upphandlat enligt LOU (”Ramavtal”)
+1\. Driftentreprenad upphandlad enligt LOU (”Driftentreprenad”)
+2\. Köp av platser genom ramavtal upphandlat enligt LOU (”Ramavtal”)
 
-3. Valfrihetssystem enligt LOV (LOV)
+3\. Valfrihetssystem enligt LOV (LOV)
 De olika driftformerna kräver olika förutsättningar och svarar mot olika behov och önskemål. En
 direkt avgörande förutsättning för vilken driftform som är möjlig, är vem (kommun eller privat aktör)
 som har rådighet över fastigheter som inrymmer VÅBO. Med ”rådighet över fastigheter” menas att
@@ -481,12 +481,12 @@ Själva syftet med LOV är att den enskilde ska ges möjlighet att välja utför
 vill, och ersättningen till utföraren följer den enskildes val. Till skillnad från driftentreprenad, som
 
 har en strikt tvåpartsrelation mellan beställare och utförare, finns i LOV tre parter:
-1. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar att utförare
+1\. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar att utförare
 följer avtal.
 
-2. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd utförare av någon
+2\. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd utförare av någon
 anledning.
-3. Utföraren. Utför avtalade uppgifter.
+3\. Utföraren. Utför avtalade uppgifter.
 
 I ett valfrihetssystem enligt LOV så måste kommunen ange ett i förväg bestämt ”ickevals-alternativ”.
 Man behöver också inrätta någon typ av ”omsorgslots”, som kan guida omsorgstagare bland de olika
@@ -715,7 +715,7 @@ Kungsbacka kommun            Rapportmall                       16
 | Driftsansvar | Kommunen | Privat aktör | Privat aktör | Privat aktör |
 | Arbetsgivaransvar | Kommunen | Privat aktör | Privat aktör | Privat aktör |
 | Huvudmannaskap | Kommunen | Kommunen | Kommunen | Privat aktör |
-| Avtalslängd | Ej relevant19 | Max 4+4 år | Längre,<br><tillsvidare | Max 4 år |
+| Avtalslängd | Ej relevant19 | Max 4+4 år | Längre,<br>\<tillsvidare | Max 4 år |
 | Lagrum för upphandling | Ej relevant | LOU | LOV | LOU |
 | (Grovt uppskattad) Kostnad | Medel | Lägst | Medel | Högst |
 
@@ -1025,7 +1025,7 @@ Trelleborgs kommun, ”Tjänsteskrivelse LOV”, 2020-02-25.
 Trelleborgs kommun, ”Införande av LOV i särskilt boende inom äldrevården.”, 2020.
 
 Uppsala kommun, ”Förfrågningsunderlag för särskilt boende i Uppsala kommuns valfrihetssystem”,
-2021.
+2021\.
 Uppsala kommun, ”Översyn av boendeformer inom äldreomsorgen”, 2022. Dnr. ALN-2021-00414.
 
 Vårdföretagarna. ”RAPPORT Privata aktörer som bygger och driver särskilda boenden”, 2022.
@@ -1174,20 +1174,20 @@ Kungsbacka kommun            Rapportmall                        3
 Lagen om offentlig upphandling (LOU) reglerar hur en kommun får genomföra upphandlingar.
 Upphandlingsförfarandet ska innehålla ett antal olika moment, oavsett vilken vara eller tjänst som
 upphandlas.
-1. Behov identifieras och beslut fattas om att upphandla vare eller tjänst för att svara mot
+1\. Behov identifieras och beslut fattas om att upphandla vare eller tjänst för att svara mot
 behov.
 
-2. Förfrågningsunderlag formuleras.
-3. Annons utarbetas och offentliggörs för potentiella leverantörer. I annonsen ska
+2\. Förfrågningsunderlag formuleras.
+3\. Annons utarbetas och offentliggörs för potentiella leverantörer. I annonsen ska
 
 •  vara eller tjänst (det som ska levereras) beskrivas detaljerat, och
 
 •  upphandlingsprocessen och utvärderingskriterier för anbud tydligt framgå.
-4. Anbud inkommer och utvärderas av upphandlande myndighet utifrån utvärderingsgrunder
+4\. Anbud inkommer och utvärderas av upphandlande myndighet utifrån utvärderingsgrunder
 och -kriterier.
 
-5. Avtal tecknas med leverantör.
-6. Under avtalstid övervakar beställaren att leverans sker i enlighet med avtal.
+5\. Avtal tecknas med leverantör.
+6\. Under avtalstid övervakar beställaren att leverans sker i enlighet med avtal.
 
 Förfrågningsunderlaget utformning är avgörande för om upphandlingen ska bli framgångsrik. Ett väl
 utarbetat förfrågningsunderlag borgar för att de anbud som kommer in svarar mot de behov som
@@ -1594,7 +1594,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 41 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 I nämnden för Vård & Omsorgs konkurrensutsättningsplan anges att förvaltningen
 årligen ska ta fram förslag till Årsplan för konkurrensutsättning av verksamhet för
@@ -1606,7 +1606,7 @@ en långsiktig planering gällande konkurrensutsättning av nämndens verksamhet
 I dagsläget är två av Vård & Omsorgs verksamheter konkurrensutsatta: vård- och
 omsorgsboenden (VÅBO) och hemtjänst.
 
-2. Nuläge
+2\. Nuläge
 
 Vård- och omsorgsboenden (VÅBO)
 I centrum finns två av kommunens VÅBO, Björkris och Signeshus vård- och
@@ -1663,7 +1663,7 @@ Kungsbacka kommun     Årsplan för konkurrensutsättning av verksamhet 2025 3 (
 
 <!-- sida 43 -->
 
-3. Utredning  om  driftsystem   inom  särskilt
+3\. Utredning  om  driftsystem   inom  särskilt
 boende  och  funktionsupphandling
 
 Nämnden för Vård & omsorg beslutade i mars 2024 att uppdra åt förvaltningen att
@@ -1683,7 +1683,7 @@ planerings- och beslutsprocess.
 Den andra delen av utredningen, funktionsupphandling inom samtliga verksamheter,
 återrapporteras på nämndens sammanträde i december 2024.
 
-4. Beslutad  upphandling
+4\. Beslutad  upphandling
 
 På nämndens sammanträde i mars 2024 beslutades att förlänga avtalet med
 Vardaga Äldreomsorg AB gällande Ekhaga och Vickan vård- och omsorgsboenden
@@ -1691,13 +1691,13 @@ för perioden 2025-03-31 – 2026-03-31. Samtidigt fick förvaltningen i uppdrag
 förbereda ny upphandling av dessa boenden för efterföljande period. Denna
 upphandling kommer att genomföras under 2025.
 
-5. Konkurrensutsättning    av kommunal     drift
+5\. Konkurrensutsättning    av kommunal     drift
 
 Nämnden ser en möjlighet att i kommande upphandlingar av driftentreprenad av
 VÅBO också inkludera Hälso- och sjukvården (HSL) och inte bara socialtjänst.
 Konsekvenser och former för sådan upphandling analyseras under 2025.
 
-6. Egenregianbud
+6\. Egenregianbud
 
 I enlighet med kommunens Policy för konkurrensprövning ska nämnden fatta beslut
 om den kommunala regin ska tillåtas att lämna anbud i nämndens
@@ -2040,8 +2040,8 @@ risk ej tas till plan
 Kommunövergrip                  3. Kännbar Risken adresseras
 ande risk: It-               (uppfattas som inom ramen för
 säkerhet                     besvärande för förvaltningens
-2. Mindre vanligt
-- Bristande                       berörda systematiska
+2\. Mindre vanligt
+\- Bristande                       berörda systematiska
 driftmiljö hos              intressenter och informationssäkerh
 leverantörer                   kommunen) etsarbete
 
@@ -2107,7 +2107,7 @@ Leva livet-priset 2024
 Förslag till beslut i Nämnden för Vård & Omsorg
 
 Nämnden för Vård & Omsorg utser arbetslaget vid Kullaviks hemtjänst till vinnare av Leva livet-priset
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -3805,7 +3805,7 @@ Tidplan 2025 - Ändring av datum för sammanträdesdagen 28 augusti 2025
 Förslag till beslut
 Nämnden för Vård & Omsorg flyttar nämndens sammanträde den 28 augusti till den 4 september
 
-2025.
+2025\.
 
 Sammanfattning av ärendet
 

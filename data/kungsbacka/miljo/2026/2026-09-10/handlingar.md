@@ -901,7 +901,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 20 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -2922,7 +2922,7 @@ heltidsanställning och den genomsnittliga sysselsättningsgraden uppgår till d
 
 Budgetomslutningen 2027 är cirka 90 miljoner kronor varav drygt 80 procent utgörs av personalkostnader.
 Verksamheten finansieras till drygt 50 procent av avgifter. Nämnden har en nettobudget på 42 miljoner kronor
-2027.
+2027\.
 
 1.3 Nämnd/styrelse
 
@@ -3366,10 +3366,10 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -3377,11 +3377,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 11
 
@@ -3395,8 +3395,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -3404,8 +3404,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
@@ -3413,10 +3413,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 12
 
@@ -3445,15 +3445,15 @@ risktagande. Vi behöver utmana nuvarande arbetssätt och testa saker som vi ald
 misslyckas många gånger innan vi träffar rätt.
 Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att förnya verksamheten genom att:
 
-- Bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och medskapande
-- Aktivt samverka med invånare, civilsamhälle, näringsliv, akademi samt andra offentliga aktörer för att hitta
+\- Bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och medskapande
+\- Aktivt samverka med invånare, civilsamhälle, näringsliv, akademi samt andra offentliga aktörer för att hitta
 lösningar
-- Öka andelen målsökande utvecklingsinitiativ med fokus på förnyelse och extern nytta
-- Skala upp nya arbetssätt och säkerställa att nyttan realiseras
-- Utgå från digitalt först
-- Kompetensutveckla och förstärka med nya kompetenser
-- Skapa ändamålsenliga tekniska förutsättningar
-- Säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
+\- Öka andelen målsökande utvecklingsinitiativ med fokus på förnyelse och extern nytta
+\- Skala upp nya arbetssätt och säkerställa att nyttan realiseras
+\- Utgå från digitalt först
+\- Kompetensutveckla och förstärka med nya kompetenser
+\- Skapa ändamålsenliga tekniska förutsättningar
+\- Säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
 
 6.1.2 Direktiv - Civil beredskap
@@ -3488,12 +3488,12 @@ sina egna förutsättningar tar ansvar för sin säkerhet. Det man har ansvar f�
 vid kris eller krig.
 Samtliga nämnder förväntas:
 
-- Driva ett aktivt arbete med att både planera och investera i civil beredskap utifrån sina behov.
-- Samverka med frivilligorganisationer och civilsamhället.
-- I förekommande fall samverka med näringslivet.
-- Säkerställa att tillämpliga upphandlingar och nya leverantörsavtal är utformade så att de omhändertar behovet
+\- Driva ett aktivt arbete med att både planera och investera i civil beredskap utifrån sina behov.
+\- Samverka med frivilligorganisationer och civilsamhället.
+\- I förekommande fall samverka med näringslivet.
+\- Säkerställa att tillämpliga upphandlingar och nya leverantörsavtal är utformade så att de omhändertar behovet
 av lagerhållning och redundans kopplat till en kris- eller krigssituation.
-- I förekommande fall lokalisera, peka ut och påbörja upprustning av trygghetspunkter.
+\- I förekommande fall lokalisera, peka ut och påbörja upprustning av trygghetspunkter.
 
 Under 2026 förväntas arbetet med robusta lokaler och trygghetspunkter vara i full gång. Alliansen i Kungsbacka
 avsätter 20 miljoner årligen under 2026, 2027 och 2028 till kommunens finansverksamhet för investeringar för
@@ -3513,7 +3513,7 @@ som jobbar i våra yttre verksamheter. Exempel på detta kan vara medarbetare p�
 hemtjänsten. Satsningen bör utformas i samråd med fackliga parter och utvärderas under 2027 med
 utgångspunkten att det framöver ska utgöra ett varaktigt inslag.
 
-- Kommunstyrelsen får i uppdrag att genomföra en särskild satsning för att möjliggöra träning eller motsvarande
+\- Kommunstyrelsen får i uppdrag att genomföra en särskild satsning för att möjliggöra träning eller motsvarande
 friskvårdsaktivitet i anslutning till arbetsdagen. Satsningen ska särskilt utformas för att möjliggöra deltagande
 av de medarbetare som arbetar på obekväma tider och i alla kommunens verksamheter.
 
@@ -3532,7 +3532,7 @@ för föreningslivet förbättras. Nyttjandegraden ska öka, särskilt under kv�
 lokaler idag står
 outnyttjade. Enskilda verksamheter ska inte kunna begränsa tillgängligheten utan tydliga skäl.
 I uppdraget ingår att:
-- Tydliggöra ansvar och mandat för upplåtelse av lokaler, så att enskilda verksamheter inte ensidigt kan begränsa
+\- Tydliggöra ansvar och mandat för upplåtelse av lokaler, så att enskilda verksamheter inte ensidigt kan begränsa
 
 14
 
@@ -3542,11 +3542,11 @@ Byggnadsnämnden                                  Kungsbacka kommun
 Nämndbudget 2027
 
 tillgängligheten,
-- Säkerställa att föreningsliv och civilsamhälle ges förbättrad tillgång till kommunens lokaler på likvärdiga och
+\- Säkerställa att föreningsliv och civilsamhälle ges förbättrad tillgång till kommunens lokaler på likvärdiga och
 transparenta villkor,
-- Utveckla incitament och styrmodeller som främjar samutnyttjande mellan verksamheter,
-- Förenkla bokningsprocesser och öka digital tillgänglighet till lediga lokaler,
-- Beakta trygghet, säkerhet och arbetsmiljö i samband med ökat nyttjande.
+\- Utveckla incitament och styrmodeller som främjar samutnyttjande mellan verksamheter,
+\- Förenkla bokningsprocesser och öka digital tillgänglighet till lediga lokaler,
+\- Beakta trygghet, säkerhet och arbetsmiljö i samband med ökat nyttjande.
 Vid ny- och ombyggnation ska lokaler planeras för flexibilitet och multifunktionalitet. Särskilt fokus ska läggas
 på att utveckla gemensamma och flexibla arbetsplatser för olika verksamheter, i syfte att stärka samverkan och
 använda
@@ -3568,11 +3568,11 @@ omfattande
 till
 förmån för handlingskraft och genomförande.
 I uppdraget ingår att:
-- Minska onödig administration och interna processer som inte skapar tydligt värde.
-- Handläggningstider i prioriterade ärenden ska minska, i samtliga nämnder.
-- Främja en kultur som uppmuntrar handlingskraft, tillit och professionella bedömningar.
+\- Minska onödig administration och interna processer som inte skapar tydligt värde.
+\- Handläggningstider i prioriterade ärenden ska minska, i samtliga nämnder.
+\- Främja en kultur som uppmuntrar handlingskraft, tillit och professionella bedömningar.
 • Identifiera och avveckla regelverk, rutiner och arbetssätt som skapar -nödigt krångel.
-- Medarbetares tid för administration ska minska till förmån för kärnverksamhet.
+\- Medarbetares tid för administration ska minska till förmån för kärnverksamhet.
 I uppdraget ingår att identifiera, förenkla eller avskaffa arbetssätt och regelverk som inte skapar tydligt värde,
 samt att
 stärka en kultur av tillit, ansvar och professionella bedömningar. Arbetet ska bidra till frigjord tid för

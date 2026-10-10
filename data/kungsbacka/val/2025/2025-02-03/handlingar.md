@@ -157,7 +157,7 @@ Plan  2027-2028
 
 Nämndens möjligheter, utmaningar och förändringar 2026, Plan 2027-2028
 År 2026 är det valår. Valet till riksdag, kommun- och regionfullmäktige infaller söndagen den 13 september
-2026. Valkansliet arbete och planering påbörjas vintern 2025/2026.
+2026\. Valkansliet arbete och planering påbörjas vintern 2025/2026.
 Valmyndigheten anser att valsystemet är i behov av förändringar för att förenkla, förbättra och skapa ett mindre
 sårbart system. En parlamentariskt sammansatt kommitté har i uppdrag att utvärdera och överväga förändringar
 av valsedelsystemet, inklusive att analysera för- och nackdelar med att övergå till ett system med gemensamma
@@ -595,7 +595,7 @@ Beskrivning av ärendet
 
 Enligt kommunallagen och reglementet för nämnderna ansvarar nämnderna för att den interna
 kontrollen är tillräcklig och utformad så att en rimlig grad av säkerhet uppnås:
-- efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
+\- efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
 
 1 (2)
 Kungsbacka kommun                                         Kungsbacka kommun
@@ -611,12 +611,12 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-- ändamålsenlig och kostnadseffektiv verksamhet
+\- ändamålsenlig och kostnadseffektiv verksamhet
 
-- tillförlitlig finansiell rapportering och information om verksamheten
+\- tillförlitlig finansiell rapportering och information om verksamheten
 
-- skydd mot förluster eller förstörelse av kommunens tillgångar
-- eliminering eller upptäckande av allvarliga fel
+\- skydd mot förluster eller förstörelse av kommunens tillgångar
+\- eliminering eller upptäckande av allvarliga fel
 
 Risk kan i det här sammanhanget definieras som ”händelser och företeelser som hotar eller hindrar att
 uppdrag kan genomföras och att mål för verksamheten nås samt att det sker på avsett och säkert sätt”.
@@ -856,7 +856,7 @@ Valnämnden har inget att rapportera.
 
 <!-- sida 30 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 12 december 2024 10:00
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.50
@@ -902,7 +902,7 @@ www.val.se
 
 <!-- sida 32 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 27 november 2024 16:28
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 48
@@ -917,7 +917,7 @@ läsa hela nyheten. Nyheter publiceras löpande på Valcentralen. Välj att sort
 för att få fram nyheter specifikt för er.
 
 Vi vill också meddela att det kommer ett digitalt utbildningstillfälle om valgeografi under januari månad
-2025. Datum kommer meddelas via nyhet på Valcentralen och läggas in i kalendern innan jul.
+2025\. Datum kommer meddelas via nyhet på Valcentralen och läggas in i kalendern innan jul.
 
 Ny valgeografi-fil publicerad i Valid
 I Valid kan kommuner och länsstyrelser nu ladda ner GIS-filer att använda som underlag för
@@ -941,7 +941,7 @@ Valmyndigheten
 
 <!-- sida 33 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 8 januari 2025 13:15
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v. 2

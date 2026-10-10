@@ -163,20 +163,20 @@ Synpunkter avseende kommunal service
 När det gäller att befästa och utveckla den kommunala servicen finns önskemål att följande områden
 nyanseras ytterligare i textform. Dessa områden är ytterst viktiga att behålla och utveckla om
 kommunen skall i framtiden klara av att erbjuda kommunal service inom strategiska lägen;
-1. Hedeskolan
+1\. Hedeskolan
 
-2. Gullregnskolan med utvidgat område som tar del av allmän platsmark i anspråk
-3. Hålabäcksskolan
+2\. Gullregnskolan med utvidgat område som tar del av allmän platsmark i anspråk
+3\. Hålabäcksskolan
 
-4. Forsgläntan/Hundrastgården med utvidgat område som tar del av allmän platsmark i anspråk
+4\. Forsgläntan/Hundrastgården med utvidgat område som tar del av allmän platsmark i anspråk
 
-5. Tingbergsskolan
+5\. Tingbergsskolan
 
 De nya områden som kommer behöva kommunal service behöver kompletteras på följande;
-1. Det finns ett uppdämt behov av flera anläggningar för idrotts- och fritidsändamål. Förslaget är
+1\. Det finns ett uppdämt behov av flera anläggningar för idrotts- och fritidsändamål. Förslaget är
 att skapa ett nav för detta på östra sidan av Göteborgsvägen.
 
-2. Planförslaget innehåller tre områden för kommunal service Voxlöv, dessa kan reduceras då
+2\. Planförslaget innehåller tre områden för kommunal service Voxlöv, dessa kan reduceras då
 behovet bedöms ej vara så omfattande.
 
 <!-- sida 5 -->
@@ -911,7 +911,7 @@ staden. För att veta när det är dags att göra det finns ett prognossystem me
 
 För att långsiktigt skydda staden mot höga havsnivåer har vi fattat ett inriktningsbeslut om att anlägga
 ett yttre översvämningsskydd. Beslutet togs av kommunfullmäktige i vår klimatstrategi som antogs
-2022. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
+2022\. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
 förutsättningarna för ett skydd i tre alternativa lägen; vid Inlagsleden, vid E6:an och en bit ut i
 Kungsbackafjorden. Samtliga innebär en invallning mot havet med en port i Kungsbackaån som
 
@@ -984,7 +984,7 @@ som det minsta nyplanerad byggnation ska vara dimensionerad för att klara av.
 
 <!-- sida 27 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. **Rekommenderat av
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. \*\*Rekommenderat av
 MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag. Skyfallskarteringen för Kungsbacka använder
 klimatfaktor 1,35.
 
@@ -1011,7 +1011,7 @@ möjliga att tillåta i de fall det är motiverat.
 
 Planeringsnivåer utifrån dimensionerande händelser.
 
-Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). *Ytterligare 0,4 m för att illustrera
+Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). \*Ytterligare 0,4 m för att illustrera
 rimlig planeringsnivå för tidshorisont 2150 (0,4 m = ökning av havets medelvattenstånd år 2100-2150
 
 20
@@ -1608,7 +1608,7 @@ Inre zoner för parkeringstal för bostäder. I takt med att staden växer
 och kollektivtrafiken utvecklas kan zonerna förändras.
 Tabellerna nedan anger min- och maximital för parkering i Kungsbacka stad.
 
-*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
+\*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
 
 För de exploatörer som vill erbjuda sina boende andra mobilitetslösningar än bilparkering så finns
 det möjlighet att sänka parkeringstalen med upp till 0,3 bilplats per lägenhet genom att genomföra
@@ -1618,7 +1618,7 @@ mobilitetsåtgärder.
 
 <!-- sida 43 -->
 
-* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
+\* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
 
 Vår utgångspunkt är att vid exploatering bevara områden eller objekt som har stort värde för
 biologisk mångfald eller en viktig social funktion. Den som bygger bort ekosystemtjänster ska
@@ -3342,7 +3342,7 @@ riksintresset E6.
 Under följande kapitel beskrivs övriga konsekvenser som planförslaget kan ha på olika aspekter inom
 miljö, människors hälsa samt naturresurser.
 
-Biologisk _mångfald _o ch _grön _infrastruktur
+Biologisk \_mångfald \_o ch \_grön \_infrastruktur
 Biologisk mångfald innebär en stor variation av växter och djur vilket är nödvändigt för att säkerställa
 
 ekosystemens funktion och motståndskraft. Bevarandet och utvecklandet av biologisk mångfald är
@@ -3388,7 +3388,7 @@ Ljussättningens påverkan på stadsnära djurliv bör utredas vidare. Riktlinje
 miljöer och kommunala byggnader kan minimera negativ påverkan.
 
 Konflikten mellan tillgänglighet längs åarna och naturvärden bör studeras vidare.
-Förorenad_ mark
+Förorenad\_ mark
 Kungsbacka har likt alla städer en historisk markanvändning som i olika mån gett upphov till risker med
 markföroreningar. I Kungsbacka är det dock inte lika utbrett som på många andra håll eftersom det inte
 
@@ -3589,7 +3589,7 @@ Sandsjöbacka. Området är även skyddat som naturreservat och Natura 2000-omr�
 
 <!-- sida 79 -->
 
-Riksintressen,_ 4_k apitlet_ miljöbalken
+Riksintressen,\_ 4_k apitlet\_ miljöbalken
 
 Riksintressen enligt 4 kapitlet miljöbalken gäller större områden med stora natur- och kulturvärden
 och värden för friluftslivet.
@@ -4105,7 +4105,7 @@ skogen
 Kollektivtraf .k förändring
 t
 / Busskörfält
-..      _
+..      \_
 ,." Busspriontet
 Gång och cykel
 i N ga• ng- oc h cy.k..e lkoppllng
@@ -4121,13 +4121,13 @@ i Pendelcykelstråk
 Utre dning trafik
 -·
 [:.: Utred n ingsomra• d en för trafik
-.,.._ Utredningsomr åde för framtida
+.,..\_ Utredningsomr åde för framtida
 "'.. sia1 1· 0 n
 Natur oc h rekreation
 La• ngsI· kt·Igt säkerställda
 grönområden
 ./ Gröna upplevelser
-� / S re tö k r r r e e a u tio tv n e s c v k .a !_ i r nie � v och/eller
+� / S re tö k r r r e e a u tio tv n e s c v k .a !\_ i r nie � v och/eller
 •
 biologi· sk mangf ald
 Natur och aree Ila näringar
@@ -4395,7 +4395,7 @@ fullmakt att underteckna avtalet.
 Beslut om uppdatering av delegeringsförteckning innefattar förändringar enligt nedan:
 
 • Kap 2.1 Allmänt
-- 2.1.6
+\- 2.1.6
 Dataskyddsförordningen GDPR, artikel 28
 Teckna personuppgiftsbiträdesavtal
 
@@ -4403,7 +4403,7 @@ Tillägg i delegation från förvaltningschef med rätt att vidaredelegera.
 Ny kommentar: Rätten att vidaredelegera gäller tecknande av personuppgiftsbiträdesavtal
 för digital infrastruktur.
 
-- 2.1.7 (Ny delegering)
+\- 2.1.7 (Ny delegering)
 Dataskyddsförordningen GDPR, artikel 28
 
 Hantering av personuppgifter Riktlinjer, Kommunfullmäktige 2024-03-05 § 33
@@ -4411,7 +4411,7 @@ Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala tjänster och 
 Kommentar: Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala tjänster
 och system.
 
-- 2.1.8 (Ny delegering)
+\- 2.1.8 (Ny delegering)
 Dataskyddsförordningen GDPR, artikel 28
 Hantering av personuppgifter Riktlinjer, Kommunfullmäktige 2024-03-05 § 33
 
@@ -4420,7 +4420,7 @@ ska användas gemensamt med en eller flera andra nämnder.
 Kommentar: Fullmakt får ges till tjänsteman som ska vara systemägare för den digitala
 tjänsten eller systemet.
 
-- 2.1.15
+\- 2.1.15
 
 Nämndens budget, Regler och riktlinjer för förmåner till förtroendevalda
 Deltagande i aktivitet för ordförande, vice ordförande, ledamot och ersättare i nämnden.
@@ -5091,26 +5091,26 @@ Nämnden ska ta initiativ till utveckling och effektivisering samt skapa föruts
 för att antagna mål, program och planer kan genomföras.
 
 § 2 Allmänna uppgifter
-1. Nämnden ska arbeta för långsiktigt hållbar utveckling ur ekonomiskt, socialt
+1\. Nämnden ska arbeta för långsiktigt hållbar utveckling ur ekonomiskt, socialt
 och ekologiskt perspektiv.
 
-2. Nämnden ska, inom ramen för sitt uppdrag, uppdatera och förenkla sitt
+2\. Nämnden ska, inom ramen för sitt uppdrag, uppdatera och förenkla sitt
 regelbestånd.
-3. Nämnden ska kontinuerligt följa upp lagstiftningen inom nämndens
+3\. Nämnden ska kontinuerligt följa upp lagstiftningen inom nämndens
 verksamhetsområde och vidta de åtgärder som krävs.
-4. Nämnden ska utveckla brukarinflytandet och dialogen med
+4\. Nämnden ska utveckla brukarinflytandet och dialogen med
 kommuninvånarna.
-5. Nämnden ska samråda med övriga kommunala nämnder, andra
+5\. Nämnden ska samråda med övriga kommunala nämnder, andra
 myndigheter och med enskilda organisationer som berörs av nämndens
 verksamhetsområde.
-6. Nämnden ska i möjligaste mån från annan nämnd erhålla den information
+6\. Nämnden ska i möjligaste mån från annan nämnd erhålla den information
 och det underlag den behöver i sin verksamhet. Rätten till information och
 underlag omfattar inte uppgift för vilken sekretess råder.
-7. Nämnden ska följa utvecklingen inom sitt verksamhetsområde och ska hos
+7\. Nämnden ska följa utvecklingen inom sitt verksamhetsområde och ska hos
 kommunfullmäktige, kommunstyrelsen eller annan nämnd lägga fram de
 förslag som behövs.
-8. Nämnden ska lämna yttranden som berör dess verksamhet.
-9. Nämnden har till uppgift att underhålla och förvalta den lösa egendomen
+8\. Nämnden ska lämna yttranden som berör dess verksamhet.
+9\. Nämnden har till uppgift att underhålla och förvalta den lösa egendomen
 som faller under nämndens förvaltning.
 
 Kungsbacka kommun Gemensamt reglemente för kommunstyrelsen och nämnder i Kungsbacka kommun 2 (11)
@@ -5143,9 +5143,9 @@ Personuppgiftsansvariga nämnder ska utse dataskyddsombud.
 kommunfullmäktige
 Nämnder ska redovisa till kommunfullmäktige hur de har fullgjort de uppdrag som
 kommunfullmäktige har lämnat till dem
--  i reglemente,
+\-  i reglemente,
 
--  genom finansbemyndigande.
+\-  genom finansbemyndigande.
 
 Nämnden ska vid redovisningen även redogöra för hur uppdrag som delegerats till
 den fullgjorts.
@@ -5215,22 +5215,22 @@ nämnden.
 § 15 Ordförandens uppgifter
 Det är ordförandens uppgift att svara för ledning, samordning och övervakning av
 nämndens samlade verksamhet. Detta innebär bland annat att:
-1. kalla till sammanträde enligt lag och reglemente
+1\. kalla till sammanträde enligt lag och reglemente
 
 Kungsbacka kommun Gemensamt reglemente för kommunstyrelsen och nämnder i Kungsbacka kommun 4 (11)
 
 <!-- sida 114 -->
 
-2. inför sammanträdena se till att ärendena som ska behandlas är vid behov
+2\. inför sammanträdena se till att ärendena som ska behandlas är vid behov
 beredda
-3. se till att färdigberedda ärenden snarast behandlas i nämnden
-4. leda nämndens arbete och sammanträde
-5. följa förvaltningens arbete och bevaka att nämndens beslut verkställs
-6. överlägga med förvaltningschefen,
-7. representera nämnden genom kontakter med massmedia och med
+3\. se till att färdigberedda ärenden snarast behandlas i nämnden
+4\. leda nämndens arbete och sammanträde
+5\. följa förvaltningens arbete och bevaka att nämndens beslut verkställs
+6\. överlägga med förvaltningschefen,
+7\. representera nämnden genom kontakter med massmedia och med
 allmänheten i
 ärenden som berör nämndens arbetsområde,
-8. i övrigt vara tillgänglig för uppdrag inom ramen för nämndens arbetsområde i
+8\. i övrigt vara tillgänglig för uppdrag inom ramen för nämndens arbetsområde i
 den
 omfattning nämnden beslutar.
 
@@ -5366,9 +5366,9 @@ ledamöter har lika lång tjänstgöringstid ska den till åldern äldste ledamo
 § 27 Offentliga sammanträden
 Nämnden får besluta att ett sammanträde ska vara offentligt. En nämnds
 sammanträde ska dock alltid hållas inom stängda dörrar i ärenden:
-1. som avser myndighetsutövning, eller
+1\. som avser myndighetsutövning, eller
 
-2. i vilka det förekommer uppgifter som hos nämnden omfattas av sekretess
+2\. i vilka det förekommer uppgifter som hos nämnden omfattas av sekretess
 enligt offentlighets- och sekretesslagen (2009:400).
 
 Kungsbacka kommun Gemensamt reglemente för kommunstyrelsen och nämnder i Kungsbacka kommun 7 (11)
@@ -5393,9 +5393,9 @@ distans i nämnderna.
 Vid nämndens sammanträden
 Vid nämndens sammanträden får, utöver de som ska kallas till sammanträdet, i den
 mån nämnden inte för särskilt fall beslutar annat,
-1. nämndens sekreterare närvara,
-2. nämndens förvaltningschef närvara och delta i överläggningarna,
-3. föredragande tjänsteperson närvara och delta i överläggningarna som berör
+1\. nämndens sekreterare närvara,
+2\. nämndens förvaltningschef närvara och delta i överläggningarna,
+3\. föredragande tjänsteperson närvara och delta i överläggningarna som berör
 dennes ärende.
 
 Kommunalråd
@@ -5492,7 +5492,7 @@ sammanträdets inledning.
 
 Nämnden ska vid behandlingen av ett initiativ, vid sammanträdet där det väcks,
 antingen:
--  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
+\-  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
 
 remittera initiativet till förvaltningen, utskott eller presidium för beredning, eller
 bordlägga initiativet till nästkommande sammanträde.
@@ -7053,13 +7053,13 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -7093,12 +7093,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
 
@@ -7107,10 +7107,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.

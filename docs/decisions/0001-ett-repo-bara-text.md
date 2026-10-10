@@ -76,7 +76,7 @@ fil i stället för med lagrade original.
 
 ### A – Nytt kodrepo, originalen i objektlagring, texten i releaser
 
-```
+```text
 github.com/<ägare>/<repo>        kod, kommuner/*.yaml, docs/
 objektlagring (R2 / B2 / S3)     ra/<sha256>.pdf
 GitHub Releases                  text-<datum>.tar.zst, index
@@ -90,7 +90,7 @@ GitHub Releases                  text-<datum>.tar.zst, index
 
 ### B – Två nya repon (kod + text), originalen i objektlagring
 
-```
+```text
 github.com/<ägare>/<repo>        kod, konfiguration, docs/
 github.com/<ägare>/<repo>-data   text och tabeller
 objektlagring                    ra/<sha256>.pdf
@@ -125,7 +125,7 @@ objektlagring                    ra/<sha256>.pdf
 
 ### F – Ett repo med bara text, PDF:en raderas efter konvertering
 
-```
+```text
 github.com/<ägare>/<repo>
   src/, kommuner/*.yaml, docs/
   data/<kommun>/<organ>/<år>/<datum>/<typ>.md   + tabeller som .csv

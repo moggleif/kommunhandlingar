@@ -31,6 +31,10 @@ Formatet står i `docs/03-ARKITEKTUR.md#tolkade-figurer`. Läs det först.
    - **Karta, foto, diagram utan utskrivna tal:** en kort beskrivning.
      Inga tal som inte står i sidans text.
    - **Ingen figur:** `Ingen figur.`
+
+   Tolkningen är riktig Markdown: tecken som annars blir struktur escapas
+   som i resten av texten ([ADR-0021](../../../docs/decisions/0021-texten-ar-riktig-markdown.md)),
+   och CI kör Markdown-lint på PR:en.
 5. Lägg sidans nummer i `tolkade`, i nummerordning.
 6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
    och rätta det som faller. Faller ett tal som står i sidans text, för

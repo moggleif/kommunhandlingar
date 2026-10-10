@@ -52,10 +52,10 @@ Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande.
 
 Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -106,10 +106,10 @@ beskrivning av stadens byggnadskaraktär", antagen av byggnadsnämnden 2011-06-
 09, samt upphävande av den del som avser utpekat Varlaområde. Förslagsställarna
 lyfter följande punkter:
 
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -173,10 +173,10 @@ områden.
 
 2 juni 2024
 
-___________________                 ______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Thure Sandén (M)                    Daniel Hognert (M)
 
-___________________                 ______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 1 (2)
@@ -207,7 +207,7 @@ arbetsutskott lämnade den 20 juni 2024 över initiativet till byggnadsnämnden 
 ställningstagande.
 Förslagsställarna lyfter följande punkt:
 
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 
@@ -256,7 +256,7 @@ lantmäterimyndigheter. Varje kommun har rätt att ansöka om att hantera sina e
 lantmäteriärenden genom att inrätta ett kommunalt lantmäteri. Förslagsställarna
 lyfter följande punkt:
 
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 
@@ -303,11 +303,11 @@ får i uppdrag att utreda förutsättningarna för att ansöka om ett kommunalt 
 
 2 juni 2024
 
-_________________________           __________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Thure Sandén (M)                    Daniel Hognert (M)
 
-__________________________          ____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 2 (2)

@@ -216,10 +216,10 @@ Intern kontrollplan 2026
 
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp
 granskas tas till plan för granskning 2026. Det är riskerna:
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 
 Jämfört med 2025 har antalet risker till plan minskat från fyra till tre.För samtliga risker som tas med i
@@ -443,7 +443,7 @@ risk ej tas till plan
 Personal       Risk att                        3. Kännbar Risken hanteras
 förvaltningen                (uppfattas som inom ramen för
 saknar personal              besvärande för verksamhets-
-2. Mindre vanligt
+2\. Mindre vanligt
 med                               berörda planering och
 rätt/tillräcklig             intressenter och kompetens-
 kompetens                      kommunen) försörjning.
@@ -528,10 +528,10 @@ Intern kontrollplan 2026
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp tas
 till plan för granskning 2026. Det är riskerna:
 
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 Självskattning för 2026 planeras att genomföras under våren 2026. Självskattningen genomförs i
 förvaltningens ledningsgrupp.
@@ -1386,7 +1386,7 @@ till någon del inom planområdet. Eventuella bergarbeten som resulterar i schak
 
 Vibrationsmätningar
 I samband med detaljplanen har en Vibrationsutredning tagits fram av Norconsult, 2022-11-
-17. Vibrationsmätningar har utförts i tre mätpunkter inom planområdet och utfördes under
+17\. Vibrationsmätningar har utförts i tre mätpunkter inom planområdet och utfördes under
 7 dygn i oktober 2022. De uppmätta komfortnivåerna överskrider ej gränsen 0,4 mm/s vägd
 RMS, vilket betecknar gränsen för ”Måttlig störning” enligt svensk standard.
 
@@ -1593,7 +1593,7 @@ lent ljudnivå inte överskrids vid fasad, och
 nivå inte överskrids mellan kl 22.00 och 06.00 vid fasad.
 
 I samband med detaljplanen har en bullerutredning tagits fram av Akustik Forum 2025-10-
-03.
+03\.
 Utanför planområdet på norra sidan planeras det för en bullerskärm längs Hällingsjövägens
 norra sida mellan Söderåleden och strax öster om Aroniavägen. Uppförande av bullerskär-
 men krävs för att klara ljudmiljön för bostäderna i Tölö ängar 1.
@@ -2109,7 +2109,7 @@ Brandvattenförsörjning
 Brandvattenposter kan vid behov byggas ut efter VA-ledningsnätet i planområdet. Posterna
 bör medge ett brandvattenuttag på minst 600 liter/minut (10 liter/sekund). Förslag till place-
 ring av brandvattenposter är redovisade i VA- och dagvattenutredningen, Markera 2025-05-
-06.
+06\.
 
 Brandvattenförsörjning föreslås ske genom utbyggnad av konventionellt brandvattensystem.
 Avståndet mellan brandposterna ska vara maximalt 150 meter och det avgörs i samråd med
@@ -2719,10 +2719,10 @@ målsenligt sätt. Exploateringsavtalet förhandlas löpande under planprocessen
 undertecknat av exploatören innan detaljplanen antas. Detaljplanen antas först efter det att
 kommunstyrelsen godkänt exploateringsavtalet.
 I det här projektet kommer exploateringsavtalet att omfatta:
-- Definition av exploateringsområdet.
+\- Definition av exploateringsområdet.
 
-- Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
-- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom plan-
+\- Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom plan-
 området.
 
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
@@ -2744,23 +2744,23 @@ att området byggs ut.
 Åtgärder inom kvartersmark för bostads- , centrum- och parkeringsändamål ansva-
 rar exploatören för.
 
-- Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför plan
+\- Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför plan
 området, som är nödvändiga för detaljplanens genomförande och rimliga med
 hänsyn till exploatörens nytta av åtgärden.
-- Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
+\- Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
 huvudmannaskap är utgångspunkten att exploatören överlåter allmän platsmark till
 kommunen utan ersättning.
 
-- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
-- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas
+\- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas
 av plankostnadsavtalet.
 
-- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
-- Exploatörens skyldighet att upplåta minst 1/3 av bostäderna som hyresrätt.
-- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säker
+\- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\- Exploatörens skyldighet att upplåta minst 1/3 av bostäderna som hyresrätt.
+\- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säker
 ställa exploatörens åtaganden.
 
-- Övriga frågor som behöver regleras för exploateringsområdets rationella och ända-
+\- Övriga frågor som behöver regleras för exploateringsområdets rationella och ända-
 målsenliga utbyggnad.
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
 samordningen mellan exploatören och kommunen regleras avseende utbyggnad av kvar-
@@ -3024,7 +3024,7 @@ Syftet med bestämmelsen är att säkerställa stabilite-
 ten mot Söderå.
 Allmän plats - avgränsad via egenskapsgräns och användningsgräns
 Egenskapsbestämmelser för allmän plats reglerar hur en allmän plats ska ordnas eller skyddas.
-Markens höjd över nollplanet ska vara <angivet> me-
+Markens höjd över nollplanet ska vara \<angivet> me-
 ter. Syftet med bestämmelsen är att reglera markens
 +0.0    utformning, mark höjd i huvudgatan för att möjliggöra för alla funktio-
 ner för en fungerande gata med bl a utformning av
@@ -3104,7 +3104,7 @@ utformning och skydd av marken.
 | --- | --- | --- |
 | b<br>4 | utförande | Bottenvåningen ska utformas med en våningshöjd<br>om minst 3,5 meter för centrumlokal. Syftet med<br>bestämmelsen är att säkerställa att de lokaler som<br>ordnas har en funktionalitet för centrumanvändning |
 | d<br>1 | fastighetsstorlek | Minsta fastighetsstorlek är 160 m2. Syftet med be-<br>stämmelsen är att säkerställa att eventuella fastigheter<br>som bildas får en tillräcklig storlek för att rymma de<br>funktioner som hör till användningen utöver huvud-<br>byggnaden. Exempelvis parkeringsplats för bil, förråd<br>och uteplats. |
-| e<br>1 | exploateringsgrad | Största sammanlagda byggnadsarea (BYA) är <an-<br>givet> m2. Syftet med bestämmelsen är att begränsa<br>byggnaders utbredning inom byggrätten. |
+| e<br>1 | exploateringsgrad | Största sammanlagda byggnadsarea (BYA) är \<an-<br>givet> m2. Syftet med bestämmelsen är att begränsa<br>byggnaders utbredning inom byggrätten. |
 | e<br>2 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 330 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
 | e<br>3 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 400 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
 | e<br>4 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 660 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
@@ -3171,7 +3171,7 @@ das.
 
 | a<br>2 | Upphävande av<br>strandskydd | Strandskyddet inom kvartersmark upphävs. Strand-<br>skyddet som återinträder vid planläggningen upphävs<br>inom del av planområdet. Syftet med bestämmelsen<br>är att möjliggöra för åtgärder enligt plankartan. |
 | --- | --- | --- |
-| n<br>7 | Markens anordnande<br>och vegetation | Markens höjd får inte vara högre än <angivet> meter<br>över nollplanet. Syftet med bestämmelsen är att sä-<br>kerställa stabiliteten mot Söderå. |
+| n<br>7 | Markens anordnande<br>och vegetation | Markens höjd får inte vara högre än \<angivet> meter<br>över nollplanet. Syftet med bestämmelsen är att sä-<br>kerställa stabiliteten mot Söderå. |
 
 <!-- sida 76 -->
 
@@ -3276,7 +3276,7 @@ kommit tillstånd.
 EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
 Avgränsad   via egenskapsgräns   och  användningsgräns
 Utformning av allmän plats
-Markens höjd över nollplanet ska vara <angivet> meter.
+Markens höjd över nollplanet ska vara \<angivet> meter.
 Damm  ska uppföras.
 Dagvattendike ska anläggas.
 Gång- och cykelväg.
@@ -3310,7 +3310,7 @@ Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
 Höjd på byggnadsverk
 Sammanfallande sekundär och egenskapsgräns.
 Utförande
-Högsta nockhöjd är <angivet> meter.
+Högsta nockhöjd är \<angivet> meter.
 ANVÄNDNING      AV MARK
 Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
 Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
@@ -3331,7 +3331,7 @@ Natur.                                                                     för 
 Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus
 Park.                                                         Utnyttjandegrad
 och komplementbyggnad anordnas.
-Genomfartsväg.                                                             Största byggnadsarea är <angivet> m².
+Genomfartsväg.                                                             Största byggnadsarea är \<angivet> m².
 Markens  anordnande  och vegetation
 Kvartersmark                                                                            Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
 Torg ska anläggas.
@@ -3374,7 +3374,7 @@ Parkeringsgarage får uppföras under bostadsgård och byggnad.                 
 småhusen 3,5 meter.
 Endast flerbostadshus.                                                                                      Följande gäller inom områden med nedanstående beteckningar. Endast angiven
 Villkor för startbesked                                                                                                                                                                                                                         Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Skydd mot störningar                                                                                                                                                                                 användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom Beteckningar inom parentes                                                                                                                                Högsta nockhöjd är <angivet> meter.                                        Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
+Skydd mot störningar                                                                                                                                                                                 användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom Beteckningar inom parentes                                                                                                                                Högsta nockhöjd är \<angivet> meter.                                        Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
 Endast friliggande en- och tvåbostadhus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           200 kvadratmeter inom användningsområdet.
 EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS                                                                                                                                                                                                                           Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
 hela området.
@@ -3394,13 +3394,13 @@ kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot lj
 Utformning av allmän plats                                                               sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och Utförande                                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
 sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida EGENSKAPS k B o E m S pl T e Ä me M n M tby E g L gn S a E d R få r F t Ö illg R o d K o V rä A kn R as T . ERSMARK                                                                              Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
 Egenskapsgräns.                                                                                                                                                                                                                    får inrymma fem (5) våningar. .                                                                                                                        kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
-menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå Avgränsad viaF uslel lkaustnkodmärp eengseatniosnk faöpr asnggröärninsg soyctohr. användningsgräns                                                                                               plankartan där inget annat anges.                                                       Markens höjd över nollplanet ska vara <angivet> meter.                                                                                                 Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
+menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå Avgränsad viaF uslel lkaustnkodmärp eengseatniosnk faöpr asnggröärninsg soyctohr. användningsgräns                                                                                               plankartan där inget annat anges.                                                       Markens höjd över nollplanet ska vara \<angivet> meter.                                                                                                 Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
 nattetid påhögst 70 dBA.                                                                                                                                                                                          Sekundär egenskapsgräns.                                                                                                                                                                                                           Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus      för hantering av dagvatten. Vegetationsklädda tak på
 Damm  ska uppföras.
 Markens  anordBnyagngdnea doecr hs kvae ggreutnadtliäogngas till fast botten alternativt lastkompenseras.
 Utförande                                                                                                                                                                                                         Sammanfallande sekundär och egenskapsgräns.                    EGENSKAPSBESTÄMMELSER            FÖR   ALL  KVARTERSMARK                                                                                                            och komplementbyggnad anordnas.                                            komplementbyggnad får tillgodoräknas.                          EGENSKAPSBESTÄMMELSER            FÖR   ALLMÄN    PLATS
 Dagvattendike ska anläggas.
-MBaorktteennsv åhnöijndg feånr isnktea vuatfroar mhöagsr me eädn e<na nvgåinvientg>s m heötjedr oömve mr ninosltlp 3la,5n emt.eter                                                       Höjd på byggnadsverk                                                                                                                                   Markens  anordnande  och vegetation                                                     Full lastkompensation för angöringsytor.
+MBaorktteennsv åhnöijndg feånr isnktea vuatfroar mhöagsr me eädn e\<na nvgåinvientg>s m heötjedr oömve mr ninosltlp 3la,5n emt.eter                                                       Höjd på byggnadsverk                                                                                                                                   Markens  anordnande  och vegetation                                                     Full lastkompensation för angöringsytor.
 Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m       för centrumlokal.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Avgränsad  via sekundär  egenskapsgräns    och användningsgräns
 ANVÄNDNING      AV  MARK                                                                                                                                            Gång- och cykelväg.
 Upphävande   av strandskydd
@@ -3410,13 +3410,13 @@ Utnyttjandegrad
 Allmän platsmark                                                            småhusen 3,5 meter.                                                                     Markens höjd får inte vara högre än +6,4 meter över nollplanet.
 Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för Strandskyddet är upphävt.                                                                                                                                                                                                                                                                                                                                  Åkerholme ska bevaras.                                                     Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
 Strandskyddet är upphävt.
-VA.                                                                                      Största byggnadsarea är <angivet> m².                                                                                    Huvudgata.                                                     Skydd mot störningar                                                                    Markens höjd får inte vara högre än +7,1 meter över nollplanet.                                                                                        för centrumlokal.
+VA.                                                                                      Största byggnadsarea är \<angivet> m².                                                                                    Huvudgata.                                                     Skydd mot störningar                                                                    Markens höjd får inte vara högre än +7,1 meter över nollplanet.                                                                                        för centrumlokal.
 Dagvattendike ska anläggas.
 GENOMFÖRANDETID
 Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt        Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får                                                         Lokalgata.                                                     Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i        Markens höjd får inte vara högre än +6,5 meter över nollplanet.                                                                           Utnyttjandegrad                                                             EGENSKAPSBESTÄMMELSER            FÖR   KVARTERSMARK
 Parkering får anordnas.
 Genomförandetidbeanl käorn 1g0e rå (rä. ven inglasade) och skärmtak uppföras.
-lastkompenseras.                                                                                                                                                                                                  Gång- och cykelväg.                                            plankartan.                                                                             Full lastkompensation för angöringsytor.                                                                                                               Största byggnadsarea är <angivet> m².                          Avgränsad  via sekundär  egenskapsgräns    och användningsgräns
+lastkompenseras.                                                                                                                                                                                                  Gång- och cykelväg.                                            plankartan.                                                                             Full lastkompensation för angöringsytor.                                                                                                               Största byggnadsarea är \<angivet> m².                          Avgränsad  via sekundär  egenskapsgräns    och användningsgräns
 Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
 Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
 Villkor för startbesked                                                                                                                                                                                                                                                          Om ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av
@@ -3424,7 +3424,7 @@ Ingen last får påföras med undantag för gc-vägar med variabel last á 5    
 balkonger (även inglasade) och skärmtak uppföras.                                                                        Natur.                                                                                                                                                                                                                                                                                                        Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
 bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35                                                                       Markreservat för allmännyttiga ändamål
 Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har                                                                                                                                                                                                                                                                                 kPa.                                                                                                                                                   balkonger (även inglasade) och skärmtak uppföras.
-Markens höjd får inte vara högre än <angivet> meter över nollplanet.
+Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
 Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får                                                         Park.                                                          kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
 kommit tillstånd.                                                                                                                                                                                                                                                                                                                                                                                                                                    Markreservat för allmännyttiga underjordiska ledningar.
 Ingen last får påföras .
@@ -3443,7 +3443,7 @@ Utformning av allmän plats
 Avgränsad   via egenskapsgräns   och  användningsgräns
 balkonger (även inglasade) och skärmtak uppföras.                                                                        Centrumlokaler i bottenvåningen.                               Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m                                                                                                                                                             Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får Genomförandetiden är 10 år.
 Garageport ska placeras minst 6 meter från kvartersgata.
-Markens höjd över nollplanet ska vara <angivet> meter.                                                                                                                                                                                                              (RH 2000) över nollplanet.                                                 Begränsning  av markens  utnyttjande                                                                                                                                balkonger (även inglasade) och skärmtak uppföras.
+Markens höjd över nollplanet ska vara \<angivet> meter.                                                                                                                                                                                                              (RH 2000) över nollplanet.                                                 Begränsning  av markens  utnyttjande                                                                                                                                balkonger (även inglasade) och skärmtak uppföras.
 Största byggnadsarea för komplementbyggnader för flerbostadshus är                                                       Teknisk anläggning - transformatorstation.
 Skydd mot störningar
 Damm  ska uppföras.                                                         575 kvadratmeter inom användningsområdet.                                                                                                                                               Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för Marken får inte förses med byggnad.                                                                                                                  Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
@@ -3483,12 +3483,12 @@ Detaljplanen är baserad på koordinatsystemet SWEREF 99                        
 plankartan där inget annat anges.                                              Markens  anordnande  och vegetation
 1200 och höjdsystemet RH 2000                                                      hela området.                                                                              Minsta fastighetsstorlek är 160 m².                                      Markens höjd får inte vara högre än +6,5 meter över nollplanet. Markreservat för gemensamhetsanläggningar
 Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
-Markens höjd får inte vara högre än <angivet> meter över nollplanet.
+Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
 Höjd på byggnadsverk
 TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-10-13                                                                                        EGENSKAPSBESTÄMMELSER            FÖR   ALL  KVARTERSMARK                                Full lastkompensation för angöringsytor.                                    Markreservat för gemensamhetsanläggning.                                   balkonger (även inglasade) och skärmtak uppföras.
 GRÄNSER
 Upphävande   av strandskydd
-Höjd på byggnadHsövgestrak nockhöjd är <angivet> meter.                                 Ingen last får påföras med undantag för gc-vägar med variabel last á 5 Placering                                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är
+Höjd på byggnadHsövgestrak nockhöjd är \<angivet> meter.                                 Ingen last får påföras med undantag för gc-vägar med variabel last á 5 Placering                                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är
 Registernummer, tomtnummer                   Bostadshus fasad, resp. tak          Planområdesgräns.
 kPaS. trandskyddet är upphävt.                                                                                                                         575 kvadratmeter inom användningsområdet.
 Högsta nockhöjd pHå ökgosmtap lneomcekhnötbjdy gägrn 1a2d emre ttilel rf loecrbho fsåtra idnsrhymusmena ätvrå 4 (,25) m våenteinr goacrh. till
@@ -3521,7 +3521,7 @@ Lokalgata.                                                    nattetid påhögst
 Gång- och cykelväg.                                            Utförande      Åkerholme ska bevaras.                                                   Minsta fastighetsstorlek är 160 m².                                         Endast friliggande en- och tvåbostadhus.
 Natur.                                                        Byggnader ska uppDfaögravsa tmteendd iökvee srskvaä amnnläingggsassk.yddad konstruktion upp till minst +4,5 m Höjd på byggnadsverk                                   Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr. EGENSKAPSBESTÄMMELSER     FÖR  ALLMÄN    PLATS
 (RH 2000) över nollplanet.
-Park.                                                                         Parkering får anordnas.                                        DetaljplaHnög sfötar n bocokhsötjäd däre <ra nmgiveedt> mmeeterra.      Utförande                                                                   Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+Park.                                                                         Parkering får anordnas.                                        DetaljplaHnög sfötar n bocokhsötjäd däre \<ra nmgiveedt> mmeeterra.      Utförande                                                                   Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
 Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
 Genomfartsväg.                                                                Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.     Högsta nockhöjd är 12 meter och får inrym G m r a a t n vå s ( k 2 n ) v in ån g in s g h ar a . ndling Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor Upphävande av strandskydd
 VA.                                                                            inom
@@ -3538,16 +3538,16 @@ Teknisk anläggning - transformatorstation.                    Startbesked får 
 får inrymma fem (5) våningar. .                                             Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter Markens anordnande och vegetation
 kommit tillstånd.
 Teknisk anläggning - pumpstation.                                Placering                                                                                                                                                         för centrumlokal.
-Högsta nockhöjd för parkeringshus är 8 meter.                                                                                                          Markens höjd får inte vara högre än <angivet> meter över nollplanet.
+Högsta nockhöjd för parkeringshus är 8 meter.                                                                                                          Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
 Upprättad 2025-10-13
 Parkeringshus.                                                 EGENSKAPSBGEaSraTgÄepMorMt sEkLa SplEacRe rFasÖ mRin AstL 6L mMeÄteNr f rPånL kAvTarStersgata. och komplementbyggnad anordnas.                        Utnyttjandegrad
 Upphävande   av strandskydd
 Avgränsad  via egenskapsgräns    och användningsgräns
-Bostadskomplement.                                                                                                                        Markens  anordnande  och vegetation                                                      Största byggnadsarea är <angivet> m².
+Bostadskomplement.                                                                                                                        Markens  anordnande  och vegetation                                                      Största byggnadsarea är \<angivet> m².
 Strandskyddet är upphävt.
 Utformning av allmän plats
 Parkeringsgarage får uppföras under bostadsgård och byggnad.                                                                                   Ida LennaTrotsrgs osnka anläggas. Maria Malone                                      Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
-Beteckningar inom  parentes                                                              Markens höjd över nollplanet ska vara <angivet> meter.             Verksamh Å e k t e s r c h h o e lm f P e l s a k n a bevarasS. enior Planarkitekt  balkonger (även inglasade) och skärmtak uppföras.             GENOMFÖRANDETID
+Beteckningar inom  parentes                                                              Markens höjd över nollplanet ska vara \<angivet> meter.             Verksamh Å e k t e s r c h h o e lm f P e l s a k n a bevarasS. enior Planarkitekt  balkonger (även inglasade) och skärmtak uppföras.             GENOMFÖRANDETID
 Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får Genomförandetiden är 10 år.
 Damm  ska uppföras.
 Beteckning i kartan som omgärdas av parentes anger bestämmelse i                                                                              PLANKDaAgvRattTenAdike Dsektaal japlnanläegn gäar usp.prättad enligt PBL KBXXX
@@ -3618,7 +3618,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas.
 
@@ -3730,7 +3730,7 @@ framkomlighet inte äventyras.
 För att säkerställa skyfallsavrinning från gator kompletteras plankartan med
 planbestämmelser om höjdsättning i infartsgatorna på allmänplats, lägsta höjd på färdigt
 golv ska vara minst 0,30 meter över marknivå i förbindelsepunkt för VA.
---------------------------------------------------------------
+\--------------------------------------------------------------
 Råd enligt 2 kap. PBL och annan lagstiftning
 
 Förhållande till ÖP
@@ -4005,7 +4005,7 @@ från Söderå. Planförslaget påverkar inte något dikningsföretag.
 KUNGSBACKA  KOMMUN
 10 (26)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 I planbestämmelserna redovisas en administrativ gräns. Lantmäteriet kan inte återfinna några
 administrativa bestämmelser eller administrativa gränser i plankartan.
 
@@ -4019,7 +4019,7 @@ Egenskapsbestämmelse a gäller för upphävande av strandskydd på allmän plat
 för upphävande av strandskydd på kvartersmark. Den sekundära egenskapsgränsen gäller för
 både a1 och a .
 2
-3. Trafikverket
+3\. Trafikverket
 Trafikverket ser positivt på att kommunen planerar för bostäder i centrala delarna av Kungsbacka
 centrum med närheten till service, skola, arbetsplatser och kollektivtrafik. Härigenom kan man minska
 bilberoendet och nå mål om en minskad klimatpåverkan.
@@ -4041,7 +4041,7 @@ planområdet och därför har trafikutredningen från 2022 inte uppdaterats.
 
 Det ökade transportbehovet från planområdet bedöms vara relativt litet och medför inte
 direkta konsekvenser på det statliga vägnätet.
-4. Statens geotekniska institut - SGI
+4\. Statens geotekniska institut - SGI
 
 SGI har synpunkter på det beräkningstekniska i den geotekniska utredningen. SGI anser att det i
 behöver framgå en motivering till det högt valda värdet för Cu (relativt härledda värden), alternativt att
@@ -4101,7 +4101,7 @@ Utifrån den kompletterade geotekniska utredningen har även säkerställande av
 KUNGSBACKA  KOMMUN
 12 (26)
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Räddningstjänsten har inget att erinra mot planen i detta skede.
 
 Räddningstjänsten meddelar att de inte har någon kännedom om några riskkällor som bedöms påverka
@@ -4115,12 +4115,12 @@ som planen möjliggör borde medge ett brandvattenuttag på minst 600 liter/minu
 
 Kommentar: Planbeskrivningen kompletteras med informationen att posterna bör medge ett
 brandvattenuttag på minst 600 liter/minut (10 liter/sekund).
-6. Region Halland
+6\. Region Halland
 
 Region Halland har inga synpunkter på planförslaget.
 
 Sakägare
-7. Ellevio
+7\. Ellevio
 Vi tolkar plankartan och planbeskrivningen som att det planeras två större nätstationer längs
 Hällingsjövägen samt två mindre nätstationer längs respektive nord-sydgående gata. Har vi
 
@@ -4167,7 +4167,7 @@ samrådet. Samordningsmöten kommer även att hållas i samband med genomförand
 detaljplanen.
 Övriga synpunkter noteras och översänds till exploatören.
 
-8. Skanova
+8\. Skanova
 Skanova har markförlagda teleanläggningar nära eller i detaljplaneområdet längs Hällingsjövägen.
 Skanova önskar att så långt som möjligt behålla befintliga teleanläggningar i nuvarande läge för att
 undvika olägenheter och kostnader som uppkommer i samband med flyttning.
@@ -4189,7 +4189,7 @@ Kommunen har varit i kontakt med Skanova i samband med två ledningssamordningsm
 efter samrådet.
 Övriga synpunkter noteras och översänds till exploatören.
 
-9. Kungsbacka Blådruvan 16
+9\. Kungsbacka Blådruvan 16
 
 Godkänner förslaget.
 
@@ -4198,7 +4198,7 @@ Godkänner förslaget.
 KUNGSBACKA  KOMMUN
 14 (26)
 
-10. BRF Tölö-Allé
+10\. BRF Tölö-Allé
 Vi i Brf Tölö-Allé är bekymrade av trafiksituationen på Hällingsjövägen och har svårigheter redan
 idag under kritiska tidpunkter med att ta oss ut från Aroniavägen. Därför måste Hedeleden färdigställas
 först och likaså att Hällingsjövägen breddas och rondellerna nere från Tölöleden och upptill Tölö 3
@@ -4210,7 +4210,7 @@ Kommentar: Planbeskrivningen uppdateras med nyare trafikflöden som visar att de
 kapacitet i Hällingsjövägen för den exploatering som detaljplanen föreslår. När Hedeleden är
 utbyggd kommer stor del av trafiken ledas norrut och avlasta Hällingsjövägen.
 
-11. Tölö 4:22
+11\. Tölö 4:22
 Förslaget till detaljplan synes ej ta hänsyn till trafik- och bullerpåverkan i närliggande områden, såsom
 fastigheterna intill Söderåleden.
 
@@ -4234,7 +4234,7 @@ exploateringen, Akustik Forum 2025-10-03. Bullernivåerna antas inte öka utan t
 kommer de troligen bli minska när hastigheten på Söderåled sänks från 60 km/tim till 40
 km/tim.
 
-12. Tölö 4:35
+12\. Tölö 4:35
 Tölö Ängar Syd är ett bra område att utveckla bostäder för äldre. Området ger förutsättningar att skapa
 en god miljö för 65-plussare. Närhet till natur och fritidssysselsättningar (golfbana på andra sidan
 Söderå) men även en relativ närhet till Kungsbacka centrum.
@@ -4268,7 +4268,7 @@ innehåll och utförande översänds till exploatören.
 Längs Söderå planeras en gångväg inom parkområdet. Den befintliga gc-bron över Söderå
 kommer att finnas kvar och ny gångväg kommer att ansluta till denna. Detaljplaneförslaget
 innebär inte att det blir fler broar över Söderå.
-13. Tölö 4:48
+13\. Tölö 4:48
 
 Det är ett absolut krav att Hedeleden mellan Hällingsjövägen och Hede station är färdigställd och
 tagen i bruk innan markarbeten för Tölö Ängar Syd påbörjas. Vi som bor längs med Hällingsjövägen i
@@ -4370,7 +4370,7 @@ Söderå är utpekat som parkområde. De högre husen längs Hällingsjövägen 
 som bullerskydd för husen ner mot ån. De svåra geotekniska förutsättningarna inom området
 är också en anledning till att de tyngre flerbostadshusen placeras i norr och de lättare
 småhusen i söder.
-14. Tölö 4:50
+14\. Tölö 4:50
 
 För mycket trafik redan nu. Både byggtrafik och ökande trafik är ett stort besvär både ur buller
 och miljöperspektiv. Trafiken har ökat kraftigt nu efter pandemin. Under pandemitiden var det
@@ -4382,7 +4382,7 @@ utbyggd kommer stor del av trafiken ledas norrut och avlasta Hällingsjövägen.
 Bullerskydd vid Hällingsjövägen har varit överklagat och i december 2024 beslutade
 länsstyrelsen att bifalla delar av överklagan. Bygglov för bullerskyddet längs Hällingsjövägen
 och södra delen av Söderåled har lämnats in och handläggning pågår. Trolig byggstart är
-2026. Bygglov som hanterar bullerskydd längs Smidesvägen/Söderåled vid cirkulationen
+2026\. Bygglov som hanterar bullerskydd längs Smidesvägen/Söderåled vid cirkulationen
 planeras att lämnas in efter dialog med fastighetsägarna.
 
 Bullerutredningen uppdateras med att utreda reflekterande buller på befintliga bostäder i Tölö
@@ -4396,7 +4396,7 @@ KUNGSBACKA  KOMMUN
 4:50 påverkas av reflekterande buller från tillkommande exploatering på Tölö 4:148.
 
 Ekvivalent ljudnivå utmed fasad ökar marginellt.
-15. Tölö 4:82
+15\. Tölö 4:82
 
 I roll som ordförande för Tölö Ängar samfällighetsförening (Ligusterv, Aroniav, Buxbomsv, Oxelv)
 så önskar vi att trafiksituationen ses över innan byggnation startar. Vi önskar att Hedeleden (dvs
@@ -4406,7 +4406,7 @@ Kommentar: Planbeskrivningen uppdateras med nyare trafikflöden som visar att de
 kapacitet i Hällingsjövägen för den exploatering som detaljplanen föreslår. När Hedeleden är
 utbyggd kommer stor del av trafiken ledas norrut och avlasta Hällingsjövägen.
 
-16. Tölö 4:131 a
+16\. Tölö 4:131 a
 Jag som boende på Aroniavägen och med en enda utfart till Hällingsjövägen är väldigt oroad
 
 över trafiksituationen. Det är redan i dag väldigt svårt att komma ut på vägen och Tölö Tvärled
@@ -4416,7 +4416,7 @@ Kommentar: Planbeskrivningen uppdateras med nyare trafikflöden som visar att de
 kapacitet i Hällingsjövägen för den exploatering som detaljplanen föreslår. När Hedeleden är
 utbyggd kommer stor del av trafiken ledas norrut och avlasta Hällingsjövägen.
 
-17. Tölö 6:6 och 6:7
+17\. Tölö 6:6 och 6:7
 Sverigehuset beskrev sina visioner, med att efterlikna allmogen, bland annat med att låta vissa hus
 påminna om röda lador. Husens placering ska följa det böljande öppna landskapet. Allt detta låter
 väldigt trevligt.
@@ -4455,7 +4455,7 @@ kommer att finnas kvar och ny gångväg kommer att ansluta till denna. Detaljpla
 innebär inte att det blir fler broar över Söderå.
 
 Organisationer och föreningar
-18. POSAM
+18\. POSAM
 POSAM anser att området är intressant för deras intressegrupp med hänsyn till närhet till butiker och
 
 allmänna kommunikationer. POSAM tillstyrker förslaget om bebyggelse i detta läge med förhoppning
@@ -4463,7 +4463,7 @@ att området väl kommer att anpassas även för äldre och funktionshindrade pe
 Kommentar: Noteras. Informationen översänds till exploatören.
 
 Kommunala förvaltningar och nämnder
-19. Teknik
+19\. Teknik
 
 Förvaltningen för Teknik har deltagit i arbetet med samrådshandlingarna och är positiva till
 planförslaget.
@@ -4607,7 +4607,7 @@ Kommunen genom Förvaltningen för Teknik får kostnader för drift och underhå
 gång- och cykelväg, öppna dagvattenanläggningar och VA-ledningar.
 
 Kommentar: Synpunkten noteras.
-20. Miljö & Hälsoskydd
+20\. Miljö & Hälsoskydd
 
 Övergripande
 Det är positivt att rekommendationer enligt dagvatten-, buller-, och miljöutredning i huvudsak avses
@@ -4695,18 +4695,18 @@ föroreningar påträffas.
 Kommentar: Bedömningen är att föroreningsrisken är inte tillräckligt stor för att motivera
 framtagande av en miljöteknisk markundersökning i detaljplanen.
 
-21. Kultur & Fritid
+21\. Kultur & Fritid
 Kultur och Fritid har inget att erinra mot förslaget.
 
 Kommentar: Noteras.
-22. Vård & Omsorg
+22\. Vård & Omsorg
 
 Vård & Omsorg har tagit del av planförslaget. Vård & Omsorg vill betona att fastigheterna i kvarteret
 utformas på ett sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning. I övrigt så
 har Vård & Omsorg inga synpunkter på förslaget.
 Kommentar: Noteras. Informationen översänds till exploatören.
 
-23. Individ & Familjeomsorg
+23\. Individ & Familjeomsorg
 Individ & Familjeomsorg tillstyrker förslaget och ser positivt på framtagen detaljplan men informera
 att det finns ett stort behov av hyreslägenheter i olika storlekar och med låg hyra, gärna små
 lägenheter, och finner att nämnden bifaller det.
@@ -4714,7 +4714,7 @@ lägenheter, och finner att nämnden bifaller det.
 Kommentar: Noteras. Informationen översänds till exploatören.
 
 Övriga
-24. Socialdemokraterna
+24\. Socialdemokraterna
 
 Vi förespråkar 40 km/h på Hällingsjövägen vid det aktuella området för att värna om de oskyddade
 trafikanterna, miljön och minimera kostnaderna för undergångar och extra mark för ändamålet.
@@ -4748,7 +4748,7 @@ Kommentar: Noteras. Bullerutredningen uppdateras efter justerad skiss visar att 
 behövs några bullerskyddsåtgärder för att klara kraven för buller.
 Synpunkterna översänds till exploatören.
 
-25. Privatperson
+25\. Privatperson
 Privatpersonen anser att trygghetsboende och bostäder med särskild service BmSS i Tölö ängar syd
 ska ägas av Vård och Omsorg eller av Service fastigheter. Det får bli slut på att VoO bygger
 fastighetskapital för andra fastighetsägare.

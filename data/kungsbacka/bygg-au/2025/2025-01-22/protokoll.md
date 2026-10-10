@@ -500,10 +500,10 @@ kräver bygglov kan tillåtas på en specifik plats.
 
 Bygglov, och därmed förhandsbesked, ska enligt 9 kap. 31 § PBL ges för en åtgärd
 utanför ett område med detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -996,10 +996,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -1406,10 +1406,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 2 kap. 2 § PBL ska mark- och vattenområden användas för det eller de
@@ -1994,10 +1994,10 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Ansökt åtgärd bedöms inte uppfylla de krav som ställs enligt 9 kap 31 § plan- och
@@ -2077,7 +2077,7 @@ Vid utformningen av tillbyggnaden har vi i övrigt valt ett låglutande tak ist�
 sadeltak just för att hålla nere höjdupplevelsen. Vi har också valt en svart kulör för
 att byggnaden ska smälta in i landskapet.
 
-- Användning
+\- Användning
 Vid förvaltningens bedömning lyfts att föreslagen komplementbyggnad inte utgör ett
 komplement avseende användning. Vi anser att föreslagen komplementbyggnad i
 allra högsta grad utgör ett komplement till vår bostad då komplementbyggnaden
@@ -2101,7 +2101,7 @@ markplan och sedan addera ett (1) sovrum, ett badrum och ett allrum med pentry p
 plan 2. Detta är funktioner som kan utgöra komplement till en huvudbyggnad i form
 av gäst-stuga.
 
-- Underordnad i form
+\- Underordnad i form
 Huvudbyggnadens beräkningsgrundande fasadsida (mot vägen) är cirka 30 meter
 lång. Komplementbyggnaden ligger på ett betydande avstånd från huvudbyggnaden
 och dess motsvarande fasadsida är endast cirka 9 meter lång. Det vill säga,
@@ -2242,7 +2242,7 @@ av del av servicehus, till bostad.
 Sökande har informerats om förvaltningens negativa förslag och har efter det ändrat:
 Uteplatsen är justerad och ej placerad på punktprickad mark
 
-- Alternativ placering av plats för handikappsparkeringen är justerad för att ej ligga
+\- Alternativ placering av plats för handikappsparkeringen är justerad för att ej ligga
 på punktprickad mark och ur säkerhetsperspektivet med backning ut mot
 Yggdrasilvägen. (Det finns även ytterligare alternativa placeringar för HKP, men då
 överskrids tillåtet gångavstånd m h t tillgänglighet vilket skulle innebära avvikelse.
@@ -2251,7 +2251,7 @@ Sökande förtydligar även att kvarterslokalen kommer vara kvar och att det är
 är den tidigare kontorslokalen bestående av fastighetsexpedition som avses byggas
 om till lägenhet, då expeditionen stått tom sedan flera år och behovet av den inte
 längre finns. Befintlig byggnadsarea kommer heller inte att utökas.
--  Det råder bostadsbrist i kommunen och främst för de som står långt ifrån
+\-  Det råder bostadsbrist i kommunen och främst för de som står långt ifrån
 
 bostadsmarknaden. Övriga grupper har ingen större svårighet att skaffa bostad
 på egna meriter. Därför arbetar Eksta ihop med andra förvaltningar inom
@@ -2599,7 +2599,7 @@ LANNEKULLA 20:31 - Bygglov för nybyggnad av enbostadshus samt
 murar samt rivning
 
 Ärendet utgår vid byggnadsnämndens arbetsutskotts sammanträde den 22 januari
-2025.
+2025\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1632F22746C50CFBA927547FFFEE34921FDBAD0E3B
@@ -2748,19 +2748,19 @@ följer ett sammandrag:
 Sökande önskar att byggnadsnämnden överväger bygglov för att inrätta en studio i
 hennes garage. Hon är medveten om att området är ett bostadsområde men vill
 klargöra några viktiga aspekter:
-1. Diskret och låg påverkan på omgivningen: Salongen skulle bedrivas utan
+1\. Diskret och låg påverkan på omgivningen: Salongen skulle bedrivas utan
 någon form av skyltning eller annan extern reklam. Kundkretsen är redan
 
 etablerad.
-2. Ingen trafikökning och minimal störning: Parkering finns på pendelparkering
+2\. Ingen trafikökning och minimal störning: Parkering finns på pendelparkering
 300 m ifrån salongen samt möjlighet för parkering på uppfarten för
 funktionshindrade.
 
-3. Personliga och familjeskäl:
+3\. Personliga och familjeskäl:
 
 .
 
-4. Hälsoskäl
+4\. Hälsoskäl
 Inkomna synpunkter
 
 Berörda sakägare har fått tillfälle att yttra sig. Inga invändningar har kommit in.
@@ -2940,10 +2940,10 @@ tomtgräns.
 
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
-- Tillbyggnaden har en byggnadsarea som är 7,9 m2 större än vad planen medger,
+\- Tillbyggnaden har en byggnadsarea som är 7,9 m2 större än vad planen medger,
 motsvarande 42 procent av tillbyggnadens byggnadsarea.
 
-- huvudbyggnaden/komplementbyggnaden har föreslagits placerad xx meter från
+\- huvudbyggnaden/komplementbyggnaden har föreslagits placerad xx meter från
 fastighetsgräns, vilket är xx meter närmare än vad detaljplanen medger
 
 Det här dokumentet är digitalt signerat
@@ -3184,7 +3184,7 @@ gräns mot granntomt än 4,5 meter, dock ej närmare gränsen än 1,5 m.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  komplementbyggnaden har i sin helhet en placering på den punktprickade
+\-  komplementbyggnaden har i sin helhet en placering på den punktprickade
 marken.
 
 Övriga förutsättningar

@@ -209,11 +209,11 @@ för valnämnden, överförmyndare i samverkan och revisionen, arbetar aktivt f�
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och
 kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för
 att få livet att fungera.
 
 Sammanfattning av nämndens arbete med målet
@@ -303,11 +303,11 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också
 skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 Sammanfattning av nämndens arbete med målet
 
@@ -388,7 +388,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -398,7 +398,7 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 6
@@ -413,18 +413,18 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 73 %   75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 86 %   88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Total debiterad vattenförbrukning fördelat på
 antal anslutna till vattenledningsnätet. (Här
 ingår förbrukning från hushåll, kommunen
@@ -439,7 +439,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 115   151
@@ -465,8 +465,8 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -536,8 +536,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 
@@ -597,11 +597,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
 bemötta i kontakt med kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
 medarbetare och ledare.
 
 10
@@ -1201,12 +1201,12 @@ Vidtagna och planerade åtgärder:
 energianvändningen avviker och skapa bättre underlag för riktade åtgärder.
 •  Tydliggjort roller, ansvar och arbetssätt för driftoptimering och energiuppföljning.
 •  Förstärkt projektet för det överordnade styrsystemet med resurser och förlängt införandet till årsskiftet
-2026.
+2026\.
 •  Förstärkt uppföljning av nyckeltal kopplade till energi per fastighetsobjekt.
 
 Lokalvård och Service Management
 Sedan föregående delår har Lokalvård genomfört en omfattande omorganisation som trädde i kraft den 1 juli
-2026. Den nya organisationen bygger på effektivisering av administrativa arbetsuppgifter och en minskning av
+2026\. Den nya organisationen bygger på effektivisering av administrativa arbetsuppgifter och en minskning av
 antalet chefsled. Inom tjänsteorganisationen har fyra tjänster omfördelats till två, vilket skapar en mer effektiv
 och ändamålsenlig organisation.
 
@@ -2054,7 +2054,7 @@ Diarienummer
 SE-2026-00250
 
 Förvaltningen för Service tjänsteskrivelse - Begäran om yttrande: Vägen mot utfasning
-- Styrmedel för ett fossilfritt samhälle (KS 2026-00522)
+\- Styrmedel för ett fossilfritt samhälle (KS 2026-00522)
 
 Förslag till beslut i nämnden för Service
 
@@ -2253,21 +2253,21 @@ kontinuitetsarbete.
 
 Nämndens ställningstagande i detalj
 
-1. Omställning av kommunens fordon och arbetsmaskiner:
--  Ställningstagande: Nämnden stödjer inriktningen mot ökad elektrifiering av
+1\. Omställning av kommunens fordon och arbetsmaskiner:
+\-  Ställningstagande: Nämnden stödjer inriktningen mot ökad elektrifiering av
 
 fordonsflottan och arbetsmaskiner samt fortsatt användning av förnybara drivmedel
 under omställningen.
--  Påverkan: Förslagen berör främst Fordonsenhetens kommungemensamma ansvar för
+\-  Påverkan: Förslagen berör främst Fordonsenhetens kommungemensamma ansvar för
 anskaffning, upplåtelse, administration och avveckling. De förstärker behovet av
 långsiktig planering av fordonsbyten, laddkapacitet, elnätsanslutningar och
 drivmedelsförsörjning.
 
-2. Ekonomiska konsekvenser och kommunens planering:
+2\. Ekonomiska konsekvenser och kommunens planering:
 
--  Ställningstagande: Nämnden bedömer att de ekonomiska styrmedlen kan bidra till
+\-  Ställningstagande: Nämnden bedömer att de ekonomiska styrmedlen kan bidra till
 omställningen och har inget att invända mot inriktningen.
--  Påverkan: Höjda priser på bensin och diesel kan öka kostnaderna för fordon,
+\-  Påverkan: Höjda priser på bensin och diesel kan öka kostnaderna för fordon,
 arbetsmaskiner, transporter och entreprenader som ännu inte kan elektrifieras.
 Investeringar och ökade kostnader behöver beaktas inom kommunens ordinarie
 investerings-, fordons- och budgetplanering.
@@ -2286,33 +2286,33 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-3. Klimatpremier och övergångslösningar:
+3\. Klimatpremier och övergångslösningar:
 
--  Ställningstagande: Nämnden tillstyrker förslagen om fortsatta klimatpremier för tunga
+\-  Ställningstagande: Nämnden tillstyrker förslagen om fortsatta klimatpremier för tunga
 fordon och arbetsmaskiner samt åtgärder som förbättrar ekonomin för elektrifiering.
 
--  Påverkan: Stöden bör vara förutsägbara och möjliga för kommuner att söka samt
+\-  Påverkan: Stöden bör vara förutsägbara och möjliga för kommuner att söka samt
 omfatta nödvändig ladd- och tankningsinfrastruktur. Det behövs även ändamålsenliga
 övergångslösningar för specialfordon, arbetsmaskiner och samhällsviktig utrustning där
 elektrifiering ännu inte är tekniskt eller beredskapsmässigt möjlig.
-4. Robusta lokaler, trygghetspunkter och reservkraft:
+4\. Robusta lokaler, trygghetspunkter och reservkraft:
 
--  Ställningstagande: Nämnden delar bedömningen att flytande drivmedel kommer att ha
+\-  Ställningstagande: Nämnden delar bedömningen att flytande drivmedel kommer att ha
 en viktig roll för reservkraft under lång tid. Kommunen ansvarar för att kartlägga
 behov, dimensionera uthållighet, planera lokal lagring och ha ändamålsenliga avtal för
 reservkraftens drift och försörjning.
 
--  Påverkan: När efterfrågan på bensin och diesel minskar kan drivmedelsstationer, depåer
+\-  Påverkan: När efterfrågan på bensin och diesel minskar kan drivmedelsstationer, depåer
 och beredskapslager minska. Kommunen behöver därför i sin beredskaps- och
 kontinuitetsplanering beakta risken för att flytande drivmedel kan bli en bristvara och
 att påfyllning av reservkraftaggregat kan begränsas under långvariga störningar.
-5. Fossilfria drivmedel för reservkraft:
+5\. Fossilfria drivmedel för reservkraft:
 
--  Ställningstagande: Nämnden har inget att invända mot en successiv övergång till
+\-  Ställningstagande: Nämnden har inget att invända mot en successiv övergång till
 fossilfria drivmedel för reservkraft, under förutsättning att verksamhetens krav på
 funktion och uthållighet kan säkerställas.
 
--  Påverkan: Vid en övergång behöver kommunen säkerställa att valda drivmedel är
+\-  Påverkan: Vid en övergång behöver kommunen säkerställa att valda drivmedel är
 godkända för aggregaten samt hantera kvalitet, lagringsbeständighet, lokal
 lagringskapacitet, alternativa drivmedel och leveransmöjligheter under störda
 förhållanden. Reservkraftslösningarna bör så långt som möjligt utformas så att
@@ -2332,38 +2332,38 @@ Remiss av betänkandet Vägen mot utfasning (SOU 2026:33)
 
 Remissinstanser
 
-1. 2030-sekretariatet
-2. AB Volvo
+1\. 2030-sekretariatet
+2\. AB Volvo
 
-3. Affärsverket svenska kraftnät
-4. Boliden AB
+3\. Affärsverket svenska kraftnät
+4\. Boliden AB
 
-5. Boverket
+5\. Boverket
 
-6. Byggföretagen
-7. Chalmers tekniska högskola AB
+6\. Byggföretagen
+7\. Chalmers tekniska högskola AB
 
-8. Drivkraft Sverige
+8\. Drivkraft Sverige
 
-9. Elbil Sverige
-10. Energiföretagen Sverige
+9\. Elbil Sverige
+10\. Energiföretagen Sverige
 
-11. Energigas Sverige
+11\. Energigas Sverige
 
-12. Energimarknadsinspektionen
-13. E.ON E-mobility
+12\. Energimarknadsinspektionen
+13\. E.ON E-mobility
 
-14. Epiroc Sverige
-15. Falu kommun
+14\. Epiroc Sverige
+15\. Falu kommun
 
-16. Fordonskomponentgruppen (FKG)
+16\. Fordonskomponentgruppen (FKG)
 
-17. Företagarna
-18. Försvarsmakten
+17\. Företagarna
+18\. Försvarsmakten
 
-19. Förvaltningsrätten i Linköping
+19\. Förvaltningsrätten i Linköping
 
-20. Green Cargo
+20\. Green Cargo
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
@@ -2371,168 +2371,168 @@ E-post: kn.registrator@regeringskansliet.se
 
 <!-- sida 52 -->
 
-21. Greenpeace Sverige
+21\. Greenpeace Sverige
 
-22. Gröna Mobilister
-23. Gällivare kommun
+22\. Gröna Mobilister
+23\. Gällivare kommun
 
-24. Gävle kommun
+24\. Gävle kommun
 
-25. Göteborgs kommun
-26. Hagainitiativet
+25\. Göteborgs kommun
+26\. Hagainitiativet
 
-27. Hela Sverige ska leva
-28. Hjo kommun
+27\. Hela Sverige ska leva
+28\. Hjo kommun
 
-29. Huddinge kommun
+29\. Huddinge kommun
 
-30. IVL Svenska Miljöinstitutet
-31. Jernkontoret
+30\. IVL Svenska Miljöinstitutet
+31\. Jernkontoret
 
-32. Jokkmokk kommun
+32\. Jokkmokk kommun
 
-33. Kalmar kommun
-34. Karlstad kommun
+33\. Kalmar kommun
+34\. Karlstad kommun
 
-35. Kiruna kommun
-36. Konjunkturinstitutet
+35\. Kiruna kommun
+36\. Konjunkturinstitutet
 
-37. Konkurrensverket
+37\. Konkurrensverket
 
-38. Konsumentverket
-39. Kungliga Automobil Klubben
+38\. Konsumentverket
+39\. Kungliga Automobil Klubben
 
-40. Kungl. Tekniska högskolan
+40\. Kungl. Tekniska högskolan
 
-41. Kungsbacka kommun
-42. Landsorganisationen i Sverige (LO)
+41\. Kungsbacka kommun
+42\. Landsorganisationen i Sverige (LO)
 
-43. Lantbrukarnas Riksförbund (LRF)
-44. Linköpings kommun
+43\. Lantbrukarnas Riksförbund (LRF)
+44\. Linköpings kommun
 
-45. LKAB
+45\. LKAB
 
-46. Luleå kommun
-47. Malmö kommun
+46\. Luleå kommun
+47\. Malmö kommun
 
-48. Maskinentreprenörerna
+48\. Maskinentreprenörerna
 
-49. Mobility Sweden
-50. Motorbranschens Riksförbund (MRF)
+49\. Mobility Sweden
+50\. Motorbranschens Riksförbund (MRF)
 
 2 (6)
 
 <!-- sida 53 -->
 
-51. Myndigheten för civilt försvar
+51\. Myndigheten för civilt försvar
 
-52. Nacka kommun
-53. Naturskyddsföreningen
+52\. Nacka kommun
+53\. Naturskyddsföreningen
 
-54. Naturvårdsverket
+54\. Naturvårdsverket
 
-55. Näringslivets Transportråd
-56. Organisationen Sveriges Servicestationer (OSS)
+55\. Näringslivets Transportråd
+56\. Organisationen Sveriges Servicestationer (OSS)
 
-57. Partille kommun
-58. PostNord
+57\. Partille kommun
+58\. PostNord
 
-59. Power Circle
+59\. Power Circle
 
-60. Regelrådet
-61. Region Dalarna
+60\. Regelrådet
+61\. Region Dalarna
 
-62. Region Gotland
+62\. Region Gotland
 
-63. Region Gävleborg
-64. Region Västerbotten
+63\. Region Gävleborg
+64\. Region Västerbotten
 
-65. Research Institutes of Sweden (RISE)
-66. Riksförbundet M Sverige
+65\. Research Institutes of Sweden (RISE)
+66\. Riksförbundet M Sverige
 
-67. Saco
+67\. Saco
 
-68. Sandvik AB
-69. Scania Sverige AB
+68\. Sandvik AB
+69\. Scania Sverige AB
 
-70. SJ AB
+70\. SJ AB
 
-71. Skatteverket
-72. Skogsindustrierna
+71\. Skatteverket
+72\. Skogsindustrierna
 
-73. Skogsstyrelsen
-74. Skövde kommun
+73\. Skogsstyrelsen
+74\. Skövde kommun
 
-75. Småföretagarnas Riksförbund
+75\. Småföretagarnas Riksförbund
 
-76. Sollentuna kommun
-77. Statens energimyndighet
+76\. Sollentuna kommun
+77\. Statens energimyndighet
 
-78. Statens jordbruksverk
+78\. Statens jordbruksverk
 
-79. Statens väg- och transportforskningsinstitut (VTI)
-80. Stockholms kommun
+79\. Statens väg- och transportforskningsinstitut (VTI)
+80\. Stockholms kommun
 
 3 (6)
 
 <!-- sida 54 -->
 
-81. Storumans kommun
+81\. Storumans kommun
 
-82. Sundsvalls kommun
-83. Svenska Fordonsbranschen
+82\. Sundsvalls kommun
+83\. Svenska Fordonsbranschen
 
-84. Svenska Transportarbetareförbundet
+84\. Svenska Transportarbetareförbundet
 
-85. Svensk Bioenergi (Svebio)
-86. Svensk Kollektivtrafik
+85\. Svensk Bioenergi (Svebio)
+86\. Svensk Kollektivtrafik
 
-87. Svenskt Näringsliv
-88. Sveriges Kommuner och Regioner (SKR)
+87\. Svenskt Näringsliv
+88\. Sveriges Kommuner och Regioner (SKR)
 
-89. Sveriges Konsumenter
+89\. Sveriges Konsumenter
 
-90. Sveriges Åkeriföretag
-91. Säffle kommun
+90\. Sveriges Åkeriföretag
+91\. Säffle kommun
 
-92. Teknikföretagen
+92\. Teknikföretagen
 
-93. Tillväxtverket
-94. Tjänstemännens centralorganisation (TCO)
+93\. Tillväxtverket
+94\. Tjänstemännens centralorganisation (TCO)
 
-95. Tomelilla kommun
-96. Trafikanalys
+95\. Tomelilla kommun
+96\. Trafikanalys
 
-97. Trafikverket
+97\. Trafikverket
 
-98. Transportföretagen
-99. Transportstyrelsen
+98\. Transportföretagen
+99\. Transportstyrelsen
 
-100. Tågföretagen
+100\. Tågföretagen
 
-101. Uppsala kommun
-102. Vattenfall InCharge
+101\. Uppsala kommun
+102\. Vattenfall InCharge
 
-103. Vimmerby kommun
-104. Volvo Cars
+103\. Vimmerby kommun
+104\. Volvo Cars
 
-105. Världsnaturfonden WWF
+105\. Världsnaturfonden WWF
 
-106. Västerås kommun
-107. Västra Götalandsregionen
+106\. Västerås kommun
+107\. Västra Götalandsregionen
 
-108. Vätgas Sverige
+108\. Vätgas Sverige
 
-109. Växjö kommun
-110. Åmål kommun
+109\. Växjö kommun
+110\. Åmål kommun
 
 4 (6)
 
 <!-- sida 55 -->
 
-111. Åsele kommun
+111\. Åsele kommun
 
-112. Örebro kommun
+112\. Örebro kommun
 
 Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet
 senast den 30 oktober 2026. Svaren bör lämnas per e-post till
@@ -4041,7 +4041,7 @@ de bränsleråvaror som anges i bilaga IX del A till förnybartdirek-
 tivet, i kombination med andelen förnybara drivmedel av icke-bio-
 logiskt ursprung, ska uppgå till minst 2 procent av den energi som
 levereras inom reduktionsplikten för respektive år 2028, 2029 och
-2030. Den andra subkvoten ställer krav på att andelen förnybara
+2030\. Den andra subkvoten ställer krav på att andelen förnybara
 drivmedel av icke-biologiskt ursprung (RFNBO) ska uppgå till
 
 minst 0,75 procent av den energi som levereras inom reduktions-
@@ -4291,7 +4291,7 @@ sätta enbart de fossila utsläppen.
 
 Utredningen föreslår därför att koldioxidskatten och energi-
 skatten ska slås samman till en energiskatt vid införandet av ETS 2,
-2028.
+2028\.
 
 Ny struktur för beskattningen av uppvärmningsbränslen införs
 Då uppdelningen i energi- och koldioxidskatt tas bort 2028 föreslås
@@ -6566,7 +6566,7 @@ SOU 2026:33       Utvecklingen av klimatpolitiken i EU – utgångsläge och pro
 landareal. Fördelningen innebär för svensk del att nettoupptaget ska
 öka med drygt 3,9 miljoner ton, i jämförelse med genomsnittet 2016–
 
-2018.
+2018\.
 LULUCF-förordningen omfattar även mål för perioden 2021–
 2025 som syftar till att LULUCF-sektorn inte ska orsaka ökade netto-
 utsläpp, se avsnitt 2.1.
@@ -7165,7 +7165,7 @@ Figur 3.5 Andel förnybar energi i transportsektorn 2024,
 beräknat enligt förnybartdirektivets bestämmelser
 
 Källa: Eurostat. https://ec.europa.eu/eurostat/statistics-
-explained/images/3/3a/Share_of_energy_from_renewable_sources_in_transport%2C_2024_%28%25
+explained/images/3/3a/Share_of_energy_from_renewable_sources_in_transport%2C_2024\_%28%25
 %29.png.
 38 Europaparlamentets och rådets direktiv 1999/62/EG av den 17 juni 1999 om avgifter på
 tunga godsfordon för användningen av vissa infrastrukturer (Eurovinjettdirektivet) ändrades
@@ -7302,7 +7302,7 @@ Land  Typ av inbland- Nivå Subkvoter Omfattning Anmärkning
 ningskrav 2030 /multiplikatorer
 Bulgarien Kvotplikt 29 % Ja, i enlighet Inrikes Införts 2025
 med REDIII transporter
-Danmark Reduktionsplikt 7 %* Hela   Införts 2025
+Danmark Reduktionsplikt 7 %\* Hela   Införts 2025
 transportsektorn
 Finland Kvotplikt 34 % Ja, RFNBO 4% Hela Införts 2025
 2030    transportsektorn
@@ -7333,12 +7333,12 @@ ningskrav 2030 /multiplikatorer
 Rumänien Kvotplikt 29 % Ja i enlighet Inrikes Införts under
 med REDIII transporter 2025
 Spanien Reduktionsplikt 15,6 % RFNBO 1,5 % Förslag
-Tyskland** Reduktionsplikt 26,5 % RFNBO, inga Inrikes Införs under
+Tyskland\*\* Reduktionsplikt 26,5 % RFNBO, inga Inrikes Införs under
 multiplikatorer transporter 2026,
 för bilaga IX A, sträcker sig
 till 2040
-*Danmark räknar med hela elanvändningen i reduktionsplikten och tillämpar multiplikatorer.
-** Tyskland beslutade om att revidera lagstiftningen i slutet av april 2026 och höjde då pliktnivån
+\*Danmark räknar med hela elanvändningen i reduktionsplikten och tillämpar multiplikatorer.
+\*\* Tyskland beslutade om att revidera lagstiftningen i slutet av april 2026 och höjde då pliktnivån
 2030, subkvoterna för RFNBO och det tillåtna maxtaket för livsmedels- och fodergrödor jämfört med
 ursprungsförslaget.
 Källa: Bearbetning av underlags-PM från Energimyndighetens expert i utredningen, USDA FAS (2026)
@@ -7394,7 +7394,7 @@ utsläppshandel. I det nederländska lagstiftningsförslaget separeras
 även kvoterna för avancerade biodrivmedel och RFNBO från varandra.
 Tysklands nyligen skärpta reduktionspliktssystem innehåller också
 en särskild undergrupp för RFNBO, där nivån är satt på 1,5 procent
-2030. Nivån skärps sedan stegvis till 2040, då den är satt på 10procent.43
+2030\. Nivån skärps sedan stegvis till 2040, då den är satt på 10procent.43
 
 3.5.5 Sverige ligger i toppskiktet av EU-länder
 i nybilsförsäljning av elbilar men ökningstakten
@@ -7492,7 +7492,7 @@ Utvecklingen av klimatpolitiken i EU – utgångsläge och problembild SOU 2026:
 Figur 3.9 Andel elbilar i procent av nyförsäljningen
 av personbilar 2023–2025
 
-Länder med högst andel av nyförsäljningen i EU*
+Länder med högst andel av nyförsäljningen i EU\*
 100%
 90%             2023 2024 2025
 
@@ -7509,7 +7509,7 @@ Länder med högst andel av nyförsäljningen i EU*
 
 0%
 Danmark Finland Island Nederländerna Norge Sverige
-*Utom Malta.
+\*Utom Malta.
 Källor: Egen bearbetning av ACEA New car registrations 2024 och 2025. (https://www.acea.auto/pc-
 registrations/new-car-registrations-0-8-in-2024-battery-electric-13-6-market-share/) och
 https://www.acea.auto/pc-registrations/new-car-registrations-1-8-in-2025-battery-electric-17-4-
@@ -7944,7 +7944,7 @@ Utvecklingen av klimatpolitiken i EU – utgångsläge och problembild SOU 2026:
 • Nationella ansvar för uppnåendet av målet (benämns mål i för-
 
 ordningen) ska fördelas mellan medlemsländerna, även efter
-2030. Fördelningen ska utgå både från principer om solidaritet
+2030\. Fördelningen ska utgå både från principer om solidaritet
 och kostnadseffektivitet. De kommande nationella ansvarens
 omfattning framgår inte av beslutet. Omfattningen kan i princip
 komma att bli alltifrån ”Economy-wide”, dvs. omfatta samtliga
@@ -8326,7 +8326,7 @@ konkurrenskraftskompassen85. Färdplanen har sin utgångspunkt i den
 så kallade Draghi-rapporten86 från hösten 2024 och har tre huvud-
 
 syften:
-1. Stänga innovationsklyftan
+1\. Stänga innovationsklyftan
 EU behöver bli bättre på att ta fram, utveckla och kommersia-
 lisera ny teknologi – till exempel inom AI, bioteknik, rymd-
 teknik och avancerade material. Det behöver bli enklare att
@@ -8334,7 +8334,7 @@ starta och skala upp företag och mer pengar behöver kunna gå
 till innovation. Under denna inriktning ligger också insatser för
 
 regelförenkling och harmonisering.
-2. Kombinera utfasning av fossila bränslen och sänkta växthusgas-
+2\. Kombinera utfasning av fossila bränslen och sänkta växthusgas-
 utsläpp med stärkt konkurrenskraft
 EU vill göra omställningen till en fossilfri energi- och klimat-
 neutral ekonomi till en konkurrensfördel i stället för en belast-
@@ -8343,7 +8343,7 @@ Deal87 och aktionsplanen för Affordable Energy Prices, se nedan,
 samt särskilda dialoger och aktionsplaner för utvalda branscher
 
 som kemiindustri, järn- och stålindustri och bilindustri.
-3. Minska beroenden och stärka säkerhet och motståndskraft
+3\. Minska beroenden och stärka säkerhet och motståndskraft
 Genom att diversifiera leverantörskedjor, skapa nya handels-
 och investeringspartnerskap och se över offentlig upphandling
 så den inriktas mer mot inhemskt producerade varor och tjänster,
@@ -8458,15 +8458,15 @@ regler. Stödordningar kan regleras i lag eller förordning.
 otillåtna (artikel 107.1 EUF-fördraget). Åtgärder bedöms utifrån
 ett antal kriterier som alla ska vara uppfyllda för att det ska vara fråga
 om ett statligt stöd. Åtgärden ska
-1. vara kopplad till det offentliga, dvs. staten, kommuner eller
+1\. vara kopplad till det offentliga, dvs. staten, kommuner eller
 regioner,
 
-2. vara riktad mot viss verksamhet eller viss produktion,
-3. vara riktad till den som bedriver ekonomisk verksamhet (företag),
+2\. vara riktad mot viss verksamhet eller viss produktion,
+3\. vara riktad till den som bedriver ekonomisk verksamhet (företag),
 
-4. gynna mottagaren, dvs. ge mottagaren en fördel framför andra
+4\. gynna mottagaren, dvs. ge mottagaren en fördel framför andra
 konkurrenter, och
-5. snedvrida eller hota att snedvrida konkurrensen och påverka
+5\. snedvrida eller hota att snedvrida konkurrensen och påverka
 handeln mellan EU:s medlemsstater.
 
 När det gäller kopplingen till det offentliga måste det handla om en
@@ -9077,12 +9077,12 @@ till att hela utsläppsökningen kompenseras
 Om en justeringsklausul skulle införas i Styrningsförordningen, och
 därefter kunna tillämpas på den nya beräkningen av lustgasutsläpp
 från lastbilar, så kan bland annat följande vara värt att notera:
-1. Utsläppsökningen på grund av högre utsläppsfaktorer för lust-
+1\. Utsläppsökningen på grund av högre utsläppsfaktorer för lust-
 
 gasutsläpp inleds 2014, dvs. ökningen påverkar inte utsläppen i
 basåret 2005 och därmed inte heller utsläppsnivån för slutåret i
 ESR, 2030.
-2. Om metodförändringen skulle leda till en omräkning av utsläpps-
+2\. Om metodförändringen skulle leda till en omräkning av utsläpps-
 utrymmet i ESR för perioden 2026 till 2030, och följa den beräk-
 ningsformel som anges i ESR-bestämmelserna, så skulle en sådan
 
@@ -9131,7 +9131,7 @@ lastbilar uppgår underskottet i stället till knappt 13 miljoner ton.
 Uppskattningarna i utredningens referensscenario är som tidigare
 nämnts preliminära. De slutliga scenarioberäkningarna kommer redo-
 visas i en kommande rapport från Naturvårdsverket i mitten av juni
-2026.
+2026\.
 I figur 4.1 nedan illustreras hur Sveriges utsläppsutrymme utveck-
 las gentemot landets ESR-åtagande under perioden 2021–2030, med
 dessa avgränsningar.
@@ -10706,7 +10706,7 @@ Tidpunkt    Diesel Diesel (2021) Bensin Bensin (2021)
 1 januari 2030 10*    66     10*      28
 ```
 
-*Inklusive krediter från offentligt tillgängliga laddstationer.
+\*Inklusive krediter från offentligt tillgängliga laddstationer.
 Källa: Prop. 2020/21:180 och prop. 2024/25:131.
 26 Energimyndigheten beskriver problematiken i Kontrollstation för reduktionsplikten –
 Delrapport 1 av 2, Energimyndigheten (2022), s. 43 men talar där om ett fåtal tillverkare.
@@ -11751,7 +11751,7 @@ leasingfordon. Klimatpremien kan sökas av företag (inkl. leasing-
 företag), kommuner och regioner men inte privatpersoner. Den för-
 
 längdes och förstärktes enligt det senaste budgetbeslutet hösten
-2025. Premien kommer kunna sökas till den 31 oktober 2027 och
+2025\. Premien kommer kunna sökas till den 31 oktober 2027 och
 kommer kunna betalas ut till och med 2028 års utgång.
 
 Elbilspremien med medel från
@@ -11909,7 +11909,7 @@ vid körsträcka 1200 mil
 ink moms
 Fordonsskatt år 1–3 5 175 9 010 11 288 360 360
 Fordonsskatt år 4+ 558 1 218 3 496 360 360
-Årligt belopp elbilspremie     15 600 15 600*
+Årligt belopp elbilspremie     15 600 15 600\*
 Förmånsvärde  69 698 97 211 107 381 49 098 72 776
 Nedsättning av                 31 570 55 248
 förmånsvärde
@@ -11921,7 +11921,7 @@ nedsatt förmånsvärde vid
 marginalskatt 50 %
 Effekt på sociala avgifter     -9 919 -17 359
 av nedsatt förmånsvärde
-*Elbilspremien har ett pristak som gör att den större elbilen inte omfattas som ny men däremot kan
+\*Elbilspremien har ett pristak som gör att den större elbilen inte omfattas som ny men däremot kan
 den omfattas begagnad under förutsättning att priset är högst 450 000 kronor.
 Källa: Egna beräkningar med förmånsvärde beräknat för inkomståret 2026.
 Under de första tre åren efter nyregistrering omfattas bensin- och
@@ -12628,7 +12628,7 @@ kommuner i Sverige. Upphandlingarna har ökat i omfattning, men
 
 90 https://bransch.trafikverket.se/om-oss/aktuellt-for-dig-i-branschen3/aktuellt-for-dig-i-
 branschen/2025/2025-10/nollutslapp-testas-i-praktiken/ hämtad från webben den 20 april
-2026.
+2026\.
 
 228
 
@@ -14027,7 +14027,7 @@ också utbudet av laddbara bilar i mindre storlekar och lägre prisklasser,
 vilka så småningom också når begagnatmarknaden.
 På tio år har nyregistreringen av laddbara bilar i Sverige ökat både
 i antal och i andel, från en andel på 3 procent 2016 till 61 procent
-2025. En naturlig konsekvens av den pågående omställningen är att
+2025\. En naturlig konsekvens av den pågående omställningen är att
 de laddbara bilarna i trafik är yngre än genomsnittet. Detta innebär
 även att de laddbara bilarna är överrepresenterade i de segment där
 nyare bilar ofta finns, t.ex. bland boende i något av storstadslänen
@@ -14874,7 +14874,7 @@ Koldioxidkraven för tunga fordon19 innebär inte ett förbud mot
 nyförsäljning av tunga fordon med förbränningsmotor utan ger ut-
 
 rymme för att fordon med förbränningsmotor tillåts säljas även efter
-2040. Kraven är samtidigt så strikt satta att en introduktion av fordon
+2040\. Kraven är samtidigt så strikt satta att en introduktion av fordon
 med nollutsläpp successivt behöver ske.
 De eldrivna fordonen bedöms kunna utvecklas mot att bli alltmer
 konkurrenskraftiga, totalekonomiskt, när tillverkningen skalas upp,
@@ -15824,13 +15824,13 @@ ursprung
 De bioråvaror som främst används för produktion av flytande och
 gasformiga biodrivmedel i dag, kan i stort delas upp i tre kategorier:20
 
-1. Socker- eller stärkelsebaserade råvaror, till exempel sockerrör,
+1\. Socker- eller stärkelsebaserade råvaror, till exempel sockerrör,
 sockerbetor, vete, majs och andra spannmål. Dessa används främst
 för etanolproduktion. De bioråvaror som används till produk-
 tion av etanol, räknas främst som livsmedel- och foderråvara
 enligt förnybartdirektivets21 klassificering, se faktaruta nedan.
 
-2. Råvaror som innehåller oljor och fetter, exempelvis raps, och
+2\. Råvaror som innehåller oljor och fetter, exempelvis raps, och
 oljepalm, restprodukter som använd frityrolja, animaliska fetter
 från slakterier och tallolja från pappers- och massaindustrin. Samt-
 liga kan används för produktion av HVO. För FAME-produktion
@@ -15840,7 +15840,7 @@ palett av oljor och fetter, både sådana som räknas som livsmedel-
 och foderråvara, avfall- och restprodukter som inte ingår i bilaga
 9A eller 9B samt från vissa råvaror i bilaga IX del A och IX del B
 till förnybartdirektivet, se faktaruta nedan.
-3. Gas från avfallsdeponier, gödsel, slam från avloppsrenings-
+3\. Gas från avfallsdeponier, gödsel, slam från avloppsrenings-
 
 verk och från vissa industrier samt livsmedelsavfall. Dessa
 används för framställning av biogas. Substrat för biogasproduk-
@@ -15867,12 +15867,12 @@ vars användning är mer begränsad i dag. För att användningen ska
 
 kunna öka krävs, generellt sett, investeringar i teknikutveckling och
 i produktionskapacitet.
-1. Lignocellulosa; som exempelvis träflis, sågspån, bark och halm.
+1\. Lignocellulosa; som exempelvis träflis, sågspån, bark och halm.
 Kan delvis användas vid produktion av HVO, etanol, metanol,
 bio-metan (biogas), ammoniak m.fl. alternativ. Lignocellulosa
 ingår i bilaga IX del A till förnybardirektivet.
 
-2. Koldioxid och förnybar elektricitet som används för tillverk-
+2\. Koldioxid och förnybar elektricitet som används för tillverk-
 ning av olika typer av elektrobränslen22 och vätgas eller, så kallade
 RFNBO:s enligt EU:s förnybartdirektiv (Renewable Fuels of
 Non Biological Origin). Koldioxiden kan fångas in från luften
@@ -16590,7 +16590,7 @@ för HVO som inblandningskomponent i diesel, ända sedan driv-
 medlet introducerades på marknaden hade prissatts i förhållande
 till diesel. HVO-priserna följde dieselpriserna uppåt även när diesel-
 priserna började stiga under 2021 och när de ökade kraftigt under
-2022. Differensen mellan dieselpriset och priset på HVO100 steg
+2022\. Differensen mellan dieselpriset och priset på HVO100 steg
 dock under perioden, och höjningen skedde redan före Ryssland
 startade invasionskriget mot Ukraina. Förklaringarna bakom denna
 utveckling kunde enligt svaren i IVL:s intervjuer vara flera, (i) ingen
@@ -16615,7 +16615,7 @@ de problem som kan uppstå när det gäller hur drivmedelsmarknaden
 och priserna på förnybara drivmedel kan komma att utvecklas i EU
 och Sverige, har utredningen valt att studera resultat och budskap
 från några aktuella scenarioanalyser som sträcker sig mot 2040 och
-2050. Vid sidan av scenarierna summerar vi här även några andra
+2050\. Vid sidan av scenarierna summerar vi här även några andra
 relevanta resultat i ämnet.
 
 51 IVL Svenska Miljöinstitutet (2022b).
@@ -16721,8 +16721,8 @@ raffinaderiindustrin inte i detalj. Tillväxt i kemiindustrin i raffinaderikapac
 modelleringen. raffinaderikapaciteten för framställning
 av Annex9A-biodrivmedel. I scenariot med
 lägre elektrifieringstakt ställs ett större
-antal raffinaderier om.*
-*I scenarierna är EU fortsatt importberoende av flygbränsle. Vid omställning från fossila råvaror uppkommer även brist på bit umen. Nafta till kemiindustrin kan däremot
+antal raffinaderier om.\*
+\*I scenarierna är EU fortsatt importberoende av flygbränsle. Vid omställning från fossila råvaror uppkommer även brist på bit umen. Nafta till kemiindustrin kan däremot
 tillgodoses med förnybar råvara.
 Källa: Egen bearbetning.
 
@@ -18071,7 +18071,7 @@ finns det företag som har fossila bränslen djupt integrerade i sin affärsmode
 svårt att överleva i sin nuvarande form oavsett hur klimatpolitiken utformas. Dessa två grupper
 av företag är inte i fokus här.
 16 Detta beror delvis på den kommande utformningen av EU:s klimatpolitiska ramverk efter
-2030.
+2030\.
 351
 
 <!-- sida 408 -->
@@ -18404,7 +18404,7 @@ Sparbankerna (2025b).
 44 Detta framgår till exempel av SCB:s jämförelser av förädlingsvärde per anställd där skogs-
 bruket ligger på plats 15 av 77 jämförda branscher, se statistik Branschnyckeltal efter näringsgren
 SNI 2007 och storleksklass och kvartil. År 2008 – 2024. Tillgänglig på:
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__NV__NV0109__NV0109O/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_NV\_\_NV0109\_\_NV0109O/
 BNTT01/.
 358
 
@@ -18876,7 +18876,7 @@ Upplevd rättvisa och upplevd verkningsfullhet är de mest centrala
 styrmedelsspecifika faktorerna för acceptans enligt den sammantagna
 forskningen. Utifrån denna forskning och utredningsdirektiven be-
 dömer vi att upplevd rättvisa kan konkretiseras genom fyra principer,
-1) påverkan på priser och utgifter bör begränsas, 2) betydande nega-
+1\) påverkan på priser och utgifter bör begränsas, 2) betydande nega-
 tiva fördelningseffekter för individer och grupper bör undvikas, i
 synnerhet på svaga grupper, 3) tillgängligheten bör inte försämras
 avsevärt för individer eller grupper 4) de klimatpolitiska styrmedlen
@@ -19622,7 +19622,7 @@ visar att biltillgängligheten utgör en större andel av den totala tillgäng-
 
 106 Andel av de sysselsatta enl. arbetsmiljöundersökningen för vald arbetsmiljöfråga efter kön
 och ålder. År 2024 i Arbetsmiljöundersökningen (Arbetsmiljöverket), tillgänglig på
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__AM__AM0501__AM0501A/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_AM\_\_AM0501\_\_AM0501A/
 ArbmiljoInkomstN/table/tableViewLayout1/.
 107 Prop. 2008/09:93.
 108 Trafikverket (2025).
@@ -20780,7 +20780,7 @@ svarande en inflationsjustering. Grundbeloppet föreslås höjas från
 belopp som bensin- och dieselfordon. Samtidigt föreslås fler bilar
 omfattas av koldioxidbeloppet genom att gränsen sänks från 111
 till 95 gram per kilometer. Förslaget föreslås träda i kraft 1 februari
-2028.
+2028\.
 
 9.1.4 Fasa ut nedsättningen av förmånsvärdet för elbilar,
 laddhybrider och gasbilar stegvis under en treårsperiod
@@ -21038,7 +21038,7 @@ Förslag för omställning av fordonsflottan och arbetsmaskiner SOU 2026:33
 slås nedsättningen av nybilspriset vara 75 000 kronor, 50 000 kronor
 och 25 000 kronor för bilar som nyregistreras 2028, 2029 respektive
 
-2030. För gasbilar föreslås en nedsättning på motsvarande 50 000,
+2030\. För gasbilar föreslås en nedsättning på motsvarande 50 000,
 25 000 och 10 000 kronor för bilar som nyregistreras 2028, 2029 re-
 spektive 2030. Nedsättningen kan dock högst uppgå till 40 procent
 av nybilspriset. Nedsättningen tas bort helt för bilar som nyregistre-
@@ -21210,7 +21210,7 @@ leasades av hushållen, se tabell 6.1 i kapitel 6. Ett stöd på 10 000 kro-
 nor årligen till hushåll som äger eller leasar elbilar, vilket motsvarar
 ungefär två tredjedelar av det stöd som ges med den riktade elbils-
 premien, hade inneburit en kostnad på cirka 2,2 miljarder kronor för
-2025. Med ett växande antal elbilar de närmaste åren kommer kost-
+2025\. Med ett växande antal elbilar de närmaste åren kommer kost-
 naden att öka.
 
 419
@@ -21766,7 +21766,7 @@ samt att (iv)det bör införas en bedömning av och en stödgivning som
 tar hänsyn till om stödet till miljöarbetsmaskiner går till små- eller
 medelstora företag, på samma sätt som i stödgivningen för tunga el-
 lastbilar. Förslag två och tre på listan ovan har införts under våren
-2026.
+2026\.
 Utredningen tar inte ställning till Energimyndighetens samtliga
 förslag men konstaterar att genomförandet av några av förslagen
 riskerar att stöta på svårigheter på grund av att det saknas ett stat-
@@ -22146,14 +22146,14 @@ Konjunkturinstitutet4 använde 20235 en allmän jämviktsmodell
 över svensk ekonomi för att jämföra fyra olika scenarier som alla
 når Sveriges ESR-åtagande. De fyra scenarierna var:
 
-1. Höjd drivmedelsskatt: reduktionsplikt på 6 procent till 2030 och
+1\. Höjd drivmedelsskatt: reduktionsplikt på 6 procent till 2030 och
 drivmedelsskatten på drivmedel höjs till en nivå så att målet nås.
-2. Påskyndad elektrifiering: ovanstående scenario kompletterat med
+2\. Påskyndad elektrifiering: ovanstående scenario kompletterat med
 en elbilsbonus och en malus för en snabbare elektrifiering.
 
-3. Handelssystem: modellerat som en koldioxidskatt på fossila driv-
+3\. Handelssystem: modellerat som en koldioxidskatt på fossila driv-
 medelskomponenter. Inblandade biodrivmedel skattebefrias.
-4. Höjd reduktionsplikt: reduktionsplikten höjs 2027 till nivån den
+4\. Höjd reduktionsplikt: reduktionsplikten höjs 2027 till nivån den
 enligt planen skulle haft 2024 och följer sedan den ursprungliga
 banan; drivmedelsskatten höjs så att målet nås.
 
@@ -22476,7 +22476,7 @@ reduktionspliktsnivåerna succesivt höjas för att kunna bidra till en
 jämn efterfrågan på förnybara drivmedel. Med tanke på att vårt be-
 tänkande lämnas till regeringen försommaren 2026 är det svårt för
 riksdagen att hinna höja reduktionspliktsnivåerna från 1 januari
-2027. Utredningen anser därför att reduktionspliktsnivåerna bör
+2027\. Utredningen anser därför att reduktionspliktsnivåerna bör
 höjas från den 1 januari 2028 i enlighet med det nedre alternativet
 i tabell 10.2. De reduktionspliktsnivåer som redovisas i tabellen är
 jämförbara med de inblandningskrav som många andra medlems-
@@ -24019,7 +24019,7 @@ fossila drivmedel. Både golv- och takpriset behöver därför konti-
 nuerligt justeras i takt med ökande reduktionspliktsnivåer.
 
 17 Här antas att biodrivmedlet ersätter fossil diesel med utsläppsvärde 94 g/MJ. Överskottet
-vid 10 procent reduktionsplikt kan då beräknas som (94-10)/94*100-(0,1*94)=79,96.
+vid 10 procent reduktionsplikt kan då beräknas som (94-10)/94\*100-(0,1\*94)=79,96.
 
 481
 
@@ -24566,14 +24566,14 @@ raffinaderier.
 Ordförklaringen av RFNBO ska även omfatta gasformiga
 sådana.
 Två subkvoter ska införas som ställer krav på att:
-1. Andelen avancerade biodrivmedel och biogas som produceras
+1\. Andelen avancerade biodrivmedel och biogas som produceras
 från de bränsleråvaror som anges i bilaga IX del A till förny-
 bardirektivet, i kombination med andelen förnybara drivmedel
 
 av icke-biologiskt ursprung, ska uppgå till minst 2 procent av
 den energi som levereras inom reduktionsplikten för respek-
 tive år 2028, 2029 och 2030.
-2. Andelen förnybara drivmedel av icke-biologiskt ursprung
+2\. Andelen förnybara drivmedel av icke-biologiskt ursprung
 (RFNBO)ska uppgå till minst 0,75 procent av den energi som
 levereras inom reduktionsplikten för respektive år 2028, 2029
 och 2030.
@@ -24907,10 +24907,10 @@ Förslag
 Utgångspunkterna för direkt prissättning av koldioxidutsläpp
 ska vara att
 
-1. Endast fossila utsläpp ska prissättas,
-2. prissättningen ska vara enhetlig, och
+1\. Endast fossila utsläpp ska prissättas,
+2\. prissättningen ska vara enhetlig, och
 
-3. utsläpp ska endast prissättas en gång.
+3\. utsläpp ska endast prissättas en gång.
 
 Ett utsläppshandelssystem uppfyller samtliga dessa utgångspunk-
 ter. Direkt prissättning av koldioxidutsläpp i Sverige ska endast
@@ -25087,7 +25087,7 @@ prissättning av fossila utsläpp inom ESR-sektorn. För att inte öka
 skillnaden i styrning mellan sektorerna föreslås att den generella skatte-
 nivån sätts lägre än summan av nuvarande energi- och koldioxidskatt
 motsvarande det prispåslag som förväntas från ETS 2 vid införandet
-2028.
+2028\.
 
 Införandet av ETS 2 innebär att skillnaden i styrning mellan industri
 inom ETS 1 och övrig användning av uppvärmningsbränslen ökar
@@ -25495,7 +25495,7 @@ relativt liten och svenska drivmedelspriser bedöms även efter en sådan
 ändring ligga lägre än de i andra jämförbara länder. Priserna skulle
 också ligga under den historiska prisutvecklingen, det vill säga de
 drivmedelspriser, i reala termer, som vi har haft tidigare, se kapitel
-7. Vi diskuterar i kapitel 6 att hushållens och företagens incitament
+7\. Vi diskuterar i kapitel 6 att hushållens och företagens incitament
 
 för att välja elfordon är beroende av de totala kostnaderna för att äga
 och använda fordonen och att drivmedelskostnaderna är en viktig del
@@ -28246,7 +28246,7 @@ näringarna är risken att de kapitaliseras i markpriser och därmed inte
 21 Arfwedson, S.M. & Jansson, T. (2025).
 22 Personalkostnader/nettoomsättning (procent) i SCB:s statistik Branschnyckeltal efter
 näringsgren SNI 2007 och storleksklass och kvartil. År 2008 – 2024. Tillgänglig på:
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__NV__NV0109__NV0109O/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_NV\_\_NV0109\_\_NV0109O/
 BNTT01/.
 23 Jordbruksverket (2025b).
 24 SOU 2021:67.
@@ -29247,7 +29247,7 @@ ningen ska bli säker och acceptabel och fungera över tid.
 Tabell 14.1 Utsläppseffekter kopplade till utredningens styrmedelsförslag,
 beräknade genom dekomponering
 Tusentals ton koldioxidekvivalenter
-Förslag            2028* 2029   2030  2045
+Förslag            2028\* 2029   2030  2045
 Utsläppseffekter av att antalet
 lätta fordon med förbrännings-
 motor minskar till följd av utred-
@@ -29272,7 +29272,7 @@ och av utredningens energiskatte-
 förslag (netto)     170   140   120    50
 Anm.: Beräkningarna i tabellen gäller per åtgärdspaket men är en följd av utredningens samlade styr-
 medelsförslag.
-*Utredningens förslag bedöms inte hinna genomföras tidigare.
+\*Utredningens förslag bedöms inte hinna genomföras tidigare.
 Källa: Beräkningar med stöd av experter i utredningens analysgrupp.
 Tabell 14.1 synliggör att utsläppsminskningarna till följd av utred-
 ningens förslag på kort sikt till övervägande del uppstår som en följd
@@ -29674,7 +29674,7 @@ Summa exkl. moms 2,54 2,55 2,60 2,61 2,61 2,64
 Summa inkl. moms 3,17 3,19 3,25 3,27 3,26 3,31
 Anm.: Priseffekten i tabellen är i förhållande till beslutad politik. Effekten av höjd reduktionsplikt är med
 andra ord effekten av att höja reduktionspliktsnivån från 10 procent. Höjd energiskatt är i prisnivå för
-2028.
+2028\.
 Källa: Egna beräkningar med stöd av utredningens analysgrupp.
 14.6.2 Drivmedelspriserna bedöms hamna mer
 i linje med priserna i jämförbara länder
@@ -30171,7 +30171,7 @@ anges utredningens förslag för år fyra till sex både med förlängd
 malus och utan förlängd malus (inom parentes). Då förlängningen av
 malus föreslås gälla endast för fordon som registreras efter 1 januari
 2028 kommer detta förslag inte att påverka kostnadskalkylen förrän
-2031. Övriga förslag påverkar kalkylen redan från 2028.
+2031\. Övriga förslag påverkar kalkylen redan från 2028.
 I kolumnen för referensscenariot redovisas de körsträckor som
 krävs i referensscenariot för att elbilen ska få en lägre totalkostnad.
 I samtliga fall utom jämförelsen mellan VW Golf och ID.3 (par 3)
@@ -30672,7 +30672,7 @@ från vägtrafikregistret. Analyserna i FASIT görs i 2028 års ekono-
 miska miljö men eftersom det inte sker någon framskrivning av for-
 donsflottans egenskaper i modellen ska resultaten tolkas som de effek-
 ter som skulle uppstått om fordonsflottan 2028 vore densamma som
-2024. Detta innebär att hushållens känslighet för drivmedelspriser
+2024\. Detta innebär att hushållens känslighet för drivmedelspriser
 överskattas något främst till följd av att en större andel av hushållen
 kommer att ha tillgång till laddbara fordon 2028 när förslagen träder
 i kraft än i det datamaterial som analysen baseras på.
@@ -31537,11 +31537,11 @@ exklusive moms 2025 års priser
 Körsträcka Förbrukning Kostnadsökning
 (mil/år) (l/mil)
 2028  2029  2030
-Fjärrbilsekipage* 12 500 3,5 101 400 103 000 105 700
+Fjärrbilsekipage\* 12 500 3,5 101 400 103 000 105 700
 Lätt lastbil 1 500 0,6    2 300 2 400 2 400
 Buss       5 000   4,0    51 500 52 300 53 700
 Taxi       5 000   0,4    5 100 5 200 5 400
-*Beräkningen utgår ifrån ett antagande om att 90 procent av dieseln som ett fjärrbilsekipage använder
+\*Beräkningen utgår ifrån ett antagande om att 90 procent av dieseln som ett fjärrbilsekipage använder
 tankas i Sverige.
 Källa: Egna beräkningar baserade på antaganden i Prop. 2025/26:236 tabell 5.3.
 
@@ -31690,7 +31690,7 @@ samhällsmål. Vi bedömer att utfasningen påverkar mål inom flera
 politikområden och ser att det finns fyra gemensamma nämnare bland
 dessa: 1) Ekonomi – mål att bidra till Sveriges konkurrenskraft, en
 positiv utveckling av Sveriges ekonomi och väl fungerade marknader,
-2) Trygghet – mål om försörjningstrygghet, förmåga att upprätthålla
+2\) Trygghet – mål om försörjningstrygghet, förmåga att upprätthålla
 samhällsfunktioner, skydda landet och befolkningen, 3) Hållbarhet
 – mål om att utvecklingen i samhället ska ske på ett miljö- och hälso-
 mässigt hållbart sätt och 4) Regionalpolitik – likvärdiga förutsätt-
@@ -32072,13 +32072,13 @@ och gasbilar trappas ner 0,53 0,49 1,21 2,17
 Förlängd utökad nedsättning
 för jordbruksdiesel −1,53 −1,21 −1,21 −1,21
 Ny struktur för beskattning
-av uppvärmningsbränslen * *     *      *
+av uppvärmningsbränslen \* \*     \*      \*
 Summa           −2,92  −4,29  −3,17  −1,75
 Anm.: Bruttoeffekten beskriver den direkta effekten på skatteintäkterna från den skatt som ändras
 medan nettoeffekten tar hänsyn till indirekta effekter som uppstår genom att andra skattebaser för-
 ändras, t.ex. genom moms eller bolagsskatt. Negativa siffror innebär en ökad kostnad för staten, posi-
 tiva siffror innebär en ökad intäkt för staten.
-*Utredningen lämnar inget förslag på skattesatser för uppvärmningsbränslen men föreslår att den nya
+\*Utredningen lämnar inget förslag på skattesatser för uppvärmningsbränslen men föreslår att den nya
 energiskatten 2028 bör sättas så att den beaktar det förväntade prispåslaget från ETS 2 2028. Någon
 beräkning av offentligfinansiell effekt har inte gjorts.
 Källa: Egna beräkningar.
@@ -32108,7 +32108,7 @@ Förslag  Utgifts- Anslag 2027 2028 2029 2030 2031 Slut
 område
 Prisgolv för ut- 21 Nytt anslag
 släppsminsk- Energi
-ningar införs*                       −0,5 2035
+ningar införs\*                       −0,5 2035
 Energi- och 21 1:5 Energi-
 klimatrådgiv- Energi planering
 ningen förstärks      −0,06 −0,06 −0,06 −0,06 −0,06 2032
@@ -32127,7 +32127,7 @@ kommersiell ser- utveck- åtgärder
 vice förlängs ling        −0,09 −0,09 −0,09 −0,09 2032
 Summa                 −0,26 −0,95 −1,85 −1,55 −0,65
 Anm.: Negativa siffror innebär en ökad kostnad för staten, positiva siffror innebär en ökad intäkt för staten.
-*Prisgolvet för utsläppsminskningar föreslås införas när rena och höginblandade drivmedel inkluderas i
+\*Prisgolvet för utsläppsminskningar föreslås införas när rena och höginblandade drivmedel inkluderas i
 reduktionsplikten, vilket föreslås senast den 1 januari 2031.
 Källa: Egna beräkningar.
 Totalt bedöms utredningens förslag leda till ökade kostnader för
@@ -32275,9 +32275,9 @@ Alkylatbensin i miljöklass 1 Alkylatbensin
 För klassificering i miljöklass 1 En alkylatbensin ska uppfylla
 ska en alkylatbensin uppfylla följande tekniska krav:
 följande tekniska krav:
-1. ångtrycket ska vid 37,8 grader Celsius vara lägst 50 kilopascal
+1\. ångtrycket ska vid 37,8 grader Celsius vara lägst 50 kilopascal
 och högst 95 kilopascal, dock högst 65 kilopascal under sommaren,
-2. destillationen ska innebära att
+2\. destillationen ska innebära att
 a) mellan 15 och 42 volymprocent har förångats vid 70 grader
 Celsius,
 b) minst 75,0 volymprocent har förångats vid 150 grader Celsius,
@@ -32290,8 +32290,8 @@ förångats understiger 10 grader Celsius, gäller i stället för c att den
 temperatur då 50 volymprocent har förångats (T50-värdet) ska ligga
 mellan 90 och 105 grader Celsius, och
 e) slutkokpunkten är högst 200 grader Celsius,
-3. olefiner får förekomma med högst 1,0 volymprocent,
-4. aromater får förekomma med högst 1,0 volymprocent,
+3\. olefiner får förekomma med högst 1,0 volymprocent,
+4\. aromater får förekomma med högst 1,0 volymprocent,
 
 3 Senaste lydelse 2016:876.
 
@@ -32301,15 +32301,15 @@ e) slutkokpunkten är högst 200 grader Celsius,
 
 Författningsförslag                        SOU 2026:33
 
-5. bensen får förekomma med högst 0,1 volymprocent,
-6. cyklohexaner får förekomma med högst 2,0 volymprocent,
+5\. bensen får förekomma med högst 0,1 volymprocent,
+6\. cyklohexaner får förekomma med högst 2,0 volymprocent,
 
-7. normalhexan får förekomma med högst 0,5 volymprocent,
-8. svavel får förekomma med högst 10,0 milligram per kilogram,
-9. bly får förekomma med högst 0,002 gram per liter,
-10. metylcyklopentadienylmangantrikarbonyl (MMT) får före-
+7\. normalhexan får förekomma med högst 0,5 volymprocent,
+8\. svavel får förekomma med högst 10,0 milligram per kilogram,
+9\. bly får förekomma med högst 0,002 gram per liter,
+10\. metylcyklopentadienylmangantrikarbonyl (MMT) får före-
 komma med högst 2 milligram mangan per liter, och
-11. densiteten ska vid 15 grader Celsius vara mellan 680 och
+11\. densiteten ska vid 15 grader Celsius vara mellan 680 och
 720 kilogram per kubikmeter.
 
 Bensin i miljöklass 2 Bensin
@@ -32318,18 +32318,18 @@ Bensin i miljöklass 2 Bensin
 För klassificering i miljöklass 2 En bensin ska uppfylla följ-
 ska en bensin uppfylla följande ande tekniska krav:
 tekniska krav:
-1. researchoktantalet ska vara lägst 95,
-2. motoroktantalet ska vara lägst 85,
-3. ångtrycket ska vid 37,8 grader Celsius vara lägst 45 kilopascal
+1\. researchoktantalet ska vara lägst 95,
+2\. motoroktantalet ska vara lägst 85,
+3\. ångtrycket ska vid 37,8 grader Celsius vara lägst 45 kilopascal
 och högst 95 kilopascal, dock högst 70,0 kilopascal under sommaren,
-4. destillationen ska innebära att minst 46,0 volymprocent har
+4\. destillationen ska innebära att minst 46,0 volymprocent har
 förångats vid 100 grader Celsius och minst 75,0 volymprocent har
 förångats vid 150 grader Celsius,
-5. olefiner får förekomma med högst 18,0 volymprocent,
-6. aromater får förekomma med högst 35,0 volymprocent,
-7. bensen får förekomma med högst 1,0 volymprocent,
-8. syre får förekomma med högst 3,7 viktprocent,
-9. i fråga om oxygenater får
+5\. olefiner får förekomma med högst 18,0 volymprocent,
+6\. aromater får förekomma med högst 35,0 volymprocent,
+7\. bensen får förekomma med högst 1,0 volymprocent,
+8\. syre får förekomma med högst 3,7 viktprocent,
+9\. i fråga om oxygenater får
 a) metanol förekomma med högst 3,0 volymprocent (stabilise-
 
 ringsmedel måste tillsättas),
@@ -32354,9 +32354,9 @@ g) andra primära alkoholer och etrar med en slutlig kokpunkt som
 högst motsvarar den som anges i europastandarden SS-EN 228:2013
 
 eller motsvarande förekomma med högst 15,0 volymprocent,
-10. svavel får förekomma med högst 10,0 milligram per kilogram,
-11. bly får förekomma med högst 0,005 gram per liter, och
-12. metylcyklopentadienylmangantrikarbonyl (MMT) får före-
+10\. svavel får förekomma med högst 10,0 milligram per kilogram,
+11\. bly får förekomma med högst 0,005 gram per liter, och
+12\. metylcyklopentadienylmangantrikarbonyl (MMT) får före-
 komma med högst 2 milligram mangan per liter.
 
 Dieselbränsle i miljöklass 3 Dieselbränsle
@@ -32365,17 +32365,17 @@ Dieselbränsle i miljöklass 3 Dieselbränsle
 För klassificering i miljöklass 3 Ett dieselbränsle ska uppfylla
 ska ett dieselbränsle uppfylla föl- följande tekniska krav:
 jande tekniska krav:
-1. cetantalet ska vara lägst 51,0,
-2. densiteten ska vid 15 grader Celsius vara högst 845,0 kilogram
+1\. cetantalet ska vara lägst 51,0,
+2\. densiteten ska vid 15 grader Celsius vara högst 845,0 kilogram
 per kubikmeter,
-3. destillationen ska innebära att minst 95 volymprocent har
+3\. destillationen ska innebära att minst 95 volymprocent har
 förångats vid 360,0 grader Celsius,
-4. polycykliska aromatiska 4. polycykliska aromatiska
+4\. polycykliska aromatiska 4. polycykliska aromatiska
 kolväten får förekomma med kolväten får förekomma med
 högst 8,0 procent av bränslets högst 8,0 procent av bränslets
 massa enligt Svensk Standard SS- massa enligt Svensk Standard SS-
 EN 12916, utgåva 2, och EN 12916, utgåva 2,
-5. fettsyrametylestrar får före- 5. fettsyrametylestrar får före-
+5\. fettsyrametylestrar får före- 5. fettsyrametylestrar får före-
 komma med högst 10,0 volym- komma med högst 10,0 volym-
 procent och ska uppfylla kraven procent och ska uppfylla kraven
 i  Svensk Standard SS- i Svensk Standard SS-
@@ -32384,7 +32384,7 @@ EN 14214:2012+A2:2019, EN 14214:2012+A2:2019,
 utgåva 1, eller motsvarande. utgåva 1, eller motsvarande,
 I övrigt ska bränslet uppfylla de
 krav som anges i 8 § 7 och 9.
-6. svavel får förekomma med
+6\. svavel får förekomma med
 högst 10,0 milligram per kilogram,
 och
 
@@ -32396,7 +32396,7 @@ och
 
 Författningsförslag                        SOU 2026:33
 
-7. metylcyklopentadienylman-
+7\. metylcyklopentadienylman-
 gantrikarbonyl (MMT) får före-
 
 komma med högst 2 milligram
@@ -32475,11 +32475,11 @@ tigt drivmedel med en viss procentsats,
 reduktionspliktigt drivmedel: ett drivmedel som innehåller högst
 98 volymprocent biodrivmedel och som skattskyldighet har inträtt för
 enligt 5 kap. lagen (1994:1776) om skatt på energi, om drivmedlet är
-1. bensin som inte
+1\. bensin som inte
 a) används av Försvarsmakten eller en motsvarande utländsk
 myndighet, eller
 b) är en alkylatbensin enligt 5 § drivmedelslagen (2011:319), eller
-2. diesel som inte
+2\. diesel som inte
 a) används av Försvarsmakten eller en motsvarande utländsk
 myndighet, eller
 b) har försetts med märk- eller färgämnen enligt 2 kap. 8 § lagen
@@ -32544,15 +32544,15 @@ Nuvarande lydelse     Föreslagen lydelse
 
 5 a §4
 Reduktionsplikten ska uppfyllas genom
-1. inblandning av förnybara 1. inblandning av förnybara
+1\. inblandning av förnybara 1. inblandning av förnybara
 eller andra fossilfria drivmedel, eller andra fossilfria drivmedel,
 eller
-2. leverans av fossilfri el från 2. leverans av fossilfri el från
+2\. leverans av fossilfri el från 2. leverans av fossilfri el från
 en publik laddningsstation. en publik laddningsstation,
-3. leverans av förnybara bräns-
+3\. leverans av förnybara bräns-
 len av icke-biologiskt ursprung som
 används för sjö eller flyg, eller
-4. leverans av mellanprodukter
+4\. leverans av mellanprodukter
 som är förnybara bränslen av
 icke-biologiskt ursprung och som
 används för att producera kon-
@@ -32578,12 +32578,12 @@ För bensin och diesel ska den
 
 procentsats som anges i 5 § uppnås
 genom inblandning av
-1. avancerade drivmedel med
+1\. avancerade drivmedel med
 en procentsats om minst 2 procent-
 enheter för 2028, 2 procentenheter
 för 2029 och 2 procentenheter för
 2030, och
-2. förnybara drivmedel av
+2\. förnybara drivmedel av
 icke-biologiskt ursprung med en
 procentsats om minst 0,75 pro-
 centenheter för 2028, 0,75 procent-
@@ -32628,12 +32628,12 @@ släppsminskningen till någon den för att uppfylla sin reduk-
 annan som därefter får använda tionsplikt för samma kalenderår,
 den för att uppfylla sin reduk- om utsläppen har minskats genom
 tionsplikt för samma kalenderår. leverans av
-1. fossilfri el från publika ladd-
+1\. fossilfri el från publika ladd-
 ningsstationer,
-2. förnybara bränslen av icke-
+2\. förnybara bränslen av icke-
 biologiskt ursprung som används
 för väg, sjö eller flyg, eller
-3. mellanprodukter som är för-
+3\. mellanprodukter som är för-
 nybara bränslen av icke-biolo-
 giskt ursprung och som används
 för att producera konventionella
@@ -32677,18 +32677,18 @@ leveranser av fossilfri el från
 publika laddningsstationer och
 överlåtelser av utsläppsminsk-
 ningar.
-1. leveranser av fossilfri el
+1\. leveranser av fossilfri el
 från publika laddningsstationer,
-2. leveranser av förnybara
+2\. leveranser av förnybara
 bränslen av icke- biologiskt ur-
 sprung som används för väg, sjö
 eller flyg,
-3. leveranser av mellanpro-
+3\. leveranser av mellanpro-
 dukter som är förnybara bränslen
 av icke-biologiskt ursprung och
 som används för att producera
 konventionella drivmedel, och
-4. överlåtelser av utsläpps-
+4\. överlåtelser av utsläpps-
 minskningar.
 
 10 §
@@ -32721,8 +32721,8 @@ Bemyndigande          Rätt att meddela föreskrifter
 15 §8
 Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
-1. hur reduktionsplikten ska uppfyllas,
-2. beräkning av den reduk- 2. beräkning av den reduk-
+1\. hur reduktionsplikten ska uppfyllas,
+2\. beräkning av den reduk- 2. beräkning av den reduk-
 tionspliktiga energimängden och tionspliktiga energimängden och
 energimängden fossilfri el som energimängden
 har levererats från publika ladd-
@@ -32737,8 +32737,8 @@ nybara bränslen av icke-biologiskt
 ursprung och som används för att
 producera konventionella driv-
 medel,
-3. beräkning av växthusgasutsläpp och koldioxidekvivalenter,
-4. redovisning av reduktions- 4. redovisning av reduktions-
+3\. beräkning av växthusgasutsläpp och koldioxidekvivalenter,
+4\. redovisning av reduktions- 4. redovisning av reduktions-
 
 plikt och överlåtelser av utsläpps- plikt och överlåtelser av utsläpps-
 minskningar från leverans av minskningar från leverans av
@@ -32764,7 +32764,7 @@ nybara bränslen av icke-biolo-
 giskt ursprung och som används
 för att producera konventionella
 drivmedel,
-5. vem som ska anses leverera 5. vem som ska anses leverera
+5\. vem som ska anses leverera 5. vem som ska anses leverera
 fossilfri el från publika ladd-
 ningsstationer.
 a) fossilfri el som har levererats
@@ -32777,7 +32777,7 @@ nybara bränslen av icke-biolo-
 giskt ursprung och som används
 för att producera konventionella
 drivmedel, och
-6. hur energimängden fossilfri
+6\. hur energimängden fossilfri
 el som har levererats från publika
 laddningsstationer ska viktas för
 att prioritera publika laddnings-
@@ -32787,14 +32787,14 @@ ning av elfordon.
 
 16 §9
 Regeringen får meddela föreskrifter om
-1. hur stor del av ett överskott av en utsläppsminskning som får
+1\. hur stor del av ett överskott av en utsläppsminskning som får
 
 användas för att uppfylla reduktionsplikten för det kalenderår som
 följer efter kalenderåret då överskottet har uppkommit,
-2. vad som avses med förnybara och andra fossilfria drivmedel
+2\. vad som avses med förnybara och andra fossilfria drivmedel
 och hur det ska säkerställas att dessa drivmedel är hållbara,
-3. förseningsavgiften, och
-4. reduktionspliktsavgiften.
+3\. förseningsavgiften, och
+4\. reduktionspliktsavgiften.
 
 9 Senaste lydelse 2021:747.
 
@@ -32839,14 +32839,14 @@ Nuvarande lydelse     Föreslagen lydelse
 4 kap.
 22 §1
 Följande miljözoner får finnas:
-1. Miljözon klass 1. Klass 1 omfattas av bestämmelser för tunga
+1\. Miljözon klass 1. Klass 1 omfattas av bestämmelser för tunga
 bussar och tunga lastbilar.
-2. Miljözon klass 2. Klass 2 omfattas av bestämmelser för lätta
+2\. Miljözon klass 2. Klass 2 omfattas av bestämmelser för lätta
 bussar, lätta lastbilar och personbilar.
-3. Miljözon klass 3. Klass 3 3. Miljözon klass 3. Klass 3
+3\. Miljözon klass 3. Klass 3 3. Miljözon klass 3. Klass 3
 omfattas av bestämmelser för omfattas av bestämmelser för
 fordon som anges i 1 och 2. bussar och lastbilar.
-4. Miljözon klass 4. Klass 4 om-
+4\. Miljözon klass 4. Klass 4 om-
 fattas av bestämmelser för person-
 bilar.
 
@@ -32926,7 +32926,7 @@ enligt kommissionens förordning
 23 §3
 Följande undantag gäller från det förbud som anges i 22 a §:
 
-1. Fordon vars motor vid tidpunkten för typgodkännande, regi-
+1\. Fordon vars motor vid tidpunkten för typgodkännande, regi-
 strering eller ibruktagande uppfyllde minst de emissionskrav som
 anges i Europaparlamentets och rådets direktiv 2005/55/EG av den
 28 september 2005 om tillnärmning av medlemsstaternas lagstift-
@@ -32937,13 +32937,13 @@ gnisttändning drivna med naturgas eller gasol vilka används i fordon,
 rad A, (Euro 3), i tabellerna i avsnitt 6.2.1 i bilaga I, får föras i miljö-
 zon klass 1 under en period av åtta år räknat från första registre-
 ringen, registreringsåret oräknat.
-2. Fordon vars motor vid tidpunkten för typgodkännande, regi-
+2\. Fordon vars motor vid tidpunkten för typgodkännande, regi-
 strering eller ibruktagande uppfyllde minst de emissionskrav som
 anges i Europaparlamentets och rådets direktiv 2005/55/EG, rad B.1,
 (Euro 4), i tabellerna i punkt 6.2.1 i bilaga I, får föras i miljözon
 klass 1 till och med utgången av år 2016, eller under en period av åtta
 år räknat från första registreringen, registreringsåret oräknat.
-3. Fordon vars motor vid tidpunkten för typgodkännande, regi-
+3\. Fordon vars motor vid tidpunkten för typgodkännande, regi-
 strering eller ibruktagande uppfyllde minst de emissionskrav som
 anges i Europaparlamentets och rådets direktiv 2005/55/EG, rad B.2,
 (Euro 5), eller rad C, (EEV), i tabellerna i punkt 6.2.1 i bilaga I, får
@@ -32951,10 +32951,10 @@ föras i miljözon klass 1 till och med utgången av 2020 eller under en
 period av åtta år räknat från första registreringen, registreringsåret
 oräknat.
 
-4. Fordon med gasmotor eller motor för drift med etanol för diesel-
+4\. Fordon med gasmotor eller motor för drift med etanol för diesel-
 motor enligt Europaparlamentets och rådets direktiv 2005/55/EG får
 föras i miljözon klass 1 till utgången av 2025.
-5. Fordon vars motor vid tidpunkten för typgodkännande, regi-
+5\. Fordon vars motor vid tidpunkten för typgodkännande, regi-
 strering eller ibruktagande uppfyllde minst de emissionskrav som anges
 i bilaga I till Europaparlamentets och rådets förordning 595/2009 av
 den 18 juni 2009 om typgodkännande av motorfordon och motorer
@@ -32969,22 +32969,22 @@ kommissionens förordning 133/2014, får föras i miljözon klass 1.
 
 SOU 2026:33                              Författningsförslag
 
-6. Fordon vars motor har an-
+6\. Fordon vars motor har an-
 passats för att uppfylla de emis-
 
 sionskrav som anges i 2 får föras i
 miljözon klass 1 till och med ut-
 gången av 2016.
-7. Fordon vars motor har an-
+7\. Fordon vars motor har an-
 passats för att uppfylla de emis-
 sionskrav som anges i 3 får föras i
 miljözon klass 1 till och med ut-
 gången av 2020.
-8. Fordon vars motor har an- 6. Fordon vars motor har an-
+8\. Fordon vars motor har an- 6. Fordon vars motor har an-
 passats för att uppfylla de emis- passats för att uppfylla de emis-
 sionskrav som anges i 5 får föras sionskrav som anges i 5 får föras
 i miljözon klass 1.   i miljözon klass 1.
-9. EG-mobilkran får föras i 7. EG-mobilkran får föras i
+9\. EG-mobilkran får föras i 7. EG-mobilkran får föras i
 miljözon klass 1.     miljözon klass 1.
 
 24 §4
@@ -33032,25 +33032,25 @@ fattas av undantag enligt 11 kap. fattas av undantag enligt 11 kap.
 4 §6
 Trots 4 kap. 22 a–22 d §§ får Trots 4 kap. 22 a–22 e §§ får
 följande fordon föras i miljözon: följande fordon föras i miljözon:
-1. Fordon som används i yrkesutövning av en polisman eller
+1\. Fordon som används i yrkesutövning av en polisman eller
 någon annan anställd tjänsteman vid Polismyndigheten eller Säker-
 hetspolisen, tulltjänsteman, kustbevakningstjänsteman, läkare, sjuk-
 sköterska, barnmorska eller veterinär.
-2. Fordon som används för transporter av sjuka personer till
+2\. Fordon som används för transporter av sjuka personer till
 läkare eller sjukvårdsanstalt.
-3. Fordon som används vid räddningstjänst.
-4. Fordon som används i andra jämförliga trängande fall.
-5. Utryckningsfordon i andra fall än som avses i 1–4.
-6. Fordon som definieras som 6. Fordon som definieras som
+3\. Fordon som används vid räddningstjänst.
+4\. Fordon som används i andra jämförliga trängande fall.
+5\. Utryckningsfordon i andra fall än som avses i 1–4.
+6\. Fordon som definieras som 6. Fordon som definieras som
 veteranfordon i 2 kap. 2 § vägtra- veteranfordon i 2 kap. 2 § vägtra-
 fikskattelagen (2006:227). Vete- fikskattelagen (2006:227). Vete-
 
 ranfordon får dock inte föras i en ranfordon får dock inte föras i en
 miljözon klass 3.     miljözon klass 3 eller 4.
-7. Fordon som används av personal inom Kriminalvården vid
+7\. Fordon som används av personal inom Kriminalvården vid
 transport av frihetsberövade personer eller vid brådskande yrkesut-
 övning.
-8. Fordon som tillhör eller brukas av Försvarsmakten, Försvarets
+8\. Fordon som tillhör eller brukas av Försvarsmakten, Försvarets
 materielverk, Försvarets radioanstalt eller Totalförsvarets forsk-
 ningsinstitut.
 
@@ -33063,12 +33063,12 @@ ningsinstitut.
 
 SOU 2026:33                              Författningsförslag
 
-9. Fordon som används vid särskilt anordnade transporter som
+9\. Fordon som används vid särskilt anordnade transporter som
 avses i lagen (1997:736) om färdtjänst.
 
-10. Fordon vars förare eller passagerare innehar ett parkerings-
+10\. Fordon vars förare eller passagerare innehar ett parkerings-
 tillstånd för rörelsehindrade enligt 13 kap. 8 § denna förordning.
-11. Fordon för vilket det har lämnats bilstöd enligt 52 kap. social-
+11\. Fordon för vilket det har lämnats bilstöd enligt 52 kap. social-
 försäkringsbalken.
 
 Nuvarande lydelse
@@ -33080,12 +33080,12 @@ Bestämmelser   Undantaget rör Myndighet
 Bestämmelser för hastighet på väg med vissa motordrivna
 fordon och fordonskombinationer
 
-12. 4 kap. 20 eller 21 § Ett län Länsstyrelsen
+12\. 4 kap. 20 eller 21 § Ett län Länsstyrelsen
 Mer än ett län Transportstyrelsen
 
 Bestämmelser om miljözoner
 
-13. 4 kap. 22 a–d §§ Inom en kommun Kommunen
+13\. 4 kap. 22 a–d §§ Inom en kommun Kommunen
 Mer än en kommun Länsstyrelsen
 inom ett län
 
@@ -33109,12 +33109,12 @@ Bestämmelser   Undantaget rör Myndighet
 Bestämmelser för hastighet på väg med vissa motordrivna
 fordon och fordonskombinationer
 
-12. 4 kap. 20 eller 21 § Ett län Länsstyrelsen
+12\. 4 kap. 20 eller 21 § Ett län Länsstyrelsen
 Mer än ett län Transportstyrelsen
 
 Bestämmelser om miljözoner
 
-13. 4 kap. 22 a–e §§ Inom en kommun Kommunen
+13\. 4 kap. 22 a–e §§ Inom en kommun Kommunen
 Mer än en kommun Länsstyrelsen
 inom ett län
 
@@ -33125,7 +33125,7 @@ terrängsläp på väg
 3 §9
 Till penningböter döms en förare av ett motordrivet fordon som
 uppsåtligen eller av oaktsamhet bryter mot
-1. bestämmelserna i
+1\. bestämmelserna i
 a) 2 kap.
 – 1 § fjärde stycket,
 – 2 § om inte straff kan dömas ut enligt 2–4,
@@ -33164,15 +33164,15 @@ f) 8 kap.
 2 § första stycket, eller
 g) 9 kap.
 – 1 § eller föreskrift som har meddelats med stöd av 1 §,
-2. andra lokala trafikföreskrifter enligt 10 kap. 1 § än sådana som
+2\. andra lokala trafikföreskrifter enligt 10 kap. 1 § än sådana som
 rör stannande eller parkering,
-3. förbud mot trafik med motordrivna fordon eller med fordon
+3\. förbud mot trafik med motordrivna fordon eller med fordon
 med viss största bredd, längd eller vikt enligt 10 kap. 10 § första
 stycket, om förbudet har utmärkts med vägmärke eller på annat
 tydligt sätt,
-4. annan föreskrift enligt 10 kap. 14 § än sådan som rör stannande
+4\. annan föreskrift enligt 10 kap. 14 § än sådan som rör stannande
 eller parkering, eller
-5. föreskrifter som har meddelats med stöd av denna förordning
+5\. föreskrifter som har meddelats med stöd av denna förordning
 för tillämpningen av 3 kap. 80–83 § eller 4 kap. 2, 9, 10 eller 20 §.
 
 Denna förordning träder i kraft den 1 januari 2028.
@@ -33206,19 +33206,19 @@ för alternativa drivmedel.
 
 12 §2
 Transportstyrelsen får meddela föreskrifter om
-1. skyldighet för den som tillhandahåller en bensin eller ett diesel-
+1\. skyldighet för den som tillhandahåller en bensin eller ett diesel-
 bränsle att informera konsumenter om hur stor andel biodrivmedel
 som bensinen eller dieselbränslet har, om metalltillsatser i drivmedlet
 och om lämplig användning av olika bränsleblandningar,
-2. märkning, utformning, provning och kontroll av anordningar
+2\. märkning, utformning, provning och kontroll av anordningar
 för påfyllning av drivmedel i syfte att minimera spill och säkra åter-
 föring av bensinångor,
-3. märkning av anordningar för påfyllning av drivmedel i syfte att
+3\. märkning av anordningar för påfyllning av drivmedel i syfte att
 informera konsumenter om metalltillsatser i drivmedlet,
-4. prövning som avses i 4 §,
-5. rapportering enligt 19 § drivmedelslagen (2011:319) och undan-
+4\. prövning som avses i 4 §,
+5\. rapportering enligt 19 § drivmedelslagen (2011:319) och undan-
 tag från rapporteringsskyldigheten,
-6. avgifter för tillsyn och för 6. avgifter för tillsyn och för
+6\. avgifter för tillsyn och för 6. avgifter för tillsyn och för
 
 ärendehandläggning enligt driv- ärendehandläggning enligt driv-
 
@@ -33235,7 +33235,7 @@ medelslagen och föreskrifter som medelslagen och föreskrifter som
 har meddelats i anslutning till den har meddelats i anslutning till den
 
 lagen, och            lagen.
-7. avgifter för prövning av an-
+7\. avgifter för prövning av an-
 sökan om dispens enligt lagen
 (2005:1248) om skyldighet att till-
 handahålla förnybara drivmedel.
@@ -33352,9 +33352,9 @@ meddela föreskrifter om beräk- meddela föreskrifter om beräk-
 ning av energimängden fossilfri ning av energimängden
 el som har levererats från publika
 laddningsstationer.
-1. fossilfri el som har levererats
+1\. fossilfri el som har levererats
 från publika laddningsstationer,
-2. förnybara bränslen av icke-
+2\. förnybara bränslen av icke-
 biologiskt ursprung som används
 för väg, sjö eller flyg, eller
 
@@ -33364,7 +33364,7 @@ för väg, sjö eller flyg, eller
 
 SOU 2026:33                              Författningsförslag
 
-3. mellanprodukter som är för-
+3\. mellanprodukter som är för-
 nybara bränslen av icke-biologiskt
 
 ursprung och som används för att
@@ -33386,7 +33386,7 @@ ursprung eller mellanprodukter
 
 17 §
 Statens energimyndighet får meddela
-1. föreskrifter om beräkning 1. föreskrifter om beräkning
+1\. föreskrifter om beräkning 1. föreskrifter om beräkning
 av växthusgasutsläpp från el, och av växthusgasutsläpp
 a) från el,
 b) förnybara bränslen av icke-
@@ -33397,7 +33397,7 @@ nybara bränslen av icke-biologiskt
 ursprung och som används för att
 producera konventionella driv-
 medel, och
-2. ytterligare föreskrifter om beräkning av växthusgasutsläpp från
+2\. ytterligare föreskrifter om beräkning av växthusgasutsläpp från
 
 biodrivmedel.
 
@@ -33416,26 +33416,26 @@ stycket 2 och 6 § lagen
 (2017:1201) om reduktion av
 växthusgasutsläpp från bensin
 och diesel.
-1. operatör av en laddnings-
+1\. operatör av en laddnings-
 station ska anses leverera el enligt
 5 a § 2 och 6 § lagen (2017:1201)
 om reduktion av växthusgas-
 utsläpp från bensin och diesel,
-2. operatör av en tanknings-
+2\. operatör av en tanknings-
 station ska anses leverera gas-
 formiga förnybara bränslen av
 icke-biologiskt ursprung enligt
 5 a § 1 och 3, och 6 § lagen
 (2017:1201) om reduktion av
 växthusgasutsläpp,
-3. leverantör av flytande för-
+3\. leverantör av flytande för-
 nybara bränslen av icke-biologiskt
 ursprung som används för väg, sjö
 eller flyg enligt 5 a § 1 och 3 och
 6 § lagen (2017:1201) om reduk-
 tion av växthusgasutsläpp,
 
-4. leverantör av mellanpro-
+4\. leverantör av mellanpro-
 dukter som är förnybara bränslen
 av icke-biologiskt ursprung och som
 används för att producera konven-
@@ -33457,13 +33457,13 @@ SOU 2026:33                              Författningsförslag
 Ombud får även anlitas av
 följande:
 
-1. operatör av en tanknings-
+1\. operatör av en tanknings-
 station,
-2. leverantör av flytande förny-
+2\. leverantör av flytande förny-
 bara bränslen av icke-biologiskt ur-
 sprung som används för väg, sjö
 eller flyg, eller
-3. leverantör av mellanpro-
+3\. leverantör av mellanpro-
 dukter som används för att pro-
 ducera konventionella drivmedel
 och som är förnybara bränslen av
@@ -33506,10 +33506,10 @@ som  avses i 10 § lagen som avses i 10 § lagen
 (2017:1201) om reduktion av (2017:1201) om reduktion av
 växthusgasutsläpp från bensin växthusgasutsläpp från bensin
 och diesel ska vara   och diesel ska vara 6,50 kronor
-1. fem kronor per kilogram kol- per kilogram koldioxidekvival-
+1\. fem kronor per kilogram kol- per kilogram koldioxidekvival-
 dioxidekvivalenter, om avgiften av- enter, om avgiften avser bensin
 ser bensin, och       eller diesel.
-2. fyra kronor per kilogram kol-
+2\. fyra kronor per kilogram kol-
 dioxidekvivalenter, om avgiften
 avser diesel.
 
@@ -33570,9 +33570,9 @@ Alkylatbensin
 5 §
 
 En alkylatbensin ska uppfylla följande tekniska krav:
-1. ångtrycket ska vid 37,8 grader Celsius vara lägst 50 kilopascal och
+1\. ångtrycket ska vid 37,8 grader Celsius vara lägst 50 kilopascal och
 högst 95 kilopascal, dock högst 65 kilopascal under sommaren,
-2. destillationen ska innebära att
+2\. destillationen ska innebära att
 a) mellan 15 och 42 volymprocent har förångats vid 70 grader Celsius,
 b) minst 75,0 volymprocent har förångats vid 150 grader Celsius,
 c) minst 46,0 och högst 72,0 volymprocent har förångats vid 100 grader
@@ -33583,16 +33583,16 @@ understiger 10 grader Celsius, gäller i stället för c att den temperatur då
 50 volymprocent har förångats (T50-värdet) ska ligga mellan 90 och 105 gra-
 der Celsius, och
 e) slutkokpunkten är högst 200 grader Celsius,
-3. olefiner får förekomma med högst 1,0 volymprocent,
-4. aromater får förekomma med högst 1,0 volymprocent,
-5. bensen får förekomma med högst 0,1 volymprocent,
-6. cyklohexaner får förekomma med högst 2,0 volymprocent,
-7. normalhexan får förekomma med högst 0,5 volymprocent,
-8. svavel får förekomma med högst 10,0 milligram per kilogram,
-9. bly får förekomma med högst 0,002 gram per liter,
-10. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma
+3\. olefiner får förekomma med högst 1,0 volymprocent,
+4\. aromater får förekomma med högst 1,0 volymprocent,
+5\. bensen får förekomma med högst 0,1 volymprocent,
+6\. cyklohexaner får förekomma med högst 2,0 volymprocent,
+7\. normalhexan får förekomma med högst 0,5 volymprocent,
+8\. svavel får förekomma med högst 10,0 milligram per kilogram,
+9\. bly får förekomma med högst 0,002 gram per liter,
+10\. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma
 med högst 2 milligram mangan per liter, och
-11. densiteten ska vid 15 grader Celsius vara mellan 680 och 720 kilo-
+11\. densiteten ska vid 15 grader Celsius vara mellan 680 och 720 kilo-
 gram per kubikmeter.
 Paragrafen innehåller vilka tekniska krav som ställs på alkylatbensin.
 Övervägandena finns i avsnitt 12.3.2.
@@ -33609,18 +33609,18 @@ Bensin
 6 §
 
 En bensin ska uppfylla följande tekniska krav:
-1. researchoktantalet ska vara lägst 95,
-2. motoroktantalet ska vara lägst 85,
-3. ångtrycket ska vid 37,8 grader Celsius vara lägst 45 kilopascal och
+1\. researchoktantalet ska vara lägst 95,
+2\. motoroktantalet ska vara lägst 85,
+3\. ångtrycket ska vid 37,8 grader Celsius vara lägst 45 kilopascal och
 högst 95 kilopascal, dock högst 70,0 kilopascal under sommaren,
-4. destillationen ska innebära att minst 46,0 volymprocent har för-
+4\. destillationen ska innebära att minst 46,0 volymprocent har för-
 ångats vid 100 grader Celsius och minst 75,0 volymprocent har förångats
 vid 150 grader Celsius,
-5. olefiner får förekomma med högst 18,0 volymprocent,
-6. aromater får förekomma med högst 35,0 volymprocent,
-7. bensen får förekomma med högst 1,0 volymprocent,
-8. syre får förekomma med högst 3,7 viktprocent,
-9. i fråga om oxygenater får
+5\. olefiner får förekomma med högst 18,0 volymprocent,
+6\. aromater får förekomma med högst 35,0 volymprocent,
+7\. bensen får förekomma med högst 1,0 volymprocent,
+8\. syre får förekomma med högst 3,7 viktprocent,
+9\. i fråga om oxygenater får
 a) metanol förekomma med högst 3,0 volymprocent (stabiliserings-
 medel måste tillsättas),
 b) etanol förekomma med högst 10,0 volymprocent (stabiliserings-
@@ -33633,9 +33633,9 @@ komma med högst 22,0 volymprocent, och
 g) andra primära alkoholer och etrar med en slutlig kokpunkt som
 högst motsvarar den som anges i europastandarden SS-EN 228:2013 eller
 motsvarande förekomma med högst 15,0 volymprocent,
-10. svavel får förekomma med högst 10,0 milligram per kilogram,
-11. bly får förekomma med högst 0,005 gram per liter, och
-12. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma
+10\. svavel får förekomma med högst 10,0 milligram per kilogram,
+11\. bly får förekomma med högst 0,005 gram per liter, och
+12\. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma
 med högst 2 milligram mangan per liter.
 Paragrafen innehåller vilka tekniska krav som ställs på bensin. Över-
 vägandena finns i avsnitt 12.3.2.
@@ -33643,8 +33643,8 @@ Paragrafen ändras så att hänvisningen till miljöklass tas bort.
 Diesel
 10 §
 Ett dieselbränsle ska upp-fylla följande tekniska krav:
-1. cetantalet ska vara lägst 51,0,
-2. densiteten ska vid 15 grader Celsius vara högst 845,0 kilogram per
+1\. cetantalet ska vara lägst 51,0,
+2\. densiteten ska vid 15 grader Celsius vara högst 845,0 kilogram per
 kubikmeter,
 
 699
@@ -33653,15 +33653,15 @@ kubikmeter,
 
 Författningskommentar                      SOU 2026:33
 
-3. destillationen ska innebära att minst 95 volymprocent har förångats
+3\. destillationen ska innebära att minst 95 volymprocent har förångats
 vid 360,0 grader Celsius,
-4. polycykliska aromatiska kolväten får förekomma med högst 8,0 pro-
+4\. polycykliska aromatiska kolväten får förekomma med högst 8,0 pro-
 cent av bränslets massa enligt Svensk Standard SS-EN 12916, utgåva 2,
-5. fettsyrametylestrar får förekomma med högst 10,0 volymprocent
+5\. fettsyrametylestrar får förekomma med högst 10,0 volymprocent
 och ska uppfylla kraven i Svensk Standard SS-EN 14214:2012+A2:2019,
 utgåva 1, eller motsvarande,
-6. svavel får förekomma med högst 10,0 milligram per kilogram, och
-7. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma med
+6\. svavel får förekomma med högst 10,0 milligram per kilogram, och
+7\. metylcyklopentadienylmangantrikarbonyl (MMT) får förekomma med
 högst 2 milligram mangan per liter.
 Paragrafen innehåller vilka tekniska krav som ställs på diesel. Över-
 vägandena finns i avsnitt 12.3.2.
@@ -33727,11 +33727,11 @@ med en viss procentsats,
 reduktionspliktigt drivmedel: ett drivmedel som innehåller högst 98 volym-
 procent biodrivmedel och som skattskyldighet har inträtt för enligt 5 kap.
 lagen (1994:1776) om skatt på energi, om drivmedlet är
-1. bensin som inte
+1\. bensin som inte
 a) används av Försvarsmakten eller en motsvarande utländsk myndig-
 het, eller
 b) är en alkylatbensin enligt 5 § drivmedelslagen (2011:319), eller
-2. diesel som inte
+2\. diesel som inte
 a) används av Försvarsmakten eller en motsvarande utländsk myndig-
 het, eller
 b) har försetts med märk- eller färgämnen enligt 2 kap. 8 § lagen om
@@ -33785,8 +33785,8 @@ störning framgår av 2 §, se kommentaren till den paragrafen.
 
 5 a §
 Reduktionsplikten ska uppfyllas genom
-1. inblandning av förnybara eller andra fossilfria drivmedel,
-2. leverans av fossilfri el från en publik laddningsstation,
+1\. inblandning av förnybara eller andra fossilfria drivmedel,
+2\. leverans av fossilfri el från en publik laddningsstation,
 
 702
 
@@ -33794,9 +33794,9 @@ Reduktionsplikten ska uppfyllas genom
 
 SOU 2026:33                            Författningskommentar
 
-3. leverans av förnybara bränslen av icke-biologiskt ursprung som används
+3\. leverans av förnybara bränslen av icke-biologiskt ursprung som används
 för sjö eller flyg, eller
-4. leverans av mellanprodukter som är förnybara bränslen av icke-biolo-
+4\. leverans av mellanprodukter som är förnybara bränslen av icke-biolo-
 giskt ursprung och som används för att producera konventionella drivmedel.
 
 I paragrafen anges hur reduktionsplikten ska uppfyllas. Övervä-
@@ -33821,9 +33821,9 @@ fria drivmedel slopas.
 5 b §
 För bensin och diesel ska den procentsats som anges i 5 § uppnås genom in-
 blandning av
-1. avancerade drivmedel med en procentsats om minst 2 procentenheter
+1\. avancerade drivmedel med en procentsats om minst 2 procentenheter
 för 2028, 2 procentenheter för 2029 och 2 procentenheter för 2030, och
-2. förnybara drivmedel av icke-biologiskt ursprung med en procentsats
+2\. förnybara drivmedel av icke-biologiskt ursprung med en procentsats
 om minst 0,75 procentenheter för 2028, 0,75 procentenheter för 2029 och
 0,75 procentenheter för 2030.
 I paragrafen, som är ny, anges hur del av reduktionsplikten ska upp-
@@ -33887,10 +33887,10 @@ Den som inte har reduktionsplikt och som under ett kalenderår har minskat
 utsläppen av växthusgaser får överlåta utsläppsminskningen till någon
 annan som därefter får använda den för att uppfylla sin reduktionsplikt
 för samma kalenderår, om utsläppen har minskats genom leverans av
-1. fossilfri el från publika laddningsstationer,
-2. förnybara bränslen av icke- biologiskt ursprung som används för väg,
+1\. fossilfri el från publika laddningsstationer,
+2\. förnybara bränslen av icke- biologiskt ursprung som används för väg,
 sjö eller flyg, eller
-3. mellanprodukter som är förnybara bränslen av icke-biologiskt ursprung
+3\. mellanprodukter som är förnybara bränslen av icke-biologiskt ursprung
 och som används för att producera konventionella drivmedel.
 I paragrafen anges hur vissa utsläppsminskningar får överlåtas till
 någon annan som därefter använder utsläppsminskningen för att
@@ -33942,13 +33942,13 @@ fossilfria drivmedel slopas.
 8 a §
 Den som har överlåtit utsläppsminskningar enligt 6 § ska till tillsynsmyndig-
 heten redovisa
-1. leveranser av fossilfri el från publika laddningsstationer,
-2. leveranser av gasformiga förnybara bränslen av icke-biologiskt ursprung
+1\. leveranser av fossilfri el från publika laddningsstationer,
+2\. leveranser av gasformiga förnybara bränslen av icke-biologiskt ursprung
 som används för väg, sjö eller flyg,
-3. leveranser av mellanprodukter som är förnybara bränslen av icke-biolo-
+3\. leveranser av mellanprodukter som är förnybara bränslen av icke-biolo-
 giskt ursprung och som används för att producera konventionella drivmedel,
 och
-4. överlåtelser av utsläppsminskningar.
+4\. överlåtelser av utsläppsminskningar.
 I paragrafen anges att den som inte har reduktionsplikt och som har
 överlåtit vissa utsläppsminskningar ska redovisa det till tillsyns-
 myndigheten. Övervägandena finns i avsnitt 10.5.1.
@@ -33999,16 +33999,16 @@ Rätt att meddela föreskrifter
 
 Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. hur reduktionsplikten ska uppfyllas,
-2. beräkning av den reduktionspliktiga energimängden och energi-
+1\. hur reduktionsplikten ska uppfyllas,
+2\. beräkning av den reduktionspliktiga energimängden och energi-
 mängden
 a) fossilfri el som har levererats från publika laddningsstationer,
 b) förnybara bränslen av icke-biologiskt ursprung som används för väg,
 sjö eller flyg, och
 c) mellanprodukter som är förnybara bränslen av icke-biologiskt ur-
 sprung och som används för att producera konventionella drivmedel,
-3. beräkning av växthusgasutsläpp och koldioxidekvivalenter,
-4. redovisning av reduktionsplikt och överlåtelser av utsläppsminsk-
+3\. beräkning av växthusgasutsläpp och koldioxidekvivalenter,
+4\. redovisning av reduktionsplikt och överlåtelser av utsläppsminsk-
 ningar från leverans av
 a) fossilfri el som har levererats från publika laddningsstationer,
 707
@@ -34021,13 +34021,13 @@ b) förnybara bränslen av icke-biologiskt ursprung som används för väg,
 sjö eller flyg, och
 c) mellanprodukter som är förnybara bränslen av icke-biologiskt ursprung
 och som används för att producera konventionella drivmedel,
-5. vem som ska anses leverera
+5\. vem som ska anses leverera
 a) fossilfri el som har levererats från publika laddningsstationer,
 b) förnybara bränslen av icke- biologiskt ursprung som används för väg,
 sjö eller flyg, och
 c) mellanprodukter som är förnybara bränslen av icke-biologiskt ursprung
 och som används för att producera konventionella drivmedel, och
-6. hur energimängden fossilfri el som har levererats från publika laddnings-
+6\. hur energimängden fossilfri el som har levererats från publika laddnings-
 stationer ska viktas för att prioritera publika laddnings-stationer som anses
 bidra till en ändamålsenlig tillgång till laddning av elfordon.
 I paragrafen finns bemyndiganden för regeringen eller den myn-
@@ -34062,13 +34062,13 @@ SOU 2026:33                            Författningskommentar
 16 §
 
 Regeringen får meddela föreskrifter om
-1. hur stor del av ett överskott av en utsläppsminskning som får an-
+1\. hur stor del av ett överskott av en utsläppsminskning som får an-
 vändas för att uppfylla reduktionsplikten för det kalenderår som följer
 efter kalenderåret då överskottet har uppkommit,
-2. vad som avses med förnybara och andra fossilfria drivmedel och hur
+2\. vad som avses med förnybara och andra fossilfria drivmedel och hur
 det ska säkerställas att dessa drivmedel är hållbara,
-3. förseningsavgiften, och
-4. reduktionspliktsavgiften.
+3\. förseningsavgiften, och
+4\. reduktionspliktsavgiften.
 Regeringen får meddela föreskrifter om undantag från kravet på att minska
 utsläppen från bensin och diesel i 5 § vid allvarliga marknadsstörningar.
 Undantaget ska vara tidsbegränsat, med möjlighet till förlängning, och får
@@ -34322,7 +34322,7 @@ till Europaparlamentet och rådet om teknisk beredskap och marknads-
 beredskap för tunga fordon för vägtransport. COM(2025) 260 final.
 
 Europeiska kommissionen (2025n). Kommissionens arbetsprogram
-2026. https://commission.europa.eu/strategy-and-policy/strategy-
+2026\. https://commission.europa.eu/strategy-and-policy/strategy-
 documents/commission-work-programme/commission-work-
 programme-2026_en. (Hämtad: 2026-05-11).
 Europeiska kommissionen (2025o). Kommissionens genomförande-
@@ -34369,12 +34369,12 @@ Europeiska kommissionen (2026f). Daily News 16 April 2026.
 https://ec.europa.eu/commission/presscorner/detail/en/mex_2
 6_828. (Hämtad 2026-04-30).
 Europeiska miljöbyrån, EEA (2025). Trends and projections in Europe
-2025. EEA Report No 08/2025.
+2025\. EEA Report No 08/2025.
 https://doi.org/10.2800/6474400.
 Joint Research Centre, JRC (2024). Status of the Heat Pump Market:
 Country Fiche.
 https://publications.jrc.ec.europa.eu/repository/handle/JRC137
-131.
+131\.
 
 Europeiska unionens råd (2026) Heavy-duty vehicles: Council
 adopts targeted flexibility for manufacturers to comply with CO₂
@@ -34845,7 +34845,7 @@ Trafikanalys (2025c). Uppföljning av de transportpolitiska målen 2025.
 Rapport 2025:2.
 Trafikanalys (2026a). Exporten av begagnade personbilar föll kraftigt
 
-2025. Publicerad 26 februari 2026.
+2025\. Publicerad 26 februari 2026.
 https://www.trafa.se/vagtrafik/exporten-av-begagnade-
 personbilar-foll-kraftigt-under-2025-15992/.
 (Hämtad 2026-03-15).
@@ -34976,7 +34976,7 @@ Insight Paper 11 december 2025.
 Avfall Sverige (2023). Svensk avfallshantering 2023.
 Barrez, J. (2024). Public acceptability of carbon pricing: Unravelling
 the impact of revenue recycling. Climate Policy, 24(10), s. 1323–
-1345. https://doi.org/10.1080/14693062.2024.2376747.
+1345\. https://doi.org/10.1080/14693062.2024.2376747.
 
 Benatti, N., Groiss, M., Kelly, P. & López-García, P. (2023).
 Environmental regulation and productivity growth in the euro
@@ -35075,7 +35075,7 @@ https://alternative-fuels-observatory.ec.europa.eu/transport-
 mode/road/denmark/incentives-legislations (Hämtad 2026-05-08).
 European Alternative Fuels Observatory (2025a) France extends
 ecological bonus to support private electric vehicle purchases in
-2026. Publicerad 28 November 2025. https://alternative-fuels-
+2026\. Publicerad 28 November 2025. https://alternative-fuels-
 observatory.ec.europa.eu/general-information/news/france-
 extends-ecological-bonus-support-private-electric-vehicle-
 purchases. (Hämtad 2026-05-08).
@@ -35538,7 +35538,7 @@ Service, USDA FAS (2025). Biofuels annual: European Union.
 United States Department of Agriculture, Foreign Agricultural
 Service, USDA FAS (2026). Biofuel Mandates in the EU by
 Member State – 2025. GAIN Report. Report number E42025-
-0004.
+0004\.
 Vattenfall (u.å.) Minska industrins koldioxidutsläpp – St1 och
 Vattenfall analyserar möjligheterna med fossilfria bränslen.
 https://group.vattenfall.com/se/hallbarhet/plan-for-
@@ -36633,51 +36633,51 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
+1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
 utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
 på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
+2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
+3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
 A.                     – förslag för att motverka
-4. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
+4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
 ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
+5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
 m.m. Fi.               kommunalskattesatser. Fi.
-6. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
+6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
 hälso- och sjukvården. Styrning med Ju.
 tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
 S.                     i samverkan. Nationella åtgärder för
-7. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
+7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
 av folkhälsopolitiken. vid brist. S.
 Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
 genom hälsoekonomiska analyser. mot barntolkning. A.
 Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
 politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
 unga. S.
-26. Digitala verktyg inom bolagsrätten.
-9. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
+26\. Digitala verktyg inom bolagsrätten.
+9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
+10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
 brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
+11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
 verksamhet och tillgångar till Tredje rapportering. Ju.
 och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
+12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
 verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
 AP-fonden. Fi.         för pälsproduktion. LI.
-13. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
+13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
 med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
 rad reglering av handel med ädelmetall-
-32. Att säga ja! Kommunernas förutsätt-
+32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
 ningar att ta emot stora företagsetable-
-15. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
 Konsekvenser för samer av svensk
-33. Vägen mot utfasning. Styrmedel för
+33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
 ett fossilfritt samhälle. KN.
-16. Försvarsexportinitiativ. För gemensam
+16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
 <!-- sida 826 -->
@@ -36802,7 +36802,7 @@ Beslutsunderlag
 Förvaltningen för Services tjänsteskrivelse, 2026-08-28
 
 Nämnden för Service yttrande över Kultur & Fritids remiss: Aktivitetsytan, remsan Onsala BK arrende
-- kompletterande ritningar
+\- kompletterande ritningar
 Begäran om yttrande: Aktivitetsytan, remsan Onsala BK arrende - Slutliga ritningar (E-post)
 Bilaga: Ritning - Rydets IP Aktivitetsremsan 2026-08-21 ledningskoll
 Bilaga: Ritning - Rydets IP Aktivitetsremsan 2026-08-21-område
@@ -36876,15 +36876,15 @@ innan.)
 Kultur & Fritid begär svar senast 2026-09- 03
 
 Underlag finns bifogat som PDF i detta mejl.
-1. Svara om projekteringen kan godkännas med ja eller nej med tillhörande motivering.
-2. Svara även om inga synpunkter finns för att bekräfta att er remitterade verksamhet granskat ansökan.
+1\. Svara om projekteringen kan godkännas med ja eller nej med tillhörande motivering.
+2\. Svara även om inga synpunkter finns för att bekräfta att er remitterade verksamhet granskat ansökan.
 
 Ha en fortsatt fin dag
 
 Hälsningar
 Jessica Wibeck
 Fritidschef
----------------------------------------
+\---------------------------------------
 Kungsbacka kommun
 Kultur & Fritid
 Box 10071
@@ -37131,18 +37131,18 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 1.1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
-- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\- Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
-- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\- Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag och
 stiftelser, ordförande i kommunfullmäktiges valberedning, partigruppledare (leder
 respektive partigrupp i kommunfullmäktige)
-- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\- Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, beredningar och andra
 uppdrag enligt särskilt beslut.
 
-- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\- Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
 1.2 Andra uppdrag
 
@@ -37198,10 +37198,10 @@ Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser:
 
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd och för andra enskilda uppdrag som
 omfattar minst 40%.
@@ -37452,8 +37452,8 @@ partigruppledare.
 
 Arvode betalas i form av:
 
-- Fast arvode för deltidsuppdrag
-- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\- Fast arvode för deltidsuppdrag
+\- Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
@@ -37613,9 +37613,9 @@ förtroendevalda representerar det organ denne själv tillhör.
 Därtill betalas dagarvode och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 12 (18)
 
@@ -37781,10 +37781,10 @@ förvaltning. Utbetalning sker i normalfallet den 27:e i månaden efter sammantr
 har ägt rum.
 
 När en förtroendevald ska begära ersättning
-- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
+\- för andra förmåner än dagarvode, timersättning och reseersättning, i samband
 med protokollfört sammanträde eller
 
-- efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\- efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
 ska underlag bifogas.
@@ -37833,7 +37833,7 @@ Arvodesberedningen bereder generella ärenden om arvoden och ersättningar infö
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 18 (18)
 

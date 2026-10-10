@@ -517,7 +517,7 @@ Information om Löneöversyn 2024, från årshjul
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola tar del av informationen om löneöversynen
-2024.
+2024\.
 
 Sammanfattning av ärendet
 I löneöversynen 2024 gjorde förvaltningen lönesatsningar för legitimerade
@@ -913,12 +913,12 @@ Rektor har vidtagit ett antal åtgärder i relation till de olika utvecklingsomr
 
 -Organiserat för lärarnas kollegiala lärande. Dels utifrån litteraturstudier och
 handledning med professionsutveckling, dels utifrån ämnesutveckling.
-- Utarbetat en gemensam lektonsstruktur, stärka det kollegiala lärande samt
+\- Utarbetat en gemensam lektonsstruktur, stärka det kollegiala lärande samt
 professionsutveckling genom individuell analys av undervisningen.
 
-- Kompetensutveckling för elevhälsan, stärkt rutiner för anmälningar av misstänkt
+\- Kompetensutveckling för elevhälsan, stärkt rutiner för anmälningar av misstänkt
 kränkande behandling och ett strukturerat främjande trygghetsarbete av lärare.
-- Utvecklat struktur för lärares sambedömning och betygssättning.
+\- Utvecklat struktur för lärares sambedömning och betygssättning.
 
 Beslutsunderlag
 Förskola & Grundskola arbetsutskotts delegeringsbeslut, 2024-11-14

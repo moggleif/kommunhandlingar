@@ -450,14 +450,14 @@ att utreda och komma med förslag på hur en verksamhet med Jourhavande föräld
 kan inrättas i Kungsbacka kommun.
 
 För den utredningen föreslås:
-- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
+\- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
 familjehemsplacering, med fokus på att barn ska kunna bo kvar i sin hemmiljö.
 
-- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
+\- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
 kan säkerställas, med rutiner för lämplighetsbedömning, registerkontroller,
 introduktionsutbildning och handledning för jourförälder.
 
-- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
+\- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
 
 Beslutsunderlag
 
@@ -930,7 +930,7 @@ Nämnden för Individ & Familjeomsorg antar Konkurrensutsättningsplan Nämnden
 för Individ & Familjeomsorg 2026.
 
 Nämnden för Individ & Familjeomsorg antar Årsplan för konkurrensutsättning 2026
-- Nämnden för Individ & Familjeomsorg.
+\- Nämnden för Individ & Familjeomsorg.
 
 Sammanfattning av ärendet
 

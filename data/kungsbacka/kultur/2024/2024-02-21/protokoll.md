@@ -268,8 +268,8 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 tillsammans med bifogade handlingar.
 Förvaltningen redovisar:
 
-- ett överskott på driftbudgeten om 0,6 miljoner kronor
-- ett överskott på investeringsbudgeten om 9,1 miljoner kronor
+\- ett överskott på driftbudgeten om 0,6 miljoner kronor
+\- ett överskott på investeringsbudgeten om 9,1 miljoner kronor
 
 Den nya lagen, Lag (2023:196), om kommuners ansvar för brottsförebyggande
 arbete, trädde i kraft 1 juli 2023. Kommunstyrelsen, eller den nämnd som
@@ -305,8 +305,8 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att begära:
 
-* att av nämndens överskott i driftsbudgeten om + 583 tkr återredovisas.
-* att av nämndens överskott i investeringsbudgeten om +9 029 tkr begära 3 873 tkr
+\* att av nämndens överskott i driftsbudgeten om + 583 tkr återredovisas.
+\* att av nämndens överskott i investeringsbudgeten om +9 029 tkr begära 3 873 tkr
 ombudgeteras till år 2024 och 500 tkr till 2025.
 
 Sammanfattning av ärendet

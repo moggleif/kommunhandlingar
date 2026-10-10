@@ -378,12 +378,12 @@ förbättra servicen till allmänheten, organisationer och företag.
 3.4 Pågående utredningar
 
 I dagsläget pågår två utredningar som kan påverka framtiden för kommunala lantmäterier.
-1) Den statliga utredningen Förändring genom försök som var ute på remiss till 16 januari
-2024. Utredningen föreslår att kommuner i en försöksverksamhet under vissa
+1\) Den statliga utredningen Förändring genom försök som var ute på remiss till 16 januari
+2024\. Utredningen föreslår att kommuner i en försöksverksamhet under vissa
 förutsättningar ska kunna ges tillstånd av regeringen att inrätta en kommunal
 lantmäterimyndighet i samverkan eller genom avtalssamverkan.3
 
-2) En nyligen påbörjad utredning som ska vara färdig senast 1 oktober 2025. Utredningen ska
+2\) En nyligen påbörjad utredning som ska vara färdig senast 1 oktober 2025. Utredningen ska
 göra en översyn av lantmäterimyndigheternas organisering i syfte att förbättra
 förutsättningarna för både den statliga och de kommunala lantmäterimyndigheterna att
 bedriva en effektiv, enhetlig och rättssäker fastighetsbildning i hela landet. Utredningen ska
@@ -490,10 +490,10 @@ till den avdelning som har kunskap inom mät, kart och GIS.
 I sin ansökan räknade Eskilstuna på 170 inkomna ärenden per år vilket skulle ge en intäkt på nio
 miljoner. För att klara ärendemängden bedömdes de behöva vara nio personer. Kostnaderna per
 år uppskattades till 9,2 miljoner där personal var den största kostnaden. Andra jämförelser är:
--  Varberg har cirka 150 ärenden per år, på KLM är 16 anställda. De ser att det blir mer och
+\-  Varberg har cirka 150 ärenden per år, på KLM är 16 anställda. De ser att det blir mer och
 mer komplexa ärenden.
 
--  Göteborg har cirka 340 ärenden per år, på KLM är 14 personer anställda på respektive
+\-  Göteborg har cirka 340 ärenden per år, på KLM är 14 personer anställda på respektive
 KLM-enhet, vilket ger 28 personer totalt.
 Kungbacka har under de fem senaste åren haft ett snitt på 210 ärenden hos Lantmäteriet vilket
 
@@ -576,19 +576,19 @@ KLM.pdf
 Beslut från regeringen, samt lantmäteriets yttranden
 Beslut från regeringen angående kommunalt lantmäteri, samt lantmäteriets yttrande i ärendet för:
 
--  Eskilstuna
+\-  Eskilstuna
 
--  Falun
--  Härryda
+\-  Falun
+\-  Härryda
 
--  Höganäs
--  Järfälla
+\-  Höganäs
+\-  Järfälla
 
--  Ljusdal
--  Malung-Sälen
+\-  Ljusdal
+\-  Malung-Sälen
 
--  Vetlanda
--  Ängelholm
+\-  Vetlanda
+\-  Ängelholm
 
 Intervjuer
 Chef för KLM i:
@@ -638,7 +638,7 @@ arbetsutskott lämnade den 20 juni 2024 över initiativet till byggnadsnämnden 
 ställningstagande.
 Förslagsställarna lyfter följande punkt:
 
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 
@@ -687,7 +687,7 @@ lantmäterimyndigheter. Varje kommun har rätt att ansöka om att hantera sina e
 lantmäteriärenden genom att inrätta ett kommunalt lantmäteri. Förslagsställarna
 lyfter följande punkt:
 
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 
@@ -734,11 +734,11 @@ får i uppdrag att utreda förutsättningarna för att ansöka om ett kommunalt 
 
 2 juni 2024
 
-_________________________           __________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Thure Sandén (M)                    Daniel Hognert (M)
 
-__________________________          ____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 2 (2)

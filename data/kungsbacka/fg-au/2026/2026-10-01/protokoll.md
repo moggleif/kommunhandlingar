@@ -460,8 +460,8 @@ Förslag till beslut
 
 Nämnden för Förskola & Grundskola beslutar:
 
-- att godkänna Lokalbehov 2028-2032 för Nämnden för Förskola & Grundskola.
-- att godkänna behovsbeskrivningarna enligt bilaga 1-3 som underlag för fortsatt
+\- att godkänna Lokalbehov 2028-2032 för Nämnden för Förskola & Grundskola.
+\- att godkänna behovsbeskrivningarna enligt bilaga 1-3 som underlag för fortsatt
 beredning i kommunens lokalplaneringsprocess.
 
 Sammanfattning av ärendet
@@ -551,7 +551,7 @@ Beslutsunderlag
 Förskola & Grundskolas tjänsteskrivelse, 2026-09-14. Rapportering olycksfall och
 tillbud, januari-juni 2026.
 Rapport anmälda olycksfall och tillbud Förskola & Grundskola 2026-01-01-2026-06-
-30.
+30\.
 
 Beslutsgång
 Ordföranden Emanuel Forsell (M) prövar om arbetsutskottet kan anteckna

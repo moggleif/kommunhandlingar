@@ -230,12 +230,12 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorg gav den 22 februari 2024 förvaltningschefen i uppdrag
 att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att
 etablera en sådan avdelning på Signes Hus
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
 personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
 möjligt statliga donationer.
 
 Förvaltningen genomförde en utredning och återkopplade resultatet till nämnden den
@@ -529,13 +529,13 @@ förfogar över en resultatfond som kan användas i detta sammanhang då försla
 föreslås vara ett pilotprojekt för att sedan utvärderas för en långsiktig person
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram ett
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram ett
 bonussystem för sommarvikarier under 2026 i ett led att säkerställa så hög
 grad av arbetstimmar som möjligt enligt initiativärendets förslag.
 
-2. Nämnden för Vård & Omsorg avsätter 20 miljoner kronor för detta
+2\. Nämnden för Vård & Omsorg avsätter 20 miljoner kronor för detta
 pilotprojekt för året 2026.
-3. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utvärdera
+3\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utvärdera
 
 pilotprojektet, med bonussystem och dess effekter, med redovisning i
 samband med nämndens sammanträde i november 2026.
@@ -761,11 +761,11 @@ drabbas och oavsett vem det är så är det oacceptabelt.
 
 Förslag till beslut:
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att ta fram en
 särskild utbildningsplan för att kunna hantera uppkomna situationer där
 medarbetare riskerar att behandlas illa utifrån diskrimineringslagen.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att implementera
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att implementera
 denna utbildningsplan i samtliga av förvaltningens APT, arbetsplatsträffar,
 för att säkerställa en god psykosocialarbetsmiljö utifrån intentionerna i
 diskrimineringslagen.

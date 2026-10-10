@@ -497,11 +497,11 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20
 timmar för ett arbetspass till 24 timmar inom Individ & familjeomsorg inom
 
-1. personlig assistans för individer som har ett identifierat behov
-2. personlig assistans och bostad med särskild service för situationer då brukare ska
+1\. personlig assistans för individer som har ett identifierat behov
+2\. personlig assistans och bostad med särskild service för situationer då brukare ska
 företa resor som rekreation eller inom sitt värv
 
-3. läger- och korttidsverksamheten för barn och unga
+3\. läger- och korttidsverksamheten för barn och unga
 Beslutet gäller under perioden 1 februari 2026–31 januari 2027.
 
 Sammanfattning av ärendet

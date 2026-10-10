@@ -473,9 +473,9 @@ De nationella minoriteterna
 
 Bibliotekslagen säger i 5 § att "Biblioteken i det allmänna biblioteksväsendet ska ägna särskild uppmärksamhet åt de nationella minoriteterna och personer
 som har annat modersmål än svenska, bland annat genom att erbjuda litteratur på
-1. de nationella minoritetsspråken,
-2. andra språk än de nationella minoritetsspråken och svenska, och
-3. lättläst svenska"
+1\. de nationella minoritetsspråken,
+2\. andra språk än de nationella minoritetsspråken och svenska, och
+3\. lättläst svenska"
 
 De nationella minoriteterna är sverigefinnar, tornedalingar, romer, judar och samer (som också har status som urfolk). Det finns också fem erkända nationella
 minoritetsspråk; finska, meänkieli, jiddish, romani chib (alla varieteter) och samiska (alla varieteter).
@@ -1439,11 +1439,11 @@ hemlösheten i kommunen.
 
 Enligt Bostadsförsörjningsplanen ska Nämnden tillsammans med andra nämnder och Eksta Bostads
 AB ansvara för insatser för att nå mål 3 Bostadsförsörjningen:
--  Vi ska fortsätta att planera efter att de boenden som kommunen tillhandahåller som stöd till
+\-  Vi ska fortsätta att planera efter att de boenden som kommunen tillhandahåller som stöd till
 vissa målgrupper ska vara utspridda i samhället
 
--  Vi ska prova nya metoder för att minska hemlösheten
--  Vi ska ge förtur till Ekstas hyresrätter för vissa våldsutsatta personer
+\-  Vi ska prova nya metoder för att minska hemlösheten
+\-  Vi ska ge förtur till Ekstas hyresrätter för vissa våldsutsatta personer
 
 Nämnden ser positivt på att arbeta med dessa insatser tillsammans med andra berörda nämnder och
 bostadsbolag för att främja en god social sammanhållning.
@@ -2149,7 +2149,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -3030,7 +3030,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -3311,7 +3311,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -3518,7 +3518,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -3856,7 +3856,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -4568,7 +4568,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -4887,11 +4887,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -4938,7 +4938,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -5549,7 +5549,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -5638,7 +5638,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -5646,27 +5646,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 152 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -5831,7 +5831,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 156 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -5846,12 +5846,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -6183,7 +6183,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -6191,11 +6191,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -6529,7 +6529,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -6562,9 +6562,9 @@ Denna del innehåller de huvudsakliga målen för bostadsförsörjningen i kommu
 insatser som planeras för att uppnå dessa mål. Tre övergripande mål för
 bostadsförsörjningen i Kungsbacka kommun har identifierats:
 
-1. Tillgängliggöra fler bostadsytor i en hållbar takt.
-2. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
-3. Bostadsförsörjningen ska främja social sammanhållning.
+1\. Tillgängliggöra fler bostadsytor i en hållbar takt.
+2\. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
+3\. Bostadsförsörjningen ska främja social sammanhållning.
 
 Del 2: Statistik och underlag
 Denna del består av underlagsmaterial som utgör basen för bostadsförsörjningsplanen. Här
@@ -6821,13 +6821,13 @@ Analys
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar, för att
 sammanfatta några:
 
--   Demografi
--   Konkurrens
+\-   Demografi
+\-   Konkurrens
 
--   Investeringar
--   Index
+\-   Investeringar
+\-   Index
 
--   Löneutveckling
+\-   Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 
@@ -6963,15 +6963,15 @@ gymnasieskola inom respektive samverkansavtal i Göteborgsregionen.
 Beräkningsförutsättningar för viktning av index
 Viktning av ingående indexdelar
 2024     2025
-Personalkostnader*     63%     63%
-- lärare, 78%
-- övrig personal, 22%
+Personalkostnader\*     63%     63%
+\- lärare, 78%
+\- övrig personal, 22%
 
 Övriga kostnader (KPI) 36%     36%
 Kapitalkostnader (Internränta) 1% 1%
 Summa                  100%    100%
 
-*Inklusive aktuell arbetsgivaravgift vid beräkningstillfället.
+\*Inklusive aktuell arbetsgivaravgift vid beräkningstillfället.
 
 Indexförutsättningar
 
@@ -6979,8 +6979,8 @@ Uppdateringar inför 2025 Prognos Prognos Källa
 2024    2025
 Förändringsvärden
 Löneökningar
-- lärare               3,40%   3,31%   GR-kommuner
-- övrig personal       3,80%   3,50%   SKR 24:27
+\- lärare               3,40%   3,31%   GR-kommuner
+\- övrig personal       3,80%   3,50%   SKR 24:27
 Arbetsgivaravgifter    2,65%   - 5,79% SKR 24:27
 KPI                    2,60%   0,40%   SKR 24:27
 Internränta            1,25%   0,00%   SKR 24:27
@@ -7321,18 +7321,18 @@ aktuellt index.
 Generella rationaliseringar diskuteras i Utbildningschefsnätverket, UC, årligen.
 Grundprinciperna för prislistan
 
-- Priset beräknas i normalfallet vartannat år från och med 2020.
-- Priset utgörs av medlemskommunernas sammanlagda programkostnader på
+\- Priset beräknas i normalfallet vartannat år från och med 2020.
+\- Priset utgörs av medlemskommunernas sammanlagda programkostnader på
 gymnasieskolan efter fastställt bokslut.
-- Det dyraste och det billigaste programmet tas bort vid beräkningen av det
+\- Det dyraste och det billigaste programmet tas bort vid beräkningen av det
 genomsnittliga priset för att undvika att eventuella ytterligheter får för stor
 inverkan på genomsnittspriset.
 
 Det finns två undantag till denna princip:
 
-- Är det färre än 7 anordnare av ett program tas inte det dyraste och billigaste bort
+\- Är det färre än 7 anordnare av ett program tas inte det dyraste och billigaste bort
 eftersom genomsnittet då skulle baseras på för få anordnare.
-- Göteborg är på grund av sin volym alltid med i kalkylen även om programmet är
+\- Göteborg är på grund av sin volym alltid med i kalkylen även om programmet är
 dyrast eller billigast.
 
 2
@@ -7346,10 +7346,10 @@ Handläggare: Lars Jerkeman
 Datum: 2024-05-31, Dnr: ATN 2024-00062
 
 Mellanliggande år justeras priset med följande index:
-- KPI
-- Nominell ränta
-- Arbetsgivaravgifter
-- Löneutveckling GR (Lärarpersonal med regional uppskattning samt enligt SKR:s
+\- KPI
+\- Nominell ränta
+\- Arbetsgivaravgifter
+\- Löneutveckling GR (Lärarpersonal med regional uppskattning samt enligt SKR:s
 cirkulär för övrig personal i skolan)
 
 Hur kan GR-kommunerna påverka priset?
@@ -7438,11 +7438,11 @@ Analys
 
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar, för att
 sammanfatta några:
-- Demografi
-- Konkurrens
-- Investeringar
-- Index
-- Löneutveckling
+\- Demografi
+\- Konkurrens
+\- Investeringar
+\- Index
+\- Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 
@@ -9885,13 +9885,13 @@ Vuxenutbildningen), Emma Persson (utbildningschef Visible Care), Sanna
 Andersson (Studie-och yrkesvägledare Aranäsgymnasiet), Ammie Karlsson (elev
 årskurs I Aranäsgymnasiet), Elsa Olsson (elev årskurs 1 Aranäsgymnasiet)
 
-$1 Ordförande Jan Eric Knutas öppnar mötet.
+\$1 Ordförande Jan Eric Knutas öppnar mötet.
 Presentationsrunda.
-$2 Val av sekreterare och justerare
+\$2 Val av sekreterare och justerare
 
 Malin Edefors väljs till sekreterare, Sanna Andersson justerare
 
-$3 Föregående protokoll
+\$3 Föregående protokoll
 Dan Sadé ger återkoppling på matersättning som nu har höjts från 30
 till 40 kronor/dag.
 Lokalfrågan: Ordförande återkopplar från gårdagens nämndmöte
@@ -9917,7 +9917,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 249 -->
 
-$4
+\$4
 
 KUNGSBACKA KOMMUN -:
 
@@ -9966,7 +9966,7 @@ gammal utrustning som inte stämmer med hur det är i vården idag. Elsa
 
 <!-- sida 250 -->
 
-$5
+\$5
 
 KUNGSBACKA KOMMUN
 
@@ -10072,7 +10072,7 @@ APL
 
 88
 
-$9
+\$9
 
 810
 
@@ -10163,7 +10163,7 @@ Skolverket 2024-10-30                           1 (2)
 Resultaten från PIRLS 2021 ledde till tal om en ”läskris”. I Skolverkets analys av PIRLS
 
 framgår att gapet mellan elever med svensk respektive utländsk bakgrund har ökat sedan
-2016. Nationellt centrum för svenska som andraspråk /NC) lyfter därför behovet av
+2016\. Nationellt centrum för svenska som andraspråk /NC) lyfter därför behovet av
 andraspråksperspektiv i läs- och skrivundervisningen och vikten av kvalitativ
 undervisning i ämnet svenska som andraspråk för elever som har behov av det.
 
@@ -10321,7 +10321,7 @@ https://sign.visma.net/sv/document-check/d1697e2e-6dae-41bf-8053-c0e841cba159 ww
 <!-- sida 258 -->
 
 Beslut: Ombudsposten delegeras till förbundschef på NNS medlemsmöte 21 november
-2024.
+2024\.
 
 § 8      Ordförande och vice ordförande 2025-
 
@@ -10333,7 +10333,7 @@ Ur förbundsstyrelsen § 5:
 styrelsen bestämmer. Ordförande och vice ordförande bildar presidium. Presidiet består av en
 representant från region eller kommun och en representant från staten.”
 Ordförande Linda Biltmark och vice ordförande Helene Andersson är av styrelsen utsedda till
-241231.
+241231\.
 
 Diskussionens slutsats: Viktigt med kontinuitet och erfarenhet och kompetens då vi är mitt inne i
 en förändringsprocess. Styrelsen ser gärna att sittande ordförande och vice ordförande förlängs
@@ -10346,7 +10346,7 @@ Beslut: Att ge presidiet i uppdrag att ta fram förslag på hur strukturen på a
 till nästa möte.
 
 § 9      Rapport från förbundschefen
-- Inkommen skrivelse från AF om förbund som projektägare samt ESF-medel som delfinansiering
+\- Inkommen skrivelse från AF om förbund som projektägare samt ESF-medel som delfinansiering
 av förbundsfinansierade insatser
 
 •  Endast samverkande part som är medlem i ett samordningsförbund får bidra med medel
@@ -10359,7 +10359,7 @@ utifrån den rättsliga bedömningen.
 •  Nationella rådets parter är överens om tolkningen av lagen. Det är upp till respektive
 part, självständigt, att undersöka och klargöra hanteringen av frågan.
 
-- Medlemsdialoger 2024
+\- Medlemsdialoger 2024
 Inbokade medlemsdialoger:
 
 •  Laholms kommun 4 nov
@@ -10382,7 +10382,7 @@ https://sign.visma.net/sv/document-check/d1697e2e-6dae-41bf-8053-c0e841cba159 ww
 Alla tider ska skickas ut med protokollet. Frågan om ex v ledamöter kan närvara vid andra parters
 medlemsdialoger ska undersökas till nästa år.
 
-- Arbete med Verksamhetsplan 2025
+\- Arbete med Verksamhetsplan 2025
 
 Arbetsgrupp med representanter från Berednings- och Utvecklingsgrupp pågår:
 
@@ -10401,7 +10401,7 @@ tillfrågades förbundets revisor KPMG om råd att hantera verksamhetsplanen. De
 detaljerat som möjligt. Beskriv hur ni avser förändra organisering av insatser under 2025.
 Kommentera att budget kan komma behövas revideras under 2025.
 
-- Parterna berättar 15 november kl.08.30-09.30, Region Halland
+\- Parterna berättar 15 november kl.08.30-09.30, Region Halland
 
 •  Organisation och uppdrag, med fokus på den övergripande strukturen och på hälso- och
 sjukvårdens inriktning.
@@ -10478,11 +10478,11 @@ Det bifogade överklagandet har kommit in till domstolen.
 
 Målet behöver kompletteras
 Ni ska ge in följande handlingar:
-- det överklagade beslutet med eventuella bilagor.
+\- det överklagade beslutet med eventuella bilagor.
 
-- de handlingar som utgjort underlag för det överklagade beslutet
+\- de handlingar som utgjort underlag för det överklagade beslutet
 
-- anslagsbevis, med uppgift om vilken dag anslaget om protokolljustering sattes upp på
+\- anslagsbevis, med uppgift om vilken dag anslaget om protokolljustering sattes upp på
 anslagstavlan och vilken dag det togs ned.
 
 Detta gäller även i de fall tiden för överklagande inte har gått ut.
@@ -10611,7 +10611,7 @@ hannah.tengelin@kungsbacka.se
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (26)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2024-10-23
-$ 126 Dnr GA-2024-00036
+\$ 126 Dnr GA-2024-00036
 
 Politiska ungdomsförbund i gymnasieskolan
 
@@ -10622,7 +10622,7 @@ på Kungsbackas gymnasieskolor.
 
 Sammanfattning av ärendet
 
-Nämnden för Gymnasium & Arbetsmarknad gav vid sitt sammanträde 2024-02-21, $
+Nämnden för Gymnasium & Arbetsmarknad gav vid sitt sammanträde 2024-02-21, \$
 25, förvaltningen för Gymnasium & Arbetsmarknad i uppdrag att upprätta en
 riktlinje för att möjliggöra ungdomsförbundens besök på de kommunala
 gymnasieskolorna.
@@ -10631,7 +10631,7 @@ Skolan har ett viktigt demokratiskt uppdrag och utbildningen ska utformas i
 överensstämmelse med grundläggande demokratiska värderingar. Skolans
 demokratiuppdrag kan organiseras och genomföras på olika sätt. Av 1 kap. 5 a
 
-$ skollagen framgår att det är rektor som fattar beslut om politiska partier ska bjudas
+\$ skollagen framgår att det är rektor som fattar beslut om politiska partier ska bjudas
 in till undervisningen. Rektorsgruppen på Kungsbacka kommuns gymnasieskolor har
 tagit fram en rutin för besök på och politisk information i gymnasieskolorna. Av
 rutinen framgår att politiska partier/ungdomsförbund bjuds in till gymnasieskolorna i
@@ -10760,7 +10760,7 @@ Gäller besöket elever på endast en skolenhet räcker det att ansvarig rektor 
 Bilag |
 2024-03-01 09:53 Politiska partier i skolan — analys i [sv 4
 
-Den 1 januari 2018 trädde en ny paragraf i skollagen i kraft. Genom den nya paragrafen, 1 kap. 5 a $,
+Den 1 januari 2018 trädde en ny paragraf i skollagen i kraft. Genom den nya paragrafen, 1 kap. 5 a \$,
 regleras ett tidigare svårbemästrat ämne, nämligen vad som ska gälla för medverkan av politiska par-
 tier i skolarbetet. Ta del av de nya reglerna i denna analys skriven av JP Infonets expert Lars
 
@@ -10768,7 +10768,7 @@ Clevesköld.
 
 BESTÄMMELSER
 
-Den nya paragrafen 1 kap. 5 a $ skollagen har följande lydelse:
+Den nya paragrafen 1 kap. 5 a \$ skollagen har följande lydelse:
 
 Rektorn beslutar om politiska partier ska bjudas in för att medverka i utbildningen. Om politiska partier bjuds in
 får antalet begränsas till samtliga de partier som är representerade i antingen riksdagen, vald församling i en eller
@@ -10798,7 +10798,7 @@ demokratiska beslutsprocesser i samhälls- och arbetslivet är det viktigt att e
 het att ta del av politisk opinionsbildning. Ett delmoment i arbetet kan vara att bjuda in politiska partier till
 skolan. Genom att skolan exempelvis anordnar en debatt eller en utfrågning av företrädare för olika politiska
 partier kan flera viktiga demokratiska principer belysas för eleverna, bl.a. principen om fri åsiktsbildning som
-anges i 1 kap. 1 $ första stycket RF (Utbildningsutskottets betänkande (2017/18:UbU6) Politisk information i
+anges i 1 kap. 1 \$ första stycket RF (Utbildningsutskottets betänkande (2017/18:UbU6) Politisk information i
 skolan.
 
 Det har länge funnits en besvärande osäkerhet rörande hur skolorna ska gå till väga när det gäller att bjuda
@@ -10870,7 +10870,7 @@ en annan objektiv grund.
 Politiska partier får enligt denna alternativa handlingsregel även bjudas in av rektorn utifrån någon annan
 objektiv urvalsgrund än de som anges i första stycket.
 
-En sådan urvalsgrund kan exempelvis vara politiska partier som är berättigade till statligt partistöd enligt 3'$
+En sådan urvalsgrund kan exempelvis vara politiska partier som är berättigade till statligt partistöd enligt 3'\$
 lagen (1972:625) om statligt stöd till politiska partier eller som är berättigade till kommunalt partistöd enligt
 kommunallagen eller som har rätt till valsedlar på statens bekostnad enligt 6 kap. 8 5 vallagen (2005:837).
 
@@ -10946,7 +10946,7 @@ tal skolledningar har sett det som nödvändigt att avstå från att bjuda in f�
 skolan.
 
 Enligt alla tre Styckena i Paragrafen är det således rektorn som har beslutanderätten. Att det enligt bestäm-
-melsen är rektorn Som får bjuda in Politiska partier hindrar inte rektorn från att enligt 2 kap. 10 $ skollagen
+melsen är rektorn Som får bjuda in Politiska partier hindrar inte rektorn från att enligt 2 kap. 10 \$ skollagen
 delegera uppgiften till andra inom skolenheten.
 
 kan besluta i ett enskilt fall i fråga om vilka partier som ska bjudas in eftersom det följer direkt av skollagen
@@ -11047,7 +11047,7 @@ ten Skåne
 och
 Blekinge
 
-hitne:/hannw ininfanat <a/ IP-SkaINat/daki Menyn nANsAroch-raferat-Jaraanisation-av-verksamheten/nolitiska-inslaa/Analvser/d 3148017-stron... 5/6
+hitne:/hannw ininfanat \<a/ IP-SkaINat/daki Menyn nANsAroch-raferat-Jaraanisation-av-verksamheten/nolitiska-inslaa/Analvser/d 3148017-stron... 5/6
 
 <!-- sida 275 -->
 
@@ -11075,7 +11075,7 @@ urval, därför kan skolan inte ta emot enstaka politiska partier som vill göra
 
 besök.
 
-Källor: I kapitlet 5 a $ och 2 kapitlet 10 $ skollagen.
+Källor: I kapitlet 5 a \$ och 2 kapitlet 10 \$ skollagen.
 
 Vad är ett objektivt urval av partier?
 
@@ -11107,7 +11107,7 @@ att skolan inte väljer urvalskriterier för att undvika ett visst politiskt par
 
 så strider mot objektivitetsprincipen.
 
-Källor: 1 kapitlet 9 $ regeringsformen, 1 kapitlet 5 a $ skollagen samt proposition
+Källor: 1 kapitlet 9 \$ regeringsformen, 1 kapitlet 5 a \$ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidorna 28-29.
 
 Behöver andra politiska partier än de som har bjudits in ges möjlighet att
@@ -11116,7 +11116,7 @@ Nej, om rektorn har gjort ett objektivt urval av partier så behöver inte andra
 
 som har anmält intresse för att medverka i utbildningen ges den möjligheten.
 
-Källa: I kapitlet 5 a $ skollagen.
+Källa: I kapitlet 5 a \$ skollagen.
 
 Måste skolan bjuda in politiska partier?
 
@@ -11132,7 +11132,7 @@ ordningen och arbetsmiljön för både elever och personal blir god när skolan 
 
 in politiska partier.
 
-Källor: 1 kapitlet 4-5 a och 10 $$, 5 kapitlet 3-4 $$ skollagen samt proposition
+Källor: 1 kapitlet 4-5 a och 10 \$\$, 5 kapitlet 3-4 \$\$ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidorna 8 och 14-15.
 
 Har partier rätt att komma oinbjudna till en skola?
@@ -11147,7 +11147,7 @@ att bjuda in alla partier, att göra ett objektivt urval eller att inte bjuda in
 
 partier alls till skolan.
 
-Källor: 1 kapitlet 5 a $ skollagen och proposition 2017/18:17 Politisk information
+Källor: 1 kapitlet 5 a \$ skollagen och proposition 2017/18:17 Politisk information
 
 i skolan, sidan 8.
 
@@ -11166,7 +11166,7 @@ kommunerna. Det kan innebära att rektorn bjuder in alla partier från de aktuel
 
 kommunernas kommun fullmäktige.
 
-Källor: 1 kapitlet 5 a $ skollagen samt proposition 2017/18:17 Politisk
+Källor: 1 kapitlet 5 a \$ skollagen samt proposition 2017/18:17 Politisk
 
 information i skolan, sidorna 28-29.
 
@@ -11182,7 +11182,7 @@ antalet inbjudna partier om urvalet är objektivt. Men skolan kan alltid välja 
 
 avstå från arrangemanget.
 
-Källor: I kapitlet 9 $ och 2 kapitlet I $ regeringsformen, 1 kapitlet 5 a $ skollagen
+Källor: I kapitlet 9 \$ och 2 kapitlet I \$ regeringsformen, 1 kapitlet 5 a \$ skollagen
 samt proposition 2017/18:17 Politisk information i skolan, sidorna 15-16.
 
 Kan elevkårer utifrån eget urval bjuda in politiska partier i skolans lokaler
@@ -11195,8 +11195,8 @@ objektivitetsprincipen genom att låta eleverna bestämma urvalet och bjuda in
 
 politiska partier i skolans lokaler under skoltid.
 
-Källor: I kapitlet 9 $ regeringsformen samt 1 kapitlet 5 a $ och 2 kapitlet 8 och 9-
-10 $$ skollagen.
+Källor: I kapitlet 9 \$ regeringsformen samt 1 kapitlet 5 a \$ och 2 kapitlet 8 och 9-
+10 \$\$ skollagen.
 
 Är det rektorn som beslutar vilka politiska partier som ska bjudas in om en
 extern organisation har bokat skolans lokaler för ett arrangemang utanför
@@ -11215,7 +11215,7 @@ häne:lhananss ebabsarbat oalraalar ack anovarlanevar i ekalfranar/nalitiok infa
 
 som ska bjudas in.
 
-Källor: 1 kapitlet 3 och 5 a $$, 2 kapitlet 9-10 $$ skollagen samt proposition
+Källor: 1 kapitlet 3 och 5 a \$\$, 2 kapitlet 9-10 \$\$ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidan 16.
 
 Lärarens befogenheter och skyldigheter
@@ -11227,7 +11227,7 @@ politiker. Det är om politikern säger saker som är brottsliga. Exempel på de
 
 förtal, förolämpning och hets mot folkgrupp.
 
-Källor: 2 kapitlet 23 $ regeringsformen, 5 kapitlet 1-4 $$ och 16 kapitlet 8 $
+Källor: 2 kapitlet 23 \$ regeringsformen, 5 kapitlet 1-4 \$\$ och 16 kapitlet 8 \$
 brottsbalken samt proposition 2017/18:17 Politisk information i skolan, sidorna
 16-17.
 
@@ -11241,7 +11241,7 @@ heller avbryta en inbjuden politiker som säger något som strider mot skolans
 
 värdegrund.
 
-Källor: 2 kapitlet I $ regeringsformen och proposition 2017/18:17 Politisk
+Källor: 2 kapitlet I \$ regeringsformen och proposition 2017/18:17 Politisk
 
 information i skolan, sidorna 16-17.
 
@@ -11268,7 +11268,7 @@ hitne:/hananuw skalvarket sa/ranlar-ach-ansvar/ansvar-i-skaolfranar/nalitisk-inf
 
 eller det demokratiska styret.
 
-Källor: 2 kapitlet I $ regeringsformen, I kapitlet 4-5 a och 10 $$ skollagen samt
+Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 4-5 a och 10 \$\$ skollagen samt
 Proposition 2017/18:17 Politisk information i Skolan, sidorna I 6-17.
 
 Om skolans ansvar vid upplevd kränkande behandling eller trakasserier
@@ -11282,7 +11282,7 @@ det även för inbjudna politiker?
 förhålla sig till skollagens bestämmelser om att främja mänskliga rättigheter och
 aktivt motverka alla former av kränkande behandling.
 
-Källor: 2 kapitlet I $ regeringsformen, I kapitlet 5 $ skollagen och proposition
+Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 5 \$ skollagen och proposition
 2017/18:17 Politisk information i skolan, sidan 17.
 
 utbildningen ska 8es möjlighet att ta del av information också från dessa
@@ -11297,7 +11297,7 @@ metod för att visa olika partiers åsikter för eleverna. Detta sätt ska vara 
 
 2024-03-01 09:52 Politisk information i skolan - Skolverket
 
-Källor: I kapitlet 5 a $ skollagen och proposition 2017/18:17 Politisk information
+Källor: I kapitlet 5 a \$ skollagen och proposition 2017/18:17 Politisk information
 i skolan, sidorna 19-21.
 
 Beslut om politisk information i skolan
@@ -11307,7 +11307,7 @@ Politiska partier än de inbjudna?
 
 ska ha kommit in till skolan.
 
-Källor: I kapitlet 5 a $ skollagen och proposition 2017/18:17 Politisk information
+Källor: I kapitlet 5 a \$ skollagen och proposition 2017/18:17 Politisk information
 
 i skolan, sidan 21.
 
@@ -11339,7 +11339,7 @@ och eleverna. Ett skriftligt beslut underlättar även en tillsyn av verksamhete
 
 exempel om en inbjudan har avgränsats genom ett objektivt urval.
 
-Källor: 1 kapitlet 5 a $ skollagen samt proposition 2017/18:17 Politisk
+Källor: 1 kapitlet 5 a \$ skollagen samt proposition 2017/18:17 Politisk
 
 information i skolan, sidan 22.
 
@@ -11352,7 +11352,7 @@ Nej, bestämmelsen om objektivt urval gäller inte när en politiker bjuds in i 
 annan egenskap än partiföreträdare. Exempelvis kan en kommunfullmäktiges
 
 ordförande bjudas in för att berätta om det allmänna arbetet i kommunfullmäktige.
-Källor: 1 kapitlet 5 a $ skollagen och proposition 2017/18:17 Politisk information
+Källor: 1 kapitlet 5 a \$ skollagen och proposition 2017/18:17 Politisk information
 i skolan, sidan 22.
 
 Hittade du inte svar på din fråga?
@@ -11434,7 +11434,7 @@ Politiska partier i skolan - vad gäller? 2
 
 Nya bestämmelser i skollagen
 
-Från och med 1 januari 2018 gäller nya regler i och med att en ny bestämmelse, 5 a $,
+Från och med 1 januari 2018 gäller nya regler i och med att en ny bestämmelse, 5 a \$,
 läggs till i det första kapitlet i skollagen (2010:800).! Där slås fast att det är rektorn som
 beslutar om politiska partier ska bjudas in för att medverka i utbildningen. Om politiska
 partier bjuds in får antalet begränsas till samtliga de partier som är representerade i
@@ -11452,7 +11452,7 @@ demokratiuppdraget.
 
 Skolans demokratiuppdrag
 
-Det allmänna ska, enligt regeringsformens 1 kap. 2 $, verka för att demokratiska idéer
+Det allmänna ska, enligt regeringsformens 1 kap. 2 \$, verka för att demokratiska idéer
 blir vägledande inom samhällets alla områden. Skolan har därför ett betydelsefullt
 demokratiskt uppdrag, vilket återspeglas i skolans styrdokument. Skollagen (2010:800)
 slår fast att utbildningen ska förmedla och förankra respekt för de mänskliga
@@ -11537,7 +11537,7 @@ värdegrund.
 Rektorn fattar beslut
 
 Det är rektor som fattar beslutet om politiska partier ska bjudas in till skolan. Beslutet
-kan även i enlighet med 2 kap. 10 $ skollagen (2010:800) fattas av någon annan efter
+kan även i enlighet med 2 kap. 10 \$ skollagen (2010:800) fattas av någon annan efter
 delegation. Det finns inget krav på att beslutet ska vara skriftligt. Det kan ändå vara
 lämpligt med ett skriftligt beslut då det skapar tydlighet i förhållande till politiska
 partier, skolans personal och eleverna. Ett skriftligt beslut underlättar också kommande
@@ -11550,17 +11550,17 @@ Politiska partier i skolan - vad gäller? 4
 En skola är inte en allmän plats
 
 Det är viktigt i sammanhanget att komma ihåg att en skola inte är en allmän plats.
-Rätten till yttrandefrihet, i enlighet med 2 kap. 1 $ regeringsformen, innebär inte en
+Rätten till yttrandefrihet, i enlighet med 2 kap. 1 \$ regeringsformen, innebär inte en
 rättighet för politiska partier att få tillträde till en skola (se t.ex. JO:s ämbetsberättelse
 2008/09 s. 396 och JK:s beslut den 24 april 2008, dnr 8527-07-22). Samma sak gäller
-för rätten som garanteras i 1 kap. $ 2 tryckfrihetsförordningen gällande spridandet av
+för rätten som garanteras i 1 kap. \$ 2 tryckfrihetsförordningen gällande spridandet av
 skrifter.? Skolor kan välja om de vill bjuda in politiska partier eller inte, och det är
 rektor som fattar beslutet om det ska ske och i så fall på vilket sätt.
 
 Begränsning utifrån objektivitetsprincipen
 
 När skolan tar ställning till om politiska partier ska få tillträde till skolan måste
-skolledningen beakta bestämmelsen i 1 kap. 9 $ regeringsformen som säger att
+skolledningen beakta bestämmelsen i 1 kap. 9 \$ regeringsformen som säger att
 myndigheter i sin verksamhet ska beakta allas likhet inför lagen samt iaktta saklighet
 och opartiskhet. En begränsning av antalet partier som inbjuds till skolan ska med
 utgångspunkt i detta göras på objektiv grund, den så kallade objektivitetsprincipen.
@@ -11594,11 +11594,11 @@ objektivt. Det innebär inte att varje uppfattning från alla partier måste red
 Läraren kan utifrån planeringen för undervisningen exempelvis välja att lyfta fram alla
 partiers uppfattningar i endast en viss fråga.
 
-12 kap. 1 $ regeringsformen finns bestämmelser om grundläggande fri- och rättigheter. Där sägs bland annat
+12 kap. 1 \$ regeringsformen finns bestämmelser om grundläggande fri- och rättigheter. Där sägs bland annat
 att varje medborgare är gentemot det allmänna tillförsäkrad yttrandefrihet: frihet att i tal, skrift eller bild eller
 på annat sätt meddela upplysningar samt uttrycka tankar, åsikter och känslor.
 
-311 kap. 2 $ tryckfrihetsförordningen finns bestämmelser om att en myndighet inte på grund av en skrifts
+311 kap. 2 \$ tryckfrihetsförordningen finns bestämmelser om att en myndighet inte på grund av en skrifts
 innehåll får hindra dess spridning bland allmänheten genom åtgärd som saknar stöd i tryckfrihetsförordningen.
 " Med vald församling i en eller flera kommuner avses såväl kommunfullmäktige som landstings- och
 regionfullmäktige.
@@ -11640,12 +11640,12 @@ Skolans ansvar
 Om en företrädare för ett politiskt parti, som bjudits in till skolan för att informera om
 partiets politik, gör brottsliga uttalanden har lärare och annan skolpersonal både rätt och
 skyldighet att avbryta företrädaren. Exempel på yttrandefrihetsbrott som lyfts fram i
-regeringsformen är förtal, förolämpning och hets mot folkgrupp (2 kap. 23 $
+regeringsformen är förtal, förolämpning och hets mot folkgrupp (2 kap. 23 \$
 regeringsformen).
 
 Det är dock viktigt att komma ihåg att partiföreträdare inte omfattas av skollagens
 reglering om att alla som verkar inom utbildningen ska främja mänskliga rättigheter och
-aktivt motverka alla former av kränkande behandling (1 kap. 5 $). Detta innebär att
+aktivt motverka alla former av kränkande behandling (1 kap. 5 \$). Detta innebär att
 partiföreträdaren inte får avbrytas så länge som uttalandena inte är brottsliga. Om
 uttalanden görs som är diskriminerande eller kränkande är det viktigt att dessa inte står
 oemotsagda. Läraren kan exempelvis bjuda in en annan deltagare att i en replik bemöta

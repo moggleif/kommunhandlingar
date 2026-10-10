@@ -235,8 +235,8 @@ Sammanfattning av ärendet
 
 Nämnden för Tekniks arbetsutskott informeras om:
 
--  Översyn av askkoppar i kommunen
--  Det aktiva farthindret på Kungsgatan
+\-  Översyn av askkoppar i kommunen
+\-  Det aktiva farthindret på Kungsgatan
 
 Beslutsgång
 

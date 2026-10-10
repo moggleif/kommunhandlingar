@@ -249,7 +249,7 @@ upprätta detaljplan för korsningen Varlavägen-Arendalsleden samt för del av
 Varlavägen, från Arendalsleden fram till Tölö Tvärled. I beslutet framgår det att
 planändringen kan delas upp i flera etapper vilket även gjorts. Detaljplan för etapp
 ett, cirkulationsplatsen Varlavägen-Arendalsleden vann laga kraft 16 september
-2019. Etapp två, vilket omfattar denna detaljplan, syftar till en breddning av
+2019\. Etapp två, vilket omfattar denna detaljplan, syftar till en breddning av
 Varlavägen mellan korsningen Arendalsleden och Tölö tvärled.
 
 Planförslaget har varit utställt för granskning under tiden 23 april – 16 maj 2025.
@@ -383,9 +383,9 @@ Byggnadsnämnden rättar beslutet att anta detaljplan för hotell inom Särö 1:
 2024-10-17, § 225, så att plankartan visar den utformning som förekom under
 granskningsförfarandet 2024-05-21–2024-06-11 och
 
-* att hela planområdet kommer med på plankartan så att område med bestämmelse P
+\* att hela planområdet kommer med på plankartan så att område med bestämmelse P
 Parkering är helt synligt på plankartan samt
-* att sekundär egenskapsgräns, enligt legenden i plankartan, läggs till på plankartan
+\* att sekundär egenskapsgräns, enligt legenden i plankartan, läggs till på plankartan
 och avgränsar området med bestämmelse a1, Strandskyddet är upphävt.
 
 Sammanfattning av ärendet

@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2 (13)
 
-4.  Kommunbudget 2027, plan 2025-00785 Förslag till beslut i kommunfullmäktige
+4\.  Kommunbudget 2027, plan 2025-00785 Förslag till beslut i kommunfullmäktige
 2028–2029                      Kommunfullmäktige fastställer Kommunbudget
 2027, plan 2028–2029, daterad 2026-05-15, nedan
 14.05–14.25                    kallad budgetdokumentet.
@@ -163,7 +163,7 @@ KUNGSBACKA  KOMMUN
 
 6 (13)
 
-18. Godkännande av        2024-00261 Förslag till beslut i kommunstyrelsen
+18\. Godkännande av        2024-00261 Förslag till beslut i kommunstyrelsen
 projektbeställning samt        Kommunstyrelsen godkänner projektbeställning för
 överlämnande för att upprätta  detaljplan för bostäder och service inom Vallda 20:3
 detaljplan för bostäder och    m.fl. i Vallda, daterad 2026-04-22, med följande

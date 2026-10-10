@@ -157,7 +157,7 @@ informerar om arbetet med att ta fram en ny styrmodell för kommunen.
 
 Kommundirektören har fått i uppdrag av kommunstyrelsen att lämna förslag på ny
 styrmodellen. Förslaget är att en ny styrmodell ska beslutas om efter sommaren
-2024.
+2024\.
 Revisionen avser bjuda in tjänstepersoner till revisionens möte 19 eller 20 augusti för
 ytterligare en redogörelse av förslaget till ny styrmodell. Kommundirektören
 återkommer till Birgitta Litsegård avseende vilket datum.

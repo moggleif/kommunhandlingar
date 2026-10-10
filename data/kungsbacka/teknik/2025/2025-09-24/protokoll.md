@@ -172,7 +172,7 @@ Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Förvaltningens hantering av vattenrätts-frågor
+\-  Förvaltningens hantering av vattenrätts-frågor
 Ärendet placeras sist i dagordningen.
 
 Beslutsgång
@@ -297,17 +297,17 @@ hot om kris och krig från omvärlden. Detta menar motionärerna kräver en bere
 med en hållbar lokal samhällsplanering.
 Mot bakgrund av detta vill motionerna att kommunen ska:
 
--  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
+\-  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
 vattenbesparande utrustning
--  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
+\-  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
 vattenbesparande system och cirkulerande system för till exempel regnvatten
 och gråvatten
 
--  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
+\-  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
 gråvatten
 
--  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
--  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
+\-  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
+\-  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
 bostadsbebyggelse förslagsvis i Forsbergen.
 
 Beslutsunderlag
@@ -547,12 +547,12 @@ uppdatering av beslutens numrering för en anpassning efter en ny mall och en ny
 rapporteringsstruktur för handläggare i ciceron.
 Övriga ändringar och tillägg består av förändringar i redan existerande delegeringar.
 
-- Ny punkt 2.1.3: Helt eller delvis avslå begäran av en annan myndighet att ta del av
+\- Ny punkt 2.1.3: Helt eller delvis avslå begäran av en annan myndighet att ta del av
 en uppgift
 
-- Ny punkt 2.1.4: Helt eller delvis avslå begäran av en brottsbekämpande myndighet
+\- Ny punkt 2.1.4: Helt eller delvis avslå begäran av en brottsbekämpande myndighet
 att ta del av en uppgift
-- Punkt 2.6.2: Politiken beslutar om avslag för anslutningar till allmän va-anläggning
+\- Punkt 2.6.2: Politiken beslutar om avslag för anslutningar till allmän va-anläggning
 för en fastighet utanför verksamhetsområdet samt beslut om uppsägning av
 anslutningsavtal, och förvaltningen beslutar om bifall.
 
@@ -597,35 +597,35 @@ Förvaltningen föreslår den 11 februari för en resultatdag och den 8 oktober 
 planeringsdag.
 
 Nämnden för Teknik föreslås sammanträda följande datum 2026:
-- 21 januari
+\- 21 januari
 
-- 18 februari
-- 18 mars
+\- 18 februari
+\- 18 mars
 
-- 22 april
+\- 22 april
 
-- 13 maj
-- 17 juni
+\- 13 maj
+\- 17 juni
 
-- 19 augusti
-- 16 september
+\- 19 augusti
+\- 16 september
 
-- 21 oktober
-- 18 november
+\- 21 oktober
+\- 18 november
 
-- 16 december
+\- 16 december
 Nämnden för Tekniks arbetsutskott föreslås sammanträda följande datum 2026:
 
-- 12 januari
-- 2 februari
+\- 12 januari
+\- 2 februari
 
-- 2 mars
+\- 2 mars
 
-- 30 mars
-- 4 maj
+\- 30 mars
+\- 4 maj
 
-- 1 juni
-- 10 augusti
+\- 1 juni
+\- 10 augusti
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: CFE6419752C39E12BC560E5B339DFC3986E972F928
@@ -638,11 +638,11 @@ Nämnden för Teknik
 Datum
 2025-09-24
 
-- 7 september
-- 5 oktober
+\- 7 september
+\- 5 oktober
 
-- 2 november
-- 30 november
+\- 2 november
+\- 30 november
 
 Mötesrum för arbetsutskottet är Onsala-rummet och samtliga sammanträden äger
 rum klockan 08:00-10:00 på måndagar. För 2026 föreslås det att nämnden för Teknik
@@ -798,7 +798,7 @@ Projektets budget är 3,2 miljoner kronor i prisnivå 2025–07. Nämnden för T
 hanterar eventuella avvikelser mot projektets budget inom ordinarie driftram.
 
 Enligt inriktningsbeslut från nämnden för Teknik i juni 2024 (ärende TE-2021-
-00979) har förvaltningen verkat för att nå överenskommelser där Trafikverket tar
+00979\) har förvaltningen verkat för att nå överenskommelser där Trafikverket tar
 över hela anläggningar eller delar av anläggningar. När möjligheten för överlämning
 till Trafikverket presenteras har det identifierats att det generellt sett är stora
 underhållsbehov som krävts, där det handlar om stora belopp för kommunen för att
@@ -875,7 +875,7 @@ Anmälan av delegeringsbeslut 2025
 Beslut
 
 Nämnden för Teknik noterar delegeringsbeslut fattade under juni, juli & augusti
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Nämnden för Teknik har överlåtit sin beslutanderätt till utskott, ordförande och
@@ -916,40 +916,40 @@ för Teknik:
 
 -Beslut om ersättning till kommun enligt förordning (2022:1274) om
 producentansvar för förpackningar, NV-25-041778
-- Medborgardialog: Angående hundrastgård i Kolla i Kungsbacka kommun.
+\- Medborgardialog: Angående hundrastgård i Kolla i Kungsbacka kommun.
 
-- Beslut om ersättning till kommun enligt förordning (2022:1274) om
+\- Beslut om ersättning till kommun enligt förordning (2022:1274) om
 producentansvar för förpackningar, NV-25-041778
-- Protokollsutdrag Nämnden för Tekniks arbetsutskott 2025-08-25 § 41
+\- Protokollsutdrag Nämnden för Tekniks arbetsutskott 2025-08-25 § 41
 
-- Tjänsteskrivelse - Omfördelning av medel mellan projekt skatt 2025 - Omgång 3
-- Beslut om bifall - Prövotidsutredning och fastställande av slutliga villkor,
+\- Tjänsteskrivelse - Omfördelning av medel mellan projekt skatt 2025 - Omgång 3
+\- Beslut om bifall - Prövotidsutredning och fastställande av slutliga villkor,
 
 Kungsbacka 6:27, dnr 8606–2024
-- Tjänsteskrivelse - Intern kontroll 2026 för kommunstyrelsen
+\- Tjänsteskrivelse - Intern kontroll 2026 för kommunstyrelsen
 
-- Intern kontrollplan 2026 Kommunstyrelsen
-- Protokollsutdrag 2025-08-26 KS § 156 Intern kontrollplan 2026 för
+\- Intern kontrollplan 2026 Kommunstyrelsen
+\- Protokollsutdrag 2025-08-26 KS § 156 Intern kontrollplan 2026 för
 kommunstyrelsen
 
-- Medborgardialog: Kolla ”Parkstad”
-- Medborgardialog: Kolla Parkstad m.m
+\- Medborgardialog: Kolla ”Parkstad”
+\- Medborgardialog: Kolla Parkstad m.m
 
-- Uppsägning av avtal - Avsiktsförklaring avseende samverkan kring vatten- och
+\- Uppsägning av avtal - Avsiktsförklaring avseende samverkan kring vatten- och
 avloppsförsörjning Göteborg - Kungsbacka
-- Inkommen synpunkt 2025-08-27 - 228848
+\- Inkommen synpunkt 2025-08-27 - 228848
 
-- Protokollsutdrag 2025-08-12 KF § 154 Sammanträdesdagar 2026 för
+\- Protokollsutdrag 2025-08-12 KF § 154 Sammanträdesdagar 2026 för
 kommunfullmäktige
 
-- Meddelande om byggstart och ianspråktagande av mark - Väg 940, delen Rösan-
+\- Meddelande om byggstart och ianspråktagande av mark - Väg 940, delen Rösan-
 Forsbäck, TRV 2025/90256
-- Tjänsteskrivelse - VA-verksamhetsområde 2024
+\- Tjänsteskrivelse - VA-verksamhetsområde 2024
 
-- Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-05-20 § 162
-- Protokollsutdrag Kommunstyrelsen 2025-06-17 § 148
+\- Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-05-20 § 162
+\- Protokollsutdrag Kommunstyrelsen 2025-06-17 § 148
 
-- Protokollsutdrag Kommunfullmäktige 2025-08-12 § 152
+\- Protokollsutdrag Kommunfullmäktige 2025-08-12 § 152
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: CFE6419752C39E12BC560E5B339DFC3986E972F928
@@ -962,41 +962,41 @@ Nämnden för Teknik
 Datum
 2025-09-24
 
-- Medborgardialog: Gravplats på kommunens mark
-- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 115
+\- Medborgardialog: Gravplats på kommunens mark
+\- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 115
 
-- Uppföljning och prognos april 2025 för Kungsbacka kommun
-- Tjänsteskrivelse - Uppföljning och prognos april 2025 för Kungsbacka kommun
+\- Uppföljning och prognos april 2025 för Kungsbacka kommun
+\- Tjänsteskrivelse - Uppföljning och prognos april 2025 för Kungsbacka kommun
 
-- Skrivelse om klippning av ängen mellan Furugatan, Kollavägen och Västra
+\- Skrivelse om klippning av ängen mellan Furugatan, Kollavägen och Västra
 Villagatan
 
-- Anteckningar från dialog Grundläggande granskning 2025
-- Tjänsteskrivelse - Slutredovisning av gång- och cykelväg längs väg 934
+\- Anteckningar från dialog Grundläggande granskning 2025
+\- Tjänsteskrivelse - Slutredovisning av gång- och cykelväg längs väg 934
 Vallbyvägen - KS-2025-00196
 
-- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 119
-- Motion - Förbud mot användning av lustgas i berusningssyfte på offentliga platser -
+\- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 119
+\- Motion - Förbud mot användning av lustgas i berusningssyfte på offentliga platser -
 KS-2024-00740
 
-- Tjänsteskrivelse - förbud mot användning av lustgas - KS-2024-00740
-- Lokala ordningsföreskrifter för Kungsbacka kommun, antagna av
+\- Tjänsteskrivelse - förbud mot användning av lustgas - KS-2024-00740
+\- Lokala ordningsföreskrifter för Kungsbacka kommun, antagna av
 kommunfullmäktige 2025-06-16, § 121
 
-- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 121 - KS-2024-00740
-- Redovisning av icke färdigberedda motioner (1, 2025) - KS-2025-00049
+\- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 121 - KS-2024-00740
+\- Redovisning av icke färdigberedda motioner (1, 2025) - KS-2025-00049
 
-- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner nr 1 2025 - KS-
+\- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner nr 1 2025 - KS-
 2025-00049
 
-- Beslut - 2025-06-16, § 116 - Redovisning av icke färdigberedda motioner nr 1 2025
-- KS-2025-00049
-- Tjänsteskrivelse - § 114 - KS-2024-00717
+\- Beslut - 2025-06-16, § 116 - Redovisning av icke färdigberedda motioner nr 1 2025
+\- KS-2025-00049
+\- Tjänsteskrivelse - § 114 - KS-2024-00717
 
-- Kommunbudget 2026, plan 2027–2028, § 114, KS-2024-00717
-- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 114
+\- Kommunbudget 2026, plan 2027–2028, § 114, KS-2024-00717
+\- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 114
 
-- Uppföljning direktiv om innovation 2025, 2025-06-25
+\- Uppföljning direktiv om innovation 2025, 2025-06-25
 
 Beslutsgång
 
@@ -1025,10 +1025,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Nämndens planeringsdag den 22 oktober
--  Information Tekniks verksamhetssommar
+\-  Nämndens planeringsdag den 22 oktober
+\-  Information Tekniks verksamhetssommar
 
--  Skrämplockarevent den 9 oktober
+\-  Skrämplockarevent den 9 oktober
 
 Beslutsgång
 

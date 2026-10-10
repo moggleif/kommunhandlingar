@@ -730,10 +730,10 @@ Byggnadsnämnden
 Datum
 2025-01-16
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -751,13 +751,13 @@ planläggning är en förutsättning för att kunna bevilja ansökan om bygglov.
 Enligt 4 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes
 lämplighet för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns
 utformning för:
-1.       en ny sammanhållen bebyggelse … om det behövs …
+1\.       en ny sammanhållen bebyggelse … om det behövs …
 
-2.       en bebyggelse som ska förändras eller bevaras, om regleringen
+2\.       en bebyggelse som ska förändras eller bevaras, om regleringen
 behöver ske ….
 
-3.       (…)
-4.       ett nytt byggnadsverk som kräver bygglov om…
+3\.       (…)
+4\.       ett nytt byggnadsverk som kräver bygglov om…
 
 a)       byggnadsverket eller dess användning får betydande inverkan på
 omgivningen eller om det råder stor efterfrågan på området för bebyggande,
@@ -1123,7 +1123,7 @@ Ansökan som registrerades 2023-08-31 avser nybyggnad av verksamhet i form av en
 
 verkstadslokal med en byggnadsarea om 450 m2.
 Bygglov gavs 2024-02-22, BN § 42 och startbesked beviljades 2024-10-07, D 2024-
-002559.
+002559\.
 
 Ändrad ansökan inkom 2024-11-25. Ändringen innebär utökad byggnadsarea med
 13,6 m2 och byggnaden får i det nya förslaget en byggnadsarea om 463,6 m2.
@@ -1364,7 +1364,7 @@ byggnader för industri.
 
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
-- Deltaljplanen anger J som syfte. Gymverksamhet ryms inte inom industriändamål
+\- Deltaljplanen anger J som syfte. Gymverksamhet ryms inte inom industriändamål
 
 Remisser
 Räddningstjänsten har fått möjligheter att lämna synpunkter gällande riskanalys. Av

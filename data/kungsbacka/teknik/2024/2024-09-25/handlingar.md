@@ -39,9 +39,9 @@ Förslag till beslut i nämnden för Teknik
 Nämnden för Teknik godkänner delårsrapport 2 och prognos för 2024 och vill uppmärksamma
 Kommunstyrelsen på att:
 
--  prognosen för helåret avseende VA-verksamheten visar på ett underskott på 9,7 miljoner
+\-  prognosen för helåret avseende VA-verksamheten visar på ett underskott på 9,7 miljoner
 kronor jämfört med budget.
--  nämnden planerar att nyttja medel från sin fond med motsvarande 11,1 miljoner kronor under
+\-  nämnden planerar att nyttja medel från sin fond med motsvarande 11,1 miljoner kronor under
 2024 för att täcka underskottet.
 
 Nämnden för Teknik förklarar paragrafen omedelbart justerad.
@@ -254,10 +254,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -324,11 +324,11 @@ och utomhusbio funnits på agendan i år.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -401,8 +401,8 @@ Delårsrapport Augusti 2024
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -457,8 +457,8 @@ Delårsrapport Augusti 2024
 
 Fokusområden
 
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -476,12 +476,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1392,10 +1392,10 @@ Fyra körfält längs Varlavägen:
 Under våren 2024 beslutade nämnden för Teknik att skjuta projektet med byggnation av fyra körfält längs med
 Varlavägen mellan Tölö tvärled och Arendalsleden på framtiden. Vissa mindre delar av projektet genomföras i
 närtid efter beslut i nämnden för Teknik, vilket innebär att:
-* upprustning av busshållplatser längs sträckan pågår
-* rensning och upprustning av Hallabäcken pågår, detta i syfte att förbättra flödet i trumman under Varlavägen.
+\* upprustning av busshållplatser längs sträckan pågår
+\* rensning och upprustning av Hallabäcken pågår, detta i syfte att förbättra flödet i trumman under Varlavägen.
 Ytterligare åtgärder kopplade till trumman är under planering.
-* trafikanalys pågår gällande förlängning av svängfältet vid cirkulationsplatsen i norr.
+\* trafikanalys pågår gällande förlängning av svängfältet vid cirkulationsplatsen i norr.
 Gång- och cykelbro över järnvägen vid Inlag:
 Nämnden för Teknik beslutade under våren 2024 att ändra inriktning på projektet. Från att tidigare ha inneburit
 byggnation av en separat gång- och cykelbro till att bredda befintlig bro till att inrymma så bred gång- och
@@ -1448,7 +1448,7 @@ Investeringar i avloppsreningsverket Ölmanäs under året ligger i nivå med bu
 
 Inom området VA ledningsnät har planerade reinvesteringar inte hunnits med p g a resursbrist inom Teknik,
 budgetavvikelse ca 20 miljoner kronor.
-- Större investeringar under året framgår ovan under vår rapportering av större projekt >30 miljoner till
+\- Större investeringar under året framgår ovan under vår rapportering av större projekt >30 miljoner till
 Kommunstyrelsen.
 
 5.5.3 Investeringsbudget Avfall & Återvinning
@@ -1580,7 +1580,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -1591,7 +1591,7 @@ avfallsorganisation.
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt<br>fett, per hämtning | 1000 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 35 -->
 
@@ -1655,7 +1655,7 @@ Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 decembe
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 
-|  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet*<br>* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
+|  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet\*<br>\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
 | --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler.<br>Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per |
 
@@ -1845,8 +1845,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
@@ -1856,14 +1856,14 @@ Grundavgift per restavfallskärl, i kronor per år
 
 [Tabell 49-2](handlingar.tabeller/49-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 50 -->
 
@@ -1874,8 +1874,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
@@ -1885,14 +1885,14 @@ Grundavgift per restavfallskärl, i kronor per år
 
 [Tabell 50-2](handlingar.tabeller/50-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 51 -->
 
@@ -1957,7 +1957,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
 behandlingskostnad ingår i avgiften. Till komposterbart trädgårds- och parkavfall räknas
@@ -1979,7 +1979,7 @@ Avgift för hämtning av trädgårds- och parkavfall i container, i kronor per h
 
 [Tabell 52-2](handlingar.tabeller/52-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -2309,7 +2309,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
 behandlingskostnad ingår i avgiften. Till komposterbart trädgårds- och parkavfall räknas
@@ -2332,7 +2332,7 @@ Avgift för hämtning av trädgårds- och parkavfall i container, i kronor per h
 
 [Tabell 60-2](handlingar.tabeller/60-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -2462,7 +2462,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -2489,7 +2489,7 @@ Grundavgift container
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i<br>container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank<br>(ABP-avfall, kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett,<br>per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning \* | 7000 |
 
 [Tabell 63-2](handlingar.tabeller/63-2.csv)
 
@@ -2501,9 +2501,9 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
@@ -2517,8 +2517,8 @@ Behandlingskostnad per ton
 | Gips | 2 500 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |
 | Metall | 350 |
-| Mineral* | 2 882 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |
+| Mineral\* | 2 882 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |
 | Planglas | 2 619 |
 | Plast (inkl. eftersortering) | 2 700 |
 | Tryckimpregnerat trä/slipers | 2 330 |
@@ -2535,8 +2535,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 Avgift för exempelvis provtagning, extra hyra av container, felsortering, utkörning av
@@ -2562,8 +2562,8 @@ Behandlingsavgiften utgår då ifrån omklassningen.
 | Gips | 1 000 |
 | Kablar (ej farligt avfall) | 1 000 |
 | Metall | 175 |
-| Mineral* | 2 885 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |
+| Mineral\* | 2 885 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |
 | Planglas | 1 500 |
 | Plast | 1 000 |
 | Tryckimpregnerat trä/slipers | 1 165 |
@@ -2812,7 +2812,7 @@ behandlingskostnader föreslås till år 2025. Avfallsindex ligger till grund f�
 Hälsningar
 Sandra Carlström
 Miljöingenjör
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Avfall & Återvinning
 
@@ -2858,9 +2858,9 @@ Sammanfattning av ärendet
 
 I ärendets förslag till beslut inryms tre separata ärenden som lyfts till nämnden i ett samlingsärende.
 De tre ärendena är:
--  Avfallstaxan för 2025
--  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg- och rivningsavfall
--  Beslut om införande av ett auktorisationssystem för hantering av kommunalt avfall
+\-  Avfallstaxan för 2025
+\-  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg- och rivningsavfall
+\-  Beslut om införande av ett auktorisationssystem för hantering av kommunalt avfall
 
 Nämnden för Tekniks beslut om Avfallstaxa 2025 från nämnden för Tekniks sammanträde i april 2024
 har reviderats på grund av ny lagstiftning. Avfallstaxa 2025, daterad 2024-09-03 med tillägg avseende
@@ -2916,7 +2916,7 @@ under kommunalt ansvar från livsmedelsbutiker, övrig detaljhandel samt från r
 Detta innebär att endast kommunen eller den kommunen anlitat eller auktoriserat får hämta avfallet.
 
 En stor del av det livsmedelsavfall som kommunen ansvarar för klassificeras som ABP-avfall kategori
-3. Detta avfall omfattas av lagstiftningen om animaliska biprodukter och särskilda bestämmelser finns
+3\. Detta avfall omfattas av lagstiftningen om animaliska biprodukter och särskilda bestämmelser finns
 kring hantering. Regelverket reglerar såväl insamling och transport som behandling av avfallet.
 
 <!-- sida 75 -->
@@ -3337,13 +3337,13 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 inom kommunen att besluta istället, s.k. vidaredelegering (kommunallagen 6 kap 37
 §). Beslut om delegering ska då ske i två steg;
 
-1) Nämndens beslut om delegering till förvaltningschef,
+1\) Nämndens beslut om delegering till förvaltningschef,
 
 1 Nämnden för Teknik benämns hädanefter nämnden.
 
 <!-- sida 86 -->
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 1.2 Syftet med delegering
 
@@ -3457,11 +3457,11 @@ grupp av ärenden. En nämnd får även uppdra åt en anställd att besluta enli
 Gällande möjligheten för delegering till en automatiserad beslutsfunktion har
 beslutanderätten ytterligare begränsats. En nämnd får inte delegera
 beslutanderätten i 4 typer av ärenden enligt 6 kap. 38 §:
-1. ärenden där beslut överklagas enligt bestämmelserna i 13 kap.,
+1\. ärenden där beslut överklagas enligt bestämmelserna i 13 kap.,
 
-2. ärenden där beslut enligt lag eller annan författning inte får överklagas,
-3. ärenden om upphandling, eller
-4. ärenden om auktorisations- eller valfrihetssystem.
+2\. ärenden där beslut enligt lag eller annan författning inte får överklagas,
+3\. ärenden om upphandling, eller
+4\. ärenden om auktorisations- eller valfrihetssystem.
 Lag (2023:708).
 Den första typ av ärende beskrivet i 6 kap. 38 §. om ytterligare begränsningar för
 delegering till automatiska beslutsfunktioner, får inte delegeras till en automatisk
@@ -3526,14 +3526,14 @@ Ersättare för förvaltningschef: Vid förfall för förvaltningschef inträder
 tjänsteförrättande förvaltningschef om sådan är utsedd och om inte annat anges.
 
 Vid förfall för övriga delegater:
-1) annan delegat om det finns flera angivna. Vem som tar över
+1\) annan delegat om det finns flera angivna. Vem som tar över
 
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
 delegationen, det vill säga förvaltningschefen vid vidaredelegering eller nämnden.
@@ -7360,10 +7360,10 @@ arbetsmarknadens förfogande. Den som har godtagbara skäl har rätt till
 försörjningsstöd även om den inte står till arbetsmarknadens förfogande.17
 Här består bestämmelsen inte av enkla kriterier, utan av bedömningar av om:
 
--  den enskilde själv kan tillgodose sina behov, och
--  den enskilde står till arbetsmarknadens förfogande, eller
+\-  den enskilde själv kan tillgodose sina behov, och
+\-  den enskilde står till arbetsmarknadens förfogande, eller
 
--  det finns godtagbara skäl att inte stå till arbetsmarknadens förfogande.
+\-  det finns godtagbara skäl att inte stå till arbetsmarknadens förfogande.
 Det finns dock ett fastställt sätt att beräkna om den enskilde kan tillgodose sina behov, nämligen
 
 genom att summera utgifter för hyra, el, kollektivtrafik m.m. och normen för försörjningsstöd – som
@@ -7373,10 +7373,10 @@ bedömningen går alltså att omvandla till en logik för en programvara.
 Det finns också ett antal kriterier som man brukar utgå ifrån när man bedömer om den enskilde
 står till arbetsmarknadens förfogande, till exempel att personen:
 
--  är inskriven på Arbetsförmedlingen och
+\-  är inskriven på Arbetsförmedlingen och
 
--  har sökt ett visst antal arbeten per månad, eller
--  deltar i och är närvarande på en kompetenshöjande insats
+\-  har sökt ett visst antal arbeten per månad, eller
+\-  deltar i och är närvarande på en kompetenshöjande insats
 
 Här finns det alltså kriterier som man kan bryta ner bedömningen till och på så sätt automatisera
 den. På samma sätt kan det finnas vissa typiska godtagbara skäl att inte stå till arbetsmarknadens
@@ -7671,11 +7671,11 @@ Kommunikation
 obehövligt, underrätta den som är part om allt material av betydelse för beslutet och ge
 parten tillfälle att inom en bestämd tid yttra sig över materialet. Myndigheten får dock avstå
 från sådan kommunikation, om
-1. ärendet gäller anställning av någon och det inte är fråga om prövning i högre instans
+1\. ärendet gäller anställning av någon och det inte är fråga om prövning i högre instans
 
 efter överklagande,
-2. det kan befaras att det annars skulle bli avsevärt svårare att genomföra beslutet, eller
-3. ett väsentligt allmänt eller enskilt intresse kräver att beslutet meddelas omedelbart.
+2\. det kan befaras att det annars skulle bli avsevärt svårare att genomföra beslutet, eller
+3\. ett väsentligt allmänt eller enskilt intresse kräver att beslutet meddelas omedelbart.
 
 Myndigheten bestämmer hur underrättelse ska ske. Underrättelse får ske genom
 delgivning.
@@ -7700,12 +7700,12 @@ omröstning begärs.
 Dokumentation av beslut
 
 31 § För varje skriftligt beslut ska det finnas en handling som visar
-1. dagen för beslutet,
-2. vad beslutet innehåller,
-3. vem eller vilka som har fattat beslutet,
+1\. dagen för beslutet,
+2\. vad beslutet innehåller,
+3\. vem eller vilka som har fattat beslutet,
 
-4. vem eller vilka som har varit föredragande, och
-5. vem eller vilka som har medverkat vid den slutliga handläggningen utan att delta i
+4\. vem eller vilka som har varit föredragande, och
+5\. vem eller vilka som har medverkat vid den slutliga handläggningen utan att delta i
 avgörandet.
 
 Motivering av beslut
@@ -7720,11 +7720,11 @@ motivering ska innehålla uppgifter om vilka föreskrifter som har tillämpats o
 omständigheter som har varit avgörande för myndighetens ställningstagande.
 
 En motivering får helt eller delvis utelämnas, om
-1. beslutet gäller anställning av någon,
-2. ett väsentligt allmänt eller enskilt intresse kräver att beslutet meddelas omedelbart,
-3. det är nödvändigt med hänsyn till rikets säkerhet, skyddet för enskildas personliga
+1\. beslutet gäller anställning av någon,
+2\. ett väsentligt allmänt eller enskilt intresse kräver att beslutet meddelas omedelbart,
+3\. det är nödvändigt med hänsyn till rikets säkerhet, skyddet för enskildas personliga
 eller ekonomiska förhållanden eller något annat jämförbart förhållande, eller
-4. beslutet gäller meddelande av föreskrifter som avses i 8 kap. regeringsformen.
+4\. beslutet gäller meddelande av föreskrifter som avses i 8 kap. regeringsformen.
 
 Om motiveringen har utelämnats enligt andra stycket 1, 2 eller 3 ska myndigheten om
 möjligt ge en motivering i efterhand, om någon enskild begär det och det behövs för att
@@ -7760,26 +7760,26 @@ ersättare eller en automatiserad beslutsfunktion i ett visst ärende eller en v
 En nämnd får även uppdra åt en anställd att besluta enligt 7 kap. 5-8 §§.
 
 6 kap. 38 § Beslutanderätten får inte delegeras när det gäller
-1. ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet,
-2. framställningar eller yttranden till fullmäktige liksom yttranden med anledning av att
+1\. ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet,
+2\. framställningar eller yttranden till fullmäktige liksom yttranden med anledning av att
 beslut av nämnden i dess helhet eller av fullmäktige har överklagats,
-3. ärenden som rör myndighetsutövning mot enskilda, om de är av principiell
+3\. ärenden som rör myndighetsutövning mot enskilda, om de är av principiell
 beskaffenhet eller annars av större vikt,
 
 Kungsbacka kommun          Automatisera lagligt                19
 
 <!-- sida 195 -->
 
-4. ärenden som väckts genom medborgarförslag och som lämnats över till nämnden,
+4\. ärenden som väckts genom medborgarförslag och som lämnats över till nämnden,
 eller
-5. ärenden som enligt lag eller annan författning inte får delegeras.
+5\. ärenden som enligt lag eller annan författning inte får delegeras.
 
 Beslutanderätten får inte heller delegeras till en automatiserad beslutsfunktion när det
 gäller
-1. ärenden där beslut överklagas enligt bestämmelserna i 13 kap.,
-2. ärenden där beslut enligt lag eller annan författning inte får överklagas,
-3. ärenden om upphandling, eller
-4. ärenden om valfrihetssystem.
+1\. ärenden där beslut överklagas enligt bestämmelserna i 13 kap.,
+2\. ärenden där beslut enligt lag eller annan författning inte får överklagas,
+3\. ärenden om upphandling, eller
+4\. ärenden om valfrihetssystem.
 
 Kungsbacka kommun          Automatisera lagligt                20
 
@@ -7899,7 +7899,7 @@ Projektet kommer inte förbruka hela budgeten p.g.a färre fordonsinköp än pla
 
 Förvaltningens förslag
 Förvaltningen för Teknik bedömer möjligheterna att hålla en hög investeringstakt som stora även
-2024. Genom att omfördela medel mellan underportföljer respektive projekttyper möjliggörs att
+2024\. Genom att omfördela medel mellan underportföljer respektive projekttyper möjliggörs att
 fortsätta investera och reinvestera i våra befintliga anläggningar.
 
 Att omplanera medel från portföljerna cykelkommun, kommunens vägnät, attraktiva staden samt
@@ -7984,27 +7984,27 @@ arbetsutskottet är Onsala-rummet, samtliga sammanträden äger rum klockan 08:0
 Nämnden för Teknik sammanträder klockan 17:00-21:00 på onsdagar.
 Nämnden för Tekniks arbetsutskott sammanträder följande datum 2025:
 
--  3 februari
--  3 mars
+\-  3 februari
+\-  3 mars
 
--  7 april
--  5 maj
+\-  7 april
+\-  5 maj
 
--  2 juni
--  25 augusti
+\-  2 juni
+\-  25 augusti
 
--  6 oktober
+\-  6 oktober
 
--  3 november
--  1 december
+\-  3 november
+\-  1 december
 
 Nämnden för Teknik sammanträder följande datum 2025:
--  22 januari
+\-  22 januari
 
--  19 februari
--  19 mars
+\-  19 februari
+\-  19 mars
 
--  16 april
+\-  16 april
 
 1 (2)
 Teknik Stöd & Styrning                                    Kungsbacka kommun
@@ -8020,15 +8020,15 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  14 maj
+\-  14 maj
 
--  18 juni
+\-  18 juni
 
--  24 september
--  22 oktober
+\-  24 september
+\-  22 oktober
 
--  19 november
--  17 december
+\-  19 november
+\-  17 december
 
 Beslutsunderlag
 Förvaltningen för Tekniks tjänsteskrivelse, 2024-09-04
@@ -8247,8 +8247,8 @@ andra växtdelar.
 Den som behandlar bioavfall ska I 15 kap. 10 § miljöbalken finns
 vid val av behandlingsmetod bestämmelser om val av
 prioritera           behandlingsmetod när en kommun
-1. materialåtervinning, eller eller någon annan yrkesmässigt
-2. annan behandling än samlar in och behandlar bioavfall.
+1\. materialåtervinning, eller eller någon annan yrkesmässigt
+2\. annan behandling än samlar in och behandlar bioavfall.
 materialåtervinning som samman-
 taget ger likvärdiga eller bättre
 miljöeffekter.
@@ -8260,7 +8260,7 @@ förhindrar spridning av dessa arter.
 Fastighetsinnehavaren eller den
 som har nyttjanderätt till en
 fastighet ska
-1. kompostera trädgårds- och
+1\. kompostera trädgårds- och
 parkavfall som har producerats på
 fastigheten, eller
 
@@ -8271,7 +8271,7 @@ direktiv (EU) 2018/851.
 
 <!-- sida 211 -->
 
-2. lämna avfallet på en plats där
+2\. lämna avfallet på en plats där
 avfallet hämtas eller tas emot av
 kommunen.
 Avfallet får i stället eldas på
@@ -8297,13 +8297,13 @@ föreskrifter meddelade med stöd av
 13 a §3
 Kommunen  får  meddela Kommunen får meddela
 föreskrifter om      föreskrifter om att trädgårds- och
-1. att biologiskt nedbrytbart parkavfall som avses i 1 § första
+1\. att biologiskt nedbrytbart parkavfall som avses i 1 § första
 trädgårds- eller parkavfall som stycket 2 får hanteras tillsammans
 avses i 1 § 2 får hanteras med biologiskt nedbrytbart
 tillsammans med biologiskt livsmedels- eller köksavfall.
 nedbrytbart livsmedels- eller
 köksavfall, och
-2. undantag från kraven på val
+2\. undantag från kraven på val
 av behandlingsmetod i 1 c § första
 stycket.
 Sådana föreskrifter får endast avse avfall där hanteringen annars inte är
@@ -8364,23 +8364,23 @@ Nuvarande lydelse    Föreslagen lydelse
 40 §5
 Om det behövs för att hindra att olägenheter för människors hälsa
 uppkommer i en kommun, får kommunen meddela föreskrifter om
-1. tomgångskörning med motordrivna fordon,
-2. spridande av naturligt gödsel, slam och annan orenlighet inom område
+1\. tomgångskörning med motordrivna fordon,
+2\. spridande av naturligt gödsel, slam och annan orenlighet inom område
 med detaljplan eller intill sådant område,
-3. inrättande av annat slag av toalett än vattentoalett,
-4. hantering av mjölk i utrymme för mjölkprodukter, på vilken
+3\. inrättande av annat slag av toalett än vattentoalett,
+4\. hantering av mjölk i utrymme för mjölkprodukter, på vilken
 livsmedelslagen (2006:804) inte tillämpas,
-5. skydd för ytvattentäkter och enskilda grundvattentäkter,
-6. tillfälligt förbud mot småskalig eldning med vissa fasta bränslen inom
+5\. skydd för ytvattentäkter och enskilda grundvattentäkter,
+6\. tillfälligt förbud mot småskalig eldning med vissa fasta bränslen inom
 särskilt angivna områden,
-7. skötsel och tillsyn av eldningsanordning för vissa fasta bränslen,
-8. tillfälligt förbud mot eldning
+7\. skötsel och tillsyn av eldningsanordning för vissa fasta bränslen,
+8\. tillfälligt förbud mot eldning
 av löv, kvistar och annat
 trädgårdsavfall inom planlagt
 område,
-9. bränning av halm på åkermark, 8. bränning av halm på åkermark,
+9\. bränning av halm på åkermark, 8. bränning av halm på åkermark,
 och                  och
-10. luftvärmepumpar. 9. luftvärmepumpar.
+10\. luftvärmepumpar. 9. luftvärmepumpar.
 Om det i en kommun förekommer camping i betydande omfattning, får
 kommunen meddela föreskrifter för eller förbjuda sådan camping inom
 särskilt utsatta områden om det behövs för att förhindra att olägenheter för

@@ -336,10 +336,10 @@ yrkesprogram i gymnasieskolan skall erbjudas minst 50 timmar.
 nationellt yrkesprogram i gymnasieskolan skall erbjudas minst 75 timmar lovskola.
 
 • Ämnen en huvudman måste erbjuda är:
-- svenska eller svenska som andraspråk.
+\- svenska eller svenska som andraspråk.
 
-- engelska
-- matematik
+\- engelska
+\- matematik
 
 Det finns möjlighet att ansöka om frivilligt anordnad lovskola för alla årskurser i
 grundskolan, med ett statsbidrag på 300 kr per elev och dag.

@@ -372,14 +372,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -413,15 +413,15 @@ lämnade svar på initiativet i byggnadsnämnden 18 april 2024, där nämnden be
 ärendet.
 Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010:900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 
@@ -462,15 +462,15 @@ insparade kostnader, kortare handläggningstider och ökat kundbetyg vad gäller
 Alliansen har lämnat in ett initiativ med tre specifika frågor att utreda för att ytterligare förbättra
 näringslivsklimatet i Kungsbacka:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010: 900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 
@@ -608,17 +608,17 @@ rutiner och bedömningsstöd där ställningstaganden dokumenteras för att alla
 behandling som det går.
 
 Bygglovsenheten har med andra ord en struktur och stöd för att säkerställa likabehandling genom att:
--  alla handläggare tillhör en mindre grupp, en så kallad ”kvartett”, där de först söker stöd eller
+\-  alla handläggare tillhör en mindre grupp, en så kallad ”kvartett”, där de först söker stöd eller
 stämmer av frågor.
--  seniora handläggare en gång i veckan finns till hands i mer komplexa ärenden.
--  jurist finns tillgänglig att rådfråga.
--  jurist sammanställer och analyserar alla beslut från överinstanser för att återinföra kunskapen
+\-  seniora handläggare en gång i veckan finns till hands i mer komplexa ärenden.
+\-  jurist finns tillgänglig att rådfråga.
+\-  jurist sammanställer och analyserar alla beslut från överinstanser för att återinföra kunskapen
 till tjänstepersoner och nämnden.
--  hålla samsynsmöten en gång i månaden för att sprida kunskap och ställningstaganden.
--  dokumentera rutiner och bedömningsstöd.
--  arbeta med intern kompetensutbildning, till exempel skuggning av kollegor eller föredrag av
+\-  hålla samsynsmöten en gång i månaden för att sprida kunskap och ställningstaganden.
+\-  dokumentera rutiner och bedömningsstöd.
+\-  arbeta med intern kompetensutbildning, till exempel skuggning av kollegor eller föredrag av
 specialister inom vissa områden.
--  personer som har varit på utbildning sprider vidare kunskap till hela gruppen.
+\-  personer som har varit på utbildning sprider vidare kunskap till hela gruppen.
 
 Förvaltningen arbetar kontinuerligt med att utveckla arbetssätt och rutiner för att beakta allas likhet
 inför lagen samt iaktta saklighet och opartiskhet i vår myndighetsutövning. Det som beskrivs är
@@ -681,15 +681,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden.
 Byggnadsnämnden beslutade den 14 december 2023 att remittera ärendet till
 förvaltningen för beredning. Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010: 900 samt eventuellt annan relevant lagstiftning, på nya
 och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 i kommunen och företagare, oavsett handläggare.
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
@@ -764,15 +764,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden.
 Byggnadsnämnden beslutade 14 december 2023 att remittera ärendet till
 förvaltningen för beredning. Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010: 900 samt eventuellt annan relevant lagstiftning, på nya
 och uppdaterade Detaljplaner.
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 
 i kommunen och företagare, oavsett handläggare.
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
 

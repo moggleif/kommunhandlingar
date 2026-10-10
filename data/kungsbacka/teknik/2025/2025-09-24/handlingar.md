@@ -289,7 +289,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 9 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -342,7 +342,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (15)
 
 <!-- sida 10 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -469,7 +469,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -481,7 +481,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -498,7 +498,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 13 -->
 
@@ -573,7 +573,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -602,7 +602,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 15 -->
 
@@ -661,7 +661,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -705,7 +705,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 16-2](handlingar.tabeller/16-2.csv)
@@ -776,7 +776,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -870,7 +870,7 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                700 kr
 
-*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
+\*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
 Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
@@ -911,7 +911,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
 | b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
 | --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten* | 5 kr |
+| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
 <!-- sida 21 -->
 
@@ -989,7 +989,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -997,7 +997,7 @@ Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -1027,7 +1027,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 24 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -1080,7 +1080,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (15)
 
 <!-- sida 25 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -1207,7 +1207,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -1219,7 +1219,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -1236,7 +1236,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 28 -->
 
@@ -1311,7 +1311,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -1340,7 +1340,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 30 -->
 
@@ -1399,7 +1399,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -1443,7 +1443,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 31-2](handlingar.tabeller/31-2.csv)
@@ -1514,7 +1514,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -1593,7 +1593,7 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                700 kr
 
-*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
+\*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
 Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
@@ -1604,7 +1604,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 | b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
 | --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten* | 5 kr |
+| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
 <!-- sida 35 -->
 
@@ -1719,7 +1719,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -1727,7 +1727,7 @@ Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -1878,10 +1878,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har nått målet
 
@@ -2031,11 +2031,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -2115,8 +2115,8 @@ Se ovan där beskrivningen av detta mål lagts under rubriken som hör till Komm
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -2179,8 +2179,8 @@ ställa ut har inneburit att personella resurser konverterats från administrati
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har nått målet
@@ -2211,12 +2211,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har nått målet
 
@@ -3213,7 +3213,7 @@ avtal.
 En vakant tjänst har inte tillsatts i år, och bredbandsverksamheten har initierat en översyn av rollerna i
 organisationen i syfte att säkerställa en effektiv bemanning.
 Viss rondering har avslutats, vilket motsvarar 0,2 mkr för 2025 och 0,6 mkr lägre kostnader på årsbasis inför
-2026.
+2026\.
 
 Tre miljoner av underskottet är av engångskaraktär, då det härrör tillbaka till bokföringsfel som uppstått tidigare
 år. Två miljoner är av löpande karaktär och behöver hanteras i framtida kostnader och intäkter.
@@ -5980,7 +5980,7 @@ Sverige 2) lämna förslag på hur människohandeln kan förebyggas
 
 och bekämpas. I detta avsnitt redovisas viss statistik över misstänkta
 människohandelsbrott från Polismyndighetens rapport för 2024–
-2025. Rapporterna avser uppgifter två år tillbaka.
+2025\. Rapporterna avser uppgifter två år tillbaka.
 Av lägesrapporten för 2024 framgår att det 2022 anmäldes fyra
 misstänkta människohandelsbrott i tiggeri för 2022. Det var en
 ökning jämfört med lägesrapporten 2023 (som avser 2021) då inga
@@ -6106,7 +6106,7 @@ ventionen om politiska och mänskliga rättigheter 1966, Konven-
 tionen om avskaffande av all slags diskriminering av kvinnor 1979,
 Konventionen om barnets rättigheter från 19891 samt Konventio-
 nen om rättigheter för personer med funktionsnedsättning från
-2006. I Palermoprotokollet som är FN:s protokoll om förebyg-
+2006\. I Palermoprotokollet som är FN:s protokoll om förebyg-
 gande, bekämpande och bestraffande av handel med människor
 finns åtaganden särskilt för kvinnor och barn. Palermoprotokollet
 utgör grunden för människohandelsdirektivet.2 Detta behandlas i
@@ -6754,7 +6754,7 @@ mening. För utredningens del är bestämmelserna i detta kapitel av
 störst intresse.
 Ordningslagen ersatte vid ikraftträdande 1994 den allmänna ord-
 ningsstadgan och lagen om allmänna sammankomster, båda från
-1956. Bakgrunden var att ordningsstadgan ansågs föråldrad och för
+1956\. Bakgrunden var att ordningsstadgan ansågs föråldrad och för
 detaljerad. De tidigare författningarna hade skapat tvång och var
 svåra att följa. Ordningslagen skulle vara enklare utformad och
 enklare att tillämpa.
@@ -7950,13 +7950,13 @@ derna, Ryssland, Ryssland, Nederländerna, Ryska federationen,
 Portugal, Ryssland, Nederländerna, Poland, Poland, Nederländerna
 Marino, Serbien, Slovakien, Slovenien, Spanien, Sverige, Turkiet,
 Ukraina och Storbritannien).
-20. Den visar att tiggeri inte är förbjudet i nio av de trettioåtta
+20\. Den visar att tiggeri inte är förbjudet i nio av de trettioåtta
 medlemsstaterna (Albanien, Andorra, Finland, Georgien, Grekland,
 Moldavien, Portugal, Slovakien och Ukraina).
-21. I de övriga tjugonio undersökta medlemsstaterna är tiggeri
+21\. I de övriga tjugonio undersökta medlemsstaterna är tiggeri
 förbjudet eller begränsat i mycket olika former och sätt, vare sig
 det är på nationell eller enbart lokal nivå.
-22. I arton av de undersökta medlemsstaterna är tiggeri förbju-
+22\. I arton av de undersökta medlemsstaterna är tiggeri förbju-
 det på nationell nivå (Azerbajdzjan, Cypern, Kroatien, Estland,
 Frankrike, Ungern, Irland, Italien, Liechtenstein, Luxemburg,
 Montenegro, Polen, Rumänien, San Marino, Serbien, Slovenien,
@@ -7981,13 +7981,13 @@ Ungern, Montenegro, Turkiet och Storbritannien [England och
 Wales]) verkar mindre nyanserade förbud, som gäller mer generellt
 
 för tiggeri, vara på plats.
-23. I elva av de undersökta medlemsstaterna är tiggeri endast
+23\. I elva av de undersökta medlemsstaterna är tiggeri endast
 förbjudet på lokal nivå (Österrike, Belgien, Bosnien-Hercegovina,
 Tjeckien, Tyskland, Lettland, Litauen, Nederländerna, Ryska fede-
 rationen, Spanien och Sverige). Det finns också betydande skillna-
 der i dessa staters lagstiftning när det gäller förbudets art och om-
 fattning.
-24. När det gäller de påföljder som gäller i Europarådets med-
+24\. När det gäller de påföljder som gäller i Europarådets med-
 lemsstater vid överträdelse av tiggeriförbudet på nationell eller
 lokal nivå, varierar deras art och svårighetsgrad avsevärt. När det
 gäller sanktionernas karaktär karakteriseras tiggeri i de flesta av de
@@ -8000,7 +8000,7 @@ italienska strafflagen). I de stater där förbudet föreskrivs på lokal
 nivå, antas det vanligtvis genom en kommunal stadga eller genom
 dekret och dess överträdelse medför därför en administrativ påföljd
 (till exempel i Ryska federationen, i Tjeckien eller i Sverige).
-25. När det gäller hur allvarliga de sanktioner som tillämpas i
+25\. När det gäller hur allvarliga de sanktioner som tillämpas i
 medlemsstaterna varierar beroende på olika faktorer och är ibland
 kombinerade. De får inte resultera i något annat än en varning
 och/eller böter av varierande belopp (till exempel i Belgien, Tjeckien,
@@ -8014,7 +8014,7 @@ former föreskrivas. Påföljden kan till exempel bestå i samhälls-
 arbete (till exempel i Ungern), konfiskering av mottagna allmosor
 (till exempel i Turkiet) eller en inskränkning av friheten (till exem-
 pel i Polen).
-26. När det gäller statistiken om hur ofta tiggeriförseelser åtalas
+26\. När det gäller statistiken om hur ofta tiggeriförseelser åtalas
 varierar praxis avsevärt mellan Europarådets medlemsstater.”86
 
 86 The European Court of Human Rights as referred in the judgment Lacatus v. Switzerland
@@ -8242,7 +8242,7 @@ Det är inte att anses som ett generellt förbud. Anledningen är att
 det finns ett varningssystem som innebär att polisen ska informera
 
 92 Förslag till ändring av strafflagen (LFF2017-06-02 nr 215) Anmärkningar till lagförslaget.
-1. Inledning, och möte med straffrättsenheten 25-04-28.
+1\. Inledning, och möte med straffrättsenheten 25-04-28.
 93 Se not 91 ovan.
 
 107
@@ -8570,7 +8570,7 @@ infört en reglering i form av förbud mot tiggeri i de lokala ordnings-
 föreskrifterna. Föreskrifterna redovisas med de lydelser som respek-
 tive kommun har valt.
 
-1. Staffanstorps kommun
+1\. Staffanstorps kommun
 
 Insamling av pengar 13 §.
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8580,9 +8580,9 @@ samband med framförande av gatumusik krävs inte tillstånd. Passiv
 insamling av pengar (tiggeri) får ej ske på områden som framgår av
 bilaga A.
 
-2. Vellinge kommun
+2\. Vellinge kommun
 
-11. Insamling av pengar
+11\. Insamling av pengar
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande på offentlig plats, om insamlingen inte utgör led i
 tillståndspliktig allmän sammankomst eller offentlig tillställning.
@@ -8599,9 +8599,9 @@ s om framgår av Bilaga D.
 
 Ett kommunalt förbud mot tiggeri           SOU 2025:83
 
-3. Sölvesborgs kommun
+3\. Sölvesborgs kommun
 
-11. Insamling av pengar
+11\. Insamling av pengar
 11.1 Polismyndighetens tillstånd krävs för insamling av pengar i
 bössor eller liknande på offentlig plats, om insamlingen inte utgör
 led i tillståndspliktig allmän sammankomst eller offentlig tillställ-
@@ -8610,13 +8610,13 @@ ning.
 enligt 1 kap 2 § Ordningslagen utgör offentlig plats eller kan jäm-
 ställas med offentlig plats, kartbilagor 5–7.
 
-4. Bromölla kommun
+4\. Bromölla kommun
 
 Tiggeri § 14
 Passiv insamling av pengar (tiggeri) får inte ske inom områden som
 framgår av bifogade kartbilagorna 2–5.
 
-5. Skurups kommun
+5\. Skurups kommun
 
 Insamling av pengar 12 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8624,13 +8624,13 @@ eller liknande, om insamling inte utgör ett led i en tillståndspliktig
 allmän sammankomst eller offentlig tillställning. Passiv insamling
 av pengar (tiggeri) får ej ske inom område som omfattas av bilaga 1.
 
-6. Kungsbacka kommun
+6\. Kungsbacka kommun
 
 14 b §
 Passiv insamling av pengar (tiggeri) får ej ske på område som fram-
 går av bilaga 5.
 
-7. Katrineholms kommun
+7\. Katrineholms kommun
 
 Insamling av pengar § 12
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8649,7 +8649,7 @@ krävs inte tillstånd.
 Passiv insamling av pengar (tiggeri) får ej ske på område som fram-
 går av bilaga 4 och 5.
 
-8. Danderyds kommun
+8\. Danderyds kommun
 12 § Insamling av pengar
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande, om insamlingen inte utgör led i en tillståndspliktig
@@ -8663,7 +8663,7 @@ går av bilaga A.
 Aktiv insamling av pengar, återvinningsavfall och flaskor/burkar
 med pant (tiggeri) får ej ske på områden som framgår av bilaga B.
 
-9. Ekerö kommun
+9\. Ekerö kommun
 Insamling av pengar 13 §
 
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8682,7 +8682,7 @@ k ommun och Återvinningsstati oner Ekerö kommun.
 
 Ett kommunalt förbud mot tiggeri           SOU 2025:83
 
-10. Höganäs kommun
+10\. Höganäs kommun
 
 Insamling av pengar 18 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8692,7 +8692,7 @@ När insamlingen skall ske i samband med framförande av gatu-
 musik krävs inte tillstånd. Passiv insamling av pengar (tiggeri) får
 inte ske på offentlig plats utan polismyndighetens tillstånd.
 
-11. Sotenäs kommun
+11\. Sotenäs kommun
 
 Insamling av pengar 12 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8702,7 +8702,7 @@ skall ske i samband med framförande av gatumusik krävs inte till-
 stånd. Passiv insamling av pengar (tiggeri) får ej ske på de områden
 som framgår av bilagda kartbilagor.
 
-12. Lidingö stad
+12\. Lidingö stad
 
 Insamling av pengar § 13
 Polismyndighetens tillstånd krävs för insamling av pengar på offentlig
@@ -8714,7 +8714,7 @@ publiken och samla in pengar.
 Passiv insamling av pengar (tiggeri) får ej ske på de områden som
 framgår av bilagda kartor A–J.
 
-13. Trelleborgs kommun
+13\. Trelleborgs kommun
 
 Insamling av pengar § 12
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8732,7 +8732,7 @@ stånd. Passiv insamling av pengar (tiggeri) är förbjudet på offentlig
 
 plats inom det område som framgår av bilagd karta.
 
-14. Täby kommun
+14\. Täby kommun
 § 13
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande, om insamlingen inte utgör ett led i en tillståndsplik-
@@ -8748,7 +8748,7 @@ material, returglas, returburkar, PET-flaskor och/eller kläder, samt
 – att opåkallat erbjuda sig att avhända sig andras återvinningsmate-
 rial, returglas, returburkar, PET-flaskor och/eller kläder.
 
-15. Örkelljunga kommun
+15\. Örkelljunga kommun
 
 Insamling av pengar 8 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -8759,7 +8759,7 @@ stånd.
 Passiv insamling av pengar (tiggeri) får ej ske inom de områden
 som framgår av bilaga A.
 
-16. Nynäshamns kommun
+16\. Nynäshamns kommun
 Insamling av pengar
 11 a§
 Insamling av pengar i bössor eller liknande anordning får inte ske
@@ -9116,12 +9116,12 @@ sådan. På regional nivå ingår tiggeri som företeelse hos varje läns-
 
 1 Kallas ibland även primär uppehållsrätt.
 2 En EES-medborgare har uppehållsrätt om han eller hon
-1. är arbetstagare eller egen företagare i Sverige,
-2. har kommit till Sverige för att söka arbete och har en verklig möjlighet att få en anställning,
-3. är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige och enligt en för-
+1\. är arbetstagare eller egen företagare i Sverige,
+2\. har kommit till Sverige för att söka arbete och har en verklig möjlighet att få en anställning,
+3\. är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige och enligt en för-
 säkran om detta har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning samt
 har en heltäckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige, eller
-4. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en hel-
+4\. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en hel-
 täckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige. Lag (2006:219).
 3 Ju 2025:01, Registrering av EES-medborgare.
 128
@@ -11043,7 +11043,7 @@ Vänlig hälsning, Jonas Melinder
 
 Bilaga 3                                   SOU 2025:83
 
-1. Välj ditt län *
+1\. Välj ditt län \*
 Stockholms län
 Uppsala län
 Södermanlands län
@@ -11069,7 +11069,7 @@ Jämtlands län
 Västerbottens län
 Norrbottens län
 
-2. Välj din kommun *
+2\. Välj din kommun \*
 
 Upplands Väsby
 Vallentuna
@@ -11451,7 +11451,7 @@ Boden
 Haparanda
 Kiruna
 
-3. Vilken aktör är du?
+3\. Vilken aktör är du?
 
 Kommun
 Civilsamhället
@@ -11464,24 +11464,24 @@ Annan:
 
 SOU 2025:83                                   Bilaga 3
 
-4. Kontaktuppgifter
+4\. Kontaktuppgifter
 Förnamn
 Efternamn
 
 E-post
 
-5. När infördes förbudet?
+5\. När infördes förbudet?
 
 dd.mm.åååå
 
-6. Vilken typ av plats/område omfattas av förbudet?
+6\. Vilken typ av plats/område omfattas av förbudet?
 
-7. Har kommunen särskilda insatser för EU/EES-medborgare som tigger?
+7\. Har kommunen särskilda insatser för EU/EES-medborgare som tigger?
 Ja (beskriv kortfattat)
 
 Nej
 
-8. Hur har antalet EU/EES-medborgare som tigger förändrats sedan 2021?
+8\. Hur har antalet EU/EES-medborgare som tigger förändrats sedan 2021?
 Minskat kraftigt
 
 Minskat något
@@ -11490,7 +11490,7 @@ Oförändrat
 Ökat kraftigt
 Vet ej
 
-9. Vilka bakomliggande ordningsstörningar eller annan problematik angavs som grund för införandet av
+9\. Vilka bakomliggande ordningsstörningar eller annan problematik angavs som grund för införandet av
 förbudet?
 
 185
@@ -11499,10 +11499,10 @@ förbudet?
 
 Bilaga 3                                   SOU 2025:83
 
-10. På vilket sätt följer kommunen upp eventuella förändringar av ordningsstörningar inom det anvisade
+10\. På vilket sätt följer kommunen upp eventuella förändringar av ordningsstörningar inom det anvisade
 området?
 
-11. Hur väl fungerar efterlevnaden av förbudet?
+11\. Hur väl fungerar efterlevnaden av förbudet?
 Mycket bra
 Ganska bra
 Varken bra eller dåligt
@@ -11510,7 +11510,7 @@ Ganska dåligt
 Mycket dåligt
 Vet ej
 
-12. Vilka eventuella utmaningar har ni stött på vid implementering av förbudet? (Flera val möjliga)
+12\. Vilka eventuella utmaningar har ni stött på vid implementering av förbudet? (Flera val möjliga)
 Svårigheter med tillsyn
 Oklarheter kring regelverket
 Resursbrist
@@ -11518,7 +11518,7 @@ Språkbarriärer
 Annat (specificera)
 Vet ej
 
-13. Har förbudet påverkat:
+13\. Har förbudet påverkat:
 Ja, minskat Ja, ökat Ingen märkbar förändring Vet ej
 Ordningsstörningar inom det anvisade
 området
@@ -11526,7 +11526,7 @@ Belastning på socialtjänsten
 Belastning på annan kommunal
 verksamhet
 
-15. Möjlighet att lägga till kompletterande information:
+15\. Möjlighet att lägga till kompletterande information:
 
 186
 
@@ -11546,7 +11546,7 @@ förordningen (1993:1632) med bemyndigande för kommuner och
 länsstyrelser att meddela lokala föreskrifter enligt ordningslagen
 (1993:1617).
 
-1. Föreskrifternas innehåll och tillämpningsområde
+1\. Föreskrifternas innehåll och tillämpningsområde
 
 1.1 Grundläggande bestämmelser om allmän ordning och säkerhet
 på offentlig plats finns i 3 kap. ordningslagen (1993:1617). Dessa
@@ -11580,7 +11580,7 @@ då de är tillgängliga för allmänheten. Vidare ska de badplatser
 som angivits på kartbilaga 3 jämställas med offentlig plats.
 1.5 Innan Polismyndigheten fattar beslut om tillstånd enligt p 4.1,
 8.1, 9.1 och 14.1 bör kommunen ges tillfälle yttra sig.
-2. Lastning av varor m.m.
+2\. Lastning av varor m.m.
 2.1 Vid lastning, forsling, lossning och annan hantering av gods eller
 varor ska den som är ansvarig för åtgärden göra vad som
 behövs för att tillse undvika att allmänheten utsätts för minsta
@@ -11592,7 +11592,7 @@ utrymningsvägar blockeras eller så att räddningstjänstens arbete
 hindras. För undantag krävs polismyndighetens tillstånd.
 2.2 Vad som anges ovan gäller även för parkeringar vid kommunens
 stränder.
-3. Schaktning, grävning m.m.
+3\. Schaktning, grävning m.m.
 3.1 Den som är ansvarig för schaktning, grävning, tippning eller
 annat liknande arbete ska se till att det sker så att allmänheten
 utsätts för minsta möjliga olägenhet. Bestämmelsen gäller med
@@ -11610,16 +11610,16 @@ SOU 2025:83                                   Bilaga 4
 
 Sid 3 (18)
 
-4. Störande buller
+4\. Störande buller
 4.1 Arbete som orsakar buller och stör den allmänna ordningen får
 inte utföras mellan kl 21.00 och 06.00 utan Polismyndighetens
 tillstånd.
-5. Förtäring av alkohol
+5\. Förtäring av alkohol
 5.1 Spritdrycker, vin och starköl får inte förtäras på offentlig plats
 inom områden enligt kartbilaga 4.
 Vad som nu sagts gäller inte i fråga om tillåten uteservering.
 
-6. Container
+6\. Container
 6.1 Ägare eller nyttjanderättshavare till en container, som ska ställas
 upp på offentlig plats, är skyldig att söka tillstånd hos polisen för
 sådan uppställning.
@@ -11628,7 +11628,7 @@ nyttjanderättshavarens namn, adress och telefonnummer.
 
 6.3 När container placeras på gång- eller körbana ska den under
 mörker vara försedd med reflexer.
-7. Markis, flagga, skylt m.m.
+7\. Markis, flagga, skylt m.m.
 7.1 Markis, flagga eller skylt får inte sättas upp så att den skjuter ut
 över en gångbana på lägre höjd än 2,20 meter eller över
 körbana på lägre höjd än 4,60 meter. Motsvarande gäller för
@@ -11636,7 +11636,7 @@ utskjutande vegetation.
 7.2 På offentlig plats får endast av kommunen tillåtna fasta
 reklamskyltar sättas upp.
 
-8. Affischering och reklam
+8\. Affischering och reklam
 8.1 Affisch, annons, klistermärken eller liknande anslag får inte utan
 tillstånd av Polismyndigheten sättas upp på husväggar, staket,
 stolpar, elskåp, trädstammar, plank eller liknande som vetter mot
@@ -11657,15 +11657,15 @@ upp annonser och andra tillkännagivanden som avser
 näringsidkarens rörelse på den byggnad där rörelsen finns.
 8.3 Gatupratare på offentlig plats kräver tillstånd av
 Polismyndigheten.
-9. Högtalarutsändning eller liknande
+9\. Högtalarutsändning eller liknande
 9.1 Information, reklam, propaganda eller annat budskap som riktar
 sig till personer på offentlig plats, får inte ske genom högtalare
 eller liknande utan tillstånd av Polismyndigheten.
 
-10. Tillfällig försäljning
+10\. Tillfällig försäljning
 10.1 Tillfällig försäljning får inte äga rum på offentlig plats upplåten
 till allmän parkeringsplats utan tillstånd från Polismyndigheten.
-11. Insamling av pengar
+11\. Insamling av pengar
 11.1 Polismyndighetens tillstånd krävs för insamling av pengar i
 bössor eller liknande på offentlig plats, om insamlingen inte
 utgör led i tillståndspliktig allmän sammankomst eller offentlig
@@ -11673,12 +11673,12 @@ tillställning.
 11.2 Passiv insamling av pengar (tiggeri) får ej ske på områden som
 enligt 1 kap 2 § Ordningslagen utgör offentlig plats eller kan
 jämställas med offentlig plats, kartbilagor 5-7.
-12. Camping
+12\. Camping
 
 12.1 Camping är, inom offentliga platser eller platser som enligt 3
 kap ordningslagen jämställs med offentlig plats, endast tillåten
 på för ändamålet särskilt anordnade områden.
-13. Hundar och hästar
+13\. Hundar och hästar
 
 190
 
@@ -11716,7 +11716,7 @@ hundar, hästar eller andra sällskapsdjur plockas upp.
 april och 31 augusti. Övrig tid avgör markägarna i vilken
 omfattning ridning får ske. Finns det badgäster på stränderna
 har dessa företräde.
-14. Fyrverkeri och andra pyrotekniska varor
+14\. Fyrverkeri och andra pyrotekniska varor
 14.1 För användning av pyrotekniska varor krävs tillstånd av
 Polismyndigheten och kommunen. Föreskriften gäller även
 
@@ -11732,7 +11732,7 @@ nyårsafton.
 14.2 Det är förbjudet att använda fyrverkeri och andra pyrotekniska
 varor närmare än 100 meter från kommunala omsorgsboenden,
 förskolor, skolor och fritidshem.
-15. Adressnummerskyltar
+15\. Adressnummerskyltar
 15.1 Varje fastighet som tilldelats adressnummer ska vara försedd
 med särskild adressnummerskylt.
 
@@ -11745,16 +11745,16 @@ adressnummerskylt,
  att hålla den ren och i sådant skick att den lätt kan läsas.
 15.3 Fastighetsägare är skyldig att utan ersättning upplåta plats för
 gatunamnsskylt och vägmärke på byggnad eller hägnad.
-16. Avgift för att använda offentlig plats
+16\. Avgift för att använda offentlig plats
 16.1 För användning av offentlig plats och för områden som
 jämställts med sådan plats har kommunen rätt att ta ut en avgift
 enligt de grunder som har beslutats av kommunfullmäktige.
-17. Överträdelse av lokal ordningsföreskrift
+17\. Överträdelse av lokal ordningsföreskrift
 17.1 Den som uppsåtligen eller av oaktsamhet bryter mot någon av p
 2 – p 7, p 8.1, p 9 – p 11 och p 13.3 – p 14.3 kan dömas till
 penningböter enligt 3 kap. 22 § andra stycket ordningslagen.
 
-_____
+\_\_\_\_\_
 
 I ordningslagen finns bestämmelser om föreläggande och
 förverkande.
@@ -11917,130 +11917,130 @@ Statens offentliga utredningar  2025
 
 Kronologisk förteckning
 
-1. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
+1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
 skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
+2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
 fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3. Skatteincitament för forskning till EU:s åtaganden inom biologisk
+3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
 och utveckling. En översyn av mångfald respektive nettoupptag av
 FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
 reglerna. Fi.          sektorn (LULUCF). KN.
-4. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
+4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
 för arbetslivet. Fi.   privat verksamhet. KN.
-5. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
+5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
 – och andra åtgärder för trygghet i fokus. Ju.
 i byggd miljö. LI.   24. Publiken i fokus
-6. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
+6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
 försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
+7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
 tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
 avgifter. KN.          åtgärder för god undervisning och
-8. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
+8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
 och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
+9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
+10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
 säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
 centrala myndigheter. A.
-11. Straffbarhetsåldern. Ju.
-29. Ökad kvalitet hos Samhall
-12. AI-kommissionens
+11\. Straffbarhetsåldern. Ju.
+29\. Ökad kvalitet hos Samhall
+12\. AI-kommissionens
 och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30. Enklare mervärdesskatteregler vid
-13. En effektivare organisering av mindre
+30\. Enklare mervärdesskatteregler vid
+13\. En effektivare organisering av mindre
 försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
 donation av livsmedel. Fi.
-14. En skärpt miljöstraffrätt och
-31. Utmönstring av permanent uppehålls-
+14\. En skärpt miljöstraffrätt och
+31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
 tillstånd och vissa anpassningar till
-15. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
+15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
 biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
+16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
 förvar. Ju.            LI.
-17. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
+17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
 avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
+18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
 Volym 1 och 2. U.      distansavtal. Ju.
-19. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
+19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
 fokus på undervisning och lärande. U. – ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 287 -->
 
-36. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
+36\. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
 områden utanför nationell jurisdiktion. samhet − lärdomar och vägen framåt.
 UD.                   Volym 1 och 2. S.
-37. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
-38. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
+37\. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
+38\. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
 Volym 2 Underlagsrapporter. S.
-39. Digital teknik på lika villkor.
+39\. Digital teknik på lika villkor.
 En reglering för socialtjänsten och 63. Stärkt patientsäkerhet genom rätt
 verksamhet enligt LSS. S. kompetens − utifrån hälso- och
 sjukvårdens och tandvårdens behov. S.
-40. Säkrare tivoli. Ju.
-64. En ny kontrollorganisation i livs-
-41. Pensionsnivåer och pensionsavgiften
+40\. Säkrare tivoli. Ju.
+64\. En ny kontrollorganisation i livs-
+41\. Pensionsnivåer och pensionsavgiften
 medelskedjan – för ökad effektivitet,
 – analyser på hundra års sikt. S.
 likvärdighet och konkurrenskraft. LI.
-42. Säkerhetsskyddslagen – ytterligare
-65. En mer flexibel hyresmarknad. Ju.
+42\. Säkerhetsskyddslagen – ytterligare
+65\. En mer flexibel hyresmarknad. Ju.
 kompletteringar. Ju.
-66. En straffreform. Volym 1, 2, 3 och 4. Ju.
-43. Säkerställ tillgången till läkemedel
+66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
+43\. Säkerställ tillgången till läkemedel
 – förordnande och utlämnande 67. Arlanda – en viktig port för det svenska
 i bristsituationer. S. välståndet. Åtgärder som stärker
 konkurrenskraften för Arlanda
-44. Förbättrat stöd i skolan. U.
+44\. Förbättrat stöd i skolan. U.
 flygplats. LI.
-45. Ökat informationsutbyte mellan
-68. Nya samverkansformer, modern bygg-
+45\. Ökat informationsutbyte mellan
+68\. Nya samverkansformer, modern bygg-
 myndigheter – några anslutande
 nads- och reparationsberedskap – för
 frågor. Ju.
 ökad försörjningsberedskap. KN.
-46. Tryggare idrottsarrangemang. Ju.
-69. Effektivare samverkan för djur- och
-47. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
+46\. Tryggare idrottsarrangemang. Ju.
+69\. Effektivare samverkan för djur- och
+47\. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
 framtida elförsörjning? KN.
-70. Längre liv, längre arbetsliv – förlängd
-48. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
-49. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
+70\. Längre liv, längre arbetsliv – förlängd
+48\. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
+49\. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
 av personuppgifter. Ju. läkemedelslista – en del i en ny nationell
-50. En ny nationell myndighet för infrastruktur för datadelning.
+50\. En ny nationell myndighet för infrastruktur för datadelning.
 viltförvaltning. LI.  Del 1 och 2. S.
-51. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
+51\. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
 klimatanpassning. KN. resursfördelning till skolan. U.
-52. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
-53. Kvalificering till socialförsäkring arbetsliv. A.
+52\. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
+53\. Kvalificering till socialförsäkring arbetsliv. A.
 och ekonomiskt bistånd 74. Ny reglering för den arbetsmarknads-
 för vissa grupper. S. politiska verksamheten. A.
-54. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
+54\. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
 på grund av brott. Ju. och brottsbekämpning. Fi.
-55. En reformerad samhällsorientering 76. Det handlar om oss
+55\. En reformerad samhällsorientering 76. Det handlar om oss
 för bättre integration. A. – så bryter vi utanförskapet
-56. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
+56\. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
 och domarnas oberoende. Ju. 77. En översyn av den statliga löne-
-57. Polisiär beredskap i fred, kris och krig. garantin. A.
+57\. Polisiär beredskap i fred, kris och krig. garantin. A.
 Ju.                  78. En reformerad underrättelse-
-58. En stärkt hästnäring – för företagande, verksamhet. Fö.
+58\. En stärkt hästnäring – för företagande, verksamhet. Fö.
 jämställdhet, jämlikhet och folkhälsa. 79. Samlade förmågor för ökad
 LI.                   cybersäkerhet. Fö.
-59. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
+59\. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
 våld och förtryck. Ju. Ju.
-60. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
+60\. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
 bekämpningen. Ju.
 
 <!-- sida 288 -->
 
-82. Sysselsättning och boende på lands-
+82\. Sysselsättning och boende på lands-
 bygden – Juridiska personers förvärv
 av jordbruksmark och en effektiv
 tillämpning av glesbygdsbestämmel-
 serna. LI.
-83. Ett nationellt förbud mot tiggeri. Ju.
+83\. Ett nationellt förbud mot tiggeri. Ju.
 
 <!-- sida 289 -->
 
@@ -12231,38 +12231,38 @@ Remittering av betänkandet Ett nationellt förbud mot tiggeri
 
 Remissinstanser
 
-1. Amnesty international
-2. Barnombudsmannen
+1\. Amnesty international
+2\. Barnombudsmannen
 
-3. Brottsförebyggande rådet
-4. Bräcke kommun
+3\. Brottsförebyggande rådet
+4\. Bräcke kommun
 
-5. Centrum för rättvisa
+5\. Centrum för rättvisa
 
-6. Civil Rights Defenders
-7. Diskrimineringsombudsmannen
+6\. Civil Rights Defenders
+7\. Diskrimineringsombudsmannen
 
-8. Domstolsverket
+8\. Domstolsverket
 
-9. Dorotea kommun
-10. Falkenbergs kommun
+9\. Dorotea kommun
+10\. Falkenbergs kommun
 
-11. Fastighetsägarna
-12. Folkhälsomyndigheten
+11\. Fastighetsägarna
+12\. Folkhälsomyndigheten
 
-13. Frälsningsarmén
+13\. Frälsningsarmén
 
-14. Funktionsrätt Sverige
-15. Gävle kommun
+14\. Funktionsrätt Sverige
+15\. Gävle kommun
 
-16. Göta hovrätt
+16\. Göta hovrätt
 
-17. Hofors kommun
-18. Härjedalens kommun
+17\. Hofors kommun
+18\. Härjedalens kommun
 
-19. Höganäs kommun
+19\. Höganäs kommun
 
-20. Institutet för mänskliga rättigheter
+20\. Institutet för mänskliga rättigheter
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
@@ -12270,118 +12270,118 @@ Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
 
 <!-- sida 293 -->
 
-21. Integritetsskyddsmyndigheten
+21\. Integritetsskyddsmyndigheten
 
-22. Justitiekanslern
-23. Jämställdhetsmyndigheten
+22\. Justitiekanslern
+23\. Jämställdhetsmyndigheten
 
-24. Kalix kommun
-25. Kalmar kommun
+24\. Kalix kommun
+25\. Kalmar kommun
 
-26. Katrineholms kommun
+26\. Katrineholms kommun
 
-27. Kristianstads tingsrätt
-28. Kristinehamns kommun
+27\. Kristianstads tingsrätt
+28\. Kristinehamns kommun
 
-29. Kronofogdemyndigheten
+29\. Kronofogdemyndigheten
 
-30. Kungsbacka kommun
-31. Luleå kommun
+30\. Kungsbacka kommun
+31\. Luleå kommun
 
-32. Lunds universitet (Juridiska fakulteten och Raoul Wallenberg institutet
+32\. Lunds universitet (Juridiska fakulteten och Raoul Wallenberg institutet
 för mänskliga rättigheter och humanitär rätt)
 
-33. Länsstyrelsen Gotland
-34. Länsstyrelsen Gävleborg
+33\. Länsstyrelsen Gotland
+34\. Länsstyrelsen Gävleborg
 
-35. Länsstyrelsen Kronoberg
+35\. Länsstyrelsen Kronoberg
 
-36. Länsstyrelsen Stockholm
-37. Länsstyrelsen Södermanland
+36\. Länsstyrelsen Stockholm
+37\. Länsstyrelsen Södermanland
 
-38. Länsstyrelsen Västerbotten
+38\. Länsstyrelsen Västerbotten
 
-39. Länsstyrelsen Örebro
-40. Majblommans riksförbund
+39\. Länsstyrelsen Örebro
+40\. Majblommans riksförbund
 
-41. Malmö kommun
-42. Migrationsverket
+41\. Malmö kommun
+42\. Migrationsverket
 
-43. Mora kommun
+43\. Mora kommun
 
-44. Myndigheten för delaktighet
-45. Nacka tingsrätt
+44\. Myndigheten för delaktighet
+45\. Nacka tingsrätt
 
-46. Nybro kommun
+46\. Nybro kommun
 
-47. Polismyndigheten
-48. Region Blekinge
+47\. Polismyndigheten
+48\. Region Blekinge
 
-49. Region Gävleborg
+49\. Region Gävleborg
 
 2 (5)
 
 <!-- sida 294 -->
 
-50. Region Halland
+50\. Region Halland
 
-51. Region Skåne
-52. Region Stockholm
+51\. Region Skåne
+52\. Region Stockholm
 
-53. Region Västerbotten
-54. Riksdagens ombudsmän
+53\. Region Västerbotten
+54\. Riksdagens ombudsmän
 
-55. Rädda barnen
+55\. Rädda barnen
 
-56. Röda Korset
-57. Sala kommun
+56\. Röda Korset
+57\. Sala kommun
 
-58. Socialstyrelsen
+58\. Socialstyrelsen
 
-59. Sollefteå kommun
-60. SOS Barnbyar
+59\. Sollefteå kommun
+60\. SOS Barnbyar
 
-61. Staffanstorps kommun
+61\. Staffanstorps kommun
 
-62. Stockholms handelskammare
-63. Stockholms kommun
+62\. Stockholms handelskammare
+63\. Stockholms kommun
 
-64. Stockholms universitet (Juridiska fakulteten)
-65. Svensk handel
+64\. Stockholms universitet (Juridiska fakulteten)
+65\. Svensk handel
 
-66. Svenska institutet
+66\. Svenska institutet
 
-67. Svenska kyrkan
-68. Sveriges advokatsamfund
+67\. Svenska kyrkan
+68\. Sveriges advokatsamfund
 
-69. Sveriges kommuner och regioner
+69\. Sveriges kommuner och regioner
 
-70. Sveriges antidiskrimineringsbyråer
-71. Söderköpings kommun
+70\. Sveriges antidiskrimineringsbyråer
+71\. Söderköpings kommun
 
-72. Sölvesborgs kommun
-73. Tranemo kommun
+72\. Sölvesborgs kommun
+73\. Tranemo kommun
 
-74. Töreboda kommun
+74\. Töreboda kommun
 
-75. Uddevalla kommun
-76. Umeå kommun
+75\. Uddevalla kommun
+76\. Umeå kommun
 
-77. Värnamo kommun
+77\. Värnamo kommun
 
-78. Västra Götalandsregionen
-79. Åklagarmyndigheten
+78\. Västra Götalandsregionen
+79\. Åklagarmyndigheten
 
 3 (5)
 
 <!-- sida 295 -->
 
-80. Älvdalens kommun
+80\. Älvdalens kommun
 
-81. Åmåls kommun
-82. Örebro Rättighetscenter
+81\. Åmåls kommun
+82\. Örebro Rättighetscenter
 
-83. Örnsköldsviks kommun
+83\. Örnsköldsviks kommun
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 3
 november 2025. Svaren bör lämnas per e-post till
@@ -12724,20 +12724,20 @@ dricksvatten. Inspiration kan hämtas från Helsingborgs unika system ”två r�
 
 Vi föreslår därför:
 
-- att Kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
+\- att Kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
 installera vattenbesparande utrustning
 
-- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
+\- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
 installera vattenbesparande system och cirkulerande system för till exempel
 regnvatten och gråvatten
 
-- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
+\- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
 återcirkulerat gråvatten
 
-- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
+\- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
 hållbar bostadsbebyggelse förslagsvis i Forsbergen
 
-- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
+\- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
 pilotanläggning
 
 2025-04-25
@@ -12979,7 +12979,7 @@ Definitioner
 2§. Följande termer och begrepp används i dessa föreskrifter med de
 betydelser som anges här:
 
-1. Med kommunalt avfall avses detsamma som i 15 kap. 3 §
+1\. Med kommunalt avfall avses detsamma som i 15 kap. 3 §
 miljöbalken, det vill säga avfall som kommer från hushåll och
 sådant avfall från andra källor som till sin art och sammansättning
 liknar avfall från hushåll, med undantag för vad som anges i 15
@@ -13007,7 +13007,7 @@ avfall i enlighet med 15 kap. 3 § miljöbalken.
 
 e. Med farligt avfall avses avfall som i bilaga 3 till
 avfallsförordningen (2020:614) beskrivs med en avfallskod
-markerad med en asterisk (*).
+markerad med en asterisk (\*).
 
 f. Med konsumentelavfall avses detsamma som i 13 §
 förordningen (2014:1075) om producentansvar för elutrustning.
@@ -13046,21 +13046,21 @@ l. Med bygg- och rivningsavfall som inte producerats i en
 yrkesmässig verksamhet avses detsamma som i 15 kap. 20 § 4
 punkten miljöbalken.
 
-2. Med fastighetsinnehavare avses den som är fastighetsägare
+2\. Med fastighetsinnehavare avses den som är fastighetsägare
 eller den som enligt 1 kap. 5 § fastighetstaxeringslagen
 (1979:1152) ska anses som fastighetsägare.
 
-3. Med nyttjanderättshavare avses den som, utan att omfattas av
+3\. Med nyttjanderättshavare avses den som, utan att omfattas av
 begreppet fastighetsinnehavare, har rätt att bruka eller nyttja
 fastighet.
 
-4. Med den avfallsansvariga nämnden avses nämnden för Teknik,
+4\. Med den avfallsansvariga nämnden avses nämnden för Teknik,
 Kungsbacka kommun.
 
-5. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
+5\. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
 Hälsoskydd, Kungsbacka kommun.
 
-6. Med behållare avses kärl, container, underjordsbehållare, säck,
+6\. Med behållare avses kärl, container, underjordsbehållare, säck,
 latrinbehållare, fosforfälla, slamavskiljare, fettavskiljare eller
 annan anordning för uppsamling av avfall under kommunalt
 ansvar.
@@ -13069,7 +13069,7 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        4 (33)
 
 <!-- sida 314 -->
 
-7. I enlighet med avgränsningen av kommunens ansvar enligt 15
+7\. I enlighet med avgränsningen av kommunens ansvar enligt 15
 kap. 20 § 2 miljöbalken, avses med enskilda avloppsanläggningar
 slutna tankar, slamavskiljare, fosforfällor, minireningsverk och
 andra motsvarande anläggningar som inte är allmänna enligt lag
@@ -13078,10 +13078,10 @@ för högst 25 personekvivalenter och endast används för
 hushållspillvatten eller spillvatten som till sin art och
 sammansättning liknar hushållsspillvatten.
 
-8. Med latrin avses latrin från torrtoaletter och andra jämförliga
+8\. Med latrin avses latrin från torrtoaletter och andra jämförliga
 lösningar, i enlighet med 15 kap. 20 § 3 miljöbalken.
 
-9. Med avloppsfraktioner från enskilda avloppsanläggningar
+9\. Med avloppsfraktioner från enskilda avloppsanläggningar
 menas avloppsslam, toalettvatten, urin, fekalier och innehåll i
 slutna tankar. Med filtermaterial avses ett förbrukat material
 tillhörande en enskild avloppsanläggning, så som torv, leca, träflis
@@ -13096,7 +13096,7 @@ avloppsanläggningar som nämns i punkt 7 ovan.
 Bestämmelsen omfattar både enskilda anläggningar som betjänar
 en fastighet och samfällda anläggningar.
 
-10. Så länge inte annat framgår i gällande lagstiftning innebär med
+10\. Så länge inte annat framgår i gällande lagstiftning innebär med
 yrkesmässig verksamhet i dessa föreskrifter att någon regelbundet
 utför tjänster mot betalning. Tillfälliga arbeten och kortare uppdrag
 av obetydlig omfattning räknas här inte som yrkesmässig
@@ -13149,13 +13149,13 @@ av fettavskiljare utanför det kommunala ledningsnätet
 Betalning och information.
 8§. Avgift ska betalas för:
 
-1. de åtgärder som kommunen vidtar i syfte att informera hushåll
+1\. de åtgärder som kommunen vidtar i syfte att informera hushåll
 
 och verksamhetsutövare som producerar avfall som
 kommunen ansvarar för enligt 15 kap. 20 § miljöbalken om
 avfallshantering och avfallsförebyggande åtgärder.
 
-2. de åtgärder som kommunen vidtar för att underlätta insamling
+2\. de åtgärder som kommunen vidtar för att underlätta insamling
 och sortering av återanvändbara produkter från hushåll och
 verksamhetsutövare som producerar avfall som kommunen
 ansvarar för enligt 15 kap. 20 § miljöbalken.
@@ -13164,7 +13164,7 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        6 (33)
 
 <!-- sida 316 -->
 
-3. den insamling, transport, behandling i form av återvinning och
+3\. den insamling, transport, behandling i form av återvinning och
 bortskaffande av avfall som utförs genom kommunens försorg
 och i enlighet med föreskrifter som kommunen har antagit med
 stöd av 27 kap. 4 § miljöbalken.
@@ -13207,13 +13207,13 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        7 (33)
 <!-- sida 317 -->
 
 13a§. Förpackningsavfall i form av
-1. papper och kartong,
-2. plast
-3. metall,
-4. färgat glas,
-5. ofärgat glas,
-6. trä, och
-7. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
+1\. papper och kartong,
+2\. plast
+3\. metall,
+4\. färgat glas,
+5\. ofärgat glas,
+6\. trä, och
+7\. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
 enligt 3 kap. 4 § avfallsförordningen (2020:614) sorteras ut från
 annat avfall.
 
@@ -14049,31 +14049,31 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        30 (33)
 
 BILAGA 2. HÄMTNINGSINTERVALL  (Standardintervaller)
 
-1. Från flerbostadshus och verksamheter sker hämtning av kärl- och
+1\. Från flerbostadshus och verksamheter sker hämtning av kärl- och
 säckavfall normalt en gång i veckan. Renhållaren tillhandahåller även
 hämtning en gång varannan vecka eller två gånger per vecka.
-2. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
+2\. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
 och säckavfall normalt en gång varannan vecka. Renhållaren tillhandahåller
 även hämtning en gång var fjärde vecka.
 
-3. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
+3\. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
 avfall normalt en gång varannan vecka under perioden mitten av maj – mitten
 av september.
 
-4. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
+4\. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
 gång varannan vecka under vår, sommar och höst enligt kommunens
 avfallstaxa.
-5. Hämtning av latrin sker på budning.
+5\. Hämtning av latrin sker på budning.
 
-6. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
+6\. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
 anvisningar om det inte framgår något annat i tillståndet eller godkännandet
 meddelat av kommunens tillsynsmyndighet för enskilda avloppsanläggningar. I
 annat fall sker tömning minst en gång per år för enskilda avloppsanläggningar
 och vartannat år för fosforfällor.
 
-7. Tömning av andra små avloppsanläggningar sker minst en gång per år.
+7\. Tömning av andra små avloppsanläggningar sker minst en gång per år.
 
-8. Tömning av fettavskiljare som genererar kommunalt avfall under
+8\. Tömning av fettavskiljare som genererar kommunalt avfall under
 kommunalt ansvar utförs minst 4 gånger per år eller oftare om det krävs för
 att säkerställa anläggningens funktion.
 
@@ -14161,13 +14161,13 @@ Nämnden för Teknik uppdrog 2024-06-19 § 84 åt förvaltningen att utveckla et
 klassificeringssystem för skötsel av ytor i Kungsbacka kommun.
 
 Systemet består av tre klasser: Finrum, Sällskapsrum och Vardagsrum.
--  Finrum är den högsta klassen, med högsta skötselintensitet och ett beslut om
+\-  Finrum är den högsta klassen, med högsta skötselintensitet och ett beslut om
 
 stort aktivt mervärde.
--  Sällskapsrum är en mellannivå, med frekvent skötsel och ett beslut om aktivt
+\-  Sällskapsrum är en mellannivå, med frekvent skötsel och ett beslut om aktivt
 mervärde.
 
--  Vardagsrum är den lägsta klassen, med mindre frekvent skötsel och är en
+\-  Vardagsrum är den lägsta klassen, med mindre frekvent skötsel och är en
 standardnivå.
 Förvaltningen har mött invånare i Kungsbacka live för att samla in synpunkter om
 vilka platser i den offentliga utemiljön som är viktiga för dem. Kungsbacka torg var
@@ -14327,7 +14327,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 349 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -14362,11 +14362,11 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 Vid förfall för övriga delegater
 Delegation till tjänsteperson får vid förfall för denne, utövas av …
 
-1. annan delegat om det finns flera angivna.
+1\. annan delegat om det finns flera angivna.
 
-2. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
+2\. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet
-3. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
+3\. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
@@ -14388,12 +14388,12 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 2
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
-- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
-- Beslut att avge yttrande till högre instans med anledning av överklagande av
+\- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om ett utskott har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 förvaltningschefen.
@@ -14629,7 +14629,7 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.1.12 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende<br>dataskydd | Fc |  |
 | --- | --- | --- | --- | --- |
 | 2.1.13 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.14 | Nämndens budget, Regler och riktlinjer<br>för förmåner till förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och riktlinjer<br>för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår<br>vilka aktiviteter som avses. |
+| 2.1.14 | Nämndens budget, Regler och riktlinjer<br>för förmåner till förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och riktlinjer<br>för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår<br>vilka aktiviteter som avses. |
 | 2.1.15 |  | Rätt att skriva under delgivningskvitto ställt till nämnden | Fc<br>Registrator<br>Nämnd-<br>sekreterare |  |
 | 2.1.16 | OSL 15 kap. 2 §<br>OSL 18 kap. 8 och 13 § | Bedöma sekretess i fråga om försvarssekretess, säkerhets- eller<br>bevakningsåtgärd och risk- och sårbarhetsanalyser m.m. | Fc<br>Vc Vatten<br>Avfall<br>Bredband | Avser även att ingå sekretessavtal |
 | 2.1.17 | 6 kap 15 § KL<br>Gemensamt reglemente för<br>kommunstyrelsen och övriga nämnder i<br>Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och ärenden som<br>enligt lag eller annan författning ankommer på nämnden eller på<br>annat sätt faller inom nämndens ansvarsområde. | Fc |  |
@@ -14946,11 +14946,11 @@ beslutens numrering för en anpassning efter en ny mall och en ny rapporteringss
 handläggare i ciceron.
 
 Övriga ändringar och tillägg består av förändringar i redan existerande delegeringar.
--  Ny punkt 2.1.3: Helt eller delvis avslå begäran av en annan myndighet att ta del av en uppgift
+\-  Ny punkt 2.1.3: Helt eller delvis avslå begäran av en annan myndighet att ta del av en uppgift
 
--  Ny punkt 2.1.4: Helt eller delvis avslå begäran av en brottsbekämpande myndighet att ta del av
+\-  Ny punkt 2.1.4: Helt eller delvis avslå begäran av en brottsbekämpande myndighet att ta del av
 en uppgift
--  Punkt 2.6.2: Politiken beslutar om avslag för anslutningar till allmän va-anläggning för en
+\-  Punkt 2.6.2: Politiken beslutar om avslag för anslutningar till allmän va-anläggning för en
 
 fastighet utanför verksamhetsområdet samt beslut om uppsägning av anslutningsavtal, och
 förvaltningen beslutar om bifall.
@@ -15006,25 +15006,25 @@ Teknik 2026.
 Förvaltningen föreslår den 11 februari för en resultatdag och den 8 oktober för en planeringsdag.
 Nämnden för Teknik föreslås sammanträda följande datum 2026:
 
--  21 januari
--  18 februari
+\-  21 januari
+\-  18 februari
 
--  18 mars
--  22 april
+\-  18 mars
+\-  22 april
 
--  13 maj
--  17 juni
+\-  13 maj
+\-  17 juni
 
--  19 augusti
+\-  19 augusti
 
--  16 september
--  21 oktober
+\-  16 september
+\-  21 oktober
 
--  18 november
--  16 december
+\-  18 november
+\-  16 december
 
 Nämnden för Tekniks arbetsutskott föreslås sammanträda följande datum 2026:
--  12 januari
+\-  12 januari
 
 1 (2)
 Teknik Stöd & Styrning                                    Kungsbacka kommun
@@ -15040,21 +15040,21 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  2 februari
+\-  2 februari
 
--  2 mars
+\-  2 mars
 
--  30 mars
--  4 maj
+\-  30 mars
+\-  4 maj
 
--  1 juni
--  10 augusti
+\-  1 juni
+\-  10 augusti
 
--  7 september
--  5 oktober
+\-  7 september
+\-  5 oktober
 
--  2 november
--  30 november
+\-  2 november
+\-  30 november
 
 Mötesrum för arbetsutskottet är Onsala-rummet och samtliga sammanträden äger rum klockan 08:00-
 10:00 på måndagar. För 2026 föreslås det att nämnden för Teknik sammanträder i augusti, och att
@@ -15271,7 +15271,7 @@ rapporteras:
 Samtliga deltagande parter, och deras roll i bevattningsverksamheten och
 annan relevant information
 
-1. Återvinningsanläggningen:
+1\. Återvinningsanläggningen:
 a) Verksamhetsnamn
 b) Org nr.
 c) Tel. nr
@@ -15293,7 +15293,7 @@ m) Klasser av återvunnet vatten som får produceras enligt beslutet
 n) Behandlingsmetoder som används
 o) Mängd tillhandahållet avloppsvatten, årlig volym för varje kvalitetsklass
 
-2. Parter som ansvarar för distribution eller lagring av det återvunna
+2\. Parter som ansvarar för distribution eller lagring av det återvunna
 
 avloppsvattnet för bevattning i jordbruket, mellan
 återvinningsanläggningens efterlevandspunkt och slutanvändare:
@@ -15306,7 +15306,7 @@ f. e-mail
 g. kommunkod
 h. fastighetsbeteckning där verksamheten sker
 
-3. Platser för användning, för varje användningsplats*:
+3\. Platser för användning, för varje användningsplats\*:
 a. SkiftesID
 b. Kommunkod
 c. Fastighetsbeteckning
@@ -15333,7 +15333,7 @@ iii. sprinkler
 j. yta i m2 där bevattning skett på platsen (skiftet) under någon del av
 kalenderåret
 
-4. Kvalitet och övervakning
+4\. Kvalitet och övervakning
 a) Kvalitetsklasser som har producerats under året
 b) För varje kvalitetsklass, parametrar som kontrollerats: E.coli, totalt
 suspenderat material (TSS), turbiditet, BOD5, samt resultat av kontroll
@@ -15347,7 +15347,7 @@ f) Typ av provtagningsperiod, dag, vecka, månad, år eller annan
 g) Provtagningsfrekvens samplingFrequency (ange antal under vald
 provtagningsperiod)
 
-1. Uppkomna fall av bristande efterlevnad
+1\. Uppkomna fall av bristande efterlevnad
 För varje fall av bristande efterlevnad
 
 a) Plats där brist uppstod: kommunkod, fastighetsbeteckning,
@@ -15402,27 +15402,27 @@ rubrik av följande lydelse.
 
 1 § Dessa föreskrifter innehåller bestämmelser om
 
-1. den miljörapport som en utövare av tillståndspliktig verksamhet eller
+1\. den miljörapport som en utövare av tillståndspliktig verksamhet eller
 verksamhet som förelagts att ansöka om tillstånd enligt 9 kap. 6 § eller 6 a §
 miljöbalken, ska lämna varje år till tillsynsmyndigheten enligt 26 kap. 20 §
 första stycket miljöbalken,
-2. vilka uppgifter om produktionen av naturgrus, morän och berg som en
+2\. vilka uppgifter om produktionen av naturgrus, morän och berg som en
 
 verksamhetsutövare, enligt 31 a § förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd ska lämna i en miljörapport om länsstyrelsen
 begär det,
-3. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
+3\. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
 förelagts att ansöka om tillstånd, men som omfattas av bilaga 1 till
 Europaparlamentets och rådets förordning (EG) nr 166/2006, att lämna
 miljörapport och vad den ska innehålla,
 
-4. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
+4\. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
 som är allmänna enligt lagen (2006:412) om allmänna vattentjänster och
 som är anslutna till en avloppsreningsanläggning som är tillståndspliktig
 enligt miljöprövningsförordningen (2013:251) att lämna miljörapport och
 vad den ska innehålla, och
 
-5. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
+5\. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
 (1998:899) om miljöfarlig verksamhet och hälsoskydd ska lämna i en
 miljörapport.
 
@@ -15431,58 +15431,58 @@ miljörapport.
 5 § Miljörapporter som avser tillståndspliktiga verksamheter eller
 verksamheter som förelagts att ansöka om tillstånd ska dessutom innehålla
 följande uppgifter:
-1. En kortfattad beskrivning av verksamheten samt en översiktlig
+1\. En kortfattad beskrivning av verksamheten samt en översiktlig
 beskrivning av verksamhetens huvudsakliga påverkan på miljön och
 
 människors hälsa. De förändringar som skett under året ska anges.
-2. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
+2\. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
 enligt 9 kap. 6 § eller 6 a § miljöbalken eller motsvarande i
 miljöskyddslagen samt en kort beskrivning av vad beslutet eller besluten
 avser.
 
-3. Datum och beslutande myndighet för eventuella andra beslut under året
+3\. Datum och beslutande myndighet för eventuella andra beslut under året
 med anledning av anmälningspliktiga ändringar enligt 1 kap. 10-11 §§
 miljöprövningsförordningen (2013:251) samt en kort redovisning av vad
 beslutet eller besluten avser
-4. Datum och beslutande myndighet för eventuella andra gällande beslut
+4\. Datum och beslutande myndighet för eventuella andra gällande beslut
 
 enligt miljöbalken samt en kort redovisning av vad beslutet eller besluten
 avser.
-5. Tillsynsmyndighet enligt miljöbalken.
+5\. Tillsynsmyndighet enligt miljöbalken.
 
-6. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
+6\. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
 omfattning.
-7. Redovisning av de villkor som gäller för verksamheten samt hur vart och
+7\. Redovisning av de villkor som gäller för verksamheten samt hur vart och
 ett av dessa villkor har uppfyllts.
 
-8. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
+8\. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
 eller andra undersökningar som utförts under året för att bedöma
 verksamhetens påverkan på miljön och människors hälsa.
-9. Redovisning av de betydande åtgärder som vidtagits under året för att
+9\. Redovisning av de betydande åtgärder som vidtagits under året för att
 
 säkra drift och kontrollfunktioner samt för att förbättra skötsel och underhåll
 av tekniska installationer.
-10. Redovisning av de betydande åtgärder som genomförts med anledning
+10\. Redovisning av de betydande åtgärder som genomförts med anledning
 av eventuella driftstörningar, avbrott, olyckor eller liknande händelser som
 har inträffat under året och som medfört eller hade kunnat medföra
 olägenhet för miljön eller människors hälsa.
 
-11. Redovisning av de betydande åtgärder som genomförts under året med
+11\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska verksamhetens förbrukning av råvaror och energi.
-12. De kemiska produkter och biotekniska organismer som kan befaras
+12\. De kemiska produkter och biotekniska organismer som kan befaras
 medföra risker för miljön eller människors hälsa och som under året ersatts
 
 med sådana som kan antas vara mindre farliga.
-13. Redovisning av de betydande åtgärder som genomförts under året i syfte
+13\. Redovisning av de betydande åtgärder som genomförts under året i syfte
 att minska volymen avfall från verksamheten och avfallets farliga
 egenskaper.
 
 <!-- sida 394 -->
 
-14. Redovisning av de betydande åtgärder som genomförts under året med
+14\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska sådana risker som kan ge upphov till olägenheter för miljön
 eller människors hälsa.
-15. En sammanfattning av resultaten av de undersökningar som genomförts
+15\. En sammanfattning av resultaten av de undersökningar som genomförts
 under året för att klarlägga miljöpåverkan vid användning och
 
 omhändertagande av de varor som verksamheten tillverkar samt vilka
@@ -15492,13 +15492,13 @@ omhändertagande av de varor som verksamheten tillverkar samt vilka
 omfattas av Naturvårdsverkets föreskrifter NFS 2016:6 ska dessutom
 innehålla uppgifter om avloppsslammet avseende
 
-1. producerade och hanterade mängder,
-2. behandlingsmetoder,
+1\. producerade och hanterade mängder,
+2\. behandlingsmetoder,
 
-3. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
-4. hur slammet avsätts, och
+3\. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
+4\. hur slammet avsätts, och
 
-5. platser för avsättning.
+5\. platser för avsättning.
 
 Verksamheter som omfattas av anmälningsplikt C enligt 28 kap. 5 §
 miljöprövningsförordningen (2013:251)
@@ -15519,12 +15519,12 @@ uppgifter som anges i 4 § och 5 a § och högst tre månader med övriga
 uppgifter, om det finns särskilda skäl.
 Bestämmelsen gäller inte miljörapporter som avses i 1 § 2.
 
-1. Dessa föreskrifter träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
+1\. Dessa föreskrifter träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
 den miljörapport som ska ges in till tillsynsmyndigheten senast den 31 mars
-2026.
+2026\.
 
-3. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
+3\. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
 som ska ges in till tillsynsmyndigheten senast den 31 mars 2027.
 
 <!-- sida 395 -->
@@ -15547,34 +15547,34 @@ emot bygg- och rivningsavfall.
 Följande uppgifter ska lämnas:
 
 Mottagna avfallstyper
--  Avfallskod
+\-  Avfallskod
 
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
--  Hantering
--  Hanteringskod
--  Intern benämning (för hantering)
--  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
+\-  Hantering
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
+\-  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
 
 Internt uppkomna avfallstyper
--  Avfallskod
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
+\-  Avfallskod
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
 
 Transportör
--  Företagsnamn
+\-  Företagsnamn
 
 Mottagare
--  Anläggning
--  Organisationsnummer
--  Ort
+\-  Anläggning
+\-  Organisationsnummer
+\-  Ort
 Behandling hos mottagaren
--  Hanteringskod
--  Intern benämning (för hantering)
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
 
 Termerna i tabellen ovan har följande betydelse (presenteras i
 bokstavsordning):
@@ -15639,12 +15639,12 @@ avloppsvatten från tätbebyggelse ska följande rapporteras:
 
 (NFS 2019:7)
 
-* Även bedömningsunderlaget ska redovisas.
-** Om efterlevnad sker genom högsta koncentration per mättillfälle eller
+\* Även bedömningsunderlaget ska redovisas.
+\*\* Om efterlevnad sker genom högsta koncentration per mättillfälle eller
 minsta procentuella reduktion per mättillfälle ska samtliga provtagningsdatum
 med analysresultat redovisas.
 
-*** Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
+\*\*\* Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
 Beräkningen ska utgå från reduktionen i avloppsreningsanläggningen och
 naturlig kväveretention
 
@@ -15652,10 +15652,10 @@ naturlig kväveretention
 
 | Anslutning | - Tillståndsgiven anslutning (pe)<br>- Dimensionerande kapacitet (pe) |
 | --- | --- |
-| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
+| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)\*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)\*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
 | Inkommande till<br>avloppsrenings-anläggning | - COD , BOD , totalfosfor och totalkväve<br>Cr 7<br>i mängd och halt (kg, mg/l)<br>- Flöde (1 000 m3) |
 | Utgående från avloppseningsan-<br>läggning | - COD , BOD , totalfosfor, totalkväve,<br>Cr 7<br>NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i<br>4<br>mängd och halt (kg, mg/l) samt flöde (1 000<br>m3) för utgående renat avloppsvatten, bräd-<br>dat i eller vid avloppsreningsanläggningen,<br>och sammanvägd utgående mängd och halt<br>inklusive bräddning i eller vid avloppse-<br>ningsanläggningen |
-| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)**<br>Cr<br>- BOD (förvalda alternativ anges)**<br>7<br>- Totalkväve (förvalda alternativ anges)***<br>- Totalfosfor (förvalda alternativ anges) |
+| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)\*\*<br>Cr<br>- BOD (förvalda alternativ anges)\*\*<br>7<br>- Totalkväve (förvalda alternativ anges)\*\*\*<br>- Totalfosfor (förvalda alternativ anges) |
 
 <!-- sida 399 -->
 
@@ -15711,9 +15711,9 @@ Marianne Kängström
 
 Bilagor
 
-1. Förslag till ändrade föreskrifter
-2. Konsekvensutredning
-3. Bilaga till konsekvensutredning
+1\. Förslag till ändrade föreskrifter
+2\. Konsekvensutredning
+3\. Bilaga till konsekvensutredning
 
 BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
@@ -15727,87 +15727,87 @@ INTERNET: WWW.NATURVARDSVERKET.SE
 NATURVÅRDSVERKET                                              2(3)
 
 Sändlista
-1. Region Gotland
-2. Borgholms kommun
-3. Mörbylånga kommun
-4. Kalmar kommun
-5. Stockholms stad
-6. Norrtälje kommun
-7. Uppsala kommun
+1\. Region Gotland
+2\. Borgholms kommun
+3\. Mörbylånga kommun
+4\. Kalmar kommun
+5\. Stockholms stad
+6\. Norrtälje kommun
+7\. Uppsala kommun
 
-8. Nyköpings kommun
-9. Linköpings kommun
-10. Jönköpings kommun
-11. Alvesta kommun
-12. Oskarshamns kommun
-13. Ronneby kommun
-14. Kristianstads kommun
-15. Malmö stad
-16. Kungsbacka kommun
-17. Göteborgs stad
-18. Karlstads kommun
-19. Köpings kommun
-20. Leksands kommun
-21. Söderhamns kommun
-22. Sundsvalls kommun
-23. Östersunds kommun
+8\. Nyköpings kommun
+9\. Linköpings kommun
+10\. Jönköpings kommun
+11\. Alvesta kommun
+12\. Oskarshamns kommun
+13\. Ronneby kommun
+14\. Kristianstads kommun
+15\. Malmö stad
+16\. Kungsbacka kommun
+17\. Göteborgs stad
+18\. Karlstads kommun
+19\. Köpings kommun
+20\. Leksands kommun
+21\. Söderhamns kommun
+22\. Sundsvalls kommun
+23\. Östersunds kommun
 
-24. Luleå kommun
-25. Skövde kommun
-26. Simrishamns kommun
-27. Sveriges kommuner och regioner
-28. Länsstyrelsen Blekinge län
-29. Länsstyrelsen Dalarnas län
-30. Länsstyrelsen Gotlands län
-31. Länsstyrelsen Gävleborgs län
-32. Länsstyrelsen Hallands län
-33. Länsstyrelsen Jämtlands län
-34. Länsstyrelsen Jönköpings län
-35. Länsstyrelsen Kalmar län
-36. Länsstyrelsen Kronobergs län
-37. Länsstyrelsen Norrbottens län
-38. Länsstyrelsen Skåne län
-39. Länsstyrelsen Stockholms län
+24\. Luleå kommun
+25\. Skövde kommun
+26\. Simrishamns kommun
+27\. Sveriges kommuner och regioner
+28\. Länsstyrelsen Blekinge län
+29\. Länsstyrelsen Dalarnas län
+30\. Länsstyrelsen Gotlands län
+31\. Länsstyrelsen Gävleborgs län
+32\. Länsstyrelsen Hallands län
+33\. Länsstyrelsen Jämtlands län
+34\. Länsstyrelsen Jönköpings län
+35\. Länsstyrelsen Kalmar län
+36\. Länsstyrelsen Kronobergs län
+37\. Länsstyrelsen Norrbottens län
+38\. Länsstyrelsen Skåne län
+39\. Länsstyrelsen Stockholms län
 
-40. Länsstyrelsen Södermanlands län
-41. Länsstyrelsen Uppsala län
-42. Länsstyrelsen Värmlands län
-43. Länsstyrelsen Västerbottens län
-44. Länsstyrelsen Västernorrlands län
-45. Länsstyrelsen Västmanlands län
-46. Länsstyrelsen Västra Götalands län
-47. Länsstyrelsen Örebro län
+40\. Länsstyrelsen Södermanlands län
+41\. Länsstyrelsen Uppsala län
+42\. Länsstyrelsen Värmlands län
+43\. Länsstyrelsen Västerbottens län
+44\. Länsstyrelsen Västernorrlands län
+45\. Länsstyrelsen Västmanlands län
+46\. Länsstyrelsen Västra Götalands län
+47\. Länsstyrelsen Örebro län
 
 <!-- sida 402 -->
 
 NATURVÅRDSVERKET                                              3(3)
 
-48. Länsstyrelsen Östergötlands län
-49. Svea hovrätt – Mark- och miljööverdomstolen
-50. Nacka tingsrätt – Mark- och miljödomstolen
-51. Vänersborgs tingsrätt – Mark och miljödomstolen
-52. Växjö tingsrätt – Mark- och miljödomstolen
-53. Östersunds tingsrätt – Mark- och miljödomstolen
-54. Umeå tingsrätt – Mark- och miljödomstolen
-55. Havs- och vattenmyndigheten
-56. Jordbruksverket
-57. Livsmedelsverket
-58. Kammarkollegiet
-59. Kommerskollegium
-60. Försvarsinspektören för hälsa och miljö
-61. Statistikmyndigheten SCB
-62. Näringslivets regelnämnd
+48\. Länsstyrelsen Östergötlands län
+49\. Svea hovrätt – Mark- och miljööverdomstolen
+50\. Nacka tingsrätt – Mark- och miljödomstolen
+51\. Vänersborgs tingsrätt – Mark och miljödomstolen
+52\. Växjö tingsrätt – Mark- och miljödomstolen
+53\. Östersunds tingsrätt – Mark- och miljödomstolen
+54\. Umeå tingsrätt – Mark- och miljödomstolen
+55\. Havs- och vattenmyndigheten
+56\. Jordbruksverket
+57\. Livsmedelsverket
+58\. Kammarkollegiet
+59\. Kommerskollegium
+60\. Försvarsinspektören för hälsa och miljö
+61\. Statistikmyndigheten SCB
+62\. Näringslivets regelnämnd
 
-63. Regelrådet
-64. Svenskt näringsliv
-65. LRF
-66. Företagarna
-67. Svenskt vatten
-68. Avfall Sverige
-69. Sweco AB
-70. WSP Sverige AB
-71. AFRY AB
-72. Ramböll Sverige AB
+63\. Regelrådet
+64\. Svenskt näringsliv
+65\. LRF
+66\. Företagarna
+67\. Svenskt vatten
+68\. Avfall Sverige
+69\. Sweco AB
+70\. WSP Sverige AB
+71\. AFRY AB
+72\. Ramböll Sverige AB
 
 <!-- sida 403 -->
 
@@ -15825,9 +15825,9 @@ föreskrifter (NFS2016:8) om miljörapport
 
 Innehåll
 Sammanfattning .................................................................................................... 3
-1. Information om begränsningar i SMP ........................................................... 5
+1\. Information om begränsningar i SMP ........................................................... 5
 
-2. Förslag till föreskriftsändringar och konsekvensutredningar ........................ 5
+2\. Förslag till föreskriftsändringar och konsekvensutredningar ........................ 5
 2.1. Hänvisningar till miljöbalken (1 § 1 och 5 §) och tillägg i inledande
 bestämmelser (1 § 5) ......................................................................................... 5
 
@@ -15884,17 +15884,17 @@ NATURVÅRDSVERKET                                             2(29)
 2.7.2. Problem och lösning.................................................................... 25
 
 2.7.3. Analys ......................................................................................... 26
-3. Uppgifter om de bemyndiganden som myndighetens beslutanderätt grundar
+3\. Uppgifter om de bemyndiganden som myndighetens beslutanderätt grundar
 sig på ................................................................................................................... 26
 
-4. Överensstämmelse med de skyldigheter som följer av Sveriges anslutning
+4\. Överensstämmelse med de skyldigheter som följer av Sveriges anslutning
 till Europeiska unionen ....................................................................................... 27
-5. Tidpunkt för ikraftträdande och särskilda informationsinsatser .................. 28
+5\. Tidpunkt för ikraftträdande och särskilda informationsinsatser .................. 28
 
 5.1. Förslag till ikraftträdande och övergångsbestämmelser ...................... 28
 5.2. Analys ................................................................................................. 28
 
-6. Övrigt ........................................................................................................... 29
+6\. Övrigt ........................................................................................................... 29
 
 <!-- sida 405 -->
 
@@ -15961,7 +15961,7 @@ tal anläggningar.
 
 Uppgift om efterlevnad av begränsningsvärde för totalfosfor
 I avloppsföreskrifterna har det införts ändringar som började gälla den 1 januari
-2023. Det gäller bland annat att parametern totalfosfor lagts till när det gäller
+2023\. Det gäller bland annat att parametern totalfosfor lagts till när det gäller
 efterlevnad av begränsningsvärde. Motsvarande ändringar behöver införas i
 föreskrifterna om miljörapport. Ändringen syftar till att förbättra det rättsliga
 genomförandet av avloppsdirektivet (91/271/EEG) på grund av ett överträdelse-
@@ -15986,7 +15986,7 @@ som omfattas av EU:s bevattningsförordning.
 
 NATURVÅRDSVERKET                                             5(29)
 
-1. Information om begränsningar i SMP
+1\. Information om begränsningar i SMP
 Enligt 6 § andra stycket Naturvårdsverkets föreskrifter (NFS 2016:8) om
 miljörapport (miljörapportsföreskrifterna) ska miljörapporter lämnas in
 elektroniskt via Naturvårdsverkets e-tjänst för miljörapporter, Svenska
@@ -16015,7 +16015,7 @@ denna tid är det endast möjligt att lämna in uppgifterna i det som kallas
 ”textdelen” i SMP. Informationen blir därmed ostrukturerad. Ändringsförslagen
 nedan har behövt förhålla sig till detta.
 
-2. Förslag till föreskriftsändringar och konsekvensutredningar
+2\. Förslag till föreskriftsändringar och konsekvensutredningar
 
 2.1. Hänvisningar till miljöbalken (1 § 1 och 5 §) och tillägg i inledande
 bestämmelser (1 § 5)
@@ -16027,7 +16027,7 @@ Nuvarande lydelse          Föreslagen lydelse
 1 §
 Dessa föreskrifter innehåller Dessa föreskrifter innehåller
 bestämmelser om            bestämmelser om
-1. den miljörapport som en utövare av 1. den miljörapport som en utövare av
+1\. den miljörapport som en utövare av 1. den miljörapport som en utövare av
 tillståndspliktig verksamhet eller tillståndspliktig verksamhet eller
 verksamhet som förelagts att ansöka verksamhet som förelagts att ansöka
 
@@ -16048,7 +16048,7 @@ ska lämna varje år till tillsyns- till tillsynsmyndigheten enligt 26 kap.
 myndigheten enligt 26 kap. 20 § 20 § första stycket miljöbalken,
 första stycket miljöbalken,
 /…/                        /…/
-3. skyldighet för utövare av 3. skyldighet för utövare av
+3\. skyldighet för utövare av 3. skyldighet för utövare av
 verksamhet som inte är     verksamhet som inte är
 tillståndspliktig eller förelagts att tillståndspliktig eller förelagts att
 ansöka om tillstånd, men som ansöka om tillstånd, men som
@@ -16058,7 +16058,7 @@ Europaparlamentets och rådets Europaparlamentets och rådets
 förordning (EG) nr 166/2006, att förordning (EG) nr 166/2006, att
 lämna miljörapport och vad den ska lämna miljörapport och vad den ska
 innehålla, och             innehålla,
-4. skyldighet för utövare av 4. skyldighet för utövare av
+4\. skyldighet för utövare av 4. skyldighet för utövare av
 verksamhet som omfattar    verksamhet som omfattar
 avloppsledningsnät som är allmänna avloppsledningsnät som är allmänna
 enligt lagen (2006:412) om allmänna enligt lagen (2006:412) om allmänna
@@ -16068,7 +16068,7 @@ tillståndspliktig enligt   tillståndspliktig enligt
 miljöprövningsförordningen miljöprövningsförordningen
 (2013:251) att lämna miljörapport (2013:251) att lämna miljörapport
 och vad den ska innehålla. och vad den ska innehålla, och
-5. vilka uppgifter som en
+5\. vilka uppgifter som en
 verksamhetsutövare enligt 31 c §
 förordningen (1998:899) om
 
@@ -16083,7 +16083,7 @@ verksamheter som förelagts att verksamheter som förelagts att
 ansöka om tillstånd ska dessutom ansöka om tillstånd ska dessutom
 innehålla följande uppgifter: innehålla följande uppgifter:
 /…/                        /…/
-2. Datum och tillståndsgivande 2. Datum och tillståndsgivande
+2\. Datum och tillståndsgivande 2. Datum och tillståndsgivande
 myndighet för gällande     myndighet för gällande
 tillståndsbeslut enligt 9 kap. 6 § tillståndsbeslut enligt 9 kap. 6 § eller
 miljöbalken eller motsvarande i 6 a § miljöbalken eller motsvarande i
@@ -16177,7 +16177,7 @@ verksamheter som förelagts att verksamheter som förelagts att
 ansöka om tillstånd ska dessutom ansöka om tillstånd ska dessutom
 innehålla följande uppgifter: innehålla följande uppgifter:
 /…/                        /…/
-13. Redovisning av de betydande 13. Redovisning av de betydande
+13\. Redovisning av de betydande 13. Redovisning av de betydande
 åtgärder som genomförts under året i åtgärder som genomförts under året i
 
 syfte att minska volymen avfall från syfte att minska volymen avfall från
@@ -16250,7 +16250,7 @@ de uppgifter som behövs för att kunna avseende
 
 bedöma efterlevnaden av       1. producerade och hanterade
 föreskrifterna.                 mängder,
-2. behandlingsmetoder,
+2\. behandlingsmetoder,
 
 4 Bilaga till kommissionens förordning (EU) nr 1357/2014 av den 18 december 2014 om
 ersättning av bilaga III till Europaparlamentets och rådets direktiv 2008/98/EG av
@@ -16260,10 +16260,10 @@ den 19 november 2008 om avfall och om upphävande av vissa direktiv.
 
 NATURVÅRDSVERKET                                            10(29)
 
-3. innehåll av kemiska ämnen
+3\. innehåll av kemiska ämnen
 enligt föreskrivna analyskrav,
-4. hur slammet avsätts, och
-5. platser för avsättning.
+4\. hur slammet avsätts, och
+5\. platser för avsättning.
 
 2.3.2. Bakgrund och parallell reglering i slamföreskrifterna
 Viss registerhållning och miljörapportering av uppgifter om avloppsslam
@@ -16280,10 +16280,10 @@ miljöskyddslagen (1969:387) och från vilket slam har saluhållits eller överl
 för användning inom jordbruket, skall en gång per kalenderår lämna följande
 uppgifter till den myndighet som utövar tillsynen beträffande
 avloppsreningsverket enligt miljöskyddslagen:
-1. uppgifter om resultaten av analyser som har utförts enligt 11 §,
-2. uppgifter om de mängder, uttryckt i torrsubstans, som har levererats
+1\. uppgifter om resultaten av analyser som har utförts enligt 11 §,
+2\. uppgifter om de mängder, uttryckt i torrsubstans, som har levererats
 under det gångna året för användning i jordbruket,
-3. uppgifter om total mängd producerat avloppsslam, uttryckt i
+3\. uppgifter om total mängd producerat avloppsslam, uttryckt i
 torrsubstans, och vilken behandling som slammet har genomgått.
 Om tillsynen efter överlåtelse enligt 44 a § miljöskyddslagen (1969:387) utövas
 av en kommunal nämnd, skall uppgifterna även lämnas till länsstyrelsen.
@@ -17120,12 +17120,12 @@ följande rapporteras:      följande rapporteras:
 /…/                        /…/
 Efterlevnad av begränsningsvärden i Efterlevnad av begränsningsvärden i
 NFS 2026:6                 NFS 2026:6
-COD  (förvalda alternativ anges)** COD (förvalda alternativ anges)**
+COD  (förvalda alternativ anges)\*\* COD (förvalda alternativ anges)\*\*
 Cr                         Cr
-BOD  (förvalda alternativ anges)** BOD (förvalda alternativ anges)**
+BOD  (förvalda alternativ anges)\*\* BOD (förvalda alternativ anges)\*\*
 7                          7
 Totalkväve (förvalda alternativ Totalkväve (förvalda alternativ
-anges)***                  anges)***
+anges)\*\*\*                  anges)\*\*\*
 Totalfosfor (förvalda alternativ
 anges)
 /…/                        /…/
@@ -17191,7 +17191,7 @@ uppgifter vidare till EU om hur Sverige uppfyller avloppsdirektivet. Genom
 införandet minskar Sverige risken att bryta mot bestämmelserna i
 avloppsdirektivet.
 
-3. Uppgifter om de bemyndiganden som myndighetens beslutanderätt
+3\. Uppgifter om de bemyndiganden som myndighetens beslutanderätt
 grundar sig på
 
 Naturvårdsverket har ett bemyndigande enligt 47 a § 1 FMH att, i fråga om
@@ -17240,7 +17240,7 @@ vilken det inte krävs något särskilt bemyndigande.
 Bemyndigandena i 47 a § FMH är meddelade av regeringen med stöd av 26 kap.
 20 b § miljöbalken.
 
-4. Överensstämmelse med de skyldigheter som följer av Sveriges
+4\. Överensstämmelse med de skyldigheter som följer av Sveriges
 anslutning till Europeiska unionen
 Flera av våra förslag berör skyldigheter som följer av Sveriges anslutning till
 Europeiska unionen.
@@ -17274,15 +17274,15 @@ Vi bedömer att de föreslagna ändringarna i övrigt överensstämmer med och i
 går utöver de skyldigheter som följer av Sveriges anslutning till Europeiska
 unionen.
 
-5. Tidpunkt för ikraftträdande och särskilda informationsinsatser
+5\. Tidpunkt för ikraftträdande och särskilda informationsinsatser
 5.1. Förslag till ikraftträdande och övergångsbestämmelser
 
 Ikraftträdande och övergångsbestämmelser
-1. Dessa föreskrifter träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas för första
+1\. Dessa föreskrifter träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas för första
 gången på den miljörapport som ska ges in till tillsynsmyndigheten
 senast den 31 mars 2026.
-3. Övriga bestämmelser ska tillämpas för första gången på den
+3\. Övriga bestämmelser ska tillämpas för första gången på den
 miljörapport som ska ges in till tillsynsmyndigheten senast
 den 31 mars 2027.
 
@@ -17290,7 +17290,7 @@ den 31 mars 2027.
 
 Enligt den sedvanliga processen för revidering av miljörapportsföreskrifterna
 föreslås ändringarna träda i kraft efter nästa årsskifte, det vill säga den 1 januari
-2026. Naturvårdsverket brukar också införa en övergångsbestämmelse som
+2026\. Naturvårdsverket brukar också införa en övergångsbestämmelse som
 innebär att ändringarna ska tillämpas första gången på den miljörapport som ska
 ges in till tillsynsmyndigheten nästföljande år, det vill säga 2027 i det här fallet.
 För några av de föreslagna ändringarna i årets revidering behöver dock
@@ -17343,7 +17343,7 @@ närmare vägleda dels om vilka uppgifter som behövs enligt artiklarna i
 förordningen, dels på vilket sätt miljörapporterna ska ges in (se mer under
 avsnitt 2.4 och 2.5).
 
-6. Övrigt
+6\. Övrigt
 
 Vi bedömer att inga särskilda hänsyn behöver tas till små företag vid någon av
 de föreslagna bestämmelsernas utformning.
@@ -17616,17 +17616,17 @@ Parterna beslutar självständigt i genomförandet av sina respektive anläggnin
 §5 om det inte påverkar förutsättningarna för hela projektet. För övrigt gäller följande:
 
 Trafikverkets ansvar
-1. Trafikverket ska utföra åtgärd 2 som omfattas av detta avtal §§5 och 6.
-2. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
+1\. Trafikverket ska utföra åtgärd 2 som omfattas av detta avtal §§5 och 6.
+2\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas de åtgärderna som Trafikverket ansvarar för.
-3. Trafikverket ansvarar för att tillsätta bevakande projektledare som kommer att
+3\. Trafikverket ansvarar för att tillsätta bevakande projektledare som kommer att
 fungera som kontaktperson vid frågor.
-4. Trafikverket blir efter godkänt färdigställande och överlämning av den nya
+4\. Trafikverket blir efter godkänt färdigställande och överlämning av den nya
 belysningen ägare och ansvarig för drift och underhåll av den nya belysningen.
 0
 .1   Kommunens ansvar
 s
-1. Ska utföra åtgärd 1 som omfattas av detta avtal §§5 och 6.
+1\. Ska utföra åtgärd 1 som omfattas av detta avtal §§5 och 6.
 n
 a    2. Ansvarar för att tillämpliga lagar och andra författningar samt myndighetsbeslut
 n
@@ -17637,7 +17637,7 @@ e s - 4. Ansvarar för att den bevakande projektledaren kallas till erforderliga
 le
 m       ta del av erforderligt material för genomförande av uppgifterna enligt §5.
 m
-5. Ska informera bevakningsledare om det uppkommer en risk att åtgärd kan påverka
+5\. Ska informera bevakningsledare om det uppkommer en risk att åtgärd kan påverka
 o
 k
 s       Trafikverkets anläggning på något sätt.
@@ -17686,20 +17686,20 @@ FIFA för att denne ska besluta om att utfärda föreskrift.
 Länk till FIFA:
 https://fifa.trafikverket.se/FIFA/Login.aspx?ReturnUrl=%2fFIFA%2f
 
-9. Kungsbackas entreprenör kan fortsätta att registrera framtida åtgärder och
+9\. Kungsbackas entreprenör kan fortsätta att registrera framtida åtgärder och
 eventuella tillfälliga trafikföreskrifter i tillåten TA-plan – löpnr 2024:3218 (nytt dnr
 sökas). Registreringen ska göras senast 15 arbetsdagar innan åtgärden på vägen
 planeras påbörjas.
-10. Vägvisning: Om åtgärder skapar behov av förändrad vägvisning eller justering av
+10\. Vägvisning: Om åtgärder skapar behov av förändrad vägvisning eller justering av
 befintlig vägvisning kräver det ett beslut från Trafikverket. Information och ansökan
 görs via: https://www.trafikverket.se / sökord ”vägvisning”.
-11. Kungsbacka kommun ansvarar för upprättande av relationshandlingar och
+11\. Kungsbacka kommun ansvarar för upprättande av relationshandlingar och
 resultatdokumentation. Handlingarna ska upprättas enligt Trafikverkets krav, för
 relationsritningar i format dwg och pdf. Genomgång av omfattningen sker på möte
 inför projektets genomförande. Handlingarna ska levereras till Trafikverkets
 system, Chaos före överlämnande av anläggningen till Trafikverket.
-12. Kungsbacka kommun ansvarar för garantiåtagandet.
-13. Kungsbacka kommun ansvarar för att anläggningen utformas enligt VGU 2024
+12\. Kungsbacka kommun ansvarar för garantiåtagandet.
+13\. Kungsbacka kommun ansvarar för att anläggningen utformas enligt VGU 2024
 https://www.trafikverket.se/ / sökord ”VGU”.
 0
 .1
@@ -17712,7 +17712,7 @@ I de fall projektet avbryts står kommunen för de kostnader som dittills nedlag
 a
 e
 S
--
+\-
 s le Kungsbacka kommun ska stå för samtliga kostnader för åtgärd 1 och 2.
 m
 m
@@ -17778,9 +17778,9 @@ projektet är slutfört, slutbesiktigat och godkänt. Då överlämningen är kl
 Detta avtal är giltigt från och med den tidpunkt när det undertecknats av parterna och
 under förutsättning av:
 
--  att eventuella ytterligare för åtgärden nödvändiga planer och tillstånd vunnit laga
+\-  att eventuella ytterligare för åtgärden nödvändiga planer och tillstånd vunnit laga
 kraft
--  att eventulla ytterligare åtgärder i den statliga anläggningen ansöks om i särskilt
+\-  att eventulla ytterligare åtgärder i den statliga anläggningen ansöks om i särskilt
 ärende/avtal
 0
 .1
@@ -17830,14 +17830,14 @@ Sidor
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
-_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                   Ort och datum
 
-_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson Enhetschef       Ulrika Granfors Enhetschef
 Infrastrukturplanering Väg      Förvaltningschef för Teknik
 Trafikverket Västra regionen    Kungsbacka kommun
@@ -18121,7 +18121,7 @@ INSPIRATION - DEN NYA STADSDELEN         35
 2   STRÅK    OCH   GATOR                     15        INSPIRATION - DETALJER & MOTIV           36
 7B. BOSTADSNÄRA PARKEN                   54
 STRÅK OCH GATOR                          16        INSPIRATION - GÅRDSINDENTITET            37
-8. BOSTADSGÅRD                           55
+8\. BOSTADSGÅRD                           55
 VARBERGSVÄGEN                             17       INSPIRATION - AKTIVA KANTZONER / KVARTERSGATOR 38
 LANTMANNAGATAN & HANTVERKSGATAN          19        INSPIRATION - KANTZONER                  39
 KORSNINGEN LANTMANNAGATAN - HANTVERKSGATAN 20      INSPIRATION - BALKONGER OCH BURSPRÅK     40
@@ -18234,8 +18234,8 @@ spridningskorridor för fåglar och insekter.
 
 För övrigt finns det idag få inslag av grönska i området.
 
-4. UTDRAG UR SYDÖSTRA KUNGSBACKA, PLANINRIKTNING,
-3. SYDÖSTRA KUNGSBACKA, PLANINRIKTNING, 2018-10-04.
+4\. UTDRAG UR SYDÖSTRA KUNGSBACKA, PLANINRIKTNING,
+3\. SYDÖSTRA KUNGSBACKA, PLANINRIKTNING, 2018-10-04.
 2018-10-04.
 
 6
@@ -19038,7 +19038,7 @@ A
 N
 2
 V
-1.
+1\.
 K
 A
 1
@@ -20281,7 +20281,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 490 -->
 
-1. MOT   SÖDER,    VARBERGSVÄGEN
+1\. MOT   SÖDER,    VARBERGSVÄGEN
 
 1
 
@@ -20290,7 +20290,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 491 -->
 
-2. BOSTADSNÄRA        PARKEN
+2\. BOSTADSNÄRA        PARKEN
 
 2
 
@@ -20299,7 +20299,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 492 -->
 
-3. KVARTERSGATAN
+3\. KVARTERSGATAN
 
 3
 
@@ -20335,7 +20335,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 496 -->
 
-5. HANTVERKSGATAN
+5\. HANTVERKSGATAN
 
 1
 5
@@ -20358,7 +20358,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 497 -->
 
-6. TVÄRSTRÅKET        ÖVER   LANTMANNAGATAN
+6\. TVÄRSTRÅKET        ÖVER   LANTMANNAGATAN
 
 6
 
@@ -20385,7 +20385,7 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 500 -->
 
-8. BOSTADSGÅRD
+8\. BOSTADSGÅRD
 
 8
 
@@ -20696,7 +20696,7 @@ Planen medför en förtätning av centrala Kungsbacka. En förtätning av staden
 positiva effekter för en hållbar stadsutveckling, så som bostäder med närhet till god kollek-
 tivtrafik och underlag för ett rikt näringsliv.
 Planförslaget går i linje med gällande fördjupning av översiktsplan för Kungsbacka stad,
-2009.
+2009\.
 
 Kommunen gör den sammanvägda bedömningen att planförslaget inte bedöms ge upphov
 till betydande miljöpåverkan.
@@ -22423,7 +22423,7 @@ Planförslaget som helhet underlättar för gång-, cykel- och kollektivtrafik v
 målet om minskade utsläpp från fossila bränslen i linje med klimatstrategin.
 
 Planförslaget har även klimatanpassats utifrån framtagen skyfallsutredning (DHI 2024-11-
-20) genom höjdsättning av GATA och VÄG.
+20\) genom höjdsättning av GATA och VÄG.
 
 Kulturvärden och arkeologi
 
@@ -23232,8 +23232,8 @@ utformning och skydd av marken.
 | --- | --- | --- |
 |  | Prickmark | Byggnad får inte uppföras. Balkonger och burspråk<br>får kraga ut högst 1,5 meter från fasad och 3,5 meter<br>ovan mark. Syftar till att reglera och begränsa bygg-<br>rätten. |
 |  | Plusmark | Endast komplementbyggnader får uppföras. |
-| h₁ | Höjd på byggnadsverk | Högsta nockhöjd är <angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd på<br>ny flerbostadshusbebyggelse över angivet nollplan<br>samt våningsantal. |
-| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter över<br>angivet nollplan som får uppföras i högst fem vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
+| h₁ | Höjd på byggnadsverk | Högsta nockhöjd är \<angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd på<br>ny flerbostadshusbebyggelse över angivet nollplan<br>samt våningsantal. |
+| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter över<br>angivet nollplan som får uppföras i högst fem vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
 
 <!-- sida 563 -->
 
@@ -23241,12 +23241,12 @@ utformning och skydd av marken.
 
 [Tabell 563-1](handlingar.tabeller/563-1.csv)
 
-| h₃ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter över<br>angivet nollplan som får uppföras i högst sju vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
+| h₃ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter över<br>angivet nollplan som får uppföras i högst sju vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
 | --- | --- | --- |
-| h₄ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter över<br>angivet nollplan som får uppföras i högst sex vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
-| h₅ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter över<br>angivet nollplan som får uppföras i högst fyra vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
+| h₄ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter över<br>angivet nollplan som får uppföras i högst sex vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
+| h₅ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter över<br>angivet nollplan som får uppföras i högst fyra vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
 | h₆ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är +51,5 meter över<br>angivet nollplan som får uppföras i högst fjorton (14)<br>våningar. Syftar till att begränsa högsta nockhöjd på<br>ny flerbostadshusbebyggelse över angivet nollplan<br>samt våningsantal. |
-| h₇ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter över<br>angivet nollplan som får uppföras i högst två vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
+| h₇ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter över<br>angivet nollplan som får uppföras i högst två vå-<br>ningar. Syftar till att begränsa högsta nockhöjd på ny<br>flerbostadshusbebyggelse över angivet nollplan samt<br>våningsantal. |
 | n₁ | Markens anordnande | Marken får inte förses med byggnad eller annan<br>anläggning ovan mark, undantaget parkering för<br>rörelsehindrad samt cykelparkering. Balkonger och<br>burspråk får kraga ut över 4,0 ovan mark. Syftet är att<br>kvartersgatorna ska ha en karaktär av gårdsyta men<br>ändå vara framkomliga för exempelvis räddningsfor-<br>don. |
 | n2 | Markens anordnande | Maximalt tillåten markbelastning ur stabilitetssyn-<br>punkt är 10 kPa. |
 | u₁ | Markreservat för all-<br>männyttiga ändamål | Markreservat för allmännyttiga underjordiska led-<br>ningar. |
@@ -23356,34 +23356,34 @@ motsvarande 50% av fasadens längd.
 Gata upp till en höjd av 2,7 meter ovan mark.
 Höjd på byggnadsverk
 Endast lägenheter i bottenvåning medges ej
-Gata upp till en höjd av 4,7 meter ovan mark.        Högsta nockhöjd är <angivet> meter över              inom kvarteret som helhet.
+Gata upp till en höjd av 4,7 meter ovan mark.        Högsta nockhöjd är \<angivet> meter över              inom kvarteret som helhet.
 angivet nollplan.
 Park.                                                                                                     Byggnadens djup får vara högst 14,0 meter.
-Högsta nockhöjd på byggnad är <angivet>              Utöver detta får burspråk och balkonger
+Högsta nockhöjd på byggnad är \<angivet>              Utöver detta får burspråk och balkonger
 Väg.
 meter över angivet nollplan som får uppföras i       finnas.
 högst fem våningar.
 Väg upp till en höjd av 3,6 meter ovan mark.                                                              Mast för teknisk anläggning tillåts sticka upp
-Högsta nockhöjd på byggnad är <angivet>              ovan högsta tillåtna nockhöjd.
+Högsta nockhöjd på byggnad är \<angivet>              ovan högsta tillåtna nockhöjd.
 Kvartersmark
 meter över angivet nollplan som får uppföras i
 Byggnader inom egenskapsområdet ska
 Bostäder.                                            högst sju våningar.
 uppföras i minst två olika våningsantal.
-Högsta nockhöjd på byggnad är <angivet>
+Högsta nockhöjd på byggnad är \<angivet>
 Centrum.                                                                                                  Byggnader inom egenskapsområdet ska
 meter över angivet nollplan som får uppföras i
 uppföras i minst tre olika våningsantal.
 Pumpstation.                                         högst sex våningar.
 Entré/entréer ska finnas mot Varbergsvägen.
-Högsta nockhöjd på byggnad är <angivet>
+Högsta nockhöjd på byggnad är \<angivet>
 Transformatorstation.
 meter över angivet nollplan som får uppföras i       Byggnader ska vara sammanbyggda mot
 Detaljhandel.                                        högst fyra våningar.                                 Varbergsvägen.
 Industri.                                            Högsta nockhöjd på byggnad är +51,5 meter            I bottenplan ska öppna passager in till gården
 över angivet nollplan som får uppföras i högst       finnas för varje kvarter. Bestämmelsen gäller
 Kontor.                                              fjorton (14) våningar.                               inom hela egenskapsområdet.
-Parkeringshus.                                       Högsta nockhöjd på byggnad är <angivet>
+Parkeringshus.                                       Högsta nockhöjd på byggnad är \<angivet>
 Marken får inte förses med byggnad upp till en
 meter över angivet nollplan som får uppföras i
 Bostäder från och med en höjd av 2,7 meter                                                                höjd av 4,7 meter ovan mark.
@@ -23451,7 +23451,7 @@ Medelljuddämpad sida menas fasad som har
 Utformning av allmän plats
 en ekvivalent ljudnivå nattetid om högst 70
 Markens höjd över nollplanet ska vara                dBA.
-<angivet> meter.                                     Högst en in- och utfart för fordon får anordnas
+\<angivet> meter.                                     Högst en in- och utfart för fordon får anordnas
 Stödmur eller liknande till en höjd av 0,2 meter     samt högst två entréer för fotgängare får
 får uppföras.                                        anordnas i fasad som vetter mot järnvägen.
 Trädrad ska finnas.
@@ -23533,7 +23533,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas.
 
@@ -23675,7 +23675,7 @@ handlingarna med avvägningar gällande stadssilluett samt beskrivit hur befintl
 
 ska hanteras under genomförandet av detaljplanen.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Delar av planen som måste förbättras
 
@@ -23745,7 +23745,7 @@ Lantmäteriet efterfrågar förtydligande gällande genomförandeavtalet.
 
 Kommentar: Planhandlingarna är kompletterade enligt Lantmäteriets önskemål.
 
-3. Statens geotekniska institut
+3\. Statens geotekniska institut
 
 SGI skriver i sitt yttrande att de ser att det kvarstår, från geoteknisk säkerhetssynvinkel, oklarheter som
 behöver förtydligas i det fortsatta planarbetet. SGI tar upp att det i norra delen av planområdet finns
@@ -23780,7 +23780,7 @@ Kommentar: Kommunen har kompletterat de geotekniska utredningarna enligt SGI:s
 synpunkter inför granskningen av planen samt infört planbestämmelser med
 belastningsrestriktioner samt krav på pålning där så krävs.
 
-4. Trafikverket
+4\. Trafikverket
 
 Transportsnål planering
 Trafikverket skriver i sitt yttrande att de ser positivt på att kommunen planerar för bostäder i centrala
@@ -23868,17 +23868,17 @@ planen är planområdet och spåret avskilt av Söderå.
 
 Sakägare
 
-5. Brf Söderå
+5\. Brf Söderå
 
 Styrelsen är positiv till den nya detaljplanen men vill tydliggöra att ökad boende/kontor och trafik i
 området kommer påverka vår BRF, vilket föranleder följande synpunkter och funderingar som måste
 tas i beaktande av kommunen:
 
-1. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
+1\. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
 och därmed trafik. Varbergsvägen är redan nu högt belastad och kommer troligtvis inte kunna hantera
 så mycket mer trafik. Hur kommer kommunen hantera den ökade trafiken?
 
-2. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
+2\. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
 öka kraftigt med ökad trafik. En buller-plan för både fordonstrafik samt tågtrafik måste tas fram som
 inte bara innefattar den nya detaljplanen men även de kringliggande områden (fastigheter norrut från
 tilltänkt stadsdel). Hur säkerställer kommunen att bullernivåer inte överskrider de nivåer som är
@@ -23889,7 +23889,7 @@ lagstadgade och reglerade?
 KUNGSBACKA  KOMMUN
 10 (19)
 
-3. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
+3\. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
 fastigheter i närområdet. Byggnation och trafik till tilltänkt stadsdel kommer medföra tunga fordon
 vilket kan riskera skada (sättningar i mark + fastigheter) vilket inte alltid täcks av försäkringsbolag, hur
 kommer denna typen av påverkan och extra kostnader hanteras av kommunen som vår BRF kan
@@ -23907,7 +23907,7 @@ utbyggnadstiden. De företag som utför åtgärder blir ansvariga för eventuell
 skador på grund av byggnationen på intilliggande fastigheter, Sådant regleras
 genom försäkringar och kan inte regleras genom detaljplanen.
 
-6. Scanova
+6\. Scanova
 
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet.
 
@@ -23928,7 +23928,7 @@ hitta lösningar för placering av kabelstråk.
 KUNGSBACKA  KOMMUN
 11 (19)
 
-7. E.ON
+7\. E.ON
 
 Inom området har E.ON ett befintligt elnät som består av markförlagda låg- och
 mellanspänningskablar samt en transformatorstation KBN-030 Lantmannagatan 3 se bifogade
@@ -23955,7 +23955,7 @@ reparation och underhåll försvåras.
 
 Vår transformatorstation KBN-030 Lantmannagatan 3 noterar vi hamnat inom gatumark, vilket vi inte
 kan acceptera. Vi vill antingen att befintlig station säkras med E1-område (blå markering).
-Eller nytt E1-område inom röd markering se bilaga `förslag stationsplaceringar´.
+Eller nytt E1-område inom röd markering se bilaga \`förslag stationsplaceringar´.
 Vi kan konstatera att vi i planen behöver ytterligare 2st E1-områden för kommande stationer, se våra
 
 önskemål och förslag. Vi vill bygga fristående nätstationer för vår distribution, de ska ej byggas in i
@@ -24000,7 +24000,7 @@ Kommentar: Synpunkterna är beaktade inom ramen för arbetet med genomförandest
 lösningar för placering av kabelstråk samt transformatorstationer.
 
 Kommunala förvaltningar och nämnder
-8. Teknik
+8\. Teknik
 Nämnden för Teknik instämmer i planförslaget vad gäller blandad bebyggelse, parkeringshus i
 utkanterna av området, parker, stråk och möjlighet att bredda Varbergsvägen. Nämnden för teknik
 instämmer med BN:s förslag 27/3 2022 § 90 gällande korsningsutformning mellan Lantmannagatan
@@ -24022,7 +24022,7 @@ granskningshandlingen.
 KUNGSBACKA  KOMMUN
 13 (19)
 
-9. Vård och omsorg
+9\. Vård och omsorg
 
 Vård & Omsorg skriver i sitt yttrande att de vill betona att fastigheterna och kvarteret utformas på ett
 sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning.
@@ -24030,7 +24030,7 @@ sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktions
 I övrigt så har Vård & Omsorg inga synpunkter på förslaget.
 Kommentar: Noteras
 
-10. Service
+10\. Service
 
 Service tar upp i sitt yttrande att det är viktigt att redan i planskedet ta i beaktning placeringen av
 respektive BMSS. Service anser att det inte är önskvärt att de tre planerade BMSS hamnar för nära
@@ -24046,7 +24046,7 @@ som enligt BBR kräver de höjderna.
 Kommentar: BmSS regleras inte i plankartan då de kan inrymmas under B, bostäder.
 Placering är inte fastslagen. Synpunkten noteras till kommande skede.
 
-11. Kultur och fritid
+11\. Kultur och fritid
 
 Kulturmiljö
 Kultur och fritid skriver att bebyggelsen som ska rivas enligt planförslaget inte är utpekat som
@@ -24104,7 +24104,7 @@ riskfyllda platser.
 Lekytor kommer finnas inom området i den norra parken men även i den bostadsnära parken
 samt på kvartersgatorna som ska fungera som förlängning av bostadsgårdarna.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 Miljö och hälsa tar upp framtagen bullerutredning och att gällande riktvärden överskrids för ekvivalent
 
 ljudnivå vid fasad utmed Varbergsvägen, Hantverkargatan och Lantmannagatan. Enligt
@@ -24180,7 +24180,7 @@ Kommentar: Uppdaterad bullerutredning är framtagen. Vibrationsutredning är fra
 Planområdet har höjdsats i plankartan. Saneringskrav är infört som
 planbestämmelse.
 
-13. Individ & Familjeomsorg
+13\. Individ & Familjeomsorg
 
 Nämnden för Individ & Familjeomsorg tillstyrker framtagen Detaljplan för blandad stadsbebyggelse
 inom Sydöstra Centrum etapp 1 i Kungsbacka. Nämnden för Individ & Familjeomsorg vill samtidigt
@@ -24189,7 +24189,7 @@ Kommentar: Noteras
 
 Övriga
 
-14. Hallandstrafiken
+14\. Hallandstrafiken
 Hallandstrafiken skriver att de ser mycket positivt till utökning av tätorten längst prioriterade
 kollektivtrafikshuvudstråk. Med närhet till både hållplats med bra turtäthet och närhet till stationen
 anser Hallandstrafiken att det ger området stor potential för ökat hållbart resande.
@@ -24214,7 +24214,7 @@ Yttrandet är även förankrat med Västtrafik.
 
 Kommentar: Noteras
 
-15. Privatperson 1
+15\. Privatperson 1
 I inkommet yttrande från privatperson framförs kritik till hur kommunala skattemedel hanteras på ett
 felaktigt sätt enligt privatperson 1. Yttrandet beskriver hur privatperson 1 kunnat läsa i lokalpressen
 om hur politikerna i byggnadsnämnden samt kommunstyrelsen frångått framtagna utredningar
@@ -24224,7 +24224,7 @@ planområdet. Yttrandet handlar om den trafiklösning som planförslaget innehå
 Lantmannagatan och Hantverksgatan.
 Kommentar: Noteras
 
-16. Privatperson 2
+16\. Privatperson 2
 
 Privatperson 2 skriver i sitt yttrande att bygga en förtätad stad är det absolut sämsta alternativet om vi
 skall möta framtiden. Troligtvis blir den traditionellt förtätade stadskärnan obeboelig på somrarna runt
@@ -24242,7 +24242,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 18 (19)
 
-17. Räddningstjänsten Storgöteborg
+17\. Räddningstjänsten Storgöteborg
 
 Räddningstjänsten skriver i sitt yttrande om riskhänsyn, framkomlighet och brandvattenförsörjning.
 Gällande riskhänsyn påtalar räddningstjänsten att det inte framgår hur baskraven i länsttyrelsens
@@ -24259,13 +24259,13 @@ bedömer därför frågan som hanterad.
 Kommentar: Planbestämmelser är införda i plankartan för att säkerställa att baskraven
 uppfylls gällande risk
 
-18. Ellevio
+18\. Ellevio
 Ellevio har genom sitt yttrande meddelat att de har inga ledningar eller andra anläggningar i eller i
 närheten av planområdet och avstår därför från att yttra sig i ärendet.
 
 Kommentar: Noteras
 
-19. Närliggande verksamhet
+19\. Närliggande verksamhet
 En närliggande verksamhet har under samrådstiden skrivit ett yttrande med ett antal frågor då de nåtts
 av information och rykten kring kommunens planering i området.
 Verksamhetens representant undrar främst om Kungsbacka 4:67 berörs av planförslaget.

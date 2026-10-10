@@ -307,7 +307,7 @@ prognos 2024
 Sammanfattning av ärendet
 Nämnden för Gymnasium & Arbetsmarknad prognostiserar ett överskott på 5 mkr
 för verksamhetsåret 2024. Gymnasieverksamheten prognostiserar underskott för
-2024. Resterande verksamheter prognostiserar överskott.
+2024\. Resterande verksamheter prognostiserar överskott.
 
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till april
 2024 har varit fortsatt stabil inom de flesta verksamheter. Det finns utmaningar i
@@ -518,8 +518,8 @@ Sammanfattning av ärendet
 
 Följande protokoll har inkommit:
 
-1. Motorbranchcollege
-2. Verksamhetsråd- arbetsmarknadsenheten
+1\. Motorbranchcollege
+2\. Verksamhetsråd- arbetsmarknadsenheten
 
 Anna Thomander (S) var på motorbranchcollege. Det finns behov av
 förbränningsmotorer. Skulle det vara möjligt att få bilar att öva på och i så fall
@@ -554,45 +554,45 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Dom från Förvaltningsrätten i Göteborg
+1\. Dom från Förvaltningsrätten i Göteborg
 
-2. Protokoll från FSG-mötet den 7 maj 2024
-3. Styrelseprotokoll från Samordningsförbundet
+2\. Protokoll från FSG-mötet den 7 maj 2024
+3\. Styrelseprotokoll från Samordningsförbundet
 
-4. Beslut om tilldelning av medel
-5. Tjänsteskrivelse om begäran av medel för att främja välmående och motverka
+4\. Beslut om tilldelning av medel
+5\. Tjänsteskrivelse om begäran av medel för att främja välmående och motverka
 psykisk ohälsa inom Gymnasium & Arbetsmarknad
 
-6. Beslut om entledigande och fyllnadsval för ersättare i nämnden för Gymnasium &
+6\. Beslut om entledigande och fyllnadsval för ersättare i nämnden för Gymnasium &
 Arbetsmarknad
-7. Beslut om svar på motion från Ermir Skoric (S) m fl angående projekt för
+7\. Beslut om svar på motion från Ermir Skoric (S) m fl angående projekt för
 skolresor till Förintelsens minnesplatser
 
-8. Svar på motion från Ermir Skoric (S) m fl angående projekt för skolresor till
+8\. Svar på motion från Ermir Skoric (S) m fl angående projekt för skolresor till
 Förintelsens minnesplatser (tjänsteskrivelse)
 
-9. Godkännande av program för mål, uppföljning och insyn i verksamheter utförd av
+9\. Godkännande av program för mål, uppföljning och insyn i verksamheter utförd av
 privata aktörer 2024-2027
-10. Program för mål, uppföljning och insyn i verksamhet utförd av privata aktörer
+10\. Program för mål, uppföljning och insyn i verksamhet utförd av privata aktörer
 2024-2027 (Skrivelse)
 
-11. Program för mål, uppföljning och insyn i verksamhet utförd av privata aktörer
+11\. Program för mål, uppföljning och insyn i verksamhet utförd av privata aktörer
 2024-2027
-12. Godkännande av policy och riktlinjer för finansverksamhet samt regler för
+12\. Godkännande av policy och riktlinjer för finansverksamhet samt regler för
 
 fakturering och kravhantering
-13. Regler för fakturering och kravhantering
+13\. Regler för fakturering och kravhantering
 
-14. Gemensamt reglemente för kommunstyrelsen och nämnderna
-15. Reglemente för kommunstyrelsen
+14\. Gemensamt reglemente för kommunstyrelsen och nämnderna
+15\. Reglemente för kommunstyrelsen
 
-16. Riktlinjer för finansverksamhet
-17. Finansverksamhetspolicy
+16\. Riktlinjer för finansverksamhet
+17\. Finansverksamhetspolicy
 
-18. Årsberättelse för kommunrevisionen
-19. Revisionsrapport 2023
+18\. Årsberättelse för kommunrevisionen
+19\. Revisionsrapport 2023
 
-20. Beslut om årsredovisning
+20\. Beslut om årsredovisning
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E7F0BB1551E37D0B452C10CFF017F54D9302C2CB11
@@ -605,11 +605,11 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-05-15
 
-21. Årsredovisning för Kungsbacka kommun 2023
-22. Revisionsrapport 2023 och beslut om ansvarsfrihet
+21\. Årsredovisning för Kungsbacka kommun 2023
+22\. Revisionsrapport 2023 och beslut om ansvarsfrihet
 
-23. Taxa för specialkollektivtrafik 2024
-24. Godkännande av färdtjänsttaxa 2024
+23\. Taxa för specialkollektivtrafik 2024
+24\. Godkännande av färdtjänsttaxa 2024
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
@@ -645,7 +645,7 @@ föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten g
 själva ta över ärendet och fatta beslut.
 
 Fattade delegeringsbeslut enligt bifogad lista för perioden 2024-03-01 till 2024-03-
-31.
+31\.
 
 Beslut anställning enligt 7.2 delegeringsordningen enligt bifogad lista för perioden
 2024-04-01 till 2024-04-30.

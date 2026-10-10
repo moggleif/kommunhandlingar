@@ -154,10 +154,10 @@ korttidsplatser ökat. Öppnandet av Signeshus har minskat belastningen, men ett
 volymunderskott om drygt 24 mnkr kvarstår.
 
 Flera parallella arbeten pågår för att få en budget i balans.
-* Schema ses över för att arbetad tid ska bättre matcha verksamhetens behov.
+\* Schema ses över för att arbetad tid ska bättre matcha verksamhetens behov.
 
-* Arbetet förstärks med att gemensamt dela på arbetad tid genom resurstid.
-* Verksamheten säkerställer att alla scheman följer budget och att verksamhetschef
+\* Arbetet förstärks med att gemensamt dela på arbetad tid genom resurstid.
+\* Verksamheten säkerställer att alla scheman följer budget och att verksamhetschef
 godkänner samtliga utökningar.
 
 Det här dokumentet är digitalt signerat
@@ -171,24 +171,24 @@ Nämnden för Vård & Omsorg
 Datum
 2026-09-17
 
-* GIB samordnar genomförandet av de schemaförändringar som varje enhet behöver
+\* GIB samordnar genomförandet av de schemaförändringar som varje enhet behöver
 göra.
-* Verksamheten har tillsatt en central uppföljningsgrupp som regelbundet följer upp
+\* Verksamheten har tillsatt en central uppföljningsgrupp som regelbundet följer upp
 de beslutade åtgärderna och säkerställer att de får avsedd effekt i verksamheten.
 
-* Förvaltningen har tagit beslut om att förstärka arbetet för korttidsrekrytering, för att
+\* Förvaltningen har tagit beslut om att förstärka arbetet för korttidsrekrytering, för att
 i möjligaste mån undvika inbeordringar.
 
-* Samtliga enheter har mottagit beslut om att överanställa 15 % över verksamhetens
+\* Samtliga enheter har mottagit beslut om att överanställa 15 % över verksamhetens
 behov. Verksamheter har också börjat förstärka verksamheten med så kallade löpare,
 som kan täcka i ordinarie verksamhet vid korttidsfrånvaro.
-* Förlängd introduktion för biträden och vårdbiträden för att nå målet om
+\* Förlängd introduktion för biträden och vårdbiträden för att nå målet om
 överanställning.
 
-* Differentiering av karriärvägsmodellen så att kompetens används till att tillgodose
+\* Differentiering av karriärvägsmodellen så att kompetens används till att tillgodose
 rätt behov.
 
-* Förvaltningen har mottagit statsbidrag för kompetensförsörjning inom hälso-och
+\* Förvaltningen har mottagit statsbidrag för kompetensförsörjning inom hälso-och
 sjukvården.
 
 Beslutsunderlag

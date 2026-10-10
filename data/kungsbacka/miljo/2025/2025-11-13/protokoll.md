@@ -107,10 +107,10 @@ Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Ramfördelning driftbudget
-* Investeringsbudget
+\* Ramfördelning driftbudget
+\* Investeringsbudget
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet

@@ -216,14 +216,14 @@ vuxenutbildningen gällande verksamhetsår 2023.
 
 Nämnden för Gymnasium och Arbetsmarknad godkänner att fokusområden för
 vuxenutbildningen under 2024 är:
-1. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa den
+1\. Fortsatt utveckling av sfi - För ökad genomströmning och bättre resultat följa den
 föreslagna handlingsplanen
 
-2. Upphandling - Förberedelse och implementering av nytt avtal
-3. Implementering av nytt verksamhetssystem EdLevo - Översyn av administrativa
+2\. Upphandling - Förberedelse och implementering av nytt avtal
+3\. Implementering av nytt verksamhetssystem EdLevo - Översyn av administrativa
 processer och övergång från Alvis till EdLevo
 
-4. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
+4\. Jobbspår och förberedande jobbspår - Fortsätta arbetet med nya innovativa
 utbildningsinsatser i nära samverkan med arbetsgivare.
 
 Sammanfattning av ärendet
@@ -537,14 +537,14 @@ May-Louise Flyrin (S) reserveras sig till det av nämnden, tagna beslutet.
 Sammanfattning av ärendet
 
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
 för Gymnasium & Arbetsmarknad för beredning. Förvaltningen bedömer att
@@ -845,19 +845,19 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Inbjudan En skola för alla 2024
+1\. Inbjudan En skola för alla 2024
 
-2. Protokoll FSG juni
-3. Anteckningar från möte med revisionen
+2\. Protokoll FSG juni
+3\. Anteckningar från möte med revisionen
 
-4. Revisionsplan 2024
-5. Riktlinje om körkortsstipendium
+4\. Revisionsplan 2024
+5\. Riktlinje om körkortsstipendium
 
-6. Styrelseprotokoll Samordningsförbundet Halland
-7. Redovisning av icke färdigberedda motioner
+6\. Styrelseprotokoll Samordningsförbundet Halland
+7\. Redovisning av icke färdigberedda motioner
 
-8. Ombudget investeringar 2023
-9. Riktlinjer Informationssäkerhet
+8\. Ombudget investeringar 2023
+9\. Riktlinjer Informationssäkerhet
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &

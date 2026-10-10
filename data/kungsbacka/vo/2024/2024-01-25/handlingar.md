@@ -227,13 +227,13 @@ Kategorier av stöd inom förvaltningen
 Flera förvaltningar i kommunen hanterar ärenden enligt Socialtjänstlagen men inom Vård & Omsorg
 hanteras ansökningar om:
 
--  Hemtjänst
--  Trygghetslarm
--  Dagomsorg
--  Kontaktperson
--  Korttidsplats
--  Växelvård
--  Särskilt boende
+\-  Hemtjänst
+\-  Trygghetslarm
+\-  Dagomsorg
+\-  Kontaktperson
+\-  Korttidsplats
+\-  Växelvård
+\-  Särskilt boende
 
 3 Socialtjänstlag (2001:453) | Sveriges riksdag (riksdagen.se)
 4 Handläggning av ärenden om hemtjänstinsatser av servicekaraktär - meddelandeblad (socialstyrelsen.se)

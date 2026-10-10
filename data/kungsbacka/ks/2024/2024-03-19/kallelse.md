@@ -112,7 +112,7 @@ KUNGSBACKA  KOMMUN
 
 5(6)
 
-22. Antagande av policy och 2023-00627 Förslag till beslut i kommunfullmäktige
+22\. Antagande av policy och 2023-00627 Förslag till beslut i kommunfullmäktige
 riktlinjer för                 Kommunfullmäktige antar Policy för
 finansverksamheten samt        finansverksamhet, daterad 2023-12-19.
 regler för fakturering och

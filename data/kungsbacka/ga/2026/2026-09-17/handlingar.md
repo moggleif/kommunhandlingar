@@ -121,9 +121,9 @@ lokalbehov.
 
 Inför kommande beslut om lokalplan lämnas information om följande behov:
 
--  Anpassad gymnasieskola Aranäsgymnasiet
--  Anpassad gymnasieskola Aranäsgymnasiet - Extern etablering
--  Ekonomiprogrammet Elof Lindälvs gymnasium
+\-  Anpassad gymnasieskola Aranäsgymnasiet
+\-  Anpassad gymnasieskola Aranäsgymnasiet - Extern etablering
+\-  Ekonomiprogrammet Elof Lindälvs gymnasium
 
 Behoven har bearbetats vidare sedan informationen i juni och utgör underlag inför nämndens beslut
 om lokalplan i oktober.
@@ -235,7 +235,7 @@ Händelser av väsentlig betydelse
 
 Ekonomi
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 19,3 miljoner kronor (mkr) för verksamhetsåret
-2026. Gymnasieverksamheten beräknas redovisa ett underskott, medan övriga verksamheter förväntas bidra
+2026\. Gymnasieverksamheten beräknas redovisa ett underskott, medan övriga verksamheter förväntas bidra
 med positiva resultat.
 Ekonomin inom Gymnasium & Arbetsmarknad har under perioden januari till augusti 2026 varit stabil i de
 flesta verksamheter. Samtidigt finns ekonomiska utmaningar, främst inom gymnasieverksamheten, där
@@ -327,10 +327,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande, målgrupper och berörda
@@ -377,11 +377,11 @@ Delårsrapport augusti 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
@@ -389,7 +389,7 @@ tillhörande fokusområden genom att arbeta för att främja ungas välmående, 
 resultatmål.
 I 2026 års elevenkät svarade 62 procent av eleverna att de mått mycket bra eller ganska bra under de senaste sex
 månaderna. Detta innebär en liten ökning jämfört med 2024 och 2025 och resultatet är nu i paritet med 2022 och
-2023.
+2023\.
 I årets enkät ställdes även en kompletterande fråga om orsaker till stress. Av de elever som uppgav
 stressrelaterade besvär angav 69 procent skolarbetet som orsak, följt av osäker framtid (19 procent).
 
@@ -504,8 +504,8 @@ månaderna
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -639,8 +639,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av nämndens arbete med målet
 Gymnasieskolans resultat
 
@@ -755,10 +755,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad har inte brutit ned detta kommunövergripande mål med tillhörande
 fokusområde i egna nämndsmål, utan förvaltningen arbetar direkt mot målet genom olika typer av aktiviteter.
@@ -903,9 +903,9 @@ kommunstyrelsen.
 Direktivet om civil beredskap är med som ett av de prioriterade områdena i förvaltningens genomförandeplan,
 vilket har inneburit att vi har kunnat sätta extra fokus på området.
 Förvaltningen har framför allt arbetat för att uppnå:
-- En stärkt riskmedvetenhet
-- En höjd krisberedskap och robusthet i förvaltningen
-- En förbättrad krishanteringsförmåga, samt
+\- En stärkt riskmedvetenhet
+\- En höjd krisberedskap och robusthet i förvaltningen
+\- En förbättrad krishanteringsförmåga, samt
 
 14
 
@@ -913,7 +913,7 @@ Förvaltningen har framför allt arbetat för att uppnå:
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2026
-- En ökad trygghet
+\- En ökad trygghet
 Arbetet har fortlöpt planenligt under året. Organisationen av säkerhets- och beredskapsarbetet har utvecklats
 med säkerhetssamordnare och säkerhetsgrupper för respektive verksamhet. Vidare har förvaltningens
 krisledningsgrupp övat i stabsmetodik.
@@ -1345,7 +1345,7 @@ Utfall och prognos
 
 Sammanfattning - text till kommunstyrelsen
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 19,3 miljoner kronor (mkr) för verksamhetsåret
-2026. Gymnasieverksamheten beräknas redovisa ett underskott, medan övriga verksamheter förväntas bidra
+2026\. Gymnasieverksamheten beräknas redovisa ett underskott, medan övriga verksamheter förväntas bidra
 med positiva resultat.
 Ekonomin inom Gymnasium & Arbetsmarknad har under perioden januari till augusti 2026 varit stabil i de
 flesta verksamheter. Samtidigt finns ekonomiska utmaningar, främst inom gymnasieverksamheten, där
@@ -1680,7 +1680,7 @@ gymnasium samt Aranäsgymnasiet för läsåren 2027–2028.
 
 Beskrivning
 
-1. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
+1\. Utbudsplanering inför läsåret 2027–2028 vid Elof Lindälvs gymnasium:
 
 • Ekonomiprogrammet: 160 platser
 
@@ -1692,7 +1692,7 @@ Beskrivning
 • Fordons- och transportprogrammet: 44 platser
 • Teknikprogrammet: 96 platser. Utökning med 32 platser.
 
-2. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
+2\. Utbudsplanering inför läsåret 2027–2028 vid Aranäsgymnasiet:
 • Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form, teater).
 
 • Naturvetenskapsprogrammet: 96 platser
@@ -1719,7 +1719,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-3. Utbudsplanering inför läsåret 2027–2028-NIU:
+3\. Utbudsplanering inför läsåret 2027–2028-NIU:
 
 Basket: 6 platser i ÅK1
 

@@ -170,9 +170,9 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 bifogade handlingar.
 
 Förvaltningen redovisar:
-- ett överskott på driftbudgeten om +1,5 miljoner kronor
+\- ett överskott på driftbudgeten om +1,5 miljoner kronor
 
-- ett överskott på investeringsbudgeten om +18,1 miljoner kronor
+\- ett överskott på investeringsbudgeten om +18,1 miljoner kronor
 
 Beslutsunderlag
 
@@ -359,10 +359,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -454,7 +454,7 @@ genom att främja samhällsengagemang och utveckla föreningsdemokratin. Vi info
 som önskar ansöka om stöd ska säkerställa att de uppfyller de grundvillkor som krävs för att vara
 stödberättigade, om att hälsocertifieringen numera är en obligatorisk del av att bli en stödberättigad förening,
 om de nya stödformerna utvecklingsstöd och föreningsuppdrag, att utveckling- och utbildningsbidraget upphör
-2026. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
+2026\. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
 Vi har upphandlat och implementerat ett nytt boknings- och bidragssystem, som syftar till att öka
 
 7
@@ -522,11 +522,11 @@ Nämndens årsredovisning 2025
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -588,7 +588,7 @@ Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 %   85 %      85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -598,23 +598,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 72 %   79 %      73 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 93 %   92 %      89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -643,7 +643,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115      151
@@ -666,8 +666,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -734,8 +734,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -831,11 +831,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1018,7 +1018,7 @@ genom att främja samhällsengagemang och utveckla föreningsdemokratin. Vi info
 som önskar ansöka om stöd ska säkerställa att de uppfyller de grundvillkor som krävs för att vara
 stödberättigade, om att hälsocertifieringen numera är en obligatorisk del av att bli en stödberättigad förening,
 om de nya stödformerna utvecklingsstöd och föreningsuppdrag, att utveckling- och utbildningsbidraget upphör
-2026. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
+2026\. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
 Förbättrad tillgänglighet till kommunala lokaler och anläggningar
 
 Vi har upphandlat och implementerat ett nytt boknings- och bidragssystem, som syftar till att öka
@@ -1083,7 +1083,7 @@ mellan stolarna och får olika information.
 Fler skolpersonal har utbildats i att genomföra lektioner om trygghet på nätet och informera vårdnadshavare vid
 föräldramöten. Även politiker och medarbetare inom individ- och familjeomsorg har deltagit i utbildningarna.
 
-#Tryggdigitaluppväxt har breddats till fler områden, bland annat frågor kopplade till nätet och alkohol,
+\#Tryggdigitaluppväxt har breddats till fler områden, bland annat frågor kopplade till nätet och alkohol,
 narkotika, doping, tobak samt spel om pengar. Ett särskilt fokus har lagts på att sprida kunskap om och
 uppmärksamma risken för att unga dras in i kriminella nätverk via sociala medier och krypterade tjänster.
 
@@ -1660,21 +1660,21 @@ pilot för att under hösten 2025 arbeta fram ett nytt arbetssätt som syftade t
 individuella behov, intressen och förutsättningar. Genom att erbjuda ett mer varierat och meningsfullt
 aktivitetsutbud skapas flera förväntade nyttor:
 
-1. Ökad livskvalitet och välbefinnande:
+1\. Ökad livskvalitet och välbefinnande:
 Aktiviteter som stimulerar både kropp och sinne bidrar till att stärka självkänslan, öka glädjen i
 vardagen och skapa en känsla av meningsfullhet för de äldre.
-2. Förbättrad fysisk och psykisk hälsa:
+2\. Förbättrad fysisk och psykisk hälsa:
 Regelbundna och anpassade aktiviteter kan motverka stillasittande, minska risken för ofrivillig
 ensamhet, depression, och stimulera kognitiva funktioner, vilket i sin tur kan leda till ett minskat
 vårdbehov.
-3. Ökad delaktighet och social samvaro:
+3\. Ökad delaktighet och social samvaro:
 Ett rikare aktivitetsutbud främjar gemenskap och motverkar ensamhet. Boende får fler möjligheter att
 interagera med varandra och med personal, vilket stärker den sociala sammanhållningen.
-4. Individanpassad omsorg:
+4\. Individanpassad omsorg:
 Genom att ta tillvara på de boendes tidigare intressen och livserfarenheter genom arbetet med
 levnadsberättelser och genomförandeplaner, kan aktiviteterna anpassas så att varje individ känner sig
 sedd, hörd och värdefull.
-5. Stärkt anhörigrelation:
+5\. Stärkt anhörigrelation:
 Anhöriga upplever ofta en ökad trygghet och tillfredsställelse när de ser att deras närstående får en
 meningsfull vardag med möjlighet till engagemang och glädje.
 Projektet har därmed lagt en stabil grund för fortsatt utveckling och implementering av meningsfulla aktiviteter i
@@ -1711,7 +1711,7 @@ Nämndens årsredovisning 2025
 5.1 Analys verksamhetsmått
 
 Talen kommer från Kulturbarometern, en enkät som besvaras av invånare i åldrarna 18-75 och började mätas år
-2024. Allt eftersom enkäten genomförs kan djupare analys göras.
+2024\. Allt eftersom enkäten genomförs kan djupare analys göras.
 
 31
 
@@ -3120,29 +3120,29 @@ kommun.
 Taxa 3:  Företag och övriga som inte omfattas av taxa 1 och taxa 2.
 
 1.2 Övriga villkor
--  Priserna är angivna i kronor per timme om ej annat anges.
+\-  Priserna är angivna i kronor per timme om ej annat anges.
 
--  Andrahandsuthyrning är inte tillåtet. Dock kan avsteg tillåtas efter avstämning med förvaltningen för
+\-  Andrahandsuthyrning är inte tillåtet. Dock kan avsteg tillåtas efter avstämning med förvaltningen för
 Kultur & Fritid.
--  Förvaltningen har rätt att avboka eller justera din bokade tid. Tilldelad träningstid kan avbokas till
+\-  Förvaltningen har rätt att avboka eller justera din bokade tid. Tilldelad träningstid kan avbokas till
 förmån för matcher, evenemang eller underhåll. Kunden ska informeras inom skälig tid, normalt sju
 dagar, och kan ej kräva kompensation.
 
--  I avgiften ingår omklädningsrum i den mån det finns tillgängliga utifrån anläggningens
+\-  I avgiften ingår omklädningsrum i den mån det finns tillgängliga utifrån anläggningens
 förutsättningar. Det innebär att vi inte kan garantera att det alltid finns tillräckligt med
 omklädningsrum.
--  Vid uthyrning till kommersiella verksamheter och evenemang av stort publikt intresse upprättas
+\-  Vid uthyrning till kommersiella verksamheter och evenemang av stort publikt intresse upprättas
 särskilt avtal.
 
--  Bokning av större evenemang kontakta föreningsservice för offert.
--  Vid evenemang ansvarar arrangören själv för framtagning och borttagning av utrustning samt
+\-  Bokning av större evenemang kontakta föreningsservice för offert.
+\-  Vid evenemang ansvarar arrangören själv för framtagning och borttagning av utrustning samt
 
 iordningsställande av anläggningen, om inget annat avtalats.
--  Bemanning i form av extra tekniker debiteras per timme inklusive moms.
+\-  Bemanning i form av extra tekniker debiteras per timme inklusive moms.
 
--  Befintlig utrustning i en anläggning ingår, vid transporteras till annan lokal eller anläggning ska
+\-  Befintlig utrustning i en anläggning ingår, vid transporteras till annan lokal eller anläggning ska
 transportkostnad debiteras.
--  Vid skadegörelse eller om lokalen ej lämnas i godtagbart skick debiteras kunden eventuella
+\-  Vid skadegörelse eller om lokalen ej lämnas i godtagbart skick debiteras kunden eventuella
 extrakostnader.
 
 Kungsbacka kommun         Hyror och avgifter 2026               2
@@ -3651,20 +3651,20 @@ vilka tankar man har om det fortsatta arbetet.
 
 Vi önskar därför att vi senast vid nämndens majmöte får
 
--  en rapport om hur historien gjorts synlig och utvecklats
--  en rapport om hur turismverksamheten inkluderat och utvecklat
+\-  en rapport om hur historien gjorts synlig och utvecklats
+\-  en rapport om hur turismverksamheten inkluderat och utvecklat
 
 lokalhistorien i sin verksamhet
--  en presentation om hur man framgent vill utveckla om rådet kring
+\-  en presentation om hur man framgent vill utveckla om rådet kring
 
 medeltidsborgen Hunehals utifrån de nya rön som den senaste
 arkeologiska utgrävningarna givit.
 
--
+\-
 
 Birgitta Tingdal (s)
 
--  -
+\-  -
 
 <!-- sida 89 -->
 

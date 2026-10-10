@@ -561,10 +561,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 11
 
@@ -589,11 +589,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 12
 
@@ -621,8 +621,8 @@ Nämndbudget 2025
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 13
@@ -662,8 +662,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
@@ -671,12 +671,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 14
 
@@ -1905,7 +1905,7 @@ Sammanfattning av ärendet
 Nämnden för Service har fått tillfälle att yttra sig över remissen om Kungsbacka kommuns
 Bostadsförsörjningsplan 2025-2029, med svar till Kommunstyrelsen senast 2024-12-14.
 Kungsbacka kommun har tagit fram ett nytt förslag till bostadsförsörjningsplan för perioden 2025–
-2029. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
+2029\. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
 gång per mandatperiod fastställa riktlinjer för bostadsförsörjningen. Dessa riktlinjer syftar till att
 säkerställa att alla har möjlighet till en trygg och ändamålsenlig bostad, genom att både tillgodose
 
@@ -1952,10 +1952,10 @@ och bygger på analyser av demografi, marknad och bostadsbehov med hänsyn till 
 regionala mål.
 Målen är:
 
-1. Tillgängliggöra fler bostadsytor i en hållbar takt.
-2. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
+1\. Tillgängliggöra fler bostadsytor i en hållbar takt.
+2\. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
 
-3. Bostadsförsörjningen ska främja social sammanhållning.
+3\. Bostadsförsörjningen ska främja social sammanhållning.
 Del 2 är en statistikbilaga till Bostadsförsörjningsprogrammet 2025–2029. Bilaga innehåller statistik
 
 och analyser som stödjer och motiverar de beslut som presenteras i planen. Den täcker demografisk
@@ -2190,9 +2190,9 @@ Denna del innehåller de huvudsakliga målen för bostadsförsörjningen i kommu
 insatser som planeras för att uppnå dessa mål. Tre övergripande mål för
 bostadsförsörjningen i Kungsbacka kommun har identifierats:
 
-1. Tillgängliggöra fler bostadsytor i en hållbar takt.
-2. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
-3. Bostadsförsörjningen ska främja social sammanhållning.
+1\. Tillgängliggöra fler bostadsytor i en hållbar takt.
+2\. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
+3\. Bostadsförsörjningen ska främja social sammanhållning.
 
 Del 2: Statistik och underlag
 Denna del består av underlagsmaterial som utgör basen för bostadsförsörjningsplanen. Här
@@ -2235,7 +2235,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -2243,27 +2243,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 57 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -2428,7 +2428,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 61 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -2443,12 +2443,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -2780,7 +2780,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -2788,11 +2788,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -3126,7 +3126,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -3669,7 +3669,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -4550,7 +4550,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -4831,7 +4831,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -5038,7 +5038,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -5376,7 +5376,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -6088,7 +6088,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -6407,11 +6407,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -6458,7 +6458,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -7069,7 +7069,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning

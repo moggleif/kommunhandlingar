@@ -25,7 +25,7 @@ tolkade: null
 
 <!-- sida 1 -->
 
-X$ Serigedemokraterna
+X\$ Serigedemokraterna
 
 Initiativärende Kungsbacka 210214
 SES, digitalt interaktivt verktyg för Kungsbackas invånare
@@ -70,10 +70,10 @@ snarast möjligt.
 
 Med anledning av ovan föreslår Sverigedemokraterna
 
-- Att förvaltningschefen får i uppdrag att utreda möjligheten att upphandla och erbjuda
+\- Att förvaltningschefen får i uppdrag att utreda möjligheten att upphandla och erbjuda
 Kungsbackas invånare det digitala verktyget SES
 
-- > Att förvaltningschefen efter utredning återkommer till nämnden för redovisning och för
+\- > Att förvaltningschefen efter utredning återkommer till nämnden för redovisning och för
 beslut i saken.
 
 <!-- sida 2 -->
@@ -536,14 +536,14 @@ Vid förfall för förvaltningschefen inträder den person som är utsedd till
 
 förvaltningschefens ersättare eller ställföreträdare.
 Vid förfall för övriga delegater
-1) annan delegat med samma titel anställd på annan enhet och som har erforderlig
+1\) annan delegat med samma titel anställd på annan enhet och som har erforderlig
 kunskap inom aktuellt område. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
 och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1636,13 +1636,13 @@ medarbetarundersökning utifrån de fem övergripande målen som kommunfullmäkt
 oktober 2020. I motionen framförs även att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål. Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 
 och nämnden för Vård & Omsorg för beredning.
@@ -1834,16 +1834,16 @@ bättre arbetsmiljö.
 Under hösten 2020 antog kommunfullmäktige fem övergripande arbetsmiljömål som ligger i
 fokus för den egna verksamheten i kommunen. Dessa är:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Nämnden Individ och Familjeomsorg och nämnden Vård och Omsorg har många
 beröringspunkter inte minst utifrån nuvarande reglementen, lagområden, målgrupper och

@@ -237,7 +237,7 @@ systemet. När ett kommungemensamt system används är varje nämnd personuppgif
 
 behandlingen, men avtalen hanteras gemensamt genom att beslutanderätten delegeras från alla
 nämnder till biträdande kommundirektör. Se Kommunstyrelsens förvaltnings tjänsteskrivelse 2023-12-
-08.
+08\.
 Bygg-och miljöförvaltningen bedömer att det nya sättet att strukturera samarbetet kring
 personuppgiftsbehandling inom kommunen medför tydlighet och minskad administration. Det i sin tur
 gör det enklare att arbeta som Ett Kungsbacka. Genom de föreslagna delegeringarna möjliggörs att ha

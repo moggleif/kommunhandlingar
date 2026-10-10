@@ -592,7 +592,7 @@ Rapport olycksfall och tillbud              Kungsbacka kommun
 
 2.1.4 Skola F-6 anmälda händelser 2025 juli - december
 I skolan F-6 inklusive fritidshem har 441 händelser anmälts under andra halvåret
-2025. De flesta händelserna, 434 händelser är anmälda som olycksfall, tillbud eller
+2025\. De flesta händelserna, 434 händelser är anmälda som olycksfall, tillbud eller
 riskobservation. Diagrammen för anmälda händelser per månad, enhet och
 skadeorsak/risk visar därför endast dessa händelsetyper.
 
@@ -847,15 +847,15 @@ Skolinspektionen har genomfört en riktad tillsyn av Toråsskolan 4-6 och i besl
 brister inom tre områden samt en anmärkning. Detta resulterade i ett föreläggande med krav på
 åtgärder senast den 16 mars 2026.
 
-1. Rektor ska säkerställa att elever som upprepat stör ordningen eller begår allvarliga förseelser
+1\. Rektor ska säkerställa att elever som upprepat stör ordningen eller begår allvarliga förseelser
 utreds. Åtgärder ska beslutas utifrån utredningens resultat, samråd ska ske med vårdnadshavare
 och antal påbörjade utredningar under perioden 2025-12-05 till och med 2026-03-11 ska
 dokumenteras och redovisas till Skolinspektionen.
-2. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att anmäla till
+2\. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att anmäla till
 
 rektor när en elev upplever sig utsatt för kränkande behandling. Vidare ska det dokumenteras
 för när samt hur informationen har lämnats.
-3. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling till rektor
+3\. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling till rektor
 samt att rektor ska dokumentera hur många anmälningar som kommit in och anmälts vidare till
 huvudman under perioden 2025-12-05 – 2026-03-11.
 
@@ -926,7 +926,7 @@ Skolinspektionen i samband med huvudmannens redovisning av vidtagna åtgärder. 
 
 Under perioden 5 december 2025 till och med 19 februari 2026, har två utredningar
 gällande upprepat ordningsstörande beteende, startats.
-*Under perioden 5 december 2025 till och med 11 mars 2026, har --- utredningar gällande
+\*Under perioden 5 december 2025 till och med 11 mars 2026, har --- utredningar gällande
 upprepat ordningsstörande beteende, startats. (Kompletteras innan inskick till
 Skolinspektionen.)
 
@@ -1032,7 +1032,7 @@ samband med huvudmannens redovisning av vidtagna åtgärder. (6 kap. 5 och 10 §
 Under perioden 5 december 2025 till och med 19 februari 2026, har sju anmälningar om
 misstänkt kränkande behandling inkommit och anmälts till huvudman.
 
-*Under perioden 5 december 2025 till och med 11 mars 2026, har --- anmälningar om
+\*Under perioden 5 december 2025 till och med 11 mars 2026, har --- anmälningar om
 misstänkt kränkande behandling inkommit och anmälts till huvudman. (Kompletteras innan
 inskick till Skolinspektionen.
 Under läsåret 25–26 genomfördes en utbildningsinsats där alla lärare tog del av Skolverkets
@@ -1136,7 +1136,7 @@ kommun@kungsbacka.se
 Ärendet
 
 Tillsyn av grundskolan Toråsskolan 4–6 i Kungsbacka kommun.
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 
@@ -1156,7 +1156,7 @@ skollagen inte överklagas.
 
 Kungsbacka kommun ska vidta följande åtgärder
 
-1. Se till att rektor säkerställer att det genomförs utredningar gällande
+1\. Se till att rektor säkerställer att det genomförs utredningar gällande
 de elever som upprepat har stört ordningen, uppträtt olämpligt
 eller gjort sig skyldiga till en allvarlig förseelse. Därefter ska det
 med utgångspunkt i vad utredningen visat, genomföras åtgärder för
@@ -1166,7 +1166,7 @@ dokumentera hur många utredningar som startats under perioden
 5 december 2025 - 11 mars 2026. Denna dokumentation ska ges in
 till Skolinspektionen i samband med huvudmannens redovisning av
 vidtagna åtgärder. (5 kap. 9-10 §§ skollagen)
-2. Se till att rektorn, vid minst ett tillfälle innan den 16 mars 2026
+2\. Se till att rektorn, vid minst ett tillfälle innan den 16 mars 2026
 klargör skyldigheten för all skolpersonal att de vid kännedom om
 att en elev upplever sig utsatt för kränkande behandling ska göra en
 anmälan till rektorn. Huvudmannen eller den som huvudmannen
@@ -1182,7 +1182,7 @@ SKOLINSPEKTIONEN                               Sida 2 (11)
 
 samband med huvudmannens redovisning av vidtagna åtgärder. (2
 kap. 34 § och 6 kap. 10 § skollagen)
-3. Se till att personal som får kännedom om att en elev anser sig ha
+3\. Se till att personal som får kännedom om att en elev anser sig ha
 blivit utsatt för kränkande behandling i samband med
 verksamheten anmäler detta till rektorn. Rektorn ska dokumentera
 hur många sådana anmälningar som inkommit och som anmälts till
@@ -1605,16 +1605,16 @@ Skolinspektionen har genomfört en riktad tillsyn av Toråsskolan 4-6 och i besl
 konstaterades brister inom tre områden samt en anmärkning. Detta resulterade i ett
 föreläggande med krav på åtgärder senast den 16 mars 2026.
 
-1. Rektor ska säkerställa att elever som vi upprepade tillfällen stör ordningen eller
+1\. Rektor ska säkerställa att elever som vi upprepade tillfällen stör ordningen eller
 begår allvarliga förseelser utreds. Åtgärder ska beslutas utifrån utredningens resultat,
 samråd ska ske med vårdnadshavare och antal påbörjade utredningar under perioden
 2025-12-05 till och med 2026-03-11 ska dokumenteras och redovisas till
 Skolinspektionen.
 
-2. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att
+2\. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att
 anmäla till rektor när en elev upplever sig utsatt för kränkande behandling. Vidare
 ska det dokumenteras för när samt hur informationen har lämnats.
-3. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling
+3\. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling
 till rektor samt att rektor ska dokumentera hur många anmälningar som kommit in
 
 och anmälts vidare till huvudman under perioden 2025-12-05 – 2026-03-11.
@@ -1709,7 +1709,7 @@ Egenkontroller och avvikelsehantering är utförda som del i det systematiska pa
 Beslutsunderlag
 
 Förvaltningen för Förskola & Grundskola tjänsteskrivelse, 2026-02-16. Patientsäkerhetsberättelse
-2025.
+2025\.
 
 1 (2)
 FG Myndighet & Stöd                                       Kungsbacka kommun
@@ -1789,12 +1789,12 @@ INLEDNING                                                    2
 SAMMANFATTNING ...............................................................................................................4
 
 1.Engagerad ledning och tydlig styrning ..............................................................................5
-2. En god säkerhetskultur ...................................................................................................7
-3. Adekvat kunskap och kompetens ..................................................................................14
-4. Patienten som medskapare ..........................................................................................16
-5. Resultat/analys .............................................................................................................17
+2\. En god säkerhetskultur ...................................................................................................7
+3\. Adekvat kunskap och kompetens ..................................................................................14
+4\. Patienten som medskapare ..........................................................................................16
+5\. Resultat/analys .............................................................................................................17
 
-6. Mål och utmaningar för kommande år ..........................................................................25
+6\. Mål och utmaningar för kommande år ..........................................................................25
 
 Begreppsförklaring
 
@@ -1939,12 +1939,12 @@ PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
 
--  Förebyggande och hälsofrämjande insatser för att stödja elever
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
--  Hälsosamtal/kontroller där identifiering av insatser ska upptäckas så att eleven får
+\-  Förebyggande och hälsofrämjande insatser för att stödja elever
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Hälsosamtal/kontroller där identifiering av insatser ska upptäckas så att eleven får
 
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 Utifrån dessa övergripande mål tas även mål för patientsäkerhetsarbete fram. De bygger på
 det systematiska kvalitetsarbete inom elevhälsans medicinska del som sker under året.
 
@@ -1999,7 +1999,7 @@ Strategier för detta:
 
 Se över utredningsprocess och riktlinjer/mallar och kompetensbehov
 
-2. En god säkerhetskultur
+2\. En god säkerhetskultur
 
 En grundläggande förutsättning för en säker vård är en god
 säkerhetskultur. Organisationen ger då förutsättningar för en kultur som
@@ -2356,13 +2356,13 @@ Intern samverkan
 En god säkerhetskultur inom verksamheten där lärande, kommunikation och reflektion är
 ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan består av bland
 annat:
--  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
--  Ledningsmöten Elevhälsans medicinska insats
--  Samverkan mellan EMI samt övrig elevhälsa
+\-  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\-  Ledningsmöten Elevhälsans medicinska insats
+\-  Samverkan mellan EMI samt övrig elevhälsa
 
--  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\-  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
-3. Adekvat kunskap och kompetens
+3\. Adekvat kunskap och kompetens
 
 En grundläggande förutsättning för en säker vård är att det finns
 tillräckligt med personal som har adekvat kompetens och goda
@@ -2422,43 +2422,43 @@ Handledning i grupp erbjuds.
 Fortbildning och kompetensutveckling
 
 Kontinuerlig fortbildning (återkommande) EMI Centralt
--  Kompetensutvecklingsdag (heldag)
+\-  Kompetensutvecklingsdag (heldag)
 
--  Yrkesspecifik utbildning i journalsystem
--  Skolsköterskedagarna (2 dagars utbildning)
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Yrkesspecifik utbildning i journalsystem
+\-  Skolsköterskedagarna (2 dagars utbildning)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2025 EMI Centralt
--  Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
--  Tillväxt- Falldiskussioner (Region Halland- Anton Holmberg Barnendokrinolog)
+\-  Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
+\-  Tillväxt- Falldiskussioner (Region Halland- Anton Holmberg Barnendokrinolog)
 
--  Skolsköterskedagarna Malmö
--  Tillväxtprojektdag – Halmstad sjukhus
--  Webbutbildningar – (Barn och cancer- skolsköterskans roll, Vitt snus och e-cigg
+\-  Skolsköterskedagarna Malmö
+\-  Tillväxtprojektdag – Halmstad sjukhus
+\-  Webbutbildningar – (Barn och cancer- skolsköterskans roll, Vitt snus och e-cigg
 användning och risker, ANTDS-nuläge,
--  Ögonsjukdomar (Charlotta Busch-Skolläkare)
--  Prematurfödda barn- Utmaningar i skolan (Pontus Johansson Neonatalog)
--  Barn HLR (Pontus Johansson, Barnläkare HLR rådets expert/Barn HLR)
+\-  Ögonsjukdomar (Charlotta Busch-Skolläkare)
+\-  Prematurfödda barn- Utmaningar i skolan (Pontus Johansson Neonatalog)
+\-  Barn HLR (Pontus Johansson, Barnläkare HLR rådets expert/Barn HLR)
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
 
--  Kompetensutvecklingsdag (heldag) x 2
--  PSIFOS-dagarna
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kompetensutvecklingsdag (heldag) x 2
+\-  PSIFOS-dagarna
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2025 EPI Centralt
--  Om suicidpreventionsuppdraget i Region Halland
--  ANTDS hos ungdomar och det drogförebyggande arbetet.
+\-  Om suicidpreventionsuppdraget i Region Halland
+\-  ANTDS hos ungdomar och det drogförebyggande arbetet.
 
--  Vändpunkten samtalsmottagning och Mottaget barn och unga, Socialtjänsten
--  Att utveckla barns förmågor i förskolan
--  Skolfrånvaro Basutbildning
+\-  Vändpunkten samtalsmottagning och Mottaget barn och unga, Socialtjänsten
+\-  Att utveckla barns förmågor i förskolan
+\-  Skolfrånvaro Basutbildning
 
 15
 
 <!-- sida 74 -->
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -2476,14 +2476,14 @@ information digitalt via e-tjänst.
 Samtycke och/eller information mellan elevhälsans medicinska insats och
 elever/vårdnadshavare sker inom följande insatser:
 
--  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
--  Information/samtycke vaccinationer inom basprogrammet
--  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
+\-  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\-  Information/samtycke vaccinationer inom basprogrammet
+\-  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
 
 för vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska
 och elev som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 vårdnadshavare förutsättningar till delaktighet och medskapande.
--  Information/samtycke om åtgärder som kan behövas initieras efter
+\-  Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök.
 
 Samtycke från vårdnadshavare krävs vid vissa insatser såsom vaccinationer och
@@ -2515,7 +2515,7 @@ om behov samt skyndsamt återkoppla till elev/vårdnadshavare.
 Sammanställning av klagomål/synpunkter sammanställs för att användas som en indikator i
 kvalitets/patientsäkerhetsarbete.
 
-5. Resultat/analys
+5\. Resultat/analys
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -2802,17 +2802,17 @@ Kontakt mellan vårdnadshavare och Verksamhetschef EMI och återkoppling/åtgär
 
 <!-- sida 83 -->
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
--  Förebyggande och hälsofrämjandeinsatser för att stödja elever
--  Erbjuda vaccinationer enligt nationellt vaccinationsprogram
+\-  Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\-  Erbjuda vaccinationer enligt nationellt vaccinationsprogram
 
--  Hälsosamtal/kontroller där identifiering av insatser ska upptäckas så att eleven får
+\-  Hälsosamtal/kontroller där identifiering av insatser ska upptäckas så att eleven får
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef
 (rektor) och VC HSL.

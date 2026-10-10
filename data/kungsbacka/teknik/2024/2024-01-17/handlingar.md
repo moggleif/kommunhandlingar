@@ -567,7 +567,7 @@ Förvaltningens förslag
 Förslaget
 
 Förvaltningens förslag är att inte verkställa uppräkningen av egenavgifterna till 2024 års nivå (förslag
-3) utan i stället besluta om en kortsiktig åtgärd genom att kombinera att anta en taxa med höjt påslag
+3\) utan i stället besluta om en kortsiktig åtgärd genom att kombinera att anta en taxa med höjt påslag
 om 50% av Vänstertrafiks avgift för enkelbiljett (förslag 1), med intention att träda i kraft snarast
 möjligt därtill ge förvaltningen i uppdrag att ta fram en ny modell enligt så kallade avståndsbaserade
 egenavgifter, i princip motsvarande taxametermodellen (förslag 4).
@@ -629,7 +629,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 15 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller uttag av avgifter för särskild kollektivtrafik, Färdtjänst. Färdtjänst
 
 är en anpassad typ av kollektivtrafik för den som har ett beviljat färdtjänsttillstånd
@@ -644,7 +644,7 @@ utsträckning som närmare beskrivs i nedanstående taxebestämmelser.
 Färdtjänst gäller inte för resor som bekostas enligt annan lag eller förordning,
 exempelvis skolskjuts och sjukresa.
 
-2. Beräkningsgrund
+2\. Beräkningsgrund
 
 Avgift tas ut efter de grunder som framgår av Lag (1997:736) om färdtjänst.
 Avgifterna ska vara skäliga och får inte överstiga tillståndsgivarens självkostnader,
@@ -691,10 +691,10 @@ butik med 50 % tillägg på enkelbiljettpriset för service och administration.
 
 Vid resa nattetid görs ytterligare ett tillägg om 25 kronor per resa för samtliga resor.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Mervärdesskatt utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 Nedan följer en sammanställning av egenavgifter för vuxen och ungdom i 2024 års
 nivå. Med ungdom avses person till och med 19 år.
@@ -703,7 +703,7 @@ För 2024 innebär beräkningsgrunden Västtrafiks avgift 43 kronor (för zon 1 
 respektive 86 kronor (för zon 3). Med ett påslag för service och administration enligt
 ovan ökar avgiften med 10 kr i zon 1, 20 kronor i zon 2 och 21 kronor i zon 3.
 
-*= För zon 2 finns ett flertal kort beroende på geografisk idelning varför dessa inte anges specifikt.
+\*= För zon 2 finns ett flertal kort beroende på geografisk idelning varför dessa inte anges specifikt.
 
 Ej avbokad resa (Bomresor)
 
@@ -735,7 +735,7 @@ Kungsbacka kommun         Taxa för särskild kollektivtrafik - Färdtjänst 3 (
 |  | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år |
 | Zon 1<br>(tätort) | 53 kr | 39 kr | 78 kr | 64 kr | 1020 kr | 763 kr |
 | Zon 2 | 63 kr | 47 kr | 88 kr | 75 kr | 1 253 kr | 938 kr |
-| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | * | * |
+| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | \* | \* |
 
 <!-- sida 17 -->
 
@@ -747,7 +747,7 @@ punkten 2 Beräkningsgrunder, dvs. kollektivtrafikens avgift med ett procentbase
 
 påslag för service.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Taxan inklusive periodkort baseras på kollektivtrafikens avgifter med ett påslag för
 
 service enligt punkten 2 Beräkningsgrund och uppräknas i samband med att
@@ -756,12 +756,12 @@ Ersättningen för ”Bomresa” uppgår till 200 kr per resa och indexeras med 
 
 år och avrundas därefter till närmaste tiotal kronor.
 
-6. Delegering av beslut om justering
+6\. Delegering av beslut om justering
 
 Nämnden för Teknik har i uppdrag att justera avgiftsbeloppen i enlighet med taxans
 bestämmelser § 5. Eller enligt förslag ” förändringar i aktuell kollektivtrafikstaxa”
 
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 
 Denna taxa börjar gälla 1 april 2024. Resor gjorda före 1 april 2024 debiteras enligt
 tidigare gällande taxa: Särskild kollektivtrafik - taxa, antagen i Kommunfullmäktige
@@ -785,7 +785,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 20 -->
 
-1. Inledning
+1\. Inledning
 
 Färdtjänst är en anpassad typ av kollektivtrafik. Precis som i den övriga kollektivtrafiken åker du
 tillsammans med andra resenärer, men resorna sker i anpassade personbilar eller specialfordon.
@@ -797,22 +797,22 @@ Färdtjänst gäller inte för resor som bekostas enligt annan lag eller förord
 
 skolskjuts och sjukresa.
 
-2. Allmänt
+2\. Allmänt
 Kommunen får ta ut avgift enligt Lag (1997:736) om färdtjänst. Avgifterna ska vara skäliga och får
 inte överstiga tillståndsgivarens självkostnader. Lag (2019:901).
 
 Färdtjänstresor betalas mot faktura. Varje månad skickas en faktura som avser antal resor som
 gjorts under föregående månad samt kostnaden för eventuella medresenärer.
 
-3. Beräkningsgrund
+3\. Beräkningsgrund
 
-- Modell för egenavgifter för färdtjänst, principer för årlig omräkning samt periodkort
+\- Modell för egenavgifter för färdtjänst, principer för årlig omräkning samt periodkort
 De belopp som nämns är angivna i 2023 års prisnivå. Det innebär att de behöver räknas om
 årligen enligt den modell som beskrivs nedan.
 
-1. Basavgift - Som grund i avgiftssystemet finns en basavgift som är 64 kr.
+1\. Basavgift - Som grund i avgiftssystemet finns en basavgift som är 64 kr.
 
-2. Avgiften för vuxen färdtjänstresenär inom Kungsbacka kommun styrs av två faktorer, resans
+2\. Avgiften för vuxen färdtjänstresenär inom Kungsbacka kommun styrs av två faktorer, resans
 längd samt lovad tidpunkt för hämtning. Resans längd beräknas som kortaste sträckan från resans
 hämtaadress till resans lämnaadress.
 •  För en resa i lågtrafik som är 5,0 km eller längre är avgiften lika med basavgiften för det
@@ -830,7 +830,7 @@ ovan. Denna anges som kronor med en decimal. Avdrag vid kort resa samt tillägg 
 högtrafik görs med 20 %, men beräknas på resans hela kostnad inklusive kilometeravgift.
 •  Den totala avgiften för varje enskild resa avrundas alltid till hel krona.
 
-3. För barn och ungdomar 0 – 19 år är avgiften 75 % av avgiften för vuxen. Beräkningen av avgift
+3\. För barn och ungdomar 0 – 19 år är avgiften 75 % av avgiften för vuxen. Beräkningen av avgift
 för barn och ungdomar ska utgå från den avrundade siffran för vuxen och därefter i sin tur
 avrundas till närmaste hel krona. En färdtjänstresenär räknas till avgiftskategorin barn och ungdom
 fram till den dag hen fyller 20 år.
@@ -839,19 +839,19 @@ Mall tax a.docx            Sida 2 av 6
 
 <!-- sida 21 -->
 
-4. Resenär som i sitt färdtjänsttillstånd är beviljad ledsagare får utan extra avgift ta med en
+4\. Resenär som i sitt färdtjänsttillstånd är beviljad ledsagare får utan extra avgift ta med en
 ledsagare på resan.
-5. Avgift för vuxen medresenär är samma som för vuxen resenär. Färdtjänstberättigad får ta med
+5\. Avgift för vuxen medresenär är samma som för vuxen resenär. Färdtjänstberättigad får ta med
 egna barn som är under 20 år. Barn som är medresenär och under 7 år åker gratis. För barn som
 är 7 till och med 19 år gäller färdtjänsttaxa för barn och ungdom.
 
-6. RIAK – resa utanför färdtjänstområdet i annan kommun. RIAK innebär att hemkommunen vill
+6\. RIAK – resa utanför färdtjänstområdet i annan kommun. RIAK innebär att hemkommunen vill
 hjälpa till att anordna färdtjänstresor för sina kommuninvånare i andra kommuner där de tillfälligtvis
 vistas. Resa i annan kommun utanför färdtjänstområdet (RIAK) kostar 2 gånger basavgiften enligt
 ovan. För barn och ungdomar 0–19 år är avgiften 75 % av avgiften för vuxna. Ingen särskild
 kilometeravgift tillkommer. Ingen reducering för kort resa eller tillägg vid högtrafik tillkommer.
 
-7. Riksfärdtjänst - Kostnaden för resan betalar du enligt en schabloniserad egenavgift, reglerad
+7\. Riksfärdtjänst - Kostnaden för resan betalar du enligt en schabloniserad egenavgift, reglerad
 genom förordning (1993:1148) om egenavgifter vid resor med riksfärdtjänst. Har du blivit beviljad
 tillstånd till riksfärdtjänstresa med allmänna kommunikationer tillsammans med ledsagare kommer
 din egenavgift att faktureras av Riksfärdtjänsten i Sverige AB, efter det att resan är genomförd. Du
@@ -873,22 +873,22 @@ som utgör högtrafiktid.
 • Det är lovad tid för hämtning som styr avgiften.
 
 Principer för årlig omräkning av avgifter för färdtjänst från och med 2024
-1. Basavgiften enligt ovan ska indexeras i enlighet med Svenska Taxiförbundets och SCB
+1\. Basavgiften enligt ovan ska indexeras i enlighet med Svenska Taxiförbundets och SCB
 framtagna Taxiindex med det senaste indextalet för oktober. I samband med att
 Partnersamverkans Indexråd publicerar en rekommendation för ett Servicereseindex, ska
 Taxiindex senast vid närmaste följande årsskifte ersättas med Servicereseindex. Vid beräkning av
 
 avgiften för 2024 är det alltså indextalet för oktober 2022 som utgör jämförelsetal.
-2. Den omräknade basavgiften som ska gälla för det kommande kalenderåret avrundas till
+2\. Den omräknade basavgiften som ska gälla för det kommande kalenderåret avrundas till
 närmaste hel krona.
 
 Periodkort per kalendermånad
 
-1. Periodkort gäller för väsentliga resor månadsvis
-2. Periodkort per kalendermånad gäller för färdtjänstresor enligt nedan. För barn och ungdomar är
+1\. Periodkort gäller för väsentliga resor månadsvis
+2\. Periodkort per kalendermånad gäller för färdtjänstresor enligt nedan. För barn och ungdomar är
 periodkort 75 % av nivåerna som nämns:
 
-3. Periodkort för resor inom Kungsbacka kommun gäller för samtliga utförda färdtjänstresor under
+3\. Periodkort för resor inom Kungsbacka kommun gäller för samtliga utförda färdtjänstresor under
 kalendermånaden. Periodkortet täcker också basavgiften vid resor till, från eller inom en annan
 
 Mall tax a.docx            Sida 3 av 6
@@ -897,15 +897,15 @@ Mall tax a.docx            Sida 3 av 6
 
 kommun inom färdtjänstområdet. Vid resor utanför kommunen tillkommer kilometeravgiften.
 Periodkortet beräknas utifrån basavgiften multiplicerat med faktorn 16 för vuxen.
-4. Periodkort för barn/ungdom gäller till och med månaden personen fyller 20 år.
+4\. Periodkort för barn/ungdom gäller till och med månaden personen fyller 20 år.
 
-5. Arbets- och studieresor kan enligt särskilt regelverk i undantagsfall beviljas till kommun utanför
+5\. Arbets- och studieresor kan enligt särskilt regelverk i undantagsfall beviljas till kommun utanför
 färdtjänstområdet. Avgift för enkelresa beräknas då enligt samma princip som för resa till annan
 
 kommun enligt ovan. Belopp för periodkort för dessa resor beräknas utifrån basavgiften
 multiplicerat med faktorn 24. För barn och ungdomar är periodkort 75 % av priset för vuxen.
 
-3. Avgiftsbelopp/taxetabell
+3\. Avgiftsbelopp/taxetabell
 Sammanställning egenavgifter för färdtjänst enligt 2023 års prisnivå. De angivna avgifterna ska
 inför 2024 indexregleras enligt ovan beskrivning.
 
@@ -913,7 +913,7 @@ Sammanställning avgift för enkelresa:
 
 Sammanställning avgift för periodkort:
 
-* Periodkortet beräknas utifrån basavgiften multiplicerat med faktorn 16 för vuxen. Barn/Ungdom
+\* Periodkortet beräknas utifrån basavgiften multiplicerat med faktorn 16 för vuxen. Barn/Ungdom
 0–19 år betalar 75% av priset för vuxen.
 
 Mall tax a.docx            Sida 4 av 6
@@ -935,14 +935,14 @@ Mall tax a.docx            Sida 4 av 6
 
 |  | Vuxen | Barn/Ungdom 0–19 år |
 | --- | --- | --- |
-| Kungsbacka kommun | 1 024 kr * | 768 kr * |
-| Färdtjänstområde*** | 1 536 kr ** | 1 152 kr ** |
+| Kungsbacka kommun | 1 024 kr \* | 768 kr \* |
+| Färdtjänstområde\*\*\* | 1 536 kr \*\* | 1 152 kr \*\* |
 
 <!-- sida 23 -->
 
-** Periodkortet beräknas utifrån basavgiften multiplicerat med faktorn 24 för vuxen. Barn/Ungdom
+\*\* Periodkortet beräknas utifrån basavgiften multiplicerat med faktorn 24 för vuxen. Barn/Ungdom
 0–19 år betalar 75% av priset för vuxen.
-*** Definition färdtjänstområde: Kungsbacka kommun, Varbergs kommun, Mölndals kommun,
+\*\*\* Definition färdtjänstområde: Kungsbacka kommun, Varbergs kommun, Mölndals kommun,
 Göteborgs kommun, Marks kommun och Härryda kommun
 
 Riksfärdtjänst - Kostnaden för resan betalar du enligt en schabloniserad egenavgift, reglerad
@@ -953,12 +953,12 @@ din egenavgift att faktureras av Riksfärdtjänsten i Sverige AB, efter det att 
 kommer inte att debiteras kostnaden för ledsagaren. Har du blivit beviljad tillstånd till
 riksfärdtjänstresa med bil eller specialfordon betalar du egenavgiften direkt till föraren.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Principer för årlig omräkning av avgifter baseras på SCBs servicereseindex 2022 som bas.
 (tidigare Taxiindex)
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för teknik får delegation att årligen räkna upp priserna med servicereseindex.
 
 Mall tax a.docx            Sida 5 av 6
@@ -984,7 +984,7 @@ Mall tax a.docx            Sida 6 av 6
 
 Utredning    Särskilda   persontransporter
 
--  färdtjänst,  riksfärdtjänst  och  skolskjuts
+\-  färdtjänst,  riksfärdtjänst  och  skolskjuts
 
 Kommunledningskontoret,                            2020-03-09
 Lotta Gradén                                       Ver. 3
@@ -1107,8 +1107,8 @@ skolskjutsar som skapar bättre förutsättningar för en effektiv styrning.
 •  Tilläggsuppdrag december 2019: Kommunstyrelsen ger kommundirektören i uppdrag att inom
 utredningen av kommunens hantering av färdtjänst och skolskjutsar också utreda:
 
-- Möjligheterna att åka via förskola, skola eller fritidsaktiviteter för att hämta eller lämnar barn
-- Möjligheten att åka i hela Halland genom så kalla länsfärdtjänst
+\- Möjligheterna att åka via förskola, skola eller fritidsaktiviteter för att hämta eller lämnar barn
+\- Möjligheten att åka i hela Halland genom så kalla länsfärdtjänst
 
 <!-- sida 28 -->
 
@@ -1168,7 +1168,7 @@ från 2012 överklagades och fick göras om.
 Inför läsåret 2019/20 har administrationen av skolskjuts centraliserats inom förvaltningen för Förskola &
 Grundskola, från att tidigare varit decentraliserat till skolorna och rektorernas ansvarsområden.
 Upphandling och trafikering av såväl färdtjänst som skolskjutsar ligger inom ramen för överenskommelsen från
-2011.
+2011\.
 
 <!-- sida 29 -->
 
@@ -1811,11 +1811,11 @@ KUNGSBACKA  KOMMUN
 Sammanställning färdtjänstkostnader
 
 2015       2016       2017       2018       2019
-Färdtjänst* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
+Färdtjänst\* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
 Riksfärdtjänst  258 251    331 510    337 601    381 175    438 324
 Beställningscentral 1 088 500 1 248 400 1 299 500  1 297 100  1 320 301
 Summa    17 768 479 18 692 260 19 628 948 22 932 586 26 867 538
-*inkl. systemkostnader samt reglering för månadskort och egenavgifter
+\*inkl. systemkostnader samt reglering för månadskort och egenavgifter
 
 Samåkningsgrad
 
@@ -2006,7 +2006,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | Tillämpningsregler<br>(färdtjänst/riksfärdtjänst)<br>Riktlinjer (skolskjuts) | Ja | Ja | Bereds i facknämnd,<br>beslutas i KF |
 | Tillstånd/beviljande (antal) | Nej | Nej | Lagstadgad rättighet |
-| Egenavgift<br>färdtjänst<br>riksfärdtjänst | Ja<br>Nej* | - | *Egenavgift för<br>Riksfärdtjänst beslutas av<br>staten |
+| Egenavgift<br>färdtjänst<br>riksfärdtjänst | Ja<br>Nej\* | - | \*Egenavgift för<br>Riksfärdtjänst beslutas av<br>staten |
 | Trafikkostnader | Indirekt | Indirekt |  |
 | Pris | Genom upphandling/avtal | Genom upphandling/avtal | Upphandling sker hos<br>Hallandstrafiken |
 | Volymer | Genom tillämpningsregler<br>Genom kvalitetsuppföljning | Genom riktlinjer<br>Genom planering och<br>tilläggsbeställningar | Tillgängligheten i<br>linjetrafiken påverkar |
@@ -2119,7 +2119,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 51 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller uttag av avgifter för särskild kollektivtrafik, Färdtjänst. Färdtjänst
 
 är en anpassad typ av kollektivtrafik för den som har ett beviljat färdtjänsttillstånd
@@ -2134,7 +2134,7 @@ utsträckning som närmare beskrivs i nedanstående taxebestämmelser.
 Färdtjänst gäller inte för resor som bekostas enligt annan lag eller förordning,
 exempelvis skolskjuts och sjukresa.
 
-2. Beräkningsgrund
+2\. Beräkningsgrund
 
 Avgift tas ut efter de grunder som framgår av Lag (1997:736) om färdtjänst.
 Avgifterna ska vara skäliga och får inte överstiga tillståndsgivarens självkostnader,
@@ -2159,11 +2159,11 @@ utöver själva resan.
 
 Vid resa nattetid görs ytterligare ett tillägg om 25 kronor per resa för samtliga resor.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Nedan följer en sammanställning av egenavgifter för vuxen och ungdom i 2024 års
 
 nivå. Med ungdom avses person till och med 19 år.
@@ -2176,7 +2176,7 @@ Kungsbacka kommun        Taxa för särskild kollektivtrafik - Färdtjänst 2 (4
 
 <!-- sida 52 -->
 
-*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges
+\*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges
 specifikt.
 
 Ej avbokad resa (Bomresor)
@@ -2206,7 +2206,7 @@ punkten 2 Beräkningsgrunder, dvs. kollektivtrafikens avgift med ett procentbase
 
 påslag för service och administration.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Taxan inklusive periodkort baseras på kollektivtrafikens avgifter med ett påslag för
 
 service enligt punkten 2 Beräkningsgrund, och uppräknas i samband med att
@@ -2215,7 +2215,7 @@ kollektivtrafiken justerar sina avgifter.
 Ersättningen för ”Bomresa” uppgår till 200 kr per resa och indexeras med KPI varje
 år och avrundas därefter till närmaste tiotal kronor.
 
-6. Delegering av beslut om justering
+6\. Delegering av beslut om justering
 
 Nämnden för Teknik har i uppdrag att justera avgiftsbeloppen i enlighet med taxans
 bestämmelser § 5. Eller enligt förslag ” förändringar i aktuell kollektivtrafikstaxa”
@@ -2228,11 +2228,11 @@ Kungsbacka kommun        Taxa för särskild kollektivtrafik - Färdtjänst 3 (4
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år |
 | Zon 1 | 63 kr | 47 kr | 88 kr | 75 kr | 1 253 kr | 938 kr |
-| Zon 2 | 126 kr | 93 kr | 151 kr | 118 kr | * | * |
+| Zon 2 | 126 kr | 93 kr | 151 kr | 118 kr | \* | \* |
 
 <!-- sida 53 -->
 
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 Denna taxa börjar gälla 1 april 2024. Resor gjorda före 1 april 2024 debiteras enligt
 
 tidigare gällande taxa: Särskild kollektivtrafik - taxa, antagen i Kommunfullmäktige
@@ -2320,7 +2320,7 @@ ungdom avses person till och med 19 år. När det gäller medresenär betalar vu
 medresenär motsvarande egenavgift som för vuxen färdtjänstresenär. Ungdomar
 reser med som medresenär utan kostnad.
 
-*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges
+\*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges
 specifikt.
 
 Periodkort (Månadskort) för färdtjänst
@@ -2356,7 +2356,7 @@ Kungsbacka kommun Information om egenavgifter för särskild kollektivtrafik –
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år |
 | Zon 1<br>Inom<br>Kungsbacka<br>kommun | 53 kr | 39 kr | 78 kr | 64 kr | 1020 kr | 763 kr |
-| Zon 2<br>Göteborgs,<br>Mölndals,<br>Härrydas,<br>Marks och<br>Varbergs<br>kommun | 126 kr | 93 kr | 151 kr | 118 kr | * | * |
+| Zon 2<br>Göteborgs,<br>Mölndals,<br>Härrydas,<br>Marks och<br>Varbergs<br>kommun | 126 kr | 93 kr | 151 kr | 118 kr | \* | \* |
 
 <!-- sida 57 -->
 
@@ -4866,21 +4866,21 @@ Nämndens omvärldsanalys
 Vi vill lyfta fram fem större omvärldsskeenden utan inbördes ordning som påverkar Teknik lite mer påtagligt i
 ett kortare perspektiv:
 
-1) Den höga prisutvecklingstakten som gör att vår inköpstunga verksamhet får mindre för pengarna och därmed
+1\) Den höga prisutvecklingstakten som gör att vår inköpstunga verksamhet får mindre för pengarna och därmed
 behöver öka omställningstakten avsevärt. Infrastrukturprojekt är trögrörliga och långsiktiga och vikande
 konjunktur har inte påverkat investeringstakten. Den har däremot inneburit en personalminskning för att få en
 omedelbar budget i balans då vår fond är tömd efter de stigande priserna på både material, energi och
 drivmedelsintensiva entreprenader.
-2) Den geopolitiska utvecklingen ställer krav på att vi kan skydda känslig information och infrastruktur. Den
+2\) Den geopolitiska utvecklingen ställer krav på att vi kan skydda känslig information och infrastruktur. Den
 ställer även krav på att vi ökar vår förmåga att hantera stora påfrestningar såsom kris eller krig.
 
-3) Ett ökat intresse för hållbarhetsfrågor men även omfattande ny lagstiftning särskilt med avseende på
+3\) Ett ökat intresse för hållbarhetsfrågor men även omfattande ny lagstiftning särskilt med avseende på
 cirkularitet av material och ämnen vilket berör avfallsområdet och avloppsreningsverksamheten som behöver ha
 en hög utvecklingstakt.
-4) Kraftiga svängningar i vädret som gör att vi behöver hantera torka för bönder i behov av foder till djur,
+4\) Kraftiga svängningar i vädret som gör att vi behöver hantera torka för bönder i behov av foder till djur,
 översvämningar från vattendrag och överfulla ledningar men även brist på dricksvatten. I det längre perspektivet
 behöver vi klimatsäkra samhället.
-5) Vårt 125%/75% utgörs exempelvis av ett växande uppdrag inom avfallsområdet, fler gråa, gröna och blåa
+5\) Vårt 125%/75% utgörs exempelvis av ett växande uppdrag inom avfallsområdet, fler gråa, gröna och blåa
 ytor att sköta i takt med att ny bebyggelse tillkommer, fler invasiva arter att bekämpa, fler pensionärer i behov
 av färdtjänst etc. Omställningsbehovet hos Teknik för att värna framtidens välfärd är därför minst lika stort som
 inom andra kommunala välfärdsområden.
@@ -5290,24 +5290,24 @@ spridningskraft och det finns ingen bekämpningsmetod som säkert fungerar.
 
 Kungsbackaborna yrkar därför:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
 ut i kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker
 och på allmänna ytor samt av kommunen ägda bolags marker tex Eksta och
 Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller
 kommer i kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även
 gälla underentreprenörer för att effektivisera bekämpningen i parker och
 allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
 Länsstyrelsen för att effektivt förhindra spridning.
 
 (No
@@ -5918,7 +5918,7 @@ alla byar presenteras på samma sätt. Idag är det svårt att hitta logiken i s
 
 Vi yrkar därför att:
 
-- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
+\- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
 
 Per Gunnarsson, Ledamot Kommunfullmäktige
 Magdalena Sundqvist, Ledamot Kommunfullmäktige
@@ -5948,26 +5948,26 @@ tydliggjorda i årets version av delegeringsförteckningen. Det som tas bort är
 uppdaterade texten är gulmarkerad.
 Uppdateringarna är beskriva nedan:
 
--  Ny punkt 3.22 - Beslut om avsteg från fordonspolicyns krav på fossilfritt bränsle.
--  8.1 – Uppdatering av lagrum.
+\-  Ny punkt 3.22 - Beslut om avsteg från fordonspolicyns krav på fossilfritt bränsle.
+\-  8.1 – Uppdatering av lagrum.
 
--  8.2 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
--  8.3 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\-  8.2 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\-  8.3 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
 
--  Ny punkt 8.4 - Besluta om förlängt tömningsintervall för fettavskiljare på fastigheter med
+\-  Ny punkt 8.4 - Besluta om förlängt tömningsintervall för fettavskiljare på fastigheter med
 anslutning till det kommunala ledningsnätet
 
--  8.5 – Uppdatering av lagrum, delegeringens omfattning, & nummer i delegeringsförteckningen
--  8.6 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\-  8.5 – Uppdatering av lagrum, delegeringens omfattning, & nummer i delegeringsförteckningen
+\-  8.6 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
 
--  Ny punkt 8.7 - Besluta om inställd hämtning av avfall från fastighetens avloppsanläggning
--  Ny punkt 8.8 - Besluta om uppehåll i slamtömning inklusive eventuella filteranläggningar
+\-  Ny punkt 8.7 - Besluta om inställd hämtning av avfall från fastighetens avloppsanläggning
+\-  Ny punkt 8.8 - Besluta om uppehåll i slamtömning inklusive eventuella filteranläggningar
 
--  Ny punkt 8.9 - Besluta om uppehåll i tömning av fettavskiljare för fettavskiljare på fastigheter
+\-  Ny punkt 8.9 - Besluta om uppehåll i tömning av fettavskiljare för fettavskiljare på fastigheter
 med anslutning till det kommunala ledningsnätet
--  8.10 – Uppdatering av nummer i delegeringsförteckningen.
+\-  8.10 – Uppdatering av nummer i delegeringsförteckningen.
 
--  Ny punkt 8.11 - Beslut om att frångå avfallsföreskrifter på annat sätt än i undantagsfallen 35-46
+\-  Ny punkt 8.11 - Beslut om att frångå avfallsföreskrifter på annat sätt än i undantagsfallen 35-46
 §§
 
 1 (2)
@@ -5984,7 +5984,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  9.1.1 – Uppdateringen förtydligar att omfördelning av belopp gäller inom av nämnden
+\-  9.1.1 – Uppdateringen förtydligar att omfördelning av belopp gäller inom av nämnden
 
 beslutade underportföljer.
 
@@ -6068,13 +6068,13 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 inom kommunen att besluta istället, s.k. vidaredelegering (kommunallagen 6 kap 37
 §). Beslut om delegering ska då ske i två steg;
 
-1) Nämndens beslut om delegering till förvaltningschef,
+1\) Nämndens beslut om delegering till förvaltningschef,
 
 1 Nämnden för Teknik benämns hädanefter nämnden.
 
 <!-- sida 141 -->
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 
 1.2 Syftet med delegering
 
@@ -6208,14 +6208,14 @@ Ersättare för förvaltningschef: Vid förfall för förvaltningschef inträder
 tjänsteförrättande förvaltningschef om sådan är utsedd och om inte annat anges.
 
 Vid förfall för övriga delegater:
-1) annan delegat om det finns flera angivna. Vem som tar över
+1\) annan delegat om det finns flera angivna. Vem som tar över
 
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
 delegationen, det vill säga förvaltningschefen vid vidaredelegering eller nämnden.

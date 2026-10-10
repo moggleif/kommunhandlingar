@@ -398,15 +398,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden.
 Byggnadsnämnden beslutade den 14 december 2023 att remittera ärendet till
 förvaltningen för beredning. Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010: 900 samt eventuellt annan relevant lagstiftning, på nya
 och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 i kommunen och företagare, oavsett handläggare.
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
@@ -653,20 +653,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
@@ -892,20 +892,20 @@ strandskyddsdispens får enligt 16 kap. 2 § miljöbalken förenas med villkor.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften,
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen,
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området,
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området,
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området, eller
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett

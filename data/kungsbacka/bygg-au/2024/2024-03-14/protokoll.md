@@ -983,15 +983,15 @@ ska bebyggelseområdets särskilda kulturhistoriska och miljömässiga värden s
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Enligt 2 kap 1 § PBL ska vid prövningen av frågor hänsyn tas till både allmänna och
@@ -1875,10 +1875,10 @@ Sammanfattning
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2154,9 +2154,9 @@ Planförutsättningar
 
 Ansökan avviker från gällande detaljplan då
 
--  fastigheten har en byggnadsarea som är 19,7 m2 större än vad planen medger,
+\-  fastigheten har en byggnadsarea som är 19,7 m2 större än vad planen medger,
 motsvarande 6,5 procent av den sammanlagda byggnadsarean.
--  huvudbyggnaden bedöms ha två våningar.
+\-  huvudbyggnaden bedöms ha två våningar.
 
 Expedierat/bestyrkt
 
@@ -2167,7 +2167,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-03-14
 
--  byggnadshöjden för huvudbyggnaden mäts till 5,3 meter vilket är 1,3 meter
+\-  byggnadshöjden för huvudbyggnaden mäts till 5,3 meter vilket är 1,3 meter
 högre än vad detaljplanen medger, motsvarande 32,5 procent.
 
 Kommunicering
@@ -2312,20 +2312,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett

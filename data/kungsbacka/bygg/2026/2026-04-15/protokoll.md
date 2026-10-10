@@ -712,7 +712,7 @@ husen eller storlek.
 Släps-kullen 2:367 anför:
 Vi motsätter oss att förhandsbesked beviljas av följande skäl:
 
-1. Området saknar detaljplan (utomplan) och riskerar olämplig bebyggelse
+1\. Området saknar detaljplan (utomplan) och riskerar olämplig bebyggelse
 
 Den aktuella fastigheten ligger utanför detaljplanelagt område. Detta innebär en stor
 risk för att framtida bebyggelse blir betydligt större och högre än omkringliggande
@@ -734,7 +734,7 @@ Datum
 
 byggnaders storlek, höjd och placering. En exploatering utan motsvarande
 restriktioner i detta läge framstår som olämplig och inkonsekvent.
-2. Bristande underlag om byggnationens omfattning
+2\. Bristande underlag om byggnationens omfattning
 
 De föreslagna husen saknar tydliga uppgifter om byggnadsarea, byggnadshöjd,
 våningsantal och exakta placeringar. Utan denna information är det inte möjligt att
@@ -742,7 +742,7 @@ bedöma konsekvenserna för omgivningen. Enligt Plan- och bygglagen ska
 lokalisering och utformning vara lämplig medhänsyn till stads- och landskapsbild
 samt till grannar, vilket inte kan säkerställas med nuvarande underlag.
 
-3. Placering möjliggör framtida ytterligare avstyckning
+3\. Placering möjliggör framtida ytterligare avstyckning
 Den föreslagna placeringen av byggnaderna på tomterna ger tydligt intryck av att
 området i framtiden kan komma att styckas av ytterligare (det ska noteras att det är
 ett företag som planerar detta så vinstintresse och vidare avstyckning är ett tydligt
@@ -750,7 +750,7 @@ incitament). Detta riskerar att leda till en gradvis förtätning som tex inte k
 
 harmoniera med omkringliggande detaljplan och område. Det blir då inte prövat
 samlat och kan få negativa konsekvenser för området som helhet.
-4. Markförhållanden vattensjuk och sank tomt
+4\. Markförhållanden vattensjuk och sank tomt
 
 Övriga har inte haft några synpunkter.
 Sökande har tagit del av invändningarna, men har inte ändrat sin ansökan.
@@ -759,7 +759,7 @@ Sökande anför i sitt yttrande:
 • Bebyggelsen planeras i sekelskiftesstil och kommer att utformas med stor hänsyn
 till områdets befintliga karaktär.
 
-7. .Lämplig lokalisering och hållbar utveckling
+7\. .Lämplig lokalisering och hållbar utveckling
 Enligt 2 kap. 3 § PBL ska planering främja en långsiktigt hållbar utveckling.
 
 Fastigheten har mycket god tillgång till service:
@@ -773,7 +773,7 @@ Fastigheten har mycket god tillgång till service:
 Detta innebär att lokaliseringen är väl lämpad för bostadsändamål. Kommunens
 sektion för vatten och avlopp har lämnat positivt besked för två avstyckningar, vilket
 visar att åtgärden är fullt genomförbar ur teknisk synpunkt.
-8. Förhandsbeskedets funktion
+8\. Förhandsbeskedets funktion
 
 Enligt 9 kap. 17 § PBL ska förhandsbesked pröva om en åtgärd kan tillåtas på en viss
 plats. Det innebär att frågan om lokalisering ska prövas i detta skede, och att krav på
@@ -791,17 +791,17 @@ Byggnadsnämnden
 Datum
 2026-04-15
 
-9. Bemötande av nämndens invändningar
+9\. Bemötande av nämndens invändningar
 Lokaliseringsstudie och framtida exploatering Resonemanget om framtida
 exploatering är generellt och saknar stöd i lag. Varje ärende ska prövas individuellt
 enligt PBL. Krav på detaljplan Att kräva detaljplan i detta fall är inte proportionerligt
 och saknar stöd i lagstiftningen.
 
-10. Grannars synpunkter De synpunkter som inkommit rör byggnaders utformning,
+10\. Grannars synpunkter De synpunkter som inkommit rör byggnaders utformning,
 placering och tekniska frågor. Dessa frågor prövas i bygglovsskedet och inte inom
 ramen för förhandsbesked.
 
-11. Sammanfattning
+11\. Sammanfattning
 • Tidigare beslut från Mark- och miljödomstolen stödjer ansökan
 
 • Marken är lämplig enligt 2 kap. PBL
@@ -810,7 +810,7 @@ ramen för förhandsbesked.
 • Åtgärden är begränsad och proportionerlig
 • Lokaliseringen är hållbar
 
-12. Slutsats
+12\. Slutsats
 
 Mot bakgrund av ovanstående saknas rättslig grund för avslag.
 Ansökan är förenlig med plan- och bygglagen samt miljöbalken.
