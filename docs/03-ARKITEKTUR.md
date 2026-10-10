@@ -885,7 +885,7 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 Hur och varför står i
 [ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md)
 och, för dokumenten,
-[ADR-0022](decisions/0022-dokumenten-pa-webbplatsen-med-markdown-it-py.md).
+[ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md).
 Webbplatsen är statisk HTML som byggs av
 `python -m kommunhandlingar.webbplats <utkatalog> <repoadress>` och
 publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid varje

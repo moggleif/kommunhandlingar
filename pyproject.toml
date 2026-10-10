@@ -13,7 +13,7 @@ dependencies = [
   "pdfminer.six==20260107",
   "pypdfium2==5.14.0",
   "pillow==12.3.0",
-  # Webbplatsen renderar dokumenten (ADR-0022); testerna prövar texten (ADR-0021).
+  # Webbplatsen renderar dokumenten (ADR-0023); testerna prövar texten (ADR-0021).
   "markdown-it-py==4.2.0",
 ]
 

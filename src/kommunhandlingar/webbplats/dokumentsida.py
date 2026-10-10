@@ -1,4 +1,4 @@
-"""Krav: K17 i docs/02-KRAV.md, ADR-0022. Test: tests/test_webbplats_dokument.py."""
+"""Krav: K17 i docs/02-KRAV.md, ADR-0023. Test: tests/test_webbplats_dokument.py."""
 
 from html import escape
 

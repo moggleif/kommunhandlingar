@@ -38,7 +38,7 @@ Regler för det här repot, utöver MADR:
 | 0009 | [Tabellernas härkomst är dokumentets, sidnumret står i filnamnet, och CSV skrivs i ett fast format](0009-tabellernas-harkomst-och-csv-format.md) | accepted |
 | 0010 | [Kandidaterna hämtas organ för organ i konfigurationens ordning, och inom organet protokoll före handlingar](0010-ordningen-organ-for-organ.md) | accepted (0018 föreslår en ny ordning för ny historik, 0019 omkonverteringen sist) |
 | 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted |
-| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0022 föreslår markdown-it-py för dokumenten) |
+| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 föreslår markdown-it-py för dokumenten) |
 | 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | proposed |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | proposed (0021 föreslår escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | proposed |
@@ -48,4 +48,4 @@ Regler för det här repot, utöver MADR:
 | 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | proposed |
 | 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | proposed |
 | 0021 | [Poolens text escapas vid konverteringen så att den är riktig Markdown, och CI kör Markdown-lint](0021-texten-ar-riktig-markdown.md) | proposed |
-| 0022 | [Webbplatsen renderar poolens dokument med markdown-it-py, en sida per dokument och en per organ](0022-dokumenten-pa-webbplatsen-med-markdown-it-py.md) | proposed |
+| 0023 | [Webbplatsen renderar poolens dokument med markdown-it-py, en sida per dokument och en per organ](0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md) | proposed |
