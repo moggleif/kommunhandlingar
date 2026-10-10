@@ -16,7 +16,7 @@ from kommunhandlingar import datakontroll_tolkning, frontmatter
 from kommunhandlingar.datakontroll_tabeller import tabellfel
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
-from kommunhandlingar.maska_poolen import maskad_fil
+from kommunhandlingar.personuppgifter import maskad_md, maskade_celler
 
 ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
 ALLTID += ("tidigare_kallnycklar", "hamtad", "pipeline", "kvalitet")
@@ -37,14 +37,21 @@ def fel_i(data: Path) -> list[str]:
 def filfel(data: Path, fil: Path) -> list[str]:
     if fil.suffix == ".md" and fil.parent != data:
         text = fil.read_text(encoding="utf-8")
-        return dokumentfel(fil.relative_to(data), text) + personuppgiftsfel(fil)
+        fel = dokumentfel(fil.relative_to(data), text)
+        return fel + personuppgiftsfel(maskad_md(text) != text)
     if fil.parent.suffix == ".tabeller":
-        return tabellfel(fil) or personuppgiftsfel(fil)
+        # En CSV med formfel går kanske inte att läsa; formfelen rättas först.
+        return tabellfel(fil) or tabellens_personuppgifter(fil)
     return ["oväntad fil, till exempel kvar efter en avbruten körning"]
 
 
-def personuppgiftsfel(fil: Path) -> list[str]:
-    if maskad_fil(fil) is None:
+def tabellens_personuppgifter(fil: Path) -> list[str]:
+    celler = maskade_celler(fil.read_text(encoding="utf-8"))
+    return personuppgiftsfel(celler is not None)
+
+
+def personuppgiftsfel(finns: bool) -> list[str]:
+    if not finns:
         return []
     return ["personuppgifter som ska maskas (python -m kommunhandlingar.maska_poolen)"]
 

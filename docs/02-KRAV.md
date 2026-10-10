@@ -317,9 +317,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   har, för att kommunen tagit bort det eller för att källan inte visar så
   långt bakåt
 - **När** en ny körning är klar
-- **Så** står dokumentets `.md` och tabeller kvar orörda, också när
-  dokumentet har kvalitet `ej-hamtad`.
-  Personuppgifter maskas ändå i dem (K17); dokumentet står kvar.
+- **Så** står dokumentets `.md` och tabeller kvar, också när dokumentet
+  har kvalitet `ej-hamtad`, och de ändras bara när personuppgifter i dem
+  maskas (K17).
 
 ## K13 — Kandidaterna hämtas i en bestämd ordning
 

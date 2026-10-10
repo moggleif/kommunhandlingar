@@ -137,7 +137,7 @@ class TestTabellkontroll(Pool):
 
     def test_personnummer_i_texten(self):
         md = self.data / DOKUMENT
-        md.write_text(md.read_text(encoding="utf-8") + "Anna 121212-1212\n")
+        md.write_text(md.read_text(encoding="utf-8") + "Sökanden 121212-1212\n")
         self.assertEqual(self.fel(), [f"{DOKUMENT}: {PERSONUPPGIFTER}"])
 
     def test_namn(self):
@@ -178,11 +178,15 @@ class TestTabellkontroll(Pool):
                 self.assertEqual(self.fel(), [f"{self.relativ}/2-1.csv: {fel}"])
 
     def test_personnummer_i_en_tabell(self):
-        (self.katalog / "2-1.csv").write_text("Namn,Nummer\nAnna,121212-1212\n")
+        (self.katalog / "2-1.csv").write_text("Roll,Nummer\nSökanden,121212-1212\n")
         self.assertEqual(
             self.fel(),
             [f"{self.relativ}/2-1.csv: {PERSONUPPGIFTER}"],
         )
+
+    def test_csv_utan_personuppgifter_i_annan_form(self):
+        (self.katalog / "2-1.csv").write_text('"Roll","Antal"\nLedamot,3')
+        self.assertEqual(self.fel(), [])
 
     def test_inte_utf_8(self):
         (self.katalog / "2-1.csv").write_bytes(b"\xff\n")

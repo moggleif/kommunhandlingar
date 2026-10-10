@@ -69,7 +69,10 @@ att pröva mot hela poolen. Reglerna står i
   nattgren som en äldre version skrivit.
 * **Datakontrollen** faller på en fil där maskningen skulle ändra något,
   så att inget omaskat når `main` (K11).
-* **Versionen** höjs till 0.5.0.
+* **Versionen** höjs till 0.5.0. Med `omkonvertera = true` i en
+  kommunfil (ADR-0019) hämtas och konverteras då hela poolen om. Det
+  ändrar inget i maskningen, eftersom poolen redan maskats med samma
+  regel, men det tar många nätter; Kungsbacka har `omkonvertera = false`.
 * **Historiken** lämnas som den är.
 * **Felen i källan** rapporteras till kommunen i en rapport utanför
   repot. Inga issues skrivs om personuppgifter, eftersom de skulle peka ut
@@ -92,7 +95,7 @@ att pröva mot hela poolen. Reglerna står i
 
 ### Confirmation
 
-* `tests/test_maskning.py` prövar varje mönster med påhittade exempel där
+* `tests/test_maskning.py` och `tests/test_maska_poolen.py` prövar varje mönster med påhittade exempel där
   facit går att räkna för hand: giltiga och ogiltiga personnummer, belopp,
   diarienummer, datumintervall och organisationsnummer som ska stå kvar,
   mobilnummer mitt i en talrad, escapad e-post och adresser i en
@@ -168,5 +171,14 @@ att pröva mot hela poolen. Reglerna står i
    `avvikelse`-issue per ärende. Projektägaren ville inte ha några issues
    om personuppgifter, eftersom de synliggör uppgifterna igen; de stängdes
    och tömdes, och felen gick till kommunen i en rapport utanför repot.
-8. **Omprövas** när poolen paketeras för AI (#56), om namn eller fler
+8. **Granskningen (granskaren).** Fann att datakontrollen jämförde en
+   omskriven CSV med originalet och därför larmade på en giltig CSV i en
+   annan form, att påhittade förnamn stod i testerna, att gatumönstret
+   kunde ta ett tal i en tabellrad, att mobilnummer direkt efter punkt
+   eller kommatecken missades, och att datakontrollen drog in hela
+   konverteringen. Allt rättades i samma pull request: cellerna jämförs,
+   testerna använder roller, gatunamnets efterled är en fast lista, och regeln ligger i en
+   egen modul. Poolen maskades om från `main` med de rättade mönstren,
+   med samma resultat.
+9. **Omprövas** när poolen paketeras för AI (#56), om namn eller fler
    slags uppgifter behöver bort.

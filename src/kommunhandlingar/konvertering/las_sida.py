@@ -13,9 +13,9 @@ import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
-from kommunhandlingar.konvertering.personuppgifter import maska
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
+from kommunhandlingar.personuppgifter import maska
 
 RENDERING_72_DPI = 1
 
@@ -34,8 +34,10 @@ def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
         case "tom":
             return Sida("tom", False)
         case "ocr":
-            return maskad(ocr_sida(rendering, figurer.har_figur(sida, [])))
-    return maskad(textsida(sida))
+            last = ocr_sida(rendering, figurer.har_figur(sida, []))
+        case _:
+            last = textsida(sida)
+    return maskad(last)
 
 
 def maskad(sida: Sida) -> Sida:

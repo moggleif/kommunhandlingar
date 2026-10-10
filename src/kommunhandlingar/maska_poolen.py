@@ -1,4 +1,4 @@
-"""Krav: K17 i docs/02-KRAV.md, ADR-0022. Test: tests/test_maskning.py.
+"""Krav: K17 i docs/02-KRAV.md, ADR-0022. Test: tests/test_maska_poolen.py.
 
 `python -m kommunhandlingar.maska_poolen <data>` maskar personuppgifterna
 i text och tabeller som en äldre version skrivit, utan att hämta PDF:en.
@@ -7,13 +7,11 @@ fortfarande vilken version som läste dokumentet. En fil skrivs bara om
 något maskas, och en andra körning ändrar ingenting.
 """
 
-import csv
-import io
 import sys
 from pathlib import Path
 
-from kommunhandlingar.konvertering.personuppgifter import maska
 from kommunhandlingar.konvertering.tabeller import som_csv
+from kommunhandlingar.personuppgifter import maskad_md, maskade_celler
 from kommunhandlingar.skrivning import skriv_md
 
 
@@ -22,31 +20,20 @@ def maska_poolen(data: Path) -> int:
     for fil in sorted(data.rglob("*")):
         maskad = maskad_fil(fil)
         if maskad is not None:
-            skriv_md(fil, maskad)
+            skriv_md(fil, maskad)  # skriver via en temporär fil, också för CSV
             andrade += 1
     return andrade
 
 
 def maskad_fil(fil: Path) -> str | None:
-    if fil.suffix == ".md":
-        text = fil.read_text(encoding="utf-8")
-        maskad = maskad_md(text)
-    elif fil.suffix == ".csv":
-        text = fil.read_text(encoding="utf-8")
-        maskad = maskad_csv(text)
-    else:
+    if fil.suffix not in (".md", ".csv"):
         return None
-    return None if maskad == text else maskad
-
-
-def maskad_md(text: str) -> str:
-    huvud, slut, brodtext = text.partition("\n---\n")
-    return huvud + slut + maska(brodtext) if slut else text
-
-
-def maskad_csv(text: str) -> str:
-    rader = csv.reader(io.StringIO(text))
-    return som_csv([[maska(cell) for cell in rad] for rad in rader])
+    text = fil.read_text(encoding="utf-8")
+    if fil.suffix == ".md":
+        maskad = maskad_md(text)
+        return None if maskad == text else maskad
+    celler = maskade_celler(text)
+    return None if celler is None else som_csv(celler)
 
 
 if __name__ == "__main__":

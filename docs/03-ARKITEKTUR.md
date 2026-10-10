@@ -774,9 +774,9 @@ parentes; resten av raden står kvar.
 | Uppgift      | Känns igen som                                                       | Markör                       |
 | ------------ | -------------------------------------------------------------------- | ---------------------------- |
 | Personnummer | `ÅÅMMDD-NNNN`, `ÅÅMMDD+NNNN`, `ÅÅÅÅMMDD-NNNN` eller `ÅÅÅÅMMDDNNNN` med århundradet 19 eller 20, där månaden och dagen finns (dag 61–91 för samordningsnummer) och kontrollsiffran stämmer | `(personnummer borttaget)` |
-| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av tal | `(mobilnummer borttaget)` |
+| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av tal, också direkt efter `.` eller `,` | `(mobilnummer borttaget)` |
 | E-postadress | något`@`domän`.`toppdomän                                              | `(e-post borttagen)`         |
-| Gatuadress   | ett gatunamn med nummer, och ibland lägenhetsnummer, som följs av postnummer och ort på samma eller nästa rad | `(adress borttagen)`         |
+| Gatuadress   | ett gatunamn som slutar på väg, gata, gränd, stig, backe, torg, allé, led, lid eller plats (i grundform eller bestämd form, också som eget ord: `Exempels väg`), med nummer och ibland lägenhetsnummer, följt av postnummer och ort på samma eller nästa rad | `(adress borttagen)`         |
 
 - **Talen runt omkring** rörs inte. Ett personnummer utan bindestreck
   med tio siffror känns inte igen, eftersom samma form finns bland
@@ -792,7 +792,11 @@ parentes; resten av raden står kvar.
   `pipeline` rörs inte. En andra körning ändrar ingenting.
 - **Datakontrollen** faller på en fil där maskningen skulle ändra något.
 - **Det som inte känns igen** står kvar: ett nummer som OCR läst fel, som
-  delats av en radbrytning, eller en adress utan postnummer.
+  delats av en radbrytning eller skrivits med tankstreck, `(+46)` eller
+  `0046`, en adress utan postnummer, och ett gatunamn med ett annat
+  efterled (`Hamnvägen` maskas, `Hamnen 3` inte).
+- **Koden** står i `src/kommunhandlingar/personuppgifter.py`, som
+  konverteringen, poolkommandot och datakontrollen delar.
 
 ## Steg 2: hämta och konvertera
 

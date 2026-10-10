@@ -1,11 +1,13 @@
 """Krav: K17 i docs/02-KRAV.md, ADR-0022. Test: tests/test_maskning.py.
 
 Personnummer, mobilnummer, e-postadresser och gatuadresser med postnummer
-byts mot en markör. Mönstren tål text som redan escapats som Markdown
-(ADR-0021) och `<br>` i en tabellcell, så att samma regel gäller vid
-konverteringen, i poolen och i datakontrollen.
+byts mot en markör. Regeln är gemensam för konverteringen, poolkommandot
+och datakontrollen, och mönstren tål därför text som redan escapats som
+Markdown (ADR-0021) och `<br>` i en tabellcell.
 """
 
+import csv
+import io
 import re
 
 # Tio siffror utan bindestreck finns bland beloppen och räknas inte.
@@ -14,10 +16,15 @@ PERSONNUMMER = re.compile(
 )
 # Inte mitt i en följd av talgrupper, som i en tabell med belopp.
 MOBILNUMMER = re.compile(
-    r"(?<![\w+,.-])(?<!\d )(?:\+46 ?|0)7[02369](?:[- ]?\d){7}(?![\w-])(?! \d)"
+    r"(?<![\w+-])(?<!\d[,.])(?<!\d )(?:\+46 ?|0)7[02369](?:[- ]?\d){7}"
+    r"(?![\w-])(?! \d)"
 )
 EPOST = re.compile(r"(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
-GATA = r"\b[A-ZÅÄÖ][\w-]*? ?(?:väg|gat|gränd|stig|back|torg|allé|led|lid|plats)\w*"
+# Efterleden är en fast lista, så att "platser" eller "vägar" följt av tal
+# i en tabellrad inte läses som en adress.
+EFTERLED = "väg|vägen|gata|gatan|gränd|gränden|stig|stigen|backe|backen"
+EFTERLED += "|torg|torget|allé|alléen|led|leden|lid|liden|plats|platsen"
+GATA = rf"\b[A-ZÅÄÖ][\w-]*? ?(?:{EFTERLED})"
 NUMMER = r" \d{1,4}(?: ?[A-Z]\b)?(?:,? ?[Ll]gh\.? ?\d+)?"
 POSTORT = r"(?=[ ,]*(?:(?:<br>|\n)[ \t]*){0,2}\d{3} ?\d{2} [A-ZÅÄÖ])"
 GATUADRESS = re.compile(GATA + NUMMER + POSTORT)
@@ -28,6 +35,19 @@ def maska(text: str) -> str:
     text = MOBILNUMMER.sub("(mobilnummer borttaget)", text)
     text = EPOST.sub("(e-post borttagen)", text)
     return GATUADRESS.sub("(adress borttagen)", text)
+
+
+def maskad_md(text: str) -> str:
+    """Brödtexten maskas; front matter rörs inte."""
+    huvud, slut, brodtext = text.partition("\n---\n")
+    return huvud + slut + maska(brodtext) if slut else text
+
+
+def maskade_celler(text: str) -> list[list[str]] | None:
+    """Cellerna i en CSV maskade, eller None när ingen cell ändras."""
+    rader = list(csv.reader(io.StringIO(text)))
+    maskade = [[maska(cell) for cell in rad] for rad in rader]
+    return None if maskade == rader else maskade
 
 
 def personnummer(traff: re.Match) -> str:
