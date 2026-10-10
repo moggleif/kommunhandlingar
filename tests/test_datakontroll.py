@@ -141,9 +141,37 @@ class TestTabellkontroll(Pool):
         self.assertEqual(self.fel(), [f"{DOKUMENT}: {PERSONUPPGIFTER}"])
 
     def test_namn(self):
-        (self.katalog / "02-1.csv").write_text("a\n")
-        namn = "<sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
-        self.assertEqual(self.fel(), [f"{self.relativ}/02-1.csv: heter inte {namn}"])
+        namn = (
+            "<sida>-<nr>.csv, <sida>-<sista sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
+        )
+        for fil in ("02-1.csv", "3-3-1.csv", "3-2-1.csv", "2-3-1.tolkad.csv"):
+            with self.subTest(fil):
+                (self.katalog / fil).write_text("a\n")
+                self.assertEqual(
+                    self.fel(), [f"{self.relativ}/{fil}: heter inte {namn}"]
+                )
+                (self.katalog / fil).unlink()
+
+    def test_tabell_over_flera_sidor(self):
+        (self.katalog / "2-1.csv").rename(self.katalog / "2-3-1.csv")
+        self.assertEqual(self.fel(), [])
+
+    def test_varje_sida_i_spannet_ar_last_ur_textlagret(self):
+        (self.katalog / "3-1.csv").rename(self.katalog / "3-5-1.csv")
+        self.assertEqual(
+            self.fel(),
+            [
+                f"{self.relativ}/3-5-1.csv: sidan {s} finns inte "
+                "eller är inte läst ur textlagret"
+                for s in (4, 5)
+            ],
+        )
+
+    def test_ingen_tabell_borjar_inne_i_spannet(self):
+        (self.katalog / "1-3-1.csv").write_text("a\n")
+        self.assertEqual(
+            self.fel(), [f"{self.relativ}/2-1.csv: börjar inne i 1-3-1.csv"]
+        )
 
     def test_lucka_i_numren(self):
         (self.katalog / "2-3.csv").write_text("a\n")

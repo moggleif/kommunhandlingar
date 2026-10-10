@@ -13,6 +13,7 @@ import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 from kommunhandlingar.personuppgifter import maska
@@ -27,6 +28,7 @@ class Sida:
     text: str = ""
     tabeller: list[list[list[str]]] = field(default_factory=list)
     figur: bool = False
+    skarv: Skarv | None = None
 
 
 def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
@@ -76,6 +78,7 @@ def textsida(sida: Page) -> Sida:
         text,
         [rader for _, rader in hittade],
         figurer.har_figur(sida, rutor),
+        skarv(utanfor, [ruta for ruta, _ in hittade]),
     )
 
 
