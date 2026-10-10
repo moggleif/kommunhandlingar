@@ -71,8 +71,9 @@ att pröva mot hela poolen. Reglerna står i
   så att inget omaskat når `main` (K11).
 * **Versionen** höjs till 0.5.0.
 * **Historiken** lämnas som den är.
-* **Felen i källan** blir ett `avvikelse`-issue per ärende, #68–#81, utan
-  uppgifterna själva. En människa mejlar kommunen.
+* **Felen i källan** rapporteras till kommunen i en rapport utanför
+  repot. Inga issues skrivs om personuppgifter, eftersom de skulle peka ut
+  var uppgifterna står.
 
 ### Consequences
 
@@ -163,5 +164,9 @@ att pröva mot hela poolen. Reglerna står i
    står i samma form. Alla e-postadresser maskas, eftersom en lista över
    privata e-posttjänster vore en gissning; de flesta i poolen är
    anställdas `förnamn.efternamn@`.
-7. **Omprövas** när poolen paketeras för AI (#56), om namn eller fler
+7. **Rapporteringen (projektägaren).** Agenten skrev först ett
+   `avvikelse`-issue per ärende. Projektägaren ville inte ha några issues
+   om personuppgifter, eftersom de synliggör uppgifterna igen; de stängdes
+   och tömdes, och felen gick till kommunen i en rapport utanför repot.
+8. **Omprövas** när poolen paketeras för AI (#56), om namn eller fler
    slags uppgifter behöver bort.
