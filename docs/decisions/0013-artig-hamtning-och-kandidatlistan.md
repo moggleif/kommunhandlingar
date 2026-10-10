@@ -1,6 +1,6 @@
 ---
-status: proposed
-date: 2026-10-07
+status: accepted
+date: 2026-10-10
 decision-makers: projektägaren
 consulted: AI-agenten
 ---
