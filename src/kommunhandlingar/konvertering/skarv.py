@@ -1,10 +1,11 @@
 """Krav: K19 i docs/02-KRAV.md, ADR-0024. Test: tests/test_skarvar.py.
 
-Det en sida behöver visa för att dess tabeller ska kunna slås ihop med
-grannsidornas: kanterna på den första och den sista tabellen, textraderna
-ovanför den första och under den sista, och alla sidans textrader utan
-siffror, så att sidhuvud och sidfot känns igen på grannsidan
-(docs/03-ARKITEKTUR.md#tabeller-över-flera-sidor).
+Det en sida lästa ur textlagret behöver visa för att dess tabeller ska
+kunna slås ihop med grannsidornas (docs/03-ARKITEKTUR.md#tabeller-över-flera-sidor):
+kolumngränserna på den första och den sista tabellen, och sidans
+textrader utanför tabellerna som läge och text utan siffror, så att
+sidhuvud och sidfot känns igen på andra sidor. Raderna jämförs bara och
+skrivs aldrig, så de behöver inte maskas.
 """
 
 import re
@@ -12,40 +13,37 @@ from dataclasses import dataclass
 
 from pdfplumber.page import Page
 
-BOKSTAV = re.compile(r"[^\W\d_]")
 SIFFROR = re.compile(r"\d+")
+
+# En textrad: överkanten avrundad till hela punkter, och texten utan siffror.
+Rad = tuple[int, str]
 
 
 @dataclass(frozen=True)
 class Skarv:
-    forsta: tuple[float, float]
-    sista: tuple[float, float]
-    ovanfor: list[str]
-    nedanfor: list[str]
-    utan_siffror: frozenset[str]
+    rader: frozenset[Rad]
+    forsta: tuple[float, ...] = ()
+    sista: tuple[float, ...] = ()
+    ovanfor: tuple[Rad, ...] = ()
+    nedanfor: tuple[Rad, ...] = ()
 
 
-def skarv(utanfor: Page, rutor: list[tuple]) -> Skarv | None:
-    """`utanfor` är sidan utan tabellernas tecken, `rutor` tabellerna i
-    sidans ordning."""
-    if not rutor:
-        return None
-    rader = utanfor.extract_text_lines()
-    forsta, sista = rutor[0], rutor[-1]
+def skarv(utanfor: Page, tabeller: list[tuple[tuple, tuple]]) -> Skarv:
+    """`utanfor` är sidan utan tabellernas tecken, `tabeller` varje tabells
+    ruta och kolumngränser i sidans ordning."""
+    linjer = utanfor.extract_text_lines()
+    rader = frozenset(rad(t) for t in linjer)
+    if not tabeller:
+        return Skarv(rader)
+    (forsta, kanter_forsta), (sista, kanter_sista) = tabeller[0], tabeller[-1]
     return Skarv(
-        (forsta[0], forsta[2]),
-        (sista[0], sista[2]),
-        [r["text"] for r in rader if r["bottom"] <= forsta[1]],
-        [r["text"] for r in rader if r["top"] >= sista[3]],
-        frozenset(utan_siffror(r["text"]) for r in rader),
+        rader,
+        kanter_forsta,
+        kanter_sista,
+        tuple(rad(t) for t in linjer if t["bottom"] <= forsta[1]),
+        tuple(rad(t) for t in linjer if t["top"] >= sista[3]),
     )
 
 
-def utan_siffror(rad: str) -> str:
-    return " ".join(SIFFROR.sub("", rad).split())
-
-
-def ar_marginal(rad: str, granne: Skarv) -> bool:
-    """Ett sidnummer, eller en rad som står på grannsidan när siffrorna
-    inte räknas."""
-    return not BOKSTAV.search(rad) or utan_siffror(rad) in granne.utan_siffror
+def rad(linje: dict) -> Rad:
+    return round(linje["top"]), " ".join(SIFFROR.sub("", linje["text"]).split())

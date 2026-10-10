@@ -32,8 +32,7 @@ def tabellfel(fil: Path) -> list[str]:
     formfel = formatfel(fil)
     fel = luckfel(fil, f"{sida}-{nr - 1}{tolkad}.csv", nr) + formfel
     if not tolkad:
-        sidor = range(sida, sista + 1)
-        return [f for s in sidor for f in sidfel(md, s)] + spannfel(fil, sida, nr) + fel
+        return sidfel(md, range(sida, sista + 1)) + spannfel(fil, sida, nr) + fel
     return tolkningsfel(md, sida) + fel + ([] if formfel else talfel(fil, md, sida))
 
 
@@ -63,11 +62,15 @@ def las_lista(md: Path, namn: str) -> list[str] | None:
         return None  # felet i front matter rapporteras för `.md`
 
 
-def sidfel(md: Path, sida: int) -> list[str]:
-    sidor = las_lista(md, "kvalitet_per_sida")
-    if sidor is not None and (sida > len(sidor) or sidor[sida - 1] not in TEXTLAGER):
-        return [f"sidan {sida} finns inte eller är inte läst ur textlagret"]
-    return []
+def sidfel(md: Path, sidor: range) -> list[str]:
+    kvalitet = las_lista(md, "kvalitet_per_sida")
+    if kvalitet is None:
+        return []
+    return [
+        f"sidan {sida} finns inte eller är inte läst ur textlagret"
+        for sida in sidor
+        if sida > len(kvalitet) or kvalitet[sida - 1] not in TEXTLAGER
+    ]
 
 
 def tolkningsfel(md: Path, sida: int) -> list[str]:

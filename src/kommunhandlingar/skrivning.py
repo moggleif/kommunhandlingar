@@ -1,4 +1,5 @@
-"""Krav: K4, K5 och K8, ADR-0004 och ADR-0009. Test: tests/test_hamta.py.
+"""Krav: K4, K5, K8 och K19, ADR-0004, ADR-0009 och ADR-0024.
+Test: tests/test_hamta.py och tests/test_skarvar.py.
 
 Dokumentets `.md` och tabellkatalog. Tabellerna skrivs först och ersätter
 katalogen som helhet; `.md` skrivs sist, via en temporär fil i samma
@@ -28,7 +29,7 @@ def brodtext(sidor: list[Sida], katalog: str) -> str:
     for nr, sida in enumerate(sidor, 1):
         delar.append(f"<!-- sida {nr} -->")
         delar += [sida.text] if sida.text else []
-        for t in (t for t in tabeller if t.sida == nr):
+        for t in [t for t in tabeller if t.sida == nr]:
             lank = f"[Tabell {t.namn}]({katalog}/{t.namn}.csv)"
             delar.append(f"{lank}\n\n{som_markdown(t.rader)}")
     return "\n\n".join(delar) + "\n"

@@ -104,6 +104,11 @@ def inom(punkt: tuple[float, float], ruta: tuple) -> bool:
     return ruta[0] <= punkt[0] <= ruta[2] and ruta[1] <= punkt[1] <= ruta[3]
 
 
+def kanter(tabell: Table) -> tuple[float, ...]:
+    """Kolumnernas vänsterkanter och tabellens högerkant."""
+    return (*(k.bbox[0] for k in tabell.columns), tabell.bbox[2])
+
+
 def rader(tabell: Table) -> list[list[str]]:
     return [[cell or "" for cell in rad] for rad in tabell.extract()]
 

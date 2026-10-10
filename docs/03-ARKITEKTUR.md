@@ -728,13 +728,19 @@ fortsätter i den första säkra tabellen på nästa sida när allt detta
 gäller:
 
 1. **Textlagret:** båda sidorna är lästa ur textlagret.
-2. **Kolumnerna:** båda har lika många kolumner, och deras vänster- och
-   högerkant skiljer sig högst 3 punkter.
+2. **Kolumnerna:** båda har lika många kolumner, och varje kolumngräns
+   skiljer sig högst 3 punkter. För en tabell med linjer är gränserna
+   kolumnernas vänsterkanter och tabellens högerkant; för en tabell utan
+   lodräta linjer etiketternas vänsterkant och kolumnernas högerkanter.
 3. **Ingenting emellan:** varje textrad under tabellen på den första
-   sidan och ovanför tabellen på den andra är sidhuvud, sidfot eller
-   sidnummer. En sådan rad har ingen bokstav (`8`, `2 (4)`), eller står
-   också på grannsidan när siffrorna inte räknas (`KUNGSBACKA KOMMUN
-   3(4)` och `KUNGSBACKA KOMMUN 2(4)`).
+   sidan och ovanför tabellen på den andra är sidhuvud eller sidfot. En
+   sådan rad står, med samma text när siffrorna inte räknas, på samma
+   höjd (avrundad till hela punkter) på minst tre av dokumentets sidor:
+   `KUNGSBACKA KOMMUN 3(4)`, `Sida 4 av 7` och ett ensamt sidnummer.
+   En rubrik, en fotnot eller ett datum mellan tabellerna gör att de
+   förblir två. En numrerad rubrik som står på samma höjd på tre sidor
+   räknas dock som sidhuvud, och i ett dokument på två sidor känns inget
+   sidhuvud igen.
 
 Tabellerna slås ihop sida för sida, så att en tabell kan gå över många
 sidor. Fortsättningens första rad tas bort när den är exakt lika med
@@ -778,8 +784,8 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
   text. Den står efter texten, i
   sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
   följd av tabellen i Markdown. En tabell över flera sidor står efter
-  första sidans text (`[Tabell 9-12-1](<namn>.tabeller/9-12-1.csv)`). Där är första raden tabellhuvud, eftersom
-  Markdown kräver ett. Cellerna escapas som texten utom i radens början;
+  första sidans text (`[Tabell 9-12-1](<namn>.tabeller/9-12-1.csv)`).
+  Där är första raden tabellhuvud, eftersom Markdown kräver ett. Cellerna escapas som texten utom i radens början;
   `|` skrivs `\|` och en radbrytning `<br>`.
 - **En sida utan text** (`tom`, `ej-konverterad`) har bara sin kommentar.
   En `.md` för ett dokument som inte gick att hämta eller öppna har ingen
@@ -867,9 +873,9 @@ tabeller har ingen tabellkatalog.
   ([Tabeller över flera sidor](#tabeller-över-flera-sidor)) heter
   `<sida>-<sista sida>-<nr>.csv`, där sidan och numret är där tabellen
   börjar: `9-12-1.csv` börjar som första tabell på sidan 9 och slutar på
-  sidan 12. Numren på en sida räknar bara de tabeller som börjar där. En tabell som tolkats ur ett diagram heter
-  `<sida>-<nr>.tolkad.csv` och numreras för sig
-  ([Tolkade figurer](#tolkade-figurer)).
+  sidan 12. Numren på en sida räknar bara de tabeller som börjar där.
+  En tabell som tolkats ur ett diagram heter `<sida>-<nr>.tolkad.csv`
+  och numreras för sig ([Tolkade figurer](#tolkade-figurer)).
 - **Härkomsten** är front matter i tabellkatalogens `.md`. Tabellerna
   har ingen egen. Står sidan i `tal_obekraftade` är talen i dess CSV:er
   inte bekräftade; det syns bara i `.md`.
@@ -884,9 +890,9 @@ tabeller har ingen tabellkatalog.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
   eller `tabell-osaker`. För en tabell över flera sidor gäller det varje
-  sida i spannet, och ingen annan tabell får börja inne i spannet. För en tolkad CSV prövar den i stället att
-  sidan står i `tolkade` och att talen står i sidans text
-  ([Tolkade figurer](#tolkade-figurer)).
+  sida i spannet, och ingen annan tabell får börja inne i spannet. För
+  en tolkad CSV prövar den i stället att sidan står i `tolkade` och att
+  talen står i sidans text ([Tolkade figurer](#tolkade-figurer)).
 
 ## Tolkade figurer
 

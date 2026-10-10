@@ -52,8 +52,10 @@ uppställning, och det bara finns medan PDF:en är öppen.
 
 * **Regeln** står i
   [03-ARKITEKTUR.md](../03-ARKITEKTUR.md#tabeller-över-flera-sidor): båda
-  sidorna lästa ur textlagret, lika många kolumner och samma kanter inom
-  3 punkter, och bara sidhuvud, sidfot och sidnummer emellan.
+  sidorna lästa ur textlagret, samma kolumngränser inom 3 punkter, och
+  bara sidhuvud och sidfot emellan. Sidhuvud och sidfot är rader som,
+  utan sina siffror, står på samma höjd på minst tre av dokumentets
+  sidor.
 * **En upprepad rubrik** tas bort ur fortsättningen när den är exakt
   lika med tabellens första rad.
 * **En bruten rad** står kvar som två rader. Att foga ihop cellerna vore
@@ -75,6 +77,9 @@ uppställning, och det bara finns medan PDF:en är öppen.
   delarna inte slås ihop, fast den hör ihop.
 * Dåligt, eftersom en rad som brutits vid sidslutet står kvar som två
   rader.
+* Dåligt, eftersom ett dokument på två sidor inte har något sidhuvud som
+  känns igen, och en numrerad rubrik på samma höjd på tre sidor räknas
+  som sidhuvud.
 * Dåligt, eftersom dokumenten i poolen har kvar en tabell per sida tills
   de konverterats om.
 * Neutralt, eftersom filnamnen nu har två former, med två eller tre tal.
@@ -83,7 +88,8 @@ uppställning, och det bara finns medan PDF:en är öppen.
 
 Tester mot en PDF i `tests/fixtures/pdf/` med en tabell över tre sidor,
 med sidhuvud, sidfot och upprepad rubrik, och med tabeller som inte ska
-slås ihop: en med en rubrik emellan och en med en annan bredd.
+slås ihop: en rubrik emellan, en rubrik som bara skiljer i en siffra,
+ett datum under tabellen och samma yttermått med andra kolumner.
 Datakontrollen prövar namnet och spannet.
 
 ## Pros and Cons of the Options
@@ -125,7 +131,14 @@ Datakontrollen prövar namnet och spannet.
 3. **Agentens rekommendationer**, som projektägaren sa ja till: ta bort
    en upprepad rubrik bara när den är exakt lika, skriv sidorna i
    filnamnet, och konvertera om poolen som ett eget steg (#84).
-4. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
+4. **Granskningen (agenten, fas 6)** visade att den första regeln slog
+   ihop för mycket. Den räknade en rad som sidhuvud om den, utan
+   siffror, stod var som helst på grannsidan, så `Avsnitt 1` och
+   `Avsnitt 2` blev sidhuvud, och en rad utan bokstäver, som ett datum,
+   räknades som sidnummer. Den jämförde också bara tabellernas
+   yttermått. Regeln skärptes: raden ska stå på samma höjd på minst tre
+   sidor, och varje kolumngräns ska stämma.
+5. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
    tabeller på OCR-sidor slås inte ihop.
-5. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
+6. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
    eller fotnot mellan delarna.
