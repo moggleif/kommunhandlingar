@@ -35,7 +35,7 @@ def tabeller(sidor: list[Sida]) -> list[Sammanslagen]:
     ut: list[Sammanslagen] = []
     for nr, sida in enumerate(sidor, 1):
         egna = sida.tabeller
-        if nr > 1 and fortsatter(sidor[nr - 2].skarv, sida.skarv, marginal):
+        if nr > 1 and hor_ihop(sidor[nr - 2], sida, marginal):
             ut[-1] = forlangd(ut[-1], nr, egna[0])
             egna = egna[1:]
         ut += [Sammanslagen(nr, nr, t_nr, rader) for t_nr, rader in enumerate(egna, 1)]
@@ -43,8 +43,9 @@ def tabeller(sidor: list[Sida]) -> list[Sammanslagen]:
 
 
 def marginalen(sidor: list[Sida]) -> set[Rad]:
-    """Rader som står på samma höjd på minst tre sidor: sidhuvud och sidfot."""
-    antal = Counter(r for s in sidor if s.skarv for r in s.skarv.rader)
+    """Rader i marginalen som står på samma höjd på minst tre sidor: sidhuvud
+    och sidfot."""
+    antal = Counter(r for s in sidor if s.skarv for r in s.skarv.marginalen)
     return {r for r, n in antal.items() if n >= MARGINALENS_SIDOR}
 
 
@@ -54,8 +55,14 @@ def forlangd(tabell: Sammanslagen, sida: int, rader: list[list[str]]) -> Sammans
     return replace(tabell, sista_sida=sida, rader=tabell.rader + rader)
 
 
+def hor_ihop(fore: Sida, efter: Sida, marginal: set[Rad]) -> bool:
+    """Talen i en tabell ska vara bekräftade på alla sidor eller på ingen."""
+    samma_markning = fore.tal_obekraftade == efter.tal_obekraftade
+    return samma_markning and fortsatter(fore.skarv, efter.skarv, marginal)
+
+
 def fortsatter(fore: Skarv | None, efter: Skarv | None, marginal: set[Rad]) -> bool:
-    if fore is None or efter is None or not fore.sista or not efter.forsta:
+    if fore is None or efter is None or not fore.sista_nederst or not efter.forsta:
         return False
     return samma_kolumner(fore.sista, efter.forsta) and marginal.issuperset(
         fore.nedanfor + efter.ovanfor

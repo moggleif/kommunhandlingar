@@ -19,7 +19,9 @@ brutits vid sidslutet
 Ett stickprov i poolen 2026-10-10 hittade 9 707 sidskarvar där en sida
 slutar med en tabell och nästa börjar med en; 8 405 hade samma antal
 kolumner, i 921 av 1 031 dokument med tabeller. I fem PDF:er där
-tabellernas läge mättes uppfyllde 24 av 56 skarvar en sträng regel.
+tabellernas läge mättes uppfyllde 24 av 56 skarvar den första, enklare
+regeln i fas 0; med den slutliga regeln slogs 21 skarvar ihop i
+samma PDF:er.
 Delegationsordningar, ärendelistor i kallelser och taxor går nästan alltid
 över flera sidor.
 
@@ -52,10 +54,11 @@ uppställning, och det bara finns medan PDF:en är öppen.
 
 * **Regeln** står i
   [03-ARKITEKTUR.md](../03-ARKITEKTUR.md#tabeller-över-flera-sidor): båda
-  sidorna lästa ur textlagret, samma kolumngränser inom 3 punkter, och
-  bara sidhuvud och sidfot emellan. Sidhuvud och sidfot är rader som,
-  utan sina siffror, står på samma höjd på minst tre av dokumentets
-  sidor.
+  sidorna lästa ur textlagret med samma märkning av talen, tabellen
+  slutar i sidans nedersta fjärdedel, samma kolumngränser inom 3 punkter,
+  och bara sidhuvud och sidfot emellan. Sidhuvud och sidfot är rader i
+  sidans översta eller nedersta tiondel som, utan sina siffror, står på
+  samma höjd på minst tre av dokumentets sidor.
 * **En upprepad rubrik** tas bort ur fortsättningen när den är exakt
   lika med tabellens första rad.
 * **En bruten rad** står kvar som två rader. Att foga ihop cellerna vore
@@ -78,8 +81,11 @@ uppställning, och det bara finns medan PDF:en är öppen.
 * Dåligt, eftersom en rad som brutits vid sidslutet står kvar som två
   rader.
 * Dåligt, eftersom ett dokument på två sidor inte har något sidhuvud som
-  känns igen, och en numrerad rubrik på samma höjd på tre sidor räknas
-  som sidhuvud.
+  känns igen, och en numrerad rubrik i marginalen på samma höjd på tre
+  sidor räknas som sidhuvud.
+* Dåligt, eftersom en rubrik i två rader står kvar i fortsättningen, och
+  numren på fortsättningens sida ändras: `2-2.csv` kan bli `2-1.csv` när
+  dokumentet konverteras om.
 * Dåligt, eftersom dokumenten i poolen har kvar en tabell per sida tills
   de konverterats om.
 * Neutralt, eftersom filnamnen nu har två former, med två eller tre tal.
@@ -88,8 +94,10 @@ uppställning, och det bara finns medan PDF:en är öppen.
 
 Tester mot en PDF i `tests/fixtures/pdf/` med en tabell över tre sidor,
 med sidhuvud, sidfot och upprepad rubrik, och med tabeller som inte ska
-slås ihop: en rubrik emellan, en rubrik som bara skiljer i en siffra,
-ett datum under tabellen och samma yttermått med andra kolumner.
+slås ihop: en tabell som slutar mitt på sidan, en rubrik som bara
+skiljer i en siffra, ett datum under tabellen och samma yttermått med
+andra kolumner. Fixturen har också en tabell utan lodräta linjer över två
+sidor.
 Datakontrollen prövar namnet och spannet.
 
 ## Pros and Cons of the Options
@@ -138,7 +146,15 @@ Datakontrollen prövar namnet och spannet.
    räknades som sidnummer. Den jämförde också bara tabellernas
    yttermått. Regeln skärptes: raden ska stå på samma höjd på minst tre
    sidor, och varje kolumngräns ska stämma.
-5. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
+5. **Den andra granskningen** hittade två konstruerade fall som ändå
+   slogs ihop: omröstningsbilagor med rubriken `§ 41`, `§ 42`, … på samma
+   höjd på varje sida, och en summarad på samma höjd under varje tabell.
+   Två villkor lades till: tabellen ska sluta i sidans nedersta fjärdedel,
+   som den gör när sidan tog slut, och sidhuvud och sidfot ska stå i
+   sidans översta eller nedersta tiondel. Granskningen påpekade också att
+   en sida med obekräftade tal skulle få den första sidans märkning; sådana
+   sidor slås inte ihop med sidor vars tal är bekräftade.
+6. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
    tabeller på OCR-sidor slås inte ihop.
-6. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
+7. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
    eller fotnot mellan delarna.

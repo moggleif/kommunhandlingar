@@ -91,9 +91,9 @@ en hel kommun tar timmar:
 python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
 ```
 
-PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py` och
-`skapa_skarvar.py` där bredvid, som behöver reportlab, pypdf och Pillow.
-De är inte projektets beroenden.
+PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py`, som behöver
+reportlab, pypdf och Pillow, och `skapa_skarvar.py`, som behöver
+reportlab. De är inte projektets beroenden.
 
 ## Figurerna
 

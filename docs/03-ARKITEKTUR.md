@@ -727,27 +727,34 @@ säker tabell, med eller utan lodräta linjer, som är den sista på en sida
 fortsätter i den första säkra tabellen på nästa sida när allt detta
 gäller:
 
-1. **Textlagret:** båda sidorna är lästa ur textlagret.
-2. **Kolumnerna:** båda har lika många kolumner, och varje kolumngräns
+1. **Textlagret:** båda sidorna är lästa ur textlagret, och båda står i
+   `tal_obekraftade` eller ingen av dem.
+2. **Sidslutet:** tabellen på den första sidan slutar i sidans nedersta
+   fjärdedel. En tabell som slutar högre upp tog slut där.
+3. **Kolumnerna:** båda har lika många kolumner, och varje kolumngräns
    skiljer sig högst 3 punkter. För en tabell med linjer är gränserna
    kolumnernas vänsterkanter och tabellens högerkant; för en tabell utan
    lodräta linjer etiketternas vänsterkant och kolumnernas högerkanter.
-3. **Ingenting emellan:** varje textrad under tabellen på den första
+4. **Ingenting emellan:** varje textrad under tabellen på den första
    sidan och ovanför tabellen på den andra är sidhuvud eller sidfot. En
-   sådan rad står, med samma text när siffrorna inte räknas, på samma
-   höjd (avrundad till hela punkter) på minst tre av dokumentets sidor:
-   `KUNGSBACKA KOMMUN 3(4)`, `Sida 4 av 7` och ett ensamt sidnummer.
-   En rubrik, en fotnot eller ett datum mellan tabellerna gör att de
-   förblir två. En numrerad rubrik som står på samma höjd på tre sidor
-   räknas dock som sidhuvud, och i ett dokument på två sidor känns inget
-   sidhuvud igen.
+   sådan rad står i sidans översta eller nedersta tiondel och, med samma
+   text när siffrorna inte räknas, på samma höjd (avrundad till hela
+   punkter) på minst tre av dokumentets sidor: `Exempelby kommun 3(4)`,
+   `Sida 4 av 7` och ett ensamt sidnummer. En rubrik, en fotnot, en
+   summa eller ett datum mellan tabellerna gör att de förblir två. En
+   numrerad rubrik i marginalen på samma höjd på tre sidor räknas dock
+   som sidhuvud, och i ett dokument på två sidor känns inget sidhuvud
+   igen.
 
 Tabellerna slås ihop sida för sida, så att en tabell kan gå över många
 sidor. Fortsättningens första rad tas bort när den är exakt lika med
 tabellens första rad, en upprepad rubrik. Inga celler slås ihop: en rad
 som brutits vid sidslutet står kvar som två rader. Maskningen av
 personuppgifter görs på varje sida innan tabellerna slås ihop, och
-sammanslagningen ändrar ingen cell.
+sammanslagningen ändrar ingen cell. En rubrik i två rader upprepas inte
+exakt i sin första rad och står därför kvar i fortsättningen, och numren
+på fortsättningens sida räknas utan den, så att en tabell som hette
+`2-2.csv` heter `2-1.csv` efter omkonverteringen.
 
 ### Markdown-texten
 

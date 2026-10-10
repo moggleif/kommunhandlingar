@@ -4,14 +4,17 @@ Körs för hand med reportlab, som inte är projektets beroende:
 `python tests/fixtures/pdf/skapa_skarvar.py`. Varje sida har sidhuvud och
 sidfot med sidnumret.
 
-1. En rubrik och en tabell som fortsätter på nästa sida.
-2. Fortsättningen, med rubriken upprepad.
-3. Fortsättningen utan rubrik, en rubrik i texten och en ny tabell.
-4. En rubrik ovanför en tabell med samma kolumner: ingen fortsättning.
+1. En rubrik och en tabell som fyller sidan.
+2. Fortsättningen, med rubriken upprepad, som fyller sidan.
+3. Fortsättningen utan rubrik, en rubrik i texten och en ny tabell som
+   slutar mitt på sidan: ingen fortsättning.
+4. En rubrik ovanför en tabell som fyller sidan.
 5. Samma rubrik på samma höjd med en annan siffra: ingen fortsättning.
    Under tabellen står ett datum.
 6. En tabell direkt under sidhuvudet, men datumet på sidan 5 skiljer.
 7. Samma yttermått men andra kolumner: ingen fortsättning.
+8. En tabell utan lodräta linjer som fyller sidan.
+9. Fortsättningen.
 """
 
 from collections.abc import Iterator
@@ -21,7 +24,7 @@ from reportlab.pdfgen.canvas import Canvas
 
 HAR = Path(__file__).parent
 B, H = 595, 842
-SIDOR = 7
+SIDOR = 9
 KOLUMNER = [60, 120, 400, 535]
 RUBRIK = ("Nr", "Ärende", "Delegat")
 
@@ -50,26 +53,43 @@ def ram(c: Canvas, sida: int) -> None:
     c.drawString(270, 30, f"Sida {sida} av {SIDOR}")
 
 
+def post(nr: int) -> str:
+    """En etikett utan siffror, så att den inte läses som ett tal."""
+    return "Post " + chr(ord("a") + nr // 26) + chr(ord("a") + nr % 26)
+
+
+def poster(c: Canvas, topp: float, forsta: int, antal: int) -> None:
+    for i in range(antal):
+        y = topp - 20 * i
+        c.drawString(60, y, post(forsta + i))
+        c.drawRightString(400, y, f"{100 + forsta + i} 000")
+        c.drawRightString(500, y, f"{200 + forsta + i} 000")
+
+
 def sidor(c: Canvas) -> Iterator[None]:
     c.drawString(60, 780, "Delegationsordning")
     tabell(c, 760, [RUBRIK, *arenden(1, 30)], KOLUMNER)
     yield
-    tabell(c, 800, [RUBRIK, *arenden(2, 5)], KOLUMNER)
+    tabell(c, 800, [RUBRIK, *arenden(2, 31)], KOLUMNER)
     yield
     botten = tabell(c, 800, arenden(3, 3), KOLUMNER)
     c.drawString(60, botten - 30, "Avsnitt 4 Ekonomi")
     tabell(c, botten - 50, [RUBRIK, *arenden(4, 2)], KOLUMNER)
     yield
     c.drawString(60, 780, "Avsnitt 5 Ekonomi")
-    tabell(c, 760, [RUBRIK, *arenden(5, 2)], KOLUMNER)
+    tabell(c, 760, [RUBRIK, *arenden(5, 30)], KOLUMNER)
     yield
     c.drawString(60, 780, "Avsnitt 6 Ekonomi")
-    botten = tabell(c, 760, [RUBRIK, *arenden(6, 2)], KOLUMNER)
+    botten = tabell(c, 760, [RUBRIK, *arenden(6, 30)], KOLUMNER)
     c.drawString(60, botten - 20, "2026-10-10")
     yield
-    tabell(c, 800, [RUBRIK, *arenden(7, 2)], KOLUMNER)
+    tabell(c, 800, [RUBRIK, *arenden(7, 31)], KOLUMNER)
     yield
-    tabell(c, 800, [RUBRIK, *arenden(8, 2)], [60, 300, 450, 535])
+    tabell(c, 800, [RUBRIK, *arenden(8, 31)], [60, 300, 450, 535])
+    yield
+    poster(c, 790, 1, 33)
+    yield
+    poster(c, 790, 34, 3)
     yield
 
 

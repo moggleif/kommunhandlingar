@@ -527,9 +527,9 @@ Issue: [#62](https://github.com/moggleif/kommunhandlingar/issues/62).
 Vad som räknas som en fortsättning står i
 [Tabeller över flera sidor](03-ARKITEKTUR.md#tabeller-över-flera-sidor).
 
-- **Givet** en säker tabell sist på en sida som fortsätter först på nästa
-  sida, med samma kolumner och bara sidhuvud, sidfot eller sidnummer
-  emellan
+- **Givet** en säker tabell sist på en sida, som slutar längst ner och
+  fortsätter först på nästa sida, med samma kolumner och bara sidhuvud,
+  sidfot eller sidnummer emellan
 - **När** dokumentet konverteras
 - **Så** blir delarna en CSV, vars namn anger första och sista sidan, och
   tabellen står en gång i Markdown-texten, efter första sidans text.
@@ -541,9 +541,10 @@ Vad som räknas som en fortsättning står i
   vardera sidan
 - **När** delarna slås ihop
 - **Så** står delarna kvar som två rader; inga celler slås ihop.
-- **Givet** två tabeller på varsin sida med löptext, en rubrik eller en
-  fotnot emellan, med olika antal kolumner eller olika bredd, eller där
-  någon av sidorna är lästa med OCR
+- **Givet** två tabeller på varsin sida med löptext, en rubrik, en
+  fotnot eller en summa emellan, med olika kolumner, där den första
+  slutar mitt på sidan, där någon av sidorna är läst med OCR, eller där
+  bara den ena sidans tal är obekräftade
 - **När** dokumentet konverteras
 - **Så** förblir de två tabeller, som förut.
 - **Givet** en tabell som slagits ihop
