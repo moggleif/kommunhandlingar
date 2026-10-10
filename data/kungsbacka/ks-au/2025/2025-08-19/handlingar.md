@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -115,7 +115,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
 Stadshuset, Storgatan 37
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 0300–83 42 33                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -1130,7 +1130,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1159,7 +1159,7 @@ I enlighet med 3 § förordningen (1998:1252) om områdesskydd enligt miljöbalk
 m.m. fastställer Länsstyrelsen bifogad skötselplan (bilaga 1).
 
 Postadress    Besöksadress E-post            Telefon
-301 86 HALMSTAD Slottsgatan 2 Halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 28 -->
 

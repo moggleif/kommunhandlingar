@@ -170,7 +170,7 @@ Pamela Bjarne, familjebehandlare
 
 Madeleine Mijic, samordnare
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -804,7 +804,7 @@ Tf förvaltningschef                Enhetschef Ekonomi & administration
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2533,7 +2533,7 @@ leda till inskränkningar i vissa mänskliga rättigheter.
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9855,7 +9855,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den
 10 december.
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-223
-14 59 eller via e-post jonas.melinder@lansstyrelsen.se.
+14 59 eller via e-post (e-post borttagen).
 Vänlig hälsning, Jonas Melinder
 Bilagor: Enkät i pdf-format.
 
@@ -9889,7 +9889,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den 10 dec
 
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-2231459 eller via e-post
-Jonas.Melinder@lansstyrelsen.se.
+(e-post borttagen).
 Det går även bra att ringa till Länsstyrelsens växel. Telefonnummer finns längst ner på första sidan.
 
 Vänlig hälsning, Jonas Melinder
@@ -11123,7 +11123,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 271 -->
 
@@ -11243,8 +11243,8 @@ för mänskliga rättigheter och humanitär rätt)
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 3
 november 2025. Svaren bör lämnas per e-post till
 
-ju.remissvar@regeringskansliet.se och med kopia till
-ju.L4@regeringskansliet.se. Ange diarienummer Ju2025/01510 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer Ju2025/01510 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -11286,7 +11286,7 @@ Kansliråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -11587,11 +11587,11 @@ Beslutad av:    Kommunfullmäktige 18 oktober 2022 § 159 KS 2022-00282
 
 Gäller från:    2023-01-01
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 283 -->
 
@@ -11886,7 +11886,7 @@ utveckla gemensamma arbetssätt och processer som säkerställer ett helhetspers
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

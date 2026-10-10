@@ -210,7 +210,7 @@ Anmärkningarna ger tydlig information som ger förståelse för handlingens han
 Hänvisningar till kommunövergripande lednings- och stödprocesser är gjorda vilket
 ger en tydlighet i hanteringen.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 6 -->
 
@@ -225,7 +225,7 @@ Emma Grundström
 Specialist informationsförvaltning
 Kansli KLK
 Direkt +46300834242
-emma.grundstrom@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 7 -->
 
@@ -238,11 +238,11 @@ Beslutad av:    Nämnden för Kultur & Fritid, 2026-06-10 och paragraf
 Gäller från:    2026-06-10
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 8 -->
 

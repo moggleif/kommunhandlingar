@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -255,7 +255,7 @@ Kungsbacka       kommun
 
 Version till Ksau 2025-10-07
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -2062,7 +2062,7 @@ Kommundirektör                          Samhällsbyggnadschef
 KKUUNNGGSSBBAACCKKAA            TTEENNNNIISSKKLLUUBBBB
 
 Ansökan om förlängning av arrende, Staren 11.       29/1 2025
-Borgmästaregatan 12, 434 32 Kungsbacka
+(adress borttagen), 434 32 Kungsbacka
 
 Ansökan om förlängning av arrende
 
@@ -2079,7 +2079,7 @@ Patrik Larsson
 Klubbchef
 Kungsbacka TK
 
-Lindälvs gata 15, 434 32 Kungsbacka  0300-774 76  bg 554-3749 info@ktk.nu  www.ktk.nu
+(adress borttagen), 434 32 Kungsbacka  0300-774 76  bg 554-3749 (e-post borttagen)  www.ktk.nu
 
 <!-- sida 47 -->
 
@@ -3154,18 +3154,18 @@ Ansökan om rättelse av detaljplan genom planbesked/ny detaljplan
 Ommunstyrelsens förvaltning
 
 Fastighet som ansökan gäller: — Släps-Kullen 2:40 2025 -05- 2 8
-Fastighetsägare: Lennart Kurlberg, personnr 481112-5030
+Fastighetsägare: Lennart Kurlberg, personnr (personnummer borttaget)
 
-Vendergatan 26, Lgh 1303
+(adress borttagen)
 
 442 47 Kungälv
 
 Ulla-Britt Lindgren, personnr 310309-1921
-Kullaviks Konvaljväg 12
+Kullaviks (adress borttagen)
 429 33 Kullavik
 
-Björn Lindgren, personnr 460131-0032
-Kullaviks Konvaljväg 12
+Björn Lindgren, personnr (personnummer borttaget)
+Kullaviks (adress borttagen)
 429 33 Kullavik
 
 Sökande: Samtliga fastighetsägare
@@ -3264,7 +3264,7 @@ Adress
 
 Adress
 
-Kullaviks Trädgårdsväg 11
+Kullaviks (adress borttagen)
 429 33 Kullavik
 
 Areal
@@ -5157,7 +5157,7 @@ d)
 
 Kungsbacka kommun (212000-1256), nedan kallad Kommunen
 
-Lennart Larsson (19460422-5518) såsom ägare till fastigheten Lerberg 3:9,
+Lennart Larsson ((personnummer borttaget)) såsom ägare till fastigheten Lerberg 3:9,
 nedan kallad Fastighetsägare
 
 Damoj 11 AB (559328-2303) såsom ägare till fastigheten Lerberg 3:11, nedan
@@ -5873,7 +5873,7 @@ Projektnamn
 Detaljplan för verksamheter inom Äskatorp 21:1 m.fl i Fjärås stationssamhälle, Kungsbacka kommun
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld                       (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -6565,7 +6565,7 @@ Västsverige.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6613,7 +6613,7 @@ gång per mandatperiod.
 
 Göteborgsregionen (GR) består av 13 kommuner som har Göteborgsregionen 2024
 valt att jobba tillsammans. Vi driver utvecklingsprojekt, Box 5073, 402 22 Göteborg
-har myndighetsuppdrag, forskar, ordnar utbildningar och gr@goteborgsregionen.se
+har myndighetsuppdrag, forskar, ordnar utbildningar och (e-post borttagen)
 är storstadsregionens röst i Västsverige, bland mycket
 annat. I våra nätverk träffas politiker och tjänstepersoner Bilder: s. 9: Maja Brand, Bredda bilden/Teknikföretagen, s. 26: MSB,
 Från Mostphotos: Omslag: Tommy Alvén, s.8: Tommy Alvén,
@@ -7811,7 +7811,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Patrik Johansson       Linnéa Princis
 Kommunsekreterare      Kommunjurist                           Besöksadress
 Stadshuset, Storgatan 37
-patrik.johansson2@kungsbacka.se linnea.princis@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -7867,7 +7867,7 @@ Länsstyrelsens beslut bygger på en alltför extensiv tolkning av rättspraxis.
 1 (6)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8116,14 +8116,14 @@ Kungsbacka kommun
 ÖVERKLAGANDE
 
 Länsstyrelsen i Hallands län                                      1 (2)
-halland@lansstyrelsen.se
+(e-post borttagen)
 Datum
 2025-08-04
 Dnr
 KS-2024-00740
 Till
 Förvaltningsrätten i Göteborg
-forvaltningsrattenigoteborg@dom.se
+(e-post borttagen)
 
 ÖVERKLAGANDE
 
@@ -8149,11 +8149,11 @@ kommuns beslut den 16 juni 2025, § 121.
 
 Kommunstyrelsen                                              Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 199 -->
@@ -8192,7 +8192,7 @@ Diarienummer
 5072-2025
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Upphävande     av lokal ordningsföreskrift
 
@@ -8233,7 +8233,7 @@ Det är förbjudet att på offentlig plats, i tätorterna Kungsbacka stad,
 Vallda, Kullavik/Särö, Onsala, Anneberg, Fjärås/Hjälm, Åsa och
 Frillesås, använda lustgas i berusningssyfte.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 201 -->
@@ -8498,9 +8498,9 @@ Detta beslut har godkänts digitalt och saknar därför namnunder-
 skrifter.
 
 Kopia
-• Polismyndigheten, registrator.vast@polisen.se
+• Polismyndigheten, (e-post borttagen)
 
-• Patrik Johansson, patrik.johansson2@kungsbacka.se
+• Patrik Johansson, (e-post borttagen)
 
 Bilaga
 
@@ -8521,7 +8521,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -8560,7 +8560,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 Behöver ni veta mer?
 
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 5072-2025.
 
 <!-- sida 207 -->
@@ -9100,7 +9100,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9838,7 +9838,7 @@ Kungsbacka har infört förbud mot tiggeri i ordningsstadgan och det har helt up
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10660,7 +10660,7 @@ Mellan nedanstående parter träffas härmed avtal om samverkan enligt följande
 §1 Parter
 Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
 
-Kungsbacka Kommun, 212000-1256, Stadshuset, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka Kommun, 212000-1256, Stadshuset, (adress borttagen), 434 81 Kungsbacka
 
 §2 Definitioner och begrepp
 Följande definitioner och begrepp används i detta avtal:
@@ -10944,7 +10944,7 @@ Sidor
 6(8)
 underentreprenör vara klar på vilka krav som gäller för trafikens framkomlighet.
 Kontakt ska tas med regionens trafikingenjör. Mail skickas till:
-trafikmiljo.vastra@trafikverket.se ange Västra Regionen, Trafikingenjör Ta-planer
+(e-post borttagen) ange Västra Regionen, Trafikingenjör Ta-planer
 vid avtal. Tillstånd för att börja arbeta efter en trafikanordningsplan kan erhållas
 när kommunen eller kommunens entreprenör har egenregistrerat efterfrågade
 uppgifter i det webbaserade programmet (FIFA), se www.trafikverket.se/apv, och
@@ -13424,7 +13424,7 @@ Gäller från: 1 januari 2026
 Dokumentegenskaper: Avfallstaxa 2026, daterad 2025-05-30
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -14667,7 +14667,7 @@ Gäller från: 1 januari 2026
 Dokumentegenskaper: Avfallstaxa 2026, daterad 2025-05-30
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -16172,7 +16172,7 @@ Beslutad av: Kommunfullmäktige 2025-05-06 § 90, KS-2024-00300
 Gäller från: 2025-06-01
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -539,7 +539,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -835,7 +835,7 @@ Underskrift ordfö =
 
 Telefon
 
-0720856106
+(mobilnummer borttaget)
 
 Namnförtydligandd
 Axel Storckenfeldt
@@ -1591,7 +1591,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 1 (4)
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Ulrica Furby                                               434 81 Kungsbacka
-0729953394
+(mobilnummer borttaget)
 Besöksadress
 Förhandlingschef
 Stadshuset, Storgatan 37
@@ -2667,9 +2667,9 @@ Räddningstjänstverksamhet kan i vissa fall behöva dispens mot bakgrund
 av samhällets ansvar att vid olyckor eller överhängande fara för olyckor
 
 Sveriges Kommuner och Regioner Sobona – Kommunala företagens arbetsgivarorganisation
-info@skr.se, www.skr.se      Post: 118 82 Stockholm, Besök: Hornsgatan 20
+(e-post borttagen), www.skr.se      Post: 118 82 Stockholm, Besök: Hornsgatan 20
 Post: 118 82 Stockholm Besök: Hornsgatan 20 Tfn: växel 08-452 77 00, servicetelefon 08-452 75 20
-Tfn: 08-452 70 00 Org nr: 222000-0315 Org nr: 556604-9167, kontakt@sobona.se, www.sobona.se
+Tfn: 08-452 70 00 Org nr: 222000-0315 Org nr: 556604-9167, (e-post borttagen), www.sobona.se
 
 <!-- sida 65 -->
 
@@ -2704,7 +2704,7 @@ kommunalt företag om att begära dispens.
 mobilnummer och epost.
 
 En begäran om dispens ska vara skriftlig och skickas till SKRs
-kontaktcenter info@skr.se eller Sobonas kontakt@sobona.se. Ange tydligt i
+kontaktcenter (e-post borttagen) eller Sobonas (e-post borttagen). Ange tydligt i
 ämnesraden att ärendet gäller begäran om dispens.
 
 Beslut
@@ -3102,7 +3102,7 @@ kulturarvet som besöksanledning och identitetsskapande bör lyftas tydligare.
 1 (3)
 Nämnden för Kultur & Fritid                               Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4996,7 +4996,7 @@ o  RF-SISU Halland.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 122 -->
@@ -5126,7 +5126,7 @@ kan påverkas av hur vi väljer att resa i framtiden. Halland har en unik positi
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8599,7 +8599,7 @@ WSP, Ortstruktur och funktionella samband i södra Sverige, 2023
 Diarienummer RS190659
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 209 -->
@@ -8865,7 +8865,7 @@ planprocess; att remittera alla nya planförslag till Räddningstjänst Storgöt
 1 (4)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

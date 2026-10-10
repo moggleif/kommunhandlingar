@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -3527,7 +3527,7 @@ ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats
 
 Kungsbacka kommun
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 kungsbacka.se
 
 <!-- sida 78 -->
@@ -4025,8 +4025,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: | Datum: 2024-11-11 14:20 Sida 1 av 4
 
@@ -4069,8 +4069,8 @@ BÄCKEN 1:33                                    Onsala
 
 BÄCKEN 1:34                                    Onsala
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: FRIDA EKBERG | Datum: 2024-11-11 14:20 Sida 2 av 4
 
@@ -4100,8 +4100,8 @@ Vill du bifoga en situationskarta?
 
 Nej, jag har markerat i kartan i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: FRIDA EKBERG | Datum: 2024-11-11 14:20 Sida 3 av 4
 
@@ -4111,8 +4111,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #169220 | Inskickat av: FRIDA EKBERG | Datum: 2024-11-11 14:20 Sida 4 av 4
 
@@ -4536,7 +4536,7 @@ Tillförordnad kommundirektör       Administrativ chef
 
 <!-- sida 106 -->
 
-Från:Kansli Tolkförmedlingväst \<kansli@tolkformedlingvast.se>
+Från:Kansli Tolkförmedlingväst \<(e-post borttagen)>
 Skickat:den 7 oktober 202415:15
 Till:
 Ämne:Kommunalförbundet öppnar upp för nya medlemmar
@@ -4552,8 +4552,8 @@ Ansökan om medlemskap ska vara Tolkförmedling Väst tillhanda senast 11
 mars 2025. För mer information se bifogade dokument och
 www.tolkformedlingvast.se.
 Vid eventuella frågor kontakta oss gärna på
-kansli@tolkformedlingvast.se eller ring förbundssekreterare Emma Davidsson
-på telefon 0720-830510.
+(e-post borttagen) eller ring förbundssekreterare Emma Davidsson
+på telefon (mobilnummer borttaget).
 
 Med vänlig hälsning
 
@@ -4562,8 +4562,8 @@ Förbundssekreterare
 
 Tolkförmedling Väst
 
-E-post: kansli@tolkformedlingvast.se
-Telefon: 010-211 73 79 | Mobil: 0720-83 05 10
+E-post: (e-post borttagen)
+Telefon: 010-211 73 79 | Mobil: (mobilnummer borttaget)
 
 Postadress: Box 113 05, 404 27 Göteborg
 Besöksadress: Johan på Gårdas gata 5A, Göteborg
@@ -4613,7 +4613,7 @@ För ansökan om medlemskap krävs ett fullmäktigebeslut samt en ifylld ansökn
 Ansökan ska vara Tolkförmedling Väst tillhanda senast 11 mars 2025.
 
 För mer information gå in på www.tolkformedlingvast.se eller kontakta oss gärna på
-kansli@tolkformedlingvast.se eller ring förbundssekreterare Emma Davidsson på 0720-830510.
+(e-post borttagen) eller ring förbundssekreterare Emma Davidsson på (mobilnummer borttaget).
 
 1 (1)
 
@@ -4964,11 +4964,11 @@ Beslutad av:   Kommunstyrelsen 2024-06-18 § 165-166, KS 2024-00327, förslag 20
 Giltigt från:  2024-06-18
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 117 -->
 

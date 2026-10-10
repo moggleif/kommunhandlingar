@@ -432,7 +432,7 @@ Kommunstyrelsens förvaltning                            Kungsbacka kommun
 Patrik Johansson
 Kommunsekreterare                                          Besöksadress
 Stadshuset, Storgatan 37
-Patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -3028,7 +3028,7 @@ jämförelse              av    fem       modeller
 
 2025-04-23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se| www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen)| www.kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -6349,10 +6349,10 @@ Upprättad 2026-05-13
 
 Handläggare:
 
-Stina Wikström, planarkitekt, stina.wikstrom@kungsbacka.se
-Emma Johansson, planarkitekt, emma.johansson@kungsbacka.se
+Stina Wikström, planarkitekt, (e-post borttagen)
+Emma Johansson, planarkitekt, (e-post borttagen)
 
-Susanne Calming, exploateringsingenjör, susanne.calming@kungsbacka.se
+Susanne Calming, exploateringsingenjör, (e-post borttagen)
 
 Tidplan  Samråd          kvartal tre 2026
 Godkännande     kvartal fyra 2026
@@ -8486,7 +8486,7 @@ Notifieringar
 
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: £269118 | Inskickat av: HNIININN Datum: 2026-03-18 15:24
@@ -8542,7 +8542,7 @@ Fastighetens adress
 
 Kärrabergsvägen 85
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: £269118 | Inskickat av: JEN Datum: 2026-03-18 15:24
@@ -8581,7 +8581,7 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: £269118 | Inskickat av: BIN Datum: 2026-03-18 15:24 Sida 3 av4
@@ -8598,7 +8598,7 @@ Få
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: £269118 | Inskickat av: INNE Datum: 2026-03-18 15:24 Sida 4 av4
@@ -8914,7 +8914,7 @@ Telefon E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4267191 | Inskickat av: Datum: 2026-03-11 16:26
@@ -8963,7 +8963,7 @@ HM] Ansökan om planbesked 20260311.docx (21 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: £267191 | Inskickat av: FP Datum: 2026-03-11 16:26 Sida 2 av3

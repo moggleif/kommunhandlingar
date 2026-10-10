@@ -40,7 +40,7 @@ Paus 18:00-18:15
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -2007,7 +2007,7 @@ det kan uppstå utmaningar med att utveckla arbetssätt och verksamhetssystem f�
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2116,7 +2116,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 48 -->
 
@@ -2211,9 +2211,9 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 4
 november 2024. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-s.sof@regeringskansliet.se. Ange diarienummer S2024/01282 och
+(e-post borttagen). Ange diarienummer S2024/01282 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -2259,13 +2259,13 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 4 (4)
 
 <!-- sida 51 -->
 
-Från:             kommun@kungsbacka.se
+Från:             (e-post borttagen)
 Skickat:          den 13 augusti 2024 09:22
 Till:             Individ & Familjeomsorg; Gymnasium & Arbetsmarknad; Vård & Omsorg
 Ämne:             Begäran om yttrande - Promemorian Bättre förutsättningar för att
@@ -2309,7 +2309,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 52 -->
 

@@ -975,7 +975,7 @@ Datum            Diarienummer
 2024-02-06       202-2024
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för Detaljplan  för bostäder
 
@@ -1022,7 +1022,7 @@ bostäderna ska utgöras av hyresrätter. Byggnaderna ska fördelas på
 ett sådant sätt att bostadsområdet upplevs luftigt och variationsrikt.
 Vidare är syftet att utveckla ett sammanhängande stråk, med sociala
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 23 -->
@@ -1495,9 +1495,9 @@ Denna handling har godkänts digitalt och saknar därför namnunderskrift.
 
 Kopia
 
-SGI, sgi@sgi.se
+SGI, (e-post borttagen)
 
-Trafikverket, trafikverket@trafikverket.se
+Trafikverket, (e-post borttagen)
 
 <!-- sida 32 -->
 
@@ -2148,7 +2148,7 @@ Diarienummer
 4023-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för bostäder  inom
 
@@ -2195,7 +2195,7 @@ Detaljplanens överensstämmelse    med
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 47 -->
@@ -2624,9 +2624,9 @@ Upprättad 2023-11-17
 
 Reviderad 2025-12-02
 
-Planarkitekt: Johanna Vinterhav, johanna.vinterhav@kungsbacka.se
+Planarkitekt: Johanna Vinterhav, (e-post borttagen)
 
-Exploateringsingenjör: Susanne Calming, susanne.calming@kungsbacka.se
+Exploateringsingenjör: Susanne Calming, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2009:500 samt Boverkets
 föreskrifter och allmänna råd om detaljplan BFS 2020:5, BFS 2020:8 och BFS 2020:6.
@@ -5631,7 +5631,7 @@ Projektnamn
 Projektbeställning för Åsa 3:339
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se 0300 83 77 83
+Lovisa Eld                       (e-post borttagen) 0300 83 77 83
 
 Status
 Beställningen är                 Datum
@@ -6163,10 +6163,10 @@ Påbörjad 2021-06-17
 Upprättad 2025-12-02
 
 Laga kraft 20xx-xx-xx
-Handläggare: Anna-Karin Ljungman, planarkitekt, anna-karin.ljungman@kungsbacka.se,
+Handläggare: Anna-Karin Ljungman, planarkitekt, (e-post borttagen),
 
 0300 - 83 45 23
-Handläggare: Mikaela Ropel, exploateringsingenjör, mikaela.ropel@kungsbacka.se, 0300 - 83
+Handläggare: Mikaela Ropel, exploateringsingenjör, (e-post borttagen), 0300 - 83
 
 40 34
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
@@ -7825,7 +7825,7 @@ Projektnamn
 Detaljplan för busshållplats Gottskär, bussvändslinga och del av Gottskärsvägen i Gottskär (KS 2021–00486)
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300–837783
+Lovisa Eld                       (e-post borttagen) 0300–837783
 
 Status
 Beställningen är                 Datum
@@ -8041,7 +8041,7 @@ Projektnamn
 Frillesås-Rya 2:35, 2:127 och Frillesås-Rya 2:11
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld                       (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum

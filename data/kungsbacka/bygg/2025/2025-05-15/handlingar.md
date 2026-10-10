@@ -444,7 +444,7 @@ utredningsområde. Området har också förskjutits åt söder.
 •  Så kallade aktivitetsområden där man ger plats åt idrott och kultur har lagts till i kartan norr
 om Hede station och i söder vid Kungsbacka sportcenter.
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 12 -->
 

@@ -489,8 +489,8 @@ Enligt regeringen kan de föreslagna ändringarna i trafikbullerförordningen le
 förenklad planeringsprocess, större flexibilitet vid utformningen av bostäder samt ett
 mer varierat bostadsutbud.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -629,8 +629,8 @@ bullerstörning från drabbade invånare kommer behöva hanteras i tillsynen.
 Nämnden för Miljö & Hälsoskydd, handlägger varje år klagomålsärende från boende
 som bor i bostadshus nära vägar vilket kräver resurser oavsett utfall av tillsynen.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 

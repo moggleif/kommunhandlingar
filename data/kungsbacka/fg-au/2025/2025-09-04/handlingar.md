@@ -39,7 +39,7 @@ Lokal: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -165,7 +165,7 @@ Analys    av förutsättningar       och   konsekvenser
 
 2025-08-25
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 6 -->
 
@@ -759,8 +759,8 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | Datum: 2025-06-03 13:04 Sida 1 av 4
 
@@ -796,7 +796,7 @@ ledamöterna
 Kontaktuppgifter
 
 Företagets e-postadress           Företagets telefonnummer
-salungen@telia.com                0707728440
+(e-post borttagen)                (mobilnummer borttaget)
 
 Namn på den enhet som tillsynen gäller
 Fjärås Rajgräsvägen 28C och D
@@ -809,8 +809,8 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 282                               225
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | Datum: 2025-06-03 13:04 Sida 2 av 4
 
@@ -858,8 +858,8 @@ personalutrymmen.
 
 3\. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | Datum: 2025-06-03 13:04 Sida 3 av 4
 
@@ -882,8 +882,8 @@ Barnkonsekvensanalys nya lokalen Fjärås.docx (43 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | Datum: 2025-06-03 13:04 Sida 4 av 4
 
@@ -1153,7 +1153,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)

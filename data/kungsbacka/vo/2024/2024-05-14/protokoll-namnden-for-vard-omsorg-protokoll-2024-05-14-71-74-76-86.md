@@ -455,7 +455,7 @@ Beslutet skickas till
 
 Efter samordning av besluten i socialnämnderna Individ & Familjeomsorg, Vård &
 Omsorg och Gymnasium & Arbetsmarknad skickas besluten till SKR
-registrator@skr.se med hänvisning till ärendenummer SKR2024/00089
+(e-post borttagen) med hänvisning till ärendenummer SKR2024/00089
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: FD90D66766F945684404371E77C22B0973DA74E3E2
@@ -528,7 +528,7 @@ forts. § 77
 Beslutet skickas till
 
 Kommunstyrelsens förvaltning: Styrning & Ekonomi
-(donationsstiftelser@kungsbacka.se)
+((e-post borttagen))
 Sökanden via handläggaren
 
 Det här dokumentet är digitalt signerat

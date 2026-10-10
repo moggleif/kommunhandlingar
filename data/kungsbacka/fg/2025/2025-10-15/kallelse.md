@@ -39,7 +39,7 @@ Plats: Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -69,7 +69,7 @@ KUNGSBACKA  KOMMUN
 | 8. | Likabehandling och<br>diskriminering-uppföljning 2<br>Kl 18:00-18:30<br>Bertil Ljungblad,<br>utvecklingsledare<br>Tove Bender, utredare | FG-2025-00559 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 9. | Lokalbehov inklusive utblicksår<br>Kl 18:30-19:00<br>Anna Flinck, utvecklingsledare<br>Helen Stenum,<br>utvecklingsledare | FG-2025-00563 | Nämnden för Förskola & Grundskola beslutar:<br>-att godkänna behovsbeskrivning utökat behov<br>för anpassad grundskola.<br>-att godkänna behovsbeskrivning förskoleplatser<br>i Björkris.<br>-att godkänna behovsbeskrivning Onsala skolor.<br>-att godkänna behovsbeskrivning omställning<br>Åsaskolan till 4-9. |
 | 10. | Koncept utbildningslokaler<br>Kl 19:00-19:10<br>Anna Flinck, utvecklingsledare<br>Helen Stenum,<br>utvecklingsledare | FG-2025-00564 | Nämnden för Förskola & Grundskola beslutar:<br>-att ställa sig bakom konceptets Del 1 Riktlinjer<br>Koncept utbildningslokaler. |
-| 11. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>Rajgräsvägen 3, 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
+| 11. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>(adress borttagen), 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
 
 <!-- sida 3 -->
 

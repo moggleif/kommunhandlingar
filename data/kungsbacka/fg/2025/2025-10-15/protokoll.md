@@ -603,7 +603,7 @@ utökning av barnantal
 
 Beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Regnbågens Förskola
-i Fjärås AB, Rajgräsvägen 3, 439 71 Fjärås, om permanent utökning till totalt 30
+i Fjärås AB, (adress borttagen), 439 71 Fjärås, om permanent utökning till totalt 30
 barn.
 
 Sammanfattning av ärendet
@@ -655,7 +655,7 @@ Montessoriskolan Majblomman, om permanent utökning av barnantal på förskolan
 till totalt 36 barn.
 
 Nämnden för Förskola & Grundskola godkänner ansökan från föreningen
-Montessoriskolan Majblomman, Gottskärsvägen 119, 439 94 Onsala, om permanent
+Montessoriskolan Majblomman, (adress borttagen), 439 94 Onsala, om permanent
 utökning till totalt 35 barn
 
 Sammanfattning av ärendet
@@ -957,6 +957,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday

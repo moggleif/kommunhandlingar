@@ -597,7 +597,7 @@ det två investeringskategorier som är aktuella: (I) Löpande årliga investeri
 enkelt beskrivet är verksamheternas återinvesteringar och (II) Övriga investeringar
 som är mer av engångskaraktär.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -815,7 +815,7 @@ Investeringsplanen består därmed av tre huvudkategorier:
 • Verksamhetsanpassningar
 • Löpande investeringar
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -1514,8 +1514,8 @@ www.kungsbacka.se
 
 Välkommen          med     dina    synpunkter!
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 36 -->
 
@@ -1632,7 +1632,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 22 december 2025 vill vi ha d
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -1907,11 +1907,11 @@ Kontaktuppgifter              Här finns planförslaget!
 
 Kontakta gärna:                www.kungsbacka.se/
 Maria Malone, planarkitekt     aktuellaprojekt
-maria.malone@kungsbacka.se     (Alla planhandlingar
+(e-post borttagen)     (Alla planhandlingar
 0300 83 40 41                  inklusive utredningar)
 Scanna QR-koden
 Fortesa Bytyqi, exploateringsingenjör Stadshoucseht slä esn mtrée,r på
-fortesa.bytyqi@kungsbacka.se   Kungpsrboajcekkate ts websida!
+(e-post borttagen)   Kungpsrboajcekkate ts websida!
 0300 83 42 28                  (Planhandlingar)
 
 2 (2)
@@ -2358,7 +2358,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Besöksadress: Jakobsgatan 24
-Webb: www.regeringen.se     E-post: fi.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 54 -->
 
@@ -2448,9 +2448,9 @@ Webb: www.regeringen.se     E-post: fi.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Finansdepartementet senast den 27
 februari 2026. Svaren bör lämnas per e-post till
-fi.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-ann.fryksdahl@regeringskansliet.se. Ange diarienummer Fi2025/01806 och
+(e-post borttagen). Ange diarienummer Fi2025/01806 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -2496,7 +2496,7 @@ Departementsråd
 
 Kopia till
 
-Åtta45, e-postadress: regeringskansliet@atta45.se
+Åtta45, e-postadress: (e-post borttagen)
 
 4 (4)
 
@@ -7903,7 +7903,7 @@ och idéer? Etc.
 
 <!-- sida 172 -->
 
-Ringvägen 100
+(adress borttagen)
 118 60 Stockholm
 08-700 16 00
-konkurrensverket@kkv.se
+(e-post borttagen)

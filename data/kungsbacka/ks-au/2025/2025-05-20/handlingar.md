@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-83 42 72
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -146,7 +146,7 @@ Periodens resultat        -265,7      -292,3       -275,3       17,0
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -309,7 +309,7 @@ Kungsbacka       kommun
 
 Version till kommunstyrelsens arbetsutskott 2025–05–20
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -1745,7 +1745,7 @@ Protokoll från MBL-förhandling 2025-03-17
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1965,7 +1965,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 434 81 Kungsbacka
 Julia Wilholm
 0300-834276                                                   Besöksadress
-julia.wilholm@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -2426,7 +2426,7 @@ medlemskommunerna i enlighet med lag (2003:778) om skydd mot olyckor. Detta inne
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4057,11 +4057,11 @@ Beslutad av:   Nämnden för Miljö & Hälsoskydd, 2025-05-08 § XX
 Gäller från:   [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 108 -->
 
@@ -4458,7 +4458,7 @@ produkter,     lag  om   handel    med    vissa  receptfria
 läkemedel      och  lag  om    tobaksfria
 nikotinprodukter
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 117 -->
 
@@ -4671,7 +4671,7 @@ Beslutad av: Kommunfullmäktige 14 juni 2023 § 76, Dnr KS 2023-00205
 Gäller från: 1 juli 2023
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -160,7 +160,7 @@ samverkansregion ska samverka i en gemensam nämnd eller genom ett kommunalförb
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -706,7 +706,7 @@ Att landshövdingen dessutom ska vara ordförande och utse representanterna för
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1133,7 +1133,7 @@ etableringen förväntas generera 19 gigawattimmar energi årligen, vilket motsv
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1208,7 +1208,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1230,7 +1230,7 @@ Länsstyrelsen i Hallands län
 Kontaktuppgifter:
 Slottsgatan 2
 Telefon: 010-224 30 00
-E-post: halland@lansstyrelsen.se
+E-post: (e-post borttagen)
 
 Blankettid: 1727440235842       Sida 1 avP 7age 1 of 19 Datum: 2024-09-27 15:47:18
 
@@ -3416,11 +3416,11 @@ Beslutad av:    Kommunfullmäktige 14 december 2023 § 196, KS 2023-00333
 Gäller från:    2024-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen / Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -4228,7 +4228,7 @@ Sebastian Tham
 Pressekreterare hos äldre- och socialförsäkringsminister Anna Tenje
 Telefon (växel) 08-405 10 00
 
-Mobil 076-134 67 22
+Mobil (mobilnummer borttaget)
 
 & e-post till Sebastian Tham
 
@@ -4477,7 +4477,7 @@ att kännedom om förbundet vidgas till fler.
 
 Jag önskar att ni snarast meddelar lämplig tid för medlemsdialog. Skicka svar till förbundschef
 
-Samuel Grahn, e-postadress: samuel.grahn@sfhalland.se
+Samuel Grahn, e-postadress: (e-post borttagen)
 
 Dagordning:
 

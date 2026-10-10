@@ -40,7 +40,7 @@ Paus: 18:50-19:10
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -3563,10 +3563,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 2024             Teknikprogrammet Elof Lindälv
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Cindia Escalante Mattsson cindia.escalante-mattsson@kungsbacka.se 0300-833513
+Cindia Escalante Mattsson (e-post borttagen) 0300-833513
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            erika.erngard@kungsbacka.se 0300-834260
+Erika Erngard            (e-post borttagen) 0300-834260
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Teknikprogrammet är ett högskoleförberedande program som flyttas från Aranäsgymnasiet till Elof
@@ -3642,7 +3642,7 @@ e r r o b g j r u a d m a m te e k t n e ik n p b r a o rt g r p a å m A m ra e
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -4541,7 +4541,7 @@ Datum             Diarienummer
 2024-11-19        ATN-2024-00062
 Avdelning Utbildning
 Ann-Sofie Gillner,
-ann-sofie.gillner@goteborgsregionen.se
+(e-post borttagen)
 Förbundsstyrelsen
 
 Rättelse  av  beslut  rörande   interkommunal
@@ -4951,11 +4951,11 @@ Skapad av:      Kommunstyrelsens förvaltning, Kommunledningskontoret, kansliet
 Gäller från:    2024-07-08
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 130 -->
 
@@ -5161,7 +5161,7 @@ Kungsbacka kommun             Delegeringsförteckning           5 (24)
 
 2 Delegeringsförteckning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 134-1](handlingar.tabeller/134-1.csv)
 
@@ -6543,7 +6543,7 @@ reviderad: 2020-10-07, 2020-12-02, 2021-05-19, 2021-08-25,
 Gäller från: 2019-08-21
 
 Ansvarig förvaltning: Gymnasium & Arbetsmarknad
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -6653,7 +6653,7 @@ www.kungsbacka.se
 
 <!-- sida 197 -->
 
-Från:           Per Lindberg \<per.lindberg@kungsbacka.se>
+Från:           Per Lindberg \<(e-post borttagen)>
 Skickat:        den 20 november 2024 15:19
 Till:           Maria Lennvik; May-Louise Flyrin; Helena Nyborg; Christina Palmquist; Annika
 Areskog Ronnstedt; Eva Tingström; Lisa Jönsson
@@ -6676,13 +6676,13 @@ Nationell godkänd idrottsutbildning (NIU)
 Kungsbacka kommun
 Gymnasium & Arbetsmarknad
 0300-83 34 50
-per.lindberg@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka-kommun
 
 -----Ursprunglig avtalad tid-----
-Från: Maria Lennvik \<maria.lennvik@kungsbacka.se>
+Från: Maria Lennvik \<(e-post borttagen)>
 Skickat: den 24 oktober 2024 13:36
 Till: Maria Lennvik; May-Louise Flyrin; Helena Nyborg; Christina Palmquist; Per Lindberg; Annika Areskog
 Ronnstedt; Eva Tingström; Lisa Jönsson
@@ -7398,7 +7398,7 @@ Förvaltningsrätten avslår ansökan.
 7     Besöksadress    Öppettider  Postadress     E-post
 5
 2
-2     Tegeluddsvägen 1 måndag–fredag             avd5.fst@dom.se
+2     Tegeluddsvägen 1 måndag–fredag             (e-post borttagen)
 8
 1                     08:00–16:00 115 76 Stockholm
 d     Telefon                                    Webbplats
@@ -7669,10 +7669,10 @@ Datum         Vår beteckning Sid
 2022-06-01    2021/066676    1 (7)
 
 Aranäsgymnasiet
-Gymnasiegatan 44
+(adress borttagen)
 434 50 Kungsbacka
 Enheten för region väst
-Karin Kåberger, 010-730 94 42 kommun@kungsbacka.se
+Karin Kåberger, 010-730 94 42 (e-post borttagen)
 
 Delgivning
 
@@ -7712,7 +7712,7 @@ Se 8 och 10 § Arbetsmiljöverkets föreskrifter (AFS 2001:1) om systematiskt
 
 Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
-E-post: arbetsmiljoverket@av.se • Webbplats: av.se
+E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
 nossreP
 akinnA
@@ -7966,9 +7966,9 @@ Annika Persson
 
 Kopia till
 Vi har skickat en kopia av detta brev till:
-Skyddsombud Camilla Loob, camilla.loob@kungsbacka.se
-Förvaltningschef Cynthia Runefjärd, cynthia.runefjard@kungsbacka.se
-Rektor Dan Sadé, dan.sade@kungsbacka.se
+Skyddsombud Camilla Loob, (e-post borttagen)
+Förvaltningschef Cynthia Runefjärd, (e-post borttagen)
+Rektor Dan Sadé, (e-post borttagen)
 
 Verktyg för en bra arbetsmiljö
 
@@ -8298,7 +8298,7 @@ Datum
 2024-12-09
 
 Nämnden för Gymnasium & Arbetsmarknad
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 
 Dataskyddsombudets         rapport
 
@@ -8329,7 +8329,7 @@ I separat bilaga (A) till denna rapport framgår bedömningen för de punkter d�
 förslag till åtgärd. På de punkter där det inte framkommit avvikelse, följer i förekommande fall en
 kommentar.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 232 -->
 
@@ -8426,7 +8426,7 @@ Datum
 2024-12-09
 
 Nämnden för Gymnasium & Arbetsmarknad
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 
 Bilaga  A: Bedömningar
 
@@ -8462,7 +8462,7 @@ kryptonycklar, men det framgår inte någon åtgärd för att hantera detta.
 behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (Allmän
 dataskyddsförordning/GDPR).
 3 Artikel 25, 32.1 (a)
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 234-1](handlingar.tabeller/234-1.csv)
 
@@ -8772,9 +8772,9 @@ kunnig personal utgör en viktig del av förvaltningens inbyggda dataskydd.
 onsdag 2024-12-11 15:00
 Utgående mail
 
-Till: RES-Göteborg Tillsyn \<dokument.goteborg@skolinspektionen.se>
+Till: RES-Göteborg Tillsyn \<(e-post borttagen)>
 
-Från: info@kungsbacka.se \<info@kungsbacka.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: 15:00
 
 SV: Beslut från Skolinspektionen [2024KC93847]
@@ -8789,12 +8789,12 @@ Samhällsvägledare
 
 Kungsbacka direkt – kommunens kundcenter
 Telefon: 0300‐83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/
 
-Från: RES‐Göteborg Tillsyn \<dokument.goteborg@skolinspektionen.se>
+Från: RES‐Göteborg Tillsyn \<(e-post borttagen)>
 Skickat: den 11 december 2024 13:04
-Till: Henrik Börjesson \<henrik@positivum.se>
+Till: Henrik Börjesson \<(e-post borttagen)>
 Ämne: Beslut från Skolinspektionen
 
 Till huvudman för Aniaragymnasiet, AF Affärseffekt Framtidsskola AB,

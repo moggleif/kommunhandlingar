@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -141,7 +141,7 @@ Förskola & Grundskola                                Kungsbacka kommun
 Lars Sundborn                                         434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -513,7 +513,7 @@ förskoleklass                   och
 
 grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 16 -->
 
@@ -1011,11 +1011,11 @@ Beslutad av:   Nämnden för Förskola & Grundskola 2022-01-19, § 16
 Gäller från:   2022-02-01
 
 Ansvarig förvaltning: Förskola & Grundskola
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 29 -->
 
@@ -1645,11 +1645,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: [Skriv in ansvarig förvaltning]
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 43 -->
 
@@ -2076,7 +2076,7 @@ Analys    av handlingsalternativ
 
 2024-04-08
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 54 -->
 
@@ -2430,7 +2430,7 @@ Analys    av handlingsalternativ
 
 2024-04-08
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -2734,7 +2734,7 @@ Analys    av handlingsalternativ
 
 2024-04-08
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 74 -->
 
@@ -3022,8 +3022,8 @@ Anpassning av verksamheten utifrån minskat barnantal i Hålabäcksområdet, min
 
 rektorstjänst och därav stängning av en förskola.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 1 av 9
 
@@ -3041,7 +3041,7 @@ benämns som barn i barnkonventionen.
 Jag som prövar
 
 För- och efternamn                E-postadress
-Anna Sörensen                     anna.sorensen@kungsbacka.se
+Anna Sörensen                     (e-post borttagen)
 
 Telefon                           Organisation
 +46300835295                      Förskola & Grundskola
@@ -3056,10 +3056,10 @@ Här kan du fylla på efterhand om gruppen får fler medlemmar.
 
 För- och efternamn E-postadress            Förvaltning       Enhet
 
-Maria Eriksson   maria.i.eriksson@kungsbacka.se Förskola & Grundskola
+Maria Eriksson   (e-post borttagen) Förskola & Grundskola
 
-Maria Dahlén     maria.dahlen@kungsbacka.se Förskola & Grundskola
-Anna Skogholm    anna.skogholm@kungsbacka.se Förskola & Grundskola
+Maria Dahlén     (e-post borttagen) Förskola & Grundskola
+Anna Skogholm    (e-post borttagen) Förskola & Grundskola
 
 Vem eller vilka ska ta emot prövningen och förslag till beslut?
 
@@ -3068,8 +3068,8 @@ beslutet.
 
 Nämnden Förskola & Grundskola
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 2 av 9
 
@@ -3117,8 +3117,8 @@ Stor hänsyn kommer tas till de barn som har extra stöd behov. Här kommer en n
 Alla förskolor är tillgänglighets anpassade och har personal med relevant kompetens för barn
 med särskilda rättigheter.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 3 av 9
 
@@ -3171,8 +3171,8 @@ Annan relevant information
 
 Beskriv den information som är relevant för prövningen
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 4 av 9
 
@@ -3227,8 +3227,8 @@ ekonomiska fördelar då det lättare går att optimera personalresurserna och m
 vikariekostnaderna. Det skapar möjlighet att samordna resurser på ett bättre sätt till exempel
 genom att fördela personal vid behov.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 5 av 9
 
@@ -3286,8 +3286,8 @@ vi behöver se över hur vi kan få en större lokal effektivitet. På flera hå
 som har betydligt färre barn och elever än vad skolan har som kapacitet. På en förskola med för
 få barn är det svårt att skapa en hållbar inre organisation.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 6 av 9
 
@@ -3345,8 +3345,8 @@ nämnts pga. planerat ventilationsbyte och fasadbyte. Flytten tillbaka till befi
 fördröjdes med ca 6 månader pga. en vattenläcka i början av 2023. Flera flyttar mellan lokaler
 kan påverka barnen negativt.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 7 av 9
 
@@ -3382,8 +3382,8 @@ vid inskolning i nya barngrupper.
 
 Bedömningen är att barnets bästa tillgodoses utifrån artikel 2, 3, 6, 12, 23, 31
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 8 av 9
 
@@ -3436,8 +3436,8 @@ kollegialt lärande och pedagogisk utveckling samt större möjligheter att opti
 
 kvalitéer och kompetens till förmån för alla barn.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | Datum: 2024-04-02 16:55 Sida 9 av 9
 
@@ -3904,8 +3904,8 @@ på så sätt ”berikar med erfarenheter och kunskaper från yrkeslivet” har 
 genomförts på lågstadiet. Skolan har bjudit in f.d. elever som fått berätta om
 sitt gymnasieval för eleverna på högstadiet.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 103 -->
 
@@ -4035,7 +4035,7 @@ Projektet Kreativitet och samspel var avslutat och arbetet utifrån 1–16 för�
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 106 -->
 
@@ -4093,7 +4093,7 @@ de känner tilltro till egen förmåga och vågar drömma stort.
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 107 -->
 
@@ -4151,7 +4151,7 @@ Förskolan måste vara en plats där varje barn ges förutsättning att utveckla
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 108 -->
 
@@ -4206,7 +4206,7 @@ Lilla Loket och Stora Loket
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 109 -->
 

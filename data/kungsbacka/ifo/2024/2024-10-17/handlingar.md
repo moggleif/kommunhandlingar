@@ -2095,7 +2095,7 @@ Avgifter på insatser via delegation från nämnden för Vård & Omsorg:
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2807,7 +2807,7 @@ JO:s protokoll den 18 januari 2024, dnr 6870-2023) och Socialnämnden i
 Gällivare kommun (se JO:s protokoll den 23 februari 2024, dnr 7904-2023). I
 mars 2024 genomförde JO den tredje inspektionen i serien. Det var då
 
-Riksdagens ombudsmän     E-post: justitieombudsmannen@jo.se
+Riksdagens ombudsmän     E-post: (e-post borttagen)
 Box 16327                Telefon: 08-786 51 00
 103 26 Stockholm         Texttelefon 020-600 600
 Besök: Västra Trädgårdsgatan 4 A Fax: 08-21 65 58         www.jo.se

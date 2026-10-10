@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -1996,7 +1996,7 @@ Skapad av:     Förvaltningen för Förskola & Grundskola
 
 Gäller från:   2026-01-08
 Ansvarig förvaltning: Förvaltningen för Förskola & Grundskola
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -2597,7 +2597,7 @@ Beslutad av: Nämnden för Förskola & Grundskola, § xx
 Gäller från: 2026-01-28, uppdaterad 2026-01-08 § xx
 
 Ansvarig förvaltning: Förskola & Grundskola
-Kontakt:  Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt:  Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 26
@@ -2608,7 +2608,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -3248,7 +3248,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § 18
 Gäller från: 2024-02-26, uppdaterad 2024-04-17 § 36, 2025-02-20 § 20
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -3541,7 +3541,7 @@ Redovisning                   av     tillsyn        2025
 
 samt        planerad              tillsyn        2026
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 115 -->
 
@@ -3933,7 +3933,7 @@ nu börjat kunnat se resultat, vilka kommer redogöras för nedan.
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 124 -->
 
@@ -3982,7 +3982,7 @@ förskola kap 8 (Anniqa Sandell Ring (2021) samt Skolverkets moduler för försk
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 125 -->
 
@@ -4039,7 +4039,7 @@ dokumentationsuppdraget, skiljelinjen mellan utbildning och undervisning, samt l
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 126 -->
 
@@ -4095,7 +4095,7 @@ utifrån de förutsättningar de får.
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 127 -->
 
@@ -4144,7 +4144,7 @@ Rektor Åsa Gårds förskolor, Lilla Loket och Stockalid
 
 Åsa Gårdsskola• Pedagogisk enhet Söder • Varbergsvägen 1711 • 439 54 Åsa • 0300-83 37 00
 Fax 0300-83 37 07
-asagardsskola@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 128 -->
 

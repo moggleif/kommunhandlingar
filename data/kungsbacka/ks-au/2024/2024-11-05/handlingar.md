@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1227,7 +1227,7 @@ kan ansöka om plats. Kulturskolan riktar sig till barn som bor i kommunen, men 
 Fyll i dina kontaktuppgifter
 
 För- och efternamn                E-postadress
-Harald Tjelle                     harald.tjelle@kungsbacka.se
+Harald Tjelle                     (e-post borttagen)
 
 Telefon                           Organisation
 +46300838096                      Kultur & Fritid
@@ -1235,8 +1235,8 @@ Telefon                           Organisation
 Avdelning                         Tjänstetitel
 Kvalitet & social hållbarhet      Utvecklingsledare
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 1 av 3
 
@@ -1277,8 +1277,8 @@ kompensatoriska åtgärder vara viktiga för att säkerställa tillgång.
 
 4\. Barnkonsekvensanalys
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 2 av 3
 
@@ -1320,8 +1320,8 @@ barn med funktionsvariation. Dessa medel ger också verksamheten möjlighet till
 förebyggande och agila insatser i områden där barn och unga behöver fritidsaktiviteter och
 vuxenengagemang.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 3 av 3
 
@@ -1331,7 +1331,7 @@ Taxa    för  Kungsbacka         Kulturskola
 
 Denna taxa är beslutad med stöd av kommunallagen (2017:900), 2 kap. 5-6 §§
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 33 -->
 
@@ -1405,7 +1405,7 @@ Gäller från: 2025-01-01
 
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1555,7 +1555,7 @@ Drop in-aktivitet/öppen verksamhet 100 kr          0 kr
 Lovverksamhet                     0 kr             0 kr
 Instrumentlån                     0 kr             0 kr
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 38 -->
 
@@ -1599,7 +1599,7 @@ Beslutad av: Nämnden för Kultur & Fritid, 2024-08-21
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1857,7 +1857,7 @@ kravrutiner gäller.
 Taxan börjar gälla: 1 juli 2015
 Beslutad av: Kommunfullmäktige § 91 2015-06-09
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 <!-- sida 45 -->
 
@@ -1973,7 +1973,7 @@ Taxa    för  Biblioteken       i Kungsbacka
 
 Denna taxa är beslutad med stöd av bibliotekslagen (2013:801) 9 §
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 49 -->
 
@@ -2035,7 +2035,7 @@ Gäller från: 2025-01-01
 
 Ansvarig förvaltning:
 Kultur & Fritid
-info@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -2320,7 +2320,7 @@ material.
 
 3\. Avgiftsbelopp/taxetabell
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
@@ -2384,7 +2384,7 @@ Biblioteken i Kungs backa, taxa 2025 Sida 2 av 3
 Gäller från: 2025-01-01
 Ansvarig förvaltning:
 Kultur & Fritid
-info@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 
 Kungsbacka kommun
@@ -2503,7 +2503,7 @@ Taxa   för  Naturum       Fjärås    Bräcka     och
 
 Taxan är beslutad med stöd av kommunallagen (2017:900), 2 kap. 5-6 §§
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 62 -->
 
@@ -2595,7 +2595,7 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -4277,7 +4277,7 @@ auktorisationssystem och maxtaxa
 
 2024-09-04
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 113 -->
 
@@ -4367,7 +4367,7 @@ Kungsbacka kommun
 Avfall & Återvinning
 
 0300-83 43 29
-sandra.carlstrom@kungsbacka.se
+(e-post borttagen)
 
 Kungsbacka kommun Fastighetsnära insamling av bygg- och rivningsavfall under 3
 kommunalt ansvar
@@ -4660,11 +4660,11 @@ Beslutad av:    Kommunfullmäktige 14 december 2023 § 194, KS 2023-00300
 Gäller från:    2024-01-01
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 123 -->
 

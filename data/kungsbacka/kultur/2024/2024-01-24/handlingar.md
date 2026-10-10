@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -835,7 +835,7 @@ Förvaltningschef              Controller
 Kungsbacka kommun
 Ekonomi
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 32-50-2102
@@ -848,10 +848,10 @@ Datum            Benämning
 2023-11-30       Tingbergsvallen
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Vår äldre friidrottsarena har idag utmaningar när det gäller säkerhet och strukturell integritet och stora
 underhållsåtgärder måste utföras.
@@ -921,7 +921,7 @@ Namn och enhet                   E-postadress        Telefon
 Kultur& Fritid
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
-Jessica Wibeck                   jessica.wibeck@kungsbacka.se
+Jessica Wibeck                   (e-post borttagen)
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Många av de naturgräsfotbollsplaner som vi har i vår kommun är minst 30 år gamla. För att kunna
 erbjuda god kvalité på underlaget måste växtbäddarna förnyas alternativt dräneras. Nya växtbäddar
@@ -967,7 +967,7 @@ TIDPLAN
 
 Kungsbacka kommun
 Ekonomi
-4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i nfo@kungsbacka.se
+4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 32-50-2102
 ,0.2
@@ -978,9 +978,9 @@ BEHOVSBESKRIVNING
 D2atum 0221207,  BUenämning tbyte biblioteksbuss
 Rev 2023-11-29
 Initiativtagare
-NSamn och enheto fia Rosén, verksamhetschef Es-postadress ofia.rosen@kungsbacka.se 0Arbetstelefon 300-83 81 35
+NSamn och enheto fia Rosén, verksamhetschef Es-postadress (e-post borttagen) 0Arbetstelefon 300-83 81 35
 Kontaktperson för behovsbeskrivningen
-NSamn och enhet usan Pour, bibliotekschef Es-postadress usan.pour@kungsbacka.se A0rbetstelefon 300-83 41 94
+NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Nuvarande biblioteksbuss levererades januari 2018 och kommer att behöva ersättas efter ca
 10 år.
@@ -1049,7 +1049,7 @@ Underskrift
 
 Kungsbacka kommun
 Ekonomi
-4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i nfo@kungsbacka.se
+4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 32-50-2102
 ,0.2
@@ -1060,10 +1060,10 @@ BEHOVSBESKRIVNING
 D2atum 0221207,  BUenämning tbyte biblioteksbil
 rev 20231129
 Initiativtagare
-NSamn och enheto fia Rosén Es-postadress ofia.rosen@kungsbacka.se 0Arbetstelefon 300-83 81 35
+NSamn och enheto fia Rosén Es-postadress (e-post borttagen) 0Arbetstelefon 300-83 81 35
 Bibliotek, Kulturmiljö och Turism
 Kontaktperson för behovsbeskrivningen
-NSamn och enhet usan Pour, bibliotekschef Es-postadress usan.por@kungsbacka.se A0rbetstelefon 300-83 41 94
+NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Nuvarande biblioteksbil som är från 2012 behöver bytas ut, då den är över tio år vid utbytet.
 Kungsbacka kommun har sedan över 40 år en biblioteksbuss som huvudsakligen besöker
@@ -1134,7 +1134,7 @@ Underskrift
 Kungsbacka kommun
 Ekonomi
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 32-50-2102
@@ -1147,10 +1147,10 @@ Datum            Benämning
 2023-12-01       Reinvesteringar av konstgräsplaner
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck KFT       Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck KFT       (e-post borttagen) 0300 – 834662
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se 0300 – 834662
+Jessica Wibeck           (e-post borttagen) 0300 – 834662
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Kultur & Fritid byter årligen ut konstgräsmattor på våra konstgräsplaner.
 År 2026 planeras att byta konstgräs på Ängås, där det finns både en 7- & en 11-manna konstgräsplan.
@@ -1285,10 +1285,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och verksamhet      E-postadress               Arbetstelefon
-Sofia Rosén, Kultur & Demokrati Sofia.rosen@kungsbacka.se 0300-83 81 35
+Sofia Rosén, Kultur & Demokrati (e-post borttagen) 0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall, Kultur & besöksmål Peter.rudvall@kungsbacka.se 0300-83 80 95
+Peter Rudvall, Kultur & besöksmål (e-post borttagen) 0300-83 80 95
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -1328,7 +1328,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1416,7 +1416,7 @@ Delegeringsförteckning
 
 Nämnden       för Kultur    & Fritid
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 42 -->
 
@@ -1850,7 +1850,7 @@ Beslutad av: Nämnden för Kultur & Fritid 2024-01-24
 Gäller från: 25 januari 2024
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se

@@ -39,7 +39,7 @@ Paus 18.20 – 18.40
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -941,7 +941,7 @@ eller verksamheter på ett sådant sätt att det finns skäl att lämna synpunkt
 1 (1)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumarbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -967,7 +967,7 @@ Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) 
 
 kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617).
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 24 -->
 
@@ -1258,7 +1258,7 @@ Beslutad av: Kommunfullmäktige 4 februari 2020 § 8, Länsstyrelsens beslut
 Gäller från och med: §§ 1-14, 16-22 från 1 april 2020,
 
 Ansvarig nämnd: Nämnden för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1396,7 +1396,7 @@ Britta-Lenas gata (Kungsbacka 6:1)
 Tingbergsskolan (Varla 12:67)
 
 1 (2)
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 35 -->
 
@@ -1462,7 +1462,7 @@ Vapenlagen (1996:67) har bestämmelser om bl.a. tillstånd att inneha skjutvapen
 
 Se www.polisen.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 1 (2)
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se 1 (2)
 
 <!-- sida 37 -->
 
@@ -1481,7 +1481,7 @@ Se www.transportstyrelsen.se
 
 \_\_\_\_\_
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se 2 (2)
 
 <!-- sida 38 -->
 
@@ -1536,7 +1536,7 @@ hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
 Box 193        Nygatan 45    090-17 74 00 090-13 75 88  måndag–fredag
-901 05 Umeå    (Tingshuset)  E-post: forvaltningsratteniumea@dom.se 08:00–12:00
+901 05 Umeå    (Tingshuset)  E-post: (e-post borttagen) 08:00–12:00
 www.forvaltningsratteniumea.domstol.se 13:00–16:00
 
 <!-- sida 47 -->
@@ -2047,7 +2047,7 @@ BESLUT                 1 (7)
 2020-03-02     213-1348-2020
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Anmälan enligt 3 kap. 13 § ordningslagen (1993:1617) av lokala ord-
 ningsföreskrifter
@@ -2085,10 +2085,10 @@ meddelades. I annat fall kan överklagandet inte tas upp till prövning. Av öve
 det ska framgå vilket beslut som överklagas och den ändring i beslutet som begärs.
 Skälen för ändring bör också anges. Finns handlingar eller annat till stöd för över-
 klagandet bör dessa bifogas. Överklagandet får gärna skickas per e-post till
-halland@lansstyrelsen.se.
+(e-post borttagen).
 
 Postadress     Besöksadress E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 57 -->
 
@@ -2412,7 +2412,7 @@ Bilaga
 2\. Bilaga 5, 2020-01-21
 
 Kopia
-Polismyndigheten, Lokalpolisområde Kungsbacka, registrator.vast@polisen.se
+Polismyndigheten, Lokalpolisområde Kungsbacka, (e-post borttagen)
 
 <!-- sida 63 -->
 
@@ -6494,7 +6494,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 <!-- sida 167 -->
 
-Från:                  Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
+Från:                  Fanny Nilsson \<(e-post borttagen)>
 Skickat:               den 26 mars 2026 14:27
 Till:                  Bygg & Miljö bygglov admin; Miljö & Hälsoskydd admin; Förskola
 Grundskola; Gymnasium & Arbetsmarknad; Service; Teknik; Vård &
@@ -6522,7 +6522,7 @@ Fanny Nilsson | Verksamhetsrevisor | Konsult | Offentlig sektor
 
 Ernst & Young AB
 Parkgatan 49, 401 82, Göteborg, Sweden
-Office: +46767056411 | Fanny.Nilsson@se.ey.com
+Office: (mobilnummer borttaget) | (e-post borttagen)
 Website: http://www.ey.com/se
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -7247,7 +7247,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 20-01-6002
 ,0.1v
@@ -7329,7 +7329,7 @@ gymnasieskola i det individuella valet. Dessutom får ämnena läsas som utökat
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 187 -->
 
@@ -7358,7 +7358,7 @@ Skolverkets beslut får enligt 14 kap. 1 § gymnasieförordningen (2010:2039) in
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 188 -->
 
@@ -7482,7 +7482,7 @@ k s
 0
 4
 a s
-K                                                      gymnasie.vuxenutbildning@kungsbacka.se
+K                                                      (e-post borttagen)
 m
 roF                                                               www.kungsbacka.se
 inu
@@ -7584,7 +7584,7 @@ Beslut
 Datum 2026-03-05
 Huvudman                             Dnr SI 2025:5870
 Kungsbacka kommun                    Sida 1 (6)
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Ärendet
 

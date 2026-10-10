@@ -511,7 +511,7 @@ I överklagan ska du ange
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -837,7 +837,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -1146,7 +1146,7 @@ Datum
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -1510,7 +1510,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -1823,7 +1823,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -2202,7 +2202,7 @@ I överklagan ska du ange
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -2488,7 +2488,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
 Kungsbacka kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på
@@ -2819,7 +2819,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3073,7 +3073,7 @@ I överklagan ska du ange
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan. Du
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3272,7 +3272,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 överklagan ska du bifoga dem.
 
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3766,7 +3766,7 @@ Ange ditt namn, postadress, telefonnummer och gärna e-postadress i överklagan.
 ska dessutom skriva under din överklagan. Om det finns handlingar som stöd för
 
 överklagan ska du bifoga dem.
-Skicka gärna överklagan via mejl till info@kungsbacka.se
+Skicka gärna överklagan via mejl till (e-post borttagen)
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den till vårt kundcenter eller via brev till adressen
@@ -3956,7 +3956,7 @@ Samhällsbyggnadskontoret har inget att yttra gällande bygglovet att inreda
 vindslägenheter, men gällande parkeringar på kommunal mark på Kungsbacka 2:15
 så behöver ett arrende för både befintliga och tillkommande parkeringar och
 cykelförråd upprättas. Sökande ska inkomma till
-samhallsbyggnadskontoret@kungsbacka.se om en förfrågan om arrendeavtal när
+(e-post borttagen) om en förfrågan om arrendeavtal när
 bygglovsbeslutet vunnit laga kraft.
 Samhällsbyggnadskontoret noterar att Bygglovsavdelningen bör remittera
 Förvaltningen för Teknik angående parkeringstalet i parkeringsutredningen. Om det

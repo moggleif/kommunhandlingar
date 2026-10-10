@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1283,7 +1283,7 @@ www.kungsbacka.se
 
 <!-- sida 37 -->
 
-Från:                  Fanny Nilsson \<Fanny.Nilsson@se.ey.com>
+Från:                  Fanny Nilsson \<(e-post borttagen)>
 Skickat:               den 3 november 2025 08:52
 Till:                  Teknik; Service; Förskola Grundskola; Gymnasium &
 Arbetsmarknad; Individ & Familjeomsorg; Miljö & Hälsoskydd
@@ -1317,7 +1317,7 @@ Fanny Nilsson | Verksamhetsrevisor | Konsult | Offentlig sektor
 
 Ernst & Young AB
 Parkgatan 49, 401 82, Göteborg, Sweden
-Office: +46767056411 | Fanny.Nilsson@se.ey.com
+Office: (mobilnummer borttaget) | (e-post borttagen)
 Website: http://www.ey.com/se
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1448,7 +1448,7 @@ Transaktionsidentitet: E4EAD724887BFF08DEC46C2AEB4DFB1EE14533195E
 
 <!-- sida 41 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 2 oktober 2025 15:57
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetssammanfattning v 40
@@ -1489,13 +1489,13 @@ Valmyndigheten
 
 <!-- sida 42 -->
 
-Från:                  Myndigheten för delaktighet \<nyhetsbrev@mfd.se>
+Från:                  Myndigheten för delaktighet \<(e-post borttagen)>
 Skickat:               den 18 september 2025 11:13
 Till:                  Valnämnden
 Ämne:                  Gör valet 2026 tillgänglligt – stöd för valnämnd, kommunikation och
 röstmottagare
 
-Du får inte ofta e-post från nyhetsbrev@mfd.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -1585,8 +1585,8 @@ demokrati, delaktighet och vad det innebär att vara en fullvärdig medborgare.
 Se fler filmer om demokrati
 
 Myndigheten för delaktighet
-Rosterigränd 12, 117 61 Stockholm         Besök oss på
+(adress borttagen), 117 61 Stockholm         Besök oss på
 Box: 47082, 100 74 Stockholm              www.mfd.se
 Växel: 08-600 84 00                       Facebook
 
-info@mfd.se                               LinkedIn
+(e-post borttagen)                               LinkedIn

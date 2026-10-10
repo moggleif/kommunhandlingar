@@ -40,7 +40,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare
 Kommunstyrelsens förvaltning
 Storgatan 37
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -367,11 +367,11 @@ Beslutad av:   Kommunstyrelsen 20 februari 2024 § 45, Dnr KS 2023-00461, försl
 05-13
 Giltigt från:  2024-0x-xx
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -1068,7 +1068,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 1 (4)
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Ulrica Furby                                               434 81 Kungsbacka
-0729953394
+(mobilnummer borttaget)
 Besöksadress
 Förhandlingschef
 Stadshuset, Storgatan 37
@@ -1614,9 +1614,9 @@ Räddningstjänstverksamhet kan i vissa fall behöva dispens mot bakgrund
 av samhällets ansvar att vid olyckor eller överhängande fara för olyckor
 
 Sveriges Kommuner och Regioner Sobona – Kommunala företagens arbetsgivarorganisation
-info@skr.se, www.skr.se      Post: 118 82 Stockholm, Besök: Hornsgatan 20
+(e-post borttagen), www.skr.se      Post: 118 82 Stockholm, Besök: Hornsgatan 20
 Post: 118 82 Stockholm Besök: Hornsgatan 20 Tfn: växel 08-452 77 00, servicetelefon 08-452 75 20
-Tfn: 08-452 70 00 Org nr: 222000-0315 Org nr: 556604-9167, kontakt@sobona.se, www.sobona.se
+Tfn: 08-452 70 00 Org nr: 222000-0315 Org nr: 556604-9167, (e-post borttagen), www.sobona.se
 
 <!-- sida 51 -->
 
@@ -1651,7 +1651,7 @@ kommunalt företag om att begära dispens.
 mobilnummer och epost.
 
 En begäran om dispens ska vara skriftlig och skickas till SKRs
-kontaktcenter info@skr.se eller Sobonas kontakt@sobona.se. Ange tydligt i
+kontaktcenter (e-post borttagen) eller Sobonas (e-post borttagen). Ange tydligt i
 ämnesraden att ärendet gäller begäran om dispens.
 
 Beslut
@@ -2068,7 +2068,7 @@ på Kungsbacka pendeln och att fordonskapaciteten på linjerna 731 och 734 före
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2152,7 +2152,7 @@ Samhällsbyggnadskontoret                                  Kungsbacka kommun
 Peter Gustavsson
 Specialist Trafikplanering                                    Besöksadress
 Stadshuset, Storgatan 37
-peter.gustavsson@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -2251,7 +2251,7 @@ trafikflödena både lokalt och regionalt.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5031,7 +5031,7 @@ kulturarvet som besöksanledning och identitetsskapande bör lyftas tydligare.
 1 (3)
 Nämnden för Kultur & Fritid                               Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6925,7 +6925,7 @@ o  RF-SISU Halland.
 Diarienummer DNKS230076
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 184 -->
@@ -7141,7 +7141,7 @@ kan påverkas av hur vi väljer att resa i framtiden. Halland har en unik positi
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10713,7 +10713,7 @@ WSP, Ortstruktur och funktionella samband i södra Sverige, 2023
 Diarienummer RS190659
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 275 -->
@@ -10952,7 +10952,7 @@ planprocess; att remittera alla nya planförslag till Räddningstjänst Storgöt
 1 (4)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -11899,7 +11899,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -13867,7 +13867,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -14239,7 +14239,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -14815,7 +14815,7 @@ anställning för personer med koppling till extremism och gängkriminalitet.
 1 (8)
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Ulrica Furby                                               434 81 Kungsbacka
-ulrica.furby@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Förhandlingschef
 Stadshuset, Storgatan 37
@@ -15511,7 +15511,7 @@ personuppgiftsområdet. Bland annat genom granskning. Jag ska också ge allmän 
 personuppgifter, samt särskilda råd vid konsekvensbedömning av sådan personuppgiftsbehandling som är förknippad med höga
 risker för enskildas fri- och rättigheter. Min roll är inte att avgöra vilka personuppgiftsbehandlingar kommunen ska utvärdera, utan ge
 information om vad som gäller (se artiklarna 38-39 GDPR).
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 376 -->
 
@@ -15868,7 +15868,7 @@ Södertälje kommun (se JO:s ärenden med dnr 4545-2022 och 4721-2022).
 Av JO:s inledande utredning framgick det att Södertälje kommun ingått ett avtal
 med en extern aktör om att utföra systematiska kontroller av
 
-Riksdagens ombudsmän     E-post: justitieombudsmannen@jo.se
+Riksdagens ombudsmän     E-post: (e-post borttagen)
 Box 16327                Telefon: 08-786 51 00
 103 26 Stockholm         Texttelefon: 020-600 600
 Besök: Västra Trädgårdsgatan 4 A Fax: 08-21 65 58        www.jo.se
@@ -16712,9 +16712,9 @@ verksamhet innebär sannolikt en ökad risk att bedömas som otillåtna.
 
 För frågor vänligen kontakta:
 
-SKR          info@skr.se
+SKR          (e-post borttagen)
 
-Sobona       kontakt@sobona.se
+Sobona       (e-post borttagen)
 
 <!-- sida 399 -->
 

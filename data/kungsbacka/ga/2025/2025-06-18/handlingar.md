@@ -37,7 +37,7 @@ Sammanträde onsdagen den 18 juni 2025 kl. 17:00 Elof Lindälvs gymnasium sal A 
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -130,7 +130,7 @@ dataskyddsarbete                          2024
 
 Gymnasium       &  Arbetsmarknad
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 6 -->
 
@@ -1223,7 +1223,7 @@ Arbetsmarknad
 
 Nämnden     för Gymnasium      & Arbetsmarknad
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 37 -->
 
@@ -1233,7 +1233,7 @@ Skapad av:      Förvaltningen för Gymnasium & Arbetsmarknad
 Gäller från:    2024-12-19
 Ansvarig förvaltning: Förvaltningen för Gymnasium & Arbetsmarknad
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -1443,7 +1443,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 42-1](handlingar.tabeller/42-1.csv)
 

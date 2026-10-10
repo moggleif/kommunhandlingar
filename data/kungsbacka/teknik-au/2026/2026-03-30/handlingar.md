@@ -77,7 +77,7 @@ av Håkullavägen. Vägsamfälligheten uppger att fordon som inte får plats på
 1 (2)
 Trafik & Utemiljö Kungsbacka kommun
 Linda Sövgren 434 81 Kungsbacka
-0700815270 Besöksadress
+(mobilnummer borttaget) Besöksadress
 Trafikingenjör Stadshuset, Storgatan 37
 
 Telefon 0300-83 40 00

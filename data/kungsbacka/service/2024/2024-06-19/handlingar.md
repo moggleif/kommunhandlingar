@@ -183,22 +183,22 @@ behovet bedöms ej vara så omfattande.
 
 Från:             Linda Helgesson
 Skickat:          den 8 mars 2024 15:52
-Till:             Länsstyrelsen i Hallands län; Registrator; trafikverket@trafikverket.se; SGI;
-Räddningstjänsten Raddningstjansten; gr@grkom.se;
-kansli@kulturmiljohalland.se; regionen@regionhalland.se;
-registrator.vast@polisen.se; remisser@swedavia.se;
-vasttrafik@vasttrafik.se; hallandstrafiken@hlt.se; Havs- och
-vattenmyndigheten; bo.kolqvist@arkeologerna.com;
-stadsledningskontoret@stadshuset.goteborg.se; stad@molndal.se;
-varbergdirekt@varberg.se; markskommun@mark.se; Lisa Andersson; DL
+Till:             Länsstyrelsen i Hallands län; Registrator; (e-post borttagen); SGI;
+Räddningstjänsten Raddningstjansten; (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); Havs- och
+vattenmyndigheten; (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); Lisa Andersson; DL
 BF Nämnd Alla; Liz M Ebercrantz; Miljö & Hälsoskydd admin; Kultur &
 Fritid; Teknik; Service; Förskola Grundskola; Gymnasium & Arbetsmarknad;
 Vård & Omsorg; Individ & Familjeomsorg;
-res.elleviofysiskplanering@ellevio.com; PBL@eon.se; Skanova-Remisser-
-Goteborg /Telia Sverige AB /Göteborg; Telenor-cableplanning@telenor.se;
-jonas.quist@statkraft.com; Åfeldt Patrik; skanova-remisser-
-goteborg@skanova.se; utdelningsforbattringar; Bo Eriksson;
-fastighetsagare@tele2.com; kabelanvisning@ip-only.se; Emanuel Forsell;
+(e-post borttagen); (e-post borttagen); Skanova-Remisser-
+Goteborg /Telia Sverige AB /Göteborg; (e-post borttagen);
+(e-post borttagen); Åfeldt Patrik; skanova-remisser-
+(e-post borttagen); utdelningsforbattringar; Bo Eriksson;
+(e-post borttagen); (e-post borttagen); Emanuel Forsell;
 Lars Eriksson; Annika Hedman; Fredrik Kollberg; Monica Neptun; Roger
 Larsson; Viking Bengtsson; Maria Losman; Stefan Jägnert
 Ämne:             Samrådsutskick Fördjupad översiktsplan för Kungsbacka stad
@@ -5058,11 +5058,11 @@ Dokumentegenskaper: Titel: Gemensamt reglemente för kommunstyrelsen och nämnde
 Kungsbacka kommun
 Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 Ansvarig förvaltning: Kommunstyrelsens förvaltning, Kansli
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 111 -->
 
@@ -6983,11 +6983,11 @@ Beslutad av: Nämnden för Service 2024-03-21 § 34
 Uppdaterad: 2024-06-19 § xx
 Ansvarig förvaltning: Förvaltningen för Service
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 155 -->
 

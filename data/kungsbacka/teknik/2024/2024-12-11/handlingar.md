@@ -110,7 +110,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -4114,11 +4114,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 108 -->
 
@@ -5118,7 +5118,7 @@ detta mål att utgå från. Detta skulle öka bredden på bostadsförsörjningsp
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5745,11 +5745,11 @@ Gäller från:   2025-01-01
 
 Ansvarig       Teknik
 förvaltning:
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 148 -->
 
@@ -6506,14 +6506,14 @@ Beställningscentralen tel. 0771-900 500, onlinebokning:
 hallandstrafiken.se/fardtjanst eller mobilappen "Hallandstrafiken Serviceresan".
 
 Frågor om innehållet på fakturan
-Telefon 0771-750 600 eller e-post ftjfaktura@hlt.se
+Telefon 0771-750 600 eller e-post (e-post borttagen)
 
 Frågor om betalning eller autogiro Visma
 
 Collector, telefon 0771-232 400 Synpunkter
 och klagomål på resan
 
-Telefon 0774- 411 000 eller e-post: kundtjanst.kungsbacka@samres.se
+Telefon 0774- 411 000 eller e-post: (e-post borttagen)
 
 Länkar
 
@@ -7202,11 +7202,11 @@ Beslutad av:    Bereds
 Gäller från:    Bereds
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 177 -->
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -287,7 +287,7 @@ Kommundirektör                     Biträdande kommundirektör
 YTTRANDE
 Kommunstyrelsen
 Till                                                  Datum
-raddningstjansten@rsbg.se                        2026-01-09
+(e-post borttagen)                        2026-01-09
 
 Diarienummer
 Ert diarienummer
@@ -328,7 +328,7 @@ Kungsbacka kommun
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -389,7 +389,7 @@ OBragn.k Ngirr o2 252805030--04700592
 Förbundsledning              Utfärdat      2025-11-17
 Sigrun Hreidarsdottir        Presidiet     2025-11-28
 Enhetschef                   Förbundsstyrelse 2025-12-10
-sigrun.hreidarsdottir@rsgbg.se Förbundsfullmäktige Välj datum här
+(e-post borttagen) Förbundsfullmäktige Välj datum här
 Diarienummer  2023/430
 
 Förslag till ny förbundsordning    samt   förslag till
@@ -2355,7 +2355,7 @@ effektiv och rättssäker samhällsbyggnadsprocess.
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2737,7 +2737,7 @@ ekonomiskt stöd i form av bidrag.
 1 (4)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2975,7 +2975,7 @@ andra statliga åtaganden.
 1 (2)
 "[Skriv nämndens namn]"                                   Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3112,7 +3112,7 @@ ansvarsfördelning, proportionalitet och teknikneutralitet. Digitala strukturer 
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3200,7 +3200,7 @@ bland annat avseende rapportering, datastandarder och användning av digital vä
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7462,7 +7462,7 @@ Grunddragen i planförslaget är i stort desamma i granskningshandlingarna som
 under samråd, men vissa delar har ändrats. Ändringarna finns sammanfattade i
 beslutsunderlaget – Sammanfattning av ändringar mellan samråd och
 POSTADRESS   BESÖKSADRESS  TELEFON    ORGANISATIONSNUMMER E-POSTADRESS
-Varbergs kommun Engelbrektsgatan 15, 0340-880 00 212000-1249 ks@varberg.se
+Varbergs kommun Engelbrektsgatan 15, 0340-880 00 212000-1249 (e-post borttagen)
 Östra Vallgatan 12
 (hiss)        TELEFAX                    WEBBPLATS
 432 80 Varberg 432 80 Varberg                         www.varberg.se
@@ -7547,7 +7547,7 @@ antingen via brev eller e-post. Märk ditt yttrande med ”Översiktsplan
 Varberg (KS 2025/0769)”.
 
 E-post skickas till:
-oversiktsplan@varberg.se
+(e-post borttagen)
 
 Brev skickas till:
 Varbergs kommun 432 80 Varberg
@@ -7558,7 +7558,7 @@ Vid frågor kontakta:
 Kristoffer Olofsson
 Projektledare för Ny översiktsplan
 0340 – 69 70 16
-kristoffer.olofsson@varberg.se
+(e-post borttagen)
 
 <!-- sida 160 -->
 

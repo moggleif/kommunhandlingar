@@ -99,7 +99,7 @@ Ansökan om pengar ur Erik Hjälmlövs Stiftelse, 2026-02-09
 
 Beslutet skickas till
 
-Kommunstyrelsens förvaltning: Styrning & Ekonomi (donationsstiftelser@kungsbacka.se)
+Kommunstyrelsens förvaltning: Styrning & Ekonomi ((e-post borttagen))
 Sökanden
 
 Arian Faily                   Maria Hallberg
@@ -395,8 +395,8 @@ Gäller för:     Förvaltningen för Vård och Omsorg
 
 Ansvarig förvaltning: Förvaltningen för Vård och Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -853,11 +853,11 @@ Beslutad av:    Nämnden för Vård & Omsorg, 2025-05-15, § 80
 Gäller från:    2025-05-15
 
 Ansvarig förvaltning: Vård & Omsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -2909,7 +2909,7 @@ Titel                                                       Titel
 
 Förvaltning                                                 Förvaltning
 
-fornamn.efternamn@kungsbacka.se                             fornamn.efternamn@kungsbacka.se
+(e-post borttagen)                             (e-post borttagen)
 
 0300  - 83 XX  XX                                           0300  - 83 XX XX
 

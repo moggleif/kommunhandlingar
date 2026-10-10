@@ -176,8 +176,8 @@ kan koppla till hög hastighet utmed väg 953.
 
 Trafikverket         Texttelefon: 010-123 50 00 Elin Thulin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 40 82
-Besöksadress: Linjegatan 7, Halmstad www.trafikverket.se elin.thulin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 40 82
+Besöksadress: Linjegatan 7, Halmstad www.trafikverket.se (e-post borttagen)
 
 <!-- sida 5 -->
 
@@ -219,8 +219,8 @@ Trafikingenjör
 
 Trafikverket         Texttelefon: 010-123 50 00 Elin Thulin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 40 82
-Besöksadress: Linjegatan 7, Halmstad www.trafikverket.se elin.thulin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 40 82
+Besöksadress: Linjegatan 7, Halmstad www.trafikverket.se (e-post borttagen)
 
 <!-- sida 6 -->
 

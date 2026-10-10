@@ -33,7 +33,7 @@ Gäller från: 1 januari 2026
 Dokumentegenskaper: Avfallstaxa 2026, daterad 2025-05-30
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -1375,7 +1375,7 @@ Beslutad av: Kommunfullmäktige 2025-05-06 § 90, KS-2024-00300
 Gäller från: 2025-06-01
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -2708,7 +2708,7 @@ Felparkeringsavgifter
 
 Underlag     till taxa
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -2856,11 +2856,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 69 -->
 
@@ -3066,7 +3066,7 @@ nyttoparkering
 
 Underlag     till taxa
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 76 -->
 
@@ -3983,7 +3983,7 @@ Arkivmyndighetens         tillsyn 2025    – nämnden      för
 
 Teknik
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 100 -->
 
@@ -4183,10 +4183,10 @@ Med vänlig hälsning
 Victoria Pettersson Möller
 
 Direkt +46300834460
-victoria.pettersson@kungsbacka.se
+(e-post borttagen)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 105 -->
 
@@ -4199,11 +4199,11 @@ Beslutad av:    Nämnden för Teknik, 2025-06-18 §0
 Gäller från:    2025-06-18
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 106 -->
 
@@ -4586,11 +4586,11 @@ Beslutad av:    Nämnden för Teknik, 2025-05-20 §0
 Gäller från:    2025-06-18
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 114 -->
 
@@ -5492,11 +5492,11 @@ Beslutad av:    Nämnden för Teknik, 2025-06-18 §0
 Gäller från:    2025-06-18
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 160 -->
 
@@ -6258,7 +6258,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, Storgatan
 37, 434 81 Kungsbacka.
 
@@ -6591,8 +6591,8 @@ Detaljplanen upprättas med standardförfarande i enlighet med plan- och bygglag
 samt Boverkets föreskrifter och allmänna råd BFS 2020:5 och 2020:6.
 
 Handläggare
-Björn Vikström, Planarkitekt, bjorn.vikstrom@kungsbacka.se
-Mikaela Ropel, Exploateringsingenjör, mikaela.ropel@kungsbacka.se
+Björn Vikström, Planarkitekt, (e-post borttagen)
+Mikaela Ropel, Exploateringsingenjör, (e-post borttagen)
 
 Handlingar:
 
@@ -8923,7 +8923,7 @@ Diarienummer
 2021-07-07     402-5125-2021
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande   över  förslag till detaljplan för
 
@@ -8959,7 +8959,7 @@ Länsstyrelsen befarar att:
 för olyckor, översvämning eller erosion. Se vidare under rubriken Trafikbuller.
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 243 -->
 
@@ -9208,7 +9208,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -9261,7 +9261,7 @@ befintlig trädallé.
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9433,7 +9433,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -9485,7 +9485,7 @@ viktigt att det är klart i samband med arenan.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10606,7 +10606,7 @@ Vid nybyggnation av villor och radhus placeras postlådan i en lådsamling vid i
 
 flerfamiljshus ska man ta emot sin post i en fastighetsbox i anslutning till entrén. Färdvägen till
 postanordningen ska vara öppen och farbar året runt för valt fordon.
-Kontakta PostNord i god tid på utdelningsforbattringar@postnord.com för dialog gällande
+Kontakta PostNord i god tid på (e-post borttagen) för dialog gällande
 godkännande av postmottagning i samband med nybyggnation eller annan förändring gällande
 befintlig alt ny infrastruktur.
 
@@ -11243,7 +11243,7 @@ Datum            Diarienummer
 2025-02-14       394-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för Kungsbackas    Arena,
 
@@ -11287,7 +11287,7 @@ där evenemang för såväl idrott, näringsliv och kultur kan
 genomföras. Utöver arenahallen kommer även en sporthall för
 skolidrott och föreningsliv finnas i arenan. Projektet omfattar även
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 300 -->
@@ -11651,10 +11651,10 @@ Bilagor
 
 Kopia utan  bilagor till
 
-Trafikverket, trafikverket@trafikverket.se
-Statens geotekniska institut, sgi@sgi.se
+Trafikverket, (e-post borttagen)
+Statens geotekniska institut, (e-post borttagen)
 
-Lantmäteriet, lantmateriet@lm.se
+Lantmäteriet, (e-post borttagen)
 
 <!-- sida 307 -->
 
@@ -11804,10 +11804,10 @@ Diarienummer 2019-00020
 Detaljplanen upprättas med utökat förfarande i enlighet med plan- och bygglagen 2010:900.
 
 Handläggare:
-Magnus Björned, planarkitekt 0300-83 45 87, magnus.bjorned@kungsbacka.se
-Maria Brink, planarkitekt 0300-83 43 98, maria.brink@kungsbacka.se
+Magnus Björned, planarkitekt 0300-83 45 87, (e-post borttagen)
+Maria Brink, planarkitekt 0300-83 43 98, (e-post borttagen)
 
-Lena Melvinsdotter, exploateringsingenjör 0300-83 42 68, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, exploateringsingenjör 0300-83 42 68, (e-post borttagen)
 
 Handlingar:
 • Planbeskrivning, denna handling
@@ -14246,7 +14246,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 52 Planbeskrivning
 
@@ -14269,7 +14269,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
@@ -14280,7 +14280,7 @@ tycker om förslaget.
 
 Vid frågor om aktuellt planförslag är du välkommen att kontakta
 ansvarig planarkitekt Magnus Björned på 0300-83 45 87 alternativt
-via mail till magnus.bjorned@kungsbacka.se.
+via mail till (e-post borttagen).
 
 Skanna qr-koden med
 din mobilkamera för att
@@ -14289,8 +14289,8 @@ hemsida!
 
 Illustration över Kungsbackas framtida arena. (Semrén+Månsson, Hille Melbye arkitekter)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 361 -->
 
@@ -14408,7 +14408,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -14456,7 +14456,7 @@ upp med motsvarande finansiering, jämlikt den av Riksdagen godkända Finansieri
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -14523,7 +14523,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
-E-post: kn.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 369 -->
 
@@ -14648,8 +14648,8 @@ att remissinstansen lämnar synpunkter också på övriga delar.
 
 Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet
 senast den 3 juli 2025. Svaren bör lämnas per e-post till
-kn.remissvar@regeringskansliet.se och med kopia till
-gabriella.modin@regeringskansliet.se. Ange diarienummer KN2025/01024
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer KN2025/01024
 
 och remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -15653,7 +15653,7 @@ analyserna i det tidigare remitterade förslaget.
 
 <!-- sida 396 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 27 maj 2025 11:07
 Till:           Teknik
 Ämne:           Begäran om yttrande - Ny förordning om invasiva främmande arter
@@ -15693,7 +15693,7 @@ Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
 
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun

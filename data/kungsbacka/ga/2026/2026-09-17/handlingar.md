@@ -39,7 +39,7 @@ Paus 18.10-18.30
 Adam Greveby                                                 Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-adam.greveby2@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1965,7 +1965,7 @@ Nedan följer en presentation av viktiga händelser och vilket årtal dessa ägd
 1958–1973 Kungsbacka stads skolstyrelse, förde protokoll och diarieförde
 handlingar.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 44 -->
 
@@ -3016,7 +3016,7 @@ förvaltning                                               Kungsbacka kommun
 Anna Hamrin
 Controller                                                    Besöksadress
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 

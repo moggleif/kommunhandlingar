@@ -38,7 +38,7 @@ Kommunfullmäktigesalen, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -263,9 +263,9 @@ D2atum 0221207,  BUenämning tbyte biblioteksbuss
 Rev 2023-11-29
 Rev. 2024-12-05
 Initiativtagare
-NSamn och enheto fia Rosén, verksamhetschef Es-postadress ofia.rosen@kungsbacka.se A0rbetstelefon 300-83 81 35
+NSamn och enheto fia Rosén, verksamhetschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 81 35
 Kontaktperson för behovsbeskrivningen
-NSamn och enhet usan Pour, bibliotekschef Es-postadress usan.pour@kungsbacka.se A0rbetstelefon 300-83 41 94
+NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Nuvarande biblioteksbuss levererades januari 2018 och kommer att behöva ersättas efter ca
@@ -317,7 +317,7 @@ att nå ut till kommunens alla delar med ett modernt utrustat mobilt bibliotek.
 B
 Ekonomi
 U
-K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i nfo@kungsbacka.se
+K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 
 <!-- sida 11 -->
@@ -395,10 +395,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén, Vch Kultur & demokrati sofia.rosen@kungsbacka.se 0300-83 81 35
+Sofia Rosén, Vch Kultur & demokrati (e-post borttagen) 0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall, Ec Kultur & besöksmål peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall, Ec Kultur & besöksmål (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
@@ -440,7 +440,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -515,10 +515,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén              sofia.rosen@kungsbacka.se  0300-83 81 35
+Sofia Rosén              (e-post borttagen)  0300-83 81 35
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall            peter.rudvall@kungsbacka.se 0700-81 54 75
+Peter Rudvall            (e-post borttagen) (mobilnummer borttaget)
 
 VARFÖR  BEHÖVER NÅGOT  GÖRAS?
 
@@ -582,7 +582,7 @@ p te a r r a k en ti v m it e e r t : i n G k e l s u t d a e lt r n a i n n d g
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -678,10 +678,10 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Jessica Wibeck           Jessica.wibeck@kungsbacka.se
+Jessica Wibeck           (e-post borttagen)
 
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Vår äldre friidrottsanläggning som byggdes 1936 har idag utmaningar när det gäller säkerhet
@@ -932,11 +932,11 @@ Datum            Benämning
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Maria K Andrén           maria.k.andren@kungsbacka.se 070-2021914/0300 83 80
+Maria K Andrén           (e-post borttagen) (mobilnummer borttaget)/0300 83 80
 99
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
-Wendela Sanne Öhrnell    Wendela.sanne-ohrnell@kungsbacka.se 0300 83 82 57
+Wendela Sanne Öhrnell    (e-post borttagen) 0300 83 82 57
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 
 Kultur & Fritids Målbild för 2030 säger:
@@ -974,7 +974,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2300,7 +2300,7 @@ KFT-2024-  2024-12-19 Kommunlednings- Protokollsutdrag 2024-12-12 KF § 166
 motioner (2, 2024)
 KFT-2024-  2024-12-19 Kommunlednings- Protokollsutdrag 2024-12-12 KF §
 00381             kontoret       162,163,164. Beslut Taxor KFT 2025
-KFT-2024-  2024-12-18 service@kungsbacka.se Handlingar för ärende SE-2024-00424,
+KFT-2024-  2024-12-18 (e-post borttagen) Handlingar för ärende SE-2024-00424,
 00379                            Koncept utemiljö, Förskola & Grundskola
 KFT-2024-  2024-12-13 Kulturföreningen VB: Rädda det fria kulturlivet i Kungsbacka
 00378             Alléteaterns styrelse – Alléteaterns akuta behov av stöd

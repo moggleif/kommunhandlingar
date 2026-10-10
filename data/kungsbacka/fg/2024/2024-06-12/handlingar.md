@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -133,7 +133,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -504,7 +504,7 @@ Skolchef
 
 <!-- sida 15 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 6 mars 2024 13:09
 Till:           Individ & Familjeomsorg; Förskola Grundskola; Gymnasium & Arbetsmarknad;
 Vård & Omsorg; Bygg & Miljö bygglov admin; Miljö & Hälsoskydd admin
@@ -552,7 +552,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -21854,7 +21854,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 503 -->
 
@@ -22111,8 +22111,8 @@ Svensk förening för beroendemedicin
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 30
 augusti 2024. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
-s.hc.delning@regeringskansliet.se. Ange diarienummer S2024/00726 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer S2024/00726 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -22164,13 +22164,13 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 8 (8)
 
 <!-- sida 510 -->
 
-Från:                  kommun@kungsbacka.se
+Från:                  (e-post borttagen)
 Skickat:               den 17 maj 2024 14:05
 Till:                  Miljö & Hälsoskydd admin; Kultur & Fritid; Individ & Familjeomsorg;
 Förskola Grundskola; Gymnasium & Arbetsmarknad
@@ -22219,7 +22219,7 @@ Kommunledningskontoret
 <!-- sida 511 -->
 
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -22595,7 +22595,7 @@ Som personuppgiftsansvarig ska man utse ett Dataskyddsombud (DSO). Dennes uppgif
 bevaka verksamhetens följsamhet mot dataskyddsförordningen, vara kontakt gentemot
 Integritetsskyddsmyndigheten och på olika sätt ge råd i frågor som rör dess dataskyddsarbete.
 DSO fungerar också som kontakt gentemot de registrerade vid klagomål. I Kungsbacka nås
-DSO på dataskyddskontakt@kungsbacka.se
+DSO på (e-post borttagen)
 För det operativa dataskyddsarbetet i verksamheten ska det för varje förvaltning i Kungsbacka
 finnas en dataskyddskontakt. Dataskyddskontakten har som uppgift att samordna
 
@@ -23556,7 +23556,7 @@ Prova          på     skollunchen                   2024
 
 Sammanställning         av  synpunkter      från   deltagare
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 567 -->
 

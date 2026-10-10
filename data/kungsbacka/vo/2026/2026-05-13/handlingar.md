@@ -956,7 +956,7 @@ föra beslutade åtgärder med anledning av de rekommendationer som redovi-
 sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
-kommunrevision@kungsbacka.se senast den 20 maj 2026.
+(e-post borttagen) senast den 20 maj 2026.
 
 För revisorerna i Kungsbacka kommun
 
@@ -1031,7 +1031,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 35 -->
@@ -1127,7 +1127,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 36 -->
@@ -2710,9 +2710,9 @@ Laholms kommun
 Missiv
 
 Regionkontoret
-Södra vägen 9
+(adress borttagen)
 302 38 Halmstad                         Datum     Diarienummer
-regionen@regionhalland.se               2026-04-16 RS260196
+(e-post borttagen)               2026-04-16 RS260196
 
 Skickas till Hallands kommuner
 
@@ -2748,7 +2748,7 @@ Region Halland avser ta beslut på Regionfullmäktiges sammanträde den 29
 april 2026.
 
 Efter att beslut tagits i er kommun, expediera beslutet till
-regionen@regionhalland.se
+(e-post borttagen)
 
 <!-- sida 72 -->
 
@@ -3549,9 +3549,9 @@ Missiv                                Datum     Diarienummer
 2026-04-16 RS26019696
 
 Regionkontoret
-Södra vägen 9
+(adress borttagen)
 302 38 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 Skickas till Hallands kommuner
 
 s
@@ -3603,7 +3603,7 @@ fredstid och höjd beredskap på Regionfullmäktiges sammanträde den 29 april
 2026\.
 
 Efter att beslut tagits i er kommun, expediera beslutet till
-regionen@regionhalland.se
+(e-post borttagen)
 
 Bilagor
 
@@ -4964,7 +4964,7 @@ att endast behandla sjukdom till att i högre grad arbeta för att förebygga de
 att stödja invånarna i att utveckla hälsosamma levnadsvanor och stärka den fysiska och
 mentala hälsan i alla åldrar. Kommunens roll blir att inte bara erbjuda insatser utan även att
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 152-1](handlingar.tabeller/152-1.csv)
 
@@ -4973,7 +4973,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 | Tidig analys för främjande och förebyggande insatser (”Kungsbackaanalysen”) |  |  |
 | Beställare |  |  |
 | Namn och enhet | E-postadress | Telefon |
-| Karl Persson | karl.persson@kungsbacka.se | 0300-83 48 05 |
+| Karl Persson | (e-post borttagen) | 0300-83 48 05 |
 | Status |  |  |
 | Beställning är | Datum |  |
 | ☒ Färdigställd | 2025-04-22 (ver 0.1): Utkast<br>2025-10-07 (ver 0.2): Remiss till sakkunniga<br>2025-11-12 (ver 0.9): Till programägare för beslut |  |
@@ -5348,7 +5348,7 @@ programmet.
 •  Tidredovisning och resursuppföljning för projektgruppen - Arbetad tid ska
 dokumenteras för projektgruppen, antingen i Excel eller i Antura. Mall finns i
 teamskanalen för projektledare i programmet. Om man vill sätta upp det i Antura
-kontaktas supporten på projektverktyget@kungsbacka.se.
+kontaktas supporten på (e-post borttagen).
 •  Statusrapportering - Projektets framdrift och status ska rapporteras till
 
 programledaren en gång i månaden (lägesrapport).

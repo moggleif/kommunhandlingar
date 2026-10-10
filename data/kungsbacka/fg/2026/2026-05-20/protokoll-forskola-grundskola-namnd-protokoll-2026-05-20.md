@@ -670,7 +670,7 @@ på förskolan Prästkragen
 Beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Särö pastorat gällande
-ansökan om utökning på förskolan Prästkragen, Östra Särövägen 339, 429 44 Särö
+ansökan om utökning på förskolan Prästkragen, Östra (adress borttagen), 429 44 Särö
 om permanent utökning till totalt 20 barn.
 
 Jäv
@@ -733,7 +733,7 @@ Beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Förskolekooperativet
 Myrstacken i Åsa Ekonomisk förening gällande ansökan om utökning på förskolan
-Myrstacken, Kumlabacken 9, 439 53 Åsa om permanent utökning till totalt 22 barn.
+Myrstacken, (adress borttagen), 439 53 Åsa om permanent utökning till totalt 22 barn.
 
 Sammanfattning av ärendet
 

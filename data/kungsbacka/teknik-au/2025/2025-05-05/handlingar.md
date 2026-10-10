@@ -137,8 +137,8 @@ ansvarar också för att erforderliga servitut eller annan ledningsrätt finns p
 
 föreningens sida om inkopplingspunkten.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -194,8 +194,8 @@ lagstiftning.
 Inkopplingsavgift ska erläggas med XX XXX kr (bilaga 2). Inkopplingsavgift
 beräknas i första hand enligt en särskild prislista för anslutning utanför
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 5 -->
 
@@ -253,8 +253,8 @@ vid varje tidpunkt gällande taxa.
 
 Om huvudmannen godkänner inkoppling av ytterligare fastigheter eller byggnader
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 6 -->
 
@@ -311,8 +311,8 @@ installeras på fastigheten.
 krävs det en LTA-pump, eller liknande, för att ansluta till den trycksatta ledningen.
 Föreningen är skyldig att införskaffa, äga, sköta dess drift, förnya och tillse en sådan
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -366,8 +366,8 @@ anläggningsavgifter enligt då gällande VA-taxa.
 Vid överlåtelse av fastighet som ingår i samfällighetsföreningen, är föreningen
 skyldig att uppdatera informationen till huvudmannen.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -382,5 +382,5 @@ undertecknande finns en visuell presentation av de elektroniska underskrifterna 
 en separat sida sist i dokumentet. Där finns även ytterligare information om
 elektroniska underskrifter och validering.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se

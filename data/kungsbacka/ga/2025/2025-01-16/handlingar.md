@@ -37,7 +37,7 @@ Sammanträde torsdagen den 16 januari 2025 kl. 17:00, Elof Lindälvs gymnasium S
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1279,7 +1279,7 @@ För att stödja kommunerna i omställningen till en långsiktigt hållbar socia
 Sveriges Kommuner och Regioner
 Post: 118 82 Stockholm, Besök: Hornsgatan 20
 Tfn: växel 08-452 70 00, Fax: 08-452 70 50
-Org nr: 222000-0315, info@skr.se, www.skr.se
+Org nr: 222000-0315, (e-post borttagen), www.skr.se
 
 <!-- sida 30 -->
 

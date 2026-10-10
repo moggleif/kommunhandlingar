@@ -40,7 +40,7 @@ Paus 20.15-20.30
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1022,10 +1022,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Karin Zetterman          Karin.zetterman@kungsbacka.se 0300-83
+Karin Zetterman          (e-post borttagen) 0300-83
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Kompetenscentrum (KC) samlar kommunens stöd till invånare på vägen mot självförsörjning genom
@@ -1136,7 +1136,7 @@ k vensen blir försämrad tillgänglighet, lägre kvalitet och längre väg till
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1221,10 +1221,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Johanna Friberg          Johanna.friberg@kungsbacka.se 0300-83 33 04
+Johanna Friberg          (e-post borttagen) 0300-83 33 04
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Elof Lindälvs gymnasium är en stor kommunal gymnasieskola med publika ytor (entré,
@@ -1294,7 +1294,7 @@ n s g k ) r . a ft i konkurrens med närliggande gymnasier (elevrekrytering och
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1367,10 +1367,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Christina Palmquist      Christina.palmquist@kungsbacka.se 073-86 25 848
+Christina Palmquist      (e-post borttagen) (mobilnummer borttaget)
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Anpassad gymnasieskola (Individuella programmet) på Aranäsgymnasiet. Har idag 29 elever inskrivna
@@ -1415,7 +1415,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1511,10 +1511,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Lisa Jönsson             Lisa.jonsson@kungsbacka.se 0300-83 34 31
+Lisa Jönsson             (e-post borttagen) 0300-83 34 31
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-834260
+Erika Erngard            (e-post borttagen) 0300-834260
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 
 Elof Lindälvs gymnasium bedriver det nationella programmet inom Anpassad gymnasieskola (AGY)
@@ -1558,7 +1558,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1623,10 +1623,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Dan Sadé                 dan.sade@kungbsbacka.se    0300-83 44 25
+Dan Sadé                 (e-post borttagen)    0300-83 44 25
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 
 Vård- och omsorgsprogrammet är ett yrkesprogram på Aranäsgymnasiet med cirka 68 elever (en klass
@@ -1693,7 +1693,7 @@ u tbildningen och starkare koppling till arbetslivet.
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1776,10 +1776,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Stina Petersson          Stina.petersson@kungsbacka.se 0300-83 34 75
+Stina Petersson          (e-post borttagen) 0300-83 34 75
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 El- och Energiprogrammet är ett yrkesprogram på Elof Lindälv med tre inriktningar: Automation,
@@ -1837,7 +1837,7 @@ s försörjning.
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -1922,10 +1922,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Cindia Escalante Mattson Cindia.escalante-          0300-83 35 13
-mattsson@kungsbacka.se
+(e-post borttagen)
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Restaurang- och livsmedelsprogrammet (RL) är ett yrkesprogram beläget i B-blocket på Elof Lindälvs
@@ -2078,7 +2078,7 @@ om hållbar resursanvändning.
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2155,10 +2155,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Maria Åsberg             Maria.asberg@kungsbacka.se 0300-83 30 04
+Maria Åsberg             (e-post borttagen) 0300-83 30 04
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Ekonomiprogrammet är skolans största program (\~ 480 elever VT 2025; 5 klasser/årskurs, ca 30
@@ -2306,7 +2306,7 @@ E VERKSAMHET?
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2359,10 +2359,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Marie Andersson          marie.andersson@kungsbacka.se 0300-83 35 10
+Marie Andersson          (e-post borttagen) 0300-83 35 10
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
+Erika Erngard            (e-post borttagen) 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Fordon- och transportprogrammet bedrivs idag vid Elof Lindälvs gymnasium samt på Marios gata 3 i
@@ -2566,7 +2566,7 @@ n och dess
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -7291,7 +7291,7 @@ djupdyker i vart ROM2 deltagarna tog vägen efter
 Arbetsförmedlingens utrensning samt mycket mer.
 Trevlig läsning!
 Björn       Elmqvist
-bjorn@werket.nu | 070-888 26 01
+(e-post borttagen) | (mobilnummer borttaget)
 2
 
 <!-- sida 165 -->
@@ -8588,7 +8588,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 186 -->

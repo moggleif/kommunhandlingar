@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1417,7 +1417,7 @@ Justerare                         Expedierat/bestyrkt
 <!-- sida 26 -->
 
 Kivi-Tex Properties Sweden AB
-Idrottsvägen 35
+(adress borttagen)
 70232 Örebro                                      Datum: 2022-10-11
 
 Beslut  om   Bygglov   för  nybyggnad     av verksamhet,
@@ -1464,7 +1464,7 @@ rekommenderar vi att eventuella servitut för till exempel väg finns innan bygg
 Redogörelse av ärendet
 Ursprunglig ansökan inkom 2022-03-31.
 
-Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 11-01-2202
 –
 314300-2202
@@ -2710,7 +2710,7 @@ kommunen bedömer vara ytterst positivt för resurshushållning. Vidare bedöms 
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2773,7 +2773,7 @@ Förvaltningen för Teknik
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3007,11 +3007,11 @@ Beslutad av:    Kommunfullmäktige 4 april 2023 § 46, KS 2022-00291
 Gäller från:    2023-04-04
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -3686,7 +3686,7 @@ Kommundirektör                     Biträdande kommundirektör
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

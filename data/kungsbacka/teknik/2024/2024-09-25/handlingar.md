@@ -72,7 +72,7 @@ men även viss personell resursbrist.
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2727,7 +2727,7 @@ auktorisationssystem och maxtaxa
 
 2024-09-04
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 71 -->
 
@@ -2817,7 +2817,7 @@ Kungsbacka kommun
 Avfall & Återvinning
 
 0300-83 43 29
-sandra.carlstrom@kungsbacka.se
+(e-post borttagen)
 
 Kungsbacka kommun Fastighetsnära insamling av bygg- och rivningsavfall under 3
 kommunalt ansvar
@@ -3282,11 +3282,11 @@ Beslutad av:   Nämnden för Teknik – 2024-09-25 §§ X
 Gäller från:   2024-10-XX
 Ansvarig förvaltning: Teknik
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 85 -->
 
@@ -5582,11 +5582,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 
 Gäller från:    2024-03-05
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 151 -->
 
@@ -6831,7 +6831,7 @@ och  beslut
 
 Version 1
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 177 -->
 
@@ -8134,7 +8134,7 @@ Förvaltningen för Teknik
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

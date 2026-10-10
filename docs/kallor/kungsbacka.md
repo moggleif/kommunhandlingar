@@ -153,6 +153,11 @@ organet tas från sidan, datumet ur filnamnet eller rubriken, och när de
 avviker gäller en rättelse i kommunfilen, belagd med datumet i kallelsen
 eller protokollet.
 
+**Personnummer i publicerade handlingar.** Flera ärenden har fullständiga
+personnummer, ibland med hemadress, oftast i bilagor som kommit utifrån.
+Poolen maskar dem, och felen rapporteras till kommunen utanför repot
+([ADR-0022](../decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena

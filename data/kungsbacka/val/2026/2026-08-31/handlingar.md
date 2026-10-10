@@ -365,7 +365,7 @@ Kungsbacka kommun
 
 Adress Organisationsnummer
 
-Stadshuset, Storgatan 37, 434 81 Kungsbacka 212000-1256
+Stadshuset, (adress borttagen), 434 81 Kungsbacka 212000-1256
 
 Personuppgiftsbiträde
 Valnämnden Kungsbacka kommun
@@ -1210,7 +1210,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1284,7 +1284,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1351,7 +1351,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1371,11 +1371,11 @@ Beslut
 
 Följande personer utses att ta emot valförsändelser från PostNord 13-17 september:
 
-Valsamordnare Sabina Blomqvist, 19790525-4962
-Assisterande valsamordnare Miranda Gulliksson, 20020514-9644
-Registrator Kristian Egstedt, 19820503-5036
-Kommunarkivarie Eva Holmberg, 19660311-9345
-Administrativ chef Sofia Jonsson, 19790521-4727
+Valsamordnare Sabina Blomqvist, (personnummer borttaget)
+Assisterande valsamordnare Miranda Gulliksson, (personnummer borttaget)
+Registrator Kristian Egstedt, (personnummer borttaget)
+Kommunarkivarie Eva Holmberg, (personnummer borttaget)
+Administrativ chef Sofia Jonsson, (personnummer borttaget)
 
 Upplysning
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.6 2024-11-11, §
@@ -1415,7 +1415,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1487,7 +1487,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1561,7 +1561,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1625,13 +1625,13 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
 <!-- sida 48 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 13 maj 2026 14:13
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 20
@@ -1695,7 +1695,7 @@ Valmyndigheten
 
 <!-- sida 50 -->
 
-Från:                  Valnämnden \<valnamnden@kungsbacka.se>
+Från:                  Valnämnden \<(e-post borttagen)>
 Skickat:               den 22 maj 2026 09:34
 Till:                  Sofia Jonsson; Andrea Egerlundh; Linnea Princis
 Ämne:                  VB: Valmyndighetens nyhetsutskick v.21
@@ -1773,9 +1773,9 @@ Till:                  Sofia Jonsson; Linnea Princis; Andrea Egerlundh; Zhale Ra
 Uppföljningsflagga:    Följ upp
 Flagga:                Har meddelandeflagga
 
-Från: Brev: Val ValAdm \<valadm@val.se>
+Från: Brev: Val ValAdm \<(e-post borttagen)>
 Skickat: den 28 maj 2026 09:00
-Till: Brev: Val ValAdm \<valadm@val.se>
+Till: Brev: Val ValAdm \<(e-post borttagen)>
 Ämne: Valmyndighetens nyhetsutskick v.22
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1910,7 +1910,7 @@ Valmyndigheten
 
 <!-- sida 56 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 10 juni 2026 16:50
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.24
@@ -1960,12 +1960,12 @@ Valmyndigheten
 
 <!-- sida 57 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 17 juni 2026 16:17
 Till:                  Valnämnden
 Ämne:                  Valmyndighetens nyhetsbrev vecka 25
 
-Du får inte ofta e-post från no-reply@val.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -2004,8 +2004,8 @@ ur valfamiljen.
 Som ni ser har nyhetsbrevet fått ett nytt utseende. Det är något jag är mycket
 glad över. Det innebär också att utskicken från Valmyndigheten numera
 
-kommer från adressen no-reply@val.se. När ni hör av er till oss ska ni däremot
-fortsatt använda adressen valadm@val.se som går till våra
+kommer från adressen (e-post borttagen). När ni hör av er till oss ska ni däremot
+fortsatt använda adressen (e-post borttagen) som går till våra
 
 kommunsamordnare.
 
@@ -2120,7 +2120,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 62 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 24 juni 2026 15:45
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 26
@@ -2223,10 +2223,10 @@ Till:                  Sofia Jonsson; Andrea Egerlundh; Sabina Blomqvist
 Kopia:                 Zhale Rashid
 Ämne:                  VB: Nyhetsbrev kommuner vecka 27
 
-Från: Valmyndigheten \<no-reply@val.se>
+Från: Valmyndigheten \<(e-post borttagen)>
 
 Skickat: den 3 juli 2026 11:02
-Till: Valnämnden \<valnamnden@kungsbacka.se>
+Till: Valnämnden \<(e-post borttagen)>
 Ämne: Nyhetsbrev kommuner vecka 27
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -2306,7 +2306,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 68 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 8 juli 2026 16:01
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 28
@@ -2379,7 +2379,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 71 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 29 juli 2026 16:20
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 31
@@ -2452,7 +2452,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 74 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 5 augusti 2026 16:35
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 32
@@ -2826,7 +2826,7 @@ Kungsbacka kommun
 
 <!-- sida 83 -->
 
-Från:                  Mikael Pettersson \<micke.pettersson@svt.se>
+Från:                  Mikael Pettersson \<(e-post borttagen)>
 Skickat:               den 22 maj 2026 11:44
 Till:                  Peter Mattsson
 Kopia:                 Emma Wilson; Erika Fornestedt; Margareta Westberg; Hanna
@@ -2834,7 +2834,7 @@ Sverne; Joachim Dahlin
 Ämne:                  SVT:s vallokalsundersökning VALU 2026
 Bifogade filer:        BREV VALNÄMNDENS ORDFÖRANDE VALET 2026.docx
 
-Vissa som har fått det här meddelandet får inte ofta e-post från micke.pettersson@svt.se. Läs om varför det här är viktigt
+Vissa som har fått det här meddelandet får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -2855,8 +2855,8 @@ Mikael Pettersson
 
 Sveriges Television
 T +46 87847372
-M +46 708847309
-micke.pettersson@svt.se
+M (mobilnummer borttaget)
+(e-post borttagen)
 
 <!-- sida 84 -->
 
@@ -2905,5 +2905,5 @@ SVERIGES TELEVISION
 Mikael Pettersson
 
 Projektledare SVT
-micke.pettersson@svt.se
-0708847309
+(e-post borttagen)
+(mobilnummer borttaget)

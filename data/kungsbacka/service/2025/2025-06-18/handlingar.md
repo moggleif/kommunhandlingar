@@ -85,7 +85,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
@@ -96,7 +96,7 @@ tycker om förslaget.
 
 Vid frågor om aktuellt planförslag är du välkommen att kontakta
 ansvarig planarkitekt Magnus Björned på 0300-83 45 87 alternativt
-via mail till magnus.bjorned@kungsbacka.se.
+via mail till (e-post borttagen).
 
 Skanna qr-koden med
 din mobilkamera för att
@@ -105,8 +105,8 @@ hemsida!
 
 Illustration över Kungsbackas framtida arena. (Semrén+Månsson, Hille Melbye arkitekter)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 3 -->
 
@@ -205,7 +205,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 17 juni 2025 vill vi ha dina
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -379,7 +379,7 @@ under samråd eller granskning.
 Kontaktuppgifter
 Stina Wikström, planarkitekt Anna Wibling, exploateringsingenjör
 2 (2)
-stina.wikstrom@kungsbacka.se anna.wibling@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 
 <!-- sida 7 -->
 
@@ -494,7 +494,7 @@ Ordförande nämnden för Service          Förvaltningschef Service
 1 (1)
 "[Skriv nämndens namn]"                                   Kungsbacka kommun
 434 81 Kungsbacka
-service@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -534,20 +534,20 @@ och tryckt form. De färdiga riktlinjerna planeras att presenteras under hösten
 Remissvaren kan även komma att publiceras på Livsmedelsverkets webbplats.
 
 Vid frågor om remissen, vänligen kontakta:
-Emelie Elin, projektledare, emelie.elin@slv.se
+Emelie Elin, projektledare, (e-post borttagen)
 
 Livsmedelsverket önskar synpunkter på de föreslagna riktlinjerna senast den 19
 
 juni 2025.
 
 Remissvaren bör lämnas i bearbetningsbar form (t.ex. Wordformat) per e-post till
-livsmedelsverket@slv.se. Vänligen ange diarienummer 2023/04634 och
+(e-post borttagen). Vänligen ange diarienummer 2023/04634 och
 remissinstansens namn i ämnesraden på e-postmeddelandet och i
 
 dokumentnamnet på yttrandet.
 
 Postadress   Besöksadress Telefon     E-post          Organisationsnummer
-Box 622      Dag Hammarskjölds väg 56 A 018-17 55 00 livsmedelsverket@slv.se 202100-1850
+Box 622      Dag Hammarskjölds väg 56 A 018-17 55 00 (e-post borttagen) 202100-1850
 751 26 Uppsala Leveransadress Telefax Internet        VAT-nummer
 Dag Hammarskjölds väg 56 C 018-10 58 48 www.livsmedelsverket.se SE202100185001
 752 37 Uppsala                           Innehar F-skattebevis

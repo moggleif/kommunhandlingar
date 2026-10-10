@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1374,7 +1374,7 @@ ap.2        Stödtillregioner-Skolormot        53000
 brott(ram)
 
 Postadress  Telefonväxel E-Post
-10333Stockholm 08-4051000 fi.registrator@regeringskansliet.se
+10333Stockholm 08-4051000 (e-post borttagen)
 Besöksadress Telefax
 Jakobsgatan24 08-217386
 
@@ -2139,11 +2139,11 @@ Beslutad av:    Kommunstyrelsen, 2025-10-01, § X, 2025-00072
 Giltig från:    2025-MM-DD
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 47 -->
 
@@ -3715,11 +3715,11 @@ Beslutad av:   Kommunstyrelsen 2025-02-18 § 35, KS 2025-00072
 Giltigt från:  2025-02-18
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -9692,7 +9692,7 @@ Samhällsbyggnadskontoret                                  Kungsbacka kommun
 434 81 Kungsbacka
 Stina Wikström
 Planarkitekt                                                  Besöksadress
-stina.wikstrom@kungsbacka.se                             Stadshuset, Storgatan 37
+(e-post borttagen)                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -10482,7 +10482,7 @@ Diarienummer
 4314-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för Skällared  3:55,
 
@@ -10522,7 +10522,7 @@ Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 237 -->
@@ -10619,7 +10619,7 @@ Samhällsbyggnadskontoret                                  Kungsbacka kommun
 434 81 Kungsbacka
 Stina Wikström
 Planarkitekt                                                  Besöksadress
-stina.wikstrom@kungsbacka.se                             Stadshuset, Storgatan 37
+(e-post borttagen)                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -11888,7 +11888,7 @@ Datum            Diarienummer
 2025-03-10       1059-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Yttrande  över  förnyad  granskning   av detaljplan  för
 
@@ -11933,7 +11933,7 @@ Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 269 -->
@@ -11962,7 +11962,7 @@ planarkitekt Anna Nilsson som föredragande.
 
 Kopia
 
-SGI – sgi@sgi.se
+SGI – (e-post borttagen)
 
 <!-- sida 270 -->
 
@@ -12794,7 +12794,7 @@ Datum            Diarienummer
 2024-10-25       6956-2024
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för Skällared  3:55,
 
@@ -12834,7 +12834,7 @@ Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 289 -->
@@ -13095,7 +13095,7 @@ planarkitekt Anna Nilsson som föredragande.
 
 Kopia
 
-SGI – sgi@sgi.se
+SGI – (e-post borttagen)
 
 <!-- sida 294 -->
 
@@ -13274,7 +13274,7 @@ med strandpromenad. Fastighetsägaren bad också om att få tillstånd för att 
 
 Stina Wikström                                               Kungsbacka kommun
 Samhällsbyggnadskontoret                                      434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se                           Besöksadress
+(e-post borttagen)                           Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -14925,7 +14925,7 @@ Cecilia Engström                    Anna Nilsson
 
 Detta yttrande har godkänts digitalt och saknar därför namnunderskrifter.
 
-Kopia:   SGI, sgi@swedgeo.se
+Kopia:   SGI, (e-post borttagen)
 
 Så här hanterar länsstyrelsen personuppgifter
 Information om hur vi hanterar dessa hittar du på www.lansstyrelsen.se/dataskydd.
@@ -15306,11 +15306,11 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 340 -->
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
-andrea.egerlundh@kungsbacka.se                                   Storgatan 37
+(e-post borttagen)                                   Storgatan 37
 Stadshuset
 www.kungsbacka.se
 

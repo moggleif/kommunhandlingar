@@ -48,7 +48,7 @@ FoU i Väst
 har myndighetsuppdrag, forskar, ordnar utbildningar och
 Box 5073, 402 22 Göteborg
 är storstadsregionens röst i Västsverige, bland mycket
-gr@goteborgsregionen.se
+(e-post borttagen)
 annat. I våra nätverk träffas politiker och tjänstepersoner
 www.goteborgsregionen.se
 för att utbyta erfarenheter, bolla idéer och besluta om
@@ -8857,7 +8857,7 @@ Huvudmannens         plan   för implementering
 
 Beslutad av förvaltningschef Patrik Hellberg, 2024-05-23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 178 -->
 
@@ -10110,7 +10110,7 @@ bevaka verksamhetens följsamhet mot dataskyddsförordningen, vara kontakt gente
 Integritetsskyddsmyndigheten och på olika sätt ge råd i frågor som rör dess dataskyddsarbete.
 DSO fungerar också som kontakt gentemot de registrerade vid klagomål. I Kungsbacka nås DSO
 
-på dataskyddskontakt@kungsbacka.se
+på (e-post borttagen)
 För det operativa dataskyddsarbetet i verksamheten ska det för varje förvaltning i Kungsbacka
 finnas en dataskyddskontakt. Dataskyddskontakten har som uppgift att samordna förvaltningens
 arbete med personuppgiftsfrågor utifrån rådande lagstiftning och i detta arbete samverka med
@@ -12387,7 +12387,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 263 -->
@@ -14018,11 +14018,11 @@ Beslutad av:    Kommunfullmäktige x månad 2024 § 80, KS 2023-00670
 Gäller från:    2024-05-07
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 308 -->
 

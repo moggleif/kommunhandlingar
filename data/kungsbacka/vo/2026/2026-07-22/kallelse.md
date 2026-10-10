@@ -41,7 +41,7 @@ ordförande                        sekreterare
 Fabian Gassilewski                                           Kungsbacka kommun
 Förvaltningen för Vård & Omsorg                               434 81 Kungsbacka
 Direkt 0300-83 82 01
-fabian.gassilewski@kungsbacka.se                                Besöksadress
+(e-post borttagen)                                Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

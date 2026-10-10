@@ -426,10 +426,10 @@ Dokumentegenskaper: Titel: Vatten och avlopp - taxa 2026
 Beslutad av:    Kommunfullmäktige 2026-12-11 § 242, KS-2025-00664
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -2864,7 +2864,7 @@ Förvaltningschef                   Verksamhetschef
 Åtgärdsplan                              för        lekplatser
 
 Kungsbacka kommun 0300-83 40 00 •                        2023-2028
-info@kungsbacka.se • www.kungsbacka.se
+(e-post borttagen) • www.kungsbacka.se
 
 <!-- sida 80 -->
 
@@ -3706,7 +3706,7 @@ Mycket tillgänglig - Tillgängliga möbler, ingen lutning. God orienterbarhet.
 Beslutad av: Nämnden för Teknik 2023-03-22 § 33
 Gäller från: 2023-03-29
 Ansvarig förvaltning: Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 www.kungsbacka.se
@@ -3796,7 +3796,7 @@ och
 Kungsbacka kommun, genom nämnden för Teknik, nedan benämnd Kungsbacka
 
 Organisationsnummer: 212000–1256
-Storgatan 37, 434 32 Kungsbacka
+(adress borttagen), 434 32 Kungsbacka
 
 2\. Bakgrund och syfte
 
@@ -4085,7 +4085,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 110 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 111 -->
 
@@ -4134,7 +4134,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 112 -->
 
@@ -4175,7 +4175,7 @@ Kung sbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 

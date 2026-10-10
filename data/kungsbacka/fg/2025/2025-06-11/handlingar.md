@@ -39,7 +39,7 @@ Plats: Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -84,7 +84,7 @@ ordförande                        sekreterare
 | 9. | Vårdnadshavareenkät<br>Kl 17:50-18:00<br>Magnus Fogelblad,<br>verksamhetscontroller |  | Nämnden för Förskola och Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 10. | Beslut om närvaro<br>Kompetensutvecklingsdag 16<br>september | FG-2025-00311 | Nämnden för Förskola & Grundskola beslutar<br>om deltagande för ledamöter och ersättare i<br>nämnden vid Kompetensutvecklingsdag den 16.e<br>september. |
 | 11. | Årsrapport dataskyddsarbete<br>2024-2025 | FG-2025-00320 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen i<br>protokollet. |
-| 12. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars Runebergs gata 78,<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
+| 12. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening, gällande permanent<br>utökning av barnantal | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars (adress borttagen),<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
 | 13. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 | 14. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:00-18:30<br>Maria Eriksson, biträdande<br>förvaltningschef<br>Ullrika Vildbaek,<br>utvecklingsledare | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
@@ -283,7 +283,7 @@ Beslutad av:   Nämnden för Förskola & Grundskola 2024-04-17, § 35
 Gäller från:   2025-06-01
 Ansvarig förvaltning: Förskola & Grundskola
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -1651,7 +1651,7 @@ gällande permanent utökning av barnantal
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Örtagårdens kooperativa förskola
-ekonomisk förening, Lars Runebergs gata 78, 434 42 Kungsbacka, om permanent utökning till totalt
+ekonomisk förening, Lars (adress borttagen), 434 42 Kungsbacka, om permanent utökning till totalt
 51 barn.
 
 Sammanfattning av ärendet
@@ -1778,8 +1778,8 @@ Jag vill fylla i företagsuppgifter manuellt.
 Namn på den enhet som tillsynen gäller
 Örtagårdens Kooperativa Förskola
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #203362 | Inskickat av: Livi Ulrica Ekholm | Datum: 2025-05-08 14:37 Sida 1 av 3
 
@@ -1828,8 +1828,8 @@ Antal årsarbetande efter
 1        4          6         3
 utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #203362 | Inskickat av: Livi Ulrica Ekholm | Datum: 2025-05-08 14:37 Sida 2 av 3
 
@@ -1867,8 +1867,8 @@ uto\&#776;kat antal barm.pdf (524 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #203362 | Inskickat av: Livi Ulrica Ekholm | Datum: 2025-05-08 14:37 Sida 3 av 3
 
@@ -1942,7 +1942,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 48 -->
 

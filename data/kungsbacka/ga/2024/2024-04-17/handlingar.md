@@ -1029,7 +1029,7 @@ Rektor                                      Legitimerad personal
 
 | Kungsbacka kommun<br>Gymnasium & Arbetsmarknad | Kungsbacka kommun<br>Individ & Familjeomsorg | Kungsbacka kommun<br>Vård & Omsorg |
 | --- | --- | --- |
-| gymnasiumocharbetsmarknad@kungsbacka.se<br>www.kungsbacka.se | individochfamiljeomsorg@kungsbacka.se<br>www.kungsbacka.se | vardochomsorg@kungsbacka.se<br>www.kungsbacka.se |
+| (e-post borttagen)<br>www.kungsbacka.se | (e-post borttagen)<br>www.kungsbacka.se | (e-post borttagen)<br>www.kungsbacka.se |
 
 <!-- sida 28 -->
 
@@ -3373,7 +3373,7 @@ Kungsbacka kommun
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6072,7 +6072,7 @@ delgetts Arbetsmiljöverkets vitesföreläggande daterat den 1 juni 2022.
 Dok.Id 641541
 Postadress   Besöksadress  Telefon      T elefax     Expeditionstid
 Box 2302     Birger Jarls Torg 5 08-561 690 00       måndag – fredag
-103 17 Stockholm           E-post: kammarrattenistockholm@dom.se 08:00–16:00
+103 17 Stockholm           E-post: (e-post borttagen) 08:00–16:00
 www.domstol.se/kammarratten-i-stockholm/
 
 <!-- sida 195 -->
@@ -6368,7 +6368,7 @@ Förvaltningsrätten avslår ansökan.
 9     Besöksadress    Öppettider  Postadress     E-post
 6
 6
-8     Tegeluddsvägen 1 måndag–fredag             avd8.fst@dom.se
+8     Tegeluddsvägen 1 måndag–fredag             (e-post borttagen)
 6
 1                     08:00–16:00 115 76 Stockholm
 d     Telefon                                    Webbplats
@@ -6813,9 +6813,9 @@ www.domstol.se
 tisdag 2024-03-26 11:32
 Utgående mail
 
-Till: RCC Syd \<rccsyd@skane.se>
+Till: RCC Syd \<(e-post borttagen)>
 
-Från: info@kungsbacka.se \<info@kungsbacka.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: 11:32
 
 SV: Till elevhälsa inom kommun: Det första nationella vårdprogrammet för
@@ -6831,12 +6831,12 @@ Samhällsvägledare
 
 Kungsbacka direkt – kommunens kundcenter
 Telefon: 0300‐83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/
 www.facebook.com/kungsbackakommun
 www.linkedin.com/company/kungsbacka‐kommun/
 
-Från: RCC Syd \<rccsyd@skane.se>
+Från: RCC Syd \<(e-post borttagen)>
 Skickat: den 26 mars 2024 11:18
 Till:
 Ämne: Till elevhälsa inom kommun: Det första nationella vårdprogrammet för
@@ -6874,13 +6874,13 @@ Regionalt cancercentrum syd
 Besöksadress:
 Byggnad 404
 Medicon Village
-Scheelevägen 12
+(adress borttagen)
 223 81 LUND
 
 Tel: +46 (0)46 275 23 50
-Mobil: +46 72 5972521
+Mobil: (mobilnummer borttaget)
 
-christina.landegren@skane.se
+(e-post borttagen)
 www.cancercentrum.se/syd
 
 När du skickar e-post till Region Skåne behandlar vi dina personuppgifter i enlighet med gällande
@@ -10481,7 +10481,7 @@ av särskilt stöd och åtgärdsprogram görs i verksamhetssystemet?
 Vi är tacksamma om ni bifogar eventuella underlag såsom till exempel handlingsplaner,
 uppföljningar och protokollsutdrag där beslut framgår samt mallar och rutiner som stöd
 till ert svar på frågorna. Vi är tacksamma för att förvaltningen inkommer med skriftliga
-svar senast 3 maj till fanny.nilsson@se.ey.com.
+svar senast 3 maj till (e-post borttagen).
 
 <!-- sida 292 -->
 
@@ -10817,7 +10817,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 298 -->

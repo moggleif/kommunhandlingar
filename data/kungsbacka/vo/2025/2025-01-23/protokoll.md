@@ -749,7 +749,7 @@ Datum
 2025-01-23
 
 Beslutet skickas till
-Regionstyrelsen, Asa.J.Jonsson@regionhalland.se
+Regionstyrelsen, (e-post borttagen)
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C79907C9DFED578F84E3A11EA8ACFACD997CB76D8B

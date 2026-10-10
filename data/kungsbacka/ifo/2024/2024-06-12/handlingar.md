@@ -712,11 +712,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 
 Gäller från:    2024-03-05
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -4213,7 +4213,7 @@ inte minst vad gäller barn och ungas ökade användning av lustgas som berusnin
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -24579,7 +24579,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 570 -->
 
@@ -24836,8 +24836,8 @@ Svensk förening för beroendemedicin
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 30
 augusti 2024. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
-s.hc.delning@regeringskansliet.se. Ange diarienummer S2024/00726 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer S2024/00726 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -24889,7 +24889,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 8 (8)
 

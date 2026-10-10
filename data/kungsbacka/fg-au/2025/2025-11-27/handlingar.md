@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -78,7 +78,7 @@ KUNGSBACKA  KOMMUN
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 10. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>Kumlabacken 7, 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
+| 10. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 11. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 12. | Beredning av motion - Avskaffa<br>religiöst motiverad specialkost i<br>förskola och skola (KS-2025-<br>00457)<br>Kl 14:25-15:05<br>Tove Bender, utredare | FG-2025-00499 | Nämnden för Förskola & Grundskola avslår<br>motionen med hänvisning till att det skulle strida<br>mot diskrimineringslagen att besluta om att<br>avskaffa religiöst motiverad specialkost i<br>Förskola & Grundskola. |
 |  | Paus 15:05-15:15 |  |  |
@@ -149,7 +149,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -363,7 +363,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1941,7 +1941,7 @@ förvaltningschef
 Redovisning av åtgärder
 
 Redovisningen av de vidtagna åtgärderna skickas via e-post till
-dokument.goteborg@skolinspektionen.se, eller per post till
+(e-post borttagen), eller per post till
 Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för ärendet (dnr 2025:4802)
 
@@ -1955,7 +1955,7 @@ Dnr SI 2025:4802
 Huvudman
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Ärendet
 
@@ -1992,7 +1992,7 @@ Prövning - Bedömning av elevens kunskaper i förhållande till betygskriterier
 bedömning av elevens kunskaper i förhållande till de betygskriterier som
 
 Skolinspektionen, Box 23069, 104 35 Stockholm, Besök: Sveavägen 159
-Telefon: 08-586 080 00, E-post: skolinspektionen@skolinspektionen.se
+Telefon: 08-586 080 00, E-post: (e-post borttagen)
 www.skolinspektionen.se
 
 <!-- sida 49 -->
@@ -2025,7 +2025,7 @@ betygssättningen.
 Redovisning     av   åtgärder
 
 Redovisningen av de vidtagna åtgärderna skickas via e-post till
-dokument.goteborg@skolinspektionen.se, eller per post till Skolinspektionen, Box
+(e-post borttagen), eller per post till Skolinspektionen, Box
 2320, 403 15 Göteborg. Hänvisa till Skolinspektionens diarienummer för ärendet
 (dnr 2025:4802) i de handlingar som sänds in.
 
@@ -3436,7 +3436,7 @@ Datum             Diarienummer
 2025-06-24        ATN-2025-00009
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom  förskola,
@@ -3678,7 +3678,7 @@ Datum             Diarienummer
 2025-05-22        ATN-2025-00021
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Samverkansavtal      för förskola  och
@@ -3731,7 +3731,7 @@ Datum
 2025-08-21
 Avdelning Stab och Konferens
 Therese Tanner, förbundssekreterare Diarienummer
-therese.tanner@goteborgsregionen.se GRFS-2025-00123
+(e-post borttagen) GRFS-2025-00123
 Förbundsstyrelsen
 
 Samverkansavtal      för förskola  och
@@ -4188,7 +4188,7 @@ Ansökan från Föräldrakooperativet Karamellen ekonomisk förening gällande
 permanent utökning av barnantal
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Karamellen ekonomisk förening,
-Kumlabacken 7, 439 53 Åsa, om permanent utökning till totalt 20 barn.
+(adress borttagen), 439 53 Åsa, om permanent utökning till totalt 20 barn.
 
 Sammanfattning av ärendet
 Karamellen ekonomisk förening har inkommit med en ansökan om utökning av barnantal på förskolan
@@ -4307,8 +4307,8 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 1 av 3
 
@@ -4356,8 +4356,8 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 163                               1800
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 2 av 3
 
@@ -4406,8 +4406,8 @@ Barnkonsekvensanalys_20 barn i barngruppen.docx (44 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 3 av 3
 
@@ -4452,7 +4452,7 @@ Delegationsbeslut, 2017-12-07
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 1 (3)
 Kungsbacka kommun
@@ -4547,7 +4547,7 @@ Kungsbacka kommun
 Förskola & Grundskola, Myndighet & Stöd
 0300- 83 55 74
 
-sarah.von.zweigbergk@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 108 -->
@@ -4704,7 +4704,7 @@ Antal egna barn i verksamhet av totalt antal barn
 
 Adress där verksamheten bedrivs ange adress, postnummer, ort samt i förekommande fall våning i flerfamiljshus
 
-Nordgårdsvägen 103, 429 34 Kullavik
+(adress borttagen), 429 34 Kullavik
 
 Familjedaghem 3
 
@@ -5413,7 +5413,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 125-1](handlingar.tabeller/125-1.csv)
@@ -5505,7 +5505,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5566,7 +5566,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

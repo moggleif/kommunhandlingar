@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -3109,7 +3109,7 @@ Höjd   kvalitet  i bemötande,      service   och
 
 handläggning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 75 -->
 
@@ -3555,7 +3555,7 @@ Detaljplan för bostäder inom fastigheten Ölmanäs 6:80 i Åsa
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -4108,7 +4108,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4249,7 +4249,7 @@ Följande delar uppdateras inte eller endast i begränsad omfattning:
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Frida Moberg
-0700833878                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Projektledare                                            Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4325,7 +4325,7 @@ Projektledare
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7475,7 +7475,7 @@ fram. Den innebär dock att denna extra säkerhet försvinner. I de fall där bu
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8249,7 +8249,7 @@ Kungsbacka kommun
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8890,7 +8890,7 @@ Statskontoret omfattar det i normalfallet en tidsperiod på ett till tre år.
 Strålsäkerhetsmyndigheten
 Swedish Radiation Safety Authority
 
-SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: registrator@ssm.se
+SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: (e-post borttagen)
 Solna strandväg 96 Fax:+46 8 799 40 10 Webb: stralsakerhetsmyndigheten.se
 
 <!-- sida 216 -->
@@ -10298,7 +10298,7 @@ Kungsbacka kommun
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10326,7 +10326,7 @@ allmänheten
 Strålsäkerhetsmyndigheten
 Swedish Radiation Safety Authority
 
-SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: registrator@ssm.se
+SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: (e-post borttagen)
 Solna strandväg 96 Fax:+46 8 799 40 10 Webb: stralsakerhetsmyndigheten.se
 
 <!-- sida 244 -->
@@ -12207,7 +12207,7 @@ enlighet med detta.
 Strålsäkerhetsmyndigheten
 Swedish Radiation Safety Authority
 
-SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: registrator@ssm.se
+SE-171 16 Stockholm Tel:+46 8 799 40 00 E-post: (e-post borttagen)
 Solna strandväg 96 Fax:+46 8 799 40 10 Webb: stralsakerhetsmyndigheten.se
 
 <!-- sida 279 -->
@@ -12743,7 +12743,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -13968,11 +13968,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 318 -->
 
@@ -14130,11 +14130,11 @@ Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
 <!-- sida 322 -->
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 323 -->
 

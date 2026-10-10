@@ -31,7 +31,7 @@ tillsynsplan                 2024-2027
 
 2024-02-09
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -1196,7 +1196,7 @@ Beslutad av: Byggnadsnämnden xxxx-xx-xx §
 Gäller från: xxxx-xx-xx
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 Byggnadsnämndens tillsynsplan 2024-2027 Sida 22

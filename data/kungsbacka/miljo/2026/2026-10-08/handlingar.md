@@ -39,7 +39,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2026-10-08§ X
 Gäller från:    2027-01-01
 
 Ansvarig förvaltning: Bygg-och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -3585,7 +3585,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2025-12-04§ 147
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Bygg-och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -5704,7 +5704,7 @@ Byggnadsnämnden
 Bygg-och miljöförvaltningen                             Kungsbacka kommun
 434 81 Kungsbacka
 Christina Nordberg
-+46700833708                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5795,7 +5795,7 @@ Förvaltningschef                  Controller förvaltning
 Bygg-och miljöförvaltningen                             Kungsbacka kommun
 434 81 Kungsbacka
 Christina Nordberg
-+46700833708                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5841,7 +5841,7 @@ Förvaltningschef                  Controller förvaltning
 Bygg-och miljöförvaltningen                             Kungsbacka kommun
 434 81 Kungsbacka
 Christina Nordberg
-+46700833708                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

@@ -980,7 +980,7 @@ säga det liggande förslaget och att nämnden för Förskola & Grundskola bifal
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5BA2DE8AF4E2AA08278CB5628588BFECCF6E933F69
@@ -999,7 +999,7 @@ gällande permanent utökning av barnantal
 
 Beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Karamellen
-ekonomisk förening, Kumlabacken 7, 439 53 Åsa, om permanent utökning till totalt
+ekonomisk förening, (adress borttagen), 439 53 Åsa, om permanent utökning till totalt
 20 barn.
 
 Sammanfattning av ärendet
@@ -1276,6 +1276,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday

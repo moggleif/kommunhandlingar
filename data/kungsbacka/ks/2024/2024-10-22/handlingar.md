@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -263,7 +263,7 @@ Kungsbacka       kommun
 
 Version till kommunstyrelsen 2024-10-22
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -1864,7 +1864,7 @@ Ing-Britt Blomberg
 Besöksadress
 Enhetschef Styrning & Ekonomi
 Stadshuset, Storgatan 37
-ing-britt.blomberg@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -2639,8 +2639,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 1 av 4
 
@@ -2658,14 +2658,14 @@ Postort                           Telefon
 Askim
 
 E-postadress                      Eventuell fakturareferens
-Info@gilu.se
+(e-post borttagen)
 
 Företagets kontaktperson
 
 Förnamn                           Efternamn
 
 Telefon                           E-postadress
-info@gilu.se
+(e-post borttagen)
 
 Är du som skickar begäran ägare till fastigheten eller fastigheterna i begäran?
 
@@ -2678,8 +2678,8 @@ För vilken eller vilka fastigheter begär du planbesked?
 Fastighetsbeteckning               Fastighetens adress
 Åsa 5:96                           Åsa stationsväg 7
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 2 av 4
 
@@ -2712,8 +2712,8 @@ Alternativ två innefattar endast Åsa 5:96 och då med färre antal lägenheter
 
 yta och sämre möjligheter till allmänna ytor.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 3 av 4
 
@@ -2744,8 +2744,8 @@ Beskrivning
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 4 av 4
 
@@ -3564,8 +3564,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #132183 | Inskickat av: | Datum: 2024-05-03 13:38 Sida 1 av 4
 
@@ -3603,8 +3603,8 @@ För vilken eller vilka fastigheter begär du planbesked?
 Fastighetsbeteckning               Fastighetens adress
 Kungsbacka Vallda 5:11
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #132183 | Inskickat av: | Datum: 2024-05-03 13:38 Sida 2 av 4
 
@@ -3635,8 +3635,8 @@ Vill du bifoga en situationskarta?
 
 Nej, jag har markerat i kartan i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #132183 | Inskickat av: | Datum: 2024-05-03 13:38 Sida 3 av 4
 
@@ -3653,8 +3653,8 @@ Proj Särö Handelsträdgård - Avtal planbesked - 2024-04-18.pdf (2,12 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #132183 | Inskickat av: | Datum: 2024-05-03 13:38 Sida 4 av 4
 
@@ -4065,7 +4065,7 @@ Vi vet att det finns ambitioner och förhoppningar om utveckling av tätorten oc
 närområdet. Vi ser verkligen fram emot att få driva detaljplanarbetet tillsammans med ansvariga inom kommunen.
 Har ni några frågor är ni varmt välkomna att ta kontakt med vår projektledare. Vi hörs!
 
-Linda Wennersten, projektledare, telefon: 0703-14 56 53
+Linda Wennersten, projektledare, telefon: (mobilnummer borttaget)
 
 2021                   2022                    2023                      2024                              2025
 
@@ -4592,7 +4592,7 @@ kompensation för den utökade administrationen.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5435,7 +5435,7 @@ kommunens möjlighet att själv påverka kostnaden för välfärd och samhällss
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5524,7 +5524,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5840,7 +5840,7 @@ attributsintyg:
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6343,7 +6343,7 @@ med EU:s dataskyddsförordning i stort.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6512,7 +6512,7 @@ arbete med att utöka den strukturerade delen av dokumentationen i kommunerna ko
 1 (2)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6732,7 +6732,7 @@ kunskapsbaserad utveckling av kommunens socialtjänst.
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6910,7 +6910,7 @@ det kan uppstå utmaningar med att utveckla arbetssätt och verksamhetssystem f�
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7212,7 +7212,7 @@ vilka läkemedel som ska få säljas i den receptfria detaljhandeln välkomnar k
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7411,7 +7411,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 194 -->
@@ -7561,8 +7561,8 @@ problem anser nämnden bör kunna åtgärdas genom föreslagna ändringar gälla
 införande av tillståndsplikt för bedrivande av detaljhandel samt att Läkemedelsverket
 ska besluta om tillstånd. Nämnden är följaktligen positiv till införande av
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 197 -->
 
@@ -7739,7 +7739,7 @@ nybyggda bostadsbyggnader som rimligtvis bör sätta avtryck när det gäller ö
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7812,7 +7812,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 | Organisationsnummer | 556037-7326 |
 | Redovisningsenhet(er) | REL03035, RER03052 |
 | Kontaktperson(er) | – |
-| E-post | natutvecklingsplaner@ellevio.se |
+| E-post | (e-post borttagen) |
 | Telefonnummer | – |
 | Länk till nätutvecklingsplan som delats inför sam-<br>råd<br>(Preliminär nätutvecklingsplan) | – |
 | Länk till information om samråd | – |
@@ -10199,7 +10199,7 @@ nybyggda bostadsbyggnader som rimligtvis bör sätta avtryck när det gäller ö
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10504,7 +10504,7 @@ Företagsnamn                     E.ON Energidistribution AB
 
 Organisationsnummer              556070-6060
 
-Kontaktväg                       natutvecklingsplaner@eon.se
+Kontaktväg                       (e-post borttagen)
 
 Telefonnummer till E.ON          040-25 50 00
 Länk till nätutvecklingsplan som delats inför samråd Nätutvecklingsplan (eon.se)1
@@ -13608,8 +13608,8 @@ Sverige LUND
 Sverige
 Kontaktperson Kontaktperson
 Amanda Bjurström Dan Nilsson
-0300-835372 (tel) +46704190200 (tel)
-amanda.bjurstrom(Mkungsbacka.se +46704190200 (mob)
+0300-835372 (tel) (mobilnummer borttaget) (tel)
+amanda.bjurstrom(Mkungsbacka.se (mobilnummer borttaget) (mob)
 
 dan.nilssonQsamres.se
 

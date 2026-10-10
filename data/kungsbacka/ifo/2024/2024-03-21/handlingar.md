@@ -117,7 +117,7 @@ samt Samsjuklighetsutredningens reformförslag, Från delar till helhet.
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -44903,7 +44903,7 @@ Kungsbacka kommun
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -48076,7 +48076,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 1076 -->
 
@@ -48208,8 +48208,8 @@ E-post: li.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 15 april 2024. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.bb@regeringskansliet.se. Ange diarienummer LI2024/00083 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2024/00083 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.

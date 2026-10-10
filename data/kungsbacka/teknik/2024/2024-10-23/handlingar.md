@@ -132,7 +132,7 @@ Kungsbacka kommun
 
 Kommunstyrelsens förvaltning
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 [Tabell 3-1](handlingar.tabeller/3-1.csv)
 
@@ -145,9 +145,9 @@ kristian.egstedt@kungsbacka.se
 
 <!-- sida 4 -->
 
-Från: kommun@kungsbacka.se \<kommun@kungsbacka.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 19 augusti 2024 10:56
-Till: Teknik \<teknik@kungsbacka.se>
+Till: Teknik \<(e-post borttagen)>
 Ämne: Begäran om yttrande - Länsövergripande nödvattenplan (KS 2024-00511)
 
 Hej,
@@ -167,7 +167,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -199,7 +199,7 @@ nödvatten. Behovsanalysen är försedd med sekretess enligt OSL 18
 kap. 13§ och ska hanteras enligt det.
 
 Sista dag att lämna svar på remissen är den 15 november 2024.
-Svaret ska inkomma till halland@lansstyrelsen.se.
+Svaret ska inkomma till (e-post borttagen).
 
 Kontaktuppgifter
 Välkommen att kontakta Länsstyrelsen för frågor via telefon eller e-
@@ -215,7 +215,7 @@ Rapport om Länsövergripande nödvattenplan – Remiss
 
 Bilagor till Länsövergripande nödvattenplan Halland - Remiss
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 6 -->

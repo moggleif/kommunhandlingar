@@ -1041,7 +1041,7 @@ Nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid      1 (1)
 Kungsbacka kommun
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -2966,7 +2966,7 @@ samhällsinformation .
 
 1 Bibliotekslagen 2013 §6
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 75 -->
 
@@ -3189,11 +3189,11 @@ Beslutad av:    Kommunfullmäktige 4 februari 2025 § 13, KS-2024-00745
 Gäller från:    2025-02-04
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 80 -->
 

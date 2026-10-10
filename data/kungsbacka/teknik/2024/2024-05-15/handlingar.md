@@ -71,7 +71,7 @@ Förvaltningen för teknik, 2024-05-03
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -335,7 +335,7 @@ Taxa      för   låst     cykelparkering
 
 Daterad 2024-04-03
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -394,7 +394,7 @@ Gäller från: Öppning av det nya cykelgaraget (beräknas till hösten 2024)
 samt 2025-01-01 för befintliga anläggningar
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se

@@ -823,7 +823,7 @@ kommer in för sent avvisas den. I överklagan ska du ange vilket beslut som
 
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt
 underteckna överklagan. Om det finns handlingar som stöd för överklagan ska du
-bifoga dem. Skicka gärna överklagandet per e-post till info@kungsbacka.se.
+bifoga dem. Skicka gärna överklagandet per e-post till (e-post borttagen).
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka
 kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på att tydligt
@@ -1227,7 +1227,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka
@@ -1591,7 +1591,7 @@ kommer in för sent avvisas den. I överklagan ska du ange vilket beslut som
 överklagas, varför du anser att beslutet är felaktigt och hur du vill att det ska ändras.
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt
 underteckna överklagan. Om det finns handlingar som stöd för överklagan ska du
-bifoga dem. Skicka gärna överklagandet per e-post till info@kungsbacka.se.
+bifoga dem. Skicka gärna överklagandet per e-post till (e-post borttagen).
 
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka
@@ -1948,7 +1948,7 @@ kommer in för sent avvisas den. I överklagan ska du ange vilket beslut som
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt
 
 underteckna överklagan. Om det finns handlingar som stöd för överklagan ska du
-bifoga dem. Skicka gärna överklagandet per e-post till info@kungsbacka.se.
+bifoga dem. Skicka gärna överklagandet per e-post till (e-post borttagen).
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 Då behöver du lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka
 kommun, Bygg- och miljöförvaltningen, 434 81 Kungsbacka. Tänk på att tydligt
@@ -2658,7 +2658,7 @@ kommer in för sent avvisas den. I överklagan ska du ange vilket beslut som
 överklagas, varför du anser att beslutet är felaktigt och hur du vill att det ska ändras.
 Ange ditt namn, postadress, telefonnummer och gärna e-postadress, samt
 underteckna överklagan. Om det finns handlingar som stöd för överklagan ska du
-bifoga dem. Skicka gärna överklagandet per e-post till info@kungsbacka.se.
+bifoga dem. Skicka gärna överklagandet per e-post till (e-post borttagen).
 Om du har skyddade personuppgifter ska du inte skicka din överklagan per e-post.
 
 Då behöver du lämna in den i vårt kundcenter eller via brev till adressen Kungsbacka
@@ -2836,7 +2836,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 En ansökan om bygglov inkom till förvaltningen 2021-12-30.

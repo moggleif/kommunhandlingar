@@ -37,7 +37,7 @@ Sammanträde onsdagen den 18 februari 2026 kl. 17:00 Ishallen, VIP-rummet
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -3104,7 +3104,7 @@ Avser   korttidsuthyrning     i Kungsbacka      kommun
 
 Regler
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 76 -->
 

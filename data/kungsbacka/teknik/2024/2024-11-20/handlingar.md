@@ -2440,11 +2440,11 @@ Beslutad av:    Nämnden för Teknik 20 november 2024
 Gäller från:    2024-11-27
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 67 -->
 
@@ -2834,11 +2834,11 @@ Beslutad av:    Nämnden för Teknik 18 oktober 2023
 Gäller från:    2023-10-18
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 77 -->
 
@@ -3236,11 +3236,11 @@ Beslutad av:    Nämnden för Teknik 18 oktober 2023
 Gäller från:    2023-10-18
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 87 -->
 
@@ -3654,10 +3654,10 @@ tertialets leverans i form av kvalité samt inom Serviceresor.
 
 Caroline Andersson
 
-Caroline.andersson@hlt.se
+(e-post borttagen)
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
-Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafiken@hlt.se
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: (e-post borttagen)
 
 <!-- sida 97 -->
 
@@ -3917,10 +3917,10 @@ tertialets leverans i form av kvalité samt inom Serviceresor.
 
 Caroline Andersson
 
-Caroline.andersson@hlt.se
+(e-post borttagen)
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
-Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafiken@hlt.se
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: (e-post borttagen)
 
 <!-- sida 109 -->
 
@@ -4415,11 +4415,11 @@ Gäller från:   2025-01-01
 
 Ansvarig       Teknik
 förvaltning:
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 126 -->
 
@@ -5173,14 +5173,14 @@ Beställningscentralen tel. 0771-900 500, onlinebokning:
 hallandstrafiken.se/fardtjanst eller mobilappen "Hallandstrafiken Serviceresan".
 
 Frågor om innehållet på fakturan
-Telefon 0771-750 600 eller e-post ftjfaktura@hlt.se
+Telefon 0771-750 600 eller e-post (e-post borttagen)
 
 Frågor om betalning eller autogiro Visma
 
 Collector, telefon 0771-232 400 Synpunkter
 och klagomål på resan
 
-Telefon 0774- 411 000 eller e-post: kundtjanst.kungsbacka@samres.se
+Telefon 0774- 411 000 eller e-post: (e-post borttagen)
 
 Länkar
 

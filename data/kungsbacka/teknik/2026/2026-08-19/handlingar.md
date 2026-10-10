@@ -36,7 +36,7 @@ Laga kraft 2026-04-08
 
 1
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -94,7 +94,7 @@ Barnkonsekvensanalys............................................................
 
 2
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 3 -->
 
@@ -131,7 +131,7 @@ arbetsplatser, näringsliv och service.
 
 3
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -163,7 +163,7 @@ tillsammans med kapitlet om Allmänna intressen styrda i lag.
 
 4
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 5 -->
 
@@ -203,7 +203,7 @@ utvecklas på ett långsiktigt hållbart sätt.
 
 5
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 6 -->
 
@@ -260,7 +260,7 @@ samarbeten kommunen är involverad i.
 
 6
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -281,7 +281,7 @@ utbud, mångfald och puls
 
 7
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -310,7 +310,7 @@ BOSTADSFÖRSÖJNINGSPLAN
 
 8
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -362,7 +362,7 @@ magasinera vatten i grönområden, i magasin under markytan och genom att sänka
 
 9
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -420,7 +420,7 @@ tas om hand. Genom dessa åtgärder kan kommunen få många samhällsnyttor, int
 
 10
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -429,7 +429,7 @@ mångfalden längs Kungsbackaån och Rolfsån.
 
 11
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -454,7 +454,7 @@ livsnerv med plats för rekreation och samvaro för alla.
 
 12
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 13 -->
 
@@ -483,7 +483,7 @@ nyttor som naturen förser oss med.
 
 13
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -519,7 +519,7 @@ bostadshus mer resurseffektiva.
 
 14
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -553,7 +553,7 @@ SE STRATEGIKARTA
 
 15
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 16 -->
 
@@ -606,7 +606,7 @@ närhet till varandra och mår bra samt att vi är starka inför framtiden.
 
 16
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -658,7 +658,7 @@ med målbilden.
 
 17
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 18 -->
 
@@ -681,7 +681,7 @@ Delområden inom markanvändning i staden
 
 18
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 19 -->
 
@@ -739,7 +739,7 @@ och växtliv och binda mycket kol i mark och vegetation. (12)
 
 19
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 20 -->
 
@@ -800,7 +800,7 @@ förbättrar luftkvalitet, reglerar temperaturen i luften, ger skugga och bidrar
 
 20
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -860,7 +860,7 @@ totala lek. Därför ska vi verka för att ge plats för bostadsnära lekmiljöe
 
 21
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 22 -->
 
@@ -920,7 +920,7 @@ växtliv. (12)
 
 22
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 23 -->
 
@@ -954,7 +954,7 @@ Planeringsprincip: Multifunktionalitet
 
 23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 24 -->
 
@@ -970,7 +970,7 @@ Riktlinjer för trafiknätets utveckling
 
 24
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 25 -->
 
@@ -997,7 +997,7 @@ LÄS OM TRAFIKRUM
 
 25
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -1025,7 +1025,7 @@ Planeringsprincip: Helhetssyn
 
 26
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 27 -->
 
@@ -1038,7 +1038,7 @@ LÄS OM BEHOV AV KAPACITETSÖKNING
 
 27
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -1072,7 +1072,7 @@ Planeringsprincip: Yteffektivitet
 
 28
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 29 -->
 
@@ -1103,7 +1103,7 @@ sträckor. Här finns de viktigaste länkarna mellan bostäder, arbetsplatser, s
 
 29
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 30 -->
 
@@ -1140,7 +1140,7 @@ respektive bil och bilpoolsystem. Lokaliseringen av dessa noder utgår ifrån en
 
 30
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 31 -->
 
@@ -1172,7 +1172,7 @@ Planeringsprincip: Yteffektivitet
 
 31
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 32 -->
 
@@ -1185,7 +1185,7 @@ LÄS OM STADSBEBYGGELSE
 
 32
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 33 -->
 
@@ -1232,7 +1232,7 @@ och inbjudande och gårdarna är gröna och trivsamma. (33)
 
 33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 34 -->
 
@@ -1277,7 +1277,7 @@ egendom. (24)
 
 34
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 35 -->
 
@@ -1336,7 +1336,7 @@ LÄS OM BOSTADSOMRÅDEN
 
 35
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 36 -->
 
@@ -1373,7 +1373,7 @@ LÄS OM NÄRINGSLIVS- OCH SERVICEOMRÅDEN
 
 36
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 37 -->
 
@@ -1413,7 +1413,7 @@ Stationsnära områden
 
 37
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 38 -->
 
@@ -1473,7 +1473,7 @@ kulturmiljövård eller Kungsbackas kulturmiljöprogram.
 
 38
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 39 -->
 
@@ -1501,7 +1501,7 @@ SE KARTA – GRÖN- OCH BLÅSTRUKTUR
 
 39
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 40 -->
 
@@ -1560,7 +1560,7 @@ bryggorna möjliga att angöra. Det innebär att vi kan behöva rensa längs kan
 
 40
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 41 -->
 
@@ -1587,7 +1587,7 @@ Planeringsprincip: Blandad markanvändning
 
 41
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 42 -->
 
@@ -1614,7 +1614,7 @@ Planeringsprincip: Helhetssyn
 
 42
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 43 -->
 
@@ -1642,7 +1642,7 @@ SE MARKANVÄNDNINGSKARTA
 
 43
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 44 -->
 
@@ -1650,7 +1650,7 @@ Markanvändningskarta
 
 44
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 45 -->
 
@@ -1663,7 +1663,7 @@ LÄS 13 RIKTLINJER FÖR HELA STADENS UTVECKLING
 
 45
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 46 -->
 
@@ -1694,7 +1694,7 @@ cykelvägar.
 
 46
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 47 -->
 
@@ -1734,7 +1734,7 @@ Hedeleden byggs ut och blir en viktig länk till Hede station.
 
 47
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 48 -->
 
@@ -1756,7 +1756,7 @@ behöver fortsätta för att få till en bättre framkomlighet för kollektivtra
 
 48
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 49 -->
 
@@ -1780,7 +1780,7 @@ där motortrafik får köra är streckade.
 
 49
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 50 -->
 
@@ -1807,7 +1807,7 @@ Utredningsområden för trafik används när det handlar om avvägningar som int
 
 50
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 51 -->
 
@@ -1868,7 +1868,7 @@ trafikplatsen är ansträngd på eftermiddag och morgon när trafikmängderna ä
 
 51
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -1895,7 +1895,7 @@ Utredningsområde för ändrad vägdragning till följd av framtida fyrspårsutb
 
 52
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 53 -->
 
@@ -1924,7 +1924,7 @@ transportbehov i kommunen.
 
 53
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 54 -->
 
@@ -1948,7 +1948,7 @@ Områden där blandstaden kan kompletteras vid Kungsbacka station
 
 54
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 55 -->
 
@@ -1991,7 +1991,7 @@ och service.
 
 55
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 56 -->
 
@@ -2018,7 +2018,7 @@ Exploatering är möjlig först när Elof Lindälvs gymnasium behöver byggas om
 
 56
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 57 -->
 
@@ -2041,7 +2041,7 @@ tillgängligheten till Voxlövsberg beaktas.
 
 57
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 58 -->
 
@@ -2067,7 +2067,7 @@ I fortsatt planering behöver tillgängligheten till Hammeröskogen i söder bea
 
 58
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -2096,7 +2096,7 @@ vindsvåning inreds.
 
 59
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 60 -->
 
@@ -2116,7 +2116,7 @@ förbli gröna.
 
 60
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 61 -->
 
@@ -2143,7 +2143,7 @@ arbetsplatserna ger möjlighet för fler att arbeta inom kommunen och därmed mi
 
 61
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 62 -->
 
@@ -2190,7 +2190,7 @@ näringsliv och service.
 
 62
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 63 -->
 
@@ -2224,7 +2224,7 @@ och via upplysta stråk knytas ihop med stadskärnan och Kungsbackaån. Grönska
 
 63
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 64 -->
 
@@ -2257,7 +2257,7 @@ LÄS 13 RIKTLINJER OM HELA STADEN
 
 64
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -2280,7 +2280,7 @@ Vid ombyggnad studeras området för att bättre utnyttja platsens potential.
 
 65
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 66 -->
 
@@ -2300,7 +2300,7 @@ vid planering av området.
 
 66
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 67 -->
 
@@ -2315,7 +2315,7 @@ LÄS 13 RIKTLINJER FÖR HELA STADENS UTVECKLING
 
 67
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 68 -->
 
@@ -2374,7 +2374,7 @@ fysiska och mentala hälsa. I staden ska det alltid vara nära till en grön mil
 
 68
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 69 -->
 
@@ -2404,7 +2404,7 @@ också användas för kommunikation genom stadens grönområden.
 
 69
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 70 -->
 
@@ -2430,7 +2430,7 @@ Motiv till ställningstagande
 
 70
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 71 -->
 
@@ -2460,7 +2460,7 @@ kan förbli utanför stadsgräns tillämpas samma förhållningssätt som för �
 
 71
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 72 -->
 
@@ -2475,7 +2475,7 @@ prioriteras.
 
 72
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 73 -->
 
@@ -2509,7 +2509,7 @@ LÄS RIKTLINJER FÖR STADSBEBYGGELSENS UTVECKLING - NR 26 OCH 36 OM PARKERING
 
 73
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 74 -->
 
@@ -2566,7 +2566,7 @@ händelsen.
 
 74
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 75 -->
 
@@ -2612,7 +2612,7 @@ och ny bebyggelse med samhällsviktig verksamhet. Metodiken inkluderar delar av 
 
 75
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 76 -->
 
@@ -2645,7 +2645,7 @@ föreslås 0,4 meter.
 
 76
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 77 -->
 
@@ -2655,7 +2655,7 @@ Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 77
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 78 -->
 
@@ -2663,7 +2663,7 @@ Två översvämningsscenarier för ån och två scenarier för översvämning fr
 
 78
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 79 -->
 
@@ -2692,7 +2692,7 @@ med för att säkra staden mot översvämning på grund av höga flöden. Kantsk
 
 79
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 80 -->
 
@@ -2753,7 +2753,7 @@ utredningsområde för det här skyddet. Det innebär att vi inte avser gå vida
 
 80
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -2814,7 +2814,7 @@ I använda underlag finns ofta scenarier med en sällsynt händelse kombinerad m
 
 81
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 82 -->
 
@@ -2845,7 +2845,7 @@ stigande havsnivåer.
 
 82
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -2861,7 +2861,7 @@ LÄS SAMLAD BEDÖMNING AV HÅLLBARHETSANALYSEN
 
 83
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 83-1](handlingar.tabeller/83-1.csv)
 
@@ -2915,7 +2915,7 @@ Riksantikvarieämbetets Hallandsinventering som ett kunskapsunderlag.
 
 84
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 85 -->
 
@@ -2939,7 +2939,7 @@ revidering.
 
 85
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 86 -->
 
@@ -2984,7 +2984,7 @@ som 200–300 år gamla ekar.
 
 86
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 87 -->
 
@@ -3023,7 +3023,7 @@ Klippebergen/Voxlövsberg, Varlaskogen, Kungsbackaskogen och Hammeröskogen/Fors
 
 87
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 88 -->
 
@@ -3058,7 +3058,7 @@ dessa väsentliga samhällsintressen på motsvarande sätt.
 
 88
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 89 -->
 
@@ -3088,7 +3088,7 @@ rekreationsområde.
 
 89
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -3148,7 +3148,7 @@ oftast koppling till spanings-, kommunikations- och underrättelsesystem.
 
 90
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 91 -->
 
@@ -3176,7 +3176,7 @@ Natura 2000-områden gäller att gynnsam bevarandestatus ska säkras, vilket inn
 
 91
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 92 -->
 
@@ -3201,7 +3201,7 @@ LÄS BEDÖMNING AV RIKSINTRESSEN I MILJÖKONSEKVENSBESKRIVNING
 
 92
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 93 -->
 
@@ -3243,7 +3243,7 @@ Förutsättningar när det gäller luftkvalitet och buller beskrivs under Hälsa
 
 93
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 94 -->
 
@@ -3272,7 +3272,7 @@ bland annat kala berg, ljunghedar, små sjöar och skogar.
 
 94
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 95 -->
 
@@ -3301,7 +3301,7 @@ rekreationsvärden till stadsbilden.
 
 95
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 96 -->
 
@@ -3317,7 +3317,7 @@ Fornlämningar som skyddas enligt kulturmiljölagen beaktas i planläggning och 
 
 96
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 97 -->
 
@@ -3376,7 +3376,7 @@ LÄS MILJÖKONSEKVENSBESKRIVNING, FÖRÄNDRAT KLIMAT
 
 97
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 98 -->
 
@@ -3406,7 +3406,7 @@ nödvändigt och vi som kommun har tillgång till marken. Lagstiftningen ger att
 
 98
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 99 -->
 
@@ -3461,7 +3461,7 @@ metoder för att hantera dem.
 
 99
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 100 -->
 
@@ -3493,7 +3493,7 @@ det är mer än 300 meter till ett grönområde. Mark- och vattenanvändningskar
 
 100
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 101 -->
 
@@ -3533,7 +3533,7 @@ LÄS STRATEGI FÖR ÖVERSVÄMNING I KAPITEL MARKANVÄNDNING I STADEN
 
 101
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 102 -->
 
@@ -3563,7 +3563,7 @@ samhällsstörningar blir så god som möjligt. Kommunen ska enligt lag utforma 
 
 102
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 103 -->
 
@@ -3619,7 +3619,7 @@ Kommunen har ansvar för både dricksvattenförsörjning och tillgång till bran
 
 103
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 104 -->
 
@@ -3647,7 +3647,7 @@ påverka förutsättningarna för att bygga.
 
 104
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 105 -->
 
@@ -3706,7 +3706,7 @@ LÄS MILJÖKONSEKVENSBESKRIVNING, LUFTKVALITET
 
 105
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 106 -->
 
@@ -3740,7 +3740,7 @@ sådan planering har Svenska Kraftnät tagit fram en magnetfältspolicy.
 
 106
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 107 -->
 
@@ -3763,7 +3763,7 @@ vistas, såsom på skolgårdar och vid lekplatser.
 
 107
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 108 -->
 
@@ -3808,7 +3808,7 @@ LÄS UTMANINGAR NÄR STADEN VÄXER
 
 108
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 109 -->
 
@@ -3869,7 +3869,7 @@ av i större parker eller naturområden i stadens ytterkanter.
 
 109
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 110 -->
 
@@ -3915,7 +3915,7 @@ hänsyn till olika behov hos samhällets olika grupper.
 
 110
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 111 -->
 
@@ -3961,7 +3961,7 @@ utmaningar som vi står inför.
 
 111
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 112 -->
 
@@ -3973,7 +3973,7 @@ när vi inkluderar utmaningarna.
 
 112
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 113 -->
 
@@ -4032,7 +4032,7 @@ uppföljning samt genom pågående åtgärdsarbete.
 
 113
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 114 -->
 
@@ -4093,7 +4093,7 @@ inkluderar direkta kommunala ansvar som dagvattenhantering men som också tar si
 
 114
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 115 -->
 
@@ -4154,7 +4154,7 @@ klimatpåverkan jämfört med om bebyggelsen skulle fortsätta vara mer spridd �
 
 115
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 116 -->
 
@@ -4213,7 +4213,7 @@ bedömning är att risken för påverkan från planens genomförande är liten o
 
 116
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 117 -->
 
@@ -4272,7 +4272,7 @@ för Kungsbacka innerstad som togs fram 2017 i syfte att tillgodose riksintresse
 
 117
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 118 -->
 
@@ -4329,7 +4329,7 @@ dessa ärenden.
 
 118
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 119 -->
 
@@ -4389,7 +4389,7 @@ variationsrik stadsmiljö med många träd, små vattenmiljöer och utemiljöer 
 
 119
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 120 -->
 
@@ -4448,7 +4448,7 @@ kommer beröras och behöva hanteras.
 
 120
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 121 -->
 
@@ -4489,7 +4489,7 @@ i kommande utveckling.
 
 121
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 122 -->
 
@@ -4526,7 +4526,7 @@ Effekt på målet Ingen Fattigdom
 
 122
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 123 -->
 
@@ -4572,7 +4572,7 @@ delaktighet och livskvalitet, inte minst för äldre och personer med funktionsv
 
 123
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 124 -->
 
@@ -4618,7 +4618,7 @@ särskilt viktigt för flickor och kvinnor. Invånardialoger visar att de som id
 
 124
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -4664,7 +4664,7 @@ Kommunens klimatstrategi innehåller aktiviteter som gynnar hållbar energiförs
 
 125
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 126 -->
 
@@ -4711,7 +4711,7 @@ framtida kapaciteten för vatten, avlopp och energi. För dessa områden behöve
 
 126
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 127 -->
 
@@ -4756,7 +4756,7 @@ påverkan på luftkvaliteten. Samtidigt bidrar en ökande befolkning och tätare
 
 127
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 128 -->
 
@@ -4803,7 +4803,7 @@ Vidta omedelbara åtgärder för att bekämpa klimatförändringarna och dess ko
 
 128
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 129 -->
 
@@ -4856,7 +4856,7 @@ grönytor för hantering av vatten och värme och det finns strategier och riktl
 
 129
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 130 -->
 
@@ -4901,7 +4901,7 @@ Effekt på målet Fredliga och inkluderande samhällen
 
 130
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 131 -->
 
@@ -4931,7 +4931,7 @@ Genomförande och globalt partnerskap.
 
 131
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 132 -->
 
@@ -4990,7 +4990,7 @@ lösa dessa utmaningar genom att säkerställa lekfullhet i staden, lek i olika 
 
 132
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 133 -->
 
@@ -5026,7 +5026,7 @@ interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpu
 
 133
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 134 -->
 
@@ -5126,11 +5126,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 137 -->
 
@@ -6410,11 +6410,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 172 -->
 
@@ -8061,10 +8061,10 @@ Beslutad av:   Nämnden för Teknik, dnr
 Gäller från:   2027-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 212 -->
 
@@ -9138,7 +9138,7 @@ Följande delar uppdateras inte eller endast i begränsad omfattning:
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Frida Moberg
-0700833878                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Projektledare                                            Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -9214,7 +9214,7 @@ Projektledare
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12042,11 +12042,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Giltig från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 313 -->
 
@@ -12274,7 +12274,7 @@ Förordning (1982:198)  Förordning (1982:198) om flyttning av fordon i vissa fa
 
 Lag (1982:129)         Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 318 -->
 
@@ -12323,7 +12323,7 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 7
 2.1.5 OSL 6 kap 1 a §          Avgift ska betalas helt eller delvis innan avskriften eller kopia av Fc
 allmän handling lämnas ut.           Nämnd-
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 319-1](handlingar.tabeller/319-1.csv)
 
@@ -12869,7 +12869,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -12887,7 +12887,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 352 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 353 -->
 
@@ -12936,7 +12936,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 354 -->
 

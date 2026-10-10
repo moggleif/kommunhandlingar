@@ -39,7 +39,7 @@ Stadshuset, Fjärås
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -130,7 +130,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -304,7 +304,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -1426,7 +1426,7 @@ Under året har jag noterat två (2) begäran om registerutdrag, en begäran om 
 om begränsning.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 34 -->
 
@@ -1516,7 +1516,7 @@ Ansökan, 1999-04-19
 
 Beslutet skickas till
 Föräldrakooperativet Kottar och Barr
-Gamla Älvsåkersvägen 39
+Gamla (adress borttagen)
 
 434 96 Kungsbacka
 
@@ -1718,7 +1718,7 @@ Delegationsbeslut, 2000-03-22
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9
+(adress borttagen)
 439 53 Åsa
 
 Beskrivning av ärendet
@@ -1823,7 +1823,7 @@ Delegationsbeslut, 2000-03-22
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9
+(adress borttagen)
 439 53 Åsa
 
 Beskrivning av ärendet

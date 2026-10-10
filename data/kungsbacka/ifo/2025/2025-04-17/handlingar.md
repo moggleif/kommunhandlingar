@@ -267,7 +267,7 @@ stöd och service för vissa funktionshindrade (LSS) och den enskildes behov.
 434 81 Kungsbacka
 Julia Wilholm
 0300-834276                                                   Besöksadress
-julia.wilholm@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -551,7 +551,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   individochfamiljeomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -145,7 +145,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Patrik Johansson       Linnéa Princis
 Kommunsekreterare      Kommunjurist                           Besöksadress
 Stadshuset, Storgatan 37
-patrik.johansson2@kungsbacka.se linnea.princis@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -455,14 +455,14 @@ Kungsbacka kommun
 ÖVERKLAGANDE
 
 Länsstyrelsen i Hallands län                                      1 (2)
-halland@lansstyrelsen.se
+(e-post borttagen)
 Datum
 2025-08-04
 Dnr
 KS-2024-00740
 Till
 Förvaltningsrätten i Göteborg
-forvaltningsrattenigoteborg@dom.se
+(e-post borttagen)
 
 ÖVERKLAGANDE
 
@@ -488,11 +488,11 @@ kommuns beslut den 16 juni 2025, § 121.
 
 Kommunstyrelsen                                              Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 14 -->
@@ -531,7 +531,7 @@ Diarienummer
 5072-2025
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Upphävande     av lokal ordningsföreskrift
 
@@ -572,7 +572,7 @@ Det är förbjudet att på offentlig plats, i tätorterna Kungsbacka stad,
 Vallda, Kullavik/Särö, Onsala, Anneberg, Fjärås/Hjälm, Åsa och
 Frillesås, använda lustgas i berusningssyfte.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 16 -->
@@ -837,9 +837,9 @@ Detta beslut har godkänts digitalt och saknar därför namnunder-
 skrifter.
 
 Kopia
-• Polismyndigheten, registrator.vast@polisen.se
+• Polismyndigheten, (e-post borttagen)
 
-• Patrik Johansson, patrik.johansson2@kungsbacka.se
+• Patrik Johansson, (e-post borttagen)
 
 Bilaga
 
@@ -860,7 +860,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -899,7 +899,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 Behöver ni veta mer?
 
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 5072-2025.
 
 <!-- sida 22 -->
@@ -975,7 +975,7 @@ ortstidningarna.
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -2460,11 +2460,11 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: [Skriv in ansvarig förvaltning]
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -2830,7 +2830,7 @@ Förutsättningar             för   att   ansöka        om
 
 kommunalt            lantmäteri         i Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 74 -->
 
@@ -3791,7 +3791,7 @@ Version Datum      Förändring     Distribution
 Lund | Göteborg | Stockholm
 
 Trivector Traffic · Vävaregatan 21 · 226 36 Lund
-tel 010-456 56 00 · info@trivector.se
+tel 010-456 56 00 · (e-post borttagen)
 
 <!-- sida 95 -->
 
@@ -3821,7 +3821,7 @@ från 1,8 till 1,5 bilparkeringsplatser/radhus, inklusive besöksparkering.
 Lund | Göteborg | Stockholm
 
 Trivector Traffic · Vävaregatan 21 · 226 36 Lund
-tel 010-456 56 00 · info@trivector.se
+tel 010-456 56 00 · (e-post borttagen)
 
 <!-- sida 96 -->
 

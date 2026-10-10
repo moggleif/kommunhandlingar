@@ -71,7 +71,7 @@ Kungsbacka badhus.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1954,7 +1954,7 @@ nya bostäderna som tillskapas genom detaljplanen.
 Samhällsbyggnadskontoret
 Kungsbacka kommun • 434 81 Kungsbacka • 0300-83
 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 49 -->
@@ -6220,7 +6220,7 @@ under augusti 2025. Samtliga värden tagna vid fasad på byggnad längs Sivers v
 
 <!-- sida 162 -->
 
-Från:           elliot.brandeby@trafikverket.se
+Från:           (e-post borttagen)
 Skickat:        den 21 januari 2026 08:59
 Till:           Teknik
 Ämne:           Yttrande i ärende 2025-00817
@@ -6275,7 +6275,7 @@ Med vänliga hälsningar
 Elliot Brandeby
 Trafikingenjör
 
-elliot.brandeby@trafikverket.se
+(e-post borttagen)
 Direkt: 010-1234413
 
 Västra regionen
@@ -6671,7 +6671,7 @@ Skrivelse om stöd för förslag om sänkt hastighet – nr 1-13
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7030,7 +7030,7 @@ Namninsamling – Söderåleden, del 2
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

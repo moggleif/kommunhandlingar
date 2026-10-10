@@ -517,7 +517,7 @@ utökning av barnantal
 
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Särö pastorat gällande
-Lyktans fritidshem, Vallda Kyrkbyväg 8, 434 90 Vallda, om permanent utökning till
+Lyktans fritidshem, Vallda (adress borttagen), 434 90 Vallda, om permanent utökning till
 totalt 24 barn.
 
 Sammanfattning av ärendet
@@ -567,7 +567,7 @@ barnantal
 
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Onsala småbarnsskola
-ekonomiska förening, Landstormsvägen 34, 439 94 Onsala, om permanent utökning
+ekonomiska förening, (adress borttagen), 439 94 Onsala, om permanent utökning
 till totalt 26 barn.
 
 Sammanfattning av ärendet
@@ -689,6 +689,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting

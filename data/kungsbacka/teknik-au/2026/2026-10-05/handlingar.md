@@ -121,7 +121,7 @@ Länsstyrelsen i Hallands län
 Kontaktuppgifter:
 Slottsgatan 2
 Telefon: 010-224 30 00
-E-post: halland@lansstyrelsen.se
+E-post: (e-post borttagen)
 
 Blankettid: 1789482691069       Sida 1 av 6           Datum: 2026-09-15 16:47:03
 
@@ -230,7 +230,7 @@ Privatperson Juridisk person (bolag, förening, myndighet, stiftelse) Enskild fi
 Företagsnamn (Organisationens namn)
 Kungsbacka kommun
 E-post
-linda.sovgren@kungsbacka.se
+(e-post borttagen)
 
 Kontaktperson
 Linda Sövgren
@@ -243,7 +243,7 @@ Kungsbacka
 Ange gärna din e-postadress och ditt telefonnummer så har vi lättare att kontakta dig
 
 Telefonnummer
-0700815270
+(mobilnummer borttaget)
 Land
 Sverige
 
@@ -768,7 +768,7 @@ cykelväg. Sandövägen är prioriterad för ny gång- och cykelväg i regional 
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1005,7 +1005,7 @@ annat inom tättbebyggt område och på platser där gående korsar vägen. För
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 29 -->
@@ -1063,7 +1063,7 @@ sökas genom fysisk utformning av trafikmiljön.
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 30 -->
@@ -1077,7 +1077,7 @@ Dokumentegenskaper, Ärendenummer TRV 2026/71098, Dokumentdatum 2026-08-18, Doku
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 31 -->
@@ -1132,7 +1132,7 @@ till 40 kilometer i timmen samt att det inte finns några olyckor
 inrapporterade i STRADA. De anser att problemet i första hand bör
 lösas genom en fysisk gångförbindelse. Avsaknaden av olyckor är
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 32 -->
@@ -1332,9 +1332,9 @@ namnunderskrifter.
 Kopia till
 
 Trafikverket Västra Regionen (TRV 2026/71098):
-trafikverket@trafikverket.se
+(e-post borttagen)
 
-Kungsbacka kommun: info@kungsbacka.se
+Kungsbacka kommun: (e-post borttagen)
 
 <!-- sida 36 -->
 
@@ -1350,7 +1350,7 @@ Så här överklagar du beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska du lämna
 eller skicka din skriftliga överklagan till Länsstyrelsen Hallands län antingen
-via e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands
+via e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands
 län, 301 86 Halmstad.
 
 Tiden för överklagande
@@ -1377,18 +1377,18 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 
 Behöver du veta mer?
 Har du ytterligare frågor kan du kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 3733-2026.
 
 <!-- sida 37 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 Sandövägen
 
 Konsekvensutredning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 38 -->
 
@@ -1842,7 +1842,7 @@ Länsstyrelsen i Hallands län
 Kontaktuppgifter:
 Slottsgatan 2
 Telefon: 010-224 30 00
-E-post: halland@lansstyrelsen.se
+E-post: (e-post borttagen)
 
 Blankettid: 1781081153408       Sida 1 av P4age 1 of 5 Datum: 2026-06-10 11:00:55
 
@@ -1954,7 +1954,7 @@ Diarienummer
 3733-2026
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Angående    förslag om  lokala trafikföreskrifter på  väg
 
@@ -1977,7 +1977,7 @@ diarienummer 3733–2026 vid kontakt med länsstyrelsen
 Charlotte Viklund
 Förvaltningshandläggare
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 54 -->
@@ -1997,7 +1997,7 @@ Kopia
 
 Från:          "      " <              >
 Skickat:       Tue, 26 May 2026 13:25:42 +0100
-Till:          halland@lansstyrelsen.se
+Till:          (e-post borttagen)
 Ämne:          Ansökan om hastighetssänkning och trafiksäkerhetsåtgärder vid förskola, väg
 950
 Bilagor:       Svar kundbehov VA\~¤st.pdf
@@ -2087,8 +2087,8 @@ O
 D    beslutar om hastighetsbegränsningen på statliga vägar utanför tättbebyggt område med
 T
 Trafikverket           Texttelefon: 010-123 50 00 Towe Johansson
-Ärendemottagningen     Telefon: 0771 - 921 921 kundarenden_planering_vastra@trafikverket.se
-Box 810                trafikverket@trafikverket.se
+Ärendemottagningen     Telefon: 0771 - 921 921 (e-post borttagen)
+Box 810                (e-post borttagen)
 781 28 Borlänge        www.trafikverket.se
 Besöksadress:
 Vikingsgatan 2-4, Göteborg
@@ -2163,8 +2163,8 @@ O
 D
 T
 Trafikverket           Texttelefon: 010-123 50 00 Towe Johansson
-Ärendemottagningen     Telefon: 0771 - 921 921 kundarenden_planering_vastra@trafikverket.se
-Box 810                trafikverket@trafikverket.se
+Ärendemottagningen     Telefon: 0771 - 921 921 (e-post borttagen)
+Box 810                (e-post borttagen)
 781 28 Borlänge        www.trafikverket.se
 Besöksadress:
 Vikingsgatan 2-4, Göteborg
@@ -2216,7 +2216,7 @@ parkeringssituation som på senare tid har uppstått på Smidesvägen.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-+46700815270                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2375,7 +2375,7 @@ behovet av närliggande verksamhet och besökare i området.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

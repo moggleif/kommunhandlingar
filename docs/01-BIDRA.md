@@ -123,3 +123,6 @@ hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
 något ändrats; öppna en PR från den och merga när "Ren kod och tester"
 gått igenom (ADR-0015). Ligger flera grenar omergade, merga den nyaste
 och ta bort de äldre; det de hade utöver den hämtas igen nästa natt.
+En gren som skrivits av en version före 0.5.0 maskas först med
+`python3 -m kommunhandlingar.maska_poolen data`; annars faller
+datakontrollen på dess personuppgifter (ADR-0022).

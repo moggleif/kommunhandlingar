@@ -1424,7 +1424,7 @@ Kungsbacka kommun
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1491,7 +1491,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 32 -->
 
@@ -1656,8 +1656,8 @@ E-post: li.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 10 maj 2025. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.spn@regeringskansliet.se. Ange diarienummer LI2025/00306 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2025/00306 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -1704,7 +1704,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -23537,7 +23537,7 @@ Självständig liv ska delas ut av nämnden själva och har inga ytterliga synpu
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -24281,7 +24281,7 @@ nytänkande       inom   Individ   &  Familjeomsorg        i
 
 Kungsbacka       kommun
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 567 -->
 
@@ -24349,7 +24349,7 @@ Beslutad av: Kommunfullmäktige 4 maj 2021 § 80, Dnr KS 2019-00903
 Gäller från: 4 maj 2021
 Ansvarig förvaltning: Individ & Familjeomsorg
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -24519,7 +24519,7 @@ Individ & Familjeomsorg                                   Kungsbacka kommun
 Bo Rundberg                                                434 81 Kungsbacka
 0300-83 51 79
 Besöksadress
-bo.rundberg@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -24696,7 +24696,7 @@ Individ & Familjeomsorg                                   Kungsbacka kommun
 Bo Rundberg                                                434 81 Kungsbacka
 0300-83 51 79
 Besöksadress
-bo.rundberg@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -24842,7 +24842,7 @@ Samma person eller arbetslag kan inte få priset två på varandra följande år
 
 Om ingen uppfyller kriterierna så delas inget pris ut.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 579 -->
 
@@ -24857,7 +24857,7 @@ Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Individ & Familjeomsorg
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -24960,7 +24960,7 @@ kräver det, förlägga arbetspass om upp till 24 timmar.
 434 81 Kungsbacka
 Julia Wilholm
 0300-834276                                                   Besöksadress
-julia.wilholm@kungsbacka.se                              Stadshuset, Storgatan 37
+(e-post borttagen)                              Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -25451,7 +25451,7 @@ i rapporten.
 1 Nämnden för Förskola & Grundskola, Gymnasium & Arbetsmarknad, Service, Individ & Familjeomsorg, Vård & Omsorg, Kultur
 & Fritid, Miljö & Hälsoskydd, Teknik, Byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 594 -->
 

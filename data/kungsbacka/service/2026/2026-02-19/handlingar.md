@@ -141,8 +141,8 @@ Välkommen          med     dina    synpunkter!
 Aktuella projekt | Kungsbacka
 kommun
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 5 -->
 
@@ -4521,7 +4521,7 @@ mottagare av synpunkter och avvikelser i kommunen i form av kommunens två kundc
 och Service direkt.
 
 Utöver vad som har redovisats under kapitel 6.1 så har 15 synpunkter kommit till Services registrator via
-info@kungsbacka.se och service@kungsbacka.se. Dessa hanteras som övriga synpunkter och diarieförts i
+(e-post borttagen) och (e-post borttagen). Dessa hanteras som övriga synpunkter och diarieförts i
 kommunens diarium.
 
 Synpunkterna som kommer in handlar om utomhusmiljöer i kommunen samt skolmaten. Svaren från Fastighet
@@ -4723,11 +4723,11 @@ Giltig från:    [Klicka eller tryck här för att ange datum]
 
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 105 -->
 
@@ -4766,11 +4766,11 @@ Giltig från:    [Klicka eller tryck här för att ange datum]
 
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 107 -->
 
@@ -4897,11 +4897,11 @@ Giltig från:    [Klicka eller tryck här för att ange datum]
 
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 111 -->
 
@@ -5592,7 +5592,7 @@ Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) 
 
 kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617).
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 128 -->
 
@@ -5883,7 +5883,7 @@ Beslutad av: Kommunfullmäktige 4 februari 2020 § 8, Länsstyrelsens beslut
 Gäller från och med: §§ 1-14, 16-22 från 1 april 2020,
 
 Ansvarig nämnd: Nämnden för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -5948,7 +5948,7 @@ Britta-Lenas gata (Kungsbacka 6:1)
 Tingbergsskolan (Varla 12:67)
 
 1 (2)
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 137 -->
 
@@ -6014,7 +6014,7 @@ Vapenlagen (1996:67) har bestämmelser om bl.a. tillstånd att inneha skjutvapen
 
 Se www.polisen.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 1 (2)
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se 1 (2)
 
 <!-- sida 139 -->
 
@@ -6033,7 +6033,7 @@ Se www.transportstyrelsen.se
 
 \_\_\_\_\_
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se 2 (2)
 
 <!-- sida 140 -->
 
@@ -6088,7 +6088,7 @@ hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
 Box 193        Nygatan 45    090-17 74 00 090-13 75 88  måndag–fredag
-901 05 Umeå    (Tingshuset)  E-post: forvaltningsratteniumea@dom.se 08:00–12:00
+901 05 Umeå    (Tingshuset)  E-post: (e-post borttagen) 08:00–12:00
 www.forvaltningsratteniumea.domstol.se 13:00–16:00
 
 <!-- sida 149 -->
@@ -6599,7 +6599,7 @@ BESLUT                 1 (7)
 2020-03-02     213-1348-2020
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Anmälan enligt 3 kap. 13 § ordningslagen (1993:1617) av lokala ord-
 ningsföreskrifter
@@ -6637,10 +6637,10 @@ meddelades. I annat fall kan överklagandet inte tas upp till prövning. Av öve
 det ska framgå vilket beslut som överklagas och den ändring i beslutet som begärs.
 Skälen för ändring bör också anges. Finns handlingar eller annat till stöd för över-
 klagandet bör dessa bifogas. Överklagandet får gärna skickas per e-post till
-halland@lansstyrelsen.se.
+(e-post borttagen).
 
 Postadress     Besöksadress E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 159 -->
 
@@ -6964,7 +6964,7 @@ Bilaga
 2\. Bilaga 5, 2020-01-21
 
 Kopia
-Polismyndigheten, Lokalpolisområde Kungsbacka, registrator.vast@polisen.se
+Polismyndigheten, Lokalpolisområde Kungsbacka, (e-post borttagen)
 
 <!-- sida 165 -->
 

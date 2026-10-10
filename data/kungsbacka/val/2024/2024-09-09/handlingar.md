@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -411,7 +411,7 @@ beslutanderätt
 
 Delegeringsförteckning
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -694,7 +694,7 @@ Kansli
 Uppdaterad: 2024-08-23
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -715,11 +715,11 @@ Beslutad av:    Valnämnden 5 februari 2024 § 2, VN-2024-00017
 Gäller från:    2024-02-05
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 27 -->
 
@@ -1054,9 +1054,9 @@ Expedierat/bestyrkt
 
 <!-- sida 39 -->
 
-Från: Rick Wicks \<rick.wicks23@gmail.com>
+Från: Rick Wicks \<(e-post borttagen)>
 Skickat: den 28 augusti 2024 15:25
-Till: rick.wicks23@gmail.com
+Till: (e-post borttagen)
 Ämne: civic education for Americans living in Sweden
 
 Hej!
@@ -1103,7 +1103,7 @@ http://www.cuke.com/people/wicks-rick.htm
 
 <!-- sida 42 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 23 juli 2024 13:27
 Till:                  Brev: Val ValAdm
 Ämne:                  Nyheter från Valmyndigheten
@@ -1138,7 +1138,7 @@ Vi önskar er en fortsatt trevlig sommar!
 
 <!-- sida 43 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 12 juli 2024 14:05
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 28
@@ -1170,7 +1170,7 @@ Valmyndigheten
 
 <!-- sida 44 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 3 juli 2024 15:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 27
@@ -1210,7 +1210,7 @@ Valmyndigheten
 
 <!-- sida 45 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 19 juni 2024 15:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 25

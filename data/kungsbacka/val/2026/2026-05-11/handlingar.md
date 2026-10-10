@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -783,11 +783,11 @@ Beslutad av:    Valnämnden 2026-05-11 § XX
 Gäller från:    2026-05-11
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -1264,7 +1264,7 @@ Sida
 
 <!-- sida 33 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 29 april 2026 16:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.18
@@ -1300,12 +1300,12 @@ Valmyndigheten
 
 <!-- sida 34 -->
 
-Från:                  Myndigheten för delaktighet \<info@mfd.se>
+Från:                  Myndigheten för delaktighet \<(e-post borttagen)>
 Skickat:               den 27 april 2026 09:15
 Till:                  Valnämnden
 Ämne:                  Så förbereder ni röstmottagare för ett tillgängligt val
 
-Du får inte ofta e-post från info@mfd.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -1379,17 +1379,17 @@ Initiativ för att främja valdeltagandet (mfd.se)
 
 Myndigheten för delaktighet               Besök oss på
 
-Rosterigränd 12, 117 61 Stockholm         www.mfd.se
+(adress borttagen), 117 61 Stockholm         www.mfd.se
 
 <!-- sida 36 -->
 
 Box: 47082, 100 74 Stockholm              Facebook
 Växel: 08-600 84 00                       Instagram
-info@mfd.se                               LinkedIn
+(e-post borttagen)                               LinkedIn
 
 <!-- sida 37 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 22 april 2026 16:32
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v_17
@@ -1425,7 +1425,7 @@ Valmyndigheten
 
 <!-- sida 38 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 15 april 2026 16:35
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 16
@@ -1470,7 +1470,7 @@ Valmyndigheten
 
 <!-- sida 39 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 8 april 2026 16:19
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v.15
@@ -1500,7 +1500,7 @@ Valnämnden ska besluta om ordningen i valsedelställen. Beslutet bör vara moti
 valsedlarna ska presenteras på ett enhetligt sätt.
 
 Nyheter publiceras löpande på valcentralen och viktiga datum hittar ni i valcentralens kalender.
-Som vanligt når ni oss på valadm@val.se
+Som vanligt når ni oss på (e-post borttagen)
 
 Vänliga hälsningar
 
@@ -1508,7 +1508,7 @@ Valmyndigheten
 
 <!-- sida 40 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 2 april 2026 10:29
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsbrev v.14
@@ -1530,7 +1530,7 @@ Nu kan ni följa Valmyndigheten i sociala media för att få information om åre
 Valmyndigheten finns nu återigen på Facebook och Instagram. En nyhet är att Valmyndigheten nu också går att
 följa på Linkedin.
 Nyheter publiceras löpande på valcentralen och viktiga datum hittar ni i valcentralens kalender. Som
-vanligt når ni oss på valadm@val.se
+vanligt når ni oss på (e-post borttagen)
 
 Vi passar på att önska er alla en glad påsk!
 
@@ -1539,7 +1539,7 @@ Valmyndigheten
 
 <!-- sida 41 -->
 
-Från:                  Max Andersson \<max.andersson@val.se>
+Från:                  Max Andersson \<(e-post borttagen)>
 Skickat:               den 26 mars 2026 09:58
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.13
@@ -1549,7 +1549,7 @@ Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka i
 
 Hej,
 Här kommer den senaste veckans samlade nyheter på valcentralen med kommunerna som målgrupp.
-Nyheter publiceras löpande på valcentralen. Som vanligt når ni oss på valadm@val.se
+Nyheter publiceras löpande på valcentralen. Som vanligt når ni oss på (e-post borttagen)
 
 Nu kan du se hur röstkorten kommer att se ut
 På Valcentralen kan du nu se exempel på hur röstkorten kommer att se ut och en beskrivning av vilken
@@ -1584,7 +1584,7 @@ Valmyndigheten
 
 <!-- sida 42 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 18 mars 2026 16:10
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v_11
@@ -1729,7 +1729,7 @@ Transaktionsidentitet: 3A328F6A62241B875E6824611E8CD8BD1A783324DB
 
 <!-- sida 45 -->
 
-Från:           Brev: Val ValAdm \<valadm@val.se>
+Från:           Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:        den 11 mars 2026 17:21
 Ämne:           Valmyndighetens nyhetsbrev v_10
 
@@ -1772,7 +1772,7 @@ Valmyndigheten
 
 <!-- sida 46 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 4 mars 2026 16:16
 Ämne:                  Valmyndighetens nyhetsbrev v_9
 
@@ -1817,7 +1817,7 @@ Valmyndigheten
 
 <!-- sida 47 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 25 februari 2026 16:46
 Ämne:                  Valmyndighetens nyhetsbrev_v8
 
@@ -1859,7 +1859,7 @@ Valmyndigheten
 
 <!-- sida 48 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 20 februari 2026 14:40
 Ämne:                  Valmyndighetens nyhetsbrev v_7
 
@@ -1906,7 +1906,7 @@ Fyllnadsval för uppdrag som ersättare i valnämnden, nämndeman vid
 Varbergs tingsrätt samt ombud Fjärås bygdegårdsförening
 
 Beslut
-Kommunfullmäktige utser Monica Dejby, Aroniavägen 42, 434 48 Kungsbacka, till
+Kommunfullmäktige utser Monica Dejby, (adress borttagen), 434 48 Kungsbacka, till
 uppdraget som ny nämndeman vid Varbergs tingsrätt för tiden till och med
 31 december 2027.
 
@@ -1931,7 +1931,7 @@ Kommunfullmäktige 2025-12-11, § 263
 Avsägelse från Sadik Jusufi (L), 2025-12-09
 
 Kommunfullmäktiges valberednings förslag
-Kommunfullmäktige utser Monica Dejby, Aroniavägen 42, 434 48 Kungsbacka, till
+Kommunfullmäktige utser Monica Dejby, (adress borttagen), 434 48 Kungsbacka, till
 
 uppdraget som ny nämndeman vid Varbergs tingsrätt för tiden till och med
 31 december 2027.
@@ -1944,7 +1944,7 @@ bygdegårdsförening för tiden till och med 31 december 2026.
 Beslutsgång
 
 Ordförande Thure Sandén (M) prövar först om kommunfullmäktige kan utse Monica
-Dejby, Aroniavägen 42, 434 48 Kungsbacka, till uppdraget som ny nämndeman vid
+Dejby, (adress borttagen), 434 48 Kungsbacka, till uppdraget som ny nämndeman vid
 
 Det här dokumentet är digitalt signerat
 

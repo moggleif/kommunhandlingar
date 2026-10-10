@@ -6039,7 +6039,7 @@ SKR:s åtaganden inom ramen för överenskommelsen är att
 Sveriges Kommuner och Regioner
 Post: 118 82 Stockholm, Besök: Hornsgatan 20
 Tfn: växel 08-452 70 00, Fax: 08-452 70 50
-Org nr: 222000-0315, info@skr.se, www.skr.se
+Org nr: 222000-0315, (e-post borttagen), www.skr.se
 
 <!-- sida 137 -->
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1465,7 +1465,7 @@ antalet hundar (2015 ca 79 144 personer och 2025 ca 86 000 personer).
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4047,11 +4047,11 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 94 -->
 
-Från: Christer Kilersjö \<christer@eksta.se>
+Från: Christer Kilersjö \<(e-post borttagen)>
 Skickat: den 2 februari 2026 14:53
-Till: Mikaela Ropel \<mikaela.ropel@kungsbacka.se>
+Till: Mikaela Ropel \<(e-post borttagen)>
 
-Kopia: Mats Niklasson \<mats@eksta.se>
+Kopia: Mats Niklasson \<(e-post borttagen)>
 Ämne: Förlängning markanvisning Skårby
 
 Hej Mikaela!
@@ -4069,9 +4069,9 @@ VD
 
 EKSTA Bostads AB     Telefon: 0300-356 09
 
-Box 10400            Mobil: 0709-28 31 97
+Box 10400            Mobil: (mobilnummer borttaget)
 
-434 24 Kungsbacka     E-post: christer@eksta.se
+434 24 Kungsbacka     E-post: (e-post borttagen)
 
 www.eksta.se          Besöksadress: Hammargårdsvägen 14
 

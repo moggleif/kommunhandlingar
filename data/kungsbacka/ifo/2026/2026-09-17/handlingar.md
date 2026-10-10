@@ -170,7 +170,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Rosenbad
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 6 -->
 
@@ -361,8 +361,8 @@ och intersexpersoners rättigheter
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den
 26 oktober 2026. Svaren bör lämnas per e-post till
-ju.remissvar@regeringskansliet.se och med kopia till
-ju.L5@regeringskansliet.se. Ange diarienummer Ju2026/01507 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer Ju2026/01507 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -403,7 +403,7 @@ Johanna Gustafsson
 Ämnesråd
 
 Kopia till
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -607,11 +607,11 @@ Beslutad av:    Nämnden för Individ & Familjeomsorg, 2026-09-17, IF-2025-00297
 Giltig från:    2026-09-17
 
 Ansvarig förvaltning: Förvaltningen för Individ & Familjeomsorg
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 16 -->
 
@@ -870,7 +870,7 @@ Delegeringsförteckning
 
 2.2 Dataskydd
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
@@ -1808,11 +1808,11 @@ Beslutad av:    Kommunfullmäktige 2026xxxxxx
 Gäller från:    2027-01-01
 Ansvarig förvaltning: Förvaltningen för Individ & Familjeomsorg
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 55 -->
 

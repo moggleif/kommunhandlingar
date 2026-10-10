@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1442,7 +1442,7 @@ Notering          Svar beräknas till Q2, 2026
 Motion – Införande av blocktider inom hemtjänsten, KS/2025-00563
 Väcktes:          2025-08-12
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 32 -->
 
@@ -2756,7 +2756,7 @@ Notifieringar
 
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4260958 | Inskickat av: Mats Ingvar Bjurefalk | Datum: 2026-02-13 12:55 Sida 1 av3
@@ -2805,7 +2805,7 @@ I I I | osten BEA 2 Pp kung
 
 Fastighetsbeteckning: KUNGSBACKA ÄLSKOGSBRÄCKA 1:2
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4260958 | Inskickat av: Mats Ingvar Bjurefalk | Datum: 2026-02-13 12:55
@@ -2840,7 +2840,7 @@ Beskrivning
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4260958 | Inskickat av: Mats Ingvar Bjurefalk | Datum: 2026-02-13 12:55 Sida 3 av3
@@ -2886,9 +2886,9 @@ fullbelagda. Efterfrågan är hög och väntetiderna långa, vilket tydligt visa
 bostäder anpassade för äldre som önskar ett tryggt och socialt boende, samtidigt som
 de kan behålla sin självständighet.
 
-Adress: Varlabergsvägen 17, 434 39 Kungsbacka
+Adress: (adress borttagen), 434 39 Kungsbacka
 Mejl: info&bostadslyftet.se
-Tel: +4670 733 72 05
+Tel: (mobilnummer borttaget)
 
 Ärendenummer: 4260958 | Datum: 2026-02-13 12:55 Bilaga 2 sida 1 av 3
 
@@ -2930,9 +2930,9 @@ Bilagor
 Ytterligare information om projektets förutsättningar återfinns i bilagan:
 "Trygghetsboende i Älskogsbräcka — förstudie"
 
-Adress: Varlabergsvägen 17, 434 39 Kungsbacka
+Adress: (adress borttagen), 434 39 Kungsbacka
 Mejl: info&bostadslyftet.se
-Tel: +4670 733 72 05
+Tel: (mobilnummer borttaget)
 
 Ärendenummer: 4260958 | Datum: 2026-02-13 12:55 Bilaga 2 sida 2 av 3
 
@@ -2953,12 +2953,12 @@ Med bästa hälsningar
 
 Bostadslyftet Arkitekter
 
-Tel: 070 733 72 05
+Tel: (mobilnummer borttaget)
 E-mejl: infoQMbostadslyftet.se
 
-Adress: Varlabergsvägen 17, 434 39 Kungsbacka
+Adress: (adress borttagen), 434 39 Kungsbacka
 Mejl: info&bostadslyftet.se
-Tel: +4670 733 72 05
+Tel: (mobilnummer borttaget)
 
 Ärendenummer: 4260958 | Datum: 2026-02-13 12:55 Bilaga 2 sida 3 av 3
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1314,9 +1314,9 @@ Skickat:               den 13 december 2023 09:24
 Till:                  Valnämnden
 Ämne:                  VB: Inbjudan till EU-valet 2024 – lärdomar och nyheter
 
-Från: Sveriges Kommuner och Regioner \<utskick@skr.se>
+Från: Sveriges Kommuner och Regioner \<(e-post borttagen)>
 Skickat: den 13 december 2023 09:00
-Till: Kommun \<kommun@kungsbacka.se>
+Till: Kommun \<(e-post borttagen)>
 Ämne: Inbjudan till EU-valet 2024 – lärdomar och nyheter
 
 Sveriges Kommuner och Regioner
@@ -1372,7 +1372,7 @@ Välkommen!
 Kontakt:
 SKR Kontaktcenter
 
-info@skr.se
+(e-post borttagen)
 
 08-452 70 00
 
@@ -1435,7 +1435,7 @@ Rapporteringen kommer ske direkt från vallokalerna digitalt in till Valmyndighe
 Kommunerna kommer att behöva meddela Valmyndigheten vilka som ska rapportera in. Vi
 
 www.val.se
-valadm@val.se
+(e-post borttagen)
 
 <!-- sida 43 -->
 
@@ -1491,7 +1491,7 @@ materialbeställningen är gjord och behöver beställa mer valmaterial.
 
 För mer information om folkomröstning i samband med val, se information i ”Kommunens
 handbok”, kapitel 21. För att begära samråd och vid frågor, hör av er till
-folkomrostning@val.se.
+(e-post borttagen).
 
 <!-- sida 44 -->
 
@@ -1751,7 +1751,7 @@ nyhetsbrev finns en lista över era plusgiro- eller bankgironummer från valet 2
 vi kommer att betala ut ersättningen.
 
   Kontrollera att ert nummer är korrekt och meddela eventuell ändring till
-valadm@val.se senast den 1 februari 2024.
+(e-post borttagen) senast den 1 februari 2024.
 
 Förordningen avser det samlade belopp som varje kommun kommer att få i statsbidrag inför
 EU-valet 2024. Det skiljer sig därmed från EU-valet 2019 då kommunerna fick ersättning
@@ -1767,7 +1767,7 @@ Valmyndigheten har uppdaterat flera vägledande ställningstaganden bland annat 
 anledning av erfarenheter från genomförandet av de allmänna valen 2022.
 
 www.val.se
-valadm@val.se
+(e-post borttagen)
 
 <!-- sida 51 -->
 
@@ -1856,7 +1856,7 @@ för budröstning, dubblettröstkort samt om behovet av en säker hantering av r
 lämpligt att ni också går igenom dessa frågor mer i detalj med häktet eller anstalten.
 
 www.val.se
-valadm@val.se
+(e-post borttagen)
 
 <!-- sida 53 -->
 
@@ -1975,7 +1975,7 @@ respektive uppdrag aktuell procentsats av 973 805 kronor (årsarvodet för övri
 kommunalråd):
 
 Kungsbacka kommun 434 81 Kungsbacka | Besöksadress Vägmästaren, Syréngatan 1
-Telefon 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Telefon 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 55-1](handlingar.tabeller/55-1.csv)
 
@@ -2088,7 +2088,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -3206,7 +3206,7 @@ Mina samlade iakttagelser gällande valnämnden under 2023 ger mig ingen anledni
 särskilda råd.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 83 -->
 
@@ -3237,7 +3237,7 @@ Med start den 15 januari kan ni logga in i Valid och ladda ner valdistrikten i G
 är uppladdade av länsstyrelsen. Observera att ni måste ha GIS-mjukvara för att kunna titta
 på kartorna. Denna fil gäller för hela länet. Leta upp er kommun för att ladda ner kartan.
 
-Kontakta gärna Valmyndigheten om du har frågor: GIS@val.se.
+Kontakta gärna Valmyndigheten om du har frågor: (e-post borttagen).
 
 Mall för affisch om valsedlar på valcentralen i februari
 
@@ -3261,7 +3261,7 @@ Med vänliga hälsningar,
 Valmyndigheten
 
 www.val.se
-valadm@val.se
+(e-post borttagen)
 
 <!-- sida 84 -->
 
@@ -3314,7 +3314,7 @@ västarna. Västen kan användas av valnämnden eller valkansliet exempelvis vid
 i röstnings- och i vallokaler. Finns i ett begränsat antal. Skiss infogas nedan.
 
 www.val.se
-valadm@val.se
+(e-post borttagen)
 
 <!-- sida 85 -->
 

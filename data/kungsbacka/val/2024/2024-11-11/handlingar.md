@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1313,7 +1313,7 @@ beslutanderätt
 
 Delegeringsförteckning
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 39 -->
 
@@ -1596,7 +1596,7 @@ Kansli
 Beslutad av: Valnämnden 9 september 2024 § 29, VN-2024-00051
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -1617,11 +1617,11 @@ Beslutad av:    Valnämnden 11 november 2024 § xx, VN-2024-00053
 Gäller från:    2024-11-11
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 51 -->
 
@@ -2370,11 +2370,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 Gäller från:    2024-03-05
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 72 -->
 
@@ -5123,25 +5123,25 @@ Josefin   Stagge
 
 Projektledare
 Ida Ånevall   Lind
-E-post: josefin.stagge@enkatfabriken.se
+E-post: (e-post borttagen)
 Valhandläggare  – utbildningsteamet
-Telefon: 073-507 46 00
-E-post: ida.anevall.lind@val.se
+Telefon: (mobilnummer borttaget)
+E-post: (e-post borttagen)
 Telefon: 010-575 70 48
 Lovisa   Köllerström
 Analytiker
-Magnus    Lagercrantz                                  E-post: lovisa.kollerstrom@enkatfabriken.se
-E-post: magnus.lagercrantz@val.se
+Magnus    Lagercrantz                                  E-post: (e-post borttagen)
+E-post: (e-post borttagen)
 Linnea   Andersson
 Analytiker
 
-E-post: linnea.andersson@enkatfabriken.se
+E-post: (e-post borttagen)
 
 <!-- sida 139 -->
 
 <!-- sida 140 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 27 september 2024 14:01
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 39
@@ -9328,7 +9328,7 @@ beslutanderätt
 
 Delegeringsförteckning
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 238 -->
 
@@ -9611,7 +9611,7 @@ Kansli
 Beslutad av: Valnämnden 9 september 2024 § 29, VN-2024-00051
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -9632,11 +9632,11 @@ Beslutad av:    Valnämnden 11 november 2024 § xx, VN-2024-00053
 Gäller från:    2024-11-11
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 250 -->
 
@@ -10385,11 +10385,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 Gäller från:    2024-03-05
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 271 -->
 
@@ -13138,25 +13138,25 @@ Josefin   Stagge
 
 Projektledare
 Ida Ånevall   Lind
-E-post: josefin.stagge@enkatfabriken.se
+E-post: (e-post borttagen)
 Valhandläggare  – utbildningsteamet
-Telefon: 073-507 46 00
-E-post: ida.anevall.lind@val.se
+Telefon: (mobilnummer borttaget)
+E-post: (e-post borttagen)
 Telefon: 010-575 70 48
 Lovisa   Köllerström
 Analytiker
-Magnus    Lagercrantz                                  E-post: lovisa.kollerstrom@enkatfabriken.se
-E-post: magnus.lagercrantz@val.se
+Magnus    Lagercrantz                                  E-post: (e-post borttagen)
+E-post: (e-post borttagen)
 Linnea   Andersson
 Analytiker
 
-E-post: linnea.andersson@enkatfabriken.se
+E-post: (e-post borttagen)
 
 <!-- sida 338 -->
 
 <!-- sida 339 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 27 september 2024 14:01
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 39

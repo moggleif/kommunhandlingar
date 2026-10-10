@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 www.kungsbacka.se
 
@@ -1114,7 +1114,7 @@ Datum            Diarienummer
 2025-02-26       1641-2025
 
 Kungsbacka kommun
-ulrika.pettersson2@kungsbacka.se
+(e-post borttagen)
 
 Delbeslut  med  villkor för utbetalning  av medel   för
 
@@ -1155,7 +1155,7 @@ handläggare.
 Länsstyrelsen vill påminna om att kommunen behöver besluta om
 att den tar på sig huvudmannaskapet i aktuellt skede.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 34 -->
@@ -1255,7 +1255,7 @@ namnunderskrifter.
 
 Kopia till
 
-info@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 36 -->
 
@@ -1311,7 +1311,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 37 -->
@@ -2336,7 +2336,7 @@ Uppdragsgivare: Forsen AB
 kontaktperson:
 Konsult:
 
-Norconsult AB, Theres Svenssons gata 11, 417 55 Göteborg
+Norconsult AB, Theres (adress borttagen), 417 55 Göteborg
 
 Uppdragsledare:
 Teknikansvarig:
@@ -5042,7 +5042,7 @@ Telefon E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4202415 | Inskickat av: Datum: 2025-05-02 15:52 Sida 1av4
@@ -5072,7 +5072,7 @@ Fastighetsbeteckning Fastighetens adress
 
 KUNGSBACKA SÄRÖ 1:57, SÄRÖ 1:307
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4202415 | Inskickat av: od Datum: 2025-05-02 15:52 Sida 2 av4
@@ -5114,7 +5114,7 @@ Beskrivning
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4202415 | Inskickat av: BI Datum: 2025-05-02 15:52 Sida 3 av 4
@@ -5128,7 +5128,7 @@ TT Godkännande för planbesked signerat.pdf (15,48 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4202415 | Inskickat av: Datum: 2025-05-02 15:52 Sida 4 av 4
@@ -5515,7 +5515,7 @@ Projektnamn
 Planprogram för Åsa station
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -6086,7 +6086,7 @@ hur dessa möjligheter omhändertas.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6633,11 +6633,11 @@ Praktisk   information
 
 VGR önskar ert remissvar senast 31 oktober 2025.
 
-Svaret skickas till: infrastruktur-och.kollektivtrafiknamnd@vgregion.se
+Svaret skickas till: (e-post borttagen)
 Ange i ämnesraden: ”Er organisation – Remissvar Samverkansformer, IKN
 2023–00385”
 
-Frågor under remisstiden kan ställas till: adrien.moysset@vgregion.se
+Frågor under remisstiden kan ställas till: (e-post borttagen)
 
 Bilagor
 
@@ -7532,7 +7532,7 @@ KOMMUN
 
 FULLMAKT
 
-för Nils Farken, Blomstervägen 31, 542 43 Mariestad att för Mariestads
+för Nils Farken, (adress borttagen), 542 43 Mariestad att för Mariestads
 kommun underteckna avtalet om ägaransvar för den regionala kollektivtra-
 fiken i Västra Götalands län.
 
@@ -8266,7 +8266,7 @@ effekt.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8521,7 +8521,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8957,7 +8957,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8986,7 +8986,7 @@ I enlighet med 3 § förordningen (1998:1252) om områdesskydd enligt miljöbalk
 m.m. fastställer Länsstyrelsen bifogad skötselplan (bilaga 1).
 
 Postadress    Besöksadress E-post            Telefon
-301 86 HALMSTAD Slottsgatan 2 Halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 233 -->
 

@@ -495,7 +495,7 @@ planeringsstadiet.
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -526,20 +526,20 @@ Förvaltningschef                   Enhetschef Kansli & stöd
 
 Från:           Samhällsbyggnadskontoret
 Skickat:        den 4 mars 2025 11:53
-Till:           Länsstyrelsen i Hallands län; Registrator; trafikverket@trafikverket.se; SGI;
-Räddningstjänsten Raddningstjansten; GR; kansli@kulturmiljohalland.se;
-regionen@regionhalland.se; registrator.vast@polisen.se;
-remisser@swedavia.se; vasttrafik@vasttrafik.se; hallandstrafiken@hlt.se;
-Havs- och vattenmyndigheten; bo.kolqvist@arkeologerna.com;
+Till:           Länsstyrelsen i Hallands län; Registrator; (e-post borttagen); SGI;
+Räddningstjänsten Raddningstjansten; GR; (e-post borttagen);
+(e-post borttagen); (e-post borttagen);
+(e-post borttagen); (e-post borttagen); (e-post borttagen);
+Havs- och vattenmyndigheten; (e-post borttagen);
 Stadsledningskontoret | Stadsledningskontoret; Kontakt Mölndals stad;
-varbergdirekt@varberg.se; Kontaktcenter; Lisa Andersson; Bygg & Miljö
+(e-post borttagen); Kontaktcenter; Lisa Andersson; Bygg & Miljö
 bygglov admin; Bygg & Miljö Geodata; Miljö & Hälsoskydd admin; Kultur &
 Fritid; Teknik; Service; Förskola Grundskola; Gymnasium & Arbetsmarknad;
-Vård & Omsorg; Individ & Familjeomsorg; samhallsbyggnad@ellevio.se;
-PBL@eon.se; Skanova-Remisser-Goteborg /Telia Sverige AB /Göteborg;
-Telenor-cableplanning@telenor.se; jonas.quist@statkraft.com; Åfeldt Patrik;
-skanova-remisser-goteborg@skanova.se; utdelningsforbattringar; Bo
-Eriksson; fastighetsagare@tele2.com; kabelanvisning@ip-only.se; Emanuel
+Vård & Omsorg; Individ & Familjeomsorg; (e-post borttagen);
+(e-post borttagen); Skanova-Remisser-Goteborg /Telia Sverige AB /Göteborg;
+(e-post borttagen); (e-post borttagen); Åfeldt Patrik;
+(e-post borttagen); utdelningsforbattringar; Bo
+Eriksson; (e-post borttagen); (e-post borttagen); Emanuel
 Forsell; Annika Hedman; Monica Neptun; Fredrik Kollberg; Lars Eriksson;
 Patrik Jervne Henestam; Maria Losman; Stefan Jägnert; Roger Larsson; Clas
 Rosander; Christer Perfjell

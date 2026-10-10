@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -673,7 +673,7 @@ Beslutad av:   Kommunfullmäktige 6 maj 2025 § XX, Dnr KS 2024-00779
 Gäller från:   2025-06-01
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -750,7 +750,7 @@ och domen har fått laga kraft har inte rätt till aktiva omställningsinsatser,
 omställningsstöd och förlängt ekonomiskt omställningsstöd om den förtroendevalde
 har lämnat sina politiska uppdrag.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 20 -->
 
@@ -1857,11 +1857,11 @@ Beslutad av:    Kommunfullmäktige 15 juni 2022 § 112, KS 2022-00207
 Gäller från:    2022-06-15
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 44 -->
 
@@ -2451,11 +2451,11 @@ Beslutad av:    Kommunfullmäktige 15 juni 2022 § 112, KS 2022-00207
 Gäller från:    2022-06-15
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 57 -->
 
@@ -2870,7 +2870,7 @@ Tjänsteutlåtande
 OBarng.k Ngrir 2o2 52805030--40070592 Verksamhetsstöd Utfärdat 2025-05-13
 Joakim Ögren                 Presidiet     2025-05-23
 Enhetschef                   Förbundsstyrelse 2025-06-04
-joakim.ogren@rsgbg.se        Diarienummer  2025/350
+(e-post borttagen)        Diarienummer  2025/350
 
 Taxa  brandskyddskontroll     inom
 
@@ -3736,10 +3736,10 @@ Beslutad av:
 Gäller från:   2026-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 88 -->
 
@@ -4366,11 +4366,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 102 -->
 
@@ -5000,7 +5000,7 @@ nyttoparkering
 
 Underlag     till taxa
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 121 -->
 
@@ -5307,7 +5307,7 @@ Felparkeringsavgifter
 
 Underlag     till taxa
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 130 -->
 
@@ -5764,7 +5764,7 @@ Detaljplan för Hammerö 13:7 och Hammerö s:11 i Kungsbacka
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Rickard Vidlund, kommundirektör  rickard.vidlund@kungsbacka.se 0300-83 42 32
+Rickard Vidlund, kommundirektör  (e-post borttagen) 0300-83 42 32
 
 Status
 Beställningen är                 Datum
@@ -6777,7 +6777,7 @@ Skriftliga synpunkter skickas till:
 Planavdelningen
 Samhällsbyggnadskontoret
 434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Upplysningar om planprogrammet lämnas av:
 
@@ -8873,5 +8873,5 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt

@@ -2059,7 +2059,7 @@ Besöksadress
 Stadshuset
 Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
-kommunrevision@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 20-01-6002
 ,0.1v
@@ -2084,7 +2084,7 @@ rekommendationer som redovisas i rapporten samt när planeras åtgärderna att v
 genomförda?
   Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra
 beslutade åtgärder med anledning av de rekommendationer som redovisas i rapporten?
-Svaret på ovanstående frågor önskas elektroniskt till kommunrevision@kungsbacka.se.
+Svaret på ovanstående frågor önskas elektroniskt till (e-post borttagen).
 För revisorerna i Kungsbacka kommun
 Birgitta Litsegård
 Kommunrevisionens ordförande
@@ -2218,7 +2218,7 @@ framför andra mer ingripande lösningar.
 1 (6)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -14675,7 +14675,7 @@ ska delas ut av nämnden själva och har inga ytterliga synpunkter.
 1 (1)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -14977,7 +14977,7 @@ separeras ifrån övrig bostadsyta för att skapa möjlighet till privat sfär f
 1 (2)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vårdochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -15002,7 +15002,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 352 -->
 
@@ -19006,11 +19006,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 456 -->
 
@@ -20055,7 +20055,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
-Regionstyrelsen, Asa.J.Jonsson@regionhalland.se
+Regionstyrelsen, (e-post borttagen)
 
 Arian Faily                   Emelie Sandberg
 
@@ -20672,7 +20672,7 @@ dataskydd            årsberättelse             2024
 
 Diarienummer        VO-2024-XXXX
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 499 -->
 
@@ -21008,7 +21008,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   vardochomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

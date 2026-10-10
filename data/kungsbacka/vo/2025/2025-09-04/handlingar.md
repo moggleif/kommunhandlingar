@@ -649,7 +649,7 @@ och effektiv utskrivning från sluten hälso- och sjukvård i Halland 2025, 2025
 hälso- och sjukvård i Halland 2025, 2024-09-25
 
 Beslutet skickas till
-regionen@regionhalland.se
+(e-post borttagen)
 
 1 (2)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
@@ -674,9 +674,9 @@ Förvaltningschef              Biträdande förvaltningschef
 1 (1)
 
 Regionkontoret                        Missiv
-Södra vägen 9
+(adress borttagen)
 302 38 Halmstad                       Datum     Diarienummer
-regionen@regionhalland.se             2025-06-23 RS240657
+(e-post borttagen)             2025-06-23 RS240657
 
 Förlängning  av överenskommelse     trygg och  effektiv
 utskrivning från sluten hälso- och  sjukvård 2025
@@ -690,7 +690,7 @@ parter och skickas här ut för liktydande beslut hos samtliga huvudmän.
 Region Halland ämnar ta beslut om förlängning på Regionstyrelsens sammanträde
 den 10 september 2025.
 
-Efter att beslut tagits i er kommun, expediera beslutet till regionen@regionhalland.se
+Efter att beslut tagits i er kommun, expediera beslutet till (e-post borttagen)
 
 Bilagor
 •  Utkast beslutsförslag Godkänna förlängning av Överenskommelse om Trygg och
@@ -1048,7 +1048,7 @@ Nämnden            för   Vård      &   Omsorg
 
 Diarienummer        VO-2025-      00208
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 24 -->
 
@@ -1334,7 +1334,7 @@ Informationssäkerhet-                       &
 
 dataskydd            delårsberättelse                2025
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 31 -->
 
@@ -1562,7 +1562,7 @@ Version 1
 BEMANNINGSHANDBOK
 
 Vård och omsorgsförvaltningen
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 KUNGSBACKA          KOMMUN
 
 <!-- sida 37 -->

@@ -131,7 +131,7 @@ Där finns även ett omvärldsavsnitt samt ett avsnitt som anger min planerade i
 1 Nämnden för Förskola & Grundskola, Gymnasium & Arbetsmarknad, Service, Individ & Familjeomsorg, Vård & Omsorg, Kultur
 & Fritid, Miljö & Hälsoskydd, Teknik, Byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
-Kungsbacka kommun • 0300 -83 4 0 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300 -83 4 0 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -899,7 +899,7 @@ förvaltningen                   för    Kultur          &
 
 Fritids         dataskyddsarbete
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -1337,7 +1337,7 @@ stärker brottsoffers ställning på ett betydelsefullt sätt.
 
 Nämnden för Kultur & Fritid      1 (3)
 Kungsbacka kommun
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -45691,7 +45691,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Rosenbad
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 994 -->
 
@@ -45882,8 +45882,8 @@ och intersexpersoners rättigheter
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den
 26 oktober 2026. Svaren bör lämnas per e-post till
-ju.remissvar@regeringskansliet.se och med kopia till
-ju.L5@regeringskansliet.se. Ange diarienummer Ju2026/01507 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer Ju2026/01507 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -45924,7 +45924,7 @@ Johanna Gustafsson
 Ämnesråd
 
 Kopia till
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -47903,7 +47903,7 @@ Hasse Andersson     Andrea Forsström    Siri Himmelman
 
 Plan & Bygg
 Kungsbacka kommun • 434 81 Kungsbacka • 0300-83 40 00
-plan.bygg@kungsbacka.se • www.kungsbacka.se
+(e-post borttagen) • www.kungsbacka.se
 
 <!-- sida 1053 -->
 
@@ -48777,7 +48777,7 @@ fram, bild sidan 20.
 
 Plan & Bygg
 Kungsbacka kommun • 434 81 Kungsbacka • 0300-83 40 00
-info@kungsbacka.se • www.kungsbacka.se
+(e-post borttagen) • www.kungsbacka.se
 
 <!-- sida 1077 -->
 

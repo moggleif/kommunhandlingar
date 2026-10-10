@@ -41,7 +41,7 @@ Lunch: Gällingeskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -123,7 +123,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -413,7 +413,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -548,7 +548,7 @@ Vision                              Vårdförbundet
 Beslut
 
 Kungsbacka kommun                                 2024-03-14
-info@kungsbacka.se
+(e-post borttagen)
 1 (16)
 Dnr- SI 2023:8425
 
@@ -649,7 +649,7 @@ Uppföljning
 Huvudmannen ska senast den 18 oktober 2024 redovisa till Skolinspektionen vilka
 förbättringsåtgärder som vidtagits utifrån de identifierade utvecklingsområdena.
 
-Redovisningen skickas via e-post, till dokument.goteborg@skolinspektionen.se eller
+Redovisningen skickas via e-post, till (e-post borttagen) eller
 
 per post till Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr SI 2023:8425) i de
@@ -1247,7 +1247,7 @@ Fjärås Bräckaskolan. Skolenheten leds av en rektor.
 Beslut
 
 Kungsbacka kommun                                2022-06-23
-info@kungsbacka.se                                   1 (7)
+(e-post borttagen)                                   1 (7)
 Dnr-SI 2023:8425
 
 Formulär  för huvudmannens    redovisning
@@ -1913,7 +1913,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 62-20-3102
 ,0.2v

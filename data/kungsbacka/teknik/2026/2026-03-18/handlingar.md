@@ -31,7 +31,7 @@ Teknik    2025
 
 GDPR
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -271,11 +271,11 @@ Beslutad av:    Kommunfullmäktige 7 maj 2024 § 82, Dnr KS 2022-00696
 
 Giltigt från:   2024-05-07
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -453,7 +453,7 @@ Giltighetstid alt B: Tillståndet gäller under hel säsong
 Tillståndet är giltigt för uppställning på angivna platser i mån av plats. Sökande erhåller ett digitalt tillstånd.
 Tillståndet ger i övrigt inte rätt att bryta mot gällande trafik- och parkeringsregler. Om det finns behov av att
 uppställa/parkera eller framföra fordon på platser eller tider utöver vad som ovan anges ska en
-dispensansökan skickas in till teknik@kungsbacka.se senast tre veckor i förväg. För att ansökan ska
+dispensansökan skickas in till (e-post borttagen) senast tre veckor i förväg. För att ansökan ska
 behandlas ska sökande bifoga registerutdrag från Skatteverket F-skattesedel samt registreringsnummer på
 fordonet. Innan verksamheten påbörjas ska företaget vara registrerat som livsmedelsanläggning.
 
@@ -473,7 +473,7 @@ Giltighetstid A: Tillstånd 1 månad, 500 kr.
 
 Giltighetstid B: Tillstånd hel sommarsäsong (7 månader), 3500 kr.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -531,7 +531,7 @@ Den som driver ett företag måste enligt lag ha ett avfallsabonnemang på hush�
 Hushållsavfall är det avfall som uppkommer i sopkorgar och på toaletter. Det finns olika abonnemang för
 sorterat och osorterat avfall. Vatten och avlopp. Ingen anslutning till allmän VA-anläggning får ske. Inget
 fett får slängas i gatubrunnar. För mer information om hantering av avfall och vatten kontakta:
-info@Kungsbacka.se
+(e-post borttagen)
 
 Riktlinjer för foodt rucks och matvagnar Sida 2 av 4
 
@@ -549,7 +549,7 @@ Beslutad av: Nämnden för Teknik 2021-04-21 §45
 Gäller från: 26 04 2021
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -845,7 +845,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 23 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 24 -->
 
@@ -894,7 +894,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 25 -->
 
@@ -935,7 +935,7 @@ Kung sbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 

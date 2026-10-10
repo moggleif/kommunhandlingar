@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -121,7 +121,7 @@ Kommundirektör                     Biträdande kommundirektör
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -995,7 +995,7 @@ KS 2020-00131
 Mark- och miljödomstolen, Vänersborgs
 
 tingsrätt
-mmd.vanersborg@dom.se
+(e-post borttagen)
 
 Mark och miljödomstolens målnummer
 P 4810-22
@@ -1005,7 +1005,7 @@ P 4810-22
 KLAGANDE                Kungsbacka kommun genom kommunstyrelsen
 Kommunstyrelsens förvaltning
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 
 ÖVERKLAGAT BESLUT       Mark och miljödomstolens, Vänersborgs tingsrätt, dom 2024-01-11, mål
@@ -1113,7 +1113,7 @@ verksamheter inom del av Frillesås-Rya 3:77 m.fl.
 Dok.Id 606050
 Postadress     Besöksadress Telefon      Telefax       Expeditionstid
 Box 1070       Hamngatan 6 0521-27 02 00 finns ej      måndag – fredag
-462 28 Vänersborg          E-post: mmd.vanersborg@dom.se 08:00–16:00
+462 28 Vänersborg          E-post: (e-post borttagen) 08:00–16:00
 www.domstol.se/vanersborgs-tingsratt/
 
 <!-- sida 32 -->
@@ -2955,8 +2955,8 @@ look.com
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108556 | Inskickat av: | Datum: 2023-12-20 15:33 Sida 1 av 3
 
@@ -3003,8 +3003,8 @@ Illustrationskarta 2023-11-02.pdf (741 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108556 | Inskickat av: | Datum: 2023-12-20 15:33 Sida 2 av 3
 
@@ -3014,8 +3014,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #108556 | Inskickat av: | Datum: 2023-12-20 15:33 Sida 3 av 3
 

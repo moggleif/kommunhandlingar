@@ -101,7 +101,7 @@ inom         särskilt          boende
 
 VO-2024-00410
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -1109,7 +1109,7 @@ funktionsupphandling
 
 VO-2024-00410
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -1590,7 +1590,7 @@ verksamhet             2025
 
 Nämnden       för   Vård   &  Omsorg
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 41 -->
 

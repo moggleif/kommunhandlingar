@@ -37,7 +37,7 @@ Sammanträde Onsdagen den 19 mars 2025 kl. 17-20:30 Galaxen, Onsala
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -393,11 +393,11 @@ Beslutad av:    Nämnden för Kultur & Fritid, 2025-03-19, KFT 2025-00057
 Giltig från:    2025-03-21
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -565,7 +565,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
@@ -685,7 +685,7 @@ Delegeringsförteckning
 
 Nämnden       för Kultur    & Fritid
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 23 -->
 
@@ -1129,7 +1129,7 @@ Beslutad av: Nämnden för Kultur & Fritid 2024-09-25
 Gäller från: 26 september 2024
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1316,7 +1316,7 @@ Kultur & Fritids reglemente och målbild.
 1 (3)
 "[Nämnden för Kultur & Fritid]"                           Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1452,7 +1452,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
-E-post: li.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 45 -->
 
@@ -1617,8 +1617,8 @@ E-post: li.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 10 maj 2025. Svaren bör lämnas per
-e-post till li.remissvar@regeringskansliet.se och med kopia till
-li.spn@regeringskansliet.se. Ange diarienummer LI2025/00306 och
+e-post till (e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer LI2025/00306 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -1665,7 +1665,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 6 (6)
 

@@ -38,8 +38,8 @@ Vägmästaren, Lagan
 
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
-Direkt +46700815387
-lars.sundbom@kungsbacka.se                                      Besöksadress
+Direkt (mobilnummer borttaget)
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Patrik Johansson                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Kommunsekreterare
-patrik.johansson2@kungsbacka.se                                  Storgatan 37
+(e-post borttagen)                                  Storgatan 37
 Stadshuset
 www.kungsbacka.se
 
@@ -148,7 +148,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -1039,7 +1039,7 @@ kulturreservatet är att skydda och vårda Lilla Äskhults kulturlandskap med si
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1145,7 +1145,7 @@ på sidan 4 punkt 10 i förslaget där det står att kalkning inte får ske?
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1177,10 +1177,10 @@ föreskrifter samt skötselplan.
 
 Förslaget översänds för eventuella synpunkter som ska vara inkomna senast 20
 februari 2024. Yttrandet skickas till Länsstyrelsen, 301 86 Halmstad eller till
-halland@lansstyrelsen.se. Ange ärendets diarienummer, 435-1705-21, i ditt yttrande.
+(e-post borttagen). Ange ärendets diarienummer, 435-1705-21, i ditt yttrande.
 
 Om du har frågor eller vill ha ytterligare information om ärendet är du välkommen att
-kontakta antikvarie Jenny Nord, 010 – 224 33 15 eller jenny.nord@lansstyrelsen.se.
+kontakta antikvarie Jenny Nord, 010 – 224 33 15 eller (e-post borttagen).
 
 De som medverkat i beslutet
 
@@ -1193,7 +1193,7 @@ Bifogas
 Förslag till beslut om bildande av kulturreservatet Lilla Äskhult
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 30 -->
 
@@ -1202,42 +1202,42 @@ LÄNSSTYRELSEN                    Remiss                 2(2)
 435-1705-
 
 Sändlista
-Kungsbacka kommun, Kommunstyrelsen, kommunstyrelsen@kungsbacka.se
+Kungsbacka kommun, Kommunstyrelsen, (e-post borttagen)
 
-Kungsbacka kommun, kultur och fritid, kulturochfritid@kungsbacka.se
+Kungsbacka kommun, kultur och fritid, (e-post borttagen)
 
-Sveriges geologiska undersökning, sgu@sgu.se
-Skogsstyrelsen, registrator@skogsstyrelsen.se
+Sveriges geologiska undersökning, (e-post borttagen)
+Skogsstyrelsen, (e-post borttagen)
 
-Naturvårdsverket, registrator@naturvardsverket.se
+Naturvårdsverket, (e-post borttagen)
 
-Riksantikvarieämbetet, registrator@raa.se
-Jordbruksverket, Johan Ahnström, johan.ahnstrom@jordbruksverket.se
+Riksantikvarieämbetet, (e-post borttagen)
+Jordbruksverket, Johan Ahnström, (e-post borttagen)
 
-Trafikverket, trafikverket@trafikverket.se
+Trafikverket, (e-post borttagen)
 
-Naturskyddsföreningen Kungsbacka, kungsbacka@naturskyddsforeningen.se
+Naturskyddsföreningen Kungsbacka, (e-post borttagen)
 
-Hallands botaniska förening, borje.wernersson@gmail.com
-Göteborgs ornitologiska förening, Gbg.ornitologiska.f@gmail.com
+Hallands botaniska förening, (e-post borttagen)
+Göteborgs ornitologiska förening, (e-post borttagen)
 
-Hallands naturskyddsförening, anders@tullander.se
+Hallands naturskyddsförening, (e-post borttagen)
 
-Jägareförbundet Halland, halland@jagareforbundet.se
-LRF Halland, halland@lrf.se
+Jägareförbundet Halland, (e-post borttagen)
+LRF Halland, (e-post borttagen)
 
-Mellersta Götalands Jordägareförbund, mgj@jordagarna.se
+Mellersta Götalands Jordägareförbund, (e-post borttagen)
 
-Västkuststiftelsen, post@vastkuststiftelsen.se
-Institutionen för kulturvård, conservation@conservation.gu.se
+Västkuststiftelsen, (e-post borttagen)
+Institutionen för kulturvård, (e-post borttagen)
 
-STF Kungsbacka Varberg, stf.kungsbacka-varberg@la.stfturist.se
+STF Kungsbacka Varberg, (e-post borttagen)
 
-Fjärås hembygdsgille, torpa1362@gmail.com
+Fjärås hembygdsgille, (e-post borttagen)
 Förlanda hembygdsförening, c/o Nils-Olof Johnson, Hultbackestigen 1, 43964
 
 Frillesås
-Naturrum Fjärås Bräcka, naturrum.fjarasbracka@kungsbacka.se
+Naturrum Fjärås Bräcka, (e-post borttagen)
 
 Så här hanterar vi dina personuppgifter
 
@@ -1291,7 +1291,7 @@ kulturreservat Äskhults by skapar en pedagogisk förståelse för den agrara re
 förändringar.
 
 Postadress  Besöksadress E-post           Telefon
-301 86 HALMSTAD Slottsgatan 2 Halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 32 -->
 
@@ -3525,7 +3525,7 @@ För att underlätta för kombinationsanställningar har kommunstyrelsens förva
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

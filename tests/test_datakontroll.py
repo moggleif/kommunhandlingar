@@ -13,6 +13,9 @@ from tests.test_hamta import TID, Klient, kandidat
 
 DOKUMENT = "exempelby/ks/2025/2025-04-22/protokoll.md"
 EJ_HAMTAD = "exempelby/ks/2025/2025-04-22/kallelse.md"
+PERSONUPPGIFTER = (
+    "personuppgifter som ska maskas (python -m kommunhandlingar.maska_poolen)"
+)
 
 
 def pool_med_tva_dokument(data: Path) -> None:
@@ -132,6 +135,11 @@ class TestTabellkontroll(Pool):
         self.katalog = (self.data / DOKUMENT).with_suffix(".tabeller")
         self.relativ = DOKUMENT.replace(".md", ".tabeller")
 
+    def test_personnummer_i_texten(self):
+        md = self.data / DOKUMENT
+        md.write_text(md.read_text(encoding="utf-8") + "Sökanden 121212-1212\n")
+        self.assertEqual(self.fel(), [f"{DOKUMENT}: {PERSONUPPGIFTER}"])
+
     def test_namn(self):
         (self.katalog / "02-1.csv").write_text("a\n")
         namn = "<sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
@@ -168,6 +176,17 @@ class TestTabellkontroll(Pool):
             with self.subTest(fel=fel):
                 fil.write_bytes(innehall)
                 self.assertEqual(self.fel(), [f"{self.relativ}/2-1.csv: {fel}"])
+
+    def test_personnummer_i_en_tabell(self):
+        (self.katalog / "2-1.csv").write_text("Roll,Nummer\nSökanden,121212-1212\n")
+        self.assertEqual(
+            self.fel(),
+            [f"{self.relativ}/2-1.csv: {PERSONUPPGIFTER}"],
+        )
+
+    def test_csv_utan_personuppgifter_i_annan_form(self):
+        (self.katalog / "2-1.csv").write_text('"Roll","Antal"\nLedamot,3')
+        self.assertEqual(self.fel(), [])
 
     def test_inte_utf_8(self):
         (self.katalog / "2-1.csv").write_bytes(b"\xff\n")

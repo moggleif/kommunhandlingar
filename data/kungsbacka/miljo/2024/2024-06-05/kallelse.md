@@ -45,7 +45,7 @@ miljö-och hälsoskyddsinspektör
 Amanda Toresson                                              Kungsbacka kommun
 Bygg- och miljöförvaltningen                                  434 81 Kungsbacka
 Direkt
-amanda.toresson@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

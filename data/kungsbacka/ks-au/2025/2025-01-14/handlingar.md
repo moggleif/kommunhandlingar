@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -114,7 +114,7 @@ Nämnden för Miljö & hälsoskydd
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -344,7 +344,7 @@ kommunala avfallsuppdraget.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se«OrgEpost»
+(e-post borttagen)«OrgEpost»
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -457,7 +457,7 @@ uppdraget på ett effektivt sätt. En kommentar är att undantaget från FNI bli
 1 (2)
 Nämnden för Teknik                                        Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7622,7 +7622,7 @@ Datum            Diarienummer
 2024-06-10       2063-2024
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande     enligt 3 kap 10 § plan och
 
@@ -7667,7 +7667,7 @@ I rollen att ta tillvara och samordna statens intressen har
 Länsstyrelsen inhämtat synpunkter på förslaget till översiktsplan
 från berörda myndigheter. Yttranden över planförslaget har
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 199 -->
@@ -8705,11 +8705,11 @@ Trafikverket, daterat 2024-05-20, dnr TRV 2024/28056
 SGI, daterat 2024-05-06, dnr 4.3.1-2403-0400
 
 Kopia till:
-SGI: sgi@sgi.se
-Trafikverket: trafikverket@trafikverket.se
-Luftfartsverket: lfv@lfv.se
+SGI: (e-post borttagen)
+Trafikverket: (e-post borttagen)
+Luftfartsverket: (e-post borttagen)
 
-Myndigheten för samhällsskydd och beredskap: registrator@msb.se
+Myndigheten för samhällsskydd och beredskap: (e-post borttagen)
 
 Så här hanterar Länsstyrelsen personuppgifter
 
@@ -8853,10 +8853,10 @@ Besöksadress: Olaus Magnus väg 35 E-post: sgiQMsgi.se Org.nr: 202100-0712
 
 <!-- sida 223 -->
 
-Från:          "Karin Bergdahl" \<karin.bergdahl@sgi.se>
+Från:          "Karin Bergdahl" \<(e-post borttagen)>
 Skickat:       Mon, 6 May 2024 13:40:50 +0100
-Till:          "N-RB-Plan" \<plan.halland@lansstyrelsen.se>
-Cc:            "'Kungsbacka kommun'" \<samhallsbyggnadskontoret@kungsbacka.se>
+Till:          "N-RB-Plan" \<(e-post borttagen)>
+Cc:            "'Kungsbacka kommun'" \<(e-post borttagen)>
 Ämne:          SGI Yttrande FÖP Kungsbacka LST dnr 2063-2024
 Bilagor:       Yttrande FÖP Kungsbacka.pdf
 
@@ -8868,10 +8868,10 @@ Karin Bergdahl
 Geolog, Fil. Mag
 Statens geotekniska institut, SGI
 Avd. Georisker och geodata
-Hugo Grauers gata 5 B
+Hugo (adress borttagen)
 412 96 GÖTEBORG
 Telefon: +46 31 7496581
-Mobil: +46 709730184
+Mobil: (mobilnummer borttaget)
 
 SGI - Säkert och hållbart att bo och färdas
 
@@ -8879,10 +8879,10 @@ www.sgi.se | Linkedin | Kontakta SGI
 
 <!-- sida 224 -->
 
-Från:          "Gibson Kester" \<Kester.Gibson@msb.se>
+Från:          "Gibson Kester" \<(e-post borttagen)>
 Skickat:       Wed, 8 May 2024 14:50:29 +0100
-Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>
-Cc:            "Salomonsson Jennie" \<jennie.salomonsson@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<(e-post borttagen)>
+Cc:            "Salomonsson Jennie" \<(e-post borttagen)>
 Ämne:          Sv: Begäran om yttrande över samråd om fördjupning av översiktsplan för
 Kungsbacka stad, 2063-2024
 Bilagor:       2024-04746 FÖP Kungsbacka stad.pdf
@@ -8907,7 +8907,7 @@ Enheten för arbete med naturolyckor och klimatanpassning
 651 81 Karlstad
 Tel växel 0771-240 240
 Tel direkt 010-240 5396
-E-post kester.gibson@msb.se
+E-post (e-post borttagen)
 www.msb.se
 
 <!-- sida 225 -->
@@ -8919,10 +8919,10 @@ Ert datum     Er referens
 2024-0311     2063-2024
 
 Enheten för arbete med naturolyckor och Länsstyrelsen Hallands län
-klimatanpassning              halland@lansstyrelsen.se
+klimatanpassning              (e-post borttagen)
 Kester Gibson
 010-240 5396
-Kester.gibson@msb.se
+(e-post borttagen)
 
 Förslag till fördjupad översiktsplan för Kungsbacka kommun
 
@@ -8967,7 +8967,7 @@ under år 2023 och är ett viktigt underlag i arbetet med riskhantering och
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-051 -08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -9027,7 +9027,7 @@ amnen/naturolyckor-och-klimat/oversvamning/oversvamningsdirektivet/
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -9089,7 +9089,7 @@ https://rib.msb.se/filer/pdf/27432.pdf
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -9152,7 +9152,7 @@ i samråd med MSB:s verksamhet för Rakel och ledningssystem. Detta gäller
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -9213,7 +9213,7 @@ framtagande av översiktsplan.
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
@@ -9250,18 +9250,18 @@ Dronsfield deltagit.
 
 Myndigheten för samhällsskydd och beredskap
 
-Postadress:  Telefon: 0771-240 240 registrator@msb.se Org.nr: 202100–5984
+Postadress:  Telefon: 0771-240 240 (e-post borttagen) Org.nr: 202100–5984
 651 81 Karlstad Fax: 010-240 56 00 www.msb.se
 Beslutad 2024-05-08 av Mette Lindahl Olsson
 Detta dokument är digitalt beslutat och därför saknas namnunderskrift
 
 <!-- sida 231 -->
 
-Från:          "elizabeth.devlin@trafikverket.se" \<elizabeth.devlin@trafikverket.se>
+Från:          "(e-post borttagen)" \<(e-post borttagen)>
 Skickat:       Mon, 20 May 2024 11:15:12 +0100
-Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>;
-"samhallsbyggnadskontoret@kungsbacka.se" \<samhallsbyggnadskontoret@kungsbacka.se>
-Cc:            "Karlberg Andreas K" \<andreas.k.karlberg@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<(e-post borttagen)>;
+"(e-post borttagen)" \<(e-post borttagen)>
+Cc:            "Karlberg Andreas K" \<(e-post borttagen)>
 Ämne:          TRV 2024/28056 Trafikverkets synpunkter angående fördjupad översiktsplan för
 Kungsbacka stad 2050 i Kungsbacka kommun
 Bilagor:       TRV 2024-28056 Smr ytt v3.pdf
@@ -9277,7 +9277,7 @@ Med vänlig hälsning
 Liz Devlin
 Samhällsplanerare
 
-elizabeth.devlin@trafikverket.se
+(e-post borttagen)
 Direkt: 010-124 27 39
 
 Trafikverket Region Väst
@@ -9295,11 +9295,11 @@ Ert ärendenummer                   Sidor
 1(5)
 
 Kungsbacka Kommun                  Kopia till:
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Länsstyrelsen Hallands län
 Samhällsbyggnadsenheten
-halland@lansstyrelsen.se
+(e-post borttagen)
 
 Trafikverkets synpunkter   angående  fördjupad  översiktsplan  för
 
@@ -9364,8 +9364,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 233 -->
 
@@ -9444,8 +9444,8 @@ T
 maxlängd kö (90-percentil) som är inte nå krav i VGU.
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 234 -->
 
@@ -9521,8 +9521,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 235 -->
 
@@ -9600,8 +9600,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 236 -->
 
@@ -9665,8 +9665,8 @@ D
 T
 Trafikverket         Texttelefon: 0243-750 90 Liz Devlin
 302 50 Halmstad      Telefon: 0771 - 921 921 Planering - Samhällsplanering
-Besöksadress: Linjegatan 7, Halmstad trafikverket@trafikverket.se Direkt: 010-124 27 39
-www.trafikverket.se     Elizabeth.devlin@trafikverket.se
+Besöksadress: Linjegatan 7, Halmstad (e-post borttagen) Direkt: 010-124 27 39
+www.trafikverket.se     (e-post borttagen)
 
 <!-- sida 237 -->
 
@@ -9681,7 +9681,7 @@ Fördjupad översiktsplan för Kungsbacka stad, (FÖP staden)
 Beställare
 
 Namn och roll                 E-postadress
-Emma Kjernald                 emma.kjernald@kungsbacka.se
+Emma Kjernald                 (e-post borttagen)
 
 Status
 

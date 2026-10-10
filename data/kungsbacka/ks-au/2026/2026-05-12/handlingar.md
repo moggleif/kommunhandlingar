@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -3563,7 +3563,7 @@ ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats
 
 Kungsbacka kommun
 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 kungsbacka.se
 
 <!-- sida 84 -->
@@ -3618,7 +3618,7 @@ Kungsbacka kommun                                         Kungsbacka kommun
 Anna Hamrin
 Controller                                                    Besöksadress
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 0300-83 50 55
 www.kungsbacka.se
@@ -5218,7 +5218,7 @@ Den ekonomiska redovisningen av bidrag från kommunen
 Stiftelsen ansvarar för att särredovisa de bidrag som erhålls från kommunen, och
 redovisa dessa särskilt i sin ordinarie uppföljning.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 118 -->
 
@@ -5227,9 +5227,9 @@ Till
 Kungsbacka kommun
 
 Endast per epost till:
-linnea.princis@kungsbacka.se
+(e-post borttagen)
 
-sofia.jonsson@kungsbacka.se
+(e-post borttagen)
 
 Stockholm, 26 januari 2026
 
@@ -5238,7 +5238,7 @@ PROMEMORIA      ANGÅENDE      KOMMUNALA
 STIFTELSERS    RÄTTSLIGA     KLASSIFICERING      M.M.
 
 Hellström Advokatbyrå, Kungsgatan 33, P.O. Box 7305, SE-103 90 Stockholm
-Phone: + 46 8 22 09 00, E-mail: info@hellstromlaw.com, www.hellstromlaw.com
+Phone: + 46 8 22 09 00, E-mail: (e-post borttagen), www.hellstromlaw.com
 
 <!-- sida 119 -->
 
@@ -9152,7 +9152,7 @@ vilket tillgängliggör stationen och gör resor med tåg mer attraktivt. Att se
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9228,7 +9228,7 @@ Ansvarig:         Strategiska enheten, samhällsbyggnadsförvaltningen
 Dokumentet gäller för: Mölndals stad och bolag
 
 Besöksadress: Stadshuset, Göteborgsvägen 11–17 Postadress: Mölndals stad, 431 82 Mölndal
-Telefon: 031-315 10 00 E-post: kontakt@molndal.se
+Telefon: 031-315 10 00 E-post: (e-post borttagen)
 
 <!-- sida 208 -->
 
@@ -11742,11 +11742,11 @@ Kontaktpersoner för samordning I Projektet:
 
 Ellewvio: Karl-Gustav Bergström, projektledare
 kärl-gustäv bergstrom2 1 partners. ellevio.se
-+4676 115 5605
+(mobilnummer borttaget)
 
 Eric Tedfeldt, tearmledare Reglonnätsledningar
 eric.tedfeldt&elevlose
-+4672 52507 31
+(mobilnummer borttaget)
 
 Kungsbacka Kommun: Lena Melvinsdotter, Explosateringsingenjör
 lena melvinsdotter& kungsbacka.se
@@ -12660,7 +12660,7 @@ RER03010        11388, 11389, 11390,
 11391
 Tillstånd och prövning
 Ellevio AB
-res.elleviokoncessioner@ellevio.se
+(e-post borttagen)
 Nätkoncession för linje
 Beslut
 Energimarknadsinspektionen (Ei) beslutar följande.
@@ -13258,7 +13258,7 @@ Projektnamn
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -13416,7 +13416,7 @@ Detaljplan för bostäder och service inom fastigheten Vallda 20:3 med flera i V
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef Lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -14791,7 +14791,7 @@ KÖPEKONTRKT
 
 Säljare:  ..,
 
-Frillesåsvägen 107, 439 63 Frillesås, nedan kallm Säljaren
+(adress borttagen), 439 63 Frillesås, nedan kallm Säljaren
 
 Köpare: Kungsbacka kommun (21 2000-1256), nedan kallad Köparen.
 
