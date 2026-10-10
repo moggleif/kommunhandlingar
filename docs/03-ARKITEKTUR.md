@@ -760,6 +760,37 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
   utan att hämtas igen, och har kvar sin äldre version i `pipeline` tills
   de konverteras om.
 
+### Personuppgifter
+
+Varför står i
+[ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md).
+Konverteringen maskar fyra slags uppgifter i sidans text och i varje
+tabellcell, innan något skrivs. Uppgiften byts mot en markör inom
+parentes; resten av raden står kvar.
+
+| Uppgift      | Känns igen som                                                       | Markör                       |
+| ------------ | -------------------------------------------------------------------- | ---------------------------- |
+| Personnummer | `ÅÅMMDD-NNNN`, `ÅÅMMDD+NNNN`, `ÅÅÅÅMMDD-NNNN` eller `ÅÅÅÅMMDDNNNN` med århundradet 19 eller 20, där månaden och dagen finns (dag 61–91 för samordningsnummer) och kontrollsiffran stämmer | `(personnummer borttaget)` |
+| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av tal | `(mobilnummer borttaget)` |
+| E-postadress | något`@`domän`.`toppdomän                                              | `(e-post borttagen)`         |
+| Gatuadress   | ett gatunamn med nummer, och ibland lägenhetsnummer, som följs av postnummer och ort på samma eller nästa rad | `(adress borttagen)`         |
+
+- **Talen runt omkring** rörs inte. Ett personnummer utan bindestreck
+  med tio siffror känns inte igen, eftersom samma form finns bland
+  beloppen; ett mobilnummer omgivet av fler talgrupper är en del av en
+  tabell, inte ett nummer.
+- **Postnummer och ort** står kvar efter en maskad gatuadress.
+- **Namn och fasta telefonnummer** maskas inte.
+- **Escapad text.** Mönstren tål `\` före `_` i en e-postadress och `<br>`
+  mellan gatuadress och postnummer i en tabellcell, så att samma regel
+  gäller text som redan escapats (ADR-0021).
+- **Poolen** maskas med `python -m kommunhandlingar.maskning data`, som
+  skriver om varje `.md` och CSV där något maskas, utan att hämta PDF:en.
+  `pipeline` rörs inte. En andra körning ändrar ingenting.
+- **Datakontrollen** faller på en fil där maskningen skulle ändra något.
+- **Det som inte känns igen** står kvar: ett nummer som OCR läst fel, som
+  delats av en radbrytning, eller en adress utan postnummer.
+
 ## Steg 2: hämta och konvertera
 
 `python -m kommunhandlingar.hamta kommuner/<kommun>.toml <arbetskatalog>`
