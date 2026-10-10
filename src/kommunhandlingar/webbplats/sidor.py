@@ -71,10 +71,9 @@ def kvalitetstabell(rader: list[Organrad], kommun_id: str) -> str:
     )
 
 
-Tabellrader = list[tuple[Organrad, list[int]]]
-
-
-def tabell(kolumner: list[str], rader: Tabellrader, kommun_id: str) -> str:
+def tabell(
+    kolumner: list[str], rader: list[tuple[Organrad, list[int]]], kommun_id: str
+) -> str:
     huvud = "".join(f'<th scope="col">{escape(k)}</th>' for k in ["Organ", *kolumner])
     kropp = "".join(
         f'<tr><th scope="row"><a href="{kommun_id}/{rad.id}.html">'

@@ -894,7 +894,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
   (`<kommun>/<organ>.html`) och en sida per dokument i poolen, på samma
-  sökväg som under `data/` med `.html` i stället för `.md`. Varje sida har samma meny – startsidan och kommunerna
+  sökväg som under `data/` med `.html` i stället för `.md`. Sidmallen,
+  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
   i bokstavsordning efter id – och en sidfot som länkar till repot och
   säger när sidan byggdes.
 - **Statussidan** räknar ur front matter i varje `.md` under
@@ -915,11 +916,14 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Organets sida** (K17, `webbplats/organsida.py`) listar sammanträdena
   per år, nyast först, och vid två samma dag det med högst löpnummer
   först. Vid varje sammanträde står dess dokument i ordningen ur
-  `kandidat.TYPORDNING`, med kvalitet, `fel` och antal sidor med
-  obekräftade tal, och sedan luckorna (K7) vid sammanträdet.
-- **Dokumentets sida** (K17, `webbplats/dokumentsida.py`) visar
-  härkomsten ur front matter, med källan och `.md` i repot som länkar
-  och sidorna med obekräftade tal som länkar till sidorna. Texten delas
+  `kandidat.TYPORDNING`, det utan namn före de namngivna, med kvalitet
+  och antal sidor med obekräftade tal, och för ett dokument med `fel`
+  felet och en länk till källan. Sist står luckorna (K7) vid
+  sammanträdet.
+- **Dokumentets sida** (K17, `webbplats/dokumentsida.py`) visar hela
+  front matter med fältens namn, i schemats ordning, med källan och
+  `.md` i repot som länkar och sidorna i `tal_obekraftade` som länkar
+  till sidorna. Texten delas
   vid `<!-- sida N -->` och renderas sida för sida
   (`webbplats/text.py`), under en rubrik med ankaret `sida-N`, sidans
   kvalitet ur `kvalitet_per_sida` och, för en sida i `tal_obekraftade`,
@@ -933,7 +937,7 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Statisk:** ingen JavaScript och inga externa resurser. Texten i
   dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
-  blir markup. All annan text går genom `html.escape`, och bara källor
+  blir markup. All annan text ur poolen går genom `html.escape`, och bara källor
   som börjar med `http://` eller `https://` blir länkar. Ingen
   information bärs av färg.
 - **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas

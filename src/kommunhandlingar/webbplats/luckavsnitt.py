@@ -3,7 +3,7 @@
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.luckor import JUSTERING, Lucka
+from kommunhandlingar.webbplats.luckor import JUSTERING, Lucka, motesnamn
 from kommunhandlingar.webbplats.rakning import Organrad
 
 ADR = "/blob/main/docs/decisions/0020-luckor-raknas-fram-lagras-inte.md"
@@ -39,5 +39,5 @@ def kallor(kommun: Kommun, organ_id: str) -> str:
 
 
 def post(lucka: Lucka) -> str:
-    mote = lucka.datum if lucka.lopnr == "null" else f"{lucka.datum}-{lucka.lopnr}"
+    mote = motesnamn(lucka.datum, lucka.lopnr)
     return f"{mote}: {', '.join(lucka.saknas)} saknas"

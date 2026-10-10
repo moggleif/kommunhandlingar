@@ -25,11 +25,11 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
 
 
+# Varje dokuments sida skrivs när det läses, så att poolens text inte hålls
+# i minnet.
 def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     (ut / kommun.id).mkdir(exist_ok=True)
     dokument = []
-    # Varje dokuments sida skrivs när det läses, så att poolens text inte
-    # hålls i minnet.
     for fil in sorted(katalog.rglob("*.md")):
         falt, text = las_dokument(fil, katalog, kommun)
         html = dokumentsida(mall, kommun, falt, text)

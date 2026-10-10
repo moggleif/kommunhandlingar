@@ -81,6 +81,12 @@ def stig(lankar: list[tuple[str, str]]) -> str:
     return f'<nav aria-label="Här är du"><p>{poster}</p></nav>'
 
 
+def lank(adress: str, text: str) -> str:
+    if not adress.startswith(("https://", "http://")):
+        return escape(text)
+    return f'<a href="{escape(adress)}">{escape(text)}</a>'
+
+
 def sidfot(mall: Mall) -> str:
     repo = escape(mall.repo)
     tid = mall.byggd.strftime("%Y-%m-%d %H:%M UTC")

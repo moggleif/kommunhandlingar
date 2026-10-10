@@ -37,3 +37,7 @@ def saknade(datum: str, grupper: list[tuple], idag: date) -> tuple[str, ...]:
     if datum > (idag - JUSTERING).isoformat():
         grupper = [grupp for grupp in grupper if "protokoll" not in grupp]
     return tuple(" och ".join(grupp) for grupp in grupper)
+
+
+def motesnamn(datum: str, lopnr: str) -> str:
+    return datum if lopnr == "null" else f"{datum}-{lopnr}"

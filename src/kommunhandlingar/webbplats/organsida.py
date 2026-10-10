@@ -6,7 +6,8 @@ from html import escape
 from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mall import Mall, sida, stig
+from kommunhandlingar.webbplats.luckor import motesnamn
+from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
 from kommunhandlingar.webbplats.rakning import Organrad
 
 Mote = tuple[str, str]
@@ -20,11 +21,12 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     ar = defaultdict(list)
     for mote in sorted(moten, key=ordning, reverse=True):
         ar[mote[0][:4]].append(motesavsnitt(mote, moten[mote], saknas.get(mote, ())))
-    innehall = stig([(f"../{kommun.id}.html", kommun.namn)]) + (
+    adress = f"{kommun.id}/{rad.id}.html"
+    innehall = stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)]) + (
         "".join(f"<h2>{escape(a)}</h2>{''.join(m)}" for a, m in ar.items())
         or "<p>Inget hämtat än.</p>"
     )
-    return sida(mall, f"{kommun.id}/{rad.id}.html", rad.namn, innehall)
+    return sida(mall, adress, rad.namn, innehall)
 
 
 # Det första sammanträdet en dag har inget löpnummer, nästa har 2 (ADR-0003).
@@ -33,27 +35,30 @@ def ordning(mote: Mote) -> tuple[str, int]:
     return datum, int(lopnr.replace("null", "1"))
 
 
-def motesnamn(mote: Mote) -> str:
-    datum, lopnr = mote
-    return datum if lopnr == "null" else f"{datum}-{lopnr}"
+def dokumentrubrik(d: dict) -> str:
+    return d["typ"] + ("" if d["namn"] == "null" else f" – {d['namn']}")
 
 
 def motesavsnitt(mote: Mote, dokument: list[dict], saknas: tuple[str, ...]) -> str:
-    ordnade = sorted(dokument, key=lambda d: (TYPORDNING.index(d["typ"]), d["namn"]))
+    ordnade = sorted(dokument, key=lambda d: (TYPORDNING.index(d["typ"]), namnet(d)))
     poster = [dokumentpost(d) for d in ordnade]
     poster += [f"{escape(grupp)} saknas" for grupp in saknas]
-    namn = escape(motesnamn(mote))
-    lista_ = "".join(f"<li>{post}</li>" for post in poster)
-    return f'<h3 id="{namn}">{namn}</h3><ul>{lista_}</ul>'
+    namn = escape(motesnamn(*mote))
+    punkter = "".join(f"<li>{post}</li>" for post in poster)
+    return f'<h3 id="{namn}">{namn}</h3><ul>{punkter}</ul>'
+
+
+# Dokumentet utan namn först, sedan de namngivna i bokstavsordning.
+def namnet(d: dict) -> tuple[bool, str]:
+    return d["namn"] != "null", d["namn"]
 
 
 def dokumentpost(d: dict) -> str:
-    rubrik = d["typ"] + ("" if d["namn"] == "null" else f" – {d['namn']}")
     rader = [f"kvalitet {d['kvalitet']}"]
-    if d["fel"] != "null":
-        rader.append(f"fel {d['fel']}")
     if obekraftade := len(lista(d["tal_obekraftade"])):
         rader.append(f"obekräftade tal på {obekraftade} sidor")
-    return f'<a href="{escape(d["adress"])}">{escape(rubrik)}</a>: ' + escape(
-        ", ".join(rader)
-    )
+    post = f'<a href="{escape(d["adress"])}">{escape(dokumentrubrik(d))}</a>: '
+    post += escape(", ".join(rader))
+    if d["fel"] != "null":
+        post += f", fel {escape(d['fel'])}, " + lank(d["kalla_url"], "källan")
+    return post

@@ -38,6 +38,10 @@ def las(text: str) -> dict[str, str]:
     return dict(rad.split(": ", 1) for rad in huvud.splitlines())
 
 
+def brodtext(text: str) -> str:
+    return text.split("---\n", 2)[2]
+
+
 def lista(varde: str) -> list[str]:
     if varde == "null":
         return []

@@ -26,7 +26,7 @@ Text
 <!-- sida 2 -->
 
 ````osaker-tabell
-Kolla   86%
+Exempel   86%
 ````
 """
 
@@ -62,6 +62,15 @@ class TestOrgansida(unittest.TestCase):
         )
         self.assertIn("kvalitet ocr, obekräftade tal på 2 sidor", html)
 
+    def test_dokument_utan_namn_fore_de_namngivna(self):
+        html = self.organsida(
+            las(
+                dokument(namn="a-bilaga"), "fsn/2024/2024-05-02/protokoll-a-bilaga.html"
+            ),
+            las(dokument()),
+        )
+        self.assertLess(html.index(">protokoll<"), html.index(">protokoll – a-bilaga<"))
+
     def test_luckan_star_vid_sammantradet(self):
         html = self.organsida(
             las(dokument(datum="2024-05-02", typ="kallelse")),
@@ -73,7 +82,11 @@ class TestOrgansida(unittest.TestCase):
 
     def test_ej_hamtad_syns_med_felet(self):
         html = self.organsida(las(dokument(kvalitet="ej-hamtad", fel="robots")))
-        self.assertIn("kvalitet ej-hamtad, fel robots", html)
+        self.assertIn(
+            'kvalitet ej-hamtad, fel robots, <a href="https://exempelby.se/protokoll.pdf">'
+            "källan</a>",
+            html,
+        )
 
     def test_organ_utan_dokument(self):
         self.assertIn("Inget hämtat än.", self.organsida())
@@ -107,7 +120,7 @@ class TestDokumentsida(unittest.TestCase):
     def test_osaker_tabell_marks(self):
         html = self.dokumentsida(dokument(text=TABELL))
         self.assertIn("Osäker tabell, med uppställningen som på sidan:", html)
-        self.assertIn("Kolla   86%", html)
+        self.assertIn("Exempel   86%", html)
 
     def test_html_i_texten_blir_text(self):
         text = "<!-- sida 1 -->\n\n<script>alert(1)</script>\n\n<!-- sida 2 -->\n"
@@ -126,7 +139,7 @@ class TestDokumentsida(unittest.TestCase):
             )
         )
         self.assertIn("Dokumentet har ingen text.", html)
-        self.assertIn("<dd>robots</dd>", html)
+        self.assertIn("<dt>fel</dt><dd>robots</dd>", html)
 
 
 class TestBygg(unittest.TestCase):

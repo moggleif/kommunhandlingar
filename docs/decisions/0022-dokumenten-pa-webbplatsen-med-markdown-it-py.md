@@ -14,8 +14,8 @@ Webbplatsen visar en statussida per kommun som räknar dokumenten
 men inget dokument går att läsa där
 ([#55](https://github.com/moggleif/kommunhandlingar/issues/55)). Poolens
 text är riktig Markdown sedan
-[ADR-0021](0021-texten-ar-riktig-markdown.md). Hur blir omkring 1 300
-dokument och 14 000 tabeller läsbara på webbplatsen, och vad renderar
+[ADR-0021](0021-texten-ar-riktig-markdown.md). Hur blir omkring 1 600
+dokument och 17 000 tabeller läsbara på webbplatsen, och vad renderar
 Markdown-texten till HTML? ADR-0012 sa att webbplatsen byggs med bara
 standardbiblioteket.
 
@@ -65,7 +65,7 @@ den är riktig.
 * Dåligt, eftersom webbplatsen får ett beroende, och bygget installerar
   det. Det är litet, rent Python och MIT-licensierat.
 * Dåligt, eftersom bygget renderar omkring 160 MB text, ett par minuter
-  i Actions, och webbplatsen blir omkring 200 MB. Gränsen på GitHub
+  i Actions, och webbplatsen blir omkring 250 MB. Gränsen på GitHub
   Pages är 1 GB.
 * Neutralt, eftersom sök inte ingår
   ([#67](https://github.com/moggleif/kommunhandlingar/issues/67)).

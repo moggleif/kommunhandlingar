@@ -7,6 +7,7 @@ from html import escape
 
 from markdown_it import MarkdownIt
 
+from kommunhandlingar import frontmatter
 from kommunhandlingar.frontmatter import lista
 
 # HTML i källan är avslaget, så att inget ur poolen kan bli markup.
@@ -18,17 +19,17 @@ OSAKER_MARKERAD = (
 )
 
 
-def sidor(text: str, falt: dict[str, str]) -> str:
-    delar = SIDA.split(text.split("---\n", 2)[2])
+def pdfsidor(text: str, falt: dict[str, str]) -> str:
+    delar = SIDA.split(frontmatter.brodtext(text))
     kvalitet = lista(falt["kvalitet_per_sida"])
     obekraftade = set(lista(falt["tal_obekraftade"]))
     return "".join(
-        sida(nr, markdown, kvalitet[int(nr) - 1], nr in obekraftade)
+        pdfsida(nr, markdown, kvalitet[int(nr) - 1], nr in obekraftade)
         for nr, markdown in zip(delar[1::2], delar[2::2], strict=True)
     )
 
 
-def sida(nr: str, markdown: str, kvalitet: str, obekraftad: bool) -> str:
+def pdfsida(nr: str, markdown: str, kvalitet: str, obekraftad: bool) -> str:
     markering = f"Kvalitet: {kvalitet}." + (
         " Talen på sidan är obekräftade." if obekraftad else ""
     )
