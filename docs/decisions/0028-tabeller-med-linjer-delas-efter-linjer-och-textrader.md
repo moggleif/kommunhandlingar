@@ -1,5 +1,5 @@
 ---
-status: accepted
+status: proposed
 date: 2026-10-11
 decision-makers: projektägaren
 consulted: AI-agenten
@@ -115,6 +115,12 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 * Dåligt, eftersom en sammanslagen cell med bara tal, som `2026 | 8 132`,
   delas i varje rad, också när ett av talen är ett år som hör till
   rubriken. Det är så en människa läser raden, men ingen linje säger det.
+* Dåligt, eftersom en etikett som bryts över två rader bredvid två
+  staplade tal, som `Kostnader för⏎verksamheten` bredvid ett värde och
+  dess andel, blir två rader med var sin halva av etiketten. Tabellerna
+  utan lodräta linjer (ADR-0016) läser samma ruta likadant i dag, så en
+  regel för det hör hemma i båda
+  ([#97](https://github.com/moggleif/kommunhandlingar/issues/97)).
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 
@@ -228,6 +234,13 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
     som en rubrik, eftersom båda har siffror. En rubrikcell får därför
     inget fält som bara är ett tal. Varvet visade också villkor som
     saknade test; de fick test.
+11. **Sjätte granskningsvarvet** hittade att ett streck i stället för
+    ett tal slapp höjdprövningen, så att två streck ur olika rader kunde
+    hamna på samma rad. Ett streck prövas nu som ett tal. Varvet hittade
+    också den ombrutna etiketten bredvid ett värde och dess andel. Att
+    vägra dela när etikettens sista rad börjar med liten bokstav prövades,
+    men då läste tabellerna utan lodräta linjer samma ruta på samma sätt,
+    så regeln gav ingenting och flyttades till ett eget issue.
 
 ### Mätningen
 

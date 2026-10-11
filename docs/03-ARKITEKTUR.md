@@ -687,12 +687,12 @@ blir en säker tabell bara när varje steg går ihop:
    fält ska ligga inom en kolumn; ett fält som går över en
    kolumngräns, som en etikett som är längre än sin kolumn, gör att
    tabellen inte delas. En sådan cell delas bara när
-   - den saknar siffror,
+   - den saknar tal, alltså siffror och streck som står för ett tal,
    - den går över hela tabellens bredd,
    - den får text i varje kolumn den täcker och varje fält är ett tal,
      som `1,0 | 0,0`, eller
    - den står i tabellens första rad, får text i varje kolumn den täcker,
-     har en siffra i varje textrad och inget fält som bara är ett tal,
+     har ett tal i varje textrad och inget fält som bara är ett tal,
      som rubriken `Bokslut 2025 | Budget 2026`.
 
    Ett ensamt tal, eller en etikett och ett tal som `2026-27: 8 132`, i
@@ -703,9 +703,10 @@ blir en säker tabell bara när varje steg går ihop:
    rad, när de står på samma höjd (högst 3 punkter isär) och ingen av
    dem rymmer mer än ett tal. Det som står ovanför prövas på samma sätt.
    När inget i det rymmer mer än ett tal blir det en rad, om varje
-   textrad med en siffra står på samma höjd och varje cell som inte är
-   tom har en textrad på den höjden; text utan siffror kan stå på olika
-   höjder. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med
+   textrad med ett tal står på samma höjd och varje cell som inte är
+   tom har en textrad på den höjden; text utan tal kan stå på olika
+   höjder. Ett tal är här en siffra, eller ett streck som står för ett
+   tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med
    etiketten på värdets höjd en rubrikrad och en värderad.
 4. **En rad utan flera tal i en cell** står som den är, med cellens
    textrader åtskilda av radbrytningar. Har den en cell som delats i

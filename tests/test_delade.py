@@ -147,6 +147,10 @@ class TestDela(unittest.TestCase):
         self.assertIsNone(dela(platser, {"hel"}, False))
         self.assertEqual(dela(platser, {"hel"}, True), [["Övrigt", "2 233", "-2 001"]])
 
+    def test_streck_provas_pa_hojd_som_tal(self):
+        platser = rutor([(0, "Intäkter"), (10, "Kostnader")], [(0, "-")], [(10, "-")])
+        self.assertIsNone(dela(platser, {"hel"}, False))
+
     def test_forsta_raden_med_tva_etiketter_ger_ingen_rad(self):
         platser = rutor(
             [(0, "Intäkter"), (10, "Övrigt")], [(0, "4 078")], [(10, "-2 001")]

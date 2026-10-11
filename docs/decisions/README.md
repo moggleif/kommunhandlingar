@@ -53,4 +53,4 @@ Regler för det här repot, utöver MADR:
 | 0024 | [En tabell som fortsätter på nästa sida slås ihop vid konverteringen när ingenting står emellan, och filnamnet anger sidorna](0024-tabeller-over-flera-sidor-slas-ihop.md) | accepted |
 | 0025 | [Konverteringen mäts mot ett facit för utdrag ur riktiga handlingar, och måtten för varje version låses i en fil som testet prövar](0025-facit-for-konverteringen.md) | proposed |
 | 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | proposed |
-| 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | accepted |
+| 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | proposed |

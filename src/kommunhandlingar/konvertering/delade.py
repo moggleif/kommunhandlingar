@@ -28,8 +28,10 @@ class Textrad:
         return " ".join(self.falt)
 
     @property
-    def har_siffra(self) -> bool:
-        return any(c.isdigit() for c in self.text)
+    def har_tal(self) -> bool:
+        """En siffra, eller ett streck som står för ett tal."""
+        siffra = any(c.isdigit() for c in self.text)
+        return siffra or any(TALRAD.fullmatch(f) for f in self.falt)
 
 
 def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
@@ -91,7 +93,7 @@ def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | No
     kolumner = {i for i, _ in ut}
     if None in kolumner:
         return "", None
-    if not any(r.har_siffra for _, r in ut):
+    if not any(r.har_tal for _, r in ut):
         return "text", ut
     tackta_kolumner = tackta(cell, granser)
     if tackta_kolumner == range(len(granser) - 1):
@@ -102,11 +104,12 @@ def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | No
 
 def fylld(textrader: list[Textrad]) -> str:
     """`tal` när varje fält är ett tal, `rubrik` när varje textrad har en
-    siffra och inget fält är bara ett tal, som `Bokslut 2025`."""
+    siffra eller ett streck och inget fält är bara ett tal, som
+    `Bokslut 2025`."""
     tal = [bool(TALRAD.fullmatch(f)) for r in textrader for f in r.falt]
     if all(tal):
         return "tal"
-    return "rubrik" if all(r.har_siffra for r in textrader) and not any(tal) else ""
+    return "rubrik" if all(r.har_tal for r in textrader) and not any(tal) else ""
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
@@ -141,7 +144,7 @@ def dela(platser: list[list[Textrad]], slag: set[str], forsta: bool) -> list | N
 def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
     """Den nedersta textraden blir en egen rad när den står på samma höjd
     i varje cell som inte är tom. Det som står ovanför blir en rad när
-    varje textrad med en siffra står på samma höjd som en textrad i
+    varje textrad med ett tal står på samma höjd som en textrad i
     varje cell."""
     if not flera(platser):
         return [celler(platser)] if talen_i_hojd(platser) else None
@@ -154,7 +157,7 @@ def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
 
 
 def talen_i_hojd(platser: list[list[Textrad]]) -> bool:
-    hojder = [r.topp for p in platser for r in p if r.har_siffra]
+    hojder = [r.topp for p in platser for r in p if r.har_tal]
     if not hojder:
         return True
     if max(hojder) - min(hojder) > RADTOLERANS:
