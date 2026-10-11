@@ -32,6 +32,8 @@ TALRAD = re.compile(rf"{TALET}|[-−–]", re.IGNORECASE)
 ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
 VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
+# En fotnotsstjärna direkt efter en siffra, som i `4 078*`.
+FOTNOT = re.compile(r"(?<=\d)\*+")
 
 
 def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
@@ -68,7 +70,7 @@ def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
 
 
 def flera_tal(cell: str) -> bool:
-    rader_ = [r.strip() for r in cell.split("\n")]
+    rader_ = [FOTNOT.sub("", r).strip() for r in cell.split("\n")]
     med_tal = sum(
         1 for r in rader_ if TALRAD.fullmatch(r) or ETIKETT_OCH_TAL.fullmatch(r)
     )
@@ -88,12 +90,14 @@ def flera_falt(ord_: list[dict]) -> bool:
     """Två fält på samma rad i cellen som var för sig är ett tal eller ett
     streck."""
     for rad in radvis(ord_):
-        if (
-            sum(1 for f in falt(rad, dela_tvetydiga=True) if TALRAD.fullmatch(f.text))
-            > 1
-        ):
+        if sum(1 for f in falt(rad, dela_tvetydiga=True) if ar_tal(f.text)) > 1:
             return True
     return False
+
+
+def ar_tal(text: str) -> bool:
+    """Ett tal eller ett streck, med eller utan fotnotsstjärna."""
+    return TALRAD.fullmatch(FOTNOT.sub("", text)) is not None
 
 
 def mitt(objekt: dict) -> tuple[float, float]:

@@ -12,7 +12,13 @@ from itertools import pairwise
 from pdfplumber.table import Table
 
 from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
-from kommunhandlingar.konvertering.tabeller import TALRAD, flera_tal, inom, mitt
+from kommunhandlingar.konvertering.tabeller import (
+    TALRAD,
+    ar_tal,
+    flera_tal,
+    inom,
+    mitt,
+)
 
 # Hur långt, i punkter, en kant eller ett fält får ligga från en kolumngräns.
 I_LINJE = 2
@@ -176,4 +182,4 @@ def flera(platser: list[list[Textrad]]) -> bool:
     if any(map(flera_tal, celler(platser))):
         return True
     rader = (r for p in platser for r in p)
-    return any(sum(1 for f in r.falt if TALRAD.fullmatch(f)) > 1 for r in rader)
+    return any(sum(1 for f in r.falt if ar_tal(f)) > 1 for r in rader)

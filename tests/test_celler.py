@@ -10,6 +10,9 @@ from kommunhandlingar.konvertering.tabeller import flera_falt, flera_tal
 
 FLERA = [
     "4 078\n4 054",
+    "4 078*\n-2 001*",
+    "4 078**\n4 054",
+    "Utfall 2022*\n50,1*",
     "2025\n14",
     "65,0 70,0 75,0",
     "1 2",
@@ -49,6 +52,7 @@ ETT = [
     "2.2.18",
     "-2 108.1",
     "4 078 kr",
+    "4 078*",
     "10 kap 1 och 2",
     "5 år (dag 5,15 och\n25 bevaras)",
     "15 maj\n2024",
@@ -77,6 +81,9 @@ class TestCeller(unittest.TestCase):
         self.assertTrue(flera_falt([ord_("120", 0, 15), ord_("135", 25, 40)]))
         kr = [ord_("1", 0, 5), ord_("200", 7, 22), ord_("kr", 24, 34)]
         self.assertTrue(flera_falt([*kr, ord_("-", 50, 54)]))
+
+    def test_fotnotsstjarna_efter_talen_ar_flera_tal(self):
+        self.assertTrue(flera_falt([ord_("120*", 0, 15), ord_("135*", 25, 40)]))
 
     def test_tvetydigt_mellanrum_ar_en_grans(self):
         ca = [ord_("ca", 0, 10), ord_("2", 17, 22), ord_("445", 24, 39)]
