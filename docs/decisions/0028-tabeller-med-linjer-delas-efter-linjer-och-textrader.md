@@ -95,7 +95,8 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 Tester mot en PDF i `tests/fixtures/pdf/delade.pdf` med en rubrikrad
 utan lodräta linjer, tre rader i en ruta, rubrik och värde i samma
 ruta, en etikett mitt emellan två tal och en etikett över en linje, och
-enhetstester av raddelningen. Mätningen på stickprovet står nedan.
+enhetstester av raddelningen. Facit (K20) mäts före och efter, och
+mätningen på stickprovet står nedan.
 
 ## Pros and Cons of the Options
 
@@ -161,6 +162,10 @@ lägen, och där tabellen har en summarad stämdes den av. De tolv som
 förblev osäkra är nio textrutor, som delegeringslistor, ärendelistor
 och handlingsplaner, som ska förbli osäkra, och tre där en rubrik står
 över en kolumngräns, till exempel ett år mitt över två kolumner.
+
+Facit ([ADR-0025](0025-facit-for-konverteringen.md)): en tabell till
+blev rätt, skuggbudgetens, och de osäkra gick från två till en. Inga
+andra mått ändrades (`tests/fixtures/facit/matt.csv`, 0.6.0 mot 0.7.0).
 
 Ompröva beslutet när facit (#61) visar fel i delade tabeller, eller när
 tabellerna utan lodräta linjer mellan talen får en egen regel.
