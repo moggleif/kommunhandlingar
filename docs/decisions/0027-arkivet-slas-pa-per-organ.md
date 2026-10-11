@@ -1,5 +1,5 @@
 ---
-status: accepted
+status: proposed
 date: 2026-10-11
 decision-makers: projektägaren
 consulted: AI-agenten
@@ -11,11 +11,12 @@ consulted: AI-agenten
 
 Enligt [ADR-0018](0018-wayback-sist-nyast-forst-och-bara-luckor.md) slås
 Internet Archive på per källa med `wayback = true`, och arkivets lista tas
-nyast först för alla organ. Kungsbackas källa har 17 mötessidor och
-Sitevision-generationen 2021–2023 omkring 1 400 filer i arkivet. Ägaren
-vill ha alla dokument för Gymnasium & Arbetsmarknad (`ga`) ur arkiven,
-cirka 65 filer, utan att resten av arkivet hämtas innan konverteringen är
-färdig ([#87](https://github.com/moggleif/kommunhandlingar/issues/87)).
+nyast först för alla organ. Kungsbackas källa har 17 mötessidor, och
+arkivet har långt fler filer från dem än från Gymnasium & Arbetsmarknad
+(`ga`) ensamt ([täckningen](../kallor/kungsbacka.md#täckning)). Ägaren
+vill ha alla dokument för `ga` ur arkiven, utan att resten av arkivet
+hämtas innan konverteringen är färdig
+([#87](https://github.com/moggleif/kommunhandlingar/issues/87)).
 
 Hur slås arkivet på för ett organ, men inte för de andra i samma källa?
 
@@ -95,7 +96,7 @@ okänt organ eller ett värde som inte är en lista stoppar körningen.
 
 Ägaren bad 2026-10-11 om alla dokument för Gymnasium & Arbetsmarknad,
 "tillbaka till 2010 eller vad vi kunde finna". Agenten jämförde först den
-levande mötessidan med poolen: alla 98 filer fanns redan. Det som finns
+levande mötessidan med poolen samma dag: alla filer på sidan fanns redan. Det som finns
 utöver dem ligger i arkivet: Sitevision 2021–2023, som koden redan läser,
 och två äldre Episerver-generationer 2013–2022, som kräver en ny adapter.
 Agenten föreslog att dela upp arbetet: arkivet per organ nu, så att

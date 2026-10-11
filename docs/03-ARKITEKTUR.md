@@ -388,7 +388,8 @@ stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
 ### Arkivet
 
 Hur och varför står i
-[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md),
+[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)
+och [ADR-0027](decisions/0027-arkivet-slas-pa-per-organ.md),
 och beteendet i K16.
 `python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>
 --arkiv --start <N>` skriver `<arbetskatalog>/<kommun>.arkiv.kandidater.json`

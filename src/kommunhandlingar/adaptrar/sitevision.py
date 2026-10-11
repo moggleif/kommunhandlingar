@@ -37,11 +37,13 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
         ),
         monster.manader(post, var),
         rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
-        wayback(schema.textlista(post, "wayback", var), motessidor, var),
+        arkivorgan(schema.textlista(post, "wayback", var), motessidor, var),
     )
 
 
-def wayback(organ: tuple[str, ...], motessidor: dict[str, str], var: str):
+def arkivorgan(
+    organ: tuple[str, ...], motessidor: dict[str, str], var: str
+) -> tuple[str, ...]:
     if okanda := set(organ) - motessidor.keys():
         raise Konfigurationsfel(f"{var}: wayback {sorted(okanda)} saknar mötessida")
     return organ

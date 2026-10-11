@@ -90,6 +90,13 @@ class TestFelStopparKorningen(unittest.TestCase):
         self.stoppas(lambda d: d["kalla"][0].update(wayback=True))
         self.stoppas(lambda d: d["kalla"][0].update(wayback=["okant"]))
 
+    def test_wayback_med_organ_utan_motessida(self):
+        def utan_sida(data):
+            del data["kalla"][0]["sidor"]["fsn"]
+            data["kalla"][0]["wayback"] = ["fsn"]
+
+        self.stoppas(utan_sida)
+
     def test_omkonvertera_ar_sant_eller_falskt(self):
         self.stoppas(lambda d: d.update(omkonvertera="nej"))
 

@@ -216,9 +216,8 @@ politik-repot fick 404 på `globalassets`-adresserna.
 
 Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
 ([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
-och slås på per organ
-([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)). Sedan
-2026-10-11 hämtas Gymnasium & Arbetsmarknad (`wayback = ["ga"]`); övriga
+och slås på per organ i kommunfilens `wayback`
+([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)); övriga
 organ väntar tills konverteringen är färdig. De två
 Episerver-generationerna hämtas inte än.
 
