@@ -720,8 +720,9 @@ blir en säker tabell bara när varje steg går ihop:
    `Prognos⏎2024` bredvid `2023`.
 
 En etikett som står på en annan höjd än sina tal, tal ur olika rader
-som skulle hamna på samma rad, eller två tal på samma textrad i en
-kolumn gör att tabellen inte delas. En tom rad står kvar som i en tabell
+som skulle hamna på samma rad, två tal på samma textrad i en kolumn,
+eller ett ord vars tecken står i olika celler, som etiketterna i ett
+diagram vars rutnät läses som en tabell, gör att tabellen inte delas. En tom rad står kvar som i en tabell
 med linjer.
 
 Den delade tabellens kolumngränser för

@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0028. Test: tests/test_delade.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0028. Test: tests/test_delade.py och
+tests/test_delade_kolumner.py.
 
 En tabell med linjer där en cell rymmer mer än ett tal delas, i stället
 för att fällas, när det går ihop: kolumnerna efter de lodräta linjer som
@@ -37,6 +38,8 @@ class Textrad:
 def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     """Raderna, och kolumnernas vänsterkanter och tabellens högerkant
     (K19); None när tabellen inte går att dela."""
+    if any(over_linje(o, t.cells) for o in ord_):
+        return None
     granser = kolumngranser(t)
     rader: list[list[str]] = []
     for nr, rad in enumerate(t.rows):
@@ -46,6 +49,13 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
             return None
         rader += delrader
     return rader, granser
+
+
+def over_linje(o: dict, celler: list[tuple]) -> bool:
+    """Ett ord vars tecken står i olika celler, som en etikett i ett
+    diagram vars rutnät pdfplumber läser som en tabell."""
+    i_celler = {i for t in o["chars"] for i, c in enumerate(celler) if inom(mitt(t), c)}
+    return len(i_celler) > 1
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:
