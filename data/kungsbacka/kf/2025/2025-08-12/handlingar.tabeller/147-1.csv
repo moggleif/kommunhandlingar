@@ -1,0 +1,47 @@
+"Avgift för sotning och rengöring
+För inställelse inom fastighet för sotning utgår avgift för aktuellt objekt enligt pris angivet i avsnitt 1. Avgiften debiteras
+fastighetsägaren. Enbart ett Grundobjekt per bostad kan debiteras, dock kan ett eller flera tilläggsobjekt tillkomma.
+För inställelse inom fastighet för rengöring av imkanal utgår avgift enligt pris angivet i avsnitt 2. Avgiften debiteras
+fastighetsägaren. I avgiften ingår kostnaden för den tekniska utrustning som rengöringen kräver samt för allt
+förbrukningsmaterial såsom rengöringsmedel, täckplast etcetera.",,
+Sotning,"Kronor
+exklusive moms","Kronor
+inklusive moms"
+"Grundobjekt 1 inklusive inställelse
+Avser lokaleldstad i en- och tvåbostadshus, radhus, kedjehus samt fritidshus med en
+skorsten och en eller flera rökkanaler.",382,"477,50"
+"Grundobjekt 2 inklusive inställelse
+Avser objekt i en- och tvåbostadshus, radhus, kedjehus samt fritidshus med flera
+skorstenar oavsett antal rökkanaler samt alla värmepannor upp till 60 kWh oavsett
+flytande eller fast bränsle.",424,"530,00"
+"Tilläggsobjekt för Grundobjekt 1 och 2
+Tillägg för ytterligare lokaleldstad eller värmepanna inom respektive bostad oavsett
+utförande av ovanstående grundobjekt.",119,"148,75"
+"Objekt i flerbostadshus, värmepannor över 60 kWh samt övrigt
+Avgiften avser sotning av flerbostadshus, värmepannor överstigande 60 kWh samt övrigt
+som inte inryms under Grundobjekt 1 och 2. Ersättning uttas för faktisk tidsåtgång per
+person och timme. Tidsåtgången räknas från ankomst tills sotningen slutförts.
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.","480 per
+timme","600,00 per
+timme"
+"Inställelseavgift – flerbostadshus, värmepannor över 60 kWh samt övrigt
+Inställelseavgiften avser sotning enligt punkt 1.4 och 1.6 samt uttas per person och
+tillfälle.
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta.",159,"198,75"
+"Beställt arbete
+För annat av kunden beställt arbete inom ramen för den föreskrivna sotningen enligt
+LSO, uttas en inställelseavgift enligt 1.5 samt ersättning för faktisk tidsåtgång per person
+och timme. Tidsåtgången räknas från ankomst tills sotningen slutförts.","480 per
+timme","600,00 per
+timme"
+"Avgift för ej tillträde
+Då sotningen inte kunnat utföras pga. att det inte getts tillträde till fastigheten enligt
+avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift för det
+aviserade besöket per person.
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta.",159,"198,75"
+"Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar
+före aviserat besök, uttas en grundavgift.",159,"198,75"
