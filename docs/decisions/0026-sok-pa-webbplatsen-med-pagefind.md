@@ -53,17 +53,17 @@ dokumentet och håller varje sökning liten, utan egen sökkod.
 * **Märkningen:** träffens titel är dokumentets rubrik och, när
   kvaliteten inte är `full`, kvaliteten. En sida i `tal_obekraftade` har
   "obekräftade tal" i sin rubrik, så att det står vid träffen på den
-  sidan. En osäker tabell märks inte per sida i träfflistan: dokumentets
-  kvalitet i titeln (`text-utan-tabeller`) säger att den finns, och på
-  sidan står den märkt som förut (K18).
+  sidan. En osäker tabell märks inte per sida i träfflistan: ett dokument
+  med en osäker tabell har aldrig kvaliteten `full`, så kvaliteten står i
+  titeln, och på sidan står tabellen märkt som förut (K18).
 * **Filter** för organ, år, typ och kvalitet sätts i dokumentsidan med
   Pagefinds attribut.
 * **JavaScript bara på söksidan** (`sok.html`), med Pagefinds färdiga
   sökruta (Default UI) och filerna från webbplatsen själv. Pagefind
   rekommenderar sedan version 1.5 sina webbkomponenter för nya
   webbplatser, med bättre tillgänglighet; Default UI valdes för att det
-  är en rad att sätta upp, och bytet prövas om tillgängligheten brister. Alla andra sidor är som
-  förut utan JavaScript, och söksidan säger vad som krävs när JavaScript
+  är en rad att sätta upp, och bytet prövas om tillgängligheten brister.
+  Alla andra sidor är som förut utan JavaScript, och söksidan säger vad som krävs när JavaScript
   saknas. Det ändrar ADR-0012 på den punkten.
 * **Pagefind** (MIT) installeras i bygget som Python-paket med det
   förbyggda programmet, i en egen grupp av beroenden (`webbplats`).

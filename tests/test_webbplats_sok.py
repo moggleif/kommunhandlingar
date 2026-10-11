@@ -9,6 +9,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
+from kommunhandlingar import frontmatter
 from kommunhandlingar.webbplats import sidor
 from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
@@ -32,8 +33,9 @@ def indexera(*texter: str) -> list[dict]:
         rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
         (rot / "kommuner").mkdir(parents=True)
         shutil.copy(FIXTURER / "exempelby.toml", rot / "kommuner")
-        for nr, text in enumerate(texter):
-            mote = rot / "data" / "exempelby" / "fsn" / "2024" / f"2024-05-0{nr + 1}"
+        for text in texter:
+            datum = frontmatter.las(text)["datum"]
+            mote = rot / "data" / "exempelby" / "fsn" / datum[:4] / datum
             mote.mkdir(parents=True)
             (mote / "protokoll.md").write_text(text, encoding="utf-8")
         bygg(rot, ut, REPO, TID)
