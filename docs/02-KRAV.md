@@ -92,7 +92,17 @@ kunna läggas till utan kodändring.
 - **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
   Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
   kolumn; annars står de kvar i texten.
-- **Givet** en tabell med linjer där en cell rymmer mer än ett tal
+- **Givet** en tabell med linjer där en cell rymmer mer än ett tal,
+  därför att en rad saknar de lodräta linjer som tabellens andra rader
+  har, eller därför att en vågrät linje saknas mellan rader vars text
+  står på samma höjd i varje cell
+- **Så** delas den efter linjerna i de andra raderna och efter textraderna
+  (issue [#60](https://github.com/moggleif/kommunhandlingar/issues/60)),
+  och blir CSV med varje tal i en egen cell. En rubrik och ett värde i
+  samma cell blir en rubrikrad och en värderad.
+- **Givet** en tabell med linjer där en cell rymmer mer än ett tal och
+  inte går att dela så, till exempel för att etiketten står mitt emellan
+  två tal eller en text går över en linje
 - **Så** går den inte att läsa säkert med linjerna som cellgränser. Det
   som inte går att läsa som en tabell utan lodräta linjer står kvar i
   sidans text, och står en siffra ur tabellen där märks sidan

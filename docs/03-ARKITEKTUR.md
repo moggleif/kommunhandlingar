@@ -500,8 +500,9 @@ källnyckeln och försöket
 
 Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
 dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md),
-för tabellerna i [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md)
-och [ADR-0024](decisions/0024-tabeller-over-flera-sidor-slas-ihop.md)
+för tabellerna i [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md),
+[ADR-0024](decisions/0024-tabeller-over-flera-sidor-slas-ihop.md)
+och [ADR-0028](decisions/0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md)
 och för figurerna i [ADR-0017](decisions/0017-figurer-marks-och-tolkas-i-efterhand.md).
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
@@ -586,7 +587,9 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
     och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
 
   Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
-  samma cell. En sådan tabell blir ingen CSV. Står en siffra ur den
+  samma cell. En sådan tabell delas när det går, enligt
+  [Tabeller med linjer och flera tal i en cell](#tabeller-med-linjer-och-flera-tal-i-en-cell),
+  och blir då en säker tabell. Annars blir den ingen CSV. Står en siffra ur den
   utanför de tabeller som lästs säkert, också när en del av den lästs
   som en tabell utan lodräta linjer, blir sidan `tabell-osaker`, och
   texten står kvar i sidans text.
@@ -662,6 +665,41 @@ Bilder och objekt med mittpunkten i en säker tabell räknas inte. En
 rektangel syns när den har en kantlinje eller en fyllning som inte är
 vit. En stapel med talet inuti räknas inte, så ett diagram med talen i
 staplarna kan missas; ett diagram i en skanning hittas inte alls.
+
+### Tabeller med linjer och flera tal i en cell
+
+Varför står i
+[ADR-0028](decisions/0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md).
+En tabell med linjer där en cell rymmer mer än ett tal delas så här, och
+blir en säker tabell bara när varje steg går ihop:
+
+1. **Kolumnerna:** varje cells vänster- och högerkant i hela tabellen är
+   en kolumngräns; kanter högst 2 punkter från varandra är en. Så delas
+   en rad som saknar lodräta linjer, oftast rubrikraden, efter de linjer
+   som finns i tabellens andra rader.
+2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
+   marginal) skrivs i den. En cell som går över flera kolumner delas
+   rad för rad i fält, med fälten avgränsade som i tabellerna utan
+   lodräta linjer och ett tvetydigt mellanrum räknat som en gräns. Varje
+   fält ska ligga inom en kolumn; ett fält som går över en
+   kolumngräns, som en etikett som är längre än sin kolumn, gör att
+   tabellen inte delas.
+3. **Raderna:** en rad där ingen cell, efter steg 1 och 2, rymmer mer än
+   ett tal står som den är, med cellens textrader åtskilda av
+   radbrytningar. Annars delas den nerifrån: den nedersta textraden i
+   varje cell som inte är tom blir en egen rad, när de står på samma
+   höjd (högst 3 punkter isär) och ingen av dem rymmer mer än ett tal.
+   Det som står ovanför prövas på samma sätt, tills inget rymmer mer än
+   ett tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3`
+   med etiketten på värdets höjd en rubrikrad och en värderad. En
+   etikett som står mitt emellan två tal, eller två tal på samma
+   textrad i en kolumn, gör att tabellen inte delas.
+
+Den delade tabellens kolumngränser för
+[Tabeller över flera sidor](#tabeller-över-flera-sidor) är kolumnernas
+vänsterkanter och tabellens högerkant, som för en tabell med linjer.
+En tabell som inte delas prövas som förut: det som går att läsa som en
+tabell utan lodräta linjer blir det, och resten står i sidans text.
 
 ### Tabeller utan lodräta linjer
 
