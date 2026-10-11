@@ -65,15 +65,16 @@ I korthet:
 * **En sammanslagen cell** med en siffra delas bara när den går över
   hela tabellens bredd, eller får text i varje kolumn den täcker och
   bara har tal, eller står i första raden med en siffra i varje
-  textrad, som en rubrik med ett år per kolumn. Ett ensamt tal i en
-  cell som är sammanslagen med flit flyttas inte till en kolumn.
+  textrad och inget fält som bara är ett tal, som `Bokslut 2025 |
+  Budget 2026`. Ett ensamt tal i en cell som är sammanslagen med flit
+  flyttas inte till en kolumn.
 * **Raderna** delas nerifrån: den nedersta textraden blir en egen rad när
   den står på samma höjd i varje ruta som inte är tom. Det som står
   ovanför blir en rad bara när dess textrader med siffror står på samma
   höjd, och varje ruta har en textrad där. En rubrik ovanför ett värde
   blir då en rubrikrad. Samma krav gäller en rad som har en cell som
   delats efter fälten, utom tabellens första rad när dess etikett står
-  på en enda textrad: den antas vara en rubrik i flera rader.
+  på högst en textrad: den antas vara en rubrik i flera rader.
 * **En rad med högst ett tal per cell** delas inte, så en rubrik i två
   rader, `Prognos⏎2024`, står kvar i en cell.
 
@@ -106,9 +107,14 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   intäkterna. Geometriskt är det samma sak som en etikett som bryts över
   två rader, och en tabell med linjer gör likadant i dag.
 * Dåligt, eftersom tabellens första rad antas vara en rubrik när dess
-  etikett står på en enda textrad, så att tal på olika höjder i den blir
-  en rad. Är första raden data utan rubrik, med två värden ur olika
-  rader och bara en etikett, blir de en rad.
+  etikett står på högst en textrad, så att tal på olika höjder i den
+  blir en rad. Är första raden data utan rubrik, med två värden ur olika
+  rader och bara en etikett, blir de en rad. Likaså delas en rubrikcell
+  som `Bokslut 2025 | Budget 2026` i första raden också när raden
+  egentligen är data.
+* Dåligt, eftersom en sammanslagen cell med bara tal, som `2026 | 8 132`,
+  delas i varje rad, också när ett av talen är ett år som hör till
+  rubriken. Det är så en människa läser raden, men ingen linje säger det.
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 
@@ -217,6 +223,11 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    får delas i varje rad, som `1,0 | 0,0` i en investeringstabell utan
    lodräta linjer mellan åren, medan en cell med annan text och siffror
    bara får delas i första raden.
+10. **Femte granskningsvarvet** hittade att en etikett och ett tal,
+    `2026-27: | 8 132`, i en sammanslagen cell i första raden räknades
+    som en rubrik, eftersom båda har siffror. En rubrikcell får därför
+    inget fält som bara är ett tal. Varvet visade också villkor som
+    saknade test; de fick test.
 
 ### Mätningen
 

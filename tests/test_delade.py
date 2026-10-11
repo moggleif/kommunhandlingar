@@ -8,11 +8,12 @@ Sidorna i delade.pdf beskrivs i tests/fixtures/pdf/skapa_delade.py.
 
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 
 import pdfplumber
 
 from kommunhandlingar.konvertering import delade, tabeller
-from kommunhandlingar.konvertering.delade import Textrad, dela, slaget
+from kommunhandlingar.konvertering.delade import Textrad, dela, kolumngranser, slaget
 from kommunhandlingar.konvertering.dokument import konvertera
 
 PDF = Path(__file__).parent / "fixtures" / "pdf" / "delade.pdf"
@@ -152,12 +153,28 @@ class TestDela(unittest.TestCase):
         )
         self.assertIsNone(dela(platser, {"hel"}, True))
 
+    def test_rubrik_med_tom_horna_i_flera_rader(self):
+        platser = rutor([], [(0, "Bokslut"), (10, "2025")], [(0, "Budget")])
+        self.assertEqual(
+            dela(platser, {"egen"}, True), [["", "Bokslut\n2025", "Budget"]]
+        )
+
+    def test_tva_tal_i_skilda_falt_ger_ingen_delning(self):
+        platser = rutor([(0, "Lunch")], [(0, "12|345")])
+        self.assertIsNone(dela(platser, {"egen"}, False))
+
     def test_rubrikcell_under_forsta_raden_ger_ingen_rad(self):
         platser = rutor([(0, "Summa")], [(0, "2026-27:")], [(0, "8 132")])
         self.assertIsNone(dela(platser, {"egen", "rubrik"}, False))
 
 
 GRANSER = (0, 100, 150, 200)
+
+
+class TestKolumngranser(unittest.TestCase):
+    def test_kanter_inom_en_linje_slas_ihop(self):
+        t = SimpleNamespace(cells=[(0, 0, 100, 10), (101.5, 0, 200, 10)])
+        self.assertEqual(kolumngranser(t), (0, 100, 200))
 
 
 class TestSlaget(unittest.TestCase):
@@ -177,9 +194,17 @@ class TestSlaget(unittest.TestCase):
         ut = [(1, Textrad(0, ("1,0",))), (2, Textrad(0, ("0,0",)))]
         self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
 
-    def test_etikett_med_artal_ar_rubrik(self):
-        ut = [(1, Textrad(0, ("2026-27:",))), (2, Textrad(0, ("8 132",)))]
+    def test_etiketter_med_artal_ar_rubrik(self):
+        ut = [(1, Textrad(0, ("Bokslut 2025",))), (2, Textrad(0, ("Budget 2026",)))]
         self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "rubrik")
+
+    def test_etikett_och_tal_ar_ingen_rubrik(self):
+        ut = [(1, Textrad(0, ("2026-27:",))), (2, Textrad(0, ("8 132",)))]
+        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
+
+    def test_falt_utanfor_kolumnerna_delas_inte(self):
+        ut = [(None, Textrad(0, ("8 132",)))]
+        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
 
     def test_ett_tal_per_tackt_kolumn_delas(self):
         ut = [(1, Textrad(0, ("2026",))), (2, Textrad(0, ("2027",)))]

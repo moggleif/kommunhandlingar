@@ -86,22 +86,27 @@ def cellens(cell: tuple, ord_: list[dict], granser: tuple) -> tuple[str, list | 
 
 def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | None]:
     """`text` utan siffror, `hel` över hela bredden, och för en cell med
-    text i varje kolumn den täcker `tal` när varje fält är ett tal och
-    `rubrik` när varje textrad har en siffra. Annars är cellen
-    sammanslagen med flit och går inte att dela."""
+    text i varje kolumn den täcker slaget enligt `fylld`. Annars är
+    cellen sammanslagen med flit och går inte att dela."""
     kolumner = {i for i, _ in ut}
-    tackta_kolumner = tackta(cell, granser)
     if None in kolumner:
         return "", None
     if not any(r.har_siffra for _, r in ut):
         return "text", ut
+    tackta_kolumner = tackta(cell, granser)
     if tackta_kolumner == range(len(granser) - 1):
         return "hel", ut
-    if kolumner != set(tackta_kolumner):
-        return "", None
-    if all(TALRAD.fullmatch(f) for _, r in ut for f in r.falt):
-        return "tal", ut
-    return ("rubrik", ut) if all(r.har_siffra for _, r in ut) else ("", None)
+    slag = fylld([r for _, r in ut]) if kolumner == set(tackta_kolumner) else ""
+    return (slag, ut) if slag else ("", None)
+
+
+def fylld(textrader: list[Textrad]) -> str:
+    """`tal` när varje fält är ett tal, `rubrik` när varje textrad har en
+    siffra och inget fält är bara ett tal, som `Bokslut 2025`."""
+    tal = [bool(TALRAD.fullmatch(f)) for r in textrader for f in r.falt]
+    if all(tal):
+        return "tal"
+    return "rubrik" if all(r.har_siffra for r in textrader) and not any(tal) else ""
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
@@ -122,8 +127,8 @@ def dela(platser: list[list[Textrad]], slag: set[str], forsta: bool) -> list | N
     """Raden som den står när ingen cell rymmer mer än ett tal, annars
     delad nerifrån; None när det inte går ihop. En rubrikcell får bara
     stå i första raden. En rad med en delad cell ska ha sina tal på samma
-    höjd, utom i första raden när etiketten står på en enda textrad: då
-    är den en rubrik i flera rader."""
+    höjd, utom i första raden när den första kolumnen har högst en
+    textrad: då antas den vara en rubrik i flera rader."""
     if "rubrik" in slag and not forsta:
         return None
     if flera(platser):
@@ -138,8 +143,6 @@ def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
     i varje cell som inte är tom. Det som står ovanför blir en rad när
     varje textrad med en siffra står på samma höjd som en textrad i
     varje cell."""
-    if not any(platser):
-        return []
     if not flera(platser):
         return [celler(platser)] if talen_i_hojd(platser) else None
     sista = [p[-1].topp for p in platser if p]

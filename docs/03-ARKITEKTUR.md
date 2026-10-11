@@ -691,8 +691,9 @@ blir en säker tabell bara när varje steg går ihop:
    - den går över hela tabellens bredd,
    - den får text i varje kolumn den täcker och varje fält är ett tal,
      som `1,0 | 0,0`, eller
-   - den står i tabellens första rad, får text i varje kolumn den täcker
-     och har en siffra i varje textrad, som rubriken `2026 | 2027`.
+   - den står i tabellens första rad, får text i varje kolumn den täcker,
+     har en siffra i varje textrad och inget fält som bara är ett tal,
+     som rubriken `Bokslut 2025 | Budget 2026`.
 
    Ett ensamt tal, eller en etikett och ett tal som `2026-27: 8 132`, i
    en cell som är sammanslagen över några kolumner gör att tabellen inte

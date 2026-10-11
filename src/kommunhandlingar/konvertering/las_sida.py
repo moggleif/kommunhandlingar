@@ -1,6 +1,6 @@
 """Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
 ADR-0017, ADR-0022, ADR-0024 och ADR-0028. Test: tests/test_konvertering.py,
-tests/test_maska_poolen.py och tests/test_skarvar.py.
+tests/test_maska_poolen.py, tests/test_skarvar.py och tests/test_delade.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
