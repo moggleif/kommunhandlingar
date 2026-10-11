@@ -12,7 +12,7 @@ from itertools import pairwise
 from pdfplumber.table import Table
 
 from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
-from kommunhandlingar.konvertering.tabeller import TALRAD, flera_tal, inom, mitt
+from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfalt
 
 # Hur långt, i punkter, en kant eller ett fält får ligga från en kolumngräns.
 I_LINJE = 2
@@ -31,7 +31,7 @@ class Textrad:
     def har_tal(self) -> bool:
         """En siffra, eller ett streck som står för ett tal."""
         siffra = any(c.isdigit() for c in self.text)
-        return siffra or any(TALRAD.fullmatch(f) for f in self.falt)
+        return siffra or any(map(talfalt, self.falt))
 
 
 def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
@@ -106,7 +106,7 @@ def fylld(textrader: list[Textrad]) -> str:
     """`tal` när varje fält är ett tal, `rubrik` när varje textrad har en
     siffra eller ett streck och inget fält är bara ett tal, som
     `Bokslut 2025`."""
-    tal = [bool(TALRAD.fullmatch(f)) for r in textrader for f in r.falt]
+    tal = [talfalt(f) for r in textrader for f in r.falt]
     if all(tal):
         return "tal"
     return "rubrik" if all(r.har_tal for r in textrader) and not any(tal) else ""
@@ -176,4 +176,4 @@ def flera(platser: list[list[Textrad]]) -> bool:
     if any(map(flera_tal, celler(platser))):
         return True
     rader = (r for p in platser for r in p)
-    return any(sum(1 for f in r.falt if TALRAD.fullmatch(f)) > 1 for r in rader)
+    return any(sum(1 for f in r.falt if talfalt(f)) > 1 for r in rader)

@@ -116,6 +116,10 @@ class TestDela(unittest.TestCase):
         platser = rutor([(0, "Lunch")], [(0, "1 200 kr|1 300 kr")])
         self.assertIsNone(dela(platser, {"egen"}, False))
 
+    def test_tva_tal_med_fotnotsstjarna_ger_ingen_delning(self):
+        platser = rutor([(0, "Lunch")], [(0, "12*|345*")])
+        self.assertIsNone(dela(platser, {"egen"}, False))
+
     def test_tom_rad_star_kvar(self):
         self.assertEqual(dela(rutor([], []), {"egen"}, False), [["", ""]])
 
@@ -196,6 +200,10 @@ class TestSlaget(unittest.TestCase):
 
     def test_tal_i_varje_tackt_kolumn_ar_tal(self):
         ut = [(1, Textrad(0, ("1,0",))), (2, Textrad(0, ("0,0",)))]
+        self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
+
+    def test_tal_med_fotnotsstjarna_ar_tal(self):
+        ut = [(1, Textrad(0, ("4 078*",))), (2, Textrad(0, ("4 054*",)))]
         self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
 
     def test_etiketter_med_artal_ar_rubrik(self):
