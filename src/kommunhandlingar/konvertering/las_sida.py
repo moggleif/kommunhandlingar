@@ -1,5 +1,5 @@
 """Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
-ADR-0017, ADR-0022 och ADR-0024. Test: tests/test_konvertering.py,
+ADR-0017, ADR-0022, ADR-0024 och ADR-0028. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py och tests/test_skarvar.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
@@ -14,7 +14,14 @@ from dataclasses import dataclass, field, replace
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
-from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering import (
+    delade,
+    figurer,
+    markdown,
+    ocr,
+    olinjerade,
+    tabeller,
+)
 from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
@@ -64,14 +71,13 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
-    linjerade, fallda = tabeller.sakra(sida)
-    rutor = [t.bbox for t in linjerade]
+    hittade, fallda = med_linjer(sida)
+    rutor = [ruta for ruta, _, _ in hittade]
     utan_linjer = olinjerade.tabeller(sida, rutor)
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
     osaker = osaker or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
-    hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in linjerade]
     hittade += [(t.bbox, t.rader, t.kanter) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
@@ -82,6 +88,19 @@ def textsida(sida: Page) -> Sida:
         figurer.har_figur(sida, rutor),
         skarv(utanfor, [(ruta, kanter) for ruta, _, kanter in hittade]),
     )
+
+
+def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
+    """Tabellerna med linjer som ruta, rader och kanter, också de som
+    delats (ADR-0028), och rutorna kring dem som fälldes."""
+    sakra, fallda = tabeller.sakra(sida)
+    hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in sakra]
+    ord_ = sida.extract_words()
+    for t in fallda:
+        delad = delade.tabell(t, ord_)
+        if delad:
+            hittade.append((delad.bbox, delad.rader, delad.kanter))
+    return hittade, [t.bbox for t in fallda]
 
 
 def olast_siffra(tecken: dict, fallda: list[tuple], rutor: list[tuple]) -> bool:
