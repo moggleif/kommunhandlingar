@@ -972,18 +972,23 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 Hur och varför står i
 [ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md)
 och, för dokumenten,
-[ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md).
+[ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md)
+och, för söket,
+[ADR-0026](decisions/0026-sok-pa-webbplatsen-med-pagefind.md).
 Webbplatsen är statisk HTML som byggs av
 `python -m kommunhandlingar.webbplats <utkatalog> <repoadress>` och
 publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid varje
-push till `main` och för hand. Inget av det som byggs checkas in.
+push till `main` och för hand. Där indexerar Pagefind sedan den byggda
+webbplatsen, `python -m pagefind --site <utkatalog>`, till
+`<utkatalog>/pagefind/`. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
-  (`<kommun>/<organ>.html`) och en sida per dokument i poolen, på samma
-  sökväg som under `data/` med `.html` i stället för `.md`. Sidmallen,
-  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
-  i bokstavsordning efter id – och en sidfot som länkar till repot och
+  (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
+  sökväg som under `data/` med `.html` i stället för `.md`, och en
+  söksida (`sok.html`). Sidmallen,
+  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
+  i bokstavsordning efter id och söksidan – och en sidfot som länkar till repot och
   säger när sidan byggdes.
 - **Statussidan** räknar ur front matter i varje `.md` under
   `data/<kommun>/`, utan något index. Den har en rad per organ i
@@ -1014,14 +1019,23 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   vid `<!-- sida N -->` och renderas sida för sida
   (`webbplats/text.py`), under en rubrik med ankaret `sida-N`, sidans
   kvalitet ur `kvalitet_per_sida` och, för en sida i `tal_obekraftade`,
-  meningen "Talen på sidan är obekräftade." Ett kodblock
+  "obekräftade tal" i rubriken och meningen "Talen på sidan är
+  obekräftade." Ett kodblock
   `osaker-tabell` får en rad före som säger att tabellen är osäker.
   Styckena visas med `white-space: pre-wrap`, så att raderna ur PDF:en
   står kvar. Ett dokument utan sidor, som `ej-hamtad`, får meningen
   "Dokumentet har ingen text."
 - **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
   att länkarna i texten till CSV:erna fungerar.
-- **Statisk:** ingen JavaScript och inga externa resurser. Texten i
+- **Söket** (K21, `webbplats/sok.py`): dokumentsidans titel och text står
+  i ett element med `data-pagefind-body`, så att Pagefind indexerar dem
+  och inget annat på webbplatsen. Först i elementet står ett dolt stycke
+  med `data-pagefind-ignore` som bara bär träffens titel
+  (`data-pagefind-meta="title"`: sidans rubrik och, när kvaliteten inte är
+  `full`, kvaliteten) och filtren Organ (organets namn), År, Typ och
+  Kvalitet (`data-pagefind-filter`). Söksidan visar Pagefinds sökruta med
+  träffarna per sida i dokumentet, som länkar till `#sida-N`.
+- **Statisk:** ingen JavaScript utom på söksidan, och inga externa resurser. Texten i
   dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
   blir markup. All annan text ur poolen går genom `html.escape`, och bara källor

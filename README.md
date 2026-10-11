@@ -10,7 +10,7 @@ står i en konfigurationsfil per kommun.
 
 Vad poolen innehåller just nu, vilka sammanträden som saknar kallelse
 och handlingar eller protokoll, och varje dokument med sina tabeller, går
-att läsa på webbplatsen:
+att läsa och söka i på webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 
 ## Hur det fungerar

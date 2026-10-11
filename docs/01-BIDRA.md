@@ -14,13 +14,14 @@ git clone https://github.com/moggleif/kommunhandlingar.git
 cd kommunhandlingar
 python3 -m venv .venv
 . .venv/bin/activate
-pip install -e ".[utveckling]"
+pip install -e ".[utveckling,webbplats]"
 ```
 
 `pip install -e .` gör paketet i `src/kommunhandlingar/` importerbart, så
 att testerna når det, och drar in markdown-it-py, som webbplatsen och
 testerna renderar Markdown med. `[utveckling]` tar med ruff och
-pip-audit, i de versioner som
+pip-audit, och `[webbplats]` Pagefind, som bygger sökets index och prövas
+i testerna, i de versioner som
 står i `pyproject.toml`, samma som CI installerar; ruffs förhandsregler
 kan ändras mellan versioner. Med
 [uv](https://docs.astral.sh/uv/) går samma ruff att köra utan
@@ -54,11 +55,20 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, K18, ADR-0012, ADR-0023). Med hela poolen tar det ett
+webbläsaren (K14, K18, K21, ADR-0012, ADR-0023, ADR-0026). Med hela poolen tar det ett
 par minuter:
 
 ```sh
 python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar
+```
+
+Söket (K21, ADR-0026) kräver ett index, som Pagefind bygger ur den färdiga
+webbplatsen på ungefär en minut. Söksidan fungerar bara när katalogen
+serveras, inte som fil:
+
+```sh
+python3 -m pagefind --site _site
+python3 -m http.server -d _site
 ```
 
 `_site/` checkas inte in; `.github/workflows/webbplats.yml` bygger och

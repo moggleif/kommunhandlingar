@@ -558,3 +558,31 @@ Vad som räknas som en fortsättning står i
 - **Så** prövas att varje sida i spannet finns och är läst ur textlagret,
   och att ingen annan tabell börjar inne i spannet eller har samma
   första sida och nummer.
+
+## K21 — Det går att söka i poolens dokument på webbplatsen
+
+Issue: [#67](https://github.com/moggleif/kommunhandlingar/issues/67).
+Hur och varför står i
+[ADR-0026](decisions/0026-sok-pa-webbplatsen-med-pagefind.md).
+
+- **Givet** ett ord som står i texten på en sida i ett dokument
+- **När** någon söker efter ordet på webbplatsens söksida
+- **Så** finns dokumentet bland träffarna, med en länk till den sidan i
+  dokumentet.
+- **Givet** ett ord som bara står i dokumentets härkomst, i menyn eller
+  på en status- eller organsida
+- **När** någon söker efter ordet
+- **Så** ger det ingen träff.
+- **Givet** ett dokument vars kvalitet inte är `full`
+- **När** det står i träfflistan
+- **Så** står kvaliteten i träffens titel.
+- **Givet** en sida i `tal_obekraftade`
+- **När** dokumentets sida visas eller sidan står i träfflistan
+- **Så** står "obekräftade tal" i sidans rubrik.
+- **Givet** träffarna på en sökning
+- **När** någon vill begränsa dem
+- **Så** går det att välja organ, år, typ och kvalitet.
+- **Givet** en webbläsare utan JavaScript
+- **När** söksidan visas
+- **Så** säger den att sök kräver JavaScript och länkar till kommunernas
+  sidor. Alla andra sidor fungerar utan JavaScript.
