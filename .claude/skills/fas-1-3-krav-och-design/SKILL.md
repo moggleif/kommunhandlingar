@@ -29,5 +29,7 @@ Skapa en gren innan något skrivs. Committa efter varje fas.
 - Adaptrar verifieras mot sparade sidor och små riktiga PDF:er i
   `tests/fixtures/`, utan nät.
 - Konvertering verifieras mot dokument där facit går att kontrollera för
-  hand, inklusive ett inskannat och ett med tabeller.
+  hand, inklusive ett inskannat och ett med tabeller. En ändring av
+  konverteringen körs också mot facit i `tests/fixtures/facit/` (K20), och
+  ändrade mått sparas med `python -m kommunhandlingar.facit --spara`.
 - Går det inte att automatisera: skriv ner det manuella steget.
