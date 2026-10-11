@@ -1,0 +1,117 @@
+"""Krav: K5, ADR-0028. Skapar `delade.pdf` för tests/test_delade.py.
+
+Körs för hand med reportlab, som inte är projektets beroende:
+`python tests/fixtures/pdf/skapa_delade.py`. Varje sida är en tabell med
+linjer där en cell rymmer mer än ett tal.
+
+1. Rubrikraden saknar lodräta linjer; åren står i samma ruta.
+2. Tre rader i varje ruta, utan vågräta linjer emellan.
+3. Rubrik och värde i samma ruta, etiketten på värdets höjd.
+4. Två tal i rutan men etiketten står mitt emellan: förblir osäker.
+5. Rubrikraden saknar lodräta linjer, och rubrikens etikett går över
+   linjen under: delas inte.
+6. Rubrikraden saknar lodräta linjer, och en rad har ett enda tal i en
+   cell över två kolumner: delas inte.
+"""
+
+from pathlib import Path
+
+from reportlab.pdfgen.canvas import Canvas
+
+HAR = Path(__file__).parent
+B, H = 595, 842
+X = [60, 210, 290, 370]
+
+
+def vagrata(c: Canvas, y: list[float]) -> None:
+    for yi in y:
+        c.line(X[0], yi, X[-1], yi)
+
+
+def lodrata(c: Canvas, topp: float, botten: float) -> None:
+    for xi in X:
+        c.line(xi, topp, xi, botten)
+
+
+def rad(c: Canvas, y: float, celler: tuple) -> None:
+    c.drawString(X[0] + 5, y, celler[0])
+    for xi, cell in zip(X[2:], celler[1:], strict=True):
+        c.drawRightString(xi - 5, y, cell)
+
+
+def rubrik_utan_linjer(
+    c: Canvas, rubrik: tuple = ("Belopp, tkr", "2026", "2027")
+) -> None:
+    vagrata(c, [780, 760, 740, 720])
+    c.line(X[0], 780, X[0], 720)
+    c.line(X[-1], 780, X[-1], 720)
+    lodrata(c, 760, 720)
+    rad(c, 766, rubrik)
+    rad(c, 746, ("Intäkter", "4 078", "4 054"))
+    rad(c, 726, ("Kostnader", "-1 845", "-2 001"))
+
+
+def tre_rader_i_rutan(c: Canvas) -> None:
+    vagrata(c, [780, 760, 700])
+    lodrata(c, 780, 700)
+    rad(c, 766, ("Post", "2026", "2027"))
+    for i, celler in enumerate(
+        [
+            ("Intäkter", "4 078", "4 054"),
+            ("Kostnader", "-1 845", "-2 001"),
+            ("Netto", "2 233", "2 053"),
+        ]
+    ):
+        rad(c, 746 - 16 * i, celler)
+
+
+def rubrik_och_varde(c: Canvas) -> None:
+    vagrata(c, [780, 740, 720])
+    lodrata(c, 780, 720)
+    rad(c, 766, ("", "Bokslut", "Budget"))
+    rad(c, 756, ("", "2025", "2026"))
+    rad(c, 745, ("Nämnden", "-1,3", "-1,7"))
+    rad(c, 726, ("Kostnader", "-48,6", "-53,8"))
+
+
+def etikett_mitt_emellan(c: Canvas) -> None:
+    vagrata(c, [780, 760, 720])
+    lodrata(c, 780, 720)
+    rad(c, 766, ("Post", "2026", "2027"))
+    rad(c, 746, ("", "4 078", "4 054"))
+    rad(c, 738, ("Intäkter", "", ""))
+    rad(c, 730, ("", "-1 845", "-2 001"))
+
+
+def rubrik_over_linjen(c: Canvas) -> None:
+    rubrik_utan_linjer(c, ("Belopp i tusentals kronor, netto", "2026", "2027"))
+
+
+def tal_over_tva_kolumner(c: Canvas) -> None:
+    vagrata(c, [780, 760, 740, 720])
+    c.line(X[0], 780, X[0], 720)
+    c.line(X[-1], 780, X[-1], 720)
+    lodrata(c, 760, 740)
+    c.line(X[1], 740, X[1], 720)
+    rad(c, 766, ("Belopp, tkr", "2026", "2027"))
+    rad(c, 746, ("Intäkter", "4 078", "4 054"))
+    rad(c, 726, ("Summa ram", "", "8 132"))
+
+
+def skapa() -> None:
+    c = Canvas(str(HAR / "delade.pdf"), pagesize=(B, H))
+    for sida in (
+        rubrik_utan_linjer,
+        tre_rader_i_rutan,
+        rubrik_och_varde,
+        etikett_mitt_emellan,
+        rubrik_over_linjen,
+        tal_over_tva_kolumner,
+    ):
+        sida(c)
+        c.showPage()
+    c.save()
+
+
+if __name__ == "__main__":
+    skapa()

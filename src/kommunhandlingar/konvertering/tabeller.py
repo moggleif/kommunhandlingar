@@ -8,7 +8,8 @@ tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
 plustecken, parentes och enhet, eftersom ett tal för mycket bara fäller
-tabellen, medan ett tal för lite ger en cell med två tal i en CSV.
+tabellen, medan ett tal för lite ger en cell med två tal i en CSV. En
+fälld tabell kan ändå delas (`delade.py`, ADR-0028).
 """
 
 import csv
@@ -33,9 +34,9 @@ VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 
 
-def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
-    """De säkra tabellerna, och rutorna kring dem som fälldes för att en
-    cell rymmer flera tal."""
+def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
+    """De säkra tabellerna, och de som fälldes för att en cell rymmer flera
+    tal."""
     linjer = sida.lines + [
         r for r in sida.rects if min(r["width"], r["height"]) <= LINJEBREDD
     ]
@@ -47,10 +48,9 @@ def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
         "explicit_vertical_lines": linjer,
         "explicit_horizontal_lines": linjer,
     }
-    ord_ = sida.extract_words()
     hela = [t for t in sida.find_tables(installning) if ar_hel(t, ord_)]
     fallda = [t for t in hela if rymmer_flera_tal(t, ord_)]
-    return [t for t in hela if t not in fallda], [t.bbox for t in fallda]
+    return [t for t in hela if t not in fallda], fallda
 
 
 def ar_hel(tabell: Table, ord_: list[dict]) -> bool:
