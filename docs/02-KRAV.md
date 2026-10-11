@@ -566,3 +566,32 @@ Vad som räknas som en fortsättning står i
 - **Så** prövas att varje sida i spannet finns och är läst ur textlagret,
   och att ingen annan tabell börjar inne i spannet eller har samma
   första sida och nummer.
+
+## K20 — Konverteringen mäts mot ett facit
+
+Issue: [#61](https://github.com/moggleif/kommunhandlingar/issues/61).
+Urvalet, facits format och måtten står i
+[Facit för konverteringen](03-ARKITEKTUR.md#facit-för-konverteringen).
+
+- **Givet** ett urval av sidor ur riktiga handlingar med budget, bokslut,
+  protokoll, en sida som bara är en bild, tabeller med och utan linjer och
+  en tabell över två sidor, och ett facit för varje sida där tabellerna och
+  talen är kontrollerade mot sidbilden
+- **När** `python -m kommunhandlingar.facit` körs
+- **Så** konverteras urvalet utan nät, och för varje dokument och totalt
+  redovisas hur många tabeller som blev rätt, ofullständiga, märkta osäkra
+  eller saknas utan märkning, hur många rader i CSV:erna som har tal som
+  inte stämmer, hur många tabeller som inte finns i facit, hur många tal i
+  text och tabeller som avviker på sidor med bekräftade tal, och hur många
+  bildsidor som inte märkts.
+- **Givet** en ändring av konverteringen
+- **När** testerna körs
+- **Så** stämmer måtten för poolens version med raden för den versionen i
+  `matt.csv`. Ändrar en ändring måtten skrivs de om med `--spara` i samma
+  ändring, och höjs versionen får den en egen rad, så att det syns om
+  ändringen gjorde konverteringen bättre eller sämre.
+- **Givet** urvalet
+- **När** testerna körs
+- **Så** prövas att varje tal i facits tabeller står bland sidans tal, att
+  varje rad i en facittabell har lika många fält, och att utdragens
+  textlager inte innehåller något som maskas enligt K17.
