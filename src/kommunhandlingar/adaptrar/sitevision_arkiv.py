@@ -1,11 +1,11 @@
-"""Krav: K16 i docs/02-KRAV.md, ADR-0018 och ADR-0011.
+"""Krav: K16 i docs/02-KRAV.md, ADR-0018, ADR-0027 och ADR-0011.
 Test: tests/test_sitevision_arkiv.py.
 
 En Sitevision-källa ur Internet Archive. Den sista ögonblicksbilden per år
-av varje mötessida läses med Sitevision-adaptern, den nyaste först, och
-varje fil får arkivets största kopia av sin nyaste version. En fråga som
-arkivet inte besvarar, och en mötessida som arkivet inte har, hoppas över
-och returneras som en notering.
+av mötessidan för varje organ i källans `wayback` läses med
+Sitevision-adaptern, den nyaste först, och varje fil får arkivets största
+kopia av sin nyaste version. En fråga som arkivet inte besvarar, och en
+mötessida som arkivet inte har, hoppas över och returneras som en notering.
 """
 
 from dataclasses import replace
@@ -25,8 +25,8 @@ def upptack(
     except Hamtfel as fel:
         return [], [], [str(fel)]
     sidor, noteringar = [], []
-    for organ, sidadress in kalla.sidor.items():
-        bilder, fel = ogonblicksbilder(klient, sidadress)
+    for organ in kalla.wayback:
+        bilder, fel = ogonblicksbilder(klient, kalla.sidor[organ])
         sidor += [(organ, bild, html) for bild, html in bilder]
         noteringar += fel
     kandidater, avvisade = sitevision.las(kalla, sidor)

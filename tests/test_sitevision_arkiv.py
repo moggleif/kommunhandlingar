@@ -1,4 +1,4 @@
-"""Krav: K16 i docs/02-KRAV.md, ADR-0018.
+"""Krav: K16 i docs/02-KRAV.md, ADR-0018 och ADR-0027.
 Kod: src/kommunhandlingar/adaptrar/sitevision_arkiv.py."""
 
 import json
@@ -83,7 +83,9 @@ def arkivet() -> Klient:
 
 class TestArkivetsUpptackt(unittest.TestCase):
     def setUp(self):
-        self.kalla = replace(las(FIXTURER / "exempelby.toml").kallor[0], wayback=True)
+        self.kalla = replace(
+            las(FIXTURER / "exempelby.toml").kallor[0], wayback=("bun", "fsn")
+        )
         self.klient = arkivet()
         self.cdx, self.sidor = self.klient.cdx, self.klient.sidor
 
@@ -138,6 +140,12 @@ class TestArkivetsUpptackt(unittest.TestCase):
             self.upptack(),
             ([], [], ["arkivets lista för exempelby.se/download/: tidsgrans"]),
         )
+
+    def test_bara_organen_i_wayback_fragas(self):
+        self.kalla = replace(self.kalla, wayback=("bun",))
+        kandidater, _, noteringar = self.upptack()
+        self.assertEqual(len(kandidater), 2)
+        self.assertEqual(noteringar, [])
 
     def test_en_motessida_utan_kopior_noteras(self):
         self.cdx[(FSN, "mimetype:text/html")] = []
