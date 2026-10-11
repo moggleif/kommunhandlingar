@@ -12,7 +12,7 @@ from pathlib import Path
 import pdfplumber
 
 from kommunhandlingar.konvertering import delade, tabeller
-from kommunhandlingar.konvertering.delade import Textrad, dela
+from kommunhandlingar.konvertering.delade import Textrad, dela, delbar
 from kommunhandlingar.konvertering.dokument import konvertera
 
 PDF = Path(__file__).parent / "fixtures" / "pdf" / "delade.pdf"
@@ -129,6 +129,39 @@ class TestDela(unittest.TestCase):
             [(0, "4 078"), (20, "-1 845")],
         )
         self.assertIsNone(dela(platser))
+
+    def test_tal_med_ord_framfor_provas_ocksa_pa_hojd(self):
+        platser = rutor(
+            [(0, "Intäkter"), (10, "Kostnader"), (20, "Netto")],
+            [(0, "ca 4 078"), (20, "2 233")],
+            [(10, "ca -2 001"), (20, "2 053")],
+        )
+        self.assertIsNone(dela(platser))
+
+
+GRANSER = (0, 100, 150, 200)
+
+
+class TestDelbar(unittest.TestCase):
+    def test_tal_i_sammanslagen_cell_delas_inte(self):
+        ut = [(2, Textrad(0, ("8 132",)))]
+        self.assertFalse(delbar((100, 0, 200, 10), ut, GRANSER))
+
+    def test_tal_med_ord_i_sammanslagen_cell_delas_inte(self):
+        ut = [(2, Textrad(0, ("ca 8 132",)))]
+        self.assertFalse(delbar((100, 0, 200, 10), ut, GRANSER))
+
+    def test_ett_tal_per_tackt_kolumn_delas(self):
+        ut = [(1, Textrad(0, ("2026",))), (2, Textrad(0, ("2027",)))]
+        self.assertTrue(delbar((100, 0, 200, 10), ut, GRANSER))
+
+    def test_rad_over_hela_bredden_delas(self):
+        ut = [(0, Textrad(0, ("Lunch",))), (1, Textrad(0, ("10",)))]
+        self.assertTrue(delbar((0, 0, 200, 10), ut, GRANSER))
+
+    def test_text_i_sammanslagen_cell_delas(self):
+        ut = [(1, Textrad(0, ("Summa",)))]
+        self.assertTrue(delbar((100, 0, 200, 10), ut, GRANSER))
 
 
 if __name__ == "__main__":

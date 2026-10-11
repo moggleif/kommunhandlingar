@@ -62,13 +62,13 @@ I korthet:
 * **Kolumnerna** är varje cells kanter i hela tabellen. En rad utan
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
   över en gräns fäller tabellen.
-* **En sammanslagen cell** med ett tal delas bara när den är radens enda
-  cell eller får text i varje kolumn den täcker. Ett ensamt tal i en
+* **En sammanslagen cell** med en siffra delas bara när den går över
+  hela tabellens bredd eller får text i varje kolumn den täcker. Ett ensamt tal i en
   cell som är sammanslagen med flit flyttas inte till en kolumn.
 * **Raderna** delas nerifrån: den nedersta textraden blir en egen rad när
   den står på samma höjd i varje ruta som inte är tom. Det som står
-  ovanför blir en rad bara när dess tal står på samma höjd, och varje
-  ruta har en textrad där. En rubrik ovanför ett värde blir då en
+  ovanför blir en rad bara när dess textrader med siffror står på samma
+  höjd, och varje ruta har en textrad där. En rubrik ovanför ett värde blir då en
   rubrikrad.
 * **En rad med högst ett tal per cell** delas inte, så en rubrik i två
   rader, `Prognos⏎2024`, står kvar i en cell.
@@ -79,7 +79,7 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 ### Consequences
 
 * Bra, eftersom de vanliga ekonomitabellerna blir CSV: i stickprovets
-  nio dokument blev 23 av 35 fällda tabeller CSV. Varje ord i tabellen
+  nio dokument blev 22 av 35 fällda tabeller CSV. Varje ord i tabellen
   står i CSV:n exakt en gång, och summaraderna stämmer där tabellen har
   sådana.
 * Bra, eftersom en rubrik och ett värde i samma ruta skiljs åt, i
@@ -94,9 +94,13 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   rubrik som står mitt över två kolumner, i en rad utan lodräta linjer
   fäller tabellen, fast en människa kan läsa den. I stickprovet gällde
   det tre av 35 tabeller.
-* Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer
-  placeras i den kolumn det står i. Det är så en människa läser det, men
+* Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer, en
+  cell över hela tabellens bredd, placeras i den kolumn det står i. Det är så en människa läser det, men
   ingen linje i raden säger det.
+* Dåligt, eftersom en etikett utan värden i samma ruta som en rad med
+  värden kan slås ihop med den, som `Intäkter⏎Kostnader` med talen för
+  intäkterna. Geometriskt är det samma sak som en etikett som bryts över
+  två rader, och en tabell med linjer gör likadant i dag.
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 
@@ -176,16 +180,27 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    delas bara när den är radens enda cell, som när en rad helt saknar
    lodräta linjer, eller får text i varje kolumn den täcker, som en
    rubrik med ett år per kolumn.
+7. **Andra granskningsvarvet** hittade att höjdprövningen och regeln för
+   sammanslagna celler bara kände igen ett tal som stod ensamt, så att
+   `ca 4 078` och `ca 8 132` slank igenom, och att "radens enda cell"
+   också gällde en rad där en cell från raden ovanför täcker de andra
+   kolumnerna. Nu prövas varje textrad med en siffra, och cellen ska gå
+   över hela tabellens bredd. Det kostade en tabell i stickprovet, där
+   en rubrik i två rader (`Budgetavvike⏎lse 2025`) har sitt år lägre än
+   de andra rubrikerna: 22 av 35 i stället för 23. Hellre det än en
+   regel som skiljer årtal från andra tal.
 
 ### Mätningen
 
 Stickprovet: tolv slumpvis valda dokument bland de 223, där sidorna med
 en sådan CSV prövades; tre av PDF:erna gick inte att hämta hela. Av 35
-fällda tabeller blev 23 CSV. Varje ny CSV lästes för hand mot ordens
-lägen, och där tabellen har en summarad stämdes den av. De tolv som
+fällda tabeller blev 22 CSV. Varje ny CSV lästes för hand mot ordens
+lägen, och där tabellen har en summarad stämdes den av. De 13 som
 förblev osäkra är nio textrutor, som delegeringslistor, ärendelistor
-och handlingsplaner, som ska förbli osäkra, och tre där en rubrik står
-över en kolumngräns, till exempel ett år mitt över två kolumner.
+och handlingsplaner, som ska förbli osäkra, tre där en rubrik står
+över en kolumngräns, till exempel ett år mitt över två kolumner, och en
+där en rubrik i två rader har sitt år på en annan höjd än de andra
+rubrikernas (se punkt 7 ovan).
 
 Facit ([ADR-0025](0025-facit-for-konverteringen.md)): en tabell till
 blev rätt, skuggbudgetens, och de osäkra gick från två till en. Inga

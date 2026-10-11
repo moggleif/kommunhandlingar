@@ -28,8 +28,8 @@ class Textrad:
         return " ".join(self.falt)
 
     @property
-    def har_tal(self) -> bool:
-        return any(TALRAD.fullmatch(f) for f in self.falt)
+    def har_siffra(self) -> bool:
+        return any(c.isdigit() for c in self.text)
 
 
 @dataclass(frozen=True)
@@ -64,9 +64,8 @@ def kolumngranser(t: Table) -> tuple[float, ...]:
 def placera(celler: list, ord_: list[dict], granser: tuple) -> list | None:
     """Radens textrader per kolumn; None om en cell inte går att placera."""
     platser: list[list[Textrad]] = [[] for _ in granser[1:]]
-    ensam = sum(c is not None for c in celler) == 1
     for cell in filter(None, celler):
-        placerade = cellens(cell, ord_, granser, ensam)
+        placerade = cellens(cell, ord_, granser)
         if placerade is None:
             return None
         for i, textrad in placerade:
@@ -74,11 +73,11 @@ def placera(celler: list, ord_: list[dict], granser: tuple) -> list | None:
     return platser
 
 
-def cellens(cell: tuple, ord_: list[dict], granser: tuple, ensam: bool) -> list | None:
+def cellens(cell: tuple, ord_: list[dict], granser: tuple) -> list | None:
     """Cellens textrader med sin kolumn. En cell som går över flera
     kolumner delas efter fälten, när varje fält ligger inom en kolumn. Har
-    den ett tal ska den också vara radens enda cell eller få text i varje
-    kolumn den täcker; annars är den sammanslagen med flit."""
+    den en siffra ska den också gå över hela tabellens bredd eller få text
+    i varje kolumn den täcker; annars är den sammanslagen med flit."""
     egen = kolumn(cell[0], cell[2], granser)
     per_rad: dict[tuple[float, int | None], list[str]] = {}
     rader = radvis([o for o in ord_ if inom(mitt(o), cell)])
@@ -86,15 +85,17 @@ def cellens(cell: tuple, ord_: list[dict], granser: tuple, ensam: bool) -> list 
         i = egen if egen is not None else kolumn(f.x0, f.x1, granser)
         per_rad.setdefault((topp, i), []).append(f.text)
     ut = [(i, Textrad(topp, tuple(d))) for (topp, i), d in per_rad.items()]
-    return ut if egen is not None or delbar(cell, ut, granser, ensam) else None
+    return ut if egen is not None or delbar(cell, ut, granser) else None
 
 
-def delbar(cell: tuple, ut: list[tuple], granser: tuple, ensam: bool) -> bool:
+def delbar(cell: tuple, ut: list[tuple], granser: tuple) -> bool:
     kolumner = {i for i, _ in ut}
     if None in kolumner:
         return False
-    tal = any(r.har_tal for _, r in ut)
-    return not tal or ensam or kolumner == set(tackta(cell, granser))
+    tackta_ = tackta(cell, granser)
+    hela = tackta_ == range(len(granser) - 1)
+    siffra = any(r.har_siffra for _, r in ut)
+    return not siffra or hela or kolumner == set(tackta_)
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
@@ -122,7 +123,8 @@ def dela(platser: list[list[Textrad]]) -> list[list[str]] | None:
 def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
     """Den nedersta textraden blir en egen rad när den står på samma höjd
     i varje cell som inte är tom. Det som står ovanför blir en rad när
-    varje tal i det står på samma höjd som en textrad i varje cell."""
+    varje textrad med en siffra står på samma höjd som en textrad i
+    varje cell."""
     if not any(platser):
         return []
     if not flera(platser):
@@ -136,7 +138,7 @@ def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
 
 
 def talen_i_hojd(platser: list[list[Textrad]]) -> bool:
-    hojder = [r.topp for p in platser for r in p if r.har_tal]
+    hojder = [r.topp for p in platser for r in p if r.har_siffra]
     if not hojder:
         return True
     if max(hojder) - min(hojder) > RADTOLERANS:
