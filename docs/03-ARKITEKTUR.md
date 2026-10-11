@@ -203,6 +203,7 @@ src/kommunhandlingar/
   datakontroll*.py datakontrollerna av allt under data/ (K11)
   tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
+  facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor
 kommuner/<kommun>.toml
 hamtning.toml
@@ -211,6 +212,8 @@ data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<s
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.tolkad.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
+tests/fixtures/facit/<dokument>/  utdrag.pdf, facit.toml och en CSV per tabell
+tests/fixtures/facit/matt.csv     måtten per version av poolen
 ```
 
 ## Kommunkonfigurationen
@@ -902,6 +905,80 @@ tabeller har ingen tabellkatalog.
   sida i spannet, och ingen annan tabell får börja inne i spannet eller
   ha samma sida och nummer. För en tolkad CSV prövar den i stället att sidan står i `tolkade` och att
   talen står i sidans text ([Tolkade figurer](#tolkade-figurer)).
+
+## Facit för konverteringen
+
+Varför står i
+[ADR-0025](decisions/0025-facit-for-konverteringen.md). Ett urval av
+sidor ur riktiga handlingar konverteras och jämförs med ett facit, så att
+det syns om en ändring gör konverteringen bättre eller sämre, och när
+poolen är värd att konvertera om (ADR-0019).
+
+- **Urvalet** är en katalog per dokument under `tests/fixtures/facit/`:
+  `utdrag.pdf` med de valda sidorna, under 1 MB, `facit.toml` och en CSV
+  per tabell. `facit.toml` säger vilket dokument i poolen sidorna kommer
+  från, källans adress och sha256, sidorna i originalet och vad som är
+  svårt med dem, och har en post per sida: antingen `tal`, sidans tal i
+  läsordning, eller `skannad = true` för en sida som bara är en bild.
+  En skannad sida har inga tal och inga tabeller i facit; dess tal ska
+  bara vara märkta.
+- **Ett nytt dokument** i urvalet tas ut ur källans PDF med pypdfium2,
+  med sidor utan personnamn och utan något som maskas. Talen tas ur
+  textlagret med `pdftotext -layout`, och pdfplumber ska ge samma
+  siffergrupper; där de skiljer sig avgör sidbilden. Tabellerna skrivs
+  oberoende av konverteringen och kontrolleras mot sidbilden, rad för rad.
+  Sedan sparas måtten om.
+- **Facittabellerna** heter som poolens (`<sida>[-<sista sida>]-<nr>.csv`,
+  sidorna i utdraget) och skrivs i samma CSV-format, men så som tabellen
+  står på sidan: varje rad med sin hela etikett, också när etiketten
+  bryts på två rader, och tabellens rubrik överst. `[rubrikrader]` i
+  `facit.toml` anger hur många rader rubriken har när de inte är en.
+- **Ett tal** är en cell som är ett tal eller ett streck, enligt samma
+  mönster som konverteringen använder för celler. Cellerna jämförs med
+  blanktecknen hopslagna och utan mellanrum mellan ett minustecken och
+  talet. Övriga celler är etiketter; av dem jämförs bara bokstäverna.
+
+Jämförelsen görs för varje tabell som konverteringen skrivit som CSV,
+efter sammanslagningen över sidor:
+
+1. **En rad stämmer** med en rad i facit när den har lika många fält,
+   varje tal står i samma kolumn och är lika, och etikettens bokstäver är
+   början eller slutet av facitradens. En rad med tal men utan etikett
+   stämmer bara med en facitrad utan etikett.
+2. **Rubriken** är raderna före den första rad som stämmer med en datarad
+   i facit, alltså en rad under facits rubrik. Den stämmer när talen i
+   den, kolumn för kolumn uppifrån och ned, är desamma som i facits
+   rubrik, hur raderna än delats.
+3. **En fel rad** är en rad med tal efter rubriken som inte stämmer med
+   någon rad i facittabellerna på samma sidor. Har ingen rad stämt är
+   varje rad med tal fel.
+4. **En påhittad tabell** är en CSV på sidor där facit inte har någon
+   tabell.
+
+Varje facittabell får sedan ett utfall:
+
+| Utfall          | Betyder                                                         |
+| --------------- | --------------------------------------------------------------- |
+| `ratt`          | Varje datarad stämmer med en rad i en CSV, och rubriken stämmer. |
+| `ofullstandiga` | Några datarader stämmer, men inte alla, eller inte rubriken.     |
+| `osakra`        | Ingen datarad stämmer, och någon av tabellens sidor är märkt: inte `ok`, eller i `tal_obekraftade`. |
+| `saknade`       | Ingen datarad stämmer, och sidorna är `ok` med bekräftade tal.    |
+
+Till sist jämförs talen. På sidorna som inte står i `tal_obekraftade` och
+inte är skannade i facit räknas siffergrupperna (`\d+`) i sidans text och
+i CSV:erna, och jämförs med siffergrupperna i facits `tal`. `tal_avviker`
+är antalet som saknas plus antalet som tillkommit; ett tal som delats av
+ett mellanrum (`4 76,7` för `476,7`) eller slagits ihop med ett annat
+syns där. Ett tecken framför ett tal i texten jämförs inte. `omarkta` är
+antalet skannade sidor som inte står i `tal_obekraftade`.
+
+`python -m kommunhandlingar.facit` skriver måtten per dokument, med en
+not för varje avvikelse, och totalt. Med `--spara` skrivs totalen på raden
+för poolens version i `tests/fixtures/facit/matt.csv`. Testet prövar att
+raden för den installerade versionen stämmer med en ny körning. Testet
+prövar också att varje tal i en facittabell står bland sidans `tal`, att
+facittabellernas rader har lika många fält, och att texten i utdragen inte
+har något som maskas enligt [Personuppgifter](#personuppgifter).
 
 ## Tolkade figurer
 

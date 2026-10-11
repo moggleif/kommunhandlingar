@@ -95,6 +95,20 @@ PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py`, som behöver
 reportlab, pypdf och Pillow, och `skapa_skarvar.py`, som behöver
 reportlab. De är inte projektets beroenden.
 
+## Facit för konverteringen
+
+Ett urval sidor ur riktiga handlingar konverteras och jämförs med ett
+facit (K20). Kör det före och efter en ändring av konverteringen:
+
+```sh
+python3 -m kommunhandlingar.facit            # måtten och en not per avvikelse
+python3 -m kommunhandlingar.facit --spara    # och raden i matt.csv
+```
+
+Ändrar en ändring måtten skrivs raden om med `--spara` i samma ändring.
+Hur måtten räknas och hur ett nytt dokument läggs till i urvalet står under
+"Facit för konverteringen" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
+
 ## Figurerna
 
 Sidor med figurer tolkas för hand av en Claude-session, i omgångar, enligt
