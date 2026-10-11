@@ -51,5 +51,6 @@ Regler för det här repot, utöver MADR:
 | 0022 | [Personnummer, mobilnummer, e-post och gatuadresser maskas vid konverteringen; namn står kvar](0022-personuppgifter-maskas-vid-konverteringen.md) | accepted |
 | 0023 | [Webbplatsen renderar poolens dokument med markdown-it-py, en sida per dokument och en per organ](0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md) | accepted |
 | 0024 | [En tabell som fortsätter på nästa sida slås ihop vid konverteringen när ingenting står emellan, och filnamnet anger sidorna](0024-tabeller-over-flera-sidor-slas-ihop.md) | accepted |
+| 0025 | [Konverteringen mäts mot ett facit för utdrag ur riktiga handlingar, och måtten för varje version låses i en fil som testet prövar](0025-facit-for-konverteringen.md) | proposed |
 | 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | proposed |
 | 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | proposed |

@@ -1,0 +1,11 @@
+# En regional remiss: en tabell med linjer ovanför löptext i två spalter.
+dokument = "data/kungsbacka/teknik/2026/2026-09-16/handlingar.md"
+kalla_url = "https://kungsbacka.se/download/18.5689acbf1a0862710404491b/1789109262509/N%C3%A4mnden%20f%C3%B6r%20Teknik%20-%20Handlingar%202026-09-16.pdf"
+sha256 = "e5215ddc38b5f1370cea8c1a4db30cb04bcecbb12beddceacfb1160b690d69d6"
+sidor_i_originalet = [106]
+
+[[sida]]
+tal = [
+  "2", "24", "12", "8", "18", "12", "8", "54", "36", "32", "28", "20", "12",
+  "4", "4", "2026", "2030", "51", "65", "290",
+]

@@ -1,0 +1,15 @@
+# Ett partis skuggbudget: en tabell med linjer, färgade rader och en tom
+# kolumn för de flesta rader.
+dokument = "data/kungsbacka/ks/2026/2026-05-26/handlingar.md"
+kalla_url = "https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b2/1787300369152/Kommunstyrelsen%20handlingar%202026-05-26.pdf"
+sha256 = "603f11ca59d1352bc9a01a239380f9fd33b44a3c98aacb00261540bd8a854896"
+sidor_i_originalet = [120]
+
+[rubrikrader]
+"1-1" = 2
+
+[[sida]]
+tal = [
+  "2027", "10", "8", "60", "45", "4", "30", "100", "50", "25", "25", "10",
+  "5", "7", "3", "4,5", "6", "5", "10", "40", "5,4", "237,5", "45,4",
+]
