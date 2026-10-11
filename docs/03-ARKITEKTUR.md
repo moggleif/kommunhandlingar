@@ -1035,8 +1035,9 @@ webbplatsen, `python -m pagefind --site <utkatalog>`, till
   `full`, kvaliteten) och filtren Organ (organets namn), År, Typ och
   Kvalitet (`data-pagefind-filter`). Söksidan visar Pagefinds sökruta med
   träffarna per sida i dokumentet, som länkar till `#sida-N`.
-- **Statisk:** ingen JavaScript utom på söksidan, och inga externa resurser. Texten i
-  dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
+- **Statisk:** ingen JavaScript utom på söksidan, och inga externa
+  resurser. Texten i dokumenten renderas av markdown-it-py med
+  CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
   blir markup. All annan text ur poolen går genom `html.escape`, och bara källor
   som börjar med `http://` eller `https://` blir länkar. Ingen
