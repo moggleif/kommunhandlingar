@@ -32,7 +32,7 @@ def organluckor(kommun: Kommun, rad: Organrad) -> str:
 def kallor(kommun: Kommun, organ_id: str) -> str:
     return ", ".join(
         f'<a href="{escape(kalla.sidor[organ_id])}">mötessidan</a>'
-        + (" och Internet Archive" if kalla.wayback else "")
+        + (" och Internet Archive" if organ_id in kalla.wayback else "")
         for kalla in kommun.kallor
         if organ_id in kalla.sidor
     )

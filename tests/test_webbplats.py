@@ -155,11 +155,15 @@ class TestSidor(unittest.TestCase):
 
     def test_arkivet_ar_en_kalla(self):
         kommun = exempelby()
-        kalla = replace(kommun.kallor[0], wayback=True)
-        html = luckavsnitt.kallor(replace(kommun, kallor=(kalla,)), "fsn")
+        kalla = replace(kommun.kallor[0], wayback=("fsn",))
+        kommun = replace(kommun, kallor=(kalla,))
         self.assertEqual(
-            html,
+            luckavsnitt.kallor(kommun, "fsn"),
             '<a href="https://exempelby.se/fsn">mötessidan</a> och Internet Archive',
+        )
+        self.assertEqual(
+            luckavsnitt.kallor(kommun, "bun"),
+            '<a href="https://exempelby.se/bun">mötessidan</a>',
         )
 
     def test_inga_luckor(self):

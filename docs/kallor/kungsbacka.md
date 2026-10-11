@@ -216,7 +216,9 @@ politik-repot fick 404 på `globalassets`-adresserna.
 
 Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
 ([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
-men är avstängd (`wayback = false`) tills konverteringen är färdig. De två
+och slås på per organ i kommunfilens `wayback`
+([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)); övriga
+organ väntar tills konverteringen är färdig. De två
 Episerver-generationerna hämtas inte än.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i

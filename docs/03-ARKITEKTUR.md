@@ -306,7 +306,7 @@ Mötets filer står antingen som länkar i filportleten
 ```toml
 [[kalla]]
 adapter = "sitevision"
-wayback = true
+wayback = ["bun"]
 manader = ["januari", "februari", …, "december"]
 rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
 
@@ -322,7 +322,7 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 | `kalla.sidor`     | Organets id och adressen till dess mötessida. Organet är sidans. |
 | `kalla.rubrik`    | Ett reguljärt uttryck med grupperna `ar`, `manad` och `dag`, som läser mötesrubriken. |
 | `kalla.rattelser` | Källnyckel och det rätta datumet, för filer vars filnamn och rubrik anger olika datum. |
-| `kalla.wayback`   | `true`: sidorna läses också ur Internet Archive ([Arkivet](#arkivet)). Utelämnas annars. |
+| `kalla.wayback`   | Organen vars mötessidor också läses ur Internet Archive ([Arkivet](#arkivet), [ADR-0027](decisions/0027-arkivet-slas-pa-per-organ.md)). Utelämnas annars. |
 
 - **Källnyckeln** är `sitevision:` och nod-id:t. Adressen är länkens
   eller JSON-postens `uri` som sidan skriver den, gjord absolut; båda
@@ -391,11 +391,12 @@ stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
 ### Arkivet
 
 Hur och varför står i
-[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md),
+[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)
+och [ADR-0027](decisions/0027-arkivet-slas-pa-per-organ.md),
 och beteendet i K16.
 `python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>
 --arkiv --start <N>` skriver `<arbetskatalog>/<kommun>.arkiv.kandidater.json`
-i samma form som kandidatlistan, för de källor som har `wayback = true`.
+i samma form som kandidatlistan, för de organ som står i källans `wayback`.
 Är tidsbudgetens mjuka gräns räknat från `--start` passerad blir listan
 tom, och arkivet frågas inte. Nås den hårda gränsen (`SIGALRM`) under
 upptäckten avbryts den, och listan blir tom.
