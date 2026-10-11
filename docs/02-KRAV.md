@@ -585,5 +585,5 @@ Urvalet, facits format och måtten står i
 - **Givet** urvalet
 - **När** testerna körs
 - **Så** prövas att varje tal i facits tabeller står bland sidans tal, att
-  varje rad i en facittabell har lika många fält, och att utdragen inte
-  innehåller något som maskas enligt K17.
+  varje rad i en facittabell har lika många fält, och att utdragens
+  textlager inte innehåller något som maskas enligt K17.

@@ -6,35 +6,42 @@ att utdragen inte bär personuppgifter, och att måtten för poolens version
 står i matt.csv.
 """
 
-import re
+import tempfile
 import unittest
+from collections import Counter
 from importlib.metadata import version
 from pathlib import Path
 
 import pdfplumber
 
-from kommunhandlingar.facit.__main__ import sparade, totalt, urvalets_utfall
-from kommunhandlingar.facit.jamfor import MATT, SIFFROR, jamfor, lika, talrad
+from kommunhandlingar.facit.jamfor import MATT, jamfor
 from kommunhandlingar.facit.lasa import Facit, Tabell, urvalet
+from kommunhandlingar.facit.matt import URVALET, spara, sparade, totalt, urvalets_utfall
+from kommunhandlingar.facit.rader import lika, siffror, talrad
 from kommunhandlingar.konvertering.dokument import Resultat
 from kommunhandlingar.konvertering.las_sida import Sida
 from kommunhandlingar.personuppgifter import maska
 
-KATALOG = Path(__file__).parent / "fixtures" / "facit"
 RUBRIK = ["Belopp", "2025", "2026"]
 RADER = [RUBRIK, ["Intäkter", "1 184", "-41,4"], ["Kostnader", "-5 802", "-"]]
 TEXT = "Resultaträkning 2025 och 2026\nSida 4"
+SIDANS_TAL = ["2025", "2026", "4"] + [c for r in RADER for c in r[1:]]
 
 
-def facit(tal=None, skannade=()) -> Facit:
-    tal = {1: ["2025", "2026", "4"] + [c for r in RADER for c in r[1:]]} | (tal or {})
-    return Facit("prov", Path(), tal, list(skannade), [Tabell("1-1", 1, 1, 1, RADER)])
-
-
-def resultat(*sidor: Sida, obekraftade: bool = False) -> Resultat:
-    return Resultat(
-        "full", sidor=list(sidor) or [Sida("ok", obekraftade, TEXT, [RADER])]
+def facit(tal=None, skannade=(), tabeller=None) -> Facit:
+    tabeller = [Tabell("1-1", 1, 1, 1, RADER)] if tabeller is None else tabeller
+    return Facit(
+        "prov", Path(), {1: SIDANS_TAL} | (tal or {}), list(skannade), tabeller
     )
+
+
+def matt(*sidor: Sida, **facit_) -> Counter:
+    sidor = list(sidor) or [ok(TEXT, RADER)]
+    return jamfor(facit(**facit_), Resultat("full", sidor=sidor)).matt
+
+
+def ok(text: str, *tabeller: list[list[str]]) -> Sida:
+    return Sida("ok", False, text, list(tabeller))
 
 
 class Rader(unittest.TestCase):
@@ -61,93 +68,113 @@ class Rader(unittest.TestCase):
         self.assertFalse(talrad(["Not 3", "Summa"]))
 
 
-class Matten(unittest.TestCase):
-    def matt(self, *sidor: Sida, **facit_):
-        return jamfor(facit(**facit_), resultat(*sidor)).matt
-
+class Tabellerna(unittest.TestCase):
     def test_en_ratt_tabell_och_ratt_text(self):
-        matt = self.matt()
-        self.assertEqual(matt["ratt"], 1)
-        self.assertEqual(sum(matt[m] for m in MATT if m != "ratt"), 0)
+        utfall = matt()
+        self.assertEqual(utfall["ratt"], 1)
+        self.assertEqual(sum(utfall[m] for m in MATT if m != "ratt"), 0)
 
     def test_en_rad_med_fel_tal(self):
         fel = [RUBRIK, RADER[1], ["Kostnader", "-5 802", "5"]]
-        matt = self.matt(Sida("ok", False, TEXT, [fel]))
-        self.assertEqual((matt["fel_rader"], matt["ofullstandiga"]), (1, 1))
+        utfall = matt(ok(TEXT, fel))
+        self.assertEqual((utfall["fel_rader"], utfall["ofullstandiga"]), (1, 1))
+
+    def test_en_forsta_datarad_med_fel_tal_ar_fel(self):
+        fel = [RUBRIK, ["Intäkter", "1 184", "41,4"], RADER[2]]
+        utfall = matt(ok(TEXT, fel))
+        self.assertEqual((utfall["fel_rader"], utfall["ofullstandiga"]), (1, 1))
+
+    def test_en_rad_som_kommer_tva_ganger_ar_fel(self):
+        dubbel = [*RADER, RADER[2]]
+        utfall = matt(ok(TEXT, dubbel))
+        self.assertEqual((utfall["fel_rader"], utfall["ratt"]), (1, 1))
 
     def test_en_tabell_utan_rubrik_ar_ofullstandig(self):
-        matt = self.matt(Sida("ok", False, TEXT, [RADER[1:]]))
-        self.assertEqual((matt["ofullstandiga"], matt["fel_rader"]), (1, 0))
+        utfall = matt(ok(TEXT, RADER[1:]))
+        self.assertEqual((utfall["ofullstandiga"], utfall["fel_rader"]), (1, 0))
+
+    def test_en_tabell_delad_pa_tva_csv_ar_ofullstandig(self):
+        utfall = matt(ok(TEXT, RADER[:2], RADER[2:]))
+        self.assertEqual((utfall["ofullstandiga"], utfall["fel_rader"]), (1, 0))
 
     def test_en_rubrik_delad_pa_tva_rader_stammer(self):
         delad = [["Belopp", "År", "År"], ["", "2025", "2026"], *RADER[1:]]
-        self.assertEqual(self.matt(Sida("ok", False, TEXT, [delad]))["ratt"], 1)
+        self.assertEqual(matt(ok(TEXT, delad))["ratt"], 1)
 
     def test_en_tabell_som_saknas_ar_saknad_eller_osaker(self):
         text = TEXT + "\nIntäkter 1 184 -41,4\nKostnader -5 802 -"
-        self.assertEqual(self.matt(Sida("ok", False, text))["saknade"], 1)
-        self.assertEqual(self.matt(Sida("tabell-osaker", False, text))["osakra"], 1)
+        self.assertEqual(matt(ok(text))["saknade"], 1)
+        self.assertEqual(matt(Sida("tabell-osaker", False, text, []))["osakra"], 1)
 
-    def test_ett_tal_som_delats_i_texten(self):
-        text = TEXT.replace("Sida 4", "Sida 4 1 1 84")
-        matt = self.matt(
-            Sida("ok", False, text, [RADER]),
-            tal={1: ["2025", "2026", "4", "1 184"] + [c for r in RADER for c in r[1:]]},
-        )
-        self.assertEqual(matt["tal_avviker"], 3)
-
-    def test_talen_pa_en_obekraftad_sida_jamfors_inte(self):
-        matt = self.matt(Sida("ocr", True, "Intäkter 1 1 84"), skannade=[1])
-        self.assertEqual((matt["tal_avviker"], matt["omarkta"]), (0, 0))
-        self.assertEqual(matt["osakra"], 1)
-
-    def test_en_skannad_sida_som_inte_markts(self):
-        matt = self.matt(Sida("ok", False, ""), skannade=[1])
-        self.assertEqual(matt["omarkta"], 1)
+    def test_en_tabell_pa_en_obekraftad_sida_ar_osaker(self):
+        utfall = matt(Sida("ocr", True, "Intäkter 1 1 84", []), skannade=[1])
+        self.assertEqual((utfall["osakra"], utfall["omarkta"]), (1, 0))
 
     def test_en_tabell_dar_facit_inte_har_nagon(self):
-        annan = Facit("prov", Path(), {1: [], 2: []}, [], [])
-        sidor = [Sida("ok", False, "", [RADER]), Sida("ok", False, "")]
-        matt = jamfor(annan, Resultat("full", sidor=sidor)).matt
-        self.assertEqual((matt["pahittade"], matt["fel_rader"]), (1, 0))
+        sidor = [ok("", RADER), ok("", [["Not", "Text"]])]
+        utfall = matt(*sidor, tal={1: [], 2: []}, tabeller=[])
+        self.assertEqual((utfall["pahittade"], utfall["fel_rader"]), (1, 0))
 
 
-def tabellerna(katalog: Path):
-    for f in urvalet(katalog):
+class Talen(unittest.TestCase):
+    def test_ett_tal_som_delats_i_texten(self):
+        text = TEXT.replace("Sida 4", "Sida 4 1 1 84")
+        utfall = matt(ok(text, RADER), tal={1: [*SIDANS_TAL, "1 184"]})
+        self.assertEqual(utfall["tal_avviker"], 3)
+
+    def test_talen_pa_en_obekraftad_sida_jamfors_inte(self):
+        utfall = matt(Sida("ocr", True, "Intäkter 1 1 84", []), skannade=[1])
+        self.assertEqual(utfall["tal_avviker"], 0)
+
+    def test_en_skannad_sida_som_inte_markts(self):
+        self.assertEqual(matt(ok(""), skannade=[1])["omarkta"], 1)
+
+
+class MattFilen(unittest.TestCase):
+    def test_en_rad_per_version(self):
+        with tempfile.TemporaryDirectory() as katalog:
+            fil = Path(katalog) / "matt.csv"
+            fil.write_text("version," + ",".join(MATT) + "\n", encoding="utf-8")
+            spara(fil, "0.1.0", Counter(ratt=1))
+            spara(fil, "0.2.0", Counter(ratt=2))
+            spara(fil, "0.1.0", Counter(ratt=3))
+            rader = sparade(fil)
+        self.assertEqual(list(rader), ["0.1.0", "0.2.0"])
+        self.assertEqual(
+            (rader["0.1.0"]["ratt"], rader["0.1.0"]["saknade"]), ("3", "0")
+        )
+
+
+def tabellerna():
+    for f in urvalet(URVALET):
         for t in f.tabeller:
             sidor = range(t.sida, t.sista_sida + 1)
-            yield f, t, " ".join(x for s in sidor for x in f.tal.get(s, []))
+            yield f.namn, t, Counter(siffror([f.tal.get(s, []) for s in sidor]))
 
 
-def sidtexterna(katalog: Path):
-    for f in urvalet(katalog):
+def sidtexterna():
+    for f in urvalet(URVALET):
         with pdfplumber.open(f.pdf) as pdf:
-            yield from (
-                (f.namn, nr, s.extract_text()) for nr, s in enumerate(pdf.pages, 1)
-            )
+            for nr, sida in enumerate(pdf.pages, 1):
+                yield f.namn, nr, sida.extract_text()
 
 
 class Urvalet(unittest.TestCase):
     def test_tabellernas_tal_star_bland_sidans_tal(self):
-        for f, t, sidans in tabellerna(KATALOG):
-            for rad in t.rader:
-                siffror = [s for c in rad for s in SIFFROR.findall(c)]
-                saknas = [
-                    s for s in siffror if not re.search(rf"(?<!\d){s}(?!\d)", sidans)
-                ]
-                with self.subTest(f.namn, tabell=t.namn, rad=rad):
-                    self.assertEqual(len(rad), len(t.rader[0]))
-                    self.assertEqual(saknas, [])
+        for namn, t, sidans in tabellerna():
+            with self.subTest(namn, tabell=t.namn):
+                self.assertEqual({len(r) for r in t.rader}, {len(t.rader[0])})
+                self.assertEqual(Counter(siffror(t.rader)) - sidans, Counter())
 
-    def test_utdragen_bar_inga_personuppgifter(self):
-        for namn, nr, text in sidtexterna(KATALOG):
+    def test_utdragens_textlager_bar_inga_personuppgifter(self):
+        for namn, nr, text in sidtexterna():
             with self.subTest(namn, sida=nr):
                 self.assertEqual(maska(text), text)
 
     def test_matten_for_poolens_version_star_i_matt_csv(self):
-        sparat = sparade(KATALOG / "matt.csv")[version("kommunhandlingar")]
-        matt = totalt(urvalets_utfall(KATALOG))
-        self.assertEqual({m: int(sparat[m]) for m in MATT}, dict(matt))
+        sparat = sparade(URVALET / "matt.csv")[version("kommunhandlingar")]
+        utfall = totalt(urvalets_utfall(URVALET))
+        self.assertEqual({m: int(sparat[m]) for m in MATT}, dict(utfall))
 
 
 if __name__ == "__main__":

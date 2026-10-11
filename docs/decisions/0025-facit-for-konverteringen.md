@@ -54,7 +54,7 @@ Valt: A, eftersom det är det enda alternativet där facit både står still,
 körs utan nät och är sant oberoende av konverteringen, och det mäter just
 tal och tabeller.
 
-* **Urvalet** är åtta dokument och sjutton sidor ur tre handlingar från
+* **Urvalet** är åtta dokument och sexton sidor ur tre handlingar från
   kommunstyrelsen och dess arbetsutskott och en från nämnden för teknik:
   årsredovisning, kommunbudget, uppföljningar, en skuggbudget, ett
   kommunalförbunds budget ur Excel, en protokollsparagraf, en
@@ -81,7 +81,10 @@ tal och tabeller.
 * **Omkonverteringen.** Målet är noll fel rader, noll saknade tabeller,
   noll avvikande tal och noll omärkta bildsidor. När omkonverteringen slås
   på bestämmer projektägaren med måtten som underlag, också hur många
-  osäkra och ofullständiga tabeller som är godtagbart.
+  osäkra och ofullständiga tabeller som är godtagbart. Varje tabell i
+  facit går att läsa, så `osakra` är just de tabeller som märkts osäkra i
+  onödan. Det räknas per tabell: en sida märkt `tabell-osaker` vars
+  CSV:er stämmer räknas inte.
 
 ### Consequences
 
@@ -107,8 +110,9 @@ tal och tabeller.
 ### Confirmation
 
 `tests/test_facit.py` prövar reglerna på påhittade sidor, att facit hänger
-ihop, att utdragen inte har något som maskas, och att måtten för den
-installerade versionen står i `matt.csv`. Projektägarens stickprov
+ihop, att utdragens textlager inte har något som maskas, och att måtten för den
+installerade versionen står i `matt.csv`. Den skannade sidan har inget
+textlager; AI-agenten har läst den mot sidbilden. Projektägarens stickprov
 redovisas i pull requesten.
 
 ## Pros and Cons of the Options
@@ -128,7 +132,7 @@ redovisas i pull requesten.
 * Dåligt, eftersom testet kräver nät och att kommunen behåller filen;
   kommunen visar bara ett par år bakåt.
 * Dåligt, eftersom en körning tar minuter: handlingarna är upp till
-  200 MB, och de valda sidorna är 17 av nära 1 900.
+  200 MB, och de valda sidorna är 16 av nära 1 900.
 
 ### C – Ögonblicksbilder av utdata
 
@@ -162,7 +166,7 @@ Diskussionen i tråden för #61, 2026-10-11:
    blir issues.
 3. **Urvalet.** Kungsbackas egen årsredovisning ligger i
    arbetsutskottets handlingar, där många sidor är bilder; sidan med
-   resultaträkningen som bild är med som den skannade sidan, och
+   balansräkningen som bild är med som den skannade sidan, och
    kommunbudgeten ger resultat-, kassaflödes- och balansräkningen med
    textlager. Riktiga skanningar med tal i poolen är protokoll och
    blanketter med namn, och kallelser och omröstningslistor har namn på

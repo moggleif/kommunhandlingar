@@ -932,7 +932,10 @@ poolen är värd att konvertera om (ADR-0019).
   sidorna i utdraget) och skrivs i samma CSV-format, men så som tabellen
   står på sidan: varje rad med sin hela etikett, också när etiketten
   bryts på två rader, och tabellens rubrik överst. `[rubrikrader]` i
-  `facit.toml` anger hur många rader rubriken har när de inte är en.
+  `facit.toml` anger hur många rader rubriken har när de inte är en. En
+  **datarad** är en rad under rubriken med minst ett tal. En tabell över
+  flera sidor är en CSV, och en rubrik som upprepas på nästa sida står
+  inte med, varken i CSV:en eller i den sidans `tal` (K19).
 - **Ett tal** är en cell som är ett tal eller ett streck, enligt samma
   mönster som konverteringen använder för celler. Cellerna jämförs med
   blanktecknen hopslagna och utan mellanrum mellan ett minustecken och
@@ -946,28 +949,30 @@ efter sammanslagningen över sidor:
    början eller slutet av facitradens. En rad med tal men utan etikett
    stämmer bara med en facitrad utan etikett.
 2. **Rubriken** är raderna före den första rad som stämmer med en datarad
-   i facit, alltså en rad under facits rubrik. Den stämmer när talen i
-   den, kolumn för kolumn uppifrån och ned, är desamma som i facits
-   rubrik, hur raderna än delats.
+   i facit. Den stämmer när talen i den, kolumn för kolumn uppifrån och
+   ned, är desamma som i facits rubrik, hur raderna än delats. En rad med
+   tal i rubriken som har andra tal än facits rubrik är en fel rad.
 3. **En fel rad** är en rad med tal efter rubriken som inte stämmer med
-   någon rad i facittabellerna på samma sidor. Har ingen rad stämt är
-   varje rad med tal fel.
-4. **En påhittad tabell** är en CSV på sidor där facit inte har någon
-   tabell.
+   någon rad i facittabellerna på samma sidor. En facitrad räknas bara
+   en gång: står samma rad två gånger är den andra fel. Har ingen rad
+   stämt är varje rad med tal fel.
+4. **En påhittad tabell** är en CSV med tal på sidor där facit inte har
+   någon tabell.
 
 Varje facittabell får sedan ett utfall:
 
 | Utfall          | Betyder                                                         |
 | --------------- | --------------------------------------------------------------- |
-| `ratt`          | Varje datarad stämmer med en rad i en CSV, och rubriken stämmer. |
+| `ratt`          | Varje datarad stämmer med en rad i samma CSV, och rubriken stämmer. En tabell som delats på två CSV:er är alltså ofullständig. |
 | `ofullstandiga` | Några datarader stämmer, men inte alla, eller inte rubriken.     |
 | `osakra`        | Ingen datarad stämmer, och någon av tabellens sidor är märkt: inte `ok`, eller i `tal_obekraftade`. |
 | `saknade`       | Ingen datarad stämmer, och sidorna är `ok` med bekräftade tal.    |
 
 Till sist jämförs talen. På sidorna som inte står i `tal_obekraftade` och
 inte är skannade i facit räknas siffergrupperna (`\d+`) i sidans text och
-i CSV:erna, och jämförs med siffergrupperna i facits `tal`. `tal_avviker`
-är antalet som saknas plus antalet som tillkommit; ett tal som delats av
+i CSV:erna, och jämförs med siffergrupperna i facits `tal`, för hela
+dokumentet på en gång. `tal_avviker` är antalet som saknas plus antalet
+som tillkommit; ett tal som delats av
 ett mellanrum (`4 76,7` för `476,7`) eller slagits ihop med ett annat
 syns där. Ett tecken framför ett tal i texten jämförs inte. `omarkta` är
 antalet skannade sidor som inte står i `tal_obekraftade`.
@@ -977,7 +982,7 @@ not för varje avvikelse, och totalt. Med `--spara` skrivs totalen på raden
 för poolens version i `tests/fixtures/facit/matt.csv`. Testet prövar att
 raden för den installerade versionen stämmer med en ny körning. Testet
 prövar också att varje tal i en facittabell står bland sidans `tal`, att
-facittabellernas rader har lika många fält, och att texten i utdragen inte
+facittabellernas rader har lika många fält, och att textlagret i utdragen inte
 har något som maskas enligt [Personuppgifter](#personuppgifter).
 
 ## Tolkade figurer
