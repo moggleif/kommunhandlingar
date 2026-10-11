@@ -62,15 +62,16 @@ I korthet:
 * **Kolumnerna** är varje cells kanter i hela tabellen. En rad utan
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
   över en gräns fäller tabellen.
-* **En sammanslagen cell** med en siffra delas bara när den går över
+* **En sammanslagen cell** med ett tal delas bara när den går över
   hela tabellens bredd, eller får text i varje kolumn den täcker och
-  bara har tal, eller står i första raden med en siffra i varje
+  bara har tal, eller står i första raden med ett tal i varje
   textrad och inget fält som bara är ett tal, som `Bokslut 2025 |
   Budget 2026`. Ett ensamt tal i en cell som är sammanslagen med flit
   flyttas inte till en kolumn.
+* **Ett tal** är här en siffra, eller ett streck som står för ett tal.
 * **Raderna** delas nerifrån: den nedersta textraden blir en egen rad när
   den står på samma höjd i varje ruta som inte är tom. Det som står
-  ovanför blir en rad bara när dess textrader med siffror står på samma
+  ovanför blir en rad bara när dess textrader med tal står på samma
   höjd, och varje ruta har en textrad där. En rubrik ovanför ett värde
   blir då en rubrikrad. Samma krav gäller en rad som har en cell som
   delats efter fälten, utom tabellens första rad när dess etikett står
@@ -121,6 +122,10 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   utan lodräta linjer (ADR-0016) läser samma ruta likadant i dag, så en
   regel för det hör hemma i båda
   ([#97](https://github.com/moggleif/kommunhandlingar/issues/97)).
+* Dåligt, eftersom ett streck räknas som ett tal, också när det är en
+  punkt i en lista med en bred lucka efter. En sådan rad över hela
+  bredden med punkter på olika höjder fäller tabellen, som då läses som
+  en tabell utan lodräta linjer.
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 

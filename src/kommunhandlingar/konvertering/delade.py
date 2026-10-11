@@ -87,7 +87,7 @@ def cellens(cell: tuple, ord_: list[dict], granser: tuple) -> tuple[str, list | 
 
 
 def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | None]:
-    """`text` utan siffror, `hel` över hela bredden, och för en cell med
+    """`text` utan tal, `hel` över hela bredden, och för en cell med
     text i varje kolumn den täcker slaget enligt `fylld`. Annars är
     cellen sammanslagen med flit och går inte att dela."""
     kolumner = {i for i, _ in ut}
