@@ -32,24 +32,23 @@ class Textrad:
         return any(c.isdigit() for c in self.text)
 
 
-@dataclass(frozen=True)
-class Delad:
-    bbox: tuple[float, float, float, float]
-    rader: list[list[str]]
-    # Kolumnernas vänsterkanter och tabellens högerkant (K19).
-    kanter: tuple[float, ...]
-
-
-def tabell(t: Table, ord_: list[dict]) -> Delad | None:
+def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
+    """Raderna, och kolumnernas vänsterkanter och tabellens högerkant
+    (K19); None när tabellen inte går att dela."""
     granser = kolumngranser(t)
     rader: list[list[str]] = []
-    for rad in t.rows:
+    for nr, rad in enumerate(t.rows):
         platser = placera(rad.cells, ord_, granser)
-        delrader = None if platser is None else dela(platser)
+        # Den första raden är rubriken; i de andra ska talen i en delad
+        # cell stå på samma höjd.
+        hojd = nr > 0 and any(
+            kolumn(c[0], c[2], granser) is None for c in filter(None, rad.cells)
+        )
+        delrader = None if platser is None else dela(platser, hojd)
         if delrader is None:
             return None
         rader += delrader
-    return Delad(t.bbox, rader, granser)
+    return rader, granser
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:
@@ -76,8 +75,9 @@ def placera(celler: list, ord_: list[dict], granser: tuple) -> list | None:
 def cellens(cell: tuple, ord_: list[dict], granser: tuple) -> list | None:
     """Cellens textrader med sin kolumn. En cell som går över flera
     kolumner delas efter fälten, när varje fält ligger inom en kolumn. Har
-    den en siffra ska den också gå över hela tabellens bredd eller få text
-    i varje kolumn den täcker; annars är den sammanslagen med flit."""
+    den en siffra ska den också gå över hela tabellens bredd, eller ha en
+    siffra i varje textrad och text i varje kolumn den täcker; annars är
+    den sammanslagen med flit."""
     egen = kolumn(cell[0], cell[2], granser)
     per_rad: dict[tuple[float, int | None], list[str]] = {}
     rader = radvis([o for o in ord_ if inom(mitt(o), cell)])
@@ -92,10 +92,13 @@ def delbar(cell: tuple, ut: list[tuple], granser: tuple) -> bool:
     kolumner = {i for i, _ in ut}
     if None in kolumner:
         return False
-    tackta_ = tackta(cell, granser)
-    hela = tackta_ == range(len(granser) - 1)
-    siffra = any(r.har_siffra for _, r in ut)
-    return not siffra or hela or kolumner == set(tackta_)
+    tackta_kolumner = tackta(cell, granser)
+    if not any(r.har_siffra for _, r in ut):
+        return True
+    if tackta_kolumner == range(len(granser) - 1):
+        return True
+    alla = all(r.har_siffra for _, r in ut)
+    return alla and kolumner == set(tackta_kolumner)
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
@@ -112,11 +115,12 @@ def kolumn(x0: float, x1: float, granser: tuple) -> int | None:
     return None
 
 
-def dela(platser: list[list[Textrad]]) -> list[list[str]] | None:
-    """Raden som den står när ingen cell rymmer mer än ett tal, annars
-    delad nerifrån; None när det inte går ihop."""
+def dela(platser: list[list[Textrad]], hojd: bool) -> list[list[str]] | None:
+    """Raden som den står när ingen cell rymmer mer än ett tal, och med
+    `hojd` när talen står på samma höjd; annars delad nerifrån. None när
+    det inte går ihop."""
     if not flera(platser):
-        return [celler(platser)]
+        return [celler(platser)] if not hojd or talen_i_hojd(platser) else None
     return nerifran(platser)
 
 

@@ -98,8 +98,8 @@ def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
     hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in sakra]
     for t in fallda:
         delad = delade.tabell(t, ord_)
-        if delad:
-            hittade.append((delad.bbox, delad.rader, delad.kanter))
+        if delad is not None:
+            hittade.append((t.bbox, *delad))
     return hittade, [t.bbox for t in fallda]
 
 

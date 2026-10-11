@@ -63,13 +63,15 @@ I korthet:
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
   över en gräns fäller tabellen.
 * **En sammanslagen cell** med en siffra delas bara när den går över
-  hela tabellens bredd eller får text i varje kolumn den täcker. Ett ensamt tal i en
-  cell som är sammanslagen med flit flyttas inte till en kolumn.
+  hela tabellens bredd, eller har en siffra i varje textrad och text i
+  varje kolumn den täcker. Ett ensamt tal i en cell som är sammanslagen
+  med flit flyttas inte till en kolumn.
 * **Raderna** delas nerifrån: den nedersta textraden blir en egen rad när
   den står på samma höjd i varje ruta som inte är tom. Det som står
   ovanför blir en rad bara när dess textrader med siffror står på samma
-  höjd, och varje ruta har en textrad där. En rubrik ovanför ett värde blir då en
-  rubrikrad.
+  höjd, och varje ruta har en textrad där. En rubrik ovanför ett värde
+  blir då en rubrikrad. Samma krav gäller en rad under rubrikraden som
+  har en cell som delats efter fälten.
 * **En rad med högst ett tal per cell** delas inte, så en rubrik i två
   rader, `Prognos⏎2024`, står kvar i en cell.
 
@@ -95,8 +97,8 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   fäller tabellen, fast en människa kan läsa den. I stickprovet gällde
   det tre av 35 tabeller.
 * Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer, en
-  cell över hela tabellens bredd, placeras i den kolumn det står i. Det är så en människa läser det, men
-  ingen linje i raden säger det.
+  cell över hela tabellens bredd, placeras i den kolumn det står i. Det
+  är så en människa läser det, men ingen linje i raden säger det.
 * Dåligt, eftersom en etikett utan värden i samma ruta som en rad med
   värden kan slås ihop med den, som `Intäkter⏎Kostnader` med talen för
   intäkterna. Geometriskt är det samma sak som en etikett som bryts över
@@ -110,8 +112,8 @@ Tester mot en PDF i `tests/fixtures/pdf/delade.pdf` med en rubrikrad
 utan lodräta linjer, tre rader i en ruta, rubrik och värde i samma
 ruta, en etikett mitt emellan två tal, en etikett över en linje och ett
 tal i en sammanslagen cell, och enhetstester av raddelningen, också med
-tal ur olika rader och en etikett under sina tal. Facit (K20) mäts före och efter, och
-mätningen på stickprovet står nedan.
+tal ur olika rader och en etikett under sina tal. Facit (K20) mäts före
+och efter, och mätningen på stickprovet står nedan.
 
 ## Pros and Cons of the Options
 
@@ -189,6 +191,15 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    en rubrik i två rader (`Budgetavvike⏎lse 2025`) har sitt år lägre än
    de andra rubrikerna: 22 av 35 i stället för 23. Hellre det än en
    regel som skiljer årtal från andra tal.
+8. **Tredje granskningsvarvet** hittade att en rad över hela bredden,
+   som delats efter fälten, inte prövades på höjd när ingen cell hade
+   mer än ett tal, så att `Övrigt⏎Netto` fick ett tal från vardera
+   raden, och att en sammanslagen cell med `Båda åren` och `8 132`
+   delades så att beloppet hamnade under ett av åren. Nu prövas talen
+   på höjd i varje rad under rubrikraden som har en sådan cell, och en
+   sammanslagen cell som inte går över hela bredden ska ha en siffra i
+   varje textrad. Rubrikraden prövas inte, eftersom rubriker i flera
+   rader står på olika höjder.
 
 ### Mätningen
 

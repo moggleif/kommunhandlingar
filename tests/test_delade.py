@@ -90,30 +90,32 @@ def rutor(*kolumner: list[tuple[float, str]]) -> list[list[Textrad]]:
 class TestDela(unittest.TestCase):
     def test_ett_tal_per_cell_delas_inte(self):
         platser = rutor([(0, "Prognos"), (10, "2024")], [(0, "4 078")])
-        self.assertEqual(dela(platser), [["Prognos\n2024", "4 078"]])
+        self.assertEqual(dela(platser, False), [["Prognos\n2024", "4 078"]])
 
     def test_textraderna_pa_samma_hojd_blir_rader(self):
         platser = rutor(
             [(0, "Intäkter"), (10, "Kostnader")], [(0, "4 078"), (10, "-1 845")]
         )
         self.assertEqual(
-            dela(platser), [["Intäkter", "4 078"], ["Kostnader", "-1 845"]]
+            dela(platser, False), [["Intäkter", "4 078"], ["Kostnader", "-1 845"]]
         )
 
     def test_nedersta_raden_skiljs_fran_rubriken(self):
         platser = rutor([(20, "Nämnden")], [(0, "Bokslut"), (10, "2025"), (20, "-1,3")])
-        self.assertEqual(dela(platser), [["", "Bokslut\n2025"], ["Nämnden", "-1,3"]])
+        self.assertEqual(
+            dela(platser, False), [["", "Bokslut\n2025"], ["Nämnden", "-1,3"]]
+        )
 
     def test_olika_hojd_ger_ingen_delning(self):
         platser = rutor([(5, "Intäkter")], [(0, "4 078"), (10, "4 054")])
-        self.assertIsNone(dela(platser))
+        self.assertIsNone(dela(platser, False))
 
     def test_tva_tal_pa_samma_textrad_ger_ingen_delning(self):
         platser = rutor([(0, "Lunch")], [(0, "1 200 kr|1 300 kr")])
-        self.assertIsNone(dela(platser))
+        self.assertIsNone(dela(platser, False))
 
     def test_tom_rad_star_kvar(self):
-        self.assertEqual(dela(rutor([], [])), [["", ""]])
+        self.assertEqual(dela(rutor([], []), False), [["", ""]])
 
     def test_rader_ovanfor_pa_olika_hojd_ger_ingen_delning(self):
         platser = rutor(
@@ -121,14 +123,14 @@ class TestDela(unittest.TestCase):
             [(0, "4 078"), (20, "2 233")],
             [(10, "-2 001"), (20, "2 053")],
         )
-        self.assertIsNone(dela(platser))
+        self.assertIsNone(dela(platser, False))
 
     def test_etikett_under_talen_ger_ingen_delning(self):
         platser = rutor(
             [(10, "Intäkter"), (20, "Kostnader")],
             [(0, "4 078"), (20, "-1 845")],
         )
-        self.assertIsNone(dela(platser))
+        self.assertIsNone(dela(platser, False))
 
     def test_tal_med_ord_framfor_provas_ocksa_pa_hojd(self):
         platser = rutor(
@@ -136,7 +138,12 @@ class TestDela(unittest.TestCase):
             [(0, "ca 4 078"), (20, "2 233")],
             [(10, "ca -2 001"), (20, "2 053")],
         )
-        self.assertIsNone(dela(platser))
+        self.assertIsNone(dela(platser, False))
+
+    def test_tal_i_delad_cell_pa_olika_hojd_ger_ingen_rad(self):
+        platser = rutor([(0, "Övrigt")], [(10, "2 233")], [(0, "-2 001")])
+        self.assertIsNone(dela(platser, True))
+        self.assertEqual(dela(platser, False), [["Övrigt", "2 233", "-2 001"]])
 
 
 GRANSER = (0, 100, 150, 200)
@@ -149,6 +156,10 @@ class TestDelbar(unittest.TestCase):
 
     def test_tal_med_ord_i_sammanslagen_cell_delas_inte(self):
         ut = [(2, Textrad(0, ("ca 8 132",)))]
+        self.assertFalse(delbar((100, 0, 200, 10), ut, GRANSER))
+
+    def test_etikett_och_tal_i_sammanslagen_cell_delas_inte(self):
+        ut = [(1, Textrad(0, ("Båda åren",))), (2, Textrad(0, ("8 132",)))]
         self.assertFalse(delbar((100, 0, 200, 10), ut, GRANSER))
 
     def test_ett_tal_per_tackt_kolumn_delas(self):

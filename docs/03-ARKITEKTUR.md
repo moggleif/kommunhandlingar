@@ -687,13 +687,17 @@ blir en säker tabell bara när varje steg går ihop:
    fält ska ligga inom en kolumn; ett fält som går över en
    kolumngräns, som en etikett som är längre än sin kolumn, gör att
    tabellen inte delas. Har cellen en siffra ska den dessutom gå över
-   hela tabellens bredd, eller få text i varje kolumn den täcker. Ett
-   ensamt tal i en cell som är sammanslagen över två kolumner, men inte
-   över hela bredden, gör att tabellen inte delas.
+   hela tabellens bredd, eller ha en siffra i varje textrad och få text
+   i varje kolumn den täcker. Ett ensamt tal, eller en etikett och ett
+   tal, i en cell som är sammanslagen över två kolumner men inte över
+   hela bredden gör att tabellen inte delas.
 3. **Raderna:** en rad där ingen cell, efter steg 1 och 2, rymmer mer än
    ett tal står som den är, med cellens textrader åtskilda av
-   radbrytningar. Annars delas den nerifrån: den nedersta textraden i
-   varje cell som inte är tom blir en egen rad, när de står på samma
+   radbrytningar. Har raden en cell som delats efter fälten, och är den
+   inte tabellens första rad, ska varje textrad med en siffra då stå på
+   samma höjd, och varje cell som inte är tom ha en textrad på den
+   höjden. En rad där en cell rymmer mer än ett tal delas nerifrån:
+   den nedersta textraden i varje cell som inte är tom blir en egen rad, när de står på samma
    höjd (högst 3 punkter isär) och ingen av dem rymmer mer än ett tal.
    Det som står ovanför prövas på samma sätt. När inget i det rymmer
    mer än ett tal blir det en rad, om varje textrad med en siffra står
