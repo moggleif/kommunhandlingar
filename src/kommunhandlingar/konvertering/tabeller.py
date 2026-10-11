@@ -7,7 +7,7 @@ tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 än ett tal.
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
-plustecken, parentes och enhet, eftersom ett tal för mycket bara fäller
+plustecken, parentes, enhet och fotnotsstjärna, eftersom ett tal för mycket bara fäller
 tabellen, medan ett tal för lite ger en cell med två tal i en CSV. En
 fälld tabell kan ändå delas (`delade.py`, ADR-0028).
 """
@@ -33,7 +33,7 @@ ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
 VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 # En fotnotsstjärna direkt efter en siffra, som i `4 078*`.
-FOTNOT = re.compile(r"(?<=\d)\*+")
+FOTNOT = re.compile(r"(?<=\d)\*+(?!\d)")
 
 
 def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
@@ -90,12 +90,12 @@ def flera_falt(ord_: list[dict]) -> bool:
     """Två fält på samma rad i cellen som var för sig är ett tal eller ett
     streck."""
     for rad in radvis(ord_):
-        if sum(1 for f in falt(rad, dela_tvetydiga=True) if ar_tal(f.text)) > 1:
+        if sum(1 for f in falt(rad, dela_tvetydiga=True) if talfalt(f.text)) > 1:
             return True
     return False
 
 
-def ar_tal(text: str) -> bool:
+def talfalt(text: str) -> bool:
     """Ett tal eller ett streck, med eller utan fotnotsstjärna."""
     return TALRAD.fullmatch(FOTNOT.sub("", text)) is not None
 

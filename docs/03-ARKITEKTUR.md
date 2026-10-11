@@ -590,7 +590,8 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
     och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
 
   En fotnotsstjärna direkt efter en siffra räknas bort, så att
-  `4 078*⏎-2 001*` rymmer två tal. Stjärnan står kvar i cellen.
+  `4 078*⏎-2 001*` rymmer två tal, och likaså när tabellen delas.
+  Stjärnan står kvar i cellen.
 
   Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
   samma cell. En sådan tabell delas när det går, enligt
