@@ -33,7 +33,7 @@ class TestKommunfilen(unittest.TestCase):
         self.assertEqual(len(kommun.organ), 17)
         self.assertEqual(kommun.organ[0].id, "ga")
         self.assertEqual([o.id for o in kommun.organ[-3:]], ["ks", "ks-au", "kf"])
-        self.assertFalse(kommun.kallor[0].wayback)
+        self.assertEqual(kommun.kallor[0].wayback, ("ga",))
         self.assertFalse(kommun.omkonvertera)
 
     def test_utan_arkiv(self):
@@ -86,8 +86,9 @@ class TestFelStopparKorningen(unittest.TestCase):
     def test_okand_adapter(self):
         self.stoppas(lambda d: d["kalla"][0].update(adapter="episerver"))
 
-    def test_wayback_ar_sant_eller_falskt(self):
-        self.stoppas(lambda d: d["kalla"][0].update(wayback="ja"))
+    def test_wayback_ar_en_lista_med_kallans_organ(self):
+        self.stoppas(lambda d: d["kalla"][0].update(wayback=True))
+        self.stoppas(lambda d: d["kalla"][0].update(wayback=["okant"]))
 
     def test_omkonvertera_ar_sant_eller_falskt(self):
         self.stoppas(lambda d: d.update(omkonvertera="nej"))

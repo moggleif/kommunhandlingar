@@ -1,4 +1,5 @@
-"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011. Test: tests/test_sitevision.py."""
+"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011 och ADR-0027.
+Test: tests/test_sitevision.py."""
 
 import re
 from dataclasses import dataclass
@@ -20,14 +21,15 @@ class Kalla:
     monster: tuple[monster.Monster, ...]
     manader: tuple[str, ...]
     rattelser: dict[str, date]
-    wayback: bool
+    wayback: tuple[str, ...]
 
 
 def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
     schema.kontrollera_falt(post, FALT, var)
     monsterposter = schema.varde(post, "monster", list, var)
+    motessidor = sidor(schema.varde(post, "sidor", dict, var), organ_id, var)
     return Kalla(
-        sidor(schema.varde(post, "sidor", dict, var), organ_id, var),
+        motessidor,
         rubrik(schema.varde(post, "rubrik", str, var), var),
         tuple(
             monster.kompilera(p, MONSTERGRUPPER, f"{var}, mönster")
@@ -35,8 +37,14 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
         ),
         monster.manader(post, var),
         rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
-        schema.valfritt(post, "wayback", bool, var) or False,
+        wayback(schema.textlista(post, "wayback", var), motessidor, var),
     )
+
+
+def wayback(organ: tuple[str, ...], motessidor: dict[str, str], var: str):
+    if okanda := set(organ) - motessidor.keys():
+        raise Konfigurationsfel(f"{var}: wayback {sorted(okanda)} saknar mötessida")
+    return organ
 
 
 def sidor(tabell: dict, organ_id: list[str], var: str) -> dict[str, str]:

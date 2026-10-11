@@ -416,11 +416,19 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 
 ## K16 — Internet Archive fyller luckor, sist i körningen
 
-- **Givet** en källa vars konfiguration anger ett arkiv
+Issues: [#51](https://github.com/moggleif/kommunhandlingar/issues/51) och
+[#87](https://github.com/moggleif/kommunhandlingar/issues/87), som slår på
+arkivet per organ.
+
+- **Givet** en källa vars konfiguration anger arkivet för ett eller flera
+  organ
 - **När** körningen har försökt varje kandidat ur de levande källorna, i
   alla kommuner, inom tidsbudgeten
-- **Så** upptäcks och hämtas arkivets kopior av källans filer. Ett
+- **Så** upptäcks och hämtas arkivets kopior av de organens filer. Ett
   `ej-hamtad` räknas som försökt.
+- **Givet** ett organ i källan som konfigurationen inte anger för arkivet
+- **När** arkivet upptäcks
+- **Så** läses organets mötessida inte ur arkivet.
 - **Givet** att den levande hämtningen har nått tidsbudgetens mjuka gräns
 - **När** arkivet står på tur
 - **Så** frågas arkivet inte, och nästa körning försöker igen.

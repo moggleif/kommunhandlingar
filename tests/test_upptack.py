@@ -93,7 +93,7 @@ class TestArkivet(unittest.TestCase):
     def setUp(self):
         exempelby = las(FIXTURER / "exempelby.toml")
         self.utan_arkiv = exempelby
-        kalla = replace(exempelby.kallor[0], wayback=True)
+        kalla = replace(exempelby.kallor[0], wayback=("bun", "fsn"))
         self.kommun = replace(exempelby, kallor=(kalla,))
 
     def test_utan_arkiv_i_konfigurationen_fragas_inget(self):
