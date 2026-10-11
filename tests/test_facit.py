@@ -97,6 +97,16 @@ class Tabellerna(unittest.TestCase):
         utfall = matt(ok(TEXT, RADER[:2], RADER[2:]))
         self.assertEqual((utfall["ofullstandiga"], utfall["fel_rader"]), (1, 0))
 
+    def test_tva_tabeller_i_samma_csv_ar_ofullstandiga(self):
+        andra = [["Not", "Text"], ["Avgifter", "77"]]
+        tabeller = [Tabell("1-1", 1, 1, 1, RADER), Tabell("1-2", 1, 1, 1, andra)]
+        utfall = matt(
+            ok(TEXT, [*RADER, andra[1]]),
+            tal={1: [*SIDANS_TAL, "77"]},
+            tabeller=tabeller,
+        )
+        self.assertEqual((utfall["ofullstandiga"], utfall["fel_rader"]), (2, 0))
+
     def test_en_rubrik_delad_pa_tva_rader_stammer(self):
         delad = [["Belopp", "År", "År"], ["", "2025", "2026"], *RADER[1:]]
         self.assertEqual(matt(ok(TEXT, delad))["ratt"], 1)

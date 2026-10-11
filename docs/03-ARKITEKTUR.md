@@ -963,8 +963,8 @@ Varje facittabell får sedan ett utfall:
 
 | Utfall          | Betyder                                                         |
 | --------------- | --------------------------------------------------------------- |
-| `ratt`          | Varje datarad stämmer med en rad i samma CSV, och rubriken stämmer. En tabell som delats på två CSV:er är alltså ofullständig. |
-| `ofullstandiga` | Några datarader stämmer, men inte alla, eller inte rubriken.     |
+| `ratt`          | Varje datarad stämmer med en rad i samma CSV, CSV:en har inga rader ur en annan facittabell, och rubriken stämmer. |
+| `ofullstandiga` | Några datarader stämmer, men inte så. Noten säger varför: rader saknas, tabellen är delad på flera CSV:er, ihop med en annan tabell, eller rubriken stämmer inte. |
 | `osakra`        | Ingen datarad stämmer, och någon av tabellens sidor är märkt: inte `ok`, eller i `tal_obekraftade`. |
 | `saknade`       | Ingen datarad stämmer, och sidorna är `ok` med bekräftade tal.    |
 

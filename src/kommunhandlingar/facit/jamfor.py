@@ -52,7 +52,8 @@ def jamfor(facit: Facit, resultat: Resultat) -> Utfall:
         granska(t, facit.tabeller, utfall)
     markerade = markerade_sidor(resultat)
     for f in facit.tabeller:
-        utfall.rakna(status(f, utfall, markerade), [f"tabell {f.namn}"])
+        matt, varfor = status(f, utfall, markerade)
+        utfall.rakna(matt, [f"tabell {f.namn}{varfor}"])
     saknas, tillkommer = tal.avvikelser(facit, resultat)
     saknade = [f"saknas {t}" for t in saknas.elements()]
     utfall.rakna("tal_avviker", saknade + [f"ny {t}" for t in tillkommer.elements()])
@@ -122,19 +123,31 @@ def markerade_sidor(resultat: Resultat) -> set[int]:
     return {nr for nr, k in sidor if k != "ok"} | set(resultat.tal_obekraftade)
 
 
-def status(f: Tabell, utfall: Utfall, markerade: set[int]) -> str:
-    data = {i for i, r in enumerate(f.rader) if i >= f.rubrikrader and talrad(r)}
+def status(f: Tabell, utfall: Utfall, markerade: set[int]) -> tuple[str, str]:
+    """Tabellens utfall och, när den är ofullständig, varför."""
     per_csv = defaultdict(set)
     for namn, i, csv_namn in utfall.traffar:
-        if namn == f.namn:
-            per_csv[csv_namn].add(i)
-    if not per_csv:
+        per_csv[csv_namn].add((namn, i))
+    egna = {c: {i for n, i in r if n == f.namn} for c, r in per_csv.items()}
+    egna = {c: rader for c, rader in egna.items() if rader}
+    if not egna:
         spannet = set(range(f.sida, f.sista_sida + 1))
-        return "osakra" if spannet & markerade else "saknade"
-    hel = any(data <= rader for rader in per_csv.values())
-    if hel and rubrik_stammer(f, utfall.rubriker.get(f.namn)):
-        return "ratt"
-    return "ofullstandiga"
+        return ("osakra" if spannet & markerade else "saknade"), ""
+    fel = orsak(f, egna, per_csv, utfall.rubriker.get(f.namn))
+    return ("ofullstandiga", f" ({fel})") if fel else ("ratt", "")
+
+
+def orsak(f: Tabell, egna: dict, per_csv: dict, rubrik: list | None) -> str:
+    data = {i for i, r in enumerate(f.rader) if i >= f.rubrikrader and talrad(r)}
+    hela = [c for c, rader in egna.items() if data <= rader]
+    if not hela:
+        saknas = len(data - set().union(*egna.values()))
+        return (
+            f"delad på {len(egna)} CSV:er" if not saknas else f"{saknas} rader saknas"
+        )
+    if all(len(per_csv[c]) > len(egna[c]) for c in hela):
+        return "ihop med en annan tabell"
+    return "" if rubrik_stammer(f, rubrik) else "rubriken stämmer inte"
 
 
 def rubrik_stammer(f: Tabell, rubrik: list[list[str]] | None) -> bool:
