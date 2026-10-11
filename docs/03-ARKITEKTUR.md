@@ -1027,9 +1027,13 @@ webbplatsen, `python -m pagefind --site <utkatalog>`, till
   "Dokumentet har ingen text."
 - **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
   att länkarna i texten till CSV:erna fungerar.
-- **Söket** (K21, `webbplats/sok.py`): dokumentsidans titel och text står
-  i ett element med `data-pagefind-body`, så att Pagefind indexerar dem
-  och inget annat på webbplatsen. Först i elementet står ett dolt stycke
+- **Söket** (K21, `webbplats/sok.py`): dokumentsidans sidor står i ett
+  element med `data-pagefind-body`, så att Pagefind indexerar dem och
+  inget annat på webbplatsen. Webbplatsens egen text i elementet –
+  markeringarna under sidornas rubriker, raden före en osäker tabell och
+  "Dokumentet har ingen text." – har `data-pagefind-ignore`; bara
+  rubrikerna "Sida N" står kvar, eftersom träffarna per sida tar sin titel
+  och sitt ankare ur dem. Först i elementet står ett dolt stycke
   med `data-pagefind-ignore` som bara bär träffens titel
   (`data-pagefind-meta="title"`: sidans rubrik och, när kvaliteten inte är
   `full`, kvaliteten) och filtren Organ (organets namn), År, Typ och

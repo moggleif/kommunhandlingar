@@ -569,8 +569,9 @@ Hur och varför står i
 - **När** någon söker efter ordet på webbplatsens söksida
 - **Så** finns dokumentet bland träffarna, med en länk till den sidan i
   dokumentet.
-- **Givet** ett ord som bara står i dokumentets härkomst, i menyn eller
-  på en status- eller organsida
+- **Givet** ett ord som bara står i dokumentets härkomst, i webbplatsens
+  egna markeringar av kvalitet, i menyn eller på en status- eller
+  organsida
 - **När** någon söker efter ordet
 - **Så** ger det ingen träff.
 - **Givet** ett dokument vars kvalitet inte är `full`

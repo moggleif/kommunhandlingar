@@ -9,8 +9,11 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
 from kommunhandlingar.webbplats.organsida import dokumentrubrik
-from kommunhandlingar.webbplats.sok import sokbar
+from kommunhandlingar.webbplats.sok import sokuppgifter
 from kommunhandlingar.webbplats.text import pdfsidor
+
+# Webbplatsens egen text i dokumentets text hålls utanför söket (ADR-0026).
+INGEN_TEXT = "<p data-pagefind-ignore>Dokumentet har ingen text.</p>"
 
 
 def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) -> str:
@@ -21,11 +24,11 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     vag = [(f"{rot(adress)}{kommun.id}.html", kommun.namn), (organsida, organ)]
     md = f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
     rubrik = f"{organ} {mote}: {dokumentrubrik(falt)}"
-    sidorna = pdfsidor(text, falt) or "<p>Dokumentet har ingen text.</p>"
+    sidorna = pdfsidor(text, falt) or INGEN_TEXT
     innehall = (
         stig([*vag, (f"{organsida}#{mote}", mote)])
         + harkomst(falt, md)
-        + sokbar(rubrik, falt, organ, sidorna)
+        + f"<div data-pagefind-body>{sokuppgifter(rubrik, falt, organ)}{sidorna}</div>"
     )
     return sida(mall, adress, rubrik, innehall)
 

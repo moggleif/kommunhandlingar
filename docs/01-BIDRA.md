@@ -20,10 +20,10 @@ pip install -e ".[utveckling,webbplats]"
 `pip install -e .` gör paketet i `src/kommunhandlingar/` importerbart, så
 att testerna når det, och drar in markdown-it-py, som webbplatsen och
 testerna renderar Markdown med. `[utveckling]` tar med ruff och
-pip-audit, och `[webbplats]` Pagefind, som bygger sökets index och prövas
-i testerna, i de versioner som
+pip-audit, i de versioner som
 står i `pyproject.toml`, samma som CI installerar; ruffs förhandsregler
-kan ändras mellan versioner. Med
+kan ändras mellan versioner. `[webbplats]` tar med Pagefind, som bygger
+sökets index och som testerna av söket kör. Med
 [uv](https://docs.astral.sh/uv/) går samma ruff att köra utan
 installation: `uvx ruff@<versionen i pyproject.toml> check .`.
 

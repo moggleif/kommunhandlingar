@@ -107,7 +107,9 @@ class TestDokumentsida(unittest.TestCase):
     def test_varje_sida_har_rubrik_och_kvalitet(self):
         html = self.dokumentsida(dokument(per_sida="[ok, ocr]", tal="[2]"))
         self.assertIn(
-            '<h2 id="sida-1">Sida 1</h2><p class="markering">Kvalitet: ok.</p>', html
+            '<h2 id="sida-1">Sida 1</h2>'
+            '<p class="markering" data-pagefind-ignore>Kvalitet: ok.</p>',
+            html,
         )
         self.assertIn("Kvalitet: ocr. Talen på sidan är obekräftade.", html)
         self.assertIn('<a href="#sida-2">2</a>', html)

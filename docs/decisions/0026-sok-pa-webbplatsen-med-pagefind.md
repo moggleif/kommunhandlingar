@@ -46,15 +46,23 @@ dokumentet och håller varje sökning liten, utan egen sökkod.
   bara de bitar en sökning behöver.
 * **Bara dokumentens text indexeras.** Dokumentsidans text ligger i ett
   element med `data-pagefind-body`; härkomsten, menyn och status- och
-  organsidorna ligger utanför och indexeras inte.
+  organsidorna ligger utanför och indexeras inte. Webbplatsens egna
+  markeringar i texten har `data-pagefind-ignore`. Rubrikerna "Sida N"
+  indexeras, eftersom träffen per sida tar sin titel och sitt ankare ur
+  dem; ordet "sida" ger därför träff i alla dokument.
 * **Märkningen:** träffens titel är dokumentets rubrik och, när
   kvaliteten inte är `full`, kvaliteten. En sida i `tal_obekraftade` har
   "obekräftade tal" i sin rubrik, så att det står vid träffen på den
-  sidan.
+  sidan. En osäker tabell märks inte per sida i träfflistan: dokumentets
+  kvalitet i titeln (`text-utan-tabeller`) säger att den finns, och på
+  sidan står den märkt som förut (K18).
 * **Filter** för organ, år, typ och kvalitet sätts i dokumentsidan med
   Pagefinds attribut.
 * **JavaScript bara på söksidan** (`sok.html`), med Pagefinds färdiga
-  sökruta och filerna från webbplatsen själv. Alla andra sidor är som
+  sökruta (Default UI) och filerna från webbplatsen själv. Pagefind
+  rekommenderar sedan version 1.5 sina webbkomponenter för nya
+  webbplatser, med bättre tillgänglighet; Default UI valdes för att det
+  är en rad att sätta upp, och bytet prövas om tillgängligheten brister. Alla andra sidor är som
   förut utan JavaScript, och söksidan säger vad som krävs när JavaScript
   saknas. Det ändrar ADR-0012 på den punkten.
 * **Pagefind** (MIT) installeras i bygget som Python-paket med det
@@ -62,12 +70,13 @@ dokumentet och håller varje sökning liten, utan egen sökkod.
 
 ### Consequences
 
-* Bra, eftersom ett prov på hela poolen gav ett index på 103 MB som byggdes
-  på en minut, och en sökning hämtade 0,5–0,9 MB.
+* Bra, eftersom ett prov på hela poolen gav ett index på omkring 100 MB
+  som byggdes på en minut, och en sökning hämtade 0,5–0,9 MB.
 * Bra, eftersom Pagefind hanterar svenska böjningar och länkar till
   rubrikerna med ankare, `#sida-N`.
-* Dåligt, eftersom webbplatsen växer från omkring 300 MB till 400 MB, och
-  en kommun till av samma storlek tar den nära gränsen på 1 GB.
+* Dåligt, eftersom webbplatsen växer från omkring 235 MB till 330 MB, och
+  en kommun till av samma storlek tar den till två tredjedelar av gränsen
+  på 1 GB.
 * Dåligt, eftersom söket kräver JavaScript, och bygget får ett program till.
 * Neutralt, eftersom ordet inte markeras på dokumentets sida efter
   klicket; det skulle kräva JavaScript också där.
@@ -75,8 +84,9 @@ dokumentet och håller varje sökning liten, utan egen sökkod.
 ### Confirmation
 
 `tests/test_webbplats_sok.py` bygger en liten webbplats ur påhittade
-dokument, kör Pagefind på den och kontrollerar att bara dokumenten
-indexerades, med filtren, och prövar märkningen i rubrikerna. Att en
+dokument, kör Pagefind på den och läser Pagefinds index: att bara
+dokumenten och deras text indexerades, utan webbplatsens egen text, och
+att titeln, filtren och sidornas rubriker med ankare är de väntade. Att en
 sökning i webbläsaren når rätt sida prövades för hand på hela poolen.
 
 ## Pros and Cons of the Options
@@ -116,7 +126,7 @@ sökning i webbläsaren når rätt sida prövades för hand på hela poolen.
    Issuet frågade om ett index i webbläsaren eller GitHubs sök, hur stort
    ett index blir och om det kan delas per organ eller år.
 2. **Provet (agenten).** Agenten byggde webbplatsen med hela poolen och
-   körde Pagefind på den: 103 MB index, 132 kB för att öppna söksidan och
+   körde Pagefind på den: omkring 100 MB index, 132 kB för att öppna söksidan och
    0,5–0,9 MB per sökning, med träffar som länkar till rätt sida.
    Pagefind delar indexet självt, så det behöver inte delas per organ
    eller år. GitHubs kodsök kräver inloggning och föll därför bort.

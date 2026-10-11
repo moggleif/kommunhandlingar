@@ -14,8 +14,10 @@ from kommunhandlingar.frontmatter import lista
 LASARE = MarkdownIt("commonmark", {"html": False}).enable(["table", "strikethrough"])
 SIDA = re.compile(r"^<!-- sida (\d+) -->$", re.MULTILINE)
 OSAKER = '<pre><code class="language-osaker-tabell">'
+# Markeringarna är webbplatsens egen text och hålls utanför söket (ADR-0026).
+MARKERING = '<p class="markering" data-pagefind-ignore>'
 OSAKER_MARKERAD = (
-    '<p class="markering">Osäker tabell, med uppställningen som på sidan:</p>' + OSAKER
+    MARKERING + "Osäker tabell, med uppställningen som på sidan:</p>" + OSAKER
 )
 
 
@@ -36,7 +38,7 @@ def pdfsida(nr: str, markdown: str, kvalitet: str, obekraftad: bool) -> str:
     rubrik = f"Sida {nr}" + (" – obekräftade tal" if obekraftad else "")
     return (
         f'<section class="sida"><h2 id="sida-{nr}">{rubrik}</h2>'
-        f'<p class="markering">{escape(markering)}</p>{rendera(markdown)}</section>'
+        f"{MARKERING}{escape(markering)}</p>{rendera(markdown)}</section>"
     )
 
 
