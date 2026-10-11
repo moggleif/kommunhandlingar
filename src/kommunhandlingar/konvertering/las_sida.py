@@ -93,9 +93,9 @@ def textsida(sida: Page) -> Sida:
 def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
     """Tabellerna med linjer som ruta, rader och kanter, också de som
     delats (ADR-0028), och rutorna kring dem som fälldes."""
-    sakra, fallda = tabeller.sakra(sida)
-    hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in sakra]
     ord_ = sida.extract_words()
+    sakra, fallda = tabeller.sakra(sida, ord_)
+    hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in sakra]
     for t in fallda:
         delad = delade.tabell(t, ord_)
         if delad:

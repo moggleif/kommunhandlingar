@@ -686,17 +686,24 @@ blir en säker tabell bara när varje steg går ihop:
    lodräta linjer och ett tvetydigt mellanrum räknat som en gräns. Varje
    fält ska ligga inom en kolumn; ett fält som går över en
    kolumngräns, som en etikett som är längre än sin kolumn, gör att
-   tabellen inte delas.
+   tabellen inte delas. Har cellen ett tal ska den dessutom vara radens
+   enda cell, eller få text i varje kolumn den täcker. Ett ensamt tal i
+   en cell som är sammanslagen över två kolumner, i en rad som har andra
+   lodräta linjer, gör att tabellen inte delas.
 3. **Raderna:** en rad där ingen cell, efter steg 1 och 2, rymmer mer än
    ett tal står som den är, med cellens textrader åtskilda av
    radbrytningar. Annars delas den nerifrån: den nedersta textraden i
    varje cell som inte är tom blir en egen rad, när de står på samma
    höjd (högst 3 punkter isär) och ingen av dem rymmer mer än ett tal.
-   Det som står ovanför prövas på samma sätt, tills inget rymmer mer än
-   ett tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3`
-   med etiketten på värdets höjd en rubrikrad och en värderad. En
-   etikett som står mitt emellan två tal, eller två tal på samma
-   textrad i en kolumn, gör att tabellen inte delas.
+   Det som står ovanför prövas på samma sätt. När inget i det rymmer
+   mer än ett tal blir det en rad, om varje textrad med ett tal står på
+   samma höjd och varje cell som inte är tom har en textrad på den
+   höjden; text utan tal, som en rubrik, kan stå på olika höjder. Så
+   blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med etiketten
+   på värdets höjd en rubrikrad och en värderad. En etikett som står på
+   en annan höjd än sina tal, tal ur olika rader som skulle hamna på
+   samma rad, eller två tal på samma textrad i en kolumn gör att
+   tabellen inte delas. En tom rad står kvar som i en tabell med linjer.
 
 Den delade tabellens kolumngränser för
 [Tabeller över flera sidor](#tabeller-över-flera-sidor) är kolumnernas

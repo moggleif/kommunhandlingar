@@ -9,7 +9,9 @@ linjer där en cell rymmer mer än ett tal.
 3. Rubrik och värde i samma ruta, etiketten på värdets höjd.
 4. Två tal i rutan men etiketten står mitt emellan: förblir osäker.
 5. Rubrikraden saknar lodräta linjer, och rubrikens etikett går över
-   linjen under: förblir osäker.
+   linjen under: delas inte.
+6. Rubrikraden saknar lodräta linjer, och en rad har ett enda tal i en
+   cell över två kolumner: delas inte.
 """
 
 from pathlib import Path
@@ -85,6 +87,17 @@ def rubrik_over_linjen(c: Canvas) -> None:
     rubrik_utan_linjer(c, ("Belopp i tusentals kronor, netto", "2026", "2027"))
 
 
+def tal_over_tva_kolumner(c: Canvas) -> None:
+    vagrata(c, [780, 760, 740, 720])
+    c.line(X[0], 780, X[0], 720)
+    c.line(X[-1], 780, X[-1], 720)
+    lodrata(c, 760, 740)
+    c.line(X[1], 740, X[1], 720)
+    rad(c, 766, ("Belopp, tkr", "2026", "2027"))
+    rad(c, 746, ("Intäkter", "4 078", "4 054"))
+    rad(c, 726, ("Summa ram", "", "8 132"))
+
+
 def skapa() -> None:
     c = Canvas(str(HAR / "delade.pdf"), pagesize=(B, H))
     for sida in (
@@ -93,6 +106,7 @@ def skapa() -> None:
         rubrik_och_varde,
         etikett_mitt_emellan,
         rubrik_over_linjen,
+        tal_over_tva_kolumner,
     ):
         sida(c)
         c.showPage()

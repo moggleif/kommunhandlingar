@@ -38,6 +38,7 @@ class TestDeladeSidor(unittest.TestCase):
                 "ok",  # rubrik och värde i samma ruta
                 "tabell-osaker",  # etiketten mitt emellan talen
                 "ok",  # läses i stället som tabell utan lodräta linjer
+                "tabell-osaker",  # ett tal i en cell över två kolumner
             ],
         )
 
@@ -70,8 +71,14 @@ class TestDeladeSidor(unittest.TestCase):
     def test_etikett_over_linjen_delas_inte(self):
         with pdfplumber.open(PDF) as pdf:
             sida = pdf.pages[4]
-            _, (fallen,) = tabeller.sakra(sida)
-            self.assertIsNone(delade.tabell(fallen, sida.extract_words()))
+            ord_ = sida.extract_words()
+            _, (fallen,) = tabeller.sakra(sida, ord_)
+            self.assertIsNone(delade.tabell(fallen, ord_))
+
+    def test_tal_over_tva_kolumner_blir_ingen_tabell(self):
+        sida = self.resultat.sidor[5]
+        self.assertEqual(sida.tabeller, [])
+        self.assertIn("8 132", sida.text)
 
 
 def rutor(*kolumner: list[tuple[float, str]]) -> list[list[Textrad]]:
@@ -105,8 +112,23 @@ class TestDela(unittest.TestCase):
         platser = rutor([(0, "Lunch")], [(0, "1 200 kr|1 300 kr")])
         self.assertIsNone(dela(platser))
 
-    def test_tom_rad_ger_inga_rader(self):
-        self.assertEqual(dela(rutor([], [])), [])
+    def test_tom_rad_star_kvar(self):
+        self.assertEqual(dela(rutor([], [])), [["", ""]])
+
+    def test_rader_ovanfor_pa_olika_hojd_ger_ingen_delning(self):
+        platser = rutor(
+            [(0, "Intäkter"), (10, "Kostnader"), (20, "Netto")],
+            [(0, "4 078"), (20, "2 233")],
+            [(10, "-2 001"), (20, "2 053")],
+        )
+        self.assertIsNone(dela(platser))
+
+    def test_etikett_under_talen_ger_ingen_delning(self):
+        platser = rutor(
+            [(10, "Intäkter"), (20, "Kostnader")],
+            [(0, "4 078"), (20, "-1 845")],
+        )
+        self.assertIsNone(dela(platser))
 
 
 if __name__ == "__main__":

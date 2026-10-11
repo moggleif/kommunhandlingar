@@ -16,7 +16,9 @@ men tabellerna går förlorade som data
 ([#60](https://github.com/moggleif/kommunhandlingar/issues/60)).
 
 Räknat med dagens regel har 976 CSV:er i 223 av poolens dokument, skrivna
-innan regeln fanns, en sådan cell. Ett stickprov visade tre mönster:
+innan regeln fanns, en sådan cell. (Issuet räknade 223 CSV:er i 79
+dokument med en tidigare, snävare regel; att 223 kommer igen är en
+slump.) Ett stickprov visade tre mönster:
 
 * **En vågrät linje saknas** och flera rader står i samma ruta, som
   `30 %⏎18 %⏎10 %⏎5 %`. Ungefär 60 % av CSV:erna.
@@ -60,9 +62,14 @@ I korthet:
 * **Kolumnerna** är varje cells kanter i hela tabellen. En rad utan
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
   över en gräns fäller tabellen.
+* **En sammanslagen cell** med ett tal delas bara när den är radens enda
+  cell eller får text i varje kolumn den täcker. Ett ensamt tal i en
+  cell som är sammanslagen med flit flyttas inte till en kolumn.
 * **Raderna** delas nerifrån: den nedersta textraden blir en egen rad när
-  den står på samma höjd i varje ruta som inte är tom. En rubrik ovanför
-  ett värde blir då en rubrikrad.
+  den står på samma höjd i varje ruta som inte är tom. Det som står
+  ovanför blir en rad bara när dess tal står på samma höjd, och varje
+  ruta har en textrad där. En rubrik ovanför ett värde blir då en
+  rubrikrad.
 * **En rad med högst ett tal per cell** delas inte, så en rubrik i två
   rader, `Prognos⏎2024`, står kvar i en cell.
 
@@ -87,6 +94,9 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   rubrik som står mitt över två kolumner, i en rad utan lodräta linjer
   fäller tabellen, fast en människa kan läsa den. I stickprovet gällde
   det tre av 35 tabeller.
+* Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer
+  placeras i den kolumn det står i. Det är så en människa läser det, men
+  ingen linje i raden säger det.
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 
@@ -94,8 +104,9 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 
 Tester mot en PDF i `tests/fixtures/pdf/delade.pdf` med en rubrikrad
 utan lodräta linjer, tre rader i en ruta, rubrik och värde i samma
-ruta, en etikett mitt emellan två tal och en etikett över en linje, och
-enhetstester av raddelningen. Facit (K20) mäts före och efter, och
+ruta, en etikett mitt emellan två tal, en etikett över en linje och ett
+tal i en sammanslagen cell, och enhetstester av raddelningen, också med
+tal ur olika rader och en etikett under sina tal. Facit (K20) mäts före och efter, och
 mätningen på stickprovet står nedan.
 
 ## Pros and Cons of the Options
@@ -152,6 +163,19 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    går över en gräns och fäller tabellen, i stället för att delas ord för
    ord i kolumnerna. En cell inom en kolumn skrivs i den hel, också när
    texten sticker ut över linjen.
+6. **Granskningen (fas 6)** hittade två sätt att få tal i fel rad: tre
+   rader i en ruta där två saknade ett värde var, så att talen ur olika
+   rader hamnade i samma rad, och en etikett strax under sina tal. Det
+   som stod ovanför den avskalade raden prövades inte. Nu prövas det:
+   talen ska stå på samma höjd och varje ruta ha en textrad där. Den
+   hittade också att ett ensamt tal i en cell som är sammanslagen över
+   två kolumner placerades efter sitt läge. Ett första förslag, att
+   talet ska stå i linje med kolumnens andra tal, tog bort tabeller där
+   årtalen i rubriken inte står i linje med talen, och hindrade inte
+   motexemplet, där talet stod i linje. Valet blev att en sådan cell
+   delas bara när den är radens enda cell, som när en rad helt saknar
+   lodräta linjer, eller får text i varje kolumn den täcker, som en
+   rubrik med ett år per kolumn.
 
 ### Mätningen
 

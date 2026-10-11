@@ -34,7 +34,7 @@ VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 
 
-def sakra(sida: Page) -> tuple[list[Table], list[Table]]:
+def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
     """De säkra tabellerna, och de som fälldes för att en cell rymmer flera
     tal."""
     linjer = sida.lines + [
@@ -48,7 +48,6 @@ def sakra(sida: Page) -> tuple[list[Table], list[Table]]:
         "explicit_vertical_lines": linjer,
         "explicit_horizontal_lines": linjer,
     }
-    ord_ = sida.extract_words()
     hela = [t for t in sida.find_tables(installning) if ar_hel(t, ord_)]
     fallda = [t for t in hela if rymmer_flera_tal(t, ord_)]
     return [t for t in hela if t not in fallda], fallda

@@ -14,6 +14,7 @@ from pdfplumber.table import Table
 from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
 from kommunhandlingar.konvertering.tabeller import TALRAD, flera_tal, inom, mitt
 
+# Hur långt, i punkter, en kant eller ett fält får ligga från en kolumngräns.
 I_LINJE = 2
 
 
@@ -26,6 +27,10 @@ class Textrad:
     def text(self) -> str:
         return " ".join(self.falt)
 
+    @property
+    def har_tal(self) -> bool:
+        return any(TALRAD.fullmatch(f) for f in self.falt)
+
 
 @dataclass(frozen=True)
 class Delad:
@@ -36,20 +41,18 @@ class Delad:
 
 
 def tabell(t: Table, ord_: list[dict]) -> Delad | None:
-    kanter_ = kanter(t)
+    granser = kolumngranser(t)
     rader: list[list[str]] = []
     for rad in t.rows:
-        platser = placera(rad.cells, ord_, kanter_)
+        platser = placera(rad.cells, ord_, granser)
         delrader = None if platser is None else dela(platser)
         if delrader is None:
             return None
         rader += delrader
-    return Delad(t.bbox, rader, kanter_)
+    return Delad(t.bbox, rader, granser)
 
 
-def kanter(t: Table) -> tuple[float, ...]:
-    """Varje cells vänster- och högerkant i hela tabellen, de som ligger
-    inom 2 punkter från varandra som en."""
+def kolumngranser(t: Table) -> tuple[float, ...]:
     alla = sorted({x for c in t.cells for x in (c[0], c[2])})
     ut = [alla[0]]
     for x in alla[1:]:
@@ -58,52 +61,89 @@ def kanter(t: Table) -> tuple[float, ...]:
     return tuple(ut)
 
 
-def placera(celler, ord_: list[dict], kanter_: tuple) -> list[list[Textrad]] | None:
-    """Radens textrader per kolumn; None om ett fält går över en kant."""
-    platser: list[list[Textrad]] = [[] for _ in kanter_[1:]]
+def placera(celler: list, ord_: list[dict], granser: tuple) -> list | None:
+    """Radens textrader per kolumn; None om en cell inte går att placera."""
+    platser: list[list[Textrad]] = [[] for _ in granser[1:]]
+    ensam = sum(c is not None for c in celler) == 1
     for cell in filter(None, celler):
-        for i, textrad in cellens(cell, ord_, kanter_):
-            if i is None:
-                return None
+        placerade = cellens(cell, ord_, granser, ensam)
+        if placerade is None:
+            return None
+        for i, textrad in placerade:
             platser[i].append(textrad)
     return platser
 
 
-def cellens(cell: tuple, ord_: list[dict], kanter_: tuple) -> list[tuple]:
+def cellens(cell: tuple, ord_: list[dict], granser: tuple, ensam: bool) -> list | None:
     """Cellens textrader med sin kolumn. En cell som går över flera
-    kolumner delas efter fälten."""
-    egen = kolumn(cell[0], cell[2], kanter_)
-    ut = []
-    for rad in radvis([o for o in ord_ if inom(mitt(o), cell)]):
-        per_kolumn: dict[int | None, list[str]] = {}
-        for f in falt(rad, dela_tvetydiga=True):
-            i = kolumn(f.x0, f.x1, kanter_) if egen is None else egen
-            per_kolumn.setdefault(i, []).append(f.text)
-        ut += [(i, Textrad(rad[0]["top"], tuple(d))) for i, d in per_kolumn.items()]
-    return ut
+    kolumner delas efter fälten, när varje fält ligger inom en kolumn. Har
+    den ett tal ska den också vara radens enda cell eller få text i varje
+    kolumn den täcker; annars är den sammanslagen med flit."""
+    egen = kolumn(cell[0], cell[2], granser)
+    per_rad: dict[tuple[float, int | None], list[str]] = {}
+    rader = radvis([o for o in ord_ if inom(mitt(o), cell)])
+    for topp, f in ((r[0]["top"], f) for r in rader for f in falt(r, True)):
+        i = egen if egen is not None else kolumn(f.x0, f.x1, granser)
+        per_rad.setdefault((topp, i), []).append(f.text)
+    ut = [(i, Textrad(topp, tuple(d))) for (topp, i), d in per_rad.items()]
+    return ut if egen is not None or delbar(cell, ut, granser, ensam) else None
 
 
-def kolumn(x0: float, x1: float, kanter_: tuple) -> int | None:
-    for i, (vanster, hoger) in enumerate(pairwise(kanter_)):
+def delbar(cell: tuple, ut: list[tuple], granser: tuple, ensam: bool) -> bool:
+    kolumner = {i for i, _ in ut}
+    if None in kolumner:
+        return False
+    tal = any(r.har_tal for _, r in ut)
+    return not tal or ensam or kolumner == set(tackta(cell, granser))
+
+
+def tackta(cell: tuple, granser: tuple) -> range:
+    def narmast(x: float) -> int:
+        return min(range(len(granser)), key=lambda i: abs(granser[i] - x))
+
+    return range(narmast(cell[0]), narmast(cell[2]))
+
+
+def kolumn(x0: float, x1: float, granser: tuple) -> int | None:
+    for i, (vanster, hoger) in enumerate(pairwise(granser)):
         if vanster - I_LINJE <= x0 and x1 <= hoger + I_LINJE:
             return i
     return None
 
 
 def dela(platser: list[list[Textrad]]) -> list[list[str]] | None:
-    """Raden som den står, eller delad nerifrån: den nedersta textraden
-    blir en egen rad när den står på samma höjd i varje ruta som inte är
-    tom. None när en cell ändå rymmer mer än ett tal."""
+    """Raden som den står när ingen cell rymmer mer än ett tal, annars
+    delad nerifrån; None när det inte går ihop."""
+    if not flera(platser):
+        return [celler(platser)]
+    return nerifran(platser)
+
+
+def nerifran(platser: list[list[Textrad]]) -> list[list[str]] | None:
+    """Den nedersta textraden blir en egen rad när den står på samma höjd
+    i varje cell som inte är tom. Det som står ovanför blir en rad när
+    varje tal i det står på samma höjd som en textrad i varje cell."""
     if not any(platser):
         return []
     if not flera(platser):
-        return [celler(platser)]
+        return [celler(platser)] if talen_i_hojd(platser) else None
     sista = [p[-1].topp for p in platser if p]
     nederst = [p[-1:] for p in platser]
     if max(sista) - min(sista) > RADTOLERANS or flera(nederst):
         return None
-    ovanfor = dela([p[:-1] for p in platser])
+    ovanfor = nerifran([p[:-1] for p in platser])
     return None if ovanfor is None else [*ovanfor, celler(nederst)]
+
+
+def talen_i_hojd(platser: list[list[Textrad]]) -> bool:
+    hojder = [r.topp for p in platser for r in p if r.har_tal]
+    if not hojder:
+        return True
+    if max(hojder) - min(hojder) > RADTOLERANS:
+        return False
+    return all(
+        any(abs(r.topp - hojder[0]) <= RADTOLERANS for r in p) for p in platser if p
+    )
 
 
 def celler(platser: list[list[Textrad]]) -> list[str]:
