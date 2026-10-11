@@ -8,7 +8,8 @@ tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
 plustecken, parentes och enhet, eftersom ett tal för mycket bara fäller
-tabellen, medan ett tal för lite ger en cell med två tal i en CSV.
+tabellen, medan ett tal för lite ger en cell med två tal i en CSV. En
+fälld tabell kan ändå delas (`delade.py`, ADR-0028).
 """
 
 import csv

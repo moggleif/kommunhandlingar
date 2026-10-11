@@ -1,10 +1,11 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016. Test: tests/test_olinjerade.py och
-tests/test_celler.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0016 och ADR-0028. Test:
+tests/test_olinjerade.py, tests/test_celler.py och tests/test_delade.py.
 
 Ord på en rad delas i fält efter mellanrummen: högst en halv teckenhöjd
 är samma fält, minst en hel ett nytt, och däremellan tvetydigt
-(docs/03-ARKITEKTUR.md#tabeller-utan-lodrata-linjer). Regeln gäller både
-tabellerna utan lodräta linjer och cellerna i tabellerna med linjer.
+(docs/03-ARKITEKTUR.md#tabeller-utan-lodrata-linjer). Regeln gäller
+tabellerna utan lodräta linjer, cellerna i tabellerna med linjer och
+delningen av dem.
 """
 
 from dataclasses import dataclass
