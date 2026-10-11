@@ -20,6 +20,8 @@ dependencies = [
 [project.optional-dependencies]
 # Samma versioner i CI och lokalt; Dependabot håller dem uppdaterade.
 utveckling = ["ruff==0.16.10", "pip-audit==2.10.1"]
+# Sökets index på webbplatsen (ADR-0026), i bygget och i testerna.
+webbplats = ["pagefind[bin]==1.5.2"]
 
 [tool.ruff.lint]
 # Vanliga felkontroller plus gränserna i "Ren kod – strikt" i AGENTS.md.

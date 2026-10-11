@@ -1,5 +1,5 @@
-"""Krav: K18 i docs/02-KRAV.md, ADR-0021 och ADR-0023.
-Test: tests/test_webbplats_dokument.py.
+"""Krav: K18 och K21 i docs/02-KRAV.md, ADR-0021, ADR-0023 och ADR-0026.
+Test: tests/test_webbplats_dokument.py, tests/test_webbplats_sok.py.
 """
 
 import re
@@ -33,8 +33,9 @@ def pdfsida(nr: str, markdown: str, kvalitet: str, obekraftad: bool) -> str:
     markering = f"Kvalitet: {kvalitet}." + (
         " Talen på sidan är obekräftade." if obekraftad else ""
     )
+    rubrik = f"Sida {nr}" + (" – obekräftade tal" if obekraftad else "")
     return (
-        f'<section class="sida"><h2 id="sida-{nr}">Sida {nr}</h2>'
+        f'<section class="sida"><h2 id="sida-{nr}">{rubrik}</h2>'
         f'<p class="markering">{escape(markering)}</p>{rendera(markdown)}</section>'
     )
 

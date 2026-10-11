@@ -14,6 +14,7 @@ from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
+from kommunhandlingar.webbplats.sok import soksida
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
@@ -21,6 +22,7 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     mall = Mall(kommuner, repo, byggd)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
+    (ut / "sok.html").write_text(soksida(mall), encoding="utf-8")
     for kommun in kommuner:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
 

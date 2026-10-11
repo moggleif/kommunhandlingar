@@ -1,4 +1,4 @@
-"""Krav: K14 och K18 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K14, K18 och K21 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass
 from datetime import datetime
@@ -59,8 +59,10 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 
 
 def meny(mall: Mall, aktuell: str) -> str:
-    poster = [("index.html", "Start")] + [
-        (f"{k.id}.html", k.namn) for k in mall.kommuner
+    poster = [
+        ("index.html", "Start"),
+        *((f"{k.id}.html", k.namn) for k in mall.kommuner),
+        ("sok.html", "Sök"),
     ]
     lankar = "".join(
         menypost(rot(aktuell) + adress, namn, adress == aktuell)

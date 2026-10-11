@@ -1,5 +1,5 @@
 # Bygger webbplatsen ur main och publicerar den på GitHub Pages (K14, K18,
-# ADR-0012, ADR-0023).
+# K21, ADR-0012, ADR-0023, ADR-0026).
 name: Webbplats
 
 on:
@@ -23,8 +23,10 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - run: pip install -e .
+      - run: pip install -e ".[webbplats]"
       - run: python -m kommunhandlingar.webbplats _site "${{ github.server_url }}/${{ github.repository }}"
+      - name: Sökets index (K21, ADR-0026)
+        run: python -m pagefind --site _site
       - uses: actions/upload-pages-artifact@v3
 
   publicera:
