@@ -3,9 +3,10 @@ ADR-0031.
 Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
-rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
-tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
-än ett tal.
+rektanglar som är högst 2 punkter breda eller höga. Den har minst ett ord,
+så att ett rutnät utan text inte är en tabell, varje ord inom tabellens
+yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer än ett
+tal.
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
 plustecken, parentes, enhet och fotnotsstjärna, eftersom ett tal för mycket bara fäller
@@ -57,12 +58,12 @@ def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
 
 
 def ar_hel(tabell: Table, ord_: list[dict]) -> bool:
-    """Minst två rader och två kolumner, text i tabellen, och varje ord i en
-    cell. Ett rutnät utan text, som linjerna i ett diagram, är ingen tabell."""
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
         return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
-    return bool(inne) and all(any(inom(p, c) for c in tabell.cells) for p in inne)
+    return bool(inne) and all(
+        any(inom(punkt, c) for c in tabell.cells) for punkt in inne
+    )
 
 
 def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
