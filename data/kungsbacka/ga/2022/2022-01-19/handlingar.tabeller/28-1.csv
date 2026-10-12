@@ -1,0 +1,21 @@
+ID,Typ av händelse,Beskrivning,Enhet
+29000,Övrigt,Hög arbetsbelastning.,Försörjningsstöd
+27818,Lex Sarah,"Fördröjning av
+utbetalning med en dag
+på grund av att
+attestering ej utfördes.",Försörjningsstöd
+28470,Brist i handläggning,"Utbetalning gjordes inte
+den dag som det skulle,
+internetbetalning gjordes
+istället dagen efter.",Försörjningsstöd
+28473,Lex Sarah,"Nödprövning gjordes
+inte samma dag som
+invånare tog kontakt.",Försörjningsstöd
+28999,"Brist i information,
+kommunikation,
+samverkan","Möte med enskild och
+god man glömdes bort,
+mötet fick ombokas.",Ensamkommande
+29001,"Brist i/utebliven
+dokumentation","Bruten planering
+framgick inte av",Försörjningsstöd

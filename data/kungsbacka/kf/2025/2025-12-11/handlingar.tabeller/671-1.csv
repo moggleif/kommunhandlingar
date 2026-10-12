@@ -1,0 +1,40 @@
+B,Bostäder,"Mark för bostadsändamål. Syftar till att skapa möj-
+lighet för bostäder."
+B₁,Bostäder,"Bostäder från och med en höjd av 2,7 meter ovan
+mark där balkonger och burspråk är tillåtna att kraga
+ut över allmän plats."
+(B),Bostäder,"Byggrätt för bostadsändamål. Syftar till att skapa
+möjlighet för bostäder i byggnadsdel som kragar ut
+över allmän platsmark. Anger bestämmelse i annat
+plan än markplan."
+C,Centrum,"Mark avsedd för centrum. Syftar till att skapa möjlig-
+het för centrumverksamhet."
+(C),Centrum,"Byggrätt avsedd för centrum. Syftar till att skapa
+möjlighet för centrumverksamhet i byggnadsdel som
+kragar ut över allmän platsmark. Anger bestämmelse
+i annat plan än markplan."
+E,Tekniska anläggning,"Mark för teknisk anläggning. Syftet med använd-
+ningen är att säkerställa placering för pumpstation
+och/eller transformatorstationer."
+E₁,Pumpstation,"Mark för teknisk anläggning. Syftet med använd-
+ningen är att säkerställa placering för pumpstation.
+Placering nära järnvägen kräver dialog med Tra-
+fikverket vid ombyggnad eller ändring."
+G₁,Laddning av elfordon,"Mark avsedd för laddstation. Syftar till att möjliggöra
+för laddstation i bottenvåning av bostadshus."
+H,Detaljhandel,"Mark avsedd för detaljhandel. Syftar till att skapa
+enhetlig markanvändning inom fastigheten marken
+ska överlåtas till."
+J,Idustri,"Mark avsedd för industriändamål. Syftar till att skapa
+enhetlig markanvändning inom fastigheten marken
+ska överlåtas till."
+K,Kontor,"Mark avsedd för kontorsändamål. Syftar till att möj-
+liggöra för uppförande av kontorsbyggnad."
+(K),Kontor,"Byggrätt avsedd för kontorsbyggnad. Syftar till att
+skapa möjlighet för kontor i byggnadsdel som kragar
+ut över allmän platsmark. Anger bestämmelse i annat
+plan än markplan."
+P₁,Parkeringsgarage,"Mark avsedd för parkering. Syftet med bestämmelsen
+är att möjliggöra för underjordiskt parkeringsgarage."
+P₂,Parkeringshus,"Mark avsedd för parkering. Syftet med bestämmelsen
+är att möjliggöra för parkeringshus."
