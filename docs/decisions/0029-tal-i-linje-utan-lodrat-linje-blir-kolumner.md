@@ -53,11 +53,13 @@ blir tvetydig. Reglerna står i
   ADR-0016, eftersom talen i personaltabellerna är centrerade.
 * **Etiketterna ska finnas:** i den delade tabellen ska varje rad med
   siffror under den första ha en etikett i första kolumnen med text: en
-  textrad utan siffror och utan streck. En tabell med linjer runt bara
+  textrad utan siffror med ett ord på minst två bokstäver som inte är en
+  enhet. En tabell med linjer runt bara
   talen, där etiketterna står utanför, delas därför inte, eftersom
   raderna då skulle bli tal utan etikett. En rubrik, en källrad, ett
-  streck eller en enhet som `%` räcker inte som etikett. Kravet prövas
-  på den delade tabellens rader, eftersom en ruta kan rymma flera.
+  streck, en enhet som `%` eller ett notmärke som `a)` räcker inte
+  som etikett. Kravet prövas på den delade tabellens rader, eftersom en
+  ruta kan rymma flera.
 * **Text över en gräns:** ett fält utan siffror som går över en
   kolumngräns skrivs i den första kolumn det täcker, men bara i
   tabellens första rad, där rubrikerna står. Längre ner kan det vara ett
@@ -175,6 +177,9 @@ första raden. Facit
    med en rubrik och två rader tal hade en etikett bara för den ena.
    Därför prövas etiketterna på den delade tabellens rader, med hela
    textrader.
+8. **Fjärde granskningsvarvet** hittade att `tkr`, `%` eller `a)` på
+   en egen textrad räknades som etikett. Därför ska etiketten ha ett
+   ord på minst två bokstäver som inte är en enhet.
 
 ### Mätningen
 

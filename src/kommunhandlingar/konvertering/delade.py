@@ -20,7 +20,8 @@ from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfal
 
 def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     """Raderna, och kolumnernas vänsterkanter och tabellens högerkant
-    (K19); None när tabellen inte går att dela."""
+    (K19); None när tabellen inte går att dela, eller när gränserna efter
+    talen ger rader utan etikett."""
     if any(over_linje(o, t.cells) for o in ord_ if inom(mitt(o), t.bbox)):
         return None
     linjer = kolumngranser(t)
@@ -32,9 +33,8 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
         if delrader is None:
             return None
         rader += delrader
-    if granser != linjer and not talkolumner.etiketterade(rader):
-        return None
-    return rader, granser
+    utan_etiketter = granser != linjer and not talkolumner.etiketterade(rader)
+    return None if utan_etiketter else (rader, granser)
 
 
 def over_linje(o: dict, celler: list[tuple]) -> bool:

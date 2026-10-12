@@ -117,6 +117,12 @@ class TestEtiketterade(unittest.TestCase):
         rader = [["Utfall", "Budget"], ["94,3 %", "96,9 %"], ["4 078 tkr", "1 tkr"]]
         self.assertFalse(etiketterade(rader))
 
+    def test_enhet_eller_notmarke_pa_egen_rad_ar_ingen_etikett(self):
+        for markning in ("tkr", "%", "a)"):
+            with self.subTest(markning):
+                rader = [["", "Utfall"], [markning, "4 078"], ["Män", "94,3"]]
+                self.assertFalse(etiketterade(rader))
+
     def test_streck_ar_ingen_etikett(self):
         self.assertFalse(etiketterade([["Utfall", "Budget"], ["–", "4 054"]]))
 

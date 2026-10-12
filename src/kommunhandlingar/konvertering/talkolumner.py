@@ -1,27 +1,36 @@
 """Krav: K5 i docs/02-KRAV.md, ADR-0029. Test: tests/test_talkolumner.py.
 
 Kolumngränser mellan tal som står i linje i en tabell med linjer, men
-utan lodrät linje emellan
-(docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
+utan lodrät linje emellan, och kravet att raderna som delas efter dem
+har etiketter (docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
 """
 
+import re
 from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.tabeller import siffra, talfalt
+from kommunhandlingar.konvertering.tabeller import ENHET, siffra, talfalt
 
 Rader = list[list[Falt]]
 
 
 def etiketterade(rader: list[list[str]]) -> bool:
-    """Varje rad med siffror under den första har en etikett i tabellens
-    första kolumn med text: en textrad utan siffror och utan streck."""
+    """Varje rad med siffror under den första har en etikett i den delade
+    tabellens första kolumn med text. Den första raden är rubrikerna."""
     forsta = next(i for i in range(len(rader[0])) if any(r[i] for r in rader))
     return all(
-        any(t and not siffra(t) and not talfalt(t) for t in r[forsta].split("\n"))
+        any(map(etikett, r[forsta].split("\n")))
         for r in rader[1:]
         if any(map(siffra, r))
     )
+
+
+def etikett(textrad: str) -> bool:
+    """En textrad utan siffror med ett ord på minst två bokstäver som inte
+    är en enhet, så att `%`, `tkr`, `a)` och ett streck inte räknas."""
+    ord_ = [o for o in textrad.split() if not re.fullmatch(ENHET, o, re.I)]
+    bokstaver = (sum(map(str.isalpha, o)) for o in ord_)
+    return not siffra(textrad) and any(n >= 2 for n in bokstaver)
 
 
 def granser(kolumner: list[Rader]) -> list[float]:
