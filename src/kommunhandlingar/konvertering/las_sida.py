@@ -1,5 +1,5 @@
 """Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
-ADR-0017, ADR-0022, ADR-0024 och ADR-0028. Test: tests/test_konvertering.py,
+ADR-0017, ADR-0022, ADR-0024, ADR-0028 och ADR-0033. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py, tests/test_skarvar.py och tests/test_delade.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
@@ -17,6 +17,7 @@ from pdfplumber.page import Page
 from kommunhandlingar.konvertering import (
     delade,
     figurer,
+    kvarvarande,
     markdown,
     ocr,
     olinjerade,
@@ -77,7 +78,11 @@ def textsida(sida: Page) -> Sida:
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
-    osaker = osaker or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
+    osaker = (
+        osaker
+        or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
+        or kvarvarande.finns(sida, rutor)
+    )
     hittade += [(t.bbox, t.rader, t.kanter) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
