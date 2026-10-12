@@ -42,7 +42,7 @@ Regler för det här repot, utöver MADR:
 | 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted |
-| 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett) |
+| 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett; 0035 tar med avsnittsrubriker och årtal) |
 | 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted |
 | 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ) |
 | 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted |
@@ -60,3 +60,4 @@ Regler för det här repot, utöver MADR:
 | 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | proposed |
 | 0033 | [Talrader i linje som inte blev någon tabell märker sidan osäker](0033-talrader-i-linje-marker-sidan-osaker.md) | proposed |
 | 0034 | [En tabell med linjer som bara ramar in en del av sig själv fälls](0034-en-avskuren-tabell-med-linjer-falls.md) | proposed |
+| 0035 | [Avsnittsrubriker och årtal håller ihop en tabell utan lodräta linjer](0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md) | proposed |
