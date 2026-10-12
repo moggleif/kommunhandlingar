@@ -9,7 +9,7 @@ from html import escape
 from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import kalendermanad
+from kommunhandlingar.webbplats import kalendervyer
 from kommunhandlingar.webbplats.kalender import Sammantrade
 from kommunhandlingar.webbplats.kalenderfarger import farger, stil
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
@@ -37,8 +37,8 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
         + f"<style>{STIL}{stil(farg)}</style>"
         + inledning(mall)
         + urval(farg, namn)
-        + kalendermanad.manader(sammantraden)
-        + kalendermanad.lista(sammantraden, namn)
+        + kalendervyer.manader(sammantraden)
+        + kalendervyer.lista(sammantraden, namn)
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )
     return sida(mall, adress, f"Kalender – {kommun.namn}", innehall)

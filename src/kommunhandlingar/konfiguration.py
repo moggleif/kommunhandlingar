@@ -78,7 +78,7 @@ def organ_av(post: dict) -> Organ:
 
 
 def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
-    kontrollera_id_och_foregangare(organ)
+    kontrollera_hanvisningar(organ)
     for i, a in enumerate(organ):
         for b in organ[i + 1 :]:
             if delar_namn(a, b) and overlappar(a, b):
@@ -87,15 +87,19 @@ def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
                 )
 
 
-def kontrollera_id_och_foregangare(organ: tuple[Organ, ...]) -> None:
+def kontrollera_hanvisningar(organ: tuple[Organ, ...]) -> None:
     id_ = [o.id for o in organ]
     for o in organ:
         if id_.count(o.id) > 1:
             raise Konfigurationsfel(f"organ {o.id!r}: två organ har samma id")
-        saknade = [f for f in (*o.foregangare, o.hor_till or o.id) if f not in id_]
+        saknade = [f for f in o.foregangare if f not in id_]
         if saknade:
             raise Konfigurationsfel(
-                f"organ {o.id!r}: organet {saknade[0]!r} finns inte"
+                f"organ {o.id!r}: föregångaren {saknade[0]!r} finns inte"
+            )
+        if o.hor_till is not None and o.hor_till not in id_:
+            raise Konfigurationsfel(
+                f"organ {o.id!r}: hor_till {o.hor_till!r} finns inte"
             )
 
 

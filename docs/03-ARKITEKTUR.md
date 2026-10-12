@@ -207,7 +207,7 @@ src/kommunhandlingar/
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor
                    och kalendern
 kommuner/<kommun>.toml
-kalender/<kommun>.csv  kommande sammanträden, skrivna för hand (K22)
+kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1247,18 +1247,24 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 
 - **Källorna** läses av AI-agenten: för innevarande år organets mötessida,
   för kommande år organets senaste beslut om sammanträdesdagar, eller
-  förslaget som beslutet antog. Ett inställt möte står inte med, och inte
-  heller planeringsdagar. Ett datum märks osäkert när källan är svår att
-  läsa eller när datumet avviker från organets vanliga veckodag utan att
-  källan säger varför.
+  förslaget som beslutet antog när beslutet bara finns inskannat (OCR).
+  Ett inställt möte står inte med, och inte heller planeringsdagar. Ett
+  datum märks osäkert när källan är svår att läsa, eller när den anger en
+  veckodag, uttryckligen eller genom att märka undantagen, och datumet
+  inte stämmer med den.
+- **Inga personnamn** (AGENTS.md): en plats som bär en persons namn, som
+  en skola, skrivs inte in.
 - **Kontrollen** (`webbplats/kalender.py`) stoppar bygget med raden om
   rubrikerna inte är kolumnerna ovan, ett organ inte står i kommunfilen,
-  ett datum inte finns, ett organ har två sammanträden samma dag, en källa
-  i poolen saknas eller ett datum på en lördag eller söndag inte är märkt
-  osäkert.
-- **Sidan** (`webbplats/kalendersida.py`) har ett urval med en kryssruta
-  per organ i kalendern, i kommunfilens ordning, och två vyer: en tabell
-  per månad med en ruta per sammanträde på sin dag, och en lista med en
+  ett datum inte är ÅÅÅÅ-MM-DD eller inte finns, ett organ har två
+  sammanträden samma dag, källan inte är ett dokument i poolen
+  (`<organ>/<år>/<datum>/<namn>.md`) eller ett datum på en lördag eller
+  söndag inte är märkt osäkert. En kalenderfil utan kommunfil stoppar
+  också bygget.
+- **Sidan** (`webbplats/kalendersida.py` och `kalendervyer.py`) har ett
+  urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
+  två vyer: en tabell per månad från den första till den sista, också
+  månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
   rad per sammanträde: datum, organ, tid, plats och källa. Rutan har
   organets id med versaler och tiden; ett osäkert sammanträde har ett
   frågetecken i rutan och skälet i listan.

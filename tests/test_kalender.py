@@ -1,5 +1,5 @@
 """Krav: K22 i docs/02-KRAV.md, ADR-0032. Kod: src/kommunhandlingar/webbplats/
-kalender.py, kalenderfarger.py, kalendermanad.py och kalendersida.py."""
+kalender.py, kalenderfarger.py, kalendervyer.py och kalendersida.py."""
 
 import re
 import shutil
@@ -79,9 +79,15 @@ class TestLasning(unittest.TestCase):
         fel = self.stoppas(RADER + f"fsn,2027-01-14,,,{PROTOKOLL},\n")
         self.assertIn("rad 5", fel)
 
-    def test_kalla_som_inte_finns_i_poolen(self):
-        fel = self.stoppas("fsn,2027-01-14,,,fsn/2027/protokoll.md,\n")
-        self.assertIn("finns inte i poolen", fel)
+    def test_kalla_som_inte_ar_ett_dokument_i_poolen(self):
+        for kalla in ("fsn/2027/protokoll.md", "fsn/2026/2026-09-17/saknas.md"):
+            fel = self.stoppas(f"fsn,2027-01-14,,,{kalla},\n")
+            self.assertIn("inget dokument i poolen", fel)
+        andra = "fsn/2026/../2026/2026-09-17/protokoll.md"
+        self.assertIn("rad 2", self.stoppas(f"fsn,2027-01-14,,,{andra},\n"))
+
+    def test_datum_i_annan_form(self):
+        self.assertIn("ÅÅÅÅ-MM-DD", self.stoppas(f"fsn,20270114,,,{PROTOKOLL},\n"))
 
     def test_helgdag_som_inte_ar_markt(self):
         fel = self.stoppas("bun,2026-12-05,,,https://exempelby.se/bun,\n")
@@ -123,6 +129,7 @@ class TestSidan(unittest.TestCase):
     def test_alla_manader_och_rader_star_i_sidan(self):
         self.assertIn('data-manad="2026-12"', self.html)
         self.assertIn('data-manad="2027-01"', self.html)
+        self.assertEqual(self.html.count('class="manad"'), 2)
         self.assertEqual(self.html.count("<tr data-organ="), 3)
 
     def test_kallan_ar_en_lank(self):
@@ -136,9 +143,15 @@ class TestSidan(unittest.TestCase):
         self.assertEqual(self.html.count('type="checkbox" checked'), 3)
         self.assertIn("<script>", self.html)
 
+    def test_manad_utan_sammantraden_far_en_tabell(self):
+        with pool(f"fsn,2027-03-10,,,{PROTOKOLL},\n" + RADER) as sammantraden:
+            html = kalendersida(Mall([kommun()], REPO, TID), kommun(), sammantraden)
+        self.assertIn('data-manad="2027-02"', html)
+        self.assertEqual(html.count('class="manad"'), 4)
+
 
 class TestBygg(unittest.TestCase):
-    def bygg(self, med_kalender: bool) -> Path:
+    def bygg(self, med_kalender: bool, namn: str = "exempelby") -> Path:
         tmp = Path(self.enterContext(tempfile.TemporaryDirectory()))
         rot, ut = tmp / "repo", tmp / "ut"
         (rot / "kommuner").mkdir(parents=True)
@@ -146,7 +159,7 @@ class TestBygg(unittest.TestCase):
         if med_kalender:
             (rot / "kalender").mkdir()
             rad = "bun,2026-12-07,,,https://exempelby.se/bun,\n"
-            (rot / "kalender" / "exempelby.csv").write_text(RUBRIK + rad)
+            (rot / "kalender" / f"{namn}.csv").write_text(RUBRIK + rad)
         bygg(rot, ut, REPO, TID)
         return ut
 
@@ -156,6 +169,10 @@ class TestBygg(unittest.TestCase):
         self.assertIn(
             'href="exempelby/kalender.html"', (ut / "exempelby.html").read_text()
         )
+
+    def test_kalenderfil_utan_kommunfil_stoppar_bygget(self):
+        with self.assertRaises(Datafel):
+            self.bygg(med_kalender=True, namn="exempelbyn")
 
     def test_utan_kalenderfil_ingen_sida(self):
         ut = self.bygg(med_kalender=False)

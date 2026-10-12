@@ -169,9 +169,11 @@ och 24 september (ombokat från 23 september)", "8 september - inställt".
 Kommande år står inte där förrän året börjat närma sig. **Nästa års
 datum** beslutar varje organ under våren eller hösten, och besluten står
 i protokollen, i olika form: löptext, två spalter, en punktlista, en
-tabell. Teknik och Förskola & Grundskola har datumen bara i förslaget i
-handlingarna, och utskotten för Förskola & Grundskola, Bygg och KS
-beslutas tillsammans med sin nämnd. Kända fel och osäkerheter 2026-10-12:
+tabell. Teknik har datumen bara i förslaget i handlingarna, och Förskola
+& Grundskolas beslut finns bara inskannat, med ett OCR-fel i datumen.
+Bygg och KS beslutar sina utskotts datum i utskottet; Förskola &
+Grundskolas utskott har sina datum bara i förslagets tabell, "för att få
+en förståelse för helheten", och ingen i poolen beslutar dem. Kända fel och osäkerheter 2026-10-12:
 
 - KS förslag gav kommunfullmäktige den 6 mars 2027, en lördag;
   fullmäktige beslutade 9 mars (KF 2026-06-09 § 110). KF:s protokoll
@@ -179,7 +181,7 @@ beslutas tillsammans med sin nämnd. Kända fel och osäkerheter 2026-10-12:
 - Förskola & Grundskola flyttade januarimötet 2027 från 27 till 20
   januari (FG 2026-09-16), och utskottets januarimöte utgår.
 - Individ & Familjeomsorgs tabell skriver några dagar med siffrorna isär
-  ("1 5 april"), och första mötet 2027 är en måndag.
+  ("1 5 april"); första mötet 2027 är uttryckligen en måndag.
 
 ### Dokumentens innehåll
 

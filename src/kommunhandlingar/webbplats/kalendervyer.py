@@ -28,10 +28,12 @@ def per_manad(sammantraden: list[Sammantrade]) -> dict[tuple[int, int], list]:
 
 
 def manader(sammantraden: list[Sammantrade]) -> str:
+    moten = per_manad(sammantraden)
     tabeller = "".join(
         f'<section class="manad" data-manad="{ar}-{manad:02}">'
-        f"<h3>{manadsnamn(ar, manad)}</h3>{manadstabell(ar, manad, moten)}</section>"
-        for (ar, manad), moten in per_manad(sammantraden).items()
+        f"<h3>{manadsnamn(ar, manad)}</h3>"
+        f"{manadstabell(ar, manad, moten.get((ar, manad), []))}</section>"
+        for ar, manad in alla_manader(list(moten))
     )
     knappar = (
         '<p class="blad" hidden><button type="button" data-steg="-1">'
@@ -39,6 +41,19 @@ def manader(sammantraden: list[Sammantrade]) -> str:
         "Nästa månad</button></p>"
     )
     return f"<h2>Månad för månad</h2>{knappar}{tabeller}"
+
+
+# Också en månad utan sammanträden får en tabell, så att bläddringen inte
+# hoppar över den.
+def alla_manader(manader: list[tuple[int, int]]) -> list[tuple[int, int]]:
+    if not manader:
+        return []
+    (ar, manad), sista = manader[0], manader[-1]
+    alla = []
+    while (ar, manad) <= sista:
+        alla.append((ar, manad))
+        ar, manad = (ar + 1, 1) if manad == 12 else (ar, manad + 1)
+    return alla
 
 
 def manadstabell(ar: int, manad: int, moten: list[Sammantrade]) -> str:

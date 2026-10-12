@@ -55,8 +55,8 @@ tolkning som måste skrivas om när formen ändras.
   skälet till att datumet är osäkert.
 * **Källorna i ordning:** för innevarande år mötessidan, som har
   ändringarna; för kommande år organets beslut, eller förslaget som
-  beslutet antog när bara förslaget har datumen, och ett senare beslut går
-  före ett tidigare. Ett inställt möte står inte med.
+  beslutet antog när beslutet bara finns inskannat, och ett senare beslut
+  går före ett tidigare. Ett inställt möte står inte med.
 * **Kontrollen:** bygget stoppas om ett organ inte står i kommunfilen, ett
   datum inte finns, ett sammanträde står två gånger, en källa i poolen
   saknas eller ett datum på en helg inte är märkt osäkert.
@@ -133,6 +133,24 @@ sammanträden inte är offentliga, och inte heller slutna utskott som inte
 publicerar handlingar och inte står i kommunfilen, som individutskotten.
 Tid och plats visas där källan anger dem. Alla osäkra inläsningar märks;
 de tas inte bort.
+
+Ett datum märks osäkert när källan är svår att läsa, eller när källan
+anger en veckodag och datumet inte stämmer med den. Den första regeln,
+att varje avvikelse från organets vanliga veckodag märks, följdes inte
+av datat: granskningen fann ett tjugotal omärkta datum som ligger vid en helgdag
+eller som kommunen själv publicerat utan kommentar, och som inte är
+osäkert inlästa. Regeln smalnades av till det källan själv säger: en
+uttrycklig veckodag ("torsdagar kl. 15:30", "måndagar klockan 17:00")
+eller undantag som källan märker ut ("9 (onsdag)", "au på onsdag"), så
+att ett omärkt undantag är en motsägelse i källan.
+
+Förskola & Grundskolas beslut finns bara inskannat, och OCR läste där
+"20 januari" där förslaget och det senare beslutet säger 27. Datumen tas
+därför ur förslaget i handlingarna, som har ett textlager och som
+beslutet antog oförändrat.
+
+Gymnasium & Arbetsmarknads lokal bär en persons namn och skrivs inte in
+(AGENTS.md, "Inga personnamn"); tiden står med.
 
 Mötessidorna går före besluten för innevarande år eftersom de visar
 ändringar som annars bara står i senare protokoll, ibland inte alls, som

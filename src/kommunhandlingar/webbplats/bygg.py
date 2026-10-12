@@ -20,6 +20,8 @@ from kommunhandlingar.webbplats.rakning import okanda, rakna
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
     kalendrar = frozenset(f.stem for f in (rot / "kalender").glob("*.csv"))
+    if utan_kommun := kalendrar - {k.id for k in kommuner}:
+        raise Datafel(f"kalender/{min(utan_kommun)}.csv har ingen kommunfil")
     mall = Mall(kommuner, repo, byggd, kalendrar)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
