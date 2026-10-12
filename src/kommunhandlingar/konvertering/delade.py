@@ -33,8 +33,16 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
         if delrader is None:
             return None
         rader += delrader
-    utan_etiketter = granser != linjer and not talkolumner.etiketterade(rader)
+    utan_etiketter = granser != linjer and not etiketterade(t, ord_, rader)
     return None if utan_etiketter else (rader, granser)
+
+
+def etiketterade(t: Table, ord_: list[dict], rader: list[list[str]]) -> bool:
+    """Ingen text till vänster om tabellen i höjd med den, där etiketterna
+    annars står, och en etikett i varje rad (`talkolumner.etiketterade`)."""
+    x0, topp, _, botten = t.bbox
+    utanfor = any(o["x1"] <= x0 and topp <= mitt(o)[1] <= botten for o in ord_)
+    return not utanfor and talkolumner.etiketterade(rader)
 
 
 def over_linje(o: dict, celler: list[tuple]) -> bool:

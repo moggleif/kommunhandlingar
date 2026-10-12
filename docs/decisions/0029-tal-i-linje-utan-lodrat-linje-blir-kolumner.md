@@ -54,12 +54,11 @@ blir tvetydig. Reglerna står i
 * **Etiketterna ska finnas:** i den delade tabellen ska varje rad med
   siffror under den första ha en etikett i första kolumnen med text: en
   textrad utan siffror med ett ord på minst två bokstäver som inte är en
-  enhet. En tabell med linjer runt bara
-  talen, där etiketterna står utanför, delas därför inte, eftersom
-  raderna då skulle bli tal utan etikett. En rubrik, en källrad, ett
-  streck, en enhet som `%` eller ett notmärke som `a)` räcker inte
-  som etikett. Kravet prövas på den delade tabellens rader, eftersom en
-  ruta kan rymma flera.
+  enhet. En rubrik, en källrad, ett streck, en enhet som `(tkr)` eller
+  ett notmärke som `a)` räcker inte. Kravet prövas på den delade
+  tabellens rader, eftersom en ruta kan rymma flera. Står text till
+  vänster om tabellen i höjd med den, står etiketterna utanför och
+  tabellen delas inte heller, vad som än står i dess första kolumn.
 * **Text över en gräns:** ett fält utan siffror som går över en
   kolumngräns skrivs i den första kolumn det täcker, men bara i
   tabellens första rad, där rubrikerna står. Längre ner kan det vara ett
@@ -105,6 +104,12 @@ Poolens version höjs till 0.8.0. Poolen rättas när den konverteras om
   som att de står på dess höjd, som i ADR-0028, så i ett tätt
   radavstånd skiljer regeln inte tal strax under en etikett från tal
   mitt emellan två.
+* Dåligt, eftersom etiketter med siffror eller en enda bokstav, som
+  `Mål 1` eller `A`, inte räknas som etiketter, så att tabellen förblir
+  osäker. Hellre det än tal utan etikett.
+* Dåligt, eftersom ett ord som inte är en enhet i listan, som `MSEK`,
+  räknas som etikett. Etiketterna utanför tabellen fångas ändå av
+  texten till vänster om den, men inte när de står någon annanstans.
 * Dåligt, eftersom en textruta med en rubrik över hela bredden och en
   lista per år under, som `Gjorda konsekvensbedömningar …` med
   `2021 | 2022 | 2023`, blir CSV, fast ADR-0028 sa att textrutorna ska
@@ -180,6 +185,11 @@ första raden. Facit
 8. **Fjärde granskningsvarvet** hittade att `tkr`, `%` eller `a)` på
    en egen textrad räknades som etikett. Därför ska etiketten ha ett
    ord på minst två bokstäver som inte är en enhet.
+9. **Femte granskningsvarvet** hittade enheter med skiljetecken, som
+   `(tkr)`, och ord som inte står i listan över enheter, som `MSEK`.
+   En lista blir aldrig komplett, så etiketterna utanför tabellen
+   fångas också av sitt läge: text till vänster om tabellen i höjd med
+   den.
 
 ### Mätningen
 

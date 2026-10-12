@@ -696,8 +696,9 @@ blir en säker tabell bara när varje steg går ihop:
    (steg 3 och 4) ska varje rad med siffror under den första ha en
    etikett i den delade tabellens första kolumn med text: en textrad
    utan siffror med ett ord på minst två bokstäver som inte är en
-   enhet. Annars står etiketterna utanför
-   tabellen, och den delas inte.
+   enhet. Står text till vänster om tabellen i höjd med den, eller
+   saknar en rad etikett, står etiketterna utanför tabellen, och den
+   delas inte.
 2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
    marginal) skrivs i den. En cell som går över flera kolumner delas
    rad för rad i fält, med fälten avgränsade som i tabellerna utan

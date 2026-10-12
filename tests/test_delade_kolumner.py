@@ -8,7 +8,7 @@ en linje
 import unittest
 from types import SimpleNamespace
 
-from kommunhandlingar.konvertering.delade import kolumngranser, over_linje
+from kommunhandlingar.konvertering.delade import etiketterade, kolumngranser, over_linje
 
 
 def tecken(x0: float, x1: float) -> dict:
@@ -35,6 +35,19 @@ class TestKolumngranser(unittest.TestCase):
     def test_kanter_inom_en_linje_slas_ihop(self):
         t = SimpleNamespace(cells=[(0, 0, 100, 10), (101.5, 0, 200, 10)])
         self.assertEqual(kolumngranser(t), (0, 100, 200))
+
+
+class TestEtiketterade(unittest.TestCase):
+    T = SimpleNamespace(bbox=(100, 0, 300, 40))
+    RADER = [["Post", "2024"], ["Anm.", "4 078"]]
+
+    def test_text_till_vanster_i_hojd_med_tabellen_ar_etiketter_utanfor(self):
+        ord_ = [{"text": "Intäkter", "x0": 10, "x1": 60, "top": 22, "bottom": 30}]
+        self.assertFalse(etiketterade(self.T, ord_, self.RADER))
+
+    def test_text_till_vanster_ovanfor_tabellen_raknas_inte(self):
+        ord_ = [{"text": "Rubrik", "x0": 10, "x1": 60, "top": -20, "bottom": -12}]
+        self.assertTrue(etiketterade(self.T, ord_, self.RADER))
 
 
 if __name__ == "__main__":

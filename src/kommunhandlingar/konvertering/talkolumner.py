@@ -9,7 +9,7 @@ import re
 from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.tabeller import ENHET, siffra, talfalt
+from kommunhandlingar.konvertering.tabeller import enhet, siffra, talfalt
 
 Rader = list[list[Falt]]
 
@@ -27,8 +27,8 @@ def etiketterade(rader: list[list[str]]) -> bool:
 
 def etikett(textrad: str) -> bool:
     """En textrad utan siffror med ett ord på minst två bokstäver som inte
-    är en enhet, så att `%`, `tkr`, `a)` och ett streck inte räknas."""
-    ord_ = [o for o in textrad.split() if not re.fullmatch(ENHET, o, re.I)]
+    är en enhet, så att `%`, `(tkr)`, `a)` och ett streck inte räknas."""
+    ord_ = [o for o in re.findall(r"[\w%]+", textrad) if not enhet(o)]
     bokstaver = (sum(map(str.isalpha, o)) for o in ord_)
     return not siffra(textrad) and any(n >= 2 for n in bokstaver)
 
