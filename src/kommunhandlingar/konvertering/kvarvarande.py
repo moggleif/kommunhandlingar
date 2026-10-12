@@ -8,7 +8,8 @@ delas som i tabellerna utan lodräta linjer.
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering.falt import falt, radvis
-from kommunhandlingar.konvertering.olinjerade import I_LINJE, ar_varde, fria
+from kommunhandlingar.konvertering.olinjerade import fria
+from kommunhandlingar.konvertering.rader import I_LINJE, ar_varde
 
 ANDRA_RADER = 2
 

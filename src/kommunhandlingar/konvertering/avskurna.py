@@ -10,7 +10,8 @@ text bredvid en tabell är oftast löptext.
 """
 
 from kommunhandlingar.konvertering.falt import falt, radvis
-from kommunhandlingar.konvertering.olinjerade import ar_varde, fria
+from kommunhandlingar.konvertering.olinjerade import fria
+from kommunhandlingar.konvertering.rader import ar_varde
 from kommunhandlingar.konvertering.tabeller import mitt
 
 

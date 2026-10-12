@@ -89,10 +89,18 @@ kunna läggas till utan kodändring.
   och därmed till dokumentets härkomst.
 - **Givet** en tabell utan lodräta linjer, där varje rad är en etikett
   följd av tal, talen står i linje i kolumner och ingen etikett
-  fortsätter på nästa rad
+  fortsätter på en rad som också har tal
 - **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
   Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
   kolumn; annars står de kvar i texten.
+- **Givet** en sådan tabell med en eller två rader med bara en etikett
+  mellan talraderna, som en avsnittsrubrik eller en etikett som fortsätter
+  på nästa rad, med en etikett som fortsätter under den sista raden,
+  eller med en rubrikrad med bara årtal
+  (issue [#93](https://github.com/moggleif/kommunhandlingar/issues/93))
+- **Så** blir den en CSV, inte flera: en avsnittsrubrik blir en rad med
+  tomma celler, en fortsättning fogas till etiketten ovanför, och årtalen
+  blir tabellens rubrikrad.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal,
   därför att en rad saknar de lodräta linjer som tabellens andra rader
   har, därför att en vågrät linje saknas mellan rader vars text står på

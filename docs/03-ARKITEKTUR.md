@@ -808,11 +808,28 @@ och blir en osäker tabell som förut.
 3. **Tabellrad:** första fältet är en etikett med minst en bokstav, minst
    ett fält följer, och varje följande fält är ett tal (enligt
    definitionen ovan) eller ett ensamt streck (`-`, `−` eller `–`).
+   Inne i en följd (steg 4) är också en etikettrad, en rad med bara en
+   etikett, en tabellrad
+   ([ADR-0035](decisions/0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md)).
+   En etikett som börjar med liten bokstav fogas till etiketten ovanför
+   med ett mellanslag när den ena av de två raderna är en etikettrad, som
+   `Avskrivningar på⏎byggnader` eller `Antal⏎medarbetare per chef`, och
+   raden får talen från den andra; en etikett som slutar med kolon, som
+   `Varav:`, fogas inte. Etikettrader med liten bokstav direkt under den
+   sista raden hör till följden och fogas likadant. En etikettrad som
+   inte fogas blir en rad med tomma celler, en avsnittsrubrik som
+   `Skulder`. En kort rad löptext mellan två tabeller med samma kolumner,
+   som `Not 3`, går inte att skilja från en avsnittsrubrik och blir en
+   sådan.
 4. **Följd:** rader i följd som är tabellrader eller talrader, där en
    talrad har minst två fält som är tal, eller minst två ord som är tal
    när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
-   är högst tre teckenhöjder. En tabell blir det bara om varje rad i
-   följden är en tabellrad och minst tre av dem har två tal eller fler.
+   är högst tre teckenhöjder. En följd går över högst två etikettrader
+   när raderna närmast ovanför och under dem är tabellrader, och en rad
+   med bara årtal (1900–2099) börjar ingen följd. En tabell blir
+   det bara om varje rad i följden är en tabellrad och minst tre av dem
+   har två tal eller fler. Blir en följd över etikettrader ingen tabell,
+   prövas delarna mellan etikettraderna var för sig.
 5. **Kolumner:** talen grupperas efter sin högerkant; de som ligger högst
    2 punkter från gruppens första hör till samma kolumn. Varje kolumn har
    minst två tal, varje streck står med högerkanten i linje med en
@@ -831,7 +848,10 @@ och blir en osäker tabell som förut.
    högra kant, eller om den etikett som slutar längst till höger för den
    första kolumnen. Ett första fält som börjar till vänster om där den
    etiketten slutar, och slutar före den första kolumnen, är rubrikens
-   etikett. Rubriken tas med bara om den översta
+   etikett. En rad med bara årtal räknas som rubrikrad, inte som talrad.
+   Står en eller två etikettrader till vänster om kolumnerna mellan
+   rubriken och tabellen tas de med som avsnittsrubriker, men bara när
+   rubriken ovanför dem tas med. Rubriken tas med bara om den översta
    rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
    en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
    inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
