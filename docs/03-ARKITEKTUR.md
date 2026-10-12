@@ -513,6 +513,13 @@ och för figurerna i [ADR-0017](decisions/0017-figurer-marks-och-tolkas-i-efterh
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
 
+Innan textlagret läses tas varje mellanslag bort som börjar inne i en
+siffra på samma rad och till mer än hälften täcks av den
+([ADR-0036](decisions/0036-mellanslag-inne-i-en-siffra-tas-bort.md)). Ett
+kalkylark lägger sådana mellanslag som utfyllnad i cellerna, och de
+delar annars talet: `4 76,7` i stället för `476,7`. Ett mellanslag som
+börjar före siffran skiljer den från texten framför och står kvar.
+
 Text och tal märks var för sig. `kvalitet` och `kvalitet_per_sida` säger
 hur texten lästes; `tal_obekraftade` säger på vilka sidor talen inte är
 bekräftade och därför inte ska användas som data.

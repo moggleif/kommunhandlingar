@@ -26,6 +26,7 @@ from kommunhandlingar.konvertering import (
     tabeller,
 )
 from kommunhandlingar.konvertering.avskurna import avskuren
+from kommunhandlingar.konvertering.mellanslag import utan_mellanslag_i_tal
 from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
@@ -75,6 +76,7 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
+    sida = utan_mellanslag_i_tal(sida)
     hittade, fallda = med_linjer(sida)
     rutor = [ruta for ruta, _, _ in hittade]
     utan_linjer = olinjerade.tabeller(sida, rutor)
