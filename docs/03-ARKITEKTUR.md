@@ -683,33 +683,47 @@ blir en säker tabell bara när varje steg går ihop:
 1. **Kolumnerna:** varje cells vänster- och högerkant i hela tabellen är
    en kolumngräns; kanter högst 2 punkter från varandra är en. Så delas
    en rad som saknar lodräta linjer, oftast rubrikraden, efter de linjer
-   som finns i tabellens andra rader.
+   som finns i tabellens andra rader. Står två tal på samma textrad
+   mellan två linjer, får den kolumnen gränser efter talen
+   ([ADR-0029](decisions/0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md)):
+   fälten med siffror grupperas så att fält som överlappar på bredden
+   hamnar i samma grupp, från den första gruppen med ett tal. Varje
+   grupp ska ha minst två tal, eller inget (en rubrik över en tom
+   kolumn), och högst ett tal per textrad. Gränsen läggs mitt i
+   mellanrummet mellan två grupper, och före den första gruppen när
+   text står till vänster om den. Tabellens första kolumn med text ska
+   ha en etikett utan siffror, och står gränserna i den kolumnen ska
+   etiketterna stå till vänster om talen; annars står etiketterna
+   utanför tabellen och inga gränser läggs.
 2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
    marginal) skrivs i den. En cell som går över flera kolumner delas
    rad för rad i fält, med fälten avgränsade som i tabellerna utan
    lodräta linjer och ett tvetydigt mellanrum räknat som en gräns. Varje
-   fält ska ligga inom en kolumn; ett fält som går över en
-   kolumngräns, som en etikett som är längre än sin kolumn, gör att
-   tabellen inte delas. En sådan cell delas bara när
+   fält ska ligga inom en kolumn. Ett fält utan siffror som går över en
+   kolumngräns, som en etikett som är längre än sin kolumn eller en
+   rubrik över två kolumner, skrivs i den första kolumn det täcker; ett
+   fält med siffror som gör det gör att tabellen inte delas. En sådan
+   cell delas bara när
    - den saknar tal, alltså siffror och streck som står för ett tal,
-   - den går över hela tabellens bredd,
-   - den får text i varje kolumn den täcker och varje fält är ett tal,
-     som `1,0 | 0,0`, eller
-   - den står i tabellens första rad, får text i varje kolumn den täcker,
-     har ett tal i varje textrad och inget fält som bara är ett tal,
-     som rubriken `Bokslut 2025 | Budget 2026`.
+   - den går över hela tabellens bredd, eller
+   - den får text i varje kolumn den täcker, och varje textrad i den,
+     räknat över cellens kolumner, är bara tal (som `1,0 | 0,0`), bara
+     text utan tal, eller text med siffror men utan fält som bara är ett
+     tal (som rubriken `Bokslut 2025 | Budget 2026`). En cell med en
+     sådan rubrikrad får bara stå i tabellens första rad.
 
-   Ett ensamt tal, eller en etikett och ett tal som `2026-27: 8 132`, i
-   en cell som är sammanslagen över några kolumner gör att tabellen inte
-   delas.
+   Ett ensamt tal, eller en textrad som blandar en etikett och ett tal,
+   som `2026-27: 8 132`, i en cell som är sammanslagen över några
+   kolumner gör att tabellen inte delas.
 3. **Raderna:** en rad där en cell rymmer mer än ett tal delas nerifrån:
    den nedersta textraden i varje cell som inte är tom blir en egen
    rad, när de står på samma höjd (högst 3 punkter isär) och ingen av
    dem rymmer mer än ett tal. Det som står ovanför prövas på samma sätt.
    När inget i det rymmer mer än ett tal blir det en rad, om varje
    textrad med ett tal står på samma höjd och varje cell som inte är
-   tom har en textrad på den höjden; text utan tal kan stå på olika
-   höjder. Ett tal är här en siffra, eller ett streck som står för ett
+   tom har en textrad på den höjden, eller textrader både ovanför och
+   under den, som en etikett som bryts runt sina tal; text utan tal kan
+   stå på olika höjder. Ett tal är här en siffra, eller ett streck som står för ett
    tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med
    etiketten på värdets höjd en rubrikrad och en värderad.
 4. **En rad utan flera tal i en cell** står som den är, med cellens

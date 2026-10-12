@@ -1,9 +1,10 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0028. Test: tests/test_delade.py och
-tests/test_delade_kolumner.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0028 och ADR-0029. Test:
+tests/test_delade.py och tests/test_delade_kolumner.py.
 
 En tabell med linjer där en cell rymmer mer än ett tal delas, i stället
 för att fällas, när det går ihop: kolumnerna efter de lodräta linjer som
-finns i någon rad, och raderna efter rutornas textrader
+finns i någon rad och efter tal i linje (`talkolumner.py`), och raderna
+efter rutornas textrader
 (docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
 """
 
@@ -12,7 +13,8 @@ from itertools import pairwise
 
 from pdfplumber.table import Table
 
-from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
+from kommunhandlingar.konvertering import talkolumner
+from kommunhandlingar.konvertering.falt import RADTOLERANS, Falt, falt, radvis
 from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfalt
 
 # Hur långt, i punkter, en kant eller ett fält får ligga från en kolumngräns.
@@ -41,6 +43,7 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     if any(over_linje(o, t.cells) for o in ord_ if inom(mitt(o), t.bbox)):
         return None
     granser = kolumngranser(t)
+    granser = tuple(sorted({*granser, *talkolumner.granser(falten(t, ord_, granser))}))
     rader: list[list[str]] = []
     for nr, rad in enumerate(t.rows):
         placerat = placera(rad.cells, ord_, granser)
@@ -59,6 +62,15 @@ def over_linje(o: dict, celler: list[tuple]) -> bool:
         for t in o["chars"]
     }
     return len(i_celler - {None}) > 1
+
+
+def falten(t: Table, ord_: list[dict], granser: tuple) -> list[list[list[Falt]]]:
+    """Tabellens fält rad för rad, för varje kolumn mellan linjerna."""
+    rader = [falt(r, True) for r in radvis([o for o in ord_ if inom(mitt(o), t.bbox)])]
+    return [
+        [[f for f in r if kolumn(f.x0, f.x1, (vanster, hoger)) == 0] for r in rader]
+        for vanster, hoger in pairwise(granser)
+    ]
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:
@@ -93,10 +105,19 @@ def cellens(cell: tuple, ord_: list[dict], granser: tuple) -> tuple[str, list | 
     per_rad: dict[tuple[float, int | None], list[str]] = {}
     rader = radvis([o for o in ord_ if inom(mitt(o), cell)])
     for topp, f in ((r[0]["top"], f) for r in rader for f in falt(r, True)):
-        i = egen if egen is not None else kolumn(f.x0, f.x1, granser)
+        i = egen if egen is not None else faltets(f, granser)
         per_rad.setdefault((topp, i), []).append(f.text)
     ut = [(i, Textrad(topp, tuple(d))) for (topp, i), d in per_rad.items()]
     return ("egen", ut) if egen is not None else slaget(cell, ut, granser)
+
+
+def faltets(f: Falt, granser: tuple) -> int | None:
+    """Fältets kolumn. En text utan siffror som går över en kolumngräns,
+    som en rubrik över två kolumner, står i den första den täcker."""
+    i = kolumn(f.x0, f.x1, granser)
+    if i is None and not any(c.isdigit() for c in f.text):
+        return kolumn(f.x0, f.x0, granser)
+    return i
 
 
 def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | None]:
@@ -116,13 +137,25 @@ def slaget(cell: tuple, ut: list[tuple], granser: tuple) -> tuple[str, list | No
 
 
 def fylld(textrader: list[Textrad]) -> str:
-    """`tal` när varje fält är ett tal, `rubrik` när varje textrad har en
-    siffra eller ett streck och inget fält är bara ett tal, som
-    `Bokslut 2025`."""
-    tal = [talfalt(f) for r in textrader for f in r.falt]
-    if all(tal):
+    """Slaget efter cellens rader på samma höjd: `rubrik` när någon rad
+    har en siffra eller ett streck i varje fält och inget fält som bara
+    är ett tal, som `Bokslut 2025`, annars `tal` när någon rad bara har
+    tal. Övriga rader ska sakna tal; en rad som blandar går inte."""
+    hojder: dict[float, list[str]] = {}
+    for r in textrader:
+        hojder.setdefault(r.topp, []).extend(r.falt)
+    slag = {radens(falt_) for falt_ in hojder.values()}
+    if "" in slag:
+        return ""
+    return "rubrik" if "rubrik" in slag else "tal" if "tal" in slag else ""
+
+
+def radens(falt_: list[str]) -> str:
+    if all(map(talfalt, falt_)):
         return "tal"
-    return "rubrik" if all(r.har_tal for r in textrader) and not any(tal) else ""
+    if any(map(talfalt, falt_)):
+        return ""
+    return "rubrik" if any(Textrad(0, (f,)).har_tal for f in falt_) else "text"
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
@@ -175,9 +208,15 @@ def talen_i_hojd(platser: list[list[Textrad]]) -> bool:
         return True
     if max(hojder) - min(hojder) > RADTOLERANS:
         return False
-    return all(
-        any(abs(r.topp - hojder[0]) <= RADTOLERANS for r in p) for p in platser if p
-    )
+    return all(i_hojd(p, hojder[0]) for p in platser if p)
+
+
+def i_hojd(ruta: list[Textrad], hojd: float) -> bool:
+    """En textrad på talens höjd, eller textrader både ovanför och under,
+    som en etikett som bryts runt sina tal."""
+    toppar = [r.topp for r in ruta]
+    pa_hojden = any(abs(t - hojd) <= RADTOLERANS for t in toppar)
+    return pa_hojden or min(toppar) < hojd < max(toppar)
 
 
 def celler(platser: list[list[Textrad]]) -> list[str]:

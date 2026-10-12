@@ -40,6 +40,8 @@ class TestDeladeSidor(unittest.TestCase):
                 "ok",  # läses i stället som tabell utan lodräta linjer
                 "tabell-osaker",  # ett tal i en cell över två kolumner
                 "tabell-osaker",  # ett tal över en linje
+                "ok",  # talen i linje utan lodrät linje emellan
+                "ok",  # en rubrik över två kolumner
             ],
         )
 
@@ -69,12 +71,34 @@ class TestDeladeSidor(unittest.TestCase):
         self.assertEqual(sida.tabeller, [])
         self.assertIn("4 078", sida.text)
 
-    def test_etikett_over_linjen_delas_inte(self):
+    def test_etikett_over_linjen_star_i_forsta_kolumnen(self):
         with pdfplumber.open(PDF) as pdf:
             sida = pdf.pages[4]
             ord_ = sida.extract_words(return_chars=True)
             _, (fallen,) = tabeller.sakra(sida, ord_)
-            self.assertIsNone(delade.tabell(fallen, ord_))
+            rader, _ = delade.tabell(fallen, ord_)
+        rubrik = ["Belopp i tusentals kronor, netto", "2026", "2027"]
+        self.assertEqual(rader, [rubrik, INTAKTER, KOSTNADER])
+
+    def test_talen_i_linje_blir_kolumner(self):
+        self.assertEqual(
+            self.tabell(7),
+            [
+                ["", "Namn", "Bokslut 2024", "Bokslut 2025"],
+                ["", "Andel kvinnor\nsom har heltid", "94,3 %", "96,9 %"],
+                ["", "Andel män som\nhar heltid", "98,6 %", "99,2 %"],
+            ],
+        )
+
+    def test_rubrik_over_tva_kolumner_star_i_den_forsta(self):
+        self.assertEqual(
+            self.tabell(8),
+            [
+                ["", "Andel av volymen\nBokslut 2024", "Bokslut 2025"],
+                ["Förskola", "22,6", "23,7"],
+                ["Grundskola", "51,0", "50,2"],
+            ],
+        )
 
     def test_ord_over_en_linje_delas_inte(self):
         with pdfplumber.open(PDF) as pdf:
@@ -152,6 +176,12 @@ class TestDela(unittest.TestCase):
             [(10, "ca -2 001"), (20, "2 053")],
         )
         self.assertIsNone(dela(platser, {"egen"}, False))
+
+    def test_etikett_runt_sitt_tal_ger_en_rad(self):
+        platser = rutor([(0, "Andel kvinnor"), (12, "som har heltid")], [(6, "94,3 %")])
+        self.assertEqual(
+            dela(platser, {"hel"}, False), [["Andel kvinnor\nsom har heltid", "94,3 %"]]
+        )
 
     def test_tal_i_delad_cell_pa_olika_hojd_ger_ingen_rad(self):
         platser = rutor([(0, "Övrigt")], [(10, "2 233")], [(0, "-2 001")])

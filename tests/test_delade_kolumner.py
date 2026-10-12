@@ -10,10 +10,12 @@ from types import SimpleNamespace
 
 from kommunhandlingar.konvertering.delade import (
     Textrad,
+    faltets,
     kolumngranser,
     over_linje,
     slaget,
 )
+from kommunhandlingar.konvertering.falt import Falt
 
 GRANSER = (0, 100, 150, 200)
 
@@ -44,6 +46,14 @@ class TestKolumngranser(unittest.TestCase):
         self.assertEqual(kolumngranser(t), (0, 100, 200))
 
 
+class TestFaltets(unittest.TestCase):
+    def test_text_over_en_grans_star_i_den_forsta_kolumnen(self):
+        self.assertEqual(faltets(Falt("Andel av volymen", 90, 140), GRANSER), 0)
+
+    def test_tal_over_en_grans_star_ingenstans(self):
+        self.assertIsNone(faltets(Falt("8 132", 90, 140), GRANSER))
+
+
 class TestSlaget(unittest.TestCase):
     def test_tal_i_sammanslagen_cell_delas_inte(self):
         ut = [(2, Textrad(0, ("8 132",)))]
@@ -64,6 +74,16 @@ class TestSlaget(unittest.TestCase):
     def test_tal_med_fotnotsstjarna_ar_tal(self):
         ut = [(1, Textrad(0, ("4 078*",))), (2, Textrad(0, ("4 054*",)))]
         self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
+
+    def test_rubrik_med_text_och_varde_under_ar_rubrik(self):
+        ut = [
+            (1, Textrad(0, ("Andel av volymen",))),
+            (1, Textrad(10, ("Bokslut 2024",))),
+            (2, Textrad(10, ("Bokslut 2025",))),
+            (1, Textrad(20, ("22,6",))),
+            (2, Textrad(20, ("23,7",))),
+        ]
+        self.assertEqual(slaget((100, 0, 200, 30), ut, GRANSER)[0], "rubrik")
 
     def test_etiketter_med_artal_ar_rubrik(self):
         ut = [(1, Textrad(0, ("Bokslut 2025",))), (2, Textrad(0, ("Budget 2026",)))]

@@ -54,3 +54,4 @@ Regler för det här repot, utöver MADR:
 | 0025 | [Konverteringen mäts mot ett facit för utdrag ur riktiga handlingar, och måtten för varje version låses i en fil som testet prövar](0025-facit-for-konverteringen.md) | proposed |
 | 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | proposed |
 | 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | proposed |
+| 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | proposed |

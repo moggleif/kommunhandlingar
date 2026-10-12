@@ -93,13 +93,15 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 * Bra, eftersom inget nytt beroende behövs och regeln är kort.
 * Dåligt, eftersom en tabell som helt saknar lodräta linjer mellan två
   tal, som `94,3 % 96,9 %` i en ruta över hela bredden, förblir osäker.
-  Där finns ingen linje att låna.
+  Där finns ingen linje att låna. (Ändrat i
+  [ADR-0029](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md).)
 * Dåligt, eftersom en etikett som bryts över två rader runt talen, med
-  talen mitt emellan, gör att tabellen inte delas.
+  talen mitt emellan, gör att tabellen inte delas. (Ändrat i ADR-0029
+  för en rad med ett enda tal per cell.)
 * Dåligt, eftersom en etikett som är längre än sin kolumn, eller en
   rubrik som står mitt över två kolumner, i en rad utan lodräta linjer
   fäller tabellen, fast en människa kan läsa den. I stickprovet gällde
-  det tre av 35 tabeller.
+  det tre av 35 tabeller. (Ändrat i ADR-0029 för text utan siffror.)
 * Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer, en
   cell över hela tabellens bredd, placeras i den kolumn det står i. Det
   är så en människa läser det, men ingen linje i raden säger det.
