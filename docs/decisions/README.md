@@ -53,9 +53,9 @@ Regler för det här repot, utöver MADR:
 | 0024 | [En tabell som fortsätter på nästa sida slås ihop vid konverteringen när ingenting står emellan, och filnamnet anger sidorna](0024-tabeller-over-flera-sidor-slas-ihop.md) | accepted |
 | 0025 | [Konverteringen mäts mot ett facit för utdrag ur riktiga handlingar, och måtten för varje version låses i en fil som testet prövar](0025-facit-for-konverteringen.md) | accepted |
 | 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | proposed |
-| 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | proposed |
-| 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | proposed |
-| 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | proposed |
-| 0031 | [Ett rutnät utan text är ingen tabell](0031-ett-rutnat-utan-text-ar-ingen-tabell.md) | proposed |
+| 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | accepted |
+| 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | accepted |
+| 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | accepted |
+| 0031 | [Ett rutnät utan text är ingen tabell](0031-ett-rutnat-utan-text-ar-ingen-tabell.md) | accepted |
 | 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | proposed |
 | 0033 | [Talrader i linje som inte blev någon tabell märker sidan osäker](0033-talrader-i-linje-marker-sidan-osaker.md) | proposed |
