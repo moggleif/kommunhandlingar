@@ -122,6 +122,12 @@ class TestDela(unittest.TestCase):
         )
         self.assertIsNone(dela(platser, {"hel"}, False))
 
+    def test_tal_nara_en_etikett_i_tat_radavstand_ger_ingen_rad(self):
+        platser = rutor(
+            [(0, "Intäkter"), (14, "Kostnader")], [(4, "4 078")], [(4, "4 054")]
+        )
+        self.assertIsNone(dela(platser, {"hel"}, False))
+
     def test_text_over_en_grans_bara_i_forsta_raden(self):
         platser = rutor([(0, "Grundskola")], [(0, "Uppgift saknas")], [])
         self.assertIsNone(dela(platser, {"egen", "over"}, False))

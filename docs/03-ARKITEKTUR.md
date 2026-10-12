@@ -691,11 +691,11 @@ blir en säker tabell bara när varje steg går ihop:
    grupp ska ha minst två tal, eller inget (en rubrik över en tom
    kolumn), och högst ett tal per textrad. Gränsen läggs mitt i
    mellanrummet mellan två grupper, och före den första gruppen när
-   text står till vänster om den. Tabellens första kolumn med text ska
-   ha etiketter utan siffror på minst två textrader, så att en ensam
-   rubrik inte räcker, och står gränserna i den kolumnen ska
-   etiketterna stå till vänster om talen; annars står etiketterna
-   utanför tabellen och inga gränser läggs.
+   text står till vänster om den. Varje rad med tal under tabellens
+   första rad ska ha en etikett, ett ord utan tal, i tabellens första
+   kolumn med text, och står gränserna i den kolumnen ska etiketterna
+   stå till vänster om talen; annars står etiketterna utanför tabellen
+   och inga gränser läggs.
 2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
    marginal) skrivs i den. En cell som går över flera kolumner delas
    rad för rad i fält, med fälten avgränsade som i tabellerna utan
@@ -723,7 +723,8 @@ blir en säker tabell bara när varje steg går ihop:
    När inget i det rymmer mer än ett tal blir det en rad, om varje
    textrad med ett tal står på samma höjd och varje cell som inte är
    tom har en textrad på den höjden, eller en textrad ovanför och en
-   under med höjden mitt emellan dem (högst 3 punkter ifrån), som en
+   under med höjden mitt emellan dem (högst 3 punkter och en sjättedel
+   av avståndet ifrån), som en
    etikett som bryts runt sina tal; text utan tal kan stå på olika
    höjder. Ett tal är här en siffra, eller ett streck som står för ett
    tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med

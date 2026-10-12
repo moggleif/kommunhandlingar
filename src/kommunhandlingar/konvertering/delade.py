@@ -8,13 +8,11 @@ efter rutornas textrader
 (docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
 """
 
-from itertools import pairwise
-
 from pdfplumber.table import Table
 
 from kommunhandlingar.konvertering import talkolumner
-from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
-from kommunhandlingar.konvertering.sammanslagna import I_LINJE, Textrad, cellens, kolumn
+from kommunhandlingar.konvertering.falt import RADTOLERANS
+from kommunhandlingar.konvertering.sammanslagna import I_LINJE, Textrad, cellens
 from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfalt
 
 
@@ -23,8 +21,7 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     (K19); None när tabellen inte går att dela."""
     if any(over_linje(o, t.cells) for o in ord_ if inom(mitt(o), t.bbox)):
         return None
-    granser = kolumngranser(t)
-    granser = tuple(sorted({*granser, *talkolumner.granser(falten(t, ord_, granser))}))
+    granser = talkolumner.tabellens(t, ord_, kolumngranser(t))
     rader: list[list[str]] = []
     for nr, rad in enumerate(t.rows):
         placerat = placera(rad.cells, ord_, granser)
@@ -43,15 +40,6 @@ def over_linje(o: dict, celler: list[tuple]) -> bool:
         for t in o["chars"]
     }
     return len(i_celler - {None}) > 1
-
-
-def falten(t: Table, ord_: list[dict], granser: tuple) -> list[talkolumner.Rader]:
-    """Tabellens fält rad för rad, för varje kolumn mellan linjerna."""
-    rader = [falt(r, True) for r in radvis([o for o in ord_ if inom(mitt(o), t.bbox)])]
-    return [
-        [[f for f in r if kolumn(f.x0, f.x1, (vanster, hoger)) == 0] for r in rader]
-        for vanster, hoger in pairwise(granser)
-    ]
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:
@@ -121,7 +109,8 @@ def talen_i_hojd(platser: list[list[Textrad]]) -> bool:
 
 def i_hojd(ruta: list[Textrad], hojd: float) -> bool:
     """En textrad på talens höjd, eller talen mitt emellan två textrader,
-    som en etikett som bryts runt sina tal."""
+    som en etikett som bryts runt sina tal. Mitt emellan är inom en sjättedel
+    av avståndet, så att talen inte står närmare den ena."""
     toppar = [r.topp for r in ruta]
     if any(abs(t - hojd) <= RADTOLERANS for t in toppar):
         return True
@@ -129,7 +118,8 @@ def i_hojd(ruta: list[Textrad], hojd: float) -> bool:
     under = [t for t in toppar if t > hojd]
     if not ovan or not under:
         return False
-    return abs((max(ovan) + min(under)) / 2 - hojd) <= RADTOLERANS
+    marginal = min(RADTOLERANS, (min(under) - max(ovan)) / 6)
+    return abs((max(ovan) + min(under)) / 2 - hojd) <= marginal
 
 
 def celler(platser: list[list[Textrad]]) -> list[str]:

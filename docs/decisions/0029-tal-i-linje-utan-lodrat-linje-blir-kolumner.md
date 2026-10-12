@@ -51,11 +51,12 @@ blir tvetydig. Reglerna står i
   varje mellanrum, och före den första gruppen när text står till
   vänster. Talen behöver inte stå med högerkanten i linje, som i
   ADR-0016, eftersom talen i personaltabellerna är centrerade.
-* **Etiketterna ska finnas:** tabellens första kolumn med text ska ha
-  etiketter utan siffror på minst två textrader. En tabell med linjer
-  runt bara talen, där etiketterna står utanför, får inga gränser,
-  eftersom raderna då skulle bli tal utan etikett, och en ensam rubrik
-  som `Utfall` räcker inte som etiketter.
+* **Etiketterna ska finnas:** varje rad med tal under tabellens första
+  rad ska ha en etikett, ett ord utan tal, i tabellens första kolumn
+  med text. En tabell med linjer runt bara talen, där etiketterna står
+  utanför, får inga gränser, eftersom raderna då skulle bli tal utan
+  etikett. En rubrik, en källrad eller ett streck räcker inte som
+  etiketter.
 * **Text över en gräns:** ett fält utan siffror som går över en
   kolumngräns skrivs i den första kolumn det täcker, men bara i
   tabellens första rad, där rubrikerna står. Längre ner kan det vara ett
@@ -67,9 +68,9 @@ blir tvetydig. Reglerna står i
   tal. En rad som blandar en etikett och ett tal fäller tabellen.
 * **En etikett som bryts runt sina tal:** en cell med en textrad
   ovanför och en under talen räknas som att den står på talens höjd, när
-  talen står mitt emellan dem (högst 3 punkter ifrån). Står talen strax
-  under den övre, hör de till den, och den undre är en rad som saknar
-  värden.
+  talen står mitt emellan dem: högst 3 punkter och en sjättedel av
+  avståndet ifrån. Står talen strax under den övre, hör de till den, och
+  den undre är en rad som saknar värden.
 * **Första raden** prövas inte på höjd när den första kolumnen med text
   har högst en textrad, som i ADR-0028. Med en smal, tom första ruta,
   som i personaltabellerna, är det den andra kolumnen som prövas.
@@ -93,6 +94,14 @@ Poolens version höjs till 0.8.0. Poolen rättas när den konverteras om
 * Dåligt, eftersom tal som står tätt, med ett tvetydigt mellanrum, som
   `175 173 183 671`, inte går att skilja från tusental och fäller
   tabellen som förut.
+* Dåligt, eftersom en text över en gräns i tabellens första rad skrivs
+  i den första kolumn den täcker också när raden är data, som
+  `Uppgift saknas` över två år på en fortsättningssida. Den första
+  raden antas vara rubriker, som i ADR-0028.
+* Dåligt, eftersom tal som står inom 3 punkter från en etikett räknas
+  som att de står på dess höjd, som i ADR-0028, så i ett tätt
+  radavstånd skiljer regeln inte tal strax under en etikett från tal
+  mitt emellan två.
 * Dåligt, eftersom en textruta med en rubrik över hela bredden och en
   lista per år under, som `Gjorda konsekvensbedömningar …` med
   `2021 | 2022 | 2023`, blir CSV, fast ADR-0028 sa att textrutorna ska
@@ -155,6 +164,11 @@ första raden. Facit
    etiketter på två textrader. Den hittade också att `Uppgift saknas`
    över två år i en datarad skrevs i den första av dem; därför gäller
    regeln för text över en gräns bara i första raden.
+6. **Andra granskningsvarvet** hittade att etiketter på två textrader
+   gick att få med en rubrik i två rader, som `Utfall⏎helår`, en
+   källrad eller streck, och att mitt emellan inte skilde något när
+   textraderna står tätt. Därför prövas etiketterna per rad i tabellen,
+   och marginalen för mitt emellan är också en sjättedel av avståndet.
 
 ### Mätningen
 

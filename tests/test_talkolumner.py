@@ -5,9 +5,10 @@ Kolumngränser mellan tal som står i linje utan lodrät linje emellan
 """
 
 import unittest
+from types import SimpleNamespace
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.talkolumner import granser
+from kommunhandlingar.konvertering.talkolumner import etiketterade, granser
 
 RUBRIK = [
     Falt("Namn", 0, 30),
@@ -73,15 +74,6 @@ class TestGranser(unittest.TestCase):
         ]
         self.assertEqual(granser([rader]), [])
 
-    def test_en_rubrik_ar_inga_etiketter(self):
-        utfall = [[Falt("Utfall", 0, 30)], [Falt("12,0", 0, 30)], [Falt("13,0", 0, 30)]]
-        ovriga = [
-            [Falt("Budget", 110, 140), Falt("Prognos", 190, 220)],
-            [Falt("94,3", 110, 140), Falt("96,9", 190, 220)],
-            [Falt("98,6", 110, 140), Falt("99,2", 190, 220)],
-        ]
-        self.assertEqual(granser([utfall, ovriga]), [])
-
     def test_etiketter_som_inte_star_fore_talen_ger_ingen_grans(self):
         rader = [
             [Falt("Heltid", 200, 240)],
@@ -107,6 +99,61 @@ class TestGranser(unittest.TestCase):
             [Falt("98,6 %", 110, 140), Falt("99,2 %", 190, 220)],
         ]
         self.assertEqual(granser([etiketter, tal]), [165])
+
+
+LINJER = (0, 100, 300)
+
+
+def tabell(*rader: list[tuple[str, float]]) -> tuple[SimpleNamespace, list[dict]]:
+    """En tabell med en rad per lista av ord, tio punkter hög."""
+    ord_ = [
+        {
+            "text": text,
+            "x0": x0,
+            "x1": x0 + 20,
+            "top": 10 * nr + 2,
+            "bottom": 10 * nr + 8,
+        }
+        for nr, rad in enumerate(rader)
+        for text, x0 in rad
+    ]
+    radrutor = [
+        SimpleNamespace(bbox=(0, 10 * nr, 300, 10 * nr + 10))
+        for nr in range(len(rader))
+    ]
+    return SimpleNamespace(rows=radrutor), ord_
+
+
+class TestEtiketterade(unittest.TestCase):
+    def test_varje_rad_med_tal_har_en_etikett(self):
+        t, ord_ = tabell(
+            [("Namn", 5)], [("Heltid", 5), ("94,3", 120)], [("Män", 5), ("98,6", 120)]
+        )
+        self.assertTrue(etiketterade(t, ord_, LINJER))
+
+    def test_rubrik_i_tva_rader_ar_inga_etiketter(self):
+        t, ord_ = tabell(
+            [("Utfall", 5)], [("helår", 5)], [("4 078", 5), ("4 054", 120)]
+        )
+        self.assertFalse(etiketterade(t, ord_, LINJER))
+
+    def test_kallrad_ar_ingen_etikett_for_talen(self):
+        t, ord_ = tabell(
+            [("Utfall", 5)], [("4 078", 5), ("4 054", 120)], [("Källa:", 5)]
+        )
+        self.assertFalse(etiketterade(t, ord_, LINJER))
+
+    def test_streck_ar_ingen_etikett(self):
+        t, ord_ = tabell([("Utfall", 5)], [("–", 5), ("4 054", 120)])
+        self.assertFalse(etiketterade(t, ord_, LINJER))
+
+    def test_etikett_i_en_annan_kolumn_raknas_inte(self):
+        t, ord_ = tabell([("Namn", 5)], [("4 078", 5), ("Heltid", 120)])
+        self.assertFalse(etiketterade(t, ord_, LINJER))
+
+    def test_etiketten_star_i_forsta_kolumnen_med_text(self):
+        t, ord_ = tabell([("Namn", 120)], [("Heltid", 120), ("94,3", 200)])
+        self.assertTrue(etiketterade(t, ord_, (0, 100, 180, 300)))
 
 
 if __name__ == "__main__":

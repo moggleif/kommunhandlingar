@@ -7,25 +7,54 @@ utan lodrät linje emellan
 
 from itertools import pairwise
 
-from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.tabeller import siffra, talfalt
+from pdfplumber.table import Table
+
+from kommunhandlingar.konvertering.falt import Falt, falt, radvis
+from kommunhandlingar.konvertering.sammanslagna import kolumn, med_tal
+from kommunhandlingar.konvertering.tabeller import inom, mitt, siffra, talfalt
 
 Rader = list[list[Falt]]
 
 
+def tabellens(t: Table, ord_: list[dict], linjer: tuple) -> tuple[float, ...]:
+    """Kolumngränserna efter linjerna och efter talen. Gränser efter talen
+    läggs bara när varje rad med tal under den första har en etikett i
+    tabellens första kolumn med text; annars står etiketterna utanför."""
+    inne = [o for o in ord_ if inom(mitt(o), t.bbox)]
+    if not etiketterade(t, inne, linjer):
+        return linjer
+    return tuple(sorted({*linjer, *granser(falten(inne, linjer))}))
+
+
+def etiketterade(t: Table, inne: list[dict], linjer: tuple) -> bool:
+    kolumnerna = [kolumn(o["x0"], o["x1"], linjer) for o in inne]
+    forsta = min(filter(lambda i: i is not None, kolumnerna), default=None)
+    for rad in t.rows[1:]:
+        i_raden = [
+            (k, med_tal((o["text"],)))
+            for o, k in zip(inne, kolumnerna, strict=True)
+            if inom(mitt(o), rad.bbox)
+        ]
+        har_tal = any(tal for _, tal in i_raden)
+        if har_tal and not any(k == forsta and not tal for k, tal in i_raden):
+            return False
+    return True
+
+
+def falten(inne: list[dict], linjer: tuple) -> list[Rader]:
+    """Tabellens fält rad för rad, för varje kolumn mellan linjerna."""
+    rader = [falt(r, True) for r in radvis(inne)]
+    return [
+        [[f for f in r if kolumn(f.x0, f.x1, (vanster, hoger)) == 0] for r in rader]
+        for vanster, hoger in pairwise(linjer)
+    ]
+
+
 def granser(kolumner: list[Rader]) -> list[float]:
     """Gränserna i varje kolumn mellan linjerna, givna som fälten rad för
-    rad. Ingen gräns när tabellens första kolumn med text har färre än två
-    textrader med en etikett utan siffror, eftersom etiketterna då står
-    utanför tabellen och det som står där är en rubrik."""
+    rad."""
     kolumner = [k for k in kolumner if any(k)]
-    if not kolumner or etiketter(kolumner[0]) < 2:
-        return []
     return [x for nr, k in enumerate(kolumner) for x in i_kolumnen(k, nr == 0)]
-
-
-def etiketter(rader: Rader) -> int:
-    return sum(1 for r in rader if not all(siffra(f.text) for f in r))
 
 
 def i_kolumnen(rader: Rader, forsta: bool) -> list[float]:
@@ -46,10 +75,10 @@ def i_kolumnen(rader: Rader, forsta: bool) -> list[float]:
 
 
 def talgrupper(rader: Rader) -> list[list[Falt]] | None:
-    """Fälten med siffror i grupper som överlappar, från den första gruppen
-    med ett tal. None när det blir färre än två grupper, när en grupp har
-    ett enda tal, eller två tal på samma rad; en grupp utan tal är en
-    rubrik över en tom kolumn."""
+    """Fälten med siffror i grupper som överlappar, från den första med
+    ett tal; en grupp utan tal är en rubrik över en tom kolumn. None vid
+    färre än två grupper, ett ensamt tal i en grupp, eller två tal från
+    samma rad i en grupp."""
     med_siffra = sorted(
         (f for r in rader for f in r if siffra(f.text)), key=lambda f: f.x0
     )
@@ -58,10 +87,11 @@ def talgrupper(rader: Rader) -> list[list[Falt]] | None:
     grupper = [] if forsta is None else grupper[forsta:]
     if len(grupper) < 2 or any(sum(map(ar_tal, g)) == 1 for g in grupper):
         return None
-    tva = (
-        sum(1 for f in r if ar_tal(f) and f in g) > 1 for r in rader for g in grupper
-    )
-    return None if any(tva) else grupper
+    return None if any(tva_i_en(r, g) for r in rader for g in grupper) else grupper
+
+
+def tva_i_en(rad: list[Falt], grupp: list[Falt]) -> bool:
+    return sum(1 for f in rad if ar_tal(f) and f in grupp) > 1
 
 
 def overlappande(falt_: list[Falt]) -> list[list[Falt]]:

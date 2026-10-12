@@ -6,6 +6,7 @@ en cell inom en kolumn, eller en sammanslagen cell som går över flera
 (docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
 """
 
+from collections.abc import Iterable
 from dataclasses import dataclass
 from itertools import pairwise
 
@@ -30,7 +31,7 @@ class Textrad:
         return med_tal(self.falt)
 
 
-def med_tal(falt_: tuple[str, ...]) -> bool:
+def med_tal(falt_: Iterable[str]) -> bool:
     """En siffra, eller ett streck som står för ett tal."""
     return any(siffra(f) or talfalt(f) for f in falt_)
 
@@ -61,7 +62,7 @@ def faltets(f: Falt, granser: tuple) -> int | None:
     """Fältets kolumn. En text utan siffror som går över en kolumngräns,
     som en rubrik över två kolumner, står i den första den täcker."""
     i = kolumn(f.x0, f.x1, granser)
-    if i is None and not siffra(f.text):
+    if i is None and not med_tal((f.text,)):
         return kolumn(f.x0, f.x0, granser)
     return i
 
@@ -93,9 +94,7 @@ def fylld(textrader_: list[Textrad]) -> str:
     slag = {radens(falt_) for falt_ in hojder.values()}
     if "" in slag:
         return ""
-    if "rubrik" in slag:
-        return "rubrik"
-    return "tal" if "tal" in slag else ""
+    return "rubrik" if "rubrik" in slag else "tal"
 
 
 def radens(falt_: list[str]) -> str:
@@ -103,7 +102,7 @@ def radens(falt_: list[str]) -> str:
         return "tal"
     if any(map(talfalt, falt_)):
         return ""
-    return "rubrik" if med_tal(tuple(falt_)) else "text"
+    return "rubrik" if med_tal(falt_) else "text"
 
 
 def tackta(cell: tuple, granser: tuple) -> range:
