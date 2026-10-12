@@ -57,3 +57,4 @@ Regler för det här repot, utöver MADR:
 | 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | proposed |
 | 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | proposed |
 | 0031 | [Ett rutnät utan text är ingen tabell](0031-ett-rutnat-utan-text-ar-ingen-tabell.md) | proposed |
+| 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | proposed |
