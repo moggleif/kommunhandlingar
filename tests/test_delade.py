@@ -8,12 +8,11 @@ Sidorna i delade.pdf beskrivs i tests/fixtures/pdf/skapa_delade.py.
 
 import unittest
 from pathlib import Path
-from types import SimpleNamespace
 
 import pdfplumber
 
 from kommunhandlingar.konvertering import delade, tabeller
-from kommunhandlingar.konvertering.delade import Textrad, dela, kolumngranser, slaget
+from kommunhandlingar.konvertering.delade import Textrad, dela
 from kommunhandlingar.konvertering.dokument import konvertera
 
 PDF = Path(__file__).parent / "fixtures" / "pdf" / "delade.pdf"
@@ -40,6 +39,7 @@ class TestDeladeSidor(unittest.TestCase):
                 "tabell-osaker",  # etiketten mitt emellan talen
                 "ok",  # läses i stället som tabell utan lodräta linjer
                 "tabell-osaker",  # ett tal i en cell över två kolumner
+                "tabell-osaker",  # ett tal över en linje
             ],
         )
 
@@ -72,7 +72,14 @@ class TestDeladeSidor(unittest.TestCase):
     def test_etikett_over_linjen_delas_inte(self):
         with pdfplumber.open(PDF) as pdf:
             sida = pdf.pages[4]
-            ord_ = sida.extract_words()
+            ord_ = sida.extract_words(return_chars=True)
+            _, (fallen,) = tabeller.sakra(sida, ord_)
+            self.assertIsNone(delade.tabell(fallen, ord_))
+
+    def test_ord_over_en_linje_delas_inte(self):
+        with pdfplumber.open(PDF) as pdf:
+            sida = pdf.pages[6]
+            ord_ = sida.extract_words(return_chars=True)
             _, (fallen,) = tabeller.sakra(sida, ord_)
             self.assertIsNone(delade.tabell(fallen, ord_))
 
@@ -174,61 +181,6 @@ class TestDela(unittest.TestCase):
     def test_rubrikcell_under_forsta_raden_ger_ingen_rad(self):
         platser = rutor([(0, "Summa")], [(0, "2026-27:")], [(0, "8 132")])
         self.assertIsNone(dela(platser, {"egen", "rubrik"}, False))
-
-
-GRANSER = (0, 100, 150, 200)
-
-
-class TestKolumngranser(unittest.TestCase):
-    def test_kanter_inom_en_linje_slas_ihop(self):
-        t = SimpleNamespace(cells=[(0, 0, 100, 10), (101.5, 0, 200, 10)])
-        self.assertEqual(kolumngranser(t), (0, 100, 200))
-
-
-class TestSlaget(unittest.TestCase):
-    def test_tal_i_sammanslagen_cell_delas_inte(self):
-        ut = [(2, Textrad(0, ("8 132",)))]
-        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_tal_med_ord_i_sammanslagen_cell_delas_inte(self):
-        ut = [(2, Textrad(0, ("ca 8 132",)))]
-        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_etikett_och_tal_i_sammanslagen_cell_delas_inte(self):
-        ut = [(1, Textrad(0, ("Båda åren",))), (2, Textrad(0, ("8 132",)))]
-        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_tal_i_varje_tackt_kolumn_ar_tal(self):
-        ut = [(1, Textrad(0, ("1,0",))), (2, Textrad(0, ("0,0",)))]
-        self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
-
-    def test_tal_med_fotnotsstjarna_ar_tal(self):
-        ut = [(1, Textrad(0, ("4 078*",))), (2, Textrad(0, ("4 054*",)))]
-        self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "tal")
-
-    def test_etiketter_med_artal_ar_rubrik(self):
-        ut = [(1, Textrad(0, ("Bokslut 2025",))), (2, Textrad(0, ("Budget 2026",)))]
-        self.assertEqual(slaget((100, 0, 200, 10), ut, GRANSER)[0], "rubrik")
-
-    def test_etikett_och_tal_ar_ingen_rubrik(self):
-        ut = [(1, Textrad(0, ("2026-27:",))), (2, Textrad(0, ("8 132",)))]
-        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_falt_utanfor_kolumnerna_delas_inte(self):
-        ut = [(None, Textrad(0, ("8 132",)))]
-        self.assertIsNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_ett_tal_per_tackt_kolumn_delas(self):
-        ut = [(1, Textrad(0, ("2026",))), (2, Textrad(0, ("2027",)))]
-        self.assertIsNotNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_rad_over_hela_bredden_delas(self):
-        ut = [(0, Textrad(0, ("Lunch",))), (1, Textrad(0, ("10",)))]
-        self.assertIsNotNone(slaget((0, 0, 200, 10), ut, GRANSER)[1])
-
-    def test_text_i_sammanslagen_cell_delas(self):
-        ut = [(1, Textrad(0, ("Summa",)))]
-        self.assertIsNotNone(slaget((100, 0, 200, 10), ut, GRANSER)[1])
 
 
 if __name__ == "__main__":

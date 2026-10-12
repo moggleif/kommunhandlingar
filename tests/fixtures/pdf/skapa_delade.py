@@ -12,6 +12,8 @@ linjer där en cell rymmer mer än ett tal.
    linjen under: delas inte.
 6. Rubrikraden saknar lodräta linjer, och en rad har ett enda tal i en
    cell över två kolumner: delas inte.
+7. Som sida 2, men ett tal står med sista siffran över linjen, som
+   etiketterna i ett diagram vars rutnät läses som en tabell: delas inte.
 """
 
 from pathlib import Path
@@ -98,6 +100,15 @@ def tal_over_tva_kolumner(c: Canvas) -> None:
     rad(c, 726, ("Summa ram", "", "8 132"))
 
 
+def tal_over_linjen(c: Canvas) -> None:
+    vagrata(c, [780, 760, 720])
+    lodrata(c, 780, 720)
+    rad(c, 766, ("Post", "2026", "2027"))
+    rad(c, 746, ("Intäkter", "4 078", "4 054"))
+    rad(c, 730, ("Kostnader", "", "-2 001"))
+    c.drawRightString(X[2] + 4, 730, "-1 845")
+
+
 def skapa() -> None:
     c = Canvas(str(HAR / "delade.pdf"), pagesize=(B, H))
     for sida in (
@@ -107,6 +118,7 @@ def skapa() -> None:
         etikett_mitt_emellan,
         rubrik_over_linjen,
         tal_over_tva_kolumner,
+        tal_over_linjen,
     ):
         sida(c)
         c.showPage()
