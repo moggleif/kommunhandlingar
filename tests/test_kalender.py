@@ -116,7 +116,6 @@ class TestSidan(unittest.TestCase):
             )
 
     def test_en_ruta_per_sammantrade_med_forkortning(self):
-        self.assertIn('data-organ="fsn">FSN 17:00</span>', self.html)
         self.assertIn('data-organ="fsn-au">FSN-AU</span>', self.html)
 
     def test_osakert_markt_i_vyerna_och_skalet_under_kvalitet(self):
@@ -145,14 +144,22 @@ class TestSidan(unittest.TestCase):
         self.assertEqual(self.html.count('class="manad"'), 2)
         self.assertEqual(self.html.count("<tr data-organ="), 3)
 
-    def test_kallan_ar_en_lank(self):
+    def test_kallorna_per_organ_och_ar_under_kvalitet(self):
+        kvalitet = self.html.split('<details id="kvalitet">')[1].split("</details>")[0]
+        kallor = kvalitet.split("<h2>Källor</h2>")[1]
+        self.assertIn('<th scope="col">2026</th><th scope="col">2027</th>', kallor)
         self.assertIn(
-            'href="fsn/2026/2026-09-17/protokoll.html">FSN 2026-09-17', self.html
+            '<td><a href="https://exempelby.se/bun">exempelby.se</a></td><td></td>',
+            kallor,
         )
-        self.assertIn('href="https://exempelby.se/bun">exempelby.se</a>', self.html)
+        self.assertEqual(kallor.count("protokoll.html"), 2)
+        lista = self.html.split("<h2>Lista</h2>")[1].split("<script>")[0]
+        self.assertNotIn("<a href", lista.replace('<a href="#osakra"', ""))
 
-    def test_tid_plats_och_urval(self):
-        self.assertIn("<td>17:00</td><td>Stadshuset</td>", self.html)
+    def test_tid_i_listan_platsen_i_rutan(self):
+        self.assertIn("<td>17:00</td></tr>", self.html)
+        self.assertIn('title="Stadshuset">FSN 17:00</span>', self.html)
+        self.assertNotIn("<td>Stadshuset</td>", self.html)
         self.assertEqual(self.html.count('type="checkbox" checked'), 3)
         self.assertIn("<script>", self.html)
 

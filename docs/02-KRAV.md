@@ -640,7 +640,8 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** det visas
 - **Så** står organets förkortning i rutan, med organets färg, där ett
   organ och organet det hör till har nyanser av samma färg; listan visar
-  organets namn, tid och plats när källan anger dem, och källan som länk.
+  organets namn och tiden när källan anger den, och rutan platsen när
+  källan anger den.
 - **Givet** ett sammanträde vars datum är osäkert inläst
 - **När** det visas
 - **Så** är det märkt som osäkert i text i båda vyerna.
@@ -648,7 +649,8 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** den visas
 - **Så** står överst en kort inledning och under den en hopfälld del om
   kvaliteten: hur många datum som är osäkra av alla, hur datumen tagits
-  fram, och varje osäkert sammanträde med skäl och källa.
+  fram, varje osäkert sammanträde med skäl och källa, och källorna som
+  länkar per organ och år.
 - **Givet** en kalenderfil med ett organ som inte står i kommunfilen, ett
   datum som inte är ÅÅÅÅ-MM-DD eller inte finns, ett sammanträde två
   gånger, en källa som varken är en adress eller ett dokument i poolen,

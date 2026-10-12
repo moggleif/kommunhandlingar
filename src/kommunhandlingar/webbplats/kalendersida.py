@@ -1,11 +1,13 @@
 """Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
 
-Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen, urvalet
+Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
+källorna per organ och år, urvalet
 av organ, en tabell per månad och listan. Skriptet
 i `kalender.js` visar en månad i taget och döljer det som valts bort; utan
 det står allt på sidan.
 """
 
+from collections import defaultdict
 from html import escape
 from pathlib import Path
 
@@ -23,11 +25,12 @@ INLEDNING = (
 )
 METOD = (
     "<p>Datumen är lästa ur organens mötessidor och ur deras beslut om "
-    "sammanträdesdagar, och varje sammanträde har sin källa i listan. Inställda "
-    "möten och planeringsdagar är inte med, och tid och plats står där källan "
-    "anger dem. Ett datum är osäkert när källan är svår att läsa, eller när den "
-    "anger en veckodag som datumet inte stämmer med. Ett osäkert datum har ett "
-    "frågetecken i månadsvyn och ordet osäkert i listan.</p>"
+    "sammanträdesdagar; källorna står per organ och år längst ned. Inställda "
+    "möten och planeringsdagar är inte med. Tiden står där källan anger den, "
+    "och platsen visas när man håller över rutan i månadsvyn. Ett datum är "
+    "osäkert när källan är svår att läsa, eller när den anger en veckodag som "
+    "datumet inte stämmer med. Ett osäkert datum har ett frågetecken i "
+    "månadsvyn och ordet osäkert i listan.</p>"
 )
 STIL = """
 [hidden] { display: none !important; }
@@ -66,7 +69,8 @@ def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) 
         f'<details id="kvalitet"><summary>Kvalitet: {len(osakra)} av '
         f"{len(sammantraden)} datum är osäkra</summary>{METOD}"
         f"<p>Hur och varför står i {adr}.</p>"
-        f'<h2 id="osakra">Osäkra datum</h2>{osakra_tabell(osakra, namn)}</details>'
+        f'<h2 id="osakra">Osäkra datum</h2>{osakra_tabell(osakra, namn)}'
+        f"<h2>Källor</h2>{kallor(sammantraden, namn)}</details>"
     )
 
 
@@ -85,6 +89,29 @@ def osakra_tabell(osakra: list[Sammantrade], namn: dict[str, str]) -> str:
         f'<div class="tabell"><table><thead><tr>{huvud}</tr></thead>'
         f"<tbody>{rader}</tbody></table></div>"
     )
+
+
+def kallor(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
+    kallor = defaultdict(dict)
+    for s in sammantraden:
+        kallor[(s.organ, s.datum.year)][s.kalla] = None
+    ar = sorted({a for _, a in kallor})
+    huvud = "".join(f'<th scope="col">{k}</th>' for k in ["Organ", *ar])
+    rader = "".join(
+        f"<tr><td>{escape(namn[organ])}</td>"
+        + "".join(f"<td>{kallcell(kallor.get((organ, a), {}))}</td>" for a in ar)
+        + "</tr>"
+        for organ in namn
+        if any((organ, a) in kallor for a in ar)
+    )
+    return (
+        f'<div class="tabell"><table><thead><tr>{huvud}</tr></thead>'
+        f"<tbody>{rader}</tbody></table></div>"
+    )
+
+
+def kallcell(kallor: dict[str, None]) -> str:
+    return "<br>".join(map(kalendervyer.kallank, kallor))
 
 
 def urval(farg: dict[str, tuple[str, str]], namn: dict[str, str]) -> str:
