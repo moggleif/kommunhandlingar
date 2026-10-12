@@ -78,7 +78,7 @@ def flera_tal(cell: str) -> bool:
 
 
 def flera_pa_raden(rad: str) -> bool:
-    delar = [d for d in SKILJE.split(rad) if d and not re.fullmatch(ENHET, d, re.I)]
+    delar = [d for d in SKILJE.split(rad) if d and not enhet(d)]
     return (
         len(delar) > 1
         and all(VARDE.fullmatch(d) for d in delar)
@@ -98,6 +98,14 @@ def flera_falt(ord_: list[dict]) -> bool:
 def talfalt(text: str) -> bool:
     """Ett tal eller ett streck, med eller utan fotnotsstjärna."""
     return TALRAD.fullmatch(FOTNOT.sub("", text)) is not None
+
+
+def enhet(text: str) -> bool:
+    return re.fullmatch(ENHET, text, re.I) is not None
+
+
+def siffra(text: str) -> bool:
+    return any(c.isdigit() for c in text)
 
 
 def mitt(objekt: dict) -> tuple[float, float]:

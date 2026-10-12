@@ -1,4 +1,4 @@
-"""Krav: K5, ADR-0028. Skapar `delade.pdf` för tests/test_delade.py.
+"""Krav: K5, ADR-0028 och ADR-0029. Skapar `delade.pdf` för tests/test_delade.py.
 
 Körs för hand med reportlab, som inte är projektets beroende:
 `python tests/fixtures/pdf/skapa_delade.py`. Varje sida är en tabell med
@@ -9,11 +9,15 @@ linjer där en cell rymmer mer än ett tal.
 3. Rubrik och värde i samma ruta, etiketten på värdets höjd.
 4. Två tal i rutan men etiketten står mitt emellan: förblir osäker.
 5. Rubrikraden saknar lodräta linjer, och rubrikens etikett går över
-   linjen under: delas inte.
+   linjen under: står i den första kolumnen (ADR-0029).
 6. Rubrikraden saknar lodräta linjer, och en rad har ett enda tal i en
    cell över två kolumner: delas inte.
 7. Som sida 2, men ett tal står med sista siffran över linjen, som
    etiketterna i ett diagram vars rutnät läses som en tabell: delas inte.
+8. Bara vågräta linjer och en smal första ruta i rubrikraden, talen i
+   linje utan lodrät linje emellan, och etiketter som bryts runt sina
+   tal, som i en personaltabell (ADR-0029).
+9. En rubrik över två kolumner i en rad utan lodräta linjer (ADR-0029).
 """
 
 from pathlib import Path
@@ -109,6 +113,32 @@ def tal_over_linjen(c: Canvas) -> None:
     c.drawRightString(X[2] + 4, 730, "-1 845")
 
 
+def talen_utan_lodrat_linje(c: Canvas) -> None:
+    vagrata(c, [780, 760, 730, 700])
+    c.line(X[0], 780, X[0], 700)
+    c.line(X[-1], 780, X[-1], 700)
+    c.line(X[0] + 4, 780, X[0] + 4, 760)
+    rad(c, 766, ("Namn", "Bokslut 2024", "Bokslut 2025"))
+    for y, (ovre, undre), tal in (
+        (742, ("Andel kvinnor", "som har heltid"), ("94,3 %", "96,9 %")),
+        (712, ("Andel män som", "har heltid"), ("98,6 %", "99,2 %")),
+    ):
+        c.drawString(X[0] + 5, y + 6, ovre)
+        c.drawString(X[0] + 5, y - 6, undre)
+        rad(c, y, ("", *tal))
+
+
+def rubrik_over_tva_kolumner(c: Canvas) -> None:
+    vagrata(c, [780, 735, 715])
+    lodrata(c, 735, 715)
+    for xi in X[:2] + X[-1:]:
+        c.line(xi, 780, xi, 735)
+    c.drawString(X[1] + 5, 768, "Andel av volymen")
+    rad(c, 756, ("", "Bokslut 2024", "Bokslut 2025"))
+    rad(c, 741, ("Förskola", "22,6", "23,7"))
+    rad(c, 721, ("Grundskola", "51,0", "50,2"))
+
+
 def skapa() -> None:
     c = Canvas(str(HAR / "delade.pdf"), pagesize=(B, H))
     for sida in (
@@ -119,6 +149,8 @@ def skapa() -> None:
         rubrik_over_linjen,
         tal_over_tva_kolumner,
         tal_over_linjen,
+        talen_utan_lodrat_linje,
+        rubrik_over_tva_kolumner,
     ):
         sida(c)
         c.showPage()

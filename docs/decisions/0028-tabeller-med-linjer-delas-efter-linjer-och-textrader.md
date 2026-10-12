@@ -61,7 +61,8 @@ I korthet:
 
 * **Kolumnerna** är varje cells kanter i hela tabellen. En rad utan
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
-  över en gräns fäller tabellen.
+  över en gräns fäller tabellen. (Ändrat i ADR-0029 för text utan
+  siffror i tabellens första rad.)
 * **En sammanslagen cell** med ett tal delas bara när den går över
   hela tabellens bredd, eller får text i varje kolumn den täcker och
   bara har tal, eller står i första raden med ett tal i varje
@@ -93,13 +94,15 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
 * Bra, eftersom inget nytt beroende behövs och regeln är kort.
 * Dåligt, eftersom en tabell som helt saknar lodräta linjer mellan två
   tal, som `94,3 % 96,9 %` i en ruta över hela bredden, förblir osäker.
-  Där finns ingen linje att låna.
+  Där finns ingen linje att låna. (Ändrat i
+  [ADR-0029](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md).)
 * Dåligt, eftersom en etikett som bryts över två rader runt talen, med
-  talen mitt emellan, gör att tabellen inte delas.
+  talen mitt emellan, gör att tabellen inte delas. (Ändrat i ADR-0029
+  för en rad med ett enda tal per cell.)
 * Dåligt, eftersom en etikett som är längre än sin kolumn, eller en
   rubrik som står mitt över två kolumner, i en rad utan lodräta linjer
   fäller tabellen, fast en människa kan läsa den. I stickprovet gällde
-  det tre av 35 tabeller.
+  det tre av 35 tabeller. (Ändrat i ADR-0029 för text utan siffror.)
 * Dåligt, eftersom ett tal i en rad som helt saknar lodräta linjer, en
   cell över hela tabellens bredd, placeras i den kolumn det står i. Det
   är så en människa läser det, men ingen linje i raden säger det.
@@ -197,7 +200,8 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    ADR-0016. En löptext har vanliga mellanslag och blir ett fält, som
    går över en gräns och fäller tabellen, i stället för att delas ord för
    ord i kolumnerna. En cell inom en kolumn skrivs i den hel, också när
-   texten sticker ut över linjen.
+   texten sticker ut över linjen. (Ändrat i ADR-0029 för text utan
+   siffror i tabellens första rad.)
 6. **Granskningen (fas 6)** hittade två sätt att få tal i fel rad: tre
    rader i en ruta där två saknade ett värde var, så att talen ur olika
    rader hamnade i samma rad, och en etikett strax under sina tal. Det

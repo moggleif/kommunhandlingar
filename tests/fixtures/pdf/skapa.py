@@ -181,9 +181,8 @@ def kurvor(c: Canvas) -> None:
 
 
 def linjer_runt_tva_priser(c: Canvas) -> None:
-    """Ingen linje mellan de två priserna, och enheten gör raden till text.
-    Raderna ovanför läses som tabell utan lodräta linjer och täcker rutans
-    mitt, men inte priserna."""
+    """Ingen linje mellan de två priserna, som står i linje rad efter rad
+    och delas efter talen (ADR-0029)."""
     rader = [("Frukost", "50", "60"), ("Kaffe", "20", "25"), ("Te", "15", "20")]
     rader += [("Fika", "30", "35")]
     rader += [("Lunch", "1 200 kr", "1 300 kr"), ("Middag", "800 kr", "850 kr")]
