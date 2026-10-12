@@ -65,7 +65,7 @@ när rubriken tas med. Reglerna står i
 `konvertering/olinjerade.py`, `rader.py`, `rubriker.py` och
 `mellanrader.py`.
 
-Poolens version höjs till 0.8.5. Poolen rättas när den konverteras om
+Poolens version höjs till 0.8.6. Poolen rättas när den konverteras om
 ([#84](https://github.com/moggleif/kommunhandlingar/issues/84)).
 
 ### Consequences

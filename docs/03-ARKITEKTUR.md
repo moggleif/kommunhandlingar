@@ -926,8 +926,9 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
 
 - **Texten** är textlagret med bevarad uppställning (pdfplumber,
   `layout=True`). Raderna skrivs utan indrag, men mellanrummen inne i
-  raden står kvar, så att två tal i följd inte flyter ihop. Flera tomma
-  rader blir en. Raderna är mjuka radbrytningar, så de flyter ihop till
+  raden står kvar, så att två tal i följd inte flyter ihop. U+FEFF tas
+  bort, så att en rad med bara det blir tom, och flera tomma rader blir
+  en. Raderna är mjuka radbrytningar, så de flyter ihop till
   ett stycke när texten visas, liksom mellanrummen; uppställningen finns
   i råfilen.
 - **Escapningen** gör att texten visas som den stod. Bara det som annars

@@ -1,10 +1,12 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0005. Test: tests/test_konvertering.py.
+"""Krav: K4 och K5 i docs/02-KRAV.md, ADR-0005 och ADR-0021.
+Test: tests/test_konvertering.py och tests/test_markdown.py.
 
 Sidans text ur textlagret med bevarad uppställning. Minst tre talrader i
 följd, där bara tomma rader får stå emellan, blir ett kodblock märkt
 `osaker-tabell` med uppställningen kvar. Övriga rader skrivs utan indrag
 men med mellanrummen kvar, så att tal i följd inte flyter ihop, och
-escapas som Markdown (ADR-0021).
+escapas som Markdown (ADR-0021). U+FEFF tas bort, så att en rad med bara
+det blir tom och inte en rad med blanksteg.
 """
 
 import re
@@ -24,7 +26,7 @@ def ar_talrad(rad: str) -> bool:
 
 
 def stycken(text: str) -> tuple[str, bool]:
-    rader = [rad.rstrip() for rad in text.splitlines()]
+    rader = [rad.replace("\ufeff", "").rstrip() for rad in text.splitlines()]
     delar: list[str] = []
     osaker, i = False, 0
     while i < len(rader):
