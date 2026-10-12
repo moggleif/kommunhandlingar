@@ -121,6 +121,12 @@ kunna läggas till utan kodändring.
   som rader med flera tal står den i Markdown märkt som osäker tabell.
   En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
   behåller sin OCR-märkning.
+- **Givet** en tabell med linjer där linjerna bara ramar in en del av
+  tabellen, så att etiketterna eller en kolumn står utanför dem
+  (issue [#90](https://github.com/moggleif/kommunhandlingar/issues/90))
+- **Så** blir delen ingen CSV med tal utan etiketter, utan tabellen
+  prövas som en tabell utan lodräta linjer, och blir den ingen tabell
+  märks sidan `tabell-osaker`.
 - **Givet** minst tre rader utanför de tabeller som lästs säkert, var och
   en med minst två tal som inte är årtal, där en rad står i linje med
   minst två av de andra, till exempel en tabell i en spalt bredvid löptext

@@ -15,7 +15,7 @@ from pdfplumber.page import Page
 from kommunhandlingar.konvertering.falt import Falt, falt, radvis
 from kommunhandlingar.konvertering.ombrutna import ombruten
 from kommunhandlingar.konvertering.tabeller import inom, mitt
-from kommunhandlingar.konvertering.text import MINSTA_FOLJD, TAL
+from kommunhandlingar.konvertering.text import ARTAL, MINSTA_FOLJD, TAL
 
 I_LINJE = 2
 RADMELLANRUM = 3
@@ -56,6 +56,11 @@ def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
 
 def ar_tal(f: Falt) -> bool:
     return TAL.fullmatch(f.text) is not None
+
+
+def ar_varde(f: Falt) -> bool:
+    """Ett tal som inte är ett årtal, som i en rubrikrad."""
+    return ar_tal(f) and not ARTAL.fullmatch(f.text)
 
 
 def uppdela(falt_: list[Falt] | None) -> tuple[Falt, list[Falt]] | None:
