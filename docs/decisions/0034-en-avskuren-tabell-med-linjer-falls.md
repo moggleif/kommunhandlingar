@@ -76,6 +76,8 @@ Poolens version höjs till 0.8.4. Poolen rättas när den konverteras om
 * Dåligt, eftersom talen i en tabell utan lodräta linjer bredvid
   tabellen fäller den: den tabellen läses först efteråt. I stickprovet
   förekom det inte.
+* Dåligt, eftersom en tabell där bara etiketterna står utanför linjerna
+  inte fälls: då blir talen en CSV utan etiketter, som förut.
 
 ### Confirmation
 
@@ -116,9 +118,14 @@ Facit ska inte bli sämre.
    och `2 000 kr` i löptexten. Därför räknas bara fält som är ett tal,
    inte ett tal i en mening.
 3. **Stickprovet** gav sedan två tabeller till utöver #90. Båda lästes
-   för hand: en tabell med svaren Ja, Delvis och Nej, där frågornas
-   nummer och den sista kolumnen stod utanför, och en tabell med två
+   för hand: en tabell med svaren Ja, Delvis och Nej, där frågorna och
+   den sista kolumnen, Ej tillämplig, stod utanför, och en tabell med två
    kolumner där den tredje stod utanför.
+4. **Granskningen** visade att en tabell där bara etiketterna står
+   utanför linjerna inte fälls. AI-agenten valde att låta kravet gälla
+   tal utanför, eftersom text bredvid en tabell oftast är löptext, och
+   att räkna en fälld tabell som upptagen, så att dess tal inte fäller
+   en grannetabell.
 
 Ompröva beslutet om facit eller poolen visar en tabell som fälls i
 onödan. Alternativ B är värt att mäta om sådana tabeller är vanliga.

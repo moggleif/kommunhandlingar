@@ -582,13 +582,14 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   En tabell är avskuren, och fälls, när ett fält som är ett tal men inte
   ett årtal (1900–2099) står utanför den på samma höjd, med radens
   mittpunkt mellan tabellens över- och underkant, och inte i en annan
-  tabell med linjer
+  tabell med linjer, också en som fällts
   ([ADR-0034](decisions/0034-en-avskuren-tabell-med-linjer-falls.md)).
   Orden utanför delas i fält som i
-  [Tabeller utan lodräta linjer](#tabeller-utan-lodräta-linjer), med ett
-  tvetydigt mellanrum räknat som en gräns, så att ett tal i en mening
-  inte räknas. Så fälls en tabell vars linjer bara ramar in talen i
-  några kolumner, medan etiketterna och den sista kolumnen står utanför.
+  [Tabeller utan lodräta linjer](#tabeller-utan-lodräta-linjer), så att
+  ett tal i en mening inte räknas, med ett tvetydigt mellanrum räknat som
+  en gräns. Så fälls en tabell vars linjer bara ramar in talen i några
+  kolumner, medan etiketterna och den sista kolumnen står utanför. Står
+  bara etiketterna utanför fälls den inte.
   En avskuren tabell delas inte, utan prövas som en tabell utan lodräta
   linjer, och dess siffror utanför de tabeller som lästs märker sidan
   `tabell-osaker`.

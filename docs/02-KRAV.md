@@ -122,7 +122,7 @@ kunna läggas till utan kodändring.
   En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
   behåller sin OCR-märkning.
 - **Givet** en tabell med linjer där linjerna bara ramar in en del av
-  tabellen, så att etiketterna eller en kolumn står utanför dem
+  tabellen, så att tal i den står utanför dem på samma höjd
   (issue [#90](https://github.com/moggleif/kommunhandlingar/issues/90))
 - **Så** blir delen ingen CSV med tal utan etiketter, utan tabellen
   prövas som en tabell utan lodräta linjer, och blir den ingen tabell

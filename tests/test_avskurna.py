@@ -49,6 +49,9 @@ class TestAvskuren(unittest.TestCase):
     def test_artal_raknas_inte(self):
         self.assertFalse(avskuren(RUTA, [ord_("2025", 320)], [RUTA]))
 
+    def test_etiketter_utanfor_raknas_inte(self):
+        self.assertFalse(avskuren(RUTA, [ord_("Starka", 20)], [RUTA]))
+
     def test_tal_i_en_annan_tabell_raknas_inte(self):
         bredvid = (310, 100, 400, 160)
         self.assertFalse(avskuren(RUTA, [ord_("8", 320)], [RUTA, bredvid]))

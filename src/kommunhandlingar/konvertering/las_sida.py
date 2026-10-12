@@ -106,7 +106,8 @@ def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
         if delad is not None:
             hittade.append((t.bbox, *delad))
     rutor = [ruta for ruta, _, _ in hittade]
-    avskurna = [ruta for ruta in rutor if avskuren(ruta, ord_, rutor)]
+    upptagna = rutor + [t.bbox for t in fallda]
+    avskurna = [ruta for ruta in rutor if avskuren(ruta, ord_, upptagna)]
     hela = [t for t in hittade if t[0] not in avskurna]
     return hela, [t.bbox for t in fallda] + avskurna
 
