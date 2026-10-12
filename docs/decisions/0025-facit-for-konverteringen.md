@@ -1,6 +1,6 @@
 ---
-status: proposed
-date: 2026-10-11
+status: accepted
+date: 2026-10-12
 decision-makers: projektägaren
 consulted: AI-agenten
 ---
@@ -112,8 +112,8 @@ tal och tabeller.
 `tests/test_facit.py` prövar reglerna på påhittade sidor, att facit hänger
 ihop, att utdragens textlager inte har något som maskas, och att måtten för den
 installerade versionen står i `matt.csv`. Den skannade sidan har inget
-textlager; AI-agenten har läst den mot sidbilden. Projektägarens stickprov
-redovisas i pull requesten.
+textlager; AI-agenten har läst den mot sidbilden. Projektägaren gjorde
+stickprovet 2026-10-12.
 
 ## Pros and Cons of the Options
 
@@ -185,3 +185,5 @@ Diskussionen i tråden för #61, 2026-10-11:
    att ett tal som delats av ett mellanrum eller slagits ihop med ett annat
    syns. Ett tecken framför ett tal i texten jämförs inte; tecknen i
    tabellerna jämförs med raderna.
+6. **Beslutet.** Projektägaren gjorde stickprovet och godkände ADR:en
+   2026-10-12.
