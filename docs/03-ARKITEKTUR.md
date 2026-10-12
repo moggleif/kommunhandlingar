@@ -629,8 +629,7 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   Raderna tas ur sidans ord utanför de säkra tabellerna, som i
   [Tabeller utan lodräta linjer](#tabeller-utan-lodräta-linjer), med ett
   tvetydigt mellanrum räknat som en fältgräns. En rad räknas när minst
-  två av dess fält är tal som inte är fyrsiffriga heltal, alltså inte år
-  eller koder. Två rader står i linje när minst två av den enas tal har
+  två av dess fält är tal som inte är årtal (1900–2099). Två rader står i linje när minst två av den enas tal har
   högerkanten högst 2 punkter från ett tal i den andra. Står en rad i
   linje med minst två andra blir sidan `tabell-osaker`. Så märks en
   tabell i en spalt bredvid löptext, vars rader delar textrad med

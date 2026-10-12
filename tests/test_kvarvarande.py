@@ -11,7 +11,7 @@ from types import SimpleNamespace
 
 import pdfplumber
 
-from kommunhandlingar.konvertering.kvarvarande import finns
+from kommunhandlingar.konvertering.kvarvarande import har_talrader
 from kommunhandlingar.konvertering.las_sida import textsida
 
 HOJD = 10
@@ -39,25 +39,38 @@ NETTO = rad(140, "Netto", ("-2,0", 300), ("-13,3", 350))
 
 class TestKvarvarande(unittest.TestCase):
     def test_tre_talrader_i_linje_finns(self):
-        self.assertTrue(finns(sida(INKOMSTER, UTGIFTER, NETTO), []))
+        self.assertTrue(har_talrader(sida(INKOMSTER, UTGIFTER, NETTO), []))
 
     def test_tva_talrader_racker_inte(self):
-        self.assertFalse(finns(sida(INKOMSTER, UTGIFTER), []))
+        self.assertFalse(har_talrader(sida(INKOMSTER, UTGIFTER), []))
 
     def test_rader_i_en_last_tabell_raknas_inte(self):
-        self.assertFalse(finns(sida(INKOMSTER, UTGIFTER, NETTO), [(0, 90, 400, 160)]))
+        self.assertFalse(
+            har_talrader(sida(INKOMSTER, UTGIFTER, NETTO), [(0, 90, 400, 160)])
+        )
 
     def test_tal_som_inte_star_i_linje_raknas_inte(self):
         forskjuten = rad(140, "Netto", ("-2,0", 280), ("-13,3", 330))
-        self.assertFalse(finns(sida(INKOMSTER, UTGIFTER, forskjuten), []))
+        self.assertFalse(har_talrader(sida(INKOMSTER, UTGIFTER, forskjuten), []))
 
-    def test_ar_ar_inga_varden(self):
+    def test_artal_ar_inga_varden(self):
         ar = [rad(100 + 20 * i, "År", ("2024", 300), ("2025", 350)) for i in range(3)]
-        self.assertFalse(finns(sida(*ar), []))
+        self.assertFalse(har_talrader(sida(*ar), []))
+
+    def test_fyrsiffriga_belopp_ar_varden(self):
+        belopp = [
+            rad(100 + 20 * i, "Post", ("1250", 300), ("2300", 350)) for i in range(3)
+        ]
+        self.assertTrue(har_talrader(sida(*belopp), []))
+
+    def test_tvetydigt_mellanrum_skiljer_falten(self):
+        """7 punkter mellan talen är varken samma fält eller ett nytt."""
+        tata = [rad(100 + 20 * i, "Post", ("1,5", 300), ("2,5", 322)) for i in range(3)]
+        self.assertTrue(har_talrader(sida(*tata), []))
 
 
 class TestSidan(unittest.TestCase):
-    def test_tabell_i_spalt_bredvid_lopttext_marker_sidan(self):
+    def test_tabell_i_spalt_bredvid_loptext_marker_sidan(self):
         """Tabellen Avfall & Återvinning i årsredovisningen (#92)."""
         with pdfplumber.open(FACIT / "arsredovisning-2025" / "utdrag.pdf") as pdf:
             self.assertEqual(textsida(pdf.pages[3]).kvalitet, "tabell-osaker")

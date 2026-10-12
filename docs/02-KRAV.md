@@ -122,8 +122,8 @@ kunna läggas till utan kodändring.
   En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
   behåller sin OCR-märkning.
 - **Givet** minst tre rader utanför de tabeller som lästs säkert, var och
-  en med minst två tal som inte är årtal, och talen i linje i minst två
-  kolumner, till exempel en tabell i en spalt bredvid löptext
+  en med minst två tal som inte är årtal, där en rad står i linje med
+  minst två av de andra, till exempel en tabell i en spalt bredvid löptext
   (issue [#92](https://github.com/moggleif/kommunhandlingar/issues/92))
 - **Så** märks sidan `tabell-osaker`, också när raderna inte står som en
   osäker tabell i texten.

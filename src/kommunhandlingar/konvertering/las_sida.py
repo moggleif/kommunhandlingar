@@ -1,6 +1,7 @@
 """Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
 ADR-0017, ADR-0022, ADR-0024, ADR-0028 och ADR-0033. Test: tests/test_konvertering.py,
-tests/test_maska_poolen.py, tests/test_skarvar.py och tests/test_delade.py.
+tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py och
+tests/test_kvarvarande.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
@@ -77,12 +78,8 @@ def textsida(sida: Page) -> Sida:
     utan_linjer = olinjerade.tabeller(sida, rutor)
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
-    text, osaker = stycken(utanfor.extract_text(layout=True))
-    osaker = (
-        osaker
-        or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
-        or kvarvarande.finns(sida, rutor)
-    )
+    text, i_texten = stycken(utanfor.extract_text(layout=True))
+    osaker = i_texten or osakra_tal(sida, fallda, rutor)
     hittade += [(t.bbox, t.rader, t.kanter) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
@@ -106,6 +103,13 @@ def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
         if delad is not None:
             hittade.append((t.bbox, *delad))
     return hittade, [t.bbox for t in fallda]
+
+
+def osakra_tal(sida: Page, fallda: list[tuple], rutor: list[tuple]) -> bool:
+    """En siffra ur en fälld tabell med linjer, eller talrader i linje,
+    utanför de tabeller som lästs."""
+    siffror = any(olast_siffra(c, fallda, rutor) for c in sida.chars)
+    return siffror or kvarvarande.har_talrader(sida, rutor)
 
 
 def olast_siffra(tecken: dict, fallda: list[tuple], rutor: list[tuple]) -> bool:
