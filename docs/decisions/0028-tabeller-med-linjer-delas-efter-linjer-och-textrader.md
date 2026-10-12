@@ -61,7 +61,8 @@ I korthet:
 
 * **Kolumnerna** är varje cells kanter i hela tabellen. En rad utan
   lodräta linjer delas efter dem, fält för fält, och ett fält som går
-  över en gräns fäller tabellen.
+  över en gräns fäller tabellen. (Ändrat i ADR-0029 för text utan
+  siffror i tabellens första rad.)
 * **En sammanslagen cell** med ett tal delas bara när den går över
   hela tabellens bredd, eller får text i varje kolumn den täcker och
   bara har tal, eller står i första raden med ett tal i varje
@@ -199,7 +200,8 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
    ADR-0016. En löptext har vanliga mellanslag och blir ett fält, som
    går över en gräns och fäller tabellen, i stället för att delas ord för
    ord i kolumnerna. En cell inom en kolumn skrivs i den hel, också när
-   texten sticker ut över linjen.
+   texten sticker ut över linjen. (Ändrat i ADR-0029 för text utan
+   siffror i tabellens första rad.)
 6. **Granskningen (fas 6)** hittade två sätt att få tal i fel rad: tre
    rader i en ruta där två saknade ett värde var, så att talen ur olika
    rader hamnade i samma rad, och en etikett strax under sina tal. Det

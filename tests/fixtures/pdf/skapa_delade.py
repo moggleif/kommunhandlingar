@@ -1,4 +1,4 @@
-"""Krav: K5, ADR-0028. Skapar `delade.pdf` för tests/test_delade.py.
+"""Krav: K5, ADR-0028 och ADR-0029. Skapar `delade.pdf` för tests/test_delade.py.
 
 Körs för hand med reportlab, som inte är projektets beroende:
 `python tests/fixtures/pdf/skapa_delade.py`. Varje sida är en tabell med
@@ -9,7 +9,7 @@ linjer där en cell rymmer mer än ett tal.
 3. Rubrik och värde i samma ruta, etiketten på värdets höjd.
 4. Två tal i rutan men etiketten står mitt emellan: förblir osäker.
 5. Rubrikraden saknar lodräta linjer, och rubrikens etikett går över
-   linjen under: delas inte.
+   linjen under: står i den första kolumnen (ADR-0029).
 6. Rubrikraden saknar lodräta linjer, och en rad har ett enda tal i en
    cell över två kolumner: delas inte.
 7. Som sida 2, men ett tal står med sista siffran över linjen, som

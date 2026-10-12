@@ -98,8 +98,8 @@ kunna läggas till utan kodändring.
   samma höjd i varje cell, eller därför att tal står i linje rad efter
   rad utan lodrät linje emellan
   ([#95](https://github.com/moggleif/kommunhandlingar/issues/95))
-- **Så** delas den efter linjerna i de andra raderna och efter textraderna
-  (issue [#60](https://github.com/moggleif/kommunhandlingar/issues/60)),
+- **Så** delas den efter linjerna i de andra raderna, efter talen i
+  linje och efter textraderna (issue [#60](https://github.com/moggleif/kommunhandlingar/issues/60)),
   och blir CSV med varje tal i en egen cell. En rubrik och ett värde i
   samma cell blir en rubrikrad och en värderad.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal och

@@ -692,7 +692,8 @@ blir en säker tabell bara när varje steg går ihop:
    kolumn), och högst ett tal per textrad. Gränsen läggs mitt i
    mellanrummet mellan två grupper, och före den första gruppen när
    text står till vänster om den. Tabellens första kolumn med text ska
-   ha en etikett utan siffror, och står gränserna i den kolumnen ska
+   ha etiketter utan siffror på minst två textrader, så att en ensam
+   rubrik inte räcker, och står gränserna i den kolumnen ska
    etiketterna stå till vänster om talen; annars står etiketterna
    utanför tabellen och inga gränser läggs.
 2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
@@ -701,9 +702,9 @@ blir en säker tabell bara när varje steg går ihop:
    lodräta linjer och ett tvetydigt mellanrum räknat som en gräns. Varje
    fält ska ligga inom en kolumn. Ett fält utan siffror som går över en
    kolumngräns, som en etikett som är längre än sin kolumn eller en
-   rubrik över två kolumner, skrivs i den första kolumn det täcker; ett
-   fält med siffror som gör det gör att tabellen inte delas. En sådan
-   cell delas bara när
+   rubrik över två kolumner, skrivs i den första kolumn det täcker, men
+   bara i tabellens första rad; ett fält med siffror som gör det gör att
+   tabellen inte delas. En sådan cell delas bara när
    - den saknar tal, alltså siffror och streck som står för ett tal,
    - den går över hela tabellens bredd, eller
    - den får text i varje kolumn den täcker, och varje textrad i den,
@@ -721,17 +722,18 @@ blir en säker tabell bara när varje steg går ihop:
    dem rymmer mer än ett tal. Det som står ovanför prövas på samma sätt.
    När inget i det rymmer mer än ett tal blir det en rad, om varje
    textrad med ett tal står på samma höjd och varje cell som inte är
-   tom har en textrad på den höjden, eller textrader både ovanför och
-   under den, som en etikett som bryts runt sina tal; text utan tal kan
-   stå på olika höjder. Ett tal är här en siffra, eller ett streck som står för ett
+   tom har en textrad på den höjden, eller en textrad ovanför och en
+   under med höjden mitt emellan dem (högst 3 punkter ifrån), som en
+   etikett som bryts runt sina tal; text utan tal kan stå på olika
+   höjder. Ett tal är här en siffra, eller ett streck som står för ett
    tal. Så blir `4 078⏎4 054` två rader, och `Bokslut 2025⏎-1,3` med
    etiketten på värdets höjd en rubrikrad och en värderad.
 4. **En rad utan flera tal i en cell** står som den är, med cellens
    textrader åtskilda av radbrytningar. Har den en cell som delats i
    steg 2 ska den uppfylla samma krav på höjd som ovan. Undantaget är
-   tabellens första rad när dess första kolumn har högst en textrad:
-   den antas vara en rubrik, vars rader kan stå på olika höjder, som
-   `Prognos⏎2024` bredvid `2023`.
+   tabellens första rad när dess första kolumn med text har högst en
+   textrad: den antas vara en rubrik, vars rader kan stå på olika
+   höjder, som `Prognos⏎2024` bredvid `2023`.
 
 En etikett som står på en annan höjd än sina tal, tal ur olika rader
 som skulle hamna på samma rad, två tal på samma textrad i en kolumn,

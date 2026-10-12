@@ -51,18 +51,28 @@ blir tvetydig. Reglerna står i
   varje mellanrum, och före den första gruppen när text står till
   vänster. Talen behöver inte stå med högerkanten i linje, som i
   ADR-0016, eftersom talen i personaltabellerna är centrerade.
-* **Etiketterna ska finnas:** tabellens första kolumn med text ska ha en
-  etikett utan siffror. En tabell med linjer runt bara talen, där
-  etiketterna står utanför, får inga gränser, eftersom raderna då skulle
-  bli tal utan etikett.
+* **Etiketterna ska finnas:** tabellens första kolumn med text ska ha
+  etiketter utan siffror på minst två textrader. En tabell med linjer
+  runt bara talen, där etiketterna står utanför, får inga gränser,
+  eftersom raderna då skulle bli tal utan etikett, och en ensam rubrik
+  som `Utfall` räcker inte som etiketter.
 * **Text över en gräns:** ett fält utan siffror som går över en
-  kolumngräns skrivs i den första kolumn det täcker. Ett fält med siffror
-  som gör det fäller tabellen som förut.
+  kolumngräns skrivs i den första kolumn det täcker, men bara i
+  tabellens första rad, där rubrikerna står. Längre ner kan det vara ett
+  värde, som `Uppgift saknas` över två år, och då fäller det tabellen
+  som förut. Ett fält med siffror som går över en gräns fäller tabellen
+  i alla rader.
 * **Textraderna i en sammanslagen cell** prövas var för sig: bara tal,
   bara text, eller en rubrik med siffror men utan fält som bara är ett
   tal. En rad som blandar en etikett och ett tal fäller tabellen.
-* **En etikett som bryts runt sina tal:** en cell som har textrader både
-  ovanför och under talens höjd räknas som att den står på den höjden.
+* **En etikett som bryts runt sina tal:** en cell med en textrad
+  ovanför och en under talen räknas som att den står på talens höjd, när
+  talen står mitt emellan dem (högst 3 punkter ifrån). Står talen strax
+  under den övre, hör de till den, och den undre är en rad som saknar
+  värden.
+* **Första raden** prövas inte på höjd när den första kolumnen med text
+  har högst en textrad, som i ADR-0028. Med en smal, tom första ruta,
+  som i personaltabellerna, är det den andra kolumnen som prövas.
 
 Poolens version höjs till 0.8.0. Poolen rättas när den konverteras om
 ([#84](https://github.com/moggleif/kommunhandlingar/issues/84)).
@@ -83,16 +93,21 @@ Poolens version höjs till 0.8.0. Poolen rättas när den konverteras om
 * Dåligt, eftersom tal som står tätt, med ett tvetydigt mellanrum, som
   `175 173 183 671`, inte går att skilja från tusental och fäller
   tabellen som förut.
-* Neutralt, eftersom en bildtext eller tabellrubrik över hela bredden,
-  som `Gjorda konsekvensbedömningar …`, hamnar i den första kolumnen
-  tillsammans med den kolumnens rubrik.
+* Dåligt, eftersom en textruta med en rubrik över hela bredden och en
+  lista per år under, som `Gjorda konsekvensbedömningar …` med
+  `2021 | 2022 | 2023`, blir CSV, fast ADR-0028 sa att textrutorna ska
+  förbli osäkra. Rubriken hamnar i den första kolumnen tillsammans med
+  den kolumnens rubrik, och listorna står i var sitt års kolumn, så
+  varje ord står där det står i rutan.
 
 ### Confirmation
 
-`tests/test_talkolumner.py` prövar gränserna, och `tests/test_delade.py`
-och `tests/test_delade_kolumner.py` prövar sidorna 8 och 9 i
-`tests/fixtures/pdf/delade.pdf`, texten över en gräns, textraderna i en
-sammanslagen cell och etiketten runt sitt tal. Facit
+`tests/test_talkolumner.py` prövar gränserna och kravet på etiketter,
+`tests/test_delade.py` prövar sidorna 5, 8 och 9 i
+`tests/fixtures/pdf/delade.pdf`, `tests/test_sammanslagna.py` texten
+över en gräns och textraderna i en sammanslagen cell, och
+`tests/test_delade_rader.py` etiketten runt sitt tal och undantaget för
+första raden. Facit
 ([ADR-0025](0025-facit-for-konverteringen.md)) ska inte bli sämre.
 
 ## Pros and Cons of the Options
@@ -132,6 +147,14 @@ sammanslagen cell och etiketten runt sitt tal. Facit
 4. **Rubriken över två kolumner** (öppen fråga i issuet) skrivs i den
    första kolumnen, eftersom det är det enklaste som inte gissar vilka
    kolumner den gäller.
+5. **Granskningen (fas 6)** hittade tre sätt att få tal i fel rad eller
+   utan etikett: tal strax under en etikett med en etikett utan värden
+   under, en smal tom första ruta som gjorde att undantaget för första
+   raden alltid gällde, och en ensam rubrik som räknades som etiketter.
+   Därför krävs talen mitt emellan, den första kolumnen med text och
+   etiketter på två textrader. Den hittade också att `Uppgift saknas`
+   över två år i en datarad skrevs i den första av dem; därför gäller
+   regeln för text över en gräns bara i första raden.
 
 ### Mätningen
 

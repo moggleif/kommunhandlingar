@@ -100,6 +100,10 @@ def talfalt(text: str) -> bool:
     return TALRAD.fullmatch(FOTNOT.sub("", text)) is not None
 
 
+def siffra(text: str) -> bool:
+    return any(c.isdigit() for c in text)
+
+
 def mitt(objekt: dict) -> tuple[float, float]:
     return ((objekt["x0"] + objekt["x1"]) / 2, (objekt["top"] + objekt["bottom"]) / 2)
 

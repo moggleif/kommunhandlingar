@@ -37,7 +37,12 @@ class TestGranser(unittest.TestCase):
         self.assertEqual(granser([rader]), [])
 
     def test_utan_rad_med_tva_tal_ges_ingen_grans(self):
-        rader = [talrad("Heltid", "94,3 %"), talrad("Män", "98,6 %")]
+        rader = [
+            talrad("Heltid", "94,3 %"),
+            [Falt("Män", 0, 30), Falt("98,6 %", 190, 220)],
+            talrad("Deltid", "5,7 %"),
+            [Falt("Kvinnor", 0, 30), Falt("1,4 %", 190, 220)],
+        ]
         self.assertEqual(granser([rader]), [])
 
     def test_tva_tal_i_samma_grupp_ger_ingen_grans(self):
@@ -67,6 +72,33 @@ class TestGranser(unittest.TestCase):
             [Falt("13,0", 0, 30), Falt("98,6", 110, 140), Falt("99,2", 190, 220)],
         ]
         self.assertEqual(granser([rader]), [])
+
+    def test_en_rubrik_ar_inga_etiketter(self):
+        utfall = [[Falt("Utfall", 0, 30)], [Falt("12,0", 0, 30)], [Falt("13,0", 0, 30)]]
+        ovriga = [
+            [Falt("Budget", 110, 140), Falt("Prognos", 190, 220)],
+            [Falt("94,3", 110, 140), Falt("96,9", 190, 220)],
+            [Falt("98,6", 110, 140), Falt("99,2", 190, 220)],
+        ]
+        self.assertEqual(granser([utfall, ovriga]), [])
+
+    def test_etiketter_som_inte_star_fore_talen_ger_ingen_grans(self):
+        rader = [
+            [Falt("Heltid", 200, 240)],
+            [Falt("Deltid", 200, 240)],
+            [Falt("94,3", 0, 30), Falt("96,9", 60, 90)],
+            [Falt("98,6", 0, 30), Falt("99,2", 60, 90)],
+        ]
+        self.assertEqual(granser([rader]), [])
+
+    def test_etikett_med_siffra_fore_talen_ar_ingen_kolumn(self):
+        rader = [
+            RUBRIK,
+            talrad("Heltid", "94,3 %", "96,9 %"),
+            talrad("Klass 1", "98,6 %", "99,2 %"),
+            talrad("Män", "97,0 %", "98,1 %"),
+        ]
+        self.assertEqual(granser([rader]), [70, 160])
 
     def test_etiketterna_i_en_egen_kolumn_raknas(self):
         etiketter = [[Falt("Heltid", 0, 50)], [Falt("Män", 0, 30)]]
