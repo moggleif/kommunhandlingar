@@ -7,7 +7,6 @@ sammanträde, och en lista med en tabell per månad.
 import calendar
 from collections import defaultdict
 from html import escape
-from urllib.parse import urlparse
 
 from kommunhandlingar.webbplats.kalender import Sammantrade
 
@@ -117,12 +116,3 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
 
 def datumtext(s: Sammantrade) -> str:
     return f"{VECKODAGAR[s.datum.weekday()]} {s.datum.isoformat()}"
-
-
-def kallank(kalla: str) -> str:
-    if kalla.startswith("https://"):
-        return f'<a href="{escape(kalla)}">{escape(urlparse(kalla).netloc)}</a>'
-    organ, _, datum, fil = kalla.split("/", 3)
-    adress = kalla.removesuffix(".md") + ".html"
-    text = f"{organ.upper()} {datum}, {fil.split('-')[0].removesuffix('.md')}"
-    return f'<a href="{escape(adress)}">{escape(text)}</a>'

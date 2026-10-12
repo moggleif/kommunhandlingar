@@ -146,13 +146,19 @@ class TestSidan(unittest.TestCase):
 
     def test_kallorna_per_organ_och_ar_under_kvalitet(self):
         kvalitet = self.html.split('<details id="kvalitet">')[1].split("</details>")[0]
-        kallor = kvalitet.split("<h2>Källor</h2>")[1]
+        kallor = kvalitet.split('<h2 id="kallor">Källor</h2>')[1]
         self.assertIn('<th scope="col">2026</th><th scope="col">2027</th>', kallor)
         self.assertIn(
             '<td><a href="https://exempelby.se/bun">exempelby.se</a></td><td></td>',
             kallor,
         )
         self.assertEqual(kallor.count("protokoll.html"), 2)
+        self.assertIn('<th scope="row">Arbetsutskottet</th>', kallor)
+
+    def test_samma_kalla_en_gang_per_organ_och_ar(self):
+        with pool(RADER + f"fsn,2027-02-11,,,{PROTOKOLL},\n") as sammantraden:
+            html = kalendersida(Mall([kommun()], REPO, TID), kommun(), sammantraden)
+        self.assertEqual(html.split('id="kallor"')[1].count("protokoll.html"), 2)
         lista = self.html.split("<h2>Lista</h2>")[1].split("<script>")[0]
         self.assertNotIn("<a href", lista.replace('<a href="#osakra"', ""))
 
