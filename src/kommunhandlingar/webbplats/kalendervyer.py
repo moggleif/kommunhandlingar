@@ -98,9 +98,13 @@ def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
 
 
 def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
-    osakert = f"<br>Osäkert: {escape(s.osakert)}" if s.osakert else ""
+    osakert = (
+        f'<br><a href="#osakra" title="{escape(s.osakert)}">osäkert</a>'
+        if s.osakert
+        else ""
+    )
     celler = [
-        f"{VECKODAGAR[s.datum.weekday()]} {s.datum.isoformat()}{osakert}",
+        datumtext(s) + osakert,
         f'<span class="ruta o-{s.organ}">{s.organ.upper()}</span> '
         + escape(namn[s.organ]),
         escape(s.tid),
@@ -112,6 +116,10 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
         + "".join(f"<td>{c}</td>" for c in celler)
         + "</tr>"
     )
+
+
+def datumtext(s: Sammantrade) -> str:
+    return f"{VECKODAGAR[s.datum.weekday()]} {s.datum.isoformat()}"
 
 
 def kallank(kalla: str) -> str:

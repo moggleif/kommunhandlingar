@@ -1261,17 +1261,22 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   (`<organ>/<år>/<datum>/<namn>.md`) eller ett datum på en lördag eller
   söndag inte är märkt osäkert. En kalenderfil utan kommunfil stoppar
   också bygget.
-- **Sidan** (`webbplats/kalendersida.py` och `kalendervyer.py`) har ett
+- **Sidan** (`webbplats/kalendersida.py` och `kalendervyer.py`) börjar
+  med en kort inledning och en hopfälld del, `<details>`, om kvaliteten:
+  antalet osäkra datum av alla i rubriken, hur datumen tas fram, och en
+  tabell med varje osäkert sammanträde, skälet och källan. Sedan kommer ett
   urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
   två vyer: en tabell per månad från den första till den sista, också
   månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
   rad per sammanträde: datum, organ, tid, plats och källa. Rutan har
   organets id med versaler och tiden; ett osäkert sammanträde har ett
-  frågetecken i rutan och skälet i listan.
+  frågetecken i rutan och i listan ordet "osäkert", som länkar till
+  tabellen över de osäkra och har skälet som `title`.
 - **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje
   grupp får en egen färgton jämnt fördelad runt färgcirkeln i kommunfilens
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
 - **Skriptet** står i sidan. Det visar en månad i taget med knappar
   bakåt och framåt, med början på innevarande månad, döljer sammanträden
   före dagens datum i listan och döljer organ som valts bort i båda
-  vyerna. Utan skriptet visas alla månader och alla sammanträden.
+  vyerna. Följs länken till de osäkra fäller skriptet ut delen om
+  kvaliteten. Utan skriptet visas alla månader och alla sammanträden.

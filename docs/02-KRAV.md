@@ -643,7 +643,12 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
   organets namn, tid och plats när källan anger dem, och källan som länk.
 - **Givet** ett sammanträde vars datum är osäkert inläst
 - **När** det visas
-- **Så** är det märkt som osäkert i text, med skälet i listan.
+- **Så** är det märkt som osäkert i text i båda vyerna.
+- **Givet** kalendersidan
+- **När** den visas
+- **Så** står överst en kort inledning och under den en hopfälld del om
+  kvaliteten: hur många datum som är osäkra av alla, hur datumen tagits
+  fram, och varje osäkert sammanträde med skäl och källa.
 - **Givet** en kalenderfil med ett organ som inte står i kommunfilen, ett
   datum som inte är ÅÅÅÅ-MM-DD eller inte finns, ett sammanträde två
   gånger, en källa som varken är en adress eller ett dokument i poolen,
