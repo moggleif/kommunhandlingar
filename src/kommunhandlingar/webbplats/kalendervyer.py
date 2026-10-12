@@ -98,7 +98,11 @@ def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
 
 
 def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
-    osakert = '<br><a href="#osakra">osäkert</a>' if s.osakert else ""
+    osakert = (
+        f'<br><a href="#osakra" title="{escape(s.osakert)}">osäkert</a>'
+        if s.osakert
+        else ""
+    )
     celler = [
         datumtext(s) + osakert,
         f'<span class="ruta o-{s.organ}">{s.organ.upper()}</span> '

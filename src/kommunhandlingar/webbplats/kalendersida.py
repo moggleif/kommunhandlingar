@@ -1,6 +1,7 @@
 """Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
 
-Kalendersidan: urvalet av organ, en tabell per månad och listan. Skriptet
+Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen, urvalet
+av organ, en tabell per månad och listan. Skriptet
 i `kalender.js` visar en månad i taget och döljer det som valts bort; utan
 det står allt på sidan.
 """
@@ -26,7 +27,7 @@ METOD = (
     "möten och planeringsdagar är inte med, och tid och plats står där källan "
     "anger dem. Ett datum är osäkert när källan är svår att läsa, eller när den "
     "anger en veckodag som datumet inte stämmer med. Ett osäkert datum har ett "
-    "frågetecken och streckad ram.</p>"
+    "frågetecken i månadsvyn och ordet osäkert i listan.</p>"
 )
 STIL = """
 [hidden] { display: none !important; }

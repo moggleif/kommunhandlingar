@@ -122,10 +122,16 @@ class TestSidan(unittest.TestCase):
     def test_osakert_markt_i_vyerna_och_skalet_under_kvalitet(self):
         self.assertIn("ruta o-bun osakert", self.html)
         self.assertIn(">BUN ?</span>", self.html)
-        self.assertIn('2026-12-05<br><a href="#osakra">osäkert</a>', self.html)
+        self.assertIn(
+            '2026-12-05<br><a href="#osakra" '
+            'title="Källan säger lördag &lt;5 dec&gt;.">osäkert</a>',
+            self.html,
+        )
         kvalitet = self.html.split('<details id="kvalitet">')[1].split("</details>")[0]
         self.assertIn("Kvalitet: 1 av 3 datum är osäkra", kvalitet)
         self.assertIn("<td>Källan säger lördag &lt;5 dec&gt;.</td>", kvalitet)
+        self.assertIn("Datumen är lästa ur", kvalitet)
+        self.assertIn(">ADR-0032</a>", kvalitet)
 
     def test_inga_osakra(self):
         with pool(f"fsn,2027-01-14,,,{PROTOKOLL},\n") as sammantraden:

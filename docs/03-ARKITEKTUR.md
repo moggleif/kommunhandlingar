@@ -1271,11 +1271,12 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   rad per sammanträde: datum, organ, tid, plats och källa. Rutan har
   organets id med versaler och tiden; ett osäkert sammanträde har ett
   frågetecken i rutan och i listan ordet "osäkert", som länkar till
-  tabellen över de osäkra.
+  tabellen över de osäkra och har skälet som `title`.
 - **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje
   grupp får en egen färgton jämnt fördelad runt färgcirkeln i kommunfilens
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
 - **Skriptet** står i sidan. Det visar en månad i taget med knappar
   bakåt och framåt, med början på innevarande månad, döljer sammanträden
   före dagens datum i listan och döljer organ som valts bort i båda
-  vyerna. Utan skriptet visas alla månader och alla sammanträden.
+  vyerna. Följs länken till de osäkra fäller skriptet ut delen om
+  kvaliteten. Utan skriptet visas alla månader och alla sammanträden.
