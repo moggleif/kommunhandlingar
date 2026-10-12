@@ -53,12 +53,15 @@ tabellen som förut. En etikettrad är en rad med ett enda fält med minst en
 bokstav. En följd går över högst två sådana när raderna närmast ovanför och
 under dem är tabellrader och alla står nära varandra. En etikettrad som
 börjar med liten bokstav fogas till etiketten ovanför med ett mellanslag,
-och en etikettrad ovanför en rad vars etikett börjar med liten bokstav är
-början på den etiketten; annars blir en etikettrad en rad med tomma celler. Blir följden över etikettraderna
-ingen tabell, prövas delarna mellan dem var för sig, som förut. En rad med
-bara årtal (1900–2099) börjar ingen följd utan kan bli tabellens
-rubrikrad, medan den fäller tabellen som förut när den står direkt under, och en eller två etikettrader mellan rubriken och tabellen tas
-med som avsnittsrubriker när rubriken tas med. Reglerna står i
+också under den sista raden, och en etikettrad ovanför en rad vars
+etikett börjar med liten bokstav är början på den etiketten. En etikett
+som slutar med kolon fogas inte. Annars blir en etikettrad en rad med
+tomma celler. Blir följden över etikettraderna ingen tabell, prövas
+delarna mellan dem var för sig, som förut. En rad med bara årtal
+(1900–2099) börjar ingen följd utan kan bli tabellens rubrikrad. Står den
+direkt under en tabell fäller den tabellen, som förut. En eller två
+etikettrader mellan rubriken och tabellen tas med som avsnittsrubriker
+när rubriken tas med. Reglerna står i
 `konvertering/olinjerade.py`, `rader.py`, `rubriker.py` och
 `mellanrader.py`.
 
@@ -75,10 +78,14 @@ Poolens version höjs till 0.8.5. Poolen rättas när den konverteras om
   2 000 sidor ur textlagret, ändrar tre sidor, och alla tre till det
   bättre: två tabeller som inte lästs blir CSV, och en tabell som delats
   vid en avsnittsrubrik blir hel. Stickprovet visade också en etikett i
-  två rader, `Antal⏎medarbetare per chef`, där talen står på den andra;
-  därför fogas också en etikettrad till raden under.
+  tre rader, `Antal⏎medarbetare per chef`, där talen står på den
+  mellersta; därför fogas också en etikettrad till raden under, och en
+  fortsättning under den sista raden till den.
 * Dåligt, eftersom en fortsättning som börjar med stor bokstav blir en
   avsnittsrubrik. Talen står ändå på rätt rad.
+* Dåligt, eftersom en kort rad löptext mellan två tabeller med samma
+  kolumner, som `Not 3`, inte går att skilja från en avsnittsrubrik: de
+  två tabellerna blir en. I stickprovet förekom det inte.
 * Dåligt, eftersom tre tabeller i årsredovisningen fortfarande är
   ofullständiga: en rubrikrad som står en bråkdel av en punkt för långt
   ovanför, en rubrik i två rader med avstavade ord och en etikett som
@@ -123,6 +130,12 @@ visar kommunbudgetens tabeller som rätta.
    sidor om etikettraderna, och en rad med bara årtal börjar ingen
    följd. Ett befintligt test visade att en rad med bara årtal under
    tabellen ska fälla den, så den får fortfarande avsluta en följd.
+3. **Granskningen** fann en etikett som kapades: `per enhetschef` stod
+   under den sista raden och föll bort, så att etiketten blev `Antal
+   medarbetare`. Fortsättningar under den sista raden hör nu till
+   tabellen. Granskningen fann också att `Varav:` fogades till raden
+   under, och att en kort rad löptext mellan två tabeller slår ihop dem;
+   det första rättades, det andra står som en nackdel.
 
 Ompröva beslutet om facit eller poolen visar två tabeller som slagits
 ihop över en avsnittsrubrik.

@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016 och ADR-0035. Test: tests/test_olinjerade.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0016 och ADR-0035. Test: tests/test_olinjerade.py och
+tests/test_mellanrader.py.
 
 Rubrikraderna ovanför en tabell utan lodräta linjer: kolumnrubrikerna och
 de avsnittsrubriker som står mellan dem och de första talen
@@ -27,10 +28,9 @@ def ovanfor(rader_: list[Rad], kolumner_: list, etiketternas_slut: float):
     ):
         n += 1
     huvud = huvudet(rader_[: len(rader_) - n], kolumner_, etiketternas_slut)
-    if n and huvud:
-        tomma = [""] * len(kolumner_)
-        return [[r.falt[0].text, *tomma] for r in rader_[-1 - n : -1]], huvud
-    return [], huvudet(rader_, kolumner_, etiketternas_slut)
+    tomma = [""] * len(kolumner_)
+    rubriker = [[r.falt[0].text, *tomma] for r in rader_[-1 - n : -1]]
+    return (rubriker if huvud else []), huvud
 
 
 def ensam_ovanfor(rader_: list[Rad], n: int, kolumner_: list) -> bool:

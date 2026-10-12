@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016 och ADR-0035. Test: tests/test_olinjerade.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0016 och ADR-0035. Test: tests/test_olinjerade.py och
+tests/test_mellanrader.py.
 
 Raderna i en tabell utan lodräta linjer: vilka som bär tal, vilka som bara
 är en etikett och vilka som står nära varandra
@@ -71,7 +72,22 @@ def artalsrad(r: Rad) -> bool:
 
 
 def etikettrad(r: Rad) -> bool:
-    return r.falt is not None and len(r.falt) == 1 and BOKSTAV.search(r.falt[0].text)
+    """En rad med bara en etikett, som en avsnittsrubrik."""
+    falt_ = r.falt
+    return falt_ is not None and len(falt_) == 1 and bool(BOKSTAV.search(falt_[0].text))
+
+
+def med_fortsattning(rader_: list[Rad], slut: int) -> int:
+    """Följdens slut efter de etikettrader med liten bokstav som står
+    direkt under den, där etiketten på den sista raden fortsätter."""
+    while slut < len(rader_) and fortsattning(rader_[slut - 1], rader_[slut]):
+        slut += 1
+    return slut
+
+
+def fortsattning(ovre: Rad, undre: Rad) -> bool:
+    liten = etikettrad(undre) and undre.falt[0].text[:1].islower()
+    return liten and nara(ovre, undre)
 
 
 def kolumn(f: Falt, kolumner_: list[tuple[float, float]]) -> int | None:

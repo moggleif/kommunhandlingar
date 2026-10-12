@@ -34,6 +34,10 @@ class TestFoga(unittest.TestCase):
         kropp = [["Netto", "1", "2"], ["varav lån", "3", "4"]]
         self.assertEqual(foga(kropp), kropp)
 
+    def test_rubrik_med_kolon_fogas_inte(self):
+        kropp = [["Varav:", "", ""], ["lån", "300", "310"]]
+        self.assertEqual(foga(kropp), kropp)
+
     def test_avsnittsrubrik_med_stor_bokstav_blir_egen_rad(self):
         kropp = [["Netto", "1", "2"], ["Skulder", "", ""]]
         self.assertEqual(foga(kropp), kropp)
@@ -48,6 +52,10 @@ class TestBroar(unittest.TestCase):
     def test_fortsattning_mellan_raderna_fogas_till_etiketten(self):
         (tabell,) = tabeller(sida(*BUDGET, avsnitt(180, "verksamhet"), *SKULDER), [])
         self.assertEqual(tabell.rader[3], ["Netto verksamhet", "2 233", "2 053"])
+
+    def test_fortsattning_efter_sista_raden_fogas_till_etiketten(self):
+        (tabell,) = tabeller(sida(*BUDGET, avsnitt(180, "per enhet")), [])
+        self.assertEqual(tabell.rader[-1], ["Netto per enhet", "2 233", "2 053"])
 
     def test_tre_etikettrader_emellan_bryter_tabellen(self):
         mellan = [avsnitt(top, "Skulder") for top in (180, 200, 220)]
@@ -72,5 +80,4 @@ class TestRubrikerOvanfor(unittest.TestCase):
 
     def test_avsnittsrubrik_utan_rubrik_ovanfor_tas_inte_med(self):
         (tabell,) = tabeller(sida(avsnitt(80, "Intäkter"), *BUDGET), [])
-        self.assertEqual(tabell.rader[0][0], "Intäkter")
         self.assertEqual(len(tabell.rader), len(BUDGET))

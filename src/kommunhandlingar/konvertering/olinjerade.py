@@ -1,5 +1,5 @@
-"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016 och ADR-0024.
-Test: tests/test_olinjerade.py och tests/test_skarvar.py.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016, ADR-0024 och ADR-0035.
+Test: tests/test_olinjerade.py, tests/test_mellanrader.py och tests/test_skarvar.py.
 
 En tabell utan lodräta linjer läses ur textlagrets ord, rad för rad, och blir
 säker bara när varje rad är en etikett följd av tal och talen står i linje i
@@ -25,6 +25,7 @@ from kommunhandlingar.konvertering.rader import (
     etikettrad,
     har_tal,
     kolumn,
+    med_fortsattning,
     nara,
     talrad,
     uppdela,
@@ -48,9 +49,9 @@ class Tabell:
 def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
     alla = sida.extract_words(extra_attrs=["size"])
     rader_ = [Rad(r, falt(r)) for r in radvis(fria(alla, upptagna))]
-    utan_broar = foljder(rader_, False)
+    utan_broar = foljder(rader_, 0)
     hittade: list[Tabell | None] = []
-    for borjan, slut in foljder(rader_, True):
+    for borjan, slut in foljder(rader_, MEST_EMELLAN):
         hel = tabell(rader_, (borjan, slut))
         delar = [f for f in utan_broar if borjan <= f[0] < slut]
         hittade += [hel] if hel else [tabell(rader_, d) for d in delar]
@@ -61,15 +62,15 @@ def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
     return [o for o in ord_ if not any(inom(mitt(o), r) for r in upptagna)]
 
 
-def foljder(rader_: list[Rad], broar: bool) -> list[tuple[int, int]]:
-    """Rader med tal i följd; med `broar` också över högst två
-    etikettrader mellan två tabellrader. En rad med bara årtal börjar
-    ingen följd: den är en rubrikrad."""
+def foljder(rader_: list[Rad], mest: int) -> list[tuple[int, int]]:
+    """Rader med tal i följd, också över högst `mest` etikettrader mellan
+    två tabellrader. En rad med bara årtal börjar ingen följd: den är en
+    rubrikrad."""
     ut: list[tuple[int, int]] = []
     for i, r in enumerate(rader_):
         if not har_tal(r):
             continue
-        if ut and bro(rader_[ut[-1][1] - 1 : i + 1], MEST_EMELLAN if broar else 0):
+        if ut and bro(rader_[ut[-1][1] - 1 : i + 1], mest):
             ut[-1] = (ut[-1][0], i + 1)
         elif not artalsrad(r):
             ut.append((i, i + 1))
@@ -86,7 +87,7 @@ def bro(rader_: list[Rad], mest: int) -> bool:
 
 
 def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
-    borjan, slut = foljd
+    borjan, slut = foljd[0], med_fortsattning(rader_, foljd[1])
     delar = [delad(r) for r in rader_[borjan:slut]]
     if None in delar or sum(talrad(c) for _, c in delar) < MINSTA_FOLJD:
         return None
@@ -98,12 +99,14 @@ def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
     if kropp is None:
         return None
     rubriker, huvud = ovanfor(rader_[: borjan + 1], kolumner_, etiketternas_slut)
-    ord_ = [
-        o for r in rader_[borjan - len(rubriker) - len(huvud) : slut] for o in r.ord
-    ]
+    ovanfor_ = rader_[borjan - len(rubriker) - len(huvud) : borjan]
+    return byggd(ovanfor_ + rader_[borjan:slut], huvud + rubriker + kropp, kolumner_)
+
+
+def byggd(rader_: list[Rad], celler: list[list[str]], kolumner_: list) -> Tabell:
+    ord_ = [o for r in rader_ for o in r.ord]
     ruta = ram(ord_)
-    kanter = (ruta[0], *(x1 for _, x1 in kolumner_))
-    return Tabell(ruta, huvud + rubriker + kropp, len(ord_), kanter)
+    return Tabell(ruta, celler, len(ord_), (ruta[0], *(x1 for _, x1 in kolumner_)))
 
 
 def kroppen(delar: list, kolumner_: list, etiketternas_slut: float) -> list | None:

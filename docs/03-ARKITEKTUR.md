@@ -814,8 +814,13 @@ och blir en osäker tabell som förut.
    En etikett som börjar med liten bokstav fogas till etiketten ovanför
    med ett mellanslag när den ena av de två raderna är en etikettrad, som
    `Avskrivningar på⏎byggnader` eller `Antal⏎medarbetare per chef`, och
-   raden får talen från den andra. En etikettrad som inte fogas blir en
-   rad med tomma celler, en avsnittsrubrik som `Skulder`.
+   raden får talen från den andra; en etikett som slutar med kolon, som
+   `Varav:`, fogas inte. Etikettrader med liten bokstav direkt under den
+   sista raden hör till följden och fogas likadant. En etikettrad som
+   inte fogas blir en rad med tomma celler, en avsnittsrubrik som
+   `Skulder`. En kort rad löptext mellan två tabeller med samma kolumner,
+   som `Not 3`, går inte att skilja från en avsnittsrubrik och blir en
+   sådan.
 4. **Följd:** rader i följd som är tabellrader eller talrader, där en
    talrad har minst två fält som är tal, eller minst två ord som är tal
    när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
