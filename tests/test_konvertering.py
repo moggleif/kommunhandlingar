@@ -46,12 +46,16 @@ class TestSidorna(unittest.TestCase):
                 "tabell-osaker",  # tabell utan lodräta linjer, talen inte i linje
                 "ok",  # linjer, men en cell rymmer två tal
                 "tabell-osaker",  # en upphöjd fotnotssiffra direkt efter ett tal
-                "tabell-osaker",  # linjer, men två priser i en cell
+                "ok",  # linjer, två priser i en cell i linje (ADR-0029)
                 "ok",  # stapeldiagram med talen ovanför staplarna
             ],
         )
         self.assertEqual(self.resultat.kvalitet, "delvis")
         self.assertEqual(self.resultat.tal_obekraftade, [5, 6, 7, 9, 11])
+
+    def test_tva_priser_i_linje_blir_tva_kolumner(self):
+        (tabell,) = self.resultat.sidor[15].tabeller
+        self.assertEqual(tabell[4], ["Lunch", "1 200 kr", "1 300 kr"])
 
     def test_inskannad_blankett_lases_med_ocr(self):
         sida = self.resultat.sidor[10]
