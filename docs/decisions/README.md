@@ -31,7 +31,7 @@ Regler för det här repot, utöver MADR:
 | 0002 | [Kort AGENTS.md, faserna som skills och en egen granskningsagent](0002-kort-agentfil-faser-som-skills-och-egen-granskare.md) | accepted |
 | 0003 | [Dokumentet identifieras av sin plats i modellen och en källnyckel; sha256 är versionen](0003-dokumentets-identitet-och-datamodell.md) | accepted |
 | 0004 | [Inkrementell körning: poolen är tillståndet och adressen är signalen](0004-inkrementell-korning-poolen-ar-tillstandet.md) | accepted (0019 lägger till omkonvertering vid en annan version) |
-| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell) |
+| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje) |
 | 0006 | [Körningen sker varje natt i GitHub Actions och checkar in data direkt till `main` efter datakontrollerna](0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md) | accepted |
 | 0007 | [Poolen är en ögonblicksbild: det som en gång checkats in tas inte bort, och historiken skrivs inte om](0007-poolen-ar-en-ogonblicksbild.md) | accepted |
 | 0008 | [Kommunkonfigurationen skrivs i TOML, en fil per kommun, och artigheten per värd står i en gemensam fil](0008-kommunkonfigurationen-i-toml.md) | accepted |
@@ -58,3 +58,4 @@ Regler för det här repot, utöver MADR:
 | 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | accepted |
 | 0031 | [Ett rutnät utan text är ingen tabell](0031-ett-rutnat-utan-text-ar-ingen-tabell.md) | accepted |
 | 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | proposed |
+| 0033 | [Talrader i linje som inte blev någon tabell märker sidan osäker](0033-talrader-i-linje-marker-sidan-osaker.md) | proposed |

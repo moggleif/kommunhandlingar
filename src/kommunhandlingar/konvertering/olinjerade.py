@@ -45,10 +45,13 @@ class Tabell:
 
 def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
     alla = sida.extract_words(extra_attrs=["size"])
-    fria = [o for o in alla if not any(inom(mitt(o), r) for r in upptagna)]
-    rader_ = [Rad(r, falt(r)) for r in radvis(fria)]
+    rader_ = [Rad(r, falt(r)) for r in radvis(fria(alla, upptagna))]
     hittade = (tabell(rader_, foljd) for foljd in foljder(rader_))
     return [t for t in hittade if t and ensam(t, alla)]
+
+
+def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
+    return [o for o in ord_ if not any(inom(mitt(o), r) for r in upptagna)]
 
 
 def ar_tal(f: Falt) -> bool:
