@@ -12,10 +12,7 @@ from pathlib import Path
 import pdfplumber
 
 from kommunhandlingar.konvertering import delade, tabeller
-from kommunhandlingar.konvertering.delade import (
-    Textrad,
-    dela,
-)
+from kommunhandlingar.konvertering.delade import Textrad, dela
 from kommunhandlingar.konvertering.dokument import konvertera
 
 PDF = Path(__file__).parent / "fixtures" / "pdf" / "delade.pdf"
@@ -42,6 +39,7 @@ class TestDeladeSidor(unittest.TestCase):
                 "tabell-osaker",  # etiketten mitt emellan talen
                 "ok",  # läses i stället som tabell utan lodräta linjer
                 "tabell-osaker",  # ett tal i en cell över två kolumner
+                "tabell-osaker",  # ett tal över en linje
             ],
         )
 
@@ -74,6 +72,13 @@ class TestDeladeSidor(unittest.TestCase):
     def test_etikett_over_linjen_delas_inte(self):
         with pdfplumber.open(PDF) as pdf:
             sida = pdf.pages[4]
+            ord_ = sida.extract_words(return_chars=True)
+            _, (fallen,) = tabeller.sakra(sida, ord_)
+            self.assertIsNone(delade.tabell(fallen, ord_))
+
+    def test_ord_over_en_linje_delas_inte(self):
+        with pdfplumber.open(PDF) as pdf:
+            sida = pdf.pages[6]
             ord_ = sida.extract_words(return_chars=True)
             _, (fallen,) = tabeller.sakra(sida, ord_)
             self.assertIsNone(delade.tabell(fallen, ord_))

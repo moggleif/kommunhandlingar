@@ -38,7 +38,7 @@ class Textrad:
 def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     """Raderna, och kolumnernas vänsterkanter och tabellens högerkant
     (K19); None när tabellen inte går att dela."""
-    if any(over_linje(o, t.cells) for o in ord_):
+    if any(over_linje(o, t.cells) for o in ord_ if inom(mitt(o), t.bbox)):
         return None
     granser = kolumngranser(t)
     rader: list[list[str]] = []
@@ -54,8 +54,11 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
 def over_linje(o: dict, celler: list[tuple]) -> bool:
     """Ett ord vars tecken står i olika celler, som en etikett i ett
     diagram vars rutnät pdfplumber läser som en tabell."""
-    i_celler = {i for t in o["chars"] for i, c in enumerate(celler) if inom(mitt(t), c)}
-    return len(i_celler) > 1
+    i_celler = {
+        next((i for i, c in enumerate(celler) if inom(mitt(t), c)), None)
+        for t in o["chars"]
+    }
+    return len(i_celler - {None}) > 1
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:

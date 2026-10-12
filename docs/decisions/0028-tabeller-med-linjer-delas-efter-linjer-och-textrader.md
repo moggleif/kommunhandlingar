@@ -126,8 +126,12 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   punkt i en lista med en bred lucka efter. En sådan rad över hela
   bredden med punkter på olika höjder fäller tabellen, som då läses som
   en tabell utan lodräta linjer.
-* Dåligt, eftersom en tabell där tal sticker ut över sin linje med en
-  bokstav inte delas, eftersom ett diagram ser likadant ut.
+* Dåligt, eftersom en tabell där text eller tal sticker ut över sin
+  linje, också med en enda bokstav, inte delas, eftersom ett diagram ser
+  likadant ut.
+* Dåligt, eftersom skyddet mot diagram bara gäller tabeller som delas.
+  Ett diagram vars rutnät har högst ett tal per ruta blir en säker tabell
+  som förut, och ett diagram vars etiketter står inne i rutorna delas.
 * Neutralt, eftersom en kolumn kan bli tom i varje rad när två linjer
   bara finns i en del av tabellen.
 
@@ -252,16 +256,18 @@ pdfplumbers strategi `text` drar linjer där texten står i linje.
     stapeldiagram, vars rutnät pdfplumber läser som en tabell, delades
     till en CSV med diagrammets etiketter. Etiketterna står över
     rutnätets linjer, så en tabell där ett ord har tecken i olika celler
-    delas inte längre. Det kostade en tabell i stickprovet, där tal står
-    en bokstav över sin linje: 21 av 35 i stället för 22.
+    delas inte längre. Det kostade en tabell i stickprovet, där
+    rubriker och tal står en bokstav över sina linjer: 21 av 35 i
+    stället för 22.
 
 ### Mätningen
 
 Stickprovet: tolv slumpvis valda dokument bland de 223, där sidorna med
 en sådan CSV prövades; tre av PDF:erna gick inte att hämta hela. Av 35
-fällda tabeller blev 22 CSV, sedan 21 (punkt 12). Varje ny CSV lästes för hand mot ordens
-lägen, och där tabellen har en summarad stämdes den av. De 13 som
-förblev osäkra är nio textrutor, som delegeringslistor, ärendelistor
+fällda tabeller blev först 22 CSV och sedan 21 (punkt 12). Varje ny
+CSV lästes för hand mot ordens lägen, och där tabellen har en summarad
+stämdes den av. De 14 som förblev osäkra är den i punkt 12, nio
+textrutor, som delegeringslistor, ärendelistor
 och handlingsplaner, som ska förbli osäkra, tre där en rubrik står
 över en kolumngräns, till exempel ett år mitt över två kolumner, och en
 där en rubrik i två rader har sitt år på en annan höjd än de andra

@@ -26,8 +26,12 @@ class TestOverLinje(unittest.TestCase):
     CELLER = [(0, 0, 100, 10), (100, 0, 200, 10)]
 
     def test_ord_med_tecken_i_tva_celler_gar_over_linjen(self):
-        ord_ = {"chars": [tecken(90, 96), tecken(96, 104)]}
+        ord_ = {"chars": [tecken(90, 96), tecken(98, 106)]}
         self.assertTrue(over_linje(ord_, self.CELLER))
+
+    def test_tecken_pa_linjen_raknas_till_en_cell(self):
+        ord_ = {"chars": [tecken(90, 96), tecken(96, 104)]}
+        self.assertFalse(over_linje(ord_, self.CELLER))
 
     def test_ord_i_en_cell_gar_inte_over_linjen(self):
         ord_ = {"chars": [tecken(90, 95), tecken(95, 99)]}
