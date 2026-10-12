@@ -1,10 +1,12 @@
-"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016 och ADR-0024.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016, ADR-0024 och
+ADR-0031.
 Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
-rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
-tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
-än ett tal.
+rektanglar som är högst 2 punkter breda eller höga. Den har minst ett ord,
+så att ett rutnät utan text inte är en tabell, varje ord inom tabellens
+yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer än ett
+tal.
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
 plustecken, parentes, enhet och fotnotsstjärna, eftersom ett tal för mycket bara fäller
@@ -59,7 +61,9 @@ def ar_hel(tabell: Table, ord_: list[dict]) -> bool:
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
         return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
-    return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
+    return bool(inne) and all(
+        any(inom(punkt, c) for c in tabell.cells) for punkt in inne
+    )
 
 
 def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
