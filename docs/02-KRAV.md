@@ -88,7 +88,8 @@ kunna läggas till utan kodändring.
   Markdown-texten. Varje CSV går att föra tillbaka till sitt dokument,
   och därmed till dokumentets härkomst.
 - **Givet** en tabell utan lodräta linjer, där varje rad är en etikett
-  följd av tal och talen står i linje i kolumner
+  följd av tal, talen står i linje i kolumner och ingen etikett
+  fortsätter på nästa rad
 - **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
   Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
   kolumn; annars står de kvar i texten.
@@ -104,7 +105,8 @@ kunna läggas till utan kodändring.
   samma cell blir en rubrikrad och en värderad.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal och
   inte går att dela så, till exempel för att etiketten står mitt emellan
-  två tal eller en text går över en linje
+  två tal, en text går över en linje eller en etikett fortsätter på
+  nästa rad (issue [#97](https://github.com/moggleif/kommunhandlingar/issues/97))
 - **Så** går den inte att läsa säkert med linjerna som cellgränser. Det
   som inte går att läsa som en tabell utan lodräta linjer står kvar i
   sidans text, och står en siffra ur tabellen där märks sidan

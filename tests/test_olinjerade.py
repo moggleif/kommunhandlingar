@@ -110,6 +110,13 @@ class TestTabeller(unittest.TestCase):
         tva.insert(3, ord_("Andra", 250, 180, 30))
         self.assertEqual(tabeller(sida(*BUDGET, tva), []), [])
 
+    def test_etikett_som_fortsatter_pa_nasta_rad_ger_ingen_tabell(self):
+        ombruten = [
+            rad(140, "Kostnader för", ("-1 845", 200), ("-2 001", 300)),
+            rad(160, "verksamheten", ("12", 200), ("13", 300)),
+        ]
+        self.assertEqual(tabeller(sida(*BUDGET[:2], *ombruten), []), [])
+
     def test_ett_ord_till_inom_tabellens_yta_ger_ingen_tabell(self):
         hog = {"text": "X", "x0": 230, "x1": 240, "top": 60, "bottom": 170}
         self.assertEqual(tabeller(sida(*BUDGET, [hog]), []), [])

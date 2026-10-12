@@ -13,6 +13,7 @@ from itertools import pairwise
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering.falt import Falt, falt, radvis
+from kommunhandlingar.konvertering.ombrutna import ombruten
 from kommunhandlingar.konvertering.tabeller import inom, mitt
 from kommunhandlingar.konvertering.text import MINSTA_FOLJD, TAL
 
@@ -99,7 +100,7 @@ def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
         return None
     etiketternas_slut = max(e.x1 for e, _ in delar)
     kropp = [kroppsrad(e, c, kolumner_) for e, c in delar]
-    if None in kropp or not atskilda(kolumner_, etiketternas_slut):
+    if None in kropp or ombruten(kropp) or not atskilda(kolumner_, etiketternas_slut):
         return None
     if all(AR_ELLER_KOD.fullmatch(r[1]) for r in kropp if r[1]):
         return None  # en etikettkolumn, och etiketterna till vänster är annan text

@@ -42,6 +42,7 @@ class TestDeladeSidor(unittest.TestCase):
                 "tabell-osaker",  # ett tal över en linje
                 "ok",  # talen i linje utan lodrät linje emellan
                 "ok",  # en rubrik över två kolumner
+                "tabell-osaker",  # en etikett som bryts över två rader
             ],
         )
 

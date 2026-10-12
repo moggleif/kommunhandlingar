@@ -18,6 +18,8 @@ linjer där en cell rymmer mer än ett tal.
    linje utan lodrät linje emellan, och etiketter som bryts runt sina
    tal, som i en personaltabell (ADR-0029).
 9. En rubrik över två kolumner i en rad utan lodräta linjer (ADR-0029).
+10. En etikett som bryts över två rader bredvid ett värde och dess andel,
+    `Kostnader för⏎verksamheten`: delas inte (ADR-0030).
 """
 
 from pathlib import Path
@@ -139,6 +141,14 @@ def rubrik_over_tva_kolumner(c: Canvas) -> None:
     rad(c, 721, ("Grundskola", "51,0", "50,2"))
 
 
+def ombruten_etikett(c: Canvas) -> None:
+    vagrata(c, [780, 760, 720])
+    lodrata(c, 780, 720)
+    rad(c, 766, ("Post", "2026", "2027"))
+    rad(c, 746, ("Kostnader för", "-1 845", "-2 001"))
+    rad(c, 730, ("verksamheten", "12 %", "13 %"))
+
+
 def skapa() -> None:
     c = Canvas(str(HAR / "delade.pdf"), pagesize=(B, H))
     for sida in (
@@ -151,6 +161,7 @@ def skapa() -> None:
         tal_over_linjen,
         talen_utan_lodrat_linje,
         rubrik_over_tva_kolumner,
+        ombruten_etikett,
     ):
         sida(c)
         c.showPage()
