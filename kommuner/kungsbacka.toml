@@ -1,7 +1,8 @@
 # Kungsbacka kommun. Schemat står i docs/03-ARKITEKTUR.md#kommunkonfigurationen,
 # och hur kommunen publicerar i docs/kallor/kungsbacka.md.
 #
-# Organen står i den ordning de hämtas (K13, ADR-0010).
+# Organen står i den ordning de hämtas (K13, ADR-0010). Ett utskott har
+# `hor_till`, så att det får sin nämnds färgton i kalendern (K22).
 
 namn = "Kungsbacka kommun"
 
@@ -21,6 +22,7 @@ namn = ["Nämnden för Förskola & Grundskola"]
 [[organ]]
 id = "fg-au"
 namn = ["Förskola & Grundskolas arbetsutskott"]
+hor_till = "fg"
 
 [[organ]]
 id = "bygg"
@@ -29,6 +31,7 @@ namn = ["Byggnadsnämnden"]
 [[organ]]
 id = "bygg-au"
 namn = ["Byggnadsnämndens arbetsutskott"]
+hor_till = "bygg"
 
 [[organ]]
 id = "teknik"
@@ -37,6 +40,7 @@ namn = ["Nämnden för Teknik"]
 [[organ]]
 id = "teknik-au"
 namn = ["Tekniks arbetsutskott"]
+hor_till = "teknik"
 
 [[organ]]
 id = "service"
@@ -73,6 +77,7 @@ namn = ["Kommunstyrelsen"]
 [[organ]]
 id = "ks-au"
 namn = ["Kommunstyrelsens arbetsutskott"]
+hor_till = "ks"
 
 [[organ]]
 id = "kf"

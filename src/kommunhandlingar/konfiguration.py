@@ -1,4 +1,5 @@
-"""Krav: K1 i docs/02-KRAV.md, ADR-0019. Test: tests/test_konfiguration.py."""
+"""Krav: K1 och K22 i docs/02-KRAV.md, ADR-0019 och ADR-0032.
+Test: tests/test_konfiguration.py."""
 
 import tomllib
 from dataclasses import dataclass
@@ -9,7 +10,7 @@ from kommunhandlingar import schema
 from kommunhandlingar.adaptrar import sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 
-ORGANFALT = {"id", "namn", "fran", "till", "foregangare"}
+ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till"}
 
 
 @dataclass(frozen=True)
@@ -19,6 +20,7 @@ class Organ:
     fran: date | None
     till: date | None
     foregangare: tuple[str, ...]
+    hor_till: str | None = None
 
 
 @dataclass(frozen=True)
@@ -71,11 +73,12 @@ def organ_av(post: dict) -> Organ:
         schema.valfritt(post, "fran", date, var),
         schema.valfritt(post, "till", date, var),
         schema.textlista(post, "foregangare", var),
+        schema.valfritt(post, "hor_till", str, var),
     )
 
 
 def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
-    kontrollera_id_och_foregangare(organ)
+    kontrollera_hanvisningar(organ)
     for i, a in enumerate(organ):
         for b in organ[i + 1 :]:
             if delar_namn(a, b) and overlappar(a, b):
@@ -84,7 +87,7 @@ def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
                 )
 
 
-def kontrollera_id_och_foregangare(organ: tuple[Organ, ...]) -> None:
+def kontrollera_hanvisningar(organ: tuple[Organ, ...]) -> None:
     id_ = [o.id for o in organ]
     for o in organ:
         if id_.count(o.id) > 1:
@@ -93,6 +96,10 @@ def kontrollera_id_och_foregangare(organ: tuple[Organ, ...]) -> None:
         if saknade:
             raise Konfigurationsfel(
                 f"organ {o.id!r}: föregångaren {saknade[0]!r} finns inte"
+            )
+        if o.hor_till is not None and o.hor_till not in id_:
+            raise Konfigurationsfel(
+                f"organ {o.id!r}: hor_till {o.hor_till!r} finns inte"
             )
 
 

@@ -65,6 +65,7 @@ krav eller ett test. Det betyder:
 | Hur man sätter upp, kör och testar              | `docs/01-BIDRA.md`                 |
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`          |
 | En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.toml`           |
+| En kommuns sammanträden i kalendern             | `kalender/<kommun>.csv`            |
 | Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
 | Front matter-schemat och tabellernas format     | `docs/03-ARKITEKTUR.md`            |
 | Ett dokuments härkomst och kvalitet (värdena)   | front matter i dokumentets `.md`   |

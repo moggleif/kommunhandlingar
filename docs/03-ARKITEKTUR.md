@@ -205,7 +205,9 @@ src/kommunhandlingar/
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor
+                   och kalendern
 kommuner/<kommun>.toml
+kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -250,6 +252,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.namn`           | Alla namn källorna använt för organet, minst ett.            |
 | `organ.fran`, `till`   | Giltighetsperioden, som datum. Ett utelämnat värde är öppet åt det hållet. |
 | `organ.foregangare`    | Id för organ som gick upp i det här (datamodellen). Varje id finns i filen. |
+| `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern). Utelämnas annars. |
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
 | `kalla.manader`        | Månadernas namn i källan, januari först. Utelämnas när källan skriver månaden med siffror. |
@@ -1166,8 +1169,10 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
-  (`<kommun>/<organ>.html`) och en sida per dokument i poolen, på samma
-  sökväg som under `data/` med `.html` i stället för `.md`. Sidmallen,
+  (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
+  sökväg som under `data/` med `.html` i stället för `.md`, och en
+  kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
+  [Kalendern](#kalendern)). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
   i bokstavsordning efter id – och en sidfot som länkar till repot och
   säger när sidan byggdes.
@@ -1207,7 +1212,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   "Dokumentet har ingen text."
 - **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
   att länkarna i texten till CSV:erna fungerar.
-- **Statisk:** ingen JavaScript och inga externa resurser. Texten i
+- **Statisk:** ingen JavaScript utom kalenderns skript (ADR-0032) och inga
+  externa resurser. Texten i
   dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
   blir markup. All annan text ur poolen går genom `html.escape`, och bara källor
@@ -1218,3 +1224,54 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
   `kvalitet` ur tabellerna ovan. Annars stoppas bygget med filens namn,
   så att inget dokument utelämnas tyst ur tabellerna.
+
+## Kalendern
+
+Hur och varför står i
+[ADR-0032](decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md).
+En kommun med en fil `kalender/<kommun>.csv` får sidan
+`<kommun>/kalender.html` (K22), länkad från statussidan.
+
+- **Filen** är CSV med radslut LF, UTF-8 utan BOM och komma som
+  skiljetecken, och den första raden är rubrikerna. En rad per
+  sammanträde, sorterad på datum och organ:
+
+  | Kolumn    | Betyder                                                        |
+  | --------- | -------------------------------------------------------------- |
+  | `organ`   | Organets id i kommunfilen.                                     |
+  | `datum`   | ÅÅÅÅ-MM-DD.                                                    |
+  | `tid`     | Tiden, till exempel `17:00`, `14:00–18:00` eller `heldag`, eller tomt. |
+  | `plats`   | Platsen som källan skriver den, eller tomt.                    |
+  | `kalla`   | Ett dokument i poolen, som sökväg under `data/<kommun>/`, eller en adress som börjar med `https://`. |
+  | `osakert` | Tomt, eller varför datumet är osäkert inläst.                  |
+
+- **Källorna** läses av AI-agenten: för innevarande år organets mötessida,
+  för kommande år organets senaste beslut om sammanträdesdagar, eller
+  förslaget som beslutet antog när beslutet bara finns inskannat (OCR).
+  Ett inställt möte står inte med, och inte heller planeringsdagar. Ett
+  datum märks osäkert när källan är svår att läsa, eller när den anger en
+  veckodag, uttryckligen eller genom att märka undantagen, och datumet
+  inte stämmer med den.
+- **Inga personnamn** (AGENTS.md): en plats som bär en persons namn, som
+  en skola, skrivs inte in.
+- **Kontrollen** (`webbplats/kalender.py`) stoppar bygget med raden om
+  rubrikerna inte är kolumnerna ovan, ett organ inte står i kommunfilen,
+  ett datum inte är ÅÅÅÅ-MM-DD eller inte finns, ett organ har två
+  sammanträden samma dag, källan inte är ett dokument i poolen
+  (`<organ>/<år>/<datum>/<namn>.md`) eller ett datum på en lördag eller
+  söndag inte är märkt osäkert. En kalenderfil utan kommunfil stoppar
+  också bygget.
+- **Sidan** (`webbplats/kalendersida.py` och `kalendervyer.py`) har ett
+  urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
+  två vyer: en tabell per månad från den första till den sista, också
+  månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
+  rad per sammanträde: datum, organ, tid, plats och källa. Rutan har
+  organets id med versaler och tiden; ett osäkert sammanträde har ett
+  frågetecken i rutan och skälet i listan.
+- **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje
+  grupp får en egen färgton jämnt fördelad runt färgcirkeln i kommunfilens
+  ordning, och ett utskott en ljusare nyans av sin grupps ton.
+- **Skriptet** står i sidan. Det visar en månad i taget med knappar
+  bakåt och framåt, med början på innevarande månad, döljer sammanträden
+  före dagens datum i listan och döljer organ som valts bort i båda
+  vyerna. Utan skriptet visas alla månader och alla sammanträden.

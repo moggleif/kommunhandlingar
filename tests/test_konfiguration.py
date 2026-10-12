@@ -1,4 +1,4 @@
-"""Krav: K1 i docs/02-KRAV.md. Kod: src/kommunhandlingar/konfiguration.py."""
+"""Krav: K1 och K22 i docs/02-KRAV.md. Kod: src/kommunhandlingar/konfiguration.py."""
 
 import copy
 import tomllib
@@ -69,6 +69,12 @@ class TestFelStopparKorningen(unittest.TestCase):
 
     def test_foregangare_som_inte_finns(self):
         self.stoppas(lambda d: d["organ"][1].update(foregangare=["kun"]))
+
+    def test_organet_det_hor_till_ska_finnas(self):
+        self.stoppas(lambda d: d["organ"][1].update(hor_till="kun"))
+        data = exempelby()
+        data["organ"][1]["hor_till"] = "bun"
+        self.assertEqual(tolka("exempelby", data).organ[1].hor_till, "bun")
 
     def test_samma_namn_med_overlappande_period(self):
         def overlapp(data):

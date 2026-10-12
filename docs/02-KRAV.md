@@ -613,3 +613,44 @@ Urvalet, facits format och måtten står i
 - **Så** prövas att varje tal i facits tabeller står bland sidans tal, att
   varje rad i en facittabell har lika många fält, och att utdragens
   textlager inte innehåller något som maskas enligt K17.
+
+## K22 — Kommande sammanträden står i en kalender
+
+Issue: [#106](https://github.com/moggleif/kommunhandlingar/issues/106).
+Hur och varför står i
+[ADR-0032](decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md)
+och [Kalendern](03-ARKITEKTUR.md#kalendern).
+
+- **Givet** en kommun med en kalenderfil, där varje sammanträde har organ,
+  datum och källa
+- **När** webbplatsen byggs
+- **Så** har kommunen en kalendersida, länkad från statussidan, med
+  sammanträdena både som en månadsvy, där varje sammanträde är en ruta på
+  sin dag, och som en lista för hela året.
+- **Givet** kalendersidan
+- **När** den visas
+- **Så** öppnar månadsvyn på innevarande månad, listan börjar på dagens
+  datum, och sammanträden före dagens datum går att se genom att bläddra
+  bakåt i månadsvyn.
+- **Givet** kalendersidan
+- **När** besökaren väljer bort ett organ
+- **Så** försvinner organets sammanträden ur båda vyerna. Från början visas
+  alla organ.
+- **Givet** ett sammanträde på kalendersidan
+- **När** det visas
+- **Så** står organets förkortning i rutan, med organets färg, där ett
+  organ och organet det hör till har nyanser av samma färg; listan visar
+  organets namn, tid och plats när källan anger dem, och källan som länk.
+- **Givet** ett sammanträde vars datum är osäkert inläst
+- **När** det visas
+- **Så** är det märkt som osäkert i text, med skälet i listan.
+- **Givet** en kalenderfil med ett organ som inte står i kommunfilen, ett
+  datum som inte är ÅÅÅÅ-MM-DD eller inte finns, ett sammanträde två
+  gånger, en källa som varken är en adress eller ett dokument i poolen,
+  eller ett datum på en lördag eller söndag som inte är märkt osäkert,
+  eller en kalenderfil utan kommunfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden i felet.
+- **Givet** en sida utan JavaScript
+- **När** kalendersidan visas
+- **Så** står alla sammanträden i båda vyerna, utan urval.

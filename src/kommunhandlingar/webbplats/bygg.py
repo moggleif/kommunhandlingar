@@ -1,5 +1,5 @@
-"""Krav: K14 och K18 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
-tests/test_webbplats_dokument.py.
+"""Krav: K14, K18 och K22 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
+tests/test_webbplats_dokument.py, tests/test_kalender.py.
 """
 
 import shutil
@@ -9,8 +9,9 @@ from pathlib import Path
 from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import sidor
+from kommunhandlingar.webbplats import kalender, sidor
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
+from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
@@ -18,11 +19,15 @@ from kommunhandlingar.webbplats.rakning import okanda, rakna
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
-    mall = Mall(kommuner, repo, byggd)
+    kalendrar = frozenset(f.stem for f in (rot / "kalender").glob("*.csv"))
+    if utan_kommun := kalendrar - {k.id for k in kommuner}:
+        raise Datafel(f"kalender/{min(utan_kommun)}.csv har ingen kommunfil")
+    mall = Mall(kommuner, repo, byggd, kalendrar)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     for kommun in kommuner:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
+        bygg_kalender(rot, ut, mall, kommun)
 
 
 # Varje dokuments sida skrivs när det läses, så att poolens text inte hålls
@@ -41,6 +46,14 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         organets = [d for d in dokument if d["organ"] == rad.id]
         html = organsida(mall, kommun, rad, organets)
         (ut / kommun.id / f"{rad.id}.html").write_text(html, encoding="utf-8")
+
+
+def bygg_kalender(rot: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
+    if kommun.id in mall.kalendrar:
+        fil = rot / "kalender" / f"{kommun.id}.csv"
+        sammantraden = kalender.las(fil, kommun, rot / "data" / kommun.id)
+        html = kalendersida(mall, kommun, sammantraden)
+        (ut / kommun.id / "kalender.html").write_text(html, encoding="utf-8")
 
 
 def las_dokument(fil: Path, katalog: Path, kommun: Kommun) -> tuple[dict, str]:
