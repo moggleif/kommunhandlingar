@@ -82,8 +82,7 @@ kunna läggas till utan kodändring.
   dess siffror, som i en PDF ur ett kalkylark
   (issue [#91](https://github.com/moggleif/kommunhandlingar/issues/91))
 - **När** dokumentet konverteras
-- **Så** står talet i texten och tabellerna som på sidan, `476,7` och inte
-  `4 76,7`.
+- **Så** står talet som på sidan, `476,7` och inte `4 76,7`.
 
 ## K5 — Tabeller blir CSV
 

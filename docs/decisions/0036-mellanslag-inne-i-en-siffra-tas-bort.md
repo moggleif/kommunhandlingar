@@ -54,11 +54,14 @@ Poolens version höjs till 0.8.7. Poolen rättas när den konverteras om
 * Bra, eftersom ett stickprov på tio handlingar ur poolen, omkring
   2 000 sidor ur textlagret, ändrar fem sidor: två taxetabeller där
   talen var delade (`4 0` blir `40`, `1 6` blir `16`) och nu blir CSV, en
-  rad där `timtaxa3 .` blir `timtaxa3.`, och två sidor med överlagrad
-  eller roterad text som förblir oläslig.
+  rad där fotnotssiffran i `timtaxa3 .` blir `timtaxa3.`, en sida med
+  roterad text som var oläslig före och efter, och en sida med överlagrad
+  text (se nedan).
 * Dåligt, eftersom ett mellanslag som verkligen står mellan två tal men
-  ritats ovanpå den första siffran försvinner. Det förekom inte i
-  stickprovet.
+  ritats ovanpå den första siffran försvinner. I stickprovet hände det en
+  gång, i två textrader som ritats ovanpå varandra: `stö2d0 225-05-21`
+  blev `stö2d0225-05-21`. Texten var oläslig redan förut, men sidan är
+  märkt `ok`; att överlagrad text inte märks är ett äldre fel.
 
 ### Confirmation
 

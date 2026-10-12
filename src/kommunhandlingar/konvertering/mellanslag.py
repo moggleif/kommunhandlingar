@@ -18,18 +18,17 @@ def utan_mellanslag_i_tal(sida: Page) -> Page:
     for c in sida.chars:
         if c["text"].isdigit():
             siffror[round(c["top"])].append(c)
-    i_tal = {plats(m) for m in sida.chars if inne_i(m, siffror[round(m["top"])])}
     return sida.filter(
-        lambda o: o.get("object_type") != "char" or plats(o) not in i_tal
+        lambda o: (
+            o.get("object_type") != "char"
+            or not mellanslag_i_siffra(o, siffror.get(round(o["top"]), []))
+        )
     )
 
 
-def inne_i(mellanslag: dict, siffror: list[dict]) -> bool:
-    x0, x1 = mellanslag["x0"], mellanslag["x1"]
+def mellanslag_i_siffra(tecken: dict, siffror: list[dict]) -> bool:
+    if not tecken["text"].isspace():
+        return False
+    x0, x1 = tecken["x0"], tecken["x1"]
     halva = (x1 - x0) / 2
-    tackt = (c for c in siffror if c["x0"] <= x0 and min(x1, c["x1"]) - x0 > halva)
-    return mellanslag["text"].isspace() and any(tackt)
-
-
-def plats(tecken: dict) -> tuple:
-    return tecken["text"], tecken["x0"], tecken["top"]
+    return any(c["x0"] <= x0 and min(x1, c["x1"]) - x0 > halva for c in siffror)
