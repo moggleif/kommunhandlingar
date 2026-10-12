@@ -14,6 +14,7 @@ from kommunhandlingar.konvertering import markdown
 
 FALTGRANS = re.compile(r" {2,}")
 TAL = re.compile(r"[-−–]?(?:\d+|\d{1,3}(?:[  ]\d{3})+)(?:,\d+)?(?: ?%)?")
+ARTAL = re.compile(r"(?:19|20)\d{2}")
 MINSTA_FOLJD = 3
 
 

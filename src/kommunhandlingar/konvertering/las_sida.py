@@ -1,7 +1,8 @@
 """Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
-ADR-0017, ADR-0022, ADR-0024, ADR-0028 och ADR-0033. Test: tests/test_konvertering.py,
-tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py och
-tests/test_kvarvarande.py.
+ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033 och ADR-0034.
+Test: tests/test_konvertering.py, tests/test_maska_poolen.py,
+tests/test_skarvar.py, tests/test_delade.py, tests/test_kvarvarande.py och
+tests/test_avskurna.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
@@ -24,6 +25,7 @@ from kommunhandlingar.konvertering import (
     olinjerade,
     tabeller,
 )
+from kommunhandlingar.konvertering.avskurna import avskuren
 from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
@@ -94,7 +96,8 @@ def textsida(sida: Page) -> Sida:
 
 def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
     """Tabellerna med linjer som ruta, rader och kanter, också de som
-    delats (ADR-0028), och rutorna kring dem som fälldes."""
+    delats (ADR-0028), och rutorna kring dem som fälldes, också de
+    avskurna (ADR-0034)."""
     ord_ = sida.extract_words(return_chars=True)
     sakra, fallda = tabeller.sakra(sida, ord_)
     hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in sakra]
@@ -102,7 +105,11 @@ def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
         delad = delade.tabell(t, ord_)
         if delad is not None:
             hittade.append((t.bbox, *delad))
-    return hittade, [t.bbox for t in fallda]
+    rutor = [ruta for ruta, _, _ in hittade]
+    upptagna = rutor + [t.bbox for t in fallda]
+    avskurna = [ruta for ruta in rutor if avskuren(ruta, ord_, upptagna)]
+    hela = [t for t in hittade if t[0] not in avskurna]
+    return hela, [t.bbox for t in fallda] + avskurna
 
 
 def osakra_tal(sida: Page, fallda: list[tuple], rutor: list[tuple]) -> bool:
