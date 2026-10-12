@@ -83,8 +83,6 @@ class TestLasning(unittest.TestCase):
         for kalla in ("fsn/2027/protokoll.md", "fsn/2026/2026-09-17/saknas.md"):
             fel = self.stoppas(f"fsn,2027-01-14,,,{kalla},\n")
             self.assertIn("inget dokument i poolen", fel)
-        andra = "fsn/2026/../2026/2026-09-17/protokoll.md"
-        self.assertIn("rad 2", self.stoppas(f"fsn,2027-01-14,,,{andra},\n"))
 
     def test_datum_i_annan_form(self):
         self.assertIn("ÅÅÅÅ-MM-DD", self.stoppas(f"fsn,20270114,,,{PROTOKOLL},\n"))

@@ -58,8 +58,10 @@ tolkning som måste skrivas om när formen ändras.
   beslutet antog när beslutet bara finns inskannat, och ett senare beslut
   går före ett tidigare. Ett inställt möte står inte med.
 * **Kontrollen:** bygget stoppas om ett organ inte står i kommunfilen, ett
-  datum inte finns, ett sammanträde står två gånger, en källa i poolen
-  saknas eller ett datum på en helg inte är märkt osäkert.
+  datum inte är ÅÅÅÅ-MM-DD eller inte finns, ett sammanträde står två
+  gånger, en källa varken är en adress eller ett dokument i poolen, ett
+  datum på en helg inte är märkt osäkert, eller en kalenderfil saknar
+  kommunfil.
 * **Färgerna:** ett organ i kommunfilen kan ha `hor_till`, id för organet
   det är utskott till. Organ som hör ihop får samma färgton, ljusare för
   utskottet. Förkortningen, organets id med versaler, står alltid i
@@ -144,10 +146,14 @@ uttrycklig veckodag ("torsdagar kl. 15:30", "måndagar klockan 17:00")
 eller undantag som källan märker ut ("9 (onsdag)", "au på onsdag"), så
 att ett omärkt undantag är en motsägelse i källan.
 
-Förskola & Grundskolas beslut finns bara inskannat, och OCR läste där
-"20 januari" där förslaget och det senare beslutet säger 27. Datumen tas
-därför ur förslaget i handlingarna, som har ett textlager och som
-beslutet antog oförändrat.
+Förskola & Grundskolas beslut i augusti finns bara inskannat, och OCR
+läste där januarimötet som "20 januari" fast förslaget och flyttbeslutet
+i september båda säger att augustibeslutet var 27. Datumen tas därför ur
+förslaget i handlingarna, som har ett textlager och som beslutet antog
+oförändrat; att januarimötet ändå är 20 januari kommer från
+flyttbeslutet. Utskottets datum står i samma förslag, i en tabell som
+redovisar dem för helheten. De märks inte osäkra, eftersom nämnden antog
+förslaget med tabellen.
 
 Gymnasium & Arbetsmarknads lokal bär en persons namn och skrivs inte in
 (AGENTS.md, "Inga personnamn"); tiden står med.

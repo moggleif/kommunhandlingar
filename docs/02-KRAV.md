@@ -645,9 +645,10 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** det visas
 - **Så** är det märkt som osäkert i text, med skälet i listan.
 - **Givet** en kalenderfil med ett organ som inte står i kommunfilen, ett
-  datum som inte finns, ett sammanträde två gånger, en källa i poolen som
-  inte finns, eller ett datum på en lördag eller söndag som inte är märkt
-  osäkert
+  datum som inte är ÅÅÅÅ-MM-DD eller inte finns, ett sammanträde två
+  gånger, en källa som varken är en adress eller ett dokument i poolen,
+  eller ett datum på en lördag eller söndag som inte är märkt osäkert,
+  eller en kalenderfil utan kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.
 - **Givet** en sida utan JavaScript
