@@ -115,6 +115,10 @@ class TestSidansText(unittest.TestCase):
             "\n\n\\# slut",
         )
 
+    def test_en_rad_med_bara_bom_ar_tom(self):
+        text, _ = stycken("Ämne: Avsägelse\n\n\ufeff\nHej\ufeff")
+        self.assertEqual(text, "Ämne: Avsägelse\n\nHej")
+
 
 class TestKodstaket(unittest.TestCase):
     def test_staketet_ar_langre_an_blockets_backticks(self):
