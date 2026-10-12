@@ -1169,8 +1169,10 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
-  (`<kommun>/<organ>.html`) och en sida per dokument i poolen, på samma
-  sökväg som under `data/` med `.html` i stället för `.md`. Sidmallen,
+  (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
+  sökväg som under `data/` med `.html` i stället för `.md`, och en
+  kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
+  [Kalendern](#kalendern)). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
   i bokstavsordning efter id – och en sidfot som länkar till repot och
   säger när sidan byggdes.
@@ -1238,14 +1240,17 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   | --------- | -------------------------------------------------------------- |
   | `organ`   | Organets id i kommunfilen.                                     |
   | `datum`   | ÅÅÅÅ-MM-DD.                                                    |
-  | `tid`     | Tiden som källan skriver den, till exempel `17.00`, eller tomt. |
+  | `tid`     | Tiden, till exempel `17:00`, `14:00–18:00` eller `heldag`, eller tomt. |
   | `plats`   | Platsen som källan skriver den, eller tomt.                    |
   | `kalla`   | Ett dokument i poolen, som sökväg under `data/<kommun>/`, eller en adress som börjar med `https://`. |
   | `osakert` | Tomt, eller varför datumet är osäkert inläst.                  |
 
 - **Källorna** läses av AI-agenten: för innevarande år organets mötessida,
-  för kommande år organets senaste beslut om sammanträdesdagar. Ett
-  inställt möte står inte med.
+  för kommande år organets senaste beslut om sammanträdesdagar, eller
+  förslaget som beslutet antog. Ett inställt möte står inte med, och inte
+  heller planeringsdagar. Ett datum märks osäkert när källan är svår att
+  läsa eller när datumet avviker från organets vanliga veckodag utan att
+  källan säger varför.
 - **Kontrollen** (`webbplats/kalender.py`) stoppar bygget med raden om
   rubrikerna inte är kolumnerna ovan, ett organ inte står i kommunfilen,
   ett datum inte finns, ett organ har två sammanträden samma dag, en källa

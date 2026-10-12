@@ -54,7 +54,8 @@ tolkning som måste skrivas om när formen ändras.
   eller en adress som börjar med `https://`. `osakert` är tomt eller
   skälet till att datumet är osäkert.
 * **Källorna i ordning:** för innevarande år mötessidan, som har
-  ändringarna; för kommande år organets beslut, och ett senare beslut går
+  ändringarna; för kommande år organets beslut, eller förslaget som
+  beslutet antog när bara förslaget har datumen, och ett senare beslut går
   före ett tidigare. Ett inställt möte står inte med.
 * **Kontrollen:** bygget stoppas om ett organ inte står i kommunfilen, ett
   datum inte finns, ett sammanträde står två gånger, en källa i poolen
@@ -116,8 +117,8 @@ kontrollen mot poolen.
 * Good, eftersom webbplatsen förblir utan JavaScript.
 * Bad, eftersom "idag" blir byggdagen, och webbplatsen byggs bara när
   `main` ändras.
-* Bad, eftersom urvalet av organ och växlingen mellan vyerna inte går att
-  göra i statisk HTML utan att bygga en sida per kombination.
+* Bad, eftersom urvalet av organ inte går att göra i statisk HTML utan
+  att bygga en sida per kombination.
 
 ## More Information
 

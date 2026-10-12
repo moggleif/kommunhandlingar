@@ -1,4 +1,5 @@
-"""Krav: K1 i docs/02-KRAV.md, ADR-0019. Test: tests/test_konfiguration.py."""
+"""Krav: K1 och K22 i docs/02-KRAV.md, ADR-0019 och ADR-0032.
+Test: tests/test_konfiguration.py."""
 
 import tomllib
 from dataclasses import dataclass
@@ -9,7 +10,7 @@ from kommunhandlingar import schema
 from kommunhandlingar.adaptrar import sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 
-ORGANFALT = {"id", "namn", "fran", "till", "foregangare"}
+ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till"}
 
 
 @dataclass(frozen=True)
@@ -19,6 +20,7 @@ class Organ:
     fran: date | None
     till: date | None
     foregangare: tuple[str, ...]
+    hor_till: str | None = None
 
 
 @dataclass(frozen=True)
@@ -71,6 +73,7 @@ def organ_av(post: dict) -> Organ:
         schema.valfritt(post, "fran", date, var),
         schema.valfritt(post, "till", date, var),
         schema.textlista(post, "foregangare", var),
+        schema.valfritt(post, "hor_till", str, var),
     )
 
 
@@ -89,10 +92,10 @@ def kontrollera_id_och_foregangare(organ: tuple[Organ, ...]) -> None:
     for o in organ:
         if id_.count(o.id) > 1:
             raise Konfigurationsfel(f"organ {o.id!r}: två organ har samma id")
-        saknade = [f for f in o.foregangare if f not in id_]
+        saknade = [f for f in (*o.foregangare, o.hor_till or o.id) if f not in id_]
         if saknade:
             raise Konfigurationsfel(
-                f"organ {o.id!r}: föregångaren {saknade[0]!r} finns inte"
+                f"organ {o.id!r}: organet {saknade[0]!r} finns inte"
             )
 
 

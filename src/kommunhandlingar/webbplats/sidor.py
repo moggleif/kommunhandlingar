@@ -1,4 +1,4 @@
-"""Krav: K7 och K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7, K14 och K22 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from html import escape
 
@@ -28,7 +28,8 @@ def startsida(mall: Mall) -> str:
 def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> str:
     rader = rakna(kommun, dokument, mall.byggd.date())
     innehall = (
-        sammanfattning(dokument)
+        kalenderlank(mall, kommun.id)
+        + sammanfattning(dokument)
         + "<h2>Dokument per organ</h2>"
         + dokumenttabell(rader, kommun.id)
         + "<h2>Kvalitet per organ</h2>"
@@ -38,6 +39,12 @@ def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> st
         + luckavsnitt(kommun, rader, mall.repo)
     )
     return sida(mall, f"{kommun.id}.html", kommun.namn, innehall)
+
+
+def kalenderlank(mall: Mall, kommun_id: str) -> str:
+    if kommun_id not in mall.kalendrar:
+        return ""
+    return f'<p><a href="{kommun_id}/kalender.html">Kalender med sammanträdena</a></p>'
 
 
 def sammanfattning(dokument: list[dict[str, str]]) -> str:

@@ -9,8 +9,8 @@ Kungsbacka först. Ingenting i koden ska veta vilken kommun det gäller – det
 står i en konfigurationsfil per kommun.
 
 Vad poolen innehåller just nu, vilka sammanträden som saknar kallelse
-och handlingar eller protokoll, och varje dokument med sina tabeller, går
-att läsa på webbplatsen:
+och handlingar eller protokoll, varje dokument med sina tabeller, och en
+kalender med kommunens sammanträden går att läsa på webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 
 ## Hur det fungerar

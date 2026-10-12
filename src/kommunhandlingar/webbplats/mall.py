@@ -31,6 +31,7 @@ class Mall:
     kommuner: list[Kommun]
     repo: str
     byggd: datetime
+    kalendrar: frozenset[str] = frozenset()
 
 
 def rot(adress: str) -> str:

@@ -158,6 +158,29 @@ personnummer, ibland med hemadress, oftast i bilagor som kommit utifrån.
 Poolen maskar dem, och felen rapporteras till kommunen utanför repot
 ([ADR-0022](../decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
 
+### Sammanträdesdagarna
+
+Kalendern (K22,
+[ADR-0032](../decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md))
+läses ur två källor. **Varje mötessida** inleds med årets datum, "…
+har sammanträden under följande datum 2026:", en rad per månad, med
+ändringar i fri text: "10 och 31 mars (mötet 10 mars är inställt)", "1
+och 24 september (ombokat från 23 september)", "8 september - inställt".
+Kommande år står inte där förrän året börjat närma sig. **Nästa års
+datum** beslutar varje organ under våren eller hösten, och besluten står
+i protokollen, i olika form: löptext, två spalter, en punktlista, en
+tabell. Teknik och Förskola & Grundskola har datumen bara i förslaget i
+handlingarna, och utskotten för Förskola & Grundskola, Bygg och KS
+beslutas tillsammans med sin nämnd. Kända fel och osäkerheter 2026-10-12:
+
+- KS förslag gav kommunfullmäktige den 6 mars 2027, en lördag;
+  fullmäktige beslutade 9 mars (KF 2026-06-09 § 110). KF:s protokoll
+  finns inte i poolen, så kalendern länkar till det på kungsbacka.se.
+- Förskola & Grundskola flyttade januarimötet 2027 från 27 till 20
+  januari (FG 2026-09-16), och utskottets januarimöte utgår.
+- Individ & Familjeomsorgs tabell skriver några dagar med siffrorna isär
+  ("1 5 april"), och första mötet 2027 är en måndag.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
