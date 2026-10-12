@@ -100,8 +100,8 @@ def talfalt(text: str) -> bool:
     return TALRAD.fullmatch(FOTNOT.sub("", text)) is not None
 
 
-def enhet(ord_: str) -> bool:
-    return re.fullmatch(ENHET, ord_, re.I) is not None
+def enhet(text: str) -> bool:
+    return re.fullmatch(ENHET, text, re.I) is not None
 
 
 def siffra(text: str) -> bool:

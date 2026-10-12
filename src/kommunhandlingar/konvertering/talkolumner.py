@@ -9,9 +9,16 @@ import re
 from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.tabeller import enhet, siffra, talfalt
+from kommunhandlingar.konvertering.tabeller import enhet, mitt, siffra, talfalt
 
 Rader = list[list[Falt]]
+
+
+def etiketter_utanfor(bbox: tuple, ord_: list[dict]) -> bool:
+    """Text till vänster om tabellen i höjd med den, efter ordens mitt, som
+    etiketter med punktledare in mot tabellen."""
+    x0, topp, _, botten = bbox
+    return any(mitt(o)[0] < x0 and topp <= mitt(o)[1] <= botten for o in ord_)
 
 
 def etiketterade(rader: list[list[str]]) -> bool:

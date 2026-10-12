@@ -110,6 +110,10 @@ Poolens version höjs till 0.8.0. Poolen rättas när den konverteras om
 * Dåligt, eftersom ett ord som inte är en enhet i listan, som `MSEK`,
   räknas som etikett. Etiketterna utanför tabellen fångas ändå av
   texten till vänster om den, men inte när de står någon annanstans.
+* Dåligt, eftersom text till vänster om en tabell som inte är dess
+  etiketter, som en marginalnot, en paragraf som `§ 12` eller en annan
+  spalt, gör att tabellen förblir osäker. I stickproven hände det
+  aldrig.
 * Dåligt, eftersom en textruta med en rubrik över hela bredden och en
   lista per år under, som `Gjorda konsekvensbedömningar …` med
   `2021 | 2022 | 2023`, blir CSV, fast ADR-0028 sa att textrutorna ska
@@ -189,7 +193,8 @@ första raden. Facit
    `(tkr)`, och ord som inte står i listan över enheter, som `MSEK`.
    En lista blir aldrig komplett, så etiketterna utanför tabellen
    fångas också av sitt läge: text till vänster om tabellen i höjd med
-   den.
+   den. Det sjätte varvet visade att ett ord räknas efter sin mitt, så
+   att en etikett med punktledare in över kanten också fångas.
 
 ### Mätningen
 

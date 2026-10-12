@@ -7,7 +7,11 @@ Kolumngränser mellan tal som står i linje utan lodrät linje emellan
 import unittest
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.talkolumner import etiketterade, granser
+from kommunhandlingar.konvertering.talkolumner import (
+    etiketter_utanfor,
+    etiketterade,
+    granser,
+)
 
 RUBRIK = [
     Falt("Namn", 0, 30),
@@ -125,6 +129,23 @@ class TestEtiketterade(unittest.TestCase):
 
     def test_streck_ar_ingen_etikett(self):
         self.assertFalse(etiketterade([["Utfall", "Budget"], ["–", "4 054"]]))
+
+
+def ord_vid(x0: float, x1: float, topp: float) -> list[dict]:
+    return [{"text": "Intäkter", "x0": x0, "x1": x1, "top": topp, "bottom": topp + 8}]
+
+
+class TestEtiketterUtanfor(unittest.TestCase):
+    BBOX = (100, 0, 300, 40)
+
+    def test_text_till_vanster_i_hojd_med_tabellen(self):
+        self.assertTrue(etiketter_utanfor(self.BBOX, ord_vid(10, 60, 22)))
+
+    def test_etikett_med_punktledare_in_over_kanten(self):
+        self.assertTrue(etiketter_utanfor(self.BBOX, ord_vid(30, 113, 22)))
+
+    def test_text_till_vanster_ovanfor_tabellen_raknas_inte(self):
+        self.assertFalse(etiketter_utanfor(self.BBOX, ord_vid(10, 60, -20)))
 
 
 if __name__ == "__main__":
