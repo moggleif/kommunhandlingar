@@ -16,6 +16,18 @@ from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
 
 SKRIPT = Path(__file__).with_name("kalender.js")
 ADR = "/blob/main/docs/decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md"
+INLEDNING = (
+    "<p>Organens sammanträden månad för månad och som lista från idag. "
+    "Välj vilka organ som visas.</p>"
+)
+METOD = (
+    "<p>Datumen är lästa ur organens mötessidor och ur deras beslut om "
+    "sammanträdesdagar, och varje sammanträde har sin källa i listan. Inställda "
+    "möten och planeringsdagar är inte med, och tid och plats står där källan "
+    "anger dem. Ett datum är osäkert när källan är svår att läsa, eller när den "
+    "anger en veckodag som datumet inte stämmer med. Ett osäkert datum har ett "
+    "frågetecken och streckad ram.</p>"
+)
 STIL = """
 [hidden] { display: none !important; }
 .ruta { display: inline-block; border: 2px solid; border-radius: 3px;
@@ -24,6 +36,7 @@ STIL = """
 table.kalender { table-layout: fixed; width: 100%; min-width: 44rem; }
 table.kalender td { height: 5rem; }
 .dag { display: block; font-size: 0.8rem; color: #555; }
+details { margin-bottom: 1rem; }
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
 """
 
@@ -35,7 +48,8 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
     innehall = (
         stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)])
         + f"<style>{STIL}{stil(farg)}</style>"
-        + inledning(mall)
+        + INLEDNING
+        + kvalitet(mall, sammantraden, namn)
         + urval(farg, namn)
         + kalendervyer.manader(sammantraden)
         + kalendervyer.lista(sammantraden, namn)
@@ -44,13 +58,31 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
     return sida(mall, adress, f"Kalender – {kommun.namn}", innehall)
 
 
-def inledning(mall: Mall) -> str:
+def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
+    osakra = [s for s in sammantraden if s.osakert]
+    adr = f'<a href="{escape(mall.repo + ADR)}">ADR-0032</a>'
     return (
-        "<p>Organens sammanträden, lästa ur deras beslut om sammanträdesdagar "
-        "och ur kommunens mötessidor. Varje sammanträde har sin källa i listan. "
-        "Ett datum som är osäkert inläst har ett frågetecken och streckad ram, "
-        f'och skälet står i listan. Hur kalendern tas fram står i <a href="'
-        f'{escape(mall.repo + ADR)}">ADR-0032</a>.</p>'
+        f'<details id="kvalitet"><summary>Kvalitet: {len(osakra)} av '
+        f"{len(sammantraden)} datum är osäkra</summary>{METOD}"
+        f"<p>Hur och varför står i {adr}.</p>"
+        f'<h2 id="osakra">Osäkra datum</h2>{osakra_tabell(osakra, namn)}</details>'
+    )
+
+
+def osakra_tabell(osakra: list[Sammantrade], namn: dict[str, str]) -> str:
+    if not osakra:
+        return "<p>Inga.</p>"
+    huvud = "".join(
+        f'<th scope="col">{k}</th>' for k in ["Datum", "Organ", "Skäl", "Källa"]
+    )
+    rader = "".join(
+        f"<tr><td>{kalendervyer.datumtext(s)}</td><td>{escape(namn[s.organ])}</td>"
+        f"<td>{escape(s.osakert)}</td><td>{kalendervyer.kallank(s.kalla)}</td></tr>"
+        for s in osakra
+    )
+    return (
+        f'<div class="tabell"><table><thead><tr>{huvud}</tr></thead>'
+        f"<tbody>{rader}</tbody></table></div>"
     )
 
 

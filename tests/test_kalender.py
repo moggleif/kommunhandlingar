@@ -119,10 +119,19 @@ class TestSidan(unittest.TestCase):
         self.assertIn('data-organ="fsn">FSN 17:00</span>', self.html)
         self.assertIn('data-organ="fsn-au">FSN-AU</span>', self.html)
 
-    def test_osakert_mark_i_text_och_skalet_i_listan(self):
+    def test_osakert_markt_i_vyerna_och_skalet_under_kvalitet(self):
         self.assertIn("ruta o-bun osakert", self.html)
         self.assertIn(">BUN ?</span>", self.html)
-        self.assertIn("Osäkert: Källan säger lördag &lt;5 dec&gt;.", self.html)
+        self.assertIn('2026-12-05<br><a href="#osakra">osäkert</a>', self.html)
+        kvalitet = self.html.split('<details id="kvalitet">')[1].split("</details>")[0]
+        self.assertIn("Kvalitet: 1 av 3 datum är osäkra", kvalitet)
+        self.assertIn("<td>Källan säger lördag &lt;5 dec&gt;.</td>", kvalitet)
+
+    def test_inga_osakra(self):
+        with pool(f"fsn,2027-01-14,,,{PROTOKOLL},\n") as sammantraden:
+            html = kalendersida(Mall([kommun()], REPO, TID), kommun(), sammantraden)
+        self.assertIn("Kvalitet: 0 av 1 datum är osäkra", html)
+        self.assertIn('<h2 id="osakra">Osäkra datum</h2><p>Inga.</p>', html)
 
     def test_alla_manader_och_rader_star_i_sidan(self):
         self.assertIn('data-manad="2026-12"', self.html)
