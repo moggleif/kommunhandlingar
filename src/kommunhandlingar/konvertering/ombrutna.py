@@ -10,12 +10,14 @@ textraderna, utan lodräta linjer (`olinjerade.py`) eller i en ruta
 
 import re
 
+from kommunhandlingar.konvertering.tabeller import forsta_med_text
+
 # Ett ord som binder till nästa rad, ett avstavningsstreck efter en bokstav
-# eller en parentes som inte stängts.
+# eller en parentes som inte stängts. Bindeorden med gemener, så att en
+# romersk etta, som i `Etapp I`, inte räknas.
 FORTSATTER = re.compile(
     r"(?:(?<!\w)(?:och|eller|samt|för|av|i|till|med|på|om|från|vid|som|inom"
-    r"|per|mot|utan|under|över|efter)|[^\W\d_]-|\([^)]*)$",
-    re.IGNORECASE,
+    r"|per|mot|utan|under|över|efter)|[^\W\d_][-‐–\u00ad]|\([^)]*)$"
 )
 
 
@@ -23,7 +25,7 @@ def ombruten(rader: list[list[str]]) -> bool:
     """En etikett i tabellens första kolumn med text som fortsätter på
     nästa rad: den slutar som en ofullständig rad, och nästa etikett börjar
     med liten bokstav."""
-    forsta = next(i for i in range(len(rader[0])) if any(r[i] for r in rader))
+    forsta = forsta_med_text(rader)
     etiketter = [r[forsta] for r in rader]
     return any(map(fortsatter, etiketter, etiketter[1:]))
 

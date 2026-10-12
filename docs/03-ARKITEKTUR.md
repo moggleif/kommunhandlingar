@@ -741,8 +741,10 @@ blir en säker tabell bara när varje steg går ihop:
 
 En etikett som står på en annan höjd än sina tal, tal ur olika rader
 som skulle hamna på samma rad, två tal på samma textrad i en kolumn,
-eller ett ord vars tecken står i olika celler, som etiketterna i ett
-diagram vars rutnät läses som en tabell, gör att tabellen inte delas.
+ett ord vars tecken står i olika celler, som etiketterna i ett diagram
+vars rutnät läses som en tabell, eller en etikett som fortsätter på
+nästa rad (regel 8 i [Tabeller utan lodräta
+linjer](#tabeller-utan-lodräta-linjer)) gör att tabellen inte delas.
 Skyddet gäller bara tabeller som delas: ett diagram med högst ett tal
 per ruta blir en säker tabell som förut. En tom rad står kvar som i en
 tabell med linjer.

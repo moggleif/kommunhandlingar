@@ -36,6 +36,12 @@ class TestOmbruten(unittest.TestCase):
         self.assertFalse(ombruten(tabell("Driftkostnader", "varav lokaler")))
         self.assertFalse(ombruten(tabell("Bidrag", "övrigt")))
 
+    def test_tankstreck_som_avstavning(self):
+        self.assertTrue(ombruten(tabell("Kommun–", "område")))
+
+    def test_romersk_etta_ar_inget_bindeord(self):
+        self.assertFalse(ombruten(tabell("Etapp I", "varav lokaler")))
+
     def test_bindestreck_efter_en_siffra(self):
         self.assertFalse(ombruten(tabell("90-", "summa")))
 
