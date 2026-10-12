@@ -7,7 +7,6 @@ sammanträde, och en lista med en tabell per månad.
 import calendar
 from collections import defaultdict
 from html import escape
-from urllib.parse import urlparse
 
 from kommunhandlingar.webbplats.kalender import Sammantrade
 
@@ -80,13 +79,12 @@ def dagcell(dag: int, rutor: list[str]) -> str:
 def ruta(s: Sammantrade) -> str:
     text = " ".join(filter(None, [s.organ.upper(), s.tid, "?" if s.osakert else ""]))
     klass = f"ruta o-{s.organ}" + (" osakert" if s.osakert else "")
-    return f'<span class="{klass}" data-organ="{s.organ}">{escape(text)}</span> '
+    plats = f' title="{escape(s.plats)}"' if s.plats else ""
+    return f'<span class="{klass}" data-organ="{s.organ}"{plats}>{escape(text)}</span> '
 
 
 def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
-    huvud = "".join(
-        f'<th scope="col">{k}</th>' for k in ["Datum", "Organ", "Tid", "Plats", "Källa"]
-    )
+    huvud = "".join(f'<th scope="col">{k}</th>' for k in ["Datum", "Organ", "Tid"])
     tabeller = "".join(
         f'<section class="listmanad"><h3>{manadsnamn(ar, manad)}</h3>'
         f'<div class="tabell"><table><thead><tr>{huvud}</tr></thead>'
@@ -108,8 +106,6 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
         f'<span class="ruta o-{s.organ}">{s.organ.upper()}</span> '
         + escape(namn[s.organ]),
         escape(s.tid),
-        escape(s.plats),
-        kallank(s.kalla),
     ]
     return (
         f'<tr data-organ="{s.organ}" data-datum="{s.datum.isoformat()}">'
@@ -120,12 +116,3 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
 
 def datumtext(s: Sammantrade) -> str:
     return f"{VECKODAGAR[s.datum.weekday()]} {s.datum.isoformat()}"
-
-
-def kallank(kalla: str) -> str:
-    if kalla.startswith("https://"):
-        return f'<a href="{escape(kalla)}">{escape(urlparse(kalla).netloc)}</a>'
-    organ, _, datum, fil = kalla.split("/", 3)
-    adress = kalla.removesuffix(".md") + ".html"
-    text = f"{organ.upper()} {datum}, {fil.split('-')[0].removesuffix('.md')}"
-    return f'<a href="{escape(adress)}">{escape(text)}</a>'

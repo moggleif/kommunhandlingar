@@ -1263,13 +1263,15 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   också bygget.
 - **Sidan** (`webbplats/kalendersida.py` och `kalendervyer.py`) börjar
   med en kort inledning och en hopfälld del, `<details>`, om kvaliteten:
-  antalet osäkra datum av alla i rubriken, hur datumen tas fram, och en
-  tabell med varje osäkert sammanträde, skälet och källan. Sedan kommer ett
+  antalet osäkra datum av alla i rubriken, hur datumen tas fram, en
+  tabell med varje osäkert sammanträde, skälet och källan, och under
+  rubriken Källor en tabell med en rad per organ och en kolumn per år,
+  där varje cell länkar organets källor det året. Sedan kommer ett
   urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
   två vyer: en tabell per månad från den första till den sista, också
   månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
-  rad per sammanträde: datum, organ, tid, plats och källa. Rutan har
-  organets id med versaler och tiden; ett osäkert sammanträde har ett
+  rad per sammanträde: datum, organ och tid. Rutan har organets id med
+  versaler och tiden, och platsen som `title`; ett osäkert sammanträde har ett
   frågetecken i rutan och i listan ordet "osäkert", som länkar till
   tabellen över de osäkra och har skälet som `title`.
 - **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje

@@ -1,13 +1,15 @@
 """Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
 
-Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen, urvalet
-av organ, en tabell per månad och listan. Skriptet
-i `kalender.js` visar en månad i taget och döljer det som valts bort; utan
-det står allt på sidan.
+Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
+källorna per organ och år, urvalet av organ, en tabell per månad och
+listan. Skriptet i `kalender.js` visar en månad i taget och döljer det som
+valts bort; utan det står allt på sidan.
 """
 
+from collections import defaultdict
 from html import escape
 from pathlib import Path
+from urllib.parse import urlparse
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalendervyer
@@ -23,11 +25,12 @@ INLEDNING = (
 )
 METOD = (
     "<p>Datumen är lästa ur organens mötessidor och ur deras beslut om "
-    "sammanträdesdagar, och varje sammanträde har sin källa i listan. Inställda "
-    "möten och planeringsdagar är inte med, och tid och plats står där källan "
-    "anger dem. Ett datum är osäkert när källan är svår att läsa, eller när den "
-    "anger en veckodag som datumet inte stämmer med. Ett osäkert datum har ett "
-    "frågetecken i månadsvyn och ordet osäkert i listan.</p>"
+    "sammanträdesdagar; källorna står per organ och år under rubriken Källor "
+    "nedan. Inställda möten och planeringsdagar är inte med. Tiden står där "
+    "källan anger den, och platsen visas när man håller över rutan i "
+    "månadsvyn. Ett datum är osäkert när källan är svår att läsa, eller när "
+    "den anger en veckodag som datumet inte stämmer med. Ett osäkert datum "
+    "har ett frågetecken i månadsvyn och ordet osäkert i listan.</p>"
 )
 STIL = """
 [hidden] { display: none !important; }
@@ -66,25 +69,48 @@ def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) 
         f'<details id="kvalitet"><summary>Kvalitet: {len(osakra)} av '
         f"{len(sammantraden)} datum är osäkra</summary>{METOD}"
         f"<p>Hur och varför står i {adr}.</p>"
-        f'<h2 id="osakra">Osäkra datum</h2>{osakra_tabell(osakra, namn)}</details>'
+        f'<h2 id="osakra">Osäkra datum</h2>{osakra_tabell(osakra, namn)}'
+        f'<h2 id="kallor">Källor</h2>'
+        f"{kallor(sammantraden, namn)}</details>"
     )
 
 
 def osakra_tabell(osakra: list[Sammantrade], namn: dict[str, str]) -> str:
     if not osakra:
         return "<p>Inga.</p>"
-    huvud = "".join(
-        f'<th scope="col">{k}</th>' for k in ["Datum", "Organ", "Skäl", "Källa"]
-    )
     rader = "".join(
         f"<tr><td>{kalendervyer.datumtext(s)}</td><td>{escape(namn[s.organ])}</td>"
-        f"<td>{escape(s.osakert)}</td><td>{kalendervyer.kallank(s.kalla)}</td></tr>"
+        f"<td>{escape(s.osakert)}</td><td>{kallank(s.kalla)}</td></tr>"
         for s in osakra
     )
+    return tabell(["Datum", "Organ", "Skäl", "Källa"], rader)
+
+
+def kallor(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
+    per_organ_ar = defaultdict(dict)
+    for s in sammantraden:
+        per_organ_ar[(s.organ, s.datum.year)][s.kalla] = None
+    ar = sorted({a for _, a in per_organ_ar})
+    rader = "".join(
+        f'<tr><th scope="row">{escape(namn[organ])}</th>'
+        + "".join(f"<td>{kallcell(per_organ_ar.get((organ, a), {}))}</td>" for a in ar)
+        + "</tr>"
+        for organ in namn
+        if organ in {o for o, _ in per_organ_ar}
+    )
+    return tabell(["Organ", *ar], rader)
+
+
+def tabell(rubriker: list, rader: str) -> str:
+    huvud = "".join(f'<th scope="col">{r}</th>' for r in rubriker)
     return (
         f'<div class="tabell"><table><thead><tr>{huvud}</tr></thead>'
         f"<tbody>{rader}</tbody></table></div>"
     )
+
+
+def kallcell(kallor_i_cellen: dict[str, None]) -> str:
+    return "<br>".join(map(kallank, kallor_i_cellen))
 
 
 def urval(farg: dict[str, tuple[str, str]], namn: dict[str, str]) -> str:
@@ -95,3 +121,12 @@ def urval(farg: dict[str, tuple[str, str]], namn: dict[str, str]) -> str:
         for organ in farg
     )
     return f'<fieldset class="urval"><legend>Organ som visas</legend>{rutor}</fieldset>'
+
+
+def kallank(kalla: str) -> str:
+    if kalla.startswith("https://"):
+        return f'<a href="{escape(kalla)}">{escape(urlparse(kalla).netloc)}</a>'
+    organ, _, datum, fil = kalla.split("/", 3)
+    adress = kalla.removesuffix(".md") + ".html"
+    text = f"{organ.upper()} {datum}, {fil.split('-')[0].removesuffix('.md')}"
+    return f'<a href="{escape(adress)}">{escape(text)}</a>'
