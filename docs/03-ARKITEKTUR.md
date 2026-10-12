@@ -571,8 +571,10 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 - **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
-  rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
-  en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
+  rader och två kolumner och minst ett ord, varje ord inom dess yta har
+  sin mittpunkt i en cell, och ingen cell rymmer mer än ett tal. Ett
+  rutnät utan text, som stödlinjerna i ett diagram, är ingen tabell
+  ([ADR-0031](decisions/0031-ett-rutnat-utan-text-ar-ingen-tabell.md)). En cell rymmer mer än
   ett tal när
   - två rader i den var för sig är ett tal (med eller utan förtecken,
     decimalpunkt, parentes eller någon av enheterna nedan), ett ensamt streck, eller
@@ -668,7 +670,9 @@ om det är en figur. Sidan står i `figurer` när något av det här gäller:
    eller en ikon har många kurvor på en liten yta, och en tabell har
    linjer och rutor med text i.
 
-Bilder och objekt med mittpunkten i en säker tabell räknas inte. En
+Bilder och objekt med mittpunkten i en säker tabell räknas inte; ett
+diagram vars stödlinjer bildar ett rutnät utan text är ingen tabell och
+räknas. En
 rektangel syns när den har en kantlinje eller en fyllning som inte är
 vit. En stapel med talet inuti räknas inte, så ett diagram med talen i
 staplarna kan missas; ett diagram i en skanning hittas inte alls.

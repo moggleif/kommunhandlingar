@@ -111,6 +111,10 @@ kunna läggas till utan kodändring.
   som inte går att läsa som en tabell utan lodräta linjer står kvar i
   sidans text, och står en siffra ur tabellen där märks sidan
   `tabell-osaker`.
+- **Givet** ett rutnät av linjer utan text, som stödlinjerna i ett
+  diagram
+- **Så** blir det ingen tabell och ingen CSV
+  (issue [#100](https://github.com/moggleif/kommunhandlingar/issues/100)).
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
   den blir ingen CSV, och sidan märks `tabell-osaker`. Står den i texten

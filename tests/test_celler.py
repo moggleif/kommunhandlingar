@@ -1,12 +1,13 @@
-"""Krav: K5, ADR-0016. Kod: src/kommunhandlingar/konvertering/tabeller.py.
+"""Krav: K5, ADR-0016 och ADR-0031. Kod: src/kommunhandlingar/konvertering/tabeller.py.
 
 När en cell i en tabell med linjer rymmer mer än ett tal, och därför inte
 är säker (docs/03-ARKITEKTUR.md#konvertering-och-kvalitet).
 """
 
 import unittest
+from types import SimpleNamespace
 
-from kommunhandlingar.konvertering.tabeller import flera_falt, flera_tal
+from kommunhandlingar.konvertering.tabeller import ar_hel, flera_falt, flera_tal
 
 FLERA = [
     "4 078\n4 054",
@@ -98,6 +99,26 @@ class TestCeller(unittest.TestCase):
     def test_tva_falt_med_text_och_siffror_ar_inte_flera_tal(self):
         lagrum = [ord_("LAS", 0, 15), ord_("7,", 17, 25), ord_("AB", 40, 50)]
         self.assertFalse(flera_falt([*lagrum, ord_("33-35", 52, 75)]))
+
+
+class TestArHel(unittest.TestCase):
+    RUTNAT = SimpleNamespace(
+        bbox=(0, 0, 200, 20),
+        cells=[
+            (0, 0, 100, 10),
+            (100, 0, 200, 10),
+            (0, 10, 100, 20),
+            (100, 10, 200, 20),
+        ],
+        rows=[SimpleNamespace(cells=[0, 1]), SimpleNamespace(cells=[2, 3])],
+    )
+
+    def test_rutnat_utan_text_ar_ingen_tabell(self):
+        self.assertFalse(ar_hel(self.RUTNAT, []))
+
+    def test_rutnat_med_text_ar_en_tabell(self):
+        ord_ = [{"x0": 10, "x1": 40, "top": 2, "bottom": 8}]
+        self.assertTrue(ar_hel(self.RUTNAT, ord_))
 
 
 if __name__ == "__main__":
