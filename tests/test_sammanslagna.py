@@ -27,6 +27,9 @@ class TestFaltets(unittest.TestCase):
     def test_text_over_en_grans_star_i_den_forsta_kolumnen(self):
         self.assertEqual(faltets(Falt("Andel av volymen", 90, 140), GRANSER), 0)
 
+    def test_streck_over_en_grans_star_ingenstans(self):
+        self.assertIsNone(faltets(Falt("–", 90, 110), GRANSER))
+
     def test_tal_over_en_grans_star_ingenstans(self):
         self.assertIsNone(faltets(Falt("8 132", 90, 140), GRANSER))
 

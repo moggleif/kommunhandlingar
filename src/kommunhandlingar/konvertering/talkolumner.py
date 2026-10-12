@@ -7,47 +7,21 @@ utan lodrät linje emellan
 
 from itertools import pairwise
 
-from pdfplumber.table import Table
-
-from kommunhandlingar.konvertering.falt import Falt, falt, radvis
-from kommunhandlingar.konvertering.sammanslagna import kolumn, med_tal
-from kommunhandlingar.konvertering.tabeller import inom, mitt, siffra, talfalt
+from kommunhandlingar.konvertering.falt import Falt
+from kommunhandlingar.konvertering.tabeller import siffra, talfalt
 
 Rader = list[list[Falt]]
 
 
-def tabellens(t: Table, ord_: list[dict], linjer: tuple) -> tuple[float, ...]:
-    """Kolumngränserna efter linjerna och efter talen. Gränser efter talen
-    läggs bara när varje rad med tal under den första har en etikett i
-    tabellens första kolumn med text; annars står etiketterna utanför."""
-    inne = [o for o in ord_ if inom(mitt(o), t.bbox)]
-    if not etiketterade(t, inne, linjer):
-        return linjer
-    return tuple(sorted({*linjer, *granser(falten(inne, linjer))}))
-
-
-def etiketterade(t: Table, inne: list[dict], linjer: tuple) -> bool:
-    kolumnerna = [kolumn(o["x0"], o["x1"], linjer) for o in inne]
-    forsta = min(filter(lambda i: i is not None, kolumnerna), default=None)
-    for rad in t.rows[1:]:
-        i_raden = [
-            (k, med_tal((o["text"],)))
-            for o, k in zip(inne, kolumnerna, strict=True)
-            if inom(mitt(o), rad.bbox)
-        ]
-        har_tal = any(tal for _, tal in i_raden)
-        if har_tal and not any(k == forsta and not tal for k, tal in i_raden):
-            return False
-    return True
-
-
-def falten(inne: list[dict], linjer: tuple) -> list[Rader]:
-    """Tabellens fält rad för rad, för varje kolumn mellan linjerna."""
-    rader = [falt(r, True) for r in radvis(inne)]
-    return [
-        [[f for f in r if kolumn(f.x0, f.x1, (vanster, hoger)) == 0] for r in rader]
-        for vanster, hoger in pairwise(linjer)
-    ]
+def etiketterade(rader: list[list[str]]) -> bool:
+    """Varje rad med siffror under den första har en etikett i tabellens
+    första kolumn med text: en textrad utan siffror och utan streck."""
+    forsta = next(i for i in range(len(rader[0])) if any(r[i] for r in rader))
+    return all(
+        any(t and not siffra(t) and not talfalt(t) for t in r[forsta].split("\n"))
+        for r in rader[1:]
+        if any(map(siffra, r))
+    )
 
 
 def granser(kolumner: list[Rader]) -> list[float]:

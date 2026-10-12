@@ -691,11 +691,12 @@ blir en säker tabell bara när varje steg går ihop:
    grupp ska ha minst två tal, eller inget (en rubrik över en tom
    kolumn), och högst ett tal per textrad. Gränsen läggs mitt i
    mellanrummet mellan två grupper, och före den första gruppen när
-   text står till vänster om den. Varje rad med tal under tabellens
-   första rad ska ha en etikett, ett ord utan tal, i tabellens första
-   kolumn med text, och står gränserna i den kolumnen ska etiketterna
-   stå till vänster om talen; annars står etiketterna utanför tabellen
-   och inga gränser läggs.
+   text står till vänster om den. Står gränserna i tabellens första
+   kolumn ska text stå till vänster om talen. När tabellen är delad
+   (steg 3 och 4) ska varje rad med siffror under den första ha en
+   etikett i den delade tabellens första kolumn med text: en textrad
+   utan siffror och utan streck. Annars står etiketterna utanför
+   tabellen, och den delas inte.
 2. **Cellerna:** en cell som ligger inom en kolumn (med 2 punkters
    marginal) skrivs i den. En cell som går över flera kolumner delas
    rad för rad i fält, med fälten avgränsade som i tabellerna utan

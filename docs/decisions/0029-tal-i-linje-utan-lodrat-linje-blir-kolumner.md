@@ -51,12 +51,13 @@ blir tvetydig. Reglerna står i
   varje mellanrum, och före den första gruppen när text står till
   vänster. Talen behöver inte stå med högerkanten i linje, som i
   ADR-0016, eftersom talen i personaltabellerna är centrerade.
-* **Etiketterna ska finnas:** varje rad med tal under tabellens första
-  rad ska ha en etikett, ett ord utan tal, i tabellens första kolumn
-  med text. En tabell med linjer runt bara talen, där etiketterna står
-  utanför, får inga gränser, eftersom raderna då skulle bli tal utan
-  etikett. En rubrik, en källrad eller ett streck räcker inte som
-  etiketter.
+* **Etiketterna ska finnas:** i den delade tabellen ska varje rad med
+  siffror under den första ha en etikett i första kolumnen med text: en
+  textrad utan siffror och utan streck. En tabell med linjer runt bara
+  talen, där etiketterna står utanför, delas därför inte, eftersom
+  raderna då skulle bli tal utan etikett. En rubrik, en källrad, ett
+  streck eller en enhet som `%` räcker inte som etikett. Kravet prövas
+  på den delade tabellens rader, eftersom en ruta kan rymma flera.
 * **Text över en gräns:** ett fält utan siffror som går över en
   kolumngräns skrivs i den första kolumn det täcker, men bara i
   tabellens första rad, där rubrikerna står. Längre ner kan det vara ett
@@ -169,6 +170,11 @@ första raden. Facit
    källrad eller streck, och att mitt emellan inte skilde något när
    textraderna står tätt. Därför prövas etiketterna per rad i tabellen,
    och marginalen för mitt emellan är också en sjättedel av avståndet.
+7. **Tredje granskningsvarvet** hittade att prövningen per rad i
+   tabellen räknade `%` i `94,3 %` som en etikett, och att en hög rad
+   med en rubrik och två rader tal hade en etikett bara för den ena.
+   Därför prövas etiketterna på den delade tabellens rader, med hela
+   textrader.
 
 ### Mätningen
 

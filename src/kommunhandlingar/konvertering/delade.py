@@ -8,11 +8,13 @@ efter rutornas textrader
 (docs/03-ARKITEKTUR.md#tabeller-med-linjer-och-flera-tal-i-en-cell).
 """
 
+from itertools import pairwise
+
 from pdfplumber.table import Table
 
 from kommunhandlingar.konvertering import talkolumner
-from kommunhandlingar.konvertering.falt import RADTOLERANS
-from kommunhandlingar.konvertering.sammanslagna import I_LINJE, Textrad, cellens
+from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
+from kommunhandlingar.konvertering.sammanslagna import I_LINJE, Textrad, cellens, kolumn
 from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfalt
 
 
@@ -21,7 +23,8 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
     (K19); None när tabellen inte går att dela."""
     if any(over_linje(o, t.cells) for o in ord_ if inom(mitt(o), t.bbox)):
         return None
-    granser = talkolumner.tabellens(t, ord_, kolumngranser(t))
+    linjer = kolumngranser(t)
+    granser = tuple(sorted({*linjer, *talkolumner.granser(falten(t, ord_, linjer))}))
     rader: list[list[str]] = []
     for nr, rad in enumerate(t.rows):
         placerat = placera(rad.cells, ord_, granser)
@@ -29,6 +32,8 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
         if delrader is None:
             return None
         rader += delrader
+    if granser != linjer and not talkolumner.etiketterade(rader):
+        return None
     return rader, granser
 
 
@@ -40,6 +45,15 @@ def over_linje(o: dict, celler: list[tuple]) -> bool:
         for t in o["chars"]
     }
     return len(i_celler - {None}) > 1
+
+
+def falten(t: Table, ord_: list[dict], linjer: tuple) -> list[talkolumner.Rader]:
+    """Tabellens fält textrad för textrad, för varje kolumn mellan linjerna."""
+    rader = [falt(r, True) for r in radvis([o for o in ord_ if inom(mitt(o), t.bbox)])]
+    return [
+        [[f for f in r if kolumn(f.x0, f.x1, (vanster, hoger)) == 0] for r in rader]
+        for vanster, hoger in pairwise(linjer)
+    ]
 
 
 def kolumngranser(t: Table) -> tuple[float, ...]:
