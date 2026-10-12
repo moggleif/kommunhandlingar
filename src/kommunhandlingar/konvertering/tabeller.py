@@ -104,6 +104,11 @@ def enhet(text: str) -> bool:
     return re.fullmatch(ENHET, text, re.I) is not None
 
 
+def forsta_med_text(rader: list[list[str]]) -> int:
+    """Tabellens första kolumn med text, där etiketterna står."""
+    return next(i for i in range(len(rader[0])) if any(r[i] for r in rader))
+
+
 def siffra(text: str) -> bool:
     return any(c.isdigit() for c in text)
 

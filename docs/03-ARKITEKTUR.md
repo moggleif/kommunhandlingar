@@ -741,8 +741,10 @@ blir en säker tabell bara när varje steg går ihop:
 
 En etikett som står på en annan höjd än sina tal, tal ur olika rader
 som skulle hamna på samma rad, två tal på samma textrad i en kolumn,
-eller ett ord vars tecken står i olika celler, som etiketterna i ett
-diagram vars rutnät läses som en tabell, gör att tabellen inte delas.
+ett ord vars tecken står i olika celler, som etiketterna i ett diagram
+vars rutnät läses som en tabell, eller en etikett som fortsätter på
+nästa rad (regel 8 i [Tabeller utan lodräta
+linjer](#tabeller-utan-lodräta-linjer)) gör att tabellen inte delas.
 Skyddet gäller bara tabeller som delas: ett diagram med högst ett tal
 per ruta blir en säker tabell som förut. En tom rad står kvar som i en
 tabell med linjer.
@@ -804,6 +806,16 @@ och blir en osäker tabell som förut.
 7. **Ensam:** inget annat ord på sidan, inte heller i en tabell med
    linjer, får ha sin mittpunkt inom den rektangel som omsluter tabellens
    ord.
+8. **Hela etiketter:** en etikett får inte fortsätta på nästa rad
+   ([ADR-0030](decisions/0030-en-ombruten-etikett-gor-tabellen-osaker.md)).
+   En etikett fortsätter när dess sista textrad slutar med ett ord som
+   binder, som `för`, `av` eller `och`, med ett avstavningsstreck efter
+   en bokstav eller med en parentes som inte stängts, och nästa rads
+   etikett börjar med liten bokstav, som `Kostnader för⏎verksamheten`.
+   Samma regel gäller en tabell med linjer som delats i rader (steg 3
+   och 4 i [Tabeller med linjer och flera tal i en
+   cell](#tabeller-med-linjer-och-flera-tal-i-en-cell)), prövad i den
+   delade tabellens första kolumn med text.
 
 Varje rad i CSV:n är etiketten följd av en cell per kolumn, tom där
 raden saknar värde. En rubrikrad har sin etikett i första cellen.

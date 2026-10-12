@@ -89,7 +89,9 @@ förut.
 * Bra, eftersom budgettabeller med talen i linje blir CSV: i två
   budgetar och två årsredovisningar 98 tabeller med 612 rader, utan ett enda fel tal.
 * Bra, eftersom inget nytt beroende behövs, och regeln är kort nog att
-  läsa i ARKITEKTUR.
+  läsa i ARKITEKTUR. (En etikett som fortsätter på nästa rad fäller
+  tabellen sedan
+  [ADR-0030](0030-en-ombruten-etikett-gor-tabellen-osaker.md).)
 * Bra, eftersom en cell med flera tal, i de former reglerna känner igen,
   inte längre blir en del av en CSV.
 * Dåligt, eftersom många tabeller förblir osäkra: tabeller med en

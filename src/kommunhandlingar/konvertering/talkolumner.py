@@ -9,7 +9,13 @@ import re
 from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
-from kommunhandlingar.konvertering.tabeller import enhet, mitt, siffra, talfalt
+from kommunhandlingar.konvertering.tabeller import (
+    enhet,
+    forsta_med_text,
+    mitt,
+    siffra,
+    talfalt,
+)
 
 Rader = list[list[Falt]]
 
@@ -24,7 +30,7 @@ def etiketter_utanfor(bbox: tuple, ord_: list[dict]) -> bool:
 def etiketterade(rader: list[list[str]]) -> bool:
     """Varje rad med siffror under den första har en etikett i den delade
     tabellens första kolumn med text. Den första raden är rubrikerna."""
-    forsta = next(i for i in range(len(rader[0])) if any(r[i] for r in rader))
+    forsta = forsta_med_text(rader)
     return all(
         any(map(etikett, r[forsta].split("\n")))
         for r in rader[1:]

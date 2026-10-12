@@ -14,6 +14,7 @@ from pdfplumber.table import Table
 
 from kommunhandlingar.konvertering import talkolumner
 from kommunhandlingar.konvertering.falt import RADTOLERANS, falt, radvis
+from kommunhandlingar.konvertering.ombrutna import ombruten
 from kommunhandlingar.konvertering.sammanslagna import I_LINJE, Textrad, cellens, kolumn
 from kommunhandlingar.konvertering.tabeller import flera_tal, inom, mitt, talfalt
 
@@ -37,7 +38,7 @@ def tabell(t: Table, ord_: list[dict]) -> tuple[list, tuple] | None:
         talkolumner.etiketter_utanfor(t.bbox, ord_)
         or not talkolumner.etiketterade(rader)
     )
-    return None if utan_etiketter else (rader, granser)
+    return None if utan_etiketter or ombruten(rader) else (rader, granser)
 
 
 def over_linje(o: dict, celler: list[tuple]) -> bool:

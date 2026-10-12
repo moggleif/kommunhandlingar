@@ -125,6 +125,8 @@ Poolens version höjs till 0.7.0. Poolen rättas när den konverteras om
   utan lodräta linjer (ADR-0016) läser samma ruta likadant i dag, så en
   regel för det hör hemma i båda
   ([#97](https://github.com/moggleif/kommunhandlingar/issues/97)).
+  (Ändrat i
+  [ADR-0030](0030-en-ombruten-etikett-gor-tabellen-osaker.md).)
 * Dåligt, eftersom ett streck räknas som ett tal, också när det är en
   punkt i en lista med en bred lucka efter. En sådan rad över hela
   bredden med punkter på olika höjder fäller tabellen, som då läses som
