@@ -78,6 +78,11 @@ kunna läggas till utan kodändring.
   som den stod, utan listor, rubriker, länkar eller HTML som inte kommer
   från konverteringen, och varje `.md` som når `main` klarar
   Markdown-lint ([#65](https://github.com/moggleif/kommunhandlingar/issues/65)).
+- **Givet** ett tal i textlagret med ett mellanslag som ligger över en av
+  dess siffror, som i en PDF ur ett kalkylark
+  (issue [#91](https://github.com/moggleif/kommunhandlingar/issues/91))
+- **När** dokumentet konverteras
+- **Så** står talet som på sidan, `476,7` och inte `4 76,7`.
 
 ## K5 — Tabeller blir CSV
 
