@@ -9,7 +9,7 @@ from kommunhandlingar.webbplats import malgraf, statusikon
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
 from tests.test_mal import BUDGET, HANDLINGAR, RADER, pool
-from tests.test_webbplats import REPO, TID, exempelby
+from tests.test_webbplats import REPO, TID, exempelby, protokoll
 
 
 class TestGrupper(unittest.TestCase):
@@ -83,7 +83,7 @@ class TestGruppsidan(unittest.TestCase):
     def sida(self) -> str:
         with pool(self.RADER) as malen:
             mall = Mall([exempelby()], REPO, TID)
-            return malsida(mall, exempelby(), malen, {2022})
+            return malsida(mall, exempelby(), malen, protokoll(2022))
 
     def test_omdopta_rubriker_under_varandra(self):
         html = self.sida()
@@ -98,10 +98,10 @@ class TestGruppsidan(unittest.TestCase):
         tabell = html[html.index('id="antal"') : html.index('id="ar-')]
         rader = re.findall(r'<tr><th scope="row">(\d+)</th>(.*?)</tr>', tabell)
         tal = {ar: re.findall(r'"tal">(.*?)<', celler) for ar, celler in rader}
-        self.assertEqual(tal["2022"], ["1", "0", "0", "0"])
-        self.assertEqual(tal["2023"], ["–"] * 4)
-        self.assertEqual(tal["2024"], ["0", "1", "1", "1"])
-        self.assertEqual(tal["2025"], ["1", "1", "0", "0"])
+        self.assertEqual(tal["2022"], ["1", "0", "0", "0", "0", "0"])
+        self.assertEqual(tal["2023"], ["–"] * 6)
+        self.assertEqual(tal["2024"], ["0", "1", "1", "1", "–", "–"])
+        self.assertEqual(tal["2025"], ["1", "1", "0", "0", "–", "–"])
 
     def test_grafen_bryts_vid_ar_utan_varden(self):
         graf = malgraf.graf([2022, 2023, 2024, 2025], [("A", [1, None, 2, 3])])

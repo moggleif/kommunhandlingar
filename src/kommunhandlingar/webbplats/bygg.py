@@ -1,5 +1,6 @@
-"""Krav: K14, K18, K22 och K26 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
-tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py.
+"""Krav: K14, K18, K22, K26 och K28 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
+tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
+tests/test_uppfoljningar.py.
 """
 
 import shutil
@@ -9,7 +10,7 @@ from pathlib import Path
 from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import kalender, mal, sidor
+from kommunhandlingar.webbplats import kalender, mal, sidor, uppfoljningar
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.mall import Mall
@@ -22,7 +23,9 @@ from kommunhandlingar.webbplats.rakning import okanda, rakna
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
     kalendrar = kommunfiler(rot / "kalender", kommuner)
-    mall = Mall(kommuner, repo, byggd, kalendrar, las_malen(rot, kommuner))
+    malen = las_kommunfiler(rot, "mal", kommuner, mal.las)
+    uppfoljda = las_kommunfiler(rot, "uppfoljningar", kommuner, uppfoljningar.las)
+    mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     for kommun in kommuner:
@@ -51,7 +54,7 @@ def bygg_organen(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> 
         html = organsida(mall, kommun, rad, organets)
         (ut / kommun.id / f"{rad.id}.html").write_text(html, encoding="utf-8")
         if malen := [m for m in mall.malen.get(kommun.id, []) if m.organ == rad.id]:
-            html = malsida(mall, kommun, malen, {int(d["datum"][:4]) for d in organets})
+            html = malsida(mall, kommun, malen, organets)
             (ut / malsidans_adress(kommun, rad.id)).write_text(html, encoding="utf-8")
 
 
@@ -62,10 +65,11 @@ def kommunfiler(katalog: Path, kommuner: list[Kommun]) -> frozenset[str]:
     return filer
 
 
-def las_malen(rot: Path, kommuner: list[Kommun]) -> dict[str, list[mal.Mal]]:
-    filer = kommunfiler(rot / "mal", kommuner)
+# Målen och uppföljningarna läses per kommun ur <katalog>/<kommun>.csv.
+def las_kommunfiler(rot: Path, katalog: str, kommuner: list[Kommun], las) -> dict:
+    filer = kommunfiler(rot / katalog, kommuner)
     return {
-        k.id: mal.las(rot / "mal" / f"{k.id}.csv", k, rot / "data" / k.id)
+        k.id: las(rot / katalog / f"{k.id}.csv", k, rot / "data" / k.id)
         for k in kommuner
         if k.id in filer
     }

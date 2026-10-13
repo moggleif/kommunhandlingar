@@ -228,6 +228,16 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   (2018–2019) och Kungsbackas unika arbetsmarknadsprocess (2020–2025).
   Målfilen grupperar dem, och märker som tolkade de kopplingar där
   formuleringen också är ny.
+- **Protokollen** visar nämndens egen behandling av målen. Nämnden
+  godkänner årsredovisningen, delårsrapporten och uppföljningen per april,
+  och noterar till protokollet dragningar om ekonomi och måluppföljning
+  (två extra tillfällen per år sedan 2024), måldagar, budgetarbete,
+  genomförandeplaner och enskilda mål. GA:s protokoll saknas i poolen för
+  2015–2017 och 2019, och 2020, 2022 och 2023 har bara några få. Delår 2
+  2024 justerades direkt i ett separat protokoll som inte finns i poolen.
+  Paragraferna står i `uppfoljningar/kungsbacka.csv` (K28). Uppföljningar
+  av verksamheten, som kvartalsuppföljningen av arbetsmarknaden, står inte
+  med.
 - **Andra rapporter under året** finns: uppföljningen av den digitala
   transformationsplanen (handlingarna 2021-06-23) nämner direktivet
   Digital mognad och står i målfilen som `rapport`.

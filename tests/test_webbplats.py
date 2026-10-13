@@ -61,6 +61,11 @@ def dokument(organ="fsn", datum="2024-05-02", typ="protokoll", **andra) -> str:
     return DOKUMENT.format(organ=organ, datum=datum, typ=typ, **falt)
 
 
+def protokoll(*ar: int, kvalitet: str = "full") -> list[dict]:
+    """Ett organs dokument som målsidan får dem: ett protokoll per år."""
+    return [dict(datum=f"{a}-05-02", typ="protokoll", kvalitet=kvalitet) for a in ar]
+
+
 def exempelby():
     return las(FIXTURER / "exempelby.toml")
 

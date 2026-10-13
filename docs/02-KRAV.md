@@ -827,3 +827,28 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   har också antalet uppföljningar som målfilen läser årets mål ur, och
   antalet mål med en bedömning. Ett år utan mål i filen står som tomt, inte
   noll, och linjen bryts där.
+
+## K28 — Uppföljningar och dragningar om målen i nämnden
+
+Issue: [#149](https://github.com/moggleif/kommunhandlingar/issues/149).
+Bygger på K26 och K27. Hur och varför står i
+[ADR-0046](decisions/0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md)
+och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
+
+- **Givet** en kommun med en fil över nämndernas uppföljningar, där varje
+  rad är en paragraf i ett protokoll i poolen, där nämnden godkänner eller
+  tar emot en uppföljning av målen eller noterar en dragning om målen
+- **När** sidan om ett organs mål och direktiv visas
+- **Så** har tabellen över antal per år två kolumner till: uppföljningar i
+  nämnden och dragningar om målen, räknade på mötets år.
+- **Givet** ett år utan protokoll från organet i poolen, eller bara med
+  protokoll som inte gått att hämta
+- **När** sidan visas
+- **Så** står de två kolumnerna tomma det året, inte noll.
+- **Givet** en fil med ett organ som inte står i kommunfilen, ett datum
+  som inte är `ÅÅÅÅ-MM-DD`, en paragraf som inte är ett nummer, ett slag
+  som varken är `uppföljning` eller `dragning`, en källa som inte är en
+  sida i mötets protokoll i poolen, en rubrik som inte står på sidan,
+  samma paragraf två gånger, eller en fil utan kommunfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden i felet.

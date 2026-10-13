@@ -209,6 +209,7 @@ src/kommunhandlingar/
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
+uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (K28)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1516,7 +1517,9 @@ filen (K26), länkad från organets sida.
   en linjegraf i SVG (`webbplats/malgraf.py`) med en linje för nämndmål
   och en för direktiv, skilda med streckning och punktform, och en tabell
   med antal nämndmål, direktiv, uppföljningsdokument i målfilen och
-  rubriker med en bedömning, från första till sista år med mål. Varje rubrik räknas en gång
+  rubriker med en bedömning, och, med en uppföljningsfil, uppföljningar
+  och dragningar i nämnden ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)),
+  från första till sista år med mål. Varje rubrik räknas en gång
   per år. Ett år utan rader står som – och bryter linjen. Sist kommer ett
   avsnitt per år, nyast först, med varje rubrik: slag, spåret den följs
   under, formulering, status som ikon och text för en uppföljning, och
@@ -1526,3 +1529,35 @@ filen (K26), länkad från organets sida.
   klick på en rubrik i översikten visar bara dess spår, i
   översikten och i avsnitten, och bara åren det står med, tills det väljs bort med en knapp. Utan
   skriptet visas allt.
+
+### Uppföljningar i nämnden
+
+Hur och varför står i
+[ADR-0046](decisions/0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md).
+En kommun med en fil `uppfoljningar/<kommun>.csv` får två kolumner till i
+tabellen över antal per år på målsidan (K28). Filen har samma format som
+målfilen, med en rad per paragraf i ett protokoll, sorterad på organ,
+datum och paragraf:
+
+| Kolumn     | Betyder                                                             |
+| ---------- | ------------------------------------------------------------------- |
+| `organ`    | Organets id i kommunfilen.                                          |
+| `datum`    | Mötets datum, `ÅÅÅÅ-MM-DD`.                                         |
+| `paragraf` | Paragrafens nummer.                                                 |
+| `slag`     | `uppföljning` (en uppföljning nämnden godkänner eller tar emot) eller `dragning` (information om målen som nämnden noterar). |
+| `rubrik`   | Paragrafens rubrik ordagrant.                                       |
+| `kalla`    | Sidan i mötets protokoll i poolen, som i målfilen.                  |
+
+- **Bara det som rör målen** står med: årsredovisningen, delårsrapporten
+  och uppföljningen per april, och dragningar om måluppföljning, måldag,
+  budgetarbete, genomförandeplan eller ett visst mål. Uppföljningar av
+  verksamheten som inte gäller målen står inte med.
+- **Kontrollen** (`webbplats/uppfoljningar.py`) stoppar bygget med raden
+  om rubrikerna inte är kolumnerna ovan, organet inte står i kommunfilen,
+  datumet inte är ett datum, paragrafen inte är ett nummer, slaget är
+  något annat, källan inte är en sida i mötets protokoll i poolen,
+  rubriken inte står på sidan, eller samma paragraf står två gånger. En
+  fil utan kommunfil stoppar också bygget.
+- **Räkningen** (`webbplats/malstatistik.py`) går på mötets år. Ett år
+  utan protokoll från organet i poolen, eller bara med protokoll som inte
+  gått att hämta, står som –.
