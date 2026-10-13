@@ -10,7 +10,8 @@ consulted: AI-agenten
 ## Context and Problem Statement
 
 Poolen ska konverteras om en gång, när konverteringen är bra nog
-(ADR-0019, `omkonvertera = false` i kommunfilen). Det finns inget mått på
+(ADR-0019; flaggan `omkonvertera` var avstängd i kommunfilen när
+beslutet togs). Det finns inget mått på
 när den är det. Tal och tabeller ska vara helt rätt eller märkta, men
 ingen vet i dag hur ofta de är det i riktiga handlingar, och en ändring
 som rättar en sorts tabell kan förstöra en annan utan att något test

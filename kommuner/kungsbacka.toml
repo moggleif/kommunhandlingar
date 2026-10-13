@@ -6,10 +6,9 @@
 
 namn = "Kungsbacka kommun"
 
-# Med omkonvertera = true hämtas dokument från en annan version av poolen igen
-# och konverteras om, efter allt nytt (ADR-0019); avstängt tills
-# konverteringen är färdig.
-omkonvertera = false
+# Påslaget för omkonverteringen i #84 (ADR-0019); raden tas bort när
+# poolen är omkonverterad.
+omkonvertera = true
 
 [[organ]]
 id = "ga"

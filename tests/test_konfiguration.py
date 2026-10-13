@@ -34,7 +34,6 @@ class TestKommunfilen(unittest.TestCase):
         self.assertEqual(kommun.organ[0].id, "ga")
         self.assertEqual([o.id for o in kommun.organ[-3:]], ["ks", "ks-au", "kf"])
         self.assertEqual(kommun.kallor[0].wayback, ("ga",))
-        self.assertFalse(kommun.omkonvertera)
 
     def test_utan_arkiv(self):
         self.assertFalse(las(FIXTURER / "exempelby.toml").kallor[0].wayback)
