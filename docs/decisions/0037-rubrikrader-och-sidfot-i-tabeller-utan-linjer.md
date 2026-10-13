@@ -65,7 +65,11 @@ Poolens version höjs till 0.8.8. Poolen rättas när den konverteras om
 * Bra, eftersom nyckeltalens två tabeller och investeringstabellen blir
   hela med sina rubriker, och driftredovisningen blir en CSV. I facit går
   `ratt` från 13 till 15 och `ofullstandiga` från 3 till 1.
-* STICKPROV
+* Bra, eftersom ett stickprov på tio handlingar ur poolen, 1 978 sidor ur
+  textlagret, ändrar två sidor, och båda till det bättre: två tabeller vars
+  rubrikrad `Skolform 2026 2027` och `Kostnadsslag 2026 … 2029` räknades
+  som en rad med tal, och fällde tabellen, blir CSV. Årtalen står några
+  punkter ur linje med kolumnerna, så rubriken står kvar i texten.
 * Dåligt, eftersom driftredovisningens rubrik står kvar i texten. Den har
   rubriker som spänner över flera kolumner (`Bokslut 2025` över fyra) och
   avstavade ord i två rader (`Netto-⏎anslag`), och ingen av dem står i
