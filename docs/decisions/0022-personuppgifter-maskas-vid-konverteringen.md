@@ -72,7 +72,8 @@ att pröva mot hela poolen. Reglerna står i
 * **Versionen** höjs till 0.5.0. Med `omkonvertera = true` i en
   kommunfil (ADR-0019) hämtas och konverteras då hela poolen om. Det
   ändrar inget i maskningen, eftersom poolen redan maskats med samma
-  regel, men det tar många nätter; Kungsbacka har `omkonvertera = false`.
+  regel, men det tar många nätter; Kungsbacka hade `omkonvertera = false` när
+  beslutet togs.
 * **Historiken** lämnas som den är.
 * **Felen i källan** rapporteras till kommunen i en rapport utanför
   repot. Inga issues skrivs om personuppgifter, eftersom de skulle peka ut
