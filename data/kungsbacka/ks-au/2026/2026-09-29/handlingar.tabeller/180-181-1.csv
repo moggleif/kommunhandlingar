@@ -1,0 +1,61 @@
+STÅL OCH METALL,,27.14001,U,Timavgift
+"METALL- OCH
+PLASTYTBEHANDLING,
+AVFETTNING OCH
+FÄRGBORTTAGNING",,28.7001,U,Timavgift
+METALLBEARBETNING,"Motorer, turbiner och
+reaktorer",34.1001,U,Timavgift
+,Motorfordon,34.4001,U,Timavgift
+,Maskinell bearbetning,34.8001,U,Timavgift
+"FÖRBRUKNING AV ORGANISKA
+LÖSNINGSMEDEL",,39.5000,U,Timavgift
+"HANTERING AV BRÄNSLEN OCH
+ANDRA KEMISKA PRODUKTER",,39.7000,U,Timavgift
+"GAS- OCH VÄTSKEFORMIGA
+BRÄNSLEN, EL, VÄRME OCH
+KYLA",Förbränning,40.6001,U,Timavgift
+,Vindkraft,40.10001,U,Timavgift
+,"Värme- och
+kylanläggningar",40.12001,U,Timavgift
+"FORDONSSERVICE OCH
+DRIVMEDELSHANTERING",,50.2000,U,Timavgift
+HAMNAR OCH FLYGPLATSER,Hamnar,63.2002,U,Timavgift
+,Flygplatser,63.5001,U,Timavgift
+LABORATORIER,,73.1000,U,Timavgift
+HÄLSO- OCH SJUKVÅRD,,85.3001,U,Timavgift
+RENING AV AVLOPPSVATTEN,,90.1000,U,Timavgift
+AVFALL,Förbränning,90.2400,U,Timavgift
+,Deponering,90.3420,U,Timavgift
+,"Återvinning av farligt avfall
+som har uppkommit i egen
+verksamhet",90.3910,U,Timavgift
+,Biologisk behandling,90.17001,U,Timavgift
+,"Mekanisk bearbetning och
+sortering",90.8001,U,Timavgift
+,"Lagring som en del av att
+samla in avfall",90.7000,U,Timavgift
+,"Lagring av blandat bygg-
+och rivningsavfall,
+lättfraktion och stoft",90.3510,U,Timavgift
+"SKJUTFÄLT, SKJUTBANOR OCH
+SPORTANLÄGGNINGAR",,92.20000,U,Timavgift
+TEXTILTVÄTTERIER,,93.1000,U,Timavgift
+"ÖVRIGA MILJÖFARLIGA
+VERKSAMHETER",,101.1000,U,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER",Bostäder m.m.,"45 § FMH, punkt 1",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER","Undervisning, vård m.m.","45 § FMH, punkt 2",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER",Samlingslokaler m.m.,"45 § FMH, punkt 3",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER",Hotell m.m.,"45 § FMH, punkt 4",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER","Idrottsanläggningar,
+camping, bad m.m.","45 § FMH, punkt 5",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER","Lokaler för yrkesmässig
+hygienisk behandling","45 § FMH, punkt 6",UH,Timavgift
+"EJ ANMÄLNINGSPLIKTIGA
+HÄLSOSKYDDSVERKSAMHETER","Lokaler för förvaring av
+djur","45 § FMH, punkt 7",UH,Timavgift
