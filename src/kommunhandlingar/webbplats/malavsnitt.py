@@ -60,7 +60,9 @@ def post(mal: Mal) -> str:
     if mal.uppfoljning:
         text = escape(mal.status) or "ingen bedömning i källan"
         prognos = " (prognos)" if mal.prognos else ""
-        delar.append(f"Status: {ikon(mal.status, mal.prognos)} {text}{prognos}")
+        delar.append(
+            f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
+        )
     return "<br>".join([*delar, f"Källa: {kallank(mal.kalla)}"])
 
 

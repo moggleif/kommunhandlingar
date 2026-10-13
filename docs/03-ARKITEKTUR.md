@@ -1460,6 +1460,8 @@ filen (K26), länkad från organets sida.
   | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
   | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
   | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
+  | `uppfoljning` | Tomt för budgeten, annars `prognos` (delårsrapport), `utfall` (årsredovisning) eller `rapport` (annan rapport till nämnden). |
+  | `bedomning`   | Tomt utan uppföljning, annars `uppnatt`, `delvis`, `ej` eller `ingen`: agentens läsning av statusen. |
   | `kalla`       | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna, `#sida-N-M`. |
   | `grupp`       | Tomt, eller en rubrik i filen som målet följs under när det bytt rubrik. |
   | `tolkad`      | Tomt, eller `ja` när platsen i gruppen är en bedömning.    |
@@ -1477,12 +1479,15 @@ filen (K26), länkad från organets sida.
   året inte är fyra siffror, slaget är något annat, källan inte är en
   sida eller sidor som finns i ett av organets dokument i poolen,
   rubriken, formuleringen eller statusen inte står på sidorna, eller
-  samma organ, slag och rubrik står två gånger med samma källa. Med
-  `webbplats/malkontroll.py` stoppar det också om statusen inte har någon
-  ikon, `tolkad` är något annat än tomt eller `ja` i en grupp, samma
-  rubrik har två olika grupper, en grupp inte är en rubrik i filen, eller
-  samma spår samma år står ur både protokollet och ett annat dokument från
-  samma möte. Texten jämförs efter
+  samma organ, slag och rubrik står två gånger med samma källa (den
+  kontrollen och de följande står i `webbplats/malkontroll.py`). Bygget
+  stoppas också om uppföljningen eller bedömningen är okänd, en rad utan
+  uppföljning har en bedömning eller status, en uppföljning saknar
+  bedömning, `tolkad` är något annat än tomt eller `ja` i en grupp, samma
+  rubrik har två olika grupper, två rubriker står i samma spår samma år,
+  en grupp inte är en rubrik i filen utan egen grupp, eller samma spår
+  samma år står ur både protokollet och ett annat dokument från samma
+  möte. Texten jämförs efter
   att radbrytningar och upprepade mellanslag gjorts till ett mellanslag,
   punkter (`-`, `•`, `*`) först i en rad strukits och Markdown-escapningen
   tagits bort; versalerna räknas. En målfil utan kommunfil stoppar också
@@ -1490,15 +1495,11 @@ filen (K26), länkad från organets sida.
 - **Samma rubrik** är samma organ, slag och rubrik utan hänsyn till
   versaler; rubriken visas som den först står. **Ett spår** är samma organ
   och grupp, eller rubrik när gruppen är tom, utan hänsyn till versaler.
-- **Uppföljning och prognos** räknas ur källans datum: en rad ur ett
-  dokument från året eller senare är en uppföljning, och ur ett dokument
-  från samma år en prognos. Budgeten beslutas året före.
-- **Statusikonerna** (`webbplats/statusikon.py`) översätter varje
-  formulering i filen till uppnått, delvis uppnått eller på väg, ej
-  uppnått, eller ingen bedömning i källan. Ikonerna är SVG-figurer med
-  olika form, källans formulering står i pekrutan, en prognos har en
-  streckad ram, och stilen står i `webbplats/mall.py` så att andra sidor
-  kan använda dem.
+- **Statusikonerna** (`webbplats/statusikon.py`) visar bedömningen:
+  uppnått, delvis uppnått eller på väg, ej uppnått, eller ingen bedömning
+  i källan. Ikonerna är SVG-figurer med olika form, källans formulering
+  står i pekrutan, en prognos har en streckad ram, och stilen står i
+  `webbplats/mall.py` så att andra sidor kan använda dem.
 - **Sidan** (`webbplats/malsida.py`) börjar med en kort inledning och en
   hopfälld del om hur målen tagits fram. Sedan kommer ett urval med en
   kryssruta per slag, en teckenförklaring för ikonerna och en översikt:
@@ -1507,14 +1508,15 @@ filen (K26), länkad från organets sida.
   år i poolen eller filen. Spårets rubriker står under varandra i den
   ordning de först står, med en pil före de senare och ordet "tolkad" vid
   en tolkad rubrik. En cell har en punkt när rubriken står med det året,
-  med en ikon för varje uppföljning, och länkar till årets avsnitt. Ett år som varken har dokument från organet i poolen eller mål
+  med en ikon för varje uppföljning, och länkar till årets
+  avsnitt. Ett år som varken har dokument från organet i poolen eller mål
   i filen är en lucka och har ordet "lucka" i kolumnens rubrik; ett år
   med mål ur ett senare dokument, som en årsredovisning, är ingen lucka.
   Efter översikten kommer antalet per år (`webbplats/malstatistik.py`):
   en linjegraf i SVG (`webbplats/malgraf.py`) med en linje för nämndmål
   och en för direktiv, skilda med streckning och punktform, och en tabell
-  med antal nämndmål, direktiv, uppföljningsdokument och rubriker med en
-  status, från första till sista år med mål. Varje rubrik räknas en gång
+  med antal nämndmål, direktiv, uppföljningsdokument i målfilen och
+  rubriker med en bedömning, från första till sista år med mål. Varje rubrik räknas en gång
   per år. Ett år utan rader står som – och bryter linjen. Sist kommer ett
   avsnitt per år, nyast först, med varje rubrik: slag, spåret den följs
   under, formulering, status som ikon och text för en uppföljning, och

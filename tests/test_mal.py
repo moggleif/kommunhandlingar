@@ -18,7 +18,9 @@ from kommunhandlingar.webbplats.malsida import malsida
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
 
 ROT = Path(__file__).parent.parent
-RUBRIK = "organ,ar,slag,rubrik,formulering,status,kalla,grupp,tolkad\n"
+RUBRIK = (
+    "organ,ar,slag,rubrik,formulering,status,uppfoljning,bedomning,kalla,grupp,tolkad\n"
+)
 BUDGET = "fsn/2024/2024-05-02/protokoll.md"
 HANDLINGAR = "fsn/2024/2024-05-02/handlingar.md"
 TEXT = """<!-- sida 1 -->
@@ -40,9 +42,10 @@ Status direktiv Läsfrämjande        Delvis uppnått
 läsfrämjande
 """
 RADER = (
-    f"fsn,2025,nämndmål,Trygga miljöer,Alla ska känna sig trygga.,,{BUDGET}#sida-1,,\n"
-    f"fsn,2024,direktiv,Läsfrämjande,,Delvis uppnått,{BUDGET}#sida-2,,\n"
-    f"fsn,2025,direktiv,läsfrämjande,,,{BUDGET}#sida-3,,\n"
+    "fsn,2025,nämndmål,Trygga miljöer,Alla ska känna sig trygga.,,,,"
+    f"{BUDGET}#sida-1,,\n"
+    f"fsn,2024,direktiv,Läsfrämjande,,Delvis uppnått,prognos,delvis,{BUDGET}#sida-2,,\n"
+    f"fsn,2025,direktiv,läsfrämjande,,,,,{BUDGET}#sida-3,,\n"
 )
 
 
@@ -85,59 +88,65 @@ class TestLasning(unittest.TestCase):
         self.assertIn("rad 2", self.stoppas("fsn,2025,nämndmål\n"))
 
     def test_okant_organ(self):
-        fel = self.stoppas(f"kun,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
+        fel = self.stoppas(f"kun,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'kun'", fel)
 
     def test_ar_som_inte_ar_fyra_siffror(self):
-        fel = self.stoppas(f"fsn,25,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
+        fel = self.stoppas(f"fsn,25,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'25'", fel)
 
     def test_okant_slag(self):
-        fel = self.stoppas(f"fsn,2025,mål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
+        fel = self.stoppas(f"fsn,2025,mål,Trygga miljöer,,,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'mål'", fel)
 
     def test_kalla_utan_sida(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET},,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET},,\n")
         self.assertIn("ingen sida", fel)
 
     def test_kalla_i_ett_annat_organs_dokument(self):
         kalla = BUDGET.replace("fsn/", "bun/")
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1,,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,,,{kalla}#sida-1,,\n")
         self.assertIn("ingen sida", fel)
 
     def test_dokument_som_inte_finns(self):
         kalla = BUDGET.replace("protokoll", "kallelse")
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1,,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,,,{kalla}#sida-1,,\n")
         self.assertIn("inget dokument", fel)
 
     def test_sida_som_inte_finns(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-4,,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-4,,\n")
         self.assertIn("ingen sida i dokumentet", fel)
 
     def test_rubrik_som_inte_star_pa_sidan(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-2,,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-2,,\n")
         self.assertIn("rubriken", fel)
 
     def test_versalerna_raknas(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,trygga miljöer,,,{BUDGET}#sida-1,,\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,trygga miljöer,,,,,{BUDGET}#sida-1,,\n")
         self.assertIn("rubriken", fel)
 
     def test_ett_mal_over_tva_sidor(self):
-        rad = f"fsn,2026,nämndmål,Trygga miljöer,,Delvis uppnått,{BUDGET}#sida-1-2,,\n"
+        rad = (
+            "fsn,2026,nämndmål,Trygga miljöer,,Delvis uppnått,prognos,delvis,"
+            f"{BUDGET}#sida-1-2,,\n"
+        )
         with pool(rad) as malen:
             self.assertEqual(malen[0].status, "Delvis uppnått")
         self.assertIn("ingen sida", self.stoppas(rad.replace("1-2", "2-4")))
 
     def test_formulering_som_inte_star_pa_sidan(self):
-        rad = f"fsn,2025,nämndmål,Trygga miljöer,Alla ska må bra.,,{BUDGET}#sida-1,,\n"
+        rad = (
+            f"fsn,2025,nämndmål,Trygga miljöer,Alla ska må bra.,,,,{BUDGET}#sida-1,,\n"
+        )
         self.assertIn("formuleringen", self.stoppas(rad))
 
     def test_status_som_inte_star_pa_sidan(self):
-        rad = f"fsn,2024,direktiv,Läsfrämjande,,Uppnått,{BUDGET}#sida-2,,\n"
+        rad = "fsn,2024,direktiv,Läsfrämjande,,Uppnått,utfall,uppnatt,"
+        rad += f"{BUDGET}#sida-2,,\n"
         self.assertIn("statusen", self.stoppas(rad))
 
     def test_samma_mal_tva_ganger_ur_samma_kalla(self):
-        rad = f"fsn,2026,direktiv,Läsfrämjande,,,{BUDGET}#sida-2,,\n"
+        rad = f"fsn,2026,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-2,,\n"
         self.assertIn("rad 5", self.stoppas(RADER + rad))
 
 

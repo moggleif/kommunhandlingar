@@ -20,10 +20,9 @@ from kommunhandlingar.webbplats.malstatistik import statistik
 from kommunhandlingar.webbplats.statusikon import ikon, teckenforklaring
 
 SKRIPT = Path(__file__).with_name("mal.js")
-ADR = (
-    "/blob/main/docs/decisions/"
-    "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
-)
+ADR = "/blob/main/docs/decisions/"
+ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
+ADR_0045 = "0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md"
 INLEDNING = (
     "<p>Nämndens egna mål och direktiv år för år, ur nämndbudgetarna, "
     "delårsrapporterna och årsredovisningarna i poolen. Välj ett mål i "
@@ -39,9 +38,9 @@ METOD = (
     "Där källan inte själv säger att det är samma mål, och formuleringen "
     "inte är densamma, är kopplingen en bedömning och rubriken märkt "
     "tolkad.</p>"
-    "<p>Statusen är en ikon för uppföljningens egen formulering, som står "
-    "i pekrutan och i årets avsnitt. En uppföljning under året är en "
-    "prognos och har en streckad ram. Ett år utan dokument i poolen är en "
+    "<p>Statusen är en ikon för uppföljningens bedömning, med källans egen "
+    "formulering i pekrutan och i årets avsnitt. En delårsrapport ger en "
+    "prognos, som har en streckad ram. Ett år utan dokument i poolen är en "
     "lucka i poolen, inte ett år utan mål.</p>"
 )
 STIL = """
@@ -103,10 +102,13 @@ def ordning(mal: Mal) -> tuple[int, int, str]:
 
 
 def om_sidan(mall: Mall) -> str:
-    adr = f'<a href="{escape(mall.repo + ADR)}">ADR-0044</a>'
+    adr = [
+        f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
+        for fil in (ADR_0044, ADR_0045)
+    ]
     return (
         f"<details><summary>Om sidan</summary>{METOD}"
-        f"<p>Hur och varför står i {adr}.</p></details>"
+        f"<p>Hur och varför står i {' och '.join(adr)}.</p></details>"
     )
 
 
@@ -141,7 +143,6 @@ def grupp(nr: int, malen: list[Mal], alla_ar: range) -> str:
     )
 
 
-# En rubrik som följer en annan i samma spår står under den, med en pil.
 def rad(nr: int, foljer: bool, rader: list[Mal], alla_ar: range) -> str:
     forsta = rader[0]
     rubrik = (
@@ -161,5 +162,7 @@ def rad(nr: int, foljer: bool, rader: list[Mal], alla_ar: range) -> str:
 def cell(arets: list[Mal], ar: int) -> str:
     if not arets:
         return ""
-    ikoner = "".join(ikon(m.status, m.prognos) for m in arets if m.uppfoljning)
+    ikoner = "".join(
+        ikon(m.bedomning, m.status, m.prognos) for m in arets if m.uppfoljning
+    )
     return f'<a href="#ar-{ar}" aria-label="Med {ar}">●</a> {ikoner}'

@@ -1,10 +1,9 @@
-"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_mal.py.
+"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_malgrupper.py.
 
-En uppföljnings status som ikon. Källans formulering översätts till en av
-fyra bedömningar; en formulering som inte står här stoppar bygget i
-stället för att gissas. Ikonerna skiljs åt med form, inte bara färg, och
-källans text står kvar i pekrutan. Stilen står i `mall.py`, så att andra
-sidor kan använda dem.
+En uppföljnings bedömning som ikon. Bedömningen står i målfilen bredvid
+källans formulering, som står kvar i pekrutan. Ikonerna skiljs åt med
+form, inte bara färg, och en prognos har en streckad ram. Stilen står i
+`mall.py`, så att andra sidor kan använda dem.
 """
 
 from html import escape
@@ -20,22 +19,9 @@ IKONER = {
     "ej": (RING + f'<path d="M5.5 5.5l5 5M10.5 5.5l-5 5" {DRAG}/>', "ej uppnått"),
     "ingen": (RING, "ingen bedömning i källan"),
 }
-STATUS = {
-    "": "ingen",
-    "Uppnått": "uppnatt",
-    "Vi har nått målet": "uppnatt",
-    "Kommer att uppnås": "uppnatt",
-    "Delvis uppnått": "delvis",
-    "Delvis uppnatt": "delvis",
-    "Vi har inte nått målet men är på rätt väg": "delvis",
-    "På väg att uppnås": "delvis",
-    "Vi har inte nått målet": "ej",
-    "Kommer ej uppnås": "ej",
-}
 
 
-def ikon(status: str, prognos: bool) -> str:
-    bedomning = STATUS[status]
+def ikon(bedomning: str, status: str, prognos: bool) -> str:
     betyder = IKONER[bedomning][1]
     text = f"{betyder}: {status}" if status else betyder
     return bild(bedomning, text + (" (prognos)" if prognos else ""), prognos)
@@ -46,6 +32,7 @@ def teckenforklaring() -> str:
         f"<li>{bild(bedomning, betyder, False)} {betyder}</li>"
         for bedomning, (_, betyder) in IKONER.items()
     )
+    poster += f"<li>{bild('ingen', 'prognos', True)} prognos (streckad ram)</li>"
     return f'<ul class="teckenforklaring">{poster}</ul>'
 
 

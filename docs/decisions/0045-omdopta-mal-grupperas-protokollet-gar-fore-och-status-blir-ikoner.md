@@ -51,8 +51,10 @@ samma diff, gruppen är en rubrik som finns i källan, och bedömningen syns
 på sidan.
 
 * **`grupp`** är tom eller en rubrik i filen för samma organ, oftast den
-  senaste. Rader med samma grupp, eller med en rubrik som är gruppen, är
-  ett spår. Alla rader med samma rubrik har samma grupp.
+  senaste, som inte själv står i en grupp. Rader med samma grupp, eller
+  med en rubrik som är gruppen, är ett spår. Alla rader med samma rubrik
+  har samma grupp, och ett spår har en rubrik per år: två mål som står
+  bredvid varandra samma år är inget namnbyte och grupperas inte.
 * **`tolkad`** är tom eller `ja`, och `ja` bara i en grupp. Den sätts när
   källan inte säger att det är samma mål och formuleringen inte är
   densamma. Kopplingen gäller rubriken i gruppen: en rubrik som har samma
@@ -60,15 +62,14 @@ på sidan.
 * **Protokollet går före handlingarna.** Står samma spår samma år ur både
   protokollet och handlingarna från ett möte (samma katalog i poolen),
   stoppas bygget. Bara protokollets rad ska stå med.
-* **Status som ikon.** Varje formulering i filen översätts i
-  `webbplats/statusikon.py` till en av fyra bedömningar: uppnått, delvis
-  uppnått eller på väg, ej uppnått, och ingen bedömning i källan. En ny
-  formulering stoppar bygget tills den fått en bedömning. Ikonerna är
-  små SVG-figurer med olika form, med källans formulering i pekrutan, och
-  stilen står i den gemensamma sidmallen.
-* **Uppföljning och prognos räknas ur källans datum.** Budgeten beslutas
-  året före. En rad ur ett dokument från samma år eller senare är därför
-  en uppföljning, och en uppföljning från samma år är en prognos.
+* **Uppföljning och bedömning står i målfilen.** `uppfoljning` är tom
+  för budgeten, annars `prognos` (delårsrapport), `utfall`
+  (årsredovisning) eller `rapport` (annan rapport till nämnden).
+  `bedomning` är agentens läsning av statusen: `uppnatt`, `delvis`, `ej`
+  eller `ingen`. Den finns på varje uppföljning och bara där.
+* **Status som ikon.** `webbplats/statusikon.py` visar bedömningen som en
+  liten SVG-figur med egen form, med källans formulering i pekrutan, och
+  en prognos har en streckad ram. Stilen står i den gemensamma sidmallen.
 * **Antal per år.** Sidan har en tabell och en linjegraf i SVG, utan
   skript. Tabellen och grafen visar antal rubriker per år och slag. Tabellen
   visar också antal uppföljningsdokument och antal rubriker med en status.
@@ -80,22 +81,22 @@ på sidan.
 * Good, eftersom en bedömning syns som "tolkad" på sidan och i filen.
 * Good, eftersom en rad ur handlingarna som protokollet ändrat inte går
   att lägga in av misstag.
-* Good, eftersom ikonerna kan användas av andra sidor, och en ny
-  formulering inte kan få fel ikon i tysthet.
+* Good, eftersom ikonerna kan användas av andra sidor, och inget om en
+  kommuns formuleringar eller arbetsår står i koden.
 * Bad, eftersom gruppen är agentens arbete och inte prövas mot källan
   på annat sätt än att rubrikerna finns.
 * Bad, eftersom ikonen förenklar: "Vi har inte nått målet men är på rätt
   väg" och "Delvis uppnått" får samma ikon.
-* Bad, eftersom datumregeln gör en rad ur ett dokument från samma år till
-  en uppföljning, också om dokumentet är ett utkast till budgeten.
+* Bad, eftersom bedömningen och slaget av uppföljning är agentens arbete
+  och skrivs på varje rad.
 * Bad, eftersom antalet uppföljningar bara räknar dokument i målfilen.
   Andra rapporter till nämnden, som kvartalsuppföljningen av
   arbetsmarknadsprocessen, räknas inte förrän deras rader står där.
 
 ### Confirmation
 
-`tests/test_malgrupper.py` prövar grupperna, kontrollerna, antalet och
-grafen med en påhittad kommun. `tests/test_mal.py` prövar ikonerna och
+`tests/test_malgrupper.py` prövar grupperna, kontrollerna, ikonerna,
+antalet och grafen med en påhittad kommun. `tests/test_mal.py` prövar ikonerna och
 att Kungsbackas fil går igenom kontrollen mot poolen.
 
 ## Pros and Cons of the Options
@@ -155,3 +156,24 @@ status. Andra rapporter under året kan läggas till som rader senare.
 Statusen är en ikon för fyra bedömningar och inte för varje formulering.
 Annars skulle ikonerna bli lika många som formuleringarna och inte gå att
 jämföra mellan åren.
+
+Granskningen fann tre fel i första utkastet:
+
+* Översättningen från formulering till bedömning stod i koden, med
+  Kungsbackas ord och ett stavfel ur källan. Det bröt regeln att inget om
+  en kommun hårdkodas.
+* Uppföljning och prognos räknades ur dokumentets datum. Då blev
+  uppföljningen av den digitala transformationsplanen i juni 2021 en
+  prognos.
+* Rubriken "… - fokus på SFI" saknade märkningen tolkad.
+
+Båda uppgifterna står nu i målfilen, och rubriken är märkt. Två rubriker
+som stod bredvid varandra samma år togs ur sina grupper, eftersom de
+inte är namnbyten: Arbetsmarknadsprocess med fokus på näringslivet
+(2019) och Flexibel undervisning (2022). Kontrollen stoppar nu två
+rubriker i samma spår samma år.
+
+Märkningen tolkad sätts inte när formuleringen är densamma. Det är
+snävare än issuet ("en koppling som källan inte gör själv"). Agenten
+redovisade avgränsningen i fas 0, med styrkorna A och B, och
+projektägaren svarade ja.

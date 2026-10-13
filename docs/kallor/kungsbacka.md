@@ -228,6 +228,9 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   (2018–2019) och Kungsbackas unika arbetsmarknadsprocess (2020–2025).
   Målfilen grupperar dem, och märker som tolkade de kopplingar där
   formuleringen också är ny.
+- **Andra rapporter under året** finns: uppföljningen av den digitala
+  transformationsplanen (handlingarna 2021-06-23) nämner direktivet
+  Digital mognad och står i målfilen som `rapport`.
 
 ### Dokumentens innehåll
 

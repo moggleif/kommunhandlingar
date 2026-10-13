@@ -804,22 +804,26 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden: bara protokollets rad ska stå med,
   eftersom det är protokollet som gäller.
-- **Givet** en rad ur en uppföljning, ett dokument från året eller senare
+- **Givet** en rad ur en uppföljning (en delårsrapport, en
+  årsredovisning eller en annan rapport till nämnden), med uppföljningens
+  bedömning i målfilen
 - **När** sidan visas
-- **Så** visas statusen som en ikon: uppnått, delvis uppnått eller på
+- **Så** visas bedömningen som en ikon: uppnått, delvis uppnått eller på
   väg, ej uppnått, eller ingen bedömning i källan. Ikonerna skiljs åt med
-  form och inte bara med färg, källans formulering står i pekrutan och i
-  årets avsnitt, en uppföljning under året är märkt som prognos, och en
-  teckenförklaring står på sidan.
-- **Givet** en status som inte har någon ikon, `tolkad` som inte är tomt
-  eller `ja` i en grupp, en grupp som inte är en rubrik i filen, eller en
-  rubrik med två olika grupper
+  form och inte bara med färg. Källans formulering står i pekrutan och i
+  årets avsnitt, och en prognos ur en delårsrapport har en streckad ram.
+  En teckenförklaring står på sidan.
+- **Givet** en okänd uppföljning eller bedömning, en bedömning eller
+  status på en rad som inte är en uppföljning, en uppföljning utan
+  bedömning, `tolkad` som inte är tomt eller `ja` i en grupp, en grupp
+  som inte är en rubrik i filen eller som själv står i en grupp, en rubrik
+  med två olika grupper, eller två rubriker i samma spår samma år
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.
 - **Givet** sidan om målen
 - **När** den visas
 - **Så** står en tabell och en linjegraf med antal nämndmål och direktiv
   per år, från första till sista år med mål, en linje per slag. Tabellen
-  har också antalet uppföljningar i poolen som redovisar årets mål och
-  antalet mål med en status. Ett år utan mål i filen står som tomt, inte
+  har också antalet uppföljningar som målfilen läser årets mål ur, och
+  antalet mål med en bedömning. Ett år utan mål i filen står som tomt, inte
   noll, och linjen bryts där.

@@ -1,8 +1,8 @@
-"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_mal.py.
+"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_malgrupper.py.
 
 Antalet per år på sidan om ett organs mål och direktiv: nämndmål och
 direktiv med olika rubriker, uppföljningarna i poolen som redovisar dem,
-och rubrikerna med en status i någon av dem. Ett år utan rader är tomt,
+och rubrikerna med en bedömning i någon av dem. Ett år utan rader är tomt,
 inte noll.
 """
 
@@ -12,10 +12,11 @@ from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.malgraf import graf
 
 FORKLARING = (
-    "<p>Varje rubrik räknas en gång per år. En uppföljning är ett "
-    "dokument i poolen från året eller senare, som en delårsrapport eller "
-    "årsredovisningen; budgeten beslutas året före. Ett år utan mål i "
-    "filen står som –, eftersom dokumenten kan saknas i poolen.</p>"
+    "<p>Varje rubrik räknas en gång per år. Uppföljningarna är de "
+    "delårsrapporter, årsredovisningar och andra rapporter till nämnden som "
+    "målen är lästa ur; en uppföljning som inte gått att hämta till poolen "
+    "räknas inte. Ett år utan mål står som –, eftersom dokumenten kan "
+    "saknas i poolen.</p>"
 )
 
 
@@ -24,7 +25,7 @@ class Antal:
     namndmal: int
     direktiv: int
     uppfoljningar: int
-    med_status: int
+    med_bedomning: int
 
 
 def statistik(malen: list[Mal]) -> str:
@@ -50,14 +51,20 @@ def rakna(arets: list[Mal]) -> Antal | None:
         len({m.namn for m in arets if m.slag == "nämndmål"}),
         len({m.namn for m in arets if m.slag == "direktiv"}),
         len({m.kalla.split("#")[0] for m in uppfoljda}),
-        len({m.namn for m in uppfoljda if m.status}),
+        len({m.namn for m in uppfoljda if m.bedomning != "ingen"}),
     )
 
 
 def tabell(ar: range, antal: list[Antal | None]) -> str:
     huvud = "".join(
         f'<th scope="col">{t}</th>'
-        for t in ("År", "Nämndmål", "Direktiv", "Uppföljningar i poolen", "Med status")
+        for t in (
+            "År",
+            "Nämndmål",
+            "Direktiv",
+            "Uppföljningar med målen",
+            "Med bedömning",
+        )
     )
     rader = "".join(
         f'<tr><th scope="row">{a}</th>'
@@ -76,5 +83,10 @@ def tal_i(antal: Antal | None) -> list[str]:
         return ["–"] * 4
     return [
         str(t)
-        for t in (antal.namndmal, antal.direktiv, antal.uppfoljningar, antal.med_status)
+        for t in (
+            antal.namndmal,
+            antal.direktiv,
+            antal.uppfoljningar,
+            antal.med_bedomning,
+        )
     ]

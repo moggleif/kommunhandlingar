@@ -17,8 +17,8 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.malkontroll import Kontroll
 
 KOLUMNER = [
-    *("organ", "ar", "slag", "rubrik", "formulering", "status", "kalla"),
-    *("grupp", "tolkad"),
+    *("organ", "ar", "slag", "rubrik", "formulering", "status"),
+    *("uppfoljning", "bedomning", "kalla", "grupp", "tolkad"),
 ]
 SLAG = ("nämndmål", "direktiv")
 # Ett dokument ligger på <organ>/<år>/<datum>/<namn>.md (ADR-0003). Ett
@@ -42,6 +42,8 @@ class Mal:
     rubrik: str
     formulering: str
     status: str
+    uppfoljning: str
+    bedomning: str
     kalla: str
     grupp: str
     tolkad: str
@@ -50,7 +52,6 @@ class Mal:
     def namn(self) -> tuple[str, str, str]:
         return self.organ, self.slag, self.rubrik.casefold()
 
-    # Ett spår är en grupp av rubriker som följer samma mål, eller en rubrik.
     @property
     def spar(self) -> tuple[str, str]:
         return self.organ, (self.grupp or self.rubrik).casefold()
@@ -63,15 +64,9 @@ class Mal:
     def fran_protokoll(self) -> bool:
         return self.kalla.rsplit("/", 1)[1].startswith("protokoll")
 
-    # Budgeten beslutas året före; ett dokument från året eller senare är
-    # en uppföljning, och en uppföljning under året är en prognos.
-    @property
-    def uppfoljning(self) -> bool:
-        return int(self.kalla.split("/")[1]) >= self.ar
-
     @property
     def prognos(self) -> bool:
-        return int(self.kalla.split("/")[1]) == self.ar
+        return self.uppfoljning == "prognos"
 
 
 def las(fil: Path, kommun: Kommun, data: Path) -> list[Mal]:

@@ -1,6 +1,7 @@
-// Krav: K26 i docs/02-KRAV.md, ADR-0044. Test: tests/test_mal.py.
-// Döljer de slag som valts bort, och visar bara ett mål, och åren det står
-// med, när dess rubrik i översikten väljs, tills knappen visar alla igen.
+// Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045.
+// Test: tests/test_mal.py. Döljer de slag som valts bort, och visar bara
+// ett spår, och åren det står med, när en av dess rubriker i översikten
+// väljs, tills knappen visar alla igen.
 // Utan skriptet står allt.
 (function () {
   var valda = {};
