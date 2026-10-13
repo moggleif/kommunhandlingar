@@ -1,4 +1,4 @@
-"""Krav: K14, K18 och K26 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K14, K18, K26 och K27 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -23,6 +23,11 @@ dl.harkomst dd { margin: 0; overflow-wrap: anywhere; }
 .sida p { white-space: pre-wrap; }
 .markering { font-weight: bold; }
 pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
+.status { display: inline-block; padding: 0.1em; line-height: 0;
+          border: 1px solid transparent; border-radius: 0.3em; cursor: help; }
+.status.prognos { border: 1px dashed currentColor; }
+.status.uppnatt { color: #1a6b2a; } .status.delvis { color: #8a5a00; }
+.status.ej { color: #b00020; } .status.ingen { color: #555; }
 footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
 """
 

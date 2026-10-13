@@ -1,5 +1,6 @@
-"""Krav: K26 i docs/02-KRAV.md, ADR-0044. Kod: src/kommunhandlingar/webbplats/
-mal.py, malsida.py, malavsnitt.py och bygg.py."""
+"""Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045. Kod:
+src/kommunhandlingar/webbplats/mal.py, malsida.py, malavsnitt.py,
+statusikon.py och bygg.py. Grupperna och antalet: tests/test_malgrupper.py."""
 
 import shutil
 import tempfile
@@ -17,8 +18,9 @@ from kommunhandlingar.webbplats.malsida import malsida
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
 
 ROT = Path(__file__).parent.parent
-RUBRIK = "organ,ar,slag,rubrik,formulering,status,kalla\n"
+RUBRIK = "organ,ar,slag,rubrik,formulering,status,kalla,grupp,tolkad\n"
 BUDGET = "fsn/2024/2024-05-02/protokoll.md"
+HANDLINGAR = "fsn/2024/2024-05-02/handlingar.md"
 TEXT = """<!-- sida 1 -->
 
 5.1 Trygga
@@ -31,16 +33,16 @@ känna sig trygga.
 
 <!-- sida 2 -->
 
-Status direktiv Läsfrämjande        Delvis uppnått <b>
+Status direktiv Läsfrämjande        Delvis uppnått
 
 <!-- sida 3 -->
 
 läsfrämjande
 """
 RADER = (
-    f"fsn,2025,nämndmål,Trygga miljöer,Alla ska känna sig trygga.,,{BUDGET}#sida-1\n"
-    f"fsn,2024,direktiv,Läsfrämjande,,Delvis uppnått <b>,{BUDGET}#sida-2\n"
-    f"fsn,2025,direktiv,läsfrämjande,,,{BUDGET}#sida-3\n"
+    f"fsn,2025,nämndmål,Trygga miljöer,Alla ska känna sig trygga.,,{BUDGET}#sida-1,,\n"
+    f"fsn,2024,direktiv,Läsfrämjande,,Delvis uppnått,{BUDGET}#sida-2,,\n"
+    f"fsn,2025,direktiv,läsfrämjande,,,{BUDGET}#sida-3,,\n"
 )
 
 
@@ -56,6 +58,7 @@ def pool(rader: str = RADER, rubrik: str = RUBRIK):
         fil.write_text(rubrik + rader, encoding="utf-8")
         (data / BUDGET).parent.mkdir(parents=True)
         (data / BUDGET).write_text(budget(), encoding="utf-8")
+        (data / HANDLINGAR).write_text(budget(), encoding="utf-8")
         yield mal.las(fil, exempelby(), data)
 
 
@@ -64,7 +67,7 @@ class TestLasning(unittest.TestCase):
         with pool() as malen:
             self.assertEqual(len(malen), 3)
             self.assertEqual(malen[0].ar, 2025)
-            self.assertEqual(malen[1].status, "Delvis uppnått <b>")
+            self.assertEqual(malen[1].status, "Delvis uppnått")
 
     def test_samma_mal_utan_hansyn_till_versaler(self):
         with pool() as malen:
@@ -82,59 +85,59 @@ class TestLasning(unittest.TestCase):
         self.assertIn("rad 2", self.stoppas("fsn,2025,nämndmål\n"))
 
     def test_okant_organ(self):
-        fel = self.stoppas(f"kun,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1\n")
+        fel = self.stoppas(f"kun,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'kun'", fel)
 
     def test_ar_som_inte_ar_fyra_siffror(self):
-        fel = self.stoppas(f"fsn,25,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1\n")
+        fel = self.stoppas(f"fsn,25,nämndmål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'25'", fel)
 
     def test_okant_slag(self):
-        fel = self.stoppas(f"fsn,2025,mål,Trygga miljöer,,,{BUDGET}#sida-1\n")
+        fel = self.stoppas(f"fsn,2025,mål,Trygga miljöer,,,{BUDGET}#sida-1,,\n")
         self.assertIn("'mål'", fel)
 
     def test_kalla_utan_sida(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET},,\n")
         self.assertIn("ingen sida", fel)
 
     def test_kalla_i_ett_annat_organs_dokument(self):
         kalla = BUDGET.replace("fsn/", "bun/")
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1,,\n")
         self.assertIn("ingen sida", fel)
 
     def test_dokument_som_inte_finns(self):
         kalla = BUDGET.replace("protokoll", "kallelse")
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{kalla}#sida-1,,\n")
         self.assertIn("inget dokument", fel)
 
     def test_sida_som_inte_finns(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-4\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-4,,\n")
         self.assertIn("ingen sida i dokumentet", fel)
 
     def test_rubrik_som_inte_star_pa_sidan(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-2\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-2,,\n")
         self.assertIn("rubriken", fel)
 
     def test_versalerna_raknas(self):
-        fel = self.stoppas(f"fsn,2025,nämndmål,trygga miljöer,,,{BUDGET}#sida-1\n")
+        fel = self.stoppas(f"fsn,2025,nämndmål,trygga miljöer,,,{BUDGET}#sida-1,,\n")
         self.assertIn("rubriken", fel)
 
     def test_ett_mal_over_tva_sidor(self):
-        rad = f"fsn,2026,nämndmål,Trygga miljöer,,Delvis uppnått,{BUDGET}#sida-1-2\n"
+        rad = f"fsn,2026,nämndmål,Trygga miljöer,,Delvis uppnått,{BUDGET}#sida-1-2,,\n"
         with pool(rad) as malen:
             self.assertEqual(malen[0].status, "Delvis uppnått")
         self.assertIn("ingen sida", self.stoppas(rad.replace("1-2", "2-4")))
 
     def test_formulering_som_inte_star_pa_sidan(self):
-        rad = f"fsn,2025,nämndmål,Trygga miljöer,Alla ska må bra.,,{BUDGET}#sida-1\n"
+        rad = f"fsn,2025,nämndmål,Trygga miljöer,Alla ska må bra.,,{BUDGET}#sida-1,,\n"
         self.assertIn("formuleringen", self.stoppas(rad))
 
     def test_status_som_inte_star_pa_sidan(self):
-        rad = f"fsn,2024,direktiv,Läsfrämjande,,Ej uppnått,{BUDGET}#sida-2\n"
+        rad = f"fsn,2024,direktiv,Läsfrämjande,,Uppnått,{BUDGET}#sida-2,,\n"
         self.assertIn("statusen", self.stoppas(rad))
 
     def test_samma_mal_tva_ganger_ur_samma_kalla(self):
-        rad = f"fsn,2026,direktiv,Läsfrämjande,,,{BUDGET}#sida-2\n"
+        rad = f"fsn,2026,direktiv,Läsfrämjande,,,{BUDGET}#sida-2,,\n"
         self.assertIn("rad 5", self.stoppas(RADER + rad))
 
 
@@ -165,10 +168,18 @@ class TestSidan(unittest.TestCase):
         text = "Poolens dokument från året har inga av nämndens mål eller direktiv"
         self.assertIn(text, self.sida())
 
-    def test_status_i_oversikten_och_avsnittet(self):
+    def test_status_som_ikon_i_oversikten_och_avsnittet(self):
         html = self.sida()
-        self.assertIn("●</a><br><small>Delvis uppnått &lt;b&gt;</small></td>", html)
-        self.assertIn("Status: Delvis uppnått &lt;b&gt;", html)
+        ikon = 'class="status delvis prognos" role="img" title="delvis uppnått'
+        self.assertIn(f"●</a> <span {ikon}", html)
+        self.assertIn(f"Status: <span {ikon}", html)
+        self.assertIn("</span> Delvis uppnått (prognos)", html)
+        self.assertIn('<ul class="teckenforklaring">', html)
+
+    def test_budgeten_har_ingen_status(self):
+        html = self.sida()
+        avsnitt = html[html.index('id="ar-2025"') : html.index('id="ar-2024"')]
+        self.assertNotIn("Status:", avsnitt)
 
     def test_kallan_lankar_till_sidan_i_dokumentet(self):
         self.assertIn(
