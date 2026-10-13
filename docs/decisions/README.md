@@ -68,4 +68,4 @@ Regler för det här repot, utöver MADR:
 | 0040 | [Rubriker över flera kolumner och på flera textrader i tabeller utan lodräta linjer](0040-rubriker-over-flera-kolumner-och-textrader.md) | proposed |
 | 0041 | [Varje avvikelse i källan blir ett eget issue efter en mall](0041-avvikelser-ett-issue-per-avvikelse.md) | proposed |
 | 0044 | [Nämndens mål och direktiv läses ur dokumenten av AI-agenten, skrivs i en CSV per kommun med sidan som källa, och bygget prövar att texten står där](0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md) | accepted (0045 grupperar omdöpta mål, låter protokollet gå före och visar status som ikoner) |
-| 0045 | [Omdöpta mål grupperas i målfilen med tolkade kopplingar märkta, protokollet går före handlingarna, status blir ikoner, och sidan räknar antal per år](0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md) | proposed |
+| 0045 | [Omdöpta mål grupperas i målfilen med tolkade kopplingar märkta, protokollet går före handlingarna, status blir ikoner, och sidan räknar antal per år](0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md) | accepted |
