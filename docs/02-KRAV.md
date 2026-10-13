@@ -96,7 +96,7 @@ kunna läggas till utan kodändring.
   följd av tal, talen står i linje i kolumner och ingen etikett
   fortsätter på en rad som också har tal
 - **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
-  Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
+  Rubrikraderna ovanför följer med när varje rubrik står över sin
   kolumn; annars står de kvar i texten.
 - **Givet** en sådan tabell med en eller två rader med bara en etikett
   mellan talraderna, som en avsnittsrubrik eller en etikett som fortsätter
@@ -112,7 +112,16 @@ kunna läggas till utan kodändring.
   tabell ovanför den
   (issue [#117](https://github.com/moggleif/kommunhandlingar/issues/117))
 - **Så** blir den en CSV utan sidfoten, med rubriken överst när den står
-  i linje med kolumnerna, och tabellen ovanför blir en egen CSV.
+  över kolumnerna, och tabellen ovanför blir en egen CSV.
+- **Givet** en sådan tabell vars rubriker står centrerade över
+  kolumnerna, spänner över flera kolumner eller står på två textrader,
+  som `Netto-⏎anslag`
+  (issue [#123](https://github.com/moggleif/kommunhandlingar/issues/123))
+- **Så** följer rubriken med överst i CSV:n: en rubrik över flera
+  kolumner står i den första av dem, och textraderna i en cell fogas
+  ihop. Går det inte att avgöra vilka kolumner en rubrik spänner över,
+  för att den inte står mitt emellan två lodräta linjer, står rubriken
+  kvar i texten.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal,
   därför att en rad saknar de lodräta linjer som tabellens andra rader
   har, därför att en vågrät linje saknas mellan rader vars text står på

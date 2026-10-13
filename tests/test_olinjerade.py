@@ -37,9 +37,9 @@ def tal_ord(text: str, x1: float, top: float) -> list[dict]:
     return [ord_(delar[0], x1 - 17, top, 5), ord_(delar[1], x1, top, 15)]
 
 
-def sida(*rader: list[dict]) -> SimpleNamespace:
+def sida(*rader: list[dict], linjer: tuple[dict, ...] = ()) -> SimpleNamespace:
     alla = [o for r in rader for o in r]
-    return SimpleNamespace(extract_words=lambda **_: alla)
+    return SimpleNamespace(extract_words=lambda **_: alla, vertical_edges=list(linjer))
 
 
 BUDGET = [

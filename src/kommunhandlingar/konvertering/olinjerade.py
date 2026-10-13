@@ -1,6 +1,7 @@
 """Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016, ADR-0024, ADR-0035 och
-ADR-0037. Test: tests/test_olinjerade.py, tests/test_mellanrader.py,
-tests/test_rubrikrader.py och tests/test_skarvar.py.
+ADR-0037 och ADR-0040. Test: tests/test_olinjerade.py,
+tests/test_mellanrader.py, tests/test_rubrikrader.py, tests/test_spann.py och
+tests/test_skarvar.py.
 
 En tabell utan lodräta linjer läses ur textlagrets ord, rad för rad, och blir
 säker bara när varje rad är en etikett följd av tal och talen står i linje i
@@ -27,6 +28,7 @@ from kommunhandlingar.konvertering.rader import (
     talrad,
 )
 from kommunhandlingar.konvertering.rubriker import ovanfor
+from kommunhandlingar.konvertering.spann import Fack
 from kommunhandlingar.konvertering.tabeller import inom, mitt
 from kommunhandlingar.konvertering.text import MINSTA_FOLJD
 
@@ -45,12 +47,13 @@ class Tabell:
 def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
     alla = sida.extract_words(extra_attrs=["size"])
     rader_ = [Rad(r, falt(r)) for r in radvis(fria(alla, upptagna))]
+    linjer = [(e["x0"], e["top"], e["bottom"]) for e in sida.vertical_edges]
     utan_broar = foljder(rader_, 0)
     hittade: list[Tabell | None] = []
     for borjan, slut in foljder(rader_, MEST_EMELLAN):
-        hel = tabell(rader_, (borjan, slut))
+        hel = tabell(rader_, (borjan, slut), linjer)
         delar = [f for f in utan_broar if borjan <= f[0] < slut]
-        hittade += [hel] if hel else [tabell(rader_, d) for d in delar]
+        hittade += [hel] if hel else [tabell(rader_, d, linjer) for d in delar]
     return [t for t in hittade if t and ensam(t, alla)]
 
 
@@ -58,7 +61,9 @@ def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
     return [o for o in ord_ if not any(inom(mitt(o), r) for r in upptagna)]
 
 
-def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
+def tabell(
+    rader_: list[Rad], foljd: tuple[int, int], linjer: list[tuple]
+) -> Tabell | None:
     borjan, slut = foljd[0], med_fortsattning(rader_, foljd[1])
     delar = [delad(r) for r in rader_[borjan:slut]]
     if None in delar or sum(talrad(c) for _, c in delar) < MINSTA_FOLJD:
@@ -70,9 +75,9 @@ def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
     kropp = kroppen(delar, kolumner_, etiketternas_slut)
     if kropp is None:
         return None
-    rubriker, huvud = ovanfor(rader_[: borjan + 1], kolumner_, etiketternas_slut)
-    ovanfor_ = rader_[borjan - len(rubriker) - len(huvud) : borjan]
-    return byggd(ovanfor_ + rader_[borjan:slut], huvud + rubriker + kropp, kolumner_)
+    fack = Fack(kolumner_, etiketternas_slut, linjer)
+    celler, ovanfor_ = ovanfor(rader_[: borjan + 1], fack)
+    return byggd(ovanfor_ + rader_[borjan:slut], celler + kropp, kolumner_)
 
 
 def byggd(rader_: list[Rad], celler: list[list[str]], kolumner_: list) -> Tabell:
