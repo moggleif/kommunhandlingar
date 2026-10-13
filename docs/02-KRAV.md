@@ -120,8 +120,8 @@ kunna läggas till utan kodändring.
 - **Så** följer rubriken med överst i CSV:n: en rubrik över flera
   kolumner står i den första av dem, och textraderna i en cell fogas
   ihop. Går det inte att avgöra vilka kolumner en rubrik spänner över,
-  för att ingen lodrät linje står bredvid den, står rubriken kvar i
-  texten.
+  för att den inte står mitt emellan två lodräta linjer, står rubriken
+  kvar i texten.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal,
   därför att en rad saknar de lodräta linjer som tabellens andra rader
   har, därför att en vågrät linje saknas mellan rader vars text står på

@@ -930,10 +930,12 @@ och blir en osäker tabell som förut.
    eller om den etikett som slutar längst till höger för den första
    kolumnen, och slutar högst 2 punkter till höger om kolumnens egen högra
    kant, så att också en centrerad rubrik ryms. Ett fält som står över
-   flera fack spänner över kolumnerna mellan de lodräta linjerna närmast
-   på var sida om det, eller tabellens kant på den sida där linje saknas,
-   och står i den första av dem; finns ingen lodrät linje bredvid raden
-   går det inte att avgöra, och raden är ingen rubrikrad
+   flera fack spänner över kolumnerna mellan de lodräta linjerna, också
+   kanterna på en färgad ruta, närmast på var sida om det bredvid raden,
+   när det står mitt emellan dem (högst 2 punkter från mitten), och står
+   i den första av dem. Saknas en linje på någon sida, eller står fältet
+   inte mitt emellan, går det inte att avgöra, och raden är ingen
+   rubrikrad
    ([ADR-0040](decisions/0040-rubriker-over-flera-kolumner-och-textrader.md)).
    Ett första fält som börjar till vänster om där den etiketten slutar,
    och slutar före den första kolumnen, är rubrikens etikett. En rad där

@@ -7,7 +7,6 @@ flera textrader fogas ihop
 """
 
 from dataclasses import dataclass
-from math import inf
 
 from kommunhandlingar.konvertering.falt import Falt
 from kommunhandlingar.konvertering.rader import I_LINJE, Rad, mellanrum
@@ -65,7 +64,7 @@ def rubrikrad(r: Rad, fack: Fack) -> Celler | None:
 
 def spann(f: Falt, r: Rad, fack: Fack) -> tuple[int, int] | None:
     """Kolumnen vars fack rymmer fältet, eller kolumnerna mellan de lodräta
-    linjerna närmast fältet när det står över flera fack."""
+    linjerna närmast på var sida om fältet när det står över flera fack."""
     granser = fack.granser
     forsta = sum(1 for g in granser[:-1] if g < f.x0)
     sista = next((k for k, g in enumerate(granser) if k and f.x1 <= g + I_LINJE), None)
@@ -75,15 +74,17 @@ def spann(f: Falt, r: Rad, fack: Fack) -> tuple[int, int] | None:
 
 
 def mellan_linjer(f: Falt, r: Rad, fack: Fack) -> tuple[int, int] | None:
-    """Tabellens kant räknas som linje där linje saknas; utan någon lodrät
-    linje bredvid raden går det inte att avgöra."""
+    """Fältet ska stå mitt emellan linjerna, som en centrerad rubrik i en
+    sammanslagen cell; annars går det inte att avgöra."""
     overst = min(o["top"] for o in r.ord)
     nederst = max(o["bottom"] for o in r.ord)
     xs = [x for x, top, bottom in fack.linjer if top < nederst and bottom > overst]
-    if not xs:
+    vanster = max((x for x in xs if x <= f.x0), default=None)
+    hoger = min((x for x in xs if x >= f.x1), default=None)
+    if vanster is None or hoger is None:
         return None
-    vanster = max((x for x in xs if x <= f.x0), default=-inf)
-    hoger = min((x for x in xs if x >= f.x1), default=inf)
+    if abs((vanster + hoger) - (f.x0 + f.x1)) / 2 > I_LINJE:
+        return None
     inom = [k for k, (_, x1) in enumerate(fack.kolumner, 1) if vanster < x1 <= hoger]
     return (inom[0], inom[-1]) if inom else None
 

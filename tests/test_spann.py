@@ -23,6 +23,7 @@ UNDERRUBRIK = [
     ord_("Budget", 295, 80, 30),
     ord_("Plan", 340, 80, 20),
 ]
+UNDERRUBRIK_CELLER = ["", "Netto", "Utfall", "Budget", "Plan"]
 
 
 def linje(x: float) -> dict:
@@ -37,38 +38,39 @@ def rubriker(*ovanfor: list[dict], linjer: tuple[dict, ...] = ()) -> list:
 class TestFack(unittest.TestCase):
     def test_rubrik_som_inte_star_i_linje_men_ryms_i_facket(self):
         """Centrerade rubriker, som i driftredovisningen i #123."""
-        self.assertEqual(
-            rubriker(UNDERRUBRIK), [["", "Netto", "Utfall", "Budget", "Plan"]]
-        )
+        self.assertEqual(rubriker(UNDERRUBRIK), [UNDERRUBRIK_CELLER])
 
     def test_tva_rubriker_i_samma_fack_tas_inte_med(self):
         rubrik = [ord_("Netto", 150, 80, 25), ord_("Utfall", 195, 80, 25)]
         self.assertEqual(rubriker(rubrik + UNDERRUBRIK[1:]), [])
 
 
+LINJER = (linje(205), linje(355))
+OVER_TRE = [ord_("Budget", 195, 60, 30), ord_("Bokslut", 310, 60, 60)]
+
+
 class TestSpann(unittest.TestCase):
-    def test_rubrik_over_flera_kolumner_mellan_linjer(self):
-        rubrik = [ord_("Budget", 195, 60, 30), ord_("Bokslut", 270, 60, 40)]
+    def test_rubrik_over_flera_kolumner_mitt_emellan_linjer(self):
         self.assertEqual(
-            rubriker(rubrik, UNDERRUBRIK, linjer=(linje(205), linje(355)))[0],
-            ["", "Budget", "Bokslut", "", ""],
+            rubriker(OVER_TRE, UNDERRUBRIK, linjer=LINJER),
+            [["", "Budget", "Bokslut", "", ""], UNDERRUBRIK_CELLER],
         )
 
-    def test_tabellens_kant_dar_linje_saknas(self):
-        rubrik = [ord_("Utfall", 240, 60, 90), ord_("Plan", 345, 60, 80)]
-        self.assertEqual(
-            rubriker(rubrik, UNDERRUBRIK, linjer=(linje(255),))[0],
-            ["", "Utfall", "", "Plan", ""],
-        )
+    def test_rubrik_som_inte_star_mitt_emellan_linjerna_tas_inte_med(self):
+        """Två rubriker så tätt att de blev ett fält, som i ett stickprov."""
+        rubrik = [ord_("Budget", 195, 60, 30), ord_("Antal tim", 275, 60, 60)]
+        self.assertEqual(rubriker(rubrik, UNDERRUBRIK, linjer=LINJER), [])
 
     def test_utan_linjer_tas_rubriken_inte_med(self):
-        rubrik = [ord_("Budget", 195, 60, 30), ord_("Bokslut", 270, 60, 40)]
-        self.assertEqual(rubriker(rubrik, UNDERRUBRIK), [])
+        self.assertEqual(rubriker(OVER_TRE, UNDERRUBRIK), [])
+
+    def test_linje_bara_pa_ena_sidan_tas_inte_med(self):
+        self.assertEqual(rubriker(OVER_TRE, UNDERRUBRIK, linjer=LINJER[:1]), [])
 
     def test_linje_som_inte_star_bredvid_raden_raknas_inte(self):
-        rubrik = [ord_("Budget", 195, 60, 30), ord_("Bokslut", 270, 60, 40)]
         kort = {"x0": 205, "top": 115, "bottom": 180}
-        self.assertEqual(rubriker(rubrik, UNDERRUBRIK, linjer=(kort,)), [])
+        linjer = (kort, linje(355))
+        self.assertEqual(rubriker(OVER_TRE, UNDERRUBRIK, linjer=linjer), [])
 
 
 class TestTextrader(unittest.TestCase):
@@ -84,10 +86,11 @@ class TestTextrader(unittest.TestCase):
         )
 
     def test_textrader_en_teckenhojd_isar_ar_tva_rubrikrader(self):
-        ovre = [ord_("Budget", 240, 60, 90), ord_("Plan", 345, 60, 80)]
-        self.assertEqual(len(rubriker(ovre, UNDERRUBRIK, linjer=(linje(255),))), 2)
+        ovre = [ord_("Plan", 195, 60, 20), ord_("Plan", 245, 60, 20)]
+        ovre += [ord_("Plan", 295, 60, 20), ord_("Plan", 345, 60, 20)]
+        self.assertEqual(len(rubriker(ovre, UNDERRUBRIK)), 2)
 
     def test_cell_under_en_rubrik_over_flera_kolumner_tas_inte_med(self):
-        ovre = [ord_("Budget", 195, 80, 30), ord_("Bokslut", 270, 80, 40)]
+        ovre = [ord_("Budget", 195, 80, 30), ord_("Bokslut", 310, 80, 60)]
         undre = [ord_("2025", 295, 93, 20)]
-        self.assertEqual(rubriker(ovre, undre, linjer=(linje(205),)), [])
+        self.assertEqual(rubriker(ovre, undre, linjer=LINJER), [])
