@@ -1,4 +1,4 @@
-"""Krav: K2, K13 och K16 i docs/02-KRAV.md, ADR-0013 och ADR-0018.
+"""Krav: K2, K13, K16 och K23 i docs/02-KRAV.md, ADR-0013, ADR-0018 och ADR-0039.
 Test: tests/test_upptack.py.
 
 Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>
@@ -18,7 +18,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, tidsbudget
-from kommunhandlingar.adaptrar import sitevision, sitevision_arkiv
+from kommunhandlingar.adaptrar import episerver_arkiv, sitevision, sitevision_arkiv
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -61,11 +61,13 @@ def las_arkivet(
     kandidater: list[Kandidat] = []
     avvisade: list[Avvisad] = []
     noteringar: list[str] = []
-    for kalla in kommun.kallor:
-        if kalla.wayback:
-            nya, bort, noterat = sitevision_arkiv.upptack(kalla, klient)
-            kandidater, avvisade = kandidater + nya, avvisade + bort
-            noteringar += noterat
+    lasningar = [(sitevision_arkiv.upptack, k) for k in kommun.kallor if k.wayback] + [
+        (episerver_arkiv.upptack, k) for k in kommun.arkivkallor
+    ]
+    for upptack_kallan, kalla in lasningar:
+        nya, bort, noterat = upptack_kallan(kalla, klient)
+        kandidater, avvisade = kandidater + nya, avvisade + bort
+        noteringar += noterat
     return ordna_bakat(kandidater, [o.id for o in kommun.organ]), avvisade, noteringar
 
 

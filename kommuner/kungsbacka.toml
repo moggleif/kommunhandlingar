@@ -161,3 +161,66 @@ kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-m
 "sitevision:18.49d36ef2191e50b885087c30" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
 "sitevision:18.49d36ef2191e50b885087c31" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
 "sitevision:18.6111bcdb1920bbb80f8af74b" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
+
+# Webbplatsens två Episerver-generationer, 2013–2022, som bara finns i
+# Internet Archive (ADR-0039). Organen i mappar läses ur arkivet; övriga
+# väntar tills konverteringen är färdig. Gymnasie och Vuxenutbildning
+# läggs under ga.
+[[kalla]]
+adapter = "episerver"
+manader = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
+# Mönstren prövas mot sökvägen under mappen: "Protokoll/2013/GV protokoll 20 nov.pdf".
+# Ett datum i filnamnet går före mappens år: 2021-mappen har möten från 2022.
+datum = [
+  '(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})',
+  '(?<!\d)(?P<ar>\d{4})(?P<manad>\d{2})(?P<dag>\d{2})(?!\d)',
+  '(?i)(?<!\d)(?P<dag>\d{1,2})[ _]+(?P<manad>[a-zåäö]{3})[a-zåäö]*[ _]+(?P<ar>\d{4})',
+  '(?<!\d)(?P<ar>\d{2})-(?P<manad>\d{2})-(?P<dag>\d{2})(?!\d)',
+  '(?<!\d)(?P<ar>\d{2})(?P<manad>\d{2})(?P<dag>\d{2})(?!\d)',
+  '(?i)^[^/]+/(?P<ar>\d{4})/[^/]*?(?<!\d)(?P<dag>\d{1,2})[ _]+(?P<manad>[a-zåäö]{3})',
+]
+
+[kalla.mappar]
+ga = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Gymnasie och Vuxenutbildning/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/",
+]
+
+# Typen: handlingarnas mapp gäller också för "kallelse-till-web-20180919.pdf",
+# som är kallelsen med alla handlingar. Annars filnamnet, och sist mappen;
+# Protokoll/2014 har också kallelser och handlingar.
+[[kalla.typer]]
+typ = "handlingar"
+regex = '(?i)^handlingar/'
+
+[[kalla.typer]]
+typ = "kallelse"
+regex = '(?i)/[^/]*(?:kallelse|dagordning)[^/]*$'
+
+[[kalla.typer]]
+typ = "handlingar"
+regex = '(?i)/[^/]*(?:handlingar|underlag)[^/]*$'
+
+[[kalla.typer]]
+typ = "protokoll"
+regex = '(?i)/[^/]*protokoll[^/]*$'
+
+[[kalla.typer]]
+typ = "kallelse"
+regex = '(?i)^dagordningar/'
+
+[[kalla.typer]]
+typ = "protokoll"
+regex = '(?i)^protokoll/'
+
+# Filer vars namn saknar ett läsbart datum (K23). Datumet är belagt i
+# filens egen första sida, läst ur arkivet 2026-10-13.
+[kalla.rattelser]
+"episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Dagordningar/2014/01%20Kallelse.pdf" = 2014-02-19  # kallelsen: sammanträde 2014-02-19
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2018/1.pdf" = 2018-12-03  # kallelsen: sammanträde 2018-12-03
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/21-04-08-kallelse.pdf" = 2021-04-14  # kallelsen: sammanträde 14 april 2021, upprättad 2021-03-25
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/kallelse-jan.pdf" = 2022-01-19  # kallelsen: 19 januari 2022
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2020/101.pdf" = 2020-11-04  # protokollet, § 101: 2020-11-04
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/21-0-13-protokoll.signerad.pub.pdf" = 2021-10-13  # protokollet: 2021-10-13
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/protokoll-14-17-26.pdf" = 2022-02-23  # protokollet, §§ 14, 17–26: 2022-02-23
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/protokoll-15-16.pdf" = 2022-02-23  # protokollet, §§ 15–16: 2022-02-23

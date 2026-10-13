@@ -30,6 +30,20 @@ def uttryck(text: str, var: str) -> re.Pattern:
         raise Konfigurationsfel(f"{var}: ogiltigt uttryck: {fel}") from fel
 
 
+def datummonster(text: str, falt: str, var: str) -> re.Pattern:
+    monstret = uttryck(text, var)
+    if set(monstret.groupindex) != DATUMGRUPPER:
+        raise Konfigurationsfel(f"{var}: {falt} ska ha grupperna ar, manad och dag")
+    return monstret
+
+
+def rattelser(tabell: dict, plattform: str, var: str) -> dict[str, date]:
+    for nyckel, datum in tabell.items():
+        if not nyckel.startswith(f"{plattform}:") or not schema.ar_av_slag(datum, date):
+            raise Konfigurationsfel(f"{var}: rättelsen för {nyckel!r}")
+    return tabell
+
+
 def kompilera(post: dict, grupper: set[str], var: str) -> Monster:
     schema.kontrollera_falt(post, {"regex", "typ"}, var)
     monster = uttryck(schema.varde(post, "regex", str, var), var)

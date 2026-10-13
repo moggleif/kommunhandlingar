@@ -262,9 +262,8 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 - **Id** för kommun och organ är katalognamn: små bokstäver a–z, siffror
   och bindestreck.
 - **Källorna står i prioritetsordning.** Varje adapter anger vilka fält
-  den har utöver `adapter` och `monster`; de beskrivs här när adaptern
-  skrivs. Med en enda adapter väljer konfigurationen den direkt; ett
-  sätt att slå upp adaptrar kommer med den andra.
+  den har utöver `adapter` och `monster`; de beskrivs under adaptern
+  nedan. `adapter` är `sitevision` eller `episerver`.
 - **Datumet** byggs av grupperna `ar`, `manad` och `dag`, så att ordningen
   och skiljetecknen i källan står i mönstret och inte i koden. `manad` är
   siffror eller ett av namnen i `manader`, utan hänsyn till versaler.
@@ -341,6 +340,53 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 - **En fil som står under flera möten** blir en kandidat: det första
   stället i sidans ordning som ger en kandidat gäller.
 
+### Episerver
+
+Hur och varför står i
+[ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md),
+och beteendet i K23. Episerver-generationerna finns bara i Internet
+Archive, så adaptern läses bara i [arkivets](#arkivet) upptäckt. Den har
+ingen mötessida; organ, typ och år står i sökvägen.
+
+```toml
+[[kalla]]
+adapter = "episerver"
+manader = ["jan", "feb", …, "dec"]
+datum = ['(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})', …]
+
+[kalla.mappar]
+bun = ["exempelby.se/globalassets/moten/barn-och-ungdom/"]
+
+[[kalla.typer]]
+typ = "protokoll"
+regex = '(?i)^protokoll/'
+
+[kalla.rattelser]
+"episerver:exempelby.se/globalassets/…/1.pdf" = 2018-12-03   # belägg: kallelsen
+```
+
+| Fält              | Betyder                                                         |
+| ----------------- | --------------------------------------------------------------- |
+| `kalla.mappar`    | Organets id och dess mappar: adressprefix utan protokoll, som slutar på `/`. Ett organ utan mappar läses inte. |
+| `kalla.typer`     | Mönster med `regex` och `typ`, utan grupper. Det första som matchar sökvägen under mappen ger typen. |
+| `kalla.datum`     | Reguljära uttryck med grupperna `ar`, `manad` och `dag`. Det första som matchar sökvägen under mappen ger datumet. |
+| `kalla.rattelser` | Källnyckel och datum, för filer vars datum mönstren inte läser rätt. |
+
+- **Texten mönstren prövas mot** är sökvägen under mappen, avkodad:
+  `Protokoll/2013/GV protokoll 20 nov.pdf`. Mappens år står alltså i
+  texten, så att ett filnamn utan år kan få det därifrån.
+- **Ett tvåsiffrigt år** är 2000-talets. `manad` är siffror eller ett av
+  namnen i `manader`; ett mönster kan ta de tre första bokstäverna, så
+  att `nov`, `november` och felstavningen `septemberi` läses.
+- **Källnyckeln** är `episerver:` och adressen utan protokoll, `www` och
+  port, med sökvägen avkodad och kodad igen med `%XX` för allt utom
+  bokstäverna A–Z och a–z, siffror, `-._~` och `/`. Samma fil under
+  flera adresser får samma nyckel, och nyckeln innehåller aldrig ett
+  kommatecken följt av blanksteg.
+- **Ingen kandidat** blir det av en fil som inget typ- eller datummönster
+  matchar, eller vars datum inte finns, utan rättelse. Den nämns i
+  sammanfattningen.
+
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
 belagt och hur, vad som är att verifiera och kända luckor. Organ,
 adresser och mönster står i kommunfilen; källbeskrivningen länkar dit i
@@ -394,12 +440,14 @@ stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
 ### Arkivet
 
 Hur och varför står i
-[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)
-och [ADR-0027](decisions/0027-arkivet-slas-pa-per-organ.md),
-och beteendet i K16.
+[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md),
+[ADR-0027](decisions/0027-arkivet-slas-pa-per-organ.md) och
+[ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md),
+och beteendet i K16 och K23.
 `python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>
 --arkiv --start <N>` skriver `<arbetskatalog>/<kommun>.arkiv.kandidater.json`
-i samma form som kandidatlistan, för de organ som står i källans `wayback`.
+i samma form som kandidatlistan, för de organ som står i en
+Sitevision-källas `wayback` och för mapparna i en Episerver-källa.
 Är tidsbudgetens mjuka gräns räknat från `--start` passerad blir listan
 tom, och arkivet frågas inte. Nås den hårda gränsen (`SIGALRM`) under
 upptäckten avbryts den, och listan blir tom.
@@ -424,6 +472,10 @@ upptäckten avbryts den, och listan blir tom.
   någon kopia av eller en ögonblicksbild som inte går att läsa, hoppas
   över och står i sammanfattningen efter
   "Arkivet:". Utan fillistan blir det inga kandidater alls.
+- **Episerver-mapparna.** CDX-tjänsten ger, med `matchType=prefix`, alla
+  PDF:er under varje mapp. Varje fil får sin största kopia och vid lika
+  den äldsta ([Episerver](#episerver)). Kandidatens `kalla` är mappen. En
+  mapp som arkivet inte svarar för står i sammanfattningen.
 
 `python -m kommunhandlingar.hamta … --arkiv` läser arkivets lista, och
 steg 2 gör som för de levande källorna med två skillnader:
@@ -435,6 +487,16 @@ steg 2 gör som för de levande källorna med två skillnader:
   lista, hämtas inte ("finns redan; arkivet fyller bara
   luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
   arkivets försök står den levande källans försök kvar orört.
+- **Två plattformar** ([ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md)).
+  Plattformen är källnyckelns första del, före `:`. En kandidat ur
+  arkivet hämtas inte heller när sammanträdet (organ och datum) har ett
+  fullständigt dokument av samma typ från en annan plattform. En plats
+  vars dokument ur arkivet är `ej-hamtad` från en annan plattform tas
+  däremot av kandidaten: den hämtas dit, och den gamla nyckeln flyttas
+  till `tidigare_kallnycklar`. Ett försök från en levande källa tas inte
+  över. När båda plattformarna har en kandidat för ett nytt sammanträde
+  går `episerver` före `sitevision`, eftersom kandidaterna med samma
+  datum och typ ordnas efter källnyckeln (K13).
 - **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
   byten blir `ej-hamtad` med `fel: kapad`.
 

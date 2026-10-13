@@ -1,11 +1,12 @@
-"""Krav: K4, K6, K8, K9 och K16 i docs/02-KRAV.md, ADR-0003, ADR-0004,
-ADR-0018 och ADR-0019. Test: tests/test_hamta.py och
-tests/test_omkonvertering.py.
+"""Krav: K4, K6, K8, K9, K16 och K23 i docs/02-KRAV.md, ADR-0003, ADR-0004,
+ADR-0018, ADR-0019 och ADR-0039. Test: tests/test_hamta.py,
+tests/test_omkonvertering.py och tests/test_plattformar.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
 fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
-äldre kopia aldrig ersätter ett dokument i poolen. Med omkonverteringen
+äldre kopia aldrig ersätter ett dokument i poolen, och ett sammanträde
+som har typen från en annan plattform inte får den en gång till. Med omkonverteringen
 påslagen räknas ett dokument från en annan version av poolen inte som
 befintligt. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
@@ -19,10 +20,11 @@ from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, skrivning
 from kommunhandlingar.adaptrar import wayback
+from kommunhandlingar.arkivluckor import hel, ingen_lucka, tas_over
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
-from kommunhandlingar.plats import Plats, ledigt_namn, namn_av
+from kommunhandlingar.plats import filnamnet, grundplats, ledigt_namn
 from kommunhandlingar.pool import Pool
 from kommunhandlingar.tidsbudget import utan_avbrott
 
@@ -57,7 +59,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    if steg.arkiv and ingen_lucka(steg, kandidat, sokvag, gammal):
+    if steg.arkiv and ingen_lucka(steg.pool, steg.kommun, kandidat, gammal):
         return "finns redan; arkivet fyller bara luckor"
     if sokvag and samma_kalla(gammal, kandidat) and aktuell(steg, gammal):
         return "oförändrad"
@@ -71,10 +73,6 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
         if steg.arkiv and wayback.kapad(pdf):
             return misslyckad(steg, dokument, "kapad", hamtad)
         return hamtad_fil(steg, dokument, pdf, hamtad)
-
-
-def hel(falt: dict[str, str]) -> bool:
-    return falt["kvalitet"] != "ej-hamtad"
 
 
 def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
@@ -93,35 +91,13 @@ def bara_omkonvertering(steg: Steg2, kandidat: Kandidat) -> bool:
     return bool(gammal) and samma_kalla(gammal, kandidat) and not aktuell(steg, gammal)
 
 
-def ingen_lucka(steg: Steg2, kandidat: Kandidat, sokvag, gammal) -> bool:
-    """Arkivet tar inte en källnyckel med ett fullständigt dokument, en plats
-    med ett dokument från en levande källa, eller en plats vars dokument ur
-    arkivet har en källnyckel som inte står i listan (`placera` ger det)."""
-    if sokvag is not None:
-        return hel(gammal)
-    upptagen = steg.pool.efter_sokvag.get(grundplats(kandidat).sokvag(steg.kommun))
-    levande = upptagen is not None and not wayback.ar_kopia(upptagen["kalla_url"])
-    return levande or gammal is not None
-
-
-def grundplats(kandidat: Kandidat) -> Plats:
-    plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
-    if kandidat.typ == "bilaga":
-        return replace(plats, namn=filnamnet(kandidat) or "2")
-    return plats
-
-
-def filnamnet(kandidat: Kandidat) -> str:
-    return namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
-
-
 def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
     plats = grundplats(kandidat)
     sokvag = plats.sokvag(steg.kommun)
     upptagen = steg.pool.efter_sokvag.get(sokvag)
     if upptagen is None:
         return Dokument(kandidat, sokvag, None, plats.namn)
-    if upptagen["kallnyckel"] not in steg.nycklar:
+    if upptagen["kallnyckel"] not in steg.nycklar or tas_over(upptagen, kandidat):
         return Dokument(kandidat, sokvag, upptagen)
 
     def finns(forslag: str) -> bool:

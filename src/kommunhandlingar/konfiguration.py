@@ -1,4 +1,4 @@
-"""Krav: K1 och K22 i docs/02-KRAV.md, ADR-0019 och ADR-0032.
+"""Krav: K1, K22 och K23 i docs/02-KRAV.md, ADR-0019, ADR-0032 och ADR-0039.
 Test: tests/test_konfiguration.py."""
 
 import tomllib
@@ -7,7 +7,7 @@ from datetime import date
 from pathlib import Path
 
 from kommunhandlingar import schema
-from kommunhandlingar.adaptrar import sitevision
+from kommunhandlingar.adaptrar import episerver, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 
 ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till"}
@@ -30,6 +30,8 @@ class Kommun:
     organ: tuple[Organ, ...]
     kallor: tuple[sitevision.Kalla, ...]
     omkonvertera: bool
+    # Källor som bara finns i Internet Archive (ADR-0039).
+    arkivkallor: tuple[episerver.Kalla, ...]
 
 
 def las(sokvag: Path) -> Kommun:
@@ -45,12 +47,17 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
     organ = tuple(organ_av(post) for post in poster(data, "organ"))
     kontrollera_organ(organ)
     organ_id = [o.id for o in organ]
-    kallor = tuple(
+    alla = [
         kalla_av(post, i, organ_id) for i, post in enumerate(poster(data, "kalla"), 1)
-    )
+    ]
     omkonvertera = schema.valfritt(data, "omkonvertera", bool, "kommunen") or False
     return Kommun(
-        schema.katalognamn(kommun_id, "kommunen"), namn, organ, kallor, omkonvertera
+        schema.katalognamn(kommun_id, "kommunen"),
+        namn,
+        organ,
+        tuple(k for k in alla if isinstance(k, sitevision.Kalla)),
+        omkonvertera,
+        tuple(k for k in alla if isinstance(k, episerver.Kalla)),
     )
 
 
@@ -117,9 +124,12 @@ def overlappar(a: Organ, b: Organ) -> bool:
     )
 
 
-def kalla_av(post: dict, nummer: int, organ_id: list[str]) -> sitevision.Kalla:
+ADAPTRAR = {"sitevision": sitevision.kalla_av, "episerver": episerver.kalla_av}
+
+
+def kalla_av(post: dict, nummer: int, organ_id: list[str]):
     var = f"kalla {nummer}"
     adapter = schema.varde(post, "adapter", str, var)
-    if adapter != "sitevision":
+    if adapter not in ADAPTRAR:
         raise Konfigurationsfel(f"{var}: okänd adapter {adapter!r}")
-    return sitevision.kalla_av(post, organ_id, var)
+    return ADAPTRAR[adapter](post, organ_id, var)
