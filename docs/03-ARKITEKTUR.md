@@ -831,11 +831,16 @@ och blir en osäker tabell som förut.
 4. **Följd:** rader i följd som är tabellrader eller talrader, där en
    talrad har minst två fält som är tal, eller minst två ord som är tal
    när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
-   är högst tre teckenhöjder. En följd går över högst två etikettrader
-   när raderna närmast ovanför och under dem är tabellrader, och en rad
-   med bara årtal (1900–2099) börjar ingen följd. En tabell blir
-   det bara om varje rad i följden är en tabellrad och minst tre av dem
-   har två tal eller fler. Blir en följd över etikettrader ingen tabell,
+   är högst fyra teckenhöjder, och en tabellrad vars etikett börjar till
+   höger om det första talet i följden, som en sidfot med sidnummer,
+   fortsätter den inte. En följd går över högst två etikettrader när
+   raderna närmast ovanför och under dem är tabellrader. En rad där
+   varje tal är ett årtal (1900–2099), med eller utan etikett, börjar
+   ingen följd, och står den direkt ovanför en rad med tal hör den inte
+   heller till följden ovanför utan är nästa tabells rubrikrad
+   ([ADR-0037](decisions/0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md)).
+   En tabell blir det bara om varje rad i följden är en tabellrad och
+   minst tre av dem har två tal eller fler. Blir en följd över etikettrader ingen tabell,
    prövas delarna mellan etikettraderna var för sig.
 5. **Kolumner:** talen grupperas efter sin högerkant; de som ligger högst
    2 punkter från gruppens första hör till samma kolumn. Varje kolumn har
@@ -847,22 +852,24 @@ och blir en osäker tabell som förut.
    heltal, år eller koder, är den en kolumn med etiketter, och det som
    står till vänster är något annat, till exempel text i en spalt
    bredvid; då blir det ingen tabell.
-6. **Rubrikrader:** raderna närmast ovanför, högst tre teckenhöjder
+6. **Rubrikrader:** raderna närmast ovanför, högst fyra teckenhöjder
    ifrån raden under, tas med från tabellen och uppåt så länge raden inte
-   är en tabellrad eller talrad, har minst ett fält i en kolumn, och
+   har ett tal som inte är ett årtal, har minst ett fält i en kolumn, och
    varje fält utom ett första står med högerkanten i linje med en kolumn
    (högst 2 punkter ifrån) och börjar till höger om föregående kolumns
    högra kant, eller om den etikett som slutar längst till höger för den
    första kolumnen. Ett första fält som börjar till vänster om där den
    etiketten slutar, och slutar före den första kolumnen, är rubrikens
-   etikett. En rad med bara årtal räknas som rubrikrad, inte som talrad.
+   etikett. En rad där varje tal är ett årtal räknas som rubrikrad, inte
+   som talrad.
    Står en eller två etikettrader till vänster om kolumnerna mellan
    rubriken och tabellen tas de med som avsnittsrubriker, men bara när
    rubriken ovanför dem tas med. Rubriken tas med bara om den översta
-   rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
-   en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
-   inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
-   blir halv.
+   rubrikraden har en rubrik i varje kolumn, och om raden ovanför den
+   har ett tal som inte är ett årtal, som en tabell ovanför, är ett ensamt
+   fält som slutar före kolumnerna eller börjar där etiketterna står, som
+   en rad löptext, ligger längre bort, eller inte finns; annars tas ingen
+   rubrikrad med, så att en rubrik aldrig blir halv.
 7. **Ensam:** inget annat ord på sidan, inte heller i en tabell med
    linjer, får ha sin mittpunkt inom den rektangel som omsluter tabellens
    ord.

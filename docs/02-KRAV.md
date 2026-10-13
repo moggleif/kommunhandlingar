@@ -106,6 +106,12 @@ kunna läggas till utan kodändring.
 - **Så** blir den en CSV, inte flera: en avsnittsrubrik blir en rad med
   tomma celler, en fortsättning fogas till etiketten ovanför, och årtalen
   blir tabellens rubrikrad.
+- **Givet** en sådan tabell med något större radavstånd före en rad
+  eller under rubriken, med en sidfot med sidnummer strax under, eller
+  med en rubrikrad med årtal mellan den och en tabell ovanför
+  (issue [#117](https://github.com/moggleif/kommunhandlingar/issues/117))
+- **Så** blir den en CSV med sin rubrik överst, utan sidfoten, och
+  tabellen ovanför blir en egen CSV.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal,
   därför att en rad saknar de lodräta linjer som tabellens andra rader
   har, därför att en vågrät linje saknas mellan rader vars text står på

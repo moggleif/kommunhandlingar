@@ -1,5 +1,6 @@
-"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016, ADR-0024 och ADR-0035.
-Test: tests/test_olinjerade.py, tests/test_mellanrader.py och tests/test_skarvar.py.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016, ADR-0024, ADR-0035 och
+ADR-0037. Test: tests/test_olinjerade.py, tests/test_mellanrader.py,
+tests/test_rubrikrader.py och tests/test_skarvar.py.
 
 En tabell utan lodräta linjer läses ur textlagrets ord, rad för rad, och blir
 säker bara när varje rad är en etikett följd av tal och talen står i linje i
@@ -28,6 +29,7 @@ from kommunhandlingar.konvertering.rader import (
     med_fortsattning,
     nara,
     talrad,
+    till_vanster,
     uppdela,
 )
 from kommunhandlingar.konvertering.rubriker import ovanfor
@@ -64,17 +66,29 @@ def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
 
 def foljder(rader_: list[Rad], mest: int) -> list[tuple[int, int]]:
     """Rader med tal i följd, också över högst `mest` etikettrader mellan
-    två tabellrader. En rad med bara årtal börjar ingen följd: den är en
-    rubrikrad."""
+    två tabellrader. En rad med bara årtal börjar ingen följd, och direkt
+    ovanför en rad med tal är den nästa tabells rubrikrad."""
     ut: list[tuple[int, int]] = []
     for i, r in enumerate(rader_):
-        if not har_tal(r):
+        if not har_tal(r) or rubrik_till_nasta(rader_, i):
             continue
-        if ut and bro(rader_[ut[-1][1] - 1 : i + 1], mest):
-            ut[-1] = (ut[-1][0], i + 1)
+        borjan, slut = ut[-1] if ut else (i, i)
+        if (
+            ut
+            and bro(rader_[slut - 1 : i + 1], mest)
+            and till_vanster(rader_[borjan:slut], r)
+        ):
+            ut[-1] = (borjan, i + 1)
         elif not artalsrad(r):
             ut.append((i, i + 1))
     return ut
+
+
+def rubrik_till_nasta(rader_: list[Rad], i: int) -> bool:
+    nasta = rader_[i + 1] if i + 1 < len(rader_) else None
+    if not artalsrad(rader_[i]) or nasta is None:
+        return False
+    return har_tal(nasta) and not artalsrad(nasta) and nara(rader_[i], nasta)
 
 
 def bro(rader_: list[Rad], mest: int) -> bool:
