@@ -854,7 +854,7 @@ och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
 
 Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151).
 Bygger på K26, K27 och K28. Hur och varför står i
-[ADR-0047](decisions/0047-malsidan-visas-som-tidslinje-och-malkort.md)
+[ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md)
 och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 
 - **Givet** sidan om ett organs mål och direktiv

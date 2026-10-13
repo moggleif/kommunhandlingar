@@ -1,4 +1,4 @@
-"""Krav: K27 och K29 i docs/02-KRAV.md, ADR-0045 och ADR-0047.
+"""Krav: K27 och K29 i docs/02-KRAV.md, ADR-0045 och ADR-0050.
 Test: tests/test_malgrupper.py.
 
 En uppföljnings bedömning som ikon. Bedömningen står i målfilen bredvid

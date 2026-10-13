@@ -1,4 +1,4 @@
-/* Krav: K29 i docs/02-KRAV.md, ADR-0047. Stilen för sidan om ett organs
+/* Krav: K29 i docs/02-KRAV.md, ADR-0050. Stilen för sidan om ett organs
    mål och direktiv: sammandraget, tidslinjen och korten. */
 :root { --accent: #1d5d73; --band: #e3eef2; --yta: #f5f6f8;
             --linje: #d9dde5; --dampad: #5b6475; }

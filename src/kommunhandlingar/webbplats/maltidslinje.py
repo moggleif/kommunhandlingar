@@ -1,4 +1,4 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0047. Test: tests/test_malkort.py.
+"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
 
 Tidslinjen på sidan om ett organs mål och direktiv: en rad per spår,
 grupperad på slag, och en kolumn per år. Ett år med spåret är en del av

@@ -1,4 +1,4 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0047. Test: tests/test_malkort.py.
+"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
 
 Ett kort per spår på sidan om ett organs mål och direktiv, de som gäller
 det senaste året först. Kortet har slaget, åren, den senaste rubriken och

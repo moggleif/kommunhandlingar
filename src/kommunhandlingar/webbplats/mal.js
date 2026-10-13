@@ -1,4 +1,4 @@
-// Krav: K29 i docs/02-KRAV.md, ADR-0047. Test: tests/test_malkort.py.
+// Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
 // Visar bara de mål i tidslinjen och bland korten som valts med en knapp,
 // och öppnar historiken på kortet för ett mål som väljs i tidslinjen.
 // Utan skriptet står allt och historiken är hopfälld.

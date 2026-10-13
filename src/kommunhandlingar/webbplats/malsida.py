@@ -1,4 +1,4 @@
-"""Krav: K26, K27 och K29 i docs/02-KRAV.md, ADR-0044, ADR-0045 och ADR-0047.
+"""Krav: K26, K27 och K29 i docs/02-KRAV.md, ADR-0044, ADR-0045 och ADR-0050.
 Test: tests/test_mal.py och tests/test_malkort.py.
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, antalet

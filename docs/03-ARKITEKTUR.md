@@ -1502,7 +1502,7 @@ filen (K26), länkad från organets sida.
   står i pekrutan, en prognos har en streckad ram, och stilen står i
   `webbplats/mall.py` så att andra sidor kan använda dem.
 - **Sidan** (`webbplats/malsida.py`, K29,
-  [ADR-0047](decisions/0047-malsidan-visas-som-tidslinje-och-malkort.md))
+  [ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md))
   börjar med en kort inledning och en hopfälld del om hur målen tagits
   fram. Åren går från första till sista år med mål. Ett år som varken
   har dokument från organet i poolen eller mål i filen är en lucka; ett

@@ -1,4 +1,4 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0047. Kod: src/kommunhandlingar/webbplats/
+"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Kod: src/kommunhandlingar/webbplats/
 maltidslinje.py, malkort.py, malsida.py, malstatistik.py och mal.js."""
 
 import re
