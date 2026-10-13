@@ -1,0 +1,35 @@
+# TILLFÄLLIG (#88): listar Gymnasium & Arbetsmarknads filer i arkivets två
+# Episerver-generationer. Tas bort före merge.
+name: Prov av Episerver-arkivet
+
+on:
+  push:
+    branches: [claude/project-thread-wynbq3]
+
+permissions:
+  contents: read
+
+jobs:
+  prov:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: CDX för båda generationerna
+        run: |
+          set -u
+          ua="kommunhandlingar (+https://github.com/moggleif/kommunhandlingar)"
+          for prefix in \
+            "kungsbacka.se/Global/Kommun%20och%20politik/" \
+            "www.kungsbacka.se/Global/Kommun%20och%20politik/" \
+            "kungsbacka.se/globalassets/kommun-och-politik/" \
+            "www.kungsbacka.se/globalassets/kommun-och-politik/"; do
+            for forsok in 1 2 3 4; do
+              if curl -sSf -A "$ua" -m 300 -o lista.txt \
+                "https://web.archive.org/cdx/search/cdx?url=${prefix}&matchType=prefix&fl=timestamp,original,mimetype,statuscode,length&filter=statuscode:200"; then
+                break
+              fi
+              sleep $((forsok * 15))
+            done
+            echo "=== $prefix: $(wc -l < lista.txt) rader"
+            grep -i "gymnas" lista.txt | sort -k2,2 -k1,1 || true
+          done
