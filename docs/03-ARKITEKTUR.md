@@ -491,9 +491,12 @@ steg 2 gör som för de levande källorna med två skillnader:
   Plattformen är källnyckelns första del, före `:`. En kandidat ur
   arkivet hämtas inte heller när sammanträdet (organ och datum) har ett
   fullständigt dokument av samma typ från en annan plattform. En plats
-  vars dokument är `ej-hamtad` från en annan plattform tas däremot av
-  kandidaten: den hämtas dit, och den gamla nyckeln flyttas till
-  `tidigare_kallnycklar`.
+  vars dokument ur arkivet är `ej-hamtad` från en annan plattform tas
+  däremot av kandidaten: den hämtas dit, och den gamla nyckeln flyttas
+  till `tidigare_kallnycklar`. Ett försök från en levande källa tas inte
+  över. När båda plattformarna har en kandidat för ett nytt sammanträde
+  går `episerver` före `sitevision`, eftersom kandidaterna med samma
+  datum och typ ordnas efter källnyckeln (K13).
 - **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
   byten blir `ej-hamtad` med `fel: kapad`.
 

@@ -32,9 +32,14 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
     return Kalla(
         mappar(schema.varde(post, "mappar", dict, var), organ_id, var),
         tuple(monster.kompilera(p, set(), f"{var}, typer") for p in typer),
-        tuple(datummonster(t, var) for t in schema.textlista(post, "datum", var)),
+        tuple(
+            monster.datummonster(t, "datum", var)
+            for t in schema.textlista(post, "datum", var)
+        ),
         monster.manader(post, var),
-        rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
+        monster.rattelser(
+            schema.valfritt(post, "rattelser", dict, var) or {}, "episerver", var
+        ),
     )
 
 
@@ -44,21 +49,9 @@ def mappar(tabell: dict, organ_id: list[str], var: str) -> dict[str, tuple[str, 
             raise Konfigurationsfel(f"{var}: mapparna för {organ!r}")
         if not all(isinstance(m, str) and m.endswith("/") for m in lista):
             raise Konfigurationsfel(f"{var}: en mapp för {organ!r} slutar inte på /")
+        if any("://" in m for m in lista):
+            raise Konfigurationsfel(f"{var}: en mapp för {organ!r} har protokoll")
     return {organ: tuple(lista) for organ, lista in tabell.items()}
-
-
-def datummonster(text: str, var: str) -> re.Pattern:
-    uttryck = monster.uttryck(text, f"{var}, datum")
-    if set(uttryck.groupindex) != monster.DATUMGRUPPER:
-        raise Konfigurationsfel(f"{var}: datum ska ha grupperna ar, manad och dag")
-    return uttryck
-
-
-def rattelser(tabell: dict, var: str) -> dict[str, date]:
-    for nyckel, datum in tabell.items():
-        if not nyckel.startswith("episerver:") or not schema.ar_av_slag(datum, date):
-            raise Konfigurationsfel(f"{var}: rättelsen för {nyckel!r}")
-    return tabell
 
 
 def typ_och_datum(kalla: Kalla, text: str, nyckel: str) -> tuple[str, date]:

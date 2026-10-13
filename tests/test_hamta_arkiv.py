@@ -25,7 +25,7 @@ class KapandeKlient(Klient):
         mal.write_bytes(innehall[: len(innehall) // 2])
 
 
-class TestArkivet(unittest.TestCase):
+class Arkivbas(unittest.TestCase):
     def setUp(self):
         katalog = tempfile.TemporaryDirectory()
         self.addCleanup(katalog.cleanup)
@@ -51,6 +51,8 @@ class TestArkivet(unittest.TestCase):
     def falt(self, namn: str = "protokoll") -> dict[str, str]:
         return frontmatter.las(self.md(namn).read_text(encoding="utf-8"))
 
+
+class TestArkivet(Arkivbas):
     def test_ett_dokument_i_poolen_andras_inte(self):
         self.klient.filer |= {"u1": "begransad.pdf", W1: "sidor.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)

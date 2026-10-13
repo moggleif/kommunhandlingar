@@ -1,14 +1,14 @@
 """Krav: K23 i docs/02-KRAV.md, ADR-0039.
-Kod: src/kommunhandlingar/luckor.py och src/kommunhandlingar/behandla.py."""
+Kod: src/kommunhandlingar/arkivluckor.py och src/kommunhandlingar/behandla.py."""
 
 from kommunhandlingar import frontmatter
 from tests.test_hamta import kandidat
-from tests.test_hamta_arkiv import LUCKOR, W1, W2, TestArkivet
+from tests.test_hamta_arkiv import LUCKOR, W1, W2, Arkivbas
 
 W3 = "https://web.archive.org/web/3id_/https://k.se/3.pdf"
 
 
-class TestPlattformar(TestArkivet):
+class TestPlattformar(Arkivbas):
     """Arkivets kandidater från två plattformar: `s:` och `e:`."""
 
     def test_mot_med_typen_fran_en_annan_plattform_hamtas_inte(self):
@@ -61,4 +61,11 @@ class TestPlattformar(TestArkivet):
         self.klient.filer |= {W1: "kapad:begransad.pdf", W3: "begransad.pdf"}
         self.kor(kandidat("s:1", W1))
         self.assertEqual(self.kor(kandidat("s:3", W3)), [LUCKOR])
+        self.assertEqual(self.falt()["kallnyckel"], "s:1")
+
+    def test_ett_forsok_fran_en_levande_kalla_tas_inte_over(self):
+        self.klient.filer |= {"u1": "fel:404", W2: "begransad.pdf"}
+        self.kor(kandidat("s:1", "u1"), arkiv=False)
+        self.assertEqual(self.falt()["kvalitet"], "ej-hamtad")
+        self.assertEqual(self.kor(kandidat("e:1", W2)), [LUCKOR])
         self.assertEqual(self.falt()["kallnyckel"], "s:1")

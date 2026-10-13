@@ -31,7 +31,7 @@ class Kommun:
     kallor: tuple[sitevision.Kalla, ...]
     omkonvertera: bool
     # Källor som bara finns i Internet Archive (ADR-0039).
-    arkivkallor: tuple[episerver.Kalla, ...] = ()
+    arkivkallor: tuple[episerver.Kalla, ...]
 
 
 def las(sokvag: Path) -> Kommun:

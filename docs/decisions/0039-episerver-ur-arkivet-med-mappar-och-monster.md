@@ -77,8 +77,8 @@ skulle varje typkälla behöva ett mönster för varje datumform.
   inte om sammanträdet redan har ett fullständigt dokument av samma typ
   med en källnyckel från en annan plattform. Plattformen är källnyckelns
   första del.
-* **Ett misslyckat försök från en annan plattform** ger plats åt
-  kandidaten. Den hämtas till platsen, och den gamla nyckeln blir en
+* **Ett misslyckat försök ur arkivet från en annan plattform** ger plats
+  åt kandidaten. Ett försök från en levande källa gör det inte. Den hämtas till platsen, och den gamla nyckeln blir en
   tidigare källnyckel. Det undantaget går före regeln i
   [ADR-0003](0003-dokumentets-identitet-och-datamodell.md) att båda
   nycklarna blir dokument när båda finns i listan.
@@ -97,6 +97,16 @@ skulle varje typkälla behöva ett mönster för varje datumform.
   tar platsen utan namn och de andra får namn efter filen. Gymnasium &
   Arbetsmarknad har en fil per möte. Frågan avgörs innan ett sådant organ
   får mappar.
+* Dåligt, eftersom ordningen mellan plattformarna följer källnyckeln
+  (K13): för ett nytt sammanträde med kandidater från båda går
+  Episerver före Sitevision. För Gymnasium & Arbetsmarknad spelar det
+  ingen roll, eftersom åren då båda fanns redan är hämtade från
+  Sitevision. För ett organ med en fil per ärende måste ordningen avgöras
+  innan organet får mappar.
+* Dåligt, eftersom samma fil kan ha sparats under adresser som bara
+  skiljer sig i versaler, i teckenkodning (`%F6` mot `%C3%B6`) eller i
+  `+` mot `%20`. De blir var sin nyckel och två dokument. Gymnasium &
+  Arbetsmarknads filer gav inga sådana par i provet från Actions.
 * Dåligt, eftersom regeln om samma typ jämför med alla dokument i poolen
   för varje kandidat ur arkivet. Med några tusen dokument tar det någon
   sekund.

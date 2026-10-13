@@ -20,10 +20,10 @@ from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, skrivning
 from kommunhandlingar.adaptrar import wayback
+from kommunhandlingar.arkivluckor import hel, ingen_lucka, tas_over
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
-from kommunhandlingar.luckor import hel, ingen_lucka, tas_over
 from kommunhandlingar.plats import filnamnet, grundplats, ledigt_namn
 from kommunhandlingar.pool import Pool
 from kommunhandlingar.tidsbudget import utan_avbrott

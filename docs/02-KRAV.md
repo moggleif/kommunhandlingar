@@ -500,7 +500,9 @@ arkivet per organ.
   dokument ur arkivet har en källnyckel som inte finns i arkivets
   kandidatlista
 - **När** en kandidat ur arkivet för den källnyckeln eller platsen tas
-- **Så** hämtas den inte, och dokumentet i poolen lämnas orört.
+- **Så** hämtas den inte, och dokumentet i poolen lämnas orört. Ett
+  misslyckat försök ur arkivet från en annan plattform är ett undantag
+  (K23).
 - **Givet** flera versioner och kopior av samma fil i arkivet
 - **När** arkivet upptäcks
 - **Så** blir den nyaste versionen kandidat, med den största kopian och vid

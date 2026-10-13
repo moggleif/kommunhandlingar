@@ -30,13 +30,15 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
     motessidor = sidor(schema.varde(post, "sidor", dict, var), organ_id, var)
     return Kalla(
         motessidor,
-        rubrik(schema.varde(post, "rubrik", str, var), var),
+        monster.datummonster(schema.varde(post, "rubrik", str, var), "rubrik", var),
         tuple(
             monster.kompilera(p, MONSTERGRUPPER, f"{var}, mönster")
             for p in monsterposter
         ),
         monster.manader(post, var),
-        rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
+        monster.rattelser(
+            schema.valfritt(post, "rattelser", dict, var) or {}, "sitevision", var
+        ),
         arkivorgan(schema.textlista(post, "wayback", var), motessidor, var),
     )
 
@@ -53,20 +55,6 @@ def sidor(tabell: dict, organ_id: list[str], var: str) -> dict[str, str]:
     for organ, adress in tabell.items():
         if organ not in organ_id or not isinstance(adress, str):
             raise Konfigurationsfel(f"{var}: sidan för {organ!r}")
-    return tabell
-
-
-def rubrik(text: str, var: str) -> re.Pattern:
-    uttryck = monster.uttryck(text, var)
-    if set(uttryck.groupindex) != monster.DATUMGRUPPER:
-        raise Konfigurationsfel(f"{var}: rubrik ska ha grupperna ar, manad och dag")
-    return uttryck
-
-
-def rattelser(tabell: dict, var: str) -> dict[str, date]:
-    for nyckel, datum in tabell.items():
-        if not nyckel.startswith("sitevision:") or not schema.ar_av_slag(datum, date):
-            raise Konfigurationsfel(f"{var}: rättelsen för {nyckel!r}")
     return tabell
 
 

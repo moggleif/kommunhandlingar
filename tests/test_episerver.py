@@ -63,6 +63,10 @@ class TestKommunfilen(unittest.TestCase):
         with self.assertRaisesRegex(Konfigurationsfel, "slutar inte på /"):
             kalla(mappar={"bun": ["exempelby.se/Global"]})
 
+    def test_en_mapp_utan_protokoll(self):
+        with self.assertRaisesRegex(Konfigurationsfel, "har protokoll"):
+            kalla(mappar={"bun": ["https://" + MAPP]})
+
     def test_datummonster_har_alla_datumgrupper(self):
         with self.assertRaisesRegex(Konfigurationsfel, "grupperna ar, manad och dag"):
             kalla(datum=[r"(?P<ar>\d{4})"])
