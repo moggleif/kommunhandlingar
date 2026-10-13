@@ -15,7 +15,7 @@ from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.malavsnitt import kallank
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
-from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
+from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby, protokoll
 
 ROT = Path(__file__).parent.parent
 RUBRIK = (
@@ -154,7 +154,7 @@ class TestSidan(unittest.TestCase):
     def sida(self, dokumentar: set[int] = frozenset({2023, 2025})) -> str:
         with pool() as malen:
             mall = Mall([exempelby()], REPO, TID)
-            return malsida(mall, exempelby(), malen, dokumentar)
+            return malsida(mall, exempelby(), malen, protokoll(*dokumentar))
 
     def test_ett_mal_per_rad_och_ett_ar_per_kolumn(self):
         html = self.sida()

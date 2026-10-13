@@ -16,7 +16,7 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import SLAG, Mal
 from kommunhandlingar.webbplats.malavsnitt import arsavsnitt, namnen
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
-from kommunhandlingar.webbplats.malstatistik import statistik
+from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.statusikon import ikon, teckenforklaring
 
 SKRIPT = Path(__file__).with_name("mal.js")
@@ -64,8 +64,10 @@ def adress(kommun: Kommun, organ: str) -> str:
 # Alla mål är samma organs; åren går från organets första till sista år i
 # poolen eller bland målen. Ett år utan både dokument och mål är en lucka:
 # ett år med mål ur ett senare dokument, som en årsredovisning, är det inte.
-def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], dokumentar: set[int]) -> str:
+def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) -> str:
     organ = malen[0].organ
+    dokumentar = {int(d["datum"][:4]) for d in organets}
+    uppfoljda = [u for u in mall.uppfoljningar.get(kommun.id, []) if u.organ == organ]
     sidans = adress(kommun, organ)
     namn = next(o.namn[0] for o in kommun.organ if o.id == organ)
     spar = sparen(malen)
@@ -83,7 +85,7 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], dokumentar: set[int]) 
         + urval(malen)
         + teckenforklaring()
         + oversikt(spar, alla_ar, luckor)
-        + statistik(malen)
+        + statistik(malen, uppfoljda, protokollar(organets))
         + "".join(arsavsnitt(a, spar, a in luckor) for a in reversed(alla_ar))
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )
