@@ -694,3 +694,38 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **Givet** en sida utan JavaScript
 - **När** kalendersidan visas
 - **Så** står alla sammanträden i båda vyerna, utan urval.
+
+## K23 — Episerver-generationerna läses ur arkivet
+
+Issue: [#88](https://github.com/moggleif/kommunhandlingar/issues/88).
+Webbplatsens äldre generationer (Episerver, 2013–2022) finns bara i
+Internet Archive. Organets mappar där står i kommunfilen; ett organ
+utan mappar läses inte därifrån.
+
+- **Givet** ett organ med mappar i en Episerver-källa
+- **När** arkivet upptäcks
+- **Så** blir varje PDF under mapparna som arkivet har sparat en kandidat,
+  med typ och datum ur sökvägen under mappen enligt kommunfilens mönster,
+  eller med rättelsens datum.
+- **Givet** en fil vars typ eller datum mönstren inte läser, eller vars
+  datum inte finns, och som inte har någon rättelse
+- **När** arkivet upptäcks
+- **Så** blir den ingen kandidat, och det nämns i sammanfattningen.
+- **Givet** samma fil under http och https, med och utan `www`, och i
+  flera kopior
+- **När** arkivet upptäcks
+- **Så** blir den en kandidat, med den största kopian och vid lika storlek
+  den äldsta, och med samma källnyckel varje gång.
+- **Givet** en mapp som arkivet inte svarar för efter de nya försöken i
+  K10
+- **När** arkivet upptäcks
+- **Så** hoppas mappen över och nämns i sammanfattningen.
+- **Givet** ett sammanträde som i poolen har ett fullständigt dokument av
+  en typ, från en annan plattform
+- **När** en kandidat ur arkivet av samma typ för sammanträdet tas
+- **Så** hämtas den inte.
+- **Givet** en plats i poolen som bara har ett `ej-hamtad` ur arkivet från
+  en annan plattform
+- **När** en kandidat ur arkivet för platsen tas
+- **Så** hämtas den till platsen, och det gamla försökets källnyckel blir
+  en tidigare källnyckel, så att den inte hämtas igen.

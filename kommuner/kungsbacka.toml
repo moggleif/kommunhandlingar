@@ -218,6 +218,7 @@ regex = '(?i)^protokoll/'
 [kalla.rattelser]
 "episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Dagordningar/2014/01%20Kallelse.pdf" = 2014-02-19  # kallelsen: sammanträde 2014-02-19
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2018/1.pdf" = 2018-12-03  # kallelsen: sammanträde 2018-12-03
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/21-04-08-kallelse.pdf" = 2021-04-14  # kallelsen: sammanträde 14 april 2021, upprättad 2021-03-25
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/kallelse-jan.pdf" = 2022-01-19  # kallelsen: 19 januari 2022
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2020/101.pdf" = 2020-11-04  # protokollet, § 101: 2020-11-04
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/21-0-13-protokoll.signerad.pub.pdf" = 2021-10-13  # protokollet: 2021-10-13

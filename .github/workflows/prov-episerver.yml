@@ -18,13 +18,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: sudo apt-get update && sudo apt-get install -y poppler-utils
       - run: pip install -e .
-      - name: Första sidan
-        run: |
-          curl -sSfL -A "kommunhandlingar (+https://github.com/moggleif/kommunhandlingar)" -o fil.pdf \
-            "https://web.archive.org/web/20220319194137id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/21-04-08-kallelse.pdf"
-          pdftotext -l 1 -layout fil.pdf - | grep -v '^\s*$' | head -12
       - name: Arkivets upptäckt
         run: |
           python -m kommunhandlingar.upptack kommuner/kungsbacka.toml "$RUNNER_TEMP/arbete" --arkiv | grep -v "^Ingen kandidat: .*ingen kopia" | tail -40

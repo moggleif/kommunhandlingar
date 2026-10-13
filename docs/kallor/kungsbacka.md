@@ -244,7 +244,10 @@ Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
 och slås på per organ i kommunfilens `wayback`
 ([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)); övriga
 organ väntar tills konverteringen är färdig. De två
-Episerver-generationerna hämtas inte än.
+Episerver-generationerna läses med adaptern `episerver` ur organets mappar
+i kommunfilen
+([ADR-0039](../decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md));
+bara de organ som har mappar där hämtas.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns
