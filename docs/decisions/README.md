@@ -62,3 +62,4 @@ Regler för det här repot, utöver MADR:
 | 0034 | [En tabell med linjer som bara ramar in en del av sig själv fälls](0034-en-avskuren-tabell-med-linjer-falls.md) | proposed |
 | 0035 | [Avsnittsrubriker och årtal håller ihop en tabell utan lodräta linjer](0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md) | proposed |
 | 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | proposed |
+| 0037 | [Rubrikrader, radavstånd och sidfot i tabeller utan lodräta linjer](0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md) | proposed |

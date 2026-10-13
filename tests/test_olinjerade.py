@@ -159,9 +159,9 @@ class TestRubriker(unittest.TestCase):
         rubrik = [ord_("Belopp", 100, 80, 40), *self.BUDGET_PLAN]
         self.assertEqual(self.rubriker(rubrik), [["Belopp", "Budget", "Plan"]])
 
-    def test_rubrik_med_tal_ovanfor_tas_inte_med(self):
+    def test_rubrik_under_en_rad_med_tal_tas_med(self):
         tal = rad(65, "Annat", ("1 000", 200), ("2 000", 300))
-        self.assertEqual(self.rubriker(tal, self.BUDGET_PLAN), [])
+        self.assertEqual(self.rubriker(tal, self.BUDGET_PLAN), [["", "Budget", "Plan"]])
 
     def test_rubrik_som_borjar_bland_etiketterna_tas_inte_med(self):
         rubrik = [ord_("Verksamhetens", 200, 80, 120), ord_("Plan", 300, 80, 25)]
