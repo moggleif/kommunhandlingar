@@ -1458,22 +1458,24 @@ filen (K26), länkad från organets sida.
   | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
   | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
   | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
-  | `kalla`       | Sidan i poolen: `<organ>/<år>/<datum>/<namn>.md#sida-N`.   |
+  | `kalla`       | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna, `#sida-N-M`. |
 
 - **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
   formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
   Bara det nämnden själv beslutat står med, inte kommunfullmäktiges mål
   eller direktiv. Rubrik, formulering och status ur samma rad står på
-  samma sida; står de på olika sidor blir det två rader.
+  källans sidor; fortsätter målet på nästa sida är källan båda sidorna,
+  och står de längre isär blir det två rader.
 - **Kontrollen** (`webbplats/mal.py`) stoppar bygget med raden om
   rubrikerna inte är kolumnerna ovan, organet inte står i kommunfilen,
   året inte är fyra siffror, slaget är något annat, källan inte är en
-  sida som finns i ett av organets dokument i poolen, rubriken,
-  formuleringen eller statusen inte står på sidan, eller samma organ,
-  slag och rubrik står två gånger med samma källa. Texten jämförs efter
-  att radbrytningar och upprepade mellanslag gjorts till ett mellanslag
-  och Markdown-escapningen tagits bort. En målfil utan kommunfil stoppar
-  också bygget.
+  sida eller sidor som finns i ett av organets dokument i poolen,
+  rubriken, formuleringen eller statusen inte står på sidorna, eller
+  samma organ, slag och rubrik står två gånger med samma källa. Texten jämförs efter
+  att radbrytningar och upprepade mellanslag gjorts till ett mellanslag,
+  punkter (`-`, `•`, `*`) först i en rad strukits och Markdown-escapningen
+  tagits bort; versalerna räknas. En målfil utan kommunfil stoppar också
+  bygget.
 - **Samma mål** är samma organ, slag och rubrik utan hänsyn till
   versaler; rubriken visas som den först står.
 - **Sidan** (`webbplats/malsida.py`) börjar med en kort inledning och en

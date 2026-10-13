@@ -2,8 +2,8 @@
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, urvalet
 av slag, översikten med ett mål per rad och ett år per kolumn, och ett
-avsnitt per år. Skriptet i `mal.js` döljer det som valts bort; utan det
-står allt på sidan.
+avsnitt per år (`malavsnitt.py`). Skriptet i `mal.js` döljer det som valts
+bort; utan det står allt på sidan.
 """
 
 from collections import defaultdict
@@ -12,6 +12,7 @@ from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import SLAG, Mal
+from kommunhandlingar.webbplats.malavsnitt import arsavsnitt
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
 
 SKRIPT = Path(__file__).with_name("mal.js")
@@ -41,7 +42,6 @@ button.spar { background: none; border: none; padding: 0; font: inherit;
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
 details { margin-bottom: 1rem; }
 """
-Spar = tuple[str, str, str]
 
 
 def adress(kommun: Kommun, organ: str) -> str:
@@ -75,12 +75,11 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], dokumentar: set[int]) 
     return sida(mall, sidans, f"Mål och direktiv – {namn}", innehall)
 
 
-# Ett mål per spår, i ordning efter första år, slag och rubrik.
-def sparen(malen: list[Mal]) -> dict[Spar, list[Mal]]:
+def sparen(malen: list[Mal]) -> list[list[Mal]]:
     spar = defaultdict(list)
     for mal in sorted(malen, key=ordning):
         spar[mal.spar].append(mal)
-    return dict(spar)
+    return list(spar.values())
 
 
 def ordning(mal: Mal) -> tuple[int, int, str]:
@@ -105,19 +104,19 @@ def urval(malen: list[Mal]) -> str:
     return f'<fieldset class="urval"><legend>Visas</legend>{rutor} {knapp}</fieldset>'
 
 
-def oversikt(spar: dict[Spar, list[Mal]], alla_ar: range, luckor: set[int]) -> str:
+def oversikt(spar: list[list[Mal]], alla_ar: range, luckor: set[int]) -> str:
     huvud = "".join(
         f'<th scope="col">{a}{"<br>lucka" if a in luckor else ""}</th>' for a in alla_ar
     )
     rader = "".join(
-        f'<tr data-slag="{nyckel[1]}" data-spar="{nr}"><th scope="row">'
+        f'<tr data-slag="{malen[0].slag}" data-spar="{nr}"><th scope="row">'
         f'<button type="button" class="spar">{escape(malen[0].rubrik)}</button>'
-        f" ({nyckel[1]})</th>"
+        f" ({malen[0].slag})</th>"
         + "".join(
             f"<td>{cell([m for m in malen if m.ar == a], a)}</td>" for a in alla_ar
         )
         + "</tr>"
-        for nr, (nyckel, malen) in enumerate(spar.items())
+        for nr, malen in enumerate(spar)
     )
     return (
         '<h2 id="oversikt">Översikt</h2><div class="tabell"><table>'
@@ -133,44 +132,3 @@ def cell(arets: list[Mal], ar: int) -> str:
         f"<br><small>{escape(m.status)}</small>" for m in arets if m.status
     )
     return f'<a href="#ar-{ar}" aria-label="Med {ar}">●</a>{status}'
-
-
-def arsavsnitt(ar: int, spar: dict[Spar, list[Mal]], lucka: bool) -> str:
-    artiklar = "".join(
-        artikel(nr, [m for m in malen if m.ar == ar])
-        for nr, malen in enumerate(spar.values())
-        if any(m.ar == ar for m in malen)
-    )
-    if lucka:
-        artiklar = "<p>Poolen har inga dokument från organet det här året.</p>"
-    elif not artiklar:
-        artiklar = "<p>Inga mål eller direktiv i poolens dokument från året.</p>"
-    return f'<section id="ar-{ar}"><h2>{ar}</h2>{artiklar}</section>'
-
-
-def artikel(nr: int, arets: list[Mal]) -> str:
-    forsta = arets[0]
-    poster = "".join(f"<li>{post(m)}</li>" for m in arets)
-    return (
-        f'<article data-slag="{forsta.slag}" data-spar="{nr}">'
-        f"<h3>{escape(forsta.rubrik)}</h3><p>{forsta.slag.capitalize()}</p>"
-        f"<ul>{poster}</ul></article>"
-    )
-
-
-def post(mal: Mal) -> str:
-    delar = []
-    if mal.formulering:
-        delar.append(f"<q>{escape(mal.formulering)}</q>")
-    if mal.status:
-        delar.append(f"Status: {escape(mal.status)}")
-    return "<br>".join([*delar, f"Källa: {kallank(mal.kalla)}"])
-
-
-# Sidan ligger i organets katalog, bredvid årens kataloger.
-def kallank(kalla: str) -> str:
-    dokument, sidnr = kalla.split("#sida-")
-    _, _, datum, fil = dokument.split("/")
-    adress = dokument.split("/", 1)[1].removesuffix(".md") + f".html#sida-{sidnr}"
-    text = f"{fil.removesuffix('.md')} {datum}, sida {sidnr}"
-    return f'<a href="{escape(adress)}">{escape(text)}</a>'

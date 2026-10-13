@@ -52,7 +52,7 @@ def bygg_organen(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> 
         (ut / kommun.id / f"{rad.id}.html").write_text(html, encoding="utf-8")
         if malen := [m for m in mall.malen.get(kommun.id, []) if m.organ == rad.id]:
             html = malsida(mall, kommun, malen, {int(d["datum"][:4]) for d in organets})
-            skriv(ut / malsidans_adress(kommun, rad.id), html)
+            (ut / malsidans_adress(kommun, rad.id)).write_text(html, encoding="utf-8")
 
 
 def kommunfiler(katalog: Path, kommuner: list[Kommun]) -> frozenset[str]:
@@ -69,11 +69,6 @@ def las_malen(rot: Path, kommuner: list[Kommun]) -> dict[str, list[mal.Mal]]:
         for k in kommuner
         if k.id in filer
     }
-
-
-def skriv(fil: Path, html: str) -> None:
-    fil.parent.mkdir(exist_ok=True)
-    fil.write_text(html, encoding="utf-8")
 
 
 def bygg_kalender(rot: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:

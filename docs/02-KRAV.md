@@ -749,15 +749,16 @@ Hur och varför står i
 och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 
 - **Givet** en kommun med en målfil, där varje rad är ett av nämndens
-  egna mål eller direktiv med år, rubrik och en sida i ett dokument i
-  poolen som källa
+  egna mål eller direktiv med år, rubrik och en sida, eller två sidor i
+  följd, i ett dokument i poolen som källa
 - **När** webbplatsen byggs
 - **Så** har varje organ med rader en sida om sina mål och direktiv,
   länkad från organets sida.
 - **Givet** sidan om ett organs mål och direktiv
 - **När** den visas
 - **Så** står överst en översikt med ett mål eller direktiv per rad och
-  ett år per kolumn, från organets första till sista år i poolen, och
+  ett år per kolumn, från organets första till sista år i poolen eller
+  bland målen, och
   under den ett avsnitt per år med varje mål: rubriken, formuleringen,
   statusen när en uppföljning anger den, och en länk till källans sida.
 - **Givet** ett år utan dokument från organet i poolen och utan mål ur
@@ -780,7 +781,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   som inte är fyra siffror, ett slag som varken är `nämndmål` eller
   `direktiv`, en källa som inte är en sida i ett av organets dokument i
   poolen, en rubrik, formulering eller status som inte står på källans
-  sida, samma mål två gånger ur samma källa, eller en målfil utan
+  sidor, samma mål två gånger ur samma källa, eller en målfil utan
   kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.

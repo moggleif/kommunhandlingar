@@ -16,9 +16,11 @@ from kommunhandlingar.konfiguration import Kommun
 
 KOLUMNER = ["organ", "ar", "slag", "rubrik", "formulering", "status", "kalla"]
 SLAG = ("nämndmål", "direktiv")
-# Ett dokument ligger på <organ>/<år>/<datum>/<namn>.md (ADR-0003).
+# Ett dokument ligger på <organ>/<år>/<datum>/<namn>.md (ADR-0003). Ett
+# mål som fortsätter på nästa sida har sidorna, till exempel `#sida-14-15`.
 KALLA = re.compile(
-    r"(?P<dokument>(?P<organ>[^/]+)/\d{4}/[^/]+/[^/]+\.md)#sida-(?P<nr>\d+)"
+    r"(?P<dokument>(?P<organ>[^/]+)/\d{4}/[^/]+/[^/]+\.md)"
+    r"#sida-(?P<forsta>\d+)(?:-(?P<sista>\d+))?"
 )
 SIDA = re.compile(r"^<!-- sida (\d+) -->$", re.MULTILINE)
 ESCAPNING = re.compile(r"\\([!-/:-@\[-`{-~])")
@@ -37,7 +39,6 @@ class Mal:
     status: str
     kalla: str
 
-    # Samma mål är samma organ, slag och rubrik, utan hänsyn till versaler.
     @property
     def spar(self) -> tuple[str, str, str]:
         return self.organ, self.slag, self.rubrik.casefold()
@@ -89,11 +90,19 @@ def sidlasare(data: Path) -> Sidtext:
             raise ValueError(f"källan {kalla!r} är ingen sida i organets dokument")
         if not (data / traff["dokument"]).is_file():
             raise ValueError(f"källan {kalla!r} är inget dokument i poolen")
-        if traff["nr"] not in (dokumentet := sidor(traff["dokument"])):
+        dokumentet = sidor(traff["dokument"])
+        nr = sidnummer(traff)
+        if not nr or any(n not in dokumentet for n in nr):
             raise ValueError(f"källan {kalla!r} är ingen sida i dokumentet")
-        return dokumentet[traff["nr"]]
+        return " ".join(dokumentet[n] for n in nr)
 
     return sidtext
+
+
+def sidnummer(traff: re.Match) -> list[str]:
+    forsta = int(traff["forsta"])
+    sista = int(traff["sista"] or forsta)
+    return [str(n) for n in range(forsta, sista + 1)]
 
 
 def las_sidor(fil: Path) -> dict[str, str]:
@@ -103,7 +112,7 @@ def las_sidor(fil: Path) -> dict[str, str]:
     }
 
 
-# Radbrytningarna ur PDF:en, punkterna först i en rad, versalerna och
+# Radbrytningarna ur PDF:en, punkterna först i en rad och
 # Markdown-escapningen (ADR-0021) räknas inte.
 def jamforbar(text: str) -> str:
-    return " ".join(PUNKT.sub("", ESCAPNING.sub(r"\1", text)).split()).casefold()
+    return " ".join(PUNKT.sub("", ESCAPNING.sub(r"\1", text)).split())

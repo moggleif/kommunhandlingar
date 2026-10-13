@@ -16,10 +16,12 @@ gäller det Nämnden för Gymnasium & Arbetsmarknad, vars dokument i poolen
 spänner från 2013 till 2026 med luckor.
 
 Målen står i nämndbudgetarna och statusen i delårsrapporterna och
-årsredovisningarna. Formen har skiftat: 2013 och 2014 har nämndbudgetar
-med egna rubriker, 2018 en tabell med "Status direktiv", och sedan 2021
-avsnitt märkta "Beslutats av Nämnd" bland kommunfullmäktiges mål. Samma
-mål kan byta rubrik mellan åren. Hur kommer målen in på sidan, och hur
+årsredovisningarna. Formen har skiftat: årsredovisningen 2017 skiljer
+nämndens mål från fullmäktiges bara genom "Nämndens formulering", och
+sedan 2018 är avsnitten märkta "Beslutats av Nämnd" bland
+kommunfullmäktiges mål. Statusen står ibland på sidan efter rubriken,
+och textlagret blandar ibland ihop dem. Samma mål kan byta rubrik mellan
+åren. Hur kommer målen in på sidan, och hur
 blir sidan pålitlig?
 
 ## Decision Drivers
@@ -51,14 +53,17 @@ rätt sida, och bygget fäller en rad vars text inte står där.
   (ADR-0032), med kolumnerna `organ`, `ar`, `slag`, `rubrik`,
   `formulering`, `status` och `kalla`. `slag` är `nämndmål` eller
   `direktiv`. `kalla` är ett dokument i poolen med sidan,
-  `<organ>/<år>/<datum>/<namn>.md#sida-N`.
+  `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna,
+  `#sida-N-M`, när ett mål fortsätter på nästa sida.
 * **Texten är källans.** `rubrik`, `formulering` och `status` skrivs
-  ordagrant; bara radbrytningar blir mellanslag. En rad per mål, år och
-  dokument: budgeten ger formuleringen, uppföljningen statusen.
+  ordagrant; bara radbrytningar blir mellanslag, och punkter först i en
+  rad och Markdown-escapningen räknas inte. Versalerna räknas. En rad
+  per mål, år och dokument: budgeten ger formuleringen, uppföljningen
+  statusen.
 * **Kontrollen:** bygget stoppas om ett organ inte står i kommunfilen,
   året inte är fyra siffror, `slag` är något annat, källan inte är en
   sida i ett dokument i poolen för organet, eller rubriken, formuleringen
-  eller statusen inte står på den sidan.
+  eller statusen inte står på källans sidor.
 * **Samma mål** är samma organ, slag och rubrik, utan hänsyn till
   versaler. Ett mål som bytt rubrik står som två.
 * **Sidan** är `<kommun>/<organ>/mal-och-direktiv.html`, länkad från
@@ -78,8 +83,14 @@ rätt sida, och bygget fäller en rad vars text inte står där.
   är nämndens eget mål; den bedömningen är agentens och syns bara i
   källan.
 * Bad, eftersom ett mål som bytt rubrik bryter spåret i översikten.
+* Bad, eftersom kontrollen jämför delsträngar: "Uppnått" står också i
+  "Delvis uppnått", och en rubrik kan stå i brödtexten. Den fångar
+  felskrivningar och fel dokument, men inte alltid fel plats på sidan.
 * Bad, eftersom ett dokument som flyttas i poolen (till exempel när
-  ärendefiler slås ihop) fäller raderna tills de skrivs om.
+  ärendefiler slås ihop) eller konverteras om med en annan text fäller
+  raderna, och då stoppas hela webbplatsbygget, för alla kommuner, tills
+  raderna skrivs om. Testet av Kungsbackas fil fäller samma ändring redan
+  i nattkörningens PR.
 
 ### Confirmation
 
@@ -100,7 +111,7 @@ poolen.
 
 * Good, eftersom nya budgetar kommer med av sig själva.
 * Bad, eftersom formen skiljer sig mellan åren och "Beslutats av Nämnd"
-  bara finns sedan 2021; koden blir stor och gissar vem som beslutat.
+  bara finns sedan 2018; koden blir stor och gissar vem som beslutat.
 * Bad, eftersom kommunfullmäktiges mål står i samma avsnitt och måste
   skiljas ut.
 
@@ -125,9 +136,17 @@ statusen, och att bara nämndens egna mål och direktiv ska med, inget
 annat; därför står kommunfullmäktiges mål och direktiv inte heller som
 länkar.
 
-Kontrollen prövar texten efter att radbrytningar gjorts till mellanslag
-och Markdown-escapningen tagits bort, så att en rad kan skrivas som den
-läses i PDF:en.
+Kontrollen prövar texten efter att radbrytningar gjorts till mellanslag,
+punkter först i en rad strukits och Markdown-escapningen tagits bort, så
+att en rad kan skrivas som den läses i PDF:en. Versalerna räknas, så att
+en rubrik inte går igenom bara för att samma ord står i brödtexten.
+
+Granskningen visade att en status ofta står på sidan efter rubriken, och
+att textlagret ibland lägger statusen mitt i rubriken ("Status direktiv
+Nya målgrupper långt ifrån Delvis uppnått arbetsmarknaden"). Med en
+källa per sida blev sådana mål två spår i översikten, ett med rubriken
+och ett med statusen. Källan kan därför vara två sidor i följd, och
+rubriken, formuleringen och statusen ska stå på någon av dem.
 
 Sidnumret i källan pekar på ankaret `sida-N` på dokumentets sida
 (ADR-0023), så att länken öppnar rätt sida.

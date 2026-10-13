@@ -210,8 +210,8 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
 - **Statusraden avbryter ibland rubriken** i textlagret ("Status
   direktiv Nya målgrupper långt ifrån Delvis uppnått arbetsmarknaden"),
   och uppföljningen kortar ibland rubriken ("IM organisation",
-  "Kollegialt lärande"). Statusen står då under rubriken som den står
-  på sidan.
+  "Kollegialt lärande"). Statusen står ofta på sidan efter rubriken;
+  målfilen har då båda sidorna som källa.
 - **Handlingarna 2014** är PDF-portföljer; texten är bara "Bästa
   resultat får du om du öppnar den här PDF-portföljen", så nämndbudget
   2014 och årsredovisning 2013 finns inte i poolen. Handlingarna april

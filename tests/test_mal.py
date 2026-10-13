@@ -1,5 +1,5 @@
 """Krav: K26 i docs/02-KRAV.md, ADR-0044. Kod: src/kommunhandlingar/webbplats/
-mal.py, malsida.py och bygg.py."""
+mal.py, malsida.py, malavsnitt.py och bygg.py."""
 
 import shutil
 import tempfile
@@ -11,6 +11,7 @@ from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las as las_kommun
 from kommunhandlingar.webbplats import mal
 from kommunhandlingar.webbplats.bygg import bygg
+from kommunhandlingar.webbplats.malavsnitt import kallank
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
@@ -30,11 +31,11 @@ känna sig trygga.
 
 <!-- sida 2 -->
 
-Status direktiv LÄSFRÄMJANDE        Delvis uppnått <b>
+Status direktiv Läsfrämjande        Delvis uppnått <b>
 
 <!-- sida 3 -->
 
-Läsfrämjande
+läsfrämjande
 """
 RADER = (
     f"fsn,2025,nämndmål,Trygga miljöer,Alla ska känna sig trygga.,,{BUDGET}#sida-1\n"
@@ -114,6 +115,16 @@ class TestLasning(unittest.TestCase):
         fel = self.stoppas(f"fsn,2025,nämndmål,Trygga miljöer,,,{BUDGET}#sida-2\n")
         self.assertIn("rubriken", fel)
 
+    def test_versalerna_raknas(self):
+        fel = self.stoppas(f"fsn,2025,nämndmål,trygga miljöer,,,{BUDGET}#sida-1\n")
+        self.assertIn("rubriken", fel)
+
+    def test_ett_mal_over_tva_sidor(self):
+        rad = f"fsn,2026,nämndmål,Trygga miljöer,,Delvis uppnått,{BUDGET}#sida-1-2\n"
+        with pool(rad) as malen:
+            self.assertEqual(malen[0].status, "Delvis uppnått")
+        self.assertIn("ingen sida", self.stoppas(rad.replace("1-2", "2-4")))
+
     def test_formulering_som_inte_star_pa_sidan(self):
         rad = f"fsn,2025,nämndmål,Trygga miljöer,Alla ska må bra.,,{BUDGET}#sida-1\n"
         self.assertIn("formuleringen", self.stoppas(rad))
@@ -151,7 +162,7 @@ class TestSidan(unittest.TestCase):
         self.assertNotIn("Poolen har inga dokument", html)
 
     def test_ar_med_dokument_men_utan_mal(self):
-        text = "Inga mål eller direktiv i poolens dokument från året."
+        text = "Poolens dokument från året har inga av nämndens mål eller direktiv"
         self.assertIn(text, self.sida())
 
     def test_status_i_oversikten_och_avsnittet(self):
@@ -163,6 +174,10 @@ class TestSidan(unittest.TestCase):
         self.assertIn(
             'href="2024/2024-05-02/protokoll.html#sida-1">protokoll 2024-05-02, sida 1',
             self.sida(),
+        )
+        self.assertIn(
+            'protokoll.html#sida-1">protokoll 2024-05-02, sida 1–2',
+            kallank(f"{BUDGET}#sida-1-2"),
         )
 
     def test_avsnitten_nyast_forst_med_skript(self):
