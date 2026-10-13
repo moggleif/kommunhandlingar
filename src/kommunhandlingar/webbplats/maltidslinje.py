@@ -10,22 +10,23 @@ protokollen, med ett streck för år utan protokoll med text.
 from html import escape
 
 from kommunhandlingar.webbplats.mal import SLAG, Mal
-from kommunhandlingar.webbplats.statusikon import bild, ikon, teckenforklaring
+from kommunhandlingar.webbplats.malspar import (
+    arets,
+    egenskaper,
+    forsta,
+    rubriken,
+    slagen,
+)
+from kommunhandlingar.webbplats.statusikon import teckenforklaring
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
 MARKERINGAR = {"uppföljning": "godkänd uppföljning", "dragning": "dragning om målen"}
 KLASS = {"uppföljning": "godkand", "dragning": "dragning"}
-# Det som visas för ett år: ett utfall går före en rapport, en prognos och
-# beslutet.
-FORETRADE = ("utfall", "rapport", "prognos", "")
 
 
 def tidslinje(spar: list[list[Mal]], ar: range, luckor: set[int], namnden: str) -> str:
-    huvud = "".join(
-        f'<th scope="col"{" class=lucka" if a in luckor else ""}>{a}'
-        f"{'<br><small>lucka</small>' if a in luckor else ''}</th>"
-        for a in ar
-    )
+    med_mal = {m.ar for malen in spar for m in malen}
+    huvud = "".join(arskolumn(a, a in luckor, a in med_mal) for a in ar)
     grupper = "".join(slagets(slag, spar, ar) for slag in SLAG)
     return (
         f'<h2 id="tidslinje">Tidslinje</h2>{teckenforklaring()}<div class="tabell">'
@@ -34,19 +35,14 @@ def tidslinje(spar: list[list[Mal]], ar: range, luckor: set[int], namnden: str) 
     )
 
 
-# Egenskaperna som urvalet i skriptet väljer på, för tidslinjen och korten.
-def egenskaper(nr: int, malen: list[Mal], ar: range) -> str:
-    aktiv = "ja" if malen[-1].ar == ar[-1] else "nej"
-    bytt = "ja" if len({m.namn for m in malen}) > 1 else "nej"
-    return (
-        f'data-mal="{nr}" data-slag="{malen[-1].slag}" '
-        f'data-aktiv="{aktiv}" data-bytt="{bytt}"'
-    )
-
-
-# Spårets senaste rubrik, som den först står.
-def rubriken(malen: list[Mal]) -> Mal:
-    return next(m for m in malen if m.namn == malen[-1].namn)
+# Ett år utan mål är antingen en lucka i poolen eller ett år då poolens
+# dokument inte har några mål.
+def arskolumn(ar: int, lucka: bool, med_mal: bool) -> str:
+    if lucka:
+        return f'<th scope="col" class="lucka">{ar}<br><small>lucka</small></th>'
+    if not med_mal:
+        return f'<th scope="col">{ar}<br><small>inga mål</small></th>'
+    return f'<th scope="col">{ar}</th>'
 
 
 def slagets(slag: str, spar: list[list[Mal]], ar: range) -> str:
@@ -61,6 +57,8 @@ def slagets(slag: str, spar: list[list[Mal]], ar: range) -> str:
 
 def rad(nr: int, malen: list[Mal], ar: range) -> str:
     rubrik = f'<a href="#mal-{nr}">{escape(rubriken(malen).rubrik)}</a>'
+    if len(slagen(malen)) > 1:
+        rubrik += f" <small>också {slagen(malen)[0]}</small>"
     celler = "".join(cell(malen, a) for a in ar)
     return f'<tr {egenskaper(nr, malen, ar)}><th scope="row">{rubrik}</th>{celler}</tr>'
 
@@ -76,18 +74,8 @@ def cell(malen: list[Mal], ar: int) -> str:
     return f'<td class="{klass}">{ny_rubrik(malen, ar)}{ikon}</td>'
 
 
-def arets(rader: list[Mal]) -> str:
-    mal = min(rader, key=lambda m: FORETRADE.index(m.uppfoljning))
-    if not mal.uppfoljning:
-        return bild("beslutat", f"{mal.ar}: beslutat, utan uppföljning", False)
-    return ikon(mal.bedomning, mal.status, mal.prognos)
-
-
 def ny_rubrik(malen: list[Mal], ar: int) -> str:
-    forsta: dict[tuple, Mal] = {}
-    for mal in malen:
-        forsta.setdefault(mal.namn, mal)
-    nya = [m for m in forsta.values() if m.ar == ar and m.ar != malen[0].ar]
+    nya = [m for m in forsta(malen).values() if m.ar == ar and m.ar != malen[0].ar]
     return "".join(
         f'<span class="ny-rubrik" role="img" aria-label="Ny rubrik: '
         f'{escape(m.rubrik)}" title="Ny rubrik: {escape(m.rubrik)}"></span>'

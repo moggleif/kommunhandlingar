@@ -47,19 +47,23 @@ Valt: C med A:s tidslinje (projektägarens val). Det ger både en
 * **Ordningen** på sidan är sammandraget (det senaste årets antal och
   grafen, med tabellen hopfälld), ett urval, tidslinjen och korten.
 * **Åren** går från målens första till sista år, som i antalet per år.
-  Poolens dokument från år före målen ger inga tomma kolumner.
+  Poolens dokument från år före målen ger inga tomma kolumner; sidan
+  säger i stället från vilket år poolen har dokument. Ett år med
+  dokument men utan mål står som "inga mål", så att det inte tas för en
+  lucka.
 * **Tidslinjen** har en rad per mål, nämndmålen för sig och direktiven
   för sig. Ett år med målet är en del av ett band med årets status: ett
   utfall går före en rapport, en prognos och beslutet. Ett år utan
   uppföljning har en punkt för beslutet. En ny rubrik är en markering vid
   året. Sist står nämndens uppföljningar och dragningar ur protokollen
-  (K28) på samma tidsaxel.
+  (K28) på samma tidsaxel. Ett mål som varit både nämndmål och direktiv
+  står under sitt senaste slag, märkt med det andra.
 * **Korten** kommer i ordning efter sista och första år. Ett kort har
   slaget, åren, den senaste rubriken och de tidigare, den senaste
   formuleringen, en remsa med ett fält per år och en hopfälld historik.
   Historiken ersätter avsnitten per år.
 * **Urvalet** är knappar för alla, de som gäller det senaste året,
-  nämndmål, direktiv och de som bytt rubrik. Det gäller både tidslinjen
+  nämndmål, direktiv (bara de slag som finns) och de som bytt rubrik. Det gäller både tidslinjen
   och korten. Ett klick på ett mål i tidslinjen går till kortet och
   öppnar historiken. Utan skript står allt, och länkarna går till korten.
 * **Stilen** står i en egen fil bredvid skriptet, `webbplats/mal.css`.

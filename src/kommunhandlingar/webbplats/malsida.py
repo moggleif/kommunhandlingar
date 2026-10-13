@@ -24,6 +24,7 @@ STIL = Path(__file__).with_name("mal.css")
 ADR = "/blob/main/docs/decisions/"
 ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
 ADR_0045 = "0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md"
+ADR_0050 = "0050-malsidan-visas-som-tidslinje-och-malkort.md"
 INLEDNING = (
     "<p>Nämndens egna mål och direktiv år för år, ur nämndbudgetarna, "
     "delårsrapporterna och årsredovisningarna i poolen. Välj ett mål i "
@@ -47,6 +48,16 @@ METOD = (
 )
 
 
+# Sidan börjar med målens första år; poolens dokument kan vara äldre.
+def fore_malen(forsta_dokument: int, forsta_mal: int) -> str:
+    if forsta_dokument >= forsta_mal:
+        return ""
+    return (
+        f"<p>Poolen har dokument från organet sedan {forsta_dokument}, men "
+        f"inga av nämndens mål före {forsta_mal}.</p>"
+    )
+
+
 def adress(kommun: Kommun, organ: str) -> str:
     return f"{kommun.id}/{organ}/mal-och-direktiv.html"
 
@@ -62,7 +73,8 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
     namn = next(o.namn[0] for o in kommun.organ if o.id == organ)
     spar = sparen(malen)
     ar = range(min(m.ar for m in malen), max(m.ar for m in malen) + 1)
-    luckor = set(ar) - {int(d["datum"][:4]) for d in organets} - {m.ar for m in malen}
+    dokumentar = {int(d["datum"][:4]) for d in organets}
+    luckor = set(ar) - dokumentar - {m.ar for m in malen}
     lankar = [
         (f"{rot(sidans)}{kommun.id}.html", kommun.namn),
         (f"../{organ}.html", namn),
@@ -71,9 +83,10 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
         stig(lankar)
         + f"<style>{STIL.read_text(encoding='utf-8')}</style>"
         + INLEDNING
+        + fore_malen(min(dokumentar), ar[0])
         + om_sidan(mall)
         + statistik(malen, uppfoljda, protokoll)
-        + urval(ar[-1])
+        + urval(ar[-1], {m.slag for m in malen})
         + tidslinje(spar, ar, luckor, namnden_rad(uppfoljda, protokoll, ar))
         + korten(spar, ar, luckor)
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
@@ -95,7 +108,7 @@ def ordning(mal: Mal) -> tuple[int, int, str]:
 def om_sidan(mall: Mall) -> str:
     adr = [
         f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
-        for fil in (ADR_0044, ADR_0045)
+        for fil in (ADR_0044, ADR_0045, ADR_0050)
     ]
     return (
         f"<details><summary>Om sidan</summary>{METOD}"
@@ -104,9 +117,9 @@ def om_sidan(mall: Mall) -> str:
 
 
 # Knapparna visas av skriptet; utan det står allt och urvalet behövs inte.
-def urval(sista: int) -> str:
+def urval(sista: int, slagen: set[str]) -> str:
     val = [("alla", "Alla"), ("aktiv", f"Gäller {sista}")]
-    val += [(slag, slag.capitalize()) for slag in SLAG]
+    val += [(slag, slag.capitalize()) for slag in SLAG if slag in slagen]
     val += [("bytt", "Har bytt rubrik")]
     knappar = "".join(
         f'<button type="button" data-urval="{v}">{text}</button>' for v, text in val

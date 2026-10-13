@@ -9,7 +9,13 @@ en hopfälld historik med varje rad, dess status och källa.
 from html import escape
 
 from kommunhandlingar.webbplats.mal import Mal
-from kommunhandlingar.webbplats.maltidslinje import arets, egenskaper, rubriken
+from kommunhandlingar.webbplats.malspar import (
+    arets,
+    egenskaper,
+    forsta,
+    rubriken,
+    slagen,
+)
 from kommunhandlingar.webbplats.statusikon import ikon
 
 
@@ -23,12 +29,12 @@ def korten(spar: list[list[Mal]], ar: range, luckor: set[int]) -> str:
 
 
 def kort(nr: int, malen: list[Mal], ar: range, luckor: set[int]) -> str:
-    senaste = malen[-1]
-    forsta, sista = malen[0].ar, senaste.ar
-    aren = str(forsta) if forsta == sista else f"{forsta}–{sista}"
+    borjan, slut = malen[0].ar, malen[-1].ar
+    aren = str(borjan) if borjan == slut else f"{borjan}–{slut}"
     return (
         f'<article id="mal-{nr}" {egenskaper(nr, malen, ar)}>'
-        f'<p class="markor"><span>{senaste.slag}</span> <span>{aren}</span></p>'
+        f'<p class="markor"><span>{" och ".join(slagen(malen))}</span> '
+        f"<span>{aren}</span></p>"
         f"<h3>{rubrik(rubriken(malen))}</h3>{tidigare(malen)}{formulering(malen)}"
         f"{remsa(malen, ar, luckor)}{historik(malen)}</article>"
     )
@@ -38,12 +44,8 @@ def rubrik(mal: Mal) -> str:
     return escape(mal.rubrik) + (" <small>tolkad</small>" if mal.tolkad else "")
 
 
-# Spårets andra rubriker, i den ordning de först står.
 def tidigare(malen: list[Mal]) -> str:
-    forsta: dict[tuple, Mal] = {}
-    for mal in malen:
-        forsta.setdefault(mal.namn, mal)
-    andra = [rubrik(m) for m in forsta.values() if m.namn != malen[-1].namn]
+    andra = [rubrik(m) for m in forsta(malen).values() if m.namn != malen[-1].namn]
     return f'<p class="tidigare">Tidigare: {" → ".join(andra)}</p>' if andra else ""
 
 
@@ -63,18 +65,20 @@ def remsa(malen: list[Mal], ar: range, luckor: set[int]) -> str:
 
 def falt(malen: list[Mal], ar: int, lucka: bool) -> str:
     arets_rader = [m for m in malen if m.ar == ar]
-    klass = "" if arets_rader else ' class="lucka"' if lucka else ' class="tom"'
-    innehall = arets(arets_rader) if arets_rader else ""
-    text = "lucka i poolen" if lucka and not arets_rader else ""
-    return (
-        f'<li{klass} title="{ar}{": " + text if text else ""}">{innehall}'
-        f'<small><span class="dold">20</span>{str(ar)[2:]}</small></li>'
-    )
+    etikett = f'<small><span class="dold">{str(ar)[:2]}</span>{str(ar)[2:]}</small>'
+    if arets_rader:
+        return f'<li title="{ar}">{arets(arets_rader)}{etikett}</li>'
+    if lucka:
+        return f'<li class="lucka" title="{ar}: lucka i poolen">{etikett}</li>'
+    return f'<li class="tom" title="{ar}">{etikett}</li>'
 
 
 def historik(malen: list[Mal]) -> str:
+    blandad = len(slagen(malen)) > 1
     poster = "".join(
-        f"<li><b>{m.ar}</b> {rubrik(m)}<br>{post(m)}</li>" for m in reversed(malen)
+        f"<li><b>{m.ar}</b> {rubrik(m)}{f' ({m.slag})' if blandad else ''}"
+        f"<br>{post(m)}</li>"
+        for m in reversed(malen)
     )
     antal = f"{len(malen)} rad" + ("er" if len(malen) > 1 else "")
     return (

@@ -59,14 +59,40 @@ class TestTidslinjen(unittest.TestCase):
 
     def test_ar_utan_dokument_och_mal_ar_en_lucka(self):
         html = sida()
-        self.assertIn('<th scope="col" class=lucka>2023<br><small>lucka</small>', html)
-        self.assertNotIn("class=lucka>2024", html)
+        self.assertIn(
+            '<th scope="col" class="lucka">2023<br><small>lucka</small>', html
+        )
+        # 2025 och 2026 har mål ur ett senare dokument, men inga egna.
+        self.assertIn('<th scope="col">2025</th>', html)
+        self.assertNotIn('class="lucka">2026', html)
         self.assertIn('<li class="lucka" title="2023: lucka i poolen">', html)
 
     def test_namndmal_och_direktiv_var_for_sig(self):
         html = sida()
         self.assertLess(html.index(">Nämndmål</th>"), html.index(">Direktiv</th>"))
         self.assertEqual(html.count("<tr data-mal"), 2)
+
+    def test_ar_med_dokument_men_utan_mal(self):
+        self.assertIn("2023<br><small>inga mål</small>", sida((2022, 2023)))
+
+    def test_dokument_fran_ar_fore_malen(self):
+        self.assertIn(
+            "Poolen har dokument från organet sedan 2020, men inga av nämndens mål "
+            "före 2022.",
+            sida((2020, 2024)),
+        )
+        self.assertNotIn("Poolen har dokument", sida())
+
+    def test_spar_med_bada_slagen(self):
+        rader = GRUPPER + f"fsn,2027,direktiv,Trygga miljöer,,,,,{BUDGET}#sida-1,,\n"
+        with pool(rader) as malen:
+            html = malsida(
+                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+            )
+        self.assertIn("Trygga miljöer</a> <small>också nämndmål</small>", html)
+        self.assertIn('data-slag="nämndmål direktiv"', html)
+        self.assertIn("<span>nämndmål och direktiv</span>", html)
+        self.assertIn("<b>2026</b> Läsfrämjande <small>tolkad</small> (nämndmål)", html)
 
     def test_namnden_om_malen_med_streck_for_ar_utan_protokoll(self):
         html = sida((2022, 2024), UPPFOLJDA)
@@ -112,6 +138,11 @@ class TestKorten(unittest.TestCase):
         self.assertIn('<div class="urval" role="group" aria-label="Visa" hidden>', html)
         self.assertIn('data-urval="aktiv">Gäller 2026</button>', html)
         self.assertIn('data-urval="bytt">Har bytt rubrik', html)
+        with pool(RADER.replace("direktiv", "nämndmål")) as malen:
+            bara = malsida(
+                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2024)
+            )
+        self.assertNotIn('data-urval="direktiv"', bara)
         self.assertIn('kort.querySelector("details").open = true', html)
 
 

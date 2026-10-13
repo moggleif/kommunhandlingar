@@ -881,9 +881,20 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   och första år. Kortet har slaget, åren, den senaste rubriken, de
   tidigare rubrikerna, den senaste formuleringen, en remsa med ett fält
   per år och en hopfälld historik med varje rad, dess status och källa.
+- **Givet** ett mål som varit både nämndmål och direktiv
+- **När** sidan visas
+- **Så** står det i tidslinjen under sitt senaste slag, märkt med det
+  andra, och kortet har båda slagen och slaget på varje rad i historiken.
+- **Givet** ett år inom målens år med dokument från organet men utan mål,
+  eller dokument från år före de första målen
+- **När** sidan visas
+- **Så** står året i tidslinjen som ett år utan mål, och sidan säger från
+  vilket år poolen har dokument, så att ingen lucka tas för ett år utan mål.
 - **Givet** sidan med JavaScript
 - **När** besökaren väljer alla, de som gäller det senaste året,
-  nämndmål, direktiv eller de som bytt rubrik, eller väljer ett mål i
-  tidslinjen
-- **Så** visas bara det valda i tidslinjen och bland korten, och det
-  valda målets kort visar sin historik.
+  nämndmål, direktiv eller de som bytt rubrik
+- **Så** visas bara det valda i tidslinjen och bland korten. Knappar för
+  ett slag som inte finns på sidan visas inte.
+- **Givet** sidan med JavaScript
+- **När** besökaren väljer ett mål i tidslinjen
+- **Så** går sidan till målets kort och kortet visar sin historik.

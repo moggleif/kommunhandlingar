@@ -1,6 +1,8 @@
 // Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
 // Visar bara de mål i tidslinjen och bland korten som valts med en knapp,
-// och öppnar historiken på kortet för ett mål som väljs i tidslinjen.
+// och döljer ett slags rubrik i tidslinjen när inget av dess mål visas.
+// Öppnar historiken på kortet för ett mål som väljs i tidslinjen, också
+// när samma mål väljs igen.
 // Utan skriptet står allt och historiken är hopfälld.
 (function () {
   var urval = document.querySelector(".urval");
@@ -9,7 +11,7 @@
   function passar(mal, val) {
     if (val === "alla") return true;
     if (val === "aktiv" || val === "bytt") return mal.dataset[val] === "ja";
-    return mal.dataset.slag === val;
+    return mal.dataset.slag.split(" ").indexOf(val) >= 0;
   }
 
   function valj(val) {
@@ -18,6 +20,9 @@
     });
     document.querySelectorAll("[data-mal]").forEach(function (mal) {
       mal.hidden = !passar(mal, val);
+    });
+    document.querySelectorAll("tr.slag").forEach(function (rubrik) {
+      rubrik.hidden = !rubrik.parentNode.querySelector("[data-mal]:not([hidden])");
     });
   }
 
@@ -32,6 +37,11 @@
     });
   });
   window.addEventListener("hashchange", oppna);
+  document.querySelectorAll("tr[data-mal] a").forEach(function (lank) {
+    lank.addEventListener("click", function () {
+      setTimeout(oppna);
+    });
+  });
   urval.hidden = false;
   valj("alla");
   oppna();

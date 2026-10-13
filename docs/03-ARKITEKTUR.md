@@ -1367,7 +1367,7 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
   att länkarna i texten till CSV:erna fungerar.
 - **Statisk:** ingen JavaScript utom kalenderns (ADR-0032) och målsidans
-  (ADR-0044) skript och inga
+  (ADR-0050) skript och inga
   externa resurser. Texten i
   dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
@@ -1507,7 +1507,9 @@ filen (K26), länkad från organets sida.
   fram. Åren går från första till sista år med mål. Ett år som varken
   har dokument från organet i poolen eller mål i filen är en lucka; ett
   år med mål ur ett senare dokument, som en årsredovisning, är ingen
-  lucka. Sidan har fyra delar:
+  lucka, och ett år med dokument men utan mål står som "inga mål". Har
+  poolen dokument från organet före det första året med mål säger sidan
+  det. Sidan har fyra delar:
   - **Antalet per år** (`webbplats/malstatistik.py`): det senaste årets
     antal nämndmål och direktiv, och uppföljningar och dragningar i
     nämnden, bredvid en linjegraf i SVG (`webbplats/malgraf.py`) med en
@@ -1519,7 +1521,7 @@ filen (K26), länkad från organets sida.
     rubrik räknas en gång per år. Ett år utan rader står som – och bryter
     linjen.
   - **Urvalet**: knappar för alla, de som gäller det senaste året,
-    nämndmål, direktiv och de som bytt rubrik.
+    nämndmål och direktiv (bara de slag som finns) och de som bytt rubrik.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
     en tabell med en rad per spår, nämndmålen och direktiven i var sin
     grupp, ordnade efter första år, slag och rubrik, och en kolumn per år.
@@ -1530,7 +1532,8 @@ filen (K26), länkad från organets sida.
     är spårets senaste, som den först står, och länkar till kortet. Med en
     uppföljningsfil står sist nämndens uppföljningar och dragningar om
     målen, en markering per paragraf, och ett streck för år utan protokoll
-    med text.
+    med text. Ett spår som varit både nämndmål och direktiv står under sitt
+    senaste slag, märkt med det andra.
   - **Korten** (`webbplats/malkort.py`): ett kort per spår, de som gäller
     det senaste året först, sedan efter sista och första år. Kortet har
     slaget, åren, den senaste rubriken, de tidigare rubrikerna med ordet
@@ -1538,7 +1541,10 @@ filen (K26), länkad från organets sida.
     ett fält per år (streckat för en lucka) och en hopfälld historik med
     varje rad, nyast först: år, rubrik, formulering, status som ikon och
     text för en uppföljning, och källan som länk till sidan i dokumentet.
-  Stilen står i `webbplats/mal.css`.
+    Ett spår med båda slagen har båda på kortet och slaget på varje rad.
+  Det tidslinjen och korten delar, som årets status, spårets rubrik och
+  slag och radens data-attribut för urvalet, står i
+  `webbplats/malspar.py`. Stilen står i `webbplats/mal.css`.
 - **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar urvalet och
   döljer det som inte valts, i tidslinjen och bland korten, och öppnar
   historiken på kortet när ett mål väljs i tidslinjen. Utan skriptet
