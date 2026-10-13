@@ -8,9 +8,11 @@ av dokumentet där, om dess källnyckel inte längre finns bland kandidaterna.
 
 import re
 import unicodedata
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date
 from pathlib import PurePosixPath
+
+from kommunhandlingar.kandidat import Kandidat
 
 LANGSTA_NAMN = 80
 
@@ -47,3 +49,14 @@ def ledigt_namn(onskat: str, upptagen) -> str:
     while upptagen(str(nummer)):
         nummer += 1
     return str(nummer)
+
+
+def grundplats(kandidat: Kandidat) -> Plats:
+    plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
+    if kandidat.typ == "bilaga":
+        return replace(plats, namn=filnamnet(kandidat) or "2")
+    return plats
+
+
+def filnamnet(kandidat: Kandidat) -> str:
+    return namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))

@@ -1,0 +1,83 @@
+"""Krav: K23 i docs/02-KRAV.md, ADR-0039 och ADR-0018.
+Test: tests/test_episerver_arkiv.py.
+
+Organens mappar i Episerver-generationerna ur Internet Archive. Varje PDF
+under en mapp är en fil, också när arkivet har den under http och https,
+med och utan www; filen får arkivets största kopia och vid lika den äldsta.
+En mapp som arkivet inte svarar för hoppas över och returneras som en
+notering.
+"""
+
+from urllib.parse import quote, unquote, urlsplit
+
+from kommunhandlingar.adaptrar import episerver, wayback
+from kommunhandlingar.fel import Hamtfel, IngenKandidat
+from kommunhandlingar.kandidat import Avvisad, Kandidat
+
+
+def upptack(
+    kalla: episerver.Kalla, klient
+) -> tuple[list[Kandidat], list[Avvisad], list[str]]:
+    kandidater, avvisade, noteringar = [], [], []
+    for organ, mappar in kalla.mappar.items():
+        for mapp in mappar:
+            try:
+                kopior = wayback.fraga(klient, mapp, "application/pdf", True)
+            except Hamtfel as fel:
+                noteringar.append(str(fel))
+                continue
+            nya, bort = las_mapp(kalla, organ, mapp, kopior)
+            kandidater, avvisade = kandidater + nya, avvisade + bort
+    return kandidater, avvisade, noteringar
+
+
+def las_mapp(
+    kalla: episerver.Kalla, organ: str, mapp: str, kopior: list[wayback.Kopia]
+) -> tuple[list[Kandidat], list[Avvisad]]:
+    kandidater, avvisade = [], []
+    for kopia in basta(kopior).values():
+        try:
+            kandidater.append(kandidat(kalla, organ, mapp, kopia))
+        except IngenKandidat as fel:
+            avvisade.append(Avvisad(mapp, filnamn(kopia), str(fel)))
+    return kandidater, avvisade
+
+
+def nyckel_av(original: str) -> str:
+    """Värden utan www och port, och sökvägen kodad på ett enda sätt."""
+    delar = urlsplit(original)
+    vard = delar.hostname.removeprefix("www.")
+    return f"episerver:{vard}{quote(unquote(delar.path), safe='/')}"
+
+
+def basta(kopior: list[wayback.Kopia]) -> dict[str, wayback.Kopia]:
+    basta: dict[str, wayback.Kopia] = {}
+    for kopia in sorted(kopior, key=lambda k: (k.langd, -int(k.tidsstampel))):
+        basta[nyckel_av(kopia.original)] = kopia
+    return basta
+
+
+def kandidat(
+    kalla: episerver.Kalla, organ: str, mapp: str, kopia: wayback.Kopia
+) -> Kandidat:
+    nyckel = nyckel_av(kopia.original)
+    typ, datum = episerver.typ_och_datum(kalla, under(mapp, kopia), nyckel)
+    return Kandidat(
+        organ=organ,
+        datum=datum,
+        typ=typ,
+        url=wayback.adress(kopia),
+        kalla=mapp,
+        kallnyckel=nyckel,
+        filnamn=filnamn(kopia),
+    )
+
+
+def under(mapp: str, kopia: wayback.Kopia) -> str:
+    """Sökvägen under mappen, avkodad."""
+    mappens = unquote(mapp.split("/", 1)[1])
+    return unquote(urlsplit(kopia.original).path).lstrip("/")[len(mappens) :]
+
+
+def filnamn(kopia: wayback.Kopia) -> str:
+    return unquote(urlsplit(kopia.original).path).rsplit("/", 1)[-1]
