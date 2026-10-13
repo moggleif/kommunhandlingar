@@ -760,10 +760,11 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   ett år per kolumn, från organets första till sista år i poolen, och
   under den ett avsnitt per år med varje mål: rubriken, formuleringen,
   statusen när en uppföljning anger den, och en länk till källans sida.
-- **Givet** ett år utan dokument från organet i poolen
+- **Givet** ett år utan dokument från organet i poolen och utan mål ur
+  senare dokument, som en årsredovisning
 - **När** sidan visas
-- **Så** står året med i översikten och som avsnitt, märkt att poolen
-  saknar dokument från året.
+- **Så** står året med i översikten och som avsnitt, märkt som en lucka
+  där poolen saknar dokument från året.
 - **Givet** samma mål i två år, med samma rubrik
 - **När** sidan visas
 - **Så** står det på samma rad i översikten. Ett mål som bytt rubrik står

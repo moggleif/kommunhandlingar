@@ -1482,12 +1482,14 @@ filen (K26), länkad från organets sida.
   ordnade efter första år, slag och rubrik, och en kolumn per år från
   organets första till sista år i poolen eller filen. En cell har en
   punkt och statusen när målet står med det året, och länkar till årets
-  avsnitt. Ett år utan dokument från organet i poolen har "inga dokument"
-  i kolumnens rubrik. Under översikten kommer ett avsnitt per år, nyast
-  först, med varje mål: slag, rubrik, formulering, status och källan som
-  länk till sidan i dokumentet. Ett år utan dokument säger det, och ett
-  år med dokument men utan mål säger det.
+  avsnitt. Ett år som varken har dokument från organet i poolen eller mål
+  i filen är en lucka och har ordet "lucka" i kolumnens rubrik; ett år
+  med mål ur ett senare dokument, som en årsredovisning, är ingen lucka.
+  Under översikten kommer ett avsnitt per år, nyast först, med varje
+  mål: slag, rubrik, formulering, status och källan som länk till sidan
+  i dokumentet. En lucka säger att poolen saknar dokument
+  från året, och ett år med dokument men utan mål säger det.
 - **Skriptet** står i sidan. Det döljer det slag som valts bort, och ett
   klick på ett måls rubrik i översikten visar bara det målet, i
-  översikten och i avsnitten, tills det väljs bort med en knapp. Utan
+  översikten och i avsnitten, och bara åren det står med, tills det väljs bort med en knapp. Utan
   skriptet visas allt.
