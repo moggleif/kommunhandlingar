@@ -64,6 +64,6 @@ Regler för det här repot, utöver MADR:
 | 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | accepted |
 | 0037 | [Rubrikrader, radavstånd och sidfot i tabeller utan lodräta linjer](0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md) | accepted |
 | 0038 | [Text som inte går att läsa i ordning ger obekräftade tal](0038-text-i-oordning-ger-obekraftade-tal.md) | accepted |
-| 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | proposed |
+| 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | accepted |
 | 0040 | [Rubriker över flera kolumner och på flera textrader i tabeller utan lodräta linjer](0040-rubriker-over-flera-kolumner-och-textrader.md) | proposed |
 | 0041 | [Varje avvikelse i källan blir ett eget issue efter en mall](0041-avvikelser-ett-issue-per-avvikelse.md) | proposed |
