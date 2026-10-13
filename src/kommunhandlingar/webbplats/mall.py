@@ -28,7 +28,8 @@ pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
           border: 1px solid transparent; border-radius: 0.3em; cursor: help; }
 .status.prognos { border: 1px dashed currentColor; }
 .status.uppnatt { color: #1a6b2a; } .status.delvis { color: #8a5a00; }
-.status.ej { color: #b00020; } .status.ingen { color: #555; }
+.status.ej { color: #b00020; }
+.status.ingen, .status.beslutat { color: #555; }
 footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
 """
 

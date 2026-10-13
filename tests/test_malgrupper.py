@@ -1,5 +1,5 @@
 """Krav: K27 i docs/02-KRAV.md, ADR-0045. Kod: src/kommunhandlingar/webbplats/
-malkontroll.py, malsida.py, malavsnitt.py, malstatistik.py och malgraf.py."""
+malkontroll.py, malsida.py, malkort.py, malstatistik.py och malgraf.py."""
 
 import re
 import unittest
@@ -85,17 +85,16 @@ class TestGruppsidan(unittest.TestCase):
             mall = Mall([exempelby()], REPO, TID)
             return malsida(mall, exempelby(), malen, protokoll(2022))
 
-    def test_omdopta_rubriker_under_varandra(self):
+    def test_omdopta_rubriker_pa_samma_kort(self):
         html = self.sida()
-        grupp = html[html.index("<tbody>") : html.index("</tbody>")]
-        self.assertIn("Trygga miljöer</button> (nämndmål)</th>", grupp)
-        self.assertIn("↳ <button", grupp)
-        self.assertIn("Läsfrämjande</button> (nämndmål) <small>tolkad</small>", grupp)
-        self.assertIn("Samma spår som Trygga miljöer, tolkad", html)
+        kort = html.split('<article id="mal-0"')[1].split("</article>")[0]
+        self.assertIn("<h3>Läsfrämjande <small>tolkad</small></h3>", kort)
+        self.assertIn('<p class="tidigare">Tidigare: Trygga miljöer</p>', kort)
+        self.assertIn('data-bytt="ja"', kort)
 
     def test_antal_per_ar_med_lucka(self):
         html = self.sida()
-        tabell = html[html.index('id="antal"') : html.index('id="ar-')]
+        tabell = html[html.index('id="antal"') : html.index('id="tidslinje"')]
         rader = re.findall(r'<tr><th scope="row">(\d+)</th>(.*?)</tr>', tabell)
         tal = {ar: re.findall(r'"tal">(.*?)<', celler) for ar, celler in rader}
         self.assertEqual(tal["2022"], ["1", "0", "0", "0", "0", "0"])
@@ -125,5 +124,5 @@ class TestIkoner(unittest.TestCase):
 
     def test_teckenforklaringen_har_alla_ikoner_och_prognos(self):
         forklaring = statusikon.teckenforklaring()
-        self.assertEqual(forklaring.count("<li>"), len(statusikon.IKONER) + 1)
+        self.assertEqual(forklaring.count("<li>"), len(statusikon.IKONER) + 2)
         self.assertIn("prognos (streckad ram)", forklaring)
