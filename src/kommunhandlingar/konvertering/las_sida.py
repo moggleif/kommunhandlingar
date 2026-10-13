@@ -1,8 +1,9 @@
 """Krav: K4, K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005,
-ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034 och
-ADR-0036. Test: tests/test_konvertering.py, tests/test_maska_poolen.py,
-tests/test_skarvar.py, tests/test_delade.py, tests/test_kvarvarande.py,
-tests/test_avskurna.py och tests/test_mellanslag.py.
+ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034,
+ADR-0036 och ADR-0038. Test: tests/test_konvertering.py,
+tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py,
+tests/test_kvarvarande.py, tests/test_avskurna.py, tests/test_mellanslag.py
+och tests/test_ordning.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
@@ -27,6 +28,7 @@ from kommunhandlingar.konvertering import (
 )
 from kommunhandlingar.konvertering.avskurna import avskuren
 from kommunhandlingar.konvertering.mellanslag import utan_mellanslag_i_tal
+from kommunhandlingar.konvertering.ordning import i_oordning
 from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
@@ -76,6 +78,7 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
+    obekraftade = olasliga(sida) > 0 or i_oordning(sida)
     sida = utan_mellanslag_i_tal(sida)
     hittade, fallda = med_linjer(sida)
     rutor = [ruta for ruta, _, _ in hittade]
@@ -88,7 +91,7 @@ def textsida(sida: Page) -> Sida:
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
         "tabell-osaker" if osaker else "ok",
-        olasliga(sida) > 0,
+        obekraftade,
         text,
         [rader for _, rader, _ in hittade],
         figurer.har_figur(sida, rutor),

@@ -63,3 +63,4 @@ Regler för det här repot, utöver MADR:
 | 0035 | [Avsnittsrubriker och årtal håller ihop en tabell utan lodräta linjer](0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md) | proposed |
 | 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | proposed |
 | 0037 | [Rubrikrader, radavstånd och sidfot i tabeller utan lodräta linjer](0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md) | proposed |
+| 0038 | [Text som inte går att läsa i ordning ger obekräftade tal](0038-text-i-oordning-ger-obekraftade-tal.md) | proposed |
