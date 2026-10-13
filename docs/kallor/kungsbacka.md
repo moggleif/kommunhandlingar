@@ -218,8 +218,19 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   2022 till 2023 är till största delen `ej-hamtad`.
 - **Handlingarna 2025-10-16** har nämndbudget 2026 två gånger, ett
   utkast och den slutliga; målfilen citerar den senare. Nämnden döpte
-  samtidigt om ett mål (protokollet, sida 14), så 2026 har målet
-  under båda namnen.
+  samtidigt om "Hälsofrämjande livsstil" till "Hälsofrämjande och fysisk
+  aktiv livsstil" (protokollet, sida 14), så målfilen har protokollets
+  namn (K27). Inga andra protokoll i poolen skiljer sig från handlingarna
+  i målen; budgetmötena för 2019, 2020, 2022 och 2023 saknar protokoll.
+- **Mål byter rubrik** utan att budgeten säger det. Bara protokollet
+  2025-10-16 säger uttryckligen att ett mål ändrats. Flera mål har ändå
+  samma formulering under nya rubriker, till exempel Trelleborgsmodellen
+  (2018–2019) och Kungsbackas unika arbetsmarknadsprocess (2020–2025).
+  Målfilen grupperar dem, och märker som tolkade de kopplingar där
+  formuleringen också är ny.
+- **Andra rapporter under året** finns: uppföljningen av den digitala
+  transformationsplanen (handlingarna 2021-06-23) nämner direktivet
+  Digital mognad och står i målfilen som `rapport`.
 
 ### Dokumentens innehåll
 

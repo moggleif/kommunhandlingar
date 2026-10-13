@@ -1,4 +1,5 @@
-"""Krav: K26 i docs/02-KRAV.md, ADR-0044. Test: tests/test_mal.py.
+"""Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045.
+Test: tests/test_mal.py.
 
 Läser `mal/<kommun>.csv` och stoppar bygget med raden när den inte går
 ihop med kommunfilen och poolen (docs/03-ARKITEKTUR.md#mål-och-direktiv).
@@ -13,8 +14,12 @@ from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats.malkontroll import Kontroll
 
-KOLUMNER = ["organ", "ar", "slag", "rubrik", "formulering", "status", "kalla"]
+KOLUMNER = [
+    *("organ", "ar", "slag", "rubrik", "formulering", "status"),
+    *("uppfoljning", "bedomning", "kalla", "grupp", "tolkad"),
+]
 SLAG = ("nämndmål", "direktiv")
 # Ett dokument ligger på <organ>/<år>/<datum>/<namn>.md (ADR-0003). Ett
 # mål som fortsätter på nästa sida har sidorna, till exempel `#sida-14-15`.
@@ -37,11 +42,31 @@ class Mal:
     rubrik: str
     formulering: str
     status: str
+    uppfoljning: str
+    bedomning: str
     kalla: str
+    grupp: str
+    tolkad: str
 
     @property
-    def spar(self) -> tuple[str, str, str]:
+    def namn(self) -> tuple[str, str, str]:
         return self.organ, self.slag, self.rubrik.casefold()
+
+    @property
+    def spar(self) -> tuple[str, str]:
+        return self.organ, (self.grupp or self.rubrik).casefold()
+
+    @property
+    def mote(self) -> str:
+        return self.kalla.rsplit("/", 1)[0]
+
+    @property
+    def fran_protokoll(self) -> bool:
+        return self.kalla.rsplit("/", 1)[1].startswith("protokoll")
+
+    @property
+    def prognos(self) -> bool:
+        return self.uppfoljning == "prognos"
 
 
 def las(fil: Path, kommun: Kommun, data: Path) -> list[Mal]:
@@ -51,16 +76,18 @@ def las(fil: Path, kommun: Kommun, data: Path) -> list[Mal]:
         raise Datafel(f"{fil}: rubrikerna är inte {','.join(KOLUMNER)}")
     organ = {o.id for o in kommun.organ}
     sidtext = sidlasare(data)
-    malen, sedda = [], set()
+    malen, kontroll = [], Kontroll()
     for nr, rad in enumerate(rader[1:], 2):
         try:
             mal = tolka(rad, organ, sidtext)
+            kontroll.prova(mal)
         except ValueError as fel:
             raise Datafel(f"{fil}, rad {nr}: {fel}") from None
-        if (mal.spar, mal.kalla) in sedda:
-            raise Datafel(f"{fil}, rad {nr}: målet står redan med samma källa")
-        sedda.add((mal.spar, mal.kalla))
         malen.append(mal)
+    try:
+        kontroll.grupperna()
+    except ValueError as fel:
+        raise Datafel(f"{fil}: {fel}") from None
     return malen
 
 

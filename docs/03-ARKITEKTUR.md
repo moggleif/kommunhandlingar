@@ -1440,7 +1440,9 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 ## Mål och direktiv
 
 Hur och varför står i
-[ADR-0044](decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md).
+[ADR-0044](decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md)
+och, för grupperna, protokollet, ikonerna och antalet (K27),
+[ADR-0045](decisions/0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md).
 En kommun med en fil `mal/<kommun>.csv` får en sida
 `<kommun>/<organ>/mal-och-direktiv.html` för varje organ med rader i
 filen (K26), länkad från organets sida.
@@ -1458,12 +1460,18 @@ filen (K26), länkad från organets sida.
   | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
   | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
   | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
+  | `uppfoljning` | Tomt för budgeten, annars `prognos` (delårsrapport), `utfall` (årsredovisning) eller `rapport` (annan rapport till nämnden). |
+  | `bedomning`   | Tomt utan uppföljning, annars `uppnatt`, `delvis`, `ej` eller `ingen`: agentens läsning av statusen. |
   | `kalla`       | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna, `#sida-N-M`. |
+  | `grupp`       | Tomt, eller en rubrik i filen som målet följs under när det bytt rubrik. |
+  | `tolkad`      | Tomt, eller `ja` när platsen i gruppen är en bedömning.    |
 
 - **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
   formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
   Bara det nämnden själv beslutat står med, inte kommunfullmäktiges mål
-  eller direktiv. Rubrik, formulering och status ur samma rad står på
+  eller direktiv. Säger protokollet något annat än handlingarna till samma
+  möte gäller protokollet, och bara protokollets rad står med. Rubrik,
+  formulering och status ur samma rad står på
   källans sidor; fortsätter målet på nästa sida är källan båda sidorna,
   och står de längre isär blir det två rader.
 - **Kontrollen** (`webbplats/mal.py`) stoppar bygget med raden om
@@ -1471,27 +1479,50 @@ filen (K26), länkad från organets sida.
   året inte är fyra siffror, slaget är något annat, källan inte är en
   sida eller sidor som finns i ett av organets dokument i poolen,
   rubriken, formuleringen eller statusen inte står på sidorna, eller
-  samma organ, slag och rubrik står två gånger med samma källa. Texten jämförs efter
+  samma organ, slag och rubrik står två gånger med samma källa (den
+  kontrollen och de följande står i `webbplats/malkontroll.py`). Bygget
+  stoppas också om uppföljningen eller bedömningen är okänd, en rad utan
+  uppföljning har en bedömning eller status, en uppföljning saknar
+  bedömning, `tolkad` är något annat än tomt eller `ja` i en grupp, samma
+  rubrik har två olika grupper, två rubriker står i samma spår samma år,
+  en grupp inte är en rubrik i filen utan egen grupp, eller samma spår
+  samma år står ur både protokollet och ett annat dokument från samma
+  möte. Texten jämförs efter
   att radbrytningar och upprepade mellanslag gjorts till ett mellanslag,
   punkter (`-`, `•`, `*`) först i en rad strukits och Markdown-escapningen
   tagits bort; versalerna räknas. En målfil utan kommunfil stoppar också
   bygget.
-- **Samma mål** är samma organ, slag och rubrik utan hänsyn till
-  versaler; rubriken visas som den först står.
+- **Samma rubrik** är samma organ, slag och rubrik utan hänsyn till
+  versaler; rubriken visas som den först står. **Ett spår** är samma organ
+  och grupp, eller rubrik när gruppen är tom, utan hänsyn till versaler.
+- **Statusikonerna** (`webbplats/statusikon.py`) visar bedömningen:
+  uppnått, delvis uppnått eller på väg, ej uppnått, eller ingen bedömning
+  i källan. Ikonerna är SVG-figurer med olika form, källans formulering
+  står i pekrutan, en prognos har en streckad ram, och stilen står i
+  `webbplats/mall.py` så att andra sidor kan använda dem.
 - **Sidan** (`webbplats/malsida.py`) börjar med en kort inledning och en
   hopfälld del om hur målen tagits fram. Sedan kommer ett urval med en
-  kryssruta per slag och en översikt: en tabell med ett mål per rad,
-  ordnade efter första år, slag och rubrik, och en kolumn per år från
-  organets första till sista år i poolen eller filen. En cell har en
-  punkt och statusen när målet står med det året, och länkar till årets
+  kryssruta per slag, en teckenförklaring för ikonerna och en översikt:
+  en tabell med ett spår per grupp av rader, ordnade efter första år,
+  slag och rubrik, och en kolumn per år från organets första till sista
+  år i poolen eller filen. Spårets rubriker står under varandra i den
+  ordning de först står, med en pil före de senare och ordet "tolkad" vid
+  en tolkad rubrik. En cell har en punkt när rubriken står med det året,
+  med en ikon för varje uppföljning, och länkar till årets
   avsnitt. Ett år som varken har dokument från organet i poolen eller mål
   i filen är en lucka och har ordet "lucka" i kolumnens rubrik; ett år
   med mål ur ett senare dokument, som en årsredovisning, är ingen lucka.
-  Under översikten kommer ett avsnitt per år, nyast först, med varje
-  mål: slag, rubrik, formulering, status och källan som länk till sidan
-  i dokumentet. En lucka säger att poolen saknar dokument
+  Efter översikten kommer antalet per år (`webbplats/malstatistik.py`):
+  en linjegraf i SVG (`webbplats/malgraf.py`) med en linje för nämndmål
+  och en för direktiv, skilda med streckning och punktform, och en tabell
+  med antal nämndmål, direktiv, uppföljningsdokument i målfilen och
+  rubriker med en bedömning, från första till sista år med mål. Varje rubrik räknas en gång
+  per år. Ett år utan rader står som – och bryter linjen. Sist kommer ett
+  avsnitt per år, nyast först, med varje rubrik: slag, spåret den följs
+  under, formulering, status som ikon och text för en uppföljning, och
+  källan som länk till sidan i dokumentet. En lucka säger att poolen saknar dokument
   från året, och ett år med dokument men utan mål säger det.
 - **Skriptet** står i sidan. Det döljer det slag som valts bort, och ett
-  klick på ett måls rubrik i översikten visar bara det målet, i
+  klick på en rubrik i översikten visar bara dess spår, i
   översikten och i avsnitten, och bara åren det står med, tills det väljs bort med en knapp. Utan
   skriptet visas allt.

@@ -1,9 +1,11 @@
-"""Krav: K26 i docs/02-KRAV.md, ADR-0044. Test: tests/test_mal.py.
+"""Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045.
+Test: tests/test_mal.py.
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, urvalet
-av slag, översikten med ett mål per rad och ett år per kolumn, och ett
-avsnitt per år (`malavsnitt.py`). Skriptet i `mal.js` döljer det som valts
-bort; utan det står allt på sidan.
+av slag, översikten med ett spår per grupp av rader och ett år per
+kolumn, antalet per år (`malstatistik.py`) och ett avsnitt per år
+(`malavsnitt.py`). Skriptet i `mal.js` döljer det som valts bort; utan
+det står allt på sidan.
 """
 
 from collections import defaultdict
@@ -12,14 +14,15 @@ from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import SLAG, Mal
-from kommunhandlingar.webbplats.malavsnitt import arsavsnitt
+from kommunhandlingar.webbplats.malavsnitt import arsavsnitt, namnen
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
+from kommunhandlingar.webbplats.malstatistik import statistik
+from kommunhandlingar.webbplats.statusikon import ikon, teckenforklaring
 
 SKRIPT = Path(__file__).with_name("mal.js")
-ADR = (
-    "/blob/main/docs/decisions/"
-    "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
-)
+ADR = "/blob/main/docs/decisions/"
+ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
+ADR_0045 = "0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md"
 INLEDNING = (
     "<p>Nämndens egna mål och direktiv år för år, ur nämndbudgetarna, "
     "delårsrapporterna och årsredovisningarna i poolen. Välj ett mål i "
@@ -29,10 +32,16 @@ METOD = (
     "<p>Målen är lästa ur poolens dokument och skrivna ordagrant, med "
     "dokumentet och sidan som källa. Bygget prövar att texten står på den "
     "sidan. Bara det nämnden själv beslutat står med, inte "
-    "kommunfullmäktiges mål eller direktiv. Statusen är uppföljningens egen "
-    "formulering; i en delårsrapport är den en prognos. Samma mål är samma "
-    "rubrik; ett mål som bytt rubrik står på två rader. Ett år utan "
-    "dokument i poolen är en lucka i poolen, inte ett år utan mål.</p>"
+    "kommunfullmäktiges mål eller direktiv. Säger protokollet något annat "
+    "än handlingarna till samma möte, gäller protokollet.</p>"
+    "<p>Ett mål som bytt rubrik står med sina rubriker under varandra. "
+    "Där källan inte själv säger att det är samma mål, och formuleringen "
+    "inte är densamma, är kopplingen en bedömning och rubriken märkt "
+    "tolkad.</p>"
+    "<p>Statusen är en ikon för uppföljningens bedömning, med källans egen "
+    "formulering i pekrutan och i årets avsnitt. En delårsrapport ger en "
+    "prognos, som har en streckad ram. Ett år utan dokument i poolen är en "
+    "lucka i poolen, inte ett år utan mål.</p>"
 )
 STIL = """
 [hidden] { display: none !important; }
@@ -41,6 +50,10 @@ button.spar { background: none; border: none; padding: 0; font: inherit;
               cursor: pointer; }
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
 details { margin-bottom: 1rem; }
+.teckenforklaring { list-style: none; padding: 0; display: flex;
+                   flex-wrap: wrap; gap: 0 1.5rem; }
+table.mal tbody { border-top: 3px solid #999; }
+svg.graf { max-width: 40rem; height: auto; }
 """
 
 
@@ -68,7 +81,9 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], dokumentar: set[int]) 
         )
         + f"<style>{STIL}</style>{INLEDNING}{om_sidan(mall)}"
         + urval(malen)
+        + teckenforklaring()
         + oversikt(spar, alla_ar, luckor)
+        + statistik(malen)
         + "".join(arsavsnitt(a, spar, a in luckor) for a in reversed(alla_ar))
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )
@@ -87,10 +102,13 @@ def ordning(mal: Mal) -> tuple[int, int, str]:
 
 
 def om_sidan(mall: Mall) -> str:
-    adr = f'<a href="{escape(mall.repo + ADR)}">ADR-0044</a>'
+    adr = [
+        f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
+        for fil in (ADR_0044, ADR_0045)
+    ]
     return (
         f"<details><summary>Om sidan</summary>{METOD}"
-        f"<p>Hur och varför står i {adr}.</p></details>"
+        f"<p>Hur och varför står i {' och '.join(adr)}.</p></details>"
     )
 
 
@@ -108,27 +126,43 @@ def oversikt(spar: list[list[Mal]], alla_ar: range, luckor: set[int]) -> str:
     huvud = "".join(
         f'<th scope="col">{a}{"<br>lucka" if a in luckor else ""}</th>' for a in alla_ar
     )
-    rader = "".join(
-        f'<tr data-slag="{malen[0].slag}" data-spar="{nr}"><th scope="row">'
-        f'<button type="button" class="spar">{escape(malen[0].rubrik)}</button>'
-        f" ({malen[0].slag})</th>"
-        + "".join(
-            f"<td>{cell([m for m in malen if m.ar == a], a)}</td>" for a in alla_ar
-        )
-        + "</tr>"
-        for nr, malen in enumerate(spar)
+    grupper = "".join(grupp(nr, malen, alla_ar) for nr, malen in enumerate(spar))
+    return (
+        '<h2 id="oversikt">Översikt</h2><div class="tabell"><table class="mal">'
+        f'<thead><tr><th scope="col">Mål eller direktiv</th>{huvud}</tr></thead>'
+        f"{grupper}</table></div>"
+    )
+
+
+def grupp(nr: int, malen: list[Mal], alla_ar: range) -> str:
+    rader = namnen(malen)
+    return (
+        "<tbody>"
+        + "".join(rad(nr, i > 0, r, alla_ar) for i, r in enumerate(rader))
+        + "</tbody>"
+    )
+
+
+def rad(nr: int, foljer: bool, rader: list[Mal], alla_ar: range) -> str:
+    forsta = rader[0]
+    rubrik = (
+        f'{"↳ " if foljer else ""}<button type="button" class="spar">'
+        f"{escape(forsta.rubrik)}</button> ({forsta.slag})"
+        + (" <small>tolkad</small>" if forsta.tolkad else "")
+    )
+    celler = "".join(
+        f"<td>{cell([m for m in rader if m.ar == a], a)}</td>" for a in alla_ar
     )
     return (
-        '<h2 id="oversikt">Översikt</h2><div class="tabell"><table>'
-        f'<thead><tr><th scope="col">Mål eller direktiv</th>{huvud}</tr></thead>'
-        f"<tbody>{rader}</tbody></table></div>"
+        f'<tr data-slag="{forsta.slag}" data-spar="{nr}">'
+        f'<th scope="row">{rubrik}</th>{celler}</tr>'
     )
 
 
 def cell(arets: list[Mal], ar: int) -> str:
     if not arets:
         return ""
-    status = "".join(
-        f"<br><small>{escape(m.status)}</small>" for m in arets if m.status
+    ikoner = "".join(
+        ikon(m.bedomning, m.status, m.prognos) for m in arets if m.uppfoljning
     )
-    return f'<a href="#ar-{ar}" aria-label="Med {ar}">●</a>{status}'
+    return f'<a href="#ar-{ar}" aria-label="Med {ar}">●</a> {ikoner}'

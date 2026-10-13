@@ -769,7 +769,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Givet** samma mål i två år, med samma rubrik
 - **När** sidan visas
 - **Så** står det på samma rad i översikten. Ett mål som bytt rubrik står
-  på två rader.
+  under sin föregångare (K27).
 - **Givet** sidan
 - **När** besökaren väljer bort nämndmål eller direktiv, eller väljer ett
   mål i översikten
@@ -785,3 +785,45 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.
+
+## K27 — Omdöpta mål, protokollet först, status som ikoner och antal per år
+
+Issue: [#146](https://github.com/moggleif/kommunhandlingar/issues/146).
+Bygger på K26. Hur och varför står i
+[ADR-0045](decisions/0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** mål som bytt rubrik och har samma grupp i målfilen
+- **När** sidan om målen visas
+- **Så** står rubrikerna under varandra i översikten, i den ordning de
+  först står, så att målet går att följa genom åren, och ett klick på en
+  av dem visar hela gruppen. En rubrik vars plats i gruppen är en
+  bedömning, där källan varken säger att det är samma mål eller har samma
+  formulering, är märkt tolkad.
+- **Givet** samma mål i protokollet och i handlingarna från samma möte
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden: bara protokollets rad ska stå med,
+  eftersom det är protokollet som gäller.
+- **Givet** en rad ur en uppföljning (en delårsrapport, en
+  årsredovisning eller en annan rapport till nämnden), med uppföljningens
+  bedömning i målfilen
+- **När** sidan visas
+- **Så** visas bedömningen som en ikon: uppnått, delvis uppnått eller på
+  väg, ej uppnått, eller ingen bedömning i källan. Ikonerna skiljs åt med
+  form och inte bara med färg. Källans formulering står i pekrutan och i
+  årets avsnitt, och en prognos ur en delårsrapport har en streckad ram.
+  En teckenförklaring står på sidan.
+- **Givet** en okänd uppföljning eller bedömning, en bedömning eller
+  status på en rad som inte är en uppföljning, en uppföljning utan
+  bedömning, `tolkad` som inte är tomt eller `ja` i en grupp, en grupp
+  som inte är en rubrik i filen eller som själv står i en grupp, en rubrik
+  med två olika grupper, eller två rubriker i samma spår samma år
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden i felet.
+- **Givet** sidan om målen
+- **När** den visas
+- **Så** står en tabell och en linjegraf med antal nämndmål och direktiv
+  per år, från första till sista år med mål, en linje per slag. Tabellen
+  har också antalet uppföljningar som målfilen läser årets mål ur, och
+  antalet mål med en bedömning. Ett år utan mål i filen står som tomt, inte
+  noll, och linjen bryts där.
