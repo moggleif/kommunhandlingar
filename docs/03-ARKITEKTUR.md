@@ -204,10 +204,11 @@ src/kommunhandlingar/
   tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
-  webbplats/       startsidan, statussidorna, organens och dokumentens sidor
-                   och kalendern
+  webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
+                   kalendern och målen
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
+mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1321,7 +1322,10 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
   sökväg som under `data/` med `.html` i stället för `.md`, och en
   kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
-  [Kalendern](#kalendern)). Sidmallen,
+  [Kalendern](#kalendern)), och en sida om målen och direktiven för
+  varje organ med rader i kommunens målfil
+  (`<kommun>/<organ>/mal-och-direktiv.html`,
+  [Mål och direktiv](#mål-och-direktiv)). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
   i bokstavsordning efter id – och en sidfot som länkar till repot och
   säger när sidan byggdes.
@@ -1361,7 +1365,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   "Dokumentet har ingen text."
 - **Tabellkatalogerna** kopieras som de är bredvid dokumentets sida, så
   att länkarna i texten till CSV:erna fungerar.
-- **Statisk:** ingen JavaScript utom kalenderns skript (ADR-0032) och inga
+- **Statisk:** ingen JavaScript utom kalenderns (ADR-0032) och målsidans
+  (ADR-0044) skript och inga
   externa resurser. Texten i
   dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
@@ -1431,3 +1436,62 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   före dagens datum i listan och döljer organ som valts bort i båda
   vyerna. Följs länken till de osäkra fäller skriptet ut delen om
   kvaliteten. Utan skriptet visas alla månader och alla sammanträden.
+
+## Mål och direktiv
+
+Hur och varför står i
+[ADR-0044](decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md).
+En kommun med en fil `mal/<kommun>.csv` får en sida
+`<kommun>/<organ>/mal-och-direktiv.html` för varje organ med rader i
+filen (K26), länkad från organets sida.
+
+- **Filen** har samma format som kalenderns: CSV med radslut LF, UTF-8
+  utan BOM, komma som skiljetecken och rubrikerna på första raden. En rad
+  per mål eller direktiv, år och källa, sorterad på organ, år, slag och
+  källa:
+
+  | Kolumn        | Betyder                                                    |
+  | ------------- | ---------------------------------------------------------- |
+  | `organ`       | Organets id i kommunfilen.                                 |
+  | `ar`          | Året målet gäller: budgetåret, eller året som följs upp.   |
+  | `slag`        | `nämndmål` eller `direktiv`.                               |
+  | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
+  | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
+  | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
+  | `kalla`       | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna, `#sida-N-M`. |
+
+- **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
+  formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
+  Bara det nämnden själv beslutat står med, inte kommunfullmäktiges mål
+  eller direktiv. Rubrik, formulering och status ur samma rad står på
+  källans sidor; fortsätter målet på nästa sida är källan båda sidorna,
+  och står de längre isär blir det två rader.
+- **Kontrollen** (`webbplats/mal.py`) stoppar bygget med raden om
+  rubrikerna inte är kolumnerna ovan, organet inte står i kommunfilen,
+  året inte är fyra siffror, slaget är något annat, källan inte är en
+  sida eller sidor som finns i ett av organets dokument i poolen,
+  rubriken, formuleringen eller statusen inte står på sidorna, eller
+  samma organ, slag och rubrik står två gånger med samma källa. Texten jämförs efter
+  att radbrytningar och upprepade mellanslag gjorts till ett mellanslag,
+  punkter (`-`, `•`, `*`) först i en rad strukits och Markdown-escapningen
+  tagits bort; versalerna räknas. En målfil utan kommunfil stoppar också
+  bygget.
+- **Samma mål** är samma organ, slag och rubrik utan hänsyn till
+  versaler; rubriken visas som den först står.
+- **Sidan** (`webbplats/malsida.py`) börjar med en kort inledning och en
+  hopfälld del om hur målen tagits fram. Sedan kommer ett urval med en
+  kryssruta per slag och en översikt: en tabell med ett mål per rad,
+  ordnade efter första år, slag och rubrik, och en kolumn per år från
+  organets första till sista år i poolen eller filen. En cell har en
+  punkt och statusen när målet står med det året, och länkar till årets
+  avsnitt. Ett år som varken har dokument från organet i poolen eller mål
+  i filen är en lucka och har ordet "lucka" i kolumnens rubrik; ett år
+  med mål ur ett senare dokument, som en årsredovisning, är ingen lucka.
+  Under översikten kommer ett avsnitt per år, nyast först, med varje
+  mål: slag, rubrik, formulering, status och källan som länk till sidan
+  i dokumentet. En lucka säger att poolen saknar dokument
+  från året, och ett år med dokument men utan mål säger det.
+- **Skriptet** står i sidan. Det döljer det slag som valts bort, och ett
+  klick på ett måls rubrik i översikten visar bara det målet, i
+  översikten och i avsnitten, och bara åren det står med, tills det väljs bort med en knapp. Utan
+  skriptet visas allt.

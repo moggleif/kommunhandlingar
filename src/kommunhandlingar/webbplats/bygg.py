@@ -1,5 +1,5 @@
-"""Krav: K14, K18 och K22 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
-tests/test_webbplats_dokument.py, tests/test_kalender.py.
+"""Krav: K14, K18, K22 och K26 i docs/02-KRAV.md. Test: tests/test_webbplats.py,
+tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py.
 """
 
 import shutil
@@ -9,20 +9,20 @@ from pathlib import Path
 from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import kalender, sidor
+from kommunhandlingar.webbplats import kalender, mal, sidor
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
+from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
-    kalendrar = frozenset(f.stem for f in (rot / "kalender").glob("*.csv"))
-    if utan_kommun := kalendrar - {k.id for k in kommuner}:
-        raise Datafel(f"kalender/{min(utan_kommun)}.csv har ingen kommunfil")
-    mall = Mall(kommuner, repo, byggd, kalendrar)
+    kalendrar = kommunfiler(rot / "kalender", kommuner)
+    mall = Mall(kommuner, repo, byggd, kalendrar, las_malen(rot, kommuner))
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     for kommun in kommuner:
@@ -42,10 +42,33 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         dokument.append(falt)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
+    bygg_organen(ut, mall, kommun, dokument)
+
+
+def bygg_organen(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:
     for rad in rakna(kommun, dokument, mall.byggd.date()):
         organets = [d for d in dokument if d["organ"] == rad.id]
         html = organsida(mall, kommun, rad, organets)
         (ut / kommun.id / f"{rad.id}.html").write_text(html, encoding="utf-8")
+        if malen := [m for m in mall.malen.get(kommun.id, []) if m.organ == rad.id]:
+            html = malsida(mall, kommun, malen, {int(d["datum"][:4]) for d in organets})
+            (ut / malsidans_adress(kommun, rad.id)).write_text(html, encoding="utf-8")
+
+
+def kommunfiler(katalog: Path, kommuner: list[Kommun]) -> frozenset[str]:
+    filer = frozenset(f.stem for f in katalog.glob("*.csv"))
+    if utan_kommun := filer - {k.id for k in kommuner}:
+        raise Datafel(f"{katalog.name}/{min(utan_kommun)}.csv har ingen kommunfil")
+    return filer
+
+
+def las_malen(rot: Path, kommuner: list[Kommun]) -> dict[str, list[mal.Mal]]:
+    filer = kommunfiler(rot / "mal", kommuner)
+    return {
+        k.id: mal.las(rot / "mal" / f"{k.id}.csv", k, rot / "data" / k.id)
+        for k in kommuner
+        if k.id in filer
+    }
 
 
 def bygg_kalender(rot: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:

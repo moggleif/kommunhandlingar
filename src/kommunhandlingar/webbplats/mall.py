@@ -1,10 +1,11 @@
-"""Krav: K14 och K18 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K14, K18 och K26 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats.mal import Mal
 
 STIL = """
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
@@ -32,6 +33,7 @@ class Mall:
     repo: str
     byggd: datetime
     kalendrar: frozenset[str] = frozenset()
+    malen: dict[str, list[Mal]] = field(default_factory=dict)
 
 
 def rot(adress: str) -> str:

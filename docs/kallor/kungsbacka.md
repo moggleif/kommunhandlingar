@@ -188,6 +188,39 @@ en förståelse för helheten", och ingen i poolen beslutar dem. Kända fel och 
 - Individ & Familjeomsorgs tabell skriver några dagar med siffrorna isär
   ("1 5 april"); första mötet 2027 är uttryckligen en måndag.
 
+### Nämndernas mål och direktiv
+
+Målfilen (K26,
+[ADR-0044](../decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md))
+har hittills bara Gymnasium & Arbetsmarknad. Målen står i nämndbudgeten,
+som nämnden beslutar på hösten året före, och statusen i delårsrapporten
+i september och årsredovisningen i februari året efter; alla tre ligger
+i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
+
+- **Sedan 2018** står vid varje mål och direktiv "Beslutats av Nämnd"
+  eller "Beslutats av Kommunfullmäktige", med "Nämndens formulering"
+  under. Årsredovisningen 2017 saknar märkningen; där skiljer
+  "Nämndens formulering" och "Nämndens bedömning" nämndens egna mål från
+  fullmäktiges.
+- **Statusen** är för direktiven "Uppnått" eller "Delvis uppnått", för
+  nämndmålen 2017–2021 en mening som "Vi har inte nått målet men är på
+  rätt väg", och i delårsrapporten 2018 en prognos ("Kommer att
+  uppnås"). Från 2023 har nämndmålen bara kommentarer, och revisorerna
+  noterar 2026 att nämnden inte gjort någon bedömning av måluppfyllelsen.
+- **Statusraden avbryter ibland rubriken** i textlagret ("Status
+  direktiv Nya målgrupper långt ifrån Delvis uppnått arbetsmarknaden"),
+  och uppföljningen kortar ibland rubriken ("IM organisation",
+  "Kollegialt lärande"). Statusen står ofta på sidan efter rubriken;
+  målfilen har då båda sidorna som källa.
+- **Handlingarna 2014** är PDF-portföljer; texten är bara "Bästa
+  resultat får du om du öppnar den här PDF-portföljen", så nämndbudget
+  2014 och årsredovisning 2013 finns inte i poolen. Handlingarna april
+  2022 till 2023 är till största delen `ej-hamtad`.
+- **Handlingarna 2025-10-16** har nämndbudget 2026 två gånger, ett
+  utkast och den slutliga; målfilen citerar den senare. Nämnden döpte
+  samtidigt om ett mål (protokollet, sida 14), så 2026 har målet
+  under båda namnen.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena

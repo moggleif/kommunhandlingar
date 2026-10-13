@@ -740,3 +740,48 @@ utan mappar läses inte därifrån.
 - **När** en kandidat ur arkivet för platsen tas
 - **Så** hämtas den till platsen, och det gamla försökets källnyckel blir
   en tidigare källnyckel, så att den inte hämtas igen.
+
+## K26 — Nämndens mål och direktiv över tid
+
+Issue: [#144](https://github.com/moggleif/kommunhandlingar/issues/144).
+Hur och varför står i
+[ADR-0044](decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** en kommun med en målfil, där varje rad är ett av nämndens
+  egna mål eller direktiv med år, rubrik och en sida, eller två sidor i
+  följd, i ett dokument i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om sina mål och direktiv,
+  länkad från organets sida.
+- **Givet** sidan om ett organs mål och direktiv
+- **När** den visas
+- **Så** står överst en översikt med ett mål eller direktiv per rad och
+  ett år per kolumn, från organets första till sista år i poolen eller
+  bland målen, och
+  under den ett avsnitt per år med varje mål: rubriken, formuleringen,
+  statusen när en uppföljning anger den, och en länk till källans sida.
+- **Givet** ett år utan dokument från organet i poolen och utan mål ur
+  senare dokument, som en årsredovisning
+- **När** sidan visas
+- **Så** står året med i översikten och som avsnitt, märkt som en lucka
+  där poolen saknar dokument från året.
+- **Givet** samma mål i två år, med samma rubrik
+- **När** sidan visas
+- **Så** står det på samma rad i översikten. Ett mål som bytt rubrik står
+  på två rader.
+- **Givet** sidan
+- **När** besökaren väljer bort nämndmål eller direktiv, eller väljer ett
+  mål i översikten
+- **Så** visas bara det valda i översikten och avsnitten.
+- **Givet** en sida utan JavaScript
+- **När** sidan visas
+- **Så** står alla mål och direktiv, utan urval.
+- **Givet** en målfil med ett organ som inte står i kommunfilen, ett år
+  som inte är fyra siffror, ett slag som varken är `nämndmål` eller
+  `direktiv`, en källa som inte är en sida i ett av organets dokument i
+  poolen, en rubrik, formulering eller status som inte står på källans
+  sidor, samma mål två gånger ur samma källa, eller en målfil utan
+  kommunfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden i felet.

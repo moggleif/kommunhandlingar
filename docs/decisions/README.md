@@ -38,7 +38,7 @@ Regler för det här repot, utöver MADR:
 | 0009 | [Tabellernas härkomst är dokumentets, sidnumret står i filnamnet, och CSV skrivs i ett fast format](0009-tabellernas-harkomst-och-csv-format.md) | accepted (0024 lägger till ett namn för tabeller över flera sidor) |
 | 0010 | [Kandidaterna hämtas organ för organ i konfigurationens ordning, och inom organet protokoll före handlingar](0010-ordningen-organ-for-organ.md) | accepted (0018 ger en ny ordning för ny historik, 0019 lägger omkonverteringen sist) |
 | 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted |
-| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern) |
+| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern, 0044 ett skript för målen) |
 | 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted |
@@ -67,3 +67,4 @@ Regler för det här repot, utöver MADR:
 | 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | accepted |
 | 0040 | [Rubriker över flera kolumner och på flera textrader i tabeller utan lodräta linjer](0040-rubriker-over-flera-kolumner-och-textrader.md) | proposed |
 | 0041 | [Varje avvikelse i källan blir ett eget issue efter en mall](0041-avvikelser-ett-issue-per-avvikelse.md) | proposed |
+| 0044 | [Nämndens mål och direktiv läses ur dokumenten av AI-agenten, skrivs i en CSV per kommun med sidan som källa, och bygget prövar att texten står där](0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md) | proposed |
