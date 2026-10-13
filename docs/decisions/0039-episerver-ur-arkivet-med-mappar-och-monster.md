@@ -64,7 +64,8 @@ skulle varje typkälla behöva ett mönster för varje datumform.
   http och https, med och utan `www`, är en fil. Källnyckeln är
   `episerver:` och adressen utan protokoll, `www` och port, med sökvägen
   kodad på ett enda sätt. Kodningen gör att nyckeln aldrig innehåller
-  `, `, som skiljer nycklarna i `tidigare_kallnycklar` åt. Den största
+  ett kommatecken följt av blanksteg, som skiljer nycklarna i
+  `tidigare_kallnycklar` åt. Den största
   kopian tas, och vid lika storlek den äldsta.
 * **Typ och datum.** Mönstren prövas i ordning mot sökvägen under mappen,
   till exempel `Protokoll/2013/GV protokoll 20 nov.pdf`. Det första
@@ -88,7 +89,7 @@ skulle varje typkälla behöva ett mönster för varje datumform.
 * Bra, eftersom ett protokoll som Sitevision-kopian inte gav (`kapad`)
   kan komma från Episerver-kopian.
 * Dåligt, eftersom en fil vars datum inte går att läsa kräver en rättelse
-  för hand, med belägg ur filen. För Gymnasium & Arbetsmarknad var det sju
+  för hand, med belägg ur filen. För Gymnasium & Arbetsmarknad var det åtta
   filer.
 * Dåligt, eftersom handlingar som är en fil per ärende, som hos
   kommunstyrelsen och fullmäktige, ännu inte får ett namn var
@@ -151,9 +152,11 @@ molnmiljön inte når `web.archive.org`. Resultatet blev 83 PDF:er:
 * 63 från 2018, 2020 och 2021 i `globalassets`.
 
 Agenten läste första sidan av de sju filer vars namn saknade ett läsbart
-datum, och av två filer i handlingarnas mapp med "kallelse" i namnet. De
-två senare var kallelsen med alla handlingar. Därför går
-handlingarnas mapp före filnamnet i typmönstren.
+datum, av en fil vars namn gav ett annat datum än sammanträdets
+(`21-04-08-kallelse.pdf`, sammanträde 14 april 2021), och av två filer i
+handlingarnas mapp med "kallelse" i namnet. De två senare var kallelsen
+med alla handlingar. Därför går handlingarnas mapp före filnamnet i
+typmönstren.
 
 Agenten föreslog först ett eget organ för Gymnasie och Vuxenutbildning,
 med `ga` som efterföljare. Ägaren valde att lägga det direkt under `ga`.

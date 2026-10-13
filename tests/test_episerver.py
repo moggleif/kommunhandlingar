@@ -14,9 +14,19 @@ MAPP = "exempelby.se/Global/Möten/Barn och ungdom/"
 POST = {
     "adapter": "episerver",
     "manader": [
-        "jan", "feb", "mar", "apr", "maj", "jun",
-        "jul", "aug", "sep", "okt", "nov", "dec",
-    ],  # fmt: skip
+        "jan",
+        "feb",
+        "mar",
+        "apr",
+        "maj",
+        "jun",
+        "jul",
+        "aug",
+        "sep",
+        "okt",
+        "nov",
+        "dec",
+    ],
     "datum": [
         r"(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})",
         r"(?<!\d)(?P<ar>\d{4})(?P<manad>\d{2})(?P<dag>\d{2})(?!\d)",

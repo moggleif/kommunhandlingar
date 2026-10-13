@@ -35,10 +35,13 @@ class TestPlattformar(TestArkivet):
     def test_ett_forsok_fran_en_annan_plattform_tas_over(self):
         self.klient.filer |= {W1: "kapad:begransad.pdf", W2: "begransad.pdf"}
         self.kor(kandidat("s:1", W1))
-        self.assertEqual(self.kor(kandidat("s:1", W1), kandidat("e:1", W2)), [
-            "ej hämtad (kapad), oförändrad",
-            "konverterad",
-        ])
+        self.assertEqual(
+            self.kor(kandidat("s:1", W1), kandidat("e:1", W2)),
+            [
+                "ej hämtad (kapad), oförändrad",
+                "konverterad",
+            ],
+        )
         falt = self.falt()
         self.assertEqual(falt["kallnyckel"], "e:1")
         self.assertNotEqual(falt["kvalitet"], "ej-hamtad")

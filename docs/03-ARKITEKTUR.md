@@ -380,8 +380,9 @@ regex = '(?i)^protokoll/'
   att `nov`, `november` och felstavningen `septemberi` läses.
 - **Källnyckeln** är `episerver:` och adressen utan protokoll, `www` och
   port, med sökvägen avkodad och kodad igen med `%XX` för allt utom
-  bokstäverna a–z, siffror, `-._~` och `/`. Samma fil under flera
-  adresser får samma nyckel, och nyckeln innehåller aldrig `, `.
+  bokstäverna A–Z och a–z, siffror, `-._~` och `/`. Samma fil under
+  flera adresser får samma nyckel, och nyckeln innehåller aldrig ett
+  kommatecken följt av blanksteg.
 - **Ingen kandidat** blir det av en fil som inget typ- eller datummönster
   matchar, eller vars datum inte finns, utan rättelse. Den nämns i
   sammanfattningen.
