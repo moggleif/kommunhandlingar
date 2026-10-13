@@ -153,6 +153,11 @@ organet tas från sidan, datumet ur filnamnet eller rubriken, och när de
 avviker gäller en rättelse i kommunfilen, belagd med datumet i kallelsen
 eller protokollet.
 
+Avvikelser som hittas från och med 2026-10 får ett eget issue med
+etiketten
+[`avvikelse`](https://github.com/moggleif/kommunhandlingar/issues?q=label%3Aavvikelse),
+med status och belägg (se [Bidra](../01-BIDRA.md#avvikelser-i-källan)).
+
 **Personnummer i publicerade handlingar.** Flera ärenden har fullständiga
 personnummer, ibland med hemadress, oftast i bilagor som kommit utifrån.
 Poolen maskar dem, och felen rapporteras till kommunen utanför repot
