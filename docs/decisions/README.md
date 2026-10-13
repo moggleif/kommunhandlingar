@@ -57,11 +57,11 @@ Regler för det här repot, utöver MADR:
 | 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | accepted |
 | 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | accepted |
 | 0031 | [Ett rutnät utan text är ingen tabell](0031-ett-rutnat-utan-text-ar-ingen-tabell.md) | accepted |
-| 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | proposed |
-| 0033 | [Talrader i linje som inte blev någon tabell märker sidan osäker](0033-talrader-i-linje-marker-sidan-osaker.md) | proposed |
-| 0034 | [En tabell med linjer som bara ramar in en del av sig själv fälls](0034-en-avskuren-tabell-med-linjer-falls.md) | proposed |
-| 0035 | [Avsnittsrubriker och årtal håller ihop en tabell utan lodräta linjer](0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md) | proposed |
-| 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | proposed |
+| 0032 | [Kalendern läses ur organens beslut av AI-agenten, skrivs i en CSV per kommun och visas med ett litet skript](0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md) | accepted |
+| 0033 | [Talrader i linje som inte blev någon tabell märker sidan osäker](0033-talrader-i-linje-marker-sidan-osaker.md) | accepted |
+| 0034 | [En tabell med linjer som bara ramar in en del av sig själv fälls](0034-en-avskuren-tabell-med-linjer-falls.md) | accepted |
+| 0035 | [Avsnittsrubriker och årtal håller ihop en tabell utan lodräta linjer](0035-avsnittsrubriker-och-artal-i-tabeller-utan-linjer.md) | accepted |
+| 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | accepted |
 | 0037 | [Rubrikrader, radavstånd och sidfot i tabeller utan lodräta linjer](0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md) | accepted |
 | 0038 | [Text som inte går att läsa i ordning ger obekräftade tal](0038-text-i-oordning-ger-obekraftade-tal.md) | accepted |
 | 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | proposed |
