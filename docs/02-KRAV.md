@@ -170,7 +170,7 @@ kunna läggas till utan kodändring.
 
 - **Givet** en sida vars tal inte är bekräftade – en sida som lästs med
   OCR, en sida som inte gick att konvertera, ett textlager med oläsliga
-  tecken, eller ett textlager med roterad text eller text ritad ovanpå
+  tecken, eller ett textlager med text på högkant eller text ritad ovanpå
   annan text (issue [#119](https://github.com/moggleif/kommunhandlingar/issues/119))
 - **När** dokumentet konverteras
 - **Så** listas sidan bland dokumentets sidor med obekräftade tal. Text

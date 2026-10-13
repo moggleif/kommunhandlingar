@@ -78,7 +78,6 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
-    obekraftade = olasliga(sida) > 0 or i_oordning(sida)
     sida = utan_mellanslag_i_tal(sida)
     hittade, fallda = med_linjer(sida)
     rutor = [ruta for ruta, _, _ in hittade]
@@ -91,7 +90,7 @@ def textsida(sida: Page) -> Sida:
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
         "tabell-osaker" if osaker else "ok",
-        obekraftade,
+        olasliga(sida) > 0 or i_oordning(sida),
         text,
         [rader for _, rader, _ in hittade],
         figurer.har_figur(sida, rutor),

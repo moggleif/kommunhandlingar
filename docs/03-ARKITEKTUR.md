@@ -574,12 +574,13 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   `ej-konverterad`, eftersom talen på den inte är lästa, och varje sida
   med textlager där något tecken är oläsligt, eftersom tecknet kan ha
   varit en siffra. Det gäller också en sida med textlager där något
-  tecken är roterat, eller där två tecken på samma rad täcker mer än halva
-  det smalare av dem utan att stå intill varandra i textlagret och utan
-  att vara samma tecken, eftersom texten då inte går att läsa i ordning
+  tecken står på högkant (inte `upright` i pdfplumber), eller där två
+  tecken på samma rad täcker mer än halva det smalare av dem utan att
+  stå intill varandra i textlagret, mellanslag oräknade, och utan att
+  vara samma tecken, eftersom texten då inte går att läsa i ordning
   ([ADR-0038](decisions/0038-text-i-oordning-ger-obekraftade-tal.md)).
-  Övriga tal i ett läst textlager är bekräftade: de är
-  de tal PDF:en innehåller. Det säger ingenting om vilken cell de hör
+  Övriga tal i ett läst textlager är bekräftade: de är de tal PDF:en
+  innehåller. Det säger ingenting om vilken cell de hör
   till; det avgörs av reglerna för tabeller nedan. Talen på en sida som
   inte står i listan går att använda som data, och en tom lista betyder
   att det gäller varje tal i dokumentet.

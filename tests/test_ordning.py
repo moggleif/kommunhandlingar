@@ -5,9 +5,17 @@ ovanpå slutet av `stöd` i cellen till vänster.
 """
 
 import unittest
+from pathlib import Path
 from types import SimpleNamespace
+from unittest.mock import patch
 
+import pdfplumber
+
+from kommunhandlingar.konvertering import las_sida
+from kommunhandlingar.konvertering.las_sida import textsida
 from kommunhandlingar.konvertering.ordning import i_oordning
+
+PDF = Path(__file__).parent / "fixtures" / "pdf"
 
 
 def tecken(text: str, x0: float, bredd: float = 5.6, upright: bool = True) -> dict:
@@ -26,7 +34,8 @@ class TestOrdning(unittest.TestCase):
         self.assertFalse(i_oordning(sida(*STOD, tecken("2", 434.8))))
 
     def test_text_ritad_ovanpa_annan_text(self):
-        datum = [tecken("2", 425.8), tecken("0", 431.4)]
+        """Som i textlagret: en tvåa efter `stöd`, sedan datumet ovanpå."""
+        datum = [tecken("2", 434.8), tecken("2", 425.8), tecken("0", 431.4)]
         self.assertTrue(i_oordning(sida(*STOD, *datum)))
 
     def test_grannar_som_overlappar_raknas_inte(self):
@@ -41,3 +50,23 @@ class TestOrdning(unittest.TestCase):
 
     def test_roterad_text(self):
         self.assertTrue(i_oordning(sida(*STOD, tecken("N", 50, upright=False))))
+
+
+class TestRader(unittest.TestCase):
+    def test_kursiv_over_ett_mellanrum_raknas_inte(self):
+        """Mellanslaget mellan grannarna räknas inte."""
+        kursiv = [tecken("f", 100, 7), tecken(" ", 105, 2), tecken("a", 103)]
+        self.assertFalse(i_oordning(sida(*kursiv)))
+
+    def test_tecken_pa_olika_rader_overlappar_inte(self):
+        under = dict(tecken("2", 425.8), top=148)
+        self.assertFalse(i_oordning(sida(*STOD, tecken("0", 440), under)))
+
+
+class TestSidan(unittest.TestCase):
+    def test_sidan_i_oordning_far_obekraftade_tal(self):
+        with pdfplumber.open(PDF / "sidor.pdf") as pdf:
+            sida = pdf.pages[0]
+            self.assertFalse(textsida(sida).tal_obekraftade)
+            with patch.object(las_sida, "i_oordning", return_value=True):
+                self.assertTrue(textsida(sida).tal_obekraftade)
