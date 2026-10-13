@@ -67,6 +67,12 @@ class TestSpann(unittest.TestCase):
     def test_linje_bara_pa_ena_sidan_tas_inte_med(self):
         self.assertEqual(rubriker(OVER_TRE, UNDERRUBRIK, linjer=LINJER[:1]), [])
 
+    def test_linjer_som_inte_star_mellan_kolumnerna_raknas_inte(self):
+        """En sidram eller en sidstor ruta, och en centrerad sidrubrik."""
+        rubrik = [ord_("Driftredovisning 2025", 310, 60, 60)]
+        ram = (linje(250 - 220), linje(250 + 280))
+        self.assertEqual(rubriker(rubrik, UNDERRUBRIK, linjer=ram), [])
+
     def test_linje_som_inte_star_bredvid_raden_raknas_inte(self):
         kort = {"x0": 205, "top": 115, "bottom": 180}
         linjer = (kort, linje(355))
@@ -89,6 +95,19 @@ class TestTextrader(unittest.TestCase):
         ovre = [ord_("Plan", 195, 60, 20), ord_("Plan", 245, 60, 20)]
         ovre += [ord_("Plan", 295, 60, 20), ord_("Plan", 345, 60, 20)]
         self.assertEqual(len(rubriker(ovre, UNDERRUBRIK)), 2)
+
+    def test_ofullstandig_textrad_tatt_ovanfor_rubriken(self):
+        """`tkr` tätt ovanför: den översta textraden står inte över varje
+        kolumn, så rubriken blir inte halv."""
+        tkr = [ord_("tkr", 345, 67, 15)]
+        self.assertEqual(rubriker(tkr, UNDERRUBRIK), [])
+
+    def test_streck_for_ett_utelamnat_ordled_star_kvar(self):
+        ovre = [ord_("Kultur-", 195, 80, 25), ord_("Budget", 245, 80, 30)]
+        ovre += [ord_("Utfall", 295, 80, 25), ord_("Plan", 340, 80, 20)]
+        undre = [ord_("och fritid", 198, 93, 40), ord_("2025", 245, 93, 20)]
+        undre += [ord_("text", 298, 93, 20)]
+        self.assertEqual(rubriker(ovre, undre)[0][1], "Kultur- och fritid")
 
     def test_cell_under_en_rubrik_over_flera_kolumner_tas_inte_med(self):
         ovre = [ord_("Budget", 195, 80, 30), ord_("Bokslut", 310, 80, 60)]

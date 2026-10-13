@@ -930,11 +930,13 @@ och blir en osäker tabell som förut.
    eller om den etikett som slutar längst till höger för den första
    kolumnen, och slutar högst 2 punkter till höger om kolumnens egen högra
    kant, så att också en centrerad rubrik ryms. Ett fält som står över
-   flera fack spänner över kolumnerna mellan de lodräta linjerna, också
-   kanterna på en färgad ruta, närmast på var sida om det bredvid raden,
-   när det står mitt emellan dem (högst 2 punkter från mitten), och står
-   i den första av dem. Saknas en linje på någon sida, eller står fältet
-   inte mitt emellan, går det inte att avgöra, och raden är ingen
+   flera fack spänner över kolumnerna mellan de lodräta linjerna närmast
+   på var sida om det bredvid raden, när det står mitt emellan dem (högst
+   2 punkter från mitten) och varje linje står i ett mellanrum mellan
+   kolumnerna: efter etiketterna eller en kolumns högra kant och före nästa
+   kolumns tal, eller högst en teckenhöjd efter den sista kolumnen.
+   Kanterna på rutor räknas också som linjer. Fältet står i den första av
+   sina kolumner. Annars går det inte att avgöra, och raden är ingen
    rubrikrad
    ([ADR-0040](decisions/0040-rubriker-over-flera-kolumner-och-textrader.md)).
    Ett första fält som börjar till vänster om där den etiketten slutar,
@@ -943,12 +945,14 @@ och blir en osäker tabell som förut.
    Textrader som står tätare än en halv teckenhöjd är samma rubrikrad: en
    cell fogas till cellen ovanför med ett mellanslag, som `Budget⏎2025`,
    eller utan avstavningsstrecket när den ovanför slutar med ett och
-   cellen börjar med liten bokstav, som `Netto-⏎anslag`. En cell som står
-   över andra kolumner än cellen ovanför den gör rubriken oläslig.
+   cellen börjar med liten bokstav, som `Netto-⏎anslag`, utom när cellen
+   börjar med `och`, `eller` eller `samt`, som `Kultur-⏎och fritid`. En
+   cell som står över andra kolumner än cellen ovanför den gör rubriken
+   oläslig.
    Står en eller två etikettrader till vänster om kolumnerna mellan
    rubriken och tabellen tas de med som avsnittsrubriker, men bara när
    rubriken ovanför dem tas med. Rubriken tas med bara om den översta
-   rubrikraden har en rubrik över varje kolumn, och om raden ovanför den
+   textraden har en rubrik över varje kolumn, och om raden ovanför den
    har ett tal som inte är ett årtal, som en tabell ovanför, är ett ensamt
    fält som slutar före kolumnerna eller börjar där etiketterna står, som
    en rad löptext, ligger längre bort, eller inte finns; annars tas ingen

@@ -7,9 +7,12 @@ flera textrader fogas ihop
 """
 
 from dataclasses import dataclass
+from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
 from kommunhandlingar.konvertering.rader import I_LINJE, Rad, mellanrum
+
+BINDEORD = {"och", "eller", "samt"}
 
 # Första kolumnen (0 är etiketten) mot den sista kolumnen och texten.
 Celler = dict[int, tuple[int, str]]
@@ -30,20 +33,22 @@ class Fack:
         return [self.etiketternas_slut] + [x1 for _, x1 in self.kolumner]
 
 
-def rubrikceller(huvud: list[Rad], fack: Fack) -> list[list[str]] | None:
-    """Rubrikraderna som celler; textrader som står tätare än en halv
-    teckenhöjd är samma rad. None när rubriken inte går att läsa hel."""
-    rader_: list[Celler | None] = []
-    for ovre, undre in zip([None, *huvud], huvud, strict=False):
-        celler = rubrikrad(undre, fack)
-        if ovre and mellanrum(ovre, undre) < min(ovre.hojd, undre.hojd) / 2:
-            rader_[-1] = foga(rader_[-1], celler)
-        else:
-            rader_.append(celler)
-    n = len(fack.kolumner)
-    if None in rader_ or not tackt(rader_[0], n):
+def rubrikceller(huvud: list[tuple[Rad, Celler]], n: int) -> list[list[str]] | None:
+    """Rubrikens textrader med sina celler som rubrikrader; textrader som
+    står tätare än en halv teckenhöjd är samma rubrikrad. None när den
+    översta textraden inte står över varje kolumn, så att rubriken aldrig
+    blir halv, eller när cellerna inte går att foga ihop."""
+    if not tackt(huvud[0][1], n):
         return None
-    return [lista(c, n) for c in rader_]
+    rubrikrader: list[Celler | None] = [huvud[0][1]]
+    for (ovre, _), (undre, celler) in pairwise(huvud):
+        if mellanrum(ovre, undre) < min(ovre.hojd, undre.hojd) / 2:
+            rubrikrader[-1] = fogad(rubrikrader[-1], celler)
+        else:
+            rubrikrader.append(celler)
+    if None in rubrikrader:
+        return None
+    return [som_lista(c, n) for c in rubrikrader]
 
 
 def rubrikrad(r: Rad, fack: Fack) -> Celler | None:
@@ -74,25 +79,37 @@ def spann(f: Falt, r: Rad, fack: Fack) -> tuple[int, int] | None:
 
 
 def mellan_linjer(f: Falt, r: Rad, fack: Fack) -> tuple[int, int] | None:
-    """Fältet ska stå mitt emellan linjerna, som en centrerad rubrik i en
-    sammanslagen cell; annars går det inte att avgöra."""
+    """Fältet ska stå mitt emellan två linjer som står mellan kolumnerna,
+    som en centrerad rubrik i en sammanslagen cell; annars går det inte att
+    avgöra."""
     overst = min(o["top"] for o in r.ord)
     nederst = max(o["bottom"] for o in r.ord)
     xs = [x for x, top, bottom in fack.linjer if top < nederst and bottom > overst]
     vanster = max((x for x in xs if x <= f.x0), default=None)
     hoger = min((x for x in xs if x >= f.x1), default=None)
-    if vanster is None or hoger is None:
+    if (
+        vanster is None
+        or hoger is None
+        or abs(vanster + hoger - f.x0 - f.x1) > 2 * I_LINJE
+    ):
         return None
-    if abs((vanster + hoger) - (f.x0 + f.x1)) / 2 > I_LINJE:
-        return None
-    inom = [k for k, (_, x1) in enumerate(fack.kolumner, 1) if vanster < x1 <= hoger]
-    return (inom[0], inom[-1]) if inom else None
+    efter, fore = mellanrummet(vanster, fack, r.hojd), mellanrummet(hoger, fack, r.hojd)
+    return None if efter is None or fore is None else (efter + 1, fore)
 
 
-def foga(ovre: Celler | None, undre: Celler | None) -> Celler | None:
-    """Undre radens celler under den övres; en cell som står över andra
+def mellanrummet(x: float, fack: Fack, marginal: float) -> int | None:
+    """k när x står i mellanrummet efter kolumn k (0 är etiketterna), före
+    nästa kolumns tal; efter den sista kolumnen högst en teckenhöjd ut."""
+    borjan = fack.granser
+    slut = [x0 for x0, _ in fack.kolumner] + [borjan[-1] + marginal]
+    mellanrum_ = enumerate(zip(borjan, slut, strict=True))
+    return next((k for k, (a, b) in mellanrum_ if a < x <= b), None)
+
+
+def fogad(ovre: Celler | None, undre: Celler) -> Celler | None:
+    """Undre textradens celler under den övres; en cell som står över andra
     kolumner än cellen ovanför den gör rubriken oläslig."""
-    if ovre is None or undre is None:
+    if ovre is None:
         return None
     ut = dict(ovre)
     for borjan, (slut, text) in undre.items():
@@ -107,8 +124,9 @@ def foga(ovre: Celler | None, undre: Celler | None) -> Celler | None:
 
 def sammanfogad(ovre: str, undre: str) -> str:
     """`Netto-` och `anslag` blir `Nettoanslag`, `Budget` och `2025` blir
-    `Budget 2025`."""
-    if ovre.endswith("-") and undre[:1].islower():
+    `Budget 2025` och `Kultur-` och `och fritid` blir `Kultur- och fritid`."""
+    avstavat = ovre.endswith("-") and undre[:1].islower()
+    if avstavat and undre.split()[0] not in BINDEORD:
         return ovre[:-1] + undre
     return f"{ovre} {undre}"
 
@@ -118,7 +136,7 @@ def tackt(celler: Celler, n: int) -> bool:
     return tackta >= set(range(1, n + 1))
 
 
-def lista(celler: Celler, n: int) -> list[str]:
+def som_lista(celler: Celler, n: int) -> list[str]:
     rad_ = [""] * (n + 1)
     for borjan, (_, text) in celler.items():
         rad_[borjan] = text

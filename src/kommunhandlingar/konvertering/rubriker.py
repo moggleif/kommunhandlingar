@@ -11,7 +11,7 @@ from itertools import pairwise
 
 from kommunhandlingar.konvertering.falt import Falt
 from kommunhandlingar.konvertering.rader import MEST_EMELLAN, Rad, ar_varde, nara
-from kommunhandlingar.konvertering.spann import Fack, rubrikceller, rubrikrad
+from kommunhandlingar.konvertering.spann import Celler, Fack, rubrikceller, rubrikrad
 
 
 def ovanfor(rader_: list[Rad], fack: Fack) -> tuple[list[list[str]], list[Rad]]:
@@ -22,12 +22,15 @@ def ovanfor(rader_: list[Rad], fack: Fack) -> tuple[list[list[str]], list[Rad]]:
     while n < min(MEST_EMELLAN, len(rader_) - 1) and ensam_ovanfor(rader_, n, fack):
         n += 1
     huvud = huvudet(rader_[: len(rader_) - n], fack)
-    celler = rubrikceller(huvud, fack) if huvud else None
+    celler = rubrikceller(huvud, len(fack.kolumner)) if huvud else None
     if not celler:
         return [], []
     avsnitt = rader_[-1 - n : -1]
     tomma = [""] * len(fack.kolumner)
-    return celler + [[r.falt[0].text, *tomma] for r in avsnitt], huvud + avsnitt
+    rader_i_huvudet = [r for r, _ in huvud]
+    return celler + [
+        [r.falt[0].text, *tomma] for r in avsnitt
+    ], rader_i_huvudet + avsnitt
 
 
 def ensam_ovanfor(rader_: list[Rad], n: int, fack: Fack) -> bool:
@@ -35,19 +38,18 @@ def ensam_ovanfor(rader_: list[Rad], n: int, fack: Fack) -> bool:
     return bara_etikett(ovre.falt, fack) and nara(ovre, undre)
 
 
-def huvudet(rader_: list[Rad], fack: Fack) -> list[Rad]:
-    """Rubrikens textrader uppåt till en rad med värden, som en tabell
-    ovanför, eller en rad text ovanför; annars inga, så att rubriken aldrig
-    blir halv."""
-    huvud: list[Rad] = []
+def huvudet(rader_: list[Rad], fack: Fack) -> list[tuple[Rad, Celler]]:
+    """Rubrikens textrader med sina celler, uppåt till en rad med värden,
+    som en tabell ovanför, eller en rad text ovanför; annars inga, så att
+    rubriken aldrig blir halv."""
+    huvud: list[tuple[Rad, Celler]] = []
     for ovre, undre in reversed(list(pairwise(rader_))):
         if not nara(ovre, undre) or any(map(ar_varde, ovre.falt or [])):
             break
-        if rubrikrad(ovre, fack) is None:
-            if not ensam_text(ovre.falt, fack):
-                return []
-            break
-        huvud.insert(0, ovre)
+        celler = rubrikrad(ovre, fack)
+        if celler is None:
+            return [] if not ensam_text(ovre.falt, fack) else huvud
+        huvud.insert(0, (ovre, celler))
     return huvud
 
 

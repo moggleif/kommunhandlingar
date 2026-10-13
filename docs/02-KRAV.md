@@ -112,7 +112,7 @@ kunna läggas till utan kodändring.
   tabell ovanför den
   (issue [#117](https://github.com/moggleif/kommunhandlingar/issues/117))
 - **Så** blir den en CSV utan sidfoten, med rubriken överst när den står
-  i linje med kolumnerna, och tabellen ovanför blir en egen CSV.
+  över kolumnerna, och tabellen ovanför blir en egen CSV.
 - **Givet** en sådan tabell vars rubriker står centrerade över
   kolumnerna, spänner över flera kolumner eller står på två textrader,
   som `Netto-⏎anslag`

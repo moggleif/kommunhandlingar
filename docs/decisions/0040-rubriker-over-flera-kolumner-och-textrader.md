@@ -16,7 +16,7 @@ som ofullständig: driftredovisningen i årsredovisningen
 Tabellen blev en CSV, men rubriken stod kvar i texten. Rubriken har två
 rader med två textrader var, `Budget⏎2025` och `Netto-⏎anslag`. I den
 översta raden står `Bokslut 2025` över fyra kolumner och `Bokslut 2024`
-över tre. Rubrikerna är centrerade i sina celler, medan talen står till
+över tre, fast texten bara når in i två kolumners fack. Rubrikerna är centrerade i sina celler, medan talen står till
 höger. [ADR-0016](0016-tabeller-utan-lodrata-linjer.md) tar bara med en
 rubrik vars högerkant står i linje med kolumnens tal, så ingen av raderna
 gick att läsa. Hur ska en sådan rubrik läsas, och när ska den stå kvar i
@@ -41,20 +41,27 @@ texten?
 Valt: A. En rubrik hör till en kolumn när den ryms i kolumnens fack, som
 börjar där föregående kolumn slutar och slutar vid kolumnens egen
 högerkant. Då följer också en centrerad rubrik med, inte bara en som står
-i linje med talen.
+i linje med talen. Det ersätter regeln i ADR-0016 att varje rubrik ska
+stå med högerkanten i linje med sin kolumn; resten av ADR-0016 gäller.
 
 En rubrik som står över flera fack spänner över kolumnerna mellan de
 lodräta linjerna närmast på var sida om den, när den står mitt emellan
-dem. Kanterna på en färgad ruta räknas som linjer. Rubriken står i den
-första av sina kolumner, och resten av cellerna är tomma. Saknas en linje
-på någon sida, eller står rubriken inte mitt emellan linjerna, går det
-inte att avgöra, och rubriken står kvar i texten som förut.
+dem och varje linje står i ett mellanrum mellan kolumnerna. Kanterna på
+rutor räknas som linjer, så en linje kan också vara kanten på en ruta
+bakom rubriken. Rubriken står i den första av sina kolumner, och resten
+av cellerna är tomma. Saknas en linje på någon sida, står en linje inte
+mellan kolumnerna, som en sidram, eller står rubriken inte mitt emellan
+linjerna, går det inte att avgöra, och rubriken står kvar i texten som
+förut.
 
 Textrader som står tätare än en halv teckenhöjd är samma rubrikrad. En
 cell fogas till cellen ovanför med ett mellanslag. När cellen ovanför
 slutar med ett avstavningsstreck och cellen under börjar med liten
 bokstav fogas de utan strecket, så att `Netto-⏎anslag` blir
-`Nettoanslag`. Står en cell under en rubrik som spänner över flera
+`Nettoanslag`, men inte när cellen under börjar med `och`, `eller` eller
+`samt`, som i `Kultur-⏎och fritid`. Den översta textraden ska stå över
+varje kolumn, som förut den översta rubrikraden, så att rubriken aldrig
+blir halv. Står en cell under en rubrik som spänner över flera
 kolumner och täcker andra kolumner än den, står rubriken kvar i texten.
 Reglerna står i `konvertering/spann.py`.
 
@@ -75,6 +82,9 @@ Poolens version höjs till 0.8.10. Poolen rättas när den konverteras om
 * Dåligt, eftersom två rubrikrader som står tätare än en halv teckenhöjd
   blir en, till exempel `Budget` ovanför `2026` blir `Budget 2026`.
   Texten finns kvar, men inte radindelningen.
+* Dåligt, eftersom vilken text som helst som ryms i facken nu räknas som
+  rubrik, också korta ord som inte står i linje med talen. Den måste
+  fortfarande stå direkt ovanför tabellen och över varje kolumn.
 
 ### Confirmation
 
@@ -124,6 +134,13 @@ driftredovisningen som rätt.
    `Antal/år tim/ärende`, stod i en ruta över två kolumner och hamnade
    över den första av dem. Därför krävs nu en linje på var sida och att
    rubriken står mitt emellan dem.
+4. **Granskningen** fann att en sidram, eller en sidstor osynlig ruta,
+   gav linjer som en centrerad sidrubrik stod mitt emellan; därför ska
+   linjerna stå i ett mellanrum mellan kolumnerna. Granskningen fann
+   också att en ofullständig textrad tätt ovanför rubriken, som `tkr`,
+   fogades in och gjorde rubriken halv, och att `Kultur-⏎och fritid`
+   blev `Kulturoch fritid`. Den översta textraden ska nu stå över varje
+   kolumn, och strecket står kvar före `och`, `eller` och `samt`.
 
 Ompröva beslutet om poolen visar många tabeller utan linjer vars rubriker
 spänner över flera kolumner.

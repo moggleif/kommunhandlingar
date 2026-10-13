@@ -61,7 +61,9 @@ def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
     return [o for o in ord_ if not any(inom(mitt(o), r) for r in upptagna)]
 
 
-def tabell(rader_: list[Rad], foljd: tuple[int, int], linjer: list) -> Tabell | None:
+def tabell(
+    rader_: list[Rad], foljd: tuple[int, int], linjer: list[tuple]
+) -> Tabell | None:
     borjan, slut = foljd[0], med_fortsattning(rader_, foljd[1])
     delar = [delad(r) for r in rader_[borjan:slut]]
     if None in delar or sum(talrad(c) for _, c in delar) < MINSTA_FOLJD:
