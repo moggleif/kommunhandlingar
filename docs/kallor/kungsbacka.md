@@ -302,8 +302,9 @@ politik-repot fick 404 på `globalassets`-adresserna.
 Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
 ([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
 och slås på per organ i kommunfilens `wayback`
-([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)); övriga
-organ väntar tills konverteringen är färdig. De två
+([ADR-0027](../decisions/0027-arkivet-slas-pa-per-organ.md)); vilka organ
+som är påslagna står i kommunfilen
+([ADR-0047](../decisions/0047-alla-organ-lases-ur-arkivet.md)). De två
 Episerver-generationerna läses med adaptern `episerver` ur organets mappar
 i kommunfilen
 ([ADR-0039](../decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md));

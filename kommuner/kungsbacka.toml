@@ -84,11 +84,13 @@ namn = ["Kommunfullmäktige"]
 
 # Mötessidorna på kungsbacka.se (ADR-0011): organet är sidans, typen står i
 # filnamnet, och datumet i filnamnet eller i mötets rubrik. Organen i wayback
-# läses också ur Internet Archive (ADR-0018, ADR-0027); övriga väntar tills
-# konverteringen är färdig.
+# läses också ur Internet Archive (ADR-0018, ADR-0027, ADR-0047).
 [[kalla]]
 adapter = "sitevision"
-wayback = ["ga"]
+wayback = [
+  "ga", "fg", "fg-au", "bygg", "bygg-au", "teknik", "teknik-au", "service",
+  "ifo", "kultur", "miljo", "vo", "val", "revision", "ks", "ks-au", "kf",
+]
 manader = [
   "januari", "februari", "mars", "april", "maj", "juni",
   "juli", "augusti", "september", "oktober", "november", "december",
@@ -162,9 +164,8 @@ kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-m
 "sitevision:18.6111bcdb1920bbb80f8af74b" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
 
 # Webbplatsens två Episerver-generationer, 2013–2022, som bara finns i
-# Internet Archive (ADR-0039). Organen i mappar läses ur arkivet; övriga
-# väntar tills konverteringen är färdig. Gymnasie och Vuxenutbildning
-# läggs under ga.
+# Internet Archive (ADR-0039). Bara organen i mappar läses ur arkivet.
+# Gymnasie och Vuxenutbildning läggs under ga.
 [[kalla]]
 adapter = "episerver"
 manader = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
