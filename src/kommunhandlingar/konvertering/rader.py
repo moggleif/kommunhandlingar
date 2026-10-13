@@ -63,23 +63,30 @@ def har_tal(r: Rad) -> bool:
     return uppdela(r.falt) is not None or talrad(r.falt)
 
 
+def mellanrum(ovre: Rad, undre: Rad) -> float:
+    return min(o["top"] for o in undre.ord) - max(o["bottom"] for o in ovre.ord)
+
+
 def nara(ovre: Rad, undre: Rad) -> bool:
-    mellanrum = min(o["top"] for o in undre.ord) - max(o["bottom"] for o in ovre.ord)
-    return mellanrum <= RADMELLANRUM * max(ovre.hojd, undre.hojd)
+    return mellanrum(ovre, undre) <= RADMELLANRUM * max(ovre.hojd, undre.hojd)
 
 
 def artalsrad(r: Rad) -> bool:
-    """En rubrikrad där varje tal är ett årtal, som `2025 2026 2027` eller
-    `Kommunen 2021 2022`."""
+    """En rubrikrad med bara årtal, som `2025 2026 2027`."""
+    return r.falt is not None and all(ARTAL.fullmatch(f.text) for f in r.falt)
+
+
+def bara_artal(r: Rad) -> bool:
+    """En rad med tal där varje tal är ett årtal, som `Kommunen 2021 2022`."""
     tal = [f for f in r.falt or [] if ar_tal(f)]
     return bool(tal) and not any(map(ar_varde, tal))
 
 
-def till_vanster(ovanfor: list[Rad], undre: Rad) -> bool:
-    """Radens etikett börjar till vänster om talen ovanför, så att en sidfot
-    med sidnummer, som börjar inne bland kolumnerna, inte blir en rad i
-    tabellen."""
-    tal = [f.x0 for r in ovanfor for f in r.falt or [] if ar_tal(f)]
+def till_vanster(foljden: list[Rad], undre: Rad) -> bool:
+    """Radens etikett börjar till vänster om följdens vänstraste tal, så att
+    en sidfot med sidnummer, som börjar inne bland kolumnerna, inte blir en
+    rad i tabellen."""
+    tal = [f.x0 for r in foljden for f in r.falt or [] if ar_tal(f)]
     forsta = undre.falt[0] if undre.falt else None
     if forsta is None or not BOKSTAV.search(forsta.text):
         return True

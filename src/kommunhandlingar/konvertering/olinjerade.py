@@ -9,28 +9,22 @@ kolumner som inte överlappar (docs/03-ARKITEKTUR.md#tabeller-utan-lodrata-linje
 
 import re
 from dataclasses import dataclass
-from itertools import pairwise
 
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import mellanrader
 from kommunhandlingar.konvertering.falt import Falt, falt, radvis
+from kommunhandlingar.konvertering.foljder import foljder
 from kommunhandlingar.konvertering.ombrutna import ombruten
 from kommunhandlingar.konvertering.rader import (
     I_LINJE,
     MEST_EMELLAN,
     Rad,
     ar_tal,
-    artalsrad,
     delad,
-    etikettrad,
-    har_tal,
     kolumn,
     med_fortsattning,
-    nara,
     talrad,
-    till_vanster,
-    uppdela,
 )
 from kommunhandlingar.konvertering.rubriker import ovanfor
 from kommunhandlingar.konvertering.tabeller import inom, mitt
@@ -62,42 +56,6 @@ def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
 
 def fria(ord_: list[dict], upptagna: list[tuple]) -> list[dict]:
     return [o for o in ord_ if not any(inom(mitt(o), r) for r in upptagna)]
-
-
-def foljder(rader_: list[Rad], mest: int) -> list[tuple[int, int]]:
-    """Rader med tal i följd, också över högst `mest` etikettrader mellan
-    två tabellrader. En rad med bara årtal börjar ingen följd, och direkt
-    ovanför en rad med tal är den nästa tabells rubrikrad."""
-    ut: list[tuple[int, int]] = []
-    for i, r in enumerate(rader_):
-        if not har_tal(r) or rubrik_till_nasta(rader_, i):
-            continue
-        borjan, slut = ut[-1] if ut else (i, i)
-        if (
-            ut
-            and bro(rader_[slut - 1 : i + 1], mest)
-            and till_vanster(rader_[borjan:slut], r)
-        ):
-            ut[-1] = (borjan, i + 1)
-        elif not artalsrad(r):
-            ut.append((i, i + 1))
-    return ut
-
-
-def rubrik_till_nasta(rader_: list[Rad], i: int) -> bool:
-    nasta = rader_[i + 1] if i + 1 < len(rader_) else None
-    if not artalsrad(rader_[i]) or nasta is None:
-        return False
-    return har_tal(nasta) and not artalsrad(nasta) and nara(rader_[i], nasta)
-
-
-def bro(rader_: list[Rad], mest: int) -> bool:
-    ovre, *mellan, undre = rader_
-    if len(mellan) > mest or not all(map(etikettrad, mellan)):
-        return False
-    if mellan and not (uppdela(ovre.falt) and uppdela(undre.falt)):
-        return False
-    return all(nara(a, b) for a, b in pairwise(rader_))
 
 
 def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:

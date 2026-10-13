@@ -74,8 +74,9 @@ def ensam_text(falt_: list[Falt] | None, kolumner_: list, slut: float) -> bool:
     """Ett ensamt fält som slutar före kolumnerna eller börjar bland
     etiketterna, som en rubrik eller löptext ovanför tabellen, och inte en
     del av kolumnrubriken."""
-    ensamt = falt_ is not None and len(falt_) == 1
-    return ensamt and (bara_etikett(falt_, kolumner_) or falt_[0].x0 < slut)
+    return bara_etikett(falt_, kolumner_) or (
+        falt_ is not None and len(falt_) == 1 and falt_[0].x0 < slut
+    )
 
 
 def bara_etikett(falt_: list[Falt] | None, kolumner_: list) -> bool:

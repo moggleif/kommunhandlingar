@@ -45,17 +45,21 @@ hållas ihop med sina rubriker utan att annan text dras in?
 ## Decision Outcome
 
 Valt: A. Raderna i en följd och rubrikraderna får stå högst fyra
-teckenhöjder isär i stället för tre. En tabellrad vars etikett börjar
-till höger om det första talet i följden fortsätter inte följden: så
-står en sidfot, där texten börjar inne bland kolumnerna, men aldrig en
-rad i tabellen. En rad där varje tal är ett årtal, också med en etikett
-som `Kommunen 2021 2022`, börjar ingen följd, och står den direkt ovanför
-en rad med tal är den nästa tabells rubrikrad i stället för en rad i
-tabellen ovanför. Rubrikraderna tas med uppåt till en rad med ett tal
-som inte är ett årtal, som tabellen ovanför, eller till ett ensamt fält
-som börjar där etiketterna står, som en rad löptext; en sådan rad gör
-inte längre rubriken osäker. Reglerna står i `konvertering/olinjerade.py`,
-`rader.py` och `rubriker.py`.
+teckenhöjder isär i stället för tre, som
+[ADR-0016](0016-tabeller-utan-lodrata-linjer.md) sade. En tabellrad vars
+etikett börjar till höger om följdens vänstraste tal fortsätter inte
+följden: så står en sidfot, där texten börjar inne bland kolumnerna, men
+aldrig en rad i tabellen. En rad där varje tal är ett årtal, också med
+en etikett som `Kommunen 2021 2022`, är nästa tabells rubrikrad och hör
+inte till följden ovanför, när raden direkt under den har andra tal och
+står närmare än raden ovanför. En sådan rad mitt i en tabell, med samma
+avstånd åt båda hållen, är en tabellrad som förut. Rubrikraderna tas med
+uppåt till en rad med ett tal som inte är ett årtal, som tabellen
+ovanför, eller till ett ensamt fält som börjar där etiketterna står, som
+en rad löptext. ADR-0016 lät en sådan rad göra rubriken osäker; det
+skyddet mot en halv rubrik behövs inte för en rad som inte kan vara en
+del av rubriken. Reglerna står i `konvertering/foljder.py`, `rader.py`
+och `rubriker.py`.
 
 Poolens version höjs till 0.8.8. Poolen rättas när den konverteras om
 ([#84](https://github.com/moggleif/kommunhandlingar/issues/84)).
@@ -75,8 +79,14 @@ Poolens version höjs till 0.8.8. Poolen rättas när den konverteras om
   avstavade ord i två rader (`Netto-⏎anslag`), och ingen av dem står i
   linje med en kolumn. Det lämnas till ett eget issue.
 * Dåligt, eftersom en rad där varje värde ser ut som ett årtal, som
-  `Antal 2010 2050`, räknas som en rubrikrad när den står överst eller
-  direkt ovanför en tabell. Talen står kvar, men i rubriken.
+  `Antal 2010 2050`, räknas som en rubrikrad när den står närmare raden
+  under än raden ovanför. Talen står kvar, men i rubriken.
+* Dåligt, eftersom en rad med årtal följd av en avsnittsrubrik, som
+  `2026 2027⏎Verksamhet`, mellan två tabeller fortfarande hör till följden
+  ovanför och fäller den tabellen; regeln ser bara raden direkt under.
+* Dåligt, eftersom en sidfot vars text börjar där etiketterna står, och
+  vars sidnummer står i linje med en kolumn, fortfarande blir en rad i
+  tabellen.
 * Dåligt, eftersom en fortsättning med stor bokstav, som `GBG-KBA` under
   `Åtgärder reservvatten`, fortfarande blir en avsnittsrubrik, som i
   ADR-0035. Talen står på rätt rad.
@@ -131,6 +141,14 @@ visar nyckeltalen och investeringstabellen som rätta.
    ingen tabell följer under årtalen. Ett annat test krävde att en rad
    med tal ovanför rubriken gör den osäker; nu är den gränsen för
    rubriken, och testet ändrades.
+4. **Granskningen** fann att en vanlig tabellrad där varje tal ligger
+   mellan 1900 och 2099, som `Elever 1950 2010`, delade tabellen och
+   blev rubrik åt raderna under. Därför krävs nu att årtalsraden står
+   närmare raden under än raden ovanför, och ett test håller en sådan
+   rad kvar i tabellen. Granskningen fann också att avsnittsrubriken
+   efter en årtalsrad och sidfoten till vänster inte täcks; de står som
+   nackdelar. Följderna flyttades till `foljder.py`, så att
+   `olinjerade.py` håller sig under 150 rader.
 
 Ompröva beslutet om poolen visar en sidfot eller en rad text som dragits
 in i en tabell.

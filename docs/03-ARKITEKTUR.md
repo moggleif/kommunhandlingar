@@ -832,12 +832,14 @@ och blir en osäker tabell som förut.
    talrad har minst två fält som är tal, eller minst två ord som är tal
    när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
    är högst fyra teckenhöjder, och en tabellrad vars etikett börjar till
-   höger om det första talet i följden, som en sidfot med sidnummer,
+   höger om följdens vänstraste tal, som en sidfot med sidnummer,
    fortsätter den inte. En följd går över högst två etikettrader när
-   raderna närmast ovanför och under dem är tabellrader. En rad där
-   varje tal är ett årtal (1900–2099), med eller utan etikett, börjar
-   ingen följd, och står den direkt ovanför en rad med tal hör den inte
-   heller till följden ovanför utan är nästa tabells rubrikrad
+   raderna närmast ovanför och under dem är tabellrader. En rad med bara
+   årtal (1900–2099) börjar ingen följd. En rad där varje tal är ett
+   årtal, med eller utan etikett, hör inte till någon följd när raden
+   direkt under den har tal som inte alla är årtal, står högst fyra
+   teckenhöjder bort och närmare än raden ovanför: då är den nästa
+   tabells rubrikrad
    ([ADR-0037](decisions/0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md)).
    En tabell blir det bara om varje rad i följden är en tabellrad och
    minst tre av dem har två tal eller fler. Blir en följd över etikettrader ingen tabell,
