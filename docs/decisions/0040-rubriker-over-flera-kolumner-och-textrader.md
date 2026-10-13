@@ -59,9 +59,9 @@ cell fogas till cellen ovanför med ett mellanslag. När cellen ovanför
 slutar med ett avstavningsstreck och cellen under börjar med liten
 bokstav fogas de utan strecket, så att `Netto-⏎anslag` blir
 `Nettoanslag`, men inte när cellen under börjar med `och`, `eller` eller
-`samt`, som i `Kultur-⏎och fritid`. Den översta textraden ska stå över
-varje kolumn, som förut den översta rubrikraden, så att rubriken aldrig
-blir halv. Står en cell under en rubrik som spänner över flera
+`samt`, som i `Kultur-⏎och fritid`. Den översta rubrikraden ska stå
+över varje kolumn, som förut, så att rubriken aldrig blir halv. Står en
+cell under en rubrik som spänner över flera
 kolumner och täcker andra kolumner än den, står rubriken kvar i texten.
 Reglerna står i `konvertering/spann.py`.
 
@@ -82,6 +82,11 @@ Poolens version höjs till 0.8.10. Poolen rättas när den konverteras om
 * Dåligt, eftersom två rubrikrader som står tätare än en halv teckenhöjd
   blir en, till exempel `Budget` ovanför `2026` blir `Budget 2026`.
   Texten finns kvar, men inte radindelningen.
+* Dåligt, eftersom en kort rad tätt ovanför rubriken, som en enhet
+  `tkr` över den sista kolumnen, fogas in i cellen under och blir
+  `tkr Plan`. Texten och talen står rätt, men cellen får ett ord till.
+  Samma regel gör att `Budget-⏎avvikelse 2024`, som står bredvid en rad
+  med enradiga rubriker, blir en cell.
 * Dåligt, eftersom vilken text som helst som ryms i facken nu räknas som
   rubrik, också korta ord som inte står i linje med talen. Den måste
   fortfarande stå direkt ovanför tabellen och över varje kolumn.
@@ -138,9 +143,13 @@ driftredovisningen som rätt.
    gav linjer som en centrerad sidrubrik stod mitt emellan; därför ska
    linjerna stå i ett mellanrum mellan kolumnerna. Granskningen fann
    också att en ofullständig textrad tätt ovanför rubriken, som `tkr`,
-   fogades in och gjorde rubriken halv, och att `Kultur-⏎och fritid`
-   blev `Kulturoch fritid`. Den översta textraden ska nu stå över varje
-   kolumn, och strecket står kvar före `och`, `eller` och `samt`.
+   fogades in i cellen under, och att `Kultur-⏎och fritid` blev
+   `Kulturoch fritid`. Strecket står nu kvar före `och`, `eller` och
+   `samt`. AI-agenten prövade att kräva att den översta textraden ensam
+   står över varje kolumn, men då föll en rubrik i stickprovet där
+   `Budget-⏎avvikelse 2024` står bredvid de enradiga rubrikerna och börjar
+   ovanför dem. Det går inte att skilja från `tkr` ovanför `Plan` på
+   läget, så `tkr Plan` står kvar som en nackdel.
 
 Ompröva beslutet om poolen visar många tabeller utan linjer vars rubriker
 spänner över flera kolumner.

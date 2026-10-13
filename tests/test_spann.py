@@ -96,10 +96,18 @@ class TestTextrader(unittest.TestCase):
         ovre += [ord_("Plan", 295, 60, 20), ord_("Plan", 345, 60, 20)]
         self.assertEqual(len(rubriker(ovre, UNDERRUBRIK)), 2)
 
-    def test_ofullstandig_textrad_tatt_ovanfor_rubriken(self):
-        """`tkr` tätt ovanför: den översta textraden står inte över varje
-        kolumn, så rubriken blir inte halv."""
+    def test_textrad_tatt_ovanfor_rubriken_blir_en_del_av_den(self):
+        """`tkr` tätt ovanför `Plan`, som `Budget-` ovanför `avvikelse 2024`
+        bredvid en rad med enradiga rubriker i ett stickprov."""
         tkr = [ord_("tkr", 345, 67, 15)]
+        self.assertEqual(
+            rubriker(tkr, UNDERRUBRIK),
+            [["", "Netto", "Utfall", "Budget", "tkr Plan"]],
+        )
+
+    def test_ofullstandig_rubrikrad_tas_inte_med(self):
+        """En rad en teckenhöjd ovanför som inte står över varje kolumn."""
+        tkr = [ord_("tkr", 345, 60, 15)]
         self.assertEqual(rubriker(tkr, UNDERRUBRIK), [])
 
     def test_streck_for_ett_utelamnat_ordled_star_kvar(self):

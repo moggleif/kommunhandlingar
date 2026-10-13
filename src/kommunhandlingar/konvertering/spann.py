@@ -35,18 +35,17 @@ class Fack:
 
 def rubrikceller(huvud: list[tuple[Rad, Celler]], n: int) -> list[list[str]] | None:
     """Rubrikens textrader med sina celler som rubrikrader; textrader som
-    står tätare än en halv teckenhöjd är samma rubrikrad. None när den
-    översta textraden inte står över varje kolumn, så att rubriken aldrig
-    blir halv, eller när cellerna inte går att foga ihop."""
-    if not tackt(huvud[0][1], n):
-        return None
+    står tätare än en halv teckenhöjd, eller bredvid varandra, är samma
+    rubrikrad. None när cellerna inte går att foga ihop, eller när den
+    översta rubrikraden inte står över varje kolumn, så att rubriken aldrig
+    blir halv."""
     rubrikrader: list[Celler | None] = [huvud[0][1]]
     for (ovre, _), (undre, celler) in pairwise(huvud):
         if mellanrum(ovre, undre) < min(ovre.hojd, undre.hojd) / 2:
             rubrikrader[-1] = fogad(rubrikrader[-1], celler)
         else:
             rubrikrader.append(celler)
-    if None in rubrikrader:
+    if None in rubrikrader or not tackt(rubrikrader[0], n):
         return None
     return [som_lista(c, n) for c in rubrikrader]
 

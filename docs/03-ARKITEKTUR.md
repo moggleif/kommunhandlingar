@@ -942,7 +942,8 @@ och blir en osäker tabell som förut.
    Ett första fält som börjar till vänster om där den etiketten slutar,
    och slutar före den första kolumnen, är rubrikens etikett. En rad där
    varje tal är ett årtal räknas som rubrikrad, inte som talrad.
-   Textrader som står tätare än en halv teckenhöjd är samma rubrikrad: en
+   Textrader som står tätare än en halv teckenhöjd, eller bredvid
+   varandra, är samma rubrikrad: en
    cell fogas till cellen ovanför med ett mellanslag, som `Budget⏎2025`,
    eller utan avstavningsstrecket när den ovanför slutar med ett och
    cellen börjar med liten bokstav, som `Netto-⏎anslag`, utom när cellen
@@ -952,7 +953,7 @@ och blir en osäker tabell som förut.
    Står en eller två etikettrader till vänster om kolumnerna mellan
    rubriken och tabellen tas de med som avsnittsrubriker, men bara när
    rubriken ovanför dem tas med. Rubriken tas med bara om den översta
-   textraden har en rubrik över varje kolumn, och om raden ovanför den
+   rubrikraden har en rubrik över varje kolumn, och om raden ovanför den
    har ett tal som inte är ett årtal, som en tabell ovanför, är ett ensamt
    fält som slutar före kolumnerna eller börjar där etiketterna står, som
    en rad löptext, ligger längre bort, eller inte finns; annars tas ingen
