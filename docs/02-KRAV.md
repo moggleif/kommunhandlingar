@@ -841,8 +841,8 @@ och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
 - **När** sidan om ett organs mål och direktiv visas
 - **Så** har tabellen över antal per år två kolumner till: uppföljningar i
   nämnden och dragningar om målen, räknade på mötets år.
-- **Givet** ett år utan protokoll från organet i poolen, eller bara med
-  protokoll som inte gått att hämta
+- **Givet** ett år utan protokoll med text från organet i poolen, för att
+  protokollen saknas, inte gått att hämta eller inte gått att konvertera
 - **När** sidan visas
 - **Så** står de två kolumnerna tomma det året, inte noll.
 - **Givet** en fil med ett organ som inte står i kommunfilen, ett datum

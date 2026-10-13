@@ -233,8 +233,9 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   och noterar till protokollet dragningar om ekonomi och måluppföljning
   (två extra tillfällen per år sedan 2024), måldagar, budgetarbete,
   genomförandeplaner och enskilda mål. GA:s protokoll saknas i poolen för
-  2015–2017 och 2019, och 2020, 2022 och 2023 har bara några få. Delår 2
-  2024 justerades direkt i ett separat protokoll som inte finns i poolen.
+  2015–2017 och 2019, och 2020, 2022 och 2023 har bara några få. Ärenden
+  som justeras direkt, som årsredovisningen 2023 och delårsrapporterna
+  2024 och 2025, står i ett separat protokoll från mötet.
   Paragraferna står i `uppfoljningar/kungsbacka.csv` (K28). Uppföljningar
   av verksamheten, som kvartalsuppföljningen av arbetsmarknaden, står inte
   med.

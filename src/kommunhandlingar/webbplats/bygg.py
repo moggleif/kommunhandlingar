@@ -65,7 +65,6 @@ def kommunfiler(katalog: Path, kommuner: list[Kommun]) -> frozenset[str]:
     return filer
 
 
-# Målen och uppföljningarna läses per kommun ur <katalog>/<kommun>.csv.
 def las_kommunfiler(rot: Path, katalog: str, kommuner: list[Kommun], las) -> dict:
     filer = kommunfiler(rot / katalog, kommuner)
     return {

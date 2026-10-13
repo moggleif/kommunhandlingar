@@ -16,7 +16,7 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import SLAG, Mal
 from kommunhandlingar.webbplats.malavsnitt import arsavsnitt, namnen
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
-from kommunhandlingar.webbplats.malstatistik import statistik
+from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.statusikon import ikon, teckenforklaring
 
 SKRIPT = Path(__file__).with_name("mal.js")
@@ -85,7 +85,7 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
         + urval(malen)
         + teckenforklaring()
         + oversikt(spar, alla_ar, luckor)
-        + statistik(malen, uppfoljda, organets)
+        + statistik(malen, uppfoljda, protokollar(organets))
         + "".join(arsavsnitt(a, spar, a in luckor) for a in reversed(alla_ar))
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )

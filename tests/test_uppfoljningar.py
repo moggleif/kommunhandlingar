@@ -54,6 +54,7 @@ class TestLasning(unittest.TestCase):
             (rad.replace("uppföljning", "beslut"), "'beslut'"),
             (rad.replace("fsn,", "kun,", 1), "'kun'"),
             (rad.replace("2024-05-02,", "2 maj,", 1), "'2 maj'"),
+            (rad.replace("2024-05-02,", "2024-13-45,", 1), "'2024-13-45'"),
             (rad.replace(BUDGET, HANDLINGAR), "inte mötets protokoll"),
             (rad.replace("Trygga", "Otrygga"), "rubriken"),
             (rad + rad, "rad 3: paragrafen står redan"),
@@ -77,10 +78,16 @@ class TestTabellen(unittest.TestCase):
         self.assertEqual(tal["2024"][4:], ["1", "1"])
         self.assertEqual(tal["2025"][4:], ["0", "0"])
 
-    def test_ar_utan_lasbart_protokoll_ar_tomt(self):
-        tal = self.tabell(protokoll(2024, kvalitet="ej-hamtad"))
-        self.assertEqual(tal["2024"][4:], ["–", "–"])
-        self.assertEqual(tal["2025"][4:], ["–", "–"])
+    def test_ar_utan_protokoll_med_text_ar_tomt(self):
+        handlingar = dict(datum="2024-05-02", typ="handlingar", kvalitet="full")
+        for organets in (
+            protokoll(2024, kvalitet="ej-hamtad"),
+            protokoll(2024, kvalitet="ej-konverterad"),
+            [handlingar],
+        ):
+            tal = self.tabell(organets)
+            self.assertEqual(tal["2024"][4:], ["–", "–"])
+            self.assertEqual(tal["2025"][4:], ["–", "–"])
 
 
 class TestKungsbacka(unittest.TestCase):

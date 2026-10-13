@@ -36,6 +36,8 @@ RUBRIKER = (
     "Dragningar om målen",
 )
 
+UTAN_TEXT = ("ej-hamtad", "ej-konverterad")
+
 
 @dataclass(frozen=True)
 class Antal:
@@ -45,16 +47,10 @@ class Antal:
     med_bedomning: int
 
 
-# Uppföljningarna i nämnden räknas bara år med protokoll som gått att läsa.
 def statistik(
-    malen: list[Mal], uppfoljningar: list[Uppfoljning], organets: list[dict]
+    malen: list[Mal], uppfoljningar: list[Uppfoljning], protokollar: set[int]
 ) -> str:
     ar = range(min(m.ar for m in malen), max(m.ar for m in malen) + 1)
-    protokollar = {
-        int(d["datum"][:4])
-        for d in organets
-        if d["typ"] == "protokoll" and d["kvalitet"] != "ej-hamtad"
-    }
     antal = [rakna([m for m in malen if m.ar == a]) for a in ar]
     namnden = [
         i_namnden([u for u in uppfoljningar if u.ar == a]) if a in protokollar else None
@@ -70,6 +66,15 @@ def statistik(
         + tabell(ar, antal, namnden)
         + FORKLARING
     )
+
+
+# Uppföljningarna i nämnden räknas bara år med ett protokoll med text.
+def protokollar(organets: list[dict]) -> set[int]:
+    return {
+        int(d["datum"][:4])
+        for d in organets
+        if d["typ"] == "protokoll" and d["kvalitet"] not in UTAN_TEXT
+    }
 
 
 def rakna(arets: list[Mal]) -> Antal | None:

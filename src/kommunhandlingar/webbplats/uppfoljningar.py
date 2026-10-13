@@ -8,6 +8,7 @@ Bygget stoppas med raden när den inte går ihop med kommunfilen och poolen.
 import csv
 import re
 from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
@@ -57,16 +58,22 @@ def tolka(rad: list[str], organ: set[str], sidtext: Sidtext) -> Uppfoljning:
     if len(rad) != len(KOLUMNER):
         raise ValueError(f"{len(rad)} fält, inte {len(KOLUMNER)}")
     upp = Uppfoljning(*rad)
-    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", upp.datum):
-        raise ValueError(f"datumet {upp.datum!r} är inte ÅÅÅÅ-MM-DD")
+    try:
+        date.fromisoformat(upp.datum)
+    except ValueError:
+        raise ValueError(f"datumet {upp.datum!r} är inte ÅÅÅÅ-MM-DD") from None
     if upp.organ not in organ:
         raise ValueError(f"organet {upp.organ!r} står inte i kommunfilen")
     if upp.slag not in SLAG:
         raise ValueError(f"slaget {upp.slag!r} är varken {' eller '.join(SLAG)}")
     if not re.fullmatch(r"\d+", upp.paragraf):
         raise ValueError(f"paragrafen {upp.paragraf!r} är inget nummer")
+    kontrollera_kalla(upp, sidtext)
+    return upp
+
+
+def kontrollera_kalla(upp: Uppfoljning, sidtext: Sidtext) -> None:
     if not upp.kalla.startswith(f"{upp.organ}/{upp.ar}/{upp.datum}/protokoll"):
         raise ValueError(f"källan {upp.kalla!r} är inte mötets protokoll")
     if jamforbar(upp.rubrik) not in sidtext(upp.kalla, upp.organ):
         raise ValueError(f"rubriken står inte på {upp.kalla}")
-    return upp

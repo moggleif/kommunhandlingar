@@ -46,8 +46,8 @@ målen, och en egen fil håller målfilens regler oförändrade.
   nämnden noterar.
 * **Kontrollen** prövar att källan är en sida i mötets protokoll i poolen,
   och att paragrafens rubrik står där.
-* **Räkningen** går på mötets år. Ett år utan läsbart protokoll från
-  organet står som tomt i båda kolumnerna.
+* **Räkningen** går på mötets år, för tabellens år. Ett år utan protokoll
+  med text från organet står som tomt i båda kolumnerna.
 * **Sidan** får ingen egen lista över paragraferna, bara två kolumner i
   tabellen över antal per år (projektägarens val).
 
@@ -59,8 +59,7 @@ målen, och en egen fil håller målfilens regler oförändrade.
 * Bad, eftersom filen skrivs för hand när nya protokoll kommer.
 * Bad, eftersom urvalet av vad som "rör målen" är agentens bedömning.
 * Bad, eftersom ett år med några protokoll räknas, fast andra protokoll
-  från året saknas eller paragrafen justerats i ett separat protokoll.
-  Talen är alltså ett minsta antal.
+  från året saknas. Talen är alltså ett minsta antal.
 
 ### Confirmation
 
@@ -91,8 +90,10 @@ med en påhittad kommun, och att Kungsbackas fil går ihop med poolen.
 
 ## More Information
 
-Agenten gick igenom GA:s protokoll i poolen och fann 14 godkända
-uppföljningar och 16 noterade dragningar om målen. Projektägaren svarade
+Agenten gick igenom GA:s protokoll i poolen och fann 17 godkända
+uppföljningar och 16 noterade dragningar om målen från 2017 och framåt,
+de år tabellen visar. Tre av uppföljningarna justerades direkt i ett
+separat protokoll från mötet, som också finns i poolen. Projektägaren svarade
 på tre frågor:
 
 * Ingen egen lista på sidan.

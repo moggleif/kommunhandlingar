@@ -1535,9 +1535,8 @@ filen (K26), länkad från organets sida.
 Hur och varför står i
 [ADR-0046](decisions/0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md).
 En kommun med en fil `uppfoljningar/<kommun>.csv` får två kolumner till i
-tabellen över antal per år på målsidan (K28). Filen har samma format som
-målfilen, med en rad per paragraf i ett protokoll, sorterad på organ,
-datum och paragraf:
+tabellen över antal per år på målsidan (K28). Filen är en CSV som
+målfilen, med en rad per paragraf i ett protokoll:
 
 | Kolumn     | Betyder                                                             |
 | ---------- | ------------------------------------------------------------------- |
@@ -1558,6 +1557,7 @@ datum och paragraf:
   något annat, källan inte är en sida i mötets protokoll i poolen,
   rubriken inte står på sidan, eller samma paragraf står två gånger. En
   fil utan kommunfil stoppar också bygget.
-- **Räkningen** (`webbplats/malstatistik.py`) går på mötets år. Ett år
-  utan protokoll från organet i poolen, eller bara med protokoll som inte
-  gått att hämta, står som –.
+- **Räkningen** (`webbplats/malstatistik.py`) går på mötets år, för
+  tabellens år, från första till sista år med mål. Ett år utan protokoll
+  med text från organet i poolen (inte `ej-hamtad` eller
+  `ej-konverterad`) står som –.
