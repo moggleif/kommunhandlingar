@@ -65,7 +65,11 @@ Poolens version höjs till 0.8.10. Poolen rättas när den konverteras om
 
 * Bra, eftersom driftredovisningen får hela sin rubrik. I facit går
   `ratt` från 15 till 16 och `ofullstandiga` från 1 till 0.
-* STICKPROV
+* Bra, eftersom ett stickprov på tio handlingar ur poolen, 1 978 sidor ur
+  textlagret, ändrar tre sidor, och alla till det bättre: tre tabeller
+  med centrerade rubriker, som `Utfall 2020` och `tim/ärende`, får sin
+  rubrik. På en av sidorna stod rubrikens årtal tidigare kvar i texten
+  som en rad med tal, och sidan var `tabell-osaker`; nu blir den `ok`.
 * Dåligt, eftersom en rubrik över flera kolumner utan lodräta linjer
   fortfarande står kvar i texten, och tabellen blir en CSV utan rubrik.
 * Dåligt, eftersom två rubrikrader som står tätare än en halv teckenhöjd
