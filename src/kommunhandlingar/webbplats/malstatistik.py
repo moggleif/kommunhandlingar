@@ -1,11 +1,12 @@
-"""Krav: K27 och K28 i docs/02-KRAV.md, ADR-0045 och ADR-0046.
+"""Krav: K27, K28 och K29 i docs/02-KRAV.md, ADR-0045, ADR-0046 och ADR-0047.
 Test: tests/test_malgrupper.py och tests/test_uppfoljningar.py.
 
 Antalet per år på sidan om ett organs mål och direktiv: nämndmål och
 direktiv med olika rubriker, uppföljningarna i poolen som redovisar dem,
 och rubrikerna med en bedömning i någon av dem, och ur protokollen
 uppföljningarna och dragningarna om målen i nämnden. Ett år utan rader, eller
-utan protokoll i poolen, är tomt, inte noll.
+utan protokoll i poolen, är tomt, inte noll. Det senaste årets antal står
+bredvid grafen, och tabellen är hopfälld under dem.
 """
 
 from dataclasses import astuple, dataclass
@@ -61,11 +62,25 @@ def statistik(
         ("Direktiv", [a and a.direktiv for a in antal]),
     ]
     return (
-        '<h2 id="antal">Antal per år</h2>'
-        + graf(list(ar), serier)
+        '<h2 id="antal">Antal per år</h2><div class="sammandrag">'
+        + senaste(ar[-1], antal[-1], namnden[-1])
+        + f'<div class="ruta">{graf(list(ar), serier)}</div></div>'
+        + "<details><summary>Tabell över antal per år</summary>"
         + tabell(ar, antal, namnden)
         + FORKLARING
+        + "</details>"
     )
+
+
+# Det senaste året har alltid mål, eftersom åren slutar med målens sista år.
+def senaste(ar: int, antal: Antal, namnden: tuple[int, int] | None) -> str:
+    tal = [(antal.namndmal, "nämndmål"), (antal.direktiv, "direktiv")]
+    if namnden:
+        tal += zip(
+            namnden, ("uppföljningar i nämnden", "dragningar om målen"), strict=True
+        )
+    siffror = "".join(f"<div><dt>{text}</dt><dd>{n}</dd></div>" for n, text in tal)
+    return f'<div class="ruta"><h3>{ar}</h3><dl class="siffror">{siffror}</dl></div>'
 
 
 # Uppföljningarna i nämnden räknas bara år med ett protokoll med text.

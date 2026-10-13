@@ -1501,34 +1501,48 @@ filen (K26), länkad från organets sida.
   i källan. Ikonerna är SVG-figurer med olika form, källans formulering
   står i pekrutan, en prognos har en streckad ram, och stilen står i
   `webbplats/mall.py` så att andra sidor kan använda dem.
-- **Sidan** (`webbplats/malsida.py`) börjar med en kort inledning och en
-  hopfälld del om hur målen tagits fram. Sedan kommer ett urval med en
-  kryssruta per slag, en teckenförklaring för ikonerna och en översikt:
-  en tabell med ett spår per grupp av rader, ordnade efter första år,
-  slag och rubrik, och en kolumn per år från organets första till sista
-  år i poolen eller filen. Spårets rubriker står under varandra i den
-  ordning de först står, med en pil före de senare och ordet "tolkad" vid
-  en tolkad rubrik. En cell har en punkt när rubriken står med det året,
-  med en ikon för varje uppföljning, och länkar till årets
-  avsnitt. Ett år som varken har dokument från organet i poolen eller mål
-  i filen är en lucka och har ordet "lucka" i kolumnens rubrik; ett år
-  med mål ur ett senare dokument, som en årsredovisning, är ingen lucka.
-  Efter översikten kommer antalet per år (`webbplats/malstatistik.py`):
-  en linjegraf i SVG (`webbplats/malgraf.py`) med en linje för nämndmål
-  och en för direktiv, skilda med streckning och punktform, och en tabell
-  med antal nämndmål, direktiv, uppföljningsdokument i målfilen och
-  rubriker med en bedömning, och, med en uppföljningsfil, uppföljningar
-  och dragningar i nämnden ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)),
-  från första till sista år med mål. Varje rubrik räknas en gång
-  per år. Ett år utan rader står som – och bryter linjen. Sist kommer ett
-  avsnitt per år, nyast först, med varje rubrik: slag, spåret den följs
-  under, formulering, status som ikon och text för en uppföljning, och
-  källan som länk till sidan i dokumentet. En lucka säger att poolen saknar dokument
-  från året, och ett år med dokument men utan mål säger det.
-- **Skriptet** står i sidan. Det döljer det slag som valts bort, och ett
-  klick på en rubrik i översikten visar bara dess spår, i
-  översikten och i avsnitten, och bara åren det står med, tills det väljs bort med en knapp. Utan
-  skriptet visas allt.
+- **Sidan** (`webbplats/malsida.py`, K29,
+  [ADR-0047](decisions/0047-malsidan-visas-som-tidslinje-och-malkort.md))
+  börjar med en kort inledning och en hopfälld del om hur målen tagits
+  fram. Åren går från första till sista år med mål. Ett år som varken
+  har dokument från organet i poolen eller mål i filen är en lucka; ett
+  år med mål ur ett senare dokument, som en årsredovisning, är ingen
+  lucka. Sidan har fyra delar:
+  - **Antalet per år** (`webbplats/malstatistik.py`): det senaste årets
+    antal nämndmål och direktiv, och uppföljningar och dragningar i
+    nämnden, bredvid en linjegraf i SVG (`webbplats/malgraf.py`) med en
+    linje för nämndmål och en för direktiv, skilda med streckning och
+    punktform. Under dem står en hopfälld tabell med antal nämndmål,
+    direktiv, uppföljningsdokument i målfilen och rubriker med en
+    bedömning, och, med en uppföljningsfil, uppföljningar och dragningar i
+    nämnden ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)). Varje
+    rubrik räknas en gång per år. Ett år utan rader står som – och bryter
+    linjen.
+  - **Urvalet**: knappar för alla, de som gäller det senaste året,
+    nämndmål, direktiv och de som bytt rubrik.
+  - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
+    en tabell med en rad per spår, nämndmålen och direktiven i var sin
+    grupp, ordnade efter första år, slag och rubrik, och en kolumn per år.
+    En lucka är streckad och har ordet "lucka" i kolumnens rubrik. Ett år
+    med spåret är en del av ett band med årets status: ett utfall går före
+    en rapport, en prognos och beslutet, och ett år utan uppföljning har
+    en punkt. Ett år då spåret får en ny rubrik har en markering. Rubriken
+    är spårets senaste, som den först står, och länkar till kortet. Med en
+    uppföljningsfil står sist nämndens uppföljningar och dragningar om
+    målen, en markering per paragraf, och ett streck för år utan protokoll
+    med text.
+  - **Korten** (`webbplats/malkort.py`): ett kort per spår, de som gäller
+    det senaste året först, sedan efter sista och första år. Kortet har
+    slaget, åren, den senaste rubriken, de tidigare rubrikerna med ordet
+    "tolkad" vid en tolkad rubrik, den senaste formuleringen, en remsa med
+    ett fält per år (streckat för en lucka) och en hopfälld historik med
+    varje rad, nyast först: år, rubrik, formulering, status som ikon och
+    text för en uppföljning, och källan som länk till sidan i dokumentet.
+  Stilen står i `webbplats/mal.css`.
+- **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar urvalet och
+  döljer det som inte valts, i tidslinjen och bland korten, och öppnar
+  historiken på kortet när ett mål väljs i tidslinjen. Utan skriptet
+  visas allt och urvalet är dolt.
 
 ### Uppföljningar i nämnden
 

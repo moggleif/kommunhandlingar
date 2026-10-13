@@ -1,43 +1,38 @@
-// Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045.
-// Test: tests/test_mal.py. Döljer de slag som valts bort, och visar bara
-// ett spår, och åren det står med, när en av dess rubriker i översikten
-// väljs, tills knappen visar alla igen.
-// Utan skriptet står allt.
+// Krav: K29 i docs/02-KRAV.md, ADR-0047. Test: tests/test_malkort.py.
+// Visar bara de mål i tidslinjen och bland korten som valts med en knapp,
+// och öppnar historiken på kortet för ett mål som väljs i tidslinjen.
+// Utan skriptet står allt och historiken är hopfälld.
 (function () {
-  var valda = {};
-  var spar = null;
-  var alla = document.getElementById("alla");
+  var urval = document.querySelector(".urval");
+  var knappar = urval.querySelectorAll("button");
 
-  function visa() {
-    document.querySelectorAll("[data-spar]").forEach(function (rad) {
-      rad.hidden = !valda[rad.dataset.slag] || (spar !== null && rad.dataset.spar !== spar);
-    });
-    document.querySelectorAll("section[id^=ar-]").forEach(function (ar) {
-      ar.hidden = spar !== null && !ar.querySelector("article:not([hidden])");
-    });
-    alla.hidden = spar === null;
+  function passar(mal, val) {
+    if (val === "alla") return true;
+    if (val === "aktiv" || val === "bytt") return mal.dataset[val] === "ja";
+    return mal.dataset.slag === val;
   }
 
-  function kopplaUrval(ruta) {
-    valda[ruta.dataset.slag] = ruta.checked;
-    ruta.addEventListener("change", function () {
-      valda[ruta.dataset.slag] = ruta.checked;
-      visa();
+  function valj(val) {
+    knappar.forEach(function (knapp) {
+      knapp.setAttribute("aria-pressed", knapp.dataset.urval === val);
+    });
+    document.querySelectorAll("[data-mal]").forEach(function (mal) {
+      mal.hidden = !passar(mal, val);
     });
   }
 
-  function kopplaSpar(knapp) {
+  function oppna() {
+    var kort = document.getElementById(location.hash.slice(1));
+    if (kort && kort.tagName === "ARTICLE") kort.querySelector("details").open = true;
+  }
+
+  knappar.forEach(function (knapp) {
     knapp.addEventListener("click", function () {
-      spar = knapp.closest("tr").dataset.spar;
-      visa();
+      valj(knapp.dataset.urval);
     });
-  }
-
-  document.querySelectorAll(".urval input").forEach(kopplaUrval);
-  document.querySelectorAll("button.spar").forEach(kopplaSpar);
-  alla.addEventListener("click", function () {
-    spar = null;
-    visa();
   });
-  visa();
+  window.addEventListener("hashchange", oppna);
+  urval.hidden = false;
+  valj("alla");
+  oppna();
 })();

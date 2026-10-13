@@ -1,9 +1,11 @@
-"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_malgrupper.py.
+"""Krav: K27 och K29 i docs/02-KRAV.md, ADR-0045 och ADR-0047.
+Test: tests/test_malgrupper.py.
 
 En uppföljnings bedömning som ikon. Bedömningen står i målfilen bredvid
 källans formulering, som står kvar i pekrutan. Ikonerna skiljs åt med
-form, inte bara färg, och en prognos har en streckad ram. Stilen står i
-`mall.py`, så att andra sidor kan använda dem.
+form, inte bara färg, och en prognos har en streckad ram. Ett år utan
+uppföljning har en punkt för beslutet. Stilen står i `mall.py`, så att
+andra sidor kan använda dem.
 """
 
 from html import escape
@@ -19,6 +21,8 @@ IKONER = {
     "ej": (RING + f'<path d="M5.5 5.5l5 5M10.5 5.5l-5 5" {DRAG}/>', "ej uppnått"),
     "ingen": (RING, "ingen bedömning i källan"),
 }
+BESLUTAT = '<circle cx="8" cy="8" r="2.5" fill="currentColor"/>'
+FORMER = {**{b: form for b, (form, _) in IKONER.items()}, "beslutat": BESLUTAT}
 
 
 def ikon(bedomning: str, status: str, prognos: bool) -> str:
@@ -33,6 +37,8 @@ def teckenforklaring() -> str:
         for bedomning, (_, betyder) in IKONER.items()
     )
     poster += f"<li>{bild('ingen', 'prognos', True)} prognos (streckad ram)</li>"
+    beslutat = bild("beslutat", "beslutat", False)
+    poster += f"<li>{beslutat} beslutat, utan uppföljning</li>"
     return f'<ul class="teckenforklaring">{poster}</ul>'
 
 
@@ -41,5 +47,6 @@ def bild(bedomning: str, text: str, prognos: bool) -> str:
     return (
         f'<span class="{klass}" role="img" title="{escape(text)}" '
         f'aria-label="{escape(text)}"><svg viewBox="0 0 16 16" width="1.25em" '
-        f'height="1.25em" aria-hidden="true">{IKONER[bedomning][0]}</svg></span>'
+        f'height="1.25em" aria-hidden="true">{FORMER[bedomning]}'
+        "</svg></span>"
     )
