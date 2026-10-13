@@ -147,6 +147,10 @@ samma sak.
   april 2024 (flyttat från 4 april)", "17 och 18 augusti 2026", "27-28
   januari 2025", "Extrainsatt sammanträde …", ", extra arbetsutskott").
 
+Varje avvikelse som undersöks har ett eget issue med etiketten
+[`avvikelse`](https://github.com/moggleif/kommunhandlingar/issues?q=label%3Aavvikelse),
+med status och belägg (K24).
+
 Hur adaptern hanterar det står i
 [ADR-0011](../decisions/0011-sitevision-organ-fran-sidan-datum-och-rattelser.md):
 organet tas från sidan, datumet ur filnamnet eller rubriken, och när de

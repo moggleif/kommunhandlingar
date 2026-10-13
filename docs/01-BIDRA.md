@@ -121,6 +121,19 @@ formatet står under "Tolkade figurer" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
   inget undantag; blir den för lång delas den.
 - Ruffs gränser: `# noqa: <regel>  # undantag: <skäl>` på raden ruff pekar ut.
 
+## Avvikelser i källan
+
+En avvikelse i hur kommunen publicerat en handling blir ett eget issue,
+skapat med mallen "Avvikelse i källan", som sätter etiketten
+`avvikelse` (K24,
+[ADR-0041](decisions/0041-avvikelser-ett-issue-per-fel.md)). Det är den
+enda etiketten. Statusen står som en rad i issuets text och ändras i
+ordningen `att undersöka`, `undersökt – inget fel` (stängs) eller
+`undersökt – fel hos kommunen`, `e-post skickad <datum>`, `rättat i
+källan` (stängs). En människa skickar e-posten till kommunen, med
+beläggen ur issuet. Personuppgifter blir aldrig ett issue
+([ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
+
 ## Datakontrollerna
 
 CI och den schemalagda körningen prövar allt under `data/` (K11):
