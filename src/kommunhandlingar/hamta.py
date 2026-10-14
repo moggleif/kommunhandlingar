@@ -19,6 +19,7 @@ from importlib.metadata import version
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, pool, tidsbudget
+from kommunhandlingar.arkivluckor import ensamma
 from kommunhandlingar.behandla import Steg2, bara_omkonvertering, behandla
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
@@ -75,6 +76,7 @@ def main(arg: argparse.Namespace) -> None:
         version=f"kommunhandlingar {version('kommunhandlingar')}",
         arkiv=arg.arkiv,
         omkonvertera=kommun.omkonvertera,
+        ensamma=ensamma(kandidater),
     )
     if arg.start:
         tidsbudget.starta_hard_grans(arg.start, nu())

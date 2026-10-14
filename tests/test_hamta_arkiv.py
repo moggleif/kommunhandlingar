@@ -5,6 +5,7 @@ import unittest
 from pathlib import Path
 
 from kommunhandlingar import frontmatter, pool
+from kommunhandlingar.arkivluckor import ensamma
 from kommunhandlingar.behandla import Steg2, behandla
 from kommunhandlingar.kandidat import Kandidat
 from tests.test_hamta import PDF, TID, Klient, kandidat
@@ -42,6 +43,7 @@ class Arkivbas(unittest.TestCase):
             lambda: TID,
             "kommunhandlingar 0.2.0",
             arkiv,
+            ensamma=ensamma(list(kandidater)),
         )
         return [behandla(steg, k) for k in kandidater]
 

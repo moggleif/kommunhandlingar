@@ -1,12 +1,12 @@
-"""Krav: K4, K6, K8, K9, K16 och K23 i docs/02-KRAV.md, ADR-0003, ADR-0004,
-ADR-0018, ADR-0019 och ADR-0039. Test: tests/test_hamta.py,
+"""Krav: K4, K6, K8, K9, K16, K23 och K30 i docs/02-KRAV.md, ADR-0003,
+ADR-0004, ADR-0018, ADR-0019, ADR-0039 och ADR-0048. Test: tests/test_hamta.py,
 tests/test_omkonvertering.py och tests/test_plattformar.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
 fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
-äldre kopia aldrig ersätter ett dokument i poolen, och ett sammanträde
-som har typen från en annan plattform inte får den en gång till. Med omkonverteringen
+äldre kopia aldrig ersätter ett dokument i poolen; har sammanträdet typen
+från en annan plattform står den med högst kvalitet kvar. Med omkonverteringen
 påslagen räknas ett dokument från en annan version av poolen inte som
 befintligt. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
@@ -20,7 +20,13 @@ from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, skrivning
 from kommunhandlingar.adaptrar import wayback
-from kommunhandlingar.arkivluckor import hel, ingen_lucka, tas_over
+from kommunhandlingar.arkivluckor import (
+    forlorar,
+    hel,
+    ingen_lucka,
+    motstandare,
+    tas_over,
+)
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
@@ -40,6 +46,7 @@ class Steg2:
     version: str
     arkiv: bool = False
     omkonvertera: bool = False
+    ensamma: frozenset[str] = frozenset()  # arkivluckor.ensamma
 
 
 @dataclass(frozen=True)
@@ -54,12 +61,16 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     if kandidat.kallnyckel in steg.pool.tidigare:
         return "tidigare källnyckel"
     sokvag = steg.pool.efter_nyckel.get(kandidat.kallnyckel)
-    if sokvag is None:
+    rival = motstandare_for(steg, kandidat) if sokvag is None else None
+    if rival:
+        dokument = Dokument(kandidat, rival, steg.pool.efter_sokvag[rival])
+    elif sokvag is None:
         dokument = placera(steg, kandidat)
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    if steg.arkiv and ingen_lucka(steg.pool, steg.kommun, kandidat, gammal):
+    luckor = steg.arkiv and not rival
+    if luckor and ingen_lucka(steg.pool, steg.kommun, kandidat, gammal):
         return "finns redan; arkivet fyller bara luckor"
     if sokvag and samma_kalla(gammal, kandidat) and aktuell(steg, gammal):
         return "oförändrad"
@@ -73,6 +84,12 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
         if steg.arkiv and wayback.kapad(pdf):
             return misslyckad(steg, dokument, "kapad", hamtad)
         return hamtad_fil(steg, dokument, pdf, hamtad)
+
+
+def motstandare_for(steg: Steg2, kandidat: Kandidat) -> PurePosixPath | None:
+    if not steg.arkiv or kandidat.kallnyckel not in steg.ensamma:
+        return None
+    return motstandare(steg.pool, steg.kommun, kandidat)
 
 
 def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
@@ -139,6 +156,8 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
     if samma_fil and aktuell(steg, gammal):
         return ny_adress(steg, dokument)
     resultat = konvertera(pdf)
+    if steg.arkiv and forlorar(gammal, dokument.kandidat, resultat.kvalitet):
+        return behall(steg, dokument)
     falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
     falt |= {"sha256": sha256, "bytes": pdf.stat().st_size}
     falt |= {"hamtad": hamtad.isoformat(), "konverterad": steg.tid().isoformat()}
@@ -170,14 +189,26 @@ def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
 
 
 def ny_adress(steg: Steg2, dokument: Dokument) -> str:
-    md = steg.data / dokument.sokvag
+    andra_falt(steg, dokument.sokvag, {"kalla_url": dokument.kandidat.url})
+    return "ny adress, samma innehåll"
+
+
+def behall(steg: Steg2, dokument: Dokument) -> str:
+    """Kandidaten blir en tidigare källnyckel, så att den inte hämtas igen."""
+    nycklar = frontmatter.lista(dokument.befintlig["tidigare_kallnycklar"])
+    nycklar.append(dokument.kandidat.kallnyckel)
+    andra_falt(steg, dokument.sokvag, {"tidigare_kallnycklar": nycklar})
+    return "lika eller lägre kvalitet; det befintliga behålls"
+
+
+def andra_falt(steg: Steg2, sokvag: PurePosixPath, nya: dict) -> None:
+    md = steg.data / sokvag
     _, huvud, kropp = md.read_text(encoding="utf-8").split("---\n", 2)
-    falt = frontmatter.las(f"---\n{huvud}---\n") | {"kalla_url": dokument.kandidat.url}
+    falt = frontmatter.las(f"---\n{huvud}---\n") | nya
     text = frontmatter.skriv(falt) + kropp
     with utan_avbrott():
         skrivning.skriv_md(md, text)
-    steg.pool.satt(dokument.sokvag, frontmatter.las(text))
-    return "ny adress, samma innehåll"
+    steg.pool.satt(sokvag, frontmatter.las(text))
 
 
 def grundfalt(steg: Steg2, dokument: Dokument) -> dict:
