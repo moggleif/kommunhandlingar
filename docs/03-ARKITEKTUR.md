@@ -1523,17 +1523,24 @@ filen (K26), länkad från organets sida.
   - **Urvalet**: knappar för alla, de som gäller det senaste året,
     nämndmål och direktiv (bara de slag som finns) och de som bytt rubrik.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
-    en tabell med en rad per spår, nämndmålen och direktiven i var sin
-    grupp, ordnade efter första år, slag och rubrik, och en kolumn per år.
+    en tabell med en rad per rubrik i varje spår, nämndmålen och
+    direktiven i var sin grupp, spåren ordnade efter första år, slag och
+    rubrik, och en kolumn per år.
     En lucka är streckad och har ordet "lucka" i kolumnens rubrik. Ett år
     med spåret är en del av ett band med årets status: ett utfall går före
     en rapport, en prognos och beslutet, och ett år utan uppföljning har
-    en punkt. Ett år då spåret får en ny rubrik har en markering. Rubriken
-    är spårets senaste, som den först står, och länkar till kortet. Med en
+    en punkt. Ett spår som bytt rubrik har en rad per rubrik, i den ordning
+    de först står, där varje rad efter den första är märkt som en ny rubrik
+    (och tolkad där den är det), så att det syns vilken rubrik målet hade
+    vilket år ([ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)).
+    Ett år då ingen av rubrikens formuleringar står året innan med
+    formulering har en markering med formuleringen i pekrutan; samma
+    jämförelse som när bygget prövar källan, utan versaler. Ett slagbyte
+    med samma rubrik ger ingen ny rad. Rubriken länkar till kortet. Med en
     uppföljningsfil står sist nämndens uppföljningar och dragningar om
     målen, en markering per paragraf, och ett streck för år utan protokoll
     med text. Ett spår som varit både nämndmål och direktiv står under sitt
-    senaste slag, märkt med det andra.
+    senaste slag, med det andra slaget vid de rubriker som hade det.
   - **Korten** (`webbplats/malkort.py`): ett kort per spår, de som gäller
     det senaste året först, sedan efter sista och första år. Kortet har
     slaget, åren, den senaste rubriken, de tidigare rubrikerna med ordet
