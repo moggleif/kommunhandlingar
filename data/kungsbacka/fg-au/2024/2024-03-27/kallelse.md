@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec4784a6/17113557987
 sha256: adf6cd9820669d44fd27fe845dfbf6c422aea6ef5b8b74171334b6b5593e20f0
 bytes: 174599
 sidor: 4
-hamtad: 2026-10-07T23:16:26+00:00
-konverterad: 2026-10-07T23:16:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:22:17+00:00
+konverterad: 2026-10-14T07:22:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,22 +66,17 @@ KUNGSBACKA  KOMMUN
 | 8. | Timplaner för grundskolan-<br>fördelning av<br>undervisningstiden mellan<br>årskurserna<br>Kl 10:00-10:20<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00133 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 | 9. | Årlig rapport från<br>intraprenaderna 2023. Ej<br>föredragning | FG-2024-00164 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 10. | Regler för skolskjuts inom<br>Förskola & Grundskola<br>Kl 10:20-10:55<br>Frida Byrsten, verksamhetschef | FG-2024-00170 | Revidering av Regler för skolskjuts antas i de<br>delar som berör förskoleklass, grundskolan och<br>anpassad grundskolas verksamhetsområde.<br>Regler för skolskjuts läsåret 2022-2023 upphör<br>att gälla. |
+| 11. | Regler för barnomsorg<br>obekväm arbetstid<br>Kl 10:55-11:25<br>Frida Byrsten, verksamhetschef | FG-2024-00180 | Nämnden för Förskola & Grundskola beslutar<br>om Regler för omsorg på obekväm tid.<br>Reglerna träder i kraft efter genomförd<br>upphandling och avtalstecknande med extern<br>utförare och avser omsorg från och med tidigast<br>höstterminsstart 2024.<br>Förvaltningschef får delegation med rätt att<br>vidaredelegera Beslut om omsorg på obekväm<br>arbetstid, skollagen 25 kap 5 §.<br>Förvaltningschef får delegation att teckna<br>entreprenadavtal med annan part för att utföra<br>omsorg på obekväm arbetstid, skollagen 23 kap<br>2,8 §§. Vidaredelegation medges ej.<br>Förvaltningen för Förskola och Grundskola ska<br>återrapportera en uppföljning av regler och avtal<br>år ett och två. |
+| 12. | Verksamhetschef elevhälsans<br>medicinska insats | FG-2024-00177 | Magnus Sandberg utses till verksamhetschef för<br>elevhälsans medicinska insatser från och med 1<br>maj 2024. |
+| 13. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 11:25-11:45<br>Frida Byrsten, verksamhetschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 14. | Flytt av arbetsutskott 2 maj<br>Kl 11:45-11:55 | FG-2024-00148 | Arbetsutskottet flyttas till kl 13:00 den 2 maj. |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 11:55-12:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Regler för barnomsorg<br>obekväm arbetstid<br>Kl 10:55-11:25<br>Frida Byrsten, verksamhetschef | FG-2024-00180 | Nämnden för Förskola & Grundskola beslutar<br>om Regler för omsorg på obekväm tid.<br>Reglerna träder i kraft efter genomförd<br>upphandling och avtalstecknande med extern<br>utförare och avser omsorg från och med tidigast<br>höstterminsstart 2024.<br>Förvaltningschef får delegation med rätt att<br>vidaredelegera Beslut om omsorg på obekväm<br>arbetstid, skollagen 25 kap 5 §.<br>Förvaltningschef får delegation att teckna<br>entreprenadavtal med annan part för att utföra<br>omsorg på obekväm arbetstid, skollagen 23 kap<br>2,8 §§. Vidaredelegation medges ej.<br>Förvaltningen för Förskola och Grundskola ska<br>återrapportera en uppföljning av regler och avtal<br>år ett och två. |
-| 12. | Verksamhetschef elevhälsans<br>medicinska insats | FG-2024-00177 | Magnus Sandberg utses till verksamhetschef för<br>elevhälsans medicinska insatser från och med 1<br>maj 2024. |
-| 13. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 11:25-11:45<br>Frida Byrsten, verksamhetschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 14. | Flytt av arbetsutskott 2 maj<br>Kl 11:45-11:55 | FG-2024-00148 | Arbetsutskottet flyttas till kl 13:00 den 2 maj. |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 11:55-12:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 4 -->
 

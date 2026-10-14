@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2b49f86518ecb777ac8a5fb/17131681386
 sha256: d4ee4016ccaa3e1c8e4e69235fdc83c17ba7a376f1bb158ee8e31b7e22b6c6f8
 bytes: 5015007
 sidor: 125
-hamtad: 2026-10-07T22:46:40+00:00
-konverterad: 2026-10-07T22:46:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:56:25+00:00
+konverterad: 2026-10-14T06:56:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [109]
-figurer: null
-tolkade: null
+figurer: [23, 53, 56, 58, 59, 60, 64, 68, 73, 76, 78, 79, 80, 81, 82, 83, 84, 86, 105, 106, 107, 108, 109, 117]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,23 +65,19 @@ KUNGSBACKA  KOMMUN
 | 7. | Regler för omsorg på obekväm<br>arbetstid<br>Kl 17.00-17.30<br>Frida Byrsten, verksamhetschef | FG-2024-00180 | Nämnden för Förskola & Grundskola beslutar<br>om Regler för omsorg på obekväm tid.<br>Reglerna träder i kraft efter genomförd<br>upphandling och avtalstecknande med extern<br>utförare och avser omsorg från och med tidigast<br>höstterminsstart 2024.<br>Förvaltningschef får delegation med rätt att<br>vidaredelegera Beslut om omsorg på obekväm<br>arbetstid, skollagen 25 kap 5 §.<br>Förvaltningschef får delegation att teckna<br>entreprenadavtal med annan part för att utföra<br>omsorg på obekväm arbetstid, skollagen 23 kap<br>2,8 §§. Vidaredelegation medges ej.<br>Förvaltningen för Förskola och Grundskola ska<br>återrapportera en uppföljning av regler och avtal<br>år ett och två.<br>Nämnden beslutar att förvaltningen kompletterar<br>underlaget enligt följande: Ändra maximalt antal<br>timmar till 45 timmar, samt att man inte heller<br>ska vara nära bekant eller ha<br>vänskapsförhållanden. Tillägg sidan 3 efter<br>stycket om delad vårdnad; " i undantagsfall kan<br>det beviljas omsorg på obekväm arbetstid även<br>om enbart den ena föräldern har arbete på<br>obekväm arbetstid." |
 |  | Paus 17.30-17.50 |  |  |
 | 8. | Utredning kring Iseråsskolans<br>ombyggnad<br>Kl 17.50-18.10<br>Anna Antoni, utvecklingsledare | FG-2024-00175 | Nämnden för Förskola & Grundskola beslutar att<br>vid ombyggnation av Iseråsskolan utreda<br>möjligheten att evakuera skolans elever till<br>Fjordskolan samt Kapareskolan. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Organisationsförändring<br>Förskolor Frillesås<br>Kl 18.10-18.20<br>Eva Eriksson, verksamhetschef<br>Helen Stenum,<br>utvecklingsledare | FG-2024-00185 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 10. | Anpassning av pedagogisk<br>omsorg i Pedagogiskt område<br>Söder"<br>Kl 18.20-18.30<br>Eva Eriksson, verksamhetschef<br>Helen Stenum,<br>utvecklingsledare | FG-2024-00186 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 11. | Organisationsförändring på<br>Blomstergatans förskola<br>Kl 18.30-18.50<br>Maria Eriksson,<br>verksamhetschef<br>Anna Flinck, utvecklingsledare | FG-2024-00174 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 12. | Verksamhetschef elevhälsans<br>medicinska insatser | FG-2024-00177 | Magnus Sandberg utses till verksamhetschef för<br>elevhälsans medicinska insatser från och med 1<br>maj 2024. |
 | 13. | Årlig rapport från<br>intraprenaderna 2023 | FG-2024-00164 | Nämnden för Förskola och Grundskola<br>godkänner rapporten och antecknar<br>informationen i protokollet. |
 | 14. | Delegeringsbeslut antagna av<br>nämnden 2024 | FG-2024-00059 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18.50-19.00<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -91,12 +87,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18.50-19.00<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -4298,7 +4288,7 @@ development, and well-being. American Psychologist, 55, 68-78
 https://doi.apa.org/doilanding?doi=10.1037%2F0003-066X.55.1.68
 2 https://gupea.ub.gu.se/bitstream/2077 /59319/1/gupea 2077 59319 1.pdf
 3 https ://www. kun gsbacka. se/glo bal assets/komm un -och-po I iti k/ doku ment/moten-han d I ingar -och­
-protokol 1/forskola-och-grun dsko la-a rbetsutskott/proto kol1 /2020/fga u 201007 protokol I .signerad. pdf
+protokol 1/forskola-och-grun dsko la-a rbetsutskott/proto kol1/2020/fga u 201007 protokol I .signerad. pdf
 2
 
 <!-- sida 111 -->
@@ -4836,7 +4826,7 @@ Sarah von
 
 <!-- sida 123 -->
 
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
+[Tabell 123-125-1](handlingar.tabeller/123-125-1.csv)
 
 | Ärendenummer | Inskickat | Delegering | Status |
 | --- | --- | --- | --- |
@@ -4886,13 +4876,7 @@ Sarah von
 | 122584 | 2024-03-20 20:15.00 | A 4.1 | Avslag |
 | 122589 | 2024-03-20 20:38.01 | A 4.1 | Avslag |
 | 122625 | 2024-03-20 22:29.01 | A 4.1 | Avslag |
-
-<!-- sida 124 -->
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
 | 122715 | 2024-03-21 10:13.01 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 122716 | 2024-03-21 10:14.00 | A 4.1 | Avslag |
 | 122865 | 2024-03-21 16:43.01 | A 4.1 | Avslag |
 | 122996 | 2024-03-22 09:47.01 | A 4.1 | Avslag |
@@ -4939,13 +4923,7 @@ Sarah von
 | 125644 | 2024-04-04 08:03.01 | A 4.1 | Avslag |
 | 125645 | 2024-04-04 08:09.01 | A 4.1 | Avslag |
 | 125745 | 2024-04-04 12:56.01 | A 4.1 | Avslag |
-
-<!-- sida 125 -->
-
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
-
 | 125874 | 2024-04-04 21:00.02 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 125875 | 2024-04-04 21:02.01 | A 4.1 | Beviljad |
 | 126104 | 2024-04-05 18:57.00 | A 4.1 | Avslag |
 | 126138 | 2024-04-06 10:17.00 | A 4.1 | Avslag |
@@ -4962,3 +4940,7 @@ Sarah von
 | 127010 | 2024-04-10 08:49.01 | A 4.1 | Avslag |
 |  |  |  |  |
 |  |  |  |  |
+
+<!-- sida 124 -->
+
+<!-- sida 125 -->

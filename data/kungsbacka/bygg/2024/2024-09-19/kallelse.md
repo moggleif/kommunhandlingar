@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7d86dbc01919733afcd171b7/1725957551
 sha256: 0828e268aa6cb0dc87ef8ef8a3a0adb854dfbfe82b9383577bfc647e5f44f135
 bytes: 213760
 sidor: 4
-hamtad: 2026-10-07T23:45:30+00:00
-konverterad: 2026-10-07T23:45:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:47:15+00:00
+konverterad: 2026-10-14T07:47:21+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Byggnadsnämndens<br>delårsbokslut augusti 2024<br>Föredragande: Christina<br>Nordberg, controller och<br>Annika Nally, HR-specialist | 2024-00257 | Förslag till beslut<br>Byggnadsnämnden godkänner delårsbokslut<br>och prognos 2024. | 20<br>min |
 | 9. | Sammanträdesdagar 2025 för<br>byggnadsnämnden<br>Föredragande: Sofie Axelsson,<br>nämndsekreterare | 2024-00258 | Förslag till beslut<br>Byggnadsnämnden sammanträder följande<br>datum år 2025:<br>16 januari, 20 februari, 20 mars, 24 april, 15<br>maj, 26 juni, 21 augusti, 18 september, 23<br>oktober, 20 november och 11 december. | 5<br>min |
 | 10. | Återrapportering av uppdrag att<br>utreda förutsättningar för att<br>ansöka om ett<br>kommunalt lantmäteri<br>Föredragande: Hanna Ståhl,<br>verksamhetschef | 2024-00223 | Förslag till beslut<br>Byggnadsnämnden noterar utredningen om<br>Förutsättningar för att ansöka om<br>kommunalt lantmäteri, daterad 2024-08-05,<br>och förklarar uppdraget som lämnades av<br>byggnadsnämnden den 4 juli 2024 § 154,<br>som avslutat.<br>Byggnadsnämnden ger i uppdrag åt<br>förvaltningen att ta fram en ansökan för<br>kommunalt lantmäteri. | 10<br>min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 11. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd i form av<br>tillbyggnad innan startbesked | BN-2022-<br>001665 | Förslag till beslut | 5<br>min |
 | 12. | Rättelseföreläggs med löpande<br>vite att avröja tillbyggnad | BN-2022-<br>002143 | Förslag till beslut | 5<br>min |
 | 13. | Rättelseföreläggs att avröja<br>tillbyggnad | BN-2022-<br>002143 | Förslag till beslut | 5<br>min |
@@ -86,6 +75,15 @@ KUNGSBACKA  KOMMUN
 | 17. | Åtgärdsföreläggs med vite att<br>klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut | 5<br>min |
 | 18. | Åtgärdsföreläggs med vite att<br>klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut | 5<br>min |
 | 19. | Åtgärdsföreläggs med vite att<br>klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut | 5<br>min |
+| 20. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>ärende med dnr 5050-2024,<br>angående uppförande av<br>reklamskyltar | BN-2024-<br>001735 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
+| 21. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-08-16–2024-09-09. | 2<br>min |
+| 22. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 2<br>min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -95,11 +93,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofie Axelsson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 20. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>ärende med dnr 5050-2024,<br>angående uppförande av<br>reklamskyltar | BN-2024-<br>001735 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
-| 21. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-08-16–2024-09-09. | 2<br>min |
-| 22. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 2<br>min |

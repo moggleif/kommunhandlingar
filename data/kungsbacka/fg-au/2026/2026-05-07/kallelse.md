@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1587654f19ddca7e89d7c424/1777959573
 sha256: bcf5bb37d1794b7b04feb7ab40a9ad94b3430c68226612facaa37c255237cdb6
 bytes: 175154
 sidor: 4
-hamtad: 2026-10-07T23:18:53+00:00
-konverterad: 2026-10-07T23:18:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:24:43+00:00
+konverterad: 2026-10-14T07:24:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,22 +68,18 @@ KUNGSBACKA  KOMMUN
 |  | Träffa skolledning<br>Kl 10:35-11:35 |  |  |
 |  | Lunch<br>Kl 11:35-12:05 |  |  |
 | 8. | Skolval och skolplacering<br>Kl 12:05-12:20<br>Frida Byrsten, verksamhetschef | FG-2026-00273 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 8. | Revidering av regler för<br>skolskjuts<br>Kl 12:20-12:40<br>Frida Byrsten, verksamhetschef | FG-2026-00260 | Nämnden för Förskola och Grundskola antar<br>reviderade Regler för skolskjuts för inom<br>Förskola & Grundskola, 2026-04-24. |
+| 8. | Tillsyn Särö Skola 6-9 -<br>Skolinspektionen Dnr: SI-<br>2025:10268<br>Kl 12:40-12:55<br>Frida Byrsten, verksamhetschef | FG-2025-00723 | Arbetsutskottet antar dokumentet<br>”Huvudmannens redovisning av vidtagna<br>åtgärder till Skolinspektionen Särö 6-9, SI<br>2025:10268” som yttrande och översänder det<br>till Skolinspektionen. |
+| 9. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>(adress borttagen), 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
+| 10. | Ansökan från<br>Förskolekooperativet<br>Myrstacken i Åsa Ekonomisk<br>förening gällande permanent<br>utökning av barnantal på<br>förskolan Myrstacken | FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Förskolekooperativet Myrstacken i<br>Åsa Ekonomisk förening gällande ansökan om<br>utökning på förskolan Myrstacken, Kumlabacken<br>9, 439 53 Åsa om permanent utökning till totalt<br>22 barn. |
+| 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026<br>Kl 12:55-13:20<br>Frida Byrsten, verksamhetschef<br>Tove Bender, utredare | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:20-13:40<br>Stigert Pettersson,<br>förvaltningschef<br>Gustav Sjöström, ekonomichef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Revidering av regler för<br>skolskjuts<br>Kl 12:20-12:40<br>Frida Byrsten, verksamhetschef | FG-2026-00260 | Nämnden för Förskola och Grundskola antar<br>reviderade Regler för skolskjuts för inom<br>Förskola & Grundskola, 2026-04-24. |
-| 8. | Tillsyn Särö Skola 6-9 -<br>Skolinspektionen Dnr: SI-<br>2025:10268<br>Kl 12:40-12:55<br>Frida Byrsten, verksamhetschef | FG-2025-00723 | Arbetsutskottet antar dokumentet<br>”Huvudmannens redovisning av vidtagna<br>åtgärder till Skolinspektionen Särö 6-9, SI<br>2025:10268” som yttrande och översänder det<br>till Skolinspektionen. |
-| 9. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>(adress borttagen), 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
-| 10. | Ansökan från<br>Förskolekooperativet<br>Myrstacken i Åsa Ekonomisk<br>förening gällande permanent<br>utökning av barnantal på<br>förskolan Myrstacken | FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Förskolekooperativet Myrstacken i<br>Åsa Ekonomisk förening gällande ansökan om<br>utökning på förskolan Myrstacken, Kumlabacken<br>9, 439 53 Åsa om permanent utökning till totalt<br>22 barn. |
-| 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026<br>Kl 12:55-13:20<br>Frida Byrsten, verksamhetschef<br>Tove Bender, utredare | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 
 <!-- sida 4 -->
 
@@ -93,9 +89,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:20-13:40<br>Stigert Pettersson,<br>förvaltningschef<br>Gustav Sjöström, ekonomichef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e0085adaa/1770984950
 sha256: 049d5bceb313d511826dd12708d45a64f61938a4363bda28a311a8f29630128a
 bytes: 145817
 sidor: 5
-hamtad: 2026-10-07T22:08:11+00:00
-konverterad: 2026-10-07T22:08:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:23:53+00:00
+konverterad: 2026-10-14T06:23:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,6 +65,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Bostad först<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>18.25-18.35 | GA-2024-<br>00088 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Revidering av riktlinjer<br>ekonomiskt bistånd 2026<br>Föredragande: Pernilla<br>Börjesson, enhetschef<br>18.35-18.50 | GA-2026-<br>00032 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av riktlinjer Ekonomiskt<br>bistånd 2026. |
 | 8. | Årsredovisning 2025<br>Föredragande: LGA<br>19.10-19.50 | GA-2023-<br>00161 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner årsredovisning 2025.<br>Paragrafen justeras direkt. |
+| 9. | Ombudgetering och resultatfond<br>2025 | GA-2026-<br>00017 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner förslag till ombudgetering och<br>resultatfond 2025.<br>Paragrafen justeras direkt. |
+| 10. | Uppföljning intern kontrollplan<br>2025<br>Föredragande: Andreas<br>Mårtensson, kvalitet och<br>utvecklingschef<br>19.50-20.05 | GA-2024-<br>00193 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner uppföljning av Intern kontroll 2025.<br>Paragrafen justeras direkt. |
+| 11. | Kvartalsuppföljning av<br>arbetsmarknadsprocessen 2025<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>20.05-20.25 | GA-2025-<br>00069 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kvartalsuppföljningen av<br>arbetsmarknadsprocessen för kvartal 4, 2025. |
+| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809) | GA-2025-<br>00188 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>att kommunfullmäktige avslår motionen med<br>hänvisning till den omställning som redan sker på<br>kommunens gymnasieskolor och i Kungsbacka<br>kommun. |
+| 13. | FG/GA stämningsansökan Gotit<br>Skolplatsen<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.25-20.35 | GA-2026-<br>00034 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 14. | Nya samverkansavtal GR<br>Föredragande: Patrik Hellberg<br>20.35-20.40 | GA-2026-<br>00028 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningschefen i uppdrag att ta fram ett förslag<br>på remissvar som beslutas och direktjusteras på<br>nämndsmötet den 19 mars 2026. |
+| 15. | Revidering av<br>delegeringsförteckning (2026) | GA-2026-<br>00030 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av<br>delegeringsförteckningen. |
+| 16. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-01-01 till 2026-01-31. |
+| 17. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Jan Eric Knutas<br>(L)<br>20.40-20.45 | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 18. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 19. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.45-21.00 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -72,32 +83,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Ombudgetering och resultatfond<br>2025 | GA-2026-<br>00017 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner förslag till ombudgetering och<br>resultatfond 2025.<br>Paragrafen justeras direkt. |
-| 10. | Uppföljning intern kontrollplan<br>2025<br>Föredragande: Andreas<br>Mårtensson, kvalitet och<br>utvecklingschef<br>19.50-20.05 | GA-2024-<br>00193 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner uppföljning av Intern kontroll 2025.<br>Paragrafen justeras direkt. |
-| 11. | Kvartalsuppföljning av<br>arbetsmarknadsprocessen 2025<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>20.05-20.25 | GA-2025-<br>00069 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kvartalsuppföljningen av<br>arbetsmarknadsprocessen för kvartal 4, 2025. |
-| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809) | GA-2025-<br>00188 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>att kommunfullmäktige avslår motionen med<br>hänvisning till den omställning som redan sker på<br>kommunens gymnasieskolor och i Kungsbacka<br>kommun. |
-| 13. | FG/GA stämningsansökan Gotit<br>Skolplatsen<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.25-20.35 | GA-2026-<br>00034 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Nya samverkansavtal GR<br>Föredragande: Patrik Hellberg<br>20.35-20.40 | GA-2026-<br>00028 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningschefen i uppdrag att ta fram ett förslag<br>på remissvar som beslutas och direktjusteras på<br>nämndsmötet den 19 mars 2026. |
-| 15. | Revidering av<br>delegeringsförteckning (2026) | GA-2026-<br>00030 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av<br>delegeringsförteckningen. |
-| 16. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-01-01 till 2026-01-31. |
-| 17. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Jan Eric Knutas<br>(L)<br>20.40-20.45 | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 18. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 19. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.45-21.00 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 

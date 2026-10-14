@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e9133f7/1713514783
 sha256: d6ba0fb8f3981f1d4e146ad5176d169f8d1491b3b7ff5d997241372f91afcfd1
 bytes: 4586118
 sidor: 171
-hamtad: 2026-10-08T07:31:25+00:00
-konverterad: 2026-10-08T07:31:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:29:50+00:00
+konverterad: 2026-10-14T10:30:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
+tal_obekraftade: [118]
+figurer: [9, 16, 26, 29, 40, 49, 75, 78, 84, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3881,6 +3881,36 @@ Totalt ingår 38 ungdomar som inte har kunnat räknas bort på områdesnivå i e
 Göteborg med mycket begränsad svarsfrekvens.
 
 Tabell 3. Skola, kön och kommunområde i enkätsvaren jämfört med elevurvalet, årskurs 8
+Differens
+Urvalet Enkätsvaren (procentenheter)
+
+```osaker-tabell
+Skola  Kommunal skola          86       86      -0,8
+       Fristående skola        14       14       0,8
+
+       Summa procent          100      100      100
+```
+
+Antal personer        1 282    1 0041
+
+```osaker-tabell
+Kön    Killar                  52       51       -1
+       Tjejer                  48       49        1
+
+       Summa procent          100      100
+       Antal personer        1 282     9832
+
+Kommun- Anneberg, Älvsåker      6       6         0
+område Fjärås med omland3      13       11       -2
+       Frillesås, Åsa, Ölmanäs 12       13        1
+       Kungsbacka stad4        23       24        1
+       Onsala                  22       22        0
+       Särö, Kullavik (Släp)   12       12        0
+       Vallda                  10       9        -1
+       Annan kommun än Kungsbacka 2     3         1
+       Summa procent          100      100
+       Antal personer        1 275     9825
+```
 
 Kommentarer:
 1 Exkluderar 12 elever på ”annan” eller okänd skola.
@@ -3891,34 +3921,6 @@ Kommentarer:
 5 Exkluderar 34 svarspersoner utan känt kommunområde/kommun.
 
 24
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-|  |  | Urvalet | Enkätsvaren | Differens<br>(procentenheter) |
-| --- | --- | --- | --- | --- |
-| Skola | Kommunal skola | 86 | 86 | -0,8 |
-|  | Fristående skola | 14 | 14 | 0,8 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 | 100 |
-|  | Antal personer | 1 282 | 1 0041 |  |
-|  |  |  |  |  |
-| Kön | Killar | 52 | 51 | -1 |
-|  | Tjejer | 48 | 49 | 1 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 |  |
-|  | Antal personer | 1 282 | 9832 |  |
-|  |  |  |  |  |
-| Kommun- | Anneberg, Älvsåker | 6 | 6 | 0 |
-| område | Fjärås med omland3 | 13 | 11 | -2 |
-|  | Frillesås, Åsa, Ölmanäs | 12 | 13 | 1 |
-|  | Kungsbacka stad4 | 23 | 24 | 1 |
-|  | Onsala | 22 | 22 | 0 |
-|  | Särö, Kullavik (Släp) | 12 | 12 | 0 |
-|  | Vallda | 10 | 9 | -1 |
-|  | Annan kommun än Kungsbacka | 2 | 3 | 1 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 |  |
-|  | Antal personer | 1 275 | 9825 |  |
 
 <!-- sida 99 -->
 
@@ -7973,7 +7975,7 @@ Förvaltningschef
 
 Förening               Bidragstyp                Utbet.dat Belopp
 
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
+[Tabell 166-167-1](handlingar.tabeller/166-167-1.csv)
 
 | ABF Norra Halland | Kultur &Fritid/ Föreningsuppdrag | 2024-04-12 | 50 000,00 |
 | --- | --- | --- | --- |
@@ -8003,13 +8005,7 @@ Förening               Bidragstyp                Utbet.dat Belopp
 | OK Löftan | Barn och ungdomsföreningar/<br>Anläggning- och skötselbidrag | 2024-04-12 | 60 000,00 |
 | Orrvikens Segelsällskap | Barn och ungdomsföreningar/<br>Anläggning- och skötselbidrag | 2024-04-12 | 5 000,00 |
 | Ridvägar.nu | Kultur &Fritid/ Föreningsuppdrag | 2024-04-12 | 30 000,00 |
-
-<!-- sida 167 -->
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
 | Segelsällskapet Kaparen | Barn och ungdomsföreningar/<br>Anläggning- och skötselbidrag | 2024-04-12 | 5 000,00 |
-| --- | --- | --- | --- |
 | Särö Lawn-Tennisklubb | Barn och ungdomsföreningar/<br>Anläggning- och skötselbidrag | 2024-04-12 | 80 000,00 |
 | TAAD Aikido Kungsbacka | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-03-12 | 1 230,00 |
 | TAAD Aikido Kungsbacka | Barn och ungdomsföreningar/ Utbildning<br>och utvecklingsbidrag | 2024-03-12 | 2 400,00 |
@@ -8018,6 +8014,8 @@ Förening               Bidragstyp                Utbet.dat Belopp
 | Vallda Tennisklubb | Barn och ungdomsföreningar/<br>Anläggning- och skötselbidrag | 2024-04-12 | 70 000,00 |
 | Varla IBK | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-04-04 | 90 570,00 |
 | Västkuststiftelsen | Kultur &Fritid/ Föreningsuppdrag | 2024-04-12 | 15 000,00 |
+
+<!-- sida 167 -->
 
 <!-- sida 168 -->
 
@@ -8039,6 +8037,32 @@ Sammanfattning av ärendet
 Under perioden 2024-03-14 – 2024-04-17 har 30 st skrivelser inkommit till nämnden för Kultur &
 Fritid:
 
+2024-04- T jänsteperson     Avtal gällande      KFT-2024-00119
+1 7                         Överenskommelse Tidiga
+s amordnade aktiviteter
+2024-04- MUCF               Lupp 2023           KFT-2024-00118
+17
+
+2024-04-                    Information till nämnd: KFT-2024-00113
+15                          Ungdomsenkäten LUPP
+
+2024-04- info@kungsbacka    Förfrågan om        KFT-2024-00108
+12                          brottsförebyggande arbete
+
+2024-04- Förening           Lotteriansökan HK Aranäs KFT-2024-00107
+
+11
+
+2024-03- Länsstyrelsen      Ansökan om dispens från KFT-2024-00106
+22                          samt tillstånd enligt
+reservatsföreskrifterna för att
+arrangera Kungsbacka
+Outdoor Festival på
+fastigheten Li 2:23 i
+naturreservatet Fjärås
+Bräcka, Kungsbacka
+kommun
+
 1 (4)
 Förvaltningen för Kultur & Fritid                         Kungsbacka kommun
 434 81 Kungsbacka
@@ -8048,22 +8072,12 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-| 2024-04-<br>1 7 | T jänsteperson | Avtal gällande<br>Överenskommelse Tidiga<br>s amordnade aktiviteter | KFT-2024-00119 |
-| --- | --- | --- | --- |
-| 2024-04-<br>17 | MUCF | Lupp 2023 | KFT-2024-00118 |
-| 2024-04-<br>15 |  | Information till nämnd:<br>Ungdomsenkäten LUPP | KFT-2024-00113 |
-| 2024-04-<br>12 | info@kungsbacka | Förfrågan om<br>brottsförebyggande arbete | KFT-2024-00108 |
-| 2024-04-<br>11 | Förening | Lotteriansökan HK Aranäs | KFT-2024-00107 |
-| 2024-03-<br>22 | Länsstyrelsen | Ansökan om dispens från<br>samt tillstånd enligt<br>reservatsföreskrifterna för att<br>arrangera Kungsbacka<br>Outdoor Festival på<br>fastigheten Li 2:23 i<br>naturreservatet Fjärås<br>Bräcka, Kungsbacka<br>kommun | KFT-2024-00106 |
-
 <!-- sida 169 -->
 
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
+[Tabell 169-171-1](handlingar.tabeller/169-171-1.csv)
 
 | 2024-04-<br>04 | Ernst& Young | Revisionens grundläggande<br>granskning 2024 | KFT-2024-00105 |
 | --- | --- | --- | --- |
@@ -8077,16 +8091,7 @@ KUNGSBACKA  KOMMUN
 | 2024-03-<br>25 | Förening | Ansökan om enskilt<br>kulturprojektbidrag-<br>Kungsbacka Fotoklubb,<br>Arven efter varven | KFT-2024-00097 |
 | 2024-03-<br>25 | Förening | Ansökan om enskilt<br>kulturprojektbidrag-<br>Kungsbacka Fotoklubb,<br>Porträttfotografering | KFT-2024-00096 |
 | 2024-03-<br>25 | Kommunledningskontoret | Protokollsutdrag 2024-03-19<br>KS § 74 Godkännande av<br>uppföljningsrapport av intern<br>kontroll 2023 för<br>Kungsbacka kommun | KFT-2024-00095 |
-
-<!-- sida 170 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
-
 | 2024-03-<br>25 |  | Handlingar för ärende SE-<br>2024-00081, Inköpsrapport<br>2023 | KFT-2024-00094 |
-| --- | --- | --- | --- |
 | 2024-03-<br>20 | Sverigedemokraterna | Initiativ från SD: avstängd<br>hälsocertifiering för Hanhals<br>IF | KFT-2024-00092 |
 | 2024-03-<br>20 | Onsala Pirates BBK | Ansökan om Särskilt bidrag | KFT-2024-00091 |
 | 2024-03-<br>19 | Förening | Ansökan om enskilt<br>kulturprojektbidrag- De fyra<br>elementen | KFT-2024-00090 |
@@ -8095,6 +8100,15 @@ KUNGSBACKA  KOMMUN
 | 2024-03-<br>14 | Kommunledningskontoret | Protokollsutdrag 2024-03-05<br>KF § 38 Svar på motion från<br>Susanne Andersson (SD)<br>m.fl. om separata herr- och<br>damtoaletter | KFT-2024-00087 |
 | 2024-03-<br>15 | Kommunledningskontoret | Protokollsutdrag 2024-03-05<br>KF § 37 Ansökan om<br>amorteringsfrihet för lån med<br>kommunal borgen för Vallda<br>tennisklubb och Vallda<br>tennishall ekonomisk<br>förening | KFT-2024-00086 |
 | 2024-03-<br>13 | Kommunledningskontoret | Protokollsutdrag 2024-03-05<br>KF § 34 Återrapportering på<br>uppdrag att ta fram<br>styrdokument för innovation<br>och förnyelse | KFT-2024-00085 |
+| 2024-03-<br>13 | Kommunledningskontoret | Protokollsutdrag 2024-03-05<br>KF § 33 Antagande av<br>riktlinjer för hantering av<br>personuppgifter | KFT-2024-00084 |
+| 2024-03-<br>14 | Alliansen | Initiativ från Alliansen:<br>Uppdrag för framtagande av<br>fördelningsprinciper för<br>bokning av Kungsbacka<br>kommuns<br>idrottsanläggningar | KFT-2024-00083 |
+| 2024-03-<br>14 | Förening | Ansökan om enskilt<br>kulturprojektbidrag-<br>Konstens vecka | KFT-2024-00082 |
+| 2024-03-<br>13 |  | Information till nämnd:<br>Hanhals IF | KFT-2024-00081 |
+
+<!-- sida 170 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
 
 <!-- sida 171 -->
 
@@ -8108,11 +8122,3 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-04-17
 Karl Persson
 
 Förvaltningschef
-
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-| 2024-03-<br>13 | Kommunledningskontoret | Protokollsutdrag 2024-03-05<br>KF § 33 Antagande av<br>riktlinjer för hantering av<br>personuppgifter | KFT-2024-00084 |
-| --- | --- | --- | --- |
-| 2024-03-<br>14 | Alliansen | Initiativ från Alliansen:<br>Uppdrag för framtagande av<br>fördelningsprinciper för<br>bokning av Kungsbacka<br>kommuns<br>idrottsanläggningar | KFT-2024-00083 |
-| 2024-03-<br>14 | Förening | Ansökan om enskilt<br>kulturprojektbidrag-<br>Konstens vecka | KFT-2024-00082 |
-| 2024-03-<br>13 |  | Information till nämnd:<br>Hanhals IF | KFT-2024-00081 |

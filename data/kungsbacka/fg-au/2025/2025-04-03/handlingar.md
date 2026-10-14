@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.635059d3195df56f82e4cf60/1743425868
 sha256: 9c941eef4374bd3ab377ef6399986b066468fd676760167024f19b1a789f9817
 bytes: 7315039
 sidor: 108
-hamtad: 2026-10-07T23:26:06+00:00
-konverterad: 2026-10-07T23:26:38+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:30:57+00:00
+konverterad: 2026-10-14T07:31:25+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [28, 29, 30, 31, 87]
-figurer: null
-tolkade: null
+figurer: [10, 11, 12, 13, 15, 16, 17, 20, 21, 22, 24, 25, 26, 39, 42, 43, 44, 47, 48, 49, 51, 53, 54, 56, 58, 59, 61, 63, 65, 67, 68, 70, 72]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,21 +64,17 @@ KUNGSBACKA  KOMMUN
 |  | Paus 14:50-15:00 |  |  |
 | 6. | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun<br>Kl 15:00-15:10<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00843 | Kommunfullmäktige beslutar att Lära för livet-<br>priset inom nämnden för Förskola & Grundskola<br>samordnas med priset för årets medarbetare. |
 | 7. | Ansökan från<br>Skattkammarlandet, gällande<br>tillfällig utökning av barnantal<br>Kl 15:10-15:15<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00046 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Föräldrakooperativet<br>Skattkammarlandets ekonomiska förening,<br>Frillesås mellanväg 10 i Frillesås, om permanent<br>utökning till totalt 25 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från Föräldrakooperativet<br>Skattkammarlandets ekonomiska förening,<br>Frillesås mellanväg 10 i Frillesås, om tillfällig<br>utökning av barnantal på förskolan till totalt 27<br>barn till och med augusti 2025. |
+| 8. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ekolek<br>Kl 15:15-15:20<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00096 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Nordgårdsvägen 103, 429 34<br>Kullavik. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
+| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>(adress borttagen), 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
+| 10. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:55<br>Frida Byrsten, verksamhetschef | FG-2024-00634 | Nämnden för Förskola & Grundskola godkänner<br>en tillfällig utökning av barnantal till 102 barn på<br>Kullaviks Montessoriskola ekonomiska förening,<br>Bångsbovägen 13, Kullavik. Fram till dess att<br>ansökan kan prövas i sin helhet men som längst<br>till 30 september 2025.<br>Prövning om godkännande av permanent<br>utökning görs efter att förvaltningen har fattat<br>beslut i ägar- och ledningsprövningen. |
+| 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025<br>Kl 15:55-16:05<br>Frida Byrsten, verksamhetschef | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:25<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ekolek<br>Kl 15:15-15:20<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00096 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Nordgårdsvägen 103, 429 34<br>Kullavik. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
-| 9. | Ansökan från Måsens förskola,<br>gällande permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweigbergk, utredare<br>svarar på frågor | FG-2025-00168 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Personalkooperativet Måsens<br>förskola i ur och skur ekonomiska förening,<br>(adress borttagen), 43492 Vallda, om<br>permanent utökning till totalt 21 barn. |
-| 10. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:55<br>Frida Byrsten, verksamhetschef | FG-2024-00634 | Nämnden för Förskola & Grundskola godkänner<br>en tillfällig utökning av barnantal till 102 barn på<br>Kullaviks Montessoriskola ekonomiska förening,<br>Bångsbovägen 13, Kullavik. Fram till dess att<br>ansökan kan prövas i sin helhet men som längst<br>till 30 september 2025.<br>Prövning om godkännande av permanent<br>utökning görs efter att förvaltningen har fattat<br>beslut i ägar- och ledningsprövningen. |
-| 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025<br>Kl 15:55-16:05<br>Frida Byrsten, verksamhetschef | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 
 <!-- sida 4 -->
 
@@ -88,12 +84,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:25<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -3354,17 +3344,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 92 -->
 

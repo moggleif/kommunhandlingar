@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4382ea651984f671f405dfde/1753881358
 sha256: 005c0640d7bfb33ba7ac8624588ebfb500161797ac63a65783fe1442758c4aa7
 bytes: 165528
 sidor: 7
-hamtad: 2026-10-08T00:18:08+00:00
-konverterad: 2026-10-08T00:18:14+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:14:32+00:00
+konverterad: 2026-10-14T08:14:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -69,13 +69,20 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 7. | ÖLMANÄS 9:22 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus med<br>tillhörande garage | BN-2025-<br>000937 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus med tillhörande garage på<br>fastigheten.<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är reducerad med 25 734 kronor<br>på grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 | 8. | BUERA 8:3 - Förhandsbesked<br>för nybyggnad av enbostadshus | BN-2025-<br>000054 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 22 256 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 | 9. | ALGUSERED 1:134 - Bygglov<br>för ändrad användning av skola,<br>tillbyggnad, utvändig ändring,<br>plank samt nybyggnad av<br>komplementbyggnader | BN-2023-<br>000136 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av skola, tillbyggnad, utvändig<br>ändring, plank samt nybyggnad av<br>komplementbyggnader.<br>Avgiften för beslutet är 25 000 kronor.<br>Avgiften är fastställd i taxan för<br>Byggnadsnämndens verksamhet, beslutad i<br>Kommunfullmäktige 2022-12-06 § 236. | 5 min |
+| 10. | KUNGSBACKA 4:64 -<br>Bygglov för uppsättning av fyra<br>bildväxlande skyltar | BN-2025-<br>001368 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av<br>fyra bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 11. | SKÅRBY 3:32 - Bygglov för<br>uppsättning av två bildväxlande<br>skyltar | BN-2025-<br>001203 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av två<br>bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 12. | VARLA 2:423 - Bygglov för<br>uppsättning av två bildväxlande<br>skyltar | BN-2025-<br>001366 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av två<br>bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 13. | MOSSEN 3:11 - Bygglov för<br>nybyggnad av mast med<br>teknikbod | BN-2025-<br>001159 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om uppförande av mast med<br>teknikbod.<br>Avgiften för beslutet är 18 083 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196 | 5 min |
+| 14. | VARLA 12:67 - Bygglov för<br>antennbärare för mobiltelefoni<br>(monopol) samt teknikskåp | BN-2025-<br>001119 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för antennbärare för<br>mobiltelefoni (monopol) samt teknikskåp.<br>Avgiften för beslutet är 18 083 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 15. | FINNAGÅRDEN 7:1 -<br>Bygglov för nybyggnad av<br>garage samt rivningslov | BN-2025-<br>000782 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om nybyggnad av garage.<br>Avgiften för beslutet är 8346 kronor.<br>Byggnadsnämnden beviljar rivningslov.<br>Avgiften för beslutet är 7 651 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 16. | SLÄPS-HAGEN 1:134 -<br>Bygglov för ändrad användning<br>av komplementbyggnad till<br>enbostadshus samt tillbyggnad | BN-2025-<br>000487 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av komplementbyggnad till<br>enbostadshus samt tillbyggnad.<br>Avgiften för beslutet är 22 952 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 
 <!-- sida 4 -->
 
@@ -83,28 +90,11 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 10. | KUNGSBACKA 4:64 -<br>Bygglov för uppsättning av fyra<br>bildväxlande skyltar | BN-2025-<br>001368 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av<br>fyra bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 11. | SKÅRBY 3:32 - Bygglov för<br>uppsättning av två bildväxlande<br>skyltar | BN-2025-<br>001203 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av två<br>bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 12. | VARLA 2:423 - Bygglov för<br>uppsättning av två bildväxlande<br>skyltar | BN-2025-<br>001366 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppsättning av två<br>bildväxlande skyltar.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 13. | MOSSEN 3:11 - Bygglov för<br>nybyggnad av mast med<br>teknikbod | BN-2025-<br>001159 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om uppförande av mast med<br>teknikbod.<br>Avgiften för beslutet är 18 083 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196 | 5 min |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(7)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 14. | VARLA 12:67 - Bygglov för<br>antennbärare för mobiltelefoni<br>(monopol) samt teknikskåp | BN-2025-<br>001119 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för antennbärare för<br>mobiltelefoni (monopol) samt teknikskåp.<br>Avgiften för beslutet är 18 083 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 15. | FINNAGÅRDEN 7:1 -<br>Bygglov för nybyggnad av<br>garage samt rivningslov | BN-2025-<br>000782 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om nybyggnad av garage.<br>Avgiften för beslutet är 8346 kronor.<br>Byggnadsnämnden beviljar rivningslov.<br>Avgiften för beslutet är 7 651 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 16. | SLÄPS-HAGEN 1:134 -<br>Bygglov för ändrad användning<br>av komplementbyggnad till<br>enbostadshus samt tillbyggnad | BN-2025-<br>000487 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av komplementbyggnad till<br>enbostadshus samt tillbyggnad.<br>Avgiften för beslutet är 22 952 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 
 <!-- sida 6 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3391498/1715764524001
 sha256: 688b4660c9fac56e1d581cde6fed2821cb346f905de6754abffcd7b448309c6d
 bytes: 226098
 sidor: 15
-hamtad: 2026-10-08T01:59:24+00:00
-konverterad: 2026-10-08T01:59:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:39:34+00:00
+konverterad: 2026-10-14T09:39:39+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -485,13 +485,17 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-02-02 | SE-2024-00052 |
 | 2.1.2 a<br>OSL 6 kap 3-6 §§<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med<br>förbehåll eller att inte<br>lämna ut en allmän<br>handling.<br>Beslut om<br>sekretessmarkering | Astrid Bayard<br>VC<br>Personalförsörjning<br>& Kundstöd | 2024-04-19 | SE-2024-00137 |
 | 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-03 | SE-2024-00072 |
+| 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-03 | SE-2024-00161 |
+| 2.1.7<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-03 | SE-2022-00354 |
+| 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-04 | SE-2023-00082 |
+| 2.1.9<br>Dataskyddsförordningen<br>GDPR artikel 37 | Utse<br>dataskyddsombud för<br>nämnden. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-07 | SE-2024-00178 |
 
 <!-- sida 13 -->
 
@@ -522,14 +526,6 @@ förvaltningen för Service förslag, och att nämnden för Service bifaller det
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-03 | SE-2024-00161 |
-| --- | --- | --- | --- | --- |
-| 2.1.7<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-03 | SE-2022-00354 |
-| 2.1.8<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvensbedömning<br>avseende dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-04 | SE-2023-00082 |
-| 2.1.9<br>Dataskyddsförordningen<br>GDPR artikel 37 | Utse<br>dataskyddsombud för<br>nämnden. | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-05-07 | SE-2024-00178 |
 
 <!-- sida 14 -->
 

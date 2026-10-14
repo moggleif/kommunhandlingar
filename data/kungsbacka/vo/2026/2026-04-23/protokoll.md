@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3487527419ddc981c03d0c90/1778506207
 sha256: 4847b4371c208ff8efec37b828607f973e8d83c053e0dd95f0c9ba942de93df2
 bytes: 435701
 sidor: 34
-hamtad: 2026-10-08T08:15:50+00:00
-konverterad: 2026-10-08T08:15:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:09:06+00:00
+konverterad: 2026-10-14T11:09:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -339,7 +339,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 58EC2C042D98C4D99C5ED9AC4E4CC6D5D13673F34C
 Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
 
-[Tabell 7-1](protokoll.tabeller/7-1.csv)
+[Tabell 7-8-1](protokoll.tabeller/7-8-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -351,6 +351,9 @@ Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
 | Ingela Hansson (S) |  | X |  |
 | Per Hoel (SD) |  | X |  |
 | Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 8 -->
 
@@ -362,13 +365,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 58EC2C042D98C4D99C5ED9AC4E4CC6D5D13673F34C
 Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
-
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
-
-| Bengt Alderin (C) | X |  |  |
-| --- | --- | --- | --- |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 9 -->
 
@@ -1081,7 +1077,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 58EC2C042D98C4D99C5ED9AC4E4CC6D5D13673F34C
 Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
 
-[Tabell 25-1](protokoll.tabeller/25-1.csv)
+[Tabell 25-26-1](protokoll.tabeller/25-26-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1094,6 +1090,8 @@ Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
 | Per Hoel (SD) |  | X |  |
 | Göran Ottosson (SD) |  | X |  |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 26 -->
 
@@ -1109,12 +1107,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 58EC2C042D98C4D99C5ED9AC4E4CC6D5D13673F34C
 Transaktionsidentitet: 597F0FF8F79C45D341CAE91BA95CBDC1464D8A6C5B
-
-[Tabell 26-1](protokoll.tabeller/26-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 27 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c174a0/176518287835
 sha256: da4074a13cb2641be230de873a1660a48b79b8144126eed2d9c267a0a51e6dc4
 bytes: 1401337
 sidor: 33
-hamtad: 2026-10-08T01:50:48+00:00
-konverterad: 2026-10-08T01:50:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:33:29+00:00
+konverterad: 2026-10-14T09:33:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [4, 5, 6, 7, 8, 9, 15, 16, 17, 18, 19]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -750,7 +750,7 @@ Mätare, koncentratorer mm kommer att byggas.
 | 5081VUTB Fjärås VV ökad<br>reserviarvolym | 47 750 000 | 15 000 000 |
 | Summa: | 55 750 000 | 29 350 000 |
 
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
+[Tabell 27-28-2](handlingar.tabeller/27-28-2.csv)
 
 | Projekt VA- ledningsnät | Budget enligt beslut i<br>januari nämnden för teknik<br>i januari 2024 i kronor | Nytt förslag till beslut i AU,<br>i kronor |
 | --- | --- | --- |
@@ -760,23 +760,7 @@ Mätare, koncentratorer mm kommer att byggas.
 | 5055 Reservvatten Varberg | 500 000 | 0 |
 | 5507 VUTB Reservvatten<br>Göteborg | 0 | 40 000 000 |
 | 5059 VUTB Digitala<br>Vattenmätare | 4 000 000 | 4 000 000 |
-
-<!-- sida 28 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-3515: Eftersom några projekt tros få ett lägre utfall än budgeterat, kan medel flyttas hit så projektet kan
-löpa i en omfattning som nästintill motsvarar behovet för att ha en långsiktigt hållbar anläggning.
-
-5507: Medel flyttas hit för att kunna genomföra de projekt som behövs för exploatering och VA-
-omvandlingsprojekt i Kullaviksområdet.
-550P: Projektet har gått snabbare och till lägre kostnad än planerat, färdigställs under 2025.
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
 | 5060 VUTN<br>Voxlöv/Björkris | 0 | 100 |
-| --- | --- | --- |
 | 550P VUTB Fjärås VV-<br>Hammerö<br>uppdimensionering vatten<br>etapp 2 | 56 000 000 | 0 |
 | 550Q VUTB Fjärås VV-<br>Hammerö<br>uppdimensionering vatten<br>etapp 3 | 1 000 000 | 5 000 000 |
 | 5077 VDUF Åtgärder<br>tillskottsvatten | 6 200 000 | 6 200 000 |
@@ -790,6 +774,18 @@ omvandlingsprojekt i Kullaviksområdet.
 | VUTB SPU195 inkl.<br>tryckledning (Anneberg-<br>KBA) | 0 | 12 360 000 |
 | VUTB VA utanför Släps-<br>Hagen 1:90 | 1 440 000 | 0 |
 | Summa | 128 785 000 | 182 680 000 |
+
+<!-- sida 28 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+3515: Eftersom några projekt tros få ett lägre utfall än budgeterat, kan medel flyttas hit så projektet kan
+löpa i en omfattning som nästintill motsvarar behovet för att ha en långsiktigt hållbar anläggning.
+
+5507: Medel flyttas hit för att kunna genomföra de projekt som behövs för exploatering och VA-
+omvandlingsprojekt i Kullaviksområdet.
+550P: Projektet har gått snabbare och till lägre kostnad än planerat, färdigställs under 2025.
 
 <!-- sida 29 -->
 
@@ -829,27 +825,49 @@ projektet.
 KUNGSBACKA  KOMMUN
 6 (9)
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+Projekt VA omvandling Budget enligt beslut i Nytt förslag till beslut i AU,
+januari nämnden för teknik i kronor
+i januari 2024 i kronor
+5565 VOMV VA utbyggnad 40 000 000 35 000 000
+Hagryd-Dala UT
 
-| Projekt VA omvandling | Budget enligt beslut i<br>januari nämnden för teknik<br>i januari 2024 i kronor | Nytt förslag till beslut i AU,<br>i kronor |
-| --- | --- | --- |
-| 5565 VOMV VA utbyggnad<br>Hagryd-Dala UT | 40 000 000 | 35 000 000 |
-| 5565 VOMV VA utbyggnad<br>Hagryd-Dala UT |  | -25 000 000 |
-| 5560 VOMV VA utbyggnad<br>Släps Högås UT | 67 045 000 | 50 000 000 |
-| 5560 VOMV VA utbyggnad<br>Släps Högås IN | -29 000 000 |  |
-| 5094 VOMV VA utbyggnad<br>405 Lerberg UT | 500 000 | 500 000 |
-| 5088 VOMV VA utbyggnad<br>401 Alafors UT | 500 000 | 0 |
-| 550G VOMV VA<br>utbyggnad 803 Kläppa UT | 100 000 | 0 |
-| 550I VOMV VA utbyggnad<br>Sönnebergen UT | 1 000 000 | 670 000 |
-| VA utbyggnad 504 Rygga<br>UT | 400 000 | 0 |
-| VOMV 305 Runsås UT | 500 000 | 700 000 |
-| VOMV 407 Voxlöv UT | 300 000 | 200 000 |
-| VOMV 513 Hanhals öster<br>om E6 UT | 400 000 | 1300 000 |
-| VOMV 103 Tollesbur syd<br>UT | 10 600 000 | 2 000 000 |
-| VOMV 107 Solberga UT | 300 000 | 0 |
-| VOMV 205 Altardalsvägen<br>UT | 17 600 000 | 2 000 000 |
-| VOMV 302 Lunden UT | 0 | 300 000 |
-| VOMV Lysholmsvägen UT | 0 | 100 000 |
+5565 VOMV VA utbyggnad            -25 000 000
+Hagryd-Dala UT
+
+5560 VOMV VA utbyggnad 67 045 000 50 000 000
+Släps Högås UT
+5560 VOMV VA utbyggnad -29 000 000
+Släps Högås IN
+
+5094 VOMV VA utbyggnad 500 000    500 000
+405 Lerberg UT
+
+5088 VOMV VA utbyggnad 500 000    0
+401 Alafors UT
+550G VOMV VA     100 000          0
+utbyggnad 803 Kläppa UT
+
+550I VOMV VA utbyggnad 1 000 000  670 000
+Sönnebergen UT
+
+VA utbyggnad 504 Rygga 400 000    0
+UT
+VOMV 305 Runsås UT 500 000        700 000
+
+VOMV 407 Voxlöv UT 300 000        200 000
+VOMV 513 Hanhals öster 400 000    1300 000
+om E6 UT
+
+VOMV 103 Tollesbur syd 10 600 000 2 000 000
+UT
+
+VOMV 107 Solberga UT 300 000      0
+VOMV 205 Altardalsvägen 17 600 000 2 000 000
+UT
+
+VOMV 302 Lunden UT 0              300 000
+
+VOMV Lysholmsvägen UT 0           100 000
 
 <!-- sida 31 -->
 
@@ -890,30 +908,48 @@ den tänkta tidplanen. Det pågår ett arbete med att ta fram en ny tidplan för
 KUNGSBACKA  KOMMUN
 8 (9)
 
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
+VEXP Bolsheden 1:9 IN -2 250 000
+VEXP Bolsheden 1:9 UT             500 000
 
-| VEXP Bolsheden 1:9 IN | -2 250 000 |  |
-| --- | --- | --- |
-| VEXP Bolsheden 1:9 UT |  | 500 000 |
-| VEXP Frillesås-Rya 3:77 IN |  |  |
-| VEXP Frillesås-Rya 3:77<br>UT |  | 200 000 |
-| VEXP Kungsbacka 6:8 IN |  |  |
-| VEXP Kungsbacka 6:8 UT | 20 000 |  |
-| VEXP Rågelund 1:127 IN |  |  |
-| VEXP Rågelund 1:127 UT |  | 5 000 000 |
-| VEXP Skårby 2:3 och 2:4<br>IN |  |  |
-| VEXP Skårby 2:3 och 2:4<br>UT |  | 500 000 |
-| VEXP Skällared 3:55 IN |  |  |
-| VEXP Skällared 3:55 UT |  | 300 000 |
-| VEXP Stockalid 1:4 och<br>1:39 IN | -5 000 000 |  |
-| VEXP Stockalid 1:4 och<br>1:39 UT | 5 000 000 |  |
-| VEXP Sydöstra centrum<br>etapp 1 IN |  |  |
-| VEXP Sydöstra centrum<br>etapp 1 UT | 2 000 000 | 2 000 000 |
-| VEXP Tölö 4:148 IN |  |  |
-| VEXP Tölö 4:148 UT | 1400 000 |  |
-| VEXP Tölöberg 2 & Tölö<br>1:17 IN |  |  |
-| VEXP Tölöberg 2 & Tölö<br>1:17 UT | 3 500 000 | 3 500 000 |
-| VEXP Varla 2:412 IN |  |  |
+VEXP Frillesås-Rya 3:77 IN
+VEXP Frillesås-Rya 3:77
+UT                                200 000
+
+VEXP Kungsbacka 6:8 IN
+
+VEXP Kungsbacka 6:8 UT 20 000
+VEXP Rågelund 1:127 IN
+
+VEXP Rågelund 1:127 UT            5 000 000
+VEXP Skårby 2:3 och 2:4
+IN
+
+VEXP Skårby 2:3 och 2:4
+UT                                500 000
+
+VEXP Skällared 3:55 IN
+VEXP Skällared 3:55 UT            300 000
+
+VEXP Stockalid 1:4 och -5 000 000
+1:39 IN
+VEXP Stockalid 1:4 och 5 000 000
+
+1:39 UT
+VEXP Sydöstra centrum
+etapp 1 IN
+
+VEXP Sydöstra centrum 2 000 000
+etapp 1 UT                        2 000 000
+VEXP Tölö 4:148 IN
+
+VEXP Tölö 4:148 UT 1400 000
+
+VEXP Tölöberg 2 & Tölö
+1:17 IN
+VEXP Tölöberg 2 & Tölö 3 500 000
+1:17 UT                           3 500 000
+
+VEXP Varla 2:412 IN
 
 <!-- sida 33 -->
 

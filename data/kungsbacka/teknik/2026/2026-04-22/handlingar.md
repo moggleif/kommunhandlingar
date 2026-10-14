@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63c8c56619d9a5b19c1f1/1776411562726
 sha256: 47156ef1a802f841000bd84c39b8ccc166ab8fa1c708a46d2116969a74192dd9
 bytes: 5951631
 sidor: 52
-hamtad: 2026-10-08T01:34:30+00:00
-konverterad: 2026-10-08T01:35:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:17:47+00:00
+konverterad: 2026-10-14T09:18:09+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8, 9, 10, 11, 23, 24]
-figurer: null
-tolkade: null
+figurer: [22, 30, 31, 34]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -510,30 +510,51 @@ För torghandel gäller särskild antagen avgiftstaxa
 
 <!-- sida 12 -->
 
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
+Underlagsrapport. Jämförelse -
+taxor för användande av
+allmän platsmark, 2025-11-01
 
-| Underlagsrapport. Jämförelse -<br>taxor för användande av<br>allmän platsmark, 2025-11-01 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Typ av upplåtelse | Nytt förslag? | Kungsbacka kommun | Mölndals kommun | Varbergs kommun | Falkenbergs<br>kommun | Halmstad kommun | Anteckningar |
-|  |  |  | Zon 1 Mölndals centrum - Zon 2 Mölndals stad |  |  |  |  |
-| Mobil matvagn eller foodtruck | 500 kr/månad<br>750 kr/månad ink el<br>300 kr/1-3 dagar<br>450 kr/1-3 dagar ink el | 500 kr/månad<br>3 0 0 k r / 1 - 3 d a g a r<br>Elkostnad 500 kr/månad |  | Högsäsong 13 407 kr<br>Lågsäsong 6 704 kr<br>Helår 20 111 kr<br>E l k o s t n a d t i l l k o m m e r | 1 5 0 0 kr/månad<br>2 0 0 0 k r/månad ink el<br>1 2 000 kr/år<br>1 6 0 0 0 k r / å r i n k e l | 4 3 5 k r o n o r /dag<br>1 7 4 3 k r o n o r / v e cka<br>5 2 2 9 k r o n or/kalendermånad<br>E l k o stnad tillkommer | S e ö v e r v i l l k o r e n f ö r<br>f o o d t r u c k s s a m t p l a t s e r |
-| Matvagn eller foodtruck, fast plats per år | 3800 kr/3 lpm plats/år<br>El tillkommer med faktisk<br>kostnad, elmätare (avser Lindens<br>torg att ta med i text i taxan) | 3800 kr/3 m plats/år | Food truck/matvagn får ställas upp på anvisade platser, mellan<br>vilka det är tillåtet att alternera, i mån av plats. Särskilda villkor<br>för food truck/matvagn gäller. Elanslutning och förbrukning<br>ingår ej. Zon 1 & 2: 19 781 kr/fordon/år |  |  |  | Avser Lindens torg |
-| Försäljningskiosker, bodar, pop-up-containers | 10 000 kr/år | 10 000 kr/år |  | Högsäsong 3 352 kr/månad | 1 5 0 0 kr/månad | 4 3 5 k r o n o r /dag |  |
-|  |  |  |  | Lågsäsong 2 235 kr/månad 16 | 2 000 kr/månad ink el | 1 7 4 3 k r o n o r / v e cka |  |
-|  |  |  |  | 759 kr/år | 12 000 kr//år | 5 2 2 9 k r o n or/kalendermånad |  |
-|  |  |  |  |  | 16 000 kr/år ink el | Elkostnad tillkommer |  |
-| Uteservering | 250 kr/m²/år<br>Stakethyra 200 kr/m | 250 kr/m²/år<br>Stakethyra 500 kr/m | Z o n 1 : 1 / 4 - 3 0 / 9 8 8 k r / m ² / m ån 1 /10-31/3 45 kr/m²/mån. Zon<br>2: 1/4 - 30/9 51 kr/m²/mån,1/10-31/3 25kr/m²/mån | Högsäsong (1 april - 30 sept)<br>67 kr/m²/månad Lågsäsong (1<br>okt - 31 mars) 34<br>kr/m²/månad (avgifter<br>för verksamhet utan<br>serveringstillstånd) | 80 kr/m²/månad juni-aug<br>(september - maj<br>avgiftsfria) | Högsäsong (1 april–30<br>september) 118 kr/m²/månad.<br>Lågsäsong (1 oktober- 31 mars)<br>60 kr/m²/månad | Höjdes 2005 till<br>n uvarande avgift |
-| Uthyrningsverksamhet, kajaker, surfbrädor mm, från<br>container eller bod | 500 kr/år | 500 kr/år |  | Friskvårdsaktivitet 0 kr.<br>62 kr/m²/månad | 2 0 0 kr/plats/dag<br>minimiavgift 500 kr | 93 kronor/m²/månad |  |
-| Tillfällig försäljning | 300 kr/tillfälle 1-3 dagar<br>500 kr/månad | 3 0 0 k r / t i l l f ä l l e 1 - 3 d a g a r<br>5 0 0 k r / m å n a d | Z o n 1 : m a x 1 5 m ² - 2 5 3 6 0 / å r m i n s t a b elopp 634 kr - per ytterligare 5<br>m ² 6 3 3 8 k r / å r Z o n 2 : 1 7 7 5 3 k r / å r 6 3 4 k r m i n s t a belopp - per<br>ytterligare 4438 kr/år | 1-3 dagar 467 kr/dag<br>1 676 kr per månad | 5 0 0 kr/månad | 436 kronor/dag<br>1 145 kronor/kalendermånad |  |
-| Julgransförsäljning | 500 kr/plats/år | 500 kr/plats | Zon 1 & 2: 634 kr/vecka | 874 kr/plats/vecka | 500 kr/plats/vecka | 977 kr/plats/vecka |  |
-| Trottoarpratare | 0 kr/år | 1000 kr/kalenderår | Zon 1: 1902 kr/ m²/år Zon 2: 1330 kr/m²/år | 874 kr/kalenderår | 150 kr/skylt/månad 1200<br>kr/skylt/år | 0 kronor | Polistillstånd krävs. |
-| Butiksexponering, skyltvaror utanför butik | 0 kr/år | 500 kr/år | Max 1,5 m djup -Zon 1: 1902 kr/ m²/år, Zon 2: 1330 kr/m²/år -<br>Max 1 m² - Zon 1: 381 kr/st/år, Zon 2: 254 kr/st/år | Varuställ 508 kr/kvm/år<br>Minsta avgift 874 kr/år | 5 0 k r / m ² / m ånad<br>500 kr/m²/år | 0 k r | Okej 75 cm från fasad<br>utan tillstånd |
-| Byggetablering - upplag, bod och byggställning | 25 kr/m²/påbörjad månad<br>Minimiavgift 500 kr | 20 kr/m²/påbörjad månad,<br>minimiavgift 500 kr | Zon 1: 761 kr/m²/år (minst 1 m²) Zon 2: 506 kr/m²/år (minst 1<br>m²) | 34 kr/m² och månad | 2 5 k r / m ² / p å b ö r j a d m å n a d<br>inom p-förbudszon<br>12 kr/m²/månad utanför p-<br>förbudszon | 3 1 kronor/m²/månad. Vid<br>a n v ä n d n i n g a v p a r k e r i n g s y ta<br>44 kr/m²/månad |  |
-| Minigolf, boule, varpa och liknande uthyrningsverksamheter | 2 kr/m²/år.<br>Minimiavgift 500 kr | 2 kr/m²/år. Minimiavgift 1000<br>kr |  |  |  |  |  |
-| Övriga upplåtelser | 10 kr/m²/år | 10 kr/m²/år |  |  |  |  |  |
-| Containeruppställning | 200 kr/st/påbörjad vecka<br>8000 kr/kalenderår | 2 0 0 k r / s t / p å b ö r j a d v e c ka | G e n e r e l l t k o r t a r e t i d - Zon 1: 16484 kr/år Zon 2: 11412 kr/år,<br>Bestämd plats längre tid Zon 1: 445 kr/plats/v, Zon 2: 317<br>kr/plats/v | 874 kr/påbörjad vecka | 30 kr/m²/vecka (60 kr/dag<br>uträknat) | 84 kronor/dag | Inte bra med generellt<br>tillstånd |
+Typ av upplåtelse    Nytt förslag? Kungsbacka kommun Mölndals kommun Varbergs kommun Falkenbergs Halmstad kommun Anteckningar
+kommun
+Zon 1 Mölndals centrum - Zon 2 Mölndals stad
+Mobil matvagn eller foodtruck 500 kr/månad 500 kr/månad         Högsäsong 13 407 kr 1 50 0 kr/månad 435 k r o n o r /dag S e ö v e r v i l l k o r e n f ö r
+750 kr/månad ink el 300 k r / 1 - 3 d a g a r Lågsäsong 6 704 kr 2 0 0 0 k r/månad ink el 1 7 43 k r o n o r / v e cka f o o d t r u c k s s a m t p l a t s e r
+300 kr/1-3 dagar Elkostnad 500 kr/månad    Helår 20 111 kr 12 000 kr/år 5 229 k r o n or/kalendermånad
+450 kr/1-3 dagar ink el                    E l k o s t n a d t i l l k o m m e r 16 000 k r / å r i n k e l E l k o stnad tillkommer
+Matvagn eller foodtruck, fast plats per år 3800 kr/3 lpm plats/år 3800 kr/3 m plats/år Food truck/matvagn får ställas upp på anvisade platser, mellan Avser Lindens torg
+El tillkommer med faktisk vilka det är tillåtet att alternera, i mån av plats. Särskilda villkor
+kostnad, elmätare (avser Lindens för food truck/matvagn gäller. Elanslutning och förbrukning
+torg att ta med i text i taxan) ingår ej. Zon 1 & 2: 19 781 kr/fordon/år
+Försäljningskiosker, bodar, pop-up-containers 10 000 kr/år 10 000 kr/år Högsäsong 3 352 kr/månad 1 500 kr/månad 435 k r o n o r /dag
+Lågsäsong 2 235 kr/månad 16 2 000 kr/månad ink el 1 7 43 k r o n o r / v e cka
+759 kr/år 12 000 kr//år 5 22 9 k r o n or/kalendermånad
+16 000 kr/år ink el Elkostnad tillkommer
+Uteservering         250 kr/m²/år 250 kr/m²/år Z o n 1 : 1 / 4 - 3 0 / 9 88 k r / m ² / m ån 1 /10-31/3 45 kr/m²/mån. Zon Högsäsong (1 april - 30 sept) 80 kr/m²/månad juni-aug Högsäsong (1 april–30 Höjdes 2005 till
+Stakethyra 200 kr/m Stakethyra 500 kr/m 2: 1/4 - 30/9 51 kr/m²/mån,1/10-31/3 25kr/m²/mån 67 kr/m²/månad Lågsäsong (1 (september - maj september) 118 kr/m²/månad. n uvarande avgift
+okt - 31 mars) 34 avgiftsfria) Lågsäsong (1 oktober- 31 mars)
+kr/m²/månad (avgifter 60 kr/m²/månad
+för verksamhet utan
+serveringstillstånd)
+Uthyrningsverksamhet, kajaker, surfbrädor mm, från 500 kr/år 500 kr/år Friskvårdsaktivitet 0 kr. 2 00 kr/plats/dag 93 kronor/m²/månad
+container eller bod                                             62 kr/m²/månad minimiavgift 500 kr
+Tillfällig försäljning 300 kr/tillfälle 1-3 dagar 3 0 0 k r / t i l l f ä l l e 1- 3 d a g a r Z o n 1 : m a x 15 m ² - 25 3 60/ å r m i n s t a b elopp 634 kr - per ytterligare 5 1-3 dagar 467 kr/dag 5 0 0 kr/månad 436 kronor/dag
+500 kr/månad 500 k r / m å n a d m ² 6 3 38 k r / å r Z o n 2 : 1 7 753 k r / å r 634 k r m i n s t a belopp - per 1 676 kr per månad 1 145 kronor/kalendermånad
+ytterligare 4438 kr/år
+Julgransförsäljning  500 kr/plats/år 500 kr/plats Zon 1 & 2: 634 kr/vecka 874 kr/plats/vecka 500 kr/plats/vecka 977 kr/plats/vecka
+Trottoarpratare      0 kr/år    1000 kr/kalenderår Zon 1: 1902 kr/ m²/år Zon 2: 1330 kr/m²/år 874 kr/kalenderår 150 kr/skylt/månad 1200 0 kronor Polistillstånd krävs.
+kr/skylt/år
+Butiksexponering, skyltvaror utanför butik 0 kr/år 500 kr/år Max 1,5 m djup -Zon 1: 1902 kr/ m²/år, Zon 2: 1330 kr/m²/år - Varuställ 508 kr/kvm/år 50 k r / m ²/ m ånad 0 k r Okej 75 cm från fasad
+Max 1 m² - Zon 1: 381 kr/st/år, Zon 2: 254 kr/st/år Minsta avgift 874 kr/år 500 kr/m²/år utan tillstånd
+Byggetablering - upplag, bod och byggställning 25 kr/m²/påbörjad månad 20 kr/m²/påbörjad månad, Zon 1: 761 kr/m²/år (minst 1 m²) Zon 2: 506 kr/m²/år (minst 1 34 kr/m² och månad 2 5 k r / m ²/ p å b ö r j a d m å n a d 31 kronor/m²/månad. Vid
+Minimiavgift 500 kr minimiavgift 500 kr m²)          inom p-förbudszon a n v ä n d n i n g a v p a r k e r i n g s y ta
+12 kr/m²/månad utanför p-44 kr/m²/månad
+förbudszon
+Minigolf, boule, varpa och liknande uthyrningsverksamheter 2 kr/m²/år. 2 kr/m²/år. Minimiavgift 1000
+Minimiavgift 500 kr kr
+Övriga upplåtelser   10 kr/m²/år 10 kr/m²/år
+Containeruppställning 200 kr/st/påbörjad vecka 2 00 k r / s t / p å b ö r j a d v e c ka G e n e r e l l t k o r t a r e t i d - Zon 1: 16484 kr/år Zon 2: 11412 kr/år, 874 kr/påbörjad vecka 30 kr/m²/vecka (60 kr/dag 84 kronor/dag Inte bra med generellt
+8000 kr/kalenderår    Bestämd plats längre tid Zon 1: 445 kr/plats/v, Zon 2: 317 uträknat) tillstånd
+kr/plats/v
 
 <!-- sida 13 -->
 
@@ -547,8 +568,8 @@ Skylift och mobilkran (och bygghiss) 20 kr/m²/påbörjad månad, 20 kr/m²/mån
 minimiavgift 500 kr 500 kr                 månad     inom p-förbudszon  300 kr/dag 1-3 dagar
 12 kr/m²/påbörjad månad
 utanför p-förbudszon
-Direkt avgränsade ytor för försäljning - serveringstält och 500 kr/månad 5 0 0 k r / m å n a d 13 kr/m²/dag minsta avgift 19 kr/m²/dag Avgift för foodtruck kan
-liknande, försäljning vid olika typer av tillställningar, 300 kr/1-3 dagar 3 0 0 k r / 1 - 3 d a g a r 8 7 4 k r /evenemang tillämpas annars 20
+Direkt avgränsade ytor för försäljning - serveringstält och 500 kr/månad 500 k r / m å n a d 13 kr/m²/dag minsta avgift 19 kr/m²/dag Avgift för foodtruck kan
+liknande, försäljning vid olika typer av tillställningar, 300 kr/1-3 dagar 3 0 0 k r / 1- 3 d a g a r 87 4 k r /evenemang tillämpas annars 20
 konserter med mm Radera                                                                      kr/m²/månad beroende
 på yta
 Paketbox, paketutlämningsskåp 5 000 kr/skåp eller box/år 500 kr/skåp/år 11 173 kr/skåp/år    MEX 5000 kr/box/år
@@ -1431,34 +1452,70 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6 (11)
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
+[Tabell 42-43-1](handlingar.tabeller/42-43-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 15 st beslut och datum för beslut<br>1384 2026-00062 Drottninggatan<br>1384 2026-00063 Drottninggatan<br>1384 2026-00064 Guldgubbegatan<br>1384 2026-00065 Drottninggatan<br>1384 2026-00066 Drottninggatan<br>1384 2026-00073 Södra Torggatan<br>1384 2026-00074 Södra Torggatan<br>1384 2026-00075 Storgatan<br>1384 2026-00076 Storgatan<br>1384 2026-00077 Södra Torggatan<br>1384 2026-00078 Storgatan<br>1384 2026-00079 Kungsbacka torg<br>1384 2026-00080 Storgatan<br>1384 2026-00081 Kyrkogatan<br>1384 2026-00082 Kyrkogatan |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 1st beslut och datum för beslut<br>1384 2026-00069 Borgmästareplatsen |
+|  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
+| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker | 1st beslut,<br>1384 2026-00085 Tingbergsvägen |
+| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare | Totalt under mars månad:<br>- Kontrollavgifter, totalt 161 st<br>- Parkeringsanmärkning: totalt 509 |
 
 <!-- sida 43 -->
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7 (11)
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-|  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker | 1st beslut,<br>1384 2026-00085 Tingbergsvägen |
-| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare | Totalt under mars månad:<br>- Kontrollavgifter, totalt 161 st<br>- Parkeringsanmärkning: totalt 509 |
-
 <!-- sida 44 -->
 
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 13 beslut och datum
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för TE-TA 2026-000033 2026-03-02
+Vc Trafik &
+beräknade kostnader för återställande av kommunens
+TE-TA 2026-000036 2026-03-06
+Ordningslagen 3 kap. 4 §                                     Utemiljö
+anläggningar
+TE-TA 2026-000038 2026-03-16
+Plan och Bygglagen 6 Kap. 21 §                               Ec drift Gata
+TE-TA 2026-000049 2026-03-16
+Ec Anläggning
+& Utveckling TE-TA 2026-000039 2026-03-17
+TE-TA 2026-000041 2026-03-17
+Samordnare
+TE-TA 2026-000042 2026-03-17
+TE-TA 2026-000052 2026-03-18
+TE-TA 2026-000058 2026-03-24
+TE-TA 2026-000056 2026-03-25
+TE-TA 2026-000063 2026-03-25
+TE-TA 2026-000061 2026-03-30
+TE-TA 2026-000006 2026-03-17
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 18 beslut och datum
+AFS 1999:3 49 § 81 § (a-e)                                   Vc Trafik & TE-TA 2026-000028 2026-03-02
+Ordningslagen 3 kap. 4 §                                     Utemiljö  TE-TA 2026-000019 2026-03-31
+Ec drift Gata TE-TA 2026-000034 2026-03-03
+Ec Anläggning
+TE-TA 2026-000035 2026-03-03
+& Utveckling
+TE-TA 2026-000044 2026-03-16
+Samordnare
+TE-TA 2026-000045 2026-03-16
+TE-TA 2026-000047 2026-03-16
+TE-TA 2026-000048 2026-03-16
+TE-TA 2026-000050 2026-03-16
+TE-TA 2026-000040 2026-03-18
+TE-TA 2026-000054 2026-03-24
+TE-TA 2026-000059 2026-03-24
+TE-TA 2026-000060 2026-03-25
+TE-TA 2026-000043 2026-03-26
+TE-TA 2026-000046 2026-03-26
+TE-TA 2026-000062 2026-03-27
+TE-TA 2026-000064 2026-03-27
+TE-TA 2026-000065 2026-03-27
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Beslut om parkeringstillstånd för
+(1998:1276)                                                  Färdtjänst- rörelsehindrad
+utredare Beviljade: 25
+Avslagna: 3
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8 (11)
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 13 beslut och datum<br>TE-TA 2026-000033 2026-03-02<br>TE-TA 2026-000036 2026-03-06<br>TE-TA 2026-000038 2026-03-16<br>TE-TA 2026-000049 2026-03-16<br>TE-TA 2026-000039 2026-03-17<br>TE-TA 2026-000041 2026-03-17<br>TE-TA 2026-000042 2026-03-17<br>TE-TA 2026-000052 2026-03-18<br>TE-TA 2026-000058 2026-03-24<br>TE-TA 2026-000056 2026-03-25<br>TE-TA 2026-000063 2026-03-25<br>TE-TA 2026-000061 2026-03-30<br>TE-TA 2026-000006 2026-03-17 |
-| --- | --- | --- | --- | --- |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 18 beslut och datum<br>TE-TA 2026-000028 2026-03-02<br>TE-TA 2026-000019 2026-03-31<br>TE-TA 2026-000034 2026-03-03<br>TE-TA 2026-000035 2026-03-03<br>TE-TA 2026-000044 2026-03-16<br>TE-TA 2026-000045 2026-03-16<br>TE-TA 2026-000047 2026-03-16<br>TE-TA 2026-000048 2026-03-16<br>TE-TA 2026-000050 2026-03-16<br>TE-TA 2026-000040 2026-03-18<br>TE-TA 2026-000054 2026-03-24<br>TE-TA 2026-000059 2026-03-24<br>TE-TA 2026-000060 2026-03-25<br>TE-TA 2026-000043 2026-03-26<br>TE-TA 2026-000046 2026-03-26<br>TE-TA 2026-000062 2026-03-27<br>TE-TA 2026-000064 2026-03-27<br>TE-TA 2026-000065 2026-03-27 |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 25<br>Avslagna: 3 |
 
 <!-- sida 45 -->
 
@@ -1482,14 +1539,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9
 
 2.4 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 83
+utredare Avslagna: 2
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 20
+utredare Delavslag: 1
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 10 (11)
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 83<br>Avslagna: 2 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 20<br>Delavslag: 1 |
 
 <!-- sida 47 -->
 
@@ -1514,7 +1575,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(5)
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
+[Tabell 48-52-1](handlingar.tabeller/48-52-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -1526,16 +1587,6 @@ Sida
 | 2026-03-25 | Yttrande Teknik - Uteservering Kba Servicebutik | TE-2026-00231 |
 | 2026-03-25 | Yttrande Teknik - Uteservering Masala Kungsmässan | TE-2026-00208 |
 | 2026-03-25 | Yttrande Teknik - Trubadur på uteservering | TE-2026-00198 |
-
-<!-- sida 49 -->
-
-Sida
-2(5)
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-03-25 | Yttrande Teknik - Uteservering Nanjia | TE-2026-00187 |
 | 2026-03-24 | Yttrande Teknik - Byggetablering Tingbergsvägen 3 | TE-2026-00205 |
 | 2026-03-24 | Yttrande Teknik - Uteservering NamNam | TE-2026-00181 |
@@ -1547,16 +1598,6 @@ Sida
 | 2026-03-23 | Yttrande Teknik – Transportsdispens TRV 2026/19837 | TE-2026-00219 |
 | 2026-03-20 | Yttrande Teknik – Transportdispens TRV 2026/18849 | TE-2026-00222 |
 | 2026-03-18 | Yttrande Teknik - Uteservering Cavaz Corner | TE-2026-00108 |
-
-<!-- sida 50 -->
-
-Sida
-3(5)
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-03-17 | Yttrande Teknik – Transportdispens TRV 2026/18761 | TE-2026-00206 |
 | 2026-03-31 | Yttrande Teknik - Förslag till nya bärighetsföreskrifter för Hallands län, TRV 2026/871 | TE-2026-00212 |
 | 2026-03-23 | Yttrande Teknik 2 - Rensning av dike, Ölmanäs 28:15, 9148-2025 | TE-2026-00094 |
@@ -1568,16 +1609,6 @@ Sida
 | 2026-03-12 | Yttrande Teknik - Enskild avloppsanläggning, Älvsåkers-Lindås 2:18, MH-2026-1051 | TE-2026-00193 |
 | 2026-03-24 | Yttrande Teknik - Teknisk anläggning, Duvehed 2:14, KS-2026-00161 | TE-2026-00185 |
 | 2026-03-09 | Yttrande Teknik Transportdispens TRV 2026/16238 | TE-2026-00179 |
-
-<!-- sida 51 -->
-
-Sida
-4(5)
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-03-06 | Yttrande Teknik - Anmäla installation av fettavskiljare, GRÄPPÅS 2:25 | TE-2026-00141 |
 | 2026-03-06 | Yttrande Teknik - Uteservering Dine Burger | TE-2026-00149 |
 | 2026-03-12 | Yttrande Teknik - Teknisk anläggning, Bukärr 5:10 och Bukärr 5:13, KS-2026-00193 | TE-2026-00176 |
@@ -1589,16 +1620,6 @@ Sida
 | 2026-03-09 | Yttrande Teknik - Synpunkt på parkering, tillfartsväg, sophantering mm, BN 2025-002703 | TE-2026-00153 |
 | 2026-03-09 | Yttrande Teknik - Synpunkter på vändplats, hämtning av hushållsavfall och kapacitet på VA-ledning, BN 2026-000067 | TE-2026-00146 |
 | 2026-03-10 | Yttrande Teknik - Synpunkter på in och utfarter och trafiksäkerhet, BN 2026-000151 | TE-2026-00137 |
-
-<!-- sida 52 -->
-
-Sida
-5(5)
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-03-11 | Yttrande Teknik - Synpunkter på VA, belysning, bredband, Dannebacka 2:18 | TE-2026-00134 |
 | 2026-03-10 | Yttrande Teknik - Synpunkter på parkering, angöringsplats mm. Kungsbacka 2:33, BN 2025-002666 | TE-2026-00129 |
 | 2026-03-04 | Yttrande Teknik - Dagvattenanläggning, Sågen 11, MH-2026-483 | TE-2026-00118 |
@@ -1607,3 +1628,23 @@ Sida
 | 2026-03-11 | Yttrande Teknik - Förfrågan om grannemedgivande tillbyggnad på MÅ 3:149 | TE-2026-00086 |
 | 2026-03-11 | Yttrande Teknik - grannemedgivande tillbyggnad på MÅ 3:152 | TE-2026-00080 |
 | 2026-03-11 | Yttrande Teknik - Detaljplan för bostäder och verksamheter inom Bukärr 1:30 och del av Nötegång 1:91, BN-2021-00020 | TE-2026-00076 |
+
+<!-- sida 49 -->
+
+Sida
+2(5)
+
+<!-- sida 50 -->
+
+Sida
+3(5)
+
+<!-- sida 51 -->
+
+Sida
+4(5)
+
+<!-- sida 52 -->
+
+Sida
+5(5)

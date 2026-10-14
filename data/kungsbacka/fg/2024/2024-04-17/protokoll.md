@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb60944520419/1713934693
 sha256: 3753d2b5b97c20b3250151fb69d832bc7dbcdd1aa88485ef8223b0d6b32d9512
 bytes: 485377
 sidor: 24
-hamtad: 2026-10-07T22:35:26+00:00
-konverterad: 2026-10-07T22:35:35+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:46:35+00:00
+konverterad: 2026-10-14T06:46:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -565,12 +565,24 @@ yrkande.
 
 Expedierat/bestyrkt
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
+[Tabell 14-15-1](protokoll.tabeller/14-15-1.csv)
 
 |  | Ersätter | Ja | Nej | Avstår |
 | --- | --- | --- | --- | --- |
 | Emanuel Forsell (M) |  | X |  |  |
 | Elin Hysén (L) |  | X |  |  |
+| Johan Tolinsson (S) |  |  | X |  |
+| Paul Blomdahl (M) |  | X |  |  |
+| Mia Sundvall (M) |  | X |  |  |
+| Per Stenberg (M) |  | X |  |  |
+| Sofia Hansen (M) |  | X |  |  |
+| Helen Thylin (S) |  |  | X |  |
+| Anna-Karin Granberg (SD) |  |  | X |  |
+| Susanne Andersson (SD) |  |  | X |  |
+| Peter Lundin (C) |  | X |  |  |
+| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
+| Anette Stockhaus (S) | Jan-Christer Jansson<br>(V) |  | X |  |
+| Summa |  | 8 | 5 |  |
 
 <!-- sida 15 -->
 
@@ -595,22 +607,6 @@ Verksamhetschef PO Söder, Rektor dagbarnvårdare samt övriga förskolerektorer
 Åsa och Utvecklingsledare Lokaler FG
 
 Expedierat/bestyrkt
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| Johan Tolinsson (S) |  |  | X |  |
-| --- | --- | --- | --- | --- |
-| Paul Blomdahl (M) |  | X |  |  |
-| Mia Sundvall (M) |  | X |  |  |
-| Per Stenberg (M) |  | X |  |  |
-| Sofia Hansen (M) |  | X |  |  |
-| Helen Thylin (S) |  |  | X |  |
-| Anna-Karin Granberg (SD) |  |  | X |  |
-| Susanne Andersson (SD) |  |  | X |  |
-| Peter Lundin (C) |  | X |  |  |
-| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
-| Anette Stockhaus (S) | Jan-Christer Jansson<br>(V) |  | X |  |
-| Summa |  | 8 | 5 |  |
 
 <!-- sida 16 -->
 
@@ -800,13 +796,24 @@ Med åtta ja-röster och fem nej-röster beslutar nämnden att avslå initiative
 
 Expedierat/bestyrkt
 
-[Tabell 19-1](protokoll.tabeller/19-1.csv)
+[Tabell 19-20-1](protokoll.tabeller/19-20-1.csv)
 
 |  | Ersätter | Ja | Nej | Avstår |
 | --- | --- | --- | --- | --- |
 | Emanuel Forsell (M) |  | X |  |  |
 | Elin Hysén (L) |  | X |  |  |
 | Johan Tolinsson (S) |  |  | X |  |
+| Paul Blomdahl (M) |  | X |  |  |
+| Mia Sundvall (M) |  | X |  |  |
+| Per Stenberg (M) |  | X |  |  |
+| Sofia Hansen (M) |  | X |  |  |
+| Helen Thylin (S) |  |  | X |  |
+| Anna-Karin Granberg (SD) |  |  | X |  |
+| Susanne Andersson (SD) |  |  | X |  |
+| Peter Lundin (C) |  | X |  |  |
+| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
+| Anette Stockhaus (S) | Jan-Christer Jansson<br>(V) |  | X |  |
+| Summa |  | 8 | 5 |  |
 
 <!-- sida 20 -->
 
@@ -819,21 +826,6 @@ Reservation
 Johan Tolinsson (S) reserverar sig till förmån för eget yrkande.
 
 Expedierat/bestyrkt
-
-[Tabell 20-1](protokoll.tabeller/20-1.csv)
-
-| Paul Blomdahl (M) |  | X |  |  |
-| --- | --- | --- | --- | --- |
-| Mia Sundvall (M) |  | X |  |  |
-| Per Stenberg (M) |  | X |  |  |
-| Sofia Hansen (M) |  | X |  |  |
-| Helen Thylin (S) |  |  | X |  |
-| Anna-Karin Granberg (SD) |  |  | X |  |
-| Susanne Andersson (SD) |  |  | X |  |
-| Peter Lundin (C) |  | X |  |  |
-| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
-| Anette Stockhaus (S) | Jan-Christer Jansson<br>(V) |  | X |  |
-| Summa |  | 8 | 5 |  |
 
 <!-- sida 21 -->
 

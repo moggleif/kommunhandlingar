@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.854733918f0f90cf893264/171411706596
 sha256: 1f164b235ed650c77400c71a2bd025c7632a22b7d9bba0a0a8e0acd00262a6f1
 bytes: 188852
 sidor: 15
-hamtad: 2026-10-08T01:59:18+00:00
-konverterad: 2026-10-08T01:59:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:39:28+00:00
+konverterad: 2026-10-14T09:39:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -317,7 +317,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
+[Tabell 8-11-1](protokoll.tabeller/8-11-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -326,6 +326,30 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | (Kommunstyrelsens<br>förvaltning)<br>(Tjänsteskrivelse)<br>Svar på motion från Susanne<br>Andersson (SD) m.fl. om<br>separata herr- och<br>damtoaletter | 2024-03-14 | SE-2023-00159 | Beredning av motion -<br>Prioritera separerade<br>herr- och damtoaletter vid<br>om- och nybyggnation |
 | (Kommunstyrelsen)<br>(Beslut 2024-03-19 § 74)<br>Godkännande av<br>uppföljningsrapport av intern<br>kontroll 2023 för<br>Kungsbacka kommun | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
 | Kommunstyrelsens<br>förvaltning -<br>Tjänsteskrivelse<br>Internkontrollrapport 2023 | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
+| Uppföljningsrapport intern<br>kontroll 2023, Kungsbacka<br>kommun | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
+| (Nämnden för Vård &<br>Omsorg) (Beslut § 41)<br>Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
+| Förvaltningen för Vård &<br>Omsorg Tjänsteskrivelse -<br>Årlig konkurrens-<br>utsättningsplan 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
+| (Vård & Omsorg) - Årsplan<br>för konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
+| Grundläggande<br>granskning 2023 -<br>Revisionsrapport (Följebrev) | 2024-04-03 | SE-2024-00125 | Grundläggande<br>granskning 2023 |
+| Grundläggande granskning<br>2023 – Rapport | 2024-04-03 | SE-2024-00125 | Grundläggande<br>granskning 2023 |
+| Revisionens grundläggande<br>granskning 2024 - (E-post) | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
+| Grundläggande granskning<br>2024 - Projektplan | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
+| (Kommunfullmäktige)<br>(Beslut § 51)<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
+| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
+| Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
+| (Kommunfullmäktige)<br>(Beslut - § 52)<br>Revisionsberättelse 2023 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
+| Kommunrevisionens<br>redogörelse för 2023 | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
+| Revisionsberättelse 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
+| (Kommunfullmäktige)<br>(Beslut § 59)<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Regler för fakturering och<br>kravhantering<br>(KF 2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Gemensamt reglemente för<br>kommunstyrelsen och<br>nämnder | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Reglemente för<br>Kommunstyrelsen<br>(2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Finansverksamhet -<br>Riktlinjer | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| Finansverksamhet -<br>Policy | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
+| (Kommunfullmäktige)<br>(Beslut § 60)<br>Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs av<br>privata utförare 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse<br>Program för mål, uppföljning<br>och insyn av verksamhet som<br>utförs av privata utförare<br>2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
+| Mål, uppföljning och insyn<br>av verksamhet som utförs av<br>privata utförare -<br>Program för 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
 
 <!-- sida 9 -->
 
@@ -338,20 +362,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 9-1](protokoll.tabeller/9-1.csv)
-
-| Uppföljningsrapport intern<br>kontroll 2023, Kungsbacka<br>kommun | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| (Nämnden för Vård &<br>Omsorg) (Beslut § 41)<br>Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
-| Förvaltningen för Vård &<br>Omsorg Tjänsteskrivelse -<br>Årlig konkurrens-<br>utsättningsplan 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
-| (Vård & Omsorg) - Årsplan<br>för konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård &<br>Omsorg |
-| Grundläggande<br>granskning 2023 -<br>Revisionsrapport (Följebrev) | 2024-04-03 | SE-2024-00125 | Grundläggande<br>granskning 2023 |
-| Grundläggande granskning<br>2023 – Rapport | 2024-04-03 | SE-2024-00125 | Grundläggande<br>granskning 2023 |
-| Revisionens grundläggande<br>granskning 2024 - (E-post) | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
-| Grundläggande granskning<br>2024 - Projektplan | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
-| (Kommunfullmäktige)<br>(Beslut § 51)<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
-
 <!-- sida 10 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          10 (15)
@@ -362,18 +372,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
-
-| Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| (Kommunfullmäktige)<br>(Beslut - § 52)<br>Revisionsberättelse 2023 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
-| Kommunrevisionens<br>redogörelse för 2023 | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
-| Revisionsberättelse 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023<br>för Kungsbacka kommun<br>och fråga om ansvarsfrihet |
-| (Kommunfullmäktige)<br>(Beslut § 59)<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| Regler för fakturering och<br>kravhantering<br>(KF 2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| Gemensamt reglemente för<br>kommunstyrelsen och<br>nämnder | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 
 <!-- sida 11 -->
 
@@ -394,16 +392,6 @@ nämnden för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| Reglemente för<br>Kommunstyrelsen<br>(2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| --- | --- | --- | --- |
-| Finansverksamhet -<br>Riktlinjer | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| Finansverksamhet -<br>Policy | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| (Kommunfullmäktige)<br>(Beslut § 60)<br>Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs av<br>privata utförare 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse<br>Program för mål, uppföljning<br>och insyn av verksamhet som<br>utförs av privata utförare<br>2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
-| Mål, uppföljning och insyn<br>av verksamhet som utförs av<br>privata utförare -<br>Program för 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för<br>mål, uppföljning och insyn<br>av verksamhet som utförs<br>av privata utförare 2024–<br>2027 |
 
 <!-- sida 12 -->
 

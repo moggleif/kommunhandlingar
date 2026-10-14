@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef92030d85/1774614191
 sha256: 0505aa6e931bcb626a32c9b6c6055445453435c01427074930ea27f3b19b1714
 bytes: 176249
 sidor: 2
-hamtad: 2026-10-08T01:43:06+00:00
-konverterad: 2026-10-08T01:43:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:25:59+00:00
+konverterad: 2026-10-14T09:26:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok]
+kvalitet_per_sida: [tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -35,19 +35,44 @@ Nämnden  för Tekniks arbetsutskott
 Sammanträde måndagen den 30 mars 2026 kl. 08:00
 Onsalarummet, Storgatan 37
 
+Ärende                Beteckning Förslag
+
+1\.  Godkännande av ärendelistan TE-2026- Justerare
+och val av justerare  00001     Ordinarie: Anders Eriksson (C)
+Ersättare: Erik Lindqvist (M)
+
+2\.  Lokala trafikföreskrifter - TE-2026- Nämnden för Tekniks arbetsutskott beslutar, med
+Håkullavägen          00160     stöd av 10 kap. 1 § trafikförordningen (1998:1276),
+att anta Kungsbacka kommuns lokala trafikföreskrift
+08:00 – 08:10                   med diarienummer 1384 2026-00067 om förbud att
+stanna och parkera på Håkullavägen.
+
+3\.  Beslut om svar på överklagan TE-2026- Identifierade möjliga beslut:
+från Trafikverket gällande 00243
+• Nämnden för Tekniks arbetsutskott beslutar
+hastighetsbegränsning på
+att avslå Trafikverkets begäran om
+Gåsevadsholmsvägen
+upphävning av lokal trafikföreskrift för
+Gåsevadsholmsvägen nummer 1384
+Föredragande: Emir Halalkic,
+2026:00068.
+08:10 – 08:25
+Alternativt,
+• Nämnden för Tekniks arbetsutskott bifaller
+Trafikverkets begäran om upphävning av
+lokal trafikföreskrift för
+Gåsevadsholmsvägen nummer 1384
+2026:00068.
+4\.  På gång i stadskärnan TE-2026-  Nämnden för Tekniks arbetsutskott noterar
+00010     informationen till protokollet.
+Föredragande: Emir Halalkic,
+08:25 – 08:40
+
 Simon Nissen                                                 Kungsbacka kommun
 Teknik Stöd & Styrning                                        434 81 Kungsbacka
 Direkt
 (e-post borttagen)                                      Besöksadress
-
-[Tabell 1-1](kallelse.tabeller/1-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 1. | Godkännande av ärendelistan<br>och val av justerare | TE-2026-<br>00001 | Justerare<br>Ordinarie: Anders Eriksson (C)<br>Ersättare: Erik Lindqvist (M) |
-| 2. | Lokala trafikföreskrifter -<br>Håkullavägen<br>08:00 – 08:10 | TE-2026-<br>00160 | Nämnden för Tekniks arbetsutskott beslutar, med<br>stöd av 10 kap. 1 § trafikförordningen (1998:1276),<br>att anta Kungsbacka kommuns lokala trafikföreskrift<br>med diarienummer 1384 2026-00067 om förbud att<br>stanna och parkera på Håkullavägen. |
-| 3. | Beslut om svar på överklagan<br>från Trafikverket gällande<br>hastighetsbegränsning på<br>Gåsevadsholmsvägen<br>Föredragande: Emir Halalkic,<br>08:10 – 08:25 | TE-2026-<br>00243 | Identifierade möjliga beslut:<br>• Nämnden för Tekniks arbetsutskott beslutar<br>att avslå Trafikverkets begäran om<br>upphävning av lokal trafikföreskrift för<br>Gåsevadsholmsvägen nummer 1384<br>2026:00068.<br>Alternativt,<br>• Nämnden för Tekniks arbetsutskott bifaller<br>Trafikverkets begäran om upphävning av<br>lokal trafikföreskrift för<br>Gåsevadsholmsvägen nummer 1384<br>2026:00068. |
-| 4. | På gång i stadskärnan<br>Föredragande: Emir Halalkic,<br>08:25 – 08:40 | TE-2026-<br>00010 | Nämnden för Tekniks arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 2 -->
 

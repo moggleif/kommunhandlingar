@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d401b3/174558741524
 sha256: 81eecb388a14c83ce8b10901541d232eb9c69c7a2b4022aa893c45720ed5a62e
 bytes: 6559481
 sidor: 89
-hamtad: 2026-10-07T23:26:38+00:00
-konverterad: 2026-10-07T23:26:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:31:25+00:00
+konverterad: 2026-10-14T07:31:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [18, 21, 22, 23, 26, 27, 28, 30, 32, 33, 35, 37, 38, 40, 42, 44, 46, 47, 49, 51, 71, 72, 73, 74, 75, 80, 81, 83]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -110,7 +110,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -118,6 +118,10 @@ KUNGSBACKA  KOMMUN
 |  | Paus 14:45-14:55 |  |  |
 | 6. | Nämndens årshjul läsåret 25/26<br>Kl 14:55-15:10<br>Frida Byrsten, verksamhetschef | FG-2025-00187 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 7. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:10-15:20<br>Frida Byrsten, verksamhetschef<br>Sarah von Zweibergk, utredare | FG-2024-00634 | Nämnden för Förskola & Grundskola avslår<br>ansökan från Kullaviks Montessoriskola<br>ekonomisk förening om permanent utökning av<br>barnantal på förskolan till totalt 104 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>att Kullaviks Montessoriskola ekonomisk<br>förening bedriver verksamhet med barnantal på<br>förskolan, Bångsbovägen 13, med upp till 96<br>barn.<br>Nämnden godkänner en tillfällig utökning till<br>102 barn fram till och med juli 2026. |
+| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
+| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
+| 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 11. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:30-15:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 4 -->
 
@@ -127,15 +131,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
-| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
-| 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 11. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:30-15:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -531,26 +526,45 @@ Kungsbacka kommun Riktlinje gällande ANDTS för kommunala förskolor och grunds
 
 <!-- sida 14 -->
 
+Hit kan du vända dig
+Kommunens föräldratelefon         0300-83 80 60
+Telefontider: tisdag 9–10, torsdag 15–16. Förälder i Kungsbacka | Kungsbacka kommun
+Mottagningsenheten Barn & unga i Kungsbacka 0300-83 48 89
+Stöd till barn och unga | Kungsbacka kommun
+Vändpunkten samtalsmottagning i Kungsbacka 0300-83 61 00
+kommun (alkohol, narkotika eller spel om Missbruk och beroende | Kungsbacka kommun
+pengar). Både vuxna och ungdomar kan få
+hjälp. Samt stöd till anhöriga, både enskilt och i
+grupp. För person under 20 år - kontakta
+Mottagningsenheten barn och unga för att
+ansöka om behandling.
+Ekonomisk rådgivning i Kungsbacka 0300-83 48 48
+
+Ekonomisk rådgivning | Kungsbacka kommun
+Kommunens samordnare för drogförebyggande 0300-83 49 57
+arbete (ANDTS)                    Drogförebyggande arbete | Kungsbacka
+kommun
+Socialjouren i Göteborg (utanför kontorstid) 031-365 87 00
+Föräldraföreningen mot narkotika i Göteborg 031-12 89 01
+FMN Göteborg (fmngoteborg.com)
+Spelberoendes förening Göteborg   031-704 14 41
+https://spelberoende.se/goteborg/
+Polis/Ambulans (akut situation samt pågående 112
+brott)
+Polis (för rådfrågning eller lämna tips) 114 14
+Tipsa polisen | Polismyndigheten
+Sjukvårdsrådgivning               1177
+
+Beroende och skadligt bruk - 1177
+Stödlinjen (för spelare och anhöriga) 020-81 91 00
+https://stodlinjen.se/
+Alkoholhjälpen                    020-84 44 48
+https://alkoholhjalpen.se/
+Sluta röka/snusa linjen (tobaks- och 020-84 00 00
+nikotinavvänjning)                Sluta-röka-linjen för dig som vill sluta med
+tobak (slutarokalinjen.se)
+
 Kungsbacka kommun Riktlinje gällande ANDTS för kommunala förskolor och grundskolor 8 (8)
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| Hit kan du vända dig |  |
-| --- | --- |
-| Kommunens föräldratelefon<br>Telefontider: tisdag 9–10, torsdag 15–16. | 0300-83 80 60<br>Förälder i Kungsbacka \| Kungsbacka kommun |
-| Mottagningsenheten Barn & unga i Kungsbacka | 0300-83 48 89<br>Stöd till barn och unga \| Kungsbacka kommun |
-| Vändpunkten samtalsmottagning i Kungsbacka<br>kommun (alkohol, narkotika eller spel om<br>pengar). Både vuxna och ungdomar kan få<br>hjälp. Samt stöd till anhöriga, både enskilt och i<br>grupp. För person under 20 år - kontakta<br>Mottagningsenheten barn och unga för att<br>ansöka om behandling. | 0300-83 61 00<br>Missbruk och beroende \| Kungsbacka kommun |
-| Ekonomisk rådgivning i Kungsbacka | 0300-83 48 48<br>Ekonomisk rådgivning \| Kungsbacka kommun |
-| Kommunens samordnare för drogförebyggande<br>arbete (ANDTS) | 0300-83 49 57<br>Drogförebyggande arbete \| Kungsbacka<br>kommun |
-| Socialjouren i Göteborg (utanför kontorstid) | 031-365 87 00 |
-| Föräldraföreningen mot narkotika i Göteborg | 031-12 89 01<br>FMN Göteborg (fmngoteborg.com) |
-| Spelberoendes förening Göteborg | 031-704 14 41<br>https://spelberoende.se/goteborg/ |
-| Polis/Ambulans (akut situation samt pågående<br>brott) | 112 |
-| Polis (för rådfrågning eller lämna tips) | 114 14<br>Tipsa polisen \| Polismyndigheten |
-| Sjukvårdsrådgivning | 1177<br>Beroende och skadligt bruk - 1177 |
-| Stödlinjen (för spelare och anhöriga) | 020-81 91 00<br>https://stodlinjen.se/ |
-| Alkoholhjälpen | 020-84 44 48<br>https://alkoholhjalpen.se/ |
-| Sluta röka/snusa linjen (tobaks- och<br>nikotinavvänjning) | 020-84 00 00<br>Sluta-röka-linjen för dig som vill sluta med<br>tobak (slutarokalinjen.se) |
 
 <!-- sida 15 -->
 

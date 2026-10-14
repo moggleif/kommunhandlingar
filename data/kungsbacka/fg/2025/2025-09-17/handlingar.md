@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92022c7/17581277695
 sha256: 27351794ed0f8563be8bf09235445449f3ea444bb8b14b7131551949c5d8e4ec
 bytes: 23422521
 sidor: 90
-hamtad: 2026-10-07T22:55:19+00:00
-konverterad: 2026-10-07T22:56:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:04:01+00:00
+konverterad: 2026-10-14T07:04:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [73]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [59, 73]
+figurer: [12, 54, 57, 59, 67, 68, 69, 70]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1455,22 +1455,57 @@ Delårsrapport augusti 2025
 
 4.2 Resursmått
 
+Namn         Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
+Kostnad per
+inskrivet barn i
+136 691    127 000    131 824
+pedagogisk
+omsorg
+Kostnad per
+inskrivet barn,
+168 505    175 173    183 671    184 293
+kommunal
+förskola
+Kostnad per
+inskrivet barn,
+46 373     48 538      48 258     49 784
+kommunalt
+fritidshem
+Kostnad per
+elev, anpassad 550 300   547 700    615 200
+grundskola
+Kostnad
+kommunal
+113 067    119 100    128 512    133 720
+grundskola åk
+1-9, kr/elev
+Kostnad för
+undervisning i
+kommunal      65 337     68 215      71 163     71 458
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lokaler i
+kommunal      19 080     21 239      23 130     27 849
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lärverktyg i
+kommunal       4 828      5 840      6 694      5 417
+grundskola åk
+1-9, kr/elev
+Kostnad för
+måltider i
+kommunal       7 520      6 721      6 995      7 605
+grundskola åk
+1-9, kr/elev
+Kostnad
+elevhälsa i
+kommunal       3 394      3 443      4 140      4 042
+grundskola åk
+1-9, kr/elev
+
 19
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-|  | Namn Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Kostnad per<br>inskrivet barn i<br>136 691 127 000 131 824<br>pedagogisk<br>omsorg |  |
-| Kostnad per<br>inskrivet barn,<br>168 505 175 173 183 671 184 293<br>kommunal<br>förskola |  |
-| Kostnad per<br>inskrivet barn,<br>46 373 48 538 48 258 49 784<br>kommunalt<br>fritidshem |  |
-| Kostnad per<br>elev, anpassad 550 300 547 700 615 200<br>grundskola |  |
-| Kostnad<br>kommunal<br>113 067 119 100 128 512 133 720<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>undervisning i<br>kommunal 65 337 68 215 71 163 71 458<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lokaler i<br>kommunal 19 080 21 239 23 130 27 849<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lärverktyg i<br>kommunal 4 828 5 840 6 694 5 417<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>måltider i<br>kommunal 7 520 6 721 6 995 7 605<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad<br>elevhälsa i<br>kommunal 3 394 3 443 4 140 4 042<br>grundskola åk<br>1-9, kr/elev |  |
 
 <!-- sida 36 -->
 
@@ -1479,28 +1514,81 @@ Delårsrapport augusti 2025
 
 4.3 Prestationsmått
 
+Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
+Årsarbetare i
+förskoleklass
+med
+91,8 %   96,6 %    93,6 %    88,3 %   93,8 %
+pedagogisk
+högskoleexa
+men
+Antal
+inskrivna
+barn per
+4,2       4,1      4,3       4,8      5,2
+personal,
+pedagogisk
+omsorg
+Barn per
+barngrupp i  11,8      12       12,6     11,9      12,2
+förskola
+Inskrivna
+elever per
+21       17,9      21,6     20,6      24,5
+årsarbetare i
+fritidshem
+Årsarbetare i
+fritidshem
+med
+42 %      42 %      43 %     47 %      49 %
+pedagogisk
+högskoleexa
+men
+Elever/lärare
+(årsarbetare)
+13,3     13,1      13,2     12,4      13
+i grundskola
+F-9
+Antal
+inskrivna
+barn per     4,6       4,6      4,5       4,6      4,7
+årsarbetare,
+förskola
+Barn 1-5 år,
+andel i     86,6 %   87,4 %    85,4 %    88,7 %   89,4 %
+förskola
+Elever
+folkbokf. i
+kommunen,
+11,9 %   16,9 %    17,8 %    18,8 %   18,9 %
+andel i
+fristående
+skola
+Andel
+förskolebarn 15 %     15 %      15 %     15 %      16 %
+i enskild regi
 20
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Årsarbetare i<br>förskoleklass<br>med<br>91,8 % 96,6 % 93,6 % 88,3 % 93,8 %<br>pedagogisk<br>högskoleexa<br>men |  |
-| Antal<br>inskrivna<br>barn per<br>4,2 4,1 4,3 4,8 5,2<br>personal,<br>pedagogisk<br>omsorg |  |
-| Barn per<br>barngrupp i 11,8 12 12,6 11,9 12,2<br>förskola |  |
-| Inskrivna<br>elever per<br>21 17,9 21,6 20,6 24,5<br>årsarbetare i<br>fritidshem |  |
-| Årsarbetare i<br>fritidshem<br>med<br>42 % 42 % 43 % 47 % 49 %<br>pedagogisk<br>högskoleexa<br>men |  |
-| Elever/lärare<br>(årsarbetare)<br>13,3 13,1 13,2 12,4 13<br>i grundskola<br>F-9 |  |
-| Antal<br>inskrivna<br>barn per 4,6 4,6 4,5 4,6 4,7<br>årsarbetare,<br>förskola |  |
-| Barn 1-5 år,<br>andel i 86,6 % 87,4 % 85,4 % 88,7 % 89,4 %<br>förskola |  |
-| Elever<br>folkbokf. i<br>kommunen,<br>11,9 % 16,9 % 17,8 % 18,8 % 18,9 %<br>andel i<br>fristående<br>skola |  |
-| Andel<br>förskolebarn 15 % 15 % 15 % 15 % 16 %<br>i enskild regi |  |
 
 <!-- sida 37 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2025
 
+Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
+Lärare med
+pedagogisk
+högskoleexa
+men i       85,9 %    87 %     88,6 %    90,2 %   92,7 %
+kommunal
+grundskola
+åk 1-9
+Årsarbetare i
+förskolan
+med
+48 %      47 %      48 %     47 %      48 %
+pedagogisk
+högskoleexa
+men
 4.4 Effektmått
 
 Namn                        Utfall Utfall  Utfall  Utfall Utfall
@@ -1539,13 +1627,6 @@ Andel (%) elever i åk. 9 som uppnått
 betygskriterierna i alla ämnen, 91,7 % 91,1 % 95,3 % 91,8 %
 fristående skolor
 21
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Lärare med<br>pedagogisk<br>högskoleexa<br>men i 85,9 % 87 % 88,6 % 90,2 % 92,7 %<br>kommunal<br>grundskola<br>åk 1-9 |  |
-| Årsarbetare i<br>förskolan<br>med<br>48 % 47 % 48 % 47 % 48 %<br>pedagogisk<br>högskoleexa<br>men |  |
 
 <!-- sida 38 -->
 
@@ -2114,7 +2195,7 @@ eleverna i ordinarie lovskola.
 
 Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 | Skola | Ämne | Betyg |
 | --- | --- | --- |
@@ -2122,27 +2203,7 @@ Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 | Hålabäcksskolan B | Matte | E |
 | Hålabäcksskolan B | Sva | E |
 | Hålabäcksskolan B | Sva | E |
-
-<!-- sida 51 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Beslutsunderlag
-Kvalitet & Utveckling, tjänsteskrivelse daterad 2025-09-10
-
-Beslutet skickas till
-
-Informationsärende nämnden Förskola & grundskola
-
-Stigert Pettersson            Håkan Kollberg Winsnes
-
-Förvaltningschef              Utvecklingsledare
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
 | Kapareskolan A-D | Bild | E |
-| --- | --- | --- |
 | Kapareskolan A-D | Hkk | E |
 | Kapareskolan A-D | Matematik | E |
 | Kapareskolan A-D | Svenska | E |
@@ -2169,6 +2230,22 @@ Förvaltningschef              Utvecklingsledare
 | Åsaskolan 7-9FI | Matte | E |
 | Åsaskolan 7-9FI | Matte | E |
 | Åsaskolan 7-9FI | Matte | E |
+
+<!-- sida 51 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Beslutsunderlag
+Kvalitet & Utveckling, tjänsteskrivelse daterad 2025-09-10
+
+Beslutet skickas till
+
+Informationsärende nämnden Förskola & grundskola
+
+Stigert Pettersson            Håkan Kollberg Winsnes
+
+Förvaltningschef              Utvecklingsledare
 
 <!-- sida 52 -->
 
@@ -3162,7 +3239,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 
 <!-- sida 77 -->
 
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
+[Tabell 77-90-1](handlingar.tabeller/77-90-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut | Beslutsdatum |
 | --- | --- | --- | --- | --- |
@@ -3206,13 +3283,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-04 09:48 | 221984 | A 4.1 | Beviljad | 20250814 |
 | 2025-08-04 13:08 | 222050 | A 4.1 | Beviljad | 20250814 |
 | 2025-08-05 12:48 | 222328 | A 4.1 | Beviljad | 20250814 |
-
-<!-- sida 78 -->
-
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
 | 2025-08-06 08:32 | 222497 | A 4.1 | Beviljad | 20250814 |
-| --- | --- | --- | --- | --- |
 | 2025-08-06 11:32 | 222564 | A 4.1 | Beviljad | 20250814 |
 | 2025-08-06 14:08 | 222606 | A 4.1 | Beviljad | 20250814 |
 | 2025-08-06 21:40 | 222732 | A 4.1 | Beviljad | 20250814 |
@@ -3253,13 +3324,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-04-04 14:08 | 197511 | A 4.1 | Beviljad | 20250815 |
 | 2025-04-04 14:08 | 197515 | A 4.1 | Beviljad | 20250815 |
 | 2025-04-06 17:08 | 197922 | A 4.1 | Beviljad | 20250815 |
-
-<!-- sida 79 -->
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
 | 2025-04-07 18:56 | 198374 | A 4.1 | Beviljad | 20250815 |
-| --- | --- | --- | --- | --- |
 | 2025-04-09 20:56 | 199183 | A 4.1 | Beviljad | 20250815 |
 | 2025-04-17 12:56 | 200990 | A 4.1 | Beviljad | 20250815 |
 | 2025-04-18 19:08 | 201200 | A 4.1 | Beviljad | 20250815 |
@@ -3300,13 +3365,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-05-15 08:32 | 206108 | A 4.1 | Avslag | 20250819 |
 | 2025-07-07 09:56 | 218101 | A 4.1 | Avslag | 20250819 |
 | 2025-07-24 16:08 | 220569 | A 4.1 | Avslag | 20250819 |
-
-<!-- sida 80 -->
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
 | 2025-08-12 13:16 | 223918 | A 4.1 | Avslag | 20250819 |
-| --- | --- | --- | --- | --- |
 | 2025-08-13 17:08 | 224332 | A 4.1 | Avslag | 20250819 |
 | 2025-08-13 22:08 | 224381 | A 4.1 | Avslag | 20250819 |
 | 2025-08-13 23:08 | 224386 | A 4.1 | Avslag | 20250819 |
@@ -3347,13 +3406,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-17 21:32 | 225348 | A 4.1 | Beviljad | 20250819 |
 | 2025-08-18 07:40 | 225420 | A 4.1 | Beviljad | 20250819 |
 | 2025-08-18 11:16 | 225704 | A 4.1 | Beviljad | 20250819 |
-
-<!-- sida 81 -->
-
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
-
 | 2025-08-18 11:32 | 225720 | A 4.1 | Beviljad | 20250819 |
-| --- | --- | --- | --- | --- |
 | 2025-08-18 11:32 | 225722 | A 4.1 | Beviljad | 20250819 |
 | 2025-08-18 20:48 | 226233 | A 4.1 | Beviljad | 20250819 |
 | 2025-08-19 06:32 | 226367 | A 4.1 | Beviljad | 20250819 |
@@ -3391,13 +3444,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-14 21:08 | 224721 | A 4.1 | Beviljad | 20250821 |
 | 2025-08-14 21:08 | 224722 | A 4.1 | Beviljad | 20250821 |
 | 2025-08-16 09:56 | 225029 | A 4.1 | Beviljad | 20250821 |
-
-<!-- sida 82 -->
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
 | 2025-08-16 16:08 | 225082 | A 4.1 | Beviljad | 20250821 |
-| --- | --- | --- | --- | --- |
 | 2025-08-16 21:40 | 225108 | A 4.1 | Beviljad | 20250821 |
 | 2025-08-16 21:40 | 225109 | A 4.1 | Beviljad | 20250821 |
 | 2025-08-17 11:40 | 225183 | A 4.1 | Beviljad | 20250821 |
@@ -3437,13 +3484,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-04-17 09:49 | 200833 | A 4.1 | Beviljad | 20250826 |
 | 2025-04-17 09:49 | 200837 | A 4.1 | Beviljad | 20250826 |
 | 2025-04-18 11:48 | 201147 | A 4.1 | Beviljad | 20250826 |
-
-<!-- sida 83 -->
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
 | 2025-04-18 11:48 | 201148 | A 4.1 | Beviljad | 20250826 |
-| --- | --- | --- | --- | --- |
 | 2025-08-22 16:08 | 227839 | A 4.1 | Beviljad | 20250826 |
 | 2025-08-26 09:16 | 228492 | A 4.1 | Beviljad | 20250826 |
 | 2025-08-26 09:16 | 228494 | A 4.1 | Beviljad | 20250826 |
@@ -3482,13 +3523,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-22 08:48 | 227660 | A 4.1 | Avslag | 20250828 |
 | 2025-08-22 08:48 | 227660 | A 4.1 | Avslag | 20250828 |
 | 2025-08-28 08:40 | 229062 | A 4.1 | Avslag | 20250828 |
-
-<!-- sida 84 -->
-
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
 | 2025-08-28 08:48 | 229063 | A 4.1 | Avslag | 20250828 |
-| --- | --- | --- | --- | --- |
 | 2025-03-20 16:08 | 193950 | A 4.1 | Avslag | 20250829 |
 | 2025-08-13 13:08 | 224244 | A 4.1 | Avslag | 20250829 |
 | 2025-08-19 23:24 | 226873 | A 4.1 | Avslag | 20250829 |
@@ -3529,13 +3564,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-04 22:08 | 222187 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-04 22:08 | 222188 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-08 10:24 | 223089 | A 4.1 | Beviljad | 20250901 |
-
-<!-- sida 85 -->
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
 | 2025-08-09 21:08 | 223293 | A 4.1 | Beviljad | 20250901 |
-| --- | --- | --- | --- | --- |
 | 2025-08-09 21:32 | 223294 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-10 21:48 | 223425 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-11 08:32 | 223483 | A 4.1 | Beviljad | 20250901 |
@@ -3574,13 +3603,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-18 15:08 | 225942 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-18 15:40 | 225989 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-18 15:48 | 225991 | A 4.1 | Beviljad | 20250901 |
-
-<!-- sida 86 -->
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
 | 2025-08-18 15:48 | 225994 | A 4.1 | Beviljad | 20250901 |
-| --- | --- | --- | --- | --- |
 | 2025-08-18 15:56 | 225998 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-18 16:16 | 226020 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-18 17:08 | 226069 | A 4.1 | Beviljad | 20250901 |
@@ -3621,13 +3644,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-20 13:08 | 227057 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-20 14:48 | 227113 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-20 15:08 | 227121 | A 4.1 | Beviljad | 20250901 |
-
-<!-- sida 87 -->
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
 | 2025-08-20 15:08 | 227122 | A 4.1 | Beviljad | 20250901 |
-| --- | --- | --- | --- | --- |
 | 2025-08-20 15:32 | 227144 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-20 15:32 | 227146 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-20 15:32 | 227148 | A 4.1 | Beviljad | 20250901 |
@@ -3663,13 +3680,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-08-26 00:00 | 0-20250826-<br>111310 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-26 00:00 | 0-20250826-<br>111310 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-26 00:00 | 0-20250826-<br>090635 | A 4.1 | Beviljad | 20250901 |
-
-<!-- sida 88 -->
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
 | 2025-08-26 00:00 | 0-20250826-<br>090635 | A 4.1 | Beviljad | 20250901 |
-| --- | --- | --- | --- | --- |
 | 2025-08-26 00:00 | 0-20250826-<br>111214 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-26 00:00 | 0-20250826-<br>111214 | A 4.1 | Beviljad | 20250901 |
 | 2025-08-26 00:08 | 228450 | A 4.1 | Beviljad | 20250901 |
@@ -3707,13 +3718,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-03-27 06:32 | 195450 | A 4.1 | Avslag | 20250903 |
 | 2025-08-14 18:56 | 224694 | A 4.1 | Avslag | 20250903 |
 | 2025-08-17 20:40 | 225327 | A 4.1 | Avslag | 20250903 |
-
-<!-- sida 89 -->
-
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
-
 | 2025-08-28 00:00 | 0-20250828-<br>154419 | A 4.1 | Avslag | 20250903 |
-| --- | --- | --- | --- | --- |
 | 2025-09-03 08:08 | 230527 | A 4.1 | Avslag | 20250903 |
 | 2025-03-21 09:56 | 194072 | A 4.1 | Beviljad | 20250903 |
 | 2025-03-24 13:24 | 194613 | A 4.1 | Beviljad | 20250903 |
@@ -3751,13 +3756,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-04-02 21:40 | 196966 | A 4.1 | Beviljad | 20250908 |
 | 2025-08-25 00:00 | 0-20250908-<br>153031 | A 4.1 | Beviljad | 20250908 |
 | 2025-09-08 00:00 | 0-20250908-<br>153832 | A 4.1 | Beviljad | 20250908 |
-
-<!-- sida 90 -->
-
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
-
 | 2025-09-08 00:00 | 0-20250908-<br>154417 | A 4.1 | Beviljad | 20250908 |
-| --- | --- | --- | --- | --- |
 | 2025-09-08 00:00 | 0-20250908-<br>092510 | A 4.1 | Beviljad | 20250908 |
 | 2025-07-16 11:32 | 219479 | A 4.1 | Avslag | 20250910 |
 | 2025-03-17 07:16 | 192501 | A 4.1 | Beviljad | 20250910 |
@@ -3775,3 +3774,29 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2025-09-08 00:32 | 231462 | A 4.1 | Beviljad | 20250910 |
 | 2025-09-08 20:08 | 231742 | A 4.1 | Beviljad | 20250910 |
 | 2025-09-10 00:00 | 0-20250910-<br>083015 | A 4.1 | Beviljad | 20250910 |
+
+<!-- sida 78 -->
+
+<!-- sida 79 -->
+
+<!-- sida 80 -->
+
+<!-- sida 81 -->
+
+<!-- sida 82 -->
+
+<!-- sida 83 -->
+
+<!-- sida 84 -->
+
+<!-- sida 85 -->
+
+<!-- sida 86 -->
+
+<!-- sida 87 -->
+
+<!-- sida 88 -->
+
+<!-- sida 89 -->
+
+<!-- sida 90 -->

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5ca69e5719c47cd9687cd05b/1771229065
 sha256: 141eb713935202b21e966072bfdc23447aa93fca5aece817e3fb6d9bd7aad924
 bytes: 21866559
 sidor: 194
-hamtad: 2026-10-08T02:14:09+00:00
-konverterad: 2026-10-08T02:15:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:53:18+00:00
+konverterad: 2026-10-14T09:54:39+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [134, 135, 140, 141, 142, 143, 144, 145, 146, 147, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [83, 134, 135, 140, 141, 142, 143, 144, 145, 146, 147, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185]
+figurer: [4, 5, 8, 14, 15, 19, 20, 21, 83, 89, 93, 112, 113, 155, 156]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -321,8 +321,9 @@ idrottshall är pausad till följd av en skollokalsutredning i Onsala.
 
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>1 298,1 | Utfall 2024<br>1 402,2 | Utfall 2025<br>1 449,3 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 1 298,1 | 1 402,2 | 1 449,3 |
 | Kostnader | -1 397,0 | -1 482,0 | -1 488,9 |
 | Netto | -98,9 | -79,8 | -39,6 |
 | Budget, netto | -78,0 | -71,1 | -118,6 |
@@ -330,8 +331,9 @@ idrottshall är pausad till följd av en skollokalsutredning i Onsala.
 
 [Tabell 10-2](handlingar.tabeller/10-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-316,6 | Utfall 2024<br>-237,3 | Utfall 2025<br>-163,8 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -316,6 | -237,3 | -163,8 |
 | Inkomster | 0 | 0 | 1,9 |
 | Netto | -316,6 | -237,3 | -161,9 |
 
@@ -2230,10 +2232,12 @@ indikerar ett stärkt förebyggande arbete.
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>25 | 2024<br>11 | 2025<br>14 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 25 | 11 | 14 |
 | Tillbud | 69 | 46 | 42 |
-| Olycksfall<br>Total | 95<br>189 | 89<br>146 | 58<br>114 |
+| Olycksfall | 95 | 89 | 58 |
+| Total | 189 | 146 | 114 |
 
 <!-- sida 47 -->
 
@@ -2395,40 +2399,53 @@ Nämndens årsredovisning 2025
 
 8.1 Uppföljning driftbudget
 
+Uppföljningsnivå                                          Budgetavvike
+Bokslut 2024 Budget 2025 Bokslut 2025
+(belopp i mkr)                                             lse 2025
+
+```osaker-tabell
+Gemensam verksamhet Intäkt       28,6      24,1      42,2       18,1
+                    Kostnad     -24,6      -30,3     -44,2     -13,9
+                    Netto         4,0      -6,1       -2,0       4,1
+Digitalt center     Intäkt       83,7      91,6      90,9       -0,7
+
+                    Kostnad     -87,9      -99,2     -97,6       1,6
+                    Netto        -4,2      -7,6       -6,7       0,9
+HR & Personalförsörjning Intäkt  29,8      36,6      35,6       -1,0
+
+                    Kostnad     -42,3      -42,8     -41,9       0,9
+                    Netto       -12,5      -6,2       -6,4      -0,2
+
+UKK                 Intäkt       18,8      23,5      25,3        1,8
+                    Kostnad     -42,0      -48,3     -46,6       1,7
+                    Netto       -23,3      -24,8     -21,3       3,5
+
+Inköp               Intäkt       33,2      31,4      32,1        0,7
+                    Kostnad     -37,0      -35,3     -37,1      -1,8
+                    Netto        -3,9      -3,9       -5,0      -1,1
+
+Måltider            Intäkt      238,7     240,8      241,1       0,3
+                    Kostnad     -249,5    -249,2    -245,2       4,0
+
+                    Netto       -10,7      -8,4       -4,2       4,2
+Lokalvård           Intäkt      137,3     137,4      139,1       1,7
+                    Kostnad      -134     -136,4    -133,1       3,3
+
+                    Netto         3,3       1,1       6,0        4,9
+Fastighet           Intäkt      894,0     920,6      921,0       0,4
+
+                    Kostnad     -903,4    -942,7    -910,3      32,4
+                    Netto        -9,4      -22,1     10,7       32,8
+Lokalförsörjning    Intäkt        2,9       2,1      11,3        9,2
+
+                    Kostnad     -26,0      -42,6     -22,2      20,4
+                    Netto       -23,1      -40,5     -10,9      29,6
+Ram                              71,1     118,6      118,6       0,0
+
+Summa                            -8,7       0,0      78,9       78,9
+```
+
 43
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Uppföljningsnivå<br>(belopp i mkr)<br>Gemensam verksamhet | Intäkt | Bokslut 2024<br>28,6 | Budget 2025<br>24,1 | Bokslut 2025<br>42,2 | Budgetavvike<br>lse 2025<br>18,1 |
-| --- | --- | --- | --- | --- | --- |
-|  | Kostnad | -24,6 | -30,3 | -44,2 | -13,9 |
-|  | Netto | 4,0 | -6,1 | -2,0 | 4,1 |
-| Digitalt center | Intäkt | 83,7 | 91,6 | 90,9 | -0,7 |
-|  | Kostnad | -87,9 | -99,2 | -97,6 | 1,6 |
-|  | Netto | -4,2 | -7,6 | -6,7 | 0,9 |
-| HR & Personalförsörjning | Intäkt | 29,8 | 36,6 | 35,6 | -1,0 |
-|  | Kostnad | -42,3 | -42,8 | -41,9 | 0,9 |
-|  | Netto | -12,5 | -6,2 | -6,4 | -0,2 |
-| UKK | Intäkt | 18,8 | 23,5 | 25,3 | 1,8 |
-|  | Kostnad | -42,0 | -48,3 | -46,6 | 1,7 |
-|  | Netto | -23,3 | -24,8 | -21,3 | 3,5 |
-| Inköp | Intäkt | 33,2 | 31,4 | 32,1 | 0,7 |
-|  | Kostnad | -37,0 | -35,3 | -37,1 | -1,8 |
-|  | Netto | -3,9 | -3,9 | -5,0 | -1,1 |
-| Måltider | Intäkt | 238,7 | 240,8 | 241,1 | 0,3 |
-|  | Kostnad | -249,5 | -249,2 | -245,2 | 4,0 |
-|  | Netto | -10,7 | -8,4 | -4,2 | 4,2 |
-| Lokalvård | Intäkt | 137,3 | 137,4 | 139,1 | 1,7 |
-|  | Kostnad | -134 | -136,4 | -133,1 | 3,3 |
-|  | Netto | 3,3 | 1,1 | 6,0 | 4,9 |
-| Fastighet | Intäkt | 894,0 | 920,6 | 921,0 | 0,4 |
-|  | Kostnad | -903,4 | -942,7 | -910,3 | 32,4 |
-|  | Netto | -9,4 | -22,1 | 10,7 | 32,8 |
-| Lokalförsörjning | Intäkt | 2,9 | 2,1 | 11,3 | 9,2 |
-|  | Kostnad | -26,0 | -42,6 | -22,2 | 20,4 |
-|  | Netto | -23,1 | -40,5 | -10,9 | 29,6 |
-| Ram |  | 71,1 | 118,6 | 118,6 | 0,0 |
-| Summa |  | -8,7 | 0,0 | 78,9 | 78,9 |
 
 <!-- sida 51 -->
 
@@ -2637,7 +2654,7 @@ Resultatområde Service
 | SE Fastigheter | -2,4 | +32,3 | +62,4 |
 | Totalt | -2,3 | 36,5 | 78,8 |
 
-[Tabell 54-2](handlingar.tabeller/54-2.csv)
+[Tabell 54-55-2](handlingar.tabeller/54-55-2.csv)
 
 | (Belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2647,6 +2664,15 @@ Resultatområde Service
 | Löpande investeringar | -18,5 | -34,0 | -17,3 | 16,7 |
 | Medfinansiering |  |  |  |  |
 | Reinvesteringar |  |  |  |  |
+| Övriga investeringar |  | -8,0 | 0 | 8,0 |
+| Finansiell leasing |  |  |  |  |
+| Summa investeringsutgifter | -18,5 | -42,0 | -17,3 | 24,7 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Löpande investeringar - statliga<br>investeringsbidrag |  |  | 1,9 | 1,9 |
+| Summa investeringsinkomster |  |  | 1,9 | 1,9 |
+| Summa nettoinvesteringar | -18,5 | -42,0 | -15,4 | 26,6 |
 
 <!-- sida 55 -->
 
@@ -2679,20 +2705,7 @@ Resultatområde Fastighet
 
 48
 
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Övriga investeringar |  | -8,0 | 0 | 8,0 |
-| --- | --- | --- | --- | --- |
-| Finansiell leasing |  |  |  |  |
-| Summa investeringsutgifter | -18,5 | -42,0 | -17,3 | 24,7 |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Löpande investeringar - statliga<br>investeringsbidrag |  |  | 1,9 | 1,9 |
-| Summa investeringsinkomster |  |  | 1,9 | 1,9 |
-| Summa nettoinvesteringar | -18,5 | -42,0 | -15,4 | 26,6 |
-
-[Tabell 55-2](handlingar.tabeller/55-2.csv)
+[Tabell 55-56-1](handlingar.tabeller/55-56-1.csv)
 
 | (Belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2700,6 +2713,16 @@ Resultatområde Fastighet
 | Exploatering gata/park |  |  |  |  |
 | Lokalinvesteringar | -146,6 | -284,6 | -79,4 | 205,2 |
 | Löpande investeringar | -13,6 | -8,2 | -7,4 | 0,8 |
+| Medfinansiering |  |  |  |  |
+| Reinvesteringar | -49,6 | -72,8 | -56,2 | 16,6 |
+| Övriga investeringar | -9,0 | -20,9 | -3,5 | 17,4 |
+| Finansiell leasing |  |  |  |  |
+| Summa investeringsutgifter | -218,8 | -386,5 | -146,5 | 240,0 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -218,8 | -386,5 | -146,5 | 240,0 |
 
 <!-- sida 56 -->
 
@@ -2739,20 +2762,6 @@ Stättareds gård.
 
 49
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Medfinansiering |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Reinvesteringar | -49,6 | -72,8 | -56,2 | 16,6 |
-| Övriga investeringar | -9,0 | -20,9 | -3,5 | 17,4 |
-| Finansiell leasing |  |  |  |  |
-| Summa investeringsutgifter | -218,8 | -386,5 | -146,5 | 240,0 |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -218,8 | -386,5 | -146,5 | 240,0 |
-
 <!-- sida 57 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -2763,7 +2772,7 @@ Specifikation projekt (belopp i miljoner kronor)
 
 50
 
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
+[Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
 
 | Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Utfall<br>totalt tom<br>dec 2025 | Budget<br>2025 | Bokslut<br>2025 | Avvik-<br>else 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2783,6 +2792,8 @@ Specifikation projekt (belopp i miljoner kronor)
 | 4910/<br>4911 | Gräskärr förskola | -106,8 | -106,8 | -0,8 | 0,8 | 0,0 | -0,8 |
 | 4926/<br>4927 | Kungsbacka Arena | -627,0 | -627,0 | -26,6 | -124,8 | -9,6 | 115,2 |
 | 4941/<br>4947 | Åsaberg BmSS<br>(boende med särskild<br>service) | -45,8 | -45,8 | -0,7 | 1,8 | -0,7 | -2,5 |
+| 461 P | Toråsskolan<br>reinvestering | -53,5 | -53,5 | -0,8 | -5,4 | -0,7 | 4,7 |
+| Summa projekt |  | -2 755,6 | -2 641,2 | -563,8 | -247,0 | -72,4 | 174,6 |
 
 <!-- sida 58 -->
 
@@ -2806,12 +2817,6 @@ under 2025 utrangerats eftersom det behovet inte ingår i gällande lokalplan.
 
 51
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
-| 461 P | Toråsskolan<br>reinvestering | -53,5 | -53,5 | -0,8 | -5,4 | -0,7 | 4,7 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Summa projekt |  | -2 755,6 | -2 641,2 | -563,8 | -247,0 | -72,4 | 174,6 |
-
 <!-- sida 59 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -2821,13 +2826,15 @@ Nämndens årsredovisning 2025
 
 52
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
+[Tabell 59-60-1](handlingar.tabeller/59-60-1.csv)
 
 | Globalt<br>mål | Beskrivning av förflyttning under 2025 |
 | --- | --- |
 | 3 | Mål 3 - God hälsa och välbefinnande<br>Service har aktivt deltagit i det kommunövergripande brottsförebyggande arbetet. Fastighet<br>deltar i samverkansmöten med BRÅ (brottsförebyggande rådet) och polisen och skapar<br>gemensamma lägesbilder och identifierar hur vi kan bidra med åtgärder som skapar tryggare<br>miljöer och goda förutsättningar att förebygga brott. Ett exempel är åtgärder i Parkeringshuset<br>Linden där ett staket har monterats för att motverka suicidincidenter samt skadegörelse<br>genom att människor inte kan kasta ned saker från taket.<br>Fastighet har under året fortsatt sitt arbete med att tillgängliggöra hjärtstartare utomhus vid<br>kommunens verksamhetslokaler. Nu finns totalt 65 hjärtstartare strategiskt utplacerade på<br>utsidan av kommunens lokaler, att jämföras med 49 för ett år sedan. |
 | 7 | Mål 7 - Hållbar energi för alla<br>Fastigheter har som mål att minska el- och fjärrvärmeförbrukning i sina lokaler med 2 % varje<br>år, ur både ett ekonomiskt och ekologiskt hållbarhetsperspektiv. Siffrorna för 2025 visar en<br>positiv trend: el har minskat med 5,6 % och fjärrvärmen med 3,3 % jämfört med föregående<br>år. Det innebär att verksamheten uppfyller de båda målen. Analysen visar att det samlade<br>utfallet framför allt påverkas av minskad förbrukning på Elof Lindälvs gymnasium och i<br>ishallarna, där det senare beror på färre veckor med isdrift.<br>Antalet solcellsinstallationer på våra fastigheter ökar stadigt, och idag har kommunen totalt 48<br>solcellsanläggningar som tillsammans täcker cirka 23 400 kvadratmeter takyta. Genom<br>nyinstallation av solceller på befintliga verksamhetsbyggnader har Fastighet ökat den<br>installerade solcellseffekten med 419 kW under året, vilket motsvarar en 10 % ökning av den<br>installerade effekten. |
 | 11 | Mål 11 - Hållbara städer och samhällen<br>Under 2025 har Service genomfört viktiga insatser för att stärka kommunens civila beredskap.<br>Arbetet har bland annat omfattat en förstudie kring robusta lokaler och trygghetspunkter,<br>etablering av en stab på förvaltningen, grundläggande utbildning i stabsarbete, översyn och<br>åtgärdande av brister i kommunens skyddsrum samt påbörjat arbete med<br>kontinuitetshantering. Samtliga dessa insatser skapar robusthet och gör att vi är bättre<br>förberedda vid kriser så att kommunens samhällsviktiga verksamheter ska kunna fortgå.<br>Ett exempel är att Måltider har intensifierat sitt beredskapsarbete för att även under en<br>samhällskris kunna förse verksamheten med mat. Genom bidragspengar från<br>Livsmedelsverket har fältkök köpts in, och kockar har fått utbildning i hur utrustningen fungerar<br>och ska hanteras.<br>Ett annat exempel är Kungsbacka Live, vår mötesplats för kommun, invånare, företagare och<br>föreningsliv. Under 2025 har temat varit demokrati och från den 20 november är temat<br>Trygghet och frihet, med fokus på civil beredskap och mänskliga rättighet. Sedan Kungsbacka<br>Live invigdes våren 2023 har rummet haft i snitt 1 300 besökare per månad med dialog och<br>delaktighet i fokus för viktiga frågor som skapar vårt gemensamma samhälle. |
+| 12 | Mål 12 - Hållbar konsumtion och produktion<br>Service arbetar fortsatt med cirkularitet och återbruk. En återbrukssamordnare har anställts<br>med ansvar att samordna kommunens interna återbruk av inventarier. Nu pågår arbetet med<br>att anpassa lokaler som ska fungera som depå för tillfällig mellanlagring av inventarier.<br>Namnet på verksamheten är Återtanken.<br>I rivningsprojekt har ett nytt sätt att utvärdera rivningsentreprenader tillämpats med syfte att<br>öka återbruk av byggmaterial och där leverantörer ges möjlighet att ta ansvar. Det nya sättet<br>att utvärdera på har varit framgångsrikt och arbetssättet har utvecklats i nya projekt.<br>Rivningen av kvarteret Gjutaren vann 2025 års anbudspris (av landets 17 000 upphandlingar<br>som görs). Det finns ett stort intresse från andra organisationer att lära sig hur Kungsbacka<br>har jobbat, och arbetssättet har också uppmärksammats nationellt.<br>Konsumentvägledningen ger oberoende stöd till invånare kring avtal, köp, reklamationer och<br>rättigheter. Genom rådgivningen ökar vi kunskapen om medvetna och hållbara<br>konsumtionsval. |
+| 13 | Mål 13 - Bekämpa klimatförändringarna<br>För livsmedel är Kungsbackas långsiktiga mål för klimatpåverkan maximalt 1,0 kg koldioxid<br>per kilo livsmedel 2030. Under 2024 hade vi en tillfällig uppgång (perioden januari till<br>september var 1,82), men under motsvarande period 2025 har vi hämtat hem det och landar<br>på 1,54. Det är en följd av att man har lagt om matsedeln för att få en budget i balans, där<br>maten har haft lägre klimatpåverkan.<br>Fastighet har under de senaste åren byggt ut laddpunkter på tomtytor vid verksamhetslokaler<br>för att ställa om kommunens fordonsflotta till att bli fossiloberoende. Totalt disponerar<br>verksamheten nu 233 laddpunkter, varav 18 av dessa är nya och har tagits i drift under 2025.<br>Under 2025 ökade andelen kilometer som körs med förnybara bränslen i kommunens fordon<br>med 4,3 procent. Vid årets slut ligger andelen på 91,3 procent, vilket innebär ett tydligt steg<br>mot målet om helt fossiloberoende transporter. |
 
 <!-- sida 60 -->
 
@@ -2835,12 +2842,6 @@ Nämnden för Service                              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
 53
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| 12 | Mål 12 - Hållbar konsumtion och produktion<br>Service arbetar fortsatt med cirkularitet och återbruk. En återbrukssamordnare har anställts<br>med ansvar att samordna kommunens interna återbruk av inventarier. Nu pågår arbetet med<br>att anpassa lokaler som ska fungera som depå för tillfällig mellanlagring av inventarier.<br>Namnet på verksamheten är Återtanken.<br>I rivningsprojekt har ett nytt sätt att utvärdera rivningsentreprenader tillämpats med syfte att<br>öka återbruk av byggmaterial och där leverantörer ges möjlighet att ta ansvar. Det nya sättet<br>att utvärdera på har varit framgångsrikt och arbetssättet har utvecklats i nya projekt.<br>Rivningen av kvarteret Gjutaren vann 2025 års anbudspris (av landets 17 000 upphandlingar<br>som görs). Det finns ett stort intresse från andra organisationer att lära sig hur Kungsbacka<br>har jobbat, och arbetssättet har också uppmärksammats nationellt.<br>Konsumentvägledningen ger oberoende stöd till invånare kring avtal, köp, reklamationer och<br>rättigheter. Genom rådgivningen ökar vi kunskapen om medvetna och hållbara<br>konsumtionsval. |
-| --- | --- |
-| 13 | Mål 13 - Bekämpa klimatförändringarna<br>För livsmedel är Kungsbackas långsiktiga mål för klimatpåverkan maximalt 1,0 kg koldioxid<br>per kilo livsmedel 2030. Under 2024 hade vi en tillfällig uppgång (perioden januari till<br>september var 1,82), men under motsvarande period 2025 har vi hämtat hem det och landar<br>på 1,54. Det är en följd av att man har lagt om matsedeln för att få en budget i balans, där<br>maten har haft lägre klimatpåverkan.<br>Fastighet har under de senaste åren byggt ut laddpunkter på tomtytor vid verksamhetslokaler<br>för att ställa om kommunens fordonsflotta till att bli fossiloberoende. Totalt disponerar<br>verksamheten nu 233 laddpunkter, varav 18 av dessa är nya och har tagits i drift under 2025.<br>Under 2025 ökade andelen kilometer som körs med förnybara bränslen i kommunens fordon<br>med 4,3 procent. Vid årets slut ligger andelen på 91,3 procent, vilket innebär ett tydligt steg<br>mot målet om helt fossiloberoende transporter. |
 
 <!-- sida 61 -->
 
@@ -4189,13 +4190,15 @@ planerar att arbeta med detta under 2026.
 |  |  | Informera om regler och<br>befintliga utbildningar |
 |  | Granskning av köp över<br>direktupphandlingsnivån<br>Service<br>(köpnivå 6) utanför<br>regelverket | Förtydligande av avrop<br>mot till exempel Adda |
 
-[Tabell 90-2](handlingar.tabeller/90-2.csv)
+[Tabell 90-91-2](handlingar.tabeller/90-91-2.csv)
 
 | Kategorier | Granskningsaktiviteter | Åtgärder |  |
 | --- | --- | --- | --- |
 | IT Informationssäkerhet,<br>administration, inköp... | Avtalsuppföljning enligt<br>gällande styrdokument | Påminn om utbildningar<br>om avtalshantering | Under 2026 behöver vi<br>påminna alla<br>verksamheter om<br>befintliga utbildningar via<br>APT eller<br>verksamhetsmöten. |
 |  | Uppföljning av<br>direktupphandlingar<br>(köpnivå 4–5) | Behov av ramavtal | Under 2026 kommer de<br>upphandlingar där vi har<br>noterat att ramavtal<br>saknas att lyftas in i<br>Inköps<br>upphandlingsplan.<br>Åtgärd gäller även för<br>uppföljning av köpnivå 6. |
 |  |  | Informera om regler och<br>befintliga utbildningar | Under 2026 behöver vi<br>informera alla<br>verksamheter om vikten<br>av korrekta inköp och<br>upphandlingar. Till<br>exempel genom att<br>påminna alla om<br>befintliga utbildningar via<br>APT och chefsbrevet. Vi<br>har också redan nu<br>påbörjat planering av<br>nano-utbildningar för<br>ytterligare ett sätt att<br>sprida information och<br>kunskap. Åtgärd gäller<br>även för uppföljning av<br>köpnivå 6. |
+|  | Granskning av köp över<br>direktupphandlingsnivån<br>(köpnivå 6) utanför<br>regelverket | Förtydligande av avrop<br>mot till exempel Adda | Under 2026 behöver vi<br>arbeta med att förtydliga<br>hur avropen mot till<br>exempel Adda ska gå till<br>för att säkerställa<br>korrekta inköp. Åtgärd<br>gäller även för<br>uppföljning av köpnivå<br>4–5. |
+|  |  |  |  |
 
 <!-- sida 91 -->
 
@@ -4237,13 +4240,6 @@ det även i den framgår att man ska stämma av med hållbarhetssamordnaren om d
 hållbarhetskrav i upphandlingen. Sedan tidigare finns ”ställ hållbarhetskrav” med i processkartan.
 
 14
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-| Kategorier | Granskningsaktiviteter | Åtgärder |  |
-| --- | --- | --- | --- |
-|  | Granskning av köp över<br>direktupphandlingsnivån<br>(köpnivå 6) utanför<br>regelverket | Förtydligande av avrop<br>mot till exempel Adda | Under 2026 behöver vi<br>arbeta med att förtydliga<br>hur avropen mot till<br>exempel Adda ska gå till<br>för att säkerställa<br>korrekta inköp. Åtgärd<br>gäller även för<br>uppföljning av köpnivå<br>4–5. |
-|  |  |  |  |
 
 <!-- sida 92 -->
 
@@ -4586,7 +4582,7 @@ Nämndens självskattning
 
 23
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Område | Frågor Svar 2025 |
 | --- | --- |
@@ -4602,18 +4598,6 @@ Nämndens självskattning
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-
-<!-- sida 101 -->
-
-Nämnden för Service                              Kungsbacka kommun
-Internkontrollrapport 2025
-
-24
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
-| Område | Frågor Svar 2025 |
-| --- | --- |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
 | Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
@@ -4621,6 +4605,13 @@ Internkontrollrapport 2025
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 101 -->
+
+Nämnden för Service                              Kungsbacka kommun
+Internkontrollrapport 2025
+
+24
 
 <!-- sida 102 -->
 

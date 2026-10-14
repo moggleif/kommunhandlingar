@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab2742/1789379545
 sha256: 87cee984c4e89508e6a67178f4b267a380660f6afd5be65d42bd2c8ae191a6d6
 bytes: 3644356
 sidor: 125
-hamtad: 2026-10-08T02:39:35+00:00
-konverterad: 2026-10-08T02:40:03+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:16:04+00:00
+konverterad: 2026-10-14T10:16:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -909,7 +909,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 9 (30)
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -917,15 +917,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.3.2 |  | Beslut om att, inom ramen för tilldelad budget, ingå avtal som inte<br>omfattas av upphandlingslagstiftningen | FC |  |
 | 2.3.3 | Nämndens beslut om nämndbudget och<br>Kungsbacka styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | FC |  |
 | 2.3.4 | Kommunens attestreglemente | Utse beslutsattestanter | FC |  |
-
-<!-- sida 24 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 10 (30)
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
 | 2.3.5 | Regler för kommunens likvidplanering,<br>krav- och inkassoverk-samhet och<br>kontanthantering | Beslut om att avskriva utestående fordringar upp till ett basbelopp<br>Beslut om att avskriva utestående fordringar om högst ett<br>basbelopp gentemot gäldenär avseende hyresskuld till IF | Biträdande FC<br>Biträdande FC |  |
-| --- | --- | --- | --- | --- |
 | 2.3.6 |  | Skadestånds- och ersättningsärenden, högst ett basbelopp | Biträdande FC |  |
 | 2.3.7 |  | Inhyrning, uthyrning och uppsägning av fastigheter, lokaler och<br>lägenheter | VC |  |
 | 2.3.8 |  | Ansöka om bidrag från statliga myndigheter | Ekonom<br>Controller |  |
@@ -935,6 +927,10 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.3.12 | Lagen om offentlig upphandling | Träffa avtal för förvaltningen i enlighet med av nämnden beslutade<br>entreprenader | Ordförande<br>FC |  |
 | 2.3.13 | 33 kap. 6 § SoL | Beslut om att helt eller delvis efterge ersättningsskyldighet enligt 8<br>kap. 1 § SoL avstå från ett krav på ersättning som avses i 32 kap. 2 §<br>första eller andra stycket eller 3 § första stycket eller 33 kap. 1 – 3 §§<br>SoL<br>- Över ett halvt prisbasbelopp<br>- Upp till ett halvt prisbasbelopp<br>- Upp till 1/6 prisbasbelopp | Utskott<br>VC<br>EC |  |
 | 2.3.14 | 33 kap. 4 § SoL | Beslut att väcka talan hos förvaltningsrätten om den enskilde inte<br>frivilligt betalar tillbaka ersättning som enskild inte återbetalar<br>frivilligt för ekonomiskt bistånd hjälp som avses i enlighet med 33 | Utskott |  |
+
+<!-- sida 24 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 10 (30)
 
 <!-- sida 25 -->
 
@@ -965,7 +961,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 12 (30)
 
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
+[Tabell 26-29-1](handlingar.tabeller/26-29-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -985,15 +981,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.5.14 | 29 kap. 10 § SoL | Begäran om överflyttning av ärende till nämnd i annan kommun | Förste s s |  |
 | 2.5.15 | 29 kap. 11 § SoL | Ansökan hos IVO om överflyttning av ärende | Utskott |  |
 | 2.5.16 | 29 kap. 10 § SoL | Meddela inställning i fråga om mottagande av ärende från annan<br>kommun | Förste s s |  |
-
-<!-- sida 27 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 13 (30)
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
 | 2.5.17 | 9 kap. 37 § KL | Ingå avtal om avtalssamverkan med annan kommun vid jäv i<br>individärende | Förste s s |  |
-| --- | --- | --- | --- | --- |
 | 2.5.18 | 11 § 8 p förordning om<br>belastningsregister<br>4 § 9 p förordning om misstankeregister | Begäran om utdrag ur belastningsregister och misstankeregister | Adm | I samband med utredning om<br>familjehem, kontaktfamilj,<br>kontaktperson och adoption samt<br>ärenden som rör barns vårdnad,<br>boende och umgänge, vid åtgärder<br>enligt LVU och LVM samt vid<br>utseende av särskild handläggare<br>vid verkställighet av<br>ungdomsövervakning |
 | 2.5.19 | 11§ LUL | På begäran från åklagare lämna yttrande i fråga om den som<br>misstänks för brott begånget före 18 års ålder | Soc sekr |  |
 | 2.5.20 | 6 och 9 §§ lag om särskild person-<br>utredning i brottmål | På begäran lämna upplysningar om en misstänkt och föreslå<br>behövliga åtgärder.<br>På begäran lämna upplysning om huruvida en utlänning som<br>riskerar utvisning på grund av brott har barn i Sverige och om<br>barnets behov av kontakt med utlänningen, hur kontakten varit och<br>hur den skulle påverkas av att utlänningen utvisas. | Soc sekr |  |
@@ -1005,15 +993,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.5.26 | 10 kap. 15 a § OSL | Beslut att inte lämna ut uppgift efter begäran från en annan<br>myndighet | Förste s s |  |
 | 2.5.27 | 31 kap 2 § 1 st BrB | Yttrande till rätten när den som begått brottslig gärning kan bli<br>föremål för LVM-vård | Förste s s |  |
 | 2.5.28 | 38 § LUL | Begäran hos åklagare om förande av bevistalan | Förste s s | För någon som misstänks för brott<br>före femton års ålder |
-
-<!-- sida 28 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 14 (30)
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
 | 2.5.29 | 16 kap 9 b § OSL | Lämna uppgifter till Kriminalvården för upprättande och uppföljning<br>av verkställighetsplan vid ungdomsövervakning | Soc sekr |  |
-| --- | --- | --- | --- | --- |
 | 2.5.30 | 15 kap. 4 § SoL | Lämna uppgift till annan myndighet om utbetalad ekonomisk hjälp | Förste s s |  |
 | 2.5.31 | 15 kap. 8 § SoL | Lämna uppgift till annan socialnämnd i kommunen om en person är<br>aktuell i ett ärende eller inte | Adm | Endast ja eller nej svar |
 | 2.5.32 | 15 kap. 7 § SoL | Lämna uppgift om en studerande som behövs för prövning av ett<br>ärende om avskiljande av denne från högskoleutbildning | Förste s s |  |
@@ -1028,6 +1008,20 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.5.41 | 17 a § 2 st. folkbokföringslagen | Yttrande till Skatteverket vid utredning av frågor om skyddad<br>folkbokföring eller sekretessmarkering i folkbokföringen | Soc sekr |  |
 | 2.5.42 | 32 c § folkbokföringslagen | Beslut att underrätta Skatteverket om oriktig uppgift i<br>folkbokföring | Förste s s |  |
 | 2.5.43 | BrB<br>10 kap 2 § OSL<br>10 kap. 18 - 24 §§ OSL | Beslut att lämna uppgifter om misstanke om vissa brott till<br>åklagarmyndighet, Polismyndigheten, Säkerhetspolisen eller någon<br>annan myndighet som har till uppgift att ingripa mot brottet | Förste s s | Ovillkorlig anmälningsskyldighet<br>föreligger inte. |
+| 2.5.44 | 10 kap. 2 § OSL<br>10 kap. 18 § OSL | Beslut om att polisanmäla brott mot den egna verksamheten. | EC |  |
+| 2.5.45 | 6 § bidragsbrottslagen | Beslut ifråga om polisanmälan av bidragsbrott | Förste s s |  |
+| 2.5.46 | 3 § lagen om<br>underrättelseskyldighet vid felaktiga<br>utbetalningar från välfärdssystemen | Beslut ifråga om underrättelse till annan myndighet vid<br>misstanke om felaktig utbetalning från välfärdssystemen | Förste s s |  |
+| 2.5.47 | 10 kap. 20 a § OSL | Beslut om att lämna uppgift om djur till kontrollmyndighet för<br>djurskydd eller Polismyndigheten | Förste s s | Uppgift får lämnas endast om det<br>bedöms att bristen inte kan<br>åtgärdas i samråd med den som<br>håller djuret |
+| 2.5.48 | 6 kap. 1 a § OSL | Beslut om förskottsbetalning vid begäran om att få ut en kopia av en<br>allmän handling | Biträdande FC |  |
+| 2.5.49 | 5 kap. 15 § Utlänningslagen | Ansökan om tidsbegränsat uppehållstillstånd | Förste s s |  |
+
+<!-- sida 27 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 13 (30)
+
+<!-- sida 28 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 14 (30)
 
 <!-- sida 29 -->
 
@@ -1035,32 +1029,14 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 15 (30)
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| 2.5.44 | 10 kap. 2 § OSL<br>10 kap. 18 § OSL | Beslut om att polisanmäla brott mot den egna verksamheten. | EC |  |
-| --- | --- | --- | --- | --- |
-| 2.5.45 | 6 § bidragsbrottslagen | Beslut ifråga om polisanmälan av bidragsbrott | Förste s s |  |
-| 2.5.46 | 3 § lagen om<br>underrättelseskyldighet vid felaktiga<br>utbetalningar från välfärdssystemen | Beslut ifråga om underrättelse till annan myndighet vid<br>misstanke om felaktig utbetalning från välfärdssystemen | Förste s s |  |
-| 2.5.47 | 10 kap. 20 a § OSL | Beslut om att lämna uppgift om djur till kontrollmyndighet för<br>djurskydd eller Polismyndigheten | Förste s s | Uppgift får lämnas endast om det<br>bedöms att bristen inte kan<br>åtgärdas i samråd med den som<br>håller djuret |
-| 2.5.48 | 6 kap. 1 a § OSL | Beslut om förskottsbetalning vid begäran om att få ut en kopia av en<br>allmän handling | Biträdande FC |  |
-| 2.5.49 | 5 kap. 15 § Utlänningslagen | Ansökan om tidsbegränsat uppehållstillstånd | Förste s s |  |
-
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
+[Tabell 29-30-1](handlingar.tabeller/29-30-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Anställa |  |  |
 | 2.6.1 | LAS, kollektivavtal, lönestruktur mm | Chefer direkt underställda förvaltningschefen<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | FC | Samråd med Au/presidiet under<br>rekryteringsprocessen och/eller innan<br>anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är<br>verkställighet.<br>Innefattar lönesättning enligt<br>Kungsbackas lönestruktur och samtliga<br>övriga anställningsvillkor. |
 | 2.6.2 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Respektive<br>chef | Tidsbegränsad anställning upp till och<br>med 6 månader är verkställighet. |
-
-<!-- sida 30 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 16 (30)
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 |  |  |  |  | Innefattar lönesättning enligt<br>Kungsbackas lönestruktur och samtliga<br>övriga anställningsvillkor.<br>Delegeringen gäller för anställning av<br>personal inom respektive chefs<br>ansvarsområde. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.6.3 | LAS § 7 | Uppsägning av personliga skäl. | VC | I samråd med HR på förvaltningen och<br>förhandlingschef |
 | 2.6.4 | LAS § 7 | Uppsägning på grund av arbetsbrist. | VC | I samråd med HR på förvaltningen |
@@ -1071,6 +1047,10 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 2.6.8 | AB § 10 mom 1-3 | Avstängning | VC | I samråd med HR på förvaltningen |
 | 2.6.9 | AB § 11 | Disciplinpåföljd - skriftlig varning. | VC | I samråd med HR på förvaltningen |
 
+<!-- sida 30 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 16 (30)
+
 <!-- sida 31 -->
 
 3 Verksamhet
@@ -1079,7 +1059,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 17 (30)
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
+[Tabell 31-33-1](handlingar.tabeller/31-33-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1091,15 +1071,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.1.6 | 23 kap. 2 § SoL | Beslut om uppföljning efter det att insats i form av placering i familjehem eller HVB har<br>upphört | Förste s s |  |
 | 3.1.7 | 31§ andra stycket<br>LUL | Beslut om att hos polisen begära utredning av brott avseende någon som inte har fyllt<br>femton år | Förste s s |  |
 | 3.1.8 | 9 § lag om<br>verkställighet av<br>ungdoms-<br>övervakning<br>7 § förordning om<br>verkställighet av<br>ungdomsövervaknin<br>g | Beslut att utse en särskild handläggare för ungdom som har dömts till<br>ungdomsövervakning | Förste s s |  |
-
-<!-- sida 32 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 18 (30)
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 | 3.1.9 | Fängelselagen 1<br>kap. 5 a § | Beslut att utse särskild handläggare för den som är intagen i anstalt och inte har fyllt 18 år | Förste ss |  |
-| --- | --- | --- | --- | --- |
 | 3.1.10 | 11 kap. 1 § SoL | Beslut om öppna insatser<br>- i egen regi<br>- i extern regi | Soc sekr<br>Förste s s | Innefattar sådana insatser som<br>tillhandahålls utan individuell<br>behovsprövning |
 | 3.1.11 | 11 kap. 1 § SoL<br>21 kap. 1 § SoL | -- För ett barn som har fyllt 15 år. Utan vårdnadshavarens samtycke<br>-- För ett barn som har fyllt 12 år men inte 15. Utan vårdnadshavarens samtycke | Förste s s<br>Förste s s | Om det är lämpligt och barnet<br>begär eller samtycker till det.<br>Om det är lämpligt och barnet<br>samtycker till det |
 | 3.1.12 | 11 kap. 1 § SoL<br>6 kap 13 a § FB | -- För barn under 12 år med endast den ene vårdnadshavarens samtycke | Utskott | Förutsatt samtycke från en av två<br>vårdnadshavare och att det krävs<br>med hänsyn taget till barnets<br>bästa |
@@ -1111,17 +1083,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.1.18 | 22 kap. 14 § SoL<br>13 c § LVU | Överväga om det finns skäl att ansöka om överflyttning av vårdnaden enligt 6 kap. 8 § FB | Utskott |  |
 | 3.1.19 | 22 kap. 2 § SoL<br>22 kap. 4 § SoL | Beslut om medgivande att ett barn tas emot för stadigvarande vård och fostran i enskilt<br>hem som inte tillhör någon av föräldrarna eller annan vårdnadshavare<br>Beslut om medgivande att barn tas emot i sådant enskilt hem som vid upprepade tillfällen<br>tar emot barn för tillfällig vård och fostran (jourhem) | Utskott<br>Utskott |  |
 | 3.1.20 | 11 kap. 1 § SoL | Beslut om särskilt kvalificerad kontaktperson i egen regi<br>- extern regi | Soc sekr<br>Förste ss |  |
-
-<!-- sida 33 -->
-
-3.2      Barn och unga – arvoden och ersättningar
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 19 (30)
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
 |  | 13 kap. 7 § SoL |  |  |  |
-| --- | --- | --- | --- | --- |
 | 3.1.21 | 11 kap. 1 § SoL | Beslut om insats i form av vård/vistelse i familjehem eller jourhem | Utskott |  |
 | 3.1.22 | 11 kap. 1 § SoL | Beslut om insats i form av vård/vistelse i HVB, stödboende eller skyddat boende<br>- de första fyra månaderna<br>- efter fyra månader | Förste s s<br>Utskott |  |
 | 3.1.23 | 12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdom för kostnad som har samband med<br>dennes placering i jourhem, familjehem, HVB eller stödboende med upp till 15 % av pbb | Soc sekr |  |
@@ -1132,7 +1094,17 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.1.28 | 106 kap. 6 och 7 §§<br>SFB | Beslut om framställan till Försäkringskassa om ändring av betalningsmottagare för<br>allmänt barnbidrag i samband med placering av barn och ungdom i enskilt hem,<br>stödboende eller HVB | Adm |  |
 | 3.1.29 | 2 kap 33 §<br>Studiestöds-<br>förordningen | Framställan till CSN om ändring av betalningsmottagare av studiehjälp | Adm |  |
 
-[Tabell 33-2](handlingar.tabeller/33-2.csv)
+<!-- sida 32 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 18 (30)
+
+<!-- sida 33 -->
+
+3.2      Barn och unga – arvoden och ersättningar
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 19 (30)
+
+[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1140,17 +1112,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.2.2 |  | Beslut om arvode och omkostnadsersättning till kontaktperson/-familj enligt norm och riktlinjer<br>samt särskilda engångsköp, högst 10% av pbb per år | Soc sekr |  |
 | 3.2.3 |  | -- Utöver norm och riktlinjer | Förste s s |  |
 | 3.2.4 |  | Beslut om ersättning till familjehem (arvode och omkostnadsersättning) enligt riktlinjer | Soc sekr | Se aktuellt cirkulär från SKL |
-
-<!-- sida 34 -->
-
-3.3      Lagen med särskilda bestämmelser om vård av unga (LVU)
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 20 (30)
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
 |  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | 3.2.5 |  | --upp till 30 % utöver riktlinjer | Förste s s |  |
 | 3.2.6 |  | Beslut om ersättning till familjehem (arvode och omkostnadsersättning) överstigande 30 %<br>utöver riktlinjer | Utskott |  |
 | 3.2.7 |  | Beslut om ersättning till familjehem (ersättning vid lönebortfall) | Förste s s |  |
@@ -1159,7 +1121,13 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.2.10 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare utöver beslut enligt 22 kap. 15 § SoL | Utskott |  |
 | 3.2.11 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende kontaktperson, kontaktfamilj,<br>familjehem, avlastningsfamilj, särskilt förordnad vårdnadshavare | Soc sekr |  |
 
-[Tabell 34-2](handlingar.tabeller/34-2.csv)
+<!-- sida 34 -->
+
+3.3      Lagen med särskilda bestämmelser om vård av unga (LVU)
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 20 (30)
+
+[Tabell 34-36-1](handlingar.tabeller/34-36-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1170,15 +1138,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.3.5 | 8 § LVU | Ansökan om förlängd tid för ansökan om vård eller fortsatt omhändertagande för tillfällig vård<br>hos förvaltningsrätten | Förste s s |  |
 | 3.3.6 | 8 § 2 p. och 9 a<br>§ LVU | Beslut om att till förvaltningsrätt ansöka om fortsatt omhändertagande enligt 6 a § LVU | Utskott |  |
 | 3.3.7 | 9 b § LVU | Beslut om att ett fortsatt omhändertagande för tillfällig vård enligt 9 a § LVU genast ska<br>upphöra | Utskott |  |
-
-<!-- sida 35 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 21 (30)
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
 | 3.3.8 | 11 § 1 st LVU | Beslut om hur vården ska ordnas och var den unge ska vistas under vårdtiden | Utskott | Om nämndens beslut inte kan<br>avvaktas får nämndens ordf eller<br>annan ledamot som nämnden har<br>förordnat besluta i frågan. |
-| --- | --- | --- | --- | --- |
 | 3.3.9 | 11 § 2 st LVU | Beslut om att den unge får vistas i sitt eget hem under vårdtiden | Utskott | Enl anm ovan |
 | 3.3.10 | 11 § 4 st LVU | Beslut om den unges personliga förhållanden i den mån beslutet inte är att hänföra till 11 § 1<br>och 2 st LVU | Förste s s | Får inte leda till att föräldrarna<br>fråntas allt inflytande |
 | 3.3.11 | 13 § 1 st LVU | Övervägande om vård med stöd av 2 § LVU fortfarande behövs | Utskott | Minst var sjätte månad |
@@ -1199,15 +1159,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.3.26 | 30 § 2 st LVU | Beslut om att ett tillfälligt flyttningsförbud enligt 27 § LVU ska upphöra | Utskott |  |
 | 3.3.27 | 31 § LVU | Beslut om hur den unges umgänge med föräldrar eller vårdnadshavare ska utövas efter<br>beslut om flyttningsförbud eller tillfälligt flyttningsförbud | Utskott |  |
 | 3.3.28 | 31 b § LVU | Beslut om att ansöka om utreseförbud hos förvaltningsrätten | Utskott |  |
-
-<!-- sida 36 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 22 (30)
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
 | 3.3.29 | 31 c § LVU | Beslut i fråga om fortsatt utreseförbud | Utskott | En prövning ska göras minst var<br>sjätte månad samt efter begäran<br>från den unge eller dennes<br>vårdnadshavare |
-| --- | --- | --- | --- | --- |
 | 3.3.30 | 31 d § LVU | Beslut om tillfälligt utreseförbud | Utskott | Om socialnämndens beslut om<br>tillfälligt utreseförbud inte kan<br>avvaktas, får nämndens<br>ordförande eller någon annan<br>ledamot som nämnden har<br>förordnat besluta om ett sådant<br>förbud. Beslutet ska anmälas vid<br>nämndens nästa sammanträde. |
 | 3.3.31 | 31 g § 2 st LVU | Beslut om att tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 3.3.32 | 31 i § LVU | Beslut om tillfälligt undantag från utreseförbud | Utskott |  |
@@ -1217,6 +1169,14 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.3.36 | 43 § 2 p LVU | Beslut att begära polishandräckning för att genomföra beslut om vård eller omhändertagande<br>med stöd av LVU | Utskott<br>Tjänsteman<br>enligt särskilt<br>förordnande<br>då utskottets<br>beslut inte<br>kan avvaktas | Bör anlitas endast då andra<br>lösningar inte är möjliga<br>Förordnande enligt separat beslut<br>med förteckning |
 | 3.3.37 | 30 kap. 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid domstol enligt LVU | Förste s s<br>Förvaltningsj<br>urist |  |
 | 3.3.38 | 14 a § 2 st LVU | Lämna uppgifter om enskilda som vårdas enligt LVU till Statens institutionsstyrelse | Soc sekr | Avser endast de uppgifter om den<br>enskilde som är relevanta för<br>uppföljningen, ej hela akten. |
+
+<!-- sida 35 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 21 (30)
+
+<!-- sida 36 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 22 (30)
 
 <!-- sida 37 -->
 
@@ -1228,7 +1188,7 @@ lagen
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 23 (30)
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1243,6 +1203,9 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.4.9 | 5 kap. 6 § LSB | Övervägande om beslut om umgänge eller hemlighållande av vistelseort enligt 5 kap. 4 §<br>LSB fortfarande behövs | Utskott |  |
 | 3.4.10 | 5 kap. 7 § LSB | Beslut att avvisa framställning om att beslut om hemlighållande av vistelseort eller<br>umgängesbegränsning ska upphöra | Soc sekr |  |
 | 3.4.11 | 7 kap. 1 § LSB | Beslut om att insats i form av skyddat boende för barn ska upphöra | Utskott |  |
+| 3.4.12 | 7 kap. 2 § LSB | Beslut att avvisa framställning om att insats enligt 3 kap. LSB ska upphöra | Soc sekr |  |
+| 3.4.13 | 8 kap. 7 § LSB | Beslut att begära polishandräckning för att genomföra beslut om skyddat boende enligt 3<br>kap. LSB eller om en omedelbar sådan insats enligt 4 kap. LSB | Utskott<br>Tjänsteman<br>enligt särskilt<br>förordnande<br>då utskottets<br>beslut inte<br>kan avvaktas | Förordnande för tjänsteman<br>återfinns i separat beslut |
+| 3.4.14 | 30 kap. 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid domstol enligt lag om<br>placering av barn i skyddat boende | Förste s s<br>Förvaltningsj<br>urist |  |
 
 <!-- sida 38 -->
 
@@ -1250,14 +1213,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 24 (30)
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| 3.4.12 | 7 kap. 2 § LSB | Beslut att avvisa framställning om att insats enligt 3 kap. LSB ska upphöra | Soc sekr |  |
-| --- | --- | --- | --- | --- |
-| 3.4.13 | 8 kap. 7 § LSB | Beslut att begära polishandräckning för att genomföra beslut om skyddat boende enligt 3<br>kap. LSB eller om en omedelbar sådan insats enligt 4 kap. LSB | Utskott<br>Tjänsteman<br>enligt särskilt<br>förordnande<br>då utskottets<br>beslut inte<br>kan avvaktas | Förordnande för tjänsteman<br>återfinns i separat beslut |
-| 3.4.14 | 30 kap. 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid domstol enligt lag om<br>placering av barn i skyddat boende | Förste s s<br>Förvaltningsj<br>urist |  |
-
-[Tabell 38-2](handlingar.tabeller/38-2.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1268,6 +1224,14 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.5.5 | 3 kap 5 § 2 st FB<br>3 kap. 6 § 2 st<br>FB<br>3 kap. 18 § FB<br>1 kap. 14 § FB | Beslut om att väcka och föra talan i mål om faderskap, föräldraskap eller moderskap | Förste s s |  |
 | 3.5.6 | 6 kap 19 § 3 st FB | Beslut om att utse utredare i vårdnads-, boende- och umgängesärenden | Förste s s |  |
 | 3.5.7 | 6 kap 19 § FB | Lämna upplysningar till allmän domstol eller till annan socialnämnd i vårdnads-, boende-<br>och umgängesärenden | Soc sekr |  |
+| 3.5.8 | 6 kap 20 § FB | Lämna upplysningar inför interimistiskt beslut i allmän domstol | Soc sekr |  |
+| 3.5.9 | 11 kap 16 § 2 st<br>FB | Yttrande till allmän domstol angående god man eller förvaltare | Förste s s |  |
+| 3.5.10 | 6 kap 14 a § 2 st<br>FB | Beslut om godkännande av avtal om boende | Soc sekr |  |
+| 3.5.11 | 6 kap 15 a § 3 st<br>FB | Beslut om godkännande av avtal om umgänge | Soc sekr |  |
+| 3.5.12 | 6 kap 6 § FB | Beslut om godkännande av avtal om vårdnad | Soc sekr |  |
+| 3.5.13 | 7 kap. 7 § 2 st. FB | Beslut om godkännande av avtal om att underhållsbidrag för framtiden ska betalas med ett<br>engångsbelopp eller för längre perioder än tre månader | Soc sekr |  |
+| 3.5.14 | 6 kap 15 c § 3 st<br>FB | Utse en viss person att medverka vid umgänget efter rättens beslut om umgängesstöd | Soc sekr |  |
+| 3.5.15 | 6 kap 15 c § 3 st<br>FB | Utse umgängesstöd som ges via extern vårdgivare | Förste s s |  |
 
 <!-- sida 39 -->
 
@@ -1279,18 +1243,6 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
-| 3.5.8 | 6 kap 20 § FB | Lämna upplysningar inför interimistiskt beslut i allmän domstol | Soc sekr |  |
-| --- | --- | --- | --- | --- |
-| 3.5.9 | 11 kap 16 § 2 st<br>FB | Yttrande till allmän domstol angående god man eller förvaltare | Förste s s |  |
-| 3.5.10 | 6 kap 14 a § 2 st<br>FB | Beslut om godkännande av avtal om boende | Soc sekr |  |
-| 3.5.11 | 6 kap 15 a § 3 st<br>FB | Beslut om godkännande av avtal om umgänge | Soc sekr |  |
-| 3.5.12 | 6 kap 6 § FB | Beslut om godkännande av avtal om vårdnad | Soc sekr |  |
-| 3.5.13 | 7 kap. 7 § 2 st. FB | Beslut om godkännande av avtal om att underhållsbidrag för framtiden ska betalas med ett<br>engångsbelopp eller för längre perioder än tre månader | Soc sekr |  |
-| 3.5.14 | 6 kap 15 c § 3 st<br>FB | Utse en viss person att medverka vid umgänget efter rättens beslut om umgängesstöd | Soc sekr |  |
-| 3.5.15 | 6 kap 15 c § 3 st<br>FB | Utse umgängesstöd som ges via extern vårdgivare | Förste s s |  |
-
-[Tabell 39-2](handlingar.tabeller/39-2.csv)
-
 | Nr | Lagrum/stöd |  | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | 3.6.1 | 24 kap, 1 § SoL | Beslut i fråga om medgivande till internationell adoption |  | Utskott |  |
@@ -1299,7 +1251,7 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.6.4 | 24 kap. 5 § SoL | Beslut att inte ge samtycke till att adoptionsförfarandet får fortsätta vid internationella<br>adoptioner |  | Utskott |  |
 | 3.6.5 | 4 kap 14 § FB | Genomföra adoptionsutredning |  | Soc sekr |  |
 
-[Tabell 39-3](handlingar.tabeller/39-3.csv)
+[Tabell 39-2](handlingar.tabeller/39-2.csv)
 
 | Nr | Lagrum/stöd |  | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1384,20 +1336,12 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.9.10 | 29 kap. 7 § SoL |  | Beslut om förhandsbesked till person som tänker bosätta sig i kommunen | Soc sekr |  |
 | 3.9.11 | 11 kap. 1 § SoL |  | Insats i form av hem eller öppen verksamhet för vård under en begränsad del av dygnet | Förste s s |  |
 
-[Tabell 42-2](handlingar.tabeller/42-2.csv)
+[Tabell 42-44-2](handlingar.tabeller/42-44-2.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.10.1 | 1 § LSS | Beslut om personkretstillhörighet | Soc sekr |  |
-
-<!-- sida 43 -->
-
-Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 29 (30)
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
 | 3.10.2 | 7 §, 9 § 2 p och 9<br>a § LSS | Beslut om insats i form av personlig assistans eller ekonomiskt stöd till skälig kostnad för<br>sådan assistans om behovet inte täcks via SFB<br>- upp till 30 tim/v<br>- över 30 tim/v | Soc sekr<br>Förste ss |  |
-| --- | --- | --- | --- | --- |
 | 3.10.3 | 7 §, 9 §.2 p<br>och 9 a § LSS | Beslut om tillfällig utökning av<br>Personlig assistans<br>- upp till 20 tim/v<br>- över 20 tim/v | Soc sekr<br>Förste ss |  |
 | 3.10.4 | 9 § 2 p LSS | Beslut om förhöjt timbelopp för ekonomiskt stöd till skäliga kostnader för personlig<br>assistans<br>- upp till 12 % utöver schablonbelopp<br>- mer än 12 % utöver schablonbelopp | EC<br>Utskott |  |
 | 3.10.5 | 7 § och 9 § 3 p<br>LSS | Beslut om insats i form av ledsagarservice, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån | Soc sekr<br>Förste ss |  |
@@ -1409,6 +1353,16 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 | 3.10.11 | 7 § och 9 § 8 p<br>LSS | Beslut om insats i form av bostad med särskild service för barn och ungdom<br>Beslut om köp av plats i annan kommun eller hos annan utförare | Förste ss<br>Förste ss | Köp av plats beviljas för 1 år i<br>taget |
 | 3.10.12 | 7 § och 9 § 9 p<br>LSS | Beslut om insats i form av bostad med särskild service för vuxna eller annan särskilt<br>anpassad bostad för vuxna<br>Beslut om köp av plats i annan kommun eller hos annan utförare | Förste ss<br>Förste ss | Köp av plats beviljas för 1 år i<br>taget |
 | 3.10.13 | 7 § och 9 § 10 p<br>LSS | Beslut om insats i form av daglig verksamhet<br>Beslut om köp av plats i annan kommun eller hos annan utförare | Soc sekr<br>Förste ss | Köp av plats beviljas för 1 år i<br>taget |
+| 3.10.14 | 7 § och 9 § 2-10 p<br>LSS | Omprövning av gynnande beslut under giltighetstiden | Soc sekr |  |
+| 3.10.15 | 16 § LSS | Beslut om förhandsbesked till person som tänker bosätta sig i kommunen | Soc sekr |  |
+| 3.10.16 | 16, 16 a, 16 b §§<br>LSS | Beslut om insatser för enskild på tillfällig vistelse i kommunen | Soc sekr |  |
+| 3.10.17 | 10 § LSS | Beslut om upprättandet av individuell plan | Soc sekr |  |
+| 3.10.18 | 10 § 2 st. LSS | Underrätta regionen om upprättad individuell plan | Soc sekr | Samtycke ska beaktas |
+| 3.10.19 | 6 kap. 13 a § 4 p.<br>FB | Beslut om att insats enligt 9 § 4, 5 eller 6 LSS får vidtas till stöd för ett barn utan en av<br>vårdnadshavarnas samtycke | Utskott |  |
+
+<!-- sida 43 -->
+
+Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 29 (30)
 
 <!-- sida 44 -->
 
@@ -1417,16 +1371,6 @@ Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomso
 Kungsbacka kommun   Delegeringsförteckning, Nämnden för Individ & Familjeomsorg 30 (30)
 
 [Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| 3.10.14 | 7 § och 9 § 2-10 p<br>LSS | Omprövning av gynnande beslut under giltighetstiden | Soc sekr |  |
-| --- | --- | --- | --- | --- |
-| 3.10.15 | 16 § LSS | Beslut om förhandsbesked till person som tänker bosätta sig i kommunen | Soc sekr |  |
-| 3.10.16 | 16, 16 a, 16 b §§<br>LSS | Beslut om insatser för enskild på tillfällig vistelse i kommunen | Soc sekr |  |
-| 3.10.17 | 10 § LSS | Beslut om upprättandet av individuell plan | Soc sekr |  |
-| 3.10.18 | 10 § 2 st. LSS | Underrätta regionen om upprättad individuell plan | Soc sekr | Samtycke ska beaktas |
-| 3.10.19 | 6 kap. 13 a § 4 p.<br>FB | Beslut om att insats enligt 9 § 4, 5 eller 6 LSS får vidtas till stöd för ett barn utan en av<br>vårdnadshavarnas samtycke | Utskott |  |
-
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -2027,12 +1971,20 @@ baserat på prisbasbeloppet.
 | Marks Kommun | 0 |
 | Trollhättan | 100 |
 
-[Tabell 60-2](handlingar.tabeller/60-2.csv)
+[Tabell 60-61-2](handlingar.tabeller/60-61-2.csv)
 
 | Antal barn | Procenttal<br>per barn |
 | --- | --- |
 | 1 barn | 14% |
 | 2 barn | 11,50% |
+| 3 barn | 10% |
+| 4 barn | 7,75% |
+| 5 barn | 6,40% |
+| 6 barn | 5,50% |
+| 7 barn | 4,85% |
+| 8 barn | 4,38% |
+| 9 barn | 4% |
+| 10 barn | 3,70% |
 
 <!-- sida 61 -->
 
@@ -2077,18 +2029,6 @@ självkostnad genom internpriset för måltid från nämnden för Service samt m
 
 Jämfört med tidigare pris som baserades på internpriset för måltid samt råvarukostnad för
 beredning på daglig verksamhet.
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| 3 barn | 10% |
-| --- | --- |
-| 4 barn | 7,75% |
-| 5 barn | 6,40% |
-| 6 barn | 5,50% |
-| 7 barn | 4,85% |
-| 8 barn | 4,38% |
-| 9 barn | 4% |
-| 10 barn | 3,70% |
 
 <!-- sida 62 -->
 
@@ -3622,29 +3562,54 @@ Utfall presenteras i årsredovisningen.
 
 4.3 Prestationsmått
 
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+
+Fördelning
+mellan
+serviceboende
+30 %       30 %       30 %          32 %
+och
+gruppboende
+(%)
+Antal personer
+som har LSS-
+insats         572        592        598            610
+verkställd den
+1 okt
+Antal dygn i
+institutionsplac
+2 660       2 875      2 094         1 976
+ering vuxen,
+köpta platser
+Antal dygn i
+institutionsplac
+ering barn och 4 314      5 433      5 052         5 551
+unga, köpta
+platser
+Antal dygn i
+stödboende
+3 479       4 125      2 357         2 444
+barn och unga,
+köpta platser
 23
 
 [Tabell 91-1](handlingar.tabeller/91-1.csv)
 
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Kostnad för<br>personlig<br>assistans per<br>timma i 420 462 463 461<br>Kungsbacka<br>kommun i egen<br>regi |  |
-| Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för 50 % 43 % 41 % 45 %<br>personlig<br>assistans för<br>egen regi |  |
-
-[Tabell 91-2](handlingar.tabeller/91-2.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Fördelning<br>mellan<br>serviceboende<br>30 % 30 % 30 % 32 %<br>och<br>gruppboende<br>(%) |  |
-| Antal personer<br>som har LSS-<br>insats 572 592 598 610<br>verkställd den<br>1 okt |  |
-| Antal dygn i<br>institutionsplac<br>2 660 2 875 2 094 1 976<br>ering vuxen,<br>köpta platser |  |
-| Antal dygn i<br>institutionsplac<br>ering barn och 4 314 5 433 5 052 5 551<br>unga, köpta<br>platser |  |
-| Antal dygn i<br>stödboende<br>3 479 4 125 2 357 2 444<br>barn och unga,<br>köpta platser |  |
+|  | Namn | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 | Utfall 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad för<br>personlig<br>assistans per<br>timma i<br>Kungsbacka<br>kommun i egen<br>regi | 420 | 462 | 463 | 461 |  |
+|  | Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för<br>personlig<br>assistans för<br>egen regi | 50 % | 43 % | 41 % | 45 % |  |
 
 <!-- sida 92 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Delårsrapport augusti 2026
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+Antal dygn i
+stödboende
+3 712       2 874      5 102         3 831
+missbruk,
+köpta platser
 
 4.4 Effektmått
 
@@ -3663,12 +3628,6 @@ missbruksproblem eller insatser 21 + ett
 andel %
 
 24
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Antal dygn i<br>stödboende<br>3 712 2 874 5 102 3 831<br>missbruk,<br>köpta platser |  |
 
 <!-- sida 93 -->
 
@@ -4235,7 +4194,7 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2026-02-08 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Insats kan inte verkställas då det inte finns tillräckligt<br>med barn för att starta gruppverksamhet. |
 | 2026-04-23 | 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl. |
 
-[Tabell 105-2](handlingar.tabeller/105-2.csv)
+[Tabell 105-106-2](handlingar.tabeller/105-106-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -4243,6 +4202,9 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-01-18 | 11 kap 1 § SoL<br>kontaktfamilj | Rekryteringsbekymmer, finns<br>ingen kontaktfamilj som<br>matchar behovet. | Avslutat, 2026-07-19.<br>Insatsen önskas inte<br>längre då det gått lång<br>tid sen den beviljades. |
 | 2025-01-18 | 11 kap 1 § SoL<br>kontaktfamilj | Rekryteringsbekymmer, finns<br>ingen kontaktfamilj som<br>matchar behovet. | Avslutat, 2026-07-19.<br>Insatsen önskas inte<br>längre då det gått lång<br>tid sen den beviljades. |
 | 2025-01-18 | 11 kap 1 § SoL<br>kontaktfamilj | Rekryteringsbekymmer, finns<br>ingen kontaktfamilj som<br>matchar behovet. | Avslutat, 2026-07-19.<br>Insatsen önskas inte<br>längre då det gått lång<br>tid sen den beviljades. |
+| 2025-11-07 | 11 kap 1 § SoL<br>kontaktperson | Otydligheter eller brister i den<br>egna organisationen. | Verkställt 2026-06-12 |
+| 2025-11-14 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats. | Verkställt 2026-07-28 |
+| 2025-11-20 | 11 kap 1 § SoL<br>kontaktperson | Personalrelaterade skäl. | Verkställt 2026-06-16 |
 
 <!-- sida 106 -->
 
@@ -4253,15 +4215,7 @@ Ej verkställda beslut, funktionsstödsenheten, enligt 9 § och rapportering enl
 och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rapportering enligt 34 kap 1-3
 §§ socialtjänstlagen, SoL
 
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2025-11-07 | 11 kap 1 § SoL<br>kontaktperson | Otydligheter eller brister i den<br>egna organisationen. | Verkställt 2026-06-12 |
-| 2025-11-14 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats. | Verkställt 2026-07-28 |
-| 2025-11-20 | 11 kap 1 § SoL<br>kontaktperson | Personalrelaterade skäl. | Verkställt 2026-06-16 |
-
-[Tabell 106-2](handlingar.tabeller/106-2.csv)
+[Tabell 106-110-1](handlingar.tabeller/106-110-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -4274,16 +4228,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 | 2026-03-12 | 11 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång introduktion, 1 av 2<br>insatser verkställda. |
 | 2026-03-26 | 11 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång introduktion, den<br>enskilde vill avvakta med uppstart, 1 av 2 insatser<br>verkställda. |
 | 2026-03-17 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2026-05, vill avvakta med uppstart. |
-
-<!-- sida 107 -->
-
-KUNGSBACKA  KOMMUN
-4 (10)
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2026-03-17 | 9 § 4 LSS, kontaktperson | Den enskilde medverkar inte till verkställighet. |
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till.<br>Den enskilde har specifika önskemål. |
 | 2025-06-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsoproblem hos den<br>enskilde. Den enskilde har en plats i en grupp men<br>kommer inte iväg, vill ha kvar insatsen. |
@@ -4296,16 +4240,6 @@ KUNGSBACKA  KOMMUN
 | 2026-03-08 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde är i behov av<br>lång introduktion, tackat nej till sommarvistelse.<br>Uppstart planerad till aug. |
 | 2026-03-08 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, haft en plats med inte kommit.<br>Uppstart planerad till aug. |
 | 2026-03-13 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde ville avvakta till hösten med uppstart. |
-
-<!-- sida 108 -->
-
-KUNGSBACKA  KOMMUN
-5 (10)
-
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-01-14 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Tackat nej till erbjudande i 2025-11. Har<br>specifika önskemål om boende. Tackat ja till köpt plats<br>med inflytt sept. |
 | 2025-03-12 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Planering pågår. Fått erbjudande om köpt<br>plats. Tackat nej till erbjudande 2025-11. Planering<br>pågår. Tackat ja till erbjudande med inflytt under<br>hösten. |
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Tackat ja till<br>plats med inflytt sept. |
@@ -4320,16 +4254,6 @@ KUNGSBACKA  KOMMUN
 | 2026-05-25 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats, planering pågår. |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Fått erbjudande om verksamhet. |
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
-
-<!-- sida 109 -->
-
-KUNGSBACKA  KOMMUN
-6 (10)
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-12-06 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2025-03-07 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Samverkan pågår. Den<br>enskilde har andra önskemål om verkställighet. Fått<br>erbjudande om ny verksamhet men inte svarat på<br>introduktion. Den enskilde avbokar möten. |
 | 2025-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Fått erbjudande om ny verksamhet. |
@@ -4343,6 +4267,27 @@ KUNGSBACKA  KOMMUN
 | 2025-12-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Tackat ja till nytt erbjudande,<br>planering för uppstart pågår. |
 | 2025-12-10 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 | 2025-12-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde har specifika<br>önskemål. Planering pågår, kontinuerlig kontakt med<br>den enskilde. |
+| 2026-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
+| 2026-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. |
+| 2026-03-31 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Den<br>enskilde är i behov av lång introduktion. |
+| 2026-04-14 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
+| 2026-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Praktikplats har avslutat<br>samarbetet. Blivit erbjuden gruppverksamhet i<br>avvaktan på ny praktikplats, tackat nej till detta och vill<br>avvakta till hösten. |
+| 2026-05-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Insatsen pausas pga hälsoskäl. |
+
+<!-- sida 107 -->
+
+KUNGSBACKA  KOMMUN
+4 (10)
+
+<!-- sida 108 -->
+
+KUNGSBACKA  KOMMUN
+5 (10)
+
+<!-- sida 109 -->
+
+KUNGSBACKA  KOMMUN
+6 (10)
 
 <!-- sida 110 -->
 
@@ -4351,18 +4296,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2026-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
-| 2026-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. |
-| 2026-03-31 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Den<br>enskilde är i behov av lång introduktion. |
-| 2026-04-14 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
-| 2026-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Praktikplats har avslutat<br>samarbetet. Blivit erbjuden gruppverksamhet i<br>avvaktan på ny praktikplats, tackat nej till detta och vill<br>avvakta till hösten. |
-| 2026-05-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Insatsen pausas pga hälsoskäl. |
-
-[Tabell 110-2](handlingar.tabeller/110-2.csv)
+[Tabell 110-112-1](handlingar.tabeller/110-112-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -4370,16 +4304,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-07-01 | 9 § 4 LSS, kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Rekrytering<br>pågår. Den enskilde vill avvakta<br>med uppstart. | Avslutat 2026-05-06,<br>på den enskildes<br>begäran. |
 | 2026-03-03 | 9 § 4 LSS, avlösarservice i<br>hemmet | Personalrelaterade skäl. | Verkställt 2026-07-19 |
 | 2024-06-26 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde har specifika<br>önskemål. Vill fortsätta med<br>insatsen, svarar inte på<br>kontaktförsök. | Verkställt 2026-06-25 |
-
-<!-- sida 111 -->
-
-KUNGSBACKA  KOMMUN
-8 (10)
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2025-09-06 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Den enskilde vill<br>inte ha insatsen | Avslutat 2026-08-19,<br>på den enskildes<br>begäran. |
 | 2025-12-03 | 9 § 6 LSS, korttidsvistelse<br>i form av korttidshem | Vårdnadshavarens behov av<br>stöd har varit ett hinder<br>merparten av väntetiden.<br>Planering pågår. | Avslutat 2026-05-25,<br>på den enskildes<br>begäran. |
 | 2024-10-17 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. Tackat nej till<br>erbjudande om köpt plats.<br>Tackat ja till plats som blir ledig<br>till hösten. | Avslutat 2026-07-27 |
@@ -4388,16 +4312,6 @@ KUNGSBACKA  KOMMUN
 | 2026-01-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. Placerad genom<br>annan insats. Erbjudits köpt<br>plats med inflyttning 2026-05. | Verkställt 2026-05-07 |
 | 2026-01-21 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. Planering pågår. | Verkställt 2026-06-01 |
 | 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har kontinuerlig kontakt. | Avslutat 2026-06-17,<br>på den enskildes<br>begäran. |
-
-<!-- sida 112 -->
-
-KUNGSBACKA  KOMMUN
-9 (10)
-
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Vill<br>pausa/avvakta insatsen pga<br>hälsotillstånd. Beslutet kommer<br>avslutas då den enskilde vårdas<br>inom annan myndighet. | Avslutat 2026-06-02 |
 | 2025-02-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde valde att avsluta sin<br>sysselsättning pga mående och<br>miljö. Blivit erbjuden annan<br>placering och tackat nej. Den<br>enskilde vill inte längre ha<br>insatsen. | Avslutat 2026-06-11,<br>på den enskildes<br>begäran. |
 | 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet pga mående och<br>förändringar i verksamheten.<br>Erbjudits ny uppstart 2026-04. | Verkställt 2026-04-20 |
@@ -4405,6 +4319,16 @@ KUNGSBACKA  KOMMUN
 | 2025-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet pga hälsotillstånd. | Verkställt 2026-03-20 |
 | 2025-09-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt 2026-04-22 |
 | 2025-11-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet pga hälsotillstånd. | Verkställt 2026-05-11 |
+
+<!-- sida 111 -->
+
+KUNGSBACKA  KOMMUN
+8 (10)
+
+<!-- sida 112 -->
+
+KUNGSBACKA  KOMMUN
+9 (10)
 
 <!-- sida 113 -->
 

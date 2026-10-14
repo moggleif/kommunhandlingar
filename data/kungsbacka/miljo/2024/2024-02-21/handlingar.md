@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf15016/1708071707
 sha256: 5f7e53822b912ee786151004ee90c9a9621d5eeff5e5d4d5f2f1f69bff99a3ba
 bytes: 1185481
 sidor: 20
-hamtad: 2026-10-08T08:01:26+00:00
-konverterad: 2026-10-08T08:01:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:57:08+00:00
+konverterad: 2026-10-14T10:57:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -137,8 +137,9 @@ som helhet, men under året ser vi en minskning inom vissa händelsestyrda ären
 
 [Tabell 4-1](handlingar.tabeller/4-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>0 | Utfall 2022<br>0 | Utfall 2023<br>0 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 0 | 0 | 0 |
 | Kostnader | -0,8 | -0,8 | -1,0 |
 | Netto | -0,8 | -0,8 | -1,0 |
 | Budget, netto | -1,0 | -1,3 | -1,3 |

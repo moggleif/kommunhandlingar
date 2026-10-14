@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d6726/17167867644
 sha256: 41a2a7a5780ec0e1ce944391295f5d9c973aae02b136a0ca7a4937ca72bfbc82
 bytes: 2580651
 sidor: 156
-hamtad: 2026-10-07T23:21:26+00:00
-konverterad: 2026-10-07T23:21:39+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:26:50+00:00
+konverterad: 2026-10-14T07:27:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
+tal_obekraftade: [44, 65, 78, 102, 119, 143]
+figurer: [17, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1412,7 +1412,7 @@ KUNGSBACKA  KOMMUN
 
 Pågående ärenden
 
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
+[Tabell 39-40-1](handlingar.tabeller/39-40-1.csv)
 
 | Diarienummer | Anmälan avser | Inkom | Handläggningsstatus |
 | --- | --- | --- | --- |
@@ -1425,17 +1425,13 @@ Pågående ärenden
 | 2022-1019 | BEO -Kränkande behandling<br>Iseråsskolan | 2022-08-08 | BEO framställer<br>skadeståndsanspråk oktober<br>2023.<br>Åtgärder redovisade 10 jan<br>2024. BEO vidtar inga<br>ytterligare utredningar.<br>BEO startar nytt ärende mars.<br>BEO begär in uppgifter maj<br>2024. |
 | 2024-22 | Skolinspektionen efterfrågar<br>yttrande för eventuella vidare<br>åtgärder | 2024-02-20 | Yttrande inlämnat februari<br>2024 |
 | 2024-00160 | Barn- och elevombudet, BEO,<br>anmälan om kränkande<br>behandling Hede förskola, SI<br>2024:2206 | 2024-03-14 | Beslut 2024-05-06 BEO<br>prövar inte ärendet. |
+| 2024-00151 | Barn och elevombudet, BEO,<br>anmälan om kränkande<br>behandling Åsaskolan, dnr SI<br>2024:2201 | 2024-03-13 | Beslut 2024-05-06 BEO<br>prövar inte ärendet. |
+|  |  |  |  |
 
 <!-- sida 40 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| 2024-00151 | Barn och elevombudet, BEO,<br>anmälan om kränkande<br>behandling Åsaskolan, dnr SI<br>2024:2201 | 2024-03-13 | Beslut 2024-05-06 BEO<br>prövar inte ärendet. |
-| --- | --- | --- | --- |
-|  |  |  |  |
 
 <!-- sida 41 -->
 
@@ -1536,18 +1532,6 @@ edrävegårF
 Samband
 Kungsbacka | Svarsfrekvens 76%
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 45 -->
 
 Bakgrundsfrågor
@@ -1609,25 +1593,22 @@ Indexvärde för respektive frågeområde. Det lägsta möjliga värdet är 0 oc
 indexvärdet. I de fall det går redovisas även indexvärde bakåt i tiden.
 GR     Kungsbacka  2023
 
-```osaker-tabell
-Utbildning                                                79        77        77
-
-Stimulans                                                 83        84        84
-Stöd                                                      90        89        89
-Grundläggande värden                                      84        84        83
-
-Inflytande                                                53        52        53
-Studiero                                                  67        66        63
-
-Trygghet                                                  80        82        81
-Förhindra kränkningar                                     88        91        88
-Skola och framtid                                         63        48        51
-
-Nöjdhet                                                   77        78        77
-Fritidshem                                                74        73        75
-```
-
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+| Utbildning | 79 | 77 | 77 |
+| --- | --- | --- | --- |
+| Stimulans | 83 | 84 | 84 |
+| Stöd | 90 | 89 | 89 |
+| Grundläggande värden | 84 | 84 | 83 |
+| Inflytande | 53 | 52 | 53 |
+| Studiero | 67 | 66 | 63 |
+| Trygghet | 80 | 82 | 81 |
+| Förhindra kränkningar | 88 | 91 | 88 |
+| Skola och framtid | 63 | 48 | 51 |
+| Nöjdhet | 77 | 78 | 77 |
+| Fritidshem | 74 | 73 | 75 |
 
 <!-- sida 48 -->
 
@@ -1637,25 +1618,22 @@ Indexvärde för respektive frågeområde per kön.
 
 Flicka    Pojke  Vill inte svara
 
-```osaker-tabell
-Utbildning                                                79        76        72
-
-Stimulans                                                 85        82        74
-Stöd                                                      92        87        70
-Grundläggande värden                                      86        83        88
-
-Inflytande                                                55        50        50
-Studiero                                                  66        67        59
-
-Trygghet                                                  82        81        72
-Förhindra kränkningar                                     92        90
-Skola och framtid                                         45        50
-
-Nöjdhet                                                   81        75        65
-Fritidshem                                                75        72        55
-```
-
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 48-1](handlingar.tabeller/48-1.csv)
+
+| Utbildning | 79 | 76 | 72 |
+| --- | --- | --- | --- |
+| Stimulans | 85 | 82 | 74 |
+| Stöd | 92 | 87 | 70 |
+| Grundläggande värden | 86 | 83 | 88 |
+| Inflytande | 55 | 50 | 50 |
+| Studiero | 66 | 67 | 59 |
+| Trygghet | 82 | 81 | 72 |
+| Förhindra kränkningar | 92 | 90 |  |
+| Skola och framtid | 45 | 50 |  |
+| Nöjdhet | 81 | 75 | 65 |
+| Fritidshem | 75 | 72 | 55 |
 
 <!-- sida 49 -->
 
@@ -1971,20 +1949,24 @@ edrävegårF
 100
 ((AA)) FFöörrkkllaarraarr lläärraarrnnaa ssåå aatttt dduu fföörrssttåårr??
 ((BB)) BBeerräättttaarr lläärraarreenn hhuurr ddeett ggåårr fföörr ddiigg ii sskkoollaarrbbeetteett??
-90
-((CC)) FFåårr dduu aarrbbeettaa ppåå oolliikkaa ssäätttt ppåå lleekkttiioonneerrnnaa??
-((DD)) GGöörr lläärraarreenn ssåå aatttt dduu vviillll lläärraa ddiigg mmeerr ii sskkoollaann??
-80                                        ((EE)) FFåårr lläärraarreenn ddiigg aatttt kkäännnnaa aatttt dduu kkllaarraarr aavv sskkoollaarrbbeetteett??
-((FF)) HHjjäällppeerr lläärraarreenn ddiigg nnäärr dduu bbeehhöövveerr ddeett??
+90      O                        M E F    ((CC)) FFåårr dduu aarrbbeettaa ppåå oolliikkaa ssäätttt ppåå lleekkttiioonneerrnnaa??
+J   K                            D
+G                ((DD)) GGöörr lläärraarreenn ssåå aatttt dduu vviillll lläärraa ddiigg mmeerr ii sskkoollaann??
+A
+80  R                                     ((EE)) FFåårr lläärraarreenn ddiigg aatttt kkäännnnaa aatttt dduu kkllaarraarr aavv sskkoollaarrbbeetteett??
+C            ((FF)) HHjjäällppeerr lläärraarreenn ddiigg nnäärr dduu bbeehhöövveerr ddeett??
 ((GG)) PPrraattaarr nnii ppåå lleekkttiioonneerrnnaa oomm hhuurr nnii sskkaa vvaarraa mmoott vvaarraannddrraa ii
+L                  B
 70
 ((HH)) FFåårr dduu vvaarraa mmeedd oocchh bbeessttäämmmmaa hhuurr nnii aarrbbeettaarr ii sskkoollaann??
+I
 ((II)) KKaann dduu kkoonncceennttrreerraa ddiigg nnäärr dduu aarrbbeettaarr ii sskkoollaann??
-60                                        ((JJ)) KKäännnneerr dduu ddiigg ttrryygggg ii sskkoollaann??
+P
+60       Q                                ((JJ)) KKäännnneerr dduu ddiigg ttrryygggg ii sskkoollaann??
 ((KK)) KKaann dduu vvaarraa ddiigg ssjjäällvv ii sskkoollaann??
-((LL)) FFrrååggaarr ddee vvuuxxnnaa ii sskkoollaann oomm hhuurr dduu mmåårr??
+H            ((LL)) FFrrååggaarr ddee vvuuxxnnaa ii sskkoollaann oomm hhuurr dduu mmåårr??
 50
-((MM)) HHjjäällppeerr ddee vvuuxxnnaa ttiillll oomm eenn eelleevv äärr eellaakk mmoott nnååggoonn aannnnaann ppåå
+N              ((MM)) HHjjäällppeerr ddee vvuuxxnnaa ttiillll oomm eenn eelleevv äärr eellaakk mmoott nnååggoonn aannnnaann ppåå
 ((NN)) PPrraattaarr nnii ii sskkoollaann oomm vvaadd dduu kkaann jjoobbbbaa mmeedd nnäärr dduu bblliirr vvuuxxeenn??
 40                                        ((OO)) KKäännnneerr dduu ddiigg ttrryygggg ppåå ffrriittiiddss??
 ((PP)) FFåårr dduu vvaarraa mmeedd oocchh bbeessttäämmmmaa vvaadd nnii ggöörr ppåå ffrriittiiddss??
@@ -1993,18 +1975,6 @@ edrävegårF
 -0,400 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 ((RR)) GGiillllaarr dduu aatttt vvaarraa ppåå ffrriittiiddss??
 Samband
 Kungsbacka | Svarsfrekvens 76%
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
-|  |  |  |  |  |  | M |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| J | O<br>K |  |  |  | G | A | E F<br>D |
-|  |  |  |  |  |  |  |  |
-| R |  | L |  |  |  | C<br>B |  |
-|  | I<br>P |  |  |  |  |  |  |
-|  | Q |  |  |  |  | H |  |
-|  |  |  |  |  | N |  |  |
-|  |  |  |  |  |  |  |  |
 
 <!-- sida 66 -->
 
@@ -2119,14 +2089,6 @@ Total    Antal     Flicka    Pojke   Vill inte svara
 
 Får du vara med och bestämma hur ni arbetar i skolan?
 
-```osaker-tabell
-Ja                                    21%      153       22%       21%       20%
-Ibland                                40%      287       42%       38%       50%
-Nej                                   17%      125       14%       20%       20%
-
-Vet inte                              21%      154       23%       21%       10%
-```
-
 Kan du koncentrera dig när du arbetar i skolan?
 
 ```osaker-tabell
@@ -2149,6 +2111,14 @@ Vet inte                              6%        41        4%       7%        10%
 ```
 
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 69-1](handlingar.tabeller/69-1.csv)
+
+| Ja | 21% | 153 | 22% | 21% | 20% |
+| --- | --- | --- | --- | --- | --- |
+| Ibland | 40% | 287 | 42% | 38% | 50% |
+| Nej | 17% | 125 | 14% | 20% | 20% |
+| Vet inte | 21% | 154 | 23% | 21% | 10% |
 
 <!-- sida 70 -->
 
@@ -2205,12 +2175,6 @@ Vet inte                              14%      100       14%       14%
 
 Pratar ni i skolan om vad du kan jobba med när du blir vuxen?
 
-```osaker-tabell
-Ja                                    34%      244       31%       36%       20%
-Nej                                   37%      267       38%       37%       40%
-Vet inte                              29%      207       31%       27%       40%
-```
-
 Känner du dig trygg i skolan?
 
 ```osaker-tabell
@@ -2223,6 +2187,13 @@ Vet inte                              5%        36        3%       6%        30%
 ```
 
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 71-1](handlingar.tabeller/71-1.csv)
+
+| Ja | 34% | 244 | 31% | 36% | 20% |
+| --- | --- | --- | --- | --- | --- |
+| Nej | 37% | 267 | 38% | 37% | 40% |
+| Vet inte | 29% | 207 | 31% | 27% | 40% |
 
 <!-- sida 72 -->
 
@@ -2445,18 +2416,6 @@ edrävegårF
 Samband
 Kungsbacka | Svarsfrekvens 76%
 
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 79 -->
 
 Bakgrundsfrågor
@@ -2547,25 +2506,24 @@ Indexvärde för respektive frågeområde. Det lägsta möjliga värdet är 0 oc
 indexvärdet. I de fall det går redovisas även indexvärde bakåt i tiden.
 GR     Kungsbacka  2022
 
-```osaker-tabell
-Trygghet                                                  85        84        85
-Förhindra kränkningar                                     62        63        65
-
-Studiero                                                  56        55        56
-Elevhälsan                                                66        66        64
-Bemötande - elever                                        71        71        72
-Bemötande - lärare                                        72        73        77
-Information om utbildningen                               69        69        68
-Inflytande                                                55        54        55
-
-Stimulans                                                 58        58        58
-Stöd                                                      69        69        68
-Kritiskt tänkande                                         61        61        63
-Nöjdhet                                                   65        69        69
-Skola och framtid                                         29        24        26
-```
-
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 82-1](handlingar.tabeller/82-1.csv)
+
+| Trygghet | 85 | 84 | 85 |
+| --- | --- | --- | --- |
+| Förhindra kränkningar | 62 | 63 | 65 |
+| Studiero | 56 | 55 | 56 |
+| Elevhälsan | 66 | 66 | 64 |
+| Bemötande - elever | 71 | 71 | 72 |
+| Bemötande - lärare | 72 | 73 | 77 |
+| Information om utbildningen | 69 | 69 | 68 |
+| Inflytande | 55 | 54 | 55 |
+| Stimulans | 58 | 58 | 58 |
+| Stöd | 69 | 69 | 68 |
+| Kritiskt tänkande | 61 | 61 | 63 |
+| Nöjdhet | 65 | 69 | 69 |
+| Skola och framtid | 29 | 24 | 26 |
 
 <!-- sida 83 -->
 
@@ -2969,26 +2927,28 @@ edrävegårF
 ((CC)) HHuurr ooffttaa ffåårr lläärraarrnnaa ddiigg aatttt bbllii iinnttrreesssseerraadd aavv sskkoollaarrbbeetteett??
 ((DD)) HHuurr ooffttaa äärr ddeett aarrbbeettssrroo ppåå lleekkttiioonneerrnnaa??
 90
-((EE)) HHuurr ooffttaa äärr ddeett ssåå ssttöökkiiggtt ppåå lleekkttiioonneerrnnaa aatttt dduu hhaarr ssvvåårrtt aatttt kkoonncceennttrreerraa ddiigg??
+K             ((EE)) HHuurr ooffttaa äärr ddeett ssåå ssttöökkiiggtt ppåå lleekkttiioonneerrnnaa aatttt dduu hhaarr ssvvåårrtt aatttt kkoonncceennttrreerraa ddiigg??
 ((FF)) HHuurr ttyycckkeerr dduu aatttt eelleevveerrnnaa bbeemmöötteerr vvaarraannddrraa ii sskkoollaann??
-((GG)) HHuurr ttyycckkeerr dduu aatttt eelleevveerrnnaa bbeemmöötteerr vvuuxxnnaa ii sskkoollaann??
-((HH)) TTyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann hhaarr kkoollll ppåå vvaadd ssoomm hhäännddeerr ppåå rraasstteerrnnaa??
-80
+J                ((GG)) HHuurr ttyycckkeerr dduu aatttt eelleevveerrnnaa bbeemmöötteerr vvuuxxnnaa ii sskkoollaann??
+A             ((HH)) TTyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann hhaarr kkoollll ppåå vvaadd ssoomm hhäännddeerr ppåå rraasstteerrnnaa??
+80                            L
 ((II)) HHuurr lläätttt eelllleerr ssvvåårrtt äärr ddeett aatttt ffåå hhjjäällpp aavv eelleevvhhäällssaann ttiillll eexxeemmppeell sskkoollsskköötteerrsskkaann??
-((JJ)) KKäännnneerr dduu ddiigg rräädddd fföörr aannddrraa eelleevveerr ii sskkoollaann??
+N
+P        ((JJ)) KKäännnneerr dduu ddiigg rräädddd fföörr aannddrraa eelleevveerr ii sskkoollaann??
+B
 ((KK)) KKäännnneerr dduu ddiigg rräädddd fföörr nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
-((LL)) KKäännnneerr dduu ddiigg oorräättttvviisstt bbeehhaannddllaadd aavv nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
-70
-((MM)) KKäännnneerr dduu aatttt dduu kkaann vvaarraa ddiigg ssjjäällvv ii sskkoollaann??
+M G Q X        ((LL)) KKäännnneerr dduu ddiigg oorräättttvviisstt bbeehhaannddllaadd aavv nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
+70                          F
+O    ((MM)) KKäännnneerr dduu aatttt dduu kkaann vvaarraa ddiigg ssjjäällvv ii sskkoollaann??
 ((NN)) KKäännnneerr dduu ddiigg ttrryygggg ii sskkoollaann??
-((OO)) LLiittaarr dduu ppåå aatttt ddee vvuuxxnnaa ii sskkoollaann ggöörr ttiillllrrääcckklliiggtt oomm nnååggoonn eelleevv bblliirr iillllaa bbeehhaannddllaadd??
-((PP)) KKäännnneerr dduu aatttt ddeett ffiinnnnss nnååggoonn vvuuxxeenn ii sskkoollaann ssoomm bbrryyrr ssiigg oomm hhuurr dduu mmåårr??
-60
-((QQ)) TTyycckkeerr dduu aatttt lläärraarrnnaa fföörrkkllaarraarr vvaadd dduu bbeehhöövveerr kkuunnnnaa fföörr aatttt nnåå kkuunnsskkaappsskkrraavveenn??
-((RR)) TTyycckkeerr dduu aatttt lläärraarrnnaa vvaarriieerraarr lleekkttiioonneerrnnaa ssåå aatttt nnii ffåårr aarrbbeettaa ppåå oolliikkaa ssäätttt??
-((SS)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr vvaarraa mmeedd oocchh ppååvveerrkkaa hhuurr nnii sskkaa aarrbbeettaa ppåå
-((TT)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann llyyssssnnaarr ppåå fföörrssllaagg ffrråånn eelleevveerrnnaa ttiillll eexxeemmppeell ffrråånn
-50
+AC    Y
+AA                ((OO)) LLiittaarr dduu ppåå aatttt ddee vvuuxxnnaa ii sskkoollaann ggöörr ttiillllrrääcckklliiggtt oomm nnååggoonn eelleevv bblliirr iillllaa bbeehhaannddllaadd??
+W
+60                              R         ((PP)) KKäännnneerr dduu aatttt ddeett ffiinnnnss nnååggoonn vvuuxxeenn ii sskkoollaann ssoomm bbrryyrr ssiigg oomm hhuurr dduu mmåårr??
+V         ATB         ((QQ)) TTyycckkeerr dduu aatttt lläärraarrnnaa fföörrkkllaarraarr vvaadd dduu bbeehhöövveerr kkuunnnnaa fföörr aatttt nnåå kkuunnsskkaappsskkrraavveenn??
+E     I H          ((RR)) TTyycckkeerr dduu aatttt lläärraarrnnaa vvaarriieerraarr lleekkttiioonneerrnnaa ssåå aatttt nnii ffåårr aarrbbeettaa ppåå oolliikkaa ssäätttt??
+U           D                ((SS)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr vvaarraa mmeedd oocchh ppååvveerrkkaa hhuurr nnii sskkaa aarrbbeettaa ppåå
+50                           S Z C        ((TT)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann llyyssssnnaarr ppåå fföörrssllaagg ffrråånn eelleevveerrnnaa ttiillll eexxeemmppeell ffrråånn
 ((UU)) HHuurr ooffttaa ttyycckkeerr dduu aatttt sskkoollaarrbbeetteett äärr fföörr lläätttt??
 ((VV)) HHuurr ooffttaa ttyycckkeerr dduu aatttt sskkoollaarrbbeetteett äärr fföörr ssvvåårrtt??
 ((WW)) TTyycckkeerr dduu aatttt dduu ffåårr vveettaa hhuurr ddeett ggåårr fföörr ddiigg ii sskkoollaarrbbeetteett??
@@ -3002,18 +2962,6 @@ edrävegårF
 AD           Samband                  ((AADD)) HHuurr mmyycckkeett pprraattaarr nnii ii sskkoollaann oomm oolliikkaa yyrrkkeenn dduu kkaann jjoobbbbaa mmeedd nnäärr dduu bblliirr vvuuxxeenn??
 Kungsbacka | Svarsfrekvens 76%
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | J<br>A | K |  |
-|  |  |  |  | M | L<br>B<br>Q<br>G X<br>F | N<br>P |
-|  |  |  |  |  | AC | O<br>Y |
-|  |  |  |  | AA<br>W | R |  |
-|  |  | U | V | E<br>D | ATB<br>I H<br>Z<br>C |  |
-|  |  |  |  |  | S |  |
-|  |  |  |  |  |  |  |
-
 <!-- sida 103 -->
 
 Frågeområde              per    enhet
@@ -3026,29 +2974,30 @@ Trygghet          Studiero Elevhälsan                 om
 kränkningar                 elever   lärare
 utbildningen
 
-```osaker-tabell
-Kungsbacka                84      63       55       66       71       73       69
-Fjordskolan               78      51       56       52       66       67       69
-Fjärås Bräckaskolan       90      59       49       62       71       73       70
-Frillesåsskolan           84      55       54       66       71       66       62
-Fullriggaren Malevik      91      73       52       71       76       86       67
-Furulidsskolan            68      43       55       51       55       48       58
-Gällingeskolan            93      74       58       78       70       73       80
-Hedeskolan                81      65       48       69       66       77       63
-Hålabäcksskolan           88      62       61       77       76       85       75
-Iseråsskolan              84      64       50       61       70       74       68
-Kollaskolan               85      63       56       73       75       76       69
-Kullaviksskolan           86      72       64       62       78       79       73
-Presseskolan              84      60       45       67       65       69       62
-Skårbyskolan              86      67       55       82       72       78       72
-Särö skolan               72      50       46       57       59       56       68
-Tingbergsskolan           87      76       61       76       84       84       81
-Åsa Gårdsskolan           83      68       55       71       70       72       76
-Åsaskolan                 87      65       59       69       73       75       67
-Älvsåkersskolan           83      70       73       61       74       73       69
-```
-
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 103-1](handlingar.tabeller/103-1.csv)
+
+| Kungsbacka | 84 | 63 | 55 | 66 | 71 | 73 | 69 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fjordskolan | 78 | 51 | 56 | 52 | 66 | 67 | 69 |
+| Fjärås Bräckaskolan | 90 | 59 | 49 | 62 | 71 | 73 | 70 |
+| Frillesåsskolan | 84 | 55 | 54 | 66 | 71 | 66 | 62 |
+| Fullriggaren Malevik | 91 | 73 | 52 | 71 | 76 | 86 | 67 |
+| Furulidsskolan | 68 | 43 | 55 | 51 | 55 | 48 | 58 |
+| Gällingeskolan | 93 | 74 | 58 | 78 | 70 | 73 | 80 |
+| Hedeskolan | 81 | 65 | 48 | 69 | 66 | 77 | 63 |
+| Hålabäcksskolan | 88 | 62 | 61 | 77 | 76 | 85 | 75 |
+| Iseråsskolan | 84 | 64 | 50 | 61 | 70 | 74 | 68 |
+| Kollaskolan | 85 | 63 | 56 | 73 | 75 | 76 | 69 |
+| Kullaviksskolan | 86 | 72 | 64 | 62 | 78 | 79 | 73 |
+| Presseskolan | 84 | 60 | 45 | 67 | 65 | 69 | 62 |
+| Skårbyskolan | 86 | 67 | 55 | 82 | 72 | 78 | 72 |
+| Särö skolan | 72 | 50 | 46 | 57 | 59 | 56 | 68 |
+| Tingbergsskolan | 87 | 76 | 61 | 76 | 84 | 84 | 81 |
+| Åsa Gårdsskolan | 83 | 68 | 55 | 71 | 70 | 72 | 76 |
+| Åsaskolan | 87 | 65 | 59 | 69 | 73 | 75 | 67 |
+| Älvsåkersskolan | 83 | 70 | 73 | 61 | 74 | 73 | 69 |
 
 <!-- sida 104 -->
 
@@ -3060,29 +3009,30 @@ Kritiskt           Skola och
 Inflytande Stimulans Stöd               Nöjdhet
 tänkande            framtid
 
-```osaker-tabell
-Kungsbacka                   54        58        69        61       69        24
-Fjordskolan                  48        53        69        49       63        12
-Fjärås Bräckaskolan          55        59        67        59       63        21
-Frillesåsskolan              50        52        65        59       65        16
-Fullriggaren Malevik         46        57        71        59       67        26
-Furulidsskolan               36        45        59        50       54        12
-Gällingeskolan               68        68        69        74       77        22
-Hedeskolan                   48        57        69        51       66        14
-Hålabäcksskolan              66        61        69        69       71        23
-Iseråsskolan                 38        53        67        55       72        14
-Kollaskolan                  56        61        69        65       74        29
-Kullaviksskolan              55        60        75        63       76        27
-Presseskolan                 49        53        66        55       65        27
-Skårbyskolan                 55        61        73        61       78        26
-Särö skolan                  49        53        66        56       61        27
-Tingbergsskolan              69        70        74        72       78        23
-Åsa Gårdsskolan              71        65        72        82       70        52
-Åsaskolan                    52        61        70        55       74        26
-Älvsåkersskolan              65        57        71        71       70        32
-```
-
 Kungsbacka | Svarsfrekvens 76%
+
+[Tabell 104-1](handlingar.tabeller/104-1.csv)
+
+| Kungsbacka | 54 | 58 | 69 | 61 | 69 | 24 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fjordskolan | 48 | 53 | 69 | 49 | 63 | 12 |
+| Fjärås Bräckaskolan | 55 | 59 | 67 | 59 | 63 | 21 |
+| Frillesåsskolan | 50 | 52 | 65 | 59 | 65 | 16 |
+| Fullriggaren Malevik | 46 | 57 | 71 | 59 | 67 | 26 |
+| Furulidsskolan | 36 | 45 | 59 | 50 | 54 | 12 |
+| Gällingeskolan | 68 | 68 | 69 | 74 | 77 | 22 |
+| Hedeskolan | 48 | 57 | 69 | 51 | 66 | 14 |
+| Hålabäcksskolan | 66 | 61 | 69 | 69 | 71 | 23 |
+| Iseråsskolan | 38 | 53 | 67 | 55 | 72 | 14 |
+| Kollaskolan | 56 | 61 | 69 | 65 | 74 | 29 |
+| Kullaviksskolan | 55 | 60 | 75 | 63 | 76 | 27 |
+| Presseskolan | 49 | 53 | 66 | 55 | 65 | 27 |
+| Skårbyskolan | 55 | 61 | 73 | 61 | 78 | 26 |
+| Särö skolan | 49 | 53 | 66 | 56 | 61 | 27 |
+| Tingbergsskolan | 69 | 70 | 74 | 72 | 78 | 23 |
+| Åsa Gårdsskolan | 71 | 65 | 72 | 82 | 70 | 52 |
+| Åsaskolan | 52 | 61 | 70 | 55 | 74 | 26 |
+| Älvsåkersskolan | 65 | 57 | 71 | 71 | 70 | 32 |
 
 <!-- sida 105 -->
 
@@ -3622,18 +3572,6 @@ edrävegårF
 Samband
 Kungsbacka | Svarsfrekvens 71%
 
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 120 -->
 
 Bakgrundsfrågor
@@ -3727,25 +3665,24 @@ Indexvärde för respektive frågeområde. Det lägsta möjliga värdet är 0 oc
 indexvärdet. I de fall det går redovisas även indexvärde bakåt i tiden.
 GR     Kungsbacka  2022
 
-```osaker-tabell
-Trygghet                                                  84        83        85
-Förhindra kränkningar                                     53        54        56
-
-Studiero                                                  57        59        59
-Elevhälsan                                                59        62        60
-Bemötande - elever                                        68        68        71
-Bemötande - lärare                                        66        67        72
-Information om utbildningen                               55        55        56
-Inflytande                                                41        43        45
-
-Stimulans                                                 50        51        50
-Stöd                                                      59        58        61
-Kritiskt tänkande                                         52        52        53
-Nöjdhet                                                   57        59        61
-Skola och framtid                                         43        44        49
-```
-
 Kungsbacka | Svarsfrekvens 71%
+
+[Tabell 123-1](handlingar.tabeller/123-1.csv)
+
+| Trygghet | 84 | 83 | 85 |
+| --- | --- | --- | --- |
+| Förhindra kränkningar | 53 | 54 | 56 |
+| Studiero | 57 | 59 | 59 |
+| Elevhälsan | 59 | 62 | 60 |
+| Bemötande - elever | 68 | 68 | 71 |
+| Bemötande - lärare | 66 | 67 | 72 |
+| Information om utbildningen | 55 | 55 | 56 |
+| Inflytande | 41 | 43 | 45 |
+| Stimulans | 50 | 51 | 50 |
+| Stöd | 59 | 58 | 61 |
+| Kritiskt tänkande | 52 | 52 | 53 |
+| Nöjdhet | 57 | 59 | 61 |
+| Skola och framtid | 43 | 44 | 49 |
 
 <!-- sida 124 -->
 
@@ -3757,24 +3694,24 @@ Har annan
 Flicka    Pojke             Vill inte ange
 könsidentitet
 
-```osaker-tabell
-Trygghet                                         80       88        63        67
-Förhindra kränkningar                            50       58        43        53
-Studiero                                         57       62        46        54
-Elevhälsan                                       59       67        51        45
-Bemötande - elever                               64       74        39        58
-Bemötande - lärare                               70       65        51        66
-Information om utbildningen                      50       61        50        49
-Inflytande                                       41       45        33        38
-Stimulans                                        48       54        36        42
-Stöd                                             55       63        50        51
-Kritiskt tänkande                                49       56        54        49
-Nöjdhet                                          57       62        48        43
-
-Skola och framtid                                39       49        43        38
-```
-
 Kungsbacka | Svarsfrekvens 71%
+
+[Tabell 124-1](handlingar.tabeller/124-1.csv)
+
+| Trygghet | 80 | 88 | 63 | 67 |
+| --- | --- | --- | --- | --- |
+| Förhindra kränkningar | 50 | 58 | 43 | 53 |
+| Studiero | 57 | 62 | 46 | 54 |
+| Elevhälsan | 59 | 67 | 51 | 45 |
+| Bemötande - elever | 64 | 74 | 39 | 58 |
+| Bemötande - lärare | 70 | 65 | 51 | 66 |
+| Information om utbildningen | 50 | 61 | 50 | 49 |
+| Inflytande | 41 | 45 | 33 | 38 |
+| Stimulans | 48 | 54 | 36 | 42 |
+| Stöd | 55 | 63 | 50 | 51 |
+| Kritiskt tänkande | 49 | 56 | 54 | 49 |
+| Nöjdhet | 57 | 62 | 48 | 43 |
+| Skola och framtid | 39 | 49 | 43 | 38 |
 
 <!-- sida 125 -->
 
@@ -4149,46 +4086,88 @@ edrävegårF
 ((BB)) HHuurr ooffttaa ffåårr dduu ddeenn hhjjäällpp dduu bbeehhöövveerr uunnddeerr lleekkttiioonneerrnnaa??
 ((CC)) HHuurr ooffttaa ffåårr lläärraarrnnaa ddiigg aatttt bbllii iinnttrreesssseerraadd aavv sskkoollaarrbbeetteett??
 ((DD)) HHuurr ooffttaa äärr ddeett aarrbbeettssrroo ppåå lleekkttiioonneerrnnaa??
-90                                        ((EE)) HHuurr ooffttaa äärr ddeett ssåå ssttöökkiiggtt ppåå lleekkttiioonneerrnnaa aatttt dduu hhaarr ssvvåårrtt aatttt kkoonncceennttrreerraa ddiigg??
+90                         K              ((EE)) HHuurr ooffttaa äärr ddeett ssåå ssttöökkiiggtt ppåå lleekkttiioonneerrnnaa aatttt dduu hhaarr ssvvåårrtt aatttt kkoonncceennttrreerraa ddiigg??
 ((FF)) HHuurr ttyycckkeerr dduu aatttt eelleevveerrnnaa bbeemmöötteerr vvaarraannddrraa ii sskkoollaann??
 ((GG)) HHuurr ttyycckkeerr dduu aatttt eelleevveerrnnaa bbeemmöötteerr vvuuxxnnaa ii sskkoollaann??
+J
 ((HH)) TTyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann hhaarr kkoollll ppåå vvaadd ssoomm hhäännddeerr ppåå rraasstteerrnnaa??
 80                                        ((II)) HHuurr lläätttt eelllleerr ssvvåårrtt äärr ddeett aatttt ffåå hhjjäällpp aavv eelleevvhhäällssaann ttiillll eexxeemmppeell sskkoollsskköötteerrsskkaann??
 ((JJ)) KKäännnneerr dduu ddiigg rräädddd fföörr aannddrraa eelleevveerr ii sskkoollaann??
-((KK)) KKäännnneerr dduu ddiigg rräädddd fföörr nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
+L
+A           ((KK)) KKäännnneerr dduu ddiigg rräädddd fföörr nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
+N
 ((LL)) KKäännnneerr dduu ddiigg oorräättttvviisstt bbeehhaannddllaadd aavv nnååggoonn lläärraarree eelllleerr aannnnaann vvuuxxeenn ii sskkoollaann??
-70                                        ((MM)) KKäännnneerr dduu aatttt dduu kkaann vvaarraa ddiigg ssjjäällvv ii sskkoollaann??
-((NN)) KKäännnneerr dduu ddiigg ttrryygggg ii sskkoollaann??
-((OO)) LLiittaarr dduu ppåå aatttt ddee vvuuxxnnaa ii sskkoollaann ggöörr ttiillllrrääcckklliiggtt oomm nnååggoonn eelleevv bblliirr iillllaa bbeehhaannddllaadd??
+70
+G
+M BF        (
+(
+(
+(
+M
+N
+M
+N))
+))
+KK
+KK
+ää
+ää
+nn
+nn
+nn
+nn
+ee
+ee
+rr
+rr
+dd
+dd
+uu
+uu
+dd
+aa
+ii
+tt
+gg
+tt d
+t
+d
+trr
+uu
+yy gg
+kk
+gg
+aa nn
+ii ss
+vv
+kk
+aa
+oo
+rr
+ll
+aa
+aa nn
+dd
+??
+iigg ssjjäällvv ii sskkoollaann??
+U              P         ((OO)) LLiittaarr dduu ppåå aatttt ddee vvuuxxnnaa ii sskkoollaann ggöörr ttiillllrrääcckklliiggtt oomm nnååggoonn eelleevv bblliirr iillllaa bbeehhaannddllaadd??
 ((PP)) KKäännnneerr dduu aatttt ddeett ffiinnnnss nnååggoonn vvuuxxeenn ii sskkoollaann ssoomm bbrryyrr ssiigg oomm hhuurr dduu mmåårr??
-60                                        ((QQ)) TTyycckkeerr dduu aatttt lläärraarrnnaa fföörrkkllaarraarr vvaadd dduu bbeehhöövveerr kkuunnnnaa fföörr aatttt nnåå kkuunnsskkaappsskkrraavveenn??
-((RR)) TTyycckkeerr dduu aatttt lläärraarrnnaa vvaarriieerraarr lleekkttiioonneerrnnaa ssåå aatttt nnii ffåårr aarrbbeettaa ppåå oolliikkaa ssäätttt??
-((SS)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr vvaarraa mmeedd oocchh ppååvveerrkkaa hhuurr nnii sskkaa aarrbbeettaa ppåå
-((TT)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann llyyssssnnaarr ppåå fföörrssllaagg ffrråånn eelleevveerrnnaa ttiillll eexxeemmppeell ffrråånn
+60                        E ID AC X O     ( ( ( ( Q R Q R ) ) ) ) T T T T y y y y c c c c k k k k e e e e r r r r d d d d u u u u a a a a t t t t t t t t l l l l ä ä ä ä r r r r a a a a r r r r n n n n a a a a f v f v öö aa rr rr kk iiee llaa rraa rraa rr rr ll ee vv kk aa tt dd iioo dd nn uu ee rr bb nn ee aa hh öö ss vv åå ee aa rr tt kk tt uu nn nn ii nn ff aa åå rr ff öö aa rr rr bb aa ee tt tt tt aa nn pp åå åå kk oo uu ll nn iikk sskk aa aa ss pp ää ss tt kk tt?? rraavveenn??
+AA      Q          ((SS)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr vvaarraa mmeedd oocchh ppååvveerrkkaa hhuurr nnii sskkaa aarrbbeettaa ppåå
+W     Y      ((TT)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt ddee vvuuxxnnaa ii sskkoollaann llyyssssnnaarr ppåå fföörrssllaagg ffrråånn eelleevveerrnnaa ttiillll eexxeemmppeell ffrråånn
 50                                        ((UU)) HHuurr ooffttaa ttyycckkeerr dduu aatttt sskkoollaarrbbeetteett äärr fföörr lläätttt??
-((VV)) HHuurr ooffttaa ttyycckkeerr dduu aatttt sskkoollaarrbbeetteett äärr fföörr ssvvåårrtt??
-((WW)) TTyycckkeerr dduu aatttt dduu ffåårr vveettaa hhuurr ddeett ggåårr fföörr ddiigg ii sskkoollaarrbbeetteett??
+AD                  V  A H B        ((VV)) HHuurr ooffttaa ttyycckkeerr dduu aatttt sskkoollaarrbbeetteett äärr fföörr ssvvåårrtt??
+T          ((WW)) TTyycckkeerr dduu aatttt dduu ffåårr vveettaa hhuurr ddeett ggåårr fföörr ddiigg ii sskkoollaarrbbeetteett??
+CR
 ((XX)) TTyycckkeerr dduu aatttt dduu ffåårr ddeenn hhjjäällpp dduu bbeehhöövveerr ffrråånn sskkoollaann fföörr aatttt kkllaarraa sskkoollaarrbbeetteett??
-40                                        ((YY)) TTyycckkeerr dduu aatttt lläärraarrnnaa ffåårr ddiigg aatttt ttrroo ppåå ddiigg ssjjäällvv ii sskkoollaarrbbeetteett??
-((ZZ)) TTyycckkeerr dduu aatttt uuttvveecckklliinnggssssaammttaalleett äärr ttiillll hhjjäällpp fföörr ddiigg ii sskkoollaarrbbeetteett??
+40      AE                   S            ((YY)) TTyycckkeerr dduu aatttt lläärraarrnnaa ffåårr ddiigg aatttt ttrroo ppåå ddiigg ssjjäällvv ii sskkoollaarrbbeetteett??
+Z           ((ZZ)) TTyycckkeerr dduu aatttt uuttvveecckklliinnggssssaammttaalleett äärr ttiillll hhjjäällpp fföörr ddiigg ii sskkoollaarrbbeetteett??
 ((AAAA)) HHuurr mmyycckkeett pprraattaarr lläärraarrnnaa oomm aatttt aalllltt mmaann hhöörr oocchh lläässeerr,, ttiillll eexxeemmppeell ppåå iinntteerrnneett,, iinnttee
 ((AABB)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr öövvaa ppåå aatttt ddiisskkuutteerraa ffrrååggoorr ddäärr mmaann kkaann ttyycckkaa oolliikkaa??
 30                                        ((AACC)) TTyycckkeerr dduu aatttt lläärraarrnnaa bbeehhaannddllaarr aallllaa eelleevveerr lliikkaa ooaavvsseetttt oomm ddee äärr fflliicckkoorr,, ppoojjkkaarr eelllleerr hhaarr
 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500 ((AADD)) TTyycckkeerr dduu aatttt dduu ffåårr ddeenn hhjjäällpp dduu bbeehhöövveerr ffrråånn sskkoollaann fföörr aatttt kkuunnnnaa vväälljjaa ffrraammttiiddaa
 Samband                  ((AAEE)) KKäännnneerr dduu ddiigg fföörrbbeerreedddd iinnfföörr ffrraammttiiddaa uuttbbiillddnniinnggss--oocchh yyrrkkeessvvaall??
 Kungsbacka | Svarsfrekvens 71%
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | K<br>J |  |  |  |
-|  |  |  |  |  |  |  | L<br>A<br>N |  |
-|  |  |  | U |  | G |  | M BF<br>P |  |
-|  |  |  |  |  | ID<br>E |  |  | O |
-|  |  |  |  | AA |  |  | AC<br>Q<br>W | X<br>Y |
-| AD |  |  |  |  | V | A<br>H | B<br>T<br>CR |  |
-|  | AE |  |  |  |  |  | S<br>Z |  |
 
 <!-- sida 144 -->
 
@@ -4202,22 +4181,23 @@ Trygghet          Studiero Elevhälsan                  om
 kränkningar                 elever   lärare
 utbildningen
 
-```osaker-tabell
-Kungsbacka               83       54       59       62       68       67      55
-Frillesåsskolan           84      43       55       60       65       62      51
-Fullriggaren Malevik      93      58       64       68       71       75      63
-Hålabäcksskolan           82      54       59       58       68       65      53
-Kapareskolan              87      57       57       59       73       63      53
-Kollaskolan               82      51       59       58       68       73      53
-Kullaviksskolan           86      58       56       66       71       69      60
-Skårbyskolan              81      47       55       65       64       65      56
-Smedingeskolan            81      43       56       48       65       58      47
-Särö skolan               83      57       61       65       69       71      45
-Varlaskolan               84      62       65       67       71       72      60
-Åsaskolan                 77      47       55       59       60       66      55
-```
-
 Kungsbacka | Svarsfrekvens 71%
+
+[Tabell 144-1](handlingar.tabeller/144-1.csv)
+
+| Kungsbacka | 83 | 54 | 59 | 62 | 68 | 67 | 55 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Frillesåsskolan | 84 | 43 | 55 | 60 | 65 | 62 | 51 |
+| Fullriggaren Malevik | 93 | 58 | 64 | 68 | 71 | 75 | 63 |
+| Hålabäcksskolan | 82 | 54 | 59 | 58 | 68 | 65 | 53 |
+| Kapareskolan | 87 | 57 | 57 | 59 | 73 | 63 | 53 |
+| Kollaskolan | 82 | 51 | 59 | 58 | 68 | 73 | 53 |
+| Kullaviksskolan | 86 | 58 | 56 | 66 | 71 | 69 | 60 |
+| Skårbyskolan | 81 | 47 | 55 | 65 | 64 | 65 | 56 |
+| Smedingeskolan | 81 | 43 | 56 | 48 | 65 | 58 | 47 |
+| Särö skolan | 83 | 57 | 61 | 65 | 69 | 71 | 45 |
+| Varlaskolan | 84 | 62 | 65 | 67 | 71 | 72 | 60 |
+| Åsaskolan | 77 | 47 | 55 | 59 | 60 | 66 | 55 |
 
 <!-- sida 145 -->
 
@@ -4229,23 +4209,23 @@ Kritiskt           Skola och
 Inflytande Stimulans Stöd               Nöjdhet
 tänkande            framtid
 
-```osaker-tabell
-Kungsbacka                   43        51        58       52        59        44
-Frillesåsskolan              41        51        56       63        52        51
-Fullriggaren Malevik         56        60        63       70        74        49
-Hålabäcksskolan              39        49        57       43        51        40
-Kapareskolan                 41        51        60       53        59        40
-Kollaskolan                  38        49        58       55        59        41
-Kullaviksskolan              47        58        63       53        62        56
-Skårbyskolan                 38        49        53       52        57        45
-
-Smedingeskolan               37        45        52       45        45        40
-Särö skolan                  43        52        59       52        64        38
-Varlaskolan                  46        52        62       54        69        49
-Åsaskolan                    43        46        52       44        48        33
-```
-
 Kungsbacka | Svarsfrekvens 71%
+
+[Tabell 145-1](handlingar.tabeller/145-1.csv)
+
+| Kungsbacka | 43 | 51 | 58 | 52 | 59 | 44 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Frillesåsskolan | 41 | 51 | 56 | 63 | 52 | 51 |
+| Fullriggaren Malevik | 56 | 60 | 63 | 70 | 74 | 49 |
+| Hålabäcksskolan | 39 | 49 | 57 | 43 | 51 | 40 |
+| Kapareskolan | 41 | 51 | 60 | 53 | 59 | 40 |
+| Kollaskolan | 38 | 49 | 58 | 55 | 59 | 41 |
+| Kullaviksskolan | 47 | 58 | 63 | 53 | 62 | 56 |
+| Skårbyskolan | 38 | 49 | 53 | 52 | 57 | 45 |
+| Smedingeskolan | 37 | 45 | 52 | 45 | 45 | 40 |
+| Särö skolan | 43 | 52 | 59 | 52 | 64 | 38 |
+| Varlaskolan | 46 | 52 | 62 | 54 | 69 | 49 |
+| Åsaskolan | 43 | 46 | 52 | 44 | 48 | 33 |
 
 <!-- sida 146 -->
 

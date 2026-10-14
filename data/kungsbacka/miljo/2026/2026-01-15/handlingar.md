@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.62c3db1319b354a0c1172244/1767959820
 sha256: f4d8eaa5545d55cf38e0df6c6f8911cb965c0e39cd5c1915940ecece27a3c1be
 bytes: 1342517
 sidor: 51
-hamtad: 2026-10-08T08:07:41+00:00
-konverterad: 2026-10-08T08:07:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:02:41+00:00
+konverterad: 2026-10-14T11:02:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [8, 10, 13, 16, 19, 27]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -408,7 +408,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 9
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-12-1](handlingar.tabeller/11-12-1.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -419,18 +419,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | B |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | B |  |  |
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | A |  | Väl etablerad indikator som<br>fångar omställning mot<br>fossilfrihet. Relevant för både<br>klimatmål och kommunens<br>attraktivitet samt möjlig att<br>följa över tid. |
-
-<!-- sida 12 -->
-
-Byggnadsnämnden                                  Kungsbacka kommun
-Underlag till Kommunbudget 2027
-
-10
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | A |  | Väl etablerad indikator som<br>fångar omställning mot<br>fossilfrihet. Relevant för både<br>klimatmål och kommunens<br>attraktivitet samt möjlig att<br>följa över tid. |
-| --- | --- | --- | --- |
 | Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | A |  | Tydlig, konkret och direkt<br>kopplad till klimatmål och<br>kommunens egen rådighet.<br>Bra indikator för att följa både<br>styrning och effekt av<br>politiska beslut inom offentlig<br>konsumtion. Lämplig även för<br>långsiktig budgetuppföljning. |
 | Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | A |  | Relevant indikator för<br>kemikaliestrategiskt arbete,<br>giftfri miljö och arbetsmiljö.<br>Tydlig koppling till miljö- och<br>hälsoskydd samt möjlig att<br>påverka genom upphandling<br>och interna rutiner. |
 | Ekologisk status i Kungsbackafjorden (VISS) | B |  | Mycket viktig indikator ur<br>miljö- och<br>ekosystemperspektiv, men<br>påverkas av många externa<br>aktörer och långsamma<br>processer. Lämplig som<br>långsiktig trendindikator<br>snarare än kortsiktig<br>styrindikator i budget. |
@@ -438,6 +427,13 @@ Underlag till Kommunbudget 2027
 | Andelen återbrukade möbler | A |  |  |
 | Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | B |  | Relevant ur resurs- och<br>klimathänseende, men<br>påverkas av<br>befolkningsstruktur,<br>verksamhetsmix och väder.<br>Användbar som<br>övergripande trendindikator,<br>men svår att styra direkt<br>genom enskilda<br>budgetbeslut. |
 | Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A |  |  |
+
+<!-- sida 12 -->
+
+Byggnadsnämnden                                  Kungsbacka kommun
+Underlag till Kommunbudget 2027
+
+10
 
 <!-- sida 13 -->
 
@@ -1329,7 +1325,7 @@ Fokusområden
 
 13
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1338,6 +1334,8 @@ Fokusområden
 | Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  | Minska |
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
 
 <!-- sida 37 -->
 
@@ -1357,14 +1355,7 @@ mångfald.
 
 14
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
-| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
-
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1374,6 +1365,17 @@ mångfald.
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 89 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>flickor. | 73 % | 75 % |  | Öka |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 86 % | 88 % |  | Öka |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 38 -->
 
@@ -1391,22 +1393,6 @@ Fokusområden
 mellan näringsliv och utbildning.
 
 15
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
-| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
-| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 39 -->
 

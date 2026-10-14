@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a920b479c/1758530920
 sha256: d83fa45a6714e35c73ebd5efc04a3a0010181c2cc6d5268c43fc6a3a532934db
 bytes: 1882911
 sidor: 45
-hamtad: 2026-10-08T02:12:32+00:00
-konverterad: 2026-10-08T02:12:47+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:51:47+00:00
+konverterad: 2026-10-14T09:52:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [3, 6, 7, 10, 11, 12]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1510,6 +1510,23 @@ Delårsrapport augusti 2025
 7.1 Uppföljning drift delår
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2024    2025   2025   avvikelse 2024    2025    delår
+Service, Intäkter 526,2 538,7  538,1    -0,6   352,8   357,6     4,8
+Service,
+-573,4 -595,8  -591,0     4,8   -378,3 -378,1     0,2
+kostnader
+SE Fastigheter,
+876,0   911,8   909,7    -2,1   577,7   600,2    22,5
+Intäkter
+SE Fastigheter,
+-908,6 -954,7  -920,2    34,5   -595,9 -593,5     2,4
+kostnader
+Ram             71,1   100,0   100,0     0,0    47,4    66,7    19,3
+Periodens
+-8,7    0,0    36,6     36,6     3,7    52,9    49,2
+resultat
 Sammanfattning - text till kommunstyrelsen
 Nämnden för Service rapporterar en prognos för helåret som visar ett totalt överskott på +36,6 miljoner kronor
 (mkr). En stor del av överskottet kommer att regleras ned i årsbokslutet då ett antal projekt redan tilldelats
@@ -1523,7 +1540,6 @@ däremot tidigare bedömts kunna påbörjas under innevarande år men innan somm
 takkonstruktionen var i sämre skick än väntat. Det har resulterat i en revidering av insatserna och även denna
 budget flyttas över till år 2026 i årsredovisningen. Lokalförsörjning har en avvikelse för projektet kvarteret
 Liljan på +6,7 mkr där budget också bedöms flyttas till nästkommande år.
-
 Utöver ovan nämnda projekt finns ytterligare en stor avvikelse. Fastighet har planerat för ett antal åtgärder för
 att möta framtida EU-direktiv gällande energieffektivitet samt för att utveckla den strategiska förvaltningen av
 fastighetsbeståndet. En del av dessa satsningar behöver utökade undersökningar och några av inköpen kommer
@@ -1537,16 +1553,6 @@ Avvikelsen mellan åren förklaras till merparten av två saker, dels internpris
 procent samt tilldelad ram avseende Toråsskolan och Alekärret.
 
 28
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-| Miljoner kronor<br>Service, Intäkter | Bokslut<br>2024<br>526,2 | Budget<br>2025<br>538,7 | Prognos<br>2025<br>538,1 | Budget-<br>avvikelse<br>-0,6 | Delår<br>2024<br>352,8 | Delår<br>2025<br>357,6 | Avvikelse<br>delår<br>4,8 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Service,<br>kostnader | -573,4 | -595,8 | -591,0 | 4,8 | -378,3 | -378,1 | 0,2 |
-| SE Fastigheter,<br>Intäkter | 876,0 | 911,8 | 909,7 | -2,1 | 577,7 | 600,2 | 22,5 |
-| SE Fastigheter,<br>kostnader | -908,6 | -954,7 | -920,2 | 34,5 | -595,9 | -593,5 | 2,4 |
-| Ram | 71,1 | 100,0 | 100,0 | 0,0 | 47,4 | 66,7 | 19,3 |
-| Periodens<br>resultat | -8,7 | 0,0 | 36,6 | 36,6 | 3,7 | 52,9 | 49,2 |
 
 <!-- sida 31 -->
 
@@ -1567,6 +1573,38 @@ som inte avviker mycket från prognosen i april.
 
 Budgetavvikelse – uppföljning per verksamhetsområde
 
+Budget-
+Verksamhet         Bokslut Budget Progno avvikels Delår Delår Avvikel
+
+```osaker-tabell
+                    2024   2025   s 2025  e     2024   2025  se delår
+Gem. Verks. Intäkt    28,6   24,1   24,1    0,0   19,1   26,4    7,3
+
+          Kostnad    -24,6  -30,3  -29,0    1,3  -16,7  -29,0  -12,3
+          Netto       4,0    -6,1   -4,9    1,2    2,4   -2,7   -5,1
+
+DC        Intäkt      83,7   91,6   90,1   -1,5   56,6   60,1    3,5
+          Kostnad    -87,9  -99,2  -98,6    0,6  -56,6  -63,7   -7,1
+          Netto       -4,2   -7,6   -8,5   -0,9     0    -3,6   -3,6
+
+HR & PF   Intäkt      29,8   36,6   34,9   -1,7   19,1   23,4    4,3
+          Kostnad    -42,3  -42,8  -41,4    1,4  -29,9  -27,7    2,2
+          Netto      -12,5   -6,2   -6,5   -0,3  -10,8   -4,3    6,5
+
+UKK       Intäkt      18,8   23,5   23,5    0,0   12,3   16,9    4,6
+          Kostnad    -42,0  -49,5  -47,8    1,7  -27,8  -30,7   -2,9
+
+          Netto      -23,3  -26,0  -24,3    1,7  -15,4  -13,8    1,6
+Inköp     Intäkt      33,2   31,4   31,6    0,2   23,0   21,3   -1,7
+          Kostnad    -37,0  -35,3  -37,0   -1,7  -23,2  -24,2   -1,0
+
+          Netto       -3,9   -3,9   -5,4   -1,5   -0,2   -2,9   -2,7
+Måltider  Intäkt     238,7  240,8  242,1    1,3  160,4  161,5    1,1
+
+          Kostnad   -249,5 -249,2 -249,2    0,0  -163,2 -159,4   3,8
+          Netto      -10,7   -8,4   -7,0    1,4   -2,8    2,1    4,9
+```
+
 29
 
 [Tabell 31-1](handlingar.tabeller/31-1.csv)
@@ -1576,28 +1614,6 @@ Budgetavvikelse – uppföljning per verksamhetsområde
 | Service | 0,1 | 4,2 | 4,1 |
 | SE Fastigheter | -2,4 | 32,3 | 34,7 |
 | Totalt | -2,3 | 36,5 | 38,8 |
-
-[Tabell 31-2](handlingar.tabeller/31-2.csv)
-
-| Verksamhet<br>Gem. Verks. | Intäkt | Bokslut<br>2024<br>28,6 | Budget<br>2025<br>24,1 | Progno<br>s 2025<br>24,1 | Budget-<br>avvikels<br>e<br>0,0 | Delår<br>2024<br>19,1 | Delår<br>2025<br>26,4 | Avvikel<br>se delår<br>7,3 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Kostnad | -24,6 | -30,3 | -29,0 | 1,3 | -16,7 | -29,0 | -12,3 |
-|  | Netto | 4,0 | -6,1 | -4,9 | 1,2 | 2,4 | -2,7 | -5,1 |
-| DC | Intäkt | 83,7 | 91,6 | 90,1 | -1,5 | 56,6 | 60,1 | 3,5 |
-|  | Kostnad | -87,9 | -99,2 | -98,6 | 0,6 | -56,6 | -63,7 | -7,1 |
-|  | Netto | -4,2 | -7,6 | -8,5 | -0,9 | 0 | -3,6 | -3,6 |
-| HR & PF | Intäkt | 29,8 | 36,6 | 34,9 | -1,7 | 19,1 | 23,4 | 4,3 |
-|  | Kostnad | -42,3 | -42,8 | -41,4 | 1,4 | -29,9 | -27,7 | 2,2 |
-|  | Netto | -12,5 | -6,2 | -6,5 | -0,3 | -10,8 | -4,3 | 6,5 |
-| UKK | Intäkt | 18,8 | 23,5 | 23,5 | 0,0 | 12,3 | 16,9 | 4,6 |
-|  | Kostnad | -42,0 | -49,5 | -47,8 | 1,7 | -27,8 | -30,7 | -2,9 |
-|  | Netto | -23,3 | -26,0 | -24,3 | 1,7 | -15,4 | -13,8 | 1,6 |
-| Inköp | Intäkt | 33,2 | 31,4 | 31,6 | 0,2 | 23,0 | 21,3 | -1,7 |
-|  | Kostnad | -37,0 | -35,3 | -37,0 | -1,7 | -23,2 | -24,2 | -1,0 |
-|  | Netto | -3,9 | -3,9 | -5,4 | -1,5 | -0,2 | -2,9 | -2,7 |
-| Måltider | Intäkt | 238,7 | 240,8 | 242,1 | 1,3 | 160,4 | 161,5 | 1,1 |
-|  | Kostnad | -249,5 | -249,2 | -249,2 | 0,0 | -163,2 | -159,4 | 3,8 |
-|  | Netto | -10,7 | -8,4 | -7,0 | 1,4 | -2,8 | 2,1 | 4,9 |
 
 <!-- sida 32 -->
 
@@ -1751,7 +1767,7 @@ Utfall och prognos
 
 32
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
 
 | Miljoner kronor | Bokslut 2024 | Budget 2025 | Prognos 2025 | Budget-<br>avvikelse<br>2025 | Delår 2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -1763,6 +1779,13 @@ Utfall och prognos
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+| Service |  |  |  |  |  |
+| Löpande årliga<br>investeringar |  |  |  |  |  |
+| Utgifter | -18,5 | -34,0 | -28,0 | 6,0 | -8,5 |
+| Övriga investeringar |  |  |  |  |  |
+| Inkomster | 0 | 0 | 0 | 0 | 0 |
+| Utgifter | 0 | -8,0 | 0 | 8,0 | 0 |
+| Netto | -237,3 | -301,8 | -253,1 | 48,7 | -85,9 |
 
 <!-- sida 35 -->
 
@@ -1806,18 +1829,6 @@ positiva upplevelser än så länge. Ytterligare ett inköp av en städrobot pla
 
 33
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Miljoner kronor | Bokslut 2024 | Budget 2025 | Prognos 2025 | Budget-<br>avvikelse<br>2025 | Delår 2025 |
-| --- | --- | --- | --- | --- | --- |
-| Service |  |  |  |  |  |
-| Löpande årliga<br>investeringar |  |  |  |  |  |
-| Utgifter | -18,5 | -34,0 | -28,0 | 6,0 | -8,5 |
-| Övriga investeringar |  |  |  |  |  |
-| Inkomster | 0 | 0 | 0 | 0 | 0 |
-| Utgifter | 0 | -8,0 | 0 | 8,0 | 0 |
-| Netto | -237,3 | -301,8 | -253,1 | 48,7 | -85,9 |
-
 <!-- sida 36 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -1832,33 +1843,90 @@ accesspunkter kunde genomföras redan föregående år.
 7.2.1 Specifikation projekt
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
+Ack utfall
+Helårs-       Avvik
+Proj             Total- Total-  Avvikelse totalt tom    Budget
+Text                                        prognos        else
+nr              budget prognos totalt   augusti        2025
+2025          2025
+2025
+8979
+Anneberg
+/898               -383,3 -383,3    0,0     -1,5    0,0    0,0   0,0
+samverkanhus
+2
+8972 Duvehed
+/897 omlastnings-  -66,3   -55,5    10,8   -55,6   -1,5   -7,2   5,7
+3  station
+4907 Iseråsskolan ny-
+/490 och ombyggnad -201,4 -201,4    0,0     -6,0   -34,8 -35,4   0,6
+8  och idrottshall
+8967
+Klockaregårdens
+/896               -88,6   -92,9    -4,3   -91,3   -8,4   -4,2  -4,2
+förskola
+8
+4932
+Klovsten
+/433               -128,0 -128,0    0,0     -0,7    0,0  -20,4  20,4
+Räddningstjänst
+3
+4937
+Liljans skola och
+/493               -222,5 -225,3    -2,8    -1,1   -4,1    0,7  -4,8
+idrottssal
+8
+4939
+Ombyggnad
+/494               -44,2   -44,2    0,0     -1,2   -1,9    0,8  -2,7
+Stadshuset hus B
+0
+4914
+/491 Skårby förskola -101,4 -101,4  0,0     -2,4    0,0          0,0
+5
+8961 Skårbyskolan
+/896 utbildningslokaler -266,4 -259,6 6,8 -238,4   -21,6 -28,0   6,4
+2  & idrottshall
+8978
+Stockalids
+/898               -71,8   -71,5    0,3    -69,6   -9,7  -10,0   0,3
+förskola
+3
+8944 Vallda BmSS
+/894 (boende med   -42,6   -38,5    4,1    -34,6   -18,5 -23,1   4,6
+5 särskild service)
 34
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2025 | Helårs-<br>prognos<br>2025 | Budget<br>2025 | Avvik<br>else<br>2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8979<br>/898<br>2 | Anneberg<br>samverkanhus | -383,3 | -383,3 | 0,0 | -1,5 | 0,0 | 0,0 | 0,0 |
-| 8972<br>/897<br>3 | Duvehed<br>omlastnings-<br>station | -66,3 | -55,5 | 10,8 | -55,6 | -1,5 | -7,2 | 5,7 |
-| 4907<br>/490<br>8 | Iseråsskolan ny-<br>och ombyggnad<br>och idrottshall | -201,4 | -201,4 | 0,0 | -6,0 | -34,8 | -35,4 | 0,6 |
-| 8967<br>/896<br>8 | Klockaregårdens<br>förskola | -88,6 | -92,9 | -4,3 | -91,3 | -8,4 | -4,2 | -4,2 |
-| 4932<br>/433<br>3 | Klovsten<br>Räddningstjänst | -128,0 | -128,0 | 0,0 | -0,7 | 0,0 | -20,4 | 20,4 |
-| 4937<br>/493<br>8 | Liljans skola och<br>idrottssal | -222,5 | -225,3 | -2,8 | -1,1 | -4,1 | 0,7 | -4,8 |
-| 4939<br>/494<br>0 | Ombyggnad<br>Stadshuset hus B | -44,2 | -44,2 | 0,0 | -1,2 | -1,9 | 0,8 | -2,7 |
-| 4914<br>/491<br>5 | Skårby förskola | -101,4 | -101,4 | 0,0 | -2,4 | 0,0 |  | 0,0 |
-| 8961<br>/896<br>2 | Skårbyskolan<br>utbildningslokaler<br>& idrottshall | -266,4 | -259,6 | 6,8 | -238,4 | -21,6 | -28,0 | 6,4 |
-| 8978<br>/898<br>3 | Stockalids<br>förskola | -71,8 | -71,5 | 0,3 | -69,6 | -9,7 | -10,0 | 0,3 |
-| 8944<br>/894<br>5 | Vallda BmSS<br>(boende med<br>särskild service) | -42,6 | -38,5 | 4,1 | -34,6 | -18,5 | -23,1 | 4,6 |
 
 <!-- sida 37 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2025
 
+Ack utfall
+Helårs-       Avvik
+Proj             Total- Total-  Avvikelse totalt tom    Budget
+Text                                        prognos        else
+nr              budget prognos totalt   augusti        2025
+2025          2025
+2025
+4943
+/494 Åsa grundskola -227,2 -227,2   0,0     -0,5   -5,5    0,0  -5,5
+4
+4920
+Äpplegårdens
+/492               -81,8   -81,8    0,0     -3,5    0,0    0,0   0,0
+förskola
+1
+4910
+/491 Gräskärr förskola -106,8 -106,8 0,0    -0,8    0,0    0,0   0,0
+1
+461 Toråsskolan
+-53,5   -53,5    0,0     -0,7   -2,0   -5,4   3,4
+P  reinvestering
+Summa projekt -2 085,8 -2 070,9 14,9 -507,9 -108,0 -132,2 24,2
 Kommentarer - text till kommunstyrelsen
 Under året har Åsa grundskola och Liljans skola och idrottshall startat upp efter en längre paus. Även
 Toråsskolan har startat upp och är ett projekt av karaktären reinvesteringsprojekt.
-
 Större pågående projekt är ombyggnad Stadshuset hus B och Vallda boende med särskild service. Projekt som
 har avslutats eller som i princip är avslutade är Klockaregårdens förskola, Duvehed omlastningsstation och
 Stockalids förskola. Skårbyskolan och idrottshall har ännu inte slutreglerats ekonomiskt.
@@ -1868,16 +1936,6 @@ av en utredning av samtliga skolor och förskolor i Onsala. Även Annebergs samv
 Klovsten Räddningstjänsten har pausats, men i dessa fall beror det på utmaningar med detaljplaner.
 
 35
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2025 | Helårs-<br>prognos<br>2025 | Budget<br>2025 | Avvik<br>else<br>2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4943<br>/494<br>4 | Åsa grundskola | -227,2 | -227,2 | 0,0 | -0,5 | -5,5 | 0,0 | -5,5 |
-| 4920<br>/492<br>1 | Äpplegårdens<br>förskola | -81,8 | -81,8 | 0,0 | -3,5 | 0,0 | 0,0 | 0,0 |
-| 4910<br>/491<br>1 | Gräskärr förskola | -106,8 | -106,8 | 0,0 | -0,8 | 0,0 | 0,0 | 0,0 |
-| 461<br>P | Toråsskolan<br>reinvestering | -53,5 | -53,5 | 0,0 | -0,7 | -2,0 | -5,4 | 3,4 |
-| Summa projekt |  | -2 085,8 | -2 070,9 | 14,9 | -507,9 | -108,0 | -132,2 | 24,2 |
 
 <!-- sida 38 -->
 

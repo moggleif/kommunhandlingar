@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3a9ed51194d84d9470edeb6/17395228113
 sha256: 23f9e4cf61ec36d8ececb1db03e069d9e167d43a67a393e534e253089b356d13
 bytes: 37192344
 sidor: 480
-hamtad: 2026-10-08T01:03:36+00:00
-konverterad: 2026-10-08T01:05:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:53:00+00:00
+konverterad: 2026-10-14T08:54:32+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [145, 146, 231]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
+tal_obekraftade: [145, 146, 231, 330]
+figurer: [54, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 142, 143, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 182, 187, 190, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 237, 240, 241, 249, 250, 257, 258, 259, 260, 265, 266, 267, 268, 270, 272, 273, 274, 275, 279, 299, 301, 306, 307, 309, 311, 312, 315, 316, 317, 318, 319, 323, 324, 325, 326, 327, 328, 329, 334, 338, 347, 349, 350, 351, 366, 367, 368, 369, 374, 376, 377, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 396, 397, 399, 401, 402, 403, 404, 407, 409, 413, 421, 422, 423, 424, 426, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 447, 448, 449, 450, 466, 467, 468, 470]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -106,8 +106,9 @@ uppgår i bokslutet 2023 till 11,1 miljoner kronor. Det negativa resultatet inne
 
 [Tabell 3-1](handlingar.tabeller/3-1.csv)
 
-| Intäkter | Utfall 2022<br>79,1 | Utfall 2023<br>110,5 | Utfall 2024<br>94,1 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 79,1 | 110,5 | 94,1 |
 | Kostnader | -307,2 | -337,6 | -337,2 |
 | Netto | -228,1 | -227,1 | -243,1 |
 | Budget, netto | -223,4 | -222,3 | -243,3 |
@@ -115,8 +116,9 @@ uppgår i bokslutet 2023 till 11,1 miljoner kronor. Det negativa resultatet inne
 
 [Tabell 3-2](handlingar.tabeller/3-2.csv)
 
-| Intäkter | Utfall 2022<br>195,7 | Utfall 2023<br>205,2 | Utfall 2024<br>224,1 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 195,7 | 205,2 | 224,1 |
 | Kostnader | -184,0 | -213,3 | -234,4 |
 | Netto | 11,7 | -8,1 | -10,3 |
 | Reglering skuld VA-<br>abonnenterna | -11,7 | 8,1 | 10,3 |
@@ -161,8 +163,9 @@ Efter bokslutet uppgår fonden till 2,6 mnkr,
 
 [Tabell 4-1](handlingar.tabeller/4-1.csv)
 
-| Intäkter | Utfall 2022<br>90,6 | Utfall 2023<br>94,8 | Utfall 2024<br>115,2 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 90,6 | 94,8 | 115,2 |
 | Kostnader | -97,9 | -100,7 | -117,9 |
 | Netto | -7,3 | -5,9 | -2,7 |
 | Reglering skuld<br>abonnenterna | 7,3 | 5,9 | 2,7 |
@@ -170,8 +173,9 @@ Efter bokslutet uppgår fonden till 2,6 mnkr,
 
 [Tabell 4-2](handlingar.tabeller/4-2.csv)
 
-| Intäkter | Utfall 2022<br>34,5 | Utfall 2023<br>36,2 | Utfall 2024<br>40,8 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 34,5 | 36,2 | 40,8 |
 | Kostnader | -32,8 | -37,5 | -42,1 |
 | Netto | 1,7 | -1,3 | -1,3 |
 | Reglering fordran<br>abonnenterna | -1,7 | 1,3 | 1,3 |
@@ -224,15 +228,17 @@ Fjärås vattenverk till Hammerö, Ledningsutbyggnad etapp 2. är i upphandlings
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Inkomster | Utfall 2022<br>4,0 | Utfall 2023<br>2,8 | Utfall 2024<br>2,9 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Inkomster | 4,0 | 2,8 | 2,9 |
 | Utgifter | -80,2 | -192,3 | -55,0 |
 | Netto | -76,2 | -189,5 | -52,1 |
 
 [Tabell 5-2](handlingar.tabeller/5-2.csv)
 
-| Inkomster | Utfall 2022<br>70,5 | Utfall 2023<br>43,1 | Utfall 2024<br>37,8 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Inkomster | 70,5 | 43,1 | 37,8 |
 | Utgifter | -246,4 | -357,1 | -336,3 |
 | Netto | -175,9 | -314,0 | -298,5 |
 
@@ -281,15 +287,17 @@ med hållbar vattenanvändning.
 
 [Tabell 6-1](handlingar.tabeller/6-1.csv)
 
-| Inkomster | Utfall 2022<br>0,0 | Utfall 2023<br>0,0 | Utfall 2024<br>0,0 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Inkomster | 0,0 | 0,0 | 0,0 |
 | Utgifter | -2,0 | -2,7 | -2,0 |
 | Netto | -2,0 | -2,7 | -2,0 |
 
 [Tabell 6-2](handlingar.tabeller/6-2.csv)
 
-| Inkomster | Utfall 2022<br>8,0 | Utfall 2023<br>8,3 | Utfall 2024<br>4,8 |
+|  | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Inkomster | 8,0 | 8,3 | 4,8 |
 | Utgifter | -46,0 | -43,4 | -39,9 |
 | Netto | -38,0 | -35,1 | -35,1 |
 
@@ -1018,11 +1026,13 @@ Nämndens årsredovisning 2024
 
 22
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
 | Område | Status Beskrivning Kommentar<br>När snön faller är det<br>kommunens ansvar att snöröja<br>och halkbekämpa de kommunala<br>vägarna. Vi prioriterar snöröjning<br>för kollektivtrafikens<br>framkomlighet tillsammans med<br>framkomlighet för gående- och<br>cyklister högst. Övriga trafikslag<br>prioriteras därefter, uppställt blir<br>prioriteringen enligt följande:<br>Prioritet I:<br>Resecentrum<br>Gång- och cykelvägar samt<br>busshållplatser.<br>Plogning och flisning inom åtta<br>timmar från att snöfallet upphört<br>eller att kommunen kallat ut för<br>snöröjning.<br>Prioritet II:<br>Huvudvägnätet. Plogning och<br>flisning inom tio timmar från att<br>snöfallet upphört eller att<br>kommunen kallat ut för<br>snöröjning.<br>Prioritet III:<br>Lokalgator. Plogning och flisning<br>inom ett dygn från att snöfallet<br>upphör eller att kommunen kallat<br>ut för snöröjning. |
 | --- | --- |
 |  | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt. Budskap som<br>är av stötande karaktär saneras<br>senast inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Övrigt klotter saneras senast<br>inom en vecka om<br>yttertemperatur och väder tillåter.<br>Vi polisanmäler allt klotter. Vi<br>samarbetar med polisen och<br>arbetar för ökad samverkan inom<br>klotterbekämpning med övriga<br>parter. |
+| Område | Status Beskrivning Kommentar<br>Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |
+| Vatten & avlopp | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |
 
 <!-- sida 23 -->
 
@@ -1031,12 +1041,6 @@ Nämndens årsredovisning 2024
 
 23
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Område | Status Beskrivning Kommentar<br>Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |
-| --- | --- |
-| Vatten & avlopp | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |
-
 <!-- sida 24 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -1044,11 +1048,14 @@ Nämndens årsredovisning 2024
 
 24
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | Område | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta<br>vattentips, till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |
 | --- | --- |
 |  | Vi lovar:<br>- Att allt slam som blir kvar när vi<br>renat vårt avloppsvatten återgår<br>till jordbruket där det bidrar till att<br>återföra fosfor och producera nya<br>grödor.<br>- Att vårt slam uppfyller nationella<br>krav för vilka halter av olika<br>ämnen som får finnas i det.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sluta fulspola! Bara spolar ner<br>bajs, kiss och toapapper i<br>toaletten.<br>- Slänga allt annat, till exempel<br>våtservetter, tops, bindor, snus<br>och fimpar i soppåsen för<br>brännbart avfall<br>- Skaffa en papperskorg i<br>badrummet så att skräp inte<br>hamnar i toaletten.<br>- Lämna gamla mediciner på ett<br>apotek. |
+| Område<br>Avfall &<br>Återvinning | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>missad hämtning.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
+|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
+| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
 
 <!-- sida 25 -->
 
@@ -1056,13 +1063,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
 
 25
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Område<br>Avfall &<br>Återvinning | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>missad hämtning.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
-| --- | --- |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
 
 <!-- sida 26 -->
 
@@ -1136,10 +1136,12 @@ Kommunens övergripande mål för arbetsmiljöarbetet
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Namn<br>Riskobservation | 2022<br>15 | 2023<br>5 | 2024<br>9 |
+| Namn | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Riskobservation | 15 | 5 | 9 |
 | Tillbud | 22 | 21 | 23 |
-| Olycksfall<br>Total | 13<br>50 | 14<br>40 | 18<br>50 |
+| Olycksfall | 13 | 14 | 18 |
+| Total | 50 | 40 | 50 |
 
 <!-- sida 28 -->
 
@@ -1268,61 +1270,111 @@ några större skillnader jämfört med föregående år.
 
 6.4 Resursmått
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Andel heltid   97 %      97,9 %        98,3 %       98 %      98,2 %
+
+Andel kvinnor
+94,3 %     96,9 %        96,9 %     97,1 %       97 %
+som har heltid
+Andel män som
+98,6 %     98,6 %        99,3 %     98,6 %      99,2 %
+har heltid
+Anställda andel
+37,9 %     40,1 %        39,8 %     41,6 %      43,4 %
+kvinnor
+Anställda andel
+62,1 %     59,9 %        60,2 %     58,4 %      56,6 %
+män
+Anställda totalt 246      252            246        250         228
+Antal
+medarbetare    11,2       11,6           12,7        9,4        8,5
+per chef
+Medarbetare
+21 %      20,2 %        22,4 %     21,6 %      24,6 %
+30 - 39 år
+Medarbetare
+24,7 %     27,8 %         26 %      23,2 %      25,9 %
+40 - 49 år
+Medarbetare
+29,2 %     27,4 %        27,2 %       28 %      25,9 %
+50 - 59 år
+Medarbetare
+17,7 %     16,7 %        16,7 %     18,8 %      18,9 %
+60 år och äldre
+Medarbetare
+7,4 %      7,9 %         7,7 %      8,4 %      4,8 %
+yngre än 30 år
+Medelålder      47         47             47         47         47
+Pensionsavgån
+4          6               6          2          9
+gar
 6.5 Effektmått
 
 30
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Andel heltid 97 % 97,9 % 98,3 % 98 % 98,2 % |  |
-| Andel kvinnor<br>94,3 % 96,9 % 96,9 % 97,1 % 97 %<br>som har heltid |  |
-| Andel män som<br>98,6 % 98,6 % 99,3 % 98,6 % 99,2 %<br>har heltid |  |
-| Anställda andel<br>37,9 % 40,1 % 39,8 % 41,6 % 43,4 %<br>kvinnor |  |
-| Anställda andel<br>62,1 % 59,9 % 60,2 % 58,4 % 56,6 %<br>män |  |
-| Anställda totalt 246 252 246 250 228 |  |
-| Antal<br>medarbetare 11,2 11,6 12,7 9,4 8,5<br>per chef |  |
-| Medarbetare<br>21 % 20,2 % 22,4 % 21,6 % 24,6 %<br>30 - 39 år |  |
-| Medarbetare<br>24,7 % 27,8 % 26 % 23,2 % 25,9 %<br>40 - 49 år |  |
-| Medarbetare<br>29,2 % 27,4 % 27,2 % 28 % 25,9 %<br>50 - 59 år |  |
-| Medarbetare<br>17,7 % 16,7 % 16,7 % 18,8 % 18,9 %<br>60 år och äldre |  |
-| Medarbetare<br>7,4 % 7,9 % 7,7 % 8,4 % 4,8 %<br>yngre än 30 år |  |
-| Medelålder 47 47 47 47 47 |  |
-| Pensionsavgån<br>4 6 6 2 9<br>gar |  |
-
-[Tabell 30-2](handlingar.tabeller/30-2.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Frisknärvaro 56,1 % 60,5 % 50 % 55,5 % 55,2 % |  |
-| Frisknärvaro<br>60,8 % 65,1 % 53,9 % 56,3 % 50,9 %<br>Kvinnor |  |
+|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 56,1 % | 60,5 % | 50 % | 55,5 % | 55,2 % |
+|  | Frisknärvaro<br>Kvinnor | 60,8 % | 65,1 % | 53,9 % | 56,3 % | 50,9 % |
 
 <!-- sida 31 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Frisknärvaro
+53,1 %     57,7 %        47,4 %     54,9 %      58,1 %
+Män
+Korttidssjukfrån
+2,5 %      2,4 %          3 %       2,7 %      2,5 %
+varo
+Korttidssjukfrån
+2 %        1,9 %         2,9 %      2,8 %      2,6 %
+varo Kvinnor
+Korttidssjukfrån
+2,8 %      2,8 %         3,1 %      2,7 %      2,5 %
+varo Män
+Långtidssjukfrå
+3,1 %      2,5 %         2,1 %      1,4 %      2,4 %
+nvaro
+Långtidssjukfrå
+3,3 %      1,4 %         1,8 %      1,7 %      2,9 %
+nvaro Kvinnor
+Långtidssjukfrå
+3 %        3,3 %         2,3 %      1,2 %      1,9 %
+nvaro Män
+Personalomsätt
+11,9 %      8 %          15,2 %      9,1 %      9,3 %
+ning
+Sjukfrånvaro
+5,3 %      3,2 %         4,8 %      4,5 %      5,5 %
+Kvinnor
+Sjukfrånvaro
+5,8 %      6 %           5,3 %      3,9 %      4,4 %
+Män
+Sjukfrånvaro
+5,6 %      5 %           5,1 %      4,1 %      4,8 %
+Totalt
+Sjukfrånvaro,
+andel av
+43,6 %     34,4 %        27,8 %     18,9 %      29,9 %
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 47,4 %   33,9 %        18,2 %     21,7 %      33,7 %
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 41,6 %   34,6 %        33,4 %     16,6 %      26,3 %
+dagar eller mer
+Män
+
 31
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Frisknärvaro<br>53,1 % 57,7 % 47,4 % 54,9 % 58,1 %<br>Män |  |
-| Korttidssjukfrån<br>2,5 % 2,4 % 3 % 2,7 % 2,5 %<br>varo |  |
-| Korttidssjukfrån<br>2 % 1,9 % 2,9 % 2,8 % 2,6 %<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>2,8 % 2,8 % 3,1 % 2,7 % 2,5 %<br>varo Män |  |
-| Långtidssjukfrå<br>3,1 % 2,5 % 2,1 % 1,4 % 2,4 %<br>nvaro |  |
-| Långtidssjukfrå<br>3,3 % 1,4 % 1,8 % 1,7 % 2,9 %<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>3 % 3,3 % 2,3 % 1,2 % 1,9 %<br>nvaro Män |  |
-| Personalomsätt<br>11,9 % 8 % 15,2 % 9,1 % 9,3 %<br>ning |  |
-| Sjukfrånvaro<br>5,3 % 3,2 % 4,8 % 4,5 % 5,5 %<br>Kvinnor |  |
-| Sjukfrånvaro<br>5,8 % 6 % 5,3 % 3,9 % 4,4 %<br>Män |  |
-| Sjukfrånvaro<br>5,6 % 5 % 5,1 % 4,1 % 4,8 %<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>43,6 % 34,4 % 27,8 % 18,9 % 29,9 %<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 47,4 % 33,9 % 18,2 % 21,7 % 33,7 %<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 41,6 % 34,6 % 33,4 % 16,6 % 26,3 %<br>dagar eller mer<br>Män |  |
 
 <!-- sida 32 -->
 
@@ -1335,6 +1387,18 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2023 Budget 2024 Bokslut 2024
+mkr)                                                       else 2024
+Drift Skattefinansierad
+-227,1     -243,3    -243,1      0,2
+verksamhet
+Drift Vatten och Avlopp           -8,1      -0,7     -10,3      -9,6
+Drift Avfall och Återvinning      -5,9      -1,3      -2,7      -1,4
+Drift Kungsbacka
+-1,3       0,9      -1,3      -2,2
+Bredbandsnät
+Summa                           -242,4     -244,4    -257,4     -13,0
 Kommentarer
 Drift Skattefinansierad verksamhet: Den skattefinansierade verksamheten redovisar ett utfall för 2024 på
 243,1 och en budgetavvikelse på 0,2 miljoner kronor. Årets resultat är en avvikelse på 0,08 % och så nära ett
@@ -1364,15 +1428,6 @@ budget är därmed -2,2 miljoner kronor. Främsta anledningen till budgetavvikel
 på grund av den rådande konjunkturen.
 
 32
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mkr)<br>Drift Skattefinansierad<br>verksamhet |  | Bokslut 2023<br>-227,1 | Budget 2024<br>-243,3 | Bokslut 2024<br>-243,1 | Budgetavvik<br>else 2024<br>0,2 |
-| --- | --- | --- | --- | --- | --- |
-| Drift Vatten och Avlopp |  | -8,1 | -0,7 | -10,3 | -9,6 |
-| Drift Avfall och Återvinning |  | -5,9 | -1,3 | -2,7 | -1,4 |
-| Drift Kungsbacka<br>Bredbandsnät |  | -1,3 | 0,9 | -1,3 | -2,2 |
-| Summa |  | -242,4 | -244,4 | -257,4 | -13,0 |
 
 <!-- sida 33 -->
 
@@ -1419,13 +1474,13 @@ Negativa budgetavvikelser:
 
 [Tabell 33-2](handlingar.tabeller/33-2.csv)
 
-| Uppföljningsnivå (belopp i tkr)<br>Verksamhetens intäkter | Bokslut 2023<br>110,5 | Budget 2024<br>80,5 | Bokslut 2024<br>94,1 | Budgetavvik<br>else 2024<br>13,6 |
+| Uppföljningsnivå (belopp i tkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik else 2024 |
 | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 110,5 | 80,5 | 94,1 | 13,6 |
 | Verksamhetens kostnader | -337,6 | -323,8 | -337,2 | -13,4 |
 | varav personalkostnader | -93,3 | -86,8 | -85,7 | 1,1 |
 | varav verksamhetskostnader | -158,0 | -126,0 | -140,1 | -14,1 |
 | varav kapitalkostnader | -86,3 | -111,0 | -111,4 | -0,4 |
-|  |  |  |  |  |
 | Summa | -227,1 | -243,3 | -243,1 | 0,2 |
 
 <!-- sida 34 -->
@@ -1521,11 +1576,14 @@ Not 1
 | Summa skulder |  | 1742,9 | 2035,4 |
 | Summa eget kapital<br>och skulder |  | 1799,4 | 2081,6 |
 
-[Tabell 35-2](handlingar.tabeller/35-2.csv)
+[Tabell 35-36-2](handlingar.tabeller/35-36-2.csv)
 
-| Verksamhetens intäkter<br>Brukningsavgifter | År 2023<br>171,6 | År 2024<br>184,4 |
+| Verksamhetens intäkter | År 2023 | År 2024 |
 | --- | --- | --- |
+| Brukningsavgifter | 171,6 | 184,4 |
 | Övriga intäkter | 10,7 | 6,5 |
+| Periodiserad inkomst och ränta | 22,9 | 33,2 |
+| Summa verksamhetens intäkter | 205,2 | 224,1 |
 
 <!-- sida 36 -->
 
@@ -1546,12 +1604,6 @@ Fond för framtida nyinvestering År 2023               År 2024
 36
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Periodiserad inkomst och ränta | 22,9 | 33,2 |
-| --- | --- | --- |
-| Summa verksamhetens intäkter | 205,2 | 224,1 |
-
-[Tabell 36-2](handlingar.tabeller/36-2.csv)
 
 | Materiella anläggningstillgångar<br>VA-anläggningar | År 2023 | År 2024 |
 | --- | --- | --- |
@@ -1574,10 +1626,11 @@ Fond för framtida nyinvestering År 2023               År 2024
 |  |  |  |
 | Summa materiella<br>anläggningstillgångar | 1726,8 | 2014,6 |
 
-[Tabell 36-3](handlingar.tabeller/36-3.csv)
+[Tabell 36-2](handlingar.tabeller/36-2.csv)
 
-| Kortfristiga fordringar<br>Kundfordringar | År 2023<br>38,0 | År 2024<br>37,9 |
+| Kortfristiga fordringar | År 2023 | År 2024 |
 | --- | --- | --- |
+| Kundfordringar | 38,0 | 37,9 |
 | Interimsfordringar | 1,3 | 0,4 |
 | Kortfristiga fordringar | 33,3 | 28,7 |
 | Summa kortfristiga fordringar | 72,6 | 67,0 |
@@ -1638,8 +1691,9 @@ Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgift
 
 [Tabell 37-2](handlingar.tabeller/37-2.csv)
 
-| Kortfristiga skulder<br>Leverantörsskulder | År 2023<br>49,5 | År 2024<br>57,0 |
+| Kortfristiga skulder | År 2023 | År 2024 |
 | --- | --- | --- |
+| Leverantörsskulder | 49,5 | 57,0 |
 | Moms och särskilda punktskatter | 0,4 | -2,1 |
 | Upplupna kostnader | 1,5 | 1,2 |
 | Summa kortfristiga skulder | 51,4 | 56,1 |
@@ -1954,7 +2008,7 @@ Uppföljning investeringar mkr
 | Inkomster | 51,4 | 124,3 | 42,6 | -81,7 |
 | Netto | -558,0 | -654,0 | -416,7 | 237,3 |
 
-[Tabell 43-2](handlingar.tabeller/43-2.csv)
+[Tabell 43-44-2](handlingar.tabeller/43-44-2.csv)
 
 | Miljoner kronor | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -1965,6 +2019,12 @@ Uppföljning investeringar mkr
 | Inkomster | 0,9 | 0,0 | 2,9 | 2,9 |
 | Utgifter | -69,1 | -36,9 | -10,6 | 26,3 |
 | Reinvesteringar |  |  |  |  |
+| Inkomster | 0,0 | 0,0 | 0,0 | 0,0 |
+| Utgifter | -93,4 | -39,6 | -41,7 | -2,1 |
+| Exploatering |  |  |  |  |
+| Inkomster | 0,0 | 0,0 | 0,5 | 0,5 |
+| Utgifter | -16,8 | -46,3 | -29,5 | 16,8 |
+| Netto | -206,3 | -130,8 | -81,1 | 49,7 |
 
 <!-- sida 44 -->
 
@@ -1995,6 +2055,15 @@ Exploateringsprojekt beställda av Kommunstyrelsen redovisas genom Samhällsbygg
 Specifikation projekt
 Specifikation projekt
 
+Utfall
+Pro                   Totalbud Totalpro       Budget Bokslut Avvikels
+Text                             totalt tom
+jnr                    get     gnos           2024    2024    e 2024
+dec 2024
+351 GC-bro över järnvägen
+-35,0  -35,0    -7,4    -3,0    -2,7    0,3
+0  vid Inlagsleden
+Summa projekt            -35,0  -35,0    -7,4    -3,0    -2,7    0,3
 Gång- och cykelbro över järnvägen vid Inlag: Under året beslöt nämnden för Teknik att bredda befintlig
 vägbro och på så sätt skapa yta för gång- och cykel jämte motorfordonskörfält. Det innebar en lösning där
 godtagbara bredder uppnås, om än inte optimala. Någon separat gång- och cykelbro kommer därmed inte
@@ -2003,23 +2072,6 @@ innebära en stor trafikpåverkan under byggtiden och analyser pågår för att 
 stad så mycket som möjligt.
 
 44
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| Inkomster | 0,0 | 0,0 | 0,0 | 0,0 |
-| --- | --- | --- | --- | --- |
-| Utgifter | -93,4 | -39,6 | -41,7 | -2,1 |
-| Exploatering |  |  |  |  |
-| Inkomster | 0,0 | 0,0 | 0,5 | 0,5 |
-| Utgifter | -16,8 | -46,3 | -29,5 | 16,8 |
-| Netto | -206,3 | -130,8 | -81,1 | 49,7 |
-
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
-
-| Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2024 | Budget<br>2024 | Bokslut<br>2024 | Avvikels<br>e 2024 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 351<br>0 | GC-bro över järnvägen<br>vid Inlagsleden | -35,0 | -35,0 | -7,4 | -3,0 | -2,7 | 0,3 |
-| Summa projekt |  | -35,0 | -35,0 | -7,4 | -3,0 | -2,7 | 0,3 |
 
 <!-- sida 45 -->
 
@@ -2060,6 +2112,17 @@ ute på upphandling. Byggstart kommer ske under 2025 och projektet beräknas fä
 
 Specifikation projekt
 
+Utfall
+Pro                   Totalbud Totalpro       Budget Bokslut Avvikels
+Text                             totalt tom
+jnr                    get     gnos           2024    2024    e 2024
+dec 2024
+451 VA sanering Hanhals
+-93,0   -93,0   -74,4  -44,3   -23,7   20,6
+2  etapp 1
+506
+Framtidens reningsverk -1655,0 -1655,0 -60,5 -50,0 -41,3   8,7
+6
 45
 
 [Tabell 45-1](handlingar.tabeller/45-1.csv)
@@ -2071,24 +2134,31 @@ Specifikation projekt
 | Utgifter | -357,1 | -586,6 | -336,3 | 250,3 |
 | Netto | -314,0 | -461,1 | -298,5 | 162,6 |
 
-[Tabell 45-2](handlingar.tabeller/45-2.csv)
-
-| Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2024 | Budget<br>2024 | Bokslut<br>2024 | Avvikels<br>e 2024 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 451<br>2 | VA sanering Hanhals<br>etapp 1 | -93,0 | -93,0 | -74,4 | -44,3 | -23,7 | 20,6 |
-| 506<br>6 | Framtidens reningsverk | -1655,0 | -1655,0 | -60,5 | -50,0 | -41,3 | 8,7 |
-
 <!-- sida 46 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+751
+Ölmanäs reningsverk -100,0 -117,3 -106,0  -53,3   -59,3   -6,0
+6
+556 VOMV VA-utbyggnad
+-90,5   -99,7   -4,1   -48,4    -3,7   44,7
+0  Släps-Högås UT
+556 VOMV VA-utbyggnad
+-101,0 -102,7   -30,9  -15,0    -8,4    6,6
+5  Hagryd Dala UT
+VUTB Fjärås VV -
+550
+Hammerö uppdim vatten -96,0 -96,0  -2,2   -63,9    -1,2   62,7
+P
+et 2
+Summa projekt          -2 135,5 -2 163,7 -278,1 -274,9 -137,6  137,3
 VA = Vatten och Avlopp, VUTR = VA Utredning, VUTB = Utbyggnad VA,
 VOMV = VA i omvandlingsområden, VDUF = Drift, underhåll, förnyelse,
 VEXP = VA Expoateringsområde
 Större projekt >30 Mkr som pågår och har avslutats
 Projekt 4512 VA-sanering Hanhals färdigställdes under 2024 och slutfördes inom budget.
-
 Projekt 5066 Framtidens avloppsrening FAR befinner sig nu i projekteringsfas. Projektet genomförs som ett
 partneringprojekt där kommunen samverkar med entreprenören för att få bästa möjliga resultat och
 kostnadseffektivitet. Utfallet är något lägre än budgeterat för 2024.
@@ -2099,7 +2169,6 @@ sedan projektstart, vilket har krävt en ökad budget. Projektet kommer att öve
 tillägg som gjorts under projekttiden.
 Projekt 5560 VOMV Släps-Högås är nu ute på upphandling och byggstart kommer att ske under 2025. Projektet
 omfattar utbyggnad av vatten och avlopp till ca 120 fastigheter. Projektet beräknas färdigställas under 2026.
-
 Projekt 5565 VOMV Hagryd-Dala. Projektets syfte är att bygga ut vatten och avlopp till 165 fastigheter. Etapp
 1, som omfattar 15 fastigheter, är färdigställd inom budget. Etapp 2 omfattar 150 fastigheter och byggstart sker
 under februari 2025. Etapp 2 färdigställs under 2027.
@@ -2113,15 +2182,6 @@ Investeringar mkr
 46
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| 751<br>6 | Ölmanäs reningsverk | -100,0 | -117,3 | -106,0 | -53,3 | -59,3 | -6,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 556<br>0 | VOMV VA-utbyggnad<br>Släps-Högås UT | -90,5 | -99,7 | -4,1 | -48,4 | -3,7 | 44,7 |
-| 556<br>5 | VOMV VA-utbyggnad<br>Hagryd Dala UT | -101,0 | -102,7 | -30,9 | -15,0 | -8,4 | 6,6 |
-| 550<br>P | VUTB Fjärås VV -<br>Hammerö uppdim vatten<br>et 2 | -96,0 | -96,0 | -2,2 | -63,9 | -1,2 | 62,7 |
-| Summa projekt |  | -2 135,5 | -2 163,7 | -278,1 | -274,9 | -137,6 | 137,3 |
-
-[Tabell 46-2](handlingar.tabeller/46-2.csv)
 
 |  | Bokslut<br>2023 | Budget<br>2024 | Bokslut<br>2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -2579,7 +2639,7 @@ Balansräkning
 | Bokslutsdisposition |  | 8,1 | 0,7 | 10,3 |  |
 | Resultat |  | 0,0 | 0,0 | 0,0 |  |
 
-[Tabell 59-2](handlingar.tabeller/59-2.csv)
+[Tabell 59-60-2](handlingar.tabeller/59-60-2.csv)
 
 | Miljoner kronor<br>TILLGÅNGAR | No<br>t | År 2023 | År 2024 |
 | --- | --- | --- | --- |
@@ -2597,6 +2657,18 @@ Balansräkning
 | SUMMA TILLGÅNGAR |  | 1799,4 | 2081,6 |
 |  |  |  |  |
 | EGET KAPITAL OCH SKULDER |  |  |  |
+|  |  |  |  |
+| Eget kapital | 4 |  |  |
+| Ingående eget kapital |  | 64,6 | 56,5 |
+| Årets resultat |  | -8,1 | -10,3 |
+| Utgående eget kapital |  | 56,5 | 46,2 |
+|  |  |  |  |
+| Skulder |  |  |  |
+| Långfristig skuld, anslutningsavgifter |  | 538,2 | 563,8 |
+| Långfristig skuld, kommunen |  | 1153,3 | 1415,5 |
+| Kortfristiga skulder | 5 | 51,4 | 56,1 |
+| Summa skulder |  | 1742,9 | 2035,4 |
+| SUMMA EGET KAPITAL OCH<br>SKULDER |  | 1799,4 | 2081,6 |
 
 <!-- sida 60 -->
 
@@ -2611,29 +2683,14 @@ Not 2
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Eget kapital | 4 |  |  |
-| Ingående eget kapital |  | 64,6 | 56,5 |
-| Årets resultat |  | -8,1 | -10,3 |
-| Utgående eget kapital |  | 56,5 | 46,2 |
-|  |  |  |  |
-| Skulder |  |  |  |
-| Långfristig skuld, anslutningsavgifter |  | 538,2 | 563,8 |
-| Långfristig skuld, kommunen |  | 1153,3 | 1415,5 |
-| Kortfristiga skulder | 5 | 51,4 | 56,1 |
-| Summa skulder |  | 1742,9 | 2035,4 |
-| SUMMA EGET KAPITAL OCH<br>SKULDER |  | 1799,4 | 2081,6 |
-
-[Tabell 60-2](handlingar.tabeller/60-2.csv)
-
-| Verksamhetens intäkter (mkr)<br>Brukningsavgifter | År 2023<br>171,6 | År 2024<br>184,4 |
+| Verksamhetens intäkter (mkr) | År 2023 | År 2024 |
 | --- | --- | --- |
+| Brukningsavgifter | 171,6 | 184,4 |
 | Övriga intäkter | 10,7 | 6,5 |
 | Periodiserad inkomst och ränta | 22,9 | 33,2 |
 | Summa verksamhetens intäkter | 205,2 | 224,1 |
 
-[Tabell 60-3](handlingar.tabeller/60-3.csv)
+[Tabell 60-61-2](handlingar.tabeller/60-61-2.csv)
 
 | Materiella anläggningstillgångar<br>(mkr)<br>VA-anläggningar | Bokslut 2023 | Bokslut 2024 |
 | --- | --- | --- |
@@ -2649,6 +2706,12 @@ Not 2
 | Utgående bokfört värde | 6,2 | 5,8 |
 |  |  |  |
 | Pågående investeringar |  |  |
+| Ingående bokfört värde | 114,8 | 98,7 |
+| Nyanskaffning | -16,1 | 116,2 |
+| Årets avskrivningar | 0 | 0 |
+| Utgående bokfört värde | 98,7 | 214,9 |
+|  |  |  |
+| Summa materiella<br>anläggningstillgångar | 1726,8 | 2014,6 |
 
 <!-- sida 61 -->
 
@@ -2679,33 +2742,26 @@ Resultatet i årsbokslutet justeras mot fonden "Skuld till VA abonnenterna" i ba
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)
 
-| Ingående bokfört värde | 114,8 | 98,7 |
+| Kortfristiga fordringar (mkr) | År 2023 | År 2024 |
 | --- | --- | --- |
-| Nyanskaffning | -16,1 | 116,2 |
-| Årets avskrivningar | 0 | 0 |
-| Utgående bokfört värde | 98,7 | 214,9 |
-|  |  |  |
-| Summa materiella<br>anläggningstillgångar | 1726,8 | 2014,6 |
-
-[Tabell 61-2](handlingar.tabeller/61-2.csv)
-
-| Kortfristiga fordringar (mkr)<br>Kundfordringar | År 2023<br>38,0 | År 2024<br>37,9 |
-| --- | --- | --- |
+| Kundfordringar | 38,0 | 37,9 |
 | Interimsfordringar | 1,3 | 0,4 |
 | Kortfristiga fordringar | 33,3 | 28,7 |
 | Summa fordringar | 72,6 | 67,0 |
 
-[Tabell 61-3](handlingar.tabeller/61-3.csv)
+[Tabell 61-2](handlingar.tabeller/61-2.csv)
 
-| Fond för framtida nyinvestering<br>(mkr)<br>Ingående bokfört värde | År 2023<br>33,7 | År 2024<br>45,4 |
+| Fond för framtida nyinvestering<br>(mkr) | År 2023 | År 2024 |
 | --- | --- | --- |
+| Ingående bokfört värde | 33,7 | 45,4 |
 | Avsättningar under året | 11,7 | 0 |
 | Summa VA-investeringsfond | 45,4 | 45,4 |
 
-[Tabell 61-4](handlingar.tabeller/61-4.csv)
+[Tabell 61-3](handlingar.tabeller/61-3.csv)
 
-| Kortfristiga skulder (mkr)<br>Leverantörsskulder | Bokslut 2023<br>49,5 | Bokslut 2024<br>57,0 |
+| Kortfristiga skulder (mkr) | Bokslut 2023 | Bokslut 2024 |
 | --- | --- | --- |
+| Leverantörsskulder | 49,5 | 57,0 |
 | Moms och särskilda punktskatter | 0,4 | -2,1 |
 | Upplupna kostnader | 1,5 | 1,2 |
 | Summa kortfristiga skulder | 51,4 | 56,1 |
@@ -3274,28 +3330,35 @@ Nämnd      Projekt      Projekttyp Årsbudget Helårs utfall Avvikelse Avslutad
 Bilaga 1 Förslag på uppdateringar av avfallstaxa beslutad av Kommunfullmäktige 12 december 2024 § 165,
 KS 2024-00300 gällande från 1 januari 2025
 
+Avsnitt            Kommentar     Uppdaterat enligt följande
+
+4.4.4.10           Maxtaxor
+Returpapper,       uppräknade    Följande priser:
+fastighetsnära     enligt
+insamling          avfallsindex
+
+Byts till:
+
+4.4.4.11           Maxtaxor      Följande priser:
+Förpackningsavfall, uppräknade
+fastighetsnära     enligt        Tömning                                     330
+insamling          avfallsindex
+
 [Tabell 75-1](handlingar.tabeller/75-1.csv)
-
-| Avsnitt | Kommentar | Uppdaterat enligt följande |
-| --- | --- | --- |
-| 4.4.4.10<br>Returpapper,<br>fastighetsnära<br>insamling | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Litet kärl (upp till 150 liter) 45<br>Större kärl (190–370 liter) 85<br>660 liter 150<br>Byts till:<br>Litet kärl (upp till 150 liter) 46<br>Större kärl (190–370 liter) 86<br>660 liter 152 |
-| 4.4.4.11<br>Förpackningsavfall,<br>fastighetsnära<br>insamling | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Tömning 330<br>Plastkärl 190 liter<br>60<br>Plastkärl 370 liter<br>70<br>Plastkärl 660 liter<br>100 |
-
-[Tabell 75-2](handlingar.tabeller/75-2.csv)
 
 | Litet kärl (upp till 150 liter) | 45 |  |
 | --- | --- | --- |
 | Större kärl (190–370 liter) | 85 |  |
 | 660 liter | 150 |  |
 
-[Tabell 75-3](handlingar.tabeller/75-3.csv)
+[Tabell 75-2](handlingar.tabeller/75-2.csv)
 
 | Litet kärl (upp till 150 liter) | 46 |  |
 | --- | --- | --- |
 | Större kärl (190–370 liter) | 86 |  |
 | 660 liter | 152 |  |
 
-[Tabell 75-4](handlingar.tabeller/75-4.csv)
+[Tabell 75-3](handlingar.tabeller/75-3.csv)
 
 | Plastkärl 190 liter | 60 |  |
 | --- | --- | --- |
@@ -3304,34 +3367,36 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 76 -->
 
+Bottentömmande/markbehållare                975
+Container liftdumper 10 kubikmeter          2460
+
+Container frontlastare 8 kubikmeter         890
+
+Byts till:
+
+Tömning                                     334
+
 [Tabell 76-1](handlingar.tabeller/76-1.csv)
-
-|  |  | Bottentömmande/markbehållare 975<br>Container liftdumper 10 kubikmeter 2460<br>Container frontlastare 8 kubikmeter 890<br>Container liftdumper 10 kbm 380<br>Container frontlastare 8 kbm 300<br>Byts till:<br>Tömning 334<br>Plastkärl 190 liter<br>61<br>Plastkärl 370 liter<br>71<br>Plastkärl 660 liter<br>101<br>Bottentömmande/markbehållare 987<br>Container liftdumper 10 kubikmeter 2490<br>Container frontlastare 8 kubikmeter 901<br>Container liftdumper 10 kbm 385<br>Container frontlastare 8 kbm 304 | Bottentömmande/markbehållare | 975 |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Container liftdumper 10 kubikmeter | 2460 |  |
-|  |  |  | Container frontlastare 8 kubikmeter | 890 |  |
-
-[Tabell 76-2](handlingar.tabeller/76-2.csv)
 
 | Container liftdumper 10 kbm | 380 |  |
 | --- | --- | --- |
 | Container frontlastare 8 kbm | 300 |  |
 
-[Tabell 76-3](handlingar.tabeller/76-3.csv)
+[Tabell 76-2](handlingar.tabeller/76-2.csv)
 
 | Plastkärl 190 liter | 61 |  |
 | --- | --- | --- |
 | Plastkärl 370 liter | 71 |  |
 | Plastkärl 660 liter | 101 |  |
 
-[Tabell 76-4](handlingar.tabeller/76-4.csv)
+[Tabell 76-3](handlingar.tabeller/76-3.csv)
 
 | Bottentömmande/markbehållare | 987 |  |
 | --- | --- | --- |
 | Container liftdumper 10 kubikmeter | 2490 |  |
 | Container frontlastare 8 kubikmeter | 901 |  |
 
-[Tabell 76-5](handlingar.tabeller/76-5.csv)
+[Tabell 76-4](handlingar.tabeller/76-4.csv)
 
 | Container liftdumper 10 kbm | 385 |  |
 | --- | --- | --- |
@@ -3339,23 +3404,26 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 77 -->
 
+4.5 Fastighetsnära Maxtaxor      Följande priser:
+insamling av bygg- uppräknade
+och rivningsavfall enligt
+avfallsindex
+
+Grundavgift                     6 850
+Styckpris storsäck (1 kbm)      229
+
+El-avfall                       1 500
+Energiåtervinning               1 500
+
+Gips                            1 000
+
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral\* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Grundavgift | 6 850 |  |
-|  |  |  | Styckpris storsäck (1 kbm) | 229 |  |
-|  |  |  | El-avfall | 1 500 |  |
-|  |  |  | Energiåtervinning | 1 500 |  |
-|  |  |  | Gips | 1 000 |  |
-
-[Tabell 77-2](handlingar.tabeller/77-2.csv)
 
 | Container liten (6–18 kbm) | 4 281 |  |
 | --- | --- | --- |
 | Container stor (19–35 kbm) samt schaktflak 9 kbm | 5 832 |  |
 
-[Tabell 77-3](handlingar.tabeller/77-3.csv)
+[Tabell 77-2](handlingar.tabeller/77-2.csv)
 
 | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) | 7 500 |  |
 | --- | --- | --- |
@@ -3377,35 +3445,41 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 78 -->
 
+Kablar (ej farligt avfall)      1 000
+Metall                          175
+
+Mineral\*                        2 885
+Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000
+Planglas                        1 500
+
+Plast                           1 000
+Tryckimpregnerat trä/slipers    1 165
+Trä                             560
+
+Övrigt bygg- och rivningsavfall 2 000
+
+Byts till:
+
+7 590
+Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)
+Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477
+Avfall innehållande asbest                           3 795
+
+Energiåtervinning                                    2 226
+Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590
+Förorenad jord (invasiva växter)                     8 298
+
+Gips                                                 2 530
+Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477
+Metall                                               354
+
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
-
-|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral\* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Metall | 175 |  |  |
-|  |  |  | Mineral\* | 2 885 |  |  |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |  |  |
-|  |  |  | Planglas | 1 500 |  |  |
-|  |  |  | Plast | 1 000 |  |  |
-|  |  |  | Tryckimpregnerat trä/slipers | 1 165 |  |  |
-|  |  |  | Trä | 560 |  |  |
-|  |  |  | Övrigt bygg- och rivningsavfall | 2 000 |  |  |
-|  |  |  | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) |  | 7 590 |  |
-|  |  |  | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) |  | 6 477 |  |
-|  |  |  | Avfall innehållande asbest |  | 3 795 |  |
-|  |  |  | Energiåtervinning |  | 2 226 |  |
-|  |  |  | Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) |  | 7 590 |  |
-|  |  |  | Förorenad jord (invasiva växter) |  | 8 298 |  |
-|  |  |  | Gips |  | 2 530 |  |
-|  |  |  | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) |  | 6 477 |  |
-|  |  |  | Metall |  | 354 |  |
-
-[Tabell 78-2](handlingar.tabeller/78-2.csv)
 
 | Felsorteringsavgift container | 4 800 |  |
 | --- | --- | --- |
 | Felsorteringsavgift storsäck | 1 500 |  |
 
-[Tabell 78-3](handlingar.tabeller/78-3.csv)
+[Tabell 78-2](handlingar.tabeller/78-2.csv)
 
 | Container liten (6–18 kbm) | 4 332 |  |
 | --- | --- | --- |
@@ -3413,24 +3487,23 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 79 -->
 
+Mineral\*                                             2 917
+Osorterat/sammansatt bygg- och rivningsavfall\*\*      2 530
+
+Planglas                                             2 650
+Plast (inkl. eftersortering)                         2 732
+Tryckimpregnerat trä/slipers                         2 358
+
+Trä                                                  1 133
+Övrigt bygg- och rivningsavfall                      2 650
+
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
-
-|  |  | Mineral\* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral\* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral\* | 2 917 |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |  |
-|  |  |  | Planglas | 2 650 |  |
-|  |  |  | Plast (inkl. eftersortering) | 2 732 |  |
-|  |  |  | Tryckimpregnerat trä/slipers | 2 358 |  |
-|  |  |  | Trä | 1 133 |  |
-|  |  |  | Övrigt bygg- och rivningsavfall | 2 650 |  |
-
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
 
 | Grundavgift | 6 932 |  |
 | --- | --- | --- |
 | Styckpris storsäck (1 kbm) | 232 |  |
 
-[Tabell 79-3](handlingar.tabeller/79-3.csv)
+[Tabell 79-2](handlingar.tabeller/79-2.csv)
 
 | El-avfall | 1 518 |  |
 | --- | --- | --- |
@@ -3446,7 +3519,7 @@ KS 2024-00300 gällande från 1 januari 2025
 | Trä | 567 |  |
 | Övrigt bygg- och rivningsavfall | 2 024 |  |
 
-[Tabell 79-4](handlingar.tabeller/79-4.csv)
+[Tabell 79-3](handlingar.tabeller/79-3.csv)
 
 | Felsorteringsavgift container | 4 858 |  |
 | --- | --- | --- |
@@ -7204,7 +7277,7 @@ Uppföljningsrapport intern kontroll 2024
 |  | 6 Kommunövergripande risk - Risk för korruption Ja |
 |  | 7 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
 
-[Tabell 183-2](handlingar.tabeller/183-2.csv)
+[Tabell 183-184-2](handlingar.tabeller/183-184-2.csv)
 
 | Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Risken omhändertas i ordinarie utvecklingsarbete på enheten HR i<br>leveranser mot samverkan med de enheter som mest är berörda. I dialog med<br>invånare till följd enhetschefer sker kontinuerliga uppföljningar med HR och dess<br>av upplevelse av leverans gentemot invånarna.<br>svårrekryterade<br>roller |
 | --- | --- |
@@ -7212,6 +7285,11 @@ Uppföljningsrapport intern kontroll 2024
 |  | Kommunövergrip Risken omhändertas av HR i ordinarie linjearbete. Information och<br>ande risk: förtydligande sker till samtliga chefer i förvaltningen. Vi följer de<br>Övertidsersättnin kommungemensamma ríktlinjerna som finns.<br>g betalas ut på fel<br>grund |
 | Ekonomi | Kommunövergrip Risken omhändertas i det vanliga linjearbetet av<br>ande risk: ekonomiavdelningen. Informationstillfälle och vid behov<br>Grundläggande kompetenshöjande insatser till cheferna i förvaltningen.<br>redovisning<br>kvalitetsbrister |
 | Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip Risken omhändertas i linjearbetet t ex genom tätare uppföljning av<br>ande risk: Inköp avtalsefterlevnad samt samverkansmöten med avdelningen för<br>(granskning Upphandling. Utsedd person ansvarar för att uppföljning sker.<br>begränsas till<br>belopp över<br>100.000:-) |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Risken omhändertas av säkerhetssamordnare samt<br>ande risk: informationsansvarig i förvaltningen genom att gå igenom<br>informationssäke behörigheter i olika system. Detta arbete sker i linjen och kommer<br>rhet; skydd av utföras i samband med säkerhetsklassning av våra system.<br>information mot<br>obehörig tillgång |
+| Verksamhet | Risk för att Risken omhändertas genom Trafik och Utemiljö som kontinuerligt<br>bidrag betalas ut följer upp hanteringen av bidrag. Detta sker i ordinarie linjearbete.<br>till ej berättigade |
+|  | Risk för bristfällig Risken omhändertas genom att EC Rörnät följer upp hur det nya<br>dokumentation i arbetssättet fungerar. Detta sker i ordinarie linjearbete.<br>samband med<br>besiktning av<br>nyanslutningar<br>till vatten och<br>avlopp |
+|  | Risk för att Risken omhändertas av EC Kund och Kommunikation genom<br>felaktiga avgifter uppföljning med berörda medarbetare som ansvarar för fakturering<br>tas ut från VA- av VA-avgifterna. Detta sker i ordinarie linjearbete.<br>föreningar |
+|  | Risk att Risken omhändertas av informationshanteringsansvarig person i<br>information är förvaltningen. Genom gång av dokumenthantering, klassificering<br>svår att hitta och och struktur kommer ske i ordinarie linjearbete.<br>återsöka |
 
 <!-- sida 184 -->
 
@@ -7219,15 +7297,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 8
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Risken omhändertas av säkerhetssamordnare samt<br>ande risk: informationsansvarig i förvaltningen genom att gå igenom<br>informationssäke behörigheter i olika system. Detta arbete sker i linjen och kommer<br>rhet; skydd av utföras i samband med säkerhetsklassning av våra system.<br>information mot<br>obehörig tillgång |
-| --- | --- |
-| Verksamhet | Risk för att Risken omhändertas genom Trafik och Utemiljö som kontinuerligt<br>bidrag betalas ut följer upp hanteringen av bidrag. Detta sker i ordinarie linjearbete.<br>till ej berättigade |
-|  | Risk för bristfällig Risken omhändertas genom att EC Rörnät följer upp hur det nya<br>dokumentation i arbetssättet fungerar. Detta sker i ordinarie linjearbete.<br>samband med<br>besiktning av<br>nyanslutningar<br>till vatten och<br>avlopp |
-|  | Risk för att Risken omhändertas av EC Kund och Kommunikation genom<br>felaktiga avgifter uppföljning med berörda medarbetare som ansvarar för fakturering<br>tas ut från VA- av VA-avgifterna. Detta sker i ordinarie linjearbete.<br>föreningar |
-|  | Risk att Risken omhändertas av informationshanteringsansvarig person i<br>information är förvaltningen. Genom gång av dokumenthantering, klassificering<br>svår att hitta och och struktur kommer ske i ordinarie linjearbete.<br>återsöka |
 
 <!-- sida 185 -->
 
@@ -7365,6 +7434,12 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2023    2024    2023    2024
+
 För 2024 avser siffrorna perioden 2023-11 till 2024-10.
 
 Nedan följer några exempel på hur förvaltningen tar del av kommuninvånarnas perspektiv gällande
@@ -7386,7 +7461,7 @@ Samrådsmöten erbjuds några gånger per år då tjänstemän från kommunen, H
 
 [Tabell 187-1](handlingar.tabeller/187-1.csv)
 
-| Verksamhet<br>Teknik Skatt | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2023 2024<br>22 % 20 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2023 2024<br>72 769 66 581 |  |
+| Teknik Skatt | 22 % | 20 % | 72 769 | 66 581 |
 | --- | --- | --- | --- | --- |
 | Avfall och Återvinning | 82 % | 80 % | 82 476 | 92 335 |
 | Kungsbacka Bredbandsnät | 2 % | 2 % | 576 | 691 |
@@ -7557,7 +7632,7 @@ Nämndens självskattning
 
 16
 
-[Tabell 192-1](handlingar.tabeller/192-1.csv)
+[Tabell 192-193-1](handlingar.tabeller/192-193-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -7571,18 +7646,7 @@ Nämndens självskattning
 |  | Ledningen informeras om fel och brister i<br>organisationen |
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-
-<!-- sida 193 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2024
-
-17
-
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
-
 | Område<br>Riskanalys | Frågor Svar, Antal 2024<br>Riskanalysen kommuniceras med<br>nämnden |
-| --- | --- |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
@@ -7591,6 +7655,13 @@ Uppföljningsrapport intern kontroll 2024
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 193 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2024
+
+17
 
 <!-- sida 194 -->
 
@@ -14325,7 +14396,7 @@ Det finns dock parametrar som behöver värnas och hanteras under planarbetet.
 
 <!-- sida 352 -->
 
-[Tabell 352-1](handlingar.tabeller/352-1.csv)
+[Tabell 352-354-1](handlingar.tabeller/352-354-1.csv)
 
 | Riksintressen |  |  |  |
 | --- | --- | --- | --- |
@@ -14339,13 +14410,7 @@ Det finns dock parametrar som behöver värnas och hanteras under planarbetet.
 | Planområdet omfattas inte av och<br>angränsa inte till område med<br>riksintresse för kulturmiljövård. | - | - | Nej |
 | Trafikkommunikation |  |  |  |
 | Öster om planområdet ligger<br>västkustbanan som är av riksintresse<br>för infrastruktur.<br>Det är viktigt att tillräckliga åtgärder<br>säkerställs och genomförs (avstånd,<br>byggnadskonstruktioner med mera)<br>för att inte påverka riksintresset<br>negativt. | Ingen påverkan. | - | Nej |
-
-<!-- sida 353 -->
-
-[Tabell 353-1](handlingar.tabeller/353-1.csv)
-
 | Vattenförsörjning |  |  |  |
-| --- | --- | --- | --- |
 | Planområdet påverkar inte något<br>riksintresse för vattenförsörjning. | - | - | Nej |
 | Rörligt friluftsliv - miljöbalkens 4 kap. 2 § |  |  |  |
 | Planområdet påverkar inte något<br>riksintresse för rörligt friluftsliv. | - | - | Nej |
@@ -14353,13 +14418,7 @@ Det finns dock parametrar som behöver värnas och hanteras under planarbetet.
 | Planområdet omfattas inte av<br>riksintresse för högexploaterad kust. | - | - | Nej |
 | Natura 2000 |  |  |  |
 | Planområdet omfattas inte av och<br>angränsa inte till Natura 2000-<br>område. | - | - | Nej |
-
-<!-- sida 354 -->
-
-[Tabell 354-1](handlingar.tabeller/354-1.csv)
-
 | Hushållningsbestämmelser enligt 3 kap miljöbalken |  |  |  |
-| --- | --- | --- | --- |
 | Planeringsförutsättningar | Konsekvenser |  | Betydande<br>miljöpåverkan |
 | Platsen<br>Beskriv platsens känslighet utifrån<br>respektive parameter. Känslighet<br>bedöms utifrån värden och brister på<br>platsen | Påverkan<br>Hur påverkas respektive parameter av att planen<br>genomförs | Bedömning<br>Här antyds om planens konsekvens på<br>parametern bedöms vara positiv, negativ eller<br>ingen påverkan | Ja/Nej |
 | Jordbruksmark |  |  |  |
@@ -14370,6 +14429,10 @@ Det finns dock parametrar som behöver värnas och hanteras under planarbetet.
 | Området ligger idag inom ett<br>välexploaterat område med<br>idrottsanläggningar, skolor, större<br>besöksintensiva platser som ishall,<br>badhus och sporthall. | Några naturgräsplaner kommer ersättas av<br>konstgräsplaner men kommer fortsatt ha<br>samma funktion som idag i form av ytor för<br>bollspel. | - | Nej |
 | Ekologiskt känsliga områden – ex. biotopskydd, artskydd |  |  |  |
 | Skyddsvärda träd<br>En inventering har genomförts<br>(Kungsbacka kommun, 2023)<br>gällande träden inom planområdet. | Björkarna som inte omfattas av biotopskydd<br>(där arenatorget planeras) kommer att sparas<br>i den mån det är möjligt då de anses ha flera | - | Nej |
+
+<!-- sida 353 -->
+
+<!-- sida 354 -->
 
 <!-- sida 355 -->
 
@@ -14397,7 +14460,7 @@ möjligt.
 
 <!-- sida 357 -->
 
-[Tabell 357-1](handlingar.tabeller/357-1.csv)
+[Tabell 357-362-1](handlingar.tabeller/357-362-1.csv)
 
 | Mark och natur |  |  |  |
 | --- | --- | --- | --- |
@@ -14407,33 +14470,15 @@ möjligt.
 | Planområdet består till största del av<br>ett öppet gräsfält som används för<br>bollspel. En del i norr är asfalterad<br>och fungerar som parkering och<br>angöringsyta. | Ett genomförande av detaljplanen innebär att<br>en andel gräsyta som idag används för<br>bollspel ersätts med två konstgräsplaner.<br>Grönytan i den södra delen av planområdet<br>bevaras för bollspel och innehåller naturliga<br>lågpunkter som samlar vatten. | Genom detaljplanen säkerställs ett bevarande<br>av idrottsområdet.<br>Kommunen bedömer att detaljplanens<br>genomförande inte kommer att få en negativ<br>inverkan på mark och vegetation. | Nej |
 | Hydrologiska förhållanden – Vattnets kretslopp |  |  |  |
 | De naturliga jordlagren utgörs överst<br>av torrskorpelera underlagrat av<br>lerig gyttja/gyttjig lera. Mot djupet<br>övergår de gyttjiga jordlagren i lera<br>som underlagras av friktionsjord på<br>berg. De naturliga jordlagren<br>överlagras av fyllnadsmassor som<br>utgörs av krossmaterial i läge för<br>byggnader och hårdgjorda ytor.<br>Stora delar av planområdet utgörs<br>av öppna gräsytor med<br>infiltrationsmöjligheter. Längs Södra<br>infarten i öster finns ett dike som | Ett genomförande av detaljplanen innebär att<br>en yta som idag är öppen bebyggs. Det<br>påverkar möjligheterna till infiltration.<br>Förändringen kan ses som begränsad utifrån<br>markens hydrogeologiska förutsättningar och<br>att det som tas bort är en dränerad<br>fotbollsplan. | Kommunen bedömer att detaljplanens<br>genomförande inte kommer att få en negativ<br>inverkan på hydrologiska förhållanden. | Nej |
-
-<!-- sida 358 -->
-
-[Tabell 358-1](handlingar.tabeller/358-1.csv)
-
 | hanterar dagvatten. Den södra delen<br>av planområdet ligger lägre och här<br>samlas vatten vid stora mängder<br>regn.<br>In- och utströmningsförutsättningar<br>av grundvatten från området<br>bedöms som marginella på grund av<br>att leran hindrar vattenrörelser. |  |  |  |
-| --- | --- | --- | --- |
 | Landskap och rekreation |  |  |  |
 | Kungsbacka Sportcenter är idag<br>bebyggt med flera storskaliga<br>byggnader som ishall, badhus,<br>sporthallar och skolor. Ett tillskott av<br>en arena på platsen innebär att<br>denna stadsbildskaraktär förstärks.<br>Det öppna gräsfältet används för<br>rekreation i form av bollspel samt<br>olika idrottsrelaterade funktioner för<br>närliggande skolor som brännboll<br>med mera. | Planförslaget innebär att landskapsbilden<br>förändras då bollplaner som tidigare varit en<br>fond från norr ersätts av arenabyggnaden. | - | Nej |
 | Ekosystemtjänster |  |  |  |
 | Inom planområdet finns idag<br>flertalet stödjande, kulturella och<br>reglerande ekosystemtjänster. De<br>stödjande ekosystemtjänster som<br>finns är det stora öppna gräsfältet.<br>Kulturella ekosystemtjänster finns i<br>form av gräsplaner som används | Planförslaget innebär en minskad mängd<br>grönytor inom planområdet då en<br>naturgräsplan ersätts av konstgräsplan, men i<br>stort bevaras de gröna öppna fältet.<br>Björkarna bedöms inte omfattas av<br>biotopskydd men anses vara bevarandevärda<br>ur andra perspektiv, bland annat som skydd | - |  |
-
-<!-- sida 359 -->
-
-[Tabell 359-1](handlingar.tabeller/359-1.csv)
-
 | flitigt ur ett hälsofrämjande<br>perspektiv samt inom parkytan norr<br>om planområdet där det även finns<br>en lekplats.<br>Reglerande ekosystemtjänster är<br>träden i området som bidrar med<br>skugga och rening av luft och vatten<br>samt det öppna gräsfältet som<br>bidrar till att fördröja dagvatten. | mot sol och regn, och kommer sparas i den<br>mån det är möjligt.<br>Utöver att spara befintliga träd kommer även<br>nya ytor med planteringar att skapas på torg-<br>bildningen norr om arenan. |  |  |
-| --- | --- | --- | --- |
 | Strandskydd |  |  |  |
 | Planområdet omfattas inte av<br>strandskydd. | - | - | Nej |
-
-<!-- sida 360 -->
-
-[Tabell 360-1](handlingar.tabeller/360-1.csv)
-
 | Hälsa och säkerhet |  |  |  |
-| --- | --- | --- | --- |
 | Planeringsförutsättningar | Konsekvenser |  | Betydande<br>miljöpåverkan |
 | Platsen<br>Beskriv platsens känslighet utifrån<br>respektive parameter. Känslighet<br>bedöms utifrån värden och brister på<br>platsen | Påverkan<br>Hur påverkas respektive parameter av att planen<br>genomförs | Bedömning<br>Här antyds om planens konsekvens på<br>parametern bedöms vara positiv, negativ eller<br>ingen påverkan | Ja/Nej |
 | Buller |  |  |  |
@@ -14442,26 +14487,14 @@ möjligt.
 | Planområdet ligger nära järnväg<br>Västkustbanan. Ny bebyggelse tillåts<br>placeras mint 80 meter från järnväg. | Planbestämmelse gällande byggnads avstånd<br>till järnväg finns i plankartan. Det finns även<br>en planbestämmelse som reglerar att;<br>”Fasader som vetter mot järnvägen ska<br>utformas i obrännbart material. Luftintag<br>placeras högt och på fasad som vetter bort<br>från järnvägen.” | Riskområden säkerställs med<br>planbestämmelser att byggnad inte får<br>uppföras närmare än 8o meter från<br>järnvägsspåret.<br>Ytan mellan Södra infarten och Västkustbanan<br>innehåller ytor för parkering, angöring och<br>logistik. | Nej |
 | Risk för översvämning |  |  |  |
 | Skyfallskartering visar att vid ett<br>klimatanpassat 100-årsregn finns<br>det översvämningsytor inom<br>utredningsområdet med ett<br>maximalt djup på cirka 10 – 50 cm,<br>med undantag för mindre områden<br>där vattendjupet når upp till 70 cm. | Genomförande av detaljplanen ökar inte<br>risken för översvämning vid annan befintlig<br>bebyggelse.<br>Planerad bebyggelse kommer att höjdsättas<br>för att kunna avleda vatten vid skyfall.<br>Ytor i den södra delen som idag används som<br>bollplaner får fortsatt lov att översvämmas. | - | Nej |
-
-<!-- sida 361 -->
-
-[Tabell 361-1](handlingar.tabeller/361-1.csv)
-
 | På lång sikt riskerar området att<br>översvämmas vid stormhändelser i<br>havet som ger höga vattennivåer i<br>angränsande Kungsbackaån. | För att säkerställa att byggnader inte riskerar<br>att skadas vid översvämning från<br>Kungsbackaån har det införts en<br>skyddsbestämmelse om att konstruktioner på<br>lägre nivåer än +2,3 m (höjdsystem RH2000)<br>ska klara en översvämning i plankartan.<br>Det finns ett inriktningsbeslut från<br>kommunfullmäktige om att skydda<br>Kungsbacka stad med ett yttre<br>översvämningsskydd mot höga havsnivåer.<br>Preliminärt antas det skyddet finnas på plats<br>2050. |  |  |
-| --- | --- | --- | --- |
 | Risk för ras, skred och erosion |  |  |  |
 | Avseende risk för ras, skred och<br>erosion så har ingen kvicklera<br>påträffats inom området och<br>avståndet till Kungsbackaån<br>överstiger 200 m. Förutsättningar<br>för skred saknas och området är att<br>teckna som stabilt. Planområdet<br>samt angränsande mark lutar<br>mindre än 1:10. | - | Bedömningen är att detaljplanen inte<br>påverkas negativt av risk för ras, skred och<br>erosion. | Nej |
 | Radon |  |  |  |
 | De naturliga jordlagren utgörs av<br>gyttja och lera och området kan<br>därmed klassas som lågradonmark. | - | - | Nej |
 | Förorenad mark |  |  |  |
 | Planområdet innehåller inga<br>områden med förorenad mark. | - | - | Nej |
-
-<!-- sida 362 -->
-
-[Tabell 362-1](handlingar.tabeller/362-1.csv)
-
 | Hydrologiska förhållanden |  |  |  |
-| --- | --- | --- | --- |
 | Planeringsförutsättningar | Konsekvenser |  | Betydande<br>miljöpåverkan |
 | Platsen<br>Beskriv platsens känslighet utifrån<br>respektive parameter. Känslighet<br>bedöms utifrån värden och brister på<br>platsen | Påverkan<br>Hur påverkas respektive parameter av att planen<br>genomförs | Bedömning<br>Här antyds om planens konsekvens på<br>parametern bedöms vara positiv, negativ eller<br>ingen påverkan | Ja/Nej |
 | Ytvatten |  |  |  |
@@ -14470,6 +14503,16 @@ möjligt.
 | Delar av planområdet utgörs av<br>gräsytor med vissa<br>infiltrationsmöjligheter. | Ett genomförande av detaljplanen innebär att<br>en yta som idag är öppen bebyggs. Det<br>påverkar möjligheterna till infiltration.<br>Förändringen kan ses som begränsad utifrån<br>markens hydrogeologiska förutsättningar och<br>att det som tas bort är en dränerad<br>fotbollsplan. | Kommunen gör bedömningen att<br>detaljplanens genomförande inte kommer att<br>påverka områdets förmåga till infiltration. | Nej |
 | Grundvatten |  |  |  |
 | Enligt den geotekniska<br>undersökningen som Norconsult har<br>gjort förväntas grundvattenytan<br>ligga 1 till 2 m under markytan.<br>In- och utströmningsförutsättningar<br>av grundvatten från området | Detaljplanens genomförande innebär risk för<br>en viss grundvattensänkning genom att tätt<br>material, såsom lera, byts ut mot mer<br>genomsläppligt material. Detta sker<br>exempelvis vid grundläggning av byggnader<br>och vid ledningsschakter. Risken för<br>grundvattensänkning kan minskas genom att | Risken att grundvattnet påverkas negativt vid<br>en byggnation inom planområdet bedöms<br>som mycket liten.<br>Kommunen gör vidare bedömningen att<br>detaljplanen går att genomföra utan | Nej |
+
+<!-- sida 358 -->
+
+<!-- sida 359 -->
+
+<!-- sida 360 -->
+
+<!-- sida 361 -->
+
+<!-- sida 362 -->
 
 <!-- sida 363 -->
 
@@ -14651,13 +14694,46 @@ hela planområdet där dagvattenanläggningar placerats ut finns med i Bilaga A.
 
 Tabell 1. Sammanfattning av föreslagna reningsanläggningar per verksamhet.
 
+Verksamhet   Reningsanläggning Ansvarig huvudman Drift och underhållskostnader
+
+Torgyta i norr/All- Oljeavskiljare eller allmän plats/väg- För oljeavskiljare, tömning en gång per år
+män platsmark krossdike med 88 hållare (Trafik och beroende på föroreningsbelastning kan
+m² area      utemiljö)    detta bli oftare. Krossdike: omläggning av
+krossmaterial en gång per 30 år beroende
+av föroreningsbelastning kan det bli oftare.
+Ytan markerad med Krossdike 60 m², Fastighetsägare Kräver tillsyn och frekventa filterbyten (1 till
+C (centrum verk- samt brunn med fil- (Mark och exploate- 4 gånger per år). Brunnen behöver slamsu-
+samhet) i    ter          ring)        gas uppskattningsvis en gång per år. Under
+norr/Kvartersmark                      vintertid kan det bli något oftare underhålls-
+behov.
+Multiarena   Brunns med sand- Fastighetsägare Oljeavskiljare: slamsugning uppskattnings-
+fång med oljeav- (Mark och exploate- vis en gång per år, beroende av driftförhål-
+skiljare + (Sedi- ring) alternativt landena kan det bli något oftare. Sedimen-
+mentationstank verksamhetsutö- tationstank med filterkassett: behöver slam-
+med filterkassett vare (Service) sugas och filter behöver bytas ut minst en
+47,5 m³) alternativt      gång per år. Med en sedimenttillväxthastig-
+(krossdike ca 93          het på 5 mm per år behöver tanken slamsu-
+m²) uppströms se-         gas en gång per 40 år enligt underlag från
+dimentationstank          StormTac.
+46 m³.
+Fotbollsstadion Sandfång och filter- Fastighetsägare Tillsyn minst en gång per år, brunn med
+brunn samt sedi- (Mark och exploate- sandfång och filter behöver slamsugas och
+mentationstank i 11 ring) alternativt filtret bytas ut minst en gång per år. Slam-
+m³.          verksamhetsutö- sugning av sedimentationstanken nedströms
+vare (Service) är mer sällan1 då mesta dels föroreningar
+fångas av filterbrunnen uppströms.
+Konstgräsplan Brunn med filter Fastighetsägare Filter behöver byttas ut 1 till 4 gång per år.
+(Mark och exploate- Tillsyn minst en gång per år. Slamsugning i
+ring) alternativt samband med tillsyn minst en gång per år
+verksamhetsutö-
+vare (Service)
+Gräsytor     Brunn med filter Fastighetsägare Filter behöver byttas ut 1 till 4 gång per år.
+(Mark och exploate- Tillsyn minst en gång per år. Slamsugning i
+ring) alternativt samband med tillsyn minst en gång per år
+verksamhetsutö-
+vare (Service)
+
 1 En gång per 50 år enligt underlag från StormTac.
-
-[Tabell 372-1](handlingar.tabeller/372-1.csv)
-
-| Verksamhet | Reningsanläggning | Ansvarig huvudman | Drift och underhållskostnader |
-| --- | --- | --- | --- |
-| Torgyta i norr/All-<br>män platsmark<br>Ytan markerad med<br>C (centrum verk-<br>samhet) i<br>norr/Kvartersmark<br>Multiarena<br>Fotbollsstadion<br>Konstgräsplan<br>Gräsytor | Oljeavskiljare eller<br>krossdike med 88<br>m² area<br>Krossdike 60 m²,<br>samt brunn med fil-<br>ter<br>Brunns med sand-<br>fång med oljeav-<br>skiljare + (Sedi-<br>mentationstank<br>med filterkassett<br>47,5 m³) alternativt<br>(krossdike ca 93<br>m²) uppströms se-<br>dimentationstank<br>46 m³.<br>Sandfång och filter-<br>brunn samt sedi-<br>mentationstank i 11<br>m³.<br>Brunn med filter<br>Brunn med filter | allmän plats/väg-<br>hållare (Trafik och<br>utemiljö)<br>Fastighetsägare<br>(Mark och exploate-<br>ring)<br>Fastighetsägare<br>(Mark och exploate-<br>ring) alternativt<br>verksamhetsutö-<br>vare (Service)<br>Fastighetsägare<br>(Mark och exploate-<br>ring) alternativt<br>verksamhetsutö-<br>vare (Service)<br>Fastighetsägare<br>(Mark och exploate-<br>ring) alternativt<br>verksamhetsutö-<br>vare (Service)<br>Fastighetsägare<br>(Mark och exploate-<br>ring) alternativt<br>verksamhetsutö-<br>vare (Service) | För oljeavskiljare, tömning en gång per år<br>beroende på föroreningsbelastning kan<br>detta bli oftare. Krossdike: omläggning av<br>krossmaterial en gång per 30 år beroende<br>av föroreningsbelastning kan det bli oftare.<br>Kräver tillsyn och frekventa filterbyten (1 till<br>4 gånger per år). Brunnen behöver slamsu-<br>gas uppskattningsvis en gång per år. Under<br>vintertid kan det bli något oftare underhålls-<br>behov.<br>Oljeavskiljare: slamsugning uppskattnings-<br>vis en gång per år, beroende av driftförhål-<br>landena kan det bli något oftare. Sedimen-<br>tationstank med filterkassett: behöver slam-<br>sugas och filter behöver bytas ut minst en<br>gång per år. Med en sedimenttillväxthastig-<br>het på 5 mm per år behöver tanken slamsu-<br>gas en gång per 40 år enligt underlag från<br>StormTac.<br>Tillsyn minst en gång per år, brunn med<br>sandfång och filter behöver slamsugas och<br>filtret bytas ut minst en gång per år. Slam-<br>sugning av sedimentationstanken nedströms<br>är mer sällan1 då mesta dels föroreningar<br>fångas av filterbrunnen uppströms.<br>Filter behöver byttas ut 1 till 4 gång per år.<br>Tillsyn minst en gång per år. Slamsugning i<br>samband med tillsyn minst en gång per år<br>Filter behöver byttas ut 1 till 4 gång per år.<br>Tillsyn minst en gång per år. Slamsugning i<br>samband med tillsyn minst en gång per år |
 
 <!-- sida 373 -->
 
@@ -14672,14 +14748,49 @@ skyfall från ytor öster om järnvägen och ytor som ansluts till detta efter e
 Tabell 2. Sammanfattning anläggningskostnader. Underlag bygger på index justerade priser från pro-
 grammet StormTac.
 
+Verksamhet     Anläggning     Maximal anläggnings-
+kostnad2
+
+Annexet i norr/cent- Krossdike 169 m+ 1 2,4 miljon
+rumverksamhet  filterbrunn
+Torg           Oljeavskiljare 0,5 miljon
+
+Torg /öppenlösning Krossdike 88 m 123 200
+Multiarena     Oljeavskiljare + sedi- 3,9 miljon
+mentationstank med
+filterkassett 47,5 m³
+
+Multiarena/öppenlös- Oljeavskiljare + kross- 2,3 miljon
+ning           dike 145 m + sedimen-
+tationstank 46 m³
+Fotbollsstadion Oljeavskiljare/sandfång 0,9 miljon
+\+ sedimentationstank
+11 m3
+Konstgräsplan dränled- Dränsledningar, ca 600 18 miljon
+ningar         m
+
+Rensbrunnar: 15 st
+Filterbrunn :5
+
+Gräsplan       Uppskattningsvis lika 18 miljon
+mycket dränerings led-
+ningar och rensbrunnar
+kommer att behövas
+som konstgräsplanen.
+2 filterbrunnar
+Omläggning av gemen- 600 m    48 miljoner
+samma anslutande be-
+tongledning, Ø1500
+mm
+Omläggning av gemen- 180      17 miljoner
+samma betongledning
+från förbindelsepunkt
+till recipient, Ø1600
+mm betongledning
+Totalt                        117 miljon
+
 2 Kostnaderna kommer ifrån beräkningsunderlag i verktyget StormTac. Priset har justerats
 upp till 2025.
-
-[Tabell 373-1](handlingar.tabeller/373-1.csv)
-
-| Verksamhet | Anläggning | Maximal anläggnings-<br>kostnad2 |
-| --- | --- | --- |
-| Annexet i norr/cent-<br>rumverksamhet<br>Torg<br>Torg /öppenlösning<br>Multiarena<br>Multiarena/öppenlös-<br>ning<br>Fotbollsstadion<br>Konstgräsplan dränled-<br>ningar<br>Gräsplan<br>Omläggning av gemen-<br>samma anslutande be-<br>tongledning, Ø1500<br>mm<br>Omläggning av gemen-<br>samma betongledning<br>från förbindelsepunkt<br>till recipient, Ø1600<br>mm betongledning<br>Totalt | Krossdike 169 m+ 1<br>filterbrunn<br>Oljeavskiljare<br>Krossdike 88 m<br>Oljeavskiljare + sedi-<br>mentationstank med<br>filterkassett 47,5 m³<br>Oljeavskiljare + kross-<br>dike 145 m + sedimen-<br>tationstank 46 m³<br>Oljeavskiljare/sandfång<br>+ sedimentationstank<br>11 m3<br>Dränsledningar, ca 600<br>m<br>Rensbrunnar: 15 st<br>Filterbrunn :5<br>Uppskattningsvis lika<br>mycket dränerings led-<br>ningar och rensbrunnar<br>kommer att behövas<br>som konstgräsplanen.<br>2 filterbrunnar<br>600 m<br>180 | 2,4 miljon<br>0,5 miljon<br>123 200<br>3,9 miljon<br>2,3 miljon<br>0,9 miljon<br>18 miljon<br>18 miljon<br>48 miljoner<br>17 miljoner<br>117 miljon |
 
 <!-- sida 374 -->
 
@@ -15004,6 +15115,23 @@ derlag från kungsbacka kommun i ArcGIS Pro.
 
 Tabell 4. Sammanfattning befintliga dike och trummor i och i närheten av planområdet.
 
+Sträcka        Ledning/dike   Lutning, promille Kapacitet
+Punkt 1–4      Befintlig dagvattenled- Genomsnittlig lutning Ca 60 l/s kapacitet en-
+ning i Ø600BTG är noll då sista delen ligt Colebrooks diagram
+av ledningen enligt fil- K=1,0, minsta möjliga
+mundersökningarna lutning.
+bedöms vara rasad och
+behöver åtgärdas.
+Punkt 3        Trumma i Ø800BTG 6 och 9 promille, in- 1000 och 1300 l/s
+mätningsunderlag från
+Kungsbacka kom-
+mun2024-12-16
+Punkt 5        Trumma i Ø1000BTG 6,5        2000 l/s
+
+7              Befintlig trumma i           Enligt SWECOs utred-
+1400                         ning1450 l/s (se tabell
+7 i utredningen)
+
 3.4   Andra befintliga ledningar
 
 Längs med planområdets gräns i öst löper ledningar för fjärrvärme och fjärrkyla. Längs med
@@ -15015,12 +15143,6 @@ SKANOVA.
 
 Figur 9. Befintliga ledningar inom och i närheten av planområdet. Bildkälla: ledningsunderlag bearbetat i
 ArcGIS Pro.
-
-[Tabell 385-1](handlingar.tabeller/385-1.csv)
-
-| Sträcka | Ledning/dike | Lutning, promille | Kapacitet |
-| --- | --- | --- | --- |
-| Punkt 1–4<br>Punkt 3<br>Punkt 5<br>7 | Befintlig dagvattenled-<br>ning i Ø600BTG<br>Trumma i Ø800BTG<br>Trumma i Ø1000BTG<br>Befintlig trumma i<br>1400 | Genomsnittlig lutning<br>är noll då sista delen<br>av ledningen enligt fil-<br>mundersökningarna<br>bedöms vara rasad och<br>behöver åtgärdas.<br>6 och 9 promille, in-<br>mätningsunderlag från<br>Kungsbacka kom-<br>mun2024-12-16<br>6,5 | Ca 60 l/s kapacitet en-<br>ligt Colebrooks diagram<br>K=1,0, minsta möjliga<br>lutning.<br>1000 och 1300 l/s<br>2000 l/s<br>Enligt SWECOs utred-<br>ning1450 l/s (se tabell<br>7 i utredningen) |
 
 <!-- sida 386 -->
 
@@ -15584,7 +15706,7 @@ samhet presenteras i Tabell 5
 
 Tabell 5. Befintlig och framtida markanvändning, avrinningskoefficient samt reducerad area.
 
-[Tabell 406-1](handlingar.tabeller/406-1.csv)
+[Tabell 406-407-1](handlingar.tabeller/406-407-1.csv)
 
 | verksamhetsområde | A (ha) | φ (-) | Areducerad (ha) |
 | --- | --- | --- | --- |
@@ -15596,22 +15718,7 @@ Tabell 5. Befintlig och framtida markanvändning, avrinningskoefficient samt red
 | Gräsplan | 2,1 | 0,1 | 0,23 |
 | Totalt | 7 | 0,1 | 0,7 |
 | Allmän platsmark, befintlig |  |  |  |
-
-<!-- sida 407 -->
-
-39
-
-Dimensionerade flöden för varje verksamhet är beräknat med rationella metoden för åter-
-komsttiderna 2-årsregn, 10-årsregn och 100-årsregn enligt avsnitt 2.1. I Tabell 6 nedan pre-
-senteras de resulterande flödena.
-
-Tabell 6. Rinntider och dimensionerande flöden (l/s) per verksamhetsområde. Befintlig och framtida
-markanvändning inklusive klimatfaktor (1,25).
-
-[Tabell 407-1](handlingar.tabeller/407-1.csv)
-
 | Torg, parkering | 0,44 | 0,8 | 0,35 |
-| --- | --- | --- | --- |
 | Dike/gräsmark | 0,27 | 0,1 | 0,03 |
 | Totalt | 0,71 | 0,54 | 0,38 |
 | Kvartersmark, framtida |  |  |  |
@@ -15626,11 +15733,35 @@ markanvändning inklusive klimatfaktor (1,25).
 | Dike/gräsmark | 0,27 | 0,1 | 0,03 |
 | Totalt | 0,71 | 0,54 | 0,38 |
 
-[Tabell 407-2](handlingar.tabeller/407-2.csv)
+<!-- sida 407 -->
 
-|  | Befintlig markanvändning | Framtida markanvändning |
-| --- | --- | --- |
-| Verk- Rinntid Q Q Q Rinntid Q Q Q<br>dim, dim, 10- dim, 100- dim, 2- dim, 10- dim,<br>samhet (min) (min)<br>2-års- årsregn årsregn årsregn årsregn 100-års-<br>regn regn<br>Kvartersmark<br>Centrum 3 5 121 29 48 121<br>Multiarena 26 44 979 222 378 979<br>Fotbollsta-<br>26 44 991 68 116 991<br>dium 10 10<br>Konstgräs-<br>22 38 852 22 38 852<br>plan<br>Gräsplan 39 66 1481 39 66 1481 |  |  |
+39
+
+Dimensionerade flöden för varje verksamhet är beräknat med rationella metoden för åter-
+komsttiderna 2-årsregn, 10-årsregn och 100-årsregn enligt avsnitt 2.1. I Tabell 6 nedan pre-
+senteras de resulterande flödena.
+
+Tabell 6. Rinntider och dimensionerande flöden (l/s) per verksamhetsområde. Befintlig och framtida
+markanvändning inklusive klimatfaktor (1,25).
+
+Befintlig markanvändning Framtida markanvändning
+
+Verk-  Rinntid Q  Q      Q     Rinntid Q    Q      Q
+dim, dim, 10- dim, 100-  dim, 2- dim, 10- dim,
+samhet (min)                   (min)
+2-års- årsregn årsregn   årsregn årsregn 100-års-
+regn                                  regn
+Kvartersmark
+Centrum         3     5     121           29    48    121
+Multiarena      26    44    979          222    378   979
+
+Fotbollsta-
+26    44    991           68    116   991
+dium       10                      10
+Konstgräs-
+22    38    852           22    38    852
+plan
+Gräsplan        39    66    1481          39    66    1481
 
 <!-- sida 408 -->
 
@@ -15716,7 +15847,7 @@ StormTac för området, före och efter exploatering.
 Tabell 7. Markanvändning som använts i StormTac för att motsvara befintlig och framtida situation inom
 kvartersmark samt torg.
 
-[Tabell 410-1](handlingar.tabeller/410-1.csv)
+[Tabell 410-411-1](handlingar.tabeller/410-411-1.csv)
 
 | Markanvändning, Centrumfastighet | ha |
 | --- | --- |
@@ -15734,6 +15865,8 @@ kvartersmark samt torg.
 | Gräsplan, längst i söder | 2,3 |
 | Konstgräsplan | 1,34 |
 | Multiarena, tak och asfalt | 1,54 |
+| Torg, centrum verksamhet | 0,44 |
+| Totalt | 7,4 |
 
 <!-- sida 411 -->
 
@@ -15785,12 +15918,6 @@ anslutas till brunn med filter, kommer enligt modelleringen att understiga befin
 Halter av fosfor, koppar, zink, kvicksilver, oljepartiklar, BaP, arsenik, och TOC sjunker under
 befintliga nivåer efter rening i krossdike och filtersteg för dagvatten från centrumverksam-
 heten i norr. Det är svårt att få en minskad belastning på de undersökta ämnena i föreslagen
-
-[Tabell 411-1](handlingar.tabeller/411-1.csv)
-
-| Torg, centrum verksamhet | 0,44 |
-| --- | --- |
-| Totalt | 7,4 |
 
 <!-- sida 412 -->
 
@@ -18326,32 +18453,101 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (6)
 
-[Tabell 474-1](handlingar.tabeller/474-1.csv)
+Punkt i
+delegeringsor          Ansvarig   Delegeringens Taget beslut och datum för
+dning      Lagrum      Delegat    omfattning    beslutet
+personuppgifter –      esavtal för digital prövotidsredovisning, den 2025-
+Riktlinjer,            tjänst eller system 01-28. TE-2025-00003
+Kommunfullmä           som ska användas
+ktige 2024 -03 - 05    gemensamt med en
+§ 33                   eller flera andra
+nämnder.
+3.12       Dataskyddsförord Dataskydds- Hantera Två hanterade
+ningen artikel 33 kontakt, personuppgiftsincide personuppgiftsincidenter, ärende
+och 34      Systemförvaltar nt       TE-2025-00026 och TE-2025-00068
+e för aktuellt
+system
 
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-|  | personuppgifter –<br>Riktlinjer,<br>Kommunfullmä<br>ktige 2024 -03 - 05<br>§ 33 |  | esavtal för digital<br>tjänst eller system<br>som ska användas<br>gemensamt med en<br>eller flera andra<br>nämnder. | prövotidsredovisning, den 2025-<br>01-28. TE-2025-00003 |
-| 3.12 | Dataskyddsförord<br>ningen artikel 33<br>och 34 | Dataskydds-<br>kontakt,<br>Systemförvaltar<br>e för aktuellt<br>system | Hantera<br>personuppgiftsincide<br>nt | Två hanterade<br>personuppgiftsincidenter, ärende<br>TE-2025-00026 och TE-2025-00068 |
-| 4.3.1 |  | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Upphävanden av<br>inaktuella<br>trafikföreskrifter | 1 st beslut om upphävande av<br>lokala trafikföreskrifter<br>1384 2025-<br>00008 Hamntorget |
-| 4.4 | 10 kap.<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut om tillfälliga<br>trafikföreskrifter | 0 st beslut om tillfälliga<br>trafikföreskrifter angående |
-| 4.5 | 10 kap.<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Revidering av<br>befintliga<br>permanenta<br>föreskrifter | 0 st reviderade befintliga<br>permanenta föreskrifter |
-| 4.7 | 13 kap. 3–4 §§<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling | Beslut om undantag<br>från lokala<br>trafikföreskrifter | 20 beslut om undantag från lokala<br>trafikföreskrifter |
+4.3.1                  VC Trafik & Upphävanden av 1 st beslut om upphävande av
+Utemiljö   inaktuella    lokala trafikföreskrifter
+EC Planering & trafikföreskrifter 1384 2025-
+Utformning                  00008    Hamntorget
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+4.4        10 kap.     VC Trafik & Beslut om tillfälliga 0 st beslut om tillfälliga
+trafikförordningen Utemiljö trafikföreskrifter trafikföreskrifter angående
+(1998:1276) EC Planering &
+Utformning
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+
+4.5        10 kap.     VC Trafik & Revidering av 0 st reviderade befintliga
+trafikförordningen Utemiljö befintliga permanenta föreskrifter
+(1998:1276) EC Planering & permanenta
+Utformning EC föreskrifter
+Anläggning &
+Utveckling
+Trafikingenjör
+Samordnare
+4.7        13 kap. 3–4 §§ VC Trafik & Beslut om undantag 20 beslut om undantag från lokala
+trafikförordningen Utemiljö från lokala trafikföreskrifter
+(1998:1276) EC Planering & trafikföreskrifter
+Utformning
+EC Anläggning
+& Utveckling
 
 <!-- sida 475 -->
 
 KUNGSBACKA KOMMUN                                           3 (6)
 
+Punkt i
+delegeringsor          Ansvarig   Delegeringens Taget beslut och datum för
+dning      Lagrum      Delegat    omfattning    beslutet
+Trafikingenjör
+Samordnare
+4.8        13 kap. 3 § VC Trafik & Beslut till transportör 0 beslut till transportör om
+trafikförordningen Utemiljö och yttrande till undantag från bestämmelserna om
+(1998:1276) 4 kap. EC Planering & Trafikverket om största tillåtna fordonsbredd, -
+12 §, 15 § 17 § Utformning undantag från längd och -vikt
+trafikförordningen EC Anläggning bestämmelserna om
+& Utveckling största tillåtna 2 yttranden till Trafikverket om
+Trafikingenjör fordonsbredd, -längd undantag från bestämmelserna om
+Samordnare och -vikt     största tillåtna fordonsbredd, -
+längd och -vikt
+
+4.10       10 kap. 14 § VC Trafik & Beslut om   5st beslut om föreskrifter vid
+trafikförordningen Utemiljö föreskrifter vid vägarbete eller liknande arbete
+(1998:1276) EC Planering & vägarbete eller samt under kortare tid vid skada
+Utformning liknande arbete samt eller risk för skada på väg
+EC Anläggning under kortare tid vid
+& Utveckling skada eller risk för
+Trafikingenjör skada på väg
+Samordnare
+Vägtekniker
+
+4.14       Vägmärkesförord VC Trafik & Beslut om tillstånd 4 beslut om tillstånd att schakta i
+ningen SFS  Utemiljö   att schakta i gator gator och trafikanordningsplan.
+2007:90 AFS EC drift Gata och vägar för vilka
+1999:3 49 § 81 § EC Anläggning kommunen är
+(a-e)       & Utveckling huvudman och vid
+Ordningslagen 3 Samordnare behov kräva säkerhet
+kap. 4 § Plan och      för beräknade
+Bygglagen 6 Kap.       kostnader för
+
+21                     återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesförord VC Trafik & Godkännande av 44 beslut om enbart
+ningen SFS  Utemiljö   trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 § EC Anläggning
+(a-e)       & Utveckling
+
 [Tabell 475-1](handlingar.tabeller/475-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | Trafikingenjör<br>Samordnare |  |  |
-| 4.8 | 13 kap. 3 §<br>trafikförordningen<br>(1998:1276) 4 kap.<br>12 §, 15 § 17 §<br>trafikförordningen | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till transportör<br>och yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt | 0 beslut till transportör om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -<br>längd och -vikt<br>2 yttranden till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -<br>längd och -vikt |
-| 4.10 | 10 kap. 14 §<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 5st beslut om föreskrifter vid<br>vägarbete eller liknande arbete<br>samt under kortare tid vid skada<br>eller risk för skada på väg<br>1384 2025-<br>00003 Västergatan<br>1384 2025-<br>00004 Borgmästaregatan<br>1384 2025-<br>00005 Järnvägsgatan<br>1384 2025-<br>00006 Hamntorget<br>1384 2025-<br>00007 Hamntorget |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap.<br>21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Samordnare | Beslut om tillstånd<br>att schakta i gator<br>och vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 4 beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e) | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling | Godkännande av<br>trafikanordningsplan | 44 beslut om enbart<br>trafikanordningsplan |
-
-[Tabell 475-2](handlingar.tabeller/475-2.csv)
 
 | 1384 2025-<br>00003 | Västergatan |
 | --- | --- |
@@ -18364,29 +18560,102 @@ KUNGSBACKA KOMMUN                                           3 (6)
 
 KUNGSBACKA KOMMUN                                           4 (6)
 
-[Tabell 476-1](handlingar.tabeller/476-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-|  | Ordningslagen 3<br>kap. 4 § | Samordnare |  |  |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstånd<br>för rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 26<br>Avslagna: 2 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden<br>från Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd<br>till färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 65<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd<br>till riksfärdtjänst | Beslut om tillstånd till<br>riksfärdtjänst<br>Beviljade: 8<br>Avslagna: 1 (delavslag) |
-| 8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>kommunikation | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 250103 1 st<br>250114 2 st<br>250116 1 st<br>250130 1 st |
-| 8.4 | 41§ Lokala<br>avfallsföres krifter<br>för Kungsback a<br>kommun | Miljöingenjör,<br>handläggare,<br>samordnare,<br>administratör<br>och<br>systemadminist<br>ratör inom<br>Avfall &<br>Återvinning och<br>Kund &<br>Kommunikatio<br>n | Besluta om förlängt<br>tömningsintervall för<br>fettavskiljare på<br>fastigheter med<br>anslutning till det<br>kommunala<br>ledningsnätet | 1 beslut om förlängt<br>tömningsintervall för fastighet,<br>KUNGSBACKA SKÅRBY 3:33 – 2025-<br>01-21, TE-2025-00003. |
-| 8.5 | 42 § Lokala<br>avfallsföres krifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>kommunikation | Besluta om att<br>använda gemensam<br>avfallsbehållare | 250120 1 st |
+Punkt i
+delegeringsor          Ansvarig   Delegeringens Taget beslut och datum för
+dning      Lagrum      Delegat    omfattning    beslutet
+Ordningslagen 3 Samordnare
+kap. 4 §
+4.16       13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordningen are parkeringstillstånd rörelsehindrad
+(1998:1276)
+för rörelsehindrade Beviljade: 26
+Avslagna: 2
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden
+(1993:1617) 2 kap Utemiljö avseende begagnade från Teknik.
+EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+5.1        6–9 §§ lag  Färdtjänstutred Beslut om tillstånd Beslut om färdtjänst
+(1997:736) om are      till färdtjänst med Beviljade: 65
+färdtjänst  EC Kansli
+regelkompletteringar Avslagna: 0
+5.3        4–7 §§ lag  Färdtjänstutred Beslut om tillstånd Beslut om tillstånd till
+(1997:735) om are      till riksfärdtjänst riksfärdtjänst
+riksfärdtjänst EC Kansli
+Beviljade: 8
+Avslagna: 1 (delavslag)
+8.3        37§ Lokala  Anette     Besluta om    250103 1 st
+avfallsföreskrifter Englund, godkännande av 250114 2 st
+för Kungsbacka administratör kompostering av 250116 1 st
+kommun      Kund o     matavfall     250130 1 st
+kommunikation
+8.4        41§ Lokala  Miljöingenjör, Besluta om förlängt 1 beslut om förlängt
+avfallsföres krifter handläggare, tömningsintervall för tömningsintervall för fastighet,
+för Kungsback a samordnare, fettavskiljare på KUNGSBACKA SKÅRBY 3:33 – 2025-
+kommun      administratör fastigheter med 01-21, TE-2025-00003.
+och        anslutning till det
+systemadminist kommunala
+ratör inom ledningsnätet
+Avfall &
+Återvinning och
+Kund &
+Kommunikatio
+n
+8.5        42 § Lokala Anette     Besluta om att 250120 1 st
+avfallsföres krifter Englund, använda gemensam
+för Kungsbacka administratör avfallsbehållare
+kommun      Kund o
+kommunikation
 
 <!-- sida 477 -->
 
 KUNGSBACKA KOMMUN                                           5 (6)
 
-[Tabell 477-1](handlingar.tabeller/477-1.csv)
+Punkt i
+delegeringsor          Ansvarig   Delegeringens Taget beslut och datum för
+dning      Lagrum      Delegat    omfattning    beslutet
+8.6        43, 43a §§ Lokala Anette Besluta om tillfälligt 250102 4 st
+avfallsföreskrifter Englund, uppehåll i 250103 1 st
+för Kungsbacka administratör sophämtning 250108 1 st
+kommun      Kund o                   250110 6 st
+kommunikation            250119 1 st
+250120 1 st
+250121 1 st
+250122 1 st
+250130 1 st
+9.7                    Anette     Beslutat om   - Beslut om utbetalning i
+Englund,   ersättning i  skadeärende TE-2024-00607,
+administratör regressärende angående översvämningsärende.
+Kund o     Beslutat om   - Beslut om utbetalning i
+kommunikation avslag/utbetalning skadeärende TE-2023-00987,
 
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>kommunikation | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 250102 4 st<br>250103 1 st<br>250108 1 st<br>250110 6 st<br>250119 1 st<br>250120 1 st<br>250121 1 st<br>250122 1 st<br>250130 1 st |
-| 9.7 |  | Anette<br>Englund,<br>administratör<br>Kund o<br>kommunikation<br>FC<br>FC/VC | Beslutat om<br>ersättning i<br>regressärende<br>Beslutat om<br>avslag/utbetalning<br>av skadeståndskrav,<br>ersättningskrav,<br>självrisker och<br>regresskrav i ärende.<br>(belopp upp till 0,5<br>prisbasbelopp utgör<br>verkställighet)<br>Upp till tio<br>prisbasbelopp<br>Upp till fem<br>prisbasbelopp | - Beslut om utbetalning i<br>skadeärende TE-2024-00607,<br>angående översvämningsärende.<br>- Beslut om utbetalning i<br>skadeärende TE-2023-00987,<br>angående översvämningsärende.<br>- Beslut om utbetalning i<br>skadeärende TE-2024-00443,<br>gällande vattenläcka.<br>- Beslut om utbetalning i<br>skadeärende TE-2024-00804,<br>gällande ett bilstopp.<br>- Beslut om utbetalning i<br>skadeärende TE-2024-00815,<br>gällande dagvatten.<br>- Beslut om utbetalning i<br>skadeärende TE-2024-00839,<br>gällande en personskada.<br>- Beslut om utbetalning via<br>entreprenör i skadeärende TE-<br>2024-00911, angående<br>översvämningsärende.<br>- Beslut om utbetalning i<br>skadeärende TE-2022-00903,<br>gällande en skada på båt.<br>- Beslut om utbetalning i<br>skadeärende TE-2022-00067,<br>gällande en personskada.<br>- Beslut om utbetalning via<br>entreprenör i skadeärende TE-<br>2023-00557, gällande en skada på<br>bil. |
+av skadeståndskrav, angående översvämningsärende.
+ersättningskrav, - Beslut om utbetalning i
+självrisker och skadeärende TE-2024-00443,
+regresskrav i ärende. gällande vattenläcka.
+(belopp upp till 0,5 - Beslut om utbetalning i
+prisbasbelopp utgör skadeärende TE-2024-00804,
+verkställighet) gällande ett bilstopp.
+FC         Upp till tio  - Beslut om utbetalning i
+FC/VC      prisbasbelopp skadeärende TE-2024-00815,
+Upp till fem  gällande dagvatten.
+prisbasbelopp - Beslut om utbetalning i
+skadeärende TE-2024-00839,
+gällande en personskada.
+\- Beslut om utbetalning via
+entreprenör i skadeärende TE-
+2024-00911, angående
+översvämningsärende.
+\- Beslut om utbetalning i
+skadeärende TE-2022-00903,
+gällande en skada på båt.
+\- Beslut om utbetalning i
+skadeärende TE-2022-00067,
+gällande en personskada.
+\- Beslut om utbetalning via
+entreprenör i skadeärende TE-
+2023-00557, gällande en skada på
+bil.
 
 <!-- sida 478 -->
 

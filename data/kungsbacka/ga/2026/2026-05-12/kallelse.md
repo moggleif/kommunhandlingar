@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.193b596219ddcc6f4869a811/1778065764
 sha256: 13ed38982fafa863296fa0eb6356f798074beb5743ccc62cddc92a6bb96601e1
 bytes: 223094
 sidor: 4
-hamtad: 2026-10-07T22:08:30+00:00
-konverterad: 2026-10-07T22:08:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:24:11+00:00
+konverterad: 2026-10-14T06:24:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,17 +64,6 @@ KUNGSBACKA  KOMMUN
 | 6. | Antagning läsår 26/27<br>Föredragande: Cindia<br>Escalante Mattsson,<br>gymnasiechef.<br>Kl. 19.10-19.30. | GA-2026-<br>00041 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Information, IMYRK-kock<br>Föredragande:<br>Cindia Escalante Mattsson,<br>gymnasiechef.<br>Kl. 19.30-19.45. | GA-2026-<br>00096 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 8. | Information om aktivitetskravet<br>2025<br>Föredragande: Frida Svärd,<br>verksamhetschef.<br>Kl. 19.45-20.05. | GA-2026-<br>00093 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Kvartalsuppföljning<br>arbetsmarknadsprocessen 2026<br>Föredragande: Frida Svärd,<br>verksamhetschef.<br>Kl. 20.05-20.15. | GA-2026-<br>00092 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kvartalsuppföljningen<br>arbetsmarknadsprocessen 2026. |
 | 10. | Information om Finsam<br>Föredragare: Frida Svärd,<br>verksamhetschef.<br>Kl. 20.15-20.30. | GA-2026-<br>00100 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 11. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-04-01 till 2026-04-30. |
@@ -82,6 +71,12 @@ KUNGSBACKA  KOMMUN
 | 13. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 14. | Information om Hållbart boende<br>Föredragande: Patrik Hellberg,<br>förvaltningschef.<br>Kl. 20.35-20.50. | GA-2026-<br>00099 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 15. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef.<br>Kl. 20.50-20.55. | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 

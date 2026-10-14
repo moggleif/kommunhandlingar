@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92b1d1/1749806738
 sha256: e93982bc60a03eb778eee2469010b71cc59ec2b68ea4cfe66c304964a5bf45d7
 bytes: 41611983
 sidor: 407
-hamtad: 2026-10-08T01:07:37+00:00
-konverterad: 2026-10-08T01:11:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:56:32+00:00
+konverterad: 2026-10-14T08:59:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [187, 188, 189, 190]
-figurer: null
-tolkade: null
+figurer: [63, 77, 80, 85, 168, 172, 173, 174, 175, 176, 177, 185, 187, 188, 189, 190, 191, 197, 198, 200, 203, 204, 205, 208, 221, 222, 243, 244, 261, 296, 299, 305, 307, 308, 311, 312, 315, 316, 317, 318, 323, 324, 325, 326, 328, 330, 331, 333, 334, 335, 339, 340, 360]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -864,6 +864,13 @@ information om vad som får lämnas finns på kommunens hemsida
 
 Avgifter för grovavfall och återbruk, i kronor per hämtning
 
+Grovavfall och återbruk, mindre än 1 kubikmeter 1 570
+Grovavfall och återbruk utöver 1 kubikmeter    415
+415
+Elavfall (vitvaror), mindre än 1 kubikmeter    1 285
+kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter 1285
+Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter 300
+3001 570
 4.4.4.8 Extra tömningar
 Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och matavfall, samt
 för trädgårdsavfall i kärl under perioden vecka 12–47. Efter beställning utför renhållarens
@@ -884,21 +891,13 @@ Kungsbacka kommun         Avfallstaxa 2026                   19
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| Grovavfall och återbruk, mindre än 1 kubikmeter | 1 570 |
-| --- | --- |
-| Grovavfall och återbruk utöver 1 kubikmeter | 415<br>415 |
-| Elavfall (vitvaror), mindre än 1 kubikmeter<br>kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter | 1 285<br>1285 |
-| Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter | 300<br>3001 570 |
-
-[Tabell 19-2](handlingar.tabeller/19-2.csv)
-
 | Per extra säck i samband med tömning | 465 |
 | --- | --- |
 | Extra tömning av kärl, oavsett storlek | 465 |
 | Extra tömning av container | 3 635 |
 | Extra tömning av underjordsbehållare | 3 635 |
 
-[Tabell 19-3](handlingar.tabeller/19-3.csv)
+[Tabell 19-2](handlingar.tabeller/19-2.csv)
 
 | Byte till större kärl eller kärl av samma storlek | 765 |
 | --- | --- |
@@ -1233,7 +1232,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | --- | --- | --- | --- |
 | Mindre än 2 kubikmeter | 2 375 | 2 875 | 5 555 |
 
-[Tabell 26-4](handlingar.tabeller/26-4.csv)
+[Tabell 26-27-4](handlingar.tabeller/26-27-4.csv)
 
 | Schemalagd tömning<br>Utförs under specifik vecka, avisering skickas cirka tre veckor före planerad tömningsvecka |  |
 | --- | --- |
@@ -1242,20 +1241,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
 | Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
 | Anläggning mindre än 2 kubikmeter | 1 770 |
-
-<!-- sida 27 -->
-
-Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial från minireningsverk
-
-Inför hämtning av fosforfilter ska fastighetsägaren förbereda anläggningen så att tömning kan
-ske genom slamsugning eller med kranbil.
-
-Kungsbacka kommun         Avfallstaxa 2026                   27
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
 | Anläggning 2–4 kubikmeter\* | 2 555 |
-| --- | --- |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
@@ -1268,7 +1254,16 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 | Anläggning mindre än 2 kubikmeter | 10 505 |
 | Anläggning 2–4 kubikmeter\* | 11 110 |
 
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
+<!-- sida 27 -->
+
+Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial från minireningsverk
+
+Inför hämtning av fosforfilter ska fastighetsägaren förbereda anläggningen så att tömning kan
+ske genom slamsugning eller med kranbil.
+
+Kungsbacka kommun         Avfallstaxa 2026                   27
+
+[Tabell 27-1](handlingar.tabeller/27-1.csv)
 
 | Kassett | 5 615 |
 | --- | --- |
@@ -1316,27 +1311,23 @@ Kungsbacka kommun         Avfallstaxa 2026                   28
 Bilaga 1 Uppdateringar mellan Avfallstaxa 2025 (Avfallstaxa Kommunfullmäktige 2025-05-06 § 90, KS 2024-
 00300 gällande från 1 januari 2025) och Avfallstaxa 2026
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
+[Tabell 29-30-1](handlingar.tabeller/29-30-1.csv)
 
 | Avsnitt | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
 | 1.2 | Efter önskemål från<br>Kungsbacka direkt<br>byter vi text i taxan<br>från “inom två<br>arbetsdagar” till<br>“snarast” | Följande text:<br>• Om renhållarens utförare har missat att tömma ska detta anmälas till<br>kommunens kundcenter inom två arbetsdagar<br>Byts till:<br>• Om renhållarens utförare har missat att tömma ska detta anmälas till<br>kommunens kundcenter snarast |
 | 2.<br>Beräkningsgrunder | Lägg till<br>”Transport”<br>samt slå ihop<br>de två sista<br>punkterna. | Följande text:<br>• Behandling av insamlat matavfall (biogasproduktion)<br>• Förbränningsavgift (brännbart och osorterat brännbart och matavfall)<br>Byts till:<br>• Transport och omhändertagande av insamlat matavfall (biogasproduktion) och<br>brännbart avfall |
 | 2.<br>Beräkningsgrunder | Skriva att även<br>hämtning av<br>avfall från<br>detaljhandel<br>omfattas av en<br>maxtaxa | Följande text:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall, förpackningsavfall<br>samt returpapper begränsas av maxtaxa.<br>Byts till:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall, förpackningsavfall,<br>returpapper samt avfall från detaljhandel begränsas av maxtaxa. |
-
-<!-- sida 30 -->
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 | 4.2.1 Hämtning av<br>kommunalt avfall | Ändra till<br>”matavfallspås<br>e som<br>tillhandahålls<br>av kommunen” | Följande text:<br>I detta abonnemang ska matavfallet sorteras ut och läggas i en papperspåse från<br>kommunen.<br>Byts till:<br>I detta abonnemang ska matavfallet sorteras ut och läggas i en matavfallspåse<br>som tillhandahålls av kommunen. |
-| --- | --- | --- |
 | 4.2.1 Hämtning av<br>kommunalt avfall | Ta bort<br>information om<br>abonnemangsf<br>ormen<br>Restavfall och<br>Brännbart<br>Blandat som<br>försvinner<br>2026 | Följande text:<br>Matavfall och Brännbart Restavfall Blandat<br>Abonnemanget går inte att välja efter 1 januari 2023. I detta abonnemang ska<br>både det brännbara restavfallet och matavfallet läggas i samma behållare.<br>Tas bort helt |
 | 4.3.1 Avgifter för<br>helårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under<br>tabellen då<br>denna taxa<br>försvinner | Följande text:<br>\* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
 | 4.3.2<br>Avgifter för<br>delårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under | Följande text:<br>\* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
 
+<!-- sida 30 -->
+
 <!-- sida 31 -->
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
+[Tabell 31-33-1](handlingar.tabeller/31-33-1.csv)
 
 |  | tabellen då<br>denna taxa<br>försvinner |  |
 | --- | --- | --- |
@@ -1345,26 +1336,18 @@ Bilaga 1 Uppdateringar mellan Avfallstaxa 2025 (Avfallstaxa Kommunfullmäktige 2
 | 4.3.3.7 | Skapat en separat<br>taxa för elavfall i<br>form vitvaror samt<br>justerat<br>dimensioner. |  |
 | 4.4.4.1 Hämtning i kärl | Möjlighet för<br>flerbostadshus att<br>välja varmkompost<br>oavsett storlek på<br>restavfallskärl. |  |
 | 4.4.3 | Tabellen för<br>evenemangscontain<br>er har justerats för<br>att förtydliga tjänsten | Ny text har lagts till i tabellen<br>Utkörning och hemtagning av container, inklusive tömning vid hemtagning<br>Inklusive 5 st matavfallskärl 140 liter. |
-
-<!-- sida 32 -->
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 | 4.7 | Tabeller för slam,<br>fett, och byggtoalett<br>har redigerats. | Ny struktur av tabell |
-| --- | --- | --- |
 | 4.4.4 | Borttagning av de<br>två längsta<br>gångavståndsinterva<br>llerna. De används<br>inte och i samband<br>med förberedelse<br>inför det nya<br>insamlingssystemet<br>2027 |  |
 | 4.6 | Byter ÅVC till<br>återvinningscentral | Följande text:<br>Allt avfall som lämnas på ÅVC ska vara sorterat.<br>Byts till:<br>Allt avfall som lämnas på återvinningscentral ska vara sorterat. |
 | 4.4.4.12 | Ny auktorisation för<br>textilavfall lagts till |  |
 | 4.6.1 och 4.6.2 | Byter ÅVC-kort<br>till<br>återvinningskor<br>t<br>genomgående<br>i båda stycken |  |
 | 4.7 | Självförklarande<br>tabell för<br>slamtjänster. Ny<br>tjänst akuttömning<br>inom 4 timmar<br>tillkommer. |  |
+| 4.7 | Ny tjänst - tömning<br>av filtermaterial i<br>säckar | Följande text lagts till:<br>Filtermaterial i säck (omfattar1-4 fyra säckar, max 15 kg/ säck |
+| 4.7 | Uppdatering av<br>tabellrubrik | Följande text:<br>Avgifter, i kronor, för hämtning av fosforfilter från minireningsverk<br>Byts till:<br>Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial |
+
+<!-- sida 32 -->
 
 <!-- sida 33 -->
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| 4.7 | Ny tjänst - tömning<br>av filtermaterial i<br>säckar | Följande text lagts till:<br>Filtermaterial i säck (omfattar1-4 fyra säckar, max 15 kg/ säck |
-| --- | --- | --- |
-| 4.7 | Uppdatering av<br>tabellrubrik | Följande text:<br>Avgifter, i kronor, för hämtning av fosforfilter från minireningsverk<br>Byts till:<br>Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial |
 
 <!-- sida 34 -->
 
@@ -4493,31 +4476,12 @@ Kungsbacka kommun             Informationsbeskrivning           5 (8)
 | Gallringsbeslut för handlingar som har skannats<br>till nämnden för Tekniks diarium i Lex | 2019-04-17 § 51 | TE-2019-00259 |
 | Generellt gallringsbeslut för handlingar som har<br>skannats | 2020-09-16 § 86 | TE-2020-00544 |
 
-[Tabell 110-4](handlingar.tabeller/110-4.csv)
+[Tabell 110-111-4](handlingar.tabeller/110-111-4.csv)
 
 | System/digitalt verktyg: | Kort beskrivning: |
 | --- | --- |
 | Adato | Verktyg för chefer i arbetet med arbetslivsinriktad rehabilitering |
-
-<!-- sida 111 -->
-
-Sekretess
-
-Myndighetens uppgifter kan omfattas av sekretess i enlighet med offentlighets- och
-sekretesslagen (2009:400). De bestämmelser om sekretess som myndigheten
-vanligen tillämpar på uppgifter i sina handlingar är:
-
-•  15:2 Försvarssekretess
-•  18:8 Säkerhets- eller bevakningsåtgärd
-•  18:13 Risk- och sårbarhetsanalyser m.m.
-•  19:3 Upphandling m.m.
-
-Kungsbacka kommun             Informationsbeskrivning           6 (8)
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
 | Antura | Projekt- och portföljhanteringssystem |
-| --- | --- |
 | Artvise | Support- och ärendehanteringssystem |
 | Blue Idea | SMS-tjänst |
 | CardPro | Register över kortinnehavare parkeringstillstånd boendekort och<br>nyttokort |
@@ -4551,6 +4515,21 @@ Kungsbacka kommun             Informationsbeskrivning           6 (8)
 | Winningtemp | Digitalt verktyg för pulsmätningar av arbetsmiljön |
 | Winlas | Verktyg för anställningstid, medarbetarsamtal och<br>utbildningar/kompetenser |
 | X-Opto | Dokumentation och projekteringssystem för Kungsbacka<br>Bredbandsnät |
+
+<!-- sida 111 -->
+
+Sekretess
+
+Myndighetens uppgifter kan omfattas av sekretess i enlighet med offentlighets- och
+sekretesslagen (2009:400). De bestämmelser om sekretess som myndigheten
+vanligen tillämpar på uppgifter i sina handlingar är:
+
+•  15:2 Försvarssekretess
+•  18:8 Säkerhets- eller bevakningsåtgärd
+•  18:13 Risk- och sårbarhetsanalyser m.m.
+•  19:3 Upphandling m.m.
+
+Kungsbacka kommun             Informationsbeskrivning           6 (8)
 
 <!-- sida 112 -->
 
@@ -4660,7 +4639,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 5
 
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
+[Tabell 118-119-1](handlingar.tabeller/118-119-1.csv)
 
 | Verksamhetstyp: | Vård och omsorg |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4677,22 +4656,18 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Begäran om<br>komplettering | Websolen | Digitalt | 5 år efter<br>avslut/avslag |  |
 |  | Beslut om färdtjänst | Websolen | Digitalt | 5 år efter<br>avslut/avslag | Överklagande hanteras enligt<br>Informationshanteringsplan för<br>ledningsprocesser 1.4.4.1 Hantera<br>överklagande och omprövning |
 |  | Beslut om<br>riksfärdtjänst | Websolen | Digitalt | 5 år efter<br>avslut/avslag |  |
+|  | Återkallande av<br>färdtjänsttillstånd och<br>riksfärdtjänsttillstånd | Websolen | Digitalt | 5 år efter<br>avslut/avslag |  |
+|  | Månads- och<br>årsstatistik | Websolen | Digitalt | Vid inaktualitet |  |
 
 <!-- sida 119 -->
 
 6
 
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
-|  | Återkallande av<br>färdtjänsttillstånd och<br>riksfärdtjänsttillstånd | Websolen | Digitalt | 5 år efter<br>avslut/avslag |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Månads- och<br>årsstatistik | Websolen | Digitalt | Vid inaktualitet |  |
-
 <!-- sida 120 -->
 
 7
 
-[Tabell 120-1](handlingar.tabeller/120-1.csv)
+[Tabell 120-122-1](handlingar.tabeller/120-122-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4714,15 +4689,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Avtal | Ciceron avtalsdiarium | Digitalt | Bevaras | Kopia i Antura. |
 |  | Utredningar och<br>undersökningar | Antura | Digitalt | Bevaras | Till exempel geoteknisk,<br>arkeologisk, strandskydd, markmiljö,<br>biotopskydd, trafikutredningar,<br>ställningstagande eller utredningar<br>om vattenverksamhet. Vid<br>markundersökningar läggs<br>informationen även i Kartportalen. |
 |  | Ansökan till myndighet | Ciceron | Digitalt | Bevaras | Till exempel Länsstyrelsen, Miljö &<br>Hälsa, Trafikverket. Kopia i Antura. |
-
-<!-- sida 121 -->
-
-8
-
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
-
 |  | Beslut från myndighet | Ciceron | Digitalt | Bevaras | Till exempel Länsstyrelsen, Miljö &<br>Hälsa, Trafikverket. Kopia i Antura. |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökan om bygglov | Ciceron | Digitalt | Bevaras | Kopia i Antura. |
 |  | Informationsbrev till berörda<br>parter | Antura | Digitalt | Bevaras |  |
 |  | Överenskommelse med<br>fastighetsägare och<br>markägare | Antura | Digitalt | Bevaras |  |
@@ -4735,15 +4702,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Fördelning av<br>arbetsmiljöuppgifter utifrån<br>byggherrens<br>arbetsmiljöansvar | Ciceron | Digitalt | Bevaras |  |
 | Genomföra projekt | Bygghandlingar | Antura | Digitalt | Bevaras | Beställning, anbud, revideringar. |
 |  | Produktion/genomförandeplan<br>från entreprenör | Antura | Digitalt | Bevaras | Tidplan, försäkringar, kontrollplan. |
-
-<!-- sida 122 -->
-
-9
-
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
 |  | Protokoll | Antura | Digitalt | Bevaras | Start-, bygg-, projekt- och<br>styrgruppsprotokoll. |
-| --- | --- | --- | --- | --- | --- |
 |  | Fastighetshandling | Antura | Digitalt | Bevaras | Till exempel protokoll, mätningar,<br>skaderegleringar, nöjdförklaringar. |
 |  | Underrättelse | Antura | Digitalt | Bevaras | Kontrakt med entreprenör/utförare,<br>beställning, anbud, revideringar. |
 |  | MF (Mängdförteckning) och<br>ÄTA (ändring tillägg och<br>avgående, skadereglering) | Ciceron avtalsdiarium | Digitalt | Bevaras | Kopia förvaras i Antura. |
@@ -4757,6 +4716,14 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Checklista | Antura | Digitalt | Bevaras |  |
 |  | Projektredovisning | Antura | Digitalt | Bevaras |  |
 | Förvalta projekt | Garantibesiktning | Antura | Digitalt | Bevaras |  |
+
+<!-- sida 121 -->
+
+8
+
+<!-- sida 122 -->
+
+9
 
 <!-- sida 123 -->
 
@@ -4786,7 +4753,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 11
 
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
+[Tabell 124-126-1](handlingar.tabeller/124-126-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4806,15 +4773,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Dagvattenplan - Handbok | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Dagvattenplan -<br>Handläggarstöd | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Dagvattenplan -<br>Åtgärdsplan | Samarbetsrum | Digitalt | Bevaras |  |
-
-<!-- sida 125 -->
-
-12
-
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
-
 |  | Riktlinjer för övertagande<br>av VA-anläggning från<br>avtalsansluten VA-förening | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Vattenförsörjningsplan för<br>Kungsbacka kommun | Ciceron | Digitalt | Bevaras |  |
 |  | Slamstrategi | Ciceron | Digitalt | Bevaras |  |
 |  | Riktlinjer för prioritering av<br>förnyelse av ledningsnät | Ciceron | Digitalt | Bevaras |  |
@@ -4828,18 +4787,18 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Rutin för installation av<br>LTA-anläggning | Samarbetsrum | Digitalt | Bevaras |  |
 |  | LTA-anläggning -<br>Information till<br>fastighetsägare och<br>installatörer | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Rutin tillfälligt vatten VA-<br>entreprenad | Samarbetsrum | Digitalt | Bevaras |  |
+|  | Rutin tillfälligt vatten -<br>Hantering & fakturering | Samarbetsrum | Digitalt | Bevaras |  |
+|  | VA-utredningar | Ciceron | Digitalt | Bevaras |  |
+|  | Kemikaliedokumentation | Chemgroup<br>PRO | Digitalt | Se anm. | Inklusive produktblad, rutiner,<br>säkerhetsdatablad, eventuell<br>riskbedömning. Uppdateras löpande,<br>gallras 24 månader efter att produkt utgått. |
+|  | Sekretessavtal<br>Ledningskollen | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
+
+<!-- sida 125 -->
+
+12
 
 <!-- sida 126 -->
 
 13
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-|  | Rutin tillfälligt vatten -<br>Hantering & fakturering | Samarbetsrum | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | VA-utredningar | Ciceron | Digitalt | Bevaras |  |
-|  | Kemikaliedokumentation | Chemgroup<br>PRO | Digitalt | Se anm. | Inklusive produktblad, rutiner,<br>säkerhetsdatablad, eventuell<br>riskbedömning. Uppdateras löpande,<br>gallras 24 månader efter att produkt utgått. |
-|  | Sekretessavtal<br>Ledningskollen | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
 
 <!-- sida 127 -->
 
@@ -4887,7 +4846,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 16
 
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
+[Tabell 129-130-1](handlingar.tabeller/129-130-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4908,15 +4867,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Arbetsorder | P: | Digitalt | Bevaras | Kopplade till VA-banken. |
 |  | Avtal för anslutning<br>utanför<br>verksamhetsområde | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Kopia på P: |
 |  | Anmälan om flytt eller<br>ägarbyte | EDP Future | Digitalt | Se anm. | Gallras när kunden flyttar från fastigheten och<br>abonnemanget upphör. |
-
-<!-- sida 130 -->
-
-17
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
 |  | Vattenavläsning | EDP Future | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Provningsprotokoll<br>funktionsmätning<br>vattenmätare | EDP Future | Digitalt | Bevaras | Protokoll för vattenmätare vid tvister. |
 |  | Bestridande av VA-<br>avgift | Ciceron | Digitalt | 10 år |  |
 |  | Beslut bestridande av<br>VA-avgift | Ciceron | Digitalt | 10 år |  |
@@ -4928,11 +4879,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Bevattningsförbud | Ansökan om dispens<br>vid bevattningsförbud | Open ePlatform | Digitalt | 1 år | Sammanställning förvaras i Ciceron och<br>bevaras |
 |  | Beslut om dispens vid<br>bevattningsförbud | Open ePlatform | Digitalt | 1 år | Sammanställning förvaras i Ciceron och<br>bevaras |
 
+<!-- sida 130 -->
+
+17
+
 <!-- sida 131 -->
 
 18
 
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
+[Tabell 131-132-1](handlingar.tabeller/131-132-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4951,26 +4906,22 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Rutinmässig<br>korrespondens<br>med<br>tillsynsmyndighet | Ciceron | Digitalt | 10 år |  |
 |  | Anmälan till<br>tillsynsmyndighet | Ciceron | Digitalt | 10 år |  |
 |  | Besiktnings-<br>protokoll | Samarbetsrum | Digitalt | Vid inaktualitet | Gallras när besiktning är genomförd. |
-
-<!-- sida 132 -->
-
-19
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
 | Underhålla<br>avloppsrening | Tillsynsrutin för<br>skötsel och<br>underhåll av avlopp | P: | Digitalt | Vid inaktualitet | Kopplas till VA-banken. |
-| --- | --- | --- | --- | --- | --- |
 |  | Egenkontrolls-<br>program | Samarbetsrum | Digitalt | Se anm. | Uppdateras löpande. Egenkontroll enligt<br>miljöbalken. |
 | Hantera fett- och<br>oljeavskiljare | Anmälan<br>installation av fett-<br>eller oljeavskiljare | Ciceron | Digitalt | 10 år |  |
 |  | Yttrande fett- eller<br>oljeavskiljare | Ciceron | Digitalt | 10 år |  |
 |  | Ansöka om förlängt<br>tömningsintervall<br>eller uppehåll i<br>tömning av<br>fettavskiljare | Ciceron | Digitalt | 10 år |  |
 |  | Beslut om förlängt<br>tömningsintervall<br>eller uppehåll i<br>tömning av<br>fettavskiljare | Ciceron | Digitalt | 10 år |  |
 
+<!-- sida 132 -->
+
+19
+
 <!-- sida 133 -->
 
 20
 
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
+[Tabell 133-134-1](handlingar.tabeller/133-134-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4992,18 +4943,14 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Register ledningar | VA-banken | Digitalt | Bevaras | Inklusive ledningskartor. |
 |  | Spolplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Arbetsorder | KomMa | Digitalt | Vid inaktulitet |  |
+| Utreda<br>översvämning | Anmälan från<br>fastighetsägare vid<br>översvämning | Ciceron | Digitalt | Bevaras | Skadeståndsanspråk gällande översvämning<br>hanteras enligt Informationshanteringsplan för<br>ledningsprocesser 1.1.3.5 Hantera<br>skadeståndsanspråk |
+|  | Intervjuformulär | Ciceron | Digitalt | Bevaras |  |
+|  | Incidentrapport | Ciceron | Digitalt | Bevaras |  |
+|  | Utredning | Ciceron | Digitalt | Bevaras |  |
 
 <!-- sida 134 -->
 
 21
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-| Utreda<br>översvämning | Anmälan från<br>fastighetsägare vid<br>översvämning | Ciceron | Digitalt | Bevaras | Skadeståndsanspråk gällande översvämning<br>hanteras enligt Informationshanteringsplan för<br>ledningsprocesser 1.1.3.5 Hantera<br>skadeståndsanspråk |
-| --- | --- | --- | --- | --- | --- |
-|  | Intervjuformulär | Ciceron | Digitalt | Bevaras |  |
-|  | Incidentrapport | Ciceron | Digitalt | Bevaras |  |
-|  | Utredning | Ciceron | Digitalt | Bevaras |  |
 
 <!-- sida 135 -->
 
@@ -5028,7 +4975,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 23
 
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
+[Tabell 136-137-1](handlingar.tabeller/136-137-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5046,15 +4993,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Ansökan om tillfälligt<br>uppehåll i sophämtning<br>eller slamtömning | EDP Future | Digitalt | Se anm. | Gallras när kunden flyttar från fastigheten. |
 |  | Beslut om tillfälligt<br>uppehåll i sophämtning<br>eller slamtömning | EDP Future | Digitalt | Se anm. | Gallras när kunden flyttar från fastigheten. |
 |  | Ansökan om tillstånd att<br>använda eller<br>återkallande av<br>gemensamt avfallskärl | EDP Future | Digitalt | Se anm. | Gallras när kunden flyttar från fastigheten. |
-
-<!-- sida 137 -->
-
-24
-
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
 |  | Beslut om tillstånd att<br>använda gemensamt<br>avfallskärl | EDP Future | Digitalt | Se anm. | Gallras när kunden flyttar från fastigheten eller<br>vid återkallande. |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökan om egen<br>varmkompost | EDP Future | Digitalt | Se anm. | Gallras när kunden byter abonnemang. |
 |  | Beslut om egen<br>varmkompost | EDP Future | Digitalt | Se anm. | Gallras när kunden byter abonnemang. |
 |  | Ansökan om<br>gångavstånd | EDP Future | Digitalt | Se anm. | Gallras när överenskommelsen upphör. |
@@ -5069,11 +5008,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Hantera inpassering<br>till<br>återvinningscentral | Ansöka om inpassering<br>till återvinningscentral | Open ePlatform | Digitalt | 1 år |  |
 |  | Register besök ÅVC | GreenKey | Digitalt | Se anm. | Uppdateras löpande. |
 
+<!-- sida 137 -->
+
+24
+
 <!-- sida 138 -->
 
 25
 
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
+[Tabell 138-139-1](handlingar.tabeller/138-139-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5094,19 +5037,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Labbrapporter avfall | Ciceron | Digitalt | Bevaras | Ägs av kommunstyrelsens förvaltning. |
 |  | Anteckningar farligt<br>avfall egen verksamhet | Samarbetsrum | Digitalt | 3 år |  |
 |  | Anteckningar farligt<br>avfall kunder | Samarbetsrum | Digitalt | 3 år |  |
-
-<!-- sida 139 -->
-
-26
-
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
-
 |  | In- och utvägning avfall<br>depå | Samarbetsrum | Digitalt | 2 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Anteckningar från<br>avstämningsmöten<br>med entreprenörer | Samarbetsrum | Digitalt | Se anm. | Gallras när avtal med entreprenör upphör. |
 |  | Rapporter ur Viktoria<br>Våg | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 | Hantera<br>återvinningsstationer | Felanmälan | Artivise | Digitalt | 14 månader |  |
 |  | Avvikelser | EDP Future | Digitalt | 90 dagar | Foton före och efter städning. |
+
+<!-- sida 139 -->
+
+26
 
 <!-- sida 140 -->
 
@@ -5134,7 +5073,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 28
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-142-1](handlingar.tabeller/141-142-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5155,20 +5094,16 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Avtal med vägföreningar | Närarkiv | Papper | Bevaras | Närarkiv Stadshuset B357. |
 |  | Tomtkartor | Närarkiv | Papper | Bevaras | Kopia i Antura. Närarkiv Stadshuset<br>B357. |
 |  | Hyresavtal vid inplacering<br>av teknisk utrustning,<br>fiberföreningsavtal | Närarkiv | Papper | Vid inaktualitet | Närarkiv Stadshuset B357. |
-
-<!-- sida 142 -->
-
-29
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
 |  | Mätprotokoll/Fibermätning | Tekla X-opto | Digitalt | Bevaras | Kopia i Antura. |
-| --- | --- | --- | --- | --- | --- |
 |  | Sammanställning av<br>fiberförbindelser | Tekla X-opto | Digitalt | Bevaras |  |
 |  | Arbetsmiljöplaner | Antura | Digitalt | Bevaras |  |
 |  | Besiktningsprotokoll | Antura | Digitalt | Bevaras |  |
 |  | Dagböcker | Antura | Digitalt | Bevaras | Rapporteringsblad från entreprenörer. |
 |  | Arbetsorder | KomMa | Digitalt | Vid inaktualitet |  |
+
+<!-- sida 142 -->
+
+29
 
 <!-- sida 143 -->
 
@@ -5215,7 +5150,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 32
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
+[Tabell 145-146-1](handlingar.tabeller/145-146-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5235,15 +5170,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Broregister | Batman | Digitalt | Bevaras |  |
 |  | Broinspektion | Batman | Digitalt | Bevaras |  |
 |  | Kemikaliedokumentation | Chemgroup PRO | Digitalt | Se anm. | Inklusive produktblad, rutiner,<br>säkerhetsdatablad, eventuell<br>riskbedömning. Uppdateras<br>löpande, gallras 24 månader efter<br>att produkt utgått. |
-
-<!-- sida 146 -->
-
-33
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
 |  | Information om<br>återställning av plats där<br>allmänheten får färdas<br>fritt, där någon annan<br>inte kan ställas till<br>ansvar för uppstädning | Artvise | Digitalt | 14 månader | Eventuella bilagor i form av foto. |
-| --- | --- | --- | --- | --- | --- |
 | Vinterväghållning | Register över gruslådor | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Plograpporter | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Register över snöpinnar | Kartportalen | Digitalt | Vid inaktualitet |  |
@@ -5252,6 +5179,10 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Beslut om<br>öppningstillstånd | Nova Trafik och gata | Digitalt | 2 år efter<br>garantitidens utgång |  |
 |  | Ansökan om<br>Trafikanordningsplan | Nova Trafik och gata | Digitalt | 2 år efter<br>garantitidens utgång | Inklusive bilagor. |
 |  | Beslut om<br>trafikanordningsplan | Nova Trafik och gata | Digitalt | 2 år efter<br>garantitidens utgång |  |
+
+<!-- sida 146 -->
+
+33
 
 <!-- sida 147 -->
 
@@ -5294,7 +5225,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 36
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
+[Tabell 149-150-1](handlingar.tabeller/149-150-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5313,15 +5244,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Underlag avseende<br>undanröjande av<br>kontrollavgift | Ciceron | Digitalt | 2 år |  |
 |  | Register över<br>fordonsägare som fått<br>påminnelser | Sammarbetsrum | Digitalt | 6 månader |  |
 | Hantera<br>nyttoparkering | Ansökan om<br>nyttoparkering | Open ePlatform | Digitalt | 2 år |  |
-
-<!-- sida 150 -->
-
-37
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 |  | Betalning för<br>nyttoparkering | Open ePlatform | Digitalt | 7 år | Inklusive kvitto för betalning. |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut om nyttoparkering | Open ePlatform | Digitalt | 2 år |  |
 |  | Register över<br>kortinnehavare<br>nyttoparkering | ParkRight | Digitalt | Se anm. | Uppdateras löpande. |
 | Hantera<br>boendeparkering | Ansökan om<br>boendeparkering | ePark | Digitalt | Vid inaktualitet |  |
@@ -5335,11 +5258,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Register över<br>hyresgäster och kölista | Samarbetsrum | Digitalt | Se anm. | Uppdateras löpande. |
 |  | Avtal cykelgarage | Ciceron<br>avtalsdiarium | Digitalt | Se anm. | När avtalet upphör. |
 
+<!-- sida 150 -->
+
+37
+
 <!-- sida 151 -->
 
 38
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+[Tabell 151-153-1](handlingar.tabeller/151-153-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5358,15 +5285,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Ansökan om dispens mot<br>lokal trafikföreskrift | Artvise/Outlook | Digitalt | Se anm. | Gallring i Artvise efter 14 månader,<br>gallring i Outlook vid inaktualitet. |
 |  | Beslut om dispens mot<br>lokal trafikföreskrift | Samarbetsrum | Digitalt | Vid inaktualitet | Gallras när dispensen upphör. |
 | Hantera<br>transportdispenser | Ansökan om<br>transportdispens inom<br>Kungsbacka kommun | Ciceron | Digitalt | 5 år |  |
-
-<!-- sida 152 -->
-
-39
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
 |  | Remiss till Trafikverket<br>transportdispens inom<br>Kungsbacka kommun | Ciceron | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut om<br>transportdispens inom<br>Kungsbacka kommun | Ciceron | Digitalt | 5 år |  |
 |  | Remiss<br>transportdispenser genom<br>flera kommuner | Ciceron | Digitalt | 5 år | Från Trafikverket. |
 |  | Yttrande<br>transportdispenser genom<br>flera kommuner | Ciceron | Digitalt | 5 år | Till Trafikverket. |
@@ -5380,15 +5299,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Anmaning att flytta fordon | Bilflytt Sokigo | Digitalt | 10 år |  |
 |  | Beställning av fordonsflytt | Bilflytt Sokigo | Digitalt | 10 år |  |
 |  | Korrespondens om<br>fordonsflytt | Bilflytt Sokigo | Digitalt | 10 år | Med polismyndighet eller<br>fordonsägare, bärgare, skrotfirma. |
-
-<!-- sida 153 -->
-
-40
-
-[Tabell 153-1](handlingar.tabeller/153-1.csv)
-
 |  | Anmälan till<br>Transportstyrelsen | Bilflytt Sokigo | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut från<br>Transportstyrelsen | Bilflytt Sokigo | Digitalt | 10 år |  |
 |  | Anslag att fordon har<br>skrotats/flyttats | Ciceron | Digitalt | 2 år | Anslag publiceras på kommunens<br>digitala anslagstavla för kungörelser.<br>Meddelande om flyttade fordon är<br>anslagna i 3 månader och skrotade i 1<br>månad. |
 |  | Avtal om fordonsflytt | Bilflytt Sokigo | Digitalt | 10 år | Med privata fastighets- och<br>markägare. |
@@ -5397,6 +5308,14 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Hantera<br>trafikmeddelanden | Trafikmeddelanden | Artvise | Digitalt | 14 månader |  |
 | Hantera<br>trafiksäkerhets-<br>bedömning | Begäran om<br>trafiksäkerhetsbedömning | Ciceron | Digitalt | Bevaras | Från Förskola & Grundskola. |
 |  | Trafiksäkerhetsbedömning | Ciceron | Digitalt | Bevaras | Till Förskola & Grundskola. |
+
+<!-- sida 152 -->
+
+39
+
+<!-- sida 153 -->
+
+40
 
 <!-- sida 154 -->
 
@@ -5448,7 +5367,7 @@ för lekplatser        E-arkiv                           mellanarkiv i e-arkivet
 
 44
 
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
+[Tabell 157-158-1](handlingar.tabeller/157-158-1.csv)
 
 | Verksamhetstyp: | Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5468,18 +5387,14 @@ för lekplatser        E-arkiv                           mellanarkiv i e-arkivet
 | Upprätta<br>vägrättsavtal | Vägrättsavtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras |  |
 | Hantera nyttjande av<br>offentlig plats | Remiss nyttjande av offentlig<br>plats | Ciceron | Digitalt | 2 år | Remiss från Polismyndigheten.<br>Ansökan med eventuella bilagor. |
 |  | Yttrande ansökan om<br>nyttjande av offentlig plats | Ciceron | Digitalt | 2 år | Yttrande till Polismyndigheten. |
+|  | Beslut nyttjande av offentlig<br>plats | Ciceron | Digitalt | 2 år | Beslut om tillstånd från<br>Polismyndigheten. |
+|  | Bokning av marknadsplats | Open ePlatform | Digitalt | 7 år | Inklusive kvitto. |
+|  | Avtal om uteservering | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
+|  | Upplåtelsekontrakt Lindens<br>torg | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
 
 <!-- sida 158 -->
 
 45
-
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-|  | Beslut nyttjande av offentlig<br>plats | Ciceron | Digitalt | 2 år | Beslut om tillstånd från<br>Polismyndigheten. |
-| --- | --- | --- | --- | --- | --- |
-|  | Bokning av marknadsplats | Open ePlatform | Digitalt | 7 år | Inklusive kvitto. |
-|  | Avtal om uteservering | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
-|  | Upplåtelsekontrakt Lindens<br>torg | Ciceron<br>avtalsdiarium | Digitalt | 2 år |  |
 
 <!-- sida 159 -->
 
@@ -5519,7 +5434,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 2
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
+[Tabell 161-164-1](handlingar.tabeller/161-164-1.csv)
 
 | 6.5 | Insatser för äldre och personer med<br>funktionsnedsättning |  |
 | --- | --- | --- |
@@ -5532,15 +5447,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 8.1.2 | Skadegörelse |  |
 | 8.1.2.1 | Hantera skadegörelse | Hantera stöld och skadegörelse på kommunens mark eller<br>egendom. |
 | 8.2 | Hantera tekniska frågor |  |
-
-<!-- sida 162 -->
-
-3
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
 | 8.2.1 | Vatten och avlopp |  |
-| --- | --- | --- |
 | 8.2.1.1 | Leda, styra och organisera | Hantera styrdokument, ledningsregister och liknande för<br>vattenförsörjning och avloppshantering. |
 | 8.2.1.2 | Driva vattenverk | Hantera vattenproduktion och underhåll samt skötsel och drift av<br>kommunens vattenverk, vattenreservoarer och<br>tryckstegringsstationer. |
 | 8.2.1.3 | Driva vattenledningsnät | Underhåll och förnyelse av kommunens vattenledningsnät. |
@@ -5550,15 +5457,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 8.2.2 | Avfall och Återvinning |  |
 | 8.2.2.1 | Leda, styra och organisera | Hantera styrande dokumenten avseende avfall i kommunen. |
 | 8.2.2.2 | Hantera avfallsabonnemang | Hantera kundfrågor som inte hanteras av Kungsbacka direkt,<br>exempelvis faktura- och abonnemangsfrågor och dispenser. |
-
-<!-- sida 163 -->
-
-4
-
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
-
 | 8.2.2.3 | Driva avfallsanläggning | Hantera kommunens återvinningscentraler, deponier och<br>omlastningsstation samt verksamhetstillstånd och egenkontroller. |
-| --- | --- | --- |
 | 8.2.2.4 | Bedriva renhållning | Hantera insamling av avfall som kommunen har skyldighet att<br>samla in. |
 | 8.2.3 | Kommunikationer |  |
 | 8.2.3.1 | Stadsnät (Kungsbacka Bredbandsnät) |  |
@@ -5568,20 +5467,24 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 8.2.5 | Gator, vägar och parkering |  |
 | 8.2.5.1 | Hantera gator, vägar, torg och broar | Underhåll av kommunala vägar och allmän platsmark, inklusive<br>asfaltering och vinterväghållning. |
 | 8.2.5.3 | Hantera belysning | Drift och underhåll av kommunens gatubelysning. |
-
-<!-- sida 164 -->
-
-5
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
 | 8.2.5.4 | Hantera gång- och cykelbanor | Strategier och planer för gång- och cykelbanor. |
-| --- | --- | --- |
 | 8.2.5.5 | Hantera parkeringsplatser | Hantera kommunens parkeringsplatser, kontrollavgifter samt<br>parkeringstillstånd. |
 | 8.2.5.6 | Hantera trafikärenden | Hantera lokala trafikföreskrifter, transportdispenser, siktärenden,<br>vägvisning samt fordonsflytt. |
 | 8.2.5.7 | Föreningsbidrag samhällsbyggnad | Hantera kommunalt vägbidrag, särskilt vägbidrag samt<br>lekplatsbidrag. |
 | 8.2.5.8 | Hantera statsbidrag | Hantera ansökan om statsbidrag för medfinansiering av projekt. |
 | 8.2.5.9 | Hantera markåtkomst | Hantera nyttjande av offentlig plats. |
+
+<!-- sida 162 -->
+
+3
+
+<!-- sida 163 -->
+
+4
+
+<!-- sida 164 -->
+
+5
 
 <!-- sida 165 -->
 
@@ -9547,7 +9450,7 @@ NY KONSTGRÄSPLAN
 
 BÅTKLUBB
 
-Plan skala 1:1500 (A3)
+Plan skala 1:1500(A3)
 
 ILLUSTRATION FRAMTAGEN   AV MARELD
 
@@ -15743,34 +15646,54 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (5)
 
+Punkt i
+delegeringsord       Ansvarig   Delegeringens
+ning       Lagrum    Delegat    omfattning     Taget beslut och datum för beslutet
+som chef äger ansvar Gårdskulla 1>1, den 2025-05-23,
+över           AVTAL-2025-00270.
+
+4.3.1                VC Trafik & Upphävanden av 3 st beslut om upphävande av lokala
+Utemiljö   inaktuella     trafikföreskrifter
+EC Planering & trafikföreskrifter
+Utformning
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+4.4        10 kap.   VC Trafik & Beslut om tillfälliga 7 st beslut om tillfälliga
+trafikförordnin Utemiljö trafikföreskrifter trafikföreskrifter angående
+gen       EC Planering &             1384 2025-
+(1998:1276) Utformning                 00212    Södra Nygatan
+EC Anläggning              1384 2025-
+& Utveckling                 00213    Lindens gatan
+Trafikingenjör             1384 2025-
+Samordnare                   00214     Parkgatan
+1384 2025-
+
+00215    Teatergatan
+1384 2025 -
+00216   Gymnasiegatan
+1384 2025-
+00222   Drottninggatan
+1384 2025-
+00231    Resecentrum
+4.5        10 kap.   VC Trafik & Revidering av 9 st reviderade befintliga
+trafikförordnin Utemiljö befintliga permanenta permanenta föreskrifter
+gen       EC Planering & föreskrifter
+(1998:1276) Utformning EC
+Anläggning &
+Utveckling
+Trafikingenjör
+Samordnare
+
 [Tabell 399-1](handlingar.tabeller/399-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  | som chef äger ansvar<br>över | Gårdskulla 1>1, den 2025-05-23,<br>AVTAL-2025-00270. |
-| 4.3.1 |  | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Upphävanden av<br>inaktuella<br>trafikföreskrifter | 3 st beslut om upphävande av lokala<br>trafikföreskrifter<br>1384 2025-<br>00220 Drottninggatan<br>1384 2025-<br>00221 Drottninggatan<br>1384 2025-<br>00239 Smekalles väg |
-| 4.4 | 10 kap.<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut om tillfälliga<br>trafikföreskrifter | 7 st beslut om tillfälliga<br>trafikföreskrifter angående<br>1384 2025-<br>00212 Södra Nygatan<br>1384 2025-<br>00213 Lindens gatan<br>1384 2025-<br>00214 Parkgatan<br>1384 2025-<br>00215 Teatergatan<br>1384 2025 -<br>00216 Gymnasiegatan<br>1384 2025-<br>00222 Drottninggatan<br>1384 2025-<br>00231 Resecentrum |
-| 4.5 | 10 kap.<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Revidering av<br>befintliga permanenta<br>föreskrifter | 9 st reviderade befintliga<br>permanenta föreskrifter<br>1384 2025-<br>00223 Forsvägen<br>1384 2025-<br>00224 Säröleden<br>1384 2025-<br>00225 Söderåleden<br>1384 2025-<br>00226 Hålabäcksvägen<br>1384 2025-<br>00227 Inlagsleden<br>1384 2025-<br>00228 Tölövägen |
-
-[Tabell 399-2](handlingar.tabeller/399-2.csv)
 
 | 1384 2025-<br>00220 | Drottninggatan |
 | --- | --- |
 | 1384 2025-<br>00221 | Drottninggatan |
 | 1384 2025-<br>00239 | Smekalles väg |
 
-[Tabell 399-3](handlingar.tabeller/399-3.csv)
-
-| 1384 2025-<br>00212 | Södra Nygatan |
-| --- | --- |
-| 1384 2025-<br>00213 | Lindens gatan |
-| 1384 2025-<br>00214 | Parkgatan |
-| 1384 2025-<br>00215 | Teatergatan |
-| 1384 2025 -<br>00216 | Gymnasiegatan |
-| 1384 2025-<br>00222 | Drottninggatan |
-| 1384 2025-<br>00231 | Resecentrum |
-
-[Tabell 399-4](handlingar.tabeller/399-4.csv)
+[Tabell 399-2](handlingar.tabeller/399-2.csv)
 
 | 1384 2025-<br>00223 | Forsvägen |
 | --- | --- |
@@ -15811,18 +15734,53 @@ KUNGSBACKA KOMMUN                                           3 (5)
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 401-1](handlingar.tabeller/401-1.csv)
+Punkt i
+delegeringsord       Ansvarig   Delegeringens
+ning       Lagrum    Delegat    omfattning     Taget beslut och datum för beslutet
+och Bygglagen        kostnader för
+6 Kap. 21            återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesför VC Trafik & Godkännande av 33 st beslut om enbart
+ord ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning
+§ (a-e)   & Utveckling
+Ordningslagen Samordnare
+3 kap. 4 §
+4.16       13 kap. och 8 Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | och Bygglagen<br>6 Kap. 21 |  | kostnader för<br>återställande av<br>kommunens<br>anläggningar |  |
-| 4.15 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsplan | 33 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8<br>§<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 31<br>Avslagna: 2 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 56<br>Avslagna: 1 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 16<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikatio<br>n | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 250505, 1 st<br>250522, 1 st<br>250530, 1 st |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 250505, 1 st<br>250512, 1 st<br>250519, 3 st<br>250522, 1 st<br>250528, 2 st<br>250530, 2 st |
+§         dare       parkeringstillstånd för rörelsehindrad
+trafikförordnin
+rörelsehindrade Beviljade: 31
+gen
+Avslagna: 2
+(1998:1276)
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö avseende begagnade Teknik.
+kap       EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+5.1        6–9 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare   färdtjänst med Beviljade: 56
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 1
+5.3        4–7 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare   riksfärdtjänst Beviljade: 16
+riksfärdtjänst EC Kansli
+Avslagna: 0
+8.3        37§ Lokala Anette    Besluta om     250505, 1 st
+avfallsföreskrif Englund, godkännande av 250522, 1 st
+ter för   administratör kompostering av 250530, 1 st
+Kungsbacka Kund &    matavfall
+kommun    Kommunikatio
+n
+8.6        43, 43a §§ Anette    Besluta om tillfälligt 250505, 1 st
+Lokala    Englund,   uppehåll i     250512, 1 st
+avfallsföreskrif administratör sophämtning 250519, 3 st
+ter för   Kund &                    250522, 1 st
+Kungsbacka Kommunikatio             250528, 2 st
+kommun    n                         250530, 2 st
 
 <!-- sida 402 -->
 
@@ -15845,7 +15803,7 @@ delegeringsförteckning antagen 2024-09-25 § 94.
 Sida
 1(5)
 
-[Tabell 403-1](handlingar.tabeller/403-1.csv)
+[Tabell 403-407-1](handlingar.tabeller/403-407-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -15857,16 +15815,6 @@ Sida
 | 2025-05-26 | Yttrande Teknik - Godkännande av teknisk anläggning, Frillesås-Rya 2:36, KS-2025-00420 | TE-2025-00464 |
 | 2025-05-20 | Yttrande Teknik - Blåljusdagen Kungsbacka torg | TE-2025-00459 |
 | 2025-05-20 | Yttrande Teknik - Teater- och musikevenemang Borgmästareplatsen | TE-2025-00449 |
-
-<!-- sida 404 -->
-
-Sida
-2(5)
-
-[Tabell 404-1](handlingar.tabeller/404-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-05-19 | Yttrande Teknik - Konfirmation Åsa IP | TE-2025-00430 |
 | 2025-05-19 | Yttrande Teknik - Gothia Cup 2025 | TE-2025-00389 |
 | 2025-05-28 | Yttrande Teknik - Sophantering och VA-anslutning, Åsa 4:118, BN 2025-000701 | TE-2025-00455 |
@@ -15878,16 +15826,6 @@ Sida
 | 2025-05-19 | Yttrande Teknik - Sophämtning och VA-anslutning, Buera 8:3, BN 2025-000054 | TE-2025-00438 |
 | 2025-05-19 | Yttrande Teknik - Enskild avloppsanläggning, Alafors 2:44, MH-2025-1033 | TE-2025-00434 |
 | 2025-05-14 | Yttrande Teknik - Orienteringstävling i Kolla | TE-2025-00428 |
-
-<!-- sida 405 -->
-
-Sida
-3(5)
-
-[Tabell 405-1](handlingar.tabeller/405-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-05-13 | Yttrande Teknik – Transportdispens TRV 2025/49591 | TE-2025-00427 |
 | 2025-05-12 | Yttrande Teknik - Byggetablering Gymnasiegatan 10 | TE-2025-00386 |
 | 2025-05-20 | Yttrande Teknik - VA-anslutning, Gressela 3:19, BN 2025-000645 | TE-2025-00426 |
@@ -15899,16 +15837,6 @@ Sida
 | 2025-05-26 | Yttrande Teknik - Gällande parkering, angöringsplatser för transformatorstationer, teknikbodar, miljöhus, vägbredd, väglutning,<br>vändplats för sop- & slambil för enskilt avlopp, fettavskiljare inklusive tömningsplats, kapacitet på VA-ledning - BN 2025-000422,<br>TULLEN 8 | TE-2025-00402 |
 | 2025-05-15 | Yttrande Teknik - parkering, avfallshantering med hänsyn till miljöhus, framkomlighet för sopbil, och trafiksäkerhet - BN 2025-000582,<br>MÅ 3:175 | TE-2025-00379 |
 | 2025-05-06 | Yttrande Teknik - Gamingmässa och LAN | TE-2025-00312 |
-
-<!-- sida 406 -->
-
-Sida
-4(5)
-
-[Tabell 406-1](handlingar.tabeller/406-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-05-05 | Yttrande Teknik - Trafiksäkerhetsbedömning, Valldavägen - Lerkilsvägen | TE-2025-00314 |
 | 2025-05-05 | Yttrande Teknik - Hantverksmarknader i Badhusparken | TE-2025-00311 |
 | 2025-05-05 | Yttrande Teknik - Byggetablering Södra Torggatan 5 | TE-2025-00380 |
@@ -15920,14 +15848,24 @@ Sida
 | 2025-05-23 | Yttrande Teknik - Trafiksäkerhetsbedömning, Näsbergsvägen till Åsaskolan | TE-2025-00372 |
 | 2025-05-27 | Yttrande Teknik - huruvida förslagen placering kommer påverka lekplatsen - BN 2025-000621, SKÅRBY 3:4 | TE-2025-00366 |
 | 2025-05-07 | Yttrande Teknik - Placering av transformatorstation, Liden 1:26, BN 2024-001621 | TE-2025-00327 |
+| 2025-05-26 | Yttrande Teknik - Godkännande av ledningsnedläggning och tillhörande anläggning, Hede 9:26, KS-2024-00505 | TE-2024-01114 |
+
+<!-- sida 404 -->
+
+Sida
+2(5)
+
+<!-- sida 405 -->
+
+Sida
+3(5)
+
+<!-- sida 406 -->
+
+Sida
+4(5)
 
 <!-- sida 407 -->
 
 Sida
 5(5)
-
-[Tabell 407-1](handlingar.tabeller/407-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
-| 2025-05-26 | Yttrande Teknik - Godkännande av ledningsnedläggning och tillhörande anläggning, Hede 9:26, KS-2024-00505 | TE-2024-01114 |

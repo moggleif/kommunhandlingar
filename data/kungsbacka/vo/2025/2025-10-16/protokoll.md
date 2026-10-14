@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6f40f1f619a153e61bf582fc/1761640035
 sha256: e5664b068cf607356fb7869b3db3f9ff9db90f9489ccbe0aaa8110c57c3b7979
 bytes: 353371
 sidor: 32
-hamtad: 2026-10-08T08:14:37+00:00
-konverterad: 2026-10-08T08:14:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:08:05+00:00
+konverterad: 2026-10-14T11:08:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -454,12 +454,21 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8A168E3ADFF7FC37557C75098A4BC03DA120A91A26
 Transaktionsidentitet: E116E2023598D946F23BA14247C047A62E0A8767C7
 
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
+[Tabell 10-11-1](protokoll.tabeller/10-11-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Monica Neptun (L) 1:e vice<br>ordförande | X |  |  |
 | Ermin Škorić (S) 2:e vice<br>ordförande |  | X |  |
+| Annika Carlsson (M) | X |  |  |
+| Barbro Hjelström (M) | X |  |  |
+| Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 11 -->
 
@@ -479,19 +488,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8A168E3ADFF7FC37557C75098A4BC03DA120A91A26
 Transaktionsidentitet: E116E2023598D946F23BA14247C047A62E0A8767C7
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| Annika Carlsson (M) | X |  |  |
-| --- | --- | --- | --- |
-| Barbro Hjelström (M) | X |  |  |
-| Astrid Börjesson (S) |  | X |  |
-| Eva Tingström (S) |  | X |  |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 12 -->
 

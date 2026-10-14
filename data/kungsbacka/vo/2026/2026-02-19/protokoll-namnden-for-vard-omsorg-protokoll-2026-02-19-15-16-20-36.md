@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1ec89f/177194637034
 sha256: fb24a9f8afd169085b59d6fdedfec8f0b9dc9f225fe565f65e0a2abb1bed4d9c
 bytes: 393711
 sidor: 35
-hamtad: 2026-10-08T08:15:34+00:00
-konverterad: 2026-10-08T08:15:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:08:51+00:00
+konverterad: 2026-10-14T11:08:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -690,7 +690,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 17-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/17-1.csv)
+[Tabell 17-18-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/17-18-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -703,6 +703,8 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Per Hoel (SD) |  | X |  |
 | Hans Ädel (SD) |  | X |  |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 18 -->
 
@@ -718,12 +720,6 @@ Ersättare Kristina Gellingskog (V) stödjer Ermin Škorićs (S) m.fl. tilläggs
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 18-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/18-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 19 -->
 
@@ -1133,7 +1129,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 27-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/27-1.csv)
+[Tabell 27-28-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/27-28-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1146,6 +1142,8 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Per Hoel (SD) |  |  | X |
 | Hans Ädel (SD) |  |  | X |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 28 -->
 
@@ -1157,12 +1155,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 28-1](protokoll-namnden-for-vard-omsorg-protokoll-2026-02-19-15-16-20-36.tabeller/28-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 29 -->
 

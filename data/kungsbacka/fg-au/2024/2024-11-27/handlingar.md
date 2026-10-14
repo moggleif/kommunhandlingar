@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff852b4/1732526617
 sha256: f6b225dff36c81ebfd040d7e5eefa4e84ee4f7611e0f77bebe51779590046f60
 bytes: 16362850
 sidor: 274
-hamtad: 2026-10-07T23:23:12+00:00
-konverterad: 2026-10-07T23:24:44+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:28:34+00:00
+konverterad: 2026-10-14T07:29:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [94, 128, 129, 130, 131, 139, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 225]
-figurer: null
-tolkade: null
+figurer: [16, 18, 19, 20, 35, 39, 43, 45, 49, 51, 52, 69, 71, 73, 87, 88, 89, 90, 91, 92, 93, 94, 96, 97, 98, 125, 126, 128, 129, 130, 131, 132, 133, 135, 138, 139, 144, 145, 147, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 168, 170, 171, 176, 182, 194, 221, 224, 225, 239]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,6 +67,18 @@ KUNGSBACKA  KOMMUN
 | 8. | Information om projektet UP2<br>fullföljda studier<br>Kl 09:45-10:00<br>Karolina Reinhold,<br>utvecklingsledare | FG-2024-00742 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
 | 9. | Information om Löneöversyn<br>2024, från årshjul<br>Kl 10:00-10:20<br>Helena Hellman, personalchef | FG-2024-00531 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
 | 10. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområdet<br>Kl 10:20-10:25<br>Gustav Sjöström, ekonomichef | FG-2024-00706 | Interkommunala ersättningar för kommuner<br>utanför Göteborgsregionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2025-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
+| 11. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 10:25-10:30<br>Gustav Sjöström, ekonomichef | FG-2024-00707 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad<br>grundskola mellan Varberg, Mark och<br>Kungsbacka följs från och med 2025 01 01. |
+| 12. | Interkommunal ersättning inom<br>GR<br>Kl 10:30-10:35<br>Gustav Sjöström, ekonomichef | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar<br>att följa förbundsstyrelsen inom<br>Göteborgsregionens rekommendation att med<br>avstämningstidpunkt den 15:e respektive<br>månad, fastställa interkommunal ersättning för<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem, anpassad grundskola<br>och ISGR kalenderåret 2025 i enlighet med<br>innehållet i prislista. |
+| 13. | Information skolskjuts 2024<br>Kl 10:35-10:55<br>Lars Sundbom, utvecklare | FG-2024-00662 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 14. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 10:55-11:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 15. | Intern kontrollplan 2025<br>Kl 11:25-11:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
+| 16. | Skolinspektionens granskning<br>av Åsa Gårdskolan<br>Kl 11:55-12:20<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00737 | Förskola & Grundskolas arbetsutskott beslutar<br>att som huvudmannens svar på identifierade<br>utvecklingsområde i Skolinspektionens<br>regelbundna kvalitetsgranskning godkänna<br>rektors åtgärder. |
+|  | Paus 12:20-12:30 |  |  |
+| 17. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 12:30-12:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 18. | Avstämning arbete med<br>lokalöversyn<br>Kl 12:50-13:20<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00744 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 19. | Avstämning Lunch<br>verksamheter<br>Kl 13:20-13:30<br>Ordförande | FG-2024-00741 | Förslag till beslut |
+| 20. | Flytt av arbetsutskott v 7 2025<br>Kl 13:30-13:40<br>Ordförande | FG-2024-000743 | Förslag till beslut |
+| 21. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:40-14:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 
 <!-- sida 3 -->
 
@@ -74,32 +86,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 10:25-10:30<br>Gustav Sjöström, ekonomichef | FG-2024-00707 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad<br>grundskola mellan Varberg, Mark och<br>Kungsbacka följs från och med 2025 01 01. |
-| 12. | Interkommunal ersättning inom<br>GR<br>Kl 10:30-10:35<br>Gustav Sjöström, ekonomichef | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar<br>att följa förbundsstyrelsen inom<br>Göteborgsregionens rekommendation att med<br>avstämningstidpunkt den 15:e respektive<br>månad, fastställa interkommunal ersättning för<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem, anpassad grundskola<br>och ISGR kalenderåret 2025 i enlighet med<br>innehållet i prislista. |
-| 13. | Information skolskjuts 2024<br>Kl 10:35-10:55<br>Lars Sundbom, utvecklare | FG-2024-00662 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 14. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 10:55-11:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 15. | Intern kontrollplan 2025<br>Kl 11:25-11:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Skolinspektionens granskning<br>av Åsa Gårdskolan<br>Kl 11:55-12:20<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00737 | Förskola & Grundskolas arbetsutskott beslutar<br>att som huvudmannens svar på identifierade<br>utvecklingsområde i Skolinspektionens<br>regelbundna kvalitetsgranskning godkänna<br>rektors åtgärder. |
-|  | Paus 12:20-12:30 |  |  |
-| 17. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 12:30-12:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 18. | Avstämning arbete med<br>lokalöversyn<br>Kl 12:50-13:20<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00744 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 19. | Avstämning Lunch<br>verksamheter<br>Kl 13:20-13:30<br>Ordförande | FG-2024-00741 | Förslag till beslut |
-| 20. | Flytt av arbetsutskott v 7 2025<br>Kl 13:30-13:40<br>Ordförande | FG-2024-000743 | Förslag till beslut |
 
 <!-- sida 5 -->
 
@@ -109,12 +100,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:40-14:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 
 <!-- sida 6 -->
 
@@ -5052,32 +5037,65 @@ Systematiskt kvalitetsarbete 2023-2024 sammanfattande rapport 29
 
 Nämnden för Förskola & Grundskola               Kungsbacka kommun
 
+2021           2022          2023           2024
+Po
+To Flic Poj Di To Flic Poj Di To Flic       To Flic Poj Di
+Ämne                                        jka Diff
+tal kor kar ff tal kor kar ff tal kor       tal kor kar ff
+r
+15,           15,            15,    13,     15,
+Bild       16,7 14,4 2,3  16,5 13,8 2,7 16,4    2,9     17 13,9 3,1
+5              1              2      5      4
+14,           15,            15,    14,     14,
+Engelska   14,8 14,8 0,0  15,4 15,0 0,4 15,0    0,3    15,2 14,5 0,7
+8              2              0      7      9
+Hem och
+15,           15,            15,    13,
+konsument  16,4 14,5 1,9  16,4 14,1 2,3 15,4    1,5 15 16,3 13,8 2,5
+4              3              0      9
+kunskap
+Idrott och 15,      - 15,         -  14,    15,     14,         -
+14,8 15,5      15,0 15,2     14,1    -0,9   14,8 15
+hälsa   2          0,7 1          0,2 8      0      9          0,2
+13,         - 13,            13,    13,     13,
+Matematik  13,2 13,3      13,1 12,9 0,2 13,1    -0,1   13,4 13 0,4
+3          0,1 0              3      2      2
+14,           14,            14,    13,     14,
+Musik      15,5 14,3 1,2  15,6 14,1 1,5 15,1    1,2    14,9 13,6 1,3
+9              8              8      9      3
+14,           14,            13,    13,     14,
+Biologi    14,8 13,6 1,2  15,1 13,6 1,5 14,0    0,8    14,9 13,6 1,3
+2              3              8      2      2
+13,           13,            13,    13,     13,
+Fysik      14,1 13,5 0,6  14,1 13,3 0,8 13,5    0,1    14,4 12,9 1,5
+8              7              6      4      6
+13,           13,            13,    13,     13,
+Kemi       14,1 13,3 0,8  14,1 13,2 0,9 13,6    0,4    14,4 13,3 1,1
+7              6              5      2      8
+14,           14,            14,    13,     14,
+Geografi   15,3 14,2 1,1  14,5 13,5 1,0 14,6    0,9     15 13,5 1,5
+7              0              4      7      2
+14,           14,            14,    13,     14,
+Historia   15,2 14,5 0,7  14,7 14,0 0,7 14,4    0,5    14,9 13,8 1,1
+8              3              4      9      4
+Religionsk 14,        14,            14,    13,     14,
+15,4 13,9 1,5  14,8 13,2 1,6 14,8    1,2    14,9 13,2 1,7
+unskap  6              0              4      6      1
+Samhällsku 14,        14,            14,    13,
+15,3 14,4 0,9  14,8 13,5 1,3 14,6    1,0 14 14,8 13,2 1,6
+nskap   8              2              3      6
+15,           15,            15,    14,     15,
+Slöjd      16,0 14,4 1,6  16,1 14,4 1,7 15,3    1,1    16,4 14,3 2,1
+1              2              0      2      3
+14,           14,            14,    13,     13,
+Svenska    15,7 13,4 2,3  15,2 12,9 2,3 14,9    1,8    14,9 12,6 2,3
+5              0              2      1      7
+14,           15,            14,    13,     14,
+Teknik     14,9 14,0 0,9  15,6 14,4 1,2 14,5    0,6    15,4 13,9 1,5
+4              0              3      9      6
 6.2 Enkäter
 Vårdnadshavare förskola
-
 Systematiskt kvalitetsarbete 2023-2024 sammanfattande rapport 30
-
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-|  | 2021 |  |  |  | 2022 |  |  |  | 2023 |  |  |  | 2024 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ämne | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff | To<br>tal | Flic<br>kor | Po<br>jka<br>r | Diff | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff |
-| Bild | 15,<br>5 | 16,7 | 14,4 | 2,3 | 15,<br>1 | 16,5 | 13,8 | 2,7 | 15,<br>2 | 16,4 | 13,<br>5 | 2,9 | 15,<br>4 | 17 | 13,9 | 3,1 |
-| Engelska | 14,<br>8 | 14,8 | 14,8 | 0,0 | 15,<br>2 | 15,4 | 15,0 | 0,4 | 15,<br>0 | 15,0 | 14,<br>7 | 0,3 | 14,<br>9 | 15,2 | 14,5 | 0,7 |
-| Hem och<br>konsument<br>kunskap | 15,<br>4 | 16,4 | 14,5 | 1,9 | 15,<br>3 | 16,4 | 14,1 | 2,3 | 15,<br>0 | 15,4 | 13,<br>9 | 1,5 | 15 | 16,3 | 13,8 | 2,5 |
-| Idrott och<br>hälsa | 15,<br>2 | 14,8 | 15,5 | -<br>0,7 | 15,<br>1 | 15,0 | 15,2 | -<br>0,2 | 14,<br>8 | 14,1 | 15,<br>0 | -0,9 | 14,<br>9 | 14,8 | 15 | -<br>0,2 |
-| Matematik | 13,<br>3 | 13,2 | 13,3 | -<br>0,1 | 13,<br>0 | 13,1 | 12,9 | 0,2 | 13,<br>3 | 13,1 | 13,<br>2 | -0,1 | 13,<br>2 | 13,4 | 13 | 0,4 |
-| Musik | 14,<br>9 | 15,5 | 14,3 | 1,2 | 14,<br>8 | 15,6 | 14,1 | 1,5 | 14,<br>8 | 15,1 | 13,<br>9 | 1,2 | 14,<br>3 | 14,9 | 13,6 | 1,3 |
-| Biologi | 14,<br>2 | 14,8 | 13,6 | 1,2 | 14,<br>3 | 15,1 | 13,6 | 1,5 | 13,<br>8 | 14,0 | 13,<br>2 | 0,8 | 14,<br>2 | 14,9 | 13,6 | 1,3 |
-| Fysik | 13,<br>8 | 14,1 | 13,5 | 0,6 | 13,<br>7 | 14,1 | 13,3 | 0,8 | 13,<br>6 | 13,5 | 13,<br>4 | 0,1 | 13,<br>6 | 14,4 | 12,9 | 1,5 |
-| Kemi | 13,<br>7 | 14,1 | 13,3 | 0,8 | 13,<br>6 | 14,1 | 13,2 | 0,9 | 13,<br>5 | 13,6 | 13,<br>2 | 0,4 | 13,<br>8 | 14,4 | 13,3 | 1,1 |
-| Geografi | 14,<br>7 | 15,3 | 14,2 | 1,1 | 14,<br>0 | 14,5 | 13,5 | 1,0 | 14,<br>4 | 14,6 | 13,<br>7 | 0,9 | 14,<br>2 | 15 | 13,5 | 1,5 |
-| Historia | 14,<br>8 | 15,2 | 14,5 | 0,7 | 14,<br>3 | 14,7 | 14,0 | 0,7 | 14,<br>4 | 14,4 | 13,<br>9 | 0,5 | 14,<br>4 | 14,9 | 13,8 | 1,1 |
-| Religionsk<br>unskap | 14,<br>6 | 15,4 | 13,9 | 1,5 | 14,<br>0 | 14,8 | 13,2 | 1,6 | 14,<br>4 | 14,8 | 13,<br>6 | 1,2 | 14,<br>1 | 14,9 | 13,2 | 1,7 |
-| Samhällsku<br>nskap | 14,<br>8 | 15,3 | 14,4 | 0,9 | 14,<br>2 | 14,8 | 13,5 | 1,3 | 14,<br>3 | 14,6 | 13,<br>6 | 1,0 | 14 | 14,8 | 13,2 | 1,6 |
-| Slöjd | 15,<br>1 | 16,0 | 14,4 | 1,6 | 15,<br>2 | 16,1 | 14,4 | 1,7 | 15,<br>0 | 15,3 | 14,<br>2 | 1,1 | 15,<br>3 | 16,4 | 14,3 | 2,1 |
-| Svenska | 14,<br>5 | 15,7 | 13,4 | 2,3 | 14,<br>0 | 15,2 | 12,9 | 2,3 | 14,<br>2 | 14,9 | 13,<br>1 | 1,8 | 13,<br>7 | 14,9 | 12,6 | 2,3 |
-| Teknik | 14,<br>4 | 14,9 | 14,0 | 0,9 | 15,<br>0 | 15,6 | 14,4 | 1,2 | 14,<br>3 | 14,5 | 13,<br>9 | 0,6 | 14,<br>6 | 15,4 | 13,9 | 1,5 |
 
 <!-- sida 170 -->
 
@@ -6611,31 +6629,19 @@ Förteckning   över  all undervisande   personal  på  skolenheten
 Skolenhetens namn:        Åsa Gårdsskolan åk 4-9
 Rektors namn:       Ulrika Jansson from 8/1-2024
 
-[Tabell 214-1](handlingar.tabeller/214-1.csv)
+[Tabell 214-217-1](handlingar.tabeller/214-217-1.csv)
 
 | Nr | Namn | Lärarsignaturer | Anställningsfor<br>m | Lärarlegitimation |
 | --- | --- | --- | --- | --- |
 | 1 | Filippa Krüger | FIKRU | Tillsvidare | Ja |
 | 2 | Liridona Vllasa | LIVLL | Tillsvidare | Ja |
 | 3 | Kristin Torkelsson | KRTOR | Tillsvidare | Ja |
-
-<!-- sida 215 -->
-
-[Tabell 215-1](handlingar.tabeller/215-1.csv)
-
 | 4 | Jennifer Edvardsson | JENED | Tillsvidare | Ja |
-| --- | --- | --- | --- | --- |
 | 5 | Åsa Cappelin | ÅSCAP | Tillsvidare | Ja |
 | 6 | Björn Lundgren | BJLUN | Tillsvidare | Ja |
 | 7 | Jonas Bang | JOBAN | Visstid | Nej |
 | 8 | Terese William | TEWIL | Visstid | Nej |
-
-<!-- sida 216 -->
-
-[Tabell 216-1](handlingar.tabeller/216-1.csv)
-
 | 9 | Marie Lindengren | MARLI | Tillsvidare | Ja |
-| --- | --- | --- | --- | --- |
 | 10 | Sergio Gonzalez | SERGO | Tillsvidare | Ja |
 | 11 |  |  |  |  |
 | 12 |  |  |  |  |
@@ -6681,17 +6687,7 @@ Rektors namn:       Ulrika Jansson from 8/1-2024
 | 52 |  |  |  |  |
 | 53 |  |  |  |  |
 | 54 |  |  |  |  |
-
-<!-- sida 217 -->
-
-\* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
-
-Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar behörighet, ange i vilket/vilka ämnen och årskurser
-
-[Tabell 217-1](handlingar.tabeller/217-1.csv)
-
 | 55 |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | 56 |  |  |  |  |
 | 57 |  |  |  |  |
 | 58 |  |  |  |  |
@@ -6738,6 +6734,16 @@ Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar b
 | 99 |  |  |  |  |
 | 100 |  |  |  |  |
 
+<!-- sida 215 -->
+
+<!-- sida 216 -->
+
+<!-- sida 217 -->
+
+\* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
+
+Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar behörighet, ange i vilket/vilka ämnen och årskurser
+
 <!-- sida 218 -->
 
 Förteckning över all undervisande personal på skolenheten
@@ -6745,31 +6751,19 @@ Förteckning över all undervisande personal på skolenheten
 Andel undervisande personal med lärarlegitimation:
 Andel undervisande personal som saknar behörighet\*:
 
-[Tabell 218-1](handlingar.tabeller/218-1.csv)
+[Tabell 218-220-1](handlingar.tabeller/218-220-1.csv)
 
 | Beskriv den<br>undervisande<br>personalens<br>utbildning/lärarle<br>gitimation | Undervisningsämnen och<br>årskurser | Saknas behörighet i något<br>undervisningsämne eller för<br>vissa årskurser? |
 | --- | --- | --- |
 | Lärarlegitimation<br>grundskolan åk 1-<br>6 i ämnena<br>svenska,<br>matematik,<br>geografi, historia,<br>samhällskunskap<br>och religion. Samt<br>förskoleklass. | matematik åk 4-6, so åk 6 | Nej |
 | Lärarlegitimation<br>grunskolan åk 1-6 i<br>matematik och<br>svenska. | svenska åk 6 och engelska åk 4-<br>6 | Ja |
 | Lärarlegitimation<br>enligt följande: 1-<br>3: bild, geografi,<br>historia, religion,<br>samhällskunskap,<br>musik, svenska<br>och svenska som<br>andraspråk. åk 1-<br>7: matematik,<br>biologi, fysik,<br>kemi, idrott och<br>hälsa, | matematik, idrott och hälsa, no<br>samt teknik åk 5 | Ja |
-
-<!-- sida 219 -->
-
-[Tabell 219-1](handlingar.tabeller/219-1.csv)
-
 | Lärarlegitimation<br>enligt följande: åk<br>1-3: biologi, kemi,<br>fysik, teknik,<br>matematik, idrott<br>och hälsa, musik<br>och svenska som<br>andraspråk. Åk 1-<br>7: svenska,<br>samhällskunskap,<br>religion, geografi,<br>bild. | svenska och so åk 5 | Nej |
-| --- | --- | --- |
 | Lärarlegitimation<br>enligt följande. 1-<br>3: biologi, kemi,<br>fysik, teknik,<br>svenska som<br>andraspråk,<br>engelska. åk 1-6:<br>bild, geografi,<br>historia,<br>samhällskunskap,<br>religion, svenska.<br>Samt<br>förskoleklass. | svenska och so åk 4 | Nej |
 | Lärarlegitimation<br>enligt följande:<br>förskoleklassen<br>och<br>fritidshemmet. Åk<br>1-6: idrott och<br>hälsa, matematik,<br>musik och<br>svenska. åk 3-6:<br>religion, historia,<br>samhällskunskap<br>och geografi. | musik åk 4--6, idrott och hälsa<br>åk 6, no och teknik årskurserna<br>4 och 6 | Nej |
 | Utbildar sig till<br>lärare i hem och<br>konsumentkunska<br>p | hkk åk 6 och bild i åk 4 | Ja |
 | Utbildar sig till<br>lärare i slöjd. | slöjd åk 4-6 samt bild åk 5 ochc<br>6 | Ja |
-
-<!-- sida 220 -->
-
-[Tabell 220-1](handlingar.tabeller/220-1.csv)
-
 | Lärare med<br>behörighet i<br>moderna språk<br>franska åk 6-9 | undervisar i moderna språk<br>franska åk 6 | Nej |
-| --- | --- | --- |
 | obehörig lärare | undervisar i moderna språk<br>spanska åk 6 | Ja |
 |  |  |  |
 |  |  |  |
@@ -6816,61 +6810,15 @@ Andel undervisande personal som saknar behörighet\*:
 |  |  |  |
 |  |  |  |
 
+<!-- sida 219 -->
+
+<!-- sida 220 -->
+
 <!-- sida 221 -->
 
 \* Andel undervisande personal som saknar behörighet i enstaka ämnen, enstaka årskurser eller samtliga undervisningsämnen.
 
 Vilka ämnen/årskurser anges i kolumnen Om den undervisande personalen saknar behörighet, ange i vilket/vilka ämnen och årskurser
-
-[Tabell 221-1](handlingar.tabeller/221-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 <!-- sida 222 -->
 
@@ -7066,7 +7014,7 @@ utvecklingsorganisationen fått stå tillbaka. En annan utmaning är att en del 
 
 Åsa Gårdsskola 4-6, Förskolors och skolors samlade analys läsåret 2022-2023 6(10)
 
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
+[Tabell 231-232-1](handlingar.tabeller/231-232-1.csv)
 
 | Undervisningens måldimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
@@ -7076,6 +7024,20 @@ utvecklingsorganisationen fått stå tillbaka. En annan utmaning är att en del 
 | Undervisningen fokuserar lärande bedömning |  |  | x |  |  |
 | Undervisningens kognitiva dimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | Undervisningen utmanar och aktiverar |  |  | x | x |  |
+| Undervisningen integrerar och balanserar olika<br>kunskapsformer och sätt att representera<br>innehållet. |  |  |  |  | x |
+| Undervisningen leder mot progression |  |  |  | x |  |
+| Undervisningen stimulerar till meta-reflektioner |  |  | x |  |  |
+| Undervisningens sociala dimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
+| Undervisningen är stödjande |  |  |  | x |  |
+| Undervisningen är öppen |  |  |  | x |  |
+| Undervisningen är respektfull |  |  |  | x |  |
+| Undervisningen är dialogisk |  |  |  | x |  |
+| Undervisningens lärmiljö | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
+| Undervisningen leds tydligt |  |  |  | x |  |
+| Undervisningen organiseras |  |  |  | x |  |
+| Undervisningen är strukturerad |  |  | x | x |  |
+| Undervisningen kommunicerar förväntningar |  |  | x |  |  |
+| Undervisningen uttrycker en elevorientering |  | x | x | x |  |
 
 <!-- sida 232 -->
 
@@ -7106,24 +7068,6 @@ Lärare följer upp undervisningen kontinuerligt enskilt med eleverna. Oftast i 
 ett avsnitt avslutas.
 
 Åsa Gårdsskola 4-6, Förskolors och skolors samlade analys läsåret 2022-2023 7(10)
-
-[Tabell 232-1](handlingar.tabeller/232-1.csv)
-
-| Undervisningen integrerar och balanserar olika<br>kunskapsformer och sätt att representera<br>innehållet. |  |  |  |  | x |
-| --- | --- | --- | --- | --- | --- |
-| Undervisningen leder mot progression |  |  |  | x |  |
-| Undervisningen stimulerar till meta-reflektioner |  |  | x |  |  |
-| Undervisningens sociala dimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| Undervisningen är stödjande |  |  |  | x |  |
-| Undervisningen är öppen |  |  |  | x |  |
-| Undervisningen är respektfull |  |  |  | x |  |
-| Undervisningen är dialogisk |  |  |  | x |  |
-| Undervisningens lärmiljö | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| Undervisningen leds tydligt |  |  |  | x |  |
-| Undervisningen organiseras |  |  |  | x |  |
-| Undervisningen är strukturerad |  |  | x | x |  |
-| Undervisningen kommunicerar förväntningar |  |  | x |  |  |
-| Undervisningen uttrycker en elevorientering |  | x | x | x |  |
 
 <!-- sida 233 -->
 

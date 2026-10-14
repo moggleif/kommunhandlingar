@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6f631f6d18ecb8df34014465/1713507974
 sha256: 7dd9d4a0356d2e04c4338052ef85c6c5b3719fdd2aff05524d863a2dad03080e
 bytes: 289290
 sidor: 5
-hamtad: 2026-10-08T00:43:49+00:00
-konverterad: 2026-10-08T00:43:58+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:36:55+00:00
+konverterad: 2026-10-14T08:37:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok]
 tal_obekraftade: [3]
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -136,7 +136,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-5-1](kallelse.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -144,6 +144,12 @@ KUNGSBACKA  KOMMUN
 | 6. | Bredbandstaxa 2025 | TE-2024-<br>00032,<br>Handläggare:<br>Michael<br>Johnsson,<br>18:05 – 18:10 | Nämnden för Teknik antar Bredbandstaxa 2025<br>daterad 2024-02-02 och översänder den till<br>kommunfullmäktige för fastställande.<br>Bredbandstaxa 2024, beslutad av<br>kommunfullmäktige 2023-11-07 § 170, KS-2023-<br>00301 upphör samtidigt att gälla.<br>Nämnden för Teknik förklarar paragrafen<br>omedelbart justerad. |
 | 7. | Taxa för låst cykelparkering i<br>Kungsbacka | TE-2024-<br>00027,<br>Handläggare:<br>Emir Halalkic,<br>18:10 – 18:15 | Nämnden för Teknik godkänner Taxa för<br>cykelparkering daterad 2024-04-03 och<br>översänder den till kommunfullmäktige för<br>fastställande. Taxorna för det nya cykelgaraget<br>träder i kraft i samband med att det öppnar. Nya<br>taxor för befintliga cykelbås börjar gälla 2025-01-<br>01.<br>Nämnden för Teknik föreslår kommunfullmäktige<br>att ge Nämnden för Teknik i uppdrag att justera<br>avgiften i enlighet med taxan när förändring av<br>självkostnaden ger anledning till det och<br>rapportera förändringen till kommunfullmäktige.<br>Nämnden för Teknik förklarar paragrafen<br>omedelbart justerad. |
 | 8. | Hantering av bygg- och<br>rivningsavfall under kommunalt<br>ansvar från 2025 | TE-2024-<br>00240,<br>Föredragande:<br>Catarina<br>Sundberg,<br>18:15 – 18:30 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 9. | Hållbar färdtjänst | TE-2024-<br>00285,<br>Föredragande:<br>Maria<br>Hellström,<br>18:30 – 19:05 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 10. | Övergripande information,<br>struktur kring belysning inom<br>kommunen | TE-2024-<br>00356,<br>Föredragande:<br>Emir Halalkic,<br>19:20 – 19:45 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 11. | Information om<br>ordförandebeslut - Lokala<br>trafikföreskrifter om parkering | TE-2024-<br>00384,<br>19:45 – 19:55 | Nämnden för Teknik godkänner redovisningen av<br>tre (3) delegeringsbeslut från ordförande<br>Monica Neptun (L) på grund av brådskande<br>ärende.<br>Upplysning: Besluten är fattat 2024-03-27 med<br>stöd av delegering. Nämnden för Tekniks<br>delegeringsförteckning: punkt 3.2, 2024-01-23 §<br>15. |
+| 12. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-<br>00002,<br>19:55 – 20:00 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 13. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003,<br>20:00 – 20:05 | Nämnden för Teknik noterar delegeringsbeslut<br>rapporterade under mars 2024. |
+| 14. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>Föredragande:<br>Ulrika<br>Granfors,<br>20:05 – 20:25 | Nämnden för Teknik noterar informationen till<br>protokollet |
 
 <!-- sida 5 -->
 
@@ -153,14 +159,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Hållbar färdtjänst | TE-2024-<br>00285,<br>Föredragande:<br>Maria<br>Hellström,<br>18:30 – 19:05 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 10. | Övergripande information,<br>struktur kring belysning inom<br>kommunen | TE-2024-<br>00356,<br>Föredragande:<br>Emir Halalkic,<br>19:20 – 19:45 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 11. | Information om<br>ordförandebeslut - Lokala<br>trafikföreskrifter om parkering | TE-2024-<br>00384,<br>19:45 – 19:55 | Nämnden för Teknik godkänner redovisningen av<br>tre (3) delegeringsbeslut från ordförande<br>Monica Neptun (L) på grund av brådskande<br>ärende.<br>Upplysning: Besluten är fattat 2024-03-27 med<br>stöd av delegering. Nämnden för Tekniks<br>delegeringsförteckning: punkt 3.2, 2024-01-23 §<br>15. |
-| 12. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-<br>00002,<br>19:55 – 20:00 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
-| 13. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003,<br>20:00 – 20:05 | Nämnden för Teknik noterar delegeringsbeslut<br>rapporterade under mars 2024. |
-| 14. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>Föredragande:<br>Ulrika<br>Granfors,<br>20:05 – 20:25 | Nämnden för Teknik noterar informationen till<br>protokollet |

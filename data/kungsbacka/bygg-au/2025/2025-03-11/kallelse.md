@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.28a00bed19546152e2d8ecb4/1741094958
 sha256: 55c9361d3139991237f7de91437141ab2ea7ae06adc29a66154e493251a8a7ee
 bytes: 212660
 sidor: 4
-hamtad: 2026-10-08T00:17:30+00:00
-konverterad: 2026-10-08T00:17:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:13:54+00:00
+konverterad: 2026-10-14T08:14:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -64,20 +64,17 @@ KUNGSBACKA  KOMMUN
 | 6. | FRILLESÅS 3:17 -<br>Förhandsbesked för nybyggnad<br>av tre enbostadshus | BN-2024-<br>002359 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för tre enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 21 280 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 7. | HÅFORS 3:1 - Förhandsbesked<br>för nybyggnad av ett<br>enbostadshus | BN-2025-<br>000089 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 22 256 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 8. | KARSEGÅRDEN 6:9 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2024-<br>002266 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 21 280 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 9. | STABORG 1:39 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2024-<br>002073 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 21 208 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 10. | VALLDA 13:18 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus | BN-2024-<br>001817 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 24 605 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 11. | KLÄPPA 2:2 - Ansökan om<br>förlängning av tidsbegränsat lov | BN-2025-<br>000112 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>förlängning av tidsbegränsat lov med 5 år.<br>Det tidsbegränsade bygglovet upphör därmed<br>2032-01-15. Senast detta datum ska platsen<br>vara återställd och byggnaderna ska vara<br>avröjda.<br>Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 53 200 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 12. | VALLDA 3:9 - Bygglov för<br>ändrad användning av<br>verksamhetslokal från butik till<br>verkstad | BN-2024-<br>002479 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden beviljar bygglov för<br>ändrad användning av verksamhetslokal från<br>butik till verkstad.<br>Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom fem<br>år från det att beslutet vann laga kraft.<br>Kontrollansvarig för åtgärden är .<br>Avgiften för beslutet är 27 930 kronor. Av<br>detta kostar bygglovet 21 280 kronor och<br>byggskedet 6 650 kronor. Observera att<br>eventuell utstakning och lägeskontroll inte är<br>med i ovanstående belopp. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
+| 13. | Föreläggs att ansöka om lov för<br>uppförda skyltar och utvändiga<br>ändringar av byggnaden | BN-2022-<br>007293 | Förslag till beslut i byggnadsnämnden | 5<br>min |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 9. | STABORG 1:39 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2024-<br>002073 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 21 208 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 10. | VALLDA 13:18 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus | BN-2024-<br>001817 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 24 605 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 11. | KLÄPPA 2:2 - Ansökan om<br>förlängning av tidsbegränsat lov | BN-2025-<br>000112 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>förlängning av tidsbegränsat lov med 5 år.<br>Det tidsbegränsade bygglovet upphör därmed<br>2032-01-15. Senast detta datum ska platsen<br>vara återställd och byggnaderna ska vara<br>avröjda.<br>Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 53 200 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 
 <!-- sida 4 -->
 
@@ -87,10 +84,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofie Axelsson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 12. | VALLDA 3:9 - Bygglov för<br>ändrad användning av<br>verksamhetslokal från butik till<br>verkstad | BN-2024-<br>002479 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden beviljar bygglov för<br>ändrad användning av verksamhetslokal från<br>butik till verkstad.<br>Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom fem<br>år från det att beslutet vann laga kraft.<br>Kontrollansvarig för åtgärden är .<br>Avgiften för beslutet är 27 930 kronor. Av<br>detta kostar bygglovet 21 280 kronor och<br>byggskedet 6 650 kronor. Observera att<br>eventuell utstakning och lägeskontroll inte är<br>med i ovanstående belopp. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
-| 13. | Föreläggs att ansöka om lov för<br>uppförda skyltar och utvändiga<br>ändringar av byggnaden | BN-2022-<br>007293 | Förslag till beslut i byggnadsnämnden | 5<br>min |

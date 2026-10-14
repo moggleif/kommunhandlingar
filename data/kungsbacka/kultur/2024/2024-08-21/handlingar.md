@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.708627c5190a253b1da37f9f/1723705085
 sha256: bf2ea939713ea7568b413829f23c6d2079e5c0593f6c14b9b347e6fbd0e8cfcc
 bytes: 2525312
 sidor: 33
-hamtad: 2026-10-08T07:33:06+00:00
-konverterad: 2026-10-08T07:33:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:31:28+00:00
+konverterad: 2026-10-14T10:31:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -332,21 +332,31 @@ kommunen har att subventionera utifrån politiskt fastställda mål och styrdoku
 avgiftsnivån ”Avgift ideell” gäller för övriga kommunala förvaltningar och skolor, ideella föreningar,
 studieförbund och andra organisationer, ”Avgift kommersiell” i övriga fall.
 
+Vad              Avgift ideell Avgift   Exkl. 25 % Anmärkning
+2024        kommersiell moms
+2024
+Entré                0 kr        0 kr
+
+Konstguidning, bokade 0 kr      850 kr      x    Max 30 personer per
+grupper, vardag fram till                        grupp.
+k l 18.00
+Konstguidning, bokade 0 kr     1 000 kr     x    Max 30 personer per
+grupper, vardag från kl                          grupp.
+1 8.00
+
+Konstguidning, bokade 0 kr     1 500 kr     x    Max 25 personer per
+g rupper, helg                                   grupp.
+Skapande verkstad    0 kr        0 kr            Ingen kostnad. Ca 2-3
+förskole- & skolelever                           timmar inkl. visning. 4-12
+personer per grupp.
+Skapande verkstad    0 kr       100 kr      x    Ca 2-3 timmar inkl. visning.
+vuxna/person                                     4-12 personer per grupp.
+Kostnad för material
+t illkommer.
+
 Kungsbacka Kons thall, Taxa 2025 Sida 2 av 3
 
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Vad | Avgift ideell<br>2024 | Avgift<br>kommersiell<br>2024 | Exkl. 25 %<br>moms | Anmärkning |
-| --- | --- | --- | --- | --- |
-| Entré | 0 kr | 0 kr |  |  |
-| Konstguidning, bokade<br>grupper, vardag fram till<br>k l 18.00 | 0 kr | 850 kr | x | Max 30 personer per<br>grupp. |
-| Konstguidning, bokade<br>grupper, vardag från kl<br>1 8.00 | 0 kr | 1 000 kr | x | Max 30 personer per<br>grupp. |
-| Konstguidning, bokade<br>g rupper, helg | 0 kr | 1 500 kr | x | Max 25 personer per<br>grupp. |
-| Skapande verkstad<br>förskole- & skolelever | 0 kr | 0 kr |  | Ingen kostnad. Ca 2-3<br>timmar inkl. visning. 4-12<br>personer per grupp. |
-| Skapande verkstad<br>vuxna/person | 0 kr | 100 kr | x | Ca 2-3 timmar inkl. visning.<br>4-12 personer per grupp.<br>Kostnad för material<br>t illkommer. |
-|  |  |  |  |  |
-
-[Tabell 10-2](handlingar.tabeller/10-2.csv)
 
 | Vad | Avgift ideell 2025<br>exkl. 25 % moms | Avgift kommersiell<br>2025<br>exkl. 25 % moms | Anmärkning |
 | --- | --- | --- | --- |
@@ -420,16 +430,18 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Terminsavgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Terminsavgifter | (gällande sedan 2015) | 2025 |
 | Terminsavgift. Grundavgift<br>ämne/instrument samt ”kulår”. | 950 kr | 1 140 kr |
 | Fördjupningslinje | 1 900 kr | 2 280 kr |
 | Orkester, kör och musiklek-ämnen | 475 kr | 570 kr |
 
 [Tabell 12-2](handlingar.tabeller/12-2.csv)
 
-| Övriga avgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Övriga avgifter | (gällande sedan 2015) | 2025 |
 | Kortkurs, 10 veckor | 700 kr | 840 kr |
 | Kortkurs, 5 veckor | 400 kr | 480 kr |
 | Småbarnsrytmik, (drop in) | 500 kr | 0 kr |
@@ -533,24 +545,40 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Naturum Fjärås Bräcka
 
+Naturum Fjärås   Taxa 2025    Taxa 2025 Moms     Anm.
+Bräcka           kommersiell  ideell
+
+Guidning naturum 1–30   1 500 kr  1 500 kr Exkl. 6 % 45–60 min. Internt ingen
+personer                                    moms             moms
+
+Guidning naturum 31–60  3 000 kr  3 000 kr Exkl. 6 % 45–60 min. Internt ingen
+personer                                    moms             moms
+Introduktionsguidning     0 kr                          Ca 15 minuter
+
+Självguidning             0 kr
+skolgrupper
+
+Guidning skolgrupper     640 kr    640 kr Exkl. moms 45–60 min. Internt ingen
+som inte ingår i                                 moms. Kostnad för
+”Kulturträdet”                                   bussresa tillkommer.
+
+Konferenspaket heldag. Hyra 2 000 kr 480 kr/person Exkl. 25 % Företag,
+Hyra heldag, 8 timmar kl + 425 kr/person inkl. hyra moms privatpersoner och
+9(8) -17                                            föreningar. Frukost,
+lunch, fika ingår.
+
+Konferenspaket Hyra Hyra 1 000 kr Hyra 2 400 kr Exkl. 25 %
+halvdag, 4 tim.    + 325 kr/person + 240 kr per moms
+kl 8-12 / 13–17.               tillkommande
+person över 10
+
+Fika/möte/träff, två           75 kr/person Ej moms
+timmar.
+
 Uppsökande verksamhet i skolor erläggs med samma avgift som vid guidning på plats.
 
 Naturum Fjärås Bräcka och Äsk hults By Taxa Sida 2 av 4
 2025
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Naturum Fjärås<br>Bräcka | Taxa 2025<br>kommersiell | Taxa 2025<br>ideell | Moms | Anm. |
-| --- | --- | --- | --- | --- |
-| Guidning naturum 1–30<br>personer | 1 500 kr | 1 500 kr | Exkl. 6 %<br>moms | 45–60 min. Internt ingen<br>moms |
-| Guidning naturum 31–60<br>personer | 3 000 kr | 3 000 kr | Exkl. 6 %<br>moms | 45–60 min. Internt ingen<br>moms |
-| Introduktionsguidning | 0 kr |  |  | Ca 15 minuter |
-| Självguidning<br>skolgrupper | 0 kr |  |  |  |
-| Guidning skolgrupper<br>som inte ingår i<br>”Kulturträdet” | 640 kr | 640 kr | Exkl. moms | 45–60 min. Internt ingen<br>moms. Kostnad för<br>bussresa tillkommer. |
-| Konferenspaket heldag.<br>Hyra heldag, 8 timmar kl<br>9(8) -17 | Hyra 2 000 kr<br>+ 425 kr/person | 480 kr/person<br>inkl. hyra | Exkl. 25 %<br>moms | Företag,<br>privatpersoner och<br>föreningar. Frukost,<br>lunch, fika ingår. |
-| Konferenspaket Hyra<br>halvdag, 4 tim.<br>kl 8-12 / 13–17. | Hyra 1 000 kr<br>+ 325 kr/person | Hyra 2 400 kr<br>+ 240 kr per<br>tillkommande<br>person över 10 | Exkl. 25 %<br>moms |  |
-| Fika/möte/träff, två<br>timmar. |  | 75 kr/person | Ej moms |  |
-|  |  |  |  |  |
 
 <!-- sida 16 -->
 
@@ -700,6 +728,32 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 3 av 5
 
 5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
 
+Avgift         Beräkningssätt     Belopp 2019     Belopp 2025
+Snäckan, hyra  Per tre timmar.         2 600 kr
+kommersiell
+Från timme fyra, per timme. 700 kr
+Från första timme.                       840 kr
+
+Minimum tre timmar.
+Snäckan, hyra ideell Per tre timmar.    950 kr
+
+Från timme fyra, per timme. 250 kr
+Per timme.                               300 kr
+
+Utställningsytor Om arrangemangets tema är 0 kr         0 kr
+ickekommersiellt och faller
+inom ramen för nämndens
+mål upplåts
+utställningsutrymme
+kostnadsfritt.
+
+Tekniker       Per timme, exkl. 25 % moms. 600 kr       750 kr
+Även förberedelse och
+efterarbete räknas.
+För bokning mån-fre efter kl
+17.00, samt lö-sö debiteras
+minimum tre timmar.
+
 5.1. Ideell hyra gäller ideella föreningar, övriga kommunala förvaltningar, skolor, fackföreningar och
 politiska partier, samt privatpersoner när det gäller icke-kommersiell verksamhet.
 5.2. Avancerad teknisk utrustning är endast tillgänglig med behörig personal.
@@ -724,15 +778,6 @@ eller inte, och i förekommande fall räkna upp beloppen i taxan.
 gäller, används den taxa som gäller vid det datum bokningen görs.
 
 Kungsbacka Teater och k onsertlokalen Snäckan Sida 4 av 5
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Avgift | Beräkningssätt | Belopp 2019 | Belopp 2025 |
-| --- | --- | --- | --- |
-| Snäckan, hyra<br>kommersiell | Per tre timmar.<br>Från timme fyra, per timme.<br>Från första timme.<br>Minimum tre timmar. | 2 600 kr<br>700 kr | 840 kr |
-| Snäckan, hyra ideell | Per tre timmar.<br>Från timme fyra, per timme.<br>Per timme. | 950 kr<br>250 kr | 300 kr |
-| Utställningsytor | Om arrangemangets tema är<br>ickekommersiellt och faller<br>inom ramen för nämndens<br>mål upplåts<br>utställningsutrymme<br>kostnadsfritt. | 0 kr | 0 kr |
-| Tekniker | Per timme, exkl. 25 % moms.<br>Även förberedelse och<br>efterarbete räknas.<br>För bokning mån-fre efter kl<br>17.00, samt lö-sö debiteras<br>minimum tre timmar. | 600 kr | 750 kr |
 
 <!-- sida 22 -->
 

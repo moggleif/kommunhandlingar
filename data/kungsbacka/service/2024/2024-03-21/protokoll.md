@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec471dea/17111021842
 sha256: 83dd60243485648cac7812503eef96fe48a3ab4421d314198c39155cd8002016
 bytes: 215982
 sidor: 20
-hamtad: 2026-10-08T01:59:11+00:00
-konverterad: 2026-10-08T01:59:18+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:39:23+00:00
+konverterad: 2026-10-14T09:39:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -556,7 +556,7 @@ till 2024-03-13,
 
 Expedierat/bestyrkt
 
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
+[Tabell 13-15-1](protokoll.tabeller/13-15-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -566,6 +566,22 @@ Expedierat/bestyrkt
 | (Kommunfullmäktige)<br>(Beslut § 8)<br>Antagande av Riktlinjer för<br>personalföreträdares<br>deltagande vid nämnd | 2024-02-16 | SE-2024-00063 | Riktlinjer för<br>personalföreträdares<br>deltagande vid nämnd |
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Riktlinje för<br>personalföreträdares<br>deltagande vid nämnd | 2024-02-16 | SE-2024-00063 | Riktlinjer för<br>personalföreträdares<br>deltagande vid nämnd |
 | Personalföreträdare i nämnder<br>riktlinjer<br>(KF 2024-02-06 § 8) | 2024-02-16 | SE-2024-00063 | Riktlinjer för<br>personalföreträdares<br>deltagande vid nämnd |
+| (Kommunfullmäktige)<br>(Beslut § 10)<br>Strategi för krisberedskap och<br>civilt försvar | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Antagande av strategi för<br>krisberedskap och civilt<br>försvar | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
+| Strategi för krisberedskap och<br>civilt försvar<br>(KF 24-02-06 § 10) | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
+| (Kommunfullmäktige)<br>(Beslut § 11)<br>Reglemente för<br>krisledningsnämnden | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
+| Kommunstyrelsens<br>Tjänsteskrivelse -<br>Antagande av reglemente för<br>krisledningsnämnden | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
+| Reglemente för<br>krisledningsnämnden<br>(KF 24-02-06 § 11) | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
+| (Kommunfullmäktige)<br>(Beslut § 14)<br>Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar<br>i Kungsbacka | 2024-02-16 | SE-2023-00114 | Motion -<br>Laddinfrastruktur i<br>Kungsbacka |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar<br>i Kungsbacka | 2024-02-16 | SE-2023-00114 | Motion -<br>Laddinfrastruktur i<br>Kungsbacka |
+| (Kommunfullmäktige)<br>(Beslut § 33)<br>Antagande av riktlinjer för<br>hantering av personuppgifter | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Riktlinjer för hantering av<br>personuppgifter | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
+| Riktlinjer för hantering av<br>personuppgifter, antagna av<br>KF 2024-03-05, § 33 | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
+| Gemensamt reglemente för<br>kommunstyrelsen och<br>nämnder, antaget av KF<br>2024-03-05, § 33 | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
+| (Kommunfullmäktige)<br>(Beslut § 34)<br>Återrapportering på uppdrag<br>att ta fram styrdokument för<br>innovation och förnyelse | 2024-03-13 | SE-2024-00099 | Återrapportering på<br>uppdrag att ta fram<br>styrdokument för<br>innovation och förnyelse |
+| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Återrapportering på uppdrag<br>att ta fram styrdokument för<br>innovation och förnyelse | 2024-03-13 | SE-2024-00099 | Återrapportering på<br>uppdrag att ta fram<br>styrdokument för<br>innovation och förnyelse |
+| (Kommunfullmäktige)<br>(Beslut § 36)<br>Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2024-03-13 | SE-2024-00100 | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i<br>lokalplan Administrativa<br>lokaler samlokalisering |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2024-03-13 | SE-2024-00100 | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i<br>lokalplan Administrativa<br>lokaler samlokalisering |
 
 <!-- sida 14 -->
 
@@ -576,19 +592,6 @@ Datum
 
 Expedierat/bestyrkt
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| (Kommunfullmäktige)<br>(Beslut § 10)<br>Strategi för krisberedskap och<br>civilt försvar | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
-| --- | --- | --- | --- |
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Antagande av strategi för<br>krisberedskap och civilt<br>försvar | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
-| Strategi för krisberedskap och<br>civilt försvar<br>(KF 24-02-06 § 10) | 2024-02-16 | SE-2024-00064 | Strategi för krisberedskap<br>och civilt försvar |
-| (Kommunfullmäktige)<br>(Beslut § 11)<br>Reglemente för<br>krisledningsnämnden | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
-| Kommunstyrelsens<br>Tjänsteskrivelse -<br>Antagande av reglemente för<br>krisledningsnämnden | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
-| Reglemente för<br>krisledningsnämnden<br>(KF 24-02-06 § 11) | 2024-02-16 | SE-2024-00065 | Reglemente för<br>krisledningsnämnden |
-| (Kommunfullmäktige)<br>(Beslut § 14)<br>Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar<br>i Kungsbacka | 2024-02-16 | SE-2023-00114 | Motion -<br>Laddinfrastruktur i<br>Kungsbacka |
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar<br>i Kungsbacka | 2024-02-16 | SE-2023-00114 | Motion -<br>Laddinfrastruktur i<br>Kungsbacka |
-| (Kommunfullmäktige)<br>(Beslut § 33)<br>Antagande av riktlinjer för<br>hantering av personuppgifter | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
-
 <!-- sida 15 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          15 (20)
@@ -597,17 +600,6 @@ Datum
 2024-03-21
 
 Expedierat/bestyrkt
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Riktlinjer för hantering av<br>personuppgifter | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
-| --- | --- | --- | --- |
-| Riktlinjer för hantering av<br>personuppgifter, antagna av<br>KF 2024-03-05, § 33 | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
-| Gemensamt reglemente för<br>kommunstyrelsen och<br>nämnder, antaget av KF<br>2024-03-05, § 33 | 2024-03-13 | SE-2024-00098 | Riktlinjer för hantering av<br>personuppgifter<br>(2024-03-05 KF § 33) |
-| (Kommunfullmäktige)<br>(Beslut § 34)<br>Återrapportering på uppdrag<br>att ta fram styrdokument för<br>innovation och förnyelse | 2024-03-13 | SE-2024-00099 | Återrapportering på<br>uppdrag att ta fram<br>styrdokument för<br>innovation och förnyelse |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Återrapportering på uppdrag<br>att ta fram styrdokument för<br>innovation och förnyelse | 2024-03-13 | SE-2024-00099 | Återrapportering på<br>uppdrag att ta fram<br>styrdokument för<br>innovation och förnyelse |
-| (Kommunfullmäktige)<br>(Beslut § 36)<br>Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2024-03-13 | SE-2024-00100 | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i<br>lokalplan Administrativa<br>lokaler samlokalisering |
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2024-03-13 | SE-2024-00100 | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i<br>lokalplan Administrativa<br>lokaler samlokalisering |
 
 <!-- sida 16 -->
 
@@ -678,6 +670,15 @@ Nämnden för Service
 Datum
 2024-03-21
 
+2.1.8 Dataskydds- Hantering av Julia Tryggvadottir 2024-03-11 SE-2024-00020
+förordningen  personuppgifts- Tollesson
+GDPR, artikel 33 incident   FC
+och 34
+
+2.1.7 Dataskydds- Fastställa register Julia Tryggvadottir 2024-03-12 SE-2024-00013
+förordningen  över personuppgifts- Tollesson
+GDPR, artikel 30 behandlingar FC
+
 Beslut avseende anställningar under januari 2024 sammanställs i separat bilaga.
 
 Beslutsunderlag
@@ -690,12 +691,6 @@ Ordförande Fredrik Hansson (C) finner att det finns ett förslag till beslut, d
 säga förvaltningen för Service förslag, och att nämnden för Service bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
-
-| 2.1.8 Dataskydds-<br>förordningen<br>GDPR, artikel 33<br>och 34 | Hantering av<br>personuppgifts-<br>incident | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-03-11 | SE-2024-00020 |
-| --- | --- | --- | --- | --- |
-| 2.1.7 Dataskydds-<br>förordningen<br>GDPR, artikel 30 | Fastställa register<br>över personuppgifts-<br>behandlingar | Julia Tryggvadottir<br>Tollesson<br>FC | 2024-03-12 | SE-2024-00013 |
 
 <!-- sida 19 -->
 

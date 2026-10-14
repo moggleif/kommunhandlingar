@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.44f3e70f199373f90eb871cc/1757928581
 sha256: 2e5c39d878c28edb00d3e719d1c0bf71d8b10527dcca486a81c06e018c668ff6
 bytes: 10960651
 sidor: 313
-hamtad: 2026-10-08T02:35:12+00:00
-konverterad: 2026-10-08T02:36:02+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:12:26+00:00
+konverterad: 2026-10-14T10:13:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [234, 245, 246, 253, 254, 255, 256, 257, 259, 260, 261, 262]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -301,60 +301,44 @@ individuell       behovsprövning
 
 Nedan följer en beskrivning av de insatser förvaltningen tillhandahåller utan behovsprövning enligt 11 kap. 5 § SoL.
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
+[Tabell 7-11-1](handlingar.tabeller/7-11-1.csv)
 
 | Insats: | Utförande enhet: | Beskrivning: | Målgrupp: | Undantagen<br>dokumentationsskyldigheten? |
 | --- | --- | --- | --- | --- |
 | Råd och stödsamtal<br>– inriktning riskbruk,<br>skadligt bruk eller<br>beroende | MSB:<br>Förebyggandeenheten<br>Vuxen | Individuellt samtal för råd och<br>stöd gällande riskbruk,<br>skadligt bruk eller beroende<br>upp till sex månader.<br>Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke<br>och till barn under 15 år med<br>vårdnadshavares samtycke. | Personer som är<br>folkbokförda i<br>kommunen som<br>upplever sig ha ett<br>riskbruk, skadligt bruk<br>eller beroende av<br>alkohol, tabletter,<br>narkotika eller spel<br>om pengar. | Nej. |
 | Råd och stödsamtal<br>– inriktning våld i<br>nära relation | MSB:<br>Familjeenheten | Individuellt samtal för råd och<br>stöd gällande våld,<br>våldsutsatthet eller<br>våldsutövande i nära relation<br>upp till sex månader.<br>Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke. | Personer över 15 år<br>som är folkbokförda i<br>kommunen som<br>önskar råd och stöd<br>utifrån våldsutsatthet<br>eller våldsutövande i<br>nära relation. | Nej. |
 | Råd och stödsamtal<br>– inriktning familj | MSB:<br>Förebyggandeenheten<br>Barn och unga | Individuellt samtal för råd och<br>stöd med upp till sex<br>månader. | Förälder, till barn<br>under 21 år som är<br>folkbokförda i | Nej. |
+|  |  | Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke. | kommunen, som<br>önskar stöd i sitt<br>föräldraskap eller<br>utifrån sin<br>familjesituation.<br>Ungdomar från 15 år<br>och unga vuxna 18 –<br>21 år, som är<br>folkbokförda i<br>kommunen, som<br>önskar råd och stöd<br>utifrån sin<br>familjesituation. |  |
+| Stöd av case<br>manager | MSB:<br>Vuxenenheten | Stöd i boendefrågor.<br>Insatsen omfattar upp till fem<br>tillfällen. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>upplever sig behöva<br>stöd i att skaffa<br>boende. | Ja, enl. 14 kap 4 § SoL. |
+| Barn- och<br>tonårsgrupper | MSB:<br>Förebyggandeenheten<br>Barn och unga | Stödgrupper för barn och<br>ungdomar som lever i familjer<br>med våld, missbruk eller<br>psykisk ohälsa samt barn<br>som upplevt separation eller<br>skilsmässa med mycket<br>konflikter i familjen.<br>Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke. | Personer under 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån sin<br>livssituation. | Nej. |
+|  |  |  |  |  |
+| Föräldragrupper | MSB:<br>Förebyggandeenheten<br>Barn och unga | Stödgrupper för föräldrar för<br>att stärka deras förmåga att<br>förstå och möta barns behov.<br>Insatsen riktar sig till föräldrar<br>men kan även ges till<br>bonusföräldrar eller andra<br>viktiga vuxna i barnets liv. | Stödgrupper för<br>föräldrar eller<br>personer med<br>liknande<br>omsorgsansvar för<br>barn som är<br>folkbokförda i<br>kommunen. | Ja, enl. 14 kap 4 § SoL |
+| Individuellt<br>anhörigstöd -<br>inriktning<br>funktionsnedsättning | MSB:<br>Förebyggandeenheten<br>Vuxen | Individuellt samtal till<br>närstående, som ger stöd<br>till/lever nära, en person med<br>psykisk ohälsa,<br>neuropsykiatrisk svårighet<br>eller funktionsnedsättning i<br>syfte att ge stöd, information<br>och vägledning. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
+| Anhörigstöd i<br>grupp/cirkel -<br>inriktning<br>funktionsnedsättning | MSB:<br>Förebyggandeenheten<br>Vuxen | Cirklar eller grupper som<br>anordnas vid intresse till<br>närstående, som ger stöd<br>till/lever nära, en person med<br>psykisk ohälsa,<br>neuropsykiatrisk svårighet<br>eller funktionsnedsättning. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
+| Individuellt<br>anhörigstöd -<br>inriktning riskbruk,<br>skadligt bruk eller<br>beroende | MSB:<br>Förebyggandeenheten<br>Vuxen | Individuellt samtal för råd och<br>stöd till närstående till en<br>person som man upplever<br>har ett riskbruk, skadligt bruk<br>eller beroende av alkohol,<br>tabletter, narkotika eller spel | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
+|  |  | om pengar i syfte att ge stöd,<br>information och vägledning. |  |  |
+| Anhörigstöd i grupp -<br>inriktning riskbruk,<br>skadligt bruk eller<br>beroende | MSB:<br>Förebyggandeenheten<br>Vuxen | Gruppsamtal till närstående<br>till personer som man<br>upplever har ett riskbruk,<br>skadligt bruk eller beroende<br>av alkohol, tabletter,<br>narkotika eller spel om<br>pengar. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
+| Sysselsättning SoL | SHS:<br>Regnbågen | Sysselsättning i aktivitetshus<br>tillsammans med andra<br>deltagare eller en individuell<br>sysselsättningsplats. | Personer som är<br>folkbokförda i<br>kommunen 18 – 67 år<br>som lever med en<br>funktionsnedsättning<br>till följd av en<br>psykiatrisk diagnos. | Nej. |
+| Samarbetssamtal | MSB:<br>Familjeenheten | Strukturerade samtal som<br>erbjuds så länge behov finns.<br>Syftar till att nå samförstånd i<br>vad som är till deras<br>gemensamma barns bästa. | Separerade föräldrar<br>till barn som är<br>folkbokförda i<br>kommunen som är<br>oeniga om hur de ska<br>lösa frågor kring<br>vårdnad, boende eller<br>umgänge och frågor<br>som rör barnets<br>försörjning. | Ja, enl. 14 kap 4 § SoL. |
+| Informationssamtal | MSB:<br>Familjeenheten | Information till föräldrar som<br>har för avsikt att väcka talan i<br>domstol om vårdnad, boende<br>och umgänge. Syftar till att<br>underlätta för föräldrar att | Föräldrar till barn som<br>är folkbokförda i<br>kommunen. | Nej. |
+|  |  | hitta den lösning som är bäst<br>för barnet. |  |  |
+| Familjerådgivning | MSB:<br>Familjeenheten | Stöd och hjälp vid<br>samlevnadsproblem i<br>familjerelationer. Syftar till att<br>stödja vuxnas relationer. | Vuxna över 18 år som<br>är folkbokförda i<br>kommunen. | Ja, enl. 14 kap 4 § SoL. |
 
 <!-- sida 8 -->
 
 Bilaga till Rutin Insatser utan individuell behovsprövning
 
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  |  | Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke. | kommunen, som<br>önskar stöd i sitt<br>föräldraskap eller<br>utifrån sin<br>familjesituation.<br>Ungdomar från 15 år<br>och unga vuxna 18 –<br>21 år, som är<br>folkbokförda i<br>kommunen, som<br>önskar råd och stöd<br>utifrån sin<br>familjesituation. |  |
-| --- | --- | --- | --- | --- |
-| Stöd av case<br>manager | MSB:<br>Vuxenenheten | Stöd i boendefrågor.<br>Insatsen omfattar upp till fem<br>tillfällen. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>upplever sig behöva<br>stöd i att skaffa<br>boende. | Ja, enl. 14 kap 4 § SoL. |
-| Barn- och<br>tonårsgrupper | MSB:<br>Förebyggandeenheten<br>Barn och unga | Stödgrupper för barn och<br>ungdomar som lever i familjer<br>med våld, missbruk eller<br>psykisk ohälsa samt barn<br>som upplevt separation eller<br>skilsmässa med mycket<br>konflikter i familjen.<br>Insatsen kan ges till<br>ungdomar över 15 år utan<br>vårdnadshavares samtycke. | Personer under 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån sin<br>livssituation. | Nej. |
-
 <!-- sida 9 -->
 
 Bilaga till Rutin Insatser utan individuell behovsprövning
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Föräldragrupper | MSB:<br>Förebyggandeenheten<br>Barn och unga | Stödgrupper för föräldrar för<br>att stärka deras förmåga att<br>förstå och möta barns behov.<br>Insatsen riktar sig till föräldrar<br>men kan även ges till<br>bonusföräldrar eller andra<br>viktiga vuxna i barnets liv. | Stödgrupper för<br>föräldrar eller<br>personer med<br>liknande<br>omsorgsansvar för<br>barn som är<br>folkbokförda i<br>kommunen. | Ja, enl. 14 kap 4 § SoL |
-| Individuellt<br>anhörigstöd -<br>inriktning<br>funktionsnedsättning | MSB:<br>Förebyggandeenheten<br>Vuxen | Individuellt samtal till<br>närstående, som ger stöd<br>till/lever nära, en person med<br>psykisk ohälsa,<br>neuropsykiatrisk svårighet<br>eller funktionsnedsättning i<br>syfte att ge stöd, information<br>och vägledning. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
-| Anhörigstöd i<br>grupp/cirkel -<br>inriktning<br>funktionsnedsättning | MSB:<br>Förebyggandeenheten<br>Vuxen | Cirklar eller grupper som<br>anordnas vid intresse till<br>närstående, som ger stöd<br>till/lever nära, en person med<br>psykisk ohälsa,<br>neuropsykiatrisk svårighet<br>eller funktionsnedsättning. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
-| Individuellt<br>anhörigstöd -<br>inriktning riskbruk,<br>skadligt bruk eller<br>beroende | MSB:<br>Förebyggandeenheten<br>Vuxen | Individuellt samtal för råd och<br>stöd till närstående till en<br>person som man upplever<br>har ett riskbruk, skadligt bruk<br>eller beroende av alkohol,<br>tabletter, narkotika eller spel | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
 
 <!-- sida 10 -->
 
 Bilaga till Rutin Insatser utan individuell behovsprövning
 
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-|  |  | om pengar i syfte att ge stöd,<br>information och vägledning. |  |  |
-| --- | --- | --- | --- | --- |
-| Anhörigstöd i grupp -<br>inriktning riskbruk,<br>skadligt bruk eller<br>beroende | MSB:<br>Förebyggandeenheten<br>Vuxen | Gruppsamtal till närstående<br>till personer som man<br>upplever har ett riskbruk,<br>skadligt bruk eller beroende<br>av alkohol, tabletter,<br>narkotika eller spel om<br>pengar. | Personer över 18 år<br>som är folkbokförda i<br>kommunen och som<br>önskar stöd utifrån att<br>vara närstående. | Ja, enl. 14 kap 4 § SoL. |
-| Sysselsättning SoL | SHS:<br>Regnbågen | Sysselsättning i aktivitetshus<br>tillsammans med andra<br>deltagare eller en individuell<br>sysselsättningsplats. | Personer som är<br>folkbokförda i<br>kommunen 18 – 67 år<br>som lever med en<br>funktionsnedsättning<br>till följd av en<br>psykiatrisk diagnos. | Nej. |
-| Samarbetssamtal | MSB:<br>Familjeenheten | Strukturerade samtal som<br>erbjuds så länge behov finns.<br>Syftar till att nå samförstånd i<br>vad som är till deras<br>gemensamma barns bästa. | Separerade föräldrar<br>till barn som är<br>folkbokförda i<br>kommunen som är<br>oeniga om hur de ska<br>lösa frågor kring<br>vårdnad, boende eller<br>umgänge och frågor<br>som rör barnets<br>försörjning. | Ja, enl. 14 kap 4 § SoL. |
-| Informationssamtal | MSB:<br>Familjeenheten | Information till föräldrar som<br>har för avsikt att väcka talan i<br>domstol om vårdnad, boende<br>och umgänge. Syftar till att<br>underlätta för föräldrar att | Föräldrar till barn som<br>är folkbokförda i<br>kommunen. | Nej. |
-
 <!-- sida 11 -->
 
 Bilaga till Rutin Insatser utan individuell behovsprövning
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-|  |  | hitta den lösning som är bäst<br>för barnet. |  |  |
-| --- | --- | --- | --- | --- |
-| Familjerådgivning | MSB:<br>Familjeenheten | Stöd och hjälp vid<br>samlevnadsproblem i<br>familjerelationer. Syftar till att<br>stödja vuxnas relationer. | Vuxna över 18 år som<br>är folkbokförda i<br>kommunen. | Ja, enl. 14 kap 4 § SoL. |
 
 <!-- sida 12 -->
 
@@ -2009,28 +1993,67 @@ Utfall presenteras i årsredovisningen.
 
 4.3 Prestationsmått
 
+Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
+Fördelning
+mellan
+serviceboen
+26 %      26 %      30 %     30 %      30 %
+de och
+gruppboend
+e (%)
+Antal
+personer
+som har
+576       572       592      598
+LSS-insats
+verkställd
+den 1 okt
+
 24
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
 
-|  | Namn Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Kostnad för<br>personlig<br>assistans per<br>timma i 424 420 462 486<br>Kungsbacka<br>kommun i egen<br>regi |  |
-| Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för 50 % 50 % 43 % 39 %<br>personlig<br>assistans för<br>egen regi |  |
-| Kostnad per<br>brukare,<br>personlig<br>320<br>assistans egen<br>regi (LSS och<br>SFB) |  |
-
-[Tabell 46-2](handlingar.tabeller/46-2.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Fördelning<br>mellan<br>serviceboen<br>26 % 26 % 30 % 30 % 30 %<br>de och<br>gruppboend<br>e (%) |  |
-| Antal<br>personer<br>som har<br>576 572 592 598<br>LSS-insats<br>verkställd<br>den 1 okt |  |
+|  | Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad för<br>personlig<br>assistans per<br>timma i<br>Kungsbacka<br>kommun i egen<br>regi | 424 | 420 | 462 | 486 |  |
+|  | Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för<br>personlig<br>assistans för<br>egen regi | 50 % | 50 % | 43 % | 39 % |  |
+|  | Kostnad per<br>brukare,<br>personlig<br>assistans egen<br>regi (LSS och<br>SFB) | 320 |  |  |  |  |
 
 <!-- sida 47 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Delårsrapport augusti 2025
 
+Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
+Andel köpta
+platser av
+totala antalet
+verkställda
+beslut
+bostad med
+särskild
+service (LSS
+och SoL)
+Antal dygn i
+institutionspl
+acering     1 670     2 682    2 660     2 875     2 094
+vuxen, köpta
+platser
+Antal dygn i
+institutionspl
+acering barn          4 220    4 314     5 433     5 052
+och unga,
+köpta platser
+Antal dygn i
+stödboende
+barn och              4 114    3 479     4 125     2 357
+unga, köpta
+platser
+Antal dygn i
+stödboende
+3 917    3 712     2 874     5 102
+missbruk,
+köpta platser
 4.4 Effektmått
 
 Namn                        Utfall Utfall  Utfall  Utfall Utfall
@@ -2048,16 +2071,6 @@ missbruksproblem eller insatser 21 + ett
 andel %
 
 25
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 |
-| --- | --- |
-| Andel köpta<br>platser av<br>totala antalet<br>verkställda<br>beslut<br>bostad med<br>särskild<br>service (LSS<br>och SoL) |  |
-| Antal dygn i<br>institutionspl<br>acering 1 670 2 682 2 660 2 875 2 094<br>vuxen, köpta<br>platser |  |
-| Antal dygn i<br>institutionspl<br>acering barn 4 220 4 314 5 433 5 052<br>och unga,<br>köpta platser |  |
-| Antal dygn i<br>stödboende<br>barn och 4 114 3 479 4 125 2 357<br>unga, köpta<br>platser |  |
-| Antal dygn i<br>stödboende<br>3 917 3 712 2 874 5 102<br>missbruk,<br>köpta platser |  |
 
 <!-- sida 48 -->
 
@@ -2243,10 +2256,35 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2024    2025    2025  avvikelse 2024    2025    delår
+Nämnd           -1,6    -2,1    -2,1     0,0      -1    -1,1    -0,1
+Stödfunktioner
+och central     -51,4  -73,1   -70,6     2,5     -42   -46,9    -4,9
+verksamhet
+Myndighet, stöd
+-268,3  -261,1 -278,1    -17,0  -179,5  -186,9   -7,4
+och behandling
+Bostad med
+särskild service
+-264,7   -323    -323      0     -177   -216,1   -39,1
+och personlig
+assistans
+Stöd i hemmet
+och            -101,4  -111,8 -111,8     0,0    -69,7  -73,7    -4,0
+sysselsättning
+Daglig
+-54,9                           -34,8           34,8
+verksamhet
+Privat assistans -53,9 -54,9   -53,9     1,0    -37,7  -35,3     2,4
+
+Periodens
+-796,2  -826,0 -839,5    -13,5  -541,7  -560,0   -18,3
+resultat
 Vid årsskiftet 2024/2025 gjordes en organisationsförändring där Daglig verksamhet nu ingår i Stöd i hemmet och sysselsättning och
 Personlig assistans flyttades från Stöd i hemmet och sysselsättning till Bostad med särskild service
 Sammanfattning - text till kommunstyrelsen
-
 Individ & Familjeomsorg redovisar ett utfall för perioden januari-augusti på -560 miljoner vilket innebär en
 budgetavvikelse på -12 miljoner. Prognosen för helår är en budgetavvikelse på -13,5 miljoner.
 Det negativa utfallet för perioden januari-augusti kommer från verksamheterna Myndighet, stöd och behandling
@@ -2263,20 +2301,6 @@ mer resurser för att utveckla vårt förebyggande arbete samtidigt som det tar 
 däremot övertygade om att effekten kommer att vara påtaglig när vi har en första linjens socialtjänst som är
 
 29
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Miljoner kronor<br>Nämnd | Bokslut<br>2024<br>-1,6 | Budget<br>2025<br>-2,1 | Prognos<br>2025<br>-2,1 | Budget-<br>avvikelse<br>0,0 | Delår<br>2024<br>-1 | Delår<br>2025<br>-1,1 | Avvikelse<br>delår<br>-0,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Stödfunktioner<br>och central<br>verksamhet | -51,4 | -73,1 | -70,6 | 2,5 | -42 | -46,9 | -4,9 |
-| Myndighet, stöd<br>och behandling | -268,3 | -261,1 | -278,1 | -17,0 | -179,5 | -186,9 | -7,4 |
-| Bostad med<br>särskild service<br>och personlig<br>assistans | -264,7 | -323 | -323 | 0 | -177 | -216,1 | -39,1 |
-| Stöd i hemmet<br>och<br>sysselsättning | -101,4 | -111,8 | -111,8 | 0,0 | -69,7 | -73,7 | -4,0 |
-| Daglig<br>verksamhet | -54,9 |  |  |  | -34,8 |  | 34,8 |
-| Privat assistans | -53,9 | -54,9 | -53,9 | 1,0 | -37,7 | -35,3 | 2,4 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -796,2 | -826,0 | -839,5 | -13,5 | -541,7 | -560,0 | -18,3 |
 
 <!-- sida 52 -->
 
@@ -4883,12 +4907,6 @@ Tabell 3.2 Statistik över antalet anmälningar, åtal och domar i fråga
 om exploatering i arbete respektive tiggeri 2018–2023
 Exploatering i arbete Exploatering i tiggeri
 
-```osaker-tabell
-Anmälningar:       385            42
-Åtal                 7            10
-Dom                  2            7
-```
-
 Källa: Jämställdhetsmyndigheten.
 
 Resultaten kan tolkas som att exploatering i tiggeri har fungerat
@@ -4908,6 +4926,13 @@ tiggeri än formen arbete.
 prövats av domstol. Det fanns ett åtal om exploatering i tiggeri som avgränsades bort i
 granskningen.
 59
+
+[Tabell 118-1](handlingar.tabeller/118-1.csv)
+
+| Anmälningar: | 385 | 42 |
+| --- | --- | --- |
+| Åtal | 7 | 10 |
+| Dom | 2 | 7 |
 
 <!-- sida 119 -->
 
@@ -11661,7 +11686,7 @@ Avgiften avrundas till närmaste enkrona.
 
 Kungsbacka kommun            Taxa för vård och omsorg           3 (5)
 
-[Tabell 284-1](handlingar.tabeller/284-1.csv)
+[Tabell 284-285-1](handlingar.tabeller/284-285-1.csv)
 
 | Avgift | Beräkningssätt | Ingår i<br>maxtaxa | Belopp 2022 |
 | --- | --- | --- | --- |
@@ -11672,6 +11697,13 @@ Kungsbacka kommun            Taxa för vård och omsorg           3 (5)
 | Hygienabonnemang<br>inklusive moms | Självkostnadsprincip<br>plus moms | Nej. | 150 kr/månad |
 | Hyra särskilt boende<br>(utanför hyreslagen) | Samma som maxtaxa<br>enligt 8 kap. 5 § 2 p<br>socialtjänstlagen, det<br>vill säga en tolftedel<br>av 0,5539 gånger<br>prisbasbeloppet | Ja. | 2229 kr/mån |
 | Korttidsplats, omsorg | 1/30 av maxtaxa | Ja. | 72 kr/dygn |
+| Dagomsorg | 1/90 av maxtaxa | Ja. | 24 kr/dag |
+| Patientavgift hälso-<br>och sjukvård i ordinärt<br>boende, 18-84 år | 0,634 % av<br>prisbasbeloppet | Ja. | 306 kr/månad |
+| Bårtransport | Utgår från<br>transportörens avgift | Nej. | - |
+| Nyttigheter |  |  |  |
+| Helabonnemang vård-<br>och omsorgsboende | Självkostnadsprincip | Nej. | 3 928<br>kr/månad |
+| Korttidsplats, mat | Självkostnadsprincip<br>Helabonnemang/30 | Nej. | 131 kr/dygn |
+| Dagomsorg, mat | Självkostnadsprincip<br>40% av totala<br>matkostnaden per<br>dag | Nej. | 68 kr/dag |
 
 <!-- sida 285 -->
 
@@ -11699,17 +11731,6 @@ Avgiften för matabonnemang för individer på vård- och omsorgsboende som äte
 mat men tillgodoser hälften av sitt energi- och näringsbehov med sondnäring ska
 
 Kungsbacka kommun            Taxa för vård och omsorg           4 (5)
-
-[Tabell 285-1](handlingar.tabeller/285-1.csv)
-
-| Dagomsorg | 1/90 av maxtaxa | Ja. | 24 kr/dag |
-| --- | --- | --- | --- |
-| Patientavgift hälso-<br>och sjukvård i ordinärt<br>boende, 18-84 år | 0,634 % av<br>prisbasbeloppet | Ja. | 306 kr/månad |
-| Bårtransport | Utgår från<br>transportörens avgift | Nej. | - |
-| Nyttigheter |  |  |  |
-| Helabonnemang vård-<br>och omsorgsboende | Självkostnadsprincip | Nej. | 3 928<br>kr/månad |
-| Korttidsplats, mat | Självkostnadsprincip<br>Helabonnemang/30 | Nej. | 131 kr/dygn |
-| Dagomsorg, mat | Självkostnadsprincip<br>40% av totala<br>matkostnaden per<br>dag | Nej. | 68 kr/dag |
 
 <!-- sida 286 -->
 
@@ -12049,23 +12070,13 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2025-04-08 | 4 kap 1 § SoL, kontaktperson | Rekryteringsbekymmer |
 | 2025-05-28 | 4 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats |
 
-[Tabell 293-2](handlingar.tabeller/293-2.csv)
+[Tabell 293-297-2](handlingar.tabeller/293-297-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till verkställighet. Det har<br>tagit tid att få in önskemål, förslag på ny kontaktperson<br>2025-06-10. |
 | 2025-01-17 | 4 kap 1 § SoL, bostad | Saknar plats, planering pågår. Tackat nej till<br>erbjudande 2025-05 då det var för långt från centrum. |
 | 2025-04-08 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till verkställighet. Den<br>enskilde avbokar ofta. |
-
-<!-- sida 294 -->
-
-KUNGSBACKA  KOMMUN
-3 (10)
-
-[Tabell 294-1](handlingar.tabeller/294-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-04-08 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 5 av 7<br>insatser är verkställda. Den enskilde tackar nej till<br>erbjudande om sina helginsatser. |
 | 2025-04-23 | 4 kap 1 § SoL,<br>korttidsvistelse | Den enskilde medverkar inte till verkställighet. Vill<br>avvakta med uppstart till hösten. |
 | 2025-04-24 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet. Tackat nej till erbjudanden om<br>nyrekrytering 2025-04-24. Funderar istället på en<br>annan insats. |
@@ -12077,16 +12088,6 @@ KUNGSBACKA  KOMMUN
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till. |
 | 2025-03-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet. Ingen<br>återkoppling om erbjudande om uppstart. Uppstart<br>inplanerad i augusti. |
 | 2025-04-23 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Tackat nej till uppstart innan sommaren, planerad<br>uppstart till hösten. |
-
-<!-- sida 295 -->
-
-KUNGSBACKA  KOMMUN
-4 (10)
-
-[Tabell 295-1](handlingar.tabeller/295-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-04-28 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 | 2025-05-12 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Tackat nej till uppstart innan sommaren, planerad<br>uppstart till hösten. |
 | 2024-12-11 | 9 § 8 LSS, boende för barn<br>och ungdomar | Saknar plats, specifika önskemål. |
@@ -12100,16 +12101,6 @@ KUNGSBACKA  KOMMUN
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Ny planering<br>pågår. |
 | 2025-03-21 | 9 § 9 LSS, bostad för vuxna | Saknar plats, planering pågår. |
 | 2025-04-22 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Fått erbjudande om inflytt på nybyggt<br>boende vid årsskiftet, den enskilde är intresserad och<br>inväntar informationsmöte. |
-
-<!-- sida 296 -->
-
-KUNGSBACKA  KOMMUN
-5 (10)
-
-[Tabell 296-1](handlingar.tabeller/296-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Blivit erbjuden praktikplats,<br>den enskilde vill avvakta uppstart. |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02.<br>Erbjudande om uppstart innan sommaren som<br>överklagats till förvaltningsrätten som har avvisat<br>överklagan.<br>Kontinuerlig kontakt pågår med den enskilde och<br>anhöriga. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat in på BmSS och vill<br>landa innan uppstart av daglig verksamhet. |
@@ -12119,16 +12110,6 @@ KUNGSBACKA  KOMMUN
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-06-24 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Planeringen är att återgå till DV<br>under hösten. |
 | 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Vill pausa/avvakta insatsen pga<br>hälsotillstånd. |
-
-<!-- sida 297 -->
-
-KUNGSBACKA  KOMMUN
-6 (10)
-
-[Tabell 297-1](handlingar.tabeller/297-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-12-06 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2025-01-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Är i behov av annan verkställighet än<br>tidigare. Avbokar inbokade studiebesök |
@@ -12140,6 +12121,26 @@ KUNGSBACKA  KOMMUN
 | 2025-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Varit<br>på studiebesök och blivit erbjuden plats. Den enskilde<br>ska återkomma efter semestern för fortsatt planering. |
 | 2025-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Har haft flertalet möten och blivit<br>erbjuden plats. Den enskilde befinner sig nu utomlands. |
 
+<!-- sida 294 -->
+
+KUNGSBACKA  KOMMUN
+3 (10)
+
+<!-- sida 295 -->
+
+KUNGSBACKA  KOMMUN
+4 (10)
+
+<!-- sida 296 -->
+
+KUNGSBACKA  KOMMUN
+5 (10)
+
+<!-- sida 297 -->
+
+KUNGSBACKA  KOMMUN
+6 (10)
+
 <!-- sida 298 -->
 
 KUNGSBACKA  KOMMUN
@@ -12147,7 +12148,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 298-1](handlingar.tabeller/298-1.csv)
+[Tabell 298-301-1](handlingar.tabeller/298-301-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -12157,16 +12158,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-10-03 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har ringt och sökt familjen<br>kontinuerligt sedan beslutet<br>beviljades, familjen ska<br>återkomma men har inte hört av<br>sig. | Avslutat, 2025-08-01<br>Varit tveksam sen<br>början till insatsen och<br>nu ska den enskilde<br>flytta till internat. |
 | 2024-11-29 | 4 kap 1 § SoL, avlösning i<br>hemmet | Den enskilde har specifika<br>önskemål, tackat nej till<br>erbjudande om uppstart 2025-<br>03-17. | Verkställt, 2025-05-06 |
 | 2025-03-11 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har försökt få kontakt via<br>telefon och brev. | Avslutat, 2025-07-03<br>Den enskilde vill inte<br>längre ha insatsen. |
-
-<!-- sida 299 -->
-
-KUNGSBACKA  KOMMUN
-8 (10)
-
-[Tabell 299-1](handlingar.tabeller/299-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-07-01 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har tackat nej till<br>erbjudande 2024-09-16.<br>Uppstartsmöte 2025-03-03,<br>insatsen kommer snart startas<br>upp under mars. | Verkställt, 2025-04-30 |
 | 2024-11-09 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet,<br>hälsotillstånd hos den enskilde.<br>Verksamheten har varit i<br>kontakt med familjen, ny plan är<br>på gång. | Verkställt, 2025-06-28 |
 | 2024-11-25 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet,<br>hälsotillstånd hos den enskilde. | Verkställt, 2025-05-24 |
@@ -12174,16 +12165,6 @@ KUNGSBACKA  KOMMUN
 | 2025-01-19 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Avslutat, 2025-05-27<br>Den enskilde har blivit<br>erbjudan annan insats<br>och är inte längre<br>intresserad av läger. |
 | 2025-02-12 | 9 § 6 LSS, korttidsvistelse<br>i form av stödfamilj | Personalrelaterade skäl. Har<br>blivit erbjudan kompenserande<br>insats i form av sommarläger<br>men tackat nej. | Verkställt, 2025-07-24 |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Tackat nej till<br>uppstart. | Avslutat, 2025-05-31<br>Beslutet löpte ut och<br>den enskilde ville inte<br>ansöka om insatsen på<br>nytt. |
-
-<!-- sida 300 -->
-
-KUNGSBACKA  KOMMUN
-9 (10)
-
-[Tabell 300-1](handlingar.tabeller/300-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-10-01 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. | Verkställt, 2025-05-01 |
 | 2024-11-05 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt, 2025-08-11 |
 | 2023-06-22 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Svårigheter att få<br>kontakt med den enskilde. Den<br>enskilde avbokar möte för<br>uppstart. | Avslutat, 2025-07-09.<br>Avslutat på begäran av<br>den enskilde. |
@@ -12192,6 +12173,17 @@ KUNGSBACKA  KOMMUN
 | 2024-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. Möte för<br>studiebesök inplanerat | Verkställt, 2025-06-23 |
 | 2024-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har specifika önskemål,<br>tackat nej till erbjudande. | Verkställt, 2025-05-19 |
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde vill inte ha insatsen. | Avslutat, 2025-05-14<br>Avslutat på begäran av<br>den enskilde. |
+| 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har sökt kontakt flertalet gånger<br>och skickat brev utan att få<br>kontakt. | Verkställt, 2025-05-28 |
+
+<!-- sida 299 -->
+
+KUNGSBACKA  KOMMUN
+8 (10)
+
+<!-- sida 300 -->
+
+KUNGSBACKA  KOMMUN
+9 (10)
 
 <!-- sida 301 -->
 
@@ -12202,12 +12194,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har sökt kontakt flertalet gånger<br>och skickat brev utan att få<br>kontakt. | Verkställt, 2025-05-28 |
 
 <!-- sida 302 -->
 

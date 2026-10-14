@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.37d6657d19d0493bcf1865f2/1774280348
 sha256: 9f034f109930e3ccd97eb81f83a03596866a40d41ab52a4e67a72a6bbaa1058d
 bytes: 6769280
 sidor: 113
-hamtad: 2026-10-08T07:48:50+00:00
-konverterad: 2026-10-08T07:49:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:45:01+00:00
+konverterad: 2026-10-14T10:45:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [77, 86, 87]
-figurer: null
-tolkade: null
+tal_obekraftade: [77, 86, 87, 92]
+figurer: [27, 102, 103, 104, 105, 106, 107, 108, 109]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-6-1](handlingar.tabeller/2-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Starttid |
 | --- | --- | --- | --- | --- |
@@ -62,6 +62,19 @@ KUNGSBACKA  KOMMUN
 | 5. | Samråd detaljplan för bostäder<br>inom MÅ 3:15 i Kungsbacka<br>kommun<br>Föredragande: Harald Tjelle,<br>utvecklingsledare<br>samhällsbyggnad<br>6 st dokument<br>5 min | KFT-2026-<br>00075 | Nämnden för Kultur &<br>Fritid ser positivt<br>på planförslaget men<br>rekommenderar att den äldre<br>mangårdsbyggnaden förses<br>med rivningsförbud. | 18:50 |
 | 6. | Initiativ från Alliansen -<br>Mötesplats/Fritidsgård för unga<br>öppen varje dag i veckan<br>Föredragande: Karl Persson,<br>förvaltningschef<br>4 st dokument<br>10 min | KFT-2026-<br>00046 | Nämnden för Kultur & Fritid<br>ger förvaltningen i uppdrag<br>att skapa en centralt belägen<br>mötesplats för unga som hålls<br>öppen varje kväll i veckan,<br>inklusive helger och lov. | 19:10 |
 | 7. | Donation av fioler till<br>Kulturskolan<br>Föredragande: Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>1 st dokument<br>5 min | KFT-2026-<br>00065 | Nämnden beslutar att<br>tacksamt ta emot donationen<br>från violinbyggaren Carl-Erik<br>Lundstedt. | 19:20 |
+| 8. | Uppdatering av<br>delegeringsförteckning<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>5 min | KFT-2026-<br>00063 | Nämnden godkänner<br>uppdatering av<br>delegeringsförteckning. | 19:25 |
+| 9. | Kungsbackas mästare 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00055 | Nämnden för Kultur & Fritid<br>beslutar att tilldela priset<br>Kungsbackas mästare för en<br>lysande prestation till: |  |
+| 10. | Årets förnyare 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00058 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>förnyare 2025.<br>- offentliggöra XXX, XXX<br>och XXX som finalister. |  |
+| 11. | Årets förening 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00057 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>förening 2025.<br>- offentliggöra pristagare vid<br>prisceremonin.<br>- nominera XXX, XXX och<br>XXX till finalister. |  |
+| 12. | Årets eldsjäl 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00056 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX<br>- offentliggöra pristagaren vid<br>prisceremonin.<br>Nominera XXX som<br>finalister. |  |
+| 13. | Årets volontär 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00090 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>volontär 2025.<br>- offentliggöra XXX, XXX<br>och XXX som finalister. |  |
+| 14. | Kulturpriset 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00059 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- utse XXX som 2025 års<br>kulturpristagare.<br>- offentliggöra pristagaren vid<br>prisceremonin.<br>- nominera XXX, XXX och<br>XXX till finalister. |  |
+| 15. | Ledarstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00060 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- XXX tilldelas 2026 års<br>ledarstipendium.<br>- ledarstipendiaten<br>offentliggörs vid<br>prisceremonin. |  |
+| 16. | Idrottsstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00061 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- 2026 års idrottsstipendium<br>tilldelas XXX och XXX<br>- offentliggöra stipendiaterna<br>vid prisceremonin. |  |
+| 17. | Kulturstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00062 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- tilldela XXX och XXX<br>2026 års kulturstipendium.<br>- offentliggöra stipendiaterna<br>vid prisceremonin. |  |
+| 18. | Anmälan av delegeringsbeslut<br>mars 2026<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>5 st dokument | KFT-2026-<br>00066 | Redovisning av<br>delegeringsbeslut förtecknade<br>i protokoll 2026-03-25<br>godkänns.<br>Sammanfattning av ärendet<br>Nämnden för Kultur & Fritid<br>har överlåtit sin<br>beslutanderätt till ordförande<br>och tjänstemän i enlighet med<br>nämnden för Kultur & Fritids<br>delegeringsordning. Dessa<br>beslut ska redovisas till<br>nämnden för Kultur & Fritid.<br>Redovisningen innebär inte<br>att nämnden för Kultur &<br>Fritid omprövar eller<br>fastställer<br>delegeringsbesluten. Däremot<br>får nämnden för Kultur &<br>Fritid återta lämnad<br>delegering eller föregripa ett<br>beslut i ett enskilt ärende av<br>den som fått beslutanderätten<br>genom att själv ta över<br>ärendet och fatta beslut. | 19:30 |
+| 19. | Redovisning av inkomna<br>skrivelser mars 2026<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument | KFT-2026-<br>00067 | Nämnden noterar<br>redovisningen till protokollet. |  |
+| 20. | Förvaltningschefen informerar<br>mars 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument | KFT-2026-<br>00069 | Nämnden noterar<br>informationen till protokollet. | 19:40 |
 
 <!-- sida 3 -->
 
@@ -69,44 +82,17 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Starttid |
-| --- | --- | --- | --- | --- |
-| 8. | Uppdatering av<br>delegeringsförteckning<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>5 min | KFT-2026-<br>00063 | Nämnden godkänner<br>uppdatering av<br>delegeringsförteckning. | 19:25 |
-| 9. | Kungsbackas mästare 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00055 | Nämnden för Kultur & Fritid<br>beslutar att tilldela priset<br>Kungsbackas mästare för en<br>lysande prestation till: |  |
-| 10. | Årets förnyare 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00058 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>förnyare 2025.<br>- offentliggöra XXX, XXX<br>och XXX som finalister. |  |
-| 11. | Årets förening 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00057 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>förening 2025.<br>- offentliggöra pristagare vid<br>prisceremonin.<br>- nominera XXX, XXX och<br>XXX till finalister. |  |
-| 12. | Årets eldsjäl 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00056 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX<br>- offentliggöra pristagaren vid<br>prisceremonin.<br>Nominera XXX som<br>finalister. |  |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Starttid |
-| --- | --- | --- | --- | --- |
-| 13. | Årets volontär 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00090 | Nämnden för Kultur & Fritid<br>beslutar att<br>- utse XXX som Årets<br>volontär 2025.<br>- offentliggöra XXX, XXX<br>och XXX som finalister. |  |
-| 14. | Kulturpriset 2025<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00059 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- utse XXX som 2025 års<br>kulturpristagare.<br>- offentliggöra pristagaren vid<br>prisceremonin.<br>- nominera XXX, XXX och<br>XXX till finalister. |  |
-| 15. | Ledarstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00060 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- XXX tilldelas 2026 års<br>ledarstipendium.<br>- ledarstipendiaten<br>offentliggörs vid<br>prisceremonin. |  |
-| 16. | Idrottsstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00061 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- 2026 års idrottsstipendium<br>tilldelas XXX och XXX<br>- offentliggöra stipendiaterna<br>vid prisceremonin. |  |
-| 17. | Kulturstipendium 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument | KFT-2026-<br>00062 | Nämnden för Kultur & Fritid<br>beslutar att:<br>- tilldela XXX och XXX<br>2026 års kulturstipendium.<br>- offentliggöra stipendiaterna<br>vid prisceremonin. |  |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Starttid |
-| --- | --- | --- | --- | --- |
-| 18. | Anmälan av delegeringsbeslut<br>mars 2026<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>5 st dokument | KFT-2026-<br>00066 | Redovisning av<br>delegeringsbeslut förtecknade<br>i protokoll 2026-03-25<br>godkänns.<br>Sammanfattning av ärendet<br>Nämnden för Kultur & Fritid<br>har överlåtit sin<br>beslutanderätt till ordförande<br>och tjänstemän i enlighet med<br>nämnden för Kultur & Fritids<br>delegeringsordning. Dessa<br>beslut ska redovisas till<br>nämnden för Kultur & Fritid.<br>Redovisningen innebär inte<br>att nämnden för Kultur &<br>Fritid omprövar eller<br>fastställer<br>delegeringsbesluten. Däremot<br>får nämnden för Kultur &<br>Fritid återta lämnad<br>delegering eller föregripa ett<br>beslut i ett enskilt ärende av<br>den som fått beslutanderätten<br>genom att själv ta över<br>ärendet och fatta beslut. | 19:30 |
-| 19. | Redovisning av inkomna<br>skrivelser mars 2026<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument | KFT-2026-<br>00067 | Nämnden noterar<br>redovisningen till protokollet. |  |
 
 <!-- sida 6 -->
 
@@ -116,12 +102,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Starttid |
-| --- | --- | --- | --- | --- |
-| 20. | Förvaltningschefen informerar<br>mars 2026<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument | KFT-2026-<br>00069 | Nämnden noterar<br>informationen till protokollet. | 19:40 |
 
 <!-- sida 7 -->
 
@@ -1048,7 +1028,7 @@ verksamhetsområdet.
 
 3
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
+[Tabell 29-31-1](handlingar.tabeller/29-31-1.csv)
 
 | Högexploaterad kust - miljöbalkens 4 kap. 4 § |  |  |  |
 | --- | --- | --- | --- |
@@ -1062,15 +1042,7 @@ verksamhetsområdet.
 | I kommunens översiktsplan, antagen av<br>kommunfullmäktige 2021 anges att<br>planområdett ligger inom centrumnära<br>område i Fjärås som är en<br>utvecklingsort, dock ingen prioriterad<br>utvecklingsort. Planområdet är inte<br>angett som jordbruksmark i gällande<br>översiktsplan och omfattar inte<br>jordbruksmark enligt avstämning med<br>länsstyrelsen. Äppelodlingen på<br>fastighet Må 3:15 är sedan många år<br>inte i drift och marken är idag mestadels<br>beväxt med gräs- och sly. Fastigheten<br>används nu enbart för bostadsändamål. | Ingen påverkan | Planområdet omfattar inte jordbruksmark enligt<br>avstämning med länsstyrelsen. | Nej |
 | Skogsbruk |  |  |  |
 | Planområdet omfattar inte skogsmark. | Ingen påverkan | Ingen bedömning. | Nej |
-
-<!-- sida 30 -->
-
-4
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 | Oexploaterade områden |  |  |  |
-| --- | --- | --- | --- |
 | opåverkade eller oexploaterade<br>områden. | Ingen påverkan | Ingen bedömning. | Nej |
 | Ekologiskt känsliga områden – ex. biotopskydd, artskydd |  |  |  |
 | Längs den södra och östra gränsen finns<br>en stengärdsgård som av länsstyrelsen<br>bedömts inte omfattas av biotopskydd. I<br>enlighet med avstämning med<br>länsstyrelsen är planområdet inte heller<br>jordbruksmark. Planområdet berör inte<br>ekologiskt känsliga områden enligt<br>Miljöbalken 7 kap. | Ingen påverkan | Ingen bedömning. | Nej |
@@ -1081,23 +1053,23 @@ verksamhetsområdet.
 | Kungsbacka kommun är medlemmar i<br>Göteborgsregionens luftvårdsförbund<br>och utför kontinuerliga mätningar och<br>beräkningar i Kungsbacka stad.<br>Miljökvalitetsnormerna för luftkvalitet<br>överskrids främst i anslutning till<br>betydligt mer trafikerade vägar än vad<br>som finns inom planområdet. | Ingen påverkan. | Bedömningen kan erfarenhetsmässigt göras att<br>MKN för luftkvalitet inte äventyras till följd utav<br>detaljplanens genomförande utan underskrids med<br>marginal. | Nej |
 | Vatten |  |  |  |
 | Planområdets dagvatten går via<br>Hovmanneån och når slutligen<br>Kungsbackafjorden.<br>Statusklassning av Hovmanneån idag är<br>enligt VISS:<br>- Ekologisk status: Otillfredsställande<br>- Kemisk status: Uppnår ej god.<br>Kungsbacka kommun har bedömt att<br>Hovmanneån ska ses som mycket | De åtgärder som är föreslagna i Dag- och<br>skyfallsutredning Kungsbacka Må 3:15 (Vajpro 25-<br>11-25) innebär att MKN-kraven på rening av<br>dagvatten och skyfallsvatten klaras. | Kommunen gör bedömningen att planerad<br>exploatering med tillhörande föreslagen<br>dagvattenhantering inte påverkar Hovmanneån<br>negativt. Enligt MKN för Hovemannaån är det<br>primära problemet närsalter, dvs<br>övergödningsproblematik.<br>Dessa förhållande förbättras efter genomförd plan.<br>Även kommunens riktvärde för fosfor nås. | Nej |
+| känslig recipient. Det finns således krav<br>på rening av dagvatten inom<br>planområdet. |  |  |  |
+| Buller |  |  |  |
+| Planområdet ligger i närheten av<br>Gåsevadholmsvägen. | Genomförande av föreslagen bebyggelse i<br>detaljplanen innebär att bullernivåer inom och<br>från planområdet inte befaras överskrida<br>miljökvalitetsnormen. | Omgivningsbuller från befintliga vägar bedöms inte<br>medföra skadliga effekter på människors hälsa<br>enligt resultat från genomförd bullerutredning,<br>Trafikbullerutredning Må 3:15 Fjärås, Cedås akustik<br>25-10-25) för planområdet. | Nej |
+
+<!-- sida 30 -->
+
+4
 
 <!-- sida 31 -->
 
 5
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| känslig recipient. Det finns således krav<br>på rening av dagvatten inom<br>planområdet. |  |  |  |
-| --- | --- | --- | --- |
-| Buller |  |  |  |
-| Planområdet ligger i närheten av<br>Gåsevadholmsvägen. | Genomförande av föreslagen bebyggelse i<br>detaljplanen innebär att bullernivåer inom och<br>från planområdet inte befaras överskrida<br>miljökvalitetsnormen. | Omgivningsbuller från befintliga vägar bedöms inte<br>medföra skadliga effekter på människors hälsa<br>enligt resultat från genomförd bullerutredning,<br>Trafikbullerutredning Må 3:15 Fjärås, Cedås akustik<br>25-10-25) för planområdet. | Nej |
-
 <!-- sida 32 -->
 
 6
 
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
+[Tabell 32-35-1](handlingar.tabeller/32-35-1.csv)
 
 | Mark och natur |  |  |  |
 | --- | --- | --- | --- |
@@ -1109,30 +1081,14 @@ verksamhetsområdet.
 | Ytavrinningen inom området sker<br>generellt söderut och mynnar ut i<br>Hovmanneån. Mätningar utförda i april<br>och maj 2025 visar en grundvattennivå<br>på mellan ca +17,8 och +17,5. | Detaljplanen säkerställer att vatten som idag<br>rinner över området även fortsättningsvis kan<br>göra det via ett huvudstråk längs den nya<br>lokalgatan och vidare söderut mot Hovmanneån. | Ett genomförande av detaljplanen befaras inte<br>påverka vattnets kretslopp. | Nej |
 | Landskap och rekreation |  |  |  |
 | Inom planområdet finns inget öppet<br>landskap eller plats för rekreation<br>utöver tomtmarken, friytan, för<br>befintligt en- och tvåbostadshus. Det | Den sly- och gräsbeväxta markytan tas i anspråk<br>till tomtmark i form av trädgårdar för<br>småhusbebyggelsen. | Kommunen bedömer att detaljplanens<br>genomförande inte kommer att få en negativ<br>inverkan på landskap och rekreation. | Nej |
-
-<!-- sida 33 -->
-
-7
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
 | finns även sly- och gräsbeväxta markyta<br>på Må 3:15. |  |  |  |
-| --- | --- | --- | --- |
 | Ekosystemtjänster |  |  |  |
 | Situationen inom planområdet för<br>ekosystemtjänster:<br>Idag är marken inom planområdet<br>mestadels gräsbevuxen med endast<br>några gamla äppleträd kvar från den<br>tidigare äppelodlingen. Inom<br>planområdet finns även några befintliga<br>större träd samt en stengärdesgård<br>längs Måvägen och<br>Gåsevadholmsvägen. Främst reglerande<br>och kulturella ekosystemtjänster berörs<br>genom omhändertagande av dagvatten<br>samt stengärdsgård och befintliga träd. | Stengärdsgården kan finnas kvar förutom vid två<br>nya infarter från Måvägen. Några lövträd i den<br>västra delen av planområdet kan finnas kvar intill<br>det befintliga bostadshuset.<br>I samband med detaljplanen har en<br>dagvattenutredning tagits fram (Dagvatten- och<br>skyfallsutredning, Må 3:15, Vajpro AB, 2025-11-<br>25.<br>Utredningen föreslår att nytt tillkommande<br>dagvatten renas och utjämnas i ett utökat<br>dagvattenmagasin på fastighet Må 3:15 och en<br>mindre del på Må 2:1 i planområdets södra spets.<br>Även befintlig funktion för dagvattenstråk genom<br>planområdet säkerställs i genomförande av<br>detaljplanen. | Funktionen för omhändertagande av dagvatten<br>inom planområdet klaras genom föreslagna<br>åtgärder för dagvatten. De åtgärder som är<br>föreslagna i Dag- och skyfallsutredning Kungsbacka<br>Må 3:15 (Vajpro 25-11-25) innebär att MKN-kraven<br>på rening av dagvatten och skyfallsvatten klaras.<br>De kulturhistoriska värdena kommer att påverkas<br>något genom föreslagna åtgärder. Den<br>kulturhistoriska strukturen i bebyggelse kan<br>fortsatt avläsas i kommande ny bebyggelse. | Nej |
 | Dagvatten |  |  |  |
 | Dagvatten leds genom planområdet via<br>dagvattenledningar vidare till<br>Hovmanneån. Kungsbacka kommun har<br>bedömt att Hovmanneån ska ses som<br>mycket känslig recipient. | En ny dagvattenanläggning placeras inom<br>detaljplanens södra yta med markanvändning<br>allmän plats NATUR1. Dagvattenanläggningen tar<br>emot och renar allt dagvatten från planområdet.<br>Hovmanneån får sin start efter<br>dagvattenanläggningens breddutlopp. Läget på<br>Hovamanneån påverkas därmed inte av<br>genomförande av detaljplanen. Inte heller<br>vattenkvaliteten i Hovmanneån påverkas negativt<br>av dagvatten från planområdet, enligt utförd<br>dagvattenutredning. Även befintliga<br>dagvattenledningar genom planområdet<br>säkerställs vid genomförandet av detaljplanen. | Kommunen gör bedömningen att dagvatten från<br>planområdet kan tas om hand, renas och fördröjas<br>på ett sådant sätt att det inte innebär någon<br>negativ påverkan på områden uppströms eller<br>nedströms. | Nej |
 | Strandskydd |  |  |  |
 | Hovmanneån bedöms inte vara<br>strandskyddat med nuvarande regler<br>om strandskydd. | Inget strandskydd berörs av detaljplanen. | Ingen bedömning. | Nej |
-
-<!-- sida 34 -->
-
-8
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
 | Hälsa och säkerhet |  |  |  |
-| --- | --- | --- | --- |
 | Planeringsförutsättningar | Konsekvenser |  | Betydande<br>miljöpåverkan |
 | Platsen<br>Beskriv platsens känslighet utifrån<br>respektive parameter. Känslighet bedöms<br>utifrån värden och brister på platsen | Påverkan<br>Hur påverkas respektive parameter av att planen<br>genomförs | Bedömning<br>Här antyds om planens konsekvens på<br>parametern bedöms vara positiv, negativ eller ingen<br>påverkan | Ja/Nej |
 | Buller |  |  |  |
@@ -1144,19 +1100,23 @@ verksamhetsområdet.
 | Risk för erosion |  |  |  |
 | En geoteknisk utredning för<br>planområdet har genomförts<br>(Markteknisk undersökningsrapport,<br>Geoteknik (MUR/GEO) och PM<br>Geoteknik, Må 3:15 dat. 25-05-23) och<br>där framgår att: ”Enligt beräknade<br>sektioner uppfyller aktuellt<br>detaljplanområde tillfredställande<br>stabilitet..” | Ingen påverkan. Ingen tung bebyggelse planeras. | Bedömningen är att planområdet inte får någon<br>negativ påverkan från risken för erosion. | Nej |
 | Risk för skred |  |  |  |
-
-<!-- sida 35 -->
-
-9
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
 | Området ligger inte inom ett riskområde<br>för ras, skred eller erosion. | Ingen påverkan. | Ingen bedömning | Nej |
-| --- | --- | --- | --- |
 | Radon |  |  |  |
 | Enligt den geotekniska utredningen<br>(Markteknisk undersökningsrapport,<br>Geoteknik (MUR/GEO) och PM<br>Geoteknik, Må 3:15 dat. 25-05-23)<br>bedöms jorden ha låga radonvärden. | Ingen påverkan | Ingen bedömning | Nej |
 | Förorenad mark |  |  |  |
 | I samband med detaljplanen har en<br>miljöteknisk utredning tagits fram;<br>Översiktlig miljöteknisk<br>markundersökning fastigheten Må 3:15<br>(Kodeda konsulter 2025-08-12).<br>Utifrån erhållna analysresultat görs<br>följande bedömning av<br>föroreningssituationen inom det<br>aktuella undersökningsområdet:<br>• Pesticider i form av DDT och<br>dess nedbrytningsprodukter<br>har påträffats i ytlig jord i alla<br>tre undersökta delområden:<br>Uppmätta halter (0,21–0,64<br>mg/kg TS) underskrider KM-<br>värdet för risk för människors<br>hälsa (3,4 mg/kg TS) med god<br>marginal. För syftet med<br>undersökningen är det relevant<br>att riktvärdet för skydd av hälsa<br>beaktas. Det bedöms alltså inte<br>föreligga några hälsorisker med<br>avseende på analyserade<br>halter av DDT, DDD och DDE på<br>undersökningsområdet.<br>Enligt Naturvårdsverkets<br>beräkningar av det generella | Ur föroreningssynpunkt är marken inom<br>planområdet lämplig för den användning som<br>detaljplanen föreslår, det vill säga bostäder.<br>Bly, kadmium och koppar överskrider värdet för<br>MRR i flertalet provpunkter och på varierande<br>markdjup. Dessa halter måste beaktas och vid<br>återanvändning av jorden på annan plats ska detta<br>anmälas till tillsynsmyndigheten. Det bedöms inte<br>av utredaren av markmiljö, föreligga några<br>hälsorisker med avseende på analyserade halter<br>av DDT, DDD och DDE på undersökningsområdet<br>eller utgöra risk som motiverar en sanering på<br>undersökningsområdet. | Kommunen bedömer risken för att föroreningar i<br>marken påverkar boendemiljön negativt som liten<br>under förutsättning att återanvändning av jorden<br>på annan plats anmäls till tillsynsmyndigheten<br>samt att erforderlig DDT-sanering ska göras på ytor<br>för bostadsändamål. | Nej |
+
+<!-- sida 33 -->
+
+7
+
+<!-- sida 34 -->
+
+8
+
+<!-- sida 35 -->
+
+9
 
 <!-- sida 36 -->
 
@@ -1203,7 +1163,7 @@ halter måste beaktas och vid
 
 11
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | plats ska detta anmälas till<br>tillsynsmyndigheten. |  |  |  |
 | --- | --- | --- | --- |
@@ -1216,21 +1176,17 @@ halter måste beaktas och vid
 | Jordlagerföljden utgörs generellt av<br>mulljord, ovan torrskorpelera som<br>underlagras av siltig lera vilandes på ett<br>lager friktionsjord. | Detaljplanens genomförande kommer inte att<br>påverka markens förmåga till infiltration på något<br>avgörande sätt. Viss begränsad andel hårdgjord<br>yta kommer genomförandet av planen att<br>medföra. | Kommunen gör bedömningen att detaljplanens<br>genomförande inte kommer att påverka områdets<br>förmåga till infiltration. | Nej |
 | Grundvatten |  |  |  |
 | Mätningar utförda i april och maj 2025<br>visar en grundvattennivå på mellan ca<br>+17,8 och +17,5. Grundvattennivån<br>varierar med årstid och nederbörd och<br>bedöms generellt ligga i underkant<br>torrskorpeleran och verka med<br>hydrostatiskt porvattentryck. | Detaljplanens genomförande kommer inte att<br>påverka områdets grundvattennivå. | Kommunen gör bedömningen att detaljplanens<br>genomförande inte kommer att medföra<br>betydande miljöpåverkan. | Nej |
-
-<!-- sida 38 -->
-
-12
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
 | Kulturmiljö |  |  |  |
-| --- | --- | --- | --- |
 | Planeringsförutsättningar | Konsekvenser |  | Betydande<br>miljöpåverkan |
 | Platsen<br>Beskriv platsens känslighet utifrån<br>respektive parameter. Känslighet bedöms<br>utifrån värden och brister på platsen | Påverkan<br>Hur påverkas respektive parameter av att planen<br>genomförs | Bedömning<br>Här antyds om planens konsekvens på<br>parametern bedöms vara positiv, negativ eller ingen<br>påverkan | Ja/Nej |
 | Fornlämningar |  |  |  |
 | Inga kända fornlämningar finns<br>registrerade inom fastigheten Må 3:15<br>eller del av Må 2:1. | Ingen påverkan | Ingen bedömning | Nej |
 | Kulturhistoria |  |  |  |
 | Aktuell fastighet Må 3:15, även kalla Må<br>gård, är uppförd under det senare delen<br>av 1800-talet. Anläggningen har<br>fungerat som fruktodling i ca. 120 år<br>men verksamheten har avslutats in på<br>2010-talet.<br>Fastigheten, med den äldre<br>mangårdsbyggnaden och tillhörande<br>ekonomibyggnader, ligger inbäddad i<br>växtlighet invid ett höjdparti i nordväst.<br>Växtligheten runt byggnaderna är<br>vildvuxen och delvis tät och består<br>bland annat av fruktträd, lindar, al och<br>syrenhäckar. Delar av marken är idag<br>endast beväxt med oklippt gräs.<br>Som en av områdets äldre<br>gårdsanläggningar har byggnaderna på<br>Må gård ett visst kulturhistoriskt värde.<br>Förutom gårdens karaktäristiska<br>struktur utgör den äldre<br>stengärdesgården, längs fastighetens<br>södra gräns, ett karaktärsskapande<br>värde. | Genomförandet av planen innebär möjliggörandet<br>av att ha kvar det befintliga gamla bostadshuset<br>och renovera det samt bevara strukturen av<br>byggnader på gården med två nya byggnader som<br>ersätter de gamla nedgångna ladorna på samma<br>plats. Även stengärdsgården kan finnas kvar<br>förutom vid två lägen för nya infarter från<br>Måvägen. | Kommunen gör bedömningen att detaljplanens<br>genomförande påverkar det kulturhistoriska och<br>autentiska värdet negativt men genom att bevara<br>gårdens struktur och att gestalta bebyggelsen med<br>inspiration från den ursprungliga bebyggelsen så<br>bidrar det till att skapa en identitet och historisk<br>kontext till platsen, vilket är positivt. | Nej |
+
+<!-- sida 38 -->
+
+12
 
 <!-- sida 39 -->
 
@@ -1795,22 +1751,14 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 7 (13)
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-55-1](handlingar.tabeller/53-55-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Inköp<br>Avser avtal (kontrakt) som inte är kommunövergripande.<br>Avtal som avser två eller flera nämnder tecknas enligt<br>överenskommelse mellan berörda nämnder. |  | Inköpsprocessen enligt Riktlinjer för inköp.<br>Fc, Vc och Ec har rätt att hantera inköp inom sitt<br>budgetansvar.<br>Fc och Vc har delegering på köpnivå 5 (avser köp där<br>relationen till leverantören genom avtalsvillkor utöver<br>köplagen behövs regleras. Exempel på detta kan vara<br>ansvar, garantier, viten och avhjälpande vid fel och<br>köpnivå 6 (upphandling).<br>Ec har delegering upp till och med köpnivå 4.<br>Köpnivå 1: vara/tjänst finns för beställning i e-handeln,<br>avtal finns<br>Köpnivå 2: avtal finns i e-handeln<br>Köpnivå 3: direktupphandling utan krav på dokumentation,<br>understigande 100 000 kr, avtalsvillkor behövs inte<br>Köpnivå 4: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs inte<br>Köpnivå 5: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs<br>Köpnivå 6: Upphandling, 700 000 kr - , avtalsvillkor<br>behövs |
 | 2.2.1 a) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Upphandlingsdokument (UD) som följer planeringen<br>enligt inköpsprocessen. | Fc<br>Vc<br>Ec | Ec har delegering efter avstämning med Vc eller Fc |
 | 2.2.1 b) | LOU, Policy för<br>inköp | Tilldelning efter genomförd upphandling | Fc |  |
-
-<!-- sida 54 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 8 (13)
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 |  | Riktlinjer för<br>inköp |  | Vc |  |
-| --- | --- | --- | --- | --- |
 | 2.2.1 c) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Avbryta upphandling. | Fc<br>Vc |  |
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Ändring och tillägg av kontrakt. | Fc<br>Vc |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Uppsägning eller hävning av avtal | Fc<br>Vc |  |
@@ -1818,6 +1766,14 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.2.2 | Nämndens<br>beslut om<br>nämndbudget<br>och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
 | 2.2.3 | Attestreglement<br>et | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter. | Fc | Anmäls till nämnden en gång per år. |
 | 2.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontant-<br>hantering | Beslut om att avskriva utestående fordringar upp till ett<br>basbelopp | Fc | I samråd med ansvarig chef. |
+| 2.2.5 |  | Försäljning av inventarier och utrustning | Fc | Delegering att avyttra egendom, överstigande ett värde<br>om 250 000 kr per tillfälle. |
+| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 250 000 kr per tillfälle. |
+| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Fc<br>Vc |  |
+| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
+
+<!-- sida 54 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 8 (13)
 
 <!-- sida 55 -->
 
@@ -1825,15 +1781,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 9 (13)
 
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| 2.2.5 |  | Försäljning av inventarier och utrustning | Fc | Delegering att avyttra egendom, överstigande ett värde<br>om 250 000 kr per tillfälle. |
-| --- | --- | --- | --- | --- |
-| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 250 000 kr per tillfälle. |
-| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Fc<br>Vc |  |
-| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
-
-[Tabell 55-2](handlingar.tabeller/55-2.csv)
+[Tabell 55-56-1](handlingar.tabeller/55-56-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -1841,15 +1789,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Chefer direkt underställda förvaltningschefen<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader. | Fc | Samråd med presidiet under<br>rekryteringsprocessen och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
 | 2.3.2 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Verksamhetschefer, enhetschefer, direkt<br>underställd personal<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader | Fc | Tidsbegränsad anställning upp till och med 6<br>månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
 | 2.3.3 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader. | Fc | Tidsbegränsad anställning upp till och med 6<br>månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
-
-<!-- sida 56 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (13)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
 |  |  |  |  | Delegeringen gäller för anställning av personal<br>inom respektive chefs ansvarsområde. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.4 | LAS § 7 | Uppsägning av personliga skäl. | Fc<br>Vc Kultur &<br>Demokrati<br>Vc Fritid &<br>Mötesplatser | I samråd med HR på förvaltningen och förhandlings-<br>chef |
 | 2.3.5 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR på förvaltningen |
@@ -1859,6 +1799,10 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.8 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Vc | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 | 2.3.9 | AB § 10<br>mom 1-3 | Avstängning | Vc | I samråd med HR på förvaltningen |
 | 2.3.10 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Vc | I samråd med HR på förvaltningen |
+
+<!-- sida 56 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (13)
 
 <!-- sida 57 -->
 
@@ -1884,7 +1828,7 @@ Namnlista      över    delegater
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 12 (13)
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
+[Tabell 58-59-1](handlingar.tabeller/58-59-1.csv)
 
 | Nämndens ordförande (N ordf) | Annika Hedman |
 | --- | --- |
@@ -1901,15 +1845,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | Enhetschef (EC) Kultur & Besöksmål | Peter Rudvall |
 | Enhetschef (EC) Kulturskolan | Malin Lönegren Mikulic |
 | Enhetschef (EC) Kulturskolan | Malin Svarfvar |
-
-<!-- sida 59 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (13)
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
 | Enhetschef (EC) Förening & Hållbar hälsa | Andreas Høgfeldt |
-| --- | --- |
 | Enhetschef (EC) Senior i Kungsbacka | Elisabeth Lindberg |
 | Enhetschef (EC) Ung i Kungsbacka | Anna Hjelm-Woll |
 | Enhetschef (EC) Ung i Kungsbacka | Filip Plan |
@@ -1919,6 +1855,10 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | Registrator | Kerstin Ohlsson |
 | Registrator | Lena Ottosson |
 | Registrator | Marika Ånhed |
+
+<!-- sida 59 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (13)
 
 <!-- sida 60 -->
 
@@ -3008,7 +2948,7 @@ www.kungsbacka.se
 
 Diarienr. Förening         Bidragstyp            Utbet.dat Belopp
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 | 16131 | Badmintonklubben Kungs | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-03-12 | 14 895,00 |
 | --- | --- | --- | --- | --- |
@@ -3035,13 +2975,7 @@ Diarienr. Förening         Bidragstyp            Utbet.dat Belopp
 | 16211 | IFK Fjärås | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-03-05 | 102 135,00 |
 | 16212 | IFK Fjärås | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsstöd | 2026-03-05 | 84 800,00 |
 | 16204 | Kullaviks Kanot o Kappseglings | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-03-03 | 2 730,00 |
-
-<!-- sida 91 -->
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
 | 16205 | Kullaviks Kanot o Kappseglings | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsstöd | 2026-03-03 | 7 400,00 |
-| --- | --- | --- | --- | --- |
 | 16167 | Kullaviks Sjöscoutkår | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-02-24 | 5 408,00 |
 | 16181 | Kullaviks Sjöscoutkår | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsstöd | 2026-02-24 | 11 000,00 |
 | 16207 | Kungsbacka Basketklubb | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-03-05 | 46 372,00 |
@@ -3065,6 +2999,8 @@ Diarienr. Förening         Bidragstyp            Utbet.dat Belopp
 | 16170 | Kungsbacka MMA klubb | Barn och ungdomsföreningar/<br>Lokalt aktivitetsstöd 2 | 2026-02-24 | 32 340,00 |
 | 16184 | Kungsbacka MMA klubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsstöd | 2026-02-24 | 27 200,00 |
 | 16145 | Kungsbacka Schackklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsstöd | 2026-02-24 | 6 000,00 |
+
+<!-- sida 91 -->
 
 <!-- sida 92 -->
 
@@ -3133,7 +3069,7 @@ Ersättare för beslut Ersätter beslutattestant/huvudattestant
 Inkomstattest Attest för alla intäkter. Den här attesten används av praktiska skäl för att kunna köra internfakturafiler
 Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan förvaltningar
 
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
+[Tabell 94-101-1](handlingar.tabeller/94-101-1.csv)
 
 | Ansvar | Konto | Verks | Akt | Projekt | Objekt | Fri del | Kommentar | Användarid | Attesttyp | Fr o m Datum | T o m Datum |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3216,13 +3152,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3046 Föreningsservice | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
-
-<!-- sida 95 -->
-
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
-
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3047 Föreningslokaler | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | malin.fjellstrom | Omföring | 2026-01-01 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
@@ -3310,13 +3240,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2021-02-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
-
-<!-- sida 96 -->
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2021-02-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2024-01-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2024-01-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2024-01-01 |  |
@@ -3404,13 +3328,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | filip.plan | Ersättare för beslut | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-
-<!-- sida 97 -->
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
 | 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
@@ -3498,13 +3416,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2023-10-01 |  |
-
-<!-- sida 98 -->
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | malin.mikulic | Ersättare för beslut | 2022-01-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | peter.rudvall | Ersättare för beslut | 2024-01-15 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2023-10-01 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2023-10-01 |  |
@@ -3592,13 +3504,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2019-03-18 |  |
-
-<!-- sida 99 -->
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
 | 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
@@ -3686,13 +3592,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
-
-<!-- sida 100 -->
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
 | 3835 Barn & ungdomskultur | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
@@ -3780,13 +3680,7 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3842 Äskhult |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | (e-post borttagen) | Ersättare för beslut | 2023-10-01 |  |
-
-<!-- sida 101 -->
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | 3842 Äskhult |  |  |  |  |  |  |  | malin.svarfvar | Ersättare för beslut | 2023-10-01 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3842 Äskhult |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
@@ -3807,6 +3701,20 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
 | 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-11 |  |
+
+<!-- sida 95 -->
+
+<!-- sida 96 -->
+
+<!-- sida 97 -->
+
+<!-- sida 98 -->
+
+<!-- sida 99 -->
+
+<!-- sida 100 -->
+
+<!-- sida 101 -->
 
 <!-- sida 102 -->
 
@@ -4142,7 +4050,7 @@ www.kungsbacka.se
 
 <!-- sida 111 -->
 
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
+[Tabell 111-112-1](handlingar.tabeller/111-112-1.csv)
 
 | Nummer | Ankom | Namn | Beskrivning |
 | --- | --- | --- | --- |
@@ -4163,13 +4071,7 @@ www.kungsbacka.se
 | KFT-2026-00049 | 2026-02-24 | Samhällsbyggnads-<br>kontoret | GRANSKNING av detaljplan för<br>seniorbostäder inom Skörvalla 1:116 med<br>flera |
 | KFT-2026-00048 | 2026-02-20 | Kommunstyrelsen | Protokollsutdrag 2026-02-17 KS § 29<br>Begäran om medel för trygg uppväxt -<br>Stärka barn och ungas välmående och<br>minska utanförskapet (Kultur & Fritid) |
 | KFT-2026-00047 | 2026-02-20 | Kommunstyrelsen | Protokollsutdrag 2026-02-17 KS § 28<br>Lönekartläggning 2025 och handlingsplan<br>2026 |
-
-<!-- sida 112 -->
-
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
 | KFT-2026-00046 | 2026-02-18 |  | Initiativ från Alliansen -<br>Mötesplats/Fritidsgård för unga öppen<br>varje dag i veckan |
-| --- | --- | --- | --- |
 | KFT-2026-00045 | 2026-02-18 |  | Bilder från Aranäs kring caféet |
 | KFT-2026-00044 | 2026-02-17 | Privatperson | KFT träffpunkt Kyvikshus nedläggning |
 | KFT-2026-00043 | 2026-02-17 | Tjörns kommun | Fråga kring skötselavtal samt<br>beräkningsgrunder för ersättningar till<br>föreningar som sköter badplatser |
@@ -4180,6 +4082,8 @@ www.kungsbacka.se
 | KFT-2026-00038 | 2026-02-13 | Privatperson | Intresseanmälan för ateljé eller arbetslokal<br>för konstnär |
 | KFT-2026-00037 | 2026-02-12 | Kommunstyrelsen | Taxa för Kungsbacka Teater och<br>Konsertsalen Snäckan 2026 KF § 12 |
 | KFT-2026-00036 | 2026-02-12 | Kommunstyrelsen | Priser och utmärkelser i Kungsbacka<br>kommun KF § 10 |
+
+<!-- sida 112 -->
 
 <!-- sida 113 -->
 

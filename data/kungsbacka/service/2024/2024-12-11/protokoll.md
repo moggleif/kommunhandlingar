@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2805de6b/1733988676
 sha256: a49054b1d50880e323bdb18e4965bf368467917ea360bb75314beed5bc67fc22
 bytes: 252278
 sidor: 21
-hamtad: 2026-10-08T02:00:04+00:00
-konverterad: 2026-10-08T02:00:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:40:12+00:00
+konverterad: 2026-10-14T09:40:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -564,7 +564,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
+[Tabell 15-16-1](protokoll.tabeller/15-16-1.csv)
 
 | (Kommunfullmäktige)<br>(Beslut § 144) - Svar på<br>motion från Stefan Jägnert<br>(SD) om införande av<br>tolkavgift | 2024-11-14 | SE-2024-00397 | Svar på motion från<br>Stefan Jägnert (SD) om<br>införande av tolkavgift |
 | --- | --- | --- | --- |
@@ -574,6 +574,12 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Förvaltningen för Teknik -<br>Tjänsteskrivelse - Beslut<br>om klassificering av<br>skötselområden (TE-<br>2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
 | (Nämnden för Teknik)<br>(Beslut § 84) -<br>Initiativärende angående –<br>Prioritering av skötselytor<br>(TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
 | Initiativärende angående -<br>Prioritering av skötselytor | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
+| Initiativärende angående –<br>Prioritering av skötselytor<br>Bilaga 1, Karta<br>Kungsbacka stad (TE-<br>2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
+| Initiativärende angående –<br>Prioritering av skötselytor<br>Bilaga 2, Karta<br>Kungsbacka kommun<br>(TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
+| (Kommunstyrelsen)<br>(Beslut § 245) -<br>Kungsbacka Arena<br>genomförandefrågor:<br>förstudie, lokalprogram,<br>uthyrning och<br>driftentreprenad,<br>arenanamn (KS-2020-<br>00547) | 2024-12-02 | SE-2021-00149 | Kungsbacka Arena -<br>Genomförande och<br>inriktningsbeslut för<br>uppförande och drift |
+| (Kommunstyrelse)<br>(Beslut § 251)<br>Förnyelse av styrmodell<br>(Dnr KS-2023-00672) | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
+| Kommunledningskontoret<br>Tjänsteskrivelse -<br>Förnyelse av styrmodell | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
+| (Kommunstyrelsen)<br>(Beslut § 254) -<br>Remittering av förslag om<br>översyn av interna och<br>externa priser och<br>utmärkelser i Kungsbacka<br>kommun<br>(KS-2024-00605) | 2024-12-02 | SE-2024-00438 | Remittering av förslag<br>om översyn av interna<br>och externa priser och<br>utmärkelser i<br>Kungsbacka kommun |
 
 <!-- sida 16 -->
 
@@ -586,16 +592,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| Initiativärende angående –<br>Prioritering av skötselytor<br>Bilaga 1, Karta<br>Kungsbacka stad (TE-<br>2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
-| --- | --- | --- | --- |
-| Initiativärende angående –<br>Prioritering av skötselytor<br>Bilaga 2, Karta<br>Kungsbacka kommun<br>(TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende<br>angående –<br>Prioritering av<br>skötselytor<br>(TE-2024-00633) |
-| (Kommunstyrelsen)<br>(Beslut § 245) -<br>Kungsbacka Arena<br>genomförandefrågor:<br>förstudie, lokalprogram,<br>uthyrning och<br>driftentreprenad,<br>arenanamn (KS-2020-<br>00547) | 2024-12-02 | SE-2021-00149 | Kungsbacka Arena -<br>Genomförande och<br>inriktningsbeslut för<br>uppförande och drift |
-| (Kommunstyrelse)<br>(Beslut § 251)<br>Förnyelse av styrmodell<br>(Dnr KS-2023-00672) | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
-| Kommunledningskontoret<br>Tjänsteskrivelse -<br>Förnyelse av styrmodell | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
-| (Kommunstyrelsen)<br>(Beslut § 254) -<br>Remittering av förslag om<br>översyn av interna och<br>externa priser och<br>utmärkelser i Kungsbacka<br>kommun<br>(KS-2024-00605) | 2024-12-02 | SE-2024-00438 | Remittering av förslag<br>om översyn av interna<br>och externa priser och<br>utmärkelser i<br>Kungsbacka kommun |
-
 <!-- sida 17 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          17 (21)
@@ -603,19 +599,51 @@ Nämnden för Service
 Datum
 2024-12-11
 
+Kommunstyrelsens   2024-12-02 SE-2024-00438 Remittering av förslag
+Förvaltning                              om översyn av interna
+Tjänsteskrivelse -                       och externa priser och
+Remittering av förslag om                utmärkelser i
+
+översyn av interna och                   Kungsbacka kommun
+externa priser och
+utmärkelser i Kungsbacka
+kommun
+
+Kungsbackas priser - 2024-12-02 SE-2024-00438 Remittering av förslag
+Kartläggning av priser                   om översyn av interna
+
+20241018                                 och externa priser och
+utmärkelser i
+Kungsbacka kommun
+
+(Kommunstyrelsen)  2024-12-02 SE-2024-00439 Uppstart av projekt i
+(Beslut § 256) Uppstart av               lokalplan Signeshus
+projekt i lokalplan                      löpnr 816
+Signeshus löpnr 816
+
+(KS-2024-00700)
+Kommunledningskontoret 2024-12-02 SE-2024-00439 Uppstart av projekt i
+
+Tjänsteskrivelse -                       lokalplan Signeshus
+Uppstart av projekt i                    löpnr 816
+lokalplan Signeshus löpnr
+816
+
+Kommunbudget 2025 och 2024-12-02 SE-2024-00439 Uppstart av projekt i
+plan 2026-2027, lokalplan                lokalplan Signeshus
+sidor 47-53                              löpnr 816
+
+(Kommunstyrelsen)  2024-12-02 SE-2024-00440 Uppstart av projekt i
+(Beslut § 257)                           lokalplan Åsaberg
+
+Uppstart av projekt i                    Bostäder med särskild
+lokalplan Åsaberg                        service löpnr 515
+Bostäder med särskild
+service löpnr 515
+
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| Kommunstyrelsens<br>Förvaltning<br>Tjänsteskrivelse -<br>Remittering av förslag om<br>översyn av interna och<br>externa priser och<br>utmärkelser i Kungsbacka<br>kommun | 2024-12-02 | SE-2024-00438 | Remittering av förslag<br>om översyn av interna<br>och externa priser och<br>utmärkelser i<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Kungsbackas priser -<br>Kartläggning av priser<br>20241018 | 2024-12-02 | SE-2024-00438 | Remittering av förslag<br>om översyn av interna<br>och externa priser och<br>utmärkelser i<br>Kungsbacka kommun |
-| (Kommunstyrelsen)<br>(Beslut § 256) Uppstart av<br>projekt i lokalplan<br>Signeshus löpnr 816<br>(KS-2024-00700) | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i<br>lokalplan Signeshus<br>löpnr 816 |
-| Kommunledningskontoret<br>Tjänsteskrivelse -<br>Uppstart av projekt i<br>lokalplan Signeshus löpnr<br>816 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i<br>lokalplan Signeshus<br>löpnr 816 |
-| Kommunbudget 2025 och<br>plan 2026-2027, lokalplan<br>sidor 47-53 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i<br>lokalplan Signeshus<br>löpnr 816 |
-| (Kommunstyrelsen)<br>(Beslut § 257)<br>Uppstart av projekt i<br>lokalplan Åsaberg<br>Bostäder med särskild<br>service löpnr 515 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i<br>lokalplan Åsaberg<br>Bostäder med särskild<br>service löpnr 515 |
 
 <!-- sida 18 -->
 

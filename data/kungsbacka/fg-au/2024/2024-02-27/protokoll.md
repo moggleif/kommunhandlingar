@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.140067f618df28c756fa5e9/17095471955
 sha256: e03ed0c7c780df11cc9a95f09c499ff410a8be713d00dbd5d0c84739e9a5d0bc
 bytes: 624280
 sidor: 14
-hamtad: 2026-10-07T23:11:07+00:00
-konverterad: 2026-10-07T23:11:13+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:17:30+00:00
+konverterad: 2026-10-14T07:17:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [14]
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -49,7 +49,7 @@ Stigert Pettersson,fö rvaltningschef
 Lars Sundborn, utvecklare
 Personalföreträdare         Övriga
 
-Plats och tid för justering Digital justering,2 024-03-01
+Plats och tid för justering Digital justering,2024-03-01
 
 Sekreterare   Lars Sundborn               Paragrafer §§ 21-2 8
 

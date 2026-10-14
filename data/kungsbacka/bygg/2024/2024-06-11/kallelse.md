@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5f97773918fa403c6cd19be8/1717572115
 sha256: 72343485c2c218001be21c02305f126e02aaabed1cd1a50ba5faad71ac5eb3ed
 bytes: 218880
 sidor: 5
-hamtad: 2026-10-07T23:45:09+00:00
-konverterad: 2026-10-07T23:45:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:46:53+00:00
+konverterad: 2026-10-14T07:47:00+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -66,32 +66,10 @@ KUNGSBACKA  KOMMUN
 | 8. | Information om finalister till<br>arkitekturpriset 2024<br>Föredragande: Hanna<br>Vilhelmsson,<br>bygglovshandläggare och<br>Maria Brink, planarkitekt | 2024-00219 |  | 10<br>min |
 | 9. | Tillförordnad dataskyddsombud<br>sommar 2024 | 2024-00181 | Förslag till beslut<br>Byggnadsnämnden utser Eva Holmberg<br>som dataskyddsombud för<br>byggnadsnämnden 18 juli till 4 augusti<br>2024.<br>Byggnadsnämnden utser Sofia Jonsson<br>som dataskyddsombud för<br>byggnadsnämnden 12 augusti till 14<br>augusti 2024. | 2 min |
 | 10. | Svar på motion från Stefan<br>Jägnert (SD) gällande införande<br>av tolkavgift i Kungsbacka<br>kommun<br>Föredragande: Kasra Hassirian,<br>förvaltningsjurist | 2024-00122 | Förslag till beslut<br>Byggnadsnämnden föreslår<br>kommunfullmäktige att avslå motionen<br>med hänvisning till att det saknas lagstöd<br>för att ta ut avgifter för tolktjänster när det<br>bedöms föreligga ett behov av tolk. | 5 min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 11. | Svar på initiativ från Marianne<br>Wallengren (M) m.fl. om<br>förenkling och förbättring<br>Föredragande: Hanna Ståhl,<br>verksamhetschef | 2023-00249 | Förslag till beslut<br>Byggnadsnämnden bifaller initiativet<br>gällande punkt 1 och ger planavdelningen i<br>uppdrag att testa minskad lovplikt gällande<br>"att sätta upp, flytta eller väsentligt ändra<br>skyltar och ljusanordningar" i en<br>kommande detaljplan.<br>Byggnadsnämnden anser att initiativet<br>gällande punkt 2 och 3 är besvarat med<br>hänvisning till att de genomförda och<br>planerade insatserna, samt den nyligen<br>antagna strategin, svarar på innebörden i<br>initiativet och att det därför inte behövs<br>några ytterligare punktinsatser. | 5 min |
 | 12. | Återkallande av överklagande<br>av Länsstyrelsens i Hallands<br>läns beslut den 18 april 2024<br>över detaljplan för<br>verksamheter inom del av Varla<br>2:198 samt Varla 2:230<br>Föredragande: Björn Vikström,<br>planarkitekt | BN-2018-<br>00026 | Förslag till beslut<br>Byggnadsnämnden återkallar<br>överklagandet av Länsstyrelsen i Hallands<br>läns beslut den 18 april 2024 med<br>diarienummer 1179-2022, över antagande<br>av detaljplan för verksamheter inom del av<br>Varla 2:198 samt Varla 2:230 i<br>Kungsbacka kommun.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att återuppta<br>planarbetet för detaljplan för verksamheter<br>inom del av Varla 2:198 samt Varla 2:230. | 5 min |
 | 13. | CENTRALEN 3 - Beslut om att<br>vägra slutbesked | BN-2020-<br>000992 | Förslag till beslut<br>Byggnadsnämnden beslutar att vägra<br>slutbesked för ändrad användning av<br>byggnad, samt utvändig ändring på<br>fastighet Centralen 3 (Storgatan 4A).<br>De delar av byggnaden som bygglovet<br>avser får inte tas i bruk. | 5 min |
 | 14. | KOLLA 5:6 - Bygglov för<br>nybyggnad av mast och<br>teknikbod | BN-2024-<br>000763 | Förslag till beslut | 5 min |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 15. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2022-<br>003964 | Förslag till beslut | 5 min |
 | 16. | Rättelseföreläggs med vite att<br>avröja stängsel | BN-2023-<br>001564 | Förslag till beslut | 5 min |
 | 17. | Rättelseföreläggs med vite att<br>avröja del av staket | BN-2024-<br>000899 | Förslag till beslut | 5 min |
@@ -100,6 +78,18 @@ KUNGSBACKA  KOMMUN
 | 20. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>Hallands län i ärende med dnr<br>3923-2024, angående tillstånd<br>enligt 47 § väglagen | BN-2024-<br>001054 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2 min |
 | 21. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-05-08–2024-06-04. | 2 min |
 | 22. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen<br>av inkomna skrivelser till protokollet. | 2 min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.509c9c0c195db4d5a5196a4/17431671411
 sha256: 704fbacea52133dfbd6ebd5209b1cbd92ac64c25edc3b51c4c7ba070377d1bab
 bytes: 359385
 sidor: 32
-hamtad: 2026-10-08T08:13:57+00:00
-konverterad: 2026-10-08T08:14:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:07:30+00:00
+konverterad: 2026-10-14T11:07:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -399,7 +399,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 267497D065AC4DB21F24DE73D946D6AE576D5FC62C
 Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
 
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
+[Tabell 10-11-1](protokoll.tabeller/10-11-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -412,6 +412,8 @@ Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
 | Per Hoel (SD) | X |  |  |
 | Göran Ottosson (SD) | X |  |  |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 11 -->
 
@@ -432,12 +434,6 @@ Förvaltningen för Service
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 267497D065AC4DB21F24DE73D946D6AE576D5FC62C
 Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 12 -->
 
@@ -538,7 +534,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 267497D065AC4DB21F24DE73D946D6AE576D5FC62C
 Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
 
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
+[Tabell 13-14-1](protokoll.tabeller/13-14-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -551,6 +547,8 @@ Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
 | Per Hoel (SD) | X |  |  |
 | Göran Ottosson (SD) | X |  |  |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 14 -->
 
@@ -572,12 +570,6 @@ Förvaltningen för Service
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 267497D065AC4DB21F24DE73D946D6AE576D5FC62C
 Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 15 -->
 
@@ -627,7 +619,8 @@ Transaktionsidentitet: 7EB6382DD3C905CE3ABE4CFD3F79C061C2C199FA5F
 
 | 2024 | 2025 |
 | --- | --- |
-| Omsorg per timme 496<br>Service per timme 453 | 521<br>476 |
+| Omsorg per timme 496 | 521 |
+| Service per timme 453 | 476 |
 | OPI 4,6% | 5,0% |
 
 <!-- sida 16 -->

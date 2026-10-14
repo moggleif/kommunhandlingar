@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac2304c/1708347117
 sha256: bde6c625a5a27440c4a4ca7004f14eccffccb2bd87930e3492677b7e64fc07e7
 bytes: 108558
 sidor: 4
-hamtad: 2026-10-08T08:16:59+00:00
-konverterad: 2026-10-08T08:17:13+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:10:08+00:00
+konverterad: 2026-10-14T11:10:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,17 +68,6 @@ KUNGSBACKA  KOMMUN
 | 10. | Information om föreläggande<br>från Arbetsmiljöverket | VO-2023-<br>00302 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
 | 11. | Komplettering till Inspektionen<br>för vård och omsorg, IVO, av<br>åtgärder och uppföljning<br>avseende tillsyn av medicinsk<br>vård och behandling till äldre på<br>särskilt boende (SÄBO) | VO-2021-<br>00242 | Nämnden för Vård & Omsorg godkänner<br>komplettering av åtgärder och uppföljning, daterad<br>2024-01-20. |
 | 12. | Patientsäkerhetsberättelse 2023<br>- Nämnden för Vård & Omsorg | VO-2023-<br>00164 | Nämnden för Vård & Omsorg godkänner<br>Patientsäkerhetsberättelse 2023. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 13. | Kvalitetsberättelse 2023 -<br>Nämnden för Vård & Omsorg | VO-2023-<br>00165 | Nämnden för Vård & Omsorg godkänner<br>Kvalitetsberättelsen 2023 |
 | 14. | God och nära vård 2023 -<br>Nämnden för Vård & Omsorg | VO-2024-<br>00024 | Nämnden för Vård & Omsorg godkänner God och<br>Nära vård 2023. |
 | 15. | Information om<br>Falkenbergsmodellen | VO-2023-<br>00243 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
@@ -88,6 +77,20 @@ KUNGSBACKA  KOMMUN
 | 19. | Redovisning av Qvalify ABs<br>rapport 2023 | VO-2021-<br>00337 | Nämnden för Vård & Omsorg godkänner<br>årsredovisning 2023. |
 | 20. | Initiativärende från Hravn<br>Forsne (M) med flera -<br>Inrättande av en avdelning för<br>unga med kognitiv svikt på<br>Signeshus | VO-2023-<br>00288 |  |
 | 21. | Initiativärende från Per Hoel<br>(SD) med flera om upphävande<br>av besparingsbeslut hemtjänsten | VO-2024-<br>00074 |  |
+| 22. | Initiativärende från Ermin<br>Škorić (S) med flera - Beslut<br>angående<br>organisationsförändringar | VO-2024-<br>00078 |  |
+| 23. | Rapportering av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen 2023 | VO-2023-<br>00136 | Nämnden för Vård & Omsorg noterar rapport om ej<br>verkställda gynnande beslut enligt socialtjänstlagen<br>kvartal 4 2023. |
+| 24. | Tidplan 2024 - Ändring av<br>datum för sammanträdesdagar<br>för maj och juni 2024 | VO-2022-<br>00245 | Nämnden för Vård & Omsorg flyttar nämndens<br>sammanträdesdag den 16 maj till den 14 maj 2024.<br>Nämnden för Vård & Omsorg flyttar nämndens<br>sammanträdesdag den 19 juni till den 12 juni 2024. |
+| 25. | Anmälan av ordförandebeslut,<br>februari 2024 | VO-2023-<br>00258 | Nämnden för Vård & Omsorg godkänner<br>redovisning av ordförandebeslut. |
+| 26. | Anmälan av delegeringsbeslut,<br>februari 2024 | VO-2024-<br>00004 | Nämnden för Vård & Omsorg noterar anmälda<br>delegeringsbeslut till protokollet. |
+| 27. | Redovisning av inkomna<br>skrivelser, februari 2024 | VO-2024-<br>00005 | Nämnden för Vård & Omsorg noterar redovisningen<br>av inkomna skrivelser till protokollet. |
+| 28. | Information från<br>förvaltningschef, februari 2024 | VO-2024-<br>00006 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
+| 29. | Information från ledamöter,<br>februari 2024 | VO-2024-<br>00007 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -97,16 +100,3 @@ KUNGSBACKA  KOMMUN
 
 Hravn Forsne (M)                  Vera Lagerström
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 22. | Initiativärende från Ermin<br>Škorić (S) med flera - Beslut<br>angående<br>organisationsförändringar | VO-2024-<br>00078 |  |
-| 23. | Rapportering av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen 2023 | VO-2023-<br>00136 | Nämnden för Vård & Omsorg noterar rapport om ej<br>verkställda gynnande beslut enligt socialtjänstlagen<br>kvartal 4 2023. |
-| 24. | Tidplan 2024 - Ändring av<br>datum för sammanträdesdagar<br>för maj och juni 2024 | VO-2022-<br>00245 | Nämnden för Vård & Omsorg flyttar nämndens<br>sammanträdesdag den 16 maj till den 14 maj 2024.<br>Nämnden för Vård & Omsorg flyttar nämndens<br>sammanträdesdag den 19 juni till den 12 juni 2024. |
-| 25. | Anmälan av ordförandebeslut,<br>februari 2024 | VO-2023-<br>00258 | Nämnden för Vård & Omsorg godkänner<br>redovisning av ordförandebeslut. |
-| 26. | Anmälan av delegeringsbeslut,<br>februari 2024 | VO-2024-<br>00004 | Nämnden för Vård & Omsorg noterar anmälda<br>delegeringsbeslut till protokollet. |
-| 27. | Redovisning av inkomna<br>skrivelser, februari 2024 | VO-2024-<br>00005 | Nämnden för Vård & Omsorg noterar redovisningen<br>av inkomna skrivelser till protokollet. |
-| 28. | Information från<br>förvaltningschef, februari 2024 | VO-2024-<br>00006 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
-| 29. | Information från ledamöter,<br>februari 2024 | VO-2024-<br>00007 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |

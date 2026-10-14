@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f255c0d1/17685665935
 sha256: b33308882f189a7ee325523ceba61dce8f9ab124713e489116e0c42d8cf72dfd
 bytes: 13919443
 sidor: 193
-hamtad: 2026-10-08T00:00:58+00:00
-konverterad: 2026-10-08T00:02:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:59:18+00:00
+konverterad: 2026-10-14T08:00:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [97]
-figurer: null
-tolkade: null
+figurer: [8, 10, 13, 16, 19, 32, 33, 35, 38, 42, 43, 45, 46, 47, 48, 49, 50, 61, 65, 71, 76, 82, 91, 92, 96, 97, 112, 135, 149, 150, 151, 152, 155, 158, 173, 175, 177, 179, 192]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -387,7 +387,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 9
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-12-1](handlingar.tabeller/11-12-1.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -398,18 +398,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | B |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | B |  |  |
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | A |  | Väl etablerad indikator som<br>fångar omställning mot<br>fossilfrihet. Relevant för både<br>klimatmål och kommunens<br>attraktivitet samt möjlig att<br>följa över tid. |
-
-<!-- sida 12 -->
-
-Byggnadsnämnden                                  Kungsbacka kommun
-Underlag till Kommunbudget 2027
-
-10
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | A |  | Väl etablerad indikator som<br>fångar omställning mot<br>fossilfrihet. Relevant för både<br>klimatmål och kommunens<br>attraktivitet samt möjlig att<br>följa över tid. |
-| --- | --- | --- | --- |
 | Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | A |  | Tydlig, konkret och direkt<br>kopplad till klimatmål och<br>kommunens egen rådighet.<br>Bra indikator för att följa både<br>styrning och effekt av<br>politiska beslut inom offentlig<br>konsumtion. Lämplig även för<br>långsiktig budgetuppföljning. |
 | Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | A |  | Relevant indikator för<br>kemikaliestrategiskt arbete,<br>giftfri miljö och arbetsmiljö.<br>Tydlig koppling till miljö- och<br>hälsoskydd samt möjlig att<br>påverka genom upphandling<br>och interna rutiner. |
 | Ekologisk status i Kungsbackafjorden (VISS) | B |  | Mycket viktig indikator ur<br>miljö- och<br>ekosystemperspektiv, men<br>påverkas av många externa<br>aktörer och långsamma<br>processer. Lämplig som<br>långsiktig trendindikator<br>snarare än kortsiktig<br>styrindikator i budget. |
@@ -417,6 +406,13 @@ Underlag till Kommunbudget 2027
 | Andelen återbrukade möbler | A |  |  |
 | Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | B |  | Relevant ur resurs- och<br>klimathänseende, men<br>påverkas av<br>befolkningsstruktur,<br>verksamhetsmix och väder.<br>Användbar som<br>övergripande trendindikator,<br>men svår att styra direkt<br>genom enskilda<br>budgetbeslut. |
 | Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A |  |  |
+
+<!-- sida 12 -->
+
+Byggnadsnämnden                                  Kungsbacka kommun
+Underlag till Kommunbudget 2027
+
+10
 
 <!-- sida 13 -->
 
@@ -2606,23 +2602,13 @@ som exploatören utför och bekostar inom den egna kvartersmarken.
 
 Antagandehandling                                          34 (63)
 
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
+[Tabell 66-67-1](handlingar.tabeller/66-67-1.csv)
 
 |  |  |
 | --- | --- |
 | Exploatör | Plankostnad |
 | Fastighet/part<br>Exploatör | Ekonomisk konsekvens (betalar)<br>Utbyggnad av allmän plats (enskilt<br>huvudmannaskap) |
-
-<!-- sida 67 -->
-
-Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
-
-Antagandehandling                                          35 (63)
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
 | Fastighetsägarna i planområdet<br>(gemensamhetsanläggning) | Drift och underhåll av allmän plats<br>(enskilt huvudmannaskap) |
-| --- | --- |
 | Exploatör | Inlösen av rättighet (allmän plats,<br>utrymme gemensamhetsanläggning) |
 | Exploatör | Ev. tillstånd från Trafikverket att ansluta<br>ny gata till allmän väg, Göteborgsvägen |
 | Exploatör | Exploateringsbidrag, inlösen av mark för<br>kommunal allmän plats samt nödvändiga<br>anläggningar utanför planområdet<br>(vänstersvängfält) |
@@ -2638,6 +2624,12 @@ Antagandehandling                                          35 (63)
 | Exploatören | Ev. sanering av förorenad mark |
 | Exploatören | Lantmäteriförrättning avseende<br>avstyckning av bostadsfastigheter och<br>fastighetsreglering av allmän plats med<br>kommunalt huvudmannaskap, bildande<br>och omprövning av<br>gemensamhetsanläggningar, bildande av<br>samfällighetsförening. |
 | Kommunen/ledningshavare | Lantmäteriförrättning avseende<br>ledningsrätt för allmänna ledningar |
+
+<!-- sida 67 -->
+
+Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
+
+Antagandehandling                                          35 (63)
 
 <!-- sida 68 -->
 
@@ -3497,7 +3489,7 @@ fastigheter och för berörda gemensamhetsanläggningar och rättigheter inom pl
 
 Antagandehandling                                          53 (63)
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-86-1](handlingar.tabeller/85-86-1.csv)
 
 |  |  |
 | --- | --- |
@@ -3515,6 +3507,15 @@ Antagandehandling                                          53 (63)
 | Sintorp 4:260 | Ska upplåta mark för nya allmänna<br>ledningar och nätstation |
 | Sintorp 4:260 | Ska avstå mark för bostadsändamål (B) till<br>Rågelund 1:115. |
 | Sintorp 4:261 | Ska avstå allmän platsmark till kommunen<br>(PARK och NATUR) |
+| Sintorp 4:261 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GATA, PARK och ev. kvartersmark) |
+| Sintorp 4:261 | Ska upplåta mark för nya allmänna<br>ledningar, pumpstation och nätstation |
+| Sintorp 4:6 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
+| Sintorp 4:6 | Ska upplåta mark för nya allmänna<br>ledningar |
+| Påtorp s:1 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
+| Påtorp s:1 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GC-VÄG) |
+| Gemensamhetsanläggning, Sintorp ga:3 | Ska omprövas |
+| Officialservitut, utrymme för Sintorp ga:3<br>(akt 1384-10/3) | Ska ändras |
+| Avtalsservitut, kraftledning (akt IM-<br>77/2451) | Kan upphävas när ledningen flyttats |
 
 <!-- sida 86 -->
 
@@ -3549,19 +3550,6 @@ påverkan att jordbruksmark tas i anspråk men i avvägningen som gjordes i komm
 Den aktuella detaljplanen uppfyller intentionerna i översiktsplanen. En utökning av antalet
 
 Antagandehandling                                          54 (63)
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
-| Sintorp 4:261 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GATA, PARK och ev. kvartersmark) |
-| --- | --- |
-| Sintorp 4:261 | Ska upplåta mark för nya allmänna<br>ledningar, pumpstation och nätstation |
-| Sintorp 4:6 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
-| Sintorp 4:6 | Ska upplåta mark för nya allmänna<br>ledningar |
-| Påtorp s:1 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
-| Påtorp s:1 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GC-VÄG) |
-| Gemensamhetsanläggning, Sintorp ga:3 | Ska omprövas |
-| Officialservitut, utrymme för Sintorp ga:3<br>(akt 1384-10/3) | Ska ändras |
-| Avtalsservitut, kraftledning (akt IM-<br>77/2451) | Kan upphävas när ledningen flyttats |
 
 <!-- sida 87 -->
 
@@ -7914,7 +7902,7 @@ fastigheterna och för berörda gemensamhetsanläggningar och rättigheter inom 
 
 Samrådshandling                                            27 (32)
 
-[Tabell 177-1](handlingar.tabeller/177-1.csv)
+[Tabell 177-178-1](handlingar.tabeller/177-178-1.csv)
 
 |  |  |
 | --- | --- |
@@ -7922,6 +7910,13 @@ Samrådshandling                                            27 (32)
 | Fastighet/Rättighet<br>Bukärr 1:30 | Konsekvens<br>Avstyckning av kvartersmark för<br>bostadsändamål, ca 2522 kvm. (Gul) |
 | Bukärr 1:30 | Ska avstå mark för allmän plats med<br>kommunalt ändamål PARK , ca 303 kvm<br>1<br>(Grön). Fastighetsregleras till Nötegång<br>1:91. |
 | Bukärr 1:30 | Ska upplåta mark för<br>gemensamhetsanläggning för GATA<br>(allmän plats med enskilt huvudmannaskap),<br>ca 676 kvm (Turkos). |
+| Nötegång 1:91 | Ska överlåta mark för kvartersmark för<br>centrumändamål till Bukärr 1:30, ca 1112<br>kvm (Orange). |
+| Gemensamhetsanläggning Bukärr GA:13 | Ska omprövas till antal delägare. Ny<br>delägare blir den nya fastigheten för<br>kvartersmark med bostadsändamål<br>Eventuellt omprövas anläggningen till sin<br>omfattning. |
+| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-89/41841.1) | Oförändrad |
+| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-93/13820.1) | Oförändrad |
+| Avtalsservitut, ändamål kraftledning<br>(akt D202000193709:1.1) | Oförändrad |
+| Avtalsservitut, ändamål Väg<br>(akt 1384IM-10/17025.1) | Servitutet upphävs då GATA blir allmän<br>platsmark med enskilt huvudmannaskap.<br>Berörd fastighet kommer att ingå i<br>gemensamhetsanläggningen och få rättighet<br>att nyttja gatan för utfart. |
+| Ledningsrätt, ändamål vatten och avlopp<br>(akt 13-SLÄ-3730.1) | Oförändrad |
 
 <!-- sida 178 -->
 
@@ -7952,17 +7947,6 @@ inramning till området och bidrar till identiteten. Planförslaget innebär int
 tas bort och den nya bebyggelsen kan anpassas gestaltningsmässigt efter Särögården.
 
 Samrådshandling                                            28 (32)
-
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
-
-| Nötegång 1:91 | Ska överlåta mark för kvartersmark för<br>centrumändamål till Bukärr 1:30, ca 1112<br>kvm (Orange). |
-| --- | --- |
-| Gemensamhetsanläggning Bukärr GA:13 | Ska omprövas till antal delägare. Ny<br>delägare blir den nya fastigheten för<br>kvartersmark med bostadsändamål<br>Eventuellt omprövas anläggningen till sin<br>omfattning. |
-| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-89/41841.1) | Oförändrad |
-| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-93/13820.1) | Oförändrad |
-| Avtalsservitut, ändamål kraftledning<br>(akt D202000193709:1.1) | Oförändrad |
-| Avtalsservitut, ändamål Väg<br>(akt 1384IM-10/17025.1) | Servitutet upphävs då GATA blir allmän<br>platsmark med enskilt huvudmannaskap.<br>Berörd fastighet kommer att ingå i<br>gemensamhetsanläggningen och få rättighet<br>att nyttja gatan för utfart. |
-| Ledningsrätt, ändamål vatten och avlopp<br>(akt 13-SLÄ-3730.1) | Oförändrad |
 
 <!-- sida 179 -->
 

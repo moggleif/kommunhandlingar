@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18a7faff/1739858727
 sha256: a76c4599f5287459f0715f770bff45e110a139b8a80c69f9bf83834718e7bf4f
 bytes: 6708608
 sidor: 188
-hamtad: 2026-10-07T22:51:54+00:00
-konverterad: 2026-10-07T22:52:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:01:01+00:00
+konverterad: 2026-10-14T07:01:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [151]
-figurer: null
-tolkade: null
+figurer: [9, 14, 16, 17, 18, 20, 21, 22, 31, 33, 34, 138, 141]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1204,7 +1204,7 @@ integrerade eleven i undervisningssituationen.
 
 11
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
@@ -1224,6 +1224,8 @@ integrerade eleven i undervisningssituationen.
 | Risk för bristande<br>systematik i<br>säkerhetsarbetet | Förskola & Grundskola Enkät rektorer | Upphandling och<br>implamentering av<br>system för larm |
 | Risk för ineffektivt<br>nyttjande av lokaler för<br>utbildning | Förskola & Grundskola Lokalplanering | Beslut om ny lokalplan |
 |  |  | Ökad lokaleffektivitet<br>utifrån ny lokalplan |
+|  |  | Identifiera och åtgärda<br>lokaler med diskrepans |
+| Risk för integrerade<br>elevers lagstadgade rätt<br>till undervisning | Intervjuer med ansvariga<br>Förskola & Grundskola<br>för integrerade elever. | Huvudmannens<br>kvalitetsarbete |
 
 <!-- sida 37 -->
 
@@ -1265,13 +1267,6 @@ samt information om anpassat stödmaterial utifrån brister som konstaterats i t
 12
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-|  |  | Identifiera och åtgärda<br>lokaler med diskrepans |
-| Risk för integrerade<br>elevers lagstadgade rätt<br>till undervisning | Intervjuer med ansvariga<br>Förskola & Grundskola<br>för integrerade elever. | Huvudmannens<br>kvalitetsarbete |
-
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
 
 | Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
 | --- | --- | --- | --- | --- |
@@ -1426,7 +1421,7 @@ Nämndens självskattning
 
 16
 
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
+[Tabell 41-42-1](handlingar.tabeller/41-42-1.csv)
 
 | Område | Frågor Svar, Antal 2024 |
 | --- | --- |
@@ -1444,6 +1439,12 @@ Nämndens självskattning
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 42 -->
 
@@ -1451,17 +1452,6 @@ Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 17
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| Område | Frågor Svar, Antal 2024 |
-| --- | --- |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 43 -->
 
@@ -3234,79 +3224,120 @@ haft en omsättning på 6,7% vilket motsvarar 29 lärare, varav 12 har gått i p
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Andel deltid 12,1 % 12 % 10,7 % 10,3 % 10,8 % |  |
-| Andel heltid 87,9 % 88 % 89,3 % 89,8 % 89,2 % |  |
-| Andel kvinnor<br>12,7 % 12,2 % 11,1 % 10,6 % 11 %<br>som har deltid |  |
-| Andel kvinnor<br>87,3 % 87,8 % 88,9 % 89,5 % 89 %<br>som har heltid |  |
-| Andel män som<br>8,5 % 11 % 8 % 8,3 % 9,6 %<br>har deltid |  |
-| Andel män som<br>91,6 % 89 % 92 % 91,7 % 90,4 %<br>har heltid |  |
-| Anställda andel<br>85,5 % 85,5 % 85,1 % 85,2 % 86 %<br>kvinnor |  |
-| Anställda andel<br>14,6 % 14,5 % 14,9 % 14,8 % 14 %<br>män |  |
-| Anställda<br>genomsnittlig<br>96,2 % 96,2 % 96,9 % 97 % 96,5 %<br>sysselsättnings<br>grad |  |
-| Anställda totalt 2 667 2 592 2 606 2 494 2 366 |  |
-| Antal<br>medarbetare 24,4 24,2 25,1 23 22,4<br>per chef |  |
+|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 12,1 % | 12 % | 10,7 % | 10,3 % | 10,8 % |
+|  | Andel heltid | 87,9 % | 88 % | 89,3 % | 89,8 % | 89,2 % |
+|  | Andel kvinnor<br>som har deltid | 12,7 % | 12,2 % | 11,1 % | 10,6 % | 11 % |
+|  | Andel kvinnor<br>som har heltid | 87,3 % | 87,8 % | 88,9 % | 89,5 % | 89 % |
+|  | Andel män som<br>har deltid | 8,5 % | 11 % | 8 % | 8,3 % | 9,6 % |
+|  | Andel män som<br>har heltid | 91,6 % | 89 % | 92 % | 91,7 % | 90,4 % |
+|  | Anställda andel<br>kvinnor | 85,5 % | 85,5 % | 85,1 % | 85,2 % | 86 % |
+|  | Anställda andel<br>män | 14,6 % | 14,5 % | 14,9 % | 14,8 % | 14 % |
+|  | Anställda<br>genomsnittlig<br>sysselsättnings<br>grad | 96,2 % | 96,2 % | 96,9 % | 97 % | 96,5 % |
+|  | Anställda totalt | 2 667 | 2 592 | 2 606 | 2 494 | 2 366 |
+|  | Antal<br>medarbetare<br>per chef | 24,4 | 24,2 | 25,1 | 23 | 22,4 |
 
 <!-- sida 79 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Antal
+medarbetare    26,4        26             27        24,4       23,9
+per enhetschef
+Antalet
+medarbetare   32,75       32,2          31,94      28,86       28,4
+per rektor
+Medarbetare
+20,6 %     20,6 %         21 %      21,6 %     21,4 %
+30 - 39 år
+Medarbetare
+29,9 %     28,4 %        26,7 %     26,3 %     26,4 %
+40 - 49 år
+Medarbetare
+24,8 %     26,2 %         27 %      28,8 %     29,8 %
+50 - 59 år
+Medarbetare
+11,5 %     11,5 %        11,2 %     11,6 %     12,1 %
+60 år och äldre
+Medarbetare
+13,4 %     13,4 %        14,1 %     11,7 %     10,3 %
+yngre än 30 år
+Medelålder     45          45             44         45         46
+Pensionsavgån
+42          50             44         27         49
+gar
 7.5 Effektmått
 
 35
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Antal<br>medarbetare 26,4 26 27 24,4 23,9<br>per enhetschef |  |
-| Antalet<br>medarbetare 32,75 32,2 31,94 28,86 28,4<br>per rektor |  |
-| Medarbetare<br>20,6 % 20,6 % 21 % 21,6 % 21,4 %<br>30 - 39 år |  |
-| Medarbetare<br>29,9 % 28,4 % 26,7 % 26,3 % 26,4 %<br>40 - 49 år |  |
-| Medarbetare<br>24,8 % 26,2 % 27 % 28,8 % 29,8 %<br>50 - 59 år |  |
-| Medarbetare<br>11,5 % 11,5 % 11,2 % 11,6 % 12,1 %<br>60 år och äldre |  |
-| Medarbetare<br>13,4 % 13,4 % 14,1 % 11,7 % 10,3 %<br>yngre än 30 år |  |
-| Medelålder 45 45 44 45 46 |  |
-| Pensionsavgån<br>42 50 44 27 49<br>gar |  |
-
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Frisknärvaro 38,4 % 41,2 % 39,9 % 45,9 % 47,5 % |  |
-| Frisknärvaro<br>36,7 % 39,7 % 38,7 % 44,8 % 46,4 %<br>Kvinnor |  |
-| Frisknärvaro<br>49,9 % 50,9 % 47,7 % 53,1 % 54,9 %<br>Män |  |
-| Korttidssjukfrån<br>4,3 % 3,8 % 4,1 % 3,4 % 3,2 %<br>varo |  |
-| Korttidssjukfrån<br>4,4 % 4 % 4,2 % 3,5 % 3,4 %<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>3,4 % 3 % 3,4 % 2,9 % 2,5 %<br>varo Män |  |
-| Långtidssjukfrå<br>3,3 % 3,1 % 3,2 % 3,1 % 3,4 %<br>nvaro |  |
-| Långtidssjukfrå<br>3,5 % 3,3 % 3,5 % 3,4 % 3,7 %<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>2,2 % 1,9 % 1,6 % 1,2 % 1,3 %<br>nvaro Män |  |
-| Personalomsätt<br>12 % 8,8 % 11,1 % 9,4 % 7,5 %<br>ning |  |
+|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 38,4 % | 41,2 % | 39,9 % | 45,9 % | 47,5 % |
+|  | Frisknärvaro<br>Kvinnor | 36,7 % | 39,7 % | 38,7 % | 44,8 % | 46,4 % |
+|  | Frisknärvaro<br>Män | 49,9 % | 50,9 % | 47,7 % | 53,1 % | 54,9 % |
+|  | Korttidssjukfrån<br>varo | 4,3 % | 3,8 % | 4,1 % | 3,4 % | 3,2 % |
+|  | Korttidssjukfrån<br>varo Kvinnor | 4,4 % | 4 % | 4,2 % | 3,5 % | 3,4 % |
+|  | Korttidssjukfrån<br>varo Män | 3,4 % | 3 % | 3,4 % | 2,9 % | 2,5 % |
+|  | Långtidssjukfrå<br>nvaro | 3,3 % | 3,1 % | 3,2 % | 3,1 % | 3,4 % |
+|  | Långtidssjukfrå<br>nvaro Kvinnor | 3,5 % | 3,3 % | 3,5 % | 3,4 % | 3,7 % |
+|  | Långtidssjukfrå<br>nvaro Män | 2,2 % | 1,9 % | 1,6 % | 1,2 % | 1,3 % |
+|  | Personalomsätt<br>ning | 12 % | 8,8 % | 11,1 % | 9,4 % | 7,5 % |
 
 <!-- sida 80 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Sjukfrånvaro
+7,9 %       7,3 %         7,7 %       7 %       7,1 %
+Kvinnor
+Sjukfrånvaro
+5,6 %       4,9 %          5 %        4 %       3,8 %
+Män
+Sjukfrånvaro
+7,6 %       6,9 %         7,3 %      6,5 %      6,6 %
+Totalt
+Sjukfrånvaro,
+andel av
+30,7 %     32,2 %        33,3 %     36,2 %     38,7 %
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 30,8 %   32,9 %        34,3 %     38,2 %     39,8 %
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 29,8 %   26,4 %        24,5 %     16,5 %     26,8 %
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+7,2 %       6,4 %         6,2 %       6 %       5,8 %
+åldrarna 29 år
+eller yngre
+Sjukfrånvaro,
+anställda i
+6,6 %       6,2 %         6,7 %      5,6 %      5,9 %
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+9,1 %       7,9 %         8,4 %      7,8 %      7,6 %
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 25,1       22            23,8       21,7       22,1
+anställd
+
 36
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Sjukfrånvaro<br>7,9 % 7,3 % 7,7 % 7 % 7,1 %<br>Kvinnor |  |
-| Sjukfrånvaro<br>5,6 % 4,9 % 5 % 4 % 3,8 %<br>Män |  |
-| Sjukfrånvaro<br>7,6 % 6,9 % 7,3 % 6,5 % 6,6 %<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>30,7 % 32,2 % 33,3 % 36,2 % 38,7 %<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 30,8 % 32,9 % 34,3 % 38,2 % 39,8 %<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 29,8 % 26,4 % 24,5 % 16,5 % 26,8 %<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>7,2 % 6,4 % 6,2 % 6 % 5,8 %<br>åldrarna 29 år<br>eller yngre |  |
-| Sjukfrånvaro,<br>anställda i<br>6,6 % 6,2 % 6,7 % 5,6 % 5,9 %<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>9,1 % 7,9 % 8,4 % 7,8 % 7,6 %<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 25,1 22 23,8 21,7 22,1<br>anställd |  |
 
 <!-- sida 81 -->
 
@@ -3352,12 +3383,19 @@ Antal barn i förskolan 2024
 | Korttidstillsyn enl LSS | -5,1 |  | -5,8 | -5,5 | 0,3 |
 | Summa |  | -2 213,5 | -2 283,6 | -2 274,8 | 8,8 |
 
-[Tabell 81-2](handlingar.tabeller/81-2.csv)
+[Tabell 81-82-2](handlingar.tabeller/81-82-2.csv)
 
 | Antal barn i förskolan<br>2024 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
 | Förskola i kommunal<br>verksamhet | 3 758 | 3 705 | -53 |
 | Förskola i annan<br>kommun (köpt plats) | 28 | 20 | -8 |
+| Förskola i kommunal<br>verksamhet, folkbokförd i<br>andra kommuner (såld<br>plats) | -68 | -76 | -8 |
+| Fristående verksamhet | 724 | 720 | -4 |
+| Pedagogisk omsorg<br>kommunal verksamhet | 28 | 27 | -1 |
+| Pedagogisk omsorg i<br>annan kommun (köpt<br>plats) | 1 | 1 | 0 |
+| Pedagogisk omsorg i<br>kommunal verksamhet,<br>folkbokförd i andra<br>kommuner (såld plats) | 0 | 0 | 0 |
+| Pedagogisk omsorg<br>fristående verksamhet | 35 | 29 | -6 |
+| Totalt | 4 506 | 4 426 | -80 |
 
 <!-- sida 82 -->
 
@@ -3369,18 +3407,6 @@ Antal elever i fritidshem 2024
 38
 
 [Tabell 82-1](handlingar.tabeller/82-1.csv)
-
-| Antal barn i förskolan<br>2024 | Budget | Utfall | Avvikelse |
-| --- | --- | --- | --- |
-| Förskola i kommunal<br>verksamhet, folkbokförd i<br>andra kommuner (såld<br>plats) | -68 | -76 | -8 |
-| Fristående verksamhet | 724 | 720 | -4 |
-| Pedagogisk omsorg<br>kommunal verksamhet | 28 | 27 | -1 |
-| Pedagogisk omsorg i<br>annan kommun (köpt<br>plats) | 1 | 1 | 0 |
-| Pedagogisk omsorg i<br>kommunal verksamhet,<br>folkbokförd i andra<br>kommuner (såld plats) | 0 | 0 | 0 |
-| Pedagogisk omsorg<br>fristående verksamhet | 35 | 29 | -6 |
-| Totalt | 4 506 | 4 426 | -80 |
-
-[Tabell 82-2](handlingar.tabeller/82-2.csv)
 
 | Antal elever på<br>fritidshem 2024 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
@@ -5358,79 +5384,120 @@ haft en omsättning på 6,7% vilket motsvarar 29 lärare, varav 12 har gått i p
 
 [Tabell 122-1](handlingar.tabeller/122-1.csv)
 
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Andel deltid 12,1 % 12 % 10,7 % 10,3 % 10,8 % |  |
-| Andel heltid 87,9 % 88 % 89,3 % 89,8 % 89,2 % |  |
-| Andel kvinnor<br>12,7 % 12,2 % 11,1 % 10,6 % 11 %<br>som har deltid |  |
-| Andel kvinnor<br>87,3 % 87,8 % 88,9 % 89,5 % 89 %<br>som har heltid |  |
-| Andel män som<br>8,5 % 11 % 8 % 8,3 % 9,6 %<br>har deltid |  |
-| Andel män som<br>91,6 % 89 % 92 % 91,7 % 90,4 %<br>har heltid |  |
-| Anställda andel<br>85,5 % 85,5 % 85,1 % 85,2 % 86 %<br>kvinnor |  |
-| Anställda andel<br>14,6 % 14,5 % 14,9 % 14,8 % 14 %<br>män |  |
-| Anställda<br>genomsnittlig<br>96,2 % 96,2 % 96,9 % 97 % 96,5 %<br>sysselsättnings<br>grad |  |
-| Anställda totalt 2 667 2 592 2 606 2 494 2 366 |  |
-| Antal<br>medarbetare 24,4 24,2 25,1 23 22,4<br>per chef |  |
+|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 12,1 % | 12 % | 10,7 % | 10,3 % | 10,8 % |
+|  | Andel heltid | 87,9 % | 88 % | 89,3 % | 89,8 % | 89,2 % |
+|  | Andel kvinnor<br>som har deltid | 12,7 % | 12,2 % | 11,1 % | 10,6 % | 11 % |
+|  | Andel kvinnor<br>som har heltid | 87,3 % | 87,8 % | 88,9 % | 89,5 % | 89 % |
+|  | Andel män som<br>har deltid | 8,5 % | 11 % | 8 % | 8,3 % | 9,6 % |
+|  | Andel män som<br>har heltid | 91,6 % | 89 % | 92 % | 91,7 % | 90,4 % |
+|  | Anställda andel<br>kvinnor | 85,5 % | 85,5 % | 85,1 % | 85,2 % | 86 % |
+|  | Anställda andel<br>män | 14,6 % | 14,5 % | 14,9 % | 14,8 % | 14 % |
+|  | Anställda<br>genomsnittlig<br>sysselsättnings<br>grad | 96,2 % | 96,2 % | 96,9 % | 97 % | 96,5 % |
+|  | Anställda totalt | 2 667 | 2 592 | 2 606 | 2 494 | 2 366 |
+|  | Antal<br>medarbetare<br>per chef | 24,4 | 24,2 | 25,1 | 23 | 22,4 |
 
 <!-- sida 123 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Antal
+medarbetare    26,4        26             27        24,4       23,9
+per enhetschef
+Antalet
+medarbetare   32,75       32,2          31,94      28,86       28,4
+per rektor
+Medarbetare
+20,6 %     20,6 %         21 %      21,6 %     21,4 %
+30 - 39 år
+Medarbetare
+29,9 %     28,4 %        26,7 %     26,3 %     26,4 %
+40 - 49 år
+Medarbetare
+24,8 %     26,2 %         27 %      28,8 %     29,8 %
+50 - 59 år
+Medarbetare
+11,5 %     11,5 %        11,2 %     11,6 %     12,1 %
+60 år och äldre
+Medarbetare
+13,4 %     13,4 %        14,1 %     11,7 %     10,3 %
+yngre än 30 år
+Medelålder     45          45             44         45         46
+Pensionsavgån
+42          50             44         27         49
+gar
 7.5 Effektmått
 
 32
 
 [Tabell 123-1](handlingar.tabeller/123-1.csv)
 
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Antal<br>medarbetare 26,4 26 27 24,4 23,9<br>per enhetschef |  |
-| Antalet<br>medarbetare 32,75 32,2 31,94 28,86 28,4<br>per rektor |  |
-| Medarbetare<br>20,6 % 20,6 % 21 % 21,6 % 21,4 %<br>30 - 39 år |  |
-| Medarbetare<br>29,9 % 28,4 % 26,7 % 26,3 % 26,4 %<br>40 - 49 år |  |
-| Medarbetare<br>24,8 % 26,2 % 27 % 28,8 % 29,8 %<br>50 - 59 år |  |
-| Medarbetare<br>11,5 % 11,5 % 11,2 % 11,6 % 12,1 %<br>60 år och äldre |  |
-| Medarbetare<br>13,4 % 13,4 % 14,1 % 11,7 % 10,3 %<br>yngre än 30 år |  |
-| Medelålder 45 45 44 45 46 |  |
-| Pensionsavgån<br>42 50 44 27 49<br>gar |  |
-
-[Tabell 123-2](handlingar.tabeller/123-2.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Frisknärvaro 38,4 % 41,2 % 39,9 % 45,9 % 47,5 % |  |
-| Frisknärvaro<br>36,7 % 39,7 % 38,7 % 44,8 % 46,4 %<br>Kvinnor |  |
-| Frisknärvaro<br>49,9 % 50,9 % 47,7 % 53,1 % 54,9 %<br>Män |  |
-| Korttidssjukfrån<br>4,3 % 3,8 % 4,1 % 3,4 % 3,2 %<br>varo |  |
-| Korttidssjukfrån<br>4,4 % 4 % 4,2 % 3,5 % 3,4 %<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>3,4 % 3 % 3,4 % 2,9 % 2,5 %<br>varo Män |  |
-| Långtidssjukfrå<br>3,3 % 3,1 % 3,2 % 3,1 % 3,4 %<br>nvaro |  |
-| Långtidssjukfrå<br>3,5 % 3,3 % 3,5 % 3,4 % 3,7 %<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>2,2 % 1,9 % 1,6 % 1,2 % 1,3 %<br>nvaro Män |  |
-| Personalomsätt<br>12 % 8,8 % 11,1 % 9,4 % 7,5 %<br>ning |  |
+|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 38,4 % | 41,2 % | 39,9 % | 45,9 % | 47,5 % |
+|  | Frisknärvaro<br>Kvinnor | 36,7 % | 39,7 % | 38,7 % | 44,8 % | 46,4 % |
+|  | Frisknärvaro<br>Män | 49,9 % | 50,9 % | 47,7 % | 53,1 % | 54,9 % |
+|  | Korttidssjukfrån<br>varo | 4,3 % | 3,8 % | 4,1 % | 3,4 % | 3,2 % |
+|  | Korttidssjukfrån<br>varo Kvinnor | 4,4 % | 4 % | 4,2 % | 3,5 % | 3,4 % |
+|  | Korttidssjukfrån<br>varo Män | 3,4 % | 3 % | 3,4 % | 2,9 % | 2,5 % |
+|  | Långtidssjukfrå<br>nvaro | 3,3 % | 3,1 % | 3,2 % | 3,1 % | 3,4 % |
+|  | Långtidssjukfrå<br>nvaro Kvinnor | 3,5 % | 3,3 % | 3,5 % | 3,4 % | 3,7 % |
+|  | Långtidssjukfrå<br>nvaro Män | 2,2 % | 1,9 % | 1,6 % | 1,2 % | 1,3 % |
+|  | Personalomsätt<br>ning | 12 % | 8,8 % | 11,1 % | 9,4 % | 7,5 % |
 
 <!-- sida 124 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Sjukfrånvaro
+7,9 %       7,3 %         7,7 %       7 %       7,1 %
+Kvinnor
+Sjukfrånvaro
+5,6 %       4,9 %          5 %        4 %       3,8 %
+Män
+Sjukfrånvaro
+7,6 %       6,9 %         7,3 %      6,5 %      6,6 %
+Totalt
+Sjukfrånvaro,
+andel av
+30,7 %     32,2 %        33,3 %     36,2 %     38,7 %
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 30,8 %   32,9 %        34,3 %     38,2 %     39,8 %
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 29,8 %   26,4 %        24,5 %     16,5 %     26,8 %
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+7,2 %       6,4 %         6,2 %       6 %       5,8 %
+åldrarna 29 år
+eller yngre
+Sjukfrånvaro,
+anställda i
+6,6 %       6,2 %         6,7 %      5,6 %      5,9 %
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+9,1 %       7,9 %         8,4 %      7,8 %      7,6 %
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 25,1       22            23,8       21,7       22,1
+anställd
+
 33
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Sjukfrånvaro<br>7,9 % 7,3 % 7,7 % 7 % 7,1 %<br>Kvinnor |  |
-| Sjukfrånvaro<br>5,6 % 4,9 % 5 % 4 % 3,8 %<br>Män |  |
-| Sjukfrånvaro<br>7,6 % 6,9 % 7,3 % 6,5 % 6,6 %<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>30,7 % 32,2 % 33,3 % 36,2 % 38,7 %<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 30,8 % 32,9 % 34,3 % 38,2 % 39,8 %<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 29,8 % 26,4 % 24,5 % 16,5 % 26,8 %<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>7,2 % 6,4 % 6,2 % 6 % 5,8 %<br>åldrarna 29 år<br>eller yngre |  |
-| Sjukfrånvaro,<br>anställda i<br>6,6 % 6,2 % 6,7 % 5,6 % 5,9 %<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>9,1 % 7,9 % 8,4 % 7,8 % 7,6 %<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 25,1 22 23,8 21,7 22,1<br>anställd |  |
 
 <!-- sida 125 -->
 
@@ -5476,12 +5543,19 @@ Antal barn i förskolan 2024
 | Korttidstillsyn enl LSS | -5,1 | -5,8 | -5,5 | 0,3 |
 | Summa | -2 213,5 | -2 283,6 | -2 274,8 | 8,8 |
 
-[Tabell 125-2](handlingar.tabeller/125-2.csv)
+[Tabell 125-126-2](handlingar.tabeller/125-126-2.csv)
 
 | Antal barn i förskolan<br>2024 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
 | Förskola i kommunal<br>verksamhet | 3 758 | 3 705 | -53 |
 | Förskola i annan<br>kommun (köpt plats) | 28 | 20 | -8 |
+| Förskola i kommunal<br>verksamhet, folkbokförd i<br>andra kommuner (såld<br>plats) | -68 | -76 | -8 |
+| Fristående verksamhet | 724 | 720 | -4 |
+| Pedagogisk omsorg<br>kommunal verksamhet | 28 | 27 | -1 |
+| Pedagogisk omsorg i<br>annan kommun (köpt<br>plats) | 1 | 1 | 0 |
+| Pedagogisk omsorg i<br>kommunal verksamhet,<br>folkbokförd i andra<br>kommuner (såld plats) | 0 | 0 | 0 |
+| Pedagogisk omsorg<br>fristående verksamhet | 35 | 29 | -6 |
+| Totalt | 4 506 | 4 426 | -80 |
 
 <!-- sida 126 -->
 
@@ -5493,18 +5567,6 @@ Antal elever i fritidshem 2024
 35
 
 [Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-| Antal barn i förskolan<br>2024 | Budget | Utfall | Avvikelse |
-| --- | --- | --- | --- |
-| Förskola i kommunal<br>verksamhet, folkbokförd i<br>andra kommuner (såld<br>plats) | -68 | -76 | -8 |
-| Fristående verksamhet | 724 | 720 | -4 |
-| Pedagogisk omsorg<br>kommunal verksamhet | 28 | 27 | -1 |
-| Pedagogisk omsorg i<br>annan kommun (köpt<br>plats) | 1 | 1 | 0 |
-| Pedagogisk omsorg i<br>kommunal verksamhet,<br>folkbokförd i andra<br>kommuner (såld plats) | 0 | 0 | 0 |
-| Pedagogisk omsorg<br>fristående verksamhet | 35 | 29 | -6 |
-| Totalt | 4 506 | 4 426 | -80 |
-
-[Tabell 126-2](handlingar.tabeller/126-2.csv)
 
 | Antal elever på<br>fritidshem 2024 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
@@ -6862,7 +6924,7 @@ A Verksamhet
 
 Delegeringsf örteckning      Sida 6 av 25
 
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
+[Tabell 162-169-1](handlingar.tabeller/162-169-1.csv)
 
 | Nr | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Lagrum/stöd | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -6871,29 +6933,13 @@ Delegeringsf örteckning      Sida 6 av 25
 | A 1.2 | Beslut i ärende som har<br>utretts inom FG:s<br>klagomålshantering på<br>huvudmannanivå,<br>inklusive beslut om<br>åtgärder på<br>huvudmannanivå i<br>sådana ärenden | FC |  | 4 kap. 7-8 §§<br>SL |  |
 | A 1.3 | Mottagande av rektors<br>anmälan till<br>huvudmannen när<br>rektorn har fattat ett<br>beslut om avstängning<br>av elev | FC | X | 5 kap. 16 § SL |  |
 | A 1.4 | Yttrande till<br>Skolinspektionen, Barn-<br>och elevombudet eller<br>Diskriminerings- | FC |  | 2 kap. 8 § SL | Nämnden beslutar om<br>yttrande som innefattar<br>ställningstagande till |
-
-<!-- sida 163 -->
-
-Delegeringsf örteckning       Sida 7 av 25
-
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
-
 |  | ombudsmannen i<br>anmälningsärende som<br>rör enskilda barn och<br>elever, såvida yttrandet<br>inte innefattar<br>ställningstagande till<br>skadestånd, vite eller<br>annan ersättning |  |  |  | skadestånd, vite och<br>andra ersättningar.<br>Justitieombudsmannen<br>(JO) godkänner endast<br>att nämnden beslutar om<br>yttranden till JO. |
-| --- | --- | --- | --- | --- | --- |
 | A 1.5 | Yttrande till<br>Skolinspektionen med<br>anledning av<br>Skolinspektionens<br>tillsyn och<br>kvalitetsgranskning. | AU |  | 2 kap. 8 § SL |  |
 | A 1.6 | Organisatoriska<br>förändringar inom<br>budgetram som inte<br>påverkar<br>upptagningsområden för<br>elever | FC |  |  |  |
 | A 1.7 | Beslut på nämndens<br>vägnar i övriga fall än<br>vad som särskilt anges i<br>denna<br>delegeringsförteckning<br>som rör enskilda barn<br>och elever, som inte är<br>av principiell<br>beskaffenhet eller annars<br>av större vikt. | AU |  |  | T.ex. beslut om avsteg<br>från av nämndens<br>fastställda Regler för<br>förskola, fritidshem och<br>pedagogisk omsorg i<br>enskilt fall.<br>Endast nämnden får<br>besluta i ärenden av<br>principiell beskaffenhet<br>eller som annars är av<br>större vikt. |
 | A 1.8 | Beslut om att erbjuda<br>modersmål genom<br>fjärrundervisning för<br>skola och årskurs | FC |  | 21 kap. SL | Rev 2021-08-25<br>Nämnden har beslutat<br>2021-08-25 § 104 om att<br>godkänna att modersmål<br>bedrivs genom<br>fjärrundervisning för<br>läsåret 21/22. Delegerat<br>till förvaltningschef att<br>besluta om skola och<br>omfattning.<br>Ska anmälas till<br>Skolinspektionen. |
 | A 1.9 | Beslut om tidsbegränsat<br>tillträdesförbud till | FC | X |  |  |
-
-<!-- sida 164 -->
-
-Delegeringsf örteckning      Sida 8 av 25
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
 |  | förskolans eller skolans<br>lokaler |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | A 1.10 | Fördelning av<br>undervisningstiden<br>mellan årskurserna | FC | X | SkolF 9 kap 4<br>§, 10 kap 3 § |  |
 | A 1.11 | Läsårstider | FC |  | SkolF 3 kap 2,<br>3 §, SL 9:3 |  |
 | A 1.12 | Beslut om studiedagar<br>inom skolan | FC |  | 3 kap. 2 §<br>Skolf |  |
@@ -6907,30 +6953,14 @@ Delegeringsf örteckning      Sida 8 av 25
 | A 2.6 | Beslut om föreläggande<br>om vårdnadshavare inte<br>fullgör sina skyldigheter<br>när skolpliktig elev inte<br>fullgör sin skolgång,<br>som inte förenas med<br>vite | FC | X | 7 kap. 23 § SL | Endast nämnden får<br>besluta om föreläggande<br>förenat med vite.<br>Beslut om förelägganden<br>ska omedelbart anmälas<br>till FC för förberedande<br>av ev. vitesföreläggande. |
 | A 2.7 | Beslut om fullgörande<br>av skolplikt på annat sätt | AU |  | 24 kap. 23-25<br>§§ SL |  |
 | A 2.8 | Beslut om utskrivning<br>från skolplikten | FC | X | 7 kap 2 § | Avser elever som<br>varaktigt vistas<br>utomlands vid<br>exempelvis<br>vårdnadshavares<br>utlandsarbete. |
-
-<!-- sida 165 -->
-
-Delegeringsf örteckning      Sida 9 av 25
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
 | A 2.9 | Beslut om mottagande<br>av elev som inte anses<br>bosatt i Sverige | AU |  | 4 kap. 2 §<br>Skolf |  |
-| --- | --- | --- | --- | --- | --- |
 | A 2.10 | Beslut om särskild<br>undervisning i hemmet<br>eller på annan lämplig<br>plats | FC | X | 24 kap. 20-21<br>§§ SL | Gäller endast vid elevs<br>sjukdom eller<br>sjukdomsliknande<br>tillstånd<br>Läkarintyg och dylikt<br>ska finnas som<br>beslutsunderlag. |
 | A 2.11 | Beslut om placering vid<br>skolenhet som frångår<br>vårdnadshavarnas<br>önskemål | FC | X | 9 kap. 15 §<br>10 kap. 30 §<br>SL<br>11 kap. 29 §<br>SL | Endast nämnden får<br>besluta enligt 10:30 2 st<br>p 2 och 11 kap. 29 § 2 st<br>2 p SL.<br>Delegationen omfattar<br>även placering då<br>vårdnadshavare ej är<br>överens för att<br>säkerställa skolplikten.<br>Beslut i enlighet med<br>vårdnadshavarnas<br>önskemål är<br>verkställighet. |
 | A 3. Beslut angående skolgång i anpassad grundskola |  |  |  |  |  |
 | A 3.1 | Beslut om mottagande i<br>anpassad grundskola | FC | X | 7 kap. 5 § SL | Mottagandet i anpassad<br>grundskola ska föregås<br>av en utredning som<br>omfattar en pedagogisk,<br>psykologisk, medicinsk<br>och social bedömning.<br>Samråd ska ske med<br>elevens vårdnadshavare. |
 | A 3.2 | Beslut att en elev, som<br>tas emot i anpassad<br>grundskola,<br>huvudsakligen ska läsa<br>ämnen eller<br>ämnesområden | FC | X | 11 kap. 8 § 1<br>st SL |  |
 | A 3.3 | Omprövning av beslut<br>med anledning av R:s<br>anmälan om<br>uppmärksammande av<br>att något tyder på att en<br>elev i anpassad<br>grundskola inte tillhör<br>anpassad grundskolas<br>målgrupp | FC | X | 7 kap. 5 a §<br>SL | Frågan om omprövning<br>av beslut om mottagande<br>till anpassad grundskola<br>ska utredas skyndsamt. |
-
-<!-- sida 166 -->
-
-Delegeringsf örteckning      Sida 10 av 25
-
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
-
 | A 3.4 | Beslut att elev inte<br>tillhör anpassad<br>grundskolas målgrupp<br>efter utredning enligt 7<br>kap. 5 a § SL | FC | X | 7 kap. 5 b §<br>SL | Efter beslut ska de<br>åtgärder som krävs för<br>elevens övergång till<br>annan skolform vidtas. |
-| --- | --- | --- | --- | --- | --- |
 | A 3.5 | Beslut om mottagande<br>på försök i annan<br>skolform | FC | X | 7 kap. 8 § SL | Beslutet ska fattas av<br>mottagande rektor. |
 | A 3.6 | Beslut om elevs<br>integrering i annan<br>skolform | FC | X | 7 kap. 9 § 1 st<br>SL | Beslutet ska fattas av<br>mottagande rektor. |
 | A 3.7 | Beslut om mottagande i<br>anpassad grundskola för<br>barn som inte gått ut<br>förskoleklass | FC | X | 7 kap 11 a, b<br>§§ SL |  |
@@ -6939,15 +6969,7 @@ Delegeringsf örteckning      Sida 10 av 25
 | A 4.2 | Beslut om skolskjuts för<br>elever i fristående<br>grundskolor och<br>fristående anpassad<br>grundskola | FC | X | 10 kap. 40 §,<br>11 kap. 39 §<br>SL | Kommunfullmäktige har<br>beslutat om<br>Övergripande regler för<br>skolskjuts och nämnden<br>beslutar om regler om<br>skolskjuts.<br>Beslut där endast<br>avståndsbedömning och<br>buss är aktuellt är<br>verkställighet. |
 | A 5. Beslut om interkommunala placeringar |  |  |  |  |  |
 | A 5.1 | Beslut/överenskommelse<br>om mottagande/<br>placering av barn och<br>elever från annan<br>kommun, när det inte<br>finns överenskommelse<br>som reglerar<br>mottagande/placering<br>mellan kommunerna | FC | X | 8 kap. 12-13<br>§§, 17 §,<br>9 kap. 12-14<br>§§, 16 §<br>10 kap. 24-28<br>§§, 34§, 11<br>kap. 24-27 §§,<br>33§ 14 kap. 14<br>§ | Att avge respektive<br>inhämta yttrande vid<br>interkommunal<br>placering är<br>verkställighet.<br>Beslut/överenskommelse<br>om mottagande,<br>placering och ersättning<br>när det finns avtal om<br>mottagande och |
-
-<!-- sida 167 -->
-
-Delegeringsf örteckning      Sida 11 av 25
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
 |  | -Överenskommelse om<br>ersättning, när det inte<br>finns avtal som reglerar<br>ersättning mellan<br>kommunerna |  |  | 24 kap 5 §<br>25 kap. 15 §<br>SL | ersättning är<br>verkställighet.<br>Beslut/överenskommelse<br>att lämna interkommunal<br>ersättning i övriga fall<br>motsvarande<br>kommunens eget<br>grundbelopp är<br>verkställighet.<br>Utbetalning av<br>överenskommen<br>ersättning är<br>verkställighet. |
-| --- | --- | --- | --- | --- | --- |
 | A 6. Beslut bidrag till fristående huvudmän |  |  |  |  |  |
 | A 6.1 | Beslut om tilläggsbelopp<br>till fristående huvudman,<br>inklusive<br>överenskommelse/avtal<br>om ersättning till<br>fristående huvudman<br>som innefattar<br>tilläggsbelopp. | FC | X | 8 kap. 21 §, 9<br>kap. 19 §, 21<br>§, 10 kap. 37<br>§, 39 §, 11<br>kap. 36 §, 38<br>§, 14 kap. 15<br>§, 17 §, 25<br>kap. 11 §, 13 §<br>SL | Överenskommelse/avtal<br>om placering som inte<br>innebär ekonomiska<br>åtaganden för FG utöver<br>grundbeloppet är<br>verkställighet. |
 | A 6.2 | Beslut om bidrag för var<br>och en av de fristående<br>huvudmän som tar emot<br>barn eller elever<br>hemmahörande i<br>Kungsbacka kommun. | FC |  | 8 kap. 21 §, 23<br>§, 9 kap. 19 §,<br>10 kap. 37 §,<br>11 kap. 36 §,<br>14 kap. 15 §,<br>24 kap 5 §<br>25 kap. 11 §<br>SL | Nämnden fattar årligen<br>beslut om<br>grundbeloppens storlek.<br>Överklagas till<br>förvaltningsrätten SL 28<br>kap 5 §. |
@@ -6955,15 +6977,7 @@ Delegeringsf örteckning      Sida 11 av 25
 | A 7.1 | Föreläggande om<br>uppgiftsskyldighet för<br>fristående huvudman | FC | X | 26 kap. 8 § SL |  |
 | A 7.2 | Föreläggande om<br>verksamheten inte<br>uppfyller krav och<br>föreskrifter | FC | X | 26 kap. 10 §<br>SL | Föreläggande vid vite<br>beslutas endast av<br>nämnden. |
 | A 7.3 | Beslut om anmärkning<br>eller avstående från<br>ingripande | FC | X | 26 kap. 11-12<br>§§ SL |  |
-
-<!-- sida 168 -->
-
-Delegeringsf örteckning      Sida 12 av 25
-
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
 | A 8. Beslut enligt LSS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | A 8.1 | Beslut om elevs rätt till<br>korttidstillsyn | FC | X | 9 § p 7 LSS | Handläggning sker inom<br>förvaltningen för individ<br>och familjeomsorg. |
 | A 9. Förskola |  |  |  |  |  |
 | A 9.1 | Erbjuda plats för barn<br>som har behov utifrån<br>familjens situation i<br>övrigt | FC | X | 8 kap 5 § SL |  |
@@ -6974,17 +6988,37 @@ Delegeringsf örteckning      Sida 12 av 25
 | A 10.1 | Erbjuda plats för elev<br>som har behov utifrån<br>familjens situation i<br>övrigt | FC | X | SL 14 kap.5§ | Omfattar även utökad<br>vistelsetid. |
 | A 10.2 | Erbjuda plats till elever<br>som av fysiska, psykiska<br>eller av andra skäl har<br>behov av särskilt stöd i<br>sin utveckling i form av<br>fritidshem | FC | X | SL 14 kap. 6 § | Omfattar även utökad<br>vistelsetid. |
 | A 10.3 | Beslut om nedsättning<br>och avgiftsbefrielse för<br>placering i fritidshem av<br>elev som har ett eget<br>behov av plats på grund<br>av familjens situation i | FC | X | 14 kap. 5-6,<br>12 §§ SL |  |
+|  | övrigt eller som på<br>grund av fysiska,<br>psykiska eller andra skäl<br>behöver stöd i sin<br>utveckling |  |  |  |  |
+| A 11. Omsorg på obekväm tid |  |  |  |  |  |
+| A 11.1 | Beslut om omsorg på<br>obekväm arbetstid | FC | X | Skollagen 25<br>kap 5 §. | Se NFG § 36 2024-04-<br>24, Regler för omsorg på<br>obekväm tid |
+
+<!-- sida 163 -->
+
+Delegeringsf örteckning       Sida 7 av 25
+
+<!-- sida 164 -->
+
+Delegeringsf örteckning      Sida 8 av 25
+
+<!-- sida 165 -->
+
+Delegeringsf örteckning      Sida 9 av 25
+
+<!-- sida 166 -->
+
+Delegeringsf örteckning      Sida 10 av 25
+
+<!-- sida 167 -->
+
+Delegeringsf örteckning      Sida 11 av 25
+
+<!-- sida 168 -->
+
+Delegeringsf örteckning      Sida 12 av 25
 
 <!-- sida 169 -->
 
 Delegeringsf örteckning      Sida 13 av 25
-
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-|  | övrigt eller som på<br>grund av fysiska,<br>psykiska eller andra skäl<br>behöver stöd i sin<br>utveckling |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| A 11. Omsorg på obekväm tid |  |  |  |  |  |
-| A 11.1 | Beslut om omsorg på<br>obekväm arbetstid | FC | X | Skollagen 25<br>kap 5 §. | Se NFG § 36 2024-04-<br>24, Regler för omsorg på<br>obekväm tid |
 
 <!-- sida 170 -->
 
@@ -6992,7 +7026,7 @@ B Allmänt
 
 Delegeringsf örteckning      Sida 14 av 25
 
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
+[Tabell 170-172-1](handlingar.tabeller/170-172-1.csv)
 
 | Nr | Delegeringens omfattning | Delegerat<br>till | Med<br>rätt att<br>vidare-<br>delegera | Lagrum/<br>Beslutsgrund | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -7002,29 +7036,13 @@ Delegeringsf örteckning      Sida 14 av 25
 | B 4 | Beslut om utlämnande av<br>allmän handling med<br>förbehåll eller att inte lämna<br>ut en allmän handling som<br>avser förskole- och<br>skolenheter samt fritidshem<br>och annan pedagogisk<br>omsorg | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 5 | Beslut med förbehåll eller<br>att inte lämna ut medicinska<br>journaler eller andra<br>uppgifter inom den del av<br>barn- och elevhälsan som<br>lyder under HSL | FC | X | 6 kap. 3-6 §§ OSL | Utlämnande av handling<br>utan förbehåll eller<br>sekretess, lämnas ut av<br>den som har hand om<br>handlingen |
 | B 6 | Beslut om avvisande av för<br>sent inkomna<br>överklaganden och | FC | X | 45 § FvL | Gäller inte vid<br>laglighetsprövning.<br>Endast förvaltningsrätten |
-
-<!-- sida 171 -->
-
-Delegeringsf örteckning      Sida 15 av 25
-
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
 |  | prövning om beslutet är<br>överklagningsbart. |  |  |  | får göra<br>rättidsprövningen vid<br>laglighetsprövning. |
-| --- | --- | --- | --- | --- | --- |
 | B 7 | Utse ombud med rätt att<br>föra talan i alla mål och<br>ärenden som enligt lag eller<br>annan författning<br>ankommer på nämnden eller<br>på annat sätt faller inom<br>nämndens ansvarsområde | FC |  | Gemensamt<br>reglemente för<br>kommunstyrelsen<br>och övriga nämnder i<br>Kungsbacka<br>kommun |  |
 | B 8 | Avslå och avvisa begäran<br>om att få ärendet avgjort<br>inom fyra veckor | FC | X | 12 § FL | Om ett ärende som har<br>inletts av en enskild part<br>inte har avgjorts i första<br>instans senast inom sex<br>månader, får parten<br>skriftligen begära att<br>myndigheten ska avgöra<br>ärendet. |
 | B 9 | Utse dataskyddsombud för<br>nämnden. | FC |  | Dataskydds-<br>förordningen,<br>artikel 37 | Dataskyddsombudet ska<br>utses på grundval av<br>yrkesmässiga<br>kvalifikationer och<br>sakkunskap om<br>lagstiftning och praxis<br>avseende dataskydd samt<br>förmågan att fullgöra de<br>uppgifter som avses i<br>artikel 39. |
 | B<br>10 | Teckna avtal om<br>personuppgiftsbiträdes<br>behandling av<br>personuppgifter för den<br>personuppgiftsansvariges<br>räkning. | FC | X | Dataskydds-<br>förordningen artikel<br>28 | Skriftligt personuppgifts-<br>biträdesavtal (PuB-avtal)<br>ska tecknas i de fall<br>någon annan aktör<br>behandlar<br>personuppgifter för den<br>personuppgifts-ansvarige<br>nämndens räkning. |
 | B<br>11 | Utredning och beslut om<br>åtgärder i ärende om<br>personuppgiftsincident.<br>Delegeringen omfattar<br>anmälan till<br>Datainspektionen i<br>förekommande fall, samt<br>yttrande i ärende som med<br>anledning av en anmälan<br>inleds av Datainspektionen. | FC | X | Dataskydds-<br>förordningen artikel<br>33 och 34 |  |
-
-<!-- sida 172 -->
-
-Delegeringsf örteckning      Sida 16 av 25
-
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
 | B<br>12 | Besluta om att helt eller<br>delvis avslå framställan om<br>begäran om utövande av<br>registrerades rättigheter | FC | X | Dataskydds-<br>förordningen och<br>dataskyddslagen |  |
-| --- | --- | --- | --- | --- | --- |
 | B<br>13 | Fastställa<br>kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | FC | X | Dataskydds-<br>förordningen artikel<br>30 |  |
 | B<br>14 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd | FC |  | Dataskydds-<br>förordningen artikel<br>35 |  |
 | B<br>15 | Utse arkivansvarig | FC |  | AL § 4,5 |  |
@@ -7032,43 +7050,43 @@ Delegeringsf örteckning      Sida 16 av 25
 | B<br>17 | Fastställa<br>informationshanteringsplan | FC |  |  | Förändrad<br>informationshanteringsplan<br>ska alltid samrådas med<br>kommunens<br>arkivmyndighet. |
 | B<br>18 | Anmälan Lex Maria | FC | X | Patientsäkerhetslagen<br>kap 3 § 5 |  |
 
+<!-- sida 171 -->
+
+Delegeringsf örteckning      Sida 15 av 25
+
+<!-- sida 172 -->
+
+Delegeringsf örteckning      Sida 16 av 25
+
 <!-- sida 173 -->
 
 C Ekonomi
 
 Delegeringsf örteckning      Sida 17 av 25
 
-[Tabell 173-1](handlingar.tabeller/173-1.csv)
+[Tabell 173-175-1](handlingar.tabeller/173-175-1.csv)
 
 | Nr | Delegeringens<br>omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Lagrum/<br>Beslutsgrund | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | C 1 | Beslut om upphandling<br>inom nämndens<br>verksamhetsområde.<br>Beslutanderätten<br>innefattar följande:<br>- Beslut att inleda<br>upphandling<br>- Beslut att godkänna<br>tilldelning, gäller<br>även återta<br>tilldelning<br>- Beslut att<br>underteckna avtal<br>efter att avtalsspärren<br>löpt ut alternativt<br>efter att domstol<br>avslagit ansökan om<br>överprövning<br>- Beslut att avbryta<br>upphandling, gäller<br>även återta<br>avbrytande<br>- Beslut om ändring<br>och tillägg till avtal<br>- Beslut om<br>uppsägning eller<br>hävning av avtal | FC | X | Kommunens<br>tillämpnings-<br>anvisningar för<br>upphandlingspolicy | Beslutsrätten gäller inom<br>budgetansvar för<br>respektive<br>ansvarsområde och i<br>enlighet med gällande<br>upphandlingsregler. Vid<br>större upphandlingar som<br>har långsiktig effekt, ska<br>nämnden/utskottet<br>informeras innan<br>upphandling sker. Inför<br>beslut ska samråd alltid<br>ske med Service Inköp. |
 | C 2 | Teckna avtal inom<br>ramen för tilldelad<br>budget | FC | X |  | Tillämpas ej vid<br>upphandling, se C.1.<br>Avtal gällande<br>interkommunala<br>placeringar regleras i<br>A.5.<br>Vid beslut ska regelverk<br>kring exempelvis<br>upphandling, ramavtal<br>och inköp beaktas. |
 | C 3 | Beslut om<br>förvaltningsbudget<br>med fördelning på<br>verksamhetsnivå | FC |  | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell |  |
-
-<!-- sida 174 -->
-
-Delegeringsf örteckning      Sida 18 av 25
-
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
-
 | C 4 | Beslut om att avskriva<br>utestående fordringar<br>upp till ett<br>prisbasbelopp. | FC | X | Regler för<br>kommunens<br>likvidplanering,<br>krav- och inkasso-<br>verksamhet och<br>kontanthantering<br>Fastställt av<br>kommun-<br>fullmäktige 2010-<br>09-07, § 160 |  |
-| --- | --- | --- | --- | --- | --- |
 | C 5 | Avstängning vid<br>obetalda avgifter för<br>förskola, fritidshem,<br>pedagogisk omsorg | FC | X | Nämndens<br>fastställda regler<br>för förskola,<br>fritidshem och<br>annan pedagogisk<br>omsorg |  |
 | C 6 | Beslut om användning<br>av donationsmedel | FC | X |  |  |
 | C 7 | Rätt att ansöka om<br>statsbidrag, EU-bidrag<br>och andra bidrag för<br>nämndens vägnar | FC | X |  |  |
 | C 8 | Utse beslutsattestanter<br>och ersättare för<br>nämndens<br>verksamheter | FC | X | Attestreglementet | Anmäls till nämnd en<br>gång per år. |
 | C 9 | Tecknande och<br>uppsägning av<br>hyresavtal för interna<br>lokaler. | FC | x |  | Avtal avseende lokaler<br>beslutade i kommunens<br>lokalplan/kommunbudget<br>är verkställighet.<br>Delegationen omfattar<br>både uppdrag till<br>hyresvärden och dels att<br>godkänna avtalsförslag<br>och internkontrakt.<br>Serviceförvaltningen är<br>hyresvärd och tecknar<br>avtal för både interna och<br>externa lokaler.<br>Vår lokalpolicy KF §<br>153, 2014-11-11,<br>Riktlinjer för internhyra<br>av lokaler 2014-09-02<br>Anmäls ej. |
+| C<br>10 | Tecknande och<br>uppsägning av<br>hyresavtal för externa<br>lokaler. | FC |  |  | Avtal avseende lokaler<br>beslutade i kommunens<br>lokalplan/kommunbudget<br>är verkställighet.<br>Serviceförvaltningen är<br>hyresvärd och tecknar<br>avtal för både interna och<br>externa lokaler. Förskola<br>& Grundskola får inte<br>teckna egna avtal med<br>extern hyresvärd.<br>Delegationen omfattar<br>både uppdrag till<br>hyresvärden och dels att<br>godkänna avtalsförslag<br>och internkontrakt.<br>Vår lokalpolicy KF §<br>153, 2014-11-11,<br>Riktlinjer för internhyra<br>av lokaler 2014-09-02<br>Anmäls ej. |
+| C<br>12 | Teckna<br>entreprenadavtal med<br>annan part för att<br>utföra omsorg på<br>obekväm arbetstid | FC |  | Skollagen kap 23 §<br>2 och 8 | Se NFG § 36 2024-04-<br>24, Regler för omsorg på<br>obekväm tid |
+
+<!-- sida 174 -->
+
+Delegeringsf örteckning      Sida 18 av 25
 
 <!-- sida 175 -->
 
 Delegeringsf örteckning      Sida 19 av 25
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
-| C<br>10 | Tecknande och<br>uppsägning av<br>hyresavtal för externa<br>lokaler. | FC |  |  | Avtal avseende lokaler<br>beslutade i kommunens<br>lokalplan/kommunbudget<br>är verkställighet.<br>Serviceförvaltningen är<br>hyresvärd och tecknar<br>avtal för både interna och<br>externa lokaler. Förskola<br>& Grundskola får inte<br>teckna egna avtal med<br>extern hyresvärd.<br>Delegationen omfattar<br>både uppdrag till<br>hyresvärden och dels att<br>godkänna avtalsförslag<br>och internkontrakt.<br>Vår lokalpolicy KF §<br>153, 2014-11-11,<br>Riktlinjer för internhyra<br>av lokaler 2014-09-02<br>Anmäls ej. |
-| --- | --- | --- | --- | --- | --- |
-| C<br>12 | Teckna<br>entreprenadavtal med<br>annan part för att<br>utföra omsorg på<br>obekväm arbetstid | FC |  | Skollagen kap 23 §<br>2 och 8 | Se NFG § 36 2024-04-<br>24, Regler för omsorg på<br>obekväm tid |
 
 <!-- sida 176 -->
 
@@ -7077,7 +7095,7 @@ Beslut om anställning omfattar både tillsvidare- och visstidsanställningar.
 
 Delegeringsf örteckning      Sida 20 av 25
 
-[Tabell 176-1](handlingar.tabeller/176-1.csv)
+[Tabell 176-177-1](handlingar.tabeller/176-177-1.csv)
 
 | Nr | Delegeringens<br>omfattning | Delegerat<br>till | Med rätt att<br>vidare-delegera | Lagrum/<br>Beslutsgrund | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -7085,23 +7103,19 @@ Delegeringsf örteckning      Sida 20 av 25
 | D 1 | Personal direkt<br>underställda<br>förvaltningschefen<br>Tillsvidareanställning<br>och tidsbegränsade<br>anställningar längre<br>än 6 månader. | FC |  | LAS, kollektivavtal,<br>lönepolicy mm | Samråd med Au vid<br>chefsrekrytering<br>under<br>rekryteringsprocessen<br>och/eller innan<br>anställning<br>Tidsbegränsad<br>anställning kortare än<br>6 månader är<br>verkställighet.<br>Innefattar<br>lönesättning enligt<br>Kungsbackas<br>lönestruktur och<br>samtliga övriga<br>anställningsvillkor. |
 | D 2 | Övriga medarbetare<br>Tillsvidareanställning<br>och tidsbegränsade<br>anställningar längre<br>än 6 månader. | FC | X | 2 kap. 13-30 §§ SL,<br>LAS, kollektivavtal,<br>lönestruktur mm | Registerutdrag ska<br>inhämtas, 2 kap. 31 §<br>SL.<br>Tidsbegränsad<br>anställning kortare än<br>6 månader är<br>verkställighet.<br>Innefattar<br>lönesättning enligt<br>Kungsbackas<br>lönestruktur och<br>samtliga övriga<br>anställningsvillkor.<br>Vidaredelegeringen<br>gäller för anställning<br>av personal inom sitt<br>respektive<br>ansvarsområde. |
 | D 3 | Avstängning | FC | X | AB § 10 mom 1-3 | I samråd med HR på<br>förvaltningen |
-
-<!-- sida 177 -->
-
-\:
-
-Delegeringsf örteckning      Sida 21 av 25
-
-[Tabell 177-1](handlingar.tabeller/177-1.csv)
-
 | D 4 | Disciplinpåföljd -<br>skriftlig varning. | FC | X | AB § 11 | Samråd ska ske med<br>berörd HR-konsult<br>innan beslut. |
-| --- | --- | --- | --- | --- | --- |
 | D 5 | Uppsägning<br>personliga skäl | FC | X | LAS 7 § | Beslut efter dialog<br>med FC och<br>förhandlingschef |
 | D 6 | Avsked | FC | X | LAS 18 § | I samråd med HR på<br>förvaltningen och<br>förhandlingschef |
 | D 7 | Uppsägning på grund<br>av arbetsbrist | FC | X | LAS 7 § | Beslut efter dialog<br>med FC. |
 | D 8 | Avsluta anställning<br>enligt särskild<br>överenskommelse | FC | X – dock inte<br>nivå underställd<br>VC | Gemensamt<br>reglemente för<br>kommunstyrelsen<br>och nämnder i<br>Kungsbacka<br>kommun" | I samråd med HR-<br>chef |
 | D 9 | Förbud mot bisyssla | FC | X | LOA 7 c § AB 8 § | I samråd med HR på<br>förvaltningen i<br>enlighet med ”Regler<br>för bisyssla i<br>Kungsbacka<br>kommun” |
 | D 10 | Beslut om att<br>använda lärare eller<br>förskolelärare utan<br>legitimation och/eller<br>behörighet för att<br>bedriva undervisning<br>högst ett år | FC | X | 2 kap. 18-19 §§ SL |  |
+
+<!-- sida 177 -->
+
+\:
+
+Delegeringsf örteckning      Sida 21 av 25
 
 <!-- sida 178 -->
 
@@ -7444,7 +7458,7 @@ Fördelat på kön
 
 <!-- sida 187 -->
 
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
+[Tabell 187-188-1](handlingar.tabeller/187-188-1.csv)
 
 | Ansökningsdatum | ÄrendeID | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -7488,13 +7502,7 @@ Fördelat på kön
 | 2025-01-27 11:32 | 182540 | A 4.1 | Beviljad |
 | 2025-01-27 11:32 | 182547 | A 4.1 | Beviljad |
 | 2025-01-27 11:56 | 182561 | A 4.1 | Beviljad |
-
-<!-- sida 188 -->
-
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
-
 | 2025-01-27 12:48 | 182623 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-01-28 09:16 | 182935 | A 4.1 | Avslag |
 | 2025-01-28 09:16 | 182936 | A 4.1 | Avslag |
 | 2025-01-28 13:24 | 183126 | A 4.1 | Beviljad |
@@ -7519,3 +7527,5 @@ Fördelat på kön
 | 2025-02-10 00:00 | 0-20250210-132459 | A 4.1 | Avslag |
 | 2025-02-11 11:24 | 186060 | A 4.1 | Beviljad |
 | 2025-02-12 00:00 | 0-20250212-111359 | A 4.1 | Beviljad |
+
+<!-- sida 188 -->

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.27feba1191e4e1dafb87ec5/17264898332
 sha256: 2bd48d49f49734d182da0cf073bea24e48b03d5ca6da26b26e20461966f0fb52
 bytes: 46111
 sidor: 4
-hamtad: 2026-10-08T02:23:09+00:00
-konverterad: 2026-10-08T02:23:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:01:26+00:00
+konverterad: 2026-10-14T10:01:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,17 +65,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Yttrande på remiss -<br>Promemorian Bättre<br>förutsättningar för att utveckla<br>en kunskapsbaserad socialtjänst<br>(Ds 2024:13)<br>Torun Ljungman,<br>utvecklingsledare | IF-2024-<br>00235 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg avger<br>yttrande på remissen, Promemorian Bättre<br>förutsättningar för att utveckla en kunskapsbaserad<br>socialtjänst (Ds 2024:23) till kommunstyrelsen. |
 | 8. | Överenskommelse om Idéburet<br>Offentligt Partnerskap (IOP) för<br>arbete med Bostad Först<br>Ivan Stipic, förvaltningschef | IF-2024-<br>00099 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg ger<br>ordförande uppdrag att underteckna<br>överenskommelse om Idéburet Offentligt<br>Partnerskap (IOP) för arbete med Bostad Först.<br>Nämnden delegerar till förvaltningschef att göra<br>erforderliga ändringar i överenskommelse under<br>överenskommelsens löptid. |
 | 9. | Delårsrapport för God och Nära<br>Vård och Omsorg 2024<br>Märta Lycken, utvecklingschef | IF-2023-<br>00275 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>delårsrapport för God och Nära Vård och Omsorg<br>2024. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Tidplan för sammanträden 2025<br>Josefine Jönsson,<br>nämndsekreterare | IF-2022-<br>00213 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg fastställer<br>tidplan för sammanträden och planeringsdagar 2025. |
 | 11. | Systematiskt arbetsmiljöarbete,<br>SAM<br>Julia Wilholm, personalchef | IF-2024-<br>00046 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 12. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>kvartal 2 2024<br>Renate Rondolph,<br>verksamhetschef | IF-2024-<br>00108 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisning av ej verkställda gynnande beslut enligt<br>socialtjänstlagen, SoL, och enligt lag om stöd och<br>service till vissa funktionshindrade, LSS, för kvartal<br>2 2024. |
@@ -83,6 +72,15 @@ KUNGSBACKA  KOMMUN
 | 14. | Anmälan av delegeringsbeslut | IF-2023-<br>00003 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av delegeringsbeslut fattade under<br>perioden 2024-06-01 - 2024-08-31. |
 | 15. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
 | 16. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
+| 17. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
+| 18. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
+| 19. | Ansökan om särskilt förordnad<br>vårdnadshavare, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00119 | Förslag till beslut<br>Sekretessärende<br>Nämnden för Individ & Familjeomsorg ger<br>ordförande i uppdrag att underteckna<br>stämningsansökan. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -92,11 +90,3 @@ KUNGSBACKA  KOMMUN
 
 Tommy Rydfeldt (L)                Josefine Jönsson
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
-| 18. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
-| 19. | Ansökan om särskilt förordnad<br>vårdnadshavare, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00119 | Förslag till beslut<br>Sekretessärende<br>Nämnden för Individ & Familjeomsorg ger<br>ordförande i uppdrag att underteckna<br>stämningsansökan. |

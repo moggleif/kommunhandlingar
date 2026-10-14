@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70621c28/1772193224
 sha256: d03cecb7bb39a9601821b8ab17b6d24038f86562296403981a5d5d8e34c3c803
 bytes: 17905745
 sidor: 192
-hamtad: 2026-10-08T01:51:10+00:00
-konverterad: 2026-10-08T01:56:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:33:53+00:00
+konverterad: 2026-10-14T09:37:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [12, 13, 14, 15, 16, 19, 23, 34, 43, 44, 49, 50, 51, 52, 53, 59, 183]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [12, 13, 14, 15, 16, 19, 23, 34, 43, 44, 49, 50, 51, 52, 53, 54, 59, 183]
+figurer: [2, 3, 4, 9, 10, 12, 13, 14, 15, 16, 17, 20, 21, 24, 25, 31, 35, 48, 54, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75, 77, 78, 79, 83, 86, 87, 88, 89, 90, 91, 92, 118, 119, 120, 122, 123, 124, 126, 127, 128, 129, 130, 136, 137, 139, 140, 141, 144, 145, 147, 148, 150, 157, 158, 159, 160, 161, 164, 174, 175, 176, 187, 190]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -302,29 +302,140 @@ M:\Uppdrag\Kungsbacka\Vallby\865047\gt\Beskr-PM\Fält-geo.doc
 
 BILAGA 1:1
 
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
+GF FÄLTGEOTEKNIK AB, BOX 5056,    Sammanställning av
+402 22 GÖTEBORG telefon 031-335 50 00 LABORATORIEUNDERSÖKNINGAR
+Provtagningsdatum: 2004-04-28
+Uppdrag
+Provtagningsredskap: Skr
+LABORATORIEUNDERSÖKNINGAR         Kungsbacka
+Ramböll Sverige AB
+Vallby 7:12
+BOX 5343, 402 27 Göteborg
+Telefon 031 - 335 33 00
+Godkänd den 2004-05-17
+Uppdragsnummer
+Lennart Nilsson
+Vatten- Tjälfarl Mtrl.typ
+Sektion/borrhål                              kvot grupp enl tab CB/1
+Benämning                                  Anm
+Djup/nivå                                    w       AnlAMA 98
+%
+Linje1
+146   Uppmät vy i bh 1,0 mumy (040422)
 
-| GF FÄLTGEOTEKNIK AB, BOX 5056,<br>402 22 GÖTEBORG telefon 031-335 50 00<br>Provtagningsdatum: 2004-04-28<br>Provtagningsredskap: Skr<br>LABORATORIEUNDERSÖKNINGAR<br>Ramböll Sverige AB<br>BOX 5343, 402 27 Göteborg<br>Telefon 031 - 335 33 00<br>Godkänd den 2004-05-17<br>Lennart Nilsson |  | Sammanställning av<br>LABORATORIEUNDERSÖKNINGAR |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | Uppdrag<br>Kungsbacka<br>Vallby 7:12 |  |  |  |  |
-|  |  | Uppdragsnummer |  |  |  |  |
-| Sektion/borrhål<br>Djup/nivå | Benämning |  | Vatten-<br>kvot<br>w<br>% | Tjälfarl<br>grupp | Mtrl.typ<br>enl tab CB/1<br>AnlAMA 98 | Anm |
-| Linje1<br>146<br>0,0-0,4<br>-0,7<br>-1,0<br>-1,1<br>-1,6<br>-2,6<br>-3,0<br>Linje1<br>163<br>0,0-0,5<br>-0,6<br>-0,8<br>-1,3<br>-2,0<br>-2,1<br>-2,6<br>-3,0<br>Linje1<br>410<br>0,0-0,3<br>-1,0<br>-1,7<br>-2,0<br>-3,0<br>Linje2<br>120_A<br>0,0-0,3<br>-0,35<br>-1,6<br>-2,0<br>-3,0<br>Linje3<br>200_B<br>0,0-0,2<br>-0,4<br>-1,1<br>-1,5<br>-2,0<br>-3,0 | Uppmät vy i bh 1,0 mumy (040422)<br>grus Sand<br>mulljord San<br>Grå rostfl siltig SAND<br>Grå ngt siltig grusig SAND<br>Grå ngt lerig SILT<br>Grå siltig LERA<br>Grå siltig LERA<br>Uppmät vy i bh 1,8 mumy (040423)<br>grus Sand<br>grus Sand<br>Brun sandig MULLJORD<br>Grå rostfl siltig FINSAND<br>Grå siltig lerig FINSAND<br>Grå siltig lerig FINSAND<br>Grå finsandig lerig SILT<br>Grå finsandig siltig LERA<br>Uppmät vy i bh 2,0 mumy (040426)<br>MULLJORD<br>Grå rostfl TORRSKORPELERA<br>Grå LERA<br>Grå LERA<br>Grå siltig LERA<br>Uppmät vy i bh 0,0 mumy (040426)<br>MULLJORD<br>Grå siltig FINSAND<br>Grå rostfl TORRSKORPELERA<br>Grå LERA<br>Grå siltig LERA<br>Uppmät vy i bh 1,9 mumy (040423)<br>MULLJORD<br>grus Sand<br>Grå SAND<br>Grå rostfl TORRSKORPELERA<br>Grå TORRSKORPELERA<br>Grå LERA |  |  | 1<br>1<br>2<br>1<br>4<br>4<br>4<br>1<br>1<br>4<br>3<br>3<br>3<br>4<br>4<br>1<br>3<br>3<br>3<br>4<br>1<br>3<br>3<br>3<br>4<br>1<br>1<br>1<br>3<br>3<br>3 | 2<br>6B<br>3B<br>2<br>5A<br>5A<br>5A<br>2<br>2<br>6A<br>4A<br>4A<br>4A<br>5A<br>5A<br>6B<br>4B<br>4B<br>4B<br>5A<br>6B<br>4A<br>4B<br>4B<br>5A<br>6B<br>2<br>2<br>4B<br>4B<br>4B | enl fältprotokoll<br>enl fältprotokoll<br>enl fältprotokoll |
-|  |  |  |  |  |  |  |
+```osaker-tabell
+0,0-0,4 grus Sand                                1      2
+ -0,7  mulljord San                             1      6B
+ -1,0  Grå rostfl siltig SAND                    2    3B
+ -1,1  Grå ngt siltig grusig SAND                1    2
+ -1,6  Grå ngt lerig SILT                        4    5A
+ -2,6  Grå siltig LERA                           4    5A
+ -3,0  Grå siltig LERA                           4    5A
+```
+
+Linje1
+163   Uppmät vy i bh 1,8 mumy (040423)
+
+```osaker-tabell
+0,0-0,5 grus Sand                                 1     2
+ -0,6  grus Sand                                  1     2
+ -0,8  Brun sandig MULLJORD                      4    6A
+ -1,3  Grå rostfl siltig FINSAND                 3    4A
+ -2,0  Grå siltig lerig FINSAND                  3    4A
+ -2,1  Grå siltig lerig FINSAND                  3    4A
+ -2,6  Grå finsandig lerig SILT                  4    5A
+ -3,0  Grå finsandig siltig LERA                 4    5A
+```
+
+Linje1
+410   Uppmät vy i bh 2,0 mumy (040426)
+0,0-0,3 MULLJORD                                 1    6B   enl fältprotokoll
+
+```osaker-tabell
+-1,0  Grå rostfl TORRSKORPELERA                 3    4B
+-1,7  Grå LERA                                  3    4B
+-2,0  Grå LERA                                  3    4B
+-3,0  Grå siltig LERA                           4    5A
+```
+
+Linje2
+120_A  Uppmät vy i bh 0,0 mumy (040426)
+0,0-0,3 MULLJORD                                 1    6B   enl fältprotokoll
+
+```osaker-tabell
+-0,35  Grå siltig FINSAND                        3    4A
+ -1,6  Grå rostfl TORRSKORPELERA                 3    4B
+ -2,0  Grå LERA                                  3    4B
+ -3,0  Grå siltig LERA                           4    5A
+```
+
+Linje3
+200_B  Uppmät vy i bh 1,9 mumy (040423)
+0,0-0,2 MULLJORD                                 1    6B   enl fältprotokoll
+
+```osaker-tabell
+-0,4  grus Sand                                 1      2
+-1,1  Grå SAND                                  1    2
+-1,5  Grå rostfl TORRSKORPELERA                 3    4B
+-2,0  Grå TORRSKORPELERA                        3    4B
+-3,0  Grå LERA                                  3    4B
+```
 
 <!-- sida 10 -->
 
 BILAGA 1:2
 
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
+GF FÄLTGEOTEKNIK AB, BOX 5056,    Sammanställning av
+402 22 GÖTEBORG telefon 031-335 50 00 LABORATORIEUNDERSÖKNINGAR
+Provtagningsdatum: 2004-04-28
+Uppdrag
+Provtagningsredskap: Skr
+LABORATORIEUNDERSÖKNINGAR         Kungsbacka
+Ramböll Sverige AB
+Vallby 7:12
+BOX 5343, 402 27 Göteborg
+Telefon 031 - 335 33 00
+Godkänd den 2004-05-17
+Uppdragsnummer
+Lennart Nilsson
+Vatten- Tjälfarl Mtrl.typ
+Sektion/borrhål                              kvot grupp enl tab CB/1
+Benämning                                  Anm
+Djup/nivå                                    w       AnlAMA 98
+%
+Linje4
+1_C    Uppmät vy i bh 1,9 mumy (040423)
+0,0-0,25 MULLJORD                                 1    6B   enl fältprotokoll
 
-| GF FÄLTGEOTEKNIK AB, BOX 5056,<br>402 22 GÖTEBORG telefon 031-335 50 00<br>Provtagningsdatum: 2004-04-28<br>Provtagningsredskap: Skr<br>LABORATORIEUNDERSÖKNINGAR<br>Ramböll Sverige AB<br>BOX 5343, 402 27 Göteborg<br>Telefon 031 - 335 33 00<br>Godkänd den 2004-05-17<br>Lennart Nilsson |  | Sammanställning av<br>LABORATORIEUNDERSÖKNINGAR |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | Uppdrag<br>Kungsbacka<br>Vallby 7:12 |  |  |  |  |
-|  |  | Uppdragsnummer |  |  |  |  |
-| Sektion/borrhål<br>Djup/nivå | Benämning |  | Vatten-<br>kvot<br>w<br>% | Tjälfarl<br>grupp | Mtrl.typ<br>enl tab CB/1<br>AnlAMA 98 | Anm |
-| Linje4<br>1_C<br>0,0-0,25<br>-0,7<br>-1,0<br>-1,4<br>-2,0<br>-3,0<br>Linje5<br>1_D<br>0,0-1,1<br>-1,7<br>-2,5<br>-3,0<br>Linje5<br>13_D<br>0,0-0,25<br>-0,7<br>-1,0<br>-2,0<br>-2,6<br>-3,0 | Uppmät vy i bh 1,9 mumy (040423)<br>MULLJORD<br>grus Sand<br>grus Sand /<br>Grå grusig SAND<br>Grå SAND<br>Grå siltig FINSAND<br>Uppmät vy i bh 1,5 mumy (040428)<br>grus Sand<br>grus Sand<br>Grå sandig siltig LERA<br>Brungrå finsandig siltig LERA<br>Uppmät vy i bh 1,5 mumy (040428)<br>MULLJORD<br>Brun sandig MULLJORD<br>grus Sand /<br>Grå siltig FINSAND<br>Grå siltig FINSAND<br>Grå siltig FINSAND |  |  | 1<br>1<br>1<br>1<br>1<br>3<br>1<br>1<br>4<br>4<br>1<br>4<br>1<br>3<br>3<br>3 | 6B<br>2<br>2<br>2<br>2<br>4A<br>2<br>2<br>5A<br>5A<br>6B<br>6A<br>2<br>4A<br>4A<br>4A | enl fältprotokoll<br>enl fältprotokoll |
-|  |  |  |  |  |  |  |
+```osaker-tabell
+-0,7  grus Sand                                 1      2
+-1,0  grus Sand /                                1     2
+-1,4  Grå grusig SAND                           1    2
+-2,0  Grå SAND                                  1    2
+-3,0  Grå siltig FINSAND                        3    4A
+```
+
+Linje5
+1_D    Uppmät vy i bh 1,5 mumy (040428)
+
+```osaker-tabell
+0,0-1,1 grus Sand                                1      2
+ -1,7  grus Sand                                  1     2
+ -2,5  Grå sandig siltig LERA                    4    5A
+ -3,0  Brungrå finsandig siltig LERA             4    5A
+```
+
+Linje5
+13_D   Uppmät vy i bh 1,5 mumy (040428)
+0,0-0,25 MULLJORD                                 1    6B   enl fältprotokoll
+
+```osaker-tabell
+-0,7  Brun sandig MULLJORD                      4    6A
+-1,0  grus Sand /                                1     2
+-2,0  Grå siltig FINSAND                        3    4A
+-2,6  Grå siltig FINSAND                        3    4A
+-3,0  Grå siltig FINSAND                        3    4A
+```
 
 <!-- sida 11 -->
 
@@ -4568,7 +4679,7 @@ miljökonsekvensbeskrivning.
 
 Platsens förutsättningar
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+[Tabell 98-99-1](handlingar.tabeller/98-99-1.csv)
 
 | Nuvarande mark- eller<br>vattenanvändning (Kort<br>beskrivning) | Marken i området består av flack åkermark med ett kuperat<br>skogsområde i anknytning där berg i dagen förekommer. |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -4582,6 +4693,10 @@ Platsens förutsättningar
 | Ekologiskt känsliga områden<br>(Områden som enl. ÖP är ekologiskt<br>särskilt känsliga eller opåverkade) | X |  |  |  |
 | Skyddsavstånd<br>(Industrier, djurhållning, kraftledningar<br>etc.) | X |  |  |  |
 | Övriga störningar (buller, ljus,<br>lukt, strålning etc.) |  |  | X | Norr om området ligger motorbanan<br>Annebergsbanan. Beräkningar har gjorts för<br>bullernivåer från motorbanan med bland annat |
+|  |  |  |  | folkracetävlingar. Området ligger på ett sådant<br>avstånd från bullerkällan att åtgärder inte är<br>nödvändigt. |
+| Geotekniska svårigheter eller<br>förorenad mark | X |  |  |  |
+| Högt exploateringstryck/ är<br>redan högexploaterat | X |  |  |  |
+| (Risk för) Överskridna<br>miljökvalitetsnormer | X |  |  | Första recipient är Munkån, som har måttlig<br>ekologisk status & god kemisk status (med<br>undantag för överallt överskridna ämnen) och<br>ska nå god ekologisk status till år 2027. Status<br>för Fysikalisk-kemisk kvalitetsfaktor är god med<br>undantag för näringsämnen.<br>Planområdet ingår i Himleåns avrinningsområde<br>med recipient Balgöarkipelagen. Balgö-<br>arkipelagen har måttlig ekologisk status och<br>god kemisk status (kvicksilver undantaget), och<br>ska nå god ekologisk statuts till år 2027. |
 
 <!-- sida 99 -->
 
@@ -4599,14 +4714,6 @@ gränsöverskridande karaktär,
 
 [Tabell 99-1](handlingar.tabeller/99-1.csv)
 
-|  |  |  |  | folkracetävlingar. Området ligger på ett sådant<br>avstånd från bullerkällan att åtgärder inte är<br>nödvändigt. |
-| --- | --- | --- | --- | --- |
-| Geotekniska svårigheter eller<br>förorenad mark | X |  |  |  |
-| Högt exploateringstryck/ är<br>redan högexploaterat | X |  |  |  |
-| (Risk för) Överskridna<br>miljökvalitetsnormer | X |  |  | Första recipient är Munkån, som har måttlig<br>ekologisk status & god kemisk status (med<br>undantag för överallt överskridna ämnen) och<br>ska nå god ekologisk status till år 2027. Status<br>för Fysikalisk-kemisk kvalitetsfaktor är god med<br>undantag för näringsämnen.<br>Planområdet ingår i Himleåns avrinningsområde<br>med recipient Balgöarkipelagen. Balgö-<br>arkipelagen har måttlig ekologisk status och<br>god kemisk status (kvicksilver undantaget), och<br>ska nå god ekologisk statuts till år 2027. |
-
-[Tabell 99-2](handlingar.tabeller/99-2.csv)
-
 | Planens innehåll och<br>omfattning (Kort beskrivning) | Syftet med detaljplanen är att tillskapa ca 130 nya bostäder i<br>varierande storlek och upplåtelseform. |  |  |  |
 | --- | --- | --- | --- | --- |
 | Faktor | Nej | Kanske | Ja | Kommentar |
@@ -4623,7 +4730,7 @@ gränsöverskridande karaktär,
 Undersökning               3 (4)
 2019-12-13
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 |  |  |  |  | möjligheter att avhjälpa påverkan<br>osv.) |
 | --- | --- | --- | --- | --- |
@@ -4643,6 +4750,13 @@ Undersökning               3 (4)
 | Ökad fordonstrafik / Ändrade<br>trafikförhållanden |  | X |  | Nya bostäder kommer att medföra<br>ökad trafik. |
 | Effekter som strider mot<br>långsiktiga centrala, regionala<br>eller lokala miljömål | X |  |  |  |
 | Överskridna<br>miljökvalitetsnormer (5 kap. MB) | X |  |  | Dagvatten från området kommer att<br>renas genom fördröjning i<br>dagvattendamm innan släpp till<br>Munkån.<br>Tillförande av dagvatten från<br>planområdet bedöms inte medföra |
+|  |  |  |  | negativ påverkan på<br>miljökvalitetsnormer på recipient. |
+| Buller (ökning av nuvarande ljudnivå<br>eller överskridna riktvärden) |  | X |  | Med ökad fordonstrafik kommer<br>bullernivåer att öka inom området. |
+| Förändrade ljusförhållanden<br>(bländande ljussken, skuggningar etc.) | X |  |  | Den befintliga bebyggelsen i<br>omgivningen kommer inte att<br>påverkas av skuggning. |
+| Obehaglig lukt | X |  |  |  |
+| Risker för människors säkerhet<br>(ökad olycksrisk för t.ex. explosion,<br>brand, strålning, utsläpp av hälsofarliga<br>ämnen, trafikolyckor, farligt gods etc.) | X |  |  |  |
+| Påverkan på den sociala miljön<br>(befolkningssammansättning,<br>delaktighet, jämställdhet, trygghet etc.) | X |  |  |  |
+| Behov av följdinvesteringar<br>(infrastruktur, vägar, VA, energi etc.) |  | X |  |  |
 
 <!-- sida 101 -->
 
@@ -4656,17 +4770,6 @@ STADSBYGGNADSKONTORET
 Love Gardtman, planarkitekt
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
-
-|  |  |  |  | negativ påverkan på<br>miljökvalitetsnormer på recipient. |
-| --- | --- | --- | --- | --- |
-| Buller (ökning av nuvarande ljudnivå<br>eller överskridna riktvärden) |  | X |  | Med ökad fordonstrafik kommer<br>bullernivåer att öka inom området. |
-| Förändrade ljusförhållanden<br>(bländande ljussken, skuggningar etc.) | X |  |  | Den befintliga bebyggelsen i<br>omgivningen kommer inte att<br>påverkas av skuggning. |
-| Obehaglig lukt | X |  |  |  |
-| Risker för människors säkerhet<br>(ökad olycksrisk för t.ex. explosion,<br>brand, strålning, utsläpp av hälsofarliga<br>ämnen, trafikolyckor, farligt gods etc.) | X |  |  |  |
-| Påverkan på den sociala miljön<br>(befolkningssammansättning,<br>delaktighet, jämställdhet, trygghet etc.) | X |  |  |  |
-| Behov av följdinvesteringar<br>(infrastruktur, vägar, VA, energi etc.) |  | X |  |  |
-
-[Tabell 101-2](handlingar.tabeller/101-2.csv)
 
 |  | Nej | Ja | Kommentar |
 | --- | --- | --- | --- |
@@ -4698,7 +4801,7 @@ varierande storlek och upplåtelseform. Området är ännu inte utbyggt enligt
 vattenanvändning    gällande detaljplans syfte. Nuvarande markanvändning i området består av
 (Kort beskrivning)  flack åkermark med ett kuperat skogsområde i angränsning.
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Planområdet berörs av | Nej | Kanske | Ja | Kommentar |
 | --- | --- | --- | --- | --- |
@@ -4706,6 +4809,13 @@ vattenanvändning    gällande detaljplans syfte. Nuvarande markanvändning i om
 | Riksintressen och särskilda<br>hushållningsbestämmelser<br>enl. 3-4 kap MB |  |  | X | Viskadalsbanan och väg 41 är utpekade<br>som riksintresse i enlighet med 3 kap.<br>miljöbalken. Ändring av detaljplan<br>innebär ingen påverkan på detta intresse.<br>För Hallandskusten gäller särskilda<br>hushållningsbestämmelser enligt 4 kap.<br>miljöbalken med hänsyn till natur- och<br>kulturvärden. Dessa bestämmelser utgör<br>inget hinder för utveckling av befintliga<br>tätorter. |
 | Skyddad natur/kultur enl.<br>7 kap MB<br>(biotopskydd, strandskydd,<br>vattenskyddsområde natur-<br>/kulturreservat etc.) |  |  | X | I området finns biotopskyddade<br>stengärdsgårdar som berörs av<br>biotopskyddet. En mindre del i<br>nordvästra planområdet omfattas av<br>strandskyddet. Ändring av detaljplan<br>innebär ingen påverkan på detta intresse. |
 | Byggnadsminne eller<br>fornminne |  |  | X | Arkeologisk utredning har genomförts för<br>hela fastigheten Göingegården 1:13 i<br>samband med planläggning av Södra<br>Göingegården. Mindre fynd av flinta är<br>hittat inom planområdet. Ändring av<br>detaljplan innebär ingen påverkan på<br>detta intresse. |
+| Höga kulturhistoriska<br>värden<br>(T.ex. områden som ingår i<br>kommunens bevarandeprogram eller<br>program för kulturmiljövård) | X |  |  |  |
+| Höga naturvärden<br>(T.ex. områden som ingår i<br>kommunens eller länsstyrelsens<br>naturvårdsprogram) |  | X |  | På naturområdet Trilsberg finns en<br>rödlistad art noterad, samt ett par<br>signalarter som tyder på naturvärden.<br>Ändring av detaljplan innebär ingen<br>påverkan på detta intresse. |
+| Ekologiskt känsliga<br>områden<br>(Områden som enligt ÖP är<br>ekologiskt särskilt känsliga eller<br>opåverkade) | X |  |  |  |
+| Skyddsavstånd<br>(Industrier, djurhållning,<br>kraftledningar etc.) | X |  |  |  |
+| Övriga störningar<br>(buller, ljus, lukt, strålning etc.) |  |  | X | I ursprungligt detaljplanarbete har<br>beräkningar av buller från väg- och<br>spårtrafik från Pilgatan, riksväg 41,<br>Viskadalsbanan, samt Annebergsbanan<br>genomförts. Ändring av detaljplan<br>innebär ingen förändring avseende detta. |
+| Geotekniska svårigheter<br>eller förorenad mark | X |  |  |  |
+| Högt exploateringstryck/är<br>redan högexploaterat | X |  |  |  |
 
 <!-- sida 103 -->
 
@@ -4721,24 +4831,18 @@ ska placeras minst 1 meter från fastighetsgräns. Detta för att möjliggöra
 uppförandet av par- rad-, och/eller kedjehus inom berörda delar av
 planområdet enligt gällande detaljplans ursprungliga intention.
 
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Planområdet berörs av | Nej | Kanske | Ja | Kommentar |
-| --- | --- | --- | --- | --- |
-| Höga kulturhistoriska<br>värden<br>(T.ex. områden som ingår i<br>kommunens bevarandeprogram eller<br>program för kulturmiljövård) | X |  |  |  |
-| Höga naturvärden<br>(T.ex. områden som ingår i<br>kommunens eller länsstyrelsens<br>naturvårdsprogram) |  | X |  | På naturområdet Trilsberg finns en<br>rödlistad art noterad, samt ett par<br>signalarter som tyder på naturvärden.<br>Ändring av detaljplan innebär ingen<br>påverkan på detta intresse. |
-| Ekologiskt känsliga<br>områden<br>(Områden som enligt ÖP är<br>ekologiskt särskilt känsliga eller<br>opåverkade) | X |  |  |  |
-| Skyddsavstånd<br>(Industrier, djurhållning,<br>kraftledningar etc.) | X |  |  |  |
-| Övriga störningar<br>(buller, ljus, lukt, strålning etc.) |  |  | X | I ursprungligt detaljplanarbete har<br>beräkningar av buller från väg- och<br>spårtrafik från Pilgatan, riksväg 41,<br>Viskadalsbanan, samt Annebergsbanan<br>genomförts. Ändring av detaljplan<br>innebär ingen förändring avseende detta. |
-| Geotekniska svårigheter<br>eller förorenad mark | X |  |  |  |
-| Högt exploateringstryck/är<br>redan högexploaterat | X |  |  |  |
-
-[Tabell 103-2](handlingar.tabeller/103-2.csv)
+[Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
 | Faktor | Nej | Kanske | Ja | Kommentar |
 | --- | --- | --- | --- | --- |
 | Planen medger en<br>användning av planområdet<br>för verksamheter som kräver<br>anmälan eller tillstånd enligt<br>miljöbalken. | X |  |  |  |
 | Planen medger en<br>användning av planområdet<br>för verksamheter som finns<br>angivna i 6 §<br>miljöprövningsförordningen. | X |  |  |  |
+| Planen medger en<br>användning av planområdet<br>för verksamheter som finns<br>angivna i PBL 4 kap 34 §. | X |  |  |  |
+| Planen strider mot andra<br>planer/projekt<br>(Översiktsplaner, detaljplaner, övriga<br>projekt) | X |  |  |  |
+| Planområdets läge bidrar till<br>långa fordonstransporter för<br>att nå service och andra<br>viktiga målpunkter. | X |  |  |  |
+| Planen har betydelse för<br>andra planers<br>miljöpåverkan. | X |  |  |  |
+| Planen kan bidra till att<br>miljökvalitetsnormer<br>överskrids<br>(5 kap. miljöbalken) | X |  |  |  |
+| Planen har betydelse för<br>genomförande av EU:s<br>miljölagstiftning<br>(gäller t.ex. vattendirektivet) | X |  |  |  |
 
 <!-- sida 104 -->
 
@@ -4755,33 +4859,12 @@ omfattning, gränsöverskridande
 karaktär, möjligheter att avhjälpa
 påverkan osv.)
 
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
-| Faktor | Nej | Kanske | Ja | Kommentar |
-| --- | --- | --- | --- | --- |
-| Planen medger en<br>användning av planområdet<br>för verksamheter som finns<br>angivna i PBL 4 kap 34 §. | X |  |  |  |
-| Planen strider mot andra<br>planer/projekt<br>(Översiktsplaner, detaljplaner, övriga<br>projekt) | X |  |  |  |
-| Planområdets läge bidrar till<br>långa fordonstransporter för<br>att nå service och andra<br>viktiga målpunkter. | X |  |  |  |
-| Planen har betydelse för<br>andra planers<br>miljöpåverkan. | X |  |  |  |
-| Planen kan bidra till att<br>miljökvalitetsnormer<br>överskrids<br>(5 kap. miljöbalken) | X |  |  |  |
-| Planen har betydelse för<br>genomförande av EU:s<br>miljölagstiftning<br>(gäller t.ex. vattendirektivet) | X |  |  |  |
-
-[Tabell 104-2](handlingar.tabeller/104-2.csv)
+[Tabell 104-106-1](handlingar.tabeller/104-106-1.csv)
 
 | Faktor | Ingen<br>påverkan | Påverkan | Betydande<br>påverkan | Kommentar |
 | --- | --- | --- | --- | --- |
 | Påverkan på marken<br>(instabilitet, sättningar, ras, skred,<br>erosion, vibrationer, föroreningar,<br>skada på värdefull geologisk formation<br>etc.) | X |  |  |  |
 | Påverkan på luften och<br>klimatet<br>(luftföroreningar, vindrörelser,<br>temperatur, luftfuktighet<br>ljusförhållanden etc.) | X |  |  |  |
-
-<!-- sida 105 -->
-
-Undersökning               4 (6)
-2021-09-15
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
-| Faktor | Ingen<br>påverkan | Påverkan | Betydande<br>påverkan | Kommentar |
-| --- | --- | --- | --- | --- |
 | Förändringar av grund- eller<br>ytvattnet<br>(kvalitet, flödesriktningar, nivåer,<br>mängd, etc., krävs vattendom?) | X |  |  |  |
 | Risk för översvämningar | X |  |  |  |
 | Svårigheter att lokalt<br>omhänderta dagvattnet | X |  |  |  |
@@ -4795,18 +4878,6 @@ Undersökning               4 (6)
 | Uttömmande av någon ej<br>förnyelsebar naturresurs<br>(grus- och bergtäkter, dricksvatten etc.) | X |  |  |  |
 | Ökad fordonstrafik /<br>Ändrade trafikförhållanden | X |  |  |  |
 | Effekter som strider mot<br>långsiktiga centrala,<br>regionala eller lokala<br>miljömål | X |  |  |  |
-
-<!-- sida 106 -->
-
-Undersökning               5 (6)
-2021-09-15
-
-Ställningstagande
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| Faktor | Ingen<br>påverkan | Påverkan | Betydande<br>påverkan | Kommentar |
-| --- | --- | --- | --- | --- |
 | Överskridna<br>miljökvalitetsnormer<br>(5 kap. MB) | X |  |  |  |
 | Buller<br>(ökning av nuvarande ljudnivå eller<br>överskridna riktvärden) | X |  |  |  |
 | Förändrade ljusförhållanden<br>(bländande ljussken, skuggningar etc.) |  | X |  | Konsekvensen av<br>genomförande av denna<br>ändring blir att<br>huvudbyggnad som<br>sammanbyggs med garage<br>eller carport kan placeras i<br>fastighetsgräns. Detta<br>möjliggör för uppförandet av<br>par- rad-, och/eller<br>kedjehus. Påverkan bedöms<br>som marginell. |
@@ -4815,12 +4886,27 @@ Ställningstagande
 | Påverkan på den sociala<br>miljön<br>(befolkningssammansättning,<br>delaktighet, jämställdhet, trygghet etc.) | X |  |  |  |
 | Behov av följdinvesteringar<br>(infrastruktur, vägar, VA, energi etc.) |  |  |  |  |
 
-[Tabell 106-2](handlingar.tabeller/106-2.csv)
+<!-- sida 105 -->
+
+Undersökning               4 (6)
+2021-09-15
+
+<!-- sida 106 -->
+
+Undersökning               5 (6)
+2021-09-15
+
+Ställningstagande
+
+[Tabell 106-107-1](handlingar.tabeller/106-107-1.csv)
 
 |  | Nej | Ja | Kommentar |
 | --- | --- | --- | --- |
 | Planen…<br>- innefattar<br>verksamheter/åtgärder<br>som kan krävas<br>tillstånd enligt 7 kap.<br>28 b § MB<br>(Natura 2000-tillstånd) | X |  |  |
 | Ett genomförande av<br>planen innebär i övrigt<br>negativa miljöeffekter som<br>var för sig är begränsade,<br>men som tillsammans kan<br>vara betydande | X |  |  |
+| Krävs samråd i frågan om<br>betydande miljöpåverkan<br>med kommuner,<br>länsstyrelser och andra<br>myndigheter som på<br>grund av sitt särskilda<br>miljöansvar kan antas bli<br>berörda av<br>planen/programmet? | X |  |  |
+| Ett genomförande av<br>planen innebär en<br>betydande miljöpåverkan<br>och en strategisk<br>miljöbedömning skall<br>göras. | X |  |  |
+| MKB-dokumentet bör<br>omfatta följande områden: |  |  |  |
 
 <!-- sida 107 -->
 
@@ -4829,14 +4915,6 @@ Undersökning               6 (6)
 
 Stadsbyggnadskontoret
 Handläggare John Ljungberg
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
-|  | Nej | Ja | Kommentar |
-| --- | --- | --- | --- |
-| Krävs samråd i frågan om<br>betydande miljöpåverkan<br>med kommuner,<br>länsstyrelser och andra<br>myndigheter som på<br>grund av sitt särskilda<br>miljöansvar kan antas bli<br>berörda av<br>planen/programmet? | X |  |  |
-| Ett genomförande av<br>planen innebär en<br>betydande miljöpåverkan<br>och en strategisk<br>miljöbedömning skall<br>göras. | X |  |  |
-| MKB-dokumentet bör<br>omfatta följande områden: |  |  |  |
 
 <!-- sida 108 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7118072419d9a48ae7711df/17764152013
 sha256: e0a56d9c72958e220b41e0463b79a2edc445c48f2e2a36def094d8d53a625999
 bytes: 20412871
 sidor: 196
-hamtad: 2026-10-07T22:30:33+00:00
-konverterad: 2026-10-07T22:32:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:42:23+00:00
+konverterad: 2026-10-14T06:43:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [32, 33, 38, 39, 40, 41, 42, 43, 44, 45, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [32, 33, 38, 39, 40, 41, 42, 43, 44, 45, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 150, 185]
+figurer: [53, 54, 128, 130, 131, 149, 150, 163, 168]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -430,18 +430,53 @@ det blir väl känt av alla medarbetare.
 
 4.1.1 Resultat
 
+Fråga        2021       2022      2023      2024       2025
+
+Tycker du att Medelvärde 4,5 Medelvärde 4 Medelvärde Medelvärde 4,3 Medelvärde 4,5
+det var positivt Median 5 Median 4 4Median 4 Median 4 Median 5
+att feriearbeta i
+Kungsbacka
+kommun?
+Tycker du att Medelvärde Medelvärde 4 Medelvärde 4 Medelvärde 4,3 Medelvärde 4,4
+det var lätt att 4,35 Median 5 Median 4 Median 4 Median 4 Median 4
+ansöka om
+feriejobb?
+Tycker du att du Medelvärde Medelvärde 4 Medelvärde 4 Medelvärde 3,8 Medelvärde 3,7
+fick nödvändig 3,85 Median 4 Median 4 Median 4 Median 4 Median 4
+information om
+feriejobbet
+innan start?
+Tycker du att du Medelvärde 4,4 Medelvärde 4 Medelvärde 4 Medelvärde 4,2 Medelvärde 4,3
+fick en bra Median 5 Median 4  Median 4  Median 4,5 Median 4
+introduktion på
+arbetsplatsen?
+
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2025 7(13)
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-| Fråga<br>Tycker du att<br>det var positivt<br>att feriearbeta i<br>Kungsbacka<br>kommun? | 2021<br>Medelvärde 4,5<br>Median 5 | 2022<br>Medelvärde 4<br>Median 4 | 2023<br>Medelvärde<br>4Median 4 | 2024<br>Medelvärde 4,3<br>Median 4 | 2025<br>Medelvärde 4,5<br>Median 5 |
-| --- | --- | --- | --- | --- | --- |
-| Tycker du att<br>det var lätt att<br>ansöka om<br>feriejobb? | Medelvärde<br>4,35 Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4,3<br>Median 4 | Medelvärde 4,4<br>Median 4 |
-| Tycker du att du<br>fick nödvändig<br>information om<br>feriejobbet<br>innan start? | Medelvärde<br>3,85 Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,8<br>Median 4 | Medelvärde 3,7<br>Median 4 |
-| Tycker du att du<br>fick en bra<br>introduktion på<br>arbetsplatsen? | Medelvärde 4,4<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4,2<br>Median 4,5 | Medelvärde 4,3<br>Median 4 |
 
 <!-- sida 12 -->
 
+Tycker du att Medelvärde 3,8 Medelvärde 4 Medelvärde 4 Medelvärde 3,8 Medelvärde 4,3
+det var lätt att Median 5 Median 4 Median 4 Median 4 Median 5
+tidsrapportera?
+Kan du tänka Medelvärde 4,1 Medelvärde 4 Medelvärde 4 Medelvärde 3,5 Medelvärde 4,1
+dig att arbeta i Median 5 Median 4 Median 4 Median 4 Median 5
+Kungsbacka
+kommun igen i
+framtiden?
+Hur fick du reda 15% genom 50% genom Genom Genom    Kommunens
+på möjligheten kommunens föräldrar, 27,9% kommunens kommunens hemsida 19,4 %
+att söka  hemsida ,25% genom   hemsida   hemsida 20% Skolan 30,6 %
+kommunalt genom     kompisar17.4% 17,4%Genom Skolan 31% Kompisar
+feriejobb? kompisar och genom  skolan    Kompisar 42% 13,9 %
+34 % genom kommunens 19,8%Genom Annons 7% Annons 2,8 %
+föräldrar hemsida, 19,8% kompisar Föräldrar 48% Föräldrar
+genom skolan 27,9%Genom Annat sätt 5% 33,3 %
+annons               Annat sätt 0%
+1,2%Genom
+föräldrar
+50,0%På annat
+sätt, nämligen:
+4,7%
 4.1.2 Analys
 
 2025 tillsattes 200 ferieplatser inom ramen för vår tidsperiod. Totalt sökte 422 ungdomar
@@ -474,13 +509,6 @@ Under 2025 har 31 avvikelser rapporterats in i DF Respons som är det kommungeme
 verksamhetssystemet för avvikelserrapportering och Lex Sarah.
 
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2025 8(13)
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-| Tycker du att<br>det var lätt att<br>tidsrapportera? | Medelvärde 3,8<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,8<br>Median 4 | Medelvärde 4,3<br>Median 5 |
-| --- | --- | --- | --- | --- | --- |
-| Kan du tänka<br>dig att arbeta i<br>Kungsbacka<br>kommun igen i<br>framtiden? | Medelvärde 4,1<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,5<br>Median 4 | Medelvärde 4,1<br>Median 5 |
-| Hur fick du reda<br>på möjligheten<br>att söka<br>kommunalt<br>feriejobb? | 15% genom<br>kommunens<br>hemsida ,25%<br>genom<br>kompisar och<br>34 % genom<br>föräldrar | 50% genom<br>föräldrar, 27,9%<br>genom<br>kompisar17.4%<br>genom<br>kommunens<br>hemsida, 19,8%<br>genom skolan | Genom<br>kommunens<br>hemsida<br>17,4%Genom<br>skolan<br>19,8%Genom<br>kompisar<br>27,9%Genom<br>annons<br>1,2%Genom<br>föräldrar<br>50,0%På annat<br>sätt, nämligen:<br>4,7% | Genom<br>kommunens<br>hemsida 20%<br>Skolan 31%<br>Kompisar 42%<br>Annons 7%<br>Föräldrar 48%<br>Annat sätt 5% | Kommunens<br>hemsida 19,4 %<br>Skolan 30,6 %<br>Kompisar<br>13,9 %<br>Annons 2,8 %<br>Föräldrar<br>33,3 %<br>Annat sätt 0% |
 
 <!-- sida 13 -->
 
@@ -6288,12 +6316,27 @@ Nämndernas självskattning
 
 16
 
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
+[Tabell 160-162-1](handlingar.tabeller/160-162-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
 |  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
 |  | Vi har system/rutiner för hur vi följer upp mål och<br>styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
+| Område | Frågor Svar 2025<br>Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |
+| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
+|  | Ledningen informeras om fel och brister i<br>organisationen |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
+| Område<br>Riskanalys | Frågor Svar 2025<br>Riskanalysen kommuniceras med nämnden |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |
+|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |
+| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 
 <!-- sida 161 -->
 
@@ -6302,35 +6345,12 @@ Internkontrollrapport 2025
 
 17
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
-| Område | Frågor Svar 2025<br>Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |
-| --- | --- |
-| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-
 <!-- sida 162 -->
 
 Kungsbacka kommun                                Kungsbacka kommun
 Internkontrollrapport 2025
 
 18
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Område<br>Riskanalys | Frågor Svar 2025<br>Riskanalysen kommuniceras med nämnden |
-| --- | --- |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |
-| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 
 <!-- sida 163 -->
 

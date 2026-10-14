@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.11f787b01943ff5023bef405/1737100331
 sha256: 582a0fb4c3ca924912dd30cf0435393ffd18b4eb6caeb66f60c17c60facb5cf3
 bytes: 205914
 sidor: 18
-hamtad: 2026-10-08T02:00:11+00:00
-konverterad: 2026-10-08T02:00:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:40:19+00:00
+konverterad: 2026-10-14T09:40:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -423,7 +423,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 929B635BCDD011FCE1EC3E19216E437D1A53323F0D
 Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -434,6 +434,17 @@ Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
 | Tjänsteskrivelse Årsplan för<br>konkurrensutsättning av<br>verksamhet 2025<br>(Vård & Omsorg) | 2024-12-16 | SE-2024-00456 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2025 (Nämnden<br>för Vård & Omsorg) |
 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2025<br>(Vård & Omsorg) | 2024-12-16 | SE-2024-00456 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2025 (Nämnden<br>för Vård & Omsorg) |
 | (Kommunstyrelsen)<br>(Beslut § 245) - Kungsbacka<br>Arena genomförandefrågor:<br>förstudie, lokalprogram,<br>uthyrning och driftentreprenad,<br>arenanamn | 2024-12-19 | SE-2024-00457 | Kungsbacka Arena<br>genomförandefrågor;<br>förstudie, lokalprogram,<br>uthyrning och<br>driftentreprenad, arenanamn |
+| (Kommunstyrelsen<br>arbetsutskott) (beslut § 324) -<br>Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2024-12-19 | SE-2024-00457 | Kungsbacka Arena<br>genomförandefrågor;<br>förstudie, lokalprogram,<br>uthyrning och<br>driftentreprenad, arenanamn |
+| Delegering av beslutsrätt för<br>upphandling av<br>driftentreprenad<br>(KS-2024-00744) | 2024-12-19 | SE-2024-00457 | Kungsbacka Arena<br>genomförandefrågor;<br>förstudie, lokalprogram, |
+| (Förskola & Grundskola)<br>(Beslut § 125) - Strategi<br>försörjning utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| (Förskola & Grundskola<br>Arbetsutskott) (Beslut § 124)<br>Strategi försörjning<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-18<br>Strategi för försörjning av<br>utbildningsplatser Kungsbacka<br>kommun | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-10-17<br>Strategi försörjning av<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| Strategi för lokalförsörjning av<br>utbildningsplatser 2024-12 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| Strategi för lokalförsörjning av<br>utbildningsplatser rev.<br>2024-12-18 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
+| (Förskola & Grundskola)<br>(Beslut § 126)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
+| (Förskola & Grundskola<br>Arbetsutskott)<br>(Beslut § 125)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
+| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-22<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
 
 <!-- sida 13 -->
 
@@ -446,21 +457,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 929B635BCDD011FCE1EC3E19216E437D1A53323F0D
 Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
 
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| (Kommunstyrelsen<br>arbetsutskott) (beslut § 324) -<br>Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2024-12-19 | SE-2024-00457 | Kungsbacka Arena<br>genomförandefrågor;<br>förstudie, lokalprogram,<br>uthyrning och<br>driftentreprenad, arenanamn |
-| --- | --- | --- | --- |
-| Delegering av beslutsrätt för<br>upphandling av<br>driftentreprenad<br>(KS-2024-00744) | 2024-12-19 | SE-2024-00457 | Kungsbacka Arena<br>genomförandefrågor;<br>förstudie, lokalprogram, |
-| (Förskola & Grundskola)<br>(Beslut § 125) - Strategi<br>försörjning utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| (Förskola & Grundskola<br>Arbetsutskott) (Beslut § 124)<br>Strategi försörjning<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-18<br>Strategi för försörjning av<br>utbildningsplatser Kungsbacka<br>kommun | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-10-17<br>Strategi försörjning av<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| Strategi för lokalförsörjning av<br>utbildningsplatser 2024-12 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| Strategi för lokalförsörjning av<br>utbildningsplatser rev.<br>2024-12-18 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| (Förskola & Grundskola)<br>(Beslut § 126)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
-| (Förskola & Grundskola<br>Arbetsutskott)<br>(Beslut § 125)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
-| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-22<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
-
 <!-- sida 14 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          14 (18)
@@ -468,25 +464,57 @@ Nämnden för Service
 Datum
 2025-01-16
 
+(Förskola & Grundskola) 2024-12-19 SE-2024-00459 (Förskola & Grundskola)
+Koncept utemiljö                      Koncept utemiljö
+(Förskola & Grundskola) 2024-12-19 SE-2024-00460 (Förskola & Grundskola)
+(Beslut § 127)                        Koncept kök och matsal
+Koncept kök och matsal
+
+(Förskola & Grundskola 2024-12-19 SE-2024-00460 (Förskola & Grundskola)
+Arbetsutskott) (Beslut § 126)         Koncept kök och matsal
+Koncept kök och matsal
+
+(Förskola & Grundskola) 2024-12-19 SE-2024-00460 (Förskola & Grundskola)
+Tjänsteskrivelse 2024-11-14           Koncept kök och matsal
+Koncept kök och matsal
+(Förskola & Grundskola) 2024-12-19 SE-2024-00460 (Förskola & Grundskola)
+Koncept kök och matsal                Koncept kök och matsal
+240917
+
+(Kommunfullmäktige) 2024-12-19 SE-2024-00461 Redovisning av icke
+(Beslut § 166) - Redovisning av       färdigberedda motioner
+icke färdigberedda motioner           (2, 2024)
+(2, 2024)
+(Kommunstyrelsen)  2024-12-19 SE-2024-00461 Redovisning av icke
+Tjänsteskrivelse 2024-10-11           färdigberedda motioner
+Redovisning av icke                   (2, 2024)
+färdigberedda motioner
+(2, 2024)
+
+(Kommunstyrelsen)  2024-12-19 SE-2024-00461 Redovisning av icke
+Redovisning av icke                   färdigberedda motioner
+färdigberedda motioner                (2, 2024)
+(2 2024)
+
+(Kultur & Fritid)  2024-12-19 SE-2024-00462 (Kultur & Fritid)
+(Beslut § 129)                        Koncept utemiljö
+Koncept utemiljö
+(Kultur & Fritid)  2024-12-19 SE-2024-00462 (Kultur & Fritid)
+Tjänsteskrivelse 2024-12-05           Koncept utemiljö
+Koncept utemiljö
+
+(Kultur & Fritid)  2024-12-19 SE-2024-00462 (Kultur & Fritid)
+Koncept utemiljö                      Koncept utemiljö
+Följebrev –        2025-01-07 SE-2024-00242 Revisionens granskning av
+Revisionsrapport Granskning           interna kontroller kopplade till
+av interna kontroller kopplade        risken för välfärdsbrott i
+till risken för oegentligheter i      upphandling och
+upphandling och                       avtalsuppföljning
+avtalsuppföljning
+
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 929B635BCDD011FCE1EC3E19216E437D1A53323F0D
 Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| (Förskola & Grundskola)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
-| --- | --- | --- | --- |
-| (Förskola & Grundskola)<br>(Beslut § 127)<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-| (Förskola & Grundskola<br>Arbetsutskott) (Beslut § 126)<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-| (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-14<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-| (Förskola & Grundskola)<br>Koncept kök och matsal<br>240917 | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-| (Kommunfullmäktige)<br>(Beslut § 166) - Redovisning av<br>icke färdigberedda motioner<br>(2, 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
-| (Kommunstyrelsen)<br>Tjänsteskrivelse 2024-10-11<br>Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
-| (Kommunstyrelsen)<br>Redovisning av icke<br>färdigberedda motioner<br>(2 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
-| (Kultur & Fritid)<br>(Beslut § 129)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00462 | (Kultur & Fritid)<br>Koncept utemiljö |
-| (Kultur & Fritid)<br>Tjänsteskrivelse 2024-12-05<br>Koncept utemiljö | 2024-12-19 | SE-2024-00462 | (Kultur & Fritid)<br>Koncept utemiljö |
-| (Kultur & Fritid)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00462 | (Kultur & Fritid)<br>Koncept utemiljö |
-| Följebrev –<br>Revisionsrapport Granskning<br>av interna kontroller kopplade<br>till risken för oegentligheter i<br>upphandling och<br>avtalsuppföljning | 2025-01-07 | SE-2024-00242 | Revisionens granskning av<br>interna kontroller kopplade till<br>risken för välfärdsbrott i<br>upphandling och<br>avtalsuppföljning |
 
 <!-- sida 15 -->
 
@@ -547,7 +575,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 929B635BCDD011FCE1EC3E19216E437D1A53323F0D
 Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
 
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
+[Tabell 16-17-1](protokoll.tabeller/16-17-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -556,6 +584,10 @@ Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-12-05 | SE-2024-00255 |
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-12-05 | SE-2023-00424 |
 | Punkt 2.1.11<br>Dataskyddsförordningen<br>GDPR, artikel 35 | Beslut med<br>anledning av<br>konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-12-09 | SE-2024-00448 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-06 | SE-2024-00445 |
+| 2.1.6<br>Dataskyddsförordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-06 | SE-2024-00465 |
+| 2.1.6<br>Dataskyddsförordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-07 | SE-2025-00010 |
+| 2.2.16<br>2.2.17 | Hantera och besluta<br>om anläggningsstöd<br>till samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader<br>Hantera och besluta<br>om driftbidrag till<br>samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader. | Martin Funkerud<br>EC Fastighet | 2025-01-08 | SE-2025-00005 |
 
 <!-- sida 17 -->
 
@@ -581,14 +613,6 @@ förvaltningen för Service förslag, och att nämnden för Service bifaller det
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 929B635BCDD011FCE1EC3E19216E437D1A53323F0D
 Transaktionsidentitet: BBA564F7F9A069C25A031BFD01668B403CA375C810
-
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-06 | SE-2024-00445 |
-| --- | --- | --- | --- | --- |
-| 2.1.6<br>Dataskyddsförordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-06 | SE-2024-00465 |
-| 2.1.6<br>Dataskyddsförordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-01-07 | SE-2025-00010 |
-| 2.2.16<br>2.2.17 | Hantera och besluta<br>om anläggningsstöd<br>till samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader<br>Hantera och besluta<br>om driftbidrag till<br>samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader. | Martin Funkerud<br>EC Fastighet | 2025-01-08 | SE-2025-00005 |
 
 <!-- sida 18 -->
 

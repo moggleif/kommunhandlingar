@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe60416dc/1732016522
 sha256: 13407a7160d65756203b13e0ee64a60b0d6197f885fc1115a38e623320b95462
 bytes: 365811
 sidor: 41
-hamtad: 2026-10-08T08:13:27+00:00
-konverterad: 2026-10-08T08:13:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:06:58+00:00
+konverterad: 2026-10-14T11:07:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -912,12 +912,21 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
-[Tabell 20-1](protokoll.tabeller/20-1.csv)
+[Tabell 20-21-1](protokoll.tabeller/20-21-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Monica Neptun (L) 1:e vice<br>ordförande | X |  |  |
 | Ermin Škorić (S) 2:e vice<br>ordförande |  | X |  |
+| Annika Carlsson (M) | X |  |  |
+| Barbro Hjelström (M) | X |  |  |
+| Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Carry Kvarntun (M) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 21 -->
 
@@ -937,19 +946,6 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
-
-[Tabell 21-1](protokoll.tabeller/21-1.csv)
-
-| Annika Carlsson (M) | X |  |  |
-| --- | --- | --- | --- |
-| Barbro Hjelström (M) | X |  |  |
-| Astrid Börjesson (S) |  | X |  |
-| Eva Tingström (S) |  | X |  |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Carry Kvarntun (M) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 22 -->
 
@@ -1035,7 +1031,7 @@ Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
 [Tabell 23-1](protokoll.tabeller/23-1.csv)
 
-| 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 |  |  |  |  |  |  |  |  |  |  |
+|  | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Löpande<br>investeringar |  |  |  |  |  |  |  |  |  |  |
 | Återinvesteringar | 6 000 | 6 000 | 6 000 | 6 000 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 7 000 |
@@ -1158,7 +1154,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
-[Tabell 26-1](protokoll.tabeller/26-1.csv)
+[Tabell 26-27-1](protokoll.tabeller/26-27-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1167,6 +1163,12 @@ Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 | Annika Carlsson (M) | X |  |  |
 | Barbro Hjelström (M) | X |  |  |
 | Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Carry Kvarntun (M) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 27 -->
 
@@ -1197,16 +1199,6 @@ Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
 [Tabell 27-1](protokoll.tabeller/27-1.csv)
-
-| Eva Tingström (S) |  | X |  |
-| --- | --- | --- | --- |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Carry Kvarntun (M) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
-
-[Tabell 27-2](protokoll.tabeller/27-2.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1339,13 +1331,21 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
-[Tabell 30-1](protokoll.tabeller/30-1.csv)
+[Tabell 30-31-1](protokoll.tabeller/30-31-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Monica Neptun (L) 1:e vice<br>ordförande | X |  |  |
 | Ermin Škorić (S) 2:e vice<br>ordförande |  | X |  |
 | Annika Carlsson (M) | X |  |  |
+| Barbro Hjelström (M) | X |  |  |
+| Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) |  | X |  |
+| Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Carry Kvarntun (M) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 31 -->
 
@@ -1360,18 +1360,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
-
-[Tabell 31-1](protokoll.tabeller/31-1.csv)
-
-| Barbro Hjelström (M) | X |  |  |
-| --- | --- | --- | --- |
-| Astrid Börjesson (S) |  | X |  |
-| Eva Tingström (S) |  | X |  |
-| Per Hoel (SD) |  | X |  |
-| Göran Ottosson (SD) |  | X |  |
-| Bengt Alderin (C) | X |  |  |
-| Carry Kvarntun (M) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 32 -->
 

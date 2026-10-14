@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf838d17/173374047513
 sha256: 9fe99deb0e5a6ac7a0d805a330c97c2bd1323905f5ff2aff4927283ee43256ca
 bytes: 177218
 sidor: 4
-hamtad: 2026-10-07T22:43:24+00:00
-konverterad: 2026-10-07T22:43:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:53:21+00:00
+konverterad: 2026-10-14T06:53:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,23 +67,19 @@ KUNGSBACKA  KOMMUN
 | 9. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 17:05-17:35<br>Magnus Fogelblad,<br>verksamhetscontroller<br>Anna Sörensen,<br>utvecklingsledare | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 | 10. | Intern kontrollplan 2025<br>Kl 17:35-17:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
 | 11. | Information om Löneöversyn<br>2024, från årshjul<br>Kl 17:55-18:05<br>Helena Hellman, personalchef | FG-2024-00531 | Nämnden för Förskola och Grundskola tar del av<br>informationen om löneöversynen 2024. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 12. | Rapportering anmälda<br>olycksfall och tillbud<br>Kl 18:05-18:35<br>Helena Hellman, personalchef | FG-2024-00532 | Nämnden för Förskola och Grundskola tar del av<br>rapporteringen av anmälda olycksfall och tillbud<br>för perioden januari-juni 2024. |
 | 13. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 18:35-18:40<br>Ordförande | FG-2024-00707 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad grundskola<br>mellan Varberg, Mark och Kungsbacka följs från<br>och med 2025 01 01. |
 | 14. | Interkommunal ersättning inom<br>GR<br>Kl 18:40-18:45<br>Ordförande | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar att<br>följa förbundsstyrelsen inom Göteborgsregionens<br>rekommendation att med avstämningstidpunkt<br>den 15:e respektive månad, fastställa<br>interkommunal ersättning för förskola,<br>pedagogisk omsorg, förskoleklass, grundskola,<br>fritidshem, anpassad grundskola och ISGR<br>kalenderåret 2025 i enlighet med innehållet i<br>prislista. |
 | 15. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområdet<br>Ordförande | FG-2024-00706 | Interkommunala ersättningar för kommuner<br>utanför Göteborgs regionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2025-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
 | 16. | Flytt av nämndsammanträde<br>2025<br>Kl 18:45-18:50<br>Ordförande | FG-2024-00828 | Nämnden för Förskola & Grundskola beslutar att<br>ändra dag för sammanträdet till den 20 februari<br>2025. |
 | 17. | Delegeringsbeslut antagna av<br>nämnden 2024 | FG-2024-00059 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 18. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:50-19:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,9 +89,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:50-19:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |

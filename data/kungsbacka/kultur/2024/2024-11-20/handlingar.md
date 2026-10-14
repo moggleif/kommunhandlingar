@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6036320/1731937622
 sha256: e8e1cd9d8545c2313145a43c4abe47c89b89de52f24a83024a48d1416504a210
 bytes: 20933688
 sidor: 317
-hamtad: 2026-10-08T07:34:10+00:00
-konverterad: 2026-10-08T07:35:00+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:32:33+00:00
+konverterad: 2026-10-14T10:33:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [100, 102, 104, 105, 106, 107, 109, 110, 112, 115, 116, 159, 160, 161, 165, 167, 168, 292]
+figurer: [6, 12, 19, 27, 28, 60, 61, 70, 74, 95, 101, 102, 103, 105, 106, 108, 109, 110, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 143, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 184, 207, 242, 243, 244, 245, 246, 248, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 263, 264, 265, 266, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 286, 292, 293]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -611,7 +611,7 @@ otrygghet (32%). Mest otrygghet förekommer bland kvinnor i åldersgruppen 16–
 andelen otrygga bland kvinnor finns i åldersgruppen 45–54 år.
 Sammanfattande tabell
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Kategori | Andel<br>(%) | Förändring från<br>föregående år | Kommentar |
 | --- | --- | --- | --- |
@@ -627,6 +627,7 @@ Sammanfattande tabell
 | Otrygghet baserat på bakgrund |  |  |  |
 | - Svenskfödda med utrikesfödda<br>föräldrar | Högre |  | Större otrygghet jämfört med andra<br>grupper |
 | Otrygghet baserat på<br>socioekonomisk status | Högre |  | Mest otrygghet i socioekonomiskt<br>utsatta områden |
+| Otrygghet baserat på<br>utbildningsnivå | Högre |  | Markanta skillnader utifrån<br>utbildningsnivå |
 
 <!-- sida 24 -->
 
@@ -659,19 +660,20 @@ till en minskning år 2017. Därefter skedde en ökning fram till årets mätnin
 
 Sammanfattande tabell
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Kategori | Andel<br>(%) | Förändring från<br>föregående år | Kommentar |
-| --- | --- | --- | --- |
-| Otrygghet baserat på<br>utbildningsnivå | Högre |  | Markanta skillnader utifrån<br>utbildningsnivå |
-
-[Tabell 24-2](handlingar.tabeller/24-2.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | Kategori | Andel med stort<br>förtroende (%) | Förändring från<br>föregående år | Kommentar |
 | --- | --- | --- | --- |
 | Förtroende för<br>rättsväsendet som<br>helhet | 49% | Minskning (från<br>53%) | Relativt stabilt fram till minskning 2017, därefter<br>ökning fram till 2023 |
 | Förtroende för polisen | 54% | Minskning (från<br>59%) | Stabilt fram till minskning 2017, därefter ökning<br>fram till 2023 |
 | Förtroende för<br>åklagarna | 42% | Oförändrat (från<br>43%) | Stabilt efter ökning fram till 2009, minskning 2017,<br>därefter stabil nivå |
+| Förtroende för<br>domstolarna | 39% | Minskning (från<br>41%) | Stabil nivå med undantag för 2017-2018 |
+| Förtroende för<br>kriminalvården | 34% | Minskning (från<br>37%) | Ökning över tid med årliga variationer |
+| Förtroende för rättvis<br>hantering av<br>brottsmisstänkta | 44% | Oförändrat (från<br>45%) | Stabil nivå efter minskning 2017, svagt uppåtgående<br>trend |
+| Förtroende för polisens | 51% | Minskning (från<br>54%) | Stabilt från 2008 till 2017, därefter ökning fram till<br>2023 |
+| hantering av |  |  |  |
+| brottsmisstänkta |  |  |  |
+| Förtroende för<br>rättsväsendets<br>hantering av<br>brottsutsatta | 29% | Oförändrat (från<br>30%) | Stabil efter ökning 2008-2011, ny ökning 2018-2021,<br>därefter stabil nivå |
 
 <!-- sida 25 -->
 
@@ -699,18 +701,6 @@ Avslutningsvis, när det kommer till förtroende för hur rättsväsendet behand
 har stort förtroende 29%, vilket är i princip oförändrat jämfört med 2022 (30%). Efter en ökning från 2008
 till 2011 var förtroendet relativt stabilt fram till en ny ökning 2018–2021, för att sedan återigen ligga på en
 stabil nivå.
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Kategori | Andel med stort<br>förtroende (%) | Förändring från<br>föregående år | Kommentar |
-| --- | --- | --- | --- |
-| Förtroende för<br>domstolarna | 39% | Minskning (från<br>41%) | Stabil nivå med undantag för 2017-2018 |
-| Förtroende för<br>kriminalvården | 34% | Minskning (från<br>37%) | Ökning över tid med årliga variationer |
-| Förtroende för rättvis<br>hantering av<br>brottsmisstänkta | 44% | Oförändrat (från<br>45%) | Stabil nivå efter minskning 2017, svagt uppåtgående<br>trend |
-| Förtroende för polisens | 51% | Minskning (från<br>54%) | Stabilt från 2008 till 2017, därefter ökning fram till<br>2023 |
-| hantering av |  |  |  |
-| brottsmisstänkta |  |  |  |
-| Förtroende för<br>rättsväsendets<br>hantering av<br>brottsutsatta | 29% | Oförändrat (från<br>30%) | Stabil efter ökning 2008-2011, ny ökning 2018-2021,<br>därefter stabil nivå |
 
 <!-- sida 26 -->
 
@@ -1126,7 +1116,9 @@ Våldsbrott uppdelat på brottstyp
 | Våld i offentlig miljö |  | 65 | 56 |  |
 | Rån, inkl grovt |  | 8 | 12 | Över 18 år |
 | Våld mot barn och unga |  | 103 | 124 |  |
-| Våld inomhusmiljö<br>Våld i offentlig miljö<br>Rån inkl grovt |  | 50<br>53<br>6 | 66<br>58<br>14 |  |
+| Våld inomhusmiljö |  | 50 | 66 |  |
+| Våld i offentlig miljö |  | 53 | 58 |  |
+| Rån inkl grovt |  | 6 | 14 |  |
 
 <!-- sida 36 -->
 
@@ -6186,7 +6178,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 162 -->
 
@@ -6204,7 +6201,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 163 -->
 
@@ -7958,38 +7961,37 @@ Exempel på hur föreningar kan påverkas av det nya stödet
 Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Utvecklingsstödet baseras
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
+Stor      Förening utan egen Förening med hyrd
+inomhusförening anläggning - hyr anläggning
+lokal/anläggning på
 
+timmar
+2026    2029   2026   2029    2026   2029
 \+ Ökat LOK stöd från
-7,5kr till 10kr
+7,5kr till 10kr  150 000 150 000 70 000 70 000 54 000 54 000
 \+ LOK stöd x3
-\- Driftbidrag
+\- Driftbidrag                   -17 000 -17 000
 \- Utveckling /
-Utbildningsbidrag
+Utbildningsbidrag -160 000 -160 000 -103 000 -103 000 -76 000 -76 000
 
 \- Drogpolicy /
-Hälsocertifiering
-\- Lovbidrag
+Hälsocertifiering -40 000 -40 000 -31 000 -31 000 -20 000 -20 000
+\- Lovbidrag                      -1 500 -1 500 -4 000  -4 000
 \- Folkhälsobidrag
-\- Subventioner
-\- Höjda taxor
+\- Subventioner                                -137 000 -331 000
+\- Höjda taxor   -100 000 -120 000 -5 000 -5 500 -7 000 -7 500
 
-Summa
+Summa      -150 000 -170 000 -87 500 -88 000 -190 000 -384 500
 
-\+ Utvecklingsstöd
+\+ Utvecklingsstöd 105 000 200 000 105 000 200 000 105 000 200 000
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
 
-Förändring
+Förändring   -45 000 30 000 17 500 112 000 -85 000 -184 500
 
 Föreningarna har en stor påverkan på utvecklingsstödet. Som beskrivs ovan kan föreningarna söka
 medel utifrån ett treårigt åtagande. Nedan exempel är fiktiva och bör ses som förenklade exempel:
-
-[Tabell 209-1](handlingar.tabeller/209-1.csv)
-
-| Stor<br>inomhusförening<br>2026 2029 | Förening utan egen Förening med hyrd<br>anläggning - hyr anläggning<br>lokal/anläggning på<br>timmar<br>2026 2029 2026 2029 |  |
-| --- | --- | --- |
-| 150 000 150 000<br>-160 000 -160 000<br>-40 000 -40 000<br>-100 000 -120 000<br>-150 000 -170 000<br>105 000 200 000<br>-45 000 30 000 | 70 000 70 000<br>-17 000 -17 000<br>-103 000 -103 000<br>-31 000 -31 000<br>-1 500 -1 500<br>-5 000 -5 500<br>-87 500 -88 000<br>105 000 200 000<br>17 500 112 000 | 54 000 54 000<br>-76 000 -76 000<br>-20 000 -20 000<br>-4 000 -4 000<br>-137 000 -331 000<br>-7 000 -7 500<br>-190 000 -384 500<br>105 000 200 000<br>-85 000 -184 500 |
 
 <!-- sida 210 -->
 
@@ -8909,7 +8911,7 @@ geografisk placering har kompletterats med avstånd till kollektivtrafikhållpla
 
 Lokaler och ytor där kommunen idag subventionerar lokalutgifter för föreningsaktiviteter :
 
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
+[Tabell 230-231-1](handlingar.tabeller/230-231-1.csv)
 
 | Typ av verksamhetsyta | Antal | Kommundelar |
 | --- | --- | --- |
@@ -8921,6 +8923,13 @@ Lokaler och ytor där kommunen idag subventionerar lokalutgifter för förenings
 | Fotbollsplaner, konstgräs,<br>11+11 | 11 | Alla |
 | Fotbollsplaner, konstgräs,<br>7+7 | 4 (varav en ej kommunägd) | Kullavik, Ängås, Ögärdet (Fjärås) |
 | Fotbollsplaner, konstgräs<br>5+5 | 1 | Malevik |
+| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
+| Friidrottsanläggningar | 1 | Kungsbacka Stad |
+| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
+| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
+| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 231 -->
 
@@ -8951,17 +8960,6 @@ tidshorisont vi har undersökt, dvs fram till år 2030.
 För att hålla utgifterna för kommunen nere på en acceptabel nivå är det troligtvis nödvändigt att göra
 ett strategiskt vägval där kommunen inte längre investerar i och underhåller lika många anläggningar
 som idag, utan i stället stödja föreningarnas aktiviteter på ett mer direkt sätt.
-
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
-
-| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
-| --- | --- | --- |
-| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
-| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
-| Friidrottsanläggningar | 1 | Kungsbacka Stad |
-| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
-| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
-| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 232 -->
 
@@ -9178,60 +9176,78 @@ Expedierat/bestyrkt
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-\+ LOK stöd x3
-\- Driftbidrag
-\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+
 \- Lovbidrag
 \- Folkhälsobidrag
 
 \- Subventioner
 
-```osaker-tabell
-- Höjda taxor                   -100 000    -120 000     -5 800
+[Tabell 237-1](handlingar.tabeller/237-1.csv)
 
-          Förändring            -150 000    -170 000     -2 800
+| + Ökat LOK stöd från 7,5kr till 10kr | 150 000 | 150 000 | 9 000 |
+| --- | --- | --- | --- |
+| + LOK stöd x3 |  |  |  |
+| - Driftbidrag |  |  |  |
+| - Utveckling / Utbildningsbidrag | -160 000 | -160 000 | -6 000 |
+| - Drogpolicy / Hälsocertifiering | -40 000 | -40 000 |  |
 
-+ Utvecklingsstöd                105 000    200 000     105 000
-```
+[Tabell 237-2](handlingar.tabeller/237-2.csv)
 
-(Genomsnittligt stöd per förening
-
-utifrån det belopp vi frigör från lokaler)
-
-Förändring             -45 000     30 000     102 200
+| - Höjda taxor | -100 000 | -120 000 | -5 800 |
+| --- | --- | --- | --- |
+| Förändring | -150 000 | -170 000 | -2 800 |
+| + Utvecklingsstöd | 105 000 | 200 000 | 105 000 |
+| (Genomsnittligt stöd per förening utifrån det belopp vi frigör från lokaler) |  |  |  |
+| Förändring | -45 000 | 30 000 | 102 200 |
 
 <!-- sida 238 -->
 
-Liten inomhusförening
+Liten inomhusförening Förening med egen anläggning Förening utan egen anläggning - hyr
 
-2029
-9 000
+lokal/anläggning på timmar
 
--6 000
+```osaker-tabell
+2029        2026       2029        2026       2029
+    9 000      16 000     16 000      70 000     70 000
+              100 000    100 000
+             -116 000    -116 000    -17 000     -17 000
+   -6 000     -29 000     -29 000   -103 000    -103 000
+               -8 000     -8 000     -31 000     -31 000
+               -7 000     -7 000      -1 500      -1 500
 
--6 500
+   -6 500                             -5 000      -5 500
 
--3 500
+   -3 500     -44 000     -44 000    -87 500     -88 000
 
-200 000
+  200 000     105 000    200 000     105 000    200 000
 
-196 500
-
-[Tabell 238-1](handlingar.tabeller/238-1.csv)
-
-| Förening med egen anläggning<br>2026 2029 | Förening utan egen anläggning - hyr<br>lokal/anläggning på timmar<br>2026 2029 |
-| --- | --- |
-| 16 000 16 000<br>100 000 100 000<br>-116 000 -116 000<br>-29 000 -29 000<br>-8 000 -8 000<br>-7 000 -7 000<br>-44 000 -44 000<br>105 000 200 000<br>61 000 156 000 | 70 000 70 000<br>-17 000 -17 000<br>-103 000 -103 000<br>-31 000 -31 000<br>-1 500 -1 500<br>-5 000 -5 500<br>-87 500 -88 000<br>105 000 200 000<br>17 500 112 000 |
+  196 500      61 000    156 000      17 500    112 000
+```
 
 <!-- sida 239 -->
 
-[Tabell 239-1](handlingar.tabeller/239-1.csv)
+Förening med hyrd anläggning  Ridanläggning
 
-| Förening med hyrd anläggning<br>2026 2029 | Ridanläggning<br>40% subvention av hyra kvar 2029<br>2026 2029 |
-| --- | --- |
-| 54 000 54 000<br>-76 000 -76 000<br>-20 000 -20 000<br>-4 000 -4 000<br>-137 000 -331 000<br>-7 000 -7 500<br>-190 000 -384 500<br>105 000 200 000<br>-85 000 -184 500 | 21 000 21 000<br>-193 000 -193 000<br>-49 000 -49 000<br>-18 000 -18 000<br>-3 000 -3 000<br>-417 000 -1 116 000<br>-659 000 -1 358 000<br>105 000 200 000<br>-554 000 -1 158 000 |
+40% subvention av hyra kvar 2029
+
+```osaker-tabell
+2026        2029        2026         2029
+   54 000      54 000      21 000       21 000
+
+                          -193 000     -193 000
+  -76 000      -76 000     -49 000     -49 000
+  -20 000      -20 000     -18 000     -18 000
+   -4 000      -4 000       -3 000      -3 000
+
+  -137 000    -331 000    -417 000   -1 116 000
+   -7 000      -7 500
+
+  -190 000    -384 500    -659 000   -1 358 000
+
+  105 000     200 000      105 000     200 000
+
+  -85 000     -184 500    -554 000   -1 158 000
+```
 
 <!-- sida 240 -->
 

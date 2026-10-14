@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4a1683f319957f8b68c4024a/1758263545
 sha256: 6998a3ff1f34913c984908eff01ed12be9be74d7b4563b4ee117197bea96cfbf
 bytes: 145383386
 sidor: 607
-hamtad: 2026-10-08T01:11:22+00:00
-konverterad: 2026-10-08T01:16:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:59:24+00:00
+konverterad: 2026-10-14T09:04:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [304, 305, 502]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
+tal_obekraftade: [304, 305, 452, 457, 462, 464, 466, 471, 472, 502]
+figurer: [5, 6, 55, 56, 256, 267, 268, 275, 276, 277, 278, 279, 281, 282, 283, 284, 400, 432, 433, 434, 435, 436, 437, 438, 439, 447, 450, 451, 452, 453, 456, 457, 458, 459, 461, 462, 463, 464, 465, 466, 467, 468, 469, 471, 472, 473, 474, 475, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 503, 504, 505, 508, 509, 510, 511, 515, 520, 521, 522, 523, 528, 529, 530, 531, 532, 534, 540, 544, 552, 553, 567]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -481,24 +481,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 13 -->
 
@@ -573,15 +580,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -591,18 +614,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 15 -->
 
@@ -788,6 +799,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      810 kr 1220 kr           2030 kr
 40%   60%
+b) en avgift per m³ levererat vatten 15,50 kr 31,20 kr 46,70 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 810 kr 1220 kr 2030 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,33 kr 0,37 kr 1,70 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -809,13 +827,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        11 (15)
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 15,50 kr<br>33% | 31,20 kr<br>67% |  |  | 46,70 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 810 kr<br>40% | 1220 kr<br>60% |  |  | 2030 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,33 kr<br>79% | 0,37 kr<br>21% | 1,70 kr |
 
 <!-- sida 19 -->
 
@@ -1219,24 +1230,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 28 -->
 
@@ -1311,15 +1329,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -1329,18 +1363,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 30 -->
 
@@ -1526,6 +1548,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      810 kr 1220 kr           2030 kr
 40%   60%
+b) en avgift per m³ levererat vatten 15,50 kr 31,20 kr 46,70 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 810 kr 1220 kr 2030 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,33 kr 0,37 kr 1,70 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -1547,13 +1576,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        11 (15)
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 15,50 kr<br>33% | 31,20 kr<br>67% |  |  | 46,70 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 810 kr<br>40% | 1220 kr<br>60% |  |  | 2030 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,33 kr<br>79% | 0,37 kr<br>21% | 1,70 kr |
 
 <!-- sida 34 -->
 
@@ -2791,19 +2813,34 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2024    2025   2025   avvikelse 2024    2025    delår
+Drift
+Skattefinansierad -243,1 -268,0 -265,9   2,1   -167,9 -173,1    -5,2
+verksamhet
+Drift Vatten och
+-10,3    0,0     0,0      0,0    -7,4    8,4     15,8
+Avlopp
+Drift Avfall och
+-2,7    0,0     3,9      3,9     1,8    6,0      4,2
+Återvinning
+Drift Kungsbacka
+-1,3    0,0     -3,8    -3,8    -1,3    -4,8    -3,5
+Bredbandsnät
+Periodens
+-257,4 -268,0  -265,8     2,2   -174,8 -163,5    11,3
+resultat
 För Kungsbacka Bredband är budget och prognos för 2025 inklusive bokslutsdisposition på -1,2 miljoner kronor, vilket innebär att årets
 budgeterade och prognosticerade resultat är ett underskott på 5,0 miljoner kronor.
-
 Drift Skattefinansierad verksamhet: redovisar ett utfall för perioden om -173,1 miljoner kronor. Detta är 6
 miljoner kronor lägre än budget.
-
 Helårsprognosen för drift skattefinansierad verksamhet är året är en underförbrukning mot budget om 2,1
 miljoner kronor. Detta innebär en förändring sedan apriluppföljningen. Denna förändring härrör från lägre
 kostnader för:
 •  personalkostnader (4,4 miljoner kronor)
 •  kapitalkostnader (5,8 miljoner kronor)
 •  diverse verksamhetskostnader (0,4 miljoner kronor)
-
 Ökade kostnader härrör från:
 •  lägre intäkter än prognosticerat (8,5 miljoner kronor). Detta beror på att färre schaktåterställningar har
 utförts och kostnader förvaltningen har kunnat vidarefakturera har därför varit lägre.
@@ -2821,15 +2858,6 @@ Verksamhetskostnader är lägre än budget på grund av att elavgifter har varit
 skyfall har kommit under första halvåret. På grund av säkerhetsläget har nämnden ökade kostnader för
 
 24
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| Miljoner kronor<br>Drift<br>Skattefinansierad<br>verksamhet | Bokslut<br>2024<br>-243,1 | Budget<br>2025<br>-268,0 | Prognos<br>2025<br>-265,9 | Budget-<br>avvikelse<br>2,1 | Delår<br>2024<br>-167,9 | Delår<br>2025<br>-173,1 | Avvikelse<br>delår<br>-5,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Drift Vatten och<br>Avlopp | -10,3 | 0,0 | 0,0 | 0,0 | -7,4 | 8,4 | 15,8 |
-| Drift Avfall och<br>Återvinning | -2,7 | 0,0 | 3,9 | 3,9 | 1,8 | 6,0 | 4,2 |
-| Drift Kungsbacka<br>Bredbandsnät | -1,3 | 0,0 | -3,8 | -3,8 | -1,3 | -4,8 | -3,5 |
-| Periodens<br>resultat | -257,4 | -268,0 | -265,8 | 2,2 | -174,8 | -163,5 | 11,3 |
 
 <!-- sida 62 -->
 
@@ -2864,6 +2892,16 @@ apriluppföljningen på grund av lägre intäkter.
 
 5.2.1 Uppföljning Drift Skattefinansierad verksamhet
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+2024   2025   s 2025 vikelse 2024   2025   e delår
+Verksamhetens intäkter 94,1 88,3  79,8    -8,5  54,1    51,4    -2,7
+Verksamhetens kostnader -337,2 -356,3 -345,7 10,6 -222,0 -224,5 -2,5
+Varav personalkostnader -85,7 -95,2 -90,8 4,4   -57,8   -58,4   -0,6
+Varav
+-140,1  -142,7 -142,3   0,4   -89,4   -91,4   -2,0
+verksamhetskostnader
+
 25
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
@@ -2876,18 +2914,19 @@ apriluppföljningen på grund av lägre intäkter.
 | Drift Kungsbacka<br>Bredband | 0,0 | -3,8 | -3,8 |
 | Totalt | 3,0 | 2,2 | -0,8 |
 
-[Tabell 62-2](handlingar.tabeller/62-2.csv)
-
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2024<br>94,1 | Budget<br>2025<br>88,3 | Progno<br>s 2025<br>79,8 | Budgetav<br>vikelse<br>-8,5 | Delår<br>2024<br>54,1 | Delår<br>2025<br>51,4 | Avvikels<br>e delår<br>-2,7 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -337,2 | -356,3 | -345,7 | 10,6 | -222,0 | -224,5 | -2,5 |
-| Varav personalkostnader | -85,7 | -95,2 | -90,8 | 4,4 | -57,8 | -58,4 | -0,6 |
-| Varav<br>verksamhetskostnader | -140,1 | -142,7 | -142,3 | 0,4 | -89,4 | -91,4 | -2,0 |
-
 <!-- sida 63 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2025
+
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+
+```osaker-tabell
+                  2024   2025   s 2025 vikelse 2024   2025   e delår
+Varav kapitalkostnader -111,4 -118,4 -112,6 5,8 -74,8   -74,7    0,1
+Periodens resultat -243,1 -268,0 -265,9   2,1  -167,9  -173,1   -5,2
+```
 
 Analys och kommentar
 Prognosen för 2025 är en underförbrukning mot budget om 2,1 miljoner kronor. Detta innebär en förändring
@@ -2934,12 +2973,6 @@ Ej aktuell
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
-| Miljoner kronor<br>Varav kapitalkostnader | Bokslut<br>2024<br>-111,4 | Budget<br>2025<br>-118,4 | Progno<br>s 2025<br>-112,6 | Budgetav<br>vikelse<br>5,8 | Delår<br>2024<br>-74,8 | Delår<br>2025<br>-74,7 | Avvikels<br>e delår<br>0,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Periodens resultat | -243,1 | -268,0 | -265,9 | 2,1 | -167,9 | -173,1 | -5,2 |
-
-[Tabell 63-2](handlingar.tabeller/63-2.csv)
-
 | Nämnd/förvaltning | Helårsprognos i delår 1 | Helårsprognos i delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | Teknik Skattefinansierad<br>verksamhet | 0,0 | 2,1 | 2,1 |
@@ -2951,6 +2984,18 @@ Delårsrapport augusti 2025
 
 5.2.2 Uppföljning Drift VA
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+2024   2025   s 2025 vikelse 2024   2025   e delår
+Verksamhetens intäkter 224,1 261,6 259,5  -2,1 151,1   171,7    20,6
+Verksamhetens kostnader -234,4 -261,6 -259,5 2,1 -158,5 -163,3  -4,8
+
+varav personalkostnad -44 -46,1  -42,4    3,7   -31,3   -28,5    2,8
+varav
+-93,2  -105,0 -103,9   1,1   -62,9   -64,5   -1,6
+verksamhetskostnad
+varav kapitalkostnad -97,2 -107,5 -110,2  -2,7  -64,3   -70,3   -6,0
+Periodens resultat -10,3   0,0     0,0    0,0    -7,4    8,4    15,8
 Analys och kommentar
 Jämförelse med samma period föregående år
 
@@ -2989,16 +3034,6 @@ Intäkterna visar ett underskott på 2,1 miljoner kronor. Försäljningen av vat
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2024<br>224,1 | Budget<br>2025<br>261,6 | Progno<br>s 2025<br>259,5 | Budgetav<br>vikelse<br>-2,1 | Delår<br>2024<br>151,1 | Delår<br>2025<br>171,7 | Avvikels<br>e delår<br>20,6 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -234,4 | -261,6 | -259,5 | 2,1 | -158,5 | -163,3 | -4,8 |
-| varav personalkostnad | -44 | -46,1 | -42,4 | 3,7 | -31,3 | -28,5 | 2,8 |
-| varav<br>verksamhetskostnad | -93,2 | -105,0 | -103,9 | 1,1 | -62,9 | -64,5 | -1,6 |
-| varav kapitalkostnad | -97,2 | -107,5 | -110,2 | -2,7 | -64,3 | -70,3 | -6,0 |
-| Periodens resultat | -10,3 | 0,0 | 0,0 | 0,0 | -7,4 | 8,4 | 15,8 |
-
-[Tabell 64-2](handlingar.tabeller/64-2.csv)
-
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | Vatten & Avlopp | 2,0 | 0,0 | -2,0 |
@@ -3021,6 +3056,22 @@ rondering och säkerhetsskydd kring skyddsobjekten.
 VA-verksamheten prognosticerar inget underskott och har ingen negativ fond som kräver åtgärder.
 
 5.2.3 Uppföljning Drift Avfall & Återvinning
+
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+
+```osaker-tabell
+                  2024   2025   s 2025 vikelse 2024   2025   e delår
+Verksamhetens intäkter 115,2 131,1 128,9  -2,2  76,9    87,8    10,9
+Verksamhetens kostnader -117,9 -131,1 -125,0 6,1 -75,1  -81,8   -6,7
+varav personalkostnad -4,9 -5,1   -4,9    0,2    -3,4   -3,2     0,2
+```
+
+varav
+-111,0  -120,4 -117,8   2,6   -70,3   -77,2   -6,9
+verksamhetskostnad
+varav kapitalkostnad -2,0  -5,6   -2,4    3,2    -1,4   -1,4     0,0
+Periodens resultat  -2,7   0,0     3,9    3,9    1,8     6,0     4,2
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -3046,16 +3097,6 @@ Personalkostnaderna ligger under budget på grund av vakans och föräldraledigh
 Verksamhetskostnader:
 
 28
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2024<br>115,2 | Budget<br>2025<br>131,1 | Progno<br>s 2025<br>128,9 | Budgetav<br>vikelse<br>-2,2 | Delår<br>2024<br>76,9 | Delår<br>2025<br>87,8 | Avvikels<br>e delår<br>10,9 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -117,9 | -131,1 | -125,0 | 6,1 | -75,1 | -81,8 | -6,7 |
-| varav personalkostnad | -4,9 | -5,1 | -4,9 | 0,2 | -3,4 | -3,2 | 0,2 |
-| varav<br>verksamhetskostnad | -111,0 | -120,4 | -117,8 | 2,6 | -70,3 | -77,2 | -6,9 |
-| varav kapitalkostnad | -2,0 | -5,6 | -2,4 | 3,2 | -1,4 | -1,4 | 0,0 |
-| Periodens resultat | -2,7 | 0,0 | 3,9 | 3,9 | 1,8 | 6,0 | 4,2 |
 
 <!-- sida 66 -->
 
@@ -3086,6 +3127,22 @@ budgetåret 2026. I augustis delårsrapport har vi rapporterat en prognos om 3,9
 vid årets slut.
 5.2.4 Uppföljning Drift Kungsbacka Bredband
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+
+```osaker-tabell
+                  2024   2025   s 2025 vikelse 2024   2025   e delår
+Verksamhetens intäkter 40,8 45,8  41,0    -4,8  26,6    24,5    -2,1
+Verksamhetens kostnader -42,1 -45,8 -44,8 1,0   -27,9   -29,3   -1,4
+
+varav personalkostnad -4,8 -5,4   -4,8    0,6    -3,1   -3,2    -0,1
+```
+
+varav
+-8,4   -8,8   -9,2    -0,4   -5,6   -5,7    -0,1
+verksamhetskostnad
+varav kapitalkostnad -29,0 -31,6 -30,8    0,8   -19,2   -20,4   -1,2
+Periodens resultat  -1,3   0,0    -3,8    -3,8   -1,3   -4,8    -3,5
 För Kungsbacka Bredband är budget och prognos för 2025 inklusive bokslutsdisposition på -1,2 miljoner kronor, vilket innebär att årets
 budgeterade och prognosticerade resultat är ett underskott på 5,0 miljoner kronor.
 Sammanfattning
@@ -3105,16 +3162,6 @@ Detta har gjort att intäkterna i ett område inte kommit igång som planerat, o
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | Avfall & Återvinning | 1,0 | 3,9 | 2,9 |
-
-[Tabell 66-2](handlingar.tabeller/66-2.csv)
-
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2024<br>40,8 | Budget<br>2025<br>45,8 | Progno<br>s 2025<br>41,0 | Budgetav<br>vikelse<br>-4,8 | Delår<br>2024<br>26,6 | Delår<br>2025<br>24,5 | Avvikels<br>e delår<br>-2,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -42,1 | -45,8 | -44,8 | 1,0 | -27,9 | -29,3 | -1,4 |
-| varav personalkostnad | -4,8 | -5,4 | -4,8 | 0,6 | -3,1 | -3,2 | -0,1 |
-| varav<br>verksamhetskostnad | -8,4 | -8,8 | -9,2 | -0,4 | -5,6 | -5,7 | -0,1 |
-| varav kapitalkostnad | -29,0 | -31,6 | -30,8 | 0,8 | -19,2 | -20,4 | -1,2 |
-| Periodens resultat | -1,3 | 0,0 | -3,8 | -3,8 | -1,3 | -4,8 | -3,5 |
 
 <!-- sida 67 -->
 
@@ -3314,8 +3361,27 @@ Delårsrapport augusti 2025
 
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
+Ack utfall
+Proj         Totalbud Totalprog Avvikels totalt tom Helårsprogn Budget Avvikel
+Text
+nr           get    nos      e totalt augusti os 2025   2025 se 2025
+2025
+Gång- och
+cykelbro
+351 över
+-51,6   -52,3      -0,7 -10,8     -7,8    -7,8     0,0
+0  järnvägen
+vid inlag,
+utgift
+Gång- och
+cykelbro
+351 över
+16,6     17,5    0,9     0,0       0,0    0,0    0,0
+0  järnvägen
+vid inlag,
+inkomst
+Summa projekt -35,0   -34,8    0,2    -10,8     -7,8    -7,8   0,0
 5.4.2 Investeringsbudget VA
-
 Investeringar
 
 Kommentarer
@@ -3340,14 +3406,6 @@ Vi fortsätter att kontrollera om det finns ytterligare projekt att starta upp m
 34
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| Proj<br>nr | Text | Totalbud<br>get | Totalprog<br>nos | Avvikels<br>e totalt | Ack utfall<br>totalt tom<br>augusti<br>2025 | Helårsprogn<br>os 2025 | Budget<br>2025 | Avvikel<br>se 2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 351<br>0 | Gång- och<br>cykelbro<br>över<br>järnvägen<br>vid inlag,<br>utgift | -51,6 | -52,3 | -0,7 | -10,8 | -7,8 | -7,8 | 0,0 |
-| 351<br>0 | Gång- och<br>cykelbro<br>över<br>järnvägen<br>vid inlag,<br>inkomst | 16,6 | 17,5 | 0,9 | 0,0 | 0,0 | 0,0 | 0,0 |
-| Summa projekt |  | -35,0 | -34,8 | 0,2 | -10,8 | -7,8 | -7,8 | 0,0 |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
 
 |  | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Budgetavvi<br>kelse 2025 | Delår 2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -3391,7 +3449,7 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
 35
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 | Proj<br>nr | Text | Totalbud<br>get | Totalpro<br>gnos | Avvikel<br>se<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2025 | Helårspro<br>gnos 2025 | Budget<br>2025 | Avvikel<br>se 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3400,18 +3458,7 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 | 4512 | VA-sanering<br>Hanhals,<br>utgift | -93,0 | -92,3 | 0,7 | -89,4 | -3,3 | -1,7 | -1,6 |
 | 4512 | VA-sanering<br>Hanhals,<br>inkomst | 13,8 | 13,8 | 0,0 | 13,8 | 0,0 | 0,0 | 0,0 |
 | 550 i | VA-<br>utbyggnad<br>Sönnerberg<br>en utgift | -74,9 | -59,9 | 15,0 | -2,7 | -59,9 | -52,0 | -7,9 |
-
-<!-- sida 73 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Delårsrapport augusti 2025
-
-36
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
 | 550 i | VA-<br>utbyggnad<br>Sönnerberg<br>en inkomst | 55,0 | 49,0 | -6,0 | 0,0 | 49,0 | 42,0 | 7,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5507 | VUTB<br>Reservvatte<br>n Göteborg | -269,6 | -281,5 | -11,9 | -8,2 | -13,9 | -5,0 | -8,9 |
 | 550<br>P | Fjärås VV-<br>Hammerö<br>etapp 2 | -104,0 | -45,0 | 59,0 | -15,8 | -38,0 | -35,0 | -3,0 |
 | 550<br>Q | Fjärås VV-<br>Hammerö<br>etapp 3 | -48,0 | -48,0 | 0,0 | -0,6 | -1,0 | -1,0 | 0,0 |
@@ -3422,6 +3469,13 @@ Delårsrapport augusti 2025
 | 5560 | VOMV VA-<br>utbyggnad<br>Släps-<br>Högås utgift | -99,8 | -90,5 | 9,3 | -4,9 | -3,4 | -10,0 | 6,6 |
 | 5560 | VOMV VA-<br>utbyggnad<br>Släps-<br>Högås<br>inkomst | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
 | Summa projekt |  | -1 843,2 | -1 848,5 | -5,3 | -278,2 | -156,8 | -204,0 | 47,2 |
+
+<!-- sida 73 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Delårsrapport augusti 2025
+
+36
 
 <!-- sida 74 -->
 
@@ -6026,12 +6080,6 @@ Tabell 3.2 Statistik över antalet anmälningar, åtal och domar i fråga
 om exploatering i arbete respektive tiggeri 2018–2023
 Exploatering i arbete Exploatering i tiggeri
 
-```osaker-tabell
-Anmälningar:       385            42
-Åtal                 7            10
-Dom                  2            7
-```
-
 Källa: Jämställdhetsmyndigheten.
 
 Resultaten kan tolkas som att exploatering i tiggeri har fungerat
@@ -6051,6 +6099,13 @@ tiggeri än formen arbete.
 prövats av domstol. Det fanns ett åtal om exploatering i tiggeri som avgränsades bort i
 granskningen.
 59
+
+[Tabell 140-1](handlingar.tabeller/140-1.csv)
+
+| Anmälningar: | 385 | 42 |
+| --- | --- | --- |
+| Åtal | 7 | 10 |
+| Dom | 2 | 7 |
 
 <!-- sida 141 -->
 
@@ -13956,46 +14011,32 @@ respektive återvinningscentral.
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        23 (33)
 
-[Tabell 332-1](handlingar.tabeller/332-1.csv)
+[Tabell 332-335-1](handlingar.tabeller/332-335-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>•Färg<br>•Lösningsmedel<br>•Kemikalier<br>•Ljuskällor<br>•Bensin och diesel<br>•Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1)andra slag av farligt<br>avfall,<br>(2)annat avfall eller<br>(3)andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
+| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
+|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2)annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
+| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
+| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 333 -->
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        24 (33)
 
-[Tabell 333-1](handlingar.tabeller/333-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>•Färg<br>•Lösningsmedel<br>•Kemikalier<br>•Ljuskällor<br>•Bensin och diesel<br>•Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1)andra slag av farligt<br>avfall,<br>(2)annat avfall eller<br>(3)andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
-| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
-| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
-
 <!-- sida 334 -->
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        25 (33)
 
-[Tabell 334-1](handlingar.tabeller/334-1.csv)
-
-|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2)annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
-| --- | --- | --- | --- |
-| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
-| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
-
 <!-- sida 335 -->
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        26 (33)
-
-[Tabell 335-1](handlingar.tabeller/335-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 336 -->
 
@@ -14024,7 +14065,7 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        28 (33)
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        29 (33)
 
-[Tabell 338-1](handlingar.tabeller/338-1.csv)
+[Tabell 338-339-1](handlingar.tabeller/338-339-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
@@ -14032,18 +14073,14 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        29 (33)
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |
 | Returpapper | I enlighet med<br>definitionen av<br>returpapper i<br>avfallsförordningen<br>(2020:614) | Lämnas löst i de<br>behållare/kärl som<br>tillhandahålls/anvisas. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
+| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
+| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
+| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 339 -->
 
 Kungsbacka kommun            Lokala avfallsföreskrifter        30 (33)
-
-[Tabell 339-1](handlingar.tabeller/339-1.csv)
-
-| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
-| --- | --- | --- | --- |
-| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
-| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
-| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 340 -->
 
@@ -14609,7 +14646,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 9 (30)
 
-[Tabell 356-1](handlingar.tabeller/356-1.csv)
+[Tabell 356-360-1](handlingar.tabeller/356-360-1.csv)
 
 |  |  |  | sekreterare<br>Arkivarie<br>Registrator |  |
 | --- | --- | --- | --- | --- |
@@ -14619,57 +14656,23 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 9
 | 2.1.9 | Riktlinjer för personuppgifts-behandling,<br>GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för kommungemensamma<br>digitala tjänster och system. | Bitr. kdir | Avser kommungemensamma tjänster<br>och system som används av<br>kommunens samtliga nämnder.<br>Kommungemensamma system som<br>stödjer kommun-gemensamma<br>stödprocesser som utförs av Service<br>eller kommunstyrelsen enligt<br>reglemente omfattas inte. |
 | 2.1.10 | GDPR artikel 30 | Fastställa nämndens register över personuppgiftsbehandlingar. | Fc<br>Dataskydds-<br>kontakt |  |
 | 2.1.11 | GDPR artikel 33 och 34 | Anmälan av personuppgiftsincident till tillsynsmyndigheten. | Fc<br>System-<br>förvaltare för<br>aktuellt<br>system<br>Dataskydds-<br>kontakt |  |
-
-<!-- sida 357 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 10 (30)
-
-[Tabell 357-1](handlingar.tabeller/357-1.csv)
-
 | 2.1.12 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende<br>dataskydd | Fc |  |
-| --- | --- | --- | --- | --- |
 | 2.1.13 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
 | 2.1.14 | Nämndens budget, Regler och riktlinjer<br>för förmåner till förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och riktlinjer<br>för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår<br>vilka aktiviteter som avses. |
 | 2.1.15 |  | Rätt att skriva under delgivningskvitto ställt till nämnden | Fc<br>Registrator<br>Nämnd-<br>sekreterare |  |
 | 2.1.16 | OSL 15 kap. 2 §<br>OSL 18 kap. 8 och 13 § | Bedöma sekretess i fråga om försvarssekretess, säkerhets- eller<br>bevakningsåtgärd och risk- och sårbarhetsanalyser m.m. | Fc<br>Vc Vatten<br>Avfall<br>Bredband | Avser även att ingå sekretessavtal |
 | 2.1.17 | 6 kap 15 § KL<br>Gemensamt reglemente för<br>kommunstyrelsen och övriga nämnder i<br>Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och ärenden som<br>enligt lag eller annan författning ankommer på nämnden eller på<br>annat sätt faller inom nämndens ansvarsområde. | Fc |  |
 | 2.1.18 | AB04<br>(Allmänna Bestämmelser för byggnads-,<br>anläggnings- och installations-<br>entreprenader) 3kap§1<br>ABT06<br>(Allmänna Bestämmelser för<br>totalentreprenader för byggnads-,<br>anläggnings- och installations-<br>entreprenader) 3kap§1 | Verka som ombud under anbudstid och enligt 3 kap § 1<br>AB04/ABT06 /ABK09 i projektverksamheten | Fc<br>Vc<br>Projekt &<br>Bygg<br>Vc<br>Vatten Avfall<br>Bredband<br>Vc<br>Trafik &<br>Utemiljö | Den som verkar som ombud ska<br>löpande informera FC om status för<br>uppdraget. Ombud ska rapportera<br>beslut tagna på delegation under<br>anbudstiden, och inte att denne<br>agerar ombud. |
-
-<!-- sida 358 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 11 (30)
-
-[Tabell 358-1](handlingar.tabeller/358-1.csv)
-
 |  | ABK09<br>(Allmänna Bestämmelser för<br>konsultuppdrag inom arkitekt- och<br>ingenjörsverksamhet av år 2009) 3kap§1 |  | Ec Projekt-<br>ledning<br>Ec<br>Byggledning<br>Ec<br>Planering VA<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling |  |
-| --- | --- | --- | --- | --- |
 | 2.1.19 |  | Besluta om förvaltningens interna organisation | Fc |  |
 | 2.1.20 | GDPR artikel 35 och 36 | Beslut att godkänna konsekvensbedömning vid viss<br>personuppgiftsbehandling | Fc<br>Vc | Dataskyddskontakt upprättar<br>konsekvensbedömning som ligger<br>till grund för beslut. Vid behov,<br>samråda med tillsyns- myndigheten |
 | 2.1.21 |  | Yttrande till kommunstyrelsen över detaljplan | Fc<br>Vc | Yttranden av principiell art lyfts för<br>beslut i nämnd. |
 | 2.1.22 |  | Yttrande i ärenden avseende remisser från Bygg- och<br>Miljöförvaltningen | Fc<br>Ec<br>Planering &<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Landskaps-<br>arkitekt<br>Handläggare<br>i ärendet<br>Projekt-<br>ledare |  |
-
-<!-- sida 359 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 12 (30)
-
-[Tabell 359-1](handlingar.tabeller/359-1.csv)
-
 |  |  |  | Anslutnings-<br>ingenjör |  |
-| --- | --- | --- | --- | --- |
 | 2.1.23 |  | Yttrande i ärenden avseende remisser från Bygg- och<br>Miljöförvaltningen | Fc<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Landskaps-<br>arkitekt<br>Handläggare<br>i ärendet<br>Projekt-<br>ledare<br>Anslutnings-<br>ingenjör |  |
 | 2.1.24 |  | Yttrande om trafiksäkerhetsbedömning till Förskola & Grundskola | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare |  |
 | 2.1.25 |  | Yttranden i andra ärenden | Fc<br>Vc | Dock ej remisser från<br>kommunstyrelsen som är<br>adresserade till nämnden, remisser<br>om planprogram (samråd eller<br>granskning), svar på motion från |
-
-<!-- sida 360 -->
-
-2.2 Ekonomi och inköp
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 13 (30)
-
-[Tabell 360-1](handlingar.tabeller/360-1.csv)
-
 |  |  |  |  | kommunstyrelsen eller yttrande av<br>principiell karaktär |
-| --- | --- | --- | --- | --- |
 | 2.1.26 |  | Sluta avtal inom nämndens verksamhetsområde i sådana fall<br>som inte är uppräknande i denna delegeringsförteckning | Fc | Avser ej avtal av principiell karaktär.<br>Se även punkt 2.2.8 |
 | 2.1.27 |  | Beslut om utövande av kommunens rösträtt vid föreningsårsmöte<br>(till exempel Svenskt Vatten, Avfall Sverige) | N ordf |  |
 | 2.1.28 | Miljöbalken 26, kap 20 | Godkänna miljörapporter | N ordf | Avser rapportering till<br>Naturvårdsverket |
@@ -14677,20 +14680,30 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.1.30 |  | Beslut om avsteg från fordonspolicyns krav på fossilfritt bränsle. | Fc | Sker i samråd med<br>Serviceförvaltningen – Fastighet &<br>Fordon |
 | 2.1.31 |  | Sluta avtal inom verksamhetsområde som chef äger ansvar över | Fc<br>Vc | Verksamhetschef har rätt att sluta<br>avtal som berör den verksamhet de<br>ansvarar över. Avtalet ska<br>inrymmas i verksamhetens budget.<br>Avser ej avtal av principiell<br>karaktär. |
 
-[Tabell 360-2](handlingar.tabeller/360-2.csv)
+<!-- sida 357 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 10 (30)
+
+<!-- sida 358 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 11 (30)
+
+<!-- sida 359 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 12 (30)
+
+<!-- sida 360 -->
+
+2.2 Ekonomi och inköp
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 13 (30)
+
+[Tabell 360-362-1](handlingar.tabeller/360-362-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Inköp, avser avtal (kontrakt) eller ramavtal som inte är<br>kommunövergripande. Avtal som avser två eller flera nämnder<br>träffas enligt överenskommelse mellan berörda nämnder. Dessa<br>hanteras av nämnden för Service. |  |  |
-
-<!-- sida 361 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 14 (30)
-
-[Tabell 361-1](handlingar.tabeller/361-1.csv)
-
 | 2.2.1 a) | LOU, Policy för inköp<br>Riktlinjer för inköp | Upphandlingsdokument (UD) som följer planeringen enligt<br>inköpsprocessen. | Fc | Inköpsprocessen enligt Riktlinjer för<br>inköp. |
-| --- | --- | --- | --- | --- |
 | 2.2.1 b) | LOU, Policy för inköp<br>Riktlinjer för inköp | Tilldelning efter genomförd upphandling | Fc |  |
 | 2.2.1 c) | LOU, Policy för inköp<br>Riktlinjer för inköp | Avbryta upphandling. | Fc |  |
 | 2.2.1 d) | LOU, Policy för inköp<br>Riktlinjer för inköp | Ändring och tillägg av kontrakt. | Fc |  |
@@ -14701,15 +14714,7 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.2.5 | Kommunens attestreglemente med<br>tillämpningsanvisningar | Besluta om attestförteckning | Fc |  |
 | 2.2.6 | Regler för fakturering och<br>kravhantering.<br>Fastställda av<br>kommunfullmäktige 2024-04-09 §<br>59 | Besluta om nedskrivning avfordringar upp till ett<br>prisbasbelopp | Fc<br>Vc |  |
 | 2.2.7 |  | Träffa överenskommelse om betalning av fordran samt ingå<br>förlikning om fordran | Fc<br>Vc<br>Ec Kund<br>& | Belopp upp till 0,5 prisbasbelopp<br>utgör verkställighet. |
-
-<!-- sida 362 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 15 (30)
-
-[Tabell 362-1](handlingar.tabeller/362-1.csv)
-
 |  |  |  | Kommuni<br>kation |  |
-| --- | --- | --- | --- | --- |
 | 2.2.8 |  | Sluta ekonomiskt avtal inom nämndens verksamhetsområde<br>i sådana fall som inte är uppräknande i denna<br>delegeringsförteckning upp till tio prisbasbelopp | Fc | Avser ej avtal av principiell<br>karaktär.<br>Belopp upp till två<br>prisbasbelopp utgör<br>verkställighet. |
 | 2.2.9 |  | Besluta om avslag eller utbetalning av skadeståndskrav,<br>ersättningskrav, självrisker och regresskrav upp till tio<br>prisbasbelopp<br>Upp till tio prisbasbelopp<br>Upp till fem prisbasbelopp | Fc<br>Fc, Vc | Belopp upp till 0,5<br>prisbasbelopp utgör<br>verkställighet, dock ej vid<br>beslut om avslag. |
 | 2.2.10 |  | Försäljning av material<br>Över ett prisbasbelopp<br>Upp till ett prisbasbelopp | Fc<br>Fc, Vc |  |
@@ -14717,13 +14722,21 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.2.12 |  | - Beslut att godkänna tilldelning, gäller även återta<br>tilldelning<br>- Beslut att underteckna avtal efter att avtalsspärren<br>löpt ut alternativt efter att domstol avslagit ansökan<br>om överprövning<br>- Beslut att avbryta upphandling, gäller även återta<br>avbrytande<br>- Beslut om ändring och tillägg till avtal<br>- Beslut om uppsägning eller hävning av avtal<br><500 000kr | Fc<br>Fc, Vc |  |
 | 2.2.13 | Nämndens beslut om nämndbudget<br>och Kungsbacka styrmodell | Beslut om driftåtgärder enligt budget och förvaltningsplan | Fc |  |
 
+<!-- sida 361 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 14 (30)
+
+<!-- sida 362 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 15 (30)
+
 <!-- sida 363 -->
 
 2.3 Personal
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 16 (30)
 
-[Tabell 363-1](handlingar.tabeller/363-1.csv)
+[Tabell 363-364-1](handlingar.tabeller/363-364-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -14734,15 +14747,6 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 |  |  | Avveckla |  |  |
 | 2.3.4 | LAS § 7 | Uppsägning av personliga skäl. | Fc | I samråd med HR på förvaltningen och<br>förhandlingschef |
 | 2.3.5 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR på förvaltningen |
-
-<!-- sida 364 -->
-
-Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 17 (30)
-
-[Tabell 364-1](handlingar.tabeller/364-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
-| --- | --- | --- | --- | --- |
 | 2.3.6 | LAS 18 § | Avsked | Fc | I samråd med HR på förvaltningen och<br>förhandlingschef |
 | 2.3.7 | Gemensamt reglemente för kommun-<br>styrelsen och nämnder i Kungsbacka<br>kommun | Avsluta anställning enligt särskild överenskommelse. | Fc | I samråd med HR-chef |
 |  |  | Annat |  |  |
@@ -14750,13 +14754,17 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.3.9 | AB § 10 mom 1-3 | Avstängning | Fc | I samråd med HR på förvaltningen |
 | 2.3.10 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Fc | I samråd med HR på förvaltningen |
 
+<!-- sida 364 -->
+
+Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 17 (30)
+
 <!-- sida 365 -->
 
 2.4 Väg, Trafik & Utemiljö
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 18 (30)
 
-[Tabell 365-1](handlingar.tabeller/365-1.csv)
+[Tabell 365-370-1](handlingar.tabeller/365-370-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -14765,67 +14773,47 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | 2.4.3 | 10 kap. trafikförordningen (1998:1276) | Övriga beslut om lokala trafikföreskrifter utom upphävande av<br>inaktuella trafikföreskrifter | Au |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare |  |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | Ny föreskrift med samma<br>reglering, t.ex. att kartmaterialet<br>har förbättrats eller att det<br>upptäckts brist i befintlig<br>föreskrift. |
+|  |  |  | Samordnare |  |
+| 2.4.6 | 10 kap. trafikförordningen (1998:1276) | Beslut av trafikföreskrift med anledning av ombyggnation<br>(investering eller reinvestering) | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | Med beslut av nämnd<br>menas här beslutad<br>investering.<br>Avser justerade LTF:er<br>med anledning av<br>ombyggnation på plats/yta. |
+| 2.4.7 | 13 kap. 3-4 §§ trafikförordningen<br>(1998:1276) | Beslut om undantag från lokala trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | Dispens från trafikföreskrift |
+| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag<br>från bestämmelserna om största tillåtna fordonsbredd, -längd och -<br>vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | Fordonsdispenser |
+|  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
+| 2.4.9 |  | Teckna samrådsförfarande med Trafikverkets i ärenden om<br>transportdispenser | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Trafik-<br>samordnare |  |
+| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker |  |
+| 2.4.11 | 2 § lagen om flyttning av fordon i vissa fall<br>2 § förordningen om flyttning av fordon i<br>vissa fall | Beslut om flyttning av fordon | Fc<br>Vc Trafik &<br>Utemiljö |  |
+|  |  |  | Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Arbetsledare<br>Trafik-<br>samordnare<br>Trafik-<br>övervakare |  |
+| 2.4.12 | Tillämpningsregler för bidrag till enskild<br>väghållning I Kungsbacka kommun<br>2011- 05-18 | Beslut om bidrag för lekplats, enskild väghållning, särskilt<br>vägbidrag och vägbelysning enligt av fullmäktige fastställda<br>villkor | Fc<br>Auto-<br>matiserad<br>besluts-<br>funktion<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Trafik-<br>samordnare |  |
+| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare |  |
+| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
+| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
+| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare |  |
+| 2.4.17 | Ordningslagen (1993:1617) 2 kap | Yttrande till polisen avseende begagnade av offentlig plats | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
+| 2.4.18 | Ordningslagen (1993:1617) 2 kap | Tecknande av avtal som rör begagnade av offentlig plats | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning |  |
+|  |  |  | Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
+| 2.4.19 | Riktlinjer för stadsodling i Kungsbacka | Teckna skötselavtal för odling på allmän plats med förening eller<br>organisation | Fc |  |
+| 2.4.20 |  | Avsteg från torgstadgan för att möjliggöra försäljning under<br>längre period | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>&<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling | Nämnden för Teknik har på<br>delegation att besluta om<br>avsteg från torgstadgan för<br>att möjliggöra försäljning<br>under längre perioder, I de<br>fall där avetablering av<br>försäljningsutrustning är<br>olämplig varje kväll. |
+| 2.4.21 |  | Upphävanden av inaktuella trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>&<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare |  |
+| 2.4.22 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om priser för öppningstillstånd respektive TA-plan. | Fc | Beslut om nya avgifter ska<br>årligen rapporteras till<br>Nämnden för Tekniks<br>arbetsutskott. |
 
 <!-- sida 366 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 19 (30)
 
-[Tabell 366-1](handlingar.tabeller/366-1.csv)
-
-|  |  |  | Samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.6 | 10 kap. trafikförordningen (1998:1276) | Beslut av trafikföreskrift med anledning av ombyggnation<br>(investering eller reinvestering) | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | Med beslut av nämnd<br>menas här beslutad<br>investering.<br>Avser justerade LTF:er<br>med anledning av<br>ombyggnation på plats/yta. |
-| 2.4.7 | 13 kap. 3-4 §§ trafikförordningen<br>(1998:1276) | Beslut om undantag från lokala trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | Dispens från trafikföreskrift |
-| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag<br>från bestämmelserna om största tillåtna fordonsbredd, -längd och -<br>vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | Fordonsdispenser |
-
 <!-- sida 367 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 20 (30)
-
-[Tabell 367-1](handlingar.tabeller/367-1.csv)
-
-|  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.9 |  | Teckna samrådsförfarande med Trafikverkets i ärenden om<br>transportdispenser | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Trafik-<br>samordnare |  |
-| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker |  |
-| 2.4.11 | 2 § lagen om flyttning av fordon i vissa fall<br>2 § förordningen om flyttning av fordon i<br>vissa fall | Beslut om flyttning av fordon | Fc<br>Vc Trafik &<br>Utemiljö |  |
 
 <!-- sida 368 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 21 (30)
 
-[Tabell 368-1](handlingar.tabeller/368-1.csv)
-
-|  |  |  | Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Arbetsledare<br>Trafik-<br>samordnare<br>Trafik-<br>övervakare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.12 | Tillämpningsregler för bidrag till enskild<br>väghållning I Kungsbacka kommun<br>2011- 05-18 | Beslut om bidrag för lekplats, enskild väghållning, särskilt<br>vägbidrag och vägbelysning enligt av fullmäktige fastställda<br>villkor | Fc<br>Auto-<br>matiserad<br>besluts-<br>funktion<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Trafik-<br>samordnare |  |
-| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare |  |
-
 <!-- sida 369 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 22 (30)
 
-[Tabell 369-1](handlingar.tabeller/369-1.csv)
-
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare |  |
-| 2.4.17 | Ordningslagen (1993:1617) 2 kap | Yttrande till polisen avseende begagnade av offentlig plats | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
-| 2.4.18 | Ordningslagen (1993:1617) 2 kap | Tecknande av avtal som rör begagnade av offentlig plats | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning |  |
-
 <!-- sida 370 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 23 (30)
-
-[Tabell 370-1](handlingar.tabeller/370-1.csv)
-
-|  |  |  | Ec<br>Anläggning<br>& Utveckling<br>Samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.19 | Riktlinjer för stadsodling i Kungsbacka | Teckna skötselavtal för odling på allmän plats med förening eller<br>organisation | Fc |  |
-| 2.4.20 |  | Avsteg från torgstadgan för att möjliggöra försäljning under<br>längre period | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>&<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling | Nämnden för Teknik har på<br>delegation att besluta om<br>avsteg från torgstadgan för<br>att möjliggöra försäljning<br>under längre perioder, I de<br>fall där avetablering av<br>försäljningsutrustning är<br>olämplig varje kväll. |
-| 2.4.21 |  | Upphävanden av inaktuella trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>&<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare |  |
-| 2.4.22 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om priser för öppningstillstånd respektive TA-plan. | Fc | Beslut om nya avgifter ska<br>årligen rapporteras till<br>Nämnden för Tekniks<br>arbetsutskott. |
 
 <!-- sida 371 -->
 
@@ -14881,47 +14869,35 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 2
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 27 (30)
 
-[Tabell 374-1](handlingar.tabeller/374-1.csv)
+[Tabell 374-377-1](handlingar.tabeller/374-377-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 2.8.1 | 26 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att anvisa hämtningsplats för hushållsavfall | Fc<br>Ec Avfall &<br>Återvinning<br>Handläggare<br>Avfall &<br>Återvinning |  |
 | 2.8.2 | 31§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om justering av avfallsabonnemang vid avvikelse från<br>gällande abonnemang | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Handläggare<br>samordnare<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.4 | 41§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om förlängt tömningsintervall för fettavskiljare på<br>fastigheter med anslutning till det kommunala ledningsnätet | Fc<br>Miljö-<br>ingenjör,<br>handläggare,<br>samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt i sophämtning | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund & |  |
+|  |  |  | Kommun-<br>ikation |  |
+| 2.8.7 | 43b § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om inställd hämtning av avfall från fastighetens<br>avloppsanläggning | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.8 | 43c § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om uppehåll i slamtömning inklusive eventuella<br>filteranläggningar | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.9 | 43d § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om uppehåll i tömning av fettavskiljare för<br>fettavskiljare på fastigheter med anslutning till det<br>kommunala ledningsnätet | Fc<br>Miljö-<br>ingenjör,<br>handläggare,<br>samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning |  |
+|  |  |  | och Kund &<br>Kommun-<br>ikation |  |
+| 2.8.10 |  | Besluta i ärenden om tillämpning av taxa och lokal<br>renhållningsordning i delar som rör nämndens<br>verksamhetsområde | Fc<br>Vc Vatten<br>Avfall<br>Bredband |  |
+| 2.8.11 | 47 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Beslut om att frångå avfallsföreskrifter på annat sätt än i<br>undantagsfallen 35-46 §§ | Fc<br>Vc Vatten<br>avfall<br>Bredband |  |
 
 <!-- sida 375 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 28 (30)
 
-[Tabell 375-1](handlingar.tabeller/375-1.csv)
-
-| 2.8.4 | 41§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om förlängt tömningsintervall för fettavskiljare på<br>fastigheter med anslutning till det kommunala ledningsnätet | Fc<br>Miljö-<br>ingenjör,<br>handläggare,<br>samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
-| --- | --- | --- | --- | --- |
-| 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
-| 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt i sophämtning | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund & |  |
-
 <!-- sida 376 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 29 (30)
 
-[Tabell 376-1](handlingar.tabeller/376-1.csv)
-
-|  |  |  | Kommun-<br>ikation |  |
-| --- | --- | --- | --- | --- |
-| 2.8.7 | 43b § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om inställd hämtning av avfall från fastighetens<br>avloppsanläggning | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
-| 2.8.8 | 43c § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om uppehåll i slamtömning inklusive eventuella<br>filteranläggningar | Fc<br>Handläggare<br>Samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning<br>och Kund &<br>Kommun-<br>ikation |  |
-| 2.8.9 | 43d § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om uppehåll i tömning av fettavskiljare för<br>fettavskiljare på fastigheter med anslutning till det<br>kommunala ledningsnätet | Fc<br>Miljö-<br>ingenjör,<br>handläggare,<br>samordnare,<br>administratör<br>och system-<br>administratör<br>inom Avfall &<br>Återvinning |  |
-
 <!-- sida 377 -->
 
 Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 30 (30)
-
-[Tabell 377-1](handlingar.tabeller/377-1.csv)
-
-|  |  |  | och Kund &<br>Kommun-<br>ikation |  |
-| --- | --- | --- | --- | --- |
-| 2.8.10 |  | Besluta i ärenden om tillämpning av taxa och lokal<br>renhållningsordning i delar som rör nämndens<br>verksamhetsområde | Fc<br>Vc Vatten<br>Avfall<br>Bredband |  |
-| 2.8.11 | 47 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Beslut om att frångå avfallsföreskrifter på annat sätt än i<br>undantagsfallen 35-46 §§ | Fc<br>Vc Vatten<br>avfall<br>Bredband |  |
 
 <!-- sida 378 -->
 
@@ -15637,25 +15613,44 @@ För tillståndspliktiga avloppsreningsanläggningar som omfattas av Natur-
 vårdsverkets föreskrifter (NFS 2016:6) om rening och kontroll av utsläpp av
 avloppsvatten från tätbebyggelse ska följande rapporteras:
 
-(NFS 2019:7)
+Anslutning              - Tillståndsgiven anslutning (pe)
+\- Dimensionerande kapacitet (pe)
+Belastning              - Maximal genomsnittlig veckobelastning
+från tätbebyggelsen (pe)\*
 
+\- Inkommande maximal genomsnittlig
+veckobelastning för året (pe)\*
+\- Inkommande belastning beräknat som
+årsmedelvärde (pe)
+
+Inkommande till         - COD , BOD , totalfosfor och totalkväve
+Cr    7
+avloppsrenings-anläggning i mängd och halt (kg, mg/l)
+\- Flöde (1 000 m3)
+Utgående från avloppseningsan- - COD , BOD , totalfosfor, totalkväve,
+Cr    7
+läggning                NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i
+4
+mängd och halt (kg, mg/l) samt flöde (1 000
+m3) för utgående renat avloppsvatten, bräd-
+dat i eller vid avloppsreningsanläggningen,
+och sammanvägd utgående mängd och halt
+inklusive bräddning i eller vid avloppse-
+ningsanläggningen
+Efterlevnad av begränsningsvär- - COD (förvalda alternativ anges)\*\*
+Cr
+den i NFS 2016:6        - BOD (förvalda alternativ anges)\*\*
+7
+\- Totalkväve (förvalda alternativ anges)\*\*\*
+\- Totalfosfor (förvalda alternativ anges)
+(NFS 2019:7)
 \* Även bedömningsunderlaget ska redovisas.
 \*\* Om efterlevnad sker genom högsta koncentration per mättillfälle eller
 minsta procentuella reduktion per mättillfälle ska samtliga provtagningsdatum
 med analysresultat redovisas.
-
 \*\*\* Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
 Beräkningen ska utgå från reduktionen i avloppsreningsanläggningen och
 naturlig kväveretention
-
-[Tabell 398-1](handlingar.tabeller/398-1.csv)
-
-| Anslutning | - Tillståndsgiven anslutning (pe)<br>- Dimensionerande kapacitet (pe) |
-| --- | --- |
-| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)\*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)\*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
-| Inkommande till<br>avloppsrenings-anläggning | - COD , BOD , totalfosfor och totalkväve<br>Cr 7<br>i mängd och halt (kg, mg/l)<br>- Flöde (1 000 m3) |
-| Utgående från avloppseningsan-<br>läggning | - COD , BOD , totalfosfor, totalkväve,<br>Cr 7<br>NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i<br>4<br>mängd och halt (kg, mg/l) samt flöde (1 000<br>m3) för utgående renat avloppsvatten, bräd-<br>dat i eller vid avloppsreningsanläggningen,<br>och sammanvägd utgående mängd och halt<br>inklusive bräddning i eller vid avloppse-<br>ningsanläggningen |
-| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)\*\*<br>Cr<br>- BOD (förvalda alternativ anges)\*\*<br>7<br>- Totalkväve (förvalda alternativ anges)\*\*\*<br>- Totalfosfor (förvalda alternativ anges) |
 
 <!-- sida 399 -->
 
@@ -18623,18 +18618,6 @@ unika miljöer och stadsrum.
 14
 Gestaltningsprogram Sydöstra centrum
 
-[Tabell 459-1](handlingar.tabeller/459-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-
-[Tabell 459-2](handlingar.tabeller/459-2.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
 <!-- sida 460 -->
 
 2
@@ -18891,13 +18874,6 @@ SKOLGATAN
 16
 Gestaltningsprogram Sydöstra centrum
 
-[Tabell 461-1](handlingar.tabeller/461-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-
 <!-- sida 462 -->
 
 VARBERGSVÄGEN
@@ -18923,7 +18899,9 @@ gångstråket från centrum/Lindens Torg via Gröna gatan passerar vidare
 
 till nästa etapp av Sydöstra centrum på östra sidan av Varbergsvägen.
 
-1500                                                                         500
+1500 2 000 3 000 2 000 3 500 4 500 3 500 3 000 3 500  4 500   3 500 2 000 3 500 500
+GÅNG CYKEL PLANTERING KÖR BUSSHÅLLPLATS BUSSKÖRFÄLT PLANTERING BUSSKÖRFÄLT BUSSHÅLLPLATS KÖR PLANTERING GÅNG & CYKEL
+Gaturum 38,5m
 
 N
 
@@ -18934,12 +18912,6 @@ SNÄRGSTEHGITSAF                                                            SNÄ
 VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
 VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
 1:200 0       5        10M
-
-[Tabell 462-1](handlingar.tabeller/462-1.csv)
-
-| 2 000 3 000 2 000 3 500 4 500 3 500 3 000 3 500 4 500 3 500 2 000 3 500 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GÅNG | CYKEL PLAN | TERING KÖR | BUSSHÅLLPLATS | BUSSKÖRFÄLT PLA<br>Gaturum 38 | NTERING BUSSKÖRFÄLT<br>,5m | BUSSHÅLLPLATS | KÖR PLANTERIN | G GÅNG & CYKEL |
 
 <!-- sida 463 -->
 
@@ -18979,8 +18951,9 @@ Gestaltningsprogram Sydöstra centrum
 SNÄRGSTEHGITSAF
 VILDASAF
 GÅNGBANA KÖRBANA PLANTERING CYKELBANA GÅNGBANA
-5 540   2 000 1 500
-BEF. HÅRDGJORD YTA                 F. GRÖNYTA GÅNGBANA FÖRGÅRDSMARK
+1 000   8 000    1 000 2 500 5 540  2 000 1 500
+BEF. HÅRDGJORD YTA BEF. KÖRBANA CYKELBANA BEF. GRÖNYTA GÅNGBANA FÖRGÅRDSMARK
+GATURUM 19m
 SNÄRGSTEHGITSAF
 VILDASAF
 Hantverksgatan ligger i planområdets södra del och ansluter till
@@ -18993,12 +18966,6 @@ kvar finns det inte möjlighet att plantera fler träd.                         
 HANTVERKSGATAN - TYPSEKTION MED GRÖNYTA MELLAN GÅNG OCH CYKELBANA
 HANTVERKSGATAN - TYPSEKTION MED GRÖNYTA MELLAN GÅNG OCH CYKELBANA
 1:200 0       5        10M
-
-[Tabell 464-1](handlingar.tabeller/464-1.csv)
-
-| 1 000 8 000 1 000 2 500 |  |
-| --- | --- |
-|  | BEF. KÖRBANA CYKELBANA BE<br>GATURUM 19m |
 
 <!-- sida 465 -->
 
@@ -19193,8 +19160,9 @@ Lokalgatorna aslutas med vändzoner mot Varbergsvägen. Här planeras för plats
 
 för grönska som ger karaktären av ett litet torg istället för en trafikplats.
 
-UTESERVERING
-HÅ
+UTESERVERING PLANTERING HÅRDGJORD YTA      GRÖNYTA                     2 500 3 000 3 500 5 000 500
+HÅRDGJORD YTA                                                   HÅRDGJORD YTA PLANTERING HÅRDGJORD YTA REGNBÄDD
+BOSTADSNÄRA PARKEN                           GRÖNA GATAN
 
 LOKALGATA 2
 
@@ -19205,12 +19173,6 @@ Gestaltningsprogram Sydöstra centrum
 VILDASAF                                                                                   VILDASAF
 LOKALGATA 2 - TYPSEKTION ÖVER PARKEN
 1:200 0       5        10M
-
-[Tabell 466-1](handlingar.tabeller/466-1.csv)
-
-| PLANT | ERING HÅRDGJORD YTA | GRÖNYTA | 2 500 3 000 3 500 | 5 000 | 500 |
-| --- | --- | --- | --- | --- | --- |
-| RDGJORD YTA |  | BOSTADSNÄRA PARKEN | HÅRDGJORD YTA PLANTERING HÅRDGJORD YTA R<br>GRÖNA GATAN | EGNBÄDD |  |
 
 <!-- sida 467 -->
 
@@ -19902,20 +19864,6 @@ kommer att utvecklas vidare.                                            HÖGRE D
 En 14 våningsuppstickare som annonserar området från söder.
 33
 Gestaltningsprogram Sydöstra centrum
-
-[Tabell 478-1](handlingar.tabeller/478-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 <!-- sida 479 -->
 
@@ -24378,7 +24326,7 @@ delegeringsförteckning antagen 2024-09-25 § 94.
 Sida
 1(9)
 
-[Tabell 590-1](handlingar.tabeller/590-1.csv)
+[Tabell 590-598-1](handlingar.tabeller/590-598-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -24390,16 +24338,6 @@ Sida
 | 2025-08-22 | Yttrande Teknik - markupplåtelse för byggställning | TE-2025-00781 |
 | 2025-08-25 | Yttrande Teknik - uteservering Dinè Burgers | TE-2025-00764 |
 | 2025-08-20 | Yttrande Teknik - Samrådsutskick - Detaljplan för skola inom del av Åsa 5.246 i Åsa, Kungsbacka kommun | TE-2025-00776 |
-
-<!-- sida 591 -->
-
-Sida
-2(9)
-
-[Tabell 591-1](handlingar.tabeller/591-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-08-19 | Yttrande Teknik - Fordonsträff Tjolöholms slott | TE-2025-00763 |
 | 2025-08-26 | Yttrande Teknik - Enskild avloppsanläggning, AMMENDRED 1:10, MH-2025-2235-13 | TE-2025-00761 |
 | 2025-08-24 | Yttrande Teknik - kommunala ledningar för VA, renhållning & avfallshantering, Munkatorp 1:2, BN 2025-001305 | TE-2025-00759 |
@@ -24411,16 +24349,6 @@ Sida
 | 2025-08-18 | Yttrande Teknik - gällande VA-anslutning, hämtning av hushållsavfall - MYRA 6:2 - BN 2025-001100 | TE-2025-00712 |
 | 2025-07-23 | Yttrande Teknik - Loppmarknad Bostället Frillesås | TE-2025-00708 |
 | 2025-07-23 | Yttrande Teknik - konsert och uteservering i Gottskär | TE-2025-00707 |
-
-<!-- sida 592 -->
-
-Sida
-3(9)
-
-[Tabell 592-1](handlingar.tabeller/592-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-07-23 | Yttrande Teknik - Konsert i Gottskär | TE-2025-00640 |
 | 2025-07-21 | Yttrande Teknik - Byggetablering Resecentrum | TE-2025-00684 |
 | 2025-07-18 | Yttrande Teknik - Marknad - Valldadagen | TE-2025-00639 |
@@ -24432,16 +24360,6 @@ Sida
 | 2025-08-01 | Yttrande Teknik - gällande sophämtning, samfälligheten för VA, TORPA 15:2 - BN 2025-001389 | TE-2025-00685 |
 | 2025-07-16 | Yttrande Teknik - Affischering inför Kyrkoval 2025 | TE-2025-00603 |
 | 2025-08-28 | Yttrande Teknik - Placering över dagvattenledning och optokabel - Duvehed 2:22, BN 2024-002465 | TE-2025-00644 |
-
-<!-- sida 593 -->
-
-Sida
-4(9)
-
-[Tabell 593-1](handlingar.tabeller/593-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-07-10 | Yttrande Teknik - försäljning av churros A437.802/2025 | TE-2025-00649 |
 | 2025-07-16 | Yttrande Teknik - parkerings lösning, avfallshantering, anslutning till väg, trafiksäkerhet - Duvehed 2:58 - BN 2025-000765 | TE-2025-00606 |
 | 2025-07-09 | Yttrande Teknik - Bärförsäljning, Södra Infarten, Kungsbacka, A432.298/2025 | TE-2025-00635 |
@@ -24453,16 +24371,6 @@ Sida
 | 2025-07-01 | Yttrande Teknik - Konsert Kungsbacka torg | TE-2025-00596 |
 | 2025-06-30 | Yttrande Teknik - Placering av transformatorstation, HEDE 9:1, BN 2025-001323 | TE-2025-00565 |
 | 2025-06-30 | Yttrande Teknik - Konsert Tjolöholms Slott | TE-2025-00595 |
-
-<!-- sida 594 -->
-
-Sida
-5(9)
-
-[Tabell 594-1](handlingar.tabeller/594-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-06-30 | Yttrande Teknik - Cirkusföreställning i Onsala | TE-2025-00587 |
 | 2025-06-30 | Yttrande Teknik - Bilträff Tjolöholms Slott | TE-2025-00584 |
 | 2025-07-03 | Yttrande Teknik - Uteservering Tao Kitchen | TE-2025-00374 |
@@ -24474,16 +24382,6 @@ Sida
 | 2025-06-25 | Yttrande Teknik - Parkering, cykelförråd, miljöhus mm, Algusered 1:134, BN 2023-000136 | TE-2025-00582 |
 | 2025-06-24 | Yttrande Teknik - nybyggnad av enbostadshus och anslutning till VA-förening, Mossen 2:15 | TE-2025-00531 |
 | 2025-08-18 | Yttrande Teknik - hämtning av hushållsavfall samt möjlighet för att ansluta till kommunalt VA, KYVIK 2:84, BN 2025-000595 | TE-2025-00564 |
-
-<!-- sida 595 -->
-
-Sida
-6(9)
-
-[Tabell 595-1](handlingar.tabeller/595-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-07-01 | Yttrande Teknik - Tillbyggnad inom Reningsverk buffertzon, Släps-Kullen 1:286, BN 2025-000184 | TE-2025-00569 |
 | 2025-06-19 | Yttrande Teknik Transportdispens - TRV 2025/62084 | TE-2025-00558 |
 | 2025-06-26 | Yttrande Teknik - Orienteringstävling Idala | TE-2025-00538 |
@@ -24495,16 +24393,6 @@ Sida
 | 2025-06-13 | Yttrande Teknik - Bärförsäljning Varlavägens Pendelparkering | TE-2025-00537 |
 | 2025-06-25 | Yttrande Teknik - Godkännande av teknisk anläggning, KUNGSBACKA BUKÄRR 5:10, KS-2025-00482 | TE-2025-00539 |
 | 2025-06-25 | Yttrande Teknik - Godkännande av teknisk anläggning, Staragården 10:1, KS-2025-00481 | TE-2025-00536 |
-
-<!-- sida 596 -->
-
-Sida
-7(9)
-
-[Tabell 596-1](handlingar.tabeller/596-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-06-13 | Yttrande Teknik transportdispens TRV 2025/61376 | TE-2025-00533 |
 | 2025-06-25 | Yttrande Teknik - Godkännande av teknisk anläggning, Kolla 56>6, KS-2025-00483 | TE-2025-00546 |
 | 2025-06-24 | Yttrande Teknik - Godkännande av teknisk anläggning, Kungsbacka Varla 2:198, KS-2025-00484 | TE-2025-00541 |
@@ -24516,16 +24404,6 @@ Sida
 | 2025-06-25 | Yttrande Teknik - Godkännande av teknisk anläggning - KUNGSBACKA SLÄPS-KULLEN 2:344, KS-2025-00468 | TE-2025-00520 |
 | 2025-06-09 | Yttrande Teknik - Konsert i Åsa - ej yttrat | TE-2025-00510 |
 | 2025-06-05 | Yttrande Teknik - Sommar i Åsa | TE-2025-00502 |
-
-<!-- sida 597 -->
-
-Sida
-8(9)
-
-[Tabell 597-1](handlingar.tabeller/597-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-06-04 | Yttrande Teknik - Midsommarfirande i Badhusparken | TE-2025-00506 |
 | 2025-06-03 | Yttrande Teknik- Torgmöte vid Fyrens entré | TE-2025-00488 |
 | 2025-06-18 | Yttrande Teknik - Trafiksäkerhetsbedömning, Norra Rågelundsvägen till Frillesåsskolan | TE-2025-00507 |
@@ -24537,22 +24415,52 @@ Sida
 | 2025-06-04 | Yttrande Teknik - Enskild avloppsanläggning, Biared 1:19, MH-2025-1269 | TE-2025-00496 |
 | 2025-06-05 | Yttrande Teknik - Godkännande av teknisk anläggning, Borrning under Söderån -Kungsbacka 3:1, KS-2025-00418 | TE-2025-00487 |
 | 2025-06-10 | Yttrande Teknik - Godkänt läge för teknisk anläggning - Nötegång 1:49, Ekenäs 1:5, KS-2025-00329 | TE-2025-00486 |
-
-<!-- sida 598 -->
-
-Sida
-9(9)
-
-[Tabell 598-1](handlingar.tabeller/598-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-06-30 | Yttrande Teknik - Granskningsutskick - Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås, BN-2020-00010 | TE-2025-00468 |
 | 2025-06-03 | Yttrande Teknik - Godkännande av teknisk anläggning, Frillesås-Rya 3:77, KS-2025-00419 | TE-2025-00462 |
 | 2025-06-09 | Yttrande Teknik - Byggställning och lift Godhemsgatan | TE-2025-00390 |
 | 2025-06-03 | Yttrande Teknik - VA- och bredbandsanslutning, sophämtning och utfart, Hammerö 10:7, BN 2025-000214 | TE-2025-00444 |
 | 2025-08-15 | Yttrande Teknik - Granskningsutskick, Detaljplan för blandad stadsbebyggelse inom sydöstra centrum i Kungsbacka stad, BN<br>2020-00012 | TE-2025-00396 |
 | 2025-06-03 | Yttrande Teknik - Teknisk anläggning Nötegång 1:49, KS-2025-00255 | TE-2025-00263 |
+
+<!-- sida 591 -->
+
+Sida
+2(9)
+
+<!-- sida 592 -->
+
+Sida
+3(9)
+
+<!-- sida 593 -->
+
+Sida
+4(9)
+
+<!-- sida 594 -->
+
+Sida
+5(9)
+
+<!-- sida 595 -->
+
+Sida
+6(9)
+
+<!-- sida 596 -->
+
+Sida
+7(9)
+
+<!-- sida 597 -->
+
+Sida
+8(9)
+
+<!-- sida 598 -->
+
+Sida
+9(9)
 
 <!-- sida 599 -->
 
@@ -24566,20 +24474,50 @@ Delegeringsbeslut Teknik
 
 Delegeringsbeslut under juni, juli, augusti, rapportering i september
 
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning      Lagrum      Delegat   omfattning    Taget beslut och datum för beslutet
+Tecknade               FC        3.18 - Sluta avtal Tecknat avtal om fördjupat regionalt
+avtal                            inom nämndens samarbete inom avfall, vatten och
+3.18 / 9.6                       verksamhetsområde
+avloppsområdet i
+i sådana fall som inte
+Göteborgsregionen,
+är uppräknande i
+Göteborgsregionens
+denna
+kommunalförbund - 2012-00053 -
+delegeringsförteckni
+ng.           AVTAL-2025-00338.
+9.6 - Sluta
+Tecknat 2 st. modellavtal – 2025-07-
+ekonomiskt avtal
+11, AVTAL-2025-00389.
+inom nämndens
+verksamhetsområde Tecknat entreprenadkontrakt för
+i sådana fall som inte vunnen upphandling: Fjärås Må, GC-
+är uppräknande i väg och park – AVTAL-2025-00261.
+denna
+Tecknat förlikningsavtal med E.ON
+delegeringsförteckni
+Energidistribution AB, 2025-08-25 –
+ng upp till tio
+AVTAL-2025-00400.
+prisbasbelopp.
+3.13.1     Dataskyddsförord Dataskydds- Fastställa register Behandlingsregister nämnden för
+ningen artikel 30 kontakt över      Teknik fastställt 2025-07-01, dnr TE-
+personuppgiftsbehan 2025-00610
+dlingar
+3.14                   VC        Yttrande till 1 beslut om yttrande gällande
+kommunstyrelsen Rågelund 1:127, Sintorp 4:260,
+över detaljplan 4:261, 4:6, TE-2025-00468, datum
+2025-06-30.
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-
-[Tabell 599-1](handlingar.tabeller/599-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| Tecknade<br>avtal<br>3.18 / 9.6 |  | FC | 3.18 - Sluta avtal<br>inom nämndens<br>verksamhetsområde<br>i sådana fall som inte<br>är uppräknande i<br>denna<br>delegeringsförteckni<br>ng.<br>9.6 - Sluta<br>ekonomiskt avtal<br>inom nämndens<br>verksamhetsområde<br>i sådana fall som inte<br>är uppräknande i<br>denna<br>delegeringsförteckni<br>ng upp till tio<br>prisbasbelopp. | Tecknat avtal om fördjupat regionalt<br>samarbete inom avfall, vatten och<br>avloppsområdet i<br>Göteborgsregionen,<br>Göteborgsregionens<br>kommunalförbund - 2012-00053 -<br>AVTAL-2025-00338.<br>Tecknat 2 st. modellavtal – 2025-07-<br>11, AVTAL-2025-00389.<br>Tecknat entreprenadkontrakt för<br>vunnen upphandling: Fjärås Må, GC-<br>väg och park – AVTAL-2025-00261.<br>Tecknat förlikningsavtal med E.ON<br>Energidistribution AB, 2025-08-25 –<br>AVTAL-2025-00400. |
-| 3.13.1 | Dataskyddsförord<br>ningen artikel 30 | Dataskydds-<br>kontakt | Fastställa register<br>över<br>personuppgiftsbehan<br>dlingar | Behandlingsregister nämnden för<br>Teknik fastställt 2025-07-01, dnr TE-<br>2025-00610 |
-| 3.14 |  | VC | Yttrande till<br>kommunstyrelsen<br>över detaljplan | 1 beslut om yttrande gällande<br>Rågelund 1:127, Sintorp 4:260,<br>4:261, 4:6, TE-2025-00468, datum<br>2025-06-30. |
 
 <!-- sida 600 -->
 
@@ -24653,7 +24591,7 @@ KUNGSBACKA KOMMUN                                           3 (9)
 
 KUNGSBACKA KOMMUN                                           4 (9)
 
-[Tabell 602-1](handlingar.tabeller/602-1.csv)
+[Tabell 602-603-1](handlingar.tabeller/602-603-1.csv)
 
 | Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24678,15 +24616,6 @@ KUNGSBACKA KOMMUN                                           4 (9)
 |  |  |  |  |  | 1384 2025-<br>00311 | Kållasgårdsgatan |  |
 |  |  |  |  |  | 1384 2025-<br>00312 | Hede |  |
 |  |  |  |  |  | 1384 2025-<br>00313 | Kungsgatan |  |
-
-<!-- sida 603 -->
-
-KUNGSBACKA KOMMUN                                           5 (9)
-
-[Tabell 603-1](handlingar.tabeller/603-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | 1384 2025-<br>00314 | Stora Bäcksleden |  |
 |  |  |  |  |  | 1384 2025-<br>00315 | Stora Bäcksleden |  |
 |  |  |  |  |  | 1384 2025-<br>00316 | Sommarlustvägen |  |
@@ -24695,7 +24624,11 @@ KUNGSBACKA KOMMUN                                           5 (9)
 | 4.10 | 10 kap. 14 §<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 9st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2025-<br>00250 Lundegrens gata<br>1384 2025-<br>00256 Drottninggatan<br>1384 2025-<br>00257 Drottninggatan<br>1384 2025-<br>00261 Industrigatan<br>1384 2025-<br>00269 Resecentrum<br>1384 2025-<br>00285 Dalvindsgatan<br>1384 2025-<br>00306 Skogsallén<br>1384 2025-<br>00321 Skogsallén<br>1384 2025-<br>00323 Lantmannagatan |  |  |  |
 | 4.11 | 2 § lagen om<br>flyttning av fordon | VC Trafik &<br>Utemiljö | Beslut om flyttning<br>av fordon | 3 beslut om flyttning av fordon, TE-<br>2025-00117 |  |  |  |
 
-[Tabell 603-2](handlingar.tabeller/603-2.csv)
+<!-- sida 603 -->
+
+KUNGSBACKA KOMMUN                                           5 (9)
+
+[Tabell 603-1](handlingar.tabeller/603-1.csv)
 
 | 1384 2025-<br>00250 | Lundegrens gata |
 | --- | --- |
@@ -24712,36 +24645,110 @@ KUNGSBACKA KOMMUN                                           5 (9)
 
 KUNGSBACKA KOMMUN                                           6 (9)
 
-[Tabell 604-1](handlingar.tabeller/604-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | i vissa fall och 2 §<br>förordningen om<br>flyttning av fordon<br>i vissa fall | EC drift Gata<br>EC Planering<br>& Utformning<br>EC<br>Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervak<br>are |  | 2025-06-03<br>2025-08-14<br>2025-08-29 |
-| 4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgift<br>och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervak<br>are | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift<br>vid olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 785 st under maj månad<br>- 431 under juni månad<br>- 333 under juli månad<br>- 644 under augusti månad<br>Kontrollavgifter (tomtmark):<br>- 170 st under maj månad<br>- 103 under juni månad<br>- 93 under juli månad<br>- 132 under augusti månad |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC<br>Anläggning &<br>Utveckling<br>Samordnare/<br>RJ | Godkännande av<br>trafikanordningsplan | 20 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd<br>för rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 53<br>Avslagna: 6 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC<br>Anläggning &<br>Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning      Lagrum      Delegat   omfattning    Taget beslut och datum för beslutet
+i vissa fall och 2 § EC drift Gata
+förordningen om EC Planering        2025-06-03
+flyttning av fordon & Utformning    2025-08-14
+i vissa fall EC                     2025-08-29
+Anläggning &
+Utveckling
+Arbetsledare,
+Trafik-
+samordnare
+Trafikövervak
+are
+4.13       5 § lag (1976:206) Trafikövervak Beslut om Felparkeringsavgifter (gatumark):
+om          are       felparkeringsavgift - 785 st under maj månad
+felparkeringsavgift
+samt kontrollavgift - 431 under juni månad
+och 1 § lag
+vid olovlig parkering - 333 under juli månad
+(1984:318) om
+\- 644 under augusti månad
+kontrollavgift vid
+olovlig parkering
+Kontrollavgifter (tomtmark):
+\- 170 st under maj månad
+\- 103 under juni månad
+\- 93 under juli månad
+\- 132 under augusti månad
+4.15       Vägmärkesförord VC Trafik & Godkännande av 20 st beslut om enbart
+ningen SFS  Utemiljö  trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 § EC
+(a-e)       Anläggning &
+Ordningslagen 3 Utveckling
+kap. 4 §    Samordnare/
+RJ
+4.16       13 kap. och 8 § Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
+trafikförordningen dare parkeringstillstånd rörelsehindrad
+(1998:1276)
+för rörelsehindrade Beviljade: 53
+Avslagna: 6
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 kap Utemiljö avseende begagnade Teknik.
+EC        av offentlig plats
+Anläggning &
+Utveckling
+Samordnare
 
 <!-- sida 605 -->
 
 KUNGSBACKA KOMMUN                                           7 (9)
 
-[Tabell 605-1](handlingar.tabeller/605-1.csv)
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning      Lagrum      Delegat   omfattning    Taget beslut och datum för beslutet
+5.1        6–9 §§ lag  Färdtjänstutre Beslut om tillstånd Beslut om färdtjänst
+(1997:736) om dare    till färdtjänst med Beviljade: 204
+färdtjänst  EC Kansli
+regelkompletteringar Avslagna: 1
+5.2        12 § lag om           Beslut om att
+färdtjänst            återkalla tillstånd
+till färdtjänst om
+5.3        4–7 §§ lag  Färdtjänstutre Beslut om tillstånd Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare    till riksfärdtjänst Beviljade: 25
+riksfärdtjänst EC Kansli
+Avslagna: 0
+8.3        37§ Lokala  Anette    Besluta om    250610, 1 st
+avfallsföreskrifter Englund, godkännande av 250616, 1 st
+för Kungsbacka administratör kompostering av 250625, 1 st
+kommun      Kund &    matavfall     250701, 1 st
+Kommunikati             250707, 1 st
+on                      250807, 1 st
+250820, 2 st
+8.6        43, 43a §§ Lokala Anette Besluta om tillfälligt 250604, 2 st
+avfallsföreskrifter Englund, uppehåll i 250605, 1 st
+för Kungsbacka administratör sophämtning 250610, 2 st
+kommun      Kund &                  250611, 1 st
+Kommunikati             250919, 2 st
+on                      250625, 2 st
+250630, 1 st
+250701, 2 st
+250702, 1 st
+250710, 1 st
+250714, 1 st
+250723, 2 st
+250725, 2 st
+250728, 1 st
+250731, 1 st
+250801, 1 st
+250806, 2 st
+250811, 1 st
+250825, 1 st
+250829, 1 st
 
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd<br>till färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 204<br>Avslagna: 1 |
-| 5.2 | 12 § lag om<br>färdtjänst |  | Beslut om att<br>återkalla tillstånd<br>till färdtjänst om |  |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd<br>till riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 25<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikati<br>on | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 250610, 1 st<br>250616, 1 st<br>250625, 1 st<br>250701, 1 st<br>250707, 1 st<br>250807, 1 st<br>250820, 2 st |
-| 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikati<br>on | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 250604, 2 st<br>250605, 1 st<br>250610, 2 st<br>250611, 1 st<br>250919, 2 st<br>250625, 2 st<br>250630, 1 st<br>250701, 2 st<br>250702, 1 st<br>250710, 1 st<br>250714, 1 st<br>250723, 2 st<br>250725, 2 st<br>250728, 1 st<br>250731, 1 st<br>250801, 1 st<br>250806, 2 st<br>250811, 1 st<br>250825, 1 st<br>250829, 1 st |
-| 9.1.2 |  | FC | • Beslut att<br>godkänna tilldelning, | Totalt 2 beslut.<br>1 beslut den 2025-06-26 gällande<br>Tillbakatagande av tilldelningsbeslut, |
+9.1.2                  FC        • Beslut att  Totalt 2 beslut.
+godkänna tilldelning, 1 beslut den 2025-06-26 gällande
+Tillbakatagande av tilldelningsbeslut,
 
 <!-- sida 606 -->
 
 KUNGSBACKA KOMMUN                                           8 (9)
 
-[Tabell 606-1](handlingar.tabeller/606-1.csv)
+[Tabell 606-607-1](handlingar.tabeller/606-607-1.csv)
 
 | Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
@@ -24750,13 +24757,8 @@ KUNGSBACKA KOMMUN                                           8 (9)
 | 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |
 | 10.1.1 | LAS, AB §§ 3-5 | FC | Verksamhetschef<br>Tillsvidareanställning<br>och<br>tidsbegränsadeanstäl<br>lningar längre än 6<br>månader | - Verksamhetschef bitr, anställd<br>2025-08-11 av Catarina Sundberg |
 | 10.1.2 | LAS, AB §§ 3-5 | FC | Övriga medarbetare<br>Tillsvidareanställning<br>och<br>tidsbegränsadeanstäl<br>lningar längre än 6<br>månader | - HR-generalist förvaltning, anställd<br>2025-06-09 av Madeleine Hassellund<br>- Arbetsledare, anställd 2025-06-11<br>av Niklas Lindén<br>- Trafikplanerare, anställd 2025-07-<br>01 av Åsa Dykes |
+|  |  |  |  | - Trafikplanerare, anställd 2025-07-<br>01 av Åsa Dykes<br>- Projektledare, anställd 2025-07-07<br>av Mathias Pedersen<br>- Processtekniker, anställd 2025-07-<br>07 av Marcus Stengren<br>- Processtekniker, anställd 2025-07-<br>07 av Marcus Stengren<br>- Enhetschef, anställd 2025-07-10 av<br>Emir Halalkic<br>- Idrottsplatstekniker, anställd 2025-<br>08-11 av Sara Andersson<br>- Lastbilsförare, anställd 2025-08-11<br>av Katarina Björklund<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- Enhetschef, anställd 2025-08-18 av<br>Catarina Sundberg<br>- Anslutningsingenjör, anställd 2025-<br>08-25 av Annika Svensson<br>- Enhetschef, anställd 2025-08-25 av<br>Maria Hellström<br>- Utvecklingsledare, anställd 2025-<br>08-25 av Ulrika Granfors<br>- Trafikplanerare, anställd 2025-08-<br>27 av Åsa Dykes |
 
 <!-- sida 607 -->
 
 KUNGSBACKA KOMMUN                                           9 (9)
-
-[Tabell 607-1](handlingar.tabeller/607-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | - Trafikplanerare, anställd 2025-07-<br>01 av Åsa Dykes<br>- Projektledare, anställd 2025-07-07<br>av Mathias Pedersen<br>- Processtekniker, anställd 2025-07-<br>07 av Marcus Stengren<br>- Processtekniker, anställd 2025-07-<br>07 av Marcus Stengren<br>- Enhetschef, anställd 2025-07-10 av<br>Emir Halalkic<br>- Idrottsplatstekniker, anställd 2025-<br>08-11 av Sara Andersson<br>- Lastbilsförare, anställd 2025-08-11<br>av Katarina Björklund<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- VA-ingenjör, anställd 2025-08-15<br>av Jannike Berg<br>- Enhetschef, anställd 2025-08-18 av<br>Catarina Sundberg<br>- Anslutningsingenjör, anställd 2025-<br>08-25 av Annika Svensson<br>- Enhetschef, anställd 2025-08-25 av<br>Maria Hellström<br>- Utvecklingsledare, anställd 2025-<br>08-25 av Ulrika Granfors<br>- Trafikplanerare, anställd 2025-08-<br>27 av Åsa Dykes |

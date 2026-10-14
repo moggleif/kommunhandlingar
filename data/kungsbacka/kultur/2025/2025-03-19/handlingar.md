@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2a76ebef1957438fcc484026/1741856477
 sha256: e0a9bbaebba05599388a70a41e894cee0ca39e7cdab583d4774edb4e133f7a2c
 bytes: 9245925
 sidor: 574
-hamtad: 2026-10-08T07:36:52+00:00
-konverterad: 2026-10-08T07:38:00+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:35:06+00:00
+konverterad: 2026-10-14T10:36:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [9, 456, 490, 494, 522, 526, 527, 528, 530, 531, 532, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -580,17 +580,35 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 17 -->
 
+2.1.7 Riktlinjer för Ingå personuppgiftsbiträdesavtal för Bitr. kdir Avser kommungemensamma tjänster och system som
+personuppgifts- kommungemensamma digitala tjänster och system. används av kommunens samtliga nämnder.
+behandling,                                           Kommungemensamma system som stödjer
+kommungemensamma stödprocesser som utförs av
+GDPR artikel 28
+Service eller kommunstyrelsen enligt reglemente
+omfattas inte.
+2.1.8 GDPR artikel 30 Fastställa nämndens register över Dsk
+personuppgiftsbehandlingar.
+2.1.9 GDPR artikel 33 Utredning och beslut om åtgärder i ärende om Dsk I samråd med enhetschef och systemförvaltare
+och 34    personuppgiftsincident. Delegeringen omfattar anmälan
+till Integritetsskyddsmyndigheten i förekommande fall,
+samt yttrande i ärende som med anledning av en
+anmälan inleds av Integritetsskyddsmyndigheten.
+2.1.10 GDPR artikel 35 Beslut med anledning av konsekvensbedömning Fc
+avseende dataskydd
+2.1.11 GDPR artikel 37 Utnämna dataskyddsombud för nämnden. Fc
+2.1.12 Nämndens Deltagande i aktivitet\* för ordförande, vice ordförande, Ordf. Rätt till arvode för deltagande på aktivitet regleras i
+budget, Regler ledamot och ersättare i nämnden.      Regler och riktlinjer för förmåner till förtroendevalda
+För beslut som
+och riktlinjer för
+avser ordförande
+förmåner till                                        \*I samma dokument som ovan framgår vilka
+beslutar vice
+förtroende-                                          aktiviteter som avses.
+ordförande
+valda
+
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 7 (11)
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| 2.1.7 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system. | Bitr. kdir | Avser kommungemensamma tjänster och system som<br>används av kommunens samtliga nämnder.<br>Kommungemensamma system som stödjer<br>kommungemensamma stödprocesser som utförs av<br>Service eller kommunstyrelsen enligt reglemente<br>omfattas inte. |
-| --- | --- | --- | --- | --- |
-| 2.1.8 | GDPR artikel 30 | Fastställa nämndens register över<br>personuppgiftsbehandlingar. | Dsk |  |
-| 2.1.9 | GDPR artikel 33<br>och 34 | Utredning och beslut om åtgärder i ärende om<br>personuppgiftsincident. Delegeringen omfattar anmälan<br>till Integritetsskyddsmyndigheten i förekommande fall,<br>samt yttrande i ärende som med anledning av en<br>anmälan inleds av Integritetsskyddsmyndigheten. | Dsk | I samråd med enhetschef och systemförvaltare |
-| 2.1.10 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Fc |  |
-| 2.1.11 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.12 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
 
 <!-- sida 18 -->
 
@@ -598,7 +616,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 8 (11)
 
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
+[Tabell 18-19-1](handlingar.tabeller/18-19-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -610,6 +628,11 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Vc |  |
 | 2.2.1 f) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Upphandlingsdokument (UD) som följer planeringen<br>enligt inköpsprocessen.<br>Tilldelning efter genomförd upphandling<br>Avbryta upphandling.<br>Ändring och tillägg av kontrakt.<br>Uppsägning eller hävning av avtal | Ec Kultur &<br>Besöksmäl | Avser offentlig konst |
 | 2.2.2 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
+| 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter. | Fc | Anmäls till nämnden en gång per år. |
+| 2.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och inkasso-<br>verksamhet och<br>kontant-hantering | Beslut om att avskriva utestående fordringar upp till ett<br>basbelopp | Fc | I samråd med ansvarig chef. |
+| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 150 000 kr per tillfälle. |
+| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Vc |  |
+| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
 
 <!-- sida 19 -->
 
@@ -617,16 +640,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 9 (11)
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter. | Fc | Anmäls till nämnden en gång per år. |
-| --- | --- | --- | --- | --- |
-| 2.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och inkasso-<br>verksamhet och<br>kontant-hantering | Beslut om att avskriva utestående fordringar upp till ett<br>basbelopp | Fc | I samråd med ansvarig chef. |
-| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 150 000 kr per tillfälle. |
-| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Vc |  |
-| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
-
-[Tabell 19-2](handlingar.tabeller/19-2.csv)
+[Tabell 19-20-1](handlingar.tabeller/19-20-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -634,15 +648,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Chefer direkt underställda förvaltningschefen<br>Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader. | Fc | Samråd med presidiet under rekryteringsprocessen<br>och/eller innan anställning<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur<br>och samtliga övriga anställningsvillkor. |
 | 2.3.2 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Enhetschefer, direkt underställd personal<br>Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader | Vc |  |
 | 2.3.3 | LAS, kollektivavtal,<br>lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader. | Ec | Tidsbegränsad anställning upp till och med 6 månader är<br>verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur<br>och samtliga övriga anställnings-villkor.<br>Vidare-delegeringen gäller för anställning av personal<br>inom sitt respektive ansvarsområde. |
-
-<!-- sida 20 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (11)
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
 |  |  | Avveckla |  |  |
-| --- | --- | --- | --- | --- |
 | 2.3.4 | LAS § 7 | Uppsägning av personliga skäl. | Vc | I samråd med HR på förvaltningen och förhandlings-<br>chef |
 | 2.3.5 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR på förvaltningen |
 | 2.3.6 | LAS 18 § | Avsked | Fc | I samråd med HR på förvaltningen och förhandlings-<br>chef |
@@ -651,6 +657,10 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.8 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Vc | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 | 2.3.9 | AB § 10 mom<br>1-3 | Avstängning | Vc | I samråd med HR på förvaltningen |
 | 2.3.10 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Vc | I samråd med HR på förvaltningen |
+
+<!-- sida 20 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (11)
 
 <!-- sida 21 -->
 
@@ -1037,7 +1047,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 9 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 10 av 16
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
+[Tabell 31-33-1](handlingar.tabeller/31-33-1.csv)
 
 | Nr | Lagrum/<br>stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1049,15 +1059,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 10 av 16
 | 3.1.6 | Allmänna<br>Dataskydds<br>förordningen<br>EU 2016/679,<br>artikel 30 | Upprätta och underhålla<br>den<br>personuppgiftsansvarige s<br>förteckning över<br>personuppgifts-<br>behandlingen. | Fc | X | Förvaltningens<br>dataskydds-<br>kontakt |
 | 3.1.7 | Allmänna<br>Dataskydds<br>förordningen EU<br>2016/679, artikel<br>35 | Beslut med anledning av<br>konsekvensbedömning/<br>DPIA vid viss<br>personuppgiftsbehandling | Fc |  |  |
 | 3.1.8 | Dataskydds-<br>förordningen | Besluta om att helt eller<br>delvis avslå framställan om<br>begäran av utövande av<br>registrerads rättigheter | Fc | X |  |
-
-<!-- sida 32 -->
-
-Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 |  | (GDPR) och<br>dataskyddslagen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 3.1.9 | Dataskydds-<br>förordningen<br>artikel 28 | Teckna avtal om<br>personuppgiftsbiträdes<br>behandling av personuppgifter<br>för den personuppgifts-<br>ansvariges räkning | Fc | X | Rätten att<br>vidaredelegera<br>gäller tecknande<br>av<br>personuppgifts-<br>biträdesavtal för<br>digital<br>infrastruktur. |
 | NY<br>3.1.10 | Dataskyddsföror<br>dningen GDPR,<br>artikel 28<br>Hantering av<br>personuppgifter<br>Riktlinjer,<br>Kommunfullmä<br>ktige 2024-03-<br>05 § 33 | Ingå<br>personuppgiftsbiträdesavtal för<br>kommungemensamma digitala<br>tjänster och system. | Bitr. K.dir | X | Med kommun-<br>gemensamt avses<br>att systemet eller<br>tjänsten används<br>av kommunens<br>samtliga nämnder. |
 | NY<br>3.1.11 | Dataskydds-<br>förordningen<br>GDPR, artikel<br>28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommunfullmä<br>ktige 2024-03-<br>05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal för<br>digital tjänst eller system som<br>ska användas gemensamt med<br>en eller flera andra nämnder | Fc | X | Fullmakt får ges<br>till tjänsteman<br>som ska vara<br>systemägare för<br>den digitala<br>tjänsten eller<br>systemet. |
@@ -1065,18 +1067,18 @@ Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
 | 3.1.13 |  | Avge yttranden i<br>byggnadslovsfrågor avseende<br>kulturmiljövård inför beslut<br>om bygglov | Fc | X |  |
 | 3.1.14 |  | Avge yttrande över förslag till<br>detaljplaner utifrån nämndens<br>ansvarsområde | N ordf | X |  |
 | 3.1.15 |  | Beslut och utbetalning av<br>bidrag till idrotts-, kultur- och<br>idéburna föreningar, grupper,<br>nätverk och enskilda<br>kulturutövare samt<br>studieförbund | Fc | X | Inom<br>budgetram och<br>av nämnden<br>fastställda<br>bidragsregler |
+| 3.1.16 | Spellagen<br>6 kap 9 § | Besluta om registrering i fem<br>år, utseende av kontrollant | Fc | X |  |
+| 3.1.17 |  | Underteckna<br>bidragsansökningar där<br>Kungsbacka kommun står som<br>sökande | Fc | X | Rätt att<br>underteckna utan<br>att vara<br>firmatecknare, se<br>punkt 1.5 |
+| 3.1.18 |  | Kvittning av innevarande års<br>rätt till föreningsbidrag mot<br>hyresskuld som avser samma<br>period. | Fc |  |  |
+| 3.1.19 | Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande på<br>aktivitet regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(Kommunfullmäk<br>tige 2023-04-04 §<br>46) |
+
+<!-- sida 32 -->
+
+Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
 
 <!-- sida 33 -->
 
 Bestämmelser och deleg ering av beslutanderätt Sida 12 av 16
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| 3.1.16 | Spellagen<br>6 kap 9 § | Besluta om registrering i fem<br>år, utseende av kontrollant | Fc | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 3.1.17 |  | Underteckna<br>bidragsansökningar där<br>Kungsbacka kommun står som<br>sökande | Fc | X | Rätt att<br>underteckna utan<br>att vara<br>firmatecknare, se<br>punkt 1.5 |
-| 3.1.18 |  | Kvittning av innevarande års<br>rätt till föreningsbidrag mot<br>hyresskuld som avser samma<br>period. | Fc |  |  |
-| 3.1.19 | Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande på<br>aktivitet regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(Kommunfullmäk<br>tige 2023-04-04 §<br>46) |
 
 <!-- sida 34 -->
 
@@ -1084,7 +1086,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 12 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 13 av 16
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
 
 |  | Lagrum/<br>stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1092,17 +1094,13 @@ Bestämmelser och deleg ering av beslutanderätt Sida 13 av 16
 | 3.2.2 | Nämndens<br>beslut om<br>nämnd-<br>budget och<br>Kungsbacka<br>styrmodell | Beslut om<br>förvaltningsbudget med<br>fördelning på<br>verksamhetsnivå. | Fc |  |  |
 | 3.2.3 | Attest-<br>reglementet | Utse beslutsattestanter och<br>ersättare för nämndens<br>verksamheter | Fc |  | Anmäls till<br>nämnden en gång<br>per år. |
 | 3.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontant-<br>hantering | Beslut om att avskriva<br>utestående fordringar upp<br>till ett basbelopp | Fc |  | I samråd med<br>ansvarig chef. |
+| 3.2.5 |  | Försäljning av inventarier<br>och utrustning | FC | VC | Vidaredelegering<br>till VC och<br>specialist Fritid<br>att avyttra<br>egendom, dock<br>upp till ett<br>maximalt värde<br>om 150 000 kr per<br>tillfälle. |
+| 3.2.6 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 500 000 kr per år,<br>maximalt 3 år | FC | Specialist<br>Fritid |  |
+| 3.2.7 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 3 Mkr per år, maximalt<br>5 år | FC |  | Avser externa<br>lokaler och<br>anläggning där<br>Service inte är<br>hyresvärd |
 
 <!-- sida 35 -->
 
 Bestämmelser och deleg ering av beslutanderätt Sida 14 av 16
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| 3.2.5 |  | Försäljning av inventarier<br>och utrustning | FC | VC | Vidaredelegering<br>till VC och<br>specialist Fritid<br>att avyttra<br>egendom, dock<br>upp till ett<br>maximalt värde<br>om 150 000 kr per<br>tillfälle. |
-| --- | --- | --- | --- | --- | --- |
-| 3.2.6 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 500 000 kr per år,<br>maximalt 3 år | FC | Specialist<br>Fritid |  |
-| 3.2.7 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 3 Mkr per år, maximalt<br>5 år | FC |  | Avser externa<br>lokaler och<br>anläggning där<br>Service inte är<br>hyresvärd |
 
 <!-- sida 36 -->
 
@@ -1110,7 +1108,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 14 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 15 av 16
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/ villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1122,6 +1120,10 @@ Bestämmelser och deleg ering av beslutanderätt Sida 15 av 16
 | 3.3.4 | LAS § 7, AB<br>§§ 33-35 | Uppsägning på grund av<br>arbetsbrist. | Fc | X | I samråd med HR<br>på förvaltningen |
 | 3.3.5 | LAS 18 § | Avsked | Fc | X | I samråd med HR<br>på förvaltningen<br>och förhandlings-<br>chef |
 | 3.3.6 | Reglementet | Avsluta anställning enligt särskild<br>överenskommelse. | Fc | X – dock<br>inte nivå<br>underställd<br>VC | I samråd med HR-<br>chef |
+|  |  | Övrigt |  |  |  |
+| 3.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | Fc | X | I samråd med HR<br>på förvaltningen |
+| 3.3.8 | AB § 10<br>mom 1-3 | Avstängning | Fc | X | I samråd med HR<br>på förvaltningen |
+| 3.3.10 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Fc | X | I samråd med HR<br>på förvaltningen i<br>enlighet med<br>”Regler för bisyssla<br>i Kungsbacka<br>kommun” |
 
 <!-- sida 37 -->
 
@@ -1135,15 +1137,6 @@ Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
 Bestämmelser och deleg ering av beslutanderätt Sida 16 av 16
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/ villkor |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Övrigt |  |  |  |
-| 3.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | Fc | X | I samråd med HR<br>på förvaltningen |
-| 3.3.8 | AB § 10<br>mom 1-3 | Avstängning | Fc | X | I samråd med HR<br>på förvaltningen |
-| 3.3.10 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Fc | X | I samråd med HR<br>på förvaltningen i<br>enlighet med<br>”Regler för bisyssla<br>i Kungsbacka<br>kommun” |
 
 <!-- sida 38 -->
 

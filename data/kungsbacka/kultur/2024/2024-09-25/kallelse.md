@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6111bcdb1920bbb80f875b20/1727095560
 sha256: 79073d5797cb4e05f76de611ee2e1bf8ad147623ba6762a8883677675bfbd14b
 bytes: 136322
 sidor: 4
-hamtad: 2026-10-08T02:50:27+00:00
-konverterad: 2026-10-08T02:50:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:24:27+00:00
+konverterad: 2026-10-14T10:24:33+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -68,7 +68,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -77,6 +77,8 @@ KUNGSBACKA  KOMMUN
 |  | PAUS 15 min |  |  |
 | 8. | Information till nämnd:<br>vidareutveckling av stöd till<br>föreningar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>30 min | KFT-2024-<br>00254 | Nämnden noterar informationen till protokollet. |
 | 9. | Anmälan av delegeringsbeslut<br>september 2024 | KFT-2024-<br>00255 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2024-09-25 godkänns. |
+| 10. | Redovisning av inkomna<br>skrivelser september 2024 | KFT-2024-<br>00256 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
+| 11. | Förvaltningschefen informerar<br>september 2024<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00257 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -86,10 +88,3 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Redovisning av inkomna<br>skrivelser september 2024 | KFT-2024-<br>00256 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
-| 11. | Förvaltningschefen informerar<br>september 2024<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00257 | Nämnden noterar informationen till protokollet. |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4d978f5f1a01d631f6a7d63/17872285582
 sha256: 2c235414e738a61f497fff396e26ae9f90102d8e42dadb6c65b3f5104efe1381
 bytes: 4458859
 sidor: 135
-hamtad: 2026-10-07T22:33:53+00:00
-konverterad: 2026-10-07T22:34:14+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:45:16+00:00
+konverterad: 2026-10-14T06:45:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 39, 42, 43, 44, 45, 55]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1248,6 +1248,24 @@ nivå ligger i paritet med föregående år och högre än riket. Arbetet med
 betygsresultatet inom sfi har gett effekt under de senaste åren.
 
 Tabell 4. Andel godkända betyg på kursdeltagarnivå
+Sfi          Grundläggande     Gymnasial
+
+Kvinnor Män     Kvinnor Män     Kvinnor Män
+2025   99%              93%             84%
+98%  100%       94%   80%       85%   79%
+Kvinnor Män     Kvinnor Män     Kvinnor Män
+2024   96%              93%             86%
+97%  92%        94%   86%       87%   81%
+Kvinnor Män     Kvinnor Män     Kvinnor Män
+
+```osaker-tabell
+2023   83%              94%             89%
+            85%  78%        95%   90%       95%   90%
+
+Riket       93%              83%              85%
+```
+
+2025
 
 Tabell 5. Totalt antal betygsatta kurser per skola 2025, exklusive betygssatta kurser efter
 uppdragsutbildning.
@@ -1257,15 +1275,6 @@ Jämfört 2024 för andel godkända betyg: 85,7%
 6
 
 [Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-|  | Sfi |  | Grundläggande |  | Gymnasial |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2025 | Kvinnor<br>99%<br>98% | Män<br>100% | Kvinnor<br>93%<br>94% | Män<br>80% | Kvinnor<br>84%<br>85% | Män<br>79% |
-| 2024 | Kvinnor<br>96%<br>97% | Män<br>92% | Kvinnor<br>93%<br>94% | Män<br>86% | Kvinnor<br>86%<br>87% | Män<br>81% |
-| 2023 | Kvinnor<br>83%<br>85% | Män<br>78% | Kvinnor<br>94%<br>95% | Män<br>90% | Kvinnor<br>89%<br>95% | Män<br>90% |
-| Riket<br>2025 | 93% |  | 83% |  | 85% |  |
-
-[Tabell 41-2](handlingar.tabeller/41-2.csv)
 
 | Skola | F | E | D | C | B | A | Antal<br>satta<br>betyg | Godk.<br>betyg<br>(E-A) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1598,36 +1607,80 @@ Samtliga resultat ska ligga över 3 på den 4-gradiga skalan för att anses godk
 årets enkät är det inga svar som fått under 3.
 
 Tabell 15. Resultat elevenkät 2026, resultat inom parentes=2024 års resultat.
+Fråga         Total HER – sfi HER – flex HER – dist VIS - flex VIS – dist VIS – språk
+Jag tycker att 3,4  3,5     3,4     3,3     3,4    3,6     3,4
+introduktionen som (3,3) (3,2) (3,3) (3,3) (3,5)  (3,3)   (3,3)
+jag fick innan
+utbildningen
+startade var bra.
+Jag får       3,5   3,6     3,6     3,2     3,5    3,6     3,5
+återkoppling/feedb (3,3) (3,2) (2,9) (3,3) (3,8)  (3,6)   (3,4)
+ack från min lärare
+om mina
+studieresultat, så
+att jag vet hur jag
+ligger till i
+utbildningen
+(exempelvis genom
+samtal på skolan
+eller via mail,
+telefon,
+lärplattform mm).
+Den           3,4   3,6     3,4     3,2     3,4    3,4     3,4
+återkoppling/feedb (3,3) (3,3) (3,1) (3,2) (3,6)  (3,5)   (3,4)
+ack som jag får från
+min lärare hjälper
+mig i mina studier.
+Jag tycker att 3,4  3,5     3,4     3,3     3,3    3,5     3,4
+skolans       (3,4) (3,2)  (3,1)    (3,3)  (3,7)  (3,8)   (3,4)
+lärplattform hjälper
+mig i mina studier.
 
 14
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Fråga | Total | HER – sfi | HER – flex | HER – dist | VIS - flex | VIS – dist | VIS – språk |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag tycker att<br>introduktionen som<br>jag fick innan<br>utbildningen<br>startade var bra. | 3,4<br>(3,3) | 3,5<br>(3,2) | 3,4<br>(3,3) | 3,3<br>(3,3) | 3,4<br>(3,5) | 3,6<br>(3,3) | 3,4<br>(3,3) |
-| Jag får<br>återkoppling/feedb<br>ack från min lärare<br>om mina<br>studieresultat, så<br>att jag vet hur jag<br>ligger till i<br>utbildningen<br>(exempelvis genom<br>samtal på skolan<br>eller via mail,<br>telefon,<br>lärplattform mm). | 3,5<br>(3,3) | 3,6<br>(3,2) | 3,6<br>(2,9) | 3,2<br>(3,3) | 3,5<br>(3,8) | 3,6<br>(3,6) | 3,5<br>(3,4) |
-| Den<br>återkoppling/feedb<br>ack som jag får från<br>min lärare hjälper<br>mig i mina studier. | 3,4<br>(3,3) | 3,6<br>(3,3) | 3,4<br>(3,1) | 3,2<br>(3,2) | 3,4<br>(3,6) | 3,4<br>(3,5) | 3,4<br>(3,4) |
-| Jag tycker att<br>skolans<br>lärplattform hjälper<br>mig i mina studier. | 3,4<br>(3,4) | 3,5<br>(3,2) | 3,4<br>(3,1) | 3,3<br>(3,3) | 3,3<br>(3,7) | 3,5<br>(3,8) | 3,4<br>(3,4) |
 
 <!-- sida 50 -->
 
 Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 
+Fråga         Total HER – sfi HER – flex HER – dist VIS - flex VIS – dist VIS – språk
+Jag tycker att 3,3  3,5     3,7     3,2     3,1    3,4     3,0
+personalen på (3,2) (3,1)  (2,9)    (3,1)  (3,2)  (3,6)   (3,2)
+skolan lyssnar på
+elevernas kritik och
+förslag till
+förändringar.
+Jag får den   3,4   3,6     3,4     3,3     3,2    3,7     3,1
+handledning som (3,3) (3,2) (3,0)   (3,3)  (3,6)  (3,7)   (3,4)
+jag behöver från
+min lärare.
+Jag tycker att det är 3,5 3,7 3,6   3,3     3,4    3,6     3,5
+lätt att komma i (3,4) (3,4) (3,2)  (3,4)  (3,5)  (3,8)   (3,4)
+kontakt med min
+lärare.
+Jag tycker att det 3,5 3,6  3,6     3,3     3,3    3,3     3,4
+går bra att sitta på (3,4) (3,4) (3,0) (3,1) (3,7) (3,4)  (3,3)
+skolan och studera
+eftersom det finns
+tillräckligt med
+utrustning och
+material.
+Jag tycker att det är 3,5 3,6 3,5   3,3     3,3    3,5     3,3
+en bra studiemiljö (3,4) (3,5) (3,2) (3,1) (3,4)  (3,7)   (3,3)
+på skolan, att det är
+lugn och ro och att
+jag känner mig
+trygg.
+Personalen på 3,6   3,7     3,7     3,3     3,5    3,7     3,4
+skolan bemöter mig (3,5) (3,5) (3,3) (3,6) (3,7)  (3,8)   (3,5)
+på ett bra sätt.
+Personalen på 3,5   3,6     3,6     3,4     3,2    3,6     3,3
+Kompetenscentrum (3,5) (3,3) (3,4)  (3,6)  (3,7)  (3,8)   (3,5)
+bemöter mig på ett
+bra sätt.
+Jag är nöjd med 3,4 3,4     3,5     3,3     3,4    3,6     3,3
+mina studier. (3,4) (3,3)  (3,3)    (3,3)  (3,7)  (3,7)   (3,5)
+
 15
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Fråga | Total | HER – sfi | HER – flex | HER – dist | VIS - flex | VIS – dist | VIS – språk |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag tycker att<br>personalen på<br>skolan lyssnar på<br>elevernas kritik och<br>förslag till<br>förändringar. | 3,3<br>(3,2) | 3,5<br>(3,1) | 3,7<br>(2,9) | 3,2<br>(3,1) | 3,1<br>(3,2) | 3,4<br>(3,6) | 3,0<br>(3,2) |
-| Jag får den<br>handledning som<br>jag behöver från<br>min lärare. | 3,4<br>(3,3) | 3,6<br>(3,2) | 3,4<br>(3,0) | 3,3<br>(3,3) | 3,2<br>(3,6) | 3,7<br>(3,7) | 3,1<br>(3,4) |
-| Jag tycker att det är<br>lätt att komma i<br>kontakt med min<br>lärare. | 3,5<br>(3,4) | 3,7<br>(3,4) | 3,6<br>(3,2) | 3,3<br>(3,4) | 3,4<br>(3,5) | 3,6<br>(3,8) | 3,5<br>(3,4) |
-| Jag tycker att det<br>går bra att sitta på<br>skolan och studera<br>eftersom det finns<br>tillräckligt med<br>utrustning och<br>material. | 3,5<br>(3,4) | 3,6<br>(3,4) | 3,6<br>(3,0) | 3,3<br>(3,1) | 3,3<br>(3,7) | 3,3<br>(3,4) | 3,4<br>(3,3) |
-| Jag tycker att det är<br>en bra studiemiljö<br>på skolan, att det är<br>lugn och ro och att<br>jag känner mig<br>trygg. | 3,5<br>(3,4) | 3,6<br>(3,5) | 3,5<br>(3,2) | 3,3<br>(3,1) | 3,3<br>(3,4) | 3,5<br>(3,7) | 3,3<br>(3,3) |
-| Personalen på<br>skolan bemöter mig<br>på ett bra sätt. | 3,6<br>(3,5) | 3,7<br>(3,5) | 3,7<br>(3,3) | 3,3<br>(3,6) | 3,5<br>(3,7) | 3,7<br>(3,8) | 3,4<br>(3,5) |
-| Personalen på<br>Kompetenscentrum<br>bemöter mig på ett<br>bra sätt. | 3,5<br>(3,5) | 3,6<br>(3,3) | 3,6<br>(3,4) | 3,4<br>(3,6) | 3,2<br>(3,7) | 3,6<br>(3,8) | 3,3<br>(3,5) |
-| Jag är nöjd med<br>mina studier. | 3,4<br>(3,4) | 3,4<br>(3,3) | 3,5<br>(3,3) | 3,3<br>(3,3) | 3,4<br>(3,7) | 3,6<br>(3,7) | 3,3<br>(3,5) |
 
 <!-- sida 51 -->
 
@@ -2328,29 +2381,39 @@ Kung sbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
+2.1 Allmänt
+
+Nr     Lagrum/stöd Delegeringens omfattning              Delegerat Anmärkning/villkor
+till
+2.1.1  KL 6 kap 39 § Ärenden som är så brådskande att nämndens avgörande inte kan avvaktas. N ordf
+2.1.2  OSL 6 kap Utlämnande av allmän handling med förbehåll eller att inte lämna ut en Fc Utlämnande av handling utan förbehåll eller sekretess lämnas
+3-6 §§    allmän handling.                                 ut av den som har hand om handlingen.
+2.1.3 OSL 6 kap 1 a § Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän Fc
+handling lämnas ut.
+2.1.4  FL 45 §   Avvisa för sent inkommet överklagande.  Fc
+
+2.1.5  GDPR artikel 37 Utnämna dataskyddsombud för nämnden. Fc
+2.1.6 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av utövande av registrerads Fc
+23 och     rättigheter.
+dataskyddslagen 5
+kap 1-3 §§
+2.1.7 GDPR artikel 35 Beslut med anledning av konsekvensbedömning avseende dataskydd Fc Fastställa konsekvensbedömning och införa behandling i
+enlighet med konsekvensbedömning
+2.1.8  GDPR artikel 33 Fastställa utredning och åtgärder med anledning av anmäld Dataskydds I samråd med enhetschef och systemförvaltare
+och 34    personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas kontakt
+till tillsynsmyndighet och om registrerade ska informeras
+2.1.9  GDPR artikel 28 Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt Fc I samråd med systemförvaltare eller dataskyddskontakt
+överenskommelse om gemensamt personuppgiftsansvar.
+2.1.10 artikel 28 GDPR Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala Bitr. Kdir Med kommungemensamt avses att systemet eller
+och Hantering av tjänster och system.                       tjänsten används av kommunens samtliga nämnder.
+
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-|  | 2.1 Allmänt |  |  |  |
-| --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Anmärkning/villkor |
-| 2.1.1 | KL 6 kap 39 § | Ärenden som är så brådskande att nämndens avgörande inte kan avvaktas. | N ordf |  |
-| 2.1.2 | OSL 6 kap<br>3-6 §§ | Utlämnande av allmän handling med förbehåll eller att inte lämna ut en<br>allmän handling. | Fc | Utlämnande av handling utan förbehåll eller sekretess lämnas<br>ut av den som har hand om handlingen. |
-| 2.1.3 | OSL 6 kap 1 a § | Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän<br>handling lämnas ut. | Fc |  |
-| 2.1.4 | FL 45 § | Avvisa för sent inkommet överklagande. | Fc |  |
-| 2.1.5 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.6 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av utövande av registrerads<br>rättigheter. | Fc |  |
-| 2.1.7 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende dataskydd | Fc | Fastställa konsekvensbedömning och införa behandling i<br>enlighet med konsekvensbedömning |
-| 2.1.8 | GDPR artikel 33<br>och 34 | Fastställa utredning och åtgärder med anledning av anmäld<br>personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas<br>till tillsynsmyndighet och om registrerade ska informeras | Dataskydds<br>kontakt | I samråd med enhetschef och systemförvaltare |
-| 2.1.9 | GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt<br>överenskommelse om gemensamt personuppgiftsansvar. | Fc | I samråd med systemförvaltare eller dataskyddskontakt |
-| 2.1.10 | artikel 28 GDPR<br>och Hantering av | Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala<br>tjänster och system. | Bitr. Kdir | Med kommungemensamt avses att systemet eller<br>tjänsten används av kommunens samtliga nämnder. |
 
 <!-- sida 73 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 8 (29)
 
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
 
 |  | personuppgifter –<br>Riktlinjer,<br>Kommunfullmäktig<br>e 2024-03-05 § 33 |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2361,19 +2424,15 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
 | 2.1.17 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Ta emot och underteckna delgivning | Ec |  |
+| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
+| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
+| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
 
 <!-- sida 74 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 9 (29)
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
-| --- | --- | --- | --- | --- |
-| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
-| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
-
-[Tabell 74-2](handlingar.tabeller/74-2.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2385,18 +2444,26 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 75 -->
 
+2.2.1 d) LOU, Policy för Ändring och tillägg av avtal.   Fc       Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Riktlinjer för inköp                                        Gäller även direktupphandling.
+2.2.1 e) LOU, Policy för Uppsägning eller hävning av avtal Fc     Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Riktlinjer för inköp                                        Gäller även direktupphandling.
+2.2.3  Nämndens beslut Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. Fc
+om nämndbudget
+och Kungsbacka
+styrmodell
+2.2.4  Attestreglementet Utse beslutsattestanter och ersättare för nämndens verksamheter. Fc Anmäls till nämnden en gång per år.
+2.2.5 Riktlinjer för Undantag för nämnden från huvudregeln att leasing inte är tillåtet för Fc Krävs särskilda skäl. KS ska godkänna beslutet.
+finansverksamhet annat än fordon och arbetsmaskiner.
+avsnitt 5
+Gemensamt
+reglemente § 9
+
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 10 (29)
 
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
-| 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Ändring och tillägg av avtal. | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| --- | --- | --- | --- | --- |
-| 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| 2.2.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
-| 2.2.4 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens verksamheter. | Fc | Anmäls till nämnden en gång per år. |
-| 2.2.5 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Undantag för nämnden från huvudregeln att leasing inte är tillåtet för<br>annat än fordon och arbetsmaskiner. | Fc | Krävs särskilda skäl. KS ska godkänna beslutet. |
-
-[Tabell 75-2](handlingar.tabeller/75-2.csv)
+[Tabell 75-76-1](handlingar.tabeller/75-76-1.csv)
 
 |  | 2.3 Personal |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2404,15 +2471,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 |  |  | Anställa |  |  |
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Chefer direkt underställda förvaltningschefen Tillsvidareanställning<br>och tidsbegränsade anställningar längre än 6 månader. | Fc | Samråd med presidiet under rekryteringsprocessen<br>och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
 | 2.3.2 | LAS, kollektivavtal,<br>lönestruktur mm | Övriga anställda<br>Tillsvidareanställning och tidsbegränsade anställningar längre än 6<br>månader. | Närmsta<br>chef | Tidsbegränsad anställning upp till och med 6 månader är<br>verkställighet. |
-
-<!-- sida 76 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 11 (29)
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
 |  |  |  |  | Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.3 | LAS § 7 | Uppsägning av personliga skäl. | Fc | I samråd med HR-chef på förvaltningen och kommunens<br>förhandlingschef. |
 | 2.3.4 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR-chef på förvaltningen. |
@@ -2423,11 +2482,15 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.3.8 | AB § 10 mom<br>1-3 | Avstängning | Fc<br>Gc<br>Vc KC | I samråd med HR-chef på förvaltningen.<br>Personal inom sitt respektive ansvarsområde. |
 | 2.3.9 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Fc | I samråd med HR-chef på förvaltningen |
 
+<!-- sida 76 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 11 (29)
+
 <!-- sida 77 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 12 (29)
 
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
+[Tabell 77-79-1](handlingar.tabeller/77-79-1.csv)
 
 |  | 2.4 Gymnasieskola och anpassad gymnasieskola |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2441,15 +2504,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.7 | 7:8 GyF | Beslut om att antagning vid en senare tidpunkt och beslut om<br>inträdesprov ska användas | Rektor |  |
 | 2.4.8 | 17:11, 14, 16,<br>19, 21 SL<br>6:2 GyF | Beslut om behörighet, mottagning och antagning till individuellt program | Rektor | Gäller även beslut att ta emot elever till IMIND vid<br>Insikten när särskilda behov finns |
 | 2.4.9 | 18:5-7 SL | Beslut om att elev tillhör målgruppen för anpassad gymnasieskola | Utv.anp | Hemkommunens ansvar att utreda och besluta om<br>målgruppstillhörighet |
-
-<!-- sida 78 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 13 (29)
-
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
 | 2.4.10 | 19:29, 35-36,<br>39, 40-41 SL | Mottagande till kommunens anpassade gymnasieskola av elever utanför<br>samverkansområdet | Utv.anp |  |
-| --- | --- | --- | --- | --- |
 | 2.4.11 | 19:29 SL | Beslut om att elev som sökt anpassad gymnasieskolas individuella<br>program har förutsättningar att följa ett nationellt program | Utv.anp |  |
 | 2.4.12 | 7:13 GyF | Beslut om antagning till anpassad gymnasieskola | Utv.anp |  |
 | 2.4.13 | 16:37-40, 49-<br>49a SL<br>17:15-15a SL<br>19:30-32, 42-<br>42a SL | Beslut om mottagande enligt rätten att fullfölja utbildningen | Rektor |  |
@@ -2463,15 +2518,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.21 | 4:22 GyF | Beslut om antal undevisningstimmar för varje kurs/nivå, ämnesområde,<br>för gymnasiearbete i gymnasieskolan och anpassade gymnasieskolan<br>samt om hur fördelningen av undetrvisningstiden över läsåren ska göras | Rektor | Timplaner |
 | 2.4.22 | 4:19 GyF | Beslut om att inte erbjuda modersmålsundervisning | Rektor |  |
 | 2.4.23 | 17:7 SL | Beslut om utbildningsplan för introduktionsprogrammen | Gc |  |
-
-<!-- sida 79 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 14 (29)
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
 | 2.4.24 | 16:14 SL | Beslut om att elevs utbildning på ett nationellt program får avvika från<br>vad som annars gäller för programmet | Rektor |  |
-| --- | --- | --- | --- | --- |
 | 2.4.25 | 4:6-7a GyF | Beslut om vilka ämnen och kurser/nivåer som ska erbjudas som<br>programfördjupning och individuellt val vid gymnasieskolan och<br>anpassade gymnasieskolan | Rektor |  |
 | 2.4.26 | 4:10-10a GyF | Beslut om vilka moderna språk som ska erbjudas | Gc |  |
 | 2.4.27 | 4:13 GyF | Beslut om att anordna yrkesprogram vid gymnasieskolan eller anpassad<br>gymnasieskola trots att arbetsplatsförlagt lärande inte kan erbjudas | Fc | Samråd med lokalt programråd innan beslut fattas |
@@ -2487,11 +2534,19 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.37 | 3:5 PSL | Anmälan till Socialstyrelsen av händelser som har medfört eller hade<br>kunnat medföra en allvarlig vårdskada (Lex Maria) | Vc EMI |  |
 | 2.4.38 | 24:20-21 SL | Beslut om särskild undervisning i hemmet eller på annan lämplig plats | Gc | Gäller för elever som på grund av sjukdom eller<br>liknande inte kan delta i ordinarie undervisning |
 
+<!-- sida 78 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 13 (29)
+
+<!-- sida 79 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 14 (29)
+
 <!-- sida 80 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 15 (29)
 
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
+[Tabell 80-81-1](handlingar.tabeller/80-81-1.csv)
 
 |  | 2.5 Kommunal vuxenutbildning |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2512,20 +2567,16 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.5.14 | 2:29 VuxF | Beslut om att en elev ska erbjudas skolförlagdutbildning istället för APL | Rektor | Samråd med representanter för det lokala näringslivet<br>innan beslut fattas |
 | 2.5.15 | 20:9 SL | Beslut om upphörande av utbildning om eleven saknar förutsättningar att<br>tillgodogöra sig utbildningen eller annars inte gör tillfredställande<br>framsteg | Rektor |  |
 | 2.5.16 | 20:24 SL | Beslut om att minska omfattningen av SFI-undervisningen för enskild<br>elev | Rektor |  |
+| 2.5.17 | 6:10- 6:10 a SL | Utreda och åtgärda kränkande behandling | Rektor |  |
+| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
+| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
+| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
 
 <!-- sida 81 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 16 (29)
 
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
-
-| 2.5.17 | 6:10- 6:10 a SL | Utreda och åtgärda kränkande behandling | Rektor |  |
-| --- | --- | --- | --- | --- |
-| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
-| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
-| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
-
-[Tabell 81-2](handlingar.tabeller/81-2.csv)
+[Tabell 81-83-1](handlingar.tabeller/81-83-1.csv)
 
 |  | 2.6 Ekonomiskt bistånd |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2537,15 +2588,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.5 | 12 kap 1§ SoL | Beslut om skäligt rådrum avseende hyreskostnad eller kaptialvaror | MyH |  |
 | 2.6.6 | 12 kap 1§ SoL | Beslut om bistånd till hyreskostnad utöver skälig nivå | MyH<br>Admin | Ska ske i samråd med Ec |
 | 2.6.7 | 12 kap 1§ SoL | Beslut om bistånd till egna förestagare som driver olönsam verksamhet | Ec |  |
-
-<!-- sida 82 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 17 (29)
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
 | 2.6.8 | 12 kap 1§ SoL | Beslut om nödvändig tandvård<br>Om max 30% av prisbasbelopp<br>Om max 50% av prisbasbelopp<br>Om över 50% av prisbasbelopp | MyH/admin<br>Ec<br>Utskott | Förtroendetandläkare ska anlitas vid belopp över 20%<br>av prisbasbelopp för behandling av nödvändig<br>tandvård.<br>Bedömning av förtroendetandläkare |
-| --- | --- | --- | --- | --- |
 | 2.6.9 | 12 kap 1§ SoL | Beslut om avslag på nödvändig tandvård över 50 % av prisbasbeloppet<br>efter förtroendetandläkares rekommendation till avslag | Ec |  |
 | 2.6.10 | 12 kap 1§ SoL | Beslut om resor/umgängesresor utomland | Utskott |  |
 | 2.6.11 | 12 kap 1§ SoL | Beslut om bistånd i from av öppna insatser i egen regi | MyH |  |
@@ -2560,18 +2603,18 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.20 | 12 kap 4d §<br>SoL | Begära att en enskild ska delta i aktivitet innan tre sammanhängande månader<br>med försörjningsstöd | MyH |  |
 | 2.6.21 | 12 kap 5 §<br>SoL | Neka eller sätta ned fortsatt försörjningsstöd när den enskilde inte deltagit i<br>anvisad praktik, annan kompetenshöjande verksamhet eller aktivitet<br>(aktivitetskravet) | MyH/admin |  |
 | 2.6.22 | 33 kap 2 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd enligt 12 kap 1 § | MyH | Bistånd kan endas återkrävas enligt 33 kap 2 § SoL<br>om det lämnats som förskott på förmån eller<br>ersättning, till den som är indragen i arbetskonflikt<br>eller till den som hindras från att förfoga över sina<br>inkomster eller tillgångar. Beslutet om bistånd ska ha<br>meddelats skriftligt och innehållit uppgifter om grund<br>för återbetalningsskyldighet. |
+| 2.6.23 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap §§<br>1-2 som utgått obehörigen eller med för högt belopp | Ec |  |
+| 2.6.24 | 107 kap 5 §<br>SFB | Beslut om att underrätta Försäkringskassan att nämnden ska uppbära<br>ersättning enligt socialförsäkringsbalken | Ec |  |
+| 2.6.25 | 33 kap 3 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som lämnats enligt 12 kap 2<br>§ | MhY | Bistånd enligt 12 kap 2 § kan endast återkrävas om biståndet<br>beviljats under villkor om återbetalning, har meddelats genom<br>skriftligt beslut och innehållit uppgifter om grund för<br>återbetalningsskyldighet |
+| 2.6.2 | 33 kap 4-5 §§<br>SoL | Beslut om att föra talan hos förvaltningsrätt om återkrav för ekonomiskt<br>bistånd enligt 9 kap 1-2 §§ och 8 kap 1 § SoL | Vc KC |  |
+
+<!-- sida 82 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 17 (29)
 
 <!-- sida 83 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 18 (29)
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-| 2.6.23 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap §§<br>1-2 som utgått obehörigen eller med för högt belopp | Ec |  |
-| --- | --- | --- | --- | --- |
-| 2.6.24 | 107 kap 5 §<br>SFB | Beslut om att underrätta Försäkringskassan att nämnden ska uppbära<br>ersättning enligt socialförsäkringsbalken | Ec |  |
-| 2.6.25 | 33 kap 3 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som lämnats enligt 12 kap 2<br>§ | MhY | Bistånd enligt 12 kap 2 § kan endast återkrävas om biståndet<br>beviljats under villkor om återbetalning, har meddelats genom<br>skriftligt beslut och innehållit uppgifter om grund för<br>återbetalningsskyldighet |
-| 2.6.2 | 33 kap 4-5 §§<br>SoL | Beslut om att föra talan hos förvaltningsrätt om återkrav för ekonomiskt<br>bistånd enligt 9 kap 1-2 §§ och 8 kap 1 § SoL | Vc KC |  |
 
 <!-- sida 84 -->
 
@@ -2585,7 +2628,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.28 | 11 kap 1 §<br>SoL<br>12 kap 1 §<br>SoL | Beslut om tillfälligt boende i form av inter lösning eller köpt plats<br>Upp till 5 månader<br>Upp till 6 månader | MyH<br>MyH<br>Ec | Efter beslut av enhetschef återgår delegationen till<br>MyH i fem månader. Månad sex fattar Ec beslut. |
 | 2.6.29 | 11 kap 4 §<br>SoL, 12 kap 2<br>§ SoL | Beslut om Bostad först- Bobyrån | Ec |  |
 
-[Tabell 84-2](handlingar.tabeller/84-2.csv)
+[Tabell 84-85-2](handlingar.tabeller/84-85-2.csv)
 
 |  | 2.7 Dödsboanmälan |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2597,21 +2640,17 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.7.6 | 11 kap 2 § FB | Beslut att överlämna förvaltning och avveckling till god man för<br>bortavarande | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
 | 2.7.7 | 20 kap 2 § 2 st<br>ÄB | Beslut att föranstalta om bouppteckning | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
 | 2.7.8 | 18 kap 2 § ÄB | Beslut om att förvalta och avveckla dödsboet | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
-
-<!-- sida 85 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 20 (29)
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
 | 2.7.9 | 14 kap 2 §<br>SoL | Beslut om att inleda utredning | MyH/DbH |  |
-| --- | --- | --- | --- | --- |
 | 2.7.10 | 12 kap 1 §<br>SoL | Beslut om ekonomiskt bistånd till begravningskostnader eller utgifter i<br>omedelbar anslutning till dödsfallet. Om belopp upp till 50 % av<br>prisbasbelopp | MyH/DbH |  |
 | 2.7.11 | 12 kap 1 §<br>SoL | Beslut om ekonomiskt bistånd till begravningskostnader eller utgifter i<br>omedelbar anslutning till dödsfallet. Om belopp över 50% av<br>prisbasbelopp | Ec |  |
 | 2.7.12 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap 1 §<br>SoL som utgått obehörigen eller med för högt belopp | Fc |  |
 | 2.7.13 | 33 kap 6 §<br>SoL | Beslut om att helt eller delvis efterge ersättningsskyldigheten som beslutat<br>enligt 33 kap 1 § SoL | Fc |  |
 
-[Tabell 85-2](handlingar.tabeller/85-2.csv)
+<!-- sida 85 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 20 (29)
+
+[Tabell 85-88-1](handlingar.tabeller/85-88-1.csv)
 
 |  | 2.8 Barn och ungdom<br>Nämndens ansvar enligt SoL/FB gäller endast för ensamkommande barn och unga<br>enligt nämndens reglemente daterad 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2619,15 +2658,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.1 | 14 kap 2 § SoL | Beslut att inleda utredning<br>Beslut att inte inleda utredning<br>Beslut att inledd utredning läggs ner<br>Beslut att inledd utredning inte föranleder någon åtgärd | MyH<br>Ec<br>Ec |  |
 | 2.8.2 | 20 kap 2 § SoL | Beslut om förlängning av utredning för viss tid | Utskott | Endast i de särskilda fall som föreskrivs i lagens<br>förarbeten |
 | 2.8.3 | 23 kap 1 § SoL<br>23 kap 2 § SoL | Beslut om uppföljning vid avslutad utredning utan beslut om insats | MyH<br>Fc | Max 2 månader om barnet bedöms vara i särskilt<br>behov av nämndens stöd eller skydd men samtycke<br>saknas |
-
-<!-- sida 86 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 21 (29)
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
 |  |  | Beslut om uppföljning efter det att bistånd i form av placering i<br>familjehem eller HVB har upphört |  |  |
-| --- | --- | --- | --- | --- |
 | 2.8.4 | 11 kap 1 § SoL<br>11 kap 1 § SoL<br>6 kap 13a § FB<br>11 kap 1 § SoL, 6 kap<br>13 a § FB | Beslut om bistånd i form av öppna insatser i egen regi<br>Beslut om bistånd i form av öppna insatser i extern regi<br>För ungdom över 15 år utan vårdnadshavare samtycke<br>För barn under 15 år med endast den ena vårdnadshavarens<br>samtycke | MyH<br>Ec<br>Fc<br>Utskott | Om det är lämpligt och ungdomen samtycker |
 | 2.8.5 | 13 kap 7 § SoL | Beslut om bistånd i form av kontaktperson eller kontaktfamilj<br>Prövning av bistånd | MyH<br>Fc | För bistånd till ungdomar över 15 år krävs ej<br>vårdnadshavares samtycke |
 | 2.8.6 | 13 kap 7 § SoL<br>6 kap 13a § FB | Beslut om bistånd i form av kontaktperson eller kontaktfamilj för barn<br>under 15 år med endas den ene vårdnadshavares samtycke | Utskott | Förutsatt samtycke från en av två vårdnadshavare<br>och att det krävs med hänsyn taget till barnets bästa |
@@ -2636,15 +2667,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.9 | 22 kap 6 § SoL | Beslut om medgivande att ett barn tas emot för stadigvarande vård<br>och fostran i enskild hem som inte tillhör någon av föräldrarna eller<br>annan vårdnadshavare<br>Beslut om medgivande att barn ta emot i sådant enskilt hem som vid<br>upprepade tillfällen tar emot barn för tillfällig vård och fostran<br>(jourhem) | Utskott<br>Utskott | Delegerbart endast till utskott enlig 30 kap 6-9 §§<br>SoL Beslut kan fattas av nämnden ordförande eller<br>annan ledamot som nämnden har förordnat. |
 | 2.8.10 | 11 kap 1 § SoL | Beslut om förordnande och entledigande av kontaktperson eller<br>kontaktfamilj | MyH |  |
 | 2.8.11 | 11 kap 1 § SoL<br>13 kap 7 § andra st SoL | Beslut om särskilt kvalificerad kontaktperson i egen regi<br>Extern regi | MyH<br>Fc |  |
-
-<!-- sida 87 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 22 (29)
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
 | 2.8.12 | 11 kap 1 § SoL | Beslut om bistånd i form av vård/vistelse i HVB, stödboende,<br>familjehem eller jourhem<br>Upp till fyra månader<br>Över fyra månader | Ec<br>Utskott | Placeringar till och med den dag man fyller 18 år och<br>från 18 år till och med 21 år. Uppföljning var sjätte<br>månad. |
-| --- | --- | --- | --- | --- |
 | 2.8.13 | 11 kap 1 § SoL | Beslut om bistånd i form av HVB eller stödboende under<br>utredningstid 1–4 månader | Ec |  |
 | 2.8.14 | 12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdom för kostnad i<br>samband med placering i HVB, stödboende, familjehem eller<br>jourhem med upp till 15% av prisbasbeloppet<br>Utöver kommunens riktlinjer | MyH<br>Fc |  |
 | 2.8.15 | 12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdomar i samband med<br>förebyggande insatser med upp till 10% av prisbasbelopp per år<br>Med upp till 40% av prisbasbelopp per år | MyH<br>Ec |  |
@@ -2655,15 +2678,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.20 | 6 kap 7 § 4 st FB | Beslut om att väcka talan om ändring i vårdnaden | Utskott | Om en förälder brister i omsorgen och barnets hälsa<br>och utveckling utsätts för bestående fara |
 | 2.8.21 | 6 kap 9 § FB | Anmälan till rätten om överflyttning av vårdnad vid förälders dödsfall | Utskott |  |
 | 2.8.22 | 6 kap 10 § FB | Beslut att väcka tala om ändring i vårdnaden | Utskott | Från särskild förordnad vårdnadshavare till förälder |
-
-<!-- sida 88 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 23 (29)
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
 |  | 2.9 Barn och ungdom, arvoden och ersättningar |  |  |  |
-| --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | 2.9.1 | 22 kap 15 § SoL | Beslut om ersättning till särskilt förordnad vårdnadshavare som<br>tidigare varit familjehemsförälder | MyH | Särskilt avtal ska ingås mellan nämnden och de nya<br>vårdnadshavarna |
 | 2.9.2 |  | Beslut om arvode och omkostnadsersättning till kontaktperson/-familj<br>enligt norm och riktlinjer samt särskilda engångsköp, högst 10% av<br>prisbasbelopp per år.<br>Utöver norm och riktlinjer | MyH<br>Ec | Riktlinjer från Individ & Familjeomsorg |
@@ -2673,11 +2688,23 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.9.6 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare | MyH | Avser både ensamkommande barn och övriga<br>ärende utöver beslut enligt 6 kap 11 § SoL |
 | 2.9.7 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj, familjehem, avlastningsfamilj, särskilt<br>förordnad vårdnadshavare | MyH |  |
 
+<!-- sida 86 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 21 (29)
+
+<!-- sida 87 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 22 (29)
+
+<!-- sida 88 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 23 (29)
+
 <!-- sida 89 -->
 
 Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 24 (29)
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
+[Tabell 89-91-1](handlingar.tabeller/89-91-1.csv)
 
 |  | 2.10 Lagen med särskilda bestämmelser om vård av<br>unga, LVU<br>Nämndens ansvar enligt LVU gäller endast för ensamkommande barn och<br>unga enligt nämndens reglemente daterar 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2692,15 +2719,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.8 | 11 § 1 st LVU | Beslut om hur vården ska ordnas och var den unge ska vistas<br>under vårdtiden | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan. |
 | 2.10.9 | 11 § 2 st LVU | Beslut om att den unge får vistas i sitt eget hem under vårdtiden | Utskott | Enligt ovan |
 | 2.10.10 | 11 § 4 st LVU | Beslut om den unges personliga förhållande i den mån beslutet<br>inte är att hänföra till 11 § 1 och 2 st LVU | Vc KC | Får inte leda till att föräldrarna fråntas allt inflytande |
-
-<!-- sida 90 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 25 (29)
-
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
-
 | 2.10.11 | 13 § 1 st LVU | Övervägande om vård med stöd av 2 § LVU fortfarande behövs | Utskott | Minst var sjätte månad |
-| --- | --- | --- | --- | --- |
 | 2.10.12 | 13 § 2 st LVU | Prövning om vård med stöd av 3 § LVU ska upphöra | Utskott | Minst var sjätte månad |
 | 2.10.13 | 14 § 2 st 1 p LVU | Beslut om umgängesbegränsning | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan |
 | 2.10.14 | 14 § 2 st 1 p LVU | Beslut om upphörande av umgängesbegränsning | Utskott |  |
@@ -2719,15 +2738,7 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.27 | 31 § LVU | Beslut om hur den unges umgänge med föräldrar eller<br>vårdnadshavare ska utövas efter beslut om flyttningsförbud eller<br>tillfälligt flyttningsförbud | Utskott |  |
 | 2.10.28 | 31 b § LVU | Beslut om att ansöka om utreseförbud hos förvaltningsrätten | Utskott |  |
 | 2.10.29 | 31 c § LVU | Beslut i fråga om fortsatt utreseförbud | Utskott | En prövning ska göras minst var sjätte månad samt<br>efter begäran från den unge eller dennes<br>vårdnadshavare |
-
-<!-- sida 91 -->
-
-Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 26 (29)
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
 | 2.10.30 | 31 d § LVU | Beslut om tillfälligt utreseförbud | Utskott | Om socialnämndens beslut om tillfälligt utreseförbud<br>inte kan avvaktas, får nämndens ordförande eller<br>någon annan ledamot som nämnden har förordnat<br>besluta om ett sådant förbud. Beslutet ska anmälas<br>vid nämndens nästa sammanträde. |
-| --- | --- | --- | --- | --- |
 | 2.10.31 | 31 g § 2 st LVU | Beslut om att tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.32 | 31 i § LVU | Beslut om tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.33 | 32 § 1 st LVU | Beslut om läkarundersökning inför ansökan enligt 4 § LVU | Vc KC | Utan samtycke endast poliklinisk under-sökning.<br>Vårdnads-havare måste informer-as före beslut om<br>läkarundersökning |
@@ -2737,6 +2748,14 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.37 | 30 kap 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid<br>domstol. | Fc |  |
 | 2.10.38 | 14 a § 2 st LVU | Lämna uppgifter om enskilda som vårdas enligt LVU till Statens<br>institutionsstyrelse | Fc |  |
 | 2.10.39 | 30 §<br>folkbokföringslagen | Ansöka om skyddad folkbokföring för barn som vårdas enligt 2 §<br>LVU | Fc |  |
+
+<!-- sida 90 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 25 (29)
+
+<!-- sida 91 -->
+
+Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarkn 26 (29)
 
 <!-- sida 92 -->
 

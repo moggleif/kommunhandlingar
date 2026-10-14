@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6725411a194d849cc4be1583/1739444896
 sha256: 717bec89a9600a0ee046c4a24e842b09ea1f045b3981b6cd6d81b7f3ab1129c1
 bytes: 11254890
 sidor: 161
-hamtad: 2026-10-08T07:36:02+00:00
-konverterad: 2026-10-08T07:36:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:34:25+00:00
+konverterad: 2026-10-14T10:35:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [11, 12, 23, 31, 139, 149, 150]
-figurer: null
-tolkade: null
+figurer: [6, 7, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 96, 111]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,6 +62,20 @@ KUNGSBACKA  KOMMUN
 | 4. | Nämnden för Kultur & Fritid<br>årsredovisning 2024 inkl<br>verksamhetsredovisning lokala<br>BRÅ<br>Föredragande: Erik Norinder,<br>utvecklingsledare, och Malin<br>Fjellström, controller<br>3 st dokument<br>20 min | KFT-2025-<br>00019 | Nämnden för Kultur & Fritid godkänner<br>årsredovisning 2024.<br>Nämnden för Kultur & Fritid godkänner BRÅs<br>verksamhetsredovisning för 2024 och översänder<br>verksamhetsredovisningen till kommunfullmäktige<br>för godkännande. |
 | 5. | PAUS 15 min |  |  |
 | 6. | Ombudgetering och resultatfond<br>Föredragande: Malin<br>Fjellström, controller<br>3 st dokument<br>10 min | KFT-2025-<br>00022 | Nämnden för Kultur & Fritid beslutar att begära:<br>\* att av nämndens underskott om total -1 145 tkr,<br>ska +316 tkr som avser internränta återredovisas<br>och -1 416 tkr föras till nämndens resultatfond<br>\* att av nämndens överskott i investeringsbudgeten<br>om 14 433 tkr begära 2 384 tkr som avser<br>ombudgeteras till år 2025 och 3 140 tkr till 2026. De<br>belopp som önskas ombudgeteras avser konst 1%<br>som är pågående och framtida lokalprojekt. |
+| 7. | Uppföljning intern kontroll<br>2024<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>5 min | KFT-2025-<br>00021 | Nämnden för Kultur & Fritid fastställer intern<br>kontrollrapport för 2024. |
+| 8. | Information till nämnd: rapport<br>Kulturbarometern<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>15 min | KFT-2025-<br>00023 | Nämnden noterar informationen till protokollet. |
+| 9. | Information till nämnd:<br>Återrapportering av initiativ<br>Föredragande: Karl Persson,<br>förvaltningschef, Marie<br>Persson, verksamhetschef och<br>Sofia Rosén, verksamhetschef<br>1 st dokument<br>20 min | KFT-2025-<br>00024 | Nämnden noterar informationen till protokollet. |
+| 10. | Kungsbackas mästare 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00027 | Nämnden för Kultur & Fritid beslutar att tilldela<br>priset Kungsbackas mästare för en lysande<br>prestation till: |
+| 11. | Årets eldsjäl 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00028 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXXX<br>- offentliggöra pristagaren vid prisceremonin.<br>Nominera XXXX som finalister. |
+| 12. | Årets förening 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00029 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXX som Årets förening 2024.<br>- offentliggöra pristagare vid prisceremonin.<br>- nominera XXX, XXX och XXX till finalister. |
+| 13. | Årets förnyare 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00030 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXX som Årets förnyare 2024.<br>- offentliggöra XXX, XXX och XXX som finalister. |
+| 14. | Kulturpriset 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00031 | Nämnden för Kultur & Fritid beslutar att:<br>- utse XXX som årets kulturpristagare.<br>- offentliggöra pristagaren vid prisceremonin.<br>- nominera XXX, XXX och XXX till finalister. |
+| 15. | Ledarstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00032 | Nämnden för Kultur & Fritid beslutar att:<br>- XXX tilldelas ledarstipendiet 2024.<br>- ledarstipendiaten offentliggörs vid prisceremonin. |
+| 16. | Idrottsstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00033 | Nämnden för Kultur & Fritid beslutar att:<br>- 2024 års idrottsstipendium tilldelas XXX och XXX<br>- offentliggöra stipendiaterna vid prisceremonin. |
+| 17. | Kulturstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00034 | Nämnden för Kultur & Fritid beslutar att:<br>- tilldela XXX och XXX 2025 års kulturstipendier.<br>- offentliggöra stipendiaterna vid prisceremonin. |
+| 18. | Anmälan av delegeringsbeslut<br>februari 2025<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2025-<br>00025 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2025-02-19 godkänns. |
+| 19. | Redovisning av inkomna<br>skrivelser<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument | KFT-2025-<br>00026 | Nämnden noterar redovisningen till protokollet. |
+| 20. | Förvaltningschefen informerar<br>februari 2025<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2025-<br>00035 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -69,31 +83,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Uppföljning intern kontroll<br>2024<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>5 min | KFT-2025-<br>00021 | Nämnden för Kultur & Fritid fastställer intern<br>kontrollrapport för 2024. |
-| 8. | Information till nämnd: rapport<br>Kulturbarometern<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>15 min | KFT-2025-<br>00023 | Nämnden noterar informationen till protokollet. |
-| 9. | Information till nämnd:<br>Återrapportering av initiativ<br>Föredragande: Karl Persson,<br>förvaltningschef, Marie<br>Persson, verksamhetschef och<br>Sofia Rosén, verksamhetschef<br>1 st dokument<br>20 min | KFT-2025-<br>00024 | Nämnden noterar informationen till protokollet. |
-| 10. | Kungsbackas mästare 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00027 | Nämnden för Kultur & Fritid beslutar att tilldela<br>priset Kungsbackas mästare för en lysande<br>prestation till: |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Årets eldsjäl 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00028 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXXX<br>- offentliggöra pristagaren vid prisceremonin.<br>Nominera XXXX som finalister. |
-| 12. | Årets förening 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00029 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXX som Årets förening 2024.<br>- offentliggöra pristagare vid prisceremonin.<br>- nominera XXX, XXX och XXX till finalister. |
-| 13. | Årets förnyare 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00030 | Nämnden för Kultur & Fritid beslutar att<br>- utse XXX som Årets förnyare 2024.<br>- offentliggöra XXX, XXX och XXX som finalister. |
-| 14. | Kulturpriset 2024<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00031 | Nämnden för Kultur & Fritid beslutar att:<br>- utse XXX som årets kulturpristagare.<br>- offentliggöra pristagaren vid prisceremonin.<br>- nominera XXX, XXX och XXX till finalister. |
-| 15. | Ledarstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00032 | Nämnden för Kultur & Fritid beslutar att:<br>- XXX tilldelas ledarstipendiet 2024.<br>- ledarstipendiaten offentliggörs vid prisceremonin. |
-| 16. | Idrottsstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00033 | Nämnden för Kultur & Fritid beslutar att:<br>- 2024 års idrottsstipendium tilldelas XXX och XXX<br>- offentliggöra stipendiaterna vid prisceremonin. |
 
 <!-- sida 5 -->
 
@@ -103,15 +97,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Kulturstipendium 2025<br>Föredragande: Carin Sjöberg,<br>utvecklare<br>2 st dokument | KFT-2025-<br>00034 | Nämnden för Kultur & Fritid beslutar att:<br>- tilldela XXX och XXX 2025 års kulturstipendier.<br>- offentliggöra stipendiaterna vid prisceremonin. |
-| 18. | Anmälan av delegeringsbeslut<br>februari 2025<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2025-<br>00025 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2025-02-19 godkänns. |
-| 19. | Redovisning av inkomna<br>skrivelser<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument | KFT-2025-<br>00026 | Nämnden noterar redovisningen till protokollet. |
-| 20. | Förvaltningschefen informerar<br>februari 2025<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2025-<br>00035 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 6 -->
 
@@ -3192,7 +3177,7 @@ Investeringar (belopp mkr)
 | Kultur & Fritid | -1,0 | -2,2 | -1,1 |
 | Totalt | -1,0 | -2,2 | -1,1 |
 
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
+[Tabell 70-71-2](handlingar.tabeller/70-71-2.csv)
 
 | (Belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -3206,6 +3191,10 @@ Investeringar (belopp mkr)
 | Finansiell leasing |  |  |  |  |
 | Summa investeringsutgifter | -21,1 | -26,1 | -12,1 | 14,0 |
 | INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag | 0,5 | 0 | 0,4 | 0,4 |
+| Summa investeringsinkomster | 0,5 | 0 | 0,4 | 0,4 |
+| Summa nettoinvesteringar | -20,6 | -26,1 | -11,7 | 14,4 |
 
 <!-- sida 71 -->
 
@@ -3243,14 +3232,6 @@ Kommentarer
 39
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Övriga investeringar - Statliga<br>investeringsbidrag | 0,5 | 0 | 0,4 | 0,4 |
-| Summa investeringsinkomster | 0,5 | 0 | 0,4 | 0,4 |
-| Summa nettoinvesteringar | -20,6 | -26,1 | -11,7 | 14,4 |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
 
 | Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2024 | Budget<br>2024 | Bokslut<br>2024 | Avvikels<br>e 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3494,11 +3475,14 @@ för utanförskap i Kungsbacka.
 
 Mål: Fö rhindra att ungdömar bega r brött öch blir utsatta fö r brött.
 
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
+[Tabell 77-78-1](handlingar.tabeller/77-78-1.csv)
 
 | Aktiviteter | Åtgärd / Uppföljning |
 | --- | --- |
 | Stoppmöten | 7 st stoppmöten genomförda under 2024 för att minska<br>kriminalitet och stödja ungdomar och deras vårdnadshavare.<br>Informationskampanj genomfördes för att stärka metoden.<br>En arbetsgrupp tillsätts 2025 för att vidareutveckla och<br>utvärdera arbetet. |
+| Tillfälligt sammansatta<br>team | Vi fångar upp en händelse direkt när det sker. Samordnaren har<br>fått in tips som hen (i dialog med berörda) bedömer som viktig<br>att agera på. Vi träffas i samverkan vid behov. Verksamheten<br>kring Åsa ökade under perioden där nattvandrare och<br>ungdomskonsulenter samarbetade. Metoden håller för<br>närvarande på att utvärderas.<br>Nattvandring: Rörande nattvandringen har<br>informationsträffar och utbildningsträffar har hållits 2024.<br>Nattvandrarnas aktiviteter har satts på specifika riskplatser i<br>samråd med det lokala brottsförebyggande rådets operativa<br>grupp. Under sommaren 2024 trygghetsvandrade även<br>ideella föreningar. |
+| Motordriven Ungdom | Under hösten har ungdomskonsulenter varit ute på kvällar<br>och träffat ungdomarna tillsammans med nattvandrare. De<br>har lyssnat av ungdomarna, anordnat tävlingar och bjudit in<br>dem till Protonen.<br>Nu börjar vi komma igång med ett 20-tal ungdomar, och<br>tillsammans med dem planerar vi aktiviteter, såsom en resa<br>till Elmia-mässan till våren och ett event tillsammans med<br>Falkenberg och Varbergs fritidsledare under våren<br>2025. Under 2024 har dialoger genomförts med<br>fastighetsägare, vilket kommer fortsätta 2025. |
+| Skolan | Gemensam anmälningsrutin från förskola till gymnasiet<br>gällande polisanmälan och orosanmälan (SOL14).<br>Anmälningsrutin implanterades hösten 2024.<br>Noll tolerans mot brott i skolan<br>Det lokala brottsförebyggande rådet har stärkt samverkan<br>med rektorer och planerar regelbundna samverkansträffar<br>under 2025. Målsättningen är att delge aktuella lägesbilder<br>till skola, ungdomsverksamhet samt socialtjänsten.<br>Det lokala brottsförebyggande rådet har deltagit på olika<br>dialogforum med skolan, såsom föräldramöten och<br>planeringsmöten, haft föreläsningar etc. |
 
 <!-- sida 78 -->
 
@@ -3506,13 +3490,6 @@ KUNGSBACKA  KOMMUN
 3 (10)
 
 Kontakt: (e-post borttagen)
-
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
-| Tillfälligt sammansatta<br>team | Vi fångar upp en händelse direkt när det sker. Samordnaren har<br>fått in tips som hen (i dialog med berörda) bedömer som viktig<br>att agera på. Vi träffas i samverkan vid behov. Verksamheten<br>kring Åsa ökade under perioden där nattvandrare och<br>ungdomskonsulenter samarbetade. Metoden håller för<br>närvarande på att utvärderas.<br>Nattvandring: Rörande nattvandringen har<br>informationsträffar och utbildningsträffar har hållits 2024.<br>Nattvandrarnas aktiviteter har satts på specifika riskplatser i<br>samråd med det lokala brottsförebyggande rådets operativa<br>grupp. Under sommaren 2024 trygghetsvandrade även<br>ideella föreningar. |
-| --- | --- |
-| Motordriven Ungdom | Under hösten har ungdomskonsulenter varit ute på kvällar<br>och träffat ungdomarna tillsammans med nattvandrare. De<br>har lyssnat av ungdomarna, anordnat tävlingar och bjudit in<br>dem till Protonen.<br>Nu börjar vi komma igång med ett 20-tal ungdomar, och<br>tillsammans med dem planerar vi aktiviteter, såsom en resa<br>till Elmia-mässan till våren och ett event tillsammans med<br>Falkenberg och Varbergs fritidsledare under våren<br>2025. Under 2024 har dialoger genomförts med<br>fastighetsägare, vilket kommer fortsätta 2025. |
-| Skolan | Gemensam anmälningsrutin från förskola till gymnasiet<br>gällande polisanmälan och orosanmälan (SOL14).<br>Anmälningsrutin implanterades hösten 2024.<br>Noll tolerans mot brott i skolan<br>Det lokala brottsförebyggande rådet har stärkt samverkan<br>med rektorer och planerar regelbundna samverkansträffar<br>under 2025. Målsättningen är att delge aktuella lägesbilder<br>till skola, ungdomsverksamhet samt socialtjänsten.<br>Det lokala brottsförebyggande rådet har deltagit på olika<br>dialogforum med skolan, såsom föräldramöten och<br>planeringsmöten, haft föreläsningar etc. |
 
 <!-- sida 79 -->
 
@@ -3545,11 +3522,14 @@ motståndskraftig kommun, fri från organiserad kriminalitet.
 
 Mål: Bevara läget genom att motverka en etablering och att förhindra rekrytering till gäng.
 
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
+[Tabell 79-80-1](handlingar.tabeller/79-80-1.csv)
 
 | Aktiviteter | Åtgärd / Uppföljning |
 | --- | --- |
 | Öka<br>kunskapen<br>rörande<br>otillåten<br>påverkan och<br>välfärdsbrott | Intern inventering har genomförts 2023 – 2024.<br>Interna utbildningar i ämnet planeras i samarbete mellan Styrning<br>& Ekonomi samt BRÅ.<br>Det lokala brottsförebyggande rådet kommer under 2025 aktivt<br>arbeta för att påbörja riktad information och kunskap om<br>otillbörlig påverkan, korruption och välfärdsbrott även till<br>allmänheten och företagare. |
+|  | Under 2024 har lokala BRÅ påbörjat ett arbete med att sprida<br>information kring otillåten påverkan riktat till allmänheten och<br>näringslivet. Detta arbete kommer att intensifieras under 2025. |
+| Skolan | Se tidigare avsnitt om Ungdomskriminalitet och utanförskap<br>Lokala brottsförebyggande rådet och polisen har skapat goda<br>nätverk med rektorer under 2024. I detta nätverk delger vi<br>aktuella lägesbilder till skola, ungdomsverksamhet samt<br>socialtjänst.<br>Under 2024 har vi startat att delge information till skola och<br>vårdnadshavare under namnet ”Gängsnacket”. |
+| Polis och<br>socialtjänst | Fortsatt och stärkt arbetet kring avhopparverksamhet |
 
 <!-- sida 80 -->
 
@@ -3576,13 +3556,6 @@ positiv och trygg atmosfär för alla invånare.
 
 Mål: Synliggöra det lokala brottsförebyggande arbetet, öka förtroendet och den generella
 tryggheten samt öka anmälningsbenägenhet
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-|  | Under 2024 har lokala BRÅ påbörjat ett arbete med att sprida<br>information kring otillåten påverkan riktat till allmänheten och<br>näringslivet. Detta arbete kommer att intensifieras under 2025. |
-| --- | --- |
-| Skolan | Se tidigare avsnitt om Ungdomskriminalitet och utanförskap<br>Lokala brottsförebyggande rådet och polisen har skapat goda<br>nätverk med rektorer under 2024. I detta nätverk delger vi<br>aktuella lägesbilder till skola, ungdomsverksamhet samt<br>socialtjänst.<br>Under 2024 har vi startat att delge information till skola och<br>vårdnadshavare under namnet ”Gängsnacket”. |
-| Polis och<br>socialtjänst | Fortsatt och stärkt arbetet kring avhopparverksamhet |
 
 <!-- sida 81 -->
 
@@ -3630,25 +3603,21 @@ Mål: Tillsammans motverka att en narkotikamarknad etableras i kommunen och stop
 finansieringen till kriminella nätverk. Höja kunskapsnivån. Bryta normalisering. Minska
 drogpåverkade i trafiken.
 
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
+[Tabell 82-83-1](handlingar.tabeller/82-83-1.csv)
 
 | Aktiviteter | Åtgärd / Uppföljning |
 | --- | --- |
 | Skolan | Det narkotikaförebyggande arbetet ska utökas.<br>Arbetet för att ta fram en gemensam drogpolicy och regler för<br>kommunala skolor har fortsatt under 2024. Arbetet förväntas<br>färdigställas under 2025 och påbörja en implementering.<br>Gemensam anmälningsrutin finns nu från förskola till gymnasiet<br>gällande polisanmälan och orosanmälan (SOL14). |
 | Höja kunskapsnivån<br>om narkotika och<br>andra droger | Tre nyhetsbrev ”Hallå Förälder” har skickats ut i v-klass under 2024<br>till vårdnadshavare med barn i åk F-9. |
+|  | Kommun och polis har föreläst gemensamt för ex.vis personal inom<br>vården (BUP), personal inom kommunen, tex. fastighetsskötare om<br>attribut kopplat till narkotika samt på skolor. |
+| Motverka att en<br>narkotikamarknad<br>etableras | Flera kommunikationsinsatser har ägt rum under 2024 för att ökad<br>förmåga från allmänheten att tipsa polisen. |
+| Drogpåverkade i<br>trafiken | Polisen har löpande under året genomfört trafikkontroller. |
+| Övriga insatser utanför<br>Lokala Brå men med en<br>narkotikaförebyggande<br>effekt | Föreläsningar: Under 2024 har ANDTS-samordnare genomfört flera<br>föreläsningar i samverkan med skolor:<br>11 föräldramöten från åk 4–9 (bedöms ha nått ca. 1320 föräldrar).<br>8 personalträffar med ämneslärare (bedöms ha nått ca. 200 lärare),<br>samt träff med ca 30 st skolsköterskor samt ca 20 st kuratorer, vilket<br>har lett till ökade dialoger i hem och klassrum, samt en stärkt<br>samverkan mellan föräldrar, skola och hem.<br>Metoden 100% Ren Hårdträning: utbildningar och nätverksträffar<br>har hållts under 2024 för att minska användning av dopning,<br>narkotika samt förhindra att gym används som plats för försäljning<br>och förvaring av vapen och narkotika. Under året har samverkan lett<br>till förstärkt förebyggande arbete samt hantering av incidenter,<br>beslag och anmälningar.<br>Narkotika på krogen: Under året har kommun och polis arrangerat<br>krögarträffar samt utbildningar i ansvarsfull alkoholservering, samt<br>hantering av narkotika på krogen för krögare, serveringspersonal<br>och ordningsvakter. Vid kontroller och tillsyn har spår av kokain<br>påträffats på flera krogtoaletter. Extra nätverksträffar mellan<br>krögare, polis och kommun har därför anordnats för att betona allas<br>gemensamma ansvar. Kommunen har bidragit med stödmaterial till<br>policy och handlingsplan och skyltar för att tydligt ta ställning och<br>signalera att krögare, polisen och Kungsbacka kommun står enade<br>mot narkotika.<br>Kontrollköp av tobaks- och nikotinprodukter: Under 2024<br>genomfördes kontrollköp (för första gången i Kungsbacka) av<br>tobaks- och nikotinprodukter på 34 försäljningsställen. Endast i 46 |
 
 <!-- sida 83 -->
 
 KUNGSBACKA  KOMMUN
 8 (10)
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-|  | Kommun och polis har föreläst gemensamt för ex.vis personal inom<br>vården (BUP), personal inom kommunen, tex. fastighetsskötare om<br>attribut kopplat till narkotika samt på skolor. |
-| --- | --- |
-| Motverka att en<br>narkotikamarknad<br>etableras | Flera kommunikationsinsatser har ägt rum under 2024 för att ökad<br>förmåga från allmänheten att tipsa polisen. |
-| Drogpåverkade i<br>trafiken | Polisen har löpande under året genomfört trafikkontroller. |
-| Övriga insatser utanför<br>Lokala Brå men med en<br>narkotikaförebyggande<br>effekt | Föreläsningar: Under 2024 har ANDTS-samordnare genomfört flera<br>föreläsningar i samverkan med skolor:<br>11 föräldramöten från åk 4–9 (bedöms ha nått ca. 1320 föräldrar).<br>8 personalträffar med ämneslärare (bedöms ha nått ca. 200 lärare),<br>samt träff med ca 30 st skolsköterskor samt ca 20 st kuratorer, vilket<br>har lett till ökade dialoger i hem och klassrum, samt en stärkt<br>samverkan mellan föräldrar, skola och hem.<br>Metoden 100% Ren Hårdträning: utbildningar och nätverksträffar<br>har hållts under 2024 för att minska användning av dopning,<br>narkotika samt förhindra att gym används som plats för försäljning<br>och förvaring av vapen och narkotika. Under året har samverkan lett<br>till förstärkt förebyggande arbete samt hantering av incidenter,<br>beslag och anmälningar.<br>Narkotika på krogen: Under året har kommun och polis arrangerat<br>krögarträffar samt utbildningar i ansvarsfull alkoholservering, samt<br>hantering av narkotika på krogen för krögare, serveringspersonal<br>och ordningsvakter. Vid kontroller och tillsyn har spår av kokain<br>påträffats på flera krogtoaletter. Extra nätverksträffar mellan<br>krögare, polis och kommun har därför anordnats för att betona allas<br>gemensamma ansvar. Kommunen har bidragit med stödmaterial till<br>policy och handlingsplan och skyltar för att tydligt ta ställning och<br>signalera att krögare, polisen och Kungsbacka kommun står enade<br>mot narkotika.<br>Kontrollköp av tobaks- och nikotinprodukter: Under 2024<br>genomfördes kontrollköp (för första gången i Kungsbacka) av<br>tobaks- och nikotinprodukter på 34 försäljningsställen. Endast i 46 |
 
 <!-- sida 84 -->
 
@@ -4038,7 +4007,7 @@ Uppföljningsrapport intern kontroll 2024
 | Verksamhet | 3 Kommunövergripande risk - Risk för korruption Ja |
 |  | 4 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
 
-[Tabell 97-2](handlingar.tabeller/97-2.csv)
+[Tabell 97-98-2](handlingar.tabeller/97-98-2.csv)
 
 | Kategorier | Risker Anledning till att risk ej tas till plan |
 | --- | --- |
@@ -4047,6 +4016,7 @@ Uppföljningsrapport intern kontroll 2024
 | Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
 |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
 | Verksamhet | Rutiner för<br>tillbud/olyckor för<br>besökare/deltaga<br>re i vår<br>verksamhet |
+|  | Nämndspecifik Rutiner och risker måste först identifieras<br>risk: Brist på<br>rutiner som<br>beskriver vilka<br>värderingar som<br>ligger till grund<br>för partnerskap<br>mellan Kultur &<br>Fritid och aktörer<br>inom<br>civilsamhället |
 
 <!-- sida 98 -->
 
@@ -4054,12 +4024,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 8
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-|  | Nämndspecifik Rutiner och risker måste först identifieras<br>risk: Brist på<br>rutiner som<br>beskriver vilka<br>värderingar som<br>ligger till grund<br>för partnerskap<br>mellan Kultur &<br>Fritid och aktörer<br>inom<br>civilsamhället |
 
 <!-- sida 99 -->
 
@@ -4197,7 +4161,7 @@ Nämndens självskattning
 
 13
 
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
+[Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
 | Område | Frågor Svar, Antal 2024 |
 | --- | --- |
@@ -4215,6 +4179,12 @@ Nämndens självskattning
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 104 -->
 
@@ -4222,17 +4192,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 14
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
-| Område | Frågor Svar, Antal 2024 |
-| --- | --- |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 105 -->
 

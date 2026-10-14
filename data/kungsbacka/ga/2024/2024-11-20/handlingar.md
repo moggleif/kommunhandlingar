@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363732f/173156986992
 sha256: 73af56f2568806f165cab5e91ccae213f9a7f5c2daf112e73be8d7ecca42012d
 bytes: 32855428
 sidor: 289
-hamtad: 2026-10-07T22:17:08+00:00
-konverterad: 2026-10-07T22:19:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:31:17+00:00
+konverterad: 2026-10-14T06:33:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [248, 249, 250, 251, 252, 253, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: [51, 53, 55, 56, 57, 58, 60, 61, 63, 66, 67, 110, 111, 112, 116, 118, 119, 248, 249, 250, 251, 252, 253, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289]
+figurer: [27, 33, 46, 52, 53, 54, 56, 57, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125, 135, 150, 154, 174, 191, 254, 255, 256]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,17 +69,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Inriktningsval 25/26<br>Föredragande: Cindia<br>Escalante Mattsson<br>20:05-20:15 | GA-2024-<br>00195 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 8. | Intern kontrollplan 2025<br>Föredragande: Andréas<br>Mårtensson<br>20:15-20:25 | GA-2024-<br>00193 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att godkänna intern kontrollplan 2025. |
 | 9. | Remiss - Kungsbacka kommuns<br>Bostadsförsörjningsplan 2025-<br>2029 | GA-2024-<br>00185 | Förslag till beslut<br>Nämnden för gymnasium och arbetsmarknad antar<br>yttrandet som sitt eget och skickar det till<br>Kommunstyrelsen. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Initiativ uppmärksamma<br>exceptionella prestationer | GA-2024-<br>00202 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att bordlägga punkten för beslut på<br>nämndens sammanträde i december. |
 | 11. | Interkommunal ersättning<br>gymnasiet och anpassad<br>gymnasieskola 2025 | GA-2024-<br>00187 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer Interkommunal ersättning (IKE) för<br>gymnasieskola och anpassad gymnasieskola mellan<br>GR-kommunerna 2025 enligt förslag från<br>Göteborgsregionens kommunalförbund, daterad<br>2024-06-25. |
 | 12. | Interkommunal ersättning<br>vuxenutbildningen 2025 | GA-2024-<br>00188 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer Interkommunal ersättning (IKE) för<br>kommunal vuxenutbildning i Göteborgsregionen<br>2025 mellan GR-kommunerna 2025, enligt förslag<br>från Göteborgsregionens kommunalförbund, daterad<br>2024-05-16. |
@@ -87,6 +76,13 @@ KUNGSBACKA  KOMMUN
 | 14. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-10-01 till 2024-10-31. |
 | 15. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 16. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 17. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:50-21:00 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -96,12 +92,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:50-21:00 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -1207,7 +1197,7 @@ Intern kontrollplan 2025
 
 11
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande Ej aktuellt för GA<br>risk: Resurs- och utifrån hur risken är<br>kompetensbrist beskriven med<br>koppling till nya<br>arbetstidsdirektivet. |
 | --- | --- |
@@ -1216,6 +1206,10 @@ Intern kontrollplan 2025
 |  | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas som<br>- Bristande driftmiljö besvärande för<br>2. Mindre<br>hos leverantörer berörda<br>vanligt<br>intressenter<br>och<br>kommunen) |
 | Verksamhet | Åtgärdsprogrammens De senaste årens<br>kvalitet 4. Allvarlig/stor granskning i Intern<br>2. Mindre inverkan (så kontroll har ej visat<br>vanligt stor att den inte på några brister.<br>får inträffa) Eventuell<br>granskning 2026 |
 |  | Felaktiga Granskning 2024<br>anställningsavtal visade att den<br>3. Kännbar stora bristen var att<br>(uppfattas som det inte gick att se<br>besvärande för att<br>2. Mindre<br>berörda belastningsregister<br>vanligt<br>intressenter uppvisats/begärts<br>och ut. Detta finns med<br>kommunen) som egen risk och<br>granskningsaktivtet<br>2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Mottagning av 3. Kännbar Eventuell<br>ungdomar i (uppfattas som granskning 2026<br>kommunala besvärande för<br>2. Mindre<br>aktivitetsansvaret berörda<br>vanligt<br>intressenter<br>och<br>kommunen) |
+|  | Felaktiga utbetalningar 3. Kännbar Uppföljning och<br>ekonomiskt bistånd (uppfattas som kontroll görs inom<br>besvärande för ramen för det<br>2. Mindre<br>berörda systematiska<br>vanligt<br>intressenter kvalitetsarbetet,<br>och SOSFS<br>kommunen) |
+|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas som kontroll görs inom<br>vid TAK-placeringar besvärande för systematiskt<br>2. Mindre<br>berörda kvalitetsarbete,<br>vanligt<br>intressenter SOSFS<br>och<br>kommunen) |
+|  | Externa 3. Kännbar Metod för<br>skolplaceringar där (uppfattas som granskning ej<br>särskilda skäl finns besvärande för framtagen.<br>3. Vanligt berörda Eventuell<br>intressenter granskning 2026<br>och<br>kommunen) |
 
 <!-- sida 36 -->
 
@@ -1223,14 +1217,6 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Intern kontrollplan 2025
 
 12
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Mottagning av 3. Kännbar Eventuell<br>ungdomar i (uppfattas som granskning 2026<br>kommunala besvärande för<br>2. Mindre<br>aktivitetsansvaret berörda<br>vanligt<br>intressenter<br>och<br>kommunen) |
-| --- | --- |
-|  | Felaktiga utbetalningar 3. Kännbar Uppföljning och<br>ekonomiskt bistånd (uppfattas som kontroll görs inom<br>besvärande för ramen för det<br>2. Mindre<br>berörda systematiska<br>vanligt<br>intressenter kvalitetsarbetet,<br>och SOSFS<br>kommunen) |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas som kontroll görs inom<br>vid TAK-placeringar besvärande för systematiskt<br>2. Mindre<br>berörda kvalitetsarbete,<br>vanligt<br>intressenter SOSFS<br>och<br>kommunen) |
-|  | Externa 3. Kännbar Metod för<br>skolplaceringar där (uppfattas som granskning ej<br>särskilda skäl finns besvärande för framtagen.<br>3. Vanligt berörda Eventuell<br>intressenter granskning 2026<br>och<br>kommunen) |
 
 <!-- sida 37 -->
 
@@ -4316,7 +4302,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 113 -->
 
@@ -4334,7 +4325,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 114 -->
 

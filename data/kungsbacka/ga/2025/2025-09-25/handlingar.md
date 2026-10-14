@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.32f2dc5a1995b7e9114b14/175817824251
 sha256: 0476310af09304bf040428539d75e7ff715b0dcc09c048058f3c6312331cd9dd
 bytes: 9332157
 sidor: 191
-hamtad: 2026-10-07T22:23:24+00:00
-konverterad: 2026-10-07T22:24:05+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:36:29+00:00
+konverterad: 2026-10-14T06:37:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker]
-tal_obekraftade: [169, 174, 176]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok]
+tal_obekraftade: [160, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191]
+figurer: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 160, 169, 170, 171, 172, 173, 175, 177, 178, 179, 180, 181, 182, 183, 185, 186, 187, 188, 189, 190, 191]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2150,8 +2150,9 @@ Vuxenutbildning
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
-| Miljoner<br>kronor<br>Intäkter | Bokslut<br>2024<br>147,5 | Budget<br>2025<br>130,3 | Prognos<br>2025<br>140,4 | Budget-<br>avvikelse<br>10,1 | Delår<br>2024<br>93,4 | Delår<br>2025<br>87,4 | Avvikelse<br>delår<br>-6,0 |
+| Miljoner<br>kronor | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Budget-<br>avvikelse | Delår<br>2024 | Delår<br>2025 | Avvikelse<br>delår |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Intäkter | 147,5 | 130,3 | 140,4 | 10,1 | 93,4 | 87,4 | -6,0 |
 | Kostnader | -762,4 | -775,8 | -779,5 | -3,7 | -499,1 | -506,7 | -7,6 |
 |  |  |  |  |  |  |  |  |
 | Periodens<br>resultat | -614,9 | -645,5 | -639,1 | 6,4 | -405,7 | -419,3 | -13,6 |
@@ -3689,7 +3690,7 @@ beslut enligt SoL 12:2.
 
 10.2 Högtidspeng
 Beviljas till barnfamiljer med långvarigt biståndsbehov (10 månader eller längre). Äldsta
-barnet 500 kr, 1–10 år 300 kr/barn, 11 år-uppåt 400 kr/barn. Kan delas upp på två gånger
+barnet 500 kr,1–10 år 300 kr/barn, 11 år-uppåt 400 kr/barn. Kan delas upp på två gånger
 per år till exempel jul och födelsedag. Gäller även umgängesbarn.
 
 Beviljas i ett separat beslut enligt SoL 12:2.
@@ -6881,12 +6882,16 @@ Intern kontrollplan 2026
 |  | 3 2. Mindre 4. Allvarlig/stor inverkan Ja<br>Kommunövergripan vanligt (så stor att den inte får<br>de risk - Risk för inträffa)<br>korruption och<br>välfärdsbrottslighet |
 |  | 4 2. Mindre 3. Kännbar (uppfattas Ja<br>Kommunövergripan vanligt som besvärande för<br>de risk: berörda intressenter och<br>Förvaltningarnas kommunen)<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet |
 
-[Tabell 161-2](handlingar.tabeller/161-2.csv)
+[Tabell 161-162-2](handlingar.tabeller/161-162-2.csv)
 
 | Kategorier<br>Personal | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunöver- 2. Mindre 3. Kännbar Efterlevnad till gällande<br>gripande risk: vanligt (uppfattas som rutiner har följts upp under<br>Efterlevnad till besvärande för några år och visar på gott<br>rekryterings- berörda resultat. Åtgärder<br>processen intressenter och (information och utbildning)<br>kommunen) har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
 | --- | --- |
 | Ekonomi | Kommunövergripa 2. Mindre 3. Kännbar Utvecklingsarbete pågår bl<br>nde risk: vanligt (uppfattas som a med nya avstämningar<br>Grundläggande besvärande för och rapporter (BI)<br>redovisning berörda<br>kvalitetsbrister intressenter och<br>kommunen) |
 | Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, | Kommunövergripa 2. Mindre 3. Kännbar Arbetet med<br>nde risk: vanligt (uppfattas som informationssäkerhet följer<br>informationssäkerh besvärande för gemensamma<br>et; skydd av berörda styrdokument med<br>information mot intressenter och uppföljning i egen process.<br>obehörig tillgång kommunen) |
+| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
+|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
+| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
 
 <!-- sida 162 -->
 
@@ -6894,14 +6899,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Intern kontrollplan 2026
 
 10
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
-| --- | --- |
-|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
-| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
 
 <!-- sida 163 -->
 
@@ -8290,13 +8287,15 @@ procent).
 Kvarstående deltagare: 5 596 Nya deltagare: 466 Deltagare som Lämnat: 756
 Förändring: -290 [−4,9%] Förändring: -714 [−60,5%] Förändring: -620 [−45,1%]
 8K
-2K
+2K                    2K
 7K
 6K
-1K
+1K                    1K
 5 596
+756
 5K
-4K                   0K
+466
+4K                   0K                    0K
 2024    2025         2024     2025         2024    2025
 Kvarstående, nya och deltagare som lämnat arbetsmarknadsutbildning
 DELTAGARANTAL          Deltagande i förberedande utbildning procent) och utflödet (-40,8 procent)
@@ -8321,18 +8320,9 @@ Folkhögskolesatsningen              787 (32,7%)
 Korta Vägen          491 (20,4%)
 Yrkes- och studieförberedande moduler 170 (7,1%)
 Orientering, test och kartläggning 117 (4,9%)
-
 Övrigt 9 (0,4%)
-
 Kvarstående, nya och avslutade deltagare i förberedande utbildning samt fördelning per utbildningsinriktning
 21
-
-[Tabell 189-1](handlingar.tabeller/189-1.csv)
-
-|  | 2K<br>1K<br>0K |  |
-| --- | --- | --- |
-|  |  |  |
-| 466 |  | 756 |
 
 <!-- sida 190 -->
 
@@ -8373,22 +8363,23 @@ Kvarstående senaste   Förändring från
 Andel senaste månaden
 månaden     föregående månad
 
-```osaker-tabell
-K Hantverk                 29,8%             1 668               −29
-M Transport                21,4%             1 198              −124
-I Restaurang               11,5%               643               −12
-Övrigt                     10,3%               575               −62
-A IT                        8,5%               476                3
-J Bygg                      8,2%               457               −7
-F Vård                      4,3%               238                4
-B Teknik/natur              4,1%               227               −7
-H Kundservice               1,1%               59                −12
-L Maskin                    1,0%               55                 8
-```
-
 Kvarstående deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 
 22
+
+[Tabell 190-1](handlingar.tabeller/190-1.csv)
+
+| K Hantverk | 29,8% | 1 668 | −29 |
+| --- | --- | --- | --- |
+| M Transport | 21,4% | 1 198 | −124 |
+| I Restaurang | 11,5% | 643 | −12 |
+| Övrigt | 10,3% | 575 | −62 |
+| A IT | 8,5% | 476 | 3 |
+| J Bygg | 8,2% | 457 | −7 |
+| F Vård | 4,3% | 238 | 4 |
+| B Teknik/natur | 4,1% | 227 | −7 |
+| H Kundservice | 1,1% | 59 | −12 |
+| L Maskin | 1,0% | 55 | 8 |
 
 <!-- sida 191 -->
 
@@ -8425,19 +8416,20 @@ Bergstrands Vuxenutbildning.. 251
 Andel senaste Kvarstående Förändring från Förändring (%)
 månaden senaste månaden föregående månad kvarstående
 
-```osaker-tabell
-Nercia Utbildning AB      12,9%         720          -9      −1,2%
-Kunskapscompaniet Ankaret.. 11,5%       645         -11      −1,7%
-Arcus Utbildning & Jobbförm.. 10,5%     588          -2      −0,3%
-Lexicon AB                 8,1%         451         -21      −4,4%
-AU Utbildning AB           6,5%         361         -42     −10,4%
-Astar AB                   6,4%         359         -34      −8,7%
-YrkesAkademin AB           5,9%         329         -28      −7,8%
-Grönlunds Yrkesutbildningar .. 5,5%     307         -80     −20,7%
-Movant AB                  4,6%         260         10        4,0%
-Bergstrands Vuxenutbildning.. 4,5%      251         -13      −4,9%
-```
-
 Antal deltagare i arbetsmarknadsutbildning per leverantör och utbildningsinriktning
 
 23
+
+[Tabell 191-1](handlingar.tabeller/191-1.csv)
+
+| Nercia Utbildning AB | 12,9% | 720 | -9 | −1,2% |
+| --- | --- | --- | --- | --- |
+| Kunskapscompaniet Ankaret.. | 11,5% | 645 | -11 | −1,7% |
+| Arcus Utbildning & Jobbförm.. | 10,5% | 588 | -2 | −0,3% |
+| Lexicon AB | 8,1% | 451 | -21 | −4,4% |
+| AU Utbildning AB | 6,5% | 361 | -42 | −10,4% |
+| Astar AB | 6,4% | 359 | -34 | −8,7% |
+| YrkesAkademin AB | 5,9% | 329 | -28 | −7,8% |
+| Grönlunds Yrkesutbildningar .. | 5,5% | 307 | -80 | −20,7% |
+| Movant AB | 4,6% | 260 | 10 | 4,0% |
+| Bergstrands Vuxenutbildning.. | 4,5% | 251 | -13 | −4,9% |

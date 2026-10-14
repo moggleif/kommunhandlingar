@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c172736/17652048268
 sha256: e1315e47dd56cc68dbbcb2dac4b8e1b3f2e50909dd51d717d8a3294cd86a278f
 bytes: 15118802
 sidor: 197
-hamtad: 2026-10-07T22:57:04+00:00
-konverterad: 2026-10-07T22:57:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:05:48+00:00
+konverterad: 2026-10-14T07:06:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [55, 167, 168, 169, 170]
-figurer: null
-tolkade: null
+figurer: [55, 67, 68, 135, 161, 175, 176, 177]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,23 +69,21 @@ KUNGSBACKA  KOMMUN
 | 8. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområden<br>Kl 18:20-18:30<br>Gustav Sjöström, ekonomichef | FG-2025-00717 | Interkommunala ersättningar för kommuner<br>utanför Göteborgsregionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2026-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
 | 9. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 18:30-18:35<br>Gustav Sjöström, ekonomichef | FG-2025-00718 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad grundskola<br>mellan Varberg, Mark och Kungsbacka följs från<br>och med 2026 01 01. |
 | 10. | Interkommunal ersättning inom<br>GR - GRFS: 2025-00201<br>Kl 18:35-18:40<br>Gustav Sjöström, ekonomichef | FG-2025-00588 | Nämnden för Förskola & Grundskola beslutar att<br>följa förbundsstyrelsen inom Göteborgsregionens<br>rekommendation att med avstämningstidpunkt<br>den 15:e respektive månad, fastställa<br>interkommunal ersättning för förskola,<br>pedagogisk omsorg, förskoleklass, grundskola,<br>fritidshem, anpassad grundskola och ISGR<br>kalenderåret 2025 i enlighet med innehållet i<br>prislista. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Intern kontrollplan 2026<br>Kl 18:40-19:05<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026. |
 | 12. | Samverkansavtal för förskola<br>och pedagogisk omsorg i<br>Göteborgsregionen 2026-01-01<br>- 2029-12-31<br>Kl 19:05-19:15<br>Frida Byrsten, verksamhetschef | FG-2025-00585 | Nämnden för Förskola & Grundskola ställer sig<br>bakom Samverkansavtal för förskola och<br>pedagogisk omsorg i Göteborgsregionen 2026-<br>2029 och överlämnar detta som sitt yttrande till<br>kommunstyrelsen. |
 | 13. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 15. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 | 16. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
+| 17. | Initiativärende, öppen förskola<br>och projektmedel<br>Kl 19:15-19:25<br>Ordförande | FG-2025-00742 | Nämnden för Förskola & Grundskola ger<br>förvaltningen för Förskola och Grundskola i<br>uppdrag att:<br>• Ansöka till kommunstyrelsen om 2<br>miljoner kronor från projektmedel ’Trygg<br>uppväxt för att under 2026 stärka och<br>utveckla öppen förskola i Kungsbacka.<br>• Säkerställa att satsningen når fler familjer<br>och att insatserna fördelas över hela<br>kommunen.<br>• Utveckla innehållet i öppen förskola med<br>fokus på föräldrastöd, språkutveckling<br>och matematik.<br>• Återrapportera till nämnden hur medlen<br>använts och vilka effekter satsningen haft<br>på deltagande och upplevd kvalitet. |
+| 18. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 19:25-19:40<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -95,14 +93,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Initiativärende, öppen förskola<br>och projektmedel<br>Kl 19:15-19:25<br>Ordförande | FG-2025-00742 | Nämnden för Förskola & Grundskola ger<br>förvaltningen för Förskola och Grundskola i<br>uppdrag att:<br>• Ansöka till kommunstyrelsen om 2<br>miljoner kronor från projektmedel ’Trygg<br>uppväxt för att under 2026 stärka och<br>utveckla öppen förskola i Kungsbacka.<br>• Säkerställa att satsningen når fler familjer<br>och att insatserna fördelas över hela<br>kommunen.<br>• Utveckla innehållet i öppen förskola med<br>fokus på föräldrastöd, språkutveckling<br>och matematik.<br>• Återrapportera till nämnden hur medlen<br>använts och vilka effekter satsningen haft<br>på deltagande och upplevd kvalitet. |
-| 18. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
-| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 19:25-19:40<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -630,7 +620,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
+[Tabell 18-19-1](handlingar.tabeller/18-19-1.csv)
 
 | Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
 | --- | --- |
@@ -649,6 +639,10 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Årskurs F-6 | 38 497 kr |
 | För elever inskrivna i anpassad grundskola uppräknas á-priset för<br>fritidshem för nivå 1 med faktorn 4 och för nivå 2 med faktorn 3 |  |
 |  |  |
+| Anpassad grundskola |  |
+| Nivå 1 | 722 975 kr |
+| Nivå 2 | 532 062 kr |
+| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 19 -->
 
@@ -673,14 +667,6 @@ FG Ekonomi & Planering
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Anpassad grundskola |  |
-| --- | --- |
-| Nivå 1 | 722 975 kr |
-| Nivå 2 | 532 062 kr |
-| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 20 -->
 
@@ -2674,11 +2660,14 @@ Nationell målsättning
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete            9
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 |  | I förskolan får varje barn en utbildning av hög kvalitet som ger barnet goda möjligheter till lek, rörelse,<br>utveckling och lärande samt förbereder för fortsatt utbildning. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Delmål 1. Varje<br>barn med rätt till<br>förskola har lika<br>tillgång till<br>utbildning. | Delmål 2. Varje<br>barn får en trygg<br>och god miljö där<br>utbildningen<br>bildar en helhet av<br>omsorg,<br>utveckling och<br>lärande. | Delmål 3. Varje<br>barn får en<br>utbildning som<br>uppmuntrar till<br>lek och rörelse<br>samt ger den<br>ledning och<br>stimulans det | Delmål 4. Varje<br>barn som är i<br>behov av stöd får<br>det stöd den<br>behöver. | Delmål 5. Varje<br>barn stimuleras i<br>sin<br>språkutveckling i<br>svenska och ges<br>goda möjligheter<br>att utveckla sin |
+|  |  |  | behöver för att<br>kunna nå så långt<br>som möjligt i sitt<br>lärande och sin<br>utveckling. |  | förmåga att<br>kommunicera. |
+| Huvudman<br>nens<br>bedömning | Till stor del | Till stor del | Till stor del | Till stor del | Till stor del |
+| Resultat | Hög andel<br>placerade barn:<br>98,2 % av alla 3-5<br>åringar.<br>FG stöttar<br>nyanlända att<br>ansöka till<br>förskola.<br>Förvaltningsöverg<br>ripande samarbete<br>kring ukrainska<br>flyktingar.<br>Huvudmannen<br>följer inte upp<br>planerad och<br>faktisk närvaro<br>för inskrivna barn<br>i förskolan. | Få anmälningar<br>misstanke<br>kränkande<br>behandling.<br>Fortsatt behov av<br>att problematisera<br>kring<br>uppfattningar om<br>vad som är en<br>kränkning eller<br>inte. | Utemiljön<br>utmanar<br>- Utformning<br>- Förmåga att<br>använda utemiljön<br>som en<br>pedagogisk<br>lärmiljö | Rektorer uttrycker<br>att de inte har<br>tillräckligt med<br>resurser för att ge<br>stöd till barn i<br>behov av särskilt<br>stöd.<br>Utmaningar i att<br>anpassa<br>verksamheten<br>utifrån barns<br>behov, på grund<br>av till ex. hög<br>beläggning och<br>personalfrånvaro | Många insatser<br>som stärker och<br>ger stöd: TIFT,<br>TAKK,<br>Mångfaldens<br>förskola |
 
 <!-- sida 73 -->
 
@@ -2706,14 +2695,6 @@ Rektorer kan också ange alternativet Ej undersökt i år. Syftet med detta svar
 inte finns tillräckliga valida underlag för en bedömning.
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           10
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
-|  | I förskolan får varje barn en utbildning av hög kvalitet som ger barnet goda möjligheter till lek, rörelse,<br>utveckling och lärande samt förbereder för fortsatt utbildning. |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | behöver för att<br>kunna nå så långt<br>som möjligt i sitt<br>lärande och sin<br>utveckling. |  | förmåga att<br>kommunicera. |
-| Huvudman<br>nens<br>bedömning | Till stor del | Till stor del | Till stor del | Till stor del | Till stor del |
-| Resultat | Hög andel<br>placerade barn:<br>98,2 % av alla 3-5<br>åringar.<br>FG stöttar<br>nyanlända att<br>ansöka till<br>förskola.<br>Förvaltningsöverg<br>ripande samarbete<br>kring ukrainska<br>flyktingar.<br>Huvudmannen<br>följer inte upp<br>planerad och<br>faktisk närvaro<br>för inskrivna barn<br>i förskolan. | Få anmälningar<br>misstanke<br>kränkande<br>behandling.<br>Fortsatt behov av<br>att problematisera<br>kring<br>uppfattningar om<br>vad som är en<br>kränkning eller<br>inte. | Utemiljön<br>utmanar<br>- Utformning<br>- Förmåga att<br>använda utemiljön<br>som en<br>pedagogisk<br>lärmiljö | Rektorer uttrycker<br>att de inte har<br>tillräckligt med<br>resurser för att ge<br>stöd till barn i<br>behov av särskilt<br>stöd.<br>Utmaningar i att<br>anpassa<br>verksamheten<br>utifrån barns<br>behov, på grund<br>av till ex. hög<br>beläggning och<br>personalfrånvaro | Många insatser<br>som stärker och<br>ger stöd: TIFT,<br>TAKK,<br>Mångfaldens<br>förskola |
 
 <!-- sida 74 -->
 
@@ -3181,11 +3162,14 @@ Nationell målsättning
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           19
 
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
+[Tabell 82-83-1](handlingar.tabeller/82-83-1.csv)
 
 |  | I grundskolan får varje elev en utbildning av hög kvalitet som ger eleven goda möjligheter att inhämta<br>och utveckla kunskaper och värden samt ger en god grund för fortsatt utbildning. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Delmål 1. Varje<br>elev har de<br>kunskaper den<br>behöver för att<br>vara väl förberedd<br>för fortsatt<br>utbildning. | Delmål 2. Varje<br>elev får en<br>utbildning som<br>präglas av<br>trygghet och en<br>undervisning som | Delmål 3. Varje<br>elev får en<br>undervisning som<br>ger den ledning<br>och stimulans<br>eleven behöver<br>för att kunna nå så | Delmål 4. Varje<br>elev som är i<br>behov av stöd får<br>det stöd den<br>behöver. | Delmål<br>5.<br>Varje<br>elev<br>kan<br>läsa<br>och | Delmål<br>6.<br>Varje<br>elev<br>kan<br>använd<br>a sig av |
+|  |  | präglas av<br>studiero. | långt som möjligt<br>i sitt lärande och<br>sin utveckling. |  | använd<br>a det<br>svenska<br>språket<br>på ett<br>nyanser<br>at sätt. | matema<br>tiskt<br>tänkand<br>e för<br>vidare<br>studier<br>och i<br>vardags<br>livet. |
+| Huvudman<br>nens<br>bedömning | Till stor del | Till viss del | Till stor del | Helt | Till<br>viss del | Till<br>viss del |
+| Resultat | Andel högre<br>betyg (A-B) har<br>ökat för<br>integrerade<br>elever. | Utmaningar i<br>elevgrupp<br>Kollaskolan 1-6.<br>Lokalerna är<br>begränsande |  |  | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen |
 
 <!-- sida 83 -->
 
@@ -3225,13 +3209,6 @@ Mottagningsteamet har hanterat 29 prövningar för mottagande i anpassad grundsk
 gymnasium. De flesta ärenden har kunnat genomföras enligt plan. Några barn har inte bedömts
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           20
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-|  |  | präglas av<br>studiero. | långt som möjligt<br>i sitt lärande och<br>sin utveckling. |  | använd<br>a det<br>svenska<br>språket<br>på ett<br>nyanser<br>at sätt. | matema<br>tiskt<br>tänkand<br>e för<br>vidare<br>studier<br>och i<br>vardags<br>livet. |
-| --- | --- | --- | --- | --- | --- | --- |
-| Huvudman<br>nens<br>bedömning | Till stor del | Till viss del | Till stor del | Helt | Till<br>viss del | Till<br>viss del |
-| Resultat | Andel högre<br>betyg (A-B) har<br>ökat för<br>integrerade<br>elever. | Utmaningar i<br>elevgrupp<br>Kollaskolan 1-6.<br>Lokalerna är<br>begränsande |  |  | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen |
 
 <!-- sida 84 -->
 
@@ -4286,7 +4263,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 0E6D86CAD35547FB66C87495358E511D0A48AE180A
 Transaktionsidentitet: 62246BF972EC66B74483D9E9DD740E4C9C30F6C827
 
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
+[Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
 | Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
 | --- | --- |
@@ -4305,6 +4282,10 @@ Transaktionsidentitet: 62246BF972EC66B74483D9E9DD740E4C9C30F6C827
 | Årskurs F-6 | 38 497 kr |
 | För elever inskrivna i anpassad grundskola uppräknas á-priset för<br>fritidshem för nivå 1 med faktorn 4 och för nivå 2 med faktorn 3 |  |
 |  |  |
+| Anpassad grundskola |  |
+| Nivå 1 | 722 975 kr |
+| Nivå 2 | 532 062 kr |
+| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 109 -->
 
@@ -4326,14 +4307,6 @@ FG Ekonomi & Planering.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 0E6D86CAD35547FB66C87495358E511D0A48AE180A
 Transaktionsidentitet: 62246BF972EC66B74483D9E9DD740E4C9C30F6C827
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| Anpassad grundskola |  |
-| --- | --- |
-| Nivå 1 | 722 975 kr |
-| Nivå 2 | 532 062 kr |
-| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 110 -->
 
@@ -5392,11 +5365,20 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 | Verksamhet | 4 Utredning av stöd och 3. Vanligt 3. Kännbar (uppfattas som Ja<br>upprättande av besvärande för berörda<br>åtgärdsprogram sker inte intressenter och<br>skyndsamt kommunen) |
 |  | 5 Övergångar mellan skolor 3. Vanligt 3. Kännbar (uppfattas som Ja<br>eller skolformer hanteras besvärande för berörda<br>inte på ett sätt som intressenter och<br>säkerställer elevens rätt till kommunen)<br>en trygg och<br>sammanhängande<br>skolgång. |
 
-[Tabell 136-2](handlingar.tabeller/136-2.csv)
+[Tabell 136-138-2](handlingar.tabeller/136-138-2.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 3. Kännbar<br>övergripande risk: (uppfattas som<br>Efterlevnad till 2. Mindre vanligt besvärande för<br>rekryterings- berörda intressenter<br>processen och kommunen) |
 | --- | --- |
 | Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | Kommun-<br>3. Kännbar<br>övergripande risk:<br>(uppfattas som<br>informations-<br>2. Mindre vanligt besvärande för<br>säkerhet; skydd av<br>berörda intressenter<br>information mot<br>och kommunen)<br>obehörig tillgång |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 3. Kännbar<br>övergripande risk: (uppfattas som<br>It-säkerhet - 2. Mindre vanligt besvärande för<br>Bristande driftmiljö berörda intressenter<br>hos leverantörer och kommunen) |
+|  | Kommun-<br>övergripande risk:<br>Risk att samhälls-<br>utbyggnad inte kan<br>ske i planerad takt.<br>Ny infrastruktur 3. Kännbar<br>och exploatering (uppfattas som<br>och projekt för 2. Mindre vanligt besvärande för<br>underhåll/ berörda intressenter<br>utbyggnad av och kommunen)<br>befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och samplanering). |
+| Verksamhet | Kommun-<br>övergripande risk:<br>3. Kännbar<br>Dämpad<br>(uppfattas som<br>befolkningstillväxt<br>2. Mindre vanligt besvärande för<br>med långsiktig<br>berörda intressenter<br>påverkan på<br>och kommunen)<br>kommunala<br>verksamheter |
+|  | Avsaknad av 3. Kännbar Omhändertas inom<br>uppdaterade (uppfattas som den ordinarie<br>beredskapsplaner 2. Mindre vanligt besvärande för verksamheten.<br>på förskolor och berörda intressenter<br>grundskolor och kommunen) |
+|  | Olikvärdigt Omhändertas inom<br>användande av den ordinarie<br>förvaltnings- verksamheten.<br>3. Kännbar<br>gemensam<br>(uppfattas som<br>lärplattform<br>3. Vanligt besvärande för<br>försvårar<br>berörda intressenter<br>kommunikation och<br>och kommunen)<br>information till<br>elever och<br>vårdnadshavare |
+|  | Dokumentation 3. Kännbar Omhändertas inom<br>inom elevhälsans (uppfattas som den ordinarie<br>icke-medicinska del 3. Vanligt besvärande för verksamheten.<br>sker inte enligt berörda intressenter<br>interna rutiner och kommunen) |
+|  | Fördjupade läs- 3. Kännbar Följ upp inom<br>och (uppfattas som överenskommelsen.<br>skrivutredningar 2. Mindre vanligt besvärande för<br>genomförs inte berörda intressenter<br>enligt rutin och kommunen) |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Enheterna saknar 3. Kännbar Omhändertas inom<br>uppdaterade lokala (uppfattas som den ordinarie<br>styrdokument 2. Mindre vanligt besvärande för verksamheten.<br>berörda intressenter<br>och kommunen) |
+|  | Elevers behov av Omhändertas inom<br>särskilt stöd den ordinarie<br>3. Kännbar<br>utreds, planeras verksamheten.<br>(uppfattas som<br>och genomförs inte<br>2. Mindre vanligt besvärande för<br>utifrån de<br>berörda intressenter<br>förutsättningar som<br>och kommunen)<br>finns på<br>fritidshemmet |
 
 <!-- sida 137 -->
 
@@ -5405,29 +5387,12 @@ Intern kontrollplan 2026
 
 10
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 3. Kännbar<br>övergripande risk: (uppfattas som<br>It-säkerhet - 2. Mindre vanligt besvärande för<br>Bristande driftmiljö berörda intressenter<br>hos leverantörer och kommunen) |
-| --- | --- |
-|  | Kommun-<br>övergripande risk:<br>Risk att samhälls-<br>utbyggnad inte kan<br>ske i planerad takt.<br>Ny infrastruktur 3. Kännbar<br>och exploatering (uppfattas som<br>och projekt för 2. Mindre vanligt besvärande för<br>underhåll/ berörda intressenter<br>utbyggnad av och kommunen)<br>befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och samplanering). |
-| Verksamhet | Kommun-<br>övergripande risk:<br>3. Kännbar<br>Dämpad<br>(uppfattas som<br>befolkningstillväxt<br>2. Mindre vanligt besvärande för<br>med långsiktig<br>berörda intressenter<br>påverkan på<br>och kommunen)<br>kommunala<br>verksamheter |
-|  | Avsaknad av 3. Kännbar Omhändertas inom<br>uppdaterade (uppfattas som den ordinarie<br>beredskapsplaner 2. Mindre vanligt besvärande för verksamheten.<br>på förskolor och berörda intressenter<br>grundskolor och kommunen) |
-|  | Olikvärdigt Omhändertas inom<br>användande av den ordinarie<br>förvaltnings- verksamheten.<br>3. Kännbar<br>gemensam<br>(uppfattas som<br>lärplattform<br>3. Vanligt besvärande för<br>försvårar<br>berörda intressenter<br>kommunikation och<br>och kommunen)<br>information till<br>elever och<br>vårdnadshavare |
-|  | Dokumentation 3. Kännbar Omhändertas inom<br>inom elevhälsans (uppfattas som den ordinarie<br>icke-medicinska del 3. Vanligt besvärande för verksamheten.<br>sker inte enligt berörda intressenter<br>interna rutiner och kommunen) |
-|  | Fördjupade läs- 3. Kännbar Följ upp inom<br>och (uppfattas som överenskommelsen.<br>skrivutredningar 2. Mindre vanligt besvärande för<br>genomförs inte berörda intressenter<br>enligt rutin och kommunen) |
-
 <!-- sida 138 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Intern kontrollplan 2026
 
 11
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Enheterna saknar 3. Kännbar Omhändertas inom<br>uppdaterade lokala (uppfattas som den ordinarie<br>styrdokument 2. Mindre vanligt besvärande för verksamheten.<br>berörda intressenter<br>och kommunen) |
-| --- | --- |
-|  | Elevers behov av Omhändertas inom<br>särskilt stöd den ordinarie<br>3. Kännbar<br>utreds, planeras verksamheten.<br>(uppfattas som<br>och genomförs inte<br>2. Mindre vanligt besvärande för<br>utifrån de<br>berörda intressenter<br>förutsättningar som<br>och kommunen)<br>finns på<br>fritidshemmet |
 
 <!-- sida 139 -->
 
@@ -7591,7 +7556,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 
 <!-- sida 192 -->
 
-[Tabell 192-1](handlingar.tabeller/192-1.csv)
+[Tabell 192-197-1](handlingar.tabeller/192-197-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -7618,13 +7583,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-11-18<br>07:48 | 245144 | A 4.1 | Avslag |
 | 2025-11-18<br>07:48 | 245143 | A 4.1 | Avslag |
 | 2025-11-18<br>00:00 | 0-20251118-155057 | A 4.1 | Avslag |
-
-<!-- sida 193 -->
-
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
-
 | 2025-11-17<br>19:48 | 245112 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2025-11-17<br>11:24 | 244983 | A 4.1 | Beviljad |
 | 2025-11-17<br>09:48 | 244938 | A 4.1 | Avslag |
 | 2025-11-17<br>09:48 | 244938 | A 4.1 | Beviljad |
@@ -7648,13 +7607,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-11-06<br>20:16 | 243335 | A 4.1 | Avslag |
 | 2025-11-06<br>20:16 | 243334 | A 4.1 | Avslag |
 | 2025-11-05<br>22:16 | 243143 | A 4.1 | Beviljad |
-
-<!-- sida 194 -->
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
 | 2025-11-05<br>13:56 | 243048 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-11-04<br>11:16 | 242755 | A 4.1 | Beviljad |
 | 2025-11-04<br>11:16 | 242752 | A 4.1 | Beviljad |
 | 2025-11-04<br>09:48 | 242705 | A 4.1 | Avslag |
@@ -7678,13 +7631,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-10-21<br>09:40 | 240252 | A 4.1 | Beviljad |
 | 2025-10-21<br>09:40 | 240252 | A 4.1 | Beviljad |
 | 2025-10-13<br>15:24 | 238782 | A 4.1 | Beviljad |
-
-<!-- sida 195 -->
-
-[Tabell 195-1](handlingar.tabeller/195-1.csv)
-
 | 2025-09-28<br>19:40 | 235799 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-09-27<br>22:16 | 235748 | A 4.1 | Beviljad |
 | 2025-09-27<br>22:16 | 235747 | A 4.1 | Beviljad |
 | 2025-09-16<br>07:16 | 233247 | A 4.1 | Avslag |
@@ -7708,13 +7655,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-04-27<br>18:16 | 202884 | A 4.1 | Avslag |
 | 2025-04-23<br>08:56 | 201914 | A 4.1 | Avslag |
 | 2025-04-23<br>08:56 | 201913 | A 4.1 | Avslag |
-
-<!-- sida 196 -->
-
-[Tabell 196-1](handlingar.tabeller/196-1.csv)
-
 | 2025-04-17<br>20:56 | 201098 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-04-17<br>20:56 | 201097 | A 4.1 | Beviljad |
 | 2025-04-17<br>16:56 | 201059 | A 4.1 | Beviljad |
 | 2025-04-17<br>09:56 | 200852 | A 4.1 | Beviljad |
@@ -7738,11 +7679,15 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-03-24<br>17:32 | 194711 | A 4.1 | Avslag |
 | 2025-03-19<br>00:00 | 0-20250319-091946 | A 4.1 | Avslag |
 | 2025-03-17<br>13:08 | 192758 | A 4.1 | Beviljad |
+| 2025-03-17<br>07:48 | 192557 | A 4.1 | Beviljad |
+| 2025-03-17<br>07:48 | 192554 | A 4.1 | Beviljad |
+
+<!-- sida 193 -->
+
+<!-- sida 194 -->
+
+<!-- sida 195 -->
+
+<!-- sida 196 -->
 
 <!-- sida 197 -->
-
-[Tabell 197-1](handlingar.tabeller/197-1.csv)
-
-| 2025-03-17<br>07:48 | 192557 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
-| 2025-03-17<br>07:48 | 192554 | A 4.1 | Beviljad |

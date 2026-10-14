@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.11f787b01943ff5023b1222b/1736320356
 sha256: 5280575d85a55e103558a61d5dc3adff387e495acf892a2a3fe94ff13922932d
 bytes: 2518788
 sidor: 59
-hamtad: 2026-10-07T23:24:44+00:00
-konverterad: 2026-10-07T23:24:55+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:29:50+00:00
+konverterad: 2026-10-14T07:29:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [45]
+figurer: [47, 55]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -815,11 +815,20 @@ skolbiblioteken.
 
 4
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
 | Ramfördelning/ anslagsbindningsnivå | Budget 2024 | Budget 2025 |
 | --- | --- | --- |
 | Nämnd och styrelse | 2 344 | 2 434 |
+| Öppen förskola | 5 777 | 5 149 |
+| Förskola | 608 127 | 604 457 |
+| Pedagogisk Omsorg | 9 578 | 9 570 |
+| Fritidshem | 189 104 | 202 567 |
+| Förskoleklass & Grundskola | 1 020 641 | 1 050 916 |
+| Anpassad grundskola | 44 481 | 45 480 |
+| Gemensam verksamhet, lokaler, stödverksamhet | 347 344 | 414 149 |
+| LSS,Korttidstillsyn efter 13 års ålder | 4 364 | 5 100 |
+| Summa | 2 231 760 | 2 339 822 |
 
 <!-- sida 26 -->
 
@@ -854,20 +863,7 @@ Detaljbudgetar för respektive verksamhet inrapporteras senast den 2025-01-31.
 
 5
 
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-| Öppen förskola | 5 777 | 5 149 |
-| --- | --- | --- |
-| Förskola | 608 127 | 604 457 |
-| Pedagogisk Omsorg | 9 578 | 9 570 |
-| Fritidshem | 189 104 | 202 567 |
-| Förskoleklass & Grundskola | 1 020 641 | 1 050 916 |
-| Anpassad grundskola | 44 481 | 45 480 |
-| Gemensam verksamhet, lokaler, stödverksamhet | 347 344 | 414 149 |
-| LSS,Korttidstillsyn efter 13 års ålder | 4 364 | 5 100 |
-| Summa | 2 231 760 | 2 339 822 |
-
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
+[Tabell 26-27-1](handlingar.tabeller/26-27-1.csv)
 
 | Pedagogisk<br>område | Budget<br>2024, tkr | Budget<br>2025, tkr | Antal elever<br>grundskola/anpassad<br>grundskola 2025 | Antal elever<br>fritidshem<br>2025 | Antalet<br>förskolebarn<br>& ped omsorg<br>2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -875,6 +871,12 @@ Detaljbudgetar för respektive verksamhet inrapporteras senast den 2025-01-31.
 | PO Centrum | 471 390 | 481 064 | 2 617 | 873 | 1 088 |
 | PO Söder | 606 185 | 625 427 | 3 368 | 1 486 | 1 303 |
 | Enhet ledning | 7 891 | 9 030 |  |  |  |
+| Myndighet &<br>Stöd | 85 679 | 88 211 |  |  |  |
+| Ekonomi &<br>Planering | 21 040 | 27 311 |  |  |  |
+| Kvalité &<br>Utveckling | 42 663 | 40 362 |  |  |  |
+| HR &<br>Kommunikation | 6 342 | 6 604 |  |  |  |
+| Centralt | 454 058 | 526 701 | 2 324 | 928 | 817 |
+| Totalt | 2 231 760 | 2 339 184 | 11 811 | 4 880 | 4 370 |
 
 <!-- sida 27 -->
 
@@ -907,24 +909,13 @@ Kommunfullmäktige beslutade att fastställa investeringsbudgeten för år 2025 
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Pedagogisk<br>område | Budget<br>2024, tkr | Budget<br>2025, tkr | Antal elever<br>grundskola/anpassad<br>grundskola 2025 | Antal elever<br>fritidshem<br>2025 | Antalet<br>förskolebarn<br>& ped omsorg<br>2025 |
-| --- | --- | --- | --- | --- | --- |
-| Myndighet &<br>Stöd | 85 679 | 88 211 |  |  |  |
-| Ekonomi &<br>Planering | 21 040 | 27 311 |  |  |  |
-| Kvalité &<br>Utveckling | 42 663 | 40 362 |  |  |  |
-| HR &<br>Kommunikation | 6 342 | 6 604 |  |  |  |
-| Centralt | 454 058 | 526 701 | 2 324 | 928 | 817 |
-| Totalt | 2 231 760 | 2 339 184 | 11 811 | 4 880 | 4 370 |
-
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
-
 | Projekt | Belopp Mkr | Pågar |
 | --- | --- | --- |
 | Omställning innovation,<br>digitalisering | 16,0 | 2025 |
 | Införande verksamhetssystem | 2,0 | 2025 |
 | Totalt | 18,0 |  |
 
-[Tabell 27-3](handlingar.tabeller/27-3.csv)
+[Tabell 27-2](handlingar.tabeller/27-2.csv)
 
 | Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-29 |
 | --- | --- | --- | --- | --- | --- |
@@ -968,7 +959,7 @@ möjliga service och tjänster med de resurser vi har även i framtiden.
 
 8
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
+[Tabell 29-30-1](handlingar.tabeller/29-30-1.csv)
 
 | Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter |
 | --- | --- | --- | --- |
@@ -982,18 +973,6 @@ möjliga service och tjänster med de resurser vi har även i framtiden.
 |  | Unga i<br>Kungsbacka<br>mår bra såväl<br>fysiskt som<br>psykiskt. | Utbildningen ska<br>stimulera till ökad<br>trygghet, glädje och<br>fysisk aktivitet | Ökad fysisk aktivitet |
 |  |  |  | UP2- basutbildning |
 |  |  |  | Hot och våld i nära<br>relation och<br>hedersrelaterat våld och<br>förtryck |
-
-<!-- sida 30 -->
-
-Nämnden för Förskola & Grundskola                Kungsbacka kommun
-Förvaltningsbudget 2025
-
-9
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-| Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter |
-| --- | --- | --- | --- |
 |  |  |  | Organiserade<br>rastaktiviteter |
 |  |  |  | Följa upp erfarenheterna<br>från de skolor som har<br>mobilförbud koppla<br>uppföljningen till<br>rastaktiviteter |
 |  |  |  | Kartlägga vilka skolor<br>som har organiserade<br>rastaktiviteter. |
@@ -1005,6 +984,13 @@ Förvaltningsbudget 2025
 |  |  |  | Pedagogiskt ledarskap. |
 |  |  |  | Ekonomisk styrning för<br>likvärdiga förutsättningar |
 |  |  |  | SKA. Systematiskt<br>skolförbättring -<br>Huvudmannens stöd<br>prioriteras och<br>differentieras utifrån<br>skolor och förskolors<br>identifierade behov.? |
+
+<!-- sida 30 -->
+
+Nämnden för Förskola & Grundskola                Kungsbacka kommun
+Förvaltningsbudget 2025
+
+9
 
 <!-- sida 31 -->
 

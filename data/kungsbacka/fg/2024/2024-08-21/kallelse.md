@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.708627c5190a253b1da40632/1724048879
 sha256: 72d203fed0c73dd21acd24c49beb5266e11a094444d68fb00aa67d41574f76d6
 bytes: 10374383
 sidor: 152
-hamtad: 2026-10-07T22:42:27+00:00
-konverterad: 2026-10-07T22:43:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:52:30+00:00
+konverterad: 2026-10-14T06:53:08+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [91, 92, 93, 139, 140, 141, 142]
-figurer: null
-tolkade: null
+tal_obekraftade: [52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 91, 92, 93, 139, 140, 141, 142]
+figurer: [14, 17, 19, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 101, 146]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -4375,7 +4375,7 @@ skriftligen återrapporteras till Kommunfullmäktige.
 
 <!-- sida 103 -->
 
-[Tabell 103-1](kallelse.tabeller/103-1.csv)
+[Tabell 103-104-1](kallelse.tabeller/103-104-1.csv)
 
 | Placering |  |
 | --- | --- |
@@ -4388,14 +4388,10 @@ skriftligen återrapporteras till Kommunfullmäktige.
 | Lovomsorg<br>Allmän förskola<br>Fritidshem | Barn och elever vars vårdnadshavare har behov av omsorg under lov kan ansöka om<br>det. Ansökan görs senast 4 veckor innan och är bindande. Avgiften beräknas på varje<br>påbörjad vecka oavsett antalet närvarodagar. |
 | Gräns vid frånvaro | Vid ledighet/uppehåll i placering ska vårdnadshavare meddela datum när barnet<br>kommer tillbaka. Vårdnadshavare kan begära uppehåll från barnets plats med<br>bibehållen placering i högst 3 månader.<br>Avgift tas ut under tiden för uppehållet i placeringen.<br>Rektor eller enhetschef avslutar platsen om barnet inte återkommer efter 3 månaders<br>frånvaro.<br>Beslut om undantag från gränsen på 3 månader kan endast medges i undantagsfall när<br>det föreligger särskilda skäl, exempelvis medicinska. En sammanvägd bedömning görs<br>i det enskilda fallet. |
 | Force majeure | Förskola & Grundskola har rätt att stänga verksamheten om det finns risk för barns<br>hälsa att hålla den öppen, t.ex. vid brand, sjukdomsspridning och hot.<br>I sådant fall ska Förskola & Grundskola i skälig utsträckning erbjuda barnen<br>alternativa placeringar, beroende på varaktigheten och omfattningen av stängningen.<br>Kostnadsersättning för eventuell merkostnad som orsakas med anledning av detta |
+|  | ersätts ej. Avgiftsreducering medges ej, vare sig vid alternativ placering eller<br>stängning. |
+| Avgift vid<br>stängning av<br>förskola, fritidshem<br>eller pedagogisk<br>omsorg för att<br>förhindra<br>smittspridning (lag<br>2020:148 samt<br>förordning<br>2020:115) | Vid sammanhållande stängning om minst fyra dagar reduceras barnomsorgsavgift från<br>dag fem motsvarande 1/30 av avgiften per dag. Reduceringen kommer att justeras på<br>kommande faktura för de vårdnadshavare som berörs.<br>Avgiftsreduceringen gäller från och med 1 januari 2021.<br>Detta regelverk tillämpas tillfälligt och avser stängningar till följd av lagstiftning för att<br>förhindra smittspridning i och med Covid-19.<br>Beslutad 2021-04-21 § 55 dnr 2021-00502 |
 
 <!-- sida 104 -->
-
-[Tabell 104-1](kallelse.tabeller/104-1.csv)
-
-|  | ersätts ej. Avgiftsreducering medges ej, vare sig vid alternativ placering eller<br>stängning. |
-| --- | --- |
-| Avgift vid<br>stängning av<br>förskola, fritidshem<br>eller pedagogisk<br>omsorg för att<br>förhindra<br>smittspridning (lag<br>2020:148 samt<br>förordning<br>2020:115) | Vid sammanhållande stängning om minst fyra dagar reduceras barnomsorgsavgift från<br>dag fem motsvarande 1/30 av avgiften per dag. Reduceringen kommer att justeras på<br>kommande faktura för de vårdnadshavare som berörs.<br>Avgiftsreduceringen gäller från och med 1 januari 2021.<br>Detta regelverk tillämpas tillfälligt och avser stängningar till följd av lagstiftning för att<br>förhindra smittspridning i och med Covid-19.<br>Beslutad 2021-04-21 § 55 dnr 2021-00502 |
 
 <!-- sida 105 -->
 

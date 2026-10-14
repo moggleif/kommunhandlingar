@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.11a49e3519c6f3d10315000d/1771592459
 sha256: 8470fcd617ec90967d10b7109ae3c613a4705bbf7d47e7595d3a2ae0265ab120
 bytes: 329452
 sidor: 27
-hamtad: 2026-10-08T02:01:31+00:00
-konverterad: 2026-10-08T02:01:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:37+00:00
+konverterad: 2026-10-14T09:41:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -889,13 +889,17 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 23-1](protokoll.tabeller/23-1.csv)
+[Tabell 23-24-1](protokoll.tabeller/23-24-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.2.20 | Hantera och besluta<br>om anläggningsstöd<br>till samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader | Martin Funkerud<br>EC | 2026-02-03 | SE-2026-00050 |
 | 2.2.21 | Hantera och besluta<br>om driftbidrag till<br>samlingslokaler,<br>hembygdsgårdar och<br>liknande byggnader. | Martin Funkerud<br>EC | 2026-02-03 | SE-2026-00050 |
 | 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>Utredning | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00362 |
+| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>Åtgärdsuppföljning | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00362 |
+| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>Utredning | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00437 |
+| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00536 |
+| 2.1.6<br>Dataskydds-<br>förordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2026-00036 |
 
 <!-- sida 24 -->
 
@@ -916,14 +920,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 24-1](protokoll.tabeller/24-1.csv)
-
-| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>Åtgärdsuppföljning | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00362 |
-| --- | --- | --- | --- | --- |
-| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>Utredning | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00437 |
-| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2025-00536 |
-| 2.1.6<br>Dataskydds-<br>förordningen<br>GDPR artikel 28 | Teckna<br>personuppgifts-<br>biträdesavtal. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | SE-2026-00036 |
 
 <!-- sida 25 -->
 

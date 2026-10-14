@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfb4cb5e/17767679807
 sha256: 687db6b2a903b31e1f46c44a92948324d0440ffb70a5c509e4d4ca1dbf36d8f9
 bytes: 166905
 sidor: 4
-hamtad: 2026-10-08T08:19:17+00:00
-konverterad: 2026-10-08T08:19:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:12:24+00:00
+konverterad: 2026-10-14T11:12:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Information - Datadriven<br>organisation<br>Ärendet utgör en del av dnr 2023–00144,<br>Initiativ från Hravn Forsne (M) m.fl. avseende<br>digitalisering och satsning på artificiell<br>intelligens (AI). | VO-2026-00127 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 | 9. | Återkoppling av Vård &<br>Omsorgs och Kultur & Fritids<br>utvecklingsarbete för att öka<br>aktivitetsutbudet på vård- och<br>omsorgsboendena och för att<br>motverka ensamhet | VO-2025-00485 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 | 10. | Information - Uppföljning av<br>insatser utan behovsprövning<br>enligt socialtjänstlagen<br>(2025:400) | VO-2026-00022 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Slutrapport - Initiativ från<br>Hravn Forsne (M) med flera -<br>För att minska den<br>administrativa bördan och ta<br>fram indikatorer för att mäta<br>mängden tid som inte är<br>patientnära | VO-2023-00117 | Nämnden för Vård & Omsorg anser att<br>initiativet, från Hravn Forsne (M) med flera –<br>För att minska den administrativa bördan och ta<br>fram indikatorer för att mäta mängden tid som<br>inte är patientnära, som fullgjort.<br>Uppföljning av arbetet med att minska den<br>administrativa bördan sker årligen inom ramen<br>för ärendet, Strategier för att gemensamt möta<br>framtidens utmaningar inom Vård & Omsorg,<br>och redovisas till nämnden i samband med<br>årsredovisningen. |
 | 12. | Information - Initiativärende<br>från Hravn Forsne (M), Monica<br>Neptun (L), Bengt Alderin (C),<br>och Ulrika Högstrand (KD) -<br>om jämlik, skarp och rättvis<br>granskning | VO-2025-00486 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 | 13. | Information – Arbetet med<br>utvecklande medarbetarskap<br>inom förvaltningen | VO-2026-00140 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
@@ -84,6 +73,13 @@ KUNGSBACKA  KOMMUN
 | 15. | Anmälan av delegationsbeslut,<br>april 2026 | VO-2026-00002 | Nämnden för Vård & Omsorg noterar anmälda<br>delegationsbeslut till protokollet. |
 | 16. | Redovisning av inkomna<br>skrivelser, april 2026 | VO-2026-00001 | Nämnden för Vård & Omsorg noterar inkomna<br>skrivelser till protokollet. |
 | 17. | Information från förvaltningen,<br>april 2026 | VO-2026-00005 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
+| 18. | Information från nämnden, april<br>2026 | VO-2026-00006 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,9 +89,3 @@ KUNGSBACKA  KOMMUN
 
 Hravn Forsne (M)                  Vera Lagerström
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Information från nämnden, april<br>2026 | VO-2026-00006 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |

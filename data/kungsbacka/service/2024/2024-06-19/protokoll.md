@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.38cb5fd51900fdb3cb7d368/17188673920
 sha256: 272f1fdb30867613f0e42ea077cd62b51e4ec783247e8a2dd4ab6f6bbce78965
 bytes: 245146
 sidor: 18
-hamtad: 2026-10-08T01:59:30+00:00
-konverterad: 2026-10-08T01:59:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:39:39+00:00
+konverterad: 2026-10-14T09:39:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -438,23 +438,54 @@ Nämnden för Service
 Datum
 2024-06-19
 
+(Kommunfullmäktige)  2024-05-16 SE-2024-00204 Riktlinjer för
+(Beslut § 80)                              informationssäkerhet
+Riktlinjer för                             2023-2026
+informationssäkerhet 2023-
+2026
+
+Kommunledningskontorets 2024-05-16 SE-2024-00204 Riktlinjer för
+Tjänsteskrivelse -                         informationssäkerhet
+Antagande av riktlinjer för                2023-2026
+informationssäkerhet
+
+Riktlinjer för       2024-05-16 SE-2024-00204 Riktlinjer för
+informationssäkerhet 2023-                 informationssäkerhet
+2026 (KF 2024-05-07 § 80)                  2023-2026
+
+(Kommunfullmäktige)  2024-05-16 SE-2024-00205 Ombudgeteringar och
+(Beslut § 81)                              resultatfonder 2023
+Ombudgeteringar och
+resultatfonder 2023
+
+Kommunledningskontorets 2024-05-16 SE-2024-00205 Ombudgeteringar och
+Tjänsteskrivelse -                         resultatfonder 2023
+Ombudgeteringar och
+resultatfonder 2023
+
+E-post -             2024-05-16 SE-2024-00205 Ombudgeteringar och
+Ombudgeteringar och                        resultatfonder 2023
+resultatfonder 2023
+
+Ombudget investeringar bilaga 2024-05-16 SE-2024-00205 Ombudgeteringar och
+resultatfonder 2023
+
+Ombudget investeringar 2023 2024-05-16 SE-2024-00205 Ombudgeteringar och
+ny bilaga                                  resultatfonder 2023
+E-post -             2024-05-17 SE-2024-00127 Revisionens
+Anteckningar från presidiets               grundläggande
+
+dialog med revisionen                      granskning 2024
+Anteckningar vid     2024-05-17 SE-2024-00127 Revisionens
+kommunrevisionens dialog med               grundläggande
+presidiet i nämnden för service            granskning 2024
+
+del av grundläggande
+granskning 2024
+
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| (Kommunfullmäktige)<br>(Beslut § 80)<br>Riktlinjer för<br>informationssäkerhet 2023-<br>2026 | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| --- | --- | --- | --- |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Antagande av riktlinjer för<br>informationssäkerhet | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| Riktlinjer för<br>informationssäkerhet 2023-<br>2026 (KF 2024-05-07 § 80) | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| (Kommunfullmäktige)<br>(Beslut § 81)<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| E-post -<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Ombudget investeringar bilaga | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Ombudget investeringar 2023<br>ny bilaga | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| E-post -<br>Anteckningar från presidiets<br>dialog med revisionen | 2024-05-17 | SE-2024-00127 | Revisionens<br>grundläggande<br>granskning 2024 |
-| Anteckningar vid<br>kommunrevisionens dialog med<br>presidiet i nämnden för service<br>del av grundläggande<br>granskning 2024 | 2024-05-17 | SE-2024-00127 | Revisionens<br>grundläggande<br>granskning 2024 |
 
 <!-- sida 12 -->
 

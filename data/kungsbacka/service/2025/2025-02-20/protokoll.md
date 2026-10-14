@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18aed7cb/1740128919
 sha256: 1582f3bdc3df820521e20bbd656f906e9ed71ca2410aff7024ac5a735874fd7f
 bytes: 200114
 sidor: 19
-hamtad: 2026-10-08T02:00:17+00:00
-konverterad: 2026-10-08T02:00:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:40:26+00:00
+konverterad: 2026-10-14T09:40:32+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -646,21 +646,42 @@ Sammanfattning av ärendet
 Följande skrivelser inkommit till nämnden för Service under perioden 2025-01-23
 till 2025-02-05,
 
+Beskrivning         Inkom    Tillhör ärende Ärendemening
+(Kommunstyrelsen)   2025-01-23 SE-2025-00040 Lönekartläggning 2024 och
+(Beslut § 15)                          lönestruktur 2025
+Lönekartläggning 2024 och
+lönestruktur 2025
+
+Kommunledningskontorets 2025-01-23 SE-2025-00040 Lönekartläggning 2024 och
+tjänsteskrivelse - Fastställande av    lönestruktur 2025
+lönestruktur 2025 samt
+godkännande av rapport om
+lönekartläggning 2024
+Handlingsplan Lönekartläggning 2025-01-23 SE-2025-00040 Lönekartläggning 2024 och
+
+2024                                   lönestruktur 2025
+(Kommunstyrelsen)   2025-01-23 SE-2025-00041 Förändring avseende projekt i
+(Beslut § 16)                          lokalplan Kv. Liljan skola och
+Förändring avseende projekt i          idrottssal
+lokalplan Kv. Liljan skola och
+idrottssal
+
+Kommunledningskontorets 2025-01-23 SE-2025-00041 Förändring avseende projekt i
+Tjänsteskrivelse - Ändrat              lokalplan Kv. Liljan skola och
+lokalbehov Kvarteret Liljan skola      idrottssal
+i lokalplan (löpnr 338)
+Kommunbudget 2025 och plan 2025-01-23 SE-2025-00041 Förändring avseende projekt i
+2026-2027, lokalplan sidor 47-53       lokalplan Kv. Liljan skola och
+idrottssal
+
+(Nämnden för Teknik) 2025-01-29 SE-2025-00045 Laddinfrastruktur i
+(Beslut § 5)                           Kungsbacka kommun
+Laddinfrastruktur i Kungsbacka
+kommun
+
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| Beskrivning | Inkom | Tillhör ärende | Ärendemening |
-| --- | --- | --- | --- |
-| (Kommunstyrelsen)<br>(Beslut § 15)<br>Lönekartläggning 2024 och<br>lönestruktur 2025 | 2025-01-23 | SE-2025-00040 | Lönekartläggning 2024 och<br>lönestruktur 2025 |
-| Kommunledningskontorets<br>tjänsteskrivelse - Fastställande av<br>lönestruktur 2025 samt<br>godkännande av rapport om<br>lönekartläggning 2024 | 2025-01-23 | SE-2025-00040 | Lönekartläggning 2024 och<br>lönestruktur 2025 |
-| Handlingsplan Lönekartläggning<br>2024 | 2025-01-23 | SE-2025-00040 | Lönekartläggning 2024 och<br>lönestruktur 2025 |
-| (Kommunstyrelsen)<br>(Beslut § 16)<br>Förändring avseende projekt i<br>lokalplan Kv. Liljan skola och<br>idrottssal | 2025-01-23 | SE-2025-00041 | Förändring avseende projekt i<br>lokalplan Kv. Liljan skola och<br>idrottssal |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Ändrat<br>lokalbehov Kvarteret Liljan skola<br>i lokalplan (löpnr 338) | 2025-01-23 | SE-2025-00041 | Förändring avseende projekt i<br>lokalplan Kv. Liljan skola och<br>idrottssal |
-| Kommunbudget 2025 och plan<br>2026-2027, lokalplan sidor 47-53 | 2025-01-23 | SE-2025-00041 | Förändring avseende projekt i<br>lokalplan Kv. Liljan skola och<br>idrottssal |
-| (Nämnden för Teknik)<br>(Beslut § 5)<br>Laddinfrastruktur i Kungsbacka<br>kommun | 2025-01-29 | SE-2025-00045 | Laddinfrastruktur i<br>Kungsbacka kommun |
 
 <!-- sida 16 -->
 

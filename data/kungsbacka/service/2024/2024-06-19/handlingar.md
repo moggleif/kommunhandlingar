@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.72f9f89f1900fe890bf7135/17186278713
 sha256: 13744fc3ea06a05c98c583fe751bb97e884fa48d7305661f2abce7f2589228f0
 bytes: 8592314
 sidor: 166
-hamtad: 2026-10-08T02:08:20+00:00
-konverterad: 2026-10-08T02:08:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:47:54+00:00
+konverterad: 2026-10-14T09:48:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [8, 71, 87]
-figurer: null
-tolkade: null
+figurer: [6, 8, 9, 10, 11, 14, 18, 23, 24, 27, 28, 29, 30, 32, 42, 43, 51, 57, 58, 59, 73, 87, 121, 124, 129, 130, 131, 132]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -4122,7 +4122,7 @@ Utre dning trafik
 -·
 [:.: Utred n ingsomra• d en för trafik
 .,..\_ Utredningsomr åde för framtida
-"'.. sia1 1· 0 n
+"'.. sia11· 0 n
 Natur oc h rekreation
 La• ngsI· kt·Igt säkerställda
 grönområden
@@ -4192,18 +4192,45 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
+Redovisning av icke    2024-05-16 SE-2024-00202 Redovisning av icke
+färdigberedda motioner                        färdigberedda motioner
+(1, 2024)                                     (1, 2024)
 
-| Redovisning av icke<br>färdigberedda motioner<br>(1, 2024) | 2024-05-16 | SE-2024-00202 | Redovisning av icke<br>färdigberedda motioner<br>(1, 2024) |
-| --- | --- | --- | --- |
-| (Kommunfullmäktige)<br>(Beslut § 80)<br>Riktlinjer för<br>informationssäkerhet 2023-2026 | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Antagande av riktlinjer för<br>informationssäkerhet | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| Riktlinjer för<br>informationssäkerhet 2023-2026<br>(KF 2024-05-07 § 80) | 2024-05-16 | SE-2024-00204 | Riktlinjer för<br>informationssäkerhet<br>2023-2026 |
-| (Kommunfullmäktige)<br>(Beslut § 81)<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| E-post -<br>Ombudgeteringar och<br>resultatfonder 2023 | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Ombudget investeringar bilaga | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
-| Ombudget investeringar 2023<br>ny bilaga | 2024-05-16 | SE-2024-00205 | Ombudgeteringar och<br>resultatfonder 2023 |
+(Kommunfullmäktige)    2024-05-16 SE-2024-00204 Riktlinjer för
+(Beslut § 80)                                 informationssäkerhet
+Riktlinjer för                                2023-2026
+informationssäkerhet 2023-2026
+
+Kommunledningskontorets 2024-05-16 SE-2024-00204 Riktlinjer för
+Tjänsteskrivelse -                            informationssäkerhet
+
+Antagande av riktlinjer för                   2023-2026
+informationssäkerhet
+
+Riktlinjer för         2024-05-16 SE-2024-00204 Riktlinjer för
+informationssäkerhet 2023-2026                informationssäkerhet
+(KF 2024-05-07 § 80)                          2023-2026
+
+(Kommunfullmäktige)    2024-05-16 SE-2024-00205 Ombudgeteringar och
+(Beslut § 81)                                 resultatfonder 2023
+Ombudgeteringar och
+resultatfonder 2023
+
+Kommunledningskontorets 2024-05-16 SE-2024-00205 Ombudgeteringar och
+Tjänsteskrivelse -                            resultatfonder 2023
+
+Ombudgeteringar och
+resultatfonder 2023
+
+E-post -               2024-05-16 SE-2024-00205 Ombudgeteringar och
+Ombudgeteringar och                           resultatfonder 2023
+resultatfonder 2023
+
+Ombudget investeringar bilaga 2024-05-16 SE-2024-00205 Ombudgeteringar och
+resultatfonder 2023
+
+Ombudget investeringar 2023 2024-05-16 SE-2024-00205 Ombudgeteringar och
+ny bilaga                                     resultatfonder 2023
 
 <!-- sida 90 -->
 
@@ -6488,13 +6515,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
+[Tabell 143-144-1](handlingar.tabeller/143-144-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 144 -->
 
@@ -6543,14 +6574,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 145 -->
 
@@ -7202,20 +7225,62 @@ X               Med rätt att vidaredelegera till annan anställd
 
 <!-- sida 160 -->
 
+(NY)   Dataskydds-     Ge fullmakt att underteckna FC      Fullmakt får ges till tjänsteman
+2.1.8  förordningen    personuppgiftsbiträdesavtal         som ska vara systemägare för
+den digitala tjänsten eller
+GDPR, artikel 28 för digital tjänst eller system
+systemet.
+som ska användas
+Hantering av
+gemensamt med en eller
+personuppgifter,
+flera andra nämnder
+Riktlinjer,
+Kommunfullmäktige
+2024-03-05 § 33
+2.1.9  Dataskydds-     Fastställa register över FC         Anmäls till nämnden en gång
+förordningen    personuppgiftsbehandlingar.         per år.
+GDPR, artikel 30
+2.1.10 Dataskydds-     Hantering av        FC
+förordningen    personuppgiftsincident.
+GDPR, artikel 33
+och 34
+2.1.11 Dataskydds-     Beslut med anledning av FC          Om aktuell behandling är
+förordningen    konsekvensbedömning                 förknippad med omfattande
+risker ska beslut om
+GDPR artikel 35 avseende dataskydd.
+konsekvensbedömningen lyftas
+till nämnden för Service.
+2.1.12 Dataskydds-     Utse dataskyddsombud FC             Beslutet ska anmälas till
+förordningen,   för nämnden.                        Integritetsskyddsmyndigheten
+(IMY).
+GDPR artikel 37
+2.1.13 Arkivbeskrivning, Utse Informations- FC             Anmäls till nämnden
+nämnden för Service redogörare för                  1 ggr per år.
+2021-04-29 § 35 förvaltningen för Service.
+2.1.14 Reglemente för  Utse ombud med rätt att föra FC
+kommunstyrelsen och talan i alla mål och ärenden
+övriga nämnder  som enligt lag eller annan
+i Kungsbacka kommun författning ankommer på
+nämnden eller på annat sätt
+faller inom nämndens
+ansvarsområde.
+2.1.15 Nämndens budget, Deltagande i aktivitet för Ordf.   Rätt till arvode för deltagande
+Regler och riktlinjer för ordförande, vice ordförande, på aktivitet regleras i
+För beslut      ”Regler och riktlinjer för
+förmåner till   ledamot och ersättare i
+som avser       förmåner till förtroendevalda”.
+förtroendevalda nämnden.            ordförande      Där framgår vilka aktiviteter
+Kommunfullmäktige                   beslutar vice   som avses.
+2023-04-04 § 46                     ordförande
+KF 2018-12-13 § 260
+avsnitt 4.2 och 5.1
+2.1.16                 Underteckna         FC      X       Statliga- och EU bidrag.
+bidragsansökningar.                 Beslutsrätten gäller inom
+budgetansvar för respektive
+verksamhetsområde.
+
 7
-
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
-
-| (NY)<br>2.1.8 | Dataskydds-<br>förordningen<br>GDPR, artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal<br>för digital tjänst eller system<br>som ska användas<br>gemensamt med en eller<br>flera andra nämnder | FC |  | Fullmakt får ges till tjänsteman<br>som ska vara systemägare för<br>den digitala tjänsten eller<br>systemet. |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.9 | Dataskydds-<br>förordningen<br>GDPR, artikel 30 | Fastställa register över<br>personuppgiftsbehandlingar. | FC |  | Anmäls till nämnden en gång<br>per år. |
-| 2.1.10 | Dataskydds-<br>förordningen<br>GDPR, artikel 33<br>och 34 | Hantering av<br>personuppgiftsincident. | FC |  |  |
-| 2.1.11 | Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd. | FC |  | Om aktuell behandling är<br>förknippad med omfattande<br>risker ska beslut om<br>konsekvensbedömningen lyftas<br>till nämnden för Service. |
-| 2.1.12 | Dataskydds-<br>förordningen,<br>GDPR artikel 37 | Utse dataskyddsombud<br>för nämnden. | FC |  | Beslutet ska anmälas till<br>Integritetsskyddsmyndigheten<br>(IMY). |
-| 2.1.13 | Arkivbeskrivning,<br>nämnden för Service<br>2021-04-29 § 35 | Utse Informations-<br>redogörare för<br>förvaltningen för Service. | FC |  | Anmäls till nämnden<br>1 ggr per år. |
-| 2.1.14 | Reglemente för<br>kommunstyrelsen och<br>övriga nämnder<br>i Kungsbacka kommun | Utse ombud med rätt att föra<br>talan i alla mål och ärenden<br>som enligt lag eller annan<br>författning ankommer på<br>nämnden eller på annat sätt<br>faller inom nämndens<br>ansvarsområde. | FC |  |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda<br>Kommunfullmäktige<br>2023-04-04 § 46<br>KF 2018-12-13 § 260<br>avsnitt 4.2 och 5.1 | Deltagande i aktivitet för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>nämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode för deltagande<br>på aktivitet regleras i<br>”Regler och riktlinjer för<br>förmåner till förtroendevalda”.<br>Där framgår vilka aktiviteter<br>som avses. |
-| 2.1.16 |  | Underteckna<br>bidragsansökningar. | FC | X | Statliga- och EU bidrag.<br>Beslutsrätten gäller inom<br>budgetansvar för respektive<br>verksamhetsområde. |
 
 <!-- sida 161 -->
 
@@ -7260,7 +7325,7 @@ avslagit ansökan om överprövning
 
 2
 
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
+[Tabell 163-164-1](handlingar.tabeller/163-164-1.csv)
 
 | 2.2.5 | Upphandlings-<br>lagstiftningen och<br>kommunens<br>policy och<br>riktlinjer | Förhandling med<br>entreprenör och beslut<br>avseende förändringar,<br>upp till 100-300<br>basbelopp. Övre gräns är<br>beslutad budget. | FC |  | I samråd med Inköp.<br>Beslutad budget i<br>kommunfullmäktige är<br>övre gräns. |
 | --- | --- | --- | --- | --- | --- |
@@ -7272,6 +7337,10 @@ avslagit ansökan om överprövning
 | 2.2.11 | Regler för<br>kommunens<br>likvidplanering,<br>krav-och inkasso<br>verksamhet samt<br>kontanthantering.<br>Fastställt av<br>Kommun-<br>fullmäktige<br>2010-09-07 § 160 | Beslut om att avskriva<br>utestående fordringar upp till<br>ett prisbasbelopp. | FC | X | Avskrivning om högst<br>ett basbelopp får<br>vidaredelegeras.<br>Belopp upp till<br>0,5 prisbasbelopp<br>utgör verkställighet. |
 | 2.2.12 |  | Försäljning av material.<br>Över ett prisbasbelopp.<br>Upp till ett prisbasbelopp. | FC<br>FC | X | Anmäls till nämnden en<br>gång per år |
 | 2.2.13 |  | Hantera externa hyresavtal<br>avseende lokaler mellan<br>kommun och hyresvärd med<br>upp till 4 års avtalstid och en<br>årshyra upp till 30 basbelopp<br>exklusive mervärdesskatt. | FC | X |  |
+| 2.2.14 |  | Hantera uppsägning av externa<br>hyresavtal för villkorsändring<br>avseende lokaler mellan<br>kommun och hyresvärd. | FC | X |  |
+| 2.2.15 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Godkännande av så<br>kallade ÄTA-arbeten<br>gentemot extern hyresvärd<br>under projekttiden för<br>inhyrningsprojekt.<br>Beställningarna utgår från<br>kontrakterad årshyra.<br>Övre gräns är beslutad budget. | FC | X | I samråd med<br>Service Inköp<br>Beslutad budget i<br>kommunfullmäktige<br>är övre gräns.<br>Övre gräns kan vara högre<br>än avtalat kontraktsvärde. |
+| 2.2.16 |  | Hantera och besluta om<br>anläggningstöd till<br>samlingslokaler, hembygdsgårdar<br>och liknande byggnader. | FC | X |  |
+| 2.2.17 |  | Hantera och besluta om<br>driftbidrag till samlingslokaler,<br>hembygdsgårdar och liknande<br>byggnader. | FC | X |  |
 
 <!-- sida 164 -->
 
@@ -7280,14 +7349,6 @@ Följande anses vara verkställighet
 Det inkluderar även direktupphandlingar enligt upphandlingsreglerna.
 
 3
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| 2.2.14 |  | Hantera uppsägning av externa<br>hyresavtal för villkorsändring<br>avseende lokaler mellan<br>kommun och hyresvärd. | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 2.2.15 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Godkännande av så<br>kallade ÄTA-arbeten<br>gentemot extern hyresvärd<br>under projekttiden för<br>inhyrningsprojekt.<br>Beställningarna utgår från<br>kontrakterad årshyra.<br>Övre gräns är beslutad budget. | FC | X | I samråd med<br>Service Inköp<br>Beslutad budget i<br>kommunfullmäktige<br>är övre gräns.<br>Övre gräns kan vara högre<br>än avtalat kontraktsvärde. |
-| 2.2.16 |  | Hantera och besluta om<br>anläggningstöd till<br>samlingslokaler, hembygdsgårdar<br>och liknande byggnader. | FC | X |  |
-| 2.2.17 |  | Hantera och besluta om<br>driftbidrag till samlingslokaler,<br>hembygdsgårdar och liknande<br>byggnader. | FC | X |  |
 
 <!-- sida 165 -->
 

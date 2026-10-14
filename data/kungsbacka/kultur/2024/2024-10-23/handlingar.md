@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.520de02d19298dc30a4b44a4/1729690341
 sha256: 67ba562c1028c3736077e6e5bdd8c22a99d60f72ace9ee14aa0582fcf8c276e3
 bytes: 13812761
 sidor: 204
-hamtad: 2026-10-08T07:33:35+00:00
-konverterad: 2026-10-08T07:34:10+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:31:58+00:00
+konverterad: 2026-10-14T10:32:33+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [19, 20, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 91, 92, 93, 94, 96, 97, 101, 106, 111, 119, 154, 155, 156, 157, 158, 160, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -53,7 +53,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,21 +62,20 @@ KUNGSBACKA  KOMMUN
 | 5. | Initiativ från Alliansen 2023-<br>10-23: söka finansiering för<br>ökade aktiviteter för äldre på<br>boenden<br>2 st dokument | KFT-2024-<br>00321 | Nämnden ger förvaltningen i uppdrag att söka<br>finansiering tillsammans med förvaltningen för Vård<br>& Omsorg för att öka aktiviteter på kommunens<br>särskilda boenden. |
 | 6. | Information till nämnd:<br>Omtanke Halland (Reformen<br>God och nära vård)<br>Föredragande: Stefan Löfmark,<br>förändringsledare<br>2 st dokument<br>30 min | KFT-2023-<br>00331 | Nämnden noterar informationen till protokollet. |
 |  | PAUS |  |  |
+| 7. | Information till nämnd:<br>upphandling badhusverksamhet<br>Föredragande: Harald Tjelle,<br>utvecklingsledare<br>1 st dokument<br>20 min | KFT-2024-<br>00140 | Nämnden noterar informationen till protokollet. |
+| 8. | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Föredragande: Harald Tjelle,<br>utvecklingsledare<br>5 st dokument<br>15 min | KFT-2024-<br>00303 | Nämndens lokalbehov för perioden 2026-2030 med<br>utblicksår 2031-2035 som framgår av bilaga<br>fastställs. Behovet överlämnas till lokalgruppen som<br>kommer bearbeta behoven och sedan lägga fram ett<br>förslag till lokalplan och budget för de behov som<br>ska prioriteras i kommunen. |
+| 9. | Information till nämnd:<br>vidareutveckling av stöd till<br>föreningar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>7 st dokument<br>20 min | KFT-2024-<br>00306 | Nämnden noterar informationen till protokollet. |
+| 10. | Överlämnande av<br>arbetsuppgifter till<br>nämndsekreterare Simon Nissen<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument<br>5 min | KFT-2024-<br>00299 | Nämnden för Kultur & Fritid lämnar till Simon<br>Nissen, nämndsekreterare vid förvaltningen för<br>Teknik i Kungsbacka, såsom osjälvständig<br>uppdragstagare att agera nämndsekreterare vid<br>frånvaro av ordinarie nämndsekreterare vid<br>förvaltningen för Kultur & Fritid. |
+| 11. | Anmälan av delegeringsbeslut<br>okt 2024<br>3 st dokument | KFT-2024-<br>00312 | Beslut fattade med stöd av delegering. Nämnden för<br>Kultur & Fritids delegeringsförteckning: 2024-01-24<br>§ 8. |
+| 12. | Redovisning av inkomna<br>skrivelser<br>1 st dokument | KFT-2024-<br>00313 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
+| 13. | Förvaltningschefen informerar<br>okt 2024<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>20 min | KFT-2024-<br>00314 | Nämnden noterar informationen till protokollet. |
+| 14. | Inkomna frågor | KFT-2024-<br>00319 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Information till nämnd:<br>upphandling badhusverksamhet<br>Föredragande: Harald Tjelle,<br>utvecklingsledare<br>1 st dokument<br>20 min | KFT-2024-<br>00140 | Nämnden noterar informationen till protokollet. |
-| 8. | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Föredragande: Harald Tjelle,<br>utvecklingsledare<br>5 st dokument<br>15 min | KFT-2024-<br>00303 | Nämndens lokalbehov för perioden 2026-2030 med<br>utblicksår 2031-2035 som framgår av bilaga<br>fastställs. Behovet överlämnas till lokalgruppen som<br>kommer bearbeta behoven och sedan lägga fram ett<br>förslag till lokalplan och budget för de behov som<br>ska prioriteras i kommunen. |
-| 9. | Information till nämnd:<br>vidareutveckling av stöd till<br>föreningar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>7 st dokument<br>20 min | KFT-2024-<br>00306 | Nämnden noterar informationen till protokollet. |
-| 10. | Överlämnande av<br>arbetsuppgifter till<br>nämndsekreterare Simon Nissen<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument<br>5 min | KFT-2024-<br>00299 | Nämnden för Kultur & Fritid lämnar till Simon<br>Nissen, nämndsekreterare vid förvaltningen för<br>Teknik i Kungsbacka, såsom osjälvständig<br>uppdragstagare att agera nämndsekreterare vid<br>frånvaro av ordinarie nämndsekreterare vid<br>förvaltningen för Kultur & Fritid. |
 
 <!-- sida 4 -->
 
@@ -86,15 +85,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Anmälan av delegeringsbeslut<br>okt 2024<br>3 st dokument | KFT-2024-<br>00312 | Beslut fattade med stöd av delegering. Nämnden för<br>Kultur & Fritids delegeringsförteckning: 2024-01-24<br>§ 8. |
-| 12. | Redovisning av inkomna<br>skrivelser<br>1 st dokument | KFT-2024-<br>00313 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
-| 13. | Förvaltningschefen informerar<br>okt 2024<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>20 min | KFT-2024-<br>00314 | Nämnden noterar informationen till protokollet. |
-| 14. | Inkomna frågor | KFT-2024-<br>00319 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -174,7 +164,7 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Klassificerin gsstruktur     Sida 1 av 10
 
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
+[Tabell 8-15-1](handlingar.tabeller/8-15-1.csv)
 
 | Processnummer | Processnamn | Processbeskrivning |
 | --- | --- | --- |
@@ -188,72 +178,32 @@ Klassificerin gsstruktur     Sida 1 av 10
 | 4.1.1 | Bedriva biblioteksverksamhet |  |
 | 4.1.1.1 | Hantera bibliotekets medier | Processen omfattar hantering av bibliotekets bestånd av medier.<br>Bibliotekets medieutbud ska vara relevant och uppdaterat, och analyseras löpande för att<br>uppfylla verksamhetens mål. Processen innebär att nya medier köps in, bland annat baserat<br>på inköpsförslag från allmänheten, omvärldsbevakning av nyutgivning samt för att ersätta<br>trasiga eller förkomna medier, för att sedan katalogiseras och placeras ut. Befintliga medier<br>kan efter analys av bland annat utlåningsstatistik magasineras eller gallras och avyttras.<br>Även anskaffning av samhällsinformation och övrig informationsförsörjning för biblioteket<br>hanteras i processen. |
 | 4.1.1.2 | Möjliggöra och hantera lån | Processen omfattar att möjliggöra och hantera lån av bibliotekets medier.<br>Processen innebär att möjliggöra lån och användande av bibliotekets medier i olika former,<br>samt att arbeta läsfrämjande utifrån bibliotekets uppdrag. Det inkluderar arbete med digital<br>delaktighet, samt utökad tillgänglighet till bibliotekets medier i form av till exempel<br>verksamheterna meröppet samt boken kommer. I processen ingår hantering av lån i form av<br>registrering av låntagare i låntagarregister, utlån, återlämning, reservation av medier samt<br>fjärrlån. Även hantering av påminnelser, förseningsavgifter och avgift för förkomna medier<br>hanteras i processen. |
-
-<!-- sida 9 -->
-
-Klassificerin gsstruktur     Sida 2 av 10
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
 | 4.2 | Lotterimyndighet |  |
-| --- | --- | --- |
 | 4.2.1 | Bedriva lotterimyndighet |  |
 | 4.2.1.1 | Hantera registrering, tillsyn och rådgivning rörande<br>lokala lotterier | Processen innebär att hantera registrering och tillsyn av lokala lotterier enligt Spellagen<br>(2018:1138).<br>Processen initieras av ansökan från lokala föreningar med tillhörande handlingar. Därefter<br>handläggs ansökan, och beslut fattas om registrering. Vid godkännande av registrering utser<br>kommunen lotterikontrollant. Efter varje enskilt lotteri skickas ekonomisk redovisning in<br>till kommunen och kontrolleras. Tillsyn sker på förekommen anledning. I processen sker<br>även rådgivning om exempelvis behov av registrering. |
 | 4.3 | Tillhandahålla anläggningar |  |
 | 4.3.1 | Att tillhandahålla anläggningar | Anmärkning: Med begreppet anläggningar avses anläggningar där det bedrivs aktiviteter<br>som har en relation till kommunens åtaganden relaterat till idrott, fritid och kultur, det vill<br>säga kommunens egna anläggningar, sådana som drivs med stöd från kommunen, som hyser<br>barn- och ungdomsverksamhet som stöds av kommunen, samt evenemangsarenor. Exempel<br>på detta kan vara arena, teater, badhus, idrottshallar, fotbollsplaner, områdeslokaler,<br>ishallar, motionsspår, vandringsleder och badplatser. |
 | 4.3.1.1 | Utveckla ändamålsenliga anläggningar | Processen omfattar att utreda och analysera förvaltningens lokal- och anläggningsbehov,<br>samverka i den kommunövergripande plan- och lokalförsörjningsprocessen, samt att arbeta<br>med andra typer av anläggningsinvesteringar.<br>Utredning och analys av förvaltningens behov sker löpande i samverkan med interna och<br>externa parter, bland annat övriga kommunala förvaltningar och föreningslivet, samt med<br>hjälp av underlag som till exempel befolkningsprognoser. Samverkan innebär till exempel<br>kontinuerlig dialog med befintliga hyresgäster och synpunktshantering från invånare och<br>andra intressenter.<br>Samverkan inom den kommunövergripande plan- och lokalförsörjningsprocessen utgår från<br>förvaltningens behov samt föreningslivets och allmänhetens behov inom nämndens<br>ansvarsområden. Det sker även samverkan i olika delprocesser, exempelvis<br>lokaliseringsutredningar. |
-
-<!-- sida 10 -->
-
-Klassificerin gsstruktur     Sida 3 av 10
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
 |  |  | I processen ingår att utreda och genomföra investeringar i och ombyggnationer av<br>kommunala utomhusanläggningar, som till exempel fotbollsplaner, utegym och<br>motionsspår. Det inkluderar att medverka till förbättrade förutsättningar för långsiktig<br>utveckling av friluftsliv, kulturliv och idrottsliv i samarbete med föreningar och andra<br>externa aktörer. |
-| --- | --- | --- |
 | 4.3.1.2 | Hantera upplåtelse av anläggningar | Processen omfattar förvaltningens upplåtelse av anläggningar till interna och externa parter.<br>Processen innebär att upplåta anläggningar till interna parter i form av kommunens<br>förvaltningar, samt externa parter i form av föreningsliv, företag, organisationer och<br>privatpersoner. I processen ingår upplåtelse som hanteras i bokningsprocess samt viss lång-<br>och korttidsuthyrning med hyresavtal. Bokningsprocessen består av både enstaka, tillfälliga<br>bokningar och bokningar som kräver schema- eller programläggning. Schema- och<br>programläggning sker på säsongs- respektive årsbasis. För vissa typer av anläggningar ingår<br>utrustning, personal och annan hantering i bokningen, enligt avtal. Det finns även möjlighet<br>att boka till utrustning eller personal för vissa anläggningar. I processen hanteras debitering<br>enligt bokningens avtalsvillkor. |
 | 4.3.1.3 | Förvalta anläggningar | Processen omfattar att förvalta de anläggningar förvaltningen är anläggningsansvariga för.<br>Förvaltningen har ingen egen drifts- eller underhållsorganisation, utan drift, skötsel och<br>underhåll utförs av andra kommunala förvaltningar (interna utförare) samt externa utförare.<br>Drift, skötsel och underhåll sker genom överenskommelser om samarbeten med andra<br>kommunala förvaltningar, eller avtal. Processen innebär att kravställa gentemot utförare för<br>att anläggning skall kunna upplåtas enligt process 4.3.1.3, samt att säkerställa att interna och<br>externa utförare utför uppdrag enligt överenskommelse eller avtal. I processen ingår<br>löpande dialog och avstämning med utförare, samt uppföljning av leverans enligt<br>överenskommelse eller avtal.<br>I processen tas även emot synpunkter och klagomål från slutanvändare samt vissa<br>felanmälningar, som vidarebefordras till utförare för hantering. |
 | 4.4 | Stöd till föreningslivet |  |
 | 4.4.1 | Hantera stöd till föreningslivet |  |
 | 4.4.1.1 | Främja det ideella föreningslivet | Processen omfattar arbetet med att främja det ideella föreningslivet. |
-
-<!-- sida 11 -->
-
-Klassificerin gsstruktur     Sida 4 av 10
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
 |  |  | I processen ingår föreningsutveckling, rådgivning till föreningslivet samt administration av<br>kommunens offentliga föreningsregister. I processen ingår samverkan med föreningslivet i<br>form av exempelvis tillfälliga arrangemang eller aktiviteter, men även mer långsiktig<br>samverkan förekommer. Även administration av utmärkelser och stipendier ingår i<br>processen. |
-| --- | --- | --- |
 | 4.4.1.2 | Hantera stöd | Processen innebär att ta emot och hantera ansökningar om stöd från föreningsliv,<br>studieförbund och enskilda kulturaktörer.<br>Processen omfattar ansökan om och utredning av att bli stödberättigad förening, samt årlig<br>uppföljning av de krav som ställs på stödberättigade föreningar i enlighet med kommunens<br>regler och riktlinjer. Processen består även av hanteringen av de specifika stöd som finns att<br>söka inom nämndens ansvarsområden. I processen ingår att ta emot ansökningar, handlägga<br>ansökningar, fatta beslut om stöd samt utbetalning av stöd. |
 | 4.5 | Destination och platsutveckling |  |
 | 4.5.1 | Utveckla destination och plats |  |
 | 4.5.1.1 | Leda och driva platsutveckling | Processen innebär att leda och driva kommunens plats-, destinations- och<br>evenemangsutveckling.<br>Processen består av att kommunövergripande leda och driva arbetet med platsutveckling för<br>att Kungsbacka ska bli en attraktiv plats att besöka, leva och verka på. I processen ingår att<br>ansvara för att kommunövergripande hålla ihop marknadsföring och platsvarumärket, och<br>att genom uppföljning och analys säkerställa att platsutvecklingen bidrar till en attraktiv och<br>tillgänglig plats ur ett invånar-, näringslivs- och besökarperspektiv. I processen ingår även<br>destinations- och evenemangsutveckling som en del av platsutvecklingen.<br>Processen omfattar i hög utsträckning samverkan med interna parter som<br>Kommunstyrelsens näringslivskontor och övriga kommunala förvaltningar, samt externa<br>parter som region, föreningsliv och besöksnäring. |
 | 4.5.1.2 | Marknadsföra platsen Kungsbacka | Processen innebär att marknadsföra Kungsbacka kommun genom att synliggöra och<br>informera om platsen Kungsbacka.<br>Processen omfattar att utveckla och mottagaranpassa platsens gemensamma<br>varumärkesplattform och att utåtriktat förmedla bilden av Kungsbacka som en attraktiv |
-
-<!-- sida 12 -->
-
-Klassificerin gsstruktur     Sida 5 av 10
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
 |  |  | plats för kommunens invånare, besökare och företag. I processen ingår att genomföra<br>mottagaranpassade marknadsföringsinsatser, driva digitala kanaler och digital<br>evenemangskalender. I processen ingår även att förmedla turistinformation. |
-| --- | --- | --- |
 | 4.6 | Besöksmåls-, program- och<br>pedagogisk verksamhet |  |
 | 4.6.1 | Bedriva besöksmåls-, program- och<br>pedagogisk verksamhet |  |
 | 4.6.1.1 | Bedriva besöksmålsverksamhet | Processen innebär att bedriva besöksmålsverksamhet på kommunens egna besöksmål.<br>Processen omfattar att hålla besöksmål öppna och tillgängliga, skapa innehåll på besöksmål<br>samt att följa upp och utvärdera verksamheten.<br>Anmärkning: Programverksamhet på besöksmål hanteras i process 4.6.1.2. Pedagogisk<br>verksamhet på besöksmål hanteras i process 4.6.1.3. |
 | 4.6.1.2 | Bedriva programverksamhet | Processen omfattar arrangemang av programverksamhet och aktiviteter inom förvaltningens<br>verksamhet.<br>Processen innehåller planering av program, bokning av medverkande, utåtriktad<br>information, genomförande av arrangemang eller aktivitet samt utvärdering. Exempel på<br>programverksamhet kan till exempel vara av förvaltningen framtagna film- och<br>teaterarrangemang, aktiviteter inom bibliotekets eller Kulturskolans verksamhet, eller<br>evenemang kopplade till kommunens besöksmål.<br>Anmärkning: Programverksamhet riktad mot och i samverkan med skolverksamhet hanteras<br>i process 4.6.1.3. |
 | 4.6.1.3 | Bedriva pedagogisk verksamhet | Processen innebär att bedriva pedagogisk verksamhet utifrån Kultur och fritids<br>grunduppdrag och ansvarsområden. Pedagogiska insatser inom processen sker i hög<br>utsträckning i samverkan med skolverksamhet. Exempel på aktiviteter och insatser är<br>skolbio, skolteater, projekt inom Kulturskolan och att ta emot skolklasser på kommunens<br>besöksmål.<br>Anmärkning: Delar av den pedagogiska verksamheten bedrivs inom ramen för vad<br>Kungsbacka kommun benämner Kulturträdet samt Skapande skola. Dessa verksamheter<br>hanteras inom denna process. |
 | 4.7 | Offentlig konst |  |
-
-<!-- sida 13 -->
-
-Klassificerin gsstruktur     Sida 6 av 10
-
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
 | 4.7.1 | Hantera offentlig konst |  |
-| --- | --- | --- |
 | 4.7.1.1 | Genomföra och förvalta konstnärlig gestaltning i<br>offentlig miljö | Processen innebär att genomföra och förvalta konstnärliga gestaltningar i form av fast konst<br>enligt en-procentsprincipen.<br>Processen sker i samband med nybyggnation, ombyggnation och i vissa fall enskilda projekt<br>i offentlig miljö. I processen ingår upphandling av konstnärlig gestaltning, skötsel och<br>förvaltning av konstnärlig gestaltning enligt skötselplan, samt att vid behov avyttra,<br>makulera eller ersätta konstnärlig gestaltning. |
 | 4.7.1.2 | Förvalta och vårda kommunens konstsamling | Processen innebär att köpa in, vårda och förvalta den lösa konst som finns i kommunens<br>konstsamling. Det inbegriper inköp eller annan anskaffning, vård och restaurering,<br>placering av lös konst i kommunala verksamheter, samt avyttring av konst. I processen<br>ingår även att vid behov inventera och registrera lös konst i konstregistret. |
 | 4.8 | Kulturarv och antikvariskt arbete |  |
@@ -261,35 +211,47 @@ Klassificerin gsstruktur     Sida 6 av 10
 | 4.8.1.1 | Hantera kulturmiljöfrågor inom plan- och<br>byggprocessen | Processen innebär att bevaka och samverka med andra kommunala förvaltningar kring<br>kulturmiljöfrågor i plan- och byggprocessen. Samverkan sker i nära samarbete och dialog<br>över förvaltningsgränserna. I processen ingår även att besvara remisser gällande<br>detaljplaner samt i bygg-, mark- och rivningslovsärenden. |
 | 4.8.1.2 | Bedriva antikvarisk rådgivning | Processen innebär att ge råd, stöd och vägledning internt och externt i frågor som rör<br>kulturmiljöer, bebyggelse och det lokala kulturarvet.<br>I processen ingår att väcka intresse för, informera om och skapa dialog kring kulturmiljön<br>med allmänheten och andra intressenter i samhället som exempelvis fastighetsägare. Syftet<br>med processen är att underlätta och skapa förutsättningar för människor att bevara, vårda,<br>använda och utveckla kulturmiljöer. Exempel på arbetssätt är kontakt med och platsbesök<br>hos invånare och fastighetsägare, närvaro på kommunens sociala medier, kontakt med press,<br>besök i skolor och genom olika events och invånardialoger i samarbete med övriga<br>kommunala förvaltningar. |
 | 4.8.1.3 | Utföra antikvariska uppdrag och dokumentationer | Processen innebär att utföra antikvariska och kulturhistoriska uppdrag i form av<br>utredningar, rapporter och dokumentationer. Arbetet sker huvudsakligen uppdragsbaserat,<br>där kommunen vid externa förfrågningar lämnar offert och fakturerar utfört arbete som |
-
-<!-- sida 14 -->
-
-Klassificerin gsstruktur     Sida 7 av 10
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
 |  |  | antikvarisk expert. Externa uppdrag hanteras primärt för uppdragsgivare med anknytning<br>till kommunen som till exempel Tjolöholm eller Äskhult, eller kyrkliga och profana<br>byggnadsminnen. |
-| --- | --- | --- |
 | 4.9 | Social hållbarhet |  |
 | 4.9.1 | Främja social hållbarhet |  |
 | 4.9.1.1 | Leda, samordna och stödja kommunens arbete med<br>sociala hållbarhet | Processen omfattar att leda, samordna och stödja kommunens arbete med social hållbarhet.<br>Kommunens arbete med social hållbarhet inbegriper folkhälsa, mänskliga rättigheter,<br>demokrati, barnrätt (inklusive ungdomsdemokrati och föräldraskapsstöd), integration,<br>jämställdhet (inklusive våld i nära relation), jämlik hälsa (inklusive barns och ungas<br>psykiska hälsa), trygghetsinsatser (inklusive trygg digital uppväxt), brottsförebyggande<br>arbete (inklusive BRÅ-samordnare) samt drogförebyggande arbete (inklusive ANDTS,<br>alkohol, narkotika, dopning, tobak och spel). Arbetet bedrivs förebyggande och främjande.<br>I processen ingår att samverka med kommunens övriga förvaltningar för att integrera social<br>hållbarhet i de ordinarie processerna, för att uppfylla konventioner, lagstiftning och<br>kommunens övriga åtaganden. Processen inbegriper även att i hög utsträckning samverka<br>med civilsamhället, andra myndigheter, och andra externa parter i olika former. |
 | 4.9.1.2 | Bedriva öppen ungdomsverksamhet | Processen omfattar att bedriva öppen ungdomsverksamhet i form av att driva mötesplatser<br>för ungdomar, anordna aktiviteter och arrangemang tillsammans med och för målgruppen,<br>samt arrangera lovverksamhet. Mötesplatser, ungdomsgrupper och projekt, liksom<br>aktiviteter och arrangemang, kan vara både platsbundna och ambulerande.<br>Ungdomsverksamheten bygger främst på frivillighet och relationskapande där uppsökande<br>verksamhet ingår. Processen innebär även samverkan med skolverksamhet, föreningsliv och<br>andra interna och externa parter. |
 | 4.9.1.3 | Bedriva öppen seniorverksamhet | Processen omfattar att bedriva öppen seniorverksamhet i form av att driva träffpunkter och<br>anordna aktiviteter och arrangemang utifrån målgruppens önskemål och behov.<br>Träffpunkter, aktiviteter och arrangemang kan vara både platsbundna och ambulerande.<br>Seniorverksamheten bygger på frivillighet, och syftar till att möjliggöra och uppmuntra<br>sociala kontakter och skapa ett sammanhang för att motverka fysisk och psykisk ohälsa.<br>Processen innefattar samverkan med Vård- och omsorgsförvaltningens förebyggande<br>arbete, samt andra interna och externa parter. |
-
-<!-- sida 15 -->
-
-Klassificerin gsstruktur     Sida 8 av 10
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
 | 4.9.1.4 | Bedriva Friskvårdsgrupp och Aktivitetsgrupp | Processen innebär att bedriva Friskvårdsgrupp och Aktivitetsgrupp utifrån definierad metod.<br>Processen startar med att remiss inkommer och kontakt upprättas med barnet eller<br>ungdomen och vårdnadshavare. Därefter bokas ett möte in, överenskommelse skrivs med<br>barnet eller ungdomen och vårdnadshavare, och en plan för barnet eller ungdomen tas fram.<br>Aktiviteter genomförs enligt enskild plan, och fortsätter så länge barnet eller ungdomen<br>befinner sig i kommunens verksamhet. Regelbunden uppföljning av plan och behov görs,<br>och justeringar av plan görs i vissa fall. Processen avslutas antingen genom barnet eller<br>ungdomens, eller vårdnadshavares, önskemål, att ungdomen blir 18 år, eller att barnet eller<br>ungdomen inte längre har behov av stöd. |
-| --- | --- | --- |
 | 4.10 | Kulturskola |  |
 | 4.10.0 | Leda, styra, organisera verksamheten |  |
 | 4.10.0.1 | Leda - Styra - Organisera |  |
 | 4.10.1 | Bedriva kulturskola |  |
 | 4.10.1.1 | Hantera antagning och elever för Kulturskolan | Processen innebär att hantera antagning för plats i Kulturskolans undervisning, samt övrig<br>elevhantering. I processen ingår att ta emot ansökan, göra urval, köhantering, ge<br>antagningsbesked, samt att säga upp plats. Även hantering av avgift för plats, inklusive<br>påminnelsehantering ingår. I processen ingår utlån/uthyrning av musikinstrument.<br>Processen omfattar också kontakt med vårdnadshavare och elever. |
 | 4.10.1.2 | Bedriva undervisning i Kulturskolan | Processen omfattar att planera, genomföra och följa upp undervisning inom Kulturskolan.<br>Undervisning bedrivs både som enskild undervisning och gruppundervisning. Till<br>gruppundervisning räknas även orkester och andra frivilliga ensembler. I undervisningen<br>ingår utåtriktad verksamhet baserad på elevmedverkan i form av till exempel publika<br>terminsavslutningar eller andra arrangemang, för att ge Kulturskolans elever möjlighet att<br>lära och utvecklas som kulturutövare. Processen innefattar även utvärdering och planering<br>av Kulturskolans kursutbud. |
+
+<!-- sida 9 -->
+
+Klassificerin gsstruktur     Sida 2 av 10
+
+<!-- sida 10 -->
+
+Klassificerin gsstruktur     Sida 3 av 10
+
+<!-- sida 11 -->
+
+Klassificerin gsstruktur     Sida 4 av 10
+
+<!-- sida 12 -->
+
+Klassificerin gsstruktur     Sida 5 av 10
+
+<!-- sida 13 -->
+
+Klassificerin gsstruktur     Sida 6 av 10
+
+<!-- sida 14 -->
+
+Klassificerin gsstruktur     Sida 7 av 10
+
+<!-- sida 15 -->
+
+Klassificerin gsstruktur     Sida 8 av 10
 
 <!-- sida 16 -->
 
@@ -1955,7 +1917,7 @@ mångfald.
 
 11
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
+[Tabell 58-59-1](handlingar.tabeller/58-59-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
@@ -1968,6 +1930,15 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 97 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 84,5 |  |  | Minska |
 | Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,27 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % |  | Öka |
+| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  |  | Minska |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  | Öka |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  | Minska |
 
 <!-- sida 59 -->
 
@@ -1985,21 +1956,7 @@ mellan näringsliv och utbildning.
 
 12
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % |  | Öka |
-| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  |  | Minska |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  | Öka |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  | Minska |
-
-[Tabell 59-2](handlingar.tabeller/59-2.csv)
+[Tabell 59-60-1](handlingar.tabeller/59-60-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
@@ -2008,6 +1965,7 @@ mellan näringsliv och utbildning.
 | Sysselsatt dagbefolkning, antal |  |  |  | Öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
 | Företagsamhet, andel av invånare 16–74 år | 18 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 12,8 |  |  | Öka |
 
 <!-- sida 60 -->
 
@@ -2039,12 +1997,6 @@ kommunen.
 13
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 12,8 |  |  | Öka |
-
-[Tabell 60-2](handlingar.tabeller/60-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
@@ -2364,12 +2316,16 @@ Investeringar (belopp i tkr)
 | Tilläggsanslag Främja välmående, motverka<br>psykisk ohälsa | 1 450 | 1 700 |  |
 | Summa | 268 990 | 288 401 | 296 139 |
 
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
+[Tabell 68-69-2](handlingar.tabeller/68-69-2.csv)
 
 | Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-<br>2029 |
 | --- | --- | --- | --- | --- | --- |
 | Löpande investeringar | 4 062 | 6 700 | 6 700 | 3 900 | 19 500 |
 | Reinvesteringar- utbyte<br>konstgräs | 11 123 | 4 200 | 4 200 | 7 000 | 13 000 |
+| Lokaler- konstnärlig<br>gestaltning \* | 3 641 | 6 233 |  |  |  |
+|  |  |  |  |  |  |
+| Övriga investeringar | 1 726 | 9 027 | 5 500 \*\* | 5 000 | 21 000 |
+| Summa | 20 552 | 26 160 | 16 400 | 15 900 | 53 500 |
 
 <!-- sida 69 -->
 
@@ -2393,15 +2349,6 @@ avser större nyinvesteringar, fordon och större upprustningar av fritidsanläg
 ombudgeterat belopp från 2023 om 500 tkr som avser konst till Kungsbacka torg.
 
 22
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-<br>2029 |
-| --- | --- | --- | --- | --- | --- |
-| Lokaler- konstnärlig<br>gestaltning \* | 3 641 | 6 233 |  |  |  |
-|  |  |  |  |  |  |
-| Övriga investeringar | 1 726 | 9 027 | 5 500 \*\* | 5 000 | 21 000 |
-| Summa | 20 552 | 26 160 | 16 400 | 15 900 | 53 500 |
 
 <!-- sida 70 -->
 
@@ -4739,38 +4686,37 @@ Exempel på hur föreningar kan påverkas av det nya stödet
 Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Utvecklingsstödet baseras
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
+Stor      Förening utan egen Förening med hyrd
+inomhusförening anläggning - hyr anläggning
+lokal/anläggning på
 
+timmar
+2026    2029   2026   2029    2026   2029
 \+ Ökat LOK stöd från
-7,5kr till 10kr
+7,5kr till 10kr  150 000 150 000 70 000 70 000 54 000 54 000
 \+ LOK stöd x3
-\- Driftbidrag
+\- Driftbidrag                   -17 000 -17 000
 \- Utveckling /
-Utbildningsbidrag
+Utbildningsbidrag -160 000 -160 000 -103 000 -103 000 -76 000 -76 000
 
 \- Drogpolicy /
-Hälsocertifiering
-\- Lovbidrag
+Hälsocertifiering -40 000 -40 000 -31 000 -31 000 -20 000 -20 000
+\- Lovbidrag                      -1 500 -1 500 -4 000  -4 000
 \- Folkhälsobidrag
-\- Subventioner
-\- Höjda taxor
+\- Subventioner                                -137 000 -331 000
+\- Höjda taxor   -100 000 -120 000 -5 000 -5 500 -7 000 -7 500
 
-Summa
+Summa      -150 000 -170 000 -87 500 -88 000 -190 000 -384 500
 
-\+ Utvecklingsstöd
+\+ Utvecklingsstöd 105 000 200 000 105 000 200 000 105 000 200 000
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
 
-Förändring
+Förändring   -45 000 30 000 17 500 112 000 -85 000 -184 500
 
 Föreningarna har en stor påverkan på utvecklingsstödet. Som beskrivs ovan kan föreningarna söka
 medel utifrån ett treårigt åtagande. Nedan exempel är fiktiva och bör ses som förenklade exempel:
-
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
-
-| Stor<br>inomhusförening<br>2026 2029 | Förening utan egen Förening med hyrd<br>anläggning - hyr anläggning<br>lokal/anläggning på<br>timmar<br>2026 2029 2026 2029 |  |
-| --- | --- | --- |
-| 150 000 150 000<br>-160 000 -160 000<br>-40 000 -40 000<br>-100 000 -120 000<br>-150 000 -170 000<br>105 000 200 000<br>-45 000 30 000 | 70 000 70 000<br>-17 000 -17 000<br>-103 000 -103 000<br>-31 000 -31 000<br>-1 500 -1 500<br>-5 000 -5 500<br>-87 500 -88 000<br>105 000 200 000<br>17 500 112 000 | 54 000 54 000<br>-76 000 -76 000<br>-20 000 -20 000<br>-4 000 -4 000<br>-137 000 -331 000<br>-7 000 -7 500<br>-190 000 -384 500<br>105 000 200 000<br>-85 000 -184 500 |
 
 <!-- sida 122 -->
 
@@ -5588,7 +5534,7 @@ geografisk placering har kompletterats med avstånd till kollektivtrafikhållpla
 
 Lokaler och ytor där kommunen idag subventionerar lokalutgifter för föreningsaktiviteter :
 
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
+[Tabell 140-141-1](handlingar.tabeller/140-141-1.csv)
 
 | Typ av verksamhetsyta | Antal | Kommundelar |
 | --- | --- | --- |
@@ -5600,6 +5546,13 @@ Lokaler och ytor där kommunen idag subventionerar lokalutgifter för förenings
 | Fotbollsplaner, konstgräs,<br>11+11 | 11 | Alla |
 | Fotbollsplaner, konstgräs,<br>7+7 | 4 (varav en ej kommunägd) | Kullavik, Ängås, Ögärdet (Fjärås) |
 | Fotbollsplaner, konstgräs<br>5+5 | 1 | Malevik |
+| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
+| Friidrottsanläggningar | 1 | Kungsbacka Stad |
+| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
+| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
+| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 141 -->
 
@@ -5630,17 +5583,6 @@ tidshorisont vi har undersökt, dvs fram till år 2030.
 För att hålla utgifterna för kommunen nere på en acceptabel nivå är det troligtvis nödvändigt att göra
 ett strategiskt vägval där kommunen inte längre investerar i och underhåller lika många anläggningar
 som idag, utan i stället stödja föreningarnas aktiviteter på ett mer direkt sätt.
-
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
-| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
-| --- | --- | --- |
-| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
-| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
-| Friidrottsanläggningar | 1 | Kungsbacka Stad |
-| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
-| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
-| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 142 -->
 
@@ -5959,60 +5901,78 @@ Förvaltningschef
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-\+ LOK stöd x3
-\- Driftbidrag
-\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+
 \- Lovbidrag
 \- Folkhälsobidrag
 
 \- Subventioner
 
-```osaker-tabell
-- Höjda taxor                   -100 000    -120 000     -5 800
+[Tabell 149-1](handlingar.tabeller/149-1.csv)
 
-          Förändring            -150 000    -170 000     -2 800
+| + Ökat LOK stöd från 7,5kr till 10kr | 150 000 | 150 000 | 9 000 |
+| --- | --- | --- | --- |
+| + LOK stöd x3 |  |  |  |
+| - Driftbidrag |  |  |  |
+| - Utveckling / Utbildningsbidrag | -160 000 | -160 000 | -6 000 |
+| - Drogpolicy / Hälsocertifiering | -40 000 | -40 000 |  |
 
-+ Utvecklingsstöd                105 000    200 000     105 000
-```
+[Tabell 149-2](handlingar.tabeller/149-2.csv)
 
-(Genomsnittligt stöd per förening
-
-utifrån det belopp vi frigör från lokaler)
-
-Förändring             -45 000     30 000     102 200
+| - Höjda taxor | -100 000 | -120 000 | -5 800 |
+| --- | --- | --- | --- |
+| Förändring | -150 000 | -170 000 | -2 800 |
+| + Utvecklingsstöd | 105 000 | 200 000 | 105 000 |
+| (Genomsnittligt stöd per förening utifrån det belopp vi frigör från lokaler) |  |  |  |
+| Förändring | -45 000 | 30 000 | 102 200 |
 
 <!-- sida 150 -->
 
-Liten inomhusförening
+Liten inomhusförening Förening med egen anläggning Förening utan egen anläggning - hyr
 
-2029
-9 000
+lokal/anläggning på timmar
 
--6 000
+```osaker-tabell
+2029        2026       2029        2026       2029
+    9 000      16 000     16 000      70 000     70 000
+              100 000    100 000
+             -116 000    -116 000    -17 000     -17 000
+   -6 000     -29 000     -29 000   -103 000    -103 000
+               -8 000     -8 000     -31 000     -31 000
+               -7 000     -7 000      -1 500      -1 500
 
--6 500
+   -6 500                             -5 000      -5 500
 
--3 500
+   -3 500     -44 000     -44 000    -87 500     -88 000
 
-200 000
+  200 000     105 000    200 000     105 000    200 000
 
-196 500
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-| Förening med egen anläggning<br>2026 2029 | Förening utan egen anläggning - hyr<br>lokal/anläggning på timmar<br>2026 2029 |
-| --- | --- |
-| 16 000 16 000<br>100 000 100 000<br>-116 000 -116 000<br>-29 000 -29 000<br>-8 000 -8 000<br>-7 000 -7 000<br>-44 000 -44 000<br>105 000 200 000<br>61 000 156 000 | 70 000 70 000<br>-17 000 -17 000<br>-103 000 -103 000<br>-31 000 -31 000<br>-1 500 -1 500<br>-5 000 -5 500<br>-87 500 -88 000<br>105 000 200 000<br>17 500 112 000 |
+  196 500      61 000    156 000      17 500    112 000
+```
 
 <!-- sida 151 -->
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+Förening med hyrd anläggning  Ridanläggning
 
-| Förening med hyrd anläggning<br>2026 2029 | Ridanläggning<br>40% subvention av hyra kvar 2029<br>2026 2029 |
-| --- | --- |
-| 54 000 54 000<br>-76 000 -76 000<br>-20 000 -20 000<br>-4 000 -4 000<br>-137 000 -331 000<br>-7 000 -7 500<br>-190 000 -384 500<br>105 000 200 000<br>-85 000 -184 500 | 21 000 21 000<br>-193 000 -193 000<br>-49 000 -49 000<br>-18 000 -18 000<br>-3 000 -3 000<br>-417 000 -1 116 000<br>-659 000 -1 358 000<br>105 000 200 000<br>-554 000 -1 158 000 |
+40% subvention av hyra kvar 2029
+
+```osaker-tabell
+2026        2029        2026         2029
+   54 000      54 000      21 000       21 000
+
+                          -193 000     -193 000
+  -76 000      -76 000     -49 000     -49 000
+  -20 000      -20 000     -18 000     -18 000
+   -4 000      -4 000       -3 000      -3 000
+
+  -137 000    -331 000    -417 000   -1 116 000
+   -7 000      -7 500
+
+  -190 000    -384 500    -659 000   -1 358 000
+
+  105 000     200 000      105 000     200 000
+
+  -85 000     -184 500    -554 000   -1 158 000
+```
 
 <!-- sida 152 -->
 

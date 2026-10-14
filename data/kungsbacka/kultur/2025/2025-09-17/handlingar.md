@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.f98f1841993730820e3640/175757656995
 sha256: 6c4476bb493d4f6ef39f0c7430646232813b6da13728ff1f771680186a4908f5
 bytes: 19970514
 sidor: 363
-hamtad: 2026-10-08T07:42:42+00:00
-konverterad: 2026-10-08T07:43:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:39:22+00:00
+konverterad: 2026-10-14T10:40:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [316]
-figurer: null
-tolkade: null
+figurer: [182, 193, 194, 201, 202, 203, 204, 205, 207, 208, 209, 210, 231, 232, 233, 236, 241, 242, 256, 258, 259, 260, 261, 263, 268, 269, 273, 274, 277, 278, 281, 285, 298, 299, 300, 302, 303, 304, 306, 308, 309, 316, 317]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -35,21 +35,36 @@ Nämnden  för Kultur & Fritid
 Sammanträde Onsdagen den 17 september 2025 kl. 17:00
 Särö Kullavik IF, Idrottsgången 2
 
+Ärende                Beteckning Förslag till beslut
+
+Val av justerare                Ulrika Jörgensen (M)
+
+1\.  Information till nämnd: nya KFT-2025- Nämnden noterar informationen till protokollet.
+socialtjänstlagen     00178
+
+2\.  Begäran om yttrande - KFT-2025- Nämnden för Kultur & Fritid avger yttrande på
+Betänkandet "Ett nationellt 00161 remiss av Justitiedepartementets betänkande "Ett
+förbud mot tiggeri" (KS-2025-   nationellt förbud mot tiggeri" (SOU 2025:83).
+00530\)
+svar senast 20250919
+
+3\.  Justering av avgifter på KFT-2025- Nämnden för Kultur & Fritid föreslår
+Kungsbacka teater     00190     Kommunfullmäktige att anta justerade avgifter på
+Kungsbacka teater.
+
+4\.  Information till nämnd: KFT-2025- Nämnden noterar informationen till protokollet.
+lokalplan 2027-2033   00179
+
+5\.  SAMRÅD Detaljplan för KFT-2025- Nämnden anser att planförslaget är väl genomarbetat
+seniorbostäder inom Skörvalla 00193 och att det har tagit hänsyn till många av de faktorer
+1:116 i Särö, Kungsbacka        som Kultur & Fritid lyft i framtagandet. Nämnden
+kommun, sista svarsdag 30       vill lyfta några aspekter kring trafik och gestaltad
+september                       livsmiljö.
+
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
 (e-post borttagen)                                     Besöksadress
-
-[Tabell 1-1](handlingar.tabeller/1-1.csv)
-
-|  | Ärende | Beteckning | Förslag till beslut |
-| --- | --- | --- | --- |
-|  | Val av justerare |  | Ulrika Jörgensen (M) |
-| 1. | Information till nämnd: nya<br>socialtjänstlagen | KFT-2025-<br>00178 | Nämnden noterar informationen till protokollet. |
-| 2. | Begäran om yttrande -<br>Betänkandet "Ett nationellt<br>förbud mot tiggeri" (KS-2025-<br>00530)<br>svar senast 20250919 | KFT-2025-<br>00161 | Nämnden för Kultur & Fritid avger yttrande på<br>remiss av Justitiedepartementets betänkande "Ett<br>nationellt förbud mot tiggeri" (SOU 2025:83). |
-| 3. | Justering av avgifter på<br>Kungsbacka teater | KFT-2025-<br>00190 | Nämnden för Kultur & Fritid föreslår<br>Kommunfullmäktige att anta justerade avgifter på<br>Kungsbacka teater. |
-| 4. | Information till nämnd:<br>lokalplan 2027-2033 | KFT-2025-<br>00179 | Nämnden noterar informationen till protokollet. |
-| 5. | SAMRÅD Detaljplan för<br>seniorbostäder inom Skörvalla<br>1:116 i Särö, Kungsbacka<br>kommun, sista svarsdag 30<br>september | KFT-2025-<br>00193 | Nämnden anser att planförslaget är väl genomarbetat<br>och att det har tagit hänsyn till många av de faktorer<br>som Kultur & Fritid lyft i framtagandet. Nämnden<br>vill lyfta några aspekter kring trafik och gestaltad<br>livsmiljö. |
 
 <!-- sida 2 -->
 
@@ -2631,12 +2646,6 @@ Tabell 3.2 Statistik över antalet anmälningar, åtal och domar i fråga
 om exploatering i arbete respektive tiggeri 2018–2023
 Exploatering i arbete Exploatering i tiggeri
 
-```osaker-tabell
-Anmälningar:       385            42
-Åtal                 7            10
-Dom                  2            7
-```
-
 Källa: Jämställdhetsmyndigheten.
 
 Resultaten kan tolkas som att exploatering i tiggeri har fungerat
@@ -2656,6 +2665,13 @@ tiggeri än formen arbete.
 prövats av domstol. Det fanns ett åtal om exploatering i tiggeri som avgränsades bort i
 granskningen.
 59
+
+[Tabell 66-1](handlingar.tabeller/66-1.csv)
+
+| Anmälningar: | 385 | 42 |
+| --- | --- | --- |
+| Åtal | 7 | 10 |
+| Dom | 2 | 7 |
 
 <!-- sida 67 -->
 
@@ -10338,7 +10354,7 @@ Tabellen nedan redovisar vilka kostnadsposter respektive part ansvarar för.
 
 Samrådshandling                                            23 (42)
 
-[Tabell 253-1](handlingar.tabeller/253-1.csv)
+[Tabell 253-254-1](handlingar.tabeller/253-254-1.csv)
 
 | Fastighet/part | Ekonomisk konsekvens (betalar) |
 | --- | --- |
@@ -10349,6 +10365,10 @@ Samrådshandling                                            23 (42)
 | Kommunen, Nämnden för teknik (VA-<br>kollektivet) | Utbyggnad av allmänna VA-anläggningar,<br>fram till planområdet |
 | Kommunen, Nämnden för teknik (VA-<br>kollektivet) | Drift och underhåll av allmänna VA-<br>anläggningar (utanför planområdet) |
 | Exploatör/fastighetsägarna i planområdet | Anslutningsavgifter för dricks- och<br>spillvatten, el, bredband, fjärrvärme mm |
+| Exploatören | Flytt av befintliga kraftledningar inom<br>detaljplanen |
+| Ledningshavare | Eventuell flytt av teleledningar inom<br>planområdet |
+| Exploatören | Tillstånd, anmälan och dispenser för utfart<br>till statlig väg och eventuell<br>vattenverksamhet |
+| Ledningshavare | Lantmäteriförrättning för bildande av<br>ledningsrätt |
 
 <!-- sida 254 -->
 
@@ -10377,14 +10397,6 @@ Dispenser och tillstånd under genomförandeskedet
 Samrådshandling                                            24 (42)
 
 [Tabell 254-1](handlingar.tabeller/254-1.csv)
-
-| Exploatören | Flytt av befintliga kraftledningar inom<br>detaljplanen |
-| --- | --- |
-| Ledningshavare | Eventuell flytt av teleledningar inom<br>planområdet |
-| Exploatören | Tillstånd, anmälan och dispenser för utfart<br>till statlig väg och eventuell<br>vattenverksamhet |
-| Ledningshavare | Lantmäteriförrättning för bildande av<br>ledningsrätt |
-
-[Tabell 254-2](handlingar.tabeller/254-2.csv)
 
 | Dispens/tillstånd | Ansvarig |
 | --- | --- |
@@ -14490,6 +14502,28 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2024    2025    2025  avvikelse 2024    2025    delår
+Nämnd           -1,2    -1,3    -1,3     0,0    -0,8    -0,8     0,0
+Förvaltningsledni
+-11,1  -14,9   -12,3     2,6    -7,4    -7,3     0,1
+ng
+Kvalitet & Social
+-11,6  -13,5   -13,4     0,1    -8,1    -7,4     0,7
+hållbarhet
+Platsvarumärke &
+-4,3    -4,6    -4,9     -0,3   -2,8    -3,1    -0,3
+Kommunikation
+Fritid &
+-175,0  -174,4 -175,8     -1,4  -122,4  -122,7   -0,3
+Mötesplatser
+Kultur &
+-86,3  -87,6   -87,4     0,2    -57,2  -56,9     0,3
+Demokrati
+Periodens
+-289,5  -296,3 -295,1     1,2   -198,7  -198,2    0,5
+resultat
 Sammanfattning - text till kommunstyrelsen
 Kultur & Fritids prognos för helåret är 295,1 miljoner kronor. Det är en avvikelse om +1,2 miljoner kronor,
 vilket är i nivå med årsbudget. Utfallet för januari-augusti är +1,4 miljoner, vilket motsvarar en avvikelse om
@@ -14513,19 +14547,6 @@ systemet för evenemangskalender.
 Fritid & Mötesplatser prognosticerar en negativ avvikelse, vilket motsvarar -0,8% jämfört med helårsbudget.
 
 29
-
-[Tabell 347-1](handlingar.tabeller/347-1.csv)
-
-| Miljoner kronor<br>Nämnd | Bokslut<br>2024<br>-1,2 | Budget<br>2025<br>-1,3 | Prognos<br>2025<br>-1,3 | Budget-<br>avvikelse<br>0,0 | Delår<br>2024<br>-0,8 | Delår<br>2025<br>-0,8 | Avvikelse<br>delår<br>0,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Förvaltningsledni<br>ng | -11,1 | -14,9 | -12,3 | 2,6 | -7,4 | -7,3 | 0,1 |
-| Kvalitet & Social<br>hållbarhet | -11,6 | -13,5 | -13,4 | 0,1 | -8,1 | -7,4 | 0,7 |
-| Platsvarumärke &<br>Kommunikation | -4,3 | -4,6 | -4,9 | -0,3 | -2,8 | -3,1 | -0,3 |
-| Fritid &<br>Mötesplatser | -175,0 | -174,4 | -175,8 | -1,4 | -122,4 | -122,7 | -0,3 |
-| Kultur &<br>Demokrati | -86,3 | -87,6 | -87,4 | 0,2 | -57,2 | -56,9 | 0,3 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -289,5 | -296,3 | -295,1 | 1,2 | -198,7 | -198,2 | 0,5 |
 
 <!-- sida 348 -->
 

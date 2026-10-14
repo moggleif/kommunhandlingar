@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7dfb7256199c8e9b9cbd2c24/1760682278
 sha256: 3f8a2f3470ff5bab6c526c9e3d7a4d4f2c72a4f4970167e7fab7db4f96ff34a4
 bytes: 1632404
 sidor: 26
-hamtad: 2026-10-08T01:16:54+00:00
-konverterad: 2026-10-08T01:17:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:04:14+00:00
+konverterad: 2026-10-14T09:04:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [3, 7, 8, 9, 18]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -115,7 +115,7 @@ Förvaltningens prioritering är att ge förtur till pågående projekt med bund
 både kostsamt och komplicerat att avbryta dessa jämfört med att senarelägga projekt som ännu inte har
 startat. Förslag till omfördelningen enligt nedan.
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 | Portfölj | Procentuell fördelning av tillgängliga<br>medel juni 2025 | Procentuell fördelning av tillgängliga<br>medel oktober 2025 |
 | --- | --- | --- |
@@ -123,6 +123,8 @@ startat. Förslag till omfördelningen enligt nedan.
 | Vattenproduktion – VA | 3,7% | 3,8% |
 | VA- ledningsnät | 61,7% | 69,1% |
 | Avloppsrening | 10,6% | 9,7% |
+| VA-omvandling | 12,6% | 12,6% |
+| Exploatering | 11,0% | 4,1% |
 
 <!-- sida 3 -->
 
@@ -132,12 +134,6 @@ KUNGSBACKA  KOMMUN
 Ulrika Granfors                    Catarina Sundberg
 
 Förvaltningschef                   Verksamhetschef
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-| VA-omvandling | 12,6% | 12,6% |
-| --- | --- | --- |
-| Exploatering | 11,0% | 4,1% |
 
 <!-- sida 4 -->
 
@@ -810,35 +806,103 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
+Punkt i
+delegeringsordni       Ansvarig   Delegeringens    Taget beslut och datum för
+ng          Lagrum     Delegat    omfattning       beslutet
+1384 2025-
+2025-09-16 00336
+1384 2025-
+2025-09-23 00342
+1384 2025-
+2025-09-23 00343
+1384 2025-
+2025-09-29 00346
+1384 2025-
+2025-09-30 00347
 
-| Punkt i<br>delegeringsordni<br>ng | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 2025-09-16 | 1384 2025-<br>00336 |  |
-|  |  |  |  |  | 2025-09-23 | 1384 2025-<br>00342 |  |
-|  |  |  |  |  | 2025-09-23 | 1384 2025-<br>00343 |  |
-|  |  |  |  |  | 2025-09-29 | 1384 2025-<br>00346 |  |
-|  |  |  |  |  | 2025-09-30 | 1384 2025-<br>00347 |  |
-|  |  |  |  |  | 2025-09-30 | 1384 2025-<br>00348 |  |
-| 4.14 | Vägmärkesföror<br>d ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen 3<br>kap. 4 § Plan<br>och Bygglagen 6<br>Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Samordnare | Beslut om tillstånd att<br>schakta i gator och vägar<br>för vilka kommunen är<br>huvudman och vid<br>behov kräva säkerhet för<br>beräknade kostnader för<br>återställande av<br>kommunens<br>anläggningar | 3 beslut om tillstånd att<br>schakta i gator och<br>trafikanordningsplan. |  |  |  |
-| 4.15 | Vägmärkesföror<br>d ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen 3<br>kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsplan | 28 st beslut om enbart<br>trafikanordningsplan |  |  |  |
-| 4.16 | 13 kap. och 8 §<br>trafikförordning<br>en (1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd<br>för rörelsehindrad<br>Beviljade: 21<br>Avslagna: 1 |  |  |  |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning &<br>Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade av<br>offentlig plats | Se separat bilaga för Yttranden<br>från Teknik. |  |  |  |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 77<br>Avslagna: 0 |  |  |  |
+1384 2025-
+2025-09-30 00348
+4.14        Vägmärkesföror VC Trafik & Beslut om tillstånd att 3 beslut om tillstånd att
+d ningen SFS Utemiljö schakta i gator och vägar schakta i gator och
+2007:90 AFS EC drift Gata för vilka kommunen är trafikanordningsplan.
+1999:3 49 § 81 EC Anläggning & huvudman och vid
+§ (a-e)    Utveckling behov kräva säkerhet för
+Ordningslagen 3 Samordnare beräknade kostnader för
+kap. 4 § Plan         återställande av
+och Bygglagen 6       kommunens
+Kap. 21               anläggningar
+4.15        Vägmärkesföror VC Trafik & Godkännande av 28 st beslut om enbart
+d ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning &
+§ (a-e)    Utveckling
+Ordningslagen 3 Samordnare
+kap. 4 §
+4.16        13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd
+trafikförordning are  parkeringstillstånd för för rörelsehindrad
+en (1998:1276)
+rörelsehindrade  Beviljade: 21
+Avslagna: 1
+4.17        Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden
+(1993:1617) 2 Utemiljö avseende begagnade av från Teknik.
+kap        EC Anläggning & offentlig plats
+Utveckling
+Samordnare
+5.1         6–9 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om are     färdtjänst med   Beviljade: 77
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 0
 
 <!-- sida 22 -->
 
 KUNGSBACKA KOMMUN                                           4 (4)
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+Punkt i
+delegeringsordni       Ansvarig   Delegeringens    Taget beslut och datum för
+ng          Lagrum     Delegat    omfattning       beslutet
+5.3         4–7 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om tillstånd till
+(1997:735) om are     riksfärdtjänst   riksfärdtjänst
+riksfärdtjänst EC Kansli
+Beviljade: 13
+Avslagna: 0
+8.3         37§ Lokala Anette Englund, Besluta om  250910, 1 st
+avfallsföreskrift administratör godkännande av 250916, 1 st
+er för     Kund &     kompostering av
+Kungsbacka Kommunikation matavfall
+kommun
 
-| Punkt i<br>delegeringsordni<br>ng | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till<br>riksfärdtjänst<br>Beviljade: 13<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 250910, 1 st<br>250916, 1 st |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om tillfälligt<br>uppehåll i sophämtning | 250902, 4 st<br>250903, 3 st<br>250910, 3 st<br>250911, 1 st<br>250912, 2 st<br>250915, 1 st<br>250918, 1 st<br>250919, 2 st<br>250923, 2 st<br>250924, 1 st<br>250929, 2 st |
-| 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |
-| 10.1.2 | LAS, AB §§ 3-5 | FC | Övriga medarbetare<br>Tillsvidareanställning<br>och<br>tidsbegränsadeanställni<br>ngar längre än 6<br>månader | - Handläggare, anställd 2025-<br>09-04 av Maria Samuelsson<br>- Anslutningsingenjör, anställd<br>2025-09-15 av Annika<br>Svensson<br>- Anslutningsingenjör, anställd<br>2025-09-15 av Annika<br>Svensson<br>- Anläggningstekniker, anställd<br>2025-09-22 av Nina<br>Fjellskålnes<br>- Utvecklare, anställd 2025-09-<br>01 av Emir Halalkic<br>- It-tekniker specialist, 2025-<br>09-01 av Niklas Lindén<br>- Förrådstekniker, anställd<br>2025-09-01<br>- Processingenjör, anställd<br>2025-09-01 av Olof Wretin |
+8.6         43, 43a §§ Anette Englund, Besluta om tillfälligt 250902, 4 st
+Lokala     administratör uppehåll i sophämtning 250903, 3 st
+avfallsföreskrift Kund &               250910, 3 st
+er för     Kommunikation               250911, 1 st
+Kungsbacka                             250912, 2 st
+kommun                                 250915, 1 st
+250918, 1 st
+250919, 2 st
+250923, 2 st
+250924, 1 st
+250929, 2 st
+10.1        LAS, AB §§ 3-5          Anställa
+
+10.1.2      LAS, AB §§ 3-5 FC     Övriga medarbetare - Handläggare, anställd 2025-
+Tillsvidareanställning 09-04 av Maria Samuelsson
+och              - Anslutningsingenjör, anställd
+tidsbegränsadeanställni 2025-09-15 av Annika
+ngar längre än 6 Svensson
+månader          - Anslutningsingenjör, anställd
+2025-09-15 av Annika
+Svensson
+\- Anläggningstekniker, anställd
+2025-09-22 av Nina
+Fjellskålnes
+\- Utvecklare, anställd 2025-09-
+01 av Emir Halalkic
+\- It-tekniker specialist, 2025-
+09-01 av Niklas Lindén
+\- Förrådstekniker, anställd
+2025-09-01
+\- Processingenjör, anställd
+2025-09-01 av Olof Wretin
 
 <!-- sida 23 -->
 
@@ -849,7 +913,7 @@ delegeringsförteckning antagen 2024-09-25 § 94.
 Sida
 1(4)
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
+[Tabell 23-26-1](handlingar.tabeller/23-26-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -861,16 +925,6 @@ Sida
 | 2025-09-22 | Yttrande Teknik - Byggetablering Storgatan 16 | TE-2025-00823 |
 | 2025-09-22 | Yttrande Teknik - anslutning till kommunalt avlopp via förening, ISERÅS 23:4, BN 2025-001622 | TE-2025-00864 |
 | 2025-09-30 | Yttrande Teknik - Enskild avloppsanläggning, KALVHULT 1:13, MH-2025-3058 | TE-2025-00861 |
-
-<!-- sida 24 -->
-
-Sida
-2(4)
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-09-17 | Yttrande Teknik - Föreningsdag Hanhals IF | TE-2025-00854 |
 | 2025-09-17 | Yttrande Teknik - Byggetablering Kyrkogatan-Södra Torggatan | TE-2025-00851 |
 | 2025-09-17 | Yttrande Teknik - Beredskapsvecka Esteten - Borgmästaregatan 26/9 | TE-2025-00816 |
@@ -882,16 +936,6 @@ Sida
 | 2025-09-09 | Yttrande Teknik - Byggetablering Fyren | TE-2025-00789 |
 | 2025-09-05 | Yttrande Teknik Transportdispens TRV 2025/89659 | TE-2025-00815 |
 | 2025-09-05 | Yttrande Teknik Transportdispens TRV 2025/89628 | TE-2025-00814 |
-
-<!-- sida 25 -->
-
-Sida
-3(4)
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-09-18 | Yttrande Teknik - parkering, angöring, miljöhus och vägbredd på SKÅRBY 6:37, BN 2025-001547 | TE-2025-00813 |
 | 2025-09-15 | Yttrande Teknik - Godkännande av teknisk anläggning - Nötegång 1:49, KS-2025-00586 | TE-2025-00812 |
 | 2025-09-30 | Yttrande Teknik - Samråd, Detaljplan för seniorbostäder inom Skörvalla 1:116 i Särö, KS-2023-00211 | TE-2025-00808 |
@@ -903,15 +947,20 @@ Sida
 | 2025-09-15 | Yttrande Teknik - Samråd, Ändring av del av detaljplan K35 och T16 inom Spoven 1, Tingbergsskolan | TE-2025-00796 |
 | 2025-09-17 | Yttrande Teknik - Betänkandet - Ett nationellt förbud mot tiggeri - KS-2025-00530 | TE-2025-00614 |
 | 2025-09-18 | Yttrande Teknik - Detaljplan för skola inom del av Åsa 5:246, BN 2022-00005 | TE-2025-00776 |
+| 2025-09-08 | Yttrande Teknik - gällande konflikt med ledningar och om placering utgör olägenhet för trafiken, BN 2025-001531 | TE-2025-00675 |
+| 2025-09-22 | Yttrande Teknik - trafiksäkerhetsbedömning - Korsningen Hällingsjövägen – Ålgårdavägen | TE-2025-00557 |
+
+<!-- sida 24 -->
+
+Sida
+2(4)
+
+<!-- sida 25 -->
+
+Sida
+3(4)
 
 <!-- sida 26 -->
 
 Sida
 4(4)
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
-| 2025-09-08 | Yttrande Teknik - gällande konflikt med ledningar och om placering utgör olägenhet för trafiken, BN 2025-001531 | TE-2025-00675 |
-| 2025-09-22 | Yttrande Teknik - trafiksäkerhetsbedömning - Korsningen Hällingsjövägen – Ålgårdavägen | TE-2025-00557 |

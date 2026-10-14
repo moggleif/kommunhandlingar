@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3f323d7b19afcca1016ab8a/17652859463
 sha256: 398c0445d148f4821e08067334c51c422a6085055e95b329012a2af0fd68288e
 bytes: 13931584
 sidor: 181
-hamtad: 2026-10-08T00:25:11+00:00
-konverterad: 2026-10-08T00:26:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:20:55+00:00
+konverterad: 2026-10-14T08:21:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [51]
-figurer: null
-tolkade: null
+figurer: [22, 46, 51, 52, 53, 55, 58, 62, 63, 65, 66, 67, 68, 69, 70, 81, 85, 91, 96, 102, 111, 112, 116, 129, 130, 131, 132, 135, 138, 153, 155, 157, 159, 168, 175, 177]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3986,23 +3986,13 @@ som exploatören utför och bekostar inom den egna kvartersmarken.
 
 Antagandehandling                                          34 (63)
 
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
+[Tabell 86-87-1](handlingar.tabeller/86-87-1.csv)
 
 |  |  |
 | --- | --- |
 | Exploatör | Plankostnad |
 | Fastighet/part<br>Exploatör | Ekonomisk konsekvens (betalar)<br>Utbyggnad av allmän plats (enskilt<br>huvudmannaskap) |
-
-<!-- sida 87 -->
-
-Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
-
-Antagandehandling                                          35 (63)
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
 | Fastighetsägarna i planområdet<br>(gemensamhetsanläggning) | Drift och underhåll av allmän plats<br>(enskilt huvudmannaskap) |
-| --- | --- |
 | Exploatör | Inlösen av rättighet (allmän plats,<br>utrymme gemensamhetsanläggning) |
 | Exploatör | Ev. tillstånd från Trafikverket att ansluta<br>ny gata till allmän väg, Göteborgsvägen |
 | Exploatör | Exploateringsbidrag, inlösen av mark för<br>kommunal allmän plats samt nödvändiga<br>anläggningar utanför planområdet<br>(vänstersvängfält) |
@@ -4018,6 +4008,12 @@ Antagandehandling                                          35 (63)
 | Exploatören | Ev. sanering av förorenad mark |
 | Exploatören | Lantmäteriförrättning avseende<br>avstyckning av bostadsfastigheter och<br>fastighetsreglering av allmän plats med<br>kommunalt huvudmannaskap, bildande<br>och omprövning av<br>gemensamhetsanläggningar, bildande av<br>samfällighetsförening. |
 | Kommunen/ledningshavare | Lantmäteriförrättning avseende<br>ledningsrätt för allmänna ledningar |
+
+<!-- sida 87 -->
+
+Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
+
+Antagandehandling                                          35 (63)
 
 <!-- sida 88 -->
 
@@ -4877,7 +4873,7 @@ fastigheter och för berörda gemensamhetsanläggningar och rättigheter inom pl
 
 Antagandehandling                                          53 (63)
 
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
+[Tabell 105-106-1](handlingar.tabeller/105-106-1.csv)
 
 |  |  |
 | --- | --- |
@@ -4895,6 +4891,15 @@ Antagandehandling                                          53 (63)
 | Sintorp 4:260 | Ska upplåta mark för nya allmänna<br>ledningar och nätstation |
 | Sintorp 4:260 | Ska avstå mark för bostadsändamål (B) till<br>Rågelund 1:115. |
 | Sintorp 4:261 | Ska avstå allmän platsmark till kommunen<br>(PARK och NATUR) |
+| Sintorp 4:261 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GATA, PARK och ev. kvartersmark) |
+| Sintorp 4:261 | Ska upplåta mark för nya allmänna<br>ledningar, pumpstation och nätstation |
+| Sintorp 4:6 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
+| Sintorp 4:6 | Ska upplåta mark för nya allmänna<br>ledningar |
+| Påtorp s:1 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
+| Påtorp s:1 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GC-VÄG) |
+| Gemensamhetsanläggning, Sintorp ga:3 | Ska omprövas |
+| Officialservitut, utrymme för Sintorp ga:3<br>(akt 1384-10/3) | Ska ändras |
+| Avtalsservitut, kraftledning (akt IM-<br>77/2451) | Kan upphävas när ledningen flyttats |
 
 <!-- sida 106 -->
 
@@ -4929,19 +4934,6 @@ påverkan att jordbruksmark tas i anspråk men i avvägningen som gjordes i komm
 Den aktuella detaljplanen uppfyller intentionerna i översiktsplanen. En utökning av antalet
 
 Antagandehandling                                          54 (63)
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| Sintorp 4:261 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GATA, PARK och ev. kvartersmark) |
-| --- | --- |
-| Sintorp 4:261 | Ska upplåta mark för nya allmänna<br>ledningar, pumpstation och nätstation |
-| Sintorp 4:6 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
-| Sintorp 4:6 | Ska upplåta mark för nya allmänna<br>ledningar |
-| Påtorp s:1 | Ska avstå allmän platsmark till kommunen<br>(PARK) |
-| Påtorp s:1 | Ska upplåta mark till ny<br>gemensamhetsanläggning, (allmän plats,<br>GC-VÄG) |
-| Gemensamhetsanläggning, Sintorp ga:3 | Ska omprövas |
-| Officialservitut, utrymme för Sintorp ga:3<br>(akt 1384-10/3) | Ska ändras |
-| Avtalsservitut, kraftledning (akt IM-<br>77/2451) | Kan upphävas när ledningen flyttats |
 
 <!-- sida 107 -->
 
@@ -7405,7 +7397,7 @@ fastigheterna och för berörda gemensamhetsanläggningar och rättigheter inom 
 
 Samrådshandling                                            27 (32)
 
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
+[Tabell 157-158-1](handlingar.tabeller/157-158-1.csv)
 
 |  |  |
 | --- | --- |
@@ -7413,6 +7405,13 @@ Samrådshandling                                            27 (32)
 | Fastighet/Rättighet<br>Bukärr 1:30 | Konsekvens<br>Avstyckning av kvartersmark för<br>bostadsändamål, ca 2522 kvm. (Gul) |
 | Bukärr 1:30 | Ska avstå mark för allmän plats med<br>kommunalt ändamål PARK , ca 303 kvm<br>1<br>(Grön). Fastighetsregleras till Nötegång<br>1:91. |
 | Bukärr 1:30 | Ska upplåta mark för<br>gemensamhetsanläggning för GATA<br>(allmän plats med enskilt huvudmannaskap),<br>ca 676 kvm (Turkos). |
+| Nötegång 1:91 | Ska överlåta mark för kvartersmark för<br>centrumändamål till Bukärr 1:30, ca 1112<br>kvm (Orange). |
+| Gemensamhetsanläggning Bukärr GA:13 | Ska omprövas till antal delägare. Ny<br>delägare blir den nya fastigheten för<br>kvartersmark med bostadsändamål<br>Eventuellt omprövas anläggningen till sin<br>omfattning. |
+| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-89/41841.1) | Oförändrad |
+| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-93/13820.1) | Oförändrad |
+| Avtalsservitut, ändamål kraftledning<br>(akt D202000193709:1.1) | Oförändrad |
+| Avtalsservitut, ändamål Väg<br>(akt 1384IM-10/17025.1) | Servitutet upphävs då GATA blir allmän<br>platsmark med enskilt huvudmannaskap.<br>Berörd fastighet kommer att ingå i<br>gemensamhetsanläggningen och få rättighet<br>att nyttja gatan för utfart. |
+| Ledningsrätt, ändamål vatten och avlopp<br>(akt 13-SLÄ-3730.1) | Oförändrad |
 
 <!-- sida 158 -->
 
@@ -7443,17 +7442,6 @@ inramning till området och bidrar till identiteten. Planförslaget innebär int
 tas bort och den nya bebyggelsen kan anpassas gestaltningsmässigt efter Särögården.
 
 Samrådshandling                                            28 (32)
-
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-| Nötegång 1:91 | Ska överlåta mark för kvartersmark för<br>centrumändamål till Bukärr 1:30, ca 1112<br>kvm (Orange). |
-| --- | --- |
-| Gemensamhetsanläggning Bukärr GA:13 | Ska omprövas till antal delägare. Ny<br>delägare blir den nya fastigheten för<br>kvartersmark med bostadsändamål<br>Eventuellt omprövas anläggningen till sin<br>omfattning. |
-| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-89/41841.1) | Oförändrad |
-| Avtalsservitut, ändamål kraftledning<br>(akt 13-IM2-93/13820.1) | Oförändrad |
-| Avtalsservitut, ändamål kraftledning<br>(akt D202000193709:1.1) | Oförändrad |
-| Avtalsservitut, ändamål Väg<br>(akt 1384IM-10/17025.1) | Servitutet upphävs då GATA blir allmän<br>platsmark med enskilt huvudmannaskap.<br>Berörd fastighet kommer att ingå i<br>gemensamhetsanläggningen och få rättighet<br>att nyttja gatan för utfart. |
-| Ledningsrätt, ändamål vatten och avlopp<br>(akt 13-SLÄ-3730.1) | Oförändrad |
 
 <!-- sida 159 -->
 

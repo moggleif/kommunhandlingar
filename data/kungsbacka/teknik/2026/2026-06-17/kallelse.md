@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.41e129a519eb4ab19c42931/17811879633
 sha256: bf7ce69c9a4d7de462132e6553cf8d143b320b94a5a9ad070120bee90bc645bf
 bytes: 145897
 sidor: 3
-hamtad: 2026-10-08T00:46:14+00:00
-konverterad: 2026-10-08T00:46:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:39:18+00:00
+konverterad: 2026-10-14T08:39:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -53,15 +53,50 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 3. | VA-Verksamhetsområde 2025<br>Föredragande: Emma Green<br>Blomroos & Hannes Rydberg,<br>17:20 – 17:40 | TE-2026-<br>00267 | Nämnden för Teknik godkänner<br>verksamhetsområden 2025 i enlighet med bilagor<br>1 – 13, daterade 2026-05-07 och översänder dem till<br>kommunfullmäktige för fastställande. |
-| 4. | Omfördelning av<br>investeringsmedel inom<br>skatteportföljer, 2026 omgång 2<br>Föredragande: Emir Halalkic,<br>17:40 – 18:00 | TE-2026-<br>00281 | Nämnden för Teknik beslutar att omfördela medel<br>mellan underportföljer enligt tabell 2, daterad 2026-<br>05-27. |
-| 5. | Omfördelning av<br>underportföljer för Vatten &<br>Avlopp 2026<br>Föredragande: Catarina<br>Sundberg,<br>18:00 – 18:15 | TE-2026-<br>00485 | Nämnden för Teknik beslutar att för 2026 omfördela<br>medel inom investeringsbudget för VA mellan<br>underportföljer enligt nedanstående tabell:<br>Portfölj - Procentuell fördelning av tillgängliga<br>medel juni 2026.<br>VA Teknik - 0,5%<br>Vattenproduktion – VA - 15,7%<br>VA- ledningsnät - 45,0%<br>Avloppsrening - 13,1%<br>VA-omvandling - 12,9%<br>Exploatering - 12,8% |
-| 6. | Återvinningscentral i Södra<br>Kungsbacka<br>Föredragande: Maria<br>Samuelsson & Catarina<br>Sundberg,<br>18:15 – 18:30 | TE-2026-<br>00456 | Nämnden för Teknik beslutar att inte anlägga en<br>tillfällig återvinningscentral, samt att istället hänvisa<br>till befintliga anläggningar och komplettera med<br>tillfälliga insamlingslösningar. |
-| 7. | Information efter<br>återremittering av Kungsbacka<br>kommuns åtgärdsplan för<br>lekplatser 2023–2028<br>Föredragande: Emir Halalkic,<br>18:30 – 19:05 | TE-2026-<br>00210 | Nämnden för Teknik beslutar att uppdatera<br>åtgärdsplan för lekplatser 2023–2028 enligt<br>justeringar i åtgärdslistan.<br>Nämnden för Teknik beslutar att lekplatsen vid<br>Lundegrens gata ska underhållas till nivå<br>motsvarande dagens. |
+3\.  VA-Verksamhetsområde 2025 TE-2026- Nämnden för Teknik godkänner
+00267     verksamhetsområden 2025 i enlighet med bilagor
+Föredragande: Emma Green        1 – 13, daterade 2026-05-07 och översänder dem till
+Blomroos & Hannes Rydberg,      kommunfullmäktige för fastställande.
+17:20 – 17:40
+
+4\.  Omfördelning av       TE-2026-  Nämnden för Teknik beslutar att omfördela medel
+investeringsmedel inom 00281    mellan underportföljer enligt tabell 2, daterad 2026-
+skatteportföljer, 2026 omgång 2 05-27.
+
+Föredragande: Emir Halalkic,
+17:40 – 18:00
+
+5\.  Omfördelning av       TE-2026-  Nämnden för Teknik beslutar att för 2026 omfördela
+underportföljer för Vatten & 00485 medel inom investeringsbudget för VA mellan
+Avlopp 2026                     underportföljer enligt nedanstående tabell:
+Portfölj - Procentuell fördelning av tillgängliga
+Föredragande: Catarina          medel juni 2026.
+
+Sundberg,                       VA Teknik - 0,5%
+18:00 – 18:15                   Vattenproduktion – VA - 15,7%
+VA- ledningsnät - 45,0%
+Avloppsrening - 13,1%
+VA-omvandling - 12,9%
+Exploatering - 12,8%
+
+6\.  Återvinningscentral i Södra TE-2026- Nämnden för Teknik beslutar att inte anlägga en
+Kungsbacka            00456     tillfällig återvinningscentral, samt att istället hänvisa
+till befintliga anläggningar och komplettera med
+Föredragande: Maria             tillfälliga insamlingslösningar.
+Samuelsson & Catarina
+Sundberg,
+18:15 – 18:30
+
+7\.  Information efter     TE-2026-  Nämnden för Teknik beslutar att uppdatera
+återremittering av Kungsbacka 00210 åtgärdsplan för lekplatser 2023–2028 enligt
+kommuns åtgärdsplan för         justeringar i åtgärdslistan.
+lekplatser 2023–2028            Nämnden för Teknik beslutar att lekplatsen vid
+
+Lundegrens gata ska underhållas till nivå
+Föredragande: Emir Halalkic,    motsvarande dagens.
+18:30 – 19:05
 
 <!-- sida 3 -->
 

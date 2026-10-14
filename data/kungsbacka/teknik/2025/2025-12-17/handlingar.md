@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e55f00c19afcd92d2837ea2/1765524595
 sha256: 1b8d8caaddf728d1637499ab73341967166a2ce6893c4cf7246dc29c45e98539
 bytes: 18869490
 sidor: 140
-hamtad: 2026-10-08T01:25:17+00:00
-konverterad: 2026-10-08T01:26:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:10:42+00:00
+konverterad: 2026-10-14T09:12:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 119, 120, 121, 122, 123, 124, 125, 126, 131, 132]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok]
+tal_obekraftade: [3, 4, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 119, 120, 121, 122, 123, 124, 125, 126, 131, 132]
+figurer: [3, 4, 10, 11, 12, 13, 14, 15, 22, 23, 24, 25, 26, 66, 116, 117]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -82,6 +82,27 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (6)
 
+Budgetfördelning
+Portfölj Portföljnamn     Projekt Namn                2026
+
+8 650
+540 KBN Accessnät    XXX    KBN Infrastruktur accessnät 000
+10 200
+541 KBN Stamnät      XXX    KBN Infrastruktur stamnät 000
+500
+XXX    KBN Övervakning      000
+KBN Verksamhetssystem       1 300
+XXX    nätinformation       000
+200
+XXX    KBN Reinvesteringar Accessnät 000
+150
+543 KBN Reinvesteringar
+XXX    KBN Reinvesteringar Stamnät 000
+KBN Reinvesteringar Hårdvara & 1 000
+XXX    aktiv utrustning     000
+22 000
+Summa                000
+
 Tabell 2. Projekt med tilldelade medel 2026. Projektnummer kommer att tilldelas av ekonomienheten.
 
 Beslutsunderlag
@@ -102,19 +123,6 @@ portföljer och projekt som används till investeringsbudgeten, för att bättre
 processer. Kungsbacka bredbandsnät är en investeringsintensiv verksamhet, där avskrivnings- och
 räntekostnader utgår en större del av driftbudgeten.
 Därför önskar verksamheten förändra portföljerna till nedanstående förslag;
-
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
-
-| Portfölj | Portföljnamn | Projekt | Namn | Budgetfördelning<br>2026 |
-| --- | --- | --- | --- | --- |
-| 540 | KBN Accessnät | XXX | KBN Infrastruktur accessnät | 8 650<br>000 |
-| 541 | KBN Stamnät | XXX | KBN Infrastruktur stamnät | 10 200<br>000 |
-|  |  | XXX | KBN Övervakning | 500<br>000 |
-|  |  | XXX | KBN Verksamhetssystem<br>nätinformation | 1 300<br>000 |
-| 543 | KBN Reinvesteringar | XXX | KBN Reinvesteringar Accessnät | 200<br>000 |
-|  |  | XXX | KBN Reinvesteringar Stamnät | 150<br>000 |
-|  |  | XXX | KBN Reinvesteringar Hårdvara &<br>aktiv utrustning | 1 000<br>000 |
-|  |  |  | Summa | 22 000<br>000 |
 
 <!-- sida 3 -->
 
@@ -336,14 +344,22 @@ vad som beslutades för i juni 2025. Förvaltningen ämnar därför ombudgetera 
 
 | Projekt | Namn | Budgetfördelning<br>2026 |
 | --- | --- | --- |
-| XXX | KBN Infrastruktur accessnät | 8 650<br>000 |
-| XXX | KBN Infrastruktur stamnät | 10 200<br>000 |
-| XXX | KBN Övervakning | 500<br>000 |
-| XXX | KBN Verksamhetssystem<br>nätinformation | 1 300<br>000 |
-| XXX | KBN Reinvesteringar Accessnät | 200<br>000 |
-| XXX | KBN Reinvesteringar Stamnät | 150<br>000 |
-| XXX | KBN Reinvesteringar Hårdvara &<br>aktiv utrustning | 1 000<br>000 |
-|  | Summa | 22 000<br>000 |
+|  |  | 8 650 |
+| XXX | KBN Infrastruktur accessnät | 000 |
+|  |  | 10 200 |
+| XXX | KBN Infrastruktur stamnät | 000 |
+|  |  | 500 |
+| XXX | KBN Övervakning | 000 |
+|  | KBN Verksamhetssystem | 1 300 |
+| XXX | nätinformation | 000 |
+|  |  | 200 |
+| XXX | KBN Reinvesteringar Accessnät | 000 |
+|  |  | 150 |
+| XXX | KBN Reinvesteringar Stamnät | 000 |
+|  | KBN Reinvesteringar Hårdvara & | 1 000 |
+| XXX | aktiv utrustning | 000 |
+|  |  | 22 000 |
+|  | Summa | 000 |
 
 <!-- sida 6 -->
 
@@ -4972,7 +4988,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(4)
 
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
+[Tabell 133-136-1](handlingar.tabeller/133-136-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -4984,16 +5000,6 @@ Sida
 | 2025-11-19 | Yttrande Teknik - Upplag på parkeringsyta Göteborgsvägen | TE-2025-01033 |
 | 2025-11-19 | Yttrande Teknik - Ljusmanifest för mänskliga rättigheter, Badhusparken | TE-2025-01028 |
 | 2025-11-19 | Yttrande Teknik - Uteservering Tao kitchen | TE-2025-01021 |
-
-<!-- sida 134 -->
-
-Sida
-2(4)
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-11-19 | Yttrande Teknik - Angående parkering, Kungsbacka 6:29, BN 2025-000767 | TE-2025-01057 |
 | 2025-11-19 | Yttrande Teknik - Placering av infartsväg från kommunal väg, Algusered 1:154, BN 2025-001872 | TE-2025-01056 |
 | 2025-11-20 | Yttrande Teknik - Byggetablering Åkervägen med maskinupplag | TE-2025-01050 |
@@ -5005,16 +5011,6 @@ Sida
 | 2025-11-19 | Yttrande Teknik - vändplats för sopbil samt placering av sopkärl, Torkelstorp 8:2, BN 2025-002177 | TE-2025-01037 |
 | 2025-11-07 | Yttrande Teknik - Uppställning av litteraturvagn Åsa station | TE-2025-01027 |
 | 2025-11-18 | Yttrande Teknik - Enskild avloppsanläggning, Varekulla 1:9, MH-2025-3775 | TE-2025-01025 |
-
-<!-- sida 135 -->
-
-Sida
-3(4)
-
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-11-04 | Yttrande Teknik - Uppställning av litteraturvagn Kungsbacka station | TE-2025-01013 |
 | 2025-11-21 | Yttrande Teknik - parkeringslösning, behov, VA-lösning och avfallshantering, Släps-kullen 1:402, BN 2025-001858 | TE-2025-01020 |
 | 2025-11-03 | Yttrande Teknik Transportdispens TRV 2025/114595 | TE-2025-01017 |
@@ -5026,20 +5022,25 @@ Sida
 | 2025-11-27 | Yttrande Teknik - Parkering, avfallshantering, trafiksäkerhet, in-och utfart, Duvehed 2:46 BN 2025-002207 | TE-2025-00982 |
 | 2025-11-06 | Yttrande Teknik - gällande godkännande av teknisk anläggning - Kungsbacka 5:4, 26152016, KS-2025-00781 | TE-2025-00973 |
 | 2025-11-24 | Yttrande Teknik - Bygglov för nybyggnation av 72 enbostadshus, Tölö 3:8 m. fl, BN 2024-002494 | TE-2025-00972 |
+| 2025-11-03 | Yttrande Teknik - Begäran om yttrande - parkeringslösning, angöringsplats, miljöhus, avfallshantering och trafiksäkerhet, Varla<br>10:26, BN 2025-001888 | TE-2025-00971 |
+| 2025-11-07 | Yttrande Teknik - parkering för cyckel och bil, miljöhus, vägbredd, angöring och plats för sopbil, GJUTAREN 1, BN 2025-000599 | TE-2025-00966 |
+| 2025-11-05 | Yttrande Teknik - kapacitet på VA-ledning, vändplats för sopbil, Torkelstorp 5:11, BN 2025-001202 | TE-2025-00957 |
+| 2025-11-04 | Yttrande Teknik - uppförande av mur, Kyvik 5:397, BN 2024-001181 | TE-2025-00950 |
+
+<!-- sida 134 -->
+
+Sida
+2(4)
+
+<!-- sida 135 -->
+
+Sida
+3(4)
 
 <!-- sida 136 -->
 
 Sida
 4(4)
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
-| 2025-11-03 | Yttrande Teknik - Begäran om yttrande - parkeringslösning, angöringsplats, miljöhus, avfallshantering och trafiksäkerhet, Varla<br>10:26, BN 2025-001888 | TE-2025-00971 |
-| 2025-11-07 | Yttrande Teknik - parkering för cyckel och bil, miljöhus, vägbredd, angöring och plats för sopbil, GJUTAREN 1, BN 2025-000599 | TE-2025-00966 |
-| 2025-11-05 | Yttrande Teknik - kapacitet på VA-ledning, vändplats för sopbil, Torkelstorp 5:11, BN 2025-001202 | TE-2025-00957 |
-| 2025-11-04 | Yttrande Teknik - uppförande av mur, Kyvik 5:397, BN 2024-001181 | TE-2025-00950 |
 
 <!-- sida 137 -->
 
@@ -5053,6 +5054,31 @@ Delegeringsbeslut Teknik
 
 Delegeringsbeslut under november, rapportering i december
 
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning     Lagrum       Delegat   omfattning    Taget beslut och datum för beslutet
+2.1.11    Dataskyddsförord Dataskydds- Hantera 1 hanterad personuppgiftsincident, i
+ningen artikel 33 kontakt, personuppgiftsincide ärende: TE-2025-01035
+och 34                 nter
+
+3.13      GDPR artikel 35 FC     Beslut med    Beslut om att installera
+(Beslut taget                    anledning av  besöksräknare och utföra
+enligt tidigare                  konsekvensbedömni
+flödesmätning, taget den 25
+delegerings-                     ng avseende
+september. Ärende TE-2025-00882
+förteckning)                     dataskydd
+2.1.31                 VC Trafik och Sluta avtal inom Tecknat avtal om drift och underhåll
+utemiljö  verksamhetsområde av sjösäkerhets-anordningar (SSA)
+som chef äger AVTAL-2025-00420, 2025-10-21.
+ansvar över
+2.4.21                 Trafik-   Upphävanden av 0 st beslut om upphävande av lokala
+ingenjör  inaktuella    trafikföreskrifter
+trafikföreskrifter
+2.4.4     10 kap.      Trafik-   Beslut om tillfälliga 5 st beslut om tillfälliga
+trafikförordninge ingenjör trafikföreskrifter trafikföreskrifter angående
+n (1998:1276)
+
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -5061,16 +5087,6 @@ Telefon 0300-83 40 00
 www.kungsbacka.se
 
 [Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 2.1.11 | Dataskyddsförord<br>ningen artikel 33<br>och 34 | Dataskydds-<br>kontakt, | Hantera<br>personuppgiftsincide<br>nter | 1 hanterad personuppgiftsincident, i<br>ärende: TE-2025-01035 |
-| 3.13<br>(Beslut taget<br>enligt tidigare<br>delegerings-<br>förteckning) | GDPR artikel 35 | FC | Beslut med<br>anledning av<br>konsekvensbedömni<br>ng avseende<br>dataskydd | Beslut om att installera<br>besöksräknare och utföra<br>flödesmätning, taget den 25<br>september. Ärende TE-2025-00882 |
-| 2.1.31 |  | VC Trafik och<br>utemiljö | Sluta avtal inom<br>verksamhetsområde<br>som chef äger<br>ansvar över | Tecknat avtal om drift och underhåll<br>av sjösäkerhets-anordningar (SSA)<br>AVTAL-2025-00420, 2025-10-21. |
-| 2.4.21 |  | Trafik-<br>ingenjör | Upphävanden av<br>inaktuella<br>trafikföreskrifter | 0 st beslut om upphävande av lokala<br>trafikföreskrifter |
-| 2.4.4 | 10 kap.<br>trafikförordninge<br>n (1998:1276) | Trafik-<br>ingenjör | Beslut om tillfälliga<br>trafikföreskrifter | 5 st beslut om tillfälliga<br>trafikföreskrifter angående<br>1384 2025-<br>00373 Resecentrum<br>1384 2025-<br>00374 Kungsbacka torg<br>1384 2025-<br>00375 Storgatan<br>1384 2025-<br>00376 Kyrkogatan<br>1384 2025-<br>00377 Norra Torggatan |
-
-[Tabell 137-2](handlingar.tabeller/137-2.csv)
 
 | 1384 2025-<br>00373 | Resecentrum |
 | --- | --- |
@@ -5083,24 +5099,53 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (4)
 
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning     Lagrum       Delegat   omfattning    Taget beslut och datum för beslutet
+2.4.5     10 kap.      Trafik-   Revidering av 3 st reviderade befintliga permanenta
+trafikförordninge ingenjör befintliga föreskrifter
+n (1998:1276)          permanenta
+föreskrifter
+
+2.4.8     13 kap. 3 §  Samordnare Beslut till  4 beslut till transportör om undantag
+
+trafikförordninge      transportör och från bestämmelserna om största
+n (1998:1276) 4        yttrande till tillåtna fordonsbredd, -längd och -vikt
+kap. 12 §, 15 § 17     Trafikverket om 6 yttrande till Trafikverket om
+§                      undantag från undantag från bestämmelserna om
+trafikförordninge      bestämmelserna om största tillåtna fordonsbredd, -längd
+n                      största tillåtna och -vikt
+fordonsbredd, -längd
+och -vikt
+2.4.10    10 kap. 14 § Trafik-   Beslut om     6st beslut om föreskrifter vid
+trafikförordninge ingenjör föreskrifter vid vägarbete eller liknande arbete samt
+n (1998:1276)          vägarbete eller under kortare tid vid skada eller risk
+liknande arbete för skada på väg
+samt under kortare
+tid vid skada eller
+risk för skada på väg
+
+2.4.13    5 § lag (1976:206) Trafikövervak Beslut om Felparkeringsavgifter (gatumark):
+om           are       felparkeringsavgift - 505 st
+felparkeringsavgif
+samt kontrollavgift
+t och 1 § lag
+vid olovlig parkering Kontrollavgifter (tomtmark):
+(1984:318) om
+\- 104 st
+kontrollavgift vid
+olovlig parkering
+2.4.14    Vägmärkesförord Samordnare Beslut om tillstånd 9 st beslut om tillstånd att schakta i
+ningen SFS             att schakta i gator gator och trafikanordningsplan.
+
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
-
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 2.4.5 | 10 kap.<br>trafikförordninge<br>n (1998:1276) | Trafik-<br>ingenjör | Revidering av<br>befintliga<br>permanenta<br>föreskrifter | 3 st reviderade befintliga permanenta<br>föreskrifter<br>1384 2025- Snipens<br>00365 pendelparkering<br>1384 2025-<br>00366 Söderåleden<br>1384 2025-<br>00367 Söderåleden |
-| 2.4.8 | 13 kap. 3 §<br>trafikförordninge<br>n (1998:1276) 4<br>kap. 12 §, 15 § 17<br>§<br>trafikförordninge<br>n | Samordnare | Beslut till<br>transportör och<br>yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt | 4 beslut till transportör om undantag<br>från bestämmelserna om största<br>tillåtna fordonsbredd, -längd och -vikt<br>6 yttrande till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -längd<br>och -vikt |
-| 2.4.10 | 10 kap. 14 §<br>trafikförordninge<br>n (1998:1276) | Trafik-<br>ingenjör | Beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete<br>samt under kortare<br>tid vid skada eller<br>risk för skada på väg | 6st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2025-<br>00368 Mor Marias väg<br>1384 2025-<br>00369 Gjutarevägen<br>1384 2025-<br>00370 Skolmästarevägen<br>1384 2025-<br>00371 Snickarevägen<br>1384 2025-<br>00372 Skomakarevägen<br>1384 2025-<br>00378 Granitvägen |
-| 2.4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgif<br>t och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervak<br>are | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift<br>vid olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 505 st<br>Kontrollavgifter (tomtmark):<br>- 104 st |
-| 2.4.14 | Vägmärkesförord<br>ningen SFS | Samordnare | Beslut om tillstånd<br>att schakta i gator | 9 st beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-
-[Tabell 138-2](handlingar.tabeller/138-2.csv)
 
 | 1384 2025-<br>00365 | Snipens<br>pendelparkering |
 | --- | --- |
 | 1384 2025-<br>00366 | Söderåleden |
 | 1384 2025-<br>00367 | Söderåleden |
 
-[Tabell 138-3](handlingar.tabeller/138-3.csv)
+[Tabell 138-2](handlingar.tabeller/138-2.csv)
 
 | 1384 2025-<br>00368 | Mor Marias väg |
 | --- | --- |
@@ -5114,17 +5159,52 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
+Punkt i
+delegeringsor          Ansvarig  Delegeringens
+dning     Lagrum       Delegat   omfattning    Taget beslut och datum för beslutet
+2007:90 AFS            och vägar för vilka
+1999:3 49 § 81 §       kommunen är
+(a-e)                  huvudman och vid
+Ordningslagen 3        behov kräva
+kap. 4 § Plan och      säkerhet för
+Bygglagen 6 Kap.       beräknade
+21                     kostnader för
+återställande av
+kommunens
+anläggningar
+2.4.15    Vägmärkesförord Samordnare Godkännande av 36 st beslut om enbart
+ningen SFS             trafikanordningsplan trafikanordningsplan
+2007:90 AFS
+1999:3 49 § 81 §
 
-| Punkt i<br>delegeringsor<br>dning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | 2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap.<br>21 |  | och vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva<br>säkerhet för<br>beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar |  |
-| 2.4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § | Samordnare | Godkännande av<br>trafikanordningsplan | 36 st beslut om enbart<br>trafikanordningsplan |
-| 2.4.16 | 13 kap. och 8 §<br>trafikförordninge<br>n (1998:1276) | Färdtjänstutr<br>edare | Beslut om<br>parkeringstillstånd<br>för rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 31<br>Avslagna: 5 |
-| 2.4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 2.5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutr<br>edare | Beslut om tillstånd<br>till färdtjänst med<br>regelkompletteringa<br>r | Beslut om färdtjänst<br>Beviljade: 86<br>Avslagna: 4 |
-| 2.5.5 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutr<br>edare | Beslut om tillstånd<br>till riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 19<br>Avslagna: 2 delavslag |
-| 2.8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikati<br>on | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 251127, 2 st |
+(a-e)
+Ordningslagen 3
+kap. 4 §
+2.4.16    13 kap. och 8 § Färdtjänstutr Beslut om Beslut om parkeringstillstånd för
+trafikförordninge edare parkeringstillstånd rörelsehindrad
+n (1998:1276)
+för rörelsehindrade Beviljade: 31
+Avslagna: 5
+2.4.17    Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 kap Utemiljö avseende begagnade Teknik.
+EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+2.5.1     6–9 §§ lag   Färdtjänstutr Beslut om tillstånd Beslut om färdtjänst
+(1997:736) om edare    till färdtjänst med Beviljade: 86
+färdtjänst
+regelkompletteringa Avslagna: 4
+r
+2.5.5     4–7 §§ lag   Färdtjänstutr Beslut om tillstånd Beslut om tillstånd till riksfärdtjänst
+(1997:735) om edare    till riksfärdtjänst Beviljade: 19
+riksfärdtjänst
+Avslagna: 2 delavslag
+2.8.3     37§ Lokala   Anette    Besluta om    251127, 2 st
+avfallsföreskrifter Englund, godkännande av
+för Kungsbacka administratör kompostering av
+kommun       Kund &    matavfall
+Kommunikati
+on
 
 <!-- sida 140 -->
 

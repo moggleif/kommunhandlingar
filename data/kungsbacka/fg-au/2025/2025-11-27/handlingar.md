@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbea9045/1763979558
 sha256: 90e274ce2125200e788e01af13f9705d8f79a8202c424266c5d7e9109522ebfd
 bytes: 12089906
 sidor: 131
-hamtad: 2026-10-07T23:28:49+00:00
-konverterad: 2026-10-07T23:29:26+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:33:29+00:00
+konverterad: 2026-10-14T07:34:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [108, 109, 110, 111]
-figurer: null
-tolkade: null
+figurer: [20, 21, 101, 102, 103]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,23 +67,23 @@ KUNGSBACKA  KOMMUN
 | 7. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 14:05-14:10<br>Gustav Sjöström, ekonomichef | FG-2025-00718 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad grundskola<br>mellan Varberg, Mark och Kungsbacka följs från<br>och med 2026 01 01. |
 | 8. | Interkommunal ersättning inom<br>GR - GRFS: 2025-00201<br>Kl 14:10-14:15<br>Gustav Sjöström, ekonomichef | FG-2025-00588 | Nämnden för Förskola & Grundskola beslutar att<br>följa förbundsstyrelsen inom Göteborgsregionens<br>rekommendation att med avstämningstidpunkt<br>den 15:e respektive månad, fastställa<br>interkommunal ersättning för förskola,<br>pedagogisk omsorg, förskoleklass, grundskola,<br>fritidshem, anpassad grundskola och ISGR<br>kalenderåret 2025 i enlighet med innehållet i<br>prislista. |
 | 9. | Samverkansavtal för förskola<br>och pedagogisk omsorg i<br>Göteborgsregionen 2026-01-01<br>- 2029-12-31<br>Kl 14:15-14:25<br>Lars Sundbom, utvecklare | FG-2025-00585 | Nämnden för Förskola & Grundskola ställer sig<br>bakom Samverkansavtal för förskola och<br>pedagogisk omsorg i Göteborgsregionen 2026-<br>2029 och överlämnar detta som sitt yttrande till<br>kommunstyrelsen. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 11. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 12. | Beredning av motion - Avskaffa<br>religiöst motiverad specialkost i<br>förskola och skola (KS-2025-<br>00457)<br>Kl 14:25-15:05<br>Tove Bender, utredare | FG-2025-00499 | Nämnden för Förskola & Grundskola avslår<br>motionen med hänvisning till att det skulle strida<br>mot diskrimineringslagen att besluta om att<br>avskaffa religiöst motiverad specialkost i<br>Förskola & Grundskola. |
 |  | Paus 15:05-15:15 |  |  |
 | 13. | Ansökan om placering av barn i<br>förskola<br>Kl 15:15-15:35<br>Frida Byrsten, verksamhetschef | FG-2025-00681 | Ansökan om placering på Måå förskola för<br>eleverna beviljas. |
 | 14. | Ansökan om fullgörande av<br>skolplikt på annat sätt vid<br>utlandsvistelse, 24 kap 23§ -<br>Kullaviksskolan<br>’<br>Kl 15:35-15:50<br>Frida Byrsten, verksamhetschef | FG-2025-00633 | Ansökan om fullgörande av skolplikt på annat<br>sätt för eleven genom skolgång på Sanuk-<br>Svenska skolan i Thailand medges för perioden<br>2026-01-08 till och med 2026-02-08.<br>Om förutsättningarna för beviljande förändras<br>kan nämnden komma att ompröva sitt beslut. |
+| 15. | Intern kontrollplan 2026<br>Kl 15:50-16:20<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026 |
+| 16. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025<br>Kl 16:20-16:30<br>Frida Byrsten, verksamhetschef | FG-2025-00005 | Arbetsutskottet har tagit del av rapporten och<br>antecknar rapporten till protokollet. |
+| 17. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
+| 18. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Allmogevägens förskola vid den<br>beslutade sammanslagningen av Hede förskola<br>och Snickaregårdens förskola 2026-01-01. |
+| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:30-16:45<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,16 +93,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Intern kontrollplan 2026<br>Kl 15:50-16:20<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026 |
-| 16. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025<br>Kl 16:20-16:30<br>Frida Byrsten, verksamhetschef | FG-2025-00005 | Arbetsutskottet har tagit del av rapporten och<br>antecknar rapporten till protokollet. |
-| 17. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
-| 18. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Allmogevägens förskola vid den<br>beslutade sammanslagningen av Hede förskola<br>och Snickaregårdens förskola 2026-01-01. |
-| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:30-16:45<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -887,11 +877,14 @@ Nationell målsättning
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete            9
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
 |  | I förskolan får varje barn en utbildning av hög kvalitet som ger barnet goda möjligheter till lek, rörelse,<br>utveckling och lärande samt förbereder för fortsatt utbildning. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Delmål 1. Varje<br>barn med rätt till<br>förskola har lika<br>tillgång till<br>utbildning. | Delmål 2. Varje<br>barn får en trygg<br>och god miljö där<br>utbildningen<br>bildar en helhet av<br>omsorg,<br>utveckling och<br>lärande. | Delmål 3. Varje<br>barn får en<br>utbildning som<br>uppmuntrar till<br>lek och rörelse<br>samt ger den<br>ledning och<br>stimulans det | Delmål 4. Varje<br>barn som är i<br>behov av stöd får<br>det stöd den<br>behöver. | Delmål 5. Varje<br>barn stimuleras i<br>sin<br>språkutveckling i<br>svenska och ges<br>goda möjligheter<br>att utveckla sin |
+|  |  |  | behöver för att<br>kunna nå så långt<br>som möjligt i sitt<br>lärande och sin<br>utveckling. |  | förmåga att<br>kommunicera. |
+| Huvudman<br>nens<br>bedömning | Till stor del | Till stor del | Till stor del | Till stor del | Till stor del |
+| Resultat | Hög andel<br>placerade barn:<br>98,2 % av alla 3-5<br>åringar.<br>FG stöttar<br>nyanlända att<br>ansöka till<br>förskola.<br>Förvaltningsöverg<br>ripande samarbete<br>kring ukrainska<br>flyktingar.<br>Huvudmannen<br>följer inte upp<br>planerad och<br>faktisk närvaro<br>för inskrivna barn<br>i förskolan. | Få anmälningar<br>misstanke<br>kränkande<br>behandling.<br>Fortsatt behov av<br>att problematisera<br>kring<br>uppfattningar om<br>vad som är en<br>kränkning eller<br>inte. | Utemiljön<br>utmanar<br>- Utformning<br>- Förmåga att<br>använda utemiljön<br>som en<br>pedagogisk<br>lärmiljö | Rektorer uttrycker<br>att de inte har<br>tillräckligt med<br>resurser för att ge<br>stöd till barn i<br>behov av särskilt<br>stöd.<br>Utmaningar i att<br>anpassa<br>verksamheten<br>utifrån barns<br>behov, på grund<br>av till ex. hög<br>beläggning och<br>personalfrånvaro | Många insatser<br>som stärker och<br>ger stöd: TIFT,<br>TAKK,<br>Mångfaldens<br>förskola |
 
 <!-- sida 26 -->
 
@@ -919,14 +912,6 @@ Rektorer kan också ange alternativet Ej undersökt i år. Syftet med detta svar
 inte finns tillräckliga valida underlag för en bedömning.
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           10
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-|  | I förskolan får varje barn en utbildning av hög kvalitet som ger barnet goda möjligheter till lek, rörelse,<br>utveckling och lärande samt förbereder för fortsatt utbildning. |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | behöver för att<br>kunna nå så långt<br>som möjligt i sitt<br>lärande och sin<br>utveckling. |  | förmåga att<br>kommunicera. |
-| Huvudman<br>nens<br>bedömning | Till stor del | Till stor del | Till stor del | Till stor del | Till stor del |
-| Resultat | Hög andel<br>placerade barn:<br>98,2 % av alla 3-5<br>åringar.<br>FG stöttar<br>nyanlända att<br>ansöka till<br>förskola.<br>Förvaltningsöverg<br>ripande samarbete<br>kring ukrainska<br>flyktingar.<br>Huvudmannen<br>följer inte upp<br>planerad och<br>faktisk närvaro<br>för inskrivna barn<br>i förskolan. | Få anmälningar<br>misstanke<br>kränkande<br>behandling.<br>Fortsatt behov av<br>att problematisera<br>kring<br>uppfattningar om<br>vad som är en<br>kränkning eller<br>inte. | Utemiljön<br>utmanar<br>- Utformning<br>- Förmåga att<br>använda utemiljön<br>som en<br>pedagogisk<br>lärmiljö | Rektorer uttrycker<br>att de inte har<br>tillräckligt med<br>resurser för att ge<br>stöd till barn i<br>behov av särskilt<br>stöd.<br>Utmaningar i att<br>anpassa<br>verksamheten<br>utifrån barns<br>behov, på grund<br>av till ex. hög<br>beläggning och<br>personalfrånvaro | Många insatser<br>som stärker och<br>ger stöd: TIFT,<br>TAKK,<br>Mångfaldens<br>förskola |
 
 <!-- sida 27 -->
 
@@ -1394,11 +1379,14 @@ Nationell målsättning
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           19
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 |  | I grundskolan får varje elev en utbildning av hög kvalitet som ger eleven goda möjligheter att inhämta<br>och utveckla kunskaper och värden samt ger en god grund för fortsatt utbildning. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Delmål 1. Varje<br>elev har de<br>kunskaper den<br>behöver för att<br>vara väl förberedd<br>för fortsatt<br>utbildning. | Delmål 2. Varje<br>elev får en<br>utbildning som<br>präglas av<br>trygghet och en<br>undervisning som | Delmål 3. Varje<br>elev får en<br>undervisning som<br>ger den ledning<br>och stimulans<br>eleven behöver<br>för att kunna nå så | Delmål 4. Varje<br>elev som är i<br>behov av stöd får<br>det stöd den<br>behöver. | Delmål<br>5.<br>Varje<br>elev<br>kan<br>läsa<br>och | Delmål<br>6.<br>Varje<br>elev<br>kan<br>använd<br>a sig av |
+|  |  | präglas av<br>studiero. | långt som möjligt<br>i sitt lärande och<br>sin utveckling. |  | använd<br>a det<br>svenska<br>språket<br>på ett<br>nyanser<br>at sätt. | matema<br>tiskt<br>tänkand<br>e för<br>vidare<br>studier<br>och i<br>vardags<br>livet. |
+| Huvudman<br>nens<br>bedömning | Till stor del | Till viss del | Till stor del | Helt | Till<br>viss del | Till<br>viss del |
+| Resultat | Andel högre<br>betyg (A-B) har<br>ökat för<br>integrerade<br>elever. | Utmaningar i<br>elevgrupp<br>Kollaskolan 1-6.<br>Lokalerna är<br>begränsande |  |  | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen |
 
 <!-- sida 36 -->
 
@@ -1438,13 +1426,6 @@ Mottagningsteamet har hanterat 29 prövningar för mottagande i anpassad grundsk
 gymnasium. De flesta ärenden har kunnat genomföras enligt plan. Några barn har inte bedömts
 
 Kungsbacka kommun       Systematiskt kvalitetsarbete           20
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-|  |  | präglas av<br>studiero. | långt som möjligt<br>i sitt lärande och<br>sin utveckling. |  | använd<br>a det<br>svenska<br>språket<br>på ett<br>nyanser<br>at sätt. | matema<br>tiskt<br>tänkand<br>e för<br>vidare<br>studier<br>och i<br>vardags<br>livet. |
-| --- | --- | --- | --- | --- | --- | --- |
-| Huvudman<br>nens<br>bedömning | Till stor del | Till viss del | Till stor del | Helt | Till<br>viss del | Till<br>viss del |
-| Resultat | Andel högre<br>betyg (A-B) har<br>ökat för<br>integrerade<br>elever. | Utmaningar i<br>elevgrupp<br>Kollaskolan 1-6.<br>Lokalerna är<br>begränsande |  |  | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen | Huvud<br>man<br>saknar<br>underla<br>g i<br>ämnen |
 
 <!-- sida 37 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c744d6474/1759213508
 sha256: faba97efea9cd887bc9998e720b4e51091e6678dea818be4882e8d67ae487f53
 bytes: 12159688
 sidor: 225
-hamtad: 2026-10-07T23:27:57+00:00
-konverterad: 2026-10-07T23:28:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:32:41+00:00
+konverterad: 2026-10-14T07:33:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [114, 115, 116, 134, 135, 136]
-figurer: null
-tolkade: null
+figurer: [40, 41, 44, 45, 46, 47, 49, 51, 54, 56, 58, 59, 62, 72, 75, 81, 83, 85, 86, 88, 89, 93, 94, 97, 99, 115, 119, 123, 187, 188, 189, 194, 195, 196, 197, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 215, 217, 218, 219, 221, 222, 223, 224]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,22 +69,17 @@ KUNGSBACKA  KOMMUN
 |  | Paus kl 14:10-14:20 |  |  |
 | 9. | Lokalbehov inklusive utblicksår<br>Kl 14:20-14:50<br>Anna Flinck, utvecklingsledare<br>Helen Stenum,<br>utvecklingsledare | FG-2025-00563 | Nämnden för Förskola & Grundskola beslutar:<br>-att godkänna behovsbeskrivning utökat behov<br>för anpassad grundskola.<br>-att godkänna behovsbeskrivning förskoleplatser<br>i Björkris.<br>-att godkänna behovsbeskrivning Onsala skolor.<br>-att godkänna behovsbeskrivning omställning<br>Åsaskolan till 4-9. |
 | 10. | Koncept utbildningslokaler<br>Kl 14:50-15:05<br>Anna Flinck, utvecklingsledare<br>Helen Stenum,<br>utvecklingsledare | FG-2025-00564 | Nämnden för Förskola & Grundskola beslutar:<br>-att ställa sig bakom konceptets Del 1 Riktlinjer<br>Koncept utbildningslokaler. |
+| 11. | Redovisning av samverkan för<br>ökad rörelse 2025<br>Kl 15:05-15:35<br>Pauline Brinck, lärare<br>Maria Grantham, lärare | FG-2025-00567 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
+| 12. | Ansökan från Föreningen<br>Montessoriskolan Majblomman<br>gällande permanent utökning av<br>barnantal | FG-2025-00352 | Nämnden för Förskola & Grundskola avslår<br>ansökan från föreningen Montessoriskolan<br>Majblomman, om permanent utökning av<br>barnantal på förskolan till totalt 36 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från föreningen Montessoriskolan<br>Majblomman, Gottskärsvägen 119, 439 94<br>Onsala, om permanent utökning till totalt 35<br>barn. |
+| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>(adress borttagen), 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
+| 14. | Rapportering olycksfall och<br>tillbud 2<br>Kl 15:35-16:05<br>Helena Hellman, personalchef | FG-2025-00568 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:35<br>Helena Hellman, personalchef<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Redovisning av samverkan för<br>ökad rörelse 2025<br>Kl 15:05-15:35<br>Pauline Brinck, lärare<br>Maria Grantham, lärare | FG-2025-00567 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
-| 12. | Ansökan från Föreningen<br>Montessoriskolan Majblomman<br>gällande permanent utökning av<br>barnantal | FG-2025-00352 | Nämnden för Förskola & Grundskola avslår<br>ansökan från föreningen Montessoriskolan<br>Majblomman, om permanent utökning av<br>barnantal på förskolan till totalt 36 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från föreningen Montessoriskolan<br>Majblomman, Gottskärsvägen 119, 439 94<br>Onsala, om permanent utökning till totalt 35<br>barn. |
-| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>(adress borttagen), 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
-| 14. | Rapportering olycksfall och<br>tillbud 2<br>Kl 15:35-16:05<br>Helena Hellman, personalchef | FG-2025-00568 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:35<br>Helena Hellman, personalchef<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 
 <!-- sida 4 -->
 
@@ -3948,14 +3943,17 @@ SUMMA
 SUMMA PER ARBETSLAG/HUBB
 HUBB  ÅRSKURS 4-6
 
-9
+Klassrum                                         9
+1.12
+Grupprum                                         9
+1.13
+Fritidshem                                       3
+1.14
 
-9
-
-3
-
-3
-3
+Lärararbetsplats                                 3
+1.15
+Samtalsrum                                       3
+1.16
 
 [Tabell 105-1](handlingar.tabeller/105-1.csv)
 
@@ -3989,26 +3987,18 @@ HUBB  ÅRSKURS 4-6
 | 1.10 | Förråd |  | 3 |
 | 1.11 | Städ |  | 3 |
 
-[Tabell 105-4](handlingar.tabeller/105-4.csv)
-
-| 1.12 | Klassrum |
-| --- | --- |
-| 1.13 | Grupprum |
-| 1.14 | Fritidshem |
-| 1.15 | Lärararbetsplats |
-| 1.16 | Samtalsrum |
-
 <!-- sida 106 -->
 
-3
-
-18
-3
-
-3
-
-2
-
+Kapprum                                          3
+1.17
+WC                                              18
+1.18
+RWC                                              3
+1.19
+Förråd                                           3
+1.20
+Städ                                             2
+1.21
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 GEMENSAM  LÄRMILJÖ ÅK 3-6 (PROJEKTANPASSAS)
@@ -4019,32 +4009,25 @@ GEMENSAMMA   LOKALER (PROJEKTANPASSAS)
 SUMMA
 ADMINISTRATION (PROJEKTANPASSAS)
 
-1
+Kontorsrum                                       1
+1.32
 
-1
-
-2
-
-1
-1
-
-1
-
-1
-
+Förråd, kopiering, post                          1
+1.33
+Samtalsrum                                       2
+1.34
+Vilrum/samtalsrum                                1
+1.35
+RWC                                              1
+1.36
+WC                                               1
+1.37
+Konferensrum                                     1
+1.38
 Pausrum                                          1
 1.39
 
 [Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| 1.17 | Kapprum |
-| --- | --- |
-| 1.18 | WC |
-| 1.19 | RWC |
-| 1.20 | Förråd |
-| 1.21 | Städ |
-
-[Tabell 106-2](handlingar.tabeller/106-2.csv)
 
 | 1.22 | Slöjd |  | 1 |
 | --- | --- | --- | --- |
@@ -4055,23 +4038,12 @@ Pausrum                                          1
 | 1.27 | Förråd (musik) |  | 1 |
 | 1.28 | Särskild undervisningsgrupp |  | 2 |
 
-[Tabell 106-3](handlingar.tabeller/106-3.csv)
+[Tabell 106-2](handlingar.tabeller/106-2.csv)
 
 | 1.29 | Bibliotek, mediatek |  | 1 |
 | --- | --- | --- | --- |
 | 1.30 | Grupprum till bibliotek |  | 1 |
 | 1.31 | Förråd |  | 1 |
-
-[Tabell 106-4](handlingar.tabeller/106-4.csv)
-
-| 1.32 | Kontorsrum |
-| --- | --- |
-| 1.33 | Förråd, kopiering, post |
-| 1.34 | Samtalsrum |
-| 1.35 | Vilrum/samtalsrum |
-| 1.36 | RWC |
-| 1.37 | WC |
-| 1.38 | Konferensrum |
 
 <!-- sida 107 -->
 
@@ -4132,7 +4104,7 @@ X
 | 1.55 | BRA |  | 1,25 |
 | 1.56 | BTA |  |  |
 
-[Tabell 107-5](handlingar.tabeller/107-5.csv)
+[Tabell 107-108-5](handlingar.tabeller/107-108-5.csv)
 
 | 1.57 | Teknikrum |
 | --- | --- |
@@ -4140,6 +4112,11 @@ X
 | 1.59 | Data |
 | 1.60 | Åv-hus |
 | 1.61 | Cykelställ |
+| 1.62 | Uteförråd |
+| 1.63 | Utemiljö F-3 |
+| 1.64 | Utemiljö 4-6 |
+| 1.65 | Angöring |
+| 1.66 | Parkering |
 
 <!-- sida 108 -->
 
@@ -4148,15 +4125,6 @@ X
 X
 
 X
-
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
-
-| 1.62 | Uteförråd |
-| --- | --- |
-| 1.63 | Utemiljö F-3 |
-| 1.64 | Utemiljö 4-6 |
-| 1.65 | Angöring |
-| 1.66 | Parkering |
 
 <!-- sida 109 -->
 
@@ -4181,14 +4149,16 @@ Antal (st)
 1561     5,2
 520
 
-32
+```osaker-tabell
+65        585                32
 
-10
+15        135                10
 
-45
+75        225                45
 
-10
-6
+30         90                10
+10         30                 6
+```
 
 [Tabell 109-1](handlingar.tabeller/109-1.csv)
 
@@ -4225,15 +4195,6 @@ Antal (st)
 | 5 | 15 |  |  |  |  |
 | 12 | 36 |  |  |  |  |
 | 2 | 6 |  |  |  |  |
-
-[Tabell 109-5](handlingar.tabeller/109-5.csv)
-
-| 65 | 585 |
-| --- | --- |
-| 15 | 135 |
-| 75 | 225 |
-| 30 | 90 |
-| 10 | 30 |
 
 <!-- sida 110 -->
 
@@ -4336,15 +4297,6 @@ Antal (st)
 |  | 5199,5 | 9,9 |  |  |  |
 |  |  |  |  |  |  |
 
-[Tabell 111-5](handlingar.tabeller/111-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 112 -->
 
 [Tabell 112-1](handlingar.tabeller/112-1.csv)
@@ -4395,29 +4347,6 @@ Antal (st)
 | --- | --- |
 |  |  |
 
-[Tabell 113-5](handlingar.tabeller/113-5.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
-[Tabell 113-6](handlingar.tabeller/113-6.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 114 -->
 
 <!-- sida 115 -->
@@ -4462,20 +4391,6 @@ Plats för 1 större bord och 2 arbetsplatser samt 1 arbetsskåp per pedagog.
 | --- | --- | --- |
 |  |  |  |
 
-[Tabell 117-2](handlingar.tabeller/117-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 118 -->
 
 Även kapphängare och skoställ för pedagoger + torkskåp
@@ -4499,35 +4414,6 @@ Kan samnyttjas med elevhälsan
 Plats för 10 stolar + bord + extra pallar
 
 I närhet av matsal för ca 20 sittplatser (bord, stolar, soffa)
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 118-2](handlingar.tabeller/118-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 118-3](handlingar.tabeller/118-3.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 <!-- sida 119 -->
 
@@ -4553,39 +4439,6 @@ Svällningsfaktor inkluderar innerväggar samt kommunikationsytor. Verklig siffr
 Programarea x svällningsfaktor = BRA
 
 I anslutning till inlastning och kök.
-
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 119-2](handlingar.tabeller/119-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 119-3](handlingar.tabeller/119-3.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 119-4](handlingar.tabeller/119-4.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
 
 <!-- sida 120 -->
 
@@ -4654,22 +4507,25 @@ Tillagningskök
 
 Sittplatser i matsal
 
+Posnr                Lokaltyp
 Antal (st)
 
-1
+Entre/huvudentre                               1
+1.1
 HUBB  ÅRSKURS 7-9
 
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 
 GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
-1
-
-2
-
-1
-
-1
+Slöjd                                          1
+1.22
+Förråd (slöjd)                                 2
+1.23
+Bild                                           1
+1.24
+Förråd (bild)                                  1
+1.25
 
 [Tabell 125-1](handlingar.tabeller/125-1.csv)
 
@@ -4685,12 +4541,6 @@ GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
 
 [Tabell 125-2](handlingar.tabeller/125-2.csv)
 
-| Posnr | Lokaltyp |
-| --- | --- |
-| 1.1 | Entre/huvudentre |
-
-[Tabell 125-3](handlingar.tabeller/125-3.csv)
-
 | 1.2 | Klassrum |  | 18 |
 | --- | --- | --- | --- |
 | 1.3 | Grupprum |  | 18 |
@@ -4703,31 +4553,24 @@ GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
 | 1.10 | Förråd |  | 6 |
 | 1.11 | Städ |  | 6 |
 
-[Tabell 125-4](handlingar.tabeller/125-4.csv)
-
-| 1.22 | Slöjd |
-| --- | --- |
-| 1.23 | Förråd (slöjd) |
-| 1.24 | Bild |
-| 1.25 | Förråd (bild) |
-
 <!-- sida 126 -->
 
-1
-
-2
-1
-
-1
-
-1
-
-2
-
-1
-
-2
-
+Musik                                          1
+1.26
+Grupprum (musik)                               2
+1.27
+Förråd (musik)                                 1
+1.28
+Hem-, kost- och konsumentkunskap (HKK)         1
+1.29
+Förråd (HKK)                                   1
+1.30
+NO (typ kombisal)                              2
+1.31
+Preprum                                        1
+1.32
+Särskild undervisningsgrupp                    2
+1.33
 SUMMA
 
 GEMENSAMMA   LOKALER (PROJEKTANPASSAS)
@@ -4741,18 +4584,6 @@ ELEVHÄLSA  (PROJEKTANPASSAS)
 
 [Tabell 126-1](handlingar.tabeller/126-1.csv)
 
-| 1.26 | Musik |
-| --- | --- |
-| 1.27 | Grupprum (musik) |
-| 1.28 | Förråd (musik) |
-| 1.29 | Hem-, kost- och konsumentkunskap (HKK) |
-| 1.30 | Förråd (HKK) |
-| 1.31 | NO (typ kombisal) |
-| 1.32 | Preprum |
-| 1.33 | Särskild undervisningsgrupp |
-
-[Tabell 126-2](handlingar.tabeller/126-2.csv)
-
 | 1.34 | Biblotek, mediatek |  | 1 |
 | --- | --- | --- | --- |
 | 1.35 | Grupprum (bibliotek) |  | 1 |
@@ -4762,7 +4593,7 @@ ELEVHÄLSA  (PROJEKTANPASSAS)
 | 1.39 | Elevcafé kök |  | 1 |
 | 1.40 | Förråd (elevcafé) |  | 1 |
 
-[Tabell 126-3](handlingar.tabeller/126-3.csv)
+[Tabell 126-2](handlingar.tabeller/126-2.csv)
 
 | 1.32 | Kontorsrum |  | 1 |
 | --- | --- | --- | --- |
@@ -4844,20 +4675,14 @@ X
 
 <!-- sida 128 -->
 
-X
-
-540
-X
-
-X
-
-[Tabell 128-1](handlingar.tabeller/128-1.csv)
-
-| 1.63 | Angöring |
-| --- | --- |
-| 1.64 | Utemiljö\* |
-| 1.65 | Parkering |
-| 1.66 | Parkering |
+Angöring                                       X
+1.63
+Utemiljö\*                                     540
+1.64
+Parkering                                      X
+1.65
+Parkering                                      X
+1.66
 
 <!-- sida 129 -->
 
@@ -4869,9 +4694,15 @@ Mall
 2540     4,7
 423
 
-32
+```osaker-tabell
+220      220                  32
 
-32
+ 10      20
+
+ 70      70                   32
+
+ 15      15
+```
 
 [Tabell 129-1](handlingar.tabeller/129-1.csv)
 
@@ -4915,22 +4746,6 @@ Mall
 | 8 | 48 |  |  |  |  |  |  |
 | 2 | 12 |  |  |  |  |  |  |
 
-[Tabell 129-6](handlingar.tabeller/129-6.csv)
-
-| 220 | 220 |
-| --- | --- |
-| 10 | 20 |
-| 70 | 70 |
-| 15 | 15 |
-
-[Tabell 129-7](handlingar.tabeller/129-7.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 130 -->
 
 ```osaker-tabell
@@ -4958,18 +4773,6 @@ Mall
 
 [Tabell 130-1](handlingar.tabeller/130-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-[Tabell 130-2](handlingar.tabeller/130-2.csv)
-
 | 60 | 60 |  | 32 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15 | 15 |  | 10 |  |  |  |  |
@@ -4979,7 +4782,7 @@ Mall
 | 20 | 20 |  | 4 |  |  |  |  |
 | 10 | 10 |  |  |  |  |  |  |
 
-[Tabell 130-3](handlingar.tabeller/130-3.csv)
+[Tabell 130-2](handlingar.tabeller/130-2.csv)
 
 | 40 | 40 |  | 4 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5011,14 +4814,6 @@ Mall
 
 [Tabell 131-1](handlingar.tabeller/131-1.csv)
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 131-2](handlingar.tabeller/131-2.csv)
-
 | 18 | 18 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25 | 25 |  |  |  |  |  |  |
@@ -5028,39 +4823,19 @@ Mall
 | 8 | 16 |  |  |  |  |  |  |
 | 5 | 10 |  |  |  |  |  |  |
 
-[Tabell 131-3](handlingar.tabeller/131-3.csv)
+[Tabell 131-2](handlingar.tabeller/131-2.csv)
 
 |  | 153 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 42 |  |  |  |  |  |  |
 |  | 294 |  |  |  |  |  |  |
 
-[Tabell 131-4](handlingar.tabeller/131-4.csv)
+[Tabell 131-3](handlingar.tabeller/131-3.csv)
 
 |  | 4311 | 8,0 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 5389 | 10,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-
-[Tabell 131-5](handlingar.tabeller/131-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 131-6](handlingar.tabeller/131-6.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 132 -->
 
@@ -5071,14 +4846,6 @@ Mall
 | 15 | 8100 | 15 |  |
 |  |  |  |  |
 |  |  |  |  |
-
-[Tabell 132-2](handlingar.tabeller/132-2.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 133 -->
 
@@ -5097,36 +4864,6 @@ Ruta att fylla i
 | --- | --- | --- | --- |
 | Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
 |  |  |  | (st) |
-
-[Tabell 133-3](handlingar.tabeller/133-3.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
-[Tabell 133-4](handlingar.tabeller/133-4.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
-[Tabell 133-5](handlingar.tabeller/133-5.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 134 -->
 
@@ -5294,7 +5031,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+[Tabell 147-148-1](handlingar.tabeller/147-148-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -5319,18 +5056,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 1 | 5 | 5 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 35 |  |  |  |  |  |  |
-
-<!-- sida 148 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 95 | 95 |  |
 | 3.2 | Vagnsyta |  | 1 | 10 | 10 |  |
@@ -5346,6 +5071,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
+<!-- sida 148 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 149 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5353,7 +5085,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
+[Tabell 149-150-1](handlingar.tabeller/149-150-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5369,6 +5101,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 150 -->
 
@@ -5377,12 +5111,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 151 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5390,10 +5118,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+[Tabell 151-152-1](handlingar.tabeller/151-152-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -5430,24 +5171,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 153 -->
 
@@ -5548,7 +5271,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 159-1](handlingar.tabeller/159-1.csv)
+[Tabell 159-160-1](handlingar.tabeller/159-160-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -5573,18 +5296,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 2 | 5 | 10 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 40 |  |  |  |  |  |  |
-
-<!-- sida 160 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 118 | 118 |  |
 | 3.2 | Vagnsyta |  | 1 | 14 | 14 |  |
@@ -5600,6 +5311,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
+<!-- sida 160 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 161 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5607,7 +5325,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
+[Tabell 161-162-1](handlingar.tabeller/161-162-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5623,6 +5341,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 162 -->
 
@@ -5631,12 +5351,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 163 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5644,10 +5358,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
+[Tabell 163-164-1](handlingar.tabeller/163-164-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -5684,24 +5411,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 165 -->
 
@@ -5802,7 +5511,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
+[Tabell 171-172-1](handlingar.tabeller/171-172-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -5827,18 +5536,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 1 | 5 | 5 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 35 |  |  |  |  |  |  |
-
-<!-- sida 172 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 97 | 97 |  |
 | 3.2 | Vagnsyta |  | 1 | 12 | 12 |  |
@@ -5854,6 +5551,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
+<!-- sida 172 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 173 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5861,7 +5565,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 173-1](handlingar.tabeller/173-1.csv)
+[Tabell 173-174-1](handlingar.tabeller/173-174-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5877,6 +5581,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 174 -->
 
@@ -5885,12 +5591,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 175 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -5898,10 +5598,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
+[Tabell 175-176-1](handlingar.tabeller/175-176-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -5938,24 +5651,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 176-1](handlingar.tabeller/176-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 177 -->
 

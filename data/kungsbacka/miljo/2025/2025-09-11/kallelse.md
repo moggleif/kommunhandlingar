@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.200e637a19913f2eef1261e1/1757077531
 sha256: f7b8934b58db8af79817bab25ff2778639d73f74ae8f14fa6a1c1dbd2cfa87ae
 bytes: 212712
 sidor: 4
-hamtad: 2026-10-08T07:59:48+00:00
-konverterad: 2026-10-08T07:59:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:55:30+00:00
+konverterad: 2026-10-14T10:55:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -65,23 +65,18 @@ KUNGSBACKA  KOMMUN
 | 7. | Förbud att fortsätta med<br>täktverksamhet<br>Föredragande: Ellen Magnil,<br>Miljö & Hälsoskyddsinspektör | MH-2023-<br>3243 |  | 20<br>min |
 | 8. | Nämnden för Miljö &<br>Hälsoskydds delårsbokslut<br>augusti 2025<br>Föredragande: Christina<br>Nordberg, controller | MH-2025-<br>03580 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner delårsbokslut och prognos 2025. | 10<br>min |
 | 9. | Upphävande av beslut om<br>mätning av badvattenkvalité<br>Föredragande: Tina Carlson,<br>verksamhetschef | MH-2025-<br>04890 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd upphäver<br>beslut om ”Mätning av badvattenkvalité i de<br>badvikar där det bedrivs simskolor och<br>seglarskolor”, antagen av Nämnden för<br>Miljö & Hälsoskydd 2014-11-27 § 151,<br>(diarienummer MH 2014–3222). | 5<br>min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 10. | Anmälan av ordförandebeslut -<br>Yttrande till Kungsbacka<br>kommunstyrelse gällande<br>Naturvårdsverkets förslag till<br>ändringar i föreskrifter (NFS<br>2016:8) om miljörapport och<br>konsekvensutredning | MH-2025-<br>03845 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av<br>delegeringsbeslut från ordförande Niclas<br>Nilsson (M) på grund av brådskande ärende. | 5<br>min |
 | 11. | Anmälan av delegeringsbeslut | MH-2025-<br>00007 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av<br>delegeringsbeslut fattade under perioden<br>2025-08-04 – 2025-08-31. | 2<br>min |
 | 12. | Anmälan av yttranden | MH-2025-<br>00008 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av yttranden<br>fattade under perioden 2025-08-04 – 2025-<br>08-31. | 2<br>min |
 | 13. | Redovisning av inkomna<br>skrivelser | MH-2025-<br>00009 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>redovisningen av inkomna skrivelser till<br>protokollet. | 2<br>min |
 | 14. | Information om avslutat ärende<br>med anledning av att vite inte<br>kan utdömas<br>Föredragande: Tina Carlson,<br>verksamhetschef | MH-2024-<br>05798 |  | 10<br>min |
 | 15. | Information från<br>förvaltningschefen<br>Föredragande: Tina Carlson,<br>verksamhetschef | MH-2025-<br>00010 |  | 15<br>min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 

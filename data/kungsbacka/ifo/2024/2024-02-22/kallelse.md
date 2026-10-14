@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf1f2ba/1708353137
 sha256: 58369930872a17650638425a6911d5c0423e327e1366f150078b568d38ed36f4
 bytes: 114919
 sidor: 5
-hamtad: 2026-10-08T02:22:42+00:00
-konverterad: 2026-10-08T02:22:45+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:00:59+00:00
+konverterad: 2026-10-14T10:01:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-5-1](kallelse.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,34 +67,12 @@ KUNGSBACKA  KOMMUN
 | 9. | Information om lex Sarah samt<br>redovisning av rapporter,<br>utredningar och beslut<br>Helena Nilsson, SAS | IF-2024-<br>00010 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av rapporter, utredningar och beslut<br>enligt lex Sarah. |
 | 10. | Årsuppföljning internkontroll<br>2023<br>Kamilla Julin, utvecklingsledare | IF-2022-<br>00266 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>uppföljningsrapporten av internkontroll 2023. |
 | 11. | Årsredovisning 2023<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00017 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>upprättad årsredovisning 2023. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 12. | Ombudgeteringar och<br>resultatfonder 2023<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2024-<br>00038 | Förslag till beslut<br>Nämnden för Individ och Familjeomsorg godkänner<br>förslag till ombudgetering och resultatfonder 2023. |
 | 13. | Svar över granskning av<br>kompetensförsörjning Nämnden<br>för Individ & Familjeomsorg<br>Kamilla Julin, utvecklingsledare | IF-2023-<br>00372 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg antar svar<br>avseende granskning av kompetensförsörjning till<br>kommunrevisionen, daterad 2024-01-16. |
 | 14. | Årsrapport systematiskt<br>arbetsmiljöarbete<br>Julia Wilholm, personalchef | IF-2024-<br>00046 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>uppföljningen av systematisk arbetsmiljöarbete<br>2023. |
 | 15. | God och nära vård och omsorg<br>Märta Lycken, utvecklingschef | IF-2023-<br>00275 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>årsrapport för God och Nära Vård och Omsorg 2023. |
 | 16. | Initiativärende<br>Sverigedemokraterna - Bjuda in<br>Knas Hemma till ett<br>nämndmöte<br>Ivan Stipic, förvaltningschef | IF-2023-<br>00371 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg bjuder in<br>organisationen Knas hemma till ett kommande<br>sammanträde.<br>Nämnden för Individ & Familjeomsorg anser<br>initiativet besvarat. |
 | 17. | Initiativärende (M), (L), (KD),<br>(C), (S) - Ansökan till<br>kommunstyrelsen om bidrag till<br>hälsofrämjande åtgärder till<br>Individ och Familj inom daglig<br>verksamhet | IF-2024-<br>00048 | Förslag till beslut |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 18. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>2023<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00020 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisning av ej verkställda gynnande beslut enligt<br>socialtjänstlagen, SoL, och enligt lag om stöd och<br>service till vissa funktionshindrade, LSS, för kvartal<br>4 2023. |
 | 19. | Månadsuppföljning till nämnd<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00100 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 20. | Information från förvaltningen | IF-2023-<br>00001 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
@@ -103,6 +81,22 @@ KUNGSBACKA  KOMMUN
 | 23. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
 | 24. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
 | 25. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
+| 26. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
+| 27. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00118 | Förslag till beslut<br>Sekretessärende |
+| 28. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00119 | Förslag till beslut<br>Sekretessärende |
+| 29. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00120 | Förslag till beslut<br>Sekretessärende |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 
@@ -112,12 +106,3 @@ KUNGSBACKA  KOMMUN
 
 Tommy Rydfeldt                    Josefine Jönsson
 Ordförande (L)                    nämndsekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 26. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
-| 27. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00118 | Förslag till beslut<br>Sekretessärende |
-| 28. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00119 | Förslag till beslut<br>Sekretessärende |
-| 29. | Nedläggning av<br>faderskapsutredning, FB<br>Emelie Sandberg, biträdande<br>förvaltningschef | IF-2023-<br>00120 | Förslag till beslut<br>Sekretessärende |

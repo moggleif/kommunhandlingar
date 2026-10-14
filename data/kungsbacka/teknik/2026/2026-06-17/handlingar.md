@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.41e129a519eb4ab19c469d5/17812481384
 sha256: 7f2b52cea211568b2bee06d911ee29bfff380a7cc910f2935533635e18448bbb
 bytes: 26837941
 sidor: 124
-hamtad: 2026-10-08T01:35:12+00:00
-konverterad: 2026-10-08T01:35:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:18:19+00:00
+konverterad: 2026-10-14T09:19:00+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
+tal_obekraftade: [84]
+figurer: [6, 7, 8, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 50, 51, 57, 61, 62, 69, 70, 75, 76, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 98, 100]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -625,24 +625,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df     Dg   Totalavgift
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                         kr   103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -      -    50 213 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 213 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 16 -->
 
@@ -716,15 +723,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df      Dg    Totalavgift
+
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                     -     85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%      15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -734,18 +757,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 18 -->
 
@@ -931,6 +942,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      770 kr 1150 kr           1920 kr
 40%   60%
+b) en avgift per m³ levererat vatten 14,50 kr 29,30 kr 43,80 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 770 kr 1150 kr 1920 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,25 kr 0,34 kr 1,59 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -952,13 +970,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        11 (15)
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 14,50 kr<br>33% | 29,30 kr<br>67% |  |  | 43,80 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 770 kr<br>40% | 1150 kr<br>60% |  |  | 1920 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,25 kr<br>79% | 0,34 kr<br>21% | 1,59 kr |
 
 <!-- sida 22 -->
 
@@ -1959,7 +1970,7 @@ Transaktionsidentitet: 0FDEBB869F36B9BD75A85803E4F6C3791B9959D43E
 
 <!-- sida 53 -->
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-55-1](handlingar.tabeller/53-55-1.csv)
 
 | Underportfölj | Projekt | Konto inkomst/utgift | 2026 Budget (tkr) | April Helårsprognos 2026 | Förslag till budget (tkr) | Ökning/ Sänkning (tkr) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2010,13 +2021,7 @@ Transaktionsidentitet: 0FDEBB869F36B9BD75A85803E4F6C3791B9959D43E
 | 512 VA ledningsnät | 550R VUTB Svangatan dagvatten | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
 | 512 VA ledningsnät | 550R VUTB Svangatan dagvatten | 4 Utgift/kostnad | 0 |  | 0 | 0 |
 | 512 VA ledningsnät | 551F VUTB Hedeleden Etapp 1 | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
-
-<!-- sida 54 -->
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 | 512 VA ledningsnät | 551F VUTB Hedeleden Etapp 1 | 4 Utgift/kostnad | 0 | 753 | 753 | 753 |
-| --- | --- | --- | --- | --- | --- | --- |
 | 512 VA ledningsnät | 5550 Vattenkiosk | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
 | 512 VA ledningsnät | 5550 Vattenkiosk | 4 Utgift/kostnad | 0 | 2 300 | 2 300 | 2 300 |
 | 512 VA ledningsnät | 5578 Örsviksvägen ny AD | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
@@ -2064,13 +2069,7 @@ Transaktionsidentitet: 0FDEBB869F36B9BD75A85803E4F6C3791B9959D43E
 | 514 VA omvandling | 551B VOMV 302 Lunden UT | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
 | 514 VA omvandling | 551B VOMV 302 Lunden UT | 4 Utgift/kostnad | 0 | 500 | 500 | 500 |
 | 514 VA omvandling | 551H VOMV Lysholmsvägen Dagvatten | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
-
-<!-- sida 55 -->
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
 | 514 VA omvandling | 551H VOMV Lysholmsvägen Dagvatten | 4 Utgift/kostnad | 100 | 300 | 300 | 200 |
-| --- | --- | --- | --- | --- | --- | --- |
 | 514 VA omvandling | 551I VOMV Vässingsö Fjordskär | 3 Inkomst/intäkt | 0 | 0 | 0 | 0 |
 | 514 VA omvandling | 551I VOMV Vässingsö Fjordskär | 4 Utgift/kostnad | 0 | 300 | 300 | 300 |
 | 514 VA omvandling | 5560 VOMV Släps-Högås | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
@@ -2114,6 +2113,10 @@ Transaktionsidentitet: 0FDEBB869F36B9BD75A85803E4F6C3791B9959D43E
 | 515 VA Exploatering | 7544 VEXP Mariedalskrysset | 3 Inkomst/intäkt | 0 |  | 0 | 0 |
 | 515 VA Exploatering | 7544 VEXP Mariedalskrysset | 4 Utgift/kostnad | 1000 |  | 1 000 | 0 |
 | Summa |  |  | 831 650 | 679 483 | 831 650 | -0 |
+
+<!-- sida 54 -->
+
+<!-- sida 55 -->
 
 <!-- sida 56 -->
 
@@ -4203,59 +4206,115 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7 (12)
 
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
+[Tabell 115-116-1](handlingar.tabeller/115-116-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 13st beslut och datum för beslut<br>1384 2026-00096 Borgmästareplatsen<br>1384 2026-00097 Borgmästareplatsen<br>1384 2026-00098 Borgmästareplatsen<br>1384 2026-00099 Borgmästareplatsen<br>1384 2026-00100 Drottninggatan<br>1384 2026-00101 Drottninggatan<br>1384 2026-00102 Guldgubbegatan<br>1384 2026-00103 Drottninggatan<br>1384 2026-00104 Drottninggatan<br>1384 2026-00105 Gymnasiegatan<br>1384 2026-00106 Södra Nygatan<br>1384 2026-00107 Gymnasiegatan<br>1384 2026-00109 Södra Torggatan |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 1st beslut och datum för beslut<br>1384 2026-00114 Badhusparksparkeringen |
+|  |  |  | Samordnare |  |
+| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag från<br>bestämmelserna om största tillåtna fordonsbredd, -längd och - vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>Ingenjör<br>Samordnare<br>Trafik-<br>samordnare | 6 beslut till transportör och 3 yttrande till Trafikverket |
+| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker | 0st beslut |
+| 2.4.11 | 2 § lagen om flyttning av fordon i vissa fall<br>2 § förordningen om flyttning av fordon i<br>vissa fall | Beslut om flyttning av fordon | Fc<br>Vc Trafik &<br>Utemiljö | 0 beslut |
 
 <!-- sida 116 -->
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8 (12)
 
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
-|  |  |  | Samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag från<br>bestämmelserna om största tillåtna fordonsbredd, -längd och - vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>Ingenjör<br>Samordnare<br>Trafik-<br>samordnare | 6 beslut till transportör och 3 yttrande till Trafikverket |
-| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker | 0st beslut |
-| 2.4.11 | 2 § lagen om flyttning av fordon i vissa fall<br>2 § förordningen om flyttning av fordon i<br>vissa fall | Beslut om flyttning av fordon | Fc<br>Vc Trafik &<br>Utemiljö | 0 beslut |
-
 <!-- sida 117 -->
 
+2.4.13 5 § lag (1976:206) om felparkeringsavgift Beslut om felparkeringsavgift samt kontrollavgift vid olovlig Fc Beslut tagna i april:
+och1 § lag (1984:318) om kontrollavgift vid parkering          Trafik- - Kontrollavgift: 88 st
+olovlig parkering                                              övervakare - Parkeringsanmärkning 551 st
+Beslut tagna i maj:
+\- Kontrollavgift 215 st
+\- Parkeringsanmärkning 720 st
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 11 beslut och datum för beslut…
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för TE-TA 2026-000093 2026-05-04
+Vc Trafik &
+beräknade kostnader för återställande av kommunens
+Ordningslagen 3 kap. 4 §                                       Utemiljö TE-TA 2026-000100 2026-05-06
+anläggningar
+TE-TA 2026-000105 2026-05-06
+Plan och Bygglagen 6 Kap. 21 §                                 Ec drift Gata
+Ec       TE-TA 2026-000108 2026-05-12
+Anläggning TE-TA 2026-000073 2026-05-18
+& Utveckling TE-TA 2026-000107 2026-05-18
+Samordnare TE-TA 2026-000110 2026-05-18
+TE-TA 2026-000111 2026-05-20
+TE-TA 2026-000116 2026-05-20
+TE-TA 2026-000117 2026-05-20
+TE-TA 2026-000120 2026-05-21
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 27 beslut och datum för beslut…
+AFS 1999:3 49 § 81 § (a-e)                                     Vc Trafik & TE-TA 2026-000095 2026-05-06
+Ordningslagen 3 kap. 4 §                                       Utemiljö TE-TA 2026-000102 2026-05-06
+Ec drift Gata
+TE-TA 2026-000103 2026-05-06
+Ec
+TE-TA 2026-000104 2026-05-06
+Anläggning
+& Utveckling TE-TA 2026-000096 2026-05-07
+Samordnar TE-TA 2026-000097 2026-05-07
+e        TE-TA 2026-000098 2026-05-07
+TE-TA 2026-000094 2026-05-08
+TE-TA 2026-000106 2026-05-11
+TE-TA 2026-000109 2026-05-13
+TE-TA 2026-000087 2026-05-18
+TE-TA 2026-000099 2026-05-18
+TE-TA 2026-000101 2026-05-18
+TE-TA 2026-000071 2026-05-20
+TE-TA 2026-000112 2026-05-20
+TE-TA 2026-000113 2026-05-20
+TE-TA 2026-000114 2026-05-20
+TE-TA 2026-000115 2026-05-20
+TE-TA 2026-000119 2026-05-21
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9 (12)
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
-| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare | Beslut tagna i april:<br>- Kontrollavgift: 88 st<br>- Parkeringsanmärkning 551 st<br>Beslut tagna i maj:<br>- Kontrollavgift 215 st<br>- Parkeringsanmärkning 720 st |
-| --- | --- | --- | --- | --- |
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare | 11 beslut och datum för beslut…<br>TE-TA 2026-000093 2026-05-04<br>TE-TA 2026-000100 2026-05-06<br>TE-TA 2026-000105 2026-05-06<br>TE-TA 2026-000108 2026-05-12<br>TE-TA 2026-000073 2026-05-18<br>TE-TA 2026-000107 2026-05-18<br>TE-TA 2026-000110 2026-05-18<br>TE-TA 2026-000111 2026-05-20<br>TE-TA 2026-000116 2026-05-20<br>TE-TA 2026-000117 2026-05-20<br>TE-TA 2026-000120 2026-05-21 |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnar<br>e | 27 beslut och datum för beslut…<br>TE-TA 2026-000095 2026-05-06<br>TE-TA 2026-000102 2026-05-06<br>TE-TA 2026-000103 2026-05-06<br>TE-TA 2026-000104 2026-05-06<br>TE-TA 2026-000096 2026-05-07<br>TE-TA 2026-000097 2026-05-07<br>TE-TA 2026-000098 2026-05-07<br>TE-TA 2026-000094 2026-05-08<br>TE-TA 2026-000106 2026-05-11<br>TE-TA 2026-000109 2026-05-13<br>TE-TA 2026-000087 2026-05-18<br>TE-TA 2026-000099 2026-05-18<br>TE-TA 2026-000101 2026-05-18<br>TE-TA 2026-000071 2026-05-20<br>TE-TA 2026-000112 2026-05-20<br>TE-TA 2026-000113 2026-05-20<br>TE-TA 2026-000114 2026-05-20<br>TE-TA 2026-000115 2026-05-20<br>TE-TA 2026-000119 2026-05-21 |
 
 <!-- sida 118 -->
 
+TE-TA 2026-000084 2026-05-25
+TE-TA 2026-000118 2026-05-27
+TE-TA 2026-000121 2026-05-27
+TE-TA 2026-000122 2026-05-27
+TE-TA 2026-000123 2026-05-27
+TE-TA 2026-000104 2026-05-06
+TE-TA 2026-000016 2026-05-27
+TE-TA 2026-000125 2026-05-27
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Be slut om parkeringstillstånd för rörelsehindrad
+(1998:1276)                                                    Färdtjänst- Beviljade: 25
+utredare
+Avslagna: 2
+2.4.21                         Upphävanden av inaktuella trafikföreskrifter Fc 0st beslut
+Vc Trafik &
+Utemiljö
+Ec Planering
+&
+Utformning
+Ec
+Anläggning
+& Utveckling
+Trafik-
+ingenjör
+Samordnare
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 10 (12)
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-|  |  |  |  | TE-TA 2026-000084 2026-05-25<br>TE-TA 2026-000118 2026-05-27<br>TE-TA 2026-000121 2026-05-27<br>TE-TA 2026-000122 2026-05-27<br>TE-TA 2026-000123 2026-05-27<br>TE-TA 2026-000104 2026-05-06<br>TE-TA 2026-000016 2026-05-27<br>TE-TA 2026-000125 2026-05-27 |
-| --- | --- | --- | --- | --- |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för rörelsehindrad<br>Beviljade: 25<br>Avslagna: 2 |
-| 2.4.21 |  | Upphävanden av inaktuella trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>&<br>Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 0st beslut |
 
 <!-- sida 119 -->
 
 2.4 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 67
+utredare Avslagna: 2
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 12
+utredare Avslagna: 0
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 11 (12)
-
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 67<br>Avslagna: 2 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 12<br>Avslagna: 0 |
 
 <!-- sida 120 -->
 
@@ -4280,7 +4339,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(4)
 
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
+[Tabell 121-124-1](handlingar.tabeller/121-124-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -4292,16 +4351,6 @@ Sida
 | 2026-05-27 | Yttrande Teknik - Musik- och teaterarrangemnang, Borgmästareplatsens temalekplats | TE-2026-00416 |
 | 2026-05-27 | Yttrande Teknik - Blåljusdagen, Kungsbacka torg | TE-2026-00437 |
 | 2026-05-22 | Yttrande Teknik - Byggställning, Gottskärsvägen, A289.918/2026 | TE-2026-00442 |
-
-<!-- sida 122 -->
-
-Sida
-2(4)
-
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-05-28 | Yttrande Teknik - Bygglovsansökan som avviker från detaljplanen, Ölmanäs 8:222, BN 2026-000344 | TE-2026-00444 |
 | 2026-05-21 | Yttrande Teknik - Tillfällig utökning av uteservering Cavaz | TE-2026-00438 |
 | 2026-05-21 | Yttrande Teknik - Tillfällig utökning av uteservering Tullen | TE-2026-00428 |
@@ -4313,16 +4362,6 @@ Sida
 | 2026-05-21 | Yttrande Teknik - Enskild avloppsanläggning, Torpa 19:10, MH-2026-1456 | TE-2026-00429 |
 | 2026-05-13 | Yttrande Teknik - student Drottning Blanka | TE-2026-00379 |
 | 2026-05-12 | Yttrande Teknik - Motionslopp i Åsa | TE-2026-00395 |
-
-<!-- sida 123 -->
-
-Sida
-3(4)
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-05-11 | Yttrande Teknik – Transportdispens TRV 2026/46702 | TE-2026-00411 |
 | 2026-05-11 | Yttrande Teknik - Uppställning av kran, Särö Centrumväg | TE-2026-00401 |
 | 2026-05-08 | Yttrande Teknik – Transportdispens TRV 2026/45813 | TE-2026-00404 |
@@ -4334,16 +4373,6 @@ Sida
 | 2026-05-04 | Yttrande Teknik - Bärförsäljning ÅVS Blomstergatan och P-parkering Varlavägen | TE-2026-00380 |
 | 2026-05-04 | Yttrande Teknik – Transportdispens TRV 2026/43324 | TE-2026-00388 |
 | 2026-05-06 | Yttrande Teknik - Enskild avloppsanläggning, Stuv 1:4, MH-2026-1570 | TE-2026-00389 |
-
-<!-- sida 124 -->
-
-Sida
-4(4)
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-05-05 | Yttrande Teknik - Enskild avloppsanläggning, BALTARED 1:27, MH-2026-1290 | TE-2026-00384 |
 | 2026-05-18 | Yttrande Teknik - Parkering, parkeringslösning och angöringsplats, Kungsbacka 2:31, BN 2026-000035 | TE-2026-00373 |
 | 2026-05-07 | Yttrande Teknik - Placering av transformatorstation, Duvehed 2:14, BN 2026-000475 | TE-2026-00364 |
@@ -4351,3 +4380,18 @@ Sida
 | 2026-05-05 | Yttrande Teknik - Sophämtning och VA-anslutning, Dugatorp 1:3, BN 2026-000162 | TE-2026-00353 |
 | 2026-05-05 | Yttrande Teknik - Dagvattenanläggning och VA-anslutning, Duvehed 2:46, MH-2026-1384 | TE-2026-00310 |
 | 2026-05-22 | Yttrande Teknik - Placering av pumpstation, Staragården 10:1, BN 2026-000263 | TE-2026-00301 |
+
+<!-- sida 122 -->
+
+Sida
+2(4)
+
+<!-- sida 123 -->
+
+Sida
+3(4)
+
+<!-- sida 124 -->
+
+Sida
+4(4)

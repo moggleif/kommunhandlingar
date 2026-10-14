@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194fc/1765442589
 sha256: 862cd659fe036cecdafe0f7d32cd5e22d35d4dda0f13ac9625cc50bdaf4b13f3
 bytes: 97675
 sidor: 10
-hamtad: 2026-10-08T02:01:18+00:00
-konverterad: 2026-10-08T02:01:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:24+00:00
+konverterad: 2026-10-14T09:41:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -301,7 +301,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
+[Tabell 8-9-1](protokoll.tabeller/8-9-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -313,6 +313,9 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Servicelokal Skårby<br>aktivitetsområde | 2025-10-23 | SE-2025-00418 | Lokalbehovsplan 2027-<br>2031 med utblicksår 2032-<br>2036 (KFT-2025-00210) |
 | Lokaler för Kulturskoleverksamhet<br>i Åsa | 2025-10-23 | SE-2025-00418 | Lokalbehovsplan 2027-<br>2031 med utblicksår 2032-<br>2036 (KFT-2025-00210) |
 | Kultur & Fritid - Lokal- och<br>anläggningsstrategi 2026-2041 | 2025-10-23 | SE-2025-00418 | Lokalbehovsplan 2027-<br>2031 med utblicksår 2032-<br>2036 (KFT-2025-00210) |
+| (Kommunfullmäktige)<br>(Beslut § 194) - Antagande av<br>detaljplan för Kungsbacka arena<br>i Kungsbacka stad | 2025-10-23 | SE-2025-00419 | Detaljplan för Kungsbacka<br>Arena (KS-2025-00517) |
+| (Kommunstyrelsen)<br>(Beslut § 226) - Lönestruktur 2026 | 2025-12-02 | SE-2025-00506 | Lönestruktur 2026 |
+| Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse - Lönestruktur 2026 | 2025-12-02 | SE-2025-00506 | Lönestruktur 2026 |
 
 <!-- sida 9 -->
 
@@ -334,13 +337,6 @@ nämnden för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 9-1](protokoll.tabeller/9-1.csv)
-
-| (Kommunfullmäktige)<br>(Beslut § 194) - Antagande av<br>detaljplan för Kungsbacka arena<br>i Kungsbacka stad | 2025-10-23 | SE-2025-00419 | Detaljplan för Kungsbacka<br>Arena (KS-2025-00517) |
-| --- | --- | --- | --- |
-| (Kommunstyrelsen)<br>(Beslut § 226) - Lönestruktur 2026 | 2025-12-02 | SE-2025-00506 | Lönestruktur 2026 |
-| Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse - Lönestruktur 2026 | 2025-12-02 | SE-2025-00506 | Lönestruktur 2026 |
 
 <!-- sida 10 -->
 

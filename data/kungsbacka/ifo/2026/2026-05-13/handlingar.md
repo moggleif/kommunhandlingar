@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4ebbd38019ddcb7e720de73c/1778489785
 sha256: da8ab15f7848fe6ab3bfa543a0cee9483f36ba34627b8586e55ac6aebc5fd458
 bytes: 7205230
 sidor: 702
-hamtad: 2026-10-08T02:38:10+00:00
-konverterad: 2026-10-08T02:39:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:14:56+00:00
+konverterad: 2026-10-14T10:16:00+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [173, 239, 240, 374, 531, 532, 533, 605]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -30136,11 +30136,19 @@ bostäder med särskild service för vuxna (Tabell 5).
 <!-- sida 670 -->
 
 Tabell 5. Kostnadsanalys för kommuner 9 § 9 LSS
+Föreslaget Antal som Extra Extra kostnad Andel av totala kostnaden för
+krav      ska      Kostnad per personal (kr) bostäder med särskild service
+utbildas per år              för vuxna
+(mnkr)
 
+A) 7 650
+Minst 25%          583     19 598      1,4%
+har efter-
+gymnasial B) 2 732 235     7 902       0,6%
+utbildning\*
 Källa: Socialstyrelsens egna beräkningar Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser
 – enhetsundersökningen inom LSS, Socialstyrelsen (2025) och B utgår från data i Kompetens i LSS-boenden
 Socialstyrelsen (2021).
-
 3.3 Kostnader     och   intäkter  för
 
 regionerna
@@ -30174,12 +30182,6 @@ regionernas organisation eller verksamhetsformer.
 
 86 Se 17 § LSS.
 65
-
-[Tabell 670-1](handlingar.tabeller/670-1.csv)
-
-| Föreslaget<br>krav | Antal som<br>ska<br>utbildas | Extra<br>Kostnad<br>per år<br>(mnkr) | Extra kostnad<br>per personal (kr) | Andel av totala kostnaden för<br>bostäder med särskild service<br>för vuxna |
-| --- | --- | --- | --- | --- |
-| Minst 25%<br>har efter-<br>gymnasial<br>utbildning\* | A) 7 650<br>B) 2 732 | 583<br>235 | 19 598<br>7 902 | 1,4%<br>0,6% |
 
 <!-- sida 671 -->
 
@@ -30580,7 +30582,7 @@ Investeringar (belopp i miljoner kronor)
 
 4
 
-[Tabell 683-1](handlingar.tabeller/683-1.csv)
+[Tabell 683-684-1](handlingar.tabeller/683-684-1.csv)
 
 | Miljoner kronor | Bokslut<br>2025 | Utfall Jan-<br>Apr 2026 | Årsbudget<br>2026 | Helårsprog<br>nos 2026 | Avvikelse<br>2026 |
 | --- | --- | --- | --- | --- | --- |
@@ -30598,6 +30600,8 @@ Investeringar (belopp i miljoner kronor)
 | Utgifter |  |  |  |  |  |
 | Investeringar i avgiftsfinansierad<br>verksamhet |  |  |  |  |  |
 | Utgifter |  |  |  |  |  |
+| Inkomster |  |  |  |  |  |
+| Netto | -1,5 | -0,3 | -2,5 | -2 | 0,5 |
 
 <!-- sida 684 -->
 
@@ -30609,13 +30613,6 @@ Nämnden investerar löpande under året. Det uppskattade behovet av investering
 varpå nämnden aviserar ett överskott på knappt 500 000 kronor inom investeringsbudgeten.
 
 5
-
-[Tabell 684-1](handlingar.tabeller/684-1.csv)
-
-| Miljoner kronor | Bokslut<br>2025 | Utfall Jan-<br>Apr 2026 | Årsbudget<br>2026 | Helårsprog<br>nos 2026 | Avvikelse<br>2026 |
-| --- | --- | --- | --- | --- | --- |
-| Inkomster |  |  |  |  |  |
-| Netto | -1,5 | -0,3 | -2,5 | -2 | 0,5 |
 
 <!-- sida 685 -->
 
@@ -30798,7 +30795,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 689-1](handlingar.tabeller/689-1.csv)
+[Tabell 689-692-1](handlingar.tabeller/689-692-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -30813,16 +30810,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 | 2025-06-26 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Tackat nej till sommarvistelse,<br>vill avvakta till hösten. |
 | 2025-09-06 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde vill inte ha insatsen |
 | 2025-09-06 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde har specifika<br>önskemål. Den enskilde medverkar inte till<br>verkställighet, vill avvakta med insatsen till hösten<br>2026. |
-
-<!-- sida 690 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 690-1](handlingar.tabeller/690-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-11-21 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet. Den<br>enskilde vill inte ha insatsen. Planering pågår, inväntar<br>återkoppling. |
 | 2025-12-03 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Vårdnadshavarens behov av stöd har varit ett hinder<br>merparten av väntetiden. Planering pågår. |
 | 2025-12-10 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
@@ -30836,16 +30823,6 @@ KUNGSBACKA  KOMMUN
 | 2025-10-27 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Den enskilde vistas på korttidshem och<br>vill bo kvar där, planering pågår. |
 | 2025-11-21 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Tackat ja till plats 2026-04,<br>inflyttningsdatum inte bestämt. |
 | 2026-01-08 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Placerad genom annan insats. Erbjudits<br>köpt plats med inflyttning 2026-05. |
-
-<!-- sida 691 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 691-1](handlingar.tabeller/691-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2026-01-21 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Erbjudande skickats ut 2026-04, inväntar<br>återkoppling. |
 | 2026-01-21 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Planering pågår. |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
@@ -30858,16 +30835,6 @@ KUNGSBACKA  KOMMUN
 | 2025-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde har specifika önskemål. |
 | 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga mående och förändringar i<br>verksamheten. Erbjudits ny uppstart 2026-04. |
 | 2025-04-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Vill<br>avvakta med uppstart pga hälsoskäl. |
-
-<!-- sida 692 -->
-
-KUNGSBACKA  KOMMUN
-6 (9)
-
-[Tabell 692-1](handlingar.tabeller/692-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-06-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Pga hälsoskäl. Verksamheten<br>har kontinuerlig kontakt. |
 | 2025-09-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde har specifika<br>önskemål och vill avvakta ny uppstart. |
 | 2025-09-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Kontakt och planering pågår för att<br>motivera den enskilde. |
@@ -30880,6 +30847,21 @@ KUNGSBACKA  KOMMUN
 | 2025-12-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde pausade insatsen<br>pga hälsotillstånd. Tackar ja till ny praktikplats,<br>praktikplatsen avbokar samarbetet. Planering pågår för<br>att hitta ny praktikplats. |
 | 2025-12-10 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 
+<!-- sida 690 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 691 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
+
+<!-- sida 692 -->
+
+KUNGSBACKA  KOMMUN
+6 (9)
+
 <!-- sida 693 -->
 
 KUNGSBACKA  KOMMUN
@@ -30887,7 +30869,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 693-1](handlingar.tabeller/693-1.csv)
+[Tabell 693-694-1](handlingar.tabeller/693-694-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -30901,16 +30883,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-06-28 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet,<br>hälsoproblem hos den enskilde. | Avslutat 2026-01-31,<br>på den enskildes<br>begäran. Beviljats<br>annan insats. |
 | 2025-10-08 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde har specifika<br>önskemål. Uppstart planerad till<br>januari 2026. | Verkställt 2026-02-27. |
 | 2025-10-08 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde har specifika<br>önskemål. Uppstart planerad till<br>februari 2026. | Verkställt 2026-01-24. |
-
-<!-- sida 694 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 694-1](handlingar.tabeller/694-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2025-10-19 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt 2026-02-07. |
 | 2025-08-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Erbjudande om<br>plats kommer gå ut februari<br>2026. | Verkställt 2026-04-07. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde tackat nej till<br>erbjudande 2024-02-09. Vill<br>inte avsluta insatsen utan pausa<br>på obestämd tid. | Avslutat 2026-04-03,<br>på den enskildes<br>begäran. |
@@ -30919,6 +30891,11 @@ KUNGSBACKA  KOMMUN
 | 2025-06-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har valt att avsluta sin<br>praktik och pausa insatsen. Den<br>enskilde önskar nu ny<br>praktikplats, planering pågår. | Verkställt 2026-04-14. |
 | 2025-10-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har specifika<br>önskemål. Tackat nej till<br>erbjudande. Fortsatt planering<br>pågår. | Verkställt 2026-02-16. |
 | 2025-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Saknar plats. Tackat ja till<br>uppstart, planering pågår. | Verkställt 2026-02-23. |
+
+<!-- sida 694 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 695 -->
 

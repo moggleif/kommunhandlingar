@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4ebbd38019ddcb7e720de73b/1778489769
 sha256: 042d8a018fdc1ec40ef34f1225693ef4a2f72aff3d2d9366c3f260fc2ec8c22a
 bytes: 174248
 sidor: 4
-hamtad: 2026-10-08T02:24:54+00:00
-konverterad: 2026-10-08T02:25:00+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:03:09+00:00
+konverterad: 2026-10-14T10:03:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,17 +65,7 @@ KUNGSBACKA  KOMMUN
 | 7. | Svar på remiss från<br>Socialstyrelsen - Förslag till<br>föreskrifter och allmänna råd<br>som avser bostad med särskild<br>service enligt LSS<br>Torun Ljungman,<br>utvecklingsledare | IF-2026-<br>00123 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg avger<br>yttrande på remiss av Förslag till föreskrifter och<br>allmänna råd som avser bostad med särskild service<br>enligt LSS. |
 | 8. | Ekonomisk uppföljning och<br>prognos till och med april 2026<br>- Nämnden för Individ &<br>Familjeomsorg<br>Karin Nielsen, enhetschef | IF-2026-<br>00110 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>uppföljning per april och prognos 2026.<br>Nämnden för Individ & Familjeomsorg förklarar<br>paragrafen omedelbart justerad. |
 | 9. | Månadsuppföljning till nämnd<br>Kamilla Julin, enhetschef<br>Julia Wilholm, personalchef | IF-2023-<br>00100 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
 | 10. | Ändring av tidplan 2026 - extra<br>planeringsdag<br>Göran Hjertstrand,<br>förvaltningschef | IF-2022-<br>00213 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg beslutar om<br>en extra planeringsdag den 29 oktober 2026<br>kl 09:00-12:00. |
-| --- | --- | --- | --- |
 | 11. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>kvartal 1 2026<br>Renate Rondolph,<br>verksamhetschef | IF-2026-<br>00019 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisning av ej verkställda gynnande beslut enligt<br>socialtjänstlagen, SoL, och enligt lag om stöd och<br>service till vissa funktionshindrade, LSS, för kvartal<br>1 2026. |
 | 12. | Initiativärende – Direktiv<br>budget 2027 | IF-2026-<br>00116 | Förslag till beslut |
 | 13. | Information från förvaltningen<br>Göran Hjertstrand,<br>förvaltningschef | IF-2023-<br>00001 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
@@ -83,6 +73,12 @@ KUNGSBACKA  KOMMUN
 | 15. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
 | 16. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
 | 17. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 

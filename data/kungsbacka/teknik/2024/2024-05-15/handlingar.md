@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7413c81a18f379bdaa4ffe4/17151791512
 sha256: 2ad9f924de1a3394660d362673f668886c89e44affda4a6dd346a02d04e3aea1
 bytes: 1200732
 sidor: 22
-hamtad: 2026-10-08T00:51:29+00:00
-konverterad: 2026-10-08T00:51:35+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:43:34+00:00
+konverterad: 2026-10-14T08:43:39+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [6, 11]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -541,16 +541,55 @@ KUNGSBACKA KOMMUN                                           2 (5)
 
 KUNGSBACKA KOMMUN                                           3 (5)
 
+Punkt i
+delegeringsord        Ansvarig   Delegeringens
+ning       Lagrum     Delegat    omfattning    Taget beslut och datum för beslutet
+4.10       10 kap. 14 § VC Trafik & Beslut om föreskrifter 3st beslut om föreskrifter vid
+trafikförordnin Utemiljö vid vägarbete eller vägarbete eller liknande arbete samt
+gen        EC Planering & liknande arbete samt under kortare tid vid skada eller risk
+(1998:1276) Utformning under kortare tid vid för skada på väg
+EC Anläggning skada eller risk för
+& Utveckling skada på väg
+Trafikingenjör
+Samordnare
+Vägtekniker
+
+4.11       2 § lagen om VC Trafik & Beslut om flyttning av 3 beslut om flyttning av fordon
+flyttning av Utemiljö fordon
+fordon i vissa EC drift Gata
+fall och 2 § EC Planering &
+förordningen Utformning
+om flyttning av EC Anläggning
+fordon i vissa & Utveckling
+fall       Arbetsledare,
+Trafik-
+samordnare
+Trafikövervaka
+re
+4.13       5 § lag    Trafikövervaka Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om re      felparkeringsavgift - 548 st
+felparkeringsav
+samt kontrollavgift vid
+gift och 1 § lag
+olovlig parkering Kontrollavgifter (tomtmark):
+(1984:318) om
+\- 75 st
+kontrollavgift
+vid olovlig
+parkering
+4.14       Vägmärkesföro VC Trafik & Beslut om tillstånd att 25 beslut om tillstånd att schakta i
+rd ningen SFS Utemiljö schakta i gator och gator och trafikanordningsplan.
+2007:90 AFS EC drift Gata vägar för vilka
+1999:3 49 § 81 EC Anläggning kommunen är
+§ (a-e)    & Utveckling huvudman och vid
+Ordningslagen Vägtekniker behov kräva säkerhet
+3 kap. 4 § Plan       för beräknade
+och Bygglagen         kostnader för
+6 Kap. 21             återställande av
+kommunens
+anläggningar
+
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.10 | 10 kap. 14 §<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om föreskrifter<br>vid vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 3st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2024-<br>00052 Borgmästaregatan<br>1384 2024-<br>00058 Östergatan<br>1384 2024-<br>00059 Västergatan |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa<br>fall och 2 §<br>förordningen<br>om flyttning av<br>fordon i vissa<br>fall | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervaka<br>re | Beslut om flyttning av<br>fordon | 3 beslut om flyttning av fordon |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 548 st<br>Kontrollavgifter (tomtmark):<br>- 75 st |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Beslut om tillstånd att<br>schakta i gator och<br>vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 25 beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
 
 | 1384 2024-<br>00052 | Borgmästaregatan |
 | --- | --- |
@@ -561,17 +600,59 @@ KUNGSBACKA KOMMUN                                           3 (5)
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsplan | 52 beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 18<br>Avslagna: 1 |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 57<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 23<br>Avslagna: 1 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette<br>Englund, Louise<br>-Backman-<br>Smith<br>administratöre<br>r Kund o<br>Kommunikatio<br>n | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 2024-04-04 1 st<br>2024-04-05 1 st |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette<br>Englund, Louise<br>Backman-<br>Smith,<br>administratöre<br>r Kund o<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 240403 1 st<br>240404 2 st<br>240405 3 st<br>240408 1 st<br>240412 1 st<br>240415 1 st<br>240418 3 st<br>240419 2 st<br>240423 2 st |
-| 9.7 |  |  | Beslutat om<br>avslag/utbetalning av<br>skadeståndskrav,<br>ersättningskrav,<br>självrisker och<br>regresskrav i ärende.<br>(belopp upp till 0,5 | - Beslut om utbetalning av<br>ersättningsanspråk angående<br>Kungsbacka bredbandsnäts<br>övertagande av Kanebergsvägens<br>VA EK förenings kanalisation,<br>fiberkablar för optokabel, skarvskåp,<br>brunnar och nodskåp. |
+Punkt i
+delegeringsord        Ansvarig   Delegeringens
+ning       Lagrum     Delegat    omfattning    Taget beslut och datum för beslutet
+4.15       Vägmärkesföro VC Trafik & Godkännande av 52 beslut om enbart
+rd ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning
+§ (a-e)    & Utveckling
+Ordningslagen Vägtekniker
+3 kap. 4 §
+4.16       13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordnin are   parkeringstillstånd för rörelsehindrad
+gen
+rörelsehindrade Beviljade: 18
+(1998:1276)
+Avslagna: 1
+5.1        6–9 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om are     färdtjänst med Beviljade: 57
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 0
+5.3        4–7 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om are     riksfärdtjänst Beviljade: 23
+riksfärdtjänst EC Kansli
+Avslagna: 1
+8.3        37§ Lokala Anette     Besluta om    2024-04-04 1 st
+avfallsföreskrif Englund, Louise godkännande av 2024-04-05 1 st
+ter för    -Backman-  kompostering av
+Kungsbacka            matavfall
+Smith
+kommun
+administratöre
+r Kund o
+Kommunikatio
+n
+8.6        43, 43a §§ Anette     Besluta om tillfälligt 240403 1 st
+Lokala     Englund, Louise uppehåll i 240404 2 st
+avfallsföreskrif Backman- sophämtning 240405 3 st
+ter för
+Smith,                   240408 1 st
+Kungsbacka
+administratöre           240412 1 st
+kommun
+r Kund o                 240415 1 st
+Kommunikatio             240418 3 st
+n                        240419 2 st
+240423 2 st
+9.7                              Beslutat om   - Beslut om utbetalning av
+avslag/utbetalning av ersättningsanspråk angående
+skadeståndskrav, Kungsbacka bredbandsnäts
+ersättningskrav, övertagande av Kanebergsvägens
+självrisker och VA EK förenings kanalisation,
+regresskrav i ärende. fiberkablar för optokabel, skarvskåp,
+(belopp upp till 0,5 brunnar och nodskåp.
 
 <!-- sida 20 -->
 

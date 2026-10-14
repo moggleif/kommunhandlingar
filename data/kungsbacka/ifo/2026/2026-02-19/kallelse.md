@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e008b5de9/1771240395
 sha256: a587d0c7d71f84f95122f582a9be26d6b952224db0c2a8a17eb07baa53fcc94a
 bytes: 203725
 sidor: 5
-hamtad: 2026-10-08T02:24:34+00:00
-konverterad: 2026-10-08T02:24:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:02:51+00:00
+konverterad: 2026-10-14T10:02:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-5-1](kallelse.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Uppföljning och revidering av<br>Riktlinje för systematisk<br>individuppföljning<br>Helena Nilsson, SAS | IF-2018-<br>00082 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg antar<br>reviderad riktlinje för systematisk<br>individuppföljning. |
 | 9. | Information om lex Sarah samt<br>redovisning av rapporter,<br>utredningar och beslut<br>Helena Nilsson, SAS | IF-2026-<br>00009 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av rapporter, utredningar och beslut<br>enligt lex Sarah. |
 | 10. | Uppföljning internkontrollplan<br>2025<br>Kamilla Julin, enhetschef | IF-2024-<br>00304 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>uppföljningsrapporten av internkontroll 2025. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Föreningsbidrag 2026<br>Karin Nielsen, enhetschef | IF-2025-<br>00314 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg fördelar<br>2026 års bidrag, till föreningar som bedriver socialt<br>arbete, med 116 000 kr till föreningen Attention. |
 | 12. | Årsredovisning 2025<br>Karin Nielsen, enhetschef | IF-2025-<br>00165 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>upprättad årsredovisning 2025. |
 | 13. | Ombudgeteringar och<br>resultatfonder 2025<br>Karin Nielsen, enhetschef | IF-2026-<br>00046 | Förslag till beslut<br>Nämnden för Individ och Familjeomsorg godkänner<br>förslag till ombudgetering och resultatfond 2025. |
@@ -84,17 +73,6 @@ KUNGSBACKA  KOMMUN
 | 15. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>kvartal 4 2025<br>Renate Rondolph,<br>verksamhetschef | IF-2025-<br>00159 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisning av ej verkställda gynnande beslut enligt<br>socialtjänstlagen, SoL, och enligt lag om stöd och<br>service till vissa funktionshindrade, LSS, för<br>kvartal 4 2025. |
 | 16. | Månadsuppföljning till nämnd<br>Kamilla Julin, enhetschef<br>Karin Nielsen, enhetschef<br>Julia Wilholm, personalchef | IF-2023-<br>00100 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 17. | Information från förvaltningen<br>Märta Lycken, tf.<br>förvaltningschef | IF-2023-<br>00001 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 18. | Anmälan av ordförandebeslut | IF-2023-<br>00002 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av anmälda ordförandebeslut. |
 | 19. | Anmälan av delegeringsbeslut | IF-2023-<br>00003 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av delegeringsbeslut fattade under<br>perioden 2025-12-01 – 2026-01-31. |
 | 20. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
@@ -103,6 +81,23 @@ KUNGSBACKA  KOMMUN
 | 23. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
 | 24. | Ansökan om vårdnadsöverflytt,<br>FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00125 | Förslag till beslut<br>Sekretessärende |
 | 25. | Ansökan om vårdnadsöverflytt,<br>FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00127 | Förslag till beslut<br>Sekretessärende |
+| 26. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00121 | Förslag till beslut<br>Sekretessärende |
+| 27. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00122 | Förslag till beslut<br>Sekretessärende |
+| 28. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00123 | Förslag till beslut<br>Sekretessärende |
+| 29. | Ansökan om vårdnadsöverflytt,<br>FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00131 | Förslag till beslut<br>Sekretessärende |
+| 30. | Ansökan om främlingspass | IF-2023-<br>00135 | Förslag till beslut<br>Sekretessärende |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 
@@ -112,13 +107,3 @@ KUNGSBACKA  KOMMUN
 
 Tommy Rydfeldt (L)                Josefine Jönsson
 ordförande                        nämndsekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 26. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00121 | Förslag till beslut<br>Sekretessärende |
-| 27. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00122 | Förslag till beslut<br>Sekretessärende |
-| 28. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00123 | Förslag till beslut<br>Sekretessärende |
-| 29. | Ansökan om vårdnadsöverflytt,<br>FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00131 | Förslag till beslut<br>Sekretessärende |
-| 30. | Ansökan om främlingspass | IF-2023-<br>00135 | Förslag till beslut<br>Sekretessärende |

@@ -1577,7 +1577,10 @@ filen (K26), länkad från organets sida.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
     en tabell med en rad per rubrik i varje spår, nämndmålen och
     direktiven i var sin grupp, spåren ordnade efter första år, slag och
-    rubrik, och en kolumn per år.
+    rubrik, och en kolumn per år. Ovanför åren står mandatperioderna
+    (`webbplats/mandatperiod.py`): valet hålls vart fjärde år i alla
+    kommuner, så en period är de fyra åren efter ett valår, räknat från
+    2023. Varannan period är skuggad med en `<col>` per period.
     En lucka är streckad och har ordet "lucka" i kolumnens rubrik. Ett år
     med spåret är en del av ett band med årets status: ett utfall går före
     en rapport, en prognos och beslutet, och ett år utan uppföljning har

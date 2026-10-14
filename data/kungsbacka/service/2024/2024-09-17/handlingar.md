@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.49d36ef2191e50b88501ae51/1726210611
 sha256: b0d2f2db37859771e6dabeaf17e19223f64ef2a2dd0ccf86ad9a9f816ccb5982
 bytes: 1958792
 sidor: 48
-hamtad: 2026-10-08T02:08:59+00:00
-konverterad: 2026-10-08T02:09:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:48:27+00:00
+konverterad: 2026-10-14T09:48:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1751,6 +1751,24 @@ Delårsrapport augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+
+```osaker-tabell
+               2023   2024    2024  avvikelse 2023    2024    delår
+Service, intäkter 487,2 526,0  526,2     0,2   322,5   352,8    30,3
+Service, kostnader -556,8 -581,6 -579,5  2,1   -368,2 -378,3   -10,1
+```
+
+Fastigheter,
+810,9   870,8  869,7    -1,1   539,6   577,7    38,1
+intäkter
+Fastigheter,
+-840,2  -886,2  -902,3   -16,1  -551,5 -595,9   -44,4
+kostnader
+Periodens
+-98,9   -71,0   -85,9   -14,9  -57,6   -43,7    13,9
+resultat
 Sammanfattning - text till kommunstyrelsen
 Nämnden för Service har en delårsprognos på +2,6 miljoner kronor (mkr) jämfört med budget efter ett
 antal regleringar som kommer att genomföras i årsbokslutet. Den positiva avvikelsen motsvarar 0,2
@@ -1778,15 +1796,6 @@ Förändring helårsprognos
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
 
-| Miljoner kronor<br>Service, intäkter | Bokslut<br>2023<br>487,2 | Budget<br>2024<br>526,0 | Prognos<br>2024<br>526,2 | Budget-<br>avvikelse<br>0,2 | Delår<br>2023<br>322,5 | Delår<br>2024<br>352,8 | Avvikelse<br>delår<br>30,3 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Service, kostnader | -556,8 | -581,6 | -579,5 | 2,1 | -368,2 | -378,3 | -10,1 |
-| Fastigheter,<br>intäkter | 810,9 | 870,8 | 869,7 | -1,1 | 539,6 | 577,7 | 38,1 |
-| Fastigheter,<br>kostnader | -840,2 | -886,2 | -902,3 | -16,1 | -551,5 | -595,9 | -44,4 |
-| Periodens<br>resultat | -98,9 | -71,0 | -85,9 | -14,9 | -57,6 | -43,7 | 13,9 |
-
-[Tabell 36-2](handlingar.tabeller/36-2.csv)
-
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |
 | Service | -0,8 | 2,3 | 3,1 |
@@ -1810,37 +1819,52 @@ planerat underhåll.
 
 Budgetavvikelse - Uppföljning per verksamhetsområde
 
+Bokslu Budget Prognos Budget- Delår   Delår Avvikelse
+Verksamhet
+
+```osaker-tabell
+                 t 2023 2024   2024  avvikelse 2023   2024    delår
+Gem. Verks. Intäkt 28,0   29,4   29,4     0,0   18,9    19,6     0,7
+         Kostnad  -39,2  -42,5  -42,2     0,3   -25,1  -27,0    -1,9
+         Netto    -11,2  -13,1  -12,8     0,3    -6,2   -7,4    -1,2
+
+DC       Intäkt   70,9    84,7   83,0    -1,7   47,2    56,6     9,4
+         Kostnad  -78,9  -92,1  -88,0     4,1   -53,8  -56,6    -2,8
+         Netto    -7,9    -7,4   -5,0     2,4    -6,6   0,0      6,6
+
+PF & KS  Intäkt   43,7    48,1   48,6     0,5   28,3    30,9     2,6
+         Kostnad  -66,9  -69,6  -69,3     0,3   -45,2  -47,3    -2,1
+
+         Netto    -23,2  -21,5  -20,7     0,8   -16,9  -16,4     0,5
+Inköp    Intäkt   30,1    31,0   31,8     0,8   19,7    23,0     3,3
+         Kostnad  -36,5  -38,3  -38,2     0,1   -23,6  -23,2     0,4
+
+         Netto    -6,4    -7,3   -6,4     0,9    -3,9   -0,2     3,7
+Måltider Intäkt  226,7   240,3  239,9    -0,4  150,6   160,4     9,8
+
+         Kostnad -245,2 -246,3  -250,1   -3,8  -160,3 -163,2    -2,9
+         Netto    -18,5   -6,0  -10,3    -4,3    -9,7   -2,8     6,9
+Lokalvård Intäkt 126,7   135,9  136,9     1,0   83,8    91,5     7,7
+
+         Kostnad -129,2 -136,2  -135,1    1,1   -86,1  -90,2    -4,1
+         Netto    -2,4    -0,3    1,8     2,1    -2,4   1,3      3,7
+Fastigheter Intäkt 808,5 880,4  878,8    -1,6  551,1   589,5    38,4
+
+         Kostnad -816,1 -873,1  -883,1  -10,0  -548,2 -590,0   -41,8
+         Netto    -7,6    7,3    -4,3   -11,6    2,8    -0,5    -3,3
+
+Lokalförs. Intäkt  2,3    1,8     2,4     0,6    1,8    2,2      0,4
+         Kostnad  -24,1  -24,5  -30,7    -6,2   -16,4  -19,9    -3,5
+         Netto    -21,8  -22,8  -28,3    -5,5   -14,6  -17,8    -3,2
+
+Ram               78,0    71,0   71,0      0    44,5    47,3     2,8
+```
+
+Periodens
+-21,0    0    -14,9   -14,9   -13,0   3,5     16,5
+resultat
+
 35
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Verksamhet<br>Gem. Verks. | Intäkt | Bokslu<br>t 2023<br>28,0 | Budget<br>2024<br>29,4 | Prognos<br>2024<br>29,4 | Budget-<br>avvikelse<br>0,0 | Delår<br>2023<br>18,9 | Delår<br>2024<br>19,6 | Avvikelse<br>delår<br>0,7 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Kostnad | -39,2 | -42,5 | -42,2 | 0,3 | -25,1 | -27,0 | -1,9 |
-|  | Netto | -11,2 | -13,1 | -12,8 | 0,3 | -6,2 | -7,4 | -1,2 |
-| DC | Intäkt | 70,9 | 84,7 | 83,0 | -1,7 | 47,2 | 56,6 | 9,4 |
-|  | Kostnad | -78,9 | -92,1 | -88,0 | 4,1 | -53,8 | -56,6 | -2,8 |
-|  | Netto | -7,9 | -7,4 | -5,0 | 2,4 | -6,6 | 0,0 | 6,6 |
-| PF & KS | Intäkt | 43,7 | 48,1 | 48,6 | 0,5 | 28,3 | 30,9 | 2,6 |
-|  | Kostnad | -66,9 | -69,6 | -69,3 | 0,3 | -45,2 | -47,3 | -2,1 |
-|  | Netto | -23,2 | -21,5 | -20,7 | 0,8 | -16,9 | -16,4 | 0,5 |
-| Inköp | Intäkt | 30,1 | 31,0 | 31,8 | 0,8 | 19,7 | 23,0 | 3,3 |
-|  | Kostnad | -36,5 | -38,3 | -38,2 | 0,1 | -23,6 | -23,2 | 0,4 |
-|  | Netto | -6,4 | -7,3 | -6,4 | 0,9 | -3,9 | -0,2 | 3,7 |
-| Måltider | Intäkt | 226,7 | 240,3 | 239,9 | -0,4 | 150,6 | 160,4 | 9,8 |
-|  | Kostnad | -245,2 | -246,3 | -250,1 | -3,8 | -160,3 | -163,2 | -2,9 |
-|  | Netto | -18,5 | -6,0 | -10,3 | -4,3 | -9,7 | -2,8 | 6,9 |
-| Lokalvård | Intäkt | 126,7 | 135,9 | 136,9 | 1,0 | 83,8 | 91,5 | 7,7 |
-|  | Kostnad | -129,2 | -136,2 | -135,1 | 1,1 | -86,1 | -90,2 | -4,1 |
-|  | Netto | -2,4 | -0,3 | 1,8 | 2,1 | -2,4 | 1,3 | 3,7 |
-| Fastigheter | Intäkt | 808,5 | 880,4 | 878,8 | -1,6 | 551,1 | 589,5 | 38,4 |
-|  | Kostnad | -816,1 | -873,1 | -883,1 | -10,0 | -548,2 | -590,0 | -41,8 |
-|  | Netto | -7,6 | 7,3 | -4,3 | -11,6 | 2,8 | -0,5 | -3,3 |
-| Lokalförs. | Intäkt | 2,3 | 1,8 | 2,4 | 0,6 | 1,8 | 2,2 | 0,4 |
-|  | Kostnad | -24,1 | -24,5 | -30,7 | -6,2 | -16,4 | -19,9 | -3,5 |
-|  | Netto | -21,8 | -22,8 | -28,3 | -5,5 | -14,6 | -17,8 | -3,2 |
-| Ram |  | 78,0 | 71,0 | 71,0 | 0 | 44,5 | 47,3 | 2,8 |
-| Periodens<br>resultat |  | -21,0 | 0 | -14,9 | -14,9 | -13,0 | 3,5 | 16,5 |
 
 <!-- sida 38 -->
 

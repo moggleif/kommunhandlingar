@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.71f581a019cef04592941097/1773729351
 sha256: 552281c31987de0a61b71565012d8e16207c34756c7cdc9a83cd8f50c00b1450
 bytes: 4486831
 sidor: 93
-hamtad: 2026-10-07T23:00:08+00:00
-konverterad: 2026-10-07T23:00:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:08:26+00:00
+konverterad: 2026-10-14T07:08:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [14, 15, 16, 17, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 39, 59, 60, 72, 81]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3156,7 +3156,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 
 <!-- sida 91 -->
 
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
+[Tabell 91-93-1](handlingar.tabeller/91-93-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -3200,13 +3200,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-02-21 02:24 | 262735 | A 4.1 | Avslag |
 | 2025-08-11 20:32 | 223748 | A 4.1 | Avslag |
 | 2026-02-16 17:08 | 261489 | A 4.1 | Avslag |
-
-<!-- sida 92 -->
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
 | 2026-02-10 19:24 | 260337 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-04-23 10:24 | 201945 | A 4.1 | Beviljad |
 | 2025-08-21 09:16 | 227343 | A 4.1 | Beviljad |
 | 2025-08-25 10:56 | 228199 | A 4.1 | Beviljad |
@@ -3247,13 +3241,11 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-02-18 12:08 | 262029 | A 4.1 | Beviljad |
 | 2026-02-22 18:16 | 262877 | A 4.1 | Beviljad |
 | 2026-03-07 06:40 | 266097 | A 4.1 | Avslag |
-
-<!-- sida 93 -->
-
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
 | 2025-03-16 22:24 | 192478 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2026-02-15 14:56 | 261147 | A 4.1 | Avslag |
 | 2026-03-10 13:40 | 266384 | A 4.1 | Avslag |
 | 2026-03-01 14:24 | 264433 | A 4.1 | Beviljad |
+
+<!-- sida 92 -->
+
+<!-- sida 93 -->

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4a9fcfaa1950506f026c6861/1740039512
 sha256: d7492f7dbb28082cfcf834b9976e4a54cc16d2680b8e4fe0c96756c5cd7a7591
 bytes: 1985033
 sidor: 38
-hamtad: 2026-10-08T08:05:20+00:00
-konverterad: 2026-10-08T08:05:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T11:00:28+00:00
+konverterad: 2026-10-14T11:00:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [16]
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -135,8 +135,9 @@ kapp har förvaltningen fokuserat extra på denna tillsyn under hösten. Men per
 
 [Tabell 4-1](handlingar.tabeller/4-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2022<br>0,0 | Utfall 2023<br>0,0 | Utfall 2024<br>0,0 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 0,0 | 0,0 | 0,0 |
 | Kostnader | -0,8 | -1,0 | -0,8 |
 | Netto | -0,8 | -1,0 | -0,8 |
 | Budget, netto | -1,3 | -1,3 | -1,0 |
@@ -144,8 +145,9 @@ kapp har förvaltningen fokuserat extra på denna tillsyn under hösten. Men per
 
 [Tabell 4-2](handlingar.tabeller/4-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2022<br>0,0 | Utfall 2023<br>0,0 | Utfall 2024<br>0,0 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Utgifter | 0,0 | 0,0 | 0,0 |
 | Inkomster | 0,0 | 0,0 | 0,0 |
 | Netto | 0,0 | 0,0 | 0,0 |
 
@@ -263,8 +265,14 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
+Uppföljningsnivå                                       Budgetavvikelse
+Bokslut 2023 Budget 2024 Bokslut 2024
+(belopp i mkr)                                             2024
+Nämnden för Miljö &
+-1,0        -1,0      -0,8           0,2
+Hälsoskydd
+Summa                       -1,0        -1,0      -0,8           0,2
 Kommentarer
-
 Jämfört med budget har nämnden en positiv budgetavvikelse på +0,2 miljoner kronor. Det är i första hand
 kostnaderna för arvoden som varit något lägre är budgeterat för året. De övriga kostnaderna är i balans med
 budget.
@@ -282,12 +290,6 @@ en resultatfond.
 7
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-| Uppföljningsnivå<br>(belopp i mkr)<br>Nämnden för Miljö &<br>Hälsoskydd | Bokslut 2023<br>-1,0 | Budget 2024<br>-1,0 | Bokslut 2024<br>-0,8 | Budgetavvikelse<br>2024<br>0,2 |
-| --- | --- | --- | --- | --- |
-| Summa | -1,0 | -1,0 | -0,8 | 0,2 |
-
-[Tabell 8-2](handlingar.tabeller/8-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2024 |
 | --- | --- | --- | --- |
@@ -705,17 +707,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 21 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5ea575a19367eedc86179a1/17328684636
 sha256: ad43ce3acb93c223b883eb1d261576457cb327b7664b5af90412b34ac02dc8a3
 bytes: 3693178
 sidor: 155
-hamtad: 2026-10-08T08:04:51+00:00
-konverterad: 2026-10-08T08:05:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:00:02+00:00
+konverterad: 2026-10-14T11:00:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
-tal_obekraftade: [118]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
+tal_obekraftade: [118, 138, 149, 155]
+figurer: [5, 13, 30, 76, 108, 128, 132]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -535,11 +535,36 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 | Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
 |  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
 
-[Tabell 14-2](handlingar.tabeller/14-2.csv)
+[Tabell 14-21-2](handlingar.tabeller/14-21-2.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Risken hanteras<br>förvaltningen (uppfattas som inom ramen för<br>saknar personal besvärande för verksamhets-<br>2. Mindre vanligt<br>med berörda planering och<br>rätt/tillräcklig intressenter och kompetens-<br>kompetens kommunen) försörjning. |
 | --- | --- |
 |  | Risk att 3. Kännbar Det finns<br>introduktion av (uppfattas som fungerande<br>nya medarbetare besvärande för checklistor och<br>2. Mindre vanligt<br>inte fungerar som berörda rutiner, ingen<br>tänkt. intressenter och prioriterad risk till<br>kommunen) 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
+| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
+|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
+|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
+|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
+|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
+|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
+|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
+| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
+|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
+|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
+|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
+|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 15 -->
 
@@ -548,29 +573,12 @@ Intern kontrollplan 2025
 
 13
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
-| --- | --- |
-| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
-|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
-|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
-
 <!-- sida 16 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 14
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
-| --- | --- |
-|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
-|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
-|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
 
 <!-- sida 17 -->
 
@@ -579,28 +587,12 @@ Intern kontrollplan 2025
 
 15
 
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
-| --- | --- |
-|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
-
 <!-- sida 18 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 16
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
-| --- | --- |
-| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
-|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
 
 <!-- sida 19 -->
 
@@ -609,12 +601,6 @@ Intern kontrollplan 2025
 
 17
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
-| --- | --- |
-|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 20 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
@@ -622,26 +608,12 @@ Intern kontrollplan 2025
 
 18
 
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-| --- | --- |
-|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 21 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 19
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
-| --- | --- |
-|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
-|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
-|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 22 -->
 
@@ -3308,11 +3280,13 @@ Storhushåll - Hygien
 | Information om allergener | Har säkerställer verksamheten att gästerna kan få information om allergena ingredienser i<br>maträtter som serveras eller på annat sätt säljs och som inte är färdigförpackade? Finns<br>informationen alltid på plats, ex om kocken som lagat inte finns där? Finns tillräcklig<br>kunskap hos personal om olika allergener? |  | B02=2.2 (att de kan lämna rätt<br>information när livsmedlet inte<br>är färdigförpackat) |
 | Spårbarhet | Syftet med kontrollen är att verifiera att det finns spårbarhet och att livsmedlen är redliga.<br>Hur ser verksamheten till att deras leverantörer är registrerade/godkända? Det är lämpligt<br>att välja produkter som du misstänker kan innebära en redlighetsrisk, ex förvaras omärkta i<br>frys. Välj i första hand kött och i andra hand fisk och därefter andra varor. Kan företaget<br>visa att de köpt in minst en så stor mängd av varan som finns i lager. Gör en uppskattning<br>om det är rimligt att uppgifterna stämmer. Stämmer leveransdatum med livsmedlets<br>hållbarhet?<br>Vid misstanke om livsmedelsbedrägeri, kontakta kontrollmyndigheten för det avsändande<br>företaget för samarbete och för att se att leverantören finns registrerad/godkänd. | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (Spårbarhet) |
 
-[Tabell 81-2](handlingar.tabeller/81-2.csv)
+[Tabell 81-82-2](handlingar.tabeller/81-82-2.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Tid/temperaturprocesser | Hur säkerställer verksamheten att deras temperaturprocesser inte leder till att livsmedel<br>blir hälsofarliga? Fokusera där det finns störst risker i verksamheten.<br>Finns några speciellt känsliga råvaror eller processer? T.ex. nedkylning, tillagning av<br>kyckling, medium-rare hamburgare eller sushi. Om det är möjligt, verifiera kontrollen<br>genom att göra egna temperaturmätningar. Vissa temperaturkrav i avsnitt VIII i 853/2004<br>är tillämpliga på detaljhandeln (ex infrysning av rå fisk för sushi). | Kontrollwiki - temperatur | J08=10.8 (bibehållen kylkedja,<br>varmhållning, upptining)<br>K01=11.1 (system för att ta<br>hand om riskerna: nedkylning,<br>tillagning, återupphettning) |
+| Säker hantering av livsmedel<br>genom hela flödet | Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk att<br>korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur utbildas ny<br>personal inom området? Fokusera på den hantering eller de livsmedel där det är störst<br>risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av rengöring fokusera på redskap och<br>utrustning i kontakt med aktuella livsmedel.<br>Ambulerande verksamheter hanterar vanligtvis vatten i dunkar/tankar. Kontrollera att de<br>har en säker hantering av vatten som är avsett att drickas eller komma i kontakt med<br>livsmedel.<br>Verifiera kontrollen genom att prata med den person som utför aktuell hantering och<br>genom att granska faktiska förhållanden. | Kontrollwiki - Kontroll av<br>mikrobiologiska faror<br>Kontrollwiki: personlig hygien<br>Kontrollwiki: rengöring<br>Kontrollwiki - Norovirus<br>smittspridning<br>Kontrollwiki: mobila<br>verksamheter<br>Kontrollwiki:<br>vattenförsörjning | J03=10.3 (hygien under<br>processens gång, faktiska<br>förhållanden)<br>J04=10.4 (personlig hygien,<br>faktiska förhållanden)<br>J05=10.5 (känner personalen<br>till arbetssätt)<br>J07=10.7 (tillgång till vatten<br>(ambulerande verksamheter) |
+| Skadedjur | Hur arbetar man förebyggande att skadedjur inte tar sig in i verksamheten? Vad har man<br>för rutiner om skadedjur skulle ta sig in i verksamheten? Är lokalerna täta?<br>Kontrollera om det finns spår av skadedjur. Leta efter spillning längs med golv, under<br>bänkar, i skrymslen. Kontrollera om det finns tuggmärken på förpackade torrvaror. | Kontrollwiki: -<br>skadedjursbekampning | J06=10.6 (Bekämpning av<br>skadedjur) |
 
 <!-- sida 82 -->
 
@@ -3322,30 +3296,20 @@ Storhushåll - Årlig inriktning 2025 – 2026
 
 9
 
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
-| Säker hantering av livsmedel<br>genom hela flödet | Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk att<br>korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur utbildas ny<br>personal inom området? Fokusera på den hantering eller de livsmedel där det är störst<br>risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av rengöring fokusera på redskap och<br>utrustning i kontakt med aktuella livsmedel.<br>Ambulerande verksamheter hanterar vanligtvis vatten i dunkar/tankar. Kontrollera att de<br>har en säker hantering av vatten som är avsett att drickas eller komma i kontakt med<br>livsmedel.<br>Verifiera kontrollen genom att prata med den person som utför aktuell hantering och<br>genom att granska faktiska förhållanden. | Kontrollwiki - Kontroll av<br>mikrobiologiska faror<br>Kontrollwiki: personlig hygien<br>Kontrollwiki: rengöring<br>Kontrollwiki - Norovirus<br>smittspridning<br>Kontrollwiki: mobila<br>verksamheter<br>Kontrollwiki:<br>vattenförsörjning | J03=10.3 (hygien under<br>processens gång, faktiska<br>förhållanden)<br>J04=10.4 (personlig hygien,<br>faktiska förhållanden)<br>J05=10.5 (känner personalen<br>till arbetssätt)<br>J07=10.7 (tillgång till vatten<br>(ambulerande verksamheter) |
-| --- | --- | --- | --- |
-| Skadedjur | Hur arbetar man förebyggande att skadedjur inte tar sig in i verksamheten? Vad har man<br>för rutiner om skadedjur skulle ta sig in i verksamheten? Är lokalerna täta?<br>Kontrollera om det finns spår av skadedjur. Leta efter spillning längs med golv, under<br>bänkar, i skrymslen. Kontrollera om det finns tuggmärken på förpackade torrvaror. | Kontrollwiki: -<br>skadedjursbekampning | J06=10.6 (Bekämpning av<br>skadedjur) |
-
-[Tabell 82-2](handlingar.tabeller/82-2.csv)
+[Tabell 82-83-1](handlingar.tabeller/82-83-1.csv)
 
 | 2025 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Frivillig information av<br>mervärdesvara/dyr råvara | Syftet med kontrollen är att verifiera att verksamheten har ett system som ser till att den<br>frivilliga informationen om mervärdesvara på menyn stämmer. Anger de i sin meny att det är<br>ekologiskt, svenskt, en viss styckningsdetalj eller fiskar? Serverar de det som står i menyn?<br>Fokusera på livsmedel som kan ge stor ekonomisk vinning att fuska med, välj ett<br>livsmedel/påstående som ingår i flera olika rätter och som man använder mycket av.<br>Välj livsmedel i följande prioriteringsordning:<br>1. Kött, svenskt/ekologiskt/KRAV<br>2. Kött, dyr eller halal<br>3. Fisk, dyr eller MSC/ASC<br>4. Annat livsmedel med frivillig information, ex skyddade beteckningar<br>Vad gör verksamheten om en mervärdesvara tar slut? Kan företaget visa att de köpt in minst<br>en så stor mängd av varan som finns i lager? Stämmer leveransdatum med livsmedlets<br>hållbarhet? Gör en rimlig bedömning av om mängden inköpt råvara stämmer med mängden i<br>lager. Om misstanke finns om livsmedelsbedrägeri så gå vidare och gör en grundligare kontroll.<br>Kontakta i så fall också kontrollmyndigheten för det avsändande företaget för att se att<br>leverantören finns registrerad. När det gäller kontroll av att skyddade beteckningar används på<br>rätt sätt, dvs att det är den produkten som de säger i informationen så är det D08/4.8 som ska<br>rapporteras (SUB t.ex. fetaost, parmesan, parmaskinka och SGB t.ex. bruna bönor från Öland<br>och svecia). | Kontrollwiki - skyddade-<br>beteckningar<br>Kontrollwiki:<br>Rapportering-skyddade-<br>beteckningar<br>Kontrollwiki: Information<br>och spårbarhet i samband<br>med återkallelse – | B04=2.4 (Frivillig information<br>t.ex. svensk, KRAV, ekologisk,<br>halal, MSC)<br>D08=4.8 (Marknadsnormer,<br>rätt användning av skyddade<br>beteckningar, tex feta, parma) |
+|  |  |  |  |
+| 2026 | Beskrivning | Länkar | Rapportering |
+| Säker servering av<br>allergikost | För att kunna ange på menyn att en maträtt är lämplig för personer med allergi eller<br>överkänslighet bör restaurangen ha särskilda rutiner som säkerställer att maträtten är säker<br>för allergiska konsumenter. Utgå ifrån informationen från företaget, är exempelvis pizzan<br>glutenfri eller informerar man om att botten är glutenfri men mjöl hanteras i lokalen?<br>Företaget ska ha rutiner för alla moment, från mottagning av varor, och kontroll av att de<br>varor de tar emot inte innehåller allergena ämnen, till rutiner för att undvika kontaminering<br>vid servering. |  |  |
 
 <!-- sida 83 -->
 
 24-10-30
 
 10
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 2026 | Beskrivning | Länkar | Rapportering |
-| Säker servering av<br>allergikost | För att kunna ange på menyn att en maträtt är lämplig för personer med allergi eller<br>överkänslighet bör restaurangen ha särskilda rutiner som säkerställer att maträtten är säker<br>för allergiska konsumenter. Utgå ifrån informationen från företaget, är exempelvis pizzan<br>glutenfri eller informerar man om att botten är glutenfri men mjöl hanteras i lokalen?<br>Företaget ska ha rutiner för alla moment, från mottagning av varor, och kontroll av att de<br>varor de tar emot inte innehåller allergena ämnen, till rutiner för att undvika kontaminering<br>vid servering. |  |  |
 
 <!-- sida 84 -->
 
@@ -3373,13 +3337,15 @@ Skola/omsorg - Hygien
 | --- | --- | --- | --- |
 | Information om allergener<br>i verksamheter där vem som helst<br>kan äta och kunderna inte är kända | Har säkerställer verksamheten att gästerna kan få information om allergena<br>ingredienser i maträtter som serveras eller på annat sätt säljs och som inte är<br>färdigförpackade? Finns informationen alltid på plats, ex om kocken som lagat inte<br>finns där? Finns tillräcklig kunskap hos personal om olika allergener?<br>Kontrollen görs på samma sätt som för det operativa målet men rapporteras ej. |  | B02=2.2 (att de kan lämna rätt<br>information när livsmedlet<br>inte är färdigförpackat) |
 
-[Tabell 84-2](handlingar.tabeller/84-2.csv)
+[Tabell 84-85-2](handlingar.tabeller/84-85-2.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Säker allergikost | Kontrollera rutiner för allergikost från mottagning till servering. Hur säkerställer de<br>att allergener inte oavsiktligt tillsätts/kontaminerar maten vid tillagning, transport<br>och servering? Hur säkerställer de att rätt person får rätt mat. Hur upprätthålls<br>rutinerna vid vikarier i köket?<br>Fokusera i första hand på allergener som kan orsaka en anafylaktisk chock om<br>dessa allergier förekommer. | Kontrollwiki - Kontroll av ämnen<br>som kan ge<br>överkänslighetsreaktioner<br>Kontrollwiki: fri från livsmedel | K01=11.1 (säker hantering av<br>allergikost) |
 | Tid/temperaturprocesser | Hur säkerställer verksamheten att deras temperaturprocesser inte leder till att<br>livsmedel blir hälsofarliga? Fokusera där det finns störst risker i verksamheten.<br>Finns några speciellt känsliga råvaror eller processer? Ex. tillagning av kyckling,<br>servering av bär med kokrekommendationer eller nedkylning. Om det är möjligt,<br>verifiera kontrollen genom att göra egna temperaturmätningar. | Kontrollwiki - temperatur<br>Livsmedelsverket - information<br>om norovirus i hallon<br>Livsmedelsverket - rapport om<br>norovirus i frysta hallon | J08=10.8 (bibehållen kylkedja,<br>varmhållning, upptining)<br>K01=11.1 (system för att ta<br>hand om riskerna: nedkylning,<br>tillagning, återupphettning) |
 | Säker hantering av livsmedel<br>genom hela flödet | Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk<br>att korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur<br>utbildas ny personal inom området? Fokusera på den hantering eller de livsmedel<br>där det är störst risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av<br>rengöring fokusera på redskap och utrustning i kontakt med aktuella livsmedel. | Kontrollwiki - Kontroll av<br>mikrobiologiska faror<br>Kontrollwiki: rengöring<br>Kontrollwiki: personlig hygien | J03=10.3 (hygien under<br>processens gång, faktiska<br>förhållanden)<br>J04=10.4 (personlig hygien,<br>faktiska förhållanden) |
+|  | Verifiera kontrollen genom att prata med den person som utför aktuell hantering<br>och genom att granska faktiska förhållanden. | Kontrollwiki: Norovirus<br>smittspridning | J05=10.5 (känner personalen<br>till arbetssätt) |
+| Skadedjur | Hur arbetar man förebyggande att skadedjur inte tar sig in i verksamheten? Vad<br>har man för rutiner om skadedjur skulle ta sig in i verksamheten?<br>Kontrollera om det finns spår av skadedjur. Leta efter spillning längs med golv,<br>under bänkar, i skrymslen. Kontrollera om det finns tuggmärken på förpackade<br>torrvaror. | Kontrollwiki: -<br>skadedjursbekampning | J06=10.6 (Bekämpning av<br>skadedjur) |
 
 <!-- sida 85 -->
 
@@ -3390,12 +3356,6 @@ Skola/omsorg – årlig inriktning 2025
 12
 
 [Tabell 85-1](handlingar.tabeller/85-1.csv)
-
-|  | Verifiera kontrollen genom att prata med den person som utför aktuell hantering<br>och genom att granska faktiska förhållanden. | Kontrollwiki: Norovirus<br>smittspridning | J05=10.5 (känner personalen<br>till arbetssätt) |
-| --- | --- | --- | --- |
-| Skadedjur | Hur arbetar man förebyggande att skadedjur inte tar sig in i verksamheten? Vad<br>har man för rutiner om skadedjur skulle ta sig in i verksamheten?<br>Kontrollera om det finns spår av skadedjur. Leta efter spillning längs med golv,<br>under bänkar, i skrymslen. Kontrollera om det finns tuggmärken på förpackade<br>torrvaror. | Kontrollwiki: -<br>skadedjursbekampning | J06=10.6 (Bekämpning av<br>skadedjur) |
-
-[Tabell 85-2](handlingar.tabeller/85-2.csv)
 
 | 2025 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3432,12 +3392,15 @@ sker på huvudkontoret. I dessa butiker fokuserar vi istället på det lokalt in
 
 14
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
+[Tabell 87-88-1](handlingar.tabeller/87-88-1.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Information om allergener för<br>livsmedel som inte är<br>färdigförpackade<br>= livsmedel som är oförpackade,<br>ligger i en förpackning som<br>lämnas över en disk eller<br>förpackas på konsumentens<br>begäran | Har företaget ett arbetssätt som säkerställer att kunderna får rätt information om<br>allergena ingredienser på svenska? Informationen får ges muntligen eller skriftligen.<br>Om verksamheten använder sig av etiketter eller skyltar med fullständig<br>ingrediensförteckning och som tagits fram centralt så ska allergener vara framhävda.<br>Verifiera rutinen genom stickprov där du ber verksamheten att visa att de lämnar rätt<br>information. Informationen kan finnas på förpackningar/produktdatablad/receptur<br>eller underlag från leverantör.<br>OBS! I de fall där butiken själva ansvarar för utformning av märkning på skyltar, vid<br>tex bake-off, eller etiketter i charken med fullständig ingrediensförteckning så görs<br>samma kontroll som vi gör på färdigförpackade livsmedel hos verksamheter som<br>utformar märkning. | Kontrollwiki: Livsmedel som inte<br>är färdigförpackade<br>Livstecknet: skyldigheter vid<br>information om "spår av" | B02=2.2 (information om<br>allergener, på svenska,<br>framhävda allergener) |
 | Obligatoriska uppgifter för<br>färdigförpackade livsmedel hos<br>verksamheter som inte utformar<br>märkning:<br>• Svensk ingrediensförteckning<br>• Allergener är framhävda | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade<br>livsmedel är märkta med en ingrediensförteckning på svenska och att allergenerna är<br>framhävda. Verifiera genom att välja ut ett lämpligt antal produkter inom olika<br>produktgrupper.<br>Meddela även kontrollmyndigheten för det företag som ansvarar för informationen<br>om det är brister i informationen. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, allergener är<br>framhävda) |
+| Obligatoriska uppgifter på svenska för<br>färdigförpackade livsmedel hos<br>verksamheter som utformar märkning:<br>• Samtliga ingredienser är deklarerade<br>• Allergener är framhävda | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade<br>livsmedel är märkta med samtliga ingredienser på svenska och att allergenerna är<br>framhävda.<br>Verifiera genom ett lämpligt stort stickprov där du granskar information på produkter<br>ur olika produktgrupper. Jämför informationen med<br>receptur/produktdatablad/märkning på annat språk. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, samtliga ingredienser,<br>allergener är framhävda) |
+| System för återkallande - hantering av<br>i cke-säkra livsmedel | Syftet med kontrollen är att butiken ska se till att det inte finns osäkra livsmedel till<br>försäljning i butiken. Om butiken får en återkallelse, det kan tex vara ett produktlarm<br>från butikens leverantörer. Hur arbetar man efter den återkallelse man får in och hur<br>får man bort aktuella och osäkra produkter från försäljning? Hur säkerställer man att<br>produkten inte hamnar ute i butik igen? Utgå gärna från ett återkallande som skett<br>inom den närmsta tiden och be dem visa hur de agerade när de fick in aktuellt larm.<br>Vad gör de om de själva eller slutkonsument upptäcker osäkra livsmedel i deras<br>butik? Hos de stora kedjorna fokuserar vi på det sortiment som de inte köper in<br>centralt utan själva köper in.<br>Verifiera att de snabbt kan få fram informationen genom att du väljer ut en produkt,<br>och ber företaget visa hur mycket som köpts in och hur mycket som finns kvar i lager. | Kontrollwiki: Information och<br>spårbarhet i samband med<br>å terkallelse - | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra) |
+| System för spårbarhet | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg bakåt? Fokusera på det<br>lokala sortimentet hos kedjor. Välj varor enligt följande ordning om det är aktuellt:<br>1. Kött med svenskt ursprung<br>2. Ekologiskt/KRAVmärkt kött<br>3. Annat kött<br>4. Annat livsmedel<br>Vid misstanke om livsmedelsbedrägeri, kontakta kontrollmyndigheten för det<br>avsändande företaget för att se att leverantören finns registrerad/godkänd? | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (system för<br>spårbarhet) |
 
 <!-- sida 88 -->
 
@@ -3448,13 +3411,6 @@ Butik och detaljhandel - Hygien
 15
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Obligatoriska uppgifter på svenska för<br>färdigförpackade livsmedel hos<br>verksamheter som utformar märkning:<br>• Samtliga ingredienser är deklarerade<br>• Allergener är framhävda | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade<br>livsmedel är märkta med samtliga ingredienser på svenska och att allergenerna är<br>framhävda.<br>Verifiera genom ett lämpligt stort stickprov där du granskar information på produkter<br>ur olika produktgrupper. Jämför informationen med<br>receptur/produktdatablad/märkning på annat språk. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, samtliga ingredienser,<br>allergener är framhävda) |
-| --- | --- | --- | --- |
-| System för återkallande - hantering av<br>i cke-säkra livsmedel | Syftet med kontrollen är att butiken ska se till att det inte finns osäkra livsmedel till<br>försäljning i butiken. Om butiken får en återkallelse, det kan tex vara ett produktlarm<br>från butikens leverantörer. Hur arbetar man efter den återkallelse man får in och hur<br>får man bort aktuella och osäkra produkter från försäljning? Hur säkerställer man att<br>produkten inte hamnar ute i butik igen? Utgå gärna från ett återkallande som skett<br>inom den närmsta tiden och be dem visa hur de agerade när de fick in aktuellt larm.<br>Vad gör de om de själva eller slutkonsument upptäcker osäkra livsmedel i deras<br>butik? Hos de stora kedjorna fokuserar vi på det sortiment som de inte köper in<br>centralt utan själva köper in.<br>Verifiera att de snabbt kan få fram informationen genom att du väljer ut en produkt,<br>och ber företaget visa hur mycket som köpts in och hur mycket som finns kvar i lager. | Kontrollwiki: Information och<br>spårbarhet i samband med<br>å terkallelse - | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra) |
-| System för spårbarhet | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg bakåt? Fokusera på det<br>lokala sortimentet hos kedjor. Välj varor enligt följande ordning om det är aktuellt:<br>1. Kött med svenskt ursprung<br>2. Ekologiskt/KRAVmärkt kött<br>3. Annat kött<br>4. Annat livsmedel<br>Vid misstanke om livsmedelsbedrägeri, kontakta kontrollmyndigheten för det<br>avsändande företaget för att se att leverantören finns registrerad/godkänd? | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (system för<br>spårbarhet) |
-
-[Tabell 88-2](handlingar.tabeller/88-2.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3528,7 +3484,7 @@ Tillverkningsanläggningar - årlig inriktning 2025-2026
 
 18
 
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
+[Tabell 91-92-1](handlingar.tabeller/91-92-1.csv)
 
 | 2025 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3536,22 +3492,18 @@ Tillverkningsanläggningar - årlig inriktning 2025-2026
 | Hållbarhet | Hur sätter verksamheten sina hållbarhetsdatum? Kan de visa att det är säkra datum? Det<br>är producenten av livsmedlet som bestämmer hållbarhetstiden. Bedömningen kan<br>baseras på erfarenheten som producenten har skaffat sig genom bland annat<br>hållbarhetstester eller de rekommendationer som finns i branschriktlinjer. |  | K02=11.2 (Mikrobiologiska<br>kriterier)<br>B01=2.1 (Vilseledande<br>information)<br>J01=10.1 (Säkra livsmedel) |
 | Mikrobiologiska kriterier | Kontrollera att kraven för mikrobiologiska kriterier uppfylls enligt (EG) nr 2073/2005 samt<br>att verksamheten följer sin provtagningsplan. | Kontrollwiki -<br>mikrobiologiska kriterier | K02=11.2 (Mikrobiologiska<br>kriterier) |
 | Fri från -märkning | Kontrollera att verksamheter som märker med ”fri-från” olika allergener har arbetssätt<br>för en säker hantering och kan garantera sin märkning. Välj ett stickprov i relevant<br>storlek. Kontrollera även rutinerna kring hur märkningen utformas samt hur den hålls<br>uppdaterad. Har de anmält sina produkter till SLV innan de släpper ut dem på marknaden<br>första gången? | Kontrollwiki: Fri från-<br>livsmedel<br>SLV: produktion av fri från<br>livsmedel | C07=3.7 (kontroll att rätt<br>beskrivning av glutenhalt<br>glutenfri eller mycket låg<br>glutenhalt, används)<br>K06=11.6 (hantering av<br>glutenreducerade livsmedel)<br>K01=11.1 (hantering av<br>allergikost)<br>B04=2.4 (Frivillig livsmedels-<br>information, avseende om fri<br>från är relevant)<br>A11=1.10 (anmälan av fri från) |
+| Kontaktmaterial | Har verksamheten arbetssätt för att se till att de material som ska komma i kontakt med<br>livsmedel är avsedda för det? Används ett lämpligt material och används det på ett<br>korrekt sätt eller finns det risk att oönskade ämnen, migrerar från materialet till<br>livsmedlet? Hanteras kontaktmaterial utan risk för kontaminering? | Kontrollwiki - material i<br>kontakt med livsmedel | J09=10.9 (FCM) |
+| 2026 | Beskrivning | Länkar | Rapportering |
+| Tillsatser | Kontrollera användningen av tillsatser i produkt vid anläggningar som tillverkar livsmedel<br>Kontrollera att mängden tillsatser inte är för hög samt att tillsatsen är godkänd för den<br>specifika produkten. Kontrollera även hur företaget själva kontrollerar att recept<br>uppdateras vid ändrade lagkrav samt att receptet följs av personal vid tillverkning.<br>Kontrollera att tillsatserna är rätt deklarerade i ingrediensförteckningen. | Kontrollwiki: tillsatser | B02=2.2 (obligatoriska<br>uppgifter)<br>I01= 9.1 (Livsmedelstillsatser) |
+| Främmande ämnen | Aflatoxiner, mykotoxiner, glykolalkider, salmonellagarantier, etc. vad som kan vara<br>aktuellt i olika livsmedel. | Kontrollwiki- K - HACCP-<br>baserade förfaranden -<br>(livsmedelsverket.se) |  |
+| Obligatoriska uppgifter på<br>svenska för färdigförpackade<br>livsmedel hos verksamheter<br>som utformar märkning:<br>• Nettovikt<br>• Hållbarhet<br>• Förvaringsanvisning | Kontrollera hur verksamheten säkerställer att uppgifterna är märkta på rätt sätt.<br>Verifiera rutinen genom stickprov där du granskar information på ett stickprov ur olika<br>produktgrupper (etikett och/ eller e-handel).<br>Detta kontrolleras hos de som vid tidigare kontroller visat att de uppfyller kraven<br>gällande: samtliga ingredienser, framhävda allergener, mängddeklaration,<br>näringsdeklaration, frivillig information. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (obligatorisk<br>livsmedelsinformation) |
+| Frivillig information av<br>mervärdesvara/dyr råvara | Syftet med kontrollen är att verifiera att verksamheten har ett system som ser till att<br>frivillig information stämmer. Verifiera att systemet fungerar genom lämpligt antal<br>stickprov på slutprodukter. Fokusera på livsmedel som kan ge stor ekonomisk vinning att<br>fuska med, välj ett livsmedel/påstående som ingår i flera olika rätter och som man<br>använder mycket av. Välj i första hand svenskt/ekologiskt/KRAV.<br>Kan företaget visa att de köpt in minst en så stor mängd av aktuell råvara som använts i<br>tillverkningen och finns kvar i lager eller sålts (kvantitativ spårbarhet). Stämmer<br>leveransdatum med livsmedlets hållbarhet? Försök att göra en rimlig bedömning om<br>mängderna stämmer. Om misstanke finns om livsmedelsbedrägeri så gå vidare och gör en<br>grundligare kontroll. Vid misstanke om livsmedelsbedrägeri, kontakta<br>kontrollmyndigheten för det avsändande företaget för att se att leverantören finns<br>registrerad. | Kontrollwiki: Information<br>och spårbarhet i samband<br>med återkallelse - | B04=2.4 (Frivillig information<br>t.ex. svensk, KRAV, ekologisk,<br>halal, MSC) |
 
 <!-- sida 92 -->
 
 24-10-30
 
 19
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-| Kontaktmaterial | Har verksamheten arbetssätt för att se till att de material som ska komma i kontakt med<br>livsmedel är avsedda för det? Används ett lämpligt material och används det på ett<br>korrekt sätt eller finns det risk att oönskade ämnen, migrerar från materialet till<br>livsmedlet? Hanteras kontaktmaterial utan risk för kontaminering? | Kontrollwiki - material i<br>kontakt med livsmedel | J09=10.9 (FCM) |
-| --- | --- | --- | --- |
-| 2026 | Beskrivning | Länkar | Rapportering |
-| Tillsatser | Kontrollera användningen av tillsatser i produkt vid anläggningar som tillverkar livsmedel<br>Kontrollera att mängden tillsatser inte är för hög samt att tillsatsen är godkänd för den<br>specifika produkten. Kontrollera även hur företaget själva kontrollerar att recept<br>uppdateras vid ändrade lagkrav samt att receptet följs av personal vid tillverkning.<br>Kontrollera att tillsatserna är rätt deklarerade i ingrediensförteckningen. | Kontrollwiki: tillsatser | B02=2.2 (obligatoriska<br>uppgifter)<br>I01= 9.1 (Livsmedelstillsatser) |
-| Främmande ämnen | Aflatoxiner, mykotoxiner, glykolalkider, salmonellagarantier, etc. vad som kan vara<br>aktuellt i olika livsmedel. | Kontrollwiki- K - HACCP-<br>baserade förfaranden -<br>(livsmedelsverket.se) |  |
-| Obligatoriska uppgifter på<br>svenska för färdigförpackade<br>livsmedel hos verksamheter<br>som utformar märkning:<br>• Nettovikt<br>• Hållbarhet<br>• Förvaringsanvisning | Kontrollera hur verksamheten säkerställer att uppgifterna är märkta på rätt sätt.<br>Verifiera rutinen genom stickprov där du granskar information på ett stickprov ur olika<br>produktgrupper (etikett och/ eller e-handel).<br>Detta kontrolleras hos de som vid tidigare kontroller visat att de uppfyller kraven<br>gällande: samtliga ingredienser, framhävda allergener, mängddeklaration,<br>näringsdeklaration, frivillig information. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (obligatorisk<br>livsmedelsinformation) |
-| Frivillig information av<br>mervärdesvara/dyr råvara | Syftet med kontrollen är att verifiera att verksamheten har ett system som ser till att<br>frivillig information stämmer. Verifiera att systemet fungerar genom lämpligt antal<br>stickprov på slutprodukter. Fokusera på livsmedel som kan ge stor ekonomisk vinning att<br>fuska med, välj ett livsmedel/påstående som ingår i flera olika rätter och som man<br>använder mycket av. Välj i första hand svenskt/ekologiskt/KRAV.<br>Kan företaget visa att de köpt in minst en så stor mängd av aktuell råvara som använts i<br>tillverkningen och finns kvar i lager eller sålts (kvantitativ spårbarhet). Stämmer<br>leveransdatum med livsmedlets hållbarhet? Försök att göra en rimlig bedömning om<br>mängderna stämmer. Om misstanke finns om livsmedelsbedrägeri så gå vidare och gör en<br>grundligare kontroll. Vid misstanke om livsmedelsbedrägeri, kontakta<br>kontrollmyndigheten för det avsändande företaget för att se att leverantören finns<br>registrerad. | Kontrollwiki: Information<br>och spårbarhet i samband<br>med återkallelse - | B04=2.4 (Frivillig information<br>t.ex. svensk, KRAV, ekologisk,<br>halal, MSC) |
 
 <!-- sida 93 -->
 
@@ -3570,7 +3522,7 @@ Grossister, matmäklare, huvudkontor, importörer, lager och transportör – In
 
 20
 
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
+[Tabell 93-94-1](handlingar.tabeller/93-94-1.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3578,6 +3530,8 @@ Grossister, matmäklare, huvudkontor, importörer, lager och transportör – In
 | Rätt etikett på rätt vara<br>(om det sker etikettering)<br>Fristående lager | Hur säkerställer de att rätt etikett hamnar på rätt produkt. Hur fungerar det när<br>märkningsunderlag/etiketter uppdateras? |  | B01=2.1 (grundläggande krav<br>på att livsmedelsinformation<br>ska följa med livsmedel) |
 | Obligatoriska uppgifter på svenska<br>för färdigförpackade livsmedel hos<br>verksamheter som utformar<br>märkning:<br>• Samtliga ingredienser är<br>deklarerade<br>• Allergener är framhävda | Kontrollera hur verksamheten säkerställer att uppgifterna är märkta på rätt sätt.<br>Verifiera rutinen genom stickprov där du granskar information på ett stickprov ur<br>olika produktgrupper (etikett och/eller e-handel). Jämför informationen med<br>receptur/produktdatablad/märkning på annat språk. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, allergener är<br>framhävda) |
 | System för spårbarhet och<br>återkallelse | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg framåt och bakåt?<br>Verifiera deras uppgift om hur mycket de sålt genom att de får redovisa hur<br>mycket de har köpt in och hur mycket som finns kvar i lager (kvantitativ<br>spårbarhetskontroll). Välj gärna en vara där det är lönsamt att fuska med enligt<br>följande prioritering:<br>1) Kött med svenskt ursprung<br>2) Ekologiskt kött<br>3) Annat kött<br>4) Sammansatt produkt | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (system för<br>spårbarhet)<br>H02=8.2 (spårbarhet<br>animaliska livsmedel)<br>J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra) |
+|  | 5) Icke- animalisk produkt<br>För animaliska livsmedel så kontrollera att verksamheten uppfyller kraven som<br>gäller ett steg framåt enligt Förordning (EU) nr 931/2011, art 3, p1<br>Kommer varan från en godkänd/registrerad anläggning? Vid misstanke om<br>livsmedelsbedrägeri, kontakta kontrollmyndigheten för det avsändande företaget<br>för att se att leverantören finns registrerad/godkänd?<br>Kontrollera också deras arbetssätt för att hantera en återkallelse, vad gör med<br>varor som återkallas. Om de returernas tillbaka, vad händer då? Hur ser de till att<br>de inte säljs igen om de är osäkra?. |  |  |
+| Hantering av icke säkra<br>livsmedel/misstänkta<br>matförgiftningar<br>Huvudkontor | Finns system för att hantera icke-säkra livsmedel och klagomål? Hur går det till när<br>de får information om icke säkra livsmedel? Vilka åtgärder vidtas? Hur följer de<br>upp verksamheternas ”avvikelsehantering”, t ex misstänkta matförgiftningar? Hur<br>sprids information kring avvikelser som kan beröra flera av deras verksamheter?<br>Följ upp eventuella incidenter som varit under året. | Kontrollwiki: Handbok för<br>utredning av utbrott -<br>(livsmedelsverket.se) | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra)<br>H01=8.1 (system för<br>spårbarhet) |
 
 <!-- sida 94 -->
 
@@ -3591,39 +3545,29 @@ Grossister, matmäklare, huvudkontor, importörer, lager och transportör - Årl
 
 [Tabell 94-1](handlingar.tabeller/94-1.csv)
 
-|  | 5) Icke- animalisk produkt<br>För animaliska livsmedel så kontrollera att verksamheten uppfyller kraven som<br>gäller ett steg framåt enligt Förordning (EU) nr 931/2011, art 3, p1<br>Kommer varan från en godkänd/registrerad anläggning? Vid misstanke om<br>livsmedelsbedrägeri, kontakta kontrollmyndigheten för det avsändande företaget<br>för att se att leverantören finns registrerad/godkänd?<br>Kontrollera också deras arbetssätt för att hantera en återkallelse, vad gör med<br>varor som återkallas. Om de returernas tillbaka, vad händer då? Hur ser de till att<br>de inte säljs igen om de är osäkra?. |  |  |
-| --- | --- | --- | --- |
-| Hantering av icke säkra<br>livsmedel/misstänkta<br>matförgiftningar<br>Huvudkontor | Finns system för att hantera icke-säkra livsmedel och klagomål? Hur går det till när<br>de får information om icke säkra livsmedel? Vilka åtgärder vidtas? Hur följer de<br>upp verksamheternas ”avvikelsehantering”, t ex misstänkta matförgiftningar? Hur<br>sprids information kring avvikelser som kan beröra flera av deras verksamheter?<br>Följ upp eventuella incidenter som varit under året. | Kontrollwiki: Handbok för<br>utredning av utbrott -<br>(livsmedelsverket.se) | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra)<br>H01=8.1 (system för<br>spårbarhet) |
-
-[Tabell 94-2](handlingar.tabeller/94-2.csv)
-
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Skadedjur | Kontrollera att verksamheten arbetar förebyggande för att undvika skadedjur. Är<br>lokalerna skadedjurssäkrade, finns det skadedjur eller spår av dem? Gå igenom<br>verksamhetens alla utrymmen och kontrollera även hur avfallet tas om hand. | Kontrollwiki -<br>skadedjursbekämpning | J06=10.6 Bekämpning av<br>skadedjur |
 | Temperaturer | Kontrollera hur företaget säkerställer rätt temperatur hela vägen från mottagning<br>till leverans. Hur håller de kylkedjan? Varmhållning kan vara aktuellt hos<br>transportörer.<br>Kontrollera hur företaget säkerställer att djupfrysta varor som säljs vidare som<br>djupfrysta förvaras tillräckligt kallt hela vägen utan risk för att kvaliteten försämras. | Branschriktlinje för fryst och<br>kyld mat<br>Livsmedelsverkets<br>föreskrifter om djupfrysta<br>livsmedel<br>Förordning om<br>temperaturövervakning av<br>djupfrysta livsmedel | J08=10.8 (bibehållen kylkedja<br>och djupfrysta livsmedel,<br>varmhållning) |
 | Fungerande system för<br>hållbarhet/FIFU (Först In Först Ut)<br>Lager | Hur ser de till att de produkter som lämnar lagret är säkra avseende<br>hållbarhetsdatum? Kontrollera genom stickprov att systemet fungerar. Välj i första<br>hand varor med kort hållbarhet. |  | J01=10.1 (allmänna krav på<br>livsmedelssäkerhet) |
 
-[Tabell 94-3](handlingar.tabeller/94-3.csv)
+[Tabell 94-95-2](handlingar.tabeller/94-95-2.csv)
 
 | 2025-2026 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Operativt mål 5: Ekologiska<br>livsmedel | Syftet är att verifiera att de aktörer som släpper ut ekologiska produkter eller<br>produkter under omställning, har anmält sig till Livsmedelsverket. Kontroll utförs<br>också för att verifiera undantagen från anmälan och att inte inneha certifikat. | Kontrollwiki op-5 |  |
+|  | Livsmedelsverket ska omedelbart underrättas om en aktör inte har anmält sin<br>verksamhet i enlighet med reglerna. |  |  |
+| Operativt mål 9: Skyddade<br>beteckningar | Kontroll utförts av att märkningen på utvalda förpackade produkter med skyddade<br>beteckningar och som införts till Sverige stämmer överens med<br>produktspecifikationen. | NKP-webben op-9 |  |
+| Operativt mål 10: Allergena<br>ingredienser i förpackade livsmedel | Kontroll hos grossister som importerar färdigförpackade livsmedel för att verifiera<br>att företagarna ger korrekt information om allergena ingredienser i märkningen. | Kontrollwiki op-10 |  |
+| Operativt mål 15: Plastprodukter<br>med otillåtna naturmaterial | Kontrollen ska förhindra att plastprodukter avsedda att komma i kontakt med<br>livsmedel som innehåller malen bambu eller andra icke godkända naturmaterial<br>släpps ut på marknaden. Kontrollen syftar till att få bort dessa produkter från<br>marknaden då de inte är tillåtna och dessutom riskerar att släppa ifrån sig oönskade<br>kemiska ämnen i halter som kan vara hälsovådliga. | Kontrollwiki op-15 |  |
+| Operativt mål 11: Spårbarhet ägg | Verifiera att aktörer som producerar och/eller släpper ut svenska hönsägg på<br>marknaden kan visa att de uppfyller de spårbarhetskrav som finns samt att den<br>information som medföljer äggen är korrekt. | NKP-webben op-11 |  |
+| Operativt mål 12: Aktörer som<br>släpper ut honung på marknaden | Spårbarhetskontroller hos företag som handlar med honung. Syftet är att säkerställa<br>att aktörer som släpper ut honung på marknaden har registrerat sin anläggning, i de<br>fall verksamheten har en sådan organisation och kontinuitet att den kan anses<br>utgöra ett livsmedelsföretag. | NKP-webben op-12 |  |
 
 <!-- sida 95 -->
 
 24-10-30
 
 22
-
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
-
-|  | Livsmedelsverket ska omedelbart underrättas om en aktör inte har anmält sin<br>verksamhet i enlighet med reglerna. |  |  |
-| --- | --- | --- | --- |
-| Operativt mål 9: Skyddade<br>beteckningar | Kontroll utförts av att märkningen på utvalda förpackade produkter med skyddade<br>beteckningar och som införts till Sverige stämmer överens med<br>produktspecifikationen. | NKP-webben op-9 |  |
-| Operativt mål 10: Allergena<br>ingredienser i förpackade livsmedel | Kontroll hos grossister som importerar färdigförpackade livsmedel för att verifiera<br>att företagarna ger korrekt information om allergena ingredienser i märkningen. | Kontrollwiki op-10 |  |
-| Operativt mål 15: Plastprodukter<br>med otillåtna naturmaterial | Kontrollen ska förhindra att plastprodukter avsedda att komma i kontakt med<br>livsmedel som innehåller malen bambu eller andra icke godkända naturmaterial<br>släpps ut på marknaden. Kontrollen syftar till att få bort dessa produkter från<br>marknaden då de inte är tillåtna och dessutom riskerar att släppa ifrån sig oönskade<br>kemiska ämnen i halter som kan vara hälsovådliga. | Kontrollwiki op-15 |  |
-| Operativt mål 11: Spårbarhet ägg | Verifiera att aktörer som producerar och/eller släpper ut svenska hönsägg på<br>marknaden kan visa att de uppfyller de spårbarhetskrav som finns samt att den<br>information som medföljer äggen är korrekt. | NKP-webben op-11 |  |
-| Operativt mål 12: Aktörer som<br>släpper ut honung på marknaden | Spårbarhetskontroller hos företag som handlar med honung. Syftet är att säkerställa<br>att aktörer som släpper ut honung på marknaden har registrerat sin anläggning, i de<br>fall verksamheten har en sådan organisation och kontinuitet att den kan anses<br>utgöra ett livsmedelsföretag. | NKP-webben op-12 |  |
 
 <!-- sida 96 -->
 
@@ -3642,7 +3586,7 @@ Kosttillskott och hälsokost – Information och spårbarhet
 
 23
 
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
+[Tabell 96-97-1](handlingar.tabeller/96-97-1.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3650,6 +3594,12 @@ Kosttillskott och hälsokost – Information och spårbarhet
 | Obligatoriska uppgifter för<br>färdigförpackade livsmedel hos<br>verksamheter som utformar<br>märkning:<br>• Samtliga ingredienser är<br>deklarerade<br>• Allergener är framhävda | Kontrollera hur verksamheten säkerställer att uppgifterna är märkta på rätt sätt.<br>Verifiera rutinen genom stickprov där du granskar information på ett stickprov ur<br>olika produktgrupper (etikett och e-handel) men även anslag/skyltar i en fysisk<br>butik. Jämför informationen med receptur/produktdatablad/märkning på annat<br>språk. |  | B02=2.2 (obligatorisk<br>livsmedelsinformation) |
 | Obligatoriska uppgifter för<br>kosttillskott hos verksamheter<br>som utformar märkning. | Har verksamheten arbetssätt för att märka kosttillskott med obligatoriska uppgifter.<br>Kan verksamheten verifiera att uppgifter stämmer? Fokusera på:<br>Mängd av näringsämnen eller andra ämnen med näringsmässig eller fysiologisk<br>verkan och rekommenderad daglig dos. | Kontrollwiki: Information om<br>märkning av kosttillskott | C05=3.5 (särskild märkning av<br>kosttillskott) |
 | System för spårbarhet och<br>återkallelse | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg framåt och bakåt?<br>Verifiera deras uppgift om hur mycket de sålt genom att de får redovisa hur mycket<br>de har köpt in och hur mycket som finns kvar i lager (kvantitativ<br>spårbarhetskontroll). Välj gärna en vara där det är lönsamt att fuska med.<br>Kontrollera också deras arbetssätt för att hantera en återkallelse, vad gör med varor | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra)<br>H01=8.1 (system för<br>spårbarhet) |
+|  | som återkallas. Om de returernas tillbaka, vad händer då? Hur ser de till att de inte<br>säljs igen om de är osäkra? |  |  |
+| Innehåll av otillåtna ingredienser<br>Butiker med eget/lokalt sortiment<br>av hälsokost | Kontrollera hur verksamheten säkerställer att inga otillåtna ämnen ingår i<br>produkterna, t.ex. dopingklassade, läkemedelsklassade och nya livsmedel<br>Be företaget visa hur man säkerställer att deras produkter är säkra.<br>Verifiera genom att välja ut ett lämpligt antal produkter inom kategorier som<br>innebär störst risk, t.ex. viktminskning, prestationshöjning och växtbaserade. | Kontrollwiki: Användbara<br>länkar för ingående<br>ingredienser | J01=10.1 (krav på säkra<br>livsmedel) |
+| Medicinska påståenden<br>Butiker med eget/lokalt sortiment<br>av hälsokost och butiker som<br>utformar märkning | Kontrollera hur företaget säkerställer att inga medicinska påståenden används.<br>Verifiera genom att granska information på ett stickprov ur olika produktgrupper<br>(etikett och e-handel) men även anslag/skyltar i en fysisk butik. | Kontrollwiki- Närliggande<br>produkter till kosttillskott -<br>(livsmedelsverket.se) | B01=2.1 (rättvisande<br>information – medicinska<br>påståenden) |
+| Hälsopåståenden | Kontrollera att påståenden om hälsoeffekter uppfyller de krav som finns. Välj ett<br>stickprov i relevant storlek | Kontrollwiki-<br>Hälsopåståenden -<br>(livsmedelsverket.se) | C03=3.3 (hälsopåståenden) |
+| Hantering av icke säkra<br>livsmedel/misstänkta<br>matförgiftningar<br>Huvudkontor | Finns system för att hantera icke-säkra livsmedel och klagomål? Hur går det till när<br>de får information om icke säkra livsmedel? Vilka åtgärder vidtas? Hur följer de upp<br>verksamheternas ”avvikelsehantering”, t ex misstänkta matförgiftningar? Hur sprids<br>information kring avvikelser som kan beröra flera av deras verksamheter? Följ upp<br>eventuella incidenter som varit under året. | Kontrollwiki: Handbok för<br>utredning av utbrott -<br>(livsmedelsverket.se) | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra)<br>H01=8.1 (system för<br>spårbarhet) |
+| FSMP och komplett kostersättning<br>för viktkontroll | Kontrollera att FSMP och komplett kostersättning för viktkontroll uppfyller krav på<br>sammansättning och märkning. Välj ett stickprov i relevant storlek. | Kontrollwiki: Livsmedel för<br>speciella medicinska ändamål<br>- FSMP - (livsmedelsverket.se)<br>Kontrollwiki: Information om<br>märkning av komplett<br>kostersättning för viktkontroll | G03=7.3 (sammansättning<br>och märkning av FSMP)<br>G04=7.4 (sammansättning<br>och märkning av komplett<br>kostersättning för<br>viktkontroll) |
 
 <!-- sida 97 -->
 
@@ -3663,21 +3613,11 @@ Kosttillskott och hälsokost – årlig inriktning 2025
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-|  | som återkallas. Om de returernas tillbaka, vad händer då? Hur ser de till att de inte<br>säljs igen om de är osäkra? |  |  |
-| --- | --- | --- | --- |
-| Innehåll av otillåtna ingredienser<br>Butiker med eget/lokalt sortiment<br>av hälsokost | Kontrollera hur verksamheten säkerställer att inga otillåtna ämnen ingår i<br>produkterna, t.ex. dopingklassade, läkemedelsklassade och nya livsmedel<br>Be företaget visa hur man säkerställer att deras produkter är säkra.<br>Verifiera genom att välja ut ett lämpligt antal produkter inom kategorier som<br>innebär störst risk, t.ex. viktminskning, prestationshöjning och växtbaserade. | Kontrollwiki: Användbara<br>länkar för ingående<br>ingredienser | J01=10.1 (krav på säkra<br>livsmedel) |
-| Medicinska påståenden<br>Butiker med eget/lokalt sortiment<br>av hälsokost och butiker som<br>utformar märkning | Kontrollera hur företaget säkerställer att inga medicinska påståenden används.<br>Verifiera genom att granska information på ett stickprov ur olika produktgrupper<br>(etikett och e-handel) men även anslag/skyltar i en fysisk butik. | Kontrollwiki- Närliggande<br>produkter till kosttillskott -<br>(livsmedelsverket.se) | B01=2.1 (rättvisande<br>information – medicinska<br>påståenden) |
-| Hälsopåståenden | Kontrollera att påståenden om hälsoeffekter uppfyller de krav som finns. Välj ett<br>stickprov i relevant storlek | Kontrollwiki-<br>Hälsopåståenden -<br>(livsmedelsverket.se) | C03=3.3 (hälsopåståenden) |
-| Hantering av icke säkra<br>livsmedel/misstänkta<br>matförgiftningar<br>Huvudkontor | Finns system för att hantera icke-säkra livsmedel och klagomål? Hur går det till när<br>de får information om icke säkra livsmedel? Vilka åtgärder vidtas? Hur följer de upp<br>verksamheternas ”avvikelsehantering”, t ex misstänkta matförgiftningar? Hur sprids<br>information kring avvikelser som kan beröra flera av deras verksamheter? Följ upp<br>eventuella incidenter som varit under året. | Kontrollwiki: Handbok för<br>utredning av utbrott -<br>(livsmedelsverket.se) | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra)<br>H01=8.1 (system för<br>spårbarhet) |
-| FSMP och komplett kostersättning<br>för viktkontroll | Kontrollera att FSMP och komplett kostersättning för viktkontroll uppfyller krav på<br>sammansättning och märkning. Välj ett stickprov i relevant storlek. | Kontrollwiki: Livsmedel för<br>speciella medicinska ändamål<br>- FSMP - (livsmedelsverket.se)<br>Kontrollwiki: Information om<br>märkning av komplett<br>kostersättning för viktkontroll | G03=7.3 (sammansättning<br>och märkning av FSMP)<br>G04=7.4 (sammansättning<br>och märkning av komplett<br>kostersättning för<br>viktkontroll) |
-
-[Tabell 97-2](handlingar.tabeller/97-2.csv)
-
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Säker hantering av livsmedel<br>genom hela flödet | Kontrollera hur företaget säkerställer att livsmedel hanteras på ett säkert sätt utan<br>risk för kontaminering. Verifiera kontrollen genom att granska faktiska förhållanden. |  | J03=10.3 (hygien under<br>processens gång, faktiska<br>förhållanden) |
 
-[Tabell 97-3](handlingar.tabeller/97-3.csv)
+[Tabell 97-2](handlingar.tabeller/97-2.csv)
 
 | 2025 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -3707,7 +3647,7 @@ Mer information om kontroll av dricksvatten Kontrollwiki: Dricksvattenanläggnin
 
 26
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+[Tabell 99-100-1](handlingar.tabeller/99-100-1.csv)
 
 | Vattenverk mindre anläggning/kommersiella vattenverk |  |  |  |
 | --- | --- | --- | --- |
@@ -3722,6 +3662,11 @@ Mer information om kontroll av dricksvatten Kontrollwiki: Dricksvattenanläggnin
 | Faroanalys | Är faroanalysen uppdaterad och relevant? Är faroanalysen fastställd och giltig (ska<br>uppdateras var 5e år)? Innefattar faroanalysen alla delar av processen (även<br>råvatten och dess kvalitet)? |  | N03 |
 | Råvatten | Har verksamheten kunskap om råvattnets kvalitet (mikro och kem), både vad<br>gäller säsongsbundna variationer och föroreningsrisker i råvattentäkten? |  | N05 |
 | Kritiska styrpunkter | Har verksamheten identifierat anläggningens kritiska styrpunkter i faroanalysen?<br>Är nuvarande kritiska styrpunkter uppdaterade och relevanta? Saknas någon<br>kritisk styrpunkt? Har verksamheten rutin för övervakning och rutiner för styrning<br>av kritiska styrpunkter? Finns rutin för korrigerande åtgärd? Finns nödvändiga |  | N04<br>N05 |
+|  | larm i anläggningen? Hur sker övervakningen av larm? (larm för kritiska<br>styrpunkter ska onlineövervakas). |  |  |
+| Larm | Finns relevanta larm i processen? Hur övervakas dessa larm? Vid vattenverk ska<br>larm finnas för fel i pH-justering, i desinfektionsstegen/et och vid förhöjd<br>turbiditet. |  | N07 |
+| Beredning | Ger de beredningssteg som finns i vattenverket ett hälsomässigt säkert, estetiskt<br>tilltalande och tekniskt lämpligt (för distribution och användning) dricksvatten<br>under alla förutsägbara förhållanden? |  | N09 |
+| Mikrobiologiska barriärer | Finns tillräcklig barriärshöjd (antal barriärer och respektive barriärs logreduktion)<br>för bakterier, virus och parasiter/protozoer? Är desinfektionen effektiv? |  | N06 |
+| Kvalitetskrav och regelbundna<br>undersökningar | Undersöks kvalitet på utgående vatten från vattenverket? Följer man fastställt<br>undersökningsprogram? Analyseras proverna vid ett ackrediterat labb? Har man<br>fördelat provtagningen i möjligaste mån över tid och över ett representativt<br>vattenförsörjningsområde? |  | N09<br>N10 |
 
 <!-- sida 100 -->
 
@@ -3732,15 +3677,6 @@ Dricksvatten – årlig inriktning 2025–2026
 27
 
 [Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-|  | larm i anläggningen? Hur sker övervakningen av larm? (larm för kritiska<br>styrpunkter ska onlineövervakas). |  |  |
-| --- | --- | --- | --- |
-| Larm | Finns relevanta larm i processen? Hur övervakas dessa larm? Vid vattenverk ska<br>larm finnas för fel i pH-justering, i desinfektionsstegen/et och vid förhöjd<br>turbiditet. |  | N07 |
-| Beredning | Ger de beredningssteg som finns i vattenverket ett hälsomässigt säkert, estetiskt<br>tilltalande och tekniskt lämpligt (för distribution och användning) dricksvatten<br>under alla förutsägbara förhållanden? |  | N09 |
-| Mikrobiologiska barriärer | Finns tillräcklig barriärshöjd (antal barriärer och respektive barriärs logreduktion)<br>för bakterier, virus och parasiter/protozoer? Är desinfektionen effektiv? |  | N06 |
-| Kvalitetskrav och regelbundna<br>undersökningar | Undersöks kvalitet på utgående vatten från vattenverket? Följer man fastställt<br>undersökningsprogram? Analyseras proverna vid ett ackrediterat labb? Har man<br>fördelat provtagningen i möjligaste mån över tid och över ett representativt<br>vattenförsörjningsområde? |  | N09<br>N10 |
-
-[Tabell 100-2](handlingar.tabeller/100-2.csv)
 
 | 2024 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
@@ -4512,19 +4448,58 @@ Dagvatten       uppföljning av fokusområdet.           Kommun Deltar enligt st
 <!-- sida 117 -->
 
 Miljöfarlig verksamhet
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
-|  |  |  | Senast 2024 har 100 %<br>av landets<br>tillsynsmyndigheter<br>inhämtat information<br>om den kommunala va-<br>huvudmannens<br>egenkontroll av den<br>allmänna<br>dagvattenanläggninge<br>n utifrån<br>tillsynsaktiviteten.<br>Detta för att samtliga<br>Sveriges kommuner<br>ska ligga på en<br>gemensam lägstanivå<br>inför kommande<br>strategiperiod. | 2022-2025 | Kommun |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Växtnäringsläckage från jordbruk<br>och hästgårdar |  | Val av tillsynsobjekt ska utgå från en riskbedömning där verksamhetens möjliga<br>påverkan på vattenförekomsten ska ha företräde, oavsett inriktning på<br>jordbruksverksamheten (djurhållande verksamhet/växtodlingsgård). (2022-<br>2025) |  | 2023,2024 | Kommun | Deltar enligt strategin | Jordbruksverkets förslag på riskbedömning implementerat<br>under år 2023 och fortskrider under år 2024 |
-|  |  | Tillsynsmyndigheterna prioriterar tillsyn av jordbruksverksamheter och<br>hästgårdar som ligger utmed vattenförekomster där miljökvalitetsnormerna<br>för yt – och grundvatten inte uppnås idag. (2022-2025) |  | 2022,2023 | Kommun | Slutförd | Tillsyn som ligger utmed vattenförekomster där<br>miljökvalitetsnormerna för yt – och grundvatten inte<br>uppnås slutfördes under år 2023 |
-|  |  | Tillsynsmyndigheterna använder sig av de nationellt framtagna checklistorna<br>för tillsyn i fält samt växtnäringstillsyn på hästgårdar. (2022-2025) |  | 2022 | Kommun | Slutförd | Implementerades under år 2022 |
-|  |  | Tillsynsmyndigheterna tar del av våra digitala utbildningar inom<br>växtnäringsområdet. (2023-2025) |  | 2023 - 2025 | Kommun | Deltar enligt strategin | Inspektörer deltar kontinuerligt på de utbildningar som<br>utförs av jordbruksverket |
-|  |  | Tillsynsmyndigheterna prioriterar att delta i det nationella tillsynsprojektet<br>inom växtnäringsområdet. (2024) |  | 2024 | Kommun | Deltar enligt strategin |  |
-|  |  | Tillsynsmyndigheterna prioriterar att delta i det nationella tillsynsprojektet om<br>Tillsyn i fält. (2025). |  | 2025 | Kommun | Deltar enligt strategin |  |
-|  |  |  | 35 % av<br>tillsynsmyndigheterna<br>har deltagit i det<br>nationella<br>tillsynsprojektet inom<br>växtnäringsområdet<br>under 2024. | 2024 | Kommun |  |  |
-|  |  |  | 35 % av<br>tillsynsmyndigheterna<br>har deltagit i det<br>nationella<br>tillsynsprojektet om<br>Tillsyn i fält under<br>2025. | 2025 | Kommun |  |  |
+Senast 2024 har 100 %
+av landets
+tillsynsmyndigheter
+inhämtat information
+om den kommunala va-
+huvudmannens
+egenkontroll av den
+2022-2025
+allmänna
+dagvattenanläggninge
+n utifrån
+tillsynsaktiviteten.
+Detta för att samtliga
+Sveriges kommuner
+ska ligga på en
+gemensam lägstanivå
+inför kommande
+strategiperiod. Kommun
+Val av tillsynsobjekt ska utgå från en riskbedömning där verksamhetens möjliga
+påverkan på vattenförekomsten ska ha företräde, oavsett inriktning på
+2023,2024
+jordbruksverksamheten (djurhållande verksamhet/växtodlingsgård). (2022- Jordbruksverkets förslag på riskbedömning implementerat
+2025\)                                  Kommun Deltar enligt strategin under år 2023 och fortskrider under år 2024
+Tillsynsmyndigheterna prioriterar tillsyn av jordbruksverksamheter och Tillsyn som ligger utmed vattenförekomster där
+2022,2023
+hästgårdar som ligger utmed vattenförekomster där miljökvalitetsnormerna miljökvalitetsnormerna för yt – och grundvatten inte
+för yt – och grundvatten inte uppnås idag. (2022-2025) Kommun Slutförd uppnås slutfördes under år 2023
+Tillsynsmyndigheterna använder sig av de nationellt framtagna checklistorna 2022
+för tillsyn i fält samt växtnäringstillsyn på hästgårdar. (2022-2025) Kommun Slutförd Implementerades under år 2022
+Tillsynsmyndigheterna tar del av våra digitala utbildningar inom Inspektörer deltar kontinuerligt på de utbildningar som
+2023 - 2025
+växtnäringsområdet. (2023-2025)        Kommun Deltar enligt strategin utförs av jordbruksverket
+Tillsynsmyndigheterna prioriterar att delta i det nationella tillsynsprojektet
+2024
+inom växtnäringsområdet. (2024)        Kommun Deltar enligt strategin
+Växtnäringsläckage från jordbruk Tillsynsmyndigheterna prioriterar att delta i det nationella tillsynsprojektet om 2025
+och hästgårdar   Tillsyn i fält. (2025).                Kommun Deltar enligt strategin
+35 % av
+tillsynsmyndigheterna
+har deltagit i det
+2024
+nationella
+tillsynsprojektet inom
+växtnäringsområdet
+under 2024.   Kommun
+35 % av
+tillsynsmyndigheterna
+har deltagit i det
+nationella 2025
+tillsynsprojektet om
+Tillsyn i fält under
+2025\.         Kommun
 
 <!-- sida 118 -->
 
@@ -5557,12 +5532,15 @@ som är åtgärdade.
 
 Sida 19 av 33
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-142-1](handlingar.tabeller/141-142-1.csv)
 
 | Egeninitierad<br>tillsyn, indelat i fyra<br>faser: | Antal<br>objekt: | Prioriterade objekt: |
 | --- | --- | --- |
 | Initieringsfas | 15 | Arendals slamdeponi (Arendal 3:2)<br>Boatorp deponi (Boatorp 1:11)<br>Fjärås Biltorg (Duvehed 2:11)<br>Frillesås Handelsträdgård (Frillesås-Rya 2:35)<br>Gottskärs hamn (Skällared 4:1)<br>Gårda brygga (Ölmnanäs 8:28)<br>Gödatorp kalkslamdeponi (Gödatorp 1:8)<br>Klovsten Industriområde (Ysby 1:12, 2:25 mfl.),<br>Kullaviks lack/Kullaviks båtvarv (Släps-Kullen 1:116 och 1:406)<br>Lerkils båtsällskap (Burera 8:95)<br>Lerkils båtvarv AB (Buera 12:31)<br>Nya bleck o plåtslageriet (Boken 8)<br>Pac2, Miba & Alba (Kungsbacka 4:39)<br>Preem Petroleum AB (Lantmästaren 1)<br>Stockens deponi (Frillesås-Stocken 1:9) |
 | Utredningsfas | 19 | Agnsjömossedeponin, (Tom 3:5)<br>Alafors deponi (Alafors 4:12)<br>Bräckornas deponier (Frillesås 3:29)<br>Bröderna Johansson deponi (Hjälm 4:1)<br>Enens båtägares ek. förening (Enen 1:20 och 1:101)<br>E. Wallin färgeri (Norrbro 4)<br>Fjälebodeponin (Fjälebo 2:1)<br>Frillesås bil och traktor (Lillared 1:16 och 1:7)<br>Kungsbacka båtsällskap (Kungsbacka 2:13, 2:2 och 3:1)<br>Kungsbacka kemiska tvätt (Samariten 11)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Alma Larsson, Petterssonska färgeri o garnhandel (Söderbro 11)<br>Sjögärdedeponin (Sjögärde 1:6)<br>Slamlagunen deponi (Kungsbacka 6:27)<br>Spekedalsdeponin (Spekedal S:3)<br>Svinholmens marina AB (Svinholmen 1:2)<br>Torpadaladeponin (Torpa 4:11)<br>Torreds deponi (Torred 1:12)<br>Ölmanäsdeponin (Ölmanäs 17:1) |
+| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
+| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
+| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 142 -->
 
@@ -5602,13 +5580,6 @@ Tillsyn pågår för fastigheter som ägs av Aranäs och Eksta. Nästan alla fas
 inventerade och granskade.
 
 Sida 20 av 33
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
-| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
-| --- | --- | --- |
-| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
-| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 143 -->
 

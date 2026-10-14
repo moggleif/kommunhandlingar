@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.12f25b4719ea79749e1407c/17809985988
 sha256: 5fa1143fe5518c8e03f41ec3e7476aa41d6ed14f56dea41fc4769a2e10dc59ae
 bytes: 3292354
 sidor: 76
-hamtad: 2026-10-07T23:05:59+00:00
-konverterad: 2026-10-07T23:06:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:12:28+00:00
+konverterad: 2026-10-14T07:12:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+tal_obekraftade: [13, 14, 17]
+figurer: [13, 14, 17, 29, 30, 31, 45, 56]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2950,7 +2950,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 
 <!-- sida 74 -->
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+[Tabell 74-76-1](handlingar.tabeller/74-76-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut | Beslutsdatum |
 | --- | --- | --- | --- | --- |
@@ -2977,13 +2977,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-05-19<br>14:48 | 285046 | A 4.1 | Avslag | 20260526 |
 | 2026-05-21<br>17:40 | 285696 | A 4.1 | Avslag | 20260526 |
 | 2026-05-24<br>11:40 | 286211 | A 4.1 | Avslag | 20260601 |
-
-<!-- sida 75 -->
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
 | 2026-05-25<br>20:32 | 286585 | A 4.1 | Avslag | 20260526 |
-| --- | --- | --- | --- | --- |
 | 2026-05-26<br>08:56 | 286660 | A 4.1 | Avslag | 20260526 |
 | 2026-05-26<br>10:56 | 286713 | A 4.1 | Avslag | 20260526 |
 | 2026-05-26<br>12:16 | 286750 | A 4.1 | Avslag | 20260526 |
@@ -3007,11 +3001,9 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-05-21<br>20:24 | 285714 | A 4.1 | Beviljad | 20260522 |
 | 2026-05-22<br>20:56 | 286032 | A 4.1 | Beviljad | 20260525 |
 | 2026-05-26<br>14:24 | 286811 | A 4.1 | Beviljad | 20260526 |
+| 2026-06-01<br>16:24 | 288751 | A 4.1 | Beviljad | 20260603 |
+| 2026-06-02<br>20:56 | 289456 | A 4.1 | Beviljad | 20260603 |
+
+<!-- sida 75 -->
 
 <!-- sida 76 -->
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
-| 2026-06-01<br>16:24 | 288751 | A 4.1 | Beviljad | 20260603 |
-| --- | --- | --- | --- | --- |
-| 2026-06-02<br>20:56 | 289456 | A 4.1 | Beviljad | 20260603 |

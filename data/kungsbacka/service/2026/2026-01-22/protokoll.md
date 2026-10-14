@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.69aab04019bdadb84fd70818/1769158707
 sha256: 91d408e2cb852e917b2d42b4021e93e45387ed877b721301abb42274f123d634
 bytes: 191253
 sidor: 17
-hamtad: 2026-10-08T02:01:24+00:00
-konverterad: 2026-10-08T02:01:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:41:30+00:00
+konverterad: 2026-10-14T09:41:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -544,22 +544,42 @@ Sammanfattning av ärendet
 Följande skrivelser har inkommit till nämnden för Service under perioden 2025-12-
 15 till 2025-12-19,
 
+Beskrivning          Inkom    Tillhör ärende Ärendemening
+(Kommunstyrelsen) (Beslut § 225) 2025-12-15 SE-2025-00529 Revidering av regler för
+\- Revidering av regler för              fakturering och
+fakturering och kravhantering           kravhantering
+
+Kommunstyrelsens     2025-12-15 SE-2025-00529 Revidering av regler för
+Tjänsteskrivelse - Revidering av        fakturering och
+regler för fakturering och              kravhantering
+kravhantering
+Regler för fakturering och 2025-12-15 SE-2025-00529 Revidering av regler för
+kravhantering -                         fakturering och
+(KS 2025-11-25 § 225)                   kravhantering
+
+(Kommunfullmäktige)  2025-12-18 SE-2025-00533 Redovisning av icke
+(Beslut § 238) - Redovisning av         färdigberedda motioner
+icke färdigberedda motioner             (2, 2025)
+(2, 2025)
+
+Kommunledningskontorets 2025-12-18 SE-2025-00533 Redovisning av icke
+Tjänsteskrivelse - Redovisning av       färdigberedda motioner
+icke färdigberedda motioner             (2, 2025)
+(2, 2025)
+Sammanställning - Redovisning av 2025-12-18 SE-2025-00533 Redovisning av icke
+icke färdigberedda motioner             färdigberedda motioner
+(2, 2025)                               (2, 2025)
+
+(Kommunfullmäktige)  2025-12-18 SE-2025-00534 Koncernbudget 2026
+(Beslut § 240)                          (KS 2024-00717)
+\- Koncernbudget 2026
+Kommunledningskontorets 2025-12-18 SE-2025-00534 Koncernbudget 2026
+Tjänsteskrivelse -                      (KS 2024-00717)
+Koncernbudget 2026
+
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| Beskrivning | Inkom | Tillhör ärende | Ärendemening |
-| --- | --- | --- | --- |
-| (Kommunstyrelsen) (Beslut § 225)<br>- Revidering av regler för<br>fakturering och kravhantering | 2025-12-15 | SE-2025-00529 | Revidering av regler för<br>fakturering och<br>kravhantering |
-| Kommunstyrelsens<br>Tjänsteskrivelse - Revidering av<br>regler för fakturering och<br>kravhantering | 2025-12-15 | SE-2025-00529 | Revidering av regler för<br>fakturering och<br>kravhantering |
-| Regler för fakturering och<br>kravhantering -<br>(KS 2025-11-25 § 225) | 2025-12-15 | SE-2025-00529 | Revidering av regler för<br>fakturering och<br>kravhantering |
-| (Kommunfullmäktige)<br>(Beslut § 238) - Redovisning av<br>icke färdigberedda motioner<br>(2, 2025) | 2025-12-18 | SE-2025-00533 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2025) |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Redovisning av<br>icke färdigberedda motioner<br>(2, 2025) | 2025-12-18 | SE-2025-00533 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2025) |
-| Sammanställning - Redovisning av<br>icke färdigberedda motioner<br>(2, 2025) | 2025-12-18 | SE-2025-00533 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2025) |
-| (Kommunfullmäktige)<br>(Beslut § 240)<br>- Koncernbudget 2026 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Koncernbudget 2026 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
 
 <!-- sida 14 -->
 

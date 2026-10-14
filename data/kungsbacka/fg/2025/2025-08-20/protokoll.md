@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5636ee16198cad5964d95412/1756122089
 sha256: 2c45a69aa364c216e6c0b018822e09d21b3c2ab5546987c978e5ea6f3bce6351
 bytes: 409009
 sidor: 13
-hamtad: 2026-10-07T22:37:34+00:00
-konverterad: 2026-10-07T22:37:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:48:40+00:00
+konverterad: 2026-10-14T06:48:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -284,7 +284,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9F83538091E438995E17B10E80A360341F54CC6FD7
 Transaktionsidentitet: BE62FA81C6E6D78B2E3558878641398AE263DD2917
 
-[Tabell 7-1](protokoll.tabeller/7-1.csv)
+[Tabell 7-8-1](protokoll.tabeller/7-8-1.csv)
 
 | Förskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
 | --- | --- | --- | --- | --- |
@@ -299,6 +299,14 @@ Transaktionsidentitet: BE62FA81C6E6D78B2E3558878641398AE263DD2917
 | Fritidshem åk 4-6 | 19 426 | 19 484 | 30 595 | 30 658 |
 | Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 2 | 121 840 | 122 182 | 148 959 | 149 330 |
 | Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 1 | 157 168 | 157 609 | 187 756 | 188 234 |
+| Förskoleklass, Grundskola och<br>Anpassad grundskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
+| Förskoleklass | 44 744 | 44 872 | 87 377 | 87 513 |
+| Grundskola åk 1-3 | 53 871 | 54 027 | 98 287 | 98 454 |
+| Grundskola åk 4-6 | 63 633 | 63 818 | 108 799 | 108 997 |
+| Grundskola åk 7-9 | 72 052 | 72 261 | 117 844 | 118 070 |
+| Integrerad anpassad grundskola nivå 1 | 400 388 | 401 570 | 535 416 | 536 874 |
+| Integrerad anpassad grundskola nivå 2 | 236 080 | 236 781 | 359 024 | 359 964 |
+| Anpassad grundskola | 444 847 | 446 155 | 517 169 | 518 573 |
 
 <!-- sida 8 -->
 
@@ -321,18 +329,6 @@ förskoleklass, grundskola och anpassad grundskola.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9F83538091E438995E17B10E80A360341F54CC6FD7
 Transaktionsidentitet: BE62FA81C6E6D78B2E3558878641398AE263DD2917
-
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
-
-| Förskoleklass, Grundskola och<br>Anpassad grundskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
-| --- | --- | --- | --- | --- |
-| Förskoleklass | 44 744 | 44 872 | 87 377 | 87 513 |
-| Grundskola åk 1-3 | 53 871 | 54 027 | 98 287 | 98 454 |
-| Grundskola åk 4-6 | 63 633 | 63 818 | 108 799 | 108 997 |
-| Grundskola åk 7-9 | 72 052 | 72 261 | 117 844 | 118 070 |
-| Integrerad anpassad grundskola nivå 1 | 400 388 | 401 570 | 535 416 | 536 874 |
-| Integrerad anpassad grundskola nivå 2 | 236 080 | 236 781 | 359 024 | 359 964 |
-| Anpassad grundskola | 444 847 | 446 155 | 517 169 | 518 573 |
 
 <!-- sida 9 -->
 

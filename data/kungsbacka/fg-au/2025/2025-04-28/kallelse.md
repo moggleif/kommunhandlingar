@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d401b4/174558741619
 sha256: 28232ee33b7d9ba24eb7e8c9c2b7dc18e9e5a9bfc49761022e36002e78a6cdc6
 bytes: 194846
 sidor: 4
-hamtad: 2026-10-07T23:17:44+00:00
-konverterad: 2026-10-07T23:17:51+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:23:34+00:00
+konverterad: 2026-10-14T07:23:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -110,7 +110,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -118,6 +118,10 @@ KUNGSBACKA  KOMMUN
 |  | Paus 14:45-14:55 |  |  |
 | 6. | Nämndens årshjul läsåret 25/26<br>Kl 14:55-15:10<br>Frida Byrsten, verksamhetschef | FG-2025-00187 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 7. | Ansökan från Kullaviks<br>montessoriförskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:10-15:20<br>Frida Byrsten, verksamhetschef<br>Sarah von Zweibergk, utredare | FG-2024-00634 | Nämnden för Förskola & Grundskola avslår<br>ansökan från Kullaviks Montessoriskola<br>ekonomisk förening om permanent utökning av<br>barnantal på förskolan till totalt 104 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>att Kullaviks Montessoriskola ekonomisk<br>förening bedriver verksamhet med barnantal på<br>förskolan, Bångsbovägen 13, med upp till 96<br>barn.<br>Nämnden godkänner en tillfällig utökning till<br>102 barn fram till och med juli 2026. |
+| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
+| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
+| 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 11. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:30-15:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 4 -->
 
@@ -127,12 +131,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
-| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
-| 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 11. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:30-15:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

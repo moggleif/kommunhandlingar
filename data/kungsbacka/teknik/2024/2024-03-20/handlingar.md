@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22f4f9/1710496721
 sha256: 5241e7d30c851167a377d71e6375cf42e4e4684df313e4aa653a264b9a75584f
 bytes: 8202585
 sidor: 73
-hamtad: 2026-10-08T00:48:02+00:00
-konverterad: 2026-10-08T00:48:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:40:46+00:00
+konverterad: 2026-10-14T08:41:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [56, 57, 58, 59]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
+tal_obekraftade: [54, 56, 57, 58, 59]
+figurer: [8, 13, 21, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 61]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -543,9 +543,23 @@ Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
 Tjänstespecifikation i Cesar2. Servicenivå gäller enligt Cesars standard för SN 0 om
 inget annat avtalats.
 
+Service-                              Felavhjälpning
+Tillgänglighet Felanmälan Servicetid      Åtgärdstid
+nivå                                   påbörjad
+Helgfri Inom 4 timmar
+Fiber: 99,50% Dygnet                    Inom 12 timmar
+vardag  Helgfri vardag
+SN 0     Kapacitet: runt alla                    Helgfri vardag
+07.0017.00 07.00-17.00
+98,00%    dagar                         07.00-17.00
+Fiber: 99,70% Dygnet Dygnet  Inom 4 timmar Inom 24 timmar
+SN 1     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,00%    dagar    dagar      dagar       dagar
+Fiber: 99,90% Dygnet Dygnet  Inom 4 timmar Inom 8 timmar
+SN 2     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-
 •  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
@@ -561,14 +575,6 @@ Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
-
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
-| Service-<br>nivå | Tillgänglighet | Felanmälan | Servicetid | Felavhjälpning<br>påbörjad | Åtgärdstid |
-| --- | --- | --- | --- | --- | --- |
-| SN 0 | Fiber: 99,50%<br>Kapacitet:<br>98,00% | Dygnet<br>runt alla<br>dagar | Helgfri<br>vardag<br>07.0017.00 | Inom 4 timmar<br>Helgfri vardag<br>07.00-17.00 | Inom 12 timmar<br>Helgfri vardag<br>07.00-17.00 |
-| SN 1 | Fiber: 99,70%<br>Kapacitet:<br>99,00% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 24 timmar<br>Dygnet runt alla<br>dagar |
-| SN 2 | Fiber: 99,90%<br>Kapacitet:<br>99,90% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 8 timmar<br>Dygnet runt alla<br>dagar |
 
 <!-- sida 14 -->
 
@@ -2319,17 +2325,55 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (4)
 
+Punkt i
+delegeringsordn        Ansvarig   Delegeringens
+ing         Lagrum     Delegat    omfattning   Taget beslut och datum för beslutet
+Trafikingenjör
+Samordnare
+4.8         13 kap. 3 § VC Trafik & Beslut till 0 beslut till transportör om undantag
+trafikförordning Utemiljö EC transportör och från bestämmelserna om största
+en (1998:1276) Planering & yttrande till tillåtna fordonsbredd, -längd och -
+4 kap. 12 §, 15 Utformning EC Trafikverket om vikt.
+§ 17 §     Anläggning & undantag från
+trafikförordning Utveckling bestämmelserna 1 yttrande till Trafikverket om
+en         Trafikingenjör om största tillåtna undantag från bestämmelserna om
+Samordnare fordonsbredd, - största tillåtna fordonsbredd, -längd
+längd och -vikt och - vikt.
+4.10        10 kap. 14 § VC Trafik & Beslut om 2st beslut om föreskrifter vid
+
+trafikförordning Utemiljö EC föreskrifter vid vägarbete eller liknande arbete samt
+en (1998:1276) Planering & vägarbete eller under kortare tid vid skada eller risk
+Utformning EC liknande arbete för skada på väg
+Anläggning & samt under
+Utveckling kortare tid vid
+Trafikingenjör skada eller risk för
+Samordnare skada på väg
+Vägtekniker
+4.11        2 § lagen om VC Trafik & Beslut om 0 beslut om flyttning av fordon
+flyttning av Utemiljö EC drift flyttning av
+fordon i vissa Gata EC fordon
+fall och 2 § Planering &
+förordningen Utformning EC
+om flyttning av Anläggning &
+fordon i vissa Utveckling
+fall       Arbetsledare,
+Trafik-
+samordnare
+Trafikövervakar
+e
+4.13        5 § lag    Trafikövervakar Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om e       felparkeringsavgif - 607 st
+felparkeringsav
+t samt
+gift och 1 § lag
+kontrollavgift vid Kontrollavgifter (tomtmark):
+(1984:318) om
+olovlig parkering - 101 st
+kontrollavgift
+vid olovlig
+parkering
+
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | Trafikingenjör<br>Samordnare |  |  |
-| 4.8 | 13 kap. 3 §<br>trafikförordning<br>en (1998:1276)<br>4 kap. 12 §, 15<br>§ 17 §<br>trafikförordning<br>en | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till<br>transportör och<br>yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna<br>om största tillåtna<br>fordonsbredd, -<br>längd och -vikt | 0 beslut till transportör om undantag<br>från bestämmelserna om största<br>tillåtna fordonsbredd, -längd och -<br>vikt.<br>1 yttrande till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -längd<br>och - vikt. |
-| 4.10 | 10 kap. 14 §<br>trafikförordning<br>en (1998:1276) | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete<br>samt under<br>kortare tid vid<br>skada eller risk för<br>skada på väg | 2st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2024-<br>00021 Varbergsvägen<br>1384 2024-<br>00031 P-hus Linden |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa<br>fall och 2 §<br>förordningen<br>om flyttning av<br>fordon i vissa<br>fall | VC Trafik &<br>Utemiljö EC drift<br>Gata EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervakar<br>e | Beslut om<br>flyttning av<br>fordon | 0 beslut om flyttning av fordon |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervakar<br>e | Beslut om<br>felparkeringsavgif<br>t samt<br>kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 607 st<br>Kontrollavgifter (tomtmark):<br>- 101 st |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
 
 | 1384 2024-<br>00021 | Varbergsvägen |
 | --- | --- |
@@ -2339,17 +2383,52 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+Punkt i
+delegeringsordn        Ansvarig   Delegeringens
+ing         Lagrum     Delegat    omfattning   Taget beslut och datum för beslutet
+4.16        13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordning are  parkeringstillstån rörelsehindrad
+en (1998:1276)
+d för        Beviljade: 12
+rörelsehindrade Avslagna: 1
+4.18        Ordningslagen VC Trafik & Tecknande av 1 tecknande av avtal som rör
+(1993:1617) 2 Utemiljö EC avtal som rör begagnade av offentlig plats på
+kap        Planering & begagnade av Lindens torg
+Utformning EC offentlig plats
+Anläggning &
+Utveckling
+Samordnare
+5.1         6–9 §§ lag Färdtjänstutred Beslut om Beslut om färdtjänst
+(1997:736) om are     tillstånd till Beviljade: 34
+färdtjänst EC Kansli
+färdtjänst med Avslagna: 0
+regelkompletterin
+gar
+5.3         4–7 §§ lag Färdtjänstutred Beslut om Beslut om tillstånd till riksfärdtjänst
+(1997:735) om are     tillstånd till Beviljade: 9
+riksfärdtjänst EC Kansli
+riksfärdtjänst Avslagna: 0
+8.3         61 § lokala Anette Englund, Besluta om 240206 1 st
+renhållnings- Louise  tillfälligt uppehåll 240207 1 st
+föreskrifter Backman-Smisth i sophämtning 240213 3 st
+Kund &                  240214 2 st
+Kommunikation           240215 2 st
+240229 1 st
+10.3.2      AB § 10mom 1 - VC     Avstängning  3 st beslut i januari.
+3
+I samråd med HR på förvaltningen.
 
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.16 | 13 kap. och 8 §<br>trafikförordning<br>en (1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstån<br>d för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 12<br>Avslagna: 1 |
-| 4.18 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Samordnare | Tecknande av<br>avtal som rör<br>begagnade av<br>offentlig plats | 1 tecknande av avtal som rör<br>begagnade av offentlig plats på<br>Lindens torg |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till<br>färdtjänst med<br>regelkompletterin<br>gar | Beslut om färdtjänst<br>Beviljade: 34<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 9<br>Avslagna: 0 |
-| 8.3 | 61 § lokala<br>renhållnings-<br>föreskrifter | Anette Englund,<br>Louise<br>Backman-Smisth<br>Kund &<br>Kommunikation | Besluta om<br>tillfälligt uppehåll<br>i sophämtning | 240206 1 st<br>240207 1 st<br>240213 3 st<br>240214 2 st<br>240215 2 st<br>240229 1 st |
-| 10.3.2 | AB § 10mom 1 -<br>3 | VC | Avstängning | 3 st beslut i januari.<br>I samråd med HR på förvaltningen. |
-| 10.3.4 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevald<br>a | OF/vice OF | Beslutat om<br>kurser,<br>konferenser och<br>dylikt för<br>förtroendevald | - Deltagande för ordförande på<br>förvaltningen för Tekniks resultatdag<br>den 8 februari. 2024-02-07, TE-2023-<br>00502.<br>- Deltagande för ledamöter på<br>förvaltningen för Tekniks resultatdag<br>den 8 februari 2024-02-07 TE-2023-<br>00502. |
+10.3.4      Nämndens   OF/vice OF Beslutat om  - Deltagande för ordförande på
+budget, Regler        kurser,      förvaltningen för Tekniks resultatdag
+och riktlinjer för    konferenser och den 8 februari. 2024-02-07, TE-2023-
+förmåner till         dylikt för   00502.
+
+förtroendevald        förtroendevald
+\- Deltagande för ledamöter på
+a
+förvaltningen för Tekniks resultatdag
+den 8 februari 2024-02-07 TE-2023-
+00502\.
 
 <!-- sida 73 -->
 

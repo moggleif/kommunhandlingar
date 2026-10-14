@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e1cdc/17744444682
 sha256: abba117be8459af61c63dda6f296f7955ea6f03e9a054882c3c185312c9ea531
 bytes: 231712
 sidor: 7
-hamtad: 2026-10-08T00:19:11+00:00
-konverterad: 2026-10-08T00:19:18+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:15:36+00:00
+konverterad: 2026-10-14T08:15:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -70,13 +70,18 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 8. | MYREKULLA 7:10 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002346 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 19 200 kronor.<br>Avgiften är minskad med 19 200 kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 9. | NÖTEGÅNG 2:60 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>000126 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 900 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 10. | SLÄPS-KULLEN 2:442 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002597 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden lämnar negativt<br>förhandsbesked för två enbostadshus på<br>fastigheten Släps kullen 2:442.<br>Byggnadsnämnden godkänner<br>lokaliseringsstudien som underlag för beslut.<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige. | 5<br>min |
+| 11. | SKÅRBY 1:2 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>000592 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 735 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 12. | VALLDA 45:1 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002242 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 0 kronor. Avgiften är<br>0 kronor på grund av att beslutet har tagit mer<br>än 10 veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 13. | VALLDA 9:43 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>000156 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 22 400 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 14. | ÖLMANÄS 1:8 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002565 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 734 kr kronor.<br>Avgiften är minskad med 25 734 kr kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 15. | KUNGSBACKA 2:33 -<br>Bygglov för tillbyggnad av<br>verksamhetsbyggnad<br>och nybyggnad av murar<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>002666 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för tillbyggnad av<br>verksamhetsbyggnad och nybyggnad av<br>murar.<br>Golvhöjden för tillbyggnaden fastställs till<br>+19,95 i suterrängplanet/källaren och 22,88<br>på plan 1. Detta är samma höjder som i<br>befintlig byggnad.<br>Du behöver påbörja byggnationen inom två år<br>och färdigställa den inom fem år från det att<br>beslutet vinner laga kraft. Om tidsfristerna<br>inte hålls gäller inte lovet längre.<br>Du måste ha en kontrollansvarig för att få<br>bygga. Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 70 246 kronor. Av<br>detta kostar bygglovet 42 426 kronor och<br>byggskedet kostar 27 820 kronor. Observera<br>att eventuell utstakning och lägeskontroll inte<br>är med i ovanstående belopp. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
 
 <!-- sida 4 -->
 
@@ -84,26 +89,11 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 11. | SKÅRBY 1:2 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>000592 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 735 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 12. | VALLDA 45:1 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002242 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 0 kronor. Avgiften är<br>0 kronor på grund av att beslutet har tagit mer<br>än 10 veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 13. | VALLDA 9:43 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>000156 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 22 400 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 14. | ÖLMANÄS 1:8 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002565 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 734 kr kronor.<br>Avgiften är minskad med 25 734 kr kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(7)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 15. | KUNGSBACKA 2:33 -<br>Bygglov för tillbyggnad av<br>verksamhetsbyggnad<br>och nybyggnad av murar<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>002666 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för tillbyggnad av<br>verksamhetsbyggnad och nybyggnad av<br>murar.<br>Golvhöjden för tillbyggnaden fastställs till<br>+19,95 i suterrängplanet/källaren och 22,88<br>på plan 1. Detta är samma höjder som i<br>befintlig byggnad.<br>Du behöver påbörja byggnationen inom två år<br>och färdigställa den inom fem år från det att<br>beslutet vinner laga kraft. Om tidsfristerna<br>inte hålls gäller inte lovet längre.<br>Du måste ha en kontrollansvarig för att få<br>bygga. Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 70 246 kronor. Av<br>detta kostar bygglovet 42 426 kronor och<br>byggskedet kostar 27 820 kronor. Observera<br>att eventuell utstakning och lägeskontroll inte<br>är med i ovanstående belopp. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
 
 <!-- sida 6 -->
 
@@ -111,13 +101,15 @@ KUNGSBACKA  KOMMUN
 
 6(7)
 
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
+[Tabell 6-7-1](kallelse.tabeller/6-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 16. | RÖSAN 2:29 - Bygglov för<br>nybyggnad av enbostadshus<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>001971 | Förslag till beslut<br>Byggnadsnämnden arbetsutskott lämnar<br>positivt bygglov för nybyggnad av<br>enbostadshus på Rösan 2:29.<br>Färdig golvhöjden för huvudbyggnaden<br>fastställs till +8,0 och 11,0.<br>Du behöver påbörja byggnationen inom två år<br>och färdigställa den inom fem år från det att<br>beslutet vinner laga kraft. Om tidsfristerna<br>inte hålls gäller inte lovet längre.<br>Du måste ha en kontrollansvarig för att få<br>bygga. Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 52 858 kronor. Av<br>detta kostar bygglovet 30 602 kronor och<br>byggskedet 22 256 kronor. Observera att<br>eventuell utstakning och lägeskontroll inte är<br>med i ovanstående belopp. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
 | 17. | VALLDA 8:63 - Bygglov för<br>nybyggnad av<br>komplementbyggnad<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>001739 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för nybyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 6955 kronor. Avgiften<br>är fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
 | 18. | VIKEN 2:3 - Bygglov för<br>nybyggnad av<br>komplementbyggnad<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>002516 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för nybyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 6955 kronor. Avgiften<br>är fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
+| 19. | ÅSA 2:59 – Bygglov för<br>nybyggnad av enbostadshus,<br>förråd mur samt markåtgärder<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2019-<br>000180 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för nybyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 6955 kronor. Avgiften<br>är fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
+| 20. | ÄRLAN 11 - Bygglov för<br>ändrad användning av<br>flerbostadshus<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>002368 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad användning<br>av flerbostadshus.<br>Avgiften för beslutet är 45 903 kronor för<br>ändrad användning och 11 128 kronor för den<br>utvändig ändringen vilket innebär att den<br>totala avgiften uppgår till 57 031 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023 12-14 § 196. | 5<br>min |
 
 <!-- sida 7 -->
 
@@ -127,10 +119,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofia Johansson
 ordförande                        sekreterare
-
-[Tabell 7-1](kallelse.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 19. | ÅSA 2:59 – Bygglov för<br>nybyggnad av enbostadshus,<br>förråd mur samt markåtgärder<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2019-<br>000180 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för nybyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 6955 kronor. Avgiften<br>är fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
-| 20. | ÄRLAN 11 - Bygglov för<br>ändrad användning av<br>flerbostadshus<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2025-<br>002368 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad användning<br>av flerbostadshus.<br>Avgiften för beslutet är 45 903 kronor för<br>ändrad användning och 11 128 kronor för den<br>utvändig ändringen vilket innebär att den<br>totala avgiften uppgår till 57 031 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023 12-14 § 196. | 5<br>min |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.193b596219ddcc6f486b0641/1778143289
 sha256: f1d42c24c88dedb7843f9fd93be4c09417987f15933ff48b5034f473606a8d33
 bytes: 6961192
 sidor: 172
-hamtad: 2026-10-08T00:04:15+00:00
-konverterad: 2026-10-08T00:04:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:01:52+00:00
+konverterad: 2026-10-14T08:02:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [24, 28, 34, 35, 36, 40, 43, 44, 45, 46, 47, 48, 51, 68, 72, 73, 74, 98, 112, 117, 131, 132, 134, 135, 143, 145, 167]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -946,125 +946,66 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 <!-- sida 24 -->
 
 Fasta årsarvoden för deltidsuppdrag, Deltidsarvoden, procentsatser
-Uppdrag i % av övriga
+Nämnd/styrelse           Uppdrag          Uppdrag i % av övriga
 kommunalråd, avsnitt 3.1
-40
-5
-35 /251
-18 /10
-10
-8
-5
-35 /25
-18 /10
-10
-10
-8
-4
-30/22
-18 /12
-10
-8
-6
-5
-35 /25
-18 /10
-10
-10
-8
-8
-30
-18
-25
-10
-25
-10
-25 /17
-18 /12
-8
-6
-4
-30
-18
-10
-20
-8
-4
-15
-6
-15
-6
-5
-15
-6
-10
-2
-4
-2
-8
+K ommunstyrelsen (ej kommunalråd) Ledamot i arbetsutskott 40
+Ersättare i arbetsutskott 5
+Byggnadsnämnden          Ordförande           35 /251
+Vice ordförande      18 /10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 5
+N ämnden för Förskola & Grundskola Ordförande. 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 4
+N ämnden för Gymnasium & Arbetsmarknad Ordförande 30/22
+1:e vice ordförande  18 /12
+2:e vice ordförande   10
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 5
+Nämnden för Individ & Familjeomsorg Ordförande 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 8
+Nämnden för Kultur & Fritid Ordförande         30
+Vice ordförande       18
+Nämnden för Miljö & Hälsoskydd Ordförande      25
+Vice ordförande       10
+Nämnden för Service      Ordförande            25
+Vice ordförande       10
+Nämnden för Teknik       Ordförande           25 /17
+Vice ordförande      18 /12
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 4
+Nämnden för Vård & Oms org Ordförande.         30
+1:e vice ordförande   18
+2 Vice ordförande     10
+Kommunfullmäktige        Ordförande            20
+Vice ordförande       8
+2 Vice ordförande     4
+Eksta Bostads AB         Ordförande            15
+Vice ordförande       6
+Kommunrevisionen         Ordförande            15
+Vice ordförande       6
+Ledamöter             5
+Stiftelsen Tjolöholm     Ordförande            15
+Vice ordförande       6
+Överförmyndarnämnden     Vice ordförande       10
+KF:s valberedning        Ordförande            2
+Valnämnden (valår 5%)    Ordförande            4
+(valår 3 %)              Vice ordförande       2
+Partigruppledare         Inte K-råd            8
 1Den lägre siffran avser arvodet om den förtroendevalda endast är ordförande i nämnden men inte i utskottet. Om
 samma person är ordförande i nämnden och i utskottet betalas arvode för respektive uppdrag enligt den högre
 siffran i tabellen. Samma gäller för vice ordförande.
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 11 (18)
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Nämnd/styrelse | Uppdrag |
-| --- | --- |
-| K ommunstyrelsen (ej kommunalråd) | Ledamot i arbetsutskott |
-|  | Ersättare i arbetsutskott |
-| Byggnadsnämnden | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Förskola & Grundskola | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Gymnasium & Arbetsmarknad | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Individ & Familjeomsorg | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Kultur & Fritid | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Miljö & Hälsoskydd | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Service | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Teknik | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Vård & Oms org | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2 Vice ordförande |
-| Kommunfullmäktige | Ordförande |
-|  | Vice ordförande |
-|  | 2 Vice ordförande |
-| Eksta Bostads AB | Ordförande |
-|  | Vice ordförande |
-| Kommunrevisionen | Ordförande |
-|  | Vice ordförande |
-|  | Ledamöter |
-| Stiftelsen Tjolöholm | Ordförande |
-|  | Vice ordförande |
-| Överförmyndarnämnden | Vice ordförande |
-| KF:s valberedning | Ordförande |
-| Valnämnden (valår 5%) | Ordförande |
-| (valår 3 %) | Vice ordförande |
-| Partigruppledare | Inte K-råd |
 
 <!-- sida 25 -->
 

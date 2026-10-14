@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf122a1/1707991707
 sha256: 91304d585e6baa493397136d8471e5c8429ff2abc1f684511da6ed73a8baf286
 bytes: 4998297
 sidor: 121
-hamtad: 2026-10-08T02:53:26+00:00
-konverterad: 2026-10-08T02:53:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:27:23+00:00
+konverterad: 2026-10-14T10:27:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [67]
+figurer: [67, 70, 87, 105, 107, 109]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1703,77 +1703,135 @@ har sjunkit såväl för kort- som långtidssjukfrånvaro. Andelen frisknärvaro
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel deltid 26,5% 28,3% 29,2% 33,3% 31,6% |  |
-| Andel kvinnor<br>26,6% 28,4% 28,8% 34,6% 33,6%<br>som har deltid |  |
-| Andel kvinnor<br>73,4% 71,4% 71,2% 65,4% 66,4%<br>som har heltid |  |
-| Andel män som<br>26,3% 28,3% 30,2% 30,4% 27,1%<br>har deltid |  |
-| Andel män som<br>73,7% 71,7% 69,8% 69,6% 72,9%<br>har heltid |  |
+|  | Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 26,5% | 28,3% | 29,2% | 33,3% | 31,6% |
+|  | Andel kvinnor<br>som har deltid | 26,6% | 28,4% | 28,8% | 34,6% | 33,6% |
+|  | Andel kvinnor<br>som har heltid | 73,4% | 71,4% | 71,2% | 65,4% | 66,4% |
+|  | Andel män som<br>har deltid | 26,3% | 28,3% | 30,2% | 30,4% | 27,1% |
+|  | Andel män som<br>har heltid | 73,7% | 71,7% | 69,8% | 69,6% | 72,9% |
 
 <!-- sida 39 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Anställda andel
+70,4%       68,9%      71,3%         69,3%      67,8%
+kvinnor
+Anställda andel
+29,6%       31,1%      28,7%         30,7%      32,2%
+män
+Anställda
+genomsnittlig
+91,2%       90,6%      89%           87,6%      88,7%
+sysselsättnings
+grad
+Anställda totalt 223      196         202           202         208
+Antal
+medarbetare    16,2       15,3       14,5           15,8        15
+per chef
+Antal
+medarbetare    23,3        23        18,9           21,1       19,5
+per enhetschef
+Medarbetare
+20,2%       21,4%      20,8%         21,8%      22,1%
+30 - 39 år
+Medarbetare
+25,1%       28,1%      28,7%         28,7%      28,4%
+40 - 49 år
+Medarbetare
+27,8%       28,6%      27,2%         25,3%      23,6%
+50 - 59 år
+Medarbetare
+14,4%       16,3%      17,3%         20,3%      19,7%
+60 år och äldre
+Medarbetare
+12,6%       5,6%       5,9%            4%        6,3%
+yngre än 30 år
+Medelålder      46         47         47             48         47
+Pensionsavgån
+6          3          6               2          6
+gar
 6.5 Effektmått
 
 27
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Anställda andel<br>70,4% 68,9% 71,3% 69,3% 67,8%<br>kvinnor |  |
-| Anställda andel<br>29,6% 31,1% 28,7% 30,7% 32,2%<br>män |  |
-| Anställda<br>genomsnittlig<br>91,2% 90,6% 89% 87,6% 88,7%<br>sysselsättnings<br>grad |  |
-| Anställda totalt 223 196 202 202 208 |  |
-| Antal<br>medarbetare 16,2 15,3 14,5 15,8 15<br>per chef |  |
-| Antal<br>medarbetare 23,3 23 18,9 21,1 19,5<br>per enhetschef |  |
-| Medarbetare<br>20,2% 21,4% 20,8% 21,8% 22,1%<br>30 - 39 år |  |
-| Medarbetare<br>25,1% 28,1% 28,7% 28,7% 28,4%<br>40 - 49 år |  |
-| Medarbetare<br>27,8% 28,6% 27,2% 25,3% 23,6%<br>50 - 59 år |  |
-| Medarbetare<br>14,4% 16,3% 17,3% 20,3% 19,7%<br>60 år och äldre |  |
-| Medarbetare<br>12,6% 5,6% 5,9% 4% 6,3%<br>yngre än 30 år |  |
-| Medelålder 46 47 47 48 47 |  |
-| Pensionsavgån<br>6 3 6 2 6<br>gar |  |
-
-[Tabell 39-2](handlingar.tabeller/39-2.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro 62,6% 60,2% 68,8% 48,6% 60,5% |  |
-| Frisknärvaro<br>60,1% 59% 69,7% 45,4% 57,3%<br>Kvinnor |  |
-| Frisknärvaro<br>66,7% 63,1% 66,7% 56,3% 67,6%<br>Män |  |
-| Korttidssjukfrån<br>2% 2,6% 1,7% 2,8% 2,1%<br>varo |  |
-| Korttidssjukfrån<br>2,2% 2,4% 1,5% 3% 2,2%<br>varo Kvinnor |  |
+|  | Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 62,6% | 60,2% | 68,8% | 48,6% | 60,5% |
+|  | Frisknärvaro<br>Kvinnor | 60,1% | 59% | 69,7% | 45,4% | 57,3% |
+|  | Frisknärvaro<br>Män | 66,7% | 63,1% | 66,7% | 56,3% | 67,6% |
+|  | Korttidssjukfrån<br>varo | 2% | 2,6% | 1,7% | 2,8% | 2,1% |
+|  | Korttidssjukfrån<br>varo Kvinnor | 2,2% | 2,4% | 1,5% | 3% | 2,2% |
 
 <!-- sida 40 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Korttidssjukfrån
+1,8%        3%         2%            2,3%       1,7%
+varo Män
+Långtidssjukfrå
+2,8%       1,6%       1,2%           2,9%       1,6%
+nvaro
+Långtidssjukfrå
+3,7%       1,8%       1,3%           2,5%       1,6%
+nvaro Kvinnor
+Långtidssjukfrå
+1%          1%        1,1%           3,8%       1,8%
+nvaro Män
+Personalomsätt
+9,9%       19,1%      8,1%           5,9%       10%
+ning
+Sjukfrånvaro
+5,8%       4,3%       2,8%           5,5%       3,8%
+Kvinnor
+Sjukfrånvaro
+2,7%       3,9%       3,1%           6,1%       3,5%
+Män
+Sjukfrånvaro
+4,8%       4,2%       2,9%           5,6%       3,7%
+Totalt
+Sjukfrånvaro,
+andel av
+37,4%       20,6%      21,8%         37,3%      28,8%
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 41,3%     25,7%      26,9%         33,3%      25,3%
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 19,6%      7%        10,1%         46,7%      37,6%
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+2,4%       3,6%        3%            5,7%       5,8%
+åldrarna 29 år
+eller yngre
+Sjukfrånvaro,
+anställda i
+4,3%       3,8%       2,7%           4,4%       3,6%
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+5,8%       4,6%       3,1%           6,9%       3,7%
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 19,2      13,5        9,1           19,9       13,6
+anställd
 28
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Korttidssjukfrån<br>1,8% 3% 2% 2,3% 1,7%<br>varo Män |  |
-| Långtidssjukfrå<br>2,8% 1,6% 1,2% 2,9% 1,6%<br>nvaro |  |
-| Långtidssjukfrå<br>3,7% 1,8% 1,3% 2,5% 1,6%<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>1% 1% 1,1% 3,8% 1,8%<br>nvaro Män |  |
-| Personalomsätt<br>9,9% 19,1% 8,1% 5,9% 10%<br>ning |  |
-| Sjukfrånvaro<br>5,8% 4,3% 2,8% 5,5% 3,8%<br>Kvinnor |  |
-| Sjukfrånvaro<br>2,7% 3,9% 3,1% 6,1% 3,5%<br>Män |  |
-| Sjukfrånvaro<br>4,8% 4,2% 2,9% 5,6% 3,7%<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>37,4% 20,6% 21,8% 37,3% 28,8%<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 41,3% 25,7% 26,9% 33,3% 25,3%<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 19,6% 7% 10,1% 46,7% 37,6%<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>2,4% 3,6% 3% 5,7% 5,8%<br>åldrarna 29 år<br>eller yngre |  |
-| Sjukfrånvaro,<br>anställda i<br>4,3% 3,8% 2,7% 4,4% 3,6%<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>5,8% 4,6% 3,1% 6,9% 3,7%<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 19,2 13,5 9,1 19,9 13,6<br>anställd |  |
 
 <!-- sida 41 -->
 
@@ -2235,25 +2293,21 @@ KUNGSBACKA  KOMMUN
 
 Barn och ungas brottsutsatthet:
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Aktivitet | Problem | Mål | Primära aktörer | Utfall |
 | --- | --- | --- | --- | --- |
 | Stoppmöte<br>Förebyggande<br>inriktning.<br>När ett fenomen eller<br>händelse där det finns<br>en grupp ungdomar i<br>utkanten som närmar<br>sig riskzon för<br>kriminalitet. Mycket<br>fokus på att<br>medvetengöra<br>vårdnadshavare vad<br>deras ungdom<br>befinner sig och<br>erbjuda stöd och<br>möjlighet till ett<br>utökat närverk.<br>En ny operativ del<br>inom SSPF.<br>Agera så tidigt<br>som möjligt efter<br>en oroande händelse. | Riskzon till kriminalitet<br>Brott och oro kring flertal<br>individer eller fenomen<br>med brottslig karaktär<br>i Kungsbacka. | Minska<br>deltagande ungdomar som<br>befinner sig i riskzonen och<br>förhindra att kriminalitet<br>påbörjas.<br>Erbjuda råd och stöd till<br>vårdnadshavande och deras<br>ungdomar. | Skola, Socialtjänst,<br>Fritid och Polis.<br>Utöver dessa kan även<br>andra aktörer vara<br>aktuellt. Exempelvis<br>civilsamhället<br>eller näringslivet. | Fyra stoppmöten har<br>genomförts under<br>2023.<br>Under 2024 kommer<br>en kampanj<br>genomföras för att öka<br>kunskapen om<br>stoppmöten och riktas<br>främst till de skola<br>och fritid, som möter<br>många ungdomar. |
 | Tillfälligt<br>sammansatta team<br>Fånga upp en händelse<br>direkt<br>Samordnaren eller<br>annan inom BRÅ har<br>fått in tips om en<br>händelse.<br>Sammankallar ett<br>akutmöte med de<br>aktörer som kan vara<br>aktuella | Kriminalitet och oro<br>i offentlig miljö.<br>Aktörer som arbetar<br>nära målgruppen, påkalla<br>intensifiering av<br>samverkan och kommuni<br>kation | Effektiv samverkan | Polis, socialtjänst,<br>Ung i KBA (Fritid),<br>Nattvandrare mm.<br>BRÅ-samordnaren<br>initierar de kontakter<br>som är nödvändiga. | Verksamheten kring<br>Blå huset ökade från<br>och med den 17<br>november 2023 och<br>fyra veckor framåt.<br>Under samma<br>period uppmanades<br>även nattvandrare att<br>utgå från Blå huset<br>samt väktare och polis<br>kunde besöka Blå<br>huset. En dialog fanns<br>även med den lokala<br>föräldraföreningen<br>kopplad till Särö<br>skola.<br>Målet var att<br>samverka mellan olika<br>aktörer för en ökad<br>trygghet och minskad<br>kriminalitet i området.<br>Informationsutbyte |
+|  |  |  |  | stärker även<br>samverkan.<br>Utfallet av det arbetet<br>kommer utvärderas<br>under tidig vår 2024. |
+| Nattvandring och<br>trygghetsvandrande<br>föreningar | Öka vuxennärvaron | Öka vuxennärvaron i<br>offentlig miljö, den sociala<br>kontrollen och stärka den<br>sociala tilliten. | BRÅ och samverkan<br>med organisationen<br>nattvandrarna<br>Sverige | Informationsträffar<br>och utbildningsträffar<br>har hållits 2023.<br>Nattvandrarnas<br>aktiviteter har vid<br>behov satts in på<br>specifika riskplatser.<br>Under sommaren<br>trygghetsvandrade<br>även föreningar<br>verksamma inom<br>kommunen. |
+| Trygghet i offentlig<br>miljö: Inventering av<br>belysning, siktlinjer,<br>växtlighet<br>och skötselnivå.<br>Skapa prioriterad<br>åtgärdslista och utföra<br>åtgärderna löpande. | Otrygghet i anslutning<br>till fysisk miljö och<br>möjligheten att begå<br>brott. | Det ska finnas stråk att välja<br>som har en högre<br>trygghetsnivå.<br>Gång- och cykeltunnlar<br>som Teknik förvaltar,<br>ska inte kännas otrygga på<br>grund av bristfällig<br>belysning, skymmande växtl<br>ighet eller eftersatt<br>underhåll. | Teknik | 2022-2027<br>Åtgärda ett stråk och<br>en tunnel per år.<br>Diskussioner har förts<br>om bland annat den<br>fysiska miljön i Särö<br>samt andra<br>geografiska<br>områden. |
+| Kartläggningar | Vissa specifika grupper<br>har en ökad<br>otrygghetskänsla, och det<br>föreligger risk att utsättas<br>för specifika brott och<br>behöver därav särskilda<br>stödinsatser. | Öka stödet för<br>minoritetsgrupper och<br>särskilt utsatta unga. | Kultur & Fritid | Under 2023<br>genomfördes en<br>kartläggning rörande<br>unga kvinnors<br>brottsutsatthet #trygg<br>digital uppväxt.<br>Under 2024 har<br>diskussioner startat<br>om liknande<br>undersökningar. |
 
 <!-- sida 52 -->
 
 KUNGSBACKA  KOMMUN
 4 (9)
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-|  |  |  |  | stärker även<br>samverkan.<br>Utfallet av det arbetet<br>kommer utvärderas<br>under tidig vår 2024. |
-| --- | --- | --- | --- | --- |
-| Nattvandring och<br>trygghetsvandrande<br>föreningar | Öka vuxennärvaron | Öka vuxennärvaron i<br>offentlig miljö, den sociala<br>kontrollen och stärka den<br>sociala tilliten. | BRÅ och samverkan<br>med organisationen<br>nattvandrarna<br>Sverige | Informationsträffar<br>och utbildningsträffar<br>har hållits 2023.<br>Nattvandrarnas<br>aktiviteter har vid<br>behov satts in på<br>specifika riskplatser.<br>Under sommaren<br>trygghetsvandrade<br>även föreningar<br>verksamma inom<br>kommunen. |
-| Trygghet i offentlig<br>miljö: Inventering av<br>belysning, siktlinjer,<br>växtlighet<br>och skötselnivå.<br>Skapa prioriterad<br>åtgärdslista och utföra<br>åtgärderna löpande. | Otrygghet i anslutning<br>till fysisk miljö och<br>möjligheten att begå<br>brott. | Det ska finnas stråk att välja<br>som har en högre<br>trygghetsnivå.<br>Gång- och cykeltunnlar<br>som Teknik förvaltar,<br>ska inte kännas otrygga på<br>grund av bristfällig<br>belysning, skymmande växtl<br>ighet eller eftersatt<br>underhåll. | Teknik | 2022-2027<br>Åtgärda ett stråk och<br>en tunnel per år.<br>Diskussioner har förts<br>om bland annat den<br>fysiska miljön i Särö<br>samt andra<br>geografiska<br>områden. |
-| Kartläggningar | Vissa specifika grupper<br>har en ökad<br>otrygghetskänsla, och det<br>föreligger risk att utsättas<br>för specifika brott och<br>behöver därav särskilda<br>stödinsatser. | Öka stödet för<br>minoritetsgrupper och<br>särskilt utsatta unga. | Kultur & Fritid | Under 2023<br>genomfördes en<br>kartläggning rörande<br>unga kvinnors<br>brottsutsatthet #trygg<br>digital uppväxt.<br>Under 2024 har<br>diskussioner startat<br>om liknande<br>undersökningar. |
 
 <!-- sida 53 -->
 
@@ -2270,11 +2324,13 @@ Tillsammans med näringslivet mot brott och otrygghet:
 | --- | --- | --- | --- | --- |
 | Motordriven<br>ungdom | Av uppskattningar<br>har vi ca 50-tal<br>motordrivna<br>ungdomar som kör A-<br>traktorer mopedbilar<br>eller mopeder.<br>Ronderande väktare<br>tillsammans med<br>polisen har<br>identifierat en mindre<br>grupp fordon och<br>förare som<br>nyckelaktörer.<br>Orosamtal med<br>vårdnadshavare och<br>genomför generella<br>övervakande insatser<br>så som<br>fordonskontroller.<br>Rattfylleri och<br>bristfälliga fordon<br>förekommit. | Att förebygga brott innan<br>de uppstår.<br>Att de unga ska kunna<br>fortsätta träffas men<br>under former som inte<br>ställer till problem för<br>omgivningen. | BRÅ och<br>fastighetsbolag | Beslutat om att i början av<br>varje åt skicka ett fysiskt<br>brev riktat till<br>vårdnadshavare som har en<br>ungdom som fyller 15 år<br>med riktad info gällande<br>trafik och mopedkörkortet<br>Dialog i områden med<br>särskild motordriven<br>problematik.<br>Inventeringar av fysisk<br>miljö (relaterad till<br>trafik). |
 
-[Tabell 53-2](handlingar.tabeller/53-2.csv)
+[Tabell 53-54-2](handlingar.tabeller/53-54-2.csv)
 
 | Aktivitet | Problem | Mål | Primär aktör | Utfall |
 | --- | --- | --- | --- | --- |
 | Kartlägg<br>brottutsatthet och<br>otrygghet inom<br>näringslivet i<br>Kungsbacka. | Bristande<br>kunskap<br>rörande det<br>lokala<br>näringslivets<br>aktuella<br>situation och<br>utsatthet. | Samla in tillräckligt<br>med kunskap för att<br>effektivt<br>Stötta det lokala<br>näringslivet och<br>inkludera dem i det<br>brottsförebyggande<br>arbetet. | Brottsförebyggande<br>rådet, näring<br>livsenheten, lokala<br>näringslivet samt<br>polisen. | En kartläggning genomfördes<br>under 2023 med andra halländska<br>kommuner. Kungsbacka kommun<br>hade högst svarsfrekvens av de<br>Halländska kommunerna vilket<br>skulle kunna visa på en pålitlighet i<br>resultaten. Av resultaten framkom<br>att Kungsbackaföretag överlag är<br>mer förskonade mot brott och<br>otrygghet än andra halländska<br>kommuner (och riket i sin helhet).<br>Dock uppgav företaget både en<br>utsatthet för stölder och bedrägerier<br>samt att de över lag hade en låg<br>anmälningsbenägenhet.<br>Sammantaget visar kartläggningen<br>att satsning på att stärka<br>näringslivet i relation till |
+|  |  |  |  | brottspreventiva åtgärder är en<br>viktig satsning från lokala BRÅ:s<br>sida. |
+| Sprida konceptet<br>grannsamverkan till<br>näringslivet | Saknas specifik<br>stödfunktion<br>riktat mot det<br>lokala<br>näringslivet. | Erbjuda advekat stöd<br>och hjälp till det lokala<br>näringslivet. | Brottsförebyggande<br>rådet, näring<br>livsenheten, lokala<br>näringslivet samt<br>polisen. | Flertal informationskampanjer har<br>genomförts 2023 i form av<br>frukostträffar för att sprida<br>kunskapen om konceptet ”Företag<br>mot brott”. |
 
 <!-- sida 54 -->
 
@@ -2286,12 +2342,6 @@ KUNGSBACKA  KOMMUN
 ANDTS (Alkohol, narkotika, doping och spel):
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-|  |  |  |  | brottspreventiva åtgärder är en<br>viktig satsning från lokala BRÅ:s<br>sida. |
-| --- | --- | --- | --- | --- |
-| Sprida konceptet<br>grannsamverkan till<br>näringslivet | Saknas specifik<br>stödfunktion<br>riktat mot det<br>lokala<br>näringslivet. | Erbjuda advekat stöd<br>och hjälp till det lokala<br>näringslivet. | Brottsförebyggande<br>rådet, näring<br>livsenheten, lokala<br>näringslivet samt<br>polisen. | Flertal informationskampanjer har<br>genomförts 2023 i form av<br>frukostträffar för att sprida<br>kunskapen om konceptet ”Företag<br>mot brott”. |
-
-[Tabell 54-2](handlingar.tabeller/54-2.csv)
 
 | Aktivitet | Problem | Mål | Primära aktörer | Utfall |
 | --- | --- | --- | --- | --- |
@@ -2785,6 +2835,13 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2022   2023    2022    2023
+Verksamhet i badanläggningar             100     100
+
 Från år 2020 bedrivs verksamheten i de kommunala badanläggningarna av ett externt företag enligt ett
 koncessionsavtal. Uppföljningsmöten hålls kontinuerligt med leverantören för att säkerställa att avtalet uppfylls.
 Den näst största delen som utförs av externa aktörer är Kungsbacka teater, där externa producenter hyr in sig
@@ -2792,16 +2849,6 @@ och står för den största delen av teaterns föreställningar. Kulturskolan ha
 bedriver cirkusskola som komplement till ordinarie verksamhet.
 
 9
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| Verksamhet<br>Verksamhet i badanläggningar | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2022 2023<br>100 100 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2022 2023 |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 71 -->
 
@@ -2876,7 +2923,7 @@ Nämndens självskattning
 
 12
 
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -2893,6 +2940,12 @@ Nämndens självskattning
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 74 -->
 
@@ -2900,16 +2953,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 13
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| --- | --- |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 75 -->
 
@@ -3508,12 +3551,15 @@ Tabell 1: Sammanfattning av slutsatser
 
 1
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 | Frågeställning | Svar | EY kommentar |
 | --- | --- | --- |
 | Har föreningen följt kommunens<br>krav för utbetalning av<br>ekonomiska bidrag? | Nej, avvikelser<br>har noterats. | • Vi har inte noterat några avvikelser från Föreningens<br>sida i förhållande till kommunens grundkrav för stöd<br>till föreningar. Detsamma gäller för specifika krav för<br>att erhålla LOK-stöd eller utbildnings- och<br>utvecklingsstöd.<br>• Avvikelser i förhållande till bidragens övergripande<br>syfte noteras dock. Se avsnitt 3 nedan för ytterligare<br>information.<br>• Vi noterar förbättringsmöjligheter i kommunens<br>generella kravställning mot Föreningen, bl.a. saknas<br>helt skrivningar om kontroller,<br>återbetalningsskyldighet och regelefterlevnad.<br>• Handlingsplaner och rutiner avseende Föreningens<br>drogförebyggande och värdegrundsarbete saknas<br>helt. I arbetet kring droger ställs särskilt höga krav<br>på föreningar som är hälsocertifierade sedan<br>tidigare. |
 | Har föreningen säkerställt en<br>god ekonomistyrningsprocess? | Ja | • Vi bedömer att ekonomistyrningsprocessen är<br>tillräcklig utifrån organisationsform, Föreningens<br>storlek samt nuvarande kravställning från<br>Förvaltningen.<br>• Med anledning av att Föreningen tidigare<br>verksamhetsår inte har tillämpat redovisning fullt ut<br>mot de kostnadsställen som funnits uppsatta har det<br>dock inte varit möjligt att dra några slutsatser kring<br>vad kommunens bidrag faktiskt har använts till i<br>Föreningen. |
+|  |  | • Detsamma gäller för aktuellt verksamhetsår på<br>grund av att Föreningen redovisar erhållna medel<br>från kommunen mot ett gemensamt kostnadsställe<br>och inte tillämpar projektredovisning för kommunens<br>bidrag. |
+| Har föreningen följt sina interna<br>regler? | Nej, avvikelser<br>har noterats. | • Det finns uppgifter om att selektering sker i samband<br>med medlemskap, merträning och deltagande i<br>matcher i åldersgrupper som inte är tillåtna enligt<br>Föreningens policy.<br>• Vi noterar att Föreningens policy kring merträning<br>inte följs och vi är tveksamma till om RF:s riktlinjer<br>för barn- och ungdomsidrott efterlevs. Det finns<br>indikationer på att så inte är fallet med anledning av<br>punkten ovan.<br>• Vi noterar att uppgifter förekommer om<br>överträdelser från Föreningens sida avseende vem<br>som fattar beslut om avstängningar av ungdomar<br>och att det finns informella regler kring avstängning<br>från merträning. |
+| Förekommer uppgifter om<br>missförhållanden? Om ja, hur bör<br>dessa hanteras internt? | Ja | • Uppgifter om allvarliga missförhållanden förekommer<br>i delar av Föreningens verksamhet. Detta inkluderar<br>bl.a. uppgifter om att vuxna utsätter ungdomar för<br>mobbning och trakasserier. I flera fall finns<br>kopplingar till hur Föreningen använder sig av<br>selektering.<br>• Missförhållanden kan hanteras av Föreningen t.ex.<br>genom att ta fram handlingsplan med åtgärder för<br>att förebygga och förhindra missförhållanden och<br>förhålla sig konsekvent i sin hantering. Detta kan<br>bl.a. göras genom att i en rutin uttömmande ge<br>exempel på fysiskt och psykiskt våld med<br>tydliga hanteringsrutiner samt förutbestämda<br>konsekvenser vid överträdelser.<br>• Föreningen bör förtydliga i sin policy vad som<br>faktiskt gäller kring avstängning av aktiva, föräldrar<br>och tränare, bl.a. vem som har befogenhet att fatta<br>vilka beslut.<br>• Föreningen bör sedan överväga att se över alla<br>former av selektionsprocesser i Föreningen. |
 
 <!-- sida 91 -->
 
@@ -3535,13 +3581,6 @@ förbättringsmöjligheter i kommunens generella kravställning mot Föreningar 
 noterats.
 
 2
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-|  |  | • Detsamma gäller för aktuellt verksamhetsår på<br>grund av att Föreningen redovisar erhållna medel<br>från kommunen mot ett gemensamt kostnadsställe<br>och inte tillämpar projektredovisning för kommunens<br>bidrag. |
-| --- | --- | --- |
-| Har föreningen följt sina interna<br>regler? | Nej, avvikelser<br>har noterats. | • Det finns uppgifter om att selektering sker i samband<br>med medlemskap, merträning och deltagande i<br>matcher i åldersgrupper som inte är tillåtna enligt<br>Föreningens policy.<br>• Vi noterar att Föreningens policy kring merträning<br>inte följs och vi är tveksamma till om RF:s riktlinjer<br>för barn- och ungdomsidrott efterlevs. Det finns<br>indikationer på att så inte är fallet med anledning av<br>punkten ovan.<br>• Vi noterar att uppgifter förekommer om<br>överträdelser från Föreningens sida avseende vem<br>som fattar beslut om avstängningar av ungdomar<br>och att det finns informella regler kring avstängning<br>från merträning. |
-| Förekommer uppgifter om<br>missförhållanden? Om ja, hur bör<br>dessa hanteras internt? | Ja | • Uppgifter om allvarliga missförhållanden förekommer<br>i delar av Föreningens verksamhet. Detta inkluderar<br>bl.a. uppgifter om att vuxna utsätter ungdomar för<br>mobbning och trakasserier. I flera fall finns<br>kopplingar till hur Föreningen använder sig av<br>selektering.<br>• Missförhållanden kan hanteras av Föreningen t.ex.<br>genom att ta fram handlingsplan med åtgärder för<br>att förebygga och förhindra missförhållanden och<br>förhålla sig konsekvent i sin hantering. Detta kan<br>bl.a. göras genom att i en rutin uttömmande ge<br>exempel på fysiskt och psykiskt våld med<br>tydliga hanteringsrutiner samt förutbestämda<br>konsekvenser vid överträdelser.<br>• Föreningen bör förtydliga i sin policy vad som<br>faktiskt gäller kring avstängning av aktiva, föräldrar<br>och tränare, bl.a. vem som har befogenhet att fatta<br>vilka beslut.<br>• Föreningen bör sedan överväga att se över alla<br>former av selektionsprocesser i Föreningen. |
 
 <!-- sida 92 -->
 
