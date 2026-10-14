@@ -734,7 +734,7 @@ utan mappar läses inte därifrån.
 - **Givet** ett sammanträde som i poolen har ett fullständigt dokument av
   en typ, från en annan plattform
 - **När** en kandidat ur arkivet av samma typ för sammanträdet tas
-- **Så** hämtas den inte.
+- **Så** hämtas den inte, utom när K30 låter kvaliteten avgöra.
 - **Givet** en plats i poolen som bara har ett `ej-hamtad` ur arkivet från
   en annan plattform
 - **När** en kandidat ur arkivet för platsen tas
@@ -914,3 +914,31 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Givet** sidan med JavaScript
 - **När** besökaren väljer ett mål i tidslinjen
 - **Så** går sidan till målets kort och kortet visar sin historik.
+
+## K30 — Samma möte från två plattformar: högst kvalitet vinner
+
+Issue: [#154](https://github.com/moggleif/kommunhandlingar/issues/154).
+Hur och varför står i
+[ADR-0048](decisions/0048-hogst-kvalitet-vinner-mellan-plattformarna.md).
+
+- **Givet** ett sammanträde vars enda dokument av en typ i poolen är
+  fullständigt, utan namn och ur arkivet från en annan plattform
+- **När** en kandidat ur arkivet av samma typ för sammanträdet tas, som är
+  sin plattforms enda kandidat av typen för sammanträdet
+- **Så** hämtas och konverteras den. Har den högre `kvalitet` tar den
+  dokumentets plats, och den gamla källnyckeln blir en tidigare
+  källnyckel. Annars står dokumentet kvar, och kandidatens källnyckel blir
+  dess tidigare källnyckel.
+- **Givet** en källnyckel som har förlorat eller blivit ersatt så
+- **När** den dyker upp i en senare körning
+- **Så** hämtas den inte igen.
+- **Givet** en sådan kandidat som inte går att hämta
+- **När** den tas
+- **Så** står det fullständiga dokumentet kvar orört, och nästa körning
+  försöker igen.
+- **Givet** ett sammanträde med flera dokument av typen, typen `bilaga`,
+  ett dokument från en levande källa, ett dokument som kandidatens
+  plattform redan har prövats mot, eller flera kandidater av typen från
+  kandidatens plattform
+- **När** en kandidat ur arkivet av samma typ för sammanträdet tas
+- **Så** hämtas den inte.

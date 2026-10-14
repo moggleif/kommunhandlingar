@@ -489,16 +489,24 @@ steg 2 gör som för de levande källorna med två skillnader:
   lista, hämtas inte ("finns redan; arkivet fyller bara
   luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
   arkivets försök står den levande källans försök kvar orört.
-- **Två plattformar** ([ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md)).
+- **Två plattformar** ([ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md),
+  [ADR-0048](decisions/0048-hogst-kvalitet-vinner-mellan-plattformarna.md)).
   Plattformen är källnyckelns första del, före `:`. En kandidat ur
-  arkivet hämtas inte heller när sammanträdet (organ och datum) har ett
-  fullständigt dokument av samma typ från en annan plattform. En plats
-  vars dokument ur arkivet är `ej-hamtad` från en annan plattform tas
-  däremot av kandidaten: den hämtas dit, och den gamla nyckeln flyttas
-  till `tidigare_kallnycklar`. Ett försök från en levande källa tas inte
-  över. När båda plattformarna har en kandidat för ett nytt sammanträde
-  går `episerver` före `sitevision`, eftersom kandidaterna med samma
-  datum och typ ordnas efter källnyckeln (K13).
+  arkivet hämtas inte när sammanträdet (organ och datum) har ett
+  fullständigt dokument av samma typ från en annan plattform, utom när det
+  är sammanträdets enda dokument av typen, utan namn, ur arkivet, och
+  ingen nyckel från kandidatens plattform står bland dess tidigare
+  källnycklar, och kandidaten är sin plattforms enda kandidat av typen för
+  sammanträdet i listan. Då hämtas och konverteras kandidaten. Har den
+  högre `kvalitet` (ordningen står i
+  [Konvertering och kvalitet](#konvertering-och-kvalitet)) skrivs den på
+  dokumentets plats och den gamla nyckeln flyttas till
+  `tidigare_kallnycklar`; annars står dokumentet kvar och kandidatens
+  nyckel läggs i dess `tidigare_kallnycklar` ("lika eller lägre kvalitet;
+  det befintliga behålls"). En plats vars dokument ur arkivet är `ej-hamtad` från en
+  annan plattform tas av kandidaten: den hämtas dit, och den gamla
+  nyckeln flyttas till `tidigare_kallnycklar`. Ett dokument från en
+  levande källa prövas inte.
 - **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
   byten blir `ej-hamtad` med `fel: kapad`.
 
