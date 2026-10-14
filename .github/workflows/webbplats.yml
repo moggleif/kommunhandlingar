@@ -50,7 +50,7 @@ jobs:
           python -m kommunhandlingar.webbplats _site
           "${{ github.server_url }}/${{ github.repository }}"
           "$RUNNER_TEMP/avvikelser.jsonl"
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
 
   publicera:
     name: Publicera på GitHub Pages
