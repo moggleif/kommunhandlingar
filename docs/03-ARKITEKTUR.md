@@ -1411,6 +1411,10 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 - **Källorna** läses av AI-agenten: för innevarande år organets mötessida,
   för kommande år organets senaste beslut om sammanträdesdagar, eller
   förslaget som beslutet antog när beslutet bara finns inskannat (OCR).
+  Tidigare år, från 2024, är ett sammanträde per mapp i poolen, med
+  protokollet som källa, eller kallelsen och märkt osäkert när
+  protokollet saknas (K32,
+  [ADR-0053](decisions/0053-tidigare-sammantraden-las-ur-poolens-mappar.md)).
   Ett inställt möte står inte med, och inte heller planeringsdagar. Ett
   datum märks osäkert när källan är svår att läsa, eller när den anger en
   veckodag, uttryckligen eller genom att märka undantagen, och datumet
@@ -1429,7 +1433,9 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   antalet osäkra datum av alla i rubriken, hur datumen tas fram, en
   tabell med varje osäkert sammanträde, skälet och källan, och under
   rubriken Källor en tabell med en rad per organ och en kolumn per år,
-  där varje cell länkar organets källor det året. Sedan kommer ett
+  där varje cell länkar organets källor det året; har organet fler än ett
+  dokument i poolen som källa det året står antalet, länkat till organets
+  sida. Sedan kommer ett
   urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
   två vyer: en tabell per månad från den första till den sista, också
   månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
@@ -1442,7 +1448,8 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
 - **Skriptet** står i sidan. Det visar en månad i taget med knappar
   bakåt och framåt, med början på innevarande månad, döljer sammanträden
-  före dagens datum i listan och döljer organ som valts bort i båda
+  före dagens datum i listan tills knappen "Visa tidigare sammanträden"
+  trycks, och döljer organ som valts bort i båda
   vyerna. Följs länken till de osäkra fäller skriptet ut delen om
   kvaliteten. Utan skriptet visas alla månader och alla sammanträden.
 

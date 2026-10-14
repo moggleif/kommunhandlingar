@@ -942,3 +942,28 @@ Hur och varför står i
   kandidatens plattform
 - **När** en kandidat ur arkivet av samma typ för sammanträdet tas
 - **Så** hämtas den inte.
+
+## K32 — Tidigare sammanträden i kalendern
+
+Issue: [#162](https://github.com/moggleif/kommunhandlingar/issues/162).
+Hur och varför står i
+[ADR-0053](decisions/0053-tidigare-sammantraden-las-ur-poolens-mappar.md)
+och [Kalendern](03-ARKITEKTUR.md#kalendern).
+
+- **Givet** ett sammanträde 2024 eller senare, före innevarande år, som
+  har dokument i poolen, i ett organ som kalendern visar
+- **När** kalendern byggs
+- **Så** står det i kalendern med ett av sina dokument som källa,
+  protokollet när det finns.
+- **Givet** ett sådant sammanträde utan protokoll i poolen
+- **När** det visas
+- **Så** är det märkt som osäkert, med skälet att protokollet saknas.
+- **Givet** kalendersidan
+- **När** den visas
+- **Så** börjar listan på dagens datum, och en knapp visar och döljer
+  sammanträdena före dagens datum.
+- **Givet** ett organ och ett år med fler än ett dokument i poolen som
+  källa
+- **När** källorna visas under Kvalitet
+- **Så** står antalet dokument, länkat till organets sida, i stället för en
+  länk per dokument.
