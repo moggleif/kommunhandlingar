@@ -852,9 +852,11 @@ och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
 
 ## K29 — Målsidan som tidslinje och målkort
 
-Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151).
+Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151) och
+[#156](https://github.com/moggleif/kommunhandlingar/issues/156).
 Bygger på K26, K27 och K28. Hur och varför står i
-[ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md)
+[ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md),
+[ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)
 och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 
 - **Givet** sidan om ett organs mål och direktiv
@@ -864,12 +866,21 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   per mål, med år från målens första till sista år.
 - **Givet** tidslinjen
 - **När** den visas
-- **Så** har den en rad per mål, nämndmålen för sig och direktiven för
-  sig, och en kolumn per år. Ett år med målet är en del av ett band med
+- **Så** har den en rad per rubrik, nämndmålen för sig och direktiven för
+  sig, och en kolumn per år. Ett år med rubriken är en del av ett band med
   årets status som ikon: ett utfall går före en rapport, en prognos och
-  beslutet, och ett år utan uppföljning har en punkt för beslutet. Ett år
-  då målet får en ny rubrik är markerat. Rubriken länkar till målets
-  kort.
+  beslutet, och ett år utan uppföljning har en punkt för beslutet. Rubriken
+  länkar till målets kort.
+- **Givet** ett mål som bytt rubrik
+- **När** tidslinjen visas
+- **Så** har varje rubrik en egen rad, märkt som en ny rubrik för samma
+  mål och tolkad där kopplingen är en bedömning, direkt under den förra
+  och i den ordning de först står. Det syns vilken rubrik målet hade
+  vilket år, och inget år visas under en rubrik det inte hade
+  ([ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)).
+- **Givet** en rubrik vars formulering ändras från ett år till ett annat
+- **När** tidslinjen visas
+- **Så** är året markerat, med den nya formuleringen i pekrutan.
 - **Givet** en kommun med en fil över nämndernas uppföljningar (K28)
 - **När** tidslinjen visas
 - **Så** har den sist en rad med nämndens uppföljningar och dragningar om
@@ -883,8 +894,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   per år och en hopfälld historik med varje rad, dess status och källa.
 - **Givet** ett mål som varit både nämndmål och direktiv
 - **När** sidan visas
-- **Så** står det i tidslinjen under sitt senaste slag, märkt med det
-  andra, och kortet har båda slagen och slaget på varje rad i historiken.
+- **Så** står det i tidslinjen under sitt senaste slag, med det andra
+  slaget vid de rubriker som hade det, och kortet har båda slagen och slaget på varje rad i historiken.
 - **Givet** ett år inom målens år med dokument från organet men utan mål,
   eller dokument från år före de första målen
 - **När** sidan visas

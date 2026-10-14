@@ -1,5 +1,5 @@
-"""Krav: K26, K27 och K29 i docs/02-KRAV.md, ADR-0044, ADR-0045 och ADR-0050.
-Test: tests/test_mal.py och tests/test_malkort.py.
+"""Krav: K26, K27 och K29 i docs/02-KRAV.md, ADR-0044, ADR-0045, ADR-0050 och
+ADR-0051. Test: tests/test_mal.py och tests/test_malkort.py.
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, antalet
 per år (`malstatistik.py`), ett urval, tidslinjen (`maltidslinje.py`) och
@@ -25,6 +25,7 @@ ADR = "/blob/main/docs/decisions/"
 ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
 ADR_0045 = "0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md"
 ADR_0050 = "0050-malsidan-visas-som-tidslinje-och-malkort.md"
+ADR_0051 = "0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md"
 INLEDNING = (
     "<p>Nämndens egna mål och direktiv år för år, ur nämndbudgetarna, "
     "delårsrapporterna och årsredovisningarna i poolen. Välj ett mål i "
@@ -36,8 +37,9 @@ METOD = (
     "sidan. Bara det nämnden själv beslutat står med, inte "
     "kommunfullmäktiges mål eller direktiv. Säger protokollet något annat "
     "än handlingarna till samma möte, gäller protokollet.</p>"
-    "<p>Ett mål som bytt rubrik har ett kort, med de tidigare rubrikerna "
-    "under den senaste. "
+    "<p>Ett mål som bytt rubrik har en rad per rubrik i tidslinjen, i den "
+    "ordning de först står, och ett kort med de tidigare rubrikerna under "
+    "den senaste. Ett år då samma rubrik får en ny formulering är markerat. "
     "Där källan inte själv säger att det är samma mål, och formuleringen "
     "inte är densamma, är kopplingen en bedömning och rubriken märkt "
     "tolkad.</p>"
@@ -108,7 +110,7 @@ def ordning(mal: Mal) -> tuple[int, int, str]:
 def om_sidan(mall: Mall) -> str:
     adr = [
         f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
-        for fil in (ADR_0044, ADR_0045, ADR_0050)
+        for fil in (ADR_0044, ADR_0045, ADR_0050, ADR_0051)
     ]
     return (
         f"<details><summary>Om sidan</summary>{METOD}"
