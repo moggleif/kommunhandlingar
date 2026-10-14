@@ -9,6 +9,7 @@ exempel `sitevision` eller `episerver`.
 from collections import Counter
 from pathlib import PurePosixPath
 
+from kommunhandlingar import frontmatter
 from kommunhandlingar.adaptrar import wayback
 from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import Kandidat
@@ -36,7 +37,8 @@ def ingen_lucka(pool: Pool, kommun: str, kandidat: Kandidat, gammal) -> bool:
 
 
 def levande(falt: dict[str, str] | None) -> bool:
-    return falt is not None and not wayback.ar_kopia(falt["kalla_url"])
+    adress = frontmatter.adresser(falt["kalla_url"])[0] if falt else ""
+    return falt is not None and not wayback.ar_kopia(adress)
 
 
 def plattform(kallnyckel: str) -> str:

@@ -48,6 +48,11 @@ def lista(varde: str) -> list[str]:
     return [del_ for del_ in varde.strip("[]").split(", ") if del_]
 
 
+def adresser(kalla_url: str) -> list[str]:
+    """`kalla_url` är en adress, eller en lista för ett dokument i delar."""
+    return lista(kalla_url) if kalla_url.startswith("[") else [kalla_url]
+
+
 def skriv(falt: dict) -> str:
     rader = [f"{namn}: {varde_av(falt[namn])}" for namn in FALT]
     return "---\n" + "\n".join(rader) + "\n---\n"

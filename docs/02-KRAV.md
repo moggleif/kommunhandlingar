@@ -942,3 +942,31 @@ Hur och varför står i
   kandidatens plattform
 - **När** en kandidat ur arkivet av samma typ för sammanträdet tas
 - **Så** hämtas den inte.
+
+## K31 — Ett mötes filer blir ett dokument
+
+Issue: [#159](https://github.com/moggleif/kommunhandlingar/issues/159).
+Hur och varför står i
+[ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md).
+
+- **Givet** flera filer i en Episerver-källa för samma organ, datum och
+  typ, till exempel handlingarna en fil per ärende
+- **När** arkivet upptäcks
+- **Så** blir de en kandidat i delar, i filnamnens ordning med talen som
+  tal, med mötets och typens källnyckel.
+- **Givet** en kandidat i delar
+- **När** den hämtas och konverteras
+- **Så** blir den ett dokument, med alla delarnas sidor i ordning, och
+  front matter har delarnas adresser, sha256 och storlek i samma ordning.
+- **Givet** en kandidat i delar där en del är kapad eller inte går att
+  hämta
+- **När** den hämtas
+- **Så** blir hela dokumentet `ej-hamtad`, och nästa körning försöker
+  igen.
+- **Givet** en kandidat i delar där en del inte går att öppna
+- **När** den konverteras
+- **Så** blir dokumentet `ej-konverterad` med orsaken i `fel`.
+- **Givet** ett dokument i delar
+- **När** dess figurer renderas för tolkning (K15)
+- **Så** hämtas delarna och slås ihop på samma sätt, och varje dels
+  sha256 prövas.

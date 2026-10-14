@@ -13,7 +13,7 @@ kommuner/<kommun>.toml
         │
         ▼
 1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
-                                         källa, källnyckel, filnamn
+                                         källa, källnyckel, filnamn, delar
         │
         ▼
 2. hämta och konvertera, ett dokument i taget
@@ -195,6 +195,7 @@ src/kommunhandlingar/
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
   behandla.py      steg 2 för en kandidat: hoppa över, hämta, konvertera, skriva
+  original.py      originalet hämtas, ett dokument i delar slås ihop (ADR-0049)
   pool.py          poolens front matter, uppslagen på källnyckel och sökväg
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
@@ -388,6 +389,19 @@ regex = '(?i)^protokoll/'
 - **Ingen kandidat** blir det av en fil som inget typ- eller datummönster
   matchar, eller vars datum inte finns, utan rättelse. Den nämns i
   sammanfattningen.
+- **Ett möte i flera filer**
+  ([ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md)).
+  Ett organs filer med samma datum och typ, till exempel handlingarna en
+  fil per ärende, blir en kandidat. Dess `delar` är filernas adresser i
+  ordningen efter källnyckeln, där en följd av siffror jämförs som ett
+  tal (`del 2` före `del 10`), och ett blanksteg i en adress skrivs
+  `%20`. Källnyckeln är mötets och typens:
+  `episerver:<organ>/<datum>/<typ>`. Kandidatens `url`, `kalla` och
+  `filnamn` är den första delens. I steg 2 hämtas delarna en i taget och
+  slås ihop till en PDF i den ordningen, som konverteras som ett
+  dokument. En kapad del gör hela dokumentet `ej-hamtad` med
+  `fel: kapad`. En del som inte går att öppna gör det `ej-konverterad`
+  med orsaken i `fel` (`krypterad` eller `trasig-pdf`).
 
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
 belagt och hur, vad som är att verifiera och kända luckor. Organ,
@@ -555,9 +569,9 @@ inom hakparenteser på samma rad, som i exemplet.
 | `kallnyckel`           | Adapterns källnyckel (ADR-0003).                             | aldrig |
 | `tidigare_kallnycklar` | Källnycklar dokumentet haft tidigare (K9); `[]` när inga.     | aldrig |
 | `arenden`              | Diarienummer; `[]` när dokumentet inte rör något ärende.      | det inte är känt |
-| `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från. | aldrig |
-| `sha256`               | Originalets sha256.                                          | `ej-hamtad` |
-| `bytes`                | Originalets storlek i byte.                                  | `ej-hamtad` |
+| `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från; för ett dokument i delar en lista med delarnas adresser i ordning (ADR-0049). | aldrig |
+| `sha256`               | Originalets sha256; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
+| `bytes`                | Originalets storlek i byte; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
 | `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, eller filen gick inte att öppna |
 | `hamtad`               | Tiden för hämtningen; för `ej-hamtad` det första misslyckade försöket. | aldrig |
 | `konverterad`          | Tiden för konverteringen.                                    | `ej-hamtad` |

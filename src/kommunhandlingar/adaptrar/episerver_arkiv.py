@@ -1,13 +1,16 @@
-"""Krav: K23 i docs/02-KRAV.md, ADR-0039 och ADR-0018.
-Test: tests/test_episerver_arkiv.py.
+"""Krav: K23 och K31 i docs/02-KRAV.md, ADR-0018, ADR-0039 och ADR-0049.
+Test: tests/test_episerver_arkiv.py och tests/test_sammanslagning.py.
 
 Organens mappar i Episerver-generationerna ur Internet Archive. Varje PDF
 under en mapp är en fil, också när arkivet har den under http och https,
 med och utan www; filen får arkivets största kopia och vid lika den äldsta.
 En mapp som arkivet inte svarar för hoppas över och returneras som en
-notering.
+notering. Ett mötes filer av samma typ, till exempel en per ärende, blir
+en kandidat i delar, i filnamnens ordning med talen som tal.
 """
 
+import re
+from dataclasses import replace
 from urllib.parse import quote, unquote, urlsplit
 
 from kommunhandlingar.adaptrar import episerver, wayback
@@ -28,7 +31,30 @@ def upptack(
                 continue
             nya, bort = las_mapp(kalla, organ, mapp, kopior)
             kandidater, avvisade = kandidater + nya, avvisade + bort
-    return kandidater, avvisade, noteringar
+    return moten(kandidater), avvisade, noteringar
+
+
+def moten(kandidater: list[Kandidat]) -> list[Kandidat]:
+    grupper: dict[tuple, list[Kandidat]] = {}
+    for k in kandidater:
+        grupper.setdefault((k.organ, k.datum, k.typ), []).append(k)
+    return [
+        filer[0] if len(filer) == 1 else i_delar(filer) for filer in grupper.values()
+    ]
+
+
+def i_delar(filer: list[Kandidat]) -> Kandidat:
+    """Nyckeln är mötets och typens, så att den står kvar när en del till
+    hittas. Ett blanksteg i en adress kodas, så att listan går att läsa."""
+    filer = sorted(filer, key=lambda k: naturlig(k.kallnyckel))
+    forsta = filer[0]
+    nyckel = f"episerver:{forsta.organ}/{forsta.datum.isoformat()}/{forsta.typ}"
+    delar = tuple(k.url.replace(" ", "%20") for k in filer)
+    return replace(forsta, kallnyckel=nyckel, delar=delar)
+
+
+def naturlig(text: str) -> list:
+    return [int(d) if d.isdigit() else d for d in re.split(r"(\d+)", text)]
 
 
 def las_mapp(
