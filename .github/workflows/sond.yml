@@ -1,0 +1,18 @@
+# Tillfällig sond (#159). Tas bort före PR.
+name: Sond
+on:
+  push:
+    branches: [claude/project-thread-qbzup8]
+permissions:
+  contents: read
+jobs:
+  sond:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - run: python .github/sond/sond.py
