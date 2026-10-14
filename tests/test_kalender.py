@@ -26,6 +26,7 @@ TID = datetime(2026, 10, 7, 20, 15, tzinfo=UTC)
 RUBRIK = "organ,datum,tid,plats,kalla,osakert\n"
 PROTOKOLL = "fsn/2026/2026-09-17/protokoll.md"
 KALLELSE = "fsn/2026/2026-09-17/kallelse.md"
+NASTA = "fsn/2026/2026-09-24/protokoll.md"
 RADER = (
     f"fsn,2027-01-14,17:00,Stadshuset,{PROTOKOLL},\n"
     f"fsn-au,2027-01-14,,,{PROTOKOLL},\n"
@@ -48,9 +49,9 @@ def pool(rader: str = RADER, rubrik: str = RUBRIK):
     with tempfile.TemporaryDirectory() as tmp:
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(rubrik + rader, encoding="utf-8")
-        (data / PROTOKOLL).parent.mkdir(parents=True)
-        (data / PROTOKOLL).write_text("---\n---\n", encoding="utf-8")
-        (data / KALLELSE).write_text("---\n---\n", encoding="utf-8")
+        for dokument in (PROTOKOLL, KALLELSE, NASTA):
+            (data / dokument).parent.mkdir(parents=True, exist_ok=True)
+            (data / dokument).write_text("---\n---\n", encoding="utf-8")
         yield kalender.las(fil, kommun(), data)
 
 
@@ -164,13 +165,17 @@ class TestSidan(unittest.TestCase):
         lista = self.html.split("<h2>Lista</h2>")[1].split("<script>")[0]
         self.assertNotIn("<a href", lista.replace('<a href="#osakra"', ""))
 
-    def test_flera_dokument_i_poolen_blir_antalet(self):
-        rad = f"fsn,2027-02-11,,,{KALLELSE},\n"
-        with pool(RADER + rad) as sammantraden:
+    def test_sammantraden_med_egna_dokument_raknas(self):
+        rader = f"fsn,2026-09-17,,,{PROTOKOLL},\nfsn,2026-09-24,,,{NASTA},\n"
+        with pool(rader + f"fsn,2026-10-01,,,{KALLELSE},\n") as sammantraden:
             html = kalendersida(Mall([kommun()], REPO, TID), kommun(), sammantraden)
         kallor = html.split('id="kallor"')[1]
-        self.assertIn('<td><a href="fsn.html">2 dokument i poolen</a></td>', kallor)
-        self.assertNotIn("kallelse.html", kallor)
+        self.assertIn(
+            '<td><a href="fsn/2026/2026-09-17/kallelse.html">FSN 2026-09-17, '
+            'kallelse</a><br><a href="fsn.html">2 sammanträden i poolen</a></td>',
+            kallor,
+        )
+        self.assertNotIn("protokoll.html", kallor)
 
     def test_knapp_for_tidigare_sammantraden_i_listan(self):
         lista = self.html.split("<h2>Lista</h2>")[1]

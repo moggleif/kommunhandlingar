@@ -57,9 +57,11 @@ organ finns.
 * **Listan** börjar som förut på dagens datum. En knapp, "Visa tidigare
   sammanträden", visar och döljer det som varit. Utan skript visas allt,
   som förut.
-* **Källtabellen** under Kvalitet visar antalet dokument, länkat till
-  organets sida, när ett organ har fler än ett dokument i poolen som
-  källa ett år. Annars blir cellen en lista med upp till trettio länkar.
+* **Källtabellen** under Kvalitet räknar de sammanträden som har sitt
+  eget dokument som källa, det vill säga ett dokument i sammanträdets
+  mapp, och länkar antalet till organets sida. Annars blir cellen en lista
+  med upp till trettio länkar. Övriga källor, mötessidorna och besluten om
+  kommande år, länkas som förut.
 
 ### Consequences
 

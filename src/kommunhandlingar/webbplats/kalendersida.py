@@ -92,20 +92,30 @@ def osakra_tabell(osakra: list[Sammantrade], namn: dict[str, str]) -> str:
 
 
 def kallor(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
-    per_organ_ar = defaultdict(dict)
+    per_organ_ar, egna = defaultdict(dict), defaultdict(int)
     for s in sammantraden:
-        per_organ_ar[(s.organ, s.datum.year)][s.kalla] = None
-    ar = sorted({a for _, a in per_organ_ar})
+        if eget_dokument(s):
+            egna[(s.organ, s.datum.year)] += 1
+        else:
+            per_organ_ar[(s.organ, s.datum.year)][s.kalla] = None
+    ar = sorted({a for _, a in [*per_organ_ar, *egna]})
     rader = "".join(
         f'<tr><th scope="row">{escape(namn[organ])}</th>'
         + "".join(
-            f"<td>{kallcell(organ, per_organ_ar.get((organ, a), {}))}</td>" for a in ar
+            f"<td>{kallcell(organ, per_organ_ar[(organ, a)], egna[(organ, a)])}</td>"
+            for a in ar
         )
         + "</tr>"
         for organ in namn
-        if organ in {o for o, _ in per_organ_ar}
+        if organ in {o for o, _ in [*per_organ_ar, *egna]}
     )
     return tabell(["Organ", *ar], rader)
+
+
+# Ett tidigare sammanträde har sitt eget dokument som källa (ADR-0053), i
+# mappen <organ>/<år>/<datum>/ för sammanträdets dag.
+def eget_dokument(s: Sammantrade) -> bool:
+    return s.kalla.split("/")[2:3] == [s.datum.isoformat()]
 
 
 def tabell(rubriker: list, rader: str) -> str:
@@ -116,15 +126,12 @@ def tabell(rubriker: list, rader: str) -> str:
     )
 
 
-# Tidigare år har ett dokument i poolen per sammanträde (ADR-0053); de
-# räknas i stället för att länkas ett och ett.
-def kallcell(organ: str, kallor_i_cellen: dict[str, None]) -> str:
-    adresser = [k for k in kallor_i_cellen if k.startswith("https://")]
-    i_poolen = [k for k in kallor_i_cellen if not k.startswith("https://")]
-    if len(i_poolen) > 1:
-        antal = f'<a href="{organ}.html">{len(i_poolen)} dokument i poolen</a>'
-        return "<br>".join([*map(kallank, adresser), antal])
-    return "<br>".join(map(kallank, kallor_i_cellen))
+# Sammanträden med egna dokument räknas i stället för att länkas ett och ett.
+def kallcell(organ: str, kallor_i_cellen: dict[str, None], egna: int) -> str:
+    lankar = [kallank(k) for k in kallor_i_cellen]
+    if egna:
+        lankar.append(f'<a href="{organ}.html">{egna} sammanträden i poolen</a>')
+    return "<br>".join(lankar)
 
 
 def urval(farg: dict[str, tuple[str, str]], namn: dict[str, str]) -> str:

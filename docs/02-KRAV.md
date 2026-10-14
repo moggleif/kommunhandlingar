@@ -962,8 +962,8 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** den visas
 - **Så** börjar listan på dagens datum, och en knapp visar och döljer
   sammanträdena före dagens datum.
-- **Givet** ett organ och ett år med fler än ett dokument i poolen som
-  källa
+- **Givet** ett organ och ett år med sammanträden som har sitt eget
+  dokument i poolen som källa
 - **När** källorna visas under Kvalitet
-- **Så** står antalet dokument, länkat till organets sida, i stället för en
-  länk per dokument.
+- **Så** står antalet sådana sammanträden, länkat till organets sida, i
+  stället för en länk per dokument. Övriga källor länkas som förut.

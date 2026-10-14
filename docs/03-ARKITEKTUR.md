@@ -1433,9 +1433,9 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   antalet osäkra datum av alla i rubriken, hur datumen tas fram, en
   tabell med varje osäkert sammanträde, skälet och källan, och under
   rubriken Källor en tabell med en rad per organ och en kolumn per år,
-  där varje cell länkar organets källor det året; har organet fler än ett
-  dokument i poolen som källa det året står antalet, länkat till organets
-  sida. Sedan kommer ett
+  där varje cell länkar organets källor det året; sammanträden vars källa
+  är ett dokument i deras egen mapp räknas, och antalet länkar till
+  organets sida. Sedan kommer ett
   urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
   två vyer: en tabell per månad från den första till den sista, också
   månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
