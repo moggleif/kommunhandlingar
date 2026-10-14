@@ -1,8 +1,8 @@
 // Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
 // Test: tests/test_kalender.py.
-// Visar en månad i taget med början på innevarande, döljer det som varit i
-// listan tills knappen trycks och de organ som valts bort, och fäller ut kvaliteten när en länk
-// till de osäkra datumen följs. Utan skriptet står allt på sidan.
+// Visar en månad i taget med början på innevarande och döljer organ som
+// valts bort. Det som varit i listan döljs tills knappen trycks, och
+// kvaliteten fälls ut när en länk till de osäkra datumen följs. Utan skriptet står allt på sidan.
 (function () {
   var nu = new Date();
   var manad = nu.getFullYear() + "-" + tvasiffrigt(nu.getMonth() + 1);
@@ -59,6 +59,7 @@
   function kopplaTidigare(knapp) {
     knapp.addEventListener("click", function () {
       tidigare = !tidigare;
+      knapp.setAttribute("aria-expanded", String(tidigare));
       knapp.textContent = (tidigare ? "Dölj" : "Visa") + " tidigare sammanträden";
       visaUrval();
     });

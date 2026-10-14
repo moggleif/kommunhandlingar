@@ -19,18 +19,20 @@ from kommunhandlingar.webbplats.kalenderfarger import farger, stil
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
 
 SKRIPT = Path(__file__).with_name("kalender.js")
-ADR = "/blob/main/docs/decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md"
+ADR = "/blob/main/docs/decisions/"
+ADR_0032 = "0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md"
+ADR_0053 = "0053-tidigare-sammantraden-las-ur-poolens-mappar.md"
 INLEDNING = (
     "<p>Organens sammanträden månad för månad och som lista från idag. "
-    "Tidigare sammanträden, från 2024, finns bakåt i månadsvyn och under en "
-    "knapp i listan. Välj vilka organ som visas.</p>"
+    "Tidigare sammanträden finns bakåt i månadsvyn och under en knapp i "
+    "listan. Välj vilka organ som visas.</p>"
 )
 METOD = (
     "<p>Datumen är lästa ur organens mötessidor och ur deras beslut om "
     "sammanträdesdagar; källorna står per organ och år under rubriken Källor "
-    "nedan. Tidigare år är de sammanträden som har dokument i poolen, med "
-    "protokollet som källa; ett sammanträde utan dokument i poolen saknas, "
-    "och ett utan protokoll är märkt osäkert. Inställda möten och "
+    "nedan, och tidigare sammanträden ur poolen, med sitt eget protokoll som "
+    "källa; ett tidigare sammanträde utan dokument i poolen saknas, och ett "
+    "utan protokoll är märkt osäkert. Inställda möten och "
     "planeringsdagar är inte med. Tiden står där "
     "källan anger den, och platsen visas när man håller över rutan i "
     "månadsvyn. Ett datum är osäkert när källan är svår att läsa, eller när "
@@ -69,7 +71,10 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
 
 def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
     osakra = [s for s in sammantraden if s.osakert]
-    adr = f'<a href="{escape(mall.repo + ADR)}">ADR-0032</a>'
+    adr = " och ".join(
+        f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
+        for fil in (ADR_0032, ADR_0053)
+    )
     return (
         f'<details id="kvalitet"><summary>Kvalitet: {len(osakra)} av '
         f"{len(sammantraden)} datum är osäkra</summary>{METOD}"
@@ -91,31 +96,28 @@ def osakra_tabell(osakra: list[Sammantrade], namn: dict[str, str]) -> str:
     return tabell(["Datum", "Organ", "Skäl", "Källa"], rader)
 
 
+# Sammanträden med sitt eget dokument som källa (ADR-0053) räknas under
+# nyckeln "" i stället för att länkas ett och ett.
 def kallor(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
-    per_organ_ar, egna = defaultdict(dict), defaultdict(int)
+    celler = defaultdict(dict)
     for s in sammantraden:
-        if eget_dokument(s):
-            egna[(s.organ, s.datum.year)] += 1
-        else:
-            per_organ_ar[(s.organ, s.datum.year)][s.kalla] = None
-    ar = sorted({a for _, a in [*per_organ_ar, *egna]})
+        nyckel = "" if eget_dokument(s) else s.kalla
+        cell = celler[(s.organ, s.datum.year)]
+        cell[nyckel] = cell.get(nyckel, 0) + 1
+    ar = sorted({a for _, a in celler})
+    organen = {o for o, _ in celler}
     rader = "".join(
         f'<tr><th scope="row">{escape(namn[organ])}</th>'
-        + "".join(
-            f"<td>{kallcell(organ, per_organ_ar[(organ, a)], egna[(organ, a)])}</td>"
-            for a in ar
-        )
+        + "".join(f"<td>{kallcell(organ, celler.get((organ, a), {}))}</td>" for a in ar)
         + "</tr>"
         for organ in namn
-        if organ in {o for o, _ in [*per_organ_ar, *egna]}
+        if organ in organen
     )
     return tabell(["Organ", *ar], rader)
 
 
-# Ett tidigare sammanträde har sitt eget dokument som källa (ADR-0053), i
-# mappen <organ>/<år>/<datum>/ för sammanträdets dag.
 def eget_dokument(s: Sammantrade) -> bool:
-    return s.kalla.split("/")[2:3] == [s.datum.isoformat()]
+    return s.kalla.split("/")[:3] == [s.organ, str(s.datum.year), s.datum.isoformat()]
 
 
 def tabell(rubriker: list, rader: str) -> str:
@@ -126,11 +128,10 @@ def tabell(rubriker: list, rader: str) -> str:
     )
 
 
-# Sammanträden med egna dokument räknas i stället för att länkas ett och ett.
-def kallcell(organ: str, kallor_i_cellen: dict[str, None], egna: int) -> str:
-    lankar = [kallank(k) for k in kallor_i_cellen]
-    if egna:
-        lankar.append(f'<a href="{organ}.html">{egna} sammanträden i poolen</a>')
+def kallcell(organ: str, cell: dict[str, int]) -> str:
+    lankar = [kallank(k) for k in cell if k]
+    if cell.get(""):
+        lankar.append(f'<a href="{organ}.html">{cell[""]} sammanträden i poolen</a>')
     return "<br>".join(lankar)
 
 

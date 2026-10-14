@@ -950,11 +950,12 @@ Hur och varför står i
 [ADR-0053](decisions/0053-tidigare-sammantraden-las-ur-poolens-mappar.md)
 och [Kalendern](03-ARKITEKTUR.md#kalendern).
 
-- **Givet** ett sammanträde 2024 eller senare, före innevarande år, som
-  har dokument i poolen, i ett organ som kalendern visar
-- **När** kalendern byggs
-- **Så** står det i kalendern med ett av sina dokument som källa,
-  protokollet när det finns.
+- **Givet** ett sammanträde 2024 eller 2025 som har dokument i poolen,
+  i ett organ som kalendern visar
+- **När** kalenderfilen skrivs
+- **Så** får det en rad med ett av sina dokument som källa, protokollet
+  när det finns. Raderna följer inte med av sig själva när poolen får
+  fler sammanträden.
 - **Givet** ett sådant sammanträde utan protokoll i poolen
 - **När** det visas
 - **Så** är det märkt som osäkert, med skälet att protokollet saknas.

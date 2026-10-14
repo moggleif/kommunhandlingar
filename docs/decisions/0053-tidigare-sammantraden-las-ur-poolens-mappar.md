@@ -48,8 +48,8 @@ Valt: A, eftersom det ger varje tidigare sammanträde en källa med samma
 fil och samma kontroller som resten av kalendern, och bara år där alla
 organ finns.
 
-* **Raderna** är ett sammanträde per mapp i poolen, 2024 och framåt till
-  det år kalenderns rader ur mötessidorna börjar, för organen som
+* **Raderna** är ett sammanträde per mapp i poolen 2024 och 2025, åren
+  före de rader som kalendern läser ur mötessidorna, för organen som
   kalendern redan visar. Revisionen tas inte med (ADR-0032).
 * **Källan** är mötets protokoll, eller kallelsen när protokollet saknas.
   Utan protokoll märks sammanträdet osäkert, eftersom det inte är visat

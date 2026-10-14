@@ -133,7 +133,8 @@ class TestSidan(unittest.TestCase):
         self.assertIn("Kvalitet: 1 av 3 datum är osäkra", kvalitet)
         self.assertIn("<td>Källan säger lördag &lt;5 dec&gt;.</td>", kvalitet)
         self.assertIn("Datumen är lästa ur", kvalitet)
-        self.assertIn(">ADR-0032</a>", kvalitet)
+        self.assertIn(">ADR-0032</a> och <a", kvalitet)
+        self.assertIn("0053-tidigare-sammantraden-las-ur-poolens-mappar.md", kvalitet)
 
     def test_inga_osakra(self):
         with pool(f"fsn,2027-01-14,,,{PROTOKOLL},\n") as sammantraden:
@@ -181,8 +182,8 @@ class TestSidan(unittest.TestCase):
         lista = self.html.split("<h2>Lista</h2>")[1]
         self.assertTrue(
             lista.startswith(
-                '<p class="tidigare" hidden><button type="button">'
-                "Visa tidigare sammanträden</button></p>"
+                '<p class="tidigare" hidden><button type="button" '
+                'aria-expanded="false">Visa tidigare sammanträden</button></p>'
             )
         )
 

@@ -95,7 +95,7 @@ def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
         for (ar, manad), moten in per_manad(sammantraden).items()
     )
     knapp = (
-        '<p class="tidigare" hidden><button type="button">'
+        '<p class="tidigare" hidden><button type="button" aria-expanded="false">'
         "Visa tidigare sammanträden</button></p>"
     )
     return f"<h2>Lista</h2>{knapp}{tabeller}"
