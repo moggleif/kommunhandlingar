@@ -1,4 +1,4 @@
-/* Krav: K29 i docs/02-KRAV.md, ADR-0050. Stilen för sidan om ett organs
+/* Krav: K29 i docs/02-KRAV.md, ADR-0050 och ADR-0051. Stilen för sidan om ett organs
    mål och direktiv: sammandraget, tidslinjen och korten. */
 :root { --accent: #1d5d73; --band: #e3eef2; --yta: #f5f6f8;
             --linje: #d9dde5; --dampad: #5b6475; }
@@ -48,9 +48,13 @@ table.tidslinje td.slut::before { right: 8%; border-radius: 0 999px 999px 0; }
 table.tidslinje td.start.slut::before { border-radius: 999px; }
 table.tidslinje td .status { position: relative; }
 table.tidslinje tr[data-mal]:hover { background: var(--yta); }
-.ny-rubrik { position: absolute; top: 50%; left: 2px; margin-top: -1.15rem;
-             width: 0.5rem; height: 0.5rem; border-radius: 50%;
-             background: var(--accent); }
+table.tidslinje th[scope="row"]:has(.byte) { padding-left: 0.9rem; position: relative; }
+.byte { position: absolute; left: 0; color: var(--accent); }
+.byten { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin-top: 0;
+         color: var(--dampad); }
+.ny-formulering { display: inline-block; width: 0.5rem; height: 0.5rem;
+                  border-radius: 50%; background: var(--accent); }
+td .ny-formulering { position: absolute; top: 50%; left: 14%; margin-top: -0.25rem; }
 .godkand, .dragning { display: inline-block; width: 0.65rem; height: 0.65rem;
                       margin: 1px; vertical-align: middle; }
 .godkand { background: var(--accent); transform: rotate(45deg) scale(0.85); }

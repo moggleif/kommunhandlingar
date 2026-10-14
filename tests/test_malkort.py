@@ -1,5 +1,6 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Kod: src/kommunhandlingar/webbplats/
-maltidslinje.py, malkort.py, malsida.py, malstatistik.py och mal.js."""
+"""Krav: K29 i docs/02-KRAV.md, ADR-0050 och ADR-0051. Kod:
+src/kommunhandlingar/webbplats/maltidslinje.py, malkort.py,
+malsida.py, malstatistik.py och mal.js."""
 
 import re
 import unittest
@@ -30,10 +31,8 @@ def sida(dokumentar: tuple[int, ...] = (2022, 2024), uppfoljda=()) -> str:
         return malsida(mall, exempelby(), malen, protokoll(*dokumentar))
 
 
-def rad(html: str, rubrik: str) -> list[str]:
-    tr = re.search(
-        rf"<tr data-mal[^>]*><th[^>]*><a [^>]*>{rubrik}</a></th>(.*?)</tr>", html
-    )
+def rad(html: str, nr: int, rubrik: str) -> list[str]:
+    tr = re.search(rf'<a href="#mal-{nr}">{rubrik}</a>.*?</th>(.*?)</tr>', html)
     return re.findall(r"<td( class=\"[^\"]*\")?>", tr.group(1))
 
 
@@ -42,20 +41,56 @@ def kort(html: str, nr: int) -> str:
 
 
 class TestTidslinjen(unittest.TestCase):
-    def test_ett_band_per_spar_och_ar_med_ny_rubrik(self):
+    def test_en_rad_per_rubrik_med_sitt_band(self):
         html = sida()
         self.assertEqual(
-            rad(html, "Läsfrämjande"),
-            [
-                ' class="band start slut"',
-                "",
-                "",
-                ' class="band start"',
-                ' class="band slut"',
-            ],
+            rad(html, 0, "Trygga miljöer"),
+            [' class="band start slut"', "", "", ' class="band start slut"', ""],
         )
-        self.assertIn('aria-label="Ny rubrik: Läsfrämjande"', html)
-        self.assertEqual(html.count('class="ny-rubrik"'), 1)
+        self.assertEqual(
+            rad(html, 0, "Läsfrämjande"), ["", "", "", "", ' class="band start slut"']
+        )
+        self.assertEqual(
+            rad(html, 1, "Läsfrämjande"),
+            ["", "", ' class="band start"', ' class="band slut"', ""],
+        )
+
+    def test_ny_rubrik_star_direkt_under_den_forra(self):
+        html = sida()
+        forra = html.index('<a href="#mal-0">Trygga miljöer</a>')
+        nasta = html.index("<tr ", forra)
+        self.assertIn(
+            '<th scope="row"><span class="byte" aria-hidden="true">↳</span>'
+            '<span class="dold">Ny rubrik 2026: </span><a href="#mal-0">Läsfrämjande',
+            html[nasta : html.index("</tr>", nasta)],
+        )
+        self.assertIn(
+            '<a href="#mal-0">Läsfrämjande</a> <small>tolkad</small></th>', html
+        )
+
+    def test_ny_formulering_under_samma_rubrik(self):
+        rader = GRUPPER.replace(
+            f"Trygga miljöer,,,,,{BUDGET}#sida-1-2",
+            f"Trygga miljöer,Alla ska känna sig,,,,{BUDGET}#sida-1-2",
+        )
+        with pool(rader) as malen:
+            html = malsida(
+                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+            )
+        self.assertIn('aria-label="Ny formulering: Alla ska känna sig trygga."', html)
+        self.assertEqual(html.count('<span class="ny-formulering" role="img"'), 1)
+        self.assertNotIn('class="ny-formulering" role="img"', sida())
+
+    def test_samma_formulering_med_andra_blanksteg_ar_inte_ny(self):
+        rader = GRUPPER.replace(
+            f"Trygga miljöer,,,,,{BUDGET}#sida-1-2",
+            f"Trygga miljöer,Alla ska  känna sig trygga.,,,,{BUDGET}#sida-1-2",
+        )
+        with pool(rader) as malen:
+            html = malsida(
+                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+            )
+        self.assertNotIn('class="ny-formulering" role="img"', html)
 
     def test_ar_utan_dokument_och_mal_ar_en_lucka(self):
         html = sida()
@@ -70,7 +105,7 @@ class TestTidslinjen(unittest.TestCase):
     def test_namndmal_och_direktiv_var_for_sig(self):
         html = sida()
         self.assertLess(html.index(">Nämndmål</th>"), html.index(">Direktiv</th>"))
-        self.assertEqual(html.count("<tr data-mal"), 2)
+        self.assertEqual(html.count("<tr data-mal"), 3)
 
     def test_ar_med_dokument_men_utan_mal(self):
         self.assertIn("2023<br><small>inga mål</small>", sida((2022, 2023)))
@@ -89,7 +124,9 @@ class TestTidslinjen(unittest.TestCase):
             html = malsida(
                 Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
             )
-        self.assertIn("Trygga miljöer</a> <small>också nämndmål</small>", html)
+        self.assertIn("Trygga miljöer</a> <small>nämndmål</small>", html)
+        self.assertNotIn("Ny rubrik 2027", html)
+        self.assertEqual(html.count('<tr data-mal="0"'), 2)
         self.assertIn('data-slag="nämndmål direktiv"', html)
         self.assertIn("<span>nämndmål och direktiv</span>", html)
         self.assertIn("<b>2026</b> Läsfrämjande <small>tolkad</small> (nämndmål)", html)
