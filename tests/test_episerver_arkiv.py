@@ -52,6 +52,16 @@ class TestEpiserverArkivet(unittest.TestCase):
             "episerver:exempelby.se/Global/M%C3%B6ten/Barn%20och%20ungdom/" + fil,
         )
 
+    def test_en_syskonmapp_med_langre_namn_hor_inte_till_mappen(self):
+        kandidater, avvisade, _ = self.kandidater(
+            [
+                ["20140101000000", f"{G}/Protokoll/2014/P%20140219.pdf", "5"],
+                ["20140101000000", f"{G}s%20au/Protokoll/2014/P%20140219.pdf", "5"],
+            ]
+        )
+        self.assertEqual([k.filnamn for k in kandidater], ["P 140219.pdf"])
+        self.assertEqual(avvisade, [])
+
     def test_nyckeln_har_inga_kommatecken_med_blanksteg(self):
         nyckel = nyckel_av("http://www.k.se:80/M%c3%b6ten,%20handlingar/a.pdf")
         self.assertEqual(nyckel, "episerver:k.se/M%C3%B6ten%2C%20handlingar/a.pdf")

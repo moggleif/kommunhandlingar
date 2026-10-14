@@ -1,4 +1,4 @@
-"""Krav: K2, K13 och K16 i docs/02-KRAV.md. Test: tests/test_kandidat.py."""
+"""Krav: K2, K13, K16 och K31 i docs/02-KRAV.md. Test: tests/test_kandidat.py."""
 
 from dataclasses import dataclass
 from datetime import date
@@ -17,6 +17,14 @@ class Kandidat:
     kalla: str
     kallnyckel: str
     filnamn: str
+    # Ett möte i flera filer (ADR-0049): delarnas adresser i ordning.
+    delar: tuple[str, ...] = ()
+
+    def kalla_url(self) -> str | list[str]:
+        return list(self.delar) if self.delar else self.url
+
+    def adresser(self) -> list[str]:
+        return list(self.delar) or [self.url]
 
 
 @dataclass(frozen=True)

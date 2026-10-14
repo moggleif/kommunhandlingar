@@ -79,7 +79,7 @@ class TestUpptack(unittest.TestCase):
         self.assertEqual(poster[0]["filnamn"], "Protokoll 2022-05-02.pdf")
         self.assertEqual(
             set(poster[0]),
-            {"organ", "datum", "typ", "url", "kalla", "kallnyckel", "filnamn"},
+            {"organ", "datum", "typ", "url", "kalla", "kallnyckel", "filnamn", "delar"},
         )
 
     def test_arbetskatalogen_ligger_utanfor_repot(self):

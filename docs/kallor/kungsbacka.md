@@ -315,7 +315,11 @@ som är påslagna står i kommunfilen
 Episerver-generationerna läses med adaptern `episerver` ur organets mappar
 i kommunfilen
 ([ADR-0039](../decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md));
-bara de organ som har mappar där hämtas.
+bara de organ som har mappar där hämtas. Ett mötes filer av samma typ, som
+handlingarna per ärende, blir ett dokument
+([ADR-0049](../decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md)).
+En nedlagd nämnds mapp ligger under den nämnd som tog över; vilken står i
+kommunfilen.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns
