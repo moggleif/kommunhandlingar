@@ -718,6 +718,10 @@ utan mappar läses inte därifrån.
 - **Så** blir varje PDF under mapparna som arkivet har sparat en kandidat,
   med typ och datum ur sökvägen under mappen enligt kommunfilens mönster,
   eller med rättelsens datum.
+- **Givet** en syskonmapp vars namn börjar som mappens, till exempel
+  `Kommunstyrelsens arbetsutskott/` intill `Kommunstyrelsen/`
+- **När** arkivet upptäcks
+- **Så** blir dess filer inga kandidater för mappens organ (K31).
 - **Givet** en fil vars typ eller datum mönstren inte läser, eller vars
   datum inte finns, och som inte har någon rättelse
 - **När** arkivet upptäcks

@@ -126,3 +126,9 @@ ihop och prövas för tolkningen.
 
 Ägaren svarade 2026-10-13 att ärendefilerna ska slås ihop till en
 Markdown-fil, "spelar ingen roll om mötet är i en pdf eller 100".
+
+En provkörning mot arkivet 2026-10-14 läste alla 38 mappar: 2 204
+kandidater, en mapp per nedlagd nämnd, och Funktionsstöds kallelser är
+nämndens egna. Den visade också att arkivets prefix tar med syskonmappar
+som `Kommunstyrelsens arbetsutskott/` för `Kommunstyrelsen/`; de filerna
+hoppas nu över (K23).

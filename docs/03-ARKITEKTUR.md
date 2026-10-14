@@ -490,7 +490,10 @@ upptäckten avbryts den, och listan blir tom.
   över och står i sammanfattningen efter
   "Arkivet:". Utan fillistan blir det inga kandidater alls.
 - **Episerver-mapparna.** CDX-tjänsten ger, med `matchType=prefix`, alla
-  PDF:er under varje mapp. Varje fil får sin största kopia och vid lika
+  PDF:er under varje mapp, men också under syskonmappar vars namn börjar
+  likadant (`Kommunstyrelsens arbetsutskott/` för `Kommunstyrelsen/`).
+  Bara filer vars sökväg börjar med mappen, utan hänsyn till stora och
+  små bokstäver, läses. Varje fil får sin största kopia och vid lika
   den äldsta ([Episerver](#episerver)). Kandidatens `kalla` är mappen. En
   mapp som arkivet inte svarar för står i sammanfattningen.
 

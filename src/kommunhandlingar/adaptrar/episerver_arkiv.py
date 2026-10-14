@@ -5,7 +5,8 @@ Organens mappar i Episerver-generationerna ur Internet Archive. Varje PDF
 under en mapp är en fil, också när arkivet har den under http och https,
 med och utan www; filen får arkivets största kopia och vid lika den äldsta.
 En mapp som arkivet inte svarar för hoppas över och returneras som en
-notering. Ett mötes filer av samma typ i samma mapp, till exempel en per
+notering. En fil i en syskonmapp som börjar likadant hör inte till mappen.
+Ett mötes filer av samma typ i samma mapp, till exempel en per
 ärende, blir en kandidat i delar, i sökvägarnas ordning med talen som tal.
 Mappen hör till gruppen, så att två nämnder som lagts under samma organ
 inte slås ihop när de möttes samma dag.
@@ -65,7 +66,7 @@ def las_mapp(
     kalla: episerver.Kalla, organ: str, mapp: str, kopior: list[wayback.Kopia]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
     kandidater, avvisade = [], []
-    for kopia in basta(kopior).values():
+    for kopia in basta([k for k in kopior if inne_i(mapp, k)]).values():
         try:
             kandidater.append(kandidat(kalla, organ, mapp, kopia))
         except IngenKandidat as fel:
@@ -101,6 +102,15 @@ def kandidat(
         kallnyckel=nyckel,
         filnamn=filnamn(kopia),
     )
+
+
+def inne_i(mapp: str, kopia: wayback.Kopia) -> bool:
+    """Arkivets prefix tar också syskonmappar med längre namn, som
+    "Kommunstyrelsens arbetsutskott/" för "Kommunstyrelsen/". Arkivet
+    skiljer inte på stora och små bokstäver, så inte jämförelsen heller."""
+    mappens = unquote(mapp.split("/", 1)[1]).casefold()
+    sokvag = unquote(urlsplit(kopia.original).path).lstrip("/")
+    return sokvag.casefold().startswith(mappens)
 
 
 def under(mapp: str, kopia: wayback.Kopia) -> str:
