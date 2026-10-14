@@ -9,16 +9,16 @@ protokoll med text.
 
 from html import escape
 
-from kommunhandlingar.webbplats.mal import SLAG, Mal
-from kommunhandlingar.webbplats.malspar import arets, egenskaper, forsta
+from kommunhandlingar.webbplats.mal import SLAG, Mal, jamforbar
+from kommunhandlingar.webbplats.malspar import arets, egenskaper
 from kommunhandlingar.webbplats.statusikon import teckenforklaring
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
 MARKERINGAR = {"uppföljning": "godkänd uppföljning", "dragning": "dragning om målen"}
 KLASS = {"uppföljning": "godkand", "dragning": "dragning"}
-MARKER = (
-    '<p class="teckenforklaring"><span><span class="byte">↳</span> ny rubrik '
-    'för samma mål</span> <span><span class="ny-formulering"></span> ny '
+BYTEN = (
+    '<p class="byten"><span><span aria-hidden="true">↳</span> ny rubrik för '
+    'samma mål</span> <span><span class="ny-formulering"></span> ny '
     "formulering under samma rubrik</span></p>"
 )
 
@@ -28,7 +28,7 @@ def tidslinje(spar: list[list[Mal]], ar: range, luckor: set[int], namnden: str) 
     huvud = "".join(arskolumn(a, a in luckor, a in med_mal) for a in ar)
     grupper = "".join(slagets(slag, spar, ar) for slag in SLAG)
     return (
-        f'<h2 id="tidslinje">Tidslinje</h2>{teckenforklaring()}{MARKER}'
+        f'<h2 id="tidslinje">Tidslinje</h2>{teckenforklaring()}{BYTEN}'
         '<div class="tabell">'
         '<table class="tidslinje"><thead><tr><th scope="col">Mål eller direktiv'
         f"</th>{huvud}</tr></thead>{grupper}{namnden}</table></div>"
@@ -46,41 +46,39 @@ def arskolumn(ar: int, lucka: bool, med_mal: bool) -> str:
 
 
 def slagets(slag: str, spar: list[list[Mal]], ar: range) -> str:
-    slagets_rader = "".join(
+    spar_rader = "".join(
         rader(nr, malen, ar) for nr, malen in enumerate(spar) if malen[-1].slag == slag
     )
-    if not slagets_rader:
+    if not spar_rader:
         return ""
     rubrik = f'<th scope="colgroup" colspan="{len(ar) + 1}">{slag.capitalize()}</th>'
-    return f'<tbody><tr class="slag">{rubrik}</tr>{slagets_rader}</tbody>'
+    return f'<tbody><tr class="slag">{rubrik}</tr>{spar_rader}</tbody>'
 
 
-# Ett spår som bytt rubrik har en rad per rubrik, i den ordning de först
-# står, så att det syns vad målet hette vilket år.
 def rader(nr: int, malen: list[Mal], ar: range) -> str:
+    egenskap = egenskaper(nr, malen, ar)
     return "".join(
-        rad(nr, malen, [m for m in malen if m.namn == namn], ar)
-        for namn in forsta(malen)
+        f"<tr {egenskap}>{rubrikcell(nr, malen, rubrikens[0])}"
+        f"{''.join(cell(rubrikens, a) for a in ar)}</tr>"
+        for rubrikens in per_rubrik(malen)
     )
 
 
-def rad(nr: int, malen: list[Mal], rubrikens: list[Mal], ar: range) -> str:
-    celler = "".join(cell(rubrikens, a) for a in ar)
-    rubrik = rubrikcell(nr, malen, rubrikens[0])
-    return f"<tr {egenskaper(nr, malen, ar)}>{rubrik}{celler}</tr>"
+# Ett slagbyte med samma rubrik är ingen ny rubrik.
+def per_rubrik(malen: list[Mal]) -> list[list[Mal]]:
+    rubriker = dict.fromkeys(m.rubrik.casefold() for m in malen)
+    return [[m for m in malen if m.rubrik.casefold() == r] for r in rubriker]
 
 
 def rubrikcell(nr: int, malen: list[Mal], mal: Mal) -> str:
     lank = f'<a href="#mal-{nr}">{escape(mal.rubrik)}</a>'
     tolkad = " <small>tolkad</small>" * (mal.tolkad == "ja")
     slag = f" <small>{mal.slag}</small>" * (mal.slag != malen[-1].slag)
-    if mal is malen[0]:
-        return f'<th scope="row">{lank}{tolkad}{slag}</th>'
     byte = (
         '<span class="byte" aria-hidden="true">↳</span>'
         f'<span class="dold">Ny rubrik {mal.ar}: </span>'
-    )
-    return f'<th scope="row" class="ny">{byte}{lank}{tolkad}{slag}</th>'
+    ) * (mal is not malen[0])
+    return f'<th scope="row">{byte}{lank}{tolkad}{slag}</th>'
 
 
 def cell(malen: list[Mal], ar: int) -> str:
@@ -94,11 +92,14 @@ def cell(malen: list[Mal], ar: int) -> str:
     return f'<td class="{klass}">{ny_formulering(malen, ar)}{ikon}</td>'
 
 
-# Samma rubrik kan få en ny formulering; den markeras det år den först står.
+# En formulering är ny när ingen av årets står året innan med formulering.
 def ny_formulering(malen: list[Mal], ar: int) -> str:
-    tidigare = [m.formulering for m in malen if m.formulering and m.ar < ar]
+    tidigare = [m for m in malen if m.formulering and m.ar < ar]
     nu = [m.formulering for m in malen if m.formulering and m.ar == ar]
-    if not nu or not tidigare or likadan(nu[0], tidigare[-1]):
+    if not nu or not tidigare:
+        return ""
+    forra = {lik(m.formulering) for m in tidigare if m.ar == tidigare[-1].ar}
+    if forra & {lik(f) for f in nu}:
         return ""
     text = escape(f"Ny formulering: {nu[0]}")
     return (
@@ -107,8 +108,8 @@ def ny_formulering(malen: list[Mal], ar: int) -> str:
     )
 
 
-def likadan(en: str, annan: str) -> bool:
-    return " ".join(en.split()).casefold() == " ".join(annan.split()).casefold()
+def lik(formulering: str) -> str:
+    return jamforbar(formulering).casefold()
 
 
 def namnden_rad(uppfoljda: list[Uppfoljning], protokollar: set[int], ar: range) -> str:

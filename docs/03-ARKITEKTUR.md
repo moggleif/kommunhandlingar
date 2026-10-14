@@ -1533,8 +1533,10 @@ filen (K26), länkad från organets sida.
     de först står, där varje rad efter den första är märkt som en ny rubrik
     (och tolkad där den är det), så att det syns vilken rubrik målet hade
     vilket år ([ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)).
-    Ett år då samma rubrik får en ny formulering har en markering med
-    formuleringen i pekrutan. Rubriken länkar till kortet. Med en
+    Ett år då ingen av rubrikens formuleringar står året innan med
+    formulering har en markering med formuleringen i pekrutan; samma
+    jämförelse som när bygget prövar källan, utan versaler. Ett slagbyte
+    med samma rubrik ger ingen ny rad. Rubriken länkar till kortet. Med en
     uppföljningsfil står sist nämndens uppföljningar och dragningar om
     målen, en markering per paragraf, och ett streck för år utan protokoll
     med text. Ett spår som varit både nämndmål och direktiv står under sitt

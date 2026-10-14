@@ -873,14 +873,18 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   länkar till målets kort.
 - **Givet** ett mål som bytt rubrik
 - **När** tidslinjen visas
-- **Så** har varje rubrik en egen rad, märkt som en ny rubrik för samma
-  mål och tolkad där kopplingen är en bedömning, direkt under den förra
-  och i den ordning de först står. Det syns vilken rubrik målet hade
-  vilket år, och inget år visas under en rubrik det inte hade
+- **Så** har varje rubrik en egen rad, i den ordning de först står, och
+  varje rad efter den första är märkt som en ny rubrik för samma mål. En
+  rubrik vars koppling till målet är en bedömning är märkt tolkad. Det
+  syns vilken rubrik målet hade vilket år, och inget år visas under en
+  rubrik det inte hade. Ett mål som bytt slag men inte rubrik har en rad
   ([ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)).
-- **Givet** en rubrik vars formulering ändras från ett år till ett annat
+- **Givet** en rubrik där ingen av årets formuleringar står året innan
+  med formulering
 - **När** tidslinjen visas
-- **Så** är året markerat, med den nya formuleringen i pekrutan.
+- **Så** är året markerat som en ny formulering, med den i pekrutan.
+  Radbrytningar, versaler och punkter räknas inte, och olika
+  formuleringar inom samma år markeras inte.
 - **Givet** en kommun med en fil över nämndernas uppföljningar (K28)
 - **När** tidslinjen visas
 - **Så** har den sist en rad med nämndens uppföljningar och dragningar om
@@ -895,7 +899,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Givet** ett mål som varit både nämndmål och direktiv
 - **När** sidan visas
 - **Så** står det i tidslinjen under sitt senaste slag, med det andra
-  slaget vid de rubriker som hade det, och kortet har båda slagen och slaget på varje rad i historiken.
+  slaget vid de rubriker som hade det, och kortet har båda slagen och
+  slaget på varje rad i historiken.
 - **Givet** ett år inom målens år med dokument från organet men utan mål,
   eller dokument från år före de första målen
 - **När** sidan visas

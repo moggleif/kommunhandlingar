@@ -40,11 +40,15 @@ en smal skärm.
 * Raderna står i den ordning rubrikerna först står, och varje rad efter
   den första är märkt med en pil och "Ny rubrik år:" för skärmläsare.
   En tolkad rubrik är märkt tolkad, och en rubrik av ett annat slag än
-  målets senaste har sitt slag utskrivet.
+  målets senaste har sitt slag utskrivet. Ett slagbyte med samma rubrik
+  är ingen ny rubrik.
 * Varje rad har sitt eget band med årets status, så att trappan visar
   när målet bytte rubrik.
-* Ett år då samma rubrik får en ny formulering, jämfört med året innan
-  med formulering, har en punkt med den nya formuleringen i pekrutan.
+* Ett år då ingen av rubrikens formuleringar står året innan med
+  formulering har en punkt med den nya formuleringen i pekrutan.
+  Radbrytningar, versaler och punkter räknas inte, och olika
+  formuleringar inom samma år markeras inte, eftersom ett dokument kan
+  citera en förkortad formulering.
   Hela formuleringen står i kortets historik.
 * Urvalet och korten är som förut; alla rader för ett mål hör till samma
   kort.

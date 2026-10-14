@@ -48,10 +48,10 @@ table.tidslinje td.slut::before { right: 8%; border-radius: 0 999px 999px 0; }
 table.tidslinje td.start.slut::before { border-radius: 999px; }
 table.tidslinje td .status { position: relative; }
 table.tidslinje tr[data-mal]:hover { background: var(--yta); }
-.tidslinje th.ny { padding-left: 0.9rem; position: relative; }
+table.tidslinje th[scope="row"]:has(.byte) { padding-left: 0.9rem; position: relative; }
 .byte { position: absolute; left: 0; color: var(--accent); }
-.teckenforklaring .byte { position: static; }
-p.teckenforklaring { margin-top: 0; }
+.byten { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin-top: 0;
+         color: var(--dampad); }
 .ny-formulering { display: inline-block; width: 0.5rem; height: 0.5rem;
                   border-radius: 50%; background: var(--accent); }
 td .ny-formulering { position: absolute; top: 50%; left: 14%; margin-top: -0.25rem; }
